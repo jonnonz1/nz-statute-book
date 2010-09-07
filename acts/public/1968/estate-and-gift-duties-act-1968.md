@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2010-09-07_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -10,79 +10,44 @@ _Consolidation as at 2009-10-06_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Administration** means any probate, letters of administration, rule or order of any Court, or any other document whereby any person becomes entitled at law to administer the estate of a deceased person or any part of his estate; and includes all probates or letters of administration granted out of New Zealand and all exemplifications thereof, if those probates, letters of administration, or exemplifications have been resealed in New Zealand under the Administration Act 1969. For the purposes of this Act, any probate or letters of administration granted out of New Zealand shall be deemed to have been granted when the probate or letters of administration or an exemplification thereof are resealed in New Zealand
-  - **Administrator** means any person to whom administration has been granted, or who is entitled in consequence of any other administration to administer the estate of a deceased person or any part of his estate
+  - **administration** means any probate, letters of administration, rule or order of any Court, or any other document whereby any person becomes entitled at law to administer the estate of a deceased person or any part of his estate; and includes all probates or letters of administration granted out of New Zealand and all exemplifications thereof, if those probates, letters of administration, or exemplifications have been resealed in New Zealand under the Administration Act 1969. For the purposes of this Act, any probate or letters of administration granted out of New Zealand shall be deemed to have been granted when the probate or letters of administration or an exemplification thereof are resealed in New Zealand
+  - **administrator** means any person to whom administration has been granted, or who is entitled in consequence of any other administration to administer the estate of a deceased person or any part of his estate
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
-  - **Commonwealth**
-  - **Debenture** includes debenture stock, bonds, convertible notes, and any other securities of a company, whether constituting a charge on the assets of the company or not
-  - **Debt** includes any pecuniary liability, charge, or encumbrance
-  - **Deceased person** or
-  - **Deceased serviceman**
-  - **Emergency force**
-  - **Foreign assets**
-  - **General power of appointment**
-  - **Group superannuation scheme** means—
-    (a) Any fund, plan, or scheme, under the Government Superannuation Fund Act 1956 or the National Provident Fund Act 1950:
-    (b) Any fund, plan, or scheme established for the purpose of providing superannuation benefits, or death benefits, or superannuation and death benefits, in respect of the employees of an employer or any class or classes of those employees:
-    (c) Any superannuation fund established for the benefit of contributors thereto otherwise than as employees of any employer, and approved or registered under the Superannuation Schemes Act 1989:
+  - **debenture** includes debenture stock, bonds, convertible notes, and any other securities of a company, whether constituting a charge on the assets of the company or not
+  - **debt** includes any pecuniary liability, charge, or encumbrance
+  - **group superannuation scheme** means—
+    (a) any fund, plan, or scheme, under the Government Superannuation Fund Act 1956 or the National Provident Fund Act 1950:
+    (b) any fund, plan, or scheme established for the purpose of providing superannuation benefits, or death benefits, or superannuation and death benefits, in respect of the employees of an employer or any class or classes of those employees:
+    (c) any superannuation fund established for the benefit of contributors thereto otherwise than as employees of any employer, and approved or registered under the Superannuation Schemes Act 1989:
     (d)
-  - **Infant child of the deceased**
-  - **Interest on gift duty** means interest payable in accordance with Part 7 of the Tax Administration Act 1994 on unpaid or overpaid gift duty
-  - **Minister**
-  - **Orphan infant child**
-  - **Penalty on gift duty** means a late payment penalty computed and payable in respect of unpaid gift duty in accordance with section 139B of the Tax Administration Act 1994
-  - **Pension** includes any annuity or other periodical payment, by whatever name it is called
-  - **Prescribed** , in relation to any form, means prescribed either by the Commissioner or by regulations made under the Tax Administration Act 1994
-  - **Share** includes stock
+  - **interest on gift duty** means interest payable in accordance with Part 7 of the Tax Administration Act 1994 on unpaid or overpaid gift duty
+  - **penalty on gift duty** means a late payment penalty computed and payable in respect of unpaid gift duty in accordance with section 139B of the Tax Administration Act 1994
+  - **pension** includes any annuity or other periodical payment, by whatever name it is called
+  - **prescribed** , in relation to any form, means prescribed either by the Commissioner or by regulations made under the Tax Administration Act 1994
+  - **share** includes stock
   - **Taxation Review Authority** , or , means a Taxation Review Authority established under the Taxation Review Authorities Act 1994
-  - **Will** includes any testamentary instrument.
+  - **will** includes any testamentary instrument.
 (2) In this Act—
-  - **Allowable debt**
-  - **Charitable allowance**
-  - **Charitable succession**
-  - **Charitable successor**
-  - **Deceased successor**
-  - **Disposition of property** means any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity; and, without limiting the generality of the foregoing provisions of this definition, includes—but does not include a disclaimer of an interest under a disposition made inter vivos or by will or of an interest under an intestacy
-    (a) The issue of shares in a company:
-    (b) The creation of a trust:
-    (c) The grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property:
-    (d) The release, discharge, surrender, forfeiture, or abandonment of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
-    (e) The exercise of a general power of appointment in favour of any person other than the holder of the power:
-    (f) Any transaction or series of related or connected transactions entered into by any person with intent thereby to diminish, directly or indirectly, the value of his own estate and to increase the value of the estate of any other person; and for this purpose the passing by a company of a resolution which, by the extinguishment or alteration of the rights attaching to any shares or debentures of the company, results, directly or indirectly, in the estate of any shareholder or debenture holder of the company being increased in value at the expense of the estate of any other shareholder or debenture holder shall be deemed to be a transaction entered into by that other shareholder or debenture holder if he could have prevented the passing of the resolution by voting against it or otherwise;—
-  - **Donee** means—and includes a body corporate and, unless the context otherwise requires, the administrator of a deceased donee
-    (a) Any person becoming entitled to any beneficial interest under a gift; or
-    (b) Any person to whom property passes under a gift to be held for the purpose of creating a charitable trust, or for the establishment of any society or institution exclusively for charitable purposes, or to aid any such trust, society, or institution; or
-    (c) Any trust, society, or institution which receives a gift—
-  - **Donor** means the maker of a gift; and includes a body corporate and, unless the context otherwise requires, the administrator of a deceased donor
-  - **Dutiable estate**
+  - **disposition of property** means any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity; and, without limiting the generality of the foregoing provisions of this definition, includes—but does not include a disclaimer of an interest under a disposition made inter vivos or by will or of an interest under an intestacy
+    (a) the issue of shares in a company:
+    (b) the creation of a trust:
+    (c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property:
+    (d) the release, discharge, surrender, forfeiture, or abandonment of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
+    (e) the exercise of a general power of appointment in favour of any person other than the holder of the power:
+    (f) any transaction or series of related or connected transactions entered into by any person with intent thereby to diminish, directly or indirectly, the value of his own estate and to increase the value of the estate of any other person; and for this purpose the passing by a company of a resolution which, by the extinguishment or alteration of the rights attaching to any shares or debentures of the company, results, directly or indirectly, in the estate of any shareholder or debenture holder of the company being increased in value at the expense of the estate of any other shareholder or debenture holder shall be deemed to be a transaction entered into by that other shareholder or debenture holder if he could have prevented the passing of the resolution by voting against it or otherwise;—
+  - **donee** means—and includes a body corporate and, unless the context otherwise requires, the administrator of a deceased donee
+    (a) any person becoming entitled to any beneficial interest under a gift; or
+    (b) any person to whom property passes under a gift to be held for the purpose of creating a charitable trust, or for the establishment of any society or institution exclusively for charitable purposes, or to aid any such trust, society, or institution; or
+    (c) any trust, society, or institution which receives a gift—
+  - **donor** means the maker of a gift; and includes a body corporate and, unless the context otherwise requires, the administrator of a deceased donor
   - **dutiable gift** means a dutiable gift within the meaning of section 63 of this Act
-  - **general power of appointment** includes—
-    (a) any power or authority created on or before the 31st day of March 1967 that—
-      (i) is conferred by the will of any person dying on or before that date, or is conferred by any settlement inter vivos executed on or before that date, or is created in any other manner on or before that date; and
-      (ii) enables, or would enable if the holder were of full capacity, the holder of the power or authority to appoint or dispose of any property, or to charge any sum of money upon any property, as the holder thinks fit for the holder's own benefit; and
-      (iii) is exercisable by instrument inter vivos or by will; and
-      (iv) is not a power or authority exercisable by a person in a fiduciary capacity under a disposition not made by the person, or exercisable by a mortgagee:
-    (b) any power or authority created on or after the 1st day of April 1967 that—
-      (i) is conferred by the will of any person dying on or after that date, or is conferred by any settlement inter vivos executed on or after that date, or is created in any other manner on or after that date; and
-      (ii) enables, or would enable if the holder were of full capacity, the holder of the power or authority to obtain or appoint or dispose of any property, or to charge any sum of money upon any property, as the holder thinks fit for the holder's own benefit; and
-      (iii) is exercisable orally or by instrument inter vivos or by will or otherwise; and
-      (iv) is not a power or authority exercisable by a person in a fiduciary capacity under a disposition not made by the person, or exercisable by a mortgagee
-  - **Final balance**
-  - **Gift** means any disposition of property, wherever and howsoever made, otherwise than by will, without fully adequate consideration in money or money's worth passing to the person making the disposition
-    Provided that where the consideration in money or money's worth is inadequate, the disposition shall be deemed to be a gift to the extent of that inadequacy only:
-  - **Matrimonial home allowance**
-  - **Matrimonial property**
-  - **Personal chattels**
-  - **Predecessor**
-  - **Succession**
-  - **Successor**
-  - **Voluntary contract** means any contract entered into, whether with or without an instrument in writing, without fully adequate consideration in money or money's worth
-    Provided that where the consideration in money or money's worth is inadequate, the contract shall be deemed to be voluntary to the extent of that inadequacy only.
+  - **gift** means any disposition of property, wherever and howsoever made, otherwise than by will, without fully adequate consideration in money or money's worth passing to the person making the disposition:provided that where the consideration in money or money's worth is inadequate, the disposition shall be deemed to be a gift to the extent of that inadequacy only
+  - **voluntary contract** means any contract entered into, whether with or without an instrument in writing, without fully adequate consideration in money or money's worth:provided that where the consideration in money or money's worth is inadequate, the contract shall be deemed to be voluntary to the extent of that inadequacy only.
 (3) For the purposes of this Act—
-  (a) Persons are connected by blood relationship if within the fourth degree of relationship:
-  (b) Persons are connected by marriage, civil union or de facto relationship if one is in a marriage, civil union or de facto relationship with the other or with a person who is connected by blood relationship to the other:
-  (c) Persons are connected by adoption if one has been adopted as the child of the other or as the child of a person who is within the third degree of relationship to the other:
-  (d) Illegitimate relationship shall be equivalent to legitimate relationship.
+  (a) persons are connected by blood relationship if within the fourth degree of relationship:
+  (b) persons are connected by marriage, civil union or de facto relationship if one is in a marriage, civil union or de facto relationship with the other or with a person who is connected by blood relationship to the other:
+  (c) persons are connected by adoption if one has been adopted as the child of the other or as the child of a person who is within the third degree of relationship to the other:
+  (d) illegitimate relationship shall be equivalent to legitimate relationship.
 
 ## Part 1 — Estate duty
 
@@ -315,26 +280,26 @@ _Consolidation as at 2009-10-06_
 Subject to this Act, a duty (in this Act referred to as gift duty) shall be payable to the Crown in respect of every dutiable gift which is made after the commencement of this Act.
 
 ### 62 Rates of gift duty
-Gift duty shall be charged and assessed on each dutiable gift in accordance with the following formula:where—
+Gift duty shall be charged and assessed on each dutiable gift in accordance with the following formula: a× c b where—
   (a) is the value of the dutiable gift; and
   (b) is the value of the dutiable gift together with any other dutiable gifts made at the same time or within 12 months subsequently or previously (whether before or after the commencement of this Act) by the same donor to the same or any other donee; and
-  (c) is the amount of gift duty payable on item b at the rate set out in Schedule 3 to this Act:
+  (c) is the amount of gift duty payable on item b at the rate set out in Schedule 3 to this Act.
 
 ### 63 Dutiable gift
 (1) Subject to this Act, a dutiable gift shall include and consist of—
-  (a) All the property, wherever situated, comprised in any gift made by any donor to any donee, where the donor is domiciled in New Zealand at the date of the gift, or is a body corporate incorporated in New Zealand:
-  (b) All the property, situated in New Zealand, comprised in any gift made by any donor to any donee, where the donor is domiciled out of New Zealand at the date of the gift, or is a body corporate incorporated out of New Zealand.
+  (a) all the property, wherever situated, comprised in any gift made by any donor to any donee, where the donor is domiciled in New Zealand at the date of the gift, or is a body corporate incorporated in New Zealand:
+  (b) all the property, situated in New Zealand, comprised in any gift made by any donor to any donee, where the donor is domiciled out of New Zealand at the date of the gift, or is a body corporate incorporated out of New Zealand.
 (2) For the purpose of subsection (1)(b), the situation of the classes of property referred to in this subsection is determined as follows:
-  (a) A seagoing ship, or a share or interest in such a ship, is treated as property situated in New Zealand if the ship is registered in New Zealand, and in other cases is treated as property situated outside New Zealand:
-  (b) Property at sea, other than a seagoing ship, is treated as being situated in New Zealand if in the course of transit, directly or indirectly, to New Zealand, and in other cases is treated as being situated outside New Zealand:
-  (c) The situation of a debt payable under a bond or other deed is not determined by where the bond or deed is situated:
-  (d) A debt owing by a corporation, whether incorporated in New Zealand or elsewhere, is treated as property situated in New Zealand if the debt was incurred or is payable in New Zealand and the corporation has an office or place of business in New Zealand, and in other cases is treated as being property situated outside New Zealand:
-  (e) A debt owing by a person or persons other than a corporation is treated as property situated in New Zealand if any of the debtors are resident in New Zealand, and in other cases is treated as property situated outside New Zealand:
-  (f) A debt owing by the Crown on behalf of the Government of New Zealand is treated as property situated in New Zealand if the debt was incurred or is payable in New Zealand, and in other cases is treated as property situated outside New Zealand:
-  (g) Despite paragraphs (a) to (f), a debt represented by an instrument which is negotiable in New Zealand is treated as being property situated in the country in which the instrument is, or is treated as being, situated:
-  (h) Despite paragraphs (a) to (g), a debt which is secured by mortgage, charge or otherwise on property situated or treated as being situated in New Zealand is treated itself as being situated in New Zealand, unless the value of the security is less than the debt's value, in which case the debt is treated as being situated in New Zealand to the extent of the value of the security:
-  (i) Shares in a company incorporated in New Zealand are treated as property situated in New Zealand:
-  (j) Shares in a company incorporated outside of New Zealand are treated as property situated outside of New Zealand, except shares registered in a branch register in New Zealand under a law in force in another part of the Commonwealth.
+  (a) a seagoing ship, or a share or interest in such a ship, is treated as property situated in New Zealand if the ship is registered in New Zealand, and in other cases is treated as property situated outside New Zealand:
+  (b) property at sea, other than a seagoing ship, is treated as being situated in New Zealand if in the course of transit, directly or indirectly, to New Zealand, and in other cases is treated as being situated outside New Zealand:
+  (c) the situation of a debt payable under a bond or other deed is not determined by where the bond or deed is situated:
+  (d) a debt owing by a corporation, whether incorporated in New Zealand or elsewhere, is treated as property situated in New Zealand if the debt was incurred or is payable in New Zealand and the corporation has an office or place of business in New Zealand, and in other cases is treated as being property situated outside New Zealand:
+  (e) a debt owing by a person or persons other than a corporation is treated as property situated in New Zealand if any of the debtors are resident in New Zealand, and in other cases is treated as property situated outside New Zealand:
+  (f) a debt owing by the Crown on behalf of the Government of New Zealand is treated as property situated in New Zealand if the debt was incurred or is payable in New Zealand, and in other cases is treated as property situated outside New Zealand:
+  (g) despite paragraphs (a) to (f), a debt represented by an instrument which is negotiable in New Zealand is treated as being property situated in the country in which the instrument is, or is treated as being, situated:
+  (h) despite paragraphs (a) to (g), a debt which is secured by mortgage, charge or otherwise on property situated or treated as being situated in New Zealand is treated itself as being situated in New Zealand, unless the value of the security is less than the debt's value, in which case the debt is treated as being situated in New Zealand to the extent of the value of the security:
+  (i) shares in a company incorporated in New Zealand are treated as property situated in New Zealand:
+  (j) shares in a company incorporated outside of New Zealand are treated as property situated outside of New Zealand, except shares registered in a branch register in New Zealand under a law in force in another part of the Commonwealth.
 
 ### 64 When voluntary contracts to be deemed gifts
 (1) A disposition of property made in performance or satisfaction of a voluntary contract shall be deemed to be a gift, whether the contract or disposition was made before or after the commencement of this Act.
@@ -343,9 +308,9 @@ Gift duty shall be charged and assessed on each dutiable gift in accordance with
 ### 65 Disposition of property by controlled company
 (1) For the purposes of this section, the term controlled company means any company that, at the time when the disposition of property is made, is controlled by or on behalf of any one person (in this section referred to as the controlling person), whether directly or indirectly, and whether through holding a majority of the shares in the company or in any other company, or in any other manner whatever.
 (2) Where a disposition of property is made by a controlled company to or for the benefit of—the disposition shall be deemed for the purposes of this Act to be made by that controlling person, and any consideration received therefor by that controlled company shall be deemed to have been received by that controlling person, and any act or thing done or effected by that controlled company shall be deemed to have been done or effected by that controlling person:
-  (a) Any person connected with the controlling person of that controlled company by blood relationship, marriage, civil union or de facto relationship, or adoption; or
-  (b) Any company that is, at the time when the disposition is made, controlled by any person or persons connected with that controlling person by blood relationship, marriage, civil union or de facto relationship, or adoption, or by any other person or persons on behalf of the person or persons first-mentioned in this paragraph, and, in each case, whether directly or indirectly, and whether through holding a majority of the shares in the company or in any other company, or in any other manner whatever,—
-  Provided that the payment by that controlled company of the gift duty, penalty on gift duty, or interest on gift duty in respect of any such disposition shall not constitute a dutiable gift.
+  (a) any person connected with the controlling person of that controlled company by blood relationship, marriage, civil union or de facto relationship, or adoption; or
+  (b) any company that is, at the time when the disposition is made, controlled by any person or persons connected with that controlling person by blood relationship, marriage, civil union or de facto relationship, or adoption, or by any other person or persons on behalf of the person or persons first-mentioned in this paragraph, and, in each case, whether directly or indirectly, and whether through holding a majority of the shares in the company or in any other company, or in any other manner whatever,—
+  provided that the payment by that controlled company of the gift duty, penalty on gift duty, or interest on gift duty in respect of any such disposition shall not constitute a dutiable gift.
 
 **Valuation of dutiable gift**
 
@@ -361,22 +326,22 @@ For gift duty purposes, and subject to sections 68 to 70 of this Act, the value 
 ### 68A Valuation of land
 (1) In this section, capital value and land have the meanings set out in the Rating Valuations Act 1998.
 (2) For the purpose of gift duty, the value of land situated in New Zealand must be either—
-  (a) Determined by agreement between the Commissioner and the donor; or
-  (b) In the absence of an agreement, determined by the Commissioner in accordance with—
-    (i) The capital value of the land as it appears in the district valuation roll in force under the Rating Valuations Act 1998 on the date that the value of the land is to be determined, together with the cost of improvements that are not included in the valuation that appears in the roll; or
-    (ii) A special valuation of the capital value of the land, made by a registered valuer at the request of the Commissioner for the purpose of this Act, on the date that the value of the land is to be determined.
+  (a) determined by agreement between the Commissioner and the donor; or
+  (b) in the absence of an agreement, determined by the Commissioner in accordance with—
+    (i) the capital value of the land as it appears in the district valuation roll in force under the Rating Valuations Act 1998 on the date that the value of the land is to be determined, together with the cost of improvements that are not included in the valuation that appears in the roll; or
+    (ii) a special valuation of the capital value of the land, made by a registered valuer at the request of the Commissioner for the purpose of this Act, on the date that the value of the land is to be determined.
 (3) If the value of land has been determined by the Commissioner in accordance with subsection (2)(b)(i), the donor may, no later than 1 month after the date on which the notice of the determination is given, or within such extended time as the Commissioner may allow, require the Commissioner to redetermine the value of the land in accordance with subsection (2)(b)(ii).
 (4) If subsection (3) applies, the registered valuer's fee is recoverable by the Commissioner from the donor as a debt due to the Crown.
 (5) A registered valuer who makes a special valuation of land under subsection (2) or (3) must give notice of the amount of the valuation to the Commissioner.
 (6) If the Commissioner receives notice of a special valuation, the Commissioner must—
-  (a) Determine the value of the land in accordance with the special valuation; and
-  (b) Give notice of the determination to the donor.
+  (a) determine the value of the land in accordance with the special valuation; and
+  (b) give notice of the determination to the donor.
 (7) If subsection (6) applies, section 82(3) applies accordingly.
 (8) Subject to section 68B, a determination or redetermination of the value of land made under this section is final and conclusive.
 (9) The district valuation roll is not to be altered as a result of—
-  (a) An agreement reached for the purpose of this section; or
-  (b) A valuation or revaluation made for the purpose of this section; or
-  (c) A decision of a territorial authority or a Land Valuation Tribunal in accordance with section 68B of this Act and Part 4 of the Rating Valuations Act 1998.
+  (a) an agreement reached for the purpose of this section; or
+  (b) a valuation or revaluation made for the purpose of this section; or
+  (c) a decision of a territorial authority or a Land Valuation Tribunal in accordance with section 68B of this Act and Part 4 of the Rating Valuations Act 1998.
 
 ### 68B Objections to special valuations of land
 (1) In this section, land and owner have the meanings set out in the Rating Valuations Act 1998.
@@ -389,34 +354,34 @@ For gift duty purposes, and subject to sections 68 to 70 of this Act, the value 
 ### 68C Valuation of shares
 (1) For the purpose of gift duty, when determining the value of shares in a company, the Commissioner may not take account of provisions in the company's constitution, in any agreement, deed or writing or in any other manner whatsoever that restricts the transfer or alienation of those shares, except to the extent that the Commissioner considers that the restrictive provisions are reasonable having regard to all relevant matters.
 (2) Relevant matters to which the Commissioner must have regard include—
-  (a) The contribution to the company made by any relevant shareholder by way of services, management, capital or otherwise; and
-  (b) The benefits received from the company by that shareholder.
+  (a) the contribution to the company made by any relevant shareholder by way of services, management, capital or otherwise; and
+  (b) the benefits received from the company by that shareholder.
 
 ### 68D Valuation of debt due to donor or controlled company
 (1) In this section, controlled company means a company that immediately before a gift is made is controlled by or on behalf of—
-  (a) The donor; or
-  (b) A person connected with the donor by blood relationship, marriage, civil union or de facto relationship or adoption; or
-  (c) The donor and a person who meets paragraph (b).
+  (a) the donor; or
+  (b) a person connected with the donor by blood relationship, marriage, civil union or de facto relationship or adoption; or
+  (c) the donor and a person who meets paragraph (b).
 (2) For the purpose of subsection (1), control may be direct or indirect, or may be through the holding of a majority of shares in the company or any other company, or in any other manner whatsoever.
 (3) Subsection (4) applies if a dutiable gift is made in respect of a debt which is owed to a donor or a controlled company by—
-  (a) A person connected with the donor by blood relationship, marriage, civil union or de facto relationship or adoption; or
-  (b) A controlled company; or
-  (c) A trustee for—
-    (i) A person who meets paragraph (a); or
-    (ii) A controlled company.
+  (a) a person connected with the donor by blood relationship, marriage, civil union or de facto relationship or adoption; or
+  (b) a controlled company; or
+  (c) a trustee for—
+    (i) a person who meets paragraph (a); or
+    (ii) a controlled company.
 (4) For the purpose of gift duty, the value of the debt is determined without taking into taking into account that all or part of the debt may not be payable on or before the date of its valuation.
 (5) This section does not apply to a debt if the Commissioner is satisfied that the donor or the controlled company and the debtor were at all times dealing with each other in such a manner and on such terms as would be expected if the debtor were not the person, controlled company or trustee referred to in subsection (3).
 
 ### 68E Valuation of share or interest in partnership
 (1) For the purpose of gift duty, when determining the value of a share or interest in a partnership, the Commissioner may not take account of provisions in an agreement or arrangement by the partners that restricts the value of that share or interest, except to the extent that the Commissioner considers that the restrictive provisions are reasonable having regard to all relevant matters.
 (2) Relevant matters to which the Commissioner must have regard include—
-  (a) The contribution to the partnership made by the respective partners by way of services, management, capital or otherwise; and
-  (b) The benefits received from the partnership by the respective partners.
+  (a) the contribution to the partnership made by the respective partners by way of services, management, capital or otherwise; and
+  (b) the benefits received from the partnership by the respective partners.
 
 ### 68F Valuation of annuities and life interests
 (1) For the purpose of gift duty—
-  (a) The life expectation of a person is treated as the period specified in Table A or Table B of Schedule 2, appropriate to the sex and age of the person; and
-  (b) The expectation of widowhood of a widow is treated as the period specified in Table C of Schedule 2, appropriate to the age of the widow.
+  (a) the life expectation of a person is treated as the period specified in Table A or Table B of Schedule 2, appropriate to the sex and age of the person; and
+  (b) the expectation of widowhood of a widow is treated as the period specified in Table C of Schedule 2, appropriate to the age of the widow.
 (2) Despite subsection (1), the Commissioner must determine the life expectation or widowhood of a person suffering from a mortal illness in such manner as the Commissioner thinks fit.
 (3) For the purpose of gift duty, the value of an annuity or other interest for the life of a person or for any other period, or the value of an interest expectant on death of a person or on any other event, is calculated on the basis of compound interest at the rate of 5% per annum with annual rests, and Tables A, B, C and D of Schedule 2 are to be used as far as they are applicable.
 
@@ -424,28 +389,28 @@ For gift duty purposes, and subject to sections 68 to 70 of this Act, the value 
 (1) For the purpose of gift duty, every contingency affecting the interest of the donee in the property that is comprised in a dutiable gift, or the value of that property, is treated as having been determined in the manner in which the Commissioner considers it probably will determine, and the interest is to be valued accordingly.
 (2) If the contingency determines differently from that assumed by the Commissioner, the interest must be revalued on the basis of the actual event and on the date on which the gift was made, and section 82(3) applies accordingly.
 (3) If an interest in or the value of property will be affected by a widow's remarriage, that possibility—
-  (a) Is not treated as a contingency under this section; but
-  (b) Is taken into account in valuing the interest in accordance with Table C of Schedule 2.
+  (a) is not treated as a contingency under this section; but
+  (b) is taken into account in valuing the interest in accordance with Table C of Schedule 2.
 
 ### 69 Valuation of property subject to encumbrances
 In valuing property for gift duty purposes, no deduction shall be allowed in respect of any mortgage, charge, encumbrance, or liability, in each case affecting or incident to the property if and so far as any person acquiring any beneficial interest in the property is entitled as against any other person or property to any available right of contribution or indemnity in respect of that mortgage, charge, encumbrance, or liability.
 
 ### 70 No deduction to be made in respect of benefit to donor
 (1) For the purposes of this section—
-  - **Ascertainable** means ascertainable as at the date of the disposition to the satisfaction of the Commissioner
-  - **Benefit or advantage** means any benefit or advantage whether charged upon or otherwise affecting the property comprised in the disposition or not, and whether—but does not include any annuity or other payment, whether periodical or not, if and so far as the annuity or payment—
-    (a) By way of any estate or interest in the same or any other property; or
-    (b) By way of mortgage or charge; or
-    (c) By way of any annuity or other payment, whether periodical or not; or
-    (d) By way of any contract for the benefit of the person making the disposition; or
-    (e) By way of any condition or power of revocation or other disposition; or
-    (f) In any other manner whatever;—
-    (g) Is of a fixed or ascertainable amount in money payable over a fixed or ascertainable period, or for life, or at a fixed or ascertainable date or dates, or on demand; and
-    (h) Is secured to the person making the disposition—in each case executed by the person acquiring the beneficial interest under the disposition.
-      (i) By a mortgage or charge over the property comprised in the disposition; or
-      (ii) By an agreement for the sale and purchase of land comprised in the disposition; or
-      (iii) By an agreement in writing to lease land comprised in the disposition; or
-      (iv) By deed,—
+  - **ascertainable** means ascertainable as at the date of the disposition to the satisfaction of the Commissioner
+  - **benefit or advantage** means any benefit or advantage whether charged upon or otherwise affecting the property comprised in the disposition or not, and whether—but does not include any annuity or other payment, whether periodical or not, if and so far as the annuity or payment—
+    (a) by way of any estate or interest in the same or any other property; or
+    (b) by way of mortgage or charge; or
+    (c) by way of any annuity or other payment, whether periodical or not; or
+    (d) by way of any contract for the benefit of the person making the disposition; or
+    (e) by way of any condition or power of revocation or other disposition; or
+    (f) in any other manner whatever;—
+    (g) is of a fixed or ascertainable amount in money payable over a fixed or ascertainable period, or for life, or at a fixed or ascertainable date or dates, or on demand; and
+    (h) is secured to the person making the disposition—in each case executed by the person acquiring the beneficial interest under the disposition.
+      (i) by a mortgage or charge over the property comprised in the disposition; or
+      (ii) by an agreement for the sale and purchase of land comprised in the disposition; or
+      (iii) by an agreement in writing to lease land comprised in the disposition; or
+      (iv) by deed,—
 (2) Where any disposition of property is, in whole or in part, a dutiable gift, and is made in consideration of, or with the reservation of, any benefit or advantage to or in favour of the person making the disposition, no deduction or allowance shall be made in respect of that benefit or advantage in calculating the value of the dutiable gift.
 (3) Notwithstanding anything in section 78 of this Act, the Commissioner may permit the cancellation or alteration of any instrument creating or evidencing a disposition of property to which this section applies, if application in writing is made by the parties to the instrument within 6 months after the date of the instrument, or within such extended time as the Commissioner thinks fit to allow in the special circumstances of the case. On evidence to his satisfaction being produced of any such cancellation or alteration, the disposition shall not constitute a dutiable gift except to the extent to which the transaction as altered constitutes a dutiable gift.
 
@@ -460,36 +425,43 @@ Where the Commissioner is satisfied that a gift, together with all other gifts m
 Where the Commissioner is satisfied that any gift is made for or towards the maintenance of the wife, husband, civil union partner, de facto partner, or any relative of the donor, or for or towards the education of any such relative, and is not excessive in amount, having regard to the legal or moral obligation of the donor to provide that maintenance or means of education, the gift shall not constitute a dutiable gift.
 
 ### 73 Exemption for gifts to charities and certain bodies
-(1) Any gift creating a charitable trust, or establishing any society or institution exclusively for charitable purposes, or any gift in aid of any such trust, society, or institution, shall not constitute a dutiable gift if, at the time that the gift is made, the society, institution, or trustees of the trust is or are a tax charity, as that term is defined under section CW 41(5) of the Income Tax Act 2007
+(1) Any gift creating a charitable trust, or establishing any society or institution exclusively for charitable purposes, or any gift in aid of any such trust, society, or institution, shall not constitute a dutiable gift if, at the time that the gift is made, the society, institution, or trustees of the trust is or are a tax charity, as that term is defined under section CW 41(5) of the Income Tax Act 2007.
 (2) Without limiting the provisions of subsection (1) of this section, the following classes of gifts shall not constitute dutiable gifts:
-  (a) Any gift to the New Zealand Historic Places Trust for the purposes of the Historic Places Act 1993:
-  (b) Any gift of a protected New Zealand object, as defined in the Protected Objects Act 1975, to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
-  (ba) Any gift to the Museum of New Zealand Te Papa Tongarewa Board for the purposes of the Museum of New Zealand Te Papa Tongarewa Act 1992:
-  (c) Any gift to the Queen Elizabeth the Second Arts Council of New Zealand for the purposes of the Queen Elizabeth the Second Arts Council of New Zealand Act 1974:
-  (d) Any gift to the Health Research Council of New Zealand for the purposes of health research:
+  (aa) any gift required by an order of a court under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955:
+  (a) any gift to the New Zealand Historic Places Trust for the purposes of the Historic Places Act 1993:
+  (b) any gift of a protected New Zealand object, as defined in the Protected Objects Act 1975, to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
+  (ba) any gift to the Museum of New Zealand Te Papa Tongarewa Board for the purposes of the Museum of New Zealand Te Papa Tongarewa Act 1992:
+  (c) any gift to the Queen Elizabeth the Second Arts Council of New Zealand for the purposes of the Queen Elizabeth the Second Arts Council of New Zealand Act 1974:
+  (d) any gift to the Health Research Council of New Zealand for the purposes of health research:
   (da) any gift to Sport and Recreation New Zealand for the purposes of the Sport and Recreation New Zealand Act 2002:
-  (e) Any gift to the New Zealand Patriotic Fund Board, the Canteen Fund Board, or any Provincial Patriotic Council for any patriotic purpose, or under the provisions of section 10C of the Patriotic and Canteen Funds Act 1947 (as substituted by section 3 of the Patriotic and Canteen Funds Amendment Act 1987):
-  (f) Any gift to the Vocational Training Council for the purposes of the Vocational Training Council Act 1968:
+  (e) any gift to the New Zealand Patriotic Fund Board, the Canteen Fund Board, or any Provincial Patriotic Council for any patriotic purpose, or under the provisions of section 10C of the Patriotic and Canteen Funds Act 1947 (as substituted by section 3 of the Patriotic and Canteen Funds Amendment Act 1987):
+  (f) any gift to the Vocational Training Council for the purposes of the Vocational Training Council Act 1968:
   (g)
-  (h) Any gift to the New Zealand Council for Educational Research for the purposes of the New Zealand Council for Educational Research Act 1972:
+  (h) any gift to the New Zealand Council for Educational Research for the purposes of the New Zealand Council for Educational Research Act 1972:
   (i)
-  (j) Any gift to the Queen Elizabeth the Second National Trust for the purposes of the Queen Elizabeth the Second National Trust Act 1977.
+  (j) any gift to the Queen Elizabeth the Second National Trust for the purposes of the Queen Elizabeth the Second National Trust Act 1977:
   (jb) any gift to a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
   (jc) any gift to a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
-  (k) Any gift made by a local authority under section 225C(d) of the Local Government Act 1974 to a community trust established in accordance with section 225D of that Act where that gift constitutes—
-    (i) The proceeds of the sale of shares or equity securities referred to in section 225C of the Local Government Act 1974; or
-    (ii) Any income derived from or capital gain arising on such proceeds, if that income or gain is paid to the community trust before a date set by the Governor-General by Order in Council for the purposes of this paragraph either in relation to that community trust or to community trusts generally.
+  (jd) any gift to an organisation that is—
+    (i) part of the State Services as defined in section 2 of the State Sector Act 1988; and
+    (ii) not an educational institution; and
+    (iii) not carried on for the private pecuniary profit of any individual:
+  (k) any gift made by a local authority under section 225C(d) of the Local Government Act 1974 to a community trust established in accordance with section 225D of that Act where that gift constitutes—
+    (i) the proceeds of the sale of shares or equity securities referred to in section 225C of the Local Government Act 1974; or
+    (ii) any income derived from or capital gain arising on such proceeds, if that income or gain is paid to the community trust before a date set by the Governor-General by Order in Council for the purposes of this paragraph either in relation to that community trust or to community trusts generally:
   (ka) any gift made by a local authority under section 298(3)(c) of the Local Government Act 2002 to a community trust to which that section applies where that gift constitutes—
     (i) the proceeds of the sale of shares or equity securities referred to in that section; or
     (ii) any income derived from or capital gain arising on such proceeds, if that income or gain is paid to that community trust before a date set by the Governor-General by Order in Council for the purposes of this subparagraph either in relation to that community trust or to community trusts generally:
-  (l) Any gift to the New Zealand Antarctic Institute for the purposes of the New Zealand Antarctic Institute Act 1996:
-  (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust.
-  (n) any gift to the trustee of the Niue International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust.
+  (kb) any gift to an organisation that is a local authority, or a council-controlled organisation as defined in section 6 of the Local Government Act 2002, or a subsidiary of such a council-controlled organisation and is not carried on for the private pecuniary profit of any individual:
+  (l) any gift to the New Zealand Antarctic Institute for the purposes of the New Zealand Antarctic Institute Act 1996:
+  (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust:
+  (n) any gift to the trustee of the Niue International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust:
+  (o) any gift to an organisation that is a donee organisation as defined in section YA 1 of the Income Tax Act 2007.
 
 ### 74 Exemption for certain elections by members of group superannuation schemes
 Where a member of or a participant in any group superannuation scheme makes an election to accept from the group superannuation scheme a reduced retirement allowance or pension in consideration of the payment—the election shall not constitute a dutiable gift.
-  (a) After his or her death, of a pension from the group superannuation scheme to the surviving spouse, civil union partner, de facto partner, or any dependant of the member or participant; or
-  (b) Commencing before his or her death, of a pension from the group superannuation scheme to the spouse, civil union partner or de facto partner of the member or participant,—
+  (a) after his or her death, of a pension from the group superannuation scheme to the surviving spouse, civil union partner, de facto partner, or any dependant of the member or participant; or
+  (b) commencing before his or her death, of a pension from the group superannuation scheme to the spouse, civil union partner or de facto partner of the member or participant,—
 
 ### 74A Exemption for gifts between members of consolidated group
 No gift shall constitute a dutiable gift where the donor and the donee are at the time the gift is made members of the same consolidated group within the meaning of the consolidation rules of the Income Tax Act 2007.
@@ -506,17 +478,17 @@ No gift shall constitute a dutiable gift if the donor is a co-operative company 
 
 ### 75 Exemption for certain payments by employers
 (1) The following classes of payments, to the extent that they are gifts, shall not constitute dutiable gifts:
-  (a) Contributions to a group superannuation scheme by an employer in respect of his employees or any class or classes of his employees:
-  (b) Payments made by an employer to an employee in consequence of the retirement of that employee from the service of the employer, and any gratuity or bonus paid by an employer to an employee during the continuance of the employment in recognition of special or faithful services rendered, if—
-    (i) The employer is a body corporate other than an incorporated company; or
-    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share ) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the employee, the spouse, civil union partner or de facto partner of the employee, and relatives of the employee of or within the second degree of relationship; or
-    (iii) The employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the employee is not a relative of or within the second degree of relationship or a spouse, civil union partner or de facto partner of the employer or any of the employers:
-  (c) Payments made by an employer to the widow or the widower or the surviving civil union partner or de facto partner of a deceased employee or to any infant child of that employee, if—
-    (i) The employer is a body corporate other than an incorporated company; or
-    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the widow or the widower or the surviving civil union partner or de facto partner and the relatives of or within the second degree of relationship of the widow, or widower or the surviving civil union partner or de facto partner or of her or his deceased spouse or civil union partner or de facto partner; or
-    (iii) The employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the widow or widower or surviving civil union partner or de facto partner is not, and her or his deceased spouse or civil union partner or de facto partner was not, a relative of or within the second degree of relationship of the employer or any of the employers:
+  (a) contributions to a group superannuation scheme by an employer in respect of his employees or any class or classes of his employees:
+  (b) payments made by an employer to an employee in consequence of the retirement of that employee from the service of the employer, and any gratuity or bonus paid by an employer to an employee during the continuance of the employment in recognition of special or faithful services rendered, if—
+    (i) the employer is a body corporate other than an incorporated company; or
+    (ii) the employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share ) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the employee, the spouse, civil union partner or de facto partner of the employee, and relatives of the employee of or within the second degree of relationship; or
+    (iii) the employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the employee is not a relative of or within the second degree of relationship or a spouse, civil union partner or de facto partner of the employer or any of the employers:
+  (c) payments made by an employer to the widow or the widower or the surviving civil union partner or de facto partner of a deceased employee or to any infant child of that employee, if—
+    (i) the employer is a body corporate other than an incorporated company; or
+    (ii) the employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the widow or the widower or the surviving civil union partner or de facto partner and the relatives of or within the second degree of relationship of the widow, or widower or the surviving civil union partner or de facto partner or of her or his deceased spouse or civil union partner or de facto partner; or
+    (iii) the employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the widow or widower or surviving civil union partner or de facto partner is not, and her or his deceased spouse or civil union partner or de facto partner was not, a relative of or within the second degree of relationship of the employer or any of the employers:
   (d)
-  (e) Any payment made by an employer to the extent to which it is allowed as a deduction under section DC 1 of the Income Tax Act 2007.
+  (e) any payment made by an employer to the extent to which it is allowed as a deduction under section DC 1 of the Income Tax Act 2007.
 (2) Any issue or sale of shares under a share purchase scheme as defined in section YA 1 of the Income Tax Act 2007 made by a company or by the trustee of the scheme to any employee, to the extent that it is a gift, shall not constitute a dutiable gift.
 
 ### 75A Exemption for certain dispositions of relationship property
@@ -549,7 +521,7 @@ No gift shall constitute a dutiable gift if the donor is a co-operative company 
   (c) financial arrangement is defined in section EW 3(3)(a) or (b) of the that Act.
 (2) The forgiveness or remission of a liability, in whole or in part, under a financial arrangement is not a gift under this Act if and to the extent that the forgiveness or remission must be taken into account under the financial arrangements rules when a person calculates their income because it—
   (a) reduces the deduction that the person is allowed; or
-  (b) Increases the person's income.
+  (b) increases the person's income.
 (3) If and to the extent that a transaction is a dividend, the transaction is not a gift under this Act.
 
 ### 75BA Exemption for gifts of financial arrangements under accrual rules in Income Tax Act 1994 (Part EH, Division 2)
@@ -563,8 +535,8 @@ No gift shall constitute a dutiable gift if the donor is a co-operative company 
 
 ### 75C Exemption for certain dispositions of property under Waikato Electricity Authority Act 1988
 Any disposition of property made on or after the 1st day of April 1989—shall not constitute a dutiable gift.
-  (a) Pursuant to section 23 or section 24 of the Waikato Electricity Authority Act 1988; or
-  (b) To Waikato Electricity Limited pursuant to section 21 of that Act—
+  (a) pursuant to section 23 or section 24 of the Waikato Electricity Authority Act 1988; or
+  (b) to Waikato Electricity Limited pursuant to section 21 of that Act—
 
 ### 75D Exemption for dispositions by raspberry industry entities
 (1) This section applies upon the making of regulations to dissolve the New Zealand Raspberry Marketing Council, the Raspberry Marketing Export Authority and the District Raspberry Marketing Committees established under the Raspberry Marketing Regulations 1979.
@@ -575,7 +547,7 @@ Any disposition of property made on or after the 1st day of April 1989—shall n
 **Reliefs**
 
 ### 76 Relief for subsequent gift of reserved benefit
-When the donor of a dutiable gift to which section 70 of this Act applies (in this section referred to as the original gift) subsequently makes a dutiable gift of the whole or any part of the benefit or advantage (as defined in that section) created or reserved on the making of the original gift, there shall be deducted from the gift duty otherwise payable in respect of that subsequent gift (so far as that gift duty extends) an amount calculated in accordance with the following formula:where—
+When the donor of a dutiable gift to which section 70 of this Act applies (in this section referred to as the original gift) subsequently makes a dutiable gift of the whole or any part of the benefit or advantage (as defined in that section) created or reserved on the making of the original gift, there shall be deducted from the gift duty otherwise payable in respect of that subsequent gift (so far as that gift duty extends) an amount calculated in accordance with the following formula: a× c b where—
   (a) is the value of that benefit or advantage comprised in that subsequent gift, either at the date of the gift, or at the date of the original gift, whichever is the less; and
   (b) is the value of the original gift; and
   (c) is the amount of gift duty paid on the original gift.
@@ -610,8 +582,8 @@ Section 47 of this Act shall, with all necessary modifications, apply for gift d
 (6A) The Commissioner may accept payment of the sum assessed by way of composition in full discharge of all claims for that duty.
 (6B) A composition is not a good discharge from duty if it has been procured by fraud or by failure to disclose material facts.
 (7) Except as provided by Part 8A of the Tax Administration Act 1994 (which applies in relation to challenges to assessments of tax)—
-  (a) No assessment or amended assessment of gift duty, penalty on gift duty, or interest on gift duty shall be disputed in any court or in any proceedings (including proceedings before a Taxation Review Authority); and
-  (b) Every assessment or amended assessment referred to in paragraph (a) of this subsection shall be final and conclusive in favour of the Crown.
+  (a) no assessment or amended assessment of gift duty, penalty on gift duty, or interest on gift duty shall be disputed in any court or in any proceedings (including proceedings before a Taxation Review Authority); and
+  (b) every assessment or amended assessment referred to in paragraph (a) of this subsection shall be final and conclusive in favour of the Crown.
 
 ### 83 Penalty on unpaid gift duty
 (1) A penalty on gift duty is payable in respect of any gift duty that is not paid within 6 months after the making of the dutiable gift.
@@ -642,18 +614,18 @@ Section 47 of this Act shall, with all necessary modifications, apply for gift d
 
 ### 87A Registration of charge for gift duty
 (1) If gift duty constitutes a charge on land or an interest in land that is subject to the Land Transfer Act 1952 or the Deeds Registration Act 1908 or a mining privilege, lease or licence under the Mining Act 1971, the Commissioner may register the charge by depositing a certificate under the Commissioner's hand setting out the description of the land, interest in land, mining privilege, lease or licence so charged, including a reference to any relevant certificate of title, with—
-  (a) In the case of land subject to the Land Transfer Act 1952 or a mining privilege, lease or licence that has been registered under the Land Transfer Act 1952 in accordance with the Mining Tenures Registration Act 1962, the District Land Registrar for the land registration district in which the land is situated:
-  (b) In the case of any other mining privilege, lease or licence, the Mining Registrar in whose office the mining privilege, lease or licence is registered:
-  (c) In the case of land subject to the Deeds Registration Act 1908, the Registrar of Deeds for the district in which the land is situated.
+  (a) in the case of land subject to the Land Transfer Act 1952 or a mining privilege, lease or licence that has been registered under the Land Transfer Act 1952 in accordance with the Mining Tenures Registration Act 1962, the District Land Registrar for the land registration district in which the land is situated:
+  (b) in the case of any other mining privilege, lease or licence, the Mining Registrar in whose office the mining privilege, lease or licence is registered:
+  (c) in the case of land subject to the Deeds Registration Act 1908, the Registrar of Deeds for the district in which the land is situated.
 (2) If subsection (1) applies, the appropriate Registrar must, without payment of a fee, register the certificate against the title to the land, or privilege, lease or licence so charged.
 (3) Registration of the certificate is treated as being actual notice to all persons that the charge exists, and the charge operates and has priority on and after the date of registration.
 (4) When a charge has been satisfied, the Commissioner must deposit a release of the charge with the appropriate Registrar and the Registrar must, without payment of a fee, register the release against the title to the land, or privilege, lease or licence.
 
 ### 87B Enforcement of charge for gift duty by High Court
 (1) If gift duty constitutes a charge on property, the High Court may on application by the Commissioner make such order as it thinks fit, either for—
-  (a) The payment of all or part of the property to the Commissioner; or
-  (b) The sale or realisation of all or part of the property and the payment of the proceeds to the Commissioner, or
-  (c) The appointment of a receiver of the rents, profits or income from the property and the payment of the rents, profits or income to the Commissioner.
+  (a) the payment of all or part of the property to the Commissioner; or
+  (b) the sale or realisation of all or part of the property and the payment of the proceeds to the Commissioner, or
+  (c) the appointment of a receiver of the rents, profits or income from the property and the payment of the rents, profits or income to the Commissioner.
 (2) An order made under subsection (1) applies to the extent that it is necessary to meet the duty and the costs of the Commissioner.
 (3) If property has been sold under a High Court order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
 (4) A vesting order made by the High Court has the same effect as if all persons entitled to the property had been free from disability and had executed all proper conveyances, transfers and assignments of the property specified in the order, and in the case of land, an interest in land or a mining privilege, lease or licence under the Mining Act 1971, the purchaser's title must be registered under the Land Transfer Act 1952, the Deeds Registration Act 1908 or the Mining Act 1971 accordingly.
@@ -711,8 +683,8 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 ### 100 Repeals, revocations, and savings
 (1) The enactments specified in Schedule 5 to this Act are hereby repealed.
 (2) The following regulations are hereby revoked:
-  (a) Regulations under the Death Duties Act 1921 made by Order in Council on the 28th day of April 1926 and published in the Gazette of the 6th day of May 1926 at page 1195:
-  (b) The Death Duties Amending Regulations 1954.
+  (a) regulations under the Death Duties Act 1921 made by Order in Council on the 28th day of April 1926 and published in the Gazette of the 6th day of May 1926 at page 1195:
+  (b) the Death Duties Amending Regulations 1954.
 (3) The provisions hereby repealed or revoked, so far as they relate to estate duty, shall continue to apply to the estates of all persons who have died before the commencement of this Act, and so far as they relate to gift duty shall continue to apply to all gifts made before the commencement of this Act.
 (4) Notwithstanding the repeal by this Act of the Estate and Gift Duties Amendment Act 1961, subsection (3) of section 6 of the last-mentioned Act shall continue to apply, as if it had continued in force, with respect to payments to which it applied immediately before the commencement of this Act.
 (5) In ascertaining the rate of gift duty in respect of a gift made before the 19th day of July 1968 (being the date of the commencement of the Estate and Gift Duties Amendment Act 1968), the value of any gift or gifts made after that date shall not be taken into account unless the value of the gift made before that date together with the value of all aggregated gifts (including the gift or gifts made after that date) exceeds $4000.
@@ -721,15 +693,15 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 ### 101 Transitional provisions
 (1) Section 10 of this Act shall not apply on the death of the donor to any dutiable gift made before the commencement of this Act to the extent that the property comprised in the dutiable gift was real property, leaseholds, or other chattel interests in land in each case situated outside New Zealand.
 (2) Notwithstanding the provisions of paragraph (a) of subsection (1) of section 42 of this Act, where—the gift duty refunded under that paragraph shall not be included in the dutiable estate of the donor.
-  (a) The dutiable gift in respect of which the gift duty was paid was made before the commencement of this Act; and
-  (b) The property comprised in the dutiable gift is included in the dutiable estate of the deceased under section 10 of this Act,—
+  (a) the dutiable gift in respect of which the gift duty was paid was made before the commencement of this Act; and
+  (b) the property comprised in the dutiable gift is included in the dutiable estate of the deceased under section 10 of this Act,—
 (3) Notwithstanding anything in section 14 of this Act, where any beneficial interest in any policy of assurance was disposed of by the deceased before the commencement of this Act, the amount of the gross benefits to be included in the dutiable estate under that section shall not exceed the amount that would have been included under paragraph (f) of subsection (1) of section 5 of the Estate and Gift Duties Act 1955 if that paragraph had still been in force.
 
 ## Schedule 1 — Scale of rates of estate duty
 
 ## Schedule 2
 
-| Years of Age | Expectation of Life of Male | Present Value of $1 per Annum for Life | Present Value of $1 Payable on Death | Present Value of Income on Capital of $1 for Life |
+| Years of age | Expectation of life of male | Present value of $1 per annum for life | Present value of $1 payable on death | Present value of income on capital of $1 for life |
 | --- | --- | --- | --- | --- |
 |  | Years | $ | $ | $ |
 | 0 | 68.29 | 19.28531 | 0.03573 | 0.96427 |
@@ -789,7 +761,7 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 | 54 | 20.59 | 12.67399 | 0.36630 | 0.63370 |
 | 55 | 19.82 | 12.39437 | 0.38028 | 0.61972 |
 | 56 | 19.06 | 12.10793 | 0.39460 | 0.60540 |
-| 57 | 18.32 | 11.81622 | 0.40919 | 0.59081 f |
+| 57 | 18.32 | 11.81622 | 0.40919 | 0.59081 |
 | 58 | 17.60 | 11.52338 | 0.42383 | 0.57617 |
 | 59 | 16.89 | 11.22607 | 0.43870 | 0.56130 |
 | 60 | 16.19 | 10.92067 | 0.45397 | 0.54603 |
@@ -834,7 +806,7 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 | 99 | 1.15 | 1.08844 | 0.94558 | 0.05442 |
 | 100 | 1.05 | 0.99773 | 0.95011 | 0.04989 |
 
-| Years of Age | Expectation of Life of Female | Present Value of $1 per Annum for Life | Present Value of $1 Payable on | Present Value of Income on Capital of $1 for Life |
+| Years of age | Expectation of life of female | Present value of $1 per annum for life | Present value of $1 payable on death | Present value of income on capital of $1 for life |
 | --- | --- | --- | --- | --- |
 |  | Years | $ | $ | $ |
 | 0 | 72.43 | 19.41600 | 0.02920 | 0.97080 |
@@ -939,7 +911,7 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 | 99 | 1.19 | 1.12472 | 0.94376 | 0.05624 |
 | 100 | 1.07 | 1.01587 | 0.94921 | 0.05079 |
 
-| Years of Age | Expectation of Widowhood | Present Value of $1 per Annum for Widowhood | Present Value of $1 Payable on Termination of Widowhood | Present Value of Income on Capital of $1 for Widowhood |
+| Years of age | Expectation of widowhood | Present value of $1 per annum for widowhood | Present value of $1 payable on termination of widowhood | Present value of income on capital of $1 for widowhood |
 | --- | --- | --- | --- | --- |
 |  | Years | $ | $ | $ |
 | Up to 20 | 7.5 | 6.12479 | 0.69376 | 0.30624 |
@@ -990,7 +962,7 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 | 65 | 14.6 | 10.18725 | 0.49064 | 0.50936 |
 | For widows 66 years of age or over, the expectations of life and widowhood are deemed to be identical, and Table B applies for both purposes. |  |  |  |  |
 
-|  | Present Value of $1 Per Annum for Period | Present Value of $1 Per Annum After Period | Present Value of Income on Capital of $1 for Period |
+|  | Present value of $1 per annum for period | Present value of $1 per annum after period | Present value of income on capital of $1 for period |
 | --- | --- | --- | --- |
 | Years | $ | $ | $ |
 | 1 | 0.95238 | 0.95238 | 0.04762 |
@@ -1096,19 +1068,16 @@ The enactments specified in Schedule 4 to this Act are hereby amended in the man
 
 ## Schedule 3 — Scale of rates of gift duty
 
-| Value of item b in section 62 |  | Rate. NOTE: Excess means excess of the value in complete dollars |
+| Value of item b in section 62 |  | Rate |
 | --- | --- | --- |
+|  |  | Note: Excess means excess of the value in complete dollars |
 | Not exceeding $27,000 |  | Nil. |
-| Exceeding | Not Exceeding |  |
-| $27,000 - | $36,000 | 5 percent on excess over $27,000. |
-| $36,000 - | $54,000 | $450 plus 10 percent of excess over $36,000. |
-| $54,000 - | $72,000 | $2,250 plus 20 percent of excess over $54,000. |
-| Exceeding $72,000 |  | $5,850 plus 25 percent of excess over $72,000. |
+| Exceeding | Not exceeding |  |
+| $27,000 – | $36,000 | 5% on excess over $27,000. |
+| $36,000 – | $54,000 | $450 plus 10% of excess over $36,000. |
+| $54,000 – | $72,000 | $2,250 plus 20% of excess over $54,000. |
+| Exceeding $72,000 |  | $5,850 plus 25% of excess over $72,000. |
 
 ## Schedule 4 — Enactments amended
 
-| Enactment Amended | Amendment |
-| --- | --- |
-| 1967, No 124-The Maori Affairs Amendment Act 1967 | This amendment is incorporated in s 78(2) of the reprinted Maori Affairs Amendment Act 1967 (1981, RS Vol 8, p 312). |
-
-## Schedule 5 — Enactments amended
+## Schedule 5 — Enactments repealed
