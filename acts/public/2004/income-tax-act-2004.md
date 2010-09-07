@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2010-08-24_
+_Consolidation as at 2010-09-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1222,13 +1222,12 @@ An amount derived by an amalgamated company on a qualifying amalgamation from an
 ### CD 26 Foreign investment fund income
 Amount not dividend
 (1) An amount paid by a company to a person is not a dividend if,—
-  (a) at the time the person derives the amount, the person's interest in the company is an attributing interest (or would have been if the company had not been liquidated); and
+  (a) at the time the person derives the amount, the person's interest in the company is an attributing interest or would have been an attributing interest if the company had not been liquidated; and
   (b) the person calculates their FIF income or loss in relation to the interest and the period in which the amount is paid under—
     (i) the comparative value method:
     (ii) the deemed rate of return method:
     (iii) the cost method:
     (iv) the fair dividend rate method.
-  (c)
 Exclusion for interests in grey list companies
 (2) Subsection (1)(b)(iv) does not apply if—
   (a) the FIF is a grey list company; and
@@ -3972,7 +3971,7 @@ Exclusion
 (3) Neither subsection (1) nor subsection (2) applies to a non-cash benefit provided by a company to a non-executive director of the company.
 Non-cash benefits
 (4) Subsection (2) applies to non-cash benefits that would,—
-  (a) if section CD 23 (Employee benefits) did not exist, be dividends under section CD 3 (Transfers of value generally) if provided to a person in their capacity as a shareholder:
+  (a) if section CD 23 (Employee benefits) did not exist, be dividends under section CD 3 (Transfers of value generally) if provided to a person in their capacity as a shareholder; and
   (b) if section CX 4 did not exist, be unclassified benefits if provided to a person in their capacity as an employee.
 Notice of election
 (5) The company or trustee must give notice to the Commissioner of the election referred to in subsection (2) within the time allowed for filing a fringe benefit tax return for the period in which the benefit was provided.
@@ -9689,6 +9688,8 @@ Second amount for purposes of subsection (1)
     (i) if the item is a patent, the patent application in relation to which the item was granted:
     (ii) if the item is a geothermal well that a person acquired under section EE 44B(2), the well before the person acquired it under that section; or
   (b) the person would have been allowed if they had used the item wholly in deriving assessable income or carrying on a business for the purpose of deriving assessable income.
+Treatment of mothballed assets
+(3B) Subsection (3)(b) does not apply in relation to an amount of depreciation loss for an item that has been withdrawn from use in deriving assessable income or carrying on a business for the purpose of deriving assessable income. However, this exclusion does not apply to an amount of depreciation loss for which the person has a deduction under section EE 32.
 Method
 (4) The method is—
   (a) the depreciation method that the person used in each relevant income year; or
@@ -11895,7 +11896,8 @@ Who this section applies to
   (c) the terms of the relevant method, as modified by subsection (3), allow the person to use it for the financial arrangement; and
   (d) the financial arrangement––
     (i) is not treated under IFRSs by the person as a hedge; or
-    (ii) is treated under IFRSs by the person as a hedge of other financial arrangements, for each of which the person does not use the fair value method.
+    (ii) is treated under IFRSs by the person as a hedge of other financial arrangements, for each of which the person does not use the fair value method; or
+    (iii) is treated under IFRSs by the person as a hedge of something that is not a financial arrangement.
 Determination alternatives to IFRS
 (2) The person must use 1 of the following methods for the financial arrangement, as modified by subsection (3) or (4):
   (a) Determination G9C: Financial arrangements that are denominated in a currency other than New Zealand dollars: an expected value approach or a determination that succeeds it:
@@ -11922,7 +11924,8 @@ Who this section applies to
   (b) the financial arrangement is denominated in a currency other than New Zealand dollars or is a derivative instrument; and
   (c) the financial arrangement––
     (i) is not treated under IFRSs by the person as a hedge; or
-    (ii) is treated under IFRSs by the person as a hedge of other financial arrangements, for each of which the person does not use the fair value method; and
+    (ii) is treated under IFRSs by the person as a hedge of other financial arrangements, for each of which the person does not use the fair value method; or
+    (iii) is treated under IFRSs by the person as a hedge of something that is not a financial arrangement; and
   (d) the person is not in the business of dealing in the financial arrangement; and
   (e) the person has entered into the financial arrangement in the ordinary course of their business; and
   (f) the person and all companies in a group of companies to which the person belongs have chosen to use the modified fair value method described in subsection (2) or the equity-free fair value method described in subsection (3), and have notified the Commissioner at the time of filing a return of income. This paragraph may be ignored in whole or in part if the person carries on a business that is not of a substantially similar nature to other companies in the group, and––
@@ -12746,7 +12749,7 @@ Tests of control
 (1) A foreign company is a CFC if any of the following tests is met:
   (a) there is a group of 5 or fewer New Zealand residents whose total control interests in the company are more than 50% in any one of the control interest categories:
   (b) a single New Zealand resident holds a control interest of 40% or more unless at the same time—
-    (i) another person also holds a 40% or more control interest in the same control interest category; and
+    (i) the person's control interest is less than or equal to a control interest in the same category held by another person; and
     (ii) the other person is not a New Zealand resident; and
     (iii) the other person is not associated with the New Zealand resident:
   (c) there is a group of 5 or fewer New Zealand residents who can control the exercise of the shareholder decision- making rights for the company and, as a result, control the company's affairs.
@@ -20038,9 +20041,14 @@ Portfolio class land loss for tax year
 Meaning of portfolio class land loss
 (3) A portfolio class land loss, for a portfolio investor class, means the portfolio class taxable loss of the portfolio investor class for a portfolio calculation period—
   (a) at the end of which, the class has interests in portfolio entity investments that—
-    (i) are investments in land or shares in a portfolio land company; and
+    (i) are an investment of the type listed in subsection (4); and
     (ii) have a portfolio class investment value that is more than 50% of the portfolio class investment value for all portfolio entity investments in which the class has interests; and
   (b) for which the class has a portfolio class taxable loss of more than zero.
+Investment types
+(4) For the purposes of subsection (3)(a)(i), the investment must be—
+  (a) an investment in land:
+  (b) an investment in a portfolio land company that is resident in New Zealand:
+  (c) an investment in a non-resident portfolio land company in which the portfolio investor class has a voting interest of more than 20%.
 
 ### HL 31 Portfolio investor proxies
 Eligibility of person to be portfolio investor proxy
@@ -21911,11 +21919,11 @@ The provisional tax paid by a taxpayer for a tax year is credited against the ta
 (1) This section applies for a taxpayer and a tax year if the taxpayer has for the tax year portfolio investor allocated income from a portfolio tax rate entity that—
   (a) is not excluded income of the taxpayer; and
   (b) would be excluded income of the taxpayer in the absence of section CX 44D(1)(b) (Portfolio investor allocated income and distributions of income by portfolio tax rate entities).
-(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax paid by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
+(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax liability satisfied by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
 
 ### LD 10B Credit for zero-rated portfolio investor for tax paid by entity in relation to portfolio investor allocated income
 (1) This section applies for a taxpayer and a tax year if the taxpayer is a zero-rated portfolio investor and has for the tax year portfolio investor allocated income from a portfolio tax rate entity that pays income tax in relation to the portfolio investor allocated income.
-(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax paid by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
+(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax liability satisfied by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
 
 ### LD 11 Credit for investor for payment under section HL 21(5) by entity for portfolio investor exit period
 (1) This section applies for a taxpayer and a tax year if—
@@ -28098,7 +28106,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (c) includes income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income was derived in connection with an employment relationship between the person and the person who paid the income; and
     (d) does not include a payment of exempt income
   - **fair dividend rate method** means the method of calculating income or FIF loss under section EX 44B (Fair dividend rate method)
-  - **fair value method** means a method under section EW 15B (IFRS taxpayer method) of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
+  - **fair value method** means a method under section EW 15C (IFRS taxpayer method) of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
   - **family credit abatement** , means the component of the subpart KD credit calculated under section KD 2(6) (Calculation of subpart KD credit).
   - **family tax credit** , means the component of the subpart KD credit calculated under section KD 2(3) (Calculation of subpart KD credit).
   - **farm ownership requirements** means farm ownership requirements as defined in the Farm Ownership Savings Act 1974
@@ -29792,7 +29800,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) that is not a warrant or instalment receipt
   - **revenue account property** , for a person, means—
     (a) property that is trading stock of the person; or
-    (b) property that would produce income for the person if they disposed of it (not including income under section EE 41 (Effect of disposal or event));
+    (b) property for which an amount derived by the person from its disposal would be income (not including income under section EE 41 (Effect of disposal or event));
     (c) an ETS unit of the person
   - **right** , in sections EW 32 (Consideration for agreement for sale and purchase of property or services, hire purchase agreement, specified option, or finance lease) and EW 34 (Consideration in foreign currency), and in the definitions of short-term agreement for the sale and purchase of property or services and short-term option,—
     (a) means—
@@ -32563,6 +32571,7 @@ Within 30 days of issuing a determination under section 91AAF, the Commissioner 
 | CG 5 | A benefit received from a superannuation scheme by an employer who has received deductions for making employers' contributions to the scheme is income, rather than a reversal of deductions for contributions made in the 12 months before the benefit's receipt |
 | CU 17 | The amount repaid is treated as income in the year it is repaid or treated as repaid, rather than in the year the deduction was allowed |
 | CW 15(1) | The day of arrival and the day of departure each counts as a whole day for the purpose of calculating the 92 day period |
+| CW 31(3) | The amounts excepted from the exemption are amounts that a public authority receives as trustee. |
 | CW 32(3) | The amounts excepted from the exemption are amounts that a local authority receives as a trustee |
 | CX 34(1) | The exclusion applies to life insurance policies offered or entered into in New Zealand |
 | DB 7(6) | A non-resident company that has a fixed establishment in New Zealand has a deduction for interest incurred on money borrowed to acquire shares in a group company |
@@ -38581,3 +38590,68 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (8) Amendment(s) incorporated in the Act(s).
 (9) Amendment(s) incorporated in the Act(s).
 (10) Subsections (2), (5), and (9) apply for the 2005–06 and later income years.
+
+### 1 Title
+This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010.
+
+### 2 Commencement
+(1) This Act comes into force on the day on which it receives the Royal assent, except as provided in this section.
+(2) Section 195(2) is treated as coming into force on 24 May 1999.
+(3) Section 198 is treated as coming into force on 21 December 2004.
+(4) Section 192 is treated as coming into force on 1 January 2005.
+(5) Sections 199, 202, 207(1) and (3), 208, and 211(1) and (3) are treated as coming into force on 1 April 2005.
+(6) Sections 200, 201, and 207(2) are treated as coming into force on 1 April 2007.
+(7) Sections 66, 131, 134, 135, 170, 204, 205, and 206 are treated as coming into force on 1 October 2007.
+(8) Sections 197 and 203 are treated as coming into force on 19 December 2007.
+(9) Sections 5, 10, 11, 17, 25, 26, 27, 30, 31, 36, 37, 38, 42, 52, 53, 54, 55, 57, 58, 59, 60, 61, , 63, 64, 65, 75, 81, 82, 83, 84, 86, 87, 89, 90, 92, 95, 97, 98, 99, 100, 105,106, 107, 108, 112, 116, 117(2), (4), (5), (8), (10), (23), (28), and (33), 118, 119, 121(1), (2), and (4), 127, 128, 130(1) to (3), 136, 138, 145, 195(5), and 211(2) and (4) are treated as coming into force on 1 April 2008.
+(10) Section 195(4) is treated as coming into force on 1 July 2008.
+(11) Section 56 is treated as coming into force on 26 September 2008.
+(12) Sections 6(1), (2), (3), and (5)(b), 20, 21, 28(1) and (5)(b) and 117(9), (18), (22), and (24) are treated as coming into force on 1 January 2009.
+(13) Section 117(12) is treated as coming into force on 1 April 2009.
+(14) Sections 43, 44, 103, 104, 109, 110, and 149(1) are treated as coming into force on 30 June 2009.
+(15) Sections 178, 179, and 180 are treated as coming into force on 7 October 2009.
+(16) Section 14 is treated as coming into force on 31 December 2009.
+(17) Sections 23, 32 to 35, 117(11) and (14), and 126(3) are treated as coming into force on 1 January 2010.
+(18) Sections 101 and 102 are treated as coming into force on 1 March 2010.
+(19) Sections 7, 8, 9, 19, 24, 67, 70, 72(3) and (4), 73, 74, 80, 91, 93, 113, 115, 117(13), (15), (19), (20), (21), (29), and (34), 120, 121(3), 122, 123, 124, 126(6), 129, 130(4) and (5), 137, and 186 are treated as coming into force on 1 April 2010.
+(20) Sections 76, 77, 78, 79, and 117(6), (25), and (31) are treated as coming into force on 1 June 2010.
+(21) Sections 6(4) and (5)(a), 18, 22, 28(2), (3), (4), and (5)(a), 29, 45, 46, 47, 48, 49, 50, 85, 117(7), (26), and (35), 189(3), and 191 are treated as coming into force on 1 July 2010.
+(22) Sections 39 to 41 and 51 come into force on 26 September 2010.
+(23) Sections 69, 71, 72(1) and (2), and 111 come into force on 1 October 2010.
+(24) Sections 12, 16, 68, 88, 96, 114, 117(16), (27), (30), and (32), 132, 133, and 173 come into force on 1 April 2011.
+(25) Sections 13, 94, 117(3) and (17), 176(1) and (3), 183, 184, 188, and 189(1), (2), (4), and (5) come into force on the first day of the second month after the month in which the Governments of Australia and New Zealand exchange notes, as provided by clause 21 of the Arrangement between them on trans-Tasman retirement savings portability.
+
+## Part 5 — Amendments to other Acts and regulations
+
+**Income Tax Act 2004**
+
+### 198 Benefits provided to employees who are shareholders or investors
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1)—
+  (a) applies for the 2005–06 and later income years, except if paragraph (b) applies:
+  (b) does not apply for a person or an income year in relation to a tax position taken by the person for their 2005–06 or later income year—
+    (i) in the period from 12 December 2004 to the date of the Royal assent of this Act; and
+    (ii) relating to a return of income, an FBT return, or a GST return filed before the date of the Royal assent of this Act; and
+    (iii) relying upon section CX 16(4) as it was before the amendment made by subsection (1).
+
+### 200 Determination alternatives to IFRS
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for—
+  (a) the 2007–08 and later income years, except if paragraph (b) or (c) applies; or
+  (b) the first income year for which the person adopts IFRSs for the purposes of financial reporting and later income years, if that first income year is before the 2007–08 income year and the person chooses to apply the IFRS taxpayer method in a return of income for that first year; or
+  (c) the 2008–09 and later income years, if a person's 2008–09 income year starts before 1 January 2008 and the person has not adopted IFRSs for the purposes of financial reporting before 1 January 2007.
+
+### 201 Expected value method and equity-free fair value method
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for—
+  (a) the 2007–08 and later income years, except if paragraph (b) or (c) applies; or
+  (b) the first income year for which the person adopts IFRSs for the purposes of financial reporting and later income years, if that first income year is before the 2007–08 income year and the person chooses to apply the IFRS taxpayer method in a return of income for that first year; or
+  (c) the 2008–09 and later income years, if a person's 2008–09 income year starts before 1 January 2008 and the person has not adopted IFRSs for the purposes of financial reporting before 1 January 2007.
+
+### 202 Meaning of CFC
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1)—
+  (a) applies for the 2005–06 and later income years, except if paragraph (b) applies:
+  (b) does not apply for a person in relation to a tax position taken by the person—
+    (i) before 19 November 2009; and
+    (ii) relying on the provision amended by this section as it was immediately before the amendment made by this section.
