@@ -1,5 +1,5 @@
 # Taxation (Budget Measures) Act 2010
-_Consolidation as at 2010-05-27_
+_Consolidation as at 2010-09-07_
 
 ### 1 Title
 This Act is the Taxation (Budget Measures) Act 2010.
@@ -26,14 +26,7 @@ This Act is the Taxation (Budget Measures) Act 2010.
 Sections 4 to 40 amend the Income Tax Act 2007.
 
 ### 4 Withdrawals
-(1) In section CS 1(1), in the words before the paragraphs, from a superannuation fund is replaced by from a superannuation fund before 1 October 2015.
-(2) In section CS 1(2), in the formula, other contributions is replaced by other contributions – 2011 amount.
-(3) Section CS 1(5) is replaced by the following:Other contributions2011 amount
-  (5) Other contributions is the part of the withdrawal that the trustee of the superannuation fund (the trustee) establishes,––
-    (a) is not employer-sourced superannuation savings:
-    (b) is employer-sourced superannuation savings contributed for a pay period ending on or after 1 October 2010.
-  (5B) 2011 amount is the amount that is 50% of the part of the withdrawal that the trustee establishes is employer-sourced superannuation savings contributed for the 2010–11 tax year, but only to the extent to which the trustee can not establish that the relevant contributions were made for a pay period ending before, on, or after 1 October 2010.
-(4) In section CS 1, in the list of defined terms, pay period is inserted.
+[Repealed]
 
 ### 5 Attributed income of certain investors in multi-rate PIEs
 (1) In section CX 56(1)(b), tax rate notified under section HM 60 (Notified rates) is replaced by notified investor rate.
@@ -371,7 +364,8 @@ Before section 183A, the following is inserted:Remission for GST transitional ta
   (3) Subsection (2) does not apply if the taxpayer is liable for a shortfall penalty in respect of a GST transitional taxable period, if the liability is attributable wholly or in part to the taxpayer's acts or omissions in respect of the change in the rate of goods and services tax on 1 October 2010.
   (4) In this section, GST transitional taxable period means, for a taxpayer,—
     (a) a taxable period, as defined in the Goods and Services Tax Act 1985 (a GST taxable period), that includes 1 October 2010:
-    (b) a GST taxable period that includes 1 October 2010 and a later GST taxable period, if that later GST taxable period ends on or before 31 December 2010.
+    (b) a GST taxable period that includes 1 October 2010 and a later GST taxable period, if that later GST taxable period ends on or before 31 December 2010:
+    (c) a GST taxable period for which the taxpayer is required to make a return that includes an adjustment under section 78B of the Goods and Services Tax Act 1985 because of the change in the rate of goods and services tax on 1 October 2010.
 
 ## Part 2 — Personal tax cuts: 2010–11 start
 
@@ -539,7 +533,7 @@ Sections 59 to 72 amend the Income Tax Act 2007.
 (2) In section RD 59,––
   (a) in subsection (2), first 2 quarters of a tax year at 49% of, and, for the 3rd quarter, at 43% of, is replaced by first 3 quarters of a tax year at 43% of; and
   (b) subsection (3), other than its heading, is replaced by the following:
-  (3) The employer must pay FBT at the rate of 49% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 43% under subsection (2).
+  (3) The employer must pay FBT at the rate of 49.25% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 43% under subsection (2).
 
 ### 69 Close company option
 (1) In section RD 60(3)(a), 61 is replaced by 55.04.
