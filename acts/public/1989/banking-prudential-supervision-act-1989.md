@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2010-03-01_
+_Consolidation as at 2010-09-08_
 
 > Title [Repealed]
 
@@ -32,7 +32,7 @@ _Consolidation as at 2010-03-01_
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **financial institution** means any person including a body of persons whether incorporated or not, who carries on the business of borrowing and lending money, or providing financial services, or both, and without limiting the generality of the foregoing includes—
-    (a) a life insurance company, being a company as defined in section 2 of the Life Insurance Act 1908; and includes any branch, division, or office of that company; and
+    (a) an insurer that issues, or is liable under, life policies within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010; and includes any branch, division, or office of that insurer; and
     (b) a building society as defined in section 2 of the Building Societies Act 1965; and
     (c) a registered bank; and
     (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act
@@ -49,6 +49,7 @@ _Consolidation as at 2010-03-01_
   - **home jurisdiction** means,—
     (a) in the case of an overseas person that is a body corporate, the country in which that body is incorporated:
     (b) in the case of an overseas person that is an unincorporated body, the country in which that body has its head office or principal place of business
+  - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
   - **net income** , in relation to a financial year, means the total revenue of the Bank reported in its statement of financial performance for that year calculated after deducting all expenses incurred by the Bank in that year
   - **New Zealand chief executive officer** , in relation to an overseas incorporated registered bank, means—
@@ -354,7 +355,7 @@ Every financial institution commits an offence against this Act if, without lawf
 (2) Every financial institution commits an offence against this Act if, without lawful justification or excuse, it fails to comply with a requirement under subsection (1).
 
 ### 39 Powers
-Without limiting section 5 or any other provision of this Act, the Bank has power, whether in New Zealand or elsewhere, to—
+Without limiting section 5 or any other provision of this Act or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
   (a) carry on the business of banking:
   (b) issue securities:
   (c) give a fixed or floating charge over all or any part of the undertaking or property of the Bank:
@@ -371,8 +372,13 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
 (2) The Governor shall be the Chief Executive of the Bank.
 
 ### 41 Duties of Governor
-(1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by this Act and the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
-(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act, or the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, required to be dealt with by the Board.
+(1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by—
+  (a) this Act; and
+  (b) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
+  (c) the Insurance (Prudential Supervision) Act 2010.
+(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act, or either of the following Acts, required to be dealt with by the Board:
+  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+  (b) the Insurance (Prudential Supervision) Act 2010.
 
 ### 42 Conditions of employment of Governor
 (1) The Governor shall be appointed for a term of 5 years and may be reappointed for a further term or terms, each of up to 5 years.
@@ -397,7 +403,7 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
 ### 46 Disqualification of Governor and Deputy Governor
 (1) No person shall be appointed or reappointed, or continue to hold office, as Governor, Deputy Governor, or a Deputy Governor, if that person—
   (a) is a member of Parliament; or
-  (b) is an employee of a registered bank or of a deposit taker as defined in section 157C; or
+  (b) is an employee of a registered bank or of a deposit taker as defined in section 157C or of a licensed insurer; or
   (c) is 70 years of age or over; or
   (d) is a chief executive of a Government department or an employee of a Government department, appointed under the State Sector Act 1988; or
   (e) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
@@ -444,7 +450,7 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
   (h) that the Governor, except as provided in his or her conditions of employment, has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C; or
+    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand; or
   (i) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty or misconduct.
 (3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(3) that the Governor be removed from office.
@@ -458,7 +464,7 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
   (d) except as provided in his or her conditions of employment, has, while holding office as Deputy Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C; or
+    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand.
 (3) If a person who holds office as the Deputy Governor or as a Deputy Governor is removed from office under this section, that person shall, unless that person's conditions of employment provide for that person to cease to be employed as an officer of the Bank in the event of removal from office of Deputy Governor under this section, continue to be employed by the Bank.
 
@@ -469,11 +475,15 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
   (b) to any officer of the Bank.
 (3) The fact that the Deputy Chief Executive exercises any powers or functions of the Governor shall be conclusive proof of the authority to do so, and no person shall be concerned to inquire whether the occasion for doing so has arisen or has ceased.
 (4) A Deputy Governor who is not the Deputy Chief Executive and any officer of the Bank who purports to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, and not by delegation.
+(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under either of the following Acts, and not by delegation:
+  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+  (b) the Insurance (Prudential Supervision) Act 2010.
 (6) A delegation under this section may be revoked at any time.
 (7) A delegation of any power or function under this section shall not prevent the exercise of the power or function by the Governor.
 (8) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the Governor who made it may have ceased to hold office.
-(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
+(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
+  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+  (b) the Insurance (Prudential Supervision) Act 2010.
 
 **Board of directors**
 
@@ -500,7 +510,7 @@ There shall be a board of directors of the Bank.
   (f) that the Governor, except as provided in his or her conditions of employment has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C; or
+    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand; or
   (g) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct,—
 
@@ -545,7 +555,7 @@ In considering the appointment or reappointment of a person to the office of non
 ### 58 Disqualification of non-executive directors
 No person shall be appointed, or reappointed, to the office of non-executive director of the Bank, or hold that office, if that person—
   (a) is a member of Parliament; or
-  (b) is an employee of a registered bank; or
+  (b) is an employee of a registered bank or a licensed insurer; or
   (c) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
   (d) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (e) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
@@ -836,7 +846,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
   (b) avoiding significant damage to the financial system that could result from the failure of a registered bank.
 
 ### 68A Trans-Tasman co-operation
-(1) When performing functions or duties or exercising powers under this Part, the Bank must—
+(1) When performing functions or duties or exercising powers under this Part or the Insurance (Prudential Supervision) Act 2010, the Bank must—
   (a) support prescribed Australian financial authorities in meeting their statutory responsibilities relating to prudential regulation and financial system stability in Australia; and
   (b) to the extent reasonably practicable, avoid any action that is likely to have detrimental effect on financial system stability in Australia.
 (2) Subsection (3) applies where the Bank has reasonable cause to believe that an action it proposes to take is an action that is likely to have a detrimental effect on financial system stability in Australia.
@@ -2957,8 +2967,8 @@ The purpose of the 3 accountability documents required under this Part is as fol
 
 ### 162AB Assessment of regulatory impacts of policies
 (1) The Bank must—
-  (a) assess the expected regulatory impacts of any policy that it intends to adopt under Part 5 and Parts 5B to 5D; and
-  (b) assess the regulatory impacts of the policies adopted and applied under Part 5 and Parts 5B to 5D at intervals appropriate to the nature of the policy being assessed; and
+  (a) assess the expected regulatory impacts of any policy that it intends to adopt under Part 5 and Parts 5B to 5D and under the Insurance (Prudential Supervision) Act 2010; and
+  (b) assess the regulatory impacts of the policies adopted and applied under Part 5 and Parts 5B to 5D and under the Insurance (Prudential Supervision) Act 2010 at intervals appropriate to the nature of the policy being assessed; and
   (c) give reports on the assessments to the Minister.
 (2) Subsection (1) does not apply in respect of any policy that is of a minor or technical nature.
 (3) The Bank may provide reports on the assessments of regulatory impacts to the Minister—
