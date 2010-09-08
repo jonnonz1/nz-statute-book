@@ -1,5 +1,5 @@
 # Adoption (Intercountry) Act 1997
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2010-09-08_
 
 > An Act—ato implement in the law of New Zealand the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption; andbto provide for the approval of organisations as accredited bodies to whom functions may be delegated under the Convention; andcto make other provision for intercountry adoption and other matters related to adoption
 
@@ -27,7 +27,7 @@ Subject to the provisions of this Act, the provisions of the Convention have the
 
 ### 5 New Zealand Central Authority
 (1) The chief executive is the New Zealand Central Authority for the purposes of the Convention.
-(2) The chief executive has all the duties, may exercise all the powers, and must perform all the functions, that a Central Authority has under the Convention.
+(2) The chief executive has all the duties, may exercise all the powers, and must perform all the functions that a Central Authority has under the Convention.
 (3) The chief executive may not be made subject to any order to pay costs relating to adoptions in relation to the exercise or performance, by the chief executive, of any of the chief executive’s duties, powers, or functions as the New Zealand Central Authority.
 
 ### 6 Delegation of functions
@@ -70,7 +70,7 @@ The New Zealand Central Authority may authorise a body accredited under Chapter 
 ### 13 Access to information
 (1) The New Zealand Central Authority must ensure that every report under paragraph 1 of Article 16 of the Convention that is prepared or received by it, and that results in an adoption, in accordance with the Convention, of the child who is the subject of the report, is retained either by the New Zealand Central Authority or by the Chief Archivist under the Public Records Act 2005.
 (2) Every New Zealand accredited body that prepares or receives a report under paragraph 1 of Article 16 of the Convention must give a copy to the New Zealand Central Authority.
-(3) A person who is adopted in accordance with the Convention may make an information privacy request under the Privacy Act 1993 for information concerning the person’s origin, notwithstanding that the person may not be a New Zealand citizen or a permanent resident of New Zealand or an individual who is in New Zealand, and section 34 of that Act is to be read subject to this subsection.
+(3)
 
 ### 14 Certificate of Secretary of Foreign Affairs and Trade
 A certificate signed by the Secretary of Foreign Affairs and Trade and stating that a specified country is or is not a Contracting State is, unless the contrary is proved by the production of another certificate issued under this section (being a certificate that was issued after the first-mentioned certificate was issued), for all purposes conclusive evidence of that fact.
@@ -185,7 +185,7 @@ Amendment(s) incorporated in the Act(s).
 ### 29 Special provisions relating to parentage
 Amendment(s) incorporated in the Act(s).
 
-**Amendment to Births, Deaths, And Marriages Registration Act 1995**
+**Amendment to Births, Deaths, and Marriages Registration Act 1995**
 
 ### 30 Registration of overseas adoptions
 Amendment(s) incorporated in the Act(s).
