@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2010-05-07_
+_Consolidation as at 2010-09-24_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -43,7 +43,7 @@ Crown Acknowledgements
   (m) that the Crown respects the deeply felt obligation of Waikato-Tainui to protect te mana o te awa; and
   (n) that the Crown seeks a settlement that will recognise and sustain the special relationship of Waikato-Tainui with the Waikato River; and
   (o) that the Crown undertakes to assist and work with Waikato-Tainui to restore their mana whakahaere; and
-  (p) that Waikato-Tainui wish to promote the concept of a korowai to bring the River tribes together as an affirmation of their common purpose to protect te mana o te awa:
+  (p) that Waikato-Tainui wish to promote the concept of a korowai to bring the River tribes together as an affirmation of their common purpose to protect te mana o te awa.
 
 ### 1 Title
 This Act is the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010.
