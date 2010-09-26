@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2010-09-26_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -13161,6 +13161,8 @@ Meaning of sound commercial reason
 (7) In this section, sound commercial reason includes—
   (a) starting or stopping the use of IFRSs to prepare financial statements at the same time as starting or stopping the use of a method for IFRS under section EW 15B:
   (b) starting to use a method for IFRS under section EW 15B for a financial arrangement for the first time.
+Modification
+(8) Section EZ 52C (Change of spreading method: Determination G22 to Determination G22A) modifies this section.
 
 ### EW 27 Spreading method adjustment formula
 Calculation of spreading method adjustment
@@ -13181,6 +13183,8 @@ Income (old method)
 (7) Income (old method) is income, under section CC 3 (Financial arrangements), derived by the person under the financial arrangement in earlier income years.
 Expenditure (old method)
 (8) Expenditure (old method) is expenditure incurred by the person under the financial arrangement in earlier income years.
+Modification
+(9) Section EZ 52C (Change of spreading method: Determination G22 to Determination G22A) modifies this section.
 
 **Calculation and allocation of income and expenditure when rights and obligations under financial arrangement cease**
 
@@ -13255,7 +13259,7 @@ Consideration
   (a) non-contingent fees, if the relevant method is not the IFRS financial reporting method in section EW 15D:
   (b) non-integral fees, if the relevant method is the IFRS financial reporting method in section EW 15D.
 Consideration in particular cases
-(8) If any of sections EW 32 to EW 48 applies, the consideration referred to in subsection (7) is adjusted under the relevant section.
+(8) If any of sections EW 32 to EW 48, or EZ 52D applies, the consideration referred to in subsection (7) is adjusted under the relevant section.
 Income
 (9) Income is—
   (a) income derived by the person under the financial arrangement in earlier income years; and
@@ -17778,6 +17782,36 @@ Exception modified
 (2) For the purposes of the exception in section EW 25B(2) (Consistency of use of IFRS method), the person may change a method for IFRS for the financial arrangement if—
   (a) the method they change to or from is Determination G3 under section EW 15E(2)(aa) (Determination alternatives) or an alternative to Determination G3 under section EW 15E(2)(e) (What is included when spreading methods used); and
   (b) that method is available to them to use.
+
+### EZ 52C Change of spreading method: Determination G22 to Determination G22A
+How and when this section applies
+(1) This section does not alter or affect a person's tax position in relation to Determination G22: Optional convertible notes denominated in New Zealand dollars convertible at the option of the holder or the person's litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner's assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person's financial arrangement, and only if, for the financial arrangement,––
+  (a) Determination G22A: Optional convertible notes denominated in New Zealand dollars did not apply while Determination G22 applied, because of the application of section 90AE of the Tax Administration Act 1994, or the application of Determination G22A, clause 3(1)(b); and
+  (b) Determination G22A starts applying immediately after––
+    (i) section 90AE of the Tax Administration Act 1994 stops applying; or
+    (ii) Determination G22A, clause 3(1)(b) stops applying.
+Spreading method adjustment
+(2) Despite sections EW 26 and EW 27 (which relate to changes of spreading method), the person must not calculate a spreading method adjustment under section EW 27 for the change of spreading method, for the financial arrangement, from Determination G22 to Determination G22A.
+Part years under Determinations instead of spreading method adjustment
+(3) In the income year in which subsection (2) applies, for the financial arrangement, Determination G22 applies for the part-year before the change to Determination G22A, and Determination G22A applies for the part-year after the change from Determination G22.
+
+### EZ 52D Base price adjustment: financial arrangements to which Determination G22 and Determination G22A applied
+How and when this section applies
+(1) This section does not alter or affect a person's tax position in relation to Determination G22 or the person's litigation of their tax position in relation to Determination G22. It does not alter or affect the Commissioner's assessment of, or litigation of, that tax position. It applies after Determination G22 has applied for a person's financial arrangement, and only if, for the financial arrangement,––
+  (a) section EZ 52C applied; and
+  (b) Determination G22A applies when the person is required to calculate a base price adjustment for the financial arrangement.
+Consideration adjustment
+(2) For the financial arrangement, the consideration referred to in section EW 31(7) (Base price adjustment formula) is adjusted in accordance with subsections (3) to (6).
+Issuer
+(3) If the person is the issuer of the financial arrangement, an amount calculated under subsections (5) and (6) is added to all consideration that has been paid, and all consideration that is or will be payable, by the issuer for or under the financial arrangement.
+Holder
+(4) If the person is a holder of the financial arrangement, an amount, referrable to the person's holding, calculated under subsections (5) and (6) is added to all consideration that has been paid, and all consideration that is or will be payable, to the holder for or under the financial arrangement.
+Calculation
+(5) For the purposes of subsections (3) and (4) the amount is calculated using the following formula:X − Z.
+Definition of items in formula
+(6) In the formula,––
+  (a) X is, for the financial arrangement, an amount equal to the item s in Determination G22, clause 6(1), if that item were calculated in accordance with that Determination at the time immediately before the change of spreading method described in section EZ 52C(2):
+  (b) Z is, for the financial arrangement, an amount equal to the item s in Determination G22, clause 6(1), if that item were calculated in accordance with that Determination at the time when it first applied.
 
 **Expected death strain formulas**
 
