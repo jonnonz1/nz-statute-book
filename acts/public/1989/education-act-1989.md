@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2010-05-20_
+_Consolidation as at 2010-09-27_
 
 > An Act to reform the administration of education
 
@@ -6371,6 +6371,15 @@ In this Part of this Act, unless the context otherwise requires,—
 (3A) Regulations made under this section may be expressed to come into force, and may accordingly come into force, before the date on which they are made, but only if the regulations—
   (a) increase the value or maximum value of any allowance, or the rate or maximum rate at which any allowance may be paid; or
   (b) extend the class or classes of person entitled to receive an allowance, or entitled to be paid an allowance at any particular rate.
+(3B) The rates of student allowances set under this section (except the rates of allowances provided in respect of accommodation expenses) must be adjusted, by regulations made under subsection (1), as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by an amount equal to the percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(3C) The adjustments (by any percentage movement upwards in the CPI) required under subsection (3B) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (3B) and (3F), be calculated,—
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
+(3D) An adjustment under subsection (3B) must not reduce the weekly amounts of student allowances payable.
+(3E) Every adjustment made under subsection (3B) comes into force, or is considered to have come into force, on 1 April of the calendar year in which it is made, and applies to student allowances payable on and after that date.
+(3F) In this section,—
+  - **CPI** means the consumers price index-all groups published by Statistics New Zealand
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be withholdable in accordance with tax code M stated in section 24B of the Tax Administration Act 1994.
 (4) The power to make regulations under subsection (1) includes (and is deemed always to have included) power to make regulations—
   (a) authorising the Secretary, for the purposes of assessing the eligibility of any person for an allowance, to take into account the income of that person's parents or spouse or partner:
   (b) defining the terms parent, spouse, partner, and any related terms, for the purposes of the regulations:
