@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2010-08-24_
+_Consolidation as at 2010-09-27_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -3328,6 +3328,13 @@ Subject to sections 43, 81, 104, and 114(2)(c), the chief executive or, as the c
 (4) Subsections (1) to (3) do not apply, and must be treated as never having applied, in respect of a child's or young person's placement with his or her parent (before or after the commencement of this subsection) if—
   (a) the child or young person is or was a child or young person to whom section 361 applies or applied; and
   (b) under section 362, the child or young person is or was placed in the charge of the parent.
+(5) The minimum rates of payment determined under subsection (1) in respect of the board and lodgings of children and young persons must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate as at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(6) The adjustments (by any percentage movement upwards in the CPI) required under subsection (5) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (5) and (9), be calculated,—
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
+(7) An adjustment under subsection (5) must not reduce the weekly amounts payable under subsection (1) in respect of the board and lodgings of children and young persons.
+(8) Every Order in Council made under subsection (5) comes into force or is considered to have come into force on 1 April of the calendar year in which it is made, and applies to the rates payable in respect of the board and lodgings of children and young persons on and after that date.
+(9) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
 
 **Residences**
 
