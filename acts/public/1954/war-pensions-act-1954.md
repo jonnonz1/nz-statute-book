@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2010-05-28_
+_Consolidation as at 2010-09-27_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -680,7 +680,7 @@ The Secretary may, in determining the rate of any pension payable in respect of 
       (iii) in the case of a person who, in the relevant period, has been provided, in respect of any office or position held by the person, with board or lodging, or the use of a house or quarters, or has been paid an allowance instead of being provided with board or lodging, or with the use of a house or quarters, the value of those benefits (and the value of the benefits is to be determined, in the case of a dispute, by the Secretary); but
     (b) does not include any employer’s superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
   - **income** has the same meaning as in section 3(1) of the Social Security Act 1964
-  - **Income Test 3** means that the applicable rate of veterans’ pension must be reduced by 70 cents for every $1 of the combined income of the person in receipt of a veteran’s pension and his or her spouse or civil union partner or de facto partner in excess of $80 per week
+  - **Income Test 3** means that the applicable rate of veterans’ pension must be reduced by 70 cents for every $1 of the combined income of the person in receipt of a veteran’s pension and his or her spouse or civil union partner or de facto partner in excess of $100 per week
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
   - **ordinarily resident** , in relation to any person, does not include being unlawfully resident in New Zealand
   - **partner** has the same meaning as in section 3(1) of the Social Security Act 1964
@@ -802,11 +802,11 @@ On the death of any person who is ordinarily resident in New Zealand on the date
 (1) This section applies to any person in receipt of a veteran’s pension who has not attained the age at which he or she would be entitled to receive New Zealand superannuation if otherwise qualified to receive it.
 (2) Income Test 3 does not apply to any person to whom this section applies.
 (3) If a person to whom this section applies receives a veteran’s pension at a rate specified in clause 1 of Schedule 11, the Department must, in calculating the veteran’s pension payable, reduce the amount of the pension paid and payable by—
-  (a) 30 cents for every $1 of the employment income derived by the person (before the deduction of income tax) in excess of $80 per week, but not in excess of $180 per week; and
-  (b) 70 cents for every $1 of the employment income derived by the person (before the deduction of income tax) in excess of $180 per week.
+  (a) 30 cents for every $1 of the employment income derived by the person (before the deduction of income tax) in excess of $100 per week, but not in excess of $200 per week; and
+  (b) 70 cents for every $1 of the employment income derived by the person (before the deduction of income tax) in excess of $200 per week.
 (4) If a person to whom this section applies receives a veteran’s pension at a rate specified in clause 2 of Schedule 11, the Department must, in calculating the veteran’s pension payable, reduce the amount of the pension paid and payable by—
-  (a) 30 cents for every $1 of the combined income derived by the person and the person’s spouse or civil union partner or de facto partner in excess of $80 per week, but not in excess of $180 per week; and
-  (b) 70 cents for every $1 of the combined income derived by the person and the person’s spouse or civil union partner or de facto partner in excess of $180 per week.
+  (a) 30 cents for every $1 of the combined income derived by the person and the person’s spouse or civil union partner or de facto partner in excess of $100 per week, but not in excess of $200 per week; and
+  (b) 70 cents for every $1 of the combined income derived by the person and the person’s spouse or civil union partner or de facto partner in excess of $200 per week.
 
 **Payment overseas of veterans’ pensions**
 
