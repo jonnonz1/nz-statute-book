@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-09-30_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -459,14 +459,14 @@ A registered society or branch may (if its rules so provide) out of any surplus 
 ### 62 Obligation to appoint auditors
 (1) Subject to this section, every registered society and branch shall, in each financial year, appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year.
 (2) Subsection (1) of this section shall not apply to a society or branch if—
-  (a) the receipts and payments of that society or branch in respect of the preceding financial year did not, in the aggregate, exceed $20,000; and
-  (b) the value of its assets at the end of that year did not, in the aggregate, exceed $20,000.
+  (a) the receipts and payments of that society or branch in respect of the preceding financial year did not, in the aggregate, exceed $50,000; and
+  (b) the value of its assets at the end of that year did not, in the aggregate, exceed $50,000.
 (3) Subsection (1) of this section shall not apply to a registered branch if—
   (a) the conditions specified in subsection (2)(a) of this section are satisfied in respect of that branch; and
-  (b) at the end of the preceding financial year at least 75 percent of its assets had been transferred to the society of which it is a branch or to another registered branch of that society for the purpose of being invested, in accordance with section 50 of this Act, by that society or other branch, and the value of its assets not so transferred did not, in the aggregate, exceed $20,000; and
+  (b) at the end of the preceding financial year at least 75 percent of its assets had been transferred to the society of which it is a branch or to another registered branch of that society for the purpose of being invested, in accordance with section 50 of this Act, by that society or other branch, and the value of its assets not so transferred did not, in the aggregate, exceed $50,000; and
   (c) the society or branch to which the assets were transferred is one to which subsection (1) of this section applies in the financial year in question.
 (4) A registered society or branch to which, by virtue of subsection (2) or subsection (3) of this section, subsection (1) of this section does not apply in respect of any financial year shall, in this Act, be referred to as an exempt society or, as the case may be, an exempt branch, in respect of that financial year.
-(5) For the purposes of subsection (4) of this section, where the preceding financial year of a registered society or branch was greater than a period of 12 months, as provided under section 59 of this Act, the amount of $20,000 referred to in subsection (2) and subsection (3) of this section shall be increased proportionately.
+(5) For the purposes of subsection (4) of this section, where the preceding financial year of a registered society or branch was greater than a period of 12 months, as provided under section 59 of this Act, the amount of $50,000 referred to in subsection (2) and subsection (3) of this section shall be increased proportionately.
 (6) The Registrar may give a direction in the case of any particular society or branch which is not an exempt society or branch and which has not complied with subsection (1) of this section requiring it to comply with the said subsection within such period as he may specify in the direction; and any society or branch which fails to so comply within the specified time commits an offence against this Act.
 (7) The Governor-General, from time to time by Order in Council, may—and any such order may make different provision in relation to different cases or different circumstances.
   (a) substitute for any sum or percentage for the time being specified in this section, such sum or percentage as may be specified in the order; and
