@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2010-10-01_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -120,8 +120,8 @@ This Act applies if the Governor-General makes an Order in Council—
 ## Part 3 — Officials
 
 ### 8 Returning Officer
-(1) The Chief Electoral Officer referred to in section 18 of the Electoral Act 1993 is the Returning Officer for a referendum.
-(2) The Returning Officer is, under the direction of the Secretary for Justice, charged with the duty of implementing this Act, except Part 4.
+(1) The Electoral Commission must designate an Electoral Commissioner to be the Returning Officer for a referendum.
+(2) The Returning Officer is, under the direction of the Electoral Commission, charged with the duty of implementing this Act, except Part 4.
 (3) The Returning Officer must, as his or her first duty, make a declaration in form 1 before a Justice of the Peace or a solicitor.
 
 ### 9 Returning Officer may employ or engage persons
