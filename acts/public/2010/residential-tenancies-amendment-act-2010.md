@@ -1,5 +1,5 @@
 # Residential Tenancies Amendment Act 2010
-_Consolidation as at 2010-07-22_
+_Consolidation as at 2010-10-01_
 
 ### 1 Title
 This Act is the Residential Tenancies Amendment Act 2010.
@@ -13,16 +13,16 @@ This Act amends the Residential Tenancies Act 1986.
 ## Part 1 — Amendments to principal Act
 
 ### 4 Interpretation
-(1) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **approved form** , in relation to any application or other matter, means a form approved and made available by the chief executive for the purposes of that application or matter
   - **assignment** means a transfer to a person of all of the rights that a tenant has under a tenancy agreement
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **dispute** , in relation to a matter before, or to be brought before, the Tribunal, includes any claim, difference, question, or other matter, whether it requires a decision as between the parties or a declaration
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
   - **letting agent** , in relation to a tenancy, means a person who, in the ordinary course of business, acts, or who holds himself or herself out to the public as ready to act, for reward as an agent in respect of the grant or assignment of tenancies, whether or not that person carries on any other business
-(2) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **boarding house** , , , and have the meanings given to them in section 66B
-(3) Section 2(1) is amended by repealing the definitions of address for service, chief executive, member of the landlord’s family, Minister, Officer of the Tribunal, and service tenancy and substituting the following definitions in their appropriate alphabetical order:.
+(3) Section 2(1) is amended by repealing the definitions of address for service, chief executive, member of the landlord’s family, Minister, Officer of the Tribunal, and service tenancy and substituting the following definitions in their appropriate alphabetical order:
   - **address for service** has the meaning given to it by section 13AB
   - **chief executive** means the chief executive of the department
   - **member of the landlord’s or owner’s family** means any of the following:
@@ -50,40 +50,40 @@ Section 4 is repealed and the following section substituted:Act generally to app
   This Act applies to every tenancy for residential purposes except as specifically provided.
 
 ### 6 Act excluded in certain cases
-(1) Section 5 is amended by repealing paragraph (h) and substituting the following paragraph:.
+(1) Section 5 is amended by repealing paragraph (h) and substituting the following paragraph:
   (h) where the premises are used to provide accommodation to students—
     (i) at a school hostel (being a hostel within the meaning of section 2 of the Education Act 1989); or
     (ii) in accordance with the requirements of section 5B:
-(2) Section 5 is amended by repealing paragraphs (k) and (l) and substituting the following paragraphs:.
+(2) Section 5 is amended by repealing paragraphs (k) and (l) and substituting the following paragraphs:
   (k) where the premises—
     (i) are intended to provide temporary or transient accommodation (such as that provided by hotels and motels), being accommodation that is ordinarily provided for periods of less than 28 days at a time; and
     (ii) are subject to an agreement that has been entered into for the purpose of providing temporary or transient accommodation that continues to be provided under the agreement:
   (l) where the tenant occupies the premises under an occupation right agreement within the meaning of the Retirement Villages Act 2003:
-(3) Section 5 is amended by repealing paragraph (n) and substituting the following paragraph:.
+(3) Section 5 is amended by repealing paragraph (n) and substituting the following paragraph:
   (n) where the premises, not being a boarding house, continue to be used, during the tenancy, principally as a place of residence by the landlord or the owner of the premises or by any member of the landlord’s or owner’s family:
-(4) Section 5 is amended by repealing paragraph (s) and substituting the following paragraph:.
+(4) Section 5 is amended by repealing paragraph (s) and substituting the following paragraph:
   (s) where the tenancy agreement—
     (i) is genuinely entered into to enable a tenant (the sublandlord) to sublet the premises to provide accommodation for other people for commercial gain or to provide accommodation for the sublandlord's employees or to provide social housing; and
     (ii) is not entered into to provide accommodation for the sublandlord or to evade this Act or any of its provisions; and
     (iii) expressly provides that the sublandlord will not personally occupy the premises:
-(5) Section 5 is amended by inserting the following paragraphs after paragraph (t):.
+(5) Section 5 is amended by inserting the following paragraphs after paragraph (t):
   (ta) where the tenant occupies, under a tenancy agreement, a cabin, caravan, vehicle, tent, or other building or structure that—
     (i) is located in a camping-ground subject to regulations under the Health Act 1956; and
     (ii) is intended for human habitation for periods not exceeding 50 days in any continuous term of occupancy:
   (tb) where temporary or transient accommodation is provided in a relocatable home under a tenancy agreement that has been entered into for the purpose of providing accommodation of that kind and that continues to be provided under the agreement:
 (6) Section 5 is amended by adding the following subsections as subsections (2) and (3):
-  (2) In subsection (1)(s)(i), social housing means housing for—
+  (2) In subsection (1)﻿(s)﻿(i), social housing means housing for—
     (a) persons on low incomes:
     (b) persons with special housing needs:
     (c) persons whose disabilities mean that they need support or supervision in their housing.
-  (3) In subsection (1)(tb), relocatable home means a structure (other than a tent) that—
+  (3) In subsection (1)﻿(tb), relocatable home means a structure (other than a tent) that—
     (a) is located in a camping-ground subject to regulations under the Health Act 1956; and
     (b) is designed to be relocatable; and
     (c) comprises a group of rooms occupied or intended to be occupied either permanently or temporarily as the living quarters of a single housekeeping unit (whether consisting of 1 or more persons), which is completely self-contained in respect of domestic equipment and facilities.
 
 ### 7 New section 5B inserted
 The following section is inserted after section 5A:Exempt student accommodation
-  (1) For the purposes of section 5(1)(h)(ii), this Act does not apply to premises if—
+  (1) For the purposes of section 5(1)﻿(h)﻿(ii), this Act does not apply to premises if—
     (a) the premises are used to provide accommodation exclusively for students of 1 or more tertiary education providers; and
     (b) the premises are owned or operated by a person (an accommodation provider) who is—
       (i) a tertiary education provider; or
@@ -92,7 +92,7 @@ The following section is inserted after section 5A:Exempt student accommodation
   (2) The accommodation provider must provide services to the students accommodated in the premises that are over and above the services that a landlord must provide under Part 2 or 2A.
   (3) The accommodation provider must have in place house rules that aim to create an environment that fosters personal development and encourages a sense of community and association with fellow students.
   (4) The accommodation provider must take all reasonable steps to ensure that prospective and current student tenants are made aware of, and have access to copies of, the house rules.
-  (5) An agreement referred to in subsection (1)(b) is one that sets out—
+  (5) An agreement referred to in subsection (1)﻿(b) is one that sets out—
     (a) the rights and obligations of the accommodation provider and the tertiary education provider; and
     (b) a dispute resolution process by which disputes between the accommodation provider and the tertiary education provider may be resolved.
   (6) In this section, tertiary education provider has the same meaning as in section 159(1) of the Education Act 1989, and, accordingly, includes universities, polytechnics, colleges of education, wananga, specialist colleges, private training establishments registered under Part 18 of that Act, and government training establishments.
@@ -106,8 +106,8 @@ The following section is inserted after section 5A:Exempt student accommodation
     (b) the proposed extension or renewal will not prejudice third parties who are not in any way involved in the breach.
 
 ### 9 Contents of tenancy agreement
-(1) Section 13A(1)(m) is amended by omitting real estate agent and substituting letting agent.
-(2) Section 13A is amended by repealing subsection (1)(n).
+(1) Section 13A(1)﻿(m) is amended by omitting real estate agent and substituting letting agent.
+(2) Section 13A is amended by repealing subsection (1)﻿(n).
 (3) Section 13A is amended by repealing subsection (2).
 
 ### 10 New section 13AB inserted
@@ -143,7 +143,7 @@ The following sections are inserted after section 16:Landlord must have agent if
   (6) This section does not limit section 13A.
 
 ### 14 Requiring key money prohibited
-Section 17(4)(c) is amended by omitting real estate agent and substituting letting agent.
+Section 17(4)﻿(c) is amended by omitting real estate agent and substituting letting agent.
 
 ### 15 New section 18A inserted
 The following section is inserted after section 18:Landlord must not require security other than permitted bond
@@ -159,7 +159,7 @@ The following section is inserted after section 18:Landlord must not require sec
 
 ### 16 Duties of landlord on receipt of bond
 (1) Section 19(1) is amended by inserting (whether the amount is for the whole or part of the bond) after any amount by way of bond.
-(2) Section 19(1)(b) is amended by omitting prescribed and substituting approved.
+(2) Section 19(1)﻿(b) is amended by omitting prescribed and substituting approved.
 (3) Section 19 is amended by inserting the following subsection after subsection (1):
   (1A) Subsection (1) does not apply if a bond of 1 week’s rent or less is paid in respect of a boarding house tenancy. In that case, section 66D applies instead.
 
@@ -193,7 +193,7 @@ Section 22 is repealed and the following sections are substituted:Agreed applica
     (a) the tenancy to which the bond relates has terminated and no claim is made for the bond within 2 months of the termination; or
     (b) an application for the refund of the bond has been approved but the bond money has not been collected within 2 months of the approval.
   (2) The steps that the chief executive takes under subsection (1) may include the publication of 1 or more of the following:
-    (a) the name of the person to whom the bond is to be refunded if the circumstances described in subsection (1)(b) apply:
+    (a) the name of the person to whom the bond is to be refunded if the circumstances described in subsection (1)﻿(b) apply:
     (b) the name of the tenant in whose name the bond is held:
     (c) the amount, or approximate amount, of the bond:
     (d) the location of the premises to which the bond relates.
@@ -208,14 +208,14 @@ Section 22 is repealed and the following sections are substituted:Agreed applica
   (4) On receipt of a request made under subsection (3), Social Welfare may supply the information requested to any officer or employee of the department who is authorised to receive that information.
 
 ### 19 Rent increases
-(1) Section 24(1)(c) is amended by inserting (or, in the case of a boarding house tenancy, not less than 28 days) after not less than 60 days.
-(2) Section 24(1)(f)(i) is amended by inserting (or, in the case of a boarding house tenancy, 28 days) after 60 days.
-(3) Section 24(1) is amended by repealing paragraph (g) and substituting the following paragraph:.
+(1) Section 24(1)﻿(c) is amended by inserting (or, in the case of a boarding house tenancy, not less than 28 days) after not less than 60 days.
+(2) Section 24(1)﻿(f)﻿(i) is amended by inserting (or, in the case of a boarding house tenancy, 28 days) after 60 days.
+(3) Section 24(1) is amended by repealing paragraph (g) and substituting the following paragraph:
   (g) a landlord under a fixed-term tenancy—
     (i) may not increase the rent during the term of the tenancy unless permitted by the provisions of the tenancy agreement to do so; and
     (ii) may do so only in accordance with this section and any such provisions of the tenancy agreement; and
 (4) Section 24 is amended by inserting the following subsection after subsection (1):
-  (1A) The provisions referred to in subsection (1)(g) may take the form of the provisions set out in Schedule 1.
+  (1A) The provisions referred to in subsection (1)﻿(g) may take the form of the provisions set out in Schedule 1.
 
 ### 20 New section 24A inserted
 The following section is inserted after section 24:Expiry of temporary rent reduction
@@ -250,7 +250,7 @@ Section 32 is amended by adding the following subsection:
   (3) This section does not preclude a provision in a tenancy agreement requiring one party (the debtor) to reimburse the other party (the creditor) for any reasonable expenses or commissions paid or incurred by the creditor in recovering, or attempting to recover, any overdue payment that the debtor owes to the creditor under an order of the Tribunal.
 
 ### 24 Tenant’s goods not to be seized
-Section 33(4)(a) is amended by omitting section 62(1) and substituting any of sections 62 to 62C.
+Section 33(4)﻿(a) is amended by omitting section 62(1) and substituting any of sections 62 to 62C.
 
 ### 25 New section 39 substituted
 Section 39 is repealed and the following section substituted:Responsibility for outgoings
@@ -269,15 +269,15 @@ Section 39 is repealed and the following section substituted:Responsibility for 
   (5) In this section, premises includes facilities that are exclusively for the use of the tenant.
 
 ### 26 Tenant’s responsibilities
-(1) Section 40(2) is amended by inserting the following paragraph after paragraph (a):.
+(1) Section 40(2) is amended by inserting the following paragraph after paragraph (a):
   (ab) cause or permit any interference with, or render inoperative, any means of escape from fire within the meaning of the Building Act 2004; or
 (2) Section 40(3) is amended by omitting reside in each place where it appears and substituting in each case ordinarily reside.
 (3) Section 40 is amended by inserting the following subsection after subsection (3):
   (3A) The following are declared to be unlawful acts:
-    (a) a failure, without reasonable excuse, to quit the premises in contravention of subsection (1)(e)(i):
-    (b) a contravention of subsection (2)(ab):
-    (c) a contravention of subsection (2)(b):
-    (d) a contravention of subsection (2)(c) in circumstances that amount to harassment of a tenant or a neighbour of the tenant:
+    (a) a failure, without reasonable excuse, to quit the premises in contravention of subsection (1)﻿(e)﻿(i):
+    (b) a contravention of subsection (2)﻿(ab):
+    (c) a contravention of subsection (2)﻿(b):
+    (d) a contravention of subsection (2)﻿(c) in circumstances that amount to harassment of a tenant or a neighbour of the tenant:
     (e) a contravention, without reasonable excuse, of subsection (3).
 (4) Section 40(4) is amended by inserting (other than fair wear and tear) after Where any damage.
 
@@ -298,9 +298,9 @@ Section 42 is amended by repealing subsection (4) and substituting the following
     (b) in any other case, without the prior written consent of the landlord.
 
 ### 29 Landlord’s responsibilities
-(1) Section 45(1) is amended by inserting the following paragraph after paragraph (c):.
+(1) Section 45(1) is amended by inserting the following paragraph after paragraph (c):
   (ca) if the premises do not have a reticulated water supply, provide adequate means for the collection and storage of water; and
-(2) Section 45(1)(d) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
+(2) Section 45(1)﻿(d) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) the tenant has given the landlord notice of the state of disrepair or made a reasonable attempt to do so; and
 (3) Section 45 is amended by inserting the following subsection after subsection (1):
   (1A) Failure by the landlord to comply with any of paragraphs (a) to (ca) of subsection (1) is declared to be an unlawful act.
@@ -308,8 +308,8 @@ Section 42 is amended by repealing subsection (4) and substituting the following
   (2A) A contravention by the landlord of subsection (2) is declared to be an unlawful act.
 
 ### 30 Landlord’s right of entry
-(1) Section 48(1)(a) is amended by inserting freely after tenant.
-(2) Section 48(2) is amended by inserting the following paragraph after paragraph (d):.
+(1) Section 48(1)﻿(a) is amended by inserting freely after tenant.
+(2) Section 48(2) is amended by inserting the following paragraph after paragraph (d):
   (da) for the purpose of providing services agreed to under the tenancy agreement, but only if the entry complies with any conditions specified in the tenancy agreement; or
 (3) Section 48 is amended by repealing subsection (3) and substituting the following subsections:
   (3) With the prior consent of the tenant, the landlord may enter the premises at any reasonable time for the purpose of showing the premises—
@@ -325,27 +325,27 @@ Section 42 is amended by repealing subsection (4) and substituting the following
 (4) Section 48(6) is amended by omitting $500 and substituting $2,000.
 
 ### 31 Circumstances in which tenancies are terminated
-Section 50 is amended by repealing paragraph (a) and substituting the following paragraphs:.
-  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 58(1)(d), (da), 59, or 59A apply, by giving notice in accordance with the applicable section:
+Section 50 is amended by repealing paragraph (a) and substituting the following paragraphs:
+  (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 58(1)﻿(d), (da), 59, or 59A apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
 
 ### 32 New section 50A inserted
-The following section is inserted after section 50:Termination following death of sole tenantResidential Tenancies Act 1997 s 228 (Vic).
+The following section is inserted after section 50:Termination following death of sole tenantResidential Tenancies Act 1997 s 228 (Vic)
   (1) On the death of a sole tenant under a tenancy agreement (whether for a fixed-term tenancy or a periodic tenancy), the tenancy agreement terminates on the earliest of the following dates:
     (a) the date that is the 21st day after the date on which the personal representative of the tenant or a person who is the tenant’s next of kin gives the landlord written notice of the death of the tenant:
     (b) the date that is the 21st day after the landlord gives the personal representative of the tenant or a person who is the tenant’s next of kin written notice to vacate the premises that are the subject of the tenancy agreement:
     (c) the date that is agreed in writing by the landlord with the personal representative of the tenant or with a person who is the tenant’s next of kin:
     (d) the date determined as the termination date of the tenancy agreement by the Tribunal on the application of the landlord under subsection (2).
-  (2) If a landlord is unable to give notice to vacate under subsection (1)(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
+  (2) If a landlord is unable to give notice to vacate under subsection (1)﻿(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
 
 ### 33 Termination by notice
 (1) Section 51(1) is amended by omitting and 53 of this Act and substituting , 53, 53A, 59, and 59A.
-(2) Section 51(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(2) Section 51(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) where the owner of the premises requires the premises as the principal place of residence for the owner or any member of that owner’s family, 42 days:
-(3) Section 51(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(3) Section 51(1) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) where the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession, 42 days:
 (4) Section 51(2) is amended by omitting and 53 of this Act and substituting to 53A, 59, and 59A.
-(5) Section 51(3) is amended by inserting the following paragraph after paragraph (c):.
+(5) Section 51(3) is amended by inserting the following paragraph after paragraph (c):
   (ca) in any case where the tenant is given less than 90 days’ notice, set out the reasons for the termination; and
 (6) Section 51 is amended by repealing subsection (6) and substituting the following subsection:
   (6) A party who has given an effective notice to terminate a tenancy—
@@ -355,7 +355,7 @@ The following section is inserted after section 50:Termination following death o
 ### 34 Special provisions for notice terminating service tenancies
 (1) Section 53 is amended by repealing subsection (1) and substituting the following subsection:
   (1) The landlord or the tenant must give a minimum period of notice of 14 days to terminate a service tenancy if the contract of service or, as the case requires, the contract for services has been terminated or either party has given notice to terminate that contract (subject to subsections (2) to (7)).
-(2) Section 53 is amended by omitting contract of service in subsections (2), (3), and (7)(a) and substituting in each case contract of service or, as the case requires, contract for services.
+(2) Section 53 is amended by omitting contract of service in subsections (2), (3), and (7)﻿(a) and substituting in each case contract of service or, as the case requires, contract for services.
 (3) Section 53 is amended by inserting the following subsection after subsection (5):
   (5A) Section 50A does not limit subsection (4) or (5).
 
@@ -381,11 +381,11 @@ Section 55(1) is amended by repealing paragraph (c) and substituting the followi
 
 ### 38 Termination for other breach
 (1) Section 56 is amended by omitting the heading and substituting the following heading: Termination for non-payment of rent and other breaches.
-(2) Section 56(1)(a) is amended by inserting (including provisions relating to the payment of rent) after tenancy agreement.
-(3) Section 56(1)(b)(i) is amended by omitting 10 working days and substituting 14 days.
+(2) Section 56(1)﻿(a) is amended by inserting (including provisions relating to the payment of rent) after tenancy agreement.
+(3) Section 56(1)﻿(b)﻿(i) is amended by omitting 10 working days and substituting 14 days.
 
 ### 39 Mortgagee or other person becoming entitled to possession
-Section 58(1) is amended by inserting the following paragraph after paragraph (d):.
+Section 58(1) is amended by inserting the following paragraph after paragraph (d):
   (da) in the case of a fixed-term tenancy, the tenant has the same right to give notice terminating the tenancy as the tenant would have had if the tenancy had been a periodic tenancy:
 
 ### 40 Destruction of premises
@@ -444,7 +444,7 @@ Section 62 is repealed and the following sections are substituted:Goods left on 
     (b) do the following:
       (i) take any personal documents belonging to the tenant to the nearest Police station and obtain a receipt for them from a Police employee; and
       (ii) sell the other goods by public auction or by private contract at a reasonable market price.
-  (6) If the landlord has sold the goods under subsection (5)(b)(ii), the landlord may apply to the Tribunal for an order specifying the amount (if any) owing to the landlord out of the proceeds of sale.
+  (6) If the landlord has sold the goods under subsection (5)﻿(b)﻿(ii), the landlord may apply to the Tribunal for an order specifying the amount (if any) owing to the landlord out of the proceeds of sale.
   (1) The landlord may apply to the Tribunal for an order for the disposal of the goods to which section 62(3) applies, including any personal documents belonging to the tenant.
   (2) On an application under subsection (1), the Tribunal must make an order—
     (a) for the return of the goods to the tenant; or
@@ -452,16 +452,16 @@ Section 62 is repealed and the following sections are substituted:Goods left on 
   (3) Without limiting section 78(3), the Tribunal may, in making an order for the sale or other disposition of goods under this section, direct that the order is not to take effect unless the tenant has had the opportunity to collect the goods within a period specified in the order or unless another condition is met.
   (4) If the Tribunal makes an order for the sale of goods under this section, the order must state the amount owing (if any) to the landlord out of the proceeds of sale.
   (1) In this section, amount owing means—
-    (a) where the landlord has sold the goods under section 62A(5)(b)(ii) but there is no order under section 62A(6), the cost of storage, transport, and sale reasonably incurred by the landlord:
+    (a) where the landlord has sold the goods under section 62A(5)﻿(b)﻿(ii) but there is no order under section 62A(6), the cost of storage, transport, and sale reasonably incurred by the landlord:
     (b) where there is an order by the Tribunal under section 62A(6) or 62B(4) specifying the amount owing to the landlord out of the proceeds of sale, that amount.
-  (2) The landlord may deduct any amount owing from the proceeds of any sale under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b).
+  (2) The landlord may deduct any amount owing from the proceeds of any sale under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b).
   (3) The landlord must pay the proceeds of any sale, less any deduction made under subsection (2), to the chief executive, and the chief executive must pay those proceeds into the Residential Tenancies Trust Account.
   (4) To the extent that any amount owing to the landlord is not fully reimbursed under subsection (2), the landlord may seek reimbursement, in accordance with section 22, 22A, or 22B, for that amount out of any bond held in the Residential Tenancies Trust Account in respect of the tenancy.
   (5) To the extent that any amount owing to the landlord is not fully reimbursed under subsections (2) and (4), the landlord may recover those costs from the tenant.
-  At any time within 1 year after the date of a sale under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
-  Sections 62A to 62D do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
+  At any time within 1 year after the date of a sale under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
+  Sections 62A to 62D do not absolve the tenant from any responsibility imposed on the tenant by the tenancy agreement or by section 40(1)﻿(e) or by any rule of law to remove from the premises on the termination of the tenancy all goods owned by the tenant that the tenant is entitled to possess.
   (1) The landlord is not liable in respect of goods sold or disposed of under section 62 or 62A, or under an order made under section 62B, unless it is shown that, at the time of the sale or disposition, the landlord had reason to believe that the goods were not owned by the tenant.
-  (2) Any goods sold under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b) are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
+  (2) Any goods sold under section 62A(5)﻿(b)﻿(ii) or under an order made under section 62B(2)﻿(b) are not recoverable from the purchaser unless it is shown that the purchaser acted otherwise than in good faith.
 
 ### 45 Entry without order of Tribunal prohibited
 Section 63(2) is amended by omitting to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 and substituting to a fine not exceeding $2,000.
@@ -532,9 +532,9 @@ The following Part is inserted after section 66:Boarding house tenanciesApplicat
   (2) A boarding house tenancy agreement may, in addition, provide for the tenant to supply, for the purposes of sections 62 to 62B and 66X, the name and contact details of a contact person.
   (1) If 1 week’s rent or less is received as bond under a boarding house tenancy,—
     (a) the bond need not be lodged with the chief executive, and sections 19 to 22D do not apply; and
-    (b) the landlord must immediately give the tenant a receipt for the bond, and the receipt must comply with section 19(1)(a); and
+    (b) the landlord must immediately give the tenant a receipt for the bond, and the receipt must comply with section 19(1)﻿(a); and
     (c) the landlord must refund the bond to the tenant when the tenancy terminates.
-  (2) Despite subsection (1)(c), the landlord may retain out of a bond—
+  (2) Despite subsection (1)﻿(c), the landlord may retain out of a bond—
     (a) any unpaid rent owing under the tenancy; and
     (b) any other amount owing by the tenant to the landlord, such as (without limitation) costs associated with repairing damage attributable to the tenant, replacing lost keys, reimbursement for services provided by the landlord, or unpaid gas, electricity, water, or telephone charges.
   (3) If the landlord does not refund the bond, or withholds more of the bond than the tenant considers is justified, the tenant may apply to the Tribunal for an order.
@@ -595,9 +595,9 @@ The following Part is inserted after section 66:Boarding house tenanciesApplicat
     (g) keep a pet on the premises without the permission of the landlord.
   (3) The obligations in this section are in addition to the obligation in section 66G(3).
   (4) The following are declared to be unlawful acts:
-    (a) a contravention of subsection (2)(b):
-    (b) a contravention of subsection (2)(c):
-    (c) a contravention of subsection (2)(d) in circumstances that amount to harassment of a neighbour of the tenant.
+    (a) a contravention of subsection (2)﻿(b):
+    (b) a contravention of subsection (2)﻿(c):
+    (c) a contravention of subsection (2)﻿(d) in circumstances that amount to harassment of a neighbour of the tenant.
   (1) The tenant of a boarding house is responsible for anything done or omitted to be done by any person who is on the premises with the tenant’s permission if the act or omission would have constituted a breach of the tenancy agreement had it been the act or omission of the tenant.
   (2) Any damage done to a tenant’s boarding room is presumed to have been caused by the tenant, unless the tenant proves otherwise or is not the only tenant of that room.
   (3) For the purposes of subsection (2), a person who enters the tenant’s boarding room is presumed to be on the premises with the tenant’s permission, unless the tenant proves otherwise or is not the only tenant of that room.
@@ -663,9 +663,9 @@ The following Part is inserted after section 66:Boarding house tenanciesApplicat
     (c) putting it inside the tenant’s room (for example, by sliding it under the door).
   (1) The following are unlawful acts:
     (a) entry into a tenant’s room by a landlord otherwise than in accordance with section 66R:
-    (b) the use or threat of force by the landlord to enter or attempt to enter a tenant’s room (other than as provided for in section 66R(1)(b) or (c)):
+    (b) the use or threat of force by the landlord to enter or attempt to enter a tenant’s room (other than as provided for in section 66R(1)﻿(b) or (c)):
     (c) failure by a tenant of a boarding room (or any person occupying the tenant’s room with the tenant’s permission) to permit the entry by the landlord into the tenant’s room when the person entering is exercising a right of entry in accordance with section 66R.
-  (2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000.
+  (2) A landlord who uses or threatens to use force to gain entry into a tenant’s room in breach of subsection (1)﻿(b) commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000.
   (3) If a landlord enters a tenant’s room under section 66R(2), but does not comply with sections 66R(3) and 66S, the tenant may apply to the Tribunal for an order prohibiting the landlord from exercising the right to enter under section 66R(2) for a period specified in the order.
   (4) If a landlord damages any property of a tenant while in the tenant’s room, the tenant may apply to the Tribunal for compensation for the damage.
   (1) The landlord of a boarding house may terminate a boarding house tenancy—
@@ -707,11 +707,11 @@ The following Part is inserted after section 66:Boarding house tenanciesApplicat
 ### 50 Constitution of Tribunal
 (1) Section 67 is amended by omitting of Housing in each place where it appears.
 (2) Section 67(4) (which imposes an age restriction on appointees) is repealed.
-(3) Section 67(6)(a) is repealed (consequentially on the repeal of Schedule 1).
+(3) Section 67(6)﻿(a) is repealed (consequentially on the repeal of Schedule 1).
 
 ### 51 Term of office of Tenancy Adjudicator
 (1) Section 68(2) (which requires Tenancy Adjudicators to retire at a certain age) is repealed.
-(2) Section 68(5)(c) is amended by omitting of Housing.
+(2) Section 68(5)﻿(c) is amended by omitting of Housing.
 
 ### 52 Conduct of Tribunal and stationing of Tenancy Adjudicators
 Section 71 is amended by repealing subsection (2) and substituting the following subsection:
@@ -744,15 +744,15 @@ Section 75 is repealed.
   (1) The Tribunal has, subject to the Limitation Act 1950, jurisdiction to determine in accordance with this Act any dispute that—
     (a) exists between a landlord and a tenant or between a landlord and the guarantor of a tenant; and
     (b) relates to any tenancy to which this Act applies or to which this Act did apply at any material time.
-(2) Section 77(2) is amended by inserting the following paragraph after paragraph (a):.
+(2) Section 77(2) is amended by inserting the following paragraph after paragraph (a):
   (ab) to determine whether any premises are or are not, or were or were not at any material time, a boarding house as defined in section 66B:
-(3) Section 77(2) is amended by inserting the following paragraph after paragraph (k):.
+(3) Section 77(2) is amended by inserting the following paragraph after paragraph (k):
   (ka) to determine whether, and the extent to which, the guarantor of a tenant is liable to the landlord under the guarantee, and to order the guarantor to pay to the landlord any sum found to be payable under the guarantee:
-(4) Section 77(2) is amended by inserting the following paragraphs after paragraph (m):.
+(4) Section 77(2) is amended by inserting the following paragraphs after paragraph (m):
   (ma) to make an order declaring a house rule of a boarding house unlawful, or requiring a landlord to apply a house rule in a particular manner, or to vary a house rule, or to set a house rule aside:
   (mb) to order the landlord to refrain from exercising the power under section 66R(2) to enter the boarding room of a tenant under a boarding house tenancy:
   (mc) to make orders under section 62B concerning goods left on the premises on the termination of a tenancy:
-(5) Section 77(2)(p) is amended by omitting whole of the tenant’s interest and substituting rights of the tenant.
+(5) Section 77(2)﻿(p) is amended by omitting whole of the tenant’s interest and substituting rights of the tenant.
 (6) Section 77 is amended by inserting the following subsection after subsection (4):
   (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994.
 (7) Section 77 is amended by repealing subsection (5) and substituting the following subsection:
@@ -763,7 +763,7 @@ Section 75 is repealed.
 
 ### 58 Orders of Tribunal
 Section 78 is amended by inserting the following subsections after subsection (1):
-  (1A) A person with an interest in premises that are not subject to a tenancy agreement may apply, without notice, to the Tribunal for an order under subsection (1)(a) declaring the status of the premises for the purposes of this Act.
+  (1A) A person with an interest in premises that are not subject to a tenancy agreement may apply, without notice, to the Tribunal for an order under subsection (1)﻿(a) declaring the status of the premises for the purposes of this Act.
   (1B) An order made on an application under subsection (1A) is binding on all parties to any subsequent proceedings before the Tribunal, but the Tribunal may, on application made in any such proceedings, rescind the order if satisfied that the order is wrong or, because of a change in circumstances, no longer applicable.
 
 ### 59 New section 83A inserted
@@ -785,7 +785,7 @@ Sections 86 and 87 are repealed and the following sections substituted:Filing of
 ### 61 Functions of Tenancy Mediators
 (1) Section 88(3) and (4) are amended by omitting Tenancy Officer in each place where it appears and substituting in each case chief executive.
 (2) Section 88(5) is amended by omitting any party may file in the appropriate office of the Tribunal a copy of the order with a request that it be sealed and substituting a copy of the order may be filed in the appropriate office of the Tribunal.
-(3) Section 88(6) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(3) Section 88(6) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) decline to seal the order, and direct the chief executive to refer the matter to a Tenancy Mediator for further consideration in accordance with any directions given by the Tenancy Adjudicator; or
 
 ### 62 Tenancy Mediator to observe confidentiality
@@ -814,7 +814,7 @@ Section 92 is amended by adding the following subsection as subsection (2):
   (2) Where subsection (1) applies and neither the applicant nor the other party attends the hearing, the Tribunal may determine the matter only if it is satisfied that it has before it all the written information that it needs to make a proper determination.
 
 ### 65 Right of audience
-Section 93(2)(b) is amended by omitting $3,000 and substituting $6,000.
+Section 93(2)﻿(b) is amended by omitting $3,000 and substituting $6,000.
 
 ### 66 Proceedings usually to be in public
 Section 95(2) and (3) are amended by inserting or on its own initiative after party to the proceedings in each place where it appears.
@@ -927,7 +927,7 @@ Section 113 is repealed and the following section substituted:Chief executive to
 (2) Section 114(7) is amended by omitting $1,000 and substituting $2,000.
 
 ### 78 Rules of procedure
-Section 116(2)(d) and (g) are amended by omitting Tenancy Officers in each place where it appears and substituting in each case chief executive.
+Section 116(2)﻿(d) and (g) are amended by omitting Tenancy Officers in each place where it appears and substituting in each case chief executive.
 
 ### 79 Appeal to District Court
 (1) Section 117 is amended by inserting the following subsection after subsection (1):
@@ -935,7 +935,7 @@ Section 116(2)(d) and (g) are amended by omitting Tenancy Officers in each place
 (2) Section 117(5) is amended by omitting , in the prescribed form,.
 
 ### 80 General functions and powers of chief executive
-Section 123(1) is amended by inserting the following paragraph after paragraph (d):.
+Section 123(1) is amended by inserting the following paragraph after paragraph (d):
   (da) to supervise the operations of the office of the Tribunal and to work in close co-operation with the Registrar to ensure that disputes arising within the jurisdiction of the Tribunal are dealt with efficiently and expeditiously:
 
 ### 81 Annual report
@@ -957,7 +957,7 @@ Section 133(2) is amended by omitting $200 and substituting $400.
   (b) it may be sent by post addressed to the landlord or the tenant at the address or the Post Office box given by the landlord or the tenant as an address for service in accordance with this Act:
   (c) it may be delivered to the premises to which any address for service relates, and either placed in the mailbox or attached to the door in a prominent position:
   (d) it may be transmitted to the email address or facsimile number given by the landlord or the tenant as an address for service.
-(2) Section 136(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(2) Section 136(2) is amended by repealing paragraph (c) and substituting the following paragraph:
   (c) at the premises to which any address for service given by the tenant relates, by giving it to any person appearing to have attained the age of 16 years and to be residing at those premises; or
 (3) Section 136 is amended by inserting the following subsection after subsection (2):
   (2A) Section 91A overrides subsections (1) and (2) in relation to service on tenants in the circumstances set out in that section.
@@ -969,7 +969,7 @@ The following section is inserted after section 136:Calculation of periods
     (b) ends with the close of the last day of the period.
 
 ### 86 Regulations relating to other matters
-Section 140(1) is amended by inserting the following paragraph after paragraph (e):.
+Section 140(1) is amended by inserting the following paragraph after paragraph (e):
   (ea) prescribing specified databases for the purposes of section 112C(2):
 
 ### 87 Section 141 repealed
@@ -1019,7 +1019,7 @@ Schedule 1 is repealed and the Schedules 1 and 1A set out in the Schedule of thi
 (1) This section applies to boarding house tenancies.
 (2) If, on the commencement of Part 2A of the principal Act, a landlord, or any person on behalf of the landlord, holds a bond paid in respect of an existing tenancy, the following provisions apply:
   (a) in the case of a bond of more than 1 week’s rent, section 19(1) of the principal Act must be complied with within 23 working days of the commencement of Part 2A of the principal Act:
-  (b) in the case of a bond of 1 week’s rent or less, section 66D(1)(b) of the principal Act must be complied with within 5 working days of the commencement of Part 2A of the principal Act.
+  (b) in the case of a bond of 1 week’s rent or less, section 66D(1)﻿(b) of the principal Act must be complied with within 5 working days of the commencement of Part 2A of the principal Act.
 (3) Sections 13, 13A, and 66C of the principal Act (which relate to the form and content of boarding house tenancy agreements) do not apply to existing tenancies.
 (4) Section 66E of the principal Act (which relates to outgoings) does not apply to existing tenancies.
 (5) Section 9(2) and (3) of the principal Act (which are transitional provisions) apply to existing tenancies as if the references in those provisions to the commencement of this Act were references to the commencement of Part 2A of the principal Act.
@@ -1071,23 +1071,23 @@ Whenever a question arises whether an act or omission constitutes an unlawful ac
 | 29 | (Failure by landlord to give receipts for rent) | 200 |
 | 33 | (Landlord seizing or disposing of tenant’s goods) | 2,000 |
 | 38(3) | (Interference with privacy of tenant) | 2,000 |
-| 40(2)(ab) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 40(3A)(a) | (Failing to observe, without reasonable excuse, the tenant’s duties upon termination) | 1,000 |
-| 40(3A)(c) | (Using or permitting premises to be used for unlawful purpose) | 1,000 |
-| 40(3A)(d) | (Harassment of tenant or neighbour) | 2,000 |
-| 40(3A)(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
+| 40(2)﻿(ab) | (Interference, etc, with means of escape from fire) | 3,000 |
+| 40(3A)﻿(a) | (Failing to observe, without reasonable excuse, the tenant’s duties upon termination) | 1,000 |
+| 40(3A)﻿(c) | (Using or permitting premises to be used for unlawful purpose) | 1,000 |
+| 40(3A)﻿(d) | (Harassment of tenant or neighbour) | 2,000 |
+| 40(3A)﻿(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
 | 44(2A) | (Assigning or subletting a tenancy when prohibited to do so or without the landlord’s written consent) | 1,000 |
 | 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, or building, or health and safety requirements) | 3,000 |
 | 45(2A) | (Landlord interfering with supply of services to premises) | 1,000 |
 | 46(3) | (Altering locks without consent of other party) | 1,000 |
-| 48(4)(a) | (Unlawful entry by landlord) | 1,000 |
+| 48(4)﻿(a) | (Unlawful entry by landlord) | 1,000 |
 | 61(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
 | 66G(4) | (Harassment of tenant in boarding house) | 2,000 |
 | 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, or building, or health and safety requirements) | 3,000 |
 | 66J(4) | (Landlord of boarding house interfering with services or failing to advise that premises on the market) | 1,000 |
-| 66K(2)(b) | (Interference, etc, with means of escape from fire) | 3,000 |
-| 66K(4)(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
-| 66K(4)(c) | (Harassment of neighbour) | 2,000 |
+| 66K(2)﻿(b) | (Interference, etc, with means of escape from fire) | 3,000 |
+| 66K(4)﻿(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
+| 66K(4)﻿(c) | (Harassment of neighbour) | 2,000 |
 | 66P(4) | (Landlord of boarding house failing to comply with order relating to house rules) | 2,000 |
 | 66T(1) | (Contraventions relating to entry, or attempted entry, of tenant’s room in boarding house) | 1,000 |
 | 66X(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
