@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2010-10-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -414,7 +414,7 @@ This Act shall bind the Crown.
 ## Part 2 — Imposition of tax
 
 ### 8 Imposition of goods and services tax on supply
-(1) Subject to this Act, a tax, to be known as goods and services tax, shall be charged in accordance with the provisions of this Act at the rate of 12.5 percent on the supply (but not including an exempt supply) in New Zealand of goods and services, on or after the 1st day of October 1986, by a registered person in the course or furtherance of a taxable activity carried on by that person, by reference to the value of that supply.
+(1) Subject to this Act, a tax, to be known as goods and services tax, shall be charged in accordance with the provisions of this Act at the rate of 15 percent on the supply (but not including an exempt supply) in New Zealand of goods and services, on or after the 1st day of October 1986, by a registered person in the course or furtherance of a taxable activity carried on by that person, by reference to the value of that supply.
 (2) For the purposes of this Act, goods and services shall be deemed to be supplied in New Zealand if the supplier is resident in New Zealand, and shall be deemed to be supplied outside New Zealand if the supplier is a non-resident:
 (2B) To the extent to which a supply of services consists of the facilitation of inbound tour operations, the supply is chargeable with tax under subsection (1), and section 11A does not apply to that part of the supply.
 (2C) Despite subsection (2B), the part of the supply that consists of the facilitation of inbound tour operations is charged at the rate of 0% if—
@@ -537,8 +537,8 @@ This Act shall bind the Crown.
   - **credit contract** has the same meaning as in section 3 of the Credit Contracts Act 1981 immediately before the repeal of that Act
 (5B) Despite subsection (5A), a person who is a party to an arrangement that is a credit contract but is not a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
 (5C) Despite subsection (5A), a person who is a party to an arrangement that is not a credit contract but is a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
-(6) Where and to the extent that any supply of goods and services consists of the supply, to any individual, of domestic goods and services in a commercial dwelling, the value attributable to that part of that supply of domestic goods and services that is for a period in excess of 4 weeks shall be deemed to be reduced to an amount equal to 60 percent of the amount that would, if that part of that supply were chargeable with tax at the rate of 7.5 percent, be the value of that part of that supply of domestic goods and services:
-  Provided that to the extent that any supply is a supply of domestic goods and services, and where that commercial dwelling is a residential establishment, and where the supplier and the recipient have agreed that that supply shall be for a period of or in excess of 4 weeks, or for a number of periods which in the aggregate will exceed 4 weeks, the value attributable to that supply of domestic goods and services shall, from the commencement of that supply, be deemed to be reduced to an amount equal to 60 percent of the amount that would, if that supply were chargeable with tax at the rate of 7.5 percent, be the value of that supply of domestic goods and services.
+(6) Where and to the extent that any supply of goods and services consists of the supply, to any individual, of domestic goods and services in a commercial dwelling, the value attributable to that part of that supply of domestic goods and services that is for a period in excess of 4 weeks shall be deemed to be reduced to an amount equal to 60 percent of the amount that would, if that part of that supply were chargeable with tax at the rate of 9 percent, be the value of that part of that supply of domestic goods and services:
+  Provided that to the extent that any supply is a supply of domestic goods and services, and where that commercial dwelling is a residential establishment, and where the supplier and the recipient have agreed that that supply shall be for a period of or in excess of 4 weeks, or for a number of periods which in the aggregate will exceed 4 weeks, the value attributable to that supply of domestic goods and services shall, from the commencement of that supply, be deemed to be reduced to an amount equal to 60 percent of the amount that would, if that supply were chargeable with tax at the rate of 9 percent, be the value of that supply of domestic goods and services.
 (7) If goods and services are treated by section 21I(1) as being supplied by a person, the consideration in money for the supply is—
   (a) an amount equal to the taxable value of the fringe benefit as determined by sections CX 20, and RD 54 to RD 57 of the Income Tax Act 2007, if paragraph (b) does not apply; or
   (b) nil, if the person would not have a deduction under section 20(3) relating to the supply of the fringe benefit if the consideration in money for the supply were given by paragraph (a).
@@ -760,7 +760,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
 (6) If the operator has a partner in an associated loyalty programme, the second requirement is still treated as met if, in addition to those requirements, loyalty points supplied by the operator are able to be redeemed for reward by the partner.
 
 ### 12 Imposition of goods and services tax on imports
-(1) Notwithstanding anything in this Act, a tax to be known as goods and services tax shall be levied, collected, and paid in accordance with the provisions of this section at the rate of 12.5 percent on the importation of goods (not being fine metal) into New Zealand, being goods that are—by reference to the value of the goods as determined under subsection (2) of this section.
+(1) Notwithstanding anything in this Act, a tax to be known as goods and services tax shall be levied, collected, and paid in accordance with the provisions of this section at the rate of 15 percent on the importation of goods (not being fine metal) into New Zealand, being goods that are—by reference to the value of the goods as determined under subsection (2) of this section.
   (a) entered therein, or delivered, for home consumption under the Customs and Excise Act 1996; or
   (b) entered for delivery to a manufacturing area licensed under section 12 of the Customs and Excise Act 1996; or
   (c) before their entry, or delivery, for home consumption or, as the case may be, entry for delivery to a manufacturing area licensed under section 12 of the Customs and Excise Act 1996, dealt with in breach of any provision of the Customs and Excise Act 1996,—
@@ -1172,6 +1172,11 @@ If a person makes a return that includes a figure for the value of supplies char
 (3) If subsection (1)(a) or (1)(c) applies, a registered person must reduce the output tax attributable by the amount of the output tax attributed to earlier taxable periods for the supply of the goods and services.
 (4) A person may change the time the person attributes output tax only with the Commissioner's approval.
 
+### 21CB Rate for change of use before 1 October 2010
+For a registered person who is treated as supplying goods and services as described in sections 21 and 21D, the rate of goods and services tax used for attributing output tax under section 21C for the supply of those goods and services is the rate that applied for the supply of goods and services immediately before 1 October 2010 if,––
+  (a) before 1 October 2010, the goods and services are applied for a purpose other than making taxable supplies; and
+  (b) the registered person chooses to apply this section.
+
 ### 21D Attribution of output tax in contemplation of sale of goods and services
 Despite section 21(1), a registered person is not treated as supplying goods and services in the course or furtherance of their taxable activity if—
   (a) the goods or services are sold after the person has attributed output tax at the time specified in section 21C(1)(a); and
@@ -1196,11 +1201,14 @@ Despite section 21(1), a registered person is not treated as supplying goods and
   (b) section 5(3) has deemed the goods and services as being supplied by a person who ceases to be a registered person and the goods or services are subsequently applied by the person, or by a partnership of which the person is a partner, for a purpose of making taxable supplies.
 
 ### 21F Deductions from output tax for goods and services applied for making taxable supplies
-(1) For the purpose of this Act, the goods and services referred to in section 21E are treated as being supplied in the taxable period to the person or partnership, and the Commissioner must, to the extent that the goods and services are applied, allow the person or partnership to make a deduction under section 20(3) for the tax fraction of the lesser of—
+(1) For the purpose of this Act, the goods and services referred to in section 21E are treated as being supplied in the taxable period to the person or partnership, and the Commissioner must, to the extent that the goods and services are applied, allow the person or partnership to make a deduction under section 20(3) for the COU tax fraction of the lesser of—
   (a) the cost of the goods and services, including any tax charged or input tax deduction claimed for the goods and services; and
   (b) the open market value of the supply of the goods and services.
 (2) Subsection (1) does not apply to a supply of services provided by an employee.
 (3)
+(4) For the purposes of this section, COU tax fraction means––
+  (a) the tax fraction, if paragraph (b) does not apply:
+  (b) the tax fraction that applied at the time that the goods and services referred to in section 21E were acquired by the person, if, before 1 October 2010, the goods and services are applied in a taxable period for a purpose of making taxable supplies either by the person or, if the person is a member of a partnership, by the partnership.
 
 ### 21G Timing of deduction under section 21F
 (1) A person to whom section 21F applies may make the deduction at either of the following times:
@@ -1236,9 +1244,12 @@ Despite section 21(1), a registered person is not treated as supplying goods and
 (3) Despite sections 9 and 21C, the supply of goods and services is treated as taking place at the time the fringe benefit is or is deemed to be provided or granted.
 (4) If sections DD 1 to DD 3 of the Income Tax Act 2007 apply to limit the deduction under that Act for expenditure or loss (including depreciation loss) that a registered person is allowed in the course of or furtherance of a taxable activity with respect to entertainment, as described by section DD 2 of that Act,—
   (a) the registered person is treated as having supplied entertainment for a consideration in money equal to the amount of the deduction prevented by sections DD 1 and DD 2 of that Act; and
-  (b) the time of the supply is treated as being the earlier of—
+  (b) unless subsection (4B) applies, the time of the supply is treated as being the earlier of—
     (i) the date on which the person furnishes a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed; and
     (ii) the date by which the person must furnish a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed.
+(4B) Despite subsection (4)(b), for a registered person who is treated as supplying entertainment as described in subsection (4), the time of supply for that entertainment is treated as being 30 September 2010 if––
+  (a) the relevant expenditure or loss for the entertainment is incurred before 1 October 2010; and
+  (b) the registered person chooses to apply this section.
 (5) For the purpose of subsection (4), expenditure does not include an entertainment allowance to an employee or a reimbursing payment that is exempt income under section CW 17, CW 17B, CW 17C, or CW 18 of the Income Tax Act 2007.
 
 ### 22 Goods and services acquired before incorporation
@@ -1595,7 +1606,7 @@ A registered person who receives a supply of services that is treated by section
 (5) The Commissioner must notify the registered person—within 15 working days following the day on which the return is received by the Commissioner.
   (a) of the Commissioner's intention to investigate the circumstances of the return under subsection (2); and
   (b) of the Commissioner's intention to withhold payment under subsection (3)—
-(6) If, but for this subsection, a registered person would be entitled to an amount as a refund under section 19C(8) or 20(5) or 45 or under the Tax Administration Act 1994, or as a payment of interest under Part 7 of the Tax Administration Act 1994, the Commissioner may apply the amount, in accordance with a request under section 173T of the Tax Administration Act 1994 or in the absence of a request in such order or manner as the Commissioner may determine, in payment of—
+(6) If, but for this subsection, a registered person would be entitled to an amount as a refund under section 19C(8) or 20(5) or 45 or 78B(5)(c) or under the Tax Administration Act 1994, or as a payment of interest under Part 7 of the Tax Administration Act 1994, the Commissioner may apply the amount, in accordance with a request under section 173T of the Tax Administration Act 1994 or in the absence of a request in such order or manner as the Commissioner may determine, in payment of—
   (a) tax that is payable by the person:
   (b) an amount that is payable by the person under another Inland Revenue Act.
 (7) If, but for this subsection, a person who is a specified agent of an incapacitated person, as those terms are defined in section 58(1), would be allowed an amount as a deduction under section 20(3) by virtue of section 58(1C), the Commissioner may apply the amount in payment of—
@@ -1944,7 +1955,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
 (1) For the purposes of this section the expression alteration in the law means the coming into force of the provisions of this Act or any amendment to this Act by which—
   (a) a supply of goods and services is charged with, or exempted from, tax; or
   (b) the rate of tax in relation to a supply of goods and services is increased or reduced.
-(2) Where an alteration in the law is made and a supplier has, at any time entered into any agreement or contract in respect of the supply of goods and services with a recipient, unless express provision for the exclusion of any such alteration in the law is contained in the agreement or contract, or where the alteration in the law has been taken into account, every such agreement or contract shall be deemed to be modified as follows:
+(2) Where an alteration in the law is made and a supplier has, at any time entered into any agreement or contract in respect of the supply of goods and services with a recipient, unless express provision for the exclusion of any such alteration in the law is contained in the agreement or contract, every such agreement or contract shall be deemed to be modified as follows:
   (a) where the alteration in the law renders that supply liable to be charged with tax or increases the amount of any tax charged or chargeable in relation to that supply, the supplier may add to the agreed price in the said agreement or contract the amount of that tax or the increase of that tax; or
   (b) where the alteration in the law renders that supply exempt from tax or reduces the amount of tax charged or chargeable in relation to that supply, the supplier or the recipient may deduct from the agreed price in the said agreement or contract the amount of that tax or the reduction of that tax:
   Provided that this subsection shall not apply where that contract or agreement is entered into after the expiry of the period of 3 months that commences with the coming into force of the alteration in the law:
@@ -2040,9 +2051,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (b) the amount of tax payable under section 20 of this Act by any registered person referred to in paragraph (a) of this subsection who makes or receives a qualifying supply shall be adjusted by an amount calculated in accordance with this section.
 (2) Where subsection (1)(b) of this section requires an adjustment to be made of the amount of tax payable by a registered person,—
   (a) the calculation of the adjustment shall be recorded in a form prescribed by the Commissioner; and
-  (b) the registered person shall furnish that prescribed form to the Commissioner together with—
-    (i) that person's Part 1 return furnished under section 78A of this Act; or
-    (ii) if the person is not required to furnish a Part 1 return, the return for the taxable period ending with the day preceding the date on which the new rate of tax comes into force.
+  (b)
 (2A) For the purposes of this section, the term qualifying supply means—to the extent that—
   (a) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on a payments basis,—
     (i) any taxable supply made by the registered person; or
@@ -2077,11 +2086,13 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (a) first determine the amount of consideration payable by the registered person on qualifying supplies made to the registered person:
   (b) subtract the amount of the consideration payable to the registered person on qualifying supplies made by the registered person:
   (c) multiply the resulting total by an amount equal to the old tax fraction subtracted from the new tax fraction (as respectively calculated in accordance with section 2 of this Act immediately before and immediately after the new rate of tax comes into force).
-(4) Where the amount of any adjustment calculated in accordance with this section is a positive amount, that amount shall, in relation to the registered person, be deemed to be output tax attributable to the taxable period for the return referred to in subsection (2)(b) of this section.
-(5) Where the amount so calculated is a negative amount, that amount shall be a credit to the registered person, and—but no such credit shall be refunded by the Commissioner.
+(4) Where the amount of any adjustment calculated in accordance with this section is a positive amount, that amount shall, in relation to the registered person, be deemed to be output tax attributable to the taxable period for,––
+  (a) the person's part 1 return furnished under section 78A of this Act; or
+  (b) the return for the taxable period ending with the day preceding the date on which the new rate of tax comes into force, if the person is not required to furnish a part 1 return.
+(5) Where the amount so calculated is a negative amount, that amount shall be a credit to the registered person, and—
   (a) shall be set off against any amount of tax payable by the registered person in respect of any taxable period ending before the day on which the new rate of tax comes into force; and
   (b) to the extent that it cannot be so set off, shall be set off against any amount of tax payable by the registered person in respect of the taxable period in which the new rate comes into force; and
-  (c) to the extent that it cannot be so set off, shall be carried forward to the next taxable period and set off against any amount of tax payable by the registered person in respect of that next taxable period, and so on,—
+  (c) to the extent that it cannot be so set off, refunded to the person, subject to section 46(6).
 (6) Subject to subsections (6A) and (6B) of this section, where a registered person who has made an adjustment pursuant to this section subsequently writes off as a bad debt any amount that was consideration for a qualifying supply,—
   (a) the registered person shall make an adjustment of an amount equal to the amount written off as a bad debt, multiplied by an amount equal to the old tax fraction subtracted from the new tax fraction (as referred to in subsection (3)(c) of this section); and
   (b) the amount of that adjustment shall, in the taxable period in which the amount is written off, be deemed to be—
