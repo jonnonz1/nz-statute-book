@@ -1,5 +1,5 @@
 # International Finance Agreements Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-10-01_
 
 > An Act to amend the International Finance Agreements Act 1961
 
