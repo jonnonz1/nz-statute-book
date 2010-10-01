@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-09-26_
+_Consolidation as at 2010-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4742,7 +4742,7 @@ Non-participating redeemable shares
 When this section applies
 (1) This section applies when an investor in a multi-rate PIE derives income attributed under section CP 1 (Attributed income of investors in multi-rate PIEs) in an income year, and—
   (a) the prescribed investor rate for the investor in the relevant calculation period is more than zero; and
-  (b) that rate is not more than the tax rate notified under section HM 60 (Notified rates) in relation to the investor when the PIE calculates—
+  (b) that rate is not more than the notified investor rate in relation to the investor when the PIE calculates—
     (i) its income tax liability under section HM 47 (Calculation of tax liability or tax credit of multi-rate PIEs) in relation to the income; or
     (ii) a voluntary payment under section HM 45 (Voluntary payments) that is intended to be a final payment of its income tax liability in relation to the income.
 When this section does not apply
@@ -23858,6 +23858,16 @@ Payment to Commissioner
 Provisional tax rules
 (5) The PIE is not required to pay provisional tax under subpart RC (Provisional tax) for the tax year.
 
+### HM 42B Part-year tax calculations for PIEs under the exit calculation option for the 2010–11 tax year
+When this section applies
+(1) This section applies to a PIE for the 2010–11 tax year if section HM 42 applies to the PIE for that year and the PIE chooses to apply this section by filing a return under section 57B(5) or (7) of the Tax Administration Act 1994 in accordance with this section.
+Part-year tax calculations: description
+(2) For calculating their income tax liability for the 2010–11 tax year, the PIE treats references to an income year or a tax year as if they are references to 2 separate tax years and corresponding income years within that tax year, divided by 1 October 2010 (for example: an amount of income attributed to a date before 1 October 2010 is included in the first part-year and taxed using the notified investor rate advised before 1 October 2010. A notified investor rate advised on or after 1 October 2010 is applied only to the amount of income attributed to the second part-year).
+Part-year tax calculations: effect
+(3) The part-year calculations may give rise to income and deductions for the income year and they do create part-year tax return obligations, except that the requirement for returns under section 57B(7)(a) of the Tax Administration Act 1994 and for notice in relation to investors or proxies under section 31C(4) of that Act can be met by sending returns or notices on a full-year or part-year basis. The 2 part-year calculations create 2 income tax liabilities for 2 part-years.
+Foreign tax credits: special rule
+(4) Despite subsections (2) and (3), tax credits under subpart LJ (Tax credits for foreign income tax) may be used in accordance with section HM 51 in either part-year, if they are attributable to the first part-year.
+
 ### HM 43 Quarterly calculation option
 Quarterly calculation
 (1) A multi-rate PIE that does not choose to calculate and pay its income tax liability under the exit calculation or provisional tax calculation options, must calculate its tax liability for each quarter of the tax year using the formula set out in section HM 47. The notice requirements are set out in section 31B of the Tax Administration Act 1994.
@@ -23910,8 +23920,8 @@ Formula
 Definition of items in formula
 (4) In the formula,—
   (a) rate is—
-    (i) the tax rate under section HM 60 relating to the investor for the period; or
-    (ii) 30%, if the PIE is treated as the sole investor under section HM 37:
+    (i) the tax rate under section HM 58 or HM 60, as applicable, that relates to the investor for each day for the period; or
+    (ii) 28%, if the PIE is treated as the sole investor under section HM 37:
   (b) amount is the amount calculated under sections HM 36(1) and (2) and HM 37, as applicable, for the investor.
 Result of formula: tax liability or tax credit
 (5) If the result of the formula in subsection (3) is positive, the amount is the PIE’s tax liability for the calculation period. If the result is negative, the amount is a tax credit of the PIE under section LS 1 (Tax credits for multi-rate PIEs), see section HM 55. However, a tax credit does not arise under section LS 1 for a multi-rate PIE that chooses to use the provisional tax calculation option.
@@ -23989,8 +23999,8 @@ Using tax credit to satisfy income tax liability
 Amount
 (3) The total amount of the credits able to be used is the lesser of—
   (a) the total amount of the attributed foreign tax credits for the tax year or exit period, as applicable:
-  (b) the amount calculated by multiplying the attributed PIE income of the investor from the PIE for the tax year by,—
-    (i) for an exiting investor described in subsection (1)(b), the notified investor rate in relation to the investor for the attribution period before their exit period; or
+  (b) the amount calculated by multiplying the attributed PIE income of the investor from the PIE for the tax year or exit period, as applicable by,—
+    (i) for an exiting investor described in subsection (1)(b), the notified investor rate in relation to the investor that the PIE would have used had the period not been an exit period; or
     (ii) for a zero-rated investor, their basic tax rate set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year.
 Amount for PIEs or proxies
 (4) Despite subsection (3), the amount of the credit is the attributed amount if the investor is—
@@ -24036,15 +24046,16 @@ An investor (a zero-rated investor) in a multi-rate PIE has a prescribed investo
   (e) a PIE or superannuation fund, other than a trustee who chooses a rate under schedule 6, table 1, row 3 or 5 (Prescribed rates: PIE investments and retirement scheme contributions):
   (f) a person who derives income as a trustee and does not choose a rate under schedule 6, table 1, row 3, 5, or 7.
 
-### HM 58 Transitional rate for certain investors
+### HM 58 Transition of rate for certain investors
 When this section applies
-(1) This section applies to a multi-rate PIE in relation to an income year that starts on or after 1 April 2010 and a person who—
-  (a) is an investor in the PIE; and
-  (b) has a notified investor rate of 19.5% on the last day of the preceding income year.
-Rate applying
-(2) The person's notified investor rate for income years that start on or after 1 April 2010 is treated as 21%.
+(1) This section applies to a multi-rate PIE in relation to a person who is an investor in the PIE, and the person has, on 30 September 2010, a notified investor rate of 12.5%, 19.5%, 21%, or 30%.
+Rate applying on and after 1 October 2010
+(2) On and after 1 October 2010, the person's notified investor rate is––
+  (a) 10.5%, if it was 12.5% on 30 September 2010:
+  (b) 17.5%, if it was 19.5% or 21% on 30 September 2010:
+  (c) 28%, if it was 30% on 30 September 2010.
 Exception: new notified rate
-(3) Subsection (2) does not apply if the person advises the PIE of a different notified investor rate for an income year.
+(3) Subsection (2) does not apply if the person advises the PIE of a different notified investor rate.
 
 ### HM 59 Prescribed investor rates for certain investors: 0%
 [Repealed]
@@ -24055,13 +24066,15 @@ Notifying PIE
 Time of notification
 (2) The investor must give notice before the end of the relevant period.
 Application of rate
-(3) A multi-rate PIE must apply the investor rate last notified by an investor in relation to every day of the period. However, this subsection does not apply if the PIE has made a voluntary payment of tax under section HM 45 that is intended to satisfy its income tax liability for the period in relation to the investor unless the rate last notified applies to the voluntary payment.
+(3) For an investor for an income year, a multi-rate PIE must apply the most recent notified investor rate to every day in the period. However, for the 2010–11 income year, the most recent notified investor rate on or after 1 October 2010 is applied only to every day on or after 1 October 2010. For a day before 1 October 2010, the multi-rate PIE may apply a notified investor rate corresponding to the most recent notified investor rate, ignoring the Taxation (Budget Measures) Act 2010 (for example: a notified investor rate of 12.5% may be applied before 1 October 2010, if the most recent notified investor rate on or after 1 October 2010 is 10.5%).
+Exception
+(3B) Subsection (3) does not apply if the PIE has made a voluntary payment of tax under section HM 45 that is intended to satisfy its income tax liability for the period in relation to the investor unless the rate last notified applies to the voluntary payment.
 When chosen rate lower than rate in sections HM 56 to HM 58
 (4) If an investor advises a notified investor rate that is lower than their prescribed investor rate that would apply under sections HM 56 to HM 58, income attributed to them by the PIE is not excluded income of the investor under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
 When rate disregarded
 (5) The Commissioner may notify a PIE to disregard an investor's notified investor rate if the Commissioner considers the rate is incorrect. The notification must include a rate for the investor that the Commissioner considers appropriate.
 When no rate notified
-(6) If an investor does not advise a multi-rate PIE of their notified investor rate, the rate applying for a period is 30%.
+(6) If an investor does not advise a multi-rate PIE of their notified investor rate, the rate applying for a period is 28%.
 
 ### HM 61 Certain exiting investors zero-rated
 Despite section HM 60, the tax rate applying to an investor for a quarter is 0% if—
@@ -28089,7 +28102,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### ML 1 What this subpart does
 Redundancy payments
-(1) This subpart provides a tax credit for a person who derives a redundancy payment for loss of employment.
+(1) This subpart provides a tax credit for a person who derives a redundancy payment before 1 October 2010 for loss of employment.
 Exclusions
 (2) Despite subsection (1), no tax credit arises for a redundancy payment—
   (a) related to—
@@ -28104,7 +28117,7 @@ Exclusions
 
 ### ML 2 Tax credit for redundancy payments
 Tax credit
-(1) A person who derives a redundancy payment has a tax credit of an amount equal to 6 cents for every complete dollar of total redundancy payments derived by them. It does not matter whether—
+(1) A person who derives a redundancy payment before 1 October 2010 has a tax credit of an amount equal to 6 cents for every complete dollar of total redundancy payments derived by them before 1 October 2010. It does not matter whether—
   (a) a redundancy payment is paid in a lump sum or by instalment:
   (b) the total redundancy payments relate to 1 or more occasions of redundancy of the person.
 Maximum amount
@@ -29231,7 +29244,7 @@ Exclusions
 Benchmark dividend
 (3) The first dividend of the tax year is the benchmark dividend.
 Same imputation ratio
-(4) The imputation ratio of a dividend paid after the benchmark dividend must be the same as the imputation ratio of the benchmark dividend.
+(4) The imputation ratio of a dividend paid after the benchmark dividend must be the same as the imputation ratio of the benchmark dividend. This subsection is modified by section OZ 9 (Benchmark dividends: ratio change).
 Breach of imputation ratio
 (5) A breach of subsection (4) gives rise to an amount of an imputation debit under section OB 43 (table O2: imputation debits, row 16 (breach of imputation ratio)) calculated using the formula in section OB 43(1).
 Ratio change declaration
@@ -29949,7 +29962,7 @@ Exclusions
 Benchmark dividend
 (3) The first dividend of the tax year is the benchmark dividend.
 Same FDP ratio
-(4) The FDP ratio of a dividend paid after the benchmark dividend must be the same as the FDP ratio of the benchmark dividend.
+(4) The FDP ratio of a dividend paid after the benchmark dividend must be the same as the FDP ratio of the benchmark dividend. This subsection is modified by section OZ 9 (Benchmark dividends: ratio change).
 Breach of FDP ratio
 (5) A breach of subsection (4) gives rise to an FDP debit under section OC 22 (table O4: FDP debits, row 11 (breach of FDP ratio)) for an amount calculated using the formula in section OC 22(1).
 Ratio change declaration
@@ -32449,9 +32462,9 @@ Closing balance
 (3) An opening balance under subsection (2) is treated as the closing balance of the account.
 
 ### OZ 7 Memorandum accounts in transitional period
-Sections OZ 8 to OZ 15 apply for a period (the transitional period)—
-  (a) beginning the first day of a person's 2008-09 income year; and
-  (b) ending on 31 March 2010.
+Unless the context otherwise requires, sections OZ 8 to OZ 15 apply for a period (the transitional period)—
+  (a) beginning the first day of a person's 2011–12 income year; and
+  (b) ending on 31 March 2013.
 
 ### OZ 8 Attaching imputation credits and FDP credits: maximum permitted ratio
 When this section applies
@@ -32459,7 +32472,7 @@ When this section applies
   (a) a company pays a dividend in the transitional period; and
   (b) the company has a credit balance in its imputation credit account and FDP account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
 Rate applying for transitional period
-(2) If the amount of the imputation credit or FDP credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 33%.
+(2) If the amount of the imputation credit or FDP credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 30%.
 
 ### OZ 9 Benchmark dividends: ratio change
 When this section applies
@@ -32468,40 +32481,42 @@ When this section applies
   (b) the dividend is a later dividend for the purposes of sections OB 61(4) and OC 28(4) (which relate to the benchmark dividend rules), as applicable; and
   (c) the relevant benchmark dividend—
     (i) was 1 to which section OZ 8 applied; or
-    (ii) has a ratio of 33/67, for a reason other than the application of section OZ 8.
+    (ii) has a ratio of 30/70, for a reason other than the application of section OZ 8.
 When ratio treated as same as ratio for benchmark dividend
 (2) If, in the cases set out in subsection (3), the imputation ratio or FDP ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
 Cases
 (3) The cases referred to in subsection (2) are the following:
   (a) in the case of a benchmark dividend described in subsection (1)(c)(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8 (1)(b):
-  (b) in the case of a benchmark dividend described in subsection (1)(c)(ii), the later dividend has a ratio of 30/70.
+  (b) in the case of a benchmark dividend described in subsection (1)(c)(ii), the later dividend has a ratio of 28/72.
 
 ### OZ 10 Modifying ratios for imputation credits and FDP credits
 When this section applies
 (1) This section applies when—
-  (a) a person derives a dividend in the period from 1 October 2007 to 31 March 2010; and
+  (a) a person derives a dividend in the period from 1 October 2010 to 31 March 2013; and
   (b) the dividend and the imputation credits and FDP credits attached to the dividend, as applicable, have —
-  (i) an imputation ratio greater than 30/70 and less than or equal to 33/67; or
-  (ii) an FDP ratio greater than 30/70 and less than or equal to 33/67; or
-  (iii) a combined imputation and FDP ratio greater than 30/70 and less than or equal to 33/67.
+  (i) an imputation ratio greater than 28/72 and less than or equal to 30/70; or
+  (ii) an FDP ratio greater than 28/72 and less than or equal to 30/70; or
+  (iii) a combined imputation and FDP ratio greater than 28/72 and less than or equal to 30/70.
 Ratio applying
-(2) For the purposes of sections LE 8, LE 9, LF 6, and LF 7 (which relate to tax credits for imputation credits and FDP credits), if the amount of the imputation credit or FDP credit, as applicable, is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the relevant ratio is treated as 33/67.
+(2) For the purposes of sections LE 8, LE 9, LF 6, and LF 7 (which relate to tax credits for imputation credits and FDP credits), if the amount of the imputation credit or FDP credit, as applicable, is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the relevant ratio is treated as 30/70.
 
 ### OZ 11 Tax credits for imputation credits and FDP credits
 When this section applies
 (1) This section applies when—
-  (a) a person derives a dividend in the transitional period; and
+  (a) a person—
+    (i) derives a dividend in the transitional period, if the person is a new company tax rate person that is not a multi-rate PIE:
+    (ii) derives a dividend in the period from 1 October 2010 to 31 March 2013, if the person is a new company tax rate person that is a multi-rate PIE; and
   (b) the dividend, and the imputation credits and FDP credits attached to the dividend, as applicable, have—
-    (i) an imputation ratio greater than 30/70 and less than or equal to 33/67; or
-    (ii) an FDP ratio greater than 30/70 and less than or equal to 33/67; or
-    (iii) a combined imputation and FDP ratio greater than 30/70 and less than or equal to 33/67; and
-  (c) the person is a new tax rate person in the period for the dividend.
+    (i) an imputation ratio greater than 28/72 and less than or equal to 30/70; or
+    (ii) an FDP ratio greater than 28/72 and less than or equal to 30/70; or
+    (iii) a combined imputation and FDP ratio greater than 28/72 and less than or equal to 30/70; and
+  (c) the person is a new company tax rate person in the period for the dividend.
 Imputation ratio and FDP ratio
-(2) For a ratio described in subsection (1)(b)(i) or (ii), the amount of the tax credit that the person has is calculated using the formuladividend and credits × 0.30.
+(2) For a ratio described in subsection (1)(b)(i) or (ii), the amount of the tax credit that the person has is calculated using the formuladividend and credits × 0.28.
 Definition of item in formula
 (3) In the formula in subsection (2), dividend and credits is the amount of the imputation credit or FDP credit, as applicable, included in the person's assessable income for the purposes of section LE 1(1) or LF 1(1) (which relate to tax credits for imputation credits and FDP credits), together with the amount of dividend to which the relevant credit is attached.
 Combined imputation and FDP ratio
-(4) For a ratio described in subsection (1)(b)(iii), the total amount of tax credit that the person has is calculated using the formula—dividend and credits × 0.30.
+(4) For a ratio described in subsection (1)(b)(iii), the total amount of tax credit that the person has is calculated using the formula—dividend and credits × 0.28.
 Definition of item in formula
 (5) In the formula in subsection (4), dividend and credits is the total amount of the imputation credit and FDP credit included in the person's assessable income for the purposes of section LE 1(1) and LF 1(1), together with the amount of the dividend to which the credits are attached. For the purposes of the calculation of the total tax credit, imputation credits are reduced before FDP credits.
 
@@ -32510,23 +32525,23 @@ When this section applies
 (1) This section applies when—
   (a) a company pays or derives a dividend with an imputation credit attached in the transitional period; and
   (b) the dividend and imputation credit, to the extent to which, in the absence of subpart LP (Tax credits for supplementary dividends),—
-  (i) the combined imputation and FDP ratio is greater than 30/70 and less than or equal to 33/67; or
-  (ii) the imputation ratio is greater than 30/70 and less than or equal to 33/67; and
+  (i) the combined imputation and FDP ratio is greater than 28/72 and less than or equal to 30/70; or
+  (ii) the imputation ratio is greater than 28/72 and less than or equal to 30/70; and
   (c) section LP 2(1) (Tax credits for supplementary dividends) applies to the company, or the company is a supplementary dividend holding company.
 When ratio equal to old rate
-(2) For a ratio described in subsection (1)(b)(i) or (ii) that is equal to 33/67, then any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/17 as 67/187.
+(2) For a ratio described in subsection (1)(b)(i) or (ii) that is equal to 30/70, then any tax credit that the company has is calculated using the formula in section LP 2(2), treating 54/119 as 7/17.
 When ratio less than old rate
-(3) For a ratio described in subsection (1)(b)(i) or (ii) that is less than 33/67, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 33/67 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/17 as 67/187.
+(3) For a ratio described in subsection (1)(b)(i) or (ii) that is less than 30/70, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 30/70 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 54/119 as 7/17.
 Benchmark calculations
-(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 28 (which relate to imputation and FDP credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 33/67 and the old company tax rates.
+(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 28 (which relate to imputation and FDP credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 30/70 and the old company tax rates.
 Relationship with exempt income rules
-(5) If the company derives a dividend to which this section applies, item tax rate in the formula in section LP 8(2) (Relationship with exempt income rules) is treated as 33%, to the extent to which a part of the supplementary dividend was calculated as described in subsection (2) or (3).
+(5) If the company derives a dividend to which this section applies, item tax rate in the formula in section LP 8(2) (Relationship with exempt income rules) is treated as 30%, to the extent to which a part of the supplementary dividend was calculated as described in subsection (2) or (3).
 
 ### OZ 13 Fully credited dividends: modifying actual ratio
 What this section applies to
-(1) This section applies in the transitional period to a dividend for which, in the absence of this section, the actual ratio under section CD 43(26) (Available subscribed capital (ASC) amount) is greater than 30/70 and less than or equal to 33/67.
+(1) This section applies in the transitional period to a dividend for which, in the absence of this section, the actual ratio under section CD 43(26) (Available subscribed capital (ASC) amount) is greater than 28/72 and less than or equal to 30/70.
 Ratio for calculation
-(2) In the calculation under section CD 43(26), the part of the dividend that is fully credited, the actual ratio is treated as 30/70.
+(2) In the calculation under section CD 43(26), the part of the dividend that is fully credited, the actual ratio is treated as 28/72.
 
 ### OZ 14 Dividends from qualifying companies
 When this section applies
@@ -32534,7 +32549,7 @@ When this section applies
   (a) a qualifying company pays a dividend in the transitional period; and
   (b) section OZ 8 applies to the dividend.
 Exempt income
-(2) In the calculation under section HA 14 (Dividends paid by qualifying companies) the extent to which the dividend is exempt income of the person, item tax rate in the formula in section HA 15(2) (Fully imputed dividends) is treated as 0.33.
+(2) In the calculation under section HA 14 (Dividends paid by qualifying companies) the extent to which the dividend is exempt income of the person, item tax rate in the formula in section HA 15(2) (Fully imputed dividends) is treated as 0.30.
 
 ### OZ 15 Attaching imputation credits and notional distributions: modifying amounts
 When this section applies
@@ -32542,29 +32557,29 @@ When this section applies
   (a) a statutory producer board or a co-operative company determines to pay a cash distribution or make a notional distribution in the transitional period; and
   (b) the board or company has a credit balance in its imputation credit account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
 Statutory producer boards' imputation credits
-(2) In the calculation under section OB 73(4) (Statutory producer boards attaching imputation credits to cash distributions), the board may choose to treat item tax rate in the formula as 33%.
+(2) In the calculation under section OB 73(4) (Statutory producer boards attaching imputation credits to cash distributions), the board may choose to treat item tax rate in the formula as 30%.
 Statutory producer boards' notional distributions
-(3) In the calculation under section OB 75(2) (Statutory producer boards' notional distributions that are dividends), the board may choose to treat item tax rate in the formula as 33%.
+(3) In the calculation under section OB 75(2) (Statutory producer boards' notional distributions that are dividends), the board may choose to treat item tax rate in the formula as 30%.
 Co-operative companies' imputation credits
-(4) In the calculation under section OB 78(3) (Co-operative companies attaching imputation credits to cash distributions), the company may choose to treat item tax rate in the formula as 33%. This subsection does not apply to a Maori authority.
+(4) In the calculation under section OB 78(3) (Co-operative companies attaching imputation credits to cash distributions), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
 Co-operative companies' notional distributions
-(5) In the calculation under section OB 80(2) (Co-operative companies' notional distributions that are dividends), the company may choose to treat item tax rate in the formula as 33%. This subsection does not apply to a Maori authority.
+(5) In the calculation under section OB 80(2) (Co-operative companies' notional distributions that are dividends), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
 
 ### OZ 16 BETA reductions
 What this section applies to
 (1) This section applies to—
-  (a) a credit and a debit in the branch equivalent tax account of a company or a consolidated group before the first day of their 2008–09 income year:
-  (b) a credit and a debit arising to the branch equivalent tax account of a company or a consolidated group on or after the first day of their 2008–09 income year, if the credit and debit relate to their 2007–08 or earlier income years.
+  (a) a credit and a debit in the branch equivalent tax account of a company or a consolidated group before the first day of their 2011–12 income year:
+  (b) a credit and a debit arising to the branch equivalent tax account of a company or a consolidated group on or after the first day of their 2011–12 income year, if the credit and debit relate to their 2010–11 or earlier income years.
 Reduction
-(2) The amount of the credit and debit are reduced by multiplying the amount by 30/33.
+(2) The amount of the credit and debit are reduced by multiplying the amount by 28/30.
 
 ### OZ 17 CTRA reductions
 What this section applies to
 (1) This section applies to—
-  (a) a credit and a debit in the CTR account of a company or a consolidated group before the first day of their 2008–09 income year:
-  (b) a credit and a debit arising to the CTR account of a company or a consolidated group on or after the first day of their 2008–09 income year, if the credit and debit relate to their 2007–08 or earlier income years.
+  (a) a credit and a debit in the CTR account of a company or a consolidated group before the first day of their 2011–12 income year:
+  (b) a credit and a debit arising to the CTR account of a company or a consolidated group on or after the first day of their 2011–12 income year, if the credit and debit relate to their 2010–11 or earlier income years.
 Reduction
-(2) The amount of the credit and debit are reduced by multiplying the amount by 30/33.
+(2) The amount of the credit and debit are reduced by multiplying the amount by 28/30.
 
 ### OZ 18 Credit-back of PCA balance
 When this section applies
@@ -32943,7 +32958,7 @@ Standard method: 10% uplift
   (c) they have not provided the return on or before that date; and
   (d) the date is not the date of instalment F for the corresponding income year.
 Relationships and modification of standard method
-(4) Subsections (5) to (7) override subsection (3). Sections RZ 3 and RZ 5B (which relate to tax rate changes) modify subsections (2) and (3).
+(4) Subsections (5) to (7) override subsection (3). Section RZ 3 (Standard method: 2010–11 to 2012–13 income years) modifies subsections (2) and (3).
 Estimation method
 (5) The person may estimate their provisional tax liability for the tax year under section RC 7.
 GST ratio method
@@ -33033,7 +33048,7 @@ When no assessment for tax year before preceding tax year
 Total taxable supplies
 (8) In subsections (2), (5), and (7), and in sections RC 11, RC 19, and RC 31, total taxable supplies, for a person and a period, means the amount that is the total value of taxable supplies by the person for the period. The amount includes the GST charged on the supplies.
 Modification
-(9) Sections RZ 4 and RZ 5C (which relate to tax rate changes) modify this section.
+(9) Section RZ 4 (GST ratio method: 2010–11 to 2013–14 income years) modifies this section.
 
 **Instalments of provisional tax**
 
@@ -33089,8 +33104,8 @@ Calculation
 Definition of items in formula
 (3) In the formula,—
   (a) residual income tax is a person’s residual income tax, as applicable—
-    (i) for the preceding tax year, uplifted by 5% (modified as applicable by sections RZ 5 and RZ 5B (which relate to tax rate changes); or
-    (ii) for the tax year before the preceding tax year, uplifted by 10% (modified as applicable by sections RZ 5 and RZ 5B); or
+    (i) for the preceding tax year, uplifted by 5% (modified as applicable by sections RZ 5 (Calculating amounts under standard method: 2010–11 to 2012–13 income years); or
+    (ii) for the tax year before the preceding tax year, uplifted by 10% (modified as applicable by section RZ 5); or
     (iii) the amount estimated by them:
   (b) instalment number is the number of the instalment for the tax year, whether first, second, or third:
   (c) total instalments is the total number of instalments for the tax year:
@@ -33106,7 +33121,7 @@ Definition of item in formula
 Taxable supplies when person pays on monthly basis
 (3) For the purposes of subsection (1), a person who pays GST on a 1-month cycle under section 15 of the Goods and Services Tax Act 1985 must apply the GST ratio to the sum of their taxable supplies in the current taxable period and the preceding taxable period, that is, the taxable supplies in the 2-month period matching the instalment period.
 Modification
-(4) Sections RZ 4 and RZ 5C (which relate to tax rate changes) modify this section.
+(4) Section RZ 4 (GST ratio method: 2010–11 to 2013–14 income years) modifies this section.
 
 ### RC 12 Voluntary payments
 A person who is liable to pay provisional tax may at any time make a voluntary payment of an amount of provisional tax that—
@@ -36017,86 +36032,76 @@ For the purposes of sections MB 4 and MB 5 other than section MB 5(3) and (4) of
   (a) had not been liable to pay the New Zealand superannuitant surcharge; and
   (b) had not paid any New Zealand superannuitant surcharge by way of surcharge deduction.
 
-### RZ 3 Standard method: 2008–09 and 2009–10 income years
+### RZ 3 Standard method: 2010–11 to 2012–13 income years
 When this section applies
-(1) This section applies to the calculation of a person's provisional tax liability for any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year, when section RC 5 (Methods for calculating provisional tax liability) applies.
+(1) This section applies to the calculation of a person's provisional tax liability, when section RC 5 (Methods for calculating provisional tax liability) applies,––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12 and 2012–13 income years, if the person is a new personal tax rate person:
+  (b) for instalments payable for the 2011–12 and 2012–13 income years, if the person is a new company tax rate person.
 Standard method modified: for 5% uplift
-(2) The standard method under section RC 5(2) is modified so that,––
-  (a) for the 2008–09 income year, instead of using 105%, the amount of provisional tax payable is calculated using––
-    (i) 100%, if the person is not a new tax rate person; or
-    (ii) 90%, if the person is a new tax rate person:
-  (b) for the 2009–10 income year, instead of using 105%, the amount of provisional tax payable is calculated using 100%.
+(2) The standard method under section RC 5(2) is modified so that––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using 105%, the amount of provisional tax payable is calculated using 95%, if the person is a new personal tax rate person:
+  (b) for the 2011–12 income year, instead of using 105%, the amount of provisional tax payable is calculated using––
+    (i) 95%, if the person is a new personal tax rate person; or
+    (ii) 100%, if the person is a new company tax rate person.
 Standard method modified: for 10% uplift
-(3) The standard method under section RC 5(3) is modified so that, for the 2008–09 income year and the 2009–10 income year, instead of using 110%, the amount of provisional tax payable is calculated using––
-  (a) 105%, if the person is not a new tax rate person; or
-  (b) 95%, if the person is a new tax rate person.
+(3) The standard method under section RC 5(3) is modified so that––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using 110%, the amount of provisional tax payable is calculated using 95%, if the person is a new personal tax rate person:
+  (b) for the 2011–12 income year, instead of using 110%, the amount of provisional tax payable is calculated using––
+    (i) 95%, if the person is a new personal tax rate person; or
+    (ii) 105%, if the person is a new company tax rate person:
+  (c) for the 2012–13 income year, instead of using 110%, the amount of provisional tax payable is calculated using––
+    (i) 100%, if the person is a new personal tax rate person; or
+    (ii) 105%, if the person is a new company tax rate person.
 
-### RZ 4 GST ratio method: 2008–09 and 2009–10 income years
+### RZ 4 GST ratio method: 2010–11 to 2013–14 income years
 When this section applies
-(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the person is a new tax rate person:
-  (b) section RC 8 (GST ratio method) applies and requires an amount of residual income tax or an assessment of income tax for the calculation of the GST ratio:
-  (c) the amount referred to in paragraph (b) is the amount for the 2007–08 income year or an earlier income year.
-GST ratio method modified
-(2) In the application of the GST ratio method under section RC 8, the amount of residual income tax or the amount of an assessment of income tax are reduced by multiplying the amounts by 0.9.
+(1) This section applies to the calculation of a person's provisional tax liability, when section RC 8 (GST ratio method) applies and requires an amount of residual income tax or an assessment of income tax for the calculation of the GST ratio,––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12, 2012–13, and 2013–14 income years, if the person is a new personal tax rate person:
+  (b) for instalments payable for the 2011–12, 2012–13, and 2013–14 income years, if the person is a new company tax rate person.
+(2) The GST ratio method under section RC 8 is modified so that––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, and for the 2011–12 income year, if the person is a new personal tax rate person,––
+    (i) the amount of residual income tax or the amount of an assessment of income tax for the preceding year, as applicable, is reduced by multiplying the amount by 0.90:
+    (ii) the amount of residual income tax or the amount of an assessment of income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.85:
+    (iii) the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.80:
+  (b) for instalments payable for the 2012–13 income year, if the person is a new personal tax rate person,––
+    (i) the amount of residual income tax or the amount of an assessment of income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.90:
+    (ii) the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.85:
+  (c) for instalments payable for the 2013–14 income year, if the person is a new personal tax rate person, the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.90:
+  (d) for instalments payable for the 2011–12 income year, if the person is a new company tax rate person,––
+    (i) the amount of residual income tax or the amount of an assessment of income tax for the preceding year, as applicable, is reduced by multiplying the amount by 0.95:
+    (ii) the amount of residual income tax or the amount of an assessment of income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.95:
+    (iii) the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.95:
+  (e) for instalments payable for the 2012–13 income year, if the person is a new company tax rate person,––
+    (i) the amount of residual income tax or the amount of an assessment of income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.95:
+    (ii) the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.95:
+  (f) for instalments payable for the 2013–14 income year, if the person is a new company tax rate person, the amount of residual income tax or the amount of an assessment of income tax for the year that is 2 years before the preceding year or the transitional year, as applicable, is reduced by multiplying the amount by 0.95.
 
-### RZ 5 Calculating amounts under standard method: 2008–09 and 2009–10 income years
+### RZ 5 Calculating amounts under standard method: 2010–11 to 2012–13 income years
 When this section applies
-(1) This section applies to the calculation of a person's provisional tax liability for any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year, when section RC 10 (Calculating amount of instalment under standard and estimation methods) applies.
-Calculation modified: 2008–09 income year
-(2) In the calculation of the amount of an instalment for the 2008–09 income year, in section RC 10(3)(a),––
-  (a) subparagraph (i) is modified so that instead of a 5% uplift,––
-    (i) no uplift is applied, if the person is not a new tax rate person; or
-    (ii) a 10% reduction is applied, if the person is a new tax rate person:
-  (b) subparagraph (ii) is modified so that instead of a 10% uplift,––
-    (i) a 5% uplift is applied, if the person is not a new tax rate person; or
-    (ii) a 5% reduction is applied, if the person is a new tax rate person.
-Calculation modified: 2009–10 income year
-(3) In the calculation of the amount of an instalment for the 2009–10 income year, in section RC 10(3)(a),––
-  (a) subparagraph (i) is modified so that instead of a 5% uplift, no uplift is applied:
-  (b) subparagraph (ii) is modified so that instead of a 10% uplift,––
-    (i) a 5% uplift is applied, if the person is not a new tax rate person; or
-    (ii) a 5% reduction is applied, if the person is a new tax rate person.
+(1) This section applies to the calculation of a person's provisional tax liability, when section RC 10 (Calculating amount of instalment under standard and estimation methods) applies,––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year and for instalments for the 2011–12 and 2012–13 income years, if the person is a new personal tax rate person:
+  (b) for instalments payable for the 2011–12 and 2012–13 income years, if the person is a new company tax rate person.
+Calculation modified: for 5% uplift
+(2) In the calculation of the amount of an instalment, in section RC 10(3)(a), subparagraph (i) is modified so that––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using a 5% uplift, a 5% reduction is used, if the person is a new personal tax rate person:
+  (b) for the 2011–12 income year, instead of using a 5% uplift, the amount of provisional tax payable is calculated using––
+    (i) a 5% reduction, if the person is a new personal tax rate person; or
+    (ii) no uplift, if the person is a new company tax rate person.
+Calculation modified: for 10% uplift
+(3) In the calculation of the amount of an instalment, in section RC 10(3)(a), subparagraph (ii) is modified so that––
+  (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using a 10% uplift, a 5% reduction is used, if the person is a new personal tax rate person:
+  (b) for the 2011–12 income year, instead of using a 10% uplift, the amount of provisional tax payable is calculated using––
+    (i) a 5% reduction, if the person is a new personal tax rate person; or
+    (ii) a 5% uplift, if the person is a new company tax rate person:
+  (c) for the 2012–13 income year, instead of using a 10% uplift, the amount of provisional tax payable is calculated using––
+    (i) no uplift, if the person is a new personal tax rate person; or
+    (ii) a 5% uplift, if the person is a new company tax rate person.
 
 ### RZ 5B Standard method: new personal tax rate persons from 1 October 2008 to end 2009–10 income year
-When this section applies
-(1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2012–13 income year.
-Standard method modified: RIT reduction from 1 October 2008 to end 2008–09
-(2) For the purpose of the person’s provisional tax liability calculation from 1 October to the end of the 2008–09 income year, under section RC 5(2) and (3), and RC 10(3)(a)(i) and (ii), the following amounts are reduced by $730:
-  (a) the person’s residual income tax for the preceding tax year:
-  (b) the person’s residual income tax for the tax year before the preceding tax year.
-Standard method modified: RIT reduction 2009–10
-(3) For the purpose of the person’s provisional tax liability calculation for the 2009–10 income year,––
-  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $730:
-  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,460.
-Standard method modified: RIT reduction 2010–11
-(4)
-Standard method modified: RIT reduction 2011–12
-(5)
-Standard method modified: RIT reduction 2012–13
-(6)
+[Repealed]
 
 ### RZ 5C GST ratio method: new personal tax rate persons from 1 October 2008 to end 2009–10 income year
-When this section applies
-(1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2013–14 income year.
-GST method modified: RIT reduction from 1 October 2008 to end 2008–09
-(2) For the purposes of the person’s provisional tax liability and GST ratio calculation from 1 October 2008 to the end of the 2008–09 income year, under section RC 8(2) to (3B), and (7) to (7B), the following amounts are reduced by $730:
-  (a) the person’s residual income tax for the preceding tax year:
-  (b) the person’s income tax assessment or residual income tax for the tax year before the preceding tax year or the transitional year, as applicable:
-  (c) the person's income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable.
-GST method modified: RIT reduction 2009–10
-(3) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2009–10 income year,––
-  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding tax year is reduced by $730:
-  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding tax year or the transitional year, as applicable, is reduced by $1,460:
-  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $1,460.
-GST method modified: RIT reduction 2010–11
-(4)
-GST method modified: RIT reduction 2011–12
-(5)
-GST method modified: RIT reduction 2012–13
-(6)
-GST method modified: RIT reduction 2013–14
-(7)
+[Repealed]
 
 **Refunds**
 
@@ -37929,14 +37934,16 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **net mining loss** is defined in section IS 1(3) (General treatment of mining companies' net losses) for the purposes of subpart IS (Mining companies' and petroleum miners' tax losses)
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
   - **new business** is defined in section EY 29 (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
-  - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2008–09 income year or a later income year
+  - **new company tax rate person** ,––
+    (a) means a person who uses a 28% basic tax rate for the 2011–12 income year or later income years:
+    (b) includes, for the purposes of subpart OZ (Terminating provisions), a multi-rate PIE:
+    (c) does not include, for the purposes of subpart RZ (Terminating provisions), a multi-rate PIE
+  - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2010–11 income year or a later income year
   - **new reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
   - **new start grant** means a grant of money that is—
     (a) designated by the Minister of Agriculture as a new start grant; and
     (b) paid by the Government of New Zealand to a person in relation to an emergency event
-  - **new tax rate person** ,—
-    (a) means a person who uses a 30% basic tax rate for 2008–09 and later income years:
-    (b) includes a multi-rate PIE
+  - **new tax rate person**
   - **New Zealand** includes—
     (a) the continental shelf:
     (b) the water and the air space above any part of the continental shelf that is beyond New Zealand’s territorial sea, as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977, if and to the extent to which—
@@ -38049,7 +38056,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **notice** is defined in section 3(1) of the Tax Administration Act 1994
   - **notice of entitlement** means a notice issued under section 80KD(2) of the Tax Administration Act 1994
   - **notice period** is defined in section FM 38(6) (Notice requirements on forming or joining consolidated group) for the purposes of that section
-  - **notified investor rate** , for a multi-rate PIE and an investor, means an investor rate notified under section HM 60 (Notified rates)
+  - **notified investor rate** , for a multi-rate PIE and an investor, means an investor rate notified under section HM 60 (Notified investor rates) or a notified investor rate under section HM 58 (Transition of rate for certain investors)
   - **notify** means to give notice
   - **notional offshore investment amount** , for a reporting bank, is the amount referred to in section FE 22(2) (Notional offshore investment) for the purposes of FE 21(14) (Banking group’s New Zealand net equity)
   - **notional sale price** is defined in section FA 10(2) (Treatment when lease ends: lessor acquiring asset) for the purposes of that section
@@ -38072,7 +38079,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **offered or was offered or entered into** , in sections EY 12 (Meaning of life reinsurance) and EY 48 (Non-resident life insurers with life insurance policies in New Zealand), has the same meaning as
   - **off-market cancellation** means a share cancellation that is not an on-market cancellation
   - **offshore permit area** is defined in section CW 57 (Non-resident company involved in exploration and development activities) for the purposes of that section
-  - **old company tax rate** means a 33% basic tax rate applying before the 2008–09 income year
+  - **old company tax rate** means a 30% basic tax rate applying before the 2008–09 income year
   - **old financial arrangements rules** means—
     (a) the following provisions:
       (i) sections EZ 33 to EZ 52 (which relate to the old financial arrangements rules):
@@ -40216,29 +40223,29 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 ### 1 Amount of tax for section RD 67(a)
 If section RD 67(a) applies, the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution.
-Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $57,600 0.2103$57,601 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
+Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1052$16,801 – $57,600 0.1753$57,601 – $84,0000.3004$84,001 upwards0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 If section RD 67(b) applies, the amount of tax is determined by applying the rate of 0.33 to each dollar of an employer’s superannuation contribution.
 
 ### 3 Interest: general
 If clause 4 does not apply does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2.
-Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of the person who is paid the interest. 0.3802For a person who opens a new account after 31 March 2010 the payer of the interest—(a) has been supplied with the tax file number of the person; and(b)has not received a payment rate election from the person.0.3803For a person who chooses the payment rate of 0.380, the payer of the interest—(a) has been supplied with the tax file number of the person; and (b)has received a payment rate election from the person.0.3803BFor a person who chooses the payment rate of 0.390 before 1 April 2010, the payer of the interest—(a)has been supplied with the tax file number of the person; and(b)has received a payment rate election from the person.0.3804 For a person who chooses the payment rate of 0.330, the payer of the interest—(a)has been supplied with the tax file number of the person; and (b)has received a payment rate election from the person.0.3305For a person in relation to whom RWT is withheld at the payment rate of 0.195 before 1 April 2010, the payer of the interest—(a) has been supplied with the tax file number of the person; and (b)has not received a payment rate election from the person.0.2106 For a person who chooses the payment rate of 0.210, the payer of the interest—(a)has been supplied with the tax file number of the person; and (b)has received a payment rate election from the person.0.2107 For a person other than a trustee who chooses the payment rate of 0.125 and has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less, the payer of the interest—(a)has been supplied with the tax file number of the person; and (b) has received a payment rate election from the person.0.1258For a person—(a)who—(i)receives interest as a trustee of a testamentary trust to which section HC 37 applies; and(ii)chooses the payment rate of 0.125; and(b) in relation to whom, the payer of the interest—(i)has been supplied with the tax file number of the person; and(ii)has received a payment rate election from the person.0.125How to use this table Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest. 0.3302The payer of the interest—(a) has been supplied with the tax file number of a person who opens a new account after 31 March 2010 and who is paid the interest; and(b)has not received a payment rate election from the recipient of the interest:(c)is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.0.3303The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest––(i)before 1 October 2010, choosing the 0.390 or 0.380 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:(ii)on or after 1 October 2010, choosing the 0.330 payment rate.0.3304 The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest––(i)before 1 October 2010, choosing the 0.330 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:(ii)on or after 1 October 2010, choosing the 0.300 payment rate.0.3005The payer of the interest—(a) has been supplied with the tax file number of a person who has not opened a new account after 31 March 2010 and who is paid the interest; and (b)has not received a payment rate election from the recipient of the interest; and(c)is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.0.1756 The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest––(i)before 1 October 2010, choosing the 0.195 or 0.210 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:(ii)on or after 1 October 2010, choosing the 0.175 payment rate.0.1757 The payer of the interest—(a)has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and (b) has received a payment rate election from the recipient of the interest––(i)before 1 October 2010, choosing the 0.125 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:(ii)on or after 1 October 2010, choosing the 0.105 payment rate; and(c)the recipient has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less.0.1058The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and(b)has received a payment rate election from the recipient of the interest––(i)before 1 October 2010, choosing the 0.125 payment rate, and the payer of the interest is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:(ii)on or after 1 October 2010, choosing the 0.105 payment rate.0.105How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 4 Interest: most companies
 The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a trustee or a Maori authority. However, this restriction does not apply if the trustee is a portfolio investment entity.
-Table 3RowConditionsPayment rate1The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has not received a payment rate election from the recipient of the interest.0.332The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.333The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and(b)either—(i)has received a payment rate election from the recipient of the interest, choosing the 0.38 payment rate; or(ii)has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate before 1 April 2010.0.384The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.38How to use this tableFind the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
+Table 3RowConditionsPayment rate1The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has not received a payment rate election from the recipient of the interest.0.332The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.333The payer of the interest—(a)has been supplied with the tax file number of a person who is paid interest; and (b)has received a payment rate election from the recipient of the interest,––(i)on or after 1 October 2010, choosing the 0.33 payment rate:(ii)before 1 October 2010, choosing the 0.39 or 0.38 payment rate.0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.33How to use this tableFind the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 5 Dividends and replacement payments
 The payment rate for a payment of resident passive income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
 
 ### 6 Taxable Maori authority distributions
 The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4.
-Row Conditions Payment rate 1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.38 payment rate in row 2.0.1952The Maori authority:(a)makes a taxable Maori authority distribution that is more than $200; and(b)does not have a record of the tax file number of the member to whom the distribution is made.0.380
+Row Conditions Payment rate 1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.38 payment rate in row 2.0.1952The Maori authority:(a)makes a taxable Maori authority distribution that is more than $200; and(b)does not have a record of the tax file number of the member to whom the distribution is made.0.33
 How to use this table Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
 
 ### 7 Retirement scheme contributions
-The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5.Table 5RowConditionsPayment rate1The person responsible for withholding RSCT—(a) has been notified under section 28C of the Tax Administration Act 1994 that 12.5 cents in the dollar is the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.1252The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1253The person responsible for withholding RSCT—(a)has been notified under section 28C of the Tax Administration Act 1994 that 21 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.2104The person responsible for withholding RSCT—(a) has been notified under section 28C of the Tax Administration Act 1994 that 33 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.3305When none of rows 1 to 4 apply.0.380How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5.Table 5RowConditionsPayment rate1The person responsible for withholding RSCT—(a) has been notified under section 28C of the Tax Administration Act 1994 that 12.5 or 10.5 cents in the dollar is the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.1052 The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1053The person responsible for withholding RSCT—(a)has been notified under section 28C of the Tax Administration Act 1994 that 21 or 17.5 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.1754 The person responsible for withholding RSCT—(a) has been notified under section 28C of the Tax Administration Act 1994 that 33 or 30 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.3005When none of rows 1 to 4 apply.0.330How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ## Schedule 2 — Basic tax rates for PAYE income payments
 
@@ -40257,32 +40264,30 @@ If an employee has notified their employer that the employee’s tax code is M, 
 If an employee’s tax code under section 24B(3) of the Tax Administration Act 1994 is no notification, the basic tax rate amount for a payment of salary or wages is set by applying the rate of 0.45 for each dollar of the payment.
 
 ### 4 S tax code
-If an employee has notified their employer that the employee’s tax code is S under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.21 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is S under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.175 for each dollar of the payment.
 
 ### 5 SH tax code
-If an employee has notified their employer that the employee’s tax code is SH under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.33 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is SH under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.300 for each dollar of the payment.
 
 ### 6 ST tax code
-If an employee has notified their employer that the employee’s tax code is ST under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.38 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is ST under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.330 for each dollar of the payment.
 
 ### 7 CAE or EDW tax code
-If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural worker or an election day worker (as applicable) is set by applying the rate of 0.21 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural worker or an election day worker (as applicable) is set by applying the rate of 0.175 for each dollar of the payment.
 
 ### 8 NSW tax code
 If an employee has notified their employer that the employee's tax code is NSW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a non-resident seasonal worker is set by applying the rate of 0.15 for each dollar of the payment.
 
 ### 9 “SB” tax code
-If an employee has notified their employer that the employee's tax code is “SB” under section 24B(3)(bb) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.125 for each dollar of the payment.
+If an employee has notified their employer that the employee's tax code is “SB” under section 24B(3)(bb) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.105 for each dollar of the payment.
 
-| Table 1 |  |  |
+| Row | Condition | Tax rate |
 | --- | --- | --- |
-| Row | Condition | Payment rate |
-| 1 | Section RD 17(2)(a) applies and the sum is $14,000 or less. | 0.125 |
-| 2 | Section RD 10(2)(a) or RD 17(2)(b) applies. | 0.210 |
-| 3 | Section RD 10(2)(b) or RD 17(2)(c) applies. | 0.330 |
-| 4 | Section RD 10(2)(c) or RD 17(2)(d) applies. | 0.380 |
-| How to use this table |  |  |
-| Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column. |  |  |
+| 1 | Section RD 17(2)(a) applies and the sum is $14,000 or less. | 0.105 |
+| 2 | Section RD 10(2)(a) or RD 17(2)(b) applies. | 0.175 |
+| 3 | Section RD 10(2)(b) or RD 17(2)(c) applies. | 0.300 |
+| 4 | Section RD 10(2)(c) or RD 17(2)(d) applies. | 0.330 |
+| How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column. |  |  |
 
 ## Schedule 3 — Payment of provisional tax and terminal tax
 
@@ -40498,7 +40503,7 @@ In this part,—
     (d) sphagnum moss.
 
 ### 1
-A personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001 has a 0.125 rate of tax for each dollar of the payment.
+A personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001 has a 0.105 rate of tax for each dollar of the payment.
 
 ## Schedule 5 — Fringe benefit values for motor vehicles
 
@@ -40589,23 +40594,23 @@ The prescribed investor rate for a person who is an investor in a multi-rate PIE
 | Table 1 |  |  |  |
 | --- | --- | --- | --- |
 | Row | Conditions |  | Prescribed rate |
-| 1 | For a natural person who is resident in New Zealand, other than a person described in row 4 or 6. |  | 0.300 |
-| 2 | For a non-resident person. |  | 0.300 |
+| 1 | For a natural person who is resident in New Zealand, other than a person described in row 4 or 6. |  | 0.280 |
+| 2 | For a non-resident person. |  | 0.280 |
 | 3 | For a person who— |  |  |
 |  | (a) | is resident in New Zealand and who derives income for the relevant tax year as a trustee of a trust other than a trust with income that is exempt income under section CW 41 or CW 42; and |  |
-|  | (b) | notifies this rate for the relevant tax year. | 0.300 |
+|  | (b) | notifies this rate for the relevant tax year. | 0.280 |
 | 4 | For a natural person who is resident in New Zealand and is not a person described in row 6 and who, in either of the 2 income years before the relevant tax year, derives— |  |  |
 |  | (a) | $48,000 or less in taxable income; and |  |
-|  | (b) | $70,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss. | 0.210 |
+|  | (b) | $70,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss. | 0.175 |
 | 5 | For a person who— |  |  |
 |  | (a) | is resident in New Zealand and derives income for the relevant tax year as a trustee of a trust other than a trust with income that is exempt income under section CW 41 or CW 42; and |  |
-|  | (b) | notifies this rate for the relevant tax year. | 0.210 |
+|  | (b) | notifies this rate for the relevant tax year. | 0.175 |
 | 6 | For a natural person who is resident in New Zealand and who, in either of the 2 income years before the relevant tax year, derives— |  |  |
 |  | (a) | $14,000 or less in taxable income; and |  |
-|  | (b) | $48,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss. | 0.125 |
+|  | (b) | $48,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss. | 0.105 |
 | 7 | For a person who— |  |  |
 |  | (a) | is resident in New Zealand and derives income for the relevant tax year as a trustee of a testamentary trust to which section HC 37 applies other than a trust with income that is exempt income under section CW 41 or CW 42; and |  |
-|  | (b) | notifies this rate for the relevant tax year. | 0.125 |
+|  | (b) | notifies this rate for the relevant tax year. | 0.105 |
 | 8 | For a person who is a zero-rated investor. |  | 0.000 |
 | How to use this table |  |  |  |
 | Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column. |  |  |  |
@@ -40616,12 +40621,12 @@ The retirement scheme prescribed rate for a person in relation to a retirement s
 | Table 2 |  |  |
 | --- | --- | --- |
 | Row | Conditions | Prescribed rate |
-| 1 | For a person other than a person described in any of rows 2 to 7. | 0.380 |
-| 2 | For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income. | 0.330 |
-| 3 | For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income. | 0.210 |
-| 4 | For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less. | 0.125 |
-| 5 | For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority. | 0.125 |
-| 6 | For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994. | 0.125 |
+| 1 | For a person other than a person described in any of rows 2 to 7. | 0.330 |
+| 2 | For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income. | 0.300 |
+| 3 | For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income. | 0.175 |
+| 4 | For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less. | 0.105 |
+| 5 | For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority. | 0.105 |
+| 6 | For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994. | 0.105 |
 | 7 | For a non-resident person in relation to a contribution that consists of non-resident passive income. | 0.000 |
 | How to use this table |  |  |
 | Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column. |  |  |
