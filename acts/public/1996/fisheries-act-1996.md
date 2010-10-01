@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2010-10-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -6095,7 +6095,7 @@ States or, as appropriate, subregional or regional fisheries management organiza
 | whelks (Thais orbita, Lepsiella scobina scobina, Haustrum haustorium, Cominella adspersa, Cominella maculosa, Cominella glandiformis, Penion dilatatus, Struthiolaria papulosa) |  | 1 to 10 |
 | Seaweeds: |  |  |
 | agar weed (Pterocladia lucida, Pterocladia capillacea) |  | 1 to 10 |
-| bladder kelp (Macrocystis pyrifera) |  | 1 to 10 |
+| bladder kelp (Macrocystis pyrifera) |  | 1, 2, 5 to 10 |
 | brown kelp (Ecklonia radiata) |  | 1 to 10 |
 | bull kelp (Durvillea spp.) |  | 1 to 10 |
 | gracilaria weed (Gracilaria chilensis) |  | 1 to 10 |
@@ -6113,6 +6113,7 @@ States or, as appropriate, subregional or regional fisheries management organiza
 
 | Stock | Area | Requirements |
 | --- | --- | --- |
+| Bladder kelp (Macrocystis pyrifera) | All New Zealand fisheries waters | A commercial fisher may return bladder kelp to the waters from which it was taken if it was taken as the inevitable consequence of the taking of other fish, aquatic life, or seaweed in accordance with a current fishing permit. |
 | Blue shark (Prionace glauca) | All New Zealand fisheries waters | A commercial fisher may return any blue shark to the waters from which it was taken if—athat blue shark is likely to survive on return; andbthe return takes place as soon as practicable after the blue shark is taken. |
 | Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Chatham Islands scallop fishery; orbin any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
 | Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any cockle to the waters from which it is taken if—athe cockle is likely to survive the return; andbthe return takes place as soon as practicable after the cockle is taken. |
@@ -6127,6 +6128,7 @@ States or, as appropriate, subregional or regional fisheries management organiza
 | Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken if—athat mako shark is likely to survive on return; andbthe return takes place as soon as practicable after the mako shark is taken. |
 | Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Northland scallop fishery; orbin any area in which the taking of northern scallops is, at the time, prohibited. |
 | Paddle crab (Ovalipes catharus) | All New Zealand fisheries waters | A commercial fisher may return any paddle crab to the waters from which it was taken if that paddle crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the paddle crab is taken. |
+| Patagonian toothfish (Dissostichus eleginoides) | All New Zealand fisheries waters | A commercial fisher may return any Patagonian toothfish to the waters from which it was taken if—athe Patagonian toothfish is likely to survive on return; andbthe return takes place as soon as practicable after the Patagonian toothfish is taken; andcin the case of a trawl-caught Patagonian toothfish, it is released only in the presence of an observer. |
 | Pipi (Paphies australis) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any pipi to the seabed from which it was taken if—athat pipi is likely to survive on return; andbthe return takes place as soon as practicable after the pipi is taken. |
 | Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if—athat porbeagle shark is likely to survive on return; andbthe return takes place as soon as practicable after the porbeagle shark is taken. |
 | Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if—athat prawn killer is likely to survive on return; andbthe return takes place as soon as practicable after the prawn killer is taken. |
