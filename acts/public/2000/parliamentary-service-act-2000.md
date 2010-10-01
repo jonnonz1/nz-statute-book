@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2008-08-13_
+_Consolidation as at 2010-10-01_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -79,18 +79,18 @@ The principal duties of the Parliamentary Service are—
 ### 9A Application of section 9C to electoral candidates
 (1) If a person vacates the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of a polling day but is a candidate in the general election concerned, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and—
   (a) in the case of a person who is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district:
-  (b) in the case of a person whose name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Chief Electoral Officer declares candidates to be elected in the election.
+  (b) in the case of a person whose name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
 (2) If a candidate at a by-election is the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district concerned.
 (3) If a candidate at a general election for a seat in the House of Representatives representing an electoral district did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that—
+  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that—
     (i) he or she received more votes than any other candidate for the seat; or
     (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
   (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
 (4) If a candidate at a general election whose name is specified in a party list did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that the Chief Electoral Officer would under section 193(5) of the Electoral Act 1993 declare him or her to be elected in the election if the results of the official count were the same as those preliminary results; and
-  (b) the time is between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Chief Electoral Officer declares candidates to be elected in the election.
+  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would under section 193(5) of the Electoral Act 1993 declare him or her to be elected in the election if the results of the official count were the same as those preliminary results; and
+  (b) the time is between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
 (5) If a candidate at a by-election is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if)—
-  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that—
+  (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that—
     (i) he or she received more votes than any other candidate for the seat; or
     (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
   (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
