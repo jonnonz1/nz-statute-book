@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2010-09-06_
+_Consolidation as at 2010-10-01_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -201,7 +201,14 @@ Subject to section 8, every notice given pursuant to section 6(2)﻿(a)—
 (1) Nothing in section 6—
   (a) applies in respect of a suspect who is a child or was a child at the time the offence in relation to which the request is made was committed; or
   (b) makes a person of the kind referred to in paragraph (a) capable of consenting to the taking of a bodily sample in response to a request made under that section.
-(1A) However, a suspect who is a child or was a child at the time an offence in relation to which he or she may not be lawfully prosecuted (being an indictable offence other than murder or manslaughter) was committed, may consent to the taking of a buccal sample as a result of a Part 2A request.
+(1A) However, a suspect may, in relation to an indictable offence, consent to the taking of a buccal sample as a result of a Part 2A request if the suspect is a child, or was a child, at the time the offence is alleged to have been committed, and cannot lawfully be prosecuted in relation to the offence because it is not an offence of any of the following kinds:
+  (a) the offence of murder or manslaughter:
+  (b) an indictable offence (other than murder or manslaughter)—
+    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
+    (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
+  (c) an indictable offence (other than murder or manslaughter)—
+    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+    (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
 (2) Where a suspect request is made under section 6 to a suspect who is of or over the age of 14 years but under 17 years, that section and section 7 shall apply subject to the following modifications:
   (a) the constable who makes the suspect request shall take all reasonable steps to ensure that a copy of the notice required by section 6(2)﻿(a) to be handed to the suspect is also given to a parent of the suspect; and
   (b) the constable who makes the suspect request shall, in addition to informing the suspect of the matters specified in section 6(2)﻿(b), inform the suspect—
@@ -327,7 +334,14 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 ### 18 Application for order authorising taking of bodily sample from person under 17
 (1) An application may be made in accordance with this section to a High Court Judge for an order requiring a suspect who is under the age of 17 years to give a bodily sample in any case where—
   (a) there is good cause to suspect that the suspect has committed a relevant offence; and
-  (b) the suspect may lawfully be prosecuted for that offence (being an offence of murder or manslaughter in the case of a suspect who is a child or was a child at the time the offence was committed); and
+  (b) the suspect may lawfully be prosecuted for that offence (being, in the case of a suspect who is a child or was a child at the time the offence is alleged to have been committed,—
+    (i) the offence of murder or manslaughter; or
+    (ii) an offence (other than murder or manslaughter)—
+      (A) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
+      (B) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+    (iii) an offence (other than murder or manslaughter)—
+      (A) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+      (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
   (c) in the case of a suspect who was of or over the age of 14 years at the time the offence in relation to which the application is made was committed,—
     (i) a suspect request has been made to the suspect in respect of that offence, or a related offence; but
     (ii) consent to the taking of a bodily sample in response to the request has been refused, either by the suspect or by a parent of the suspect, or both.
@@ -380,7 +394,14 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 ### 23 Judge may authorise bodily sample to be taken
 (1) On the hearing of an application for a juvenile compulsion order, a Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
   (a) there is good cause to suspect that the respondent (being a person who is under the age of 17 years) has committed the relevant offence to which the application relates; and
-  (b) the respondent may lawfully be prosecuted for that offence (being an offence of murder or manslaughter in the case of a suspect who is a child or was a child at the time the offence was committed); and
+  (b) the respondent may lawfully be prosecuted for that offence (being, in the case of a suspect who is a child or was a child at the time the offence is alleged to have been committed,—
+    (i) the offence of murder or manslaughter; or
+    (ii) an offence (other than murder or manslaughter)—
+      (A) that is alleged to have been committed when the respondent was aged 12 or 13 years; and
+      (B) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+    (iii) an offence (other than murder or manslaughter)—
+      (A) that is alleged to have been committed when the respondent was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+      (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
   (c) where the respondent was of or over the age of 14 years at the time the offence in relation to which the application is made was committed,—
     (i) a suspect request has been made to the respondent in respect of that offence, or a related offence; and
     (ii) consent to the taking of a bodily sample in response to the request has been refused, either by the respondent or by a parent of the respondent, or both; and
@@ -451,7 +472,14 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 (1) Subject to section 72, in a criminal investigation in respect of an indictable offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and in relation to which that suspect may not be lawfully prosecuted, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if—
   (a) both the suspect and a parent of the suspect have consented to the taking of a buccal sample under section 24G; and
   (b) the sample is taken in accordance with the procedures set out in Part 4.
-(2) Every reference in this Part to an indictable offence for which a suspect may not be lawfully prosecuted is a reference to an indictable offence other than murder or manslaughter.
+(2) Every reference in this Part to an indictable offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an indictable offence other than—
+  (a) the offence of murder or manslaughter; or
+  (b) an offence (other than murder or manslaughter)—
+    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
+    (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+  (c) an offence (other than murder or manslaughter)—
+    (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of section 272(1)﻿(c) of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+    (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
 
 **Obtaining buccal sample from suspect**
 
