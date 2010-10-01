@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 2008
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2010-10-01_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2008.
@@ -60,7 +60,7 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
     - **prosecutor** has the same meaning as it has in section 6 of the Criminal Disclosure Act 2008
     - **standard committal** is a committal that takes place if no oral evidence order has been made under section 180 or 181 allowing the oral examination of a witness.
   (1) This Part applies if the defendant is to be proceeded against by indictment.
-  (2) All proceedings to which this Part applies must be commenced by information in form 2 of Schedule 2 and substantiated on oath before a District Court Judge, Justice, Community Magistrate, or any Registrar (not being a member of the police).
+  (2) All proceedings to which this Part applies must be commenced by information in form 2 of Schedule 2 and substantiated on oath before a District Court Judge, Justice, Community Magistrate, or any Registrar (not being a constable).
   (3) Subsection (2) is subject to sections 44 and 66.
   (4) Without limiting any other provision of this Act or any other enactment, no information is invalid only because it—
     (a) does not contain the date of birth of the defendant; or
@@ -79,14 +79,14 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
   The Registrar must serve on the defendant's counsel or solicitor, or on the defendant if he or she is not represented, a written notice to the defendant to the following effect as soon as practicable after the defendant has—If you wish to have a committal hearing at which you give oral evidence, or call witnesses on your behalf, or cross-examine a prosecution witness, you must apply for an oral evidence order under section 178 of the Summary Proceedings Act 1957.You are not obliged to apply for an oral evidence order.If no oral evidence order is made, you will be automatically committed for trial on the basis of the prosecution evidence against you without a committal hearing or consideration of that evidence.If an application for an oral evidence order is granted, there will be a committal hearing and the oral evidence that is given will be taken down and may be given against you at your trial. If you give oral evidence yourself, you may be cross-examined.If you provide written evidence at a committal hearing that evidence may be used against you at your trial.You should take no notice of any promise or threat that any person may have made to persuade you to say anything (other than a promise made in discussions between you or your counsel and the prosecution). If you do not apply for an oral evidence order or provide any written evidence at a committal hearing that fact is not allowed to be the subject of any comment at your trial.
     (a) elected trial by jury under section 66; or
     (b) if the information was laid indictably, made his or her first appearance in Court in relation to the offence:
-  (1) When an information has been laid, any District Court Judge, Justice, or Community Magistrate, or the Registrar (not being a member of the police),—
+  (1) When an information has been laid, any District Court Judge, Justice, or Community Magistrate, or the Registrar (not being a constable),—
     (a) may issue a summons to the defendant in the prescribed form; or
     (b) may issue a warrant, in the prescribed form, to arrest the defendant and bring him or her before a Court.
   (2) A warrant under subsection (1)(b) may be issued even if a summons has previously been issued and whether or not that summons has been served.
   If any person who has been served with a summons issued against him or her in accordance with section 150 does not attend personally at the time and place mentioned in the summons, or at any time and place to which the proceedings are adjourned, the presiding District Court Judge, Justices, Community Magistrate, or Community Magistrates may issue a warrant, in the prescribed form, to arrest that person and bring him or her before a Court.
   (1) No objection may be taken or allowed to any information, summons, or warrant to which this Part applies for any alleged defect in substance or in form, for any variance between it and the evidence adduced on the part of the prosecution at the committal hearing, or for the purposes of the standard committal.
   (2) Despite subsection (1), if there is to be a committal hearing and any variance referred to in subsection (1) appears to the Court to have deceived or misled the defendant or to operate unfairly to the defendant, the Court may, at the defendant's request, adjourn the committal hearing under section 155.
-  Every summons to a defendant must be served on him or her by a member of the police, by—
+  Every summons to a defendant must be served on him or her by a constable, by—
     (a) delivering the summons to the defendant personally; or
     (b) bringing it to the defendant's notice if he or she refuses to accept it.
   The following provisions of Part 2, as far as they are applicable and with the necessary modifications, apply to proceedings to which this Part applies:
@@ -279,9 +279,9 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
     (a) a District Court Judge, in considering an application for an oral evidence order, is satisfied that the conditions described in section 180(1) are satisfied in respect of a person who is not the subject of the application; or
     (b) the defendant has not been committed for trial at a standard committal and a District Court Judge considers it desirable to hear the evidence of any witness in connection with the exercise of any power or jurisdiction conferred by any of sections 7 to 14 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
   (2) The Judge may, of his or her own motion, make an order requiring the oral examination of that other person at a committal hearing.
-  (1) If an oral evidence order is made, that order may permit or require the evidence of a witness to be taken before any District Court or District Court Registrar (not being a member of the police) if it is desirable to do so.
+  (1) If an oral evidence order is made, that order may permit or require the evidence of a witness to be taken before any District Court or District Court Registrar (not being a constable) if it is desirable to do so.
   (2) The provisions of this Part as to the taking of the evidence of witnesses at a committal hearing, as far as they are applicable and with the necessary modifications, apply with respect to any evidence taken under this section.
-  (3) The oral evidence of any witness taken under this section —
+  (3) The oral evidence of any witness taken under this section—
     (a) must be forwarded to the Registrar of the Court in which the committal hearing is to take place; and
     (b) has effect as if it were oral evidence taken at the committal hearing.
   (4) Judicial notice must be taken of the signature of any examining District Court Judge or Registrar to any record of oral evidence taken under this section.
@@ -423,7 +423,7 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
   (3) A notice under subsection (1)—
     (a) must be in the prescribed form; and
     (b) has effect as if it were a summons to a witness issued out of the High Court or District Court, as the case may be; and
-    (c) must be served personally, by an officer of the District Court or by any member of the police, on the person to whom it is addressed.
+    (c) must be served personally, by an officer of the District Court or by any constable, on the person to whom it is addressed.
   (4) The service of a notice under subsection (1) may be proved in the High Court or District Court, as the case may be,—
     (a) by an affidavit made by the person who served the notice that shows the fact and the time of service; or
     (b) by the person who served the notice on oath at the trial; or
@@ -499,7 +499,7 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
     (d) any barrister or solicitor engaged in the proceedings:
     (e) any officer of the Court:
     (f) any person who is for the time being responsible for recording the proceedings:
-    (g) the member of the police in charge of the case:
+    (g) the constable in charge of the case:
     (h) any accredited news media reporter:
     (i) any person whose presence is requested by the complainant:
     (j) any person expressly permitted by the Judge to be present.
