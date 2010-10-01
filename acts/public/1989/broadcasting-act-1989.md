@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2008-03-14_
+_Consolidation as at 2010-10-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -687,7 +687,7 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
     (ii) relating solely to 1 named constituency candidate at an election; and
     (iii) used or appearing to be used to promote or procure the election of the candidate; and
     (iv) broadcast by the candidate or with the candidate's authority within the election period; or
-  (d) any advertisement placed by the Electoral Commission or by the Chief Registrar of Electors, the Chief Electoral Officer, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
+  (d) any advertisement placed by the Electoral Commission or by the Chief Registrar of Electors, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
   (e) any non-partisan advertisement broadcast, as a community service, by the broadcaster.
 (2A) Nothing in subsection (1) restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
 (2B) Nothing in this Act derogates from section 214B of the Electoral Act 1993.
@@ -938,7 +938,7 @@ Nothing in section 4(1)(d) applies in relation to an election programme broadcas
 (4) The statement must be signed by or on behalf of the broadcaster.
 
 ### 79D Returns to be available for public inspection
-The Electoral Commission must, not later than 3 working days after it receives a statement under section 79C, make the statement available for public inspection, without payment, at any time between 9 am and 4 pm, on any day on which the office of the Electoral Commission is open.
+The Electoral Commission must, not later than 3 working days after it receives a statement under section 79C, make the statement available for public inspection, without payment, at any time between 9 am and 5 pm, on any day on which the office of the Electoral Commission is open.
 
 ### 80 Offences
 Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who—other than pursuant to, and in conformity with, this Part.
