@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-10-04_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -36,15 +36,15 @@ This Act binds the Crown.
 Except as expressly provided in this Act, the provisions of this Act apply to all juries, whether for civil or criminal cases, and whether in the High Court or a District Court.
 
 ### 5 Jury districts
-(1) For every city or town (in this section referred to as a court town) at which sittings of the High Court are held there shall be a jury district.
+(1) For every city or town (in this section referred to as a court town) at which sittings of the High Court are held there shall be a jury district (in this section referred to as a High Court jury district).
 (2) For every city or town (in this section also referred to as a court town) at which jury trials are held before a District Court there shall be a jury district (in this section referred to as a District Court jury district).
-(3) Except as provided in subsections (3A) and (4), every jury district shall include all places within 30 kilometres by the most practicable route from the courthouse in the court town in which jury trials may be held.
-(3A) The District Court jury district for Kaikohe includes all places within 45 kilometres by the most practicable route from the courthouse in Kaikohe.
-(4) Where, by virtue of subsection (3), or subsection (3) and subsection (3A), any place would be in 2 or more District Court jury districts, the boundaries of each such district shall be declared by the Governor-General, by notice in the Gazette given on the advice of the Minister of the Crown who is responsible for the Ministry of Justice, in such a way as to ensure that—
-  (a) no place is included in 2 or more District Court jury districts; and
-  (b) no place included in a District Court jury district for a court town is,—
-    (i) in the case of Kaikohe, more than 45 kilometres by the most practicable route from the courthouse in Kaikohe; and
-    (ii) in the case of any other court town, more than 30 kilometres by the most practicable route from the courthouse in that town.
+(3) Every jury district comprises every place that is within—
+  (a) 45 km by the most practicable route from the courthouse in the court town in which jury trials may be held; and
+  (b) any boundary of the district that is declared by the Governor-General by a notice under subsection (4).
+(3A)
+(4) If, by virtue of subsection (3), a place would be in 2 or more jury districts (both or all of which are High Court jury districts, or both or all of which are District Court jury districts), the boundaries of each of those districts must be declared by the Governor-General, by notice in the Gazette given on the advice of the Minister of the Crown who is responsible for the Ministry of Justice, in such a way as to ensure that—
+  (a) no place is included in 2 or more jury districts; and
+  (b) no place included in a jury district for a court town is more than 45 km by the most practicable route from the courthouse in that town.
 (5) In considering what advice he should give for the purposes of subsection (4) in respect of any place to which that subsection applies, the Minister of the Crown who is responsible for the Ministry of Justice shall have regard to—
   (a) the convenience of the residents in getting to and from a court for jury service; and
   (b) the principle in criminal cases that, so far as practicable, the jury should be drawn from the community in which the alleged offence occurred; and
@@ -127,7 +127,14 @@ A jury list remains current until it is replaced by a new list provided by the C
 (1) Where jury trials are to be held in any court, the Registrar must compile a panel from the jury list, using the method determined in accordance with the jury rules, containing a sufficient number of jurors, and must summon those jurors to attend the court for the purposes of the trials.
 (2) The Registrar shall, before issuing any such summons, take all reasonable steps to ensure that the name of any person referred to in section 7 or section 8 is struck off the panel.
 (3) Every person who is summoned for jury service shall be liable to serve until the end of the week for which that person was summoned.
-(4) Every juror who is sworn to try a case that continues beyond the end of the week for which the juror was summoned shall be bound to continue to serve until the determination of the case or until lawfully discharged by the court.
+(3A) Subsection (3) does not apply to a person who is summoned for jury service if—
+  (a) the Registrar has, following an application under section 14B, permitted the person to defer that person's jury service and—
+    (i) the person is summoned under a replacement summons issued under section 14C(1)(c) (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
+    (ii) the Registrar has served on the person a written notice under section 14C(1)(d) (in which case the person is no longer liable to serve as a juror as a result of the summons in respect of which the application under section 14B was made); or
+  (b) the Registrar has, under section 15, excused the person from jury service; or
+  (c) a Judge has, under section 16, excused the person from jury service; or
+  (d) a Judge has, under section 16AA, discharged the summons of the person.
+(4) Despite subsections (3) and (3A), every juror who is sworn to try a case that continues beyond the end of the week for which the juror was summoned shall be bound to continue to serve until the determination of the case or until lawfully discharged by the court.
 
 ### 14 Inspection of jury panel
 (1) The Registrar must comply with a request to make a copy of a panel available for inspection by or on behalf of an eligible person if the request is made—
@@ -160,22 +167,50 @@ A jury list remains current until it is replaced by a new list provided by the C
   (b) any other person if the court or a Judge, in the court’s or Judge’s discretion and on a written application for the purpose, orders that the other person need not return the copy or copies.
 (6) A breach of subsection (2), (3), or (4) may be dealt with as contempt of court.
 
+### 14B Deferral of jury service
+(1) The Registrar may permit a person summoned to attend as a juror on an occasion to defer that person's attendance to serve as a juror to a time within a period that—
+  (a) starts at least 8 weeks, and ends no later than 1 year, after the date on which the person is required to attend under the summons; and
+  (b) is specified by the Registrar but lasts for at least 1 month; and
+  (c) the person has indicated would be a more convenient period for the commencement of any jury service of that person that may result from the person having been summoned to attend as a juror.
+(2) However, the Registrar may exercise that power—
+  (a) only in respect of a summons that is not a replacement summons under section 14C(1)(d); and
+  (b) only once for each summons of that kind; and
+  (c) only if satisfied, on a written application for the purpose made by or on behalf of that person, that, because of 1 or more matters specified in subsection (3), attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
+(3) The matters referred to in subsection (2)(c) (and in section 15(1A)(a) and (c)) are—
+  (a) the nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business:
+  (b) that person's disability:
+  (c) that person's state of health, or family commitments, or other personal circumstances.
+
+### 14C Further provisions relating to deferral of jury service
+(1) After accepting an application under section 14B, the Registrar must—
+  (a) promptly record in some way the exercise of the power of deferral in respect of the summons in relation to which the application under section 14B was made; and
+  (b) promptly delete the person's details from the panel that was—
+    (i) compiled under section 13(1); and
+    (ii) the basis of the issue of that summons; and
+  (c) if a later panel is compiled under section 13(1) because jury trials are to be held in the court and that later panel is so compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under section 14B(1)(b), ensure the person's details are included, in accordance with the jury rules, in that later panel and promptly issue under section 13(1), and on the basis of that later panel, a replacement summons that states a time within that period; and
+  (d) if satisfied that no jury trials are to be held in the court during the period specified for the person under section 14B(1)(b) and therefore that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period, promptly serve on the person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons in relation to which the application under section 14B was made.
+(2) If the Registrar declines an application under section 14B, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which the applicant is summoned to appear.
+(3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15 or 16 in respect of a replacement summons under subsection (1)(d) of this section.
+(4) The Registrar may, if the Registrar thinks fit, treat an application under section 14B as if it were an application for excusal under section 15(1) and, if the Registrar does so, the application must be determined accordingly.
+
 ### 15 Registrar may excuse from jury service
-(1) If the Registrar is satisfied, on written application made to him by or on behalf of any person summoned to attend as a juror on any occasion, that, because of—attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, or to any other person, or to the general public, the Registrar may excuse that person from attending on that occasion.
-  (a) the nature of that person’s occupation or business, or of any special and pressing commitment arising in the course of that person’s occupation or business; or
-  (aa) that person’s disability; or
-  (b) that person’s state of health, or family commitments, or other personal circumstances,—
+(1) The Registrar may excuse a person summoned to attend as a juror on an occasion from attending on that occasion.
+(1A) However, the Registrar may exercise that power only if satisfied, on a written application for the purpose made by or on behalf of that person, that,—
+  (a) because of 1 or more matters specified in section 14B(3), attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public; and
+  (b) in the circumstances, a deferral of jury service under section 14B is not reasonably practicable; and
+  (c) because of 1 or more matters specified in section 14B(3), that person would not, if required to attend as a juror on that occasion, be able to perform a juror's duties satisfactorily.
+(1B) The Registrar may, if the Registrar thinks fit, treat an application under this section as if it were an application for deferral under section 14B and, if the Registrar does so, the application must be determined accordingly.
 (2) A person summoned to attend as a juror on any occasion shall, on application to the Registrar, be excused by the Registrar from attending on that occasion if that person—
   (a) is a practising member of a religious sect or order that holds service as a juror to be incompatible with its tenets; or
   (aa) is of or over the age of 65; or
   (b) has served, or (having been summoned) has attended for service, as a juror at any time within the preceding period of 2 years; or
   (c) has been excused from jury service for a period that has not yet expired.
-(3) In respect of any application under this section, the Registrar may require such evidence in support as he may reasonably think necessary to determine the application.
-(4) If the Registrar declines an application under this section, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which he is summoned to appear.
+(3) In respect of any application under this section, the Registrar may require such evidence in support as the Registrar may reasonably think necessary to determine the application.
+(4) If the Registrar declines an application under this section, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which the applicant is summoned to appear.
 
 ### 16 Judge may excuse from jury service
 A Judge, on application made to him by or on behalf of any person summoned to attend as a juror on any occasion in the court in which the Judge sits, may excuse that person from attending on that occasion—
-  (a) on any ground on which the Registrar could have excused that person under section 15, whether or not the Registrar had declined to excuse that person under that section:
+  (a) on any ground on which the Registrar could have excused that person under section 15, whether or not the Registrar had declined to excuse that person under that section or to permit that person to defer jury service under section 14B:
   (b) where the panel has been compiled in respect of 1 trial only, if the Judge is satisfied that the person is personally concerned in the facts of the case, or is closely connected with one of the parties or with one of the prospective witnesses:
   (c) if the Judge is satisfied that the person objects to jury service on grounds of conscience, whether or not of a religious character.
 
@@ -190,9 +225,7 @@ A Judge, on application made to him by or on behalf of any person summoned to at
 ### 16A Judge may order removal of trial if no courtroom available
 (1) Where a trial is to be held at any place within a jury district and the Judge before whom it is to be held is satisfied, at any time after the panel has been prepared in accordance with section 13, that no adequate courtroom is available at that place, he may order that the trial be held at some other convenient place, whether within or outside that jury district.
 (2) Where, in any case to which subsection (1) applies, the jurors have already been summoned, the Registrar shall issue fresh summonses unless the Judge considers that it would be impracticable to do so and instructs the Registrar accordingly.
-(3) No person is required to attend for jury service at the new venue if that venue is outside the jury district and is,—
-  (a) in the case of the District Court jury district for Kaikohe, more than 45 kilometres by the most practicable route from that person’s place of residence; or
-  (b) in the case of any other jury district, more than 30 kilometres by the most practicable route from that person’s place of residence.
+(3) No person is required to attend for jury service at the new venue if that venue is outside the jury district and is more than 45 km by the most practicable route from that person's place of residence.
 
 **Constitution of jury**
 
@@ -418,7 +451,10 @@ Where a jury is directed to be summoned under Part 2 of the Judicature Act 1908 
     (i) the form or forms to be used to summons jurors:
     (ii) the method or methods of service of summonses:
     (iii) the minimum period of notice that must be given in a summons:
-  (d) prescribing the method or methods by which a person who has been summoned can apply to be excused from attendance:
+  (d) prescribing the method or methods by which either or both of the following applications can be made:
+    (i) an application under section 14B for deferral of jury service:
+    (ii) an application under section 15 or 16 to be excused from jury service:
+  (da) prescribing the method or methods of service for a written notice under section 14C(1)(d):
   (e) requiring a record to be kept of all jurors who are summoned to attend the court; and prescribing the form and manner in which that record is to be compiled:
   (f) prescribing the method, methods, or the specifications of the method, for selecting a jury:
   (fa) prescribing the manner in which challenges are to be made and dealt with:
@@ -451,6 +487,16 @@ This Act is the Juries Amendment Act 2008.
 ### 2 Commencement
 (1) This Act (except sections 4, 11, 12, and 19) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
 (2) Sections 4, 11, 12, and 19 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+
+### 5 Transitional provision
+(1) For the following purposes the amendments made by section 4 must be treated as if they are in force on and after the date that is 6 months before the date (the commencement) on which section 4 came into force:
+  (a) the constitution of jury districts for use on and after the commencement:
+  (b) the preparation of new jury lists for use on and after the commencement.
+(2) Nothing in section 4 affects the validity of any of the following:
+  (a) a jury list or jury panel that was prepared and in use immediately before the commencement:
+  (b) the composition of any jury that was constituted before the commencement and continued to serve on or after that date:
+  (c) the composition of any jury that was constituted after the commencement from a jury list that was prepared and in use immediately before that date:
+  (d) a summons that was issued under the principal Act before the commencement, and is intended to continue to have effect on or after that date.
 
 ### 15 New sections 22 to 22C substituted
 (1) Amendment incorporated in the principal Act.
