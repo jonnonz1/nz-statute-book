@@ -1,5 +1,5 @@
 # Juries Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-10-04_
 
 ### 1 Title
 (1) This Act is the Juries Amendment Act 2000.
@@ -66,8 +66,7 @@ Section 13 of the principal Act is amended by repealing subsection (1), and subs
   (1) Where jury trials are to be held in any Court, the Registrar must compile a panel from the jury list, using the method determined in accordance with the jury rules, containing a sufficient number of jurors, and must summon those jurors to attend the Court for the purposes of the trials.
 
 ### 9 Registrar may excuse from jury service
-(1) Section 15(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
-  (aa) that person's physical disability; or.
+(1)
 (2) Section 15(2) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) is of or over the age of 65; or.
 
