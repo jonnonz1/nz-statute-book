@@ -1,5 +1,5 @@
 # Juries Amendment Act 2008
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-10-04_
 
 ### 1 Title
 This Act is the Juries Amendment Act 2008.
