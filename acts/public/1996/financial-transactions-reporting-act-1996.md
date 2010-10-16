@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-10-16_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -533,71 +533,25 @@ Nothing in this Part limits or affects any other enactment that requires any fin
 ## Part 5 — Obligation to report imports and exports of cash
 
 ### 37 Persons arriving in or leaving New Zealand must report cash
-(1) Every person who—shall make or cause to be made a report in accordance with this section.
-  (a) arrives in New Zealand from another country or is leaving New Zealand; and
-  (b) has on his or her person, or in his or her accompanying baggage, or both, an amount of cash that, in total, exceeds the prescribed amount—
-(2) Every report required by subsection (1)—
-  (a) shall be in writing in the prescribed form (if any); and
-  (b) shall contain the following details in relation to the cash to which the report relates:
-    (i) the nature and amount of each type of cash:
-    (ii) the total amount of the cash; and
-  (c) shall be signed by the person making the report or, as the case requires, on whose behalf the report is made; and
-  (d) shall be given to a Customs officer before the cash leaves the control of the Customs.
-(3) Where any person to whom subsection (1) applies is, by reason of age or disability, incapable of complying with the requirements of this section, it shall be the responsibility of the parent or guardian or other person for the time being having the care of that person to comply with those requirements on that person's behalf.
+[Repealed]
 
 ### 38 Power to search persons
-(1) Subject to this section, if any Customs officer has reasonable cause to suspect—the Customs officer may cause that person to be detained and searched, and reasonable force may be used against that person to effect such detention or search.
-  (a) that any person who arrives in New Zealand from another country or is leaving New Zealand has, on his or her person, or in his or her accompanying baggage, or both, any cash; and
-  (b) that a cash report is required to be made in respect of that cash; and
-  (c) either—
-    (i) that a cash report has not been made in respect of that cash; or
-    (ii) that a cash report made in respect of that cash is incomplete, incorrect, false, or misleading in any material respect,—
-(2) Any person detained pursuant to subsection (1) may, before being searched, demand to be taken before a Justice of the Peace or a Community Magistrate or a Customs officer nominated for the purpose by the chief executive of the New Zealand Customs Service.
-(3) The Justice of the Peace or Community Magistrate or Customs officer referred to in subsection (2) may order the person so detained to be searched, or may discharge the person without search.
-(4) The following provisions shall apply in respect of any search conducted pursuant to this section:
-  (a) the search shall not be conducted unless the person to be searched has first been informed of his or her right, under subsection (2), to be taken before a Customs officer referred to in subsection (2) or a Justice of the Peace or a Community Magistrate:
-  (b) the search shall be carried out only by a person of the same sex as the person to be searched:
-  (c) the search shall not be carried out in view of any person who is not of the same sex as the person to be searched:
-  (d) the search shall be conducted with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
-(5) Any Customs officer who searches a person pursuant to this section may have the assistance of such assistants as the officer thinks necessary.
+[Repealed]
 
 ### 39 Power to search accompanying baggage
-(1) If any Customs officer has reasonable cause to suspect—that Customs officer may detain that person and search that baggage, and may for that purpose open any package carried by that person.
-  (a) that there is, in any baggage that is accompanying any person who arrives in New Zealand from another country or who is leaving New Zealand, any cash; and
-  (b) that a cash report is required to be made in respect of that cash; and
-  (c) either—
-    (i) that a cash report has not been made in respect of that cash; or
-    (ii) that a cash report made in respect of that cash is incomplete, incorrect, false, or misleading in any material respect,—
-(2) For the purposes of effecting the detention of any person, or the search of any baggage that is accompanying any person, pursuant to this section, a Customs officer may use reasonable force against that person.
+[Repealed]
 
 ### 40 Offences
-(1) Every person commits an offence and is liable to a fine not exceeding $2,000 who,—
-  (a) in contravention of section 37, fails, without reasonable excuse, to make or cause to be made a cash report that satisfies the requirements of that section; or
-  (b) without reasonable excuse, makes or causes to be made a cash report knowing that it is false or misleading in any material respect.
-(2) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who, otherwise than by force, wilfully obstructs any Customs officer in the exercise or performance of any power or duty conferred or imposed on that officer by this Part.
-(3) It is a defence to a charge under this section against a person in relation to a failure to make or cause to be made a cash report to a Customs officer before cash leaves the control of the Customs if the defendant proves—
-  (a) that the failure was due to some emergency or to any other circumstances outside the reasonable control of the defendant; and
-  (b) that the defendant made or caused to be made a cash report in respect of that cash as soon as practicable after the obligation to make the report arose.
+[Repealed]
 
 ### 41 Chief executive of New Zealand Customs Service may deal with cash reporting offences
-(1) If, in any case to which section 40(1)(a) applies, any person admits in writing that he or she has committed the offence, and requests that the offence be dealt with summarily by the chief executive of the New Zealand Customs Service, the chief executive may, at any time before an information has been laid in respect of the offence, accept from that person such sum, not exceeding $200, as the chief executive thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under section 40.
-(2) If the chief executive accepts any sum pursuant to this section, the offender shall not be liable to be prosecuted for the offence in respect of which the payment was made.
+[Repealed]
 
 ### 42 Information to be forwarded to Commissioner
-(1) Where a cash report is made to a Customs officer, that officer shall, as soon as practicable, forward the report to the Commissioner.
-(2) Where, in the course of conducting a search pursuant to section 38 or section 39, a Customs officer discovers any cash in respect of which a cash report is required to be made but has not been made, that officer shall, as soon as practicable, report the details of the search, and of the cash discovered, to the Commissioner.
-(3) Every report made pursuant to subsection (2) shall be in such form as the Commissioner may from time to time determine after consultation with the chief executive of the New Zealand Customs Service.
-(4) The chief executive of the New Zealand Customs Service shall cause to be made and kept a record of each occasion on which a cash report is made to a Customs officer, together with details of the identity of the person making the report and the date on which the report is made, and shall ensure that such record is retained for a period of not less than 1 year after the date on which the cash report is made.
+[Repealed]
 
 ### 43 Application of Privacy Act 1993
-Any information contained in any report made to the Commissioner pursuant to section 42 shall be deemed, for the purposes of the Privacy Act 1993 and any code of practice issued pursuant to that Act, to be obtained by the Police only for the following purposes:
-  (a) the detection, investigation, and prosecution of—
-    (i) money laundering offences; and
-    (ii) any serious offence (within the meaning of section 243 of the Crimes Act 1961), in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that serious offence:
-  (b) the enforcement of the Criminal Proceeds (Recovery) Act 2009:
-  (c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
-  (d) any activity relating to the making of an instrument forfeiture order under section 142N of the Sentencing Act 2002:
-  (e) the administration of the Mutual Assistance in Criminal Matters Act 1992.
+[Repealed]
 
 ## Part 6 — Miscellaneous provisions
 
