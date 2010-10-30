@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2009-11-16_
+_Consolidation as at 2010-10-30_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -147,7 +147,11 @@ In this Act, unless the context otherwise requires,—
     (ii) a person intending to work; but
   (c) excludes a volunteer who—
     (i) does not expect to be rewarded for work to be performed as a volunteer; and
-    (ii) receives no reward for work performed as a volunteer.
+    (ii) receives no reward for work performed as a volunteer; and
+  (d) excludes, in relation to a film production, any of the following persons:
+    (i) a person engaged in film production work as an actor, voice-over actor, stand-in, body double, stunt performer, extra, singer, musician, dancer, or entertainer:
+    (ii) a person engaged in film production work in any other capacity.
+(1A) However, subsection (1)(d) does not apply if the person is a party to, or covered by, a written employment agreement that provides that the person is an employee.
 (2) In deciding for the purposes of subsection (1)(a) whether a person is employed by another person under a contract of service, the court or the Authority (as the case may be) must determine the real nature of the relationship between them.
 (3) For the purposes of subsection (2), the court or the Authority—
   (a) must consider all relevant matters, including any matters that indicate the intention of the persons; and
@@ -161,6 +165,19 @@ In this Act, unless the context otherwise requires,—
     (i) is the applicant; or
     (ii) has consented in writing to another person applying for the order; and
   (b) the other person who is alleged to be the employer of the person is a party to the application or has an opportunity to be heard on the application.
+(7) In this section,—
+  - **film** means a cinematograph film, a video recording, and any other material record of visual moving images that is capable of being used for the subsequent display of those images; and includes any part of any film, and any copy or part of a copy of the whole or any part of a film
+  - **film production** means the production of a film or video game
+  - **film production work** —
+    (a) means the following work performed, or services provided, in relation to a film production:
+      (i) work performed, or services provided, by an actor, voice-over actor, stand-in, body double, stunt performer, extra, singer, musician, dancer, or entertainer (whether as an individual or not):
+      (ii) pre-production work or services (whether on the set or off the set):
+      (iii) production work or services (whether on the set or off the set):
+      (iv) post-production work or services (whether on the set or off the set):
+      (v) promotional or advertising work or services (whether on the set or off the set) by a person referred to in subparagraphs (i) to (iv); but
+    (b) excludes work performed, or services provided, in respect of the production of any programme intended initially for broadcast on television
+  - **video game** means any video recording that is designed for use wholly or principally as a game
+  - **video recording** means any disc, magnetic tape, or solid state recording device containing information by the use of which 1 or more series of visual images may be produced electronically and shown as a moving picture.
 
 ### 6A Status of examples
 (1) In this Act, an example is only illustrative of the provision it relates to and does not limit the provision.
@@ -4100,3 +4117,13 @@ The purpose of this Act is—
 
 ### 5 Application
 The amendments made by sections 6 and 7 apply to employment agreements entered into only after the commencement of those sections.
+
+### 1 Title
+This Act is the Employment Relations (Film Production Work) Amendment Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 4 Meaning of employee
+((1)–(3)) Amendment(s) incorporated in the Act(s).
+(4) To avoid doubt, the amendments made by this section do not affect an employment agreement entered into before the commencement of this section.
