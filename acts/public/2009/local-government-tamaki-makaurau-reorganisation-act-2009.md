@@ -1,5 +1,5 @@
 # Local Government (Tamaki Makaurau Reorganisation) Act 2009
-_Consolidation as at 2010-06-15_
+_Consolidation as at 2010-10-31_
 
 ### 1 Title
 This Act is the Local Government (Tamaki Makaurau Reorganisation) Act 2009.
@@ -1035,7 +1035,23 @@ A sign must be erected in a way that, in the opinion of an officer authorised by
 
 | Terminating organisation | Receiving entity |
 | --- | --- |
+| Aotea Centre Board of Management | Regional Facilities Auckland Limited (in its capacity as trustee of Regional Facilities Auckland) |
+| ARTNL Britomart Limited | Auckland Transport |
+| Auckland Regional Holdings | Auckland Council |
 | Auckland Regional Transport Authority | Auckland Transport |
 | Auckland Regional Transport Network Limited | Auckland Transport |
+| Auckland Transport Infrastructure Limited | Auckland Waterfront Development Agency Limited |
+| Enterprise North Shore Trust | Auckland Tourism, Events and Economic Development Limited |
+| Manukau Building Consultants Limited | Auckland Council |
+| Manukau Enterprise and Employment Trust | Auckland Tourism, Events and Economic Development Limited |
+| Manukau Leisure Services Limited | Auckland Council |
 | Manukau Water Limited | Watercare Services Limited |
 | Metro Water Limited | Watercare Services Limited |
+| NSC Holdings Limited | Auckland Council |
+| Rodney Properties Limited | Auckland Council |
+| Sea + City Projects Limited | Auckland Waterfront Development Agency Limited |
+| TMPL (Flat Bush) Limited | Auckland Council |
+| Tomorrow's Manukau Properties Limited | Auckland Council |
+| Waitakere City Holdings Limited | Auckland Council |
+| Waitakere Enterprise Trust Board | Auckland Tourism, Events and Economic Development Limited |
+| Waitakere Properties Limited | Auckland Council |
