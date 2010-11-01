@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2010-11-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Government Roading Powers Act 1989.
@@ -557,6 +557,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (4)
 (5)
 (6)
+(7) In this section, territorial authority includes Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009).
 
 ### 63 Delegations
 (1) Any delegation by the Agency of its functions, duties, or powers under section 62 of this Act shall be effected by a resolution of the Agency, and may be either absolute or subject to such conditions as the Agency may by that or any subsequent resolution determine.
