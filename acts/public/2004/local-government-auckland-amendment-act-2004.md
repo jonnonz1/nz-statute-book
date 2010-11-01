@@ -1,5 +1,5 @@
 # Local Government (Auckland) Amendment Act 2004
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 (1) This Act is the Local Government (Auckland) Amendment Act 2004.
@@ -460,6 +460,8 @@ The following are not dutiable gifts for the purposes of the Estate and Gift Dut
 
 ### 6 ARH to be regional council for purposes of Port Companies Act 1988
 For the purposes of the Port Companies Act 1988, ARH is to be treated as if it were a regional council.
+
+**Transitional provisions**
 
 ### 7 Establishment board of ARTA
 (1) The Minister of Local Government must appoint a person to act as the board of ARTA until the appointments panel first appoints directors of ARTA under section 11 or the close of 30 August 2004, whichever is the earlier.
