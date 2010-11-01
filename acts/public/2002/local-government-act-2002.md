@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -68,14 +68,6 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) in relation to a regional council, means a member of the governing body of the regional council elected under the Local Electoral Act 2001, including the chairperson:
     (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the Local Electoral Act 2001, including the mayor
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **network assets of Watercare Services Limited** —
-    (a) means the network assets of Watercare Services Limited used in its provision of water supply; and
-    (b) includes—
-      (i) rivers, streams, lakes, waters, and underground waters, and rights relating to these; and
-      (ii) land, watershed, catchment, and water collection areas; and
-      (iii) any of the following that are vested in, or are acquired, constructed, or operated by, or are under the control of, Watercare Services Limited:
-        (A) reservoirs, dams, bores, tanks, and pipes; and
-        (B) buildings, machinery, and appliances
   - **network infrastructure** has the meaning set out in section 197
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **public notice** , in relation to a notice given by a local authority,—
@@ -119,14 +111,12 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (ii) an alteration, extension, or widening of a water race or branch water race, whether done by the local authority or by any person with the approval of the local authority; and
       (iii) a flood or other bank, or a dam, sluice, flume, bridge, gauge, meter, reservoir, or other waterworks relating to, or forming part of, a water race; and
       (iv) buildings and machinery, pipes, and other materials on the land and within the limits of a water race or relating to, or used in connection with, a water race
-  - **waterworks** , in relation to the provision of water supply within and outside the district of a territorial authority,—
-    (a) includes—
-      (i) rivers, streams, lakes, waters, and underground waters, and rights relating to these; and
-      (ii) land, watershed, catchment, and water collection areas; and
-      (iii) if vested in a territorial authority, or acquired, constructed, or operated by, or under the control of, the territorial authority,—
-        (A) reservoirs, dams, bores, tanks, and pipes; and
-        (B) buildings, machinery, and appliances; but
-    (b) does not include the network assets of Watercare Services Limited
+  - **waterworks** , in relation to the provision of water supply, includes—
+    (a) rivers, streams, lakes, waters, and underground waters, and rights relating to these; and
+    (b) land, watershed, catchment, and water collection areas; and
+    (c) if vested in a local government organisation, or acquired, constructed, or operated by, or under the control of, a local government organisation,—
+      (i) reservoirs, dams, bores, tanks, and pipes; and
+      (ii) buildings, machinery, and appliances
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
@@ -171,7 +161,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   (d) the constitution include any rules or other documents constituting that organisation or governing its activities; and
   (e) subsidiaries include any entity that would be a council-controlled organisation if the references to local authority or local authorities in subsection (1) read council-controlled organisation or council-controlled organisations.
 (4) The following entities are not council-controlled organisations:
-  (a) an electricity company or electricity trust within the meaning of the Electricity Industry Reform Act 1998; or
+  (a) a body corporate that carries on an electricity business (whether or not that business is its principal or only business) or a trust that is constituted for purposes which include owning or controlling, directly or indirectly, all or part of an electricity company that carries on that business; or
   (b) an energy company within the meaning of the Energy Companies Act 1992; or
   (c) a port company or subsidiary of a port company within the meaning of the Port Companies Act 1988; or
   (ca) a company in which a port company (within the meaning of the Port Companies Act 1988) holds or controls 50% of the shares; or
@@ -381,7 +371,7 @@ This Part—
 (2) A territorial authority that is a city council must be described as the [name of city] City Council.
 (3) A territorial authority that is a district council must be described as the [name of district] District Council.
 (4) A regional council must be described as the [name of region] Regional Council.
-(5) Despite subsection (1), the Chatham Islands Council is a territorial authority.
+(5) Despite subsection (1), the Auckland Council and the Chatham Islands Council are territorial authorities.
 
 ### Subpart 2 — Reorganisation of local authorities
 
@@ -2490,7 +2480,7 @@ Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 
 ### 224 Offence relating to water wastage
 Every person who contravenes section 192 and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
 
-### 225 Offences relating to waterworks and network assets of Watercare Services Limited
+### 225 Offences relating to waterworks
 (1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(1) who, wilfully or negligently,—
   (a) takes water from the supply provided to another person without having entered into an agreement to be supplied with water from a waterworks; or
   (b) having been supplied with water from a waterworks,—
@@ -2499,10 +2489,8 @@ Every person who contravenes section 192 and continues to waste water or allow i
   (c) bathes or washes clothing or other things in, or throws an animal, refuse, litter, or debris into, the water of a waterworks; or
   (d) carries out work on, or in relation to, a waterworks without first—
     (i) notifying the local authority of the intention to carry out the work; and
-    (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit; or
-  (e) carries out work on, or in relation to, the network assets of Watercare Services Limited without first—
-    (i) notifying Watercare Services Limited of the intention to carry out the work; and
-    (ii) obtaining written authorisation from Watercare Services Limited, with terms or conditions that Watercare Services Limited thinks fit.
+    (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit.
+  (e)
 (2) It is not an offence under subsection (1) if the work referred to in subsection (1)(d) or (e)—
   (a) is authorised by a valid consent granted under—
     (i) the Building Act 2004, regulations made under that Act, or the Building Code; or
@@ -2513,7 +2501,7 @@ Every person who contravenes section 192 and continues to waste water or allow i
   (b) was carried out by a person appropriately registered to undertake the work.
 
 ### 226 Liability for cost of damage
-A person who commits an offence under section 225 may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council or Watercare Services Limited in repairing the damage done to the waterworks or the network assets of Watercare Services Limited by the offence.
+A person who commits an offence under section 225 may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council in repairing the damage done to the waterworks by the offence.
 
 **Offences relating to water meters**
 
@@ -3116,7 +3104,7 @@ The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Gove
     (ii) the close of 30 April 2003.
 
 ### 313 Saving in respect of Infrastructure Auckland
-Despite the repeal by this Act of provisions of the Local Government Act 1974, such of those provisions as are, at the commencement of this section, applied by, incorporated in, or referred to in Part 44C of that Act are to continue to have effect, for the purposes of that Part, as if those provisions were still in force.
+[Repealed]
 
 ### 314 Prohibition of vehicles and consumption or possession of intoxicating liquor in public place
 (1) Every prohibition that, on the commencement of this section, is in force under any provision of sections 709A to 709H of the Local Government Act 1974 is, unless it is sooner revoked or sooner expires, to continue in force for the period of 12 months beginning with the date on which this section comes into force.
@@ -3131,7 +3119,6 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 
 | Regional councils | Constituted by |
 | --- | --- |
-| Auckland Regional Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Bay of Plenty Regional Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Canterbury Regional Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Hawke's Bay Regional Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
@@ -3147,7 +3134,7 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | City and District Councils | Constituted by |
 | --- | --- |
 | Ashburton District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
-| Auckland City Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
+| Auckland Council | section 6(1) of the Local Government (Auckland Council) Act 2009 |
 | Banks Peninsula District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Buller District Council | Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517 |
 | Carterton District Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
@@ -3158,7 +3145,6 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Clutha District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Dunedin City Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Far North District Council | Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391 |
-| Franklin District Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Gisborne District Council | Local Government (Gisborne Region) Reorganisation Order 1989, Gazette 1989, p 2328 |
 | Gore District Council | Local Government (Southland Region) Reorganisation Order 1989, Gazette 1989, p 2430 |
 | Grey District Council | Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517 |
@@ -3175,22 +3161,18 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Kawerau District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Mackenzie District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Manawatu District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
-| Manukau City Council | Local Government (Auckland Region) Reorganisation Order 1990, Gazette 1990, p 2247 |
 | Marlborough District Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | Masterton District Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Matamata-Piako District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Napier City Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
 | Nelson City Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | New Plymouth District Council | Local Government (Taranaki Region) Reorganisation Order 1989, Gazette 1989, p 2445 |
-| North Shore City Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Opotiki District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Otorohanga District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Palmerston North City Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
-| Papakura District Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Porirua City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Queenstown-Lakes District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Rangitikei District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
-| Rodney District Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Rotorua District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Ruapehu District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Selwyn District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
@@ -3211,7 +3193,6 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Waimate District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Waipa District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Wairoa District Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
-| Waitakere City Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Waitaki District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Waitomo District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Wanganui District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
