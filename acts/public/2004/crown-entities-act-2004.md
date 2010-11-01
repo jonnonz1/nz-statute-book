@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1577,7 +1577,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Crown Health Financing Agency |  |  |  |  |  |
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission |  |  |  |  |  |
-| Electricity Commission |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Foundation for Research, Science, and Technology |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
@@ -1633,6 +1632,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Children's Commissioner |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Drug Free Sport New Zealand |  |  |  |  |  |
+| Electricity Authority |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
