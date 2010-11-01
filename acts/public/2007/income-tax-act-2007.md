@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2010-11-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36671,7 +36671,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (vi) a company or organisation, as defined in section 6(2) of the Local Government Act 2002, that is subject to the control, directly or indirectly, of the New Zealand Local Government Association Incorporated:
       (vii) New Zealand Local Government Insurance Corporation and any subsidiaries it has:
       (viii) Watercare Services Limited and any subsidiaries it has: but
-    (b) does not include the Auckland Regional Transport Authority (as established by section 7 of the Local Government (Auckland) Amendment Act 2004) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004
+    (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit account continuity provisions** means—
@@ -37723,7 +37723,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (iv) the council of the Auckland Institute and Museum constituted under the Charitable Trusts Act 1957:
       (v) the Canterbury Museum Trust Board continued in existence by section 5(1) of the Canterbury Museum Trust Board Act 1993:
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
-      (vii) the Auckland Regional Transport Authority established by section 7 of the Local Government (Auckland) Amendment Act 2004:
+      (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
       (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004
   - **logbook term** is defined in section DE 8 (Logbook term)
   - **long-term bailment** is defined in section EC 27 (Some definitions) for the purposes of subpart EC (Valuation of livestock)
