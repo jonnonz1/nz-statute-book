@@ -1,5 +1,5 @@
 # Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010
-_Consolidation as at 2010-06-30_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010.
