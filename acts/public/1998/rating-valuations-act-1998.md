@@ -1,7 +1,7 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2010-11-01_
 
-> An Act to— a provide for the Valuer-General to be a statutory officer within Land Information New Zealand; and b introduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; and c repeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
+> An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Rating Valuations Act 1998.
@@ -365,7 +365,7 @@ A territorial authority must—
 ### 43 Regional councils to share costs of maintaining district valuation rolls
 (1) A regional council must pay annually to each of its constituent territorial authorities a share of the costs of the territorial authority in preparing and maintaining its district valuation roll.
 (2) The regional council's annual share of the costs in any particular case is to be an amount determined having regard to the formula in subsection (3), or such other amount as is agreed between the council and the relevant territorial authority.
-(3) The formula referred to in subsection (2) is as follows: where— ais the average annual gross revenue generated from rates for the last 3 financial years by the territorial authority; and bis the average annual gross revenue generated from rates for the last 3 financial years by the regional council within the district of the territorial authority; and cis all the costs incurred by the territorial authority in the relevant year in preparing and maintaining its district valuation roll in respect of the information that is required by, or requested by, the regional council or necessary for the preparation or maintenance of that information.
+(3) The formula referred to in subsection (2) is as follows:where—ais the average annual gross revenue generated from rates for the last 3 financial years by the territorial authority; andbis the average annual gross revenue generated from rates for the last 3 financial years by the regional council within the district of the territorial authority; andcis all the costs incurred by the territorial authority in the relevant year in preparing and maintaining its district valuation roll in respect of the information that is required by, or requested by, the regional council or necessary for the preparation or maintenance of that information.
 (4) In determining generally how to undertake its valuation services, a territorial authority must—
   (a) consult with the relevant regional council; and
   (b) have regard to the views of the regional council in its choice of service provider.
@@ -476,7 +476,7 @@ The enactments listed in Schedule 1 are repealed.
 
 ### 57 Savings relating to proceedings
 (1) All proceedings that, immediately before the commencement of this Act, were pending by or against or which could have been brought by or against or in respect of the chief executive of the Valuation Department may be carried on, completed, or enforced by or against or in respect of the Attorney-General or such chief executive or other person as the Attorney-General may certify for the purposes of this section.
-(2) All proceedings that— may be carried on, completed, or enforced by or against or in respect of the Attorney-General or such chief executive or other person as the Attorney-General may certify for the purposes of this section.
+(2) All proceedings that—may be carried on, completed, or enforced by or against or in respect of the Attorney-General or such chief executive or other person as the Attorney-General may certify for the purposes of this section.
   (a) immediately before the commencement of this Act were pending by or against or which could have been brought by or against or in respect of any person other than the chief executive of the Valuation Department; and
   (b) relate to anything done or omitted to be done by or against or in relation to that person in the performance of functions or powers of the chief executive of the Valuation Department, whether as an employee of the relevant ministry or otherwise,—
 
@@ -500,15 +500,13 @@ The repeal of the Valuation of Land Amendment Act (No 2) 1970 by section 53 does
   (a) all valuation services required by a territorial authority in respect of general revaluations and maintenance of its district valuation rolls up to and including the date 1 September 2000 are to be contracted out to Valuation New Zealand Limited; and
   (b) any such contract is to extend beyond 1 September 2000 to the extent required to allow for the undertaking and completion of objections in respect of general revaluations made on or before that date, or for the undertaking and completion of further work needed to obtain the Valuer-General's approval for such general revaluations.
 (2) Subsection (1) does not apply to—
-  (a) any territorial authority if and to the extent that it is exempted from that subsection by the Valuer-General by notice in the Gazette made under section 61:
-  (b) the Auckland City Council.
+  (a) any territorial authority if and to the extent that it is exempted from that subsection by the Valuer-General by notice in the Gazette made under section 61.
+  (b)
 (3) For such time as a territorial authority is required to use the valuation services of Valuation New Zealand Limited under subsection (1), the date as at which a general revaluation of its district valuation roll must be undertaken is 1 September or such other date as the Valuer-General determines.
 
 ### 61 Valuer-General and New Zealand Local Government Association to agree on which territorial authorities need not use Valuation New Zealand Limited
 (1) The Valuer-General and the New Zealand Local Government Association Incorporated may from time to time consult with each other and agree on how many and which territorial authorities are to be exempt from the requirements of section 60(1).
-(2) The number of such exemptions—
-  (a) is to be not fewer than 2 (in addition to the Auckland City Council), for territorial authorities whose next general revaluation is required to involve revaluations as at 1 September 1999:
-  (b) is to be not fewer than 6 (in addition to the Auckland City Council), for territorial authorities whose next general revaluation is required to involve revaluations as at 1 September 2000.
+(2)
 (3) If the Valuer-General and the Association cannot agree by 1 July in the relevant year as to the number and identity of territorial authorities to be exempt from section 60(1), those questions are to be decided by the Valuer-General.
 (4) Where agreement is reached under subsection (1) or a decision is made under subsection (3), the Valuer-General must as soon as practicable, by notice in the Gazette, specify—
   (a) the territorial authorities to be exempted from section 60(1); and
