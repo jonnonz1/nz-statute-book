@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2010-01-01_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -38,11 +38,9 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (c) a territorial authority:
     (d) an approved public organisation
   - **approved public organisation** means a public organisation approved under section 23
-  - **ARTA** means the Auckland Regional Transport Authority established by section 7 of the Local Government (Auckland) Amendment Act 2004
-  - **Auckland local authority** has the same meaning as in section 4(1) of the Local Government (Auckland) Amendment Act 2004
-  - **Auckland Region** has the same meaning as in section 4(1) of the Local Government (Auckland) Amendment Act 2004
-  - **Auckland Regional Council** means the Auckland Regional Council referred to in Part 1 of Schedule 2 of the Local Government Act 2002
-  - **Auckland territorial authority** has the same meaning as in section 4(1) of the Local Government (Auckland) Amendment Act 2004
+  - **Auckland** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Council** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Transport** means the entity established under section 38 of the Local Government (Auckland Council) Act 2009
   - **capital project** —
     (a) means an individual land transport-related activity of a capital nature; and
     (b) includes—
@@ -113,7 +111,10 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (d) a State enterprise (as defined in section 2 of the State-Owned Enterprises Act 1986):
     (e) a local authority:
     (f) a council-controlled organisation
-  - **public road controlling authority** , in relation to a concession road or a toll road, means the Agency or a territorial authority, regardless of whether any other person is also a controlling authority for the road
+  - **public road controlling authority** , in relation to a concession road or a toll road, means the following persons, regardless of whether any other person is also a controlling authority for the road:
+    (a) the Agency; or
+    (b) a territorial authority; or
+    (c) Auckland Transport
   - **public transport service** means the carriage of passengers for hire or reward by means of—
     (a) a large passenger service vehicle as defined in section 2(1) of the Land Transport Act 1998; or
     (b) a small passenger service vehicle as defined in section 2(1) of the Land Transport Act 1998; or
@@ -122,16 +123,14 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (e) a hovercraft; or
     (f) any other mode of transport (other than air transport) available to the public generally
   - **regional council** —
-    (a) means a regional council within the meaning of the Local Government Act 2002; and
+    (a) means a regional council within the meaning of section 5(1) of the Local Government Act 2002; but
     (b) when used in—
-      (i) Part 2 or 3, includes a unitary authority; and
-      (ii) Part 2, excludes—
-        (A) the Auckland Regional Council; and
-        (B) the Waikato Regional Council in relation to that part of its region within the district of the Franklin District Council
+      (i) subparts 1 and 2 of Part 2, includes a unitary authority except the Auckland Council:
+      (ii) subpart 3 of Part 2 and Part 3, includes a unitary authority
   - **regional land transport programme** means a regional land transport programme prepared under Part 2, as from time to time amended or varied
   - **regional land transport strategy** means a regional land transport strategy prepared under Part 3
   - **regional public transport plan** has the same meaning as in section 4 of the Public Transport Management Act 2008
-  - **regional transport committee** means a regional transport committee established under section 105 or clause 11 of Schedule 7
+  - **regional transport committee** means a regional transport committee established under section 105
   - **registered owner** , in relation to a motor vehicle, means the person registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 as the owner of the vehicle
   - **registered service** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **road** —
@@ -139,7 +138,9 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) despite the terms of that definition, in subpart 2 of Part 2, includes a motorway as defined in that section; and
     (c) includes toll booths and other toll-related infrastructure on a road
   - **road** includes a motorway
-  - **road controlling authority** , in relation to a road, means the Minister, Department of State, Crown entity, State enterprise, or territorial authority that controls the road
+  - **road controlling authority** ,—
+    (a) in relation to a road, means the Minister, department of State, Crown entity, State enterprise, or territorial authority that controls the road; but
+    (b) in relation to a road within Auckland that is controlled by Auckland Transport, means Auckland Transport
   - **road tolling scheme** means a road tolling scheme established by Order in Council under section 46
   - **Secretary** means the chief executive of the Ministry
   - **State highway** means a road, whether or not constructed or vested in the Crown, that is declared to be a State highway under section 11 of the National Roads Act 1953, section 60 of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), or under section 103; and includes—
@@ -224,9 +225,9 @@ This Act binds the Crown.
   (e) regional and territorial authorities’ activities or combinations of activities approved under section 20 that have been authorised by a transfer of responsibility under section 17 of the Local Government Act 2002:
   (f) approved public organisations’ activities or combinations of activities approved under section 20:
   (g) expenses resulting from, and repayment of, any borrowing in accordance with subsection (1)(b).
-(4) A local authority whose activities or combinations of activities are included in a regional land transport programme approved by ARTA is not entitled to receive funds directly from the Agency.
-(5) ARTA must, as soon as practicable and at no cost to the local authority, pay to an Auckland local authority the funds received by ARTA from the Agency for approved activities or combinations of activities to be carried out by the local authority.
-(6) Despite subsection (4), the Auckland Regional Council may receive funds directly from the Agency in respect of activities or combinations of activities approved under section 20 in respect of the preparation (including consultation) and approval of a regional land transport strategy for the Auckland Region.
+(4)
+(5)
+(6) The Auckland Council may receive funds from the Agency only in respect of activities or combinations of activities approved under section 20 in respect of the preparation (including consultation) and approval of a regional land transport strategy for Auckland.
 
 ### 11 Annual report on national land transport fund
 (1) After the end of each financial year, the Agency must prepare an annual report on the national land transport fund.
@@ -247,7 +248,7 @@ This Act binds the Crown.
 (1) A regional land transport programme allows approved organisations and the Agency to recommend funding for land transport activities or combinations of activities from the national land transport fund that will contribute to—
   (a) a region’s outcomes that are identified in the relevant regional land transport strategy; and
   (b) any outcomes, objectives and impacts identified by the Crown in any national land transport strategy or the relevant GPS.
-(2) Regional land transport programmes, which are prepared by regional transport committees (or, in the case of the Auckland Region, ARTA), include—
+(2) Regional land transport programmes, which are prepared by regional transport committees (or, in the case of Auckland, Auckland Transport), include—
   (a) proposed activities and combinations of activities for 3 financial years; and
   (b) an indication of significant activities for the following 3 financial years; and
   (c) a 10-year financial forecast.
@@ -257,15 +258,13 @@ This Act binds the Crown.
 [Repealed]
 
 ### 13 Responsibility for preparing and approving regional land transport programmes
-(1) Every 3 financial years, each regional council, in the case of every region except the Auckland Region, must—
+(1) Every 3 financial years, each regional council, in the case of every region except Auckland, must—
   (a) ensure that the relevant regional transport committee prepares, on the regional council’s behalf, a regional land transport programme; and
   (b) approve the regional land transport programme by a date appointed by the Agency.
-(2) Every 3 financial years, ARTA (in the case of the Auckland Region) must—
+(2) Every 3 financial years, Auckland Transport, in the case of Auckland, must—
   (a) prepare an Auckland regional land transport programme; and
   (b) approve the Auckland regional land transport programme by a date appointed by the Agency.
-(3) Before ARTA prepares an Auckland regional land transport programme, ARTA must consult with the Auckland regional transport committee about—
-  (a) ARTA's proposed areas of focus for the programme; and
-  (b) the process ARTA intends to use in preparing the programme.
+(3)
 (4) A regional council or regional transport committee may—
   (a) prepare and approve a regional land transport programme at the same time as it prepares and approves a regional land transport strategy; and
   (b) use a single consultation process that complies with sections 18, 18A, and 78 when preparing its programme and strategy.
@@ -291,8 +290,8 @@ When a regional transport committee prepares a regional land transport programme
     (iv) relevant regional public transport plan; and
     (v) likely funding from any source.
 
-### 15 Core requirements of regional land transport programmes prepared by ARTA
-ARTA must, in preparing an Auckland regional land transport programme,—
+### 15 Core requirements of regional land transport programmes prepared by Auckland Transport
+Auckland Transport must, in preparing an Auckland regional land transport programme,—
   (a) be satisfied that the Auckland regional land transport programme—
     (i) contributes to the aim of achieving an affordable, integrated, safe, responsive, and sustainable land transport system; and
     (ii) contributes to each of the following:
@@ -301,8 +300,8 @@ ARTA must, in preparing an Auckland regional land transport programme,—
       (C) improving access and mobility:
       (D) protecting and promoting public health:
       (E) ensuring environmental sustainability; and
-    (iii) is consistent with the relevant GPS; and
-  (b) give effect to the matters in the Auckland regional land transport strategy, unless it is required to do otherwise by operational considerations that affect the sequencing and timing of activities, the funding available to it, or its statutory functions, duties, or powers; and
+    (iii) is consistent with the relevant GPS and the Auckland regional land transport strategy; and
+  (b)
   (c) take into account any—
     (i) national land transport strategy; and
     (ii) national energy efficiency and conservation strategy; and
@@ -310,8 +309,8 @@ ARTA must, in preparing an Auckland regional land transport programme,—
     (iv) relevant regional public transport plan; and
     (v) likely funding from any source.
 
-### 16 Form and content of regional land transport programmes (for regions other than Auckland Region)
-(1) For the purpose of seeking payment from the national land transport fund, a regional land transport programme (for regions other than the Auckland Region) must contain, for the 3 financial years to which the programme relates,—
+### 16 Form and content of regional land transport programmes (for regions other than Auckland)
+(1) For the purpose of seeking payment from the national land transport fund, a regional land transport programme (for regions other than Auckland) must contain, for the 3 financial years to which the programme relates,—
   (a) activities or combinations of activities, identified by approved organisations in the region, relating to local road maintenance, local road renewals and local road minor capital works, and existing public transport services; and
   (b) the following activities or combinations of activities that the regional transport committee decides to include in the regional land transport programme:
     (i) activities or combinations of activities proposed by approved organisations in the region, other than those identified under paragraph (a); and
@@ -343,40 +342,47 @@ ARTA must, in preparing an Auckland regional land transport programme,—
 (5) The assessment under subsection (1)(d) must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under subsection (4).
 (6) For the purposes of this section, existing public transport services means the level of public transport services in place in the financial year before the commencement of the regional land transport programme, and any minor changes to those services.
 
-### 17 Form and content of ARTA's regional land transport programmes
-(1) For the purpose of seeking payment from the national land transport fund, ARTA's regional land transport programme must contain, for the 3 financial years to which the programme relates,—
-  (a) the following activities and combinations of activities that ARTA decides to include in ARTA's regional land transport programme:
-    (i) activities or combinations of activities proposed by approved organisations in the region; and
+### 17 Form and content of Auckland Transport's regional land transport programmes
+(1) Auckland Transport's regional land transport programme must contain, for the 3 financial years to which the programme relates,—
+  (a) the following activities and combinations of activities that Auckland Transport decides to include in the programme:
+    (i) activities or combinations of activities proposed by Auckland Transport or the governing body of the Auckland Council; and
     (ii) activities or combinations of activities relating to State highways in the region that are proposed by the Agency; and
-    (iii) activities or combinations of activities, other than those relating to State highways, that the Agency may propose for the region and the Agency wishes to see included in ARTA's regional land transport programme; and
-  (b) the order of priority, as determined by ARTA, of the activities or combinations of activities that ARTA decides to include in ARTA's regional land transport programme under paragraph (a); and
-  (c) an assessment of each activity or combination of activities, prepared in accordance with subsection (5) by the organisation that proposed the activity or combination of activities under paragraph (a), to include—
+    (iii) activities or combinations of activities, other than those relating to State highways, that the Agency may propose for Auckland and that it wishes to see included in the programme; and
+  (b) any activities or combinations of activities that are proposed by the governing body of the Auckland Council or any other approved organisation to be—
+    (i) included in the programme; and
+    (ii) fully funded from sources other than the national land transport fund; and
+  (c) the order of priority, as determined by Auckland Transport, of the activities or combinations of activities that it decides to include in the programme under paragraph (a); and
+  (d) an assessment of each activity or combination of activities, prepared in accordance with subsection (5) by the organisation that proposed the activity or combination of activities under paragraph (a), which must include—
     (i) the objective or objectives to be achieved; and
     (ii) an estimate of the total cost and the cost for each year; and
     (iii) the expected duration; and
-    (iv) any proposed sources of funding other than the national land transport fund (including, but not limited to, tolls, regional fuel taxes, funding from approved organisations, and contributions from other parties); and
-    (v) any other relevant information.
-(2) ARTA's regional land transport programme must contain assessments by ARTA of—
+    (iv) any proposed sources of funding (including, but not limited to, the national land transport fund, tolls, funding from approved organisations, and contributions from other parties); and
+    (v) any other relevant information; and
+  (e) an assessment of each activity or combination of activities, prepared in accordance with subsection (6) by the approved organisation that proposed the activity or combination of activities under paragraph (b), which must include—
+    (i) an estimate of the total cost and the cost for each year; and
+    (ii) the expected duration.
+(2) The programme must contain assessments by Auckland Transport of—
   (a) how the programme complies with section 15; and
-  (b) the relationship of Police activities or combinations of Police activities to ARTA's regional land transport programme.
-(3) ARTA's regional land transport programme must also include—
-  (a) a statement of transport priorities for the region for the 6 financial years from the start of the programme, for which funding will be sought from the national land transport fund; and
-  (b) all significant expenditure on land transport activities to be funded from sources other than the national land transport fund; and
-  (c) a list of each activity or combination of activities that have been approved under section 20 but are not yet completed; and
-  (d) an identification of those activities or combinations of activities (if any) that have inter-regional significance; and
-  (e) an explanation of the proposed action if it is proposed that an activity or combination of activities be varied, suspended, or abandoned; and
-  (f) an indication of any nationally or regionally significant activities that are likely to be recommended for inclusion in the national land transport programme over the 3 financial years following ARTA's regional land transport programme; and
-  (g) a financial forecast of anticipated revenue and expenditure on activities for the 10 financial years from the start of ARTA's regional land transport programme; and
-  (h) a description of how monitoring will be undertaken to assess implementation of ARTA's regional land transport programme; and
-  (i) a summary of the consultation carried out in the preparation of ARTA's regional land transport programme; and
-  (j) a summary of the policy relating to significance adopted by ARTA under section 106; and
-  (k) any other relevant matters.
-(4) For the purpose of the inclusion of activities or combinations of activities in a national land transport programme, ARTA's regional land transport programme must be in the form and contain the detail that the Agency may prescribe in writing to ARTA.
-(5) The assessment under subsection (1)(c) must be in a form and contain the detail required by ARTA, taking account of any prescription made by the Agency under subsection (4).
+  (b) the relationship of Police activities or combinations of Police activities to the programme.
+(3) The programme must also include—
+  (a) a statement of transport priorities for the region for the 6 financial years from the start of the programme; and
+  (b) a list of each activity or combination of activities that have been started but are not yet completed; and
+  (c) an identification of those activities or combinations of activities (if any) that have inter-regional significance; and
+  (d) an explanation of the proposed action if it is proposed that an activity or combination of activities be varied, suspended, or abandoned; and
+  (e) an indication of any nationally or regionally significant activities that are likely to be recommended for inclusion in the national land transport programme over the 3 financial years following the programme; and
+  (f) a financial forecast of revenue and expenditure on activities for the 10 financial years from the start of the programme; and
+  (g) a description of how monitoring will be undertaken to assess implementation of the programme; and
+  (h) a summary of the consultation carried out in the preparation of the programme; and
+  (i) a summary of the policy relating to significance adopted by Auckland Transport under section 106(2); and
+  (j) any other relevant matters.
+(4) To include activities or combinations of activities in a national land transport programme, the programme must be in the form and contain the detail that the Agency prescribes in writing to Auckland Transport.
+(5) The assessment under subsection (1)(d) must be in a form and contain the detail required by Auckland Transport, taking account of any prescription made by the Agency under subsection (4).
+(6) The assessment under subsection (1)(e) must be in a form and contain the detail required by Auckland Transport.
 
 ### 18 Consultation requirements
-When preparing a regional land transport programme, a regional transport committee or ARTA (as the case may require) must consult—
+(1) When preparing a regional land transport programme, a regional transport committee or Auckland Transport (as the case may require) must consult—
   (a) every affected regional council; and
+  (ab) the Auckland Council, if affected; and
   (b) every affected territorial authority; and
   (c) every affected approved public organisation; and
   (d) the Agency; and
@@ -389,13 +395,17 @@ When preparing a regional land transport programme, a regional transport committ
   (k) affected communities; and
   (l) Māori of the region; and
   (m) the public in the region.
+(2) If consulting the Auckland Council, a regional land transport committee or Auckland Transport must consult both the governing body and each affected local board of the Council.
 
 ### 18A Consultation principles
-(1) In carrying out the consultation required under section 18, a regional transport committee or ARTA (as the case may require) must—
+(1) In carrying out the consultation required under section 18, a regional transport committee or Auckland Transport (as the case may require) must—
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
   (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
-(2) A regional transport committee or ARTA complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
-(3) When consulting under section 18 and this section with respect to its regional land transport programme, ARTA need not consult any organisation or person referred to in section 18 about any activity or combination of activities in its regional land transport programme if an Auckland local authority has already consulted that organisation or person about the activity or combination of activities in the course of preparing that local authority’s current long-term council community plan or annual plan in accordance with the Local Government Act 2002.
+(2) A regional transport committee complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(3) Auckland Transport complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the Auckland Council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(4) Auckland Transport is not required to consult, under section 18 and this section, any organisation or person referred to in section 18 if the Auckland Council has already consulted the organisation or person—
+  (a) in the course of preparing the Council's current long-term council community plan or annual plan; and
+  (b) in accordance with the Local Government Act 2002.
 
 ### 18B Process for approving regional land transport programmes prepared by regional transport committees
 (1) A regional transport committee that has prepared a regional land transport programme on behalf of a regional council must, after it has consulted under sections 18 and 18A, lodge the regional land transport programme with the regional council.
@@ -415,23 +425,23 @@ When preparing a regional land transport programme, a regional transport committ
   (b) consider the regional council's statement of reasons.
 (8) Section 18F applies, with the necessary modifications, to any programme or amended programme and statement of reasons forwarded under subsection (6).
 
-### 18C ARTA must give Agency reasons for not including in its regional land transport programme activities or combinations of activities proposed by Agency
-When forwarding its regional land transport programme to the Agency, ARTA must give the Agency written reasons for any decision not to include in its regional land transport programme an activity or combination of activities proposed by the Agency for inclusion in the programme.
+### 18C Auckland Transport must give Agency reasons for not including in its regional land transport programme activities or combinations of activities proposed by Agency
+When forwarding its regional land transport programme to the Agency, Auckland Transport must give the Agency written reasons for any decision not to include in its regional land transport programme an activity or combination of activities proposed by the Agency for inclusion in the programme.
 
 ### 18D Variation of regional land transport programmes
-(1) If good reason exists to do so, a regional transport committee or ARTA may prepare a variation to its regional land transport programme during the 3 years to which it applies.
+(1) If good reason exists to do so, a regional transport committee or Auckland Transport may prepare a variation to its regional land transport programme during the 3 years to which it applies.
 (2) A variation may be prepared by a regional transport committee—
   (a) at the request of an approved organisation or the Agency; or
   (b) on the regional transport committee’s own motion.
-(3) A variation may be prepared by ARTA—
+(3) A variation may be prepared by Auckland Transport—
   (a) at the request of the Agency; or
-  (b) on ARTA’s own motion.
-(4) The regional transport committee or ARTA must consider any variation request promptly.
+  (b) on Auckland Transport's own motion.
+(4) The regional transport committee or Auckland Transport must consider any variation request promptly.
 (5) The provisions of this Act that apply to the preparation of a regional land transport programme apply with the necessary modifications to a variation of a regional land transport programme; however, consultation is not required for any variation that—
   (a) is not significant; or
   (b) arises from the declaration or revocation of a State highway.
-(6) Section 18B applies, with the necessary modifications, to the approval by a regional council or ARTA of a variation of a regional land transport programme.
-(7) The Agency must consider promptly whether to vary the national land transport programme after receiving a varied regional land transport programme forwarded to it by a regional council or ARTA.
+(6) Section 18B applies, with the necessary modifications, to the approval by a regional council or Auckland Transport of a variation of a regional land transport programme.
+(7) The Agency must consider promptly whether to vary the national land transport programme after receiving a varied regional land transport programme forwarded to it by a regional council or Auckland Transport.
 (8) A variation of a regional land transport programme does not create an obligation on the Agency to vary the national land transport programme, but the Agency must give written reasons for any decision not to do so.
 (9) This section does not apply if section 18E applies.
 
@@ -442,16 +452,19 @@ When forwarding its regional land transport programme to the Agency, ARTA must g
 (4) The Agency must consider promptly any request made under this section to vary the national land transport programme.
 (5) A request made under this section does not create an obligation to vary the national land transport programme but the Agency must give written reasons for any decision not to do so.
 (6) If the Agency approves a variation under subsection (4), the relevant regional land transport programme is to be read as if the approved variation had been included in the approved programme.
-(7) This section does not apply to approved organisations in the Auckland Region.
+(7) This section does not apply to approved organisations in Auckland.
 
 ### 18F Availability of regional land transport programmes
-A regional council or ARTA (as the case may require) must, by a date or dates appointed by the Agency,—
+(1) A regional council or Auckland Transport (as the case may require) must, by a date or dates appointed by the Agency,—
   (a) forward copies of its approved regional land transport programme to—
     (i) the Secretary; and
     (ii) the Agency; and
     (iii) the Commissioner; and
     (iv) approved organisations in the region; and
   (b) make the approved regional land transport programme publicly available in accordance with section 108.
+(2) In addition, Auckland Transport must make available information about the current funding arrangements, or proposed funding arrangements, in respect of each activity or combination of activities included in its regional land transport programme—
+  (a) for inspection by the public, free of charge; and
+  (b) on an Internet site in a format that is readily accessible and, if practicable, that can be used by the visually impaired.
 
 ### 18G Separate consultation with Māori on particular activities
 (1) An approved organisation or the Agency (as the case may require) must do everything reasonably practicable to separately consult Māori affected by any activity proposed by the approved organisation or the Agency that affects or is likely to affect—
@@ -562,7 +575,7 @@ A national land transport programme must include the following matters:
 (1) This section applies to the following decisions by the Agency in relation to an activity or combination of activities:
   (a) a decision not to include an activity or a combination of activities in the national land transport programme:
   (b) a decision to include an activity or a combination of activities in the national land transport programme, but at a different level of priority to that accorded to the activity or combination of activities in the relevant regional land transport programme.
-(2) If this section applies, the Agency must give the relevant regional transport committee or ARTA (as the case may require) written advice of the Agency’s decision and its reasons for making that decision.
+(2) If this section applies, the Agency must give the relevant regional transport committee or Auckland Transport (as the case may require) written advice of the Agency’s decision and its reasons for making that decision.
 
 ### 19E Variation of national land transport programme
 (1) The Agency may vary the national land transport programme during the 3 financial years to which it applies.
@@ -644,7 +657,7 @@ The Agency must set the rate of funding assistance from the national land transp
 (3) Without limiting subsection (1), an order made under that subsection may—
   (a) grant an approval in relation to particular land transport purposes:
   (b) grant an approval subject to conditions specified in the order.
-(4) The Department of Conservation and the Waitangi National Trust Board and ARTA are deemed to be approved public organisations under this section.
+(4) The Department of Conservation and the Waitangi National Trust Board and Auckland Transport are deemed to be approved public organisations under this section.
 
 **Land transport disbursement accounts**
 
@@ -681,7 +694,7 @@ Section 25 does not apply in relation to any payment—
     (i) approved by the Agency; and
     (ii) undertaken by the Agency or an approved organisation using the Agency's or approved organisation’s own staff and assets; or
   (d) made under the land transport disbursement account of an approved organisation if the payment is made to the land transport disbursement account of another approved organisation to enable that other organisation to exercise delegated functions and powers under this Act of that first-mentioned approved organisation; or
-  (da) made from ARTA's land transport disbursement account if the payment is made to the land transport disbursement account of another approved organisation; or
+  (da) made from Auckland Transport's land transport disbursement account if the payment is made to the Auckland Council's land transport disbursement account; or
   (e) made in respect of any registered service of any public transport operator in relation to any 12-month period that follows—
     (i) the withdrawal or proposed withdrawal of that operator from the provision of the service; or
     (ii) the withdrawal of any other operator from the provision of the same or a similar service; or
@@ -724,7 +737,7 @@ If the Agency grants itself an exemption under section 26(a) or approves a procu
 **General provisions**
 
 ### 35 Needs of transport disadvantaged must be considered
-In preparing any programme under this Part, the Agency, the Commissioner, the Secretary, every local authority, ARTA, and every approved public organisation must consider the needs of persons who are transport disadvantaged.
+In preparing any programme under this Part, the Agency, the Commissioner, the Secretary, every local authority, Auckland Transport, and every approved public organisation must consider the needs of persons who are transport disadvantaged.
 
 ### 36 Agency may reduce, refuse, or withhold payments in certain cases
 (1) This section applies if the Agency considers that, in relation to an approved activity, an approved organisation or person—
@@ -755,11 +768,16 @@ In preparing any programme under this Part, the Agency, the Commissioner, the Se
 (1) The Agency may require an approved organisation to provide any information that the Agency considers it needs to perform its functions under this Act.
 (2) An approved organisation may require any other approved organisation to provide any information that it considers it needs to perform its functions under this Act.
 (3) A requirement under this section must be made in writing, and the information required must be provided as soon as practicable after the requirement is received and be in a readily understandable form.
-(4) It is the duty of the Secretary, the Agency, and approved organisations to give reasonable assistance to each other to enable them to perform their respective functions and duties, and exercise their respective powers under this Act.
+(4)
+
+### 38AA Duty to co-operate
+(1) It is the duty of the Secretary, the Agency, and approved organisations to give reasonable assistance to each other to enable them to perform their respective functions and duties, and exercise their respective powers, under this Act.
+(2) In acting under this Act, the Agency, Auckland Transport, and the Auckland Council must work co-operatively with each other and the New Zealand Railways Corporation, the Police, and other organisations that have responsibilities in relation to the Auckland transport system and State highways and railways within Auckland, to help ensure a co-ordinated approach to decision making about Auckland transport.
+(3) In subsection (2), Auckland transport system has the same meaning as in section 37(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 38A Good reasons for refusing to supply requested information
 (1) The Agency may refuse a request for information under section 78(4) or 83(2) or clause 10(2) of Schedule 7 only if the information may, in the Agency's opinion, be withheld under section 6 or section 9(2)(a), (b), (ba), (h), (i), or (j) of the Official Information Act 1982.
-(2) Subsection (1) applies only if the Agency is satisfied that the reason for the refusal is not outweighed by the regional transport committee's or ARTA's need to have the information in order to discharge its functions.
+(2) Subsection (1) applies only if the Agency is satisfied that the reason for the refusal is not outweighed by the regional transport committee's or Auckland Transport's need to have the information in order to discharge its functions.
 
 **Infrastructure Auckland**
 
@@ -1070,10 +1088,11 @@ In this subpart, unless the context otherwise requires,—
   - **project agency** , in relation to a capital project under a scheme or a proposed scheme, means any of the following that is responsible for the capital project:
     (a) an approved organisation:
     (b) in the case of a capital project for railway infrastructure (within the meaning of section 4(1) of the Railways Act 2005), the New Zealand Railways Corporation:
-    (c) in the case of a capital project for a State highway, the Agency:
-    (d) in the case of Auckland, and despite sections 9(1)(d) and 32(1)(a) of the Local Government (Auckland) Amendment Act 2004, includes the Auckland Regional Council
+    (c) in the case of a capital project for a State highway, the Agency
+    (d)
   - **regional fuel tax** means the regional fuel tax that is payable under this subpart exclusive of goods and services tax payable under the Goods and Services Tax Act 1985
   - **regional fuel tax scheme** or means a regional fuel tax scheme established by Order in Council made under section 65O(1)
+  - **regional transport committee** , in relation to Auckland, means the Auckland Council
   - **responsible Ministers** means the Minister of Finance and the Minister responsible for this Act
   - **retail destination** means any location where fuel is supplied for end use.
 
@@ -1082,10 +1101,8 @@ In this subpart, unless the context otherwise requires,—
 (2) Despite anything in section 105(11), (12), and (13), a regional fuel tax scheme prepared under this subpart must be prepared in relation to a region.
 (3) For the purposes of subsection (2), region—
   (a) has the same meaning as in the Local Government Act 2002; but
-  (b) means, in relation to Auckland, the Auckland Region as defined in the Local Government (Auckland) Amendment Act 2004.
-(4) To avoid doubt, all of the district of the Franklin District Council is—
-  (a) included in the Auckland Region; and
-  (b) excluded from the Waikato region.
+  (b) in relation to Auckland, means Auckland (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009.
+(4)
 
 **Regional fuel tax schemes**
 
@@ -1094,13 +1111,9 @@ In this subpart, unless the context otherwise requires,—
   (a) its region needs funding for 1 or more capital projects that it considers are a priority for the region, which may include capital projects located in another region; and
   (b) full funding for those capital projects from any other source is not reasonably available within the time frame desired by the regional transport committee.
 (2) If this section applies, a proposed regional fuel tax scheme may be prepared by the relevant regional transport committee on behalf of the relevant regional council.
-(3) The Auckland Regional Council may, having regard to the views of the Auckland regional transport committee, prepare a proposed regional fuel tax scheme for the Auckland Region if the Auckland Regional Council considers that—
-  (a) its region needs funding for 1 or more capital projects that it considers are a priority for the region, which may include capital projects located in another region; and
-  (b) full funding for those capital projects from any other source is not reasonably available within the time frame desired by the regional council.
-(4) The Auckland regional transport committee is responsible for reviewing, varying, or replacing a regional fuel tax scheme prepared under subsection (3), and for preparing any subsequent scheme.
-(5) If subsection (3) applies,—
-  (a) all references to a regional transport committee in sections 65E to 65P are to be treated as references to the Auckland Regional Council, with all necessary modifications; and
-  (b) sections 65K(1)(b) and (3)and 65N(2) do not apply.
+(3)
+(4)
+(5)
 
 ### 65F Capital projects
 A proposed regional fuel tax scheme must—
@@ -1120,7 +1133,7 @@ A proposed regional fuel tax scheme must—
     (iii) must allow for a reasonable period in which retailers may prepare for the introduction of a regional fuel tax scheme; and
   (c) provide the date that the proposed scheme ends; and
   (d) state the rate or rates of regional fuel tax that are required under the proposed scheme, which,—
-    (i) in the case of the Auckland Region, may not exceed 5 cents per litre of fuel for all of the capital projects that have been identified by the Auckland Region as priorities for that region, subject to section 65M; and
+    (i) in the case of Auckland, may not exceed 5 cents per litre of fuel for all of the capital projects that have been identified by Auckland as priorities for that region, subject to section 65M; and
     (ii) in every other case, may not exceed 10 cents per litre of fuel for all of the capital projects that have been identified by any other region as priorities for that region; and
   (e) provide the date that the rate applies (if there is only 1 rate) or the dates that each of the rates applies (if there is more than 1 rate), provided that the rate or rates may only apply from the first day of January, April, July, or October; and
   (f) state the duration of the regional fuel tax contribution to each capital project that is included in the proposed scheme; and
@@ -1136,7 +1149,7 @@ A proposed regional fuel tax scheme must—
 
 ### 65H Persons that must be consulted
 When preparing a proposed regional fuel tax scheme, a regional transport committee must consult—
-  (a) every affected approved organisation (which, for the avoidance of doubt, in the Auckland Region includes ARTA); and
+  (a) every affected approved organisation (which, for the avoidance of doubt, in Auckland, includes Auckland Transport); and
   (b) the Agency; and
   (c) the Commissioner; and
   (d) the Ministry of Health; and
@@ -1190,12 +1203,12 @@ The Agency’s functions under this subpart include—
     (iii) providing refunds; and
     (iv) prosecution of offences specified in section 65ZD.
 
-### 65M Additional capital projects may be included in proposed regional fuel tax scheme for Auckland Region
-(1) If the proposed regional fuel tax scheme that is lodged with the responsible Ministers under section 65K is for the Auckland Region, the responsible Ministers may amend the proposed scheme by including 1 or more capital projects that the responsible Ministers have identified as priorities for the Auckland Region, provided that the responsible Ministers are satisfied that the projects are consistent with the Auckland regional land transport strategy.
-(2) However, the rate of regional fuel tax at any one time under a regional fuel tax scheme for the Auckland Region may not exceed 10 cents per litre of fuel, which is made up as follows:
+### 65M Additional capital projects may be included in proposed regional fuel tax scheme for Auckland
+(1) If the proposed regional fuel tax scheme that is lodged with the responsible Ministers under section 65K is for Auckland, the responsible Ministers may amend the proposed scheme by including 1 or more capital projects that the responsible Ministers have identified as priorities for Auckland, provided that the responsible Ministers are satisfied that the projects are consistent with the Auckland regional land transport strategy.
+(2) However, the rate of regional fuel tax at any one time under a regional fuel tax scheme for Auckland may not exceed 10 cents per litre of fuel, which is made up as follows:
   (a) a maximum of 5 cents per litre of fuel for capital projects specified by the relevant region; and
   (b) a maximum of 5 cents per litre of fuel for any capital projects specified by the responsible Ministers.
-(3) Despite subsection (2), no more than a combined maximum of 5 cents per litre of fuel may be used for carriageways for general traffic in the Auckland Region.
+(3) Despite subsection (2), no more than a combined maximum of 5 cents per litre of fuel may be used for carriageways for general traffic in Auckland.
 
 ### 65N Decisions of Ministers concerning proposed regional fuel tax scheme
 (1) The responsible Ministers may, after considering a proposed regional fuel tax scheme, or a proposed scheme that they have amended under section 65M, decide—
@@ -1434,18 +1447,18 @@ As soon as practicable after completing a national land transport strategy, the 
 **Regional land transport strategies**
 
 ### 73 Overview of regional land transport strategy
-(1) A regional land transport strategy, which (for regions other than Auckland) is prepared by the relevant regional transport committee for each region on behalf of the relevant regional council every 6 financial years and covers a period of at least 30 financial years, enables each regional council to provide guidance on the land transport outcomes sought by the region.
+(1) A regional land transport strategy, which is prepared by the relevant regional transport committee for each region on behalf of the relevant regional council (or by the Auckland Council for Auckland) every 6 financial years and covers a period of at least 30 financial years, enables each regional council to provide guidance on the land transport outcomes sought by the region.
 (2) This section is intended by way of explanation only, and if this section is inconsistent with another provision of this Act or any other Act, then the other provision prevails.
 
 ### 74 Responsibility for preparing and approving regional land transport strategies
-(1) At least once in every 6 financial years, each regional council must—
+(1) At least once in every 6 financial years, each regional council except the Auckland Council must—
   (a) ensure that the relevant regional transport committee prepares, on the regional council’s behalf, a regional land transport strategy that covers a period of at least 30 financial years; and
   (b) approve the regional land transport strategy.
-(2) For the purposes of this section and of sections 75 to 83, that part of the district of the Franklin District Council that is within the region of the Waikato Regional Council is to be treated—
-  (a) as not being part of the region of the Waikato Regional Council; but
-  (b) as being part of the region of the Auckland Regional Council.
-(3) Nothing in this section or in sections 75 to 83 applies to the Auckland Regional Council or to Auckland’s regional land transport strategy.
-(4) Despite subsection (3), Schedule 7 applies to the Auckland Regional Council and to Auckland’s regional land transport strategy.
+(2) At least once in every 6 financial years, the Auckland Council must prepare and approve a regional land transport strategy for Auckland that covers a period of at least 30 financial years.
+(3) The Auckland Council must appoint a representative of the Agency (nominated by the Agency) to be a special adviser to the Council when preparing the strategy.
+(4) The special adviser may attend any meetings of the Council or any meetings of any subcommittee of the Council relating to the preparation or approval of the strategy and, for this purpose, must be—
+  (a) given reasonable notice of the time and place of every meeting of the Council or the subcommittee and given any documents that relate to the meeting; and
+  (b) treated as a non-voting member of the Council or subcommittee.
 
 **Transit**
 
@@ -1469,7 +1482,7 @@ A regional transport committee must, when preparing a regional land transport st
     (iii) any relevant district plans.
 
 ### 76 Other matters that must be taken into account
-When preparing a regional land transport strategy on behalf of a regional council, a regional transport committee must also take into account—
+When a regional transport committee or the Auckland Council prepares a regional land transport strategy, it must also take into account—
   (a) any guidelines issued by the Minister for regional land transport strategies; and
   (b) the land transport funding likely to be available within the region for implementing the strategy during the period covered by the strategy; and
   (c) the views of affected communities; and
@@ -1491,11 +1504,11 @@ A regional land transport strategy must contain the following matters:
   (i) a statement that identifies any strategic option for which co-operation is required with other regions; and
   (j) a statement that identifies persons or organisations who should be involved in the further development of strategic options; and
   (k) measurable targets to be achieved to meet the outcomes of the regional land transport strategy; and
-  (l) a statement provided by an independent auditor of how the process followed by the regional transport committee complied with the requirements of this Act; and
-  (m) a summary of the policy relating to significance adopted by the regional transport committee under section 106.
+  (l) a statement provided by an independent auditor of how the process followed by the regional transport committee or the Auckland Council complied with the requirements of this Act; and
+  (m) a summary of the policy relating to significance adopted by the regional transport committee or the Auckland Council under section 106.
 
 ### 78 Consultation requirements
-(1) When preparing a proposed regional land transport strategy on behalf of a regional council, a regional transport committee must consult—
+(1) When a regional transport committee or the Auckland Council prepares a proposed regional land transport strategy, it must consult—
   (a) the adjoining regional councils and territorial authorities; and
   (b) the approved organisations in the region; and
   (c) the Secretary; and
@@ -1510,11 +1523,12 @@ A regional land transport strategy must contain the following matters:
   (l) affected communities; and
   (m) Māori of the region; and
   (n) the public in the region.
-(2) In carrying out the consultation required by subsection (1), a regional transport committee must—
+(2) In carrying out the consultation required by subsection (1), a regional transport committee or the Auckland Council must—
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
   (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
 (3) A regional transport committee complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
-(4) An approved organisation and the Agency must assist a regional transport committee that is preparing a regional land transport strategy by giving the regional transport committee any reasonably requested information that the regional transport committee needs in order to prepare the regional land transport strategy.
+(3A) The Auckland Council complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(4) When a regional transport committee or the Auckland Council is preparing a regional land transport strategy, an approved organisation and the Agency must assist the committee or the Council by giving it any reasonably requested information that it needs in order to prepare its strategy.
 
 ### 79 Process for approving regional land transport strategies
 (1) A regional transport committee that has prepared a regional land transport strategy on behalf of a regional council must, after it has consulted under section 78, lodge the regional land transport strategy with the regional council.
@@ -1549,9 +1563,9 @@ As soon as practicable after it has approved a regional land transport strategy,
 (3) The Commissioner must, except to the extent that his or her statutory functions or duties or common law obligations in any particular case otherwise require, ensure that in exercising or performing his or her functions, duties, and powers he or she takes into account any relevant regional land transport strategies and any relevant regional public transport plans.
 
 ### 83 Progress reports on regional land transport strategy
-(1) Every 3 financial years a regional transport committee must prepare a progress report on the implementation of any regional land transport strategy in place during the previous 3 financial years.
-(2) The Secretary, the Agency, the Commissioner, and the approved organisations in the relevant region must supply to the regional transport committee such information within its or his or her possession or control as may be reasonably requested by the regional transport committee for the purposes of preparing its progress report.
-(3) Within 3 months after the close of the third financial year to which its progress report relates, the regional transport committee, on behalf of the relevant regional council, must—
+(1) Every 3 financial years a regional transport committee and the Auckland Council must prepare a progress report on the implementation of any regional land transport strategy in place during the previous 3 financial years.
+(2) The Secretary, the Agency, the Commissioner, and the approved organisations in the relevant region must supply to the regional transport committee, or the Auckland Council, as the case may be, such information within its or his or her possession or control as may be reasonably requested by the regional transport committee or the Auckland Council for the purposes of preparing its progress report.
+(3) Within 3 months after the close of the third financial year to which its progress report relates, the regional transport committee, on behalf of the relevant regional council or the Auckland Council, must—
   (a) forward copies of the report to—
     (i) the Secretary; and
     (ii) the Agency; and
@@ -1790,7 +1804,7 @@ In the course of performing its functions and exercising its powers, the Agency 
     (iii) in any other case, every iwi or hapū that in the opinion of the Agency will or may be affected by the declaration, variation, or revocation; and
   (b) is satisfied that the declaration, variation, or revocation should be made.
 (7) Subsection (6) does not limit the ability of the Agency to take similar action in respect of any other population group.
-(8) Before making a recommendation under subsection (1), the Agency must consult with any regional council or territorial authority that may be affected by the proposed declaration or revocation.
+(8) Before making a recommendation under subsection (1), the Agency must consult with any regional council or territorial authority that may be affected by the proposed declaration or revocation and, if the road concerned is within Auckland, the Agency must also consult Auckland Transport.
 (9) A declaration, variation, or revocation made under this section comes into force on a date to be specified in the relevant Gazette notice.
 (10) A road declared to be a State highway under section 11 of the National Roads Act 1953 or section 60 of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), and having that status under either Act immediately before the commencement of this section, is to be treated as having been declared to be a State highway under this section.
 
@@ -1834,13 +1848,11 @@ In the course of performing its functions and exercising its powers, the Agency 
 (8) The Minister may issue guidelines to regional councils concerning the requisite knowledge and skills of those persons to be appointed under subsections (2)(d) to (i) and (3)(c) to (h).
 (9) Despite subsection (1), 2 or more adjoining regional councils may establish a single regional transport committee under this section, in which case, subsections (2) to (8) apply with all necessary modifications.
 (10) If a regional transport committee is established under subsection (9), any reference in Part 2 to a regional council is to be read as a reference to each of the regional councils that have established the committee.
-(11) If the area of a territorial authority (other than a territorial authority in the Auckland Region) falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
+(11) If the area of a territorial authority falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
 (12) If subsection (11) applies, and a territorial authority fails to decide to join a regional transport committee, the Minister must direct the territorial authority to be represented by a particular regional transport committee.
 (13) If subsection (11) applies, the regional land transport programme and regional land transport strategy prepared by the regional transport committee that it joins applies to the entire area of the territorial authority.
-(14) For the purposes of subsection (11), region—
-  (a) has the same meaning as in the Local Government Act 2002; but
-  (b) means, in relation to Auckland, the Auckland Region as defined in the Local Government (Auckland) Amendment Act 2004.
-(15) Nothing in this section or in sections 106 and 107 applies to the Auckland Regional Council or to Auckland's regional transport committee.
+(14) For the purposes of subsection (11), region has the same meaning as in section 5(1) of the Local Government Act 2002.
+(15) Nothing in this section applies to the Auckland Council or Auckland.
 
 ### 106 Functions of regional transport committee
 (1) The functions of each regional transport committee are to prepare for approval by the relevant regional council—
@@ -1848,7 +1860,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (b) a regional land transport programme for its region, or any variations to the programme prepared under subpart 1 of Part 2; and
   (c) a regional fuel tax scheme for its region if the regional transport committee decides to recommend a scheme; and
   (d) to provide the regional council with any advice and assistance the regional council may request in relation to its transport responsibilities.
-(2) Each regional transport committee and ARTA must adopt a policy that determines significance in respect of variations made to regional land transport programmes and regional land transport strategies under sections 18D and 81 (as the case may require).
+(2) Each regional transport committee and, in the case of Auckland, the Auckland Council and Auckland Transport must adopt a policy that determines significance in respect of variations made to regional land transport programmes and regional land transport strategies under sections 18D and 81 (as the case may require).
 
 ### 107 Procedure of committee
 (1) The persons appointed under section 105(2)(d) to (i) and (3)(c) to (h) have full speaking rights but are not entitled to vote on matters related to regional land transport programmes.
@@ -1864,8 +1876,8 @@ In the course of performing its functions and exercising its powers, the Agency 
 (2) If this subsection applies, the Minister or the Agency must give notice in—
   (a) the Gazette; and
   (b) 1 or more daily newspapers published in Whangarei, Auckland, Hamilton, Rotorua, Tauranga, Hawke's Bay, New Plymouth, Palmerston North, Wellington, Nelson, Christchurch, Dunedin, and Invercargill.
-(3) Subsection (4) applies if a regional council, ARTA, or the Auckland regional transport committee is required under this Act to make a document publicly available.
-(4) If this subsection applies, the relevant regional council, ARTA, or the Auckland regional transport committee (as the case may be) must give notice in the relevant local and regional newspapers.
+(3) Subsection (4) applies if a regional council or Auckland Transport is required under this Act to make a document publicly available.
+(4) If this subsection applies, the relevant regional council or Auckland Transport must give notice in the relevant local and regional newspapers.
 (5) A notice given under subsection (2) or (4) must state—
   (a) where the document may be inspected; and
   (b) where the document may be purchased.
@@ -1910,140 +1922,6 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ## Schedule 6 — Consequential amendments to other Acts
 
 ## Schedule 7 — Auckland regional land transport strategy and regional transport committee
-
-### 1 Overview of Auckland’s regional land transport strategy
-(1) Auckland’s regional land transport strategy, which is prepared by the Auckland regional transport committee on behalf of the Auckland Regional Council every 6 financial years and covers a period of at least 30 financial years, enables the Auckland Regional Council to provide guidance on the land transport outcomes sought by the Auckland Region.
-(2) This clause is intended by way of explanation only, and if this clause is inconsistent with another provision of this Act or any other Act, then the other provision prevails.
-
-### 2 Responsibility for preparing and approving Auckland’s regional land transport strategy
-(1) At least once in every 6 financial years, the Auckland Regional Council must—
-  (a) ensure that the Auckland regional transport committee, which is established under clause 11, prepares, on the regional council’s behalf, a regional land transport strategy for the Auckland Region that covers a period of at least 30 financial years; and
-  (b) after considering the strategy prepared by the regional transport committee, approve Auckland’s regional land transport strategy.
-(2) For the purposes of this schedule, that part of the district of the Franklin District Council that is within the region of the Waikato Regional Council is to be treated—
-  (a) as not being part of the region of the Waikato Regional Council; but
-  (b) as being part of the region of the Auckland Regional Council.
-
-### 3 Core requirements for Auckland’s regional land transport strategy
-The Auckland regional transport committee must, in preparing Auckland’s regional land transport strategy on behalf of the Auckland Regional Council,—
-  (a) be satisfied that Auckland’s regional land transport strategy—
-    (i) contributes to the aim of achieving an affordable, integrated, safe, responsive, and sustainable land transport system; and
-    (ii) contributes to each of the following:
-      (A) assisting economic development:
-      (B) assisting safety and personal security:
-      (C) improving access and mobility:
-      (D) protecting and promoting public health:
-      (E) ensuring environmental sustainability; and
-    (iii) is consistent with any—
-      (A) national land transport strategy; and
-      (B) relevant national policy statement or relevant regional policy statement or regional plan that is for the time being in force under the Resource Management Act 1991; and
-    (iv) avoids, to the extent reasonable in the circumstances, adverse effects on the environment; and
-  (b) take into account—
-    (i) the relevant GPS; and
-    (ii) any national energy efficiency and conservation strategy; and
-    (iii) any relevant district plans.
-
-### 4 Other matters that must be taken into account
-When preparing Auckland’s regional land transport strategy on behalf of the Auckland Regional Council, the Auckland regional transport committee must also take into account—
-  (a) any guidelines issued by the Minister for regional land transport strategies; and
-  (b) the land transport funding likely to be available within the region during the period covered by the strategy; and
-  (c) the views of affected communities; and
-  (d) the views of land transport network providers; and
-  (e) the need to give early and full consideration to land transport options and alternatives in a way that contributes to the matters referred to in clause 3(a)(iv) and paragraph (c); and
-  (f) the need to provide early and full opportunities for persons and organisations listed in clause 6(1) to contribute to the development of its regional land transport strategy.
-
-### 5 Contents of Auckland’s regional land transport strategy
-(1) Subject to subclause (2), Auckland's land transport strategy must contain the following matters:
-  (a) inter-regional and intra-regional transport outcomes relevant to the region; and
-  (b) the strategic options for achieving those outcomes; and
-  (c) an assessment as to how the regional land transport strategy complies with clauses 3 and 4; and
-  (d) a statement of any relevant regional economic or land-use considerations, and the likely funding of any land transport infrastructure associated with those considerations; and
-  (e) a demand management strategy; and
-  (f) an assessment of the appropriate role for each land transport mode in the region; and
-  (g) an assessment of the role of education and enforcement in contributing to land transport outcomes; and
-  (h) a statement that identifies any strategic option for which co-operation is required with other regions; and
-  (i) a statement that identifies persons or organisations who should be involved in the further development of strategic options; and
-  (j) measurable targets to be achieved to meet the outcomes of the regional land transport strategy; and
-  (k) a statement provided by an independent auditor of how the process followed by the regional transport committee complied with the requirements of this Act; and
-  (l) a summary of the policy relating to significance adopted by the regional transport committee in the Auckland Region under clause 11(6).
-(2) Despite subclause (1), Auckland’s regional land transport strategy must not—
-  (a) include reference to activities or their prioritisation unless those activities have high regional significance; or
-  (b) include any matters other than those specified in subclause (1); and
-  (c) include any regional public transport plan.
-
-### 6 Consultation requirements for preparation of Auckland’s regional land transport strategy
-(1) When preparing a proposed regional land transport strategy on behalf of the Auckland Regional Council, the Auckland regional transport committee must consult—
-  (a) the approved organisations in the region (which, for the avoidance of doubt, includes ARTA); and
-  (b) the adjoining regional councils and territorial authorities; and
-  (c) the Secretary; and
-  (d) the Agency; and
-  (e) the Commissioner; and
-  (f) the New Zealand Historic Places Trust; and
-  (g) the New Zealand Railways Corporation; and
-  (h) representative groups of land transport users and providers (including representative groups of coastal shipping users and providers); and
-  (i) the Ministry of Health; and
-  (j) the Accident Compensation Corporation; and
-  (k) the district health boards in the region; and
-  (l) affected communities; and
-  (m) Māori of the region; and
-  (n) the public in the region; and
-  (o) every affected approved public organisation in the region.
-(2) In carrying out the consultation required by subclause (1), the Auckland regional transport committee must—
-  (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
-  (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
-(3) The Auckland regional transport committee complies with subclause (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Auckland Regional Council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
-(4) When preparing a regional land transport strategy, the Auckland regional transport committee may require from any territorial authority within its region such information as the committee considers it requires in order to properly perform its functions under this Act in relation to that strategy, and the territorial authority must promptly comply with that requirement.
-
-### 7 Availability of Auckland’s regional land transport strategy
-As soon as practicable after it has approved Auckland’s regional land transport strategy, the Auckland Regional Council must—
-  (a) forward copies of it to—
-    (i) the Secretary; and
-    (ii) the Agency; and
-    (iii) the Commissioner; and
-    (iv) the approved organisations in the region; and
-  (b) make it publicly available in accordance with section 108.
-
-### 8 Variation of regional land transport strategy
-(1) The Auckland Regional Council may vary Auckland’s regional land transport strategy at any time.
-(2) The provisions of this schedule that apply to the preparation and approval of Auckland’s regional land transport strategy apply, with the necessary modifications, to a variation of Auckland’s regional land transport strategy.
-(3) A variation forms part of the Auckland regional land transport strategy that it varies.
-(4) Subclause (2) does not apply to any variations that are not significant.
-(5) The Auckland Regional Council must—
-  (a) monitor its regional land transport strategy; and
-  (b) promptly vary its regional land transport strategy if necessary to ensure that it is consistent with the national land transport strategy.
-
-### 9 Effect of Auckland’s regional land transport strategy
-(1) The Secretary must ensure that the actions of the Ministry take into account Auckland’s regional land transport strategy.
-(2) In exercising its powers or performing its functions and duties, the Agency must ensure that it takes into account Auckland’s regional land transport strategy.
-(3) The Commissioner must, except to the extent that his or her statutory functions or duties or common law obligations in any particular case otherwise require, ensure that in exercising or performing his or her functions, duties, and powers he or she takes into account Auckland’s regional land transport strategies.
-
-### 10 Three-year reports on regional land transport strategy
-(1) Every 3 financial years, the Auckland regional transport committee must prepare a progress report on the implementation of the Auckland regional land transport strategy in place during the previous 3 financial years.
-(2) The Secretary, the Agency, the Commissioner, and approved organisations in the region must supply to the regional transport committee such information within its or his or her possession or control as may be reasonably requested by the Auckland regional transport committee for the purposes of preparing its progress report.
-(3) Within 3 months after the close of the third financial year to which its 3-year report relates, the Auckland regional transport committee on behalf of the Auckland Regional Council must—
-  (a) forward copies of the report to—
-    (i) the Secretary; and
-    (ii) the Agency; and
-    (iii) the Commissioner; and
-    (iv) approved organisations in the region; and
-  (b) make a copy of the report publicly available in accordance with section 108.
-
-### 11 Regional transport committee
-(1) The Auckland Regional Council must establish a regional transport committee under this clause for the Auckland Region.
-(2) The Auckland regional transport committee consists of suitable persons appointed by the Auckland Regional Council to represent—
-  (a) the objectives of economic development, safety and personal security, public health, access and mobility, and environmental sustainability; and
-  (b) cultural interests; and
-  (c) the Auckland Regional Council; and
-  (d) other territorial authorities in the region; and
-  (e) the Agency.
-(3) The Auckland Regional Council must appoint a sufficient number of persons to enable all of the objectives specified in subclause (2)(a) to be adequately represented.
-(4) A person appointed with respect to subclause (2)(a) or (b)—
-  (a) must be from the wider regional community; and
-  (b) must not be a representative of the Auckland Regional Council, any other territorial authority in the Auckland Region, or the Agency.
-(5) The functions of the regional transport committee in the Auckland Region are to—
-  (a) prepare a regional land transport strategy for the Auckland Region for approval by the Auckland Regional Council, and to prepare any variations to, and reports on, the strategy:
-  (b) carry out the responsibilities of the committee set out in section 65E(3) and (4) in respect of the regional fuel tax scheme for the Auckland Region.
-(6) The regional transport committee in the Auckland Region must adopt a policy that determines significance in respect of variations made to regional land transport strategies under clause 8.
-(7) The provisions of the Local Government Act 2002 and the Local Government Official Information and Meetings Act 1987 concerning the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the Auckland regional transport committee.
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
