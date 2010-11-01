@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -1582,7 +1582,11 @@ The electoral officer must keep every return under section 109 in the electoral 
   (g) exceed $50,000 if any local government area over which the election is held has a population smaller than 100 000 and larger than 79 999:
   (h) exceed $55,000 if any local government area over which the election is held has a population smaller than 150 000 and larger than 99 999:
   (i) exceed $60,000 if any local government area over which the election is held has a population smaller than 250 000 and larger than 149 999:
-  (j) exceed $70,000 if any local government area over which the election is held has a population of 250 000 or more.
+  (j) exceed $70,000 if any local government area over which the election is held has a population smaller than 1 000 000 and larger than 249 999:
+  (k) exceed the sum referred to in subsection (1A) if any local government area over which the election is held has a population of 1 000 000 or more.
+(1A) The sum is—
+  (a) $100,000 plus the amount prescribed under section 139(1)(ha) for each elector; or
+  (b) $100,000 plus 50 cents for each elector, if no amount is prescribed under section 139(1)(ha).
 (2) Despite subsection (1), if a candidate is a candidate for more than 1 election held at the same time, the total electoral expenses (inclusive of goods and services tax) of that candidate must not exceed the highest amount permitted under subsection (1) in respect of any one of the elections for which the person is a candidate.
 
 ### 112 Apportionment of electoral expenses
@@ -1830,6 +1834,7 @@ In any proceedings for an offence in relation to any voting documents or other o
   (f) prescribing standards, performance measures, procedures, and forms for the purposes of enrolment or the compilation and use of electoral rolls, authorising the creation and use of electoral rolls for the purpose of any specified class of election or poll or for any specified election or poll or any other specified purpose, and regulating the use of electoral rolls generally:
   (g) prescribing deposits or fees to be paid under this Act or regulations made under this Act or authorising the imposition of reasonable charges for the performance of specified functions:
   (h) prescribing standards, performance measures, procedures, and forms for the conduct of elections or polls, or any specified class of election or poll, or any specified election or poll, and regulating the conduct of those elections or polls:
+  (ha) prescribing the amount for each elector for the purposes of section 111(1A)(a):
   (i) regulating the conduct of electoral officers, deputy electoral officers, other electoral officials, scrutineers, candidates, voters, electors, and any other person, at elections or polls, or at any specified class of election or poll, or at any specified election or poll:
   (j) prescribing forms required for the purposes of this Act or in connection with the enrolment of electors or in connection with any election or poll:
   (k) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act:
