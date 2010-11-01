@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-11-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1000,7 +1000,14 @@ The Minister of Conservation shall have the following functions under this Act:
 
 ### 33 Transfer of powers
 (1) A local authority may transfer any 1 or more of its functions, powers, or duties under this Act, except this power of transfer, to another public authority in accordance with this section.
-(2) For the purposes of this section, public authority includes any local authority, iwi authority, board of a foreshore and seabed reserve, government department, statutory authority, and joint committee set up for the purposes of section 80.
+(2) For the purposes of this section, public authority includes—
+  (a) a local authority; and
+  (b) an iwi authority; and
+  (c) a board of a foreshore and seabed reserve; and
+  (d) a government department; and
+  (e) a statutory authority; and
+  (f) a joint committee set up for the purposes of section 80; and
+  (g) a local board (within the meaning of section 4(1) of the Local Government (Auckland Council) Act 2009.
 (3)
 (4) A local authority shall not transfer any of its functions, powers, or duties under this section unless—
   (a) it has used the special consultative procedure set out in section 83 of the Local Government Act 2002; and
@@ -1019,6 +1026,8 @@ The Minister of Conservation shall have the following functions under this Act:
 (1) A local authority may delegate to any committee of the local authority established in accordance with the Local Government Act 2002 any of its functions, powers, or duties under this Act.
 (2) A territorial authority may delegate to any community board established in accordance with the Local Government Act 2002 any of its functions, powers, or duties under this Act in respect of any matter of significance to that community, other than the approval of a plan or any change to a plan.
 (3) Subsection (2) does not prevent a local authority delegating to a community board power to do anything before a final decision on the approval of a plan or any change to a plan.
+(3A) The Auckland Council may delegate to any local board any of its functions, powers, or duties under this Act in respect of any matter of local significance to that board, other than the approval of a plan or any change to a plan.
+(3B) Subsection (3A) does not prevent the Auckland Council delegating to a local board power to do anything before a final decision on the approval of a plan or any change to a plan.
 (4)
 (5)
 (6)
@@ -1026,6 +1035,7 @@ The Minister of Conservation shall have the following functions under this Act:
 (8) Except as provided in the instrument of delegation, every person to whom any function, power, or duty has been delegated under this section may, without confirmation by the local authority, exercise or perform the function, power, or duty in like manner and with the same effect as the local authority could itself have exercised or performed it.
 (9) Every person authorised to act under a delegation under this section is presumed to be acting in accordance with its terms in the absence of proof to the contrary.
 (10) A delegation under this section does not affect the performance or exercise of any function, power, or duty by the local authority.
+(11) In subsections (3A) and (3B), Auckland Council and local board have the meanings given in section 4(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 34A Delegation of powers and functions to employees and other persons
 (1) A local authority may delegate to an employee, or hearings commissioner appointed by the local authority (who may or may not be a member of the local authority), any functions, powers, or duties under this Act except the following:
@@ -9697,3 +9707,23 @@ The amendments made by this Act apply to a national policy statement whether the
   (a) had been publicly notified under clause 5 or 26(b) of Schedule 1 of the principal Act; but
   (b) had not proceeded to the stage at which no further appeal was possible.
 (2) The proposed policy statement or plan or change must be determined as if the amendments made by this Act had not been made.
+
+### 1 Title
+This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
+
+### 2 Commencement
+(1) Parts 1 and 3 (except section 113(2)) come into force on 1 November 2010.
+(2) Section 113(2) comes into force on 1 July 2012.
+(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Savings, transitional provisions, and related matters (except employment)
+
+### Subpart 2 — Savings and transitional provisions relating to Auckland Council and its subsidiaries
+
+**Other planning matters**
+
+### 81 Appeals against change or variation under Local Government (Auckland) Amendment Act 2004
+(1) This section applies to an appeal under the Resource Management Act 1991, lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under sections 39 and 40 of the Local Government (Auckland) Amendment Act 2004.
+(2) The appeal must be determined as if—
+  (a) sections 38 to 43 of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
+  (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that section 80(2)(a) to (d) of this Act applies).
