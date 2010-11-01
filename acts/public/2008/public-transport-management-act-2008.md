@@ -1,5 +1,5 @@
 # Public Transport Management Act 2008
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Public Transport Management Act 2008.
@@ -30,11 +30,9 @@ For the purposes of this Act, unless the context otherwise requires,—
     (h) a passenger can alight from the service
   - **Agency** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **approved public organisation** has the same meaning as in section 5 of the Land Transport Management Act 2003
-  - **ARTA** has the same meaning as in section 5 of the Land Transport Management Act 2003
-  - **Auckland region** —
-    (a) means the Auckland region as defined in the Local Government (Auckland) Amendment Act 2004; and
-    (b) to avoid doubt, includes all the district of the Franklin District Council
-  - **Auckland Regional Council** has the same meaning as in section 5 of the Land Transport Management Act 2003
+  - **Auckland** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Council** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Transport** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
   - **commercial public transport service** —
     (a) means a public transport service for the supply of which the regional council has not contracted to pay; and
     (b) includes, to the extent that the regional council has not contracted to pay for the supply of only a part of the service, only that part
@@ -124,12 +122,10 @@ For the purposes of this Act, unless the context otherwise requires,—
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **regional council** has the same meaning as in section 5(1) of the Local Government Act 2002 and, in relation to this Act,—
     (a) includes—
-      (i) ARTA, in relation to the Auckland region; and
+      (i) Auckland Transport, in relation to Auckland; and
       (ii) any territorial authority to which the regional council has transferred the functions, powers, and duties of a regional council under this Act; and
       (iii) a unitary authority; but
-    (b) does not include—
-      (i) the Auckland Regional Council; and
-      (ii) the Waikato Regional Council in relation to that part of its region that is within the district of the Franklin District Council
+    (b) does not include the Auckland Council
   - **regional transport committee** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **regional land transport strategy** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **regional public transport plan** or means a regional public transport plan adopted under section 9, and includes any variations to the plan made under section 9
@@ -164,8 +160,8 @@ This Act binds the Crown.
 
 ## Part 2 — Regulation of public transport
 
-### 6 Application of certain provisions of Local Government Act 2002 to ARTA
-For the purposes of this Act, sections 76 to 83A, 87, and 89 of the Local Government Act 2002 apply, with any necessary modifications, to ARTA as if it were a local authority.
+### 6 Application of certain provisions of Local Government Act 2002 to Auckland Transport
+For the purposes of this Act, sections 76 to 83A, 87, and 89 of the Local Government Act 2002 apply, with any necessary modifications, to Auckland Transport as if it were a local authority.
 
 ### Subpart 1 — Regional public transport plan
 
@@ -177,7 +173,7 @@ The purpose of a regional public transport plan is to—
 ### 8 Validity of regional public transport plans not affected by certain events
 The validity of a regional public transport plan is not affected by—
   (a) the approval or variation of a regional land transport strategy; or
-  (b) a failure by a regional council (or in the case of the Auckland region, the Auckland Regional Council) to approve a regional land transport strategy within the time required by section 74 of the Land Transport Management Act 2003; or
+  (b) a failure by a regional council (or in the case of Auckland, the Auckland Council) to approve a regional land transport strategy within the time required by section 74 of the Land Transport Management Act 2003; or
   (c) the failure of a regional council to complete the review of the regional public transport plan within the time required by section 21(1)(b); or
   (d) the inclusion of any matter that—
     (i) is not referred to in a regional land transport strategy; and
@@ -197,7 +193,7 @@ The validity of a regional public transport plan is not affected by—
 (3) No person is entitled to require a regional council to implement a regional public transport plan, except that an existing commercial service operator may require a regional council to implement any transitional arrangements included in a plan under this Act or determined pursuant to any section of this Act.
 (4) The production in proceedings of a copy of a regional public transport plan purporting to have been adopted, varied, or renewed by a regional council under this section is, in the absence of evidence to the contrary, sufficient evidence of the plan and of the fact that it has been adopted, varied, or renewed in accordance with this section.
 (5) A regional council (or a territorial authority to which the responsibility is transferred under the Local Government Act 2002) may not delegate the responsibility for adopting, varying, or renewing a regional public transport plan to a committee or other subordinate decision-making body, or a member or an officer of the council (or territorial authority, as the case may be), or any other person.
-(6) If a territorial authority (other than a territorial authority in the Auckland region) has joined a regional transport committee under section 105(11) of the Land Transport Management Act 2003, the plan applying in the region of the regional transport committee applies to the entire area of the territorial authority.
+(6) If a territorial authority has joined a regional transport committee under section 105(11) of the Land Transport Management Act 2003, the plan applying in the region of the regional transport committee applies to the entire area of the territorial authority.
 
 ### 10 Contents of regional public transport plans
 (1) A regional council, in a regional public transport plan,—
@@ -252,12 +248,12 @@ The validity of a regional public transport plan is not affected by—
       (C) the Minister of Education:
       (D) territorial authorities in the region:
       (E) the relevant regional transport committee:
-      (F) in the case of a plan, a variation, or transitional arrangements adopted by ARTA, the Auckland Regional Council; and
+      (F) in the case of a plan, a variation, or transitional arrangements adopted by Auckland Transport, the Auckland Council; and
     (ii) ensure that—
       (A) copies of the plan, variation, or transitional arrangements are kept at the regional council’s principal office and such other places that the regional council appoints and made available for public inspection, free of charge, and for purchase at a reasonable price; and
       (B) a copy of the plan, variation, or transitional arrangements is made available on the regional council’s Internet site.
-(2) A regional council (except ARTA) may publish any of a regional public transport plan, a regional land transport programme and a regional land transport strategy as a single document.
-(3) ARTA may publish a regional public transport plan and a regional land transport programme as a single document.
+(2) A regional council (except Auckland Transport) may publish any of a regional public transport plan, a regional land transport programme and a regional land transport strategy as a single document.
+(3) Auckland Transport may publish a regional public transport plan and a regional land transport programme as a single document.
 
 ### 12 When regional public transport plans take effect
 (1) A regional public transport plan (and a variation to a regional public transport plan) takes effect on the day that is 25 working days after the date on which the regional council resolves to adopt a resolution that approves the plan (or variation).
@@ -340,7 +336,7 @@ The validity of a regional public transport plan is not affected by—
   (a) to the regional council's professional advisers; or
   (b) to those persons and organisations engaged by the regional council to carry out public transport planning, contracting, or monitoring; or
   (c) to the Agency, in accordance with section 22; or
-  (d) in the case of the Auckland region, to the Auckland Regional Council, in accordance with section 22; or
+  (d) in the case of Auckland, to the Auckland Council, in accordance with section 22; or
   (e) subject to subsection (4), in response to a request made under the Local Government Official Information and Meetings Act 1987; or
   (f) where the information was provided to the regional council 5 years or more before the date of the disclosure; or
   (g) where—
@@ -415,7 +411,7 @@ A regional council must, when preparing a statement of proposal to adopt a regio
 
 ### 20 Consultation requirements for regional public transport plans
 (1) When preparing a statement of proposal under section 83 of the Local Government Act 2002 to adopt a regional public transport plan, a regional council must consult—
-  (a) the relevant regional transport committee (and, in the case of ARTA, the Auckland Regional Council); and
+  (a) the relevant regional transport committee (or, in the case of Auckland Transport, the Auckland Council); and
   (b) the Agency; and
   (c) every operator of a public transport service in the region; and
   (d) every person who has notified the regional council of a proposal to operate a commercial public transport service in the region; and
@@ -440,7 +436,7 @@ A regional council must, when preparing a statement of proposal to adopt a regio
   (a) to the regional council's professional advisers; or
   (b) to those persons and organisations engaged by the regional council to carry out public transport planning, contracting, or monitoring; or
   (c) to the Agency, in accordance with section 22; or
-  (d) in the case of the Auckland region, to the Auckland Regional Council, in accordance with section 22; or
+  (d) in the case of Auckland, to the Auckland Council, in accordance with section 22; or
   (e) subject to subsection (4), in response to a request made under the Local Government Official Information and Meetings Act 1987; or
   (f) where the submission was provided to the regional council 5 years or more before the date of the disclosure; or
   (g) where—
@@ -451,11 +447,11 @@ A regional council must, when preparing a statement of proposal to adopt a regio
   (b) the person must, within 10 working days after receiving the notice, advise the regional council whether that person believes that the information should be withheld under section 7(2)(b) of that Act and give reasons for that belief; and
   (c) the regional council may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the regional council cannot identify any reason that would permit it to refuse the request under that Act.
 (5) A regional council that is preparing a regional public transport plan may request any information from any territorial authority within its region that the regional council considers necessary to perform its functions under this Act in relation to that plan, and the territorial authority must promptly comply with that request.
-(6) For the purposes of this section, Part 7 of the Local Government Official Information and Meetings Act 1987 applies to ARTA as if it were a local authority.
-(7) Except in the Auckland region, a regional council may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with the relevant regional transport committee’s consultation on its regional land transport programme or regional land transport strategy under the Land Transport Management Act 2003.
-(8) In the Auckland region, ARTA may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with—
-  (a) ARTA’s consultation on its regional land transport programme under the Land Transport Management Act 2003:
-  (b) the Auckland Regional Council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(6) For the purposes of this section, Part 7 of the Local Government Official Information and Meetings Act 1987 applies to Auckland Transport as if it were a local authority.
+(7) Except in Auckland, a regional council may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with the relevant regional transport committee’s consultation on its regional land transport programme or regional land transport strategy under the Land Transport Management Act 2003.
+(8) In Auckland, Auckland Transport may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with—
+  (a) Auckland Transport's consultation on its regional land transport programme under the Land Transport Management Act 2003:
+  (b) the Auckland Council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
 
 ### 21 Currency and variation of regional public transport plans
 (1) A regional public transport plan adopted under section 9—
@@ -479,10 +475,10 @@ A regional council must, when preparing a statement of proposal to adopt a regio
 ### 22 Provision of information
 (1) The Agency may require a regional council to provide it with information related to the preparation of a regional public transport plan that is necessary to enable the Agency to perform its functions under the Land Transport Management Act 2003, including information provided to the regional council under section 14.
 (2) If the Agency requires the regional council to provide information under subsection (1), the regional council must provide the information as soon as is reasonably practicable.
-(3) The Auckland Regional Council may require ARTA to provide it with any information (including information provided to ARTA under section 14) related to the preparation of ARTA's regional public transport plan that is necessary to enable the Auckland Regional Council to perform its functions of—
+(3) The Auckland Council may require Auckland Transport to provide it with any information (including information provided to Auckland Transport under section 14) related to the preparation of Auckland Transport's regional public transport plan that is necessary to enable the Auckland Council to perform its functions of—
   (a) approving its regional land transport strategy; and
-  (b) providing funds to ARTA for land transport purposes in the Auckland region under the Local Government (Auckland) Amendment Act 2004.
-(4) If the Auckland Regional Council requires ARTA to provide any information under subsection (3), ARTA must provide the information as soon as is reasonably practicable.
+  (b) providing funds to Auckland Transport for land transport purposes in the Auckland region under the Local Government (Auckland Council) Act 2009.
+(4) If the Auckland Council requires Auckland Transport to provide any information under subsection (3), Auckland Transport must provide the information as soon as is reasonably practicable.
 (5) If the Agency receives under subsection (1) information from a regional council that was provided by an operator of a commercial public transport service under section 14 or 20 and the information may, in the Agency's opinion, be withheld under section 9(2)(b) of the Official Information Act 1982 or has been described by the operator as commercially sensitive, the Agency must not disclose that information without the operator's consent except—
   (a) to the Agency's professional advisers; or
   (b) subject to subsection (6), in response to a request made under the Official Information Act 1982; or
@@ -494,17 +490,17 @@ A regional council must, when preparing a statement of proposal to adopt a regio
   (a) the Agency must make all reasonable efforts to notify immediately the person who provided the information to the regional council that a request to release the information has been received by the Agency; and
   (b) the person must, within 10 working days after receiving the notice, advise the Agency whether that person believes that the information should be withheld under section 9(2)(b) of that Act and give reasons for that belief; and
   (c) the Agency may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the Agency cannot identify any reason that would permit it to refuse the request under that Act.
-(7) If the Auckland Regional Council receives under subsection (3) information from ARTA that was provided by an operator of a commercial public transport service under section 14 or 20 and the information may, in the Auckland Regional Council's opinion, be withheld under section 7(2)(b) of the Local Government Official Information and Meetings Act 1987 or has been described by the operator as commercially sensitive, the Auckland Regional Council must not disclose the information without the operator's consent except—
-  (a) to the Auckland Regional Council's professional advisers; or
+(7) If the Auckland Council receives under subsection (3) information from Auckland Transport that was provided by an operator of a commercial public transport service under section 14 or 20 and the information may, in the Auckland Council's opinion, be withheld under section 7(2)(b) of the Local Government Official Information and Meetings Act 1987 or has been described by the operator as commercially sensitive, the Auckland Council must not disclose the information without the operator's consent except—
+  (a) to the Auckland Council's professional advisers; or
   (b) subject to subsection (8), in response to a request made under the Local Government Official Information and Meetings Act 1987; or
-  (c) where the information received from ARTA was provided to ARTA 5 years or more before the date of the Auckland Regional Council's disclosure; or
+  (c) where the information received from Auckland Transport was provided to Auckland Transport 5 years or more before the date of the Auckland Council's disclosure; or
   (d) where—
     (i) the operator of the commercial public transport service (the former operator) no longer exists; and
     (ii) the former operator's public transport business has not been disposed of as a going concern to any other person.
-(8) If the Auckland Regional Council receives a request under the Local Government Official Information and Meetings Act 1987 to release any information described in subsection (7),—
-  (a) the Auckland Regional Council must make all reasonable efforts to notify immediately the person who provided the information to ARTA that a request to release the information has been received by the Council; and
-  (b) the person must, within 10 working days after receiving the notice, advise the Auckland Regional Council whether that person believes that the information should be withheld under section 7(2)(b) of that Act and give reasons for that belief; and
-  (c) the Auckland Regional Council may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the Council cannot identify any reason that would permit it to refuse the request under that Act.
+(8) If the Auckland Council receives a request under the Local Government Official Information and Meetings Act 1987 to release any information described in subsection (7),—
+  (a) the Auckland Council must make all reasonable efforts to notify immediately the person who provided the information to Auckland Transport that a request to release the information has been received by the Council; and
+  (b) the person must, within 10 working days after receiving the notice, advise the Auckland Council whether that person believes that the information should be withheld under section 7(2)(b) of that Act and give reasons for that belief; and
+  (c) the Auckland Council may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the Council cannot identify any reason that would permit it to refuse the request under that Act.
 
 **Incorporation by reference**
 
@@ -993,12 +989,12 @@ An operator of a registered commercial public transport service commits an offen
 A notification received under the Transport Services Licensing Act 1989 but not processed before the commencement of this Act is to be treated as a notification received under section 32, 36, or 46, as the case may require.
 
 ### 66 Transitional provision for existing regional passenger transport plans
-(1) Except in the Auckland region, a regional council must adopt a regional public transport plan under section 9 at the same time or as soon as is reasonably practicable after the regional council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
-(2) In the Auckland region, ARTA must adopt a regional public transport plan under section 9 as soon as is reasonably practicable after the Auckland Regional Council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(1) Except in Auckland, a regional council must adopt a regional public transport plan under section 9 at the same time or as soon as is reasonably practicable after the regional council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(2) In Auckland, Auckland Transport must adopt a regional public transport plan under section 9 as soon as is reasonably practicable after the Auckland Council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
 (3) A regional passenger transport plan prepared by a regional council under the Transport Services Licensing Act 1989 expires when the regional council adopts a regional public transport plan in accordance with subsection (1) or (2) or 3 years after the commencement of this Act, whichever is earlier.
 (4) Subject to subsection (5) or (6), until a regional council’s regional passenger transport plan prepared under the Transport Services Licensing Act 1989 expires under subsection (3), that regional passenger transport plan remains in effect as if that Act (immediately before the commencement of this Act) was still in force.
 (5) If a regional passenger transport plan remains in effect under subsection (4), a regional council may not vary the plan to include a control under section 13.
-(6) Sections 14(a)(iii)(B), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i), 58(1)(c), 65J(b)(iii), 82, 105(13) of the Land Transport Management Act 2003 apply as if section 77(h) of that Act were not repealed under section 63(2) if a regional passenger transport plan (other than a plan that relates to the Auckland region) continues in effect under subsection (4) and—
+(6) Sections 14(a)(iii)(B), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i), 58(1)(c), 65J(b)(iii), 82, 105(13) of the Land Transport Management Act 2003 apply as if section 77(h) of that Act were not repealed under section 63(2) if a regional passenger transport plan (other than a plan that relates to Auckland) continues in effect under subsection (4) and—
   (a) is or, immediately before the commencement of this Act, was contained in a regional land transport strategy that has been approved or continued in accordance with the Land Transport Management Act 2003; or
   (b) would have been required to be contained in a regional land transport strategy but for the repeal of section 77(h) of the Land Transport Management Act 2003.
 
@@ -1007,8 +1003,7 @@ A notification received under the Transport Services Licensing Act 1989 but not 
 (2) All entries in the register of services established under Part 2 of the Transport Services Licensing Act 1989 in relation to taxi services, shuttle services, and private hire services are to be treated as expunged and deleted.
 
 ### 68 Transitional provisions for regional councils and ARTA
-(1) Except in the Auckland region, a regional council may adopt a regional public transport plan for the first time under this Act at the same time as it approves a regional land transport programme under the Land Transport Management Act 2003.
-(2) ARTA may prepare and adopt a regional public transport plan for the first time under this Act at the same time as it prepares and approves a regional land transport programme under the Land Transport Management Act 2003.
+[Repealed]
 
 ## Schedule 1 — Acts consequentially amended
 
