@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2010-06-14_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -127,12 +127,7 @@ The October 2013 triennial general elections for the Auckland Council must be he
 (4) A report provided under this section must be treated as satisfying the requirements of section 66 of the Local Government Act 2002 for the 2010/2011 financial year.
 
 ### 15 Auckland Regional Holdings
-(1) This section applies only if Auckland Regional Holdings (ARH) is not dissolved under section 38 or 43 of the Reorganisation Act.
-(2) ARH continues its existence, on and from 1 November 2010,—
-  (a) as a body corporate; and
-  (b) as a council-controlled organisation of the Auckland Council.
-(3) Any rules made under section 23(4) of the Local Government (Auckland) Amendment Act 2004 in relation to ARH must be treated, on and from 1 November 2010, as part of the constitution of ARH until the rule or rules are amended or replaced by the Auckland Council.
-(4) Subsection (3) applies despite the repeal of the Local Government (Auckland) Amendment Act 2004 (which established Auckland Regional Holdings) by section 113(1) of this Act.
+[Repealed]
 
 ### 16 Council dealings with directors of council-controlled organisations appointed under Reorganisation Act
 (1) The Council may deal with any director appointed to a council-controlled organisation under section 48 or 49 of the Reorganisation Act in accordance with its powers under the Local Government Act 2002 and the constitution of the organisation.
