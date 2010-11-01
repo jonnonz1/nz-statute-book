@@ -1,5 +1,5 @@
 # Electricity Industry Reform Act 1998
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2010-11-01_
 
 > An Act to reform the electricity industry
 
