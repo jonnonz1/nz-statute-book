@@ -1,5 +1,5 @@
 # Auckland Metropolitan Drainage Amendment Act 1963
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-01_
 
 > An Act to Amend the Auckland Metropolitan Drainage Act 1960
 
