@@ -1,5 +1,5 @@
 # Electricity Industry Reform Amendment Act 2008
-_Consolidation as at 2008-09-16_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 This Act is the Electricity Industry Reform Amendment Act 2008.
