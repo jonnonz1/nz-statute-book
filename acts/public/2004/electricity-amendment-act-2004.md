@@ -1,5 +1,5 @@
 # Electricity Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-01_
 
 ### 1 Title
 (1) This Act is the Electricity Amendment Act 2004.
