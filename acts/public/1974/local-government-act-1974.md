@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2010-11-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -371,37 +371,16 @@ _Consolidation as at 2010-08-06_
 **Auckland regional growth strategy**
 
 ### 37SE Auckland regional growth strategy
-(1) The Auckland Regional Council must prepare and adopt a regional growth strategy for its region.
-(2) The objective of the strategy for the Auckland Region will be to ensure growth is accommodated in a way that meets the best interests of the inhabitants of the Auckland Region.
-(3) The regional growth strategy prepared under this section may include (but need not be limited to)—
-  (a) identification of the anticipated and preferred locations of growth within the Auckland Region:
-  (b) a statement of key values for considering growth issues:
-  (c) information about future growth to assist regional providers of infrastructure to plan to meet future requirements:
-  (d) such other matters as are considered appropriate.
-(4) A regional growth strategy must not be inconsistent with any regional policy statement that is for the time being in force under the Resource Management Act 1991 or any proposed regional policy statement under that Act.
-(5) The Auckland Regional Council may amend the regional growth strategy from time to time to reflect any significant change in the circumstances that existed when the strategy was prepared or was last amended.
+[Repealed]
 
 ### 37SF Copies of regional growth strategy
-The Auckland Regional Council, once a regional growth strategy, or any amendment to a regional growth strategy, has been adopted by it,—
-  (a) must make that strategy or amendment available for public inspection at the offices of the Auckland Regional Council and at such other places as the Regional Council appoints in the area to which the strategy or amendment applies; and
-  (b) must make copies of that strategy or amendment available to the public—
-    (i) free of charge; or
-    (ii) at a reasonable charge; and
-  (c) must, within 20 working days after approving that strategy or amendment, send copies of that strategy or amendment to the Auckland Regional Transport Authority (as established by section 7 of the Local Government (Auckland) Amendment Act 2004), Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004),) and each territorial authority in the Auckland Region.
+[Repealed]
 
 ### 37SG Regional growth forum
-(1) The Auckland Regional Council must establish a regional growth forum under this section for its region.
-(2) The regional growth forum is to consist of such persons as may from time to time be appointed by the Auckland Regional Council, and, in making such appointments, the Auckland Regional Council may appoint such persons as it considers to be suitable.
-(3) The persons appointed under subsection (2) must include (but are not to be limited to) representatives of—
-  (a) the Auckland Regional Council:
-  (b) all of the territorial authorities wholly or partly within the region.
-(4) The function of the regional growth forum is to advise on and approve the regional growth strategy prepared under section 37SE and any amendment to that strategy before any such strategy or amendment is adopted by the Auckland Regional Council.
-(5) The provisions of this Act and the Local Government Official Information and Meetings Act 1987 relating to the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the regional growth forum.
+[Repealed]
 
 ### 37SH Consultation
-(1) The preparation and adoption of the regional growth strategy or any amendment to that strategy, must be carried out by the Auckland Regional Council in accordance with the special consultative procedure.
-(2) The Auckland Regional Council may require from any territorial authority within its region such information as the Auckland Regional Council considers it requires in order to properly perform its functions under this Act in relation to that strategy; and the territorial authority must supply promptly the information required.
-(3) Anything done by the Auckland Regional Council before the commencement of the Local Government Amendment Act 1998 in relation to the preparation of the regional growth strategy (including, but not limited to, the public release of a draft regional growth strategy in July 1998) which, if it had been done after the commencement of that Act, would have been done in accordance with section 37SE and the special consultative procedure, is to be treated as if it had been done in accordance with that section and procedure.
+[Repealed]
 
 ### 37T Functions of territorial authorities
 [Repealed]
@@ -5836,13 +5815,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ## Part 44A — Special provisions applying to Auckland Regional Authority
 
 ### 707A Application of provisions to Auckland Regional Council
-(1) Except as provided in subsection (2), in the event of any inconsistency between any provision of this Act and any provision of—the provision of the Act or instrument specified in paragraphs (a) to (e) shall prevail over the inconsistent provision of this Act.
-  (a) the Auckland Regional Authority Act 1963; or
-  (b) the Auckland Metropolitan Drainage Act 1960; or
-  (c) the Auckland Transport Board Act 1928; or
-  (d) any local Act applying specifically to the Auckland Region or the Auckland Regional Council; or
-  (e) any Act or instrument pursuant to or by which the Auckland Regional Council has been appointed to be a refuse disposal authority,—
-(2) Nothing in subsection (1) shall derogate from any provision of Part 2BC or Part 44Cin its application to the Auckland Region or the Auckland Regional Council or from any Order in Council under Part 2BC applying to that region or that Council.
+[Repealed]
 
 ### 707AA Residual powers of Auckland Regional Council
 [Repealed]
@@ -6191,83 +6164,16 @@ A regional council is entitled to retain all infringement fees received by it in
 [Repealed]
 
 ### 707ZZZR Vesting of shares in Watercare Services Limited
-(1) On 1 October 1998, all the shares in the capital of Watercare Services Limited are divided between the territorial authorities specified in subsection (3) and each of those territorial authorities becomes the owner of the number of shares specified opposite its name in that subsection.
-(2) On 1 October 1998, the number of shares in the capital of Watercare Services Limited that is specified in subsection (3) opposite the name of a territorial authority are, by this section, vested in that territorial authority.
-(3) The territorial authorities between which the shares are divided by subsection (1) and the number of shares of which each of those territorial authorities becomes the owner under subsection (1) are as follows:Name of Territorial AuthorityNumber of Shares in Watercare Services LimitedAuckland City Council108 551 635Manukau City Council65 481 895North Shore City Council29 988 909Papakura District Council9 667 225Rodney District Council3 602 651Waitakere City Council43 400 849
-(4) Any shares issued by Watercare Services Limited after the commencement of the Local Government Amendment Act 1998 must be issued to the territorial authorities specified in subsection (3), and must be issued so that their shareholdings are in the same proportions as the shareholdings specified in that subsection.
-(5) Each territorial authority that, under subsection (1), becomes the owner of shares in Watercare Services Limited—
-  (a) must retain not only those shares but also any other shares in Watercare Services Limited that are held by that territorial authority in the future; and
-  (b) must ensure that Watercare Services Limited does not dispose of its undertaking or any material part or parts thereof which is or are necessary to the conduct of its business; and
-  (c) must, in its capacity as the owner of shares in Watercare Services Limited, act in the best interests of the inhabitants of the Auckland Region.
-(6) No person who is a member or employee of a local authority may hold office as a director of Watercare Services Limited.
-(7) The shareholders of Watercare Services Limited must, not later than 30 September 1998, enter into an agreement—
-  (a) specifying an objective process to be used by them in selecting persons for appointment as directors of Watercare Services Limited; and
-  (b) requiring persons appointed as directors of Watercare Services Limited to be both—
-    (i) persons who, together, have relevant knowledge and experience of water and wastewater management in New Zealand; and
-    (ii) persons who, in the opinion of the shareholders, will assist Watercare Services Limited to achieve its principal objective; and
-  (c) specifying the process for determining the terms of office and remuneration of the directors of Watercare Services Limited and the matters to be taken into account in that process; and
-  (d) specifying how shareholders will approve—
-    (i) the statement of corporate intent of Watercare Services Limited; and
-    (ii) any major acquisitions by Watercare Services Limited; and
-    (iii) the distribution of surpluses by Watercare Services Limited to its customers.
-(8) For the purposes of subsection (7)(a), the objective process must involve—
-  (a) the preparation and publication of a job description; and
-  (b) an advertised recruitment process.
-(9) An agreement under subsection (7), and any amendment to it, has no effect until approved by the Minister.
+[Repealed]
 
 ### 707ZZZS Water services
-(1) Notwithstanding anything in this Act or any other Act, Watercare Services Limited—
-  (a) must manage its business efficiently with a view to maintaining prices for water and wastewater services at the minimum levels consistent with the effective conduct of that business and the maintenance of the long-term integrity of its assets:
-  (b) may, in accordance with its current statement of corporate intent, fund its business requirements—
-    (i) by including the cost of its business requirements in its prices and charges for any relevant services; or
-    (ii) notwithstanding paragraph (e), by borrowing or by entering into any financial instrument, financial arrangement, or financial transaction of a debt-raising nature; or
-    (iii) by using any or all of the methods described in subparagraphs (i) and (ii):
-  (c) subject to subsection (2), must not pay any dividend or distribute any surplus in any way, directly or indirectly, to its owners or any shareholder:
-  (d) subject to subsection (2), must decide promptly in respect of any year in which a surplus arises, whether or not to return that surplus to its customers and, if it is to do so, to determine and implement the method by which that surplus may be returned, whether by way of rebate, discount, price adjustment calculated by reference to prior or future charges to those customers, or otherwise:
-  (e) is limited to the performance of functions, and the conduct of business, in relation to waterworks, bulk water-supply, sewerage, and the treatment and disposal of sewage and trade wastes, but has authority to exercise—
-    (i) such powers ancillary to those functions as were, immediately before the commencement of section 68 of the Local Government Amendment Act 1992, powers that could have been exercised by the Auckland Regional Council in relation to the water services assets; and
-    (ii) such powers as it agrees, with all territorial authorities in the Auckland Region, to perform for those territorial authorities or in conjunction with them:
-  (ea) subject to subsection (2A), may, at the request of any territorial authority that holds shares in Watercare Services Limited, operate, repair, and maintain waterworks necessary to distribute water to consumers within such area within that territorial authority's district, and on such terms and conditions, as it agrees with that territorial authority:
-  (f) is entitled to—until the close of 30 June 1999 or such later date as the Governor-General may, by Order in Council, specify from time to time:
-    (i) apply the provisions of the Auckland Regional Council Trade Waste Bylaw 1991; and
-    (ii) exercise the powers under the Auckland Metropolitan Drainage Act 1960 that relate directly to the water services assets, as if it were and always had been the Auckland Regional Council,—
-  (g) is not required to comply with section 594T(f) but must instead specify the means by which any residual surplus is to be returned to its customers:
-  (h) is not required to comply with section 594Z(5)(b):
-  (i) must, in its financial statements, identify clearly and separately—
-    (i) the financial position of its waterworks and bulk water-supply activities; and
-    (ii) the financial position of its activities in relation to sewerage and the collection, treatment, and disposal of sewage and trade wastes:
-  (j) must ensure that its water and drainage services are costed and priced separately:
-  (k) must, at least 4 months before the end of each financial year, prepare and supply to each shareholder an indicative asset management plan for the next financial year, which asset management plan must describe the projected condition of its significant assets at the commencement of that year and outline the rationale for and nature, extent, and estimated costs of its proposed activities in respect of—
-    (i) the maintenance and repair of existing assets; and
-    (ii) the renewal of existing assets; and
-    (iii) the upgrading or extension of the performance or capacity of existing assets; and
-    (iv) the acquisition or construction of new assets:
-  (l) must, at least 4 months before the end of each financial year, prepare and supply to each shareholder, after undertaking a comparative assessment of different funding options, an indicative funding plan for the next financial year, which funding plan must identify for the next financial year the nature and scope of the activities proposed to be undertaken (including, but not limited to, operational requirements, renewals, and significant new projects), and its planned funding requirements and funding sources, showing—
-    (i) how the prices and charges proposed in the plan have been calculated:
-    (ii) a summary of the results of the comparative assessment of different funding options:
-    (iii) an appropriate debt to equity ratio:
-    (iv) how any surplus from the previous financial year is proposed to be applied, or any deficit from the previous financial year is proposed to be managed:
-  (m) must, in preparing its draft statement of corporate intent under section 594S,—
-    (i) consider any written submissions made by shareholders on the asset management plan prepared under paragraph (k) or the funding plan prepared under paragraph (l) within 40 working days of the supply of that plan; and
-    (ii) include in that draft statement of corporate intent a summary of its proposals in respect of the matters dealt with in the plans referred to in subparagraph (i):
-  (n) must include in the statement of corporate intent completed under section 594U its decisions in respect of the matters dealt with in the plans referred to in paragraph (m)(i):
-  (o) must give written notice to all shareholders of any proposed modifications of its then current statement of corporate intent and consider comments on the proposed modifications made by any of them.
-(2) Nothing in subsection (1)(c) or (d)—
-  (a) limits the right of any person who is both a customer and a shareholder to participate in any surplus returned to customers pursuant to subsection (1)(d):
-  (b) prevents Watercare Services Limited from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
-(2A) Watercare Services Limited may only enter into an agreement under subsection (1)(ea) if that agreement is supported by territorial authorities that hold 75% or more of the shares in Watercare Services Limited.
-(3) Watercare Services Limited is deemed to be a local authority for the purposes of Parts 1 to 6 and Part 8 of the Local Government Official Information and Meetings Act 1987.
-(4) Parts 1 to 6 and Part 8 of the Local Government Official Information and Meetings Act 1987 apply, for the purposes of subsection (3), with all necessary modifications and as if—
-  (a) every reference to a local authority were a reference to Watercare Services Limited; and
-  (b) every reference to a member of a local authority were a reference to a director of Watercare Services Limited; and
-  (c) every reference to the principal administrative officer of a local authority were a reference to the chief executive of Watercare Services Limited.
-(5) Notwithstanding section 594ZP, a shareholder may give a guarantee, indemnity, or security in respect of the performance of any obligation by Watercare Services Limited.
+[Repealed]
 
 ### 707ZZZT Auckland Regional Council allowed certain deductions for tax purposes
 [Repealed]
 
 ### 707ZZZU Expiry
-Section 707ZZZT expires and is repealed on the close of 31 March 2007.
+[Repealed]
 
 **Dissolution of regional treasury management limited**
 
@@ -6455,7 +6361,7 @@ Section 707ZZZT expires and is repealed on the close of 31 March 2007.
 | Tax area | Component districts ((D) indicates the distribution authority) |
 | --- | --- |
 | 1. Northland | Far North DistrictWhangarei District (D)Kaipara District |
-| 2. Auckland | Rodney DistrictWaitakere CityNorth Shore CityAuckland City (D)Manukau CityPapakura DistrictFranklin District |
+| 2. Auckland | Auckland |
 | 3. Waikato–Coromandel | Waikato DistrictHamilton City (D)Thames-Coromandel DistrictHauraki DistrictMatamata-Piako DistrictSouth Waikato DistrictWaipa District |
 | 4. Bay of Plenty | Western Bay of Plenty DistrictTauranga DistrictRotorua District (D)Whakatane DistrictKawerau DistrictOpotiki DistrictTaupo District |
 | 5. King Country | Otorohanga District (D)Waitomo DistrictRuapehu District |
