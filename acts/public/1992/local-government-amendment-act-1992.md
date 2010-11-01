@@ -1,5 +1,5 @@
 # Local Government Amendment Act 1992
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2010-11-01_
 
 > An Act to amend the Local Government Act 1974
 
@@ -223,9 +223,7 @@ _Consolidation as at 2008-08-01_
 
 ### 67 New sections substituted
 (1)
-(2) Notwithstanding subsection (1) of this section,—
-  (a) Every person who is holding office at the date of the commencement of this section as a member of the Auckland Regional Council and every person who is elected as a member of the Auckland Regional Council after the commencement of this section and before the 10th day of October 1992 shall, unless he or she sooner vacates office under section 101ZB of the principal Act, vacate office when the members elected at the triennial general election to be held on the 10th day of October 1992 come into office; and
-  (b) Section 707E of the principal Act shall continue to apply in relation to every extraordinary vacancy in the membership of the Council under section 101ZB of the principal Act that occurs after the commencement of this section and before the 10th day of October 1992.
+(2)
 
 ### 68
 [Repealed]
@@ -258,9 +256,7 @@ _Consolidation as at 2008-08-01_
 [Repealed]
 
 ### 77 Auckland Centennial Memorial Park
-(1) The Auckland Regional Council shall continue to hold, for the purposes of a scenic park and as a memorial to commemorate the completion in the year nineteen hundred and forty of the first hundred years of settlement and progress in the Metropolitan District of Auckland, the land known as the Auckland Centennial Memorial Park and any other land acquired by the Council or its predecessors for the purposes of that park.
-(2) The Auckland Regional Council shall continue to have the powers of the former Auckland Centennial Memorial Park Board under section 32(1) of the Auckland Centennial Memorial Park Act 1941.
-(3) The Auckland Centennial Memorial Park Act 1941 is hereby amended by repealing sections 22 to 28 and sections 41 to 46 and 48 to 50 and 52 to 55 and 58 and 59.
+[Repealed]
 
 ### 78
 [Repealed]
@@ -335,18 +331,7 @@ Nothing in sections 81 to 86 of this Act prevents the Canterbury Regional Counci
 **Transitional provisions and savings**
 
 ### 89 Regional roads and motorways in Auckland
-(1) The Auckland Regional Council shall take all necessary steps pursuant to Part 22 of the principal Act to complete the revocation, on or as soon as practicable after the 30th day of June 1992, of all existing regional roads in the Auckland Region, and for that purpose, Part 22 of the principal Act shall continue in force notwithstanding its repeal by section 37 of this Act.
-(2) New Zealand Transport Agency must take all necessary steps pursuant to the Government Roading Powers Act 1989 to resume on, or as soon as possible after, the 30th day of June 1992 responsibility for regional motorways in the Auckland Region and may delegate that responsibility in accordance with that Act.
-(3) When the Auckland Regional Council or New Zealand Transport Agency has completed all procedures necessary for the purposes of subsection (1) of this section,—
-  (a) Any designation established upon its requirement or request in respect of a regional road, proposed regional road, or road improvement land shall transfer to the territorial authorities of the districts affected by the designation, and any such designation in respect of a regional motorway or proposed regional motorway shall transfer to either those territorial authorities or to New Zealand Transport Agency, as New Zealand Transport Agency may direct:
-  (b) Any portion of a regional road referred to in any declaration made by the Auckland Regional Authority or the Auckland Regional Council under section 371 of the principal Act (which relates to limited access regional roads) shall be deemed to be a limited access road within the meaning of section 346 of the principal Act.
-(4) Any body to which a designation is transferred by virtue of subsection (3)(a) of this section has, and shall be deemed always to have had, power to accept, hold, maintain, and be responsible for that designation.
-(5) In this section, specified date means the date on which this section comes into force.
-(6) Unless, not later than one month after the specified date, all territorial authorities in the Auckland Region reach agreement on a basis for the allocation of assets and liabilities related to regional roads, road improvement land, and regional motorways, the allocation of those assets shall, to the extent to which it has not been so agreed, be deemed to be unresolved matters (except as they relate to the transfer of staff).
-(7) The Council shall, not later than 2 months after the specified date, refer all unresolved matters to the Local Government Commission, and section 97 of this Act shall apply in respect of those matters as if those matters had been referred to the Commission under section 96(3) of this Act, and as if the date referred to in section 97(1) of this Act were the date 4 months after the specified date.
-(8) Subject to subsection (9) of this section, where any land is to be transferred to a territorial authority or to New Zealand Transport Agency under this section, that land may be transferred pursuant to section 50(2) of the Public Works Act 1981, notwithstanding anything in subsection (1) of that section.
-(9) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the transfer of land pursuant to subsection (8) of this section, but sections 40 and 41 of that Act shall, after the transfer, apply to that land as if the transferee were a local authority and the land had not been so transferred.
-(10) This section shall come into force on the day on which this Act receives the Royal assent.
+[Repealed]
 
 ### 90 Forestry in Manawatu-Wanganui region
 (1) The assets and liabilities of the commercial forestry operation known as the Joint Wanganui District Councils Forestry Committee are hereby deemed to have become vested without cost, on the 1st day of November 1989, in the following local authorities, as tenants in common, with their respective shares being as follows:Local AuthorityPercentage ShareWanganui District Council86.54Manawatu-Wanganui Regional Council7.80South Taranaki District Council1.07Rangitikei District Council2.20Ruapehu District Council2.39.
