@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2010-11-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -321,6 +321,12 @@ This Act does not apply to—
     (xi) a transfer, assignment, mortgage, or assignment of a mortgage of a ship (within the meaning of the Ship Registration Act 1992) that exceeds 24 metres register length (within the meaning of that Act), or any share of such a ship:
     (xii) a transfer, mortgage, or licence of any management rights (within the meaning of the Radiocommunications Act 1989):
     (xiii) a transfer or other transaction by way of security in respect of individual transferable quota or transferable term quota (within the meaning of the Fisheries Act 1983) or a transaction of quota or annual catch entitlements (within the meaning of the Fisheries Act 1996).
+
+### 23A Act subject to application of Cape Town Convention and Aircraft Protocol
+(1) This Act is subject to section 106 of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of Part 12 of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+(2) In this section,—
+  - **Aircraft Protocol** has the same meaning as in section 104(1) of the Civil Aviation Act 1990
+  - **Cape Town Convention** has the same meaning as in section 104(1) of the Civil Aviation Act 1990.
 
 ### 24 Application of Act not affected by secured party having title to collateral
 The fact that title to collateral may be in the secured party rather than the debtor does not affect the application of any provision of this Act relating to rights, obligations, and remedies.
