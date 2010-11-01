@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2010-11-01_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -151,23 +151,29 @@ The Forum has the following purposes:
   (a) 1 representative appointed by the Minister:
   (b) 1 representative appointed by the Minister of Fisheries:
   (c) 1 representative appointed by the Minister of Maori Affairs:
+  (ca) 7 representatives appointed by the Auckland Council:
   (d) 1 representative appointed by each of the following local authorities:
-    (i) Auckland City Council:
-    (ii) Auckland Regional Council:
-    (iii) Franklin District Council:
+    (i)
+    (ii)
+    (iii)
     (iv) Hauraki District Council:
-    (v) Manukau City Council:
+    (v)
     (vi) Matamata-Piako District Council:
-    (vii) North Shore City Council:
-    (viii) Rodney District Council:
+    (vii)
+    (viii)
     (ix) Thames-Coromandel District Council:
     (x) Waikato District Council:
     (xi) Waikato Regional Council:
-    (xii) Waitakere City Council:
-  (e) 6 representatives of the tangata whenua of the Hauraki Gulf and its islands appointed by the Minister, after consultation with the tangata whenua and the Minister of Maori Affairs:
-  (f) 2 further representatives appointed by the Auckland Regional Council.
-(3) The representatives appointed in accordance with subsection (2)(d) or (f), or subsection (5) must be members of the local authority elected in accordance with the Local Electoral Act 2001.
-(4) The representatives appointed in accordance with subsection (2)(f) may not vote on any resolution of the Forum.
+    (xii)
+  (e) 6 representatives of the tangata whenua of the Hauraki Gulf and its islands appointed by the Minister, after consultation with the tangata whenua and the Minister of Maori Affairs.
+  (f)
+(2A) The representatives appointed in accordance with subsection (2)(ca) must—
+  (a) be members of—
+    (i) the Auckland Council; or
+    (ii) a local board of the Auckland Council elected in accordance with the Local Electoral Act 2001; and
+  (b) include 1 member of each of the Great Barrier Island and Waiheke Island local boards.
+(3) The representatives appointed in accordance with subsection (2)(d) or (5) must be members of the local authority elected in accordance with the Local Electoral Act 2001.
+(4)
 (5) If two-thirds or more of the constituent parties agree, a local authority whose powers and functions may have an effect on the Hauraki Gulf, its islands, and catchments, and whose inclusion in the Forum will further the interests of the Forum and of the Hauraki Gulf may join the Forum as a constituent party and appoint a representative to the Forum.
 
 ### 17 Functions of Forum
@@ -238,10 +244,8 @@ Each constituent party (other than tangata whenua representatives)—
   (e) must pay the costs of any activity that the constituent party has agreed to pay; and
   (f) may carry out any other functions or duties specified in this Act.
 
-### 27 Powers and obligations of Auckland Regional Council
-The Auckland Regional Council must—
-  (a) store the records of the Forum and make those records available when required by the Forum; and
-  (b) convene the first meeting of the Forum within 3 months of the commencement of this Act.
+### 27 Powers and obligations of Auckland Council
+The Auckland Council must store the Forum's records and make them available when the Forum requires.
 
 ### 28 Appointment and functions of administering authority
 (1) The constituent parties may, from time to time by agreement with the appointee, appoint one of their number to be the administering authority for the purposes of this Part for a period of no less than 3 years.
