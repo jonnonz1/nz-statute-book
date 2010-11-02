@@ -1,5 +1,5 @@
 # Local Government (Tamaki Makaurau Reorganisation) Amendment Act 2010
-_Consolidation as at 2010-06-14_
+_Consolidation as at 2010-11-02_
 
 ### 1 Title
 This Act is the Local Government (Tamaki Makaurau Reorganisation) Amendment Act 2010.
