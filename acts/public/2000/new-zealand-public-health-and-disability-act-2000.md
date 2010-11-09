@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2010-05-01_
+_Consolidation as at 2010-11-09_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -52,6 +52,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
 (5) A statutory entity called the Pharmaceutical Management Agency (Pharmac) is established (Part 4—sections 46 to 53, and sections 61 to 69, and Schedule 6), and takes over functions relating to the pharmaceutical schedule from the company called Pharmaceutical Management Agency Limited, which is dissolved (Part 7).
 (6) A statutory entity called the New Zealand Blood Service (NZBS) is established (Part 4—sections 54 to 56, and sections 61 to 69, and Schedule 6), and takes over functions relating to blood and controlled human substances from the company called New Zealand Blood Service Limited, which is dissolved (Part 7).
 (7) A statutory entity called the Crown Health Financing Agency (CHFA) is continued (Part 4—sections 57 to 59, and sections 61 to 69, and Schedule 6), and continues to have functions (including the management of certain public health and disability sector assets and liabilities) given to it under any enactment or by the Minister of Health.
+(7A) A statutory entity called the Health Quality and Safety Commission (HQSC) is established (Part 4—sections 59A to 59E, 60, 61, 66, 67, and 69 and Schedule 6), and has functions that relate to the improvement of the quality and safety of health and disability support services.
 (8) Inquiry boards may be appointed by the Minister of Health to conduct an inquiry into, and report to the Minister on, matters like the funding or provision of health services or disability support services, or the management of any publicly-owned health and disability organisation (Part 5—sections 72 to 86).
 (9) The Health Funding Authority (HFA) is dissolved, and its functions, employees, and assets and liabilities transferred to the Crown, acting through the Ministry of Health (Part 7). However, funding of the provision of health services or disability support services may be further devolved under this Act.
 (10) Subsections (1) to (9) are only a guide to the general scheme and effect of this Act.
@@ -88,6 +89,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **health professional body** has the same meaning as that given to the term authority by section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **health services** means personal health services and public health services
   - **hospital advisory committee** means a committee established under section 36
+  - **HQSC** means the Health Quality and Safety Commission established by section 59A(1)
   - **inquiry board** has the meaning specified in section 72(1)
   - **Maori** , in sections 29(4), 34, 35, and 36, and clause 38(2) of Schedule 3, means a person of the Maori race of New Zealand, and includes any descendant of such a person
   - **Minister** means the Minister of Health
@@ -113,7 +115,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
     (b) health protection and health promotion services; and
     (c) goods, services, and facilities provided for related or incidental functions or purposes
   - **publicly available** , in relation to a document, means that the document is promptly provided on request by any person on payment of a charge, if any, that is reasonable
-  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBS, and CHFA
+  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBS, CHFA, and HQSC
   - **resident population** , in relation to a DHB, means the eligible people residing in the geographical area of the DHB (as specified in Schedule 1)
   - **service agreement** has the meaning given to it by section 25
   - **services** means health services and disability support services
@@ -314,6 +316,7 @@ This Act binds the Crown.
 (1) Every DHB has the following objectives:
   (a) to improve, promote, and protect the health of people and communities:
   (b) to promote the integration of health services, especially primary and secondary health services:
+  (ba) to seek the optimum arrangement for the most effective and efficient delivery of health services in order to meet local, regional, and national needs:
   (c) to promote effective care or support for those in need of personal health services or disability support services:
   (d) to promote the inclusion and participation in society and independence of people with disabilities:
   (e) to reduce health disparities by improving health outcomes for Maori and other population groups:
@@ -329,6 +332,7 @@ This Act binds the Crown.
 (1) For the purpose of pursuing its objectives, each DHB has the following functions:
   (a) to ensure the provision of services for its resident population and for other people as specified in its Crown funding agreement:
   (b) to actively investigate, facilitate, sponsor, and develop co-operative and collaborative arrangements with persons in the health and disability sector or in any other sector to improve, promote, and protect the health of people, and to promote the inclusion and participation in society and independence of people with disabilities:
+  (ba) to collaborate with relevant organisations to plan and co-ordinate at local, regional, and national levels for the most effective and efficient delivery of health services:
   (c) to issue relevant information to the resident population, persons in the health and disability sector, and persons in any other sector working to improve, promote, and protect the health of people for the purposes of paragraphs (a) and (b):
   (d) to establish and maintain processes to enable Maori to participate in, and contribute to, strategies for Maori health improvement:
   (e) to continue to foster the development of Maori capacity for participating in the health and disability sector and for providing for the needs of Maori:
@@ -347,6 +351,7 @@ This Act binds the Crown.
 (5) A DHB that, in reliance on subsection (4), decides not to provide relevant information must advise the persons concerned of that decision.
 (6) To avoid any doubt, subsection (1)(d) does not limit the capacity of a DHB to establish and maintain processes to enable other population groups to participate in, and contribute to, strategies for the improvement of the health of those groups.
 (7) In performing any of its functions in relation to the supply of pharmaceuticals, a DHB must not act inconsistently with the pharmaceutical schedule.
+(8) In subsection (1)(ba), relevant organisations means 1 or more organisations that a DHB considers relevant to the provision of health services at a local, regional, or national level (for example, a DHB, the Ministry of Health, or an organisation that provides services under a service agreement).
 
 ### 24 Co-operative agreements and arrangements
 (1) Except as provided in subsection (2), for the purpose of performing its function under section 23(1)(b), a DHB may enter into a co-operative agreement or arrangement with any person (whether or not that person is involved in the health sector) in order to—
@@ -642,13 +647,67 @@ The Minister must, as soon as practicable after giving a notice under section 47
 (5)
 (6)
 
+**Health Quality and Safety Commission**
+
+### 59A Health Quality and Safety Commission
+(1) An organisation called the Health Quality and Safety Commission (HQSC) is established.
+(2) HQSC is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to HQSC except to the extent that this Act expressly provides otherwise.
+
+### 59B Objectives of HQSC
+The objectives of HQSC are to lead and co-ordinate work across the health and disability sector for the purposes of—
+  (a) monitoring and improving the quality and safety of health and disability support services; and
+  (b) helping providers across the health and disability sector to improve the quality and safety of health and disability support services.
+
+### 59C Functions of HQSC
+(1) The functions of HQSC are—
+  (a) to advise the Minister on how quality and safety in health and disability support services may be improved; and
+  (b) to advise the Minister on any matter relating to—
+    (i) health epidemiology and quality assurance; or
+    (ii) mortality; and
+  (c) to determine quality and safety indicators (such as serious and sentinel events) for use in measuring the quality and safety of health and disability support services; and
+  (d) to provide public reports on the quality and safety of health and disability support services as measured against—
+    (i) the quality and safety indicators; and
+    (ii) any other information that HQSC considers relevant for the purpose of the report; and
+  (e) to promote and support better quality and safety in health and disability support services; and
+  (f) to disseminate information about the quality and safety of health and disability support services; and
+  (g) to perform any other function that—
+    (i) relates to the quality and safety of health and disability support services; and
+    (ii) HQSC is for the time being authorised to perform by the Minister by written notice to HQSC after consultation with it.
+(2) In performing its functions HQSC must, to the extent it considers appropriate, work collaboratively with—
+  (a) the Ministry of Health; and
+  (b) the Health and Disability Commissioner; and
+  (c) providers; and
+  (d) any groups representing the interests of consumers of health or disability support services; and
+  (e) any other organisations, groups, or individuals that HQSC considers have an interest in, or will be affected by, its work.
+(3) The Minister must, as soon as practicable after giving a notice to HQSC under subsection (1)(g)(ii), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
+
+### 59D Membership of board
+The board of HQSC consists of at least 7 members appointed under section 28 of the Crown Entities Act 2004.
+
+### 59E HQSC may appoint mortality review committees
+(1) HQSC may appoint 1 or more committees to carry out any of the following functions that HQSC specifies by notice to the committee:
+  (a) to review and report to HQSC on specified classes of deaths of persons, or deaths of persons of specified classes, with a view to reducing the numbers of deaths of those classes or persons, and to continuous quality improvement through the promotion of ongoing quality assurance programmes:
+  (b) to advise on any other matters related to mortality that HQSC specifies in the notice.
+(2) A committee appointed under subsection (1) (a mortality review committee) must develop strategic plans and methodologies that—
+  (a) are designed to reduce morbidity and mortality; and
+  (b) are relevant to the committee's functions.
+(3) HQSC—
+  (a) must, at least annually, provide the Minister with a report on the progress of mortality review committees; and
+  (b) must include each such report in HQSC's next annual report.
+(4) The provisions of Schedule 5 apply in relation to a mortality review committee.
+(5) Every person who fails, without reasonable excuse, to comply with a requirement imposed under Schedule 5 by the chairperson of a mortality review committee commits an offence and is liable to a fine not exceeding $10,000.
+(6) Every person who discloses information contrary to Schedule 5 commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+(7) Any member of a registered occupational profession who commits an offence under subsection (5) or (6) is liable to any disciplinary proceedings of that profession in respect of the offence, whether or not he or she is fined under that subsection.
+
 **Other provisions**
 
 ### 60 Interpretation
 In sections 61 to 69, organisation means each of the following organisations:
   (a) Pharmac:
   (b) NZBS:
-  (c) CHFA.
+  (c) CHFA:
+  (d) HQSC.
 
 ### 61 Role of board
 The board of an organisation has the role set out in section 25 of the Crown Entities Act 2004.
@@ -678,12 +737,9 @@ The board of an organisation has the role set out in section 25 of the Crown Ent
 (5)
 (6) Directions given under section 20 of the Health Sector (Transfers) Act 1993 to RHMU are deemed to be directions given under section 103 of the Crown Entities Act 2004.
 
-### 66 Pharmac, NZBS, and CHFA to operate in financially responsible manner
-(1) Every organisation must operate in a financially responsible manner and for this purpose must—
-  (a)
-  (b) endeavour to cover all its annual costs (including the cost of capital) from its net annual income; and
-  (c)
-  (d)
+### 66 Pharmac, NZBS, CHFA to operate in financially responsible manner
+(1) Every organisation must operate in a financially responsible manner and for this purpose must endeavour to cover all its annual costs (including the cost of capital) from its net annual income.
+(1A) Subsection (1) does not apply to HQSC in respect of costs, which are to be met by the Ministry of Health in a financially responsible manner that allows HQSC to carry out its functions to a high standard.
 (2) This section does not limit section 51 of the Crown Entities Act 2004.
 
 ### 67 Accountability documents under Crown Entities Act 2004
@@ -699,7 +755,7 @@ The statements of intent, annual financial statements, and annual reports of an 
 (4) Subsection (3) applies despite section 134 of the Crown Entities Act 2004.
 
 ### 70 Further provisions
-The provisions set out in Schedule 6 apply in respect of Pharmac, NZBS, and CHFA.
+The provisions set out in Schedule 6 apply in respect of Pharmac, NZBS, CHFA, and HQSC.
 
 ## Part 5 — Inquiries
 
@@ -1283,7 +1339,8 @@ In this schedule, unless the context otherwise requires,—
 ### 3 Elected members
 Elected members of the board of a DHB,—
   (a) if they have not ceased to hold that office earlier and are not re-elected in the next triennial election of members of boards, cease to hold that office when the members elected in that election come into office:
-  (b) are not to hold office as an elected or appointed member of the board of any other DHB.
+  (b) are not to hold office as elected members of the board of any other DHB:
+  (c) may hold office as appointed members of the board of 1 or more other DHBs.
 
 ### 4 Terms or conditions of office, and remuneration
 [Repealed]
@@ -1543,7 +1600,7 @@ The following provisions apply when all or any part of a meeting of a board is r
 
 ### 38 Committees
 (1) A board of a DHB may—
-  (a) establish 1 or more committees of the board for a particular purpose or purposes:
+  (a) after first obtaining the Minister's approval establish 1 or more committees of the board for a particular purpose or purposes:
   (b) appoint, as members of a committee of the board, or as the chairperson or deputy chairperson of any such committee, either members of the board, or other persons, or both:
   (c) dismiss any member, or chairperson, or deputy chairperson, of a committee of the board:
   (d) dissolve any committee of the board.
@@ -2022,7 +2079,7 @@ Clause 4 does not prohibit—
 ### 7 Supplementary procedure
 A mortality review committee may regulate its procedure, at its meetings and otherwise, in any manner not inconsistent with this Act it thinks fit.
 
-## Schedule 6 — Further provisions applying to Pharmac, NZBS, and CHFA
+## Schedule 6 — Further provisions applying to Pharmac, NZBS, CHFA, and HQSC
 
 **Meaning of organisation**
 
@@ -2030,7 +2087,8 @@ A mortality review committee may regulate its procedure, at its meetings and oth
 In this schedule, unless the context otherwise requires, organisation means each of the following organisations:
   (a) Pharmac:
   (b) NZBS:
-  (c) CHFA.
+  (c) CHFA:
+  (d) HQSC.
 
 **Members**
 
