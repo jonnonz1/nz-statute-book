@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Amendment Act 2010
-_Consolidation as at 2010-10-23_
+_Consolidation as at 2010-11-09_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Amendment Act 2010.
