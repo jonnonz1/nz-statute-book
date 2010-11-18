@@ -1,5 +1,5 @@
 # Tourist and Health Resorts Control Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-18_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the administration and control of tourist and health resorts and reserves
 
@@ -65,4 +65,3 @@ All fines under this Act may be recovered in a summary manner, and shall be paid
 | Pukeroa Domain, Rotorua. |  |
 | Kuirua Domain, Rotorua. | Aorangi Domain. |
 | Medical Officer's Reserve, Rotorua. | Te Ana Domain. |
-| Whakarewarewa Thermal Springs Reserve. |  |
