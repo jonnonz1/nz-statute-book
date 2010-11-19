@@ -1,5 +1,5 @@
 # Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009
-_Consolidation as at 2009-11-06_
+_Consolidation as at 2010-11-19_
 
 ## Preamble
 (1) The Whakarewarewa Valley Land and the Roto-a-Tamaheke Reserve are of significant cultural, traditional, historical, and spiritual importance to Ngāti Whakaue and Tūhourangi Ngāti Wahiao:
