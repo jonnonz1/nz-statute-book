@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-23_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3472,10 +3472,10 @@ Exempt income of beneficiary
 
 **Employee or contractor income**
 
-### CW 16 Income of Governor-General
+### CW 16 Allowance of Governor-General and other benefits and privileges
 The following are exempt income:
-  (a) the salary and allowance of the Governor-General paid under section 3 of the Civil List Act 1979:
-  (b) the salary of a person acting as the Administrator of the Government paid under section 8 of the Civil List Act 1979.
+  (a) the allowance of the Governor-General, paid under section 6 of the Governor-General Act 2010:
+  (b) any benefit or privilege provided under an agreement made under section 11(1) of the Governor-General Act 2010 or an agreement referred to in section 28(1)(d) of that Act.
 
 ### CW 17 Expenditure on account, and reimbursement, of employees
 Exempt income: expenditure on account
@@ -3610,7 +3610,7 @@ Some definitions
     (a) is a crew member of a pleasure craft; and
     (b) is a non-resident, a matter determined without applying section YD 1(3) (Residence of natural persons); and
     (c) is not present in New Zealand on more than 365 days in any 2-year period that starts on or after 28 May 2002; and
-    (d) is not in New Zealand unlawfully under the Immigration Act 1987
+    (d) is not in New Zealand unlawfully under the Immigration Act 2007
   - **pleasure craft** is defined in section 2 of the Maritime Transport Act 1994.
 
 ### CW 22 Amounts derived by overseas experts and trainees in New Zealand by government arrangement
@@ -33653,10 +33653,12 @@ Payments to working partners
 (3) A payment to a working partner under section DC 4 (Payments to working partners) is included in their salary or wages.
 Payments to past employees
 (4) A periodic payment of a pension, allowance, or annuity made to a person or their spouse, civil union partner, de facto partner, child, or dependant in connection with the past employment of the person is included in their salary or wages.
-Payments to members of Parliament and judicial officers
+Payments to Governor-General, members of Parliament, and judicial officers
 (5) The following payments made under a determination of the Remuneration Authority are included in salary or wages
+  (aa) salary made to the Governor-General:
   (a) salary or allowances made to a member of Parliament:
   (b) salary and principal allowances made to a judicial officer.
+(5B) A payment to a person made under section 7 of the Governor-General Act 2010 is included in the salary and wages of that person.
 Certain benefits and grants
 (6) A payment of the following benefits or grants is included in salary or wages
   (a) a gratuitous payment as described in paragraph (a) of the definition of pension in section CF 1(2) (Benefits, pensions, compensation, and government grants):
@@ -36911,7 +36913,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **employer’s superannuation contribution** means a superannuation contribution made by an employer for the benefit of 1 or more of their employees
   - **employing company** is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 14 (which relate to share purchase schemes)
   - **employment** has a meaning corresponding to the meaning of , and—
-    (a) includes the activities performed by a member of Parliament or a judicial officer that give rise to an entitlement to receive a PAYE income payment for the activities:
+    (a) includes the activities performed by the Governor-General, a member of Parliament, or a judicial officer that give rise to an entitlement to receive a PAYE income payment for the activities:
     (b) is defined in section ME 2(1) (Meaning of employment for this subpart) for the purposes of subpart ME (Minimum family tax credit) and the definition of full-time earner
   - **employment income** means an amount that is income under section CE 1 (Amounts derived in connection with employment)
   - **employment limitation** is defined in section DA 2(4) (General limitations)
