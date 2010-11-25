@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2010-09-24_
+_Consolidation as at 2010-11-25_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
