@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -40,7 +40,7 @@ The purpose of this Act is—
   - **local board area** means an area specified by Order in Council under section 35 as a local board area
   - **local board plan** means the plan referred to in section 20 that each local board is required to adopt
   - **Local Government Commission** means the Local Government Commission continued under section 28 of the Local Government Act 2002
-  - **LTCCP** means the Auckland Council long-term council community plan
+  - **LTP** means the Auckland Council long-term plan
   - **mana whenua group** means an iwi or hapu that—
     (a) exercises historical and continuing mana whenua in an area wholly or partly located in Auckland; and
     (b) is 1 or more of the following in Auckland:
@@ -95,7 +95,7 @@ If there is any inconsistency between this Act and the Local Government Act 2002
   (a) articulate and promote a vision for Auckland; and
   (b) provide leadership for the purpose of achieving objectives that will contribute to that vision.
 (2) Without limiting subsection (1), it is the role of the mayor to—
-  (a) lead the development of Council plans (including the LTCCP and the annual plan), policies, and budgets for consideration by the governing body; and
+  (a) lead the development of Council plans (including the LTP and the annual plan), policies, and budgets for consideration by the governing body; and
   (b) ensure there is effective engagement between the Auckland Council and the people of Auckland, including those too young to vote.
 (3) For the purposes of subsections (1) and (2), the mayor has the following powers:
   (a) to establish processes and mechanisms for the Auckland Council to engage with the people of Auckland, whether generally or particularly (for example, the people of a cultural, ethnic, geographic, or other community of interest):
@@ -179,7 +179,7 @@ A local board must be established for each local board area for the purposes of�
 ### 14 General scheme
 (1) This section sets out the general scheme of sections 14 to 21. These are the provisions of this Act that set out how the Auckland Council, in its capacity as a local authority, makes its decisions. This section is by way of explanation only and does not limit or affect the other provisions of this Act or any other enactment.
 (2) Unlike other local authorities, both the governing body and the local boards are responsible and democratically accountable for the decision making of the Auckland Council. Whether responsibility for making any particular decision rests with the governing body or 1 or more or all of the local boards depends on the nature of the decision being made.
-(3) Section 15 sets out the classes of decisions that the governing body must make. Section 16 sets out the classes of decisions that local boards must make. Both sections include a class of decisions in respect of non-regulatory activities of the Council. The governing body allocates responsibility for any particular decision in this class of decisions to either itself or the local boards by applying the principles set out in section 17. The results of the allocation must then be set out in the LTCCP and annual plans of the Council so that the people of Auckland, and any other persons, can easily determine whether the governing body or a local board is responsible for any particular decision of the Council.
+(3) Section 15 sets out the classes of decisions that the governing body must make. Section 16 sets out the classes of decisions that local boards must make. Both sections include a class of decisions in respect of non-regulatory activities of the Council. The governing body allocates responsibility for any particular decision in this class of decisions to either itself or the local boards by applying the principles set out in section 17. The results of the allocation must then be set out in the LTP and annual plans of the Council so that the people of Auckland, and any other persons, can easily determine whether the governing body or a local board is responsible for any particular decision of the Council.
 (4) To determine local wishes and priorities in relation to the non-regulatory activities for which a local board is allocated responsibility, the board must consult its communities. The local board does this by preparing a local board plan under section 20. This plan is used as a basis for the board to develop an annual local board agreement with the governing body under section 21 in which the nature, levels, and funding of the activities are set out.
 
 ### 15 Decision-making responsibilities of governing body
@@ -219,15 +219,16 @@ A local board must be established for each local board area for the purposes of�
 
 **Identification of local activities and allocation of funding**
 
-### 18 Local activities must be identified in LTCCP and annual plan
-(1) The LTCCP and each annual plan must identify the non-regulatory activities of the Auckland Council for which decision-making responsibility is allocated to local boards under section 17.
-(2) For the purposes of clause 2 of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
-(3) The matters in subsection (1) must first be identified in the LTCCP adopted for the period beginning 1 July 2012, and in each subsequent LTCCP.
+### 18 Local activities must be identified in LTP and annual plan
+(1) The LTP and each annual plan must identify the non-regulatory activities of the Auckland Council for which decision-making responsibility is allocated to local boards under section 17.
+(2) For the purposes of clauses 2 to 5 of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
+(2A) However, each group of activities specified in clause 2(2) of Schedule 10 of the Local Government Act 2002 must be identified separately from any other activities or group of activities.
+(3) The matters in subsection (1) must first be identified in the LTP adopted for the period beginning 1 July 2012, and in each subsequent LTP.
 
 **Local boards funding policy**
 
 ### 19 Local boards funding policy
-(1) To provide predictability and certainty about levels of funding for local boards, the Auckland Council must adopt a local boards funding policy.
+(1) To provide predictability and certainty about levels of funding for local boards, the Auckland Council must adopt a local boards funding policy as part of its long-term plan.
 (2) The local boards funding policy must set—
   (a) the formula by which the total funds allocated by the Council for meeting the cost of funding local activities are to be allocated to each local board; and
   (b) the formula by which the total funds allocated by the Council for meeting the cost of funding the administrative support to local boards are to be allocated to each local board.
@@ -242,13 +243,14 @@ A local board must be established for each local board area for the purposes of�
   (b) the size of each local board area; and
   (c) any other factor identified by the Auckland Council as significantly affecting the operational costs of each local board; and
   (d) the funding amount allocated to each local board under subsection (4).
-(6) For the purposes of adopting a funding policy under subsection (1), section 102 of the Local Government Act 2002 applies, with any necessary modifications, and as if the following paragraph were added to subsection (4) of that section:.
-  (g) a local boards funding policy
-(7) The Auckland Council must adopt its first policy under this section no later than the date that the LTCCP for the period commencing 1 July 2012 is adopted.
+(6) For the purposes of adopting a funding policy under subsection (1), section 102 of the Local Government Act 2002 applies, with any necessary modifications, and as if the following paragraph were added to subsection (2) of that section:
+  (f) a local board's funding policy.
+(6A) If the Auckland Council amends its local board's funding policy under section 93(4) of the Local Government Act 2002, only a significant amendment to the policy is required to be audited in accordance with sections 84(4) and 94 of that Act.
+(7) The Auckland Council must adopt its first policy under this section no later than the date that the LTP for the period commencing 1 July 2012 is adopted.
 
-### 19A Estimated local board funding allocation must be included in LTCCP and annual plan
-(1) The LTCCP and each annual plan of the Auckland Council must include the estimated local board funding allocation for each local board for each year to which the plans relate.
-(2) The Auckland Council must include its first estimated local board funding allocation under this section in the plans no later than the date that the LTCCP for the period commencing 1 July 2012 is adopted.
+### 19A Estimated local board funding allocation must be included in LTP and annual plan
+(1) The LTP and each annual plan of the Auckland Council must include the estimated local board funding allocation for each local board for each year to which the plans relate.
+(2) The Auckland Council must include its first estimated local board funding allocation under this section in the plans no later than the date that the LTP for the period commencing 1 July 2012 is adopted.
 (3) In this section, local board funding allocation means the total funds in respect of which a local board has decision-making discretion, allocated in accordance with the Council's local boards funding policy adopted under section 19.
 
 **Local board plans and agreements**
@@ -261,7 +263,7 @@ A local board must be established for each local board area for the purposes of�
   (a) to reflect the priorities and preferences of the communities within the local board area in respect of the level and nature of local activities to be provided by the Auckland Council over the next 3 years; and
   (b) to identify and describe the interests and preferences of the people within the local board area for the purposes of enabling the local board to communicate those interests and preferences for the purposes of section 16(1)(b); and
   (c) to provide a basis for developing the local board agreement for each of the next 3 years; and
-  (d) to inform the development of the next LTCCP, particularly in relation to the identification of the non-regulatory activities of the Council for which decision-making responsibility should be allocated to the local board; and
+  (d) to inform the development of the next LTP, particularly in relation to the identification of the non-regulatory activities of the Council for which decision-making responsibility should be allocated to the local board; and
   (e) to provide a basis for accountability of the local board to the communities in the local board area; and
   (f) to provide an opportunity for people to participate in decision-making processes on the nature and level of local activities to be provided by the Council within the local board area.
 (3) A local board plan must include—
@@ -274,16 +276,16 @@ A local board must be established for each local board area for the purposes of�
 (4) For the purposes of adopting a plan under subsection (1), section 83 of the Local Government Act 2002 applies as if—
   (a) the local board were a local authority and the local board area were the district of the local authority; and
   (b) the statement of proposal referred to in subsection (1)(a) of that section required the inclusion of—
-    (i) the information that is required by clause 2(2) of Schedule 10 of that Act to be included in the LTCPP—
+    (i) the information that is required by clauses 4 and 5 of Schedule 10 of that Act to be included in the LTP—
       (A) in relation to local activities; and
       (B) for the following year; and
     (ii) a description of any variation from the default levels of service provided for in the local board agreement for the current year; and
-    (iii) the estimated funding allocation for the local board for the following year included in the LTCCP under section 19A; and
+    (iii) the estimated funding allocation for the local board for the following year included in the LTP under section 19A; and
     (iv) the draft local board plan.
 (5) In this section,—
   - **default levels of service** means the levels of service provision for local activities across Auckland that are—
     (a) funded in each local board funding allocation; and
-    (b) specified in the LTCCP (in accordance with clause 2(2)(a) of Schedule 10 of the Local Government Act 2002)
+    (b) specified in the LTP (in accordance with clause 4 of Schedule 10 of the Local Government Act 2002).
   - **following year** means the year commencing on the next 1 July.
 (6) In subsection (3)(d)(ii), local revenue source includes—
   (a) a targeted rate for all or part of the local board area; and
@@ -301,13 +303,17 @@ A local board must be established for each local board area for the purposes of�
   (b) the governing body determines that the indicative budget in the plan is, or has become, significantly inaccurate; or
   (c) consistency with the plan would be contrary to any enactment.
 (4) A local board agreement must not be inconsistent with the adopted strategies, plans, policies, and objectives of the governing body.
-(5) For the purposes of subsection (2)(a), a local board agreement must state, in relation to the local activities to be provided in the local board area in the year to which the agreement relates,—
-  (a) the intended levels of service provision for each activity, including the performance targets and other measures by which the actual levels of service provision may meaningfully be assessed; and
-  (b) the estimated expenses of achieving and maintaining the intended levels of service provision, including the estimated expenses associated with maintaining the service capacity and the integrity of assets; and
-  (c) how any expenses in excess of the local board's estimated funding allocation under section 19A are to be met (including the estimated revenue levels, the other sources of funds, and the rationale for their selection in terms of section 101(3) of the Local Government Act 2002).
+(5) For the purposes of subsection (2)(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
+  (a) a statement of the intended levels of service provision that specifies—
+    (i) any performance measures specified in a rule made under section 261B of the Local Government Act 2002 for each activity described in clause 2(2) of Schedule 10 of that Act; and
+    (ii) the performance measures that the Auckland Council considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified under paragraph (a); and
+    (iii) the performance target or targets set by the Auckland Council for each performance measure; and
+    (iv) any intended changes to the level of service that was provided in the year before the year to which the agreement relates and the reasons for the change; and
+  (b) a funding impact statement in the form prescribed under the Local Government Act 2002 for inclusion in an annual plan under clause 20(2) of Schedule 10; and
+  (c) a statement of how any expenses in excess of the local board's estimated funding allocation under section 19A of this Act are to be met (including estimated revenue levels and the other sources of funding).
 
-### 22 Local board agreements must be included in LTCCP and annual plan
-(1) The LTCCP and each annual plan of the Auckland Council must include the local board agreement for each local board area.
+### 22 Local board agreements must be included in LTP and annual plan
+(1) The LTP and each annual plan of the Auckland Council must include the local board agreement for each local board area.
 (2) For the purposes of subsection (1), the Council must prepare a different statement of proposal for the annual plan for each local board area that includes in the draft annual plan—
   (a) the information identified under section 18; and
   (b) the draft local board agreement for the local board area.
@@ -316,9 +322,10 @@ A local board must be established for each local board area for the purposes of�
 
 ### 23 Monitoring and reporting
 (1) Each local board must monitor the implementation of the local board agreement for its local board area.
-(2) Each annual report of the Auckland Council must include, in respect of local activities for each local board area,—
-  (a) a comparison between the actual levels of service provision of the activities and the intended levels of service provision of the activities (as stated in the local board agreement for that year); and
-  (b) the reasons for any significant variance between the actual and the expected service provision.
+(2) Each annual report of the Auckland Council must include, in respect of local activities for each local board area, an audited statement that—
+  (a) compares the level of service achieved in relation to the activities with the performance target or targets for the activities (as stated in the local board agreement for that year); and
+  (b) specifies whether any intended changes to the level of service have been achieved; and
+  (c) gives the reasons for any significant variation between the level of service achieved and the intended level of service.
 (3) Each local board must comment on the matters included in the annual report under subsection (2) in respect of its local board area and the Council must include those comments in the annual report.
 
 **Bylaws**
@@ -695,8 +702,8 @@ Auckland Transport must not borrow any funds without the written agreement of th
   (d) must have regard for public safety (for example, the safety of children in urban areas) in relation to its structures.
 (2) However, subsection (1)(b) does not prevent an Auckland water organisation from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
 
-### 58 Auckland water organisation must give effect to LTCCP and act consistently with other specified plans and strategies of Council
-(1) An Auckland water organisation must give effect to the relevant aspects of the LTCCP.
+### 58 Auckland water organisation must give effect to LTP and act consistently with other specified plans and strategies of Council
+(1) An Auckland water organisation must give effect to the relevant aspects of the LTP.
 (2) An Auckland water organisation must act consistently with the relevant aspects of any other plan (including a local board plan) or strategy of the Council to the extent specified in writing by the governing body of the Council.
 (3) However, nothing in this section or section 92 authorises non-compliance with section 57 by an Auckland water organisation.
 
@@ -845,7 +852,7 @@ A person who wilfully or negligently destroys, damages, stops, obstructs, or oth
 
 ### 78 Council must consult other Auckland water organisations when assessing water and other sanitary services
 (1) Subsection (2) applies to the Council when carrying out its duty under section 125 of the Local Government Act 2002 to assess the provision within Auckland of water and other sanitary services.
-(2) In addition to acting under section 128 of that Act, the Council must consult each Auckland water organisation that is not a local authority in making its assessment.
+(2) The Council must consult each Auckland water organisation that is not a local authority in making its assessment.
 
 ## Part 6 — Spatial planning for Auckland
 
@@ -969,9 +976,9 @@ Schedule 2 applies to the board.
   (d) specify any planning requirements that each substantive council-controlled organisation must undertake in addition to those required under Part 5 of the Local Government Act 2002 or this Act:
   (e) identify or define any strategic assets in relation to each substantive council-controlled organisation and set out any requirements in relation to the organisation's management of those assets, including the process by which the organisation may approve major transactions in relation to them.
 (3) A policy under this section—
-  (a) may be adopted by the Council as part of its LTCCP:
-  (b) must be included in the Council's LTCCP:
-  (c) may be amended only as an amendment to the LTCCP.
+  (a) may be adopted by the Council as part of its LTP:
+  (b) must be included in the Council's LTP:
+  (c) may be amended only as an amendment to the LTP.
 
 ### 91 Council may impose additional accountability requirements on substantive council-controlled organisations
 (1) The Council may require a substantive council-controlled organisation to—
@@ -986,8 +993,8 @@ Schedule 2 applies to the board.
 (2) The Council may not require Auckland Transport to prepare and adopt a plan under subsection (1)(c).
 (3) This section does not limit or affect the application of Part 5 of the Local Government Act 2002 to a substantive council-controlled organisation.
 
-### 92 Substantive council-controlled organisations must give effect to LTCCP and act consistently with other specified plans and strategies of Council
-(1) Each substantive council-controlled organisation must give effect to the relevant aspects of the LTCCP.
+### 92 Substantive council-controlled organisations must give effect to LTP and act consistently with other specified plans and strategies of Council
+(1) Each substantive council-controlled organisation must give effect to the relevant aspects of the LTP.
 (2) Each substantive council-controlled organisation must act consistently with the relevant aspects of any other plan (including a local board plan) or strategy of the Council to the extent specified in writing by the governing body of the Council.
 
 ### 93 Councillors and local board members prohibited from appointment as directors of substantive council-controlled organisations
@@ -1042,9 +1049,9 @@ A director of a substantive council-controlled organisation who is elected to be
 (4) The Commission may apportion the actual and reasonable costs incurred by it in making a determination between the local board or boards and the governing body as it thinks fit, having regard to the merits of the initial positions of the board or boards and the governing body.
 (5) Any costs apportioned to a local board under subsection (4) must be paid from the local board's budget.
 (6) Subsection (7) applies if—
-  (a) the Commission is required to determine a matter that relates to the content of an adopted LTCCP; and
-  (b) the Commission determines that the LTCCP should be amended.
-(7) The Council must amend the LTCCP to the extent necessary to give effect to the determination and may do so without further authority than this section.
+  (a) the Commission is required to determine a matter that relates to the content of an adopted LTP; and
+  (b) the Commission determines that the LTP should be amended.
+(7) The Council must amend the LTP to the extent necessary to give effect to the determination and may do so without further authority than this section.
 
 ### 99 Local Government Commission may delegate duty to determine dispute
 (1) The Local Government Commission may, in writing, either generally or in a specific instance, delegate its function under section 98 to a committee of the Commission or a member of the Commission.
