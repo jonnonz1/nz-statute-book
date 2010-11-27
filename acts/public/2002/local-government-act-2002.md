@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -39,9 +39,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **community board** means a community board established under section 49
   - **community facilities** has the meaning set out in section 197
   - **community infrastructure** has the meaning set out in section 197
-  - **community outcomes** , in relation to a district or region,—
-    (a) means the outcomes for that district or region that are identified as priorities for the time being through a process under section 91; and
-    (b) includes any additional outcomes subsequently identified through community consultation by the local authority as important to the current or future social, economic, environmental, or cultural well-being of the community
+  - **community outcomes** means the outcomes that a local authority aims to achieve in order to promote the social, economic, environmental, and cultural well-being of its district or region, in the present and for the future
   - **council-controlled organisation** has the meaning set out in section 6
   - **council-controlled trading organisation** has the meaning set out in section 6
   - **council organisation** has the meaning set out in section 6
@@ -49,6 +47,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **development contribution policy** has the meaning set out in section 197
   - **district** means the district of a territorial authority
   - **enforcement officer** means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
+  - **equity security** has the meaning given to it in section 2 of the Securities Act 1978
   - **financial year** means a period of 12 months ending on 30 June
   - **generally accepted accounting practice** means—
     (a) approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to local authorities and council-controlled organisations; and
@@ -58,7 +57,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **group of activities** means 1 or more related activities provided by, or on behalf of, a local authority or council-controlled organisation
   - **local authority** means a regional council or territorial authority
   - **local government organisation** has the meaning set out in section 124
-  - **long-term council community plan** means a long-term council community plan adopted under section 93
+  - **long-term plan** means a long-term plan adopted under section 93
   - **lump sum contribution** has the meaning given to it in section 5 of the Local Government (Rating) Act 2002
   - **mayor** means the mayor of a territorial authority elected under the Local Electoral Act 2001
   - **member** ,—
@@ -68,6 +67,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) in relation to a regional council, means a member of the governing body of the regional council elected under the Local Electoral Act 2001, including the chairperson:
     (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the Local Electoral Act 2001, including the mayor
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **natural hazard** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **network infrastructure** has the meaning set out in section 197
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **public notice** , in relation to a notice given by a local authority,—
@@ -82,6 +82,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **regional council** means a regional council named in Part 1 of Schedule 2
   - **reorganisation proposal** means a proposal initiated under section 24
   - **reorganisation scheme** means a reorganisation scheme within the meaning of clauses 18, 19, or 46 of Schedule 3
+  - **reserve fund** means money set aside by a local authority for a specific purpose
   - **Secretary** means the Secretary for Local Government
   - **significance** , in relation to any issue, proposal, decision, or other matter that concerns or is before a local authority, means the degree of importance of the issue, proposal, decision, or matter, as assessed by the local authority, in terms of its likely impact on, and likely consequences for,—
     (a) the current and future social, economic, environmental, or cultural well-being of the district or region:
@@ -124,7 +125,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
 (2) The meaning given to the term community by subsection (1) does not apply in relation to—
   (a) section 3; or
-  (b) the definition of the term long-term council community plan; or
+  (b) the definition of the term long-term plan; or
   (c) any of the provisions of Parts 2 and 6; or
   (d) any of the provisions of Schedules 10 and 11; or
   (e) any other provisions of this Act in respect of which the context otherwise requires.
@@ -219,6 +220,14 @@ The role of a local authority is to—
   (a) give effect, in relation to its district or region, to the purpose of local government stated in section 10; and
   (b) perform the duties, and exercise the rights, conferred on it by or under this Act and any other enactment.
 
+### 11A Core services to be considered in performing role
+In performing its role, a local authority must have particular regard to the contribution that the following core services make to its communities:
+  (a) network infrastructure:
+  (b) public transport services:
+  (c) solid waste collection and disposal:
+  (d) the avoidance or mitigation of natural hazards:
+  (e) libraries, museums, reserves, recreational facilities, and other community infrastructure.
+
 ### 12 Status and powers
 (1) A local authority is a body corporate with perpetual succession.
 (2) For the purposes of performing its role, a local authority has—
@@ -253,6 +262,9 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (d) a local authority should provide opportunities for Māori to contribute to its decision-making processes:
   (e) a local authority should collaborate and co-operate with other local authorities and bodies as it considers appropriate to promote or achieve its priorities and desired outcomes, and make efficient use of resources; and
   (f) a local authority should undertake any commercial transactions in accordance with sound business practices; and
+  (fa) a local authority should periodically—
+    (i) assess the expected returns to the authority from investing in, or undertaking, a commercial activity; and
+    (ii) satisfy itself that the expected returns are likely to outweigh the risks inherent in the investment or activity; and
   (g) a local authority should ensure prudent stewardship and the efficient and effective use of its resources in the interests of its district or region; and
   (h) in taking a sustainable development approach, a local authority should take into account—
     (i) the social, economic, and cultural well-being of people and communities; and
@@ -274,11 +286,11 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (b) a regional council-controlled organisation proposes to undertake a significant new activity; and
   (c) in either case, 1 or more territorial authorities in the region of the regional council—
     (i) are already undertaking the significant new activity; or
-    (ii) have notified their intention to do so in their long-term council community plans or their annual plans.
+    (ii) have notified their intention to do so in their long-term plans or their annual plans.
 (2) When this section applies, the regional council—
   (a) must advise all the territorial authorities within its region and the Minister of the proposal and the reasons for it; and
-  (b) must include the proposal in its draft long-term council community plan.
-(3) A proposal included in a draft long-term council community plan must include—
+  (b) must include the proposal in its draft long-term plan.
+(3) A proposal included in a draft long-term plan must include—
   (a) the reasons for the proposal; and
   (b) the expected effects of the proposal on the activities of the territorial authorities within the region; and
   (c) the objections raised by those territorial authorities, if any.
@@ -299,7 +311,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
 (9) For the purposes of this section,—
   - **affected territorial authority** means a territorial authority—
     (a) the district of which is wholly or partly in the region of a regional council; and
-    (b) that undertakes, or has notified in its long-term council community plan or annual plan its intention to undertake, the significant new activity
+    (b) that undertakes, or has notified in its long-term plan or annual plan its intention to undertake, the significant new activity
   - **annual plan** —
     (a) means a report adopted under section 223D of the Local Government Act 1974; and
     (b) includes such a report that section 281 applies to
@@ -326,7 +338,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
     (ii) a delegation of the undertaking of responsibilities with the transferring local authority remaining responsible for the exercise of those responsibilities.
 (4) A local authority may not transfer a responsibility, or accept a transfer of a responsibility, unless—
   (a) it has—
-    (i) included the proposal in its annual plan or draft long-term council community plan; or
+    (i) included the proposal in its annual plan or draft long-term plan; or
     (ii) used the special consultative procedure; and
   (b) it has given prior notice to the Minister of the proposal.
 (5) From the time a transfer takes effect, the responsibilities and powers of the local authority receiving the transfer are extended as necessary to enable the local authority to undertake, exercise, and perform the transferred responsibilities.
@@ -665,7 +677,7 @@ This Part establishes—
 
 ### 56 Consultation required before council-controlled organisation established
 (1) A proposal to establish a council-controlled organisation must be adopted in accordance with the special consultative procedure before a local authority may establish or become a shareholder in the council-controlled organisation.
-(2) The consultation required in subsection (1) may be undertaken as part of another proposal or as part of a long-term council community plan.
+(2) The consultation required in subsection (1) may be undertaken as part of another proposal or as part of a long-term plan.
 
 **Directors**
 
@@ -707,7 +719,7 @@ A local authority must not lend money, or provide any other financial accommodat
 **Statements of intent**
 
 ### 64 Statements of intent for council-controlled organisations
-(1) A council-controlled organisation must have a statement of intent that complies with clause 9 of Schedule 8.
+(1) A council-controlled organisation must have a statement of intent that complies with clauses 9 and 10 of Schedule 8.
 (2)
 (3)
 (4) Schedule 8 applies to statements of intent of council-controlled organisations.
@@ -794,8 +806,8 @@ This Part—
   (b) states the obligations of local authorities in relation to the involvement of Māori in decision-making processes:
   (c) states the obligations of local authorities in relation to consultation with interested and affected persons:
   (d) sets out the nature and use of the special consultative procedure:
-  (e) sets out a process for identifying and reporting on community outcomes:
-  (f) prescribes the processes and general content of the long-term council community plan, the annual plan, and the annual report (all of which are prescribed in more detail in Schedule 10):
+  (e)
+  (f) prescribes the processes and general content of the long-term plan, the annual plan, and the annual report (all of which are prescribed in more detail in Schedule 10):
   (g) prescribes the obligations of local authorities in relation to financial management:
   (h) provides for borrowing by local authorities.
 
@@ -826,11 +838,7 @@ This Part—
 
 ### 78 Community views in relation to decisions
 (1) A local authority must, in the course of its decision-making process in relation to a matter, give consideration to the views and preferences of persons likely to be affected by, or to have an interest in, the matter.
-(2) That consideration must be given at—
-  (a) the stage at which the problems and objectives related to the matter are defined:
-  (b) the stage at which the options that may be reasonably practicable options of achieving an objective are identified:
-  (c) the stage at which reasonably practicable options are assessed and proposals developed:
-  (d) the stage at which proposals of the kind described in paragraph (c) are adopted.
+(2)
 (3) A local authority is not required by this section alone to undertake any consultation process or procedure.
 (4) This section is subject to section 79.
 
@@ -917,12 +925,12 @@ This Part—
   (a) applies except to the extent that this Act or any other enactment expressly provides otherwise; and
   (b) is for the avoidance of doubt.
 
-### 84 Special consultative procedure in relation to long-term council community plan
-(1) Where the special consultative procedure is used in relation to the adoption of a long-term council community plan under section 93, the statement of proposal referred to in section 83(1)(a) must include a draft of the long-term council community plan.
-(2) Where the special consultative procedure is used in relation to the amendment of a long-term council community plan under section 93, the statement of proposal referred to in section 83(1)(a)—
-  (a) must include a draft of the parts of the long-term council community plan that are proposed to be amended; and
-  (b) must be accompanied by a draft of any consequential amendments to the long-term council community plan that will be required if it is amended in the manner proposed.
-(3) Where a statement of proposal to which subsection (1) or subsection (2) applies relates to a proposal for the making of a decision to which section 97 applies, that statement of proposal must (unless the making of that decision was explicitly provided for in the long-term council community plan last adopted by the local authority) include—
+### 84 Special consultative procedure in relation to long-term plan
+(1) Where the special consultative procedure is used in relation to the adoption of a long-term plan under section 93, the statement of proposal referred to in section 83(1)(a) must include a draft of the long-term plan.
+(2) Where the special consultative procedure is used in relation to the amendment of a long-term plan under section 93, the statement of proposal referred to in section 83(1)(a)—
+  (a) must include a draft of the parts of the long-term plan that are proposed to be amended; and
+  (b) must be accompanied by a draft of any consequential amendments to the long-term plan that will be required if it is amended in the manner proposed.
+(3) Where a statement of proposal to which subsection (1) or subsection (2) applies relates to a proposal for the making of a decision to which section 97 applies, that statement of proposal must (unless the making of that decision was explicitly provided for in the long-term plan last adopted by the local authority) include—
   (a) the details of the proposal; and
   (b) the reasons for the proposal; and
   (c) an analysis of the reasonably practicable options, including the proposal, identified under section 77(1); and
@@ -934,16 +942,16 @@ This Part—
     (ii) an assessment of whether there are any conflicts of interest arising from the proposal, and, if so, what they are and how they will be managed.
 (4) A statement of proposal to which subsection (1) or subsection (2) applies must also contain a report from the local authority's auditor on—
   (a) the extent to which the statement complies with the requirements of this Act; and
-  (b) the quality of the information and assumptions underlying the forecast information provided in the statement; and
-  (c) the extent to which the forecast information and proposed performance measures will provide an appropriate framework for the meaningful assessment of the actual levels of service provision.
+  (b) the quality of the information and assumptions underlying the forecast information provided in the statement.
+  (c)
 (5) For the avoidance of doubt, the report under subsection (4) must not comment on the merits of any policy content of the statement.
 
 ### 85 Use of special consultative procedure in relation to annual plan
 (1) Where the special consultative procedure is used in relation to the adoption of an annual plan under section 95, the statement of proposal referred to in section 83(1)(a) must include a draft of the annual plan.
 (2) A statement of proposal to which subsection (1) applies must also include—
-  (a) the information that, under clause 2(2) of Schedule 10, is specified, in relation to the year to which the draft annual plan relates, in the long-term council community plan in relation to each group of activities; and
-  (b) the reasons why any information included in the draft annual plan departs from information specified, in relation to the year to which the draft annual plan relates, in the long-term council community plan; and
-  (c) if it is proposed that the making of an amendment to the long-term council community plan and the adoption of the annual plan should take place concurrently, the summary under section 89 in relation to the amendment.
+  (a) the information that, under clauses 3 to 5 of Schedule 10, is specified, in relation to the year to which the draft annual plan relates, in the long-term plan in relation to each group of activities; and
+  (b) the reasons why any information included in the draft annual plan departs from information specified, in relation to the year to which the draft annual plan relates, in the long-term plan; and
+  (c) if it is proposed that the making of an amendment to the long-term plan and the adoption of the annual plan should take place concurrently, the summary under section 89 in relation to the amendment.
 
 ### 86 Use of special consultative procedure in relation to making, amending, or revoking bylaws
 (1) This section applies to the following:
@@ -970,19 +978,7 @@ This Part—
   (c) any other information that the local authority identifies as relevant.
 
 ### 88 Use of special consultative procedure in relation to change of mode of delivery of significant activity
-(1) A local authority must use the special consultative procedure in relation to any proposal for an alteration (of the kind described in subsection (2)) in the mode by which a significant activity is undertaken by or on behalf of the local authority.
-(2) The kind of alteration to which subsection (1) refers is an alteration that involves—
-  (a) a change from delivery of the activity by the local authority itself to delivery of the activity by a council-controlled organisation in which the local authority is a shareholder; or
-  (b) a change from delivery of the activity by the local authority itself to delivery of the activity by another organisation or person; or
-  (c) a change from delivery of the activity by a council-controlled organisation in which the local authority is a shareholder to delivery of the activity by another organisation or person.
-(3) This section does not apply if—
-  (a) the proposed decision on the proposal is explicitly provided for in the council's long-term council community plan; and
-  (b) the proposal to provide for the decision was included in a statement of proposal under section 84.
-(4) In the case of any proposal to which this section applies, the statement of proposal referred to in section 83(1)(a) is—
-  (a) a detailed statement of the proposal; and
-  (b) a statement of the reasons for the proposal; and
-  (c) an analysis of the reasonably practicable options, including the proposal, identified under section 77(1); and
-  (d) any other information that the local authority identifies as relevant.
+[Repealed]
 
 ### 89 Summary of information
 A summary of the information contained in a statement of proposal must—
@@ -1005,58 +1001,46 @@ A summary of the information contained in a statement of proposal must—
 **Community outcomes**
 
 ### 91 Process for identifying community outcomes
-(1) A local authority must, not less than once every 6 years, carry out a process to identify community outcomes for the intermediate and long-term future of its district or region.
-(2) The purposes of the identification of community outcomes are—
-  (a) to provide opportunities for communities to discuss their desired outcomes in terms of the present and future social, economic, environmental, and cultural well-being of the community; and
-  (b) to allow communities to discuss the relative importance and priorities of identified outcomes to the present and future social, economic, environmental, and cultural well-being of the community; and
-  (c) to provide scope to measure progress towards the achievement of community outcomes; and
-  (d) to promote the better co-ordination and application of community resources; and
-  (e) to inform and guide the setting of priorities in relation to the activities of the local authority and other organisations.
-(3) A local authority may decide for itself the process that it is to use to facilitate the identification of community outcomes under subsection (1), but the local authority—
-  (a) must, before finally deciding on that process, take steps—
-    (i) to identify, so far as practicable, other organisations and groups capable of influencing either the identification or the promotion of community outcomes; and
-    (ii) to secure, if practicable, the agreement of those organisations and groups to the process and to the relationship of the process to any existing and related plans; and
-  (b) must ensure that the process encourages the public to contribute to the identification of community outcomes.
+[Repealed]
 
 ### 92 Obligation to report against community outcomes
-(1) A local authority must monitor and, not less than once every 3 years, report on the progress made by the community of its district or region in achieving the community outcomes for the district or region.
-(2) A local authority may decide for itself how it is to monitor and report under subsection (1), but the local authority must seek to secure the agreement of organisations and groups identified under section 91(3)(a) to the monitoring and reporting procedures, including the incorporation of any research, monitoring, or reporting undertaken by those organisations and groups.
+[Repealed]
 
 **Planning**
 
-### 93 Long-term council community plan
-(1) A local authority must, at all times, have a long-term council community plan under this section.
-(2) A local authority must use the special consultative procedure in adopting a long-term council community plan.
-(3) A long-term council community plan must be adopted before the commencement of the first year to which it relates, and continues in force until the close of the third consecutive year to which it relates.
-(4) A local authority may amend a long-term council community plan at any time.
-(5) A local authority must use the special consultative procedure in making any amendment to a long-term council community plan.
-(6) The purpose of a long-term council community plan is to—
+### 93 Long-term plan
+(1) A local authority must, at all times, have a long-term plan under this section.
+(2) A local authority must use the special consultative procedure in adopting a long-term plan.
+(3) A long-term plan must be adopted before the commencement of the first year to which it relates, and continues in force until the close of the third consecutive year to which it relates.
+(4) A local authority may amend a long-term plan at any time.
+(5) A local authority must use the special consultative procedure in making any amendment to a long-term plan.
+(6) The purpose of a long-term plan is to—
   (a) describe the activities of the local authority; and
   (b) describe the community outcomes of the local authority's district or region; and
   (c) provide integrated decision-making and co-ordination of the resources of the local authority; and
   (d) provide a long-term focus for the decisions and activities of the local authority; and
   (e) provide a basis for accountability of the local authority to the community; and
   (f) provide an opportunity for participation by the public in decision-making processes on activities to be undertaken by the local authority.
-(7) A long-term council community plan adopted under this section must—
+(7) A long-term plan adopted under this section must—
   (a) cover a period of not less than 10 consecutive financial years; and
   (b) include the information required by Part 1 of Schedule 10.
-(8) A local authority must, in complying with the requirements of this Act in relation to the preparation and adoption of a long-term council community plan, act in such manner, and include in that plan such detail, as the local authority considers on reasonable grounds to be appropriate.
+(8) A local authority must, in complying with the requirements of this Act in relation to the preparation and adoption of a long-term plan, act in such manner, and include in that plan such detail, as the local authority considers on reasonable grounds to be appropriate.
 (9) A local authority must, in deciding what is appropriate for the purposes of subsection (8), have regard to—
   (a) the provisions of sections 77, 78, 79, 80, 81, 82, 83, 84, 96, 97, and 101; and
   (b) the significance of any matter; and
   (c) the extent of the local authority's resources.
-(10) A local authority must, within 1 month after the adoption of its long-term council community plan,—
-  (a) make its long-term council community plan publicly available; and
+(10) A local authority must, within 1 month after the adoption of its long-term plan,—
+  (a) make its long-term plan publicly available; and
   (b) send copies of that plan to—
     (i) the Secretary; and
     (ii) the Auditor-General; and
     (iii) the Parliamentary Library.
 
-### 94 Audit of long-term council community plan
-(1) The long-term council community plan must contain a report from the local authority's auditor on—
+### 94 Audit of long-term plan
+(1) The long-term plan must contain a report from the local authority's auditor on—
   (a) the extent to which the local authority has complied with the requirements of this Act in respect of the plan; and
-  (b) the quality of the information and assumptions underlying the forecast information provided in the plan; and
-  (c) the extent to which the forecast information and performance measures provide an appropriate framework for the meaningful assessment of the actual levels of service provision.
+  (b) the quality of the information and assumptions underlying the forecast information provided in the plan.
+  (c)
 (2) A report under subsection (1) may be in the form of confirmation or amendment of the report made by the auditor under section 84(4).
 (3) For the avoidance of doubt, a report under subsection (1) must not comment on the merits of any policy content of the plan.
 
@@ -1064,16 +1048,16 @@ A summary of the information contained in a statement of proposal must—
 (1) A local authority must prepare and adopt an annual plan for each financial year.
 (2) A local authority must use the special consultative procedure in adopting an annual plan.
 (3) An annual plan must be adopted before the commencement of the year to which it relates.
-(4) Despite subsection (1), for the first year to which a long-term council community plan under section 93 relates, the financial statement and funding impact statement included in that long-term council community plan in relation to that year must be regarded as the annual plan adopted by the local authority for that year.
+(4) Despite subsection (1), for the first year to which a long-term plan under section 93 relates, the financial statement and funding impact statement included in that long-term plan in relation to that year must be regarded as the annual plan adopted by the local authority for that year.
 (5) The purpose of an annual plan is to—
   (a) contain the proposed annual budget and funding impact statement for the year to which the annual plan relates; and
-  (b) identify any variation from the financial statements and funding impact statement included in the local authority's long-term council community plan in respect of the year; and
-  (c) support the long-term council community plan in providing integrated decision-making and co-ordination of the resources of the local authority; and
+  (b) identify any variation from the financial statements and funding impact statement included in the local authority's long-term plan in respect of the year; and
+  (c) support the long-term plan in providing integrated decision-making and co-ordination of the resources of the local authority; and
   (d) contribute to the accountability of the local authority to the community; and
   (e) extend opportunities for participation by the public in decision-making processes relating to the costs and funding of activities to be undertaken by the local authority.
 (6) Each annual plan adopted under this section must—
-  (a) be prepared in accordance with the principles and procedures that apply to the preparation of the financial statements and funding impact statement included in the long-term council community plan; and
-  (b) contain appropriate references to the long-term council community plan in which the local authority's activities for the financial year covered by the annual plan are set out; and
+  (a) be prepared in accordance with the principles and procedures that apply to the preparation of the financial statements and funding impact statement included in the long-term plan; and
+  (b) contain appropriate references to the long-term plan in which the local authority's activities for the financial year covered by the annual plan are set out; and
   (c) include the information required by Part 2 of Schedule 10.
 (7) A local authority must, within 1 month after the adoption of its annual plan,—
   (a) make its annual plan publicly available; and
@@ -1082,21 +1066,21 @@ A summary of the information contained in a statement of proposal must—
     (ii) the Auditor-General; and
     (iii) the Parliamentary Library.
 
-### 96 Effect of resolution adopting long-term council community plan or annual plan
-(1) The effect of a long-term council community plan and an annual plan adopted by a local authority is to provide a formal and public statement of the local authority's intentions in relation to the matters covered by the plan.
-(2) A resolution to adopt a long-term council community plan or an annual plan does not constitute a decision to act on any specific matter included within the plan.
-(3) Subject to section 80, and except as provided in section 97, a local authority may make decisions that are inconsistent with the contents of any long-term council community plan or annual plan.
-(4) No person is entitled to require a local authority to implement the provisions of a long-term council community plan or an annual plan.
+### 96 Effect of resolution adopting long-term plan or annual plan
+(1) The effect of a long-term plan and an annual plan adopted by a local authority is to provide a formal and public statement of the local authority's intentions in relation to the matters covered by the plan.
+(2) A resolution to adopt a long-term plan or an annual plan does not constitute a decision to act on any specific matter included within the plan.
+(3) Subject to section 80, and except as provided in section 97, a local authority may make decisions that are inconsistent with the contents of any long-term plan or annual plan.
+(4) No person is entitled to require a local authority to implement the provisions of a long-term plan or an annual plan.
 (5) This section applies subject to Part 4A of the Local Government (Rating) Act 2002.
 
-### 97 Certain decisions to be taken only if provided for in long-term council community plan
+### 97 Certain decisions to be taken only if provided for in long-term plan
 (1) This section applies to the following decisions of a local authority:
   (a) a decision to alter significantly the intended level of service provision for any significant activity undertaken by or on behalf of the local authority, including a decision to commence or cease any such activity:
-  (b) a decision to transfer the ownership or control of a strategic asset to or from the local authority:
-  (c) a decision to construct, replace, or abandon a strategic asset:
-  (d) a decision that will, directly or indirectly, significantly affect the capacity of the local authority, or the cost to the local authority, in relation to any activity identified in the long-term council community plan.
+  (b) a decision to transfer the ownership or control of a strategic asset to or from the local authority.
+  (c)
+  (d)
 (2) A local authority must not make a decision to which this section relates unless—
-  (a) the decision is explicitly provided for in its long-term council community plan; and
+  (a) the decision is explicitly provided for in its long-term plan; and
   (b) the proposal to provide for the decision was included in a statement of proposal prepared under section 84.
 (3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with section 117B(3)(c)(i) of the Local Government (Rating) Act 2002.
 
@@ -1105,7 +1089,7 @@ A summary of the information contained in a statement of proposal must—
 ### 98 Annual report
 (1) A local authority must prepare and adopt in respect of each financial year an annual report containing in respect of that year the information required by Part 3 of Schedule 10.
 (2) The purposes of an annual report are—
-  (a) to compare the actual activities and the actual performance of the local authority in the year with the intended activities and the intended level of performance as set out in respect of the year in the long-term council community plan and the annual plan; and
+  (a) to compare the actual activities and the actual performance of the local authority in the year with the intended activities and the intended level of performance as set out in respect of the year in the long-term plan and the annual plan; and
   (b) to promote the local authority's accountability to the community for the decisions made throughout the year by the local authority.
 (3) Each annual report must be completed and adopted, by resolution, within 4 months after the end of the financial year to which it relates.
 (4) A local authority must, within 1 month after the adoption of its annual report, make publicly available—
@@ -1119,8 +1103,10 @@ A summary of the information contained in a statement of proposal must—
 
 ### 99 Audit of information in annual report and summary
 (1) In addition to the information required by Part 3 of Schedule 10, the annual report must contain the auditor's report on—
-  (a) the financial statements referred to in clause 17 of Schedule 10; and
-  (b) the local authority's compliance with the requirements of Schedule 10 that are applicable to the annual report.
+  (a) the financial statements referred to in clause 29 of Schedule 10; and
+  (b) the statement about budgeted and actual capital expenditure referred to in clause 24 of Schedule 10; and
+  (c) the funding impact statement referred to in clause 30 of Schedule 10; and
+  (d) the local authority's compliance with the requirements of Schedule 10 that are applicable to the annual report.
 (2) In addition to the information required by section 98(5), the summary required by section 98(4)(b) must contain the auditor's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 
 ### Subpart 3 — Financial management
@@ -1128,14 +1114,14 @@ A summary of the information contained in a statement of proposal must—
 ### 100 Balanced budget requirement
 (1) A local authority must ensure that each year's projected operating revenues are set at a level sufficient to meet that year's projected operating expenses.
 (2) Despite subsection (1), a local authority may set projected operating revenues at a different level from that required by that subsection if the local authority resolves that it is financially prudent to do so, having regard to—
-  (a) the estimated expenses of achieving and maintaining the predicted levels of service provision set out in the long-term council community plan, including the estimated expenses associated with maintaining the service capacity and integrity of assets throughout their useful life; and
+  (a) the estimated expenses of achieving and maintaining the predicted levels of service provision set out in the long-term plan, including the estimated expenses associated with maintaining the service capacity and integrity of assets throughout their useful life; and
   (b) the projected revenue available to fund the estimated expenses associated with maintaining the service capacity and integrity of assets throughout their useful life; and
   (c) the equitable allocation of responsibility for funding the provision and maintenance of assets and facilities throughout their useful life; and
   (d) the funding and financial policies adopted under section 102.
 
 ### 101 Financial management
 (1) A local authority must manage its revenues, expenses, assets, liabilities, investments, and general financial dealings prudently and in a manner that promotes the current and future interests of the community.
-(2) A local authority must make adequate and effective provision in its long-term council community plan and in its annual plan (where applicable) to meet the expenditure needs of the local authority identified in that long-term council community plan and annual plan.
+(2) A local authority must make adequate and effective provision in its long-term plan and in its annual plan (where applicable) to meet the expenditure needs of the local authority identified in that long-term plan and annual plan.
 (3) The funding needs of the local authority must be met from those sources that the local authority determines to be appropriate, following consideration of,—
   (a) in relation to each activity to be funded,—
     (i) the community outcomes to which the activity primarily contributes; and
@@ -1145,24 +1131,42 @@ A summary of the information contained in a statement of proposal must—
     (v) the costs and benefits, including consequences for transparency and accountability, of funding the activity distinctly from other activities; and
   (b) the overall impact of any allocation of liability for revenue needs on the current and future social, economic, environmental, and cultural well-being of the community.
 
+### 101A Financial strategy
+(1) A local authority must, as part of its long-term plan, prepare and adopt a financial strategy for all of the consecutive financial years covered by the long-term plan.
+(2) The purpose of the financial strategy is to facilitate—
+  (a) prudent financial management by the local authority by providing a guide for the local authority to consider proposals for funding and expenditure against; and
+  (b) consultation on the local authority's proposals for funding and expenditure by making transparent the overall effects of those proposals on the local authority's services, rates, debt, and investments.
+(3) The financial strategy adopted under this section must—
+  (a) include a statement of the factors that are expected to have a significant impact on the local authority during the consecutive financial years covered by the strategy, including—
+    (i) the expected changes in population and the use of land in the district or region, and the capital and operating costs of providing for those changes; and
+    (ii) the expected capital expenditure on network infrastructure, flood protection, and flood control works that is required to maintain existing levels of service currently provided by the local authority; and
+    (iii) other significant factors affecting the local authority's ability to maintain existing levels of service and to meet additional demands for services; and
+  (b) include a statement of the local authority's—
+    (i) quantified limits on rates, rate increases, and borrowing; and
+    (ii) assessment of its ability to provide and maintain existing levels of service and to meet additional demands for services within those limits; and
+  (c) specify the local authority's policy on the giving of securities for its borrowing; and
+  (d) specify the local authority's objectives for holding and managing financial investments and equity securities and its quantified targets for returns on those investments and equity securities.
+
 ### 102 Funding and financial policies
-(1) A local authority must, in order to provide predictability and certainty about sources and levels of funding, adopt the funding and financial policies described in subsection (4).
-(2) A local authority must, subject to subsection (3), use the special consultative procedure in adopting a policy under this section.
-(3) A policy under this section may be adopted by a local authority as part of its long-term council community plan.
-(4) A local authority must adopt—
+(1) A local authority must, in order to provide predictability and certainty about sources and levels of funding, adopt the funding and financial policies listed in subsection (2).
+(2) The policies are—
   (a) a revenue and financing policy; and
   (b) a liability management policy; and
   (c) an investment policy; and
   (d) a policy on development contributions or financial contributions; and
-  (e) a policy on partnerships between the local authority and the private sector; and
-  (f) a policy on the remission and postponement of rates on Māori freehold land.
-(5) A local authority may adopt all or any of the following policies:
+  (e) a policy on the remission and postponement of rates on Māori freehold land.
+(3) A local authority may adopt either or both of the following policies:
   (a) a rates remission policy:
   (b) a rates postponement policy.
-(6) A policy described in this section may be amended only as an amendment to the long-term council community plan.
+(4) A local authority—
+  (a) must use the special consultative procedure in adopting a policy under this section:
+  (b) may amend a policy adopted under this section at any time using the special consultative procedure.
+(5) However, subsection (4) does not apply to—
+  (a) a liability management policy:
+  (b) an investment policy.
 
 ### 103 Revenue and financing policy
-(1) A policy adopted under section 102(4)(a) must state—
+(1) A policy adopted under section 102(1) must state—
   (a) the local authority's policies in respect of the funding of operating expenses from the sources listed in subsection (2); and
   (b) the local authority's policies in respect of the funding of capital expenditure from the sources listed in subsection (2).
 (2) The sources referred to in subsection (1) are as follows:
@@ -1180,20 +1184,21 @@ A summary of the information contained in a statement of proposal must—
   (h) financial contributions under the Resource Management Act 1991:
   (i) grants and subsidies:
   (j) any other source.
-(3) A policy adopted under section 102(4)(a) must also show how the local authority has, in relation to the sources of funding identified in the policy, complied with section 101(3).
+(3) A policy adopted under section 102(1) must also show how the local authority has, in relation to the sources of funding identified in the policy, complied with section 101(3).
+(4) If a local authority amends its revenue and financing policy under section 93(4), only a significant amendment to the policy is required to be audited in accordance with sections 84(4) and 94(1).
 
 ### 104 Liability management policy
-A policy adopted under section 102(4)(b) must state the local authority's policies in respect of the management of both borrowing and other liabilities, including—
+A policy adopted under section 102(1) must state the local authority's policies in respect of the management of both borrowing and other liabilities, including—
   (a) interest rate exposure; and
   (b) liquidity; and
   (c) credit exposure; and
-  (d) debt repayment; and
-  (e) specific borrowing limits; and
-  (f) the giving of securities.
+  (d) debt repayment.
+  (e)
+  (f)
 
 ### 105 Investment policy
-A policy adopted under section 102(4)(c) must state the local authority's policies in respect of investments, including—
-  (a) the objectives in terms of which financial and equity investments are to be managed; and
+A policy adopted under section 102(1) must state the local authority's policies in respect of investments, including—
+  (a)
   (b) the mix of investments; and
   (c) the acquisition of new investments; and
   (d) an outline of the procedures by which investments are managed and reported on to the local authority; and
@@ -1201,8 +1206,8 @@ A policy adopted under section 102(4)(c) must state the local authority's polici
 
 ### 106 Policy on development contributions or financial contributions
 (1) In this section, financial contributions has the meaning given to it by section 108(9) of the Resource Management Act 1991.
-(2) A policy adopted under section 102(4)(d) must, in relation to the purposes for which development contributions or financial contributions may be required,—
-  (a) summarise and explain the capital expenditure identified in the long-term council community plan that the local authority expects to incur to meet the increased demand for community facilities resulting from growth; and
+(2) A policy adopted under section 102(1) must, in relation to the purposes for which development contributions or financial contributions may be required,—
+  (a) summarise and explain the capital expenditure identified in the long-term plan that the local authority expects to incur to meet the increased demand for community facilities resulting from growth; and
   (b) state the proportion of that capital expenditure that will be funded by—
     (i) development contributions:
     (ii) financial contributions:
@@ -1216,50 +1221,46 @@ A policy adopted under section 102(4)(c) must state the local authority's polici
 (5) The places within its district or region at which the local authority must keep the information specified in subsections (3) and (4) available for public inspection are—
   (a) the principal public office of the local authority; and
   (b) such other places within its district or region as the local authority considers necessary in order to provide members of the public with reasonable access to the methodology, provisions, or plan.
+(6) A policy adopted under section 102(1) must be reviewed at least once every 3 years using the special consultative procedure.
 
 ### 107 Policy on partnerships with private sector
-(1) A policy adopted under section 102(4)(e)—
-  (a) must state the local authority's policies in respect of the commitment of local authority resources to partnerships between the local authority and the private sector; and
-  (b) must include—
-    (i) the circumstances (if any) in which the local authority will provide funding or other resources to any form of partnership with the private sector, whether by way of grant, loan, or investment, or by way of acting as a guarantor for any such partnership; and
-    (ii) what consultation the local authority will undertake in respect of any proposal to provide funding or other resources to any form of partnership with the private sector; and
-    (iii) what conditions, if any, the local authority will impose before providing funding or other resources to any form of partnership with the private sector; and
-    (iv) an outline of how risks associated with any such provision of funding or other resources are assessed and managed; and
-    (v) an outline of the procedures by which any such provision of funding or other resources will be monitored and reported on to the local authority; and
-    (vi) an outline of how the local authority will assess, monitor, and report on the extent to which community outcomes are furthered by any provision of funding or other resources or a partnership with the private sector.
-(2) In this section, partnership with the private sector means any arrangement or agreement that is entered into between 1 or more local authorities and 1 or more persons engaged in business; but does not include—
-  (a) any such arrangement or agreement to which the only parties are—
-    (i) local authorities; or
-    (ii) 1 or more local authorities and 1 or more council-controlled organisations; or
-  (b) a contract for the supply of any goods or services to, by, or on behalf of, a local authority.
+[Repealed]
 
 ### 108 Policy on remission and postponement of rates on Māori freehold land
-(1) If a policy adopted under section 102(4)(f) provides for the remission of rates on Māori freehold land, the policy must state—
+(1) If a policy adopted under section 102(1) provides for the remission of rates on Māori freehold land, the policy must state—
   (a) the objectives sought to be achieved by the remission of rates; and
   (b) the conditions and criteria to be met in order for rates to be remitted.
-(2) If a policy adopted under section 102(4)(f) provides for the postponement of the requirement to pay rates on Māori freehold land, the policy must state—
+(2) If a policy adopted under section 102(1) provides for the postponement of the requirement to pay rates on Māori freehold land, the policy must state—
   (a) the objectives sought to be achieved by a postponement of the requirement to pay rates; and
   (b) the conditions and criteria to be met in order for the requirement to pay rates to be postponed.
-(3) For the avoidance of doubt, a policy adopted under section 102(4)(f) is not required to provide for the remission of, or postponement of the requirement to pay, rates on Māori freehold land.
-(4) In determining a policy under section 102(4)(f), the local authority must consider the matters set out in Schedule 11.
+(3) For the avoidance of doubt, a policy adopted under section 102(1) is not required to provide for the remission of, or postponement of the requirement to pay, rates on Māori freehold land.
+(4) In determining a policy under section 102(1), the local authority must consider the matters set out in Schedule 11.
+(4A) A policy adopted under section 102(1) must be reviewed at least once every 6 years using the special consultative procedure.
 (5) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
 ### 109 Rates remission policy
-(1) A policy adopted under section 102(5)(a) must state—
+(1) A policy adopted under section 102(3)(a) must state—
   (a) the objectives sought to be achieved by the remission of rates; and
   (b) the conditions and criteria to be met in order for rates to be remitted.
-(2) In determining a policy under section 102(5)(a), the local authority may consider the matters set out in Schedule 11.
+(2) In determining a policy under section 102(3)(a), the local authority may consider the matters set out in Schedule 11.
+(2A) If a policy is adopted under section 102(3)(a), the policy—
+  (a) must be reviewed at least once every 6 years using the special consultative procedure; and
+  (b) may be revoked following the review under paragraph (a).
 (3) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
 ### 110 Rates postponement policy
-(1) A policy adopted under section 102(5)(b) must state—
+(1) A policy adopted under section 102(3)(b) must state—
   (a) the objectives sought to be achieved by a postponement of the requirement to pay rates; and
   (b) the conditions and criteria to be met in order for the requirement to pay rates to be postponed.
-(2) In determining a policy under section 102(5)(b), the local authority may consider the matters set out in Schedule 11.
+(2) In determining a policy under section 102(3)(b), the local authority may consider the matters set out in Schedule 11.
+(2A) If a policy is adopted under section 102(3)(b), the policy—
+  (a) must be reviewed at least once every 6 years using the special consultative procedure; and
+  (b) may be revoked following the review under paragraph (a).
 (3) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
 ### 111 Information to be prepared in accordance with generally accepted accounting practice
-All information that is required by any provision of this Part or of Schedule 10 to be included in any plan, report, or other document must be prepared in accordance with generally accepted accounting practice if that information is of a form or nature for which generally accepted accounting practice has developed standards.
+(1) All information that is required by any provision of this Part or of Schedule 10 to be included in any plan, report, or other document must be prepared in accordance with generally accepted accounting practice if that information is of a form or nature for which generally accepted accounting practice has developed standards.
+(2) Subsection (1) does not apply to the preparation of a funding impact statement.
 
 ### Subpart 4 — Borrowing and security
 
@@ -1379,65 +1380,23 @@ In this Part,—
   - **water supply** means the provision of drinking water to communities by network reticulation to the point of supply of each dwellinghouse and commercial premise to which drinking water is supplied.
 
 ### 125 Requirement to assess water and other sanitary services
-(1) A territorial authority must, from time to time, in accordance with sections 126 and 127, assess the provision within its district of—
+(1) A territorial authority must, from time to time, assess the provision within its district of—
   (a) water services; and
   (b) other sanitary services.
 (2) One type of service may be assessed in conjunction with another type of service.
-(3) An assessment may be included in the territorial authority's long-term council community plan, but, if it is not, the territorial authority must adopt the assessment using the special consultative procedure.
+(3) An assessment may be included in the territorial authority's long-term plan, but, if it is not, the territorial authority must adopt the assessment using the special consultative procedure.
 
 ### 126 Information required in assessment of water services
-(1) An assessment of water services must contain the following information:
-  (a) a description of the means by which—
-    (i) drinking water is obtained by residents of, and communities within, the district, including the extent to which—
-      (A) water supply is provided within the district by the territorial authority and any other person; and
-      (B) the water is potable; and
-    (ii) sewage is disposed of within the district, including the extent to which reticulated sewerage and sewage treatment services are provided within the district by the territorial authority and any other person; and
-    (iii) stormwater is disposed of within the district, including the extent to which drainage works are provided within the district by the territorial authority and any other person; and
-  (b) an assessment of any risks to the community relating to the absence in any area of either a water supply or a reticulated wastewater service or both; and
-  (c) an assessment of—
-    (i) the quality and adequacy of supply of drinking water available within the district for each community; and
-    (ii) the quality and quantity of wastewater discharged from reticulated sewerage or a sewage treatment system; and
-  (d) a statement of current and estimated future demands for water services within its district and a statement of any issues relating to—
-    (i) the quality and adequacy of supply of drinking water for each community; and
-    (ii) the health and environmental impacts of discharges of stormwater and sewage (whether treated or untreated) arising from the current and future demands; and
-  (e) a statement of the options available to meet the current and future demands identified under paragraph (d) and assessment of the suitability of each option for the district and for each community within it; and
-  (f) a statement of the territorial authority's intended role in meeting the current and future demands identified under paragraph (d); and
-  (g) the territorial authority's proposals for meeting the current and future demands identified under paragraph (d), including proposals for any new or replacement infrastructure.
-(2) In this section, potable water means water suitable for use by humans as drinking water.
+[Repealed]
 
 ### 127 Information required in assessment of sanitary services
-An assessment of sanitary services must contain the following information:
-  (a) a description of the sanitary services provided within the district for each community in it; and
-  (b) a forecast of future demands for sanitary services within the district and each community in it; and
-  (c) a statement of the options available to meet the forecast demands and an assessment of the suitability of each option for the district and each community in it; and
-  (d) a statement of the territorial authority's intended role in meeting the forecast demands; and
-  (e) a statement of the territorial authority's proposals for meeting the forecast demands, including proposals for any new or replacement infrastructure; and
-  (f) a statement about the extent to which the proposals will ensure that public health is adequately protected.
+[Repealed]
 
 ### 128 Process for making assessments
-(1) In making an assessment under section 125, the territorial authority must—
-  (a) consult the appropriate Medical Officer of Health; and
-  (b) take into account the duties of the territorial authority under section 23 of the Health Act 1956.
-(2) In making an assessment of current and future demands for water services and options to meet those demands, a territorial authority must consider—
-  (a) the full range of options and their environmental and public health impacts, including (but not limited to)—
-    (i) on-site collection and disposal; and
-    (ii) grey water and stormwater reuse or recycling; and
-    (iii) demand-reduction strategies, including public education, information, promotion of appropriate technologies, pricing, and regulation; and
-    (iv) the full range of technologies available; and
-  (b) any comments by the Medical Officer of Health.
-(3) An assessment of sanitary services is not required to address matters that a territorial authority considers have been adequately addressed in—
-  (a) an assessment made under section 125; or
-  (b)
-(4) In this subpart, Medical Officer of Health has the meaning given to it in section 2(1) of the Health Act 1956.
+[Repealed]
 
 ### 129 Extent of information in assessments
-(1) Information is required under sections 126 and 127 to the extent that the territorial authority considers appropriate, having regard to—
-  (a) the significance of the information; and
-  (b) the costs of, and difficulty in, obtaining the information; and
-  (c) the extent of the territorial authority's resources; and
-  (d) the possibility that the territorial authority may be directed under the Health Act 1956 to provide the services referred to in those sections.
-(2) An assessment under section 125 must indicate whether and, if so, to what extent the matters referred to subsection (1)(b) and (c) have impacted materially on the completeness of the assessment.
-(3) In making an assessment under section 125, a territorial authority must use its best endeavours to make a full and balanced assessment.
+[Repealed]
 
 ### Subpart 2 — Obligations and restrictions relating to provision of water services
 
@@ -1452,7 +1411,7 @@ An assessment of sanitary services must contain the following information:
   (c) not lose control of, sell, or otherwise dispose of, the significant infrastructure necessary for providing water services in its region or district, unless, in doing so, it retains its capacity to meet its obligations:
   (d) not, in relation to a property to which it supplies water,—
     (i) restrict the water supply unless section 193 applies; or
-    (ii) stop the water supply unless section 194 applies.
+    (ii) stop the water supply unless section 69S of the Health Act 1956 applies.
 (4) This section—
   (a) does not prevent a local government organisation from transferring a water service to another local government organisation; and
   (b) does not override sections 131 to 137.
@@ -1503,11 +1462,12 @@ A local government organisation may only transfer a water service under section 
 **Contracting out of water services**
 
 ### 136 Contracts relating to provision of water services
-(1) Despite section 130(2), a local government organisation may enter into contracts for any aspect of the operation of all or part of a water service for a term not longer than 15 years.
-(2) If a local government organisation enters into a contract under subsection (1), it must retain control over all matters relating to—
-  (a) the pricing of water services; and
-  (b) the management of water services; and
-  (c) the development of policy related to the delivery of water services.
+(1) Despite section 130(2), a local government organisation may enter into contracts for any aspect of the operation of all or part of a water service for a term not longer than 35 years.
+(2) If a local government organisation enters into a contract under subsection (1), it must—
+  (a) continue to be legally responsible for providing the water services; and
+  (b) retain control over the following matters:
+    (i) the pricing of water services; and
+    (ii) the development of policy related to the delivery of water services.
 (3) This section does not limit contracts in relation to water services that are entered into solely between local government organisations.
 
 **Joint local government arrangements and joint arrangements with other entities**
@@ -1517,20 +1477,24 @@ A local government organisation may only transfer a water service under section 
   - **joint arrangement** means an arrangement entered into by 1 or more local government organisations with 1 or more bodies that are not local government organisations for the purpose of providing water services or any aspect of a water service
   - **joint local government arrangement** means an arrangement entered into by 2 or more local government organisations for the purpose of providing water services or any aspect of a water service.
 (2) Section 130(2) does not prevent a local government organisation from entering into, for the purpose of providing water services,—
-  (a) a joint arrangement for a term not longer than 15 years:
+  (a) a joint arrangement for a term not longer than 35 years (except a concession or other franchise agreement relating to the provision of the water services or any aspect of the water services):
   (b) a joint local government arrangement for any term.
 (3) However, before a local government organisation enters into a joint arrangement or joint local government arrangement, it must,—
   (a) in the case of a local government organisation that is a local authority, have undertaken consultation in accordance with the procedures set out in Part 6; and
-  (b) in the case of a local government organisation that is not a local authority, have undertaken consultation in accordance with the procedures set out in Part 6 as if it were a local authority; and
-  (c) in the case of a local government organisation that is a local authority, have regard (where relevant) to its policy under section 102(4)(e) (which relates to partnerships between the local authority and the private sector).
-(4) If a local government organisation enters into a joint arrangement under subsection (2)(a), it must retain—
-  (a) control over all matters relating to—
+  (b) in the case of a local government organisation that is not a local authority, have undertaken consultation in accordance with the procedures set out in Part 6 as if it were a local authority.
+  (c)
+(4) If a local government organisation enters into a joint arrangement under subsection (2)(a), it must—
+  (a) continue to be legally responsible for providing the water services; and
+  (b) retain control over the following matters:
     (i) the pricing of water services; and
-    (ii) the management of water services; and
-    (iii) the development of policy related to the delivery of water services; and
-  (b) throughout, and after the end of, the joint arrangement, ownership of all the infrastructure associated with the water service, whether that infrastructure was—
+    (ii) the development of policy related to water services; and
+  (c) after the end of the joint arrangement, retain ownership of all the infrastructure associated with the water service, whether or not the infrastructure was—
     (i) provided by the local government organisation at the beginning of the joint arrangement; or
-    (ii) developed or purchased during the joint arrangement.
+    (ii) developed or purchased during the joint arrangement; and
+  (d) not sell or transfer ownership of any existing infrastructure associated with the water service, unless the local government organisation reasonably believes that the sale is—
+    (i) incidental to the joint arrangement; and
+    (ii) desirable for the success of the joint arrangement.
+(5) In this section, concession or other franchise agreement means an agreement under which a person other than the local government organisation is entitled to receive a payment from any person other than the local government organisation for the supply of the water service.
 
 ### Subpart 3 — Restrictions on disposal of parks, reserves, and endowment properties
 
@@ -1589,11 +1553,7 @@ A local government organisation may only transfer a water service under section 
 ### 141 Conditions applying to sale or exchange of endowment property
 (1) A local authority must not exercise the power in section 140(4)(b) unless—
   (a) the proposed use of the proceeds of sale of the property, or of the property received in exchange, is consistent with the purpose of the endowment; and
-  (b) the local authority has first—
-    (i) included in its draft long-term council community plan a statement of—
-      (A) its intention to sell or exchange the property; and
-      (B) the use to which the proceeds of the sale or exchange will be put; and
-    (ii) adopted the long-term council community plan in accordance with the requirements of Part 6; and
+  (b)
   (c) in a case where the Crown was the donor of the property, the local authority has notified the Minister for Land Information and the Minister in Charge of Treaty of Waitangi Negotiations of the local authority's proposal to sell or exchange the endowment land; and
   (d) in other cases, the local authority has—
     (i) made a reasonable attempt to notify the donor of the property, or his or her successor, as the case may be, that the local authority intends to sell or exchange the property; and
@@ -2105,7 +2065,7 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 ### 186 Local authority may execute works if owner or occupier defaults
 (1) This section applies if an owner or occupier of private premises is required to execute, provide, or do any works, materials, or things on, or in connection with, any premises or other matter, and—
   (a) the owner or occupier, after notice requiring him or her to do so, defaults in commencing to comply within the time specified in the notice or, if no time is specified in the notice, within a reasonable time; or
-  (b) the work is certified in writing by an officer of the territorial authority to be urgent, and the contents of the certificate have been communicated to the owner or occupier, and the default is made for 24 hours after the time of the communication; and
+  (b) the work is certified in writing by an officer of the local authority to be urgent, and the contents of the certificate have been communicated to the owner or occupier, and the default is made for 24 hours after the time of the communication; and
   (c) in either case, the owner or occupier does not proceed with the work with all reasonable expedition.
 (2) The local authority may, if it thinks fit,—
   (a) itself execute, provide, or do the works, materials, and things; and
@@ -2114,7 +2074,7 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 (4) However, the person primarily liable under subsection (3) is the owner or occupier in default, as the case may be.
 (5) The local authority—
   (a) may destroy, sell, or otherwise dispose of any materials resulting from doing any work under this section; and
-  (b) must apply the proceeds of sale towards payment of the amount payable under subsection (1) and pay the surplus (if any) to the owner.
+  (b) must apply the proceeds of sale towards payment of the amount payable under subsection (2) and pay the surplus (if any) to the owner.
 (6) The exercise of powers under this section by the local authority does not relieve any person from any penalty for failing to comply with the requirements of a notice under this Act.
 (7) Any work done or to be done by the local authority under this section is a public work for the purposes of the Public Works Act 1981.
 
@@ -2200,13 +2160,13 @@ In this subpart and Schedule 13,—
     (a) any subdivision or other development that generates a demand for reserves, network infrastructure, or community infrastructure; but
     (b) does not include the pipes or lines of a network utility operator
   - **development contribution** means a contribution—
-    (a) provided for in a development contribution policy included in the long-term council community plan of a territorial authority; and
+    (a) provided for in a development contribution policy included in the long-term plan of a territorial authority; and
     (b) calculated in accordance with the methodology; and
     (c) comprising—
       (i) money; or
       (ii) land, including a reserve or esplanade reserve (other than in relation to a subdivision consent), but excluding Māori land within the meaning of Te Ture Whenua Maori Act 1993, unless that Act provides otherwise; or
       (iii) both
-  - **development contribution policy** means the policy on development contributions included in the long-term council community plan of the territorial authority under section 102(4)(d)
+  - **development contribution policy** means the policy on development contributions adopted under section 102(1)
   - **methodology** means the methodology for calculating development contributions set out in Schedule 13
   - **network infrastructure** means the provision of roads and other transport, water, wastewater, and stormwater collection and management
   - **network utility operator** has the meaning given to it by section 166 of the Resource Management Act 1991
@@ -2219,7 +2179,7 @@ In this subpart and Schedule 13,—
   (a) a resource consent is granted under the Resource Management Act 1991 for a development within its district:
   (b) a building consent is granted under the Building Act 2004 for building work situated in its district (whether by the territorial authority or a building consent authority):
   (c) an authorisation for a service connection is granted.
-(2) A territorial authority may only require a development contribution as provided for in a policy adopted under section 102(4)(d) that is consistent with section 201.
+(2) A territorial authority may only require a development contribution as provided for in a policy adopted under section 102(1) that is consistent with section 201.
 (3) A requirement for a development contribution under subsection (1)(a) or (1)(b) is not—
   (a) a condition of a resource consent that gives rise to any right of objection or appeal; or
   (b) as the case may be, a matter that gives rise to any right to apply to the chief executive for a determination under the Building Act 2004.
@@ -2248,7 +2208,7 @@ In this subpart and Schedule 13,—
 **Development contributions policy**
 
 ### 201 Contents of development contributions policy
-(1) If a territorial authority has determined to seek funding for community facilities under this subpart, the policy required by section 102(4)(d) must include, in summary form, in addition to the matters set out in section 106,—
+(1) If a territorial authority has determined to seek funding for community facilities under this subpart, the policy required by section 102(1) must include, in summary form, in addition to the matters set out in section 106,—
   (a) an explanation of, and justification for, the way each development contribution in the schedule required by subsection (2) is calculated; and
   (b) the significant assumptions underlying the calculation of the schedule of development contributions, including an estimate of the potential effects, if there is a significant level of uncertainty as to the scope and nature of the effects; and
   (c) the conditions and criteria (if any) that will apply in relation to the remission, postponement, or refund of development contributions, or the return of land; and
@@ -2545,7 +2505,7 @@ Every person commits an offence and is liable on summary conviction to the penal
   (a) prevents the following persons from carrying out their statutory functions or duties:
     (i) an enforcement officer; or
     (ii) a member of the Fire Service established under the Fire Service Act 1975; or
-    (iii) a person authorised or employed to carry out the provisions this Act; or
+    (iii) a person authorised or employed to carry out the provisions of this Act; or
   (b) obstructs or impedes a person—
     (i) from carrying out the provisions of this Act; or
     (ii) from exercising or attempting to exercise a power of entry conferred by this Act; or
@@ -2794,17 +2754,41 @@ If the Minister calls an election under section 255(1)(b) or Schedule 15,—
 (2) The Minister may, at the same time as appointing a Commissioner for Disaster Recovery or subsequently, appoint 1 or more persons to be Deputy Commissioners of Disaster Recovery.
 (3) Part 2 of Schedule 15 applies to every Commissioner for Disaster Recovery and every Deputy Commissioner for Disaster Recovery appointed under this Part.
 
-## Part 11 — Regulations and other Orders in Council
+## Part 11 — Regulations, other Orders in Council, and rules
+
+**Regulations**
 
 ### 259 Regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) prescribing breaches of bylaws that are infringement offences under this Act:
   (b) prescribing infringement fees (not exceeding $1,000) for infringement offences:
   (c) prescribing infringement notice forms:
   (d) prescribing forms to be used—
     (i) in polls on a reorganisation scheme:
     (ii) for any other matter for which forms are required under this Act:
+  (da) prescribing matters, not inconsistent with generally accepted accounting practice, that must be specified in a financial statement and the manner in which they must be specified:
+  (db) prescribing forms for the funding impact statements to be included in the long-term plan, annual plan, and annual report:
   (e) providing for such matters as are contemplated by, or necessary for giving full effect to, this Act and for its due administration.
+(2) Regulations made under subsection (1)(db) may specify in greater detail the information required to be included in a funding impact statement by Schedule 10.
+
+### 259A Levy to fund rules for performance measures
+(1) Regulations may be made under section 259 providing for the imposition and collection of a levy on local authorities.
+(2) The purpose of the levy is to recover all or part of the reasonable cost of making rules specifying performance measures.
+(3) Regulations made for the purpose of this section may—
+  (a) specify the categories of local authorities that are liable to pay the levy:
+  (b) prescribe the amount or method of calculation of the levy:
+  (c) prescribe different amounts or methods of calculation of the levy in relation to different categories of local authority:
+  (d) provide for the manner in which the levy is collected.
+(4) All levy money collected under this section must be paid into a Crown Bank Account.
+(5) Any levy—
+  (a) must be reasonable having regard to the expenses incurred or to be incurred by the Secretary in relation to the making of rules under section 261B; and
+  (b) is payable to the Secretary and recoverable in a court of competent jurisdiction as a debt due to the Secretary.
+(6) The Minister may recommend the making of regulations that impose a levy only if the Minister has first consulted the New Zealand Local Government Association Incorporated.
+
+### 259B Power to refund levy
+The Secretary may refund the whole or any part of the levy if the Secretary is satisfied that the amount of levy money collected exceeds the amount necessary to fulfil the purpose of the levy stated in section 259A(2).
+
+**Other Orders in Council**
 
 ### 260 Amendment of Schedule 2 by Order in Council
 (1) This section applies if—
@@ -2820,6 +2804,99 @@ The Governor-General may, by Order in Council, do 1 or more of the following:
   (b) validate an action, step, or procedure taken after the time required under or by this Act:
   (c) validate an irregularity of form in an action, step, or procedure required by or under this Act:
   (d) make provision for a situation for which sufficient provision is not made by or under this Act.
+
+**Rules for performance measures**
+
+### 261A Purpose of rules specifying performance measures
+The purpose of rules made under section 261B is to provide standard performance measures that are applicable to local authorities so that the public may compare the level of service provided in relation to a group of activities by different local authorities.
+
+### 261B Secretary must make rules specifying performance measures
+(1) The Secretary must, as soon as is reasonably practicable, make rules specifying performance measures in relation to the following groups of activities:
+  (a) water supply:
+  (b) sewerage and the treatment and disposal of sewage:
+  (c) stormwater drainage:
+  (d) flood protection and control works:
+  (e) the provision of roads and footpaths.
+(2) Before making a rule under subsection (1), the Secretary must—
+  (a) consider whether an existing performance measure is suitable for the purpose; and
+  (b) have regard to whether a performance measure—
+    (i) measures the level of service for a major aspect of the group of activities; and
+    (ii) addresses an aspect of the service that is of widespread interest in the communities to which a service in relation to the group of activities is provided; and
+    (iii) contributes to the effective and efficient management of the group of activities.
+(3) Before making a rule, the Secretary must—
+  (a) consult every local authority; and
+  (b) publish in the Gazette, and in all of the daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice of his or her intention to make the rule; and
+  (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal; and
+  (d) consult any other persons or groups as the Secretary considers appropriate.
+(4) The Secretary must—
+  (a) make copies of the rules available for purchase at a reasonable price; and
+  (b) make copies of the rules available free of charge, at all reasonable times, on an Internet site maintained by, or on behalf of, the Secretary; and
+  (c) give notice in the Gazette that—
+    (i) the rules have been made; and
+    (ii) copies of the rules may be purchased and the place at which they may be purchased; and
+    (iii) the rules are available on an Internet site, free of charge, and state the Internet site address.
+(5) A rule comes into force 28 days after the date of its notification in the Gazette or on such later date as may be specified in the rule.
+
+### 261C Status of rules
+A rule made under section 261B is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
+
+**Incorporation by reference**
+
+### 261D Incorporation of documents by reference in rules
+(1) The following written material may be incorporated by reference in a rule made under section 261B:
+  (a) standards, requirements, or recommended practices of international or national organisations:
+  (b) standards, requirements, or recommended practices prescribed in any country or jurisdiction:
+  (c) any other written material that deals with technical matters and that is too large or impractical to include in, or print as part of, the rule.
+(2) Material may be incorporated by reference in a rule—
+  (a) in whole or in part; and
+  (b) with modifications or additions specified in the rule.
+(3) Material incorporated by reference in a rule has legal effect as part of the rule.
+
+### 261E Proof of material incorporated by reference
+(1) A copy of material incorporated by reference in a rule, including any amendment to, or replacement of, the material, must be—
+  (a) certified by the Secretary as a correct copy of the material incorporated by reference; and
+  (b) retained by the Secretary.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence that the material is incorporated by reference in the rule.
+
+### 261F Effect of change to, or expiry of, material incorporated by reference
+(1) This section applies to—
+  (a) an amendment to, or a replacement of, material incorporated by reference in a rule:
+  (b) material incorporated by reference in a rule if the material expires, is revoked, or ceases to have effect.
+(2) The amendment or replacement has legal effect as part of the rule only if the rule is varied to state that the amendment or replacement has that effect.
+(3) The material described in subsection (1)(b) ceases to have legal effect as part of the rule only if the rule is varied to state that the material ceases to have effect.
+
+### 261G Consultation on proposal to incorporate material by reference
+(1) Before a rule is made under section 261B, the Secretary—
+  (a) must make copies of any material proposed to be incorporated by reference in the rule (or the proposed amendment to, or replacement of, material incorporated by reference in the rule) (the proposed material) available for inspection, free of charge, during working hours at the offices of the Secretary; and
+  (b) must make copies of the proposed material available for purchase at a reasonable price; and
+  (c) must make copies of the proposed material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+  (d) may make copies of the proposed material available in any way that the Secretary considers appropriate in the circumstances; and
+  (e) must give notice in the Gazette stating—
+    (i) that the proposed material is available for inspection during working hours and free of charge, the place at which it can be inspected, and the period during which it can be inspected; and
+    (ii) that copies of the proposed material can be purchased and the place at which they can be purchased; and
+    (iii) if applicable, that the proposed material is available on the Internet free of charge and the Internet site address; and
+  (f) must allow a reasonable opportunity for persons to comment on the proposal to incorporate the proposed material by reference; and
+  (g) must consider any comments made.
+(2) The reference in subsection (1) to any material proposed to be incorporated by reference in a rule includes, if the material is not in an official New Zealand language, an accurate translation of that material in an official New Zealand language.
+(3) A failure to comply with this section does not invalidate a rule that incorporates material by reference.
+
+### 261H Access to material incorporated by reference
+(1) The Secretary—
+  (a) must make the material referred to in subsection (2) available for inspection during working hours, free of charge, at the offices of the Secretary; and
+  (b) must make copies of the incorporated material available for purchase at a reasonable price; and
+  (c) must make copies of the incorporated material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+  (d) may make copies of the incorporated material available in any other way that the Secretary considers appropriate in the circumstances; and
+  (e) must give notice in the Gazette stating—
+    (i) that the material is incorporated in the rule and the date on which the rule was made; and
+    (ii) that the material is available for inspection during working hours free of charge and the place at which it can be inspected; and
+    (iii) that copies of the material can be purchased and the place at which they can be purchased; and
+    (iv) that the material is available on the Internet and free of charge, and the Internet site address; and
+    (v) if copies of the material are available under paragraph (d), how and where the copies may be obtained or accessed.
+(2) The material referred to in subsection (1) is—
+  (a) material incorporated by reference in the rule:
+  (b) any amendment to, or replacement of, that material that is incorporated in the rule or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
+  (c) if the material referred to in paragraph (a) is not in an official New Zealand language, as well as the material itself, an accurate translation of that material in an official New Zealand language.
+(3) A failure to comply with this section does not invalidate a rule that incorporates material by reference.
 
 ## Part 12 — Consequential amendments, repeals, revocations, transitional provisions, and savings
 
@@ -2888,44 +2965,16 @@ Every council-controlled organisation (other than one to which section 276 appli
 Every local authority that is in existence at the commencement of section 90 must, before the close of 30 June 2003, adopt under section 90(1) a policy on determining significance.
 
 ### 279 Long-term council community plan
-(1) A local authority in existence at the commencement of section 93 may adopt a long-term council community plan under section 93 either—
-  (a) for a period beginning on 1 July 2003; or
-  (b) for a period beginning on 1 July 2004.
-(2) A local authority to which subsection (1) applies may, in adopting a long-term council community plan for a period beginning on 1 July 2003 or 1 July 2004, use such information concerning community outcomes of the district or region as the local authority holds or can obtain in the time available and is not required, before adopting the plan, to first identify, under section 91, those outcomes.
-(3) A statement of proposal prepared under section 83(1)(a)(i) in relation to the adoption by a local authority, under the power conferred by subsection (1) of this section, of a long-term council community plan is not required to contain, in accordance with section 84(4), a report from the local authority's auditor.
-(4) A long-term council community plan that is, under the power conferred by subsection (1) of this section, adopted by a local authority is not required to contain,—
-  (a) in accordance with section 94, a report from the local authority's auditor; or
-  (b) in accordance with clause 3(1)(a) of Schedule 10, a summary of the last assessment which was made under section 125 by the local authority and which assessed the provision within its district of water services and sanitary services, if, at the time when the report is adopted, no such assessment has been made by the local authority; or
-  (c) in accordance with clause 3(1)(b) of Schedule 10, a summary of the waste management plan in force under section 539 of the Local Government Act 1974, if, at the time when the report is adopted, no such plan has been adopted by the local authority.
-(5) Subsections (3) and (4) also apply to amendments made to an adopted long-term council community plan to which subsection (1) applies.
+[Repealed]
 
-### 280 Long-term council community plan for period beginning on 1 July 2006
-Every local authority must adopt under section 93 a long-term council community plan for a period beginning on 1 July 2006.
+### 280 Long-term plan for period beginning on 1 July 2006
+Every local authority must adopt under section 93 a long-term plan for a period beginning on 1 July 2006.
 
 ### 281 Annual plan
-(1) If a local authority to which section 279(1) applies does not adopt a long-term council community plan for a period beginning on 1 July 2003, it must prepare and adopt a report under section 223D of the Local Government Act 1974 for the financial year beginning on 1 July 2003; and, subject to subsections (2) to (4), that section and Part 7A of that Act apply to that annual plan as if they had not been repealed by this Act.
-(2) If a report under section 223D of the Local Government Act 1974 is prepared pursuant to subsection (1) of this section, that report must include, instead of the information required by section 223D(3)(d) to (g) of that Act,—
-  (a) the funding and financial policies adopted by the local authority under section 102 of this Act; and
-  (b) the liability management policy adopted by the local authority under section 102(4)(b) of this Act; and
-  (c) the investment policy adopted by the local authority under section 102(4)(c) of this Act; and
-  (d) the policy adopted by the local authority under section 102(4)(e) of this Act on partnerships between the local authority and the private sector; and
-  (e) a summary of the policy adopted by the local authority under section 90 of this Act on determining significance; and
-  (f) a funding impact statement that complies with clause 13 of Schedule 10 of this Act; and
-  (g) if the long-term financial strategy adopted under section 122K of the Local Government Act 1974 by the local authority relates to a period commencing before 1 July 2001, an updated summary of that strategy.
-(3) For the avoidance of doubt,—
-  (a) sections 82 and 83 apply to the preparation and adoption, in accordance with subsection (1), of a report under section 223D of the Local Government Act 1974; and
-  (b) section 84 applies, with all necessary modifications, as if a report under section 223D of the Local Government Act 1974 were a long-term council community plan; but
-  (c) sections 85 and 95 do not apply to the preparation and adoption of any such report.
-(4) Subsection (1) does not authorise a local authority to prepare and adopt a long-term financial strategy relating to a period beginning on 1 July 2003.
-(5) This section applies to the Chatham Islands Council—
-  (a) as if, in subsections (1) to (3), for the words section 223D of the Local Government Act 1974 wherever they appear, there were substituted in each case the words section 10 of the Chatham Islands Council Act 1995; and
-  (b) as if, in subsection (1), for the words Part 7A of that Act, there were substituted the words Part 7A of the Local Government Act 1974; and
-  (c) as if, in subsection (2), for the expression section 223D(3)(d) to (g), there were substituted the expression section 10(3)(d).
+[Repealed]
 
 ### 282 Certain decisions to be taken only if provided for in annual plan or special consultative procedure used
-A local authority that has not adopted its first long-term council community plan must not, in any financial year, make a decision to which section 97 relates unless the decision is explicitly provided for—
-  (a) in the report adopted by the local authority for that financial year, whether under section 223D of the Local Government Act 1974 or under that section as applied by section 281 of this Act; or
-  (b) in a statement of proposal of the kind that the local authority would be required to prepare under section 84(3) of this Act if that local authority had a long-term council community plan and were proposing an amendment to it that explicitly provided for the decision and the local authority has, before making the decision, used the special consultative procedure in respect of the statement of proposal.
+[Repealed]
 
 ### 283 Annual reports
 (1) If a local authority has prepared and adopted a report under section 223D of the Local Government Act 1974 for any year, whether before or after the commencement of this section, the local authority must prepare an annual report under section 223E of that Act in respect of that year, and that section and Part 7A of that Act apply to that annual report as if they had not been repealed.
@@ -2937,7 +2986,7 @@ A local authority that has not adopted its first long-term council community pla
   (d) as if, in subsection (2), for the words section 223E of the Local Government Act 1974 there were substituted the words section 11 of the Chatham Islands Council Act 1995.
 
 ### 284 First annual plan
-A local authority in existence at the commencement of section 95 must prepare and adopt its first annual plan under section 95 for the second financial year to which its first long-term council community plan under section 93 relates.
+A local authority in existence at the commencement of section 95 must prepare and adopt its first annual plan under section 95 for the second financial year to which its first long-term plan under section 93 relates.
 
 ### 285 First assessment of water and sanitary services
 Every territorial authority must, not later than the close of 30 June 2005, make its first assessment under section 125 (which imposes a requirement to assess water and sanitary services).
@@ -2950,10 +2999,7 @@ If, at the commencement of this section, a territorial authority does not have i
 (2) A special consultative procedure commenced by a local authority under section 716A of the Local Government Act 1974 before the commencement of section 83 must be treated as complying with a requirement referred to in subsection (1) if the consultative procedure followed by the local authority was substantially in accordance with the requirements of section 83, whether or not that section was in force for any part of that procedure.
 
 ### 288 Decision-making processes commenced before enactment
-(1) This section applies to a decision of a local authority (other than a decision to which section 88 or section 97 applies) that—
-  (a) is made after the commencement of this section and before 1 July 2003; and
-  (b) is in respect of a particular matter or proposal that was first considered at a meeting of the local authority, or of a committee of the local authority, before the commencement of this section.
-(2) A decision to which this section applies must be made in accordance with section 76 to the extent that the local authority considers reasonable, having regard not only to the provisions of section 79 but also to the timing of the relevant decision-making processes.
+[Repealed]
 
 ### 289 Special orders
 (1) This section applies in relation to any power given to a local authority by the Local Government Act 1974 or any other Act to do anything by special order.
@@ -4502,10 +4548,10 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
 (1) Unless expressly provided otherwise in this Act, or in any other Act, for the purposes of efficiency and effectiveness in the conduct of a local authority's business, a local authority may delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority any of its responsibilities, duties, or powers except—
   (a) the power to make a rate; or
   (b) the power to make a bylaw; or
-  (c) the power to borrow money, or purchase or dispose of assets, other than in accordance with the long-term council community plan; or
-  (d) the power to adopt a long-term council community plan, annual plan, or annual report; or
+  (c) the power to borrow money, or purchase or dispose of assets, other than in accordance with the long-term plan; or
+  (d) the power to adopt a long-term plan, annual plan, or annual report; or
   (e) the power to appoint a chief executive; or
-  (f) the power to adopt policies required to be adopted and consulted on under this Act in association with the long-term council community plan or developed for the purpose of the local governance statement; or
+  (f) the power to adopt policies required to be adopted and consulted on under this Act in association with the long-term plan or developed for the purpose of the local governance statement; or
   (g)
 (2) Nothing in this clause restricts the power of a local authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to do anything precedent to the exercise by the local authority (after consultation with the committee or body or person) of any power or duty specified in subclause (1).
 (3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local authority or by the committee or body or person that makes the original delegation.
@@ -4591,7 +4637,7 @@ The local authority must, in making an appointment under section 42, have regard
 A territorial authority within whose district the community of a community board is situated must provide the necessary administrative and other facilities for that community board.
 
 ### 39 Expenses of community boards
-(1) The expenses of the performance and exercise by a community board of its responsibilities, duties, and powers must be paid by the territorial authority within whose district the community is situated out of the general revenues of the district.
+(1) The expenses of the performance and exercise by a community board of its responsibilities, duties, and powers must be paid by the territorial authority within whose district the community is situated.
 (2) The territorial authority may fix a limit within which expenditure may be incurred under subclause (1), and no community board may incur expenditure in excess of any limit so fixed without the prior approval of the territorial authority.
 (3) This clause does not apply in respect of any expenditure for which any rate has been made and levied within the community.
 
@@ -4652,6 +4698,17 @@ A failure by a council-controlled organisation to comply with any provision of t
   (b) the annual report of the local authority.
 (3) Any financial information, including (but not limited to) forecast financial information, must be prepared in accordance with generally accepted accounting practice.
 
+### 10 Additional content of statements of intent
+(1) This clause applies to a council-controlled organisation that provides services in relation to the following groups of activities:
+  (a) water supply:
+  (b) sewerage and the treatment and disposal of sewage:
+  (c) stormwater drainage:
+  (d) flood protection and control works:
+  (e) the provision of roads and footpaths.
+(2) The council-controlled organisation's statement of intent must, in relation to each group of activities described in subclause (1), include a statement of the intended levels of service provision that complies with clause 4(a) and (c) of Schedule 10 as if—
+  (a) the reference to a long-term plan were a reference to the statement of intent; and
+  (b) the reference to a local authority were a reference to a council-controlled organisation.
+
 ## Schedule 9 — Council-controlled organisations and transfer of undertakings
 
 ### 1 Transfer of leases, licences, etc, to council-controlled organisations
@@ -4686,109 +4743,128 @@ A transfer of liabilities in relation to an undertaking from a local authority t
 (3) Nothing in sections EE 40(1) to (3) and EZ 12 of the Income Tax Act 2007 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
 (4) For the purposes of the Goods and Services Tax Act 1985, a transfer of an undertaking from a local authority to a council-controlled organisation under this schedule is deemed to be a transfer of a part of a taxable activity as a going concern that is capable of separate operation.
 
-## Schedule 10 — Council plans and reports
+## Schedule 10 — Long-term plans, annual plans, and annual reports
+
+### Part 1 — Information to be included in long-term plans
 
 ### 1 Community outcomes
-A long-term council community plan must, to the extent determined appropriate by the local authority,—
-  (a) describe the community outcomes for the local authority's district or region:
-  (b) describe how the community outcomes have been identified:
-  (c) describe how the local authority will contribute to furthering community outcomes:
-  (d) describe how the community outcomes relate to other key strategic planning documents or processes:
-  (e) outline how the local authority will, to further community outcomes, work with—
-    (i) other local organisations and regional organisations; and
-    (ii) Māori, central government, and non-government organisations; and
-    (iii) the private sector:
-  (f) state what measures will be used to assess progress towards the achievement of community outcomes:
-  (g) state how the local authority will monitor and, not less than once in every 3 years, report on the community's progress towards achieving community outcomes.
+A long-term plan must, to the extent determined appropriate by the local authority, describe the community outcomes for the local authority's district or region.
 
-### 2 Group of activities
-(1) A long-term council community plan must, in relation to each group of activities of the local authority,—
+### 2 Groups of activities
+(1) A long-term plan must, in relation to each group of activities of the local authority,—
   (a) identify the activities within the group of activities:
   (b) identify the rationale for delivery of the group of activities (including the community outcomes to which the group of activities primarily contributes):
   (c) outline any significant negative effects that any activity within the group of activities may have on the social, economic, environmental, or cultural well-being of the local community:
-  (d) identify the assets or groups of assets required by the group of activities and identify, in relation to those assets or groups of assets,—
-    (i) how the local authority will assess and manage the asset management implications of changes to—
-      (A) demand for, or consumption of, relevant services; and
-      (B) service provision levels and standards:
-    (ii) what additional asset capacity is estimated to be required in respect of changes to each of the matters described in subparagraph (i):
-    (iii) how the provision of additional asset capacity will be undertaken:
-    (iv) the estimated costs of the provision of additional asset capacity identified under subparagraph (ii), and the division of those costs between each of the matters in respect of which additional capacity is required:
-    (v) how the costs of the provision of additional asset capacity will be met:
-    (vi) how the maintenance, renewal, and replacement of assets will be undertaken:
-    (vii) how the costs of the maintenance, renewal, and replacement of assets will be met:
-  (e) include the information specified in subclause (2)—
+  (d) include the information specified in clauses 4 and 5—
     (i) in detail in relation to each of the first 3 financial years covered by the plan; and
     (ii) in outline in relation to each of the subsequent financial years covered by the plan.
-(2) The information referred to in subclause (1)(e) is—
-  (a) a statement of the intended levels of service provision for the group of activities, including the performance targets and other measures by which actual levels of service provision may meaningfully be assessed:
-  (b) the estimated expenses of achieving and maintaining the identified levels of service provision, including the estimated expenses associated with maintaining the service capacity and integrity of assets:
-  (c) a statement of how the expenses are to be met:
-  (d) a statement of the estimated revenue levels, the other sources of funds, and the rationale for their selection in terms of section 101(3).
+(2) In this schedule, each of the following activities is a group of activities:
+  (a) water supply:
+  (b) sewerage and the treatment and disposal of sewage:
+  (c) stormwater drainage:
+  (d) flood protection and control works:
+  (e) the provision of roads and footpaths.
+(3) Despite subclause (2), a local authority may treat any other activities as a group of activities.
 
-### 3 Summaries of assessments of water and sanitary services and waste management plans
-(1) The long-term council community plan of a territorial authority must contain—
-  (a) a summary of the last assessment which was made under section 125 by the local authority and which assessed the provision within its district of water services and sanitary services; and
-  (b) a summary of the waste management and minimisation plan in force under section 43 of the Waste Minimisation Act 2008.
-(2) Subclause (1) does not apply in respect of an assessment of water services and sanitary services or a waste management and minimisation plan if the assessment or waste management and minimisation plan is included in the long-term council community plan.
-(3) The long-term council community plan of a territorial authority must identify and explain any significant variation between the content of any assessment or waste management and minimisation plan referred to in subclause (1), and any relevant information included under clause 2.
+### 3 Capital expenditure for groups of activities
+(1) A long-term plan must, in relation to each group of activities of the local authority and for each financial year covered by the plan, include a statement of the amount of capital expenditure that the authority has budgeted to—
+  (a) meet additional demand for an activity; and
+  (b) improve the level of service; and
+  (c) replace existing assets.
+(2) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (1) must be treated as if it were made solely in relation to the primary purpose of the expenditure.
 
-### 4 Council-controlled organisations
-A long-term council community plan must, in relation to each council-controlled organisation,—
+### 4 Statement of service provision
+A long-term plan must, in relation to each group of activities of the local authority, include a statement of the intended levels of service provision that specifies—
+  (a) any performance measures specified in a rule made under section 261B for a group of activities described in clause 2(2); and
+  (b) the performance measures that the local authority considers will enable the public to assess the level of service for major aspects of groups of activities for which performance measures have not been specified under paragraph (a); and
+  (c) the performance target or targets set by the local authority for each performance measure; and
+  (d) any intended changes to the level of service that was provided in the year before the first year covered by the plan and the reasons for the changes; and
+  (e) the reason for any material change to the cost of a service.
+
+### 5 Funding impact statement for groups of activities
+(1) A long-term plan must, in relation to each year covered by the plan, include a funding impact statement in relation to each group of activities of the local authority.
+(2) The funding impact statement must be in the prescribed form and must identify—
+  (a) the sources of funding to be used by the local authority; and
+  (b) the amount of funds expected to be produced from each source; and
+  (c) how the funds are to be applied.
+
+### 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
+A long-term plan for a territorial authority must identify and explain any significant variation between the proposals outlined in the long-term plan and the territorial authority's—
+  (a) assessment of water and other sanitary services under section 125:
+  (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
+
+### 7 Council-controlled organisations
+A long-term plan must, in relation to each council-controlled organisation,—
   (a) name the council-controlled organisation and any subsidiary of the council-controlled organisation; and
   (b) identify—
-    (i) the local authority's significant policies and objectives in regard to ownership and control of the organisation; and
+    (i) the local authority's significant policies and objectives in relation to ownership and control of the organisation; and
     (ii) the nature and scope of the activities to be provided by the council-controlled organisation; and
-    (iii) the key performance targets and other measures by which performance may be judged.
+    (iii) the key performance targets and other measures by which performance is to be judged.
 
-### 5 Development of Māori capacity to contribute to decision-making processes
-A long-term council community plan must set out any steps that the local authority intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the decision-making processes of the local authority, over the period covered by that plan.
+### 8 Development of Māori capacity to contribute to decision-making processes
+A long-term plan must set out any steps that the local authority intends to take, having undertaken the consideration required by section 81(1)(b), to foster the development of Māori capacity to contribute to the decision-making processes of the local authority over the period covered by that plan.
 
-### 6 Funding and financial policies
-A long-term council community plan must include the funding and financial policies of the local authority adopted under section 102.
+### 9 Financial strategy
+A long-term plan must include a local authority's financial strategy adopted under section 101A.
 
-### 7 Determining significance
-A long-term council community plan must contain a summary of the local authority's policy on determining significance under the Act.
+### 10 Revenue and financing policy
+A long-term plan must include a local authority's revenue and financing policy adopted under section 102(1).
 
-### 7A Affordable housing policy
-[Repealed]
+### 11 Determining significance
+A long-term plan must contain a summary of the local authority's policy on determining significance under the Act.
 
-### 8 Forecast financial statements
-(1) A long-term council community plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
-(2) A long-term council community plan may include, for each of the financial years covered by the plan, or for any of those years, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
+### 12 Forecast financial statements
+(1) A long-term plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
+(2) A long-term plan may include, for each of the financial years covered by the plan, or for any of those years, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
 
-### 9 Statement concerning balancing of budget
-If the local authority has resolved, under section 100(2), not to balance its operating budget in any year covered by the long-term council community plan, the plan must include—
+### 13 Financial statements for previous year
+(1) A long-term plan must include the numerical information from the forecast financial statements referred to in clause 12(1) that were prepared for the financial year that is the year before the first year covered by the plan.
+(2) The numerical information must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for each of the financial years covered by the plan.
+
+### 14 Statement concerning balancing of budget
+If the local authority has resolved, under section 100(2), not to balance its operating budget in any year covered by the long-term plan, the plan must include—
   (a) a statement of the reasons for the resolution and any other matters taken into account; and
   (b) a statement of the implications of the decision.
 
-### 10 Funding impact statement
-(1) A long-term council community plan must include a funding impact statement that includes,—
-  (a) in relation to each year covered by the plan, information that discloses the revenue and financing mechanisms to be used by the local authority; and
-  (b) in relation to each year covered by the plan, an indication of the level or amount of funds to be produced by each mechanism; and
-  (c) if the mechanisms include a general rate,—
-    (i) particulars of the valuation system on which the general rate is to be assessed; and
-    (ii) a statement as to whether a uniform annual general charge is to be included and, if so, a statement—
-      (A) as to how the charge is to be calculated; and
-      (B) of the local authority's definition of a separately used or inhabited part of a rating unit, if the charge is to be calculated on this basis; and
-    (iii)
-    (iv) a statement as to whether the general rate is to be set differentially, and, if so,—
-      (A) the categories of rateable land, within the meaning of section 14 of the Local Government (Rating) Act 2002, to be used; and
-      (B) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or of the relationship between the rates set on rateable land in each category; and
-  (d) if the mechanisms include a targeted rate,—
-    (i) the activities or groups of activities for which the targeted rate is to be set; and
-    (ii) particulars of the category, or categories, of rateable land, within the meaning of section 17 of the Local Government (Rating) Act 2002, to be used; and
-    (iii) for each category, a statement—
-      (A) as to how liability for the targeted rate is to be calculated and
-      (B) of the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on this basis; and
-    (iv) if the targeted rate is set differentially, a statement of the total revenue sought from each category of rateable land or of the relationship between the rates set on rateable land in each category; and
-    (v) whether lump sum contributions will be invited in respect of the targeted rate; and
-  (e) for each mechanism, a statement of its relationship to the sources of funding described in clause 2(2)(d).
-(2) If the same mechanism is to be used in more than 1 of the years covered by the long-term council community plan, it is sufficient compliance with paragraphs (c) to (e) of subclause (1), in respect of that mechanism, if—
-  (a) those paragraphs are complied with in respect of one of those years; and
-  (b) the funding impact statement specifies the other years in respect of which that mechanism is to be used.
+### 15 Funding impact statement
+(1) A long-term plan must include a funding impact statement in relation to each year covered by the plan.
+(2) The funding impact statement must be in the prescribed form and must identify—
+  (a) the sources of funding to be used by the local authority; and
+  (b) the amount of funds expected to be produced from each source; and
+  (c) how the funds are to be applied.
+(3) If the sources of funding include a general rate, the funding impact statement must—
+  (a) include particulars of the valuation system on which the general rate is to be assessed; and
+  (b) state whether a uniform annual general charge is to be included and, if so,—
+    (i) how the charge is to be calculated; and
+    (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the charge is to be calculated on that basis; and
+  (c) state whether the general rate is to be set differentially and, if so,—
+    (i) the categories of rateable land, within the meaning of section 14 of the Local Government (Rating) Act 2002, to be used; and
+    (ii) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category.
+(4) If the sources of funding include a targeted rate, the funding impact statement must—
+  (a) specify the activities or groups of activities for which the targeted rate is to be set; and
+  (b) include particulars of the category, or categories, of rateable land, within the meaning of section 17 of the Local Government (Rating) Act 2002, to be used; and
+  (c) for each category, state—
+    (i) how liability for the targeted rate is to be calculated; and
+    (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
+  (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+  (e) state whether lump sum contributions will be invited in respect of the targeted rate.
+(5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must, for the first year covered by the long-term plan, include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
+(6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)(a), (3), and (4) with respect to that source, it is sufficient—
+  (a) to comply with those subclauses in relation to 1 of those years; and
+  (b) for the funding impact statement to specify the other years in respect of which that source is to be used.
 
-### 11 Significant forecasting assumptions
-A long-term council community plan must clearly identify—
+### 16 Reserve funds
+A long-term plan must identify each reserve fund set aside by the local authority and, in relation to each fund, specify—
+  (a) the purpose of the fund; and
+  (b) the activities to which the fund relates; and
+  (c) the amount expected to be in the fund at—
+    (i) the commencement of the first year to which the long-term plan relates; and
+    (ii) the end of the last year to which the long-term plan relates; and
+  (d) the amount expected to be deposited in the fund in the period to which the long-term plan relates; and
+  (e) the amount expected to be withdrawn from the fund in the period to which the long-term plan relates.
+
+### 17 Significant forecasting assumptions
+A long-term plan must clearly identify—
   (a) all the significant forecasting assumptions and risks underlying the financial estimates:
   (b) without limiting the generality of paragraph (a), the following assumptions on which the financial estimates are based:
     (i) the assumptions of the local authority concerning the useful life of significant assets; and
@@ -4797,72 +4873,133 @@ A long-term council community plan must clearly identify—
     (i) the fact of that uncertainty; and
     (ii) an estimate of the potential effects of that uncertainty on the financial estimates provided.
 
-### 12 Forecast financial statements
+### Part 2 — Information to be included in annual plan
+
+### 18 Forecast financial statements
 (1) An annual plan must include, for the financial year to which the plan relates, forecast financial statements for the local authority.
 (2) An annual plan may include, for the financial year to which the plan relates, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
 
-### 13 Funding impact statement
-An annual plan must include, for the year to which the plan relates, a funding impact statement that states—
-  (a) the revenue and financing mechanisms to be used to cover the estimated expenses of the local authority for the year; and
-  (b) the nature of, and the reasons for, any departure from the funding impact statement for that year in the long-term council community plan; and
-  (c) in relation to any general rate,—
-    (i) the valuation system on which the general rate is to be assessed; and
-    (ii) whether a uniform annual general charge is to be included and, if so,—
-      (A) how the charge is to be calculated; and
-      (B) the local authority's definition of a separately used or inhabited part of a rating unit, if the charge is to be calculated on this basis; and
-    (iii)
-    (iv) whether the general rate is to be set differentially, and, if so,—
-      (A) the categories of rateable land, within the meaning of section 14 of the Local Government (Rating) Act 2002, to be used; and
-      (B) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or of the relationship between the rates set on rateable land in each category; and
-  (d) in relation to each targeted rate,—
-    (i) the activities or groups of activities for which the targeted rate is to be set; and
-    (ii) the category, or categories, of rateable land, within the meaning of section 17 of the Local Government (Rating) Act 2002, to be used; and
-    (iii) for each category,—
-      (A) how liability for the targeted rate is to be calculated; and
-      (B) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on this basis; and
-    (iv) if the targeted rate is set differentially, the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
-    (v) whether lump sum contributions will be invited in respect of the targeted rate.
+### 19 Financial statements for previous year
+(1) An annual plan must include the numerical information from the forecast financial statements referred to in clause 18(1) that were prepared for the financial year that is the year before the year covered by the plan.
+(2) The numerical information described in subclause (1) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the plan.
 
-### 14 Annual plan and amendment of long-term council community plan
-For the avoidance of doubt, it is declared that the preparation and adoption by a local authority of the annual plan and the making by that local authority of an amendment to the long-term council community plan may take place concurrently.
+### 20 Funding impact statement
+(1) An annual plan must include a funding impact statement for the year to which the plan relates.
+(2) The funding impact statement must be in the prescribed form and must identify—
+  (a) the sources of funding to be used by the local authority; and
+  (b) the amount of funds expected to be produced from each source; and
+  (c) how the funds are to be applied.
+(3) If the sources of funding include a general rate, the funding impact statement must—
+  (a) include particulars of the valuation system on which the general rate is to be assessed; and
+  (b) state whether a uniform annual general charge is to be included and, if so,—
+    (i) how the charge is to be calculated; and
+    (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the charge is to be calculated on that basis; and
+  (c) state whether the general rate is to be set differentially and, if so,—
+    (i) the categories of rateable land, within the meaning of section 14 of the Local Government (Rating) Act 2002, to be used; and
+    (ii) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category.
+(4) If the sources of funding include a targeted rate, the funding impact statement must—
+  (a) specify the activities or groups of activities for which the targeted rate is to be set; and
+  (b) include particulars of the category, or categories, of rateable land, within the meaning of section 17 of the Local Government (Rating) Act 2002, to be used; and
+  (c) for each category, state—
+    (i) how liability for the targeted rate is to be calculated; and
+    (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
+  (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+  (e) state whether lump sum contributions will be invited in respect of the targeted rate.
+(5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
 
-### 15 Group of activities
+### 21 Reserve funds
+An annual plan must, for the year to which the plan relates, identify each reserve fund set aside by the local authority and, in relation to each fund, specify—
+  (a) the purpose of the fund; and
+  (b) the activities to which the fund relates; and
+  (c) the amount expected to be in the fund at—
+    (i) the commencement of the year; and
+    (ii) the end of the year; and
+  (d) the amount expected to be deposited in the fund during that year; and
+  (e) the amount expected to be withdrawn from the fund during that year.
+
+### 22 Annual plan and amendment of long-term plan
+To avoid doubt, a local authority may prepare and adopt the annual plan at the same time as it amends the long-term plan.
+
+### Part 3 — Information to be included in annual reports
+
+### 23 Groups of activities
 An annual report must, in relation to each group of activities of the local authority,—
   (a) identify the activities within the group of activities; and
   (b) identify the community outcomes to which the group of activities primarily contributes; and
   (c) report the results of any measurement undertaken during the year of progress towards the achievement of those outcomes; and
-  (d) describe any identified effects that any activity within the group of activities has had on the social, economic, environmental, or cultural well-being of the community; and
-  (e) include an audited statement—
-    (i) setting out a comparison between the actual levels of service provision of that group of activities and the intended levels of service provision (as set out in the long-term council community plan in respect of that year) of that group of activities; and
-    (ii) giving the reasons for any significant variance between the actual service provision and the expected service provision; and
-  (f) include an audited statement—
-    (i) describing any significant acquisitions or replacements of assets undertaken by the local authority in the year to which the report relates; and
-    (ii) giving the reasons why the local authority acquired or replaced those assets; and
-    (iii) giving the reasons for any significant variation between the acquisitions and replacements projected in the long-term council community plan and those actually made.
+  (d) describe any identified effects that any activity within the group of activities has had on the social, economic, environmental, or cultural well-being of the community.
 
-### 16 Council-controlled organisations
+### 24 Capital expenditure for groups of activities
+(1) An annual report must, in relation to each group of activities, include an audited statement comparing the capital expenditure budgeted by the local authority (as set out in the long-term plan or annual plan for the financial year) with the amount spent.
+(2) The statement described in subclause (1) must show separately the amount of funds that the local authority intended to spend and the amount spent to—
+  (a) meet additional demand for a group of activities; and
+  (b) improve the level of performance in relation to a group of activities; and
+  (c) replace existing assets.
+(3) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (2) must be treated as if it were made solely in relation to the primary purpose of the expenditure.
+
+### 25 Statement of service provision
+An annual report must include an audited statement that—
+  (a) compares the level of service achieved in relation to a group of activities with the performance target or targets for the group of activities; and
+  (b) specifies whether any intended changes to the level of service have been achieved; and
+  (c) gives the reasons for any significant variation between the level of service achieved and the intended level of service.
+
+### 26 Funding impact statement for groups of activities
+(1) An annual report must, in relation to each year covered by the plan, include an audited funding impact statement for each group of activities of the local authority.
+(2) The funding impact statement must be in the prescribed form and must—
+  (a) identify—
+    (i) the amount of funds produced from each source of funding; and
+    (ii) how the funds were applied; and
+  (b) compare the information in paragraph (a) with information included in the long-term plan in accordance with clause 5(2).
+
+### 27 Internal borrowing
+(1) This clause applies to borrowing of the type described in paragraph (b)(iii) of the definition of borrowing in section 112 (internal borrowing).
+(2) In relation to each group of activities of the local authority, an annual report must include—
+  (a) a statement of the amount of internal borrowing used for the purpose of the group of activities; and
+  (b) the amount of funds borrowed and repaid during the year; and
+  (c) the amount of interest (if any) paid in relation to the internal borrowing.
+
+### 28 Council-controlled organisations
 An annual report must include, in relation to each council-controlled organisation,—
-  (a) a report on the extent to which the local authority's significant policies and objectives in regard to ownership and control of the organisation (as set out in the relevant long-term council community plan or annual plan) have been implemented or attained in the year to which the report relates; and
-  (b) a comparison between the nature and scope of the activities intended to be provided by the organisation in the year to which the report relates (as set out in the relevant long-term council community plan or annual plan) and the nature and scope of the activities actually provided by the organisation in that year; and
-  (c) a comparison between actual performance and the key performance targets and other measures set out in the relevant long-term council community plan or annual plan.
+  (a) a report on the extent to which the local authority's significant policies and objectives in regard to ownership and control of the organisation (as set out in the relevant long-term plan or annual plan) have been implemented or attained in the year to which the report relates; and
+  (b) a comparison between the nature and scope of the activities intended to be provided by the organisation in the year to which the report relates (as set out in the relevant long-term plan or annual plan) and the nature and scope of the activities actually provided by the organisation in that year; and
+  (c) a comparison between actual performance and the key performance targets and other measures set out in the relevant long-term plan or annual plan.
 
-### 17 Financial statements
-An annual report must include—
+### 29 Financial statements
+(1) An annual report must include—
   (a) audited financial statements for the financial year for the local authority; and
   (b) audited consolidated financial statements for the financial year; and
-  (c) such other information as is necessary to enable an informed assessment of the operations of each entity reported on.
+  (c) such other information as is necessary to enable an informed assessment of the operations of each entity reported on; and
+  (d) the numerical information from the statements described in paragraphs (a) and (b) for the financial year before the financial year to which the report relates.
+(2) The numerical information described in subclause (1)(d) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the report.
 
-### 18 Remuneration issues
+### 30 Funding impact statement
+(1) An annual report must include an audited funding impact statement for the financial year to which the report relates.
+(2) The funding impact statement must be in the prescribed form and must—
+  (a) identify—
+    (i) the amount of funds produced from each source of funding; and
+    (ii) how the funds were applied; and
+  (b) compare the information in paragraph (a) with information included in the annual plan in accordance with clause 20(2).
+(3) The annual report must include the information in subclause (2) for the financial year before the year to which the report relates.
+
+### 31 Reserve funds
+An annual report must identify each reserve fund set aside by the local authority and, in relation to each fund, specify for the financial year—
+  (a) the purpose of the fund; and
+  (b) the activities to which the fund relates; and
+  (c) the amounts in the fund at the beginning and end of the financial year; and
+  (d) the total amount deposited in the fund; and
+  (e) the total amount withdrawn from the fund.
+
+### 32 Remuneration issues
 (1) An annual report must include a report on the remuneration that, in the year to which the report relates, was received by, or payable to, each of the following persons:
   (a) the mayor or chairperson of the local authority:
   (b) each of the other members of the local authority:
   (c) the chief executive of the local authority.
-(2) The report under subclause (1) must show, in relation to each person specified in that subclause, that person's total remuneration in the year.
-(3) For the avoidance of doubt, subclause (2) applies to the total remuneration (including the value of any non-financial benefits) that, during the year, was paid to the person, or was payable to the person, by the local authority and any council organisation of the local authority.
+(2) The report under subclause (1) must show, in relation to each person specified in that subclause, that person's total remuneration for the year.
+(3) To avoid doubt, subclause (2) applies to the total remuneration (including the value of any non-financial benefits) that, during the year, was paid to the person, or was payable to the person, by the local authority and any council organisation of the local authority.
 
-### 19 Severance payments
-(1) An annual report must—
-  (a) state the amount of any severance payments made in the year to any person who vacated office as the chief executive of the local authority; and
+### 33 Severance payments
+(1) An annual report must state—
+  (a) the amount of any severance payments made in the year to any person who vacated office as the chief executive of the local authority; and
   (b) the number of employees of the local authority to whom, in the year, severance payments were made; and
   (c) the amount of every such severance payment.
 (2) In this section, severance payment means any consideration that a local authority has agreed to provide to an employee in respect of that employee's agreement to the termination of his or her employment, being consideration, whether of a monetary nature or otherwise, additional to any entitlement of that employee to—
@@ -4870,14 +5007,42 @@ An annual report must include—
   (b) any holiday pay; or
   (c) any superannuation contributions.
 
-### 20 Statement of compliance
+### 34 Statement of compliance
 (1) An annual report must include a statement that all statutory requirements in relation to the annual report have been complied with.
 (2) The statement must be signed—
   (a) by the mayor or chairperson of the local authority; and
   (b) by the chief executive of the local authority.
 
-### 21 General
-An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide for opportunities for Māori to contribute to the decision-making processes of the local authority.
+### 35 General
+An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
+
+### Part 4 — Information to be included in pre-election report
+
+### 36 Pre-election report
+(1) A pre-election report must include,—
+  (a) for the 3 financial years immediately preceding the date of the election,—
+    (i) the funding impact statement referred to in clause 30; and
+    (ii) a summary balance sheet based on the financial statements referred to in clause 29(1)(a) that discloses public debt and financial assets separately; and
+    (iii) a statement that compares—
+      (A) rates, rate increases, and borrowing with the quantified limits specified in the financial strategy; and
+      (B) returns on investments with the quantified targets for returns on those investments specified in the financial strategy; and
+  (b) for the 3 financial years immediately following the date of the election,—
+    (i) the information included in the funding impact statement in accordance with clause 15(2)(b) and (c); and
+    (ii) a summary balance sheet based on the forecast financial statements referred to in clause 12(1) that discloses public debt and financial assets separately; and
+  (c) the major projects planned for the 3 financial years immediately following the date of the election.
+(2) Despite subclause (1)(a), the information to be included in the pre-election report for the financial year ending in the same year as the election in accordance with that subclause may—
+  (a) be based on estimated information; and
+  (b) need not be audited.
+
+### 37 Substituted information for small local authorities
+(1) This clause applies to the pre-election report of a local authority that has an ordinarily resident population of fewer than 20,000 people.
+(2) For the financial year ending in the same year as the election, the pre-election report must include—
+  (a) the funding impact statement prepared under clause 20(2); and
+  (b) a summary balance sheet based on the forecast financial statements referred to in clause 18 that discloses public debt and financial assets separately; and
+  (c) a statement that compares—
+    (i) rates, rate increases, and borrowing with the quantified limits specified in the financial strategy; and
+    (ii) returns on investments with the quantified targets for returns on those investments specified in the financial strategy.
+(3) The pre-election report must comply with this clause only if it does not comply with clause 36(1)(a) and (2).
 
 ## Schedule 11 — Matters relating to rates relief on Māori freehold land
 
@@ -4932,7 +5097,7 @@ On the hearing of the appeal, the court, whose decision is final, may confirm or
 
 ### 1 Methodology for relating cost of community facilities to units of demand
 In order to calculate the maximum development contribution in respect of a community facility or an activity or group of activities for which a separate development contribution is to be required, a territorial authority must first—
-  (a) identify the total cost of the capital expenditure that the local authority expects to incur in respect of the community facility, or activity or group of activities, to meet increased demand resulting from growth within the district, or part of the district, as the case may be, as set out in the long-term council community plan in accordance with section 106(2)(a); and
+  (a) identify the total cost of the capital expenditure that the local authority expects to incur in respect of the community facility, or activity or group of activities, to meet increased demand resulting from growth within the district, or part of the district, as the case may be; and
   (b) identify the share of that expenditure attributable to each unit of demand, using the units of demand for the community facility or for separate activities or groups of activities, as the case may be, by which the impact of growth has been assessed.
 
 ### 2 Attribution of units of demand to developments
@@ -5227,3 +5392,49 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) This section amends the Local Government Act 2002.
 ((2), (3)) Amendment(s) incorporated in the Act(s).
 (4) The amendments made by subsections (2) and (3) do not limit the power of a District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
+
+### 1 Title
+This Act is the Local Government Act 2002 Amendment Act 2010.
+
+### 2 Commencement
+(1) Section 17 comes into force on 1 July 2011.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Consequential amendments and transitional provisions
+
+**Transitional provisions**
+
+### 51 Transitional provision for long-term plan beginning on 1 July 2009
+(1) This section applies to a long-term plan beginning on 1 July 2009 and still in force at the commencement of this section.
+(2) The amendments made by this Act to Schedule 10 of the principal Act do not apply to a long-term plan specified in subsection (1), and nothing in this Act requires that long-term plan to be amended to ensure it complies with the requirements of the principal Act as amended by this Act.
+(3) Until a local authority has adopted a financial strategy under section 101A of the principal Act (as inserted by section 18 of this Act), it must amend its liability management policy or investment policy only as an amendment to its long-term plan as if the amendments enacted by this Act had not been made.
+
+### 52 Transitional provision for annual plans
+(1) This section applies to an annual plan that relates to the period—
+  (a) 1 July 2010 to 30 June 2011; or
+  (b) 1 July 2011 to 30 June 2012.
+(2) The amendments made by this Act to section 85(2)(a) and Schedule 10 of the principal Act do not apply to an annual plan specified in subsection (1), and nothing in this Act requires that annual plan to be amended to ensure it complies with the requirements of the principal Act as amended by this Act.
+
+### 53 Transitional provision for audit of information in annual report and summary
+(1) This section applies to an annual report that relates to the period—
+  (a) 1 July 2009 to 30 June 2010; or
+  (b) 1 July 2010 to 30 June 2011; or
+  (c) 1 July 2011 to 30 June 2012.
+(2) The amendments made by this Act to Schedule 10 of the principal Act do not apply to an annual report specified in subsection (1).
+(3) The amendments made by this Act to section 99 of the principal Act do not apply to the auditor's report on the annual reports specified in subsection (1).
+
+### 54 Transitional provision for pre-election report
+(1) Despite section 99A of the principal Act (as inserted by section 17 of this Act), a pre-election report required in relation to the triennial general election of local authorities in 2013 need not comply with clause 36(1)(a)(i) and (iii) of Schedule 10 of the principal Act (as substituted by this Act), but must instead include—
+  (a) the funding impact statement referred to in clause 30 of Schedule 10 of the principal Act (as substituted by this Act) for the financial year ending in 2013; and
+  (b) a summary of cash flows based on the financial statements referred to in clause 29 of Schedule 10 of the principal Act (as substituted by this Act) for the last 3 years ending before the date of the election in 2013.
+(2) The summary of cash flows must disclose income from rates and payments for property, plant, equipment, and intangible assets separately.
+
+### 55 Transitional provision for identification and reporting of community outcomes
+A local authority is not required to comply with, or complete the compliance with, an obligation under section 91 or 92 of the principal Act that existed before the repeal of those provisions by section 13 of this Act.
+
+### 56 Transitional provision for review of certain funding and financial policies
+(1) This section applies to a review of the following policies:
+  (a) a local authority's policy on the remission and postponement of rates on Māori freehold land under section 108(4A) of the principal Act (as inserted by section 25 of this Act):
+  (b) a local authority's rates remission policy under section 109(2A) of the principal Act (as inserted by section 26 of this Act):
+  (c) a local authority's rates postponement policy under section 110(2A) of the principal Act (as inserted by section 27 of this Act).
+(2) A policy specified in subsection (1) is to be treated as having been last reviewed on the date that the local authority adopted its long-term plan for the period beginning on 1 July 2009.
