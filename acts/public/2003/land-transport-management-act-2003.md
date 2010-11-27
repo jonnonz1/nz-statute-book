@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -401,10 +401,10 @@ Auckland Transport must, in preparing an Auckland regional land transport progra
 (1) In carrying out the consultation required under section 18, a regional transport committee or Auckland Transport (as the case may require) must—
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
   (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
-(2) A regional transport committee complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
-(3) Auckland Transport complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the Auckland Council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(2) A regional transport committee complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council's consultation on its long-term plan or its annual plan under the Local Government Act 2002.
+(3) Auckland Transport complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the Auckland Council's consultation on its long-term plan or its annual plan under the Local Government Act 2002.
 (4) Auckland Transport is not required to consult, under section 18 and this section, any organisation or person referred to in section 18 if the Auckland Council has already consulted the organisation or person—
-  (a) in the course of preparing the Council's current long-term council community plan or annual plan; and
+  (a) in the course of preparing the Council's current long-term plan or annual plan; and
   (b) in accordance with the Local Government Act 2002.
 
 ### 18B Process for approving regional land transport programmes prepared by regional transport committees
@@ -1167,7 +1167,7 @@ When preparing a proposed regional fuel tax scheme, a regional transport committ
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
   (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
 (2) A regional transport committee complies with subsection (1) if the required consultation on its proposed regional fuel tax scheme is carried out in conjunction with—
-  (a) the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002; or
+  (a) the relevant regional council’s consultation on its long-term plan or its annual plan under the Local Government Act 2002; or
   (b) any other consultation under this Act.
 
 ### 65J Proposed regional fuel tax scheme to be lodged with relevant regional council
@@ -1526,8 +1526,8 @@ A regional land transport strategy must contain the following matters:
 (2) In carrying out the consultation required by subsection (1), a regional transport committee or the Auckland Council must—
   (a) act in accordance with the consultation principles set out in section 82 of the Local Government Act 2002; and
   (b) use the special consultative procedure under sections 83, 87(2)(a), and 89 of the Local Government Act 2002.
-(3) A regional transport committee complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the relevant regional council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
-(3A) The Auckland Council complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+(3) A regional transport committee complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the relevant regional council’s consultation on its long-term plan or its annual plan under the Local Government Act 2002.
+(3A) The Auckland Council complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Council's consultation on its long-term plan or its annual plan under the Local Government Act 2002.
 (4) When a regional transport committee or the Auckland Council is preparing a regional land transport strategy, an approved organisation and the Agency must assist the committee or the Council by giving it any reasonably requested information that it needs in order to prepare its strategy.
 
 ### 79 Process for approving regional land transport strategies
