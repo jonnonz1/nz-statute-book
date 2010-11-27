@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -148,6 +148,7 @@ This Act—
     (i) whether the employee works for the employer only when work is available:
     (ii) the employer’s rosters or other similar systems:
     (iii) the reasonable expectations of the employer and the employee that the employee would work on the day concerned.
+(3A) If the public holiday, alternative holiday, or day on which the employee was on sick leave or bereavement leave falls during a closedown period, the factors listed in subsection (3) must be taken into account as if the closedown period were not in effect.
 (4) For the purposes of public holidays, if an employee would otherwise work any amount of time on a public holiday, that day must be treated as a day that would otherwise be a working day for the employee.
 
 ### 13 Labour Inspector may determine what would otherwise be working day
@@ -295,9 +296,9 @@ To avoid doubt,—
 **Closedown periods**
 
 ### 29 Meaning of closedown period
-In this section and sections 30 to 35, closedown period means a period during which an employer customarily—
+In this section and sections 12(3A) and 30 to 35, closedown period means a period during which an employer customarily—
   (a) closes the employer’s operations or discontinues the work of 1 or more employees; and
-  (b) requires his or her employees to take all or some of their annual holidays.
+  (b) requires the employer's employees to take all or some of their annual holidays.
 
 ### 30 Frequency of closedown periods
 (1) For the purposes of sections 31 to 35, the employer may have only 1 closedown period in any 12-month period.
