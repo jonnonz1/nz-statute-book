@@ -1,5 +1,5 @@
 # Local Government Act 2002 Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Local Government Act 2002 Amendment Act 2006.
@@ -214,16 +214,14 @@ Section 293 is amended by adding the following subsection:
     (A) how liability for the targeted rate is to be calculated; and
     (B) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on this basis; and
 
-## Part  — Consequential amendment to Local Government Act 1974
+**Consequential amendment to Local Government Act 1974**
 
 ### 30 Consequential amendment to Local Government Act 1974
 The following section is inserted before section 684 of the Local Government Act 1974:Certain provisions of Local Government Act 2002 to apply to bylaws made under this Act
   (1) Despite anything to the contrary in the Local Government Act 2002, sections 150, 151, 155, and 156 of that Act apply, with all necessary modifications, to any bylaw made under this Act.
   (2) This section does not limit any other provisions of that Act that apply to a bylaw made under this Act.
 
-## Part  — Transitional provision
+**Transitional provision**
 
 ### 31 Transitional provision for long-term council community plans for period beginning on 1 July 2006
-Any amendments made by this Act that have the effect of requiring an amendment to a long-term council community plan (to ensure that it complies with the requirements of the principal Act, as amended by this Act)
-  (a) do not apply to a long-term council community plan to which section 280 of the principal Act applies, whether it is adopted before or after the commencement of this Act; but
-  (b) do apply to any amendment made to a long-term council community plan to which section 280 of the principal Act applies that is adopted after the commencement of this Act.
+[Repealed]
