@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -94,7 +94,7 @@ The October 2013 triennial general elections for the Auckland Council must be he
     (i) from the Council to one of its council-controlled organisations or a subsidiary of one of its council-controlled organisations; or
     (ii) from a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council to the Council; or
     (iii) from a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council to a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council; or
-  (b) the disposal of the property was contemplated in the current long-term council community plan of an existing local authority; or
+  (b) the disposal of the property was contemplated in the current long-term plan of an existing local authority; or
   (c) the disposal of the property is—
     (i) part of a property development; and
     (ii) contemplated by the statement of intent of a council-controlled organisation of an existing local authority; or
@@ -382,7 +382,7 @@ In sections 41 to 43,—
     (d) a change resulting from the implementation of a decision of the Land Valuation Tribunal under section 39 of the Rating Valuations Act 1998.
 
 ### 41 Council may have rates transition management policy for 3-year period commencing 1 July 2012
-(1) The Council may include in its long-term council community plan for the period commencing 1 July 2012 a rates transition management policy.
+(1) The Council may include in its long-term plan for the period commencing 1 July 2012 a rates transition management policy.
 (2) The policy must identify the change limit for each rating year, being the maximum change in rating liability permitted under the policy in relation to an unchanged rating unit in a rating year.
 (3) The change limit may be—
   (a) uniform (so that the same change limit applies to increases and decreases in rating liability); or
@@ -392,7 +392,8 @@ In sections 41 to 43,—
   (a) the proportion of rating units for which the policy will result in a reduction in rates liability, and the expected range of reductions; and
   (b) the proportion of rating units for which the policy will result in an increase in rates liability, and the expected range of increases; and
   (c) the expected net impact of the policy on the Council's rates revenue.
-(6) Section 102 of the Local Government Act 2002 applies to the policy as if it were a policy listed in subsection (5) of that section.
+(5A) Sections 84(4) and 94 of the Local Government Act 2002 do not apply to an amendment to the policy.
+(6) Section 102 of the Local Government Act 2002 applies to the policy as if it were a policy listed in subsection (3) of that section.
 
 ### 42 How Council must apply rates transition management policy
 (1) This section applies to the calculation of rating liability for rating units within Auckland if the Council adopts a rates transition management policy under section 41 of this Act.
@@ -418,16 +419,20 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 **Planning document prepared by Transition Agency**
 
 ### 45 Planning document treated as satisfying sections 93 and 95 of Local Government Act 2002
-(1) The planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the Council's long-term council community plan for the period beginning on 1 November 2010 and ending at the close of 30 June 2012.
+(1) The planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the Council's long-term plan for the period beginning on 1 November 2010 and ending at the close of 30 June 2012.
 (2) The planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must also be treated as the Council's annual plan for the period beginning on 1 November 2010 and ending at the close of 30 June 2011.
+(2A) Subsections (1) and (2) do not apply to the following policies included in the planning document:
+  (a) remission and postponement of rates on Māori freehold land under section 108 of the Local Government Act 2002:
+  (b) rates remission under section 109 of the Local Government Act 2002:
+  (c) rates postponement under section 110 of the Local Government Act 2002.
 (3) Despite subsections (1) and (2), Parts 1 and 2 of Schedule 10 of the Local Government Act 2002 do not apply to the planning document.
 (4) The Council may amend the planning document—
-  (a) in accordance with the requirements for amending a long-term council community plan under the Local Government Act 2002; but
+  (a) in accordance with the requirements for amending a long-term plan under the Local Government Act 2002; but
   (b) any amendment must not be inconsistent with any provision of this Part.
 (5) Without limiting subsection (1), the initial allocation of decision-making responsibility for the non-regulatory activities of the Council between the Council's governing body and its local boards included in the planning document must be treated as satisfying section 18(1) and (2) of the Local Government (Auckland Council) Act 2009.
 
 ### 46 Policies included in planning document treated as policies of Council
-(1) On and from 1 November 2010, the policies referred to in clause 4 of Schedule 2 of the Reorganisation Act, included in the planning document prepared by the Transition Agency under section 19A of that Act, must be treated as the policies of the Auckland Council, and section 102(6) of the Local Government Act 2002 applies as if the policies had been adopted under that section.
+(1) On and from 1 November 2010, the policies referred to in clause 4 of Schedule 2 of the Reorganisation Act, included in the planning document prepared by the Transition Agency under section 19A of that Act, must be treated as the policies of the Auckland Council, and may be amended in accordance with section 93 of the Local Government Act 2002.
 (2) However, the development contributions policies referred to in clause 4(3)(a) of that schedule must be amended in accordance with section 54 of this Act.
 
 ### 47 Certain policies have effect only in former districts and must be replaced by 30 June 2012
@@ -442,12 +447,13 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
   (a) the policies of the existing local authorities in relation to remission and postponement of rates on Māori freehold land under section 108 of the Local Government Act 2002:
   (b) the policies of the existing local authorities in relation to rates remission under section 109 of the Local Government Act 2002:
   (c) the policies of the existing local authorities in relation to rates postponement under section 110 of the Local Government Act 2002.
+(5A) The Auckland Council must use the special consultative procedure in adopting the single integrated policy described in subsection (5).
 (6) A single integrated policy formulated under subsection (4) or (5) may contain different conditions and criteria to be met based on the former districts of the existing local authorities.
 (7) Subsection (6) is for the avoidance of doubt.
 
 ### 48 Allocation in planning document of decision-making responsibility for non-regulatory activities of Council
-(1) The initial allocation of decision-making responsibility for the non-regulatory activities of the Council between the Council's governing body and its local boards included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the baseline allocation by the governing body of those responsibilities under section 17 of the Local Government (Auckland Council) Act 2009 until the Council adopts its long-term council community plan for the period beginning 1 July 2012.
-(2) To avoid doubt, the governing body of the Council may, before adopting its long-term council community plan for the period beginning 1 July 2012, make further allocations of decision-making responsibility in favour of 1 or more local boards, but otherwise must not remove or alter any allocation to which subsection (1) applies.
+(1) The initial allocation of decision-making responsibility for the non-regulatory activities of the Council between the Council's governing body and its local boards included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the baseline allocation by the governing body of those responsibilities under section 17 of the Local Government (Auckland Council) Act 2009 until the Council adopts its long-term plan for the period beginning 1 July 2012.
+(2) To avoid doubt, the governing body of the Council may, before adopting its long-term plan for the period beginning 1 July 2012, make further allocations of decision-making responsibility in favour of 1 or more local boards, but otherwise must not remove or alter any allocation to which subsection (1) applies.
 
 **First local board plans and agreements**
 
@@ -488,9 +494,9 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 (1) This section applies to the development contributions policies referred to in clause 4(3)(a) of Schedule 2 of the Reorganisation Act.
 (2) Each policy must be amended to remove any power of the Auckland Council to require a development contribution for water supply or wastewater services infrastructure, in accordance with the following procedure:
   (a) the amendment must be made by resolution of the governing body of the Auckland Council:
-  (b) the amendment is not required to be made as described in section 102(6) of the Local Government Act 2002:
+  (b) the amendment is not required to be made as described in section 106(6) of the Local Government Act 2002:
   (c) the amendment must have effect from 1 July 2011.
-(3) Each policy may be amended by the Auckland Council under section 102(6) of the Local Government Act 2002 at any time.
+(3) Each policy may be amended by the Auckland Council under section 106(6) of the Local Government Act 2002 at any time.
 
 ### 55 Development contributions for certain infrastructure transferred to Watercare Services Limited
 (1) The Auckland Council must immediately transfer to Watercare Services Limited any development contribution (or any part of a development contribution) that is or was required for water supply or wastewater services infrastructure and that is—
@@ -949,13 +955,13 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 
 ### Subpart 3 — Savings and transitional provisions relating to local authorities other than Auckland Council
 
-### 89 Long-term council community plans
-(1) Without further authority than this section, until 30 June 2012, the long-term council community plans of the Hauraki District Council and the Waikato District Council consist of—
-  (a) the 2009/2019 long-term council community plan adopted by the local authority; and
-  (b) the 2009/2019 long-term council community plan adopted by the Franklin District Council, so far as that plan applies to the part of the former Franklin District that, as a result of the boundary adjustment Order, is now part of the local authority's district.
-(2) Without further authority than this section, until 30 June 2012, the long-term council community plan of the Waikato Regional Council consists of—
-  (a) the 2009/2019 long-term council community plan adopted by the Council; and
-  (b) the 2009/2019 long-term council community plan adopted by the Auckland Regional Council, so far as that plan applies to the part of the former Auckland Region that, as a result of the boundary adjustment Order, is now part of the Waikato Region.
+### 89 Long-term plans
+(1) Without further authority than this section, until 30 June 2012, the long-term plans of the Hauraki District Council and the Waikato District Council consist of—
+  (a) the 2009/2019 long-term plan adopted by the local authority; and
+  (b) the 2009/2019 long-term plan adopted by the Franklin District Council, so far as that plan applies to the part of the former Franklin District that, as a result of the boundary adjustment Order, is now part of the local authority's district.
+(2) Without further authority than this section, until 30 June 2012, the long-term plan of the Waikato Regional Council consists of—
+  (a) the 2009/2019 long-term plan adopted by the Council; and
+  (b) the 2009/2019 long-term plan adopted by the Auckland Regional Council, so far as that plan applies to the part of the former Auckland Region that, as a result of the boundary adjustment Order, is now part of the Waikato Region.
 
 ### 90 Annual plans for 2011/2012 financial year
 (1) This section applies to the 2011/2012 financial year annual plans for the following local authorities:
@@ -1005,7 +1011,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 (5) In this section,—
   - **development contributions policy** means the policy on development contributions—
     (a) adopted by the Franklin District Council under section 102(4)(d) of the Local Government Act 2002; and
-    (b) included in its current long-term council community plan as at 1 July 2010
+    (b) included in its current long-term plan as at 1 July 2010
   - **the territory of its district gained from the former Franklin** means the territory gained by the Hauraki District or the Waikato District, as the case may be, in accordance with the boundary adjustment Order.
 (6) This section expires on the close of 30 June 2012.
 
