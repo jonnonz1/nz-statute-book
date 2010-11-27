@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2008-12-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -59,14 +59,14 @@ In this Act, unless the context otherwise requires,—
   - **early payment policy** means a policy for the early payment of rates under section 55 or section 56
   - **financial year** means a period of 12 months beginning on 1 July
   - **funding impact statement** means,—
-    (a) in relation to the first financial year to which a long-term council community plan relates, the funding impact statement included in the plan under clause 10 of Schedule 10 of the Local Government Act 2002; and
-    (b) in relation to any other year, means the funding impact statement included, under clause 13 of Schedule 10 of the Local Government Act 2002, in the annual plan adopted for that year under section 95 of that Act
+    (a) in relation to the first financial year to which a long-term plan relates, the funding impact statement included in the plan under clause 15 of Schedule 10 of the Local Government Act 2002; and
+    (b) in relation to any other year, means the funding impact statement included, under clause 20 of Schedule 10 of the Local Government Act 2002, in the annual plan adopted for that year under section 95 of that Act
   - **general rate** means a rate set under section 13
   - **land** means all land, tenements, and hereditaments, whether corporeal or incorporeal, in New Zealand, and all chattel or other interests in the land, and all trees growing or standing on the land
   - **land transfer register** means the register kept under section 33 of the Land Transfer Act 1952
   - **land value** has the meaning set out in section 2(1) of the Rating Valuations Act 1998
   - **local authority** means a territorial authority or a regional council
-  - **long-term council community plan** means a long-term council community plan under section 93 of the Local Government Act 2002
+  - **long-term plan** means a long-term plan under section 93 of the Local Government Act 2002
   - **lump sum contribution** has the meaning set out in section 117A
   - **Māori freehold land** means land whose beneficial ownership has been determined by the Māori Land Court by freehold order
   - **Māori freehold land in multiple ownership** means Māori freehold land owned by more than 2 persons
@@ -231,13 +231,13 @@ Two or more rating units must be treated as 1 unit for setting a rate if those u
 (1) Rates must be set by a resolution of the local authority.
 (2) Rates set by a local authority must—
   (a) relate to a financial year or part of a financial year; and
-  (b) be set in accordance with the relevant provisions of the local authority’s long-term council community plan and funding impact statement for that financial year.
-(3) A local authority may set a rate that is not provided for in its long-term council community plan and funding impact statement only if—
-  (a) the local authority is satisfied that the rate is required to meet an unforeseen and urgent need for revenue that cannot reasonably be met by any other means, having regard to the manner in which it has, in its long-term council community plan and funding impact statement allocated the costs of the activities or groups of activities to which the need for revenue relates; and
+  (b) be set in accordance with the relevant provisions of the local authority’s long-term plan and funding impact statement for that financial year.
+(3) A local authority may set a rate that is not provided for in its long-term plan and funding impact statement only if—
+  (a) the local authority is satisfied that the rate is required to meet an unforeseen and urgent need for revenue that cannot reasonably be met by any other means, having regard to the manner in which it has, in its long-term plan and funding impact statement allocated the costs of the activities or groups of activities to which the need for revenue relates; and
   (b) the local authority has given at least 14 days’ public notice of its intention to set the rate.
 (4) Notice under subsection (3)(b) must include—
   (a) the information in relation to the rate that would otherwise have been required to be included in the local authority’s funding impact statement; and
-  (b) a statement of the nature of the unforeseen and urgent need for revenue and the reasons why that need cannot reasonably be met by any other means, having regard to the manner in which the local authority has, in its long-term council community plan, allocated the costs of the activities or groups of activities to which the need for revenue relates.
+  (b) a statement of the nature of the unforeseen and urgent need for revenue and the reasons why that need cannot reasonably be met by any other means, having regard to the manner in which the local authority has, in its long-term plan, allocated the costs of the activities or groups of activities to which the need for revenue relates.
 (5) The local authority must, within 20 working days after making a resolution, send a copy of it to the Secretary of Local Government.
 
 ### 24 Due date or dates for payment
@@ -616,7 +616,7 @@ If the rates invoice is not delivered at least 14 days before the due date, the 
 (1) A local authority may adopt a policy for the payment of some or all rates that are identified in the rates assessment before the due date or dates for those rates in the current financial year.
 (2) A policy adopted under subsection (1)—
   (a) must be adopted using the special consultative procedure; and
-  (b) may be included in the long-term council community plan.
+  (b) may be included in the long-term plan.
 (3) A policy adopted under this section may provide for the local authority to discount the amount of the rates if payment is made by a specified date before the due date or dates.
 
 ### 56 Policy for payment of rates for subsequent financial year
@@ -1106,14 +1106,14 @@ The Māori Land Court must cancel an order made under section 108(2) if, within 
 
 ### 114 Remission of rates
 (1) A local authority may remit all or part of the rates (including penalties for unpaid rates) on Māori freehold land if—
-  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the remission of the rates; and
+  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(1) of the Local Government Act 2002 includes provision for the remission of the rates; and
   (b) the local authority is satisfied that the conditions and criteria in the policy are met.
 (2) Sections 85(2) and 86 apply to a remission made under subsection (1).
 (3) This section does not limit the application of section 85 to Māori freehold land.
 
 ### 115 Postponement of requirement to pay rates
 (1) A local authority must postpone the requirement to pay all or part of the rates on Māori freehold land (including penalties for unpaid rates) if—
-  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
+  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(1) of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
   (b) the ratepayer has applied in writing for a postponement; and
   (c) the local authority is satisfied that the conditions and criteria in the policy are met.
 (2) Sections 87(2), and 88 to 90 apply to postponements made under subsection (1).
@@ -1123,7 +1123,7 @@ The Māori Land Court must cancel an order made under section 108(2) if, within 
 (1) The Governor-General, by Order in Council made on the recommendation of the Māori Land Court and with the consent of the local authority in whose district the land is situated, may exempt Māori freehold land, as specified in the order, from some or all liability for rates.
 (2) An order made under subsection (1) may, at any time, be varied or cancelled by Order in Council.
 (3) In determining whether to consent to an order under subsection (1) or whether to seek an order under subsection (2), the local authority must consider—
-  (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under section 102(4)(f) of the Local Government Act 2002; and
+  (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under section 102(1) of the Local Government Act 2002; and
   (b) the objectives set out in Schedule 11 of the Local Government Act 2002.
 
 ### 117 Effect of exemption
@@ -1153,7 +1153,7 @@ In this Part, unless the context otherwise requires,—
   (b) contain the matters required under section 117E(1); and
   (c) be adopted as part of the local authority’s—
     (i) annual plan; or
-    (ii) long-term council community plan (or as an amendment to its long-term council community plan).
+    (ii) long-term plan (or as an amendment to its long-term plan).
 (4) In developing a funding plan, a local authority must give equal weight to the financial interests of those ratepayers who may elect to make a lump sum contribution and those who may decide not to do so.
 (5) This section is subject to section 117C.
 
@@ -1315,7 +1315,7 @@ In this subpart, unless the context otherwise requires,—
   (a) it has given 14 days’ public notice of its intention to set the rate again; and
   (b) it complies with the local authority’s standing orders for the revocation and alteration of resolutions.
 (4) Notice under subsection (3) must include—
-  (a) the information in relation to the rate that was, or would otherwise have been, required to be included in the local authority’s long-term council community plan or annual plan; and
+  (a) the information in relation to the rate that was, or would otherwise have been, required to be included in the local authority’s long-term plan or annual plan; and
   (b) a statement of the reason why the local authority has determined that it is desirable to set the rate again.
 (5) If setting the rate again results in a change to the amount of rates to be assessed to any rating unit,—
   (a) the rates record for the rating unit must be corrected as soon as practicable; and
@@ -1490,7 +1490,7 @@ A Judge, Justice, or Community Magistrate must not be treated as interested in a
 ### 139 Transitional provision for rates remission
 (1) A local authority may remit rates after the commencement of this section as if the Rating Powers Act 1988 were in force.
 (2) Subsection (1) applies until the close of 30 June 2004.
-(2A) Despite subsection (2), a local authority that has adopted a long-term council community plan for a period beginning on 1 July 2003 may remit rates, as if the Rating Powers Act 1988 were in force, until the close of 30 June 2005.
+(2A) Despite subsection (2), a local authority that has adopted a long-term plan for a period beginning on 1 July 2003 may remit rates, as if the Rating Powers Act 1988 were in force, until the close of 30 June 2005.
 (3) Rates that are remitted under subsection (1) must be treated as if they are remitted rates under this Act.
 
 ### 140 Transitional provisions for rates postponement
