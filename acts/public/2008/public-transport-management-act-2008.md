@@ -1,5 +1,5 @@
 # Public Transport Management Act 2008
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-27_
 
 ### 1 Title
 This Act is the Public Transport Management Act 2008.
@@ -451,12 +451,12 @@ A regional council must, when preparing a statement of proposal to adopt a regio
 (7) Except in Auckland, a regional council may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with the relevant regional transport committee’s consultation on its regional land transport programme or regional land transport strategy under the Land Transport Management Act 2003.
 (8) In Auckland, Auckland Transport may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with—
   (a) Auckland Transport's consultation on its regional land transport programme under the Land Transport Management Act 2003:
-  (b) the Auckland Council’s consultation on its long-term council community plan or its annual plan under the Local Government Act 2002.
+  (b) the Auckland Council’s consultation on its long-term plan or its annual plan under the Local Government Act 2002.
 
 ### 21 Currency and variation of regional public transport plans
 (1) A regional public transport plan adopted under section 9—
   (a) must, at all times, be kept current for a period of not less than 3 years in advance, but not more than 10 years in advance; and
-  (b) may be reviewed by the regional council from time to time, but must be reviewed and, if necessary, renewed or varied at the same time as, or as soon as practicable after, a GPS, relevant regional land transport strategy, regional land transport programme, or long-term council community plan is prepared and issued, approved, adopted, varied, or amended (as appropriate).
+  (b) may be reviewed by the regional council from time to time, but must be reviewed and, if necessary, renewed or varied at the same time as, or as soon as practicable after, a GPS, relevant regional land transport strategy, regional land transport programme, or long-term plan is prepared and issued, approved, adopted, varied, or amended (as appropriate).
 (2) The purpose of a review of a regional public transport plan is to consider whether the plan will continue to give effect to the public transport service components of the relevant regional land transport strategy, properly takes into account the GPS and the public transport funding likely to be available, and meets the needs of the community.
 (3) If the regional council is—
   (a) reasonably satisfied that the plan does the things specified in subsection (2), it must give public notice of that decision:
