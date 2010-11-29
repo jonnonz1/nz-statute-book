@@ -1,5 +1,5 @@
 # Education Act 1964
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the education of the people of New Zealand
 
@@ -15,78 +15,76 @@ _Consolidation as at 2007-09-03_
   - **Central Advisory Committee**
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **Committee** or
-  - **Community college** means an educational institution established under Part 3 of this Act to provide continuing education and related advisory and guidance services, and other educational services designed to meet the particular circumstances of the local community
+  - **Community college** means an educational institution established under Part 3 to provide continuing education and related advisory and guidance services, and other educational services designed to meet the particular circumstances of the local community
   - **Composite school** means a State school that provides primary education and secondary education
-  - **Continuation education**
-  - **Continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a University or University College of Agriculture or college of education
-  - **Contributing school** means a State primary school that is for the time being established under this Act without provision for classes for pupils of forms 1 and 2 or either of those forms
+  - **continuation education**
+  - **continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a University or University College of Agriculture or college of education
+  - **contributing school** means a State primary school that is for the time being established under this Act without provision for classes for pupils of forms 1 and 2 or either of those forms
   - **Correspondence school** or means any school or institution, or any classes, established by the Minister to provide instruction by correspondence
   - **Department** means the Ministry of Education
   - **Director-General** means the chief executive of the Ministry of Education
-  - **Disciplinary Board** means the Teachers' Disciplinary Board established by section 158A of this Act
-  - **Disciplinary offence** means a disciplinary offence specified in section 158(1) of this Act
-  - **District** or
-  - **District high school**
-  - **Domestic student** , at any time, means a person who is then—
-    (a) A New Zealand citizen; or
-    (b) The holder of a residence permit under the Immigration Act 1987; or
-    (c) By virtue of paragraph (a) or paragraph (b) or paragraph (f) of section 11(1) of that Act, exempt from the requirement to hold a permit granted under that Act; or
-    (d) Exempted under section 12 of that Act from the requirement to hold a permit granted under that Act; or
-    (e) A person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students:
+  - **Disciplinary Board** means the Teachers' Disciplinary Board established by section 158A
+  - **disciplinary offence** means a disciplinary offence specified in section 158(1)
+  - **district** or
+  - **district high school**
+  - **domestic student** , at any time, means a person who is then—
+    (a) a New Zealand citizen; or
+    (b) the holder of a residence class visa granted under the Immigration Act 2009; or
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
   - **Education Authority** means a body that is an Education Board, the governing body of a secondary school, technical institute, or community college, a Secondary Schools Council, a college of education council, or a body declared to be an Education Authority by the Governor-General by Order in Council
-  - **Education centre** means an education centre established under section 107A(1) of this Act
-  - **Education centre council** means an education centre council constituted under section 107B(2) of this Act
-  - **Employing authority** , in relation to any teacher, means the Education Board, Board of Governors, or other body or person, that controls the kindergarten, school, institute, or college, in which the teacher is employed
-  - **Foreign student** , at any time, means a person who is not then a domestic student
-  - **Former Education Act** means the Education Act 1914 and its amendments, or any Act thereby repealed, or any Act or Ordinance repealed by any such last-mentioned Act or by any former Education Act
-  - **Former Teachers Register**
-  - **Further education**
-  - **Householder**
-  - **Intermediate department** means a department or division, attached to a secondary school or a district high school, to which are admitted, from one or more State primary schools, pupils who belong to the senior division
-  - **Intermediate school** means a State primary school to which are admitted, from one or more other State primary schools, pupils who belong to the senior division
-  - **Kindergarten** means a school or institution providing pre-school education and recognised as a kindergarten in accordance with regulations made under this Act
-  - **Kindergarten teacher** means any person engaged in teaching in a kindergarten
-  - **Kindergarten trainee** means any person attending a kindergarten training centre for the purpose of being trained as a kindergarten teacher
+  - **education centre** means an education centre established under section 107A(1)
+  - **education centre council** means an education centre council constituted under section 107B(2)
+  - **employing authority** , in relation to any teacher, means the Education Board, Board of Governors, or other body or person, that controls the kindergarten, school, institute, or college, in which the teacher is employed
+  - **foreign student** , at any time, means a person who is not then a domestic student
+  - **former Education Act** means the Education Act 1914 and its amendments, or any Act thereby repealed, or any Act or Ordinance repealed by any such last-mentioned Act or by any former Education Act
+  - **former Teachers Register**
+  - **further education**
+  - **householder**
+  - **intermediate department** means a department or division, attached to a secondary school or a district high school, to which are admitted, from 1 or more State primary schools, pupils who belong to the senior division
+  - **intermediate school** means a State primary school to which are admitted, from 1 or more other State primary schools, pupils who belong to the senior division
+  - **kindergarten** means a school or institution providing pre-school education and recognised as a kindergarten in accordance with regulations made under this Act
+  - **kindergarten teacher** means any person engaged in teaching in a kindergarten
+  - **kindergarten trainee** means any person attending a kindergarten training centre for the purpose of being trained as a kindergarten teacher
   - **Maori**
   - **Maori school**
   - **Minister** means the Minister of Education
-  - **Parent** , in relation to any child, includes the child's guardian, and the householder in whose family the child resides
-  - **Playcentre** means a school or institution providing pre-school education and recognised as a playcentre in accordance with regulations made under this Act
-  - **Pre-school education** means education for children under the age of 5 years
-  - **Prescribed** means prescribed by this Act or by regulations made under this Act
-  - **Primary education** means education for pupils in a primary or intermediate school or department
-  - **Primary school** means a school providing a 6-year course, or an 8-year course, for pupils entering the school between the ages of 5 and 7 years; and includes such a school which in special circumstances approved by the Director-General also provides continuing education
-  - **Private school** means any private school where there are more than 8 children over 5 years of age receiving instruction
-  - **Private primary school** means any private school where there are enrolled for the purpose of receiving primary education more than 8 children of school age
-  - **Private secondary school** means any private school where more than 8 pupils are enrolled for the purpose of receiving secondary education
-  - **Property** means real and personal property of every description
-  - **Public conveyance** includes any transport approved by the Director-General, whether by railway, bus, ferry, or other means of conveyance, available to children for the purpose of attending school
-  - **Public notice** means a notice published in some newspaper circulating in the district, and means notified by means of a public notice
-  - **Registered school** means a school established under Part 3 of this Act, or a school registered in accordance with section 186 of this Act
-  - **Review officer** means an employee of the Education Review Office, and includes the Chief Review Officer
-  - **Salary order** means any decision fixing any salary or salaries in the Education service
-  - **School age** , in relation to any child, means any age between the age of 5 years and the age of 15 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school in accordance with Part 4 of this Act; or, in the case of any child who is deemed by the Director-General (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director-General may from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age
-  - **School district**
-  - **School year** means the period of 12 months ending with the 27th day of January in any year
-  - **Secondary education** means full-time education for pupils in a secondary school or department or in a private secondary school
-  - **Secondary school or department** means a school or department established, or deemed to have been established, as a secondary school under Part 3 of this Act, and providing full-time and part-time courses beyond the primary school course, and also, in circumstances approved by the Director-General, continuing education and related guidance services
-  - **Secondary teacher** means a teacher classified in accordance with regulations made under this Act as a secondary teacher
-  - **Senior division** , in relation to a State primary school, includes such classes or forms therein as may from time to time be prescribed by regulations
-  - **Senior Inspector** or means an Inspector of Schools appointed under section 7 of this Act to discharge the duties of the Senior Inspector of Primary Schools for an education district; and where appropriate, includes an Inspector of Schools so appointed to discharge the duties of the Senior Inspector of Secondary Schools for an area specified by the Director-General
-  - **Special education** means education for children who, because of physical or mental handicap or of some educational difficulty, require educational treatment beyond that normally obtained in an ordinary class in a school providing primary, secondary, or continuing education
-  - **State primary school** means any school providing primary education established under Part 3 of this Act by an Education Board; and includes any intermediate school or district high school subject to the control and management of an Education Board; and also includes a school established under this Act or a former Education Act as a Chatham Islands School
-  - **Teacher** means a schoolmaster or schoolmistress, or an assistant schoolmaster or assistant schoolmistress, engaged in teaching or eligible for appointment to a teaching position in any State primary school or correspondence school, or in a college of education, or in a secondary school, or technical institute, or community college, or in an intermediate department, or engaged or eligible to be engaged as a teacher of a special subject (including manual training), or in any specialist training service; and, in sections 157 to 161B of this Act, includes a kindergarten teacher, but does not include a probationary assistant, a junior assistant in a Maori school, or a student at a college of education
-  - **Teacher appointed by the Director-General** means a teacher placed under the control of the Director-General by an Order in Council made under section 164 of this Act
+  - **parent** , in relation to any child, includes the child's guardian, and the householder in whose family the child resides
+  - **playcentre** means a school or institution providing pre-school education and recognised as a playcentre in accordance with regulations made under this Act
+  - **pre-school education** means education for children under the age of 5 years
+  - **prescribed** means prescribed by this Act or by regulations made under this Act
+  - **primary education** means education for pupils in a primary or intermediate school or department
+  - **primary school** means a school providing a 6-year course, or an 8-year course, for pupils entering the school between the ages of 5 and 7 years; and includes such a school which in special circumstances approved by the Director-General also provides continuing education
+  - **private school** means any private school where there are more than 8 children over 5 years of age receiving instruction
+  - **private primary school** means any private school where there are enrolled for the purpose of receiving primary education more than 8 children of school age
+  - **private secondary school** means any private school where more than 8 pupils are enrolled for the purpose of receiving secondary education
+  - **property** means real and personal property of every description
+  - **public conveyance** includes any transport approved by the Director-General, whether by railway, bus, ferry, or other means of conveyance, available to children for the purpose of attending school
+  - **public notice** means a notice published in some newspaper circulating in the district, and means notified by means of a public notice
+  - **registered school** means a school established under Part 3 of this Act, or a school registered in accordance with section 186
+  - **review officer** means an employee of the Education Review Office, and includes the Chief Review Officer
+  - **salary order** means any decision fixing any salary or salaries in the Education service
+  - **school age** , in relation to any child, means any age between the age of 5 years and the age of 15 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school in accordance with Part 4 of this Act; or, in the case of any child who is deemed by the Director-General (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director-General may from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age
+  - **school district**
+  - **school year** means the period of 12 months ending with the 27th day of January in any year
+  - **secondary education** means full-time education for pupils in a secondary school or department or in a private secondary school
+  - **secondary school or department** means a school or department established, or deemed to have been established, as a secondary school under Part 3, and providing full-time and part-time courses beyond the primary school course, and also, in circumstances approved by the Director-General, continuing education and related guidance services
+  - **secondary teacher** means a teacher classified in accordance with regulations made under this Act as a secondary teacher
+  - **senior division** , in relation to a State primary school, includes such classes or forms therein as may from time to time be prescribed by regulations
+  - **Senior Inspector** or means an Inspector of Schools appointed under section 7 to discharge the duties of the Senior Inspector of Primary Schools for an education district; and where appropriate, includes an Inspector of Schools so appointed to discharge the duties of the Senior Inspector of Secondary Schools for an area specified by the Director-General
+  - **special education** means education for children who, because of physical or mental handicap or of some educational difficulty, require educational treatment beyond that normally obtained in an ordinary class in a school providing primary, secondary, or continuing education
+  - **State primary school** means any school providing primary education established under Part 3 by an Education Board; and includes any intermediate school or district high school subject to the control and management of an Education Board; and also includes a school established under this Act or a former Education Act as a Chatham Islands School
+  - **teacher** means a schoolmaster or schoolmistress, or an assistant schoolmaster or assistant schoolmistress, engaged in teaching or eligible for appointment to a teaching position in any State primary school or correspondence school, or in a college of education, or in a secondary school, or technical institute, or community college, or in an intermediate department, or engaged or eligible to be engaged as a teacher of a special subject (including manual training), or in any specialist training service; and, in sections 157 to 161B, includes a kindergarten teacher, but does not include a probationary assistant, a junior assistant in a Maori school, or a student at a college of education
+  - **teacher appointed by the Director-General** means a teacher placed under the control of the Director-General by an Order in Council made under section 164
   - **Teachers Register**
-  - **Technical education**
-  - **Technical institute** means an educational institution established, or deemed to have been established, as a technical institute under Part 3 of this Act, and providing continuing education and related advisory and guidance services; and includes any correspondence school so far as it is deemed to be a technical institute within the meaning of that Part of this Act.
-  - **Working day** means a working day within the meaning of the Public Works Act 1981.
-(1A) Except as provided in subsection (1) of this section, in this Act, unless the context otherwise requires, words and expressions defined in the Private Schools Conditional Integration Act 1975 shall have the meanings so defined.
+  - **technical education**
+  - **technical institute** means an educational institution established, or deemed to have been established, as a technical institute under Part 3, and providing continuing education and related advisory and guidance services; and includes any correspondence school so far as it is deemed to be a technical institute within the meaning of that Part of this Act
+  - **working day** means a working day within the meaning of the Public Works Act 1981.
+(1A) Except as provided in subsection (1), in this Act, unless the context otherwise requires, words and expressions defined in the Private Schools Conditional Integration Act 1975 shall have the meanings so defined.
 (2) Unless the context otherwise requires, every reference in any other enactment or document existing at the commencement of this Act to—
-  (a) The Director of Education shall be read as a reference to the Director-General of Education:
-  (b) A public school shall be read as a reference to a State primary school subject to the control and management of an Education Board:
-  (c) A technical school, technical high school, or combined school shall be read as a reference to a secondary school:
-  (d) A teachers training college shall be read as a reference to a teachers college.
+  (a) the Director of Education shall be read as a reference to the Director-General of Education:
+  (b) a public school shall be read as a reference to a State primary school subject to the control and management of an Education Board:
+  (c) a technical school, technical high school, or combined school shall be read as a reference to a secondary school:
+  (d) a teachers training college shall be read as a reference to a teachers college.
 
 ## Part 1 — Central administration
 
@@ -485,14 +483,14 @@ _Consolidation as at 2007-09-03_
 
 ### 77 State primary schools to be kept open at certain times
 Except to the extent that—every State primary school shall be kept open 5 days in each week for at least 4 hours each day, of which hours 2 in the morning and 2 in the afternoon shall be and the teaching shall be entirely of a secular character.
-  (a) A school term commences on any day other than a Monday or ends with any day other than a Friday; or
-  (b) A school is lawfully closed pursuant to section 129C of this Act,—
+  (a) a school term commences on any day other than a Monday or ends with any day other than a Friday; or
+  (b) a school is lawfully closed pursuant to section 129C,—
 
 ### 78 Religious instruction and observances in State primary schools
-Notwithstanding anything to the contrary in section 77 of this Act, if the School Committee for the school district in which the school is situated, after consultation with the Principal, so determines, any class or classes at the school, or the school as a whole, may be closed at any time or times of the school day for any period or periods exceeding in the aggregate neither 60 minutes in any week nor 20 hours in any school year, for any class, for the purposes of religious instruction given by voluntary instructors approved by the School Committee and of religious observances conducted in a manner approved by the School Committee or for either of those purposes; and the school buildings may be used for those purposes or for either of them.
+Notwithstanding anything to the contrary in section 77, if the School Committee for the school district in which the school is situated, after consultation with the Principal, so determines, any class or classes at the school, or the school as a whole, may be closed at any time or times of the school day for any period or periods exceeding in the aggregate neither 60 minutes in any week nor 20 hours in any school year, for any class, for the purposes of religious instruction given by voluntary instructors approved by the School Committee and of religious observances conducted in a manner approved by the School Committee or for either of those purposes; and the school buildings may be used for those purposes or for either of them.
 
 ### 78A Additional religious instruction
-Notwithstanding anything in sections 77 and 78 of this Act, in any case where the Minister is satisfied that the majority of the parents of pupils attending a school wish their children to receive religious instruction additional to that specified in the said section 78 and he is satisfied that such additional religious instruction will not be to the detriment of the normal curriculum of the school, he shall generally or in any special case, after consultation with the School Committee, authorise the additional religious instruction up to such an amount and subject to such conditions as he thinks fit.
+Notwithstanding anything in sections 77 and 78, in any case where the Minister is satisfied that the majority of the parents of pupils attending a school wish their children to receive religious instruction additional to that specified in the said section 78 and he is satisfied that such additional religious instruction will not be to the detriment of the normal curriculum of the school, he shall generally or in any special case, after consultation with the School Committee, authorise the additional religious instruction up to such an amount and subject to such conditions as he thinks fit.
 
 ### 79 Attendance at religious instruction or observances not compulsory
 (1) No pupil enrolled at a State primary school shall be required to attend or take part in any such instruction or observances if any parent or guardian of the pupil does not wish the pupil to take part therein and makes his or her wishes known in writing to the Head Teacher of the school.
@@ -525,9 +523,9 @@ Nothing in this Act shall affect religious instruction or religious observances 
 
 ### 87 Regulations relating to composite schools
 (1) Without limiting the generality of any provision of this Act, where any provisions of this Act empower the making of regulations relating to both State primary schools and secondary schools, or to State primary schools or secondary schools only, or to the staff or students of both State primary schools and secondary schools or to the staff or students of State primary schools or secondary schools only, any regulations made under those provisions may be limited in their application to composite schools or composite schools of any specified class or classes or, as the case may be, to staff or students of composite schools or composite schools of any specified class or classes.
-(2) Subject to any regulations to which subsection (1) of this section applies, this Act shall apply to every composite school as if—
-  (a) Every reference in this Act to a State primary school were a reference to those classes and courses in that composite school providing primary education; and
-  (b) Every reference in this Act to a secondary school were a reference to those classes and courses in the composite school providing secondary education.
+(2) Subject to any regulations to which subsection (1) applies, this Act shall apply to every composite school as if—
+  (a) every reference in this Act to a State primary school were a reference to those classes and courses in that composite school providing primary education; and
+  (b) every reference in this Act to a secondary school were a reference to those classes and courses in the composite school providing secondary education.
 
 ### 88 Certain provisions to apply to composite schools
 [Repealed]
@@ -586,12 +584,11 @@ Having regard to the provision of continuing education, the Minister may establi
 **Special education**
 
 ### 98 Special schools and classes
-(1) Having regard to the provision of special education in any locality or localities, the Minister may—
-  (a) Establish any special school:
-  (b) Establish, or authorise the establishment of, any special class, clinic, or service, either as a separate unit or in connection with any State primary school, secondary school, technical institute, community college or integrated school, or in connection with any public institution approved for the purpose by him:
-  (c) Make provision for special educational facilities to be provided by any correspondence school established under section 105 of this Act:
-  Provided that any special school established under paragraph (a) of this subsection may be placed under the control of the Education Board of the district and shall, where so placed, be deemed to be a State primary school, save that it may, on the recommendation of the Education Board and with the approval of the Minister, be placed under the control of any person or persons appointed by the Education Board for the purpose instead of a School Committee.
-(2) The Minister may likewise disestablish any special school, class, clinic, or service established under subsection (1) of this section, if he is dissatisfied with the manner in which the school, class, clinic, or service is being conducted, or if he considers that sufficient provision is made by another similarly established special school, class, clinic, or service, or by any other school or class in or reasonably near to the same locality:
+(1) Having regard to the provision of special education in any locality or localities, the Minister may—Provided that any special school established under paragraph (a) may be placed under the control of the Education Board of the district and shall, where so placed, be deemed to be a State primary school, save that it may, on the recommendation of the Education Board and with the approval of the Minister, be placed under the control of any person or persons appointed by the Education Board for the purpose instead of a School Committee.
+  (a) establish any special school:
+  (b) establish, or authorise the establishment of, any special class, clinic, or service, either as a separate unit or in connection with any State primary school, secondary school, technical institute, community college or integrated school, or in connection with any public institution approved for the purpose by him:
+  (c) make provision for special educational facilities to be provided by any correspondence school established under section 105:
+(2) The Minister may likewise disestablish any special school, class, clinic, or service established under subsection (1), if he is dissatisfied with the manner in which the school, class, clinic, or service is being conducted, or if he considers that sufficient provision is made by another similarly established special school, class, clinic, or service, or by any other school or class in or reasonably near to the same locality:
   Provided that in the last-mentioned case he shall, if the controlling authority of the school, class, clinic, or service so requires, give 3 months' notice of his intention to disestablish the same.
 
 ### 99 Other special classes or services providing special education
@@ -1078,10 +1075,10 @@ Having regard to the provision of continuing education, the Minister may establi
 ## Part 8 — General provisions
 
 ### 187 Exemptions from taxation
-(1) Every Education Board and Secondary Schools Council, and every governing body of a secondary school, college of education, technical institute, or community college, being a school, college, or institute established or deemed to have been established under Part 3 of this Act, and every education centre council, shall be deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and shall be entitled accordingly to all the privileges which the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Nothing in subsection (1) of this section exempts an Education Board, a Secondary Schools Council, the governing body of a secondary school, college of education, technical institute, or community college, or an education centre council, from—
-  (a) The payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) Any obligation imposed by that Act.
+(1) Every Education Board and Secondary Schools Council, and every governing body of a secondary school, college of education, technical institute, or community college, being a school, college, or institute established or deemed to have been established under Part 3, and every education centre council, shall be deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and shall be entitled accordingly to all the privileges which the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
+(2) Nothing in subsection (1) exempts an Education Board, a Secondary Schools Council, the governing body of a secondary school, college of education, technical institute, or community college, or an education centre council, from—
+  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
+  (b) any obligation imposed by that Act.
 
 ### 188 Exemptions from rating
 [Repealed]
