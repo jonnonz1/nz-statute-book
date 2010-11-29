@@ -1,5 +1,5 @@
 # Immigration Amendment Act (No 2) 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Immigration Amendment Act (No 2) 2006.
