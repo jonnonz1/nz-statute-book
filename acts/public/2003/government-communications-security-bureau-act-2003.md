@@ -1,5 +1,5 @@
 # Government Communications Security Bureau Act 2003
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Government Communications Security Bureau Act 2003.
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
   - **medium** means any form in which communications may be produced, sent, received, processed, or held; and includes electromagnetic, acoustic, or other energy
   - **Minister** means the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the Bureau
   - **network** has the same meaning as in section 5 of the Telecommunications Act 2001; but does not include a line (within the meaning of that Act) that is used exclusively by the Bureau
-  - **permanent resident** means a person who is, or who is deemed to be, the holder of a residence permit under the Immigration Act 1987
+  - **permanent resident** means a person who is, or who is deemed to be, the holder of a residence class visa under the Immigration Act 2009
   - **private communication** —
     (a) means a communication between 2 or more parties made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
     (b) does not include a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so
