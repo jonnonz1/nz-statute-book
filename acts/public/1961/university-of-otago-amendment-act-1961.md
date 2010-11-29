@@ -1,5 +1,5 @@
 # University of Otago Amendment Act 1961
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to amend the University of Otago Ordinance 1869
 
@@ -18,10 +18,10 @@ In this Act and in the principal Ordinance, unless the context otherwise require
     (a) Is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
     (b) Is for the time being exempted under section 34B(2) of this Act:
   - **Financial year**
-  - **Foreign student** means a person who is not a New Zealand citizen, and is—
-    (a) A person to whom section 7 of the Immigration Act 1987 applies; or
-    (b) A person obliged by or pursuant to that Act or any other enactment to leave New Zealand immediately or within a specified time; or
-    (c) Deemed for the purposes of that Act to be in New Zealand illegally:
+  - **foreign student** means a person who is not a New Zealand citizen and is—
+    (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately or within a specified time; or
+    (c) treated for the purposes of that Act as being unlawfully in New Zealand
   - **General course of study**
   - **Lecturer** means a member of the staff of the University of Otago who is in terms of his appointment an associate professor, a reader, a senior lecturer, or a lecturer of the University; and includes such other persons and classes of persons as the Council from time to time determines
   - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
