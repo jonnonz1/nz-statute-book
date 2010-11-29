@@ -1,5 +1,5 @@
 # Pitcairn Trials Act 2002
-_Consolidation as at 2005-06-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Pitcairn Trials Act 2002.
@@ -108,19 +108,15 @@ If the Agreement or this Act confers a power, or imposes a duty or function, on 
 
 **Entry to and removal from New Zealand**
 
-### 10 Limited purpose visas or limited purpose permits under Immigration Act 1987 for certain participants in trials
-(1) If this section applies to a person,—
-  (a) the Minister (as defined in section 2(1) of the Immigration Act 1987) or a visa officer may, if he or she thinks fit, issue a limited purpose visa to the person under the Immigration Act 1987; or
-  (b) the Minister (as so defined) or appropriate immigration officer may, if he or she thinks fit, grant a limited purpose permit (or a further limited purpose permit) to the person under the Immigration Act 1987.
+### 10 Limited visas under Immigration Act 2009 for certain participants in trials
+(1) If this section applies to a person, the Minister (as defined in section 4 of the Immigration Act 2009) or an immigration officer may, if he or she thinks fit, grant a limited visa (or a further limited visa, if appropriate) and entry permission to the person under the Immigration Act 2009.
 (2) This section applies to a person only if—
   (a) the person is a person specified in section 11; and
   (b) the person is coming to, or is in, New Zealand; and
-  (c) the person is not a New Zealand citizen, a person exempt under the Immigration Act 1987 from the requirement to hold a permit, or a person who already holds a permit granted under that Act (other than a permit granted in accordance with subsection (1)(b)); and
-  (d) the person's presence in New Zealand is or will be necessary or desirable in connection with a purpose specified in section 12.
-(3) This section applies whether or not the person concerned applies for, or consents to the issuing or granting of, the visa or permit, and despite anything to the contrary in any provision of the Immigration Act 1987 that relates to—
-  (a) the issuing of limited purpose visas; or
-  (b) the granting of limited purpose permits.
-(4) The issue of a visa, or grant of a permit, under this section and the Immigration Act 1987 does not affect the application of that Act to the person concerned.
+  (c) the person is not a New Zealand citizen or a person who already holds a visa (other than a transit visa) granted under the Immigration Act 2009; and
+  (d) the person’s presence in New Zealand is or will be necessary or desirable in connection with a purpose specified in section 12.
+(3) This section applies whether or not the person concerned applies for, or consents to the granting of, the visa or entry permission, and despite anything to the contrary in any provision of the Immigration Act 2009 that relates to the granting of limited visas.
+(4) The grant of a visa or entry permission under this section and the Immigration Act 2009 does not affect the application of that Act to the person concerned.
 (5) Subsection (4) is subject to subsection (3) and section 13.
 
 ### 11 Persons referred to in section 10(2)(a)
@@ -138,21 +134,19 @@ The purposes referred to in section 10(2)(d) are—
   (c) the making of arrangements for the person's immediate removal from New Zealand if, under Part 3, there has been made a decision not to make, or not to grant, a request for the enforcement in New Zealand of a Pitcairn sentence imposed on the person or a hospital order made in respect of the person:
   (d) the enforcement of the person's Pitcairn sentence or hospital order, and with arrangements being made for the person's removal from New Zealand once that sentence or order has been enforced if, under Part 3, that sentence or order is to be enforced in New Zealand.
 
-### 13 Expiry or revocation of limited purpose permits may be effective immediately upon giving or service of notice
-(1) This section applies to the holder of a limited purpose permit (or further limited purpose permit) granted in accordance with section 10 if—
-  (a) an immigration officer is, under section 34C(3) of the Immigration Act 1987 (as applied by section 10 of this Act), to give the holder a notice specifying an expiry date for the permit that is a date earlier than the latest date on which the permit will expire; or
-  (b) the permit is to be revoked under section 33(1) of the Immigration Act 1987 (as applied by section 34E(a) of that Act and by section 10 of this Act).
-(2) In the situation in subsection (1)(a), the notice specifying an earlier expiry date for the permit may, despite section 34C(3)(a) of that Act, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
-(3) In the situation in subsection (1)(b), the holder may be treated, for the purposes of section 33(2)(b) of that Act, as if he or she were a person to whom section 33(4) of that Act applies and, if the holder is treated in that way,—
-  (a) the notice of the revocation given under section 33(1) of that Act must notify the holder that the revocation is effective immediately upon service of the notice; and
-  (b) the revocation becomes effective immediately upon service of the notice under section 33(1) of that Act.
+### 13 Expiry of limited visa and liability for deportation may be effective immediately upon giving or service of notice
+(1) This section applies to the holder of a limited visa (or further limited visa) granted in accordance with section 10 if—
+  (a) an immigration officer is, under section 84(2) of the Immigration Act 2009 (as applied by section 10 of this Act), to give the holder a notice specifying an expiry date for the visa that is a date earlier than the latest date on which the visa will expire; or
+  (b) the holder of the visa is determined to be liable for deportation under section 157(1) of the Immigration Act 2009 (as applied by section 10 of this Act).
+(2) In the situation in subsection (1)(a), the notice specifying an earlier expiry date for the visa may, despite section 84(2) of the Immigration Act 2009, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
+(3) In the situation in subsection (1)(b), the deportation liability notice given under section 170 of the Immigration Act 2009 must notify the holder that the holder is immediately liable for deportation.
 
 **Relationship with certain Acts**
 
 ### 14 Use or application of certain Acts not limited or affected
 (1) Nothing in this Act limits or affects the general use or application of the following Acts:
   (a) Extradition Act 1999:
-  (b) Immigration Act 1987:
+  (b) Immigration Act 2009:
   (c) Mutual Assistance in Criminal Matters Act 1992.
 (2) However, the use or application of those Acts is in certain circumstances extended or affected by sections 10 to 13, 35 and 36, and 52 to 54, and Schedule 2.
 (3) Without limiting the generality of subsections (1) and (2), nothing in sections 35 and 36 and Schedule 2—
@@ -636,12 +630,12 @@ If any of the following occurs, the Minister must immediately give notice to the
 (4) New Zealand law applies to a person detained under this section, except as provided in section 18.
 (5) No person may be detained under an order made under this section for more than 28 days, but the person may be released before the expiry of 28 days if, upon release, the person is taken into the custody of—
   (a) a member of the New Zealand Police or an authorised person (being a person who is authorised by the Governor to take custody of the person), for the purpose of removing the detained person from New Zealand; or
-  (b) a person who is exercising powers under the Immigration Act 1987 or any other enactment.
+  (b) a person who is exercising powers under the Immigration Act 2009 or any other enactment.
 (6) An order under this section also authorises any member of the New Zealand Police or any authorised person to do all or any of the following in respect of a person who is subject to an order under this section:
   (a) hold the person in custody during transit to the point of departure from New Zealand:
   (b) hold the person in custody at the point of departure pending removal from New Zealand:
   (c) escort the person out of New Zealand.
-(7) Without limiting subsections (2) to (6), the Minister must make any arrangements that may be necessary to facilitate the removal from New Zealand (other than under the Immigration Act 1987) of a person whose Pitcairn sentence or hospital order is not to be enforced in New Zealand.
+(7) Without limiting subsections (2) to (6), the Minister must make any arrangements that may be necessary to facilitate the removal from New Zealand (other than under the Immigration Act 2009) of a person whose Pitcairn sentence or hospital order is not to be enforced in New Zealand.
 
 **Enforcing Pitcairn sentences and hospital orders**
 
@@ -692,8 +686,8 @@ If any of the following occurs, the Minister must immediately give notice to the
 (3) An enforcement order in respect of a person who is subject to a hospital order expires,—
   (a) in the case of a person who was found by a Pitcairn Court to be unfit to plead, when the Attorney-General directs, under section 116 of the Criminal Justice Act 1985, that the person either be brought before the appropriate court or be held as a patient, rather than as a special patient:
   (b) in the case of a person who was acquitted on the grounds of insanity, when the person is discharged under section 117 of the Criminal Justice Act 1985 or a direction is given under that section for the person to be held as a patient, rather than as a special patient.
-(4) The fact that a person is still subject to an enforcement order does not, of itself, give the person a right to remain in New Zealand, and the person may be required under the Immigration Act 1987 to leave New Zealand even if he or she is still subject to release conditions.
-(5) If a person who is subject to an enforcement order is required under the Immigration Act 1987 to leave New Zealand, then, despite anything in this section, the enforcement order expires on the date that the person leaves the country as required under the Immigration Act 1987.
+(4) The fact that a person is still subject to an enforcement order does not, of itself, give the person a right to remain in New Zealand, and the person may be required under the Immigration Act 2009 to leave New Zealand even if he or she is still subject to release conditions.
+(5) If a person who is subject to an enforcement order is required under the Immigration Act 2009 to leave New Zealand, then, despite anything in this section, the enforcement order expires on the date that the person leaves the country as required under the Immigration Act 2009.
 
 ### 67 Notice of certain things to be given to Department of Labour
 (1) This section applies with respect only to a person who is subject to an enforcement order and who is not a New Zealand citizen (in this section referred to as an overseas person).
