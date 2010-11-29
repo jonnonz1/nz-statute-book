@@ -1,5 +1,5 @@
 # Immigration Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to—aImprove the effectiveness of the removal regime for persons unlawfully in New Zealand by streamlining the procedures involved, so ensuring—iA higher level of compliance with immigration laws; andiiThat persons who do not comply with immigration procedures and rules are not advantaged in comparison with persons who do comply; andbCreate a statutory framework for determining refugee status under the Refugee Convention; andcProvide for a special security regime to protect sensitive security information that is relevant to immigration matters; anddIntroduce limited purpose permits and visas; andeProvide a new statutory cost-recovery framework for immigration matters; andfOtherwise amend the Immigration Act 1987 and make related amendments to other Acts
 
