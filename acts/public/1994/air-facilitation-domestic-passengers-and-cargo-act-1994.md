@@ -1,5 +1,5 @@
 # Air Facilitation (Domestic Passengers and Cargo) Act 1994
-_Consolidation as at 1996-10-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to amend the Customs Act 1966 and the Immigration Act 1987
 
