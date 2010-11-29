@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -769,7 +769,7 @@ The chief executive must approve a port facility security plan, or any amendment
       (A) the New Zealand Police; and
       (B) the New Zealand Customs Service; and
       (C) the Ministry of Agriculture and Forestry; and
-      (D) the New Zealand Immigration Service; and
+      (D) the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Immigration Act 2009; and
       (E) the Ministry of Health; and
       (F) any other department of State whose operations may, in the opinion of the chief executive, be affected by the action; and
     (iii) has consulted the local—
