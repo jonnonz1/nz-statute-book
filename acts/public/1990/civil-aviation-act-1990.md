@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2010-11-29_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1364,7 +1364,7 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
 ### 53A Flight over foreign country without authority or for improper purpose
 (1) This section applies to—
   (a) any aircraft that is registered or required to be registered in New Zealand under this Act:
-  (b) any other aircraft operated by a person who is a permanent resident of New Zealand or whose principal place of business is in New Zealand.
+  (b) any other aircraft operated by a person who is a normally resident in New Zealand or whose principal place of business is in New Zealand.
 (2) Every person commits an offence who, being the operator or pilot-in-command of an aircraft to which this section applies that is being flown over a foreign country or territory, knowingly allows that aircraft to be used for a purpose that is prejudicial to the security of, public order or public health of, or the safety of air navigation in relation to, that country or territory.
 (3) In any prosecution for an offence against subsection (2) of this section, where it is proved by the prosecution that the aircraft was used for a purpose that is prejudicial to the security of, public order or public health of, or the safety of air navigation in relation to, the foreign country or territory, in the absence of evidence to the contrary it shall be presumed that the defendant knew that the aircraft was being so used.
 (4) Every person commits an offence who, being the operator or pilot-in-command of an aircraft to which this section applies that is being flown over any foreign country or territory, knowingly fails to comply with any direction that is given in respect of the aircraft by the appropriate aeronautical authority of that country or territory where—unless the lives of persons on board the aircraft or the safety of the aircraft would be endangered by complying with the direction.
