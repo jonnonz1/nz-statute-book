@@ -1,5 +1,5 @@
 # Immigration Act 1987
-_Consolidation as at 2010-08-02_
+_Consolidation as at 2010-11-29_
 
 > An Act generally to reform the law relating to immigration, and in particular to remove the need for persons who are in New Zealand unlawfully to be dealt with by way of criminal prosecution
 
