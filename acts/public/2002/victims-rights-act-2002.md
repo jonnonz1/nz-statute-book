@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -387,21 +387,26 @@ Sections 32 to 38 and 47 apply to a victim to whom this section applies only if 
   (b) ceases, under section 48 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, to be a special patient within the meaning of that Act or ceases, under section 69 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, to be a special care recipient within the meaning of that Act.
 (2) If this section applies, the Director-General of Health must, instead of complying with section 37(2), give the victim notice, as soon as practicable, that the offender is no longer liable to detention for the sentence imposed for the offence.
 
-### 39 Notice of proposal to consider making deportation order and of hearing of appeal against deportation order
-(1) If the Minister of Immigration proposes to consider making a deportation order under section 91 or section 92 of the Immigration Act 1987 in respect of an offender whose liability to deportation arises out of a conviction for a particular offence,—
-  (a) the chief executive of the Department of Labour must advise each specified person (as defined in subsection (2)) that the Minister proposes to consider making an order of that kind; and
-  (b) that chief executive must ask each specified person to give the current address of a victim of the offence to that chief executive if that address—
-    (i) has been given or forwarded to the specified person under section 31 or section 33; and
-    (ii) has not been forwarded by the specified person under section 33; and
-  (c) each specified person must, as soon as practicable after receiving a request under paragraph (b), consider, respond to, and if possible comply with, that request.
-(2) For the purposes of subsection (1), each of the following persons is a specified person:
+### 39 Notice of proposal to cancel or suspend liability for deportation
+(1) The chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009 must perform the actions in subsection (2) if—
+  (a) a person is liable for deportation under the Immigration Act 2009 as a result of any criminal offending; and
+  (b) the Minister of Immigration is considering cancelling or suspending the person’s liability for deportation or the person appeals against his or her liability for deportation to the Immigration and Protection Tribunal.
+(2) If subsection (1) applies, the chief executive must—
+  (a) advise each specified person (as defined in subsection (4)) that—
+    (i) the Minister is considering suspending or cancelling the liability for deportation of the criminal offender; or
+    (ii) the criminal offender has appealed against his or her liability for deportation to the Immigration and Protection Tribunal; and
+  (b) ask the specified person to provide the current address of the victim of the offence to the chief executive if that address—
+    (i) has been given or forwarded to the specified person under section 31 or 33; and
+    (ii) has not been forwarded by the specified person under section 33.
+(3) Each specified person must, as soon as practicable after receiving a request under subsection (2)(b), consider, respond to, and, if possible, comply with that request.
+(4) For the purposes of subsection (2), each of the following persons is a specified person:
   (a) the Commissioner of Police:
   (b) the chief executive of the Department of Corrections:
   (c) the Director-General of Health.
-(3) If a victim's address is given to the chief executive of the Department of Labour under subsection (1),—
-  (a) that chief executive must, if practicable, give the victim notice that the Minister proposes to consider making a deportation order in respect of the offender under section 91 or section 92 of the Immigration Act 1987; and
-  (b) if an order of that kind is made and the offender concerned appeals against the order under section 104 of that Act, that chief executive must give the victim's address to the Deportation Review Tribunal referred to in section 103 of that Act, and that Tribunal must give the victim prior notice of the hearing of the appeal.
-(4) Failure to comply with subsection (1) or subsection (3) does not invalidate an order of the kind referred to in subsection (3)(a) or a decision on an appeal of the kind referred to in subsection (3)(b).
+(5) If the victim’s address is given to the chief executive under subsection (2),—
+  (a) the chief executive must, if practicable, give the victim notice that the Minister is considering cancelling or suspending the deportation liability of the offender under section 172 of the Immigration Act 2009; and
+  (b) if a deportation liability notice has been served and the offender concerned appeals against that liability for deportation on humanitarian grounds under section 206 of that Act, the chief executive must give the victim’s address to the Immigration and Protection Tribunal, and that Tribunal must give the victim prior notice of the hearing of the appeal.
+(6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)(a) or a decision on an appeal of the kind referred to in subsection (5)(b).
 
 **Representatives for notice**
 
@@ -454,8 +459,8 @@ A victim to whom this section applies may participate in the process for making 
 
 **Submissions on deportation of offender**
 
-### 48 Victim may make submissions on making of deportation order or offender's appeal against deportation order
-A victim to whom this section applies may make submissions to the Minister of Immigration and to the Deportation Review Tribunal, in accordance with sections 93A and 105A of the Immigration Act 1987.
+### 48 Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender’s appeal against deportation
+A victim to whom this section applies may make submissions to the Minister of Immigration and to the Immigration and Protection Tribunal, in accordance with sections 173 and 208 of the Immigration Act 2009.
 
 ## Part 4 — Miscellaneous provisions
 
