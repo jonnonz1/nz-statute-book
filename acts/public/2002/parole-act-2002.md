@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -707,22 +707,42 @@ If a victim requests information on an offender under section 43(3), the Departm
   (c) the offender's statutory release date.
 (2) Before an offender becomes subject to residential restrictions, the chief executive must advise the Police of the date on which the restrictions commence and the date on which they cease to apply.
 
-### 55 Release for purpose of deportation
-(1) The Minister of Immigration may, by notice in writing to the manager of a prison, order the release of an offender into the custody of any Police employee if—
-  (a) the offender is subject to a sentence of imprisonment, including a sentence of imprisonment imposed under the Armed Forces Discipline Act 1971; and
-  (b) the offender has been ordered to be deported from New Zealand by the Governor-General under section 72 of the Immigration Act 1987, or by the Minister of Immigration under any of sections 73, 91, or 92 of that Act; and
-  (c) a copy of the order, or a notice of the making of the order, has been served on the offender; and
-  (d) one of the following applies:
-    (i) the offender has no right of appeal under that Act against the making of that order:
-    (ii) the time for bringing that appeal has expired and the offender has not brought an appeal:
-    (iii) any such appeal has been determined and the order has not been quashed.
-(2) A notice issued under subsection (1) is sufficient authority for the manager to release the offender accordingly on request by any Police employee.
-(3) When a ship or aircraft becomes available to take the offender from New Zealand, and it is practicable in all the circumstances for the offender to leave on that ship or aircraft, a Police employee may require the manager, in accordance with subsection (1), to deliver the offender into the custody of the Police employee; and the Police employee must escort the offender (or arrange for him or her to be escorted) to the seaport or airport and ensure that the offender is placed upon the ship or aircraft and detained there until the ship or aircraft leaves New Zealand.
-(4) If for any reason that ship or aircraft is delayed in New Zealand for more than 24 hours, the offender must be returned to the custody of the manager, and, for that purpose, the warrant by which the offender was originally committed to the prison is deemed to be still in force.
-(5) If an offender is returned to custody under subsection (4), the manager must, on request by any Police employee, release the offender into the custody of that Police employee for deportation, and the provisions of this section apply in respect of every request until the offender is finally deported.
-(6) Despite subsection (1), in respect of any offender to whom paragraphs (a) to (d) of that subsection apply, the chief executive may, at any time within 28 days preceding the offender's statutory release date, by notice in writing to the manager of the prison in which the offender is detained, order the release of the offender into the custody of any Police employee in possession of the notice; and that notice is sufficient authority for the manager to release the offender accordingly.
-(7) If an offender is released into the custody of a Police employee under subsection (6), subsections (3) to (5) apply as if the release were ordered by the Minister of Immigration.
-(8) If an offender is released and deported under this section, his or her sentence continues to run and, if the offender subsequently returns to New Zealand before the sentence expiry date, the offender is liable to resume serving it.
+### 55 Offenders may be released early for deportation
+(1) The Minister of Immigration may, in the Minister's absolute discretion as defined in section 11 of the Immigration Act 2009, give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer if subsections (3) to (7) apply to the offender.
+(2) The chief executive may give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer at a time within 28 days preceding the offender's statutory release date if subsections (3) to (6) apply to the offender. This subsection does not limit subsection (1).
+(3) The offender must be serving a sentence of imprisonment in the prison.
+(4) The offender—
+  (a) must have been sentenced to 2 years or less; or
+  (b) must have—
+    (i) been sentenced to more than 2 years; and
+    (ii) served either 2 years or one-third of the sentence, whichever is shorter; or
+  (c) must have—
+    (i) received an indeterminate sentence; and
+    (ii) served at least 2 years.
+(5) The offender must be—
+  (a) liable for deportation under section 154 of the Immigration Act 2009; or
+  (b) the subject of a deportation order under section 163 of the Immigration Act 2009; or
+  (c) the subject of a deportation liability notice under the Immigration Act 2009; or
+  (d) the subject of a removal order under the Immigration Act 1987; or
+  (e) the subject of a deportation order under the Immigration Act 1987.
+(6) The offender must be described by one of the following:
+  (a) he or she has no right of appeal against his or her liability for deportation:
+  (b) he or she has a right of appeal but has not made an appeal and the time for making an appeal has expired:
+  (c) he or she made an appeal that has been determined by the upholding of the liability for deportation.
+(7) The offender must not pose an undue risk to the safety of the community into which he or she is to be deported, as established to the Minister's satisfaction.
+
+### 55A Implementation of early release for deportation
+(1) A notice under section 55(1) or (2) is sufficient authority for the manager,—
+  (a) if requested by an immigration officer, to release the offender and deliver him or her into the custody of an immigration officer for detention under section 312 of the Immigration Act 2009; or
+  (b) if requested by a constable, to release the offender and deliver him or her into the custody of a constable for arrest and detention under section 313 of the Immigration Act 2009.
+(2) The offender must be returned to the custody of the manager if the circumstances in section 336(1) of the Immigration Act 2009 arise.
+(3) The warrant by which an offender was originally committed to the prison is deemed to be still in force for the purpose of his or her return to custody under subsection (2).
+(4) This section applies to an offender returned to custody under subsection (2) until he or she is finally deported.
+
+### 55B Offenders released early remain offenders under New Zealand law
+The following apply to an offender released and deported under sections 55 and 55A:
+  (a) his or her sentence continues to run; and
+  (b) he or she is liable to resume serving the sentence if he or she returns to New Zealand before the sentence expiry date.
 
 **Variation and discharge of conditions**
 
