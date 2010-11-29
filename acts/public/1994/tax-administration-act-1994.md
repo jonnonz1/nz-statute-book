@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -59,7 +59,7 @@ _Consolidation as at 2010-10-01_
     (b) is defined in section 84(6) for the purposes of that section
   - **benefit** , in sections 82, 82A, 84, and 85 of this Act, has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
     (a) a lump sum payable under section 61DB or section 61DC or section 61DD of that Act:
-    (b) any special assistance granted out of the Crown Bank Account from money appropriated by Parliament under paragraph (d) or paragraph (da) of section 124(1) of that Act
+    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under paragraph (d) or paragraph (da) of section 124(1) of that Act
   - **bill of exchange** , in section 144, means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a bank note
   - **binding ruling** means any—
     (a) public ruling made under section 91D:
@@ -116,7 +116,7 @@ _Consolidation as at 2010-10-01_
       (v) where the objection is determined as a result of proceedings taken in a court, whether or not by way of appeal, the day on which the objection is finally determined, whether in those proceedings or, as the case may be, on an appeal:
       (vi) where the taxpayer does not, within the period of 2 months immediately succeeding the date on which the notice of disallowance of the taxpayer's objection is given to the taxpayer by or on behalf of the Commissioner, by notice to the Commissioner, require—the day on which there expires that period of 2 months:
         (A) that the objection be heard and determined by a Taxation Review Authority; or
-        (B) the Commissioner to state a case for the opinion of the High Court, specifying in the notice the registry of that Court in which the taxpayer requires the case to be filed,—
+        (B) the Commissioner to state a case for the opinion of the High Court, specifying in the notice the registry of that court in which the taxpayer requires the case to be filed,—
       (vii) where, and to the extent that, an objection is allowed by the Commissioner, the day on which the notice of that allowance (to that extent) is given to the taxpayer by the Commissioner:
     (b) for the purposes of Part 8A, means—
       (i) the day on which the Commissioner is notified in writing by the disputant that the disputant is discontinuing a challenge:
@@ -263,9 +263,9 @@ _Consolidation as at 2010-10-01_
   - **proceedings** means proceedings commenced before a hearing authority under Part 8 or Part 8A; and includes a document that a tax law requires to be filed with a hearing authority, or to be served on a person, in connection with the proceedings
   - **promoter** is defined in section 141EC
   - **property** , in section 90 of this Act, has the same meaning as in paragraph (b) of the definition of that term in section YA 1 of the Income Tax Act 2007
-  - **proposed adjustment** means—for the purposes of one or more return periods; and, where the context permits, and is to include a proposed adjustment
-    (a) an adjustment or amendment the Commissioner or a disputant proposes in respect of one or more disputable decisions; or
-    (b) the way the Commissioner proposes to treat differently a tax position or tax positions taken by a disputant in one or more tax returns,—
+  - **proposed adjustment** means—for the purposes of 1 or more return periods; and, where the context permits, and is to include a proposed adjustment
+    (a) an adjustment or amendment the Commissioner or a disputant proposes in respect of 1 or more disputable decisions; or
+    (b) the way the Commissioner proposes to treat differently a tax position or tax positions taken by a disputant in 1 or more tax returns,—
   - **proscribed question** means—
     (a) whether a fact is correct or exists:
     (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person's purpose or intention:
@@ -393,7 +393,7 @@ _Consolidation as at 2010-10-01_
     (c) a non-disputable decision:
     (d) in relation to an obligation to provide a tax return or a tax form, also includes a provision of the Accident Rehabilitation and Compensation Insurance Act 1992 or a regulation made under that Act or the Accident Insurance Act 1998 or a regulation made under that Act or the Injury Prevention, Rehabilitation, and Compensation Act 2001 or a regulation made under that Act
   - **tax paid** is defined in section 120C for the purposes of Part 7
-  - **tax position** means a position or approach with regard to tax under one or more tax laws, including without limitation a position or approach with regard to—
+  - **tax position** means a position or approach with regard to tax under 1 or more tax laws, including without limitation a position or approach with regard to—
     (a) a liability for an amount of tax, or the payment of an amount of tax:
     (b) an obligation to deduct or withhold an amount of tax, or the deduction or withholding of an amount of tax:
     (c) a right to a tax refund, or to claim or not to claim a tax refund:
@@ -436,7 +436,7 @@ _Consolidation as at 2010-10-01_
     (a) is not properly refundable; or
     (b) is in excess of any amount of tax that is refundable,—
   - **withdrawal tax** , in section 95 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007.
-(2) Unless the context otherwise requires, and having regard to the context where there is more than one definition of the same term, other terms used in this Act have the same meanings as they have in the Income Tax Act 2007.
+(2) Unless the context otherwise requires, and having regard to the context where there is more than 1 definition of the same term, other terms used in this Act have the same meanings as they have in the Income Tax Act 2007.
 (3)
 (4)
 
@@ -822,10 +822,10 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (c) shall be valid for a period of 1 month from the date of its issue or such lesser period as the judicial officer considers appropriate; and
   (d) shall state its period of validity, or the date on which it expires.
 (6) Every person exercising the power of entry conferred by a warrant issued under subsection (4) shall produce the warrant of authority and evidence of identity—
-  (a) On first entering the private dwelling; and
-  (b) Whenever subsequently reasonably required to do so.
+  (a) on first entering the private dwelling; and
+  (b) whenever subsequently reasonably required to do so.
 (7) In this section—
-  - **judicial officer** means any District Court Judge, justice, Community Magistrate, or Registrar of a District Court; but does not include any person who is an officer or employee of the Department
+  - **judicial officer** means any District Court Judge, Justice, Community Magistrate, or Registrar of a District Court; but does not include any person who is an officer or employee of the Department
   - **private dwelling** means any building or part of a building occupied as residential accommodation (including any garage, shed, and other building used in connection therewith); and includes any business premises that are or are within a private dwelling.
 
 ### 16B Power to remove and copy documents
@@ -895,10 +895,10 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (a) not to disclose information or to keep information secret; or
   (b) not to perform an obligation.
 (11) Compliance with this section is not a breach of any enactment, rule, or obligation referred to in subsection (10).
-(12) No person is excused from producing information that is the subject of a Court order—
+(12) No person is excused from producing information that is the subject of a court order—
   (a) on the ground that production of the information could or might prove a breach of a tax obligation or subject the taxpayer to a fine, penalty, or conviction; or
   (b) on the ground that another privilege could otherwise be claimed by the taxpayer in relation to production of the information in proceedings in a court.
-(13) Information produced to the Commissioner for review as a result of a Court order under this section—
+(13) Information produced to the Commissioner for review as a result of a court order under this section—
   (a) may be removed and retained by the Commissioner for so long as is necessary to undertake a full review:
   (b) may be copied by the Commissioner, without liability for a fee or payment.
 (14) A person who is required to produce information for review under this section must, if the information is not kept in written form, make the necessary arrangements to ensure that the information can be viewed and copied.
@@ -913,7 +913,7 @@ A person who meets the requirements of section 15R may apply under section 15Q t
 (4) The Commissioner and every person who is interested in the subject-matter of the inquiry may be represented by a barrister or solicitor, who may examine, cross-examine, and re-examine, in accordance with the ordinary practice, any person so summoned:
   provided that every person so summoned may be cross-examined by the Commissioner or by the Commissioner's barrister or solicitor.
 (5) Every examination under this section shall take place in chambers.
-(6) The statement of every person so examined shall be taken down in writing, and signed by the person in the presence of the District Court Judge, and delivered to the Commissioner, and shall not form part of the records of the Court.
+(6) The statement of every person so examined shall be taken down in writing, and signed by the person in the presence of the District Court Judge, and delivered to the Commissioner, and shall not form part of the records of the court.
 (7) No person summoned or examined under this section shall be excused from answering any question on the ground that the answer may incriminate the person or render the person liable to any penalty or forfeiture.
 (8) No statement made by any such person in answer to any question put to the person shall in criminal proceedings be admissible in evidence against the person, except upon a charge of perjury against the person in respect of the person's testimony upon that examination.
 (9) A person summoned under this section may receive out of money appropriated by Parliament for the purpose such sum on account of travelling expenses and loss of time as the District Court Judge thinks reasonable and orders accordingly.
@@ -1000,7 +1000,7 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (b) if the requirement to disclose information is under section 17, by the date that is the later of the following:
     (i) the date that is given by the Commissioner in the request for disclosure of the information:
     (ii) the date that is 28 days after the date of the request by the Commissioner for disclosure of the information:
-  (c) if the requirement to disclose information is under section 17A or section 18, by the date on which the Court requires the production of information:
+  (c) if the requirement to disclose information is under section 17A or section 18, by the date on which the court requires the production of information:
   (d) if the requirement to disclose information is under section 19, by the date on which the Commissioner requires the production of information:
   (e) if the requirement to disclose information is under a discovery obligation, by the date by which the discovery obligation requires the disclosure of information.
 (5) If a tax advisor acting on behalf of a person claims that a book or document is a tax advice document for the person, the claim must include written confirmation from the tax advisor that the tax advisor is authorised to act on behalf of the person for the purposes of sections 20C to 20G.
@@ -1017,7 +1017,7 @@ An information holder who is required to disclose information in relation to a p
   (b) if the requirement to disclose information is under section 17 and the requirement is accompanied or followed by a requirement for disclosure of a description of tax contextual information, by the date that is the later of—
     (i) the date that is given by the Commissioner in the requirement for disclosure of the description:
     (ii) the date that is 28 days after the date of the requirement by the Commissioner for disclosure of the description:
-  (c) if the requirement to disclose information is under section 17A or section 18, by the date on which the Court requires the production of information:
+  (c) if the requirement to disclose information is under section 17A or section 18, by the date on which the court requires the production of information:
   (d) if the requirement to disclose information is under section 19, by the date on which the Commissioner requires the production of information:
   (e) if the requirement to disclose information is under a discovery obligation, by the date by which the discovery obligation requires the disclosure of information.
 (3) Tax contextual information for a tax advice document for a person is—
@@ -1059,8 +1059,8 @@ An information holder who is required to disclose information in relation to a p
     (i) the person responded to the requisition in relation to the offshore payment within 90 days of the date of the mailing of the requisition; or
     (ii) the taxpayer responded to the copy of the requisition required to be given to the taxpayer under subsection (6) in relation to the offshore payment within 90 days of the date of the mailing of the requisition.
 (2) Where the Commissioner gives an information requisition to any person and the requisition concerns, either wholly or in part, a deduction claimed by a taxpayer in respect of any offshore payment and the person responds to the requisition, any evidence concerning the offshore payment that relates to any information or material sought by the Commissioner in the requisition shall not be admissible in any proceedings under Part 8 or Part 8A in which any deduction in respect of the offshore payment is in issue, except to the extent to which—
-  (a) Such evidence is provided or is referred to or is otherwise identified in the person's response to the requisition or in any other material in the possession of the Commissioner when the Commissioner gave the requisition to the person and is able to be verified by the Commissioner; or
-  (b) Such evidence is provided to the Commissioner by the taxpayer, if the requisition was given to a person other than the taxpayer, within 90 days of the date of the mailing of the copy of the requisition required to be given to the taxpayer under subsection (6) and is able to be verified by the Commissioner.
+  (a) such evidence is provided or is referred to or is otherwise identified in the person's response to the requisition or in any other material in the possession of the Commissioner when the Commissioner gave the requisition to the person and is able to be verified by the Commissioner; or
+  (b) such evidence is provided to the Commissioner by the taxpayer, if the requisition was given to a person other than the taxpayer, within 90 days of the date of the mailing of the copy of the requisition required to be given to the taxpayer under subsection (6) and is able to be verified by the Commissioner.
 (3) Nothing in subsection (2) shall prevent the Commissioner from adducing any evidence in any proceedings.
 (4) Subsection (2) shall not apply unless the Commissioner, by a separate notice issued prior to or contemporaneously with a notice of assessment, informs the taxpayer claiming a deduction in respect of any offshore payment referred to in any requisition that the Commissioner considers that,—has not furnished sufficient information or material to sustain a deduction claimed by the taxpayer in respect of any offshore payment referred to in the requisition.
   (a) the taxpayer; or
@@ -1075,7 +1075,7 @@ An information holder who is required to disclose information in relation to a p
 (8) In this section—
   - **information requisition** , or , in relation to any person, means a notice —
     (a) given by the Commissioner to the person giving notice of the exercise by the Commissioner of any power under section 17; and
-    (b) requiring the person to furnish any information or produce for inspection any books or documents or verify by statutory declaration or otherwise any information or particulars as specified in the notice:
+    (b) requiring the person to furnish any information or produce for inspection any books or documents or verify by statutory declaration or otherwise any information or particulars as specified in the notice
   - **offshore payment** , in relation to a taxpayer, means an amount of expenditure or loss incurred or purportedly incurred by the taxpayer on or after 1 August 1986 to—
     (a) a person outside New Zealand; or
     (b) a person (whether in or outside New Zealand) associated with or acting for or on behalf of or in a fiduciary capacity in relation to a person outside New Zealand; or
@@ -1125,7 +1125,7 @@ An information holder who is required to disclose information in relation to a p
   (m) the financial position of the foreign trust,—
   provided that the Commissioner may, on application in writing being made to the Commissioner in that behalf, authorise any such person, by notice, to keep and retain outside New Zealand or, as the case may be, in a language other than the English language, such of those records as the Commissioner determines.
 (2B) A taxpayer referred to in subsection (2)(e) who is required by subsection (2) to retain records is not required to retain those records for a period of more than 7 years after the end of the income year to which the records relate.
-(2C) If there are more than one resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
+(2C) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
 (3) A taxpayer to whom section 33A applies and who is required by subsection (2) to retain records of income of that taxpayer from which tax has been withheld or deducted at source need retain those records only until the expiry of 12 months after the end of the income year in which the income was received by the taxpayer.
 (4) This section shall not require the retention of any records—
   (a) in respect of which the Commissioner has given notice that retention is not required:
@@ -1197,18 +1197,18 @@ An information holder who is required to disclose information in relation to a p
   (a) an extra pay:
   (b) a schedular payment:
   (c) a payment of an income-tested benefit.
-(3) An employee must notify their employer that their tax code is 1 of the following:
-  (a) ‘M’ for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 or LC 13 of the Income Tax Act 2007:
-  (ab) ‘ME’ for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
-  (b) ‘ML’ for primary employment earnings when the employee is entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
-  (bb) ‘SB’ for secondary employment earnings for an employee whose annual income is not more than $14,000:
-  (c) ‘S’ for secondary employment earnings for an employee whose annual income is not more than $48,000:
-  (d) ‘SH’ for secondary employment earnings for an employee whose annual income is more than $48,000 but is not more than $70,000:
-  (e) ‘ST’ for secondary employment earnings for an employee whose annual income is more than $70,000:
-  (f) ‘CAE’ for salary or wages for employment as a casual agricultural employee:
-  (g) ‘EDW’ for salary or wages for employment as an election day worker:
-  (gb) ‘NSW’ for salary or wages for employment as a non-resident seasonal worker:
-  (h) ‘no notification’ when the employee has not provided their employer with a tax code notification or a tax code certificate.
+(3) An employee must notify their employer that their tax code is one of the following:
+  (a) M for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 or LC 13 of the Income Tax Act 2007:
+  (ab) ME for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
+  (b) ML for primary employment earnings when the employee is entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
+  (bb) SB for secondary employment earnings for an employee whose annual income is not more than $14,000:
+  (c) S for secondary employment earnings for an employee whose annual income is not more than $48,000:
+  (d) SH for secondary employment earnings for an employee whose annual income is more than $48,000 but is not more than $70,000:
+  (e) ST for secondary employment earnings for an employee whose annual income is more than $70,000:
+  (f) CAE for salary or wages for employment as a casual agricultural employee:
+  (g) EDW for salary or wages for employment as an election day worker:
+  (gb) NSW for salary or wages for employment as a non-resident seasonal worker:
+  (h) no notification when the employee has not provided their employer with a tax code notification or a tax code certificate.
 (4) If another Act requires an employer to withhold the amount of tax for a PAYE income payment to an employee and pay the amount to the Commissioner, the tax code may be combined with another code applying under that Act.
 
 ### 24C Tax code for payment that includes income-tested benefits
@@ -1253,7 +1253,7 @@ An employee who wishes to have a tax code for their employment as a private dome
     (i) the employer has no earlier tax code for the employee; or
     (ii) the notification or certificate changes an earlier tax code for the employee and is provided before the date on which the employer calculates their payroll for the period:
   (b) the first day of the pay period following that to which the payment relates if the notification or certificate changes an earlier tax code for the employee and is provided after the date on which the employer calculates their payroll for the period.
-(4) A tax code notification must provide for an employee’s statement of their entitlement under the Immigration Act 1987 to work for their employer.
+(4) A tax code notification must provide for an employee’s statement of their entitlement under the Immigration Act 2009 to work for their employer.
 (5) A tax code notification or tax code certificate delivered to an employer before the start of the tax year but expressed to relate to the tax year, is treated as if it is delivered on 1 April in the tax year.
 
 ### 24J Proof of payment
@@ -1354,7 +1354,7 @@ The Commissioner may vary the requirements set out in RD 22 of the Income Tax Ac
   (a) all resident passive income is interest paid by the person under a financial arrangement, and the interest is not more than $50 in that tax year; or
   (b) the RWT withheld was from resident passive income that is interest, and the amount was required to be withheld by the person under section RE 7 or RE 8 of the Income Tax Act 2007, and the total amount of the resident passive income, being interest, paid by the person in that tax year to the recipient of the interest is no more than $50,—
 (8) An RWT withholding certificate must be retained by the person to whom it is provided for a period of 3 years after the end of the year to which it relates, unless the Commissioner otherwise permits.
-(9) Where any resident passive income is paid to or derived (as applicable) by 2 or more persons jointly, any payer shall be entitled to treat those persons as one person and accordingly issue only one RWT withholding certificate in the name of any one or more of those persons who may be nominated by those persons for this purpose or, in the absence of any such nomination, in the name of those persons jointly.
+(9) Where any resident passive income is paid to or derived (as applicable) by 2 or more persons jointly, any payer shall be entitled to treat those persons as one person and accordingly issue only one RWT withholding certificate in the name of any 1 or more of those persons who may be nominated by those persons for this purpose or, in the absence of any such nomination, in the name of those persons jointly.
 (10) For the purposes of this section, an RWT withholding certificate shall be deemed to have been provided to a recipient where the certificate—
   (a) is given to the recipient personally; or
   (b) is sent by post addressed to the recipient at the recipient's last known place of abode or business; or
@@ -1738,7 +1738,7 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
   (d) received total income of more than $200 that included—
     (i) a schedular payment, if it is not—
       (A) an amount or proportion of a schedular payment for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007:
-      (B) income that is a personal service rehabilitation payment for a claimantunder the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+      (B) income that is a personal service rehabilitation payment for a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
     (ii) beneficiary income; or
   (d)
   (db)
@@ -1844,7 +1844,7 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 (4) In this section, registered person has the same meaning as in section 2(1) of the Goods and Services Tax Act 1985.
 
 ### 36A Electronic format of employer monthly schedule and PAYE payment form
-(1) The Commissioner must prescribe one or more electronic formats in which an employer monthly schedule must be furnished by an employer or a PAYE intermediary that is required to furnish that schedule in an electronic format.
+(1) The Commissioner must prescribe 1 or more electronic formats in which an employer monthly schedule must be furnished by an employer or a PAYE intermediary that is required to furnish that schedule in an electronic format.
 (2) The Commissioner may prescribe 1 or more electronic formats in which a PAYE payment form must be furnished by an employer or a PAYE intermediary that has elected to furnish that payment form in electronic format.
 (2B) An employer or PAYE intermediary to whom section RD 22(1) of the Income Tax Act 2007 applies must provide their employer monthly schedules and PAYE income payment forms to the Commissioner by electronic means and in the required format. But the requirement to file electronically does not apply if the employer—
   (a) is not a new employer and has gross amounts of tax for PAYE income payments and employer's superannuation contributions payable for the preceding tax year of less than $100,000:
@@ -1877,7 +1877,7 @@ The Commissioner must prescribe 1 or more electronic formats in which a return r
   (b) the authorisation under this section expires on the last day of the 1999–2000 tax year.
 
 ### 36BB Electronic format for details required for tax pooling intermediaries
-The Commissioner may prescribe one or more electronic formats in which details that must be provided under sections RP 17 to RP 21 of the Income Tax Act 2007, and sections 15N to 15S may be provided by electronic means.
+The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under sections RP 17 to RP 21 of the Income Tax Act 2007, and sections 15N to 15S may be provided by electronic means.
 
 ### 36BC Electronic format for details required under subpart EK of Income Tax Act 2007
 The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under subpart EK of the Income Tax Act 2007 may be provided by electronic means.
@@ -2160,7 +2160,7 @@ An employer that is not required to furnish an employer monthly schedule electro
   - **child tax credit** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **continuation period** , in relation to a person receiving weekly compensation, means the period beginning on the first day of the person's eligibility for weekly compensation and ending on the earlier of—
     (a) the day having the same date as the first day of the person's continuous period of eligibility for weekly compensation and occurring in the third calendar month after that first day; and
-    (b) the last day of the third calendar month after the first day of the person's continuous period of eligibility for weekly compensation:
+    (b) the last day of the third calendar month after the first day of the person's continuous period of eligibility for weekly compensation
   - **Corporation** means the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation
   - **weekly compensation** means compensation of the kind referred to in paragraph (b)(xii) or (xiii) of the definition of salary or wages in section OB 1 of the Income Tax Act 2004 paid by the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation or its agent.
 
@@ -2208,7 +2208,7 @@ An employer that is not required to furnish an employer monthly schedule electro
 
 ### 48 Special arrangements for supply of information by employer or PAYE intermediary to Commissioner
 (1) Notwithstanding anything in this Act and the Income Tax Act 2007, with the prior consent of the Commissioner, any requirement under this Act or the Income Tax Act 2007 for the delivery by an employer or a PAYE intermediary of any reconciliation, or return to the Commissioner or an employee may be satisfied by submitting the information required in any manner approved by the Commissioner.
-(2) Any information submitted under subsection (1) may, with the prior consent of the Commissioner, relate to more than one employer or PAYE intermediary.
+(2) Any information submitted under subsection (1) may, with the prior consent of the Commissioner, relate to more than 1 employer or PAYE intermediary.
 (3) For the purposes of this section, the Commissioner may—
   (a) give consent under this section upon such terms and conditions as the Commissioner thinks fit:
   (b) vary those terms and conditions and revoke any such consent at any time:
@@ -2389,10 +2389,10 @@ Every authorised savings institution shall, not later than 15 May in each year,�
   (a) by the 30 June after the end of the tax year if—
     (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
     (ii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
-  (b) by the end of the 2nd month after that in which the PIE’s corresponding income year ends, if—
+  (b) by the end of the second month after that in which the PIE’s corresponding income year ends, if—
     (i) the PIE has a corresponding income year that ends after the end of the tax year; and
     (ii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
-  (c) by the end of the 3rd month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
+  (c) by the end of the third month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
 
 ### 58 Returns of specified charitable, benevolent, philanthropic, or cultural bodies
 Every gift-exempt body shall furnish, on request, by notice, of the Commissioner, a return of its funds derived or received in any tax year and showing the source and application of those funds, together with such other particulars as may be required by the Commissioner.
@@ -2435,7 +2435,7 @@ Every gift-exempt body shall furnish, on request, by notice, of the Commissioner
   (b) if subsection (3) does apply, the date that is the later of—
     (i) the date that is 30 days after the end of the period of 2 years that begins when the trustee becomes a New Zealand resident:
     (ii) the date that would be given by paragraph (a) if subsection (3) did not apply.
-(7) If there are more than one resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of making disclosure under this section.
+(7) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of making disclosure under this section.
 
 ### 60 Returns of inter-related arrangements
 [Repealed]
@@ -2727,7 +2727,7 @@ A person to whom section 33A(1) applies may, at any time after the end of the pe
     (ii) to whom section 33A(1) does apply and who requests the Commissioner to issue an income statement:
     (iii) to whom section 33A(1) does apply and who is required by section RD 4(2) of the Income Tax Act 2007 to provide to the Commissioner an employer monthly schedule relating to a PAYE income payment that the person derived in the tax year.
 (2) Despite subsection (1), the Commissioner may issue an income statement to a person, or require a person to apply for an income statement, at any time if the Commissioner considers the person has received income in a tax year.
-(3) The Commissioner may issue more than one income statement in respect of a tax year to a person.
+(3) The Commissioner may issue more than 1 income statement in respect of a tax year to a person.
 
 ### 80E Particulars to be included in income statement
 (1) An income statement issued under this Part must contain the information specified in subsection (2) to the extent that the information is both available and applicable to the person's circumstances.
@@ -2868,7 +2868,7 @@ A notice of entitlement issued under section 80KD—
   (a) a notice of entitlement has been issued to a person; and
   (b) 1 or more of the events described in subsection (6) occur.
 (5) The person may notify the Commissioner if an event of the kind described in subsection (6) occurs that may change a person’s entitlement.
-(6) The events include —
+(6) The events include—
   (a) the person or their spouse, civil union partner, or de facto partner becomes the principal caregiver of any child; or
   (b) something happens that the person thinks may affect their entitlement to the tax credit specified in the notice of entitlement; or
   (c) the notice of entitlement is lost or destroyed.
@@ -2885,9 +2885,9 @@ A notice of entitlement issued under section 80KD—
 ### 80KI Payment of tax credit by instalment by Commissioner
 (1) This section applies when the Commissioner has given a notice of entitlement to a person.
 (2) In the period described in subsection (3), the Commissioner must pay to the person the instalments of the tax credit set out in the notice of entitlement.
-(3) The period —
+(3) The period—
   (a) starts on the day stated in the notice of entitlement; and
-  (b) ends with the earlier of —
+  (b) ends with the earlier of—
     (i) the day on which the notice of entitlement is cancelled by the Commissioner; or
     (ii) the end date stated in the notice of entitlement.
 (4) The Commissioner may choose the days on which the instalments are paid.
@@ -2915,7 +2915,7 @@ A notice of entitlement issued under section 80KD—
     (i) gives the Commissioner the details of an existing bank account held by the person (whether alone or jointly with their spouse, civil union partner, or de facto partner); or
     (ii) opens a bank account (if they do not have one), and gives the Commissioner details of that account; and
   (b) the existing account or, as applicable, the opened account is an account held as described in subsection (2).
-(2) The account must be held with —
+(2) The account must be held with—
   (a) a registered bank within the meaning of that term in section 2 of the Reserve Bank of New Zealand Act 1989; or
   (b) a building society, in respect of any deposits with the building society; or
   (c) the Public Service Investment Society Limited; or
@@ -3048,8 +3048,8 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 (4) Nothing in subsection (1) or subsection (3) shall be deemed to prohibit the Commissioner from—
   (a) communicating such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected indictable or summary offence, being a prosecution or an investigation in relation to any misappropriation or attempted misappropriation by any person in respect of money payable by the Department to another person or by any person in respect of money entrusted to that person by, for, or on behalf of, another person for payment to the Department:
     provided that no communication under this paragraph shall be made in respect of any person to whom any such money was payable, or by, or for, or on behalf of, whom any such money was entrusted, unless that person or that person's legal personal representative, or, where that person is a company, the authorised officer of that company, consents to the communication:
-  (b) divulging or communicating any matter or thing or producing in any Court any book or document, that the Commissioner considers desirable for the purposes of any investigation into any suspected offence or prosecution under the Crimes Act 1961, where the investigation or prosecution is in relation to any tax imposed or payable or any refund made or claimed under the Goods and Services Tax Act 1985, and any such matter or thing shall be deemed to be divulged or communicated and any such book or document shall be deemed to be produced for the purpose of carrying into effect the Goods and Services Tax Act 1985:
-  (c) divulging or communicating any matter or thing to the Director of the Serious Fraud Office, or producing in any Court any book or document, that the Commissioner considers desirable for the purposes of any investigation or prosecution in relation to any suspected inland revenue offence, and any such matter or thing shall be deemed to be divulged or communicated, and any such book or document shall be deemed to be produced, for the purpose of carrying into effect the Acts referred to in subparagraphs (i), (ii), and (iia) of subsection (1)(a) or any other enactment imposing taxes or duties payable to the Crown:
+  (b) divulging or communicating any matter or thing or producing in any court any book or document, that the Commissioner considers desirable for the purposes of any investigation into any suspected offence or prosecution under the Crimes Act 1961, where the investigation or prosecution is in relation to any tax imposed or payable or any refund made or claimed under the Goods and Services Tax Act 1985, and any such matter or thing shall be deemed to be divulged or communicated and any such book or document shall be deemed to be produced for the purpose of carrying into effect the Goods and Services Tax Act 1985:
+  (c) divulging or communicating any matter or thing to the Director of the Serious Fraud Office, or producing in any court any book or document, that the Commissioner considers desirable for the purposes of any investigation or prosecution in relation to any suspected inland revenue offence, and any such matter or thing shall be deemed to be divulged or communicated, and any such book or document shall be deemed to be produced, for the purpose of carrying into effect the Acts referred to in subparagraphs (i), (ii), and (iia) of subsection (1)(a) or any other enactment imposing taxes or duties payable to the Crown:
   (d) communicating to any officer, being an employee of the Department of Statistics, any information, being information—
     (i) which that officer is authorised by that Department to receive; and
     (ii) which the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable that officer to carry out any official duty lawfully imposed on the officer by the Statistics Act 1975:
@@ -3094,7 +3094,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (m) publishing a product ruling issued under Part 5A.
   (mb) publishing a list of organisations that are approved organisations:
   (mc) publishing the name of a company that has given the Commissioner a notice under section EX 33B(1)(b) or (2)(b) of the Income Tax Act 2004:
-  (n) Communicating to any Registrar, in accordance with section 104A of the Summary Proceedings Act 1957, any information required under subsection (1) of that section.
+  (n) communicating to any Registrar, in accordance with section 104A of the Summary Proceedings Act 1957, any information required under subsection (1) of that section.
   (n)
   (o) communicating, for the purpose of section 82A, information to a person who is an officer, employee, or agent of the responsible department and who is authorised to receive the information by the chief executive of that department:
   (p) communicating, for the purpose of section 85F, information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the Chief Executive of the New Zealand Film Commission:
@@ -3166,7 +3166,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   - **Corporation** means the Accident Compensation Corporation or the Accident Rehabilitation and Compensation Insurance Corporation
   - **earnings related compensation** means—
     (a) compensation payable under the accident Compensation Act 1982; and
-    (b) any compensation for loss of earnings payable under sections 38, 39, and 43 of the Accident Rehabilitation and Compensation Insurance Act 1992, and any vocational rehabilitation allowance payable under section 25 of that Act, and any compensation for loss of potential earning capacity payable under section 45 or section 46 of that Act, and any weekly compensation payable under section 58, section 59, or section 60 of that Act, and any payments continued to be paid under section 137, section 138, or section 145 of that Act (excluding any payments continued under section 143 of that Act in relation to section 68 of the Accident Compensation Act 1982).
+    (b) any compensation for loss of earnings payable under sections 38, 39, and 43 of the Accident Rehabilitation and Compensation Insurance Act 1992, and any vocational rehabilitation allowance payable under section 25 of that Act, and any compensation for loss of potential earning capacity payable under section 45 or section 46 of that Act, and any weekly compensation payable under section 58, section 59, or section 60 of that Act, and any payments continued to be paid under section 137, section 138, or section 145 of that Act (excluding any payments continued under section 143 of that Act in relation to section 68 of the Accident Compensation Act 1982):
     (c) any weekly compensation payable under the Accident Insurance Act 1998 or the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ### 82A Disclosure of information to prevent cessation of benefit payments
@@ -3248,10 +3248,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   - **debtor information** means information that identifies the debtor, which may include the debtor's tax file number.
 
 ### 85A Disclosure of certain information in relation to fines defaulters
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Department for Courts for the purpose of establishing an information matching programme to enable the Department for Courts to locate any fines defaulter.
-(2) For the purpose of this section, any authorised officer of the Department for Courts may from time to time supply to the Commissioner any fines defaulter information held by that Department.
-(3) If, in relation to any fines defaulter, information is supplied by any authorised officer of the Department for Courts to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the fines defaulter.
-(4) If the Commissioner has information relating to the fines defaulter, the Commissioner may supply to an authorised officer of the Department for Courts all or any of the following information that is held by the Commissioner in relation to that fines defaulter:
+(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Ministry of Justice for the purpose of establishing an information matching programme to enable the Ministry of Justice to locate any fines defaulter.
+(2) For the purpose of this section, any authorised officer of the Ministry of Justice may from time to time supply to the Commissioner any fines defaulter information held by that Ministry.
+(3) If, in relation to any fines defaulter, information is supplied by any authorised officer of the Ministry of Justice to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the fines defaulter.
+(4) If the Commissioner has information relating to the fines defaulter, the Commissioner may supply to an authorised officer of the Ministry of Justice all or any of the following information that is held by the Commissioner in relation to that fines defaulter:
   (a) the last known address of the fines defaulter; and
   (b) if applicable, the date when that address was most recently changed; and
   (c) the telephone number of the fines defaulter; and
@@ -3260,8 +3260,8 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (f) the telephone number of the employer of the fines defaulter.
 (5) The provisions of this section apply despite any other provision of this Act.
 (6) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the Department for Courts, means any officer, employee, or agent of that Department who is authorised by the chief executive to supply information to or receive information from the Commissioner under this section
-  - **chief executive** means the chief executive of the Department for Courts
+  - **authorised officer** , in relation to the Ministry of Justice, means any officer, employee, or agent of that Ministry who is authorised by the chief executive to supply information to or receive information from the Commissioner under this section
+  - **chief executive** means the chief executive of the Ministry of Justice
   - **fines defaulter** means any person who is in default in the payment of—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
     (b) an amount of reparation as defined in section 145D of the Sentencing Act 2002:
@@ -3415,7 +3415,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (5) In this section and in section 85L, unless the context otherwise requires,—
   - **authorised officer of the Ministry** means an officer of the Ministry who is authorised by the chief executive of the Ministry to provide information under this section
   - **authorised officer of the police** means a Police employee who is authorised by the Commissioner of Police to provide information under this section
-  - **Ministry** means the Ministry of Justice
+  - **ministry** means the Ministry of Justice
   - **sex offence** means an offence under any of sections 127 to 144C of the Crimes Act 1961
   - **victim** means the person against whom an offence is committed by another person.
 
@@ -3435,7 +3435,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
   (aa) where it contains certificates given by persons mentioned in subsection (5)(aa), be kept by the Regulator; and
   (b) where it contains certificates given by persons mentioned in subsection (5)(b), be kept by the person, association, company, firm, body, or institution to whom or to which powers and functions have been delegated or subdelegated under the relevant provision referred to in subsection (5)(b); and
   (c) where it contains certificates given by persons mentioned in subsection (5)(c), be kept by the New Zealand Superannuation Corporation; and
-  (d) Where it contains certificates given by persons mentioned in subsection (5)(d), be kept by the person, association, company, firm, body, or institution to whom or to which powers and functions have been delegated or subdelegated under the relevant provision referred to in subsection (5)(d):
+  (d) where it contains certificates given by persons mentioned in subsection (5)(d), be kept by the person, association, company, firm, body, or institution to whom or to which powers and functions have been delegated or subdelegated under the relevant provision referred to in subsection (5)(d):
   provided that, when any such person, association, company, firm, body, or institution ceases to be a person, association, company, firm, body, or institution to whom or to which powers and functions are delegated or subdelegated under the relevant provision, the register kept by the person or entity, shall, as soon as practicable after that cessation, be deposited with the Commissioner.
 (5) In this section, person to whom this section applies means—and who by reason of that membership, appointment, or employment, or in the course of that membership, appointment, or employment, or by reason of, or in the course of carrying out, any powers, or functions under the delegation or subdelegation, as the case may be, may acquire or have access to or be given, through the agency of the Commissioner, any information which the Commissioner has obtained or which has been disclosed to the Commissioner under—
   (a) a person who is or has been a member of, or who is or has been appointed or employed by, the Accident Compensation Corporation constituted under the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Corporation constituted under the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Compensation Corporation established under the Accident Insurance Act 1998 or continued by the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
@@ -3509,10 +3509,10 @@ In any case where the Commissioner has reason to believe that the funds of any g
 
 ### 89B Commissioner may issue notices of proposed adjustment
 (1) The Commissioner may issue 1 or more notices of proposed adjustment in respect of a tax return or an assessment.
-(2) The Commissioner may issue one notice of proposed adjustment in relation to more than one return period, if, in the Commissioner's opinion,—
+(2) The Commissioner may issue one notice of proposed adjustment in relation to more than 1 return period, if, in the Commissioner's opinion,—
   (a) the adjustments proposed to each tax return or assessment for the return periods relate exclusively to the same issues or arrangements; or
   (b) the adjustments proposed to each tax return or assessment for the return periods relate substantially to the same issues, and the issue of one notice is likely to expedite the issue of the assessments for all of the returns.
-(3) The Commissioner may issue a notice of proposed adjustment in relation to more than one return period, more than 1 issue, and more than 1 tax type.
+(3) The Commissioner may issue a notice of proposed adjustment in relation to more than 1 return period, more than 1 issue, and more than 1 tax type.
 (4) The Commissioner may not issue a notice of proposed adjustment—
   (a) if the proposed adjustment is already the subject of a challenge; or
   (b) after the expiry of the time bar that, under—applies to the assessment.
@@ -4332,7 +4332,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
 (1) A person, in their own right or on behalf of a person who is yet to come into legal existence, may apply to the Commissioner for a private ruling on how a taxation law applies, or would apply, to—
   (a) the person making the application or the prospective person, as the case may be; and
   (b) an arrangement, whether a single or a recurring arrangement.
-(2) Two or more persons may jointly apply, or a person on behalf of two or more persons who are yet to come into legal existence, may apply to the Commissioner for a private ruling on how a taxation law applies, or would apply, to each person and to an arrangement, whether a single or a recurring arrangement.
+(2) Two or more persons may jointly apply, or a person on behalf of 2 or more persons who are yet to come into legal existence, may apply to the Commissioner for a private ruling on how a taxation law applies, or would apply, to each person and to an arrangement, whether a single or a recurring arrangement.
 (3) An application for a private ruling—
   (a) must be made in the form prescribed by the Commissioner; and
   (b) must comply with the disclosure requirements of section 91ED.
@@ -4669,7 +4669,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
   (b) as a consequence of how or the way in which a tax position is taken,—
 (3) For the purposes of subsection (2),—
   (a) where a shortfall penalty is imposed in respect of a partnership, the part of that penalty imposed on each partner shall be in proportion to the partner's share or interest in the partnership; and
-  (b) where a shortfall penalty is imposed in respect of a group of persons (other than a partnership), that penalty shall be imposed in such proportions as the Commissioner determines on any one or more of the persons in that group.
+  (b) where a shortfall penalty is imposed in respect of a group of persons (other than a partnership), that penalty shall be imposed in such proportions as the Commissioner determines on any 1 or more of the persons in that group.
 
 ### 95 Assessment of withdrawal tax
 (1) The Commissioner may, in respect of any person who is chargeable with withdrawal tax under section RZ 9 of the Income Tax Act 2007, make an assessment of the amount of withdrawal tax which, in the Commissioner's judgment, ought to be imposed, and that person shall be liable to pay the tax so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with withdrawal tax.
@@ -4843,7 +4843,7 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 
 ### 110 Evidence of returns and assessments
 (1) The production of any document under the hand of the Commissioner or an officer of the Department purporting to be a copy of or extract from any return, income statement, or assessment shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the original, and the production of the original shall not be necessary, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the Department either to the original or to any such copy or extract.
-(2) The production of any document under the hand of the Commissioner or an officer of the Department purporting to be a hard-copy transcript of all or any information transmitted by electronic means in accordance with section 36, or section 36A, or any other provision of this Act or of any of the other Inland Revenue Acts or the Goods and Services Tax Act 1985 shall in all Courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the information electronically transmitted, and all Courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the Department to any such hard-copy transcript.
+(2) The production of any document under the hand of the Commissioner or an officer of the Department purporting to be a hard-copy transcript of all or any information transmitted by electronic means in accordance with section 36, or section 36A, or any other provision of this Act or of any of the other Inland Revenue Acts or the Goods and Services Tax Act 1985 shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the information electronically transmitted, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the Department to any such hard-copy transcript.
 
 ### 111 Commissioner to give notice of assessment to taxpayer
 (1) As soon as conveniently may be after making an assessment the Commissioner shall cause notice of the assessment to be given to the taxpayer:
@@ -4934,7 +4934,7 @@ An assessment made by the Commissioner is not invalidated—
 (4) Where the Commissioner determines an amount under subsection (1) or subsection (2), the Commissioner must give the taxpayer notice accordingly and, where the provisional tax payable by the taxpayer is increased under the determination,—
   (a) subject to paragraph (b), the amount of the consequent shortfall shall be due and payable by the taxpayer on such day as is specified in the notice, being a day not less than 30 days after the issuing of the notice; or
   (b) where the notice specifies that an estimate furnished by the taxpayer was not fair and reasonable, the consequent shortfall for any instalment date for which the estimate had effect, or would but for the determination have effect, shall be treated as being or having been due and payable by the taxpayer on that instalment date, except to the extent superseded by any further estimate or determination.
-(5) The amount of any provisional tax determined by the Commissioner in accordance with this section shall be open to objection under Part Part 8 or may be challenged under 8A.
+(5) The amount of any provisional tax determined by the Commissioner in accordance with this section shall be open to objection under Part 8 or may be challenged under Part 8A.
 
 ### 119A Amount of provisional tax based on 1997–98 or earlier income year
 [Repealed]
@@ -4960,7 +4960,7 @@ An assessment made by the Commissioner is not invalidated—
   (c) the taxpayer has indicated to the Commissioner, before the date that the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 receives the Royal assent, that repealed sections 120 or 139 of this Act or repealed sections 34A or 398 of the Income Tax Act 1976 apply; and
   (d) the decision on the objection, appeal, or case stated requires the Commissioner to refund the qualifying tax in dispute paid or requires the taxpayer to pay deferrable tax, as that term was defined before its repeal by section 3 of the Tax Administration Amendment Act (No 2) 1996.
 (2) If subsection (1) applies, the Commissioner must apply, as appropriate—
-  (a) Sections 120 or 139 as they applied immediately before their repeal by sections 36 and 43 respectively of the Tax Administration Amendment Act (No 2) 1996; or
+  (a) sections 120 or 139 as they applied immediately before their repeal by sections 36 and 43 respectively of the Tax Administration Amendment Act (No 2) 1996; or
   (b) sections 34A or 398 of the Income Tax Act 1976 as they applied immediately before the enactment of this Act.
 
 ### 120B Persons excluded
@@ -5016,8 +5016,8 @@ Nothing in this Part applies to—
       (ii) has not been refunded or applied by the Commissioner to satisfy another tax liability:
     (b) an amount credited by the time to a tax pooling account under sections RP 17 to RP 21 of the Income Tax Act 2007:
     (c) an amount credited or transferred by the time to a taxpayer's account with the Commissioner from a tax pooling account under sections RP 17 to RP 21 of that Act
-  - **Tax payable** , at any time, means the amount of tax payable in respect of a tax liability by that time, determined in accordance with the tax laws; and includes an amount of tax that must be withheld or deducted under a tax law and paid to the Commissioner
-  - **Taxpayer's paying rate** means the rate of interest established and notified as the taxpayer's paying rate by an Order in Council made under section 120H.
+  - **tax payable** , at any time, means the amount of tax payable in respect of a tax liability by that time, determined in accordance with the tax laws; and includes an amount of tax that must be withheld or deducted under a tax law and paid to the Commissioner
+  - **taxpayer's paying rate** means the rate of interest established and notified as the taxpayer's paying rate by an Order in Council made under section 120H.
 (2) For the purposes of this Part, where, at any time,—
   (a) the tax paid by a taxpayer exceeds the tax payable, the excess is overpaid tax; and
   (b) the tax payable by a taxpayer exceeds the tax paid, the excess is unpaid tax.
@@ -5212,8 +5212,8 @@ The definition of date interest starts is to be construed as if the words the la
 
 ### 120P Spreading tax liability or apportioning income back over earlier income years
 (1) If, under a tax law,—to the extent the election or apportionment alters the taxpayer's liability to tax in a tax year that precedes the election tax year or apportionment tax year, as the case may be (the extent of that altered liability being called affected tax), no interest is payable under this Part on the affected tax before the taxpayer's terminal tax date for the election tax year or apportionment tax year.
-  (a) A taxpayer elects to spread a tax liability over the tax year in respect of which the election is made (election tax year) and one or more earlier tax years; or
-  (b) The Commissioner apportions income over a tax year (apportionment tax year) and one or more earlier tax years,—
+  (a) a taxpayer elects to spread a tax liability over the tax year in respect of which the election is made (election tax year) and 1 or more earlier tax years; or
+  (b) the Commissioner apportions income over a tax year (apportionment tax year) and 1 or more earlier tax years,—
 (2) If income of a taxpayer is allocated to a tax year under subsection (1)(b), the taxpayer shall allocate to the tax year that proportion of deductions allowed in the allocation tax year which the allocated income represents as a proportion of the income for the allocation tax year calculated without allocation.
 
 ### 120PA Applying tax credit for supplementary dividend to earlier income year
@@ -5320,8 +5320,8 @@ Except so far as may be expressly provided to the contrary in this Act or the In
 The determination of an objection under this Part shall relate solely to the matters which are the subject of the objection, and shall not affect the right of the Commissioner to amend the assessment objected to in any manner rendered necessary by any other matter.
 
 ### 130 Objections to allowance determinations
-(1) Notwithstanding anything in this Act or the Income Tax Act 2007, where any person who, before 1 April 1995, was granted or was to be granted an allowance to which a determination made under subsection (2) or subsection (3) of section 73 of the Income Tax Act 1976 applies is dissatisfied with that determination, that person may object to that determination by delivering or posting to the Commissioner, within one month after the date on which the notice of that determination was given by the Commissioner, a notice of objection stating shortly the grounds of the objection.
-(2) Notwithstanding anything in this Act or the Income Tax Act 1994, where any employer or workers' union, or the authorised representative of any employer or group of employees (referred to in this section as the applicant), being a party to an award, or a collective agreement, or another instrument a clause or other provision of which provides for the payment of an allowance, being an allowance paid or payable before 1 April 1995, in relation to which a determination has been made by the Commissioner under subsection (2) or subsection (3) or subsection (4) of section 73 of the Income Tax Act 1976, is dissatisfied with that determination, the applicant may, on behalf of any person who was granted or was to be granted that allowance, object to the determination by delivering or posting to the Commissioner a notice of objection stating shortly the grounds of objection within one month after the date on which notice of that determination was given by the Commissioner.
+(1) Notwithstanding anything in this Act or the Income Tax Act 2007, where any person who, before 1 April 1995, was granted or was to be granted an allowance to which a determination made under subsection (2) or subsection (3) of section 73 of the Income Tax Act 1976 applies is dissatisfied with that determination, that person may object to that determination by delivering or posting to the Commissioner, within 1 month after the date on which the notice of that determination was given by the Commissioner, a notice of objection stating shortly the grounds of the objection.
+(2) Notwithstanding anything in this Act or the Income Tax Act 1994, where any employer or workers' union, or the authorised representative of any employer or group of employees (referred to in this section as the applicant), being a party to an award, or a collective agreement, or another instrument a clause or other provision of which provides for the payment of an allowance, being an allowance paid or payable before 1 April 1995, in relation to which a determination has been made by the Commissioner under subsection (2) or subsection (3) or subsection (4) of section 73 of the Income Tax Act 1976, is dissatisfied with that determination, the applicant may, on behalf of any person who was granted or was to be granted that allowance, object to the determination by delivering or posting to the Commissioner a notice of objection stating shortly the grounds of objection within 1 month after the date on which notice of that determination was given by the Commissioner.
 (3) No notice of objection given after the time specified in subsection (1) or subsection (2) of this section shall be of any force or effect unless the Commissioner accepts the same and gives notice to the objector accordingly.
 (4) The Commissioner shall consider every objection made under this section and may consequently amend the determination.
 (5) For the purposes of this section, sections 128, 129, and 135 shall, in relation to any objection under this section, apply in the same manner and to the same extent that they would apply if the objection were an objection made under section 126(1).
@@ -5364,12 +5364,12 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
   (b) the Commissioner may, in any case where the objector has under section 134 required the objection to be heard and determined by a Taxation Review Authority, notify the objector that the Commissioner desires the objection to be referred directly to the High Court.
 (4) Where any notice is given by the objector or the Commissioner under subsection (3), the objection shall be referred directly to the High Court if both the Commissioner and the objector consent, or with the leave of that court granted on the application of the objector or the Commissioner upon the ground that in the opinion of the court, by reason of the amount of the tax in dispute between the parties or of the general or public importance of the matter or of its extraordinary difficulty or for any other reason, it is desirable that the objection be heard and determined by the High Court instead of by a Taxation Review Authority.
 (5) Within 3 months after—the objector shall serve on the Commissioner, by delivery to the National Office of the Inland Revenue Department at Wellington or to such other address as the Commissioner has given notice of to the objector for the purpose, a notice in the prescribed form of the objector's points of objection.
-  (a) The date of the objector's giving notice under subsection (2)(a) or subsection (3)(a), where it is the objector who requires or desires the Commissioner to state a case for the opinion of the High Court; or
-  (b) The date of the objector's giving notice in relation to the objection under section 134, where it is the Commissioner who determines or desires under subsection (2)(b) or subsection (3)(b) of this section to state a case for the opinion of the High Court,—
-(6) The points of objection shall state, with sufficient particularity so as to fairly inform the Commissioner and the Court,—
+  (a) the date of the objector's giving notice under subsection (2)(a) or subsection (3)(a), where it is the objector who requires or desires the Commissioner to state a case for the opinion of the High Court; or
+  (b) the date of the objector's giving notice in relation to the objection under section 134, where it is the Commissioner who determines or desires under subsection (2)(b) or subsection (3)(b) of this section to state a case for the opinion of the High Court,—
+(6) The points of objection shall state, with sufficient particularity so as to fairly inform the Commissioner and the court,—
   (a) the facts upon which the objector relies in support of the objection; and
   (b) the propositions of law (if any) on which the objector relies in support of the objection; and
-  (c) the issues which the objector considers require to be determined by the Court.
+  (c) the issues which the objector considers require to be determined by the court.
 (7) The objector shall annex to the points of objection copies of any documents upon which the objector intends to rely in support of the objection:
   provided that where the documents upon which the objector intends to rely are numerous, the objector may annex a list of those documents instead of copies of the actual documents.
 (8) If the objector fails to serve on the Commissioner the points of objection within the period referred to in subsection (5), or within such further period as may be allowed under subsection (12), the objection shall be deemed to be withdrawn and the Commissioner shall not be required to take any further steps in relation to the objection.
@@ -5377,16 +5377,16 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
   (a) a notice in the prescribed form containing—
     (i) particulars of the assessment made by the Commissioner to which the objection has been made; and
     (ii) the grounds of objection given by the objector; and
-    (iii) the question for the determination of the Court; and
+    (iii) the question for the determination of the court; and
   (b) the points of objection served by the objector; and
   (c) a notice in the prescribed form stating—
-    (i) any further facts which the Commissioner considers are relevant to the issues to be determined by the Court; and
-    (ii) the issues which the Commissioner claims require to be determined by the Court.
+    (i) any further facts which the Commissioner considers are relevant to the issues to be determined by the court; and
+    (ii) the issues which the Commissioner claims require to be determined by the court.
 (10) The case so stated and signed, together with one copy, shall be filed by the Commissioner—
-  (a) In the registry of the High Court specified by the objector in the notice under subsection (2)(a) or subsection (3)(a), where such a notice has been given by the objector; or
+  (a) in the registry of the High Court specified by the objector in the notice under subsection (2)(a) or subsection (3)(a), where such a notice has been given by the objector; or
   (b) in such registry of the High Court as the Commissioner thinks fit in any other case, having due regard to the convenience of the objector.
 (11) A copy of the case so filed shall be served by the Commissioner on the objector either personally or by sending it to the objector by registered post addressed to the objector at the address for service specified by the objector in the points of objection, or at such other address as the objector has given notice of to the Commissioner for the purpose, and the copy so sent by registered post shall be deemed to have been received when in the ordinary course of post it would be delivered.
-(12) The High Court may, on the written application of the objector or the Commissioner,—until such time as the Court thinks fit, whether the application is made before or after the expiry of the time limit:
+(12) The High Court may, on the written application of the objector or the Commissioner,—until such time as the court thinks fit, whether the application is made before or after the expiry of the time limit:
   (a) extend the time for service by the objector on the Commissioner of the points of objection; or
   (b) extend the time for the filing of the case by the Commissioner—
   provided that when application is made for an extension of time more than 2 months after the date for service of the points of objection or the date for filing the case, as the case may be, an order for extension of time shall be made only in exceptional circumstances.
@@ -5404,23 +5404,23 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
 (18) Notwithstanding subsection (17), where the objection relates to a determination made under section 90(1) of this Act, or under section 64E of the Income Tax Act 1976, or under section 245S of that Act as in force before its repeal by section 49 of the Income Tax Amendment Act (No 2) 1993, the High Court shall not make a determination or alter the determination under subsection (17)(a) or subsection (17)(b), but may direct the Commissioner to alter the determination to such extent as may be necessary to conform to the decision of the High Court and with such effect as provided in section 90(6) of this Act or, where appropriate, section 245S of the Income Tax Act 1976 as so previously in force:
   provided that no such fresh determination shall be made by the Commissioner before the resolution of the appeal procedures.
 (19) The time bar shall not apply with respect to—
-  (a) any determination of the Court under subsection (17)(a) or any amendment made by the Commissioner to an assessment for the purpose of conforming to any such determination; or
-  (b) any assessment made by the Court or the Commissioner under subsection (17)(b).
+  (a) any determination of the court under subsection (17)(a) or any amendment made by the Commissioner to an assessment for the purpose of conforming to any such determination; or
+  (b) any assessment made by the court or the Commissioner under subsection (17)(b).
 (20) Where any notice is given by the objector to the Commissioner under subsection (3)(a) and the Commissioner gives notice to the objector that the Commissioner does not consent to the objection being referred directly to the High Court under this section, then—the first-mentioned notice shall have effect as if it were a notice requiring the objection to be heard and determined by a Taxation Review Authority, and this Part shall apply accordingly.
-  (a) if within 1 month after the last-mentioned notice is given to the objector by the Commissioner no application is made by the objector to the High Court for the leave of the court to refer the objection directly to that Court; or
+  (a) if within 1 month after the last-mentioned notice is given to the objector by the Commissioner no application is made by the objector to the High Court for the leave of the court to refer the objection directly to that court; or
   (b) if on any such application the High Court refuses to grant such leave,—
 
 ### 137 Test case procedure
 (1) Where—the Commissioner may designate that objection as a test case, and shall notify the objector accordingly.
   (a) an objector has given notice under section 134 or section 136(2)(a) or section 136(3)(a) requiring or requesting that an objection be heard and determined by a Taxation Review Authority, or that a case be stated for the opinion of the High Court in respect of an objection; and
-  (b) the Commissioner considers that determination of the objection, whether on a question of law only or on both a question of fact and a question of law, is likely to be determinative of all or a substantial number of the issues involved in one or more other objections,—
+  (b) the Commissioner considers that determination of the objection, whether on a question of law only or on both a question of fact and a question of law, is likely to be determinative of all or a substantial number of the issues involved in 1 or more other objections,—
 (2) The Commissioner may, notwithstanding section 136(4), state a test case for the opinion of the High Court without need for—and subsections (5) to (19) of section 136 shall apply in respect of any test case as if the Commissioner had determined to state the case under subsection (2)(b) of that section.
   (a) the objector's consent; or
   (b) the leave of the High Court,—
 (3) The Commissioner may in relation to any objection, at any time after the objection has been lodged and before it has been determined by a Taxation Review Authority or the High Court, give notice to the objector that the objection will be stayed by reason of the taking of a test case on a similar objection or challenge before the High Court, if the Commissioner considers that the test case is likely to be determinative of all or a substantial number of the issues in the objection proposed to be stayed.
 (4) Subject to subsection (9), the notice by the Commissioner referred to in subsection (3) shall have the effect of staying the objection pending the determination of the test case.
 (5) Upon receipt by an objector of the notice by the Commissioner referred to in subsection (3), the objector may notify the Commissioner that the objector requires that the objection be heard and determined notwithstanding the stating of a test case for the opinion of the High Court. That notice shall be given at such address as may be specified by the Commissioner in the notice given under subsection (3).
-(6) Within 14 days after the receipt by the Commissioner of the notice from the objector referred to in subsection (5), the Commissioner may apply to the High Court by originating application for an order that the objection be stayed pending the determination of the test case or the further order of the Court.
+(6) Within 14 days after the receipt by the Commissioner of the notice from the objector referred to in subsection (5), the Commissioner may apply to the High Court by originating application for an order that the objection be stayed pending the determination of the test case or the further order of the court.
 (7) An application by the Commissioner under subsection (6) shall be made on notice to the objector whose objection the Commissioner seeks to have stayed.
 (8) Where an objection has been stayed, the objector, the Commissioner, or both of them, may at any time apply to the High Court for an order that the objection cease to be stayed.
 (9) A stay under subsection (4) shall lapse on the expiry of 14 days following the day on which occurs any of the following:
@@ -5594,7 +5594,7 @@ A disputant may—that is issued by the Commissioner in relation to an amount of
   (b) an assessment made by a hearing authority under subsection (1)(b) of this section or the Commissioner under subsection (3) of this section.
 
 ### 138Q Challenges designated as test cases
-(1) The Commissioner may designate a challenge as a test case, if the Commissioner considers that determination of the challenge is likely to be determinative of all or a substantial number of the issues involved in one or more other challenges.
+(1) The Commissioner may designate a challenge as a test case, if the Commissioner considers that determination of the challenge is likely to be determinative of all or a substantial number of the issues involved in 1 or more other challenges.
 (2) Test cases are to be heard in the High Court.
 
 ### 138R Stay of proceedings for similar cases
@@ -5603,7 +5603,7 @@ A disputant may—that is issued by the Commissioner in relation to an amount of
   (a) the Commissioner considers that the test case is likely to be determinative of all or a substantial number of the issues in the challenge proposed to be stayed; and
   (b) the challenge proposed to be stayed has not been determined by a hearing authority.
 (3) When a disputant receives a notice staying proceedings, the disputant may issue a notice requiring that there be no stay of proceedings that notifies the Commissioner that the disputant requires the challenge to be heard even though a test case is to be heard.
-(4) Within 14 days after the Commissioner receives a notice requiring that there be no stay of proceedings, the Commissioner may apply to the High Court for an order that the challenge be stayed pending the determination of the test case or the further order of the Court.
+(4) Within 14 days after the Commissioner receives a notice requiring that there be no stay of proceedings, the Commissioner may apply to the High Court for an order that the challenge be stayed pending the determination of the test case or the further order of the court.
 (5) If a challenge is stayed, the disputant or the Commissioner may apply to the High Court for an order that the challenge cease to be stayed.
 (6) A stay under subsection (1) lapses on the expiry of 14 days following the day on which any of the following occurs:
   (a) the expiry of the 14 day period specified in subsection (4), if the disputant has issued a notice requiring there to be no stay of proceedings and the Commissioner has not within the 14 day period made an application under subsection (4); or
@@ -5720,7 +5720,7 @@ The purposes of this Part are—
 (6) In this section and section 139BA—
   (a) the term tax to pay means, at any time, an amount equal to the unpaid tax together with any late payment penalty that has been imposed in whole or in part in respect of the unpaid tax, to the extent that at that time the amount remains unpaid:
   (b) the unpaid tax is deemed to be the last part of any tax to pay, that a taxpayer pays:
-  (c) The term unpaid tax includes an amount of tax that must be withheld or deducted and paid to the Commissioner under a tax law but does not include a late payment penalty or a shortfall penalty imposed under section 141ED.
+  (c) the term unpaid tax includes an amount of tax that must be withheld or deducted and paid to the Commissioner under a tax law but does not include a late payment penalty or a shortfall penalty imposed under section 141ED.
 
 ### 139BA Imposition of late payment penalties when financial relief sought
 (1) If a taxpayer has outstanding tax and contacts the Commissioner seeking financial relief before the due date, the Commissioner must impose the late payment penalty under section 139B(2)(a)(i) on unpaid tax but must not impose the late payment penalty under section 139B(2)(a)(ii).
@@ -5744,7 +5744,7 @@ The purposes of this Part are—
   - **Commissioner-set instalment date** means a date specified by the Commissioner under section 119(4)(a)
   - **provisional tax paid** , in respect of an instalment date or a Commissioner-set instalment date, means the amount of provisional tax paid by the provisional taxpayer on or before the instalment date or Commissioner-set instalment date, in relation to that instalment date or Commissioner-set instalment date; and includes any amount of provisional tax—
     (a) paid in excess of the amount of provisional tax payable on any earlier instalment date or Commissioner-set instalment date for that tax year; and
-    (b) not credited to the amount of provisional tax payable on any earlier instalment date or Commissioner set instalment date for that tax year:
+    (b) not credited to the amount of provisional tax payable on any earlier instalment date or Commissioner set instalment date for that tax year
   - **provisional tax payable** —
     (a) in respect of an instalment date and a taxpayer to whom section RC 10 of the Income Tax Act 2007 applies, means the lesser of:
       (i) the amount calculated as payable under section RC 10 of that Act ; and
@@ -5780,16 +5780,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 [Repealed]
 
 ### 140C Transitional imputation penalty tax payable in some circumstances
-(1) This section applies when a company has an end of year debit balance under section OA 3(3) and (4) of the Income Tax Act 2007 for its imputation credit account as at 31 March 2013, if the company is treated, for the purposes of this section, as having only the balances and adjustments referred to in subsections (2) and (3).
-(2) For the purposes of subsection (1), for the transitional period, the following adjustments must be made to the company's ICA balance at the end of the company's 2010–11 income year for transactions occurring after the end of that income year:
-  (a) first, the company must subtract any overpayment of income tax for the 2010–11 or earlier income year in which the company was an ICA company:
-  (b) secondly, the company must subtract––
-    (i) any payment for an income year after the 2010–11 income year:
-    (ii) any amount that is or would be refundable for an income year after the 2010–11 income year:
-  (c) thirdly, the company must add any income tax paid for the 2010–11 or earlier income year in which the company was an ICA company.
-(3) For the purposes of subsection (1), the company must include in its ICA balance the ICA credits and debits for transactions occurring after the end of the company's 2010–11 income year to the extent to which those credits and debits relate to memorandum account debits, credits, and balances dealt with, arising, or calculated using an old company tax rate, but excluding any amount taken into account under subsection (2).
-(4) The company is liable for a special tax known as imputation penalty tax.
-(5) The amount of imputation penalty tax is 10% of the positive difference between zero and the end of year debit balance described in subsection (1).
+[Repealed]
 
 ### 140CA Transitional FDP penalty tax payable in some circumstances
 [Repealed]
@@ -5813,10 +5804,10 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (c) for each tax position taken by a taxpayer.
 (4) Each tax deemed to be another tax is a separate tax type.
 (5) If, in a return period—the tax shortfall for a tax type shall be calculated by—
-  (a) a taxpayer is liable to pay one or more shortfall penalties in respect of the same tax type; and
-  (b) the taxpayer's liability to the tax is overstated in one or more respects—
+  (a) a taxpayer is liable to pay 1 or more shortfall penalties in respect of the same tax type; and
+  (b) the taxpayer's liability to the tax is overstated in 1 or more respects—
   (c) setting off the tax effects of the overstatements against the understatement, in the case of one tax shortfall; and
-  (d) setting off the tax effects of the overstatements pro-rated against the understatements, in the case of more than one tax shortfall.
+  (d) setting off the tax effects of the overstatements pro-rated against the understatements, in the case of more than 1 tax shortfall.
 (6) If—the Commissioner may, for the purpose of imposing a penalty, treat an amount up to the refund, or increased refund, of tax two as though it were tax one paid by the taxpayer in the return period, and in so doing reduce the tax shortfall for tax one.
   (a) a taxpayer's tax position in respect of a tax type (in this subsection referred to as tax one) in a return period is adjusted by the Commissioner, and the tax effect of the adjustment is a tax shortfall; and
   (b) as a result or consequence of the adjustment, the Commissioner also adjusts the taxpayer's tax position in respect of another type of tax (in this subsection referred to as tax two) in the same return period, and the tax effect of the further adjustment is an entitlement to a refund or to an increased refund of tax,—
@@ -5838,7 +5829,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (g) the tax credits described in paragraphs (a) and (c) relate to expenditure or depreciation loss under subpart LH incurred while taxpayer A and taxpayer B are members of the same internal software development group, as that term is defined in section LH 17 of that Act.
 (7D) If this subsection applies because of subsection (7C), then, for the purposes of imposing a penalty, the Commissioner may treat an amount that is less than or equal to taxpayer B's refund amount, described in subsection (7C)(e), as an amount of tax paid by taxpayer A. Treating the amount as tax paid by taxpayer A for the purposes of imposing a penalty reduces taxpayer A's shortfall.
 (8) The Commissioner may treat the companies in a wholly-owned group as if they were a single taxpayer for the purposes of determining a tax shortfall.
-(9) If, in the application of subsection (6), 2 types of tax have different return periods, the Commissioner may, for the purpose of determining a tax shortfall, specify that part of one or more return periods for one of the tax types is to be treated as the same return period for the other tax type.
+(9) If, in the application of subsection (6), 2 types of tax have different return periods, the Commissioner may, for the purpose of determining a tax shortfall, specify that part of 1 or more return periods for one of the tax types is to be treated as the same return period for the other tax type.
 (10) If—the tax shortfalls arising from the taxpayer's tax positions are to be aggregated and deemed to be one tax shortfall.
   (a) in a return period, a taxpayer takes a taxpayer's tax position—
     (i) in respect of, or as a consequence of entering into, an arrangement; or
@@ -5905,7 +5896,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (b) the due date for providing the tax return for the return period, if the taxpayer does not provide a tax return for the return period.
 (7) The matters that must be considered in determining whether the taxpayer has taken an unacceptable tax position include—
   (a) the actual or potential application to the tax position of all the tax laws that are relevant (including specific or general anti-avoidance provisions); and
-  (b) decisions of a court or a Taxation Review Authority on the interpretation of tax laws that are relevant (unless the decision was issued up to one month before the taxpayer takes the taxpayer's tax position).
+  (b) decisions of a court or a Taxation Review Authority on the interpretation of tax laws that are relevant (unless the decision was issued up to 1 month before the taxpayer takes the taxpayer's tax position).
 (8) For the purpose of determining whether the resulting tax shortfall is in excess of the amounts specified in subsection (2),—
   (a) a tax return provided by—is to be treated as if it were a tax return of every taxpayer who is a partner in the partnership or person in such group; and
     (i) a partnership; or
@@ -6000,7 +5991,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
     (ii) pays the unpaid amount under the instalment arrangement.
 (4) A penalty payable for not paying employer monthly schedule amount in relation to an unpaid amount has a due date (the penalty date) that is—
   (a) the date of the Commissioner's notice, if the penalty is the first penalty in relation to the returned amount; or
-  (b) one month after the penalty date for the preceding penalty, if paragraph (a) does not apply.
+  (b) 1 month after the penalty date for the preceding penalty, if paragraph (a) does not apply.
 (5) The amount of the penalty for not paying employer monthly schedule amount in relation to an unpaid amount is—
   (a) 10% of the unpaid amount on the day before the penalty date, if the taxpayer—
     (i) fails to agree to an instalment arrangement with the Commissioner before the day that is 1 month after the penalty date; and
@@ -6270,7 +6261,7 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17(1C) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
 (3)
-(4) No person may be convicted of an offence under subsection (1)(d) for knowingly applying or permitting the application of an amount of withholding or deduction of tax for a purpose other than in payment to the Commissioner, if the person satisfies the Court that the amount of the deduction or withholding has been accounted for, and that the person's failure to account for it within the prescribed time was due to illness, accident, or other cause beyond the person's control.
+(4) No person may be convicted of an offence under subsection (1)(d) for knowingly applying or permitting the application of an amount of withholding or deduction of tax for a purpose other than in payment to the Commissioner, if the person satisfies the court that the amount of the deduction or withholding has been accounted for, and that the person's failure to account for it within the prescribed time was due to illness, accident, or other cause beyond the person's control.
 (5) Without limiting any other provision of this Act the term withholding or deduction of tax in subsection (4) includes—
   (a) a PAYE income payment:
   (b) a combined tax and earner-related payment:
@@ -6288,8 +6279,8 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $25,000; and
   (b) on every other occasion the person is convicted for the same type of offence, to a fine not exceeding $50,000.
 (8) A person who is convicted of a knowledge offence against subsection (1)(d), where the offence does not relate to—is liable on each occasion the person is convicted of that type of offence to—
-  (a) Section 157 of this Act; or
-  (b) Section 43 of the Goods and Services Tax Act 1985; or
+  (a) section 157 of this Act; or
+  (b) section 43 of the Goods and Services Tax Act 1985; or
   (c) another tax law specifying obligations in relation to withholdings or deductions of tax that operates by incorporating, or by reference to, section 157 of this Act,—
   (d) imprisonment for a term not exceeding 5 years; or
   (e) a fine not exceeding $50,000; or
@@ -6364,7 +6355,7 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
     (iii) both.
 
 ### 143G Offence in relation to court orders
-(1) A person who fails to comply with the terms of a Court order made under section 17A commits an offence against this Act.
+(1) A person who fails to comply with the terms of a court order made under section 17A commits an offence against this Act.
 (2) A person who is convicted of an offence under subsection (1) is liable to the same penalties that may be imposed under section 112 of the District Courts Act 1947 for offences to which that section applies.
 
 ### 143H Obstruction
@@ -6432,7 +6423,7 @@ A natural person who is resident in New Zealand commits an offence against this 
 ### 149 Imposition of civil and criminal penalties
 (1) Each time a taxpayer breaches a tax obligation the taxpayer may be liable to a civil penalty or, on conviction, to a criminal penalty, or to both.
 (2) A taxpayer is liable to only one shortfall penalty, other than under section 141ED, for each tax shortfall.
-(3) If a taxpayer could, apart from subsection (2), be liable to more than one shortfall penalty for a tax shortfall, the highest shortfall penalty is to be imposed.
+(3) If a taxpayer could, apart from subsection (2), be liable to more than 1 shortfall penalty for a tax shortfall, the highest shortfall penalty is to be imposed.
 (4) The Commissioner may assess and impose civil penalties after a taxpayer has been prosecuted for an offence under this Act, whether or not the prosecution is successful.
 (5) If a shortfall penalty, other than under section 141ED, has been imposed on a taxpayer for taking an incorrect tax position, the Commissioner may not subsequently prosecute the taxpayer for taking the incorrect tax position.
 
@@ -6490,23 +6481,23 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 (2) Subject to this section, a copy of a record, or of an entry in a record, that would be admissible in evidence under subsection (1), or a copy of any such copy, is admissible as evidence of the record or entry and of the transactions, dealings, matters, and amounts disclosed in that record or entry, whether or not notice to produce the record or entry or copy has been given.
 (3) The circumstances of the making of a record, entry, or copy that would be admissible in evidence under subsection (1) or subsection (2) does not affect its admissibility; but, in estimating the weight, if any, to be attached to it, regard is to be had to all the circumstances from which an inference can reasonably be drawn as to its accuracy or otherwise, and in particular to the question whether or not it was made contemporaneously with the occurrence or existence of the facts stated in it or within a reasonable time thereafter, and to the question of whether or not the maker had an incentive to conceal or misrepresent facts.
 (4) Where the original of a record is in the custody or control of the record holder, a copy of the record or of an entry in the record shall be admissible in evidence under this section, if it is first proved—
-  (a) that the record is in the custody or control of the record holder; which proof may be given, either orally or by affidavit, by the record holder or by any of the record holder's officers or employees or by such other person as the Court thinks fit; and
+  (a) that the record is in the custody or control of the record holder; which proof may be given, either orally or by affidavit, by the record holder or by any of the record holder's officers or employees or by such other person as the court thinks fit; and
   (b) that the copy has been examined with the original record or entry, as the case may be, and is a correct copy; which proof shall be given, either orally or by affidavit, by some person who has examined the copy with the original record.
 (5) Where the original of a record is not in the custody or control of the record holder, but a copy (whether a counterpart, a carbon copy, or other copy) purporting to be a copy of the original record and appearing to have been made in the regular course of business is in the custody or control of the record holder, that purported copy or a copy of it or of any entry in it shall be admissible in evidence under this section, if it is first proved—
-  (a) that the original of the record is not in the custody or control of the record holder, and that the purported copy of the original record is in the custody or control of the record holder and in the belief of the witness or deponent, as the case may be, would have been made in the regular course of business at or about the same time as the original record would have been made; which proof may be given, either orally or by affidavit, by the record holder or by any of the record holder's officers or employees or by such other person as the Court thinks fit; and
+  (a) that the original of the record is not in the custody or control of the record holder, and that the purported copy of the original record is in the custody or control of the record holder and in the belief of the witness or deponent, as the case may be, would have been made in the regular course of business at or about the same time as the original record would have been made; which proof may be given, either orally or by affidavit, by the record holder or by any of the record holder's officers or employees or by such other person as the court thinks fit; and
   (b) that, in the case of a copy of the purported copy of the original record or a copy of an entry in that purported copy, the copy has been examined with the purported copy or the entry in it, as the case may be, and is a correct copy; which proof shall be given, either orally or by affidavit, by some person who has examined the copy with the purported copy.
 (6) An affidavit for the purposes of this section may be sworn before a person authorised to take affidavits.
 (7) The death of a person by whom an affidavit has been made for the purposes of this section shall not affect the admissibility of the affidavit.
-(8) Where an affidavit sworn for the purposes of this section is filed in a Court, the Court may, of its own motion or on the application of the defendant in the proceedings, order that the deponent attend for cross-examination before the Court at the hearing; and, unless the deponent attends accordingly, the deponent's affidavit is not to be admissible in evidence under this section except where the Court in any special case otherwise orders.
-(9) Where, in any specified proceedings, a record or copy of a record or entry in a record or in a copy of any record that is admissible in evidence under this section is tendered in evidence, the Court may require the production by a person of a record or copy of a record in the person's possession or under the person's control that the Court considers is or may be relevant.
+(8) Where an affidavit sworn for the purposes of this section is filed in a court, the court may, of its own motion or on the application of the defendant in the proceedings, order that the deponent attend for cross-examination before the court at the hearing; and, unless the deponent attends accordingly, the deponent's affidavit is not to be admissible in evidence under this section except where the court in any special case otherwise orders.
+(9) Where, in any specified proceedings, a record or copy of a record or entry in a record or in a copy of any record that is admissible in evidence under this section is tendered in evidence, the court may require the production by a person of a record or copy of a record in the person's possession or under the person's control that the court considers is or may be relevant.
 (10) In any specified proceedings, the following provisions of this subsection shall apply for the purposes of section 5 of the Evidence Amendment Act 1952 (which relates to proof of photographic copies of documents), namely:
   (a) every record holder is to be deemed to be an authorised person, whether or not the record holder is already an authorised person as defined in section 3 of that Act:
   (b) every record to which this section relates, and every copy purporting to be a copy of an original record that would have been admissible in evidence in accordance with subsection (5) if it were available for that purpose and proof had been given as provided in that subsection or, where applicable, in subsection (8), shall be deemed to be a document to which section 5 of the Evidence Amendment Act 1952 applies.
 (11) Where, in any specified proceedings, the Commissioner intends to tender in evidence under this section a record or copy of a record or entry in a record or in a copy of a record, the Commissioner shall give to the other party or parties, as the case may be, notice of that intention not less than 7 days before the hearing, specifying the record or copy or entry intended to be tendered in evidence.
-(12) Where a notice is given by the Commissioner under subsection (11), the other party or parties, as the case may be, may at any time before the hearing apply to the Court for an order that a record or copy or entry specified in the notice is not to be admitted in evidence upon the ground that it is or is likely to be false or fraudulent or that for any other reason it is inexpedient in the interests of justice that the record or copy or entry should be admitted, and if the Court is satisfied as to the grounds of the application it shall order accordingly.
+(12) Where a notice is given by the Commissioner under subsection (11), the other party or parties, as the case may be, may at any time before the hearing apply to the court for an order that a record or copy or entry specified in the notice is not to be admitted in evidence upon the ground that it is or is likely to be false or fraudulent or that for any other reason it is inexpedient in the interests of justice that the record or copy or entry should be admitted, and if the court is satisfied as to the grounds of the application it shall order accordingly.
 (13) Subsections (9) and (10), and also subsection (8) where an affidavit has been filed, shall, with the necessary modifications, apply with respect to the hearing of an application under subsection (12) as if it were the hearing of the information for the offence and as if the record or copy or entry had been tendered in evidence.
 (14) Nothing in this section affects the provisions of section 5 of the Banking Act 1982, and that section shall apply to all specified proceedings.
-(15) For the purposes of this section, where it appears to the Court that a record or a copy of a record is part of the records kept or held in relation to a business, the court may infer that the record or copy and entries in the record or copy were made in the regular course of business by a person in carrying on that business.
+(15) For the purposes of this section, where it appears to the court that a record or a copy of a record is part of the records kept or held in relation to a business, the court may infer that the record or copy and entries in the record or copy were made in the regular course of business by a person in carrying on that business.
 (16) This section applies with respect to the following:
   (a) all records and copies of records to which this section relates, whether the records or copies came into existence before or after the date of the passing of this Act:
   (b) all proceedings for offences against any of the Inland Revenue Acts, or any former Inland Revenue Act which continues to apply by virtue of a provision of an Inland Revenue Act, and all proceedings in the course of which the Commissioner has the burden of proving any such offence commenced whether before or after the date of the passing of this Act (such proceedings collectively referred to in this section as specified proceedings):
@@ -6543,7 +6534,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 
 ### 156 Mode of recovery of unpaid tax
 (1) All unpaid tax shall be recoverable by the Commissioner on behalf of the Crown by suit in the Commissioner's official name.
-(2) Notwithstanding anything in the District Courts Act 1947, any Court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
+(2) Notwithstanding anything in the District Courts Act 1947, any court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
 
 ### 156A Recovery of civil penalties
 (1) For all purposes relating to the recovery of an unpaid civil penalty by the Commissioner, the civil penalty is deemed to be a tax of the same type as the tax—
@@ -6580,8 +6571,8 @@ In any proceedings against a person for refusing or failing to provide a tax ret
 (7) Any person making any deduction, extraction, or payment in accordance with a notice under this section shall be deemed to have been acting under the authority of the taxpayer to whom the notice relates and of all other persons concerned and is by this subsection indemnified in respect of such deduction, extraction, or payment.
 (8) The sum deducted or extracted from any amount in accordance with a notice under this section shall be deemed to be held in trust for the Crown, and, without prejudice to any other remedies against the debtor or any other person, shall be recoverable in the same manner in all respects as if it were income tax payable by the debtor.
 (9) Where, in relation to any notice under this section and during any period, that period being—any amount is, or becomes, an amount payable in relation to the taxpayer, that amount, or the aggregate of all such amounts, shall, until the expiry of that period and to the extent of an amount equal to the sum that, in compliance with the notice, is required to be deducted or extracted, be deemed to be an amount held in trust for the Crown, and without prejudice to any other remedies against the debtor or any person, shall, if the deduction or extraction required to be made under the notice is not so made, be recoverable in the same manner in all respects as if it were income tax payable by the debtor.
-  (a) where a notice under subsection (1) requires any person, being a bank, to deduct or extract no more than one sum, the period that commences on the day on which the notice to the person is given and expires with the day on which the deduction or extraction is required to be made in compliance with the notice:
-  (b) where a notice under subsection (1) requires any person, being a bank, to deduct or extract more than one sum, by way of instalment,—
+  (a) where a notice under subsection (1) requires any person, being a bank, to deduct or extract no more than 1 sum, the period that commences on the day on which the notice to the person is given and expires with the day on which the deduction or extraction is required to be made in compliance with the notice:
+  (b) where a notice under subsection (1) requires any person, being a bank, to deduct or extract more than 1 sum, by way of instalment,—
     (i) in relation to the sum first required to be deducted or extracted in compliance with the notice, the period that commences on the day on which the notice to the person is given and expires with the day on which the deduction or extraction is so required to be made:
     (ii) in relation to each succeeding sum required to be deducted or extracted in compliance with the notice, the period that commences on the day immediately following the day on which the previous deduction or extraction (being the deduction or extraction that, in relation to that succeeding sum, was the deduction or extraction last required to be made) was required to be made in compliance with the notice and expires with the day on which that succeeding sum is so required to be deducted or extracted,—
 (10) In this section—
@@ -6652,7 +6643,7 @@ Every person who under this Act pays any tax for or on behalf of any other perso
 
 ### 165AA Recovery of tax paid by superannuation fund
 (1) If a withdrawal is made in respect of a person's membership in a superannuation fund and the withdrawal is one to which section CS 1 of the Income Tax Act 2007 applies, the trustee of the superannuation fund may recover from the member or the other person making the withdrawal an amount according to the formula in subsection (2).
-(2) The formula is:tax rate × incomewheretax rate is the basic tax rate set out in schedule 1, part A, clause 3 of the Income Tax Act 2007:income is the amount of income of the superannuation fund under section CS 1 of the Income Tax Act 2007
+(2) The formula is:tax rate × incomewheretax rate is the basic tax rate set out in schedule 1, part A, clause 3 of the Income Tax Act 2007income is the amount of income of the superannuation fund under section CS 1 of the Income Tax Act 2007
 (3) A trustee of a superannuation fund may recover an amount from the member or the other person making the withdrawal irrespective of the superannuation fund's trust deed.
 (4) For the purpose of section 165, a trustee is treated as paying tax on a withdrawal to which section CS 1 of the Income Tax Act 2007 applies on behalf of the member or the other person who made the withdrawal.
 
@@ -7170,7 +7161,7 @@ An amount that is interest under section 120D of the Tax Administration Act 1994
   (b) an incremental late payment penalty.
 (2) The Commissioner must cancel a taxpayer's liability under subsection (1) only if—
   (a) the tax to pay in respect of which the taxpayer would otherwise have had the liability is—
-    (i) tax payable in one or more payments under an arrangement with the Commissioner; or
+    (i) tax payable in 1 or more payments under an arrangement with the Commissioner; or
     (ii) tax in respect of which deductions are to be made and paid to the Commissioner under section 157 of this Act or section 43 of the Goods and Services Tax Act 1985 or any other similar tax law; and
   (b) the taxpayer complies with the taxpayer's obligations under the arrangement; and
   (c) the liability would otherwise have arisen after—
@@ -7195,7 +7186,7 @@ An amount that is interest under section 120D of the Tax Administration Act 1994
 (6) For the purpose of subsection (5), a payment that is made is a payment of the tax assessed in the notice of assessment, together with any interest payable under Part 7 for the period before the date of the notice.
 
 ### 183CA Cancellation of interest charged on unpaid provisional tax
-(1) If interest has been charged on unpaid provisional tax under Part 7 and it is more than the interest that would have been charged if section 120L(2) and (3) had applied to the 1997-98 tax year, the taxpayer may apply to the Commissioner to—
+(1) If interest has been charged on unpaid provisional tax under Part 7 and it is more than the interest that would have been charged if section 120L(2) and (3) had applied to the 1997–98 tax year, the taxpayer may apply to the Commissioner to—
   (a) have their liability to pay the excess interest cancelled; and
   (b) have the excess interest, to the extent that the taxpayer has paid it, refunded.
 (2) A taxpayer's application must be made in writing.
@@ -7270,7 +7261,7 @@ If a double tax agreement exempts from tax any income derived before the date of
 The Governor-General may, by Order in Council, specify the date from which a type of tax may be refunded by direct credit under section 184A to a bank account nominated by the taxpayer.
 
 ### 185 Payment out of Crown Bank Account
-(1) All money payable by the Commissioner—shall be paid out of the Crown Bank Account without further appropriation than this section.
+(1) All money payable by the Commissioner—shall be paid out of a Crown Bank Account without further appropriation than this section.
   (a) by way of refund under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985; or
   (b) under sections LA 6 and LF 8 of the Income Tax Act 2007 by way of a refund of FDP credit; or
   (c) by way of interest under this Act; or
@@ -7278,7 +7269,7 @@ The Governor-General may, by Order in Council, specify the date from which a typ
   (e) by way of credits of tax under subparts MA to MF and MZ of the Income Tax Act 2007; or
   (f) in accordance with section RM 8 of that Act; or
   (g) in accordance with section RP 4 of that Act—
-(2) On the recovery under Part 10A of an amount of unpaid tax, the amount recovered may be paid to the Government of the territory outside New Zealand out of the Crown Bank Account without further appropriation than this section.
+(2) On the recovery under Part 10A of an amount of unpaid tax, the amount recovered may be paid to the Government of the territory outside New Zealand out of a Crown Bank Account without further appropriation than this section.
 
 ### 185B Application of particular provisions in this Part to PAYE intermediaries
 (1) Section 183A applies to a PAYE intermediary as if the references to a taxpayer in subsections (1A) and (3) were references to a PAYE intermediary.
@@ -7429,7 +7420,7 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 (1) The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, for all or any of the following purposes:
   (a) prescribing the form of returns to be made, the particulars to be set forth in those returns, the persons by whom and the time when or within which those returns are to be made, and the forms of the assessments, notices, and other documents referred to in this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985 or necessary in order to give effect to them:
   (b) prescribing the procedure to be followed in applying for a determination and making any provision which may be desirable in relation to the issuing or the publication of the determination or to enable the Commissioner to set fees for dealing with applications for determinations:
-  (c) providing for the appointment and prescribing the powers and procedure of one or more co-operative marketing company appeal authorities, any such authority to consist of not less than 2 members, one of whom shall be an officer of the new Ministry:
+  (c) providing for the appointment and prescribing the powers and procedure of 1 or more co-operative marketing company appeal authorities, any such authority to consist of not less than 2 members, one of whom shall be an officer of the new Ministry:
   (d) conferring such rights of objection or challenge and rights of appeal to any such appeal authority from decisions made by the Commissioner under regulations made under section 225AA or Goods and Services Tax Act 1985 as may be deemed necessary or desirable:
   (e) providing, where there is no provision in this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, or no sufficient provision, in respect of any matter or thing necessary to give effect to this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985, in what manner and form the deficiency shall be supplied:
   (f) making any provision which may be convenient for the administration of this Act or the Income Tax Act 2007 or Goods and Services Tax Act 1985 or which may be desirable or necessary in order to carry their objects into full effect.
@@ -7438,7 +7429,7 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 ### 225AA Regulations: co-operative dairy and marketing companies
 (1) The Governor-General may from time to time, by Order in Council, make regulations for the type of company described in subsection (2) for the purposes described in subsection (3).
 (2) The type of company to which this section applies is a company that—
-  (a) is 1 of the following:
+  (a) is one of the following:
     (i) a co-operative dairy company:
     (ii) a co-operative milk marketing company, as defined in section 2 of the Co-operative Companies Act 1956:
     (iii) a co-operative pig marketing company, as defined in section 2 of the Co-operative Companies Act 1956; and
@@ -7457,7 +7448,7 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
   (b) appoint a date on which the chief executive of that department may start making payments under section 80KP or a date on which the chief executive must stop making such payments.
 (2) An Order in Council made under subsection (1) may—
   (a) provide that the chief executive of that department may make payments, or must stop making payments, under section 80KP to all persons receiving an income-tested benefit; or
-  (b) specify a class of persons being paid an income-tested benefit to whom the chief executive of that department may make payments, or must stop making payments, under section 80KP, by reference to one or more of the following:
+  (b) specify a class of persons being paid an income-tested benefit to whom the chief executive of that department may make payments, or must stop making payments, under section 80KP, by reference to 1 or more of the following:
     (i) the type of income-tested benefit received by the person:
     (ii) the amount of the income-tested benefit received by the person:
     (iii) the amount of the WFF tax credit to which the person may be entitled, as determined by the chief executive of that department:
@@ -7514,7 +7505,7 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 
 ### 227 Transitional provisions and savings
 (1) The continuity of the operation of the law relating to income tax and every other tax imposed under the enactments repealed by section YB 3 of the Income Tax Act 1994 (in this section referred to as the repealed enactments) shall not be affected by the substitution of this Act, the Income Tax Act 1994, and the Taxation Review Authorities Act 1994 for the repealed enactments.
-(2) For all purposes in respect of any tax which at the commencement of this Act has been already assessed or paid or is still assessable or payable in or for the 1994-95 tax year or any previous tax year in accordance with the provisions of the repealed enactments, all the provisions of those enactments, including their penal provisions, and all regulations, warrants, and other acts of authority originating under them, shall, notwithstanding the repeal of those enactments, be deemed to remain in full force and effect; and all proceedings under any of those enactments, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the enactment concerned had not been repealed.
+(2) For all purposes in respect of any tax which at the commencement of this Act has been already assessed or paid or is still assessable or payable in or for the 1994–95 tax year or any previous tax year in accordance with the provisions of the repealed enactments, all the provisions of those enactments, including their penal provisions, and all regulations, warrants, and other acts of authority originating under them, shall, notwithstanding the repeal of those enactments, be deemed to remain in full force and effect; and all proceedings under any of those enactments, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the enactment concerned had not been repealed.
 (3) All proceedings in respect of offences committed or alleged to have been committed, whether before or after the commencement of this Act, against any of the repealed enactments may be instituted or continued as if this Act had not been passed.
 (4) Any express or implied reference in any enactment, instrument, or document (including this Act) to any provision of this Act, or to things done or to be done or failing to be done under or for the purposes of any provision of this Act, shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances, or purposes in relation to which the corresponding provision in the repealed enactments has or had effect, a reference to, or to things done or to be done or failing to be done under or for the purposes of, that corresponding provision.
 (5) Any express or implied reference in any enactment, instrument, or document (including the repealed enactments and enactments, instruments, and documents passed or made after the passing of this Act) to, or to things done or to be done or failing to be done under or for the purposes of, any of the repealed enactments shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances or purposes in relation to which the corresponding provision of this Act has effect, a reference to, or to things done or to be done or failing to be done under or for the purposes of, that corresponding provision.
