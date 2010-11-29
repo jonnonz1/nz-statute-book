@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2010-02-17_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -132,10 +132,11 @@ Legal aid may be granted in respect of the following criminal matters:
   (g) proceedings before the Social Security Appeal Authority:
   (h) proceedings before the Tenancy Tribunal:
   (i) proceedings before a body established under section 63(1)(a)(i) of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under section 62 of that Act:
-  (j) proceedings before the Refugee Status Appeals Authority (whether as established by the Government of New Zealand or as continued under section 129N of the Immigration Act 1987) in respect of any claim for refugee status made before 1 April 1999 (being the date on which the Immigration Amendment Act 1999 received the Royal assent), or any other matter relating to refugee status that arose before that date:
-  (k) the processing, under Part 6A of the Immigration Act 1987, of any claim for refugee status first made on or after 1 April 1999 (including proceedings on any appeal in relation to such a claim), and the processing of any other matter arising under section 129L or section 129R of the Immigration Act 1987 that first arose on or after that date (including proceedings on any appeal in relation to such a matter):
-  (l) any judicial review proceedings (as defined in section 2 of the Immigration Act 1987) in respect of proceedings or matters to which paragraph (j) or paragraph (k) applies:
-  (m) any application under section 114I of the Immigration Act 1987 for a review by the Inspector-General of Intelligence and Security of a decision of the Director of Security to make a security risk certificate:
+  (j) proceedings before the Immigration and Protection Tribunal, as established by the Immigration Act 2009, in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in sections 194(1) and 195 of that Act, or against liability for deportation arising under section 162 of that Act:
+  (k) the processing, under Part 5 of the Immigration Act 2009, of any claim for recognition as a refugee or a protected person:
+  (l) any proceedings before the District Court or High Court following an application made under section 316 or 324 of the Immigration Act 2009:
+  (m) any appeal or review proceedings (as defined in section 4 of the Immigration Act 2009) in respect of proceedings or matters to which paragraph (j) or (k) applies:
+  (ma) any proceedings or application under or in relation to the Immigration Act 1987 for which legal aid could have been granted under any of paragraphs (j), (k), (l), and (m) of this subsection as in force before their repeal by the Immigration Act 2009:
   (n) all applications, submissions, and appeals under the Resource Management Act 1991 or to the Environment Court under any other Act:
   (o) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
   (p) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006:
@@ -153,8 +154,8 @@ Legal aid may be granted in respect of the following criminal matters:
   (c) petitions for inquiry under the Local Electoral Act 2001:
   (d) proceedings incidental to any proceedings mentioned in any of paragraphs (a) to (c):
   (e) proceedings under section 37 of the Family Proceedings Act 1980 (which relates to dissolutions of marriage), or appeals in proceedings under that section:
-  (f) any appeal to the Residence Review Board under section 18C of the Immigration Act 1987:
-  (g) any appeal to the Removal Review Authority under Part 2 of the Immigration Act 1987:
+  (f) any appeal to the Immigration and Protection Tribunal against a decision concerning a residence class visa under section 187 of the Immigration Act 2009 (or any appeal to the Residence Appeal Authority under section 18C of the Immigration Act 1987):
+  (g) any appeal to the Immigration and Protection Tribunal on humanitarian grounds against liability for deportation by a person liable for deportation under section 154 of the Immigration Act 2009 (or any appeal to the Removal Review Authority under Part 2 of the Immigration Act 1987):
   (h) proceedings before a Commission of Inquiry under the Commissions of Inquiry Act 1908 (other than a Commission of Inquiry established or appointed by or under another enactment but deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908).
 
 ### 8 When legal aid may be granted: criminal matters
@@ -221,15 +222,19 @@ Legal aid may be granted in respect of the following criminal matters:
 (13) Subsections (3) and (4) do not apply to an application for legal aid in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009.
 
 ### 10 Other situations where legal aid refused or limited: civil matters
-(1) Subject to subsection (2), the Agency may not grant legal aid in respect of proceedings involving a decision or matter under the Immigration Act 1987 to a person who—
-  (a) is unlawfully in New Zealand in terms of the Immigration Act 1987; or
-  (b) is lawfully in New Zealand only by virtue of being the holder of a temporary permit or a limited purpose permit; or
-  (c) is not in New Zealand and—
-    (i) is not a New Zealand citizen; or
-    (ii) does not hold a current returning resident's visa under section 14C of the Immigration Act 1987.
+(1) Subject to subsection (2), the Agency may not grant legal aid in respect of—
+  (a) proceedings involving a decision under the Immigration Act 2009 in relation to a person who—
+    (i) is unlawfully in New Zealand in terms of that Act; or
+    (ii) is lawfully in New Zealand only by being the holder of a temporary entry class visa granted under that Act; or
+    (iii) is not in New Zealand and—
+      (A) is not a New Zealand citizen; or
+      (B) does not hold a residence class visa granted under that Act:
+  (b) proceedings involving a decision or matter under the Immigration Act 1987 in relation to a person who—
+    (i) was unlawfully in New Zealand in terms of that Act; or
+    (ii) not having been granted legal aid for the purpose of any particular proceedings in New Zealand before the person arrived in New Zealand, was lawfully in New Zealand only by virtue of being the holder of a temporary permit or a limited purposes permit.
 (2) Subsection (1) does not apply in respect of—
-  (a) proceedings referred to in that subsection for which a person was granted legal aid before 1 October 1999; or
-  (b) proceedings specified in section 7(1)(j) to (m).
+  (a) proceedings referred to in subsection (1)(b) for which a person was granted legal aid before the date fixed under section 2(1) of the Immigration Act 2009 for the coming into force of that Act; or
+  (b) proceedings specified in section 7(1)(j) to (ma) of this Act.
 (3) The Agency must refuse to grant legal aid to an applicant who applies for legal aid in connection with a civil proceeding in which he or she is concerned in a representative, fiduciary, or official capacity, unless it appears to the Agency that,—
   (a) if proceedings were brought, the court would be likely to order that the cost of the proceedings be paid out of any property, estate, or fund; and
   (b) if that happened, the property, estate, or fund would be diminished or extinguished by the order and any person beneficially interested would suffer hardship as a result.
