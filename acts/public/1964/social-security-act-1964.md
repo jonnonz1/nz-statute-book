@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -320,7 +320,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) a day in the period commencing on 25 December in any year and ending with 5 January in the following year
 (2) For the purposes of this Act, a person shall be deemed not to have attained a given age until the commencement of the relevant anniversary of the day of his birth.
 (2A)
-(3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50 percent of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
+(3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
   (a) meets the residential qualification for New Zealand superannuation set out in the New Zealand Superannuation and Retirement Income Act 2001; and
   (b) is aged 60 years or more and whose spouse (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
   (c) is in receipt of a pension under a superannuation scheme registered under the Superannuation Schemes Act 1989 or of payments under an annuity paid in respect of a policy of life insurance—
@@ -612,17 +612,17 @@ If the Appeal Authority requests an appellant to appear before it and the appell
   (b) as to any evidence taken by affidavit and as to any exhibits, by the production of the affidavits and such of the exhibits as may have been forwarded to the Authority by the chief executive, and by the production by the parties to the appeal of such exhibits as are in their custody.
 (2) Notwithstanding anything in subsection (1), on any appeal against a decision or determination of the chief executive, the Authority may rehear the whole or any part of the evidence, and shall rehear the evidence of any witness if the Authority has reason to believe that any note of the evidence of that witness made by the chief executive is or may be incomplete in any material particular.
 (3) The Authority shall have full discretionary power to hear and receive evidence or further evidence on questions of fact, either by oral evidence or by affidavit.
-(4) The Authority shall also have regard to any report lodged by the chief executive under section 12K of this Act and to any matters referred to therein and to any evidence tendered thereon, whether or not such matters would be otherwise admissible in evidence.
+(4) The Authority shall also have regard to any report lodged by the chief executive under section 12K and to any matters referred to therein and to any evidence tendered thereon, whether or not such matters would be otherwise admissible in evidence.
 (5) In the exercise of its powers under this section the Authority may receive as evidence any statement, document, information, or matter which in the opinion of the Authority may assist it to deal with the matters before it, whether or not the same would be admissible in a Court of Law.
 (6) The Authority shall, within the scope of its jurisdiction, be deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908, and subject to the provisions of this Act, all the provisions of the Act, except sections 2, 10, 11, and 12, shall apply accordingly.
-(7) Subject to subsection (2) of section 12I of this Act, in the determination of any appeal the Authority may confirm, modify, or reverse the decision or determination appealed against.
+(7) Subject to subsection (2) of section 12I, in the determination of any appeal the Authority may confirm, modify, or reverse the decision or determination appealed against.
 (8) Notwithstanding the provisions of subsection (7) , the Authority may refer to the chief executive for further consideration, the whole or any part of the matter to which an appeal relates, and where any matter is so referred the Authority shall advise the chief executive of its reasons for so doing and shall give such directions as it thinks just as to the rehearing or reconsideration or otherwise of the whole or any part of the matter that is so referred.
 
 ### 12N Sittings of Appeal Authority
 (1) The presence of the Chairman and one other member shall be necessary to constitute a sitting of the Authority.
 (2) The decision of a majority of the members present at a sitting of the Authority shall be the decision of the Authority. If the said members are equally divided in opinion, the decision of the Chairman shall be the decision of the Authority.
 (3) Every sitting of the Authority shall be held in private and in such place as it considers convenient having regard to the nature of the matters to be decided:
-  Provided that the Authority may, in any case if it considers that the interests of the parties to the appeal and of all other persons concerned will not be adversely affected, order that the sitting or any part of it shall be held in public.
+  provided that the Authority may, in any case if it considers that the interests of the parties to the appeal and of all other persons concerned will not be adversely affected, order that the sitting or any part of it shall be held in public.
 (4) It shall not be lawful to publish any part of the proceedings before the Appeal Authority unless in any case the Authority orders otherwise.
 (5) Every person who acts in contravention of subsection (4) commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
 
@@ -818,7 +818,7 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (c) she was married or in a civil union or in a de facto relationship for not less than 5 years and lost the support of her spouse or partner after she had attained the age of 50 years; or
   (d) she had the responsibility for the full-time care and attention of an incapacitated relative for not less than 5 years and ceased to have responsibility for the said relative after she had attained the age of 50 years.
 (4) A woman who receives a benefit under this section must—
-  (a) comply with a requirement under 6section 0Q:
+  (a) comply with a requirement under section 60Q:
   (b) comply with any other obligation arising under any of sections 60Q to 60S.
 (5)
 (6)
@@ -2298,27 +2298,22 @@ Notwithstanding anything to the contrary in this Act,—
 
 ### 74AA Residential requirements for certain benefits
 (1) A person who applies for a benefit of a kind stated in subsection (2) after 27 May 2007 is not eligible for it unless he or she—
-  (a) is a New Zealand citizen, or is a person who—
-    (i) holds or is deemed to hold a residence permit under the Immigration Act 1987; or
-    (ii) is exempt from holding a residence permit under section 12 of that Act; and
+  (a) is a New Zealand citizen, or is a person who holds a residence class visa under the Immigration Act 2009; and
   (b) is ordinarily resident in New Zealand when he or she first applies for the benefit; and
-  (c) except in the case of a person who has refugee status under the Immigration Act 1987, has resided continuously in New Zealand for a period of at least 2 years at any one time after the day on which paragraph (a) first applied to him or her.
+  (c) except in the case of a person who is recognised as a refugee or a protected person in New Zealand under the Immigration Act 2009, has resided continuously in New Zealand for a period of at least 2 years at any one time after the day on which paragraph (a) first applied to him or her.
 (1A) Subsection (1) does not apply to a person at a time when—
   (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
   (b) he or she is ordinarily resident in that country.
 (2) The benefits referred to in subsection (1) are a domestic purposes benefit, an independent youth benefit, an invalid's benefit, a sickness benefit, an unemployment benefit, and a widow's benefit.
 
 ### 74A Persons unlawfully resident or present in New Zealand
-(1) A person who is—shall not be entitled to receive a benefit, but the chief executive may grant an emergency benefit under section 61 of this Act or temporary additional support under section 61G, or may continue, under section 23 of the Social Security (Working for Families) Amendment Act 2004, a special benefit already granted to any such person if the chief executive is satisfied that the person is either—
+(1) A person is not entitled to receive a benefit who is—
   (a) unlawfully resident or present in New Zealand; or
-  (b) lawfully resident or present in New Zealand but only by virtue of—
-    (i) a visitor's permit; or
-    (ia) a limited purpose permit; or
-    (ii) a temporary work permit; or
-    (iii) a permit to be in New Zealand for the purposes of study at a New Zealand school or university or other tertiary educational establishment—
-  (c) a person lawfully present in New Zealand who is awaiting the outcome of his or her application for refugee status in New Zealand; or
-  (d) a person who has refugee status in New Zealand; or
-  (e) a person applying for a residence permit under the Immigration Act 1987 who is compelled to remain in New Zealand through some unforeseen circumstances.
+  (b) lawfully resident or present in New Zealand but only by virtue of holding a temporary entry class visa.
+(1A) Despite subsection (1), the chief executive may grant an emergency benefit under section 61 or temporary additional support under section 61G, or may continue, under section 23 of the Social Security (Working for Families) Amendment Act 2004, a special benefit already granted to the person if the chief executive is satisfied that the person is—
+  (a) a person lawfully present in New Zealand who is awaiting the outcome of his or her claim for recognition as a refugee or a protected person; or
+  (b) a person who is recognised as a refugee or a protected person; or
+  (c) a person applying for a residence class visa under the Immigration Act 2009 who is compelled to remain in New Zealand because of unforeseen circumstances.
 (2) If subsection (3) applies to a person,—
   (a) the rate of benefit payable to the person is the appropriate rate for a single person (and not the rate for a person who is married or in a civil union or in a de facto relationship); and
   (b) the income and assets of both the person and the person's spouse or partner must be taken into account as the person's income and assets in determining the rate of benefit payable to the person.
@@ -2326,8 +2321,8 @@ Notwithstanding anything to the contrary in this Act,—
   (a) a person who applies for a benefit before the commencement of this subsection, and who is married to, or in a civil union or in a de facto relationship with, a person who is unlawfully resident or present in New Zealand; and
   (b) a person, other than a person who is already in receipt of a benefit applied for before the commencement of this subsection that is being paid at the rate for a person who is married or in a civil union or in a de facto relationship, who applies for a benefit on or after that date, and who is married to, or in a civil union or in a de facto relationship with, a person who is—
     (i) unlawfully resident or present in New Zealand; or
-    (ii) lawfully resident or present in New Zealand, but only by virtue of one of the permits listed in paragraph (b) of subsection (1).
-(4) Despite subsection (3)(b)(ii), subsection (2) does not apply to a person described in any of paragraphs (c) , (d), or (e) of subsection (1).
+    (ii) lawfully resident or present in New Zealand, but only by virtue of holding a temporary entry class visa.
+(4) Despite subsection (3)(b)(ii), subsection (2) does not apply to a person described in subsection (1A).
 (5) Subsection (2) applies despite anything in this Act or the Social Welfare (Transitional Provisions) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001 or Part 6 of the War Pensions Act 1954.
 
 ### 75 Beneficiaries in hospital
@@ -2687,7 +2682,7 @@ The following payments or other sums are debts due to the Crown:
 (1D)
 (1E)
 (1F)
-(2) Subject to subsections (2A) and (2B), if any person has obtained any payment or received any credit or advance referred to in section 85A in excess of the amount to which he or she was entitled and, in the opinion of the chief executive, that payment or credit or advance in excess was obtained by fraud, the chief executive may, in his or her discretion, which discretion may be exercised in respect of any particular case or class or classes of case, recover from that person, by way of penalty, an amount not exceeding three times the amount in excess. Nothing in this subsection shall relieve that person from any other liability in respect of any fraud committed by him or her. Any penalty under this subsection may be recovered by way of deduction from any instalments of the same or any other benefit or student allowance or payment thereafter becoming payable to that person under this Act or under section 124(1)(d) of this Act or under the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 ; and may be recovered as a debt due to the Crown at the suit of the chief executive.
+(2) Subject to subsections (2A) and (2B), if any person has obtained any payment or received any credit or advance referred to in section 85A in excess of the amount to which he or she was entitled and, in the opinion of the chief executive, that payment or credit or advance in excess was obtained by fraud, the chief executive may, in his or her discretion, which discretion may be exercised in respect of any particular case or class or classes of case, recover from that person, by way of penalty, an amount not exceeding three times the amount in excess. Nothing in this subsection shall relieve that person from any other liability in respect of any fraud committed by him or her. Any penalty under this subsection may be recovered by way of deduction from any instalments of the same or any other benefit or student allowance or payment thereafter becoming payable to that person under this Act or under section 124(1)(d) of this Act or under the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; and may be recovered as a debt due to the Crown at the suit of the chief executive.
 (2A) The chief executive shall not impose any penalty on any person under subsection (2)—
   (a) unless the chief executive has given to the person written notice—
     (i) specifying the intention to impose a penalty under that subsection and the amount proposed to be imposed by way of penalty; and
@@ -2743,7 +2738,7 @@ The following payments or other sums are debts due to the Crown:
 (7) Every deduction notice shall be subject to sections 86G to 86I.
 
 ### 86B Issue of deduction notice to State sector employer
-Where a debtor is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 86A (1) to the chief executive of that department in respect of any salary or wages payable to the debtor.
+Where a debtor is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 86A(1) to the chief executive of that department in respect of any salary or wages payable to the debtor.
 
 ### 86C Discharge of debt
 Where a person to whom a deduction notice has been issued deducts, pursuant to the notice, any money payable to a debtor, the debtor is, to the extent of the amount deducted, discharged from his or her debt due to the Crown under section 86.
@@ -2771,7 +2766,7 @@ Every person commits an offence and shall be liable on summary conviction to a f
   (c) permits payment to or on behalf of any person, other than the Department, of any amount held in trust for the Crown under section 86D or section 86E.
 
 ### 86G Protected earnings
-(1) Notwithstanding anything in sections 86A to 86F and 86H and 86I, where a deduction notice is issued to an employer of a debtor, the employer shall not, in making deductions under the deduction notice, reduce the amount paid to the debtor by way of salary or wages in respect of any week to an amount that is less than 60 percent of the amount calculated as being the debtor's net ordinary weekly pay for a week.
+(1) Notwithstanding anything in sections 86A to 86F and 86H and 86I, where a deduction notice is issued to an employer of a debtor, the employer shall not, in making deductions under the deduction notice, reduce the amount paid to the debtor by way of salary or wages in respect of any week to an amount that is less than 60% of the amount calculated as being the debtor's net ordinary weekly pay for a week.
 (2) For the purposes of this section, the debtor's ordinary weekly pay for a week is the balance left after deducting from the debtor's ordinary weekly pay (as defined in section 8 of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if that ordinary weekly pay were the only salary or wages paid to the debtor by the employer in respect of a week.
 
 ### 86H Variation or discharge of deduction notice
@@ -2785,8 +2780,8 @@ Every person commits an offence and shall be liable on summary conviction to a f
 (1) Where any person to whom a deduction notice has been issued fails wholly or in part to—that person shall be liable to pay to the Department a penalty calculated as follows:
   (a) make any deduction required to be made by the notice; or
   (b) pay any amount deducted pursuant to the notice to the Department by the time specified in the notice,—
-  (c) on the amount in default, the greater of 10 percent of that amount or $5:
-  (d) for each additional month or part of a month the amount in default or any part thereof that has not been deducted or, as the case may be, has not been paid to the Department, a further penalty of the greater of 2 percent of that amount or part thereof or $1.
+  (c) on the amount in default, the greater of 10% of that amount or $5:
+  (d) for each additional month or part of a month the amount in default or any part thereof that has not been deducted or, as the case may be, has not been paid to the Department, a further penalty of the greater of 2% of that amount or part thereof or $1.
 (2) Where any penalty is payable by any person under subsection (1), the chief executive, in his or her discretion, may remit the whole or part of that penalty where he or she is satisfied that the failure to make the deduction or make the payment was due to circumstances reasonably beyond the person's control, or that in all circumstances, the imposition of that penalty would be inequitable; and, where the debtor has already paid any penalty under this section, the chief executive may refund any excess.
 (3) An amount payable to the Department under subsection (1) may be recovered under section 86 as if it were money payable under a benefit to which the person was not entitled.
 
@@ -3574,7 +3569,7 @@ Without limiting the general power to make regulations conferred by section 132,
 
 ### 132G Regulations providing for remittance or suspension of debt
 (1) The Governor-General may, from time to time, by Order in Council, make regulations requiring or permitting—
-  (a) the recovery of amounts recoverable under 8section 6(1) to (1B) and (3) to (5) to be suspended; or
+  (a) the recovery of amounts recoverable under section 86(1) to (1B) and (3) to (5) to be suspended; or
   (b) those amounts to be remitted.
 (2) Regulations under subsection (1) may require or permit the suspension of recovery of amounts, or the remission of amounts,—
   (a) of a particular kind or from persons of a particular kind:
@@ -3924,7 +3919,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 |  | (b) | In respect of a child aged over 10 years and under 14 years | $172.77 a week |
 |  | (c) | In respect of a child aged over 5 years and under 10 years | $156.56 a week |
 |  | (d) | In respect of a child aged under 5 years | $134.91 a week |
-| 2. |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50 percent of the appropriate amount specified under that clause. |  |
+| 2. |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
@@ -3941,7 +3936,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 | Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall— |  |  |  |
 | (a) |  | Disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 | (b) |  | Disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2. |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $$332.20 a week, increased by $40.43 a week if the beneficiary is a single person. |
+| 2. |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $332.20 a week, increased by $40.43 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -3949,24 +3944,26 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $129.41 a week, subject to Income Test 3. |
-| --- | --- | --- | --- |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $161.76 a week, subject to Income Test 3. |
-|  | (b) | To any other single beneficiary without dependent children | $194.12 a week, subject to Income Test 3. |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $278.04 a week, subject to Income Test 3 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $161.76 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right | $161.76 a week, increased by $161.76 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension | $161.76 a week, subject to Income Test 3 |
-|  | (g) |  |  |
-|  | (h) |  |  |
-|  | (i) |  |  |
-|  | (j) |  |  |
-| 2. |  | Maximum increase in respect of a housekeeper | $161.76 a week. |
-| 3. |  |  |  |
-| 4. |  |  |  |
-| 5. |  | Special rate of benefit for persons to whom section 99(4) applies | $161.76 a week, subject to Income Test 4 |
+| 1. | (aa) | To a single beneficiary under the age of 20 who is— |  | $129.41 a week, subject to Income Test 3. |
+| --- | --- | --- | --- | --- |
+|  |  | (i) | Living with a parent (as that term is defined in section 3(1)); and |  |
+|  |  | (ii) | Whose benefit commenced on or after 1 July 1998. |  |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $161.76 a week, subject to Income Test 3. |
+|  | (b) | To any other single beneficiary without dependent children |  | $194.12 a week, subject to Income Test 3. |
+|  | (c) | To a single beneficiary with 1 or more dependent children |  | $278.04 a week, subject to Income Test 3 |
+|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $161.76 a week, subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $161.76 a week, increased by $161.76 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $161.76 a week, subject to Income Test 3 |
+|  | (g) |  |  |  |
+|  | (h) |  |  |  |
+|  | (i) |  |  |  |
+|  | (j) |  |  |  |
+| 2. |  | Maximum increase in respect of a housekeeper |  | $161.76 a week. |
+| 3. |  |  |  |  |
+| 4. |  |  |  |  |
+| 5. |  | Special rate of benefit for persons to whom section 99(4) applies |  | $161.76 a week, subject to Income Test 4 |
 
-## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16 of this Act, invalids', widows', domestic purposes, and sickness benefits only)
+## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16, invalids', widows', domestic purposes, and sickness benefits only)
 
 | Maximum rate | $2 a week in the case of a sickness benefit, and $104 a year in any other case. |
 | --- | --- |
@@ -4005,6 +4002,116 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 18 — Accommodation supplement
 
+| Central Auckland urban zone |
+| --- |
+| Northern Auckland urban zone |
+
+| Algies Bay—Mahurangi area unit |
+| --- |
+| Arrowtown urban area |
+| Awhitu area unit |
+| Bombay area unit |
+| Brightwater urban area |
+| Cape Rodney area unit |
+| Clevedon area unit |
+| Glenbrook area unit |
+| Great Barrier Island area unit |
+| Helensville urban area |
+| Hunua area unit |
+| Islands—Motutapu, Rangitoto, Rakino area unit |
+| Karekare area unit |
+| Kaukapakapa area unit |
+| Kawau area unit |
+| Kingseat area unit |
+| Leigh area unit |
+| Little Barrier Island area unit |
+| Mangatawhiri area unit |
+| Maramarua area unit |
+| Matheson Bay area unit |
+| Meremere area unit |
+| Muriwai Beach area unit |
+| Nelson urban area |
+| Onewhero area unit |
+| Otaua area unit |
+| Parakai area unit |
+| Patumahoe area unit |
+| Pokeno area unit |
+| Pukekohe urban area |
+| Queenstown urban area |
+| Rewiti area unit |
+| Riverhead area unit |
+| Snells Beach urban area |
+| South Head area unit |
+| Southern Auckland urban zone |
+| Tahekeroa area unit |
+| Tauhoa-Puhoi area unit |
+| Tauranga urban area |
+| Waiheke Island urban area |
+| Waiuku urban area |
+| Wakefield urban area |
+| Wanaka urban area |
+| Warkworth urban area |
+| Wellington urban zone |
+| Wellsford urban area |
+| Western Auckland urban zone |
+
+| Alexandra urban area |
+| --- |
+| Blenheim urban area |
+| Cambridge urban zone |
+| Christchurch urban area |
+| Cloustonville area unit |
+| Cromwell urban area |
+| Darfield urban area |
+| Dunedin urban area |
+| Feilding urban area |
+| Hamilton urban zone |
+| Hanmer Springs urban area |
+| Hastings urban zone |
+| Kaitaia urban area |
+| Kapiti Island area unit |
+| Kapiti urban area |
+| Katikati Community urban area |
+| Kerikeri urban area |
+| Leeston urban area |
+| Lincoln urban area |
+| Lower Hutt urban zone |
+| Makara-Ohariu area unit |
+| Mana Island area unit |
+| Mangaroa area unit |
+| New Plymouth urban areaMatamata urban area |
+| Maungakotukutuku area unit |
+| Motueka urban area |
+| Nabhra area unit |
+| Napier urban zone |
+| Opiki area unit |
+| Otaki urban area |
+| Paekakariki Hill area unit |
+| Paihia urban area |
+| Palmerston North urban area |
+| Pencarrow area unit |
+| Porirua urban zone |
+| Raglan urban area |
+| Rangiora urban area |
+| Rolleston urban area |
+| Rotorua urban area |
+| Russell urban area |
+| Taipa Bay-Mangonui urban area |
+| Tairua urban area |
+| Takaka urban area |
+| Taupo urban area |
+| Te Awamutu urban zone |
+| Te Puke Community urban area |
+| Thames urban area |
+| Tokomaru area unit |
+| Upper Hutt urban zone |
+| Waihi Beach urban area |
+| Whakatane urban area |
+| Whangamata urban area |
+| Whangarei urban area |
+| Whitianga urban area |
+| Woodend urban area |
+
 | 1. | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than-a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4. |
 | --- | --- | --- |
 | 2. | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4. |
@@ -4015,35 +4122,37 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1. Rate of child disability allowance | $43.81 a week. |
-| --- | --- |
-| 2. Maximum rate of disability allowance under section 69C(1) | $58.13 a week. |
-| 3. Rate of special disability allowance under section 69C(5) | $35.55 a week. |
+| 1. | Rate of child disability allowance | $43.81 a week. |
+| --- | --- | --- |
+| 2. | Maximum rate of disability allowance under section 69C(1) | $58.13 a week. |
+| 3. | Rate of special disability allowance under section 69C(5) | $35.55 a week. |
 
 ## Schedule 20 — Rates of contribution by liable parents to cost of domestic purposes benefit
 
-## Schedule 21
+## Schedule 21 — Rates of family care grants
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $35.55 a week. |
-| --- | --- |
-| 2. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to the amount specified in clause 1. |
+| 1. | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $35.55 a week. |
+| --- | --- | --- |
+| 2. | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to the amount specified in clause 1. |
 
 ## Schedule 23 — Transition to work allowance
 
-## Schedule 24
+## Schedule 24 — Rates of national superannuation
 
 ## Schedule 25 — Rate of telephone-service-rental allowance
 
 ## Schedule 26 — Rates of independent youth benefits
 
-| 1. To a single beneficiary | $161.76 a week, subject to Income Test 3. |
-| --- | --- |
-| 2. To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $161.76 a week, subject to Income Test 4. |
-| 3. To any other beneficiary who is married or in a civil union or in a de facto relationship and | $161.76 a week, subject to Income Test 3. |
+| 1. | To a single beneficiary | $161.76 a week, subject to Income Test 3. |
+| --- | --- | --- |
+| 2. | To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $161.76 a week, subject to Income Test 4. |
+| 3. | To any other beneficiary who is married or in a civil union or in a de facto relationship and | $161.76 a week, subject to Income Test 3. |
 
 ## Schedule 27 — Means assessment under Part 4
+
+### Part 1 — Applicable asset thresholds
 
 ### 1 Applicable asset thresholds
 (1) The table set out in subclause (2) lists the applicable asset thresholds that apply annually from 1 July 2005.
@@ -4062,6 +4171,8 @@ A resident assessed as requiring care whose spouse or partner is not a resident 
 ### 3 Explanation of election
 The effect of making an election under clause 2 is that the person's applicable asset threshold will increase, but the value of any interest in the residential dwelling and the car of the person's spouse or partner will be included in the calculation of the person's assets (see paragraphs (a) and (b) of the definition of exempt assets in Part 2).
 
+### Part 2 — Means assessment as to assets
+
 ### 4 Definitions
 For the purpose of a means assessment as to assets conducted under section 146,—
   - **assets** , in relation to the person being means assessed, means the assets of the person and his or her spouse or partner (if any) that are capable of being realised by the person or his or her spouse or partner; and includes—
@@ -4073,12 +4184,14 @@ For the purpose of a means assessment as to assets conducted under section 146,�
     (b) any interest in one car or similar vehicle that is for the personal use of the person's spouse or partner; but this exemption does not apply to a person who has made an election under clause 2:
     (c) the value of any ex gratia payment by the Government of New Zealand or the Government of any other country to the person because the person or his or her spouse or partner was a prisoner of war or civilian internee of Japan during the Second World War:
     (d) the value of any pre-paid funeral of the person or of the person's spouse or partner, up to a value of $10,000 (or such other amount as may be prescribed by regulations made under section 155) for each:
-    (e) a lump sum paid to the person under Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001, or a lump sum payment of an independence allowance under Part 13 of the Accident Insurance Act 1998 or Part 4 of Schedule 1 of that Act; but this exemption applies only in the first 12 months after the payment is made:
+    (e) a lump sum paid to the person under Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 , or a lump sum payment of an independence allowance under Part 13 of the Accident Insurance Act 1998 or Part 4 of Schedule 1 of that Act; but this exemption applies only in the first 12 months after the payment is made:
     (ea) any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under the KiwiSaver Act 2006, except the following:
       (i) money withdrawn from such a scheme:
       (ii) money that the member is entitled to withdraw from the scheme under clause 4(3) of the KiwiSaver scheme rules under that Act:
       (iii) money that the member has applied to withdraw and that would be a permitted withdrawal under those rules:
     (f) any assets, or amount of assets, of the person or his or her spouse or partner declared by regulations made under section 155 to be exempt assets.
+
+### Part 3 — Means assessment relating to income
 
 ### 5 Definitions
 For the purpose of a person's means assessment as to income under section 147,—
@@ -4101,7 +4214,6 @@ For the purpose of a person's means assessment as to income under section 147,�
     (a) $897, if the person is single; or
     (b) $1,794, if the person's spouse or partner is a resident assessed as requiring care; or
     (c) $2,690 if the person's spouse or partner is not a resident assessed as requiring care
-  - **personal allowance**
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
@@ -4114,63 +4226,34 @@ The weekly contribution payable by a person whose income is assessed is the pers
 
 ## Schedule 28 — Period of benefit stand down
 
-| 1. For a person who is married or in a civil union or in a de facto relationship— |  |
-| --- | --- |
-| (a) With average income less than the average wage plus $80 for each dependent child | 1 week |
-| (b) |  |
-| (c) |  |
-| (d) |  |
-| (e) |  |
-| (f) |  |
-| (g) |  |
-| (h) |  |
-| (i) |  |
-| (j) In any other case— | 2 weeks |
-| 2. For a single person— |  |
-| (a) With average income of less than the average wage minus $80 plus $80 for each dependent child | 1 week |
-| (b) |  |
-| (c) |  |
-| (d) |  |
-| (e) |  |
-| (f) |  |
-| (g) |  |
-| (h) |  |
-| (i) |  |
-| (j) In any other case— | 2 weeks |
-| 3. In clauses 1 and 2 to this Schedule, dependent child means a person who was a dependent child of the applicant for the benefit at any time during the average income calculation period. |  |
+| 1. | For a person who is married or in a civil union or in a de facto relationship— |  |  |
+| --- | --- | --- | --- |
+|  | (a) | with average income less than the average wage plus $80 for each dependent child | 1 week |
+|  | (b) |  |  |
+|  | (c) |  |  |
+|  | (d) |  |  |
+|  | (e) |  |  |
+|  | (f) |  |  |
+|  | (g) |  |  |
+|  | (h) |  |  |
+|  | (i) |  |  |
+|  | (j) | In any other case— | 2 weeks |
+| 2. | For a single person— |  |  |
+|  | (a) | With average income of less than the average wage minus $80 plus $80 for each dependent child | 1 week |
+|  | (b) |  |  |
+|  | (c) |  |  |
+|  | (d) |  |  |
+|  | (e) |  |  |
+|  | (f) |  |  |
+|  | (g) |  |  |
+|  | (h) |  |  |
+|  | (i) |  |  |
+|  | (j) | In any other case— | 2 weeks |
+| 3. | In clauses 1 and 2, dependent child means a person who was a dependent child of the applicant for the benefit at any time during the average income calculation period. |  |  |
 
 ## Schedule 29 — Powers, functions, and discretions of the Director-General that may be delegated to the chief executive of the Department of Labour
 
-## Schedule 30 — Method of calculating ability to make payments towards costs of home-based disability support services under section 69fa
-
-### 1
-In this Schedule, specified outgoings, in relation to any person, means the annual total of—
-  (a) The maximum rate for the time being of an invalid's benefit that would be payable to the person if he or she was qualified to receive such a benefit:
-  (b) An amount of $10 per week (for the purpose of paying costs incidental to the provision of home help):
-  (c) The following employment-related expenses of the person and his or her spouse or partner, calculated on an annual basis:
-    (i) fees or subscriptions payable on an annual or regular basis to any union:
-    (ii) Contributions to any superannuation scheme:
-    (iii) Contributions to any employee welfare fund:
-    (iv) Any other essential costs of that employment (not including travel to and from work) to the extent that they are not reimbursed by the employer:
-  (d) The person's accommodation costs (within the meaning of section 61E):
-  (e) The person's telephone rental (being the standard line charge and base user charge including hire of a basic telephone applicable to a person living in the place where the person lives), calculated on an annual basis:
-  (f) The cost of the person's ongoing and regular medical and pharmaceutical expenses, calculated on an annual basis:
-  (g) The cost of the person's regular essential expenses (being expenses other than the cost of food, clothing, travel, running a motor vehicle, life insurance, house and contents insurance, hire purchase, entertainment, and personal savings), calculated on an annual basis.
-
-### 2
-The chief executive must calculate the amount of the person's annual income and specified outgoings, and must deduct the amount of the specified outgoings from the annual income.
-
-### 3
-If the result of the calculation specified in clause 2 is $0 or less than $0, the chief executive must assess the amount the person is required to contribute towards the cost of the home-based disability support services supplied to that person as $0.
-
-### 4
-If the result of the calculation specified in clause 2 is greater than $0 but less than the total cost of the home-based disability support services supplied to the person, the chief executive must assess that result as the amount the person is required to contribute towards the cost of those services.
-
-### 5
-If the result of the calculation specified in clause 2 is equal to or greater than the total cost of the home-based disability support services supplied to the person, the chief executive must assess the amount the person is required to contribute towards the cost of those services as the total cost of those services.
-
-### 6
-The chief executive must convert an assessment made under clauses 3 to 5 to a weekly amount.
+## Schedule 30 — Method of calculating ability to make payments towards costs of home-based disability support services under section 69FA
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
