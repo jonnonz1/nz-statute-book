@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2010-11-23_
+_Consolidation as at 2010-11-29_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -66,9 +66,9 @@ _Consolidation as at 2010-11-23_
   - **permanent resident of New Zealand** means a person who—
     (a) resides in New Zealand; and
     (b) is not—
-      (i) a person to whom section 7 of the Immigration Act 1987 applies; or
-      (ii) a person obliged, by or pursuant to that Act, to leave New Zealand immediately or within a specified time; or
-      (iii) deemed for the purposes of that Act to be in New Zealand unlawfully
+      (i) a person to whom section 15 or 16 of the Immigration Act 2009 applies (except if the person has been granted a visa or entry permission in accordance with section 17 of that Act); or
+      (ii) a person obliged by or under that Act to leave New Zealand immediately or within a specified time; or
+      (iii) treated for the purposes of that Act as being unlawfully in New Zealand
   - **person** includes a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **personal information** means any official information held about an identifiable person
   - **State enterprise** means—
