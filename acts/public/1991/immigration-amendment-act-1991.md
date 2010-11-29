@@ -1,5 +1,5 @@
 # Immigration Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to amend the Immigration Act 1987 in order to strengthen and more clearly define the legal framework for the operation of Government immigration policy, and, in particular, to—aProvide for independent review of certain immigration decisions; andbEnsure a high level of compliance with immigration laws; andcEnsure that persons who do not comply with immigration procedures and rules are not advantaged in comparison with persons who do so comply
 
