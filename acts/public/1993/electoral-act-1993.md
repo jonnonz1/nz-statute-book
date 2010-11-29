@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -922,9 +922,9 @@ The secretary of any political party registered under this Act must ensure that 
 For the purposes of this Act, a person is a permanent resident of New Zealand if, and only if, that person—
   (a) resides in New Zealand; and
   (b) is not—
-    (i) a person to whom section 7 of the Immigration Act 1987 applies; or
-    (ii) a person obliged, by or pursuant to the Immigration Act 1987, to leave New Zealand immediately or within a specified time; or
-    (iii) deemed for the purposes of the Immigration Act 1987 to be in New Zealand unlawfully.
+    (i) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (ii) a person obliged by or under that Act to leave New Zealand immediately or within a specified time; or
+    (iii) treated for the purposes of that Act as being unlawfully in New Zealand.
 
 **Qualification of electors**
 
@@ -3946,27 +3946,29 @@ At the conclusion of the trial of an election petition to which section 258 appl
 (3) Where any notice is sent by registered letter addressed to any person at his or her place of residence as stated on the roll, with a special request that the letter be returned to the sender at the expiration of 15 days if the person to whom the letter is addressed cannot be found, the return of the letter by New Zealand Post Limited shall be deemed sufficient proof that the person has quitted that place of residence.
 
 ### 263A Disclosure of immigration information for matching purposes
-(1) In this section, immigration information, in relation to any person, means—
-  (a) information concerning—
-    (i) any person whom the Secretary of Labour believes is in New Zealand unlawfully; or
-    (ii) any person who is in New Zealand lawfully but only by virtue of being the holder of a temporary permit of whatever type; and
-  (b) information that, in relation to any person described in paragraph (a)(i) or paragraph (a)(ii), is as follows:
-    (i) the person’s full name:
-    (ii) any aliases known to be used by that person:
-    (iii) the person’s date of birth:
-    (iv) the person’s address (if known):
-    (v) the expiry date of any permit granted to the person.
-(2) The purpose of this section is to facilitate the disclosure of information from the Department of Labour to the Chief Registrar for the purposes of—
+(1) In this section,—
+  - **immigration information** , in relation to any person, means—
+    (a) information concerning—
+      (i) any person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
+      (ii) any person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type; and
+    (b) information that, in relation to any person described in paragraph (a)(i) or (ii), is as follows:
+      (i) the person’s full name:
+      (ii) any aliases known to be used by that person:
+      (iii) the person’s date of birth:
+      (iv) the person’s address (if known):
+      (v) the expiry date of any visa held by the person
+  - **responsible department** means the department of State that is, with the authority of the Prime Minister, responsible for the administration of the Immigration Act 2009.
+(2) The purpose of this section is to facilitate the disclosure of information from the responsible department to the Chief Registrar for the purposes of—
   (a) verifying, for the purposes of this Act, that any person registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
-  (b) verifying that a person registered as an elector is a person whom the Secretary of Labour believes to be either—
-    (i) a person who is in New Zealand unlawfully; or
-    (ii) a person who is in New Zealand lawfully but only by virtue of being the holder of a temporary permit of whatever type.
-(3) For the purposes of this section, any officer or employee or agent of the Department of Labour authorised in that behalf by the Secretary of Labour may from time to time, at the request of the Chief Registrar, supply to the Chief Registrar any immigration information held by that department.
-(4) Where, in relation to any person, immigration information is supplied to the Chief Registrar pursuant to subsection (3), the Chief Registrar may cause a comparison of that information to be made with any information which is held by the Chief Registrar and which relates to that person.
-(5) Where the result of a comparison carried out pursuant to subsection (4) indicates that any person on the electoral roll is—the Chief Registrar shall advise the Registrar of the electoral district in which that person is registered as an elector accordingly.
-  (a) a person whom the Secretary of Labour believes is in New Zealand unlawfully; or
-  (b) a person who is in New Zealand lawfully but only by virtue of being the holder of a temporary permit of whatever type,—
-(6) Where any Registrar receives advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar shall, under section 96, object to the name of that person being on the roll for the district.
+  (b) verifying that a person registered as an elector is a person who the chief executive of the responsible department believes to be either—
+    (i) a person who is unlawfully in New Zealand; or
+    (ii) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
+(3) For the purposes of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may, at the request of the Chief Registrar, supply to the Chief Registrar any immigration information held by that department.
+(4) If, in relation to any person, immigration information is supplied to the Chief Registrar pursuant to subsection (3), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
+(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person on the electoral roll is—the Chief Registrar must advise the Registrar of the electoral district in which that person is registered as an elector accordingly.
+  (a) a person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
+  (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,—
+(6) Where any Registrar receives advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must, under section 96, object to the name of that person being on the roll for the district.
 
 ### 263B Disclosure of personal information for enrolment purposes
 (1) The purpose of this section is to facilitate the disclosure of information described in subsection (2) by a specified agency to the Chief Registrar only for the purposes of—
