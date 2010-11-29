@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -153,18 +153,18 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
 
 **Application of Immigration Act 1987**
 
-### 19 Application of Immigration Act 1987
-(1) No permit may be granted under the Immigration Act 1987 to a person on the basis that the person—
+### 19 Application of Immigration Act 2009
+(1) No visa may be granted under the Immigration Act 2009 to a person on the basis that the person—
   (a) has provided, or intends to provide, commercial sexual services; or
   (b) has acted, or intends to act, as an operator of a business of prostitution; or
   (c) has invested, or intends to invest, in a business of prostitution.
-(2) It is a condition of every temporary permit or limited purpose permit granted under the Immigration Act 1987 that the holder of the permit may not, while in New Zealand,—
+(2) It is a condition of every temporary entry class visa granted under the Immigration Act 2009 that the holder of the visa may not, while in New Zealand,—
   (a) provide commercial sexual services; or
   (b) act as an operator of a New Zealand business of prostitution; or
   (c) invest in a New Zealand business of prostitution.
-(3) A temporary permit or limited purpose permit granted under the Immigration Act 1987 may be revoked if the holder does any of the things listed in subsection (2)(a) to (c).
-(4) If the holder of a residence permit is subject to a requirement under section 18A of the Immigration Act 1987, the requirement is deemed not to have been met (for the purpose of revoking the permit under section 20(1)(d) of that Act) if the permit holder acts as an operator of, or invests in, a New Zealand business of prostitution.
-(5) This section applies with respect to every permit granted under the Immigration Act 1987, and to every requirement imposed under section 18A of that Act, whether granted or imposed before or after the commencement of this section.
+(3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under section 157 of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)(a) to (c) of this section.
+(4) Any conditions of a resident visa are deemed not to have been met and the resident is liable for deportation under section 159 of the Immigration Act 2009 if the Minister of Immigration or an immigration officer determines that the holder of a resident visa acts as an operator of, or invests in, a New Zealand business of prostitution.
+(5) This section applies to all visas and permits held and all requirements and conditions imposed under the Immigration Act 1987 or the Immigration Act 2009, whether granted or imposed before or after the commencement of this section.
 
 **Prohibitions on use in prostitution of persons under 18 years**
 
@@ -458,4 +458,4 @@ Amendment(s) incorporated in the Act(s).
   (b) commencing or completing proceedings for the offence:
   (c) imposing a penalty for the offence.
 
-## Schedule Schedule — Consequential amendments to enactments
+## Schedule  — Consequential amendments to enactments
