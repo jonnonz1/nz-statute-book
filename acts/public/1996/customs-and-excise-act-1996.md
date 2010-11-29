@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -520,15 +520,15 @@ A person preparing to board a craft for departure from New Zealand must comply w
   (c) functioning as a telephone:
   (d) communicating in any other way using any technology (including telecommunication, radiocommunication, and broadcasting technology).
 
-### 32B Completion of processing under Immigration Act 1987 and Biosecurity Act 1993
+### 32B Completion of processing under Immigration Act 2009 and Biosecurity Act 1993
 (1) This section applies to a person in a designated place who has arrived in New Zealand or who departs, or attempts to depart, from New Zealand.
-(2) The person must remain in the designated place until the processing, under the Immigration Act 1987 and, if applicable, the Biosecurity Act 1993, in respect of the person's arrival in, or departure from, New Zealand, is completed.
+(2) The person must remain in the designated place until the processing, under the Immigration Act 2009 and, if applicable, the Biosecurity Act 1993, in respect of the person's arrival in, or departure from, New Zealand, is completed.
 (3) A Customs officer may direct the person to comply with the person's obligation under subsection (2).
 (4) For the purposes of subsection (2), the processing referred to in that subsection is completed when—
-  (a) the person has complied with all obligations imposed on the person, in respect of the person's arrival in, or departure from, New Zealand, under the Immigration Act 1987 and, if applicable, the Biosecurity Act 1993; and
+  (a) the person has complied with all obligations imposed on the person, in respect of the person's arrival in, or departure from, New Zealand, under the Immigration Act 2009 and, if applicable, the Biosecurity Act 1993; and
   (b) the powers and duties under those Acts that are, in relation to the person, required to be exercised or performed in the designated place have, so far as practicable, been exercised or performed in that place.
 (5) In this section,—
-  - **authorised officer** means an officer authorised under the Immigration Act 1987 or the Biosecurity Act 1993
+  - **authorised officer** means an officer authorised under the Immigration Act 2009 or the Biosecurity Act 1993
   - **designated place** means—
     (a) a Customs controlled area; or
     (b) a Customs place; or
@@ -537,9 +537,9 @@ A person preparing to board a craft for departure from New Zealand must comply w
       (ii) the departure of a craft from New Zealand; or
     (d) a Police station to which a person reports under section 27(1)
   - **processing** includes—
-    (a) consideration by any authorised officer as to the applicability of powers and duties under the Immigration Act 1987 or the Biosecurity Act 1993 to the person; and
-    (b) reconsideration by any authorised officer, in the light of any new information, of a previous exercise or performance of a power or duty under the Immigration Act 1987 or the Biosecurity Act 1993; and
-    (c) any reasonable time following a request by a Customs officer that an authorised officer who is not present at the designated place consider, exercise, or perform a particular power or duty under the Immigration Act 1987 or the Biosecurity Act 1993 that—
+    (a) consideration by any authorised officer as to the applicability of powers and duties under the Immigration Act 2009 or the Biosecurity Act 1993 to the person; and
+    (b) reconsideration by any authorised officer, in the light of any new information, of a previous exercise or performance of a power or duty under the Immigration Act 2009 or the Biosecurity Act 1993; and
+    (c) any reasonable time following a request by a Customs officer that an authorised officer who is not present at the designated place consider, exercise, or perform a particular power or duty under the Immigration Act 2009 or the Biosecurity Act 1993 that—
       (i) may, in the opinion of the Customs officer, be applicable to the person; and
       (ii) may not be exercised or performed by any authorised officer present at the designated place at the time of the request; but
       (iii) may be exercised or performed by the authorised officer to whom that request is made.
@@ -2664,7 +2664,7 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
     (i) section 130 of the Animal Products Act 1999:
     (ii) section 98C of the Crimes Act 1961:
     (iii) section 232 or 233 of the Fisheries Act 1996:
-    (iv) section 126(4) or 142(1)(d) of the Immigration Act 1987:
+    (iv) section 342(1)(c) or 345(1) of the Immigration Act 2009:
     (v) section 37 or 43 of the Medicines Act 1981:
     (vi) section 29A, 30, or 31 of the Passports Act 1992.
 (2) A Customs officer who detains goods under subsection (1) must, as soon as practicable, deliver those goods into the custody of the appropriate person specified in subsection (4).
@@ -3646,7 +3646,9 @@ The Customs may, for the purposes of monitoring the movement of craft and person
   (b) to verify the amount of any benefit to which a person is or was entitled or for which a person is or was eligible:
   (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
 (3) For the purposes of this section, the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time, in accordance with arrangements made from time to time between that chief executive and the chief executive of the Customs, request the supply, in respect of persons who depart from New Zealand or persons who arrive in New Zealand from another country, or both, of the information specified in subsection (5).
-(4) Nothing in subsection (3) applies in respect of persons who are exempted, by regulations made under the Immigration Act 1987 or by virtue of any special direction under that Act, from the requirement to surrender an arrival card pursuant to section 126(1)(a) of that Act, or, as the case may be, a departure card pursuant to section 126(2) of that Act.
+(4) Nothing in subsection (3) applies in respect of persons who are exempted by regulations or a special direction made under the Immigration Act 2009 from, as the case may require, the requirement to—
+  (a) apply for a visa or entry permission in the prescribed manner under section 103(1)(b), (c), and (d) of that Act; or
+  (b) complete documentation on departure from New Zealand under section 119(1)(c) of that Act.
 (5) The information referred to in subsection (3) is as follows:
   (a) the person's full name:
   (b) the person's date of birth:
