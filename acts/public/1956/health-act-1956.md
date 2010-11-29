@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2009-06-26_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -2081,7 +2081,7 @@ Every person who fails or refuses to comply with any of sections 97A(1), 97A(2),
 ### 99 Restrictions applying while ship liable to quarantine
 (1) Subject to the provisions of any regulations made under this Act, while any ship is liable to quarantine it shall not be lawful, except in the case of urgent necessity due to a marine casualty or other like emergency, or except with the authority of the Medical Officer of Health or Health Protection Officer,—
   (a) For the master, pilot, or other officer in charge of the navigation of that ship to bring that ship or allow that ship to be brought to any wharf or other landing place; or
-  (b) For any person to go on board that ship, except the Medical Officer of Health or Health Protection Officer, and the assistants of any such officer, or a pilot, or an officer of Customs, or a member of the Police, or an officer appointed or authorised under the Immigration Act 1987, or an Inspector appointed under section 6 of the Ministry of Agriculture and Fisheries Act 1953; or
+  (b) For any person to go on board that ship, except the Medical Officer of Health or Health Protection Officer, and the assistants of any such officer, or a pilot, or an officer of Customs, or a member of the Police, or an officer appointed or authorised under the Immigration Act 2009, or an Inspector appointed under section 6 of the Ministry of Agriculture and Fisheries Act 1953; or
   (c) For any person to leave that ship, except the persons specified in paragraph (b) of this subsection; or
   (d) For any goods, mails, or other articles whatsoever to be landed or transhipped from that ship; or
   (e) For any boat, launch, or vessel, other than one in the service of the Police or the Ministry of Health, to be brought within 50 metres of that ship.
