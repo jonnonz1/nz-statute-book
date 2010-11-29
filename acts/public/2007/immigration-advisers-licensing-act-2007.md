@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -36,28 +36,27 @@ In this Act, unless the context otherwise requires,—
   - **former licensed immigration adviser** has the meaning given to it by section 44(1)(b)
   - **immigration advice** has the meaning given to it by section 7
   - **immigration adviser** means a person who provides immigration advice
-  - **immigration application or request** means the putting forward of any application, request, claim, appeal, or other approach seeking to have the Minister, the Department, an appeals body, or a visa, immigration, or refugee status officer deal with an immigration matter
-  - **immigration matter** means any matter arising under or concerning the application of the Immigration Act 1987 (including any regulations or policy or instructions made under that Act); and includes—
-    (a) applications and potential applications for temporary entry or limited purpose entry to, or transit through or residence in, New Zealand:
-    (b) requests and potential requests for special directions:
-    (c) refugee status claims and appeals:
-    (d) immigration sponsorship:
-    (e) immigration obligations:
-    (f) appeals in relation to immigration matters
+  - **immigration application or request** means the putting forward of any application, request, claim, appeal, or other approach seeking to have the Minister, the Department, the Immigration and Protection Tribunal, or an immigration officer or a refugee and protection officer deal with an immigration matter
+  - **immigration matter** means any matter arising under or concerning the application of the Immigration Act 2009 (including any regulations or instructions made under that Act); and includes—
+    (a) an application or potential application for a residence class visa, temporary entry class visa, or transit visa:
+    (b) a request or potential request for a special direction:
+    (c) a claim for recognition as a refugee or a protected person, and any related appeal or matter:
+    (d) a matter relating to immigration sponsorship:
+    (e) a matter relating to an immigration obligation:
+    (f) an appeal in relation to an immigration matter
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **licence** means a licence granted under this Act to operate as an immigration adviser
   - **Minister** means the Minister of Immigration, or such other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **ordinarily resident** , at any particular time, refers to a person who—
     (a) has been lawfully present in New Zealand for more than 183 days in the immediately preceding 12-month period; and
     (b) is not unlawfully in New Zealand
-  - **permit** means a permit granted under the Immigration Act 1987
   - **register** means the register of immigration advisers established and maintained under section 77
   - **Registrar** means the officer appointed under section 34(2)(a)
-  - **settlement services** means all or any of a range of targeted support services provided for migrants, refugees, and their families, including services for the purposes of enabling migrants, refugees, and their families to settle into the community, learn the language, and find out how to access essential community services
+  - **settlement services** means all or any of a range of targeted support services provided for migrants, refugees, protected persons, and their families, including services for the purposes of enabling migrants, refugees, protected persons, and their families to settle into the community, learn the language, and find out how to access essential community services
   - **Tribunal** means the Immigration Advisers Complaints and Disciplinary Tribunal established by section 40
-  - **visa** means a visa issued under the Immigration Act 1987
+  - **visa** means a visa granted under the Immigration Act 2009
   - **working day** means any day other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 
@@ -73,7 +72,7 @@ No person may provide immigration advice unless that person—
   (a) means using, or purporting to use, knowledge of or experience in immigration to advise, direct, assist, or represent another person in regard to an immigration matter relating to New Zealand, whether directly or indirectly and whether or not for gain or reward; but
   (b) does not include—
     (i) providing information that is publicly available, or that is prepared or made available by the Department; or
-    (ii) directing a person to the Minister or the Department, or to an immigration officer, a visa officer, or a refugee status officer (within the meaning of the Immigration Act 1987), or to a list of licensed immigration advisers; or
+    (ii) directing a person to the Minister or the Department, or to an immigration officer or a refugee and protection officer (within the meaning of the Immigration Act 2009), or to a list of licensed immigration advisers; or
     (iii) carrying out clerical work, translation or interpreting services, or settlement services.
 (2) To avoid doubt, a person is not considered to be providing immigration advice within the meaning of this Act if the person provides the advice in the course of acting under or pursuant to—
   (a) the Ombudsmen Act 1975; or
@@ -88,7 +87,7 @@ No person may provide immigration advice unless that person—
 
 ### 9 No acceptance of immigration applications or requests from unlicensed immigration advisers
 (1) No immigration application or request put forward on behalf of another person by an unlicensed immigration adviser may be accepted, unless the adviser is exempt from the requirement to be licensed under section 11.
-(2) The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 1987 must so far as practicable ensure that immigration forms and information brochures prepared or provided by that department advise that, in accordance with subsection (1), immigration applications or requests provided or prepared on behalf of another person by persons who are neither licensed immigration advisers nor exempt from the requirement to be licensed will not be accepted.
+(2) The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 must so far as practicable ensure that immigration forms and information brochures prepared or provided by that department advise that, in accordance with subsection (1), immigration applications or requests provided or prepared on behalf of another person by persons who are neither licensed immigration advisers nor exempt from the requirement to be licensed will not be accepted.
 (3) Where an immigration application or request on behalf of another person is not accepted by reason of contravening subsection (1), the relevant person or body must notify that person in writing of that fact, and advise the person as to how the application or request may be relodged or advanced in an acceptable manner.
 
 ### 10 Who may be licensed as immigration adviser
@@ -109,7 +108,9 @@ The following persons are exempt from the requirement to be licensed:
     (i) is on the employing body of the community law centre; or
     (ii) is employed by or working as a volunteer for the community law centre in a supervisory capacity:
   (g) persons employed by or working as volunteers for citizens advice bureaux:
-  (h) persons who provide immigration advice offshore in relation to applications or potential applications for student visas or student permits only, but subject to any regulations made under section 12(1)(b):
+  (h) persons who provide—
+    (i) immigration advice offshore; and
+    (ii) advice only in respect of applications for temporary entry class visas with conditions authorising study in New Zealand:
   (i) persons exempted by regulations made under section 12.
 
 ### 12 Exemption, or removal of exemption, by Order in Council
@@ -153,12 +154,13 @@ The following persons are exempt from the requirement to be licensed:
 (1) A person is prohibited from being licensed if he or she—
   (a) is an undischarged bankrupt; or
   (b) is prohibited or disqualified under any of the provisions of sections 382, 383, or 385 of the Companies Act 1993 (or any corresponding provision of the Companies Act 1955) from managing a company; or
-  (c) has been convicted of an offence against the Immigration Act 1987 or the Immigration Act 1964; or
-  (d) has been removed or deported from New Zealand under the Immigration Act 1987 or the Immigration Act 1964; or
+  (c) has been convicted of an offence against the Immigration Act 2009, the Immigration Act 1987, or the Immigration Act 1964; or
+  (d) has been removed or deported from New Zealand under the Immigration Act 2009, the Immigration Act 1987, or the Immigration Act 1964; or
   (e) is unlawfully in New Zealand.
 (2) Persons who hold or have held any of the following offices or employment are prohibited from being licensed while holding the office or employment or at any time within 12 months after leaving the office or employment:
   (a) Ministers of Immigration and Associate Ministers of Immigration in the New Zealand Government:
-  (b) any immigration officer, visa officer, or refugee status officer (as defined in the Immigration Act 1987).
+  (b) any immigration officer, visa officer, or refugee status officer (as defined in the Immigration Act 1987):
+  (c) any immigration officer or refugee and protection officer (as defined in the Immigration Act 2009).
 
 ### 16 Persons subject to restriction on being licensed
 The following persons must not be licensed unless the Registrar is satisfied that the nature of the relevant offence or matter is unlikely to adversely affect the person's fitness to provide immigration advice:
@@ -791,7 +793,7 @@ The Registrar may, under section 41 of the State Sector Act 1988, delegate to an
   (b) provide for the waiver of or exemption from levies, in whole or in part.
 
 ### 91 Waiver of further immigration fees in certain cases
-The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 1987 may, in whole or in part, waive any fee payable on a further immigration application or request by a person whose earlier application or request has not been accepted because it contravened section 9.
+The chief executive of the department of State that has, with the authority of the Prime Minister, assumed responsibility for the administration of the Immigration Act 2009 may, in whole or in part, waive any fee payable on a further immigration application or request by a person whose earlier application or request has not been accepted because it contravened section 9.
 
 ### 92 Disclosure of personal information overseas
 (1) The Registrar may disclose any personal information specified in subsection (10) to an overseas or international agency, body, or person whose functions include the regulation of immigration advisers.
@@ -885,7 +887,7 @@ Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the followi
 ### 97 Summary Proceedings Act 1957 amended
 Part 2 of Schedule 1 of the Summary Proceedings Act 1957 is amended by inserting the following item in its appropriate alphabetical order:Immigration Advisers Licensing Act 200763(1)(a)Provision of immigration advice unless licensed or exempt64(1)Holding out as immigration adviser unless licensed or exempt65(1)Holding out as licensed immigration adviser67(1)(a)Asking for or receiving fee or reward for immigration advice when neither licensed nor exempt68(1)(a)Employing or contracting unlicensed or non-exempt person as immigration adviser.
 
-## Schedule Schedule — Provisions applying in relation to Tribunal
+## Schedule  — Provisions applying in relation to Tribunal
 
 ### 1 Oath of office
 Each member of the Tribunal must, before entering on the performance of his or her functions as a member of the Tribunal, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member of the Tribunal.
