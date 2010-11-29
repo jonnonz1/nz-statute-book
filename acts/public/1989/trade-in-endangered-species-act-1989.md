@@ -1,56 +1,56 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2010-11-29_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Trade in Endangered Species Act 1989.
-(2) This Act shall come into force on the 1st day of June 1989.
+(2) This Act shall come into force on 1 June 1989.
 
 ### 2 Object of Act
 The object of this Act is to enable New Zealand to fulfil its obligations under the Convention on International Trade in Endangered Species of Wild Fauna and Flora and to promote the management, conservation, and protection of endangered, threatened, and exploited species to further enhance the survival of those species.
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Aerodrome** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, and servicing of aircraft, and includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the aerodrome or its administration
-  - **Aircraft** means any machine that can derive support in the atmosphere from the reaction of the air
-  - **Animal** means any member of the animal kingdom, including without limitation any mammal, fish, bird, amphibian, reptile, mollusc, arthropod, or other invertebrate, but does not include human beings
-  - **Convention** means the Convention on International Trade in Endangered Species of Wild Fauna and Flora signed at Washington, DC, on the 3rd day of March 1973
-  - **Cruel treatment** , in relation to any animal, means the infliction upon the animal of pain or suffering that in its kind or degree, or in its object, or in the circumstances in which it is inflicted, is unreasonable or unnecessary
+  - **aerodrome** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, and servicing of aircraft, and includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the aerodrome or its administration
+  - **aircraft** means any machine that can derive support in the atmosphere from the reaction of the air
+  - **animal** means any member of the animal kingdom, including without limitation any mammal, fish, bird, amphibian, reptile, mollusc, arthropod, or other invertebrate, but does not include human beings
+  - **Convention** means the Convention on International Trade in Endangered Species of Wild Fauna and Flora signed at Washington, DC, on 3 March 1973
+  - **cruel treatment** , in relation to any animal, means the infliction upon the animal of pain or suffering that in its kind or degree, or in its object, or in the circumstances in which it is inflicted, is unreasonable or unnecessary
   - **Department** means the Department of Conservation
   - **Director-General** means the Director-General of Conservation
-  - **Dwellinghouse** means any building or part of a building that is suitable for residential accommodation of any kind; and includes every garage, shed, and other building used in connection therewith, but does not include the land appurtenant to a dwellinghouse
-  - **Endangered species** means any species endangered by trade, being the species specified in Schedule 1 to this Act
-  - **Exploited species** means any species exploited by trade, being the species specified in Schedule 3 to this Act
-  - **Export** means the shipment of any specimen in any vehicle to a country outside New Zealand; but does not include the re-export of any specimen or the shipment in transit of any specimen outside New Zealand
-  - **Import** means the shipment of any specimen in any vehicle into the territorial limits of New Zealand; but does not include the introduction from the sea of any specimen or the shipment in transit of any specimen into the territorial limits of New Zealand
-  - **Introduce from the sea** means introduce into New Zealand a specimen from any marine environment not under the jurisdiction of any country
-  - **Management authority** means,—
-    (a) In relation to New Zealand, the Director-General; and
-    (b) In relation to any other country, the management authority appointed by that country for the purposes of the Convention:
+  - **dwellinghouse** means any building or part of a building that is suitable for residential accommodation of any kind; and includes every garage, shed, and other building used in connection therewith, but does not include the land appurtenant to a dwellinghouse
+  - **endangered species** means any species endangered by trade, being the species specified in Schedule 1
+  - **exploited species** means any species exploited by trade, being the species specified in Schedule 3
+  - **export** means the shipment of any specimen in any vehicle to a country outside New Zealand; but does not include the re-export of any specimen or the shipment in transit of any specimen outside New Zealand
+  - **import** means the shipment of any specimen in any vehicle into the territorial limits of New Zealand; but does not include the introduction from the sea of any specimen or the shipment in transit of any specimen into the territorial limits of New Zealand
+  - **introduce from the sea** means introduce into New Zealand a specimen from any marine environment not under the jurisdiction of any country
+  - **management authority** means,—
+    (a) in relation to New Zealand, the Director-General; and
+    (b) in relation to any other country, the management authority appointed by that country for the purposes of the Convention
   - **Minister** means the Minister of Conservation
-  - **Officer** means an Endangered Species Officer declared or appointed as such under section 35 of this Act
-  - **Personal or household effect** means any article of household or personal use or ornament
-  - **Plant** means any angiosperm, gymnosperm, fern, or fern ally; and includes any moss, liverwort, alga, including cyanophyte, lichen, fungus, or related organism
-  - **Port** means any defined area of land and water intended or designed to be used either wholly or partly for the berthing, departure, movement, and servicing of ships; and includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the port or its administration
-  - **Re-export** means the export of any specimen that has previously been imported, whether or not in the same form as at the time of its importation
-  - **Scientific authority** means a scientific authority specified in section 7 of this Act
-  - **Ship** means any kind of vessel used in navigation, not propelled by oars only
-  - **Species** means any species, sub-species, variety, form, or geographically separate population thereof
-  - **Specimen** means—
-    (a) Any animal or plant, whether alive or dead; or
-    (b) Any recognisable part or derivative thereof:
-  - **Threatened species** means any species threatened by trade, being the species specified in Schedule 2 to this Act
-  - **Trade** means export, import, re-export, or introduce from the sea
-  - **Vehicle** means any means of transport, whether or not self-propelled, that may travel by land, sea, or air; and includes any aircraft or ship.
+  - **officer** means an Endangered Species Officer declared or appointed as such under section 35
+  - **personal or household effect** means any article of household or personal use or ornament
+  - **plant** means any angiosperm, gymnosperm, fern, or fern ally; and includes any moss, liverwort, alga, including cyanophyte, lichen, fungus, or related organism
+  - **port** means any defined area of land and water intended or designed to be used either wholly or partly for the berthing, departure, movement, and servicing of ships; and includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the port or its administration
+  - **re-export** means the export of any specimen that has previously been imported, whether or not in the same form as at the time of its importation
+  - **scientific authority** means a scientific authority specified in section 7
+  - **ship** means any kind of vessel used in navigation, not propelled by oars only
+  - **species** means any species, subspecies, variety, form, or geographically separate population thereof
+  - **specimen** means—
+    (a) any animal or plant, whether alive or dead; or
+    (b) any recognisable part or derivative thereof
+  - **threatened species** means any species threatened by trade, being the species specified in Schedule 2
+  - **trade** means export, import, re-export, or introduce from the sea
+  - **vehicle** means any means of transport, whether or not self-propelled, that may travel by land, sea, or air; and includes any aircraft or ship.
 (2) Every specimen of an endangered species,—shall, for the purposes of this Act, be deemed a specimen of a threatened species.
-  (a) In the case of an animal, bred in captivity; or
-  (b) In the case of a plant, artificially propagated—
+  (a) in the case of an animal, bred in captivity; or
+  (b) in the case of a plant, artificially propagated—
 (3) Any reference to the appropriate management or scientific authority shall mean the management or scientific authority determined by the Director-General to have statutory responsibility for or the scientific competence to comment on the species under consideration.
 (4) Any reference to the relevant authority of a country shall be read as a reference,—
-  (a) Where the country is a party to the Convention, to the appropriate management authority of that country; or
-  (b) Where the country is not a party to the Convention, to the competent authorities of that country within the meaning of Article X of the Convention.
-(5) For the avoidance of doubt, it is declared that sections 17 to 20 apply to specimens of endangered species that are deemed, by virtue of subsection (2) of this section, to be specimens of threatened species.
+  (a) where the country is a party to the Convention, to the appropriate management authority of that country; or
+  (b) where the country is not a party to the Convention, to the competent authorities of that country within the meaning of Article X of the Convention.
+(5) For the avoidance of doubt, it is declared that sections 17 to 20 apply to specimens of endangered species that are deemed, by virtue of subsection (2), to be specimens of threatened species.
 
 ### 4 Act to bind the Crown
 This Act shall bind the Crown.
@@ -58,51 +58,51 @@ This Act shall bind the Crown.
 ### 5 No derogation from other enactments
 The provisions of this Act are in addition to and not in substitution for the provisions of any other Acts in relation to the export or import of, or trade in, any goods, and do not affect the exercise of any power in those Acts in relation to any item of goods.
 
-## Part  — Administration
+**Administration**
 
 ### 6 Administration of Act
 Subject to the control of the Minister, the Director-General shall be responsible for the general administration of this Act.
 
 ### 7 Scientific authorities
 (1) For the purposes of this Act the Minister shall appoint a committee, to be known as the Scientific Authorities Committee, which shall consist of representatives of—and shall be a scientific authority for the purposes of this Act.
-  (a) The Department of Conservation:
-  (b) Such Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) as the Minister from time to time determines:
-  (c) The Ministry of Agriculture and Forestry:
-  (d) The Ministry of Fisheries or the National Institute of Water and Atmospheric Research, or both, as the Minister determines:
-  (e) Such other person or body that the Minister determines,—
-(2) The Scientific Authorities Committee may co-opt additional members and may delegate its function as a scientific authority to any subcommittee consisting of one or more members of the Committee, including co-opted members.
+  (a) the Department of Conservation:
+  (b) such Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) as the Minister from time to time determines:
+  (c) the Ministry of Agriculture and Forestry:
+  (d) the Ministry of Fisheries or the National Institute of Water and Atmospheric Research, or both, as the Minister determines:
+  (e) such other person or body that the Minister determines,—
+(2) The Scientific Authorities Committee may co-opt additional members and may delegate its function as a scientific authority to any subcommittee consisting of 1 or more members of the Committee, including co-opted members.
 (3) Subject to this Act, the Committee may regulate its procedure in such manner as it thinks fit.
 
 ### 8 Minister's general powers
 In addition to any other powers in this Act, the Minister shall have the following powers:
-  (a) To conduct research and investigations into and surveys of species in New Zealand—by trade in specimens of those species:
-    (i) That are, or are likely to become, threatened with extinction; or
-    (ii) The existence of which is likely to be affected,—
-  (b) To disseminate information relating to the import and export of endangered, threatened, and exploited species.
+  (a) to conduct research and investigations into and surveys of species in New Zealand—by trade in specimens of those species:
+    (i) that are, or are likely to become, threatened with extinction; or
+    (ii) the existence of which is likely to be affected,—
+  (b) to disseminate information relating to the import and export of endangered, threatened, and exploited species.
 
 ## Part 1 — Trade in endangered, threatened, and exploited species
 
 ### 9 Trade in endangered, threatened, or exploited species
-Subject to Part 2 of this Act, no person shall trade in any specimen of an endangered, threatened, or exploited species into or from New Zealand, except pursuant to the appropriate permit or certificate granted under this Part of this Act.
+Subject to Part 2, no person shall trade in any specimen of an endangered, threatened, or exploited species into or from New Zealand, except pursuant to the appropriate permit or certificate granted under this Part.
 
 ### 10 Application for permit or certificate
 (1) Every person who proposes to trade in any specimen of an endangered, threatened, or exploited species shall apply in writing to the Director-General for the appropriate permit or certificate that, if granted, would authorise that trade.
 (2) Every application shall specify—
-  (a) The full name and address of the applicant:
-  (b) The type of trade to which the application relates:
-  (c) The species and the number of specimens of that species to be traded:
-  (d) The country to or from which the specimens are to be conveyed.
+  (a) the full name and address of the applicant:
+  (b) the type of trade to which the application relates:
+  (c) the species and the number of specimens of that species to be traded:
+  (d) the country to or from which the specimens are to be conveyed.
 (3) Except as the Director-General may decide, a separate application shall be required for each consignment of specimens of an endangered, threatened, or exploited species.
 (4) No person shall make an application under this section to trade in any specimen of an endangered, threatened, or exploited species where trade in that specimen is subject to controls under any other Act or regulations, unless authorisation in respect of such trade has first been obtained under that Act or those regulations.
-(5) Every applicant for a permit or certificate shall furnish to the Director-General, in addition to the particulars required under subsection (2) of this section, such further information as the Director-General may require.
+(5) Every applicant for a permit or certificate shall furnish to the Director-General, in addition to the particulars required under subsection (2), such further information as the Director-General may require.
 (5A) Without limiting the generality of subsection (5), every applicant to whom that subsection applies must include, with every application for the export or re-export of a specimen in respect of which application the Director-General has required any analysis to be carried out pursuant to section 43A, the results of such analysis.
 (6) Every applicant for a permit or certificate shall pay the prescribed fee.
 
 ### 11 Grant of permits and certificates
-(1) Every permit or certificate granted under sections 13 to 24 of this Act shall relate to a specific application.
-(2) The Director-General may, at the Director-General's discretion, having regard to sections 13 to 24 of this Act,—
-  (a) Grant such permit or certificate in respect of all or any of the specimens included in any application; or
-  (b) Decline to grant any such application.
+(1) Every permit or certificate granted under sections 13 to 24 shall relate to a specific application.
+(2) The Director-General may, at the Director-General's discretion, having regard to sections 13 to 24,—
+  (a) grant such permit or certificate in respect of all or any of the specimens included in any application; or
+  (b) decline to grant any such application.
 (3) Where the Director-General is of the opinion that a permit or certificate should be declined or should be issued subject to conditions, the Director-General shall inform the applicant accordingly, giving the grounds on which the opinion is based, and invite the applicant to make submissions on the matter before the application is formally dealt with.
 (4) The Director-General may grant a permit or certificate either unconditionally or subject to such conditions as the Director-General may specify.
 (5) Every such permit or certificate shall be in the form issued by the Department.
@@ -110,98 +110,98 @@ Subject to Part 2 of this Act, no person shall trade in any specimen of an endan
 (7) Any person granted a permit or certificate may at any time surrender it by forwarding a written note to that effect, together with the permit or certificate, to the Director-General.
 
 ### 12 Appeals to District Court on question of law
-(1) Any applicant for a permit or certificate who is dissatisfied with any decision of the Director-General under section 11 of this Act on a question of law may, within one month after notice of that decision has been received by the applicant, appeal to the District Court against that decision.
-(2) Every appeal under this section shall be heard and determined in accordance with rules of Court and this section.
-(3) The Court shall, as soon as practicable, hear the appeal, and may confirm, reverse, or modify the decision of the Director-General, or may refer the matter back to the Director-General in accordance with rules of Court, and may give any decision that the Director-General could have given in respect of the matter.
-(4) Nothing in this section shall give the Court power to review any part of the Director-General's decision other than the part against which the appellant has appealed.
-(5) Subject to any order of the Court, every decision of the Director-General against which an appeal is lodged shall continue in force and have effect according to its tenor pending the determination of the appeal.
-(6) On any appeal under this section, the Court may make an order for the payment by the Director-General, or by the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
+(1) Any applicant for a permit or certificate who is dissatisfied with any decision of the Director-General under section 11 on a question of law may, within 1 month after notice of that decision has been received by the applicant, appeal to the District Court against that decision.
+(2) Every appeal under this section shall be heard and determined in accordance with rules of court and this section.
+(3) The court shall, as soon as practicable, hear the appeal, and may confirm, reverse, or modify the decision of the Director-General, or may refer the matter back to the Director-General in accordance with rules of court, and may give any decision that the Director-General could have given in respect of the matter.
+(4) Nothing in this section shall give the court power to review any part of the Director-General's decision other than the part against which the appellant has appealed.
+(5) Subject to any order of the court, every decision of the Director-General against which an appeal is lodged shall continue in force and have effect according to its tenor pending the determination of the appeal.
+(6) On any appeal under this section, the court may make an order for the payment by the Director-General, or by the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
 
 **Authority to trade in endangered species**
 
 ### 13 Permit to export endangered species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a permit to export any specimen of an endangered species to an applicant, if those authorities are satisfied that—
-  (a) The export of that specimen is not detrimental to the survival of that species; and
-  (b) That specimen was not obtained in contravention of any Act; and
-  (c) That specimen is to be prepared and shipped so that the risk of—is minimised; and
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
-  (d) Permission to import that specimen has been granted by the relevant authority of the country of import.
+  (a) the export of that specimen is not detrimental to the survival of that species; and
+  (b) that specimen was not obtained in contravention of any Act; and
+  (c) that specimen is to be prepared and shipped so that the risk of—is minimised; and
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
+  (d) permission to import that specimen has been granted by the relevant authority of the country of import.
 
 ### 14 Permit to import endangered species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a permit to import any specimen of an endangered species to an applicant, if those authorities are satisfied that—
-  (a) The import of that specimen is for purposes that are not detrimental to the survival of that species; and
-  (b) The proposed recipient of that specimen is suitably equipped to house and care for it; and
-  (c) That specimen is not to be used primarily for commercial purposes; and
-  (d) Permission to export or re-export that specimen will be granted by the relevant authority of the country of export or re-export.
+  (a) the import of that specimen is for purposes that are not detrimental to the survival of that species; and
+  (b) the proposed recipient of that specimen is suitably equipped to house and care for it; and
+  (c) that specimen is not to be used primarily for commercial purposes; and
+  (d) permission to export or re-export that specimen will be granted by the relevant authority of the country of export or re-export.
 
 ### 15 Certificate to re-export endangered species
 The Director-General may, after consultation with the appropriate other management authorities grant a certificate to re-export any specimen of an endangered species to an applicant, if those authorities are satisfied that,—
-  (a) In the case of that specimen being imported—
-    (i) Before the commencement of this Act, that specimen was not imported in contravention of any Act; or
-    (ii) After the commencement of this Act, that specimen was imported in accordance with this Act; and
-  (b) That specimen is to be prepared and shipped so that the risk of—is minimised; and
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen—
-  (c) Permission to import that specimen has been granted by the relevant authority of the country of import.
+  (a) in the case of that specimen being imported—
+    (i) before the commencement of this Act, that specimen was not imported in contravention of any Act; or
+    (ii) after the commencement of this Act, that specimen was imported in accordance with this Act; and
+  (b) that specimen is to be prepared and shipped so that the risk of—is minimised; and
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen—
+  (c) permission to import that specimen has been granted by the relevant authority of the country of import.
 
 ### 16 Certificate to introduce from the sea endangered species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a certificate to introduce into New Zealand from the sea any specimen of an endangered species to an applicant, if those authorities are satisfied that—
-  (a) The introduction of that specimen is not detrimental to the survival of that species; and
-  (b) That specimen is to be handled so that the risk of—is minimised; and
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
-  (c) The proposed recipient of that specimen is suitably equipped to house and care for it; and
-  (d) That specimen is not to be used primarily for commercial purposes; and
-  (e) That specimen was not obtained in contravention of any Act.
+  (a) the introduction of that specimen is not detrimental to the survival of that species; and
+  (b) that specimen is to be handled so that the risk of—is minimised; and
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
+  (c) the proposed recipient of that specimen is suitably equipped to house and care for it; and
+  (d) that specimen is not to be used primarily for commercial purposes; and
+  (e) that specimen was not obtained in contravention of any Act.
 
 **Authority to trade in threatened species**
 
 ### 17 Permit to export threatened species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a permit to export any specimen of a threatened species to an applicant, if those authorities are satisfied that—
-  (a) The export of that specimen is not detrimental to the survival of that species; and
-  (b) That specimen was not obtained in contravention of any Act; and
-  (c) That specimen will be prepared and shipped so that the risk of—is minimised.
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
+  (a) the export of that specimen is not detrimental to the survival of that species; and
+  (b) that specimen was not obtained in contravention of any Act; and
+  (c) that specimen will be prepared and shipped so that the risk of—is minimised.
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
 
 ### 18 Permit to import threatened species
 Any person who proposes to import any specimen of a threatened species must present, before or at the time of import of the specimen, a permit to export or a certificate to re-export issued by the relevant authority of the country of export or re-export.
 
 ### 19 Certificate to re-export threatened species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a certificate to re-export any specimen of a threatened species to an applicant, if those authorities are satisfied that,—
-  (a) In the case of that specimen being imported,—
-    (i) Before the commencement of this Act, that specimen was not imported in contravention of any Act; or
-    (ii) After the commencement of this Act, that specimen was imported in accordance with this Act; and
-  (b) That specimen will be prepared and shipped so that the risk of—is minimised.
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
+  (a) in the case of that specimen being imported,—
+    (i) before the commencement of this Act, that specimen was not imported in contravention of any Act; or
+    (ii) after the commencement of this Act, that specimen was imported in accordance with this Act; and
+  (b) that specimen will be prepared and shipped so that the risk of—is minimised.
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
 
 ### 20 Certificate to introduce from the sea threatened species
 The Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a certificate to introduce from the sea any specimen of a threatened species to an applicant, if those authorities are satisfied that—
-  (a) The introduction of that specimen is not detrimental to the survival of that species; and
-  (b) That specimen is to be handled so that the risk of—is minimised; and
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
-  (c) That specimen was not obtained in contravention of any Act.
+  (a) the introduction of that specimen is not detrimental to the survival of that species; and
+  (b) that specimen is to be handled so that the risk of—is minimised; and
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
+  (c) that specimen was not obtained in contravention of any Act.
 
 **Authority to trade in exploited species**
 
 ### 21 Permit to export exploited species
-(1) Where an application relates to any exploited species specified in any Order in Council made pursuant to subsection (2) of this section, the Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a permit to export any specimen of that exploited species to the applicant, if those authorities are satisfied that—
-  (a) That specimen was not obtained in contravention of any Act; and
-  (b) That specimen is to be prepared and shipped so that the risk of—is minimised.
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen—
-(2) The Governor-General may, from time to time, by Order in Council, specify any exploited species that have been included in Appendix III to the Convention at the request of the New Zealand Government.
-(3) In the case of any exploited species to which subsection (1) of this section does not apply, the Director-General may, after consultation with the appropriate management and scientific authorities, grant a certificate of origin in respect of any specimen of that exploited species to an applicant.
+(1) Where an application relates to any exploited species specified in any Order in Council made pursuant to subsection (2), the Director-General may, after consultation with the appropriate other management authorities and scientific authorities, grant a permit to export any specimen of that exploited species to the applicant, if those authorities are satisfied that—
+  (a) that specimen was not obtained in contravention of any Act; and
+  (b) that specimen is to be prepared and shipped so that the risk of—is minimised.
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen—
+(2) The Governor-General may, from time to time, by Order in Council, specify any exploited species that have been included in Appendix III of the Convention at the request of the New Zealand Government.
+(3) In the case of any exploited species to which subsection (1) does not apply, the Director-General may, after consultation with the appropriate management and scientific authorities, grant a certificate of origin in respect of any specimen of that exploited species to an applicant.
 
 ### 22 Permit to import exploited species
 Any person who proposes to import any specimen of an exploited species must present, before or at the time of import of the specimen, a permit to export or a certificate to re-export issued by the relevant authority of the country of export or re-export.
@@ -215,219 +215,219 @@ The Director-General may, after consultation with the appropriate other manageme
 **Permits and certificates**
 
 ### 25 Effect of permits and certificates
-(1) Except as the Director-General may determine, a permit or certificate shall authorise the holder to undertake on one occasion the type of trade to which the permit or certificate relates in only the specimen or specimens of endangered, threatened, or exploited species specified in that permit or certificate.
-(2) Every permit or certificate granted under any of sections 13 to 24 of this Act shall come into force on the date on which it was granted.
-(3) Notwithstanding subsection (2) of this section, every permit or certificate shall remain in force for a period of 6 months, or such lesser period as may be specified, unless it is sooner revoked or surrendered.
+(1) Except as the Director-General may determine, a permit or certificate shall authorise the holder to undertake on 1 occasion the type of trade to which the permit or certificate relates in only the specimen or specimens of endangered, threatened, or exploited species specified in that permit or certificate.
+(2) Every permit or certificate granted under any of sections 13 to 24 shall come into force on the date on which it was granted.
+(3) Notwithstanding subsection (2), every permit or certificate shall remain in force for a period of 6 months, or such lesser period as may be specified, unless it is sooner revoked or surrendered.
 (4) A permit or certificate shall be personal to the holder, and shall not be transferable to or vest by operation of law in any person other than the holder.
 
 ### 26 Permit or certificate to be produced
 For the purposes of this Act, where the holder of a permit or certificate undertakes the trade in accordance with that permit or certificate, the holder shall—produce the permit or certificate, or cause the permit or certificate to be produced, to an Endangered Species Officer, being an officer of Customs or, if no officer of Customs is available, to any other Endangered Species Officer.
-  (a) Before, in the case of exporting or re-exporting; or
-  (b) Before or at the time of importation or introduction, in the case of importing or introducing from the sea—
+  (a) before, in the case of exporting or re-exporting; or
+  (b) before or at the time of importation or introduction, in the case of importing or introducing from the sea—
 
 ### 27 Control of arrivals from overseas
-(1) Every person shall, on arriving in New Zealand, permit a Customs officer or any other Endangered Species Officer to inspect and examine any specimen of an endangered, threatened, or exploited species in that person's possession as part of that person's personal effects or baggage, and shall afford to that officer all reasonable facilities and assistance in carrying out any such inspection and examination, and shall produce any permit or certificate granted under this Part or Part 2 of this Act in respect of that specimen.
-(2) Subject to section 30 of this Act, where any person is found to be in possession of any specimen of an endangered, threatened, or exploited species, or a specimen that an Endangered Species Officer has reasonable cause to believe or suspect may be of an endangered, threatened, or exploited species, and has not been granted a permit or certificate in respect of that specimen under this Part or Part 2 of this Act, that person shall—
-  (a) Surrender the specimen to an officer; and
-  (b) State to the officer his or her full name; and
-  (c) In the case of—where that person has voluntarily disclosed the presence of the specimen to the officer as soon as practicable after the specimen arrives in New Zealand, for the purposes of this Act, he or she shall be taken not to have imported that specimen.
+(1) Every person shall, on arriving in New Zealand, permit an Customs officer or any other Endangered Species Officer to inspect and examine any specimen of an endangered, threatened, or exploited species in that person's possession as part of that person's personal effects or baggage, and shall afford to that officer all reasonable facilities and assistance in carrying out any such inspection and examination, and shall produce any permit or certificate granted under this Part or Part 2 in respect of that specimen.
+(2) Subject to section 30, where any person is found to be in possession of any specimen of an endangered, threatened, or exploited species, or a specimen that an Endangered Species Officer has reasonable cause to believe or suspect may be of an endangered, threatened, or exploited species, and has not been granted a permit or certificate in respect of that specimen under this Part or Part 2, that person shall—where that person has voluntarily disclosed the presence of the specimen to the officer as soon as practicable after the specimen arrives in New Zealand, for the purposes of this Act, he or she shall be taken not to have imported that specimen.
+  (a) surrender the specimen to an officer; and
+  (b) state to the officer his or her full name; and
+  (c) in the case of—
     (i) New Zealand citizens and permanent residents, state his or her address:
-    (ii) Visitors to this country, state an address at which he or she may be contacted and his or her permanent address outside New Zealand—
-(3) Any specimen surrendered to an officer under subsection (2) of this section shall be conveyed to any institution or place considered by the Director-General appropriate for the holding of that specimen.
-(4) If any specimen surrendered to an officer under subsection (2) of this section is subsequently ascertained not to be a specimen of an endangered, threatened, or exploited species, it shall be released to the person who surrendered the specimen.
+    (ii) visitors to this country, state an address at which he or she may be contacted and his or her permanent address outside New Zealand—
+(3) Any specimen surrendered to an officer under subsection (2) shall be conveyed to any institution or place considered by the Director-General appropriate for the holding of that specimen.
+(4) If any specimen surrendered to an officer under subsection (2) is subsequently ascertained not to be a specimen of an endangered, threatened, or exploited species, it shall be released to the person who surrendered the specimen.
 
 ### 28 Disposal and release of specimens seized from arrivals from overseas
-(1) Where any New Zealand citizen or permanent resident or intending resident surrenders a specimen of an endangered, threatened, or exploited species under section 27(2) of this Act, that specimen shall be forfeited to the Crown and shall be disposed of in accordance with section 42 of this Act.
-(2) Any visitor to New Zealand who surrenders a specimen under section 27(2) of this Act may apply to the Director-General for the specimen to be returned to the visitor when the visitor leaves New Zealand.
-(3) Subject to subsection (4) of this section, the Director-General shall consider any application under subsection (2) of this section as expeditiously as possible and the specimen shall be dealt with as follows:
-  (a) If the Director-General grants the application, the Department shall take all reasonable steps to enable the applicant to take the specimen from the aerodrome or port at which the visitor surrendered the specimen, if and when the visitor leaves New Zealand:
-  (b) If the Director-General declines the application, that specimen shall be forfeited to the Crown and shall be disposed of in accordance with section 42 of this Act.
-(4) Any specimen that has been surrendered in accordance with this section shall not be released under subsection (2) or subsection (3)(a) of this section to the person who had possession of it at the time of surrender, until that person has paid all costs and expenses incurred by the Crown in relation to the custody of the specimen, including any costs of transporting the specimen.
+(1) Where any New Zealand citizen, person resident in New Zealand, or person intending to reside in New Zealand surrenders a specimen of an endangered, threatened, or exploited species under section 27(2), that specimen shall be forfeited to the Crown and shall be disposed of in accordance with section 42.
+(2) Any visitor to New Zealand who surrenders a specimen under section 27(2) may apply to the Director-General for the specimen to be returned to the visitor when the visitor leaves New Zealand.
+(3) Subject to subsection (4), the Director-General shall consider any application under subsection (2) as expeditiously as possible and the specimen shall be dealt with as follows:
+  (a) if the Director-General grants the application, the Department shall take all reasonable steps to enable the applicant to take the specimen from the aerodrome or port at which the visitor surrendered the specimen, if and when the visitor leaves New Zealand:
+  (b) if the Director-General declines the application, that specimen shall be forfeited to the Crown and shall be disposed of in accordance with section 42.
+(4) Any specimen that has been surrendered in accordance with this section shall not be released under subsection (2) or subsection (3)(a) to the person who had possession of it at the time of surrender, until that person has paid all costs and expenses incurred by the Crown in relation to the custody of the specimen, including any costs of transporting the specimen.
 
 ## Part 2 — Exemptions
 
 ### 29 Certificate of acquisition
 (1) Every person seeking to export or re-export a specimen of an endangered, threatened, or exploited species that was legally acquired before the provisions of this Act applied to that specimen shall apply in writing to the Director-General for a certificate of acquisition.
 (2) The Director-General may, after (if necessary) consultation with the appropriate other management authority, issue a certificate of acquisition to any applicant if the management authority is satisfied that the specimen to which the application relates was legally acquired before the provisions of this Act applied to that specimen.
-(3) Part 1 of this Act shall not apply to any person who has been issued with a certificate of acquisition under subsection (2) of this section.
-(4) Notwithstanding subsection (3) of this section, sections 9, 10, and 25 of this Act shall, with all necessary modifications, apply to a certificate of acquisition.
+(3) Part 1 shall not apply to any person who has been issued with a certificate of acquisition under subsection (2).
+(4) Notwithstanding subsection (3), sections 9, 10, and 25 shall, with all necessary modifications, apply to a certificate of acquisition.
 
 ### 30 Endangered species as personal or household effects
-(1) Except as provided in subsection (2) of this section, Part 1 of this Act shall not apply to any specimen of an endangered, threatened, or exploited species that is a personal or household effect.
-(2) Part 1 of this Act shall apply to any specimen that is a personal or household effect being imported into New Zealand where—unless that specimen is accompanied by a certificate of acquisition or a certificate of exemption issued by the appropriate other management authority.
-  (a) The specimen is of an endangered or threatened species acquired by the owner outside New Zealand; or
-  (b) The specimen is of an endangered, threatened, or exploited species that is imported for primarily commercial reasons,—
+(1) Except as provided in subsection (2), Part 1 shall not apply to any specimen of an endangered, threatened, or exploited species that is a personal or household effect.
+(2) Part 1 shall apply to any specimen that is a personal or household effect being imported into New Zealand where—unless that specimen is accompanied by a certificate of acquisition or a certificate of exemption issued by the appropriate other management authority.
+  (a) the specimen is of an endangered or threatened species acquired by the owner outside New Zealand; or
+  (b) the specimen is of an endangered, threatened, or exploited species that is imported for primarily commercial reasons,—
 
 ### 31 Certificate for specimens bred in captivity or artificially propagated
-(1) Every person seeking to export or re-export a specimen of any species specified in Schedule 2 or Schedule 3 to this Act that—shall apply in writing to the Director-General for a certificate for specimens bred in captivity or artificially propagated.
-  (a) In the case of an animal, was bred in captivity; or
-  (b) In the case of a plant, was artificially propagated; or
-  (c) Is a recognisable part or derivative of such a specimen—
+(1) Every person seeking to export or re-export a specimen of any species specified in Schedule 2 or Schedule 3 that—shall apply in writing to the Director-General for a certificate for specimens bred in captivity or artificially propagated.
+  (a) in the case of an animal, was bred in captivity; or
+  (b) in the case of a plant, was artificially propagated; or
+  (c) is a recognisable part or derivative of such a specimen—
 (2) The Director-General may, after (if necessary) consultation with the appropriate other management authority, issue a certificate for specimens bred in captivity or artificially propagated to an applicant if the Director-General is satisfied that the specimen to which the application relates was bred in captivity, or as the case may be, was artificially propagated, or is a recognisable part or derivative of such a specimen.
-(3) For the purposes of trade, a certificate for specimens bred in captivity or artificially propagated shall be accepted in lieu of any of the permits or certificates granted under any of sections 17 to 24 of this Act.
-(4) For the purpose of this section, sections 9, 10, and 25 of this Act shall, with all necessary modifications, apply to a certificate for specimens bred in captivity or artificially propagated.
+(3) For the purposes of trade, a certificate for specimens bred in captivity or artificially propagated shall be accepted in lieu of any of the permits or certificates granted under any of sections 17 to 24.
+(4) For the purpose of this section, sections 9, 10, and 25 shall, with all necessary modifications, apply to a certificate for specimens bred in captivity or artificially propagated.
 
 ### 32 Scientific transfer
-Part 1 of this Act shall not apply to the non-commercial loan, donation, or exchange between scientists or scientific institutions in New Zealand recognised by the Director-General and scientists or scientific institutions in other States recognised by the relevant authorities of those States, of—that are specimens of an endangered, threatened, or exploited species and which carry a label issued or approved by the Director-General.
-  (a) Herbarium and other preserved, dried, or embedded plants:
-  (b) Live plants:
-  (c) Preserved animals, and skins of animals:
-  (d) Live animals,—
+Part 1 shall not apply to the non-commercial loan, donation, or exchange between scientists or scientific institutions in New Zealand recognised by the Director-General and scientists or scientific institutions in other States recognised by the relevant authorities of those States, of—that are specimens of an endangered, threatened, or exploited species and which carry a label issued or approved by the Director-General.
+  (a) herbarium and other preserved, dried, or embedded plants:
+  (b) live plants:
+  (c) preserved animals, and skins of animals:
+  (d) live animals,—
 
 ### 33 Travelling circus or exhibition
-The Director-General may, after (if necessary) consultation with the appropriate other management authority, waive the requirement of holding a permit or certificate granted under Part 1 of this Act in respect of any specimens of an endangered, threatened, or exploited species that form part of a travelling zoo, circus, menagerie, plant exhibition, or other travelling exhibition where—
-  (a) The exporter or importer registers full details of such specimens with the Director-General; and
-  (b) The specimens were—
-    (i) Acquired before the provisions of the Convention applied to those specimens; or
-    (ii) In the case of animals, bred in captivity, or in the case of plants, artificially propagated; and
-  (c) That management authority is satisfied that any living specimen will be transported and cared for so that the risk of—is minimised.
-    (i) Injury to the specimen; and
-    (ii) Adverse effect on the health of the specimen; and
-    (iii) In the case of an animal, cruel treatment of the specimen,—
+The Director-General may, after (if necessary) consultation with the appropriate other management authority, waive the requirement of holding a permit or certificate granted under Part 1 in respect of any specimens of an endangered, threatened, or exploited species that form part of a travelling zoo, circus, menagerie, plant exhibition, or other travelling exhibition where—
+  (a) the exporter or importer registers full details of such specimens with the Director-General; and
+  (b) the specimens were—
+    (i) acquired before the provisions of the Convention applied to those specimens; or
+    (ii) in the case of animals, bred in captivity, or in the case of plants, artificially propagated; and
+  (c) that management authority is satisfied that any living specimen will be transported and cared for so that the risk of—is minimised.
+    (i) injury to the specimen; and
+    (ii) adverse effect on the health of the specimen; and
+    (iii) in the case of an animal, cruel treatment of the specimen,—
 
 ### 34 Certificate of capture in accordance with other treaties
-(1) Subject to subsection (2) of this section, Part 1 of this Act shall not apply to trade in any marine specimen of a threatened species that is taken—
-  (a) By any ship registered in New Zealand or by any foreign fishing craft licensed under the Territorial Sea and Exclusive Economic Zone Act 1977; and
-  (b) In accordance with any international agreement to which New Zealand was a party before the commencement of this Act.
+(1) Subject to subsection (2), Part 1 shall not apply to trade in any marine specimen of a threatened species that is taken—
+  (a) by any ship registered in New Zealand or by any foreign fishing craft licensed under the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977; and
+  (b) in accordance with any international agreement to which New Zealand was a party before the commencement of this Act.
 (2) Every person who introduces any such marine specimen into New Zealand and wants to subsequently export that specimen shall apply in writing to the Director-General for a certificate of capture in accordance with other treaties.
 (3) The Director-General may, after (if necessary) consultation with the appropriate other management authority, issue a certificate of capture in accordance with other treaties to an applicant if the other management authority is satisfied that the specimen, to which the application relates, was taken—
-  (a) By any ship registered in New Zealand or by any foreign fishing craft licensed under the Territorial Sea and Exclusive Economic Zone Act 1977; and
-  (b) In accordance with any international agreement to which New Zealand was a party before the commencement of this Act.
-(4) For the purposes of this section, sections 9, 10, and 25 of this Act shall, with all necessary modifications, apply to a certificate of capture in accordance with other treaties.
+  (a) by any ship registered in New Zealand or by any foreign fishing craft licensed under the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977; and
+  (b) in accordance with any international agreement to which New Zealand was a party before the commencement of this Act.
+(4) For the purposes of this section, sections 9, 10, and 25 shall, with all necessary modifications, apply to a certificate of capture in accordance with other treaties.
 
 ## Part 3 — Endangered Species Officers
 
 ### 35 Endangered Species Officers
 (1) Every inspector appointed under the Ministry of Agriculture and Fisheries Act 1953 or the Biosecurity Act 1993 and every Customs officer shall be an Endangered Species Officer for the purposes of this Act.
-(2) Notwithstanding subsection (1) of this section, there may from time to time be appointed pursuant to the State Sector Act 1988 such other persons to be Endangered Species Officers as may be required for the purposes of this Act.
+(2) Notwithstanding subsection (1), there may from time to time be appointed pursuant to the State Sector Act 1988 such other persons to be Endangered Species Officers as may be required for the purposes of this Act.
 
 ### 36 Authority to act as officer
-(1) The Director-General shall issue to any officer appointed under section 35(2) of this Act a warrant authorising the officer to exercise the powers conferred on officers under this Part of this Act.
+(1) The Director-General shall issue to any officer appointed under section 35(2) a warrant authorising the officer to exercise the powers conferred on officers under this Part.
 (2) Every such warrant shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the officer; and
-  (c) A reference to the powers set out in sections 37 to 39 of this Act.
-(3) The production by an officer of—shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by this Part of this Act.
-  (a) A warrant issued under this section; or
-  (b) Due evidence of the appointment of the officer as an Inspector under the Animals Act 1967, or the Ministry of Agriculture and Fisheries Act 1953, or the Plants Act 1970; or
-  (c) Any evidence that the officer is an officer of Customs—
-(4) Every person appointed under section 35(2) of this Act who ceases to hold office as an officer shall surrender to the Director-General the warrant issued to the person under subsection (1) of this section.
-(5) Every person commits an offence against this Act who fails to comply with subsection (4) of this section.
+  (a) a reference to this section; and
+  (b) the full name of the officer; and
+  (c) a reference to the powers set out in sections 37 to 39.
+(3) The production by an officer of—shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by this Part.
+  (a) a warrant issued under this section; or
+  (b) due evidence of the appointment of the officer as an inspector under the Animals Act 1967, or the Ministry of Agriculture and Fisheries Act 1953, or the Plants Act 1970; or
+  (c) any evidence that the officer is a Customs officer appointed under the Customs and Excise Act 1996—
+(4) Every person appointed under section 35(2) who ceases to hold office as an officer shall surrender to the Director-General the warrant issued to the person under subsection (1).
+(5) Every person commits an offence against this Act who fails to comply with subsection (4).
 
 ### 36A Power of arrest
-(1) Any officer or any member of the Police may arrest and take into custody without a warrant any person whom he or she has good cause to suspect of having committed an offence against this Act.
-(2) Where any officer arrests any person under the power conferred by subsection (1) of this section, he or she shall as soon as practicable call a member of the Police to his or her aid and deliver the arrested person into the custody of that member of the Police.
-(3) Any person called upon to do so by any person referred to in subsection (1) of this section is justified in assisting him or her in good faith to arrest any person.
+(1) Any officer or any constable may arrest and take into custody without a warrant any person whom he or she has good cause to suspect of having committed an offence against this Act.
+(2) Where any officer arrests any person under the power conferred by subsection (1), he or she shall as soon as practicable call a constable to his or her aid and deliver the arrested person into the custody of that constable.
+(3) Any person called upon to do so by any person referred to in subsection (1) is justified in assisting him or her in good faith to arrest any person.
 
 ### 37 Rights of entry
-(1) Subject to section 38(2) of this Act and notwithstanding any other Act, any officer who has reasonable grounds to believe that a breach of this Act or of any regulation made under it has been or is being committed, may at any time—
-  (a) Stop and enter or board any vehicle:
-  (b) Enter, pass across, or remain on any land or premises (including a dwellinghouse and a marae and a building associated with a marae):
-  (c) Demand any information relating to that breach from any person in or on that vehicle, land, or premises and require such persons to produce—
-    (i) Any permit or certificate granted under this Act; and
-    (ii) Any other documents relating to trade in endangered species.
-  (d) For the purpose of such analysis as the Director-General considers necessary to determine whether a breach of this Act or of any regulation made under it has occurred, take samples, subject to subsection (7), from any specimen in any vehicle or on any land or premises (including a dwellinghouse or a marae or any building associated with a marae) where the officer has reasonable grounds to believe that such specimen is evidence that a breach of this Act or of any regulation made under it has been or is being committed.
-(2) Notwithstanding subsection (1) of this section, no officer shall enter any dwellinghouse or a marae or a building associated with a marae or, in the case of the exercise of the power under subsection 1(d), any other land or premises unless the officer is authorised in that behalf by a search warrant obtained under section 38(2) of this Act.
-(3) Every officer exercising a power to enter under subsection (1) of this section shall identify himself or herself and have with him or her due evidence of his or her appointment and shall produce that evidence to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises—
-  (a) If practicable, on first entering the vehicle or on the land or premises; and
-  (b) Whenever subsequently reasonably required to do so by that owner or occupier or person in charge.
-(4) If an officer exercises a power to enter under subsection (1) of this section, written advice of the entry and the purpose of the entry shall be given to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises as soon as practicable after that entry where—
-  (a) No prior notice or agreement of the entry was given or made; and
-  (b) That owner or occupier or person in charge was not present at the time of entry.
+(1) Subject to section 38(2) and notwithstanding any other Act, any officer who has reasonable grounds to believe that a breach of this Act or of any regulation made under it has been or is being committed, may at any time—
+  (a) stop and enter or board any vehicle:
+  (b) enter, pass across, or remain on any land or premises (including a dwellinghouse and a marae and a building associated with a marae):
+  (c) demand any information relating to that breach from any person in or on that vehicle, land, or premises and require such persons to produce—
+    (i) any permit or certificate granted under this Act; and
+    (ii) any other documents relating to trade in endangered species:
+  (d) for the purpose of such analysis as the Director-General considers necessary to determine whether a breach of this Act or of any regulation made under it has occurred, take samples, subject to subsection (7), from any specimen in any vehicle or on any land or premises (including a dwellinghouse or a marae or any building associated with a marae) where the officer has reasonable grounds to believe that such specimen is evidence that a breach of this Act or of any regulation made under it has been or is being committed.
+(2) Notwithstanding subsection (1), no officer shall enter any dwellinghouse or a marae or a building associated with a marae or, in the case of the exercise of the power under subsection 1(d), any other land or premises unless the officer is authorised in that behalf by a search warrant obtained under section 38(2).
+(3) Every officer exercising a power to enter under subsection (1) shall identify himself or herself and have with him or her due evidence of his or her appointment and shall produce that evidence to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises—
+  (a) if practicable, on first entering the vehicle or on the land or premises; and
+  (b) whenever subsequently reasonably required to do so by that owner or occupier or person in charge.
+(4) If an officer exercises a power to enter under subsection (1), written advice of the entry and the purpose of the entry shall be given to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises as soon as practicable after that entry where—
+  (a) no prior notice or agreement of the entry was given or made; and
+  (b) that owner or occupier or person in charge was not present at the time of entry.
 (5) No person shall be required to answer any question by an officer if the answer would or could tend to incriminate that person.
 (6) Any officer lawfully exercising his or her powers under this section may make or take copies of any document, and for this purpose may take possession of and remove from the place where it is kept, for such period of time as is reasonable in the circumstances, any such document.
 (7) Every officer proposing to take a sample under subsection (1)(d) from any live animal—
-  (a) Must do so either personally or, where requested by the owner or person in charge of the animal, by instructing a veterinary surgeon to do so; and
-  (b) Must make every effort to avoid unnecessary disturbance of the animal, including, with respect to an animal which is secured within an enclosure, exercising his or her powers only during the hours of daylight except where the officer judges that there will be less disturbance to the animal if the powers are exercised outside those hours.
+  (a) must do so either personally or, where requested by the owner or person in charge of the animal, by instructing a veterinary surgeon to do so; and
+  (b) must make every effort to avoid unnecessary disturbance of the animal, including, with respect to an animal which is secured within an enclosure, exercising his or her powers only during the hours of daylight except where the officer judges that there will be less disturbance to the animal if the powers are exercised outside those hours.
 
 ### 38 Powers of search
-(1) Subject to subsection (2) of this section, any officer who has entered any vehicle, land, or premises (including a dwellinghouse and a marae and a building associated with a marae) under section 37(1) of this Act may search that vehicle, land, or premises and open (by force if necessary) any bulk cargo container, packing case, crate, box, or any other form of receptacle on that vehicle, land, or premises.
-(2) Any District Court Judge or Justice of the Peace or Community Magistrate or Registrar of any Court (not being a member of the Police), who, on application by an officer in writing made on oath, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to that officer; and the provisions of subsections (3) to (8) of section 198 of the Summary Proceedings Act 1957 shall apply accordingly.
-  (a) Any specimen of an endangered, threatened, or exploited species that there is reasonable ground to believe—
-    (i) Has been traded otherwise than in accordance with this Act; or
-    (ii) Is intended to be traded otherwise than in accordance with this Act; or
-  (b) Any thing which there is reasonable ground to believe may be evidence of the commission of any offence against this Act; or
-  (c) Any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence—
-(3) A search warrant is also required pursuant to subsection (2) of this section in the case of entry to any other land or premises for the purpose of the exercise of the power under section 37(1)(d).
+(1) Subject to subsection (2), any officer who has entered any vehicle, land, or premises (including a dwellinghouse and a marae and a building associated with a marae) under section 37(1) may search that vehicle, land, or premises and open (by force if necessary) any bulk cargo container, packing case, crate, box, or any other form of receptacle on that vehicle, land, or premises.
+(2) Any District Court Judge or Justice of the Peace or Community Magistrate or Registrar of any court (not being a constable), who, on application by an officer in writing made on oath, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to that officer; and the provisions of subsections (3) to (8) of section 198 of the Summary Proceedings Act 1957 shall apply accordingly.
+  (a) any specimen of an endangered, threatened, or exploited species that there is reasonable ground to believe—
+    (i) has been traded otherwise than in accordance with this Act; or
+    (ii) is intended to be traded otherwise than in accordance with this Act; or
+  (b) any thing which there is reasonable ground to believe may be evidence of the commission of any offence against this Act; or
+  (c) any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence—
+(3) A search warrant is also required pursuant to subsection (2) in the case of entry to any other land or premises for the purpose of the exercise of the power under section 37(1)(d).
 
 ### 38A Application of Customs and Excise Act 1996
-Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
+Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
 
 ### 39 Seizure of endangered species traded in contravention of Act
-(1) Where an officer finds, in or on any ship or aircraft or at any port, aerodrome, transitional facility, or Customs controlled area, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42 of this Act.
-  (a) Is being traded otherwise than in accordance with this Act; or
-  (b) Is not listed on the inward or outward report in respect of that ship or aircraft,—
+(1) Where an officer finds, in or on any ship or aircraft or at any port, aerodrome, transitional facility, or Customs controlled area, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42.
+  (a) is being traded otherwise than in accordance with this Act; or
+  (b) is not listed on the inward or outward report in respect of that ship or aircraft,—
 (2) Any officer who has reasonable cause to believe that any specimen of an endangered, threatened, or exploited species has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act, may seize that specimen and,—and shall deliver it into the custody of the Director-General.
-  (a) In the case of an animal, any descendant of that specimen; or
-  (b) In the case of a plant, any propagation of that specimen,—
+  (a) in the case of an animal, any descendant of that specimen; or
+  (b) in the case of a plant, any propagation of that specimen,—
 (3) Any officer who has reasonable cause to believe that any specimen of an endangered, threatened, or exploited species is intended to be exported or re-exported from New Zealand otherwise than in accordance with this Act, may seize that specimen and shall deliver it into the custody of the Director-General.
 (4) Any officer seizing any specimen under this section may also seize—and shall deliver it into the custody of the Director-General:
-  (a) Any container, packing case, crate, box, or any other form of receptacle (not being a bulk cargo container or a pallet) holding that specimen; and
-  (b) Any thing which the officer has reason to believe will be evidence of a breach of the provisions of this Act or of any regulation made under it,—
-  Provided that the owner or the person entitled to the possession of the items seized under this subsection may apply to the District Court at any time for the return of those items, not being items that are required for evidential purposes in a hearing of any Court, and the Court may order the retention of those items or their return on such conditions as the Court thinks fit.
-(5) No compensation shall be payable in respect of any specimen seized under subsection (1) of this section.
+  (a) any container, packing case, crate, box, or any other form of receptacle (not being a bulk cargo container or a pallet) holding that specimen; and
+  (b) any thing which the officer has reason to believe will be evidence of a breach of the provisions of this Act or of any regulation made under it,—
+  provided that the owner or the person entitled to the possession of the items seized under this subsection may apply to the District Court at any time for the return of those items, not being items that are required for evidential purposes in a hearing of any court, and the court may order the retention of those items or their return on such conditions as the court thinks fit.
+(5) No compensation shall be payable in respect of any specimen seized under subsection (1).
 (6) For the purposes of subsection (1),—
   - **Customs controlled area** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
   - **transitional facility** has the meaning given to it in section 2(1) of the Biosecurity Act 1993.
 
 ### 39A Power to seize vehicles and containers
 Any officer may stop and seize any vehicle on the ground or in water, or stop in transit and seize any parcel, package, case, bag, luggage, or other container, if the officer reasonably believes either—
-  (a) That the vehicle or container contains any endangered, threatened, or exploited species; or
-  (b) That the vehicle or container—
-    (i) Is in the possession of a person who has committed an offence against this Act; and
-    (ii) Has been used in connection with the commission of an offence against this Act.
+  (a) that the vehicle or container contains any endangered, threatened, or exploited species; or
+  (b) that the vehicle or container—
+    (i) is in the possession of a person who has committed an offence against this Act; and
+    (ii) has been used in connection with the commission of an offence against this Act.
 
 ### 39B Director-General to retain seized vehicles and containers
-(1) Subject to section 39E of this Act, where any vehicle or container is seized under section 39A of this Act, it shall, pending any criminal proceedings under this Act against the owner or any person in possession of the vehicle or container, be retained by the Director-General.
-(2) If at any time following the seizure of any vehicle or container under section 39A of this Act (not being a vehicle or container that has been forfeited to the Crown) it appears to the Director-General that the officer who seized the vehicle or container is unable to establish clearly that he or she had the reasonable belief necessary to exercise that power, the Director-General shall immediately release the vehicle or container from his or her custody.
-(3) The Director-General shall exercise reasonable care of any property while it is retained in his or her custody under subsection (1) of this section.
+(1) Subject to section 39E, where any vehicle or container is seized under section 39A, it shall, pending any criminal proceedings under this Act against the owner or any person in possession of the vehicle or container, be retained by the Director-General.
+(2) If at any time following the seizure of any vehicle or container under section 39A (not being a vehicle or container that has been forfeited to the Crown) it appears to the Director-General that the officer who seized the vehicle or container is unable to establish clearly that he or she had the reasonable belief necessary to exercise that power, the Director-General shall immediately release the vehicle or container from his or her custody.
+(3) The Director-General shall exercise reasonable care of any property while it is retained in his or her custody under subsection (1).
 
 ### 39C Proceedings to be prosecuted promptly and diligently
-(1) Proceedings in respect of an offence against this Act shall be commenced promptly and prosecuted with due diligence if they arise in connection with the use of any vehicle or container seized under section 39A of this Act.
-(2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under section 39A of this Act of any vehicle or container, or if the proceedings concerned are discharged or dismissed, the vehicle or container shall be released from the custody of the Director-General.
+(1) Proceedings in respect of an offence against this Act shall be commenced promptly and prosecuted with due diligence if they arise in connection with the use of any vehicle or container seized under section 39A.
+(2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under section 39A of any vehicle or container, or if the proceedings concerned are discharged or dismissed, the vehicle or container shall be released from the custody of the Director-General.
 
 ### 39D Forfeiture of seized vehicles and containers
-(1) On the conviction of any person for any offence against this Act, any vehicle or container retained in respect of that offence under section 39B(1) of this Act may, on the order of the Court, be forfeited to the Crown; and, in that case, the vehicle or container shall be disposed of as the Minister thinks fit.
+(1) On the conviction of any person for any offence against this Act, any vehicle or container retained in respect of that offence under section 39B(1) may, on the order of the court, be forfeited to the Crown; and, in that case, the vehicle or container shall be disposed of as the Minister thinks fit.
 (2) Any person whose property has been forfeited to the Crown under this section or any person having a legal or equitable interest in any such property (not being, in either case, a person convicted of an offence out of which the forfeiture arose) may apply to the Minister, within 30 days of the conviction concerned, for the release of the property forfeited; and the Minister may order the release of the property on payment to the Crown of any amount the Minister thinks appropriate, being an amount not exceeding the amount the items forfeited are estimated by the Director-General to be likely to realise if sold by public auction in New Zealand.
-(3) In considering whether to order the release of any property on payment of an amount under subsection (2) of this section, the Minister shall have regard to—
-  (a) The relationship between the person applying for release of the property and the person convicted of the offence; and
-  (b) The extent to which it was foreseeable that the property would be used in connection with the commission of an offence against this Act when it was placed in the possession of the offender.
+(3) In considering whether to order the release of any property on payment of an amount under subsection (2), the Minister shall have regard to—
+  (a) the relationship between the person applying for release of the property and the person convicted of the offence; and
+  (b) the extent to which it was foreseeable that the property would be used in connection with the commission of an offence against this Act when it was placed in the possession of the offender.
 (4) Any forfeiture ordered under this section shall be in addition to, and not in substitution for, any other penalty that may be imposed.
 
-### 39E Power of Court to order return of seized vehicle or container
-(1) Where any vehicle or container is seized under section 39A of this Act, any person claiming to be entitled to possession of the vehicle or container may at any time apply to a District Court Judge for an order that it be delivered to that person.
-(2) On an application under subsection (1) of this section, a District Court Judge may—
-  (a) Adjourn the application, on such terms and conditions as he or she thinks fit, to enable proceedings to be brought or completed; or
-  (b) Make an order for the return of the vehicle or container to the applicant, on such terms and conditions as he or she thinks fit.
-(3) Nothing in this section applies to any vehicle or container if a Court has ordered under section 39D(1) of this Act that it be forfeited to the Crown.
+### 39E Power of court to order return of seized vehicle or container
+(1) Where any vehicle or container is seized under section 39A, any person claiming to be entitled to possession of the vehicle or container may at any time apply to a District Court Judge for an order that it be delivered to that person.
+(2) On an application under subsection (1), a District Court Judge may—
+  (a) adjourn the application, on such terms and conditions as he or she thinks fit, to enable proceedings to be brought or completed; or
+  (b) make an order for the return of the vehicle or container to the applicant, on such terms and conditions as he or she thinks fit.
+(3) Nothing in this section applies to any vehicle or container if a court has ordered under section 39D(1) that it be forfeited to the Crown.
 
 ### 39F Effect of order for release of seized vehicle or container
-Where the Minister makes an order under section 39D(2) of this Act in respect of a vehicle or container that has been forfeited to the Crown, the forfeiture order made in respect of that vehicle or container shall cease to have effect.
+Where the Minister makes an order under section 39D(2) in respect of a vehicle or container that has been forfeited to the Crown, the forfeiture order made in respect of that vehicle or container shall cease to have effect.
 
 ### 40 Custody of seized specimens
-(1) Where, in the opinion of the Director-General, any specimen seized pursuant to subsection (2) or subsection (3) of section 39 of this Act may die, rot, spoil, or otherwise perish, the Director-General may dispose of it in accordance with section 42(1) of this Act as if that specimen was forfeit to the Crown.
+(1) Where, in the opinion of the Director-General, any specimen seized pursuant to subsection (2) or subsection (3) of section 39 may die, rot, spoil, or otherwise perish, the Director-General may dispose of it in accordance with section 42(1) as if that specimen was forfeit to the Crown.
 (2) Where the ownership of—cannot, at the time of seizure or within 90 days from the date of seizure, be ascertained it shall be forfeit to the Crown, and—
-  (a) Any specimen seized pursuant to subsection (2) or subsection (3) of section 39 of this Act; or
-  (b) Any receptacle or thing seized pursuant to section 39(4),—
-  (c) In the case of a specimen, be disposed of in accordance with section 42 of this Act; or
-  (d) In the case of a receptacle or thing, be disposed of as directed by the Director-General, subject to any conditions imposed by the Court pursuant to the proviso to subsection (4) of section 39 of this Act.
+  (a) any specimen seized pursuant to subsection (2) or subsection (3) of section 39; or
+  (b) any receptacle or thing seized pursuant to section 39(4),—
+  (c) in the case of a specimen, be disposed of in accordance with section 42; or
+  (d) in the case of a receptacle or thing, be disposed of as directed by the Director-General, subject to any conditions imposed by the court pursuant to the proviso to subsection (4) of section 39.
 (3) Except as provided in subsections (1) and (2) of this section,—shall be held in the custody of the Crown until—
-  (a) Every specimen seized pursuant to subsection (2) or subsection (3) of section 39 of this Act; and
-  (b) Every receptacle or thing seized pursuant to section 39(4)—
-  (c) A decision is made not to lay any information or charge in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
-  (d) Where such a charge or information is laid, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the Court may determine.
+  (a) every specimen seized pursuant to subsection (2) or subsection (3) of section 39; and
+  (b) every receptacle or thing seized pursuant to section 39(4)—
+  (c) a decision is made not to lay any information or charge in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
+  (d) where such a charge or information is laid, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the court may determine.
 (4) The decision whether or not to lay any information or charge in respect of an alleged offence for which any specimen, receptacle, or thing is seized under section 39 shall be made as soon as reasonably practicable after that specimen, receptacle, or thing is seized, taken possession of, or detained.
 
 ### 41 Release of seized specimens
-Subject to subsection (1) of section 39 and subsections (1) and (2) of section 40 of this Act, where any specimen, receptacle, or thing has been seized under section 39 of this Act and not previously returned by the Court pursuant to the proviso to subsection (4) of section 39 of this Act, then—such specimen, receptacle, or thing shall forthwith be released from the custody of the Crown to the owner or person who had possession of the specimen, receptacle, or thing at the time of seizure.
-  (a) On a decision being made not to lay an information or charge; or
-  (b) On the acquittal of any person charged with an offence for which the specimen, receptacle, or thing is subject to forfeiture—
+Subject to subsection (1) of section 39 and subsections (1) and (2) of section 40, where any specimen, receptacle, or thing has been seized under section 39 and not previously returned by the court pursuant to the proviso to subsection (4) of section 39, then—such specimen, receptacle, or thing shall forthwith be released from the custody of the Crown to the owner or person who had possession of the specimen, receptacle, or thing at the time of seizure.
+  (a) on a decision being made not to lay an information or charge; or
+  (b) on the acquittal of any person charged with an offence for which the specimen, receptacle, or thing is subject to forfeiture—
 
 ### 42 Disposal of seized specimens
 (1) Any specimen of an endangered, threatened, or exploited species forfeited to the Crown shall be disposed of in such manner as the Director-General may direct, after consultation with the relevant scientific and management authorities.
 (2) The Director-General may negotiate the return, and the payment of any costs associated with that return, of any specimen imported into New Zealand, otherwise than in accordance with this Act, with the management authority of the country from where that specimen originated.
-(3) All costs and expenses of and attendant upon any disposal of a specimen forfeited to the Crown and seized under section 39(1) of this Act shall be borne by the owner or the person who had possession thereof, and shall be recoverable from him or her as a debt due to the Crown, and no compensation shall be payable in respect thereof.
-(4) Notwithstanding sections 39(1), 40(1) and (2) and section 51(1) of this Act, any specimen of an endangered, threatened, or exploited species seized under section 39 of this Act that is deemed to be the property of the Crown under section 57 of the Wildlife Act 1953 shall be disposed of in accordance with that Act.
+(3) All costs and expenses of and attendant upon any disposal of a specimen forfeited to the Crown and seized under section 39(1) shall be borne by the owner or the person who had possession thereof, and shall be recoverable from him or her as a debt due to the Crown, and no compensation shall be payable in respect thereof.
+(4) Notwithstanding sections 39(1), 40(1) and (2) and section 51(1), any specimen of an endangered, threatened, or exploited species seized under section 39 that is deemed to be the property of the Crown under section 57 of the Wildlife Act 1953 shall be disposed of in accordance with that Act.
 
 ### 43 Duty of officers and employees of postal operators
 (1) It is the duty of all officers and employees of every postal operator within the meaning of the Postal Services Act 1998 to assist in carrying out the provisions of this Part and to prevent the import into and export from New Zealand of any specimen of an endangered, threatened, or exploited species otherwise than in accordance with this Act.
@@ -443,44 +443,44 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
 
 ### 44 Trading in endangered, threatened, or exploited species without permit or certificate
 (1) Every person commits an offence who—
-  (a) Trades in any specimen of an endangered species without the appropriate permit or certificate granted under any of sections 13 to 16 of this Act; or
-  (b) Trades in any specimen of a threatened species without the appropriate permit or certificate granted under any of sections 17 to 20 of this Act; or
-  (c) Trades in any specimen of an exploited species without the appropriate permit or certificate granted under any of sections 21 to 24 of this Act.
-(2) Every person who commits an offence against subsection (1)(a) of this section is liable on conviction on indictment,—
-  (a) In the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
-  (b) In the case of a body corporate, to a fine not exceeding $200,000.
-(3) Every person who commits an offence against subsection (1)(b) of this section is liable on conviction on indictment,—
-  (a) In the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
-  (b) In the case of a body corporate, to a fine not exceeding $100,000.
-(4) Every person who commits an offence against subsection (1)(c) of this section is liable on summary conviction,—
-  (a) In the case of a natural person, to a fine not exceeding $37,500:
-  (b) In the case of a body corporate, to a fine not exceeding $75,000.
+  (a) trades in any specimen of an endangered species without the appropriate permit or certificate granted under any of sections 13 to 16; or
+  (b) trades in any specimen of a threatened species without the appropriate permit or certificate granted under any of sections 17 to 20; or
+  (c) trades in any specimen of an exploited species without the appropriate permit or certificate granted under any of sections 21 to 24.
+(2) Every person who commits an offence against subsection (1)(a) is liable on conviction on indictment,—
+  (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
+(3) Every person who commits an offence against subsection (1)(b) is liable on conviction on indictment,—
+  (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $100,000.
+(4) Every person who commits an offence against subsection (1)(c) is liable on summary conviction,—
+  (a) in the case of a natural person, to a fine not exceeding $37,500:
+  (b) in the case of a body corporate, to a fine not exceeding $75,000.
 
 ### 45 Possession of specimens of endangered, threatened, or exploited species
 (1) Every person commits an offence who has in his or her possession, or has under his or her control though under the custody of another, any specimen of an endangered, threatened, or exploited species that he or she knows or has reasonable grounds for suspecting—
-  (a) Has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act; or
-  (b) Is intended to be exported or re-exported from New Zealand otherwise than in accordance with this Act.
-(2) Every person who commits an offence against subsection (1) of this section in respect of a specimen of an endangered species is liable on conviction on indictment,—
-  (a) In the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
-  (b) In the case of a body corporate, to a fine not exceeding $200,000.
-(3) Every person who commits an offence against subsection (1) of this section in respect of a specimen of a threatened species is liable on conviction on indictment,—
-  (a) In the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
-  (b) In the case of a body corporate, to a fine not exceeding $100,000.
-(4) Every person who commits an offence against subsection (1) of this section in respect of a specimen of an exploited species is liable on summary conviction,—
-  (a) In the case of a natural person, to a fine not exceeding $37,500:
-  (b) In the case of a body corporate, to a fine not exceeding $75,000.
+  (a) has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act; or
+  (b) is intended to be exported or re-exported from New Zealand otherwise than in accordance with this Act.
+(2) Every person who commits an offence against subsection (1) in respect of a specimen of an endangered species is liable on conviction on indictment,—
+  (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $200,000.
+(3) Every person who commits an offence against subsection (1) in respect of a specimen of a threatened species is liable on conviction on indictment,—
+  (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $100,000.
+(4) Every person who commits an offence against subsection (1) in respect of a specimen of an exploited species is liable on summary conviction,—
+  (a) in the case of a natural person, to a fine not exceeding $37,500:
+  (b) in the case of a body corporate, to a fine not exceeding $75,000.
 
 ### 46 Failure to comply with conditions of permit or certificate
-(1) Every person commits an offence who fails to comply with any of the conditions specified by the Director-General in respect of any permit or certificate granted to him or her under Part 1 of this Act.
-(2) Every person who commits an offence against subsection (1) of this section is liable on summary conviction,—
-  (a) In the case of a natural person, to a fine not exceeding $10,000:
-  (b) In the case of a body corporate, to a fine not exceeding $20,000.
+(1) Every person commits an offence who fails to comply with any of the conditions specified by the Director-General in respect of any permit or certificate granted to him or her under Part 1.
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of a natural person, to a fine not exceeding $10,000:
+  (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
 ### 47 Making false statements
-(1) Every person commits an offence who, for the purpose of procuring anything to be done or not to be done under Part 1 or Part 2 or Part 3 of this Act, whether for his or her own benefit or for the benefit of any other person,—
-  (a) Makes a statement that he or she knows to be false in a material particular; or
-  (b) Recklessly makes a statement that is false in a material particular.
-(2) Every person who commits an offence against subsection (1) of this section is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000.
+(1) Every person commits an offence who, for the purpose of procuring anything to be done or not to be done under Part 1 or Part 2 or Part 3, whether for his or her own benefit or for the benefit of any other person,—
+  (a) makes a statement that he or she knows to be false in a material particular; or
+  (b) recklessly makes a statement that is false in a material particular.
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000.
 
 ### 48 Obstructing or hindering officer
 Every person commits an offence against this Act who intentionally obstructs or hinders any officer in the performance of his or her duty under this Act.
@@ -492,37 +492,37 @@ Every person who commits an offence against this Act for which no penalty is pro
 Where any person is charged with an offence against this Act arising out of his or her doing, without a permit or certificate, any action for which a permit or certificate is required, the onus shall be on that person to prove that at the relevant time he or she held the required permit or certificate.
 
 ### 51 Forfeiture of property on conviction
-(1) Subject to subsection (2) of this section, on the conviction of any person for any offence against this Act,—whether or not they have been seized, taken possession of, or detained under section 39 of this Act, shall be forfeit to the Crown, and disposed of,—
-  (a) Any specimen of an endangered, threatened, or exploited species in respect of which the offence has been committed; and
-  (b) Any container, packing case, crate, box, or any other form of receptacle (not being a bulk cargo container or a pallet) used in relation to the commission of the offence,—
-  (c) In the case of a specimen, in accordance with section 42 of this Act:
-  (d) In the case of a receptacle, as the Director-General directs.
+(1) Subject to subsection (2), on the conviction of any person for any offence against this Act,—whether or not they have been seized, taken possession of, or detained under section 39, shall be forfeit to the Crown, and disposed of,—
+  (a) any specimen of an endangered, threatened, or exploited species in respect of which the offence has been committed; and
+  (b) any container, packing case, crate, box, or any other form of receptacle (not being a bulk cargo container or a pallet) used in relation to the commission of the offence,—
+  (c) in the case of a specimen, in accordance with section 42:
+  (d) in the case of a receptacle, as the Director-General directs.
 (2) Notwithstanding the conviction of any person for any offence against this Act, no specimen shall be forfeited or disposed of until proceedings are finally determined.
-(3) Any person whose receptacle has been forfeit to the Crown under subsection (1) of this section or any person having a legal or equitable interest in such property may apply to the Minister within 30 days of conviction for the release of the property so forfeited; and the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the items otherwise forfeited are estimated by the Director-General to realise if sold by public auction in New Zealand.
-(4) Any forfeiture directed or redemption payment imposed pursuant to this section shall be in addition to, and not in substitution for, any other penalty that may be imposed by the Court or by this Act.
+(3) Any person whose receptacle has been forfeit to the Crown under subsection (1) or any person having a legal or equitable interest in such property may apply to the Minister within 30 days of conviction for the release of the property so forfeited; and the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the items otherwise forfeited are estimated by the Director-General to realise if sold by public auction in New Zealand.
+(4) Any forfeiture directed or redemption payment imposed pursuant to this section shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act.
 
 ### 52 Protection of officers and others
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on that person by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ### 53 Schedules
-The Governor-General may from time to time, by Order in Council,—in order that those Schedules may conform with the Convention as amended from time to time.
-  (a) Add any item to, omit any item from, or amend any item in Schedule 1 or Schedule 2 or Schedule 3 to this Act:
-  (b) Add any Part to, or omit any Part from, Schedule 1 or Schedule 2 or Schedule 3 to this Act:
-  (c) Revoke any such Schedule and substitute a new Schedule—
+The Governor-General may from time to time, by Order in Council,—in order that those schedules may conform with the Convention as amended from time to time.
+  (a) add any item to, omit any item from, or amend any item in Schedule 1 or Schedule 2 or Schedule 3:
+  (b) add any Part to, or omit any Part from, Schedule 1 or Schedule 2 or Schedule 3:
+  (c) revoke any such schedule and substitute a new schedule—
 
 ### 54 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the fees to be paid in respect of any permit or certificate granted under this Act:
-  (b) Prescribing the recording of trade in endangered, threatened, or exploited species:
-  (c) Regulating the non-commercial loan, donation, and exchange between scientists and scientific institutions in New Zealand and those in other countries:
-  (d) Prescribing the registration of scientists and scientific institutions in New Zealand involved in such exchanges:
-  (e) Regulating the breeding in captivity, in the case of an animal, and the artificial propagation, in the case of a plant, of any specimen of endangered, threatened, or exploited species:
-  (ea) Specifying requirements with respect to taking and analysis of samples of specimens where such taking and analysis is authorised for any purpose under this Act:
-  (f) Prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing fines not exceeding $2,000 in respect of any such offence:
-  (g) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (a) prescribing the fees to be paid in respect of any permit or certificate granted under this Act:
+  (b) prescribing the recording of trade in endangered, threatened, or exploited species:
+  (c) regulating the non-commercial loan, donation, and exchange between scientists and scientific institutions in New Zealand and those in other countries:
+  (d) prescribing the registration of scientists and scientific institutions in New Zealand involved in such exchanges:
+  (e) regulating the breeding in captivity, in the case of an animal, and the artificial propagation, in the case of a plant, of any specimen of endangered, threatened, or exploited species:
+  (ea) specifying requirements with respect to taking and analysis of samples of specimens where such taking and analysis is authorised for any purpose under this Act:
+  (f) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing fines not exceeding $2,000 in respect of any such offence:
+  (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 55 Consequential amendment
-The Conservation Act 1987 is hereby consequentially amended by adding to Schedule 1 the following item:The Trade in Endangered Species Act 1989.
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Species endangered by trade
 
@@ -532,7 +532,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
 | MAMMALIA—MAMMALS |  |  |  |  |
-| Artiodactyla—Even-toed ungulates | Antilocapridae—Pronghorn | Antilocapra americana | pronghorn | only population of Mexico; no other population is included in the Schedules |
+| Artiodactyla—Even-toed ungulates | Antilocapridae—Pronghorn | Antilocapra americana | pronghorn | only population of Mexico; no other population is included in the schedules |
 |  | Bovidae—Antelopes, cattle, duikers, gazelles, goats, sheep, etc | Addax nasomaculatus | addax |  |
 |  |  | Bos gaurus | gaur | excludes domesticated form, referenced as Bos frontalis |
 |  |  | Bos mutus | wild yak | excludes domesticated form, referenced as Bos grunniens |
@@ -914,7 +914,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Ninox natalis | Christmas Island hawk-owl |  |
 |  |  | Ninox novaeseelandiae undulata | Norfolk Island boobook owl |  |
 |  | Tytonidae—Barn owls | Tyto soumagnei | Madagascar owl |  |
-| Struthioniformes—Ostriches, emus, cassowaries, kiwis | Struthionidae—Ostrich | Struthio camelus | ostrich | only populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal, and the Sudan. All other populations are not included in the Schedules |
+| Struthioniformes—Ostriches, emus, cassowaries, kiwis | Struthionidae—Ostrich | Struthio camelus | ostrich | only populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal, and the Sudan. All other populations are not included in the schedules |
 | Tinamiformes—Paleognath birds | Tinamidae—Tinamous | Tinamus solitarius | solitary tinamou |  |
 | Trogoniformes—Trogons | Trogonidae—Quetzals | Pharomachrus mocinno | resplendent quetzal |  |
 | REPTILIA—REPTILES |  |  |  |  |
@@ -956,7 +956,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  | Bolyeriidae—Round Island boas | Bolyeria multocarinata | Round Island burrowing boa |  |
 |  |  | Casarea dussumieri | Round Island keel-scaled boa |  |
 |  | Pythonidae—Pythons | Python molurus molurus | Indian python, rock python |  |
-|  | Viperidae—Vipers | Vipera ursinii | Orsini's viper | only the population of Europe, except the area that formerly constituted the USSR; these latter populations are not included in the Schedules |
+|  | Viperidae—Vipers | Vipera ursinii | Orsini's viper | only the population of Europe, except the area that formerly constituted the USSR; these latter populations are not included in the schedules |
 | Testudines—Turtles, tortoises | Chelidae—Austro-American side-necked turtles | Pseudemydura umbrina | western swamp turtle |  |
 |  | Cheloniidae—Marine turtles | Cheloniidae spp. | sea turtles |  |
 |  | Dermochelyidae—Leatherback turtle | Dermochelys coriacea | leatherback turtle |  |
@@ -1168,7 +1168,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  | Hippopotamidae—Hipppotamuses | Hexaprotodon liberiensis | pygmy hippopotamus |  |  |  |
 |  |  | Hippopotamus amphibius | hippopotamus |  |  |  |
 |  | Moschidae—Musk deer | Moschus spp. | musk deer | except populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan, which are included in Schedule 1 |  |  |
-|  | Tayassuidae—Peccaries | Tayassuidae spp. | peccaries | except species included in Schedule 1 and the populations of Pecari tajacu of Mexico and USA which are not included in the Schedules of the Act |  |  |
+|  | Tayassuidae—Peccaries | Tayassuidae spp. | peccaries | except species included in Schedule 1 and the populations of Pecari tajacu of Mexico and USA which are not included in the schedules of the Act |  |  |
 | Carnivora—Carnivores | Canidae—Bush dog, foxes, wolves | Canis lupus | grey wolf | except the populations of Bhutan, India, Nepal, and Pakistan, which are included in Schedule 1 |  |  |
 |  |  | Cerdocyon thous | crab-eating fox |  |  |  |
 |  |  | Chrysocyon brachyurus | maned wolf |  |  |  |
@@ -1215,7 +1215,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 | Primates—Apes, monkeys |  | Primates spp. | all monkeys, lemurs, etc | except the species listed in Schedule 1 |  |  |
 | Proboscidea—Elephants | Elephantidae—elephants | Loxodonta africana | African elephant | populations of Botswana, Namibia, South Africa, and Zimbabwe exclusively for— |  |  |
 |  |  |  |  | (1) | trade in hunting trophies for non-commercial purposes; or |  |
-|  |  |  |  | (2) | trade in live animals for in situ conservation programmes (Namibia and South Africa) or to “appropriate and acceptable destinations” (Botswana and Zimbabwe); or |  |
+|  |  |  |  | (2) | trade in live animals for in situ conservation programmes (Namibia and South Africa) or to appropriate and acceptable destinations(Botswana and Zimbabwe); or |  |
 |  |  |  |  | (3) | trade in hides; or |  |
 |  |  |  |  | (4) | trade in leather goods: for non-commercial purposes for Zimbabwe; for commercial or non-commercial purposes for Botswana, Namibia, and South Africa; or |  |
 |  |  |  |  | (5) | trade in hair; or |  |
@@ -1286,7 +1286,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Ramphastos toco | toco toucan |  |  |  |
 |  |  | Ramphastos tucanus | red-billed toucan |  |  |  |
 |  |  | Ramphastos vitellinus | channel-billed toucan |  |  |  |
-| Psittaciformes—Parrots |  | Psittaciformes spp. | all parrots and allies | except the species included in Schedule 1 and Schedule 3, and excluding Agapornis roseicollis (peach-faced or rosy-faced love bird), Melopsittacus undulatus (budgerigar), Nymphicus hollandicus (cockatiel), and Psicttacula krameri (ring-necked parakeet), which are not included in the Schedules to the Act |  |  |
+| Psittaciformes—Parrots |  | Psittaciformes spp. | all parrots and allies | except the species included in Schedule 1 and Schedule 3, and excluding Agapornis roseicollis (peach-faced or rosy-faced love bird), Melopsittacus undulatus (budgerigar), Nymphicus hollandicus (cockatiel), and Psicttacula krameri (ring-necked parakeet), which are not included in the schedules of the Act |  |  |
 | Rheiformes—Rheas | Rheidae—Rheas | Pterocnemia pennata pennata | Southern lesser Rhea |  |  |  |
 |  |  | Rhea americana | greater rhea |  |  |  |
 | Sphenisciformes—Penguins | Spheniscidae—Penguins | Spheniscus demersus | jackass penguin |  |  |  |
@@ -1335,7 +1335,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Naja sumatrana | Sumatran cobra, Equatorial spitting cobra |  |  |  |
 |  |  | Ophiophagus hannah | King cobra |  |  |  |
 |  | Loxocemidae—Mexican dwarf boa | Loxocemidae spp. | New World pythons |  |  |  |
-|  | Pythonidae—Pythons | Pythonidae spp. | true pythons | except the sub-species included in Schedule 1 |  |  |
+|  | Pythonidae—Pythons | Pythonidae spp. | true pythons | except the subspecies included in Schedule 1 |  |  |
 |  | Tropidophiidae—Wood boas | Tropidophiidae spp. | wood boas |  |  |  |
 |  | Viperidae—Vipers | Vipera wagneri | Iranian viper |  |  |  |
 | Testudines —Turtles, tortoises | Carettochelyidae—Pig-nosed turtles | Carettochelys insculpta | pig-nosed turtle |  |  |  |
@@ -1366,7 +1366,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Podocnemis spp. | South American river turtles |  |  |  |
 |  | Testudinidae—Tortoises | Testudinidae spp. | tortoises | except the species included in Schedule 1. A zero annual export quota has been established for Geochelone sulcata for specimens removed from the wild and traded for primarily commercial purposes |  |  |
 |  | Trionychidae—Softshell turtles, terrapins | Amyda cartilaginea | South-East Asian softshell turtle |  |  |  |
-|  |  | Chitra spp. | narrow headed softshell turtles |  |  |  |
+|  |  | Chitra spp | narrow headed softshell turtles |  |  |  |
 |  |  | Lissemys punctata | Indian flap-shelled turtle |  |  |  |
 |  |  | Lissemys scutata | Burmese flapshell turtle |  |  |  |
 |  |  | Pelochelys spp. | giant softshell turtles |  |  |  |
@@ -1440,7 +1440,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  | Apocynaceae—Elephant trunks, hoodias | Hoodia spp. | hoodia | #9 |  |  |
 |  |  | Pachypodium spp. | elephant trunks | #1; except the species included in Schedule 1 |  |  |
 |  |  | Rauvolfia serpentina | snake-root, devil-pepper | #2 |  |  |
-|  | Araliaceae—Ginseng | Panax ginseng | red ginseng | #3; only the population of the Russian Federation; no other population is included in the Schedules |  |  |
+|  | Araliaceae—Ginseng | Panax ginseng | red ginseng | #3; only the population of the Russian Federation; no other population is included in the schedules |  |  |
 |  |  | Panax quinquefolius | American ginseng | #3 |  |  |
 |  | Berberidaceae—May-Apple | Podophyllum hexandrum | Himalayan may apple | #2 |  |  |
 |  | Bromeliaceae—Air plants, bromelias | Tillandsia harrisii | Harris' tillandsia | #1 |  |  |
@@ -1450,14 +1450,14 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Tillandsia sprengeliana | Sprengei's tillandsia | #1 |  |  |
 |  |  | Tillandsia sucrei | sucrei tillandsia | #1 |  |  |
 |  |  | Tillandsia xerographica | xerographic tillandsia | #1 |  |  |
-|  | Cactaceae—Cacti | Cactaceae spp. | cactus plants | #4; except species included in Schedule 1 and except Pereskia spp., Pereskiopsis spp., and Quiabentia spp. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Act: Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata (cultivars);Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus; Opuntia microdasys (cultivars) |  |  |
+|  | Cactaceae—Cacti | Cactaceae spp. | cactus plants | #4; except species included in Schedule 1 and except Pereskia spp, Pereskiopsis spp, and Quiabentia spp. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Act: Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata (cultivars); Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus; Opuntia microdasys (cultivars) |  |  |
 |  | Caryocaraceae—Ajo | Caryocar costaricense | costus | #1 |  |  |
 |  | Crassulaceae—Dudleyas | Dudleya stolonifera | Laguna Beach dudleya |  |  |  |
 |  |  | Dudleya traskiae | Santa Barbara Island dudleya |  |  |  |
 |  | Cyatheaceae—Tree ferns | Cyathea spp. | tree ferns | #1 |  |  |
 |  | Cycadaceae—Cycads | Cycadaceae spp. | cycads | #1; except the species included in Schedule 1 |  |  |
 |  | Dicksoniaceae—Tree ferns | Cibotium barometz |  | #1 |  |  |
-|  |  | Dicksonia spp. | tree ferns | #1; only the population of the Americas; no other population is included in the Schedules |  |  |
+|  |  | Dicksonia spp. | tree ferns | #1; only the population of the Americas; no other population is included in the schedules |  |  |
 |  | Didieraceae—Allaudias, didiereas | Didiereaceae spp. | allaudias, didiereas | #1 |  |  |
 |  | Dioscoreaceae—elephant's foot, kniss | Dioscorea deltoidea | elephant's foot | #1 |  |  |
 |  | Droseraceae—Venus flytrap | Dionaea muscipula | Venus flytrap | #1 |  |  |
@@ -1468,14 +1468,14 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Pericopsis elata | African teak | #5 |  |  |
 |  |  | Platymiscium pleiostachyum | quira, macawood | #1 |  |  |
 |  |  | Pterocarpus santalinus | red sanders | #7 |  |  |
-|  | Liliaceae—Aloes | Aloe spp. | aloes | #1; except the species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the Schedules |  |  |
+|  | Liliaceae—Aloes | Aloe spp. | aloes | #1; except the species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the schedules |  |  |
 |  | Meliaceae—mahoganies, spanish cedar | Swietenia humilis | Mexican mahogany, Honduras mahogany | #1 |  |  |
 |  |  | Swietenia macrophylla | big-leaf mahogany | #6; populations of the neotropics |  |  |
 |  |  | Swietenia mahogani | American mahogany | #5 |  |  |
 |  | Nepenthaceae—pitcher plants (Old World) | Nepenthes spp. | pitcher plants | #1; except the species included in Schedule 1 |  |  |
 |  | Orchidaceae—orchids | Orchidaceae spp. | orchids | #1; except species included in Schedule 1. Artificially propagated hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis, and Vanda are not subject to the provisions of the Act when: |  |  |
 |  |  |  |  | (a) | specimens are readily recognisable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and |  |
-|  |  |  |  | (b) (i) |  | when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as invoice, which clearly states the number of plants of each hybrid; or |
+|  |  |  |  | (b)(i) |  | when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as invoice, which clearly states the number of plants of each hybrid; or |
 |  |  |  |  | (b) (ii) |  | when shipped in flowering state, with at least 1 fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, eg, labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification. Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents. |
 |  | Orobanchaceae—Broomrape | Cistanche deserticola | desert cistanche | #1 |  |  |
 |  | Palmae (Arecaceae)—Palms | Beccariophoenix madagascariensis | Manarano palm, Maruala palm | #1 |  |  |
@@ -1486,7 +1486,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Ravenea rivularis | majesty palm |  |  |  |
 |  |  | Satranala decussilvae | satranabe palm |  |  |  |
 |  |  | Voanioala gerardii | forest coconut |  |  |  |
-|  | Portulaceae—lewisias, portulacas, purslanes | Anacampseros spp. | purselanes | #1 |  |  |
+|  | Portulaceae—Lewisias, portulacas, purslanes | Anacampseros spp. | purselanes | #1 |  |  |
 |  |  | Avonia spp. |  | #1 |  |  |
 |  |  | Lewisia serrata | saw-toothed lewisia | #1 |  |  |
 |  | Primulaceae—Cyclamens | Cyclamen spp. | cyclamens | #1; except artificially propagated cultivars of Cyclamen persicum (cultivars). Exemption does not apply to specimens traded as dormant tubers |  |  |
@@ -1664,7 +1664,7 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 |  |  | Dalbergia stevensonii Standl | Honduras rosewood | #5; Guatemala; population of Guatemala |
 |  |  | Dipteryx panamensis |  | Costa Rica, Nicaragua |
 |  | Magnoliaceae—Magnolias | Magnolia liliifora var. obovata |  | #1; Nepal |
-|  | Meliaceae—Mahoganies, Spanish Cedar | Cedrela odorata | red cedar, cigar-box wood, Spanish cedar | #5; Colombia, population of Colombia; Guatemala, population of Guatemala; Peru, population of Peru. |
+|  | Meliaceae—Mahoganies, Spanish Cedar | Cedrela odorata | red cedar, cigar-box wood, Spanish cedar | #5; Colombia, population of Colombia; Guatemala, population of Guatemala; Peru, population of Peru |
 |  | Papaveraceae—Poppies | Meconopsis regia | Himalayan poppy | #1; Nepal |
 |  | Podocarpaceae—Podocarps | Podocarpus neriifolius | yellow wood | #1; Nepal |
 |  | Trochodendraceae(Tetracentraceae)—Tetracentron | Tetracentron sinense |  | #1; Nepal |
@@ -1673,5 +1673,5 @@ The Conservation Act 1987 is hereby consequentially amended by adding to Schedul
 | In the column headed “Exceptions/limitations and Countries requiring export permit”, the symbol # followed by a number refers to the following footnotes that indicate the parts or derivatives of plants that are designated as “specimens” subject to the provisions of the Act. |  |
 | --- | --- |
 | Notes |  |
-| 1 | All parts and derivatives except—aseeds, spores, pollen (including pollinia); andbseedling or tissue cultures obtain in vitro, in solid or liquid media, transported in sterile containers; andccut flowers and artificially propagated plants ; anddfruits and parts and derivatives thereof of artificially propagated plants of the genus Vanilla. |
+| 1 | All parts and derivatives except—aseeds, spores, pollen (including pollinia); andbseedling or tissue cultures obtain in vitro, in solid or liquid media, transported in sterile containers; andccut flowers and artificially propagated plants; anddfruits and parts and derivatives thereof of artificially propagated plants of the genus Vanilla. |
 | 5 | Logs, sawn wood, and veneer sheets. |
