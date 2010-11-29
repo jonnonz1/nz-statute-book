@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -109,7 +109,7 @@ This Act is the Corrections Act 2004.
     (b) includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court; but
     (c) does not include—
       (i) a person who is under control or supervision by reason only that the person is in custody awaiting trial; or
-      (ii) a person who is detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987
+      (ii) a person who is detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009
   - **officer** —
     (a) means—
       (i) the manager of a prison:
@@ -923,10 +923,10 @@ Any temporary removal from prison under section 62—
 **Work and earnings**
 
 ### 66 Work and earnings
-(1) Every prisoner (other than a prisoner who is only awaiting trial or on remand or who is detained under the Immigration Act 1987) may, while in custody,—
+(1) Every prisoner (other than a prisoner who is only awaiting trial or on remand or who is detained under the Immigration Act 2009) may, while in custody,—
   (a) be employed in any work that is directed or provided by the prison manager; and
   (b) be employed in that work outside the prison in which he or she is detained.
-(2) A prisoner who is detained only because he or she is awaiting trial or on remand or who is detained under the Immigration Act 1987 may be employed under this section if he or she asks to be employed.
+(2) A prisoner who is detained only because he or she is awaiting trial or on remand or who is detained under the Immigration Act 2009 may be employed under this section if he or she asks to be employed.
 (3) Earnings at a rate or rates approved by the Minister may be—
   (a) credited to each prisoner employed under this section; or
   (b) applied or paid in accordance with regulations made under this Act; or
@@ -1849,7 +1849,6 @@ Any constable or officer who has reasonable grounds to believe that any person h
 
 ### 151 Interpretation
 In this section and sections 152 to 160, corrections complaints system means the complaints system facilitated by this subpart.
-  - ****
 
 ### 152 Objectives and monitoring of corrections complaints system
 (1) The corrections complaints system has the following objectives:
@@ -2223,18 +2222,16 @@ The information referred to in section 180A(1) is, for each prisoner detained in
 **Disclosure of offender information**
 
 ### 181 Offender information may be disclosed for immigration purposes
-(1) The purpose of this section is to facilitate the disclosure of information by the department to the Department of Labour, for the purpose of assisting—
-  (a) the Minister of Immigration to exercise any power conferred by the Immigration Act 1987 to deport any person; or
-  (b) the Chief Executive of the Department of Labour or an immigration officer to exercise any powers conferred by that Act to revoke a permit or visa or to make or execute a removal order.
-(2) For the purpose of this section, the chief executive may from time to time, in accordance with arrangements in writing made from time to time between the chief executive and the Chief Executive of the Department of Labour,—
-  (a) supply to the Chief Executive of the Department of Labour the information specified in subsection (3) in respect of persons who have been sentenced to imprisonment:
-  (ab) if the chief executive is authorised by regulations made under this Act to do so, supply to the Chief Executive of the Department of Labour the information specified in subsection (3) in respect of persons who have received a sentence of home detention:
-  (b) if the chief executive is authorised by regulations made under this Act to do so, supply to the Chief Executive of the Department of Labour the information specified in subsection (3) in respect of persons who have received a community-based sentence.
+(1) The purpose of this section is to facilitate the disclosure of information by the department to the department of State for the time being responsible for the administration of the Immigration Act 2009 (the responsible department), for the purpose of assisting the Minister of Immigration or an immigration officer to exercise any power conferred by that Act to determine whether a person is liable for deportation or to deport any person.
+(2) For the purpose of this section, the chief executive may from time to time, in accordance with arrangements in writing made from time to time between the chief executive and the Chief Executive of the responsible department,—
+  (a) supply to the Chief Executive of the responsible department the information specified in subsection (3) in respect of persons who have been sentenced to imprisonment:
+  (ab) if the chief executive is authorised by regulations made under this Act to do so, supply to the Chief Executive of the responsible department the information specified in subsection (3) in respect of persons who have received a sentence of home detention:
+  (b) if the chief executive is authorised by regulations made under this Act to do so, supply to the Chief Executive of the responsible department the information specified in subsection (3) in respect of persons who have received a community-based sentence.
 (3) The information referred to in subsection (2) is as follows:
   (a) identifying information about the person:
   (b) details of the person's offence and sentence (including relevant dates such as the date on which the person is eligible or entitled to be released).
-(4) The chief executive may supply the information specified in subsection (3) to any immigration officer or other officer or employee of the Department of Labour who is authorised in that behalf by the Chief Executive of the Department of Labour.
-(5) Information supplied under subsection (4) may be supplied in any form that is determined by agreement between the Chief Executive of the Department of Labour and the chief executive.
+(4) The chief executive may supply the information specified in subsection (3) to any immigration officer or other officer or employee of the responsible department who is authorised in that behalf by the Chief Executive of the responsible department.
+(5) Information supplied under subsection (4) may be supplied in any form that is determined by agreement between the Chief Executive of the responsible department and the chief executive.
 (6) In this section identifying information in relation to any person includes the person's full name, date and place of birth, gender, location, citizenship, unique identifying number used by the department, and any known alias.
 
 **Information sharing about highest-risk offenders**
@@ -2735,7 +2732,7 @@ Regulations made under section 200(1)(c) may include (without limitation) provis
 
 ### 203 Regulations relating to treatment of prisoners
 Regulations made under section 200(1)(d) may include (without limitation) provisions—
-  (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987):
+  (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009):
   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987 to be treated as a prisoner on remand for the purposes of any specified provision:
   (c) regulating the period during which the babies of female prisoners may be allowed to remain with their mothers in prison, and prescribing conditions relating to their care:
   (d) regulating the appearance of prisoners (including the clothing to be worn by prisoners and the cutting of prisoners' hair):
