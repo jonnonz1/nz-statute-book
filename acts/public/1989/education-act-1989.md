@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2010-09-27_
+_Consolidation as at 2010-11-29_
 
 > An Act to reform the administration of education
 
@@ -21,10 +21,8 @@ _Consolidation as at 2010-09-27_
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
-    (b) the holder of a residence permit under the Immigration Act 1987 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
-    (c) by virtue of paragraph (a) or paragraph (b) or paragraph (f) of section 11(1) of that Act, exempt from the requirement to hold a permit granted under that Act; or
-    (d) exempted under section 12 of that Act from the requirement to hold a permit granted under that Act; or
-    (e) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
+    (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
   - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H; and includes any amendments to the scheme that have been adopted under section 11M
   - **exempt student** means a foreign student who—
     (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
@@ -54,7 +52,7 @@ _Consolidation as at 2010-09-27_
 (3) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
-(4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence permit under the Immigration Act 1987 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
+(4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
 (5) Regulations made under subsection (4),—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
@@ -1031,7 +1029,10 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   - **exempt student** means a foreign student who—
     (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
     (b) is for the time being exempted under section 4C
-  - **foreign student** has the same meaning as in section 2(1)
+  - **foreign student** means a person who is not a New Zealand citizen and is—
+    (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately by or within a specified time; or
+    (c) treated for the purposes of that Act as being unlawfully in New Zealand
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **national education guidelines** means all the national education goals, foundation curriculum policy statements, national curriculum statements, national standards, and national administration guidelines, for the time being in force under section 60A
@@ -2046,9 +2047,9 @@ Nothing in this Act requires or permits the board of any school or special insti
     (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
   (de) is a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person; or
   (e) is not a New Zealand citizen, and is—
-    (i) a person to whom section 7 of the Immigration Act 1987 applies; or
-    (ii) a person obliged, by or pursuant to that Act or any other enactment, to leave New Zealand immediately or within a specified time (being a time that, when specified, was less than 12 months); or
-    (iii) deemed for the purposes of that Act to be in New Zealand unlawfully,—
+    (i) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (ii) a person obliged by or under that Act or any other enactment to leave New Zealand immediately by or within a specified time (being a time that, when specified, was less than 12 months); or
+    (iii) treated for the purposes of that Act as being unlawfully in New Zealand—
 (2)
 (2A)
 (3) Any permanently appointed member of the board staff may, if otherwise eligible for election, be elected as a staff representative; but no permanently appointed member of the board staff may be otherwise elected to the board or be appointed or co-opted on to the board.
@@ -3474,10 +3475,8 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (b) on or after 1 May 2010, means any polytechnic
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
-    (b) the holder of a residence permit under the Immigration Act 1987 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
-    (c) by virtue of paragraph (a), paragraph (b), or paragraph (f) of section 11(1) of that Act, exempt from the requirement to hold a permit granted under that Act; or
-    (d) exempted under section 12 of that Act from the requirement to hold a permit granted under that Act; or
-    (e) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
+    (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
   - **enrol** includes admit and and have corresponding meanings
   - **equivalent full-time student formula** means the formula of that name that is based on the student workload that would normally be carried out by a full-time student in a single academic year
   - **exempt student** means a foreign student who is in New Zealand to study under an exchange programme approved by the New Zealand Government
@@ -3544,7 +3543,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 (3) The definitions of the terms college of education, polytechnic, specialist college, university and wananga do not apply for the purposes of subsections (1), (2), and (4) of section 162.
-(4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence permit under the Immigration Act 1987 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
+(4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
 (5) Regulations made under subsection (4),—
   (a) if made on or before 30 June in any year, expire on the close of December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
@@ -5473,7 +5472,7 @@ The Qualifications Authority shall not consider an application for the registrat
   (c) if, and only if, satisfied that the student did not withdraw from the course within 7 days after the first day of the course for which attendance of students at the establishment was required, the person shall (as the case requires) pay the amount held to the establishment, or hold it for the establishment's creditors.
 
 ### 236B Establishment to notify immigration officer if student withdraws from course
-(1) A private training establishment shall ensure that, within 7 days of the withdrawal of any student from a course of study or training at the establishment, an immigration officer (within the meaning of paragraph (a) of the definition of that term in section 2(1) of the Immigration Act 1987) is given written notice of the name of the student and the course, and the day on which the student withdrew.
+(1) A private training establishment shall ensure that, within 7 days of the withdrawal of any student from a course of study or training at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the course, and the day on which the student withdrew.
 (2) Subsection (1) does not apply to a student if the establishment (or governing body) is satisfied on reasonable grounds that the student is a domestic student.
 
 ### 236C Fees for domestic students must not exceed maximums set in conditions of funding
