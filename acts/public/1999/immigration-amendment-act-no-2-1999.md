@@ -1,5 +1,5 @@
 # Immigration Amendment Act (No 2) 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to bring forward the date of commencement of certain provisions of the Immigration Amendment Act 1999
 
