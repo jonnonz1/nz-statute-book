@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -145,7 +145,7 @@ The purpose of this Act is to acknowledge that it is a privilege for overseas pe
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year.
 (2) In this Act, a person is ordinarily resident in New Zealand if the person—
-  (a) holds a residence permit granted under the Immigration Act 1987 (or is exempt under that Act from holding that permit); and
+  (a) holds a residence class visa granted under the Immigration Act 2009; and
   (b) is in one of the following categories:
     (i) is domiciled in New Zealand; or
     (ii) is residing in New Zealand with the intention of residing there indefinitely, and has done for the immediately preceding 12 months (see subsection (3)).
@@ -268,7 +268,7 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
   (a) the relevant overseas person has, or (if that person is not an individual) the individuals with control of the relevant overseas person collectively have, business experience and acumen relevant to that overseas investment:
   (b) the relevant overseas person has demonstrated financial commitment to the overseas investment:
   (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
-  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of the kind referred to in section 7(1) of the Immigration Act 1987 (which lists certain persons not eligible for exemptions or permits under that Act):
+  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act):
   (e) either subparagraph (i) is met or subparagraph (ii) and (if applicable) subparagraph (iii) are met:
     (i) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, New Zealand citizens, ordinarily resident in New Zealand, or intending to reside in New Zealand indefinitely:
     (ii) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders), as determined by the relevant Ministers under section 17:
@@ -309,14 +309,14 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
   (a) the relevant overseas person has, or (if that person is not an individual) the individuals with control of the relevant overseas person collectively have, business experience and acumen relevant to that overseas investment:
   (b) the relevant overseas person has demonstrated financial commitment to the overseas investment:
   (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
-  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of the kind referred to in section 7(1) of the Immigration Act 1987 (which lists certain persons not eligible for exemptions or permits under that Act).
+  (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act).
 (2) See section 19 in relation to subsection (1)(c) and (d).
 
-### 19 Applying good character and Immigration Act 1987 criteria
+### 19 Applying good character and Immigration Act 2009 criteria
 (1) For the purposes of sections 16(1)(c) and 18(1)(c), the relevant Minister or Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
   (a) offences or contraventions of the law by A, or by any person in which A has, or had at the time of the offence or contravention, a 25% or more ownership or control interest (whether convicted or not):
   (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
-(2) For the purposes of sections 16(1)(d) and 18(1)(d), an individual is not an individual of the kind referred to in section 7(1) of the Immigration Act 1987 if a special direction referred to in section 7(3)(a)(ii) of that Act has been made permitting a permit to be granted or an exemption to apply to that individual under that Act.
+(2) For the purposes of sections 16(1)(d) and 18(1)(d), an individual is not an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
 
 ### 20 Exemptions from farm land offer criterion
 Section 16(1)(f) does not apply to an overseas investment if—
@@ -794,7 +794,7 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 | land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by the Historic Places Trust under the Historic Places Act 1993 | 0.4 hectares |
 | a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the Historic Places Act 1993 | 0.4 hectares |
 
-| Land A is sensitive if it adjoins land of this type | ... and land A exceeds this area threshold (if any) |
+| Land A is sensitive if it adjoins land of this type | … and land A exceeds this area threshold (if any) |
 | --- | --- |
 | foreshore | 0.2 hectares |
 | bed of a lake | 0.4 hectares |
