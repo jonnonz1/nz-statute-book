@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -981,11 +981,11 @@ Every constable who executes a warrant issued under section 83 must, not later t
   (a) a person is being held in custody in accordance with an order made by a court under subsection (3); and
   (b) the person's transportation is not, in the opinion of the Minister, continued within a reasonable time,—
 
-### 91 Immigration permit not required
-(1) If a person is—that person is not required to hold a permit under the Immigration Act 1987 if, and for so long as, the person is in New Zealand in accordance with the provisions of this Act.
+### 91 Immigration visa not required
+(1) If a person is—that person is not required to hold a visa under the Immigration Act 2009 if, and for so long as, the person is in New Zealand in accordance with the provisions of this Act.
   (a) surrendered or temporarily surrendered to New Zealand in relation to an extradition offence; or
   (b) a person to whom section 90 applies,—
-(2) If a person is returned to New Zealand to continue serving a sentence of imprisonment after being temporarily surrendered to an extradition country under Part 3 or Part 4, the status of the person for the purposes of the Immigration Act 1987 is not affected by the fact that the person was temporarily surrendered.
+(2) If a person is returned to New Zealand to continue serving a sentence of imprisonment after being temporarily surrendered to an extradition country under Part 3 or Part 4, the status of the person for the purposes of the Immigration Act 2009 is not affected by the fact that the person was temporarily surrendered.
 
 ### 92 Return of person
 Section 93 applies if—
@@ -1003,10 +1003,10 @@ Section 93 applies if—
   (b) may, from time to time, be renewed for a further period not exceeding 3 months; and
   (c) may, if the Minister thinks fit, order that the person named in the certificate be taken into custody.
 (2) The certificate is, while it remains in force, sufficient authority for the person named in the certificate to remain in New Zealand.
-(3) If the Minister issues a certificate, the Minister may, if the Minister thinks fit, refer the person's case to the Minister of Immigration for consideration under section 35A of the Immigration Act 1987, and in that case that section applies for the purposes of this section as if the person were a person required to hold a permit under the Immigration Act 1987 to be in New Zealand.
-(4) Except as provided in subsection (3), nothing in the Immigration Act 1987 applies to the person named in the certificate while the certificate is in force.
+(3) If the Minister issues a certificate, the Minister may, if he or she thinks fit, refer the person’s case to the Minister of Immigration for consideration under section 61 of the Immigration Act 2009, and in that case that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
+(4) Except as provided in subsection (3), nothing in the Immigration Act 2009 applies to the person named in the certificate while the certificate is in force.
 (5) If,—the Minister must cancel the certificate issued under this section, and must make a removal order under section 96 in respect of the person.
-  (a) where the Minister referred the person's case to the Minister of Immigration under subsection (3), the Minister of Immigration declines to grant a permit; and
+  (a) where the Minister referred the person's case to the Minister of Immigration under subsection (3), the Minister of Immigration declines to grant a visa; and
   (b) there do not appear to the Minister to be any other grounds on which the person should remain in New Zealand,—
 
 ### 95 Further provisions relating to certificate
@@ -1034,7 +1034,7 @@ Section 93 applies if—
   (b) order the release of the person subject to such conditions (if any) that the Judge thinks fit.
 (6) A warrant for the detention of the person issued under subsection (5)(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under section 26(1)(a) if the person were subject to proceedings under Part 3.
 (7) A removal order made under this section continues in force until it is executed or is cancelled.
-(8) Nothing in the Immigration Act 1987 applies to the person named in the removal order while the order is in force.
+(8) Nothing in the Immigration Act 2009 applies to the person named in the removal order while the order is in force.
 
 ### 97 New Zealand citizens
 Nothing in this Part authorises the removal of a New Zealand citizen from New Zealand.
@@ -1149,8 +1149,8 @@ Rules regulating the practice and procedure in appeals to the High Court under t
 (7) An order for the surrender of a person made before the commencement of this Act under the Extradition Act 1965 has effect as if it had been made under Part 3.
 (8) Nothing in this section limits the Interpretation Act 1999.
 
-### 107 Immigration Act 1987 not affected
-Except as provided in Part 11, this Act does not limit or affect the Immigration Act 1987.
+### 107 Immigration Act 2009 not affected
+Except as provided in Part 11, this Act does not limit or affect the Immigration Act 2009.
 
 ### 108 Citizenship Act 1977 not affected
 This Act does not limit or affect the Citizenship Act 1977.
