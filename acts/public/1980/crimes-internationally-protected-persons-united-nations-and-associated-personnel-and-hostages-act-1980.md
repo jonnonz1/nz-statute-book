@@ -1,7 +1,7 @@
 # Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-11-29_
 
-> An Act to give effect to—athe Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, 1973; andbthe Convention Against the Taking of Hostages 1979; andcthe Convention on the Safety of United Nations and Associated Personnel 1994; anddthe Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel 1994;—and for matters incidental to the implementation of those Conventions.
+> An Act to give effect to—athe Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, 1973; andbthe Convention Against the Taking of Hostages 1979; andcthe Convention on the Safety of United Nations and Associated Personnel 1994; anddthe Optional Protocol to the Convention on the Safety of United Nations and Associated Personnel 1994;—and for matters incidental to the implementation of those Conventions
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980.
@@ -15,12 +15,11 @@ _Consolidation as at 2010-07-07_
       (i) the Secretary-General of the United Nations; or
       (ii) a specialised agency of the United Nations; or
       (iii) the International Atomic Energy Agency; or
-    (c) a person deployed by a humanitarian non-governmental organisation or agency under an agreement with—to carry out activities in support of the fulfilment of the mandate of a United Nations operation:
+    (c) a person deployed by a humanitarian non-governmental organisation or agency under an agreement with—to carry out activities in support of the fulfilment of the mandate of a United Nations operation
       (i) the Secretary-General of the United Nations; or
       (ii) a specialised agency of the United Nations; or
       (iii) the International Atomic Energy Agency—
   - **conviction on indictment** has the same meaning as in section 3 of the Crimes Act 1961
-  - **Fugitive Offenders Act 1881**
   - **internationally protected person** , in relation to an alleged act or omission that constitutes a crime by virtue of or against any of sections 3 to 6, means—
     (a) a person who, at the time of the alleged act or omission, is—and is outside the territory of the State in which he or she holds office:
       (i) a Head of State; or
@@ -31,12 +30,12 @@ _Consolidation as at 2010-07-07_
     (c) a person who, at the time of the alleged act or omission, is—and is entitled under international law to special protection from attack on his or her person, freedom, or dignity:
       (i) a representative or an official of a State; or
       (ii) an official or agent of an international organisation of an intergovernmental character—
-    (d) a member of the family of a person referred to in paragraph (c) who is a member of that person's household:
+    (d) a member of the family of a person referred to in paragraph (c) who is a member of that person's household
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **person protected by a convention** means—
     (a) an associated person; or
     (b) an internationally protected person; or
-    (c) a United Nations person:
+    (c) a United Nations person
   - **the 1973 Convention** means the Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, opened for signature at New York on 14 December 1973
   - **the 1979 Convention** means the Convention Against the Taking of Hostages, opened for signature at New York on 18 December 1979
   - **the 1994 Convention** means the Convention on the Safety of United Nations and Associated Personnel, opened for signature at New York on 9 December 1994
@@ -47,12 +46,12 @@ _Consolidation as at 2010-07-07_
     (d) if the operation is for the purpose of delivering emergency humanitarian assistance
   - **United Nations person** , in relation to an alleged act or omission that constitutes a crime by virtue of or against any of sections 3 to 6, means—
     (a) a person engaged or deployed by the Secretary-General of the United Nations as a member of the military, police, or civilian components of a United Nations operation; or
-    (b) an official or expert on mission of—who is present in an official capacity in the area where a United Nations operation is being conducted:
+    (b) an official or expert on mission of—who is present in an official capacity in the area where a United Nations operation is being conducted
       (i) the United Nations; or
       (ii) a specialised agency of the United Nations; or
       (iii) the International Atomic Energy Agency—
   - **vehicle** includes any means of conveyance.
-(2) In paragraph (a)(i) of the definition of the term internationally protected person in subsection (1) of this section, the term Head of State includes, in relation to any Commonwealth country (other than the United Kingdom) of which Her Majesty the Queen is Head of State, the Governor-General or other person who performs the functions of the Head of State as Her Majesty's representative.
+(2) In paragraph (a)﻿(i) of the definition of the term internationally protected person in subsection (1), the term Head of State includes, in relation to any Commonwealth country (other than the United Kingdom) of which Her Majesty the Queen is Head of State, the Governor-General or other person who performs the functions of the Head of State as Her Majesty's representative.
 
 **Internationally protected persons and United Nations and associated personnel**
 
@@ -88,7 +87,7 @@ _Consolidation as at 2010-07-07_
   (c) he or she makes the threat to or in relation to a person whom he or she knows to be a United Nations person or an associated person; and
   (d) he or she makes the threat with the intention of compelling the person, or any other person, to do or refrain from doing an act.
 (2) Every one who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding—whichever is the lesser.
-  (a) seven years; or
+  (a) 7 years; or
   (b) the term of years prescribed by the relevant provision of the Crimes Act 1961 in respect of the crime that he would have committed had he carried out his threat in New Zealand,—
 
 ### 6 Threats against premises or vehicles
@@ -114,7 +113,7 @@ Sections 3 to 6 do not apply, in relation to United Nations personnel and associ
   (c) to which the law of international armed conflict applies.
 
 ### 7 Prosecution need not prove certain matters
-Notwithstanding anything in sections 3 to 6 of this Act, in any proceedings brought under any of those sections, it shall not be necessary for the prosecution to prove the following matters:
+Notwithstanding anything in sections 3 to 6, in any proceedings brought under any of those sections, it shall not be necessary for the prosecution to prove the following matters:
   (a) in respect of—that the defendant knew, at the time of the alleged crime, the identity of that person or the capacity in which that person was an internationally protected person, a United Nations person, or an associated person:
     (i) an internationally protected person to whom paragraph (a) or paragraph (c) of the definition of that term in section 2(1) applies; or
     (ii) a United Nations person or an associated person,—
@@ -125,7 +124,7 @@ Notwithstanding anything in sections 3 to 6 of this Act, in any proceedings brou
 **Hostages**
 
 ### 8 Hostage-taking
-(1) Subject to subsection (2) of this section, every one commits the crime of hostage-taking who, whether in or outside New Zealand, unlawfully seizes or detains any person (in this section called the hostage) without his consent, or with his consent obtained by fraud or duress, with intent to compel the Government of any country or any international intergovernmental organisation or any other person to do or abstain from doing any act as a condition, whether express or implied, for the release of the hostage.
+(1) Subject to subsection (2), every one commits the crime of hostage-taking who, whether in or outside New Zealand, unlawfully seizes or detains any person (in this section called the hostage) without his consent, or with his consent obtained by fraud or duress, with intent to compel the Government of any country or any international intergovernmental organisation or any other person to do or abstain from doing any act as a condition, whether express or implied, for the release of the hostage.
 (2) No one shall be convicted of the crime of hostage-taking if—
   (a) the act of hostage-taking takes place in New Zealand; and
   (b) the alleged offender and the hostage are New Zealand citizens; and
@@ -146,10 +145,10 @@ Notwithstanding anything in sections 3 to 6 of this Act, in any proceedings brou
     (iv) being an accessory after the fact to that crime; and
   (b) each crime described in section 5 or section 6,—
 (2) It under subsection (1) a crime is deemed to be an offence described in an extradition treaty, no person may be surrendered for that crime in accordance with the provisions of the Extradition Act 1999 if the alleged act or omission occurred before 12 December 1985.
-(3) For the purposes of this section, country includes any territory for whose international relations the government of a country is responsible and to which the extradition treaty and the 1973 Convention or, as the case may require, the 1979 Convention, extends.
+(3) For the purposes of this section, country includes any territory for whose international relations the Government of a country is responsible and to which the extradition treaty and the 1973 Convention or, as the case may require, the 1979 Convention, extends.
 
 ### 10A Further provision on crimes deemed to be included in extradition treaties
-(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act,is, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the commencement of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 and for the time being in force between New Zealand and any country that is a party to the 1994 Convention.
+(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act,—is, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the commencement of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 and for the time being in force between New Zealand and any country that is a party to the 1994 Convention.
   (a) each crime described in section 3 or section 4 or section 8, including—
     (i) attempting to commit that crime (where it is not itself constituted by a mere attempt); or
     (ii) aiding, abetting, inciting, counselling, or procuring any person to commit that crime; or
@@ -157,21 +156,21 @@ Notwithstanding anything in sections 3 to 6 of this Act, in any proceedings brou
     (iv) being an accessory after the fact to that crime; and
   (b) each crime described in section 5 or section 6,—
 (2) If under subsection (1) a crime is deemed to be an offence described in an extradition treaty, no person may be surrendered for that crime in accordance with the provisions of the Extradition Act 1999 if the alleged act or omission occurred before the commencement of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998.
-(3) For the purposes of this section, country includes any territory for whose international relations the government of a country is responsible and to which the extradition treaty and the 1994 Convention extends.
+(3) For the purposes of this section, country includes any territory for whose international relations the Government of a country is responsible and to which the extradition treaty and the 1994 Convention extends.
 
 ### 11 Surrender of offenders
 [Repealed]
 
 ### 12 Restrictions on surrender
-(1) Without limiting the grounds on which surrender must or may be refused under the Extradition Act 1999, a Court in New Zealand must not order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of an act or omission that amounts to a crime against any of sections 3 to 8 if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
-(2) If, in any case to which subsection (1) applies, it is subsequently determined that proceedings should not be brought in New Zealand against the person in respect of the act or omission, the Attorney-General must advise the Court accordingly, and the Court must proceed with the matter as if the Attorney-General's certificate had never been given.
+(1) Without limiting the grounds on which surrender must or may be refused under the Extradition Act 1999, a court in New Zealand must not order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of an act or omission that amounts to a crime against any of sections 3 to 8 if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
+(2) If, in any case to which subsection (1) applies, it is subsequently determined that proceedings should not be brought in New Zealand against the person in respect of the act or omission, the Attorney-General must advise the court accordingly, and the court must proceed with the matter as if the Attorney-General's certificate had never been given.
 (3) Without limiting the grounds on which surrender must or may be refused under the Extradition Act 1999, a person must not be surrendered to another country if it appears that the person's position may be prejudiced because communication with the person by the appropriate authorities of the country that is entitled in international law to exercise rights of protection in respect to the person cannot be effected.
 
 ### 13 Further restrictions on surrender of offenders
 [Repealed]
 
 ### 14 Attorney-General's consent required to prosecutions
-(1) Subject to subsection (2) of this section, no proceedings for the trial and punishment of any person charged with a crime against any of sections 3 to 8 of this Act shall be instituted in any Court except with the consent of the Attorney-General.
+(1) Subject to subsection (2), no proceedings for the trial and punishment of any person charged with a crime against any of sections 3 to 8 shall be instituted in any court except with the consent of the Attorney-General.
 (2) A person charged with a crime against any of those provisions may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the crime has not been obtained, but no further proceedings shall be taken until that consent has been obtained.
 
 ### 15 Evidence
@@ -182,14 +181,14 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
   (c) that the Government of any country is or is not, or was or was not at any material time, responsible for the international relations of any territory,—
 
 ### 16 Application of certain provisions of Crimes Act
-Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand) or in section 400 of that Act (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft) shall apply with respect to any proceedings brought under any of sections 3 to 8 of this Act.
+Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand) or in section 400 of that Act (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft) shall apply with respect to any proceedings brought under any of sections 3 to 8.
 
 ### 17 Other Acts not affected
-Nothing in this Act shall limit or affect the Immigration Act 1987, the Aviation Crimes Act 1972, nor, except as expressly provided in this Act, the Crimes Act 1961.
+Nothing in this Act shall limit or affect the Immigration Act 2009, the Aviation Crimes Act 1972, nor, except as expressly provided in this Act, the Crimes Act 1961.
 
 ## Schedule 1 — Crimes against persons protected by a convention
 
-| Section of Crimes Act 1961 | Subject-matter |
+| Section of Crimes Act 1961 | Subject matter |
 | --- | --- |
 | 128 | Sexual violation |
 | 129 | Attempt to commit sexual violation |
@@ -212,7 +211,7 @@ Nothing in this Act shall limit or affect the Immigration Act 1987, the Aviation
 
 ## Schedule 2 — Crimes against premises or vehicles of persons protected by a convention
 
-| Section of Crimes Act 1961 | Subject-matter |
+| Section of Crimes Act 1961 | Subject matter |
 | --- | --- |
 | 267 | Arson |
 | 268 | Attempted arson |
