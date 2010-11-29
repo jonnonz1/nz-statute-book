@@ -1,5 +1,5 @@
 # Maritime Crimes Act 1999
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to give effect to the provisions of the Rome Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation and the Rome Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf
 
@@ -181,5 +181,5 @@ A certificate given by the Minister of Foreign Affairs and Trade for the purpose
 ### 18 Certification of ships in military service
 A certificate given by the Minister of Foreign Affairs and Trade for the purposes of this Act that any ship is or is not a warship or a ship owned or operated by a country being used as a naval auxiliary is, in the absence of evidence to the contrary, sufficient proof of that fact.
 
-### 19 Immigration Act 1987 not limited
-This Act does not limit or affect the Immigration Act 1987.
+### 19 Immigration Act 2009 not limited
+This Act does not limit the Immigration Act 2009.
