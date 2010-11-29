@@ -1,5 +1,5 @@
 # Immigration (Migrant Levy) Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to amend the Immigration Act 1987 to provide for a migrant levy
 
