@@ -1,57 +1,52 @@
 # University of Canterbury Act 1961
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
-> An Act to consolidate and amend certain enactments of the General Assembly relating to the University of Canterbury
+> An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the University of Canterbury
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the University of Canterbury Act 1961.
-(2) This Act shall come into force on the 1st day of January 1962.
+(2) This Act shall come into force on 1 January 1962.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
-  - **The Chancellor**
-  - **The Council** means the Council of the University of Canterbury constituted in accordance with Part 15 of the Education Act 1989
-  - **Domestic student** means a person who is not a foreign student
-  - **Exempt student** means a foreign student who—
-    (a) Is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
-    (b) Is for the time being exempted under section 48B(2) of this Act:
-  - **Financial Year**
-  - **Foreign student** means a person who is not a New Zealand citizen, and is—
-    (a) A person to whom section 7 of the Immigration Act 1987 applies; or
-    (b) A person obliged by or pursuant to that Act or any other enactment to leave New Zealand immediately or within a specified time; or
-    (c) Deemed for the purposes of that Act to be in New Zealand illegally:
-  - **General course of study**
-  - **Lecturer** means a member of the staff of the University of Canterbury who is in terms of his appointment an associate professor, a reader, a senior lecturer, or a lecturer of the University; and includes such other persons and classes of persons as the Council from time to time determines
+  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
+  - **the Council** means the Council of the University of Canterbury constituted in accordance with Part 15 of the Education Act 1989
+  - **domestic student** means a person who is not a foreign student
+  - **exempt student** means a foreign student who—
+    (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
+    (b) is for the time being exempted under section 48B(2)
+  - **foreign student** means a person who is not a New Zealand citizen and is—
+    (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately or within a specified time; or
+    (c) treated for the purposes of that Act as being unlawfully in New Zealand
+  - **lecturer** means a member of the staff of the University of Canterbury who is in terms of his appointment an associate professor, a reader, a senior lecturer, or a lecturer of the university; and includes such other persons and classes of persons as the Council from time to time determines
   - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
-  - **Personal course of study**
-  - **The Pro-Chancellor**
-  - **Professor** means a professor of the University of Canterbury; but does not include an associate professor
-  - **Professorial Board**
-  - **The Registrar** means the Registrar of the University of Canterbury
+  - **professor** means a professor of the University of Canterbury; but does not include an associate professor
+  - **the Registrar** means the Registrar of the University of Canterbury
   - **Secretary** means the chief executive of the Ministry of Education
-  - **The University** means the University of Canterbury constituted under this Act
-  - **The Vice-Chancellor**
-(2) In the absence of proof to the contrary,—is, for the purposes of subsection (1) of this section, conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
-  (a) A certificate signed by the chief executive of the Ministry of External Relations and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
-  (b) A certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
+  - **the university** means the University of Canterbury constituted under this Act.
+(2) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
+  (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
+  (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 
-### 3 Constitution of the University
-(1) For the advancement of knowledge and the dissemination and maintenance thereof by teaching and research there shall be a University to be called the University of Canterbury.
-(2) The University shall consist of the Council, the professors emeriti, the professors, lecturers, Registrar, and librarian of the University for the time being in office, the graduates and undergraduates of the University, the graduates of the University of New Zealand whose names are for the time being on the register of the Court of Convocation of the University of Canterbury, and such other persons and classes of persons as the Council may from time to time determine.
-(3) The University shall be a body corporate with perpetual succession and a common seal, and may hold real and personal property, and sue and be sued, and do and suffer all that bodies corporate may do and suffer.
-(4) The University established under this Act is hereby declared to be the same institution as the institution of that name existing immediately before the commencement of this Act under the University of Canterbury Act 1933 (as amended by the University of Canterbury Amendment Act 1957), which institution was originally established under the name of the Canterbury College under the Canterbury College Ordinance 1873.
+### 3 Constitution of the university
+(1) For the advancement of knowledge and the dissemination and maintenance thereof by teaching and research there shall be a university to be called the University of Canterbury.
+(2) The university shall consist of the Council, the professors emeriti, the professors, lecturers, Registrar, and librarian of the university for the time being in office, the graduates and undergraduates of the university, the graduates of the university of New Zealand whose names are for the time being on the register of the Court of Convocation of the University of Canterbury, and such other persons and classes of persons as the Council may from time to time determine.
+(3) The university shall be a body corporate with perpetual succession and a common seal, and may hold real and personal property, and sue and be sued, and do and suffer all that bodies corporate may do and suffer.
+(4) The university established under this Act is hereby declared to be the same institution as the institution of that name existing immediately before the commencement of this Act under the University of Canterbury Act 1933 (as amended by the University of Canterbury Amendment Act 1957), which institution was originally established under the name of the Canterbury College under the Canterbury College Ordinance 1873.
 
 ### 4 University District and Court of Convocation
 (1)
 (2)
-(3) There shall be a Court of Convocation of the University.
+(3) There shall be a Court of Convocation of the university.
 (4) The said Court of Convocation shall consist of the persons whose names are enrolled on a register to be kept by the Registrar.
-(5) The power of the Council under section 194 of the Education Act 1989 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible for membership of the said Court of Convocation, the circumstances in which, and the conditions (whether as to payment of fee or otherwise) on which, persons are entitled to have their names enrolled on the register of the said Court; and, subject to this Act and to the said statutes, if any, the said Court shall have power to make such rules for the conduct of its business as it thinks fit, and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
-(6) The said Court may make representations to the Council on any matter concerning the interests of the University.
+(5) The power of the Council under section 194 of the Education Act 1989 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible for membership of the said Court of Convocation, the circumstances in which, and the conditions (whether as to payment of fee or otherwise) on which, persons are entitled to have their names enrolled on the register of the said court; and, subject to this Act and to the said statutes, if any, the said court shall have power to make such rules for the conduct of its business as it thinks fit, and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
+(6) The said court may make representations to the Council on any matter concerning the interests of the university.
 
 ### 5 Visitor of the University
 [Repealed]
+
+**The Council**
 
 ### 6 Constitution of Council
 [Repealed]
@@ -71,10 +66,10 @@ _Consolidation as at 2007-09-03_
 ### 11 Casual vacancies in Council
 [Repealed]
 
-### 12 Proceedings of Council not affected by vacancies, etc.
+### 12 Proceedings of Council not affected by vacancies, etc
 [Repealed]
 
-### 13 Election of members
+### 13 Election of Council members
 [Repealed]
 
 ### 14 Meetings of Council
@@ -86,12 +81,15 @@ _Consolidation as at 2007-09-03_
 ### 16 Council may appoint committees
 [Repealed]
 
-## Part  — Powers of the Council
+**Powers of the Council**
 
-### 17 Council to be governing body of University
+### 17 Council to be governing body of university
 [Repealed]
 
-### 18 Appointment of professors, lecturers, etc.
+### 18 Appointment of professors, lecturers, etc
+[Repealed]
+
+### 18A Council to consult staff organisation about conditions of employment of academic staff
 [Repealed]
 
 ### 19 Conferment of degrees
@@ -101,16 +99,18 @@ _Consolidation as at 2007-09-03_
 The Council shall have power, under such conditions as it thinks fit, to award certificates, fellowships, scholarships, bursaries, and prizes, and to make other awards.
 
 ### 21 Lectures to members of the public
-The Council shall have power to provide such lectures and instruction for any persons, whether or not they are members of the University, as it thinks fit, and on such conditions as it thinks fit, and may award certificates to any of them.
+The Council shall have power to provide such lectures and instruction for any persons, whether or not they are members of the university, as it thinks fit, and on such conditions as it thinks fit, and may award certificates to any of them.
 
 ### 22 Power to make statutes and regulations
 [Repealed]
 
-### 23 Seal of the University
+### 23 Seal of the university
 [Repealed]
 
 ### 24 Admission of students
 [Repealed]
+
+**The Chancellor and Pro-Chancellor**
 
 ### 25 Election of Chancellor
 [Repealed]
@@ -121,24 +121,26 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 27 Right to preside at meetings of Council
 [Repealed]
 
-### 28 Vice-Chancellor
+**The Vice-Chancellor and Acting Vice-Chancellor**
+
+### 28 Vice-Chancellor and Rector
 [Repealed]
 
 ### 29 Acting Vice-Chancellor and Rector
 [Repealed]
 
-## Part  — The Senate
+**The Professorial Board**
 
 ### 30 Constitution of Professorial Board
 [Repealed]
 
-### 31 Deputy Chairman of Professorial Board
+### 31 Deputy chairman of Professorial Board
 [Repealed]
 
 ### 32 Meetings of the Professorial Board
 [Repealed]
 
-### 33 Proceedings of Professorial Board not affected by vacancies, etc.
+### 33 Proceedings of Professorial Board not affected by vacancies, etc
 [Repealed]
 
 ### 34 Functions of Professorial Board
@@ -150,17 +152,17 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 36 Council to consult Professorial Board on academic matters
 [Repealed]
 
-## Part  — Lincoln College
+**Lincoln College**
 
 ### 37 Recommendations in respect of degrees, courses of study, and examinations
 [Repealed]
 
-## Part  — Affiliated institutions
+**Affiliated institutions**
 
 ### 38 Admission of affiliated institutions
 [Repealed]
 
-## Part  — Financial provisions
+**Financial provisions**
 
 ### 38A Appointment as trustee
 [Repealed]
@@ -168,7 +170,7 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 39 Benefactions to be strictly applied
 [Repealed]
 
-### 40 Application of income and capital of University
+### 40 Bulk funding
 [Repealed]
 
 ### 41 Money to be paid into bank
@@ -195,6 +197,12 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 48 Council to prescribe fees
 [Repealed]
 
+### 48A Fees for domestic students
+[Repealed]
+
+### 48B Fees for foreign students
+[Repealed]
+
 ### 49 Fees payable to associations of students
 [Repealed]
 
@@ -207,8 +215,10 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 52 Power to borrow by way of overdraft or temporary loan
 [Repealed]
 
-### 53 Annual report and statements of accounts
+### 53 Annual report and statement of accounts
 [Repealed]
+
+**Repeals and savings**
 
 ### 54 Repeals and savings
 [Repealed]
