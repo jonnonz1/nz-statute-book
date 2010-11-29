@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-11-29_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -285,7 +285,7 @@ Where a prisoner who is serving a sentence for an offence against the law of New
 (3) Where—the Attorney-General may direct that the person be transported in custody to the foreign country from which the person was first transported, and such a direction shall be sufficient authority for that person's removal from New Zealand by such means as the Attorney-General directs.
   (a) a person is being held in custody pursuant to a direction under subsection (2); and
   (b) the person's transportation is not, in the Attorney-General's opinion, continued within a reasonable time,—
-(4) For the purposes of enabling the grant of a temporary permit under the Immigration Act 1987 to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
+(4) For the purposes of enabling the grant of a limited visa under the Immigration Act 2009 to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
 (5) The Attorney-General may, at any time by notice in writing, cancel any certificate issued under subsection (4) in respect of any person who is in New Zealand for the purposes of being transported through New Zealand pursuant to this section if the Attorney-General is satisfied that that person's presence in New Zealand is no longer necessary for that purpose.
 
 **Assistance in serving documents**
