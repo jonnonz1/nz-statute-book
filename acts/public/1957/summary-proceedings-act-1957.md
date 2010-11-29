@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2010-10-30_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3381,9 +3381,6 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 461D | Fraudulently carrying on business, obtaining credit, or transferring property. |
 | The Companies Act 1993 | 304(6) | Claims by unsecured creditors |
 |  | 305(11) | Rights and duties of secured creditors |
-|  | 377 | False statements |
-|  | 378 | Fraudulent use or destruction of property |
-|  | 379 | Falsification of records |
 |  | 380 | Carrying on business fraudulently |
 |  | 382(4) | Persons prohibited from managing companies |
 |  | 383(6) | Court may disqualify directors |
@@ -3452,14 +3449,12 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 8(3) | Possessing a gamete, any kind of embryo or foetus, or being formed by an action described in Schedule 1 |
 | The Hauraki Plains Act 1926 |  |  |
 | The Hospitals Act 1957 |  |  |
-| The Immigration Act 1987 | 39A(1) | Exploitation of people not legally entitled to work |
-|  | 142(1)(c) | Using false or misleading document or information |
-|  | 142(1)(d) | Using travel document that relates to another person, or is forged or fraudulently obtained |
-|  | 142(1)(e) | Disposing of travel document |
-|  | 142(1)(ea) | Assisting person to remain in New Zealand unlawfully, or breach permit conditions |
-|  | 142(1)(eb) | Assisting person to enter New Zealand unlawfully |
-|  | 142(1)(ec) | Assisting completion of arrival card in false or misleading manner |
-|  | 142(2) | Modifying form after completion and signing |
+| Immigration Act 2009 | 342(1)(b) | Using false or misleading document or information |
+|  | 343(1)(a) | Assisting person to be or remain unlawfully in New Zealand, or breach visa conditions |
+|  | 343(1)(b) | Assisting person to unlawfully enter New Zealand |
+|  | 343(1)(c) | Assisting completion of arrival document in false or misleading manner |
+|  | 345 | Improper use of document relating to another person or forged or fraudulently obtained |
+|  | 348 | Modifying form after completion and signing |
 | The Industrial and Provident Societies Act 1908 | 15(c)(iii) | False declaration |
 | Immigration Advisers Licensing Act 2007 | 63(1)(a) | Provision of immigration advice unless licensed or exempt |
 | 64(1) | Holding out as immigration adviser unless licensed or exempt |  |
