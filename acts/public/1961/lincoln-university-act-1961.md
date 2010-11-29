@@ -1,42 +1,34 @@
 # Lincoln University Act 1961
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 > An Act to constitute Lincoln University
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Lincoln University Act 1961.
-(2) This Act shall come into force on the 1st day of January 1962:
-  Provided that section 7 of this Act shall come into force on the passing of this Act.
+(2) This Act shall come into force on 1 January 1962:
+  provided that section 7 shall come into force on the passing of this Act.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
-  - **The Chairman**
-  - **The College**
-  - **The Council** means the Council of Lincoln University constituted in accordance with Part 15 of the Education Act 1989
-  - **The Deputy Chairman**
-  - **Domestic student** means a person who is not a foreign student
-  - **Exempt student** means a foreign student who—
-    (a) Is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
-    (b) Is for the time being exempted under section 34B(2) of this Act:
-  - **Financial year**
-  - **Foreign student** means a person who is not a New Zealand citizen, and is—
-    (a) A person to whom section 7 of the Immigration Act 1987 applies; or
-    (b) A person obliged by or pursuant to that Act or any other enactment to leave New Zealand immediately or within a specified time; or
-    (c) Deemed for the purposes of that Act to be in New Zealand illegally:
-  - **General course of study**
-  - **Lecturer** means a member of the staff of Lincoln University who is in terms of his appointment an associate professor, a reader, a senior lecturer, or a lecturer of the University; and includes such other persons and classes of persons as the Council from time to time determines
+  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
+  - **the Council** means the Council of Lincoln University constituted in accordance with Part 15 of the Education Act 1989
+  - **domestic student** means a person who is not a foreign student
+  - **exempt student** means a foreign student who—
+    (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
+    (b) is for the time being exempted under section 34B(2)
+  - **foreign student** means a person who is not a New Zealand citizen and is—
+    (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
+    (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately or within a specified time; or
+    (c) treated for the purposes of that Act as being unlawfully in New Zealand
+  - **lecturer** means a member of the staff of Lincoln University who is in terms of his appointment an associate professor, a reader, a senior lecturer, or a lecturer of the University; and includes such other persons and classes of persons as the Council from time to time determines
   - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
-  - **Personal course of study**
-  - **The Principal**
-  - **Professor** means a professor of the University; but does not include an associate professor
-  - **The Professorial Board**
-  - **The Registrar** means the Registrar of Lincoln University
+  - **professor** means a professor of the University; but does not include an associate professor
+  - **the Registrar** means the Registrar of Lincoln University
   - **Secretary** means the chief executive of the Ministry of Education
-  - **The University** means Lincoln University constituted under this Act.
-(2) In the absence of proof to the contrary,—is, for the purposes of subsection (1) of this section, conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
-  (a) A certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
-  (b) A certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
+  - **the University** means Lincoln University constituted under this Act.
+(2) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
+  (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
+  (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 
 ### 3 Constitution of University
 (1) For the advancement of knowledge and the dissemination and maintenance thereof by teaching and research there shall be a University to be called Lincoln University.
@@ -47,11 +39,13 @@ _Consolidation as at 2007-09-03_
 ### 4 Court of Convocation
 (1) There shall be a Court of Convocation for Lincoln University.
 (2) The said Court of Convocation shall consist of the persons whose names are enrolled on a register to be kept by the Registrar.
-(3) The power of the Council under section 194 of the Education Act 1989 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible for membership of the said Court of Convocation and the circumstances in which, and the conditions (whether as to payment of fee or otherwise) on which, persons are entitled to have their names enrolled on the register of the said Court; and, subject to this Act and the said statutes, if any, the said Court shall have power to make such rules for the conduct of its business as it thinks fit, and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
-(4) The said Court may make representations to the Council on any matter concerning the interests of the University.
+(3) The power of the Council under section 194 of the Education Act 1989 to make statutes extends to making statutes for the keeping of the register of the Court of Convocation, which statutes may include provisions prescribing the persons and classes of persons who are eligible for membership of the said Court of Convocation and the circumstances in which, and the conditions (whether as to payment of fee or otherwise) on which, persons are entitled to have their names enrolled on the register of the said court; and, subject to this Act and the said statutes, if any, the said court shall have power to make such rules for the conduct of its business as it thinks fit, and until rules governing its meetings are so made shall meet at such times and places as the Council may determine.
+(4) The said court may make representations to the Council on any matter concerning the interests of the University.
 
 ### 5 Visitor of the College
 [Repealed]
+
+**The Council**
 
 ### 6 Constitution of Council
 [Repealed]
@@ -71,7 +65,7 @@ _Consolidation as at 2007-09-03_
 ### 11 Casual vacancies in Council
 [Repealed]
 
-### 12 Proceedings of Council not affected by vacancies, etc.
+### 12 Proceedings of Council not affected by vacancies, etc
 [Repealed]
 
 ### 13 Election of members
@@ -86,12 +80,15 @@ _Consolidation as at 2007-09-03_
 ### 16 Council may appoint committees
 [Repealed]
 
-## Part  — Powers of the Council
+**Powers of the Council**
 
 ### 17 Council to be governing body of College
 [Repealed]
 
-### 18 Appointment of professors, lecturers, etc.
+### 18 Appointment of professors, lecturers, etc
+[Repealed]
+
+### 18A Council to consult staff organisation about conditions of employment of academic staff
 [Repealed]
 
 ### 19 Provision of courses and conferment of degrees and other academic qualifications
@@ -112,7 +109,7 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 24 Admission of students
 [Repealed]
 
-## Part  — Chairman and Deputy Chairman of Council
+**Chairman and Deputy Chairman of Council**
 
 ### 25 Chairman of the Council
 [Repealed]
@@ -123,11 +120,15 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 27 Right to preside at meetings of Council
 [Repealed]
 
+**The Principal and Vice-Principal**
+
 ### 28 Principal
 [Repealed]
 
 ### 29 Vice-Principal
 [Repealed]
+
+**The Professorial Board**
 
 ### 30 Constitution of Professorial Board
 [Repealed]
@@ -138,7 +139,7 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 32 Meetings of Professorial Board
 [Repealed]
 
-### 33 Proceedings of Professorial Board not affected by vacancies, etc.
+### 33 Proceedings of Professorial Board not affected by vacancies, etc
 [Repealed]
 
 ### 34 Functions of Professorial Board
@@ -150,10 +151,12 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 36 Council to consult Professorial Board on academic matters
 [Repealed]
 
+**Financial provisions**
+
 ### 37 Benefactions to be strictly applied
 [Repealed]
 
-### 38 Application of income and capital of College
+### 38 Bulk funding
 [Repealed]
 
 ### 39 Money to be paid into bank
@@ -165,7 +168,7 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 41 Investment of money
 [Repealed]
 
-### 42 Provisions for Common Fund investment
+### 42 Provision for Common Fund investment
 [Repealed]
 
 ### 43 Travelling allowances and expenses of members of Council
@@ -178,6 +181,12 @@ The Council shall have power to provide such lectures and instruction for any pe
 [Repealed]
 
 ### 46 Council to prescribe fees
+[Repealed]
+
+### 46A Fees for domestic students
+[Repealed]
+
+### 46B Fees for foreign students
 [Repealed]
 
 ### 47 Fees payable to associations of students
@@ -198,7 +207,7 @@ The Council shall have power to provide such lectures and instruction for any pe
 ### 52 Annual report and statement of accounts
 [Repealed]
 
-## Part  — Repeals, amendments, and savings
+**Repeals, amendments, and savings**
 
 ### 53 Consequential amendments
 [Repealed]
