@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -172,7 +172,7 @@ This Act is the KiwiSaver Act 2006.
     (i) serving outside New Zealand; and
     (ii) employed on New Zealand terms and conditions; and
     (iii) serving in a jurisdiction where offers of KiwiSaver scheme membership are lawful; and
-  (b) is a New Zealand citizen or is entitled, in terms of the Immigration Act 1987, to be in New Zealand indefinitely.
+  (b) is a New Zealand citizen or is entitled, in terms of the Immigration Act 2009, to be in New Zealand indefinitely.
 (2) This Act applies to an employer only if—
   (a) the employer is a New Zealand resident (within the meaning of sections YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007); or
   (b) the employer carries on a business from a fixed establishment in New Zealand (within the meaning of section YA 1 of the Income Tax Act 2007); or
