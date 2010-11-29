@@ -1,5 +1,5 @@
 # Citizenship Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 (1) This Act is the Citizenship Amendment Act 2005.
@@ -183,11 +183,11 @@ The Acts set out in the Schedule are amended in the manner indicated in that sch
   (b) there were substituted for those provisions subsections (2)(a), and (4) of the former section 8 (which set residence requirements for the period of 3 years preceding the date of application for citizenship) of the principal Act; and
   (c) subsections (5) and (6) of the new section 8 applied for the purposes of the former section 8(2)(a) as if they referred to a period of 3 years rather than a period of 5 years; and
   (d) for the purposes of the former section 8(2)(a) and (4), the time during which a person is ordinarily resident in New Zealand—
-    (i) includes time spent in New Zealand while holding a valid immigration permit or being exempt from the requirement to hold a permit; but
+    (i) includes time spent in New Zealand before the commencement of the Immigration Act 2009 while holding a valid immigration permit or being exempt from the requirement to hold a permit, and time spent in New Zealand after the commencement of that Act while holding a valid visa; but
     (ii) does not include any time during which the person was unlawfully in New Zealand.
 (3) Subsection (2) applies in respect of any person who—
   (a) before the date of commencement of this Act was entitled in terms of the Immigration Act 1987 to be in New Zealand indefinitely, or was entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau; or
-  (b) became so entitled on or after the date of commencement of this Act pursuant to an application made before that date.
+  (b) became so entitled on or after the date of commencement of this Act pursuant to an application made under the Immigration Act 1987 or the Immigration Act 2009.
 (4) In this section,—
   - **former** , in relation to any section or provision, means the relevant section or provision of the principal Act as in force before the commencement of this Act
   - **new** , in relation to any section or provision, means the relevant section or provision of the principal Act as substituted by section 7 of this Act.
