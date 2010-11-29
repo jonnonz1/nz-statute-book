@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -405,14 +405,12 @@ The Corporation must treat the earnings of a private domestic worker as earnings
   (a) has New Zealand as his or her permanent place of residence, whether or not he or she also has a place of residence outside New Zealand; and
   (b) is in one of the following categories:
     (i) a New Zealand citizen:
-    (ii) a holder of a residence permit granted under the Immigration Act 1987:
-    (iii) a holder of a returning resident's visa or residence visa issued under the Immigration Act 1987 allowing the person to lawfully return to New Zealand or come to New Zealand for the purposes of residence:
-    (iv) a person who is exempt from any requirement to hold a permit under the Immigration Act 1987:
-    (v) a person who is a spouse or partner, child, or other dependant of any person referred to in any of subparagraphs (i) to (iv), and who generally accompanies the person referred to in the subparagraph.
+    (ii) a holder of a residence class visa granted under the Immigration Act 2009:
+    (iii) a person who is a spouse or a partner, child, or other dependant of any person referred to in subparagraph (i) or (ii), and who generally accompanies the person referred to in the subparagraph.
 (2) A person does not have a permanent place of residence in New Zealand if he or she has been and remains absent from New Zealand for more than 6 months or intends to be absent from New Zealand for more than 6 months. This subsection overrides subsection (3) but is subject to subsection (4).
 (3) A person has a permanent place of residence in New Zealand if he or she, although absent from New Zealand, has been personally present in New Zealand for a period or periods exceeding in the aggregate 183 days in the 12-month period immediately before last becoming absent from New Zealand. (A person personally present in New Zealand for part of a day is treated as being personally present in New Zealand for the whole of that day.)
 (4) A person does not cease to have a permanent place of residence in New Zealand because he or she is absent from New Zealand primarily in connection with the duties of his or her employment, the remuneration for which is treated as income derived in New Zealand for New Zealand income tax purposes, or for 6 months following the completion of the period of employment outside New Zealand, so long as he or she intends to resume a place of residence in New Zealand.
-(5) A person is not ordinarily resident in New Zealand if he or she is in New Zealand unlawfully within the meaning of the Immigration Act 1987. Any period during which a person is in New Zealand unlawfully is not counted as time spent in New Zealand for the purposes of subsection (3).
+(5) A person is not ordinarily resident in New Zealand if he or she is in New Zealand unlawfully within the meaning of the Immigration Act 2009. Any period during which a person is in New Zealand unlawfully is not counted as time spent in New Zealand for the purposes of subsection (3).
 
 ### 18 Spouse (and spouse in relation to deceased claimant)
 (1) Spouse means a person (person A) to whom the claimant is legally married.
@@ -1630,7 +1628,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
 (1) The Corporation must not pay weekly compensation to a claimant who suffered personal injury outside New Zealand for which he or she has cover, and who is not for the time being in New Zealand, unless he or she—
   (a) had earnings while absent from New Zealand before suffering the personal injury; or
   (b) had earnings within the period of 6 months immediately before leaving New Zealand.
-(2) The Corporation must not pay weekly compensation to a claimant outside New Zealand if his or her entitlement to it is based on earnings in employment in New Zealand that, under the Immigration Act 1987, he or she was not lawfully entitled to undertake.
+(2) The Corporation must not pay weekly compensation to a claimant outside New Zealand if his or her entitlement to it is based on earnings in employment in New Zealand that, under the Immigration Act 2009, he or she was not lawfully entitled to undertake.
 (3) The Corporation must not pay any weekly compensation or lump sum compensation to a claimant outside New Zealand unless his or her condition has been assessed for the purposes of this Act by a person approved for the purpose by the Corporation.
 (4) If weekly compensation or lump sum compensation is payable outside New Zealand and the claimant's right to receive the compensation is to be assessed, the Corporation is not required to meet—
   (a) any costs incurred by the claimant overseas; or
@@ -3127,7 +3125,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (d) Hazardous Substances and New Organisms Act 1996:
   (e) Health and Safety in Employment Act 1992:
   (f) Holidays Act 2003:
-  (g) Immigration Act 1987:
+  (g) Immigration Act 2009:
   (h) Machinery Act 1950:
   (i) Minimum Wage Act 1983:
   (j) Parental Leave and Employment Protection Act 1987:
