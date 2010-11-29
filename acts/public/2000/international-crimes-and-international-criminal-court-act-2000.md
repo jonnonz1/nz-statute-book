@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -1515,13 +1515,13 @@ If an ICC prisoner of any nationality is to be transferred from New Zealand to a
   (b) may, from time to time, be renewed for 1 further period not exceeding 3 months; and
   (c) may, if the Minister thinks fit, order that the person named in the certificate be taken into custody.
 (2) The certificate is, while it remains in force, sufficient authority for the person named in the certificate to remain in New Zealand.
-(3) If the Minister issues a certificate, the Minister may refer the person’s case to the Minister of Immigration for consideration under section 35A of the Immigration Act 1987 and, in that case, that section applies for the purposes of this section as if the person were a person required to hold a permit under the Immigration Act 1987 to be in New Zealand.
-(4) Except as provided in subsection (3), nothing in the Immigration Act 1987 applies to the person named in the certificate while the certificate is in force.
+(3) If the Minister issues a certificate, the Minister may refer the person’s case to the Minister of Immigration for consideration under section 61 of the Immigration Act 2009, and, in that case, that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
+(4) Except as provided in subsection (3), nothing in the Immigration Act 2009 applies to the person named in the certificate while the certificate is in force.
 
 ### 151 Cancellation of certificate
 The Minister must cancel the certificate issued under section 150 and make a removal order under section 153 in respect of a person if,—
   (a) where the Minister referred the person’s case to the Minister of Immigration under section 150(3),—
-    (i) the Minister of Immigration declines to grant a permit under the Immigration Act 1987; and
+    (i) the Minister of Immigration declines to grant a visa under the Immigration Act 2009; and
     (ii) there do not appear to the Minister to be any other grounds on which the person should be permitted to remain in New Zealand:
   (b) in any other case, there do not appear to the Minister to be any other grounds on which the person should be permitted to remain in New Zealand.
 
@@ -1554,8 +1554,8 @@ The Minister must cancel the certificate issued under section 150 and make a rem
   (b) order the release of the person subject to such conditions, if any, that the Judge thinks fit.
 (3) A warrant for the detention of the person issued under subsection (2)(a) may authorise the detention of the person in any place specified in section 153(3).
 
-### 155 Immigration permit not required
-A person to whom this Part applies is not required to hold a permit under the Immigration Act 1987 if, and for so long as, he or she is in New Zealand in accordance with this Part (whether or not he or she is in custody).
+### 155 Immigration visa not required
+A person to whom this Part applies is not required to hold a visa under the Immigration Act 2009 if, and for so long as, he or she is in New Zealand in accordance with this Part (whether or not he or she is in custody).
 
 ### 156 New Zealand citizens
 Nothing in this Part authorises the making of a removal order under section 153 in respect of a New Zealand citizen.
