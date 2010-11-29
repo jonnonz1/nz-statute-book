@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-11-29_
 
 > Title
 
@@ -137,7 +137,7 @@ Any person may notify to the Registrar-General, and the Registrar-General may ca
 ### 9 Parents primarily responsible for notifying birth
 (1) Both parents of a child born in New Zealand must, as soon as is reasonably practicable after the birth,—
   (a) jointly notify a Registrar of the birth in accordance with this Act; and
-  (b) in the case of a child born on or after 1 January 2006, inform the Registrar whether or not, to the best of their knowledge, either or both of the child's parents are New Zealand citizens or persons entitled, under the Immigration Act 1987, to be in New Zealand indefinitely.
+  (b) in the case of a child born on or after 1 January 2006, inform the Registrar whether or not, to the best of their knowledge, either or both of the child's parents are New Zealand citizens or persons entitled, under the Immigration Act 2009, to be in New Zealand indefinitely.
 (2) However, a Registrar may accept the form signed by only 1 parent if he or she is satisfied that—
   (a) the child has only 1 parent at law; or
   (b) the other parent is unavailable; or
@@ -278,7 +278,7 @@ No Registrar other than the Registrar-General shall register a birth notified mo
 In sections 21A and 21B,—
   - **eligible person** means a person—
     (a) whose birth is registered; or
-    (b) who is a New Zealand citizen or is entitled, under the Immigration Act 1987, to be in New Zealand indefinitely
+    (b) who is a New Zealand citizen or is entitled, under the Immigration Act 2009, to be in New Zealand indefinitely
   - **guardian** means—
     (a) the guardians of a person; or
     (b) if any guardians are unavailable, the other guardian or guardians; or
@@ -371,7 +371,7 @@ In sections 28 and 29,—
     (a) who is any of the following:
       (i) a person whose birth is registered:
       (ii) a person whose birth is registrable under this Act but is not yet registered:
-      (iii) a person who is a New Zealand citizen or is entitled, under the Immigration Act 1987, to be in New Zealand indefinitely; and
+      (iii) a person who is a New Zealand citizen or is entitled, under the Immigration Act 2009, to be in New Zealand indefinitely; and
     (b) who—
       (i) is 18 years of age or older; or
       (ii) is younger than 18 years of age but who is or has been in a marriage, in a civil union, or in a de facto relationship
@@ -379,7 +379,7 @@ In sections 28 and 29,—
     (a) who is any of the following:
       (i) a person whose birth is registered:
       (ii) a person whose birth is registrable under this Act but is not yet registered:
-      (iii) a person who is a New Zealand citizen or is entitled, under the Immigration Act 1987, to be in New Zealand indefinitely; and
+      (iii) a person who is a New Zealand citizen or is entitled, under the Immigration Act 2009, to be in New Zealand indefinitely; and
     (b) who—
       (i) has not attained the age of 18 years; and
       (ii) has never been in a marriage, in a civil union, or in a de facto relationship.
@@ -1037,7 +1037,7 @@ The Registrar-General may publish or otherwise disclose statistical information 
 (3) Without limiting his or her discretion under subsection (1), the Registrar-General may decide not to supply name change information under that subsection if the person who is the subject of the name change information satisfies the Registrar-General that the name change information should not be supplied because of exceptional circumstances of a humanitarian or other nature relating to that person.
 (4) The Registrar-General may obtain, hold, and use information from a foreign registration authority relating to a name change or death of a person in the State in which the foreign registration authority has jurisdiction—
   (a) whose birth is registered; or
-  (b) who is a New Zealand citizen or is entitled, under the Immigration Act 1987, to be in New Zealand indefinitely.
+  (b) who is a New Zealand citizen or is entitled, under the Immigration Act 2009, to be in New Zealand indefinitely.
 
 ### 78E Supply of information to foreign registration authorities must be in accordance with written agreement
 (1) The supply of information under section 78D must be in accordance with a written agreement that complies with subsection (2) between the Registrar-General and the foreign registration authority concerned.
@@ -1320,7 +1320,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Department of Internal Affairs | Birth information, marriage information, civil union information, name change information, and death information | To verify whether a person is eligible—ato hold a New Zealand passport:bfor New Zealand citizenship |
 | Department of Labour | Birth information and name change information | To—averify a person's citizenship status:bverify a person's entitlement to reside in New Zealand:cupdate and verify immigration records |
 |  | Marriage information and civil union information | To verify the marriage or civil union of a person to a New Zealand citizen |
-|  | Death information | To identify deceased holders of limited term permits or visas |
+|  | Death information | To identify deceased holders of temporary entry class visas |
 | Government Superannuation Fund Authority | Birth information, marriage information, civil union information, name change information, and death information | To verify the identity of a member or beneficiary of the Government Superannuation Fund, and the eligibility or continuing eligibility of a member or beneficiary for payments under the Fund |
 | Inland Revenue Department | Birth information, marriage information, civil union information, and name change information | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support |
 |  | Death information | To identify deceased taxpayers and verify their details |
