@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2010-05-24_
+_Consolidation as at 2010-11-29_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -729,7 +729,7 @@ Nothing in this Act affects the powers of a court or Judge to discharge a juror 
 **Immigration matters**
 
 ### 56CA Judicial review of decisions under Immigration Act 1987
-The provisions of this Act are to be read subject to section 146A of the Immigration Act 1987 (as inserted by section 53 of the Immigration Amendment Act 1999) in relation to any proceedings reviewing a statutory power of decision arising out of or under that Act.
+[Repealed]
 
 ## Part 1A — Special provisions applying to certain proceedings in the High Court and the Federal Court of Australia
 
