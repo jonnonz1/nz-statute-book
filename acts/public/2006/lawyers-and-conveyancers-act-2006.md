@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3379,8 +3379,8 @@ For the purposes of this section and sections 334 and 335,—
 ### 335 Exclusions
 Section 334 does not apply to any conditional fee agreement that relates to—
   (a) criminal proceedings; or
-  (b) proceedings under the Immigration Act 1987; or
-  (c) review proceedings in respect of a statutory power of decision arising out of or under the Immigration Act 1987; or
+  (b) proceedings under the Immigration Act 2009; or
+  (c) review proceedings in respect of a statutory power of decision arising out of or under the Immigration Act 2009; or
   (d) proceedings in respect of which a Family Court has jurisdiction; or
   (e) appeals from, or applications for judicial review made in relation to, decisions made in any of the proceedings described in paragraphs (a) to (d).
 
