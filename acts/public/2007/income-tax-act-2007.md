@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-11-23_
+_Consolidation as at 2010-11-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3610,7 +3610,7 @@ Some definitions
     (a) is a crew member of a pleasure craft; and
     (b) is a non-resident, a matter determined without applying section YD 1(3) (Residence of natural persons); and
     (c) is not present in New Zealand on more than 365 days in any 2-year period that starts on or after 28 May 2002; and
-    (d) is not in New Zealand unlawfully under the Immigration Act 2007
+    (d) is not in New Zealand unlawfully under the Immigration Act 2009
   - **pleasure craft** is defined in section 2 of the Maritime Transport Act 1994.
 
 ### CW 22 Amounts derived by overseas experts and trainees in New Zealand by government arrangement
@@ -27200,10 +27200,7 @@ In subparts MB to MF and MZ,—
   - **New Zealand resident** —
     (a) means ordinarily resident; and
     (b) does not include being unlawfully resident in New Zealand; and
-    (c) does not include being lawfully resident in New Zealand only through having—
-      (i) a visitor’s permit; or
-      (ii) a temporary work permit; or
-      (iii) a permit to be in New Zealand for the purposes of study at a New Zealand school or university or other tertiary educational establishment
+    (c) does not include being lawfully resident in New Zealand only because of holding a temporary entry class visa
   - **parental tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 12
   - **social assistance payment** means—
     (a) an income-tested benefit; or
