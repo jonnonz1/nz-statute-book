@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-11-29_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -48,8 +48,8 @@ An application to challenge the legality of a person's detention may be made by 
 ### 8 Description of defendant by reference only to office
 A defendant may be described in an application by reference only to the defendant's office if the defendant is—
   (a) the prison manager of a prison in which the detained person is alleged to be illegally detained; or
-  (b) the Commissioner of Police, if the detained person is alleged to be illegally detained in Police custody except following the exercise of powers under the Immigration Act 1987; or
-  (c) the chief executive of the Department of Labour, if the detained person is alleged to be illegally detained in Police custody following the exercise of powers under the Immigration Act 1987; or
+  (b) the Commissioner of Police, if the detained person is alleged to be illegally detained in Police custody except following the exercise of powers under the Immigration Act 2009; or
+  (c) the chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009, if the detained person is alleged to be illegally detained in custody following the exercise of powers under that Act; or
   (d) the chief executive of the New Zealand Customs Service, if the detained person is alleged to be illegally detained in the custody of the New Zealand Customs Service; or
   (e) any other office holder prescribed by rules made in accordance with section 20, and in the circumstances prescribed in those rules.
 
@@ -151,7 +151,7 @@ If a matter arises in relation to an application for which this Act does not pro
 ((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) Sections 17 to 19, and 21 of the Interpretation Act 1999 apply to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
 
-## Schedule Schedule — Writ of habeas corpus
+## Schedule  — Writ of habeas corpus
 
 | (Deputy) Registrar |
 | --- |
