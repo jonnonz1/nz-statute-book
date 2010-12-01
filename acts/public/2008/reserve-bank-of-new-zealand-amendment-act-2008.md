@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Amendment Act 2008
-_Consolidation as at 2008-09-09_
+_Consolidation as at 2010-12-01_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Amendment Act 2008.
@@ -27,7 +27,7 @@ The following section is inserted after section 1:Purpose
   (2) This section does not limit the functions or powers given to the Bank by any other enactment.
 
 ### 6 Interpretation
-The definition of operating expenses in section 2(1) is amended by adding ; or and also by adding the following subparagraph:.
+The definition of operating expenses in section 2(1) is amended by adding ; or and also by adding the following subparagraph:
   (iii) any expenses agreed by the Minister and the Bank not to be operating expenses
 
 ### 7 New section 16 substituted
@@ -48,27 +48,27 @@ Section 33 is repealed and the following section substituted:Policy advice
 
 ### 10 Bank may require financial institution to supply information
 Section 36 is amended by adding the following subsection:
-  (6) Sections 156G to 156I and 156J(2)(c) and (d) (which relate to the publication or disclosure of information or data supplied to the Bank) apply with all necessary modifications in respect of information and data supplied to the Bank under this section as if for each reference to section 156C in sections 156G(1) and (3) and 156J(2)(c) there were substituted a reference to section 36.
+  (6) Sections 156G to 156I and 156J(2)﻿(c) and (d) (which relate to the publication or disclosure of information or data supplied to the Bank) apply with all necessary modifications in respect of information and data supplied to the Bank under this section as if for each reference to section 156C in sections 156G(1) and (3) and 156J(2)﻿(c) there were substituted a reference to section 36.
 
 ### 11 Disqualification of Governor and Deputy Governor
-Section 46(1)(b) is amended by inserting or of a deposit taker as defined in section 157C after a registered bank.
+Section 46(1)﻿(b) is amended by inserting or of a deposit taker as defined in section 157C after a registered bank.
 
 ### 12 Removal of Governor from office
-Section 49(2)(h)(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
+Section 49(2)﻿(h)﻿(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
 
 ### 13 Removal of Deputy Governor from office by Order in Council
-Section 50(2)(d)(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
+Section 50(2)﻿(d)﻿(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
 
 ### 14 Duties of Board
-(1) Section 53(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 53(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) keep under constant review the performance of the Bank in carrying out—
     (i) its primary function; and
     (ii) its functions relating to promoting the maintenance of a sound and efficient financial system; and
     (iii) its other functions under this Act or any other enactment:
-(2) Section 53(3)(f)(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
+(2) Section 53(3)﻿(f)﻿(iii) is amended by inserting or a deposit taker as defined in section 157C after a registered bank.
 
 ### 15 New section 68B inserted
-The following section is inserted after section 68A:Bank to have regard to directions about government policy objectives2004 No 115 ss 104(1), 113(1)(b), 114, 115(2).
+The following section is inserted after section 68A:Bank to have regard to directions about government policy objectives2004 No 115 ss 104(1), 113(1)﻿(b), 114, 115(2)
   (1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank’s functions under this Part and Parts 5B to 5D.
   (2) The Bank must have regard to every direction given by the Minister under this section.
   (3) The Minister must consult with the Bank before giving a direction.
@@ -136,7 +136,7 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
       (b) includes any class or classes of persons declared by regulations to be senior office holders for the purposes of this Part; but
       (c) does not include any class or classes of persons declared by regulations not to be senior office holders for the purposes of this Part
     - **subsidiary** means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993
-    - **trust deed** , in relation to a deposit taker, means a trust deed required by section 33(2)(a) of the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker
+    - **trust deed** , in relation to a deposit taker, means a trust deed required by section 33(2)﻿(a) of the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker
     - **trustee** , in relation to a deposit taker, means a person appointed as trustee in accordance with the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker.
   (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
     (a) declaring a person or class of persons to be a related party for the purposes of this Part:
@@ -156,7 +156,7 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
       (iv) the Crown (as defined in section 2(1) of the Public Finance Act 1989):
       (v) a person or class of persons that is declared by regulations not to be a deposit taker for the purposes of this Part.
   (2) For the purposes of this Part, a reference to an offer of debt securities to the public has the same meaning as an offer of securities to the public as set out in section 3 of the Securities Act 1978.
-  (3) If a person has, before this section comes into force, offered debt securities to the public in New Zealand and any of those securities remain unpaid, the person must be treated as satisfying the requirement in subsection (1)(a)(i).
+  (3) If a person has, before this section comes into force, offered debt securities to the public in New Zealand and any of those securities remain unpaid, the person must be treated as satisfying the requirement in subsection (1)﻿(a)﻿(i).
   (4) A person remains a deposit taker until all debt securities offered to the public in New Zealand by the person are repaid.
   (5) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of declaring a person or class of persons to be, or not to be, a deposit taker for the purposes of this Part.
   (6) In considering whether to advise and recommend the making of regulations under subsection (5), the Minister and the Bank must have regard to—
@@ -249,7 +249,7 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
       (i) regular review of the programme to systematically identify deficiencies in the effectiveness of the programme; and
       (ii) obtaining the approval of the trustee to amendments to the programme that are necessary to address such deficiencies; and
     (e) be appropriate to the operations of the deposit taker, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the deposit taker, its funding structure, the market sector in which it operates, its business strategy, and its relationship with its borrowing group).
-  (3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)(b) that must be covered by the risk management programme.
+  (3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme.
   (1) The deposit taker must give a copy of its risk management programme to the trustee.
   (2) The trustee must, as soon as practicable after receiving the copy of the risk management programme, inform the deposit taker whether the trustee is satisfied that the risk management programme meets the requirements in section 157M(2).
   (3) If the trustee is not satisfied that the risk management programme meets the requirements in section 157M(2),—
@@ -288,7 +288,7 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
     (b) provide that the maximum limit on exposures to related parties applies in respect of exposures of the deposit taker or exposures calculated across the borrowing group of which the deposit taker is part:
     (c) require every deposit taker and trustee to ensure that the trust deed includes a specified maximum limit on exposures to related parties:
     (d) require every deposit taker and trustee to ensure that the trust deed includes a maximum limit on exposures to related parties that is fixed by agreement between the deposit taker and the trustee (see section 157ZD for provisions that apply if there is no agreement).
-  (3) If subsection (2)(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which the deposit taker and the trustee must fix the maximum agreed limit.
+  (3) If subsection (2)﻿(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which the deposit taker and the trustee must fix the maximum agreed limit.
   (1) Regulations made under section 157V may incorporate by reference a framework published by, or on behalf of, any person or body in any country.
   (2) A framework incorporated by reference in the regulations—
     (a) may be incorporated in whole or in part; and
@@ -348,18 +348,18 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
     (a) by notice in writing to the deposit taker, require the deposit taker to supply to the Bank, within the time specified in the notice, the information, papers, documents, records, or things specified in the notice; or
     (b) appoint in writing a suitably qualified person to enter and search any place and inspect, remove, and take copies of any information, papers, documents, records, or things in the possession, custody, or control of any person.
   Nothing in section 157ZI(2) or 157ZJ(2) requires a person to produce any information, papers, documents, records, or things if compliance with that requirement would be a breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
-  A person appointed under section 157ZJ(2)(b) must not enter and search any place, or inspect, remove, or take copies of any information, papers, documents, records, or things in the possession, or under the control, of any person unless that person is authorised by search warrant issued under section 157ZM.
-  (1) A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)(b) if the Judge is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
+  A person appointed under section 157ZJ(2)﻿(b) must not enter and search any place, or inspect, remove, or take copies of any information, papers, documents, records, or things in the possession, or under the control, of any person unless that person is authorised by search warrant issued under section 157ZM.
+  (1) A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)﻿(b) if the Judge is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
   (2) The provisions of Schedule 4 apply to a search warrant issued under this section.
   (1) If a person could, in a criminal proceeding, assert a privilege under sections 54 to 57 of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of—
     (a) a request to supply access to accounting and other records of the deposit taker or provide information relating to those records under section 157ZI(2); and
-    (b) a notice under section 157ZJ(2)(a); and
+    (b) a notice under section 157ZJ(2)﻿(a); and
     (c) a search warrant issued under section 157ZM.
   (2) Subsection (3) applies to documents that are books of account or accounting records referred to in section 55(1) of the Evidence Act 2006.
   (3) The application by subsection (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
-    (a) the issue of, or the obligation to comply with, a notice under section 157ZJ(2)(a) in respect of a document to which this subsection applies; or
+    (a) the issue of, or the obligation to comply with, a notice under section 157ZJ(2)﻿(a) in respect of a document to which this subsection applies; or
     (b) the issue or execution of a search warrant under section 157ZM in respect of a document to which this subsection applies; or
-    (c) the admissibility, in a criminal proceeding under this Part, of any evidence that relates to the contents of a document obtained as a result of a notice under section 157ZJ(2)(a) or a search warrant issued under section 157ZM.
+    (c) the admissibility, in a criminal proceeding under this Part, of any evidence that relates to the contents of a document obtained as a result of a notice under section 157ZJ(2)﻿(a) or a search warrant issued under section 157ZM.
   (4) A person who has a privilege under this section has the right—
     (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
     (b) to prevent the search of any such communication or information; and
@@ -371,10 +371,10 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
   (1) This section applies to—
     (a) information supplied or disclosed to, or obtained by,—
       (i) the Bank, under or for the purposes of, or in connection with, the exercise of powers conferred by this Part:
-      (ii) a person appointed by the Bank under section 157ZJ(2)(b):
+      (ii) a person appointed by the Bank under section 157ZJ(2)﻿(b):
     (b) information derived from, or based on, information referred to in paragraph (a):
     (c) information relating to the exercise, or possible exercise, of the powers conferred by this Part.
-  (2) The Bank, and any person appointed by the Bank under section 157ZJ(2)(b), must not publish or disclose information to which this section applies except—
+  (2) The Bank, and any person appointed by the Bank under section 157ZJ(2)﻿(b), must not publish or disclose information to which this section applies except—
     (a) with the consent of the person to whom the information relates; or
     (b) to the extent that the information is available to the public under any Act, other than the Official Information Act 1982, or in a public document; or
     (c) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
@@ -382,11 +382,11 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
     (e) to the Registrar of the Companies Office or the Securities Commission; or
     (f) to the trustee of the deposit taker to whom the information relates; or
     (g) to any person who the Bank is satisfied has a proper interest in receiving the information.
-  (3) Information to which this section applies must not be published or disclosed under subsection (2)(f) or (g) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
-  (4) A person to whom information to which this section applies is published or disclosed under subsection (2)(c) must not publish, disclose, or use the information except—
+  (3) Information to which this section applies must not be published or disclosed under subsection (2)﻿(f) or (g) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
+  (4) A person to whom information to which this section applies is published or disclosed under subsection (2)﻿(c) must not publish, disclose, or use the information except—
     (a) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
     (b) in accordance with any conditions that may be specified by the Bank.
-  (5) A person to whom information to which this section applies is disclosed under subsection (2)(e), (f), or (g) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
+  (5) A person to whom information to which this section applies is disclosed under subsection (2)﻿(e), (f), or (g) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
     (a) authorised by the Bank; or
     (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
   Every person who does not comply with section 157ZO commits an offence and is liable, on summary conviction,—
@@ -419,8 +419,8 @@ The following Part is inserted after section 156ZE:Deposit takersPreliminary pro
   (1) In any prosecution of a deposit taker for an offence against section 157ZR or 157ZS, it is a defence if the deposit taker proves that—
     (a) the contravention was due to the act or omission of another person, or some other cause beyond the deposit taker's control; and
     (b) the deposit taker took reasonable precautions and exercised due diligence to avoid the contravention.
-  (2) For the purposes of subsection (1)(a), the term another person does not include a director, employee, or agent of the deposit taker.
-  (3) A deposit taker is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the deposit taker has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the deposit taker.
+  (2) For the purposes of subsection (1)﻿(a), the term another person does not include a director, employee, or agent of the deposit taker.
+  (3) A deposit taker is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)﻿(a) unless the deposit taker has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the deposit taker.
   (1) If a deposit taker is charged with an offence against section 157ZR or 157ZS, the court may direct that the defendant be discharged if the court considers that the alleged contravention was in respect of matters that were immaterial.
   (2) A direction under subsection (1) may be made at any stage of the proceeding—
     (a) on the motion of the court or on the application of the defendant; and
@@ -482,7 +482,7 @@ Section 162 is repealed and the following section substituted:Determination of a
     (b) the determination made by the Minister under subsection (3).
 
 ### 21 New Part 6 heading substituted
-The Part 6 heading is repealed and the following heading substituted:Financial and accountability matters.
+The Part 6 heading is repealed and the following heading substituted:Financial and accountability matters
 
 ### 22 New heading and sections 162AA and 162AB inserted
 The following heading and sections are inserted after section 162:Accountability documentsPurpose of accountability documents2004 No 115 s 138Assessment of regulatory impacts of policies
@@ -514,7 +514,7 @@ The following heading and sections are inserted after section 162:Accountability
 The following heading is inserted above section 162A: Statement of intent.
 
 ### 24 Content of statement of intent
-(1) Section 162B(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:.
+(1) Section 162B(1) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
   (c) the specific impacts, outcomes, or objectives that the Bank seeks to achieve or contribute to:
   (d) how the Bank intends to perform its functions and conduct its operations to achieve those impacts, outcomes, or objectives:
   (da) if a direction has been given under section 68B, how the Bank has had regard to the direction:
@@ -532,7 +532,7 @@ Section 162C is amended by adding the following subsection as subsection (2):
 The following heading is inserted above section 163: Annual reports.
 
 ### 27 Annual reports and accounts
-Section 163(2) is amended by inserting the following paragraph before paragraph (a):.
+Section 163(2) is amended by inserting the following paragraph before paragraph (a):
   (aaa) an assessment against the intentions, measures, and standards set out in the statement of intent prepared at the beginning of the financial year; and
 
 ### 28 New heading and section 165A inserted
@@ -647,7 +647,7 @@ Clauses 3 to 13 apply to every search warrant applied for and issued under Part 
   (b) the provision authorising the issue of the warrant:
   (c) a description of what may be seized:
   (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified by the Judge under subclause (2)(b):
+  (e) any conditions specified by the Judge under subclause (2)﻿(b):
   (f) if the warrant may be executed on more than 1 occasion, the number of times, or the period of time over which, the warrant may be executed.
 
 ### 6 Transmission of search warrant
@@ -680,7 +680,7 @@ A search warrant is executed when the person executing the warrant—
 (3) The person executing a search warrant may, in a manner and for the duration that is reasonable for the purposes of executing the warrant,—
   (a) secure the place searched, any area within that place, or any thing found within that place:
   (b) exclude any person from the place searched, or from any area within the place or thing, if the person executing the warrant has reasonable grounds to believe that the person to be excluded will obstruct or hinder the execution of the warrant.
-(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)(b).
+(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)﻿(b).
 (5) Section 198B of the Summary Proceedings Act 1957 applies in respect of every search warrant as if for each reference to a constable there were substituted a reference to a person authorised to execute the search warrant.
 
 ### 10 Powers of persons called to assist
@@ -696,7 +696,7 @@ A search warrant is executed when the person executing the warrant—
 (3) The person executing a search warrant must—
   (a) accompany any assistant on the first occasion when the assistant enters the place or thing to be searched; and
   (b) provide such other supervision of any assistant as is reasonable in the circumstances.
-(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)(b).
+(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)﻿(b).
 
 ### 11 Person executing warrant to produce evidence of authority
 (1) The person exercising the search warrant must—
@@ -709,7 +709,7 @@ A search warrant is executed when the person executing the warrant—
   (c) if requested to do so at any time after initial entry into or onto the place or thing to be searched, produce—
     (i) a copy of the search warrant; and
     (ii) evidence of his or her identity.
-(2) The person executing the search warrant is not required to comply with subclause (1)(a) and (b) if he or she believes on reasonable grounds that no person is lawfully present in or on the place to be searched.
+(2) The person executing the search warrant is not required to comply with subclause (1)﻿(a) and (b) if he or she believes on reasonable grounds that no person is lawfully present in or on the place to be searched.
 (3) The person executing the search warrant may use reasonable force in order to effect entry into or onto the place if—
   (a) subclause (2) applies; or
   (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
@@ -719,7 +719,7 @@ A search warrant is executed when the person executing the warrant—
   (c) the address of the police station or other office to which inquiries should be made:
   (d) if nothing is seized, the fact that nothing was seized:
   (e) if anything was seized, the fact that seizure occurred and that an inventory of the things seized will be provided to the occupier not later than 7 days after the seizure.
-(5) If the occupier is not present at any time during the execution of the warrant, or if it is not reasonably practicable to comply with subclause (1)(c), the person executing the warrant must on completion of execution leave a copy of the warrant and the notice required by subclause (4) in a prominent position on the place, except where this is not reasonably practicable.
+(5) If the occupier is not present at any time during the execution of the warrant, or if it is not reasonably practicable to comply with subclause (1)﻿(c), the person executing the warrant must on completion of execution leave a copy of the warrant and the notice required by subclause (4) in a prominent position on the place, except where this is not reasonably practicable.
 (6) This clause is subject to clause 13.
 
 ### 12 Inventory of items seized
