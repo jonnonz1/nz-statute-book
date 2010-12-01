@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2010-09-08_
+_Consolidation as at 2010-12-01_
 
 > Title [Repealed]
 
@@ -2576,6 +2576,18 @@ The Governor-General may, by Order in Council, on the advice of the Minister giv
     (i) the type of rating (for example, whether it is a short-term or long-term rating):
     (ii) what the rating relates to (for example, whether it indicates the creditworthiness of a deposit taker with respect to a specific financial obligation or applies to the deposit taker’s overall creditworthiness):
   (b) requiring a deposit taker to have a rating of creditworthiness of the borrowing group of which the deposit taker is part.
+
+**Governance requirements**
+
+### 157L Governance requirements
+(1) If a deposit taker is a company or a building society,—
+  (a) the governing body of the deposit taker must include at least 2 independent directors; and
+  (b) the chairperson of the governing body of the deposit taker may not be an employee of either the deposit taker or a related party.
+(2) If a deposit taker is a subsidiary, the constitution of the deposit taker must not include any provision under which directors of the deposit taker may act otherwise than in the best interests of the deposit taker.
+(3) For the purposes of this section, independent director means a director that—
+  (a) is not an employee of either the deposit taker or a related party; and
+  (b) is not a director of a related party; and
+  (c) does not, directly or indirectly, have a qualifying interest in more than 10% of the voting securities of the deposit taker or a related party.
 
 **Risk management**
 
