@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
