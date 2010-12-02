@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-02_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -2271,7 +2271,8 @@ In this rule and rules 4.58 to 4.64, unless the context otherwise requires,—
   (d) despite paragraphs (a) to (c), the court at Wellington in the case of proceedings that consist of or include 1 or more of the following kinds of action or application:
     (i) an application for judicial review under Part 1 of the Judicature Amendment Act 1972 that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
     (ii) an application for, or in the nature of, an extraordinary remedy under Part 30 of these rules that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
-    (iii) an application under section 35, 47E, or 55 of the Terrorism Suppression Act 2002.
+    (iii) an application under section 35, 47E, or 55 of the Terrorism Suppression Act 2002:
+  (e) despite paragraphs (a) to (c), the court at Wellington or the court at Auckland in the case of applications under the Immigration Act 2009 in proceedings involving classified information.
 (2) Despite subclause (1)(a), if the place where the cause of action sued on, or some material part of it, arose is nearer to the place where the plaintiff or the plaintiff first-named in the statement of claim resides than to the place where the defendant resides, the proper registry of the court for the purposes of subclause (1) is, at the option of the plaintiff or the plaintiff first-named, as the case may be, the registry nearest to the residence of the plaintiff or the plaintiff first-named, as the case may be.
 (3) If a plaintiff proposes to exercise the option conferred by subclause (2), the plaintiff must file with the statement of claim and notice of proceeding an affidavit by the plaintiff or the plaintiff’s solicitor stating the place where the cause of action or the material part of it arose, and that that place is nearer to the place where the plaintiff or the plaintiff first-named in the statement of claim resides than to the place where the defendant resides.
 (4) If it appears to a Judge, on application made, that the statement of claim has been filed in the wrong registry of the court, he or she may direct that the statement of claim or all documents filed in the proceeding be transferred to the proper registry.
