@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-16_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1003,10 +1003,7 @@ Except as provided in sections 76 to 78,—
     (ii) the person has been found by a court, on conviction of any offence, to be mentally impaired, and is detained under an order made under section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 118 of the Criminal Justice Act 1985, and has been so detained for a period exceeding 3 years:
     (iii) the person is subject to, and has for a period exceeding 3 years been subject to, a compulsory treatment order made following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or a compulsory care order made following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (iv) the person is detained under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, and is a person to whom paragraph (d) would otherwise apply:
-  (d) a person who, under—is being detained in a prison:
-    (i) a sentence of imprisonment for life; or
-    (ii) a sentence of preventive detention; or
-    (iii) a sentence of imprisonment for a term of 3 years or more,—
+  (d) a person who is detained in a prison pursuant to a sentence of imprisonment imposed after the commencement of the Electoral (Disqualification of Sentenced Prisoners) Amendment Act 2010:
   (e) a person whose name is on the Corrupt Practices List made out for any district.
 (2) The Registrar of the court in which any compulsory treatment order or any order under section 24 or section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is made or any person is convicted of a corrupt practice shall, not later than the fifth day of the month next succeeding the date of the order or conviction, forward to the Registrar of Electors of the electoral district in which the patient or offender was residing a certificate showing the name, place of abode, and description of the patient or offender and particulars of the order or conviction.
 (3) Nothing in subsection (1)(a) or (b) applies to—
@@ -1018,12 +1015,13 @@ Except as provided in sections 76 to 78,—
     (i) is accompanying a person described in subparagraph (i) or subparagraph (ii) or subparagraph (iii) of paragraph (a) who is outside New Zealand in the course of that person’s duties; and
     (ii) is the spouse, civil union partner, de facto partner, or child of the person referred to in subparagraph (i), or the child of the spouse, civil union partner, or de facto partner of that person.
 
-### 81 Detention in prison pursuant to conviction
+### 81 Detention in prison pursuant to sentence of imprisonment
 (1) Where a person who has been sentenced to imprisonment is received into a prison in which that person is to serve the whole or part of the sentence, the prison manager of that prison shall, not later than the seventh day after the day on which the prisoner is received into the prison, forward to the Chief Registrar of Electors a notice—
   (a) showing the name, previous residential address, and date of birth of that person; and
-  (b) showing the name and address of the prison; and
-  (c) indicating whether the provisions of section 80(1)(d) apply to that person.
+  (b) showing the name and address of the prison.
+  (c)
 (2) The Chief Registrar of Electors shall, on receiving a notice under subsection (1), forward a copy of that notice to the appropriate Registrar of Electors.
+(3) In subsection (1), prison manager has the meaning given to it by section 3(1) of the Corrections Act 2004.
 
 **Registration**
 
@@ -4444,3 +4442,15 @@ The appointment of the existing Chief Electoral Officer is revoked.
 (1) The new Electoral Commission must include in its annual report for the year ending 30 June 2011 the information in respect of the existing Electoral Commission for the period commencing 1 July 2010 and ending on 30 September 2010 that the existing Electoral Commission would have had to include in its annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
 (2) To avoid doubt, the new Electoral Commission may, if it so decides, present the information referred to in subsection (1) in a combined form for the whole of the financial year ended 30 June 2011.
 (3) For the purposes of subsection (1), section 45J(1) of the Public Finance Act 1989 does not apply to the existing Electoral Commission in respect of the period commencing 1 July 2010 and ending on 30 September 2010.
+
+### 1 Title
+This Act is the Electoral (Disqualification of Sentenced Prisoners) Amendment Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 6 Existing status under section 80(1)(d) of principal Act not affected
+To avoid doubt,—
+  (a) a person who is disqualified for registration as an elector by section 80(1)(d) of the principal Act immediately before the commencement of this Act continues to be disqualified for registration as an elector as if this Act had not been enacted; and
+  (b) a person who is not disqualified for registration as an elector by section 80(1)(d) of the principal Act immediately before the commencement of this Act is not disqualified for registration as an elector by that section (as substituted) immediately after the commencement of this Act on the ground of an existing sentence of imprisonment; and
+  (c) section 4 of this Act does not override section 17 of the Interpretation Act 1999.
