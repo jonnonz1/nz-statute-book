@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-16_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -6123,6 +6123,7 @@ States or, as appropriate, subregional or regional fisheries management organiza
 | Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if—athat eel is likely to survive on return; andbthe return takes place as soon as practicable after the eel is taken. |
 | Green-lipped mussel (Perna canaliculus) | Quota management areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10 | A commercial fisher may return any green-lipped mussel to the sea if that green-lipped mussel is likely to survive on return. |
 | Green-lipped mussel (Perna canaliculus) | Quota management area GLM9 | A commercial fisher may return any green-lipped mussel to the sea. |
+| Kina (Evechinus chloroticus) | All New Zealand fisheries waters | A commercial fisher may return kina to the waters from which it was taken if the kina—ais taken by hand-gathering; andbis likely to survive on return. |
 | Kingfish (Seriola lalandi) | All New Zealand fisheries waters | A commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish—ais not taken by the method of set netting; andbis likely to survive; andcis returned to the same waters from which it was taken; anddis returned as soon as practicable; andeis recorded and reported on catch effort landing returns using an appropriate code. |
 | Knobbed whelk (Austrofusus glans) | Quota management areas KWH1, KWH2, KWH3, KWH4, KWH5, KWH6, KWH7A, KWH7B, KWH8, and KWH9 | A commercial fisher may return any knobbed whelk to the waters from which it was taken if—athe knobbed whelk is likely to survive on return; andbthe return takes place as soon as practicable after the knobbed whelk is taken. |
 | Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken if—athat mako shark is likely to survive on return; andbthe return takes place as soon as practicable after the mako shark is taken. |
