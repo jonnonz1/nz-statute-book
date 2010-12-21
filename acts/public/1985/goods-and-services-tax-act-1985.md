@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2010-11-23_
+_Consolidation as at 2010-12-21_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -369,7 +369,7 @@ _Consolidation as at 2010-11-23_
   (b) in the course or furtherance of the registered person's taxable activity:
   Provided that this subsection shall not apply in respect of any payment received pursuant to a contract of insurance where—
     (a) the supply of that contract of insurance is not a supply charged with tax pursuant to section 8(1) of this Act; or
-    (b) that payment is in respect of an entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998) or the Injury Prevention, Rehabilitation, and Compensation Act 2001..
+    (b) that payment is in respect of an entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998) or the Accident Compensation Act 2001..
 (13A) For the purposes of this Act, if a registered person receives any refund of excise duty or excise-equivalent duty paid out of the Crown Bank Account under section 41 of the Land Transport Management Act 2003, that refund is, to the extent that it relates to excise duty or excise-equivalent duty incurred for the principal purpose of making taxable supplies, deemed to be consideration received for a supply of services by that registered person in the course or furtherance of that person's taxable activity.
 (13B) For the purposes of this Act, where—the amount recovered is deemed to be consideration received for a supply of services performed in the course of that insurer's taxable activity, and a supply of services is deemed to be performed on the day of the insurer's receipt of the amount.
   (a) an insurer recovers an amount (other than aggravated or exemplary damages) as a result of the exercise of rights acquired by subrogation under a contract of insurance; and
@@ -619,7 +619,9 @@ This Act shall bind the Crown.
     (i) the supply is agreed by the supplier and the recipient, in writing, to be the supply of a going concern; and
     (ii) the supplier and the recipient intend that the supply is of a taxable activity, or part of a taxable activity, that is capable of being carried on as a going concern by the recipient; or
   (n) the supply of new fine metal, being the first supply of the new fine metal after its refining, by the refiner to a dealer in fine metal, for the purpose of supplying the fine metal for use as an investment item; or
-  (o) the goods are supplied as consideration for a supply that is chargeable at the rate of 0% under section 11A(1)(s) or (t).
+  (o) the goods are supplied to or by the Crown as consideration for a supply—
+    (i) for which there is no payment of a price; and
+    (ii) that is chargeable at the rate of 0% under section 11A(1)(s) or (t).
 (2) For the purpose of subsection (1)(n), if a person is both a refiner of and a dealer in fine metal, the new fine metal is treated as having been supplied to the dealer at a time immediately before the making of an exempt supply of the new fine metal.
 (3) Subsection (1)(a) to (1)(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)(c) in respect of the goods; or
@@ -711,7 +713,9 @@ This Act shall bind the Crown.
     (i) an agreement relating to a project to reduce emissions:
     (ii) a negotiated greenhouse agreement, to a person because the person exceeds the milestone targets under the agreement.
   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under section 63 of the Climate Change Response Act 2002; or
-  (u) the services are supplied as consideration for a supply that is chargeable at the rate of 0% under paragraph (s) or (t); or
+  (u) the services are supplied to or by the Crown as consideration for a supply—
+    (i) for which there is no payment of a price; and
+    (ii) that is chargeable at the rate of 0% under paragraph (s) or (t); or
   (v)
   (w) the supply is a sale or other disposal of services that are a unit—
     (i) issued by reference to the sequestration, or avoidance of emission, of human-induced greenhouse gases; and
@@ -925,7 +929,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (vi) such other particulars as may be prescribed; and
   (b) pay to the Commissioner the amount of tax charged on that supply; and
   (c) furnish to the person whose goods were sold, details of the information shown on the return referred to in paragraph (a) of this subsection,—
-(1B) A return that a person is required to furnish to the Commissioner under subsection (1) must be furnished on or before—
+(1B) The actions required of a person under subsection (1)(a) to (c) must be completed, on or before—
   (a) the 28th of the month following the end of the month in which the relevant sale was made, if paragraphs (b) or (c) do not apply; or
   (b) the 15th day of January, if November is the month in which the relevant sale was made; or
   (c) the 7th day of May, if March is the month in which the relevant sale was made.
@@ -1011,6 +1015,11 @@ The Governor-General may, by Order in Council, specify—
 ### 19D Invoice basis for supplies over $225,000
 (1) A registered person who makes a supply of goods and services for a consideration of more than $225,000 must account for tax payable on an invoice basis for that supply.
 (2) Subsection (1) does not apply if the supply of goods and services is a short term agreement for the sale and purchase of property or services, as that term is defined in section YA 1 of the Income Tax Act 2007, except the reference to 93rd day is to be read as on or before the day that is 1 year.
+(2B) Subsection (1) does not apply if the supplier is a non-profit body that determines on the basis of reasonable information that, at the time of supply, the recipient—
+  (a) is not a registered person; and
+  (b) is either—
+    (i) not intending to use the goods and services for the purposes of carrying on a taxable activity; or
+    (ii) intending to use the goods and services for the purposes of carrying on a taxable activity but only after the full consideration for the supply is paid to the supplier.
 (3) For the purpose of subsection (1), the Commissioner may treat a registered person as having made a supply of goods and services for a consideration of more than $225,000 if—
   (a) the person has made more than one supply and the sum of the consideration for each supply is more than $225,000 irrespective of whether each supply is one to which subsection (2) applies; and
   (b) the Commissioner considers that the person made more than one supply to avoid the application of subsection (1).
@@ -1042,7 +1051,7 @@ The Governor-General may, by Order in Council, specify—
       (iii) shall not apply where the supply of that contract of insurance is a supply charged with tax at the rate of zero percent pursuant to section 11, 11A or 11B of this Act and that other person is, at the time that that payment is made, not a registered person and a non-resident:
       (iv) shall not apply where that payment results from a supply of goods and services to that other person where those goods are situated outside New Zealand or those services are physically performed outside New Zealand at the time of that supply:
       (iva) does not apply if the payment is made to a person who, on the date the payment is made, is not a registered person and is a non-resident:
-      (v) does not apply where that payment is made in respect of any entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998) or the Injury Prevention, Rehabilitation, and Compensation Act 2001; and
+      (v) does not apply where that payment is made in respect of any entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998) or the Accident Compensation Act 2001; and
   (db) an amount equal to the tax fraction of the payment of a recovered amount to which section 5(13B) applies; and
   (da)
   (e) any amount calculated in accordance with sections 21E, 21F, 21G and 21H in relation to any goods and services so applied during that taxable period; and
@@ -1537,6 +1546,10 @@ A registered person who receives a supply of services that is treated by section
     (c)
     (d) any building society registered under the Building Societies Act 1965, in respect of any deposits with the building society:
     (e) any person (not being a person of any of the kinds referred to in paragraphs (a) to (d) of this definition) that is a bank within the meaning of the Banking Act 1982.
+(1B) For the purposes of the definition of amount payable in subsection (1), money that is on deposit or is deposited to the credit of a registered person includes money that—
+  (a) is held in a joint bank account in the name of the registered person and 1 or more other persons; and
+  (b) can be withdrawn from the account by or on behalf of the registered person without a signature or other authorisation being required at the time of the withdrawal from, or on behalf of, the other person or persons.
+(1C) Subsection (1B) does not apply when the joint bank account is an account of a partnership that files a return of income under section 33(1) of the Tax Administration Act 1994.
 (2) Where any registered person has made default in the payment to the Commissioner of any tax or interest or late payment penalty or shortfall penalty payable by the registered person under this Act or the Tax Administration Act 1994, or any part of any such interest or tax or penalty, (collectively referred to in this section as unpaid tax), the Commissioner may from time to time by notice in writing require any person to—and require that person to pay to the Commissioner, within such time as is specified in the notice, every sum so deducted or extracted, to the credit of an account maintained by the Commissioner in relation to that registered person in respect of that unpaid tax.
   (a) deduct or extract, in one sum, from any amount that is, or becomes, an amount payable in relation to that registered person such sum as is equal to the lesser of—
     (i) the amount that, pursuant to the notice, is required to be deducted or extracted:
@@ -1964,7 +1977,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (a) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation liable to be charged with tax or increases the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be increased by that amount of tax charged or chargeable; or
   (b) where the alteration in the law renders the fee, charge, or other amount prescribed, or determined pursuant to, that Act or regulation exempt from tax or reduces the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be exempted from tax or reduced by the amount of tax no longer charged or chargeable:
   Provided that where any such Act or regulation prescribes or determines either a maximum or a minimum amount in respect of any supply of goods and services, that maximum or, as the case may be, minimum amount shall, for the purposes of any such Act or regulation, be deemed to be increased or, as the case may be, decreased, by the amount of tax charged or, as the case may be, tax no longer charged by virtue of this subsection:
-  Provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required to be paid by any public authority to any other person by virtue of that Act or regulation.
+  Provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required by virtue of that Act or regulation to be paid by any public authority to any person other than a public authority.
 (4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and section 94A(1) of the Judicature Act 1908 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 94A(2) of the Judicature Act 1908.
 (5) Where any supply is or becomes charged with tax pursuant to this Act, the amount of any increase in consideration in respect of that supply attributable to the tax charged on that supply shall be recoverable by the supplier from the recipient of the taxable supply.
 (6) This section does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand.
@@ -1991,7 +2004,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
     (iii) is less than or equal to 5 years; and
   (f) the registered person elects that subsection (5) apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner; and
   (g) within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments by the recipient made after the rate change day include goods and services tax charged at the original rate.
-(5) Each successive supply under the agreement that is deemed to take place after the rate change day is charged with tax at the original rate.
+(5) Each successive supply under the agreement that is deemed to take place on or after the rate change day is charged with tax at the original rate.
 (6) Despite section 5(5), subsection (7) applies to a supply of goods under an agreement that is a layby sale to which the Layby Sales Act 1971 applies if—
   (a) the agreement is made before the day on which the increase in the rate of tax is announced; and
   (b) after the rate change day, the goods are delivered to the buyer and the property in the goods is transferred to the buyer; and
@@ -2016,7 +2029,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
 (11) If this subsection applies to a supply for a rate change period and, in the absence of this subsection, the supply would be made on or after the rate change day,—
   (a) the supply is treated as being made on the day before the rate change day; and
   (b) the registered person is treated as issuing a tax invoice as required by section 24 for the supply on the day before the rate change day.
-(12) Despite sections 25(3) and (3C) and 143A(1)(f), subsection (13) applies to a supply by a registered person who has provided a tax invoice in relation to the supply if—
+(12) Despite section 25(3) and (3C), and section 143A(1)(f) of the Tax Administration Act 1994, subsection (13) applies to a supply by a registered person who has provided a tax invoice in relation to the supply if—
   (a) the rate change day occurs after the registered person provides the tax invoice for the supply; and
   (b) in the absence of this subsection and subsection (13), the registered person would be required to provide after the rate change day a credit note or debit note for the supply; and
   (c) the registered person elects that subsection (13) apply to the supply by including on that basis the supply in a return provided to the Commissioner.
