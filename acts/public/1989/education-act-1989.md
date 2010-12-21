@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-21_
 
 > An Act to reform the administration of education
 
@@ -18,6 +18,8 @@ _Consolidation as at 2010-11-29_
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **composite school** has the same meaning as in section 145(1)
   - **correspondence school** has the same meaning as in section 145(1)
+  - **crime involving dishonesty** has the same meaning as in section 2(1) of the Crimes Act 1961
+  - **criteria for registration** , in relation to a private school or proposed private school, means the criteria set out in section 35C
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
@@ -28,20 +30,44 @@ _Consolidation as at 2010-11-29_
     (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
     (b) is for the time being exempted under section 4C
   - **foreign student** , at any time, means a person who is not then a domestic student
+  - **government training establishment** has the same meaning as it has in section 159
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
+  - **industry training organisation** has the same meaning as in section 2 of the Industry Training Act 1992
+  - **institution** has the same meaning as it has in section 159
   - **intermediate school** has the same meaning as in section 145(1)
+  - **lead provider** means a provider of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31F as a lead provider
+  - **managers of a private school** means all the people who control and manage the school, whether or not they have a proprietary interest in it
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part, and Parts 2, 3, and 11
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part, and Parts 2, 3, and 11
   - **overcrowding** , in relation to a school, means the attendance at the school of more students than its site or facilities can reasonably be expected to take
   - **parent** , in relation to any person, means a person who is the person's mother, father, or guardian
+  - **participating student** means a student undertaking a secondary-tertiary programme who is enrolled in any of the following:
+    (a) a secondary school:
+    (b) a composite school:
+    (c) a school that is registered under section 35A, other than a school registered under that section only as a primary school:
+    (d) a special school that is a relevant school within the meaning of section 246
   - **primary school** has the same meaning as in section 145(1)
   - **principal** means the chief executive of a State school or an institution established under this Act; and, in relation to a school or an institution, a person enrolled at a school or institution, or the enrolment of a person at a school or institution, means the principal of the school or institution
+  - **provider group** means a group of providers of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31B as a provider group
+  - **registered establishment** has the same meaning as it has in section 159
   - **registered school** means a school that is a State school, or a school registered under section 35A
+  - **review officer** has the same meaning as it has in section 323
+  - **secondary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of participation in secondary education, whether or not provided by the school in which the participating student is enrolled
   - **secondary school** has the same meaning as in section 145(1)
+  - **secondary-tertiary programme** has the meaning given to it in section 31A
   - **Secretary** means the chief executive of the Ministry
+  - **serious criminal activity** means any offence involving fraud, violence, or harm to children, any sexual offence, or any crime involving dishonesty
   - **special education** means education or help from a special school, special class, special clinic, or special service
   - **State school** means a school that is a primary school, a composite school, a secondary school, or a special school
   - **student** , in relation to a school or institution, means a person enrolled at the school or institution
+  - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 5 of the Modern Apprenticeship Training Act 2000), or participation in tertiary education that—
+    (a) is provided by any 1 or more of the following:
+      (i) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
+      (ii) the managers of a school registered under section 35A, other than a school registered under that section only as a primary school:
+      (iii) a government training establishment:
+      (iv) an institution:
+      (v) a registered establishment; and
+    (b) may include work experience (other than work experience obtained by a student under section 71) as part of the programme that is approved by the provider of the secondary or tertiary component of the programme
   - **walking distance** , in relation to travel between a person's residence and a school,—
     (a) where there is no public transport that the person can conveniently use, means the distance (measured along the most direct route by public road, public footpath, or combination of both) between the residence and the school; and
     (b) where in both directions there is public transport that the person can conveniently use, means the sum of the following distances (each measured along the most direct route by public road, public footpath, or combination of both) or, where the sum is greater in one direction than the other, the greater sum:
@@ -127,6 +153,12 @@ The Minister may, by notice in the Gazette, exempt foreign students of a particu
 (3A) The Minister may pay to the proprietors of an integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (3B), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
 (3B) The Minister must, by notice in the Gazette, prescribe a formula for the payment of money under subsection (3A), and may prescribe different formulae to apply to different schools or classes of school.
 (4) If before 1 July in any year the Minister has not set under subsection (1) fees to be paid by boards in respect of foreign students enrolled at State schools in the following year, there shall be deemed to have been set under that subsection the fees set (or deemed to have been set) in the year before.
+
+### 4E Courses for foreign students
+(1) The board of a State school or the managers of a school registered under section 35A must not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme, intended exclusively or mainly for foreign students, unless the class, course, or programme is for the time being approved by the New Zealand Qualifications Authority.
+(2) The New Zealand Qualifications Authority must not approve a class, course, or programme under subsection (1) unless satisfied on reasonable grounds that—
+  (a) the school has or will have adequate staff, equipment, and premises to provide it; and
+  (b) the standard of instruction provided in it will be no lower than the standard that would be expected in any similar class, course, or programme for domestic students.
 
 ### 5 Restrictions on enrolment at primary school
 (1) No person under 5 shall be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school.
@@ -303,9 +335,10 @@ In sections 11C to 11PB, unless the context otherwise requires,—
   (a) first priority must be given to any applicant who is accepted for enrolment in a special programme run by the school:
   (b) second priority must be given to any applicant who is the sibling of a current student of the school:
   (c) third priority must be given to any student who is the sibling of a former student of the school:
-  (d) fourth priority must be given to any applicant who is a child of an employee of the board of the school:
-  (e) fifth priority must be given to all other applicants.
-(2) If there are more applicants in the second, third, fourth, or fifth priority groups than there are places available, selection within the priority group must be by ballot conducted in accordance with instructions issued by the Secretary under section 11G.
+  (d) fourth priority must be given to any applicant who is a child of a former student of the school:
+  (e) fifth priority must be given to any applicant who is either a child of an employee of the board of the school or a child of a member of the board of the school:
+  (f) sixth priority must be given to all other applicants.
+(2) If there are more applicants in the second, third, fourth, fifth, or sixth priority groups than there are places available, selection within the priority group must be by ballot conducted in accordance with instructions issued by the Secretary under section 11G.
 (3) For the purposes of this section, child A is the sibling of child B if—
   (a) both children share a common parent; or
   (b) a parent of child A is married to, or in a civil union with, a parent of child B; or
@@ -692,7 +725,7 @@ For so long as a certificate under section 21 or section 22 continues in force�
 (3) For the purposes of this section, a student attends a school on any day if, on the day,—
   (a) it has been open for instruction for 4 hours or more; and
   (b) the student has been present for 4 hours or more when it was open for instruction.
-(4)
+(4) Nothing in subsections (1) to (3) applies to a participating student who is enrolled at a registered school for the purposes of the secondary component of his or her secondary-tertiary programme, but he or she must attend the school for any portion of the programme as notified by the provider group or lead provider under section 31J.
 
 ### 25A Release from tuition on religious or cultural grounds
 (1) A student aged 16 and above, or the parent of a student aged under 16, may ask the principal to release the student from tuition in a particular class or subject.
@@ -765,10 +798,12 @@ The principal of a State school—
 ### 30 Employment of school-age children
 (1) No person shall employ any person who has not turned 16 at any time—unless there has been produced to the employer a certificate of exemption, or other satisfactory evidence that the person is exempted (otherwise than under section 21(1)) from enrolment at any school.
   (a) within school hours; or
+  (ab) in the case of a person who is a student participating in a secondary-tertiary programme, when the employment interferes with the person's ability to undertake the secondary-tertiary programme; or
   (b) in the case of a person enrolled at a correspondence school, when the employment interferes with the person's ability to do the work of the course in which the student is enrolled; or
   (c) in the case of a person who has been granted a certificate of exemption under section 21, when the employment interferes with the person's ability to be taught as well and regularly as in a registered school; or
   (d) if the employment then—
     (i) prevents or interferes with the person's attendance at school; or
+    (ia) in the case of a person who is a participating student, interferes with the person's ability to undertake his or her secondary-tertiary programme; or
     (ii) in the case of a person enrolled at a correspondence school, interferes with the person's ability to do the work of the course in which the person is enrolled,—
 (2) Every person who—commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
   (a) being a parent of any other person, permits the other person to be employed contrary to subsection (1); or
@@ -785,6 +820,99 @@ The principal of a State school—
 (6) A person who, after an attendance officer has produced evidence of appointment, obstructs or interferes with the officer in the exercise of powers under this section, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
 (7) Any attendance officer, a principal, the Secretary, or any person appointed by a board or the Secretary for the purpose may lay informations, conduct prosecutions, and take any other proceedings, under this Part.
 (8) A certificate sealed by a board showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate; and the authenticity of, and validity of the affixing of, a board's seal shall not in any proceedings under this Part be inquired into or disputed.
+(9) This section applies to a participating student only in relation to any portion of his or her secondary-tertiary programme during which he or she is required to attend school, as notified by the provider group or lead provider under section 31J.
+
+### 31A Nature of secondary-tertiary programme
+A secondary-tertiary programme means a full-time programme for a participating student that—
+  (a) consists of a secondary component and a tertiary component; and
+  (b) is co-ordinated by a provider group or a lead provider.
+
+### 31B Provider group for secondary-tertiary programme
+(1) The Minister may, by notice in the Gazette, recognise as a provider group of secondary-tertiary programmes a group of organisations that consists of—
+  (a) any 1 or more of the following:
+    (i) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
+    (ii) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school; and
+  (b) any 1 or more of the following:
+    (i) a government training establishment:
+    (ii) an industry training organisation:
+    (iii) an institution:
+    (iv) a registered establishment.
+(2) Each member of a provider group is jointly and severally liable with the other members of the group in respect of the group's obligations and responsibilities.
+(3) Each member of a provider group must take all reasonable steps to work in a co-operative manner with the other members of the group.
+
+### 31C Secretary may enter into agreement with provider group
+(1) A provider group may co-ordinate a secondary-tertiary programme, if the provider group has entered into a written agreement with the Secretary in relation to the programme.
+(2) The matters that an agreement under subsection (1) may provide for, in relation to a secondary-tertiary programme, may include (without limitation) any 1 or more of the following:
+  (a) its organisation and operation:
+  (b) its curriculum, courses, and any qualification resulting from it:
+  (c) selection of students to participate in it:
+  (d) clarification of responsibility for the welfare and educational performance of participating students:
+  (e) pastoral care and career guidance for participating students:
+  (f) its funding, and the responsibility of specific members of the provider group in relation to that funding:
+  (g) the maximum number of students that may participate in it.
+(3) The Secretary and the provider group may agree at any time to cancel or vary an agreement under subsection (1).
+(4) The Secretary or the provider group may cancel an agreement under subsection (1) by giving at least 6 months' notice in writing to the provider group or the Secretary (as the case may be).
+
+### 31D Provider group plan for secondary-tertiary programme
+(1) A provider group must—
+  (a) prepare and maintain a plan that contains short-term and long-term goals for each secondary-tertiary programme that it co-ordinates; and
+  (b) provide the Secretary with a copy of the plan.
+(2) A provider group that alters any plan provided to the Secretary under subsection (1)(b) must provide the Secretary with a copy of the changed plan as soon as practicable.
+
+### 31E Report to Secretary by provider group
+(1) A provider group must report at least annually to the Secretary regarding its performance and progress.
+(2) The Secretary may, by notice in the Gazette, specify the format, or content, or both, required for reports that are to be made under subsection (1).
+
+### 31F Recognition as lead provider of secondary-tertiary programme
+The Minister may, by notice in the Gazette, recognise as a lead provider of secondary-tertiary programmes any of the following:
+  (a) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
+  (b) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school:
+  (c) a government training establishment:
+  (d) an industry training organisation:
+  (e) an institution:
+  (f) a registered establishment.
+
+### 31G Lead provider to co-ordinate secondary-tertiary programme
+(1) A lead provider may co-ordinate a secondary-tertiary programme, if the lead provider has made an arrangement for the safety, welfare, and educational programmes of participating students that is—
+  (a) agreed to by the Secretary; or
+  (b) in a form approved by the Secretary.
+(2) Any of the following may provide a secondary component or a tertiary component of a secondary-tertiary programme, after making an arrangement as specified in subsection (1) with the lead provider of the programme:
+  (a) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
+  (b) the managers of a school registered under section 35A, other than a school registered under that section only as a primary school:
+  (c) a government training establishment:
+  (d) an institution:
+  (e) a registered establishment:
+  (f) an employer providing work experience under the programme.
+(3) The Secretary may withdraw his or her agreement under subsection (1)(a), or his or her approval under subsection (1)(b), by giving at least 6 months' notice in writing to the lead provider.
+
+### 31H Government policies or priorities
+(1) The Minister may, by notice in the Gazette, publish government policies, or priorities, or both that apply in relation to any 1 or more of the following:
+  (a) secondary-tertiary programmes:
+  (b) provider groups, or specified types of provider groups:
+  (c) lead providers, or specified types of lead providers.
+(2) The Minister may, by written notice to a provider group or lead provider, issue a government policy or priority that applies in relation to the group or provider.
+(3) A provider group or lead provider must take all reasonable steps to comply with any government policy or priority—
+  (a) published under subsection (1); or
+  (b) notified under subsection (2).
+(4) In this section, comply means to give effect to the government policy or priority or to have regard to the government policy or priority, as the context requires.
+
+### 31I Entry into secondary-tertiary programme
+(1) A student who is enrolled in any of the following may apply to a provider group or lead provider for his or her entry into a secondary-tertiary programme:
+  (a) a secondary school:
+  (b) a composite school:
+  (c) a school that is registered under section 35A, other than a school registered under that section only as a primary school:
+  (d) a special school that is a relevant school within the meaning of section 246.
+(2) Approval for a student's entry into a secondary-tertiary programme is at the discretion of the provider group or lead provider.
+
+### 31J Provider group or lead provider to notify student and parents about any school attendance requirement
+The provider group or lead provider co-ordinating a participating student's secondary-tertiary programme must take all reasonable steps to notify the student and his or her parents in writing about any portion of the programme during which the student's participation in the programme requires his or her attendance at school.
+
+### 31K Withdrawal from secondary-tertiary programme
+(1) A participating student may withdraw from his or her secondary-tertiary programme at any time.
+(2) A provider group or lead provider (as the case may be) may withdraw its approval for a student's participation in a secondary-tertiary programme after consulting with the student.
+
+### 31L Foreign students and secondary-tertiary programmes
+A provider group or lead provider must not approve the entry of a foreign student (other than an exempt student) into a secondary-tertiary programme if to do so would result in the provider excluding from entry to the programme any domestic student, or any exempt student, who has applied for entry into the programme and is otherwise eligible to participate in the programme.
 
 ### 32 Hearings of proceedings may be private
 If the District Court Judge concerned so orders, proceedings under this Part shall be held with closed doors.
@@ -807,80 +935,190 @@ In proceedings under this Part of this Act, the burden of proving any of the fol
 ### 35 Fines to be paid to boards
 Every fine recovered under this Part shall be paid to the board on whose behalf the proceedings concerned were commenced.
 
-### 35A Registration and inspection of private schools
-(1) In this section,—
-  - **efficient** , in relation to a private school or proposed private school, means—
-    (a) having suitable premises, staffing, equipment, and curriculum; and
-    (b) usually providing tuition for 9 or more students who have turned 5 but are under 16; and
-    (c) providing suitably for the inculcation in the minds of students of sentiments of patriotism and loyalty; and
-    (d) giving students tuition of a standard no lower than that of the tuition given to students enrolled at—
-      (i) primary schools of the same class, where the school's managers want it to be registered as a primary private school:
-      (ii) secondary schools of the same class, where the school's managers want it to be registered as a secondary private school:
-      (iii) special schools of the same class, where the school's managers want it to be registered as a special private school
-  - **managers** , in relation to a private school or proposed private school, means all the people who control and manage it, whether or not they have a proprietary interest in it.
-(2) No premises shall be deemed not to be operating as a school by reason only of the fact that certificates of exemption under section 21 are held in respect of all or any of the students being taught there.
-(3) The managers of an unregistered or proposed private school may apply to the Secretary for its provisional registration as a primary, secondary, or special private school, or as a school of 2 or all of those descriptions.
-(4) If satisfied that the premises, staffing, equipment, and curriculum of a school or proposed school in respect of which an application is made under subsection (3) are or are likely to be suitable, the Secretary shall provisionally register the school as a school of the description or descriptions concerned.
-(5) Provisional registration of a school or proposed school shall (unless earlier revoked) continue in force for 12 months only, and then expire.
-(6) As soon as is practicable after provisionally registering a school or proposed school, the Secretary shall tell the Chief Review Officer.
-(7) Unless a proposed school has not in fact been established, the Chief Review Officer shall—ensure that a review officer reviews the school in action, and prepares a written report on the review to the Secretary and the school's managers.
-  (a) between 6 and 12 months after the provisional registration of a school or proposed school; or
-  (b) by agreement with its managers, earlier,—
-(8) If satisfied, having considered the review officer's report, that a provisionally registered school is efficient, the Secretary shall fully register the school as a school of the description or descriptions concerned.
-(9) The Chief Review Officer must ensure that—
-  (a) a school, while registered under this section, is reviewed in accordance with Part 28; and
-  (b) the review officer who conducts a review—
-    (i) prepares a written report on the review; and
-    (ii) gives copies of it to the Secretary and the school's principal (or other chief executive) and managers.
-(10) Subject to subsection (11), the Secretary may at any time cancel a school's registration under this section.
-(11) The Secretary shall not cancel a school's registration under this section unless, after having—the Secretary is not satisfied that the school is efficient.
-  (a) taken all reasonable steps to get all the relevant information; and
-  (b) considered a report on the school from a review officer,—
-(12) Where—the school's managers commit an offence against this Act, and shall be liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
-  (a) a school that is not a registered school operates as a school; or
-  (b) a school registered under this section as a school of a particular description or descriptions operates as a school of another description; or
-  (c) a school registered under this section whose managers have not told the Secretary that it will stop operating does not operate,—
-(13) Every school that, on 31 December 1989 was or was deemed to be fully or provisionally registered under section 186 of the Education Act 1964 as a school of a particular description or descriptions, shall be deemed to have been fully or provisionally (as the case may be) registered under this section on 1 January 1990 as a school of that description or those descriptions.
-(14) The managers of a private school where more than 29 foreign students are (or, as the case may be, will be) enrolled shall pay to the Chief Review Officer (on written demand by the Chief Review Officer, and as a debt due to the Chief Review Officer) a proportion of the cost to the Education Review Office of every review of the school undertaken by the Education Review Office under this Act bearing the same relation to its total cost as the number of foreign students enrolled (or to be enrolled) there bears to the total number of students enrolled (or to be enrolled) there.
+**Registration of private schools**
+
+### 35A Provisional and full registration of private schools
+(1) The managers of an unregistered or proposed private school must apply to the Secretary, on a form provided by the Secretary for the purpose, for its provisional registration as a primary, secondary, or special private school, or as a school of 2 or all of those descriptions.
+(2) The Secretary must provisionally register a school in respect of which an application is made under subsection (1) as a school of the description or descriptions concerned if he or she is satisfied that the school or proposed school meets or is likely to meet the criteria for registration as a private school.
+(3) Provisional registration of a school or proposed school continues—
+  (a) for 12 months (unless it is revoked earlier); or
+  (b) until the expiry of any period specified by the Secretary under subsection (4).
+(4) The Secretary may renew the provisional registration of a school only once, for a period specified by the Secretary, if he or she is satisfied that—
+  (a) exceptional circumstances exist in relation to the school; and
+  (b) the school is likely to meet the criteria for registration as a private school in that period.
+(5) The Secretary may request a further review, in addition to the review under section 35I(2), of a school that has its provisional registration renewed under subsection (4).
+(6) The Secretary must fully register a school as a school of the description or descriptions concerned if he or she is satisfied, having considered any report under section 35I(4) in relation to a review under section 35I(2) or (3) (as the case may be), that a provisionally registered school meets the criteria for registration as a private school.
 
 ### 35AA Suspensions and expulsions of students from private schools to be notified to Secretary
-(1) Immediately after a student has been suspended from attendance at, or expelled from a school registered under section 35A, the school's principal or head teacher must give the Secretary—
+[Repealed]
+
+### 35B Secretary may require application for registration of school
+The Secretary may require the managers of a school that is not registered under section 35A to apply for its registration under that section if he or she considers that the school is operating as a school, whether or not certificates of exemption under section 21 are held in respect of all or any of the students being taught there.
+
+**Criteria for registration as private school**
+
+### 35C Criteria for registration as private school
+The criteria for registration as a private school under section 35A are that the school—
+  (a) has premises that are suitable, as described in section 35D; and
+  (b) usually provides tuition for 9 or more students who are of or over the age of 5 years but are under the age of 16 years; and
+  (c) has staffing that is suitable to the age range and level of its students, the curriculum taught at the school, and the size of the school; and
+  (d) has equipment that is suitable for the curriculum being delivered or to be delivered at the school; and
+  (e) has a curriculum for teaching, learning, and assessment and makes details of the curriculum and its programme for delivery available for parents; and
+  (f) has suitable tuition standards, as described in section 35F; and
+  (g) has managers who are fit and proper persons (as described in section 35G) to be managers of a private school.
+
+### 35D Suitable premises
+(1) Suitable premises for a school registered under section 35A are premises that are suitable for a school of its description and the number of students at the school.
+(2) Subsection (1) applies to all premises used by the school for the regular delivery of courses, whether or not the managers of the school own or lease the premises for the school.
+
+### 35E Additional and substituted premises to be approved
+(1) The managers of a school registered under section 35A must, in the circumstances set out in subsection (2), notify the Secretary and obtain his or her approval before using new premises for the regular delivery of courses.
+(2) The circumstances are that the managers of the school propose that the school is to occupy—
+  (a) premises that are in addition to its current premises; or
+  (b) different premises that are to replace the premises currently occupied by the school.
+(3) When considering whether to grant approval of premises under subsection (1), the Secretary must consider whether the premises are suitable, as described in section 35D.
+
+### 35F Tuition standards
+(1) Tuition of a suitable standard at a school registered under section 35A must include giving students tuition of a standard no lower than that of the tuition given to students enrolled at State schools of the same class levels.
+(2) In assessing the standard of tuition, the mode of curriculum delivery and the regularity of instruction must be considered.
+
+### 35G Managers to be fit and proper persons
+(1) In assessing whether a person who is a manager of a school is a fit and proper person to be a manager of a school registered under section 35A, the following matters must be taken into account:
+  (a) any conviction for a serious criminal activity:
+  (b) any health problems that may affect the person's ability to comply with his or her obligations towards the school and its students:
+  (c) any adjudication of bankruptcy under the Insolvency Act 2006 or the Insolvency Act 1967, or prohibition from being a director or promoter of, or being concerned or taking part in the management of, a company under any of sections 382, 383, 385, and 386A of the Companies Act 1993:
+  (d) any previous cancellation under this Act or section 186 of the Education Act 1964 of the registration of a school of which the person was a manager:
+  (e) any serious breach of the person's statutory duties as manager of a school registered under section 35A of this Act or section 186 of the Education Act 1964:
+  (f) any conviction for an offence under section 35R:
+  (g) all other relevant matters.
+(2) If the manager of a school is—
+  (a) a company, the assessment under subsection (1) applies to its directors:
+  (b) an incorporated society or an incorporated trust board, the assessment under subsection (1) applies to its members.
+(3) When the management of a school registered under section 35A changes in its entirety or is transferred to a new entity, the new managers must give notice to the Secretary and an assessment under subsection (1) must be made of the new managers of the school.
+
+**Managers to advise Secretary of private school ceasing operation**
+
+### 35H Managers must advise Secretary of school ceasing operation
+The managers of a school registered under section 35A that is about to cease to operate as a school must inform the Secretary—
+  (a) that the school will cease to operate as a school; and
+  (b) of the date on which the school will cease to operate as a school.
+
+**Review of private schools registered under section 35A**
+
+### 35I Review of schools registered under section 35A
+(1) As soon as practicable after provisionally registering a school or proposed school under section 35A(2), the Secretary must inform the Chief Review Officer of the provisional registration.
+(2) The Chief Review Officer must ensure that a review officer reviews any school that is provisionally registered under section 35A(2) either—
+  (a) between 6 and 12 months after the provisional registration of the school or proposed school; or
+  (b) earlier, by agreement with its managers.
+(3) The Chief Review Officer must ensure that a review officer conducts a further review of a school that has had its provisional registration renewed under section 35A(4), when the further review is requested by the Secretary under section 35A(5).
+(4) The Chief Review Officer must ensure that a review officer who conducts a review under subsection (2) or (3) prepares a written report in relation to the review and gives copies of it to the Secretary and the school's manager.
+(5) The Chief Review Officer must ensure that a school, while registered under section 35A(6), is reviewed in accordance with Part 28.
+(6) The Chief Review Officer must also ensure that the review officer who conducts a review under subsection (5)—
+  (a) prepares a written report on the review; and
+  (b) gives copies of it to the Secretary and the school's principal (or other chief executive) and managers.
+(7) A review officer's written report on a review under this section must also include—
+  (a) information as to whether the school meets the criteria for registration as a private school; and
+  (b) information as to the areas in which improvement is required, if it does not meet the criteria.
+
+**Actions by Secretary in regard to schools registered under section 35A**
+
+### 35J Secretary's actions in regard to schools registered under section 35A
+(1) The Secretary may take action in regard to a school registered under section 35A if—
+  (a) he or she considers that the school is not meeting all or any of the criteria for registration as a private school; or
+  (b) a review conducted under section 35I indicates that the school does not, or is not likely to, meet all or any of the criteria for registration as a private school; or
+  (c) the managers of the school have breached or are breaching their statutory duties in relation to the school under this or any other enactment; or
+  (d) he or she has reasonable grounds to believe that serious criminal activity is occurring in the school.
+(2) If the Secretary is satisfied that any 1 or more of the grounds set out in subsection (1) exist in relation to a school registered under section 35A, he or she may do any 1 or more of the following:
+  (a) issue the school's managers with a notice to comply:
+  (b) require the managers of a school to inform parents of the students at the school that the school is not meeting the criteria for registration as a private school:
+  (c) impose conditions on the school's registration:
+  (d) impose a requirement or requirements under any 1 or more of paragraphs (a) to (c), and suspend the school's registration:
+  (e) cancel the school's registration under section 35M.
+(3) Any action taken by the Secretary under subsection (2)—
+  (a) must be proportionate to the seriousness of the school's situation; and
+  (b) is in addition to any fine incurred or other penalty imposed under section 35R or under any other enactment.
+
+### 35K Suspension of registration if welfare of students may be at risk
+The Secretary may at any time suspend the registration of a school registered under section 35A if he or she has reasonable grounds to believe that the welfare of the students at the school is at risk, and—
+  (a) that it is unlikely that the risk can be managed by any practicable means other than by suspension of the registration; or
+  (b) that, although the risk could be managed by means other than by suspension of the registration, the amount of time necessary to do so is likely, in the opinion of the Secretary, to be excessive.
+
+### 35L Duration of suspension
+(1) Suspension under section 35J(2)(d) continues until the Secretary—
+  (a) is satisfied that the managers of the school have complied with all requirements imposed by him or her under any of paragraphs (a) to (c) of section 35J(2); or
+  (b) cancels the school's registration under section 35M.
+(2) Suspension under section 35K continues until the Secretary—
+  (a) is satisfied that the welfare of the students at the school is no longer at risk; or
+  (b) cancels the school's registration under section 35M, after taking action under section 35J(2).
+
+### 35M Process for cancellation of registration
+(1) The Secretary may cancel the registration of a school if, following an action by him or her taken under any of paragraphs (a) to (d) of section 35J(2),—
+  (a) the school—
+    (i) does not improve sufficiently to meet the criteria for registration under section 35A; and
+    (ii) is not likely to do so, in the opinion of the Secretary, within a further reasonable time; or
+  (b) the managers of the school are continuing in breach of their statutory duties in relation to the school; or
+  (c) serious criminal activity continues to occur in the school.
+(2) Before cancelling a school's registration under subsection (1), the Secretary must—
+  (a) take reasonable steps to obtain and consider any relevant information, including any report by a review officer; and
+  (b) give written notice to the managers of the school that he or she is considering cancelling the school's registration, and give reasons; and
+  (c) give the managers of the school a reasonable opportunity to respond to the notice.
+
+**Grants for private schools**
+
+### 35N Grants for private schools
+(1) The Minister may make grants to the managers of schools registered under section 35A out of money appropriated by Parliament for the purpose.
+(2) The Minister must determine the amount of each grant made under subsection (1).
+(3) A grant may be made unconditionally, or subject to conditions determined by the Minister.
+(4) The managers of a school to which a grant is made subject to conditions must take all reasonable steps to ensure that the conditions are complied with.
+
+### 35O Record-keeping in relation to grants to private schools
+(1) The managers of a school to which a grant has been made unconditionally under section 35N must ensure that records are kept—
+  (a) in respect of the year in which the grant was made and the year after; and
+  (b) in a manner approved by the Minister.
+(2) The records must—
+  (a) show fully and correctly all the managers' financial transactions, assets, liabilities, and funds; and
+  (b) be available for inspection at all reasonable times by any employee of the Ministry approved by the Secretary for the purpose.
+(3) The managers of a school to which a grant under section 35N has been made subject to conditions must ensure that all necessary records are kept—
+  (a) in respect of the year in which the grant was made and the year after; and
+  (b) in a manner approved by the Minister.
+(4) The records must—
+  (a) show fully and fairly—
+    (i) any of the managers' financial transactions, assets, liabilities, and funds, that relate to or are or were affected by the making of the grants; and
+    (ii) that the conditions have been complied with; and
+  (b) be available for inspection at all reasonable times by any employee of the Ministry approved by the Secretary for the purpose.
+(5) For the purposes of this section and section 35P, the financial year of a school's managers ends—
+  (a) at the close of the day specified by the Minister for the purpose; or
+  (b) at the close of 30 June, if the Minister has not specified a day for the purpose.
+
+### 35P Providing accounts to Secretary
+As soon as practicable after the end of each financial year during which a school's managers are required by section 35O to keep records, they must—
+  (a) have prepared an income and expenditure account, showing all financial transactions for the year records of which are required to be kept; and
+  (b) have the account audited by a chartered accountant; and
+  (c) give the Secretary copies of the account and the audit report on it.
+
+**Suspensions and expulsions from private schools**
+
+### 35Q Suspensions and expulsions of students from private schools to be notified to Secretary
+(1) Immediately after a student has been suspended from attendance at, or expelled from, a school registered under section 35A, the school's principal or head teacher must give the Secretary—
   (a) written notice of—
     (i) the student's name and last known address; and
-    (ii) the day on which the student was suspended or expelled (or, if the student was first suspended and later expelled, the days on which the student was suspended and expelled, and the length of the suspension (if applicable)); and
+    (ii) the day on which the student was suspended or expelled or, if the student was first suspended and later expelled, the days on which the student was suspended and expelled, and the length of the suspension; and
   (b) a written statement of the reasons for the student's suspension or expulsion.
 (2) Unless the student is within a reasonable time reinstated at the school or enrolled at some other registered school, the Secretary must (if the student is younger than 16) and may (if the student is 16 or older)—
   (a) arrange for the student to be enrolled at some other reasonably convenient registered school that the student can attend; or
-  (b) direct the board of a State school (that is not an integrated school) to enrol the student at the school; and, in that case, the board must do so; or
+  (b) direct the board of a State school that is not an integrated school to enrol the student at the school; and, in that case, the board must do so; or
   (c) direct a parent of the student to have the student enrolled at a correspondence school.
-(3) The Secretary may not give a direction under subsection (2) unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
+(3) The Secretary must not give a direction under subsection (2) unless he or she has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
 (4) A direction under subsection (2)(b) overrides section 11M.
+(5) To the extent that there is any inconsistency between this section and a contract of enrolment at the school, this section prevails.
 
-### 35B Courses for foreign students
-The board (or, in the case of a school that is not a State school, the governing body) of a registered school shall not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme, intended exclusively or mainly for foreign students, unless the class, course, or programme, is for the time being approved by the New Zealand Qualifications Authority, which shall not approve it unless satisfied on reasonable grounds that—
-  (a) the school has or will have adequate staff, equipment, and premises to provide it; and
-  (b) the standard of instruction provided in it will be no lower than the standard that would be expected in any similar class, course, or programme for domestic students.
+**Offences in relation to private schools**
 
-### 35C Grants for private schools
-(1) Grants may be made to the managers (within the meaning of section 35A(1)) of a registered school that is not a State school, out of public money appropriated by Parliament for the purpose.
-(2) Each grant shall be of an amount determined by the Minister.
-(3) A grant may be made unconditionally, or subject to conditions determined by the Minister.
-(4) The managers of a school to whom a grant is made subject to conditions shall take all reasonable steps to ensure that the conditions are complied with.
-(5) Where a grant has been made unconditionally to the managers of a school, the managers shall ensure that—
-  (a) there are kept (in respect of the year in which the grant was made and the year after), in a manner approved by the Minister, records showing fully and correctly all the managers' financial transactions, assets, liabilities, and funds; and
-  (b) the records are available for inspection at all reasonable times by any employee of the Ministry approved by the Secretary for the purpose.
-(6) Where a grant has been paid to the managers of a school subject to conditions, the managers shall ensure that—
-  (a) there are kept (in respect of the year in which the grant was made and the year after), in a manner approved by the Minister all records necessary to show fully and fairly—
-    (i) such of the managers' financial transactions, assets, liabilities, and funds, as relate to or are or were affected by the making of the grants; and
-    (ii) that the conditions have been complied with:
-  (b) the records are available for inspection at all reasonable times by any employee of the Ministry approved by the Secretary for the purpose.
-(7) As soon as is practicable after the end of each financial year during which a school's managers are required by subsection (5) or subsection (6) to keep records, they shall—
-  (a) have prepared an income and expenditure account, showing all financial transactions for the year records of which are required to be kept by paragraph (a) of that subsection; and
-  (b) have the account audited by a chartered accountant; and
-  (c) give the Secretary copies of the account and the audit report on it.
-(8) For the purposes of this section, the financial year of a school's managers ends—
-  (a) where the Minister has specified a day for the purpose, with that day; and
-  (b) with 30 June in every other case.
+### 35R Offences in relation to operation of private schools
+(1) A manager of a private school that is not registered under section 35A commits an offence if it operates as a school.
+(2) A manager of a private school that is registered under section 35A as a school of a particular description or descriptions commits an offence if the school operates as a school of another description or of other descriptions.
+(3) The managers of a private school that is registered under section 35A commit an offence if the school ceases to operate before the managers tell the Secretary that it will cease to operate.
+(4) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
 
 ## Part 4 — Specialist Education Services Board
 
@@ -1405,16 +1643,16 @@ The principal of a State school shall take all reasonable steps to ensure that�
   (a) access to the written and recorded work of students enrolled there; and
   (b) meeting and talking with students enrolled there.
 
-### 78B Entry where school suspected of being unregistered
-(1) A person who holds an authorisation under section 78A(2), and who has reasonable cause to believe that any premises are being used as a school in contravention of section 35A(12), may apply for a warrant to enter the premises.
+### 78B Entry where private school suspected of being unregistered
+(1) A person who holds an authorisation under section 78A(2), and who has reasonable cause to believe that any premises are being used as a private school in contravention of section 35R, may apply for a warrant to enter the premises.
 (2) An application for a warrant must be in writing, on oath, and be made to a District Court Judge, Justice of the Peace, or Registrar or Deputy Registrar of any court.
-(3) A warrant may be issued on an application under subsection (1) if the person issuing it is satisfied that there is reasonable cause to believe that the premises are being used as a school in contravention of section 35A(12).
+(3) A warrant may be issued on an application under subsection (1) if the person issuing it is satisfied that there is reasonable cause to believe that the premises are being used as a private school in contravention of section 35R.
 (4) A warrant issued under subsection (3) must contain—
   (a) a reference to this section; and
   (b) the full name of the person authorised; and
   (c) a description of the premises concerned; and
   (d) the date on which it was issued and the date on which it expires.
-(5) A warrant issued under subsection (3) must authorise the person named in it, at any reasonable time within 4 weeks of the date on which it is issued, to enter and inspect the premises described in the warrant to ascertain whether those premises are being used as a school in contravention of section 35A(12).
+(5) A warrant issued under subsection (3) must authorise the person named in it, at any reasonable time within 4 weeks of the date on which it is issued, to enter and inspect the premises described in the warrant to ascertain whether those premises are being used as a private school in contravention of section 35R.
 (6) A person acting under a warrant under subsection (3) must retain the warrant and must show it, along with evidence of identity, to the occupier of the premises concerned—
   (a) on first entering the premises; and
   (b) whenever subsequently reasonably required to do so by that occupier.
@@ -2282,7 +2520,7 @@ Every reference in any—to the school committee, committee of management, or bo
 
 ### 120 Interpretation
 In this Part and Schedule 7, unless the context otherwise requires,—
-  - **authorisation** , in relation to any person, means the entry of the person's name on the list of authorised persons; and has a corresponding meaning
+  - **authorisation** , in relation to any person, means the entry of the person's name on the list of authorised people; and has a corresponding meaning
   - **early childhood education and care service** means—
     (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
     (b) any other early childhood service that is declared by regulations made under section 69(2) of the Education Standards Act 2001 to be an early childhood education and care service for the purposes of this Part
@@ -2318,24 +2556,28 @@ In this Part and Schedule 7, unless the context otherwise requires,—
 **Restrictions on appointment and employment of teaching staff**
 
 ### 120A Restrictions on appointment of teachers
-(1) No employer shall appoint to any teaching position—
+(1) An employer must not appoint to a teaching position—
   (a) any person—
-    (i) whose registration as a teacher has been cancelled; and
-    (ii) who has not since been registered as a teacher again; or
-  (b) any person whose authorisation has been cancelled, and who has not since—
-    (i) been granted an authorisation again; or
-    (ii) been registered as a teacher.
+    (i) whose registration has been cancelled; and
+    (ii) who has not since been registered again; or
+  (b) any person whose practising certificate is suspended under section 139AU or 139AW(1)(d); or
+  (c) any person whose authorisation has been cancelled, and who has not since—
+    (i) been authorised again; or
+    (ii) been registered as a teacher; or
+  (d) any person whose limited authority to teach is suspended under section 139AU or 139AW(1)(d).
 (2) No employer shall permanently appoint to any teaching position any person who does not hold a practising certificate.
 (3)
 
 ### 120B Restrictions on continued employment of teachers
-(1) No employer shall continue to employ in any teaching position—
+(1) An employer must not continue to employ in a teaching position—
   (a) any person—
-    (i) whose registration as a teacher has been cancelled; and
-    (ii) who has not since been registered as a teacher again; or
-  (b) any person whose authorisation has been cancelled, and who has not since—
-    (i) been granted an authorisation again; or
-    (ii) been registered as a teacher.
+    (i) whose registration has been cancelled; and
+    (ii) who has not since been registered again; or
+  (b) any person whose practising certificate is suspended under section 139AW(1)(d); or
+  (c) any person whose authorisation has been cancelled, and who has not since—
+    (i) been authorised again; or
+    (ii) been registered as a teacher; or
+  (d) any person whose limited authority to teach is suspended under section 139AW(1)(d).
 (2) No employer shall continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
 (3) No employer shall in any calendar year continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if the sum of—is not less than the period specified in subsection (4).
   (a) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
@@ -2345,6 +2587,15 @@ In this Part and Schedule 7, unless the context otherwise requires,—
   (a) 20 half-days; or
   (b) any greater number of half-days the Teachers Council has allowed in any particular case,—
 (5)
+
+### 120C Restrictions on activities of teachers whose practising certificate or limited authority to teach subject to interim suspension
+(1) This subsection applies to a person employed in a teaching position if—
+  (a) he or she holds a practising certificate that is suspended under section 139AU; or
+  (b) he or she has a limited authority to teach that is suspended under section 139AU.
+(2) While subsection (1) applies to a person, his or her employer—
+  (a) must ensure that he or she does not carry out any of the duties of the teaching position concerned; and
+  (b) if the person is employed at a registered school (within the meaning of section 2(1)) or an early childhood education and care service, must take all reasonably practicable steps to ensure that he or she does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service.
+(3) While subsection (1) applies to a person, he or she must not carry out any of the duties of the teaching position concerned.
 
 **Teacher registration**
 
@@ -2444,9 +2695,9 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
   (a) the Teachers Council, in regard to people employed in teaching positions, to identify—
     (i) the person's employer; and
     (ii) the person's registration status; and
-  (b) the Ministry, in regard to regular teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility, if any, for an allowance on the basis of their registration, if any.
+  (b) the Ministry, in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility, if any, for an allowance on the basis of their registration, if any.
 (2) For the purpose set out in subsection (1)(a), the Teachers Council may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
-  (a) require the Secretary to supply all or any of the following information in regard to all or any regular teachers in receipt of salaries at payrolled schools:
+  (a) require the Secretary to supply all or any of the following information in regard to all or any regular teachers and relieving teachers in receipt of salaries at payrolled schools:
     (i) surname:
     (ii) first name:
     (iii) date of birth:
@@ -2467,8 +2718,8 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
     (vii) registration number:
     (viii) registration expiry date:
     (ix) registration classification; and
-  (b) compare the information supplied under paragraph (a) with the information held by the Ministry in regard to teachers.
-(4) In this section, Ministry, payrolled school, regular teacher, school, and Secretary have the same meanings as in section 91A.
+  (b) compare the information supplied under paragraph (a) with the information held by the Ministry in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools.
+(4) In this section, Ministry, payrolled school, regular teacher, relieving teacher, school, and Secretary have the same meanings as in section 91A.
 
 ### 129 Cancellation of registration as teacher and cancellation of limited authority to teach
 (1) The Teachers Council must cancel a person's registration or limited authority to teach, if—
@@ -2477,12 +2728,12 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
     (ii) in the case of an authorised person, the person no longer satisfies the requirements for holding a limited authority to teach (as set out in section 130B(2)); or
   (b) the Teachers Council is satisfied on reasonable grounds that the registration or authorisation was effected by mistake or obtained by fraud; or
   (c) the Disciplinary Tribunal has ordered, under section 139AW(1)(g), that the registration or limited authority to teach be cancelled; or
-  (d) the Teachers Council has ordered, under section 139AZC(8)(c), that the registration or limited authority to teach be cancelled.
+  (d) the Teachers Council has ordered, under section 139AZCB(b), that the registration or limited authority to teach be cancelled.
 (2) The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under subsection (1)(a) or (b) without first—
   (a) taking all reasonable steps to ensure that the teacher or authorised person is given notice of the reasons for the proposed cancellation; and
   (b) giving the teacher or authorised person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
 (3) The fact that a teacher's registration or an authorised person's limited authority to teach has been cancelled does not prevent the teacher or authorised person from again being registered or being given a limited authority to teach.
-(4) If a person's registration is ordered to be cancelled under section 139AZC(8)(c), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
+(4) If a person's registration is ordered to be cancelled under section 139AZCB(b), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
 (5) The Teachers Council must take all reasonable steps to ensure that employers are informed of the name of every person whose registration or limited authority to teach is cancelled—
   (a) under this section; or
   (b) as a result of the Teachers Council refusing to renew the person's registration, or to grant a limited authority to teach, on the ground that the person is not of good character or is not fit to be a teacher.
@@ -2512,6 +2763,12 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
   (b) has satisfactory recent teaching experience; and
   (c) has had a satisfactory Police vet within the past 3 years; and
   (d) has completed satisfactory professional development during the past 3 years.
+(7) This subsection applies to a renewed practising certificate issued to a person if—
+  (a) the practising certificate he or she already holds when the renewed certificate is issued is suspended under section 139AU; or
+  (b) he or she does not already hold a practising certificate when the renewed certificate is issued; but—
+    (i) the practising certificate he or she last held was suspended under section 139AU when it expired; and
+    (ii) its suspension was not due to expire until a time after the issue of the renewed certificate.
+(8) A renewed practising certificate to which subsection (7) applies must be treated as being suspended under section 139AU; and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
 
 **Limited authority to teach**
 
@@ -2597,6 +2854,9 @@ The management of any registered early childhood centre that is not an early chi
   (d) falsely represents a document that is not a practising certificate to be a practising certificate; or
   (e) falsely represents a document that is not a limited authority to teach to be a limited authority to teach; or
   (f) is appointed to or continues to be employed in a position, knowing that the appointment or employment is contrary to section 120A or section 120B; or
+  (fa) being the employer of a person to whom section 120C(1) applies, fails or refuses to ensure that the person does not carry out any of the duties of the teaching position in which he or she is employed; or
+  (fb) being the employer of a person to whom section 120C(1) applies, and the board of a State school, the managers of a school registered under section 35A, or the person or body who appoints staff at an early childhood education and care service, fails or refuses to take all reasonably practicable steps to ensure that the person does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service; or
+  (fc) being a person to whom section 120C(1) applies, carries out any of the duties of the teaching position in which he or she is employed; or
   (g)
   (h) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer in a teaching position after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which a school or early childhood education and care service at which the person was then employed was open for instruction); or
     (i) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
@@ -2631,7 +2891,8 @@ The purpose of this Part is to provide professional leadership in teaching, enha
 
 ### 139AB Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **authorised person** means the holder of a limited authority to teach given under Part 10
+  - **authorised person** means the holder of an authority
+  - **authority** means a limited authority to teach given under Part 10
   - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules
   - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
   - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules
@@ -2866,14 +3127,10 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (b) the matter should be referred to the Disciplinary Tribunal.
 (5) If a matter is referred to the Disciplinary Tribunal under subsection (4), a notice must be sent to the teacher concerned setting out the charge of misconduct against him or her.
 
-### 139AU Interim suspension until complaint of possible serious misconduct concluded
-(1) For the purpose of investigating a complaint of possible serious misconduct about a teacher, the Complaints Assessment Committee may at any time apply to the chairperson of the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
-(1A) The Complaints Assessment Committee may apply to the chairperson of the Disciplinary Tribunal for an interim suspension of a teacher's practising certificate or authority, if—
-  (a) a complaint of possible serious misconduct about the teacher has been referred to the Complaints Assessment Committee under section 139AS; and
-  (b) the alleged misconduct is the subject of an investigation by—
-    (i) the New Zealand Police; or
-    (ii) the teacher's employer.
-(2) On an application under subsection (1) or (1A) for an interim suspension, the chairperson of the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority.
+### 139AU Interim suspension until matter about or involving possible serious misconduct concluded
+(1) At any time between when the Complaints Assessment Committee receives a complaint or receives or becomes aware of a report that is about or involves a teacher's possible serious misconduct and when the matter is concluded (as specified in section 139AUA(6)), the Complaints Assessment Committee may apply to the chairperson of the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
+(1A)
+(2) On an application under subsection (1) for an interim suspension, the chairperson of the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority.
 
 ### 139AUA Duration of interim suspension
 (1) The duration of an interim suspension under section 139AU is initially until the earliest of the following occurs:
@@ -2889,7 +3146,7 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (b) the interim suspension has not been otherwise lifted or revoked, for example, as the result of an appeal against it under subsection (4).
 (4) A teacher whose practising certificate or authority is subject to an interim suspension under section 139AU that is renewed under subsection (3) may, at any time during a further period of interim suspension, make representations in respect of the interim suspension to the Disciplinary Tribunal at a hearing, if he or she believes that there is an unreasonable delay in concluding the matter.
 (5) A hearing under subsection (4) is a hearing before the Disciplinary Tribunal, and sections 139AX to 139AZB apply to it.
-(6) For the purposes of this section, a matter is concluded when the latest of the following occurs in relation to the complaint:
+(6) For the purposes of this section and section 139AU, a matter is concluded when the latest of the following occurs in relation to the complaint or report:
   (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AT(2)(a) to (d):
   (b) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AV(2)(a) to (d):
   (c) the Disciplinary Tribunal has carried out whatever action it decides to take under section 139AW(1)(a) to (i), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under any of sections 139AT(3) or (4) or 139AV(3).
@@ -2956,7 +3213,7 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (b) the representative is a counsel for the purposes of subsection (2).
 
 ### 139AZB Appeals
-(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 139AU(2) or section 139AW, or a decision by the Teachers Council made under section 139AZC, may appeal that decision to a District Court.
+(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 139AU(2) or section 139AW, or a decision by the Teachers Council made under section 139AZCB, may appeal that decision to a District Court.
 (1A) The Complaints Assessment Committee may, with the leave of the Teachers Council, appeal to a District Court against a decision of the Disciplinary Tribunal made under section 139AU(2) or section 139AW.
 (2) An appeal under this section must be made within 28 days of receipt of written notice of the decision, or any longer period that the court allows.
 (3) Subsections (3) to (7) of section 126 apply to every appeal under this section as if it were an appeal under subsection (1) of section 126.
@@ -2975,12 +3232,22 @@ The Council must from time to time appoint a chief executive, on terms and condi
 (5) When the Teachers Council refers a complaint to an employer, the employer must report as required by the Teachers Council.
 (6) If the Teachers Council is satisfied that the employer has not responded, or has not been able to respond, to the complaint in a satisfactory way, the Teachers Council may investigate the complaint.
 (7) When a complaint about competence is made by a member of the Teachers Council, that member may not be involved in any investigation of the complaint.
-(8) If, after investigation, the Teachers Council is satisfied that the teacher has not attained the required level of competence, it may do any of the following:
-  (a) impose conditions on the teacher's practising certificate or authority:
-  (b) refer the teacher to an impairment process which may involve either or both of the following:
-    (i) assessment of an impairment:
-    (ii) assistance with an impairment:
-  (c) order that the teacher's registration or authority be cancelled (see section 129(1)).
+(8)
+
+### 139AZCA Investigation of mandatory reports about competence
+(1) When investigating a report under section 139AK or 139AN about a teacher's competence, the Teachers Council may ask the teacher's employer or former employer for information in addition to the information supplied in the report.
+(2) When the Teachers Council asks an employer or former employer for information under subsection (1), the employer or former employer must provide the information as requested by the Teachers Council.
+(3) When a report is made under section 139AK or 139AN by a member of the Teachers Council, that member must not be involved in any investigation of the report.
+
+### 139AZCB Powers of Teachers Council after finding required level of competence not attained
+Following an investigation of a complaint under section 139AZC, or following receipt of a report under section 139AK or 139AN and any investigation of the report, the Teachers Council may, if satisfied that the teacher has not attained the required level of competence,—
+  (a) do any 1 or more of the following:
+    (i) impose conditions on the teacher's practising certificate or authority:
+    (ii) refer the teacher to an impairment process which may involve either or both of the following:
+      (A) assessment of an impairment:
+      (B) assistance with an impairment:
+    (iii) annotate the register or the list of authorised persons in a specified manner, in relation to any action taken under subparagraph (i); or
+  (b) order that the teacher's registration or authority be cancelled (see section 129(1)).
 
 **Police vetting**
 
@@ -3002,12 +3269,12 @@ The Council must from time to time appoint a chief executive, on terms and condi
 ### 139A No corporal punishment in early childhood services or registered schools
 (1) No person who—shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or service.
   (a) is employed by a board (within the meaning of section 2(1)) at or in respect of a school or institution administered by the board; or
-  (b) is employed by the managers (within the meaning of section 35A(1)) of a private school at or in respect of the school; or
+  (b) is employed by the managers of a school registered under section 35A at or in respect of the school; or
   (c) is employed at an early childhood service (as defined in section 309); or
   (d) owns, manages, or controls an early childhood service (as so defined),—
 (2) No person who is supervising or controlling—shall use force, by way of correction or punishment, towards the student or child.
   (a) on behalf of a board (within the meaning of section 2(1)) any student enrolled at or attending a school or institution administered by the board; or
-  (b) on behalf of the managers (within the meaning of section 35A(1)) of a private school any student enrolled at or attending the school; or
+  (b) on behalf of the managers of a school registered under section 35A any student enrolled at or attending the school; or
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
 
 ### 139B Building Act 2004
@@ -3069,15 +3336,14 @@ The Private Schools Conditional Integration Act 1975 is hereby consequentially a
 (1) The Secretary may, by written notice to—require the board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
   (a) the board of any State school (within the meaning of section 2(1)); or
   (b) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup; or
-  (c) the managers (within the meaning of section 35A(1)) of any private school registered under that section,—
+  (c) the managers of any school registered under section 35A,—
 (1A) Information required by the Secretary under this section that identifies individuals may be used only for the following purposes:
   (a) statistical purposes:
   (b) ensuring that institutions and students receive relevant resourcing:
   (c) monitoring, and ensuring students' rights in respect of, enrolment and attendance.
-(2) For the purposes of section 35A(1), information—is relevant to the question of whether or not a registered school is efficient.
-  (a) required under subsection (1) to be given to the Secretary; and
-  (b)
-  (c) reasonably necessary or desirable for the Secretary to have for the proper administration of this Act,—
+(2) For the purposes of the provisions of this Act relating to the registration and inspection of private schools, the following information is relevant to the question of whether or not a school meets the criteria for registration as a private school:
+  (a) information that is required under subsection (1) to be given to the Secretary; and
+  (b) information that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
 
 ### 144B Purpose of sections 144C to 144E
 The purpose of sections 144C to 144E is to help ensure the safety of students who board at hostels.
@@ -3575,7 +3841,7 @@ In exercising their functions under this Act or any other enactment, the Commiss
 (4) An amendment forms part of the tertiary education strategy it amends.
 
 ### 159AD Roles within tertiary education sector
-(1)
+(1) The Ministry is the Minister's principal policy adviser on tertiary education matters.
 (2) The Qualifications Authority (or, in the case of universities, the New Zealand Vice-Chancellors Committee) is the body primarily responsible for quality assurance matters in the tertiary education sector.
 (3) This section is for the avoidance of doubt.
 
@@ -3659,13 +3925,10 @@ The Commission may not charge a commercial rate for any goods and services that 
     (vi) allocating funding to organisations that are not required to have plans in order to receive funding; and
     (vii) prescribing what plan summaries must contain for the purposes of public inspection; and
     (viii) building the capability of organisations; and
-  (b) to provide advice to the Minister on—
-    (i) the tertiary education strategy; and
-    (ii) the activities and performance of the tertiary education sector generally; and
-    (iii) any policy implications arising from any research, monitoring, or evaluation conducted under paragraph (c); and
+  (b) to provide advice to the Minister on the activities and performance of tertiary education organisations and the tertiary education sector generally; and
   (ba) to develop details of how to implement funding mechanisms; and
   (bb) to implement funding mechanisms; and
-  (c) to conduct applied policy and programme research, monitoring, and evaluation; and
+  (c) to provide advice to the Minister on the implementation of policy and on the operational implications of new policy initiatives; and
   (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
   (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
   (e) to undertake any functions delegated to the Commission, including (without limitation) functions relating to the funding of organisations other than under section 159YA or 159ZC; and
@@ -6605,11 +6868,14 @@ In this Part, unless the context otherwise requires,—
   (h) any premises, during any period of use for the education or care of children for any period not exceeding 4 hours a week in circumstances where the children's parents or caregivers are—
     (i) in close proximity to the children and are able to be contacted; and
     (ii) able to resume responsibility for the children at short notice:
+  (ha) any premises, during any period of use for the education or care of 3 or more children under the age of 6, none of whom attends for any period exceeding 2 hours per day, in circumstances where the children's parents or caregivers are—
+    (i) in close proximity to the children and are able to be contacted; and
+    (ii) able to resume responsibility for the children at short notice:
   (i) any premises, during any period of use for the operation of a playgroup, licensed home-based education and care service, or hospital-based education and care service.
 (3) Despite subsection (2), premises are early childhood education and care centres if they are—
-  (a) within premises of a kind described in subsection (2); and
+  (a) within premises of a kind described in any of paragraphs (a) to (h) or paragraph (i) of subsection (2); and
   (b) used regularly or principally for the education or care of 3 or more children under the age of 6 who are children of—
-    (i) staff who work within premises of a kind described in subsection (2); or
+    (i) staff who work within premises of a kind described in any of paragraphs (a) to (h) or paragraph (i) of subsection (2); or
     (ii) persons attending premises of that kind as residents or students.
 (4) An early childhood education and care centre may be operated within the premises of a registered school; and its status as an early childhood education and care centre is not affected by the fact of its being operated within those premises.
 
@@ -7727,7 +7993,7 @@ This Part shall be read together with and deemed part of the Education Act 1964 
 (2) Except as provided in sections 5(5), 16(2), 17(2), 18(2), and 34, this Act shall come into force on 1 January 1992.
 
 ### 9 National education guidelines
-(1–4) Amendment(s) incorporated in the Act(s).
+(1)–(4) Amendment(s) incorporated in the Act(s).
 (5) All national education guidelines under section 60 of the principal Act that were in force immediately before the commencement of this Act shall continue in force as if they are national administration guidelines; but may be amended or revoked accordingly.
 (6) Amendment(s) incorporated in the Act(s).
 
@@ -8081,3 +8347,23 @@ The validity of any action of the Authority must be determined as if at all mate
 ### 77 Validation in respect of change of proprietor of integrated school
 (1) For the purposes of the Education Act 1989, actions done under that Act or under the Private Schools Conditional Integration Act 1975 before the commencement of this Act are not invalid solely because of a defect or error in the processes relating to a change of proprietor of an integrated school.
 (2) In this section, integrated school and proprietor have the same meanings as in section 2(1) of the Private Schools Conditional Integration Act 1975.
+
+### 1 Title
+This Act is the Education Amendment Act (No 3) 2010.
+
+### 2 Commencement
+(1) Sections 31 to 33 come into force 6 months after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 37 Continuation of registration if school registered under repealed section 35A
+(1) In this section,—
+  (a) old section 35A means the section 35A of the Education Act 1989 repealed by section 11 of this Act; and
+  (b) new section 35A means the section 35A of the Education Act 1989 substituted by section 11 of this Act.
+(2) A school that, immediately before new section 35A comes into force, is or is deemed to be fully registered as a school of a particular description or descriptions under old section 35A, is to be regarded as fully registered as a school of that description or those descriptions under new section 35A.
+(3) Despite subsection (2), the managers of a school to which that subsection applies must comply with the criteria for registration as a private school under new section 35A as if it had been registered under that section.
+(4) A school that, immediately before new section 35A comes into force, is provisionally registered as a school of a particular description or descriptions under old section 35A, is to be regarded as provisionally registered as a school of that description or those descriptions under new section 35A when that section comes into force.
+(5) Despite subsection (4), when the Secretary is deciding whether to fully register a school to which that subsection applies, he or she must do so as if—
+  (a) old section 35A had not been repealed by section 11 of this Act, but continued in force; and
+  (b) he or she were considering under old section 35A whether to fully register a provisionally registered school.
