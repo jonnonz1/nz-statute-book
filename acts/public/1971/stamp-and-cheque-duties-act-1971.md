@@ -1,57 +1,57 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2010-12-21_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
 ### 1 Short Title, commencement, etc
 (1) This Act may be cited as the Stamp and Cheque Duties Act 1971.
-(2) This Act shall come into force on the 1st day of January 1972.
+(2) This Act shall come into force on 1 January 1972.
 (3) This Act is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994.
 
 ## Part 1 — Interpretation
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Adhesive stamp**
-  - **Assessment**
-  - **Bill of exchange** means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a banknote
+  - **adhesive stamp**
+  - **assessment**
+  - **bill of exchange** means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a banknote
   - **Board of Review**
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
-  - **Consideration**
-  - **Contract note**
-  - **Conveyance**
-  - **The Crown** means Her Majesty in respect of the Government of New Zealand and its dependencies; and includes any officer of the Government acting in his official capacity; and, in relation to any deed or bill of exchange, also includes any public authority
-  - **Impressed stamp**
-  - **Instrument of agreement to convey**
-  - **Instrument of assignment for the benefit of creditors**
-  - **Instrument of declaration of trust**
-  - **Instrument of nomination of shares**
-  - **Insurance**
-  - **Land**
-  - **Local authority**
-  - **Mining right**
-  - **Mortgage**
-  - **Partnership**
-  - **Penalty**
-  - **Property**
-  - **Public authority**
-  - **Rent**
-  - **Shares**
-  - **Shares in a flat or office owning company**
-  - **Stamp duty**
-  - **Taxation Review Authority** , or , means a Taxation Review Authority constituted under the Taxation Review Authorities Act 1994.
-  - **Transferable certificate of deposit**
+  - **consideration**
+  - **contract note**
+  - **conveyance**
+  - **the Crown** means Her Majesty in respect of the Government of New Zealand and its dependencies; and includes any officer of the Government acting in his official capacity; and, in relation to any deed or bill of exchange, also includes any public authority
+  - **impressed stamp**
+  - **instrument of agreement to convey**
+  - **instrument of assignment for the benefit of creditors**
+  - **instrument of declaration of trust**
+  - **instrument of nomination of shares**
+  - **insurance**
+  - **land**
+  - **local authority**
+  - **mining right**
+  - **mortgage**
+  - **partnership**
+  - **penalty**
+  - **property**
+  - **public authority**
+  - **rent**
+  - **shares**
+  - **shares in a flat or office owning company**
+  - **stamp duty**
+  - **Taxation Review Authority** , or , means a Taxation Review Authority constituted under the Taxation Review Authorities Act 1994
+  - **transferable certificate of deposit**
 
 ### 3 Meaning of the term instrument
 [Repealed]
 
-### 4 Instruments written together, or relating to more than one transaction
+### 4 Instruments written together, or relating to more than 1 transaction
 [Repealed]
 
 ### 5 Meaning of the term executed
 [Repealed]
 
-### 6
+### 6 Meaning of the term deed
 [Repealed]
 
 ### 7 Meaning of the expression instrument of conveyance extended
@@ -97,7 +97,7 @@ In this Act, unless the context otherwise requires,—
 ### 19 No conveyance duty on instrument of conveyance executed pursuant to stamped agreement
 [Repealed]
 
-### 20 No conveyance duty payable on more than one agreement in respect of the same transaction
+### 20 No conveyance duty payable on more than 1 agreement in respect of the same transaction
 [Repealed]
 
 ### 21 No conveyance duty on agreement to convey if the instrument of conveyance executed pursuant to it is duly stamped
@@ -106,13 +106,13 @@ In this Act, unless the context otherwise requires,—
 ### 22 No conveyance duty payable on certain declarations of trust
 [Repealed]
 
-### 22A
+### 22A No conveyance duty payable on instrument of conveyance executed in respect of first home
 [Repealed]
 
 ### 22B No conveyance duty payable on instrument of conveyance executed in respect of first farm
 [Repealed]
 
-### 22C
+### 22C No conveyance duty payable in respect of transactions relating to certain family homes
 [Repealed]
 
 ### 23 Conveyance duty reduced if gift duty paid on conveyance
@@ -121,7 +121,7 @@ In this Act, unless the context otherwise requires,—
 ### 24 No conveyance duty payable in respect of conveyance of residential land
 [Repealed]
 
-### 24A
+### 24A Conveyance duty reduced on instrument of conveyance of dwellinghouse
 [Repealed]
 
 ### 25 Agreement to convey on behalf of company to be incorporated
@@ -135,7 +135,7 @@ In this Act, unless the context otherwise requires,—
 ### 27 Duty on lease including chattels, timber, minerals, or other property
 [Repealed]
 
-### 28
+### 28 Lease duty to be computed on goodwill
 [Repealed]
 
 ### 29 Duty on instruments increasing rent or other consideration under lease
@@ -144,7 +144,7 @@ In this Act, unless the context otherwise requires,—
 ### 30 No lease duty payable on lease executed pursuant to stamped agreement
 [Repealed]
 
-### 31 No lease duty payable on more than one agreement to lease in respect of the same transaction
+### 31 No lease duty payable on more than 1 agreement to lease in respect of the same transaction
 [Repealed]
 
 ### 32 No lease duty payable on agreement to lease if the lease executed pursuant to it is duly stamped
@@ -161,18 +161,18 @@ In this Act, unless the context otherwise requires,—
 
 **Deed duty**
 
-### 36
+### 36 Deed duty
 [Repealed]
 
-### 37
+### 37 No deed duty payable on certain instruments
 [Repealed]
 
 **Denoting duty**
 
-### 38
+### 38 Denoting duty
 [Repealed]
 
-### 39
+### 39 No denoting duty payable on certain instruments
 [Repealed]
 
 ## Part 3 — Valuation
@@ -212,10 +212,10 @@ In this Act, unless the context otherwise requires,—
 ### 50 Time for presentation
 [Repealed]
 
-### 51
+### 51 Stamping otherwise than by presentation
 [Repealed]
 
-### 51A
+### 51A Composition by New Zealand Stock Exchange in respect of stamp duty on shares
 [Repealed]
 
 ### 52 Right of Commissioner to hold and impound instruments
@@ -301,33 +301,33 @@ In this Act, unless the context otherwise requires,—
 ## Part 6 — Cheque duty
 
 ### 76 Interpretation
-In this Part of this Act, unless the context otherwise requires,—
-  - **Bank** means any person, firm, or corporation, carrying on the business of banking
-  - **Printer** means any person, firm, or corporation, engaged in printing
-  - **Quarter** means a period of 3 consecutive calendar months in any year ending with the last day of March, June, September, or December.
+In this Part, unless the context otherwise requires,—
+  - **bank** means any person, firm, or corporation, carrying on the business of banking
+  - **printer** means any person, firm, or corporation, engaged in printing
+  - **quarter** means a period of 3 consecutive calendar months in any year ending with the last day of March, June, September, or December.
 
 ### 77 Cheque duty payable
-(1) Unless otherwise provided by this Act, or by or pursuant to any enactment mentioned in Schedule 1 to this Act, or by any local or private Act, cheque duty shall be paid to the Crown on every bill of exchange made or drawn after the commencement of this Act.
-(2) For the purposes of this section, the expression stamp duty when used in any Act mentioned in Schedule 1 to this Act, or in any local or private Act in force before the commencement of this Act, shall, unless the context otherwise requires, include cheque duty.
+(1) Unless otherwise provided by this Act, or by or pursuant to any enactment mentioned in Schedule 1, or by any local or private Act, cheque duty shall be paid to the Crown on every bill of exchange made or drawn after the commencement of this Act.
+(2) For the purposes of this section, the expression stamp duty when used in any Act mentioned in Schedule 1, or in any local or private Act in force before the commencement of this Act, shall, unless the context otherwise requires, include cheque duty.
 
 ### 78 Rates of cheque duty
 (1) Cheque duty shall be computed at the rate of 5 cents per bill of exchange.
-(2) Cheque duty prepaid on bill of exchange forms under section 81, section 82, or section 83 of this Act shall be computed at the rate of 5 cents per form.
+(2) Cheque duty prepaid on bill of exchange forms under section 81, section 82, or section 83 shall be computed at the rate of 5 cents per form.
 
 ### 79 No cheque duty payable on certain bills
 (1) No cheque duty shall be payable on any of the following bills of exchange—
-  (a) A bill of exchange drawn or made by any person acting on behalf of the Crown other than a person to whom section 80 of this Act applies:
+  (a) a bill of exchange drawn or made by any person acting on behalf of the Crown other than a person to whom section 80 applies:
   (b)
-  (ba) A bill of exchange drawn or made under the National Provident Fund Act 1950:
-  (c) A bill of exchange drawn or made by or on behalf of the trustees of a war fund subject to the War Funds Act 1915:
-  (d) A bill of exchange drawn or made by or on behalf of the New Zealand Council of Organisations for Relief Service Overseas:
+  (ba) a bill of exchange drawn or made under the National Provident Fund Act 1950:
+  (c) a bill of exchange drawn or made by or on behalf of the trustees of a war fund subject to the War Funds Act 1915:
+  (d) a bill of exchange drawn or made by or on behalf of the New Zealand Council of Organisations for Relief Service Overseas:
   (e)
-  (f) A bill of exchange drawn or made by or on behalf of any Provincial Patriotic Council, or any Welfare Committee, for the purposes of the Patriotic and Canteen Funds Act 1947:
-  (g) A bill of exchange drawn or made by or on behalf of a friendly society, or any branch of a friendly society, or any credit union, in each case registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982, and in accordance with that Act or the rules of the society or branch or credit union:
-  (h) A bill of exchange drawn or made by or on behalf of an industrial and provident society registered under the Industrial and Provident Societies Act 1908, and in accordance with that Act, or the rules of the society:
+  (f) a bill of exchange drawn or made by or on behalf of any Provincial Patriotic Council, or any Welfare Committee, for the purposes of the Patriotic and Canteen Funds Act 1947:
+  (g) a bill of exchange drawn or made by or on behalf of a friendly society, or any branch of a friendly society, or any credit union, in each case registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982, and in accordance with that Act or the rules of the society or branch or credit union:
+  (h) a bill of exchange drawn or made by or on behalf of an industrial and provident society registered under the Industrial and Provident Societies Act 1908, and in accordance with that Act, or the rules of the society:
   (i)
-  (j) Any coupon issued by any Electric Power Board under the Electric Power Boards Act 1925, or by any Railway Board under the Local Railways Act 1914.
-(2) No cheque duty shall be payable on any overseas bill of exchange drawn or made in favour of any person mentioned in subsection (1) of this section, if, had the bill of exchange been drawn or made by that person, no cheque duty would have been payable on it by virtue of that subsection.
+  (j) any coupon issued by any Electric Power Board under the Electric Power Boards Act 1925, or by any Railway Board under the Local Railways Act 1914.
+(2) No cheque duty shall be payable on any overseas bill of exchange drawn or made in favour of any person mentioned in subsection (1), if, had the bill of exchange been drawn or made by that person, no cheque duty would have been payable on it by virtue of that subsection.
 (3) If in accordance with the custom of merchants or bankers any bill of exchange is drawn in a set, and one of the set is duly stamped, the other or others of the set, unless issued or in some manner negotiated apart from the one stamped, shall not be liable to cheque duty.
 
 ### 80 Exemption from cheque duty by agreement
@@ -336,19 +336,19 @@ In this Part of this Act, unless the context otherwise requires,—
   (b) Tower Corporation:
   (c) State Insurance Limited:
   (d) Housing New Zealand Corporation:
-  (e) The Accident Compensation Corporation:
+  (e) the Accident Compensation Corporation:
   (f)
   (g)
 (2) The Commissioner may by written agreement with any person to whom this section applies exempt from cheque duty all bills of exchange drawn or made on behalf of that person.
 (3) In consideration of any agreement made by the Commissioner under this section, the other party to the agreement shall pay to the Crown by way of composition a sum equivalent to the cheque duty which would, were it not for the agreement and this section, be payable.
 (4) Every sum payable by way of composition under this section shall constitute a debt payable to the Crown by the party to the agreement other than the Commissioner, and shall be due on such dates as shall be specified in the agreement.
-(5) Any agreement under this section may be terminated by one month's notice in writing given by either party. After termination, cheque duty shall be payable on all bills of exchange which would, were it not for the termination of the agreement, be exempt.
+(5) Any agreement under this section may be terminated by 1 month's notice in writing given by either party. After termination, cheque duty shall be payable on all bills of exchange which would, were it not for the termination of the agreement, be exempt.
 
 ### 81 Cheque duty payable by licensed banks
 (1) The Commissioner may, on application by the General Manager for New Zealand of any bank, grant to the bank a licence to supply to its customers or to procure on its own behalf bill of exchange forms prepaid with cheque duty in accordance with this section.
 (2) The grant of a licence to a bank under this section shall be subject to such other conditions as may be required by the Commissioner who may at any time and from time to time, by notice in writing to the bank, amend those conditions.
 (3) Within 21 days after the expiry of each quarter, every bank that at any time during the quarter was a licensed bank shall forward to the Commissioner a statement in the form prescribed by the Commissioner containing particulars of all bill of exchange forms prepaid with cheque duty supplied to its customers or procured on its own behalf during that quarter. The statement shall contain particulars of all prepaid forms that have not been used and have been destroyed by the bank during that quarter, or that have been defaced or spoiled after issue but before being further acted on and that have been destroyed by the bank during that quarter.
-(4) Every statement sent to the Commissioner under subsection (3) of this section shall be verified by the signature of the General Manager, the Accountant, or any other senior administrative officer of the head office of the bank in New Zealand, and shall be accompanied by the amount of cheque duty payable for the quarter to which the statement relates, less the amount of duty that has been paid for prepaid forms that have been destroyed by the bank during the quarter and particulars of which are contained in the statement.
+(4) Every statement sent to the Commissioner under subsection (3) shall be verified by the signature of the General Manager, the Accountant, or any other senior administrative officer of the head office of the bank in New Zealand, and shall be accompanied by the amount of cheque duty payable for the quarter to which the statement relates, less the amount of duty that has been paid for prepaid forms that have been destroyed by the bank during the quarter and particulars of which are contained in the statement.
 (5) The Commissioner may, by giving 3 months' notice in writing forwarded by registered post to the General Manager for New Zealand of any bank licensed under this section, cancel the licence granted to that bank, and on the expiry of the 3 months which shall commence from the date on which the notice was posted, the licence held by that bank shall be cancelled and cease to have any force or effect.
 (6)
 
@@ -357,7 +357,7 @@ In this Part of this Act, unless the context otherwise requires,—
 (2) The grant of a licence to a printer under this section shall be subject to such conditions as may be required by the Commissioner who may at any time and from time to time by notice in writing to the printer, amend those conditions.
 (3) Within 21 days after the last day of each month, every printer licensed under this section shall forward to the Commissioner a statement in the form prescribed by the Commissioner. The statement shall contain particulars of all forms prepaid with cheque duty printed for the use of customers or on the printer's own behalf during that month, and shall be accompanied by the amount of cheque duty (if any) payable for that month.
 (4) The Commissioner may by giving 7 days' notice in writing forwarded by registered post to any printer licensed under this section cancel the licence granted to that printer, and on the expiry of the 7 days which shall commence from the date on which the notice was posted, the licence shall be cancelled and cease to have any force or effect.
-(5) If a licence granted to any printer is cancelled, the printer shall, within 7 days after the cancellation, forward a statement to the Commissioner giving particulars of all forms prepaid with cheque duty which have been printed for the use of customers or on the printer's own behalf, and in respect of which no statement has been forwarded to the Commissioner in accordance with subsection (3) of this section, together with the amount of cheque duty payable for those prepaid forms.
+(5) If a licence granted to any printer is cancelled, the printer shall, within 7 days after the cancellation, forward a statement to the Commissioner giving particulars of all forms prepaid with cheque duty which have been printed for the use of customers or on the printer's own behalf, and in respect of which no statement has been forwarded to the Commissioner in accordance with subsection (3), together with the amount of cheque duty payable for those prepaid forms.
 (6)
 
 ### 83 Cheque duty payable by other licensees
@@ -367,27 +367,27 @@ In this Part of this Act, unless the context otherwise requires,—
 (4)
 
 ### 84 Cheque duty payable otherwise than under a licence
-(1) This section applies to all bills of exchange for which cheque duty has not been prepaid in accordance with section 81, or section 82, or section 83 of this Act.
+(1) This section applies to all bills of exchange for which cheque duty has not been prepaid in accordance with section 81, or section 82, or section 83.
 (2) In this section,—
-  - **Duly stamped** means stamped by
-    (a) Affixing a postage stamp or stamps on the face of the bill of exchange for the amount of the cheque duty payable on the bill; and
-    (b) Effectively cancelling each postage stamp so as to render it incapable of being used again; and
-    (c) Stating on the bill the true date of cancellation:
-  - **Postage stamp** has the same meaning as in section 2(1) of the Postal Services Act 1998.
+  - **duly stamped** means stamped by—
+    (a) affixing a postage stamp or stamps on the face of the bill of exchange for the amount of the cheque duty payable on the bill; and
+    (b) effectively cancelling each postage stamp so as to render it incapable of being used again; and
+    (c) stating on the bill the true date of cancellation
+  - **postage stamp** has the same meaning as in section 2(1) of the Postal Services Act 1998.
 (3) A bill of exchange drawn or made in New Zealand shall be duly stamped by the drawer or maker of the bill before he delivers it out of his hands.
-(4) Subject to subsection (2) of section 79 of this Act, a bill of exchange drawn or made out of New Zealand shall be duly stamped by the first holder of the bill in New Zealand before he presents it for acceptance or payment, or endorses, or transfers, or in any manner negotiates it.
+(4) Subject to subsection (2) of section 79, a bill of exchange drawn or made out of New Zealand shall be duly stamped by the first holder of the bill in New Zealand before he presents it for acceptance or payment, or endorses, or transfers, or in any manner negotiates it.
 (5) A bill of exchange which comes into the hands of any person before it has been duly stamped shall be duly stamped by that person before he presents it for payment, or endorses, or transfers, or otherwise negotiates it, or accepts it, or pays it; but no person shall thereby be relieved from liability for any offence committed by him against any provision of this Act in respect of that bill:
   Provided that a bill of exchange which is drawn or made in New Zealand and bears on its face a printed inscription indicating that the bill is exempt from cheque duty or that cheque duty has been paid shall be deemed to be duly stamped for the purposes of this subsection unless the person into whose hands the bill comes has reason to believe that the bill is not exempt from cheque duty, or that the cheque duty purporting to have been paid has not been paid.
 (6) If a bill of exchange, to which the appropriate postage stamp is affixed, is held in good faith by a holder without notice of the stamp having been affixed otherwise than in accordance with this section, the bill of exchange shall, so far as it relates to the holder, be deemed to be duly stamped.
 (7) No bill of exchange shall be noted or protested by any notary public or other person unless it appears to be duly stamped.
-(8) For the purposes of subsection (6) of this section, notice of an omission by any person to cancel a stamp in the due manner shall not be notice of a breach of this section if the holder cancels the stamp as soon as the bill comes into his hands.
+(8) For the purposes of subsection (6), notice of an omission by any person to cancel a stamp in the due manner shall not be notice of a breach of this section if the holder cancels the stamp as soon as the bill comes into his hands.
 (9)
 
 ### 85 Refund of cheque duty
 (1) If the Commissioner is satisfied—he may, on application made in writing within 8 years after the date of payment of the duty, and accompanied by the bill of exchange forms, or the licence and the authority to print, or the bills of exchange, or such evidence as he thinks sufficient of their loss or destruction, refund the duty to the person entitled to it; but no refund shall be made if the duty amounts to less than $1.
-  (a) That any bill of exchange forms for which cheque duty has been prepaid otherwise than under section 81 of this Act have not been used; or
-  (b) That any bill of exchange forms for which cheque duty has been prepaid under section 83 of this Act have not been printed; or
-  (c) That any bills of exchange for which cheque duty has been paid have been spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
+  (a) that any bill of exchange forms for which cheque duty has been prepaid otherwise than under section 81 have not been used; or
+  (b) that any bill of exchange forms for which cheque duty has been prepaid under section 83 have not been printed; or
+  (c) that any bills of exchange for which cheque duty has been paid have been spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
 (2) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
 
 ### 86 Refunds payable out of Consolidated Account
@@ -413,47 +413,53 @@ All money payable by way of refunding any cheque duty shall be paid out of the C
 ## Part 6B — Approved issuer levy
 
 ### 86F Interpretation
-In this Part of this Act, unless the context otherwise requires,—
-  - **Approved issuer** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007
-  - **Approved issuer levy** means the levy referred to in section 86J of this Act
-  - **Interest** has the meaning assigned to that term by paragraphs (a) and (b) of the definition of “interest” in section YA 1 of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
-  - **Leviable value** means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
-  - **Money lent** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and has a corresponding meaning
+In this Part, unless the context otherwise requires,—
+  - **approved issuer** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007
+  - **approved issuer levy** means the levy referred to in section 86J
+  - **interest** has the meaning assigned to that term by paragraphs (a) and (b) of the definition of interest in section YA 1 of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
+  - **leviable value** means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
+  - **money lent** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and has a corresponding meaning
   - **paid** and each has the meaning corresponding to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
-  - **Registered security** means at any time any transaction involving money lent to an approved issuer that is—
-    (a) Registered by the Commissioner under section 86H of this Act on the application of the approved issuer; or
-    (b) One of a class of transactions so registered.
+  - **registered security** means at any time any transaction involving money lent to an approved issuer that is—
+    (a) registered by the Commissioner under section 86H on the application of the approved issuer; or
+    (b) one of a class of transactions so registered.
 
 ### 86G Application to register securities
-Any approved issuer may apply to the Commissioner, in writing and in such form as the Commissioner may approve, for registration of—as a registered security or registered securities for the purposes of this Part of this Act.
-  (a) Any transaction involving money lent to that approved issuer; or
-  (b) Any class of transactions involving money lent to that approved issuer—
+Any approved issuer may apply to the Commissioner, in writing and in such form as the Commissioner may approve, for registration of—as a registered security or registered securities for the purposes of this Part.
+  (a) any transaction involving money lent to that approved issuer; or
+  (b) any class of transactions involving money lent to that approved issuer—
 
 ### 86H Registration of securities by Commissioner
 (1) Where—the Commissioner shall, within 20 working days after receipt of the application and by notice in writing,—
-  (a) The Commissioner has received from any approved issuer any duly completed application for registration in accordance with section 86G of this Act; and
-  (b) Except in any case where the Government of New Zealand is the approved issuer, the Commissioner is satisfied that the money lent or to be lent under the transaction or class of transactions in respect of which registration is sought was or is to be lent on or after the 1st day of August 1991,—
-  (c) Register the relevant transaction or class of transactions for the purposes of this Part of this Act; and
-  (d) Notify the approved issuer of that registration.
-(2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G of this Act.
+  (a) the Commissioner has received from any approved issuer any duly completed application for registration in accordance with section 86G; and
+  (b) except in any case where the Government of New Zealand is the approved issuer, the Commissioner is satisfied that the money lent or to be lent under the transaction or class of transactions in respect of which registration is sought was or is to be lent on or after 1 August 1991,—
+  (c) register the relevant transaction or class of transactions for the purposes of this Part; and
+  (d) notify the approved issuer of that registration.
+(2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G.
 
 ### 86I Application of approved issuer levy and zero-rating
-For the purposes of the NRWT rules of the Income Tax Act 2007 and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where and to the extent that payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest—
-  (a) At the rate specified in section 86J of this Act; and
-  (b) by the date specified in either section 86K or section 86KA, or by a later date upon the payment of any interest or penalties imposed under Parts 7 or 9 of the Tax Administration Act 1994 respectively.
+(1) This section applies for the purposes of—
+  (a) the NRWT rules of the Income Tax Act 2007:
+  (b) an exemption under a double tax agreement:
+  (c) section 86J.
+(2) Despite the NRWT rules, a payment of interest under a registered security is treated as paid by an approved issuer only to the extent to which—
+  (a) approved issuer levy in relation to the security is paid by or on behalf of the approved issuer; and
+  (b) the amount of the levy, based on the leviable value of the registered security at the time of the payment of the interest, is paid—
+    (i) at the rate set out in section 86J; and
+    (ii) by the date set out in section 86K or 86KA or, subject to the payment of interest or penalties imposed under Part 7 or 9 of the Tax Administration Act 1994, by a later date.
 
 ### 86J Approved issuer levy
 Approved issuer levy shall be computed in respect of any registered security at any time at the rate of 2 cents for every $1 of the leviable value of the registered security at that time.
 
 ### 86K Payment of approved issuer levy
 (1) Any approved issuer or person on behalf of an approved issuer making payment of any amount of approved issuer levy in relation to any payment of interest made in respect of a registered security during any month shall make payment of such amount to the Commissioner not later than—
-  (a) The 14th day of the following month, where the levy is paid in relation to payments of interest made before the 1st day of June 1992:
-  (b) The 20th day of the following month, where the levy is paid in relation to payments of interest made on or after the 1st day of June 1992.
+  (a) the 14th day of the following month, where the levy is paid in relation to payments of interest made before 1 June 1992:
+  (b) the 20th day of the following month, where the levy is paid in relation to payments of interest made on or after 1 June 1992.
 (2) Any payment by a person of approved issuer levy shall be accompanied by a statement in such form as the Commissioner may approve showing such particulars as the Commissioner may prescribe in relation to—
-  (a) The payments of interest in respect of which the levy is paid:
-  (b) The approved issuer or issuers of the registered security or securities in respect of which the payments of interest were made:
-  (c) The registered security or securities in respect of which the payments of interest were made:
-  (d) The computation of the amount of approved issuer levy.
+  (a) the payments of interest in respect of which the levy is paid:
+  (b) the approved issuer or issuers of the registered security or securities in respect of which the payments of interest were made:
+  (c) the registered security or securities in respect of which the payments of interest were made:
+  (d) the computation of the amount of approved issuer levy.
 
 ### 86KA Payment of approved issuer levy in instalments
 (1) If, for a tax year, a person estimates that they will not be required to make approved issuer levy payments that total $500 or more, the person may pay the levy to the Commissioner in 2 instalments.
@@ -475,7 +481,7 @@ Approved issuer levy shall be computed in respect of any registered security at 
 ### 86L Refund of levy paid in error or in excess
 (1) Where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any amount of approved issuer levy has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
 (1A) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
-(2) Where the Commissioner is satisfied that the requirements of this section have been met, the Commissioner shall refund that amount and the relevant payment of interest shall be deemed, for the purposes of the NRWT rules of the Income Tax Act 2007, not to have been paid in respect of a registered security.
+(2) For the purposes of the NRWT rules of the Income Tax Act 2007 or an exemption under a double tax agreement, as applicable, if an amount is refunded under subsection (1), the payment of interest to which the approved issuer levy relates is treated as not having been paid by an approved issuer in relation to a registered security.
 (3) All money payable by the Commissioner under this section by way of refund of levy shall be paid without further appropriation than this section.
 
 ### 86M Relief in cases of serious hardship
@@ -501,7 +507,7 @@ Approved issuer levy shall be computed in respect of any registered security at 
 ### 91 Offence to execute instrument of conveyance of shares unless transferee's name entered in instrument
 [Repealed]
 
-### 92
+### 92 Offence for sharebroker not to send particulars of shares sold without instrument of transfer
 [Repealed]
 
 ### 92A Offence to stamp instrument otherwise than by presentation except in certain cases
@@ -518,10 +524,10 @@ Approved issuer levy shall be computed in respect of any registered security at 
 ### 95 Evidence inconsistent with instrument not admissible to reduce stamp duty
 [Repealed]
 
-### 96
+### 96 Sharebroker may recover duty from purchaser of shares
 [Repealed]
 
-### 97
+### 97 Giving notices
 [Repealed]
 
 ### 98 Duty recoverable by Commissioner in official name
@@ -531,108 +537,25 @@ Approved issuer levy shall be computed in respect of any registered security at 
 [Repealed]
 
 ### 99A Application of Part 9 of Tax Administration Act 1994
-Part 9 of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after the 1st day of April 1997.
+Part 9 of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997.
 
 ### 100 Consequential amendments
-The enactments specified in Schedule 2 to this Act are hereby consequentially amended in the manner indicated in that Schedule.
+The enactments specified in Schedule 2 are hereby consequentially amended in the manner indicated in that Schedule.
 
 ### 101 Repeals and revocations
-(1) The enactments specified in Schedule 3 to this Act are hereby repealed.
+(1) The enactments specified in Schedule 3 are hereby repealed.
 (2) The following regulations are hereby revoked:
-  (a) The National Expenditure Adjustment (Stamp Duty) Regulations 1932:
+  (a) the National Expenditure Adjustment (Stamp Duty) Regulations 1932:
   (b)
   (c)
-  (d) The Emergency Forces Stamp Duty Regulations 1951:
-  (e) The Stamp Duties Regulations 1967.
+  (d) the Emergency Forces Stamp Duty Regulations 1951:
+  (e) the Stamp Duties Regulations 1967.
 
 ## Schedule 1 — Exempting enactments
 
-| 1931, No 27— | The Land Transfer (Hawke's Bay) Act 1931: Section 23. (1931 Reprint, Vol 7, p 1267.) |
-| --- | --- |
-| 1938, No 2— | The New Zealand Council of Law Reporting Act 1938: Subsection (4) of section 5. (1957 Reprint, Vol 11, p 141.) |
-| 1938, No 17— | The Maori Housing Amendment Act 1938: Section 29. (1957 Reprint, Vol 9, p 5.) |
-| 1950, No 99— | The Civil List Act 1950: Section 4A. (1957 Reprint, Vol 2, p 119.) |
-| 1953, No 94— | The Maori Affairs Act 1953: Sections 62, 148, and 154; subsections (2) and (5) of section 214; and subsection (7) of section 339. (Reprinted 1968, Vol 3, p 2199.) |
-| 1955, No 88— | The Family Protection Act 1955: Subsection (3) of section 16. (Reprinted 1968, Vol 2, p 1569.) |
-| 1961, No 3— | The International Finance Agreements Act 1961: Subsection (2) of section 8. |
-| 1964, No 45— | The Joint Family Homes Act 1964: Section 23. |
-| 1967, No 45— | The Tarawera Forest Act 1967: Section 13. |
-| 1968, No 36— | The Diplomatic Privileges and Immunities Act 1968: Section 20. |
-| 1971, No 11— | The Consular Privileges and Immunities Act 1971: Sections 4 and 7. |
-
 ## Schedule 2 — Enactments amended
 
-| Title of Act | Amendment |
-| --- | --- |
-| 1927, No 45-The Rural Intermediate Credit Act 1927. (1957 Reprint, Vol 13, p 595.) | These amendments have been incorporated in the reprinted Rural Intermediate Credit Act 1927 (1982, RS Vol 11, p 264). |
-| 1952, No 34-The Land Settlement Promotion and Land Acquisition Act 1952. (Reprinted 1969, Vol 3, p 2235.) | This amendment has been incorporated in the reprinted Land Settlement Promotion and Land Acquisition Act 1952 (1979, RS Vol 3, p 179). |
-| 1957, No 40-The Hospitals Act 1957 (1957 Reprint, Vol 6, p 119) | These amendments have been incorporated in the reprinted Hospitals Act 1957 (1987, RS Vol 19, p 665). |
-
 ## Schedule 3 — Enactments repealed
-
-| 1908, No 2- | The Accident Insurance Companies Act 1908: Section 11. (1957 Reprint, Vol 1, p 29.) |
-| --- | --- |
-| 1908, No 81- | The Industrial and Provident Societies Act 1908: Paragraph (c) of section 9. (1957 Reprint, Vol 6, p 401.) |
-| 1908, No 212- | The Incorporated Societies Act 1908: Section 35. (1957 Reprint, Vol 6, p 370.) |
-| 1909, No 12- | The Friendly Societies Act 1909: Subsection (1) of section 98. (1957 Reprint, Vol 5, p 483.) |
-| 1914, No 32- | The Local Railways Act 1914: Section 94. |
-| 1925, No 38- | The Electric Power Boards Act 1925: Section 115. (1957 Reprint, Vol 4, p 514.) |
-| 1927, No 45- | The Rural Intermediate Credit Act 1927: Section 72. (1957 Reprint, Vol 13, p 608.) |
-| 1928, No 18- | The Statutory Land Charges Registration Act 1928: Section 9. (1957 Reprint, Vol 15, p 187.) |
-| 1929, No 27- | The Rural Intermediate Credit Amendment Act 1929: Section 8. (1957 Reprint, Vol 13, p 612.) |
-| 1932, No 8- | The National Expenditure Adjustment Act 1932: Sections 44 to 49. (1957 Reprint, Vol 10, p 723.) |
-| 1932, No 18- | The National Expenditure Adjustment Amendment Act 1932: Sections 8 to 10. (1957 Reprint, Vol 10, p 729.) |
-| 1932-33, No 42- | The Finance Act 1932-33: Section 11. |
-| 1932-33, No 45- | The Finance Act 1932-33 (No 2): Section 20. (1957 Reprint, Vol 5, p 94.) |
-| 1934-35, No 39- | The Companies (Bondholders Incorporation) Act 1934-35: Section 32. |
-| 1944, No 15- | The Earthquake and War Damage Act 1944: Section 25. (1957 Reprint, Vol 4, p 297.) |
-| 1946, No 5- | The Rural Intermediate Credit Amendment Act 1946: So much of the Schedule as relates to subsection (1) of section 72 of the Rural Intermediate Credit Act 1927. (1957 Reprint, Vol 13, p 614.) |
-| 1947, No 63- | The Patriotic and Canteen Funds Act 1947: Subsection (6) of section 10B, and subsections (1) and (3) of section 45. (1957 Reprint, Vol 11, pp 619, 637.) |
-| 1948, No 64- | The Land Act 1948: Section 180. (1957 Reprint, Vol 7, p 147.) |
-| 1949, No 18- | The Fire Services Act 1949: Subsection (8) of section 73 and subsection (3) of section 75. (1957 Reprint, Vol 5, pp 244, 246.) |
-| 1950, No 20- | The Medical Research Council Act 1950: Subsection (2) of section 20. (1957 Reprint, Vol 9, p 590.) |
-| 1950, No 55- | The National Provident Fund Act 1950: Subsection (1) of section 75. (1957 Reprint, Vol 10, p 831.) |
-| 1950, No 64- | The Patriotic and Canteen Funds Amendment Act 1950: Section 8. (1957 Reprint, Vol 11, p 646.) |
-| 1952, No 22- | The Stamp Duties Amendment Act 1952. (Reprinted 1964, Vol 3, p 2306.) |
-| 1952, No 34- | The Land Settlement Promotion and Land Acquisition Act 1952: Section 40. (Reprinted 1969, Vol 3, p 2275.) |
-| 1952, No 49- | The Shipping and Seamen Act 1952: Section 509. (Reprinted 1965, Vol 3, p 2091.) |
-| 1952, No 51- | The Property Law Act 1952: Subsection (7) of section 129 and subsection (8) of section 129A. (1957 Reprint, Vol 12, pp 197, 220.) |
-| 1953, No 54- | The Stamp Duties Amendment Act 1953. (Reprinted 1964, Vol 3, p 2307.) |
-| 1953, No 74- | The New Zealand Loans Act 1953: Subsection (5) of section 30 and subsection (4) of section 33. (1957 Reprint, Vol 11, pp 208, 209.) |
-| 1954, No 14- | The Historic Places Act 1954: Subsection (1) of section 22. (1957 Reprint, Vol 6, p 113.) |
-| 1954, No 52- | The Stamp Duties Act 1954. (Reprinted 1964, Vol 3, p 2241.) |
-| 1954, No 72- | The Industrial Conciliation and Arbitration Act 1954: Section 220. (1957 Reprint, Vol 6, p 559.) |
-| 1955, No 7- | The Stamp Duties Amendment Act 1955. (Reprinted 1964, Vol 3, p 2308.) |
-| 1955, No 50- | The Tenancy Act 1955: Subsection (2) of section 10, subsection (2) of section 25, and subsection (3) of section 59. (1957 Reprint, Vol 15, pp 534, 543, 567.) |
-| 1955, No 51- | The Housing Act 1955: Section 35. (1957 Reprint, Vol 6, p 246.) |
-| 1955, No 63- | The Companies Act 1955: Subsection (3) of section 15 and subsection (2) of section 23. (Reprinted 1968, Vol 3, pp 1779, 1784.) |
-| 1956, No 61- | The Trustee Act 1956: Section 63. (Reprinted 1968, Vol 4, p 3345.) |
-| 1956, No 63- | The Local Authorities Loans Act 1956. Subsection (4) of section 77, and section 129. (1957 Reprint, Vol 8, pp 484, 510.) |
-| 1957, No 18- | The Charitable Trusts Act 1957. Subsection (7) of section 61A. (1957 Reprint, Vol 1, p 830.) |
-| 1957, No 77- | The Stamp Duties Amendment Act 1957 (Reprinted 1964, Vol 3, p 2309.) |
-| 1958, No 10- | The Stamp Duties Amendment Act 1958. (Reprinted 1964, Vol 3, p 2311.) |
-| 1959, No 30- | The Post Office Act 1959: Section 129C. |
-| 1960, No 11- | The Stamp Duties Amendment Act 1960: Section 2. (Reprinted 1964, Vol 3, p 2311.) |
-| 1961, No 55- | The Stamp Duties Amendment Act 1961. (Reprinted 1964, Vol 3, p 2312.) |
-| 1961, No 59- | The Cinematograph Films Act 1961: Section 63. |
-| 1963, No 54- | The Queen Elizabeth the Second Arts Council of New Zealand Act 1963: Subsection (1) of section 25, and subsection (5) of section 29. |
-| 1963, No 115- | The Stamp Duties Amendment Act 1963. (Reprinted 1964, Vol 3, p 2314.) |
-| 1964, No 6- | The Finance Act 1964: Subsection (4) of section 2. |
-| 1964, No 32- | The Family Benefits (Home Ownership) Act 1964: Section 24. |
-| 1964, No 73- | The Stamp Duties Amendment Act 1964. (Reprinted 1964, Vol 3, p 2315.) |
-| 1964, No 136- | The Social Security Act 1964: Section 130. |
-| 1965, No 21- | The Stamp Duties Amendment Act 1965. |
-| 1965, No 47- | The State Advances Corporation Act 1965: Subsection (2) of section 32, and section 42. |
-| 1965, No 124- | The Decimal Currency Amendment Act 1965: So much of Schedule 5 as relates to the Stamp Duties Act 1954. |
-| 1966, No 29- | The Inland Revenue Department Amendment Act 1966: Section 3 and Schedule. |
-| 1966, No 31- | The Stamp Duties Amendment Act 1966. |
-| 1967, No 3- | The Decimal Currency Amendment Act 1967: Section 5. |
-| 1967, No 53- | The Milk Act 1967: Subsection (11) of section 21. |
-| 1967, No 54- | The Insolvency Act 1967: Section 165. |
-| 1967, No 123- | The Rating Act 1967: Subsection (6) of section 96. |
-| 1968, No 6- | The Stamp Duties Amendment Act 1968. |
-| 1968, No 62- | The Domestic Proceedings Act 1968: Section 129. |
-| 1968, No 152- | The Land Settlement Promotion and Land Acquisition Amendment Act 1968: Paragraph (e) of subsection (2) of section 6. (Reprinted 1969, Vol 3, p 2281.) |
 
 ### 1 Title
 This Act is the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009.
