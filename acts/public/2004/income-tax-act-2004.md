@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2010-12-21_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1738,11 +1738,15 @@ Income
 (1) The following amounts derived by a person in connection with their employment or service are income of the person:
   (a) salary or wages or an allowance, bonus, extra pay, or gratuity:
   (b) expenditure on account of an employee that is expenditure on account of the person:
-  (c) the market value of accommodation that the person receives in connection with their employment or service other than an amount paid under section CW 13B (Relocation payments):
+  (c)
   (d) a benefit received under a share purchase agreement:
   (e) directors' fees:
   (f) compensation for loss of employment or service:
   (g) any other benefit in money.
+Benefit of accommodation
+(1B) The market value of the following benefits provided to a person is income of the person if the benefit is provided in relation to an office or position held by them:
+  (a) the provision of accommodation:
+  (b) the provision of an accommodation allowance instead of accommodation.
 Meaning of accommodation
 (2) For the purposes of this section and section CX 24 (Accommodation), accommodation means board or lodging, or the use of a house or living premises, or the use of part of a house or living premises.
 
@@ -4692,7 +4696,7 @@ No deduction
   (a) input tax on a supply of goods or services to them:
   (b) GST payable by them to the Commissioner.
 Deduction
-(2) A registered person is allowed a deduction for output tax on a supply of goods or services that section 21 or 21I(1) to 21I(3) of the Goods and Services Tax Act 1985 treats them as making, but only to the extent to which—
+(2) A registered person is allowed a deduction for output tax on a supply of goods or services that section 5B, 21, or 21I(1) to (3) of the Goods and Services Tax Act 1985 treats them as making, but only to the extent to which—
   (a) they are allowed a deduction for expenditure that they incur in acquiring or producing the goods or services; or
   (b) they are allowed a deduction for an amount of depreciation loss for the goods or services.
 Exclusion
@@ -19520,9 +19524,7 @@ No investor interest size requirement for entities similar to unit trusts and ce
     (ii) on or after 17 May 2006, if treated as a unit trust, would have met the requirements of 1 or more paragraphs (a) and (c) to (e) of the definition of qualifying unit trust; and
     (iii) has no investor, other than the fund's manager or trustee, that can control the investment decisions relating to that class.
 Exception for certain investors
-(3) An entity with an investor holding more than 20% of the total portfolio investor interests in a class does not breach the investor interest size requirement if—
-  (a) the entity is not a portfolio listed company and the investor is listed in subsection (4):
-  (b) the entity is a portfolio listed company and the investor is listed in subsection (4) and holds less than 40% of the total portfolio investor interests in the class.
+(3) An entity with an investor holding of more than 20% of the total portfolio investor interests in a class does not breach the investor interest size requirement if the investor is listed in subsection (4).
 Investors to which exception applies
 (4) An investor may hold portfolio investor interests in a portfolio investment entity that would otherwise breach the investor interest size requirement for the entity if the investor is—
   (a) a portfolio investment entity:
@@ -19769,6 +19771,28 @@ Other loss used
     (i) the portfolio entity formation loss that is allocated to the portfolio allocation period and the portfolio investor class as allowed by section HL 28:
     (ii) the portfolio class land loss that has not been offset against portfolio class net income for an earlier allocation period and may be allocated to the allocation period under section HL 30:
   (b) the total amount of the class net income referred to in subsection (5).
+
+### HL 19B Treatment of certain provisions made by portfolio tax rate entity
+When this section applies
+(1) This section applies for the purposes of section HL 19 when—
+  (a) a portfolio tax rate entity—
+    (i) is likely to have future income:
+    (ii) makes a provision for future expenditure or loss; and
+  (b) the amount—
+    (i) is reflected in the entity's valuation of portfolio investor interests; or
+    (ii) if subparagraph (i) does not apply, is shown in its financial statements.
+Future amounts
+(2) For the purposes of determining an amount for a portfolio allocation period under section HL 19(3), a portfolio tax rate entity may take account of an amount of future income or future expenditure or loss that is—
+  (a) for future income, an amount that, when derived, would be class assessable income under section HL 19(4)(a):
+  (b) for future expenditure or loss,—
+    (i) an expense likely to be incurred by the entity in the tax year in which the portfolio allocation period falls, or within 93 days after the end of the tax year; and
+    (ii) an amount that, when incurred, would be a class deduction under section HL 19(4)(b).
+Reasonable estimation
+(3) For the purposes of subsection (2), the entity must make a reasonable estimate of the amount and must be able to demonstrate, if required, the reasonableness of the estimation by—
+  (a) explaining why and when the income is likely to be derived or the expense is likely to be incurred, as applicable; and
+  (b) providing the calculation method and actual calculations used to determine the amount, with details showing why the method is appropriate.
+Credit impairment provisions
+(4) A portfolio tax rate entity may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under NZIAS 39. However, the time limit set out in subsection (2)(b)(i) does not apply in relation to a credit impairment provision.
 
 ### HL 20 Portfolio entity tax liability and rebates of portfolio tax rate entity for period
 Portfolio entity tax liability
@@ -25810,7 +25834,7 @@ The value of a benefit provided by way of an employment related loan by an emplo
 (1) For the purposes of section ND 1D, an amount of income that is applied in a tax year to repay an employment-related loan is treated as having been applied towards repayment on the first day of the tax year or, if the date of the advance of the loan falls after that day, that later date.
 (2) Subsection (1) applies only to income that—
   (a) an employee derives from their employer by way of salary or wages, extra pay, dividend, or interest; and
-  (b) is not resident withholding income, non-resident withholding income, or an amount subject to tax deduction under the PAYE rules; and
+  (b) is payable to the employee without any tax deduction under the PAYE rules, the RWT rules, or the NRWT rules; and
   (c) is income of the employee in the tax year in which it is applied to repay the loan or in an earlier tax year.
 (3) If the amount that the employee derives and that is applied in this way relates to a tax year following the tax year in which it is applied to repay the loan, the employee may treat the amount as having been derived in that earlier tax year. If so, the employee must give notice to the Commissioner of their decision within the time allowed to the employer for filing a return of income or within a longer time that the Commissioner allows.
 (4) If the employer has a non-standard accounting year, references in this section to an employer's tax year are treated as references to that accounting year.
@@ -29176,7 +29200,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
         (i) starting on the date that the lease started; and
         (ii) ending on the date immediately before the start of the instalment period:
     (b) in section FC 8C (Termination of finance lease), includes principal, interest, and penalties that are owing by the lessee to the lessor on the date that the lease is terminated
-  - **outstanding claims reserve** means the amount of an insurer’s outstanding claims liability for general insurance contracts, excluding contracts having premiums to which section FC 14 (Non-resident general insurers' income) applies, as that liability is measured under Appendix D, paragraphs 5.1 to 5.2.12 of IFRS 4 for the insurer's financial statements
+  - **outstanding claims reserve** means the amount of an insurer’s outstanding claims liability for general insurance contracts, excluding contracts having premiums to which section FC 14 (Non-resident general insurers' income) applies, as that liability is measured under Appendix D, paragraphs 5.1 to 5.2.12 of IFRS 4 for the insurer's financial statements less the amount of reinsurance and non-reinsurance recoveries receivable, as measured for the financial statements
   - **overseas company** means a company other than one incorporated in New Zealand
   - **overseas pension** is defined in section CW 23(2) (Pensions) for the purposes of that section
   - **overtime** is defined in section CW 13C(6) (Payments for overtime meals and certain other allowances) for the purposes of that section
@@ -32566,6 +32590,7 @@ Within 30 days of issuing a determination under section 91AAF, the Commissioner 
 | --- | --- |
 | CB 6, CB 7(2), CB 8(2), CB 9(2) | The test of association applies at the time land is acquired or, in the case of builders, improved, rather than at the time of disposal |
 | CB 9(1)(b) | The test of whether or not a person is in business as a builder is applied at the time improvements to land commence, rather than at the time land is acquired. |
+| CD 28(9)(b) | A dividend payable to a shareholder by a company when the amount is applied under section CD 28(9)(a) by the shareholder against a loan from the company to the shareholder includes a dividend that is paid without any withholding of an amount of resident withholding tax or non-resident withholding tax. |
 | CG 2(3) | The amount remitted is treated as income in the year it is remitted, rather than in the year the deduction was allowed |
 | CG 4(3) | The amount recovered is treated as income in the year it is recovered, rather than in the year the deduction was allowed |
 | CG 5 | A benefit received from a superannuation scheme by an employer who has received deductions for making employers' contributions to the scheme is income, rather than a reversal of deductions for contributions made in the 12 months before the benefit's receipt |
@@ -32586,6 +32611,7 @@ Within 30 days of issuing a determination under section 91AAF, the Commissioner 
 | EY 44(1) | Both companies in a wholly-owned group must be in the same group at the time of the transfer |
 | EY 44(3) | The pre-existing life insurance business of the transferee is included in the opening actuarial reserves figure |
 | FC 21 | The recharacterisation of amounts derived from New Zealand , from the listed activities, does not apply to a New Zealand company that is under the control of non-residents. |
+| ND 1E(2) | A dividend payable to a shareholder by a company when the amount is applied under section ND 1E(1) by the shareholder against a loan from the company to the shareholder includes a dividend that is paid without any withholding of an amount of resident withholding tax or non-resident withholding tax. |
 
 ## Schedule 23 — Comparative tables of Old and New Provisions
 
