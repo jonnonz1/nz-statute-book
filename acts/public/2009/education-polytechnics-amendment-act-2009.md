@@ -1,5 +1,5 @@
 # Education (Polytechnics) Amendment Act 2009
-_Consolidation as at 2009-12-17_
+_Consolidation as at 2010-12-21_
 
 ### 1 Title
 This Act is the Education (Polytechnics) Amendment Act 2009.
@@ -319,19 +319,7 @@ The following headings and sections are inserted before section 222A (as inserte
 **Enabling school students to attend tertiary high school at Manukau Institute of Technology**
 
 ### 17 Enabling school students to attend tertiary high school at Manukau Institute of Technology
-(1) For the purposes of section 20(1) of the principal Act, a person enrolled at a registered school does not cease to be enrolled at the school by becoming enrolled at MIT in a tertiary high school course.
-(2) A person is not ineligible to be enrolled at a registered school by virtue only of being enrolled at MIT in a tertiary high school course.
-(3) A person who is both enrolled at a registered school and enrolled at MIT in a tertiary high school course must be treated as complying with section 25(1) of the principal Act if he or she attends the classes comprising the course whenever they are available.
-(4) MIT's council and the board of a registered school (being a school at which there are enrolled people who are also, or are also to be, enrolled at MIT in a tertiary high school course) must submit to the Secretary a written agreement—
-  (a) stating their respective obligations (both to the people concerned and to each other) and rights in relation to the safety, welfare, and educational programmes of people enrolled at both the school and MIT; or
-  (b) amending an agreement approved under subsection (5).
-(5) The Secretary may (by written notice to the board and MIT's council) approve an agreement submitted under subsection (4); and in that case it has effect according to its tenor.
-(6) In this section,—
-  - **board** and have the meanings given by section 2(1) of the principal Act
-  - **MIT** means the Manukau Institute of Technology
-  - **MIT's council** means the council (within the meaning of section 159(1) of the principal Act) of MIT
-  - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 15 of the principal Act
-  - **tertiary high school course** means a full-time course of study designated by MIT's council as being intended to be for, and to be limited to, students who are enrolled at a registered school.
+[Repealed]
 
 ## Part 2 — Transitional matters
 
