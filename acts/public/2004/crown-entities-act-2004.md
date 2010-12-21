@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2010-11-09_
+_Consolidation as at 2010-12-21_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1278,7 +1278,7 @@ The statement of responsibility must—
 ### 157 Reporting by multi-parent subsidiaries
 (1) A multi-parent subsidiary must comply with the requirements of this subpart.
 (2) However, the Minister of Finance may exempt a multi-parent subsidiary from the requirement to prepare a statement of intent or an annual report if the Minister is satisfied that it would be unduly onerous on the multi-parent subsidiary to comply with the requirement.
-(3) The exemption may be granted subject to any conditions the Minister thinks fit (which may include the condition that the statement of intent or annual report of 1 of the parents must cover the multi-parent subsidiary).
+(3) The exemption may be granted subject to any conditions the Minister thinks fit (which may include the condition that the statement of intent or annual report of one of the parents must cover the multi-parent subsidiary).
 
 ### Subpart 3 — Other provisions for financial accountability
 
@@ -1639,6 +1639,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Human Rights Commission |  |  |  |  |  |
 | Independent Police Conduct Authority |  |  |  |  |  |
 | Law Commission |  |  |  |  |  |
+| New Zealand Productivity Commission |  |  |  |  |  |
 | Office of Film and Literature Classification |  |  |  |  |  |
 | Privacy Commissioner |  |  |  |  |  |
 | Securities Commission |  |  |  |  |  |
@@ -1655,7 +1656,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Radio New Zealand Limited |  |  |  |  |  |
 | Television New Zealand Limited |  |  |  |  |  |
 
-## Schedule 3 — Application of Crown Entities Act 2004 to School Boards of Trustees
+## Schedule 3 — Application of Crown Entities Act 2004 to school boards of trustees
 
 | Section | Brief description |
 | --- | --- |
@@ -1688,7 +1689,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Section 180 | Local Authorities (Members' Interests) Act 1968 does not apply |
 | Sections 181, 188, 191, 193, 194, 195, 196, 197, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
 
-## Schedule 4 — Application of Crown Entities Act 2004 to Tertiary Education Institutions
+## Schedule 4 — Application of Crown Entities Act 2004 to tertiary education institutions
 
 | Section | Brief description |
 | --- | --- |
@@ -1717,8 +1718,8 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 **Chairperson and deputy chairperson of board**
 
 ### 1 Appointment
-(1) The responsible Minister may appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of a Crown agent or an autonomous Crown entity by written notice to the member (with a copy to the board).
-(2) The Governor-General may, on the recommendation of the responsible Minister, appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of an independent Crown entity by written notice to the member (with a copy to the board).
+(1) The responsible Minister may appoint one of the members as the chairperson, and another member as the deputy chairperson, of the board of a Crown agent or an autonomous Crown entity by written notice to the member (with a copy to the board).
+(2) The Governor-General may, on the recommendation of the responsible Minister, appoint one of the members as the chairperson, and another member as the deputy chairperson, of the board of an independent Crown entity by written notice to the member (with a copy to the board).
 (3) The notice of appointment must state the date on which the appointment takes effect.
 
 ### 2 Term of appointment
