@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2010-12-21_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -141,7 +141,7 @@ This Act is the KiwiSaver Act 2006.
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee’s gross base salary or wages by the relevant complying superannuation fund; and
       (v) for the purposes of subpart 3A of Part 3 of this Act,—
         (A) salary or wages described in section RD 5(1)(b)(iii) and (7) of the Income Tax Act 2007; and
-        (B) payments of weekly compensation, as defined in the Injury Prevention, Rehabilitation, and Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
+        (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
       (ii) the amount is a redundancy payment (as defined in section YA 1 of the Income Tax Act 2007)
@@ -584,19 +584,21 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (b) give notice to the person of that allocation, including the name and address of the provider of the nominated default KiwiSaver scheme, and of the name of the default investment product of that scheme, to which the person has been provisionally allocated; and
   (c) send to the person the investment statement relating to that product in that scheme; and
   (d) give notice to the person of what will happen if the person does not choose his or her own KiwiSaver scheme.
-(4) Subsection (3) also applies, with necessary modifications, and as provided in section 57 in cases to which that section applies, to a person if the Commissioner receives—
-  (a) notice under section 58 of the person having ceased to be eligible to be a member of his or her employer’s chosen KiwiSaver scheme; or
-  (b) notice under section 173(1)(b) that the person must transfer to another scheme on a scheme’s winding up; or
-  (c) notice under section 210(2); or
-  (d) notice of any other situation where a person is not, or is no longer, eligible to become or be a member of a certain KiwiSaver scheme and needs to be allocated to a KiwiSaver scheme under this section in order to comply with this Act.
+(4) Subsection (3) also applies, with necessary modifications, and as provided in section 57 in cases to which that section applies, to a person when—
+  (a) the Commissioner receives notice under section 58 of the person having ceased to be eligible to be a member of his or her employer’s chosen KiwiSaver scheme; or
+  (b) the Commissioner receives notice under section 173(1)(b) that the person must transfer to another scheme on a scheme's winding up and paragraph (bb) does not apply; or
+  (bb) a scheme winds up, if that winding up is after the Commissioner receives notice under section 173(1)(b) that the person must transfer to another scheme on the scheme's winding up; or
+  (c) the Commissioner receives notice under section 210(2); or
+  (d) the Commissioner receives notice of any other situation where a person is not, or is no longer, eligible to become or be a member of a certain KiwiSaver scheme and needs to be allocated to a KiwiSaver scheme under this section in order to comply with this Act.
 
 ### 51 Completion of allocation to default KiwiSaver scheme if person does not choose his or her own KiwiSaver scheme
 (1) This section and section 52 apply, at the final allocation date specified in subsection (4), to a person (A) who has been provisionally allocated under section 50 if the Commissioner has not been notified by that date by a provider that A has applied to become a member of a KiwiSaver scheme.
+(1B) Despite subsection (1), subsections (4) and (5) do not apply if section 50(4)(b) or (bb) applies. Instead, the allocation under section 50(3) is treated as completed on the day on which it occurs.
 (2) The Commissioner must give notice to A that the allocation of A is now completed as per the provisional allocation.
 (3) The Commissioner must give notice to the provider of the default KiwiSaver scheme that A has been allocated to the scheme, and A’s name, address, date of birth (if known to the Commissioner), tax file number, and any other personal information that the Commissioner considers relevant.
 (4) The final allocation date is—
   (a) in the case of a person referred to in section 50(1)(a) or (b), as soon as practicable after 3 months after the Commissioner receives the first contribution in respect of A:
-  (b) in the case of a person referred to in section 50(4), 3 months after the date on which the Commissioner receives that notice.
+  (b) in the case of a person referred to in section 50(4)(a), (c), or (d), 3 months after the date on which the Commissioner receives that notice.
 (5) However, if a dispute in relation to Part 2 or 3 is underway under section 212 or 213 as at the date which would otherwise be the final allocation date, the final allocation date is the effective date of the notice given by the Commissioner to the effect that the dispute has been resolved or has otherwise been terminated.
 
 ### 52 Effect of completion of allocation
@@ -653,7 +655,8 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 ### 57 Involuntary transfers
 (1) This section applies if a person has to transfer KiwiSaver schemes or from a complying superannuation fund to a KiwiSaver scheme, including if—
   (a) the Commissioner has received a notice under section 58 that an employee has ceased to be eligible to be a member of an employer’s chosen scheme; or
-  (b) the Commissioner has received a notice under section 173(1)(b) that a person is a member of a KiwiSaver scheme that is being wound up; or
+  (b) the Commissioner has received notice under section 173(1)(b) that the person must transfer to another scheme on a scheme's winding up and paragraph (bb) does not apply; or
+  (bb) a scheme winds up, if that winding up is after the Commissioner has received notice under section 173(1)(b) that the person must transfer to another scheme on the scheme's winding up; or
   (c) the Commissioner has received a notice in respect of a member of a KiwiSaver scheme under section 210(2); or
   (d) the Commissioner has received notice in accordance with clauses 4(a) and 5(a) in schedule 28 of the Income Tax Act 2007.
 (2) However, this section does not apply if section 9BAA of the Superannuation Schemes Act 1989 applies.
@@ -668,7 +671,7 @@ The employer must give notice to the employee and the Commissioner if, under the
 
 ### 59 Commissioner must send information to involuntary transferees
 The Commissioner must send to every person who is subject to an involuntary transfer under this subpart, as soon as practicable after the Commissioner receives the notice in respect of that person under section 57(1),—
-  (a) an information pack; and
+  (a) an information pack, but not if section 57(1)(b) applies; and
   (b) advice as to the effect of this subpart and of section 50.
 
 ### Subpart 4 — Initial and confirmed back-dated validation of invalid membership
@@ -1856,7 +1859,7 @@ If the registration of a KiwiSaver scheme is cancelled, the following provisions
 ### 173 Initial steps in winding up of KiwiSaver scheme
 (1) If a KiwiSaver scheme is to be wound up, the trustees must, within 14 days after a winding-up resolution or an order by the Government Actuary that the scheme be wound up is made,—
   (a) lodge a copy of any order or resolution with the Government Actuary and the Commissioner; and
-  (b) give notice to the Commissioner of the name and address of each member of the KiwiSaver scheme.
+  (b) give notice to the Commissioner of the name, tax file number, and address of each member of the KiwiSaver scheme.
 (2) Sections 50 to 52 set out the effect of notice to the Commissioner in relation to members of the KiwiSaver scheme and subpart 3 of Part 2 relates to the transfer of members’ interests to another KiwiSaver scheme.
 
 ### 174 Winding up report
@@ -2267,6 +2270,9 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
   (b) from the Commissioner under section 50(3)(c).
 (3) The investment statement must be treated for the purposes of the Securities Act 1978 as if it had been received by the person immediately before the person is treated as having subscribed for securities in the scheme under section 48(2)(b) or 52(1).
 
+### 220B Information sharing
+The Commissioner and a provider may, for the purposes of administering this Act or a KiwiSaver scheme, communicate to each other by electronic means a person's name, address, date of birth, and tax file number.
+
 **Miscellaneous provisions**
 
 ### 221 Refunds made by direct credit to bank account
@@ -2302,7 +2308,7 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
   (c) every person purporting to act under the delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
 ### 226 Crown contribution
-(1) The Crown must pay 1 contribution to the first KiwiSaver scheme of which a person (A) is a member.
+(1) The Crown must pay 1 contribution to the first KiwiSaver scheme of which a person (A) is a member before they reach the New Zealand superannuation qualification age.
 (1A) The contribution must be paid as soon as practicable after the date provided by subsection (1B) or (1C).
 (1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 3-month period that starts on the earliest of the following dates:
   (a) the date on which the Commissioner receives the first contribution in respect of a person, if the person is one to whom subpart 1 of Part 3 applies:
@@ -2494,12 +2500,13 @@ A trustee may reasonably require a member who applies to make a permitted withdr
     (i) the land is, or is intended to be, the principal place of residence for the member or for the member and members of the member’s family; and
     (ii) the member is a qualifying person under the regulations.
 (4) A member may not make a withdrawal under this clause of more than an amount equal to the member’s accumulation less the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution) at the time of the withdrawal.
-(5) If a person holds an estate in land in either of the following circumstances, that estate must be disregarded for the purposes of subclause (3)(b)(ii):
+(5) If a person holds an estate in land in any of the following circumstances, that estate must be disregarded for the purposes of subclause (3)(b)(ii):
   (a) the person holds the estate in land as a bare trustee:
+  (ab) the estate in land is a leasehold estate:
   (b) the person holds the estate in land as a trustee who—
     (i) is a discretionary, contingent, or vested beneficiary under the relevant trust; but
     (ii) has no reasonable expectation of being entitled to occupy the land as the principal place of residence for the person or the person’s family until the death of the person who currently occupies the land (the occupier) or the death of the occupier’s survivor.
-(6) In this clause, estate means a fee simple estate or a stratum estate.
+(6) In this clause, estate means a fee simple estate, a leasehold estate or a stratum estate.
 (7) It is a condition of subclause (3) that—
   (a) any withdrawal made under that provision must be paid to the member’s solicitor; and
   (b) the trustees may require from the member’s solicitor, before payment of the withdrawal,—
