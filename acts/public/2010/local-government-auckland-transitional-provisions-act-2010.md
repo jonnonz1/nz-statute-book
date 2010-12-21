@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2010-11-27_
+_Consolidation as at 2010-12-21_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -881,6 +881,8 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
     (i) the Council; or
     (ii) the council-controlled organisation.
 (18) The funds, assets, and property described in clause 5 of Schedule 1 of the Local Government (Auckland) Amendment Act 2004 continue not to be dutiable gifts for the purposes of the Estate and Gift Duties Act 1968 despite the dissolution of the Auckland Regional Council and ARTA and the repeal of the Local Government (Auckland) Amendment Act 2004.
+(19) If an Order in Council under section 37(1) of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 provides that Watercare Services Limited is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in section YA 1 of the Income Tax Act 2007, the Auckland Council is treated as paying to Watercare Services Limited on 1 November 2010 consideration equal to the debt.
+(20) If a council-controlled organisation of the Auckland Council is established by the Transition Agency under section 19B or 19C of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 and is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in section YA 1 of the Income Tax Act 2007, the Auckland Council is treated as paying to the council-controlled organisation on 1 November 2010 consideration equal to the debt.
 
 **Solid waste**
 
