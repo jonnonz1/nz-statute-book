@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -483,7 +483,8 @@ Every power conferred by this Act on the Minister or a local authority, as the c
 (3) If any agreement under this section involves a change of the ownership of any land, the land may be taken by the local authority or the Minister, as the case may require, by declaration under section 20, and the provisions of this Act as to the disposal of land held for a public work shall not apply.
 
 ### 51 Prohibiting acquisition of rights by adverse user of land held for public work
-(1) Notwithstanding any statute of limitation, no title to any land held for any public work, and no right, privilege, or easement in, upon, or over any such land, shall be acquired by possession or user adversely to or in derogation of the title of the Crown or of any local authority in which the land is vested.
+(1) No title to any land held for any public work, and no right, privilege, or easement in, upon, or over any such land, shall be acquired by possession or user adversely to or in derogation of the title of the Crown or of any local authority in which the land is vested.
+(1A) Subsection (1) applies despite any enactment that prescribes a limitation period or other limitation defence.
 (2) The provisions of subsection (1) shall be in addition to and not in derogation from the provisions of section 64 of the Land Transfer Act 1952.
 
 ### 52 Setting apart Crown land, public reserve, etc, for public work
