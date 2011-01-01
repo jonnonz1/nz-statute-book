@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the lands of the Crown in New Zealand
 
@@ -1359,7 +1359,8 @@ Subject to the provisions of section 157 of this Act relating to applications to
 
 ### 172 No title by user or adverse possession
 (1) No dedication or grant of a right of way shall by reason only of user, be presumed or allowed to be asserted or established as against the Crown, or as against any person or body holding lands for any public work or in trust for any public purpose or as against any State enterprise referred to in Schedule 2 to the State-Owned Enterprises Act 1986, whether such user commenced before or after the coming into force of this Act.
-(2) Notwithstanding any statute of limitation, no title to any land that is a road or street, or is held for any public work, or that has in any manner been reserved for any purpose, or that is deemed to be reserved from sale or other disposition in accordance with section 58 of this Act, or the corresponding provisions of any former Land Act, and no right, privilege, or easement in, upon, or over any such land shall be acquired, or be deemed at any time heretofore to have been acquired, by possession or user adversely to or in derogation of the title of Her Majesty, or of any local authority, public body, State enterprise referred to in Schedule 2 to the State-Owned Enterprises Act 1986, or person in whom the land has been at any time vested in trust for the purposes for which it has been reserved as aforesaid.
+(2) No title to any land that is a road or street, or is held for any public work, or that has in any manner been reserved for any purpose, or that is deemed to be reserved from sale or other disposition in accordance with section 58 of this Act, or the corresponding provisions of any former Land Act, and no right, privilege, or easement in, upon, or over any such land shall be acquired, or be deemed at any time heretofore to have been acquired, by possession or user adversely to or in derogation of the title of Her Majesty, or of any local authority, public body, State enterprise referred to in Schedule 2 to the State-Owned Enterprises Act 1986, or person in whom the land has been at any time vested in trust for the purposes for which it has been reserved as aforesaid.
+(3) Subsection (2) applies despite any enactment that prescribes a limitation period or other limitation defence.
 
 ### 173 No certiorari
 No order or other proceeding made touching or concerning the matters contained in this Act, or touching or concerning the conviction of any offender against this Act, or any other Act relating to the administration of Crown land, shall be quashed or vacated for want of form only, or be removed or removable by certiorari or any writ or process whatsoever into the High Court.
