@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2010-11-27_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -713,7 +713,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 
 ### 66 Registration of charging order for judgment for rates
 (1) Despite rule 578 of the High Court Rules, a charging order issued under rule 567 or rule 568 for a judgment for rates, and registered against a rating unit under rule 574, continues in force until a memorandum of satisfaction is registered under rule 577.
-(2) Section 20 of the Limitation Act 1950 applies to subsection (1).
+(2) The Limitation Act 2010 applies to subsection (1).
 (3) If a charging order for a judgment for rates is registered against a rating unit, the ratepayer must not register a dealing against the unit without the consent of the local authority.
 (4) This section applies to a charging order made under this Act or under the Rating Powers Act 1988.
 (5) This section and sections 67 to 83 do not apply to Māori freehold land or to the rates payable in respect of Māori freehold land.
@@ -1047,7 +1047,7 @@ If a charging order is made under section 101, no owner may deal with the land e
 
 ### 105 Charging order in force until discharged
 (1) A charging order made against Māori freehold land under section 101 (or under the corresponding section of a former Act) is in force until it is discharged.
-(2) Subsection (1) does not override section 113 of this Act or section 20 of the Limitation Act 1950.
+(2) Subsection (1) does not override section 113 of this Act or the Limitation Act 2010.
 
 ### 106 Consolidation of charging orders
 The Māori Land Court may consolidate more than 1 order against the same land into 1 order for the total amount of rates due and discharge previous charging orders.
