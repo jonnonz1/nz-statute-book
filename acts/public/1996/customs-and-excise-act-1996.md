@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-01-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -3607,6 +3607,11 @@ Any party who is dissatisfied with a decision of the High Court on any case on a
 
 ### 274D Appeals and reviews unaffected
 Sections 274A to 274C do not limit or affect any rights to appeal against, or to apply, in accordance with law, for administrative or judicial review of, any arrangement, decision (initial or substituted), power, obligation, or other action under or specified in those sections.
+
+### 274E No limitation of claims by Crown to recover duties or interest on duties, or on forfeiture proceedings, under this Act
+No relief in respect of a claim by the Crown to recover any tax or duty, or interest on any tax or duty, or in respect of any forfeiture proceedings, under this Act, is barred or otherwise affected by the following:
+  (a) the Limitation Act 2010:
+  (b) any other enactment that prescribes a limitation period or other limitation defence.
 
 ### 275 Payments by chief executive out of public money
 Subject to any limitations imposed in regulations made under this Act, the chief executive may incur expenses without further appropriation than this section to pay—
