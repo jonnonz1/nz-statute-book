@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -972,6 +972,7 @@ A search of the list for personal information that has not been carried out in a
     (ii) the Disputes Tribunal finds that the buyer has suffered, or is likely to suffer, loss or damage by the conduct of the motor vehicle trader that constitutes, or would constitute, any of the conduct referred to in section 43(1) of the Fair Trading Act 1986 and the Disputes Tribunal makes an order under section 43(2) of that Act declaring the whole or any part of the contract for sale to be void.
 (3) For the purposes of subsection (2), collateral credit agreement, in relation to a contract for the sale of a motor vehicle, means a contract or agreement arranged or procured by the motor vehicle trader or the buyer for the provision of credit by a person other than by the motor vehicle trader to enable the buyer to pay the price reserved by the contract for sale in respect of the motor vehicle.
 (4) This section is subject to section 90.
+(5) The Limitation Act 2010 prescribes defences in respect of claims based on an act or omission after 31 December 2010.
 
 ### 90 Limits on jurisdiction of Disputes Tribunals
 (1) A Disputes Tribunal has jurisdiction only if—
