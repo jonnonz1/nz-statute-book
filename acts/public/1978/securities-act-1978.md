@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2010-08-16_
+_Consolidation as at 2011-01-01_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -730,7 +730,7 @@ An issuer must ensure that subscriptions for securities offered to the public ar
   (b) the subscriptions, together with such interest (if any) as has been earned thereon, are repaid to the subscribers as soon as reasonably practicable.
 (6) If any subscriptions to which this section applies are not so repaid within 2 months after the date on which the subscriptions were received by or on behalf of the issuer (or, in any case to which subsection (2) of this section applies, within 5 months after the date of the registered prospectus), the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions, together with interest at a rate prescribed from time to time by regulations made under this Act from the date on which the subscriptions were received by or on behalf of the issuer:
   Provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
-(7) For the purposes of the Limitation Act 1950, any sum recoverable under subsection (5) or subsection (6) is not a penalty or forfeiture or sum by way of penalty or forfeiture.
+(7)
 
 **Relief orders in respect of section 37**
 
@@ -960,7 +960,7 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
 (6) Where an allotment made in contravention of this section is avoided by the subscriber under subsection (3) of this section, the issuer shall forthwith upon receiving notice under that subsection, repay the subscriptions to the subscriber.
 (7) If such subscriptions are not so repaid within one month after the date of the receipt by the issuer of notice under subsection (3) of this section, the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date on which such notice was received:
   Provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
-(8) For the purposes of the Limitation Act 1950, any sum recoverable under subsection (6) or subsection (7) is not a penalty or forfeiture or sum by way of penalty or forfeiture.
+(8)
 
 **Relief orders in respect of section 37A**
 
