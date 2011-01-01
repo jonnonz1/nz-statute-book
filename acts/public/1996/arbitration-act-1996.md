@@ -1,5 +1,5 @@
 # Arbitration Act 1996
-_Consolidation as at 2007-10-18_
+_Consolidation as at 2011-01-01_
 
 > An Act to reform the law relating to arbitration
 
