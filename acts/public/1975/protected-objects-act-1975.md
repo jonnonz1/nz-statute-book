@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2009-09-24_
+_Consolidation as at 2011-01-01_
 
 > Title
 
@@ -290,7 +290,7 @@ A person may not import into New Zealand an unlawfully exported protected foreig
     (i) was made by a member or members of a tribal or indigenous community for traditional or ritual use by that community; and
     (ii) is to be returned to that community.
 (4) Except as provided in section 10D(2)(b), no compensation is payable for the restitution of a stolen protected foreign object.
-(5) Despite anything in the Limitation Act 1950, any claim that the person who possesses the stolen protected foreign object may have against the person from whom that object was acquired may be brought within 2 years of the date on which the order for restitution was made.
+(5) Despite anything in the Limitation Act 2010, any claim that the person who possesses the stolen protected foreign object may have against the person from whom that object was acquired may be brought within 2 years of the date on which the order for restitution was made.
 
 **Application**
 
