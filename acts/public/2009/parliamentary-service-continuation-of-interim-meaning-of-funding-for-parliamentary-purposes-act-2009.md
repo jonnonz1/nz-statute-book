@@ -1,5 +1,5 @@
 # Parliamentary Service (Continuation of Interim Meaning of Funding for Parliamentary Purposes) Act 2009
-_Consolidation as at 2009-06-25_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Parliamentary Service (Continuation of Interim Meaning of Funding for Parliamentary Purposes) Act 2009.
