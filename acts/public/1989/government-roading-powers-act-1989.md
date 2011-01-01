@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-01-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Government Roading Powers Act 1989.
@@ -441,7 +441,7 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
   (d) where a structure removed under this section (or any equivalent structure) may be re-erected or placed in relation to the road—
 (7) Notwithstanding anything to the contrary in subsection (6) of this section, the period within which any structure is required to be so removed may from time to time be extended by agreement between the parties or by a District Court on application made to it in that behalf.
 (8) If the utility authority, after receiving notice under subsection (2) of this section, fails within the period so determined to remove the structure that is the subject of the notice, the controlling authority, after giving 10 working days' further notice of its intention to do so, may apply to a District Court for an order requiring the utility authority to remove the structure within such period as may be specified in the order; and in any such case, if the District Court orders the removal of the structure, the whole cost of carrying out the removal and re-erection of the structure shall be borne by the utility authority and shall be recoverable from it by the controlling authority as a debt.
-(9) Nothing in the Limitation Act 1950 or in any other Act or any rule of law shall cause or be deemed to have caused the right or title of the controlling authority of the road or of the authority in which the road is vested to be extinguished by reason of the road being occupied by any structure, and nothing in this or in any other Act or any rule of law shall entitle any utility authority to compensation otherwise than under this section for the removal of any structure from any road or in respect of the re-erection of any such structure (or equivalent structure), or in respect of any alteration of any road that necessitates any such removal or re-erection.
+(9) Nothing in the Limitation Act 2010 or in any other Act or any rule of law shall cause or be deemed to have caused the right or title of the controlling authority of the road or of the authority in which the road is vested to be extinguished by reason of the road being occupied by any structure, and nothing in this or in any other Act or any rule of law shall entitle any utility authority to compensation otherwise than under this section for the removal of any structure from any road or in respect of the re-erection of any such structure (or equivalent structure), or in respect of any alteration of any road that necessitates any such removal or re-erection.
 
 ### 55 Removal of trees, hedges, etc, that obscure visibility or interfere with public work
 (1) In this section and in sections 56 and 57 of this Act, unless the context otherwise requires,—
