@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -643,7 +643,7 @@ In this subpart, unless the context otherwise requires,—
   (b) there has been an assignment only in equity of all or part of a thing in action.
 (5) For the purposes of subsection (4), an assignor may be joined in proceedings—
   (a) when the proceedings are brought or subsequently; and
-  (b) if subsequently, whether before or after the expiry of the limitation period within which the proceedings must be brought.
+  (b) if subsequently, whether before or after the expiry of the limitation period within which the proceedings must be brought in order to avoid a limitation defence applying to a claim made in the proceedings.
 
 ### 53 Assignment of amounts payable in future
 An assignment of an amount that will or may be payable in the future under a right already possessed by the assignor (whether the right arises before, on, or after 1 January 2008) is to be treated as an assignment of a thing in action.
@@ -2795,7 +2795,7 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
   (b) a right to become registered as the proprietor of an easement.
 (2) The rule of law permitting a court to act upon the fiction of the lost modern grant is abolished.
 (3) This section does not affect, or prevent a person from continuing to use, enjoy, or have the right to exercise, after 31 December 2007, rights of the kind specified in subsection (1)(a) and (b) and that existed, or that had accrued, immediately before 1 January 2008.
-(4) Despite the Limitation Act 1950, an action may be brought at any time for the possession of land free of an easement if the purported easement was used or enjoyed in circumstances amounting to trespass.
+(4) Despite the Limitation Act 2010, a claim may be made at any time, and relief may be granted in respect of a claim made at any time, for the possession of land free of an easement if the purported easement was used or enjoyed in circumstances amounting to trespass.
 
 **Vehicular rights of way**
 
@@ -4144,13 +4144,6 @@ A conveyance of land without words of limitation passes the fee simple or other 
 ### 15 Application of Act
 (1) This Act does not apply to any promise, contract, or deed made before 1 April 1983.
 (2) Subsection (1) is subject to section 14(3).
-
-### 16 Limitation of redemption actions
-(1) This section applies to a mortgage of land—
-  (a) only if none of that land is subject to the Land Transfer Act 1952; and
-  (b) only if, and after, the mortgagee has been in possession of all or any of that land for 12 years.
-(2) After the mortgage has become one to which this section applies, no action to redeem the land of which the mortgagee has been so in possession may be brought by, or by a person claiming through, the mortgagor.
-(3) This section overrides anything to the contrary in section 97 of the Property Law Act 2007 or in any other enactment.
 
 ### 110A No defence or indemnity
 (1) It is not a defence to a proceeding against a secured party for a breach of the duty imposed by section 110 that the secured party was acting as the agent of, or under a power of attorney from, the debtor or any former debtor.
