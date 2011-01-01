@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -738,7 +738,7 @@ An adjudicator may not be required to give evidence in any civil proceedings on 
 (2) Subsection (1) does not exclude the liability of an adjudicator or expert adviser for anything done or omitted to be done in bad faith.
 
 ### 71 Application of other enactments to adjudications
-(1) The Limitation Act 1950 applies to adjudications as it applies to actions (as that term is defined in section 2(1) of that Act).
+(1) The Limitation Act 2010 applies to adjudications as it applies to claims (as defined in section 4 of that Act).
 (2) Adjudications must be treated as—
   (a) proceedings for the purposes of section 76 of the Insolvency Act 2006; and
   (b) actions or proceedings for the purposes of section 42 of the Corporations (Investigation and Management) Act 1989; and
