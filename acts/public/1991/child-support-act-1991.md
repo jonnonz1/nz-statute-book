@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2011-01-01_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -2856,7 +2856,9 @@ Every liable person who is summoned or brought before a District Court or Family
 In any action in the High Court for the recovery of financial support from a defendant absent from New Zealand, the High Court may grant leave to serve the writ out of New Zealand, or to proceed without service in the same manner as may be provided in other cases by the Rules of the High Court for the time being in force, save that no security shall be required from the Commissioner.
 
 ### 203 No limitation of action to recover financial support
-No statute of limitations shall bar or affect any action or remedy for the recovery of financial support.
+No relief in respect of a claim for recovery of financial support is barred or otherwise affected by the following:
+  (a) the Limitation Act 2010:
+  (b) any other enactment that prescribes a limitation period or other limitation defence.
 
 ### 204 Crown Proceedings Act 1950 not affected
 Nothing in this Act shall be so construed as to limit or affect the operation of the Crown Proceedings Act 1950, and all rights and remedies conferred upon the Crown by that Act and by this Act shall co-exist, and may be exercised independently of one another, and financial support may be recovered accordingly.
