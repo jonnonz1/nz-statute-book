@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -685,7 +685,7 @@ The Ministry of Justice must provide any secretarial, recording, and clerical se
   (c) based on acts done or omitted to be done (whether before or after the commencement of this Act) by the offender in committing the offence.
 (2) This subpart applies whether or not the action was—
   (a) commenced before the commencement of this Act; or
-  (b) one in respect of which a limitation defence (under the Limitation Act 1950 or any other law of New Zealand) could, before the commencement of this Act, have been pleaded successfully.
+  (b) one in respect of which a limitation defence (under the Limitation Act 2010 or any other law of New Zealand) could, before the commencement of this Act, have been pleaded successfully.
 (3) However, nothing in this subpart affects—
   (a) an action or arbitration determined before the commencement of this Act; or
   (b) the title to any property which is the subject of an action or arbitration of that kind.
@@ -732,7 +732,7 @@ Amendment(s) incorporated in the Act(s).
 **Amendment to Limitation Act 1950**
 
 ### 73 Limitation of actions of contract and tort, and certain other actions
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 **Amendments to Privacy Act 1993**
 
