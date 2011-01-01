@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2010-12-23_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -4045,10 +4045,10 @@ Any civil proceedings against a building consent authority in respect of the per
   (b) every member, employee, or agent of that building consent authority.
 
 ### 393 Limitation defences
-(1) The provisions of the Limitation Act 1950 apply to civil proceedings against any person if those proceedings arise from—
+(1) The Limitation Act 2010 applies to civil proceedings against any person if those proceedings arise from—
   (a) building work associated with the design, construction, alteration, demolition, or removal of any building; or
   (b) the performance of a function under this Act or a previous enactment relating to the construction, alteration, demolition, or removal of the building.
-(2) However, civil proceedings relating to building work may not be brought against a person after 10 years or more from the date of the act or omission on which the proceedings are based.
+(2) However, no relief may be granted in respect of civil proceedings relating to building work if those proceedings are brought against a person after 10 years or more from the date of the act or omission on which the proceedings are based.
 (3) For the purposes of subsection (2), the date of the act or omission is,—
   (a) in the case of civil proceedings that are brought against a territorial authority, a building consent authority, a regional authority, or the chief executive in relation to the issue of a building consent or a code compliance certificate under Part 2 or a determination under Part 3, the date of issue of the consent, certificate, or determination, as the case may be; and
   (b) in the case of civil proceedings that are brought against a person in relation to the issue of an energy work certificate, the date of the issue of the certificate.
@@ -4849,3 +4849,13 @@ A territorial authority that issues a project information memorandum need not co
   (a) made under section 97 of the principal Act or to which section 437 of the principal Act applies; and
   (b) in respect of which a territorial authority has not granted or refused a certificate of acceptance before the commencement of this Act.
 (2) A territorial authority that refuses to issue a certificate of acceptance in respect of an application to which this section applies need not comply with section 99A of the principal Act, as inserted by this Act, in respect of that refusal unless 3 months have elapsed since the commencement of this Act.
+
+### 1 Title
+These regulations are the Building (National Multiple-use Approval) Regulations 2011.
+
+### 2 Commencement
+These regulations come into force on 19 May 2011.
+
+### 6 Revocation and transitional provision
+(1) The Building (National Multiple-use Approval) Regulations 2009 (SR 2009/409) are revoked.
+(2) Any application under section 30B of the Building Act 2004 received by the chief executive before the commencement of these regulations must be considered and determined as if these regulations (other than this regulation) had not been made.
