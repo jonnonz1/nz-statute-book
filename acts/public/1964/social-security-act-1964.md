@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2722,7 +2722,7 @@ The following payments or other sums are debts due to the Crown:
   (b) as an agent; or
   (c) as a trustee; or
   (d) for any other reason—
-(1A) For the avoidance of doubt, it is declared that a deduction notice may be issued under subsection (1), despite the fact that the debt to the Crown under this Act may not be recovered by civil action in a court of law because of the Limitation Act 1950.
+(1A) For the avoidance of doubt, it is declared that a deduction notice may be issued under subsection (1), despite the fact that the debt to the Crown under this Act may not be recovered by civil action in a court of law because of the Limitation Act 2010.
 (1B) A deduction notice may be issued under subsection (1) to the Accident Compensation Corporation requiring the Corporation to deduct the amount due from any weekly compensation in respect of loss of earnings or loss of potential earning capacity that is payable, or becomes payable, to the debtor by the Corporation under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 (1C) A deduction notice under subsection (1) may be issued to recover—
   (a) any amount that may be recovered as a debt due to the Crown under section 27X (as saved by section 256(1) of the Child Support Act 1991):
