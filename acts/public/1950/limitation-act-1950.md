@@ -1,5 +1,5 @@
 # Limitation Act 1950
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate and amend certain enactments relating to the limitation of actions and arbitrations
 
@@ -8,15 +8,14 @@ This Act may be cited as the Limitation Act 1950, and shall come into force on t
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Action** means any proceeding in a Court of law other than a criminal proceeding
-  - **Arbitration** , , and
-  - **Land** includes corporeal hereditaments and rentcharges, and any legal or equitable estate or interest therein, including an interest in the proceeds of the sale of land held upon trust for sale, but save as aforesaid does not include any incorporeal hereditament
-  - **Parent** has the same meaning as in the Deaths by Accidents Compensation Act 1952 as for the time being extended by any other enactment
-  - **Personal estate** and do not include chattels real
-  - **Rent** includes a rentcharge and a rent service
-  - **Rentcharge** means any annuity or periodical sum of money charged upon or payable out of land, except a rent service or interest on a mortgage on land
-  - **Ship** includes every description of vessel used in navigation not propelled by oars
-  - **Trust** and have the same meanings respectively as in the Trustee Act 1956 as for the time being extended by any other enactment.
+  - **action** means any proceeding in a Court of law other than a criminal proceeding
+  - **land** includes corporeal hereditaments and rentcharges, and any legal or equitable estate or interest therein, including an interest in the proceeds of the sale of land held upon trust for sale, but save as aforesaid does not include any incorporeal hereditament
+  - **parent** has the same meaning as in the Deaths by Accidents Compensation Act 1952 as for the time being extended by any other enactment
+  - **personal estate** and do not include chattels real
+  - **rent** includes a rentcharge and a rent service
+  - **rentcharge** means any annuity or periodical sum of money charged upon or payable out of land, except a rent service or interest on a mortgage on land
+  - **ship** includes every description of vessel used in navigation not propelled by oars
+  - **trust** and have the same meanings respectively as in the Trustee Act 1956 as for the time being extended by any other enactment.
 (2) For the purposes of this Act, a person shall be deemed to be under a disability while he is an infant or of unsound mind.
 (3) For the purposes of the last preceding subsection but without prejudice to the generality thereof, a person shall be conclusively presumed to be of unsound mind while he is detained or kept in custody (otherwise than as a voluntary boarder) under any provision of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 (4) A person shall be deemed to claim through another person if he became entitled by, through, under, or by the act of that other person to the right claimed, and any person whose estate or interest might have been barred by a person entitled to an entailed interest in possession shall be deemed to claim through the person so entitled:
@@ -24,10 +23,20 @@ This Act may be cited as the Limitation Act 1950, and shall come into force on t
 (5) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or distress and references to the bringing of such an action shall include references to the making of such an entry or distress.
 (6) References in this Act to the possession of land shall, in the case of rentcharges, be construed as references to the receipt of rent; and references to the date of dispossession or discontinuance of possession of land shall, in the case of rentcharges, be construed as references to the date of the last receipt of rent.
 (7) In Part 2 of this Act references to a right of action shall include references to a cause of action and to a right to receive money secured by a mortgage or charge on any property or to recover proceeds of the sale of land, and to a right to receive a share or interest in the personal estate of a deceased person; and references to the date of the accrual of a right of action shall—
-  (a) In the case of an action for an account, be construed as references to the date on which the matter arose in respect of which an account is claimed:
-  (b) In the case of an action upon a judgment, be construed as references to the date on which the judgment became enforceable:
-  (c) In the case of an action to recover arrears of rent or interest, or damages in respect thereof, be construed as references to the date on which the rent or interest became due.
+  (a) in the case of an action for an account, be construed as references to the date on which the matter arose in respect of which an account is claimed:
+  (b) in the case of an action upon a judgment, be construed as references to the date on which the judgment became enforceable:
+  (c) in the case of an action to recover arrears of rent or interest, or damages in respect thereof, be construed as references to the date on which the rent or interest became due.
 (8) For the purposes of this Act a period of limitation which is prescribed by any of the enactments mentioned in Schedule 2 to this Act (as amended by this Act) shall not be deemed to be prescribed by this Act.
+
+### 2A Act continues to apply despite its repeal to actions based on acts or omissions before 1 January 2011
+(1) This section applies to an action, cause of action, or right of action—
+  (a) based on an act or omission before 1 January 2011; and
+  (b) to which this Act applied immediately before its repeal by section 57 of the Limitation Act 2010.
+(2) Section 59 of the Limitation Act 2010 requires the action, cause of action, or right of action, despite the repeal of this Act and unless the parties agree otherwise, to be dealt with or continue to be dealt with under this Act as in force at the time of its repeal.
+(3) Nothing in section 59 of the Limitation Act 2010 prevents any provision of this Act as in force at the time of its repeal from being applied, after 31 December 2010, and by analogy, to any claim for equitable relief—
+  (a) based on an act or omission before 1 January 2011; and
+  (b) to which this Act immediately before its repeal did not apply directly.
+(4) Nothing in this Act as in force at the time of its repeal applies to an action, cause of action, or right of action based on an act or omission after 31 December 2010.
 
 ## Part 1 — Periods of limitation for different classes of action
 
@@ -38,10 +47,10 @@ The provisions of this Part of this Act shall have effect subject to the provisi
 
 ### 4 Limitation of actions of contract and tort, and certain other actions
 (1) Except as otherwise provided in this Act or in subpart 3 of Part 2 of the Prisoners' and Victims' Claims Act 2005, the following actions shall not be brought after the expiration of 6 years from the date on which the cause of action accrued, that is to say,—
-  (a) Actions founded on simple contract or on tort:
-  (b) Actions to enforce a recognisance:
-  (c) Actions to enforce an award, where the submission is not by a deed:
-  (d) Actions to recover any sum recoverable by virtue of any enactment, other than a penalty or forfeiture or sum by way of penalty or forfeiture.
+  (a) actions founded on simple contract or on tort:
+  (b) actions to enforce a recognisance:
+  (c) actions to enforce an award, where the submission is not by a deed:
+  (d) actions to recover any sum recoverable by virtue of any enactment, other than a penalty or forfeiture or sum by way of penalty or forfeiture.
 (2) An action for an account shall not be brought in respect of any matter which arose more than 6 years before the commencement of the action.
 (3) An action upon a deed shall not be brought after the expiration of 12 years from the date on which the cause of action accrued:
   Provided that this subsection shall not affect any action for which a shorter period of limitation is prescribed by any other provision of this Act.
@@ -59,15 +68,15 @@ The provisions of this Part of this Act shall have effect subject to the provisi
 ### 5 Limitation in case of successive conversions, and extinction of title of owner of converted goods
 (1) Where any cause of action in respect of the conversion or wrongful detention of a chattel has accrued to any person and, before he recovers possession of the chattel, a further conversion or wrongful detention takes place, no action shall be brought in respect of the further conversion or detention after the expiration of 6 years from the accrual of the cause of action in respect of the original conversion or detention.
 (2) Where any such cause of action has accrued to any person and the period prescribed for bringing that action and for bringing any action in respect of such a further conversion or wrongful detention as aforesaid expires without his having commenced action to recover possession of the chattel, the title of that person to the chattel shall be extinguished.
-(3) Nothing in this section shall affect the provisions of subsection (1) of section 26 of the Sale of Goods Act 1908.
+(3) Nothing in this section shall affect the provisions of subsection (1) of section 26of the Sale of Goods Act 1908.
 
 **Actions to recover land and rent, and accrual of rights and causes of action**
 
 ### 6 Application of Act to land of the Crown, Maori customary land, and land subject to the Land Transfer Act
 (1) Subject to subsections (1A) and (2) of this section, nothing in this Act shall apply to any land that is Maori customary land within the meaning of Te Ture Whenua Maori Act 1993.
 (1A) Notwithstanding anything in subsection (1) of this section, but subject to section 7A of this Act,—
-  (a) Where any action to recover land that is Maori customary land within the meaning of Te Ture Whenua Maori Act 1993 is brought against the Crown or any person claiming through the Crown, this Act shall apply to that action; and
-  (b) Where any action for damages or an injunction in respect of any trespass or injury to Maori customary land is brought against the Crown, or any person claiming through the Crown, this Act shall apply to that action.
+  (a) where any action to recover land that is Maori customary land within the meaning of Te Ture Whenua Maori Act 1993 is brought against the Crown or any person claiming through the Crown, this Act shall apply to that action; and
+  (b) where any action for damages or an injunction in respect of any trespass or injury to Maori customary land is brought against the Crown, or any person claiming through the Crown, this Act shall apply to that action.
 (2) This Act shall be subject to the Land Transfer Act 1952, the Land Act 1948, section 344 of Te Ture Whenua Maori Act 1993, and section 51 of the Public Works Act 1981, so far as it is inconsistent with anything contained in those enactments.
 (3) Nothing in this Act shall affect the right of Her Majesty to any minerals (including uranium, petroleum, and coal).
 
@@ -92,8 +101,8 @@ The provisions of this Part of this Act shall have effect subject to the provisi
 ### 9 Accrual of right of action in case of future interests
 (1) Subject as hereafter in this section provided, the right of action to recover any land shall, in a case where the estate or interest claimed was an estate or interest in reversion or remainder or any other future estate or interest and no person has taken possession of the land by virtue of the estate or interest claimed, be deemed to have accrued on the date on which the estate or interest fell into possession by the determination of the preceding estate or interest or otherwise.
 (2) If the person entitled to the preceding estate or interest was not in possession of the land on the date of the determination thereof, no action shall be brought by the person entitled to the succeeding estate or interest—
-  (a) After the expiration of 60 years from the date on which the right of action accrued to the Crown where the Crown is entitled to the succeeding estate or interest; or
-  (b) In any other case, after the expiration of 12 years from the date on which the right of action accrued to the person entitled to the preceding estate or interest, or 6 years from the date on which the right of action accrued to the person entitled to the succeeding estate or interest, whichever period last expires.
+  (a) after the expiration of 60 years from the date on which the right of action accrued to the Crown where the Crown is entitled to the succeeding estate or interest; or
+  (b) in any other case, after the expiration of 12 years from the date on which the right of action accrued to the person entitled to the preceding estate or interest, or 6 years from the date on which the right of action accrued to the person entitled to the succeeding estate or interest, whichever period last expires.
 (3) The foregoing provisions of this section shall not apply where the preceding estate or interest is a leasehold interest other than one which is determinable with life or lives or with the cesser of a determinable life interest.
 (4) The foregoing provisions of this section shall not apply to any estate or interest which falls into possession on the determination of an entailed interest and which might have been barred by the person entitled to the entailed interest.
 (5) No person shall bring an action to recover any estate or interest in land under an assurance taking effect after the right of action to recover the land had accrued to the person by whom the assurance was made or some person through whom he claimed or some person entitled to a preceding estate or interest, unless the action is brought within the period during which the person by whom the assurance was made could have brought such an action.
@@ -101,7 +110,7 @@ The provisions of this Part of this Act shall have effect subject to the provisi
 
 ### 10 Provisions in case of settled land and land held on trust
 (1) Subject to the provisions of subsection (1) of section 21 of this Act, the provisions of this Act shall apply to equitable interests in land, including interests in the proceeds of the sale of land held upon trust for sale, in like manner as they apply to legal estates, and accordingly a right of action to recover the land shall, for the purposes of this Act but not otherwise, be deemed to accrue to a person entitled in possession to such an equitable interest in the like manner and circumstances and on the same date as it would accrue if his interest were a legal estate in the land.
-(2) Where any land is held by any trustee (including a trustee who is also tenant for life . . .) upon trust, including a trust for sale, and the period prescribed by this Act for the bringing of an action to recover the land by the trustee has expired, the estate of the trustee shall not be extinguished if and so long as the right of action to recover the land of any person entitled to a beneficial interest in the land or in the proceeds of sale either has not accrued or has not been barred by this Act, but if and when every such right of action has been so barred the estate of the trustee shall be extinguished.
+(2) Where any land is held by any trustee (including a trustee who is also tenant for life) upon trust, including a trust for sale, and the period prescribed by this Act for the bringing of an action to recover the land by the trustee has expired, the estate of the trustee shall not be extinguished if and so long as the right of action to recover the land of any person entitled to a beneficial interest in the land or in the proceeds of sale either has not accrued or has not been barred by this Act, but if and when every such right of action has been so barred the estate of the trustee shall be extinguished.
 (3) Where any settled land is vested in a tenant for life or a person having the statutory powers of a tenant for life or any land is held upon trust, including a trust for sale, an action to recover the land may be brought by the tenant for life or person having the powers of a tenant for life or trustees on behalf of any person entitled to a beneficial interest in possession in the land or in the proceeds of sale whose right of action has not been barred by this Act, notwithstanding that the right of action of the tenant for life or person having the powers of a tenant for life or trustees would, apart from this provision, have been barred by this Act.
 (4) Where any settled land or any land held on trust for sale is in the possession of a person entitled to a beneficial interest in the land or in the proceeds of sale, not being a person solely and absolutely entitled thereto, no right of action to recover the land shall be deemed for the purposes of this Act to accrue during such possession to any person in whom the land is vested as tenant for life, person having the powers of a tenant for life, or trustee, or to any person entitled to a beneficial interest in the land or the proceeds of sale.
 
@@ -121,8 +130,8 @@ A right of action to recover land by virtue of a forfeiture or breach of conditi
 (1) No right of action to recover land shall be deemed to accrue unless the land is in the possession of some person in whose favour the period of limitation can run (hereafter in this section referred to as adverse possession), and, where under the foregoing provisions of this Act any such right of action is deemed to accrue on a certain date and no person is in adverse possession on that date, the right of action shall not be deemed to accrue unless and until adverse possession is taken of the land.
 (2) Where a right of action to recover land has accrued, and thereafter, before the right is barred, the land ceases to be in adverse possession, the right of action shall no longer be deemed to have accrued and no fresh right of action shall be deemed to accrue unless and until the land is again taken into adverse possession.
 (3) For the purposes of this section,—
-  (a) Possession of any land subject to a rentcharge by a person (other than the person entitled to the rentcharge) who does not pay the rent shall be deemed to be adverse possession of the rentcharge; and
-  (b) Receipt of rent under a lease by a person wrongfully claiming, as mentioned in subsection (3) of the last preceding section, the land in reversion shall be deemed to be adverse possession of the land.
+  (a) possession of any land subject to a rentcharge by a person (other than the person entitled to the rentcharge) who does not pay the rent shall be deemed to be adverse possession of the rentcharge; and
+  (b) receipt of rent under a lease by a person wrongfully claiming, as mentioned in subsection (3) of the last preceding section, the land in reversion shall be deemed to be adverse possession of the land.
 (4) For the purposes of this section, 1 or more joint tenants or tenants in common of any land can take (and shall be deemed at all times before the commencement of the Land Transfer Amendment Act 1995 to have been able to take) adverse possession of the land as against the other tenant or tenants.
 
 ### 14 Accrual of cause of action on claim for contribution or indemnity
@@ -155,16 +164,16 @@ No action shall be brought to recover arrears of rent or damages in respect ther
 (3) The right to receive any principal sum of money secured by a mortgage or other charge shall not be deemed to accrue so long as the property subject to the mortgage or charge comprises any future interest or any life insurance policy which has not matured or been determined.
 (4) No action to recover arrears of interest payable in respect of any sum of money secured by a mortgage or other charge or payable in respect of proceeds of the sale of land, or to recover damages in respect of such arrears, shall be brought after the expiration of 6 years from the date on which the interest became due:
   Provided that—
-    (a) Where a prior mortgagee or other encumbrancer has been in possession of the property charged, and an action is brought within one year of the discontinuance of that possession by the subsequent encumbrancer, he may recover by that action all the arrears of interest which fell due during the period of possession by the prior encumbrancer or damages in respect thereof, notwithstanding that the period exceeded 6 years:
-    (b) Where the property subject to the mortgage or charge comprises any future interest or life insurance policy and it is a term of the mortgage or charge that arrears of interest shall be treated as part of the principal sum of money secured by the mortgage or charge, interest shall not be deemed to become due before the right to receive the principal sum of money has accrued or is deemed to have accrued.
+    (a) where a prior mortgagee or other encumbrancer has been in possession of the property charged, and an action is brought within one year of the discontinuance of that possession by the subsequent encumbrancer, he may recover by that action all the arrears of interest which fell due during the period of possession by the prior encumbrancer or damages in respect thereof, notwithstanding that the period exceeded 6 years:
+    (b) where the property subject to the mortgage or charge comprises any future interest or life insurance policy and it is a term of the mortgage or charge that arrears of interest shall be treated as part of the principal sum of money secured by the mortgage or charge, interest shall not be deemed to become due before the right to receive the principal sum of money has accrued or is deemed to have accrued.
 (5) This section shall not apply to any mortgage or charge on a ship.
 
 **Actions in respect of trust property or the personal estate of deceased persons**
 
 ### 21 Limitation of actions in respect of trust property
 (1) No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action—
-  (a) In respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
-  (b) To recover from the trustee trust property or the proceeds thereof in the possession of the trustee, or previously received by the trustee and converted to his use.
+  (a) in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
+  (b) to recover from the trustee trust property or the proceeds thereof in the possession of the trustee, or previously received by the trustee and converted to his use.
 (2) Subject as aforesaid, an action by a beneficiary to recover trust property or in respect of any breach of trust, not being an action for which a period of limitation is prescribed by any other provision of this Act, shall not be brought after the expiration of 6 years from the date on which the right of action accrued:
   Provided that the right of action shall not be deemed to have accrued to any beneficiary entitled to a future interest in the trust property until the interest fell into possession.
 (3) No beneficiary as against whom there would be a good defence under this Act shall derive any greater or other benefit from a judgment or order obtained by any other beneficiary than he could have obtained if he had brought the action and this Act had been pleaded in defence.
@@ -172,8 +181,55 @@ No action shall be brought to recover arrears of rent or damages in respect ther
 ### 22 Limitation of actions claiming personal estate of a deceased person
 Subject to the provisions of subsection (1) of the last preceding section, no action in respect of any claim to the personal estate of a deceased person or to any share or interest in such estate, whether under a will or on intestacy, shall be brought after the expiration of 12 years from the date when the right to receive the share or interest accrued, and no action to recover arrears of interest in respect of any legacy, or damages in respect of such arrears, shall be brought after the expiration of 6 years from the date on which the interest became due.
 
-### 23
+### 23 Protection of persons acting in execution of statutory or other public duty
 [Repealed]
+
+**Longstop period of limitation**
+
+### 23A Actions to which longstop period of limitation applies
+(1) Section 23B applies to an action based on an act or omission before 1 January 2011 and to which this Act applied immediately before its repeal by section 57 of the Limitation Act 2010 so long as that action is neither—
+  (a) an action to which section 7(1) or 21(1)(a) or (b) applies; nor
+  (b) an action commenced before 1 January 2011.
+(2) Sections 23B to 23D also apply, in accordance with section 29, to arbitrations.
+
+### 23B Longstop period of limitation
+(1) No action to which this section applies may be brought after the last to end of the following periods:
+  (a) 5 years ending on the close of 31 December 2015:
+  (b) 15 years after the date of the act or omission on which the action is based.
+(2) That period of limitation applies to the action in addition to every other period of limitation that applies to the action.
+(3) This section is, in accordance with section 3, subject to Part 2, which provides for the extension of that period of limitation in the case of disability, acknowledgment, part payment, fraud, and mistake.
+
+### 23C Discretion to allow relief for action of abuse of infant or of gradual process, disease, or infection injury
+(1) This section applies to an action—
+  (a) of a kind specified in subsection (2) or (4); and
+  (b) that the defendant could establish, or has established, is an action to which the longstop period of limitation in section 23B applies; and
+  (c) that is not an action that, at the close of 31 December 2010,—
+    (i) was otherwise barred because of an applicable period of limitation; and
+    (ii) had not been revived by an acknowledgment or part payment.
+(2) Subsection (1)(a) applies to an action in respect of abuse of the plaintiff (A) when he or she was under a disability because he or she was an infant, and that is wholly or partly sexual abuse of A by any 1 or more persons, or is wholly non-sexual abuse of A by 1 or more persons who are or include—
+  (a) a person who is, or has at any time been, a parent, step-parent, or legal guardian of A (B); or
+  (b) a person who is, or has at any time been, a close relative or close associate of B (C).
+(3) Abuse, in the expressions sexual abuse and non-sexual abuse in subsection (2), means physical abuse, psychological abuse, or a combination of both.
+(4) Subsection (1)(a) also applies to an action in respect of a personal injury—
+  (a) of the plaintiff (A) when he or she was of any age; and
+  (b) caused by a gradual process, disease, or infection.
+(5) Personal injury, in subsection (4), means any physical, mental, or physical and mental injury (even if it causes the death), of the plaintiff.
+(6) The court may, if it thinks it just to do so on an application made to it for the purpose, order that relief may be granted in respect of the action as if the longstop period of limitation in section 23B does not apply to it.
+(7) The application for the order may be made before or after the court has decided whether the defendant has established that the longstop period of limitation in section 23B applies to the action.
+
+### 23D Matters to be taken into account under section 23C
+In determining whether to make an order under section 23C, the court must take into account—
+  (a) any hardship that would be caused,—
+    (i) if the order were made, to a person who is, or is represented by, the defendant; and
+    (ii) if the order were not made, to A; and
+  (b) the length of, and reasons for, the delay on A's part; and
+  (c) any effects or likely effects of the delay on—
+    (i) the defendant’s ability to defend the action; and
+    (ii) the cogency of the evidence offered, or likely to be offered, by A or the defendant; and
+  (d) the defendant’s conduct on and after the date of the act or omission on which the action is based, including the extent to which the defendant responded to requests for information or inspection that were reasonably made by or on behalf of A in order to discover facts that were, or might be, relevant to the action; and
+  (e) the extent to which prompt and reasonable steps were taken by or on behalf of A to bring the action after A became aware that A was entitled to do so; and
+  (f) any steps taken by or on behalf of A to obtain relevant medical, legal, or other expert advice, and the nature of any relevant expert advice received by or on behalf of A; and
+  (g) any other matters it considers relevant.
 
 ## Part 2 — Extension of limitation periods in case of disability, acknowledgment, part payment, fraud, and mistake
 
@@ -181,14 +237,14 @@ Subject to the provisions of subsection (1) of the last preceding section, no ac
 
 ### 24 Extension of limitation period in case of disability
 If, on the date when any right of action accrued for which a period of limitation is prescribed by or may be prescribed under this Act the person to whom it accrued was under a disability,—notwithstanding that, in any case to which either of the foregoing paragraphs of this section applies, the period of limitation has expired:
-  (a) In the case of any action . . . in respect of the death of or bodily injury to any person, or of any action to recover a penalty or forfeiture or sum by way thereof by virtue of any enactment where the action is brought by an aggrieved party, the right of action shall be deemed to have accrued on the date when the person ceased to be under a disability or died, whichever event first occurred; or
-  (b) In any other case the action may be brought before the expiration of 6 years from the date when the person ceased to be under a disability or died, whichever event first occurred,—
+  (a) in the case of any action in respect of the death of or bodily injury to any person, or of any action to recover a penalty or forfeiture or sum by way thereof by virtue of any enactment where the action is brought by an aggrieved party, the right of action shall be deemed to have accrued on the date when the person ceased to be under a disability or died, whichever event first occurred; or
+  (b) in any other case the action may be brought before the expiration of 6 years from the date when the person ceased to be under a disability or died, whichever event first occurred,—
   Provided that—
-    (c) This section shall not affect any case where the right of action first accrued to some person (not under a disability) through whom the person under a disability claims;
-    (d) When a right of action which has accrued to a person under a disability accrues, on the death of that person while still under a disability, to another person under a disability, no further extension of time shall be allowed by reason of the disability of the second person;
-    (e) No action to recover land or money charged on land shall be brought by virtue of this section by any person after the expiration of 30 years from the date on which the right of action accrued to that person or some person through whom he claims; and
+    (c) this section shall not affect any case where the right of action first accrued to some person (not under a disability) through whom the person under a disability claims;
+    (d) when a right of action which has accrued to a person under a disability accrues, on the death of that person while still under a disability, to another person under a disability, no further extension of time shall be allowed by reason of the disability of the second person;
+    (e) no action to recover land or money charged on land shall be brought by virtue of this section by any person after the expiration of 30 years from the date on which the right of action accrued to that person or some person through whom he claims; and
     (f)
-    (g) This section shall not apply to any action to recover a penalty or forfeiture, or sum by way thereof, by virtue of any enactment, except where the action is brought by an aggrieved party.
+    (g) this section shall not apply to any action to recover a penalty or forfeiture, or sum by way thereof, by virtue of any enactment, except where the action is brought by an aggrieved party.
 
 **Acknowledgment and part payment**
 
@@ -219,19 +275,19 @@ If, on the date when any right of action accrued for which a period of limitatio
 
 ### 28 Postponement of limitation period in case of fraud or mistake
 Where, in the case of any action for which a period of limitation is prescribed by this Act, either—the period of limitation shall not begin to run until the plaintiff has discovered the fraud or the mistake, as the case may be, or could with reasonable diligence have discovered it:
-  (a) The action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent; or
-  (b) The right of action is concealed by the fraud of any such person as aforesaid; or
-  (c) The action is for relief from the consequences of a mistake,—
+  (a) the action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent; or
+  (b) the right of action is concealed by the fraud of any such person as aforesaid; or
+  (c) the action is for relief from the consequences of a mistake,—
   Provided that nothing in this section shall enable any action to be brought to recover, or enforce any charge against, or set aside any transaction affecting, any property which—
-    (d) In the case of fraud, has been purchased for valuable consideration by a person who was not a party to the fraud and did not at the time of the purchase know or have reason to believe that any fraud had been committed; or
-    (e) In the case of mistake, has been purchased for valuable consideration, subsequently to the transaction in which the mistake was made, by a person who did not know or have reason to believe that the mistake had been made.
+    (d) in the case of fraud, has been purchased for valuable consideration by a person who was not a party to the fraud and did not at the time of the purchase know or have reason to believe that any fraud had been committed; or
+    (e) in the case of mistake, has been purchased for valuable consideration, subsequently to the transaction in which the mistake was made, by a person who did not know or have reason to believe that the mistake had been made.
 
 ## Part 2A — Application of limitation law of overseas countries
 
 ### 28A Interpretation
 In this Part of this Act,—
-  - **Country** includes a State, territory, province, or other part of a country
-  - **Limitation law** in relation to any matter, means a law that limits or excludes liability or bars a right to bring proceedings or to have the matter determined by arbitration by reference to the time when proceedings or an arbitration in respect of the matter are commenced; and includes a law that provides that proceedings in respect of the matter may be commenced within an indefinite period.
+  - **country** includes a State, territory, province, or other part of a country
+  - **limitation law** in relation to any matter, means a law that limits or excludes liability or bars a right to bring proceedings or to have the matter determined by arbitration by reference to the time when proceedings or an arbitration in respect of the matter are commenced; and includes a law that provides that proceedings in respect of the matter may be commenced within an indefinite period.
 
 ### 28B Application of this Part of this Act
 (1) This Part of this Act applies to the Commonwealth of Australia or any State or Territory of Australia, the United Kingdom, and to any country to which this Part of this Act is declared to apply by an Order in Council made under subsection (2) of this section.
@@ -266,8 +322,8 @@ Save as in this Act otherwise expressly provided and without prejudice to the pr
 
 ### 34 Provisions as to actions already barred and pending actions
 Nothing in this Act shall—
-  (a) Enable any action to be brought which was barred before the commencement of this Act by an enactment repealed or amended by this Act or ceasing to have effect by virtue of this Act, except in so far as the cause of action or right of action may be revived by an acknowledgment or part payment made in accordance with the provisions of this Act; or
-  (b) Affect any action or arbitration commenced before the commencement of this Act or the title to any property which is the subject of any such action or arbitration.
+  (a) enable any action to be brought which was barred before the commencement of this Act by an enactment repealed or amended by this Act or ceasing to have effect by virtue of this Act, except in so far as the cause of action or right of action may be revived by an acknowledgment or part payment made in accordance with the provisions of this Act; or
+  (b) affect any action or arbitration commenced before the commencement of this Act or the title to any property which is the subject of any such action or arbitration.
 
 ### 35 Repeals and amendments
 (1) The enactments specified in Schedule 1 to this Act shall at the commencement of this Act cease to have effect in New Zealand.
@@ -276,14 +332,3 @@ Nothing in this Act shall—
 ## Schedule 1 — United Kingdom enactments ceasing to have effect in New Zealand
 
 ## Schedule 2 — New Zealand enactments amended
-
-| Title of Act | Number of Sections Affected | Nature of Amendment |
-| --- | --- | --- |
-| 1902 (Local), No 15—The Dunedin District Drainage and Sewerage Act 1900 Amendment Act 1902 | Sections 30 and 31 | By repealing these sections. |
-| 1907 (Local), No 30—The Christchurch District Drainage Act 1907 | Sections 75 and 76 | By repealing these sections. |
-| 1914, No 32—The Local Railways Act 1914 (1931 Reprint, Vol VII, p 967) | Section 99 | By repealing this section. |
-| 1920 (Local), No 15—The Christchurch Tramway District Act 1920 | Section 51 | By repealing paragraphs (b) and (c). |
-| 1928, No 44—The Auckland Transport Board Act 1928 | Section 74 | By repealing this section. |
-| 1941 (Local), No 7—The Auckland Centennial Memorial Park Act 1941 | Section 51 | By repealing this section. |
-| 1944 (Local), No 7—The Hawke's Bay Crematorium Act 1944 | Section 37 | By repealing this section. |
-| 1944 (Local), No 8—The Auckland Metropolitan Drainage Act 1944 | Section 67 | By repealing this section. |
