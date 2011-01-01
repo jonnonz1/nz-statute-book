@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -455,8 +455,8 @@ Sections 34(1)(c) to (e) and 35(c) to (e) require the following statutory declar
     (i) to the best of his or her knowledge, the penetration of water concerned has not caused damage to any common areas in the stand-alone complex concerned; and
     (ii) he or she does not suspect, and knows of no reason for suspecting, that the penetration of water concerned has caused damage to any common areas in that complex.
 
-### 37 Application of Limitation Act 1950 to applications for assessor's report, etc
-(1) For the purposes of the Limitation Act 1950 (and any other enactment that imposes a limitation period), the making of an application under section 32(1) has effect as if it were the filing of proceedings in a court.
+### 37 Application of Limitation Act 2010 to applications for assessor's report, etc
+(1) For the purposes of the Limitation Act 2010 (and any other enactment that imposes a limitation period), the making of an application under section 32(1) has effect as if it were the filing of proceedings in a court.
 (2) This section is subject to sections 54, 133, 141, 146, 152, and 155.
 
 ### 38 Assessor's reports are eligibility reports or full reports
