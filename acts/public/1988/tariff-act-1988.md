@@ -1,11 +1,11 @@
 # Tariff Act 1988
-_Consolidation as at 2010-08-01_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Tariff Act 1988.
-(2) This Act shall come into force on the 1st day of December 1988.
+(2) This Act shall come into force on 1 December 1988.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -14,7 +14,7 @@ _Consolidation as at 2010-08-01_
   - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** means the chief executive of the Ministry of Economic Development
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
-  - **Customs value** or , in relation to any goods, means the Customs value of those goods, determined in accordance with the provisions set out in Schedule 2 to the Customs and Excise Act 1996
+  - **Customs value** or , in relation to any goods, means the Customs value of those goods, determined in accordance with the provisions set out in Schedule 2 of the Customs and Excise Act 1996
   - **duty** means any duty imposed on goods under any of the provisions of this Act
   - **goods** means all kinds of movable personal property, including animals
   - **imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
@@ -30,20 +30,20 @@ _Consolidation as at 2010-08-01_
   - **prescribed** in relation to forms includes prescribed by the chief executive
   - **rate of duty** includes the term Free
   - **ship** means any kind of vessel used in navigation, not propelled by oars only
-  - **shipment** includes loading into an aircraft; and to ship and cognate expressions have corresponding meanings
-  - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on the 14th day of July 1980; and includes any modification or amendment of it made after that day
+  - **shipment** includes loading into an aircraft; and and cognate expressions have corresponding meanings
+  - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on 14 July 1980; and includes any modification or amendment of it made after that day
   - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)(a) to be a specified AANZFTA party for the purposes of this Act
   - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)(b) to be a specified TPA party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
-  - **Statistical key** means the code number and unit identified by 2 numeric and one alphabetical digits shown under the heading Statistical Key in the Standard Tariff and includes all the descriptions shown beside such numbers preceded by dots
+  - **statistical key** means the code number and unit identified by 2 numeric and 1 alphabetical digits shown under the heading Statistical Key in the Standard Tariff and includes all the descriptions shown beside such numbers preceded by dots
   - **Tariff** —
     (a) means the Tariff of New Zealand as set out in the 2010 Tariff Document; but
     (b) if, and in so far as, the Tariff referred to in paragraph (a) is on or after 1 January 2010 from time to time amended, modified, or revoked and replaced, then despite paragraph (a) means that Tariff as from time to time amended, modified, or revoked and replaced
-  - **Tariff heading** or , means a heading of the Standard Tariff (printed in bold type), being a heading of the Harmonised System established by the International Convention on the Harmonised Commodity Description and Coding System signed in Brussels on the 14th day of June 1983 and identified by 4 digits; and includes any modification or amendment thereof that may hereafter be made
+  - **Tariff heading** or , means a heading of the Standard Tariff (printed in bold type), being a heading of the Harmonised System established by the International Convention on the Harmonised Commodity Description and Coding System signed in Brussels on 14 June 1983 and identified by 4 digits; and includes any modification or amendment thereof that may hereafter be made
   - **Tariff item** means a Tariff item of the Standard Tariff identified by 8 digits; and includes a heading thereto so identified
-  - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number.
-  - **TPA** means the Trans-Pacific Strategic Economic Partnership Agreement that was opened for signature by Brunei Darussalam, Chile, New Zealand, and Singapore on 15 June 2005.
-  - **Working Tariff Document** means the document maintained under that name by the person holding office under the State Sector Act 1988 as the Chief Executive of the New Zealand Customs Service
+  - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number
+  - **TPA** means the Trans-Pacific Strategic Economic Partnership Agreement that was opened for signature by Brunei Darussalam, Chile, New Zealand, and Singapore on 15 June 2005
+  - **Working Tariff Document** means the document maintained under that name by the person holding office under the State Sector Act 1988 as the Chief Executive of the New Zealand Customs Service.
 (2)
 
 ### 2A Act to bind the Crown
@@ -155,10 +155,10 @@ The Acts and Regulations Publication Act 1989 does not apply to provisions incor
 (1) The Minister may from time to time, in the Minister's discretion and in accordance with Part 2 of the Tariff, approve in respect of the entry of goods—the appropriate rate of duty or exemption specified in Part 2.
   (a) of any of the classes specified in Part 2; or
   (b) in any of the circumstances specified in Part 2,—
-(2) The Minister may from time to time, by notice in the Gazette, withdraw or modify any approval granted under subsection (1) of this section.
+(2) The Minister may from time to time, by notice in the Gazette, withdraw or modify any approval granted under subsection (1).
 
 ### 9 Alterations and modifications of Tariff
-(1) Subject to subsection (2) of this section, the Governor-General may, by Order in Council, alter the existing Tariff in whole or in part and may impose on any goods such duties, or create such exemptions from duties, as the Governor-General thinks fit.
+(1) Subject to subsection (2), the Governor-General may, by Order in Council, alter the existing Tariff in whole or in part and may impose on any goods such duties, or create such exemptions from duties, as the Governor-General thinks fit.
 (2) The Governor-General shall not make an Order in Council under this section which has the effect of imposing on any goods a higher duty than specified in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that such an order is necessary or advisable in the public interest and is in conformity with New Zealand's international obligations.
 (3) Any Order in Council under this section may relate generally to all goods or to goods of any specified class or classes or to goods imported from any specified country or from any specified person.
 
@@ -217,21 +217,21 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
   (a) by revoking, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff, or by inserting any new heading, heading number, subheading, item, or item number, or title, in such manner as is necessary for the purpose of ensuring that the Tariff conforms to any international nomenclature; or
   (b) by revoking, suspending, or amending any provision of the notes forming part of the Tariff, or by inserting any new provision in the notes, for the purpose of ensuring the proper operation of the Tariff; or
   (c) by revoking, suspending, or amending any statistical requirements of the Tariff.
-(2) Notwithstanding anything in subsection (1)(c) of this section, the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
+(2) Notwithstanding anything in subsection (1)(c), the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
 (3) The statistical requirements of the Tariff shall be those set out in the columns headed Statistical Key in the Tariff, including any amendment thereof that may hereafter be made.
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
 
 ### 11 Orders in Council relating to Tariff
-(1) Every Order in Council made under section 9 of this Act and laid before the House of Representatives pursuant to the Regulations Act 1936 shall expire on the close of the 31st day of December in the calendar year following the calendar year during which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
-(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1) of this section, any duty collected under that Order in Council shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
-(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9 of this Act) laid before it pursuant to the Regulations Act 1936 should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty payable shall, so far as such resolution provides, be refunded.
-(4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) of this section shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
-(5) Any Order in Council made under section 124 of the Customs Act 1966 may be validated and confirmed, as if that Order in Council had been made under section 9 of this Act.
+(1) Every Order in Council made under section 9 and laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989 shall expire on the close of 31 December in the calendar year following the calendar year during which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
+(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1), any duty collected under that Order in Council shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
+(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) laid before it pursuant to the Regulations (Disallowance) Act 1989 should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty payable shall, so far as such resolution provides, be refunded.
+(4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
+(5) Any Order in Council made under section 124 of the Customs Act 1966 may be validated and confirmed, as if that Order in Council had been made under section 9.
 
 ### 12 Actions pending alteration of Tariff
-(1) When any resolution in favour of an alteration of the Tariff has in any session of Parliament been passed by the House of Representatives or any committee thereof, that resolution shall be deemed to have the force of law until such time as it is validated by an Act of Parliament or, where no such Act is enacted, the last day of that session and no action shall lie against the Crown, any Minister, or any person to whom the powers under this Act have been delegated, or member of the Police, by reason only that they had acted in accordance with any such resolution as if it had the force of law according to its tenor.
-(2) For the purpose of any period of limitation established by any Act, any cause of action that is subject to subsection (1) of this section shall be deemed to have first arisen on the day on which the Act of Parliament validating the resolution comes into force or, where no such Act is enacted, on the last day of the said session.
-(3) For the purpose of determining whether any act done by the Minister, or member of the Police or any person to whom the powers under this Act have been delegated, was done in the execution of their duty under this Act, that duty shall be deemed to include the duty of acting at all times in accordance with any such resolution as if it had the force of law according to its tenor.
+(1) When any resolution in favour of an alteration of the Tariff has in any session of Parliament been passed by the House of Representatives or any committee thereof, that resolution shall be deemed to have the force of law until such time as it is validated by an Act of Parliament or, where no such Act is enacted, the last day of that session and no action shall lie against the Crown, any Minister, or any person to whom the powers under this Act have been delegated, or constable, by reason only that they had acted in accordance with any such resolution as if it had the force of law according to its tenor.
+(2) For the purpose of any limitation period or other limitation defence prescribed by an enactment, any claim that is subject to subsection (1) must be deemed to have first arisen on the day on which the Act of Parliament validating the resolution comes into force or, where no such Act is enacted, on the last day of the said session.
+(3) For the purpose of determining whether any act done by the Minister, or constable or any person to whom the powers under this Act have been delegated, was done in the execution of their duty under this Act, that duty shall be deemed to include the duty of acting at all times in accordance with any such resolution as if it had the force of law according to its tenor.
 
 ### 13 Certain Orders in Council relating to duties may be retrospective
 (1) Any Order in Council made under this Act may be retrospective so far as it has the effect of exempting any goods from duty, or of reducing the rate or amount of duty payable in respect of any goods.
@@ -245,7 +245,7 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
 ### 15 Power of chief executive to prescribe forms
 For the purposes of this Act—
   (a) the chief executive may from time to time prescribe any forms the chief executive deems necessary:
-  (b) the production of any document under the hand of the chief executive purporting to be a prescribed form or an extract from a prescribed form or a copy of any such form or extract shall in all Courts and in all proceedings be sufficient evidence of the fact that the form was prescribed; and all Courts shall in all proceedings take judicial notice of the signature of the chief executive either to the prescribed form or to any such extract or copy.
+  (b) the production of any document under the hand of the chief executive purporting to be a prescribed form or an extract from a prescribed form or a copy of any such form or extract shall in all courts and in all proceedings be sufficient evidence of the fact that the form was prescribed; and all courts shall in all proceedings take judicial notice of the signature of the chief executive either to the prescribed form or to any such extract or copy.
 
 ### 15A Interpretation
 In this section and sections 15B to 15H, unless the context otherwise requires,—
@@ -356,10 +356,10 @@ Without limiting the Acts Interpretation Act 1924, no Order in Council under thi
 
 ### 16A Fees
 The Governor-General may from time to time, by Order in Council, make regulations prescribing the fees to be paid in respect of—
-  (a) applications for any approval under section 8(1) of this Act in respect of the entry of goods—
+  (a) applications for any approval under section 8(1) in respect of the entry of goods—
     (i) of any of the classes specified in Part 2 of the Tariff; or
     (ii) in any of the circumstances specified in Part 2 of the Tariff:
-  (b) applications for any withdrawal or modification, under section 8(2) of this Act, of any approval granted under section 8(1) of this Act.
+  (b) applications for any withdrawal or modification, under section 8(2), of any approval granted under section 8(1).
 
 ### 16B Regulations relating to goods temporarily imported and drawbacks of duty
 The Governor-General may from time to time, by Order in Council, make regulations—
@@ -372,11 +372,11 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) Every reference in any enactment (including any Order in Council), in force at the commencement of this Act to the Customs Tariff shall be read as if it were a reference to the Tariff.
 
 ### 18 Consequential amendments
-(1) The enactments specified in Schedule 2 to this Act are hereby amended in the manner indicated in that Schedule.
-(2) The enactments specified in Schedule 3 to this Act are hereby repealed.
+(1) The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
+(2) The enactments specified in Schedule 3 are hereby repealed.
 (3)
 (4)
-(5) Regulations 92 and 98 of the Customs Regulations 1968 are hereby revoked.
+(5) Amendment(s) incorporated in the regulations.
 
 ## Schedule 1 — The Tariff
 
