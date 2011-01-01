@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2010-12-02_
+_Consolidation as at 2011-01-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -1500,7 +1500,7 @@ A failure to comply with rule 1.11 does not prevent a person speaking Māori at 
 ### 1.17 Calculating periods of time
 (1) A period of time fixed by the rules or by a judgment, order, or direction or by a document in a proceeding must be calculated in accordance with this rule and rule 1.18.
 (2) When a time of 1 day or a longer time is to be reckoned by reference to a given day or event, the given day or the day of the given event must not be counted.
-(3) Nothing in this rule or in rules 1.18 and 1.19 affects the reckoning of a period of time fixed by the Limitation Act 1950 or any other statute or the application of the Interpretation Act 1999 in relation to the Limitation Act 1950 or any other statute.
+(3) Nothing in this rule or in rules 1.18 and 1.19 affects the reckoning of a period of time fixed by the Limitation Act 2010 or any other statute or the application of the Interpretation Act 1999 in relation to the Limitation Act 2010 or any other statute.
 
 ### 1.18 When time expires when court registry is closed
 When the time for doing any act at a registry of the court expires on a day on which that registry is closed, so that that act cannot be done on that day, the act is in time if done on the next day on which that registry is open.
@@ -2363,8 +2363,8 @@ The heading of a judgment and of an order that is required to be registered unde
 ### 5.15 Numbers
 Numbers must be expressed in figures and not in words.
 
-### 5.16 Information at foot of cover page
-(1) The following information must appear at the foot of the cover page of every document for filing:
+### 5.16 Information at foot of cover sheet
+(1) The following information must appear at the foot of the cover sheet of every document for filing:
   (a) the name of the solicitor or firm of solicitors (if any) presenting it for filing and the name of any agent by whom the document is filed; and
   (b) when the document is presented for filing by or on behalf of a solicitor or firm of solicitors,—
     (i) the name and telephone number of the principal or employee dealing with the proceeding; and
@@ -3058,7 +3058,7 @@ Except when the court otherwise orders, a defendant who has been served out of N
 (3) Any memorandum filed for a conference under rule 7.3(1)(a) and (b) must—
   (a) address the matters set out in Schedule 5 that are relevant to the proceeding and its current stage; and
   (b) outline, with reasonable details, any application for an interlocutory order intended to be made at the case management conference.
-(4) Any memorandum filed for a conference under subclause (2) must address the matters in that subclause.
+(4)
 (5) Any memorandum may be filed by fax or by email transmission.
 
 ### 7.5 Case management conferences for appeals
@@ -3596,10 +3596,10 @@ Rules 7.68 to 7.75 apply, with all necessary modifications, to any counterclaim 
 ### 7.77 Filing of amended pleading
 (1) A party may before trial file an amended pleading and serve a copy of it on the other party or parties.
 (2) An amended pleading may introduce, as an alternative or otherwise,—
-  (a) a fresh cause of action, which is not statute barred; or
+  (a) relief in respect of a fresh cause of action, which is not statute barred; or
   (b) a fresh ground of defence.
 (3) An amended pleading may introduce a fresh cause of action whether or not that cause of action has arisen since the filing of the statement of claim.
-(4) If a cause of action has arisen since the filing of the statement of claim, it may be added only by leave of the court. If leave is granted, the amended pleading must be treated, for the purposes of the law of limitation defences, as having been served on the date of the filing of the application for leave to introduce that cause of action.
+(4) If a cause of action has arisen since the filing of the statement of claim, it may be added only by leave of the court. If leave is granted, the amended pleading must be treated, for the purposes of the law of limitation defences, as having been filed on the date of the filing of the application for leave to introduce that cause of action.
 (5) Subclause (4) overrides subclause (1).
 (6) If an amended pleading introduces a fresh cause of action, the other party must file and serve that party’s defence to it within 10 working days after the day on which the amended pleading is actually served on the other party.
 (7) When an amended pleading does not introduce a fresh cause of action, the other party may, within 5 working days after the day on which the amended pleading is served on that other party, file and serve an amended defence to it.
@@ -4541,11 +4541,13 @@ Evidence that may, under these rules, be given by affidavit, may be given in an 
 #### Subpart 1 — Place
 
 ### 10.1 Venue and changing it
-(1) The place of trial is the town where the registry of the court in which the statement of defence is to be filed is situated, but if that registry is in Masterton, the place of trial is Wellington, and if that registry is in Tauranga the place of trial is Rotorua.
-(2) Despite subclause (1), the court may at any time order that the proceeding be tried at a place—
+(1) The place of trial is the town where the registry of the court in which the statement of defence is to be filed is situated.
+(2) Despite subclause (1), if that registry is in Masterton, the place of trial is Wellington.
+(3) Despite subclause (1), if that registry is in Tauranga, the court may direct at any time that the place of trial is either Hamilton or Rotorua.
+(4) Despite subclauses (1) to (3), the court may at any time order that the proceeding be tried at a place—
   (a) that the parties consent to; or
   (b) where the proceeding can be more conveniently or more fairly tried.
-(3) When the court orders a change of venue, it may direct that all subsequent steps in the proceeding be taken at the place where the trial is to take place.
+(5) When the court orders a change of venue, it may direct that all subsequent steps in the proceeding be taken at the place where the trial is to take place.
 
 #### Subpart 2 — Adjournments, methods of trial, and verdicts
 
@@ -4738,6 +4740,10 @@ The delivery time of a written judgment is—
 (1) Judgments must be drawn up in a form approved by the Registrar.
 (2) Forms J 1 to J 4 must be used, as appropriate.
 
+### 11.6A General court order
+(1) This rule applies to any order of the court, other than an order on an interlocutory application or an order that under these rules must or may be drawn up in a particular form.
+(2) When this rule applies, the order of the court must be in form G 40.
+
 ### 11.7 Duplicate judgments
 Duplicates of a judgment, with the word duplicate on the front page, may be issued to any party.
 
@@ -4779,7 +4785,7 @@ A Judge may recall a judgment given orally or in writing at any time before a fo
 (3) Except with the leave of the court, a judgment must not be sealed until any application under rule 11.9 for the recall of the judgment is determined.
 (4) A sealed judgment must state—
   (a) the date on which the judgment is given; and
-  (b) the date on which it is sealed.
+  (b)
 (5) A party who has a judgment sealed must immediately serve a sealed copy of it on—
   (a) every other party who has given an address for service; and
   (b) any other person who, although not a party, is affected by the judgment.
@@ -5601,13 +5607,14 @@ A court order, except an order made on an interlocutory application, may be enfo
 (1) The court’s leave is required before issuing an arrest order or a sequestration order.
 (2) The court’s leave is required to issue an enforcement process—
   (a) if judgment has not been sealed; or
-  (b) if 6 years have elapsed since the date of the judgment; or
+  (b) if 6 years have elapsed since the date of the judgment (which for a judgment that is an arbitral award entered as a judgment has the meaning given to it by subclause (2A)); or
   (c) if any change has taken place (whether by death or otherwise) in the parties entitled or liable to enforcement under the judgment; or
   (d) if the judgment is against the assets of a deceased person, enforcement is sought against those assets, and that person’s executor or administrator has taken possession of those assets after the date of the judgment; or
   (e) if a person is entitled to relief under the judgment only if that person has fulfilled a condition, and that person alleges that condition has been fulfilled; or
   (f) if goods sought to be seized under an enforcement process are in the possession of—
     (i) a receiver appointed by the court; or
     (ii) a sequestrator.
+(2A) Date of the judgment in subclause (2)(b) for a judgment that is an arbitral award entered as a judgment means the date on which the award became enforceable by action in New Zealand.
 (3) If the court grants leave to issue an enforcement process (under this rule or otherwise) and the process is not issued within 1 year after the date of the order granting leave, that order expires but that does not prevent the making of a new order granting leave.
 
 #### Subpart 2 — Obtaining information from liable party for enforcement purposes
@@ -6417,7 +6424,7 @@ The following office holders may seek the directions of the court by originating
 
 ### 19.9 Heading of documents
 (1) The heading of a document presented for filing in a proceeding commenced by originating application must be in form G 1.
-(2) However, if there is neither a defendant nor a respondent to the proceeding, the heading must be in the following form:In the matter of [title of Act]andIn the matter of [full name, place of residence, occupation]
+(2) However, if there is neither a defendant nor a respondent to the proceeding, the heading must be in the following form:In the matter of [title of enactment]AndIn the matter of an application by[full name, place of residence, occupation] for an order that [specify nature of the order(s) being sought].
 
 ### 19.10 Application of rules relating to interlocutory applications
 (1) The following rules concerning interlocutory applications apply with all necessary modifications to proceedings commenced by originating application:
@@ -7348,6 +7355,7 @@ Unless otherwise provided in this Part, the court may, in any proceeding, take a
 (2) Part 19 applies to adjudication proceedings but, in case of any conflict, is overridden by this Part.
 (3) An affidavit in form B 4 and a summons to debtor in form B 5 must be filed (in duplicate) with a creditor’s application.
 (4) A summons must also state the amount of any costs claimed.
+(5) An order of adjudication made on the application must be in form B 16.
 
 ### 24.12 Verification of creditor’s application
 A creditor’s application must be verified by affidavit of the creditor or some other person having knowledge of the facts.
@@ -7405,6 +7413,7 @@ The person who has applied for an order appointing the Official Assignee to be a
 (1) The Registrar must, immediately after the order appointing the Official Assignee as receiver and manager has been made, forward 2 copies of the order to the Official Assignee.
 (2) If the debtor is in New Zealand, the Official Assignee must cause a copy of the order appointing the Official Assignee as receiver and manager to be served on the debtor.
 (3) The Official Assignee must advertise the Official Assignee’s appointment as receiver and manager within 5 working days after the making of the order.
+(4) The order referred to in this rule must be in form B 17.
 
 ### 24.25 Repayment of deposits after order of adjudication
 (1) If an order of adjudication is made after the Official Assignee is appointed receiver and manager, the Official Assignee must repay to the creditor the deposits made under rules 24.22 and 24.23 out of the proceeds of the estate.
@@ -7918,7 +7927,7 @@ Rule 4.17 applies if a third party fails to enter an appearance, as if the failu
 ### 25.35 Issue of warrant of arrest
 (1) The Registrar may require additional security to cover fees, expenses, and harbour dues (if any) referred to in rule 25.34(4)(b).
 (2) The Registrar must, before issuing the warrant of arrest, ascertain whether a caveat against the issue of a warrant of arrest has been entered, but, under rule 25.43(2), the entry of a caveat against arrest does not prevent the issue of a warrant of arrest.
-(3) On being satisfied that the relevant requirements of rule 24.34 and this rule have been complied with, the Registrar must—
+(3) On being satisfied that the relevant requirements of rule 25.34 and this rule have been complied with, the Registrar must—
   (a) complete the certificate on the application for a warrant of arrest; and
   (b) issue a warrant of arrest in form AD 9.
 (4) Despite subclause (2), a Registrar may, in the case of any emergency or special circumstances, issue a warrant of arrest immediately if the Registrar—
@@ -8317,7 +8326,7 @@ An application for a grant is made by—
 (1) This rule applies to an application without notice.
 (2) Rule 5.36 does not apply to the application.
 (3) The application is headed in the same way as form PR 1.
-(4) A lawyer may give the certificate required by rule, even though he or she—
+(4) A lawyer may give the certificate required by rule 7.23(2), even though he or she—
   (a) is one of the witnesses to the will that the application is about; or
   (b) is named as an executor in the will; or
   (c) is an executor of the will according to its tenor.
@@ -8436,12 +8445,13 @@ An application for a grant is made by—
   (d) section 76 of the Public Trust Act 2001; and
   (e) section 35(4) of the Trustee Act 1956; and
   (f) section 8(1) of the Trustee Companies Act 1967; and
-  (g) rule 27.10(6)(b); and
+  (g) rules 27.10(6)(b) and 27.10(7); and
   (h) rule 27.12(6), if an unopposed application has been made under rule 27.12(3); and
   (i) rule 27.13(3); and
   (j) rule 27.29(2); and
   (k) rule 27.30(1) to (4); and
-  (l) rule 27.34(2).
+  (l) rule 27.34(2); and
+  (m) rule 7.23(5).
 (3) Rules 2.7 to 2.11 apply to a registrar acting under subclause (2) and, for this purpose, references in them to rule 2.5 or 2.6 must be read as references to rule 27.14(2).
 
 ### 27.15 Application of rules 27.16 to 27.28
@@ -9086,8 +9096,8 @@ Unless the court otherwise directs, every application to which this Part applies
 (2) Unless the court otherwise orders, the place for the hearing of the proceeding is—
   (a) the High Court in the town in which the statement of claim is filed; or
   (b) if no Judge will be available in that town at the appointed time, the High Court in another town; or
-  (c) if the statement of claim is filed in Masterton, the High Court at Wellington; or
-  (d) if the statement of claim is filed in Tauranga, the High Court at Rotorua.
+  (c) if the statement of claim is filed in Masterton, the High Court at Wellington.
+  (d)
 (3) Notice of the time and place of the hearing must be included in the notice of proceeding in form C 3.
 (4) The Registrar may change the time before the proceeding has been advertised.
 
@@ -9459,127 +9469,130 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | --- | --- | --- |
 | General forms |  |  |
 |  |  | Page |
-| G 1 | General heading for documents filed in proceeding | 644 |
-| G 2 | Notice of proceeding | 645 |
-| G 3 | Memorandum (general form) | 646 |
-| G 4 | Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 | 648 |
-| G 5 | Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 | 651 |
-| G 6 | Notice to defendant served overseas | 655 |
-| G 7 | Appearance under protest to jurisdiction | 657 |
-| G 8 | Appearance for ancillary purpose | 658 |
-| G 9 | Appearance reserving rights | 659 |
-| G 10 | Memorandum to be attached to first document filed by party | 660 |
-| G 11 | Memorandum as to change of representation and/or address for service | 662 |
-| G 12 | Notice of intention to speak Māori | 663 |
-| G 13 | Notice of proceeding when summary judgment sought by plaintiff | 665 |
-| G 14 | Third party notice | 670 |
-| G 15 | Notice to other defendant | 672 |
-| G 16 | Affidavit of service | 673 |
-| G 17 | Service of foreign process in New Zealand—Registrar’s certificate | 675 |
-| G 18 | Request for service abroad | 676 |
-| G 19 | Report of examiner | 677 |
-| G 20 | Subpoena to give evidence in New Zealand proceeding for service in Australia | 679 |
-| G 21 | Subpoena for production only issued in New Zealand proceeding for service in Australia | 680 |
-| G 22 | Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings | 682 |
-| G 23 | Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia | 684 |
-| G 24 | Notice of discontinuance | 685 |
-| G 25 | Subpoena | 686 |
-| G 26 | Subpoena to give evidence for service in Australia | 688 |
-| G 27 | Subpoena for production only for service in Australia | 689 |
-| G 28 | Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 | 690 |
-| G 29 | Certificate of non-compliance with subpoena for service in Australia | 694 |
-| G 30 | Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 | 695 |
-| G 31 | Interlocutory application on notice | 697 |
-| G 32 | Interlocutory application without notice | 698 |
-| G 33 | Notice of opposition | 699 |
-| G 34 | Interlocutory order | 700 |
-| G 35 | Notice to answer interrogatories | 701 |
-| G 36 | Notice to admit facts | 702 |
-| G 37 | Affidavit of documents | 703 |
-| G 38 | Freezing order | 706 |
-| G 39 | Search order | 709 |
-| J 1 | Judgment by default in case of liquidated demand | 711 |
-| J 2 | Judgment by default in proceeding for recovery of land | 712 |
-| J 3 | Judgment on trial by Judge | 713 |
-| J 4 | Judgment on trial by jury | 714 |
-| E 1 | Notice to liable party | 715 |
-| E 2 | Statement of means of liable party | 717 |
-| E 3 | Attachment order | 722 |
-| E 4 | Charging order on land | 724 |
-| E 5 | Interim charging order | 725 |
-| E 6 | Final charging order | 726 |
-| E 7 | Sale order | 727 |
-| E 8 | Possession order | 729 |
-| E 9 | Arrest order | 730 |
-| E 10 | Sequestration order | 731 |
-| E 11 | Order to arrest and imprison absconding debtor | 732 |
-| E 12 | Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice | 733 |
-| CL 1 | Commercial list | 734 |
-| CL 2 | Appearance in proceeding entered on commercial list | 736 |
-| CL 3 | Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 | 737 |
-| PR 1 | Affidavit for obtaining grant of probate | 739 |
-| PR 2 | Affidavit for obtaining grant of letters of administration with will annexed | 745 |
-| PR 3 | Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner | 752 |
-| PR 4 | Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased | 758 |
-| PR 5 | Affidavit for obtaining grant of administration on intestacy to parent of deceased | 764 |
-| PR 6 | Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased | 769 |
-| PR 7 | Probate in common form | 775 |
-| PR 8 | Letters of administration with will annexed | 777 |
-| PR 9 | Letters of administration on intestacy | 779 |
-| PR 10 | Caveat | 780 |
-| PR 11 | Exemplification of probate or letters of administration | 781 |
-| PR 12 | Affidavit of valid execution | 783 |
-| AD 1 | General heading for action in personam | 786 |
-| AD 2 | Notice of proceeding in personam | 787 |
-| AD 3 | General heading for action in rem | 789 |
-| AD 4 | Notice of proceeding in rem | 790 |
-| AD 5 | Notice of proceeding both in rem and in personam | 792 |
-| AD 6 | Memorandum of appearance | 795 |
-| AD 7 | Application for warrant of arrest | 797 |
-| AD 8 | Indemnity to Registrar | 798 |
-| AD 9 | Warrant of arrest | 799 |
-| AD 10 | Notice by Registrar of arrest of property | 800 |
-| AD 11 | Request for caveat against arrest | 801 |
-| AD 12 | Release from arrest | 802 |
-| AD 13 | Bail bond | 803 |
-| AD 14 | Request for caveat against release and payment | 804 |
-| AD 15 | Request for commission for appraisement and sale | 805 |
-| AD 16 | Commission for appraisement and sale | 806 |
-| AD 17 | Notice for priority of claims on sale | 807 |
-| Arb 1 | Appeal under Arbitration Act 1996 | 808 |
-| Arb 2 | Notice for leave to appeal under Arbitration Act 1996 | 810 |
-| Arb 3 | Application to enter award as judgment | 812 |
-| C 1 | Statement of claim in proceeding for putting company into liquidation | 814 |
-| C 2 | Statement of claim in proceeding for order under section 174 of Companies Act 1993 | 815 |
-| C 3 | Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 | 817 |
-| C 4 | Verifying affidavit | 821 |
-| C 5 | Affidavit verifying statement of claim of limited company | 822 |
-| C 6 | Advertisement of application for putting company into liquidation | 823 |
-| C 7 | Advertisement of application for order under section 174 of Companies Act 1993 | 824 |
-| C 8 | Affidavit of service | 825 |
-| C 9 | Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) | 826 |
-| C 10 | Notification to liquidator of order putting company into liquidation | 827 |
-| C 11 | Notification to interim liquidator of appointment | 828 |
-| C 12 | Order putting company into liquidation | 829 |
-| C 13 | Order appointing interim liquidator | 830 |
-| C 14 | General heading for notices in forms C 15 and C 16 | 831 |
-| C 15 | Notice to set aside voidable transaction under Companies Act 1993 | 832 |
-| C 16 | Notice to set aside voidable charge under Companies Act 1993 | 834 |
-| B 1 | Request for issue of bankruptcy notice | 836 |
-| B 2 | Bankruptcy notice | 837 |
-| B 3 | Creditor's application for adjudication order | 839 |
-| B 4 | Affidavit supporting creditor’s application for adjudication | 840 |
-| B 5 | Summons to debtor | 841 |
-| B 6 | Notice by debtor of intention to oppose application | 843 |
-| B 7 | Warrant to search for and seize bankrupt’s property under section 150 or 151 of Insolvency Act 2006 | 844 |
-| B 8 | Notice of objection to discharge | 845 |
-| B 9 | Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 | 846 |
-| B 10 | Statement of affairs and affidavit | 848 |
-| B 11 | Report of trustee on proposal | 849 |
-| B 12 | Account of assets, debts, etc, of deceased person verified by affidavit | 851 |
-| B 13 | Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 | 853 |
-| B 14 | Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 | 855 |
-| B 15 | Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 | 857 |
+| G 1 | General heading for documents filed in proceeding | 647 |
+| G 2 | Notice of proceeding | 648 |
+| G 3 | Memorandum (general form) | 649 |
+| G 4 | Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 | 651 |
+| G 5 | Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 | 654 |
+| G 6 | Notice to defendant served overseas | 658 |
+| G 7 | Appearance under protest to jurisdiction | 660 |
+| G 8 | Appearance for ancillary purpose | 661 |
+| G 9 | Appearance reserving rights | 662 |
+| G 10 | Memorandum to be attached to first document filed by party | 663 |
+| G 11 | Memorandum as to change of representation and/or address for service | 665 |
+| G 12 | Notice of intention to speak Māori | 666 |
+| G 13 | Notice of proceeding when summary judgment sought by plaintiff | 668 |
+| G 14 | Third party notice | 673 |
+| G 15 | Notice to other defendant | 675 |
+| G 16 | Affidavit of service | 676 |
+| G 17 | Service of foreign process in New Zealand—Registrar’s certificate | 678 |
+| G 18 | Request for service abroad | 679 |
+| G 19 | Report of examiner | 680 |
+| G 20 | Subpoena to give evidence in New Zealand proceeding for service in Australia | 682 |
+| G 21 | Subpoena for production only issued in New Zealand proceeding for service in Australia | 683 |
+| G 22 | Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings | 685 |
+| G 23 | Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia | 687 |
+| G 24 | Notice of discontinuance | 688 |
+| G 25 | Subpoena | 689 |
+| G 26 | Subpoena to give evidence for service in Australia | 691 |
+| G 27 | Subpoena for production only for service in Australia | 692 |
+| G 28 | Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 | 693 |
+| G 29 | Certificate of non-compliance with subpoena for service in Australia | 697 |
+| G 30 | Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 | 698 |
+| G 31 | Interlocutory application on notice | 700 |
+| G 32 | Interlocutory application without notice | 701 |
+| G 33 | Notice of opposition | 702 |
+| G 34 | Interlocutory order | 703 |
+| G 35 | Notice to answer interrogatories | 704 |
+| G 36 | Notice to admit facts | 705 |
+| G 37 | Affidavit of documents | 706 |
+| G 38 | Freezing order | 709 |
+| G 39 | Search order | 712 |
+| G 40 | General court order | 714 |
+| J 1 | Judgment by default in case of liquidated demand | 715 |
+| J 2 | Judgment by default in proceeding for recovery of land | 716 |
+| J 3 | Judgment on trial by Judge | 717 |
+| J 4 | Judgment on trial by jury | 718 |
+| E 1 | Notice to liable party | 719 |
+| E 2 | Statement of means of liable party | 721 |
+| E 3 | Attachment order | 726 |
+| E 4 | Charging order on land | 728 |
+| E 5 | Interim charging order | 729 |
+| E 6 | Final charging order | 730 |
+| E 7 | Sale order | 731 |
+| E 8 | Possession order | 733 |
+| E 9 | Arrest order | 734 |
+| E 10 | Sequestration order | 735 |
+| E 11 | Order to arrest and imprison absconding debtor | 736 |
+| E 12 | Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice | 737 |
+| CL 1 | Commercial list | 738 |
+| CL 2 | Appearance in proceeding entered on commercial list | 740 |
+| CL 3 | Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 | 741 |
+| PR 1 | Affidavit for obtaining grant of probate | 743 |
+| PR 2 | Affidavit for obtaining grant of letters of administration with will annexed | 750 |
+| PR 3 | Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner | 757 |
+| PR 4 | Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased | 763 |
+| PR 5 | Affidavit for obtaining grant of administration on intestacy to parent of deceased | 769 |
+| PR 6 | Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased | 774 |
+| PR 7 | Probate in common form | 780 |
+| PR 8 | Letters of administration with will annexed | 782 |
+| PR 9 | Letters of administration on intestacy | 784 |
+| PR 10 | Caveat | 785 |
+| PR 11 | Exemplification of probate or letters of administration | 786 |
+| PR 12 | Affidavit of valid execution | 788 |
+| AD 1 | General heading for action in personam | 791 |
+| AD 2 | Notice of proceeding in personam | 792 |
+| AD 3 | General heading for action in rem | 794 |
+| AD 4 | Notice of proceeding in rem | 795 |
+| AD 5 | Notice of proceeding both in rem and in personam | 797 |
+| AD 6 | Memorandum of appearance | 800 |
+| AD 7 | Application for warrant of arrest | 802 |
+| AD 8 | Indemnity to Registrar | 803 |
+| AD 9 | Warrant of arrest | 804 |
+| AD 10 | Notice by Registrar of arrest of property | 805 |
+| AD 11 | Request for caveat against arrest | 806 |
+| AD 12 | Release from arrest | 807 |
+| AD 13 | Bail bond | 808 |
+| AD 14 | Request for caveat against release and payment | 809 |
+| AD 15 | Request for commission for appraisement and sale | 810 |
+| AD 16 | Commission for appraisement and sale | 811 |
+| AD 17 | Notice for priority of claims on sale | 812 |
+| Arb 1 | Appeal under Arbitration Act 1996 | 813 |
+| Arb 2 | Notice for leave to appeal under Arbitration Act 1996 | 815 |
+| Arb 3 | Application to enter award as judgment | 817 |
+| C 1 | Statement of claim in proceeding for putting company into liquidation | 819 |
+| C 2 | Statement of claim in proceeding for order under section 174 of Companies Act 1993 | 820 |
+| C 3 | Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 | 822 |
+| C 4 | Verifying affidavit | 826 |
+| C 5 | Affidavit verifying statement of claim of limited company | 827 |
+| C 6 | Advertisement of application for putting company into liquidation | 828 |
+| C 7 | Advertisement of application for order under section 174 of Companies Act 1993 | 829 |
+| C 8 | Affidavit of service | 830 |
+| C 9 | Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) | 831 |
+| C 10 | Notification to liquidator of order putting company into liquidation | 832 |
+| C 11 | Notification to interim liquidator of appointment | 833 |
+| C 12 | Order putting company into liquidation | 834 |
+| C 13 | Order appointing interim liquidator | 835 |
+| C 14 | General heading for notices in forms C 15 and C 16 | 836 |
+| C 15 | Notice to set aside voidable transaction under Companies Act 1993 | 837 |
+| C 16 | Notice to set aside voidable charge under Companies Act 1993 | 839 |
+| B 1 | Request for issue of bankruptcy notice | 841 |
+| B 2 | Bankruptcy notice | 842 |
+| B 3 | Creditor's application for adjudication order | 845 |
+| B 4 | Affidavit supporting creditor’s application for adjudication | 846 |
+| B 5 | Summons to debtor | 847 |
+| B 6 | Notice by debtor of intention to oppose application | 849 |
+| B 7 | Warrant to search for and seize bankrupt’s property under section 150 or 151 of Insolvency Act 2006 | 850 |
+| B 8 | Notice of objection to discharge | 851 |
+| B 9 | Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 | 852 |
+| B 10 | Statement of affairs and affidavit | 854 |
+| B 11 | Report of trustee on proposal | 855 |
+| B 12 | Account of assets, debts, etc, of deceased person verified by affidavit | 857 |
+| B 13 | Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 | 859 |
+| B 14 | Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 | 861 |
+| B 15 | Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 | 863 |
+| B 16 | Order adjudicating debtor bankrupt | 865 |
+| B 17 | Appointment of Official Assignee as receiver and manager | 866 |
 
 | *Select one. |
 | --- |
@@ -9747,9 +9760,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| *Select one. |
-| --- |
-
 | *This certificate may be dispensed with if a Judge so orders under rule 7.23(5). If dispensation is sought, the reasons for the absence of a lawyer’s certificate must be stated. |
 | --- |
 
@@ -9785,6 +9795,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 
 | *Select one. |
 | --- |
+
+| *Select on the application of if no appearance. |
+| --- |
+| †Select one. |
 
 | *Select one. |
 | --- |
@@ -9918,16 +9932,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| *If this order seeks less than the full amount for which judgment was sealed, add the following words: (less than the full amount of the judgment debt is being charged by this order). |
+| *If this order seeks less than the full amount for which judgment was sealed, add the following words: (Less than the full amount of the judgment debt is being charged by this order.) |
 | --- |
 
-| *Select one. |
-| --- |
-
-| *Chattels includes money, cheques, bills of exchange, promissory notes, bonds, and other securities for money. |
-| --- |
-
-| *Select depending on whether enforcement is sought for less than the full amount for which judgment was sealed. If less than the full amount, add the following words: “(less than the full amount of the judgment debt)”. |
+| *Select depending on whether enforcement is sought for less than the full amount for which judgment was sealed. If less than the full amount, add the following words: (, which is less than the full amount of the judgment debt). |
 | --- |
 
 | †Select one. |
@@ -9996,7 +10004,86 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
+| †If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
+| --- |
+
 | *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+| †Include words in the brackets only where such a document or codicil exists. |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| †If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
 | --- |
 
 | *Select one. |
@@ -10062,61 +10149,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| *If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (7) applies. |
-| --- |
-
 | *Select one. |
 | --- |
 
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
-| --- |
-
-| *Select one. |
+| *If the deceased did not reside in New Zealand when he or she died, rule 27.10(3) to (6) of the High Court Rules applies. |
 | --- |
 
 | *Select one. |
@@ -10126,6 +10162,42 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | --- | --- |
 | (a) | I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with section 65(2)(c) of that Act in this court on [date]. A copy is attached and marked “[specify]”. |
 | (b) | My interest is not affected by section 77B of the Administration Act 1969 (which negates the beneficial interest of a surviving de facto partner to a relationship of short duration in some circumstances [if you claim that section 77B(2) applies, state the facts supporting your claim]. |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
 
 | *Select one. |
 | --- |
@@ -10454,9 +10526,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| *Select one. |
-| --- |
-
 | Name of company | Registered office | Plaintiff'ssolicitor | Date of filing of statement of claim |
 | --- | --- | --- | --- |
 
@@ -10468,9 +10537,6 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 
 | Name of company | Registered office | Plaintiff'ssolicitor | Date of filing of statement of claim |
 | --- | --- | --- | --- |
-
-| *Select one. |
-| --- |
 
 | *Select one. |
 | --- |
@@ -10598,6 +10664,16 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+
+| *Select one. |
+| --- |
+| †If part only, specify that part precisely. |
+
 #### Schedule 2 — Appropriate daily recovery rates
 
 | Category of proceedings referred to in rule 14.3 | Appropriate daily recovery rate |
@@ -10663,10 +10739,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | 9 | Appearance at hearing: |  |  |  |
 | 9.1 | For sole or principal counsel | Appearance in court measured in half days |  |  |
 | 9.2 | Second and subsequent counsel if allowed by court | 50% of allowance for principal counsel |  |  |
-| 10 | Execution of judgment or order: |  |  |  |
+| 10 | Enforcement of judgment or order: |  |  |  |
 | 10.1 | Charging order without application | 0.3 | 0.3 | 1 |
 | 10.2 | Charging order with application, including any unopposed order | 0.5 | 0.5 | 1.4 |
-| 10.3 | Writ of sale | 0.5 | 0.5 | 0.7 |
+| 10.3 | Sale order | 0.5 | 0.5 | 0.7 |
 | 10.4 | Other execution process | 0.5 | 0.5 | 0.7 |
 | 11 | Other steps in the proceeding not specifically mentioned | As allowed by court |  |  |
 | 12 | Commencement of appeal or review (including assessing original decision, noting appealable or reviewable points, and filing and serving notice of appeal and points of appeal or notice of application) | 0.2 | 0.5 | 1.5 |
@@ -10891,6 +10967,12 @@ The purpose of this Act is to—
   (c) provide for the electronic filing of court documents:
   (d) enable judgment creditors to attach salaries, wages, and benefits of judgment debtors.
 
+## Part 1 — Amendments to principal Act
+
+### 8 New Schedule 2 substituted
+(1) Amendment(s) incorporated in the Act(s).
+(2) Despite subsection (1), Part 15 and forms 83 to 88 of the High Court Rules (which relate to constituency election petitions) as in force immediately before the commencement of this section continue in force until they are revoked by rules made under section 51C.
+
 ## Part 2 — Transitional provisions and consequential amendments
 
 ### 9 Transitional provisions
@@ -10964,3 +11046,19 @@ These rules come into force on 24 May 2010.
 | 3 | Production of documents for inspection | The date on which the affidavit listing those documents is filed |
 | 4 | Inspection of documents | The date on which the affidavit listing those documents is filed |
 | 5 | Preparation for hearing | The first day of the hearing or, if the hearing does not eventuate, the hearing date allocated |
+
+### 1 Title
+These rules are the High Court Amendment Rules (No 2) 2010.
+
+### 2 Commencement
+(1) These rules (other than Part 5 and Part 6) come into force on 1 January 2011.
+(2) Part 5 comes into force on the date when the Unit Titles Act 2010 comes into force.
+(3) Part 6 comes into force on 2 December 2010.
+
+### 3 Principal rules amended
+These rules amend the High Court Rules set out in Schedule 2 of the Judicature Act 1908.
+
+## Part 2 — Constituency election petitions
+
+### 14 Revocation of constituency election petition rules
+Part 15 and forms 83 to 88 of the High Court Rules (relating to constituency election petitions), which continued in force under section 8(2) of the Judicature (High Court Rules) Amendment Act 2008 despite the enactment of the Constituency Election Petition Rules 2008 superseding those provisions, are revoked as from 1 February 2009.
