@@ -1,5 +1,5 @@
 # Limitation Amendment Act 1962
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-01-01_
 
 > An Act to amend the Limitation Act 1950
 
