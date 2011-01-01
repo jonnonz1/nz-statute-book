@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-01-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -6637,7 +6637,9 @@ In all proceedings in any court for the recovery of tax, costs may be awarded to
 No action instituted by the Commissioner for the recovery of tax, and no proceedings objecting to or challenging an assessment of tax or other disputable decision, shall abate by reason of any vacancy in the office of Commissioner, or shall be deemed defectively constituted by reason of any change in the holder of that office, and every such action or proceeding shall be continued in the ordinary course as if the Commissioner and the Commissioner's successors in office were a corporation sole.
 
 ### 163 No limitation of action to recover tax
-No statute of limitations shall bar or affect any action or remedy for the recovery of tax.
+No relief in respect of a claim for recovery of tax is barred or otherwise affected by the following:
+  (a) the Limitation Act 2010:
+  (b) any other enactment that prescribes a limitation period or other limitation defence.
 
 ### 164 Crown Proceedings Act 1950 not affected
 Nothing in this Act or the Income Tax Act 2007 shall be so construed as to limit or affect the operation of the Crown Proceedings Act 1950, and all rights and remedies conferred upon the Crown by that Act and by this Act and the Income Tax Act 2007 shall co-exist, and may be exercised independently of one another, and tax may be recovered accordingly.
