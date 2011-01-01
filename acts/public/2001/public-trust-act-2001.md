@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2011-01-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
   - **Public Trust** means Public Trust established by section 7; and includes a Crown entity subsidiary of Public Trust
   - **related company** has the meaning set out in section 2(3) of the Companies Act 1993; and, for that purpose, Public Trust is to be treated as if it were a company registered under that Act
   - **subsidiary** has the meaning set out in sections 5, 7, and 8 of the Companies Act 1993; and, for that purpose, Public Trust is to be treated as if it were a company registered under that Act
-  - **trust** — and has a corresponding meaning.
+  - **trust** —and has a corresponding meaning.
     (a) includes—
       (i) implied and constructive trusts; and
       (ii) cases where the trustee has a beneficial interest in the trust property; and
@@ -421,7 +421,7 @@ Nothing in this Act confers on any person acting jointly with Public Trust any r
   (b) money of any other estate in Public Trust's possession that is available for investment (whether or not the estate is administered by Public Trust), if—
     (i) the money is not directed to be invested in some other specified manner; and
     (ii) investment in a group investment fund is not inconsistent with the terms of the trust instrument or other authority governing the money.
-(2) If money of the kinds referred to in subsection (1) is lawfully invested in an investment in which a group investment fund may be invested, Public Trust may— On any investment being so transferred, it ceases to belong to the estate that formerly owned it.
+(2) If money of the kinds referred to in subsection (1) is lawfully invested in an investment in which a group investment fund may be invested, Public Trust may—On any investment being so transferred, it ceases to belong to the estate that formerly owned it.
   (a) transfer the investment to the group investment fund; and
   (b) give credit in the group investment fund to the estate for the fair market value of the investment at the time of the transfer.
 (3) Public Trust may in its discretion withdraw any amount for the time being to the credit of an estate in a group investment fund—
@@ -532,7 +532,7 @@ Except as otherwise expressly provided in sections 63 to 73, nothing in those se
 (5) For the purposes of subsection (1), person or entity includes the Crown, the Governor-General in Council, the Governor-General, and any court, Judge, public officer, public or private corporation or association, or person, whether in or out of New Zealand.
 
 ### 76 Appointment of Public Trust by executors, administrators, and trustees
-(1) An executor may, with the consent of the High Court, and if not expressly prohibited,— Such an appointment may be made either before or after taking out probate.
+(1) An executor may, with the consent of the High Court, and if not expressly prohibited,—Such an appointment may be made either before or after taking out probate.
   (a) appoint Public Trust as sole executor; or
   (b) appoint as co-executors Public Trust and any other person or persons (whether or not including the executor making the appointment).
 (2) Any other administrator under a grant of administration with or without a will annexed may, with the consent of the High Court, and if not expressly prohibited,—
@@ -575,7 +575,7 @@ If the consent of any person is required for the appointment of an administrator
 (2) The court must make the grant applied for, unless the person entitled to probate or letters of administration with the will annexed either—
   (a) applies for probate or letters of administration with the will annexed; or
   (b) satisfies the court that the delay in making the application has been and still is unavoidable or accidental.
-(3) The court may nevertheless, on application of the person or his or her attorney, grant probate or letters of administration to— The grant may be in such manner and subject to such limitations or conditions as the court thinks proper.
+(3) The court may nevertheless, on application of the person or his or her attorney, grant probate or letters of administration to—The grant may be in such manner and subject to such limitations or conditions as the court thinks proper.
   (a) a person entitled to probate or letters of administration with the will annexed who—
     (i) was out of New Zealand when the grant to Public Trust was made; and
     (ii) has not renounced or refused probate or letters of administration; or
@@ -594,14 +594,14 @@ If the consent of any person is required for the appointment of an administrator
 (2) Public Trust may then exercise all the functions, powers, authorities, discretions, and rights that were delegated.
 
 ### 82 Powers and authorities exercisable by Public Trust pending grant of probate or administration
-(1) Where a person has died, Public Trust may if it thinks fit, until administration is granted, exercise with respect to the estate of the deceased person all the powers and authorities, and do all the acts and things, that it could exercise or do if— Before Public Trust so acts, however, it must give notice in accordance with section 83.
+(1) Where a person has died, Public Trust may if it thinks fit, until administration is granted, exercise with respect to the estate of the deceased person all the powers and authorities, and do all the acts and things, that it could exercise or do if—Before Public Trust so acts, however, it must give notice in accordance with section 83.
   (a) the person had died intestate; and
   (b) Public Trust had obtained administration.
 (2) Subsection (1) applies—
   (a) whether the person died testate or intestate; and
   (b) even if some person other than Public Trust is appointed executor or is entitled to letters of administration.
 (3) Subsection (1) does not authorise Public Trust to sell, lease, exchange, mortgage, or partition any portion of the property (other than property to which subsection (4) applies) unless, on application of Public Trust, a Judge of the High Court makes an order under this section authorising the relevant action.
-(4) Public Trust may nevertheless sell, without obtaining such an order, any portion of the personal estate that is— The decision of Public Trust as to whether any portion of the personal estate is of such a nature is conclusive and binding on all persons.
+(4) Public Trust may nevertheless sell, without obtaining such an order, any portion of the personal estate that is—The decision of Public Trust as to whether any portion of the personal estate is of such a nature is conclusive and binding on all persons.
   (a) of a perishable nature; or
   (b) liable to deteriorate; or
   (c) for any other reason liable to decrease unduly in value if retained.
@@ -664,7 +664,7 @@ If the consent of any person is required for the appointment of an administrator
     (i) vary the scheme so far as it relates to the powers of Public Trust in respect of the fund and the mode of administering the fund:
     (ii) give directions on any point or question relating to the scheme or the fund:
   (f) Public Trust must obey all such directions:
-  (g) if the fund was raised for the benefit of 2 or more persons, a scheme under this section may provide that the income and capital of the fund, or of any specified part of the fund, may be applied by Public Trust in its discretion for or towards the maintenance or education (including past maintenance or education) or advancement or benefit of— in such shares and proportions and generally in such manner as Public Trust thinks fit. Public Trust may apply money in accordance with such provisions notwithstanding that only 1 of the persons remains alive.
+  (g) if the fund was raised for the benefit of 2 or more persons, a scheme under this section may provide that the income and capital of the fund, or of any specified part of the fund, may be applied by Public Trust in its discretion for or towards the maintenance or education (including past maintenance or education) or advancement or benefit of—in such shares and proportions and generally in such manner as Public Trust thinks fit. Public Trust may apply money in accordance with such provisions notwithstanding that only 1 of the persons remains alive.
     (i) all those persons; or
     (ii) any 1 or more of them to the exclusion of the others,—
 (3) If the fund does not exceed $40,000, or such higher amount as is prescribed by regulations,—
@@ -775,7 +775,7 @@ For the purposes of elections under sections 93 and 94,—
 
 ### 97 Elections to administer jointly with another person
 (1) In any case where Public Trust and another person or persons are entitled to elect to administer the estate of a deceased person, the execution of the election to administer, or of any memorandum under section 93(7) or section 94(5) or section 96(2), by the other person or persons does not need to be attested in any way.
-(2) A statement in an election to administer to the effect that an executor or co-executor— is to be accepted by all courts and persons as sufficient evidence of that fact without further proof.
+(2) A statement in an election to administer to the effect that an executor or co-executor—is to be accepted by all courts and persons as sufficient evidence of that fact without further proof.
   (a) has died; or
   (b) is unable or unwilling to act; or
   (c) has not made application for probate in New Zealand,—
@@ -865,7 +865,7 @@ On application by Public Trust, the court may make an order vesting in Public Tr
   (c) the transfer does not affect the rights that any other person may have in respect of the land.
 
 ### 106 Property to be held for owner
-Where Public Trust— the property, money, damages, or profits are, after payment out of all money authorised to be applied, expended, or charged by Public Trust, held by Public Trust for the owner of the property.
+Where Public Trust—the property, money, damages, or profits are, after payment out of all money authorised to be applied, expended, or charged by Public Trust, held by Public Trust for the owner of the property.
   (a) takes possession of any property as manager under this Part; or
   (b) receives or recovers any money, damages, or mesne profits in respect of the property,—
 
@@ -921,7 +921,7 @@ Where Public Trust— the property, money, damages, or profits are, after paymen
 (1) All expenditure incurred by Public Trust as manager of any property under this Part, and all fees, costs, commission, charges, interest, and expenses incurred by or payable to it as manager of the property, are a charge on the property.
 (2) The charge ranks next in priority to any mortgage or charge to which the property is subject when Public Trust becomes its manager.
 (3) The amount charged on the property bears interest at a rate fixed by Public Trust.
-(4) If Public Trust is unable to recover from any person or property the amount of— the amount of the deficiency is to be met out of a Crown Bank Account without further appropriation than this section.
+(4) If Public Trust is unable to recover from any person or property the amount of—the amount of the deficiency is to be met out of a Crown Bank Account without further appropriation than this section.
   (a) all expenditure incurred by it as manager of any property under this Part; and
   (b) all fees, costs, commission, charges, interest, and expenses incurred by or payable to it as manager of the property,—
 
@@ -944,8 +944,8 @@ In any case where the court or Public Trust is acting under this Part,—
 ### 116 Crown not affected
 Nothing in this Part affects the Crown in respect of its property or rights.
 
-### 117 Limitation Act 1950 not affected
-Nothing in this Part affects the Limitation Act 1950 or any other enactment by which a period of limitation is prescribed.
+### 117 Limitation Act 2010 not affected
+Nothing in this Part affects the Limitation Act 2010 or any other enactment by which a period of limitation is prescribed.
 
 ## Part 8 — Miscellaneous provisions
 
@@ -1005,7 +1005,7 @@ Where Public Trust is executor, administrator, or trustee, or is guardian, or is
 (3) No application to the court under this section may be made by or on behalf of any person after the expiration of 6 months from the date of delivery to that person of accounts in which are shown the commission, fee, or remuneration to which the application relates.
 
 ### 125 Additional remuneration
-(1) When Public Trust, at or after the commencement of this Act, in connection with any estate under its administration or management,— it may apply to the court to fix, in addition to any commission, fee, or remuneration to which it is otherwise entitled, either an additional fee or an additional commission by way of percentage.
+(1) When Public Trust, at or after the commencement of this Act, in connection with any estate under its administration or management,—it may apply to the court to fix, in addition to any commission, fee, or remuneration to which it is otherwise entitled, either an additional fee or an additional commission by way of percentage.
   (a) lawfully carries on or manages (whether alone or in partnership or through an agent) any business or undertaking; or
   (b) takes an active part (through a representative or otherwise) in the management or direction of any company; or
   (c) considers that other circumstances have arisen which justify additional remuneration,—
@@ -1159,11 +1159,11 @@ If the office solicitor acts for both parties in a conveyancing transaction betw
 (2) All costs, fees, allowances, and charges earned by the office solicitor must be applied and disposed of as a profit of Public Trust.
 
 ### 144 Certificate by Public Trust as to its legal status in any matter
-(1) Despite any enactment or law to the contrary, a certificate by Public Trust in relation to a deceased person that— is to be accepted by all courts and persons as sufficient evidence, without further proof, of the death of the person, the appointment of Public Trust as executor or other administrator, or Public Trust's right to administer.
+(1) Despite any enactment or law to the contrary, a certificate by Public Trust in relation to a deceased person that—is to be accepted by all courts and persons as sufficient evidence, without further proof, of the death of the person, the appointment of Public Trust as executor or other administrator, or Public Trust's right to administer.
   (a) states the name, residence, and occupation of the deceased person at the time of his or her death, and the date of death; and
   (b) certifies that Public Trust has obtained a grant of probate or an order to administer, or is otherwise authorised to administer the estate; and
   (c) states the date when the probate or order to administer was granted, or the manner in which and time at which Public Trust became authorised to administer,—
-(2) Despite any enactment or law to the contrary, a certificate by Public Trust in any particular case that— is to be accepted by all courts and persons as sufficient evidence, without further proof, of Public Trust's right to act.
+(2) Despite any enactment or law to the contrary, a certificate by Public Trust in any particular case that—is to be accepted by all courts and persons as sufficient evidence, without further proof, of Public Trust's right to act.
   (a) certifies that Public Trust is authorised to act as trustee, guardian, manager, agent, attorney, liquidator, committee, receiver, or in any other capacity in the particular case; and
   (b) states the manner in which and time at which it became so authorised to act—
 (3) A certificate under this section is sufficient for the purpose of registering Public Trust as proprietor of—
