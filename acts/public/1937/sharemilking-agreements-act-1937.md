@@ -1,5 +1,5 @@
 # Sharemilking Agreements Act 1937
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-01-01_
 
 > An Act to make provision for safeguarding the interests of sharemilkers under sharemilking agreements
 
@@ -18,7 +18,7 @@ This Act may be cited as the Sharemilking Agreements Act 1937.
 (1) This section applies to every sharemilking agreement made between an employer and a sharemilker in any case where the dairy herd is owned or provided by the employer, but does not apply to any bona fide sharemilking agreement whereby the sharemilker receives one-half of the returns or profits derived from the dairy farming operations which are the subject-matter of the agreement, and the employer, for the purposes of the agreement, bails or leases the dairy herd or part of it to the sharemilker for an adequate consideration.
 (2) Notwithstanding anything to the contrary in any sharemilking agreement to which this section applies (whether such agreement has been entered into before or is entered into after the passing of this Act) the agreement shall, on and after the 1st day of August 1938, operate not less favourably to the sharemilker in any respect than if the terms and conditions specified in the Schedule hereto were incorporated in the agreement on that date.
 (3) Any terms and conditions included in the sharemilking agreement that are inconsistent with the terms and conditions specified in the Schedule hereto (in so far as they would operate to the disadvantage of the sharemilker) shall, on and after the 1st day of August 1938, or the date of the agreement (whichever is the later), be deemed to be null and void.
-(4) Notwithstanding any other provision of this section, the Limitation Act 1950 shall be read subject to the terms and conditions specified in the Schedule hereto.
+(4) Notwithstanding any other provision of this section, the Limitation Act 2010 shall be read subject to the terms and conditions specified in the Schedule hereto.
 
 ### 4 Provision for variation of conditions set out in Schedule hereto
 (1) The terms and conditions set out in the Schedule hereto (which have been formulated and agreed to on behalf of the New Zealand Farmers' Union and the New Zealand Workers' Industrial Union of Workers) may at any time and from time to time be altered by the Governor-General by Order in Council if he is satisfied that the proposed alterations have been agreed to by or on behalf of the same organisations, or by or on behalf of any other organisations representing the interests of the employers and sharemilkers respectively, or have been recommended by the Arbitration Court.
