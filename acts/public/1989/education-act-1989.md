@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-02-01_
 
 > An Act to reform the administration of education
 
@@ -4896,7 +4896,7 @@ Section 168(1) and (2) of the Crown Entities Act 2004 applies to a council of an
 The money of an institution shall be applied only—
   (a) in payment or discharge of the expenses, charges, obligations or liabilities incurred or undertaken by or on behalf of the institution; or
   (b)
-  (c) in making grants to the Foundation for Research, Science, and Technology; or
+  (c)
   (d) in payment of any remuneration or allowances payable to members of the council or of committees of the council or to the chief executive or members of the staff of the institution; or
   (e) in making any other payments that are required or permitted by this Act or any other enactment to be made out of the money of the institution.
 
