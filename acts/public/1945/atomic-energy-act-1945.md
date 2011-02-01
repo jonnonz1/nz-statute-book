@@ -1,5 +1,5 @@
 # Atomic Energy Act 1945
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-02-01_
 
 > An Act to make provision for the control in New Zealand of the means of producing atomic energy and for that purpose to provide for the control of the mining and treatment of the ores of uranium and other elements which may be used for the production of atomic energy, and to provide for the vesting of such substances in the Crown
 
@@ -8,28 +8,28 @@ This Act may be cited as the Atomic Energy Act 1945.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Atomic energy** means the energy released from atomic nuclei as a result of any process, including the fission process; but does not include energy released in any process of natural transmutation or radioactive decay which is not accelerated or influenced by external means
+  - **atomic energy** means the energy released from atomic nuclei as a result of any process, including the fission process; but does not include energy released in any process of natural transmutation or radioactive decay which is not accelerated or influenced by external means
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Minister of Research, Science, and Technology** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Foundation for Research, Science, and Technology Act 1990
+  - **Minister of Research, Science, and Technology** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Research, Science, and Technology Act 2010
   - **New Zealand** includes any territory subject to the protection, mandate, trusteeship, or authority of the Government of the Dominion of New Zealand, including the Cook Islands
-  - **Prescribed substance** means uranium, thorium, plutonium, neptunium, or any of their respective compounds, or any such other substance as the Minister may prescribe by notice in the Gazette, being a substance which in his opinion is or may be used for the production of atomic energy or research into matters connected therewith
+  - **prescribed substance** means uranium, thorium, plutonium, neptunium, or any of their respective compounds, or any such other substance as the Minister may prescribe by notice in the Gazette, being a substance which in his opinion is or may be used for the production of atomic energy or research into matters connected therewith
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Uranium** includes thorium and all natural substances, chemical compounds, and physical combinations of uranium or thorium.
+  - **uranium** includes thorium and all natural substances, chemical compounds, and physical combinations of uranium or thorium.
 
 ### 3 Application of Act in Cook Islands
-This Act shall extend to and be in force in the Cook Islands
+This Act shall extend to and be in force in the Cook Islands.
 
 ### 4 Notification of discovery of uranium
-(1) Every person who, whether before or after the passing of this Act, has discovered that any prescribed substance occurs at any place in New Zealand shall, within 3 months after the passing of this Act or after making the discovery, whichever is the later, report the discovery by written notice (which shall specify the place where the discovery took place and the date of the discovery) to the Secretary .
+(1) Every person who, whether before or after the passing of this Act, has discovered that any prescribed substance occurs at any place in New Zealand shall, within 3 months after the passing of this Act or after making the discovery, whichever is the later, report the discovery by written notice (which shall specify the place where the discovery took place, and the date of the discovery) to the Secretary.
 (2)
 
-### 4A Grant of rewards in respect of the discovery of prescribed substances
+### 4A Grants of rewards in respect of the discovery of prescribed substances
 [Repealed]
 
 ### 4B Grants to assist persons prospecting for or producing prescribed substances
 [Repealed]
 
-### 5 Minister may control mining or concentrating of prescribed substances
+### 5 Minister may control mining or concentrating of substances containing uranium
 (1) If the Minister is satisfied that any person is mining or is about to mine any prescribed substance or is engaged or about to engage in carrying out any physical, chemical, or metallurgical process as a result of which, in the opinion of the Minister, any prescribed substance may reasonably be expected to be isolated or extracted, the Minister may, by notice in writing given to that person, require him in conducting the mining operations or in carrying out any process as aforesaid to comply with and observe such terms and conditions as the Minister may in the notice think fit to impose for the purpose of public health and safety.
 (2) Without prejudice to the generality of the last preceding subsection, the Minister may require that the mining operations shall be so conducted, or that such process for treatment and concentration shall be used, as will provide for or facilitate the extraction, isolation, or concentration of the prescribed substance.
 
@@ -42,11 +42,10 @@ This Act shall extend to and be in force in the Cook Islands
 ### 6 Disposition of prescribed substances
 (1) All minerals, concentrates, or other materials containing any prescribed substance which are extracted, isolated, or concentrated by any person shall only be disposed of with the prior written consent of the Minister and subject to such conditions as he shall impose.
 (2) The Minister may serve notice on any person who has produced any mineral, concentrate, or other material containing any prescribed substance that he proposes to acquire, on behalf of Her Majesty, the mineral, concentrate, or other material, and upon the service of the notice and the payment of purchase price in accordance with this section, the mineral, concentrate, or material shall become the property of the Crown and shall be delivered to the Minister or as he shall direct.
-(3) There shall be payable out of money appropriated by Parliament for the purpose in respect of the acquisition of any substance under this section a sum equal to the price which the owner thereof might reasonably have been expected to obtain upon a sale thereof effected by him immediately before the date of the service of the notice referred to in subsection (2) of this section.
+(3) There shall be payable out of money appropriated by Parliament for the purpose in respect of the acquisition of any substance under this section a sum equal to the price which the owner thereof might reasonably have been expected to obtain upon a sale thereof effected by him immediately before the date of the service of the notice referred to in subsection (2).
 
 ### 7 As to importation of prescribed substances
-No person shall, without the prior written consent of the Minister, import any prescribed substance:
-  Provided that samples of any minerals containing any prescribed substance may be imported without the consent of the Minister if the weight of those samples does not exceed 5 pounds.
+No person shall, without the prior written consent of the Minister, import any prescribed substance:provided that samples of any minerals containing any prescribed substance may be imported without the consent of the Minister if the weight of those samples does not exceed 5 pounds.
 
 ### 8 Uranium in its natural condition to be property of Crown
 [Repealed]
@@ -66,16 +65,15 @@ No person shall, without the prior written consent of the Minister, import any p
 (3) No person shall, without the prior written consent of the Minister of Research, Science, and Technology, import, manufacture, or have in his possession or control any material or substance which that Minister has by notice in the Gazette for the purposes of this section declared to be essential to any process for the production of atomic energy.
 
 ### 13 Universities and schools empowered to carry on certain experimental work
-(1) Notwithstanding anything to the contrary in the foregoing provisions of this Act, uranium and thorium of natural isotope composition of an amount not exceeding the appropriate amount mentioned in the next succeeding subsection may be possessed and used for the purpose of instruction and of investigation as to the properties and effects of radioactive and like radiations at any University in New Zealand, at any school providing secondary instruction, at any laboratory under the control of any Department of State, and at any other laboratory for the time being approved by the Minister of Research, Science, and Technology.
-(2) The amount of uranium and of thorium that may be possessed and used as provided in the last preceding subsection shall be one pound each of uranium and of thorium, calculated by metal content, in the case of a school providing secondary instruction, and 20 pounds each of uranium and of thorium, calculated by metal content, in any other case:
-  Provided that the Minister of Research, Science, and Technology may from time to time by notice in the Gazette increase or reduce the amounts that may be possessed and used as aforesaid.
-(3) Notwithstanding anything to the contrary in the foregoing provisions of this Act any University in New Zealand, any laboratory under the control of any Department of State, and any laboratory for the time being approved by the Minister of Research, Science, and Technology, may import, purchase, construct, have possession and control of, and operate any machine, pile, or apparatus capable of the production of atomic energy at a rate not exceeding 1,000 watts, or at such other rate and under such conditions as may from time to time be fixed by the Minister of Research, Science, and Technology by notice in the Gazette, and may retain and use for experimental purposes the products produced thereby.
+(1) Notwithstanding anything to the contrary in the foregoing provisions of this Act, uranium and thorium of natural isotope composition of an amount not exceeding the appropriate amount mentioned in the next succeeding subsection may be possessed and used for the purpose of instruction and of investigation as to the properties and effects of radioactive and like radiations at any university in New Zealand, at any school providing secondary instruction, at any laboratory under the control of any department of State, and at any other laboratory for the time being approved by the Minister of Research, Science, and Technology.
+(2) The amount of uranium and of thorium that may be possessed and used as provided in the last preceding subsection shall be 1 pound each of uranium and of thorium, calculated by metal content, in the case of a school providing secondary instruction, and 20 pounds each of uranium and of thorium, calculated by metal content, in any other case:provided that the Minister of Research, Science, and Technology may from time to time by notice in the Gazette increase or reduce the amounts that may be possessed and used as aforesaid.
+(3) Notwithstanding anything to the contrary in the foregoing provisions of this Act any constituent institution of the University of New Zealand, any laboratory under the control of any Department of State, and any laboratory for the time being approved by the Minister of Research, Science, and Technology, may import, purchase, construct, have possession and control of, and operate any machine, pile, or apparatus capable of the production of atomic energy at a rate not exceeding 1 000 watts, or at such other rate and under such conditions as may from time to time be fixed by the Minister of Research, Science, and Technology by notice in the Gazette, and may retain and use for experimental purposes the products produced thereby.
 
 ### 14 Restriction on trading in fissionable substances
 No person shall, without the prior written consent of the Minister of Research, Science, and Technology, export or sell or otherwise dispose of any isotope of uranium, or any plutonium or other substance from which atomic energy may be more readily obtained than from uranium of natural isotope composition, except to the Crown.
 
 ### 15 Entry on land and premises
-(1) Without prejudice to the provisions of section 39 of the Mining Act 1971, it is hereby declared that any person authorised either specially or generally by the Minister may enter on any premises on which any mining operations are carried on or on which the person or officer so authorised has reasonable grounds to suspect that there may be found minerals, concentrates, or other materials which have been mined, extracted, isolated, or concentrated and which contain any prescribed substance, for the purpose of ascertaining whether or not there is any prescribed substance on the premises or in any minerals, concentrates, or other materials thereon, and for that purpose the person or officer so authorised as aforesaid may make observations and tests and may extract and remove samples for further testing.
+(1) Without prejudice to the provisions of section 4 of the Mining Amendment Act 1934, it is hereby declared that any person authorised either specially or generally by the Minister may enter on any premises on which any mining operations are carried on or on which the person or officer so authorised has reasonable grounds to suspect that there may be found minerals, concentrates, or other materials which have been mined, extracted, isolated, or concentrated and which contain any prescribed substance, for the purpose of ascertaining whether or not there is any prescribed substance on the premises or in any minerals, concentrates, or other materials thereon, and for that purpose the person or officer so authorised as aforesaid may make observations and tests and may extract and remove samples for further testing.
 (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding 3 months who wilfully obstructs or interferes with any person exercising or attempting to exercise his powers under this section.
 
 ### 16 Granting of consents, etc
