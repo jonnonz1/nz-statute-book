@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-02-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -50,6 +50,7 @@ _Consolidation as at 2010-11-01_
   - **interest group** has the meaning set out in section 116
   - **interested** , in relation to a director, has the meaning set out in section 139
   - **interests register** means the register kept under section 189(1)(c)
+  - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **major transaction** has the meaning set out in section 129(2)
   - **New Zealand register** means the register of companies incorporated in New Zealand kept pursuant to section 360(1)(a)
   - **ordinary resolution** has the meaning set out in section 105(2)
@@ -2423,6 +2424,7 @@ For the purpose of effecting an amalgamation the following documents must be del
   (b) any certificates required under section 221(2) or section 222(5); and
   (c) a certificate signed by the board of each amalgamating company stating that the amalgamation has been approved in accordance with this Act and the constitution of the company, if it has one; and
   (d) if the amalgamated company is a new company or the amalgamation proposal provides for a change of the name of the amalgamated company, a copy of the notice reserving the name of the company; and
+  (da) if an amalgamating company is a licensed insurer, a copy of the written approval of the Reserve Bank of New Zealand given under section 44 of the Insurance (Prudential Supervision) Act 2010; and
   (e) a certificate signed by the board, or proposed board, of the amalgamated company stating that, where the proportion of the claims of creditors of the amalgamated company in relation to the value of the assets of the company is greater than the proportion of the claims of creditors of an amalgamating company in relation to the value of the assets of that amalgamating company, no creditor will be prejudiced by that fact; and
   (f) a document in the prescribed form signed by each of the persons named in the amalgamation proposal as a director of the amalgamated company containing his or her consent to be a director and a certificate that he or she is not disqualified from being appointed or holding office as a director of a company.
 
@@ -2564,6 +2566,7 @@ In this Part, unless the context otherwise requires,—
   (c) an order requiring that a report on the proposed arrangement or amalgamation or compromise be prepared for the court by a person specified by the court and, if the court thinks fit, be supplied to the shareholders or any class of shareholders or creditors or any class of creditors of a company or to any other person who appears to the court to be interested:
   (d) an order as to the payment of the costs incurred in the preparation of any such report:
   (e) an order specifying the persons who shall be entitled to appear and be heard on the application to approve the arrangement or amalgamation or compromise.
+(2A) If the arrangement or amalgamation or compromise involves a transfer or amalgamation that requires the written approval of the Reserve Bank of New Zealand under section 44 of the Insurance (Prudential Supervision) Act 2010, the court may not make an order under this section unless that approval has been given.
 (3) An order made under this section has effect on and from the date specified in the order.
 (4) Within 10 working days of an order being made by the court, the board of the company must ensure that a copy of the order is delivered to the Registrar for registration.
 (5) If the board of a company fails to comply with subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
@@ -2632,6 +2635,9 @@ The administration of a company begins when an administrator is appointed under 
   (e) if the company fails to execute a proposed deed of company arrangement within the time allowed by section 239ACO or 239ACP, the administration ends when that time expires; or
   (f) if the court appoints a liquidator or an interim liquidator, the administration ends at the time when the order is made.
 
+### 239EA Voluntary administration of licensed insurers
+If a company is a licensed insurer, this Part applies in respect of the insurer subject to subpart 3 of Part 4 of the Insurance (Prudential Supervision) Act 2010.
+
 ### Subpart 2 — Appointment of administrator
 
 ### 239F Who may be appointed administrator
@@ -2683,6 +2689,9 @@ A person must not be appointed the administrator of a company unless that person
 (2) The court may appoint an administrator if—
   (a) the court is satisfied that the company is or may become insolvent and that an administration is likely to result in a better return for the company's creditors and shareholders than would result from an immediate liquidation of the company; or
   (b) it is just and equitable to do so.
+(3) In the case of a licensed insurer, the court may appoint an administrator on the application of the Reserve Bank of New Zealand or a person referred to in subsection (1) if—
+  (a) subsection (2)(a) or (b) apply; or
+  (b) the insurer is failing to maintain a solvency margin (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010).
 
 ### 239M Appointment must not be revoked
 (1) The appointment of an administrator must not be revoked.
@@ -3749,6 +3758,9 @@ For the purposes of the single administration of a pool, the pool companies may 
   - **statutory demand** has the meaning set out in section 289.
 (2) For the purposes of this Act, the power to appoint a liquidator of a company includes the power to appoint 2 or more persons as liquidators of a company.
 
+### 240A Liquidation of licensed insurers
+If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to subpart 3 of Part 4 of the Insurance (Prudential Supervision) Act 2010.
+
 ### 241 Commencement of liquidation
 (1) A company may be put into liquidation by the appointment as liquidator of a named person or of an Official Assignee for a named district.
 (2) A liquidator may be appointed by—
@@ -3761,6 +3773,7 @@ For the purposes of the single administration of a pool, the pool companies may 
     (iv) a creditor (including any contingent or prospective creditor); or
     (v) if the company is in administration, the administrator; or
     (vi) the Registrar; or
+    (vii) in the case of a licensed insurer, the Reserve Bank of New Zealand; or
   (d) a resolution of the creditors passed at the watershed meeting held under section 239AT.
 (3) An Official Assignee may be appointed liquidator of a company only—
   (a) if the special resolution passed in accordance with paragraph (a) of subsection (2) is passed by reason of the Official Assignee exercising voting rights attaching to shares in the company of—
@@ -4029,16 +4042,18 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
 (3) A liquidator who calls a meeting of creditors or shareholders must call such a meeting in accordance with Schedule 1 or, if applicable, Schedule 5, as the case may be.
 (4) Nothing in this section limits or prevents a liquidator from exercising his or her discretion in carrying out his or her functions and duties under this Act.
 
-### 258A Duty to notify suspected offences
+### 258A Duty to report suspected offences
 (1) A liquidator of a company who considers that an offence that is material to the liquidation has been committed by the company or any director of the company against this Act or any of the following Acts must report that fact to the Registrar:
-  (a) the Companies Act 1955:
-  (b) the Crimes Act 1961:
-  (c) the Securities Act 1978:
-  (ca) the Securities Markets Act 1988:
+  (a) the Crimes Act 1961:
+  (b) the Securities Act 1978:
+  (c) the Securities Markets Act 1988:
   (d) the Financial Reporting Act 1993:
-  (e) the Takeovers Act 1993.
+  (e) the Takeovers Act 1993:
+  (f) the Insurance (Prudential Supervision) Act 2010.
 (2) A report made under subsection (1), and any communications between the liquidator and Registrar relating to that report, are protected by absolute privilege.
-(3) A liquidator who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+(3) If the company is a licensed insurer, a copy of the report made under subsection (1) must be sent to the Reserve Bank of New Zealand.
+(4) A copy of a report sent under subsection (3), and any communications between the liquidator and Reserve Bank of New Zealand relating to that report, are protected by absolute privilege.
+(5) A liquidator who fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to the penalty set out in section 373(2).
 
 ### 259 Documents to state company in liquidation
 Every document entered into, made, or issued by a liquidator of a company on behalf of the company must state in a prominent position that the company is in liquidation.
@@ -5058,7 +5073,8 @@ For the purposes of this Part,—
     (vi) creates evidence of a debt or creates a charge on property; or
     (vii) secures or collects any of its debts or enforces its rights in relation to securities relating to those debts; or
     (viii) conducts an isolated transaction that is completed within a period of 31 days, not being one of a number of similar transactions repeated from time to time; or
-    (ix) invests its funds or holds property.
+    (ix) invests its funds or holds property; or
+    (x) enters into a contract of insurance as an insurer with a New Zealand policyholder (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010).
 
 ### 332A Registrar may approve use of different form
 (1) The Registrar may, on the application of any person, approve the use, by the overseas company or companies that the Registrar may specify, of a form for the purposes of this Part that is different from that prescribed.
@@ -5500,7 +5516,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (k) section 215(2)(a) (which relates to public inspection of company records):
   (l) section 216(2)(a) (which relates to inspection of company records by shareholders):
   (m) section 250(7) (which relates to the termination of the liquidation of a company):
-  (ma) section 258A(2) (which relates to the duty of liquidators to notify suspected offences):
+  (ma) section 258A(5) (which relates to the duty of liquidators to report suspected offences):
   (n) section 280(3) (which relates to the qualifications of liquidators):
   (o) section 333(5)(a) (which relates to name reservation by overseas companies):
   (p) section 334(6)(a) (which relates to the registration of overseas companies):
@@ -5675,7 +5691,7 @@ A person who acts as a director of a company in contravention of section 382 or 
   (c) in respect of which execution is returned unsatisfied in whole or in part:
   (d) in respect of the property of which a receiver, or a receiver and manager, has been appointed by a court or pursuant to the powers contained in an instrument, whether or not the appointment has been terminated:
   (e) in respect of which, or the property of which, a person has been appointed as a receiver and manager, or a judicial manager, or a statutory manager, or as a manager, or to exercise control, under or pursuant to any enactment, whether or not the appointment has been terminated:
-  (f) that has entered into a compromise or arrangement with its creditors.
+  (f) that has entered into a compromise or arrangement with its creditors:
   (g) that is in voluntary administration under Part 15A.
 (2) This section also applies in relation to a company the liquidation of which has been completed whether or not the company has been removed from the New Zealand register.
 (3) The Registrar may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 5 years after the date of the notice as is specified in the notice. Every notice shall be published in the Gazette.
