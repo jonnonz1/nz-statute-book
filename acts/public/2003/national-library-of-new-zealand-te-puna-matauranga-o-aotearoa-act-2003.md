@@ -1,5 +1,5 @@
 # National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and may also be cited as either—
@@ -15,9 +15,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 The purpose of this Act is to provide for the preservation, protection, development, and accessibility, as appropriate, for all the people of New Zealand, of the collections of the National Library (which includes the Alexander Turnbull Library) in a manner consistent with their status as documentary heritage and taonga and, to this end, to—
   (a) maintain and enhance the National Library; and
   (b) maintain and enhance the Alexander Turnbull Library, as part of the National Library; and
-  (c) continue the mutually supportive roles of—
-    (i) the National Librarian, as Chief Executive of the National Library; and
-    (ii) the Chief Librarian of the Alexander Turnbull Library, as an employee of the National Library; and
+  (c) continue the mutually supportive roles of the National Librarian and the Chief Librarian; and
   (d) establish an unincorporated body called the Guardians Kaitiaki of the Alexander Turnbull Library for the purpose, among other things, of providing assurance to the people of New Zealand that the collections of the Alexander Turnbull Library are held in perpetuity; and
   (e) establish an unincorporated body called the Library and Information Advisory Commission Ngā Kaiwhakamārama i ngā Kohikohinga Kōrero for the purpose of providing advice to the Minister on library and information issues, including mātauranga Māori; and
   (f) dissolve the incorporated body called the Trustees of the National Library, which was established by the National Library Act 1965; and
@@ -28,8 +26,10 @@ The purpose of this Act is to provide for the preservation, protection, developm
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Alexander Turnbull Library** means the Alexander Turnbull Library continued by section 11
+  - **chief executive** means the chief executive of the department
   - **Chief Librarian** means the Chief Librarian of the Alexander Turnbull Library referred to in section 13
   - **Commission** means the Library and Information Advisory Commission Ngā Kaiwhakamārama i ngā Kohikohinga Kōrero established by section 22
+  - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **document** means a document in any form; and includes—
     (a) any writing on any material; and
     (b) information recorded or stored by means of any recording device, computer, or other electronic device, or any other device, and material subsequently derived from information so recorded or stored; and
@@ -39,9 +39,9 @@ In this Act, unless the context otherwise requires,—
   - **electronic** includes electrical, digital, magnetic, optical, electromagnetic, biometric, and phototonic
   - **Guardians** means the Guardians Kaitiaki of the Alexander Turnbull Library referred to in section 16
   - **information** includes information in the form of a document, data, text, images, sound, or speech
-  - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **National Librarian** means the National Librarian referred to in section 8
-  - **National Library** means the department of State known as the National Library of New Zealand Te Puna Mātauranga o Aotearoa that is continued by section 6
+  - **National Library** means the National Library of New Zealand Te Puna Mātauranga o Aotearoa that is continued by section 6
   - **year** means a year ending on 30 June.
 
 ### 5 Act binds the Crown
@@ -66,10 +66,11 @@ The purpose of the National Library is to enrich the cultural and economic life 
 
 ### 8 National Librarian
 (1) There is an office of National Librarian.
-(2) The National Librarian is also the Chief Executive of the National Library.
-(3) The person holding office as National Librarian immediately before the commencement of this Act continues to hold that office on the commencement of this Act on the same terms and conditions.
+(2) The National Librarian is the person for the time being appointed to that office by the chief executive under the State Sector Act 1988.
+(3)
 
 ### 9 Functions and powers of National Librarian
+(1AA) The National Librarian has all the powers necessary to perform and carry out the functions and duties imposed on the National Librarian by or under this Act.
 (1) The functions of the National Librarian, in achieving the purpose of the National Library, are—
   (a) to develop and maintain national collections of documents, including a comprehensive collection of documents relating to New Zealand and the people of New Zealand; and
   (b) to make the collections and resources of the National Library accessible in a manner and subject to conditions that the Minister determines, in order to provide for the most advantageous use of those collections and resources; and
@@ -79,14 +80,23 @@ The purpose of the National Library is to enrich the cultural and economic life 
   (f) other functions prescribed by regulations made under this Act.
 (2) The National Librarian must take reasonable steps to—
   (a) make the documents in the National Library available to institutions and other persons, subject to any regulations made under this Act and to any conditions the Minister may determine; and
-  (b) continue to provide—
-    (i) separate and suitable accommodation in a national library building for the collections of the Alexander Turnbull Library; and
-    (ii) for the development of the research collections and the services of the Alexander Turnbull Library, particularly in the fields of New Zealand and Pacific studies and rare books; and
+  (b)
   (c) provide assistance in the development of libraries to institutions and persons in New Zealand, subject to any regulations made under this Act and to any conditions the Minister may determine.
-(3) The National Librarian must not transfer the ownership, custody, or use of any documents owned by the National Library to any authority or other person without the approval of the Minister.
+(3) The National Librarian must not transfer the custody or use of any documents held by the National Library to any authority or other person, or remove any documents from the collections, without the approval of the Minister.
 (4) Subsection (3)—
   (a) does not limit the Public Records Act 2005; and
   (b) applies subject to section 11(2).
+
+### 9A Delegations by National Librarian
+(1) The National Librarian may, either generally or particularly, delegate to an employee in the department all or any of the National Librarian's functions, duties, or powers under this Act except the power to delegate.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions the National Librarian thinks fit; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the National Librarian.
+(3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) This section is subject to the limitations specified in sections 13(3) and 14.
 
 **Oral histories**
 
@@ -107,6 +117,9 @@ The purpose of the National Library is to enrich the cultural and economic life 
   (a) the documents bequeathed to the Crown in 1918 by Alexander Horsburgh Turnbull of Wellington by the second codicil to his will set out in Schedule 1; and
   (b) bequests, donations, and other additions to, and acquisitions for the purposes of the Alexander Turnbull Library.
 (2) The Crown must continue to own the collections of the Alexander Turnbull Library in perpetuity.
+(2A) The chief executive, in consultation with the National Librarian, must provide—
+  (a) separate and suitable accommodation in a national library building for the collections of the Alexander Turnbull Library; and
+  (b) for the development of the research collections and the services of the Alexander Turnbull Library, particularly in the fields of New Zealand and Pacific studies and rare books.
 (3) Except to the extent provided by section 15, the collections of the Alexander Turnbull Library must remain in the custody of the National Library at all times.
 (4) Subsection (2) does not limit section 26 of the Public Records Act 2005.
 
@@ -118,24 +131,24 @@ The purposes of the Alexander Turnbull Library are—
 
 ### 13 Chief Librarian of Alexander Turnbull Library
 (1) There is an office of Chief Librarian of the Alexander Turnbull Library.
-(2) The Chief Librarian is the person for the time being appointed to that office by the National Librarian under the State Sector Act 1988.
+(2) The Chief Librarian is the person for the time being appointed to that office by the chief executive, on the recommendation of the National Librarian, under the State Sector Act 1988.
 (3) The Chief Librarian must not, at the same time, hold—
   (a) the position of National Librarian; or
-  (b) any other position in the National Library that would, in the opinion of the National Librarian, adversely impact on the ability of the Chief Librarian adequately to perform the functions and exercise the powers delegated to the Chief Librarian.
-(4) The person holding office as Chief Librarian immediately before the commencement of this Act continues to hold that office on the commencement of this Act on the same terms and conditions.
+  (b) any other position in the department that would, in the opinion of the chief executive, in consultation with the National Librarian, adversely impact on the ability of the Chief Librarian adequately to perform the functions and exercise the powers delegated to the Chief Librarian in accordance with section 9A.
+(4) The person holding office as Chief Librarian immediately before the commencement of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 continues to hold that office on the commencement of that Act on the same terms and conditions, to the extent that those terms and conditions are consistent with the Chief Librarian being an employee in the department.
 
-### 14 Functions and powers of Chief Librarian
-The Chief Librarian must perform the functions and exercise the powers delegated to him or her by the National Librarian under section 41 of the State Sector Act 1988 for preserving, protecting, developing, and making accessible the collections of the Alexander Turnbull Library.
+### 14 Functions, duties, and powers of Chief Librarian
+The Chief Librarian must perform any functions or duties, and exercise any powers, delegated to him or her under section 9A for preserving, protecting, developing, and making accessible the collections of the Alexander Turnbull Library.
 
 ### 15 Documents may be made available for public exhibition
-(1) The Chief Librarian may, to the extent that the power is delegated in accordance with section 14, make 1 or more documents from the collections of the Alexander Turnbull Library available on a temporary basis for public exhibition in New Zealand or elsewhere, on terms and conditions that the Chief Librarian thinks fit.
+(1) The Chief Librarian may, to the extent that the power is delegated in accordance with section 9A, make 1 or more documents from the collections of the Alexander Turnbull Library available on a temporary basis for public exhibition in New Zealand or elsewhere, on terms and conditions that the Chief Librarian thinks fit.
 (2) In determining whether to exercise the power under subsection (1), the Chief Librarian must have regard to the following matters:
   (a) the purposes of the Alexander Turnbull Library; and
   (b) the interests of readers visiting the Alexander Turnbull Library; and
   (c) the physical condition and rarity of the document; and
   (d) the physical environment in which the document will be exhibited; and
   (e) any risks to which the document is likely to be exposed while in transit to, or in the custody of, the person or authority responsible for the exhibition of the document; and
-  (f) terms and conditions imposed by the National Librarian in a delegation made under section 14.
+  (f) terms and conditions imposed by the National Librarian in a delegation made under section 9A.
 
 ### Subpart 3 — Guardians of Alexander Turnbull Library
 
@@ -170,9 +183,9 @@ The purpose of the Guardians is to provide assurance to the people of New Zealan
 (2) The National Librarian and the Chief Librarian must use their best endeavours to provide to the Guardians the information that the Guardians reasonably require to perform their function.
 
 ### 19 Reports
-(1) The Chief Librarian must report to the National Librarian each year on his or her performance of the functions and exercise of the powers delegated in accordance with section 14.
+(1) The Chief Librarian must report to the National Librarian each year on his or her performance of the functions and exercise of the powers delegated in accordance with section 9A.
 (2) The National Librarian must each year—
-  (a) report to the Guardians on the performance of the functions and exercise of the powers delegated to the Chief Librarian in accordance with section 14 and on other matters that the National Librarian thinks fit; and
+  (a) report to the Guardians on the performance of the functions and exercise of the powers delegated to the Chief Librarian in accordance with section 9A and on other matters that the National Librarian thinks fit; and
   (b) attach to that report a copy of the latest report received by him or her from the Chief Librarian under subsection (1).
 (3) The Guardians must report to the Minister each year, which report must include—
   (a) a report on the performance of their function during the preceding year; and
@@ -187,7 +200,7 @@ The Guardians are entitled to be paid, out of money appropriated by Parliament f
 
 ### 21 Administration
 (1) The Guardians must meet at least 3 times in each year.
-(2) The National Library must provide administrative services for the Guardians.
+(2) The department must provide administrative services for the Guardians.
 
 ## Part 3 — Library and Information Advisory Commission and advisory bodies
 
@@ -224,7 +237,7 @@ The members of the Commission, and the members of any advisory body established 
   (b) reimbursing allowances or actual and reasonable expenses incurred in undertaking the functions of the Commission or advisory body, as the case may be.
 
 ### 28 Administration
-The National Library must provide administrative services for the Commission and any advisory body established under section 25.
+The department must provide administrative services for the Commission and any advisory body established under section 25.
 
 ## Part 4 — Provision of copies of public documents to National Library
 
@@ -286,7 +299,7 @@ The purpose of this Part is to assist in preserving New Zealand's documentary he
 
 ### 34 Use of public documents in National Library
 (1) In this section, deposited document means a public document of which 1 or more copies have been given to, or made by, the National Librarian under a requirement.
-(2) For the purposes of carrying out his or her duties, the National Librarian and any employee, contractor, or agent of the National Library may possess, copy, store in electronic form (whether off-line or on-line), and use any copy of a deposited document.
+(2) For the purposes of carrying out his or her duties, the National Librarian and any employee, contractor, or agent of the chief executive may possess, copy, store in electronic form (whether offline or online), and use any copy of a deposited document.
 (3) The National Librarian may provide not more than 3 copies of a deposited document for use by members of the public (whether at the premises of the National Library or elsewhere) but, except as provided in subsection (4) or with the publisher's agreement, must not make the document available on the Internet.
 (4) If a deposited document is made publicly available on the Internet by the publisher without restriction on its access or use by members of the public, the National Librarian may make the document available for access and use by members of the public on the Internet (as well as in the manner permitted by subsection (3)).
 (5) Except as provided in subsections (2) to (4), the law relating to copyright applies to every deposited document.
@@ -364,3 +377,15 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 ## Schedule 1 — Provisions of Second Codicil to Will of Alexander Horsburgh Turnbull
 
 ## Schedule 2 — Enactments amended
+
+### 1 Title
+This Act is the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010.
+
+### 2 Commencement
+This Act comes into force on 1 February 2011.
+
+**Transfer of employees of National Library and related matters**
+
+### 17 Transfer of National Library employees to department
+(1) Sections 30E, 30F, and 30G of the State Sector Act 1988 apply to every person who was, immediately before the commencement of this Act, an employee in the National Library.
+(2) For the purposes of subsection (1), sections 30E, 30F, and 30G of the State Sector Act 1988 apply as if they had been declared to apply by Order in Council under section 30C of that Act.
