@@ -1,5 +1,5 @@
 # Foundation for Research, Science, and Technology Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 (1) This Act is the Foundation for Research, Science, and Technology Amendment Act 2001.
