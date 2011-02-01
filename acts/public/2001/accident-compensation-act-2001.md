@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -1591,7 +1591,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
   (a) any right of the Corporation to recover any amounts under this Act or to make any deductions authorised by this Act from any entitlements that the Corporation is liable to provide; or
   (b) an independence allowance that is assigned for a period of not more than 5 years to—
     (i) an insurer; or
-    (ii) a company within the meaning of the Life Insurance Act 1908; or
+    (ii)
     (iii) the Corporation, if the Corporation is liable to provide the allowance and the Corporation agrees to the assignment; or
   (c) sections 4 and 5 of the Maori Housing Act 1935; or
   (d) sections 84F to 84M of the District Courts Act 1947; or
