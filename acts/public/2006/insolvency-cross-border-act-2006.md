@@ -1,5 +1,5 @@
 # Insolvency (Cross-border) Act 2006
-_Consolidation as at 2008-07-24_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Insolvency (Cross-border) Act 2006.
@@ -96,7 +96,7 @@ For the purposes of this Schedule:
   (f) establishment means any place of operations where the debtor carries out a non-transitory economic activity with human means and goods or services;
   (g) High Court or Court means the High Court of New Zealand;
   (h) insolvency administrator means—
-    (i) a judicial manager appointed under section 40A of the Life Insurance Act 1908; or
+    (i) a statutory manager appointed under subpart 4 of Part 4 of the Insurance (Prudential Supervision) Act 2010; or
     (ii) the Official Assignee within the meaning of section 3 of the Insolvency Act 2006; or
     (iii) a statutory manager appointed under section 38 of the Corporations (Investigation and Management) Act 1989; or
     (iv) a receiver within the meaning of section 2(1) of the Receiverships Act 1993; or
