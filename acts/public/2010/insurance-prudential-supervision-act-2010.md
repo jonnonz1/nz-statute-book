@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2010-09-30_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
