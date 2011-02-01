@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2011-02-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -496,7 +496,7 @@ A company may, subject to any bylaws or regulations made by it or affecting it, 
 **Protection of policies**
 
 ### 64 Policies to be kept in force by surrender value
-No policy shall become void by non-payment of premiums so long as the premiums and interest in arrear are not in excess of the surrender value as declared by the company issuing the same in the answer of such company given to the tenth question of Schedule 7 hereto.
+No policy shall become void by non-payment of premiums so long as the premiums and interest in arrear are not in excess of the surrender value as declared by the company issuing the same.
 
 ### 65 Policies protected from bankruptcy, etc. Policy money not liable for debts or legacies
 [Repealed]
@@ -715,3 +715,47 @@ Every company which makes default in complying with the requirements of this Par
 ## Schedule 23 — Memorandum of discharge of mortgage or policy to be endorsed on policy
 
 ## Schedule 24 — Table of deposits required of companies carrying on business in New Zealand on 26 July 1974
+
+### 1 Title
+(1) This Act is the Public Finance Amendment Act 2004.
+(2) In this Act, the Public Finance Act 1989 is called the principal Act.
+
+### 2 Commencement
+This Act comes into force on 25 January 2005.
+
+## Part  — Transitional provisions
+
+### 32 Application of provisions relating to financial year
+(1) Despite the enactment of this Act, any existing provisions of the principal Act that relate to a financial year continue to apply only in respect of—
+  (a) either of the following:
+    (i) the financial year ending on 30 June 2005; or
+    (ii) a later financial year specified by the Governor-General by Order in Council made on the recommendation of the Minister of Finance; and
+  (b) each previous financial year.
+(2) Any provisions of the principal Act (as amended by this Act) that relate to a financial year must be read as if those provisions apply only in respect of—
+  (a) either of the following:
+    (i) the financial year commencing on 1 July 2005; or
+    (ii) if a later financial year is specified by the Governor-General by Order in Council made under subsection (1)(a)(ii), the next financial year; and
+  (b) each subsequent financial year.
+(3) The Minister of Finance may make a recommendation under subsection (1)(a)(ii) only if he or she is satisfied that doing so is reasonably necessary to maintain the integrity of the preparation of the Budget.
+(4) In this section, existing provisions of the principal Act means the provisions of the principal Act that were in force immediately before the commencement of this Act.
+
+### 33 Reporting obligations in respect of financial year
+(1) The reporting requirements and provisions that would have applied if this Act had not been enacted continue to apply, in respect of the financial year specified in subsection (3), to a department and an Office of Parliament, rather than the reporting requirements and provisions enacted by this Act or any other Act.
+(2) Therefore, for example, a department and an Office of Parliament must comply with the requirements relating to annual financial statements, annual reports, and audits that were in the principal Act immediately before the commencement of this Act.
+(3) The financial year referred to in subsection (1) is—
+  (a) the financial year ending on 30 June 2005; or
+  (b) if a later financial year is specified by the Governor-General by Order in Council made under section 32(1)(a)(ii), that financial year.
+(4) To avoid doubt, this section does not limit section 32.
+(5) Section 198 of the Crown Entities Act 2004 applies to an organisation named or described in Schedule 4.
+
+### 34 Existing bank accounts, investments, borrowing, guarantees, and derivatives
+(1) This section applies to any bank account, investment, borrowing, guarantee, or derivative transaction of an organisation that is named or described in Schedule 4 of the principal Act at the date of commencement of this Act that the organisation would be restricted from acquiring, giving, or entering into under this Act.
+(2) The bank account, investment, borrowing, guarantee, or derivative transaction is not affected by the enactment of this Act.
+(3) However, the terms of the investment, borrowing, guarantee, or derivative transaction may be amended, or any options resulting from the investment, borrowing, or derivative transaction, may be taken up, only if permitted by the Minister of Finance.
+
+### 35 Regulations for transitional and savings purposes
+(1) The Governor-General may, by Order in Council, make regulations prescribing transitional or savings provisions relating to the coming into force of this Act.
+(2) Any transitional or savings provisions prescribed in regulations made under subsection (1) may be in addition to or in place of any of the provisions of sections 32 to 34.
+
+### 36 References in trust deeds to section 25 of principal Act
+Every reference to section 25 of the principal Act that is in a trust deed at the date of commencement of this section must be read as a reference to section 161 of the Crown Entities Act 2004.
