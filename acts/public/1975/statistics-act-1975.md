@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-02-01_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a Department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -162,7 +162,7 @@ Any document purporting to be signed by or on behalf of the Statistician and giv
   (a) during my employment in that Department, be disclosed by me only in accordance with my official duty; and
   (b) after I cease to be an employee of that Department, be disclosed by me only with the authority of the Department.
 (2) Any employee of any Government Department, if engaged in the collection and processing of official statistics, and if the information so collected is primarily for statistical purposes and the respondent has been so informed shall, subject to agreement with an appropriate officer of the Department concerned, if required to do so by the Statistician, make a similar statutory declaration of secrecy, regardless of whether he has made a declaration of secrecy under any other Act.
-(2A) An employee of Archives New Zealand who has access to public records that are subject to the restriction of section 37(2), must, if required to do so by the Statistician, make a similar declaration of secrecy, whether or not that person has made a declaration of secrecy under any other Act.
+(2A) An employee in the department responsible for the administration of the Public Records Act 2005 who has access to public records that are subject to the restriction of section 37(2) must, if required to do so by the Statistician, make a similar declaration of secrecy, whether or not that person has made a declaration of secrecy under any other Act.
 (3) An employee who has made a statutory declaration of secrecy under subsection (2) of this section or subsection (2)(b) of section 37C of this Act shall be deemed to be an employee of the Department for the purposes of—
   (a) subsection (1) of this section; and
   (b) subsections (2) and (3) of section 37 of this Act.
