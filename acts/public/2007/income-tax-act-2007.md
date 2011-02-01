@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-02-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3129,7 +3129,15 @@ Income
 A levy received by a statutory producer board, other than a levy charged specifically for capital development, is income.
 
 ### CV 6 Crown Research Institutes
-An amount that a Crown Research Institute derives is income of the institute if the amount is for the purpose of producing outputs relating to public good science and technology, as defined in section 2 of the Foundation for Research, Science, and Technology Act 1990.
+Income
+(1) An amount that a Crown Research Institute derives is income of the institute if the amount is provided to the institute for the purposes of—
+  (a) any 1 or more of the activities listed in section 7 of the Research, Science, and Technology Act 2010; or
+  (b) producing outputs relating to public good science and technology.
+Meaning
+(2) In this section, public good science and technology means science or technology—
+  (a) that is likely to increase knowledge or understanding of the physical, biological, or social environment; or
+  (b) that is likely to develop, maintain, or increase skills or scientific or technological expertise that is of particular importance to New Zealand; or
+  (c) that may be of benefit to New Zealand, but is unlikely to be funded, or adequately funded, from non-governmental sources.
 
 ### CV 7 Australian wine producer rebate
 An amount of Australian wine producer rebate derived by a New Zealand resident wine producer is income of the wine producer.
@@ -38956,7 +38964,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **social assistance suspensory loan** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **sound commercial reason** is defined in section EW 26(7) (Change of spreading method) for the purposes of that section.
   - **sound recording** is defined in the Copyright Act 1994
-  - **source in New Zealand** , for income, means a source described in section YD 4 (Classes of income treated as having New Zealand source) and section YZ 1 (Source rule for interest))
+  - **source in New Zealand** , for income, means a source described in section YD 4 (Classes of income treated as having New Zealand source) and section YZ 1 (Source rule for interest)
   - **special account** means a special home ownership account
   - **special corporate entity** means—
     (a) a Crown Research Institute:
