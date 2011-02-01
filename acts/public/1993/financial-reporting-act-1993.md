@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-02-01_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andcestablish an Accounting Standards Review Board and define its functions and powers; anddgive legal force to accounting standards approved by the Board; andeprovide for related matters
 
@@ -47,6 +47,7 @@ _Consolidation as at 2010-07-07_
   - **infringement offence** means an offence against section 38(b) or 39
   - **interim accounting period** , in relation to a reporting entity, means a period ending on a date other than the balance date of the reporting entity
   - **issuer** has the meaning given to it by section 4
+  - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Office of Parliament** has the same meaning as in section 2 of the Public Finance Act 1989
@@ -93,6 +94,7 @@ For the purposes of this Act, financial statements and group financial statement
   (ba) every recipient of money from a conduit issuer (within the meaning of section 4A):
   (c) every person who is a party to a listing agreement with a stock exchange in New Zealand and who has issued securities which are quoted on such an exchange:
   (d) every insurer to whom Part 10 of the Accident Compensation Act 2001 applies:
+  (da) every licensed insurer (other than a Lloyd's underwriter within the meaning of the Insurance (Prudential Supervision) Act 2010 or an insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(b) of that Act):
   (e) every operator within the meaning of the Retirement Villages Act 2003 (other than a receiver or liquidator, or a person who has no financial interest in the village).
 (2) Every registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989) that has allotted securities to the public within the meaning of the Securities Act 1978 is an issuer for the purposes of this Act.
 (3) In this section references to securities that have been issued or allotted are to be taken as references to securities that have not been cancelled, redeemed, forfeited, or in respect of which obligations owing under them have not been discharged.
@@ -299,6 +301,7 @@ None of the following is an issuer for the purposes of this Act:
   (e) whether, in the auditor's opinion, as far as appears from an examination of them, proper accounting records have been kept by the reporting entity; and
   (f) whether, in the auditor's opinion, the financial statements and any group financial statements comply with generally accepted accounting practice, and if they do not, the respects in which they fail to comply; and
   (g) whether, in the auditor's opinion and having regard to any information or explanations that may have been added by the reporting entity pursuant to section 11(2) or section 14(2), the financial statements and any group financial statements give a true and fair view of the matters to which they relate, and, if they do not, the respects in which they fail to give such a view.
+(1A) Section 79 of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer.
 (2) Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the Securities Commission.
 
 ### 17 Auditor's report on exempt companies
@@ -509,6 +512,7 @@ The Regulations (Disallowance) Act 1989 applies to the following determinations 
 (3) The exemption may be granted on any terms and conditions that the Securities Commission thinks fit.
 (4) The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
 (5) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(6) The Securities Commission must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
 
 ### 35B Registrar of Companies may grant exemptions to directors of overseas companies
 (1) The Registrar of Companies may, by notice in the Gazette, exempt any directors of an overseas company that is not an issuer, or any directors of a class of those overseas companies, from compliance with any provision of sections 8 to 11, 13, 14, 19, 36, 36A, or 39.
