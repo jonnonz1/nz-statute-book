@@ -1,5 +1,5 @@
 # Foundation for Research, Science, and Technology Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-02-01_
 
 > An Act—aTo establish the Foundation for Research, Science, and Technology and to define its functions and powers; andbTo provide for matters incidental thereto
 
@@ -13,17 +13,17 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of Research, Science, and Technology
   - **Ministerial scheme** means a scheme that is for the time being the subject of a direction to the Foundation pursuant to section 8A of this Act
   - **Ministry** means the Ministry of Research, Science, and Technology
-  - **Outputs** means goods or services; and includes knowledge and information
-  - **Public good science and technology** means science or technology—
-    (a) That is likely to increase knowledge or understanding of the physical, biological, or social environment; or
-    (b) That is likely to develop, maintain, or increase skills or scientific or technological expertise that is of particular importance to New Zealand; or
-    (c) That may be of benefit to New Zealand, but is unlikely to be funded, or adequately funded, from non-governmental sources:
-  - **Research** —
-    (a) Means—
-      (i) Scientific research:
-      (ii) Technological research; and
-    (b) Includes scientific development and technological development, and related services:
-  - **Science** includes the physical sciences, the biological sciences, and the social sciences; and has a corresponding meaning.
+  - **outputs** means goods or services; and includes knowledge and information
+  - **public good science and technology** means science or technology—
+    (a) that is likely to increase knowledge or understanding of the physical, biological, or social environment; or
+    (b) that is likely to develop, maintain, or increase skills or scientific or technological expertise that is of particular importance to New Zealand; or
+    (c) that may be of benefit to New Zealand, but is unlikely to be funded, or adequately funded, from non-governmental sources:
+  - **research** —
+    (a) means—
+      (i) scientific research:
+      (ii) technological research; and
+    (b) includes scientific development and technological development, and related services:
+  - **science** includes the physical sciences, the biological sciences, and the social sciences; and has a corresponding meaning.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
@@ -35,9 +35,9 @@ This Act binds the Crown.
 
 ### 5 Functions
 (1) The functions of the Foundation are—
-  (a) To allocate funds for the production of outputs relating to public good science and technology:
-  (b) To allocate funds pursuant to ministerial schemes:
-  (c) To provide independent policy advice to the Minister on matters relating to research, science, and technology, including advice on national priorities for those matters.
+  (a) to allocate funds for the production of outputs relating to public good science and technology:
+  (b) to allocate funds pursuant to ministerial schemes:
+  (c) to provide independent policy advice to the Minister on matters relating to research, science, and technology, including advice on national priorities for those matters.
 (2) The Foundation's advice on matters relating to national priorities for research, science, and technology shall be formulated after consultation between the Foundation and representatives of industry, researchers, Maori, and the community.
 (3) In order to ensure that the views of industry, researchers, Maori, and the community are able to be considered in the formulation of the Foundation's advice on other matters, the Foundation shall institute a programme of regular consultation with representatives of industry, researchers, Maori, and the community, but nothing in this subsection shall be taken to require such consultation before each and every occasion on which such advice is formulated.
 (4) The Foundation shall ensure that the advice that it provides to the Minister on national priorities for research, science, and technology is publicised by such means as appear to the Foundation to be necessary to ensure that the advice is readily available to researchers and the public as soon as practicable after the advice is provided to the Minister.
@@ -54,8 +54,8 @@ This Act binds the Crown.
 ### 8 Contracts in relation to use of funds
 In carrying out its functions under section 5(1)(a) of this Act, the Foundation shall, to the extent that, in the opinion of the Foundation, it is practicable to do so,—
   (a) ensure that the process for determining the allocation of funds for the production of outputs relating to public good science and technology is designed to ensure contestability in the allocation of those funds; and
-  (b) Ensure by the terms of contracts pursuant to which the Foundation funds the production of outputs relating to public good science and technology that the producers of those outputs are obliged both to attain specified standards of performance in relation to those outputs and to account for the use of the funds provided by the Foundation; and
-  (c) Adopt measures to ensure that those terms are complied with.
+  (b) ensure by the terms of contracts pursuant to which the Foundation funds the production of outputs relating to public good science and technology that the producers of those outputs are obliged both to attain specified standards of performance in relation to those outputs and to account for the use of the funds provided by the Foundation; and
+  (c) adopt measures to ensure that those terms are complied with.
 
 ### 8A Foundation to fund schemes at direction of Minister
 (1) Subject to subsections (3) and (4) of this section, the Minister may, from time to time, by notice in writing to the Foundation, direct the Foundation to allocate funds in accordance with such scheme as is specified in the notice, and the Foundation shall comply with the direction.
@@ -66,28 +66,28 @@ In carrying out its functions under section 5(1)(a) of this Act, the Foundation 
     (ii) facilitate research:
     (iii) promote or facilitate the application of the results of research:
     (iv) promote or facilitate the application of technological developments; and
-  (b) The Minister is satisfied that the Foundation has, or will have, sufficient money available to it to fund the scheme.
+  (b) the Minister is satisfied that the Foundation has, or will have, sufficient money available to it to fund the scheme.
 (4) Nothing in this section authorises the Minister to direct the Foundation to allocate funds to or for the benefit of a particular person.
 (5) Every direction given to the Foundation pursuant to subsection (1) of this section shall specify, in relation to the scheme to which the direction relates,—
-  (a) The nature of the scheme; and
-  (b) The objectives of the scheme; and
-  (c) An estimate of the amount of funds that will be required to be allocated by the Foundation for the purposes of the scheme; and
-  (d) An estimate of the period for which the scheme will operate; and
-  (e) The agency that is to monitor the scheme.
+  (a) the nature of the scheme; and
+  (b) the objectives of the scheme; and
+  (c) an estimate of the amount of funds that will be required to be allocated by the Foundation for the purposes of the scheme; and
+  (d) an estimate of the period for which the scheme will operate; and
+  (e) the agency that is to monitor the scheme.
 (6)
 
 ### 8B Further provisions relating to ministerial schemes
 (1) The Foundation shall fund a ministerial scheme only out of—
-  (a) Money appropriated by Parliament for the purposes of the scheme:
-  (b) Any accumulation of income derived from money appropriated by Parliament for the purposes of the scheme.
+  (a) money appropriated by Parliament for the purposes of the scheme:
+  (b) any accumulation of income derived from money appropriated by Parliament for the purposes of the scheme.
 (2) The funding, by the Foundation, of a ministerial scheme shall take the form of the allocation of funds by the Foundation, and, subject to section 161 of the Crown Entities Act 2004, shall in no respect involve the investment of funds by the Foundation with a view to providing the Foundation with a financial return.
 (3) In particular, the Foundation shall not, in funding any ministerial scheme, require or permit the allocation, to or for the benefit of the Foundation, of any equity securities or debt securities (as those terms are defined in the Securities Act 1978).
 (4) Where, pursuant to section 8A(1) of this Act, the Minister directs the Foundation to allocate funds in accordance with a ministerial scheme, the Minister shall appoint an appropriate agency to monitor the scheme, and to report from time to time to the Minister.
 (5) In funding a ministerial scheme, the Foundation shall, to the extent that, in the opinion of the Foundation, it is practicable to do so,—
-  (a) Ensure, by the terms of contracts pursuant to which funds are made available to persons pursuant to the scheme, that those persons are obliged—
-    (i) To attain specified standards of performance in relation to the use of those funds; and
-    (ii) To account for the use of the funds; and
-  (b) Adopt measures to ensure that those terms are complied with.
+  (a) ensure, by the terms of contracts pursuant to which funds are made available to persons pursuant to the scheme, that those persons are obliged—
+    (i) to attain specified standards of performance in relation to the use of those funds; and
+    (ii) to account for the use of the funds; and
+  (b) adopt measures to ensure that those terms are complied with.
 
 ### 8C Provision of information
 (1) The Foundation must supply any information that the Minister requests to any person or class or classes of persons that the Minister specifies.
@@ -111,14 +111,14 @@ In carrying out its functions under section 5(1)(a) of this Act, the Foundation 
 
 ### 12 Review of operation of Act
 (1) As soon as practicable after the expiry of the period of 3 years beginning on the date of commencement of this Act, and then at intervals of not more than 5 years, the Foundation and the Ministry shall each—
-  (a) Review the operation of this Act since—
-    (i) The date of its commencement (in the case of the first review carried out under this paragraph); or
-    (ii) The date of the last review carried out under this paragraph by the Foundation (in the case of every subsequent review carried out by the Foundation); or
-    (iii) The date of the last review carried out under this paragraph by the Ministry (in the case of every subsequent review carried out by the Ministry); and
-  (b) Consider—
-    (i) Whether the Foundation should be retained or abolished; and
-    (ii) Whether any amendments to this Act are necessary or desirable; and
-  (c) Report their findings to the Minister.
+  (a) review the operation of this Act since—
+    (i) the date of its commencement (in the case of the first review carried out under this paragraph); or
+    (ii) the date of the last review carried out under this paragraph by the Foundation (in the case of every subsequent review carried out by the Foundation); or
+    (iii) the date of the last review carried out under this paragraph by the Ministry (in the case of every subsequent review carried out by the Ministry); and
+  (b) consider—
+    (i) whether the Foundation should be retained or abolished; and
+    (ii) whether any amendments to this Act are necessary or desirable; and
+  (c) report their findings to the Minister.
 (2) As soon as practicable after receiving a report from the Foundation or the Ministry under subsection (1)(c) of this section, the Minister shall lay a copy of that report before the House of Representatives.
 
 ### 13 Further provisions applying to Foundation
@@ -127,8 +127,8 @@ The provisions set out in Schedule 1 to this Act shall apply in respect of the F
 ### 14 Consequential amendments and repeals
 (1) The enactments specified in Schedule 2 to this Act are hereby amended in the manner indicated in that Schedule.
 (2) The following enactments are hereby consequentially repealed:
-  (a) Section 2 of the Carter Observatory Amendment Act 1977:
-  (b) Section 18(4) of the Finance Act 1988.
+  (a) section 2 of the Carter Observatory Amendment Act 1977:
+  (b) section 18(4) of the Finance Act 1988.
 
 ## Schedule 1 — Provisions applying in respect of Foundation
 
@@ -208,14 +208,3 @@ The income of the Foundation shall be exempt from income tax.
 [Repealed]
 
 ## Schedule 2 — Enactments consequentially amended
-
-| Enactment | Amendment |
-| --- | --- |
-| 1938, No 9 — The Carter Observatory Act 1938 (RS Vol 1, p 429) | By repealing the definition of the term Minister in section 2 (as substituted by section 2 of the Carter Observatory Amendment Act 1977), and substituting the following definition:Minister means, subject to an enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act. |
-| 1959, No 98 — The Public Bodies Contracts Act 1959 (Reprinted 1975, Vol 3, p 2251) |  |
-| 1965, No 38—The Royal Society of New Zealand Act 1965 (RS Vol 18, p 845) | By repealing the definition of the term Minister in section 2, and substituting the following definition:Minister means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act. By omitting from section 9 the words of Science. |
-| 1969, No 23 — The Building Research Levy Act 1969 (RS Vol 21, p 195) | By repealing the definitions of the terms Director-General and Minister in section 2, and substituting the following definitions:Chief Executive means the chief executive of the Ministry of Research, Science, and TechnologyMinister means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act. By omitting from section 13(1) the word Director-General, and substituting the words chief executive. |
-| 1972, No 36 — The Testing Laboratory Registration Act 1972 (RS Vol 23, p 847) | By repealing the definition of the term Minister in section 2, and substituting the following definition:Minister means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act. |
-| 1975, No 9 — The Ombudsmen Act 1975 (RS Vol 21, p 657) |  |
-| 1978, No 81 - The Heavy Engineering Research Levy Act 1978 | By repealing the definitions of the terms Director-General and Minister in section 2, and substituting the following definitions:Chief executive means the chief executive of the Ministry of Research, Science, and TechnologyMinister means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act. By omitting from section 15(1) the word Director-General, and substituting the words chief executive. |
-| 1988, No 20 - The State Sector Act 1988 | By repealing so much of Schedule 5 as relates to the Scientific and Industrial Research Act 1974. |
