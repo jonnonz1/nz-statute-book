@@ -1,5 +1,5 @@
 # Life Insurance Amendment Act 1920
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-02-01_
 
 > An Act to amend the Life Insurance Act 1908, and make other alterations in the law with reference to life insurance
 
@@ -49,7 +49,7 @@ No company shall forfeit any policy excepting upon the following conditions:
   (b) That default has been made by such policyholder in paying to the company the amount due by him to the company and in respect of which such notice has been given as aforesaid.
 
 ### 11 Application of provisions of principal Act to industrial insurance companies
-Sections 16, 17, 18, 19, 20, 21, 78, and 79 of the principal Act shall apply to every company carrying on industrial insurance in the same manner as if industrial insurance were the only insurance carried on by such company, and the statements and accounts therein respectively referred to, except the balance sheets mentioned in Schedules 3 and 5 to the principal Act, shall be made and kept separately from any other insurance business carried on by such company.
+[Repealed]
 
 ### 12 Minister may require additional information
 The Minister shall be entitled and is hereby empowered to require such additional explanation of or information with respect to any statement or balance sheet required by this Act to be made or prepared by any company, or with respect to any form of policy, table of rates, prospectus, or other document deposited under section 8 of this Act, or with respect to industrial insurance as conducted by the company, as he deems necessary for the purposes of this Act.
