@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-02-01_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -43,7 +43,7 @@ _Consolidation as at 2010-11-29_
       (v) any examiner, assessor, or moderator in any subject or examination taught or conducted by the university; but
     (e) does not include information contained in—
       (i) library or museum material made or acquired and preserved solely for reference or exhibition purposes; or
-      (ii) material placed in the National Library of New Zealand by or on behalf of persons other than Ministers of the Crown in their official capacity or departments; or
+      (ii) material placed in the National Library of New Zealand Te Puna Mātauranga o Aotearoa by or on behalf of persons other than Ministers of the Crown in their official capacity or departments; or
       (iii) any oral history provided to the National Library of New Zealand Te Puna Mātauranga o Aotearoa in accordance with section 10 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003; and
     (f) does not include any information which is held by a department, Minister of the Crown, or organisation solely as an agent or for the sole purpose of safe custody and which is so held on behalf of a person other than a department or a Minister of the Crown in his official capacity or an organisation; and
     (g) does not include any information held by Public Trust or the Māori Trustee—
