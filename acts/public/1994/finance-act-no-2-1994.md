@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1994
-_Consolidation as at 1995-12-19_
+_Consolidation as at 2011-02-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -9,32 +9,7 @@ This Act may be cited as the Finance Act (No 2) 1994.
 ## Part 1 — Miscellaneous provisions
 
 ### 2 Foundation for Research, Science, and Technology
-(1) In this section, unless the context otherwise requires,—
-  - **the empowering Act** means the Foundation for Research, Science, and Technology Act 1990
-  - **the Foundation** means the Foundation for Research, Science, and Technology established by section 4(1) of the empowering Act
-  - **member** means member of the Foundation.
-(2) Notwithstanding that notice of their appointment was not published in the Gazette as required by clause 1(a) of Schedule 1 of the empowering Act, each of the following persons is hereby (for the avoidance of doubt) deemed to have been on 13 September 1990 lawfully appointed as a member for the term, commencing on that day, specified:
-  (a) Ronald Hugh Arbuckle, of Wellington, retired, for a term of 3 years:
-  (b) Brian Douglas Chamberlin, of Auckland, farmer, for a term of 2 years:
-  (c) Allan James Kerr, of Auckland, manager, for a term of 3 years:
-  (d) Ian Douglas Watson, of Palmerston North, university professor, for a term of 3 years:
-  (e) Patricia Rose Bergquist, of Auckland, university professor, for a term of 3 years:
-  (f) Michael William Dunbier, of Christchurch, civil servant, for a term of 3 years:
-  (g) Judith Anne Davey, of Wellington, social scientist, for a term of 2 years.
-(3) The said Ronald Hugh Arbuckle is hereby deemed to have been appointed Presiding Member.
-(4) Each of the following persons is hereby deemed to have been on 26 March 1992 lawfully appointed as a member for a term commencing on that day and expiring with the close of 25 March 1995:
-  (a) John Suffield Parker, of Wellington, manager:
-  (b) Ian William Axford, of Napier, scientist.
-(5) The said Ronald Hugh Arbuckle is hereby deemed to have resigned office as a member at the close of 30 June 1992.
-(6) The said Ian William Axford is hereby deemed to have been appointed as Presiding Member on 1 July 1992.
-(7) Notwithstanding subsections (4) to (6), for the purpose only of the making of payments to him under clause 9(1) of Schedule 1 of the empowering Act, the said Ian William Axford is hereby deemed to have been appointed both as a member and as Presiding Member on 1 March 1992.
-(8) Roger Curtis Green, of Auckland, university professor, is hereby deemed to have been lawfully appointed as a member on 26 October 1992 as successor to the said Judith Anne Davey, for a term commencing on that day and expiring with the close of 25 October 1995; and the term of the said Judith Anne Davey as a member shall be deemed to have expired accordingly.
-(9) Each of the following persons is hereby deemed to have been on 26 October 1992 lawfully appointed to be a member for a term commencing on that day and expiring with the close of 25 October 1995:
-  (a) Margaret Elizabeth Lawton, of Auckland, civil servant:
-  (b) Richard Gordon Maxwell Christie, of Wellington, manager.
-(10) The validity of—shall be determined having regard to subsections (2) to (9).
-  (a) every purported meeting of the Foundation held before 26 October 1993; and
-  (b) every action and decision of the Foundation taken before that day,—
+[Repealed]
 
 ### 3 Local Authorities Loans Board: appointment of certain members
 (1) For the avoidance of doubt, it is hereby declared that—
