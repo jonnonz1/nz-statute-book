@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2010-10-16_
+_Consolidation as at 2011-02-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -43,7 +43,7 @@ _Consolidation as at 2010-10-16_
   - **incorporated law firm** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **industry organisation** means any organisation the purpose of which, or one of the purposes of which, is to represent the interests of any class or classes of financial institution
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
-  - **life insurance policy** means a policy within the meaning of section 2 of the Life Insurance Act 1908
+  - **life insurance policy** means a life policy within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **money laundering offence** means an offence against section 243 of the Crimes Act 1961
   - **occasional transaction** , subject to any regulations made under this Act, means any transaction—
     (a) that involves the deposit, withdrawal, exchange, or transfer of cash; and
@@ -87,7 +87,7 @@ _Consolidation as at 2010-10-16_
     (i) a registered bank within the meaning of the Reserve Bank of New Zealand Act 1989; or
     (ii) the Reserve Bank of New Zealand continued by the Reserve Bank of New Zealand Act 1989; or
     (iii) any other person, partnership, corporation, or company carrying on in New Zealand the business of banking:
-  (b) a life insurance company, being a company as defined in section 2 of the Life Insurance Act 1908:
+  (b) an insurer that issues, or is liable under, life insurance policies:
   (c) a building society as defined in section 2 of the Building Societies Act 1965:
   (d) a friendly society or credit union registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982:
   (e) the holder of a casino operator's licence under the Gambling Act 2003:
