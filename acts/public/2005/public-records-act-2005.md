@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -33,8 +33,9 @@ In this Act, unless the context otherwise requires,—
     (c) a local authority, the person responsible for the performance of the local authority, for example, the chief executive appointed under section 42 of the Local Government Act 2002 or the chief executive of an organisation referred to in paragraph (b) of the definition of the term local authority in section 4
   - **approved repository** means a repository approved by the Minister under section 26
   - **Archives Council** and mean the Archives Council established by section 14
-  - **Archives New Zealand** means the department of State called Archives New Zealand (Te Rua Mahara o te Kāwanatanga) and the national repository, both of which are continued by section 9
+  - **Archives New Zealand** means the repository referred to in section 9
   - **Chief Archivist** means the Chief Archivist referred to in section 10
+  - **chief executive** means the chief executive of the department
   - **controlling local authority** , in relation to a local authority record,—
     (a) means the local authority that controls the local authority record; and
     (b) includes any successor to that local authority
@@ -43,6 +44,7 @@ In this Act, unless the context otherwise requires,—
       (i) in relation to a public record, the public office that controls the public record:
       (ii) in relation to a public archive, the public office that has power to determine conditions of access to the public archive; and
     (b) includes any successor to that public office
+  - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **discharge register** means the register referred to in section 19(1)(b)
   - **discharged record** means a record the status of which as a public record is cancelled in accordance with section 25
   - **disposal** , in relation to a public record or local authority record, means—
@@ -68,7 +70,7 @@ In this Act, unless the context otherwise requires,—
       (i) a protected record; and
       (ii) a local authority record that the controlling local authority resolves is worth permanent preservation
   - **local authority record** means a record or class of records in any form, in whole or in part, created or received (whether before or after the commencement of this Act) by a local authority in the conduct of its affairs
-  - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Minister’s papers** means records created or received (whether before or after the commencement of this Act) by a Minister while holding office as a Minister of the Crown
   - **open access record** means—
     (a) a public record—
@@ -172,14 +174,14 @@ This Act binds the Crown.
 
 ### 9 Continuation of Archives New Zealand
 (1) The repository called the National Archives that was established by section 5 of the Archives Act 1957 is continued with the name Archives New Zealand (Te Rua Mahara o te Kāwanatanga).
-(2) The department of State known as Archives New Zealand is continued under the name Archives New Zealand (Te Rua Mahara o te Kāwanatanga).
+(2)
 
 **Chief Archivist**
 
 ### 10 Chief Archivist
 (1) There is an office of the Chief Archivist.
-(2) The Chief Archivist is also the chief executive of Archives New Zealand.
-(3) The person holding office as the Chief Archivist immediately before the commencement of this Act continues to hold that office on the commencement of this Act on the same terms and conditions.
+(2) The Chief Archivist is the person for the time being appointed to that office by the chief executive under the State Sector Act 1988.
+(3)
 
 ### 11 Functions and duties of Chief Archivist
 (1) The functions of the Chief Archivist, in achieving the purposes of this Act, are—
@@ -210,12 +212,12 @@ This Act binds the Crown.
 (3) For the purposes of performing any of the Chief Archivist’s functions referred to in subsection (1), the Chief Archivist must ensure that processes are in place for consulting with Māori.
 
 ### 12 Chief Archivist to act independently
-In relation to the disposal of public records under section 20(1), the Chief Archivist—
-  (a) must act independently in the performance of his or her functions; and
-  (b) is not subject to directions from the Minister.
+In relation to the performance of his or her functions and duties and to the exercise of his or her powers under sections 11(1)(b) and (d), 20(1), and 30, the Chief Archivist—
+  (a) must act independently in exercising his or her professional judgement; and
+  (b) is not subject to direction from either the Minister or the chief executive.
 
 ### 13 Delegations by Chief Archivist
-(1) The Chief Archivist may, either generally or particularly, delegate to an employee of Archives New Zealand all or any of the Chief Archivist’s functions, duties, or powers under this Act except—
+(1) The Chief Archivist may, either generally or particularly, delegate to an employee in the department all or any of the Chief Archivist’s functions, duties, or powers under this Act except—
   (a) the power to authorise the disposal of—
     (i) public records; or
     (ii) protected records; and
@@ -252,7 +254,7 @@ In relation to the disposal of public records under section 20(1), the Chief Arc
     (ii) the Orders in Council that may be made under section 5:
     (iii) authorisations to dispose of public records under section 20(3):
     (iv) the approval of repositories under section 26:
-    (v) appropriate criteria for the independent audit of Archives New Zealand conducted under section 34:
+    (v) appropriate criteria for the independent audit of the recordkeeping practices of the Chief Archivist conducted under section 34:
   (b) recommendations under section 55 on appeals to the Minister.
 (2) For the purpose of performing its functions under this Act, the Council has full powers, rights, and privileges.
 (3) The Council must report to the Minister each year on the performance of its functions during the preceding year.
@@ -260,7 +262,7 @@ In relation to the disposal of public records under section 20(1), the Chief Arc
 
 ### 16 Administrative matters
 (1) The Archives Council may regulate its own procedure.
-(2) Archives New Zealand must provide administrative services for the Council.
+(2) The department must provide administrative services for the Council.
 (3) The members of the Council are entitled to be paid, out of money appropriated by Parliament for the purpose,—
   (a) fees determined by the Minister in accordance with government policy; and
   (b) reimbursing allowances or actual and reasonable expenses incurred in undertaking the functions of the Council.
@@ -292,7 +294,7 @@ In relation to the disposal of public records under section 20(1), the Chief Arc
     (ii) prohibitions imposed under section 49 on public access to public archives or protected records in the control of the Chief Archivist; and
     (iii) the grounds for the prohibitions and restrictions recorded under this paragraph; and
     (iv) the conditions agreed to under section 40(4)(a) as to public access for protected records transferred to the control of the Chief Archivist.
-(2) The Chief Archivist must make the registers available for public inspection at Archives New Zealand.
+(2) The Chief Archivist must make the registers available for public inspection.
 
 **Disposal**
 
@@ -306,8 +308,8 @@ In relation to the disposal of public records under section 20(1), the Chief Arc
 (2) Before authorising a disposal under subsection (1), the Chief Archivist must give not less than 30 days’ notice, in the manner the Chief Archivist considers appropriate, of—
   (a) the intention to dispose of the public record, with a general description of the public record concerned; and
   (b) the place where additional information may be obtained on the public record concerned and the person to whom any comments may be sent.
-(3) The Chief Archivist must not, without the Minister’s written authorisation, dispose of a public record created or received by Archives New Zealand (except if section 21 or section 23 applies).
-(4) The Minister may, on the advice of the Archives Council given on the recommendation of the Chief Archivist, authorise in writing the disposal of a public record of Archives New Zealand.
+(3) The Chief Archivist must not, without the Minister’s written authorisation, dispose of a public record created or received by the Chief Archivist in relation to his or her functions, duties, and powers under this Act (except if section 21 or section 23 applies).
+(4) The Minister may, on the advice of the Archives Council given on the recommendation of the Chief Archivist, authorise in writing the disposal of a public record referred to in subsection (3).
 
 **Transfer**
 
@@ -340,7 +342,7 @@ In relation to the disposal of public records under section 20(1), the Chief Arc
 (4) An agreement entered into under subsection (1)(b) may be renewed for further specified periods by agreement between the administrative head of the controlling public office and the Chief Archivist.
 (5) An instruction issued under subsection (1)(c)—
   (a) must identify the public records to which the instruction relates; and
-  (b) must direct Archives New Zealand to make payments to the controlling public office for the maintenance, preservation, and public use of any such public records at a rate agreed by the Chief Archivist and the controlling public office; and
+  (b) must direct the department to make payments to the controlling public office for the maintenance, preservation, and public use of any such public records at a rate agreed by the Chief Archivist and the controlling public office; and
   (c) may contain conditions relating to the preservation and use of the public records concerned; and
   (d) may specify a date for the transfer of the records to the control of the Chief Archivist.
 (6) Subsection (1)(d) applies only if a public record contains information the release of which would be likely to—
@@ -374,7 +376,7 @@ If the administrative head of a controlling public office satisfies the Chief Ar
   (c) the release of the public record is consistent with the principles of the Privacy Act 1993; and
   (d) the public record is not subject to a request under the Official Information Act 1982; and
   (e) the administrative head of the controlling public office agrees to the public record being discharged; and
-  (f) the person to whom the public record is to be discharged is not a Minister of the Crown, the Chief Archivist, an employee of Archives New Zealand, the Archives Council, a member of the Archives Council, or an employee of the controlling public office.
+  (f) the person to whom the public record is to be discharged is not a Minister of the Crown, the Chief Archivist, an employee in the department, the Archives Council, a member of the Archives Council, or an employee of the controlling public office.
 (2) The Chief Archivist may authorise in writing the discharge of a class of public records that contains information about identified persons only if—
   (a) the Chief Archivist considers that the class of public records is suitable to be discharged; and
   (b) the administrative head of the controlling public office agrees to the class of public records being discharged; and
@@ -451,8 +453,8 @@ The Chief Archivist may give notice in writing directing the administrative head
   (b) be based on criteria developed by the Chief Archivist.
 (3) Further audits must be conducted at intervals of not less than 5 years and not more than 10 years after the date of the previous audit (but it is not necessary to conduct an audit of all public offices in the same year).
 
-### 34 Audit of Archives New Zealand
-(1) The Minister must commission an independent audit of Archives New Zealand—
+### 34 Audit of recordkeeping practices of Chief Archivist
+(1) The Minister must commission an independent audit of the recordkeeping practices of the Chief Archivist—
   (a) as soon as is reasonably practicable after the date that is 5 years from the commencement of this Act; and
   (b) at intervals of not less than 5 years and not more than 10 years after the date of the previous audit.
 (2) An audit commissioned under subsection (1) must—
@@ -570,7 +572,7 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
   (b) if paragraph (a)(ii) applies, determine the conditions appropriate for public access.
 (4) The administrative head of a controlling public office may at any time, in consultation with the Chief Archivist, vary or withdraw a condition imposed under subsection (3)(b).
 (5) A public record subject to a restriction under subsection (3)(a)(i) becomes an open access record on the withdrawal of the restriction.
-(6) Archives New Zealand and the Chief Archivist must comply with conditions of public access imposed under subsection (3)(b).
+(6) The department and the Chief Archivist must comply with conditions of public access imposed under subsection (3)(b).
 (7) A restriction on public access to a public record must be noted in the public access register, in accordance with section 19(1)(d).
 (8) Every controlling public office is responsible for dealing with requests for official information under the Official Information Act 1982 and requests for personal information under the Privacy Act 1993.
 
@@ -697,7 +699,7 @@ To avoid doubt, public records transferred under this Act to the possession of A
   (d) National Archives:
   (e) Te Whare Tohu Tuhituhinga o Aotearoa:
   (f) another name that so resembles the names in any of paragraphs (a) to (e) as to be likely to mislead a person.
-(2) No person other than Archives New Zealand may, either alone or with another person, trade or carry on business or exercise the functions for which it was formed—
+(2) No person other than the department may, either alone or with another person, trade or carry on business or exercise the functions for which it was formed—
   (a) under a name specified in subsection (1); or
   (b) under a name that so resembles a name specified in that subsection as to be likely to mislead a person.
 
@@ -773,3 +775,15 @@ The following enactments are repealed:
 (2) The regulations specified in Part 3 of the Schedule are amended in the manner indicated in that Part.
 
 ## Schedule  — Enactments amended
+
+### 1 Title
+This Act is the Public Records Amendment Act (No 2) 2010.
+
+### 2 Commencement
+This Act comes into force on 1 February 2011.
+
+**Transfer of employees of Archives New Zealand and related matters**
+
+### 18 Transfer of Archives New Zealand employees to department
+(1) Sections 30E, 30F, and 30G of the State Sector Act 1988 apply to every person who was, immediately before the commencement of this Act, an employee in Archives New Zealand.
+(2) For the purposes of subsection (1), sections 30E, 30F, and 30G of the State Sector Act 1988 apply as if they had been declared to apply by Order in Council under section 30C of that Act.
