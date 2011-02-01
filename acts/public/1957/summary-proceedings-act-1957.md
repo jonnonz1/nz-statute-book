@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-02-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3466,7 +3466,6 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 60(3) |  | Failing or refusing to allow blood specimen to be taken |
 |  |  | 61(1), (2) |  | Causing injury or death while in charge of vehicle and having breath or blood alcohol level over specified limit, or to such an extent as to be incapable of proper control of vehicle |
 |  |  | 62(1) |  | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61) |
-| Life Insurance Act 1908 |  | 29 |  | Falsifying statements, etc |
 | Local Electoral Act 2001 |  | 123 and 124 |  | Offences in respect of official documents and voting offences |
 | Local Government Act 2002 |  | 232(2) |  | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
 | Marriage Act 1955 |  | 58 |  | Unlawful solemnisation of marriage |
