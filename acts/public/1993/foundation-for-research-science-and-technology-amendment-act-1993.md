@@ -1,5 +1,5 @@
 # Foundation for Research, Science, and Technology Amendment Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-02-01_
 
 > An Act to amend the Foundation for Research, Science, and Technology Act 1990
 
