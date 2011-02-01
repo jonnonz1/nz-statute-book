@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1578,7 +1578,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
-| Foundation for Research, Science, and Technology |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Health Sponsorship Council |  |  |  |  |  |
