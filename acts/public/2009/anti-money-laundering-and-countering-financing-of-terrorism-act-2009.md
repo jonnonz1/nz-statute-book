@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-02-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -127,7 +127,7 @@ In this Act, unless the context otherwise requires,—
       (ix) managing individual or collective portfolios:
       (x) safe keeping or administering of cash or liquid securities on behalf of other persons:
       (xi) investing, administering, or managing funds or money on behalf of other persons:
-      (xii) underwriting or placement of life insurance or other investment related insurance:
+      (xii) issuing, or undertaking liability under, life insurance policies as an insurer:
       (xiii) money or currency changing; and
     (b) includes a person or class of persons declared by regulations to be a financial institution for the purposes of this Act; but
     (c) excludes a person or class of persons declared by regulations not to be a financial institution for the purposes of this Act
@@ -154,6 +154,7 @@ In this Act, unless the context otherwise requires,—
     (f) the administration of the Mutual Assistance in Criminal Matters Act 1992:
     (g) the investigation of matters relating to security under the New Zealand Security Intelligence Service Act 1969:
     (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs
+  - **life insurance policy** means a life policy within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **money laundering offence** means an offence against section 243 of the Crimes Act 1961 or section 12B of the Misuse of Drugs Act 1975 or any act committed overseas that, if committed in New Zealand, would be an offence under those sections of those Acts
