@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2010-09-30_
+_Consolidation as at 2011-02-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -30,6 +30,7 @@ In this Act, unless the context otherwise requires,—
   - **friendly society** means a society of the kind specified in section 11(1)(a) of this Act
   - **Government Actuary** includes, in the case of a vacancy in the office of Government Actuary, any Deputy Government Actuary
   - **land** includes any interest in land
+  - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **meeting** includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
   - **Minister** means the Minister of the Crown having for the time being charge of the administration of this Act
   - **Officer** , in relation to a registered society or branch or credit union, includes any trustee, treasurer, secretary, or member of the committee of management of the society, branch, or credit union, and any person appointed by the society or branch or credit union to sue and be sued on its behalf
@@ -115,6 +116,7 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
   (d) societies (in this Act called specially authorised societies) established for any purpose which the Minister may, by notice in the Gazette, authorise as a purpose to which the provisions of this Act, or such of them as are specified in the notice, ought to be extended.
 (2) No society or branch shall first be registered under this Part of this Act unless it consists of at least 7 adults.
 (3) No society or branch shall be registered under this Act which contracts with any person for the assurance of a gross sum or of an annuity in excess of the limits specified in section 42 of this Act.
+(3A) Subsection (3) does not apply to a licensed insurer.
 (4) In the case of specially authorised societies and their registered branches (if any) established pursuant to subsection (1)(d) of this section—
   (a) the rules shall bind the society or registered branch and its members, and all persons claiming through them respectively, to the same extent as if each member had subscribed his name and (where appropriate) affixed his seal, and there were in such rules a covenant on the part of himself, his executors and administrators, to conform to such rules subject to the provisions of this Act:
   (b) all money payable by a member to the society or to a registered branch shall be deemed to be a debt due from such member to the society or registered branch, and shall be recoverable as such.
@@ -317,6 +319,7 @@ Except as provided in this Part of this Act, the subscription of a person who is
 (1) No member or person claiming through a member shall receive from any registered society or branch or from any registered society including its branches taken together more than $100,000 by way of gross sum together with any bonuses or additions declared upon assurances not exceeding that sum, or more than $5,000 a year by way of annuity together with any bonus or addition declared upon that annuity.
 (2) The Governor-General may, from time to time by Order in Council, amend any amount specified in subsection (1) of this section as being a maximum gross sum of assurances or annuity.
 (3) In this section, the term assurance includes all life and endowment assurance, and any assurance payable on the member's death provided by the society or branch in respect of any shares in or loans by a credit union.
+(4) This section does not apply to a licensed insurer.
 
 ### 43 Member may nominate person to receive money on death
 (1) Subject to this section, a member of a registered society (other than a benevolent society or working men's club) or of a branch thereof who is not under the age of 16 years may, by writing under his hand delivered at or sent to the registered office of the society or branch, or made in a register kept at that office, nominate a person or persons to whom any sum of money payable by the society or branch on the death of that member or any specified amount of money so payable shall be paid at his decease.
@@ -593,7 +596,7 @@ Every registered society or branch shall keep available for inspection (without 
 (2) Every report shall be in such form and contain such particulars as the Registrar may require.
 (3) The Registrar may, in writing, exempt wholly or in part from the requirements of subsection (1) of this section any society transacting business in respect of which he thinks those requirements to be inapplicable, and may from time to time review, vary, or revoke any exemption so given.
 (4) Notwithstanding subsection (1) of this section, the Registrar, may at any time, or at such time or times as he may specify, require any registered society to have a report or reports prepared by an actuary in respect of such business of the society and its branches or any of them as he may specify, and to send a copy of that report to him within such time as he may specify.
-(5) The requirements of this Act relating to the actuarial valuation shall not apply to benevolent societies or working men's clubs.
+(5) The requirements of this Act relating to the actuarial valuation shall not apply to benevolent societies or working men's clubs or licensed insurers.
 
 ### 75 Obligation on branches to supply particulars for annual return or actuarial valuation and report
 It shall be the duty of every branch of a registered society to supply the secretary of the society with all such information as he requires to enable him to prepare the returns he is directed by this Act to furnish to the Registrar, and also with all information required to enable a valuation of the assets and liabilities of the society and its branches to be made or any reports to be prepared in accordance with this Act.
@@ -607,9 +610,11 @@ It shall be the duty of every branch of a registered society to supply the secre
 (2) If, in the opinion of the Registrar, the circumstances in any case are exceptional, the registered society or, as the case may be, branch may, if the rules of the society or branch so provide and with the consent of the Registrar and subject to such conditions as he may prescribe, appropriate and transfer so much of any surplus in any fund as can safely and equitably be used for any of the purposes specified in subsection (1) of this section, notwithstanding that the society or branch may not possess a surplus when all its funds are taken into account.
 (3) A registered society may, in accordance with subsection (1) or subsection (2) of this section, transfer so much of any surplus of a fund as can be safely and equitably used to any deficient fund of any registered branch of the society.
 (4) A registered branch of any registered society may, in accordance with subsection (1) or subsection (2) of this section, transfer so much of any surplus of a branch fund as can be safely and equitably used to any deficient fund of the society of which it is a branch.
+(5) This section does not apply to a licensed insurer.
 
 ### 77 Registrar may advise society on financial position
-If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under section 74 of this Act or pursuant to section 7(3)(a) of this Act, it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
+(1) If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under section 74 of this Act or pursuant to section 7(3)(a) of this Act, it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
+(2) This section does not apply to a licensed insurer.
 
 **Disputes**
 
