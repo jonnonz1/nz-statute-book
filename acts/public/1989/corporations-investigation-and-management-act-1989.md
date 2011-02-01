@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-02-01_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -68,13 +68,13 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or any other
 
 ### 8 Consultation with Reserve Bank
 (1) For the purposes of this section—
-  - **registered bank** means a registered bank within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989
-  - **specified institution** means a person that continues to be subject to Part 5C of the Reserve Bank of New Zealand Act 1964 by virtue of section 190 of the Reserve Bank of New Zealand Act 1989.
-(2) The Registrar shall consult with the Reserve Bank before—
-  (a) giving a written notice requiring any registered bank or specified institution to supply any information under section 9:
-  (b) appointing any person to carry out an investigation of the affairs of any registered bank or specified institution under section 19:
-  (c) giving a written notice to any registered bank or specified institution that it is considered to be a corporation at risk.
-(3) The Securities Commission shall consult with the Reserve Bank before making a recommendation to the Minister under section 38 in respect of any registered bank or specified institution.
+  - **licensed insurer** means a licensed insurer within the meaning of the Insurance (Prudential Supervision) Act 2010
+  - **registered bank** means a registered bank within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989.
+(2) The Registrar must consult the Reserve Bank of New Zealand before—
+  (a) giving a written notice requiring any licensed insurer or registered bank to supply any information under section 9:
+  (b) appointing any person to carry out an investigation of the affairs of any licensed insurer or registered bank under section 19:
+  (c) giving a written notice to any licensed insurer or registered bank that it is considered to be a corporation at risk.
+(3) The Securities Commission must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer or registered bank.
 
 ## Part 1 — Supply of information by, and investigation of affairs of, corporations
 
