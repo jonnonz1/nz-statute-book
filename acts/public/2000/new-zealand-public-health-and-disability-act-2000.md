@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2010-11-09_
+_Consolidation as at 2011-02-24_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -47,7 +47,7 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   (b) will provide, or fund the provision of, health services and disability support services:
   (c) have the objective of reducing health disparities by improving health outcomes for Maori and other New Zealanders:
   (d) are statutory entities rather than companies:
-  (e) are accountable in a number of ways (under the Crown Entities Act 2004 and sections 38 to 42), for example, through annual plans agreed with the Minister of Health, and statements of intent.
+  (e) are accountable in a number of ways (under the Crown Entities Act 2004 and sections 38 to 42), for example, through plans prepared under section 38, and statements of intent.
 (4) The board of each DHB must have 3 permanent advisory committees (the community and public health advisory committee, disability support advisory committee, and hospital advisory committee (sections 34 to 36 and Schedule 4)), but may also establish other committees (Schedule 3—clause 38(1)).
 (5) A statutory entity called the Pharmaceutical Management Agency (Pharmac) is established (Part 4—sections 46 to 53, and sections 61 to 69, and Schedule 6), and takes over functions relating to the pharmaceutical schedule from the company called Pharmaceutical Management Agency Limited, which is dissolved (Part 7).
 (6) A statutory entity called the New Zealand Blood Service (NZBS) is established (Part 4—sections 54 to 56, and sections 61 to 69, and Schedule 6), and takes over functions relating to blood and controlled human substances from the company called New Zealand Blood Service Limited, which is dissolved (Part 7).
@@ -59,7 +59,6 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
 
 ### 6 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **annual plan** means an annual plan of a DHB under section 39
   - **board** , in relation to a publicly-owned health and disability organisation, means the members of the board of the organisation
   - **board committee** , in relation to the board of a DHB, means the community and public health advisory committee, disability support advisory committee, or hospital advisory committee, and any other committee of the board appointed under clause 38(1) of Schedule 3
   - **board member** , in relation to a publicly-owned health and disability organisation, means a member of the board of that organisation
@@ -78,7 +77,6 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **disability support services** includes goods, services, and facilities—
     (a) provided to people with disabilities for their care or support or to promote their inclusion and participation in society, and independence; or
     (b) provided for purposes related or incidental to the care or support of people with disabilities or to the promotion of the inclusion and participation in society, and independence of such people
-  - **district strategic plan** means a plan of a DHB determined under section 38 covering a period of at least 5, and not more than 10, years
   - **eligible people** means people who are eligible to receive services funded under this Act, as specified by the Minister in a direction issued under section 103 of the Crown Entities Act 2004
   - **good employer** has the same meaning as in section 118 of the Crown Entities Act 2004
   - **health practitioner** —
@@ -326,7 +324,7 @@ This Act binds the Crown.
   (i) to uphold the ethical and quality standards commonly expected of providers of services and of public sector organisations:
   (j) to exhibit a sense of environmental responsibility by having regard to the environmental implications of its operations:
   (k) to be a good employer in accordance with section 118 of the Crown Entities Act 2004.
-(2) Each DHB must pursue its objectives in accordance with its district strategic plan, its annual plan, its statement of intent, and any directions or requirements given to it by the Minister under section 33 of this Act or section 103 of the Crown Entities Act 2004, or under section 107 of the Crown Entities Act 2004.
+(2) Each DHB must pursue its objectives in accordance with any plan prepared under section 38, its statement of intent, and any directions or requirements given to it by the Minister under section 33, 33A, or 33B of this Act, or section 103 of the Crown Entities Act 2004, or under section 107 of the Crown Entities Act 2004.
 
 ### 23 Functions of DHBs
 (1) For the purpose of pursuing its objectives, each DHB has the following functions:
@@ -360,7 +358,7 @@ This Act binds the Crown.
   (c) enhance efficiencies in the health sector.
 (2) A DHB may not enter into a co-operative agreement or arrangement under subsection (1) unless,—
   (a) if the consent of the Minister or authority by regulations is required for that agreement or arrangement by section 28, that consent or authority exists; or
-  (b) in any other case, the DHB is authorised to enter into the agreement or arrangement by its district strategic plan or annual plan, or by the Minister.
+  (b) in any other case, the DHB is authorised to enter into the agreement or arrangement by a plan prepared under section 38, or by the Minister.
 (3) Any authority given by the Minister for the purposes of subsection (2) may be given subject to any conditions the Minister specifies.
 (4) The Minister must, within 6 months of the commencement of this section, produce guidelines to be followed by DHBs in establishing co-operative agreements or arrangements under subsection (1) so that DHBs follow processes that are fully transparent and designed to ensure that DHBs accomplish their objectives in ways that—
   (a) take full account of all issues concerned; and
@@ -370,7 +368,7 @@ This Act binds the Crown.
 
 ### 25 Service agreements
 (1) In this Act, service agreement means an agreement under which 1 or more DHBs agree to provide money to a person in return for the person providing services or arranging for the provision of services.
-(2) A DHB may, if permitted to do so by its annual plan and in accordance with that plan,—
+(2) A DHB may, if permitted to do so by a plan prepared under section 38 and in accordance with that plan,—
   (a) negotiate and enter into service agreements containing any terms and conditions that may be agreed; and
   (b) negotiate and enter into agreements to amend service agreements.
 (3) A DHB that has entered into a service agreement must monitor the performance under that agreement of the other parties to that agreement.
@@ -384,7 +382,7 @@ This Act binds the Crown.
 (4) This section does not limit clause 44 of Schedule 3.
 
 ### 27 Duties of board
-(1) The board of a DHB must ensure that the DHB acts in a manner consistent with the DHB's district strategic plan, annual plan, and any directions under section 33 of this Act or section 103 or section 107 of the Crown Entities Act 2004.
+(1) The board of a DHB must ensure that the DHB acts in a manner consistent with any relevant plan prepared under section 38, and any directions under section 33, 33A, or 33B of this Act or section 103 or section 107 of the Crown Entities Act 2004.
 (2) The duty in subsection (1)—
   (a) applies in addition to the duties of the board in sections 49 to 52 of the Crown Entities Act 2004; and
   (b) is a collective duty owed to the Minister for the purposes of section 58 of the Crown Entities Act 2004.
@@ -450,9 +448,49 @@ This Act binds the Crown.
   (b) require the supply of services by any named individuals or organisations (other than any DHB); or
   (c) specify the price for any services.
 (2) Before giving the notice, the Minister must—
-  (a) have regard to section 22 and section 23, the New Zealand health strategy, the New Zealand disability strategy, and the district strategic plan of the DHB; and
+  (a) have regard to section 22 and section 23, the New Zealand health strategy, the New Zealand disability strategy, and any plan prepared under section 38 that the DHB is a party to; and
   (b) consult the board of the DHB as to the services that are to be required to be provided or arranged, and the cost and funding of those services.
 (3) A notice under subsection (1) is a direction for the purposes of the Crown Entities Act 2004 and must be published in the Gazette and presented to the House of Representatives in accordance with section 115 of that Act.
+
+### 33A Proposals and directions in relation to administrative, support, and procurement services
+(1) A proposal stating how administrative, support, and procurement services within the public health and disability sector should be obtained may be submitted to the Minister by the Director-General or any person or body approved by the Minister for the purpose.
+(2) If the Minister has reason to believe that the proposal will enhance the effective and efficient operation of the public health and disability sector and should be implemented, the Minister must—
+  (a) consider whether the proposal can be reasonably implemented without a direction under subsection (3); and
+  (b) consult any DHB that is not already a party to the proposal and is likely to be affected by it; and
+  (c) consult any other person or body that the Minister considers appropriate.
+(3) If the Minister considers that the proposal cannot be reasonably implemented otherwise, he or she may give a direction to 1 or more DHBs—
+  (a) stating how administrative, support, and procurement services must be obtained (for example, specifying a process to be followed in obtaining those services); or
+  (b) stating who must provide particular administrative, support, and procurement services for the DHB or DHBs.
+(4) The direction must be in writing and must be signed by the Minister and the Minister of Finance.
+(5) Sections 113 and 114(3)(a) of the Crown Entities Act 2004 do not apply to this section.
+(6) In this section, administrative, support, and procurement services—
+  (a) means services that do not relate directly to, but are necessary for, the provision of care to patients or care or support to people with disabilities; and
+  (b) without limiting the generality of paragraph (a), includes any of the following:
+    (i) procurement of non-clinical and clinical supplies:
+    (ii) financial services:
+    (iii) human resources and payroll services:
+    (iv) clerical services:
+    (v) facilities management, engineering, and maintenance services:
+    (vi) information systems and technology.
+
+**Ministerial directions to all DHBs**
+
+### 33B Minister may give directions to all DHBs
+(1) The Minister may give a direction to all DHBs to comply with stated requirements for the purpose of supporting government policy on improving the effectiveness and efficiency of the public health and disability sector.
+(2) The direction must be in writing and must be signed by the Minister and the Minister of Finance.
+(3) Before giving the direction, the Minister must, to the extent (if any) that the Minister considers necessary in the circumstances,—
+  (a) consult all DHBs; and
+  (b) consult persons that the Minister considers are representative of the interests of persons likely to be substantially affected by the proposed direction.
+(4) As soon as practicable after giving the direction, the Minister must—
+  (a) notify all DHBs that the direction has been given and that it will come into force subject to subsection (5); and
+  (b) present a copy of the direction to the House of Representatives.
+(5) The direction comes into force 15 sitting days after it is presented to the House of Representatives unless the House of Representatives resolves, in that period, to disapply the direction.
+(6) Every DHB must give effect to the direction as soon as it comes into force.
+(7) As soon as practicable after the direction comes into force, the Minister must ensure that a copy of it is published in the Gazette and on an Internet site operated by the Ministry of Health.
+(8) If the direction does not come into force, the Minister must, as soon as practicable, notify all DHBs that the direction has been disapplied and that it will not come into force.
+(9) Section 113 of the Crown Entities Act 2004 applies to a direction given under this section as if it were a Ministerial direction given under that Act.
+(10) No direction may be given under this section to Crown entity subsidiaries.
+(11) For the purposes of section 115(5) of the Crown Entities Act 2004, the procedure set out in this section is a procedure for giving directions.
 
 **Committees**
 
@@ -470,43 +508,40 @@ The board of a DHB must, within 3 months of the commencement of this Act, establ
 ### 37 Responsibility of board
 [Repealed]
 
-### 38 District strategic plans
-(1) Each DHB must,—
-  (a) as soon as practicable after the commencement of this Act, determine a district strategic plan for fulfilling its objectives and functions during a period of 5 to 10 years from the date of its determination; and
-  (b) determine a replacement district strategic plan before its current plan expires; and
-  (c) review its current district strategic plan at least once every 3 years.
-(2) A DHB may amend or replace a district strategic plan at any time.
-(3) Before a DHB determines or makes a significant amendment to a district strategic plan, it must—
-  (a) assess the health status of that population, any factors that the DHB believes may adversely affect the health status of that population, the needs of that population for services, and the contributions that those services are intended to make towards the health outcomes and health status sought for that population; and
-  (b) prepare a draft plan or amendment and consult its resident population on that draft; and
-  (c) obtain the Minister's consent to the plan or amendment.
-(4) The standard for any consultation required by subsection (3)(b) may not be lower than the standard required by section 83 of the Local Government Act 2002 for local authorities; and for the purposes of this subsection, that section applies, with all necessary modifications, as if the DHB concerned were a local authority.
-(5) Despite subsection (3), a DHB may determine its first district strategic plan without complying with paragraph (a) of that subsection.
-(6) A district strategic plan of a DHB must reflect the overall direction set out in, and not be inconsistent with, the New Zealand health strategy and New Zealand disability strategy.
-(7) A DHB must make publicly available copies of its current district strategic plan and any amendments to it.
+### 38 Planning framework and requirements
+(1) The Minister—
+  (a) must direct every DHB to prepare a plan for each financial year beginning on or after 1 July 2011; and
+  (b) may direct a DHB to prepare or contribute to 1 or more other plans.
+(2) Every plan—
+  (a) must address—
+    (i) local, regional, and national needs for health services; and
+    (ii) how health services can be properly co-ordinated to meet those needs; and
+    (iii) the optimum arrangement for the most effective and efficient delivery of health services; and
+  (b) must demonstrate how a DHB that is a party to the plan is to give effect to the purposes of this Act; and
+  (c) must demonstrate how a DHB that is a party to the plan is to operate in a financially responsible manner; and
+  (d) must reflect the overall direction set out in, and not be inconsistent with, the New Zealand health strategy and the New Zealand disability strategy.
+(3) A DHB that is a party to a plan must comply with any requirements (including any procedural requirements) relating to the plan that are stated in regulations (if any).
+(4) The plan is finalised once it is—
+  (a) approved by the Minister after he or she is satisfied that the requirements of subsections (2) and (3) have been met; and
+  (b) signed by the Minister and every DHB that is a party to the plan.
+(5) A DHB that is a party to the plan must give effect to it and any amendments to it.
+(6) The plan may be amended at any time in the same manner as it was made.
+(7) A DHB that is a party to the plan must ensure that the plan and any amendments to it are publicly available as soon as is reasonably practicable after the plan is finalised.
+(8) In making the plan (and any amendments to it) publicly available, a DHB may omit any information that may properly be withheld under the Official Information Act 1982 if a request for that information were made under that Act.
 
-### 39 District annual plans
-(1) The Minister and DHB must agree on an annual plan of the DHB for each financial year beginning on or after 1 July 2001.
-(2) The annual plan of a DHB for a financial year must,—
-  (a) if the Minister so requires by written notice to the DHB, be in a form specified by the Minister in the notice:
-  (b) except to the extent to which the information is included in the DHB's statement of intent for that year, include the following information:
-    (i) the intended outputs of the DHB for that year, and how they relate to the DHB's district strategic plan:
-    (ii) the funding proposed for those intended outputs:
-  (c) include the expected performance of the DHB's hospital and related services during the year, and the amount of any capital investment expected to be required:
-  (d)
-  (e) have attached a copy of the DHB's completed statement of intent and Crown funding agreement for that year.
-(3) Every annual plan of a DHB must be signed by the Minister and the DHB.
-(4) Each DHB must make its annual plan publicly available as soon as reasonably practicable after it has been signed by the Minister and the DHB.
-(5) If for any reason the statement of intent under the Crown Entities Act 2004 or Crown funding agreement of a DHB has not been finalised in sufficient time to attach a copy of it to the DHB's annual plan, the DHB must specify in the plan that the statement of intent or Crown funding agreement was not included for that reason, but that the statement of intent or Crown funding agreement will be made publicly available as soon as is practicable in the circumstances.
-(6) A DHB, in making its annual plan publicly available, may omit any information that may properly be withheld under the Official Information Act 1982, if a request for that information were made under that Act.
-(7) A DHB that, in reliance on subsection (6), omits any information from its annual plan must, in that annual plan,—
-  (a) state that information has been omitted; and
-  (b) indicate the general nature of the omitted information; and
-  (c) give the DHB's reasons for omitting the information.
-(8) An annual plan, statement of intent, or Crown funding agreement of a DHB must not be inconsistent with the DHB's district strategic plan.
+### 39 Resolution of disputes over contents of plan
+(1) The Minister may act under subsection (2) if, after the Minister directs 1 or more DHBs to prepare or contribute to a plan under section 38,—
+  (a) 2 or more DHBs that are parties to the plan cannot agree on its contents; or
+  (b) 1 or more DHBs that are parties to the plan and the Minister cannot agree on its contents.
+(2) If subsection (1) applies, the Minister may establish an advisory body and refer the dispute to it for its consideration and advice.
+(3) The advisory body must consist of at least 3 members, each appointed by the Minister on any terms and conditions (including terms and conditions as to remuneration and travelling allowances and expenses) that the Minister determines by written notice to the member.
+(4) The Minister must—
+  (a) make a decision on the dispute by taking into account the advice given by the advisory body; and
+  (b) as soon as practicable after making the decision, publish the decision in general terms on an Internet site operated by the Ministry of Health.
+(5) A DHB that is a party to the dispute must give effect to the Minister's decision.
 
 ### 40 Consultation on proposed changes to annual plan
-As soon as reasonably practicable after proposing a significant change to policies, outputs, or funding for outputs stated in its most recent annual plan, a DHB must consult its resident population about the proposed change.
+[Repealed]
 
 **Financial provisions**
 
@@ -927,7 +962,7 @@ The validity or enforceability of any deed, agreement, right, or obligation ente
   (a) any provision in sections 3, 4, or 8, or Parts 3 and 4; or
   (b) any regulations made under section 92(1)(e); or
   (c) any provision of Schedules 3 to 6; or
-  (d) any provision in any statement of intent or district strategic plan or annual plan; or
+  (d) any provision in any statement of intent or plan prepared under section 38; or
   (e) any direction or requirement given under this Act or any other Act.
 
 ### 88 Arrangements relating to payments
@@ -978,11 +1013,14 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
   (d) specifying the form of any document of the kind referred to in section 42 or section 67, and specifying matters to be stated in any such document in addition to those required by those sections or the Crown Entities Act 2004:
   (e) imposing procedural requirements in relation to any consultation required by or under this Act, not being requirements that are inconsistent with any provision of this Act:
   (f) specifying kinds of information for the purposes of clause 49 of Schedule 3:
-  (g)
+  (g) in relation to any plans to be prepared under section 38(1)(a) or 38(1)(b),—
+    (i) specifying the form of the plan; and
+    (ii) imposing requirements relating to the content of the plan; and
+    (iii) imposing procedural requirements (such as a requirement for consultation) that must be complied with in the preparation of the plan:
   (h)
   (i) prescribing standard provisions that are to be regarded as being included in all Crown funding agreements between the Crown and DHBs:
   (j) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing rules by which disputes or differences between any 1 or more publicly-owned health and disability organisations or providers of services or other persons may be mediated or arbitrated with the agreement of the persons concerned.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing rules by which disputes or differences between any 1 or more publicly-owned health and disability organisations or providers of services or other persons are to be mediated or arbitrated.
 (3) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the issue of entitlement cards (including cards that may record information of any description that is capable of being read or processed by a computer, but not including cards that are themselves capable of processing information) to various classes of persons or the continuation of use of such cards issued under the Health Entitlement Cards Regulations 1993:
   (b) prescribing the classes of persons eligible to be issued with the cards:
@@ -2279,3 +2317,30 @@ An organisation (other than NZBS) is a public office for the purposes of the Pub
 ## Schedule 9 — Consequential amendments to Acts
 
 ## Schedule 10 — Consequential amendments to other instruments
+
+### 1 Title
+This Act is the New Zealand Public Health and Disability Amendment Act 2010.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+(2) To the extent not previously brought into force under subsection (1), this Act comes into force 6 months after the date on which it receives the Royal assent.
+
+## Part 2 — Transitional arrangements and amendments to other enactments
+
+**Transitional arrangements**
+
+### 27 Transitional arrangements for district strategic plans and district annual plans
+(1) Every district strategic plan of a DHB that is in force immediately before the commencement of section 15 of this Act continues in force until the sooner of—
+  (a) the expiry of the district strategic plan:
+  (b) the commencement of the new plan.
+(2) Every district annual plan of a DHB that is in force immediately before the commencement of section 15 of this Act continues in force until the sooner of—
+  (a) the expiry of the district annual plan:
+  (b) the commencement of the new plan.
+(3) While a plan that is continued in force by subsection (1) or (2) continues in force, the principal Act applies to it as if this Act had not been enacted.
+(4) In this section, unless the context otherwise requires,—
+  - **district annual plan** means a plan determined under section 39 of the principal Act
+  - **district strategic plan** means a plan determined under section 38 of the principal Act
+  - **new plan** means, in relation to a DHB, a plan—
+    (a) prepared under section 38 of the principal Act as substituted by section 15 of this Act; and
+    (b) to which the DHB is a party; and
+    (c) that would apply in the place of the DHB's district strategic plan, or as the case requires, district annual plan.
