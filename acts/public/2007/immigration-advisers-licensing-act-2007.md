@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-02-25_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -110,7 +110,7 @@ The following persons are exempt from the requirement to be licensed:
   (g) persons employed by or working as volunteers for citizens advice bureaux:
   (h) persons who provide—
     (i) immigration advice offshore; and
-    (ii) advice only in respect of applications for temporary entry class visas with conditions authorising study in New Zealand:
+    (ii) advice only in respect of applications made under the Immigration Act 2009 for a temporary entry class visa—temporary visa—student visa:
   (i) persons exempted by regulations made under section 12.
 
 ### 12 Exemption, or removal of exemption, by Order in Council
