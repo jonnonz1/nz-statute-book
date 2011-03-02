@@ -1,5 +1,5 @@
 # Electoral Amendment Act 2009
-_Consolidation as at 2009-02-24_
+_Consolidation as at 2011-03-02_
 
 ### 1 Title
 This Act is the Electoral Amendment Act 2009.
@@ -657,12 +657,7 @@ Until 1 March 2010, section 210C(3) of the principal Act must be read as if the 
 Sections 17 and 18 of this Act do not limit section 19 of the Interpretation Act 1999 (which enables the investigation and prosecution of offences committed under the Electoral Finance Act 2007 before it was repealed).
 
 ### 23 Transitional regulations
-Without limiting the powers conferred by sections 267 and 267A of the principal Act, the Governor-General may from time to time, by order in Council, make regulations—
-  (a) prescribing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this subpart:
-  (b) providing that subject to such conditions as may be specified in the regulations, during a specified transitional period,—
-    (i) specified provisions of either the Electoral Finance Act 2007 or the principal Act (including definitions) do not apply:
-    (ii) specified terms have the meanings given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
+[Repealed]
 
 ### 24 Expiry of section 23
 Section 23 expires on the close of 1 March 2011 and on the close of that date is repealed.
