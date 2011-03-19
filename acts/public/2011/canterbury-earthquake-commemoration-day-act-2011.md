@@ -1,5 +1,5 @@
 # Canterbury Earthquake Commemoration Day Act 2011
-_Consolidation as at 2011-03-14_
+_Consolidation as at 2011-03-19_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Commemoration Day Act 2011.
