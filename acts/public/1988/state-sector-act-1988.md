@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-03-29_
 
 > An Act—ato ensure that employees in the State services are imbued with the spirit of service to the community; andbto promote efficiency in the State services and other agencies; andcto ensure the responsible management of the State services; anddto maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeto ensure that every employer in the State services is a good employer; andfto promote equal employment opportunities in the State services; andgto provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhto repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
