@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -47,6 +47,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Ministry
   - **Chief Judge** means the Chief Judge of the Maori Land Court
   - **Chief Surveyor** has the meaning given to that term by section 2 of the Survey Act 1986
+  - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **court** means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
   - **Crown land** means land that, in terms of Part 6, has the status of Crown land
   - **District Land Registrar** means the District Land Registrar of the land registration district under the Land Transfer Act 1952 within which any land to be dealt with or affected is situated
@@ -59,7 +60,7 @@ In this Act, unless the context otherwise requires,—
     (a) means—
       (i) Māori land, General land, and Crown land that is on the landward side of mean high water springs; and
       (ii) Māori freehold land that is on the seaward side of mean high water springs; but
-    (b) does not include the public foreshore and seabed
+    (b) does not include the common marine and coastal area
   - **lease** includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity; and the terms , , and have corresponding meanings
   - **long-term lease** means a lease—
     (a) for a term of more than 52 years; or
@@ -776,7 +777,7 @@ There shall be paid to any additional member of the Maori Land Court or Maori Ap
 (4) The rehearing need not take place before the Judge by whom the proceedings were originally heard.
 (5) On any rehearing, the court may affirm its former determination, or may vary or annul that determination, and may exercise any jurisdiction that it could have exercised on the original hearing.
 (6) When a rehearing has been granted, the period allowed for an appeal to the Maori Appellate Court shall not commence to run until the rehearing has been disposed of by a final order of the court.
-(7) Subsection (6) applies, with the necessary modifications, to appeals to the High Court under section 63(2) of the Foreshore and Seabed Act 2004.
+(7)
 
 **Special powers of Chief Judge**
 
@@ -983,7 +984,7 @@ Without limiting anything in the Maori Language Act 1987, any party or witness i
 (2) All such amendments may be made on such terms as the court thinks fit.
 
 ### 72 Case may be stated for High Court
-(1) The Maori Appellate Court or, with the leave of the Chief Judge, the Maori Land Court, may, in any proceedings before it (other than proceedings under the Foreshore and Seabed Act 2004), state a case for the opinion of the High Court on any point of law that arises in those proceedings.
+(1) The Maori Appellate Court or, with the leave of the Chief Judge, the Maori Land Court, may, in any proceedings before it, state a case for the opinion of the High Court on any point of law that arises in those proceedings.
 (2) The Chief Judge may withdraw any such case at any time before it has been considered by the High Court.
 (3) The decision of the High Court on any case stated under this section shall be subject to appeal to the Court of Appeal, and any case so stated for the opinion of the High Court may be removed into the Court of Appeal for hearing.
 (4)
@@ -1174,9 +1175,9 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
 (2) The Fund shall be held by the Chief Registrar of the Maori Land Court.
 (3) The court may from time to time make orders for the payment from the Fund of the reasonable legal costs or the reasonable out-of-pocket expenses or both of—
   (a) any person or class of person heard or represented in any proceedings before the court:
-  (b) any barrister or solicitor appointed to assist the court under section 70(3)(a):
-  (c) an amicus curiae appointed under the Foreshore and Seabed Act 2004.
-(3A) Before making an order for payment under subsection (3)(a) in relation to a proceeding under the Foreshore and Seabed Act 2004, the court must take into account the financial position of the whānau, hapū, or iwi on whose behalf the order is made.
+  (b) any barrister or solicitor appointed to assist the court under section 70(3)(a).
+  (c)
+(3A)
 (4) A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Agency as soon as practicable after the making of the order.
 (5) No person in whose favour an order has been made under subsection (3) may apply for or be granted assistance under the Legal Services Act 2000 in respect of the same matter.
 (6) Where an order is made under subsection (3), the court may also make an order charging any real or personal property of the person or class of person in whose favour the first order is made, or of any other owners whose interests are or could have been affected by any order made in the proceedings to which the grant of aid relates, with the whole or any part of the amount so ordered to be paid out of the Fund, and fixing the terms and conditions on which the amount charged is to be repaid.
