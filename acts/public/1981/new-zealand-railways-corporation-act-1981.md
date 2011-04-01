@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2011-04-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -12,6 +12,7 @@ _Consolidation as at 2010-08-06_
   - **approved urban transport scheme** means an urban transport scheme approved in accordance with the Urban Transport Act 1980
   - **authorised representative** , in relation to any service organisation, means a person authorised in accordance with the rules of the service organisation, or by its committee of management, to act on its behalf
   - **charges** includes rates and fares
+  - **common marine and coastal area** has the same meaning as in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **conditions of employment** —
     (a) includes rates of remuneration; and
     (b) includes—
@@ -39,7 +40,7 @@ _Consolidation as at 2010-08-06_
   - **public notice** means a notice published in some newspaper circulating in the locality in which the subject-matter of the notice arises or to which it relates, or posted in some conspicuous place in any goods office, on any goods shed, or on any railway station in that locality
   - **publicly notified** means notified by public notice
   - **railway** includes—
-    (a) all land belonging to the Crown, or forming part of any public reserve within the meaning of the Reserves Act 1977, upon which any Corporation railway is constructed, or which is or is reputed to be held or used in connection with or for the purposes of the Corporation, and all land which is under the control of the Corporation or which is held by the Corporation or under lease, licence, or otherwise for the purposes of the Corporation; and
+    (a) all land belonging to the Crown, or forming part of any public reserve within the meaning of the Reserves Act 1977 or forming part of the common marine and coastal area, upon which any Corporation railway is constructed, or which is or is reputed to be held or used in connection with or for the purposes of the Corporation, and all land which is under the control of the Corporation or which is held by the Corporation or under lease, licence, or otherwise for the purposes of the Corporation; and
     (b) all buildings, erections, wharves, jetties, works, rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or movable property of every description or kind belonging to the Corporation and situate on any such land or held or used, or reputed to be held or used, in connection with or for the purposes of the Corporation:
   - **railway line** means any set of rails; and includes the area within 3 metres of a line drawn midway between those rails
   - **railway operator** has the same meaning as in section 2(1) of the New Zealand Railways Corporation Restructuring Act 1990
@@ -230,6 +231,7 @@ The Corporation may from time to time do any of the following things:
 ### 24 Power in relation to property
 Subject to this Act, the Corporation may from time to time for the purposes of carrying out its functions and exercising its powers do all or any of the following things—
   (a) occupy, use, manage, and receive any revenues from, and dispose of and receive the proceeds of, the disposal of any property vested in or held or occupied by the Crown for railway purposes without any authority other than this paragraph:provided that this paragraph shall not apply to the disposal of any public reserve within the meaning of the Reserves Act 1977:provided also that no land shall be disposed of by way of sale, conveyance, transfer, or assignment without the prior written consent of the Minister, who shall have due regard to the future development of the railways:
+  (ab) occupy, use, or manage any railway that is located in the common marine and coastal area:
   (b) purchase, take on lease, be granted, accept, or otherwise acquire any property, either by agreement or subject to section 30, compulsorily, whether by or on behalf of the Crown, or on its own behalf and to acquire in its own name without further payment any property vested in or held or occupied by the Crown for railway purposes:
   (c) hold, furnish, equip, develop, improve, alter, extend, repair, and maintain any property:
   (d) subdivide any land, whether by or on behalf of the Crown or on its own behalf and plan, design, construct, and provide buildings, facilities, amenities, works, and services on any land:
@@ -728,7 +730,7 @@ If any person not having lawful authority or the written permission of the Corpo
   (e) fells or removes any tree, shrub, or timber growing on any such land,—
 
 ### 117 Certificate by Corporation to be evidence of certain facts
-(1) A certificate under the seal of the Corporation that any specified land belonging to either Her Majesty or to the Corporation or forming part of a public reserve, or any specified fixed or movable property belonging to the Corporation, is in fact included as portion of a railway or of any service for the carriage of passengers or goods lawfully carried on by the Corporation, or that any railway is in fact open for traffic, shall for all purposes be sufficient evidence of the fact.
+(1) A certificate under the seal of the Corporation that any specified land belonging to either Her Majesty or to the Corporation or forming part of a public reserve or of the common marine and coastal area, or any specified fixed or movable property belonging to the Corporation, is in fact included as portion of a railway or of any service for the carriage of passengers or goods lawfully carried on by the Corporation, or that any railway is in fact open for traffic, shall for all purposes be sufficient evidence of the fact.
 (2) The land or property to which any such certificate relates may be specified therein by words of general or particular description, as the Corporation thinks fit.
 (3) A certificate under the seal of the Corporation, specifying the distance between any 2 points on a railway in accordance with the Corporation record, shall be conclusive evidence of the fact.
 
