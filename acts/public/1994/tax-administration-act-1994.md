@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1498,8 +1498,13 @@ A share user under a share-lending arrangement who pays a replacement payment to
 ### 31C Notification requirements for multi-rate PIEs
 (1) This section sets out the notice requirements for a multi-rate PIE in relation to its investors or a proxy for investors in a multi-rate PIE. The notices must contain the information that the Commissioner considers relevant for a calculation period.
 (2) For an exiting investor and a PIE that calculates and pays tax using the quarterly calculation option under section HM 43 of the Income Tax Act 2007, the notice must be provided for each calculation period in which the exit period falls. The notice must be given by the end of the month following the quarter in which the exit period ends.
-(3) For an investor not referred to in subsection (2) who invests in a PIE that calculates and pays tax using the provisional tax calculation option under section HM 44 of that Act, the PIE must notify the investor by 30 June after the end of the tax year, or within 2 months after the end of the PIE's income year if that date is after 30 June.
-(4) For an investor not referred to in subsections (2) and (3) who invests in a PIE that calculates and pays tax using the quarterly or exit calculation options under sections HM 42 and HM 43 of that Act, the PIE must notify the investor by 30 June after the end of the tax year.
+(3) For an investor not referred to in subsection (2) who invests in a PIE that calculates and pays tax using the provisional tax calculation option under section HM 44 of that Act, the PIE must notify the investor—
+  (a) by 31 May after the end of the tax year, if the PIE is not a superannuation fund or retirement savings scheme and has an income year ending before 31 May; or
+  (b) by 30 June after the end of the tax year, if the PIE is a superannuation fund or retirement savings scheme and has an income year ending before 30 June; or
+  (c) within 2 months after the end of the PIE's income year, if neither of paragraphs (a) and (b) applies.
+(4) For an investor not referred to in subsections (2) and (3) who invests in a PIE that calculates and pays tax using the quarterly or exit calculation options under sections HM 42 and HM 43 of that Act, the PIE must notify the investor—
+  (a) by 31 May after the end of the tax year, if the PIE is not a superannuation fund or retirement savings scheme; or
+  (b) by 30 June after the end of the tax year, if the PIE is a superannuation fund or retirement savings scheme.
 (5) The PIE must, at least once in a tax year, ask an investor to provide their tax rate under sections HM 56 to HM 59 of that Act.
 (6) The PIE must ask a person when they become an investor to provide their tax file number to the PIE. For each investor for whom no tax file number is held, the PIE must, at least once in a tax year, ask the investor to provide their tax file number.
 
@@ -1514,33 +1519,10 @@ A share user under a share-lending arrangement who pays a replacement payment to
 (4) When calculating the superannuation fund's income under section CS 1 of the Income Tax Act 2007, the member and the trustee are entitled to rely on information provided under this section as being correct, and the information provided is treated as being correct unless the member or the trustee has reasonable grounds for believing that the information provided is not correct.
 
 ### 32B Certification requirements for withdrawals subject to section CS 1 of Income Tax Act 2007
-(1) The trustee of a superannuation fund may request the following information from a member or a member's employer, or a member's past employer, in respect of a tax year or part of a tax year:
-  (a) the amount of employer's superannuation cash contributions made by an employer:
-  (b) the amount of employer's superannuation cash contributions for which ESCT has been withheld at the rate specified in schedule 1, part D, clause 1 of the Income Tax Act 2007:
-  (c) the amount of employer's superannuation cash contributions that have been treated as salary or wages under section RD 68 of the Income Tax Act 2007:
-  (d) the taxable income that the member derived in the 4 tax years before the tax year in which a withdrawal is made:
-  (e) evidence to support an application for a withdrawal that is necessary to alleviate significant financial hardship:
-  (f) the date on which a member ceases employment:
-  (g) whether a member was employed for less than 2 years:
-  (h) whether a member is employed for 30 hours per week or less:
-  (i) whether a member has reduced their working hours because the member is nearing full retirement:
-  (j) whether a member has stopped contributing to a superannuation fund:
-  (k) whether a member's employer has stopped making employer's superannuation cash contributions to a superannuation fund on the member's behalf:
-  (l) whether employer's superannuation cash contributions made to a superannuation fund have increased in accordance with a trust deed or a contract, or an amendment to a trust deed or a contract, in existence before 1 April 2000, and if so, the extent of the increase:
-  (m) any other information required to determine the superannuation fund's income under section CS 1 of the Income Tax Act 2007.
-(2) A request must be made by notice.
-(3) A person who receives a request must provide the information requested, to the extent it is held or can be accessed, no later than 20 working days after the date on which the request is made.
-(4) When calculating the superannuation fund's income under section CS 1 of Income Tax Act 2007, the trustee is entitled to rely on information provided under this section as being correct, and the information provided is treated as being correct unless the trustee has reasonable grounds for believing that the information provided is not correct.
+[Repealed]
 
 ### 32C Certification requirements for transfers from superannuation funds
-(1) The trustee of a superannuation fund that receives an amount from another superannuation fund may request the following information from the trustee of the transferor fund in respect of a tax year or part of a tax year:
-  (a) amounts transferred that, if withdrawn, would be subject to any of section CS 2(1), (2), and (8) of the Income Tax Act 2007:
-  (b) amounts transferred that are employer-sourced superannuation savings:
-  (c) any information previously supplied to the transferor fund by a superannuation fund from which a member has transferred:
-  (d) any other information required to determine the transferee fund's income under section CS 1 of the Income Tax Act 2007.
-(2) A request must be made by notice.
-(3) A trustee who receives a request must provide the information requested, to the extent it is held or can be accessed, no later than 40 working days after the date on which the request is made.
-(4) When calculating the transferee superannuation fund's income under section CS 1 of the Income Tax Act 2007, the trustee is entitled to rely on information provided under this section as being correct, and the information provided is treated as being correct unless the trustee has reasonable grounds for believing that the information provided is not correct.
+[Repealed]
 
 ### 32D Disclosure requirements for purpose of continuity provisions and public unit trusts
 (1) Upon the request of a trustee of a public unit trust, a unit holder of the public unit trust must provide the trustee with a written statement of persons associated with the unit holder.
@@ -1777,7 +1759,7 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
 A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Accident Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
   (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
   (b) the taxable income of the person does not exceed $14,000 for the tax year; and
-  (c) tax is withheld at the rate of 10.5% or 12.5% from the personal service rehabilitation payment; and
+  (c) tax is withheld at the rate of 10.5% from the personal service rehabilitation payment; and
   (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
 
 ### 34 Presumption as to authority of person making return
@@ -2038,6 +2020,14 @@ An employer that is not required to furnish an employer monthly schedule electro
     (iii) a summary of the deductions of each partner:
   (b) there is no joint assessment, but each partner must make a separate return of income under section 33, including the income derived by the partner as a member of the partnership, and the partner’s deductions. Each partner is separately assessed.
 (4) In any other case, each person shall make a separate return taking into account that person’s share of the joint income and deductions. Each person is separately assessed.
+
+### 42B Returns by look-through companies and owners of interests
+(1) This section applies to persons who have effective look-through interests for a look-through company, and to their look-through company.
+(2) The company must make a return of income that ignores subpart HB of the Income Tax Act 2007 and that includes––
+  (a) the total amount of income derived by the company:
+  (b) the amount of that income for each owner under subpart HB of that Act:
+  (c) a summary of the deductions for each owner under subpart HB and section DV 22 of that Act.
+(3) There is no assessment of the company, but each owner must make a separate return of income under section 33 taking into account the amounts in subsection (2). Each owner is assessed separately.
 
 ### 43 Income tax returns and assessments by executors or administrators
 (1) The executor or administrator of a deceased taxpayer must furnish the same returns of income and make the same assessments that the taxpayer was required to furnish or make, or would have been required to furnish or make, if the taxpayer had remained alive.
@@ -2392,9 +2382,14 @@ Every authorised savings institution shall, not later than 15 May in each year,�
   (a) the end of the month that follows the month in which the period ends:
   (b) 15 January after the end of the period, if the period ends in November.
 (7) For a tax year, the PIE must file a return in the prescribed form in relation to information prescribed by the Commissioner—
-  (a) by the 30 June after the end of the tax year if—
+  (a) by the 31 May after the end of the tax year if—
     (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
-    (ii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
+    (ii) the PIE is not a superannuation fund or retirement savings scheme; and
+    (iii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
+  (ab) by the 30 June after the end of the tax year if—
+    (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
+    (ii) the PIE is a superannuation fund or retirement savings scheme; and
+    (iii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
   (b) by the end of the second month after that in which the PIE’s corresponding income year ends, if—
     (i) the PIE has a corresponding income year that ends after the end of the tax year; and
     (ii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
@@ -3091,7 +3086,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
   (g) communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2) or (2A) of that section:
-  (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section.
+  (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
   (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner:
   (i) communicating to any person, or employee of that person, being a person engaged by the Commissioner for the performance of services necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner, such information as the Commissioner considers necessary for the performance of those services:
@@ -3335,9 +3330,9 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
     (i) the individual's date of death; and
     (ii) the name and contact details of the administrator or executor of the individual's estate.
 (3) In this section,—
-  - **earnings as an employee, employer, private domestic worker, and self-employed person** have the meanings given to them by section 6 of the Accident Compensation Act 2001
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Accident Compensation Act 2001
-  - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001.
+  - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001
+  - **earnings as an employee, employer, private domestic worker, and self-employed person** have the meanings given to them by section 6 of the Accident Compensation Act 2001.
 
 ### 85F Disclosure of information for verification of government screen production payment entitlement
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the Commission for the purpose of providing to the Commission information which the chief executive considers necessary to enable the Commission to determine the entitlement of a company to a government screen production payment.
@@ -3552,11 +3547,12 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (i) the assessment is made following the failure by a taxpayer to withhold or deduct an amount required to be withheld or deducted by a tax law or to account for an amount withheld or deducted in the manner required by a tax law; or
   (j) the taxpayer is entitled to issue a notice of proposed adjustment in respect of a tax return provided by the taxpayer, and has done so; or
   (k) the assessment corrects a tax position taken by the taxpayer or an associated person as a consequence or result of an incorrect tax position taken by another taxpayer, and, at the time the Commissioner makes the assessment, the Commissioner has made, or is able to make, an assessment for that other taxpayer for the correct amount of tax payable by that other taxpayer; or
+  (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
   (l) the assessment results from an income statement under Part 3A; or
   (m) the assessment includes a calculation by the Commissioner of a tax credit identified in subparts MA to MF and MZ of the Income Tax Act 2007.
 
 ### 89D Taxpayers and others with standing may issue notices of proposed adjustment
-(1) If the Commissioner—the taxpayer may, subject to subsection (2), issue a notice of proposed adjustment in respect of the assessment.
+(1) If the Commissioner—the taxpayer may, subject to subsection (2), issue a notice of proposed adjustment in respect of the assessment except to the extent to which the assessment takes into account amounts arising under subpart HB of the Income Tax Act 2007.
   (a) issues a notice of assessment to a taxpayer; and
   (b) has not previously issued a notice of proposed adjustment to the taxpayer in respect of the assessment, whether or not in breach of section 89C,—
 (2) A taxpayer who has not furnished a return of income for an assessment period may dispute the assessment made by the Commissioner only by furnishing a return of income for the assessment period.
@@ -3572,9 +3568,12 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
 (5) For a notice of proposed adjustment issued under this section to have effect, the notice must be issued within the applicable response period.
 
 ### 89DA Taxpayer may issue notice of proposed adjustment for taxpayer assessment
-(1) A taxpayer may issue a notice of proposed adjustment in respect of an assessment made by the taxpayer for a tax year or a GST return period if the Commissioner has not previously issued a notice of proposed adjustment to the taxpayer in respect of the assessment.
+(1) A taxpayer may issue a notice of proposed adjustment in respect of an assessment made by the taxpayer for a tax year or a GST return period except,––
+  (a) to the extent to which the assessment takes into account amounts arising under subpart HB of the Income Tax Act 2007:
+  (b) if the Commissioner has previously issued a notice of proposed adjustment to the taxpayer in respect of the assessment.
 (2) A notice of proposed adjustment under this section is not effective unless it is issued within the response period for the notice.
 (3) A taxpayer who makes an assessment of an amount of research and development credit but does not provide a statement under section 68D or 68E in relation to the tax year referred to in subsection (1), may dispute the assessment only by providing a statement for the tax year within the time allowed under section 68D or 68E, as applicable.
+(4) A look-through company may issue a notice of proposed adjustment in respect of a return it makes under section 42B for a tax year if the Commissioner has not previously issued a notice of proposed adjustment to the taxpayer in respect of the return. For the purposes of section 89AB(3), the return is treated as a notice of assessment.
 
 ### 89E Election of small claims jurisdiction of Taxation Review Authority
 (1) Where a disputant—the disputant may elect, in the disputant's notice of proposed adjustment or notice of rejection, that any unresolved dispute arising from the notice of proposed adjustment is to be heard by a Taxation Review Authority acting in its small claims jurisdiction.
@@ -4460,7 +4459,7 @@ Before the Commissioner makes a private ruling, the Commissioner must give the a
 (1) An application for a product ruling must—
   (a) identify the applicant; and
   (b) disclose all relevant facts and documents relating to the arrangement for which the ruling is sought; and
-  (bb) if the person making the application is the promoter of the arrangement, make a statutory declaration that paragraph (b) has been complied with and that all relevant facts are correct.
+  (bb) if the person making the application is the promoter of the arrangement, make a statutory declaration that paragraph (b) has been complied with and that all relevant facts are correct:
   (c) explain—
     (i) why it is not practicable to seek a private ruling; and
     (ii) why the characteristics of the taxpayers who may enter into the arrangement are not relevant to the content of the ruling; and
@@ -5466,7 +5465,7 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
 
 ### 138B When disputant entitled to challenge assessment
 (1) A disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
-  (a) the assessment includes an adjustment proposed by the Commissioner which the disputant has rejected within the applicable response period; and
+  (a) the assessment includes an adjustment proposed by the Commissioner which the disputant or their look-through company has rejected within the applicable response period; and
   (b) where the assessment is an amended assessment, an adjustment proposed by the Commissioner that is included in the assessment—
     (i) imposes a fresh liability (being a liability that was not included in an earlier assessment) in respect of a particular; or
     (ii) increases an existing liability (being a liability that was included in an earlier assessment but to a lesser extent) in respect of a particular; and
@@ -5476,7 +5475,7 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
   (b) the disputant is subsequently issued with an amended assessment; and
   (c) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or the High Court Rules, within the response period following the issue of the amended notice of assessment.
 (3) A disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
-  (a) the Commissioner rejects, within the applicable response period, an adjustment proposed by the disputant and does not subsequently issue an amended assessment; and
+  (a) the Commissioner rejects, within the applicable response period, an adjustment proposed by the disputant or their look-through company and does not subsequently issue an amended assessment; and
   (b) the disputant files the proceedings, in accordance with the Taxation Review Authority Regulations 1994 (or any regulations made in substitution for those regulations) or High Court Rules, within the response period of the written disputable decision from the Commissioner that the proposed adjustment will not be adjusted; and
   (c) for the purposes of paragraph (b), the written disputable decision from the Commissioner is not limited to the Commissioner's notice of response.
 
@@ -5504,7 +5503,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 6, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89M, 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, and 183F, 225B of this Act; or
+    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89M, 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -5922,10 +5921,11 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (a) the actual or potential application to the tax position of all the tax laws that are relevant (including specific or general anti-avoidance provisions); and
   (b) decisions of a court or a Taxation Review Authority on the interpretation of tax laws that are relevant (unless the decision was issued up to 1 month before the taxpayer takes the taxpayer's tax position).
 (8) For the purpose of determining whether the resulting tax shortfall is in excess of the amounts specified in subsection (2),—
-  (a) a tax return provided by—is to be treated as if it were a tax return of every taxpayer who is a partner in the partnership or person in such group; and
+  (a) a tax return provided by—is to be treated as if it were a tax return of every taxpayer who is a partner in the partnership, effective look-through interest holder for the look-through company, or person in such group; and
     (i) a partnership; or
+    (ib) a look-through company; or
     (ii) any other group of persons that derive or incur amounts jointly or that are assessed together,—
-  (b) the tax rate in a return period applying to a partnership is deemed to be the same as the basic rate of income tax for companies for the relevant period.
+  (b) the tax rate in a return period applying to a partnership or a look-through company is deemed to be the same as the basic rate of income tax for companies for the relevant period.
 (9) The amounts or the percentage specified in subsection (2) may be varied from time to time by the Governor-General by Order in Council.
 
 ### 141C Gross carelessness
@@ -6672,10 +6672,7 @@ Nothing in this Act or the Income Tax Act 2007 shall be so construed as to limit
 Every person who under this Act pays any tax for or on behalf of any other person shall be entitled to recover the amount so paid from that other person as a debt, or to retain or deduct that amount out of or from any money which is or becomes payable by the person to that other person; and if the person has paid the tax as mortgagee, then, until repaid, it shall be deemed to form part of the money secured by the mortgage, and shall bear interest at the same rate accordingly.
 
 ### 165AA Recovery of tax paid by superannuation fund
-(1) If a withdrawal is made in respect of a person's membership in a superannuation fund and the withdrawal is one to which section CS 1 of the Income Tax Act 2007 applies, the trustee of the superannuation fund may recover from the member or the other person making the withdrawal an amount according to the formula in subsection (2).
-(2) The formula is:tax rate × incomewheretax rate is the basic tax rate set out in schedule 1, part A, clause 3 of the Income Tax Act 2007income is the amount of income of the superannuation fund under section CS 1 of the Income Tax Act 2007.
-(3) A trustee of a superannuation fund may recover an amount from the member or the other person making the withdrawal irrespective of the superannuation fund's trust deed.
-(4) For the purpose of section 165, a trustee is treated as paying tax on a withdrawal to which section CS 1 of the Income Tax Act 2007 applies on behalf of the member or the other person who made the withdrawal.
+[Repealed]
 
 ### 165A Recovery of excess tax credits allowed
 (1) If the Commissioner is satisfied that a credit of tax allowed or credited to a person under a tax law exceeded the amount properly allowable or able to be credited to the person under that tax law, the Commissioner may recover the amount of the excess from the person in the same manner, with any necessary modifications, as if the excess were income tax payable under the Income Tax Act 2007.
@@ -6801,7 +6798,7 @@ In this Part—
 
 ### 173F Scope of assistance
 (1) Subject to subsections (2) and (3), when assisting a competent authority in response to a request made under a tax recovery agreement, the Commissioner may apply any provision or exercise any authority, discretion, power, provision, or right that is available to the Commissioner under the laws of New Zealand.
-(2) Parts 4A, 5, 5A, 6, 7, 8, 8A, 9, except sections 143C to 143E, and Part 12, except sections 203 to 205, do not apply to this Part
+(2) Parts 4A, 5, 5A, 6, 7, 8, 8A, 9, except sections 143C to 143E, and Part 12, except sections 203 to 205, do not apply to this Part.
 (3) Part 11 applies to this Part.
 
 ### 173G Limitations on assistance in recovery
@@ -7493,6 +7490,11 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
   (d) omitting types of income for a country or territory outside New Zealand.
 (2) An amendment by Order in Council under subsection (1)(a) or (b) is repealed on 31 December in the tax year following the tax year in which the Order in Council is made, unless Parliament otherwise enacts.
 
+### 225C Order in Council amending schedule 38 of Income Tax Act 2007
+The Governor-General may, from time to time, by Order in Council, amend schedule 38 of the Income Tax Act 2007 by—
+  (a) adding a statute, if the statute provides for an exemption from income tax, for salary or wages, that is to be ignored in determining the family scheme income of a person for an income year:
+  (b) removing a statute.
+
 ### 226 Power to extend time for doing anything under Act
 (1) If anything required by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985 to be done at or within a fixed time cannot be or is not so done, the Governor-General, by Order in Council, may from time to time appoint a further or other time for doing that thing, whether the time at or within which that thing ought to have been done has or has not expired.
 (2) Anything done at or, as the case may be, within the time prescribed by any such Order in Council shall be as valid as if it had been done at or within the time fixed by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985.
@@ -7571,7 +7573,7 @@ This Act may be cited as the Tax Administration Amendment Act (No 2) 1996, and s
     (i) every instrument of conveyance executed; and
     (ii) every bill of exchange made, drawn, or prepaid under section 81 or section 82 or section 83 of that Act; and
     (iii) every liable transaction entered into—
-(2) Sections 5, 9 to 15, 16(1) and (2), 81 to 34, 37 to 42, 47, 55, and 65 come into force on 1 October 1996.
+(2) Sections 5, 9 to 15, 16(1) and (2), 18 to 34, 37 to 42, 47, 55, and 65 come into force on 1 October 1996.
 (3) Where—the provision of this Act that amends, inserts, or repeals the relevant provision has, for all purposes in regard to the other provision, the same application date as the other provision.
   (a) a provision of this Act amends, inserts, or repeals a provision (the relevant provision) of the principal Act; and
   (b) the relevant provision is referred to in, or necessary for the purposes of, another provision (the other provision) of the principal Act; and
@@ -7601,7 +7603,7 @@ This Act may be cited as the Taxation (Remedial Provisions) Act 1997.
   (c) gifts made on or after 1 April 1997; and
   (d) races run, lotteries drawn, dutiable games played by means of a gaming machine and casino wins to which the Gaming Duties Act 1971 applies that occur on or after 1 April 1997; and
   (e) instruments of conveyance executed, bills of exchange made, drawn or prepaid under sections 81, 82, or 83 of the Stamp and Cheque Duties Act 1971 and liable transactions entered into on or after 1 April 1997.
-(2) Sections 73, 84(1), 77 and 78 apply on and after 1 October 1996.
+(2) Sections 73, 74(1), 77, and 78 apply on and after 1 October 1996.
 (3) Sections 68(3), 68(6), 80, 83, 98 and 102 apply to the 1998–99 and subsequent income years.
 (4) Section 87 is deemed to have applied on and after 1 April 1995.
 
@@ -7651,7 +7653,7 @@ This Act comes into force on the date on which it receives the Royal assent.
   (a) tax paid in excess, being tax on income derived in the 2002–03 and subsequent income years:
   (b) tax paid in excess, if—
     (i) the excess arises from an assessment made on or after 1 April 2002 and before the date that this Act receives the Royal assent; and
-    (ii) the taxpayer notifies the Commissioner that Part XB of the Tax Administration Act 1994 should apply to the excess:
+    (ii) the taxpayer notifies the Commissioner that Part 10B of the Tax Administration Act 1994 should apply to the excess:
   (c) tax paid in excess, if the excess arises from an assessment made on or after the date that this Act receives the Royal assent:
   (d) tax deducted on behalf of another taxpayer and paid on or after 1 April 2002:
   (e) a dividend withholding payment paid on or after 1 April 2002:
