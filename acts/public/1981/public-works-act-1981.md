@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -14,6 +14,7 @@ In this Act, unless the context otherwise requires,—
   - **aerodrome** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, and servicing of aircraft; and includes any buildings, installations, roads, and equipment on or adjacent to any such area used in connection with the aerodrome or its adminstration; and also includes any defined air space required for the safe operation of aircraft using the aerodrome; and also includes a military airfield
   - **Airport Authority** has the same meaning as in the Airport Authorities Act 1966
   - **Chief Surveyor** means the Chief Surveyor appointed for the land district in which is situated any land to be dealt with under this Act; and includes his deputy
+  - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **construction** and , in relation to a work, include the establishment, constitution, operation, maintenance and undertaking of the work; and and have corresponding meanings
   - **Crown land** means all land included within that term in the Land Act 1948, except lands held or occupied by any person under the Crown on deferred payment, occupation with right of purchase, perpetual lease, lease in perpetuity, renewable lease, or under any other kind of lease or licence, or for any other estate or interest
   - **defence work** means—
@@ -23,14 +24,13 @@ In this Act, unless the context otherwise requires,—
   - **District Land Registrar** means the District Land Registrar of the district within which any land to be dealt with or affected is situated; and includes the Registrar of Deeds of that district
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
-  - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the public foreshore and seabed), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
+  - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the common marine and coastal area), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
   - **intellectual property** includes all property rights constituted by the Patents Act 1953, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Varieties Act 1973, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
   - **land** includes any estate or interest in land
   - **local authority** means any regional council, territorial authority, Catchment Authority or Regional Water Board, Harbour Board, Electric Power Board, Education Authority within the meaning of the Education Act 1964, Council of any University within the meaning of the Universities Act 1961, Airport Authority, and any other person or body, however designated, having authority, under any Act, to undertake the construction or execution of any public work
   - **local work** means a work constructed or intended to be constructed by or under the control of a local authority, or for the time being under the control of a local authority
   - **motorway** means a motorway declared as such by the Governor-General in Council under section 138; and includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level
   - **notice** means a statement conveying the general effect of a matter or thing done or intended to be done
-  - **public foreshore and seabed** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **public notice** means a notice published in a newspaper circulating in the area in which the subject-matter of the notice arises, or to which it relates; and, if there is no such newspaper, then by a printed or written placard posted in some conspicuous place on the land or works affected by such notice or to which it relates; and has a corresponding meaning
   - **public reserve** and have the same meaning as in the Reserves Act 1977
   - **public work** and mean—
@@ -490,13 +490,13 @@ Every power conferred by this Act on the Minister or a local authority, as the c
 ### 52 Setting apart Crown land, public reserve, etc, for public work
 (1) Subject to subsections (2) and (3), if the whole or any part of—the Minister may, by notice in the Gazette, declare the land to be set apart for that work without complying with any of the provisions of this Act in respect of the acquisition of other land for that purpose.
   (a) a public reserve is required for any public work; or
-  (b) any Crown land, or public foreshore and seabed, is required for any public work; or
+  (b) any Crown land, or common marine and coastal area, is required for any public work; or
   (c) any wildlife management reserve, wildlife refuge, or wildlife sanctuary within the meaning of the Wildlife Act 1953 is required for any public work; or
   (d) any land held for a Government work is required for another Government work—
 (2) The whole or any part of a public reserve shall not be set apart under subsection (1) without the consent of the Minister of Conservation, given after consultation with the administering body (if any) of the reserve.
 (3) Land shall not be set apart under subsection (1) without the consent of—
   (a) the Minister of Conservation, if it is a conservation area within the meaning of the Conservation Act 1987 or is managed by the Department of Conservation under section 61 or section 62 of that Act:
-  (b) the Minister of Transport or the Minister of Conservation, as may be appropriate, if it is part of the public foreshore and seabed:
+  (b) the Minister of Transport or the Minister of Conservation, as may be appropriate, if it is part of the common marine and coastal area:
   (c) the Minister of Conservation, if it is a wildlife management reserve, wildlife refuge, or wildlife sanctuary within the meaning of the Wildlife Act 1953.
 (4) Subject to subsections (6) to (8), if the whole or any part of any land held by a local authority (other than a road, access way, or service lane) is required for another local work to be undertaken by that local authority, the Minister, on receiving a written request by the local authority signed by its chief executive, may by notice in the Gazette declare the land to be set apart for that other local work.
 (5) The whole or any part of a public reserve held by a local authority shall not be set apart under this Act for a public work to be undertaken by the same local authority unless the land is designated for the work in the district plan of the territorial authority.
@@ -1333,7 +1333,7 @@ In this Part of this Act, unless the context otherwise requires, Minister means 
 [Repealed]
 
 ### 165 Presumption as to area of Crown land or reserves used for railway, revesting of land not used, etc
-(1) If out of any Crown land or public reserve on which any railway has been constructed, no definite area or part of the land or reserve has been or may be set apart or acquired for railway purposes, it shall be presumed that a width of 40 metres of the land or reserve (comprising 20 metres on each side of the centre line of the railway) has been set apart or acquired for the purposes of that railway, and shall be included within the limits of it and for all purposes be deemed to be part of the railway.
+(1) If out of any Crown land or public reserve or any land situated in the common marine and coastal area on which any railway has been constructed, no definite area or part of the land or reserve has been or may be set apart or acquired for railway purposes, it shall be presumed that a width of 40 metres of the land or reserve (comprising 20 metres on each side of the centre line of the railway) has been set apart or acquired for the purposes of that railway, and shall be included within the limits of it and for all purposes be deemed to be part of the railway.
 (2) If at any time it is desired that any portion of Crown land or reserve so presumed to be part of any railway, cease to be part of the railway, the Minister may from time to time, by notice in the Gazette defining accurately the portion desired to be retained as part of the railway, declare that the residue of it shall again become Crown land or a part of the public reserve from which it was originally taken; and such notice shall take effect accordingly, and the residue shall return to its original status as Crown land or public reserve, as the case may be.
 (3) Nothing in this section shall affect or interfere with any public road on any Crown land or reserve within the area so included in the railway, and lying along, adjacent to, or crossed by any such railway, except under and subject to this Act.
 
