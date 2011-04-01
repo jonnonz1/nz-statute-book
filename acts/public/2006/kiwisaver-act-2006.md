@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -236,6 +236,7 @@ The automatic enrolment rules apply to every employee who is not a secondee andâ
   (a) if the person is an employee only because they are in receipt of payments of salary or wages of a type referred to in any of the following sections in the Income Tax Act 2007:
     (i) section RD 5(1)(b)(iii) (which relates to certain ACC payments):
     (ii) section RD 5(3) (which relates to payments to working partners):
+    (iib) section RD 5(3B) (which relates to payments to working owners):
     (iii) section RD 5(7) (which relates to parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987):
   (b) if the new employment is as an election day worker or a private domestic worker as those terms are defined in section YA 1 of the Income Tax Act 2007:
   (c) if the employee is not required to have tax deductions made from his or her salary or wages under the PAYE rules:
