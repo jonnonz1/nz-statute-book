@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2010-12-16_
+_Consolidation as at 2011-04-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -52,6 +52,7 @@ _Consolidation as at 2010-12-16_
     (b) research on measures to mitigate the adverse effects of commercial fishing on protected species:
     (c) the development of population management plans under the Wildlife Act 1953 and the Marine Mammals Protection Act 1978
   - **court** means a District Court or, where proceedings are commenced in the High Court, the High Court
+  - **customary marine title group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **deemed value** means an interim deemed value or an annual deemed value
   - **deemed value amount** means the amount of any interim or annual deemed value payable in respect of any catch taken in excess of any annual catch entitlement, as determined under section 76
   - **deemed value rate** means the rate of an interim or annual deemed value payable in respect of any stock, as determined under section 75
@@ -204,6 +205,7 @@ _Consolidation as at 2010-12-16_
     (a) in relation to any vessel, means any person by whom the vessel is owned:
     (b) in relation to any quota or annual catch entitlement, means the person shown as the owner in the appropriate register kept under Part 8
   - **Permit Register** means the Permit Register kept under section 98
+  - **planning document** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **port** —
     (a) means any area of land and water intended or designed to be used either wholly or partly for the berthing, unloading, departure, movement, and servicing of vessels:
     (b) includes any anchorage, roadstead, pilot station, haven or estuary, navigable lake or river, wharf, dock, pier, jetty, or dry dock used or capable of being used for such purposes
@@ -212,6 +214,8 @@ _Consolidation as at 2010-12-16_
     (b) any vessel, container, package, thing, premises, or place in or on which the fish, aquatic life, or seaweed are found
   - **premises** means any land or building; and includes any vessel, or any vehicle or conveyance of any kind whatever
   - **processing** includes cutting, shelling, freezing, and the use of all other methods of manufacture and preservation
+  - **protected customary right** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **protected customary rights order** and have the meanings given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **protected species** means—
     (a) any marine wildlife as defined in section 2 of the Wildlife Act 1953 that is absolutely protected under section 3 of that Act:
     (b) any marine mammal as defined in section 2(1) of the Marine Mammals Protection Act 1978
@@ -379,7 +383,8 @@ All persons exercising or performing functions, duties, or powers under this Act
 (2) Before setting or varying any sustainability measure under subsection (1), the Minister shall have regard to any provisions of—that apply to the coastal marine area and are considered by the Minister to be relevant.
   (a) any regional policy statement, regional plan, or proposed regional plan under the Resource Management Act 1991; and
   (b) any management strategy or management plan under the Conservation Act 1987; and
-  (c) sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act)—
+  (c) sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act); and
+  (d) a planning document lodged with the Minister of Fisheries by a customary marine title group under section 91 of the Marine and Coastal Area (Takutai Moana) Act 2011—
 (2A) Before setting or varying any sustainability measure under this Part or making any decision or recommendation under this Act to regulate or control fishing, the Minister must take into account—
   (a) any conservation services or fisheries services; and
   (b) any relevant fisheries plan approved under this Part; and
@@ -1909,10 +1914,10 @@ Section 89(1) does not apply to the taking of farmed fish if taken in accordance
   (a) section 186U; or
   (b) an exemption granted under section 186Q.
 
-### 89B Exemption relating to customary rights orders
+### 89B Exemption relating to protected customary rights
 Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if—
-  (a) the fish, aquatic life, or seaweed is taken from a site at which fish farming is being undertaken under a customary rights order under the Foreshore and Seabed Act 2004; and
-  (b) the fish, aquatic life, or seaweed has been lawfully acquired and transferred to that site and ongrown, or bred or cultivated at that site, in accordance with the customary rights order.
+  (a) the fish, aquatic life, or seaweed is taken from a site at which fish farming is being undertaken under a protected customary rights order or an agreement; and
+  (b) the fish, aquatic life, or seaweed has been lawfully acquired and transferred to that site and ongrown, or bred or cultivated at that site, in accordance with the protected customary rights order or an agreement.
 
 ### 90 Application for fishing permit
 [Repealed]
@@ -3448,8 +3453,8 @@ This subpart does not—
   (a) affect the application of the Freshwater Fish Farming Regulations 1983; and
   (b) require a person undertaking fish farming under a licence granted under those regulations to register as a fish farmer under this subpart.
 
-### 186ZB Subpart does not apply to fish farming under customary rights order
-This subpart does not apply to fish farming undertaken in accordance with a customary rights order made under the Foreshore and Seabed Act 2004.
+### 186ZB Subpart does not apply to fish farming under protected customary rights order or agreement
+This subpart does not apply to fish farming undertaken in accordance with a protected customary rights order or an agreement.
 
 ### Subpart 3 — Spat catching
 
