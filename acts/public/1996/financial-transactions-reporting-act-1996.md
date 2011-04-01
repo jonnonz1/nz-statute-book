@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -109,7 +109,7 @@ _Consolidation as at 2011-02-01_
     (i) for the purposes of deposit or investment; or
     (ii) for the purpose of settling real estate transactions:
   (m) an accountant, but only to the extent that the accountant receives funds in the course of that person's business for the purposes of deposit or investment.
-(2) A person shall not be regarded as a financial institution for the purposes of this Act merely because that person carries on business as a security guard within the meaning of section 4 of the Private Investigators and Security Guards Act 1974.
+(2) A person shall not be regarded as a financial institution for the purposes of this Act merely because that person carries on business as a security technician, security consultant, confidential document destruction agent, or property guard within the meaning of the Private Security Personnel and Private Investigators Act 2010.
 
 ### 4 Amounts not in New Zealand currency
 (1) Where, for the purposes of any provision of this Act, it is necessary to determine whether or not the amount of any cash (whether alone or together with any other amount of cash) exceeds the prescribed amount, and the cash is denominated in a currency other than New Zealand currency, the amount of the cash shall be taken to be the equivalent in New Zealand currency, calculated at the rate of exchange on the date of the determination, or, if there is more than 1 rate of exchange on that date, at the average of those rates.
