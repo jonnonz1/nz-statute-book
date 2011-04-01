@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-04-01_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -72,7 +72,7 @@ In this Act, unless the context otherwise requires,—
       (iva) kept by the Department of Corrections or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
       (ivb) kept by the Aviation Security Service established under section 72B(2)(ca) of the Civil Aviation Act 1990, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
       (ivc) certified for use by the Director of Civil Defence Emergency Management for the purposes of carrying out the functions, duties, and powers conferred by the Civil Defence Emergency Management Act 2002; or
-      (v) owned by a security guard as defined in section 4 of the Private Investigators and Security Guards Act 1974 and kept solely or principally for the purposes of carrying on the business of a security guard; or
+      (v) owned by a property guard as defined in section 9 of the Private Security Personnel and Private Investigators Act 2010 or a property guard employee as defined in section 17 of that Act, and kept solely or principally for the purpose of doing the things specified in section 9(1)(a) to (c) of that Act; or
       (vi) declared by resolution of the territorial authority to be a working dog for the purposes of this Act, or any dog of a class so declared by the authority, being a dog owned by any class of persons specified in the resolution and kept solely or principally for the purposes specified in the resolution.
 
 ### 3 Act to bind the Crown
