@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-04-01_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -285,7 +285,7 @@ The purposes of the Hauraki Gulf Marine Park are—
 (2) The Hauraki Gulf Marine Park consists of—
   (a) all conservation areas, wildlife refuges, wildlife sanctuaries, reserves, marine mammal sanctuaries, and marine reserves held, managed, or administered by the Crown from time to time in accordance with the Conservation Act 1987 or any Act in Schedule 1 of that Act within the Hauraki Gulf, its islands, and coastal area:
   (b) any reserve controlled and managed from time to time by an administering body (whether or not that administering body is a local authority) under an appointment to control and manage made in accordance with the Reserves Act 1977 or any corresponding former Act, within the Hauraki Gulf, its islands, and coastal area:
-  (c) all foreshore and seabed that is land owned by the Crown within the Hauraki Gulf other than foreshore or seabed held for defence purposes:
+  (c) all the common marine and coastal area within the Hauraki Gulf other than foreshore or seabed held for defence purposes:
   (d) all seawater within the Hauraki Gulf:
   (e) all land of the Crown in the Hauraki Gulf, within a wetland approved by the Minister of Foreign Affairs and notified to the Bureau of the Convention on Wetlands of International Importance done at Ramsar on 2 February 1971:
   (f) all land included in the Park in accordance with section 34 or section 35:
@@ -335,14 +335,14 @@ If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or
 
 **Removal of land, foreshore, seabed, waters, or fisheries from Park**
 
-### 38 Removal of Crown-owned land from Park by Order in Council
+### 38 Removal of land from Park by Order in Council
 (1) The Governor-General may, by Order in Council, and acting on the recommendation of the Minister, remove any land in section 33(2)(a), (b), (c), and (e) from the Park.
 (2) The Minister, before making a recommendation to the Governor-General under subsection (1), must be satisfied that the land no longer serves the purpose of the Park and have regard to the following matters:
   (a) the existing use of the land:
   (b) the purposes of the Act under which the land is held:
   (c) the status or classification of the land.
 
-### 39 Removal of Crown-owned land from Park by change of status of land
+### 39 Removal of land with protected status from Park by change of status of land
 (1) Land, marine mammal sanctuaries, and marine reserves in section 33(2)(a), (b), and (c) may be removed from the Park by any of the following actions:
   (a) exchanging a conservation area under section 16A of the Conservation Act 1987:
   (b) disposing of a conservation area under section 26 of the Conservation Act 1987:
