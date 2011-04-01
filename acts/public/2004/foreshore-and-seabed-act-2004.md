@@ -1,5 +1,5 @@
 # Foreshore and Seabed Act 2004
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2011-04-01_
 
 ### 1 Title
 This Act is the Foreshore and Seabed Act 2004.
