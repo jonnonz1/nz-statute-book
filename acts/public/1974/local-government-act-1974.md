@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2985,7 +2985,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
   (b) apply that part, or any part thereof, to any purpose to which the council may apply land, either under this Act or any other enactment; or
   (c) grant a lease of that part, or any part thereof, for such term and on such conditions as it thinks fit for use for any purpose to which the council may apply land, either under this Act or any other enactment; or
   (d) transfer that part, or any part thereof, to the Crown for a public reserve or for addition to a public reserve or for any purpose of public convenience or utility or as Crown land subject to the Land Act 1948.
-(1A) To avoid doubt, this section does not apply to the public foreshore and seabed within the meaning of the Foreshore and Seabed Act 2004.
+(1A) To avoid doubt, this section does not apply to the common marine and coastal area within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011.
 (2) Where the council pursuant to subsection (1)(a)(i) sells the land to the owner or owners of any adjoining land, it may require, notwithstanding the provisions of any other enactment, the amalgamation of that land with the adjoining land under 1 certificate of title. The District Land Registrar may, if he thinks fit, dispense with any survey that would otherwise be required for the purposes of the issue of a certificate of title under this section, and may issue a certificate of title limited as to parcels.
 (2A) Where the council acting under subsection (2) requires the amalgamation of the land sold with the adjoining land under 1 certificate of title—
   (a) the separate parcels of land included in the 1 certificate of title by virtue of that requirement shall not be capable of being disposed of individually or of again being held under separate certificates of title, except with the consent of the council:
