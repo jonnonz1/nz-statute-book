@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-04-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -51,6 +51,8 @@ In this Act, unless the context otherwise requires,—
   - **annual value** has the meaning set out in section 2(1) of the Rating Valuations Act 1998
   - **capital project** has the meaning set out in section 117A
   - **capital value** has the meaning set out in section 2(1) of the Rating Valuations Act 1998
+  - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **district** means the district of a local authority; and includes a region
   - **district valuation roll** means,—
     (a) in relation to a territorial authority, a roll prepared for a district under section 7 of the Rating Valuations Act 1998 and approved under section 11 of that Act; and
@@ -95,6 +97,7 @@ In this Act, unless the context otherwise requires,—
   - **sale** includes a sale under an agreement for sale and purchase
   - **sewage disposal** includes sewage collection and sewage treatment
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
+  - **structure** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **targeted rate** means a rate set under section 16 or section 19
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **uniform annual general charge** means a rate set under section 15.
@@ -1558,8 +1561,8 @@ Land forming part of—
 ### 2
 Land vested in the Crown and forming part of—
 (a) a flood ponding area:
-(b) any foreshore:
-(c) the bed of the territorial sea:
+(b)
+(c)
 (d) the bed of any navigable lake or navigable river.
 
 ### 3
@@ -1655,6 +1658,17 @@ Land used or occupied by, or for the purposes of, an institution that is carried
 
 ### 22
 Land on which any vice-regal residence or Parliament building is situated.
+
+### 23
+The common marine and coastal area, including any customary marine title area, within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011.
+
+### 24
+The bed of Te Whaanga Lagoon in the Chatham Islands.
+
+### 25
+Structures that are—
+(a) fixed to, or under, or over any part of the common marine and coastal area; and
+(b) owned, or deemed to be owned, by the Crown under section 18 or 19 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### 1
 Land owned or used by a society incorporated under the Agricultural and Pastoral Societies Act 1908 as a showground or place of meeting.
