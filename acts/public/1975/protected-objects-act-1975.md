@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-04-01_
 
 > Title
 
@@ -328,6 +328,9 @@ A person may not import into New Zealand an unlawfully exported protected foreig
 (9) Every person who finds a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, and who contravenes subsection (3), commits an offence and is liable on summary conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000 for each taonga tūturu:
   (b) in the case of a body corporate, to a fine not exceeding $20,000 for each taonga tūturu.
+
+### 11A Taonga tūturu found in customary marine title area
+If taonga tūturu are found in a part of the common marine and coastal area for which a customary marine title order has been awarded under the Marine and Coastal Area (Takutai Moana) Act 2011, section 82 of that Act applies to that finding instead of section 11 of this Act, except to the extent that section 11 is expressly applied by section 82 of that Act.
 
 ### 12 Maori Land Court’s jurisdiction over ngā taonga tūturu
 (1) The Maori Land Court shall have jurisdiction in respect to any taonga tūturu to which section 11 applies—
