@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to restate and reform the law relating to the management of Crown owned minerals
 
@@ -13,13 +13,19 @@ _Consolidation as at 2009-07-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **access arrangement** and means an arrangement between a person desiring access to land for the purpose of carrying out mineral-related activities and the owner and occupier of the land, permitting such access, either entered into by way of agreement or determined by an arbitrator in accordance with this Act
+  - **access arrangement** and means an arrangement to permit access to land—
+    (a) entered into by way of arrangement or determined by an arbiter in accordance with this Act; and
+    (b) between a person desiring to carry out mineral-related activities and either—
+      (i) the owner (and occupier, if any) of the land; or
+      (ii) in the case of land in the common marine and coastal area that is not a customary marine title area, the appropriate Minister
   - **bed** means—
     (a) in relation to any river, the space of land which the waters of the river cover at its fullest flow without overtopping the banks; and
     (b) in relation to a lake, the space of land which the waters of the lake cover at its highest level without exceeding its physical margin; and
     (c) in relation to the sea, the submarine areas covered by the internal waters and the territorial sea
   - **change** includes amend, add to, delete from, and replace
   - **coal** means anthracite, bituminous coal, sub-bituminous coal, lignite, peat, and oil shale; and includes every other substance worked or normally worked with coal
+  - **coastal marine area** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **contravene** includes fail to comply with
   - **controlling authority** , in relation to land, means—
     (a) in the case of land within 20 metres of a road, the authority having control of the road:
@@ -33,6 +39,9 @@ _Consolidation as at 2009-07-01_
     (b) Crown land within the meaning of paragraphs (a) to (f) of the definition of the term Crown land in section 2 of the Land Act 1948
   - **Crown owned mineral** means any mineral that is the property of the Crown
   - **current** means, in relation to a permit, that the permit has been granted and has not expired or been surrendered or revoked; and has a corresponding meaning
+  - **customary marine title agreement** has the meaning given to agreement in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **customary marine title group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **customary marine title order** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **discovery** means the discovery of a deposit or occurrence of a mineral
   - **draft minerals programme** means a programme prepared or in the course of preparation under section 14
   - **dwellinghouse** means any building, whether permanent or temporary, that is occupied, in whole or in part, as a residence; and includes any structure or outdoor living area that is accessory to, and used wholly or principally for the purposes of, the residence; but does not include the land upon which the residence is sited
@@ -101,7 +110,6 @@ _Consolidation as at 2009-07-01_
     (c) aerial surveys,—
   - **prospecting permit** means a prospecting permit granted under this Act
   - **public bridge** means a bridge or culvert intended for public use or for use in connection with any public work within the meaning of the Public Works Act 1981 and under the control of the Government or any public authority
-  - **public foreshore and seabed** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **public notice** , when given by the Minister, means notice published in 1 or more daily newspapers circulating in the main metropolitan areas
   - **railway** means a railway within the meaning of the New Zealand Railways Corporation Act 1981 and also within the meaning of section 2 of the Public Works Act 1981
   - **regulations** means regulations made under this Act
@@ -132,9 +140,9 @@ _Consolidation as at 2009-07-01_
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
-(2) Appropriate Minister, in relation to Crown land, means—
+(2) Appropriate Minister, in relation to Crown land or land in the common marine and coastal area, means—
   (a) the Minister charged with the administration of the land or of the enactment (if any) that the land is subject to; and
-  (b) the Minister of Conservation, if the Crown land is public foreshore and seabed; or
+  (b) the Minister of Conservation, if the land is part of the common marine and coastal area; or
   (c) the Minister of Lands if paragraphs (a) and (b) do not apply; or
   (d) the Minister determined by the Governor-General in Council, if there is uncertainty as to who is the appropriate Minister.
 (3) For the purposes of sections 38 and 97, a permit holder who has not fully complied with the conditions of his or her permit, shall be deemed to have substantially complied with those conditions if—
@@ -313,7 +321,9 @@ The Minister, in carrying out and exercising his or her functions and powers in 
 
 ### 25 Grant of permit
 (1) Subject to the provisions of this Act and to section 5A(3) of the Continental Shelf Act 1964, the Minister may grant to any person a permit in respect of any specified minerals and land, on such conditions as the Minister thinks fit.
-(1A) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned.
+(1A) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned, except in the case of minerals owned by customary marine title groups,—
+  (a) as provided for by section 83(2) of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  (b) subject to section 84 of that Act.
 (2) Without limiting the generality of subsection (1), the Minister may, on granting a permit, specify as a condition of the permit the terms on which the Minister, or any other person acting on behalf of the Crown, shall be entitled to participate in prospecting, exploration, or mining under the permit or under any subsequent permit.
 
 ### 25A Record of permit
@@ -371,7 +381,7 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (6) For the purposes of this section—
   (a) an exploration permit shall be deemed to be an exploration permit and a prospecting permit; and
   (b) a mining permit shall be deemed to be a mining permit and an exploration permit and a prospecting permit.
-(7) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned.
+(7) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned except in the case of minerals owned by customary marine title groups, as provided for in section 83(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 and subject to section 84 of that Act.
 
 ### 33 Permit holder to comply with permit and this Act
 (1) Every permit holder shall comply with the conditions of the permit and with this Act.
@@ -552,15 +562,16 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 ### 49 Entry on land for minimum impact activity
 (1) Notwithstanding section 8, but subject to sections 50, 51, and 62, any person employed by the Crown and authorised either specially or generally for that purpose, and any person authorised specifically in writing by the Minister for that purpose, may during the daytime enter on any land, with such assistance as he or she thinks fit, and carry out minimum impact activity.
 (2) Subject to sections 8, 50, 51, and 62, a permit holder (and employees, agents, and contractors of a permit holder authorised for that purpose) may enter land to which the permit relates and carry out minimum impact activity.
-(3) Notwithstanding subsections (1) and (2), no person may enter on land under either of those subsections without the written consent of the owner and occupier unless at least 10 working days' notice has been given to every owner and every occupier of the land of—
+(3) Notwithstanding subsections (1) and (2), no person may enter on land under either of those subsections without the written consent of each owner and occupier, and any customary marine title group unless at least 10 working days' notice has been given to each person or group whose consent is required of—
   (a) the date of intended entry; and
   (b) the type and duration of work to be carried out; and
   (c) a telephone number in New Zealand of the person who intends to enter the land.
-(4) Every person who enters land under this section shall, if required by any owner or occupier to do so, produce a copy of the authorisation or permit which gives the right of entry under this section.
+(4) Every person who enters land under this section shall, if required by any owner or occupier or customary marine title group to do so, produce a copy of the authorisation or permit which gives the right of entry under this section.
 (5) A person who enters land under this section shall not carry out any activity other than a minimum impact activity.
 
 ### 50 Entry on special classes of land for minimum impact activity
-No person may, without the consent of the owner or occupier of the land, enter land of a class to which any of paragraphs (a) to (g) of section 55(2) relate for the purpose of carrying out a minimum impact activity.
+(1) No person may, without the consent of the owner or occupier of the land, enter land of a class to which any of paragraphs (a) to (g) of section 55(2) relate for the purpose of carrying out a minimum impact activity.
+(2) This section does not apply in the case of entry onto land that is in the common marine and coastal area.
 
 ### 51 Entry on Maori land for minimum impact activity
 (1) Where a permit holder or, any person authorised under section 49, as the case may be, seeks to enter any Maori land for the purpose of carrying out any minimum impact activity, the permit holder or that person, shall, in addition to complying with section 49 and before any such entry is made—
@@ -588,12 +599,18 @@ Where a permit holder or other person authorised to enter on land under section 
 (2) The holder of a permit in respect of petroleum shall not prospect, explore, or mine on or in land to which his or her permit relates otherwise than in accordance with an access arrangement—
   (a) agreed in writing between the permit holder and each owner and occupier of the land; or
   (b) determined by an arbitrator in accordance with this Act.
+(3) Subsection (2) does not apply if the permit relates to land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
+  (a) in respect of land that is not subject to a customary marine title order or agreement; and
+  (b) in accordance with an access agreement agreed in writing between the permit holder and the appropriate Minister.
 
 ### 54 Access to land for minerals other than petroleum
 (1) This section shall not apply to minimum impact activities.
 (2) The holder of a permit in respect of a mineral (other than petroleum) shall not prospect, explore, or mine in land to which his or her permit relates otherwise than in accordance with an access arrangement—
   (a) agreed in writing between the permit holder and each owner and occupier of the land; or
   (b) determined by an arbitrator in accordance with this Act.
+(3) Subsection (2) does not apply if the permit relates to land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
+  (a) in respect of land that is not subject to a customary marine title order or agreement; and
+  (b) in accordance with an access agreement agreed in writing between the permit holder and the appropriate Minister.
 
 ### 55 Restrictions on determination of access arrangements by arbitrators
 (1) Subject to section 66, or to any agreement between the each owner and occupier of the land and the person desiring access, an arbitrator shall not be entitled to determine an access arrangement in respect of prospecting or exploration for, or mining of, a mineral other than petroleum.
@@ -605,6 +622,7 @@ Where a permit holder or other person authorised to enter on land under section 
   (e) land used as or situated within 30 metres of a yard, stockyard, garden, orchard, vineyard, plant nursery, farm plantation, shelterbelt, airstrip, or indigenous forest:
   (f) land which is the site of or situated within 30 metres of any building, cemetery, burial ground, waterworks, race, or dam:
   (g) land having an area of 4.05 hectares or less.
+(3) Land within the common marine and coastal area is deemed, for the purpose of subsection (2), not to be within any of the classes of land described in that subsection.
 
 ### 56 Provisions relating to access arrangements
 Where an owner or occupier has entered into an access arrangement, the arrangement shall be binding on the owner or occupier and, subject to the requirements of section 83 having been met, on all successors in title to the owner and occupier.
@@ -647,9 +665,9 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (i) such other matters as the parties to the arrangement may agree to include in the arrangement.
 (2) In considering whether to agree to an access arrangement, an owner or occupier of land (other than Crown land) may have regard to such matters as he or she considers relevant.
 
-### 61 Access arrangements in respect of Crown land
-(1) The appropriate Minister may, by agreement, enter into an access arrangement in respect of Crown land.
-(1A) The Minister of Conservation must not accept any application for an access arrangement or enter into any access arrangement relating to any Crown owned mineral in any Crown owned land or internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) described in Schedule 4, except in relation to any activities as follows:
+### 61 Access arrangements in respect of Crown land and land in common marine and coastal area
+(1) The appropriate Minister may, by agreement, enter into an access arrangement in respect of Crown land or the common marine and coastal area.
+(1A) The Minister of Conservation must not accept any application for an access arrangement or enter into any access arrangement relating to any Crown owned mineral in any Crown owned land or internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) or land of the common marine and coastal area described in Schedule 4, except in relation to any activities as follows:
   (a) that are necessary for the construction, use, maintenance, or rehabilitation, of an emergency exit or service shaft for an underground mining operation, where these cannot safely be located elsewhere, provided that it does not result in—
     (i) any complete stripping of vegetation over an area exceeding 100 square metres; or
     (ii) any permanent adverse impact on the profile or surface of the land which is not a necessary part of any such activity:
