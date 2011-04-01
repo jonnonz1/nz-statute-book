@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2011-04-01_
 
 > An Act—ato promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbto continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcto establish the Maori Heritage Council; anddto amend and consolidate the Historic Places Act 1980
 
@@ -18,6 +18,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **conservation** includes the processes of preserving, maintaining, and restoring historic places and historic areas so as to safeguard their historical and cultural values
   - **Council** means the Maori Heritage Council established by section 84(1)
+  - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **Environment Court** means the Environment Court continued by section 247 of the Resource Management Act 1991
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the Trust by the Minister of Finance
   - **heritage order** has the same meaning as in the Resource Management Act 1991
@@ -38,6 +39,7 @@ In this Act, unless the context otherwise requires,—
   - **Maori Heritage Council** means the Maori Heritage Council established by section 84
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **occupier** means the inhabitant occupier of any property
+  - **planning document** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **public notice** means a notice published in—together with such other public notice (if any) as the Trust thinks desirable in the circumstances; and and have corresponding meanings
     (a) 1 or more daily newspapers circulating in the region or district in which the historic place, historic area, wahi tapu, or wahi tapu area concerned is situated; or
     (b) 1 or more other newspapers that have at least an equivalent circulation in that region or district to the daily newspapers circulating in that region or district,—
@@ -154,6 +156,7 @@ Where the Trust has reasonable cause to believe that work that will destroy, dam
   (b) every individual site of the class to which the application relates that is present within that area.
 (3) Where an application made under subsection (2) relates to a site or sites that the Trust considers to be a site of Maori interest, the Trust shall refer that application to the Maori Heritage Council to make such recommendations as the Council may consider appropriate, following such consultation as the Council considers appropriate.
 (3A) In exercising a power under any of subsections (1) to (3), the Trust must have regard (in accordance with the provisions of the relevant Act) to a statutory acknowledgement that relates to the site or sites concerned.
+(3B) The Trust must comply with section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 (4) The Trust shall make its decision within 3 months after an application in respect of a site is lodged with the Trust under section 11 or section 12, unless the Trust, by written notice to the applicant, requires the applicant to provide further information relating to the application.
 (5) Subject to subsections (6) and (7) or where the Trust requires further information under subsection (4), the Trust may extend the time period specified in subsection (4).
 (6) When exercising its power under subsection (5), the Trust shall have regard to—
@@ -238,6 +241,7 @@ The Trust shall, within 20 working days after granting an authority under sectio
   (e) a statutory acknowledgement that relates to the site or sites concerned:
   (f) the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, wahi tapu, and other taonga.
 (6A) For the purposes of subsection (6)(e), if the court has regard to a statutory acknowledgement, the court must have regard to the statutory acknowledgement in accordance with the provisions of the relevant Act.
+(6B) In determining an appeal in respect of a decision made under section 14(1)(a) or (b) that relates to a customary marine title area, the court must have particular regard to any planning documents lodged with the New Zealand Historic Places Trust under section 89 of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to an archaeological site within the customary marine title area.
 (7) Nothing in this section limits or affects the powers of the Trust to issue a requirement for a heritage order.
 
 ### 20A Commencement of authority
