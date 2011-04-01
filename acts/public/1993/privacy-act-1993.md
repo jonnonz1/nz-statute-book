@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-04-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1430,6 +1430,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Patents Act 1953 | Sections 83 and 84 |
 | Personal Property Securities Act 1999 | Sections 139 and 171 to 174 |
 | Plumbers, Gasfitters, and Drainlayers Act 2006 | Section 70 |
+| Private Security Personnel and Private Investigators Act 2010 | Section 97 |
 | Radiocommunications Act 1989 | Section 5, 6, and 28 |
 | Rating Valuations Act 1998 | Section 7 |
 | Real Estate Agents Act 2008 | Sections 63 to 70 |
