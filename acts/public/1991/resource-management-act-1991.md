@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2010-12-16_
+_Consolidation as at 2011-04-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -13,8 +13,8 @@ _Consolidation as at 2010-12-16_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **abatement notice** means a notice served under section 322
-  - **access rights** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **access strip** means a strip of land created by the registration of an easement in accordance with section 237B for the purpose of allowing public access to or along any river, or lake, or the coast, or to any esplanade reserve, esplanade strip, other reserve, or land owned by the local authority or by the Crown (but excluding all land held for a public work except land held, administered, or managed under the Conservation Act 1987 and the Acts named in Schedule 1 of that Act)
+  - **accommodated activity** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **accredited** means to hold a qualification approved and notified under section 39A
   - **adverse effects assessment** means an assessment carried out—
     (a) by the Minister of Conservation under Part 1 of Schedule 12; or
@@ -25,6 +25,7 @@ _Consolidation as at 2010-12-16_
   - **agent** or , in relation to a ship, means—
     (a) any agent in New Zealand of the owner of the ship; or
     (b) any agent of the ship
+  - **agreement** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **aircraft** means any machine that can derive support in the atmosphere from the reactions of the air otherwise than by reactions of the air against the surface of the earth
   - **airport** means any defined area of land or water intended or designed to be used, whether wholly or partly, for the landing, departure, movement, or servicing of aircraft
   - **allotment** has the meaning set out in section 218
@@ -63,7 +64,6 @@ _Consolidation as at 2010-12-16_
     (b) the financial implications, and the effects on the environment, of that option when compared with other options; and
     (c) the current state of technical knowledge and the likelihood that the option can be successfully applied
   - **biological diversity** means the variability among living organisms, and the ecological complexes of which they are a part, including diversity within species, between species, and of ecosystems
-  - **board** , in relation to a foreshore and seabed reserve, has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **certificate of compliance** means a certificate granted by a consent authority or the Environmental Protection Authority under section 139
   - **change** has the meaning given in section 43AA
   - **climate change** means a change of climate that is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and that is in addition to natural climate variability observed over comparable time periods
@@ -77,6 +77,7 @@ _Consolidation as at 2010-12-16_
     (a) seawater with a substantial fresh water component; and
     (b) seawater in estuaries, fiords, inlets, harbours, or embayments
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
+  - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **company lease** means a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land—and includes a licence within the meaning of section 121A of the Land Transfer Act 1952
     (a) that is granted by a company owning an estate or interest in the land; and
     (b) that is held by a person by virtue of being a shareholder in the company,—
@@ -97,7 +98,9 @@ _Consolidation as at 2010-12-16_
     (a) that is granted by any owner of the land; and
     (b) that is held by a person who has an estate or interest in an undivided share in the land
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
-  - **customary rights order** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
+  - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **customary marine title group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **customary marine title order** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **designation** has the meaning set out in section 166
   - **determination** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **Director of Maritime New Zealand** or means the person for the time being holding the office of Director of Maritime New Zealand under section 439 of the Maritime Transport Act 1994
@@ -138,7 +141,6 @@ _Consolidation as at 2010-12-16_
   - **fisheries resources** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **foreshore** means any land covered and uncovered by the flow and ebb of the tide at mean spring tides and, in relation to any such land that forms part of the bed of a river, does not include any area that is not part of the coastal marine area
-  - **foreshore and seabed reserve** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **fresh water** means all water except coastal water and geothermal water
   - **geothermal energy** means energy derived or derivable from and produced within the earth by natural heat phenomena; and includes all geothermal water
   - **geothermal water** means water heated within the earth by natural phenomena to a temperature of 30 degrees Celsius or more; and includes all steam, water, and water vapour, and every mixture of all or any of them that has been heated by natural phenomena
@@ -161,7 +163,6 @@ _Consolidation as at 2010-12-16_
       (ii) archaeological sites; and
       (iii) sites of significance to Māori, including wāhi tapu; and
       (iv) surroundings associated with the natural and physical resources
-  - **holder** , in relation to a customary rights order, has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **incineration** , in relation to waste or other matter, means its deliberate combustion for the purpose of its thermal destruction; and and have corresponding meanings
   - **industrial or trade premises** means—but does not include any production land
     (a) any premises used for any industrial or trade purposes; or
@@ -210,7 +211,7 @@ _Consolidation as at 2010-12-16_
   - **local authority** means a regional council or territorial authority
   - **maataitai** means food resources from the sea and means the areas from which these resources are gathered
   - **mana whenua** means customary authority exercised by an iwi or hapu in an identified area
-  - **management plan** , in relation to a foreshore and seabed reserve, has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
+  - **marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **marine incineration facility** has the same meaning as in section 257 of the Maritime Transport Act 1994
   - **Maritime New Zealand** means the authority continued by section 429 of the Maritime Transport Act 1994
   - **master** in relation to any ship, has the same meaning as in section 2(1) of the Maritime Transport Act 1994
@@ -255,6 +256,7 @@ _Consolidation as at 2010-12-16_
   - **permitted activity** means an activity described in section 87A(1)
   - **person** includes the Crown, a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **plan** has the meaning given in section 43AA
+  - **planning document** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **policy statement** has the meaning given in section 43AA
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed form** means a form prescribed by regulations made under this Act and containing and having attached such information and documents as those regulations may require
@@ -267,19 +269,21 @@ _Consolidation as at 2010-12-16_
   - **proposed plan** has the meaning given in section 43AAC
   - **proposed policy statement** has the meaning given in section 43AA
   - **prospecting** has the same meaning as in the Crown Minerals Act 1991
+  - **protected customary right** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **protected customary rights area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **protected customary rights group** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **protected customary rights order** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **public authority** ,—
     (a) in section 33, has the meaning given to it by section 33(2); and
     (b) in section 36B and the definition of joint management agreement, means—
       (i) a local authority; and
       (ii) a statutory body; and
       (iii) the Crown
-  - **public foreshore and seabed** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **public notice** —
     (a) means a notice published in a newspaper circulating in the entire area likely to be affected by the proposal to which the notice relates; and
     (b) if a local authority also publishes a notice on an Internet site to which the public have free access, includes that notice
   - **public work** has the same meaning as in the Public Works Act 1981, and includes any existing or proposed public reserve within the meaning of the Reserves Act 1977 and any national park purposes under the National Parks Act 1980
   - **raft** means any moored floating platform which is not self-propelled; and includes platforms that provide buoyancy support for the surfaces on which fish or marine vegetation are cultivated or for any cage or other device used to contain or restrain fish or marine vegetation; but does not include booms situated on lakes subject to artificial control which have been installed to ensure the safe operation of electricity generating facilities
-  - **recognised customary activity** is an activity, use, or practice carried on, exercised, or followed under a customary rights order
   - **region** , in relation to a regional council, means the region of the regional council as determined in accordance with the Local Government Act 2002
   - **regional coastal plan** has the meaning given in section 43AA
   - **regional council** —
@@ -296,6 +300,7 @@ _Consolidation as at 2010-12-16_
   - **restricted coastal activity** means any discretionary activity or non-complying activity that, in accordance with section 68, is stated by a regional coastal plan to be a restricted coastal activity
   - **restricted discretionary activity** means an activity described in section 87A(3)
   - **river** means a continually or intermittently flowing body of fresh water; and includes a stream and modified watercourse; but does not include any artificial watercourse (including an irrigation canal, water supply race, canal for the supply of water for electricity power generation, and farm drainage canal)
+  - **RMA permission right** means the right provided for a customary marine title group by sections 66 and 68 of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a motorway as defined in section 2(1) of the Government Roading Powers Act 1989
   - **rule** has the meaning given in section 43AA
   - **seaweed** has the same meaning as in section 2(1) of the Fisheries Act 1996
@@ -367,9 +372,8 @@ _Consolidation as at 2010-12-16_
     (v) an application or proposal to vary or cancel an instrument creating an esplanade strip:
     (vi) a matter of creating an esplanade strip by agreement.
 (2) In this Act, unless the context requires another meaning,—
-  - **affected order holder** means the holder of a customary rights order who, under section 95F, is decided to be an affected order holder in relation to the application or matter
   - **affected person** means a person who, under section 95E, is decided to be an affected person in relation to the application or matter
-  - **limited notification** means serving notice of the application or matter on any affected person or affected order holder within the time limit specified by section 95
+  - **limited notification** means serving notice of the application or matter on any affected person within the time limit specified by section 95
   - **notification** means public notification or limited notification of the application or matter
   - **public notification** means doing the following within the time limit specified by section 95:
     (a) giving public notice of the application or matter in the prescribed form; and
@@ -455,7 +459,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (d) the maintenance and enhancement of public access to and along the coastal marine area, lakes, and rivers:
   (e) the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, waahi tapu, and other taonga:
   (f) the protection of historic heritage from inappropriate subdivision, use, and development:
-  (g) the protection of recognised customary activities.
+  (g) the protection of protected customary rights.
 
 ### 7 Other matters
 In achieving the purpose of this Act, all persons exercising functions and powers under it, in relation to managing the use, development, and protection of natural and physical resources, shall have particular regard to—
@@ -560,9 +564,9 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (e) destroy, damage, or disturb any foreshore or seabed (other than for the purpose of lawfully harvesting any plant or animal) in a manner that has or is likely to have an adverse effect on plants or animals or their habitat; or
   (f) introduce or plant any exotic or introduced plant in, on, or under the foreshore or seabed; or
   (g) destroy, damage, or disturb any foreshore or seabed (other than for the purpose of lawfully harvesting any plant or animal) in a manner that has or is likely to have an adverse effect on historic heritage—
-(2) No person may, in relation to land of the Crown in the coastal marine area, or land in the coastal marine area vested in the regional council,—unless expressly allowed by a national environmental standard, a rule in a regional coastal plan as well as a rule in a proposed regional coastal plan for the same region (if there is one), or a resource consent.
-  (a) occupy any part of the coastal marine area; or
-  (b) remove any sand, shingle, shell, or other natural material from the land—
+(2) No person may, unless expressly allowed by a national environmental standard, a rule in a regional coastal plan or in any proposed regional coastal plan for the same region, or a resource consent,—
+  (a) occupy any part of the common marine and coastal area; or
+  (b) remove any sand, shingle, shell, or other natural material from that area.
 (3) Without limiting subsection (1), no person may carry out any activity—in a manner that contravenes a national environmental standard, a rule in a regional coastal plan, or a rule in a proposed regional coastal plan for the same region (if there is one) unless the activity is expressly allowed by a resource consent or allowed by section 20A (certain existing lawful activities allowed).
   (a) in, on, under, or over any coastal marine area; or
   (b) in relation to any natural and physical resources contained within any coastal marine area,—
@@ -574,8 +578,8 @@ In achieving the purpose of this Act, all persons exercising functions and power
 
 ### 12A Restrictions on aquaculture activities in coastal marine area and on other activities in aquaculture management areas
 (1) No person may occupy a coastal marine area for the purpose of an aquaculture activity—
-  (a) except in an aquaculture management area in a regional coastal plan; and
-  (b) if the coastal marine area is vested in the Crown or a regional council, unless expressly authorised by a coastal permit.
+  (a) except in an aquaculture management area provided for in a regional coastal plan; or
+  (b) if that part of the coastal marine area is in the common marine and coastal area, unless expressly authorised by a coastal permit.
 (1A) No person may apply for a coastal permit to occupy a coastal marine area for the purpose of an aquaculture activity except in an aquaculture management area in a regional coastal plan.
 (2) In an aquaculture management area, any other activity requiring occupation may be undertaken only as—
   (a) a restricted discretionary activity; or
@@ -697,20 +701,10 @@ unless the dumping or incineration is expressly allowed by a resource consent.
 **Recognised customary activities**
 
 ### 17A Recognised customary activity may be exercised in accordance with any controls
-(1) A recognised customary activity may be carried out despite—
-  (a) sections 9 to 17; or
-  (b) a rule in a plan or a proposed plan.
-(2) Subsection (1) applies to a recognised customary activity only if that activity is carried out—
-  (a) in accordance with any controls imposed by the Minister of Conservation under Schedule 12; and
-  (b) by any member of the whānau, hapū, or iwi or of the group, as the case may be, entitled to do so under section 52 or section 76 of the Foreshore and Seabed Act 2004; or
-  (c) by a person authorised by the holder of the customary rights order to carry out the activity under section 53(1)(a) or section 77(1)(a) of the Foreshore and Seabed Act 2004.
+[Repealed]
 
 ### 17B Adverse effects assessment
-(1) For the purposes of any controls that may be imposed on a recognised customary activity under Part 1 of Schedule 12, a regional council must, if directed by the Minister of Conservation at any time, and may of its own initiative in the circumstances set out in clause 6(2) of Schedule 12,—
-  (a) carry out an adverse effects assessment of the effects on the environment of a recognised customary activity in its region; and
-  (b) complete, and give to the Minister an adverse effects report based on that assessment.
-(2) Part 2 of Schedule 12 applies to the assessment carried out and to the report prepared under this section.
-(3) In this section, regional council includes the Chatham Islands Council.
+[Repealed]
 
 **Emergencies**
 
@@ -843,14 +837,14 @@ The Minister of Conservation shall have the following functions under this Act:
   (a) the preparation and recommendation of New Zealand coastal policy statements under section 57:
   (b) the approval of regional coastal plans in accordance with Schedule 1:
   (c)
-  (d) the monitoring of the effect and implementation of New Zealand coastal policy statements and coastal permits for restricted coastal activities:
-  (e) carrying out his or her functions under Schedule 12.
+  (d) the monitoring of the effect and implementation of New Zealand coastal policy statements and coastal permits for restricted coastal activities.
+  (e)
 
 ### 28A Regional council must supply information to Minister of Conservation
 (1) The Minister of Conservation may, if it is reasonable to do so, require a regional council to supply information about the regional council's monitoring of—
   (a) a coastal permit relating to its region; or
   (b) its regional coastal plan; or
-  (c) the exercise of a recognised customary activity in its region.
+  (c) the exercise of a protected customary right in its region.
 (2) The Minister of Conservation must request the required information by giving a written and dated notice to the regional council.
 (3) The council must supply the information to the Minister of Conservation within—
   (a) 20 working days of the date of the notice; or
@@ -880,7 +874,7 @@ The Minister of Conservation shall have the following functions under this Act:
   (m) recommending the appointment of an Environment Commissioner or Deputy Environment Commissioner under section 254:
   (n) recommending the making of regulations under section 360:
   (o) approving a regional coastal plan under clause 19 of Schedule 1:
-  (p) making a decision on any controls to be imposed on a recognised customary activity under Schedule 12:
+  (p)
   (q) this power of delegation.
 (2) A chief executive may, in accordance with section 41 of the State Sector Act 1988, subdelegate any function, power, or duty delegated to him or her by a Minister under section 28 of that Act.
 (3) Any delegation or subdelegation made under this section may be revoked in accordance with section 29 or section 42 of the State Sector Act 1988, as the case may be.
@@ -910,7 +904,7 @@ The Minister of Conservation shall have the following functions under this Act:
   (ca) the investigation of land for the purposes of identifying and monitoring contaminated land:
   (d) in respect of any coastal marine area in the region, the control (in conjunction with the Minister of Conservation) of—
     (i) land and associated natural and physical resources:
-    (ii) the occupation of space on land of the Crown or land vested in the regional council, that is foreshore or seabed, and the extraction of sand, shingle, shell, or other natural material from that land:
+    (ii) the occupation of space in, and the extraction of sand, shingle, shell, or other natural material from, the coastal marine area, to the extent that it is within the common marine and coastal area:
     (iii) the taking, use, damming, and diversion of water:
     (iv) discharges of contaminants into or onto land, air, or water and discharges of water into water:
     (iva) the dumping and incineration of waste or other matter and the dumping of ships, aircraft, and offshore installations:
@@ -1003,7 +997,7 @@ The Minister of Conservation shall have the following functions under this Act:
 (2) For the purposes of this section, public authority includes—
   (a) a local authority; and
   (b) an iwi authority; and
-  (c) a board of a foreshore and seabed reserve; and
+  (c)
   (d) a government department; and
   (e) a statutory authority; and
   (f) a joint committee set up for the purposes of section 80; and
@@ -1056,7 +1050,7 @@ The Minister of Conservation shall have the following functions under this Act:
   (b) the efficiency and effectiveness of policies, rules, or other methods in its policy statement or its plan; and
   (c) the exercise of any functions, powers, or duties delegated or transferred by it; and
   (d) the exercise of the resource consents that have effect in its region or district, as the case may be; and
-  (e) in the case of a regional council, the exercise of a recognised customary activity in its region, including any controls imposed under Schedule 12 on that activity,—
+  (e) in the case of a regional council, the exercise of a protected customary right in its region, including any controls imposed on the exercise of that right under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011—
 (2A) Every local authority must, at intervals of not more than 5 years, compile and make available to the public a review of the results of its monitoring under subsection (2)(b).
 (3) Every local authority shall keep reasonably available at its principal office, information which is relevant to the administration of policy statements and plans, the monitoring of resource consents, and current issues relating to the environment of the area, to enable the public—
   (a) to be better informed of their duties and of the functions, powers, and duties of the local authority; and
@@ -1078,7 +1072,7 @@ The Minister of Conservation shall have the following functions under this Act:
   (i) a summary of all written complaints received by it during the preceding 5 years concerning alleged breaches of the Act or a plan, and information on how it dealt with each such complaint; and
   (j) records of natural hazards to the extent that the local authority considers appropriate for the effective discharge of its functions; and
   (ja) in the case of a territorial authority, the location and area of all esplanade reserves, esplanade strips, and access strips in the district; and
-  (jb) in the case of a regional council, records of every customary rights order relating to its region; and
+  (jb) in the case of a regional council, records of every protected customary rights order or agreement relating to a part of the common marine and coastal area within its region; and
   (k) any other information gathered under subsections (1) and (2).
 (6) In subsections (2)(e) and (5)(jb), regional council includes the Chatham Islands Council.
 
@@ -1230,8 +1224,8 @@ The following bodies have the powers of a consent authority under sections 37 an
   (a) the Minister, while carrying out any of his or her functions under Part 6AA:
   (b) a board of inquiry appointed under section 149J, while carrying out its functions under Part 6AA, except in respect of the time periods and requirements under section 149R:
   (ba) the EPA, while carrying out its functions under Part 6AA, except in respect of the time periods and requirements under section 146(1):
-  (c) a special tribunal appointed under section 202, for all matters while carrying out its functions:
-  (d) the Minister of Conservation, for all matters while carrying out his or her functions under Schedule 12.
+  (c) a special tribunal appointed under section 202, for all matters while carrying out its functions.
+  (d)
 
 **Enforcement officers**
 
@@ -1240,14 +1234,14 @@ The following bodies have the powers of a consent authority under sections 37 an
   (a) any of its officers; or
   (b) any of the officers of any other local authority, or of the new Ministry, or the Department of Conservation, or Maritime New Zealand, subject to such terms and conditions as to payment of salary and expenses and as to appointment of his or her duties as may be agreed upon between the relevant authorities—
 (2) A local authority may authorise any person who is—to exercise or carry out all or any of the functions and powers of an enforcement officer under sections 327 and 328 (which relate to excessive noise).
-  (a) the holder of a security guard's licence issued under section 26 of the Private Investigators and Security Guards Act 1974; or
+  (a) the holder of a licence as a property guard issued under section 34 of the Private Security Personnel and Private Investigators Act 2010; or
   (b) employed by a person authorised under paragraph (a) and who is—
     (i) the holder of a certificate of approval issued under section 40 of that Act; or
     (ii) a person in respect of whom permission granted under section 37 of that Act is in force—
 (3) The Minister of Conservation may authorise any officers of the Department of Conservation or of a local authority to exercise and carry out the functions and powers of an enforcement officer under this Act in relation to 1 or more of the following:
   (a) compliance with a resource consent issued by that Minister under section 31A:
   (b)
-  (c) compliance with controls imposed under Schedule 12 on a recognised customary activity.
+  (c)
 (4) Any authorisation under subsection (3) to an officer of a local authority is subject to such terms and conditions as to payment of salary and expenses and as to appointment of his or her duties as may be agreed between the Minister and the local authority.
 (5) The local authority or Minister shall supply every enforcement officer with a warrant, and that warrant shall clearly state the functions and powers that the person concerned has been authorised to exercise and carry out under this Act.
 (6) Every enforcement officer who exercises or purports to exercise any power conferred on him or her by this Act shall have with him or her, and shall produce if required to do so, his or her warrant and evidence of his or her identity.
@@ -1765,14 +1759,14 @@ A New Zealand coastal policy statement may state objectives and policies about a
   (a) national priorities for the preservation of the natural character of the coastal environment of New Zealand, including protection from inappropriate subdivision, use, and development:
   (b) the protection of the characteristics of the coastal environment of special value to the tangata whenua including waahi tapu, tauranga waka, mahinga maataitai, and taonga raranga:
   (c) activities involving the subdivision, use, or development of areas of the coastal environment:
-  (d) the Crown's interests in land of the Crown in the coastal marine area:
+  (d) the Crown's interests in the coastal marine area:
   (e) the matters to be included in 1 or more regional coastal plans in regard to the preservation of the natural character of the coastal environment, including the activities that are required to be specified as restricted coastal activities because the activities—
     (i) have or are likely to have significant or irreversible adverse effects on the coastal marine area; or
     (ii) relate to areas in the coastal marine area that have significant conservation value:
   (f) the implementation of New Zealand's international obligations affecting the coastal environment:
   (g) the procedures and methods to be used to review the policies and to monitor their effectiveness:
   (ga) national priorities for maintaining and enhancing public access to and along the coastal marine area:
-  (gb) the protection of recognised customary activities:
+  (gb) the protection of protected customary rights:
   (h) any other matter relating to the purpose of a New Zealand coastal policy statement.
 
 ### 58A Incorporation of material by reference in New Zealand coastal policy statements
@@ -1797,17 +1791,17 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
   (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils.
-(2A) A regional council, when preparing or changing a regional policy statement, must—
-  (a) take into account any relevant planning document recognised by an iwi authority, and lodged with the council, to the extent that its content has a bearing on resource management issues of the region; and
-  (b) recognise and provide for the management plan for a foreshore and seabed reserve located in whole or in part within its region, once the management plan has been lodged with the council.
+(2A) When a regional council is preparing or changing a regional policy statement, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
+  (a) the council must take into account any relevant planning document recognised by an iwi authority; and
+  (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
+    (i) recognise and provide for the matters in that document, to the extent that they relate to the relevant customary marine title area; and
+    (ii) take into account the matters in that document, to the extent that they relate to a part of the common marine and coastal area outside the customary marine title area of the relevant group.
 (3) In preparing or changing any regional policy statement, a regional council must not have regard to trade competition or the effects of trade competition.
 
 ### 62 Contents of regional policy statements
 (1) A regional policy statement must state—
   (a) the significant resource management issues for the region; and
-  (b) the resource management issues of significance to—
-    (i) iwi authorities in the region; and
-    (ii) the board of a foreshore and seabed reserve, to the extent that those issues relate to that reserve; and
+  (b) the resource management issues of significance to iwi authorities in the region; and
   (c) the objectives sought to be achieved by the statement; and
   (d) the policies for those issues and objectives and an explanation of those policies; and
   (e) the methods (excluding rules) used, or to be used, to implement the policies; and
@@ -1836,7 +1830,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 (4) A regional coastal plan may be changed in the manner set out in Schedule 1 and Schedule 1A.
 
 ### 64A Imposition of coastal occupation charges
-(1) Unless a regional coastal plan or proposed regional coastal plan already addresses coastal occupation charges, in preparing or changing a regional coastal plan or proposed regional coastal plan, a regional council must consider, after having regard to—whether or not a coastal occupation charging regime applying to persons who occupy any part of the coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council) should be included.
+(1) Unless a regional coastal plan or proposed regional coastal plan already addresses coastal occupation charges, in preparing or changing a regional coastal plan or proposed regional coastal plan, a regional council must consider, after having regard to—whether or not a coastal occupation charging regime applying to persons who occupy any part of the common marine and coastal area should be included.
   (a) the extent to which public benefits from the coastal marine area are lost or gained; and
   (b) the extent to which private benefit is obtained from the occupation of the coastal marine area,—
 (2) Where the regional council considers that a coastal occupation charging regime should not be included, a statement to that effect must be included in the regional coastal plan.
@@ -1846,7 +1840,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
   (c) the level of charges to be paid or the manner in which the charge will be determined; and
   (d) in accordance with subsection (5), the way the money received will be used.
 (4) No coastal occupation charge may be imposed on any person occupying the coastal marine area unless the charge is provided for in the regional coastal plan.
-(4A) A coastal occupation charge must not be imposed on any person occupying the coastal marine area if the person is carrying out a recognised customary activity in accordance with section 17A(2).
+(4A) A coastal occupation charge must not be imposed on a protected customary rights group or customary marine title group exercising a right under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 (5) Any money received by the regional council from a coastal occupation charge must be used only for the purpose of promoting the sustainable management of the coastal marine area.
 
 ### 65 Preparation and change of other regional plans
@@ -1882,7 +1876,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 (1) A regional council shall prepare and change any regional plan in accordance with its functions under section 30, the provisions of Part 2, a direction given under section 25A(1), its duty under section 32, and any regulations.
 (2) In addition to the requirements of section 67(3) and (4), when preparing or changing any regional plan, the regional council shall have regard to—
   (a) any proposed regional policy statement in respect of the region; and
-  (b) the Crown's interests in land of the Crown in the coastal marine area; and
+  (b) the Crown's interests in the coastal marine area; and
   (c) any—to the extent that their content has a bearing on resource management issues of the region; and
     (i) management plans and strategies prepared under other Acts; and
     (ii)
@@ -1890,9 +1884,11 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils.
-(2A) A regional council, when preparing or changing a regional plan, must—
-  (a) take into account any relevant planning document recognised by an iwi authority and lodged with the council, to the extent that its content has a bearing on resource management issues of the region; and
-  (b) recognise and provide for the management plan for a foreshore and seabed reserve located in whole or in part within its region, once the management plan has been lodged with the council.
+(2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
+  (a) the council must take into account any relevant planning document recognised by an iwi authority; and
+  (b) in relation to a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with section 93 of that Act,—
+    (i) recognise and provide for the matters in that document, to the extent that they relate to the relevant customary marine title area; and
+    (ii) take into account the matters in that document, to the extent that they relate to a part of the common marine and coastal area outside the customary marine title area of the relevant group.
 (3) In preparing or changing any regional plan, a regional council must not have regard to trade competition or the effects of trade competition.
 
 ### 67 Contents of regional plans
@@ -2029,9 +2025,7 @@ The purpose of the preparation, implementation, and administration of district p
     (iia) relevant entry in the Historic Places Register; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing),—
   (c) the extent to which the district plan needs to be consistent with the plans or proposed plans of adjacent territorial authorities.
-(2A) A territorial authority, when preparing or changing a district plan, must—
-  (a) take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on resource management issues of the district; and
-  (b) recognise and provide for the management plan for a foreshore and seabed reserve adjoining its district, once the management plan has been lodged with the territorial authority, to the extent that its contents have a bearing on the resource management issues of the district.
+(2A) A territorial authority, when preparing or changing a district plan, must take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on the resource management issues of the district.
 (3) In preparing or changing any district plan, a territorial authority must not have regard to trade competition or the effects of trade competition.
 
 ### 75 Contents of district plans
@@ -2164,16 +2158,10 @@ A local authority may make a rule specifying the activities for which the consen
 (9) The obligations on a local authority under this section are in addition to its duty to monitor under section 35.
 
 ### 79A Circumstance when further review required
-(1) Section 79B applies if, after a foreshore and seabed reserve has been set apart and established under section 43 of the Foreshore and Seabed Act 2004, a management plan for the foreshore and seabed reserve is—
-  (a) prepared and approved by the board of the foreshore and seabed reserve in accordance with section 44 of the Foreshore and Seabed Act 2004; and
-  (b) lodged with the regional council.
-(2) The regional council that has responsibility for the area where the reserve is located must review its regional policy statement and each regional plan to the extent necessary to ensure that they recognise and provide for the management plan. It must start the review within 6 months of the management plan being lodged under subsection (1)(b).
-(3) Section 79(5), (8), and (9) applies to a review required by this section.
+[Repealed]
 
 ### 79B Consequence of review under section 79A
-If a regional council, after reviewing a policy statement or plan under section 79A, considers that the policy statement or plan—
-  (a) requires change in order to recognise and provide for all or part of a management plan for a foreshore and seabed reserve, it must change the policy statement or plan in the manner set out in Schedule 1 and this Part:
-  (b) can remain without change, it must give public notice of that decision.
+[Repealed]
 
 ### 80 Combined regional and district documents
 (1) Local authorities may prepare, implement, and administer the combined regional and district documents as set out in subsections (2) to (6).
@@ -2223,11 +2211,7 @@ If a regional council, after reviewing a policy statement or plan under section 
 (6) To avoid doubt, giving effect to a policy statement includes giving effect to it by complying with a direction described in section 55(2).
 
 ### 82A Dispute relating to review under section 79A
-(1) This section applies if there is a dispute between a local authority and the board of a foreshore and seabed reserve as to whether a policy statement or plan reviewed under section 79A(2) should be changed in order to recognise and provide for the management plan for the reserve.
-(2) The board may refer a dispute to the Environment Court for a decision resolving the matter.
-(3) If, after considering the matter referred to it under subsection (2), the Environment Court considers that there should be a change to the policy statement or plan to recognise and provide for the relevant management plan for the foreshore and seabed reserve,—
-  (a) the Environment Court must order the regional council responsible for the policy statement or plan to initiate a change to that policy statement or plan in the manner set out in Schedule 1; or
-  (b) if the Environment Court considers that the dispute relates to a matter of minor significance that does not affect the general intent and purpose of the policy statement or plan, the Environment Court may allow that policy statement or plan to remain unchanged.
+[Repealed]
 
 ### 83 Procedural requirements deemed to be observed
 A policy statement or plan that is held out by a local authority as being operative shall be deemed to have been prepared and approved in accordance with Schedule 1 and shall not be challenged except by an application for an enforcement order under section 316(3).
@@ -2249,22 +2233,22 @@ A policy statement or plan that is held out by a local authority as being operat
 (6) In subsections (2) and (3), the term reasonable use, in relation to any land, includes the use or potential use of the land for any activity whose actual or potential effects on any aspect of the environment or on any person other than the applicant would not be significant.
 (7) Nothing in subsection (3) limits the powers of the Environment Court under clause 15 of Schedule 1 on an appeal under clause 14.
 
-**Plan must not allow activity that prevents recognised customary activities**
+**Plan must not allow activity that prevents protected customary rights**
 
 ### 85A Plan or proposed plan must not include certain rules
-A plan or proposed plan must not include a rule that describes an activity as a permitted activity if that activity will, or is likely to, have a significant adverse effect on a recognised customary activity carried out under section 17A(2).
+A plan or proposed plan must not include a rule that describes an activity as a permitted activity if that activity will, or is likely to, have an adverse effect that is more than minor on a protected customary right carried out under Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### 85B Process to apply if plan or proposed plan does not comply with section 85A
-(1) If the holder of a customary rights order considers that a rule in a plan or proposed plan does not comply with section 85A, the holder may—
+(1) If a protected customary rights group considers that a rule in a plan or proposed plan does not comply with section 85A, the holder may—
   (a) make a submission to the local authority concerned under clause 6 of Schedule 1; or
   (b) request a change under clause 21 of Schedule 1; or
   (c) apply to the Environment Court in accordance with section 293A(3) for a change to a rule in the plan or proposed plan.
 (2) A local authority or the Environment Court, as the case may be, in determining whether or not a rule in a plan or proposed plan complies with section 85A, must consider the following matters:
-  (a) the effects of the proposed activity on the recognised customary activity; and
-  (b) the area that the proposed activity would have in common with the recognised customary activity; and
+  (a) the effects of the proposed activity on the exercise of a protected customary right; and
+  (b) the area that the proposed activity would have in common with the protected customary right; and
   (c) the degree to which the proposed activity must be carried out to the exclusion of other activities; and
-  (d) the degree to which the recognised customary activity must be carried out to the exclusion of other activities; and
-  (e) whether the recognised customary activity can be exercised only in a particular area.
+  (d) the degree to which the exercise of a protected customary right must be carried out to the exclusion of other activities; and
+  (e) whether the protected customary right can be exercised only in a particular area.
 
 ### 86 Power to acquire land
 (1) In addition to any power it may have to acquire land for any public work which it is authorised to undertake, a regional council or territorial authority may, while its plan is operative, acquire by agreement under the Public Works Act 1981 any land (including any interest in land) in its region or district, if, in accordance with the plan, the regional council or territorial authority considers it necessary or expedient to do so for any of the following purposes:
@@ -2352,7 +2336,9 @@ In this Act, the term resource consent means any of the following:
 ### 87A Classes of activities
 (1) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a permitted activity, a resource consent is not required for the activity if it complies with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
 (2) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a controlled activity, a resource consent is required for the activity and—
-  (a) the consent authority must grant a resource consent (except if section 106 applies); and
+  (a) the consent authority must grant a resource consent except if—
+    (i) section 106 applies; or
+    (ii) section 55(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 applies; and
   (b) the consent authority's power to impose conditions on the resource consent is restricted to the matters over which control is reserved (whether in its plan or proposed plan, a national environmental standard, or otherwise); and
   (c) the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
 (3) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a restricted discretionary activity, a resource consent is required for the activity and—
@@ -2693,9 +2679,10 @@ A consent authority must, within 10 working days after the day an application fo
 (4) Despite subsection (3), a consent authority may publicly notify an application if it decides that special circumstances exist in relation to the application.
 
 ### 95B Limited notification of consent application
-(1) If a consent authority does not publicly notify an application for a resource consent for an activity, it must decide (under sections 95E and 95F) if there are any affected persons or affected order holders in relation to the activity.
+(1) If a consent authority does not publicly notify an application for a resource consent for an activity, it must decide (under sections 95E and 95F) if there are any affected persons, an affected protected customary rights group, or affected customary marine title group in relation to the activity.
 (2) The consent authority must give limited notification of the application to any affected person unless a rule or national environmental standard precludes limited notification of the application.
-(3) The consent authority must give limited notification of the application to any affected order holder even if a rule or national environmental standard precludes public or limited notification of the application.
+(3) The consent authority must give limited notification of the application to an affected protected customary rights group or affected customary title group even if a rule or national environmental standard precludes public or limited notification of the application.
+(4) In subsections (1) and (3), the requirements relating to an affected customary marine title group apply only in the case of applications for accommodated activities.
 
 ### 95C Public notification of consent application after request for further information or report
 (1) Despite section 95A(1), a consent authority must publicly notify an application for a resource consent if—
@@ -2729,11 +2716,15 @@ A consent authority that is deciding, for the purpose of section 95A(2)(a), whet
   (a) the person has given written approval to the activity and has not withdrawn the approval in a written notice received by the authority before the authority has decided whether there are any affected persons; or
   (b) it is unreasonable in the circumstances to seek the person's written approval.
 
-### 95F Consent authority decides if person is affected order holder
-A consent authority must decide that a person is an affected order holder, in relation to an activity, if—
-  (a) the person is the holder of a customary rights order; and
-  (b) the activity may have any adverse effects on a recognised customary activity carried out under the order in accordance with section 17A(2); and
-  (c) the person has not given written approval to the activity or has withdrawn approval to the activity in a written notice received by the authority before the authority has decided whether there are any affected order holders.
+### 95F Status of protected customary rights group
+A consent authority must decide that a protected customary rights group is an affected protected customary rights group, in relation to an activity in the protected customary rights area relevant to that group, if—
+  (a) the activity may have adverse effects on a protected customary right carried out in accordance with the requirements of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  (b) the protected customary rights group has not given written approval for the activity or has withdrawn approval for the activity in a written notice received by the consent authority before the authority has made a decision under this section.
+
+### 95G Status of customary marine title group
+A consent authority must decide that a customary marine title group is an affected customary marine title group, in relation to an accommodated activity in the customary marine title area relevant to that group, if—
+  (a) the activity may have adverse effects on the exercise of the rights applying to a customary marine title group under subpart 3 of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+  (b) the customary marine title group has not given written approval for the activity in a written notice received by the consent authority before the authority has made a decision under this section.
 
 **Submissions on applications**
 
@@ -2883,6 +2874,8 @@ A hearing need not be held in accordance with this Act in respect of an applicat
   (c) any other matter the consent authority considers relevant and reasonably necessary to determine the application.
 (2) When forming an opinion for the purposes of subsection (1)(a), a consent authority may disregard an adverse effect of the activity on the environment if a national environmental standard or the plan permits an activity with that effect.
 (2A) When considering an application affected by section 124, the consent authority must have regard to the value of the investment of the existing consent holder.
+(2B) When considering a resource consent application for an activity in an area within the scope of a planning document, a consent authority must have regard to any resource management matters set out in that planning document.
+(2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under section 93 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 (3) A consent authority must not,—
   (a) when considering an application, have regard to—
     (i) trade competition or the effects of trade competition; or
@@ -2892,7 +2885,8 @@ A hearing need not be held in accordance with this Act in respect of an applicat
     (i) section 107, 107A, 107E, or 217:
     (ii) an Order in Council in force under section 152:
     (iii) any regulations:
-    (iv) a Gazette notice referred to in section 26(1), (2), and (5) of the Foreshore and Seabed Act 2004:
+    (iv) wāhi tapu conditions included in a customary marine title order or agreement:
+    (v) section 55(2) of the Marine and Coastal Area (Takutai Moana) Act 2011:
   (d) grant a resource consent if the application should have been notified and was not.
 (4) A consent authority considering an application must ignore subsection (3)(a)(ii) if the person withdraws the approval in a written notice received by the consent authority before the date of the hearing, if there is one, or, if there is not, before the application is determined.
 (5) A consent authority may grant a resource consent on the basis that the activity is a controlled activity, a restricted discretionary activity, a discretionary activity, or a non-complying activity, regardless of what type of activity the application was expressed to be for.
@@ -2974,45 +2968,16 @@ If a national environmental standard is made to control the effects on climate c
 (3) In addition to any other conditions imposed under this Act, a discharge permit or coastal permit may include conditions requiring the holder of the permit to undertake such works in such stages throughout the term of the permit as will ensure that upon the expiry of the permit the holder can meet the requirements of subsection (1) and of any relevant regional rules.
 
 ### 107A Restrictions on grant of resource consents
-(1) A consent authority must not grant an application for a resource consent to do something that will, or is likely to, have a significant adverse effect on a recognised customary activity carried out in accordance with section 17A(2), unless written approval is given for the proposed activity by the holder of the relevant customary rights order.
-(2) In determining whether a proposed activity will, or is likely to, have a significant adverse effect on a recognised customary activity, a consent authority must consider the following matters:
-  (a) the effects of the proposed activity on the recognised customary activity; and
-  (b) the area that the proposed activity would have in common with the recognised customary activity; and
-  (c) the degree to which the proposed activity must be carried out to the exclusion of other activities; and
-  (d) the degree to which the recognised customary activity must be carried out to the exclusion of other activities; and
-  (e) whether the recognised customary activity can be exercised only in a particular area; and
-  (f) whether an alternative location or method would avoid, remedy, or mitigate any significant adverse effects of the proposed activity on the recognised customary activity; and
-  (g) whether any conditions could be included in a resource consent for the proposed activity that would avoid, remedy, or mitigate any significant adverse effects of the proposed activity on the recognised customary activity.
-(3) Despite sections 87A(2)(a) and 104A, subsection (1) may prevent the grant of an application for a resource consent for a controlled activity.
+[Repealed]
 
 ### 107B Provision for certain infrastructure works and related operations
-(1) Section 107A does not prevent the grant of a resource consent to carry out—
-  (a) an infrastructure work and its associated operations if—
-    (i) the infrastructure work and its associated operations were lawfully established before the commencement of Part 3 of the Foreshore and Seabed Act 2004; and
-    (ii) any significant adverse effects of the proposed activity on the recognised customary activity will be, or are likely to be, the same or similar in character, intensity, and scale to those that existed before the application for the resource consent was made:
-  (b) maintenance work on, to, or in respect of an infrastructure work and its associated operations that were lawfully established before the commencement of Part 3 of the Foreshore and Seabed Act 2004, so long as any significant adverse effects of the maintenance work on the recognised customary activity are temporary in nature.
-(2) In this section, infrastructure work and its associated operations is limited to any infrastructure works and associated operations that are owned, operated, or carried out by 1 or more of the following:
-  (a) the Crown, as defined in section 2(1) of the Public Finance Act 1989:
-  (b) a local authority:
-  (c) a network utility operator:
-  (d) an electricity generator as defined in section 2(1) of the Electricity Act 1992:
-  (e) a port company as defined in section 2(1) of the Port Companies Act 1988 or a port operator as defined in section 650J(6) of the Local Government Act 1974:
-  (f) the Maritime Safety Authority of New Zealand.
+[Repealed]
 
 ### 107C Circumstances when written approval for resource consent required from holder of customary rights order
-(1) This section applies if—
-  (a) the holder of a customary rights order gives written approval under section 107A(1) for a resource consent for a proposed activity; and
-  (b) the carrying out of the proposed activity under the resource consent would have the effect of suspending or cancelling, in whole or in part, the relevant customary rights order.
-(2) The holder of the customary rights order must acknowledge in writing that the effect described in subsection (1)(b) will occur.
-(3) Both the written approval given under section 107A(1) and the written acknowledgement given under subsection (2)—
-  (a) form part of the application for a resource consent for the proposed activity; and
-  (b) if a resource consent is granted, form part of the resource consent for that activity.
+[Repealed]
 
 ### 107D Process to apply if grant of resource consent has effect of cancelling customary rights order
-(1) If the effect of carrying out the proposed activity under a resource consent granted in the circumstances contemplated by section 107C would be permanently to cancel the customary rights order, in whole or in part,—
-  (a) the holder of the customary rights order must apply to cancel the order, in whole or in part, under section 60 or section 87 of the Foreshore and Seabed Act 2004; and
-  (b) a decision by the consent authority to grant a resource consent for the proposed activity is of no effect until the application referred to in paragraph (a) has been determined in accordance with the Foreshore and Seabed Act 2004 and all appeal rights have been pursued.
-(2) However, if an application to cancel a customary rights order is declined, the relevant resource consent must be treated as if it were declined by the consent authority.
+[Repealed]
 
 **Decisions on applications relating to non-aquaculture activities**
 
@@ -3030,7 +2995,7 @@ If a national environmental standard is made to control the effects on climate c
   (e) subject to subsection (8), in respect of a discharge permit or a coastal permit to do something that would otherwise contravene section 15 (relating to the discharge of contaminants) or section 15B, a condition requiring the holder to adopt the best practicable option to prevent or minimise any actual or likely adverse effect on the environment of the discharge and other discharges (if any) made by the person from the same site or source:
   (f) in respect of a subdivision consent, any condition described in section 220 (notwithstanding any limitation on the imposition of conditions provided for by section 87A(2)(b) or (3)(a)):
   (g) in respect of any resource consent for reclamation granted by the relevant consent authority, a condition requiring an esplanade reserve or esplanade strip of any specified width to be set aside or created under Part 10:
-  (h) in respect of any coastal permit to occupy any part of the coastal marine area (relating to land of the Crown in the coastal marine area or land in the coastal marine area vested in the regional council), a condition—
+  (h) in respect of any coastal permit to occupy any part of the common marine and coastal area, a condition—
     (i) detailing the extent of the exclusion of other persons:
     (ii) specifying any coastal occupation charge.
 (3) A consent authority may include as a condition of a resource consent a requirement that the holder of a resource consent supply to the consent authority information relating to the exercise of the resource consent.
@@ -3159,6 +3124,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (3)
 (4) Where the Environment Court grants a resource consent under section 87G or 149U, the consent commences on the date of the decision or such later date as the court states in its decision.
 (5) Where a board of inquiry grants a resource consent under section 149R, the consent commences on the date of the decision or such later date as the board states in its decision.
+(6) If a resource consent is granted for an activity in a part of the common marine and coastal area where a customary marine title order or agreement is in effect, section 68(1) of the Marine and Coastal Area (Takutai Moana) Act 2011 applies.
 
 **Restricted coastal activities**
 
@@ -3219,7 +3185,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (5) Except to the extent—no coastal permit shall be regarded as—
   (a) that the coastal permit expressly provides otherwise; and
   (b) that is reasonably necessary to achieve the purpose of the coastal permit,—
-  (c) an authority for the holder to occupy a coastal marine area which is land of the Crown or land vested in a regional council to the exclusion of all or any class of persons; or
+  (c) an authority for the holder to occupy a coastal marine area to the exclusion of all or any class of persons; or
   (d) conferring on the holder the same rights in relation to the use and occupation of the area against those persons as if he or she were a tenant or licensee of the land.
 (6) Except to the extent—no coastal permit shall be regarded as an authority for the holder to remove sand, shingle, shell, or other natural material as if it were a licence or profit à prendre.
   (a) that the consent expressly provides otherwise; and
@@ -4305,15 +4271,13 @@ In this Part, unless the context otherwise requires,—together with such other 
       (ii) 1 or more other newspapers that have at least an equivalent circulation in that region to the daily newspapers circulating in that region—
 
 ### 152 Order in Council may be made requiring holding of authorisation
-(1) The Governor-General may, by Order in Council, on the advice of the Minister, in respect of any specified part of the coastal marine area, direct that a consent authority shall not grant a coastal permit in respect of any land of the Crown in that specified part which would authorise the holder of the permit (if granted) to—unless the applicant for the coastal permit is the holder of an authorisation authorising such taking, removal, reclamation, or drainage.
+(1) The Governor-General may, by Order in Council, on the advice of the Minister, direct that a consent authority must not grant a coastal permit, in respect of a specified part of the marine and coastal area (other than in respect of any specified freehold land) that would, if granted, authorise the permit holder—unless the applicant for the coastal permit is the holder of an authorisation authorising such taking, removal, reclamation, or drainage.
   (a)
   (b) remove any sand, shingle, shell, or other natural material, within the meaning of section 12(4), from any such land; or
   (c) reclaim or drain any of such land that is foreshore or seabed—
 (2) Every Order in Council made under subsection (1) may, by Order in Council made on the advice of the Minister, be amended or revoked.
 (3) The Minister shall not advise the making of an Order in Council under subsection (1) or subsection (2) which relates to any activity described in subsection (1)(c) in the coastal marine area of any region until a proposed regional coastal plan has been both prepared and notified under this Act in respect of that region.
-(4) The Minister shall not advise the making of an Order in Council under subsection (1) or subsection (2) unless the Minister considers—
-  (a) that there is, or is likely to be, in respect of any area to which it is proposed that the Order in Council relate, competing demands for the use of that area for all or any of the activities referred to in subsection (1); and
-  (b) that it is appropriate to do so after having regard to the Crown's interests in land of the Crown in the coastal marine area.
+(4) The Minister shall not advise the making of an Order in Council under subsection (1) or (2) unless the Minister considers that there is, or is likely to be, in respect of any area to which it is proposed that the Order in Council relate, competing demands for the use of that area for all or any of the activities referred to in subsection (1).
 (5) Every Order in Council made under subsection (1), and every Order in Council made under subsection (2) amending a previous Order in Council, shall expire on the second anniversary of the date on which—
   (a) in the case of an Order in Council made under subsection (1), it came into force:
   (b) in the case of an Order in Council made under subsection (2), the original Order in Council amended came into force.
@@ -4346,7 +4310,7 @@ The Minister shall as soon as practicable—
 On receipt of a copy of an Order in Council under section 154, the regional council shall endorse particulars of it on the regional coastal plan or proposed regional coastal plan, but such endorsement shall not form part of the plan.
 
 ### 156 Effect of Order in Council
-Except as otherwise provided in section 153, where an Order in Council is in force in respect of any part of the coastal marine area, a consent authority shall not grant a coastal permit to do any of the following in respect of any land of the Crown in that part:unless the applicant for that permit is the holder of an authorisation authorising such taking, removal, reclamation, or drainage, or unless that Order in Council does not require that any such authorisation be held.
+Except as otherwise provided in section 153, where an Order in Council is in force in respect of any part of the coastal marine area, a consent authority shall not grant a coastal permit to do any of the following in that part:unless the applicant for that permit is the holder of an authorisation authorising such taking, removal, reclamation, or drainage, or unless that Order in Council does not require that any such authorisation be held.
   (a)
   (b) remove any sand, shingle, shell, or other natural material, within the meaning of section 12(4), from any such land; or
   (c) reclaim or drain any of such land that is foreshore or seabed—
@@ -4526,7 +4490,7 @@ A regional council may, by public notice and in accordance with its regional coa
 (3) A regional council must also give not less than 6 months' public notice of the matters referred to in subsection (2)(a) to (c).
 
 ### 165H Plan may specify allocation methods
-A regional coastal plan or proposed regional coastal plan may provide for a rule in relation to a method of allocating space vested in the Crown or a regional council in a coastal marine area.
+A regional coastal plan or proposed regional coastal plan may provide for a rule in relation to a method of allocating space in the common marine and coastal area.
 
 ### 165I Duty to adopt most efficient and effective allocation mechanism
 (1) Before adopting a rule in relation to the method of allocation of space in a coastal marine area, other than as provided for in this Act, a regional council must—
@@ -5826,13 +5790,13 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
   (b) the Registrar-General of Land shall not deposit the primary survey plan and (in respect of a subdivision by the Crown) the Registrar-General of Land shall not issue a certificate of title for any separate allotment on the primary survey plan approved by the Chief Surveyor for the purposes of section 228, unless the separate survey plan on which the esplanade reserve or esplanade strip is shown is deposited prior to, or at the same time as, the primary survey plan.
 (5) Subject to this section, nothing in section 11 or this Part applies to a separate survey plan approved by a territorial authority under this section.
 
-### 237A Vesting of ownership of land in coastal marine area or bed of lake or river in the Crown or territorial authority
+### 237A Vesting of land in common marine and coastal area or bed of lake or river
 (1) Where a survey plan is submitted to a territorial authority in accordance with section 223, and any part of the allotment being subdivided is the bed of a river or lake or is within the coastal marine area, the survey plan shall—
   (a) show as vesting in the territorial authority—
     (i) such part of the allotment as forms part of the bed of a river or lake and adjoins an esplanade reserve shown as vesting in the territorial authority; or
     (ii) such part of the allotment as forms part of the bed of a river or lake and is required to be so vested as a condition of a resource consent:
-  (b) show as vesting in the Crown any part of the allotment that is in the coastal marine area.
-(2) Any requirement to vest the bed under subsection (1)(a)(i) or subsection (1)(b) shall be subject to any rule in a district plan or any resource consent which provides otherwise.
+  (b) show any part of the allotment that is in the coastal marine area as part of the common marine and coastal area.
+(2) Any requirement to vest the bed under subsection (1)(a)(i) shall be subject to any rule in a district plan or any resource consent which provides otherwise.
 
 ### 237B Access strips
 (1) A local authority may agree with the registered proprietor of any land to acquire an easement over the land, and may agree upon the conditions upon which such an easement may be enjoyed.
@@ -5873,10 +5837,16 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
 ### 237F Compensation for taking of esplanade reserves or strips on allotments of 4 hectares or more
 Where any esplanade reserve or esplanade strip of any width is required to be set aside or created on an allotment of 4 hectares or more created when land is subdivided, the territorial authority shall pay to the registered proprietor of that allotment compensation for any esplanade reserve or any interest in land taken for any esplanade strip, unless the registered proprietor agrees otherwise.
 
-### 237G Compensation for taking of land below mean high water springs or of bed of lake or river
-Where—the Crown or territorial authority, as the case may be, shall pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
-  (a) land is vested in the Crown or a territorial authority in accordance with section 237A; and
-  (b) the land vested under section 237A adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more created when land is subdivided,—
+### 237G Compensation
+(1) This section applies if—
+  (a) the bed of a river or lake—
+    (i) is vested in the Crown in accordance with section 237A(1)(a); and
+    (ii) adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more when land is subdivided; or
+  (b) land that is within the coastal marine area—
+    (i) becomes part of the common marine and coastal area in accordance with section 237A(1)(b); and
+    (ii) adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more created when land is subdivided.
+(2) In the case of land referred to in subsection (1)(a), the Crown or territorial authority, as the case may be, must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
+(3) In the case of land referred to in subsection (1)(b), the Crown must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
 
 ### 237H Valuation
 (1) If the territorial authority or Crown, as the case may be, and the registered proprietor cannot agree as to the amount of compensation, including any additional survey costs, payable under section 237E, section 237F, or section 237G, the amount shall be determined by a registered valuer agreed on by the parties (or, failing agreement, nominated by the President of the New Zealand Institute of Valuers), who shall provide a copy of the determination to all parties.
@@ -5903,11 +5873,10 @@ Where—the Crown or territorial authority, as the case may be, shall pay compen
 (1) When the Registrar-General of Land deposits a survey plan, or a Chief Surveyor approves a survey plan to which section 228 applies,—
   (a) any land shown on the survey plan as reserve to be vested in the territorial authority or the Crown, vests in the territorial authority or the Crown, as the case may be, free from all interests in land, including any encumbrances (without the necessity of any instrument of release or discharge or otherwise) for the purposes shown on the survey plan, and subject to the Reserves Act 1977; and
   (b) any land shown on the survey plan as land to be vested in the territorial authority or in the Crown in lieu of reserves, shall vest in the territorial authority or in the Crown, as the case may be, free from all interests in land, including any encumbrances (without the necessity of an instrument of release or discharge or otherwise); and
-  (c) any land in the coastal marine area or any part of the bed of a river or lake, shown on the survey plan as land to be vested in the territorial authority or the Crown, shall vest in the territorial authority or the Crown, as the case may be, free from all interests in land, including any encumbrances (without the necessity of an instrument of release or discharge or otherwise).
+  (c) any land or any part of the bed of a river (not being part of the coastal marine area) or lake, shown on the survey plan as land to be vested in the territorial authority or the Crown, shall vest in the territorial authority or the Crown, as the case may be, free from all interests in land, including any encumbrances (without the necessity of an instrument of release or discharge or otherwise); and
+  (d) to avoid doubt, any land shown on the survey plan as land in the coastal marine area becomes part of the marine and coastal area.
 (2) Notwithstanding subsection (1), the land may be vested subject to any specified interest which the territorial authority has certified, on the survey plan, shall remain with the land.
-(3) Any land vested in the Crown shall, unless this Act provides otherwise,—
-  (a) in the case of land to which section 13 of the Foreshore and Seabed Act 2004 applies, be vested in the Crown subject to that section:
-  (b) in any other case, be vested under the Land Act 1948.
+(3) Any land vested in the Crown vests under the Land Act 1948 unless this Act provides otherwise.
 
 **Conditions as to amalgamation of land**
 
@@ -6422,7 +6391,7 @@ In determining an appeal or inquiry, the Environment Court must have regard to t
   (a) does not give effect to a national policy statement, the New Zealand coastal policy statement, or a relevant regional policy statement; or
   (b) is inconsistent with a relevant regional plan or water conservation order.
 
-### 293A Determinations relating to customary rights orders made under Foreshore and Seabed Act 2004
+### 293A Determinations on recognition orders and agreements made under Marine and Coastal Area (Takutai Moana) Act 2011
 (1) This section applies to a determination made by the Environment Court on—
   (a) an appeal relating to—
     (i) a submission made in reliance on section 85B(1)(a):
@@ -6599,8 +6568,8 @@ Person C must tell the court if person C—
 (3) All proceedings under section 338 (which relates to offences) shall be heard—
   (a) in the District Court; and
   (b) except where otherwise directed by the Chief District Court Judge, by a District Court Judge who is also an Environment Judge.
-(4) This Part does not apply to a recognised customary activity carried out in accordance with section 17A(2).
-(5) However, sections 310 to 313 and sections 330 to 337 apply to the exercise of a recognised customary activity.
+(4) This Part does not apply to a protected customary right.
+(5) However, sections 310 to 313 and sections 330 to 331 apply to the exercise of a protected customary right.
 
 **Declarations**
 
@@ -6922,8 +6891,8 @@ Every abatement notice shall be in the prescribed form and shall state—
 (1) Any enforcement officer, specifically authorised in writing by any local authority or consent authority to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwellinghouse, for the purpose of inspection to determine whether or not—
   (a) this Act, any regulations, a rule of a plan, a resource consent, section 10 (certain existing uses protected), or section 10A (certain existing activities allowed), or section 20A (certain lawful existing activities allowed) is being complied with; or
   (b) an enforcement order, interim enforcement order, abatement notice, or water shortage direction is being complied with; or
-  (c) any person is contravening a rule in a proposed plan in a manner prohibited by any of sections 9, 12(3), 14(1), 15(2), and 15(2A); or
-  (d) any control imposed under Schedule 12 on a recognised customary activity is being complied with.
+  (c) any person is contravening a rule in a proposed plan in a manner prohibited by any of sections 9, 12(3), 14(1), 15(2), and 15(2A).
+  (d)
 (2) For the purposes of subsection (1), an enforcement officer may take samples of water, air, soil, or organic matter.
 (2A) Where a sample is taken under subsection (2), an enforcement officer may also take a sample of any substance that the enforcement officer has reasonable cause to suspect is a contaminant of any water, air, soil, or organic matter.
 (3) Every enforcement officer who exercises any power of entry under this section shall produce for inspection his or her warrant of appointment and written authorisation upon initial entry and in response to any later reasonable request.
@@ -6936,7 +6905,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (a) carry out surveys, investigations, tests, or measurements:
   (b) take samples of any water, air, soil, or vegetation:
   (c) enter or re-enter land (except a dwellinghouse),—
-(1A) Subsection (1) applies for the purpose of assessing the effects on the environment of a recognised customary activity.
+(1A)
 (2) Reasonable written notice shall be given to the occupier of land to be entered under subsection (1)—
   (a) that entry on to the land is authorised under this section:
   (b) of the purpose for which entry is required:
@@ -7230,14 +7199,17 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
   (b) section 21 of the Water and Soil Conservation Act 1967; and
   (c) section 261 of the Coal Mines Act 1979,—
 (2) Any person may take, use, dam, divert, or discharge into, any water in which the Crown has an interest, without obtaining the consent of the Crown, if the taking, use, damming, diversion, or discharge by that person does not contravene this Act or regulations.
-(3) Any person may use or occupy any land and any related part of the coastal marine area in which the Crown has a right, interest, or title, without obtaining the consent of the Crown under the Land Act 1948 or the Foreshore and Seabed Endowment Revesting Act 1991 or the Foreshore and Seabed Act 2004, if the use or occupation by that person does not contravene this Act or regulations.
+(3) Any person may use or occupy any part of the common marine and coastal area without obtaining consent, unless consent must be obtained under—
+  (a) this Act; or
+  (b) any other enactment; or
+  (c) any instrument or order made under an enactment.
 
 ### 355 Vesting of reclaimed land
-(1) Any person or local authority may apply to the Minister of Conservation for any right, title, or interest in any land in the coastal marine area which is land of the Crown and which has been reclaimed or is proposed to be reclaimed to be vested in that person.
+(1)
 (2) Any person may apply to the Minister of Lands for any right, title, or interest in any land—to be vested in that person.
   (a) which forms part of a riverbed or lakebed which is land of the Crown; and
   (b) which has been reclaimed or is proposed to be reclaimed—
-(3) Without limiting section 355AA, the relevant Minister may, if he or she thinks fit, by notice in the Gazette, vest in the applicant any right, title, or interest in any area of reclaimed land which is land of the Crown after—
+(3) The Minister of Lands may, if he or she thinks fit, by notice in the Gazette, vest in the applicant any right, title, or interest in any area of reclaimed land that forms part of a riverbed or lakebed that is not within the coastal marine area and which is land of the Crown after—
   (a) determining an appropriate price (if any) to be paid by the applicant in respect thereof; and
   (b) ensuring that the consent authority has issued a certificate under section 245(5)(a)(ii) or (5)(b)(ii).
 (4) Every Gazette notice published under subsection (3)—
@@ -7247,31 +7219,13 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
   (c) shall be sent by the relevant Minister to the Registrar-General of Land, with a request that a certificate of title be issued accordingly; and
   (d) shall be registered, without fee, by the Registrar-General of Land as soon as practicable after receipt from the Minister.
 (5) The Registrar-General of Land shall, in accordance with a request made under subsection (4)(c), issue an appropriate certificate of title in respect of the right, title, or interest in the land vested by the Gazette notice.
-(6) For the purposes of this section, references to land in the coastal marine area, or land which forms part of a riverbed or lakebed, include land which was in that area or part of that bed before it was reclaimed.
+(6) For the purposes of this section, references to land that forms part of a riverbed or lakebed include land which was part of that bed before it was reclaimed.
 
 ### 355AA Effect of Foreshore and Seabed Act 2004 on vesting of reclamations
-(1) If an application is made under section 355(1) that relates to land reclaimed from the public foreshore and seabed, the Minister of Conservation may vest in the applicant a right, title, or interest in the relevant land under section 355(3).
-(2) However, subsection (1) applies only if, before the commencement of section 13(1) of the Foreshore and Seabed Act 2004,—
-  (a) a coastal permit has been granted to carry out the reclamation; or
-  (b) the Minister of Conservation has entered into a written agreement with the applicant to vest a right, title, or interest in the relevant land; or
-  (c) an enactment has provided for a right, title, or interest in the relevant land to be vested in the applicant.
-(3) If subsection (1) does not apply, the Minister of Conservation—
-  (a) must not vest an estate in fee simple in the relevant land; but
-  (b) may vest in the applicant a lesser right, title, or interest in the reclaimed land.
-(4) Subsection (3)(b) applies,—
-  (a) in the case of a port company or port operator referred to in section 107B(2)(e),—
-    (i) for a leasehold interest granted to it, so long as that interest does not exceed 50 years (though it may include a perpetual right of renewal on the same terms as the original lease, to the extent that the land continues to be used for port facilities):
-    (ii) for any other interest granted to it, so long as that interest, together with any rights of renewal, does not exceed 50 years; and
-  (b) in the case of any other entity, so long as the interest granted to it, together with any rights of renewal, does not exceed 50 years.
-(5) In vesting an interest in reclaimed land under subsection (4), the Minister of Conservation may impose encumbrances or restrictions on the right, title, or interest in order to—
-  (a) control the use to which the land may be put:
-  (b) protect access rights in the coastal marine area, subject to any limits imposed by or under any enactment.
+[Repealed]
 
 ### 355AB Application for renewals
-(1) The holder of a right, title, or interest granted under section 355AA(3)(b)—
-  (a) may apply to the Minister of Conservation, not later than 3 months before the expiry of the existing right, title, or interest, for a renewal of the right, title, or interest in the same, or part of the same, relevant land; and
-  (b) has the right to have the application considered and determined before any other application may be considered for a right, title, or interest in the same land.
-(2) If an application is made under subsection (1), the holder may continue to operate under the existing right, title, or interest until the application is determined.
+[Repealed]
 
 ### 355A Application for consent to unlawful reclamation
 (1) Where land has at any time (whether before or after the date of commencement of this Act) been reclaimed from the coastal marine area unlawfully, any person may apply under section 88 to the relevant consent authority for, and the consent authority may grant to that person, a coastal permit consenting to that reclamation, as if the land were still situated within the coastal marine area.
@@ -7374,7 +7328,11 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (ba) prescribing those offences under this Act that constitute infringement offences against this Act:
   (bb) prescribing forms of infringement notices, and any other particulars to be contained in infringement notices, and prescribing the infringement fee (not exceeding $1,000) for each infringement offence, which may be different fees for different offences:
   (bc) prescribing forms of reminder notices to be used in respect of infringement offences against this Act:
-  (c) prescribing the amount, methods for calculating the amount, and circumstances and manner in which holders of resource consents shall be liable to pay for the occupation of the coastal marine area, the bed of any river or lake which is land of the Crown, and the extraction of sand, shingle, shell, and other natural materials from lands of the Crown, and the use of geothermal energy:
+  (c) prescribing the amount, methods for calculating the amount, and circumstances and manner in which holders of resource consents are liable to pay for—
+    (i) the occupation of the coastal marine area, to the extent that it is within the common marine and coastal area; and
+    (ii) the occupation of the bed of any river or lake that is land of the Crown; and
+    (iii) the extraction of any sand, shingle, shell, and other natural materials from an area described in subparagraph (i) or (ii); and
+    (iv) the use of geothermal energy:
   (d) requiring the holders of water permits, discharge permits, coastal permits, or land use consents granted for any activity that would otherwise contravene section 13, to keep records for any purpose under this Act, and prescribing the nature of records, information, and returns, and the form, manner, and times in or at which they shall be kept or furnished:
   (e) providing for any project or work to be a network utility operation for the purpose of section 166:
   (f) prescribing the practice and procedure of the Environment Court and the form of proceedings, both under this Act and in relation to the exercise of any jurisdiction conferred on the court by any other Act:
@@ -8389,7 +8347,7 @@ All charges fixed by special order made under section 24K of the Water and Soil 
 (2) A proposed regional coastal plan must be prepared by the regional council concerned in consultation with—
   (a) the Minister of Conservation; and
   (b) iwi authorities of the region; and
-  (c) the board of any foreshore and seabed reserve in the region.
+  (c) any customary marine title group in the region.
 
 ### 3 Consultation
 (1) During the preparation of a proposed policy statement or plan, the local authority concerned shall consult—
@@ -8397,7 +8355,7 @@ All charges fixed by special order made under section 24K of the Water and Soil 
   (b) those other Ministers of the Crown who may be affected by the policy statement or plan; and
   (c) local authorities who may be so affected; and
   (d) the tangata whenua of the area who may be so affected, through iwi authorities; and
-  (e) the board of any foreshore and seabed reserve in the area.
+  (e) any customary marine title group in the area.
 (2) A local authority may consult anyone else during the preparation of a proposed policy statement or plan.
 (3) Without limiting subclauses (1) and (2), a regional council which is preparing a regional coastal plan shall consult—
   (a) the Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
@@ -8476,8 +8434,8 @@ A local authority is not required to comply with clause 3 to the extent that any
   (c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
   (d) in the case of a district plan, the regional council and adjacent local authorities; and
   (e) in the case of a policy statement or regional plan, constituent territorial authorities, and adjacent regional councils; and
-  (f) the tangata whenua of the area, through iwi authorities; and
-  (g) the board of any foreshore and seabed reserve in the area.
+  (f) the tangata whenua of the area, through iwi authorities.
+  (g)
 (5) A local authority shall make any proposed policy statement or plan prepared by it available in every public library in its area and in every other place in its area that it considers appropriate.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 
@@ -8652,8 +8610,8 @@ Where submissions are made but no person indicates they wish to be heard, or the
   (c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
   (d) in the case of a district plan, the regional council and adjacent territorial authorities; and
   (e) in the case of a policy statement or regional plan, constituent territorial authorities and adjacent regional councils; and
-  (f) the tangata whenua of the area, through iwi authorities; and
-  (g) the board of any foreshore and seabed reserve in the area.
+  (f) the tangata whenua of the area, through iwi authorities.
+  (g)
 (5) The local authority shall provide 1 copy of its operative policy statement or plan to every public library in its area.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 
@@ -8995,8 +8953,8 @@ To avoid doubt, clause 1(h) obliges an applicant to report as to the persons ide
   (a) oblige the applicant to consult with any person; or
   (b) create any ground for expecting that the applicant will consult with any person.
 
-### 1A Matters that must be included in an assessment of effects on the environment
-An assessment of effects on the environment for the purposes of section 88 must include, in a case where a recognised customary activity is, or is likely to be, adversely affected, a description of possible alternative locations or methods for the proposed activity (unless written approval for that activity is given by the holder of the customary rights order).
+### 1A Matters to be included in assessment of effects on environment
+An assessment of effects on the environment for the purposes of section 88 must include, in a case where the activity for which a resource consent is sought will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, a description of possible alternative locations or methods for the exercise of the proposed activity (unless written approval for the proposed activity is given by the protected customary rights group).
 
 ### 2 Matters that should be considered when preparing an assessment of effects on the environment
 Subject to the provisions of any policy statement or plan, any person preparing an assessment of the effects on the environment should consider the following matters:
@@ -9060,137 +9018,6 @@ Where an esplanade strip is created for public recreational use, the instrument 
 ## Schedule 11 — Acts that include statutory acknowledgements
 
 ## Schedule 12 — Adverse effects assessment and report and controls in relation to a recognised customary activity
-
-### 1 Application and interpretation
-(1) This schedule applies if a customary rights order has been made and appeals (if any) have been disposed of.
-(2) In this schedule, regional council includes the Chatham Islands Council.
-
-### 2 Power to impose controls
-The Minister of Conservation may impose controls (including terms, standards, and restrictions) on a recognised customary activity only if he or she considers that—
-  (a) the activity has, or may have, a significant adverse effect on the environment; and
-  (b) the controls—
-    (i) will not prevent the activity; and
-    (ii) are reasonable and, in the circumstances, not unduly restrictive; and
-    (iii) are necessary to avoid, remedy, or mitigate any significant adverse effects of the activity on the environment.
-
-### 3 Prerequisites before controls may be imposed
-(1) The Minister of Conservation must not impose controls on a recognised customary activity under clause 2 unless—
-  (a) the Minister has either—
-    (i) received, under clause 11, a copy of an adverse effects report in relation to that activity; or
-    (ii) carried out his or her own adverse effects assessment and completed his or her own adverse effects report; and
-  (b) the Minister has consulted with the holder of the customary rights order and the Minister of Māori Affairs.
-(2) In addition to the consultation required by subclause (1)(b), the Minister of Conservation may seek any relevant information and views before imposing controls on a recognised customary activity.
-(3) The Minister of Conservation must not undertake an assessment under subclause (1)(a)(ii) if, before he or she has begun an assessment, the relevant regional council notifies the Minister of Conservation under clause 7 that it is carrying out an adverse effects assessment of the recognised customary activity in accordance with clause 6.
-(4) The Minister of Conservation must give written notice of his or her decision to carry out an adverse effects assessment under subclause (1)(a)(ii) not later than 5 working days after making that decision, to—
-  (a) the relevant regional council; and
-  (b) the holder of the relevant customary rights order.
-
-### 4 Matters to be considered
-The Minister of Conservation, when considering whether to impose controls on a recognised customary activity,—
-  (a) must have regard to—
-    (i) the effects on the environment of the activity; and
-    (ii) any adverse effects report received by the Minister in relation to that recognised customary activity; and
-    (iii) the views expressed by the persons with whom the Minister has consulted; and
-    (iv) any other relevant information and views that the Minister has received; and
-  (b) may have regard to—
-    (i) any relevant national policy statement:
-    (ii) the New Zealand coastal policy statement:
-    (iii) the relevant regional policy statement or proposed regional policy statement:
-    (iv) any relevant plan or proposed plan:
-    (v) any relevant planning document lodged with the regional council and recognised by an iwi authority, to the extent that the content of the document has a bearing on the resource management issues of the region.
-
-### 5 Timing and notification
-The Minister of Conservation must—
-  (a) decide whether to impose controls on a recognised customary activity no later than 60 working days after—
-    (i) receiving an adverse effects report on the activity from the regional council; or
-    (ii) giving notice under clause 3(4) that the Minister will be carrying out his or her own assessment of that activity; and
-  (b) give written notice of his or her decision, and the reasons for it, to—
-    (i) the relevant regional council; and
-    (ii) the holder of the customary rights order; and
-    (iii) the Minister of Māori Affairs; and
-    (iv) the chief executive of the Ministry of Justice.
-
-### 6 Adverse effects assessment
-(1) A regional council must, not later than 5 working days after being so directed by the Minister of Conservation under section 17B, begin an adverse effects assessment of a recognised customary activity that may be carried out in its region.
-(2) If a regional council has not been notified by the Minister of Conservation under clause 3(4) that the Minister intends to carry out his or her own adverse effects assessment, the regional council may, of its own initiative, carry out an adverse effects assessment of, and prepare an adverse effects report on, the recognised customary activity.
-(3) However, the regional council may only carry out an assessment under subclause (2) if—
-  (a) it begins the assessment, for any reason, not later than 20 working days after the customary rights order is made; or
-  (b) at any time after the expiry of the 20-working day period referred to in paragraph (a), it considers that the effects of the activity on the environment are, or are likely to be, materially different from those effects considered when, whichever is the latest,—
-    (i) the customary rights order was made; or
-    (ii) controls were last imposed; or
-    (iii) the controls were last reviewed under Part 3 of this schedule.
-
-### 7 Notice regarding adverse effects assessment
-(1) A regional council must give written notice regarding an adverse effects assessment in relation to a recognised customary activity if—
-  (a) it decides to carry out an adverse effects assessment under clause 6(2); or
-  (b) in the period between the date the relevant customary rights order was made and 20 working days after that date, it decides not to carry out an adverse effects assessment; or
-  (c) it is directed by the Minister of Conservation under clause 6(1) to begin an adverse effects assessment.
-(2) The written notice required by subclause (1) must be given to—
-  (a) the Minister of Conservation; and
-  (b) the holder of the relevant customary rights order.
-(3) Written notice given under subclause (1) must be given,—
-  (a) for an assessment required by the Minister of Conservation under clause 6(1), not later than 5 working days after receiving a direction from that Minister:
-  (b) for an assessment under clause 6(3)(a) or (b), not later than 5 working days after deciding to carry out an adverse effects assessment:
-  (c) for a decision referred to in subclause (1)(b), not later than 25 working days after the customary rights order was made.
-
-### 8 Process
-A regional council, in carrying out an adverse effects assessment of a recognised customary activity,—
-  (a) must seek the views of the holder of the customary rights order; and
-  (b) may seek any relevant information.
-
-### 9 Matters to be considered
-A regional council, in carrying out an adverse effects assessment of a recognised customary activity,—
-  (a) must have regard to—
-    (i) the effects on the environment of the activity; and
-    (ii) any relevant information and views it has received; and
-  (b) may have regard to—
-    (i) any relevant national policy statement:
-    (ii) the New Zealand coastal policy statement:
-    (iii) its regional policy statement or proposed regional policy statement:
-    (iv) any relevant plan or proposed plan:
-    (v) any relevant planning document lodged with the regional council and recognised by an iwi authority, to the extent that the content of the document has a bearing on the resource management issues of the region.
-
-### 10 Adverse effects report
-(1) A regional council must complete its adverse effects assessment and adverse effects report no later than 40 working days after giving notice of the assessment under clause 7.
-(2) The regional council must include in its adverse effects report—
-  (a) details of the recognised customary activity and the effects on the environment of the recognised customary activity; and
-  (b) an outline of the information received and any views expressed by the holder of the customary rights order; and
-  (c) whether it considers the recognised customary activity has, or may have, a significant adverse effect on the environment; and
-  (d) its recommendations (if any) to the Minister of Conservation on any controls it considers the Minister of Conservation should impose under clause 2; and
-  (e) the reasons for any recommendations.
-
-### 11 Report to be given to Minister of Conservation and holder
-No later than 5 working days after completing an adverse effects report, a regional council must give a copy to—
-  (a) the Minister of Conservation; and
-  (b) the holder of a customary rights order.
-
-### 12 Review
-The Minister of Conservation may—
-  (a) review, in accordance with clauses 13 and 14, controls imposed on a recognised customary activity; and
-  (b) after reviewing the controls,—
-    (i) confirm them; or
-    (ii) revoke them; or
-    (iii) revoke them and impose new controls (which may include some or all of the reviewed controls).
-
-### 13 Procedure for review
-(1) If the Minister of Conservation reviews controls under clause 12, he or she must either—
-  (a) request, under section 17B, the regional council—
-    (i) to carry out an adverse effects assessment; and
-    (ii) prepare an adverse effects report under clauses 6 to 11; or
-  (b) notify the regional council that the Minister will carry out an adverse effects assessment under clause 3(4).
-(2) Clauses 2 to 5—
-  (a) apply (with all necessary changes) to a review of controls by the Minister of Conservation; and
-  (b) are to be read, in relation to a review, as if all references in those clauses to controls imposed by the Minister of Conservation on a recognised customary activity were references to controls on a recognised customary activity imposed or confirmed by the Minister after a review.
-
-### 14 Timing of review
-(1) The Minister of Conservation—
-  (a) may review the controls imposed on a recognised customary activity at any time; and
-  (b) must carry out a review of those controls if the holder of the customary rights order requests a review in writing.
-(2) The holder of a customary rights order may request a review under subclause (1)(b) only if—
-  (a) at least 2 years have passed since the controls were imposed or since they were last reviewed; or
-  (b) the holder considers, on reasonable grounds, that the effects of the activity on the environment are, or are likely to be, materially different from those effects considered when, whichever is the later,—
-    (i) the controls were last imposed; or
-    (ii) the controls were last reviewed under Part 3 of this schedule.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
