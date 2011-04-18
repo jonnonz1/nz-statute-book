@@ -1,0 +1,835 @@
+# Canterbury Earthquake Recovery Act 2011
+_Consolidation as at 2011-04-18_
+
+### 1 Title
+This Act is the Canterbury Earthquake Recovery Act 2011.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Preliminary provisions
+
+### 3 Purposes
+The purposes of this Act are—
+  (a) to provide appropriate measures to ensure that greater Christchurch and the councils and their communities respond to, and recover from, the impacts of the Canterbury earthquakes:
+  (b) to enable community participation in the planning of the recovery of affected communities without impeding a focused, timely, and expedited recovery:
+  (c) to provide for the Minister and CERA to ensure that recovery:
+  (d) to enable a focused, timely, and expedited recovery:
+  (e) to enable information to be gathered about any land, structure, or infrastructure affected by the Canterbury earthquakes:
+  (f) to facilitate, co-ordinate, and direct the planning, rebuilding, and recovery of affected communities, including the repair and rebuilding of land, infrastructure, and other property:
+  (g) to restore the social, economic, cultural, and environmental well-being of greater Christchurch communities:
+  (h) to provide adequate statutory power for the purposes stated in paragraphs (a) to (g):
+  (i) to repeal and replace the Canterbury Earthquake Response and Recovery Act 2010.
+
+### 4 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **building consent** has the same meaning as in section 7 of the Building Act 2004
+  - **Canterbury Earthquake Recovery Review Panel** means the Canterbury Earthquake Recovery Review Panel appointed under section 72
+  - **Canterbury earthquakes** means any earthquake in Canterbury on or after 4 September 2010, and includes any aftershock
+  - **CBD** means the area bounded by—
+    (a) the 4 avenues that are Bealey Avenue, Fitzgerald Avenue, Moorhouse Avenue, and Deans Avenue; and
+    (b) Harper Avenue
+  - **CERA** means the Canterbury Earthquake Recovery Authority established by the State Sector (Canterbury Earthquake Recovery Authority) Order 2011
+  - **chief executive** means the chief executive of CERA
+  - **council** means the Christchurch City Council, the Canterbury Regional Council (Environment Canterbury), the Selwyn District Council, or the Waimakariri District Council
+  - **council organisation** has the same meaning as in section 6 of the Local Government Act 2002
+  - **dangerous building** has the same meaning as in sections 121 and 122 of the Building Act 2004, but with the modifications made by clause 7(1) of the Canterbury Earthquake (Building Act) Order 2010
+  - **enactment** has the same meaning as in section 29 of the Interpretation Act 1999 and also includes any plan, programme, bylaw, or rule made under any Act
+  - **greater Christchurch** means the districts of the Christchurch City Council, the Selwyn District Council, and the Waimakariri District Council, and includes the coastal marine area adjacent to these districts
+  - **land** includes an interest in land
+  - **Minister** means the Minister for Canterbury Earthquake Recovery
+  - **modify** , in relation to a provision or liability, includes disapplying or suspending the provision or liability
+  - **network utility operator** has the same meaning as it has in section 2(1) of the Resource Management Act 1991
+  - **public notice** or means a notice published—
+    (a) in the Gazette; or
+    (b) in a newspaper circulating in the area to which the notice relates
+  - **rebuilding** includes—
+    (a) extending, repairing, improving, subdividing, or converting any land, infrastructure, or other property; and
+    (b) rebuilding communities
+  - **recovery** includes restoration and enhancement
+  - **Recovery Plan** means a Recovery Plan approved under section 21(2)
+  - **Recovery Strategy** means a Recovery Strategy approved under section 11(2)
+  - **relevant Minister** ,—
+    (a) in relation to an enactment other than this Act, means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the enactment:
+    (b) in relation to a bylaw made by a territorial authority or regional council, means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Act under which the bylaw is made
+  - **requiring authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
+  - **responsible entity** means the chief executive, a council, a council organisation, a department of the Public Service, an instrument of the Crown, a Crown entity, a requiring authority, or a network utility operator
+  - **RMA document** —
+    (a) means any of the following under the Resource Management Act 1991:
+      (i) a regional policy statement:
+      (ii) a proposed regional policy statement:
+      (iii) a proposed plan:
+      (iv) a plan; and
+    (b) includes a change or variation to any document mentioned in paragraph (a).
+(2) In this Act, unless the context otherwise requires, abatement notice, designation, enforcement order, heritage order, notice of requirement, resource consent, and rule have the same meanings as in section 2(1) of the Resource Management Act 1991.
+
+### 5 Act binds the Crown
+This Act binds the Crown.
+
+## Part 2 — Functions and powers to assist recovery and rebuilding
+
+### Subpart 1 — Input into decision making by community and cross-party forums
+
+### 6 Community forum
+(1) The Minister must arrange for a community forum to be held for the purpose of providing him or her with information or advice in relation to the operation of this Act.
+(2) The Minister must invite at least 20 persons who are suitably qualified to participate in the forum.
+(3) The Minister must ensure that the forum meets at least 6 times a year.
+(4) The Minister and the chief executive must have regard to any information or advice he or she is given by the forum.
+
+### 7 Cross-party forum
+(1) The Minister must arrange for a cross-party parliamentary forum to be held from time to time for the purpose of providing the Minister with information or advice in relation to the operation of this Act.
+(2) The Minister must invite the following Members of Parliament to participate in the forum:
+  (a) members whose primary place of residence, as determined under the Parliamentary Service Act 2000, is in greater Christchurch:
+  (b) members elected to represent a constituency in the greater Christchurch area.
+
+### Subpart 2 — Minister and chief executive of CERA
+
+### 8 Functions of Minister
+The Minister has the following functions for the purpose of giving effect to this Act:
+  (a) establishing a community forum in accordance with section 6 and a cross-party parliamentary forum in accordance with section 7:
+  (b) recommending for approval a Recovery Strategy for greater Christchurch under section 11:
+  (c) reviewing the Recovery Strategy and approving any changes to it under section 14:
+  (d) directing the development of, and matters to be covered by, Recovery Plans for all or part of greater Christchurch under section 16:
+  (e) approving Recovery Plans and the review and changes to them under sections 21 and 22:
+  (f) suspending, amending, or revoking the whole or parts of RMA documents, resource consents, and other instruments applying in greater Christchurch in accordance with section 27:
+  (g) giving directions to councils or council organisations under section 48:
+  (h) directing a council to carry out certain functions of the council within a specified timeframe under section 49:
+  (i) issuing a call-in notice under section 50 and assuming certain responsibilities, duties, or powers of the council if a timeframe under that section is not complied with:
+  (j) compulsorily acquiring land in accordance with subpart 4:
+  (k) determining compensation in accordance with subpart 5:
+  (l) appointing a Canterbury Earthquake Recovery Review Panel under, and for the purposes outlined in, subpart 7 regarding development of delegated legislation:
+  (m) reporting to the House of Representatives on the operation of the Act in accordance with sections 88 and 92:
+  (n) any other functions provided in this Act.
+
+### 9 Functions of chief executive
+The chief executive has the following functions for the purpose of giving effect to this Act:
+  (a) developing a Recovery Strategy for submission to the Minister in accordance with section 11:
+  (b) reviewing and preparing amendments of a Recovery Strategy in accordance with section 14:
+  (c) developing a Recovery Plan if directed to do so by the Minister in accordance with section 16:
+  (d) consenting to specified types of contracts that councils may enter into under section 28:
+  (e) requiring the provision of information, disseminating information, commissioning reports, and carrying out investigations under subpart 4:
+  (f) exercising qualified powers to enter property in accordance with sections 33 and 34:
+  (g) directing the approval of cadastral survey datasets by Land Information New Zealand and processes for the issuing of computer registers by the Registrar-General of Land under sections 35 and 36:
+  (h) carrying out and commissioning building, demolition, and removal work under subpart 4:
+  (i) restricting access to specified buildings and areas under section 45:
+  (j) partially or totally closing roads or restricting access to roads in accordance with section 46:
+  (k) giving directions to a property owner where they have a sufficiently linked interest to act for the benefit of an adjoining owner under section 52:
+  (l) acquiring, selling, and otherwise dealing with land and property under section 53:
+  (m) receiving claims for compensation under subpart 5:
+  (n) applying to the High Court for compliance orders where compliance with a direction has not occurred, under subpart 8:
+  (o) giving effect to other matters that may be delegated to him or her by the Minister:
+  (p) any other functions provided in this Act.
+
+### 10 Powers to be exercised for purposes of this Act
+(1) The Minister and the chief executive must ensure that when they each exercise or claim their powers, rights, and privileges under this Act they do so in accordance with the purposes of the Act.
+(2) The Minister and the chief executive may each exercise or claim a power, right, or privilege under this Act where he or she reasonably considers it necessary.
+(3) The chief executive may from time to time, either generally or particularly, delegate to any employee of, or person seconded to, CERA any of the functions or powers of the chief executive under this Act or any other Act, including functions or powers delegated to the chief executive under any Act.
+
+### Subpart 3 — Development and implementation of planning instruments
+
+**Recovery Strategy**
+
+### 11 Chief executive to develop Recovery Strategy for Minister's consideration
+(1) The chief executive must develop a Recovery Strategy and submit the document to the Minister for his or her consideration.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve a Recovery Strategy.
+(3) The Recovery Strategy is an overarching, long-term strategy for the reconstruction, rebuilding, and recovery of greater Christchurch, and may (without limitation) include provisions to address—
+  (a) the areas where rebuilding or other redevelopment may or may not occur, and the possible sequencing of rebuilding or other redevelopment:
+  (b) the location of existing and future infrastructure and the possible sequencing of repairs, rebuilding, and reconstruction:
+  (c) the nature of the Recovery Plans that may need to be developed and the relationship between the plans:
+  (d) any additional matters to be addressed in particular Recovery Plans, including who should lead the development of the plans.
+(4) The Recovery Strategy must be developed in consultation with Christchurch City Council, Environment Canterbury, Selwyn District Council, Waimakariri District Council, Te Rūnanga o Ngāi Tahu, and any other persons or organisations that the Minister considers appropriate.
+
+### 12 Process for developing Recovery Strategy
+(1) The process for the development of a draft Recovery Strategy must include 1 or more public hearings, as determined by the chief executive, at which members of the public may appear and be heard.
+(2) A draft Recovery Strategy must be developed within 9 months after the date on which this Act comes into force.
+
+### 13 Public notification of draft Recovery Strategy
+(1) The chief executive must ensure that a draft Recovery Strategy is publicly notified.
+(2) The notification must—
+  (a) advise where the document can be viewed; and
+  (b) invite members of the public to make written comments on the document in the manner and by the date specified in the notice.
+
+### 14 Changes to Recovery Strategy
+(1) The Minister or the chief executive may from time to time review a Recovery Strategy and may propose that it be amended or replaced.
+(2) Following a review, the chief executive must prepare the appropriate documentation giving effect to the proposed action and submit it to the Minister for consideration under section 11.
+(3) Sections 11(2) and (4) and 12, with the necessary modifications, apply to any amendment or replacement of a Recovery Strategy.
+(4) However, sections 11(4) and 12 do not apply to any amendment of a Recovery Strategy to correct any minor errors.
+
+### 15 Effect of Recovery Strategy
+(1) No RMA document or instrument referred to in section 26(2), including any amendment to the document or instrument, that applies to any area within greater Christchurch may be interpreted or applied in a way that is inconsistent with a Recovery Strategy.
+(2) On and from the commencement of the approval of a Recovery Strategy, the Recovery Strategy—
+  (a) is to be read together with and forms part of the document or instrument; and
+  (b) prevails where there is any inconsistency between it and the document or instrument.
+(3) No provision of the Recovery Strategy, as incorporated in an RMA document under subsection (2)(a), may be reviewed, changed, or varied under Schedule 1 of the Resource Management Act 1991.
+
+**Recovery Plans**
+
+### 16 Recovery Plans generally
+(1) The Minister may direct 1 or more responsible entities to develop a Recovery Plan for all or part of greater Christchurch for his or her approval.
+(2) The direction must specify the matters to be dealt with by the Recovery Plan, which matters may include provision, on a site-specific or wider geographic basis within greater Christchurch, for—
+  (a) any social, economic, cultural, or environmental matter:
+  (b) any particular infrastructure, work, or activity.
+(3) A responsible entity may request that the Minister direct it to develop a Recovery Plan.
+(4) Where the Minister directs the development of a Recovery Plan, he or she must ensure that the direction is notified in the Gazette together with a list of all other Recovery Plans being developed or in force.
+
+### 17 Recovery Plan for CBD
+(1) A Recovery Plan for the whole or part of the CBD must be developed, and the Christchurch City Council, in consultation with the affected communities, must lead the development of this plan.
+(2) CERA, Environment Canterbury, and Te Rūnanga o Ngāi Tahu must have the opportunity to provide an input into the development of the Recovery Plan for the CBD.
+(3) The Minister may require the Christchurch City Council to enable other specified persons or organisations to have the opportunity to provide an input into the development of the Recovery Plan for the CBD.
+(4) A draft Recovery Plan for the CBD must be developed within 9 months after the date on which this Act comes into force.
+(5) The process for the development of the proposed Recovery Plan for the CBD must include 1 or more public hearings, as determined by the Christchurch City Council, at which members of the public may appear and be heard.
+(6) The Christchurch City Council must have regard to section 77 of the Local Government Act 2002 in the development of a Recovery Plan for the CBD.
+
+### 18 Relationship between Recovery Plans and Recovery Strategy
+(1) A Recovery Plan must be consistent with the Recovery Strategy.
+(2) However, a Recovery Plan may be developed and approved before the Recovery Strategy is approved.
+(3) If a Recovery Plan is developed before the Recovery Strategy is approved, the Minister must direct that the plan—
+  (a) be reviewed by the chief executive once the Recovery Strategy has been approved; and
+  (b) be amended as required to ensure that it is not inconsistent with the Recovery Strategy.
+(4) The Minister may direct a further review and amendment of a Recovery Plan whenever the Recovery Strategy is amended.
+(5) Amendments under this section must be made using the processes the Minister considers appropriate.
+
+### 19 Development of Recovery Plans
+(1) The Minister may, subject to sections 17 and 20, determine how Recovery Plans are to be developed, including any requirements as to consultation or public hearings.
+(2) In acting under subsection (1), the Minister must have regard to—
+  (a) the nature and scope of the Recovery Plan; and
+  (b) the needs of people affected by it; and
+  (c) the possible funding implications and the sources of funding; and
+  (d) the New Zealand Disability Strategy; and
+  (e) the need to act expeditiously; and
+  (f) the need to ensure that the Recovery Plan is consistent with other Recovery Plans.
+(3) Neither the Minister nor any responsible entity has a duty under this Act to consult any person about the development of a Recovery Plan, except as provided under this section or in section 17 or 20.
+(4) Nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies to the development or consideration of a Recovery Plan.
+
+### 20 Public notification of draft Recovery Plans
+(1) The chief executive of the Christchurch City Council must ensure that any draft Recovery Plan for the CBD is publicly notified and must also ensure that a copy of the draft is provided to the Minister, the chief executive of CERA, Environment Canterbury, and Te Rūnanga o Ngāi Tahu.
+(2) The Minister must ensure that all other draft Recovery Plans are publicly notified.
+(3) The notification must—
+  (a) advise where the document can be viewed; and
+  (b) invite members of the public to make written comments on the document in the manner and by the date specified in the notice.
+
+### 21 Approval of Recovery Plans
+(1) Following the development and consideration of a draft Recovery Plan, the Minister may—
+  (a) make any changes, or no changes, to the draft Recovery Plan as he or she thinks fit; or
+  (b) withdraw all or part of the draft Recovery Plan.
+(2) The Minister may approve a Recovery Plan having regard to the impact, effect, and funding implications of the Recovery Plan.
+(3) The Minister must give reasons for any action taken under subsection (1) or (2).
+(4) The Minister must, as soon as practicable after deciding to approve a Recovery Plan under subsection (2),—
+  (a) give notice in the Gazette of the issuing of the Recovery Plan and where it can be inspected; and
+  (b) publicly notify the Recovery Plan in whatever form he or she thinks appropriate; and
+  (c) present a copy of the Recovery Plan to the House of Representatives.
+
+### 22 Changes to Recovery Plan
+(1) The Minister may from time to time review a Recovery Plan and amend or replace the Recovery Plan.
+(2) Action may be taken under subsection (1) using the processes the Minister considers appropriate, including, if appropriate, consultation with persons or organisations who were identified by the Minister under section 19(1) and consulted in the development of the draft Recovery Plan.
+(3) The Minister may amend a Recovery Plan to correct any minor errors, and need not use any formal process when doing so.
+
+### 23 Councils not to act inconsistently with Recovery Plan on and from its notification
+(1) On and from the notification of a Recovery Plan in the Gazette, any person exercising functions or powers under the Resource Management Act 1991 must not make a decision or recommendation that is inconsistent with the Recovery Plan on any of the following matters under the Resource Management Act 1991:
+  (a) an application for a resource consent for a restricted discretionary, discretionary, or non-complying activity (whether or not the application was first lodged after the Recovery Plan was gazetted):
+  (b) a notice of requirement (whether or not notice was given after the Recovery Plan was gazetted):
+  (c) an application to transfer a resource consent under section 135, 136, or 137:
+  (d) an application to change or cancel the conditions of a resource consent under section 127:
+  (e) a review of a resource consent under section 128:
+  (f) the preparation, change, variation, or review of an RMA document under Schedule 1.
+(2) A council, requiring authority, or heritage protection authority may request the Minister to consider and decide whether a decision or recommendation referred to in subsection (1) would be inconsistent with a Recovery Plan.
+(3) A council, requiring authority, or heritage protection authority may appeal in accordance with section 69 against a decision under subsection (2).
+(4) For the purposes of an application for a resource consent for a restricted discretionary activity, the Recovery Plan is a matter over which discretion is restricted and section 87A(3) of the Resource Management Act 1991 applies accordingly.
+
+### 24 Councils to amend documents if required
+(1) Despite anything to the contrary in Part 5 of the Resource Management Act 1991, a council must amend an RMA document (to the extent that it relates to greater Christchurch), if a Recovery Plan directs so,—
+  (a) to include specific objectives, policies, and methods set out in the Recovery Plan; or
+  (b) to remove any objectives, policies, or methods in the document that the Recovery Plan identifies for deletion; or
+  (c) to change or vary any objectives, policies, or methods in the document to give effect to provisions of the Recovery Plan.
+(2) A council must make the amendments referred to in subsection (1)(a) or (b) as soon as practicable without using the process in Schedule 1 of the Resource Management Act 1991 or any other formal public process.
+(3) A council must make the amendments referred to in subsection (1)(c) within the time specified in the Recovery Plan or (if not specified) as soon as practicable, in accordance with a public process determined by the Minister.
+(4) To avoid doubt, nothing in section 32 or Schedule 1 of the Resource Management Act 1991 applies to action taken under this section.
+(5) Despite clause 21 of Schedule 1 of the Resource Management Act 1991, only the Minister may request a change or variation to any amendment made under subsection (1).
+(6) Nothing in section 85 of the Resource Management Act 1991 applies in respect of any amendment to an RMA document under this section.
+
+### 25 Section 88A(1A) of Resource Management Act 1991 not to apply
+(1) Nothing in section 88A(1A) of the Resource Management Act 1991 applies in respect of any application for a resource consent for any activity specified in a Recovery Plan.
+(2) To avoid doubt, this section applies in relation to any matter before the Environment Court and any further appeals while this Act is in force.
+
+### 26 Relationship to other instruments
+(1) The instruments to which this subsection applies, so far as they relate to greater Christchurch, must not be inconsistent with a Recovery Plan approved by the Minister.
+(2) Subsection (1) applies to—
+  (a) annual plans, long-term plans, and triennial agreements under the Local Government Act 2002, except a funding impact statement in an annual plan or a long-term plan:
+  (b) regional land transport strategies and regional land transport programmes under the Land Transport Management Act 2003:
+  (c) the New Zealand Transport Agency's recommendations under section 18I of the Land Transport Management Act 2003:
+  (d) regional public transport plans adopted under section 9 of the Public Transport Management Act 2008:
+  (e) all or any of the following:
+    (i) general policies approved under section 17B of the Conservation Act 1987 and general policies approved under section 15A of the Reserves Act 1977:
+    (ii) conservation management strategies approved under section 17F of the Conservation Act 1987 and section 40A of the Reserves Act 1977:
+    (iii) conservation management plans approved under section 17G of the Conservation Act 1987 and conservation management plans approved under section 40B of the Reserves Act 1977:
+    (iv) management plans approved under section 41 of the Reserves Act 1977:
+    (v) conservation management plans approved under section 14E of the Wildlife Act 1953:
+    (vi) any other management plan for a reserve under any other enactment.
+(3) A Recovery Plan—
+  (a) is to be read together with and forms part of the instruments to which subsection (1) applies; and
+  (b) prevails where there is any inconsistency between it and an instrument.
+(4) If required by a Recovery Plan, the responsible entity must amend the instrument to give effect to the provisions of the Recovery Plan.
+(5) A responsible entity must make the amendments referred to in subsection (4) in accordance with a process (if any) determined by the Minister.
+
+**Provisions affecting councils and others**
+
+### 27 Suspension of plan, etc
+(1) The Minister may, by public notice, suspend, amend, or revoke the whole or any part of the following, so far as they relate to any area within greater Christchurch:
+  (a) an RMA document:
+  (b) a plan or policy of a council under the Local Government Act 2002, except a funding impact statement in an annual plan or a long-term plan:
+  (c) a regional land transport strategy or regional land transport programme under the Land Transport Management Act 2003:
+  (d) all or any of the following:
+    (i) general policies approved under section 17B of the Conservation Act 1987 and general policies approved under section 15A of the Reserves Act 1977:
+    (ii) conservation management strategies approved under section 17F of the Conservation Act 1987 and section 40A of the Reserves Act 1977:
+    (iii) conservation management plans approved under section 17G of the Conservation Act 1987 and conservation management plans approved under section 40B of the Reserves Act 1977:
+    (iv) management plans approved under section 41 of the Reserves Act 1977:
+    (v) conservation management plans approved under section 14E of the Wildlife Act 1953:
+    (vi) any other management plan for a reserve under any other enactment:
+  (e) a bylaw made under any Act.
+(2) The Minister may, by public notice, suspend or cancel, in whole or in part, any of the following for an activity within greater Christchurch:
+  (a) any resource consent:
+  (b) any use protected or allowed under section 10, 10A, or 10B of the Resource Management Act 1991:
+  (c) any certificate of compliance under that Act.
+(3) The Minister must, if practicable, notify persons directly affected by action taken under subsection (2) by giving them an appropriate written notice.
+(4) The Minister may, by public notice,—
+  (a) revoke any changes or variations approved to a plan under the Conservation Act 1987, the Land Transport Management Act 2003, the Local Government Act 2002, the Reserves Act 1977, or the Wildlife Act 1953; or
+  (b) impose a moratorium on further changes or variations for a specified period.
+(5) If a resource consent is cancelled or revoked, in whole or in part, under this section and the chief executive at his or her discretion so directs,—
+  (a) the person who held the resource consent remains liable for the performance of any conditions under the consent; and
+  (b) the whole or part of any bond paid under section 108 of the Resource Management Act 1991 must be retained.
+(6) The Minister may, by public notice, vary or revoke a notice given under subsection (1), (2), or (4).
+(7) No compensation is payable under this Act in respect of any action taken under this section.
+
+### 28 Council contracts that require chief executive's consent
+(1) The chief executive of CERA may, by notice to a council, specify the types of contracts for which the consent of the chief executive of CERA must be obtained before the contract is entered into.
+(2) The chief executive of the council must ensure that a contract of a type specified in a notice under subsection (1) is not entered into until he or she has obtained the chief executive of CERA's written consent to the contract.
+(3) The chief executive of CERA may consent or refuse to consent to a contract submitted to him or her under this section.
+(4) A contract is unenforceable and of no effect if it is entered into in breach of this section.
+
+### Subpart 4 — Further provisions
+
+**Information gathering, reports, and investigations**
+
+### 29 Requiring information to be given
+(1) The chief executive may, by notice in writing, require any person to give the chief executive any information described in subsection (2).
+(2) The information concerned is information that is—
+  (a) in the possession of the person who is asked to give the information; and
+  (b) capable of being provided without unreasonable difficulty or expense.
+(3) Nothing in this section overrides legal professional privilege or affects any privilege recognised by sections 54 to 64 of the Evidence Act 2006.
+
+### 30 Dissemination of information
+(1) The chief executive may disseminate information and advice on matters relating to work and activities under this Act.
+(2) Before exercising the power conferred by subsection (1), the chief executive must consider the privacy principles under the Privacy Act 1993 and the value of protecting confidential and commercially sensitive information.
+
+### 31 Commissioning reports
+The chief executive may commission any reports that he or she considers appropriate.
+
+### 32 Investigations
+The chief executive may investigate any matter or cause any matter to be investigated.
+
+**Power of entry**
+
+### 33 Authorised person may enter premises
+(1) The chief executive or any person acting under the authority of the chief executive may enter on, and if necessary break into, any premises or place within greater Christchurch if he or she believes on reasonable grounds that the action is necessary for all or any of the following purposes:
+  (a) inspecting the premises or place:
+  (b) permitting or facilitating the carrying out of any work or measure under this Act:
+  (c) exercising or performing any function, duty, or power under this Act.
+(2) However, no marae or occupied dwellinghouse may be entered without the authority of a warrant issued by a District Court Judge on the written application of the chief executive made on oath, unless in the circumstances it is not reasonably practicable to obtain a warrant.
+(3) A Judge may issue a warrant under subsection (2) if satisfied that entry to the premises is necessary for all or any of the purposes referred to in subsection (1).
+(4) A warrant under subsection (2) must be in the prescribed form or (in the absence of a prescribed form) a form approved by the Judge.
+
+### 34 Exercise of power of entry
+(1) The power conferred by section 33 includes the power to take and remove samples and to remove objects other than personal effects, but the person exercising the power to take items must leave on the premises or at the place entered a notice of the items taken.
+(2) A person authorised to enter on any premises or place under section 33 must produce evidence of the authorisation or produce the warrant, as the case requires, if requested to do so, and must leave a notice of entry in a prominent place.
+(3) A person exercising the power to enter any premises or place under this section must, if practicable, enter the premises or place at a reasonable time and give prior notice of entry.
+
+**Surveys**
+
+### 35 Approval of cadastral survey datasets
+(1) The chief executive may direct the chief executive of Land Information New Zealand to approve a cadastral survey dataset for the purposes of the Cadastral Survey Act 2002, and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
+(2) Before making a direction under subsection (1), the chief executive must consult the Surveyor-General.
+(3) Compliance with a direction under subsection (1) is deemed to be compliance for the purposes of section 9(a) of the Cadastral Survey Act 2002 and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
+(4) The Surveyor-General must comply with a direction under subsection (1) in relation to a reference in any other enactment to approval of a cadastral survey dataset and that compliance is deemed to be compliance for the purposes of that enactment.
+(5) A cadastral surveyor carrying out work to which subsection (1) applies is not liable for any non-compliance with standards set under section 49 of the Cadastral Survey Act 2002, to the extent that the non-compliance was necessary for the purposes of this Act.
+
+### 36 New surveys
+(1) This section applies if—
+  (a) the chief executive gives a direction under section 35(1); or
+  (b) in any other case, there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under section 167 of the Land Transfer Act 1952.
+(2) The chief executive may direct the Registrar-General of Land to seek the consent of the adjoining landowners to the new survey definition.
+(3) If the adjoining owners give their consent, the Registrar-General of Land may deposit the cadastral survey dataset and issue new computer registers accordingly.
+(4) If an adjoining owner fails to respond within 10 working days (or any further period allowed by the chief executive) after the date of service of the request for consent or refuses to consent, the chief executive may direct the Registrar-General of Land to issue a new computer register limited as to parcels upon deposit of the cadastral survey dataset.
+(5) Section 167(3) of the Land Transfer Act 1952 (application of the provisions of Part 12 of that Act relating to computer registers that are limited as to parcels) applies to any computer register issued and limited as to parcels in accordance with a direction under subsection (4).
+(6) The chief executive may direct the Registrar-General of Land to disapply the application of section 205(4) of the Land Transfer Act 1952 in respect of any computer register issued and limited as to parcels in accordance with subsection (4), and the Registrar-General of Land must remove the limitation as to parcels from the relevant computer register.
+(7) Subsection (6) is subject to any relevant determination by a court under subpart 6.
+
+### 37 Disputes
+(1) If an adjoining owner wishes to dispute a survey definition determined under section 36, the dispute must be heard and determined in accordance with section 69 and treated as an appeal against a direction under section 36(6).
+(2) Any dispute against the lodgement of a caveat under section 205(4) of the Land Transfer Act 1952 against a computer register that is issued limited as to parcels in accordance with a direction under section 36(4) must be heard and determined in accordance with section 69 and treated as an appeal.
+(3) However, the requirement in section 69(6) that an appeal be brought within 10 working days after the decision appealed against is given does not apply to an appeal under subsection (2).
+
+**Building works, etc**
+
+### 38 Works
+(1) The chief executive may carry out or commission works.
+(2) The works include (without limitation)—
+  (a) the erection, reconstruction, placement, alteration, or extension of all or any part of any building, structure, or other erection on or under land:
+  (b) the demolition of all or part of a building, structure, or other erection on or under land:
+  (c) the removal and disposal of any building, structure, or other erection on or under land, or material.
+(3) The chief executive may remove fixtures and fittings from any building.
+(4) If the chief executive gives written notice to an owner of a building, structure, or other erection on or under land that demolition work is to be carried out there,—
+  (a) the owner must give notice to the chief executive within 10 days after the chief executive's notice is given stating whether or not the owner intends to carry out the works and, if the owner intends to do so, specifying a time within which the works will be carried out; and
+  (b) if the owner fails to give notice under paragraph (a) or the chief executive is not satisfied with the time specified, or the works are not carried out in the time specified or otherwise agreed, then—
+    (i) the chief executive may commission the carrying out of the works; and
+    (ii) in the case of the demolition of a building to which section 40(1) or (2) refers, the chief executive may recover the costs of carrying out the work from the owner of the dangerous building in question; and
+    (iii) the amount recoverable becomes a charge on the land on which the work was carried out.
+(5) To avoid doubt, works under this section may be undertaken on or under public or private land, and with or without the consent of the owner or occupier.
+(6) To avoid doubt, this section does not override any requirements for resource consents or building consents that may apply to works under this section, but any such requirements may be varied by Orders in Council made under this Act.
+
+### 39 Provisions relating to demolition or other works
+(1) This section applies if any works are to be carried out under section 38.
+(2) The chief executive may—
+  (a) put up a hoarding or fence to prevent people from approaching works nearer than is safe:
+  (b) attach in a prominent place on, or adjacent to, the works a notice that warns people not to approach the works:
+  (c) by written notice direct an owner, occupier, or other person to leave the works or land for a specified period or until further notice:
+  (d) give written notice of the work to be carried out.
+(3) If practicable, a copy of a notice under subsection (2)(d) must be given to—
+  (a) the owner of the building or land; and
+  (b) every occupier of the building or land; and
+  (c) every person who has an interest in the land on which the works are situated that is registered under the Land Transfer Act 1952; and
+  (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952.
+(4) If it is necessary to enter any land to carry out any work, any notice under subsection (2)(d) to the occupier must be given not less than 24 hours in advance.
+(5) No notice needs to be given under subsection (4) if the work is necessary because of—
+  (a) sudden emergency causing or likely to cause—
+    (i) loss of life or injury to a person; or
+    (ii) damage to property; or
+    (iii) damage to the environment; or
+  (b) danger to any works or adjoining property.
+(6) The chief executive must ensure that, if the power in subsection (5) is exercised, the occupier and, if the occupier is not the owner, the owner of the land or building are informed of the exercise of that power as soon as practicable.
+(7) Any notice under subsection (2)(c) must be given at least 1 month in advance, but there is no right of appeal or objection against the notice.
+
+### 40 Compensation for demolition of buildings
+(1) If the chief executive demolishes a dangerous building,—
+  (a) the Crown is not liable to compensate the owner or any tenant or other occupier of the building; and
+  (b) the chief executive may recover the cost of demolition from the owner.
+(2) If the chief executive demolishes a non-dangerous building in order to demolish a dangerous building, the Crown is liable to compensate the owner of the non-dangerous building for a loss resulting from the demolition of the non-dangerous building whether or not the loss is insured in whole or in part.
+(3) If the chief executive demolishes a non-dangerous building for any other reason, and the Crown has not acquired the land on which the building is situated, the Crown is liable to compensate the owner of the non-dangerous building for a loss resulting from the demolition of the non-dangerous building whether or not the loss is insured in whole or in part.
+(4) Claims under this section must be made and determined in accordance with this section and subpart 5.
+
+### 41 Compensation for damage to other property caused by demolition of building
+(1) The Crown is liable to pay compensation for negligent physical loss or damage caused to other property that results directly from the demolition of a building by the chief executive, except for damage to property that is in or on or under or part of a dangerous building.
+(2) Claims under this section must be made and determined in accordance with this section and subpart 5.
+
+### 42 Offences relating to works
+(1) A person commits an offence if the person fails to comply with section 38(4)(a) or with a notice given under section 39(2)(c).
+(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200,000.
+(3) It is a defence to a charge against a person in relation to a failure to comply with section 38(4)(a) or with a notice given under section 39(2)(c) if the defendant proves—
+  (a) that the defendant took all reasonable steps to ensure that the defendant complied with that provision or notice; or
+  (b) that, in the circumstances of the particular case, the defendant could not reasonably have been expected to comply with that provision or notice.
+
+### 43 Subdividing land, etc
+(1) The chief executive may subdivide, resubdivide, amalgamate, improve, and develop all or any land acquired by the Crown under this Act.
+(2) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to any subdivision under this clause.
+
+### 44 Temporary buildings
+(1) Despite any other enactment, the chief executive may—
+  (a) erect or authorise the erection and use of temporary buildings on any public reserve, private land, road, or street and provide for their removal; and
+  (b) validate the erection and use of any temporary building on any public reserve, private land, road, or street and provide for its removal, and in that case the erection and use of the building (whether it occurred before or after the commencement of this Act) must be treated as having been authorised by this section.
+(2) No building consent or resource consent is required for the erection or use of any temporary building under subsection (1).
+(3) If practicable, the chief executive must consult the relevant road controlling authority before exercising a power under this section in relation to a road.
+
+### 45 Access to areas or buildings
+The chief executive may restrict or prohibit access by any person or specified class of persons to any specified area, or to any specified building, within greater Christchurch.
+
+### 46 Closing and stopping roads, etc
+(1) The chief executive may, for such period as he or she considers necessary, totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place within greater Christchurch.
+(2) The chief executive may close a road or divert or control the traffic on any road while any work or investigation affecting the road is being undertaken.
+(3) The chief executive may, by giving public notice or in any other manner that he or she determines, stop any road or part of a road in greater Christchurch.
+(4) The stopping of a road under subsection (3) has effect as if the road had been stopped in accordance with section 342 and Schedule 10 of the Local Government Act 1974 and as if the chief executive were a council within the meaning of that section.
+(5) The chief executive must consult the relevant road controlling authority—
+  (a) before stopping a road or part of a road under this section:
+  (b) if practicable, before exercising any other power under this section in relation to a road.
+(6) To avoid doubt,—
+  (a) there is no right of appeal or objection against a decision made under subsection (3):
+  (b) nothing in section 345 of the Local Government Act 1974 applies to the disposal of land resulting from a stopping of a road under this section.
+
+### 47 Offences relating to access and roads
+(1) A person commits an offence if the person contravenes a restriction or prohibition imposed under section 45 or 46.
+(2) A person who commits an offence under this section is liable on summary conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or both:
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+
+**Directions**
+
+### 48 Directions to take or stop taking action
+(1) The Minister may direct any council or council organisation to take or stop taking any action, or to make or not to make a decision.
+(2) Subsection (1) applies (without limitation) to any action or inaction that is required, authorised, or prevented by or under—
+  (a) a resource consent that is current or has expired, whether or not the consent has been or is being exercised; or
+  (b) section 9 or 124 of the Resource Management Act 1991; or
+  (c) an abatement notice or enforcement order; or
+  (d) a rule in a plan that permits an activity; or
+  (e) a designation or heritage order; or
+  (f) a certificate of compliance under that Act; or
+  (g) an existing use protected or allowed under section 10, 10A, or 10B of that Act.
+(3) Despite subsection (1), the Minister must not direct any council to—
+  (a) set a rate under section 23 of the Local Government (Rating) Act 2002; or
+  (b) take any action or make any decision in relation to rates described in a funding impact statement included in an annual plan or a long-term plan under the Local Government Act 2002.
+(4) A council or council organisation must comply with directions given under subsection (1).
+
+### 49 Minister may require council or council organisation to perform function, etc
+(1) The Minister may, by written notice to a council or council organisation, require it to perform or exercise specified responsibilities, duties, or powers of the council or organisation within the time specified by the Minister.
+(2) However, a notice under subsection (1) must not apply to any responsibilities, duties, or powers of a council—
+  (a) under section 23 of the Local Government (Rating) Act 2002; or
+  (b) in relation to rates described in a funding impact statement included in an annual plan or long-term plan under the Local Government Act 2002.
+
+### 50 Call-in notices
+(1) If a council or council organisation has not complied with a notice given under section 49, the Minister may assume the responsibilities, duties, or powers specified in the notice by issuing a call-in notice.
+(2) A call-in notice must specify the responsibilities, duties, or powers assumed by the Minister and be given to the council or council organisation concerned.
+(3) The council or council organisation concerned must not do anything inconsistent with the terms of the call-in notice.
+(4) The Minister must relinquish any responsibility, duty, or power taken under subsection (1) as soon as he or she is satisfied that the need for it has passed.
+(5) The Minister must, as soon as practicable after issuing a call-in notice, present a copy to the House of Representatives.
+
+### 51 Requiring structural survey
+The chief executive may require any owner, insurer, or mortgagee of a building that he or she considers has or may have experienced structural change in the Canterbury earthquakes to carry out a full structural survey of the building before it is re-occupied for business or accommodation by the owner, a tenant, or any member of the public.
+
+**Provisions relating to real or personal property**
+
+### 52 Power to direct owner to act for benefit of adjoining or adjacent owners
+(1) This section applies if the chief executive considers that it is desirable that the owners of any 2 or more adjoining or adjacent properties should act for the benefit of each other, whether because it would assist the implementation of a Recovery Plan or because they have sufficiently linked interests in relation to those properties as a result of any of the Canterbury earthquakes.
+(2) The chief executive may direct any of them to act for the benefit of any other adjoining or adjacent owners in the manner specified by the chief executive.
+
+### 53 Acquiring or disposing of property
+(1) The chief executive may, in the name of the Crown, purchase or otherwise acquire, hold, sell, exchange, mortgage, lease, and dispose of land and personal property.
+(2) Subsection (3) applies if land acquired by the chief executive is no longer required for that purpose and is available for disposal.
+(3) To avoid doubt, nothing in sections 40 to 42 of the Public Works Act 1981 applies to the disposal of land to which this subsection applies, whether by sale, exchange, or otherwise, except as provided in section 58.
+(4) The Minister may, by notice in the Gazette, declare land held under this Act to be set apart for a Government work in terms of the Public Works Act 1981.
+(5) The Minister may, by notice in the Gazette, declare land held for a public work in terms of the Public Works Act 1981 to be held under this Act.
+(6) To avoid doubt, any requirements to offer land back under the Public Works Act 1981 continue to apply to any land declared under subsection (5) to be held under this Act.
+
+### 54 Notice of intention to take land
+(1) The Minister may acquire land compulsorily by causing a notice of intention to take land in the name of the Crown to be published in the Gazette and twice publicly notified, which notice must give—
+  (a) a general description of the land required to be taken (including the name of and number in the road or some other readily identifiable description of the place where the land is situated); and
+  (b) a description of the purpose for which the land is to be used.
+(2) The Minister must serve on the owner of, and persons with a registered interest in, the land a notice of the intention to take the land in the form set out in Schedule 1, unless it is impracticable to do so.
+(3) The Minister must lodge a copy of the relevant notice in the Gazette under subsection (1) with the Registrar-General of Land, who must register it without fee against the computer register affected.
+(4) Any notice under this section may be withdrawn by the Minister, and, if it is withdrawn, a notice to that effect must be lodged with the Registrar-General of Land, who must register it without fee against the computer register to the land.
+(5) To avoid doubt, there is no right of objection to a notice of intention to take land.
+(6) A notice of intention to take land under this section ceases to have effect on the expiration of 3 years after the date of the publication of the relevant notice in the Gazette unless, on or before the expiration of that period,—
+  (a) a Proclamation taking the land has been published in the Gazette; or
+  (b) the Minister has, by further notice in writing served on the owner of the land intended to be taken, and persons with a registered interest in the land, confirmed the intention of taking the land.
+(7) If the Minister has confirmed the intention of taking the land, the notice of intention so confirmed ceases to have effect unless, on or before the expiration of 2 years after the date of that confirmation, a Proclamation taking the land has been published in the Gazette.
+
+### 55 Proclamation
+(1) If the Minister considers that land should be taken in the name of the Crown, the land intended to be taken may be taken in accordance with this section.
+(2) If necessary, a cadastral survey dataset showing accurately the position and extent of the land to be taken must be prepared and be lodged with the chief executive of Land Information New Zealand for the purposes of the Cadastral Survey Act 2002.
+(3) So long as the relevant notice in the Gazette has been registered in accordance with section 54(3), the Minister may recommend that the Governor-General issue a Proclamation taking the land.
+(4) The Governor-General may, on the recommendation of the Minister, by Proclamation declare that the land described in it is taken in the name of the Crown.
+(5) Every Proclamation under this section must be published in the Gazette and publicly notified within 1 month after the date of its making, and every such public notification must contain some readily identifiable description of the land taken, but a Proclamation is not invalidated by any error, defect, or delay in its gazetting or public notification.
+(6) Unless otherwise provided in the Proclamation or in this Act or in any other Act, the land specified in a Proclamation under this section becomes absolutely vested in fee simple in the Crown and freed and discharged from all mortgages, charges, claims, estates, or interests of whatever kind, on the 14th day after the day on which the Proclamation is published in the Gazette.
+(7) If land is compulsorily acquired under this section, the Crown succeeds to all rights, entitlements, and benefits that the owner has or may have against—
+  (a) the insurer of the land; or
+  (b) the insurer of any building or other property on the land.
+
+### 56 Proclamation to be registered
+(1) The Minister must lodge every Proclamation with the Registrar-General of Land, who must register it without fee against the computer register to the land.
+(2) If the land is not subject to the Land Transfer Act 1952, the Registrar-General of Land must enter the Proclamation in the index book of the Deeds Register Office and upon such registration the land becomes subject to the Land Transfer Act 1952.
+(3) An error in any Proclamation does not of itself prevent registration in respect of titles to land validly affected.
+(4) If land is not subject to the Land Transfer Act 1952 and dealings with it are not registrable under the Deeds Registration Act 1908, the Proclamation must be lodged with the Surveyor-General to be recorded in the cadastre.
+(5) To avoid doubt, the registration of a Proclamation does not result in the cancellation of the title affected.
+
+### 57 Vacant possession
+If the owner or occupier fails to give vacant possession of the land specified in a Proclamation under section 55 within 1 month following the publication of the Proclamation in the Gazette, the Minister may seek an order from the High Court directing the owner or occupier to give vacant possession.
+
+### 58 Certain land must be offered back
+(1) This section applies if any residential land in the CBD, or any land in greater Christchurch outside the CBD, is compulsorily acquired under section 55.
+(2) If the chief executive wishes to exercise his or her power under this Act to dispose of land to which this section applies, the chief executive must offer to sell the land by private contract to the person from whom it was acquired or that person's successor—
+  (a) at the current market value of the land as determined by a valuation carried out by a registered valuer; or
+  (b) if the chief executive considers it reasonable to do so, at any lesser price.
+(3) Subsection (2) does not apply if—
+  (a) the chief executive considers that to offer the land back would be impracticable, unreasonable, or unfair; or
+  (b) the land is to be set apart for a Government work under section 53(4).
+(4) Section 40(2A), (4), and (5) of the Public Works Act 1981 applies with all necessary modifications to an offer back under this section.
+(5) If any offer to sell land under subsection (2) has not been accepted within 20 working days of the receipt of the offer, the chief executive may dispose of the land on any terms and conditions that he or she thinks fit.
+
+### 59 Application of Ngāi Tahu Claims Settlement Act 1998
+(1) Nothing in this Act affects the operation of the Ngāi Tahu Claims Settlement Act 1998.
+(2) To avoid doubt, if the chief executive wishes to exercise his or her power under this Act to dispose of land to which that Act applies, he or she must do so in accordance with the Ngāi Tahu Claims Settlement Act 1998.
+
+### Subpart 5 — Compensation under this Act
+
+### 60 When this subpart applies
+This subpart applies if—
+  (a) land is compulsorily acquired under this Act; or
+  (b) compensation is payable under section 40 or 41.
+
+### 61 Meaning of compensation
+In this subpart, compensation—
+  (a) means compensation for actual loss; but
+  (b) except as provided by this Act, does not include compensation for—
+    (i) a loss by an insurer arising from a liability to indemnify:
+    (ii) any part of a loss that is insured:
+    (iii) any part of a loss that ought reasonably to have been insured:
+    (iv) a consequence of regulatory change arising from the operation of this Act causing loss:
+    (v) cancellation of an existing resource consent that has already been exercised:
+    (vi) cancellation of an existing use right:
+    (vii) economic or consequential loss:
+    (viii) loss of personal property exceeding $20,000 in value:
+    (ix) business interruption:
+    (x) any other loss that the Minister reasonably considers is unwarranted and unjustified.
+
+### 62 Entitlement to compensation
+A person who suffers loss resulting from a matter referred to in section 60 is entitled to compensation from the Crown.
+
+### 63 Procedure for claiming compensation
+(1) A claim for compensation under this subpart must be lodged by sending or delivering to CERA a properly completed claim in a form provided by the chief executive.
+(2) The claim must be lodged within 2 years after the exercise of the power in question.
+
+### 64 Minister determines compensation
+(1) The Minister must determine—
+  (a) whether compensation is payable; and
+  (b) the amount of compensation to be paid.
+(2) Compensation is determined,—
+  (a) in the case of the compulsory acquisition of land, as at the date of the compulsory acquisition; and
+  (b) in any other case, as at the date of the notice of demolition or the date of the loss or damage, as the case may be.
+(3) For compensation for the compulsory acquisition of land, the Minister must determine compensation having regard to its current market value as determined by a valuation carried out by a registered valuer; and so far as practicable, the Minister must determine compensation in accordance with the relevant provisions of Part 5 of the Public Works Act 1981.
+(4) Before making a final determination under subsection (1), the Minister must give a claimant a reasonable opportunity to appear before the Minister or the Minister's delegate to make representations as to the nature of the claim and the amount of compensation payable.
+(5) A claimant may make representations under subsection (4) personally or through a representative (including a lawyer, accountant, or other expert).
+
+### 65 Time for making determination
+The Minister must ensure that claims for compensation are determined within a reasonable period.
+
+### 66 Exercise of power unaffected by claim for compensation
+The exercise of the power giving rise to a claim for compensation under this subpart is unaffected by the making and determination of the claim and, in particular, must not be subject to any delay or other impediment dependent on resolution of the claim.
+
+### 67 No compensation except as provided by this Act
+(1) Nothing in this Act, apart from this subpart or section 40 or 41, confers any right to compensation or is to be relied on in any proceedings as a basis for any claim to compensation.
+(2) Nothing in section 185 of the Resource Management Act 1991 applies in relation to any matter to which this subpart applies.
+
+### Subpart 6 — Appeal rights
+
+### 68 Appeal
+(1) There is no right of appeal against a decision of the Minister or the chief executive acting, or purporting to act, under this Act, except as provided in sections 69, 70, 79, and 80.
+(2) A proceeding must not be brought, and a court must not hear any proceeding, that is in breach of this section.
+(3) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force nothing in section 16 or 17 or Part 12 of the Resource Management Act 1991 applies to an activity or use that has been the subject of a decision of a type described in section 69(1)(c) or (d) in relation to that matter.
+(4) Despite anything to the contrary in the Resource Management Act 1991, while this Act is in force there is no right of appeal under the Resource Management Act 1991 against a decision of a type described in section 69(1)(c) or (d), except as provided in sections 69 and 70.
+(5) To avoid doubt, subsection (4) does not apply to or affect appeals or objections commenced under that Act before the commencement of this Act.
+(6) To avoid doubt, there is no right of appeal, whether under this Act or the Resource Management Act 1991, against any decision under section 17, 18, 21, 22, 24, 27, or 43.
+
+### 69 Exceptions to exclusion of appeals
+(1) Any person referred to in subsection (2) may appeal to the High Court—
+  (a) against a determination of compensation under section 64; or
+  (b) against a decision of a Minister under section 23(2); or
+  (c) against a decision on an application for a resource consent or a notice of requirement for an activity or use that is specified in a Recovery Plan as being subject to this section, and in respect of which a person would otherwise have a right of appeal or objection under the Resource Management Act 1991; or
+  (d) against a decision under the Resource Management Act 1991 that has been called in by the Minister under this Act; or
+  (e) against a decision to give a call-in notice under section 50; or
+  (f) in respect of any dispute referred to in section 37.
+(2) The persons who may appeal under subsection (1) are,—
+  (a) in the case of an appeal under subsection (1)(a), the claimant:
+  (b) in the case of an appeal under subsection (1)(b), the council, requiring authority, or heritage protection authority concerned:
+  (c) in the case of an appeal under subsection (1)(c) or (d), the person who would otherwise have had a right of appeal or objection under the Resource Management Act 1991:
+  (d) in the case of an appeal under subsection (1)(e), the council or council organisation concerned and the person who is the subject of the decision that was called in:
+  (e) in the case of an appeal under subsection (1)(f), any adjoining owner who disputes the survey concerned.
+(3) For the purposes of hearing an appeal under subsection (1), the court may appoint 1 or more suitably qualified persons (including an Environment Commissioner or other expert) to assist it by giving advice if the court considers that it is desirable to have expert assistance.
+(4) The advisers must give their advice in the manner that the court may direct during the proceeding on any question referred to them.
+(5) The advice is information provided to the court; and may be given the weight that the court thinks fit.
+(6) An appeal under this section must be brought in accordance with the rules of court, except that the appeal must be brought within 10 working days after the decision appealed against is given.
+(7) Any decision to which an appeal relates has full effect unless and until set aside by a court.
+
+### 70 Appeal from High Court and in some cases from Court of Appeal
+(1) An appeal to the Court of Appeal may be brought against a decision of the High Court in a case referred to in section 69,—
+  (a) as of right, on a substantive question of law:
+  (b) on any other question, only with the leave of the Court of Appeal, to be given if that court considers the appeal necessary in the interests of justice.
+(2) An appeal under this section must be brought in accordance with the rules of court, except that the appeal must be brought within 10 working days after the decision appealed against is given.
+(3) The decision of the Court of Appeal is final in the case of any appeal referred to in section 69(1)(b) to (f).
+(4) In the case of an appeal referred to in section 69(1)(a), an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the Supreme Court Act 2003.
+
+### Subpart 7 — Delegated legislation
+
+### 71 Governor-General may make Orders in Council for purpose of Act
+(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the relevant Minister, make any provision that is reasonably necessary or expedient for all or any of the purposes stated in section 3(a) to (g).
+(2) An Order in Council made under subsection (1) may grant exemptions from, modify, or extend any provisions of any enactment for all or any of the purposes stated in section 3(a) to (g).
+(3) The enactments that may be the subject of an Order in Council that does anything referred to in subsection (2) include (without limitation) the following:
+  (a) the Building Act 2004:
+  (b) the Cadastral Survey Act 2002:
+  (c) the Civil Defence Emergency Management Act 2002:
+  (d) the Commerce Act 1986:
+  (e) the Earthquake Commission Act 1993:
+  (f) the Health Act 1956:
+  (g) the Health and Disability Services (Safety) Act 2001:
+  (h) the Historic Places Act 1993:
+  (i) the Land Transport Act 1998:
+  (j) the Land Transport Management Act 2003:
+  (k) the Local Government Act 1974:
+  (l) the Local Government Act 2002:
+  (m) the Local Government Official Information and Meetings Act 1987:
+  (n) the Local Government (Rating) Act 2002:
+  (o) the Public Works Act 1981:
+  (p) the Rating Valuations Act 1998:
+  (q) the Reserves Act 1977:
+  (r) the Resource Management Act 1991:
+  (s) the Road User Charges Act 1977:
+  (t) the Social Security Act 1964:
+  (u) the Soil Conservation and Rivers Control Act 1941:
+  (v) the Transport Act 1962:
+  (w) the Waste Minimisation Act 2008.
+(4) An exemption from, modification of, or extension of a provision may be—
+  (a) absolute or subject to conditions; and
+  (b) made by—
+    (i) stating alternative means of complying with the provision; or
+    (ii) substituting a discretionary power for the provision.
+(5) To avoid doubt, an exemption from, modification of, or extension of a provision may be for the purposes of enabling the relaxation or suspension of provisions in enactments that—
+  (a) may divert resources away from the effort to—
+    (i) efficiently respond to the damage caused by the Canterbury earthquakes:
+    (ii) minimise further damage; or
+  (b) may not be reasonably capable of being complied with, or complied with fully, owing to the circumstances resulting from the Canterbury earthquakes.
+(6) Despite subsections (2) to (5), an Order in Council made under this section may not—
+  (a) grant an exemption from or modify a requirement to—
+    (i) release a person from custody or detention; or
+    (ii) have any person’s detention reviewed by a court, Judge, or Registrar; or
+  (b) grant an exemption from or modify a restriction on keeping a person in custody or detention; or
+  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicature Amendment Act 1972, or the New Zealand Bill of Rights Act 1990; or
+  (d) contain any provision having the effect of amending this section or section 3, 6, 72 to 76, or 93.
+(7) Subsections (2) to (5) do not limit subsection (1).
+
+**Canterbury Earthquake Recovery Review Panel**
+
+### 72 Canterbury Earthquake Recovery Review Panel
+(1) The Minister must appoint a Canterbury Earthquake Recovery Review Panel of 4 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006).
+(2) A member of the Canterbury Earthquake Recovery Review Panel must be appointed by notice of appointment in writing that—
+  (a) states the date on which the appointment takes effect; and
+  (b) states the term of the appointment.
+(3) The Minister must appoint one of the appointed members to be the convener of the Canterbury Earthquake Recovery Review Panel.
+(4) An appointed member vacates office if he or she—
+  (a) is removed by written notice given by the Minister; or
+  (b) resigns by written notice given to the Minister.
+(5) The chief executive must provide administrative support for the Canterbury Earthquake Recovery Review Panel.
+
+### 73 Function of Canterbury Earthquake Recovery Review Panel
+(1) The function of the Canterbury Earthquake Recovery Review Panel is to provide advice on request to both the Minister and the relevant Minister in relation to Orders in Council that may be required for the purpose of this Act.
+(2) All draft Orders in Council must be reviewed by the Canterbury Earthquake Recovery Review Panel before they are recommended under section 71.
+(3) Within 3 working days after the date on which a draft Order in Council is received for review or any longer time allowed by the Minister,—
+  (a) the Canterbury Earthquake Recovery Review Panel must review the draft; and
+  (b) the convener must give both the Minister and the relevant Minister a report that includes the panel's recommendations.
+(4) A review by the Canterbury Earthquake Recovery Review Panel may be conducted in any manner the convener thinks appropriate, including by telephone or video conference.
+(5) The convener has a casting vote if there are more than 2 members voting and there is an equality of votes.
+(6) The Minister must publicly notify the Canterbury Earthquake Recovery Review Panel's recommendations on a draft Order in Council.
+(7) The Minister must, as soon as practicable after receiving the Canterbury Earthquake Recovery Review Panel's recommendations on a draft Order in Council, present a copy to the House of Representatives.
+
+### 74 Procedure for recommending Order in Council
+(1) In making a recommendation under section 71, the relevant Minister must—
+  (a) take into account the purposes of this Act; and
+  (b) have regard to the recommendations of the Canterbury Earthquake Recovery Review Panel.
+(2) The recommendation of the relevant Minister may not be challenged, reviewed, quashed, or called into question in any court.
+
+### 75 Further provisions about Orders in Council
+(1) This section applies to Orders in Council made under section 71.
+(2) An order may not be held invalid just because—
+  (a) it is, or authorises any act or omission that is, inconsistent with any other Act; or
+  (b) it confers any discretion on, or allows any matter to be determined or approved by, any person.
+(3) An order may be expressed to come into force on a day that is before, on, or after the date on which it is made, but not earlier than 4 September 2010; and the order comes into force or, as the case may be, is deemed to have come into force accordingly.
+(4) An order may be retrospective only to the extent provided for in subsection (3).
+(5) So far as it is authorised by this Act, an order has the force of law as if it were enacted as a provision of this Act.
+
+### 76 Regulations (Disallowance) Act 1989 applies
+Despite section 75(5), the Regulations (Disallowance) Act 1989 applies to an Order in Council made under section 71.
+
+### Subpart 8 — Miscellaneous provisions
+
+**Compliance orders**
+
+### 77 Power of chief executive to order compliance
+(1) If any person has not complied with any lawful direction given under this Act, the chief executive may, for the purpose of enforcing compliance with or preventing any further non-compliance with the direction, make a compliance order requiring that person—
+  (a) to do any specified thing; or
+  (b) to cease any specified activity.
+(2) A compliance order may be made on the terms and conditions that the chief executive thinks fit, including the provision of security or the entry into a bond for performance.
+
+### 78 Service of compliance order
+A compliance order must be served on the person who is the subject of the order.
+
+### 79 Appeal to High Court
+(1) A person who is the subject of a compliance order may appeal to the High Court against the making of the order.
+(2) An appeal under this section must be brought in accordance with the rules of court, except that the appeal must be brought within 10 working days after the decision appealed against is given.
+(3) The High Court may confirm, modify, or reverse the order appealed against.
+
+### 80 Appeal to Court of Appeal
+(1) An appeal to the Court of Appeal may be brought against a decision of the High Court under section 79.
+(2) An appeal under this section must be brought in accordance with the rules of court, except that the appeal must be brought within 10 working days after the decision appealed against is given.
+(3) The Court of Appeal may confirm, modify, or reverse the decision appealed against.
+(4) The decision of the Court of Appeal is final.
+
+### 81 Offence of breaching compliance order
+(1) A person commits an offence against this Act who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order issued under section 77.
+(2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
+
+**Other matters**
+
+### 82 Power of courts to extend or shorten time
+(1) In relation to any proceeding before it, a court may, in its discretion, extend or shorten the time appointed by rules of court or other enactment, or fixed by any court order, for doing any act or taking any step on such terms (if any) as the court thinks just if satisfied that it is necessary to do so because of circumstances relating to any Christchurch earthquakes.
+(2) The court must take into account the need for a timely recovery of greater Christchurch.
+(3) In this section, court includes a tribunal.
+
+### 83 Protection from liability
+(1) Except as otherwise provided in this Act, no action lies against the Crown, or an officer or employee or Minister of the Crown, or against any other person,—
+  (a) to recover any damages or other amount for any loss, damage, or adverse effect that is due directly or indirectly to any action taken under this Act; or
+  (b) to require any work to be carried out or other action to be taken in order to remedy or mitigate any loss, damage, or adverse effect that results directly or indirectly from any action taken under this Act.
+(2) No person who takes any action under this Act is liable under the Resource Management Act 1991 for any fine, costs, or expenses in respect of that action, except as otherwise provided in this Act.
+(3) Subsection (1) applies whether the loss, damage, or adverse effect is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance, or intended exercise or intended performance, of his or her functions, duties, or powers under this Act.
+(4) No person is exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
+(5) If, under this Act, the Minister or the chief executive becomes a party to any agreement or arrangement entered into by a council for the purposes of carrying out demolition or other works, the Minister or chief executive is entitled to the full benefit of any provision in the agreement or arrangement that limits or excludes any liability of the council (such as liability for damage caused by, or for the costs of, demolition work) under the agreement or arrangement.
+(6) If a council assumes any liability of the Minister or chief executive in relation to demolition or other works under this Act, the council is entitled to the full benefit of any provision in an agreement or arrangement that limits or excludes any liability of the Minister or the chief executive (such as liability for damage caused by, or for the costs of, demolition work) under the agreement or arrangement.
+(7) No action lies against a council or council organisation that acts in accordance with a direction under section 48(1) for any loss or damage resulting from acting in accordance with the direction, unless it acts in bad faith or with gross negligence.
+(8) In this section, references to this Act include Orders in Council made under this Act or the Canterbury Earthquake Response and Recovery Act 2010.
+
+### 84 Actions of emergency management personnel
+(1) Every action taken or decision made or purportedly taken or made under the Civil Defence Emergency Management Act 2002 by the National Controller, the Director, or any person acting under the authority of the National Controller or the Director, if taken or made or purportedly taken or made while the state of national emergency was in force in respect of Christchurch in 2011, is declared to be and always to have been valid.
+(2) Subsection (1) does not apply in respect of any action or decision that is taken or made in bad faith or with gross negligence or that is inconsistent with any provision of the New Zealand Bill of Rights Act 1990.
+
+### 85 Continuation of emergency management measures
+(1) This section applies to every authorisation, direction, requirement, restriction, or prohibition that—
+  (a) was given, made, or issued under the Civil Defence Emergency Management Act 2002 by the National Controller or the Director while the state of national emergency was in force in respect of Christchurch in 2011; and
+  (b) had effect immediately before the commencement of this Act.
+(2) The authorisation, direction, requirement, restriction, or prohibition continues to have effect for 12 weeks after the commencement of this Act, but the Minister or the chief executive may amend or cancel any of them during that period.
+
+### 86 Civil defence emergency management not affected by this Act if further emergency occurs
+Nothing in this Act affects the operation of the Civil Defence Emergency Management Act 2002 in relation to any emergency in greater Christchurch that occurs after the commencement of this Act.
+
+### 87 Transfer of Crown contracts, etc
+(1) The Minister or the chief executive may transfer to a council, and the council may accept, any of the Crown's benefits and liabilities under any contract, agreement, conveyance, deed, lease, licence, or other instrument or undertaking entered into by the Crown for any purpose of this Act.
+(2) A transfer under subsection (1) is made by notice in writing delivered to the council and every other party to the contract, agreement, conveyance, deed, lease, licence, or other instrument or undertaking.
+(3) A transfer under subsection (1) is binding on every party to the contract, lease, or arrangement.
+(4) Nothing effected or authorised by a transfer under subsection (1)—
+  (a) may be regarded as placing any person in breach of contract or confidence or as otherwise making any of them liable for a civil wrong; or
+  (b) may be regarded as giving rise to a right for any person to terminate or cancel a contract or arrangement, or to accelerate the performance of any obligation; or
+  (c) may be regarded as placing any person in breach of an enactment, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or
+  (d) releases a surety wholly or in part from any obligation; or
+  (e) invalidates or discharges any contract.
+
+### 88 Quarterly report on operation of this Act
+(1) The Minister must prepare and present to the House of Representatives quarterly reports on the operation of this Act.
+(2) Each report must include a description of powers exercised by or on behalf of the Minister or the chief executive under this Act during the period reported on.
+
+### 89 Repeal and savings
+(1) The Canterbury Earthquake Response and Recovery Act 2010 (2010 No 114) is repealed.
+(2) Every Order in Council made under that Act and in force immediately before the commencement of this section continues in force, must be treated as having been made under this Act, and may be amended or revoked under this Act.
+(3) The repeal of that Act does not affect any act, decision, or thing done under that Act or done under any Order in Council made under that Act, and those acts, decisions, or things are validated.
+(4) Despite the repeal of that Act, section 19 of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
+
+### 90 Orders in Council amended
+The Orders in Council specified in Schedule 2 are amended in the manner indicated in that schedule.
+
+### 91 Commission dissolved
+(1) The Canterbury Earthquake Recovery Commission established by section 9 of the Canterbury Earthquake Response and Recovery Act 2010 is dissolved.
+(2) Despite the repeal of that Act by section 89, section 18 of that Act is deemed to continue to apply to acts done or omitted by any commissioner in good faith in the performance or intended performance of his or her functions, responsibilities, or duties as a commissioner, or in the exercise or intended exercise of his or her powers as a commissioner.
+
+### 92 Annual reviews of Act
+(1) The Minister must, within 12 months after the commencement of this Act and once in every 12 months after that, carry out a review of the operation and effectiveness of this Act and prepare a report on that review.
+(2) The report must include any recommendations for amendments to this Act.
+(3) The Minister must present the report to the House of Representatives as soon as practicable after it has been completed.
+
+### 93 Expiry and revocations
+(1) This Act expires on the close of the day that is 5 years after the date of its commencement.
+(2) On the expiry of this Act, Orders in Council made under section 71 or continued by section 89, and in force immediately before that expiry, are revoked.
+
+## Schedule 1 — Form
+
+## Schedule 2 — Orders in Council amended
