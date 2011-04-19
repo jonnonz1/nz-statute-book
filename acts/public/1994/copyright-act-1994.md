@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-04-19_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -965,6 +965,7 @@ Where an article on a scientific or technical subject is published in a periodic
     (ii) that is in 2 dimensions,—
   (b) the making of a copy of a literary work to which subsection (1) applies, where the copy is made directly from that literary work.
 (3) Where a patent that has ceased to have effect is restored by an order made under section 35 of the Patents Act 1953, nothing done pursuant to subsection (1) in the period beginning with the day on which the patent ceased to have effect and ending with the close of the day on which the order is made shall constitute an infringement of copyright in any literary or artistic work or copy of the work forming part of the patent specification.
+(4) If the registered protection in New Zealand of a design that has ceased to have effect is restored by an order made under section 41A of the Designs Act 1953, nothing done under subsection (1) in the period beginning with the day on which the protection ceased to have effect and ending with the close of the day on which the order is made constitutes an infringement of copyright in any literary or artistic work or copy of the work forming part of the design.
 
 ### 75 Special exception from protection of artistic work that has been applied industrially
 (1) The making of—does not infringe copyright in an artistic work if, when the object or copy is made, the artistic work has been applied industrially, in New Zealand or in any other country, by or with the licence of the copyright owner,—
