@@ -1,5 +1,5 @@
 # Canterbury Earthquake Response and Recovery Act 2010
-_Consolidation as at 2010-09-14_
+_Consolidation as at 2011-04-19_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Response and Recovery Act 2010.
@@ -185,3 +185,21 @@ Nothing in this Act confers any right to compensation or is to be relied on in a
 
 ### 21 Expiry and revocation
 This Act expires, and any Order in Council made under section 6 is revoked, on the date that sections 6 to 16 cease to apply.
+
+### 1 Title
+This Act is the Canterbury Earthquake Recovery Act 2011.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Functions and powers to assist recovery and rebuilding
+
+### Subpart 8 — Miscellaneous provisions
+
+**Other matters**
+
+### 89 Repeal and savings
+(1) Amendment(s) incorporated in the Act(s).
+(2) Every Order in Council made under that Act and in force immediately before the commencement of this section continues in force, must be treated as having been made under this Act, and may be amended or revoked under this Act.
+(3) The repeal of that Act does not affect any act, decision, or thing done under that Act or done under any Order in Council made under that Act, and those acts, decisions, or things are validated.
+(4) Despite the repeal of that Act, section 19 of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
