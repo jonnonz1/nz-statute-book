@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2011-02-24_
+_Consolidation as at 2011-04-23_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -172,12 +172,12 @@ This Act binds the Crown.
   (a) establish any committee that the Minister considers necessary or desirable for any purpose relating to this Act or its administration or to any services; and
   (b) appoint any person to be a member or chairperson of the committee; and
   (c) terminate the committee or the appointment of a member or chairperson of the committee.
-(2) Every committee established under this section (other than the committees referred to in sections 13 to 18) has the functions that the Minister determines by written notice to the committee.
+(2) Every committee established under this section (other than the committees referred to in sections 13 to 16) has the functions that the Minister determines by written notice to the committee.
 (3) Every committee established under this section—
   (a) consists of such members as the Minister determines; and
   (b) may, subject to any written directions that the Minister gives to the committee, regulate its procedure in any manner that the committee thinks fit.
 (4) Each member of a committee established under this section is appointed on any terms and conditions (including terms and conditions as to remuneration and travelling allowances and expenses) that the Minister determines by written notice to the member.
-(5) Nothing in this section or in sections 13 to 18 limits any powers that the Minister has under any other enactment or rule of law.
+(5) Nothing in this section or in sections 13 to 16 limits any powers that the Minister has under any other enactment or rule of law.
 
 ### 12 Information about committees to be made public
 (1) As soon as practicable—
@@ -240,31 +240,10 @@ This Act binds the Crown.
 (7) As soon as practicable after receiving a report under subsection (6), the Minister must present a copy of the report to the House of Representatives.
 
 ### 17 National health epidemiology and quality assurance advisory committee
-(1) The Minister must appoint a committee established under section 11 to advise the Minister on any health epidemiology and quality assurance matters.
-(2) The advice given by the committee to the Minister under subsection (1) is to be formulated after consultation by the committee with DHBs and other persons involved in the provision of services and any other persons that the committee considers appropriate.
-(3) The advice from the committee to the Minister may deal with any health epidemiology and quality assurance matter, but must specifically deal with morbidity and mortality issues concerning the following sectors:
-  (a) perinatal:
-  (b) infant:
-  (c) child and adolescent.
-(4) The Minister may, by written notice to the committee from time to time, direct the committee to provide advice to the Minister on the matter specified in that notice.
-(5) The committee, in providing advice to the Minister, must ensure, to the maximum extent practicable, that there is national co-ordination in the reporting of relevant health epidemiology and quality assurance matters and that there is a capacity to improve health outcomes through quality assurance programmes directed to clinical providers.
-(6) In carrying out its functions under subsection (1), the committee must consider all reports from any mortality review committees established under section 18, and provide advice to the Minister as to appropriate quality assurance programmes to institute, and to respond to those and other relevant reports.
-(7) The committee must, at least once each year, deliver to the Minister a report setting out its advice on the matters referred to in subsections (1) to (6).
-(8) As soon as practicable after giving notice or receiving a report under this section, the Minister must present a copy of that notice or report to the House of Representatives.
+[Repealed]
 
 ### 18 Mortality review committees
-(1) The Minister may appoint 1 or more committees established under section 11 to carry out any of the following functions that the Minister specifies by notice to the committee:
-  (a) to review and report to the Minister or 1 or more other specified committees on specified classes of deaths of persons, or deaths of persons of specified classes, with a view to reducing the numbers of deaths of those classes or persons, and to continuous quality improvement through the promotion of ongoing quality assurance programmes:
-  (b) to advise on any other matters related to mortality that the Minister specifies in the notice.
-(2) A committee appointed under subsection (1) must develop strategic plans and methodologies that—
-  (a) are designed to reduce morbidity and mortality; and
-  (b) are relevant to the committee's functions.
-(3) A committee appointed under subsection (1) must, at least annually, provide the Minister with a report on its progress in carrying out its functions; and the Ministry of Health must include each such report in the Ministry's next annual report.
-(4) As soon as practicable after appointing a committee under subsection (1), or receiving a report or advice from such a committee, the Minister must present to the House of Representatives a copy of the appointment, report, or advice.
-(5) The provisions of Schedule 5 apply in relation to a committee appointed under subsection (1).
-(6) Every person who fails, without reasonable excuse, to comply with a requirement imposed under Schedule 5 by the chairperson of a committee appointed under subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
-(7) Every person who discloses information contrary to Schedule 5 commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(8) Any member of a registered occupational profession who commits an offence under subsection (6) or subsection (7) is liable to any disciplinary proceedings of that profession in respect of the offence, whether or not he or she is fined under that subsection.
+[Repealed]
 
 ## Part 3 — District Health Boards
 
@@ -546,11 +525,7 @@ The board of a DHB must, within 3 months of the commencement of this Act, establ
 **Financial provisions**
 
 ### 41 DHBs to operate in financially responsible manner
-(1) Every DHB must operate in a financially responsible manner and, for this purpose, must—
-  (a)
-  (b) endeavour to cover all its annual costs (including the cost of capital) from its net annual income; and
-  (c)
-  (d)
+(1) Every DHB must operate in a financially responsible manner and, for this purpose, must endeavour to cover all its annual costs (including the cost of capital) from its net annual income.
 (2) This section does not limit section 51 of the Crown Entities Act 2004.
 
 ### 42 Accountability documents under Crown Entities Act 2004
@@ -841,7 +816,7 @@ The provisions set out in Schedule 6 apply in respect of Pharmac, NZBS, CHFA, an
 ### 74 Discussion required before inquiry board appointed
 Before appointing an inquiry board under section 72(1), the Minister must select a person as prospective sole or principal member of the proposed inquiry board, and discuss with the person—
   (a) the content of the terms of reference for the proposed inquiry (including the time by which the inquiry board must finally report); and
-  (b) whether the inquiry should be conducted in an inquisitorial or in an adversarial manner, and any other instructions as to procedure to be given under section 75(3)(b)); and
+  (b) whether the inquiry should be conducted in an inquisitorial or in an adversarial manner, and any other instructions as to procedure to be given under section 75(3)(b); and
   (c) the terms and conditions of appointment of the sole or principal member of the proposed inquiry board; and
   (d) whether the inquiry board needs any additional member (or additional members) and, if so, who might be appointed as an additional member (or as additional members) of the inquiry board; and
   (e) the support personnel, resources, and services that the proposed inquiry board is likely to need to be able to conduct the inquiry in accordance with—
