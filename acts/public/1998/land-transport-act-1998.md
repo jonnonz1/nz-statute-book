@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -63,7 +63,7 @@ _Consolidation as at 2011-02-01_
   - **drink** means alcoholic drink
   - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and drive has a corresponding meaning
   - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
-  - **enforcement authority** , in relation to an infringement offence, means—
+  - **enforcement authority** , in relation to an infringement offence, means (except in relation to Part 17)—
     (a) the New Zealand Police, in any case:
     (b) the Agency, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or on behalf of the Agency:
     (c)
@@ -129,7 +129,7 @@ _Consolidation as at 2011-02-01_
     (a) in relation to a driver,—
       (i) licensed by or under this Act to drive vehicles of a specified class or classes; or
       (ii) licensed for a specified purpose or to carry out a specified activity, including an authority conferred by an endorsement on a driver licence:
-    (b) in relation to a vehicle, licensed under Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+    (b) in relation to a vehicle, licensed under Part 17
   - **light rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **light rental service vehicle** means a rental service vehicle having a gross laden weight of not more than 3 500 kg
   - **load** —
@@ -267,8 +267,8 @@ _Consolidation as at 2011-02-01_
   - **rail participant** has the same meaning as in section 4(1) of the Railways Act 2005
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
-  - **register of motor vehicles** means a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
-  - **registered** , in relation to a vehicle, means registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **register of motor vehicles** means the register continued and maintained under section 234
+  - **registered** , in relation to a vehicle, means registered under Part 17
   - **Registrar** , in relation to the execution of a warrant of confiscation, means any Registrar of the High Court or of a District Court, as the case may require, and includes a Deputy Registrar
   - **the regulations** means regulations made under this Act and the regulations referred to in section 218
   - **rental service** means the letting of a motor vehicle on hire for the carriage of passengers (including the driver) or of goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include—
@@ -479,8 +479,8 @@ A person may not drive or attempt to drive a motor vehicle while under the influ
 
 ### 13 Drivers and other road users to comply with directions of enforcement officers, etc
 (1AA) A person driving a motor vehicle that has a warning notice given under section 22AE attached to it must comply with that notice.
-(1) A person must comply with sections 68, 69, 70, 72, and 73 (which relate to the administration of breath screening tests, evidential breath tests, and blood tests).
-(2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 72, and 73.
+(1) A person must comply with sections 68, 69, 70, 71A, 72, and 73 (which relate to the administration of breath screening tests, evidential breath tests, and blood tests).
+(2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 71A, 72, and 73.
 (3) A person must comply with all lawful requirements and requests made by a medical practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
 (4) A person may not—
   (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)(b) or section 110(3)(a)(ii); or
@@ -1308,8 +1308,8 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 49 Contravention of section 97(5) or (6)
 (1) A person commits an offence if—
-  (a) the person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 96A, 122, and 123; or
-  (b) the person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 96A, 122, and 123 to the owner or a person authorised by the owner.
+  (a) the person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 96A, 122, 123, and 249; or
+  (b) the person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 96A, 122, 123, and 249 to the owner or a person authorised by the owner.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
 ### 50 Contravention of section 117(2)
@@ -1364,7 +1364,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of a first or second offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(4) If a person commits a third or subsequent offence against subsection (1) or subsection (2) or any of sections 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(4) If a person commits a third or subsequent offence against subsection (1) or subsection (2) or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (4A) Subsection (4)(b) does not apply if an order is made under section 65.
@@ -1401,7 +1401,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) Subsection (3)(b) does not apply if an order is made under section 65.
@@ -1429,7 +1429,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
+(3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) Subsection (3)(b) does not apply if an order is made under section 65.
@@ -1447,7 +1447,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of an offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence against this section or section 56(1) or (2), or section 58(1), or section 60(1).
-(3A) If a person is convicted of a third or subsequent offence against this section or section 56(1) or (2), or section 58(1), or section 60(1) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
+(3A) If a person is convicted of a third or subsequent offence against this section or section 56(1) or (2), or section 57A(1), or section 58(1), or section 60(1) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3B) Subsection (3A) does not apply if an order is made under section 65.
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
 
@@ -1525,7 +1525,7 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
 **Blood test fee**
 
 ### 67 Blood test fee
-(1) A person who, having undergone a blood test, is convicted of an offence against any of sections 56(2), 57(2), 57A, 58, 61(1)(b), 61(2), and 62 is liable to pay the blood test fee that applied on the day on which the offence was committed and any associated medical expenses; and the blood test fee and any associated medical expenses are deemed to be a fine imposed on the conviction of the person for the offence.
+(1) A person who, having undergone a blood test, is convicted of an offence against any of sections 56(2), 57(2), 57A, 57A(1), 58, 61(1)(b), 61(2), and 62 is liable to pay the blood test fee that applied on the day on which the offence was committed and any associated medical expenses; and the blood test fee and any associated medical expenses are deemed to be a fine imposed on the conviction of the person for the offence.
 (2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice in the Gazette, prescribe a fee for each type of blood test that is carried out under this Act.
 (3) The medical expenses referred to in subsection (1) may not exceed the actual and reasonable medical expenses associated with the taking of a blood specimen.
 
@@ -2178,7 +2178,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (iv) the place where the vehicle is to be impounded; and
     (v) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
+  (c) give the person registered under Part 17 in respect of the vehicle a copy of the notice, if that person is present at the time of the seizure, or as soon as practicable send a copy to that person by ordinary post to that person's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
   (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
@@ -2231,7 +2231,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (v) the place where the vehicle is to be impounded; and
     (vi) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the motor vehicle register; and
+  (c) give the person registered under Part 17 in respect of the vehicle a copy of the notice, if that person is present at the time of the seizure, or as soon as practicable send a copy to that person by ordinary post to that person's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
   (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
@@ -2274,9 +2274,9 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (8) For the purposes of subsection (7), Registrar means any Registrar of the High Court or of a District Court, as the case may require, and includes a Deputy Registrar.
 
 ### 98 Release of vehicle after 28 days
-(1) On or after the close of the 28-day impoundment period, the registered person in respect of the vehicle, or a person authorised for the purpose by the registered person, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
+(1) On or after the close of the 28-day impoundment period, the person in respect of the vehicle, or a person authorised for the purpose by the person, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
   (a) showing the storage provider proof of identity and either,—
-    (i) in the case of the registered person in respect of the vehicle, or a person authorised for the purpose by him or her, proof of ownership of the vehicle or the owner's copy of the notice of acknowledgement of seizure and impoundment; or
+    (i) in the case of the person in respect of the vehicle, or a person authorised for the purpose by him or her, proof of ownership of the vehicle or the owner's copy of the notice of acknowledgement of seizure and impoundment; or
     (ii) in the case of a Registrar, bailiff, or constable, the warrant; and
   (b) paying the fees and charges for towage and storage of the vehicle, or entering into an arrangement to pay those fees and charges.
 (2) The storage provider is directed to release the vehicle as soon as practicable after subsections (1), (6), and (7) are satisfied.
@@ -2349,6 +2349,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (iv) section 36A(2):
     (v) section 39(1):
     (vi) section 56(1) or (2):
+    (via) section 57A(1):
     (vii) section 58(1):
     (viii) section 60(1):
     (ix) section 61(1) or (2):
@@ -2431,7 +2432,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (c) a person who is disqualified from holding or obtaining a driver licence by an order made on his or her conviction for an offence against section 32(1) (which relates to driving while disqualified or contrary to a limited licence):
   (d) a person who is disqualified by an order made on his or her conviction—committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences).
     (i) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
-    (ii) for an offence against any of sections 56, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
+    (ii) for an offence against any of sections 56, 57A, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
     (iii) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
     (iv) for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in any of subparagraphs (i) to (iii)—
 
@@ -2439,7 +2440,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (1) No order may be made under section 105 that authorises a person to obtain a limited licence before the expiration of 28 days from the date the order of disqualification takes effect if the person is disqualified on conviction—
   (a) for an offence against this Act or the Transport Act 1962 involving driving hours or logbooks; or
   (b) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
-  (c) for an offence against any of sections 56, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
+  (c) for an offence against any of sections 56, 57A, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
   (d) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
   (e) for an offence against section 42 (which relates to insecure loads on vehicles).
 (2) An order may be made under section 105 authorising a person to drive a motor vehicle of a particular class only if the person held a driver licence for that class immediately before he or she was disqualified.
@@ -2555,7 +2556,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
-  (a) the Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
+  (a) the Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
@@ -2712,7 +2713,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) the vehicle has been involved in a serious traffic accident or a hit and run offence; or
   (b) the driver has failed to stop in contravention of a signal or request made under section 114(1) or (2).
 (2) Section 96(4) and section 97 (other than subsections (2) to (4)) (which set out requirements and rights relating to the seizure and impoundment of vehicles) apply, with any necessary modifications, to the seizure and impoundment of a vehicle under this section as if the vehicle were being seized under section 96.
-(3) A constable who is of or above the level of position of inspector may from time to time, after giving notice in writing to the registered owner of the vehicle, apply to a District Court Judge for an order extending the period for which a vehicle has been impounded under this section; and a District Court Judge may order that the vehicle be impounded for a further period not exceeding 7 days as the Judge thinks fit and may from time to time renew any extension ordered under this subsection.
+(3) A constable who is of or above the level of position of inspector may from time to time, after giving notice in writing to the person registered under Part 17 in respect of the vehicle, apply to a District Court Judge for an order extending the period for which a vehicle has been impounded under this section; and a District Court Judge may order that the vehicle be impounded for a further period not exceeding 7 days as the Judge thinks fit and may from time to time renew any extension ordered under this subsection.
 (4) For the purposes of this section,—
   - **hit and run offence** means an offence against this Act or the Crimes Act 1961 involving an event in which a person is struck by a motor vehicle and injured or killed as a result, where the driver fails to comply with his or her duties under section 22
   - **serious traffic accident** means an accident involving a vehicle that results in an injury to or the death of a person.
@@ -2837,7 +2838,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 ### 133 Owner liability for moving vehicle offences
 (1) Proceedings for a moving vehicle offence may be taken against any 1 or more of the following persons:whether or not (in the case of a person referred to in paragraph (b) or paragraph (c)) the person is an individual or was the driver or person in charge of the vehicle at the time the alleged offence was committed.
   (a) the person who allegedly committed the offence:
-  (b) a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
+  (b) the person who, at the time of the alleged offence, was registered under Part 17 in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of section 242, a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
   (c) a person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether jointly with any other person or not);—
 (2) In proceedings taken against a person under paragraph (b) or paragraph (c) of subsection (1), it is to be conclusively presumed that—
   (a) the defendant was the driver or person in charge of the vehicle at the time of the alleged offence (whether or not the person is an individual); and accordingly
@@ -3087,7 +3088,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (d) require and provide for vehicle identification numbers to be assigned to motor vehicles being operated in New Zealand:
   (e) provide for the periodical or other examination of motor vehicles and the issue of evidence of vehicle inspection and certificates of loading:
   (ea) provide for the periodical or other examination of traction engines and the issue of a certificate of compliance for boilers and other pressure vessels:
-  (f) subject to the Transport (Vehicle and Driver Registration and Licensing) Act 1986,—
+  (f) subject to Part 17,—
     (i) specify when vehicles are to be registered, deregistered, or re-registered:
     (ii) set out procedures to verify compliance with standards and requirements of the regulations and the rules:
     (iii) provide for the recording and making available of information about vehicles (including their systems, components, devices, fittings, and equipment).
@@ -3180,7 +3181,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (d) specify the definitions, abbreviations, and units of measurement to apply within the land transport system:
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule; and for the purposes of determining the expiry date of licences under section 23(4).
-(5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+(5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17.
 (6) An ordinary rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
 (8) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
@@ -3294,14 +3295,14 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
   (a) is 60 demerit points in the case of—
     (i) an offence against any of sections 35(1), 36(1), 38(1), and 39(1) (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident):
-    (ii) an offence against any of sections 56(1), 56(2), 58(1), 60(1), 61(1), 61(2), 62(1), and 62(1B) (which relate to offences involving alcohol or drugs):
+    (ii) an offence against any of sections 56(1), 56(2), 57A, 58(1), 60(1), 61(1), 61(2), 62(1), and 62(1B) (which relate to offences involving alcohol or drugs):
     (iii) an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so):
     (iv) a first or second offence against section 32(1) (which relates to offences involving driving while disqualified or contrary to a limited licence or while a licence is suspended or revoked) where the court does not order that the defendant be disqualified:
   (b) is 50 demerit points in the case of any other offence.
 
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
-  (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
+  (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the Public Transport Management Act 2008.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
@@ -3329,13 +3330,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (5) A notice given under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 168B Order in Council for certain land transport revenue
-(1) The Governor-General may, by Order in Council, prescribe, or provide for the fixing of, fees and charges for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that are identified in the Order in Council as land transport revenue for the purposes of the Land Transport Management Act 2003.
-(2) An Order in Council made under subsection (1) must,—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(3) If an Order in Council expires by virtue of subsection (2)(a) or (b), any fees and charges collected under that Order in Council in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
-(4) An Order in Council made under subsection (1) that the House of Representatives resolves should be revoked or varied is revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the Order in Council in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
-(5) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming an Order in Council under subsection (2) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
+[Repealed]
 
 ## Part 12 — The Crown and land transport
 
@@ -3809,6 +3804,78 @@ An application pending under any provision of the Transport Act 1962 that is rep
     (b) a vehicle normally propelled by mechanical power while it is being temporarily towed without the use of its own power.
 (2) Except in proceedings for an offence against this Part or regulations made under this Part, a question as to whether a motor vehicle is of a particular design or type for the purposes of this Part or of regulations made under this Part must be determined by the Registrar.
 
+**Register of motor vehicles**
+
+### 234 Register of motor vehicles
+(1) The Registrar must continue and maintain the register of all motor vehicles for which registration plates are issued.
+(2) In any proceedings, the contents of the register are proved by the production of a certificate indicating its contents if signed by the Registrar or a person acting under a delegation from—
+  (a) the Registrar; or
+  (b) an enforcement authority.
+
+### 235 Purposes of register
+The purposes of the register are to facilitate—
+  (a) enforcement of the law:
+  (b) maintenance of the security of New Zealand:
+  (c) collection of charges imposed or authorised by an enactment:
+  (d) administration and development of transport law and policy.
+
+### 236 Application for information from register
+(1) Any person may apply to the Registrar, in relation to a specified motor vehicle, for—
+  (a) access to the following information from the register:
+    (i) information on that motor vehicle:
+    (ii) personal information:
+  (b) confirmation that certain information matches personal information on the register, as provided for in section 238.
+(2) The application must be—
+  (a) made in accordance with any regulations made under this Part; and
+  (b) accompanied by the prescribed fee.
+(3) The person who receives the application must make and keep, in the form provided by the Registrar for the purpose, a record of the application and of the information supplied.
+
+### 237 Entitlement to receive information
+(1) A person who applies for information under section 236 is entitled to receive information from the register in relation to a specified motor vehicle.
+(2) However, the Registrar may not disclose personal information about an individual unless the Registrar is satisfied that—
+  (a) the person applying for the information is that individual; or
+  (b) the information is required for a purpose specified in section 235; or
+  (c) the information is within the exception specified in section 241; or
+  (d) the information may be disclosed under an enactment.
+(3) Information from the register must not be supplied unless—
+  (a) the prescribed fee is paid; or
+  (b) the Registrar is satisfied that satisfactory arrangements have been made for payment of that fee.
+(4) The Registrar must, at the request of an individual, supply to the individual—
+  (a) the name of any person to whom personal information about the individual has been disclosed under—
+    (i) subsection (2)(c); or
+    (ii) subsection (2)(d), but only if the enactment in question was the Official Information Act 1982 or the Privacy Act 1993; and
+  (b) the purpose of any such disclosure.
+
+### 238 Registrar may confirm or deny match of information
+(1) If an application is made under section 236(1)(b) for confirmation of personal information, the Registrar may confirm or deny that the person specified by the applicant is registered in respect of the motor vehicle specified by the applicant.
+(2) To avoid doubt, the Registrar—
+  (a) may use associated data provided by the applicant such as (in the case of an individual) the date of birth or driver licence number for the purpose of confirming or denying that a specified person is registered in respect of a specified motor vehicle; but
+  (b) may only confirm or deny, as permitted by subsection (1).
+
+### 239 Further restrictions
+(1) Despite section 237, for a period of up to 28 days the Registrar may decline to supply information if the Registrar is considering whether to exercise the power provided for in subsection (2).
+(2) The Registrar may grant confidential status in respect of a specified motor vehicle if the Registrar certifies that the supply of personal information or information on that motor vehicle would be likely to prejudice—
+  (a) the security or defence of New Zealand:
+  (b) the international relations of the Government of New Zealand:
+  (c) the maintenance of the law, including the detection, investigation, and prevention of offences:
+  (d) the right to a fair trial of any person:
+  (e) the privacy or personal safety of any person.
+(3) The Registrar must decline to supply personal information or information on a motor vehicle if the Registrar has granted confidential status under subsection (2).
+(4) Despite subsection (3), information from the register—
+  (a) may be supplied for the purposes set out in section 235(a) to (c) if the supply of the information is approved by the Registrar; and
+  (b) must be released if disclosure is—
+    (i) required by another enactment; or
+    (ii) to the Police at the request of the Commissioner of Police.
+(5) In considering under subsection (4)(a) whether to approve a supply of information, the Registrar must—
+  (a) consult any agency that provided advice in support of the granting of confidential status in respect of the vehicle or vehicles to which the information relates; and
+  (b) have regard to the reasons for which that status was granted.
+
+### 240 Complaints procedure
+(1) Complaints may be made to the Attorney-General against a decision of the Registrar made under section 239(1) or (2).
+(2) The Attorney-General may investigate a complaint and either—
+  (a) confirm the decision of the Registrar that was the subject of the complaint; or
+  (b) if the Attorney-General considers that the complaint is valid, reverse the Registrar’s decision.
+
 ### 241 Authorised access to name and address only
 (1) After consulting with the Privacy Commissioner, the Chief Ombudsman, and the Commissioner of Police, the Secretary may, by notice in the Gazette, authorise specified persons or classes of persons to have access to the names and addresses of persons registered in respect of motor vehicles and information on those vehicles—
   (a) for specified purposes (in addition to the purposes recognised by section 235); and
@@ -3829,6 +3896,249 @@ An application pending under any provision of the Transport Act 1962 that is rep
 (7) An authorisation under subsection (1) does not authorise any person or class of person to have access to the names and addresses of persons—
   (a) who were previously registered in respect of motor vehicles; or
   (b) who have notified the Registrar, in accordance with any regulations made under this Part, that they do not wish to have their names and addresses made available under subsection (1).
+
+**Registration and licensing requirements**
+
+### 242 Motor vehicles must be registered and licensed
+(1) A motor vehicle must not be operated on a road unless the motor vehicle—
+  (a) is registered and licensed in accordance with this Part; and
+  (b) has affixed to it and displayed in the manner prescribed by regulations made under this Part—
+    (i) the registration plates issued for it; and
+    (ii) a current licence issued for it and appropriate for its use under section 244.
+(2) The person registered in respect of a motor vehicle in accordance with this Part must—
+  (a) keep the motor vehicle licensed at all times in accordance with this Part; and
+  (b) ensure that the prescribed fees and accident insurance levies are paid for the time that the motor vehicle is required to be licensed (whether or not it is actually licensed).
+(3) Subsections (1) and (2) do not override any provisions of this Part or of regulations made under this Part that provide expressly for a motor vehicle to be operated on a road otherwise than in accordance with subsections (1) and (2).
+(4) A motor vehicle that is a registered motor vehicle under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or any corresponding former Act immediately before the commencement of this Part is to be treated as if it were registered under this Part.
+
+### 243 Application for registration
+(1) An application for registration of a motor vehicle must be—
+  (a) made by or on behalf of the owner to the Registrar in accordance with any regulations made under this Part; and
+  (b) accompanied by—
+    (i) the prescribed fee; and
+    (ii) an application for a licence for the motor vehicle.
+(2) The only persons who may be registered in respect of motor vehicles are—
+  (a) a natural person of or over 15 years of age; or
+  (b) a body corporate; or
+  (c) an agent of the Executive Government of New Zealand.
+(3) If more than 1 person owns a motor vehicle, only 1 of them may be registered in respect of that vehicle at any given time.
+(4) Unless the registration is cancelled under this Part, the registration of a motor vehicle continues in force without renewal.
+(5) In relation to a vehicle treated by virtue of section 242(4) as if it were registered under this Part,—
+  (a) the person registered as the owner of the vehicle immediately before the commencement of this section is to be treated as being registered in respect of the vehicle under this Part; and
+  (b) if there is more than 1 such person, each of them is to be treated as being so registered (accordingly, subsection (3) does not apply until there is to be a change of registered person).
+
+### 244 Application for, and issuing of, licence
+(1) An application for a licence for a motor vehicle must be made to the Registrar by or on behalf of the person registered (or to be registered) in respect of the vehicle in accordance with any regulations made under this Part.
+(2) As soon as practicable after receiving a completed application under subsection (1), together with the prescribed fees and accident insurance levies, the Registrar must, if satisfied that the application is in order, issue the appropriate licence for the motor vehicle—
+  (a) in accordance with any regulations made under this Part; and
+  (b) for a licensing period specified in any regulations made under this Part.
+(3) A licence must not be issued for a motor vehicle that is not registered in accordance with section 242.
+(4) In relation to a vehicle treated by virtue of section 242(4) as if it were registered under this Part, a licence issued for the vehicle under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 and in force immediately before the commencement of this section continues to have effect as if it had been issued for the vehicle under this Part.
+
+### 245 Commencement of licence
+Except as otherwise prescribed by regulations made under this Part, a licence commences,—
+  (a) in the case of a newly registered motor vehicle, on the day of its registration; or
+  (b) on the day after the expiry of the previous licence.
+
+### 246 Change of use of motor vehicle
+(1) If a motor vehicle is to be used for a purpose other than that indicated by the existing licence, the person registered in respect of the motor vehicle must, without delay, apply for the appropriate new licence.
+(2) The issue of a new licence must be in accordance with regulations made under this Part.
+
+**Change of registered person on sale or other disposition**
+
+### 247 Obligations of sellers and acquirers of motor vehicles
+(1) After the sale of a registered motor vehicle,—
+  (a) the person registered in respect of the vehicle at the time of sale must, without delay, notify the Registrar of the particulars required by any regulations made under this Part; and
+  (b) the person who acquires a motor vehicle must, without delay, notify the Registrar of the particulars required by any regulations made under this Part.
+(2) A person must, without delay, notify the Registrar of the particulars required by any regulations made under this Part, if that person acquires a motor vehicle—
+  (a) by means other than the sale of that vehicle; and
+  (b) in a manner specified in any regulations made under this Part.
+(3) A notification required by this section must be made in accordance with any regulations made under this Part.
+
+### 248 Prohibition against use of motor vehicle
+(1) This section applies if an enforcement officer or a parking warden believes on reasonable grounds that—
+  (a) a person driving a motor vehicle on a road has committed an offence in relation to which an officer or warden has enforcement powers under this Act or another enactment; and
+  (b) the motor vehicle is not registered under this Part in the name of the current owner of the motor vehicle or with the current address of that person.
+(2) The enforcement officer or parking warden may give to the driver or owner of the motor vehicle, if present, or affix or cause to be affixed to the motor vehicle, a notice in the form approved by the Registrar for the purpose directing that the motor vehicle—
+  (a) be removed from the road immediately; and
+  (b) not be driven on a road for as long as the notice is in force in accordance with subsection (3).
+(3) A notice given under subsection (2)—
+  (a) comes into effect at 11.59 pm on the working day after the day when the notice is issued (unless the name and current address of the owner are registered before that time); and
+  (b) remains in force until the motor vehicle has been registered in the name and current address of the owner.
+(4) Where more than 1 person owns a motor vehicle, reference in this section to the owner is to any 1 of those persons.
+
+### 249 Circumstances when motor vehicle may be seized and impounded
+(1) An enforcement officer may seize and impound, or seize and authorise the impoundment of, a motor vehicle if the enforcement officer believes on reasonable grounds that a person has driven the motor vehicle on a road while a notice given under section 248(2) was in force.
+(2) If a motor vehicle is seized and impounded under subsection (1), the enforcement officer must issue to the driver of the motor vehicle, if present, and to the storage provider, copies of a notice in the form approved by the Registrar for the purpose that—
+  (a) acknowledges that the specified motor vehicle has been seized and impounded; and
+  (b) sets out the following matters (if the particulars are reasonably ascertainable):
+    (i) the name and address of the driver; and
+    (ii) the year and make of the motor vehicle, and the details of its registration plates or vehicle identification number; and
+    (iii) the date and time of the seizure; and
+    (iv) the place where the motor vehicle is, or is to be, impounded; and
+    (v) an outline of the driver's rights of appeal under section 267.
+
+### 250 Personal property
+Personal property (other than property attached to or used in connection with the operation of the motor vehicle) present in a motor vehicle at the time of its seizure and impoundment under section 249 must be released—
+  (a) on request made at the time of the seizure, to a person who produces satisfactory evidence that he or she was lawfully entitled to possess the motor vehicle or the personal property immediately before the motor vehicle was seized and impounded; or
+  (b) subsequently, to—
+    (i) the owner of the personal property; or
+    (ii) a person acting on behalf of the owner of the personal property, if the person produces satisfactory evidence of the owner’s consent to the property being released to that person.
+
+### 251 Storage of impounded motor vehicles
+(1) A motor vehicle seized and impounded under section 249 must be stored as and where the enforcement officer directs.
+(2) The owner of the impounded motor vehicle is liable for the fees and charges incurred for towage and storage.
+(3) The local authority or storage provider, as the case may be, is entitled to recover the due fees and charges from the owner of the motor vehicle.
+(4) Subsections (2) and (3) do not limit or affect any rights that may be exercised by the vehicle recovery service operator, the storage provider, or the local authority against the owner of the motor vehicle, or in respect of the motor vehicle.
+(5) No person may remove or release an impounded motor vehicle from storage, unless that is permitted under this Act.
+(6) For the purpose of this section, the Commissioner, a person authorised for the purpose by the Commissioner, or a local authority may, as that person thinks necessary, enter into appropriate arrangements with vehicle recovery service operators and storage providers.
+
+### 252 Release of motor vehicle
+(1) The owner of a motor vehicle that has been seized and impounded under section 249, or a person authorised for the purpose by the owner, is entitled to recover the motor vehicle from storage by—
+  (a) showing to an enforcement officer—
+    (i) proof of the owner’s identity and either—
+      (A) the certificate of registration of the motor vehicle in the name of that owner; or
+      (B) proof that the owner has supplied to the Registrar the details required under section 247(1); and
+    (ii) proof that no fines for which an owner is liable, and that were incurred while the owner owned the motor vehicle, are in default; and
+  (b) paying the towage and storage fees and charges.
+(2) The storage provider must release the motor vehicle as soon as practicable after the requirements of subsection (1) have been satisfied.
+(3) An enforcement officer must order the release of an impounded motor vehicle to the owner of the motor vehicle, or a person authorised for the purpose by the owner, as soon as practicable after receiving evidence that the motor vehicle was registered in the name of that owner and with the current address of that owner, at the time of its impoundment.
+(4) The owner of a motor vehicle released under subsection (3) is not liable to pay the fees and charges for towing and storing the motor vehicle.
+
+### 253 Disposal of motor vehicle
+(1) This section applies to a motor vehicle seized and impounded under section 249 if the motor vehicle is not released within 10 working days of its impoundment.
+(2) The storage provider with possession of the motor vehicle may dispose of the motor vehicle in accordance with subsection (3) or (5), as appropriate.
+(3) A storage provider that is not a local authority may—
+  (a) apply to an enforcement officer authorised for the purpose by the Commissioner for approval to dispose of a motor vehicle under subsection (2); and
+  (b) with the enforcement officer’s written approval, dispose of the motor vehicle on such terms and conditions as the officer thinks fit.
+(4) If approval is given under subsection (3) for the disposal of a motor vehicle, the storage provider becomes the owner of the motor vehicle for all purposes.
+(5) A storage provider that is a local authority may dispose of a motor vehicle under subsection (2) in accordance with section 356A(7), (8), and (9) of the Local Government Act 1974.
+(6) However, before disposing of a motor vehicle under subsection (3) or (5), a storage provider must—
+  (a) search the personal property securities register to identify every person with a security interest in the motor vehicle; and
+  (b) notify in writing every person with a security interest in the motor vehicle.
+(7) For the purposes of subsection (6), security interest has the same meaning as in section 17 of the Personal Property Securities Act 1999.
+
+### 254 Impounded motor vehicle not to be damaged
+(1) This section applies to a person authorised by an enforcement officer to—
+  (a) enter a motor vehicle for the purpose of moving it or preparing it for movement; or
+  (b) impound a motor vehicle.
+(2) The person referred to in subsection (1) must do everything reasonably necessary to ensure that the motor vehicle and personal property in or on the motor vehicle are not damaged.
+
+**Cancellation of registration**
+
+### 255 Cancellation of registration
+The Registrar may cancel the registration of a registered motor vehicle in accordance with any regulations made under this Part.
+
+### 256 Discretion to refund fees
+(1) This section applies if—
+  (a) the Registrar cancels the registration of a motor vehicle under section 255; or
+  (b) a person surrenders a trade plate before the expiry of that plate and the Registrar considers it appropriate to exercise the power specified in subsection (2).
+(2) If this section applies, the Registrar may, without further authority than this section, refund or cause to be refunded out of a Crown Bank Account an amount equal to the amount of the—
+  (a) licence fee paid for the period for which registration is cancelled:
+  (b) trade plate fee paid for the period for which the trade plate is surrendered.
+
+**Registration plates**
+
+### 257 Issue of plates and certificates of registration
+(1) The Registrar must, if satisfied that an application for registration of a motor vehicle made in accordance with regulations made under this Part is in order,—
+  (a) in the case of ordinary plates,—
+    (i) assign numbers, letters, a distinguishing mark, or a combination of any of these for the ordinary plates that are to be affixed to the motor vehicle; and
+    (ii) issue to the applicant an ordinary plate or plates for the motor vehicle; and
+  (b) in the case of personalised plates, issue the unique numbers, letters, distinguishing marks, or combination of any of these assigned for use on the plates that are to be affixed to the motor vehicle; and
+  (c) issue a certificate of registration for the motor vehicle.
+(2) A new number or distinguishing mark may be assigned to the motor vehicle if new ordinary plates are issued for it.
+(3) Ordinary plates issued under this section must be displayed on the motor vehicle unless personalised plates or trade plates are displayed in accordance with this Part or regulations made under this Part.
+(4) A person to whom registration plates are issued under this section must, at the discretion of the Registrar, surrender any existing registration plates for that motor vehicle to the Registrar.
+
+### 258 Supplementary plates
+(1) A registered person may apply to the Registrar for supplementary plates in accordance with any regulations made under this Part.
+(2) Supplementary plates must be issued and displayed in accordance with any such regulations.
+
+### 259 Contract to dispose of rights to personalised plates
+(1) The Registrar may, after consulting with the Minister, enter into a contract to authorise a person to sell or otherwise dispose of the exclusive right to 1 or more letters or numbers, or a combination of both, allocated in accordance with regulations made under this Part for use on personalised plates.
+(2) Nothing in subsection (1) limits the number of contracts that may be in force under this section at any given time (whether in respect of the same or different letters or numbers or combinations of both).
+(3) A contract that was entered into under section 9 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 and is in force immediately before commencement of this section is deemed to have been entered into under and in accordance with this section.
+(4) A contract entered into (or deemed to have been entered into) under this section may be terminated by either party on giving reasonable notice to the other party, despite anything to the contrary in the contract or elsewhere.
+(5) If no contract is in force under this section in respect of particular letters or numbers or combinations of both, the Registrar is the person entitled to sell or dispose of the exclusive right to those letters or numbers or combinations of both for use on personalised plates.
+
+### 260 Acquisition and disposal of personalised plates
+(1) A person who wishes to purchase or otherwise acquire personalised plates, or the exclusive right specified in section 259, may—
+  (a) apply to the authorised person referred to in section 259—
+    (i) to purchase the exclusive right specified in section 259; or
+    (ii) to convert the existing registration plates of a motor vehicle to personalised plates bearing the same combination of letters and numbers as the existing plates; or
+  (b) purchase that exclusive right on the open market, whether or not the personalised plates have been manufactured.
+(2) A person who purchases or otherwise acquires personalised plates, or the exclusive right specified in section 259, may—
+  (a) sell or otherwise dispose of them to any other person; or
+  (b) transfer them between motor vehicles owned by that person; or
+  (c) surrender them for ordinary plates.
+(3) Despite anything in subsections (1) and (2), a person transferring, selling, disposing of, acquiring, or surrendering personalised plates must transfer, sell, dispose of, acquire, or surrender the plates in accordance with any regulations made under this Part.
+(4) Personalised plates must be issued in accordance with any regulations made under this Part.
+
+### 261 Eligibility for trade plates
+The Minister may, by notice in the Gazette,—
+  (a) declare the persons or classes of persons who are eligible to apply for and receive trade plates; and
+  (b) prescribe the purpose for which trade plates may be used; and
+  (c) remove the eligibility of persons or classes of persons to apply for and receive or to use trade plates.
+
+### 262 Application for trade plates
+(1) A person who is, or who is within a class of persons, eligible to receive trade plates may apply to the Registrar for trade plates.
+(2) An application must be—
+  (a) made in accordance with any regulations made under this Part; and
+  (b) accompanied by—
+    (i) the prescribed fee; and
+    (ii) the accident insurance levy.
+(3) Trade plates must be issued and used in accordance with any regulations made under this Part.
+
+### 263 Transitional provision for existing registration plates
+Registration plates issued under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or any corresponding Act are to be treated as registration plates issued under this Part.
+
+**General provisions relating to registration and licensing**
+
+### 264 Replacement of certificate of registration, licence, or registration plates
+(1) If the certificate of registration, licence, or registration plates for a motor vehicle have been lost, stolen, damaged, or destroyed, the registered person may, in accordance with any regulations made under this Part, apply for a replacement or duplicate of the certificate of registration, licence, or registration plates.
+(2) The Registrar may, if satisfied that subsection (1) applies and that the application is complete, issue (in accordance with any regulations made under this Part) a replacement or duplicate of the certificate of registration, licence, or registration plates.
+(3) In the case of registration plates,—
+  (a) the replacement or duplicate must have the same letters, numbers, distinguishing marks or combination of letters, numbers or distinguishing marks as were assigned to the plates that were lost, stolen, damaged, or destroyed; but
+  (b) nothing in this section requires the Registrar to issue an exact replica of those plates (for example, in terms of colour, format, font, or size).
+
+### 265 Surrender and seizure of registration plates and facsimile plates
+(1) The Registrar may order the surrender of—
+  (a) any registration plates if the Registrar is satisfied that the plates—
+    (i) are affixed to a motor vehicle other than the motor vehicle to which they may be lawfully affixed; or
+    (ii) being ordinary plates, are not affixed to a motor vehicle; or
+    (iii) have been issued in error or are being used (or are likely to be used) unlawfully; or
+  (b) personalised plates if the Registrar has received a complaint about the plates and considers they are likely to cause offence or confusion; or
+  (c) facsimile plates.
+(2) An enforcement officer may seize any registration plates if the enforcement officer is satisfied that the plates—
+  (a) are affixed to a motor vehicle other than the motor vehicle to which they may be lawfully affixed; or
+  (b) being ordinary plates, are not affixed to a motor vehicle; or
+  (c) have been issued in error or are being used (or are likely to be used) unlawfully; or
+  (d) have been ordered by the Registrar to be surrendered under subsection (1) or in accordance with any regulations.
+(3) An enforcement officer may seize and destroy any facsimile plates.
+(4) For the purposes of subsections (1)(c) and (3), facsimile plate means any thing that is not a registration plate but is made to appear as if it is a registration plate.
+
+### 266 Registrar may prohibit or decline to issue plates
+The Registrar may, in accordance with regulations made under this Part,—
+  (a) prohibit the use of certain numbers, letters, or combinations of numbers or letters on personalised plates:
+  (b) decline to issue supplementary plates:
+  (c) decline to issue trade plates.
+
+### 267 Appeal to District Court
+(1) A person may appeal to a District Court against a specified decision made under this Part by the Registrar or an enforcement officer if the person—
+  (a) is a person in respect of whom the decision was made; and
+  (b) is dissatisfied with the decision.
+(2) The Court may confirm, reverse, or modify the specified decision appealed against.
+(3) Every specified decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with this Part on the ground that an appeal is pending.
+(4) For the purposes of this section, a specified decision means a decision to—
+  (a) seize and impound a motor vehicle under section 249:
+  (b) refuse to issue a supplementary plate or a trade plate in accordance with regulations made under this Part:
+  (c) require the surrender of ordinary plates, personalised plates, supplementary plates, or trade plates in accordance with section 265 or any regulations made under this Part:
+  (d) seize plates under section 265(2).
+
+**Offences and penalties**
+
+### 268 Infringement offences
+An enforcement authority may, in relation to infringement offences against regulations made under this Part, exercise the powers specified in sections 138 to 141.
 
 **Regulations**
 
@@ -3956,6 +4266,17 @@ Nothing in this Part prevents the Minister from appointing the Agency to be the 
 (2) A person who is authorised under subsection (1) and is not employed in the State services is subject to—
   (a) the Official Information Act 1982; and
   (b) the Ombudsmen Act 1975.
+
+**Fees and charges**
+
+### 274 Land transport revenue to be paid into national land transport fund
+All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the Land Transport Management Act 2003 must be paid into a Crown Bank Account and treated as land transport revenue.
+
+### 275 Other prescribed fees received under this Part
+(1) This section applies to prescribed fees that are received under this Part and that are not referred to in section 274.
+(2) Prescribed fees to which this section applies must be paid to the relevant prescribed recipient.
+(3) However, if there is no prescribed recipient to whom any prescribed fees to which this section applies must be paid, those prescribed fees must be paid into a Crown Bank Account.
+(4) For the purposes of this section, prescribed recipient means the person who is specified in regulations made under this Part as the person to whom any fees or charges, or both, are payable.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
