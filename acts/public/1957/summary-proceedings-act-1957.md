@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -441,7 +441,7 @@ In any proceedings, a computer printout of the particulars of a reminder notice 
   (a) by being delivered to him personally or by being brought to his notice if he refuses to accept it; or
   (b) by being left for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years; or
   (c) by being sent to him by registered letter addressed to him at his last known or usual place of residence or at his place of business; or
-  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998.
   provided that a District Court Judge or Justice or Community Magistrate or the Registrar may if he thinks fit direct that the summons or other document shall be served in accordance with the provisions of paragraph (a).
 (1A) Despite subsection (1), if a summons or other document required to be served on a defendant is to be served on a defendant who is a Crown organisation, it may be served—
   (a) by delivering it personally to an employee of the organisation at its head office or principal place of business; or
@@ -3376,7 +3376,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 380 |  | Carrying on business fraudulently |
 |  |  | 382(4) |  | Persons prohibited from managing companies |
 |  |  | 383(6) |  | Court may disqualify directors |
-|  |  | 385(9) |  | Registrar may prohibit persons from managing companies. |
+|  |  | 385(9) |  | Registrar or Financial Markets Authority may prohibit persons from managing companies. |
 | Companies Special Investigations Act 1958 |  | 28 |  | Destroying or altering records |
 | Compulsory Retirement Savings Scheme Referendum Act 1997 |  | 54 |  | Voting papers |
 | Copyright Act 1994 |  | 131 |  | Offences relating to making or dealing with infringing objects |
@@ -3465,7 +3465,9 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 58(3) |  | Driving while under influence of drink or drug to such an extent as to be incapable of proper control of vehicle |
 |  |  | 60(3) |  | Failing or refusing to allow blood specimen to be taken |
 |  |  | 61(1), (2) |  | Causing injury or death while in charge of vehicle and having breath or blood alcohol level over specified limit, or to such an extent as to be incapable of proper control of vehicle |
-|  |  | 62(1) |  | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61) |
+|  |  | 62(1) |  | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61)Causing bodily injury or death by carelessly driving under influence of drink or drug or both |
+|  |  | 62(1A) |  | Causing bodily injury or death by driving impaired and with blood containing evidence of use of drugs or prescription medicine |
+|  |  | 62(1B) |  | Causing bodily injury or death by driving or attempting to drive with blood containing evidence of use of drugs or prescription medicine |
 | Local Electoral Act 2001 |  | 123 and 124 |  | Offences in respect of official documents and voting offences |
 | Local Government Act 2002 |  | 232(2) |  | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
 | Marriage Act 1955 |  | 58 |  | Unlawful solemnisation of marriage |
