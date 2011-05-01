@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2010-12-01_
+_Consolidation as at 2011-05-01_
 
 > Title [Repealed]
 
@@ -37,6 +37,7 @@ _Consolidation as at 2010-12-01_
     (c) a registered bank; and
     (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act
   - **financial year** has the meaning given to it by section 157
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign exchange** means—
     (a) the bank notes or other currency, postal notes, or money orders of any country other than New Zealand:
     (b) promissory notes and bills of exchange payable otherwise than in New Zealand currency:
@@ -83,7 +84,7 @@ _Consolidation as at 2010-12-01_
     (c) the power to acquire or dispose of the specified security; or
     (d) the power to control the acquisition or disposition of the specified security by another person; or
     (e) the powers referred to in paragraphs (b) to (d) under, or by virtue of, any trust, agreement, arrangement, or understanding relating to the specified security
-  - **Registered bank** means a person whose name is entered in the register maintained under section 69 or who continues to be a registered bank by virtue of the provisions of section 76
+  - **registered bank** means a person whose name is entered in the register maintained under section 69 or who continues to be a registered bank by virtue of the provisions of section 76
   - **Reserve Bank** or means the Reserve Bank of New Zealand constituted under this Act
   - **restricted word** —
     (a) means the words “bank”, “banker”, and “banking”; and
@@ -1107,7 +1108,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
 ### 81A Bank to consult
 (1) Before making a recommendation under section 81(1) (including a recommendation to amend any Order in Council made under that subsection) the Bank must—
   (a) consult with—
-    (i) the Securities Commission; and
+    (i) the FMA; and
     (ii) registered banks that will be affected by any Order in Council made under that subsection; and
     (iii) such other persons as the Bank considers will be substantially affected by any Order in Council made under that subsection or organisations representing those persons; and
   (b) ensure that the persons referred to in paragraph (a) have a reasonable opportunity to make submissions to the Bank; and
@@ -2043,14 +2044,13 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 (1) The powers conferred on the Minister and the Bank by this Part must be exercised for the purposes of—
   (a) promoting the maintenance of a sound and efficient financial system; and
   (b) avoiding significant damage to the financial system that could result from the failure of a participant in a settlement system.
-(2) The powers conferred on the Minister responsible for the Securities Act 1978 and the Commission by this Part must be exercised for the purposes of—
+(2) The powers conferred on the Minister responsible for the Securities Act 1978 and the FMA by this Part must be exercised for the purposes of—
   (a) promoting the integrity and effectiveness of settlement systems and related markets in New Zealand; and
   (b) enhancing the confidence of investors and other market participants in settlement systems and related markets in New Zealand.
 (3) The Governor-General must exercise the powers conferred on him or her by this Part for the purposes set out in subsections (1) and (2).
 
-### 156L Commission may exercise powers under Securities Act 1978
-(1) The Commission may exercise any of its powers under the Securities Act 1978 in performing its functions and duties, and exercising its powers, under this Act, and Part 3 of the Securities Act 1978 applies with all necessary modifications to its decisions and proceedings under this Act.
-(2) However, for the purposes of this Part, the Commission may exercise its powers under sections 67 and 67A of the Securities Act 1978 in relation to the Bank only if, and to the extent that, the Bank is—
+### 156L Limit on FMA's powers in relation to Bank
+For the purposes of this Part, the FMA may exercise its powers under subpart 1 of Part 3 of the Financial Markets Authority Act 2011 in relation to the Bank only if, and to the extent that, the Bank is—
   (a) a participant in a settlement system; or
   (b) an operator of a settlement system.
 
@@ -2058,12 +2058,11 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 
 ### 156M Definitions for this Part
 (1) In this Part, unless the context otherwise requires,—
-  - **Commission** means the Securities Commission established under Part 1 of the Securities Act 1978
   - **contact person** , in relation to a settlement system, means the person specified under section 156N(2)(d)
   - **designated settlement system** means a settlement system that is declared to be a designated settlement system under section 156N
   - **joint regulators** means—
     (a) the Bank; and
-    (b) the Commission
+    (b) the FMA
   - **Minister responsible for the Securities Act 1978** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Securities Act 1978
   - **netted balance** means any amount calculated in accordance with the netting provisions of the rules of a designated settlement system as the net debit payable by, or on behalf of, a participant in the designated settlement system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
   - **netting** means the conversion into 1 net claim or obligation, or the set-off, of different claims or obligations between participants in a settlement system that results from the issue and receipt of settlement instructions involving 2 or more participants in the settlement system or that is otherwise provided for under the rules of the settlement system,—
@@ -2125,7 +2124,7 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
   (c) that the operator specified in accordance with subsection (2)(c) is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
   (d) that the settlement system that is the subject of the designation is a pure payment system.
 (4) Both of the joint regulators must, as soon as practicable after a settlement system has been declared to be a designated settlement system, post on their respective Internet sites the contact details and the name or title of the contact person of that designated settlement system.
-(5) However, the Commission does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)(d).
+(5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)(d).
 (6) To avoid doubt,—
   (a) rules are not regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989; and
   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of section 156Q, 156R, 156T, or 156X of this Act or section 103A of the Personal Property Securities Act 1999.
@@ -2143,11 +2142,11 @@ The procedure set out in sections 156Y to 156ZA must be followed by the joint re
   (b) for the purposes of sections 156K, 156M, and 156ZB to 156ZQ, the Bank is the sole regulator of that settlement system; and
   (c) all references to the joint regulators in sections 156K, 156M, and 156ZB to 156ZQ must be read as if they were references to the Bank; and
   (d) anything in sections 156K, 156M, and 156ZB to 156ZQ that may or must be done by both of the joint regulators may or must be done by the Bank alone; and
-  (e) except as set out in subsection (2), in performing its functions and duties and exercising its powers under sections 156K, 156M, and 156ZB to 156ZQ, the Bank does not have to consult with, advise, or give notice to, the Commission; and
+  (e) except as set out in subsection (2), in performing its functions and duties and exercising its powers under sections 156K, 156M, and 156ZB to 156ZQ, the Bank does not have to consult with, advise, or give notice to, the FMA; and
   (f) section 156L does not apply; and
   (g) the advice of the Minister responsible for the Securities Act 1978 is not required under section 156ZD or 156ZE; and
   (h) this Part must be interpreted with all necessary modifications in order to give effect to this section.
-(2) However, if the Bank intends to recommend, in accordance with section 156ZD (applied as set out in subsection (1)), that a designated settlement system's designation is varied so that it is no longer specified to be a pure payment system, the Bank must consult with the Commission before making that recommendation.
+(2) However, if the Bank intends to recommend, in accordance with section 156ZD (applied as set out in subsection (1)), that a designated settlement system's designation is varied so that it is no longer specified to be a pure payment system, the Bank must consult with the FMA before making that recommendation.
 (3) This section ceases to apply to a designated settlement system if, in accordance with section 156ZD (applied as set out in subsection (1)), that settlement system's designation is varied so that it is no longer specified to be a pure payment system.
 (4) For the purposes of subsection (1)(a), settlement means—
   (a) the making of a payment—
@@ -2367,10 +2366,10 @@ The variation or revocation of a designation made under section 156N does not af
 ### 156ZM Disclosure of information between joint regulators
 (1) No obligation as to secrecy or other restriction upon the disclosure of information, whether imposed by an enactment or otherwise, prevents the disclosure of information between either of the following persons:
   (a) the Bank; and
-  (b) the Commission.
+  (b) the FMA.
 (2) Subsection (1) only applies to information—
   (a) obtained for the purposes of the administration of this Part, whether under sections 156Z(4), 156ZI(2), or 156ZL or otherwise; and
-  (b) that is disclosed by the Bank or the Commission in order to enable them to perform their functions and duties, or exercise their powers, under this Part.
+  (b) that is disclosed by the Bank or the FMA in order to enable them to perform their functions and duties, or exercise their powers, under this Part.
 
 ### 156ZN Disclosure of information to third parties
 (1) The joint regulators may publish or disclose any information or data supplied in accordance with section 156Y(3)(b) or 156ZL only if—
@@ -2502,7 +2501,7 @@ This Part, in so far as it applies to trust deeds, applies to every trust deed w
 
 ### 157E Bank to consult before recommending making of regulations under this Part
 (1) The Bank must consult with the following before making a recommendation for the making of any regulations under this Part:
-  (a) the Securities Commission; and
+  (a) the FMA; and
   (b) if reasonably practicable, other persons, or the representatives of those persons, who the Bank considers will be substantially affected by any regulations made in accordance with the recommendation.
 (2) Failure to comply with subsection (1) does not affect the validity of regulations made under this Part.
 
@@ -2807,7 +2806,7 @@ A person appointed under section 157ZJ(2)(b) must not enter and search any place
   (b) to the extent that the information is available to the public under any Act, other than the Official Information Act 1982, or in a public document; or
   (c) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
   (d) in connection with any proceedings for an offence against this Part; or
-  (e) to the Registrar of the Companies Office or the Securities Commission; or
+  (e) to the Registrar of the Companies Office or the FMA; or
   (f) to the trustee of the deposit taker to whom the information relates; or
   (g) to any person who the Bank is satisfied has a proper interest in receiving the information.
 (3) Information to which this section applies must not be published or disclosed under subsection (2)(f) or (g) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
