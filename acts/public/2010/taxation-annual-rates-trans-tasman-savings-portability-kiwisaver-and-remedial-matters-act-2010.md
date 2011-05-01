@@ -1,5 +1,5 @@
 # Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010
-_Consolidation as at 2010-09-09_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010.
@@ -1376,29 +1376,29 @@ After section 229(2)(j), the following is inserted:.
 
 ### 189 Schedule 1––KiwiSaver scheme rules
 (1) After schedule 1, clause 4, the following is inserted:Amounts from Australian complying superannuation schemes
-  A member may withdraw the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount), if the member is 60 years or more and the member's retirement (as that term is defined in regulation 6.01(7) of the Superannuation Industry (Supervision) Regulations 1994 (Aust), with necessary modification for KiwiSaver scheme trustees) is taken to have occurred.
+  A member may withdraw the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount), if the member is 60 years or more and the member's retirement (as that term is defined in regulation 6.01(7) of the Superannuation Industry (Supervision) Regulations 1994 (Aust), with necessary modification for KiwiSaver scheme trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme)) is taken to have occurred.
 (2) Schedule 1, clause 8(4) is replaced by the following:
   (4) A member may not make a withdrawal under this clause of more than an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
     (a) the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
     (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
 (3) In schedule 1, clause 8(6), , a leasehold estate, is omitted.
 (4) In schedule 1, clause 14(1) and (2) are replaced by the following:
-  (1) Subject to clause 14B, a member may, on application to the trustees, and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
+  (1) Subject to clause 14B, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
     (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
     (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
-  (2) Subject to clause 14B, a member may, on application to the trustees, at any time after the member's permanent emigration from New Zealand, have the trustees transfer to a foreign superannuation scheme authorised for that purpose under regulations made under section 228 the member's accumulation, less the total of the following 2 amounts:
+  (2) Subject to clause 14B, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member's permanent emigration from New Zealand, have the trustees or the manager (as the case may be) transfer to a foreign superannuation scheme authorised for that purpose under regulations made under section 228 the member's accumulation, less the total of the following 2 amounts:
     (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
     (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
 (5) After schedule 1, clause 14, the following is inserted:Exceptions to clause 14 for Australian permanent emigration
-  (1) For a KiwiSaver scheme (but not for a complying superannuation fund) a member may not withdraw any amount, or have the trustees transfer any amount, after the member's permanent emigration to Australia, except as provided by this clause.
-  (2) At any time after the member's permanent emigration to Australia, a member may, on application to the trustees, have the trustees transfer the member's accumulation to an Australian complying superannuation scheme.
-  (3) As soon as practicable after receiving a satisfactory application, the trustees must transfer the whole of the member's accumulation to the relevant Australian complying superannuation scheme and provide that scheme with any necessary information it reasonably requires.
-  (4) An application under subclause (2) must be in the form required by the trustees and must include––
+  (1) For a KiwiSaver scheme (but not for a complying superannuation fund) a member may not withdraw any amount, or have the trustees or the manager (as the case may be) transfer any amount, after the member's permanent emigration to Australia, except as provided by this clause.
+  (2) At any time after the member's permanent emigration to Australia, a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), have the trustees or the manager (as the case may be) transfer the member's accumulation to an Australian complying superannuation scheme.
+  (3) As soon as practicable after receiving a satisfactory application, the trustees or the manager (as the case may be) must transfer the whole of the member's accumulation to the relevant Australian complying superannuation scheme and provide that scheme with any necessary information it reasonably requires.
+  (4) An application under subclause (2) must be in the form required by the trustees or the manager (as the case may be) and must include––
     (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated to Australia; and
-    (b) proof to the satisfaction of the trustees––
+    (b) proof to the satisfaction of the trustees or the manager (as the case may be)––
       (i) of the member's departure from New Zealand (see, for examples of proof: clause 14(3)(b)(i)); and
       (ii) that the member has resided at an Australian address at some time following the member's departure from New Zealand.
-  (5) The trustees may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
+  (5) The trustees or the manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
 
 ## Part 5 — Amendments to other Acts and regulations
 
