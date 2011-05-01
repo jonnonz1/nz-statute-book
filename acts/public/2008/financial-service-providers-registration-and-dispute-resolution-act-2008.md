@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -741,7 +741,7 @@ The person responsible for an approved dispute resolution scheme must—
   (a) co-operate with other approved dispute resolution schemes and with the reserve scheme if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
   (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority:
-  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Securities Commission.
+  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Financial Markets Authority.
 
 **Annual reports and information requests by Minister**
 
@@ -832,7 +832,7 @@ The person responsible for a reserve scheme must—
   (a) co-operate with approved dispute resolution schemes if a complaint involves members of those schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
   (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority:
-  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Securities Commission.
+  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Financial Markets Authority.
 
 **Levy to fund reserve scheme**
 
@@ -902,7 +902,7 @@ The person responsible for a reserve scheme must—
 **Pecuniary and compensatory orders for contravening wholesale certification requirement**
 
 ### 79A Pecuniary order for contravening wholesale certification requirement
-(1) The High Court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person has, without reasonable excuse, contravened a wholesale certification requirement under section 49B.
+(1) The High Court may, on application by the Financial Markets Authority, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person has, without reasonable excuse, contravened a wholesale certification requirement under section 49B.
 (2) The amount of the pecuniary penalty must not, in respect of each act or omission, exceed $100,000 in the case of an individual or $300,000 in the case of an entity.
 (3) In setting the amount of the pecuniary penalty, the court must take into account all of the following matters:
   (a) the nature and extent of the contravention:
@@ -914,7 +914,7 @@ The person responsible for a reserve scheme must—
 
 ### 79B Compensation for contravention of wholesale certification requirement
 (1) If the court orders a person to pay a pecuniary penalty under section 79A in respect of the contravention of a wholesale certification requirement, the court may, in addition, order a person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (the aggrieved person).
-(2) An application for orders under this section may be made by the Commission or any aggrieved person.
+(2) An application for orders under this section may be made by the Financial Markets Authority or any aggrieved person.
 (3) The application must be made within 1 year of the date of the pecuniary penalty order.
 (4) The court may make an order under this section whether or not any aggrieved person is a party to the proceedings.
 (5) In proceedings under this section, the court may make such orders as it thinks fit.
@@ -942,5 +942,5 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 
 | Licensing authority | Licensed provider | Enactment |
 | --- | --- | --- |
-| Securities Commission | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
+| Financial Markets Authority | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
