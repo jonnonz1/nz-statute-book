@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -1242,7 +1242,7 @@ Where, in accordance with section 110(3), an agency notifies a Registrar of a co
 ### 117 Other enactments not affected
 Nothing in this Part limits or affects—
   (a) section 115 of the Electoral Act 1993; or
-  (b) section 19(5) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+  (b) section 239(2) of the Land Transport Act 1998.
 
 **Complaints to Privacy Commissioner**
 
