@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -43,7 +43,9 @@ _Consolidation as at 2011-02-01_
     (b) a person upon whom the constitution confers any of the rights and powers of a shareholder
   - **exempt company** has the meaning set out in section 6A of the Financial Reporting Act 1993
   - **existing company** means a body corporate registered or deemed to be registered under Part 2 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
+  - **financial markets participant** has the same meaning as in section 4 of the Financial Markets Authority Act 2011
   - **financial statements** has the meaning set out in section 8 of the Financial Reporting Act 1993
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **group financial statements** has the meaning set out in section 9 of the Financial Reporting Act 1993
   - **group of companies** has the meaning set out in section 2 of the Financial Reporting Act 1993
   - **holding company** has the meaning set out in section 5
@@ -2685,7 +2687,7 @@ A person must not be appointed the administrator of a company unless that person
 (3) A secured creditor must not appoint an administrator if the company is already in liquidation.
 
 ### 239L Appointment by court
-(1) The court may appoint an administrator on the application of a creditor, the liquidator (if the company is in liquidation), or the Registrar.
+(1) The court may appoint an administrator on the application of a creditor, the liquidator (if the company is in liquidation), the FMA (if the company is a financial markets participant), or the Registrar.
 (2) The court may appoint an administrator if—
   (a) the court is satisfied that the company is or may become insolvent and that an administration is likely to result in a better return for the company's creditors and shareholders than would result from an immediate liquidation of the company; or
   (b) it is just and equitable to do so.
@@ -2725,7 +2727,7 @@ The office of administrator is vacant if the administrator—
 
 ### 239R Removal of administrator
 (1) The administrator may be removed—
-  (a) by the court, on the application of a creditor, the liquidator (if the company is in liquidation), or the Registrar; or
+  (a) by the court, on the application of a creditor, the liquidator (if the company is in liquidation), the FMA (if the company is a financial markets participant), or the Registrar; or
   (b) by a resolution of creditors passed at the first creditors' meeting; or
   (c) by a resolution of creditors at a meeting convened under section 239T(1) to consider whether to remove a replacement administrator.
 (2) The creditors may not remove the administrator by a resolution passed at a creditors' meeting unless—
@@ -3245,7 +3247,7 @@ The deed administrator may resign by giving written notice to the company.
 (1) The court may—
   (a) remove the deed administrator, and appoint a person in his or her place; or
   (b) appoint a new deed administrator, if the deed of company arrangement has not yet terminated but for some reason no deed administrator is acting.
-(2) The court may make an order under subsection (1) on the application of a creditor of the company, a shareholder, the liquidator (if the company is in liquidation), or the Registrar.
+(2) The court may make an order under subsection (1) on the application of a creditor of the company, a shareholder, the liquidator (if the company is in liquidation), the FMA (if the company is a financial markets participant), or the Registrar.
 
 ### 239ACK Remuneration of deed administrator
 (1) The deed administrator is entitled to charge reasonable remuneration for carrying out his or her duties and exercising his or her powers as deed administrator.
@@ -3256,7 +3258,7 @@ The deed administrator may resign by giving written notice to the company.
 (1) The deed administrator may sell existing shares in the company—
   (a) with the consent of the shareholder in question; or
   (b) if the shareholder does not consent, with the permission of the court given on an application of the deed administrator.
-(2) The shareholder concerned, a creditor, or the Registrar may oppose an application by the administrator for the court's permission.
+(2) The shareholder concerned, a creditor, the FMA (if the company is a financial markets participant), or the Registrar may oppose an application by the administrator for the court's permission.
 
 ### Subpart 13 — Execution and effect of deed of company arrangement
 
@@ -3356,6 +3358,7 @@ A deed of company arrangement binds—
 (2) An application under this section may be made by—
   (a) the deed administrator; or
   (b) a shareholder or creditor of the company; or
+  (ba) the FMA (if the company is a financial markets participant); or
   (c) the Registrar.
 (3) On an application under this section,—
   (a) the court may declare the deed void or not void:
@@ -3512,11 +3515,12 @@ Subject to section 312, the administrator's right of indemnity under this subpar
   (b) a creditor of the company; or
   (c) the administrator; or
   (d) the deed administrator; or
+  (da) the FMA (if the company is a financial markets participant); or
   (e) the Registrar; or
   (f) any other interested person.
 
 ### 239ADP Orders to protect creditors during administration
-(1) On the application of the Registrar, the court may make any order that it thinks necessary to protect the interests of the company's creditors while the company is in administration.
+(1) On the application of the Registrar or, if the company is a financial markets participant, the FMA, the court may make any order that it thinks necessary to protect the interests of the company's creditors while the company is in administration.
 (2) On the application of a creditor of a company, the court may make any order that it thinks necessary to protect the interests of that creditor while the company is in administration.
 (3) An order may be made subject to conditions.
 
@@ -3558,6 +3562,7 @@ Subject to section 312, the administrator's right of indemnity under this subpar
 (2) An application for an order under this section may be made by—
   (a) a creditor or shareholder of the company; or
   (b) if the company is in liquidation, the liquidator; or
+  (ba) if the company is a financial markets participant, the FMA; or
   (c) the Registrar.
 
 ### 239ADV Prohibition order
@@ -3772,8 +3777,9 @@ If a licensed insurer may be put into liquidation under or in accordance with th
     (iii) a shareholder or other entitled person; or
     (iv) a creditor (including any contingent or prospective creditor); or
     (v) if the company is in administration, the administrator; or
+    (va) if the company is a financial markets participant, the FMA; or
     (vi) the Registrar; or
-    (vii) in the case of a licensed insurer, the Reserve Bank of New Zealand; or
+    (vii) if the company is a licensed insurer, the Reserve Bank of New Zealand; or
   (d) a resolution of the creditors passed at the watershed meeting held under section 239AT.
 (3) An Official Assignee may be appointed liquidator of a company only—
   (a) if the special resolution passed in accordance with paragraph (a) of subsection (2) is passed by reason of the Official Assignee exercising voting rights attaching to shares in the company of—
@@ -3915,6 +3921,7 @@ The liquidation of a company is completed when the liquidator—as the case may 
   (c) a director or shareholder of the company; or
   (d) any other entitled person; or
   (e) a creditor of the company; or
+  (ea) if the company is a financial markets participant, the FMA; or
   (f) the Registrar.
 (2A) On an application by a deed administrator, the court must have regard to—
   (a) any misconduct by the company's officers reported by the deed administrator, the liquidator, or the Registrar; and
@@ -4054,6 +4061,12 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
 (3) If the company is a licensed insurer, a copy of the report made under subsection (1) must be sent to the Reserve Bank of New Zealand.
 (4) A copy of a report sent under subsection (3), and any communications between the liquidator and Reserve Bank of New Zealand relating to that report, are protected by absolute privilege.
 (5) A liquidator who fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to the penalty set out in section 373(2).
+
+### 258B Registrar may supply report to FMA
+(1) If a report is made under section 258A in respect of a financial markets participant, the Registrar may supply a copy of the report to the FMA.
+(2) Any communications between—
+  (a) the Registrar and the FMA that relate to that report are protected by absolute privilege:
+  (b) the liquidator and the FMA that relate to that report are protected by absolute privilege.
 
 ### 259 Documents to state company in liquidation
 Every document entered into, made, or issued by a liquidator of a company on behalf of the company must state in a prominent position that the company is in liquidation.
@@ -5457,6 +5470,15 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (a) the Registrar must ensure that, forthwith after the decision of the court is given, any copy of a document taken or retained by the Registrar, or by a person authorised by the Registrar in respect of that act or decision, is destroyed; and
   (b) no information acquired under that section in relation to that act or decision is admissible in evidence in any proceedings unless the court hearing the proceedings in which it is sought to adduce the evidence is satisfied it was not obtained unfairly.
 
+### 371A Sharing of information with Financial Markets Authority
+(1) The Registrar may provide to the FMA any information, or a copy of any document, that the Registrar—
+  (a) holds in relation to the exercise or performance of the Registrar's functions, powers, or duties; and
+  (b) considers may assist the FMA in the exercise or performance of the FMA's functions, powers, or duties under this Act or any other enactment.
+(2) The Registrar may use any information, or a copy of any document, provided to him or her by the FMA under section 30 of the Financial Markets Authority Act 2011 in the Registrar's exercise or performance of the Registrar's functions, powers, or duties.
+(3) In this section, Registrar's functions, powers, or duties means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and the Securities Act 1978).
+(4) This section applies despite anything to the contrary in any contract, deed, or document.
+(5) Nothing in this section limits the Privacy Act 1993.
+
 ### 372 Fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing—
   (a) fees or other amounts payable to the Registrar in respect of the performance of functions and the exercise of powers under this Act:
@@ -5538,7 +5560,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (f) section 380 (which relates to carrying on business fraudulently):
   (g) section 382(4) (which relates to persons prohibited from managing companies):
   (h) section 383(5) (which relates to acting as a director of a company while prohibited by the court):
-  (i) section 385(9) (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar):
+  (i) section 385(9) (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
   (j) section 386A(2) (which relates to acting as a director of a phoenix company).
 
 ### 374 Penalties that may be imposed on directors in cases of failure by board or company to comply with Act
@@ -5670,9 +5692,13 @@ Any person who, not being incorporated with limited liability, whether alone or 
   (d)
   (e) a person has become of unsound mind,—
 (2) A person intending to apply for an order under this section must give not less than 10 days' notice of that intention to the person against whom the order is sought, and on the hearing of the application the last-mentioned person may appear and give evidence or call witnesses.
-(3) An application for an order under this section may be made by the Registrar, the Official Assignee, or by the liquidator of the company, or by a person who is, or has been, a shareholder or creditor of the company; and on the hearing of—the Registrar, Official Assignee, or liquidator must appear and call the attention of the court to any matters which seem to him or her to be relevant, and may give evidence or call witnesses.
-  (a) an application for an order under this section by the Registrar or the Official Assignee or the liquidator; or
-  (b) an application for leave under this section by a person against whom an order has been made on the application of the Registrar, the Official Assignee, or the liquidator,—
+(3) An application for an order under this section may be made by the Registrar, the FMA, the Official Assignee, or by the liquidator of the company, or by a person who is, or has been, a shareholder or creditor of the company.
+(3A) Subsection (3B) applies on the hearing of—
+  (a) an application for an order under this section by the Registrar, the FMA, the Official Assignee, or the liquidator; or
+  (b) an application for leave under this section by a person against whom an order has been made on the application of the Registrar, the FMA, the Official Assignee, or the liquidator.
+(3B) The Registrar, the FMA, the Official Assignee, or the liquidator (as the case may be)—
+  (a) must appear and call the attention of the court to any matters that seem to him, her, or it to be relevant; and
+  (b) may give evidence or call witnesses.
 (4) An order may be made under this section even though the person concerned may be criminally liable in respect of the matters on the ground of which the order is to be made.
 (4A) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 60A of the Securities Act 1978, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 (5) The Registrar of the court must, as soon as practicable after the making of an order under this section, give notice to the Registrar that the order has been made and the Registrar must give notice in the Gazette of the name of the person against whom the order is made.
@@ -5684,7 +5710,7 @@ A person who acts as a director of a company in contravention of section 382 or 
   (a) a liquidator of the company for every unpaid debt incurred by the company; and
   (b) a creditor of the company for a debt to that creditor incurred by the company—
 
-### 385 Registrar may prohibit persons from managing companies
+### 385 Registrar or FMA may prohibit persons from managing companies
 (1) This section applies in relation to a company—
   (a) that has been put into liquidation because of its inability to pay its debts as and when they became due:
   (b) that has ceased to carry on business because of its inability to pay its debts as and when they became due:
@@ -5694,22 +5720,27 @@ A person who acts as a director of a company in contravention of section 382 or 
   (f) that has entered into a compromise or arrangement with its creditors:
   (g) that is in voluntary administration under Part 15A.
 (2) This section also applies in relation to a company the liquidation of which has been completed whether or not the company has been removed from the New Zealand register.
-(3) The Registrar may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 5 years after the date of the notice as is specified in the notice. Every notice shall be published in the Gazette.
+(3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 5 years after the date of the notice as is specified in the notice. Every notice shall be published in the Gazette.
 (4) The power conferred by subsection (3) may be exercised in relation to—
-  (a) any person who the Registrar is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, a company in relation to which this section applies if the Registrar is also satisfied that the manner in which the affairs of it were managed was wholly or partly responsible for the company being a company in relation to which this section applies; or
-  (b) any person who the Registrar is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, 2 or more companies to which this section applies, unless that person satisfies the Registrar—
+  (a) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, a company in relation to which this section applies if the Registrar or the FMA is also satisfied that the manner in which the affairs of it were managed was wholly or partly responsible for the company being a company in relation to which this section applies; or
+  (b) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, 2 or more companies to which this section applies, unless that person satisfies the Registrar or the FMA—
     (i) that the manner in which the affairs of all, or all but one, of those companies were managed was not wholly or partly responsible for them being companies in relation to which this section applies; or
     (ii) that it would not be just or equitable for the power to be exercised.
-(5) The Registrar must not exercise the power conferred by subsection (3) unless—
-  (a) not less than 10 working days' notice of the fact that the Registrar intends to consider the exercise of it is given to the person; and
-  (b) the Registrar considers any representations made by the person.
+(5) The Registrar or the FMA must not exercise the power conferred by subsection (3) unless—
+  (a) not less than 10 working days' notice of the fact that the Registrar or the FMA intends to consider the exercise of it is given to the person; and
+  (b) the Registrar or the FMA considers any representations made by the person.
 (6) No person to whom a notice under subsection (3) applies shall be a director or promoter of a company, or be concerned or take part (whether directly or indirectly) in the management of a company.
-(7) Where a person to whom the Registrar has issued a notice under subsection (3) appeals against the issue of the notice under this Act or otherwise seeks judicial review of the notice, the notice remains in full force and effect pending the determination of the appeal or review, as the case may be.
-(8) The Registrar may, by notice in writing to a person to whom a notice under subsection (3) has been given,—Every such notice shall be published in the Gazette.
+(7) Where a person to whom the Registrar or the FMA has issued a notice under subsection (3) appeals against the issue of the notice under this Act or otherwise seeks judicial review of the notice, the notice remains in full force and effect pending the determination of the appeal or review, as the case may be.
+(8) The Registrar or the FMA may, by notice in writing to a person to whom a notice under subsection (3) has been given,—Every such notice shall be published in the Gazette.
   (a) revoke that notice; or
   (b) exempt that person from the notice in relation to a specified company or companies.
 (9) Every person to whom a notice under subsection (3) is given who fails to comply with the notice commits an offence and is liable on conviction to the penalties set out in section 373(4).
 (10) In this section, company includes an overseas company that carries on business in New Zealand.
+
+### 385A Appeals from FMA's exercise of power under section 385
+(1) A person who is aggrieved by the FMA's exercise of a power under section 385 may appeal to the court within 15 working days after the date that the notice is published in the Gazette under section 385(3), or within any further time as the court may allow.
+(2) On hearing the appeal, the court may approve the FMA's exercise of the power or may give any directions or make any determination in the matter that the court thinks fit.
+(3) Section 370 provides for appeals from the Registrar's acts or decisions under section 385.
 
 ### 386 Liability for contravening section 385
 A person who acts in contravention of a notice under section 385 is personally liable to—while that person was so acting.
