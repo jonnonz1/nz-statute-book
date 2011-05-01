@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -167,6 +167,7 @@ _Consolidation as at 2011-04-01_
   - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme in subparts MA to MF and MZ of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
   - **first payment period** , in section 47 and 173 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **fringe benefit** , in section 22 of this Act, has the meaning given by section CX 2 of the Income Tax Act 2007
   - **full and complete inspection** —
     (a) includes use as evidence in court proceedings:
@@ -3109,9 +3110,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (o) communicating, for the purpose of section 82A, information to a person who is an officer, employee, or agent of the responsible department and who is authorised to receive the information by the chief executive of that department:
   (p) communicating, for the purpose of section 85F, information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission:
   (q) communicating, for the purpose of section 85H, information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department:
-  (r) communicating to any person, being the Government Actuary or any person to whom the Government Actuary has delegated any of his or her functions, duties, or powers under this Act, any information, being information—
-    (i) that the person is authorised by the Government Actuary to receive; and
-    (ii) that the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable the Government Actuary to perform any duty or function, or exercise any power, lawfully conferred by the KiwiSaver Act 2006:
+  (r) communicating to the FMA the following information, provided that the Commissioner considers it not undesirable to disclose the information and the information is reasonably necessary to enable the FMA to perform its duties or functions or exercise its powers:
+    (i) individual or aggregate information relating to a member of a KiwiSaver scheme or a complying superannuation fund (as those terms are defined in section 4(1) of the KiwiSaver Act 2006):
+    (ii) individual or aggregate information relating to a KiwiSaver scheme or a complying superannuation fund:
+    (iii) information arising from the performance of the Commissioner's duties or functions, or the exercise of the Commissioner's powers, in relation to the KiwiSaver Act 2006 or a provision of an Inland Revenue Act that is relevant to the KiwiSaver Act 2006:
   (s) communicating to any person, being a member of the New Zealand Police, any information, being information—
     (i) that the person is authorised by the Commissioner of Police to receive; and
     (ii) that is communicated to that person for the purposes of section 85K:
@@ -3367,13 +3369,10 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
   - **WFF tax credit** means an interim instalment of WFF tax credit.
 
 ### 85GB Government Actuary to provide information to Commissioner for purpose of administration of KiwiSaver Act 2006
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Government Actuary for the purpose of administration of the KiwiSaver Act 2006.
-(2) For the purposes of this section, the Government Actuary or any person to whom the functions, duties, or powers of the Government Actuary are delegated, must, as soon as reasonably practicable after a request by the Commissioner, provide the Commissioner with the information that is requested by the Commissioner that the Government Actuary considers is not undesirable to disclose and is reasonably necessary to enable the Commissioner to exercise or perform any function, duty, or power lawfully conferred by the KiwiSaver Act 2006.
-(3) The information referred to in subsection (2) must be provided to the best of the knowledge and belief of the person who provides the information, if the person does not have certain knowledge of the relevant matters.
+[Repealed]
 
 ### 85GC Use of information supplied under section 85GB
-(1) If information is supplied to the Commissioner under section 85GB, the Commissioner may use the information in connection with the exercise or performance of any of the Commissioner's duties, functions, or powers under the KiwiSaver Act 2006.
-(2) Section 85GB and this section apply despite any other provision of this Act.
+[Repealed]
 
 ### 85H Disclosure of information for purposes of Parental Leave and Employment Protection Act 1987
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the responsible department for the purposes of providing to the responsible department, applicant information that the Commissioner considers necessary to enable the responsible department to—
@@ -5292,7 +5291,7 @@ Except so far as may be expressly provided to the contrary in this Act or the In
   (f) any determination of the Commissioner as to whether and to what extent any person or class of persons is not required to comply with section EA 3 of the Income Tax Act 2007; or
   (g)
   (h) any valuation or apportionment made by the Valuer-General or a registered valuer under the Valuation of Land Act 1951 or the Income Tax Act 2007; or
-  (i) any determination of the Government Actuary under section EY 11 of the Income Tax Act 2007 in relation to the status of a superannuation fund under subsections (3) to (9) of that section; or
+  (i) any determination of the FMA under section EY 11 of the Income Tax Act 2007 in relation to the status of a superannuation fund under subsections (3) to (9) of that section; or
   (j) any matter which by any provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
