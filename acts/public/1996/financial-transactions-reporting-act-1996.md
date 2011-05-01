@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -93,7 +93,8 @@ _Consolidation as at 2011-04-01_
   (e) the holder of a casino operator's licence under the Gambling Act 2003:
   (f) a sharebroker within the meaning of section 2 of the Sharebrokers Act 1908:
   (g) a real estate agent, but only to the extent that the real estate agent receives funds in the course of that person's business for the purpose of settling real estate transactions:
-  (h) a trustee or administration manager or investment manager of a superannuation scheme:
+  (h) a trustee or administration manager or investment manager of a superannuation scheme, including a KiwiSaver scheme within the meaning of the KiwiSaver Act 2006:
+  (ha) a manager of a KiwiSaver scheme other than a restricted scheme within the meaning of the KiwiSaver Act 2006:
   (i) a trustee or manager of a unit trust within the meaning of the Unit Trusts Act 1960:
   (j) the New Zealand Racing Board established by section 7 of the Racing Act 2003:
   (k) any person whose business or a principal part of whose business consists of any of the following:
