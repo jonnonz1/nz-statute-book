@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -10,6 +10,9 @@ _Consolidation as at 2010-03-03_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **act** includes an activity, condition, enactment, policy, practice, or requirement
+  - **actuary** means—
+    (a) a person who is a Fellow of the New Zealand Society of Actuaries Incorporated; or
+    (b) a person whom the Commission or the Complaints Division, as the case may be, considers to have an equivalent professional qualification
   - **Chief Commissioner** means the Commissioner appointed as the Chief Human Rights Commissioner under section 8(1)(a)
   - **Commission** means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
   - **Commissioner** means a member of the Commission
@@ -601,7 +604,7 @@ Where the nature of a skill varies according to whether it is exercised in relat
   (b) is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
 (2) In assessing, for the purposes of this section, whether it is reasonable to rely on any data or advice or opinion, and whether different treatment is reasonable, the Commission or the Complaints Division may—
   (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
-  (b) request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+  (b) request the views of an actuary on the justification for the reliance and for the different treatment.
 
 ### 49 Exception in relation to sport
 (1) Subject to subsection (2), nothing in section 44 shall prevent the exclusion of persons of one sex from participation in any competitive sporting activity in which the strength, stamina, or physique of competitors is relevant.
@@ -788,10 +791,10 @@ Where any conduct, practice, requirement, or condition that is not apparently in
   (f) providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
 (6) In assessing for the purposes of this section whether it is reasonable to rely on any data or advice or opinion and whether different treatment is reasonable, the Commission or the Complaints Division may—
   (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
-  (b) request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+  (b) request the views of an actuary on the justification for the reliance and for the different treatment.
 
 ### 71 Reports on superannuation schemes
-The Commission shall from time to time, after consultation with the Government Actuary, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
+The Commission shall from time to time, after consultation with the FMA, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
 
 ### 72 Power to vary trust deeds
 (1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
