@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2010-10-15_
+_Consolidation as at 2011-05-01_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
@@ -48,7 +48,7 @@ _Consolidation as at 2010-10-15_
   - **Registrar** means the chief executive, and includes, where appropriate,—
     (a) any person to whom the chief executive has delegated any of the powers, duties, or functions of the Registrar under this Act:
     (b) any person for the time being authorised by the chief executive to exercise or perform any of the powers, duties, or functions of the Registrar under this Act
-  - **registration plate** means a registration plate issued under the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986; and includes a trade plate and a personalised registration plate
+  - **registration plate** means a registration plate issued under the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998; and includes a trade plate and a personalised registration plate
   - **road** includes a highway (whether or not it has been declared to be a State highway) and a street
   - **supplementary licence** means a licence in the form prescribed for a supplementary licence that has been issued by an issuing officer in accordance with this Act
   - **time licence** means a licence in the form prescribed for a time licence that has been issued by an issuing officer in accordance with this Act
@@ -318,7 +318,7 @@ All road user charges (excluding applicable refunds, and goods and services tax 
 
 ### 22A Restrictions on fitting and repair of hubodometers
 (1) No person shall, without the written consent of the chief executive, fit a hubodometer to a motor vehicle for the purposes of this Act, if he knows or ought to know that the hubodometer has previously been fitted to the motor vehicle and that motor vehicle has been operated after the removal, loss, or displacement of the hubodometer from the motor vehicle.
-(2) No person shall, without the written consent of the chief executive, fit a hubodometer to a motor vehicle for the purposes of this Act, if he knows or ought to know that the hubodometer has previously been fitted to another motor vehicle for the purposes of this Act and that the other motor vehicle is still registered under Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+(2) No person shall, without the written consent of the chief executive, fit a hubodometer to a motor vehicle for the purposes of this Act, if he knows or ought to know that the hubodometer has previously been fitted to another motor vehicle for the purposes of this Act and that the other motor vehicle is still registered under Part 17 of the Land Transport Act 1998.
 (3) No person, other than the manufacturer thereof or a person approved in writing for this purpose by the chief executive, shall repair or modify or attempt to repair or modify, or in any way tamper with any part of, a hubodometer of a kind that may be fitted to a motor vehicle for the purposes of this Act.
 (4) Any consent or approval given by the chief executive for the purposes of this section may be given on such terms and conditions as the chief executive thinks fit; and may at any time be varied or revoked by the chief executive by notice in writing to the person.
 
