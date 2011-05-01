@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -45,7 +45,7 @@ In this Act, unless the context otherwise requires,—
   - **approved dispute resolution scheme** has the same meaning as in section 4 of the FSP Act, but also includes the reserve scheme within the meaning of section 71 of the FSP Act
   - **approved rating agency** means a rating agency nominated or approved under the Reserve Bank of New Zealand Act 1989 or section 62 of the Insurance (Prudential Supervision) Act 2010
   - **associated entity** , in relation to a QFE, means an entity that, under an approval given under section 67(4) or 71, is an associated entity of that QFE
-  - **authorised** means authorised by the Commission under section 55
+  - **authorised** means authorised by the FMA under section 55
   - **authorised financial adviser** means a person described in section 51
   - **bank in New Zealand** means a registered bank that carries on in New Zealand the business of banking
   - **bank term deposit** means a fixed term deposit product offered by a registered bank in New Zealand
@@ -93,8 +93,6 @@ In this Act, unless the context otherwise requires,—
   - **client property** means property received from, or on account of, a client in relation to acquiring, holding, or disposing of a financial product
   - **code** means the code of professional conduct brought into force under section 94
   - **college of education** has the same meaning as in section 159 of the Education Act 1989
-  - **Commission** means the Securities Commission established under the Securities Act 1978
-  - **Commissioner for Financial Advisers** or means the person appointed under section 79(3)
   - **conduct obligation** means,—
     (a) in relation to a financial adviser, a QFE, or a member of a QFE group, an obligation described in section 32:
     (b) in relation to a broker, an obligation described in section 77J
@@ -130,6 +128,7 @@ In this Act, unless the context otherwise requires,—
   - **financial adviser service** has the meaning set out in section 9
   - **financial product** means a category 1 product or a category 2 product
   - **financial service** means a financial service as defined in section 5 of the FSP Act (but excluding financial services provided by a person to whom section 7(2) or (3) of that Act applies)
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **FSP Act** means the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **futures contract** has the same meaning as in section 37(1) of the Securities Markets Act 1988
   - **general education system** has the same meaning as in section 120 of the Education Act 1989
@@ -149,7 +148,7 @@ In this Act, unless the context otherwise requires,—
   - **nominated representative** means an individual who has been nominated by a QFE or by a partner entity in accordance with section 74 and whose nomination has not been terminated under that section
   - **non-profit organisation** means any organisation, whether incorporated or not, that is carried on other than for the purposes of profit or gain to an owner, member, or shareholder
   - **on behalf of the business of another person** or has the meaning set out in section 5I(1)
-  - **overseas regulator** means a body in another country with functions corresponding to those of the Commission under this Act
+  - **overseas regulator** means a body in another country with functions corresponding to those of the FMA under this Act
   - **partner entity** , in relation to a QFE, means an entity that is part of the QFE
   - **personalised service** has the meaning set out in section 15
   - **polytechnic** has the same meaning as in section 159(1) of the Education Act 1989
@@ -193,7 +192,7 @@ In this Act, unless the context otherwise requires,—
       (i) a security exempted from Part 2 of the Securities Act 1978 under any of paragraphs (b) to (h) of section 5(1) of that Act; or
       (ii) an investment-linked contract of insurance; or
       (iii) a life insurance policy (within the meaning of section 2(1) of the Securities Act 1978) issued before 1 January 2009
-  - **standard conditions** means standard terms and conditions for the time being approved by the Commission under section 147A or 147C and in force under section 147D
+  - **standard conditions** means standard terms and conditions for the time being approved by the FMA under section 147A or 147C and in force under section 147D
   - **State services** has the meaning given to it in section 2 of the State Sector Act 1988
   - **State services employee** means an employee or chief executive in any part of the State services, whether paid by salary, wages, or otherwise
   - **statutory officer** means a person—
@@ -501,7 +500,7 @@ A person (A) who provides a financial adviser service on behalf of the business 
   (h) professional or business experience relevant to performance of a financial adviser service:
   (i) criminal convictions:
   (j) disciplinary proceedings:
-  (k) adverse findings by a court or the Commission:
+  (k) adverse findings by a court or the FMA:
   (l) bankruptcy or other insolvency proceedings:
   (m) indemnity insurance:
   (n) matters required to be disclosed by the authorised financial adviser's terms and conditions of authorisation.
@@ -530,26 +529,7 @@ A person (A) who provides a financial adviser service on behalf of the business 
 (3) Regulations may provide for the form that the disclosure must take.
 
 ### 26 Disclosure by qualifying financial entity
-(1) This section applies—
-  (a) if a financial adviser (A)—
-    (i) is not an authorised financial adviser; and
-    (ii) is an employee or agent of a QFE; and
-    (iii) performs a financial adviser service in relation to a category 2 product in the course of the QFE's business; or
-  (b) if a financial adviser (A)—
-    (i) is not an authorised financial adviser; and
-    (ii) is an employee of a QFE; and
-    (iii) performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.
-(1A) In this section, the financial adviser service means a financial adviser service referred to in—
-  (a) subsection (1)(a)(iii); or
-  (b) subsection (1)(b)(iii).
-(2) In any case to which this section applies,—
-  (a) before (or, if not practicable before, as soon as practicable after) A performs the financial adviser service, the QFE must disclose the information prescribed by regulations to the person for whom the financial adviser service is performed; and
-  (b) A has no obligation of disclosure.
-(3) For the purposes of this section, regulations may prescribe disclosure in relation to any or all of the following matters:
-  (a) the QFE’s dispute resolution arrangements:
-  (b) matters required to be disclosed by the QFE’s terms and conditions of grant of QFE status:
-  (c) whether the QFE provides any other licensed service.
-(4) Regulations may prescribe the form of disclosure.
+[Repealed]
 
 ### 27 Disclosure must not be misleading, deceptive, or confusing
 Disclosure under a disclosure obligation must not be misleading, deceptive, or confusing at the time that the disclosure is made.
@@ -655,18 +635,18 @@ An authorised financial adviser must comply with the code.
 (1) An authorised financial adviser must comply with the terms and conditions of his or her authorisation.
 (2) A person who contravenes subsection (1) commits an offence (see section 126).
 
-### 45A Authorised financial adviser may report breach of Act to Commission
-(1) If an authorised financial adviser (A) reasonably believes that a person has breached this Act or an obligation imposed under this Act (including the code) in a material respect, A may, as soon as practicable, report the breach to the Commission.
+### 45A Authorised financial adviser may report breach of Act to FMA
+(1) If an authorised financial adviser (A) reasonably believes that a person has breached this Act or an obligation imposed under this Act (including the code) in a material respect, A may, as soon as practicable, report the breach to the FMA.
 (2) If A makes a report under subsection (1) in good faith,—
   (a) no civil, criminal, or disciplinary proceedings may be brought against A in respect of the report:
   (b) no person may terminate the appointment or employment of A by reason of the report:
   (c) no tribunal, body, or authority that has jurisdiction in respect of the professional conduct of A may make an order against, or do any act in relation to, A in respect of the report:
-  (d) the Commission must not disclose information that might identify A unless—
+  (d) the FMA must not disclose information that might identify A unless—
     (i) A consents in writing to the disclosure of the information; or
-    (ii) the Commission believes that disclosure of the information is essential to the effective investigation of the alleged breach or is otherwise essential, having regard to the principles of natural justice.
-(3) If A makes a report under subsection (1) (whether or not in good faith), the Commission must not disclose information that might identify a client of A unless—
+    (ii) the FMA believes that disclosure of the information is essential to the effective investigation of the alleged breach or is otherwise essential, having regard to the principles of natural justice.
+(3) If A makes a report under subsection (1) (whether or not in good faith), the FMA must not disclose information that might identify a client of A unless—
   (a) the client consents in writing to the disclosure of the information; or
-  (b) the Commission believes that disclosure of the information is essential to the effective investigation of the alleged breach or is otherwise essential, having regard to the principles of natural justice.
+  (b) the FMA believes that disclosure of the information is essential to the effective investigation of the alleged breach or is otherwise essential, having regard to the principles of natural justice.
 
 **Conduct obligations related to QFEs**
 
@@ -682,25 +662,25 @@ An authorised financial adviser must comply with the code.
 (1) A QFE or a member of a QFE group must not advertise a financial adviser service in a way that is misleading, deceptive, or confusing.
 (2) Contraventions of this section give rise to the offences described in section 131.
 
-**Commission's direction in respect of breach of disclosure or conduct obligation**
+**FMA's direction in respect of breach of disclosure or conduct obligation**
 
-### 49 Commission may give financial adviser direction in respect of breach of disclosure or conduct obligation
-(1) This section applies if the Commission has reason to believe that a financial adviser is in breach of a disclosure or conduct obligation.
-(2) The Commission may give the financial adviser notice of his or her alleged breach and, if the Commission does give a notice of breach, the Commission must also give the financial adviser a reasonable opportunity to respond.
-(3) If the Commission concludes, after considering the financial adviser's response, that the financial adviser is in breach, the Commission may give the financial adviser a direction in writing.
+### 49 FMA may give financial adviser direction in respect of breach of disclosure or conduct obligation
+(1) This section applies if the FMA has reason to believe that a financial adviser is in breach of a disclosure or conduct obligation.
+(2) The FMA may give the financial adviser notice of his or her alleged breach and, if the FMA does give a notice of breach, the FMA must also give the financial adviser a reasonable opportunity to respond.
+(3) If the FMA concludes, after considering the financial adviser's response, that the financial adviser is in breach, the FMA may give the financial adviser a direction in writing.
 (4) The direction may—
   (a) direct the financial adviser to comply with the conduct or disclosure obligation:
   (b) stipulate any steps that the financial adviser must take in order to comply with the obligation:
-  (c) require the financial adviser to report to the Commission within 28 days of the date of the direction stating how and when the Commission's direction will be implemented.
-(5) A financial adviser who fails to comply with a direction by the Commission commits an offence (see section 135).
-(6) Nothing in this section precludes the Commission from exercising any of its other powers under this Act against a financial adviser.
+  (c) require the financial adviser to report to the FMA within 28 days of the date of the direction stating how and when the FMA's direction will be implemented.
+(5) A financial adviser who fails to comply with a direction by the FMA commits an offence (see section 135).
+(6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a financial adviser.
 
 ## Part 3 — Authorised financial advisers and qualifying financial entities
 
 ### 50 Outline of this Part
 (1) This Part is divided into 2 subparts.
-(2) Subpart 1 describes who is an authorised financial adviser, how a person is authorised, and the powers of the Commission in relation to an authorised financial adviser.
-(3) Subpart 2 describes what is a qualifying financial entity (a QFE), how an entity achieves QFE status, and the powers of the Commission in relation to a QFE.
+(2) Subpart 1 describes who is an authorised financial adviser, how a person is authorised, and the powers of the FMA in relation to an authorised financial adviser.
+(3) Subpart 2 describes what is a qualifying financial entity (a QFE), how an entity achieves QFE status, and the powers of the FMA in relation to a QFE.
 
 ### Subpart 1 — Authorised financial advisers
 
@@ -710,7 +690,7 @@ An authorised financial adviser is an individual who is—
   (b) authorised.
 
 ### 52 Who may apply to be authorised
-Any individual may apply to the Commission to be authorised.
+Any individual may apply to the FMA to be authorised.
 
 ### 53 Application to be authorised
 An application to be authorised must be—
@@ -719,28 +699,28 @@ An application to be authorised must be—
 
 ### 54 Eligibility to be authorised
 A person (A) is eligible to be authorised if—
-  (a) the Commission is satisfied that—
+  (a) the FMA is satisfied that—
     (i) A is registered or complies with section 13(a) and (b) of the FSP Act; and
     (ii) A is a person of good character; and
     (iii) A meets the levels of competency, knowledge, and skills specified in the code for an authorised financial adviser; and
     (iv) A is not debarred from applying for authorisation; and
-  (b) the Commission—
+  (b) the FMA—
     (i) is not aware, after making any inquiries that it considers appropriate, that A has been convicted by a court in New Zealand or elsewhere of an offence punishable by imprisonment for a term of 6 months or more; or
-    (ii) if the Commission is so aware, is satisfied that the commission of the offence does not reflect adversely on A’s fitness to act as an authorised financial adviser.
+    (ii) if the FMA is so aware, is satisfied that the commission of the offence does not reflect adversely on A’s fitness to act as an authorised financial adviser.
 
-### 55 Commission must approve or decline application for authorisation
-(1) If an applicant for authorisation is eligible, the Commission must authorise that person in respect of 1 or more of the following for a specified period:
+### 55 FMA must approve or decline application for authorisation
+(1) If an applicant for authorisation is eligible, the FMA must authorise that person in respect of 1 or more of the following for a specified period:
   (a) providing any financial adviser service, or specified kinds of financial adviser services, in relation to any category 1 product, specified category 1 products, or specified classes of category 1 product:
   (b) providing a discretionary investment management service on behalf of clients, generally or in specified cases, in relation to any category 1 product, specified category 1 products, or specified classes of category 1 product:
   (c) providing investment planning services generally or in specified cases:
   (d) providing, in any case that is specified in the regulations for the purposes of this paragraph, services of the kind referred to in paragraph (a) or (b) or both, but in relation to any category 2 product, specified category 2 products, or specified classes of category 2 products.
 (2) The authorisation may be subject to terms and conditions relating to financial adviser services or broking services or to both.
-(3) If the Commission approves the application, the Commission must notify the applicant in writing of—
+(3) If the FMA approves the application, the FMA must notify the applicant in writing of—
   (a) the authorisation; and
   (b) the terms and conditions (if any); and
   (c) the period of authorisation.
-(4) The Commission may incorporate, with any modifications it considers appropriate, the standard conditions.
-(5) If an applicant for authorisation is not eligible, the Commission must—
+(4) The FMA may incorporate, with any modifications it considers appropriate, the standard conditions.
+(5) If an applicant for authorisation is not eligible, the FMA must—
   (a) decline the application; and
   (b) notify the applicant in writing of—
     (i) the decision and the reasons for it; and
@@ -748,34 +728,34 @@ A person (A) is eligible to be authorised if—
 (6) Subsection (1)(d) does not limit or affect anything in section 18.
 
 ### 55A Variation of terms and conditions and period of authorisation
-(1) An authorised financial adviser may apply to the Commission for a variation of the terms and conditions of the adviser’s authorisation.
-(2) The Commission may grant or decline the application.
-(3) The Commission may, by notice to an authorised financial adviser, propose a variation of the terms and conditions of the adviser’s authorisation or the period of the adviser’s authorisation, or both, on either or both of the following grounds:
+(1) An authorised financial adviser may apply to the FMA for a variation of the terms and conditions of the adviser’s authorisation.
+(2) The FMA may grant or decline the application.
+(3) The FMA may, by notice to an authorised financial adviser, propose a variation of the terms and conditions of the adviser’s authorisation or the period of the adviser’s authorisation, or both, on either or both of the following grounds:
   (a) the business of the adviser has changed in a way that poses a material risk to consumers:
   (b) the adviser has been involved in market practices that are, in material respects, inconsistent with the purpose of this Act.
-(4) The Commission must specify in the notice a reasonable period for the adviser to respond in writing.
-(5) After considering any response received within the period specified in the notice, the Commission may, by notice to the adviser, vary the terms and conditions of the adviser’s authorisation or the period of the adviser’s authorisation, or both.
-(6) The Commission may, in the notice under subsection (5), vary terms and conditions on a provisional basis and, if it does so, must, in the light of any changes in risk posed by the adviser’s business or market practices, review those terms and conditions by a date stated in the notice.
-(7) On completion of the review, the Commission may do any of the following:
+(4) The FMA must specify in the notice a reasonable period for the adviser to respond in writing.
+(5) After considering any response received within the period specified in the notice, the FMA may, by notice to the adviser, vary the terms and conditions of the adviser’s authorisation or the period of the adviser’s authorisation, or both.
+(6) The FMA may, in the notice under subsection (5), vary terms and conditions on a provisional basis and, if it does so, must, in the light of any changes in risk posed by the adviser’s business or market practices, review those terms and conditions by a date stated in the notice.
+(7) On completion of the review, the FMA may do any of the following:
   (a) confirm 1 or more of the variations effected by subsection (5):
   (b) cancel 1 or more of the variations effected by subsection (5):
   (c) propose further terms and conditions by giving the authorised financial adviser a notice under subsection (3).
-(8) The Commission must give the authorised financial adviser notice of any decision taken under subsection (7)(a) or (b).
+(8) The FMA must give the authorised financial adviser notice of any decision taken under subsection (7)(a) or (b).
 
-### 56 Commission must notify Registrar of authorisation
-(1) If the Commission authorises the applicant, the Commission must notify the Registrar in writing of—
+### 56 FMA must notify Registrar of authorisation
+(1) If the FMA authorises the applicant, the FMA must notify the Registrar in writing of—
   (a) the name and business address of the applicant; and
   (b) the terms and conditions (if any) of the authorisation; and
   (c) the period of authorisation.
-(2) The Commission may publicly notify the authorisation and the other matters referred to in subsection (1) as it thinks fit.
+(2) The FMA may publicly notify the authorisation and the other matters referred to in subsection (1) as it thinks fit.
 
 ### 57 Termination of authorisation
 (1) A person’s authorisation as an authorised financial adviser terminates when—
   (a) the period of authorisation (including any extension under section 58(5)) expires; or
-  (b) the Commission receives a written request from the person requesting the Commission to cancel his or her authorisation; or
+  (b) the FMA receives a written request from the person requesting the FMA to cancel his or her authorisation; or
   (c) the person ceases to be registered; or
-  (d) the Commission cancels his or her authorisation under section 59(2).
-(2) The Commission must notify the Registrar in writing of termination of authorisation under subsection (1)(a), (b), or (d).
+  (d) the FMA cancels his or her authorisation under section 59(2).
+(2) The FMA must notify the Registrar in writing of termination of authorisation under subsection (1)(a), (b), or (d).
 
 ### 58 Renewal of authorisation
 (1) An authorised financial adviser may apply for renewal of authorisation.
@@ -783,50 +763,50 @@ A person (A) is eligible to be authorised if—
   (a) made in the prescribed form (if any); and
   (b) accompanied by the prescribed fee (if any).
 (3) Subject to subsection (4), sections 52 to 56 apply, with any necessary modifications, to an application for renewal of authorisation.
-(4) In addition to the matters specified in section 54, the Commission must be satisfied that—
+(4) In addition to the matters specified in section 54, the FMA must be satisfied that—
   (a) the applicant for renewal of authorisation has complied with the Act, the terms and conditions of authorisation, and the minimum professional standards for authorised financial advisers prescribed by the code; or
   (b) any failure, on the part of the applicant, to comply is not sufficiently serious or recent to preclude the renewal of the applicant’s authorisation.
 (5) If an application for renewal of authorisation has been made but not determined before the date on which the authorisation is due to expire, the authorisation continues in force until the application is determined.
 (6) The renewal of authorisation takes effect from the date of expiry of the previous authorisation.
 
-**Commission’s powers in relation to default by authorised financial adviser**
+**FMA's powers in relation to default by authorised financial adviser**
 
-### 59 Commission’s powers in relation to default by authorised financial adviser
-(1) This section applies if the Commission is satisfied that an authorised financial adviser (A)—
+### 59 FMA's powers in relation to default by authorised financial adviser
+(1) This section applies if the FMA is satisfied that an authorised financial adviser (A)—
   (a) has ceased to be eligible for authorisation; or
   (b) has breached or is in breach of this Act (excluding section 37) or the regulations; or
   (c) has breached or is in breach of a term or condition of his or her authorisation; or
   (d) is the subject of a recommendation by the disciplinary committee under section 101(3)(a), (b), or (c); or
-  (e) has failed to pay a fee or levy as required by this Act or the regulations.
-(2) In any case to which this section applies, the Commission may, after following the procedure set out in section 60 and subject to subsection (3),—
+  (e) has failed to pay a fee as required by this Act or the regulations or a levy as required by section 68 of the Financial Markets Authority Act 2011 or regulations made under that section.
+(2) In any case to which this section applies, the FMA may, after following the procedure set out in section 60 and subject to subsection (3),—
   (a) cancel the authorisation; or
   (b) cancel the authorisation and debar A for a specified period from re-applying for authorisation; or
-  (c) suspend the authorisation for a specified period or until A does any thing that the Commission may specify; or
+  (c) suspend the authorisation for a specified period or until A does any thing that the FMA may specify; or
   (d) amend the terms and conditions of the authorisation; or
   (e) make no order.
-(3) The Commission may only take 1 of the actions specified in subsection (2).
-(4) If the Commission cancels or suspends the authorisation of an authorised financial adviser, the Commission must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
-(5) The Commission may publicly notify the action it takes under subsection (2) as it sees fit.
+(3) The FMA may only take 1 of the actions specified in subsection (2).
+(4) If the FMA cancels or suspends the authorisation of an authorised financial adviser, the FMA must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
+(5) The FMA may publicly notify the action it takes under subsection (2) as it sees fit.
 
 ### 60 Reasonable opportunity to be heard
-The Commission must not take any of the actions specified in section 59(2) unless it has first—
+The FMA must not take any of the actions specified in section 59(2) unless it has first—
   (a) informed the person concerned in writing as to why it may take any of those actions; and
   (b) given that person or his or her representative a reasonable opportunity to make written submissions and be heard on the question.
 
-### 61 Commission may give authorised financial adviser direction
-(1) This section applies if the Commission has reason to believe that an authorised financial adviser is in breach of the terms and conditions of his or her authorisation (the terms and conditions).
-(2) The Commission may give the financial adviser notice of his or her alleged breach and, if the Commission does give a notice of breach, the Commission must also give the financial adviser a reasonable opportunity to respond.
-(3) If the Commission concludes, after considering the financial adviser’s response, that the financial adviser is in breach, the Commission may give the financial adviser a direction in writing.
+### 61 FMA may give authorised financial adviser direction
+(1) This section applies if the FMA has reason to believe that an authorised financial adviser is in breach of the terms and conditions of his or her authorisation (the terms and conditions).
+(2) The FMA may give the financial adviser notice of his or her alleged breach and, if the FMA does give a notice of breach, the FMA must also give the financial adviser a reasonable opportunity to respond.
+(3) If the FMA concludes, after considering the financial adviser’s response, that the financial adviser is in breach, the FMA may give the financial adviser a direction in writing.
 (4) The direction may—
   (a) direct the financial adviser to comply with the terms and conditions:
   (b) stipulate any steps that the financial adviser must take in order to comply with the terms and conditions:
-  (c) require the financial adviser to report to the Commission within 28 days of the date of the direction stating how and by when the Commission’s direction will be implemented.
-(5) An authorised financial adviser who fails to comply with a direction by the Commission commits an offence (see section 127).
-(6) Nothing in this section precludes the Commission from exercising any of its other powers under this Act against an authorised financial adviser.
+  (c) require the financial adviser to report to the FMA within 28 days of the date of the direction stating how and by when the FMA's direction will be implemented.
+(5) An authorised financial adviser who fails to comply with a direction by the FMA commits an offence (see section 127).
+(6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against an authorised financial adviser.
 
-### 62 Other provisions concerning Commission’s powers in relation to default by authorised financial adviser
+### 62 Other provisions concerning FMA's powers in relation to default by authorised financial adviser
 (1) At the end of a period of suspension of authorisation, the person’s authorisation is immediately revived, unless his or her authorisation has been further suspended or has been cancelled.
-(2) Suspension or cancellation under section 59(2) is effective when a written notice of the suspension or cancellation is sent to the person concerned by the Commission.
+(2) Suspension or cancellation under section 59(2) is effective when a written notice of the suspension or cancellation is sent to the person concerned by the FMA.
 
 ### Subpart 2 — Qualifying financial entities
 
@@ -838,7 +818,7 @@ The Commission must not take any of the actions specified in section 59(2) unles
 (3) Subsection (2) does not limit any obligation or liability imposed on a partner entity.
 
 ### 64 Who may apply for QFE status
-An application may be made to the Commission by—
+An application may be made to the FMA by—
   (a) a single entity for QFE status; or
   (b) 2 or more related bodies corporate for joint QFE status.
 
@@ -853,88 +833,88 @@ An application may be made to the Commission by—
   (c) monitoring those standards.
 
 ### 66 Eligibility for QFE status
-(1) The Commission may confer QFE status on a single entity applying under section 64(a) or on 2 or more entities applying under section 64(b) if it is satisfied that—
+(1) The FMA may confer QFE status on a single entity applying under section 64(a) or on 2 or more entities applying under section 64(b) if it is satisfied that—
   (a) each entity is registered or is entitled to be registered; and
   (b) no entity is debarred from applying for QFE status; and
   (c) on the grant of QFE status and at all times while a QFE, the single entity that will be the QFE has, or the partner entities that will be the QFE together have, the capacity to, and will,—
     (i) discharge its or their ongoing compliance obligations under section 76 and all other obligations on it under this Act or the regulations (other than any broker obligations); and
     (ii) comply with the terms and conditions (if any) of the grant of QFE status; and
     (iii) maintain procedures to ensure that retail clients of the QFE receive adequate consumer protection.
-(2) In determining under subsection (1)(c) whether clients receive adequate consumer protection, the Commission must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
+(2) In determining under subsection (1)(c) whether clients receive adequate consumer protection, the FMA must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
   (a) consider whether the clients will receive protection of a similar standard to that provided by advisers who are subject to the code; and
   (b) in doing so, take into account the scope of category 1 products in respect of which those QFE advisers provide financial adviser services.
 
-### 67 Commission must approve or decline application for QFE status
-(1) If an applicant under section 64(a) is eligible, or if applicants under section 64(b) are eligible, for QFE status, the Commission must approve the application and grant the applicant or the applicants QFE status.
+### 67 FMA must approve or decline application for QFE status
+(1) If an applicant under section 64(a) is eligible, or if applicants under section 64(b) are eligible, for QFE status, the FMA must approve the application and grant the applicant or the applicants QFE status.
 (2) The grant of QFE status is subject to the terms and conditions specified or incorporated in the grant.
-(3) The Commission may incorporate, with any modifications it considers appropriate, the standard conditions.
-(4) If the application also asks for the approval of 1 or more entities as associated entities of the QFE, the Commission may approve an entity as an associated entity of the QFE if that entity—
+(3) The FMA may incorporate, with any modifications it considers appropriate, the standard conditions.
+(4) If the application also asks for the approval of 1 or more entities as associated entities of the QFE, the FMA may approve an entity as an associated entity of the QFE if that entity—
   (a) is registered or is entitled to be registered; or
   (b) is, under the FSP Act, an affiliated entity of one of the applicants; or
   (c) is an exempt provider.
-(5) Even though an entity is eligible under subsection (4), the Commission may decline to approve the entity for any reason, including, without limitation,—
+(5) Even though an entity is eligible under subsection (4), the FMA may decline to approve the entity for any reason, including, without limitation,—
   (a) the absence of a direct connection between the entity and the QFE or any of its partner entities; or
   (b) concerns specified under section 67A(2) that cannot be adequately addressed by the imposition of terms and conditions under section 67A(4).
-(6) The Commission is not precluded from approving an entity as an associated entity of a QFE merely because the entity is, or is proposed to be, the associated entity of another QFE.
+(6) The FMA is not precluded from approving an entity as an associated entity of a QFE merely because the entity is, or is proposed to be, the associated entity of another QFE.
 
 ### 67A Associated entities may be subject to special terms and conditions in certain cases
 (1) This section applies if—
   (a) an application for QFE status asks for the approval of an entity as an associated entity; but
-  (b) the Commission has concerns about the provision of personalised services in relation to certain category 1 products by individuals who would, following the approval of the entity, be the entity's QFE advisers.
-(2) The Commission may specify its concerns in a notice to the applicant or applicants.
-(3) The Commission must specify in the notice a reasonable period for the applicant or applicants to respond in writing and must ask the applicant or applicants to satisfy the Commission that the QFE advisers of the proposed associated entity are able to, and will, provide financial adviser services in relation to the category 1 product concerned with the appropriate level of professionalism and competence.
-(4) After considering the entity's response, the Commission may make its approval of the entity as an associated entity subject to special terms and conditions, which form part of the terms and conditions specified under section 67(2).
+  (b) the FMA has concerns about the provision of personalised services in relation to certain category 1 products by individuals who would, following the approval of the entity, be the entity's QFE advisers.
+(2) The FMA may specify its concerns in a notice to the applicant or applicants.
+(3) The FMA must specify in the notice a reasonable period for the applicant or applicants to respond in writing and must ask the applicant or applicants to satisfy the FMA that the QFE advisers of the proposed associated entity are able to, and will, provide financial adviser services in relation to the category 1 product concerned with the appropriate level of professionalism and competence.
+(4) After considering the entity's response, the FMA may make its approval of the entity as an associated entity subject to special terms and conditions, which form part of the terms and conditions specified under section 67(2).
 (5) The terms and conditions referred to in subsection (4) may, without limitation, relate to—
   (a) the kinds of financial adviser services that may be provided by or on behalf of the associated entity:
   (b) any conditions and restrictions that are to apply to the provision of those services:
   (c) the way in which the QFE is to supervise the associated entity.
 
 ### 68 Determination of application
-(1) If the Commission approves an application for a grant of QFE status, the Commission must notify the entity or entities in writing of—
+(1) If the FMA approves an application for a grant of QFE status, the FMA must notify the entity or entities in writing of—
   (a) the grant of QFE status; and
   (b) the terms and conditions; and
   (c) the period for which QFE status has been granted.
-(2) If an applicant under section 64(a) is not, or 1 or more of the applicants under section 64(b) are not, eligible for QFE status, the Commission must—
+(2) If an applicant under section 64(a) is not, or 1 or more of the applicants under section 64(b) are not, eligible for QFE status, the FMA must—
   (a) decline the application; and
   (b) notify the entity or entities of—
     (i) the decision and the reasons for it; and
     (ii) the right of an applicant under section 64(a) to appeal, and the right of applicants under section 64(b) jointly to appeal, against the decision.
 
 ### 69 Name of QFE group
-(1) A QFE group has the name that is approved by the Commission and chosen by the applicant or applicants for QFE status that results in the formation of the group.
+(1) A QFE group has the name that is approved by the FMA and chosen by the applicant or applicants for QFE status that results in the formation of the group.
 (2) Every application for QFE status that would, if approved, result in the formation of a QFE group must submit a name for the proposed group.
-(3) The Commission may ask the applicant or applicants to submit another name.
+(3) The FMA may ask the applicant or applicants to submit another name.
 
-### 70 Commission must notify Registrar of grant of QFE status
-(1) If the Commission grants an entity or entities QFE status, the Commission must notify the Registrar in writing of—
+### 70 FMA must notify Registrar of grant of QFE status
+(1) If the FMA grants an entity or entities QFE status, the FMA must notify the Registrar in writing of—
   (a) the name of the entity, or the names of the partner entities, granted QFE status:
   (b) the period for which QFE status has been granted:
   (c) if a QFE group has been formed, the name of the group:
   (d) if associated entities of the QFE have been approved, the names of those entities.
-(2) The Commission may publicly notify the grant of QFE status and the other matters referred to in subsection (1) as it thinks fit.
+(2) The FMA may publicly notify the grant of QFE status and the other matters referred to in subsection (1) as it thinks fit.
 
 **Commission’s powers in relation to default by QFE**
 
 ### 71 Addition of associated entities
-(1) The QFE of a QFE group may apply to the Commission to approve the addition of 1 or more entities as associated entities of the QFE.
+(1) The QFE of a QFE group may apply to the FMA to approve the addition of 1 or more entities as associated entities of the QFE.
 (2) The application must—
   (a) be in the prescribed form (if any); and
   (b) be accompanied by the prescribed fee (if any); and
   (c) name the entities sought to be added as associated entities.
 (3) Sections 67(3) to (5) and 67A apply with any necessary modifications.
 (4) The QFE may withdraw the application at any time before it is determined.
-(5) If the Commission approves an entity as an associated entity under this section, the Commission—
+(5) If the FMA approves an entity as an associated entity under this section, the FMA—
   (a) must notify the Registrar in writing of the name of the entity; and
   (b) may publicly notify the inclusion of the associated entity in the QFE group as it thinks fit.
 
 ### 72 Termination of status of associated entity
 The status of an associated entity terminates when—
   (a) the entity ceases to be registered; or
-  (b) the Commission receives a written request from the entity or from the relevant QFE or any partner entity to cancel its status as associated entity; or
+  (b) the FMA receives a written request from the entity or from the relevant QFE or any partner entity to cancel its status as associated entity; or
   (c) the QFE status of the relevant QFE is terminated.
 
 ### 73 Certification of QFE group
-(1) The Commission may issue a certificate stating that named entities are, as at the date of the certificate, a QFE group or that named entities were, during a specified period, a QFE group.
+(1) The FMA may issue a certificate stating that named entities are, as at the date of the certificate, a QFE group or that named entities were, during a specified period, a QFE group.
 (2) A certificate issued under subsection (1) is, in the absence of proof to the contrary, evidence of its contents.
 
 ### 74 Nominated representatives of QFEs or partner entities
@@ -945,22 +925,22 @@ The status of an associated entity terminates when—
     (ii) is dated and, if the nomination is to take effect on a later date, specifies that later date.
 (2) An individual may not be the nominated representative of 2 or more entities unless the entities are related bodies corporate.
 (3) The nomination of an individual as nominated representative is terminated if the entity that nominated the individual—
-  (a) gives written notice to the individual and to the Commission to that effect; or
+  (a) gives written notice to the individual and to the FMA to that effect; or
   (b) as a result of the termination of QFE status, ceases to be a QFE or part of a QFE.
 (4) Every QFE must keep an up-to-date record of its nominated representatives.
 
 **Liability of employee or agent**
 
 ### 75 Variation of terms and conditions and period of grant of QFE status
-(1) A QFE may apply to the Commission for a variation of the terms and conditions of the grant of QFE status.
-(2) The Commission may grant or decline the application.
-(3) The Commission may, by notice to a QFE, propose a variation of the terms and conditions of the QFE’s grant of QFE status or the period of the grant on either or both of the following grounds:
+(1) A QFE may apply to the FMA for a variation of the terms and conditions of the grant of QFE status.
+(2) The FMA may grant or decline the application.
+(3) The FMA may, by notice to a QFE, propose a variation of the terms and conditions of the QFE’s grant of QFE status or the period of the grant on either or both of the following grounds:
   (a) the business of the QFE or of the QFE group has changed in a way that poses a material risk to consumers:
   (b) the QFE or any member of the QFE group has been involved in market practices that are, in material respects, inconsistent with the purpose of this Act.
-(4) The Commission must specify in the notice a reasonable period for the QFE to respond in writing.
-(5) After considering any response received within the period specified in the notice, the Commission may, by notice to the QFE, vary the terms and conditions of the QFE’s grant of QFE status or the period of the grant, or both.
-(6) The Commission may, in the notice under subsection (5), vary terms and conditions on a provisional basis and, if it does so, the Commission must, in the light of any changes in risk posed by the business or market practices of the QFE or any member of the QFE group, review those terms and conditions by a date stated in the notice.
-(7) On completing the review, the Commission may do any of the following:
+(4) The FMA must specify in the notice a reasonable period for the QFE to respond in writing.
+(5) After considering any response received within the period specified in the notice, the FMA may, by notice to the QFE, vary the terms and conditions of the QFE’s grant of QFE status or the period of the grant, or both.
+(6) The FMA may, in the notice under subsection (5), vary terms and conditions on a provisional basis and, if it does so, the FMA must, in the light of any changes in risk posed by the business or market practices of the QFE or any member of the QFE group, review those terms and conditions by a date stated in the notice.
+(7) On completing the review, the FMA may do any of the following:
   (a) confirm 1 or more of the variations effected by subsection (5):
   (b) cancel 1 or more of the variations effected by subsection (5):
   (c) propose new terms and conditions or a new period of grant by giving the QFE a further notice under subsection (3).
@@ -968,18 +948,18 @@ The status of an associated entity terminates when—
 ### 75A Termination of QFE status
 (1) The QFE status of an entity or of partner entities terminates when—
   (a) the period of a grant of QFE status expires and the QFE fails for 60 clear days after that expiry to apply for renewal of QFE status; or
-  (b) the Commission receives a written request from the QFE or from any partner entity requesting the Commission to cancel the QFE status; or
+  (b) the FMA receives a written request from the QFE or from any partner entity requesting the FMA to cancel the QFE status; or
   (c) the entity that forms, or any of the partner entities that jointly form, the QFE ceases to be registered; or
-  (d) the Commission cancels its QFE status under section 75D(2).
-(2) The Commission must notify the Registrar in writing of the termination of QFE status under subsection (1)(a), (b), or (d).
+  (d) the FMA cancels its QFE status under section 75D(2).
+(2) The FMA must notify the Registrar in writing of the termination of QFE status under subsection (1)(a), (b), or (d).
 
-### 75B Commission may designate certain QFE products as beyond scope of QFE advisers
-(1) If, because of the complexity of a particular category 1 product, the Commission has concerns about the provision of personalised services in relation to that product by QFE advisers, the Commission may specify those concerns in a notice to the QFE or the partner entity whose QFE advisers provide those services.
+### 75B FMA may designate certain QFE products as beyond scope of QFE advisers
+(1) If, because of the complexity of a particular category 1 product, the FMA has concerns about the provision of personalised services in relation to that product by QFE advisers, the FMA may specify those concerns in a notice to the QFE or the partner entity whose QFE advisers provide those services.
 (2) A notice under subsection (1) may be given only in exceptional circumstances.
-(3) The Commission must specify in the notice a reasonable period for the relevant entity to respond in writing and must ask the entity to satisfy the Commission that the QFE advisers are able to, and will, provide financial adviser services in relation to the category 1 product concerned with the appropriate level of professionalism and competence.
-(4) After considering the entity's response, the Commission may, by notice to the entity, determine that the QFE advisers may not provide personalised services to retail clients in relation to the specified category 1 product.
+(3) The FMA must specify in the notice a reasonable period for the relevant entity to respond in writing and must ask the entity to satisfy the FMA that the QFE advisers are able to, and will, provide financial adviser services in relation to the category 1 product concerned with the appropriate level of professionalism and competence.
+(4) After considering the entity's response, the FMA may, by notice to the entity, determine that the QFE advisers may not provide personalised services to retail clients in relation to the specified category 1 product.
 (5) A determination under subsection (4) has effect according to its tenor despite anything in section 18.
-(6) The Commission may at any time, by notice to the entity, revoke a determination under subsection (4).
+(6) The FMA may at any time, by notice to the entity, revoke a determination under subsection (4).
 
 ### 75C Renewal of QFE status
 (1) A QFE may apply for renewal of QFE status.
@@ -990,49 +970,49 @@ The status of an associated entity terminates when—
 (4) If an application for renewal of QFE status has been made but not determined before the close of the 60th day after the date on which the period for which QFE status has been granted expires, the QFE status continues until the application is determined.
 (5) The renewal of QFE status takes effect from the date of expiry of the previous grant of QFE status.
 
-**Commission's powers in relation to default by QFE or by members of QFE group**
+**FMA's powers in relation to default by QFE or by members of QFE group**
 
-### 75D Commission’s powers in relation to QFE default
-(1) This section applies if the Commission is satisfied that—
+### 75D FMA's powers in relation to QFE default
+(1) This section applies if the FMA is satisfied that—
   (a) a QFE or any partner entity of a QFE has ceased to be eligible for QFE status; or
   (b) the QFE or any member of the QFE group has breached or is in breach of this Act or the regulations; or
   (c) the QFE or any member of the QFE group is in breach of a term or condition of the grant of QFE status; or
-  (d) the QFE or any partner entity of the QFE has failed to comply with a direction given to it by the Commission under section 75F; or
-  (e) the QFE or any partner entity of the QFE has failed to pay a fee or levy as required by this Act or the regulations.
-(2) In any case to which this section applies, the Commission may, after following the procedure set out in section 75E and subject to subsections (3) and (4),—
+  (d) the QFE or any partner entity of the QFE has failed to comply with a direction given to it by the FMA under section 75F; or
+  (e) the QFE or any partner entity of the QFE has failed to pay a fee as required by this Act or the regulations or a levy as required by section 68 of the Financial Markets Authority Act 2011 or regulations made under that section.
+(2) In any case to which this section applies, the FMA may, after following the procedure set out in section 75E and subject to subsections (3) and (4),—
   (a) cancel the QFE’s status; or
   (b) cancel the QFE’s status and debar, for a specified period, the entity, any partner entity, and any associated entity of the former QFE from re-applying for QFE status; or
-  (c) suspend the QFE’s status for a specified period or until the suspended QFE or any partner entity, or any associated entity of the suspended QFE, does any thing that the Commission requires; or
+  (c) suspend the QFE’s status for a specified period or until the suspended QFE or any partner entity, or any associated entity of the suspended QFE, does any thing that the FMA requires; or
   (d) amend the terms and conditions of the QFE’s grant of status; or
   (e) order that the QFE pay a fine not exceeding $50,000; or
   (f) censure the QFE; or
   (g) take no further action.
-(3) The Commission may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)(d) or (f).
+(3) The FMA may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)(d) or (f).
 (4) All partner entities of a QFE are jointly and severally liable for the payment of a fine that the QFE is ordered to pay under subsection (2)(e).
-(5) The Commission must not order the QFE to pay a fine in relation to an act or omission that constitutes an offence for which the QFE or any partner entity of the QFE has been convicted by a court.
-(6) If the Commission cancels or suspends the QFE status of an entity, the Commission must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
-(7) The Commission may publicly notify the action it takes under subsection (2) as it sees fit.
+(5) The FMA must not order the QFE to pay a fine in relation to an act or omission that constitutes an offence for which the QFE or any partner entity of the QFE has been convicted by a court.
+(6) If the FMA cancels or suspends the QFE status of an entity, the FMA must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
+(7) The FMA may publicly notify the action it takes under subsection (2) as it sees fit.
 
 ### 75E Reasonable opportunity to be heard
-The Commission must not take any of the actions specified in section 75D(2) unless it has first—
+The FMA must not take any of the actions specified in section 75D(2) unless it has first—
   (a) informed the QFE and any partner entities of the QFE in writing of the reasons for taking any of those actions; and
   (b) given the QFE and any partner entities of the QFE or their representatives a reasonable opportunity to make written submissions and be heard on the question.
 
-### 75F Commission may give QFE direction
-(1) This section applies if the Commission has reason to believe that a QFE is in breach of a disclosure or conduct obligation or any obligation under section 76 or 77 (the obligation).
-(2) The Commission may give the QFE, and every partner entity of the QFE, notice of its alleged breach and, if the Commission does give a notice of breach, the Commission must also give the QFE a reasonable opportunity to respond.
-(3) If the Commission concludes, after considering the QFE’s response, that the QFE is in breach, the Commission may give the QFE a direction in writing.
+### 75F FMA may give QFE direction
+(1) This section applies if the FMA has reason to believe that a QFE is in breach of a disclosure or conduct obligation or any obligation under section 76 or 77 (the obligation).
+(2) The FMA may give the QFE, and every partner entity of the QFE, notice of its alleged breach and, if the FMA does give a notice of breach, the FMA must also give the QFE a reasonable opportunity to respond.
+(3) If the FMA concludes, after considering the QFE’s response, that the QFE is in breach, the FMA may give the QFE a direction in writing.
 (4) The direction may—
   (a) direct the QFE or any partner entity, or both, to comply with the obligation:
   (b) stipulate any steps that the QFE or any partner entity, or both, must take in order to comply with the obligation:
-  (c) require the QFE to report to the Commission within 28 days of the date of the direction stating how and by when the Commission's direction will be implemented.
-(5) A QFE or a partner entity that fails to comply with a direction by the Commission commits an offence (see section 132).
-(6) Nothing in this section precludes the Commission from exercising any of its other powers under this Act against a QFE.
+  (c) require the QFE to report to the FMA within 28 days of the date of the direction stating how and by when the FMA's direction will be implemented.
+(5) A QFE or a partner entity that fails to comply with a direction by the FMA commits an offence (see section 132).
+(6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a QFE.
 
-### 75G Other provisions concerning Commission's powers in relation to QFE default
-(1) A fine imposed by the Commission under section 75D(2)(e) is recoverable in any court as a debt due to the Commission.
+### 75G Other provisions concerning FMA's powers in relation to QFE default
+(1) A fine imposed by the FMA under section 75D(2)(e) is recoverable in any court as a debt due to the FMA.
 (2) At the end of a period of suspension of QFE status, a QFE's status is immediately revived, unless its QFE status has been further suspended or has been cancelled.
-(3) Suspension or cancellation is effective when a written notice of the suspension or cancellation is sent to the QFE by the Commission.
+(3) Suspension or cancellation is effective when a written notice of the suspension or cancellation is sent to the QFE by the FMA.
 
 **QFE’s obligations**
 
@@ -1043,16 +1023,16 @@ The Commission must not take any of the actions specified in section 75D(2) unle
   (c) in relation to QFE advisers who are employees of the QFE or of a member of the QFE group, ensure compliance by each of those persons with his or her financial adviser obligations; and
   (d) in relation to QFE advisers who are nominated representatives of the QFE or of a partner entity, ensure compliance by each of those persons with his or her financial adviser obligations, whether or not the nominated representative acts for the QFE or for the partner entity or for any related body corporate of the QFE or the partner entity; and
   (e) in relation to advisers of the QFE or of a member of the QFE group who perform a financial adviser service that, by virtue of sections 17 and 18 only an authorised financial adviser is permitted to perform, ensure that each of those persons is authorised; and
-  (f) provide the Commission, whenever reasonably required by the Commission and in any case in accordance with any requirements specified in the terms and conditions of its grant of QFE status, with an up-to-date list of the names of—
+  (f) provide the FMA, whenever reasonably required by the FMA and in any case in accordance with any requirements specified in the terms and conditions of its grant of QFE status, with an up-to-date list of the names of—
     (i) the authorised financial advisers of the QFE and of any members of the QFE group; and
     (ii) the nominated representatives of the QFE and of any partner entity; and
-  (g) provide an annual report to the Commission in accordance with section 77; and
-  (h) comply with a direction by the Commission given under section 75F; and
+  (g) provide an annual report to the FMA in accordance with section 77; and
+  (h) comply with a direction by the FMA given under section 75F; and
   (i) comply with its other obligations under this Act and the regulations.
 (2) A contravention of subsection (1)(e) gives rise to the offences described in section 133.
 
-### 77 QFE must provide annual report to Commission
-(1) Within 5 months after the end of its financial year, a QFE must send to the Commission a written report in respect of that year (the reporting year)—
+### 77 QFE must provide annual report to FMA
+(1) Within 5 months after the end of its financial year, a QFE must send to the FMA a written report in respect of that year (the reporting year)—
   (a) certifying that the QFE and every member of the QFE group has complied with its obligations under this Act and the regulations, and with the terms and conditions of the grant of QFE status; and
   (b) if the QFE or any member of the QFE group has not complied with its obligations under this Act and the regulations, and with the terms and conditions of the grant of QFE status, stating those respects in which it has failed to comply; and
   (c) if the QFE is aware of any breach of a financial adviser obligation by an employee, agent, or nominated representative of the QFE or of a member of the QFE group, stating—
@@ -1114,7 +1094,7 @@ A broker must disclose prescribed information to a retail client, in accordance 
   (f) in relation to the broker and, if the broker is an entity, each principal officer,—
     (i) criminal convictions:
     (ii) disciplinary proceedings:
-    (iii) adverse findings by a court or the Commission:
+    (iii) adverse findings by a court or the FMA:
     (iv) bankruptcy or other insolvency proceedings:
   (g) procedures for handling client money or client property:
   (h) indemnity insurance.
@@ -1211,25 +1191,25 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
   (b) if it is necessary to show the state of mind of B, it is sufficient to show that A had that state of mind.
 (3) Subsections (1) and (2) do not affect the liability of A or B under any other Act or rule of law for A's actions.
 
-**Commission's direction in respect of breach of disclosure or conduct obligation**
+**FMA's direction in respect of breach of disclosure or conduct obligation**
 
-### 77V Commission may give broker direction in respect of breach of disclosure or conduct obligation
-(1) This section applies if the Commission has reason to believe that a broker is in breach of a disclosure or conduct obligation under this Part.
-(2) The Commission may give the broker notice of his, her, or its alleged breach and, if the Commission does give a notice of breach, the Commission must also give the broker a reasonable opportunity to respond.
-(3) If the Commission concludes, after considering the broker's response, that the broker is in breach, the Commission may give the broker a direction in writing.
+### 77V FMA may give broker direction in respect of breach of disclosure or conduct obligation
+(1) This section applies if the FMA has reason to believe that a broker is in breach of a disclosure or conduct obligation under this Part.
+(2) The FMA may give the broker notice of his, her, or its alleged breach and, if the FMA does give a notice of breach, the FMA must also give the broker a reasonable opportunity to respond.
+(3) If the FMA concludes, after considering the broker's response, that the broker is in breach, the FMA may give the broker a direction in writing.
 (4) The direction may—
   (a) direct the broker to comply with the disclosure or conduct obligation:
   (b) stipulate any steps that the broker must take in order to comply with the obligation:
-  (c) require the broker to report to the Commission within 28 days of the date of the direction stating how and when the Commission's direction will be implemented.
-(5) A broker who fails to comply with a direction by the Commission commits an offence (see section 134G).
-(6) Nothing in this section precludes the Commission from exercising any of its other powers under this Act against a broker.
+  (c) require the broker to report to the FMA within 28 days of the date of the direction stating how and when the FMA's direction will be implemented.
+(5) A broker who fails to comply with a direction by the FMA commits an offence (see section 134G).
+(6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a broker.
 
 ## Part 4 — How financial advisers and brokers are regulated
 
 ### 78 Outline of this Part
 (1) This Part is divided into 3 subparts.
 (2) Subpart 1 deals with—
-  (a) the appointment and role of the Commissioner for Financial Advisers; and
+  (a)
   (b) the establishment of a code of professional conduct for authorised financial advisers; and
   (c) the establishment and functions of a code committee.
 (3) Subpart 2 deals with—
@@ -1237,49 +1217,37 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
   (b) the establishment of a disciplinary committee.
 (4) Subpart 3 deals with offences under this Act.
 
-### Subpart 1 — Commissioner for Financial Advisers, code of professional conduct, and code committee
+### Subpart 1 — Code of professional conduct and code committee
 
 **Commissioner for Financial Advisers**
 
 ### 79 Commissioner for Financial Advisers
-(1) There must be a Commissioner for Financial Advisers (the Commissioner).
-(2) The Commissioner is a member of the Commission as provided in section 11(3C) of the Securities Act 1978.
-(3) The Commissioner must be appointed by the Governor-General on the recommendation of the Minister.
-(4) The Minister must not recommend a person for appointment as Commissioner unless, in the Minister’s opinion, that person is qualified for appointment, having regard to the functions and duties of the Commission, whether under this Act or any other enactment.
-(5) For the purposes of subsection (4), a person is qualified for appointment by virtue of that person’s knowledge of, or experience in, the financial adviser industry or any other industry, commerce, economics, law, accountancy, public administration, or securities.
-(6) This section must be read subject to the following:
-  (a) subsection (3) applies despite section 28(1)(b) of the Crown Entities Act 2004; and
-  (b) subsection (4) applies despite section 11(4) of the Securities Act 1978; and
-  (c) subsections (4) and (5) do not limit section 29 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 80 Functions of Commissioner
-The functions of the Commissioner are as follows:
-  (a) to appoint members of the code committee:
-  (b) to review the code and propose changes to the code as required:
-  (c) to act as chairperson of the disciplinary committee:
-  (d) to exercise and perform such other functions, powers, and duties as are conferred or imposed on the Commissioner by or under this Act or any other enactment.
+[Repealed]
 
 **Code committee**
 
-### 81 Commissioner must establish code committee
-The Commissioner must establish a code committee.
+### 81 Establishment of code committee
+The code committee is established.
 
 ### 82 Functions of code committee
 The functions of the code committee are—
-  (a) first, to produce a draft code for approval by the Commissioner; and
+  (a) first, to produce a draft code for approval by the FMA; and
   (b) subsequently, to review the code from time to time; and
-  (c) to recommend to the Commissioner changes to the code as the code committee thinks fit.
+  (c) to recommend to the FMA changes to the code as the code committee thinks fit.
 
 ### 83 Membership of code committee
-(1) The Commissioner may at any time—
+(1) The FMA may at any time—
   (a) appoint a member of the code committee; or
   (b) discharge a member of the code committee.
 (2) The appointment of a member of the code committee must be for a specified period, but a member may be discharged under subsection (1)(b) before his or her period of appointment has expired.
-(3) The code committee must have not less than 7 members and not more than 11 members, and the Commissioner must ensure that the number of current members does not fall below 7.
-(4) The Commissioner must appoint as members of the code committee—
-  (a) 1 person who, in the Commissioner’s opinion, is qualified for appointment by virtue of his or her knowledge of, and experience and competency in relation to, consumer affairs; and
-  (b) other persons who, in the Commissioner’s opinion, are each qualified for appointment by virtue of their individual knowledge of, and experience and competency in relation to, the financial adviser industry.
-(5) A member of the code committee may resign by notice in writing to the Commissioner.
+(3) The code committee must have not less than 7 members and not more than 11 members, and the FMA must ensure that the number of current members does not fall below 7.
+(4) The FMA must appoint as members of the code committee—
+  (a) 1 person who, in the FMA's opinion, is qualified for appointment by virtue of his or her knowledge of, and experience and competency in relation to, consumer affairs; and
+  (b) other persons who, in the FMA's opinion, are each qualified for appointment by virtue of their individual knowledge of, and experience and competency in relation to, the financial adviser industry.
+(5) A member of the code committee may resign by notice in writing to the FMA.
 
 ### 84 Proceedings of code committee
 (1) Meetings of the code committee must be held at the times and places as the code committee or the chairperson from time to time decides.
@@ -1290,7 +1258,10 @@ The functions of the code committee are—
 (6) Except as provided in this section and in any regulations made under this Act, the code committee may regulate its own procedure.
 
 ### 85 Certain provisions of Crown Entities Act 2004 apply to members of code committee
-Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as if the code committee were a committee appointed by the Commission under clause 14 of Schedule 5 and with all other necessary modifications.
+Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as if the code committee were a committee appointed by the FMA under clause 14 of Schedule 5 and with all other necessary modifications.
+
+### 85A Funding of code committee
+The FMA must fund the code committee.
 
 **Code of professional conduct for authorised financial advisers**
 
@@ -1312,48 +1283,48 @@ Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as i
   (b) consult with interest groups within the financial adviser industry; and
   (c) allow an opportunity for any person affected by the code to make submissions to the code committee.
 
-### 88 Commissioner’s approval of draft code
-(1) After receiving the draft code prepared by the code committee, the Commissioner must—
+### 88 FMA's approval of draft code
+(1) After receiving the draft code prepared by the code committee, the FMA must—
   (a) approve it; or
   (b) decline to approve it.
-(2) The Commissioner must approve the draft code prepared by the code committee if the Commissioner is satisfied that—
+(2) The FMA must approve the draft code prepared by the code committee if the FMA is satisfied that—
   (a) a majority of the code committee has approved the draft code; and
   (b) the code committee has complied with its obligations under section 87(2); and
   (c) the draft code is consistent with this Act.
 (3) A failure by the code committee to comply with its obligations under section 87(2) does not affect the validity of the code.
 (4) This section is subject to section 89.
 
-### 89 Commissioner may require revision or consultation
-(1) If the Commissioner is not satisfied as to a matter specified in section 88(2),—
-  (a) the Commissioner must direct the code committee to revise the draft code or undertake further consultation or receive submissions, as necessary; and
-  (b) the code committee must as soon as practicable comply with the Commissioner's direction.
-(2) If the Commissioner considers that the draft code is not consistent with this Act, the Commissioner must, in directing the code committee to revise the draft code, state in what respects he or she considers that the draft code is not consistent.
+### 89 FMA may require revision or consultation
+(1) If the FMA is not satisfied as to a matter specified in section 88(2),—
+  (a) the FMA must direct the code committee to revise the draft code or undertake further consultation or receive submissions, as necessary; and
+  (b) the code committee must as soon as practicable comply with the FMA's direction.
+(2) If the FMA considers that the draft code is not consistent with this Act, the FMA must, in directing the code committee to revise the draft code, state in what respects it considers that the draft code is not consistent.
 
-### 90 Commissioner’s approval of revised draft code
-(1) After receiving a revised draft code, the Commissioner must—
+### 90 FMA's approval of revised draft code
+(1) After receiving a revised draft code, the FMA must—
   (a) approve the revised draft code; or
-  (b) if the Commissioner considers that the draft code requires further amendment to be consistent with this Act,—
-    (i) make any amendments to the draft code that the Commissioner considers necessary; and
+  (b) if the FMA considers that the draft code requires further amendment to be consistent with this Act,—
+    (i) make any amendments to the draft code that the FMA considers necessary; and
     (ii) approve the draft code as amended.
-(2) Before making any amendment to the draft code under this section, the Commissioner must—
-  (a) advise the code committee of the Commissioner’s intention to do so; and
+(2) Before making any amendment to the draft code under this section, the FMA must—
+  (a) advise the code committee of the FMA's intention to do so; and
   (b) give the code committee a reasonable opportunity to make submissions on the matter; and
   (c) consider those submissions.
 
-### 91 Deadline for Commissioner’s approval of draft code
-The Commissioner must approve the draft code within 90 days of receiving the draft code or, if section 89 applies, within 90 days of receiving the revised draft code.
+### 91 Deadline for FMA's approval of draft code
+The FMA must approve the draft code within 90 days of receiving the draft code or, if section 89 applies, within 90 days of receiving the revised draft code.
 
 ### 92 Minister’s approval required
-(1) After approving the draft code or after the 90-day deadline for approval specified in section 91 has expired, the Commissioner must forward the draft code to the Minister for the Minister’s approval.
+(1) After approving the draft code or after the 90-day deadline for approval specified in section 91 has expired, the FMA must forward the draft code to the Minister for the Minister’s approval.
 (2) The Minister must approve the draft code unless the Minister considers that it is not consistent with this Act.
 (3) If the Minister is not satisfied that the draft code is consistent with this Act, the Minister must implement the procedure set out in sections 89 and 90 with necessary modifications.
-(4) For the purposes of subsection (3), a reference in sections 89 and 90 to the Commissioner must be read as a reference to the Minister.
+(4) For the purposes of subsection (3), a reference in sections 89 and 90 to the FMA must be read as a reference to the Minister.
 
 ### 93 Deadline for Minister's approval of draft code
 The Minister must approve the draft code within 90 days of receiving the draft code or, if section 92(3) applies, within 90 days of receiving the revised draft code.
 
 ### 94 Code comes into force by Gazette notice
-(1) After the Minister has approved the draft code or after the 90-day deadline for approval specified in section 93 has expired, the Commissioner must give notice in the Gazette of the date or dates on which the provisions of the code come into force.
+(1) After the Minister has approved the draft code or after the 90-day deadline for approval specified in section 93 has expired, the FMA must give notice in the Gazette of the date or dates on which the provisions of the code come into force.
 (2) The notice may state different dates for different provisions, but no date may be before the 28th day after the date on which the notice is published in the Gazette.
 (3) Each provision in the code comes into force on the date stated in the notice that applies to the provision.
 (4) The code and the notice are each regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
@@ -1363,7 +1334,7 @@ The Minister must approve the draft code within 90 days of receiving the draft c
 ### 95 Changes to code
 (1) A change to the code may be proposed by—
   (a) the code committee; or
-  (b) the Commissioner; or
+  (b) the FMA; or
   (c) the Minister.
 (2) The procedure for changing the code is the same as the procedure set out in sections 87 to 94 for the preparation and approval of the draft code.
 
@@ -1372,25 +1343,25 @@ The Minister must approve the draft code within 90 days of receiving the draft c
 **Who deals with complaints**
 
 ### 96 Complaint about financial adviser
-(1) Any person may complain to the Commission about the conduct of another person in that second person’s capacity as a financial adviser.
-(2) The Commissioner may initiate a complaint.
+(1) Any person may complain to the FMA about the conduct of another person in that second person’s capacity as a financial adviser.
+(2) The FMA may initiate a complaint.
 
-### 97 Investigation by Commission
-(1) After receiving a complaint, the Commission must investigate the complaint if it is practicable to do so having regard to—
+### 97 Investigation by FMA
+(1) After receiving a complaint, the FMA must investigate the complaint if it is practicable to do so having regard to—
   (a) the nature and number of complaints to be investigated; and
-  (b) the Commission's regulatory priorities as reflected in its statement of intent; and
-  (c) the Commission's available resources.
-(2) The Commission need not investigate a complaint if it is satisfied that—
+  (b) the FMA's regulatory priorities as reflected in its statement of intent; and
+  (c) the FMA's available resources.
+(2) The FMA need not investigate a complaint if it is satisfied that—
   (a) the complaint is vexatious; or
   (b) the complaint is not sufficiently serious to warrant investigation.
 
 **Complaint about authorised financial adviser**
 
 ### 98 Reference of complaint to disciplinary committee
-When the Commission has, under section 97, investigated a complaint about an authorised financial adviser, it must refer the complaint to the disciplinary committee if, in the Commission's opinion, the conduct complained of amounts to a breach of the code.
+When the FMA has, under section 97, investigated a complaint about an authorised financial adviser, it must refer the complaint to the disciplinary committee if, in the FMA's opinion, the conduct complained of amounts to a breach of the code.
 
 ### 99 Disciplinary committee must give notice of complaint to financial adviser concerned
-If the Commission refers a complaint about an authorised financial adviser to the disciplinary committee, and the disciplinary committee considers that a hearing is necessary to deal with the complaint, the disciplinary committee must serve a written notice of the complaint on the financial adviser.
+If the FMA refers a complaint about an authorised financial adviser to the disciplinary committee, and the disciplinary committee considers that a hearing is necessary to deal with the complaint, the disciplinary committee must serve a written notice of the complaint on the financial adviser.
 
 ### 100 Content of disciplinary committee's notice of complaint
 The disciplinary committee's notice of complaint to the financial adviser concerned (A) must—
@@ -1402,18 +1373,18 @@ The disciplinary committee's notice of complaint to the financial adviser concer
 (1) In this section, A is the person who is the subject of the complaint.
 (2) The disciplinary committee may take any of the actions referred to in subclause (3) if it is satisfied that A has breached the code.
 (3) In any case to which subsection (2) applies, the disciplinary committee may—
-  (a) recommend that the Commission cancels A’s authorisation:
-  (b) recommend that the Commission—
+  (a) recommend that the FMA cancels A’s authorisation:
+  (b) recommend that the FMA—
     (i) cancels A’s authorisation; and
     (ii) debars A for a specified period from applying to be re-authorised:
-  (c) recommend that the Commission suspends A's authorisation for a period of no more than 12 months or until A meets specified conditions relating to the authorisation (but, in any case, not for a period of more than 12 months):
+  (c) recommend that the FMA suspends A's authorisation for a period of no more than 12 months or until A meets specified conditions relating to the authorisation (but, in any case, not for a period of more than 12 months):
   (d) censure A:
   (e) order that A may, for a period not exceeding 3 years, perform a financial adviser service only subject to any conditions as to employment, supervision, or otherwise that the disciplinary committee may specify in the order:
   (f) order that A undertake training specified in the order:
   (g) order that A must pay a fine not exceeding $10,000:
   (h) take no action.
 (4) No fine may be imposed under subsection (3)(g) in relation to an act or omission that constitutes an offence for which A has been convicted by a court.
-(5) In any case to which subsection (2) applies, the disciplinary committee may order that A must pay costs and expenses of, and incidental to, the investigation by the Commission and the disciplinary committee’s proceeding.
+(5) In any case to which subsection (2) applies, the disciplinary committee may order that A must pay costs and expenses of, and incidental to, the investigation by the FMA and the disciplinary committee’s proceeding.
 (6) The disciplinary committee may publicly notify the action in any way that it thinks fit.
 (7) This section applies whether or not A is an authorised financial adviser at the time of the complaint, the investigation, or the disciplinary proceeding.
 
@@ -1429,13 +1400,13 @@ The Minister must establish a disciplinary committee.
 
 ### 104 Functions of disciplinary committee
 The functions of the disciplinary committee are to—
-  (a) conduct disciplinary proceedings arising out of complaints regarding authorised financial advisers referred to it by the Commission; and
+  (a) conduct disciplinary proceedings arising out of complaints regarding authorised financial advisers referred to it by the FMA; and
   (b) take any of the actions referred to in section 101(3) as a result of disciplinary proceedings.
 
 ### 105 Membership of disciplinary committee
 (1) The Minister may at any time appoint a member of the disciplinary committee.
 (2) The appointment of a member of the disciplinary committee must be for a specified period.
-(3) The Minister must appoint the Commissioner as the chairperson of the disciplinary committee.
+(3) The Minister must appoint one of the members of the disciplinary committee as the chairperson of the disciplinary committee.
 (4) The disciplinary committee must have between not less than 4 members and not more than 6 members including the chairperson, and the Minister must ensure that the number of current members does not fall below 4.
 (5) Apart from the chairperson, the Minister must appoint as members of the disciplinary committee—
   (a) at least 1 member who works or has worked in the financial adviser industry; and
@@ -1494,7 +1465,10 @@ The functions of the disciplinary committee are to—
 (2) Every counsel appearing before the disciplinary committee in relation to a disciplinary matter has the same privileges and immunities as counsel in a court.
 
 ### 113 Certain provisions of Crown Entities Act 2004 apply to members of disciplinary committee
-Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as if the disciplinary committee were a committee appointed by the Commission under clause 14 of Schedule 5 and with all other necessary modifications.
+Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as if the disciplinary committee were a committee appointed by the FMA under clause 14 of Schedule 5 and with all other necessary modifications.
+
+### 113A Funding of disciplinary committee
+The FMA must fund the disciplinary committee.
 
 ### Subpart 3 — Offences
 
@@ -1515,8 +1489,7 @@ A person who knowingly or recklessly contravenes section 20A, 20B, or 20C commit
   (b) in the case of an entity, to a fine not exceeding $50,000.
 
 ### 116 Offences in relation to employer or principal failing to maintain registration
-(1) A person who contravenes section 18(2)(a) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
-(2) A person who contravenes section 18(2)(b) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+[Repealed]
 
 **Disclosure offences: Financial advisers, QFEs, and brokers**
 
@@ -1562,8 +1535,8 @@ A person who contravenes section 38(1) commits an offence and is liable on summa
 ### 126 Offence of failing to comply with terms and conditions of authorisation
 A person who contravenes section 45(1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 
-### 127 Offence of failing to comply with Commission’s direction
-A person who fails to comply with a direction of the Commission given under section 61(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+### 127 Offence of failing to comply with FMA's direction
+A person who fails to comply with a direction of the FMA given under section 61(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 
 ### 128 Offence of contravening condition of disciplinary committee’s order
 A person who contravenes a condition of an order made by the disciplinary committee under section 101(3)(e) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
@@ -1594,8 +1567,8 @@ A person who contravenes a condition of an order made by the disciplinary commit
   (b) the QFE:
   (c) every partner entity of the QFE.
 
-### 132 Offence of failing to comply with Commission’s direction
-If a QFE fails to comply with a direction of the Commission given under section 75F(3), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
+### 132 Offence of failing to comply with FMA's direction
+If a QFE fails to comply with a direction of the FMA given under section 75F(3), each of the following persons commits an offence and is liable on summary conviction to a fine not exceeding $25,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
 
@@ -1641,28 +1614,28 @@ A person who contravenes section 77S commits an offence and is liable on summary
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
-### 134G Offence of failing to comply with Commission’s direction
-A person who fails to comply with a direction of the Commission given under section 77V commits an offence and is liable on summary conviction to a fine,—
+### 134G Offence of failing to comply with FMA's direction
+A person who fails to comply with a direction of the FMA given under section 77V commits an offence and is liable on summary conviction to a fine,—
   (a) in the case of an individual, not exceeding $5,000:
   (b) in the case of an entity, not exceeding $25,000.
 
 **Miscellaneous offences**
 
-### 135 Offence of failing to comply with Commission's direction in respect of breach of disclosure or conduct obligation
-A person who fails to comply with a direction of the Commission given under section 49(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+### 135 Offence of failing to comply with FMA's direction in respect of breach of disclosure or conduct obligation
+A person who fails to comply with a direction of the FMA given under section 49(3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 
 **Miscellaneous offences**
 
 ### 136 Offence of false declaration, etc, in support of application for authorisation or grant of QFE status
 (1) A person (A) commits an offence if A has, for the purpose of obtaining authorisation or the grant of QFE status, either for A or for any other person,—
   (a) either orally or in writing, made any declaration or representation knowing it to be false or misleading in a material particular; or
-  (b) produced to the Commission or made use of any document knowing it to contain a declaration or representation referred to in paragraph (a); or
-  (c) produced to the Commission or made use of any document knowing that it was not genuine.
+  (b) produced to the FMA or made use of any document knowing it to contain a declaration or representation referred to in paragraph (a); or
+  (c) produced to the FMA or made use of any document knowing that it was not genuine.
 (2) A person who commits an offence under this section is liable on summary conviction to a fine,—
   (a) in the case of an individual, not exceeding $100,000:
   (b) in the case of an entity, not exceeding $300,000.
 
-### 137 Failure to comply with summons by Commissioner to attend disciplinary committee hearing
+### 137 Failure to comply with summons to attend disciplinary committee hearing
 (1) A person summoned under section 109 commits an offence if he or she, without sufficient cause,—
   (a) fails to attend in accordance with the summons; or
   (b) does not give evidence when required to do so; or
@@ -1677,7 +1650,7 @@ A person who fails to comply with a direction of the Commission given under sect
 **Injunctions**
 
 ### 137A Injunctions against contraventions
-(1) The High Court may, on application by the Commission, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act if—
+(1) The High Court may, on application by the FMA, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act if—
   (a) the court is satisfied that the person has engaged in conduct of that kind; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 (2) In subsection (1), contravention includes aiding, abetting, counselling, or procuring the contravention.
@@ -1688,17 +1661,18 @@ A person who fails to comply with a direction of the Commission given under sect
   (a) omitting to do an act; or
   (b) making it known that an act will or will not be done.
 
-### 137B Undertaking as to damages not required by Commission
-(1) If the Commission applies to the High Court for the grant of an interim injunction under section 137A, the court must not, as a condition of granting an interim injunction, require the Commission to give an undertaking as to damages.
-(2) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
+### 137B Undertaking as to damages not required by FMA
+(1) If the FMA applies to the High Court for the grant of an interim injunction under section 137A, the court must not, as a condition of granting an interim injunction, require the FMA to give an undertaking as to damages.
+(2) However, in determining the FMA's application for the grant of an interim injunction, the court must not take into account that the FMA is not required to give an undertaking as to damages.
 
 ### 137C When court may make banning order
-The High Court may, on application by the Commission, make an order (a banning order) against a person if the court is satisfied that—
+The High Court may, on application by the FMA, make an order (a banning order) against a person if the court is satisfied that—
   (a) the person has been convicted of an offence against any of the following sections:
     (i) section 118 (misleading or deceptive conduct by financial adviser or broker):
     (ii) section 119 (misleading, deceptive, or confusing advertisement by financial adviser or broker):
     (iii) section 134B (receiving client money if offer for subscription illegal); or
-  (b) the person has been convicted of an offence against any of sections 58, 59, and 59A of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
+  (b) the person has been convicted of an offence against section 58 or 59 of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
+  (ba) the person has been convicted of an offence against section 51 or 61 of the Financial Markets Authority Act 2011; or
   (c) the person has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (d) the person has persistently contravened this Act or the Securities Act 1978; or
   (e) the person has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 137D.
@@ -1718,9 +1692,9 @@ A person who acts in contravention of a banning order commits an offence and is 
 
 ### 137F When High Court may prohibit payment or transfer of money, securities, or other property
 (1) This section applies if—
-  (a) an investigation is being carried out under the Securities Act 1978 in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
+  (a) an investigation is being carried out under the Financial Markets Authority Act 2011 in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
   (b) a prosecution has begun against a person for a contravention of this Act.
-(2) The High Court may, on application by the Commission or by an aggrieved person, make 1 or more of the orders listed in section 137G if the court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
+(2) The High Court may, on application by the FMA or by an aggrieved person, make 1 or more of the orders listed in section 137G if the court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
 (3) In this section and section 137G,—
   - **aggrieved person** means any person to whom a relevant person is liable
   - **associated person** has the same meaning as in section 2(2) of the Securities Markets Act 1988
@@ -1762,7 +1736,7 @@ A person commits an offence who contravenes an order by the court under sections
 **Pecuniary and compensatory orders for contravening wholesale certification requirement**
 
 ### 137K Pecuniary order for contravening wholesale certification requirement
-(1) The High Court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person has, without reasonable excuse, contravened a wholesale certification requirement under section 5E.
+(1) The High Court may, on application by the FMA, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person has, without reasonable excuse, contravened a wholesale certification requirement under section 5E.
 (2) The amount of the pecuniary penalty must not, in respect of each act or omission, exceed $100,000 in the case of an individual or $300,000 in the case of an entity.
 (3) In setting the amount of the pecuniary penalty, the court must take into account all of the following matters:
   (a) the nature and extent of the contravention:
@@ -1774,58 +1748,58 @@ A person commits an offence who contravenes an order by the court under sections
 
 ### 137L Compensation for contravention of wholesale certification requirement
 (1) If the court orders a person to pay a pecuniary penalty under section 137K in respect of the contravention of a wholesale certification requirement, the court may, in addition, order a person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (the aggrieved person).
-(2) An application for orders under this section may be made by the Commission or any aggrieved person.
+(2) An application for orders under this section may be made by the FMA or any aggrieved person.
 (3) The application must be made within 1 year of the date of the pecuniary penalty order.
 (4) The court may make an order under this section whether or not any aggrieved person is a party to the proceedings.
 (5) In proceedings under this section, the court may make such orders as it thinks fit.
 
 **Temporary banning orders against financial adviser and broker**
 
-### 137M When Commission may make temporary banning orders for financial adviser services or broking services
-The Commission may make an order (a temporary banning order) against a person in accordance with sections 137N to 137R if the Commission is satisfied that—
+### 137M When FMA may make temporary banning orders for financial adviser services or broking services
+The FMA may make an order (a temporary banning order) against a person in accordance with sections 137N to 137R if the FMA is satisfied that—
   (a) the person has persistently contravened this Act or the Securities Act 1978; or
-  (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the Commission is satisfied are substantially similar to any of the activities referred to in section 137N.
+  (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the FMA is satisfied are substantially similar to any of the activities referred to in section 137N.
 
 ### 137N Terms of temporary banning order
-A temporary banning order may prohibit or restrict a person from doing all or any of the following things, without the leave of the Commission, for a period stated in the order of 14 days or less:
+A temporary banning order may prohibit or restrict a person from doing all or any of the following things, without the leave of the FMA, for a period stated in the order of 14 days or less:
   (a) providing financial adviser services or broking services:
   (b) being a director or promoter of, or in any way, whether directly or indirectly, being concerned or taking part in the management of, any incorporated or unincorporated body that provides financial adviser services or broking services (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand):
   (c) contributing, as employee or agent, to the provision of financial adviser services or broking services.
 
-**Process for Commission's orders**
+**Process for FMA's orders**
 
-### 137O Commission must follow steps before making orders
-(1) Unless section 137P applies, the Commission may make a temporary banning order only if it first takes the following steps:
+### 137O FMA must follow steps before making orders
+(1) Unless section 137P applies, the FMA may make a temporary banning order only if it first takes the following steps:
   (a) gives the person to whom the order is directed written notice of—
     (i) the nature of the alleged contravention; and
     (ii) the proposed terms of the order; and
     (iii) the reasons for the proposed order; and
-  (b) gives that notice at least 24 hours before the Commission makes the order; and
-  (c) gives the person an opportunity to make written submissions within that notice period; and
-  (d) has regard to any written submissions made to it within that notice period and (if applicable) written or oral submissions made at a meeting of the Commission.
-(2) However, the Commission may shorten these steps in accordance with section 137P in the circumstances specified in that section.
+  (b) gives that notice at least 24 hours before the FMA makes the order; and
+  (c) gives the person or the person's representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+  (d)
+(2) However, the FMA may shorten these steps in accordance with section 137P in the circumstances specified in that section.
 
-### 137P Commission may shorten steps for specified orders
-(1) If the Commission thinks it necessary or desirable in the public interest for a temporary banning order to be made more urgently than section 137O permits, it—
+### 137P FMA may shorten steps for specified orders
+(1) If the FMA thinks it necessary or desirable in the public interest for a temporary banning order to be made more urgently than section 137O permits, it—
   (a) may give less than 24 hours' notice before it makes the order, and the notice may be oral, not written; and
-  (b) may give persons an opportunity to make only oral submissions, not written, to a member, officer, or employee of the Commission (as the Commission determines).
-(2) However, the Commission must include in the notice under section 137O the reasons for acting urgently and must otherwise comply with the steps set out in that section.
+  (b) may give persons an opportunity to make only oral submissions, not written, to a member, officer, or employee of the FMA (as the FMA determines).
+(2) However, the FMA must include in the notice under section 137O the reasons for acting urgently and must otherwise comply with the steps set out in that section.
 
-### 137Q Commission must give notice after making orders
-(1) If the Commission makes a temporary banning order, the Commission—
+### 137Q FMA must give notice after making orders
+(1) If the FMA makes a temporary banning order, the FMA—
   (a) must, as soon as is reasonably practicable, give written notice to the person to whom the order is directed of—
     (i) the terms of the order; and
     (ii) the reasons for the order; and
   (b) may also give notice to any other person of those matters.
-(2) The Commission must also, as soon as practicable after making the temporary banning order, give notice on an Internet site maintained by or on behalf of the Commission (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
+(2) The FMA must also, as soon as practicable after making the temporary banning order, give notice on an Internet site maintained by or on behalf of the FMA (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
 
 ### 137R General provisions on temporary banning orders
-(1) The Commission may make a temporary banning order on the terms and conditions that the Commission thinks fit.
-(2) The Commission may vary a temporary banning order in the same way as it makes such an order under section 137O to 137Q.
-(3) The Commission may revoke a temporary banning order or suspend it on the terms and conditions it thinks fit.
-(4) A temporary banning order is subject to appeal only in accordance with section 69P of the Securities Act 1978.
+(1) The FMA may make a temporary banning order on the terms and conditions that the FMA thinks fit.
+(2) The FMA may vary a temporary banning order in the same way as it makes such an order under section 137O to 137Q.
+(3) The FMA may revoke a temporary banning order or suspend it on the terms and conditions it thinks fit.
+(4) A person that considers that a decision of the FMA in respect of a temporary banning order is wrong in law may appeal against the decision to the High Court on a question of law only.
 
-### 137S Offence of failing to comply with Commission's orders
+### 137S Offence of failing to comply with FMA's orders
 (1) A person who contravenes a temporary banning order commits an offence and is liable on summary conviction to a fine not exceeding $30,000.
 (2) No person may be convicted of an offence against subsection (1) if—
   (a) the person proves that the contravention occurred without the person's knowledge or without the person's knowledge of the order; or
@@ -1838,7 +1812,7 @@ A temporary banning order may prohibit or restrict a person from doing all or an
 
 ### 138 Right of appeal
 (1) A person affected may appeal to a District Court against any decision of—
-  (a) the Commission to—
+  (a) the FMA to—
     (i) decline authorisation under section 55(4); or
     (ii) decline QFE status under section 67(4); or
     (iii) take any action referred to in section 59(2) or 71(2); or
@@ -1849,7 +1823,7 @@ A temporary banning order may prohibit or restrict a person from doing all or an
   (b) must be lodged within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
 
 ### 139 Notice of right of appeal
-When notifying a person under this Act of any decision against which section 138 gives him or her a right of appeal, the Commission or the disciplinary committee must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
+When notifying a person under this Act of any decision against which section 138 gives him or her a right of appeal, the FMA or the disciplinary committee must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
 
 ### 140 Decision to have effect pending determination of appeal
 A decision against which an appeal is lodged under this Part continues in force unless the District Court orders otherwise.
@@ -1898,40 +1872,39 @@ On an appeal under this Part, the District Court may order any party to the appe
 **Securities Commission: General powers**
 
 ### 147 Commission may exercise powers under Securities Act 1978
-(1) The Commission may exercise any of its powers under the Securities Act 1978 in performing its functions under this Act.
-(2) Part 3 of the Securities Act 1978 applies to the exercise by the Commission of any of its powers under the Securities Act 1978 in the performance of its functions under this Act.
+[Repealed]
 
 **Standard conditions for incorporation in authorisation and grants**
 
 ### 147A Approval of standard conditions for incorporation in authorisations and grants of QFE status
-(1) The Commission may, by notice in the Gazette,—
+(1) The FMA may, by notice in the Gazette,—
   (a) approve standard conditions for incorporation in authorisations of financial advisers under section 55:
   (b) approve standard conditions for incorporation in grants of QFE status under section 67.
 (2) The notice may state a date in relation to any specified standard condition on which the standard condition is incorporated into the authorisations of financial advisers or into the grants of QFE status.
 (3) However, if a standard condition proposed to be approved does not relate to a reporting or accounting requirement, a date may be stated under subsection (2) in relation to that standard condition only if that standard condition—
-  (a) will, in the opinion of the Commission, have little or no effect on authorised financial advisers or, as the case requires, on QFEs, or will be solely beneficial; or
+  (a) will, in the opinion of the FMA, have little or no effect on authorised financial advisers or, as the case requires, on QFEs, or will be solely beneficial; or
   (b) is made in response to an emergency; or
   (c) is necessary to comply with statutory or international obligations; or
   (d) is necessary to avoid an unfair commercial advantage being taken; or
   (e) is necessary to avoid the defeat of the purpose of this Act.
 (4) The notice in the Gazette need not set out the standard conditions, but those conditions must be—
-  (a) published on an Internet site maintained by or on behalf of the Commission; and
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) made available in printed form for purchase on request by members of the public.
 
 ### 147B Requirement to consult on proposal to incorporate material by reference
-(1) Before the Commission approves standard conditions under section 147A, the Commission must—
+(1) Before the FMA approves standard conditions under section 147A, the FMA must—
   (a) make copies of the proposed standard conditions available for inspection during working hours for a reasonable period, free of charge; and
   (b) state where copies of the proposed standard conditions are available for purchase; and
-  (c) make copies of the proposed standard conditions available on an Internet site maintained by or on behalf of the Commission; and
+  (c) make copies of the proposed standard conditions available on an Internet site maintained by or on behalf of the FMA; and
   (d) give notice in the Gazette stating—
     (i) how the proposed standard conditions can be inspected, purchased, or accessed on the Internet site address; and
-    (ii) specifying a period within which any person may make a written submission to the Commission on the proposed standard conditions and, if applicable, on the date on which the standard condition is to be incorporated.
-(2) If the Commission proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)(d) must also state why the Commission considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
-(3) The Commission must consider any submissions received within the period specified under subsection (1)(d)(ii).
+    (ii) specifying a period within which any person may make a written submission to the FMA on the proposed standard conditions and, if applicable, on the date on which the standard condition is to be incorporated.
+(2) If the FMA proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)(d) must also state why the FMA considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
+(3) The FMA must consider any submissions received within the period specified under subsection (1)(d)(ii).
 
 ### 147C Variation or revocation of standard conditions
-(1) The Commission may approve variations or revocations of any standard conditions under section 147A in the same way as standard conditions are approved under that section.
-(2) section 147A and 147B apply to any proposed approval of variation or revocation of standard conditions, with any necessary modifications.
+(1) The FMA may approve variations or revocations of any standard conditions under section 147A in the same way as standard conditions are approved under that section.
+(2) Section 147A and 147B apply to any proposed approval of variation or revocation of standard conditions, with any necessary modifications.
 
 ### 147D When standard conditions come into force
 The approval of standard conditions, or of variation or revocation of standard conditions, comes into force on the 28th day after the date on which the approval is notified in the Gazette.
@@ -1943,29 +1916,29 @@ A standard condition, or a variation or revocation of a standard condition, that
 
 **Exemptions**
 
-### 148 Commission may grant exemptions
-(1) The Commission may, in its discretion and on any terms and conditions as it thinks fit, exempt any person or class of persons, service or class of service, or any transaction or class of transactions from—
+### 148 FMA may grant exemptions
+(1) The FMA may, in its discretion and on any terms and conditions as it thinks fit, exempt any person or class of persons, service or class of service, or any transaction or class of transactions from—
   (a) compliance with any obligation under this Act, the regulations, or the code:
   (b) the obligation to register under the FSP Act by virtue of providing financial adviser services or broking services.
-(2) The Commission must be satisfied, before it grants an exemption (except as provided in subsection (3)), that—
+(2) The FMA must be satisfied, before it grants an exemption (except as provided in subsection (3)), that—
   (a) the costs of compliance with the relevant obligation—
     (i) would be unreasonable; or
     (ii) would not be justified by the benefit of compliance; or
-  (b) the relevant person, service, or transaction is subject to the regulations of an overseas jurisdiction and the Commission is satisfied that, in the circumstances, the protection of the New Zealand public is unlikely to be prejudiced.
-(3) If a proposed exemption would exempt a person applying to be an authorised financial adviser from obligations imposed by the code in respect of competence, the Commission must be satisfied that the exemption would not undermine consumer protection and that—
+  (b) the relevant person, service, or transaction is subject to the regulations of an overseas jurisdiction and the FMA is satisfied that, in the circumstances, the protection of the New Zealand public is unlikely to be prejudiced.
+(3) If a proposed exemption would exempt a person applying to be an authorised financial adviser from obligations imposed by the code in respect of competence, the FMA must be satisfied that the exemption would not undermine consumer protection and that—
   (a) the applicant has qualifications that are comparable to standards required by the code; or
   (b) the costs of compliance with the obligation would be—
     (i) unreasonable; or
     (ii) not justified by the benefit of compliance.
 
-### 148A Commission may vary or revoke exemption
-(1) The Commission may vary the exemption in the same way as it may grant the exemption under section 148.
-(2) The Commission may revoke the exemption.
+### 148A FMA may vary or revoke exemption
+(1) The FMA may vary the exemption in the same way as it may grant the exemption under section 148.
+(2) The FMA may revoke the exemption.
 
 ### 148B Status of exemptions, variations, or revocations
 (1) An exemption under section 148, or a variation or revocation of an exemption under section 148A, is a regulation for the purposes of the Regulations Disallowance Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989 unless it is a class exemption.
 (2) An exemption that is not a class exemption must, as soon as practicable after being granted, be—
-  (a) published on an Internet site maintained by or on behalf of the Commission; and
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
   (b) notified in the Gazette; and
   (c) made available in printed form for purchase on request by members of the public.
 (3) In this section and in section 149, class exemption means an exemption that—
@@ -1973,9 +1946,9 @@ A standard condition, or a variation or revocation of a standard condition, that
   (b) applies to a class of persons or transactions; but
   (c) does not include an exemption granted in relation to a particular person, service, or transaction.
 
-### 149 Commission must notify reasons for exemption other than class exemption
-(1) When the Commission grants an exemption other than a class exemption, the Commission must notify the reasons for granting the exemption (including why the exemption is appropriate) in the Gazette.
-(2) However, the Commission may defer notifying or not notify the reasons for granting an exemption if the Commission is satisfied that it is proper to do so on the ground of commercial confidentiality.
+### 149 FMA must notify reasons for exemption other than class exemption
+(1) When the FMA grants an exemption other than a class exemption, the FMA must notify the reasons for granting the exemption (including why the exemption is appropriate) in the Gazette.
+(2) However, the FMA may defer notifying or not notify the reasons for granting an exemption if the FMA is satisfied that it is proper to do so on the ground of commercial confidentiality.
 
 ### 150 Commission may vary or revoke exemption
 [Repealed]
@@ -1983,10 +1956,10 @@ A standard condition, or a variation or revocation of a standard condition, that
 **Information sharing**
 
 ### 151 Information sharing
-(1) The Commission may communicate to any of the agencies referred to in subsection (4) any information that the Commission—
-  (a) holds in relation to the exercise of the Commission's powers, or the performance of its functions and duties, under this Act; and
+(1) The FMA may communicate to any of the agencies referred to in subsection (4) any information that the FMA—
+  (a) holds in relation to the exercise of the FMA's powers, or the performance of its functions and duties, under this Act; and
   (b) considers may assist the agency in the exercise of its powers or the performance of its functions and duties.
-(2) The Commission may use any information communicated to it by an agency referred to in subsection (4) in the exercise of the Commission's powers, or the performance of its functions and duties, under this Act.
+(2) The FMA may use any information communicated to it by an agency referred to in subsection (4) in the exercise of the FMA's powers, or the performance of its functions and duties, under this Act.
 (3) This section applies no matter what any enactment, contract, deed, or document may say.
 (4) The agencies to which this section applies are the following:
   (a) the Registrar:
@@ -1995,36 +1968,20 @@ A standard condition, or a variation or revocation of a standard condition, that
   (d) an approved dispute resolution scheme:
   (e) a licensing authority listed in Schedule 2 of the FSP Act:
   (f) an overseas regulator.
-(5) The Commission may impose any conditions in relation to communicating information to an agency to which this section applies, including (without limitation) conditions relating to—
+(5) The FMA may impose any conditions in relation to communicating information to an agency to which this section applies, including (without limitation) conditions relating to—
   (a) maintaining the confidentiality of the information (in particular, information that is personal information within the meaning of the Privacy Act 1993):
   (b) the storing of, use of, or access to the information:
   (c) the copying, returning, or disposing of the information:
-  (d) payment of the costs incurred by the Commission in communicating the information.
+  (d) payment of the costs incurred by the FMA in communicating the information.
 
-**Fees and levies**
+**Fees**
 
-### 152 Commission's fees, charges, and costs
-(1) Regulations may be made under section 155 for the payment to the Commission of fees, charges, and costs.
-(2) If regulations have been made under section 155(2) authorising the Commission to do so, the Commission may require payment of any costs incurred by the Commission.
+### 152 FMA's fees, charges, and costs
+(1) Regulations may be made under section 155 for the payment to the FMA of fees, charges, and costs.
+(2) If regulations have been made under section 155(2) authorising the FMA to do so, the FMA may require payment of any costs incurred by the FMA.
 
 ### 153 Levy
-(1) The Governor-General may, by Order in Council made on the recommendation of the Commission, make regulations requiring authorised financial advisers and QFEs to pay a levy to the Commission.
-(2) The purpose of the levy is to meet, in whole or in part, the costs of the Commission, the Commissioner, the code committee, and the disciplinary committee in performing their functions and duties under this Act (and the costs of collecting the levy).
-(3) Regulations under this section may—
-  (a) specify an amount payable as the levy or a method of calculating or ascertaining the levy (which may be based on the estimated costs):
-  (b) include or provide for including in the levy any shortfall in recovering the actual costs:
-  (c) refund or provide for refunds of any over-recovery of those actual costs:
-  (d) specify the financial year or part financial year to which the levy applies, and apply the levy to that financial year or part financial year and each subsequent financial year until the levy is revoked or repealed:
-  (e) for the first financial year to which the levy applies, include in the levy costs from 1 January 2009:
-  (f) require payment of a levy for a financial year or part financial year irrespective of the fact that the regulations may be made after that financial year has commenced:
-  (g) provide for the collection and payment of the levy, including the time by which the levy must be paid:
-  (h) exempt a person or class of persons from liability to pay the levy, in whole or in part:
-  (i) provide for a waiver or refund of the levy, in whole or in part, for a person or class of persons:
-  (j) provide for interest to be paid if a person fails to pay the levy by the due date:
-  (k) provide for the cancellation of authorisation of an authorised financial adviser who fails to pay the levy by the due date:
-  (l) provide for the cancellation of QFE status of a QFE who fails to pay the levy by the due date.
-(4) Regulations under this section may make different provision for authorised financial advisers and QFEs and for different classes of authorised financial adviser and QFE.
-(5) The levy is recoverable as a debt due to the Commission.
+[Repealed]
 
 **Regulations**
 
@@ -2055,7 +2012,7 @@ A standard condition, or a variation or revocation of a standard condition, that
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) In subsection (1), prescribing the form includes specifying additional content, means of communication, or any other requirement of form without necessarily specifying the use of a particular form.
 (3) Regulations for the purposes of subsection (1) may make different provision for different classes of financial adviser or broker, financial adviser service or broking service, and client, and for different circumstances in which a financial adviser service or broking service is provided.
-(4) The Minister must consult with the Commission before making a recommendation under subsection (1).
+(4) The Minister must consult with the FMA before making a recommendation under subsection (1).
 (5) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that—
   (a) the exemption is consistent with the purposes of the Act; and
   (b) the costs of compliance with the provision or provisions to which the exemption relates would be unreasonable or not justified by the benefit of compliance; and
@@ -2068,12 +2025,12 @@ A standard condition, or a variation or revocation of a standard condition, that
 
 ### 155 Regulations relating to fees, charges, and costs
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) requiring the payment to the Commission of fees and charges—
-    (i) in connection with the performance by the Commission of any function or duty, or the exercise of any power, under this Act; or
-    (ii) on an application to the Commission to perform any function or duty, or exercise any power, under this Act; and
-  (b) prescribing the amounts of the fees and charges payable to the Commission; and
+  (a) requiring the payment to the FMA of fees and charges—
+    (i) in connection with the performance by the FMA of any function or duty, or the exercise of any power, under this Act; or
+    (ii) on an application to the FMA to perform any function or duty, or exercise any power, under this Act; and
+  (b) prescribing the amounts of the fees and charges payable to the FMA; and
   (c) prescribing the amount of any other fee required to be paid under this Act.
-(2) The Governor-General may from time to time, by Order in Council, make regulations authorising the Commission to require payment to it of any costs incurred by the Commission in the performance by the Commission of any function or duty, or the exercise of any power, under this Act.
+(2) The Governor-General may from time to time, by Order in Council, make regulations authorising the FMA to require payment to it of any costs incurred by the FMA in the performance by the FMA of any function or duty, or the exercise of any power, under this Act.
 
 **Other matters**
 
@@ -2104,8 +2061,7 @@ The breach of a term or condition of an exemption provided by regulations made u
 **Other legislation affected**
 
 ### 161A Financial Service Providers (Registration and Dispute Resolution) Act 2008 amended
-(1) This section amends the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
-(2) Section 7(2)(m) is amended by adding , except to the extent that an individual may be required to be registered in order to perform a financial adviser service under the Financial Advisers Act 2008.
+[Repealed]
 
 ### 162 KiwiSaver Act 2006 amended
 (1) This section amends the KiwiSaver Act 2006.
@@ -2151,3 +2107,25 @@ The Securities Markets (Investment Advisers and Brokers) Regulations 2007 (SR 20
 (2) In the transitional period, the Commission may authorise a person under section 55 even though it has not yet undertaken or completed its inquiries in relation to section 54(b).
 (3) An authorisation granted in reliance on subsection (2) is subject to the condition that it ceases to have effect if, before the expiry of the transitional period, the Commission notifies the applicant for authorisation that he or she is, given section 54(b), ineligible to be authorised.
 (4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given section 54(b), ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), section 59(1)(a) applies to that adviser as if he or she had ceased to be eligible for authorisation.
+
+### 1 Title
+This Act is the Financial Advisers Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on 1 May 2011.
+
+### 3 Principal Act amended
+This Act amends the Financial Advisers Act 2008.
+
+**Transitional provisions**
+
+### 13 Transitional provisions for general transfer of functions of Commissioner for Financial Advisers to FMA
+On and from the date on which this Act comes into force, (except as specified in section 14),—
+  (a) all information and documents held by the Commissioner for Financial Advisers are held by the FMA (and this transfer does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993); and
+  (b) anything done or omitted to be done or that is to be done by, or in relation to, the Commissioner for Financial Advisers must be treated as having been done or omitted or to be done by, or in relation to, the FMA; and
+  (c) the FMA may complete any matter or thing that would, but for this Act, have been completed by the Commissioner for Financial Advisers; and
+  (d) any reference in an enactment (other than this Act), proceedings, or other thing (whether express or implied) to the Commissioner for Financial Advisers must be read as a reference to the FMA (unless the context otherwise requires).
+
+### 14 Functions of Commissioner for Financial Advisers as chair of disciplinary committee continue to reside with chair
+(1) Section 13 does not apply to any information or documents held by, any act or omission by, any matter or thing uncompleted by, or any reference to the Commissioner for Financial Advisers in his or her capacity as chairperson of the disciplinary committee.
+(2) The matters referred to in subsection (1) continue to reside with the chairperson of the disciplinary committee for the time being.
