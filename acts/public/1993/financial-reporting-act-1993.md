@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andcestablish an Accounting Standards Review Board and define its functions and powers; anddgive legal force to accounting standards approved by the Board; andeprovide for related matters
 
@@ -39,6 +39,7 @@ _Consolidation as at 2011-02-01_
     (b) an interest in or right to participate in any distribution of profits or surplus assets of a company;—
   - **exempt company** has the meaning given to it by section 6A
   - **financial statements** has the meaning given to it by section 8
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **generally accepted accounting practice** has the meaning given to it by section 3
   - **group** means a group comprising a reporting entity and its subsidiaries
   - **group financial statements** has the meaning given to it by section 9
@@ -88,8 +89,9 @@ For the purposes of this Act, financial statements and group financial statement
 ### 4 Meaning of issuer
 (1) In this Act, issuer means—
   (a) every person who has, whether before or after the commencement of this Act, allotted securities pursuant to—whether or not the securities allotted are securities of the same type as the securities offered:
-    (i) an offer for which, or for which but for an exemption granted by the Securities Commission pursuant to section 5 of the Securities Act 1978, an investment statement or a registered prospectus, or both, is or was required under that Act (other than an offer of a unit in a unit trust); or
+    (i) an offer for which, or for which but for an exemption granted by the FMA or the Securities Commission under the Securities Act 1978, an investment statement or a registered prospectus, or both, is or was required under that Act (other than an offer of a unit in a unit trust or an interest in a KiwiSaver scheme other than a restricted scheme); or
     (ii) an offer required to be contained in a prospectus required to be registered under the Companies Act 1955,—
+  (ab) every manager of a KiwiSaver scheme other than a restricted scheme (within the meaning of the KiwiSaver Act 2006) in which securities have been allotted, whether before or after the commencement of this paragraph, pursuant to an offer of securities to the public within the meaning of the Securities Act 1978:
   (b) every manager of a unit trust (within the meaning of section 2 of the Unit Trusts Act 1960) in which securities have been allotted, whether before or after the commencement of this Act, pursuant to an offer of securities to the public within the meaning of the Securities Act 1978:
   (ba) every recipient of money from a conduit issuer (within the meaning of section 4A):
   (c) every person who is a party to a listing agreement with a stock exchange in New Zealand and who has issued securities which are quoted on such an exchange:
@@ -119,19 +121,18 @@ For the purposes of this Act, financial statements and group financial statement
   (b) a director of a company or other body corporate is not related to that company or body corporate merely because he or she is a director of that company or body corporate.
 
 ### 4B Exemption from being issuer under section 4(1)(ba)
-(1) The Securities Commission may, by notice in the Gazette, exempt—
+(1) The FMA may, by notice in the Gazette, exempt—
   (a) a person from being an issuer under section 4(1)(ba); or
   (b) a class of persons from being issuers under section 4(1)(ba).
-(2) The exemption may be granted on any terms and conditions that the Securities Commission thinks fit.
-(3) The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+(2) The exemption may be granted on any terms and conditions that the FMA thinks fit.
+(3) The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
 (4) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
 
 ### 4C Exemption may apply to accounting period before exemption is granted
-An exemption under section 4B may, if the Securities Commission thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
+An exemption under section 4B may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
 
-### 4D Securities Commission must notify reasons for exemption
-(1) The Securities Commission's reasons for granting an exemption under section 4B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-(2) However, the Securities Commission may defer notifying or not notify the reasons for granting an exemption if the Commission is satisfied that it is proper to do so on the ground of commercial confidentiality.
+### 4D FMA must notify reasons for exemption
+The FMA's reasons for granting an exemption under section 4B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
 
 ### 5 Persons ceasing to be issuers during accounting period
 (1) Where a person ceases to be an issuer during an accounting period, that person shall be deemed to continue to be an issuer in relation to that accounting period for the purposes of this Act.
@@ -201,7 +202,7 @@ None of the following is an issuer for the purposes of this Act:
 (1) For the purposes of this Act, a requirement on the directors of an issuer of securities in relation to a scheme within the meaning of section 2 of the Securities Act 1978 (other than a scheme to which subsection (2) applies) to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself),—
   (a) if the liabilities of the issuer and the scheme are not limited to a particular group of assets (in this section referred to as a separate fund), financial statements in respect of the scheme; or
   (b) if the liabilities of the issuer or the scheme are limited to a separate fund, financial statements in respect of both the scheme and that fund.
-(2) For the purposes of this Act, a requirement on the trustees of a superannuation scheme that is registered under the Superannuation Schemes Act 1989 to prepare and register financial statements shall be construed as a requirement to prepare and register,—
+(2) For the purposes of this Act, a requirement on the trustees of a superannuation scheme that is registered under the Superannuation Schemes Act 1989, including a restricted KiwiSaver scheme (within the meaning of the KiwiSaver Act 2006) but not any other KiwiSaver scheme, to prepare and register financial statements shall be construed as a requirement to prepare and register,—
   (a) if the liabilities of the trustee and the scheme are not limited to a separate fund, financial statements in respect of the scheme; or
   (b) if the liabilities of the trustee or the scheme are limited to a separate fund, financial statements in respect of both the scheme and that fund.
 (3) Where the liability of an issuer that is a life insurance company to satisfy its obligations under any securities (as distinct from calculating the returns on the securities) is limited to a separate fund (whether the fund or the limitation is created by statute or by contract or otherwise), then, for the purposes of this Act, a requirement on the directors of the issuer to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself), financial statements in respect of each such fund.
@@ -302,7 +303,7 @@ None of the following is an issuer for the purposes of this Act:
   (f) whether, in the auditor's opinion, the financial statements and any group financial statements comply with generally accepted accounting practice, and if they do not, the respects in which they fail to comply; and
   (g) whether, in the auditor's opinion and having regard to any information or explanations that may have been added by the reporting entity pursuant to section 11(2) or section 14(2), the financial statements and any group financial statements give a true and fair view of the matters to which they relate, and, if they do not, the respects in which they fail to give such a view.
 (1A) Section 79 of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer.
-(2) Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the Securities Commission.
+(2) Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the FMA.
 
 ### 17 Auditor's report on exempt companies
 Where, pursuant to the Companies Act 1955 or the Companies Act 1993, the financial statements of an exempt company are required to be audited, the auditor's report on the financial statements must state—
@@ -504,15 +505,32 @@ The Regulations (Disallowance) Act 1989 applies to the following determinations 
 
 ## Part 4 — Miscellaneous
 
-### 35A Securities Commission may grant exemptions to directors of issuers that are incorporated or constituted outside New Zealand
-(1) The Securities Commission may, by notice in the Gazette, exempt any directors of an issuer that is incorporated or constituted outside New Zealand, or any directors of a class of those issuers, from compliance with any provision of sections 8 to 11, 13 to 16, 18, 36, 36A, or 38.
-(2) The Securities Commission must not grant an exemption under this section unless it is satisfied that—
-  (a) the exemption would not cause significant detriment to subscribers for the securities of the issuer that are members of the public in New Zealand, having regard to the financial reporting requirements that must be complied with in relation to the issuer under the law in force in the country where the issuer is incorporated or constituted; and
-  (b) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
-(3) The exemption may be granted on any terms and conditions that the Securities Commission thinks fit.
-(4) The Securities Commission may vary or revoke an exemption in the same way as an exemption may be granted under this section.
-(5) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
-(6) The Securities Commission must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
+### 35A FMA may grant exemptions to directors of issuers that are incorporated or constituted outside New Zealand
+(1) The FMA may exempt any directors of an issuer that is incorporated or constituted outside New Zealand, or any directors of a class of those issuers, from compliance with any provision of sections 8 to 11, 13 to 16, 18, 36, 36A, or 38.
+(2) The FMA must not grant an exemption under this section unless it is satisfied that—
+  (a) the exemption would not cause significant detriment to subscribers for the securities of the issuer who are members of the public in New Zealand, having regard to the financial reporting requirements that must be complied with in relation to the issuer under the law in force in the country where the issuer is incorporated or constituted; and
+  (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
+(3) The exemption may be granted on any terms and conditions that the FMA thinks fit.
+(4) The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+(5) The FMA must not grant an exemption under this section in respect of an issuer that is a licensed insurer.
+
+### 35AB Transitional provision for exemptions granted by Securities Commission
+Every exemption granted under section 35A (as in force before the commencement of this section) by the Securities Commission that is in force immediately before this section comes into force—
+  (a) continues in force as if it were granted under section 35A by the FMA; and
+  (b) may be amended or revoked as if granted under that section.
+
+### 35AC Status and publication of exemptions under section 35A
+(1) An exemption granted under section 35A—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
+  (b) must be presented to the House of Representatives under section 4 of that Act.
+(2) A class exemption (but not any other exemption granted under section 35A) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) An exemption granted under section 35A that is not a class exemption must, as soon as practicable after it is granted, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(4) A notification in the Gazette for the purpose of subsection (3)(b) does not have to include the text of the exemption.
+(5) The FMA's reasons for granting an exemption under section 35A (including why the exemption is appropriate) must be published together with the exemption.
+(6) In this section, class exemption means an exemption that is of general application and applies in respect of a class of issuers.
 
 ### 35B Registrar of Companies may grant exemptions to directors of overseas companies
 (1) The Registrar of Companies may, by notice in the Gazette, exempt any directors of an overseas company that is not an issuer, or any directors of a class of those overseas companies, from compliance with any provision of sections 8 to 11, 13, 14, 19, 36, 36A, or 39.
@@ -523,24 +541,23 @@ The Regulations (Disallowance) Act 1989 applies to the following determinations 
 (4) The Registrar of Companies may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the Gazette).
 (5) The Registrar of Companies may vary or revoke an exemption in the same way as an exemption may be granted under this section.
 (6) Each notice published in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(7) The Registrar of Companies' reasons for granting an exemption (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
 
 ### 35C Consultation
-(1) In deciding whether or not to grant, amend, or revoke an exemption under section 35A or 35B, the Securities Commission or the Registrar of Companies (as the case may be)—
-  (a) may consult any persons or organisations that the Commission or Registrar thinks fit; but
+(1) In deciding whether or not to grant, amend, or revoke an exemption under section 35A or 35B, the FMA or the Registrar of Companies (as the case may be)—
+  (a) may consult with any persons or organisations that the FMA or Registrar thinks fit; but
   (b) must consult with—
     (i) the Commissioner of Inland Revenue if the exemption is under section 35B and involves any provision of section 10; and
     (ii) the Reserve Bank of New Zealand if the exemption concerns a registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989).
 (2) This section does not limit section 16 or 17 of the Crown Entities Act 2004.
 
 ### 35D Exemption may apply to accounting period before exemption is granted
-An exemption under section 35A or 35B may, if the Securities Commission or the Registrar of Companies (as the case may be) thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if,—
+An exemption under section 35A or 35B may, if the FMA or the Registrar of Companies (as the case may be) thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if,—
   (a) in the case of copies of financial statements or group financial statements for that period that are required to be delivered for registration under section 18 or 19, the exemption is granted before those documents are required to be delivered for registration under those sections; or
   (b) in any other case, the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
 
 ### 35E Reasons for exemption must be notified
-(1) The Securities Commission's reasons for granting an exemption under section 35A (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-(2) The Registrar of Companies' reasons for granting an exemption under section 35B (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-(3) However, the Securities Commission or the Registrar of Companies (as the case may be) may defer notifying or not notify the reasons for granting an exemption if the Securities Commission or the Registrar of Companies is satisfied that it is proper to do so on the ground of commercial confidentiality.
+[Repealed]
 
 ### 36 Offences by directors of reporting entities
 (1) Where—every director of the reporting entity commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
@@ -624,13 +641,13 @@ The disclosure of personal information (as defined in section 2 of the Privacy A
 ### 42B Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees and charges that—
-    (i) the Securities Commission may require to be paid to it in connection with an application to the Securities Commission to grant or amend an exemption under section 4B or 35A:
+    (i) the FMA may require to be paid to it in connection with an application to the FMA to grant or amend an exemption under section 4B or 35A:
     (ii) the Board may require to be paid to it in connection with an application to the Board to grant or amend an exemption under section 29A:
     (iii) the Registrar of Companies may require to be paid to him or her in connection with an application to him or her to grant or amend an exemption under section 35B:
   (b) prescribing the amounts of those fees or charges or the method by which they are to be calculated:
   (c) prescribing forms for the purposes of section 10A and forms of infringement notices and reminder notices:
   (d) prescribing the information that must be included in infringement notices or reminder notices.
-(2) The amounts payable under regulations made under this section are recoverable by the Securities Commission or the Board or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the Securities Commission or the Board or the Registrar of Companies.
+(2) The amounts payable under regulations made under this section are recoverable by the FMA or the Board or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the FMA or the Board or the Registrar of Companies.
 
 ### 43 Administration of Act
 The Registrar is charged with the administration of this Act.
