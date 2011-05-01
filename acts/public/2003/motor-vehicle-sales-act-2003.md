@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -90,7 +90,7 @@ This Act binds the Crown.
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the Ministry that has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
   - **mobility device** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **moped** has the meaning given to it by section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **moped** has the same meaning as in section 233(1) of the Land Transport Act 1998
   - **motor cycle** —
     (a) means a motor vehicle running on 2 wheels, or on not more than 3 wheels when fitted with a sidecar; and
     (b) includes any vehicle with motor cycle controls declared by the New Zealand Transport Agency to be a motor cycle; but
@@ -145,7 +145,7 @@ This Act binds the Crown.
     (a) means a motor vehicle that has, at any time before being offered or displayed for sale,—
       (i) been registered under—
         (A) the Transport Act 1962; or
-        (B) the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
+        (B) the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998; or
         (C) any corresponding enactment of another country:
       (ii) been used for a purpose not connected with its manufacture or sale; and
     (b) includes a motor vehicle that has been used for the purpose of demonstration in connection with the sale of another motor vehicle
@@ -309,7 +309,7 @@ Section 16 has effect despite any provision to the contrary in any agreement or 
 (1) If this section applies, the motor vehicle trader must immediately on demand by the principal, or, if no demand is made, within 5 working days after the completion of the sale on consignment, provide to the principal a written account setting out the particulars of—
   (a) all money received by the motor vehicle trader on the principal's behalf in respect of that sale; and
   (b) the manner in which the motor vehicle trader has applied the money.
-(2) For the purposes of this section, a sale on consignment is completed regardless of the fact that a notice of change of ownership has yet to be given in accordance with section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+(2) For the purposes of this section, a sale on consignment is completed regardless of the fact that a notice of change of ownership has yet to be given in accordance with section 247 of the Land Transport Act 1998.
 
 ### 21 Motor vehicle trader must keep record of contracts for sale
 (1) A motor vehicle trader must keep a record of each contract for the sale of any motor vehicle that the trader enters into as a party, or as an agent, in the course of carrying on the business of motor vehicle trading.
@@ -1187,9 +1187,9 @@ The purpose of section 123 is to facilitate the disclosure of information from t
   (a) identifying any person who sells more than 6 motor vehicles during a specified period; and
   (b) determining whether or not that person is, or should be, a banned person or registered as a motor vehicle trader under this Act.
 
-### 123 Ministry of Transport must supply vehicle registration information to Registrar
-(1) The Secretary for Transport, or any person authorised by the Secretary, must supply to the Registrar any vehicle registration information for the time being held under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 at the time and at the intervals agreed to between the Secretary and the Registrar.
-(2) On receiving information from the Ministry of Transport under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
+### 123 Registrar of Motor Vehicles must supply vehicle registration information to Registrar
+(1) The Registrar of Motor Vehicles, or any person authorised by that Registrar, must supply to the Registrar any vehicle registration information for the time being held under Part 17 of the Land Transport Act 1998 at the time and at the intervals agreed between the Registrar of Motor Vehicles and the Registrar.
+(2) On receiving information from the Registrar of Motor Vehicles under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
 
 **Inspection**
 
