@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -333,7 +333,7 @@ _Consolidation as at 2011-04-01_
       (i) retains any amount paid to the seller to recoup that seller's selling costs in respect of the layby sale; or
       (ii) recovers any amount (including, or in addition to, the amount referred to in subparagraph (i) of this paragraph) from the buyer,—
 (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the Public Finance Act 1989, any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
-(6A) For the purposes of this Act, any registration fee paid pursuant to section 7(3) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 (and prescribed in Part 1 of Schedule 2 to that Act), and any annual licence fee paid pursuant to section 10(2) of that Act (and prescribed in Part 2 of Schedule 2 to that Act), shall be deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
+(6A) For the purposes of this Act, any registration fee paid pursuant to section 243(1)(b)(i) of the Land Transport Act 1998 and any licence fees paid pursuant to section 244(2) of that Act are deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
 (6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under section 48 of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
 (6AC) For the purposes of this Act, a levy that is paid under the Waste Minimisation Act 2008 is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
   (a) a payment made by a waste disposal facility user to a waste disposal facility operator; and
