@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1969
-_Consolidation as at 2010-05-28_
+_Consolidation as at 2011-05-01_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -95,7 +95,7 @@ Subject to the provisions of this Act, every retiring allowance, annual allowanc
 (2) The foregoing provisions of this section shall not limit the amount of any adjustment to be made in April 1976 or at any subsequent time.
 
 ### 9 Adjustments to annuities
-Where any annuity payable to a spouse or partner under section 45, section 79, or section 87 of this Act has ceased to be payable because of the marriage of that spouse or partner and has again become payable, any adjustments to the annuity shall be made as if it had been payable throughout the period during which it was not payable; but nothing in this section shall be construed so as to enable the payment of any adjustment in respect of any period during which the annuity was not payable under section 45, section 79, or section 87 of the principal Act.
+Where any annuity payable to a spouse or partner under section 45, section 79, or section 87 of the principal Act has ceased to be payable because of the marriage of that spouse or partner and has again become payable, any adjustments to the annuity shall be made as if it had been payable throughout the period during which it was not payable; but nothing in this section shall be construed so as to enable the payment of any adjustment in respect of any period during which the annuity was not payable under section 45, section 79, or section 87 of the principal Act.
 
 ### 10 Application of principal Act to Schedule 2
 For the purposes of Schedule 2 to this Act—
@@ -103,7 +103,7 @@ For the purposes of Schedule 2 to this Act—
   (b) Any period covered by an election under section 25 of the principal Act shall be deemed to be contributory service after the 14th day of June 1969 only to such extent as the Superintendent may determine.
 
 ### 11 Superintendent may make certain adjustments
-Notwithstanding anything in this Act, if at any time it appears to the Superintendent that for an extended period there has been no significant increase in the cost of living, the Superintendent may make such increases to the retiring allowance of any contributor or to the annual allowance of any approved dependant of any contributor or to the annuity of the spouse or partner of any contributor as the Superintendent, on the advice of the Government Actuary, considers warranted.
+Notwithstanding anything in this Act, if at any time it appears to the Superintendent that for an extended period there has been no significant increase in the cost of living, the Superintendent may make such increases to the retiring allowance of any contributor or to the annual allowance of any approved dependant of any contributor or to the annuity of the spouse or partner of any contributor as the Superintendent considers warranted.
 
 ## Schedule 1 — New Schedule to the Government Superannuation Fund Amendment Act 1962
 
