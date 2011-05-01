@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2010-05-20_
+_Consolidation as at 2011-05-01_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -10,7 +10,9 @@ _Consolidation as at 2010-05-20_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **actuary** means a person who is a Fellow of the New Zealand Society of Actuaries
+  - **actuary** means—
+    (a) a person who is a Fellow of the New Zealand Society of Actuaries Incorporated; or
+    (b) a person whom the Board considers to have an equivalent professional qualification
   - **aircrew superannuation scheme** means that part of the Standard Scheme for Local Authorities Superannuation (including Harbourmasters and (Ships') Pilots) which is known as the Aircrew Superannuation Scheme
   - **beneficiary** , in relation to a scheme, means a natural person who is eligible to receive a benefit from the scheme
   - **benefit** means any lump sum, annuity, pension, allowance, refund, or other payment arising from membership of a superannuation scheme, benefit plan, or other arrangement having a similar purpose (other than any reduction or potential reduction in a contribution rate or any reversion of property on a winding up of a superannuation scheme)
@@ -48,7 +50,6 @@ In this Act, unless the context otherwise requires,—
       (i) which has more than 1 pool of property, each such pool; and
       (ii) the Board as trustee of that unit trust or pool
   - **global asset trust** means the trust referred to in clause 2 of Schedule 2 which is to be established in accordance with the proposal
-  - **Government Actuary** includes any actuary for the time being authorised by delegation by the Government Actuary to exercise or perform any of the powers or functions of the Government Actuary
   - **instrument** includes—
     (a) any instrument (other than this Act) of any form or kind that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it, or a copy of it, were lodged, filed, or registered under any enactment; and
     (b) any judgment, order, or process of a court
@@ -441,7 +442,7 @@ On the transfer day the aircrew superannuation scheme shall be deemed to—
   (b) likely to be in excess of the level of contributions required to provide for the liabilities of the scheme,—
 (2) The Minister may, by notice in writing to the Board, direct the Board to increase or decrease the contributions required to be made by any corporate contributor to the DBP contributors scheme or the aircrew superannuation scheme, and the Board shall take all such steps as are reasonably necessary to implement any such increase or decrease.
 (3) The Minister may give such notice whether or not the Board has recommended that there be any change to those contributions but shall not do so without prior consultation with the Board.
-(4) Neither the Minister nor the Board may give a notice under this section unless reasonably satisfied, after due enquiry and (in the case of the Minister) taking advice from the Government Actuary, and having regard only to the financial position of the DBP contributors scheme (and not that of the DBP annuitants scheme) or the aircrew superannuation scheme, as the case may be, that the increases or decreases—
+(4) Neither the Minister nor the Board may give a notice under this section unless reasonably satisfied, after due enquiry and having regard only to the financial position of the DBP contributors scheme (and not that of the DBP annuitants scheme) or the aircrew superannuation scheme, as the case may be, that the increases or decreases—
   (a) are necessary in order to ensure that any trust fund in respect of the DBP contributors scheme or aircrew superannuation scheme is not in a deficit or surplus position, or to reduce such deficit or surplus position, taking account of the scheme's projected liabilities, the value of its property, and the projected level of future contributions to the scheme; and
   (b) will result in contributions being at a level which, on reasonable assumptions, is likely to achieve neither a surplus nor a deficit in the trust fund of the DBP contributors scheme or aircrew superannuation scheme at the time that the last contributor to that scheme ceases to so contribute.
 (5) Any notice under subsection (2) shall specify the date on which such increases or decreases are to be implemented, but that date shall not be less than 3 months after the date of the notice.
@@ -902,7 +903,7 @@ Upon any member of the DBP contributors scheme ceasing to be a contributor but r
   (b) the Board is hereby authorised to make such amendments to the trust deed for the Pension National Scheme as are necessary—
     (i) to empower the Board to pay to any member who becomes redundant a benefit not exceeding the amount standing to the total credit of the member in the scheme:
     (ii) in the event of a member electing to leave his or her total credit in the scheme on ceasing to be engaged by an employer, to authorise the full total credit of the member to be left in the scheme and attract interest in accordance with the provisions of the scheme until a benefit becomes payable under the terms of the scheme.
-(2) No amendment may be made by the Board under subsection (1) unless the Government Actuary and an actuary appointed by the Board for the purpose have each given a certificate in writing stating that the financial resources of the scheme are likely to be sufficient to meet the liabilities of the scheme as so amended.
+(2) No amendment may be made by the Board under subsection (1) unless an actuary appointed by the Board for the purpose has given a certificate in writing stating that the financial resources of the scheme are likely to be sufficient to meet the liabilities of the scheme as so amended.
 (3) Where the Board amends the trust deed for such a scheme in accordance with this section—and any payments made by the Board and any action taken by the Board in accordance with the trust deed or the terms and conditions of the scheme as so deemed to have been amended shall be deemed to be and always to have been valid.
   (a) the trust deed shall be deemed to have been amended on the date on which it was executed; and
   (b) the terms and conditions of the scheme as it existed on 1 June 1981 shall be deemed to have been amended to the same effect on 1 June 1981—
