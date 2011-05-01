@@ -1,5 +1,5 @@
 # Securities Markets Amendment Act 2002
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 (1) This Act is the Securities Markets Amendment Act 2002.
@@ -781,8 +781,8 @@ Unless the context otherwise requires, every reference to the principal Act in a
   (a) having been approved under section 36O of the principal Act on the commencement of this section; and
   (b) having effect in contract and for the purposes of section 36G of the principal Act on the commencement of this section.
 (3) Any Order in Council that imposes a control limit in respect of the Company under section 12(2) of the New Zealand Stock Exchange Restructuring Act 2002 must, on and from the commencement of this section, be treated as having been made under section 36S of the principal Act.
-(4) Section 36G of the principal Act applies only to the official list of the NZSE or vesting entity, and not to any other securities market operated by the NZSE or vesting entity, until the date appointed under subsection (5).
-(5) The Governor-General may, by Order in Council, appoint a date for the purposes of subsection (4).
+(4)
+(5)
 (6) In this section, Company, NZSE, NZSE rules, and vesting entity have the same meanings as in section 4(1) of the New Zealand Stock Exchange Restructuring Act 2002.
 
 ## Schedule Schedule — Consequential amendments to Securities Markets Act 1988 and other enactments
