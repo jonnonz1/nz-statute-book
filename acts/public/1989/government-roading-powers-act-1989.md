@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Government Roading Powers Act 1989.
@@ -720,7 +720,7 @@ Neither the Crown nor any local authority nor any other person shall place any w
 ### 83 Vehicles which may be operated on motorways
 A person may operate any vehicle or combination of vehicles on a motorway if—
   (a) the vehicle, or each vehicle of the combination, is supported by pneumatic tyres while it is being operated, and—
-    (i) is registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or is a vehicle that is exempt from registration pursuant to clause 5 of Part 1 of Schedule 1 to that Act; and
+    (i) is registered under Part 17 of the Land Transport Act 1998 or is a vehicle that is exempt from registration under that Part; and
     (ii) in the case of a vehicle or combination of vehicles which may not be operated on a motorway without a permit issued under regulations in force under this or any other Act, such a permit is in force; or
   (b) the vehicle is a cycle being operated on a part of the motorway where such operation is approved.
 
