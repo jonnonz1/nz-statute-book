@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -155,9 +155,12 @@ Every company which, concurrently with the granting of policies of insurance or 
 (1) Each statement or abstract required under any of the foregoing provisions of this Act shall be made in writing and signed by the principal officer of the company managing the life insurance business in New Zealand. Such statement or abstract and the report of an auditor accompanying such statement shall be deposited, together with 2 copies thereof, with the chief executive of the Ministry of Economic Development within 9 months after the date prescribed by this Act as the date at which it is to be prepared.
 (2) On receiving any such statement, or abstract, or report, the chief executive of the Ministry of Economic Development may, by notice in writing served on the company depositing the statement, or abstract, or report, require that company, within such period (being not less than 14 days after the date of service) or extended period as he may allow, to supply him with such explanation of, or such further information relating to, the subject-matter of the statement or abstract or report as he may consider necessary for the purposes of this Act.
 
-### 22 Statements and abstracts to be examined by Government Actuary
-(1) One of each of the printed copies of every statement or abstract or report so deposited shall be sent by the chief executive of the Ministry of Economic Development to the Government Actuary who shall make such report to the Minister on such statement or abstract or report as he thinks fit, and the Minister may publish every such report in the Gazette.
-(2) The chief executive of the Ministry of Economic Development may, if he thinks fit, send to the Government Actuary details of any explanation or information supplied under section 21(2) of this Act and the Government Actuary may report thereon to the Minister either in a report made under subsection (1) of this section or in a separate report.
+### 22 Statements and abstracts to be examined by chief executive
+(1) The chief executive of the Ministry of Economic Development must—
+  (a) consider each statement (and accompanying auditor’s report) or abstract received under section 21; and
+  (b) report on the statement, report, or abstract, as he or she thinks fit, to the Minister.
+(2) The chief executive of the Ministry of Economic Development must consider any further information relating to the statement, report, or abstract that he or she receives under section 21(1) and may, if he or she thinks fit, report on that information to the Minister, either in a report under subsection (1) or in a separate report.
+(3) The Minister may publish, in the Gazette, any report that he or she receives under this section.
 
 ### 23 Copy of statement to be given to shareholders, etc
 A printed copy of the last-deposited statement, abstract, or report of an auditor accompanying such statement or other document required by this Part of this Act to be printed shall be forwarded by the company, by post or otherwise, on application, to every shareholder and policyholder of the company.
@@ -277,7 +280,7 @@ Every fine imposed by this Part of this Act shall, unless otherwise provided, be
 (2) An order under subsection (1) of this section may be made where it appears that there is a likelihood that the company is, or will be unable to meet any of its liabilities to policyholders.
 (3) In determining whether there is a likelihood that the company is, or will be unable to meet any such liability, the Court may have regard to—
   (a) Any statement, or the report of any auditor accompanying such statement or abstract deposited with the chief executive of the Ministry of Economic Development under section 21 of this Act:
-  (b) Any report made by the Government Actuary under section 22 of this Act:
+  (b) Any report made by the chief executive of the Ministry of Economic Development to the Minister under section 22 of this Act:
   (c) Any report made by an inspector appointed under section 422 of the Companies Act 1955:
   (d) Any other evidence.
 (4) An application under this section may be made by the Minister.
@@ -324,7 +327,7 @@ The functions of a judicial manager, which shall be exercised in relation to the
 
 ### 40H Report of judicial manager to be filed
 (1) The report of a judicial manager under section 40F of this Act shall be filed with the Court within 12 months after the appointment of the judicial manager, or within such longer period as the Court may allow, on application made to it by the judicial manager.
-(2) A copy of the report or a summary of it shall be sent to the Minister, the chief executive of the Ministry of Economic Development, the Government Actuary, every policyholder of and shareholder in the company, and to every creditor and director of the company and to such other persons as the judicial manager considers it appropriate or desirable should receive such copy or summary.
+(2) A copy of the report or a summary of it shall be sent to the Minister, the chief executive of the Ministry of Economic Development, every policyholder of and shareholder in the company, and to every creditor and director of the company and to such other persons as the judicial manager considers it appropriate or desirable should receive such copy or summary.
 (3) Every person to whom a copy of the report or a summary of it is sent shall be entitled to make submissions in writing on the matters contained in the report to the judicial manager within such period not exceeding 3 months as may be specified.
 (4) The judicial manager shall forthwith make a supplementary report to the Court on any such submissions.
 
@@ -334,7 +337,7 @@ The functions of a judicial manager, which shall be exercised in relation to the
   (b) The assets and the net value thereof to be transferred in consideration for the assumption of such liability:
   (c) The terms of any agreement under which it is proposed to transfer the business or any part thereof.
 (2) The scheme of transfer shall be accompanied by a report thereon by an independent actuary.
-(3) The Government Actuary may report to the Court on any scheme of transfer, and shall do so if the Court directs.
+(3) The chief executive of the Ministry of Economic Development may report to the Court on any scheme of transfer, and shall do so if the Court directs.
 (4) The judicial manager may, at any time after the expiration of the time for the making of submissions under section 40H(3) of this Act, apply to the Court for an order approving the scheme of transfer.
 (5) Notice of the application shall be given to the persons entitled to receive copies or summaries of the report of the judicial manager under section 40H of this Act and may be given to such other persons as the judicial manager considers it desirable should receive it.
 (6) The following persons shall be entitled to appear and be represented at the hearing of an application under this section:
