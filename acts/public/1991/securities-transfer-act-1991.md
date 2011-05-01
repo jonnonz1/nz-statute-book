@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
@@ -65,14 +65,14 @@ Securities (as defined in section 2) sold in a stock exchange transaction may, w
 (2) For the purposes of section 89 of the Companies Act 1955 (which relates to certification of transfers), a duly completed brokers transfer by itself shall be deemed to be an instrument of transfer of the securities specified therein.
 
 ### 7 Transfer of securities by electronic means
-(1) The Governor-General may from time to time, on the advice of the Minister given in accordance with a recommendation of the Securities Commission, by Order in Council, approve a system or systems that is or that are wholly or partly electronic for the transfer of securities (as defined in section 2).
+(1) The Governor-General may from time to time, on the advice of the Minister given in accordance with a recommendation of the Financial Markets Authority, by Order in Council, approve a system or systems that is or that are wholly or partly electronic for the transfer of securities (as defined in section 2).
 (2) A system of transfer may be approved under this section by reference to the name of the system or any name by which it is commonly known.
 (3) Without limiting subsection (1), a system of transfer may be approved under this section whether or not it also involves the use of a procedure or part of a procedure for the transfer of securities that is authorised under this Act or otherwise.
 (4) Modifications of a minor technical nature may, from time to time, be made to a system of transfer approved by an Order in Council made under this section and, in any such case, the system incorporating those modifications shall be deemed to have been approved by the order.
 (5) Securities (as defined in section 2) sold, given, or otherwise disposed of, whether in an authorised transaction or stock exchange transaction or otherwise may, whether or not they are fully paid up, be transferred in accordance with a system of transfer that is approved by the Governor-General by Order in Council under this section.
-(6) The Commission shall not make a recommendation under subsection (1) unless—
-  (a) the Commission has done everything reasonably possible to consult with such persons and organisations or their representatives as the Commission considers will be substantially affected by any Order in Council made in accordance with the recommendation and those persons and organisations or their representatives have had the opportunity to comment to the Commission; and
-  (b) the Commission has considered any such comments.
+(6) The Financial Markets Authority (FMA) must not make a recommendation under subsection (1) unless—
+  (a) the FMA has done everything reasonably possible to consult with the persons and organisations or their representatives that the FMA considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons and organisations or their representatives have had the opportunity to comment to the FMA; and
+  (b) the FMA has considered those comments.
 (7) A failure to comply with subsection (6) does not affect the validity of any Order in Council made under this section.
 (8) Every Order in Council made under this section shall be deemed to be a regulation within the meaning of section 2 of the Regulations (Disallowance) Act 1989.
 
