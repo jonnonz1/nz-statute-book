@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2010-11-27_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -66,9 +66,6 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **enforcement officer** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **excise duty** means any excise duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996
   - **excise-equivalent duty** means any excise-equivalent duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996
-  - **fees and charges** , when used in Part 2,—
-    (a) means the fees and charges prescribed for the purposes of the Road User Charges Act 1977 and the fees and charges prescribed for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; but
-    (b) does not include any infringement fee (whether recovered by an enforcement authority or under the Summary Proceedings Act 1957) or any other fine or penalty
   - **financial year** means a period of 12 months beginning on 1 July and ending on 30 June
   - **GPS** means a government policy statement issued under section 86
   - **impact** means the contribution made to an objective or outcome, including by a specified activity class or activity classes
@@ -131,7 +128,6 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **regional land transport strategy** means a regional land transport strategy prepared under Part 3
   - **regional public transport plan** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **regional transport committee** means a regional transport committee established under section 105
-  - **registered owner** , in relation to a motor vehicle, means the person registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 as the owner of the vehicle
   - **registered service** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **road** —
     (a) means a road as defined in section 2(1) of the Government Roading Powers Act 1989; and
@@ -164,7 +160,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 In this Act, unless the context otherwise requires, land transport revenue means—
   (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) calculated in accordance with Schedule 3 of the Road User Charges Act 1977, any additional charges under section 21A of that Act, and any assessments under section 18C or 18D of that Act:
   (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996 (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the Goods and Services Tax Act 1985):
-  (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, as land transport revenue for the purposes of this Act:
+  (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
   (d) the amount of interest, calculated according to a formula determined by the Minister and the Minister of Finance, earned from the investment of cash held by the Crown from the revenues referred to in paragraphs (a) to (c):
   (e) all other public money that is required by any enactment to be treated as land transport revenue for the purposes of this Act.
 
@@ -901,9 +897,9 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 
 ### 52 Who is liable to pay toll
 (1) The driver of a motor vehicle is liable for payment of the toll to the toll operator when the vehicle reaches the toll payment point.
-(2) If the driver fails to pay the toll as required by subsection (1), the registered owner of the motor vehicle is liable for payment of the toll to the toll operator.
-(3) However, the registered owner of a motor vehicle is not liable under subsection (2) to pay a toll if, within 28 days after being notified of the non-payment of the toll, the registered owner supplies to the toll operator, in a sworn statement in writing or a statutory declaration,—
-  (a) the name and address of the driver of the vehicle or any other particulars within the knowledge of the registered owner that may lead to the identification of the person who was in charge or control of the vehicle at the relevant time; or
+(2) If the driver fails to pay the toll as required by subsection (1), the person registered under Part 17 of the Land Transport Act 1998 in respect of the motor vehicle (the registered person) is liable for payment of the toll to the toll operator.
+(3) However, the registered person is not liable under subsection (2) to pay the toll if, within 28 days after being notified of the non-payment of the toll, the registered person supplies to the toll operator, in a sworn statement in writing or a statutory declaration,—
+  (a) the name and address of the driver of the vehicle or any other particulars within the knowledge of the registered person that may lead to the identification of the person who was in charge or control of the vehicle at the relevant time; or
   (b) a statement that the vehicle was a stolen vehicle at the relevant time.
 (4) Tolls (and the associated enforcement costs) are recoverable in a court of competent jurisdiction as a debt due to the toll operator.
 (5) Tolls are not payable in respect of any motor vehicle that—
@@ -914,8 +910,8 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 
 ### 53 Enforcement of tolls
 A toll operator may deny a motor vehicle physical access to its toll road, or past the toll payment point, if—
-  (a) the vehicle is subject to a toll, or the driver or registered owner of the vehicle is liable to pay a toll; and
-  (b) the driver or registered owner of the vehicle has not paid the toll or made an acceptable payment arrangement with the toll operator.
+  (a) the vehicle is subject to a toll, or the driver or person registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle is liable to pay a toll; and
+  (b) the driver or person registered under that Part in respect of the vehicle has not paid the toll or made an acceptable payment arrangement with the toll operator.
 
 ### 54 Offences and penalties
 (1) A person commits an offence if the person, without reasonable excuse, refuses or fails to pay a toll payable by that person.
