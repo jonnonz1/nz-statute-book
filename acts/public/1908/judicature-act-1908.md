@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -290,7 +290,7 @@ The Governor-General in Council may from time to time appoint special sittings o
   (b) applications to the court under the Arbitration Act 1996:
   (c) appeals against determinations of the Commerce Commission:
   (d) proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
-  (e) cases stated by the Securities Commission and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
+  (e) cases stated by the Financial Markets Authority, and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
   (f) the following proceedings in relation to companies registered under the Companies Act 1955 or the Companies Act 1993, as the case may be:
     (i) applications for directions by liquidators and receivers:
     (ii) defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
