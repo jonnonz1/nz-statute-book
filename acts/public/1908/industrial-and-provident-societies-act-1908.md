@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -282,9 +282,9 @@ With respect to the dissolution of registered societies the following provisions
 
 ### 16 Penalties
 With respect to penalties under this Act the following provisions shall have effect:
-  (a) If any person wilfully makes, orders, or allows to be made any entry or erasure in or omission from any statement of financial position of a registered society, or any contribution or collecting book, or any return or document required to be sent, produced, or delivered for the purposes of this Act, with intent to falsify the same or to evade any of the provisions of this Act, he shall be liable to a fine not exceeding $100, recoverable on prosecution by the Registrar or any person aggrieved:
+  (a) If any person wilfully makes, orders, or allows to be made any entry or erasure in or omission from any statement of financial position of a registered society, or any contribution or collecting book, or any return or document required to be sent, produced, or delivered for the purposes of this Act, with intent to falsify the same or to evade any of the provisions of this Act, he shall be liable to a fine not exceeding $100, recoverable on prosecution by the Registrar, the Financial Markets Authority, or any person aggrieved:
   (b) If any officer of the society, or any person on its behalf, uses any seal purporting to be a seal of the society whereon its name is not so engraved as aforesaid, or issues or authorises the issue of any notice, advertisement, or other official publication of the society, or signs or authorises to be signed on behalf of the society any bill of exchange, promissory note, endorsement, cheque, order for money or goods, or issues or authorises to be issued any bills of parcels, invoice, receipt, or letters of credit of the society, wherein its name is not mentioned in manner aforesaid, he shall be liable to a fine of $100, and shall further be personally liable to the holder of any such bill of exchange, promissory note, cheque, or order for money or goods for the amount thereof, unless the same is duly paid by the society:
-  (c) Every society, officer, or member of a society, or other person guilty of an offence under this Act, for which no penalty is expressly provided herein, is liable to a fine of not less than $2 and not more than $10, recoverable on prosecution by the Registrar or any person aggrieved:
+  (c) Every society, officer, or member of a society, or other person guilty of an offence under this Act, for which no penalty is expressly provided herein, is liable to a fine of not less than $2 and not more than $10, recoverable on prosecution by the Registrar, the Financial Markets Authority, or any person aggrieved:
   (d) Except in the case of indictable offences, all fines imposed by this Act, or by any regulations under the same, or by the rules of a registered society, are recoverable in a summary way before any District Court Judge or 2 or more Justices or one or more Community Magistrates.
 
 ### 17 Where proceedings may be taken
