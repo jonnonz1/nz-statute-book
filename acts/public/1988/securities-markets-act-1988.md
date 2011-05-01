@@ -1,10 +1,12 @@
 # Securities Markets Act 1988
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2011-05-01_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act is the Securities Markets Act 1988.
-(2) Except as provided in subsection (3) of this section, this Act shall come into force on the date on which it receives the Royal assent.
-(3) Part 2 (except section 36), Part 3 (except section 41), and sections 42 to 44 of this Act shall come into force on the 1st day of July 1989.
+(2) Except as provided in subsection (3), this Act shall come into force on the date on which it receives the Royal assent.
+(3) Part 2 (except section 36), Part 3 (except section 41), and sections 42 to 44 shall come into force on 1 July 1989.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -21,24 +23,20 @@ _Consolidation as at 2009-11-24_
   - **authorised advertisement** has the same meaning as in section 2(1) of the Securities Act 1978
   - **authorised futures contract** has, in Part 3, the meaning set out in section 37(1)
   - **authorised futures exchange** has the meaning set out in section 37(1)
+  - **authorised futures market** has the meaning set out in section 37(1)
   - **broker advertisement** means a form of communication that—
     (a) refers to an investment broker or is reasonably likely to induce persons to seek an investment broker service; and
     (b) is authorised or instigated by, or on behalf of, an investment broker or prepared with the co-operation of, or by arrangement with, an investment broker; and
     (c) is to be, or has been, distributed to a person
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
-  - **business rules** means the rules made by a registered exchange that govern the conduct of—
-    (a) business on any securities markets or futures markets operated by the registered exchange:
-    (b) persons authorised to undertake trading activities on any securities markets or futures markets operated by the registered exchange
+  - **business rules** means the rules of a registered exchange for a registered market that relate to the matters set out in section 36H(1)(b), in the case of a securities market, or section 36H(2), in the case of a futures market
+  - **change** , in relation to the market rules for a registered market, has the meaning set out in section 36J(2)
   - **chief executive** means the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **civil remedy order** has the meaning set out in section 42R
   - **civil remedy provision** has the meaning set out in section 42S
   - **class** , in relation to securities, means a class of securities having attached to them identical rights, privileges, limitations, and conditions
-  - **Commission** means the Securities Commission established under the Securities Act 1978
   - **commodity** has, in Part 3, the meaning set out in section 37(1)
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
-  - **conduct rules** means,—
-    (a) in relation to a securities market, the business rules and listing rules of a registered exchange in relation to the securities market; and
-    (b) in relation to a futures market, the business rules of a registered exchange in relation to the futures market
   - **consideration** includes consideration other than money
   - **continuous disclosure direction** has the meaning set out in section 36ZP
   - **continuous disclosure exemption** means,—
@@ -53,17 +51,17 @@ _Consolidation as at 2009-11-24_
     (d) inducing, or attempting to induce, any other person, whether by threats or promises or otherwise, to contravene the provision; or
     (e) being in any way, directly or indirectly, knowingly concerned in, or a party to, the contravention by any other person of the provision; or
     (f) conspiring with any other person to contravene the provision
-  - **control** , in subpart 1 of Part 2B, has the meaning set out in section 36S
+  - **control** , in subpart 1B of Part 2B, has the meaning set out in section 36S
   - **co-operative company** means a company that is registered as a co-operative company under the Co-operative Companies Act 1996
   - **Court** means, in relation to any matter, the Court before which the matter is to be determined
   - **deal** , in Part 3, in relation to a futures contract, has the meaning set out in section 37(5) and (6)
   - **dealings in securities** , in subpart 2 of Part 1,—
-    (a) means, in relation to the securities of a public issuer, any of the following steps:
-      (i) acquiring or disposing of securities; or
+    (a) means, in relation to securities listed on a registered market, any of the following steps:
+      (i) acquiring or disposing of securities (and, in the case of a futures contract, these steps include acquiring or disposing of as defined in section 37(1)); or
       (ii) offering securities for subscription and issuing and allotting securities; or
       (iii) underwriting securities; or
       (iv) anything that is preparatory to, or related to, any dealings in securities (for example, giving investment advice) unless an exception applies to those dealings under that subpart; and
-    (b) means, in relation to securities that are not listed on a registered exchange, any of the steps referred to in paragraph (a) taken in the course of business; but
+    (b) means, in relation to securities that are not listed on a registered market, any of the steps referred to in paragraph (a) taken in the course of business; but
     (c) excludes any dealings exempted by regulations made under section 49D
   - **director** means—
     (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
@@ -87,7 +85,11 @@ _Consolidation as at 2009-11-24_
   - **engaging in conduct** means doing or refusing to do an act, and includes—
     (a) omitting to do an act; or
     (b) making it known that an act will or will not be done
+  - **exchange participant** means any of the following:
+    (a) a public issuer:
+    (b) a person authorised by a registered exchange to undertake trading activities on, or otherwise participate in, a registered market
   - **exemption** means, in Part 5, in respect of an obligation or provision, an exemption granted by or under this Act from that obligation or provision (for example, a continuous disclosure obligation exemption is an exemption from a continuous disclosure obligation), and a reference to a person is to a person contravening or complying with a term or condition of that exemption
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **futures contract** has the meaning set out in section 37
   - **futures market** means a market, exchange, or other facility for trading in futures contracts
   - **general dealing misconduct prohibition** means section 13
@@ -131,11 +133,13 @@ _Consolidation as at 2009-11-24_
   - **investment brokers service** means the receipt of investment money or investment property by an investment broker
   - **investment money and money** , in relation to an investment broker, mean any money received from, or on account of, a member of the public in relation to acquiring or disposing of securities
   - **investment property** and , in relation to an investment broker, mean security certificates or other valuable property received from, or on account of, a member of the public in relation to acquiring or disposing of securities
-  - **listed** , in relation to securities of a public issuer, means securities of the issuer that are approved for trading on the relevant registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be listed merely because trading in those securities is suspended)
-  - **listing rules** means the rules made by a registered exchange that relate to—
-    (a) the governance of the persons who are parties to listing agreements with the registered exchange; and
-    (b) the entry into, and revocation of, those listing agreements
+  - **issuer** has the meaning set out in section 2(1) of the Securities Act 1978
+  - **listed** , in relation to securities of a public issuer, means securities of the issuer that are approved for trading on a registered market (and, for the avoidance of doubt, securities do not cease to be listed merely because trading in those securities is suspended)
+  - **listing rules** means the rules of a registered exchange for a registered market that relate to the matters set out in section 36H(1)(a)
   - **market manipulation prohibition** means either of sections 11 or 11B
+  - **market rules** means the following rules for a registered market:
+    (a) in relation to a securities market, the business rules and listing rules of a registered exchange for the securities market; and
+    (b) in relation to a futures market, the business rules of a registered exchange for the futures market
   - **material information** has the meaning set out in section 3, in relation to a public issuer, and in section 3A, in relation to a futures contract
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **non-listed securities** means securities that are not listed
@@ -154,15 +158,17 @@ _Consolidation as at 2009-11-24_
       (iii) is to be, or has been, distributed to a person; but
     (b) does not include a prospectus or an advertisement as defined in sections 2(1) and 2A of the Securities Act 1978 respectively
   - **public issuer** means—
-    (a) a person who is a party to a listing agreement with a registered exchange:
-    (b) a person who was previously a party to a listing agreement with a registered exchange, in respect of any action or event or circumstance to which this Act applied while the person was a party to a listing agreement with a registered exchange
+    (a) a person who is a party to a listing agreement with a registered exchange in relation to a registered market (and includes a registered exchange that is listed on its own registered market):
+    (b) a person to whom paragraph (a) previously applied, in respect of any action or event or circumstance to which this Act applied at that time
   - **registered bank** has, in Part 3, the meaning set out in section 37(1)
-  - **registered exchange** means,—
-    (a) a body corporate registered under section 36F:
-    (b) a body corporate that is treated as if it were registered as a registered exchange under section 36X(3):
-    (c) a subsidiary of a registered exchange if the subsidiary operates a securities market:
-    (d) a subsidiary of a registered exchange in respect of futures markets if the subsidiary operates a futures market
-  - **registered exchange's securities market** means a securities market operated by a registered exchange
+  - **registered exchange** means any of the following:
+    (a) a person that holds a market registration under section 36F:
+    (b) a subsidiary of a person to which paragraph (a) applies (if the subsidiary operates the registered market):
+    (c) a person that is treated as if it were a registered exchange under section 36ZY(4)
+  - **registered exchange's securities market** means a securities market that is a registered market
+  - **registered market** means any of the following:
+    (a) a securities or futures market that is registered under section 36F:
+    (b) a securities or futures market that is treated as if it were a registered market under section 36ZY(4)
   - **related** has the meaning set out in section 5B(2)
   - **relevant event** means an event that results in a person having to disclose matters under sections 22 to 25
   - **relevant interest** has the meaning set out in sections 5 to 5B
@@ -172,7 +178,7 @@ _Consolidation as at 2009-11-24_
       (i) any interest in, or right to participate in, any capital, assets, earnings, royalties, or other property of any person:
       (ii) any interest in, or right to be paid, money that is, or is to be, deposited with, lent to, or otherwise owing by, any person (whether or not the interest or right is secured by a charge over any property):
       (iii) any renewal or variation of the terms or conditions of any existing security; but
-    (b) in subpart 1 of Part 1, means a security (as defined in paragraph (a)) that has been allotted and is listed on a registered exchange's securities market or approved for trading on an authorised futures exchange; but excludes a previously allotted security to the extent that conduct in relation to that security is regulated by the Securities Act 1978 except section 6A; and
+    (b) in subpart 1 of Part 1, means a security (as defined in paragraph (a)) that has been allotted and is listed on a registered market or approved for trading on an authorised futures market; but excludes a previously allotted security to the extent that conduct in relation to that security is regulated by the Securities Act 1978 except section 6A; and
     (c) in subpart 2 of Part 1, means a security (as defined in paragraph (a)) and includes a futures contract; but excludes a security exempted from Part 2 of the Securities Act 1978 under any of paragraphs (b) to (h) of section 5(1) of that Act; and
     (d) in both subparts 1 and 2 of Part 1, also means—
       (i) any form of beneficial interest in the security:
@@ -193,10 +199,12 @@ _Consolidation as at 2009-11-24_
   - **trade** , in subpart 1 of Part 1,—
     (a) means acquire or dispose of; but
     (b) does not include acquire, or dispose of, by inheritance or gift
-  - **trading day** means a day during which securities are traded on a registered exchange's securities market
+  - **trading day** means a day during which securities are traded on a registered market
   - **transacting shareholder** has the same meaning as in section 4 of the Co-operative Companies Act 1996
   - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act to administer the estates of deceased persons and other trust estates
   - **voting right** , in subpart 1 of Part 2B, has the meaning set out in section 36S
+  - **unsolicited offer** has the meaning set out in section 48DA(1)
+  - **unsolicited offer obligation** means any provision of any regulations made under section 48DB that is stated by those regulations to be an unsolicited offer obligation
   - **voting security** , in relation to a public issuer or other body,—
     (a) means a security of the public issuer or body that confers a right to vote at meetings of members or shareholders (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security); and
     (b) includes a security that is convertible into a security of that kind; but
@@ -215,6 +223,7 @@ _Consolidation as at 2009-11-24_
   (e) a body corporate and a person who is a director or principal officer of the body corporate.
 (3) Any term or expression that is defined in the Securities Act 1978 and used, but not defined, in this Act has the same meaning as in the Securities Act 1978.
 (4) A term that is defined to have a meaning when used in a particular Part or provision of this Act has the same meaning when it is used in the definition of any other term used in that Part or provision.
+(5) For the purposes of this Act and every other enactment, unless the context otherwise requires, a person is a party to a listing agreement with a registered exchange if the person is party to that listing agreement in respect of a registered market of the registered exchange (or, in the case of a registered exchange, if the exchange is listed on its own registered market, whether or not under a listing agreement).
 
 ### 3 What is material information in relation to public issuer
 For the purposes of this Act, unless the context otherwise requires, material information, in relation to a public issuer but not in relation to a futures contract referred to in section 3A, is information that—
@@ -222,7 +231,7 @@ For the purposes of this Act, unless the context otherwise requires, material in
   (b) relates to particular securities, a particular public issuer, or particular public issuers, rather than to securities generally or public issuers generally.
 
 ### 3A What is material information in relation to futures contract
-For the purposes of this Act, unless the context otherwise requires, material information in relation to a futures contract that is listed for trading on an authorised futures exchange is information that—
+For the purposes of this Act, unless the context otherwise requires, material information in relation to a futures contract that is listed for trading on an authorised futures market is information that—
   (a) a reasonable person would expect, if it were generally available to the market, to have a material effect on the value of the futures contract; and
   (b) relates to the particular futures contract, rather than to futures contracts generally.
 
@@ -267,13 +276,13 @@ For the purposes of this Act, unless the context otherwise requires, material in
 ### 6 Situations not giving rise to relevant interests
 (1) A person (A) does not have a relevant interest in securities under sections 5 to 5B merely because—
   (a) the ordinary business of A consists of, or includes, the lending of money or the provision of financial services, or both, and A has the relevant interest only as security given for the purposes of a transaction entered into in the ordinary course of the business of A; or
-  (b) A is authorised to undertake trading activities on a registered exchange's securities market and A acts for another person to acquire or dispose of those securities on behalf of that person in the ordinary course of A's business of carrying out those trading activities; or
+  (b) A is authorised to undertake trading activities on a registered market and A acts for another person to acquire or dispose of those securities on behalf of that person in the ordinary course of A's business of carrying out those trading activities; or
   (c) A has been authorised by resolution of the directors or other governing body of a body corporate to act as its representative at a particular meeting of members, or class of members, of a public issuer, and a copy of the resolution is deposited with the public issuer before the meeting; or
   (d) A is appointed as a proxy to vote at a particular meeting of members, or of a class of members, of the public issuer and the instrument of A's appointment is deposited with the public issuer before the meeting; or
   (e) A is a bare trustee of a trust to which the security is subject; or
   (f) A is a director of a body corporate and the body corporate has a relevant interest in the security; or
   (g) A is a member of a body corporate and the body corporate's constitution gives the member pre-emptive rights on the transfer of the security, if all members have preemptive rights on the same terms.
-(2) Subsection (1)(a) to (g) does not apply to a person if the person is currently designated by the Commission, by notice in the Gazette under section 48C, as a person that is not exempt under that paragraph.
+(2) Subsection (1)(a) to (g) does not apply to a person if the person is currently designated by the FMA, by notice in the Gazette under section 48C, as a person that is not exempt under that paragraph.
 (3) For the purposes of subsection (1)(e), a trustee may be a bare trustee even if he or she is entitled as a trustee to be remunerated out of the income or property of the trust.
 
 ### 6A Application of Part 1 to Reserve Bank of New Zealand
@@ -449,7 +458,7 @@ A person who contravenes section 11B commits an offence (see section 43 for the 
 **Futures contracts**
 
 ### 11E Application of subpart 1 to insider conduct in relation to futures contract
-This subpart applies, with the following modifications and exceptions, to insider conduct in relation to a futures contract that is listed on an authorised futures exchange:
+This subpart applies, with the following modifications and exceptions, to insider conduct in relation to a futures contract that is listed on an authorised futures market:
   (a) the term information insider of a public issuer must be read as information insider in relation to a futures contract:
   (b) the term information insider of the public issuer must be read as information insider in relation to the futures contract:
   (c) the term material information relating to the public issuer must be read as material information relating to—
@@ -524,15 +533,15 @@ A court hearing a proceeding brought against a person under the Fair Trading Act
 ### 19A Purpose of this subpart
 (1) The purpose of this subpart is to provide for appropriate continuous disclosure by public issuers of material information that is not generally available to the market.
 (2) The following criteria are relevant to the implementation of that purpose (without limiting other relevant criteria):
-  (a) providing an appropriate level of protection for investors:
-  (b) seeking to maintain the integrity and international competitiveness of the New Zealand listed markets:
+  (a) promoting fair, orderly, and transparent listed markets:
+  (b) providing an appropriate level of protection for investors:
   (c) ensuring that the benefits resulting from the continuous disclosure regime justify the costs, including the following costs:
     (i) the value that a public issuer gives up if the information is not kept confidential; and
     (ii) compliance costs for public issuers and registered exchanges in disclosing the information:
   (d) ensuring reasonable consistency and predictability in the application of the continuous disclosure regime:
   (e) avoiding unfair advantages resulting from inappropriate disclosure of information to some, but not all, investors:
-  (f) recognising the importance to the New Zealand listed markets of attracting and retaining public issuers:
-  (g) recognising the desirability of an effectively functioning framework of co-regulation of listed markets by registered exchanges and the Commission:
+  (f) recognising the importance to the New Zealand listed markets of attracting and retaining exchange participants and maintaining international competitiveness:
+  (g)
   (h) recognising the importance of maintaining international best practices for continuous disclosure in listed markets:
   (i) any principles applying to the co-ordination of business law between Australia and New Zealand set out in any agreement or memorandum of understanding between the Governments of New Zealand and Australia.
 
@@ -543,8 +552,8 @@ A court hearing a proceeding brought against a person under the Fair Trading Act
   (a) the public issuer is a party to a listing agreement with that exchange; and
   (b) the public issuer has information that those continuous disclosure provisions require it to notify; and
   (c) the information is material information that is not generally available to the market; and
-  (d) No regulations under section 48E declare that section 19C applies to that exchange.
-(2) Subsection (1) does not affect or limit the situations in which action can be taken (other than under this Act) for a failure to comply with provisions of the listing rules of a registered exchange.
+  (d) no regulations under section 48E declare that section 19C applies to that exchange.
+(2) Subsection (1) does not affect or limit the situations in which action can be taken (other than under Part 5) for a failure to comply with provisions of the listing rules of a registered exchange.
 
 ### 19C Public issuers must disclose in accordance with regulations if continuous disclosure regulations apply
 A public issuer must notify information in accordance with the continuous disclosure provisions of regulations made under section 48E if—
@@ -652,8 +661,8 @@ A person is treated as a director or officer for the purposes of this subpart fo
   (b) the director or officer acquires or disposes of the interest in the ordinary course of business.
 (3) For the avoidance of doubt and for the purposes of subsections (1) and (2), a person is not acting outside the ordinary course of business merely because the person acquires or disposes of non-listed securities in the company in connection with the person acquiring or disposing of a business or business assets.
 
-### 19Y Exemptions granted by Commission or regulations
-The directors' and officers' disclosure obligations are subject to any exemptions granted by the Commission under section 48 or provided in regulations made under section 49.
+### 19Y Exemptions granted by FMA or regulations
+The directors' and officers' disclosure obligations are subject to any exemptions granted by the FMA under section 48 or provided in regulations made under section 49.
 
 **Interests register**
 
@@ -759,8 +768,8 @@ A person (A) need not comply with any of sections 22 to 25 in relation to a subs
 ### 31 Exemption for trustee corporations and nominee companies
 (1) A person (A) need not comply with any of sections 22 to 25 in relation to 1 or more substantial holdings in 1 or more public issuers if—
   (a) A has that substantial holding merely because A acts for another person in the ordinary course of business as a trustee corporation or a nominee company; and
-  (b) A has opted in to this exemption by written notice to the Commission (and not withdrawn the notice by further written notice to the Commission).
-(2) Subsection (1) does not apply if A is currently designated by the Commission, by notice in the Gazette under section 48C, as a person that is not exempt under this section.
+  (b) A has opted in to this exemption by written notice to the FMA (and not withdrawn the notice by further written notice to the FMA).
+(2) Subsection (1) does not apply if A is currently designated by the FMA, by notice in the Gazette under section 48C, as a person that is not exempt under this section.
 
 ### 32 Conditions of exemption for trustee corporations and nominee companies
 (1) A person (A) to whom section 31(1) applies must—
@@ -771,7 +780,7 @@ A person (A) need not comply with any of sections 22 to 25 in relation to a subs
 
 ### 32A Exemption for persons under control or acting jointly with trustee corporations and nominee companies
 (1) A person (A) need not comply with any of sections 22 to 25 in relation to 1 or more substantial holdings in 1 or more public issuers if A has that substantial holding merely because A has, under section 5B, the relevant interests in securities that a trustee corporation or a nominee company that is exempt in relation to that substantial holding under section 31 has.
-(2) Subsection (1) does not apply if A is currently designated by the Commission, by notice in the Gazette under section 48C, as a person that is not exempt under this section.
+(2) Subsection (1) does not apply if A is currently designated by the FMA, by notice in the Gazette under section 48C, as a person that is not exempt under this section.
 
 ### 33 Extended time for disclosure for trustees, executors, and administrators
 If a person is required to comply with sections 22, 23, or 25 merely because the person is the trustee of a testamentary trust or the executor or administrator of the estate of a deceased person,—
@@ -780,8 +789,8 @@ If a person is required to comply with sections 22, 23, or 25 merely because the
 
 **Required disclosure obligations**
 
-### 34 Commission may require persons to disclose to market relevant interests and powers to get relevant interests
-(1) The Commission may, by written notice given after having regard to the purpose of this subpart, require a person to disclose all (or any class of)—
+### 34 FMA may require persons to disclose to market relevant interests and powers to get relevant interests
+(1) The FMA may, by written notice given after having regard to the purpose of this subpart, require a person to disclose all (or any class of)—
   (a) relevant interests that the person has in securities of the public issuer; or
   (b) powers that the person has or may at any time have to acquire a relevant interest in securities of the public issuer.
 (2) It does not matter whether the securities referred to in subsection (1)(a) and (b) are voting securities or not, listed or non-listed, or issued or yet to be issued.
@@ -793,9 +802,6 @@ If a person is required to comply with sections 22, 23, or 25 merely because the
   (a) the name and address of every person who has a relevant interest in those listed voting securities and the nature of that interest; and
   (b) to the extent that that registered holder is unable to supply any of that information in relation to a person having a relevant interest in those listed voting securities, other particulars that will, or are likely to, assist in identifying that person and the nature of that interest.
 (2) That registered holder must disclose that information in writing to the public issuer as soon as the holder receives the notice.
-
-### 35A Evidence not otherwise admissible
-[Repealed]
 
 ### 35A Public issuer may require person who has relevant interest to disclose information to it
 (1) A public issuer may, by written notice, require a person who the public issuer believes has, or may have, a relevant interest in listed voting securities in that public issuer to disclose the information the public issuer specifies for the purpose of assisting the public issuer to ascertain who is, or may be, a substantial security holder in the public issuer.
@@ -847,8 +853,8 @@ Every person who knows or ought to know information that the person is required 
 
 ### 35G Registered exchange must publish disclosures
 A registered exchange must—
-  (a) notify each disclosure given to it under this subpart to the registered exchange's securities market as soon as practicable after receiving it; and
-  (b) publish that disclosure on its website soon after notifying it to the registered exchange's securities market.
+  (a) notify each disclosure given to it under this subpart to the relevant registered market as soon as practicable after receiving it; and
+  (b) publish that disclosure on its website soon after notifying it to the relevant registered market.
 
 ### 35H Offence for failing to publish information on substantial holdings or disclosures
 (1) A public issuer who, without reasonable excuse, fails to comply with a requirement of section 35F commits an offence (see section 43A for the maximum penalty of a $10,000 fine).
@@ -866,9 +872,9 @@ No public issuer is liable for any false or misleading information published und
 ### 36 Regulations for purpose of this subpart
 [Repealed]
 
-## Part 2B — Registered exchanges
+## Part 2B — Registered markets
 
-### Subpart 1 — Registration, conduct, and control of exchanges
+### Subpart 1 — Registration of markets
 
 **Restrictions on activities relating to securities exchanges unless registered under this subpart**
 
@@ -878,9 +884,12 @@ No public issuer is liable for any false or misleading information published und
   (b) state or imply, or permit a statement or implication, that—
     (i) the person is a registered securities exchange or authorised securities exchange; or
     (ii) a securities market that the person operates is regulated under New Zealand law.
-(2) Subsection (1) does not apply to—
+(2) Subsection (1)(a) and (b)(i) do not apply to—
   (a) a registered exchange; or
   (b) a subsidiary of a registered exchange.
+(2A) Subsection (1)(b)(ii) does not apply to—
+  (a) a registered exchange in respect of its registered market; or
+  (b) a subsidiary of a registered exchange in respect of the exchange's registered market.
 (3) Every person who acts in contravention of subsection (1) commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
 
 ### 36B No operation of securities markets unless registered under this subpart (if restriction applies)
@@ -902,119 +911,175 @@ No public issuer is liable for any false or misleading information published und
 (2) The Minister must, before making the declaration,—
   (a) give at least 2 months' written notice of the proposed declaration, and of the Minister's reasons for his or her opinion under subsection (1), to—
     (i) the person to whom it is proposed to apply section 36B; and
-    (ii) the Commission; and
+    (ii) the FMA; and
     (iii) any other persons that the Minister thinks are representative of the interests of persons likely to be substantially affected by the proposed declaration; and
   (b) have regard to any submissions made by those persons within the notice period given; and
   (c) before making the declaration, give at least 14 days' written notice to the persons referred to in paragraph (a), and in the Gazette, of his or her intention to do so and of the reasons for his or her opinion under subsection (1).
 (3) A failure to comply with subsection (2) does not invalidate any notice published under section 36C.
 
-### 36E Power to exempt securities markets and futures markets from this Part
-(1) The Minister may, by notice in the Gazette, exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of this Part.
+### 36E Power to exempt securities markets and futures markets from Part 2 and this Part
+(1) The Minister may, by notice in the Gazette, exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of Part 2 and this Part.
 (2) The exemption may be on any terms or conditions that the Minister thinks fit.
+(2A) The Minister must, in considering whether to grant an exemption, have regard to—
+  (a) the nature of the relevant securities or futures market, or class of securities or futures markets; and
+  (b) the likely effect of the proposed exemption on the integrity or effectiveness of securities or futures markets in New Zealand; and
+  (c) the likely effect of the proposed exemption on the confidence of investors in securities or futures markets in New Zealand; and
+  (d) whether there are public benefits from the securities or futures market, or class of securities or futures markets, being operated under the proposed exemption; and
+  (e) any other matters he or she considers relevant.
 (3) The exemption has effect according to its tenor.
-(4) In determining whether or not to grant an exemption, the Minister must seek the advice of the Commission.
+(4) In determining whether or not to grant an exemption, the Minister must seek the advice of the FMA.
 (5) The Minister may vary an exemption in the same way as the exemption may be granted under this section.
 (6) The Minister may, by notice in the Gazette, revoke an exemption granted under this section.
 
-**Registration of exchanges**
+**How to obtain registration of market**
 
-### 36F Registration of exchanges
-(1) A body corporate may apply to become a registered exchange—
-  (a) in respect of 1 or more securities markets; or
-  (b) in respect of 1 or more securities markets and 1 or more futures markets; or
-  (c) in respect of 1 or more futures markets, provided that the body corporate is already a registered exchange in respect of 1 or more securities markets.
-(2) A body corporate may apply to become a registered exchange by delivering to the chief executive—
-  (a) an application for registration in the form, and containing the information, required by the chief executive; and
-  (b) a copy of the proposed conduct rules for the securities markets, securities markets and futures markets, or futures markets to which the application applies; and
-  (c) any fees required by regulations made under section 49D and evidence of payment to the Commission of the fees, charges, or costs required to be paid to it by those regulations.
-(3) The chief executive must register the body corporate as a registered exchange in respect of the securities markets, securities markets and futures markets, or futures markets to which the application applies, by entering the name of the body corporate in a register, after—
-  (a) receipt of the documents and fees referred to in subsection (2); and
-  (b) approval of the proposed conduct rules under section 36O.
+### 36F Application for market registration
+(1) A body corporate may apply for a market registration for—
+  (a) 1 or more securities markets; or
+  (b) 1 or more securities markets and 1 or more futures markets; or
+  (c) 1 or more futures markets, if the body corporate already holds a market registration for a securities market.
+(2) The applicant for a market registration must deliver to the FMA—
+  (a) an application for registration in the form, and containing the information, required by the FMA, but which must—
+    (i) include a copy of any proposed new market rules, or proposed changes to existing market rules, for the relevant market (the proposed market rules); and
+    (ii) identify any existing market rules that it proposes to apply to the relevant market; and
+  (b) any fees required to be paid to the FMA by regulations made under section 49D.
+(3) The FMA must grant the applicant a market registration, by written notice to the applicant, after—
+  (a) receipt of the documents referred to in subsection (2); and
+  (b) receipt of any fees, charges, and costs required to be paid to the FMA by regulations made under section 49D; and
+  (c) approval, under sections 36K and 36L, of the proposed market rules provided under subsection (2)(a)(i) for the market.
 
-**Conduct rules of registered exchanges**
+### 36FA Notification of market registration
+(1) A notice of market registration under section 36F(3)—
+  (a) must identify the market registered and the person that holds the market registration under that section (the registered exchange); and
+  (b) must identify the proposed market rules approved for the market (if any), and must identify the existing market rules that apply to the market (if any), but need not incorporate them; and
+  (c) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989); and
+  (d) must, as soon as practicable after it is given, be—
+    (i) published on an Internet site maintained by or on behalf of the FMA; and
+    (ii) notified in the Gazette.
+(2) A notice of market registration may relate to more than 1 market.
 
-### 36G Registered exchange must operate securities and futures markets in accordance with conduct rules that include required matters and have effect
-(1) A registered exchange must operate each of its securities markets and, if registered in respect of futures markets, each of its futures markets in accordance with conduct rules for that market that—
+**Restrictions on registered exchanges**
+
+### 36FB No operation by registered exchange of unregistered market
+(1) No registered exchange may operate in New Zealand a securities or futures market for which it does not hold a market registration under this Part or an authorisation under Part 3 (but see section 36E, under which a market may be exempted from this section).
+(2) Every person who acts in contravention of subsection (1) commits an offence (see section 43B(2) for the maximum penalty of a $10,000 fine per day).
+
+### Subpart 1A — Market rules
+
+### 36FC Purpose and criteria applying under this subpart
+(1) The purpose of this subpart is to provide for the approval of the market rules, and changes to the market rules, to apply to registered markets under contract between a registered exchange and the exchange participants.
+(2) The following criteria are relevant to the implementation of that purpose (without limiting other relevant criteria):
+  (a) promoting fair, orderly, and transparent securities and futures markets:
+  (b) providing an appropriate level of protection for investors:
+  (c) recognising the importance to securities and futures markets of attracting and retaining exchange participants and maintaining international competitiveness:
+  (d) encouraging growth and innovation in New Zealand's securities and futures markets:
+  (e) recognising the importance of maintaining international best practices in New Zealand's securities and futures markets:
+  (f) recognising New Zealand's obligations under any international convention, international agreement, or international arrangement to which the Government of New Zealand is a party.
+(3) The FMA must determine the weight to be given to each criterion in relation to the rules for any particular market, having regard to the nature of that market.
+
+**Key requirements**
+
+### 36G Registered markets must be operated under market rules that comply with this subpart
+(1) A registered exchange must operate each of its registered markets in accordance with market rules for that market that—
   (a) include the required matters set out in section 36H; and
   (b) have effect under section 36I.
-(2) A registered exchange that acts in contravention of subsection (1) commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
+(2) A registered exchange that acts in contravention of subsection (1) commits an offence (see section 43B(2) for the maximum penalty of a $10,000 fine per day).
 
-### 36H Required matters for conduct rules
-(1) Conduct rules for a securities market must—
+### 36H Required matters for market rules
+(1) Market rules for a securities market must—
   (a) include rules (listing rules) that—
-    (i) require each person whose securities are listed on that market to be a party to a listing agreement with the registered exchange; and
-    (ii) relate to the governance of those persons; and
-    (iii) relate to the entry into, and revocation of, those listing agreements; and
-  (b) include rules (business rules) that govern the conduct of—
-    (i) business on that market; and
-    (ii) persons authorised to undertake trading activities on that market.
-(2) Conduct rules for a futures market must include rules (business rules) that govern the conduct of—
-  (a) business on that market; and
-  (b) persons authorised to undertake trading activities on that market.
+    (i) relate to the approval of persons for the purpose of enabling securities issued by those persons to be traded on the securities market; and
+    (ii) require those persons to be party to a listing agreement with the registered exchange and relate to the entry into, and revocation of, those listing agreements; and
+    (iii) relate to the governance of those persons; and
+    (iv) relate to the conduct or activities of those persons in relation to that market or to securities traded on that market; and
+    (v) relate to the monitoring and enforcement of those rules; and
+  (b) include rules (business rules) that—
+    (i) relate to the authorisation of persons to undertake trading activities on, or otherwise participate in, the securities market; and
+    (ii) relate to the conduct or activities of those persons in relation to the securities market; and
+    (iii) govern the conduct of business on the securities market; and
+    (iv) relate to the monitoring and enforcement of those rules.
+(2) Market rules for a futures market must include rules (business rules) that—
+  (a) relate to the authorisation of persons to undertake trading activities on, or otherwise participate in, the futures market; and
+  (b) relate to the conduct or activities of those persons in relation to the futures market; and
+  (c) govern the conduct of business on the futures market; and
+  (d) relate to the monitoring and enforcement of those rules.
 
-### 36I When conduct rules have no effect
-A conduct rule, or part of a conduct rule, has no effect in contract or for the purposes of section 36G if—
-  (a) it has not been—
-    (i) provided to the chief executive on registration and approved under section 36O; or
-    (ii) subsequently provided to the Minister under section 36J; or
-  (b) it has been provided to the Minister under section 36J but a period of 15 working days has not expired after it was received by the Minister; or
-  (c) it has been disallowed under section 36L; or
-  (d) the Minister has applied the approval process to it under section 36N and it has not been approved.
+### 36I When market rules have effect
+A market rule, or part of a market rule, for a registered market has no effect, either in contract or for the purposes of section 36G, until it has been approved by the FMA under section 36L.
 
-### 36J Registered exchange must provide proposed new conduct rules and changes to Minister
-(1) A registered exchange must provide a proposed new conduct rule or a proposed change to an existing conduct rule to the Minister before making that rule or change.
-(2) A change, in relation to a conduct rule for the purposes of this subpart, includes an amendment to, and a revocation or cancellation of, the conduct rule.
-(3) However, subsection (1) does not apply in respect of conduct rules for a futures market unless the registered exchange is registered in respect of both securities markets and futures markets under section 36F.
+**Process for approving proposed market rules and changes to market rules**
 
-### 36K Disallowance process applies unless approval process applied
-(1) The disallowance process in section 36L applies to a proposed new conduct rule or change provided to the Minister under section 36J.
-(2) However, the Minister may, under section 36N, apply the approval process under section 36O instead.
+### 36IA Application of process for approving proposed market rules and changes
+Sections 36K and 36L apply to proposed market rules provided to the FMA by an applicant under section 36F and proposed changes to market rules provided to the FMA by a registered exchange under section 36J.
 
-### 36L Disallowance process for proposed conduct rules and changes
-(1) The Minister may, by notice in the Gazette within 40 working days after receiving a proposed conduct rule or change under section 36J, disallow all or part of that proposed rule or change.
-(2) The Minister must not disallow all or part of the proposed conduct rule or change unless the Minister is satisfied that—
-  (a) it is in the public interest to do so; or
-  (b) the proposal affects the continuous disclosure provisions of the listing rules and the changed continuous disclosure provisions do not achieve the purpose of subpart 1 of Part 2 (after having regard to that purpose, the criteria stated in section 19A, and any other matters that he or she considers relevant).
-(3) In determining whether or not to disallow all or part of the proposed conduct rule or change, the Minister must seek the advice of the Commission.
+### 36J Registered exchange must provide proposed changes to FMA
+(1) A registered exchange must provide any proposed change to its market rules for a registered market to the FMA before making that change.
+(2) A change, in relation to the market rules for a registered market for the purposes of this subpart, includes a new market rule and an amendment to, and a revocation or cancellation of, an existing market rule.
 
-### 36M Effect of disallowance
-(1) A conduct rule or a change to a conduct rule (or part of a rule or change) that is disallowed has no effect in contract or for the purposes of section 36G on and from—
-  (a) the date of the notice in the Gazette ; or
-  (b) any later date specified for this purpose in that notice.
-(2) A disallowance does not affect the validity of anything done before the disallowance takes effect.
+### 36K Approval process for proposed market rules and changes
+(1) The FMA must, within the approval period, by written notice to the applicant for registration or the registered exchange,—
+  (a) approve the proposed market rules or change provided under section 36F or section 36J (see section 36L); or
+  (b) extend the approval period; or
+  (c) decline to approve the proposed market rules or change.
+(2) The approval period is 40 working days, or (if extended under subsection (1)(b)) 60 working days, after the FMA receives the proposed market rules or change.
+(3) The revision by the applicant or registered exchange of the proposed market rules or change during the approval period in response to comments by the FMA, and the resubmittal of the revised proposed market rules or change, does not result in the commencement of a new approval period under this section.
+(4) A notice under this section—
+  (a) must identify the market rules, change, or changes to which it relates, but need not incorporate them; and
+  (b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (but not for the purposes of the Acts and Regulations Publication Act 1989); and
+  (c) must, as soon as practicable after it is given, be—
+    (i) published on an Internet site maintained by or on behalf of the FMA; and
+    (ii) notified in the Gazette.
+(5) A separate notice under this section of the decision to approve rules is not needed if there is a notice of market registration under section 36FA that notifies approval of these rules.
+(6) The FMA's reasons for a decision under subsection (1)(b) or (c) must be published together with the decision.
 
-### 36N Determination on whether or not to apply approval process to proposed conduct rules and changes
-(1) The approval process in section 36O applies to a proposed new conduct rule or change if—
-  (a) the Minister is satisfied that the proposal relates to a securities market or futures market that is not operated by the registered exchange under its existing conduct rules (a new market); and
-  (b) the Minister is satisfied it is in the public interest to apply the approval process; and
-  (c) the Minister applies the approval process by written notice to the registered exchange within 15 working days after receipt of the proposed conduct rule or change under section 36J.
-(2) Before applying the approval process, the Minister must have regard to—
-  (a) the integrity and effectiveness of securities markets, futures markets, or both (as the case may be) in New Zealand; and
-  (b) the confidence of investors in securities markets, futures markets, or both (as the case may be) in New Zealand; and
-  (c) the extent of the difference between existing markets operated by the registered exchange and the new market; and
-  (d) the extent of the difference between the existing conduct rules and the proposed new conduct rules or changes.
-(3) In determining whether or not to apply the approval process, the Minister must seek the advice of the Commission.
-(4) The notice applying the approval process must describe the new securities market referred to in subsection (1)(a).
+### 36L Approval of proposed market rules and changes
+(1) The FMA must approve the proposed market rules or a change provided to it under this Part unless the FMA is satisfied that—
+  (a) it is not in the public interest to do so after having had regard to—
+    (i) the consistency of the rules or change with the obligations under section 36Y; and
+    (ii) the criteria stated in section 36FC and any other matters that it considers relevant; or
+  (b) (if the rules include listing rules or the change affects listing rules) the listing rules, or the listing rules as changed, for the market will not achieve the purpose of subpart 1 of Part 2, after having regard to—
+    (i) that purpose; and
+    (ii) the criteria stated in section 19A; and
+    (iii) any other matters that the FMA considers relevant.
+(2) The FMA must, in considering whether to approve proposed market rules provided under section 36F, take into account any existing market rules that the applicant proposes to also apply to the relevant market.
 
-### 36O Approval process for proposed conduct rules and changes
-(1) The Governor-General may, by Order in Council on the recommendation of the Minister, approve a proposed conduct rule or change provided under section 36F or section 36J.
-(2) The Minister must recommend that a proposed conduct rule or change be approved unless the Minister is satisfied that—
-  (a) it is not in the public interest to do so; or
-  (b) the listing rules for the securities market to which the proposed conduct rule or change relates do not achieve the purpose of subpart 1 of Part 2 (after having regard to that purpose, the criteria stated in section 19A, and any other matters that he or she considers relevant).
-(3) In determining whether or not to recommend that the proposed conduct rules or changes be approved, the Minister must seek the advice of the Commission.
+**Power to request changes to market rules**
 
-### 36P Registered exchange must not operate new market if proposed conduct rules or changes not approved
-(1) A registered exchange must not operate a securities market or futures market described in a notice given under section 36N unless the proposed conduct rules or changes to which that notice relates are approved under section 36O.
-(2) A registered exchange that acts in contravention of subsection (1) commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
+### 36M Power for FMA to request changes to market rules on certain matters
+(1) The FMA may, if it considers it necessary or desirable to promote any of the criteria set out in section 36FC or the meeting of any of the obligations set out in section 36Y, request a registered exchange to prepare a draft change to the market rules for any of its registered markets on a matter specified in a written notice to the registered exchange.
+(2) The FMA may make a request under subsection (1) only—
+  (a) after carrying out a review under section 36YB(1) or (2); or
+  (b) if it believes on reasonable grounds that it is urgent to do so at any other time.
+(3) The registered exchange must, as soon as practicable but, in any case, before the expiry of 60 working days after receiving the written notice (or any further time allowed by the FMA), do either or both of the following things:
+  (a) provide a proposed change to the FMA under section 36J that addresses the requested matter:
+  (b) provide the FMA with a written report that—
+    (i) identifies any requested matter or matters that have not been addressed by a proposed change; and
+    (ii) explains why the registered exchange has not done so; and
+    (iii) suggests alternative ways (if any) by which the matter or matters are being or may be dealt with; and
+    (iv) sets out if, when, and how the registered exchange proposes to provide for the matter or matters (if at all).
+(4) This section does not allow the FMA to request a draft market rule or change on a matter that is not within the matters set out in section 36H.
 
-### 36Q Conduct rules must be available for public inspection
-(1) A registered exchange that operates a securities market or futures market must ensure that a copy of the conduct rules for that market are available for public inspection, free of charge and during normal office hours, at the office of that registered exchange.
+**Miscellaneous provisions on market rules**
+
+### 36N Market rules must be available for public inspection
+(1) A registered exchange must ensure that a copy of the market rules for each of its registered markets are—
+  (a) available for public inspection, free of charge and during normal office hours, at the head office of that registered exchange; and
+  (b) published on an Internet site maintained by, or on behalf of, the registered exchange at all reasonable times.
 (2) A registered exchange that fails to comply with subsection (1) commits an offence (see section 43B for the maximum penalty of a $5,000 fine).
 
-### 36R Application of Acts relating to regulations to conduct rules
-To avoid doubt, conduct rules are not regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989 or for any other purpose.
+### 36O Application of Acts relating to regulations to contractual market rules
+To avoid doubt, market rules are not regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989 or for any other purpose.
 
-**Control limits for registered exchanges**
+### 36P Registered exchange must not operate new market if proposed conduct rules or changes not approved
+[Repealed]
+
+### 36Q Conduct rules must be available for public inspection
+[Repealed]
+
+### 36R Application of Acts relating to regulations to conduct rules
+[Repealed]
+
+### Subpart 1B — Control limits for registered exchanges
 
 ### 36S Power to impose control limits on registered exchanges
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations imposing, altering, or revoking a control limit (which is the highest percentage of voting rights in the body corporate that may be held or controlled by any person) for a body corporate that—
@@ -1072,22 +1137,13 @@ To avoid doubt, conduct rules are not regulations for the purposes of the Regula
 **Overseas exchanges**
 
 ### 36X Overseas exchanges
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) authorise a body corporate to, in connection with carrying on business in New Zealand, do the things otherwise prohibited by section 36A(1); and
-  (b) specify the terms and conditions (if any) applying to the authorisation.
-(2) The Minister may not make a recommendation for the purposes of subsection (1) unless he or she is satisfied that it is in the public interest to do so, having regard to the regulatory regime that applies to that body corporate in any other country in connection with its operation of a securities market.
-(3) For the purposes of this Act and any other enactment (other than sections 36F to 36W), every body corporate that is authorised under subsection (1) must be treated as if it were registered as a registered exchange under section 36F.
+[Repealed]
 
 ### 36Y Revocation or amendment of authorisation
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
-  (a) revoke an authorisation granted under section 36X(1); or
-  (b) vary, revoke, or suspend any term or condition of such an authorisation.
-(2) The Minister may not make a recommendation for the purposes of subsection (1) unless—
-  (a) he or she has consulted the body corporate concerned; and
-  (b) he or she is satisfied that it is in the public interest to make the recommendation.
+[Repealed]
 
 ### 36Z Offence for breach of terms or conditions of authorisation
-Every person who acts in contravention of a term or condition of an authorisation granted under section 36X commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
+[Repealed]
 
 **Enforcement of prohibition of certain statements relating to exchanges**
 
@@ -1100,70 +1156,149 @@ Every person who acts in contravention of a term or condition of an authorisatio
 ### 36ZC Offence for contravening prohibition order
 [Repealed]
 
-### Subpart 2 — Monitoring of securities markets
+### Subpart 2 — Obligations and oversight in respect of registered markets
+
+**General obligations in respect of registered markets**
+
+### 36Y General obligations in respect of registered markets
+A registered exchange must,—
+  (a) to the extent that it is reasonably practicable, do all things necessary to ensure that each of its registered markets is a fair, orderly, and transparent market; and
+  (b) have adequate arrangements for operating its registered markets, including arrangements—
+    (i) for handling conflicts between the commercial interests of the registered exchange and the need for the registered exchange to ensure that the markets operate in the way referred to in paragraph (a); and
+    (ii) for monitoring the conduct of exchange participants on or in relation to the markets; and
+    (iii) for enforcing compliance with the relevant market rules; and
+    (iv) that ensure there is a sufficiently independent adjudicative body to adjudicate on contraventions of market rules that are referred to it; and
+  (c) have sufficient resources (including financial, technological, and human resources) to operate its registered markets properly.
+
+### 36YA Registered exchange must give annual report to FMA
+(1) A registered exchange must, within 3 months after the end of its financial year, give a report to the FMA and the Minister on the extent to which it has complied with its obligations under section 36Y in the preceding financial year.
+(2) The annual report for a financial year must contain, or be accompanied by, the information (if any) in relation to the registered exchange's performance against its obligations under section 36Y, specified by the FMA before the commencement of the relevant financial year.
+(3) The FMA and the registered exchange may, on the terms and conditions that they think fit, agree that the first annual report and the first review under section 36YB relate to a period prior to the commencement of this section.
+
+### 36YB FMA may carry out general obligations review
+(1) The FMA may, at any time, carry out a review of how well a registered exchange is meeting any or all of its obligations under section 36Y.
+(2) The FMA must carry out a review of how well a registered exchange is meeting all of its obligations under section 36Y at least once in respect of each financial year of the registered exchange.
+(3) The FMA—
+  (a) may, in carrying out the review, take into account the most recent annual report and other information provided under section 36YA and any other information it considers appropriate; and
+  (b) must, after carrying out the review, provide a draft written report on its review to the registered exchange and take into account any submissions made by the exchange within the reasonable period for submissions specified by the FMA.
+(4) The FMA must not carry out a review of a designated settlement system (within the meaning of section 156M(1) of the Reserve Bank of New Zealand Act 1989) of a registered exchange under this section (but nothing in this subsection prevents a review under that Act being carried on in conjunction with a review under this section).
+(5) The first review of a financial year under subsection (2) may relate to the period covered by the first annual report provided under section 36YA.
+
+### 36YC FMA must make written report on general obligations review
+(1) The FMA must give a written report on a review under section 36YB to the Minister and the registered exchange—
+  (a) as soon as practicable after carrying out the review; and
+  (b) in any case, within 3 months after the exchange has provided an annual report to the FMA under section 36YA.
+(2) The FMA must also publish the written report on the review on an Internet site maintained by or on behalf of the FMA.
+(3) However, the FMA may, in publishing the written report of its review, omit from the published report any information for which it considers there would be a good reason for withholding under the Official Information Act 1982 if a request for that information were made under that Act.
+
+### 36YD FMA may require registered exchange to submit action plan on failure to meet general obligations
+(1) If the FMA considers that the registered exchange has failed or is failing to meet any 1 or more of its obligations under section 36Y after carrying out a review under section 36YB(1) or (2), it may, by written notice, require the exchange to submit an action plan to the FMA.
+(2) The notice must—
+  (a) set out the details of the failure; and
+  (b) specify the date by which the action plan must be submitted to the FMA.
+(3) The registered exchange must, as soon as practicable but in any case before the date specified by the FMA, do either or both of the following things:
+  (a) provide an action plan that addresses the failure and specifies—
+    (i) the actions that the registered exchange proposes to take to remedy the failure or avoid any further failure; and
+    (ii) the timetable for taking those actions:
+  (b) provide the FMA with a written report that—
+    (i) identifies any matter that has not been addressed by an action plan; and
+    (ii) explains why the registered exchange does not consider that matter to be a failure or gives any other reasons why the registered exchange has not provided an action plan on the matter.
+
+### 36YE Approval, amendment, or rejection of action plan
+(1) If a registered exchange submits an action plan, the FMA may—
+  (a) approve the action plan; or
+  (b) require the registered exchange to amend the action plan and resubmit it to the FMA by a specified date for approval or rejection; or
+  (c) reject the action plan.
+(2) If the FMA requires the registered exchange to amend an action plan provided to the FMA, the registered exchange must do either or both of the following things:
+  (a) provide an amended action plan that addresses the matter required to be amended:
+  (b) provide the FMA with a written report that—
+    (i) identifies any matter that has not been addressed by an amendment to the action plan first provided; and
+    (ii) explains why the registered exchange does not consider that the matter needs amending or gives any other reasons why the registered exchange has not provided an amendment addressing the matter.
+(3) If the FMA approves the action plan (whether as first provided or after amendment), the registered exchange must comply with the action plan.
+(4) An action plan that has been approved by the FMA may be varied at any time by agreement between the registered exchange and the FMA.
+
+### 36YF Minister may give general obligation direction to registered exchange
+(1) The Minister may, on the recommendation of the FMA, give a written direction to a registered exchange if—
+  (a) the Minister considers that the registered exchange has failed or is failing to meet any 1 or more of its obligations under section 36Y; and
+  (b) any of the following has occurred:
+    (i) the registered exchange has not provided an action plan when required under section 36YD; or
+    (ii) the registered exchange has not provided an amended action plan when required under section 36YE; or
+    (iii) the FMA has rejected a registered exchange's action plan; or
+    (iv) the registered exchange has not complied with an approved action plan.
+(2) The direction may specify—
+  (a) the actions that the registered exchange must take to remedy any failure or avoid any further failure to meet any 1 or more of its obligations under section 36Y; and
+  (b) the timetable for taking those actions.
+(3) The registered exchange must comply with the direction.
 
 **Notification of disciplinary actions and suspected contraventions**
 
-### 36ZD Registered exchange must notify Commission of disciplinary actions and suspected contraventions
-A registered exchange must notify the Commission, in accordance with sections 36ZE and 36ZF, if—
-  (a) the exchange takes any disciplinary action for a contravention of its conduct rules against any person:
+### 36ZD Registered exchange must notify FMA of disciplinary actions and suspected contraventions
+(1) A registered exchange must notify the FMA, in accordance with sections 36ZE and 36ZF, if—
+  (a) the exchange takes any disciplinary action for a contravention of its market rules against any person:
   (b) the exchange knows or suspects that a person has committed, is committing, or is likely to commit a significant contravention of—
-    (i) the exchange's conduct rules; or
+    (i) the exchange's market rules; or
     (ii) this Act, the Securities Act 1978, the Takeovers Act 1993, or any enactment made under any of those Acts.
+(2) The FMA must notify the registered exchange of its decision to take, or not to take, any action in relation to a notification under subsection (1)(b)(ii).
 
 ### 36ZE When notification required
-The registered exchange must give the notice under section 36ZD immediately after taking the disciplinary action or knowing or suspecting the person has committed, is committing, or is likely to commit the significant contravention.
+The registered exchange must give the notice under section section 36ZD immediately after taking the disciplinary action or knowing or suspecting the person has committed, is committing, or is likely to commit the significant contravention.
 
 ### 36ZF Details and method of notification
 (1) The notice under section 36ZD must include—
   (a) the person's name and contact details; and
   (b) if it relates to a disciplinary action, the grounds for, nature of, and reasons for the action taken; and
   (c) if it relates to a known or suspected contravention, the facts supporting the registered exchange's view and to which obligation the known or suspected contravention relates; and
-  (d) any other information required by regulations under section 49D or by the Commission under section 36ZK.
+  (d) any other information required by regulations under section 49D or by the FMA under section 36ZK.
 (2) The registered exchange must give the notice in the form and by the method required by any regulations made under section 49D.
+
+**Real-time surveillance information**
+
+### 36ZFA Registered exchange must ensure FMA has access to real-time trading and other information
+(1) A registered exchange must, if requested by the FMA, give to the FMA the information that is necessary to enable the FMA to carry out real-time surveillance of the operation of the exchange's registered markets.
+(2) The FMA must pay all reasonable costs of the registered exchange in providing the information under this section.
 
 **Disclosure of material information**
 
-### 36ZG Registered exchange must give Commission material information given to market participants
-If a registered exchange makes material information available to participants, or any class of participants, of a securities market or futures market operated by the exchange, the exchange must also give that information to the Commission in accordance with sections 36ZH to 36ZJ.
+### 36ZG Registered exchange must give FMA material information given to market participants
+If a registered exchange makes material information available to participants, or any class of participants, of a registered market, the exchange must also give that information to the FMA in accordance with sections 36ZH to 36ZJ.
 
 ### 36ZH When disclosure of material information required
-The registered exchange must give the information under section 36ZG to the Commission immediately after giving it to market participants.
+The registered exchange must give the information under section 36ZG to the FMA immediately after giving it to market participants.
 
 ### 36ZI Form and method of disclosure
-The registered exchange must give the information under section 36ZG to the Commission in the same form and by the same method as it gives that information to market participants.
+The registered exchange must give the information under section 36ZG to the FMA in the same form and by the same method as it gives that information to market participants.
 
 **Waiver of notification and disclosure obligations**
 
 ### 36ZJ Waiver of notification and disclosure obligations
-(1) Sections 36ZD to 36ZI do not apply to the extent that the Commission—
+(1) Sections 36ZD to 36ZI do not apply to the extent that the FMA—
   (a) waives its entitlement to any notice or information or class or classes of notices or information; or
   (b) agrees with the registered exchange a different time, form, or method of notification or disclosure.
 (2) A waiver or agreement under this section must be in writing.
 
 **General information and assistance provisions**
 
-### 36ZK Registered exchange must give Commission or Takeovers Panel other information and assistance on request
-(1) A registered exchange must give to the Commission or the Takeovers Panel (or any person authorised by the Commission or Takeovers Panel) information, assistance, and access to the exchange's facilities if the Commission or Takeovers Panel reasonably requests it to carry out its functions.
-(2) The Commission or Takeovers Panel must require that information, assistance, or access by notice in writing to the registered exchange.
+### 36ZK Registered exchange must give FMA or Takeovers Panel other information and assistance on request
+(1) A registered exchange must give to the FMA or the Takeovers Panel (or any person authorised by the FMA or Takeovers Panel) information, assistance, and access to the exchange's facilities if the FMA or Takeovers Panel reasonably requests it to carry out its functions.
+(2) The FMA or Takeovers Panel must require that information, assistance, or access by notice in writing to the registered exchange.
 
 ### 36ZL Power to disclose further information
-(1) A registered exchange may provide to the Commission any information that the exchange considers may assist the Commission in the performance of the Commission's functions.
+(1) A registered exchange may provide to the FMA any information that the exchange considers may assist the FMA in the performance of the FMA's functions.
 (2) A registered exchange may provide to the Takeovers Panel any information that the exchange considers may assist the Takeovers Panel in the performance of its functions.
 
 **Notice and submissions on continuous disclosure determinations**
 
 ### 36ZM Registered exchange must give notice and have regard to submissions on continuous disclosure determinations
 (1) This section and section 36ZN apply to a determination by a registered exchange if—
-  (a) the determination exempts from, waives, or determines the meaning of a continuous disclosure provision of its listing rules (or varies or revokes a determination of that kind); and
+  (a) the determination exempts from, waives, or determines the meaning of a continuous disclosure provision of its listing rules for any of its registered markets (or varies or revokes a determination of that kind); and
   (b) that continuous disclosure provision relates to material information that is not generally available to the market; and
   (c) No regulations under section 48E declare that section 19C applies to that exchange.
 (2) The registered exchange must—
-  (a) give the Commission no less than 2 trading days' written notice before making the determination of—
+  (a) give the FMA no less than 2 trading days' written notice before making the determination of—
     (i) the proposed terms of the determination; and
     (ii) the reasons for the proposed determination; and
-  (b) have regard to any written submissions made to it by the Commission within that notice period; and
-  (c) must, as soon as reasonably practicable after making the determination, give written notice to the Commission of—
+  (b) have regard to any written submissions made to it by the FMA within that notice period; and
+  (c) must, as soon as reasonably practicable after making the determination, give written notice to the FMA of—
     (i) the terms of the determination; and
     (ii) the reasons for the determination.
 (3) A failure to comply with this section or section 36ZN does not affect the validity of a determination.
@@ -1175,19 +1310,19 @@ If the registered exchange thinks it necessary or desirable in the public intere
 
 **Directions to exchanges**
 
-### 36ZO Commission may give directions to registered exchanges
-(1) The Commission may give a direction under subsection (2) in accordance with sections 36ZP to 36ZT.
-(2) The Commission may, for up to 21 days,—
+### 36ZO FMA may give directions to registered exchanges
+(1) The FMA may give a direction under subsection (2) to a registered exchange in relation to any of its registered markets in accordance with sections 36ZP to 36ZT.
+(2) The FMA may, for up to 21 days,—
   (a) direct a registered exchange to suspend trading of either or both of the following:
     (i) the securities, or a class of securities, of 1 or more public issuers:
-    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a futures market operated by the registered exchange; or
+    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a registered market; or
   (b) give the registered exchange any other direction in relation to that trading.
-(3) For the avoidance of doubt, the Commission may not use its power to direct the registered exchange to amend the conduct rules or direct the registered exchange on the making of a determination on the conduct rules.
-(4) The direction is subject to appeal only in accordance with section 69P of the Securities Act 1978.
+(3) For the avoidance of doubt, the FMA may not use its power to direct the registered exchange to amend the market rules or direct the registered exchange on the making of a determination on the market rules.
+(4) The direction is subject to appeal only in accordance with section 47A.
 
 ### 36ZP Grounds for continuous disclosure direction
 (1) A direction on the grounds in this section is a continuous disclosure direction.
-(2) A direction may be given under section 36ZO in accordance with sections 36ZR to 36ZT if the Commission—
+(2) A direction may be given under section 36ZO in accordance with sections 36ZR to 36ZT if the FMA—
   (a) has regard to the purpose of subpart 1 of Part 2, the criteria stated in section 19A, and any other matters it considers relevant; and
   (b) is satisfied that 1 of the following grounds applies:
     (i) a public issuer has contravened a continuous disclosure obligation or a term or condition of a continuous disclosure exemption; or
@@ -1198,82 +1333,106 @@ If the registered exchange thinks it necessary or desirable in the public intere
   (c) is also satisfied that the direction is necessary or desirable in the public interest to protect people trading the securities or the class of securities and that there is no more appropriate course of action to address the situation.
 
 ### 36ZQ Grounds for other directions
-A direction may also be given under section 36ZO in accordance with sections 36ZR to 36ZT if the Commission is satisfied that—
+A direction may also be given under section 36ZO in accordance with sections 36ZR to 36ZT if the FMA is satisfied that—
   (a) the direction is necessary in the public interest to protect people trading in either or both of the following:
     (i) the securities, or a class of securities, of 1 or more public issuers:
-    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a futures market operated by the registered exchange; but
+    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a registered market; but
   (b) it is not a matter to which the purpose of subpart 1 of Part 2 is relevant.
 
-### 36ZR Notice, opportunity for exchange to act, and submissions before Commission gives directions
+### 36ZR Notice, opportunity for exchange to act, and submissions before FMA gives directions
 (1) A direction may be given under section 36ZO only if—
-  (a) the Commission has given written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
+  (a) the FMA has given written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
     (i) its opinion that the requirements of section 36ZP or 36ZQ are satisfied; and
     (ii) the proposed terms of the direction; and
     (iii) the reasons for its opinion; and
-  (b) after receiving the Commission's notice, the registered exchange does not take, within the reasonable period stated in the notice,—
+  (b) after receiving the FMA's notice, the registered exchange does not take, within the reasonable period stated in the notice,—
     (i) in the case of a proposed direction to suspend the trading of securities or a class of securities, action to prevent that trading; or
     (ii) in the case of a proposed direction to suspend the trading of futures contracts, or a class of futures contracts, action to prevent that trading; or
-    (iii) in any other case, any other action that, in the Commission's view, is adequate to assess the situation raised in the notice; and
-  (c) the Commission has had regard to any written submissions made to it by the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, within that notice period; and
-  (d) the Commission still considers that it is appropriate to give the direction to the registered exchange.
-(2) A reasonable period in subsection (1)(b) is, in the case of a continuous disclosure direction, 2 trading days (or any longer time the Commission wishes to allow) and, in the case of any other direction, any longer time that is reasonable in the circumstances.
+    (iii) in any other case, any other action that, in the FMA's view, is adequate to assess the situation raised in the notice; and
+  (c) the FMA has had regard to any written submissions made to it by the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, within that notice period; and
+  (d) the FMA still considers that it is appropriate to give the direction to the registered exchange.
+(2) A reasonable period in subsection (1)(b) is, in the case of a continuous disclosure direction, 2 trading days (or any longer time the FMA wishes to allow) and, in the case of any other direction, any longer time that is reasonable in the circumstances.
 
 ### 36ZS Limited notice and submissions for urgent continuous disclosure directions
-If the Commission thinks it necessary or desirable in the public interest for a continuous disclosure direction to be made more urgently than section 36ZR permits,—
+If the FMA thinks it necessary or desirable in the public interest for a continuous disclosure direction to be made more urgently than section 36ZR permits,—
   (a) it may give less than 2 trading days' notice before it gives the direction and the notice and submissions may be oral, not written; but
   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
 
-### 36ZT Notice and opportunity to be heard and represented after Commission gives direction
-If a direction is given under section 36ZO, the Commission—
+### 36ZT Notice and opportunity to be heard and represented after FMA gives direction
+If a direction is given under section 36ZO, the FMA—
   (a) must, as soon as reasonably practicable, give written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
-    (i) its opinion that the requirements of section 36ZP or section 36ZQ are satisfied; and
+    (i) its opinion that the requirements of section 36ZP or section36ZQ are satisfied; and
     (ii) the terms of the direction; and
     (iii) the reasons for its opinion; and
-  (b) must give those persons an opportunity to be heard and represented by counsel at a meeting of the Commission after the direction is given; and
+  (b) must, after the direction is given, give each of those persons or the person's representative an opportunity to make written submissions and to be heard on the matter; and
   (c) may also give notice to any other person of the matters in paragraph (a).
 
 ### 36ZU Effect of directions to exchanges
 (1) A direction under section 36ZO has effect for the period specified in it (which may be up to 21 days) and, during that period, the registered exchange must comply with the direction and must not allow any trading to take place contrary to it.
-(2) If the registered exchange fails to comply with the direction or the Commission considers that the direction should have effect for a period longer than 21 days, it may apply to the Court for, and the Court may make, an order that the registered exchange comply with the direction for the period that the Court thinks fit.
+(2) If the registered exchange fails to comply with the direction or the FMA considers that the direction should have effect for a period longer than 21 days, it may apply to the Court for, and the Court may make, an order that the registered exchange comply with the direction for the period that the Court thinks fit.
 
 ### 36ZV Provisions as to directions
-(1) The Commission may vary a direction under section 36ZO in the same way as it may make that direction.
-(2) The Commission may revoke a direction under section 36ZO by giving written notice to the registered exchange.
+(1) The FMA may vary a direction under section 36ZO in the same way as it may make that direction.
+(2) The FMA may revoke a direction under section 36ZO by giving written notice to the registered exchange.
 
 **Contracting out or modification of continuous disclosure process requirements**
 
 ### 36ZW Contracting out or modification of continuous disclosure process requirements
-(1) The Commission and a registered exchange may, by agreement in writing, contract out of, or modify, any of the requirements of sections 36ZM, 36ZN, and 36ZR to 36ZT.
+(1) The FMA and a registered exchange may, by agreement in writing, contract out of, or modify, any of the requirements of sections 36ZM, 36ZN, and 36ZR to 36ZT.
 (2) For that purpose, the registered exchange may agree to waive or modify obligations under those sections that are owed to public issuers that are parties to listing agreements with the exchange.
 
 **Offence**
 
 ### 36ZX Offence
 (1) A registered exchange commits an offence if it intentionally or recklessly—
-  (a) fails to give a notice, provide information, give assistance, or provide access as required by or under this subpart; or
+  (a) fails to give a notice, provide information, give assistance, or provide access as required under this subpart; or
   (b) contravenes section 36ZM; or
-  (c) fails to comply with a direction under section 36ZO.
+  (c) fails to comply with a direction under section 36YF or section 36ZO.
 (2) See section 43B for the maximum penalty of a $30,000 fine.
+
+### Subpart 3 — Overseas exchanges
+
+### 36ZY Overseas exchanges
+(1) The FMA may (on the terms and conditions it thinks fit), by notice in the Gazette, authorise a body corporate to hold a market registration for—
+  (a) 1 or more securities markets; or
+  (b) 1 or more securities markets and 1 or more futures markets; or
+  (c) 1 or more futures markets, if the body corporate already holds a market registration for a securities market.
+(2) The notice must—
+  (a) identify the market registered and the person that is authorised to hold the market registration under this section; and
+  (b) state the terms and conditions that apply to the person under the authorisation (and may, in those terms (without limitation), add to, modify, or disapply any of the provisions of subparts 1A and 2).
+(3) The FMA must not grant the authorisation unless it is satisfied that—
+  (a) the body corporate is authorised to operate the relevant market in another jurisdiction; and
+  (b) the operation of the market by the body corporate will be subject to requirements and supervision under the proposed terms or conditions of the authorisation or the law and regulatory requirements of its home jurisdiction, or both; and
+  (c) those requirements and that supervision are likely to have at least equivalent outcomes, in terms of the degree of integrity and effectiveness of the market and the confidence of investors in the market, to the likely outcomes for that market if the market were registered under section 36F.
+(4) This Act (other than subpart 1B of this Part) and every other enactment, applies to a body corporate authorised to operate a market under this section as if the relevant market were a registered market and the body corporate were a registered exchange holding that market registration under section 36F (except as specified under subsection (2)).
+
+### 36ZYA Revocation or amendment of authorisation
+(1) The FMA may, by notice in the Gazette, vary or revoke an authorisation granted under section 36ZY or vary, revoke, or suspend any term or condition of the authorisation.
+(2) However, the FMA must not do so unless—
+  (a) it has consulted the body corporate concerned; and
+  (b) it is satisfied that it is in the public interest to do so.
+
+### 36ZYB Offence for breach of terms or conditions of authorisation
+Every person who acts in contravention of a term or condition of an authorisation granted under section 36ZY commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
 
 ## Part 3 — Dealing in futures contracts
 
 ### 37 Interpretation of terms used in this Part
-(1) In this Part of this Act, unless the context otherwise requires,—
-  - **Acquire** , in relation to a futures contract, includes enter into and take an assignment of; and and have corresponding meanings
-  - **Authorised dealer in foreign exchange**
-  - **Authorised futures contract** means a futures contract which is—
-    (a) Made on, or effected through, an authorised futures exchange; or
-    (b) Made on, or effected through, a futures exchange in a country other than New Zealand which is authorised by the laws of that country to operate as a futures exchange, by a person referred to in section 38(1) of this Act; or
-    (c) Which is a futures contract of a class in which a person referred to in section 38(1) of this Act is authorised to deal:
-  - **authorised futures exchange** means—
-    (a) a body corporate that is declared by the Commission to be an authorised futures exchange for the purposes of this Part:
-    (ab) a body corporate that is a registered exchange in respect of securities markets and futures markets whose conduct rules for futures markets have effect under section 36I:
-    (b) a subsidiary of an authorised futures exchange if the subsidiary conducts a market or exchange in New Zealand for trading in futures contracts.
-    (c) a subsidiary of a body corporate that is registered in respect of futures markets if the subsidiary's conduct rules for futures markets have effect under section 36I:
+(1) In this Part, unless the context otherwise requires,—
+  - **acquire** , in relation to a futures contract, includes enter into and take an assignment of; and and have corresponding meanings
+  - **authorised futures contract** means a futures contract which is—
+    (a) made on, or effected through, an authorised futures market; or
+    (b) made on, or effected through, a futures exchange in a country other than New Zealand which is authorised by the laws of that country to operate as a futures exchange, by a person referred to in section 38(1); or
+    (c) which is a futures contract of a class in which a person referred to in section 38(1) is authorised to deal
+  - **authorised futures exchange** means any of the following:
+    (a) a person that is authorised to conduct a futures market under subsection (8):
+    (b) a registered exchange that holds a market registration under Part 2B in respect of its futures market:
+    (c) a subsidiary of a person to which paragraph (a) or (b) applies (if the subsidiary conducts the market to which the authorisation or market registration relates)
+  - **authorised futures market** means a futures market to which an authorisation under subsection (8) applies (but also includes a futures market that is registered under Part 2B)
   - **commodity** means any type of goods; and includes foreign currency, a financial instrument, and emissions units
   - **dispose of** , in relation to a futures contract, includes—and and have corresponding meanings
-    (a) In the case of a futures contract described in paragraph (d) of the definition of that term, assign and exercise:
-    (b) In the case of any other futures contract, discharge obligations under;—
+    (a) in the case of a futures contract described in paragraph (d) of the definition of that term, assign and exercise:
+    (b) in the case of any other futures contract, discharge obligations under;—
   - **emissions units** means—
     (a) units as defined in section 4(1) of the Climate Change Response Act 2002; and
     (b) personal property that—
@@ -1284,56 +1443,65 @@ If a direction is given under section 36ZO, the Commission—
         (A) offset greenhouse gas emissions under, or otherwise comply with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol; or
         (B) enable a person who surrenders, retires, cancels, or otherwise uses it to claim an environmental benefit
   - **futures contract** means—
-    (a) An agreement under which one party agrees to deliver to another party at a specified future time a specified commodity or a quantity of a specified commodity at a price which is fixed when the agreement is made but under which it is contemplated or understood that the obligations of the parties may be satisfied by means other than actual delivery:
-    (b) An agreement under which each party has either—depending on whether at a future date the value or price of a specified commodity calculated in a manner specified by, or in accordance with, the agreement is greater or less than the value or price agreed upon by the parties when the agreement was made:
-      (i) An obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
-      (ii) A right to receive payment, or a credit, of a sum of money from the other—
-    (c) An agreement under which each party has either—depending on whether at a future date the value or level of a specified index calculated in a manner specified by, or in accordance with, the agreement is greater or less than the value or level agreed upon by the parties when the agreement was made:
-      (i) An obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
-      (ii) A right to receive payment, or a credit, of a sum of money from the other—
-    (d) An option or right to assume, at a specified price or value, or within a specified period, or by a specified date, rights and obligations under an agreement of a kind described in a preceding paragraph:
-    (e) An agreement, option or right which is declared by the Commission, in accordance with this section, to be an agreement, option or right to which this Act or any Part of this Act applies:
-    (f) An agreement, option or right which is of a class of agreements, options or rights declared by the Commission, in accordance with this section, to be a class to which this Act or any Part of this Act applies:
+    (a) an agreement under which one party agrees to deliver to another party at a specified future time a specified commodity or a quantity of a specified commodity at a price which is fixed when the agreement is made but under which it is contemplated or understood that the obligations of the parties may be satisfied by means other than actual delivery:
+    (b) an agreement under which each party has either—depending on whether at a future date the value or price of a specified commodity calculated in a manner specified by, or in accordance with, the agreement is greater or less than the value or price agreed upon by the parties when the agreement was made:
+      (i) an obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
+      (ii) a right to receive payment, or a credit, of a sum of money from the other—
+    (c) an agreement under which each party has either—depending on whether at a future date the value or level of a specified index calculated in a manner specified by, or in accordance with, the agreement is greater or less than the value or level agreed upon by the parties when the agreement was made:
+      (i) an obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
+      (ii) a right to receive payment, or a credit, of a sum of money from the other—
+    (d) an option or right to assume, at a specified price or value, or within a specified period, or by a specified date, rights and obligations under an agreement of a kind described in a preceding paragraph:
+    (e) an agreement, option or right which is declared by the FMA, in accordance with this section, to be an agreement, option or right to which this Act or any Part of this Act applies:
+    (f) an agreement, option or right which is of a class of agreements, options or rights declared by the FMA, in accordance with this section, to be a class to which this Act or any Part of this Act applies
   - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
-  - **Registered bank** has the same meaning as in section 2 of the Reserve Bank of New Zealand Act 1989.
+  - **registered bank** has the same meaning as in section 2 of the Reserve Bank of New Zealand Act 1989.
 (2) For the purposes of this Act, none of the following agreements or contracts is a futures contract:
-  (a) A currency swap agreement to which a registered bank is a party:
-  (b) An interest rate swap agreement to which a registered bank is a party:
-  (c) A forward exchange rate contract to which a registered bank is a party:
-  (d) A forward interest rate contract to which a registered bank is a party.
-(3) An agreement or option of the kind described in paragraphs (a), (b), (c), (d), (e), or (f) of the definition of the term futures contract in subsection (1) of this section is a futures contract whether or not it—
-  (a) Has any other effect; or
-  (b) Contains any other provisions; or
-  (c) Is capable of being varied or discharged before the time fixed for performance.
-(4) For the purposes of the definition of the term futures contract in subsection (1) of this section, party, in relation to an agreement, includes—
-  (a) An assignee:
-  (b) A nominee:
-  (c) A successor in title:
-  (d) If the party to the agreement is an agent, the principal.
-(5) For the purposes of this Part of this Act, a person deals in a futures contract if that person—
-  (a) Acquires or disposes of the futures contract on behalf of another person; or
-  (b) Offers to acquire or dispose of the futures contract on behalf of another person; or
-  (c) On behalf of another person induces, or attempts to induce, a person, to acquire or dispose of the futures contract; or
-  (d) Advises or assists a person in connection with the acquisition or disposition of the futures contract; or
-  (e) Does any other act or engages in conduct declared by the Commission by notice in the Gazette to constitute dealing in a futures contract for the purposes of this Part of this Act.
-(6) For the purposes of subsection (5)(d) of this section a person shall not be regarded as giving advice or assistance to any person in connection with the acquisition or disposition of a futures contract by reason only that that person gives that advice or assistance in a professional capacity as a solicitor or a chartered accountant.
-(7) The Commission may, by notice in the Gazette, declare—
-  (a) An agreement, option, or right to be an agreement, option, or right to which this Act applies:
-  (b) A class of agreements, options, or rights to be a class of agreements, options, or rights to which this Act applies.
-(8) The Commission may, on the terms and conditions (if any) that it thinks fit, by notice in the Gazette, declare a body corporate that conducts, or proposes to conduct, a market or exchange in New Zealand for trading in futures contracts to be an authorised futures exchange for the purposes of this Part of this Act.
+  (a) a currency swap agreement to which a registered bank is a party:
+  (b) an interest rate swap agreement to which a registered bank is a party:
+  (c) a forward exchange rate contract to which a registered bank is a party:
+  (d) a forward interest rate contract to which a registered bank is a party.
+(3) An agreement or option of the kind described in paragraphs (a), (b), (c), (d), (e) or (f) of the definition of the term futures contract in subsection (1) is a futures contract whether or not it—
+  (a) has any other effect; or
+  (b) contains any other provisions; or
+  (c) is capable of being varied or discharged before the time fixed for performance.
+(4) For the purposes of the definition of the term futures contract in subsection (1), party, in relation to an agreement, includes—
+  (a) an assignee:
+  (b) a nominee:
+  (c) a successor in title:
+  (d) if the party to the agreement is an agent, the principal.
+(5) For the purposes of this Part, a person deals in a futures contract if that person—
+  (a) acquires or disposes of the futures contract on behalf of another person; or
+  (b) offers to acquire or dispose of the futures contract on behalf of another person; or
+  (c) on behalf of another person induces, or attempts to induce, a person, to acquire or dispose of the futures contract; or
+  (d) advises or assists a person in connection with the acquisition or disposition of the futures contract; or
+  (e) does any other act or engages in conduct declared by the FMA by notice in the Gazette to constitute dealing in a futures contract for the purposes of this Part.
+(6) For the purposes of subsection (5)(d) a person shall not be regarded as giving advice or assistance to any person in connection with the acquisition or disposition of a futures contract by reason only that that person gives that advice or assistance in a professional capacity as a solicitor or a chartered accountant.
+(7) The FMA may, by notice in the Gazette, declare—
+  (a) an agreement, option, or right to be an agreement, option, or right to which this Act applies:
+  (b) a class of agreements, options, or rights to be a class of agreements, options, or rights to which this Act applies.
+(8) The FMA may, on the terms and conditions (if any) that it thinks fit, by notice in the Gazette, declare a body corporate to be authorised to conduct 1 or more futures markets in New Zealand.
+(8AA) A notice of an authorisation declaration under subsection (8) must—
+  (a) identify the market to which the authorisation applies and the person that is authorised to conduct that market under this section; and
+  (b) state the terms and conditions that apply to the person under the authorisation (and may, in those terms (without limitation), add to, modify, or disapply any of the provisions of subparts 1A and 2 of Part 2B).
+(8AB) The FMA must not grant the authorisation declaration under subsection (8) unless it is satisfied that—
+  (a) the operation of the futures market by the body corporate will be subject to requirements and supervision under the proposed terms and conditions of the authorisation or the law and regulatory requirements of another jurisdiction (if the body corporate is authorised to conduct the market in another jurisdiction), or both; and
+  (b) those requirements and that supervision are likely to have at least equivalent outcomes, in terms of the degree of integrity and effectiveness of the market and the confidence of investors in the market, to the likely outcomes for that market if it were registered under section 36F.
 (8A) A notice under subsection (8) may include any authorisation given under section 38.
-(9) The Commission may, by notice in the Gazette, declare any act or conduct to constitute dealing in a futures contract for the purposes of this Part of this Act.
-(10) The Commission may, by notice in the Gazette, vary or revoke any declaration made under this section.
+(9) The FMA may, by notice in the Gazette, declare any act or conduct to constitute dealing in a futures contract for the purposes of this Part.
+(10) The FMA may, by notice in the Gazette, vary or revoke any declaration made under this section.
 
 ### 37A No holding out as futures exchange unless authorised under this Part
 (1) No person may, in connection with carrying on business in New Zealand,—
   (a) use a style or title including the words futures exchange or futures market; or
   (b) state or imply, or permit a statement or implication, that—
     (i) the person is an authorised futures exchange; or
-    (ii) a market or exchange in New Zealand that the person conducts for trading in futures contracts is regulated under New Zealand law.
-(2) Subsection (1) does not apply to—
+    (ii) a market in New Zealand that the person conducts for trading in futures contracts is regulated under New Zealand law.
+(2) Subsection (1)(a) and (b)(i) do not apply to—
   (a) an authorised futures exchange; or
   (b) a subsidiary of an authorised futures exchange.
+(2A) Subsection (1)(b)(ii) does not apply to—
+  (a) an authorised futures exchange in respect of its authorised futures market; or
+  (b) a subsidiary of an authorised futures exchange in respect of the exchange's authorised futures market.
 (3) Every person who acts in contravention of subsection (1) commits an offence (see section 43C for the maximum penalty of a $10,000 fine per day).
 
 ### 37B No operation of futures markets unless authorised under this Part (if restriction applies)
@@ -1346,10 +1514,10 @@ If a direction is given under section 36ZO, the Commission—
 (1) The Minister may, by notice in the Gazette,—
   (a) declare, in accordance with section 37D, that section 37B applies to a person:
   (b) declare that section 37B ceases to apply to a person:
-  (c) exempt a market or exchange for trading in futures contracts, or a class of markets or exchanges of that kind, from the declaration.
+  (c) exempt a market for trading in futures contracts, or a class of markets of that kind, from the declaration.
 (2) An exemption under subclause (1)(c) may be on any terms or conditions that the Minister thinks fit.
 (3) An exemption has effect according to its tenor.
-(4) In determining whether or not to grant an exemption, the Minister must seek the advice of the Commission.
+(4) In determining whether or not to grant an exemption, the Minister must seek the advice of the FMA.
 (5) The Minister may vary an exemption in the same way as the exemption may be granted under this section.
 (6) The Minister may, by notice in the Gazette, revoke an exemption granted under this section.
 
@@ -1360,34 +1528,38 @@ If a direction is given under section 36ZO, the Commission—
 (2) The Minister must, before making the declaration,—
   (a) give at least 2 months' written notice of the proposed declaration, and of the Minister's reasons for his or her opinion under subsection (1), to—
     (i) the person to whom it is proposed to apply section 37B; and
-    (ii) the Commission; and
+    (ii) the FMA; and
     (iii) any other persons that the Minister thinks are representative of the interests of persons likely to be substantially affected by the proposed declaration; and
   (b) have regard to any submissions made by those persons within the notice period given; and
   (c) before making the declaration, give at least 14 days' written notice to the persons referred to in paragraph (a), and in the Gazette, of his or her intention to do so and of the reasons for his or her opinion under subsection (1).
 (3) A failure to comply with subsection (2) does not invalidate any notice published under section 37C.
 
+### 37E No operation by authorised futures exchange of unauthorised futures market
+(1) No authorised futures exchange may operate in New Zealand a futures market for which it does not have an authorisation under this Part or a market registration under Part 2B.
+(2) Every person who acts in contravention of subsection (1) commits an offence (see section 43C for the maximum penalty of a $10,000 fine per day).
+
 ### 38 Dealers in futures contracts to be authorised
 (1) No person may carry on the business of dealing in futures contracts unless that person—
-  (a) is, or is a member of a class of persons that is, authorised by the Commission by notice in the Gazette to carry on the business of dealing in futures contracts; or
+  (a) is, or is a member of a class of persons that is, authorised by the FMA by notice in the Gazette to carry on the business of dealing in futures contracts; or
   (b) has been approved by an authorised futures exchange under its rules to carry on the business of dealing in futures contracts in accordance with the rules of that exchange.
 (1A) However, a person who receives approval under subsection (1)(b) may carry on the business of dealing in futures contracts only if that dealing is subject to the regulation and oversight of the authorised futures exchange that approved the person.
 (2) For the purposes of subsection (1)(a) of this section, any authorisation may be for—
-  (a) Specified futures contracts:
-  (b) A specified class or specified classes of futures contracts:
-  (c) Futures contracts generally:
-  (d) Futures contracts generally other than—and may be on such terms and conditions as the Commission thinks fit.
-    (i) Specified futures contracts:
-    (ii) A specified class or specified classes of futures contracts—
-(3) The Commission may, by notice in the Gazette, vary or revoke, in whole or in part, any authorisation given under subsection (1)(a).
-(4) For the purposes of subsection (1)(b), rules, in relation to an authorised futures exchange within the meaning of paragraph (ab) of the definition of authorised futures exchange in section 37(1), means conduct rules.
+  (a) specified futures contracts:
+  (b) a specified class or specified classes of futures contracts:
+  (c) futures contracts generally:
+  (d) futures contracts generally other than—and may be on such terms and conditions as the FMA thinks fit.
+    (i) specified futures contracts:
+    (ii) a specified class or specified classes of futures contracts—
+(3) The FMA may, by notice in the Gazette, vary or revoke, in whole or in part, any authorisation given under subsection (1)(a).
+(4) For the purposes of subsection (1)(b), rules, in relation to an authorised futures exchange that is a registered exchange (or subsidiary of a registered exchange), means market rules.
 
 ### 39 Contravention of section 38 an offence
 Every person who contravenes section 38 commits an offence (see section 43C for the maximum penalties of 3 years imprisonment and a $100,000 fine for an individual and a $300,000 fine for a body corporate).
 
 ### 40 Effect of certain laws on authorised futures contracts and other contracts
 (1) Nothing in the Gambling Act 2003 applies to, or in respect of,—
-  (a) An authorised futures contract; or
-  (b) An agreement or a contract of the kind described in section 37(2).
+  (a) an authorised futures contract; or
+  (b) an agreement or a contract of the kind described in section 37(2).
 (2) Without limiting subsection (1), a contract referred to in that subsection is not a gaming or wagering contract for the purposes of any enactment or rule of law.
 (3) A contravention of this Part does not affect the validity or enforceability of a contract referred to in subsection (1).
 
@@ -1535,7 +1707,7 @@ Every person who is aware or ought reasonably to be aware of information that th
 ### 41Q Offence of deceptive, misleading, or confusing disclosure
 (1) An investment adviser or an investment broker who makes disclosure that contravenes section 41K or 41L commits an offence (see section 43D for the maximum penalty of a $100,000 fine for an individual or a $300,000 fine for a body corporate).
 (2) However, the adviser or the broker does not commit an offence under subsection (1) if the adviser or the broker proves that, at the time when the disclosure was made, the adviser or the broker believed on reasonable grounds that the disclosure was not deceptive, misleading, or confusing.
-(3) The defence in subsection (2) does not prevent the Commission from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
+(3) The defence in subsection (2) does not prevent the FMA from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
 
 ### 41R Offence of deceptive, misleading, or confusing advertisement
 (1) An investment adviser or an investment broker commits an offence (see section 43D for the maximum penalty of a fine of $300,000 and $10,000 per day in the case of a continuing offence) if an advertisement—
@@ -1545,7 +1717,7 @@ Every person who is aware or ought reasonably to be aware of information that th
     (i) authorised or instigated by, or on behalf of, the adviser or the broker; or
     (ii) prepared with the co-operation of, or by arrangement with, the adviser or the broker.
 (2) However, the adviser or the broker does not commit an offence under subsection (1) if the adviser or the broker proves that, at the time when the advertisement was distributed, the adviser or the broker believed on reasonable grounds that the advertisement was not deceptive, misleading, or confusing.
-(3) The defence in subsection (2) does not prevent the Commission from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
+(3) The defence in subsection (2) does not prevent the FMA from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
 
 ### 41S Recommending, or receiving money for, acquisition of securities prohibited if offer for subscription illegal
 (1) An investment adviser must not recommend to a member of the public that that person acquire securities, and an investment broker must not receive investment money from a member of the public in respect of the acquisition of securities, if—
@@ -1578,12 +1750,12 @@ The provisions of this Part have effect no matter what any agreement may say.
 
 ## Part 5 — Enforcement and remedies
 
-### Subpart 1 — Commission's enforcement powers
+### Subpart 1 — FMA's enforcement powers
 
 **Prohibition and corrective orders**
 
-### 42 When Commission may make prohibition and corrective orders
-The Commission may make a prohibition order or a corrective order, or both, in accordance with this subpart if it is satisfied that, by engaging in any conduct, a person has contravened, or would contravene,—
+### 42 When FMA may make prohibition and corrective orders
+The FMA may make a prohibition order or a corrective order, or both, in accordance with this subpart if it is satisfied that, by engaging in any conduct, a person has contravened, or would contravene,—
   (a) a market manipulation prohibition or exemption or the general dealing misconduct prohibition:
   (b) an investment advisers' or brokers' obligation or exemption:
   (c) section 36A(1) (no holding out as securities exchange unless registered) or an exemption from that section:
@@ -1595,8 +1767,8 @@ The Commission may make a prohibition order or a corrective order, or both, in a
 
 **Disclosure orders**
 
-### 42B When Commission may make disclosure orders
-The Commission may make a disclosure order in accordance with this subpart if it is satisfied that a person has contravened—
+### 42B When FMA may make disclosure orders
+The FMA may make a disclosure order in accordance with this subpart if it is satisfied that a person has contravened—
   (a) a continuous disclosure obligation or exemption:
   (b) a directors' and officers' disclosure obligation or exemption:
   (c) a substantial holding disclosure obligation or exemption:
@@ -1609,65 +1781,80 @@ A disclosure order may order the person—
 
 **Temporary investment adviser and broker banning orders**
 
-### 42D When Commission may make temporary banning orders for investment adviser or broker activities
-The Commission may make a temporary banning order against a person in accordance with this subpart if the Commission is satisfied that—
+### 42D When FMA may make temporary banning orders for investment adviser or broker activities
+The FMA may make a temporary banning order against a person in accordance with this subpart if the FMA is satisfied that—
   (a) the person has persistently contravened section 13 (general dealing misconduct prohibition), Part 4 (investment advisers and brokers), or the Securities Act 1978; or
-  (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the Commission is satisfied are substantially similar to any of the activities referred to in section 42E.
+  (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the FMA is satisfied are substantially similar to any of the activities referred to in section 42E.
 
 ### 42E Terms of temporary banning order for investment adviser and broker activities
-A temporary banning order may prohibit or restrict the person from doing all or any of the following things, without the leave of the Commission, for a period stated in the order of 14 days or less:
+A temporary banning order may prohibit or restrict the person from doing all or any of the following things, without the leave of the FMA, for a period stated in the order of 14 days or less:
   (a) giving investment advice to, or receiving investment money or investment property from, the public:
   (b) acting as a director or promoter of, or in any way, whether directly or indirectly, being concerned or taking part in the management of, any incorporated or unincorporated body that is an investment adviser or an investment broker (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand):
   (c) acting as an employee or agent of an investment adviser or an investment broker in a capacity that allows the person to take part in the giving of investment advice to, or receiving investment money or investment property from, the public.
 
-**Process for Commission's orders**
+**Unsolicited offer orders**
 
-### 42F Commission must follow steps before making orders
-(1) The Commission may make an order under this subpart only if it first takes the following steps:
+### 42EA When FMA may make unsolicited offer orders
+The FMA may make an unsolicited offer order in accordance with this subpart if the FMA is satisfied that a person has acted, is acting, or intends to act in contravention of an unsolicited offer obligation or exemption.
+
+### 42EB Terms of unsolicited offer orders
+(1) An unsolicited offer order may—
+  (a) restrain a person from acquiring a security, a power to dispose of a security, or an interest in or right attaching to a security, as a result of the unsolicited offer:
+  (b) restrain a person from taking any action that is, or that may reasonably be expected to constitute, a contravention of an unsolicited offer obligation or exemption:
+  (c) restrain a person from taking specified steps to complete or perform a contract that has been, or may reasonably be expected to be, entered into in contravention of an unsolicited offer obligation or exemption:
+  (d) direct a person not to register the transfer of a security:
+  (e) direct a person to disclose information, make corrective statements, or take any other specified steps, at the person's own expense and in the manner and at the times specified in the order, for the purpose of securing compliance with an unsolicited offer obligation or exemption.
+(2) An unsolicited offer order may be directed at any person.
+
+**Process for FMA's orders**
+
+### 42F FMA must follow steps before making orders
+(1) The FMA may make an order under this subpart only if it first takes the following steps:
   (a) gives the person to whom the order is directed written notice of—
     (i) the nature of the alleged contravention; and
     (ii) the proposed terms of the order; and
     (iii) the reasons for the proposed order; and
   (b) also gives that written notice to the relevant registered exchange, in the case of a disclosure order for a contravention of a continuous disclosure obligation or exemption; and
   (c) gives that notice at least—
-    (i) 24 hours before the Commission makes the order, in the case of an order specified in section 42G; or
-    (ii) 48 hours before the Commission makes the order, in the case of any other disclosure order; or
-    (iii) 7 days before the Commission makes the order, in the case of any other prohibition or corrective order; and
-  (d) gives each person to whom notice of the order must be given an opportunity to make written submissions within that notice period; and
-  (e) also gives each of those persons an opportunity to have the matter determined following a meeting of the Commission after the expiry of that notice period and the opportunity to be heard and represented by counsel at that meeting (but this paragraph does not apply to an order specified in section 42G); and
-  (f) has regard to any written submissions made to it within that notice period and (if applicable) written or oral submissions made at a meeting of the Commission.
-(2) However, the Commission may shorten these steps in accordance with section 42G for an order specified in that section.
+    (i) 24 hours before the FMA makes the order, in the case of an order specified in section 42G; or
+    (ii) 48 hours before the FMA makes the order, in the case of any other disclosure order or an unsolicited offer order; or
+    (iii) 7 days before the FMA makes the order, in the case of any other prohibition or corrective order; and
+  (d) gives each person to whom notice of the order must be given or the person's representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+  (e)
+  (f)
+(2) However, the FMA may shorten these steps in accordance with section 42G for an order specified in that section.
 
-### 42G Commission may shorten steps for specified orders
-(1) If the Commission thinks it necessary or desirable in the public interest for any of the orders set out in subsection (3) to be made more urgently than section 42F permits, it—
+### 42G FMA may shorten steps for specified orders
+(1) If the FMA thinks it necessary or desirable in the public interest for any of the orders set out in subsection (3) to be made more urgently than section 42F permits, it—
   (a) may give less than 24 hours' notice before it makes the order, and the notice may be oral, not written; and
-  (b) may give persons an opportunity to make only oral submissions, not written, to a member, officer, or employee of the Commission (as the Commission determines).
-(2) However, the Commission must include in the notice under that section the reasons for acting urgently and must otherwise comply with the steps set out in that section.
+  (b) may give persons an opportunity to make only oral submissions, not written, to a member, officer, or employee of the FMA (as the FMA determines).
+(2) However, the FMA must include in the notice under that section the reasons for acting urgently and must otherwise comply with the steps set out in that section.
 (3) The orders are—
   (a) a prohibition or corrective order for a contravention of a market manipulation prohibition or exemption or the general dealing misconduct prohibition:
   (b) a prohibition or corrective order for an investment advisers' or brokers' obligation or exemption if that order is stated to apply for a period of 14 days or less:
   (c) a disclosure order for a contravention of a continuous disclosure obligation or exemption:
   (d) a temporary banning order.
+  (e) an unsolicited offer order.
 
-### 42H Commission must give notice after making orders
-(1) If the Commission makes an order under this subpart, the Commission—
+### 42H FMA must give notice after making orders
+(1) If the FMA makes an order under this subpart, the FMA—
   (a) must, as soon as is reasonably practicable, give written notice to the person to whom the order is directed of—
     (i) the terms of the order; and
     (ii) the reasons for the order; and
   (b) must also give that written notice to the relevant registered exchange, in the case of a disclosure order for a contravention of a continuous disclosure obligation or exemption; and
   (c) may also give notice to any other person of those matters.
-(2) The Commission must also, as soon as practicable after the making of a temporary banning order, give notice on its website (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
+(2) The FMA must also, as soon as practicable after the making of a temporary banning order, give notice on its website (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
 
 **General provisions**
 
-### 42I General provisions on Commission's orders
-(1) The Commission may make an order under this subpart on the terms and conditions that the Commission thinks fit.
-(2) The Commission may vary an order in the same way as it may make the order under this subpart.
-(3) The Commission may revoke an order or suspend an order on the terms and conditions it thinks fit.
-(4) An order made under this subpart is subject to appeal only in accordance with section 69P of the Securities Act 1978.
+### 42I General provisions on FMA's orders
+(1) The FMA may make an order under this subpart on the terms and conditions that the FMA thinks fit.
+(2) The FMA may vary an order in the same way as it may make the order under this subpart.
+(3) The FMA may revoke an order or suspend an order on the terms and conditions it thinks fit.
+(4) An order made under this subpart is subject to appeal only in accordance with section 47A.
 
-### 42J Offence of failing to comply with Commission's orders
-(1) A person who contravenes an order made by the Commission under this subpart commits an offence (see section 43E for the maximum penalty of a $30,000 fine).
+### 42J Offence of failing to comply with FMA's orders
+(1) A person who contravenes an order made by the FMA under this subpart commits an offence (see section 43E for the maximum penalty of a $30,000 fine).
 (2) No person may be convicted of an offence against subsection (1) if—
   (a) the person proves that the contravention occurred without the person's knowledge or without the person's knowledge of the order; or
   (b) the contravention was in respect of matters that, in the Court's opinion, were immaterial; or
@@ -1678,7 +1865,7 @@ A temporary banning order may prohibit or restrict the person from doing all or 
 **Injunctions**
 
 ### 42K What Court may injunct
-The Court may, on application by the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
+The Court may, on application by the FMA or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
 
 ### 42L When Court may grant injunctions and interim injunctions
 (1) The Court may grant an injunction restraining a person from engaging in conduct of a particular kind if—
@@ -1688,18 +1875,19 @@ The Court may, on application by the Commission or any other person, grant an in
 (3) Subsections (1)(a) and (2) apply whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
 (4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 
-### 42M Undertaking as to damages not required by Commission
-(1) If the Commission applies to the Court for the grant of an interim injunction under this subpart, the Court must not, as a condition of granting an interim injunction, require the Commission to give an undertaking as to damages.
-(2) However, in determining the Commission's application for the grant of an interim injunction, the Court must not take into account that the Commission is not required to give an undertaking as to damages.
+### 42M Undertaking as to damages not required by FMA
+(1) If the FMA applies to the Court for the grant of an interim injunction under this subpart, the Court must not, as a condition of granting an interim injunction, require the FMA to give an undertaking as to damages.
+(2) However, in determining the FMA's application for the grant of an interim injunction, the Court must not take into account that the FMA is not required to give an undertaking as to damages.
 
 **Corrective orders**
 
 ### 42N When Court may grant corrective orders
-The Court may, on application by the Commission or any other person, make a corrective order if it is satisfied that a person has contravened—
+The Court may, on application by the FMA or any other person, make a corrective order if it is satisfied that a person has contravened—
   (a) a market manipulation prohibition or exemption or the general dealing misconduct prohibition:
   (b) an investment advisers' or brokers' obligation or exemption:
   (c) section 36A(1) (no holding out as securities exchange unless registered) or an exemption from that section:
   (d) section 37A(1) (no holding out as futures exchange unless authorised) or an exemption from that section.
+  (e) an unsolicited offer obligation or exemption.
 
 ### 42O Terms of corrective orders
 A corrective order may direct the person in contravention to publish, at the person's own expense, in the manner and at the times specified in the order, corrective statements that are specified in, or are to be determined in accordance with, the order.
@@ -1707,10 +1895,11 @@ A corrective order may direct the person in contravention to publish, at the per
 **Disclosure orders**
 
 ### 42P When Court may make disclosure orders
-The Court may, on application by the Commission or any other person, make a disclosure order if it is satisfied that a person has contravened—
+The Court may, on application by the FMA or any other person, make a disclosure order if it is satisfied that a person has contravened—
   (a) a continuous disclosure obligation or exemption:
   (b) a substantial holding disclosure obligation or exemption:
   (c) an investment advisers' or brokers' disclosure obligation or exemption.
+  (d) an unsolicited offer obligation or exemption.
 
 ### 42Q Terms of disclosure orders
 A disclosure order may order—
@@ -1723,7 +1912,7 @@ A disclosure order may order—
 
 ### 42R Overview of civil remedies
 (1) The following remedies (civil remedy orders) are available for a contravention of a civil remedy provision (except if otherwise provided) under this subpart:
-  (a) a pecuniary penalty order and declaration of contravention (on application by the Commission only):
+  (a) a pecuniary penalty order and declaration of contravention (on application by the FMA only):
   (b) a compensatory order:
   (c) a specific civil remedy order under section 42ZC:
   (d) other civil remedy orders under section 42ZE.
@@ -1737,11 +1926,12 @@ In this subpart, a civil remedy provision is—
   (d) a continuous disclosure obligation or exemption:
   (e) a substantial holding disclosure obligation or exemption:
   (f) an investment advisers' or brokers' obligation or exemption.
+  (g) an unsolicited offer obligation or exemption.
 
 **Pecuniary penalty orders and declarations of contravention**
 
 ### 42T When Court may make pecuniary penalty orders and declarations of contravention
-(1) If the Commission applies for a pecuniary penalty order against a person under this Act, the Court—
+(1) If the FMA applies for a pecuniary penalty order against a person under this Act, the Court—
   (a) must determine whether the person has contravened a civil remedy provision; and
   (b) must make a declaration of contravention (see sections 42U and 42V) if satisfied that the person has contravened a civil remedy provision; and
   (c) may order the person to pay a pecuniary penalty that the Court considers appropriate to the Crown (see sections 42W to 42Y) if satisfied that the person has contravened a civil remedy provision and that the contravention—
@@ -1766,7 +1956,7 @@ A declaration of contravention must state the following:
   (e) the public issuer to which the conduct related (if relevant).
 
 ### 42W Maximum amount of pecuniary penalty
-(1) The maximum amount of a pecuniary penalty for a contravention of an insider conduct prohibition or market manipulation prohibition is the greater of—
+(1) The maximum amount of a pecuniary penalty for a contravention of an insider conduct prohibition, market manipulation prohibition, or unsolicited offer prohibition is the greater of—
   (a) the consideration for the transaction that constituted the contravention (if any); or
   (b) 3 times the amount of the gain made, or the loss avoided, by the person in carrying out the conduct (see section 42X for guidance); or
   (c) $1,000,000.
@@ -1774,11 +1964,12 @@ A declaration of contravention must state the following:
 
 ### 42X Guidance for Court on how to determine gains made or losses avoided for purposes of maximum amount
 (1) For the purposes of section 42W(1)(b),—
-  (a) a person makes a gain if the person acquires a security in a public issuer for less than its value:
-  (b) a person avoids a loss if the person disposes of a security in a public issuer for more than its value.
+  (a) a person makes a gain if the person acquires a security for less than its value:
+  (b) a person avoids a loss if the person disposes of a security for more than its value.
 (2) In this case, the gain made or loss avoided is the difference between the consideration paid or received (as the case may be) and the value the security would have had at the time of the sale if, —
   (a) in the case of a contravention of an insider conduct prohibition, the material information had been generally available to the market; or
   (b) in the case of a contravention of a market manipulation prohibition, the conduct, statement, or information had not been misleading, deceptive, or false.
+(3) In the case of a contravention of an unsolicited offer prohibition, subsection (2) does not apply.
 
 ### 42Y Considerations for Court in determining pecuniary penalty
 In determining an appropriate pecuniary penalty, the Court must have regard to all relevant matters, including—
@@ -1790,13 +1981,13 @@ In determining an appropriate pecuniary penalty, the Court must have regard to a
   (f) whether or not the person in contravention has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct; and
   (g) the relationship of the parties to the transaction constituting the contravention.
 
-### 42Z Court must order that recovery from pecuniary penalty be applied to Commission's actual costs
-If the Court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the Commission, the Court must also order that the penalty must be applied first to pay the Commission's actual costs in bringing the proceedings.
+### 42Z Court must order that recovery from pecuniary penalty be applied to FMA's actual costs
+If the Court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the FMA, the Court must also order that the penalty must be applied first to pay the FMA's actual costs in bringing the proceedings.
 
 **Compensatory orders**
 
 ### 42ZA When Court may make compensatory orders
-(1) The Court may make a compensatory order, on application by the Commission or any other person, if the Court is satisfied that—
+(1) The Court may make a compensatory order, on application by the FMA or any other person, if the Court is satisfied that—
   (a) there is a contravention of a civil remedy provision; and
   (b) a person (the aggrieved person) has suffered, or is likely to suffer, loss or damage because of the contravention.
 (2) The Court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
@@ -1832,7 +2023,7 @@ If section 42ZA applies, the Court may make any order it thinks just to compensa
 **Other civil remedy orders**
 
 ### 42ZE When Court may make other civil remedy orders
-(1) The Court may, on application by the Commission or any other person, make a civil remedy order described in section 42ZF if the Court is satisfied on reasonable grounds that a person has contravened or intends to contravene a civil remedy provision.
+(1) The Court may, on application by the FMA or any other person, make a civil remedy order described in section 42ZF if the Court is satisfied on reasonable grounds that a person has contravened or intends to contravene a civil remedy provision.
 (2) However, the Court must not make a civil remedy order of that kind for a contravention of a continuous disclosure obligation or exemption or an investment advisers' or brokers' obligation or exemption.
 
 ### 42ZF Terms of other civil remedy orders
@@ -1890,10 +2081,10 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 36A(1) (no holding out as securities exchange unless registered):
   (b) section 36B(1) (no operation of securities markets unless registered (if restriction applies)):
-  (c) section 36G(1) (registered exchange must operate securities and futures markets in accordance with conduct rules that include required matters and have effect):
-  (d) section 36P(1) (registered exchange must not operate new market if proposed conduct rules or changes not approved):
-  (e) section 36Z (offence for breach of terms or conditions of authorisation).
-(3) A person who commits an offence against section 36Q(1) (conduct rules must be available for public inspection) is liable on summary conviction to a fine not exceeding $5,000.
+  (c) section 36FB(1) (no operation by registered exchange of unregistered market):
+  (d) section 36G(1) (registered exchange must operate markets under market rules that comply with subpart 1A of Part 2B):
+  (e) section 36ZYB (offence for breach of terms or conditions of authorisation).
+(3) A person who commits an offence against section 36N (market rules must be available for public inspection) is liable on summary conviction to a fine not exceeding $5,000.
 (4) A person who commits an offence against section 36U(1)(a) (effect of exceeding control limit) is liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
 
 ### 43C Penalties for failing to comply with Part 3
@@ -1903,6 +2094,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 37A(1) (no holding out as futures exchange unless authorised):
   (b) section 37B(1) (no operation of futures markets unless authorised (if restriction applies)).
+  (c) section 37E(1) (no operation by authorised futures exchange of unauthorised futures market).
 
 ### 43D Penalties for failing to comply with Part 4
 (1) A person who commits an offence against either of the following sections is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
@@ -1926,7 +2118,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (a) section 43M (offence of contravening investment adviser or broker banning order):
   (b) section 43N (persons automatically banned from investment adviser or broker activities):
   (c) section 43T (offence of contravening orders to preserve assets to satisfy claims).
-(4) A person who commits an offence against section 42J (offence of failing to comply with Commission's orders) is liable on summary conviction to a fine not exceeding $30,000.
+(4) A person who commits an offence against section 42J (offence of failing to comply with FMA's orders) is liable on summary conviction to a fine not exceeding $30,000.
 
 ### Subpart 5 — Other Court orders
 
@@ -1940,7 +2132,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
     (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
   (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the Court is satisfied are substantially similar to any of the activities referred to in section 43G in connection with a contravention of any law relating to the trading of securities.
 (2) An entitled person is—
-  (a) the Commission:
+  (a) the FMA:
   (b) the Registrar of Companies:
   (c) an incorporated or unincorporated body that—
     (i) A is a director of at the time of the application; or
@@ -1957,6 +2149,9 @@ An individual who acts in contravention of a management banning order under sect
 ### 43I Persons automatically banned from management
 (1) This section applies to a person if the person has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against the person for a contravention of that Part.
 (2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the Court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+(2A) The court may give leave for the purposes of subsection (2)—
+  (a) at the time of conviction or making of the order, or at any other time on the application of the relevant person:
+  (b) in respect of a particular incorporated or unincorporated body, a class of incorporated or unincorporated bodies, or incorporated or unincorporated bodies generally.
 (3) An individual who acts in contravention of this section commits an offence (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine).
 
 ### 43J Only one management ban may be made for same conduct
@@ -1965,7 +2160,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 **Investment adviser or broker bans**
 
 ### 43K When Court may make banning orders for investment adviser or broker activities
-The Court may, on application by the Commission or any other person, make an investment adviser or broker banning order against a person if the Court is satisfied that—
+The Court may, on application by the FMA or any other person, make an investment adviser or broker banning order against a person if the Court is satisfied that—
   (a) the person has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against the person for a contravention of that Part; or
   (b) the person has been convicted of an offence against section 41R (offence of deceptive, misleading, or confusing advertisement) or section 41S (recommending, or receiving money for, illegal offer) or a pecuniary penalty order has been made against the person for a contravention of either of those sections; or
   (c) the person has been convicted of an offence against any of sections 58, 59, or 59A of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
@@ -1995,19 +2190,19 @@ A person who acts in contravention of an investment adviser or a broker banning 
 
 ### 43O General provisions for bans and banning orders
 (1) The Registrar of the Court must, as soon as practicable after the making of a banning order by a Court under this Part,—
-  (a) give notice to the Registrar of Companies and the Commission that the order has been made; and
+  (a) give notice to the Registrar of Companies and the FMA that the order has been made; and
   (b) give notice in the Gazette of the name of the person against whom the order is made and the period or dates for which the ban applies.
-(2) A person intending to apply for the leave of the Court to override a ban imposed by or under section 43F, 43I, 43K, or 43N must give to the Commission not less than 10 working days' written notice of that person's intention to apply.
-(3) The Commission, and any other person that the Court thinks fit, may attend and be heard at the hearing of the application.
+(2) A person intending to apply for the leave of the Court to override a ban imposed by or under section 43F, 43I, 43K, or 43N must give to the FMA not less than 10 working days' written notice of that person's intention to apply.
+(3) The FMA, and any other person that the Court thinks fit, may attend and be heard at the hearing of the application.
 
 **Orders to preserve assets to satisfy claims**
 
 ### 43P When Court may prohibit payment or transfer of money, securities, or other property
 (1) This section applies if—
-  (a) an investigation is being carried out under this Act in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
+  (a) an investigation is being carried out under this Act in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act or any regulations made under this Act; or
   (b) a prosecution has begun against a person for a contravention of this Act; or
   (c) a civil proceeding has begun against a person under this Act.
-(2) The Court may, on application by the Commission or by an aggrieved person, make 1 or more of the orders listed in section 43Q if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
+(2) The Court may, on application by the FMA or by an aggrieved person, make 1 or more of the orders listed in section 43Q if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
 (3) In this section and section 43Q,—
   - **aggrieved person** means any person to whom a relevant person is liable
   - **liable** means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
@@ -2052,8 +2247,8 @@ A person commits an offence who contravenes an order by the Court under section 
 ### 43V Evidence not otherwise admissible
 In the exercise of its jurisdiction under this Act, the Court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
 
-### 43W Court may order payment of Commission's costs
-If the Commission brings proceedings under this Part and the Court makes any order against a person under this Part, the Court may also order that person to pay the Commission's costs and expenses in bringing the proceedings.
+### 43W Court may order payment of FMA'scosts
+If the FMA brings proceedings under this Part and the Court makes any order against a person under this Part, the Court may also order that person to pay the FMA's costs and expenses in bringing the proceedings.
 
 ### 43X Orders to secure compliance
 The Court may, for the purpose of securing compliance with any other order it makes under this Part, direct a person to do or refrain from doing a specified act.
@@ -2072,7 +2267,7 @@ The following persons are entitled to appear and be heard at the hearing of an a
   (a) the applicant:
   (b) the public issuer:
   (c) a person who is alleged to have suffered, or to be likely to suffer, loss or damage because of an alleged contravention (whether that person or another person makes the allegation):
-  (d) the Commission:
+  (d) the FMA:
   (e) the relevant registered exchange:
   (f) a person directed to be given notice of the application:
   (g) with the leave of the Court, any other person.
@@ -2088,8 +2283,7 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
 **General provisions**
 
 ### 44 Commission may exercise powers under Securities Act 1978
-(1) The Commission may exercise any of its powers under the Securities Act 1978 in performing its functions under this Act, and Part 3 of that Act applies to its decisions and proceedings under this Act.
-(2) This section is for the avoidance of doubt.
+[Repealed]
 
 ### 45 Actions of other persons on behalf of registered exchanges
 (1) If a person acts on behalf of a registered exchange,—
@@ -2097,47 +2291,121 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
   (b) the registered exchange is also responsible under this Act for the acts of the person as if it were acting itself (with any necessary modifications).
 (2) Subsection (1) applies except as expressly provided by this Act.
 
-### 46 Protection for acting on Commission directions
-A registered exchange, or an officer or employee of a registered exchange, is not liable for any act done or omitted to be done by that person in compliance with a direction by the Commission under section 36ZO.
+### 46 Protection for acting on FMA directions
+A registered exchange, or an officer or employee of a registered exchange, is not liable for any act done or omitted to be done by that person in compliance with a direction by the FMA under section 36ZO.
 
 ### 47 Protection from liability for registered exchanges and others
 (1) A registered exchange is not liable for anything it may do or fail to do in the course of the exercise or intended exercise of its functions or duties under Part 2 or Part 2B, unless it is shown that it acted in bad faith or without reasonable care.
 (2) An officer, an employee, or a person acting on behalf of a registered exchange is not liable for anything he or she may do or say or fail to do or say in the course of the exercise or intended exercise of the registered exchange's functions or duties under Part 2 or Part 2B, unless it is shown that he or she acted in bad faith.
 
-**Exemptions granted and removed by Commission**
+### 47AA Protection from liability in connection with unsolicited offer obligations
+(1) This section applies to any person who—
+  (a) is stated by the regulations made under section 48DB to be a protected person for the purposes of this section; and
+  (b) is not in contravention of an unsolicited offer obligation or exemption.
+(2) A person to whom this section applies is not liable for any act done or omitted to be done by that person in good faith if the act or omission is—
+  (a) required by an unsolicited offer order made by the FMA; or
+  (b) required by an order made by the Court under Part 5 in connection with a contravention of an unsolicited offer obligation or exemption; or
+  (c) stated by the regulations made under section 48DB to be a protected act or omission for the purposes of this section.
 
-### 48 Exemptions granted by Commission
-(1) The Commission may, in its discretion and on the terms and conditions (if any) that it thinks fit, by notice in the Gazette,—
-  (a) exempt any transaction, class of transactions, class of persons, or class of relevant interests, acquisitions, or disposals from compliance with any directors' and officers' disclosure obligation or obligations:
+**Appeals**
+
+### 47A Appeals against decisions of FMA on questions of law only
+A person that considers that a decision of the FMA under any of the following provisions is wrong in law may appeal against the decision to the High Court on a question of law only:
+  (a) section 34 (which relates to requirements for persons to disclose relevant interests and powers to get relevant interests):
+  (b) section 36ZO (which relates to directions by the FMA to registered exchanges):
+  (c) subpart 1 of Part 5 (which relates to the FMA's enforcement powers).
+
+**Exemptions granted and removed by FMA**
+
+### 48 Exemptions granted by FMA
+(1) The FMA may, on the terms and conditions (if any) that it thinks fit,—
+  (a) exempt any transaction, class of transactions, person, class of persons, or class of relevant interests, acquisitions, or disposals from compliance with any directors' and officers' disclosure obligation or obligations:
   (b) exempt any person or class of persons, any transaction or class of transactions, or any class of relevant interests, substantial holdings, or relevant events from compliance with any substantial holding disclosure obligation or obligations:
-  (c) exempt any person or class of persons, any transaction or class of transactions, or any class of investment advice (for example, advice given by telephone) or investment brokers services from compliance with any investment advisers' or investment brokers' disclosure obligation or obligations:
-  (d) exempt any person or class of persons from compliance with any requirement of the Futures Industry (Client Funds) Regulations 1990 or regulations that replace them, provided that the Commission is satisfied that there are adequate alternative safeguards for preserving client money and client property.
-(2) The exemption has effect according to its tenor.
+  (c) exempt any offer, class of offers, security, class of securities, person, or class of persons from compliance with any unsolicited offer obligation or obligations:
+  (d) exempt any person or class of persons from compliance with any requirement of the Futures Industry (Client Funds) Regulations 1990 or regulations that replace them.
+(2) The FMA must not grant an exemption under this section unless it is satisfied that—
+  (a) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption; and
+  (b) in the case of subsection (1)(d), there are adequate alternative safeguards for preserving client money and client property.
 
-### 48A Commission must notify reasons for exemption
-(1) The Commission's reasons for granting an exemption (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-(2) However, the Commission may defer notifying or not notify the reasons for granting an exemption if the Commission is satisfied that it is proper to do so on the ground of commercial confidentiality.
+### 48A Status and publication of exemptions
+(1) An exemption granted under section 48—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
+  (b) must be presented to the House of Representatives under section 4 of that Act.
+(2) A class exemption (but not any other exemption granted under section 48) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) An exemption granted under section 48 that is not a class exemption must, as soon as practicable after it is granted, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(4) A notification in the Gazette for the purpose of subsection (3)(b) does not have to include the text of the exemption.
+(5) The FMA's reasons for granting an exemption under section 48 (including why the exemption is appropriate) must be published together with the exemption.
+(6) In this section, class exemption—
+  (a) means an exemption of general application that applies to a class of persons, transactions, offers, securities, relevant interests, substantial holdings, relevant events, acquisitions, or disposals; but
+  (b) does not include an exemption granted in relation to—
+    (i) particular persons, transactions, offers, securities, relevant interests, substantial holdings, relevant events, acquisitions, or disposals; or
+    (ii) persons, transactions, offers, securities, relevant interests, substantial holdings, relevant events, acquisitions, or disposals associated with or involving a particular entity.
 
-### 48B Commission may vary or revoke exemption
-(1) The Commission may vary the exemption in the same way as it may grant the exemption under section 48.
-(2) The Commission may revoke the exemption by notice in the Gazette.
+### 48B Variation or revocation of exemptions
+(1) The FMA may vary or revoke an exemption granted under section 48.
+(2) Section 48A and this section apply, with necessary modifications, in all respects to a variation or revocation under this section.
 
-### 48C Commission may designate persons as not exempt from disclosure obligations
-(1) The Commission may, by notice in the Gazette, designate a person as a person that is not exempt under section 6(1)(a) to (g) (in relation to either subpart 2 or subpart 3 of Part 2) or under section 31 or section 32A.
-(2) The Commission may exercise that power if it is satisfied that the exemption is being used for purposes of circumventing, evading, or defeating the purpose of the subpart that will (in whole or part) apply as a result of the designation, taking into account the nature, substance, and economic effect of the interest or relationship or other facts (and not the mere form).
-(3) The Commission may, by notice in the Gazette, revoke a designation.
+### 48C FMA may designate persons as not exempt from disclosure obligations
+(1) The FMA may, by notice in the Gazette, designate a person as a person that is not exempt under section 6(1)(a) to (g) (in relation to either subpart 2 or subpart 3 of Part 2) or under section 31 or section 32A.
+(2) The FMA may exercise that power if it is satisfied that the exemption is being used for purposes of circumventing, evading, or defeating the purpose of the subpart that will (in whole or part) apply as a result of the designation, taking into account the nature, substance, and economic effect of the interest or relationship or other facts (and not the mere form).
+(3) The FMA may, by notice in the Gazette, revoke a designation.
 (4) A notice under this section has effect according to its tenor.
 (5) A notice under this section takes effect from the date stated in the notice (which must not be earlier than the date of the Gazette notice).
 
-### 48D Requirements for Commission for designations of persons as not exempt
-(1) Before designating a person as not exempt under section 48C, the Commission must—
+### 48D Requirements for FMA for designations of persons as not exempt
+(1) Before designating a person as not exempt under section 48C, the FMA must—
   (a) do everything reasonably possible on its part to advise the person of the proposed designation; and
-  (b) give the person a reasonable opportunity to make submissions to the Commission on the proposal.
-(2) Subsection (1) does not apply to a designation if the Commission considers that it is desirable in the public interest for the exemption to be removed urgently.
+  (b) give the person a reasonable opportunity to make submissions to the FMA on the proposal.
+(2) Subsection (1) does not apply to a designation if the FMA considers that it is desirable in the public interest for the exemption to be removed urgently.
 (3) Failure to comply with subsection (1) does not invalidate the designation.
-(4) The Commission must list on its website all persons that are currently designated (and may also publicly notify them by any other means).
+(4) The FMA must list on its website all persons that are currently designated (and may also publicly notify them by any other means).
 
 **Regulations**
+
+### 48DA Definitions relating to unsolicited offer regulations and related provisions
+(1) For the purposes of this Act, an unsolicited offer means an offer to which all of the following apply:
+  (a) the offer is to acquire a security, to acquire a power to dispose of a security, or to acquire another interest in or right attaching to a security, made by a person (A) to another person (B) (whether the acquisition is by A or an associated person of A):
+  (b) it is unsolicited by B:
+  (c) it is not made on a registered market:
+  (d) it is within the class or classes of unsolicited offers to which the regulations apply:
+  (e) it is not a takeover offer for securities under the takeovers code or an acquisition or a redemption by a company of its shares under the Companies Act 1993.
+(2) For the purposes of this section, sections 47AA, 48DB, 48DC, and any regulations made under this section,—
+  (a) associated person has the meaning set out in section 49(7)(b) of the Financial Markets Authority Act 2011:
+  (b) an offer made by A includes an invitation or proposal for A (or an associated person of A) to make an offer:
+  (c) regulations may define or clarify the meaning of unsolicited.
+
+### 48DB Regulations concerning unsolicited offer regulations
+(1) The Governor-General may, on the recommendation of the Minister in accordance with subsection (3), make regulations setting out the rules applying to unsolicited offers for any or all of the purposes set out in subsection (2).
+(2) The purposes are—
+  (a) ensuring offerees are fully informed of—
+    (i) the current market price of a listed security or, for a non-listed security, a fair estimate of the value of the security and the basis for making that estimate; and
+    (ii) the material terms of the offer and their effect; and
+    (iii) any warnings issued by the FMA (if ordered by the FMA to be contained in or to accompany offer documents); and
+    (iv) their rights and remedies under the regulations:
+  (b) ensuring that notice of an unsolicited offer to security holders is given to the relevant public issuer or issuer and the FMA:
+  (c) ensuring that no agreement to transfer may bind offerees for a minimum period for the purpose of enabling offerees to consider, and reconsider, any decision to accept an offer:
+  (d) requiring there to be minimum or maximum offer periods or both:
+  (e) setting out any other rules applying to unsolicited offers.
+(3) In formulating recommendations to make regulations under this section, the Minister must—
+  (a) have regard to the objective of preventing unfair practices in the making of unsolicited offers; and
+  (b) consult with the FMA.
+
+### 48DC Specific provisions for regulations concerning unsolicited offers
+The regulations made under section 48DB may, without limiting that section,—
+  (a) define the class or classes of unsolicited offers and securities to which the regulations apply:
+  (b) prescribe requirements in relation to unsolicited offers and the making of those offers, including requirements as to the form and content of those offers, variations of those offers, the updating and resending of offer documents or other corrective statements, and the implication of terms into the offer or any resulting agreement:
+  (c) prescribe the information, statements, certificates, or other documents that must be supplied to offerees, the relevant public issuer or issuer, and the FMA:
+  (d) provide for any duties or functions of the FMA in connection with the rules applying to unsolicited offers:
+  (e) state which obligations are unsolicited offer obligations for the purposes of this Act:
+  (f) provide for the exercise of a right to withdraw a notification of a decision to accept an unsolicited offer, a right to refuse to complete a transfer, or any other right or remedy of offerees, and any consequences and obligations that apply in those cases:
+  (g) provide for any powers of, and requirements on, public issuers, issuers, or their agents in connection with transfers under an unsolicited offer and provide for protections from liability for those persons, persons administering a register of securities, and other persons for the purposes of section 47AA:
+  (h) provide for the regulations to—
+    (i) extend to, or in respect of, any conduct of an associated person of an offeror and any conduct that, in substance or effect, constitutes an unsolicited offer:
+    (ii) prohibit contracting out of the regulations and include any other provision or provisions designed to prevent avoidance of the regulations (for example, prohibiting persons inviting others to make an offer to sell a security in circumstances in which, if the invitation were an offer to acquire the security, it would be an unsolicited offer to which the regulations applied):
+  (i) provide for transitional matters.
 
 ### 48E Regulations requiring continuous disclosure by public issuers
 (1) The Governor-General may, on the recommendation of the Minister in accordance with section 48F or section 48G, make regulations for the purpose of providing, under section 19C, for continuous disclosure by public issuers of material information that is not generally available to the market.
@@ -2160,7 +2428,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (b) is satisfied that, over time, the continuous disclosure provisions of the registered exchange's listing rules, or the registered exchange's administration of those provisions, has not achieved the purpose of that subpart.
 (3) The Minister must, before making that recommendation,—
   (a) give at least 3 months' written notice of the proposed recommendation, and of the Minister's reasons for his or her opinion under subsection (2)(b), to—
-    (i) the Commission; and
+    (i) the FMA; and
     (ii) the relevant registered exchange; and
     (iii) any other persons that the Minister thinks are representative of the interests of persons likely to be substantially affected by the proposal; and
   (b) have regard to any submissions made by those persons within the notice period given; and
@@ -2171,7 +2439,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
 (2) The Minister must, before making a recommendation under section 48E,—
   (a) have regard to the purpose of subpart 1 of Part 2, the criteria stated in section 19A, and any other matters he or she considers relevant; and
   (b) give written notice of the proposed recommendation to—
-    (i) the Commission; and
+    (i) the FMA; and
     (ii) the relevant registered exchange; and
     (iii) any other persons that the Minister thinks are representative of the interests of persons likely to be substantially affected by the proposal; and
   (c) have regard to any submissions made by those persons within the notice period given; and
@@ -2189,7 +2457,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
     (vi) the date of the last disclosure by the director or officer:
   (c) determining when the disclosure in paragraph (b) is required (including by requiring disclosure only on request) and prescribing the form of or for, and the method of, disclosure, or providing for the relevant registered exchange to determine that form or method and for the way in which it must do so:
   (d) exempting (on terms and conditions, if any) classes of persons, classes of transactions, or classes of relevant interests, acquisitions, or disposals from compliance with any directors' and officers' disclosure obligation or obligations.
-(2) The Minister must consult with the Commission before making a recommendation under subsection (1).
+(2) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49A Regulations concerning substantial holding disclosure
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (3), make regulations for the purpose of—
@@ -2206,7 +2474,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (d) prescribing the form of or for, and the method of, disclosure under that subpart (and of any other acknowledgments or notices required by the subpart), or providing for the relevant registered exchange to determine that form or method and providing for the way in which it must do so:
   (e) exempting (on terms and conditions, if any) classes of persons, classes of transactions, or classes of relevant interests, substantial holdings, or relevant events from compliance with any substantial holding disclosure obligation or obligations.
 (2) The further matters prescribed for disclosures required by section 22 or 25 may differ according to whether section 15(1)(a), (b), or (d) of the Securities Markets Amendment Act 2006 (which contains transitional provisions) applies to the disclosure or not.
-(3) The Minister must consult with the Commission before making a recommendation under subsection (1).
+(3) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49B Regulations concerning dealing in futures contracts
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, in accordance with subsection (3), make regulations for the purpose of—
@@ -2216,9 +2484,9 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (d) prescribing requirements relating to the deposit of that money and property in separate clients' funds accounts or safe custody, as the case may be:
   (e) specifying the duties and obligations of those dealers in relation to clients' funds accounts including obligations to make payments into those accounts:
   (f) providing for the protection of money deposited in clients' funds accounts and the investment of that money and property deposited in safe custody from claims against persons dealing in futures contracts:
-  (g) providing for the Commission to carry out functions under the regulations, and its powers and procedures in doing so.
+  (g) providing for the FMA to carry out functions under the regulations, and its powers and procedures in doing so.
 (2) Without limiting subsection (1), regulations made under that subsection may also apply to persons acting on behalf of an authorised futures exchange in the same way that they apply to the authorised futures exchange.
-(3) The Minister must consult with the Commission before making a recommendation under subsection (1).
+(3) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49C Regulations concerning investment advisers and brokers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations for the purpose of—
@@ -2230,7 +2498,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (d) exempting (on terms and conditions, if any) any person or class of persons, any class of transactions, or any class of investment advice (for example, advice given by telephone) or investment brokers services from compliance with any investment advisers' or investment brokers' disclosure obligation or obligations:
   (e) prescribing how information disclosed in a disclosure statement must be set out:
   (f) prescribing a form for use as a disclosure statement.
-(2) The Minister must consult with the Commission before making a recommendation under subsection (1).
+(2) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49D Other regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (3), make regulations for the purpose of—
@@ -2242,12 +2510,12 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (d) prescribing fees and charges to be paid for the purposes of this Act, or a means by which fees and charges may be calculated or ascertained:
   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Without limiting subsection (1)(d), regulations made under that paragraph may—
-  (a) authorise the Commission to require payment of fees and charges—
-    (i) in connection with the exercise by the Commission of any power or function conferred on it by or under this Act:
-    (ii) on an application to the Commission to exercise any power or function conferred on it by or under this Act:
-    (iii) from a person for advice provided by the Commission to the Minister on the exercise of the Minister's powers or functions in connection with that person under this Act:
-  (b) authorise the Commission to require payment of any costs incurred by the Commission.
-(3) The Minister must consult with the Commission before making a recommendation under subsection (1).
+  (a) authorise the FMA to require payment of fees and charges—
+    (i) in connection with the exercise by the FMA of any power or function conferred on it by or under this Act:
+    (ii) on an application to the FMA to exercise any power or function conferred on it by or under this Act:
+    (iii) from a person for advice provided by the FMA to the Minister on the exercise of the Minister's powers or functions in connection with that person under this Act:
+  (b) authorise the FMA to require payment of any costs incurred by the FMA.
+(3) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49E Breach of exemption conditions
 The breach of a term or condition of an exemption provided by regulations made under this Act or by notice under section 48 is a breach of the obligation for which the exemption applies.
@@ -2255,13 +2523,13 @@ The breach of a term or condition of an exemption provided by regulations made u
 ### 49F Regulations or exemptions in respect of specified overseas jurisdictions
 Without limiting sections 48 to 49D, exemptions made under those sections or under regulations made under those sections may extend to all, or classes of, persons, transactions, or other matters in relation to specified overseas jurisdictions.
 
-### 50
+### 50 Disclosure of information relating to inspection
 [Repealed]
 
-### 51
+### 51 Regulations and Orders in Council
 [Repealed]
 
-### 52
+### 52 Fees and charges
 [Repealed]
 
 ### 1 Title
@@ -2291,3 +2559,44 @@ This Act is the Securities Markets Amendment Act 2006.
   (a) investigating an offence or contravention to which this section applies:
   (b) commencing or completing proceedings for an offence or contravention to which this section applies:
   (c) imposing a penalty or other remedy, or making an order, in relation to an offence or contravention to which this section applies.
+
+### 1 Title
+This Act is the Securities Markets Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on 1 May 2011.
+
+**Transitional provisions**
+
+### 49 Transitional provisions for conduct rules and registered exchanges
+(1) Any conduct rules that had effect under section 36I of the principal Act immediately before the commencement of this section—
+  (a) continue to have effect under section 36I of the principal Act (as substituted by this Act); and
+  (b) must be treated as market rules that have been approved under section 36L of the principal Act (as substituted by this Act).
+(2) Any reference in an enactment, proceedings, or other thing (whether express or implied) to conduct rules must be read as a reference to market rules.
+(3) NZX Limited continues to be a registered exchange under the principal Act (as amended by this Act), holding a market registration for its NZSX, NZDX, and NZAX markets (without the need for any further notice of market registration).
+
+### 50 Transitional provision for authorised futures exchanges
+(1) In this section,—
+  - **existing authorisation** means a declaration of authorisation that was in effect under section 37(8) of the principal Act immediately before the date on which this section comes into force
+  - **transitional period** means, in relation to each existing authorisation, the period commencing on the date on which this section comes into force and ending on the sooner of—
+    (a) the revocation or variation of the existing authorisation (whether or not following a review under this section):
+    (b) the date of publication of a notice confirming the existing authorisation under subsection (4).
+(2) During the transitional period for each existing authorisation,—
+  (a) the authorised futures exchange under the existing authorisation continues to be an authorised futures exchange under section 37(8) of the principal Act (as amended by this Act); and
+  (b) each futures market operated in New Zealand under the existing authorisation must be treated as being an authorised futures market for the purposes of the principal Act.
+(3) The FMA must carry out a review of each existing authorisation to—
+  (a) determine the futures market or markets to which the authorisation should apply; and
+  (b) ensure that it is satisfied that—
+    (i) the operation of each of those futures markets by the authorised futures exchange will be subject to requirements and supervision under the existing or proposed terms and conditions of the authorisation or the law and regulatory requirements of another jurisdiction (if the exchange is also authorised to conduct the market in another jurisdiction), or both; and
+    (ii) those requirements and that supervision are likely to have at least equivalent outcomes, in terms of the degree of integrity and effectiveness of the market and the confidence of investors in the market, to the likely outcomes for that market if the market were registered under section 36F of the principal Act; and
+  (c) review any other matters it thinks fit.
+(4) The FMA must, after completing each review,—
+  (a) vary, revoke, or revoke and replace the existing authorisation under section 37(10) of the principal Act; or
+  (b) publish a notice in the Gazette confirming the existing authorisation.
+(5) The FMA must use its best endeavours to complete the reviews no later than 9 months after the date on which this section comes into force.
+
+### 51 Exemptions continue in force
+(1) This section applies to every exemption granted under section 48 of the principal Act that is in force immediately before the commencement of this section.
+(2) The exemption—
+  (a) continues in force as if it were granted under section 48 of the principal Act (as substituted by this Act); and
+  (b) may be amended or revoked as if granted under that section.
