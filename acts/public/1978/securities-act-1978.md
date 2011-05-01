@@ -1,7 +1,7 @@
 # Securities Act 1978
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-05-01_
 
-> An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
+> An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Securities Act 1978.
@@ -16,22 +16,19 @@ _Consolidation as at 2011-01-01_
     (b) persons who are partners to whom the Partnership Act 1908 applies; or
     (c) bodies corporate that consist substantially of the same members or shareholders or that are under the control of the same persons; or
     (d) a body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25 percent or more of the voting securities of the body corporate; or
-    (e) a body corporate and a person who is a director of the body corporate:
+    (e) a body corporate and a person who is a director of the body corporate
   - **authorised advertisement** has the meaning assigned to it by section 38 or section 38AA of this Act
   - **bonus bond** means a unit in an approved unit trust within the meaning of section 3(1) of the Finance Act (No 2) 1990
   - **building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
   - **chattel** includes livestock and emissions units, but does not include a book debt or negotiable instrument
   - **civil liability event** has the meaning set out in section 55B
-  - **Commission** —
-    (a) means the Securities Commission established under Part 1; or
-    (b) for the purposes of determining any matter or class of matter specified in a determination under section 14B, means the division of the Commission specified in the determination in accordance with section 14D(1)(a).
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
   - **contributory mortgage** means a mortgage of land that—and, for the purposes of this definition, money owing to not more than 5 persons as joint tenants shall be deemed to be owed to one person
     (a) secures money owing to 2 or more persons or to a nominee on behalf of 2 or more persons, whether or not the mortgage originally secured money owing to only one person; or
     (b) has the same priority in respect of the land as another mortgage or mortgages of that land;—
   - **contributory mortgage broker** means a person (not being a mortgagor under the mortgage or any other person to whom or for whose benefit any money is lent in consideration for the mortgage given by the mortgagor) who—
     (a) offers an interest in a contributory mortgage to the public for subscription; or
-    (b) manages interests in a contributory mortgage, being interests that have been offered to the public for subscription, whether or not that person holds beneficially any interest in that mortgage:
+    (b) manages interests in a contributory mortgage, being interests that have been offered to the public for subscription, whether or not that person holds beneficially any interest in that mortgage
   - **contributory scheme** means any scheme or arrangement that, in substance and irrespective of the form thereof, involves the investment of money in such circumstances that—but does not include such a scheme or arrangement if the number of investors therein does not exceed 5, and neither a manager of the scheme nor any associated person is a manager of any other such scheme or arrangement
     (a) the investor acquires or may acquire an interest in or right in respect of property; and
     (b) pursuant to the terms of investment that interest or right will or may be used or exercised in conjunction with any other interest in or right in respect of property acquired in like circumstances, whether at the same time or not;—
@@ -41,8 +38,8 @@ _Consolidation as at 2011-01-01_
     (b) a company registered as a co-operative dairy company under the Co-operative Dairy Companies Act 1949 or Part 3 of the Co-operative Companies Act 1996; or
     (c) a company registered as a co-operative freezing company under the Co-operative Freezing Companies Act 1960; or
     (d) a company registered as a co-operative forestry company under the Co-operative Forestry Companies Act 1978
-  - **Court** means, in relation to any matter, the Court before which the matter is to be determined.
-  - **The Crown** includes a Government department
+  - **court** means, in relation to any matter, the court before which the matter is to be determined.
+  - **the Crown** includes a Government department
   - **date of a prospectus** means the date specified on a prospectus pursuant to section 39(1)(a)
   - **date of a registered prospectus** means the date specified on a registered prospectus pursuant to section 39(1)(a)
   - **date of a statement of financial position** or means the date as at which the statement of affairs contained in the statement of financial position or interim statement of financial position has been drawn up
@@ -51,14 +48,14 @@ _Consolidation as at 2011-01-01_
     (b) an interest or right that is declared by regulations to be a debt security for the purposes of this Act; and
     (c) a renewal or variation of the terms or conditions of any such interest or right or of a security referred to in paragraph (a) or paragraph (b) of this definition;—
     (d) an interest in a contributory mortgage where the interest is offered by a contributory mortgage broker; or
-    (e) any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act:
-  - **delayed allotment order** means an order made by the Commission under section 44A(2) or (3) that delays the date of allotment of a security that is offered in a simplified disclosure prospectus
-  - **Director** means—
+    (e) any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act
+  - **delayed allotment order** means an order made by the FMA under section 44A(2) or (3) that delays the date of allotment of a security that is offered in a simplified disclosure prospectus
+  - **director** means—
     (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
     (b) in relation to a partnership (other than a special partnership or limited partnership), any partner:
     (c) in relation to a special partnership or limited partnership, any general partner:
     (d) in relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
-    (e) in relation to any other person, that person:
+    (e) in relation to any other person, that person
   - **disclosure obligation** means—
     (a) the requirements of the continuous disclosure provisions as defined in section 19D of the Securities Markets Act 1988; and
     (b) any obligation that—
@@ -67,11 +64,11 @@ _Consolidation as at 2011-01-01_
       (iii) is specified in the regulations
   - **distribute** includes—
     (a) make available, publish, and circulate; and
-    (b) communicate by letter, newspaper, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication:
+    (b) communicate by letter, newspaper, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication
   - **document** means any record of information; and includes—
     (a) anything on which there is writing or any image; and
     (b) information recorded by means of any article or device (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device; and
-    (c) material subsequently derived from information recorded by that means.
+    (c) material subsequently derived from information recorded by that means
   - **emissions units** means—
     (a) units as defined in section 4(1) of the Climate Change Response Act 2002; and
     (b) personal property that—
@@ -86,9 +83,10 @@ _Consolidation as at 2011-01-01_
     (b) a security that is declared by regulations to be an equity security for the purposes of this Act; and
     (c) a renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) or paragraph (b) of this definition;—
   - **expert** means any person who holds himself or herself out to be of a profession or calling that gives authority to a statement made by him or her; but does not include a person acting in his or her capacity as an auditor or as a director or officer of a body
-  - **Government department** includes—
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **government department** includes—
     (a) the Maori Trustee; and
-    (b) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by section 52 of the Public Trust Act 2001.
+    (b) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by section 52 of the Public Trust Act 2001
   - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
   - **interest in a superannuation scheme** means an interest or right to participate in any capital, assets, earnings, or other property of a superannuation scheme; and includes—but does not include any such interest or right, or a security referred to in paragraph (b) of this definition, that is declared by regulations not to be an interest in a superannuation scheme for the purposes of this Act
     (a) any interest or right that is declared by regulations to be an interest in a superannuation scheme for the purposes of this Act; and
@@ -100,7 +98,10 @@ _Consolidation as at 2011-01-01_
     (c) in relation to an interest in a contributory mortgage offered by a contributory mortgage broker, or to an advertisement that relates to such an interest, the contributory mortgage broker:
     (d) in relation to a unit in a unit trust, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such a unit, the manager:
     (e) in relation to a life insurance policy, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to a life insurance policy, the life insurance company that is liable under the policy:
-    (f) in relation to an interest in a superannuation scheme, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such an interest, the superannuation trustee of the scheme:
+    (f) in relation to an interest in a superannuation scheme (including a restricted KiwiSaver scheme but not any other KiwiSaver scheme), or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such an interest, the superannuation trustee of the scheme:
+    (g) in relation to an interest in a KiwiSaver scheme other than a restricted KiwiSaver scheme, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such an interest, the manager of the scheme
+  - **KiwiSaver scheme** has the same meaning as in section 4(1) of the KiwiSaver Act 2006
+  - **KiwiSaver trustee** means a person who is designated or appointed as trustee of a KiwiSaver scheme other than a restricted scheme, or the successor of that person
   - **life insurance company** means any person or association of persons, whether incorporated or unincorporated, which, in the course of business issues, or is liable under, life insurance policies
   - **life insurance policy** means a policy of life or endowment insurance, or a policy securing an annuity; and includes—but does not include any such policy, or a security referred to in paragraph (b) of this definition, or a term life insurance policy (within the meaning of regulations) that is declared by regulations not to be a life insurance policy for the purposes of this Act
     (a) a policy of insurance that is declared by regulations to be a life insurance policy for the purposes of this Act; and
@@ -113,20 +114,20 @@ _Consolidation as at 2011-01-01_
         (B) with a substantial obligation to security holders to act in the continuing administration or management of the scheme to which the security relates; or
         (C) to whom both subsubparagraphs (A) and (B) apply; but
       (ii) does not include a person who is a participatory security trustee in relation to the security if the person acts in the continuing administration or management of the scheme to which the security relates solely in the person's capacity as a participatory security trustee; and
-    (b) in relation to a unit in a unit trust, has the same meaning as in section 2(1) of the Unit Trusts Act 1960:
+    (b) in relation to a unit in a unit trust, has the same meaning as in section 2(1) of the Unit Trusts Act 1960; and
+    (c) in relation to an interest in a KiwiSaver scheme other than a restricted KiwiSaver scheme, has the same meaning as in section 4(1) of the KiwiSaver Act 2006
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **money** includes money's worth
   - **offer** includes an invitation, and any proposal or invitation to make an offer; and has a corresponding meaning
   - **offered in a simplified disclosure prospectus** means an offer of securities to the public for subscription that is made—
     (a) by or on behalf of an issuer; and
     (b) in, or accompanied by, a simplified disclosure prospectus
-  - **overseas regulator** means a body in another country with functions corresponding to those of the Commission
   - **participatory security** means any security other than—
     (a) an equity security; or
     (b) a debt security; or
     (c) a unit in a unit trust; or
     (d) an interest in a superannuation scheme; or
-    (e) a life insurance policy:
+    (e) a life insurance policy
   - **participatory security trustee** means a person appointed as a trustee in respect of participatory securities
   - **person** includes a corporation sole, a company or other body corporate (whether incorporated in New Zealand or elsewhere), an unincorporated body of persons, a public body, and a Government department
   - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
@@ -136,49 +137,47 @@ _Consolidation as at 2011-01-01_
     (a) a director of the body; or
     (b) a person in accordance with whose directions or instructions any or all of the directors of the body are accustomed to act; or
     (c) in relation to any particular requirement of this Act, any person whose function it is, or who has undertaken, to ensure that that requirement is complied with by the body:
-      Provided that for the purposes of this Act, a person shall not be regarded as a person in accordance with whose directions or instructions any or all of the directors of a body are accustomed to act by reason only that the directors act on advice given by him or her solely in a professional capacity:
-  - **prohibition order** means an order made by the Commission under section 44AE(1) that prohibits a person from using a simplified disclosure prospectus
+      provided that for the purposes of this Act, a person shall not be regarded as a person in accordance with whose directions or instructions any or all of the directors of a body are accustomed to act by reason only that the directors act on advice given by him or her solely in a professional capacity
+  - **prohibition order** means an order made by the FMA under section 44AE(1) that prohibits a person from using a simplified disclosure prospectus
   - **promoter** , in relation to securities offered to the public for subscription,—
     (a) means a person who is instrumental in the formulation of a plan or programme pursuant to which the securities are offered to the public; and
     (b) where a body corporate is a promoter, includes every person who is a director thereof; but
-    (c) does not include a director or officer of the issuer of the securities or a person acting solely in his or her professional capacity:
+    (c) does not include a director or officer of the issuer of the securities or a person acting solely in his or her professional capacity
   - **prospective investor** , in relation to a security, means any person who, under the terms of issue of the security, is eligible to subscribe for the security
-  - **prospectus** means a document that contains an offer of securities to the public for subscription, and that is intended to be, or has been, delivered to the Registrar for registration under section 42 of this Act:
+  - **prospectus** means a document that contains an offer of securities to the public for subscription, and that is intended to be, or has been, delivered to the Registrar for registration under section 42 of this Act
   - **qualified auditor** has the meaning given to it by section 2C of this Act
   - **receive** , in relation to a document, information, or other matter, includes receive by any form of electronic or other means of communication in a manner that enables the recipient to readily store the document, information, or other matter in a permanent form and, with or without the aid of any equipment, to retrieve and read it
   - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
-  - **registered prospectus** means—
-    (a) except where paragraph (b) of this definition applies—
-      (i) a prospectus that has been registered under section 42 of this Act, and the registration of which has not been cancelled or suspended under section 44 of this Act; or
-      (ii) a document that, except in the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to such a prospectus:
-    (b) where a memorandum of amendments to a prospectus of the kind specified in paragraph (a)(i) of this definition has been registered under section 43 of this Act, and the registration of that prospectus as so amended has not been cancelled or suspended under section 44 of this Act—
+  - **registered prospectus** means,—
+    (a) except if paragraph (b) applies,—
+      (i) a prospectus that has been registered under section 42 and the registration of which has not been cancelled under section 43G(2)(b); or
+      (ii) a document that, except in the matters specified in section 41(1), is identical to such a prospectus:
+    (b) if an instrument that amends a prospectus of the kind specified in paragraph (a)(i) has been registered under section 43, and the registration of that prospectus as so amended has not been cancelled under section 43G(2)(b),—
       (i) that prospectus as so amended; or
-      (ii) a document that, except for the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to that prospectus as so amended:
-  - **Registrar** means,—
-    (a) in sections 67A to 68B , 68G, 68I, and 68K, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
-    (b) in all other sections of this Act, the Registrar of Companies appointed in accordance with the Companies Act 1993 and, pursuant to sections 357 and 358 of that Act, includes every Deputy Registrar of Companies, District Registrar of Companies, and Assistant Registrar of Companies appointed in accordance with that Act:
+      (ii) a document that, except for the matters specified in section 41(1), is identical to that prospectus as so amended
+  - **Registrar** means the Registrar of Financial Service Providers under the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **regulations** means regulations made under section 70 of this Act
   - **relative** has the same meaning as in the Income Tax Act 2007
+  - **restricted KiwiSaver scheme** and have the same meaning as in section 4(1) of the KiwiSaver Act 2006
   - **scheme** means,—
     (a) in relation to a participatory security, the arrangement or scheme to which the security relates; and
     (b) in relation to an interest in a superannuation scheme, that superannuation scheme; and
-    (c) in relation to a unit in a unit trust, that unit trust:
+    (c) in relation to a unit in a unit trust, that unit trust
   - **security** has the meaning set out in section 2D of this Act
   - **security holder** , in relation to a security offered to the public, means—
     (a) in the case of a bearer security or a security to which section 51 of this Act does not apply, the holder of that security; or
-    (b) in the case of any other security, the person who is registered as the holder of the security in a register kept pursuant to section 51 of this Act:
+    (b) in the case of any other security, the person who is registered as the holder of the security in a register kept pursuant to section 51 of this Act
   - **send** , in relation to a document, information, or other matter, includes send by electronic or other means that enables the recipient to readily store the matter in a permanent and legible form
   - **simplified disclosure prospectus** means a registered prospectus that may be used only if—
     (a) the issuer is subject to a disclosure obligation; and
     (b) the regulations provide for the use of a simplified disclosure prospectus by a person who is subject to that type of disclosure obligation
   - **statutory supervisor** means a person appointed as a statutory supervisor in respect of participatory securities for the purposes of, and in accordance with, this Act
   - **subscribe** includes purchase and contribute to, whether by way of cash or otherwise; and and have corresponding meanings
-  - **Superannuation scheme** means a registered superannuation scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989
-  - **Superannuation trustee** has the same meaning as the term trustees has in the Superannuation Schemes Act 1989
-  - **Takeovers Panel** means the Takeovers Panel established under Part 1 of the Takeovers Act 1993.
+  - **superannuation scheme** means a registered superannuation scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989
+  - **superannuation trustee** has the same meaning as the term trustees has in the Superannuation Schemes Act 1989
   - **trust deed** means a trust deed required by section 33(2)(a) of this Act
   - **trustee** means a person appointed as a trustee in respect of debt securities for the purposes of, and in accordance with, this Act
-  - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act of the Parliament of New Zealand to administer the estates of deceased persons and other trust estates.
+  - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act of the Parliament of New Zealand to administer the estates of deceased persons and other trust estates
   - **unit** means an interest or right to participate in any capital, assets, earnings, or other property of a unit trust; and includes—but does not include any such interest or right or a security referred to in paragraph (b) of this definition that is declared by regulations not to be a unit for the purposes of this Act
     (a) any interest or right that is declared by regulations to be a unit for the purposes of this Act; and
     (b) any renewal or variation of the terms or conditions of any such interest or right;—
@@ -188,7 +187,7 @@ _Consolidation as at 2011-01-01_
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with the 25th day of December in any year and ending with the 2nd day of January in the following year; and
     (c) if the 1st day of January in any year falls on a Friday, the following Monday; and
-    (d) if the 1st day of January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday:
+    (d) if the 1st day of January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday
   - **writing** includes—and has a corresponding meaning.
     (a) the recording of words in a permanent and legible form; and
     (b) the display of words by any form of electronic or other means of communication in a manner that enables the words to be readily stored in a permanent form and, with or without the aid of any equipment, to be retrieved and read;—
@@ -203,7 +202,8 @@ _Consolidation as at 2011-01-01_
   (c) that is to be, or has been, distributed to a person.
 (2) The following are also advertisements:
   (a) a statement relating to an interest in a contributory mortgage required to be distributed to a person by regulations:
-  (b) an investment statement.
+  (b) an investment statement:
+  (c) documents, information, and other matters required to be made publicly available under section 54C.
 (3) None of the following is an advertisement:
   (a) a registered prospectus:
   (b)
@@ -249,7 +249,7 @@ _Consolidation as at 2011-01-01_
   (d) an interest in a superannuation scheme; and
   (e) a life insurance policy; and
   (f) any interest or right that is declared by regulations to be a security for the purposes of this Act; and
-  (g) Any renewal or variation of the terms or conditions of any such interest or right;—
+  (g) any renewal or variation of the terms or conditions of any such interest or right;—
 (2) Where the terms of a security require or allow the subscriber to pay separate amounts of money at different times, each such payment shall, for the purposes of this Act, be treated as payment for the same security as each other payment.
 
 ### 3 Construction of references to offering securities to the public
@@ -304,10 +304,12 @@ _Consolidation as at 2011-01-01_
   (i) an interest in the Government Superannuation Fund; or
   (j)
   (k) an interest in a retirement village that is an interest exempted from this Act by section 107(1) of the Retirement Villages Act 2003.
-(2)
+(2) An exemption under subsection (1) does not apply—
+  (a) in the circumstances prescribed by regulations made under section 70AAA; or
+  (b) if any additional requirements prescribed by regulations made under section 70AAA are not satisfied.
 (2A)
 (2B)
-(2C) Nothing in sections 33(2), 37, 37A(1)(c) and (d), 39 to 44, 45 to 52, 54, and 54B(3) of this Act shall apply in respect of any debt security the issuer of which is a registered bank.
+(2C) Nothing in sections 33(2), 37, 37A(1)(c) and (d), 39 to 43B, 45 to 52, 54, and 54B(3) of this Act shall apply in respect of any debt security the issuer of which is a registered bank.
 (2CA) Nothing in Part 2 (except sections 38B and 58) or the regulations applies to an advertisement made by or on behalf of an issuer that—
   (a) states that—
     (i) the issuer is considering making an offer of securities to the public; and
@@ -368,20 +370,20 @@ _Consolidation as at 2011-01-01_
   (a) amending the amounts of minimum net assets and minimum annual gross income that apply under subsection (2CD):
   (b) prescribing how net assets referred to in subsection (2CD) are to be determined and valued, either generally or in specified circumstances:
   (c) prescribing how gross income referred to in subsection (2CD) is to be calculated, either generally or in specified circumstances.
-(2D) Nothing in sections 37A(1)(a) and 38C to 38F of this Act shall apply in respect of—
+(2D) Nothing in sections 37A(1)(a) and 38C to 38E and 43F of this Act shall apply in respect of—
   (a) an interest in a call debt security as defined in regulations made under this Act; or
   (b) an interest in a call building society share as defined in regulations made under this Act; or
   (c) an interest in a bonus bond.
 (2E)
 (2F)
-(3) Nothing in sections 33(2), 33(3), 34 to 37, 37A(1)(c) and (d) and (2), 39 to 44, 44B to 54, and 57A to 69 of this Act shall apply in respect of any security the issuer of which is—
+(3) Nothing in sections 33(2), 33(3), 34 to 37, 37A(1)(c) and (d) and (2), 39 to 43B, 44B to 54, and 57A to 65F of this Act shall apply in respect of any security the issuer of which is—
   (a) The Crown; or
   (b)
   (c) The National Provident Fund Board established by the National Provident Fund Act 1950; or
   (d) The Reserve Bank of New Zealand constituted under the Reserve Bank of New Zealand Act 1964; or
   (e) Housing New Zealand Corporation established by the Housing Corporation Act 1974; or
   (f)
-(3A) Nothing in sections 37, 37A(1)(c) and (d) and (1A), and 39 to 44 applies in respect of a debt security the issuer of which is a local authority.
+(3A) Nothing in sections 37, 37A(1)(c) and (d) and (1A), and 39 to 43B applies in respect of a debt security the issuer of which is a local authority.
 (3B) The exemption in subsection (3A) is subject to the conditions that—
   (a) the investment statement relating to the debt securities refers to the most recent audited financial statements, and audited consolidated financial statements, for the local authority; and
   (b) if the date of allotment of the debt securities would be more than 9 months after the balance date of the financial statements referred to in paragraph (a), the investment statement relating to the debt securities refers to interim financial statements, and interim consolidated financial statements, for the local authority that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 5(1) of the Local Government Act 2002) for a period beginning on the day after that balance date and ending on a date that is not more than 9 months later; and
@@ -389,20 +391,16 @@ _Consolidation as at 2011-01-01_
   (d) the investment statement relating to the debt securities contains, unless the debt securities are expressly guaranteed by the Crown under the Public Finance Act 1989, a statement that the debt securities being offered are not guaranteed by the Crown.
 (3C) The conditions in subsection (3B) apply despite anything to the contrary in any regulations made under this Act.
 (3D) The financial statements referred to in subsection (3B)(a) and (b) must, for the purposes of this Act, be treated as forming part of the investment statement relating to the debt securities.
-(4) Nothing in sections 6, 33(3), 37, 37A, 38C to 38F, 39 to 44, and 45 to 53 of this Act shall apply in respect of an interest in a contributory mortgage that is offered to the public for subscription by a contributory mortgage broker.
+(4) Nothing in sections 6, 33(3), 37, 37A, 38C to 38E, 39 to 43B, and 45 to 53 of this Act shall apply in respect of an interest in a contributory mortgage that is offered to the public for subscription by a contributory mortgage broker.
 (4A) Nothing in sections 33, 37, and 37A(1)(a) of this Act shall apply in respect of an adjustment under section HL 7(3) of the Income Tax Act 2004 of the portfolio investor interest of an investor by a portfolio investment entity.
 (4B) The exemption in subsection (4A) does not apply if the portfolio investment entity has under section HL 7(4) of the Income Tax Act 2004 offered the investor a choice of the method of adjustment.
-(5) The Commission may, in its discretion and upon such terms and conditions (if any) as it thinks fit, by notice in the Gazette, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—and may in like manner vary or revoke any such exemption. Every such exemption shall have effect according to its tenor.
-  (a) Part 2 of this Act; or
-  (b) any regulations made under section 70(1) of this Act; or
-  (c)
-  (d)
-(5A) The Commission's reasons for granting an exemption under subsection (5) (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-(5B) However, the Commission may defer notifying or not notify the reasons for granting an exemption if the Commission is satisfied that it is proper to do so on the ground of commercial confidentiality.
-(6) Nothing in Part 5 limits subsection (5).
+(5)
+(5A)
+(5B)
+(6)
 
 ### 5A Exemption for employer superannuation schemes
-Nothing in sections 37, 37A(1)(c), and 39 to 44 applies to any interest in a superannuation scheme that is an employer superannuation scheme.
+Nothing in sections 37, 37A(1)(c), and 39 to 43B applies to any interest in a superannuation scheme that is an employer superannuation scheme.
 
 ### 5B Conditions of exemption for employer superannuation schemes
 The exemption in section 5A is subject to the conditions that—
@@ -425,14 +423,16 @@ The exemption in section 5A is subject to the conditions that—
       (i) being an employee of that employer or an employee of an associated person of that employer:
       (ii) being a relative, spouse, partner, or dependant of a person who is an employee of that employer or an employee of an associated person of that employer; and
     (b) in respect of which that employer is required to incur in any financial year costs (by way of contributions, expense payments, or both) at least equal to the amount of the costs of administering the scheme in respect of that financial year that are not met in that year from any excess in the value of the scheme's assets over the value of the members' accrued benefits
-  - **manager** means an administration manager or an investment manager (as those terms are defined in section 2(1) of the Superannuation Schemes Act 1989)
-  - **partner** means a civil union partner or de facto partner.
+  - **manager** ,—
+    (a) in relation to a KiwiSaver scheme other than a restricted scheme, has the same meaning as in section 4(1) of the KiwiSaver Act 2006; and
+    (b) in relation to any other scheme, means an administration manager or an investment manager (as those terms are defined in section 2(1) of the Superannuation Schemes Act 1989)
+  - **partner** means a civil union partner or de facto partner
   - **specified date** means, in relation to an annual report for a financial year, the date on which the financial year ends
   - **spouse** has the same meaning as in the Property (Relationships) Act 1976.
 (2) For the purposes of the definition of employer superannuation scheme, the costs of administering a scheme do not include costs that are directly attributable to the management of the investments of the scheme.
 
 ### 6 Previously allotted securities
-(1) Subject to this section, nothing in sections 33, 34, 37 to 38A, 38C to 44, and 44B to 59 of this Act shall apply in respect of a security that has previously been allotted.
+(1) Subject to this section, nothing in sections 33, 34, 37 to 38A, 38C to 43B, and 44B to 59 of this Act shall apply in respect of a security that has previously been allotted.
 (2) All the provisions of this Act shall apply in respect of a security that has previously been allotted (whether in New Zealand or elsewhere) if the security was originally allotted with a view to its being offered for sale to the public in New Zealand and the security has not previously been offered for sale to the public in New Zealand or to the public outside New Zealand under an application regime under Part 5.
 (2AA) A provision of Part 2 or the Regulations applies to a previously allotted security that is offered to a person outside New Zealand if—
   (a) the provision applies to the security under section 77; and
@@ -454,7 +454,7 @@ The exemption in section 5A is subject to the conditions that—
 
 ### 6A Term implied in certain offers of previously allotted securities
 (1) This section applies to a security—
-  (a) that is exempted from the application of sections 33, 34, 37 to 38A, 38C to 44, and 44B to 59 of this Act by virtue of section 6(1) of this Act; and
+  (a) that is exempted from the application of sections 33, 34, 37 to 38A, 38C to 43B, and 44B to 59 of this Act by virtue of section 6(1) of this Act; and
   (b) that is not a security to which any of subsections (2), (2AA), (2A), or (3) of section 6of this Act applies; and
   (c) that is offered to the public.
 (2) Subject to subsection (3) of this section, it is an implied term of every offer of a security to which this section applies, that, except to the extent disclosed for the purposes of the offer of the security, the offeror has no information in relation to the original allotter that is not publicly available and that would, or would be likely to, affect materially the price of the security if it were so disclosed.
@@ -486,44 +486,19 @@ This Act shall bind the Crown.
 ## Part 1 — Securities Commission
 
 ### 9 Securities Commission
-(1) There is hereby established a Commission to be called the Securities Commission.
-(2) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 10 Functions of Commission
-(1) The functions of the Commission shall be—
-  (a) to perform the functions and duties conferred or imposed on it by or under this Act or any other enactment; and
-  (b) to keep under review the law relating to bodies corporate, securities, financial advisers, and unincorporated issuers of securities, and to recommend to the Minister any changes thereto that it considers necessary; and
-  (c) to keep under review practices relating to securities and financial advisers, and to comment thereon to any appropriate body; and
-  (ca) to co-operate with any overseas regulator and for that purpose, but without limiting this function, to communicate, or make arrangements for communicating, information obtained by the Commission in the performance of its functions and powers, confidential or not, to that overseas regulator which the Commission considers may assist that overseas regulator in the performance of its functions; and
-  (caa) to keep under review activities on securities markets, and to comment on those activities to the appropriate body; and
-  (cab) on the Minister's request, to advise the Minister on the conduct rules, or amendments to those rules, proposed by securities exchanges; and.
-  (d) to promote public understanding of the law and practice relating to securities and the law and practice relating to financial advisers; and
-  (da) to keep under review the law and practices relating to settlement systems (as defined in Part 5C of the Reserve Bank of New Zealand Act 1989, but not including any designated settlement system that is declared to be a pure payment system in accordance with section 156N(3)(d)) and to perform the functions and duties, and exercise the powers, given to it under that Part; and
-  (e) by agreement with the Takeovers Panel, to provide administrative and support services to the Panel.
-(2) Except as expressly provided otherwise in this or any other Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
-  (a) this Act; and
-  (b) any other Act that expressly provides for the functions, powers or duties of the Commission (other than the Crown Entities Act 2004).
+[Repealed]
 
 ### 11 Membership of Commission
-(1) The Commission must consist of not less than 5, and not more than 11, members, of whom at least 1 must be a barrister or solicitor of at least 7 years' practice.
-(2) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
-(3) One member of the Commission must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson.
-(3A) The chairperson and any deputy chairperson may only be removed from office as chairperson or deputy chairperson for just cause.
-(3B) In other respects, clauses 1(2) and (3) and 4(2) and (3) of Schedule 5 of the Crown Entities Act 2004 apply to the appointment and removal of the chairperson and any deputy chairperson of the Commission.
-(3C) One of the members must be appointed by the Governor-General as Commissioner for Financial Advisers under section 79(3) of the Financial Advisers Act 2008.
-(4) The Minister must not recommend a person for appointment as a member of the Commission, unless, in the opinion of the Minister, the person is qualified for appointment, having regard to the functions and powers of the Commission, by virtue of the person's knowledge of, or experience in, industry, commerce, economics, law, accountancy, public administration, or securities.
-(5) Subsection (4) does not limit section 29 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 12 Appointment of member to exercise powers of Chairperson
 [Repealed]
 
 ### 13 Term of office of members
-(1)
-(2)
-(3)
-(4) Notwithstanding that the term of office of a member of the Commission has expired or that a member of the Commission has resigned his or her office, he or she shall be deemed to continue a member of the Commission for the purpose of deciding any inquiry, application, or matter that was wholly heard before the expiration of his or her term of office or before his or her resignation took effect, as the case may be.
-(5) Subsection (4) applies despite section 45 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 14 Remuneration of members
 [Repealed]
@@ -532,60 +507,31 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 14B Commission may act by divisions
-(1) The Commission or Chairperson may determine that the powers of the Commission in relation to any matter or class of matters may be exercised by separate divisions of the Commission.
-(2) The Commission or Chairperson may revoke or amend a determination made under subsection (1).
-(3) Every determination (or revocation or amendment of a determination) must be recorded in writing and signed by 3 members or the Chairperson.
-(4) The powers in this section are an exception to clause 14 of Schedule 5 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 14C Membership, chairperson, meetings, and resolutions of division
-(1) Each division consists of the members who are assigned to it for the time being by the Commission or Chairperson.
-(2) Each division must have at least 3 members.
-(3) If the members assigned to a division do not include the Chairperson, the Commission or Chairperson must nominate 1 of those members as chairperson of the division.
-(4)
-(5)
+[Repealed]
 
 ### 14D Powers of division
-(1) For the purposes of determining any matter or class of matters specified in a determination under section 14B,—
-  (a) the Commission consists of the division of the Commission specified in the determination; and
-  (b) the powers of that division are not affected by any changes or vacancies in its membership.
-(2) A division of the Commission may exercise powers of the Commission even though another division of the Commission is exercising powers of the Commission at the same time.
+[Repealed]
 
 ### 15 Meetings of Commission
-(1)
-(2)
-(2A)
-(3)
-(4)
-(5) At any meeting of the Commission, the quorum necessary for the transaction of business shall be 3 members.
-(6) Subsection (5) applies despite clause 9(1) and (2) of Schedule 5 of the Crown Entities Act 2004.
-(7)
+[Repealed]
 
 ### 15A Completion of proceedings where member unable to attend meeting
-(1) Despite section 15, if—the remaining 2 members of the Commission constitute a quorum for the purposes of completing the proceeding, inquiry, or transaction of business.
-  (a) a meeting of the Commission with 3 or more members commences any proceeding, inquiry, or the transaction of other business; and
-  (b) the number of those members able to attend any subsequent meeting is reduced to 2 as a result of illness, accident, or other unavoidable cause, or the expiration of a member's term, or the resignation or removal from office of a member,—
-(2) At a meeting of the Commission at which those 2 members are present, each of those members has a deliberative vote and, in the event of an equality of votes, the presiding member has a casting vote.
+[Repealed]
 
 ### 16 Assent to resolution without a meeting
-(1) A resolution in writing signed, or assented to in writing (whether sent by post, delivery, or electronic communication) by 3 members of the Commission shall be as valid and effectual as if it had been passed at a meeting of the Commission duly called and constituted.
-(2) This section applies despite clause 13 of Schedule 5 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 17 General powers of Commission
 [Repealed]
 
 ### 17A Sharing of information with Takeovers Panel
-(1) The Commission may communicate to the Takeovers Panel any information that the Commission—
-  (a) holds in relation to the exercise of the Commission's powers or the performance of its functions and duties; and
-  (b) considers may assist the Takeovers Panel in the exercise of the Panel's powers or the performance of its functions and duties.
-(2) The Commission may use any information communicated to it by the Takeovers Panel under section 15A of the Takeovers Act 1993 in the Commission's exercise of its powers or the performance of its functions and duties.
-(3) This section applies despite anything to the contrary in any enactment, contract, deed, or document.
+[Repealed]
 
 ### 17B Sharing of information with Commerce Commission
-(1) The Commission may communicate to the Commerce Commission any information that the Commission—
-  (a) holds in relation to the exercise of the Commission's powers, or the performance of its functions and duties; and
-  (b) considers may assist the Commerce Commission in the exercise of the Commerce Commission's powers, or the performance of its functions and duties, in respect of the Fair Trading Act 1986.
-(2) The Commission may use any information communicated to it by the Commerce Commission under section 48A of the Fair Trading Act 1986 in the Commission's exercise of its powers, or the performance of its functions and duties.
-(3) This section applies despite anything to the contrary in any enactment, contract, deed, or document.
+[Repealed]
 
 ### 18 Powers of Commission to take evidence
 [Repealed]
@@ -603,11 +549,7 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 22 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowance for any of the full-time members of the Commission, sums by way of subsidy may from time to time be paid into any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
-(1A) If the question arises as to whether or not any member of the Commission is a full-time member for the purposes of subsection (1) of this section, that question shall be determined by the Minister, whose decision shall be final.
-(2) Notwithstanding anything in this Act, any person who immediately before becoming an officer or employee or member of the Commission is a contributor to the Government Superannuation Fund under Part 2 of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as he or she continues to be an officer or employee or member of the Commission; and that Act shall apply to him or her in all respects as if his or her service as such an officer or employee or member were Government service.
-(3) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (2) of this section shall entitle any such person to become a contributor to the Government Superannuation Fund after he has once ceased to be a contributor.
-(4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (2) of this section, to a person who is in the service of the Commission (whether as an officer or an employee or as a member) and who is a contributor to the Government Superannuation Fund, the term controlling authority in relation to any such person means the Commission.
+[Repealed]
 
 ### 23 Application of certain acts to members and staff of Commission
 [Repealed]
@@ -622,32 +564,16 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 27 Restrictions on delegation
-(1) The Commission may not delegate the powers in—
-  (a) sections 5(5), 38B, 38F, 44, 44B(2), 67, 69, and 69N:
-  (b) sections 34, 36ZO, 48, 48C, and subpart 2 of Part 5, of the Securities Markets Act 1988.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
+[Repealed]
 
 ### 28 Protection from liability for Commission and members, officers, and employees
-(1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that it acted in bad faith or without reasonable care.
-(2) No proceedings, civil or criminal, lie against any member of the Commission, or any officer or employee of the Commission, or any member of a committee of the Commission, for anything that person may do or say or fail to do or say in the course of the operations of the Commission, unless it is shown by the Commission that the person acted in bad faith.
-(2A) Section 59(3) of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown that the person acted in bad faith.
-(3)
-(4)
-(5) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
-(5A) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
-(5B) This section contains an exception to section 121 of the Crown Entities Act 2004.
-(6)
-(7) For the purposes of clause 3 of Part 2 of Schedule 1 to the Defamation Act 1992, any report or comment made by the Commission in the course of the exercise or intended exercise of its functions shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+[Repealed]
 
 ### 28A Commission may publish reports
-(1) Subject to subsection (2) of this section the Commission may publish any report or comment made by the Commission in the course of the exercise or intended exercise of its functions.
-(2) Notwithstanding subsection (1) of this section, the Commission shall not publish any report containing a recommendation made by it under section 10(b) of this Act.
+[Repealed]
 
 ### 29 Evidence of resolution of Commission
-In any proceedings for an offence against this Act, a certificate purporting to be signed by the Chairperson of the Commission for the time being and certifying that a copy of a resolution set out in, or attached to, the certificate was passed by the Commission on a date specified in the certificate shall be sufficient evidence, until the contrary is proved, that such a resolution was so passed by the Commission.
+[Repealed]
 
 ### 30 Annual reports
 [Repealed]
@@ -671,7 +597,7 @@ In any proceedings for an offence against this Act, a certificate purporting to 
 [Repealed]
 
 ### 31E Exemption from income tax
-The income of the Commission shall be exempt from income tax.
+[Repealed]
 
 ### 32 Offences
 [Repealed]
@@ -685,16 +611,18 @@ The income of the Commission shall be exempt from income tax.
   (c) the offer is made in, or accompanied by, a registered prospectus that complies with this Act and regulations.
 (2) No debt security shall be offered to the public for subscription, by or on behalf of an issuer, unless—
   (a) the issuer of the security has appointed a person as a trustee in respect of the security and both the issuer and that person have signed a trust deed relating to the security; and
+  (ab) the trust deed complies with this Act and the regulations; and
   (b) a copy of the trust deed has been registered by the Registrar pursuant to section 46 of this Act; and
   (c) where the provisions of the trust deed have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
 (3) No participatory security shall be offered to the public for subscription, by or on behalf of an issuer, unless—
   (a) the issuer of the security has appointed a person as a statutory supervisor in respect of the security and both the issuer and that person have signed a deed of participation relating to the security; and
+  (ab) the deed of participation complies with this Act and the regulations; and
   (b) a copy of the deed of participation has been registered by the Registrar pursuant to section 46 of this Act; and
   (c) where the provisions of the deed of participation have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
 
 ### 34 Restrictions on distribution of prospectuses
 (1) No registered prospectus shall be distributed by or on behalf of an issuer,—
-  (a) after it has been amended unless all the amendments have been incorporated in, or attached by way of memorandum to, every copy of the registered prospectus that is so distributed; or
+  (a) after it has been amended unless all the amendments have been incorporated in, or attached by way of an instrument to, every copy of the registered prospectus that is so distributed; or
   (b) if it is false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not it became so misleading as a result of a change in circumstances occurring after the date of the prospectus).
 (2) A registered prospectus shall not be distributed by or on behalf of an issuer unless it is accompanied by,—
   (a) if the registered prospectus refers to, but does not contain, financial statements registered under the Financial Reporting Act 1993, a copy of those financial statements; and
@@ -717,6 +645,7 @@ An issuer must ensure that subscriptions for securities offered to the public ar
 (1A) No allotment of a security that is offered in a simplified disclosure prospectus may be made—
   (a) by a person who is subject to a prohibition order while that order is in force; or
   (b) in contravention of section 44AD(1).
+(1B) No allotment of a security offered to the public for subscription may be made in contravention of section 43D(1), 43I(4), or 43K(5)(b).
 (2) No allotment shall be made of an equity security or a participatory security or a unit in an unit trust offered to the public for subscription unless the amount stated in the registered prospectus relating thereto as the minimum amount which, in the opinion of the directors of the issuer, must be raised by the issue of the securities in order to provide for the matters specified in regulations made under this Act, is subscribed, and that amount is paid to, and received by, the issuer within 4 months after the date of the registered prospectus; and, for the purposes of this subsection—
   (a) a sum shall be deemed to have been paid to, and received by, the issuer if a cheque for that sum is received in good faith by the issuer and the directors of the issuer have no reason to suspect that the cheque will not be paid:
   (b) the amount so stated in the registered prospectus shall be reckoned exclusively of any amount payable otherwise than in cash.
@@ -729,7 +658,7 @@ An issuer must ensure that subscriptions for securities offered to the public ar
   (a)
   (b) the subscriptions, together with such interest (if any) as has been earned thereon, are repaid to the subscribers as soon as reasonably practicable.
 (6) If any subscriptions to which this section applies are not so repaid within 2 months after the date on which the subscriptions were received by or on behalf of the issuer (or, in any case to which subsection (2) of this section applies, within 5 months after the date of the registered prospectus), the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions, together with interest at a rate prescribed from time to time by regulations made under this Act from the date on which the subscriptions were received by or on behalf of the issuer:
-  Provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
+  provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
 (7)
 
 **Relief orders in respect of section 37**
@@ -756,7 +685,7 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
   (c) the issuer, if the subscriber consents in writing to the making of the relief order; or
   (d) the issuer, if the security holder consents in writing to the making of the relief order; or
   (e) the issuer, if—
-    (i) the contravention of section 37 was caused by a failure to comply with a condition of an exemption granted under section 5(5) or provided under section 5(3A) or 5A; and
+    (i) the contravention of section 37 was caused by a failure to comply with a condition of an exemption granted under section 5(5) (as in force before its repeal) or under section 70B or of an exemption provided under section 5(3A) or 5A; and
     (ii) the issuer has given notice of that contravention to the subscriber in accordance with sections 37AE and 37AF; and
     (iii) the subscriber has not objected to the Court making a relief order by—
       (A) notifying the issuer in writing within 30 working days after the day on which the notice is given that the subscriber objects to the making of the relief order; and
@@ -770,13 +699,13 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
   (b) a notice that contains, or has attached to it, the following is sent by the issuer to the person:
     (i) any information that is necessary to enable a reasonable person to understand the nature and implications of the contravention that has occurred:
     (ii) a statement to the effect that the notice concerns the legal rights of the person and that, if there is anything about the person's legal rights that the person does not understand, then the person should seek legal advice before giving their consent to the making of a relief order:
-    (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption granted under section 5(5) or provided under section 5(3A) or 5A, if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
-    (iv) an investment statement relating to the security, unless an exemption from section 37A(1)(a) granted or provided under section 5 applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption):
+    (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption of a kind referred to in section 37AC(1)(e)(i), if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
+    (iv) an investment statement relating to the security, unless an exemption from section 37A(1)(a) granted or provided under this Act applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption):
     (v) a statement to the effect that there is a registered prospectus in relation to the security and that, at the request of the person and on payment of any prescribed fee, the issuer will send the registered prospectus to the person:
     (vi) a statement that describes the effect of section 363 of the Companies Act 1993 (as applied by section 66) in relation to that prospectus:
     (vii) if the security is offered in a simplified disclosure prospectus, a copy of that simplified disclosure prospectus.
 (1A) However, subsection (1)(b)(iv) and (v) do not apply to securities that are offered in a simplified disclosure prospectus.
-(2) Subsection (1)(b)(v) and (vi) does not apply if an exemption from section 37(1) granted or provided under section 5 or section 5A applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption).
+(2) Subsection (1)(b)(v) and (vi) does not apply if an exemption from section 37(1) granted or provided under this Act applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption).
 (3) A person's consent is of no effect for the purposes of section 37AC(1)(c) or (d) if either or both of the following apply:
   (a) that consent is given before the date on which the notice referred to in subsection (1)(b) has been received by the person:
   (b) that consent is given before there is a registered prospectus relating to the security if the notice referred to in subsection (1)(b) is required to contain, or have attached to it, the statements referred to in subsection (1)(b)(v) and (vi).
@@ -811,8 +740,9 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
   (d) sending a copy of the notice to,—
     (i) in the case of a participatory security, the statutory supervisor (if any); and
     (ii) in the case of a debt security, the trustee (if any); and
+    (iia) in the case of an interest in a KiwiSaver scheme other than a restricted scheme, the KiwiSaver trustee; and
     (iii) in the case of a unit in a unit trust, the unit trustee (if any); and
-    (iv) the Commission.
+    (iv) the FMA.
 (2) The issuer must comply with subsection (1)(a) to (d) within a consecutive period of 5 working days.
 (3) However, the issuer does not have to comply with subsection (1)(a) if the issuer does not have knowledge of a current address for a subscriber and has taken reasonable steps to obtain a current address for the subscriber.
 (4) The notice must be treated as having been given to the subscriber on the day within the consecutive period of 5 working days—
@@ -876,22 +806,24 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
 (2) If an application for an order is made under section 37AC(1)(c) or (d) in connection with a security, the applicant must, as soon as practicable, serve notice of the application on the following persons:
   (a) the subscriber:
   (b) the security holder:
-  (c) the Commission:
+  (c) the FMA:
   (d) any other person that the Court orders must be served with notice of the application.
 (3) If an application for an order is made under any of the provisions of sections 37AG to 37AI in connection with a security, the applicant must, as soon as practicable, serve notice of the application on the following persons (unless the person is the applicant):
   (a) the issuer:
   (b) the subscriber or a representative defendant appointed by the Court:
   (c) the security holder or a representative defendant appointed by the Court:
-  (d) the Commission:
+  (d) the FMA:
   (e) in the case of a participatory security, the statutory supervisor (if any):
   (f) in the case of a debt security, the trustee (if any):
+  (fa) in the case of an interest in a KiwiSaver scheme other than a restricted scheme, the KiwiSaver trustee:
   (g) in the case of a unit in a unit trust, the unit trustee (if any):
   (h) any other person that the Court orders must be served with notice of the application.
 (4) For the purposes of subsection (3)(b), a notice of an application does not have to be served on a subscriber if, in connection with the security, the issuer has given the subscriber a notice in accordance with sections 37AE and 37AF and the subscriber has not objected to the making of a relief order in the manner referred to in section 37AE(2)(g) and (h).
 (5) If an issuer applies, in connection with a security, to the Court for the Court's approval for the purposes of section 37AE(4), the issuer must, as soon as practicable, serve notice of that application on the following persons:
-  (a) the Commission:
+  (a) the FMA:
   (b) in the case of a participatory security, the statutory supervisor (if any):
   (c) in the case of a debt security, the trustee (if any):
+  (ca) in the case of an interest in a KiwiSaver scheme other than a restricted scheme, the KiwiSaver trustee:
   (d) in the case of a unit in a unit trust, the unit trustee (if any):
   (e) any other person that the Court orders must be served with notice of the application.
 (6) Despite subsections (1) to (5), the Court may, if it thinks fit, order that notice of an application does not have to be served on a person or a class of persons.
@@ -933,8 +865,8 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
   (ab) in the case of a security that is offered in a simplified disclosure prospectus,—
     (i) the subscriber did not receive, before subscribing for the security, a copy of—
       (A) that simplified disclosure prospectus; and
-      (B) every memorandum of amendments to that prospectus that is registered by the Registrar under section 43 before the time of allotment; or
-    (ii) the Commission made a delayed allotment order in relation to that simplified disclosure prospectus and the subscriber subscribed for the security before the delayed allotment order was made; or
+      (B) every instrument that amends that prospectus that is registered under section 43 before the time of allotment; or
+    (ii) the FMA made a delayed allotment order in relation to that simplified disclosure prospectus and the subscriber subscribed for the security before the delayed allotment order was made; or
   (b) at the time of allotment, the investment statement or registered prospectus relating to the security is known by the issuer of the security, or any director of the issuer, to be false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not the investment statement or registered prospectus became so false or misleading as a result of a change of circumstances occurring after the date of the investment statement or registered prospectus); or
   (c) the date of allotment would be more than,—
     (i) where the registered prospectus relating to the security contains or refers to a statement of financial position or interim statement of financial position in accordance with regulations and no certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that statement of financial position or interim statement of financial position (whichever is the later); or
@@ -959,7 +891,7 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
 (5) Without limiting any enactment or rule of law, an allotment made in contravention of this section shall be valid unless notice avoiding the allotment is given by the subscriber in accordance with subsection (3) of this section.
 (6) Where an allotment made in contravention of this section is avoided by the subscriber under subsection (3) of this section, the issuer shall forthwith upon receiving notice under that subsection, repay the subscriptions to the subscriber.
 (7) If such subscriptions are not so repaid within one month after the date of the receipt by the issuer of notice under subsection (3) of this section, the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date on which such notice was received:
-  Provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
+  provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
 (8)
 
 **Relief orders in respect of section 37A**
@@ -1012,9 +944,10 @@ If the Court makes a relief order under section 37C or section 37D, the Court ma
 (1) If an application for an order is made under section 37C or section 37D in connection with a security, the applicant must, as soon as practicable, serve notice of the application on the following persons:
   (a) the subscriber or a representative defendant appointed by the Court:
   (b) the security holder (being the person who would be the current security holder but for the application of section 37A(3)) or a representative defendant appointed by the Court:
-  (c) the Commission:
+  (c) the FMA:
   (d) in the case of a participatory security, the statutory supervisor (if any):
   (e) in the case of a debt security, the trustee (if any):
+  (ea) in the case of an interest in a KiwiSaver scheme other than a restricted scheme, the KiwiSaver trustee:
   (f) in the case of a unit in a unit trust, the unit trustee (if any):
   (g) any other person that the Court orders must be served with notice of the application.
 (2) Despite subsection (1), the Court may, if it thinks fit, order that notice of an application does not have to be served on a person or a class of persons.
@@ -1068,21 +1001,21 @@ No advertisement shall contain a statement purporting to be made by an expert un
   (c) if the expert is, or is intended to be, an officer, director, or employee of, or professional adviser to, the issuer of the securities referred to in the advertisement, a statement appears in the advertisement to that effect.
 
 ### 38B Prohibition of advertisements
-(1) Where, at any time, the Commission is of the opinion that an advertisement—the Commission may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
+(1) Where, at any time, the FMA is of the opinion that an advertisement—the FMA may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
   (a) is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
   (b) is inconsistent with any registered prospectus referred to in it; or
   (c) does not comply with this Act and regulations,—
-(2) Without limiting subsection (1) of this section, where, at any time, the Commission is of the opinion that an advertisement that contains or refers to an offer of debt securities the issuer of which is a registered bank is inconsistent with the most recent disclosure statement published by the registered bank under section 81 of the Reserve Bank of New Zealand Act 1989, the Commission may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
-(3) An order may be made on such terms and conditions as the Commission thinks fit.
-(4) Where the Commission makes an order under this section,—
+(2) Without limiting subsection (1) of this section, where, at any time, the FMA is of the opinion that an advertisement that contains or refers to an offer of debt securities the issuer of which is a registered bank is inconsistent with the most recent disclosure statement published by the registered bank under section 81 of the Reserve Bank of New Zealand Act 1989, the FMA may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
+(3) An order may be made on such terms and conditions as the FMA thinks fit.
+(4) Where the FMA makes an order under this section,—
   (a) it shall forthwith notify the issuer of the securities that the order has been made and the reasons for making it; and
   (b) it may notify any other person that the order has been made and the reasons for making it.
 (5) Every person who contravenes an order made under this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 (6) It is a defence to a charge under subsection (5) of this section if the defendant proves that the advertisement was distributed—
   (a) without the defendant's knowledge; or
   (b) without the defendant's knowledge of the order.
-(7) At any time after an order has been made under this section, the issuer of the securities to which the advertisement relates shall be entitled to be heard and represented before the Commission.
-(8) The Commission, if it is satisfied that the order should not continue in force, may revoke the order.
+(7) The FMA must, after an order has been made under this section, give the issuer or the issuer's representative an opportunity to make written submissions and to be heard on the matter.
+(8) The FMA, if it is satisfied that the order should not continue in force, may revoke the order.
 (9) In this section, the term advertisement does not include an investment statement.
 
 **Investment statements**
@@ -1109,40 +1042,7 @@ The purpose of an investment statement is to—
 (3) Unless this Act or regulations provide otherwise, nothing in this Act or in regulations limits the information, statements, or other matters that may be contained in an investment statement.
 
 ### 38F Suspension and prohibition of investment statement
-(1) Where, at any time, the Commission is of the opinion that an investment statement—the Commission may exercise either or both of the following powers in respect of the investment statement:
-  (a) is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
-  (b) is inconsistent with any registered prospectus referred to in it; or
-  (c) does not comply with this Act and regulations,—
-  (d) if it considers that suspension of the investment statement is desirable in the public interest, the Commission may make an order suspending the investment statement for a period not exceeding 14 days:
-  (e) after giving the issuer of the investment statement not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, make an order prohibiting the distribution of the investment statement.
-(2) An order may be made on such terms and conditions as the Commission thinks fit.
-(3) Where the Commission suspends an investment statement pursuant to this section,—
-  (a) it shall forthwith notify the issuer of the suspension and the reasons for it; and
-  (b) none of the following persons shall, except for the purposes of paragraph (a) of this subsection or following prohibition of the distribution of the investment statement under this section, or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the suspension or any matter relating to it:
-    (i) a member of the Commission or an officer or employee of the Commission:
-    (ii) a person appointed under section 21 of this Act.
-(4) Subject to subsection (6), while an investment statement is suspended no allotment may be made of the securities subscribed for, whether before or after the suspension order is made.
-(5) The Commission, if it is satisfied that the suspension of an investment statement should not continue in force, may revoke the suspension.
-(6) Subsection (4) of this section ceases to apply if—
-  (i) the Commission revokes the suspension of an investment statement; or
-  (ii) the period of suspension of an investment statement expires and the distribution of the investment statement has not been prohibited under this section.
-(7) Where the Commission revokes the suspension of an investment statement pursuant to this section,—
-  (a) it shall forthwith notify the issuer of the revocation of the suspension; and
-  (b) none of the following persons shall, except for the purposes of paragraph (a) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
-    (i) a member of the Commission or an officer or employee of the Commission:
-    (ii) a person appointed under section 21 of this Act.
-(8) Where the Commission prohibits the distribution of an investment statement pursuant to this section,—
-  (a) it shall forthwith notify the issuer of the prohibition and the reasons for it; and
-  (b) it may notify any other person of the prohibition and the reasons for it.
-(9) Subject to subsection (11) of this section, where the distribution of an investment statement is prohibited,—
-  (a) no allotment shall be made of any securities subscribed for whether before or after the prohibition order is made:
-  (b) all subscriptions received for securities to which the investment statement relates, not being subscriptions for securities that were allotted before any order was made under subsection (1) in respect of the investment statement, must be immediately repaid to the subscribers.
-  (c)
-(10) The Commission, if it is satisfied that the prohibition of the distribution of an investment statement should not continue in force, may revoke the prohibition.
-(11) Subsection (9) of this section ceases to apply if the Commission revokes the prohibition of the distribution of an investment statement.
-(12) Where the Commission revokes the prohibition of the distribution of an investment statement pursuant to this section, it shall forthwith notify the issuer of the revocation of the prohibition.
-(13) Subject to subsection (14) of this section, if any subscriptions which are required to be repaid to the subscribers entitled to them are not so repaid within a month after the date of prohibition of the investment statement, the issuer and all the directors of the issuer shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date the subscriptions were received by or on behalf of the issuer.
-(14) A director of an issuer shall not be liable to repay any subscriptions and interest pursuant to subsection (13) of this section if that director proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
+[Repealed]
 
 **Prospectuses**
 
@@ -1166,102 +1066,251 @@ The purpose of an investment statement is to—
   (b) if in the opinion of the expert making the supplementary statement, any opinions expressed in the original statement require further comment because of any such denial or qualification of any assertions of fact, or for any other reason, the supplementary statement shall contain such comments.
 
 ### 41 Requirements relating to prospectuses delivered to registrar for Registration
-Every prospectus delivered to the Registrar for registration under this Act shall—
+(1) Every prospectus delivered to the Registrar for registration under this Act shall—
   (a) have endorsed thereon or attached thereto—
     (i) any consent to the issue thereof required by section 40 of this Act from any person as an expert; and
     (ii) all documents, information, certificates, and other matters required to be endorsed thereon or attached thereto for the purposes of this section by regulations made under this Act; and
   (b) be signed by—
     (i) the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the prospectus is delivered to the Registrar, or by its or his or her agent authorised in writing; and
     (ii) every promoter of the securities to which the prospectus relates, or by its or his or her agent authorised in writing.
+(2) The prescribed information and documents (if any) must be supplied to the Registrar, when the prospectus is delivered to the Registrar for registration, in the manner specified by the Registrar.
 
 ### 42 Registration of prospectus
-(1) Subject to subsections (2) and (3) of this section, the Registrar shall forthwith register every prospectus delivered to him or her in accordance with section 41 of, and any regulations made under, this Act.
-(2) The Registrar may refuse to register a prospectus if—
-  (a) it does not comply with this Act; or
-  (b) it contains any misdescription or error or any matter that is not clearly legible or is contrary to law; or
-  (c) the prescribed amount payable on registration is not paid.
-(3) The Registrar shall refuse to register a prospectus if—
-  (a) the date of registration would be earlier than the date of the prospectus; or
-  (b) he or she is of the opinion that the prospectus contains a statement that is false or misleading on a material particular or omits any material particular.
-(4) Notwithstanding subsections (2) and (3) of this section,—
-  (a) the Registrar shall not refuse to register a prospectus pursuant to either of those subsections if—
-    (i) the text, diagrams, illustrations, photographs, and other information, the size and style of the print, and the layout used in the prospectus are (except for the colours used and any signatures) the same as those used or specified in a prospectus, including any attachment relating thereto, previously approved by him or her as suitable for registration; and
-    (ii) he or she considers that the colours used in the prospectus are such that every word therein is clearly legible:
-  (b) the Registrar may register a prospectus that does not comply with section 41 of this Act if he or she is satisfied that it complies with all provisions of this Act other than section 41 and, except for the matters referred to in that section, it is a satisfactory copy of a registered prospectus.
-(5) Upon registration of a prospectus pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the prospectus has been registered under this section.
+(1) The Registrar must promptly register every prospectus delivered to him or her.
+(2) However, the Registrar must refuse to register a prospectus if,—
+  (a) in his or her opinion,—
+    (i) it does not comply with section 39(1)(a) or 41(1)(b); or
+    (ii) it contains any material matter that is not clearly legible; or
+    (iii) section 41(2) is not complied with; or
+  (b) the prescribed amount payable on registration is not paid; or
+  (c) the date of registration would be earlier than the date of the prospectus.
+(3) The Registrar must, on the registration of a prospectus under this section, give a certificate of the registration (and the certificate is conclusive evidence that the prospectus has been registered under this section).
+(4) The certificate must specify a registration number for the prospectus.
 
 ### 43 Amendment of registered prospectus
-(1) A registered prospectus may be amended by a memorandum of amendments to the registered prospectus delivered to the Registrar and registered under this section.
-(2) Every memorandum of amendments to a registered prospectus delivered to the Registrar must be—
-  (i) signed by the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the memorandum is delivered to the Registrar, or by its or his or her agent authorised in writing; and
-  (ii) accompanied by a copy of the registered prospectus as amended.
-(3) Subject to subsections (4) and (5) of this section, the Registrar shall forthwith register every memorandum of amendments to a registered prospectus delivered to him or her in accordance with this section.
-(4) The Registrar may refuse to register a memorandum of amendments to a registered prospectus if—
-  (a) pursuant to section 42(2) of this Act, he or she could have refused to register the registered prospectus as amended if it had been delivered for registration at the time of the delivery to him or her of the memorandum; or
-  (b) the prescribed amount payable on registration is not paid.
-(5) The Registrar shall refuse to register a memorandum of amendments to a registered prospectus if—
-  (a) he or she is of the opinion that the registered prospectus as amended contains a statement that is false or misleading on a material particular or omits any material particular; or
-  (b) the date of the registered prospectus is altered.
-(6) Upon registration of a memorandum of amendments to a registered prospectus pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the memorandum has been registered under this section.
+(1) A registered prospectus may be amended by an instrument to amend the prospectus that is delivered to the Registrar and registered under this section.
+(2) The prescribed information and documents (if any) must be supplied to the Registrar, when an instrument to amend the prospectus is delivered to the Registrar for registration, in the manner specified by the Registrar.
+(3) Every instrument to amend a registered prospectus that is delivered to the Registrar must be—
+  (a) signed by the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the instrument is delivered to the Registrar, or by the issuer's or director's agent authorised in writing; and
+  (b) accompanied by a copy of the registered prospectus as amended.
+(4) The Registrar must promptly register every instrument delivered to him or her in accordance with this section.
+(5) However, the Registrar must refuse to register an instrument under this section if,—
+  (a) in his or her opinion,—
+    (i) he or she could, under section 42(2), have refused to register the registered prospectus as amended if it had been delivered for registration at the time of the delivery to him or her of the instrument; or
+    (ii) subsection (2) or (3) is not complied with; or
+  (b) the prescribed amount payable on registration is not paid; or
+  (c) the date of the registered prospectus is altered.
+(6) The Registrar must, on the registration of an instrument of amendment under this section, give a certificate of that registration (and the certificate is conclusive evidence that the instrument has been registered under this section).
+
+### 43A Registrar not required to consider certain matters
+It is not the function of the Registrar, when acting under section 42 or 43, to consider whether a prospectus—
+  (a) complies with section 39(1)(b) or (c), 40, or 41(1)(a); or
+  (b) contains a statement that is false or misleading as to a material particular or omits any material particular.
+
+### 43B Publication of registration
+(1) If a prospectus, or an instrument to amend a prospectus, is registered under section 42 or 43, the issuer must, within 5 working days after it receives the certificate of the registration, ensure that an Internet site maintained by or on behalf of the issuer—
+  (a) contains a reasonably prominent statement—
+    (i) to the effect that the prospectus or instrument has been registered; and
+    (ii) describing where a copy of the prospectus or instrument can be obtained; or
+  (b) contains a reasonably prominent link to such a statement.
+(2) The statement or link referred to in subsection (1) may be removed from the Internet site maintained by or on behalf of the issuer if the period within which allotments of securities may be made under the prospectus in accordance with this Act has finally ended (for example, as a result of section 37A(1)(c)).
+(3) If a prospectus, or an instrument to amend a prospectus, is registered under section 42 or 43, the Registrar may, in any manner that the Registrar thinks fit, give notice of the registration to any person or class of persons or to the public generally.
+(4) The Registrar may, in any manner that the Registrar thinks fit, give notice to any person or class of persons or to the public generally of any changes in the information referred to in section 43P in respect of a registered prospectus.
+
+**FMA's consideration of prospectuses, amendments, trust deeds, and deeds of participation**
+
+### 43C FMA's consideration of prospectuses, amendments, trust deeds, and deeds of participation
+(1) The Registrar must, immediately after a prospectus or an instrument to amend a prospectus is registered under this Act, notify the FMA of the registration for the purpose of allowing the FMA an opportunity to consider whether the prospectus, or the prospectus as amended,—
+  (a) complies with this Act and the regulations; or
+  (b) contains any material misdescription or error or any material matter that is not clearly legible; or
+  (c) is false or misleading as to a material particular or omits any material particular (whether or not it was so false or misleading, or the omission was material, at the time the prospectus or instrument was registered).
+(2) The Registrar must, immediately after a trust deed, a deed of participation, or an instrument to amend a deed of that kind is registered under this Act, notify the FMA of the registration for the purpose of allowing the FMA an opportunity to consider whether the trust deed or deed of participation, or the trust deed or deed of participation as amended,—
+  (a) complies with this Act and the regulations; or
+  (b) contains any material misdescription or error or any material matter that is not clearly legible.
+(3) The nature and extent of the consideration (if any) that the FMA gives to a prospectus, trust deed, or deed of participation or an instrument to amend a prospectus or deed is at the FMA's discretion.
+(4) Nothing in this section or any other provision of this Act limits the FMA's power to consider or reconsider at any time whether—
+  (a) a registered prospectus—
+    (i) complies with this Act and the regulations; or
+    (ii) contains any material misdescription or error or any material matter that is not clearly legible; or
+    (iii) is false or misleading as to a material particular or omits any material particular (whether or not it was so false or misleading, or the omission was material, at the time the prospectus or instrument was registered):
+  (b) a trust deed or deed of participation—
+    (i) complies with this Act and the regulations; or
+    (ii) contains any material misdescription or error or any material matter that is not clearly legible.
+
+### 43D No allotments may be made and no applications or subscription money may be accepted during consideration period
+(1) No allotment of securities offered to the public for subscription may be made, and no applications for those securities or subscriptions for those securities may be accepted, during the period—
+  (a) starting on the date that the prospectus relating to the offer of the securities is registered; and
+  (b) ending on the close of—
+    (i) the date that is 5 working days after that date; or
+    (ii) a later date specified by the FMA by notice to the issuer.
+(2) However,—
+  (a) if the prospectus is a continuous issue prospectus, subsection (1) applies to the prospectus only if it is of a class that is prescribed by the FMA in a notice under section 43EA:
+  (b) if subsection (1) applies to a prospectus that relates to particular securities but another registered prospectus also relates to those securities, subsection (1) does not prevent—
+    (i) an offer and allotment of those securities being made in accordance with this Act in reliance upon the other registered prospectus; and
+    (ii) applications for those securities and subscriptions for those securities from being accepted in respect of the offer and allotment referred to in subparagraph (i).
+(3) In subsection (2) and section 43EA, a prospectus is a continuous issue prospectus if it—
+  (a) relates to securities that the issuer, in the ordinary course of its business, continuously offers to the public for subscription; and
+  (b) is not the first prospectus to be registered in respect of that class of securities.
+(4) The later date specified under subsection (1)(b)(ii) must be no more than 10 working days after the prospectus is registered.
+(5) If a person contravenes subsection (1), section 37(1B) and (4) to (7) apply (which provide that an allotment of a security in contravention of subsection (1) is invalid and of no effect).
+
+### 43E FMA may remove restrictions if its consideration is complete or consideration or further consideration is unnecessary
+(1) This section applies if the FMA is satisfied that—
+  (a) its consideration of a prospectus is complete; or
+  (b) consideration or further consideration of a prospectus is, in the circumstances, unnecessary.
+(2) The FMA may give notice to the issuer that—
+  (a) the period that applies under section 43D ends at a particular time specified by the FMA (being an earlier time than that provided for under section 43D); or
+  (b) section 43D(1) does not apply in respect of the prospectus.
+(3) Section 43D is subject to this section.
+(4) Nothing in this section limits section 70B (which also allows the FMA to grant exemptions in respect of compliance with section 43D).
+
+### 43EA FMA may prescribe classes of continuous issue prospectuses to which section 43D(1) applies
+(1) The FMA may issue a notice that prescribes the class or classes of continuous issue prospectuses to which section 43D(1) applies.
+(2) The FMA must, before issuing a notice under subsection (1) in respect of a class of continuous issue prospectuses, be satisfied that it is in the public interest for the FMA to have an opportunity to act under section 43C(1) in respect of those prospectuses before the allotment of securities in reliance upon those prospectuses (for example, where in the circumstances a particular risk relates to a particular class of issuers or securities).
+(3) A notice issued by the FMA—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives under section 4 of that Act; and
+  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) The FMA may vary or revoke a notice issued under this section, and subsections (2) and (3) apply, with necessary modifications, in all respects to the variation or revocation.
+
+**FMA's powers to prohibit distribution of investment statements, prohibit allotments, or cancel registration of prospectuses**
+
+### 43F Prohibition of distribution of investment statement
+(1) The FMA may, at any time, make an order prohibiting the distribution of an investment statement if the FMA is of the opinion that the investment statement—
+  (a) is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
+  (b) is inconsistent with any registered prospectus referred to in it; or
+  (c) does not comply with this Act or the regulations.
+(2) If an order is made under subsection (1) in respect of an investment statement,—
+  (a) no allotment may be made of any securities subscribed for whether before or after the order is made (being securities to which the investment statement relates):
+  (b) all subscriptions received for securities to which the investment statement relates, not being subscriptions for securities that were allotted before the order is made or subscriptions received after the order is revoked, must be immediately repaid to the subscribers.
+(3) An allotment made in contravention of subsection (2)(a) is invalid and of no effect.
+
+### 43G FMA may prohibit allotment or cancel registration
+(1) This section applies if, at any time, the FMA is of the opinion that—
+  (a) a registered prospectus does not comply with this Act or the regulations; or
+  (b) a registered prospectus contains any material misdescription or error or any material matter that is not clearly legible; or
+  (c) a registered prospectus is false or misleading as to a material particular or omits any material particular (whether or not it was so false or misleading, or the omission was material, at the time the prospectus was registered); or
+  (d) section 41 has not been complied with in respect of a registered prospectus; or
+  (e) a trust deed or deed of participation in respect of the securities offered in a registered prospectus—
+    (i) does not comply with this Act or the regulations; or
+    (ii) contains any material misdescription or error or any material matter that is not clearly legible.
+(2) The FMA may exercise either or both of the following powers in respect of the registered prospectus if it considers that it is desirable in the public interest:
+  (a) make an order prohibiting the allotment of securities under the registered prospectus for a period not exceeding 18 months:
+  (b) cancel the registration of the registered prospectus (with effect from the time that the Registrar is notified of the cancellation).
+(3) If an order is made under subsection (2)(a) in respect of a registered prospectus,—
+  (a) during the period in which the order is in force, no allotment may be made of any securities subscribed for whether before or after the order is made (being securities to which the prospectus relates); and
+  (b) all subscriptions received for securities to which the prospectus relates, not being subscriptions for securities that were allotted before the order is made or subscriptions received after the order ceases to be in force, must be immediately repaid to the subscribers.
+(4) If the registration of a registered prospectus is cancelled,—
+  (a) no allotment may be made of any securities subscribed for whether before or after the cancellation (being securities to which the prospectus relates); and
+  (b) all subscriptions received for securities to which the prospectus relates, not being subscriptions for securities that were allotted before the cancellation, must be immediately repaid to the subscribers.
+(5) An allotment made in contravention of subsection (3)(a) or (4)(a) is invalid and of no effect.
+
+### 43H Repayment of subscriptions
+(1) If any subscriptions that are required under section 43F or 43G to be repaid to the subscribers entitled to those subscriptions are not repaid within 1 month after the relevant date, the issuer and all the directors of the issuer are jointly and severally liable to repay the subscriptions with interest at the prescribed rate from the date the subscriptions were received by or on behalf of the issuer.
+(2) A director of an issuer is not liable to repay any subscriptions and interest on the subscriptions under subsection (1) if the director proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
+(3) In this section, relevant date means,—
+  (a) in the case of subscriptions received before the order is made under section 43F or 43G or before the registration of the prospectus is cancelled, the date that the order is made or the registration is cancelled; or
+  (b) in any other case, the date that the subscriptions are received by or on behalf of the issuer.
+
+### 43I Order may be made on terms and conditions and may be varied or revoked
+(1) The FMA may make an order under section 43F or 43G on the terms and conditions that the FMA thinks fit.
+(2) The FMA may vary an order under section 43F or 43G in the same way as it may make the order.
+(3) The FMA may, either of its own volition or on the application of the person concerned, revoke an order under section 43F or 43G, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
+(4) No allotment may be made of a security—
+  (a) to which an investment statement relates in contravention of the terms or conditions of an order under section 43F or of the revocation of an order made under that section; or
+  (b) that is offered under a prospectus to which an order under section 43G has been made in contravention of the terms or conditions of the order or of the revocation of the order.
+(5) If a person contravenes subsection (4), section 37(1B) and (4) to (7) apply (which provide that an allotment of a security in contravention of that subsection is invalid and of no effect).
+
+### 43J Notices and submissions concerning exercise of power under section 43F, 43G, or 43I(2) or (3)
+(1) The FMA may exercise a power under section 43F, 43G, or 43I(2) or (3) only if—
+  (a) the FMA gives the issuer at least 5 working days' written notice of the following matters before the FMA exercises the power:
+    (i) that the FMA may make an order under section 43F or 43G, vary or revoke an order under section 43I(2) or (3), or cancel the registration of the prospectus under section 43G (as the case may be); and
+    (ii) the reasons why it is considering exercising that power; and
+  (b) the FMA gives the issuer or the issuer's representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+(2) If the FMA exercises a power under section 43F or 43G,—
+  (a) it must, immediately after exercising the power, notify the issuer of—
+    (i) the reasons for making the order or for the cancellation; and
+    (ii) the terms and conditions of the order (if any); and
+  (b) it must, immediately after exercising the power, give notice to the Registrar and on its Internet site of—
+    (i) the reasons for making the order or for the cancellation; and
+    (ii) the terms and conditions of the order (if any); and
+    (iii) any other information the FMA thinks relevant in the circumstances; and
+  (c) it may give public notice by any other means of the matters in paragraph (b); and
+  (d) it may notify any other person of the matters in paragraph (b).
+(3) If the FMA varies or revokes an order under section 43I,—
+  (a) it must, immediately after exercising the power, notify the Registrar and the issuer of—
+    (i) the terms and conditions of the variation or revocation; and
+    (ii) the reasons for the variation or revocation; and
+    (iii) any other information the FMA thinks relevant in the circumstances; and
+  (b) it may give notice on its Internet site or give public notice by any other means of those matters; and
+  (c) it may notify any other person of those matters.
+
+### 43K FMA may make interim orders pending exercise of powers
+(1) The FMA may make an interim order that prohibits the allotment of securities—
+  (a) to which an investment statement relates while the interim order is in force if—
+    (i) the FMA is considering, at any time, whether it may exercise a power under section 43F in respect of the investment statement; and
+    (ii) the FMA considers that making an interim order is desirable in the public interest:
+  (b) under a registered prospectus while the interim order is in force if—
+    (i) the FMA is considering, at any time, whether it may exercise a power under section 43G in respect of the prospectus; and
+    (ii) the FMA considers that making an interim order is desirable in the public interest.
+(2) An interim order under subsection (1) is in force from the time at which it is made until the close of—
+  (a) the date that is 15 working days after the day on which it is made; or
+  (b) a later date specified by the FMA by notice to the issuer.
+(3) For the purposes of subsection (2)(b),—
+  (a) the FMA may specify a later date if the FMA is of the opinion that it is not reasonably practicable for it to complete its consideration as referred to in subsection (1)(a)(i) or (b)(i) within the 15-working-day period referred to in subsection (2)(a):
+  (b) the later date must be a date that is no more than 30 working days after the day on which the interim order is made.
+(4) The FMA—
+  (a) may act under subsection (1) or (2)(b) without giving the issuer an opportunity to make submissions to, or be heard before, the FMA in respect of the matter; but
+  (b) must, after acting under subsection (1) or (2)(b), give the issuer or the issuer's representative an opportunity to make written submissions and to be heard on the matter.
+(5) If an interim order is made in respect of an investment statement or a registered prospectus,—
+  (a) the FMA must immediately after making the order notify the issuer and the Registrar that the order has been made and the reasons for the order; and
+  (b) during the period in which the order is in force, no allotment may be made of any securities subscribed for whether before or after the order is made (being securities to which the investment statement or prospectus relates); and
+  (c) section 37(1B) and (4) to (7) apply (which provide that an allotment of a security in contravention of paragraph (b) is invalid and of no effect).
+
+### 43L FMA may revoke interim order
+(1) The FMA may revoke an interim order made under section 43K if it is satisfied that the order should not continue in force.
+(2) If an interim order is revoked, the FMA must immediately notify the issuer and the Registrar of the revocation.
+
+### 43M Nothing done or omitted to be done by Registrar or FMA guarantees or represents that prospectus complies with Act and regulations
+(1) Nothing done or omitted to be done under this Act by the Registrar or the FMA guarantees or represents that—
+  (a) a prospectus—
+    (i) complies with this Act and the regulations:
+    (ii) does not contain any material misdescription or error or any material matter that is not clearly legible:
+    (iii) is not false or misleading as to a material particular:
+    (iv) does not omit any material particular; or
+  (b) the FMA has considered a prospectus with a view to determining whether it—
+    (i) complies with this Act and the regulations:
+    (ii) contains any material misdescription or error or any material matter that is not clearly legible:
+    (iii) is false or misleading as to a material particular:
+    (iv) omits any material particular.
+(2) This section does not limit section 22 of the Financial Markets Authority Act 2011 (which provides protection from liability for the FMA and its members and employees).
 
 ### 44 Suspension and cancellation of registration of registered prospectus
-(1) Where at any time the Commission is of the opinion that a registered prospectus is false or misleading as to a material particular or omits any material particular (whether or not it was so false or misleading, or the omission was material, at the time the prospectus was registered), or does not comply with this Act and regulations made under this Act, the Commission may exercise either or both of the following powers in respect of the registered prospectus:
-  (a) if it considers that suspension of the registration of the registered prospectus is desirable in the public interest, the Commission may suspend the registration thereof for a period not exceeding 14 days:
-  (b) after giving the issuer named in the registered prospectus not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may at that meeting cancel the registration thereof.
-(2) Where the Commission suspends the registration of a registered prospectus pursuant to this section,—
-  (a) it shall forthwith notify the issuer named in the prospectus of the suspension and the reasons for it; and
-  (b) it may notify the Registrar of the suspension and the reasons for it; and
-  (c) none of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or following cancellation of the registered prospectus under this section or in the course of any criminal proceedings, divulge or communicate to any person the fact of the suspension or any matter relating to it:
-    (i) a member of the Commission or an officer or employee of the Commission:
-    (ii) a person appointed under section 21 of this Act:
-    (iii) the Registrar.
-(3) Subject to subsection (4A), while the registration of a registered prospectus is suspended no allotment may be made of the securities subscribed for, whether before or after the suspension order is made.
-(4) The Commission, if it is satisfied that the suspension of the registration of a registered prospectus should not continue in force, may revoke the suspension.
-(4A) Subsection (3) of this section ceases to apply if—
-  (i) the Commission revokes the suspension of registration of a registered prospectus; or
-  (ii) the period of suspension of registration of a registered prospectus expires and the registration of that registered prospectus is not cancelled under this section.
-(4B) Where the Commission revokes the suspension of the registration of a registered prospectus pursuant to this section,—
-  (a) it shall forthwith notify the issuer named in the prospectus of the revocation of the suspension; and
-  (b) it may notify the Registrar of the revocation of the suspension; and
-  (c) none of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
-    (i) a member of the Commission or an officer or employee of the Commission:
-    (ii) a person appointed under section 21 of this Act:
-    (iii) the Registrar.
-(5) Where the Commission cancels the registration of a registered prospectus pursuant to this section—
-  (a) it shall forthwith notify the issuer named therein of the cancellation and the reasons therefor; and
-  (b) it may notify any other person of the cancellation and the reasons therefor.
-(6) Where the registration of a registered prospectus is cancelled—
-  (a) no allotment shall be made of any securities subscribed for whether before or after the cancellation of the registration of the registered prospectus:
-  (b) all subscriptions received for securities to which the registered prospectus relates, not being subscriptions for securities that were allotted before any power was exercised under subsection (1) in respect of the registered prospectus, must be immediately repaid to the subscribers.
-  (c)
-(7) Subject to subsection (8) of this section, if any subscriptions which are required to be repaid to the subscribers entitled thereto are not so repaid within one month after the date of the cancellation of the registration of the registered prospectus, the issuer named therein and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date the subscriptions were received by or on behalf of the issuer.
-(8) A director of an issuer shall not be liable to repay any subscriptions and interest thereon pursuant to subsection (7) of this section if that director proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
+[Repealed]
 
 **Delayed allotment orders and prohibition orders concerning simplified disclosure prospectuses**
 
-### 44A Commission may make delayed allotment orders
-(1) This section applies if the Commission is of the opinion that the issuer of a security that is offered in a simplified disclosure prospectus—
+### 44A FMA may make delayed allotment orders
+(1) This section applies if the FMA is of the opinion that the issuer of a security that is offered in a simplified disclosure prospectus—
   (a) has disclosed information in the prospectus that has not previously been publicly disclosed under the issuer's disclosure obligations, and that information is adverse to the issuer or the scheme and is material to the offer of the security; or
   (b) has disclosed information under the issuer's disclosure obligations between the date of the prospectus and the allotment date, and that information is adverse to the issuer or the scheme and is material to the offer of the security; or
   (c) has failed to comply with the issuer's disclosure obligations at any time during the previous 12 months.
-(2) If either subsection (1)(a) or (b) applies, the Commission may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus for a period not exceeding 14 days from the date of allotment stated in the terms of the offer.
-(3) If subsection (1)(c) applies, the Commission may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus until a date not exceeding the later of—
+(2) If either subsection (1)(a) or (b) applies, the FMA may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus for a period not exceeding 14 days from the date of allotment stated in the terms of the offer.
+(3) If subsection (1)(c) applies, the FMA may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus until a date not exceeding the later of—
   (a) 14 days after the date of allotment stated in the terms of the offer; or
   (b) 14 days after the date on which the issuer's failure to comply with the issuer's disclosure obligations is remedied.
-(4) The Commission may make a delayed allotment order on the terms and conditions that the Commission thinks fit (which may include a condition that the issuer disclose or give public notice of specified information in any manner that the Commission thinks fit in the circumstances).
-(5) The Commission may vary a delayed allotment order in the same way as it may make the order.
-(6) The Commission may revoke a delayed allotment order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
+(4) The FMA may make a delayed allotment order on the terms and conditions that the FMA thinks fit (which may include a condition that the issuer disclose or give public notice of specified information in any manner that the FMA thinks fit in the circumstances).
+(5) The FMA may vary a delayed allotment order in the same way as it may make the order.
+(6) The FMA may revoke a delayed allotment order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
 (7) In this section, issuer's disclosure obligations means the disclosure obligations that an issuer is subject to and that the issuer has relied on in order to permit the issuer to use a simplified disclosure prospectus in accordance with the regulations and the definition of simplified disclosure prospectus.
 
 ### 44AB Notices and submissions concerning delayed allotment orders
-(1) The Commission may make a delayed allotment order only if—
-  (a) the Commission gives the issuer at least 3 days' written notice of the following matters before the Commission makes the delayed allotment order:
-    (i) the paragraph of section 44A(1) that is alleged to apply to the issuer; and
-    (ii) the proposed terms and conditions of the delayed allotment order; and
-    (iii) the reasons for the proposed delayed allotment order; and
-  (b) the Commission gives the issuer an opportunity to make a written submission within that notice period; and
-  (c) the Commission has regard to any written submissions made to it within that notice period.
-(2) If the Commission makes a delayed allotment order,—
+(1) The FMA may make a delayed allotment order only if—
+  (a) the FMA gives the issuer at least 3 working days' written notice of the following matters before the FMA makes the delayed allotment order:
+    (i) that the FMA is considering making a delayed allotment order; and
+    (ii) the paragraph of section 44A(1) that is alleged to apply to the issuer; and
+    (iii) the reasons why the FMA is considering making a delayed allotment order; and
+  (b) the FMA gives the issuer or the issuer's representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+(2) If the FMA makes a delayed allotment order,—
   (a) it must, immediately after the making of the order, notify the issuer of—
     (i) the terms and conditions of the order; and
     (ii) the reasons for the order; and
@@ -1269,10 +1318,10 @@ Every prospectus delivered to the Registrar for registration under this Act shal
     (i) the terms and conditions of the order; and
     (ii) the reasons for the order; and
     (iii) the information that is adverse to the issuer or the scheme and is material to the offer of the security, or the nature of the issuer's failure to comply with the issuer's disclosure obligations; and
-    (iv) any other information the Commission thinks relevant in the circumstances; and
+    (iv) any other information the FMA thinks relevant in the circumstances; and
   (c) it may give public notice by any other means of the matters in paragraph (b); and
   (d) it may notify any other person of the matters in paragraph (b).
-(3) If the Commission varies or revokes a delayed allotment order under section 44A(5) or (6),—
+(3) If the FMA varies or revokes a delayed allotment order under section 44A(5) or (6),—
   (a) it must immediately notify the issuer of—
     (i) the terms and conditions of the variation or revocation; and
     (ii) the reasons for the variation or revocation; and
@@ -1280,8 +1329,8 @@ Every prospectus delivered to the Registrar for registration under this Act shal
   (c) it may notify any other person of those matters.
 
 ### 44AC Limited notice and submissions for urgent delayed allotment orders
-If the Commission thinks it necessary or desirable in the public interest for a delayed allotment order to be made more urgently than section 44AB permits,—
-  (a) it may give less than 3 days' notice before it makes the order, and the notice and submissions may be oral, not written; but
+If the FMA thinks it necessary or desirable in the public interest for a delayed allotment order to be made more urgently than section 44AB permits,—
+  (a) it may give less than 3 working days' notice before it makes the order, and the notice and the submissions may be oral rather than written; but
   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
 
 ### 44AD Effect of delayed allotment orders
@@ -1290,7 +1339,7 @@ If the Commission thinks it necessary or desirable in the public interest for a 
   (b) if a term or condition of the delayed allotment order remains unfulfilled; or
   (c) until after the delayed allotment order expires or is revoked.
 (2) If a person contravenes subsection (1), section 37(1A)(b) and (4) to (7) apply (which provide that an allotment of a security that is offered in a simplified disclosure prospectus in contravention of subsection (1) is invalid and of no effect).
-(3) If the Commission makes a delayed allotment order and a subscriber has subscribed for a security that is offered in a simplified disclosure prospectus to which that delayed allotment order applies before the Commission made the delayed allotment order, section 37A(1)(ab)(ii) and (3) to (8) apply (which provide that an allotment of a security in those circumstances is voidable at the instance of the subscriber by notice in writing).ExampleIssuer A makes an offer of securities to the public for subscription in a simplified disclosure prospectus. Tom subscribes for some of those securities. After Tom has subscribed for the securities, the Commission makes a delayed allotment order that applies to the simplified disclosure prospectus. Section 37A(1)(ab)(ii) and (3) to (8) apply.In these circumstances, Issuer A's options may include the following:Tom's options include the following:Regardless of which option is taken by Issuer A or Tom, if Issuer A allots securities to Tom in contravention of section 44AD(1) (for example, by allotting the securities to Tom before the delayed allotment order has expired or has been revoked), that allotment is invalid and of no effect (see sections 44AD(1), (2), and (4) and 37(1A)(b) and (4) to (7)) and Issuer A has committed offences (see sections 59(1) and 60(2)).
+(3) If the FMA makes a delayed allotment order and a subscriber has subscribed for a security that is offered in a simplified disclosure prospectus to which that delayed allotment order applies before the FMA made the delayed allotment order, section 37A(1)(ab)(ii) and (3) to (8) apply (which provide that an allotment of a security in those circumstances is voidable at the instance of the subscriber by notice in writing).ExampleIssuer A makes an offer of securities to the public for subscription in a simplified disclosure prospectus. Tom subscribes for some of those securities. After Tom has subscribed for the securities, the FMA makes a delayed allotment order that applies to the simplified disclosure prospectus. Section 37A(1)(ab)(ii) and (3) to (8) apply.In these circumstances, Issuer A's options may include the following:Tom's options include the following:Regardless of which option is taken by Issuer A or Tom, if Issuer A allots securities to Tom in contravention of section 44AD(1) (for example, by allotting the securities to Tom before the delayed allotment order has expired or has been revoked), that allotment is invalid and of no effect (see sections 44AD(1), (2), and (4) and 37(1A)(b) and (4) to (7)) and Issuer A has committed offences (see sections 59(1) and 60(2)).
   (a) Issuer A may ask Tom if he wants to resubscribe for the securities. In this case, Issuer A could obtain Tom's permission to use the money that Tom paid Issuer A when he originally subscribed for the securities (Tom's subscription money) to resubscribe for those securities after the date on which the delayed allotment order was made. Issuer A may then allot those securities to Tom (once the delayed allotment order has expired or has been revoked) without contravening section 37A(1)(ab)(ii); or
   (b) Issuer A could withdraw the offer or take some other similar course of action. If Issuer A withdraws the offer it must pay Tom's subscription money back to him. Tom's subscription money must be held in trust for him until it is repaid (see section 36A); or
   (c) Issuer A could allot the securities to Tom (once the delayed allotment order has expired or has been revoked) without Tom having resubscribed for the securities. In this case, the allotment would be valid (see section 37A(5)), but it is voidable at the instance of Tom (see section 37A(3)) and Issuer A has committed an offence (see sections 37A(1)(ab)(ii) and 59(1)).
@@ -1300,21 +1349,20 @@ If the Commission thinks it necessary or desirable in the public interest for a 
 (4) Subsections (1) and (2) override subsection (3).
 (5) This section applies despite anything in the terms of the offer.
 
-### 44AE Commission may make prohibition orders
-(1) If the Commission is satisfied that a person (person A) who is subject to a disclosure obligation has failed to comply with that obligation at any time during the previous 12 months, the Commission may, if it considers that it is desirable in the public interest, make an order prohibiting person A from using a simplified disclosure prospectus for a period not exceeding 24 months.
-(2) The Commission may make a prohibition order on the terms and conditions that the Commission thinks fit.
-(3) The Commission may vary a prohibition order in the same way as it may make the order.
-(4) The Commission may, either of its own volition or on the application of the person concerned, revoke or suspend a prohibition order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
+### 44AE FMA may make prohibition orders
+(1) If the FMA is satisfied that a person (person A) who is subject to a disclosure obligation has failed to comply with that obligation at any time during the previous 12 months, the FMA may, if it considers that it is desirable in the public interest, make an order prohibiting person A from using a simplified disclosure prospectus for a period not exceeding 24 months.
+(2) The FMA may make a prohibition order on the terms and conditions that the FMA thinks fit.
+(3) The FMA may vary a prohibition order in the same way as it may make the order.
+(4) The FMA may, either of its own volition or on the application of the person concerned, revoke or suspend a prohibition order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
 
 ### 44AF Notices and submissions concerning prohibition orders
-(1) The Commission may make a prohibition order only if—
-  (a) the Commission gives the person concerned (person A) at least 14 days' written notice of the following matters before the Commission makes the prohibition order:
-    (i) the nature of person A's failure to comply with his, her, or its disclosure obligations; and
-    (ii) the proposed terms and conditions of the prohibition order; and
-    (iii) the reasons for the proposed prohibition order; and
-  (b) the Commission gives person A an opportunity to make a written submission within that notice period; and
-  (c) the Commission has regard to any written submissions made to it within that notice period.
-(2) If the Commission makes a prohibition order,—
+(1) The FMA may make a prohibition order only if—
+  (a) the FMA gives the person concerned (person A) at least 10 working days' written notice of the following matters before the FMA makes the prohibition order:
+    (i) that the FMA is considering making a prohibition order; and
+    (ii) the nature of person A's failure to comply with his, her, or its disclosure obligations; and
+    (iii) the reasons why the FMA is considering making the prohibition order; and
+  (b) the FMA gives person A or person A's representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+(2) If the FMA makes a prohibition order,—
   (a) it must, immediately after the making of the order, notify person A of—
     (i) the terms and conditions of the order; and
     (ii) the reasons for the order; and
@@ -1322,10 +1370,10 @@ If the Commission thinks it necessary or desirable in the public interest for a 
     (i) the terms and conditions of the order; and
     (ii) the reasons for the order; and
     (iii) the nature of person A's failure to comply with his, her, or its disclosure obligations; and
-    (iv) any other information the Commission thinks relevant in the circumstances; and
+    (iv) any other information the FMA thinks relevant in the circumstances; and
   (c) it may give public notice by any other means of the matters in paragraph (b); and
   (d) it may notify any other person of the matters in paragraph (b).
-(3) If the Commission varies, revokes, or suspends a prohibition order under section 44AE(3) or (4),—
+(3) If the FMA varies, revokes, or suspends a prohibition order under section 44AE(3) or (4),—
   (a) it must immediately notify person A of—
     (i) the terms and conditions of the variation, revocation, or suspension; and
     (ii) the reasons for the variation, revocation, or suspension; and
@@ -1333,7 +1381,7 @@ If the Commission thinks it necessary or desirable in the public interest for a 
   (c) it may notify any other person of those matters.
 
 ### 44AG Effect of prohibition orders
-If the Commission makes a prohibition order,—
+If the FMA makes a prohibition order,—
   (a) a person who is prohibited by that order from using a simplified disclosure prospectus must not, while the prohibition order is in force,—
     (i) make an offer of securities to the public in, or accompanied by, a simplified disclosure prospectus; or
     (ii) distribute a simplified disclosure prospectus that relates to a security; or
@@ -1342,20 +1390,31 @@ If the Commission makes a prohibition order,—
 
 **Contributory mortgages**
 
-### 44B Commission's powers in respect of contributory mortgages
-(1) Where the Registrar receives a report from an auditor appointed pursuant to regulations made under this Act to the effect that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, the Registrar may forward a copy of that report to the Commission.
-(2) The Commission may, either on the receipt of that report or for any other reason, if it is satisfied that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, and that it is desirable in the public interest to do so, exercise any one or more of the following powers:
-  (a) order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for a period not exceeding 14 days; or
-  (b) after giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for such period as the Commission thinks fit; or
-  (c) after giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker shall forthwith cease to act as contributory mortgage broker in respect of all or any contributory mortgages which have previously been allotted by him or her and appoint another person to act as contributory mortgage broker in his or her place with respect to those contributory mortgages; or
-  (d) after giving the contributory mortgage broker and any director or secretary of that broker's nominee company not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, by order, remove any of the directors or secretary (as the case may be) of any nominee company of that contributory mortgage broker and appoint any person as a director or secretary (as the case may be) in his or her place.
-(3) Where the Commission makes an order under subsection (2) of this section—
+### 44B FMA's powers in respect of contributory mortgages
+(1) Where the Registrar receives a report from an auditor appointed pursuant to regulations made under this Act to the effect that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, the Registrar may forward a copy of that report to the FMA.
+(2) The FMA may, either on the receipt of that report or for any other reason, if it is satisfied that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or the regulations, and that it is desirable in the public interest to do so, exercise any 1 or more of the following powers:
+  (a) make an order prohibiting the contributory mortgage broker from offering interests in contributory mortgages to the public for subscription for a period not exceeding 10 working days; or
+  (b) make an order prohibiting the contributory mortgage broker from offering interests in contributory mortgages to the public for subscription for the period that the FMA thinks fit; or
+  (c) make an order that the contributory mortgage broker must promptly cease to act as contributory mortgage broker in respect of all or any contributory mortgages that have previously been allotted by him, her, or it, and make an order appointing another person to act as contributory mortgage broker in his, her, or its place with respect to those contributory mortgages; or
+  (d) make an order removing any of the directors of any nominee company of the contributory mortgage broker and make an order appointing any person as a director in his or her place.
+(2A) The FMA—
+  (a) may act under subsection (2)(a) without giving the contributory mortgage broker an opportunity to make submissions to, and be heard before, the FMA in respect of the matter; but
+  (b) must, after acting under subsection (2)(a), give the contributory mortgage broker or the contributory mortgage broker's representative an opportunity to make written submissions and to be heard on the matter.
+(2B) The FMA may make an order under subsection (2)(b) to (d) only if—
+  (a) the FMA gives the relevant person or persons at least 5 working days' written notice of the following matters before the FMA makes the order:
+    (i) that the FMA is considering making an order under subsection (2)(b), (c), or (d) (as the case may be); and
+    (ii) the reasons why it is considering making the order; and
+  (b) the FMA gives the relevant person or persons or a representative of the relevant person or persons an opportunity to make written submissions and to be heard on the matter within that notice period.
+(2C) In subsection (2B), relevant person or persons means,—
+  (a) in the case of subsection (2)(b) or (c), the contributory mortgage broker:
+  (b) in the case of subsection (2)(d), the contributory mortgage broker and every director of the broker's nominee company.
+(3) Where the FMA makes an order under subsection (2) of this section—
   (a) it shall forthwith notify the broker of the order and the reasons therefor; and
   (b) it may notify any other person or persons of the order and the reasons therefor.
-(4) Any such order made by the Commission under subsection (2) of this section may be made upon such terms and conditions as the Commission sees fit and shall have effect according to its tenor.
+(4) Any such order made by the FMA under subsection (2) of this section may be made upon such terms and conditions as the FMA sees fit and shall have effect according to its tenor.
 
 ### 44C Powers and duties of persons appointed to act as broker
-(1) Where a person (in this section called the appointee) has been appointed by the Commission to act as a contributory mortgage broker in respect of contributory mortgages under section 44B(2)(c) of this Act, the appointee shall have and may exercise all the powers of the contributory mortgage broker he or she is appointed to replace (in this section called the defaulting broker), including, but without limitation, the following powers—
+(1) Where a person (in this section called the appointee) has been appointed by the FMA to act as a contributory mortgage broker in respect of contributory mortgages under section 44B(2)(c) of this Act, the appointee shall have and may exercise all the powers of the contributory mortgage broker he or she is appointed to replace (in this section called the defaulting broker), including, but without limitation, the following powers—
   (a) to take and to retain possession of all property, whatsoever and wheresoever situated, of the defaulting broker and his or her nominee company relating to the contributory mortgages which were being managed by the defaulting broker (in this section called the mortgages) and to hold and administer that property for the benefit of the contributors to the mortgages in their respective rights and interests:
   (b) to demand and receive all money payable to the defaulting broker on account of the mortgages:
   (c) to sue for and recover all debts due and other money payable to the defaulting broker on account of the mortgages:
@@ -1368,15 +1427,15 @@ If the Commission makes a prohibition order,—
 (3) The Court may, on application of the appointee, enlarge the powers of the appointee in such manner as it thinks fit.
 (4) It shall be the duty of all persons having possession or control of any documents or other property, whatsoever and wheresoever situated, belonging to the defaulting broker and relating to the mortgages, forthwith after the appointment of the appointee to yield up the same to the appointee.
 (5) The appointee shall not be liable for any acts or omissions by him or her in good faith in the exercise of his or her powers under this section, and no action or proceeding shall be commenced against the appointee except by leave of the Court and subject to such terms and conditions as the Court may impose.
-(6) All costs, charges, and expenses properly incurred by the appointee in the exercise of his or her duties under this section (including such remuneration as may be approved by the Commission) shall be payable out of the property administered by him or her in priority to all other claims.
+(6) All costs, charges, and expenses properly incurred by the appointee in the exercise of his or her duties under this section (including such remuneration as may be approved by the FMA) shall be payable out of the property administered by him or her in priority to all other claims.
 (7) In any case where, either before or after the appointment of the appointee, any property has been acquired by any person in circumstances which cause it to be just and equitable that he or she should hold the property in trust for all or any of the contributors to all or any of the mortgages, or any property so acquired has been unjustly disposed of, the Court, if it thinks fit, may, on the application of the appointee, order that the property be delivered to the appointee, or may order that any person who acquired or received the property or his or her administrator, pay to the appointee a sum not exceeding the value of the property; and for the purpose of giving effect to any such order the Court may make such further order as it thinks fit:
-  Provided that no such order shall deprive any other person of any estate or interest in the property if the estate or interest was acquired in good faith and for valuable consideration.
+  provided that no such order shall deprive any other person of any estate or interest in the property if the estate or interest was acquired in good faith and for valuable consideration.
 (8) The appointee may, at any time, apply to the Court to be relieved of his or her appointment and the Court may make any order with respect thereto as it thinks fit including, without limitation, an order appointing another person to act as appointee.
 
 ### 44D Powers and duties of person appointed to act as director or secretary of Nominee Company
-(1) Any person appointed by the Commission pursuant to section 44B(2)(d) of this Act—
+(1) Any person appointed by the FMA pursuant to section 44B(2)(d) of this Act—
   (a) shall not be liable for any acts or omissions by him or her in good faith in the exercise of his or her powers as a director or secretary, and no action or proceeding shall be commenced against that person except by leave of the Court and subject to such terms and conditions as the Court may impose:
-  (b) shall be entitled to be paid out of the property held in the name of the nominee company, in priority to all other claims, all costs, charges, and expenses properly incurred by him or her in the exercise of his or her powers and functions (including such remuneration as may be approved by the Commission) as a director or secretary.
+  (b) shall be entitled to be paid out of the property held in the name of the nominee company, in priority to all other claims, all costs, charges, and expenses properly incurred by him or her in the exercise of his or her powers and functions (including such remuneration as may be approved by the FMA) as a director or secretary.
 (2) It shall be the duty of all persons having possession or control of any documents, whatsoever and wheresoever situated, relating to the contributory mortgage broker in respect of whose nominee company the order has been made, to deliver to any person appointed pursuant to section 44B(2)(d), such documents as that person may require for the purpose of exercising his or her powers and functions as a director or secretary.
 
 **Trust deeds and deeds of participation**
@@ -1387,35 +1446,39 @@ If the Commission makes a prohibition order,—
 (3) A trust deed or deed of participation may expressly adopt all or any of the clauses that are prescribed in regulations made under this Act as clauses that may be adopted in a trust deed or deed of participation, as the case may be.
 
 ### 46 Registration of trust deeds and deeds of participation
-(1) Subject to subsection (2) of this section, the Registrar shall forthwith register every copy of a trust deed or deed of participation delivered to him or her for registration under this Act.
-(2) The Registrar may refuse to register a trust deed or deed of participation if—
-  (a) it does not comply with this Act; or
-  (b) it contains any misdescription or error or any matter that is not clearly legible; or
-  (c) the prescribed registration fee is not paid.
-(3) Upon registration of a copy of a deed pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the deed has been registered under this section.
+(1) The Registrar must promptly register every copy of a trust deed or deed of participation delivered to him or her for registration under this Act.
+(2) However, the Registrar must refuse to register a copy of a trust deed or deed of participation if,—
+  (a) in his or her opinion, it contains any material matter that is not clearly legible; or
+  (b) the prescribed amount payable on registration is not paid.
+(3) The Registrar must, on the registration of a copy of a trust deed or deed of participation under this section, give a certificate of that registration (and the certificate is conclusive evidence that the deed has been registered under this section).
 
 ### 47 Amendment of registered deed
-(1) Where a trust deed or deed of participation that has been registered under this Act has been lawfully amended, the issuer shall ensure that there is delivered to the Registrar, as soon as practicable after the amendment, a copy of the instrument by which the amendment to the deed was made.
-(2) Subject to subsection (3) of this section, the Registrar shall forthwith register every copy of an instrument amending a deed that—
+(1) If a trust deed or deed of participation that has been registered under this Act has been lawfully amended, the issuer must ensure that there is delivered to the Registrar, as soon as practicable after the amendment, a copy of the instrument by which the amendment to the deed was made.
+(2) The Registrar must promptly register every copy of an instrument amending a deed that—
   (a) is delivered to him or her for registration under this section; and
   (b) if the Registrar so requires, is accompanied by a copy of the deed as amended.
-(3) The Registrar may refuse to register a copy of an instrument amending a deed if—
-  (a) pursuant to section 46(2) of this Act, he or she could have refused to register the deed as amended if it had been delivered for registration at the time of the delivery to him or her of the copy of the instrument; or
-  (b) the prescribed registration fee is not paid.
-(4) Upon registration of a copy of an instrument pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the copy has been registered under this section.
+(3) However, the Registrar must refuse to register a copy of an instrument amending a deed if,—
+  (a) in his or her opinion, the deed as amended contains any material matter that is not clearly legible; or
+  (b) the prescribed amount payable on registration is not paid.
+(4) The Registrar must, on the registration of a copy of an instrument of amendment under this section, give a certificate of that registration (and the certificate is conclusive evidence that the instrument has been registered under this section).
+
+### 47A Registrar not required to consider certain matters
+It is not the function of the Registrar, when acting under section 46 or 47, to consider whether a trust deed or deed of participation—
+  (a) complies with this Act or the regulations; or
+  (b) contains any misdescription or error.
 
 **Trustees and statutory supervisors**
 
 ### 48 Persons who may act as trustees and statutory supervisors
-(1) No person other than a trustee corporation or a person approved for the purpose by the Commission in accordance with this section, shall accept appointment or act as a trustee or statutory supervisor.
+(1) No person other than a trustee corporation or a person approved for the purpose by the FMA in accordance with this section, shall accept appointment or act as a trustee or statutory supervisor.
 (2) No trustee or statutory supervisor shall, without the consent of the Court, be discharged or retire from that position until—
   (a) all functions and duties of that position have been fulfilled and performed; or
   (b) the issuer of the securities has appointed another person as a trustee or statutory supervisor, as the case may be, in its place, and that person has accepted appointment as such.
-(3) The Commission may from time to time, by notice in the Gazette, approve any person or persons, or class or classes of persons, to act as a trustee or statutory supervisor for the purposes of this Act. Any such approval may be in respect of specified securities, or a specified class or classes of securities only, or in respect of all securities; and may be on such terms and conditions as the Commission thinks fit.
-(4) The Commission may at any time, by notice in the Gazette, revoke any approval of a person, or class of persons, given by it under this section:
-  Provided that no such revocation shall affect any appointment of that person or a person of that class made before the date of the revocation, or the powers, duties, or obligations of the person under or by virtue of any such appointment.
+(3) The FMA may from time to time, by notice in the Gazette, approve any person or persons, or class or classes of persons, to act as a trustee or statutory supervisor for the purposes of this Act. Any such approval may be in respect of specified securities, or a specified class or classes of securities only, or in respect of all securities; and may be on such terms and conditions as the FMA thinks fit.
+(4) The FMA may at any time, by notice in the Gazette, revoke any approval of a person, or class of persons, given by it under this section:
+  provided that no such revocation shall affect any appointment of that person or a person of that class made before the date of the revocation, or the powers, duties, or obligations of the person under or by virtue of any such appointment.
 (5) A person may act as trustee or statutory supervisor in respect of all or any securities offered to the public by the same issuer:
-  Provided that nothing in this subsection shall derogate from subsection (1) of this section.
+  provided that nothing in this subsection shall derogate from subsection (1) of this section.
 
 ### 49 Trustees and statutory supervisors may apply to Court for orders relating to securities
 (1) Where at any time after due inquiry, a trustee or statutory supervisor of securities is of the opinion that—the trustee or statutory supervisor may, in its absolute discretion, apply to the Court for an order or orders under this section.
@@ -1450,6 +1513,18 @@ If the Commission makes a prohibition order,—
 (3) The auditor of an issuer of units in a unit trust that has units held by members of the public shall from time to time, at the request of the unit trustee, furnish to the unit trustee such information or particulars relating to the issuer as are requested and are within the auditor's knowledge and are, in the auditor's opinion, relevant to the exercise or performance of the powers or duties of the unit trustee.
 (4) Nothing in this section affects the duties or liability of an issuer of units in a unit trust or a unit trustee.
 
+### 50B Duty of auditor to report to KiwiSaver trustee
+(1) This section applies to the auditor of an issuer of interests in a KiwiSaver scheme other than a restricted scheme.
+(2) If the auditor provides the issuer with any report, financial statement, certificate, or other document required by an Act or a trust deed relating to the scheme, the auditor must, as soon as practicable, send a copy to the KiwiSaver trustee.
+(3) If, in the performance of the auditor's duties, the auditor becomes aware of a matter that, in the auditor's opinion, is relevant to the exercise or performance of the powers or duties of the KiwiSaver trustee, the auditor must, within 7 working days of becoming aware of the matter, send—
+  (a) a written report on the matter to the issuer of interests in the scheme; and
+  (b) a copy of the report to the KiwiSaver trustee.
+(4) The auditor must, from time to time, at the request of the KiwiSaver trustee, provide the KiwiSaver trustee with any information relating to the issuer—
+  (a) that the KiwiSaver trustee requests; and
+  (b) that is within the auditor's knowledge; and
+  (c) that is, in the auditor's opinion, relevant to the exercise or performance of the powers or duties of the KiwiSaver trustee.
+(5) This section does not limit the duties or liability of a KiwiSaver trustee or an issuer of interests in a KiwiSaver scheme other than a restricted scheme.
+
 **Obligations of issuers**
 
 ### 51 Issuers to keep registers of securities
@@ -1476,6 +1551,7 @@ If the Commission makes a prohibition order,—
   (a) in the case of equity securities, the security holders at their next meeting:
   (b) in the case of debt securities, the trustee:
   (c) in the case of participatory securities, the statutory supervisor:
+  (ca) in the case of interests in a KiwiSaver scheme other than a restricted scheme, the KiwiSaver trustee:
   (d) in the case of units in a unit trust, the unit trustee.
 (9) Every issuer shall send a notice to the Registrar of the place where its registers are kept and of any change in that place.
 (10) Subsection (9) of this section does not apply to an issuer that is a company if the registers of the company are kept at its registered office.
@@ -1518,7 +1594,7 @@ Accounting records required by section 53 of this Act and the documents in respe
 (2) Nothing in subsection (1) of this section derogates from any other requirement to keep accounting records for a particular time.
 
 ### 53D Inspection of accounting records
-Every issuer shall make the accounting records required to be kept under section 53 of this Act and the documents in respect of the business dealt with in those accounting records referred to in section 53A of this Act available in written form in English at all reasonable times for inspection without charge by the directors of the issuer and by any trustee, statutory supervisor, or unit trustee and by other persons authorised or permitted to inspect the accounting records of the issuer or scheme.
+Every issuer shall make the accounting records required to be kept under section 53 of this Act and the documents in respect of the business dealt with in those accounting records referred to in section 53A of this Act available in written form in English at all reasonable times for inspection without charge by the directors of the issuer and by any trustee, statutory supervisor, KiwiSaver trustee, or unit trustee and by other persons authorised or permitted to inspect the accounting records of the issuer or scheme.
 
 ### 53E Financial statements to be audited
 (1) Every issuer of equity securities or debt securities or life insurance policies offered to the public (other than securities that have been redeemed) shall ensure that its financial statements are audited at least once a year by a qualified auditor.
@@ -1532,7 +1608,7 @@ Nothing in sections 53 to 53E of this Act derogates from the Companies Act 1993 
 ### 54 Issuers to issue certificates evidencing securities
 (1) Every issuer of an equity security, a debt security, a unit, or a participatory security offered to the public shall send, or cause to be sent, to the security holder either the security or a certificate of the security within one month of the allotment, or receipt by or on behalf of the issuer of a registrable transfer, of the security.
 (2) Every security or certificate sent to a security holder pursuant to this section shall be executed by or on behalf of the issuer of the security:
-  Provided that it shall be sufficient compliance with the provisions of this subsection requiring a security or certificate to be executed by any person if a facsimile of the required signature and seal (if any) is reproduced on the security or certificate.
+  provided that it shall be sufficient compliance with the provisions of this subsection requiring a security or certificate to be executed by any person if a facsimile of the required signature and seal (if any) is reproduced on the security or certificate.
 (3) Nothing in this section applies to an issuer in respect of securities that are approved for transfer under, or in accordance with the rules of, a system that does not require a certificate for the transfer of securities.
 (4) In this section,—
   - **certificate** means a certificate or any other document that properly evidences the nature, ownership, terms, and conditions of a security
@@ -1552,6 +1628,32 @@ Every issuer of securities offered to the public for subscription shall send, or
   (c) a copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
 (4) The documents referred to in subsection (3) of this section must be sent to the security holder or prospective investor as soon as practicable but, in any event, within 5 working days of the issuer receiving the request.
 
+### 54C Documents, information, and other matters to be made publicly available
+(1) Every issuer of securities offered to the public for subscription must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, make publicly available the documents, information, and other matters that are required to be made publicly available by the regulations.
+(2) The documents, information, and other matters must, if required by the regulations, be presented, calculated, or prepared in accordance with the frameworks or methodologies specified in a notice issued by the FMA under section 54D.
+
+### 54D FMA may specify frameworks or methodologies
+(1) The FMA may issue a notice that specifies frameworks or methodologies relating to the manner in which documents, information, or other matters that are to be made publicly available under section 54C are to be presented, calculated, or prepared.
+(2) A notice issued by the FMA—
+  (a) may specify different matters and requirements in respect of different kinds of securities or different classes of issuers:
+  (b) must not specify matters and requirements that are inconsistent with regulations made under section 70(1)(cb).
+(3) A notice issued by the FMA—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives under section 4 of that Act; but
+  (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice issued by the FMA must, as soon as practicable after it is issued, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(5) A notification in the Gazette for the purpose of subsection (4)(b) does not have to include the text of the notice.
+
+### 54E Consultation
+(1) The FMA must not issue a notice under section 54D unless the FMA has consulted the persons or representatives of the persons that the FMA considers will be substantially affected by the issue of the notice.
+(2) A failure to comply with subsection (1) does not affect the validity of the notice.
+
+### 54F FMA may vary or revoke notice
+(1) The FMA may vary or revoke a notice issued under section 54D.
+(2) Sections 54D(2) to (5) and 54E apply, with necessary modifications, in all respects to a variation or revocation under this section.
+
 **Liability of issuers, etc, and offences**
 
 ### 55 Interpretation of provisions relating to advertisements, prospectuses, and registered prospectuses
@@ -1569,7 +1671,7 @@ For the purposes of this Act,—
 
 ### 55A Overview of civil liability
 (1) The following civil remedies are available from the Court under this Act if there is a civil liability event:
-  (a) a pecuniary penalty order and declaration of civil liability (on application by the Commission only) under section 55C:
+  (a) a pecuniary penalty order and declaration of civil liability (on application by the FMA only) under section 55C:
   (b) compensation under section 55G.
 (2) Sections 56 to 57A cover who is liable for the civil liability event for both these remedies.
 (3) This section is a guide only to the general scheme and effect of sections 55B to 57E.
@@ -1580,7 +1682,7 @@ In this Part, a civil liability event is—
   (b) a breach of regulations made under this Act relating to the offer, sale, or management of interests in contributory mortgages.
 
 ### 55C When Court may make pecuniary penalty orders and declarations of civil liability
-If the Commission applies for a pecuniary penalty order against a person under this Act, the Court—
+If the FMA applies for a pecuniary penalty order against a person under this Act, the Court—
   (a) must determine whether there has been a civil liability event and whether the person is liable for a pecuniary penalty order for that civil liability event under sections 56 to 57A; and
   (b) must make a declaration of civil liability if satisfied of those matters (see sections 55D and 55E); and
   (c) may order the person to pay to the Crown a pecuniary penalty that the Court considers appropriate (see section 55F) if satisfied of those matters and that the civil liability event—
@@ -1609,11 +1711,11 @@ A declaration of civil liability must state the following:
   (e) whether or not the person has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct.
 
 ### 55G Compensation orders
-(1) The Court may, on the application of the Commission or a subscriber, order a liable person to pay compensation to all or any of the persons who subscribed for any securities on the faith of an advertisement or registered prospectus that includes an untrue statement, for the loss or damage that the persons have sustained by reason of the untrue statement.
-(2) The Court may, on the application of the Commission or a subscriber for an interest in a contributory mortgage, order a liable person to pay compensation to all or any of the persons who subscribe for an interest in a contributory mortgage or who hold an interest in a contributory mortgage, for the loss or damage they have sustained by reason of any breach of regulations made under this Act relating to the offer, sale, or management of interests in contributory mortgages.
+(1) The Court may, on the application of the FMA or a subscriber, order a liable person to pay compensation to all or any of the persons who subscribed for any securities on the faith of an advertisement or registered prospectus that includes an untrue statement, for the loss or damage that the persons have sustained by reason of the untrue statement.
+(2) The Court may, on the application of the FMA or a subscriber for an interest in a contributory mortgage, order a liable person to pay compensation to all or any of the persons who subscribe for an interest in a contributory mortgage or who hold an interest in a contributory mortgage, for the loss or damage they have sustained by reason of any breach of regulations made under this Act relating to the offer, sale, or management of interests in contributory mortgages.
 (3) A liable person is a person who is liable for compensation for the relevant civil liability event under any of sections 56 to 57A.
 (4) The liable person must pay any compensation ordered under the compensation order.
-(5) The Court may, if the proceedings were brought or conducted (in whole or in part) by the Commission, direct that the Commission's costs in conducting the proceedings be paid from any amounts recovered under a compensation order.
+(5) The Court may, if the proceedings were brought or conducted (in whole or in part) by the FMA, direct that the FMA's costs in conducting the proceedings be paid from any amounts recovered under a compensation order.
 (6) Subsection (5) does not limit section 65B.
 
 ### 56 Which persons are liable for misstatements
@@ -1626,10 +1728,10 @@ A declaration of civil liability must state the following:
     (i) has signed the prospectus as a director of the issuer or is a director on whose behalf the prospectus has been so signed; or
     (ii) has authorised himself or herself to be named and is named in the prospectus as a director of the issuer or has agreed to become a director either immediately or after an interval of time:
   (d) the person is a promoter of the securities referred to in the advertisement or registered prospectus.
-(2) No person shall be liable under subsection (1)(c) of this section in respect of any untrue statement included in a registered prospectus if he or she proves that, having consented to become a director of the issuer, he or she withdrew his or her consent before the distribution of the registered prospectus, and that he or she gave written notice of his or her withdrawal and the reason therefor to the Commission, and that the registered prospectus was distributed without his or her authority or consent.
+(2) No person shall be liable under subsection (1)(c) of this section in respect of any untrue statement included in a registered prospectus if he or she proves that, having consented to become a director of the issuer, he or she withdrew his or her consent before the distribution of the registered prospectus, and that he or she gave written notice of his or her withdrawal and the reason therefor to the FMA, and that the registered prospectus was distributed without his or her authority or consent.
 (3) No person shall be liable under subsection (1) of this section in respect of any untrue statement included in an advertisement or registered prospectus, as the case may be, if he or she proves that—
-  (a) the advertisement was distributed or the prospectus was registered, as the case may be, without his or her knowledge or consent, and on becoming aware of its distribution or registration he or she forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission that it was distributed or registered without his or her knowledge or consent, and also gave reasonable public notice that it was distributed or registered without his or her knowledge or consent; or
-  (b) after the distribution of the advertisement or the registration of the prospectus, as the case may be, and before the securities were subscribed for, he or she, on becoming aware of any untrue statement therein, withdrew his or her consent thereto and forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also forthwith gave reasonable public notice of the withdrawal; or
+  (a) the advertisement was distributed or the prospectus was registered, as the case may be, without his or her knowledge or consent, and on becoming aware of its distribution or registration he or she promptly gave notice to the trustee, statutory supervisor, KiwiSaver trustee, unit trustee, or superannuation trustee (if any) and the FMA that it was distributed or registered without his or her knowledge or consent; or
+  (b) after the distribution of the advertisement or the registration of the prospectus, as the case may be, and before the securities were subscribed for, he or she, on becoming aware of any untrue statement in the advertisement or the prospectus, withdrew his or her consent to the distribution or the registration and promptly gave notice to the trustee, statutory supervisor, KiwiSaver trustee, unit trustee, or superannuation trustee (if any) and the FMA of the withdrawal and of the reason for the withdrawal; or
   (ba) (in the case of liability for a pecuniary penalty order) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he or she had reasonable grounds to believe and did believe, up to the time of the distribution of the advertisement or registered prospectus, that the statement was true; or
   (c) (in the case of liability for compensation) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he or she had reasonable grounds to believe and did, up to the time of the subscription for the securities, believe that the statement was true; or
   (d) as regards every untrue statement purporting to be a statement by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert,—
@@ -1648,7 +1750,7 @@ A declaration of civil liability must state the following:
   (b) the untrue statement purports to be made by him or her as an expert.
 (2) No person shall be liable under subsection (1) of this section if he or she proves that—
   (a) having given his or her consent to the distribution of the advertisement or registered prospectus, he or she withdrew it in writing before distribution of the advertisement or registered prospectus; or
-  (b) after distribution of the advertisement or registered prospectus and before the securities were subscribed for, he or she, on becoming aware of the untrue statement or omission, withdrew his or her consent in writing and gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also gave reasonable public notice of the withdrawal; or
+  (b) after distribution of the advertisement or registered prospectus and before the securities were subscribed for, he or she, on becoming aware of the untrue statement or omission, withdrew his or her consent in writing and gave notice to the trustee, statutory supervisor, KiwiSaver trustee, unit trustee, or superannuation trustee (if any) and the FMA of the withdrawal and of the reason for the withdrawal; or
   (ba) (in the case of liability for a pecuniary penalty order) he or she was competent to make the statement and that he or she had reasonable grounds to believe and did, up to the time of the distribution of the advertisement or registered prospectus, believe that the statement was true; or
   (c) (in the case of liability for compensation) he or she was competent to make the statement and that he or she had reasonable grounds to believe and did, up to the time of the subscription for the securities, believe that the statement was true.
 (3) Where any person acting in good faith, believing a statement in an advertisement or registered prospectus to be untrue, withdraws his or her consent to the distribution of the advertisement or registered prospectus, he or she shall not be liable in respect of the withdrawal to the issuer or to any other person, whether or not the statement is untrue.
@@ -1676,7 +1778,7 @@ If conduct by a person constitutes 2 or more civil liability events, proceedings
 The proceedings under sections 55A to 57A are civil proceedings and the usual rules of the Court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
 
 ### 57E Time limit for applying for civil remedies
-(1) An application for a pecuniary penalty order may be made at any time within 2 years after the date on which the matter giving rise to the civil liability event was discovered or ought reasonably to have been discovered.
+(1) An application for a pecuniary penalty order may be made at any time within 3 years after the date on which the matter giving rise to the civil liability event was discovered or ought reasonably to have been discovered.
 (2) The usual time limits apply to all applications for compensation.
 (3) However, an application for compensation in respect of the civil liability event may be made at any time within 6 months after the date on which a declaration of civil liability is made, even if the usual time limit has expired.
 
@@ -1687,7 +1789,7 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
   (a) the issuer of the securities referred to in the advertisement, if an individual; or
   (b) if the issuer of the securities is a body, every director thereof at the time the advertisement is distributed—
 (2) No person shall be convicted of an offence under subsection (1) of this section if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the advertisement, believe that the statement was true.
-(3) Subject to subsection (4) of this section, where a registered prospectus that includes an untrue statement is distributed, every person who signed the prospectus, or on whose behalf the registered prospectus was signed for the purposes of section 41(b) of this Act, commits an offence.
+(3) Subject to subsection (4) of this section, where a registered prospectus that includes an untrue statement is distributed, every person who signed the prospectus, or on whose behalf the registered prospectus was signed for the purposes of section 41(1)(b) of this Act, commits an offence.
 (4) No person shall be convicted of an offence under subsection (3) of this section if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the prospectus, believe that the statement was true.
 (5) Every person who commits an offence against this section is liable—
   (a) on conviction on indictment to—
@@ -1707,30 +1809,24 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
   (a) the contravention was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused; or
   (b) in the case of a person other than the issuer, in the opinion of the Court dealing with the case, the contravention did not take place with his or her knowledge and consent.
 
-### 59A Criminal liability for obstructing exercise of powers
-(1) Every person commits an offence who—
-  (a) refuses or fails, without reasonable excuse, to produce any document for inspection, or reproduce or assist in reproducing, in usable form, information recorded in that document, when required to do so under section 67; or
-  (b) having been summoned to appear before the Commission or a member, officer, or employee of the Commission, for the purposes of any matter, without reasonable excuse—
-    (i) refuses or fails to appear:
-    (ii) refuses to take an oath or affirmation as a witness:
-    (iii) refuses to answer any question:
-    (iv) refuses or fails to provide any document or information that the person is required to provide; or
-  (c) deceives or attempts to deceive or knowingly misleads the Commission or a member, officer, or employee of the Commission in providing evidence to any of them; or
-  (d) is not the Commission, the Registrar, or a person authorised by the Commission or Registrar to make an inspection under section 67A and who wilfully communicates to any other person information acquired in the course of an inspection under that section; or
-  (e) wilfully acts in contravention of any order made by the Commission under section 69N; or
-  (f) wilfully contravenes section 68D; or
-  (g) wilfully resists or obstructs, or deceives or attempts to deceive, any person acting in the discharge of his or her functions or duties, or in the exercise of his or her powers, under this Act.
-(1A) A body corporate commits an offence under subsection (1)(b) if its representative refuses or fails to appear, refuses to take an oath or affirmation as a witness, refuses to answer any question, or refuses or fails to provide any document or information that the body corporate is required to provide.
-(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+### 59A Criminal liability for delivering prospectus or amendment for registration that does not comply with various requirements
+(1) The issuer of securities to which a prospectus relates commits an offence if, when the prospectus is delivered to the Registrar for registration under this Act,—
+  (a) any of sections 39(1), 40, or 41(1) are not complied with in respect of the prospectus; and
+  (b) the issuer knows, or ought reasonably to know, that any of sections 39(1), 40, or 41(1) have not been complied with in respect of the prospectus.
+(2) The issuer of securities to which a registered prospectus relates commits an offence if—
+  (a) an instrument to amend the prospectus is delivered to the Registrar for registration under this Act that would result, if the amendment were made, in the prospectus failing to comply with section 39(1) or 40; and
+  (b) when the instrument is delivered for registration under this Act, the issuer knows, or ought reasonably to know, that if the amendment in the instrument were made it would result in the prospectus failing to comply with section 39(1) or 40.
+(3) An issuer that commits an offence under subsection (1) or (2) is liable, on summary conviction, to a fine not exceeding $30,000.
+(4) This section applies in respect of prospectuses and instruments of amendment delivered to the Registrar for registration under this Act on or after the commencement of this section.
 
 ### 60 Other offences
 (1) Every person who—commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
   (a)
   (b)
-  (c) makes a record of or divulges or communicates to any other person, without reasonable excuse and otherwise than in accordance with section 67(5) of this Act or for the purposes of this Act or any of the Acts listed in Schedule 1 to this Act or in the course of any criminal proceedings, any information that he or she has acquired in the course of an inspection under section 67 of this Act; or
-  (d) without reasonable excuse, acts in contravention of, or fails to comply in any respect with, any provision of sections 35, 47, 50, 51, 52, and 54 of this Act or any requirement imposed pursuant to any of those sections—
-(2) If a person contravenes or fails to comply in any respect with any provision of sections 7, 37(4), 48, 53 to 53E, 54A, and 54B of this Act, or any requirement imposed pursuant to any of those sections, the person, and every principal officer thereof, commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
-  Provided that—
+  (c)
+  (d) without reasonable excuse, acts in contravention of, or fails to comply in any respect with, any provision of sections 35, 43B(1), 47, 50, 51, 52, and 54 of this Act or any requirement imposed pursuant to any of those sections—
+(2) If a person contravenes or fails to comply in any respect with any provision of sections 7, 37(4), 43D(1), 48, 53 to 53E, and 54A to 54C of this Act, or any requirement imposed pursuant to any of those sections, the person, and every principal officer thereof, commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
+  provided that—
     (a) no person shall be convicted under this subsection in respect of any such contravention or failure to comply if the contravention or failure was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused:
     (b) no principal officer shall be convicted under this subsection in respect of any such contravention or failure to comply if, in the opinion of the Court dealing with the case, the contravention or failure did not take place with his or her knowledge and consent.
 
@@ -1738,13 +1834,14 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 
 ### 60A When Court may make management banning orders
 (1) The Court may, on application by an entitled person, make a management banning order against a person (A) if—
-  (a) A has been convicted of an offence against any of sections 58, 59, or 59A or a pecuniary penalty order has been made against A under this Act; or
+  (a) A has been convicted of an offence against section 58 or 59 or a pecuniary penalty order has been made against A under this Act; or
+  (ab) A has been convicted of an offence against section 51 or 61 of the Financial Markets Authority Act 2011; or
   (b) A has, while a director of an incorporated or unincorporated body,—
     (i) persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Takeovers Act 1993, or the takeovers code in force under that Act; or
     (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
   (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the Court is satisfied are substantially similar to any of the activities referred to in section 60B in connection with a contravention of any law relating to the offering of securities.
 (2) An entitled person is—
-  (a) the Commission:
+  (a) the FMA:
   (b) the Registrar:
   (c) an incorporated or unincorporated body that—
     (i) A is a director of at the time of the application; or
@@ -1762,27 +1859,42 @@ An individual who acts in contravention of a management banning order under sect
 If conduct by a person constitutes grounds for making an order under any 1 or more of section 60A of this Act, section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 
 ### 60E Persons automatically banned from management
-(1) This section applies to a person if the person has been convicted of an offence against either section 58 or 59A or a pecuniary penalty order has been made against the person under this Act.
+(1) This section applies to a person if—
+  (a) the person has been convicted of an offence against section 58 of this Act or section 51 or 61 of the Financial Markets Authority Act 2011; or
+  (b) a pecuniary penalty order has been made against the person under this Act.
 (2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the Court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+(2A) The Court may give leave for the purposes of subsection (2)—
+  (a) at the time of conviction or making of the order, or at any other time on the application of the relevant person:
+  (b) in respect of a particular incorporated or unincorporated body, a class of incorporated or unincorporated bodies, or incorporated or unincorporated bodies generally.
 (3) An individual who acts in contravention of this section commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
 
 ### 60F General provisions for bans and banning orders
 (1) The Registrar of the Court must, as soon as practicable after the making of a management banning order by a Court under section 60A,—
-  (a) give notice to the Registrar of Companies and the Commission that the order has been made; and
+  (a) give notice to the Registrar of Companies and the FMA that the order has been made; and
   (b) give notice in the Gazette of the name of the person against whom the order is made and the period or dates for which the ban applies.
-(2) A person intending to apply for the leave of the Court under section 60B or section 60E must give to the Commission not less than 10 working days' written notice of that person's intention to apply.
-(3) The Commission, and any other persons that the Court thinks fit, may attend and be heard at the hearing of the application.
+(2) A person intending to apply for the leave of the Court under section 60B or section 60E must give to the FMA not less than 10 working days' written notice of that person's intention to apply.
+(3) The FMA, and any other persons that the Court thinks fit, may attend and be heard at the hearing of the application.
 
 **Orders to preserve assets to satisfy claims**
 
 ### 60G When Court may prohibit payment or transfer of money, securities, or other property
 (1) This section applies if—
-  (a) an investigation is being carried out under this Act in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or
-  (b) a prosecution has begun against a person for a contravention of this Act; or
-  (c) a civil proceeding has begun against a person under this Act.
-(2) The Court may, on application by the Commission or by an aggrieved person, make 1 or more of the orders listed in section 60H if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
+  (a) an investigation is being carried out under the Financial Markets Authority Act 2011 in relation to an act or omission by a person that—
+    (i) constitutes or may constitute a contravention of this Act; or
+    (ii) constitutes or may constitute a contravention of any other financial markets legislation in connection with an offer of securities to the public or securities offered to the public; or
+    (iii) may result in a prosecution or civil proceedings of the kind referred to in any of paragraphs (b) to (d) being begun against the person; or
+  (b) a prosecution has begun against a person for a contravention of—
+    (i) this Act; or
+    (ii) any other financial markets legislation in connection with an offer of securities to the public or securities offered to the public; or
+  (c) civil proceedings have begun against a person under, or in respect of,—
+    (i) this Act; or
+    (ii) any other financial markets legislation in connection with an offer of securities to the public or securities offered to the public; or
+  (d) civil proceedings have begun against a person, being proceedings that, in connection with an offer of securities to the public or securities offered to the public, seek damages or other relief for fraud, negligence, default, breach of duty, or other misconduct.
+(2) The Court may, on application by the FMA or by an aggrieved person, make 1 or more of the orders listed in section 60H if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
 (3) In this section and section 60H,—
   - **aggrieved person** means any person to whom a relevant person is liable
+  - **civil proceedings** means proceedings in a court (other than criminal proceedings)
+  - **financial markets legislation** has the same meaning as in section 4 of the Financial Markets Authority Act 2011
   - **liable** means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
   - **relevant person** means a person referred to in subsection (1).
 
@@ -1797,6 +1909,9 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
   (g) an order appointing,—
     (i) if the relevant person is a natural person, a receiver or trustee, having any powers that the Court orders, of the property or of part of the property of that person; or
     (ii) if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the Court orders, of the property or of part of the property of that person:
+  (ga) an order—
+    (i) removing a person from being a manager of a scheme to which the investigation, prosecution, or proceedings referred to in section 60G(1) relates; and
+    (ii) appointing another person as the manager of the scheme (with any powers that the court orders):
   (h) if the relevant person is a natural person, an order requiring that person to deliver up to the Court his or her passport and any other documents that the Court thinks fit:
   (i) if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the Court.
 (2) A reference in subsection (1)(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
@@ -1886,8 +2001,8 @@ Nothing in this Act shall limit or diminish any liability that any person may in
 ### 65A Jurisdiction of Courts in New Zealand
 The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against Part 2.
 
-### 65B Court may order payment of Commission's costs
-If the Commission brings or conducts proceedings under this Act and the Court makes any order against a person under this Act, the Court may also order that person to pay the Commission's costs and expenses in conducting the proceedings.
+### 65B Court may order payment of FMA's costs
+If the FMA brings or conducts proceedings under this Act and the Court makes any order against a person under this Act, the Court may also order that person to pay the FMA's costs and expenses in conducting the proceedings.
 
 ### 65C Orders to secure compliance
 The Court may, for the purpose of securing compliance with any other order it makes under this Act, direct a person to do or refrain from doing a specified act.
@@ -1904,6 +2019,25 @@ Before making an order under this Act, the Court may direct the person making th
 ### 65F No pecuniary penalty and fine for same conduct
 A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act for the same conduct.
 
+### 65G Appeals against decisions of FMA on questions of law only
+A person that considers that a decision of the FMA under any of the following provisions is wrong in law may appeal against the decision to the High Court on a question of law only:
+  (a) section 38B (which relates to the prohibition of advertisements):
+  (b) section 43F (which relates to the prohibition of the distribution of investment statements):
+  (c) section 43G (which relates to orders to prohibit allotments or the cancellation of the registration of prospectuses):
+  (d) section 44A (which relates to delayed allotment orders):
+  (e) section 44AE (which relates to prohibition orders):
+  (f) section 44B (which relates to the FMA's powers in respect of contributory mortgages).
+
+### 65H Power of Registrar to delegate
+(1) The Registrar may delegate to any person, either generally or particularly, any of the Registrar's functions, duties, and powers under this Act except the power of delegation.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions the Registrar thinks fit; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Registrar.
+(3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+
 ### 66 Registers to be kept by Registrar for purposes of this Act
 (1) The Registrar shall cause to be kept in the office of each District Registrar of Companies such registers as he or she considers necessary for the purposes of this Act, and all matters required by this Act to be registered or recorded by the Registrar shall be recorded therein.
 (2) Sections 360, 361, and 363 of the Companies Act 1993 apply in respect of any documents kept by the Registrar for the purposes of this Act as if they were documents kept for the purposes of that Act.
@@ -1913,84 +2047,49 @@ A person cannot be ordered to pay a pecuniary penalty and be liable for a fine u
 **Powers of inspection**
 
 ### 67 Power to inspect documents
-(1) The Commission may, in accordance with section 68,—
-  (a) require any person to produce for inspection any document kept by that person:
-  (b) if necessary, require any person to reproduce, or assist in reproducing, in usable form, information recorded in a document:
-  (c) inspect and make records of that document:
-  (d) for the purpose of making records of that document, take possession of that document, or any article or thing that the Commission reasonably requires to make a record of that document, and remove the document, article, or thing from the premises where it is kept for the period of time that is reasonable in the circumstances.
-(2) Documents may be required under this section either specifically, generally, or by class, nature, content, or effect.
+[Repealed]
 
 ### 67A Power to request or approve Registrar or authorised persons to inspect documents
-(1) The Commission may, in accordance with sections 68 and 68A, request or approve the Registrar, or any other person authorised by the Commission or Registrar, to carry out an inspection by doing any of the things in section 67(1).
-(2) A request or approval under subsection (1) may relate to a particular case, or a class or classes of cases, specified by the Commission.
-(3) The fact that the Registrar, or any person authorised by the Commission or Registrar, does, or attempts to do, any of the things in section 67(1) is sufficient evidence that that inspection under this section has been requested or approved by the Commission unless there is evidence to the contrary.
-(4) Section 73 of the Crown Entities Act 2004 does not limit this section.
+[Repealed]
 
 ### 68 Limits on exercise of power to inspect documents
-The Commission may carry out an inspection under section 67, or request or approve the Registrar or any other person under section 67A to carry out an inspection, only if—
-  (a) the inspection is for the purposes of—
-    (i) this Act, the Securities Markets Act 1988, or any of the Acts listed in Schedule 1:
-    (ii) complying with the request of an overseas regulator under section 69F or otherwise co-operating with an overseas regulator; and
-  (b) the Commission first considers, along with any other relevant matters, any matters relating to the necessity or expediency of carrying out an inspection (for example, whether it is practicable to obtain the information from other sources or by other means in the time available).
+[Repealed]
 
 ### 68A Requirements for persons authorised to inspect documents
-(1) The Commission or Registrar must not authorise a person to carry out an inspection under section 67 unless the Commission or Registrar is satisfied that the person is suitably qualified or trained, or the person is a member of a class of persons who are suitably qualified or trained, to carry out an inspection.
-(2) A person authorised by the Commission or Registrar to carry out an inspection under section 67 must, if requested at the time of carrying out the inspection, produce evidence of that person's authority to carry out the inspection.
+[Repealed]
 
 ### 68B Disclosure of information from inspection
-(1) On the direction of the Commission or Registrar, a person who has made an inspection under section 67A must give all records and disclose all information acquired in the course of the inspection to any person specified by the Commission or Registrar for the purposes of—
-  (a) this Act, the Securities Markets Act 1988, the Takeovers Act 1993, or any of the other Acts listed in Schedule 1:
-  (b) detecting and prosecuting offences against any other Act, but, in this case, those records and information are not admissible in any criminal proceedings against the person from whom the records or information were acquired or any person to whom the records or information relate:
-  (c) assisting the Commission to comply with the request of an overseas regulator under section 69F or otherwise co-operate with an overseas regulator.
-(2) The Minister may, by written notice, require the Commission or Registrar to give a direction under subsection (1), and the Commission or Registrar must comply with that requirement.
-(2A) Section 115 of the Crown Entities Act 2004 does not apply to a direction by the Minister under subsection (2).
-(3) The Commission may, by written notice, require the Registrar to give a direction under subsection (1), and the Registrar must comply with that requirement.
-(4) This section is subject to section 69N of this Act and to section 31X of the Takeovers Act 1993.
+[Repealed]
 
 ### 68C Powers not limited
-Sections 67 to 68B do not limit any power that the Registrar, Commission, or any other person has under the Companies Act 1993 or any other enactment.
+[Repealed]
 
 ### 68D Non-disclosure of information from inspection
-A person must not communicate to any other person any records or information acquired in the course of an inspection under section 67 except—
-  (a) in accordance with section 68B; or
-  (b) for the purposes of this Act, the Securities Markets Act 1988, the Takeovers Act 1993, or any of the other Acts listed in Schedule 1; or
-  (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
-  (d) in the course of criminal proceedings (but subject to the limitation in section 68B(1)(b)).
+[Repealed]
 
 ### 68E No privilege against self-incrimination
-Section 69T applies to information and documents provided under section 67.
+[Repealed]
 
 ### 68F Protection from liability for persons exercising powers of inspection
-Without limiting any other statutory protection from liability, no person is liable for any act done or omitted to be done by the person in the performance or intended performance of the person's powers under section 67, section 68B, or section 68D unless the person acts in bad faith.
+[Repealed]
 
 ### 68G Rights of appeal
-A person who is aggrieved by an act or decision of the Commission or Registrar, or of any person authorised by the Commission or Registrar, under any of sections 67 to 68B may appeal against the act or decision to the Court.
+[Repealed]
 
 ### 68H Time for appeal
-An appeal under section 68G must be made—
-  (a) within 21 days of the date on which the person was notified of the act or decision; or
-  (b) within any longer time allowed by the Court.
+[Repealed]
 
 ### 68I Situation while appeal pending
-While any appeal under section 68G is pending,—
-  (a) the Commission or Registrar, or any person authorised by the Commission or Registrar, may continue to exercise the powers under any of sections 67 to 68B as if no appeal had been made; and
-  (b) no person is excused from fulfilling his or her obligations under any of those sections by reason of the appeal; and
-  (c) information that is obtained as a result of an inspection to which the appeal relates is not admissible as evidence in any criminal proceedings against the person to whom the information relates.
+[Repealed]
 
 ### 68J Determination of appeal
-The Court must determine the appeal by either dismissing the appeal or giving the directions or making the determination in the matter that it thinks fit.
+[Repealed]
 
 ### 68K Requirements where appeal allowed
-To the extent that an appeal in respect of an act or decision of the Commission or Registrar, or any person authorised by the Commission or Registrar, under any of sections 67 to 68B is allowed or granted,—
-  (a) the Commission or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Commission or Registrar, or by a person authorised by the Commission or Registrar, under section 67(1)(c) in respect of the act or decision are destroyed; and
-  (b) No information acquired under section 67(1)(a) or (b) in respect of the act or decision is admissible in evidence in any proceedings.
+[Repealed]
 
 ### 69 Appeals against other decisions of Registrar
-(1) Any person who is aggrieved by—may within 15 working days after being notified of such refusal, act, or decision, or within such further time as the Commission may allow, appeal against the refusal, act, or decision to the Commission.
-  (a) the refusal of the Registrar to register any prospectus, deed, memorandum of amendments to a registered prospectus, or instrument amending a deed; or
-  (b) any other refusal, act, or decision of the Registrar under any provision of this Act (other than section 67 or section 67A) or any regulations made under this Act,—
-(2) On hearing the appeal, the Commission may confirm the refusal, act, or decision of the Registrar or may give such directions or make such other determination in the matter as it thinks fit; and, subject to section 26 of this Act, the determination of the Commission on the appeal shall be final and binding on the parties thereto.
-(3) On any appeal under this section the Commission may make an order for the payment by any party to the appeal of the costs incurred in respect of the appeal by any other party to the appeal, and in any such case the costs so awarded shall be recoverable as a debt due by the party against whom they have been awarded to the party in whose favour they have been awarded.
+[Repealed]
 
 ### 69A Appeals from decisions under section 67A
 [Repealed]
@@ -1998,188 +2097,82 @@ To the extent that an appeal in respect of an act or decision of the Commission 
 **Commission's powers for receiving evidence**
 
 ### 69B Who may receive evidence
-(1) The Commission may receive evidence through a member, officer, or employee of the Commission, or any 2 or more of them.
-(2) However, if a person who is summoned to give evidence under section 69D requests that the evidence be received by a meeting of the Commission, then—
-  (a) subsection (1) does not apply, and the evidence must be received at a meeting of the Commission; and
-  (b) the meeting must not be held by a method under section 15(2A)(b) except with the consent of the person summoned.
+[Repealed]
 
 ### 69BA Admissibility of evidence
-The Commission may receive in evidence, whether admissible in a court of law or not, any statement, document, information, or matter that,—
-  (a) in the opinion of the person receiving it, may assist the Commission in dealing effectively with any matter before it; or
-  (b) the Commission may receive under section 69F.
+[Repealed]
 
 ### 69C How evidence may be given
-(1) The Commission may receive evidence—
-  (a) given on oath:
-  (b) given not on oath:
-  (c) if the person receiving the evidence permits it, given by a written statement:
-  (d) if the person receiving evidence permits it, given by a written statement verified on oath:
-  (e) given by audio-visual communication, if the Commission and the person giving the evidence agree.
-(2) A member, officer, or an employee of the Commission may administer an oath for the purpose of a person giving evidence on oath.
+[Repealed]
 
 ### 69D Power to summon witnesses
-(1) A member of the Commission may issue a summons to a person requiring that person to appear (in the case of a body corporate, to appear by its authorised representative) before the Commission, or a member, officer, or employee of the Commission, in relation to any matter before the Commission and to do any of the following things:
-  (a) give evidence:
-  (b) give evidence under oath:
-  (c) provide any documents or information that are in the person's possession or control and that are relevant to the matter.
-(2) The summons must be in writing, be signed by a member of the Commission, and state—
-  (a) the date and time when, and the place where, the person must attend; and
-  (b) the documents or information that the person is required to provide (either generally, specifically, or by class, nature, content, or effect); and
-  (c) the person's right to request that the person give evidence at a meeting of the Commission; and
-  (d) the penalty for failing to attend under section 59A.
-(3) A summons may be served,—
-  (a) in the case of a natural person, by delivering it personally to the person summoned or by leaving it at his or her usual place of residence or business at least 24 hours before his or her attendance is required:
-  (b) in the case of a body corporate, by leaving it at the body corporate's usual place of business at least 24 hours before its attendance is required.
+[Repealed]
 
 ### 69E Witnesses' expenses
-(1) If a person has appeared as a witness (whether or not summoned to do so), the Commission may, if it thinks fit, order any sum to be paid to that witness for his or her expenses.
-(2) That sum must not exceed the amount that would be payable to the witness if his or her attendance had been as a witness for the Crown in a criminal case in accordance with regulations for the time being in force for the payment of witnesses for the Crown in criminal cases.
+[Repealed]
 
 **Exercise of inspection and evidence powers for overseas regulators**
 
 ### 69F Power of Commission to act on requests of overseas regulators
-(1) An overseas regulator may request the Commission to inquire into any matter related to the functions of that overseas regulator.
-(2) The Commission may obtain information, documents, or evidence that, in the Commission's opinion, is likely to assist the Commission in complying with that request by—
-  (a) exercising its powers of inspection, or requesting or approving the Registrar or any other authorised person to exercise the powers of inspection, under this Part:
-  (b) exercising its powers to receive evidence and summon witnesses under this Part.
-(3) The Commission may transmit the information, documents, or evidence obtained by it to the overseas regulator in the manner that the Commission thinks fit.
+[Repealed]
 
 ### 69G Commission's consideration of requests
-(1) The Commission may comply with a request under section 69F only if the Commission is satisfied that—
-  (a) compliance will not substantially affect the performance of its other functions; and
-  (b) it is appropriate to do so after taking into account any matters the Commission thinks relevant; and
-  (c) the Minister has given his or her approval for the Commission to comply with the request.
-(2) The Minister's approval may relate to a particular request, or a class or classes of requests, specified by the Minister.
-(3) The matters the Commission may take into account under subsection (1) include, without limitation,—
-  (a) whether the Commission is likely to be able to obtain the requested information, documents, or evidence:
-  (b) the cost to the Commission of complying with the request:
-  (c) whether the overseas regulator could more conveniently have the request satisfied from another source:
-  (d) the extent to which the functions of the overseas regulator correspond with the functions of the Commission:
-  (e) whether the overseas regulator would be likely to comply with a similar request made by the Commission and whether any arrangement with the overseas regulator to that effect exists:
-  (f) whether, in the Commission's opinion, it would be more appropriate for the request to be dealt with under the Mutual Assistance in Criminal Matters Act 1992.
+[Repealed]
 
 ### 69H Conditions that may be imposed on providing information to overseas regulators
-(1) The Commission may impose any conditions in relation to providing information, documents, or evidence to an overseas regulator (whether in compliance with a request of an overseas regulator or otherwise).
-(2) Those conditions may include, without limitation, conditions relating to—
-  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
-  (b) the storing of, use of, or access to anything provided:
-  (c) the copying, returning, or disposing of copies of documents provided:
-  (d) payment of the costs incurred by the Commission in providing anything or in generally complying with a request.
+[Repealed]
 
 ### 69I Undertakings to be obtained before providing certain information to overseas regulators
-The Commission must not provide any information, evidence, or documents obtained from a person by a summons under section 69D to an overseas regulator (whether in compliance with the request of an overseas regulator or otherwise) unless the Commission has received in writing an undertaking by the overseas regulator to the effect that the information, evidence, or documents—
-  (a) will not be used by the overseas regulator as evidence in criminal proceedings against the person (other than a proceeding in respect of the falsity of the person's testimony); and
-  (b) to the extent to which it is within the ability of the overseas regulator to ensure, will not be used by any other person, authority, or agency as evidence in proceedings of that kind.
+[Repealed]
 
 **Commission's power to accept undertakings**
 
 ### 69J Commission may accept undertakings
-(1) The Commission may accept a written undertaking given by, or on behalf of, a person in connection with a matter in relation to which the Commission is exercising any of its powers or performing any of its functions for the purposes of this Act or any other Act.
-(2) The person may withdraw or vary the undertaking with the consent of the Commission.
+[Repealed]
 
 ### 69K Enforcement of undertakings
-(1) If the Commission considers that a person who has given an undertaking under section 69J has breached a term of that undertaking, the Commission may apply to the Court for an order under subsection (2).
-(2) The Court may make any of the following orders if it is satisfied that the person has breached a term of the undertaking:
-  (a) an order directing the person to comply with that term:
-  (b) an order directing the person to pay to the Crown an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach:
-  (c) any order that the Court thinks appropriate directing the person to compensate any other person who has suffered loss, injury, or damage as a result of the breach:
-  (d) an order for any consequential relief that the Court thinks appropriate.
+[Repealed]
 
 **Proceedings before Commission**
 
 ### 69L Right to be heard and represented at proceedings before Commission
-(1) At any meeting of the Commission for the following purposes, the Commission must allow to be heard and represented any of the following persons who apply to the Commission for leave to be heard and represented:
-  (a) at a meeting for the purposes of section 38B(7), the issuer of the securities to which the advertisement relates:
-  (b) at a meeting for the purposes of section 38F(1)(e), the issuer of the investment statement:
-  (c) at a meeting for the purposes of section 44(1)(b), the issuer of the registered prospectus:
-  (d) at a meeting for the purposes of section 44B(2)(b) or (c), the contributory mortgage broker concerned:
-  (e) at a meeting for the purposes of section 44B(2)(d), the contributory mortgage broker concerned and any director or secretary of the nominee company of that contributory mortgage broker:
-  (f) at a meeting for the purposes of section 69, the person whose appeal is being considered:
-  (g) at a meeting for the purposes of section 42F of the Securities Markets Act 1988, the persons to whom notice of the order must be given under that section:
-  (h)
-  (i) at a meeting for the purposes of section 36ZT of the Securities Markets Act 1988, the registered exchange and public issuer or issuers concerned:
-  (j) at a meeting for the purposes of any of those sections, a person who, in the Commission's opinion, ought to be heard or whose appearance or representation will assist the Commission in its consideration of the matter before it.
-(2) At least 1 person who is a barrister or solicitor of not less than 7 years' practice must attend at every meeting for the purposes of any of the sections to which subsection (1) applies.
+[Repealed]
 
 ### 69M Power to hear proceedings in private
-(1) The Commission may—
-  (a) deliberate in private as to its decision on a matter or as to a question arising in the course of a meeting:
-  (b) on its own initiative or on the application of any party to the proceedings, order that a meeting, class of meetings, or part of a meeting must be held in private.
-(2) However, every meeting of the Commission for the purposes of section 69 must be held in public.
-(3) The Commission may make an order under subsection (1) on the terms and conditions (if any) that it thinks fit.
+[Repealed]
 
 ### 69N Power to make other confidentiality orders
-(1) The Commission may, on its own initiative or on the application of any person, make an order prohibiting—
-  (a) the publication or communication of any information, document, or evidence that is provided or obtained in connection with any inquiry or other proceedings of the Commission or Registrar:
-  (b) the giving of evidence involving any such information, document, or evidence.
-(2) The Commission may make an order under subsection (1) on the terms and conditions (if any) that it thinks fit.
-(3) An order under subsection (1) may be expressed to have effect from the commencement of any inquiry or other proceedings of the Commission or Registrar to the end of that inquiry or proceedings.
-(4) At the end of the inquiry or proceedings, the Official Information Act 1982 applies to any information or document or evidence that was the subject of the order under subsection (1).
+[Repealed]
 
 ### 69O Commission may state case for opinion of High Court
-(1) The Commission may, at any time, state a case for the opinion of the High Court on a question of law arising in a matter before it.
-(2) The High Court may order the removal into the Court of Appeal of a case stated for the opinion of the High Court under this section.
-(3) The High Court or the Court of Appeal, as the case may be, must hear and determine the question, and remit the case with its opinion to the Commission.
+[Repealed]
 
 **Appeals of Commission decisions**
 
 ### 69P Appeals to High Court on questions of law only
-(1) Every decision of the Commission is final and binding on the parties to the proceedings.
-(2) However, if a party to proceedings before the Commission considers that the decision of the Commission is wrong in law, the party may appeal to the High Court on a question of law only.
-(3) This section does not apply to decisions that may be appealed under section 68G.
+[Repealed]
 
 ### 69Q Requirements for lodging appeal
-(1) Every appeal under section 69P(2) must be made by lodging a notice of appeal within 10 working days after the date of the Commission's decision with—
-  (a) the Registrar of the High Court in Wellington; and
-  (b) the Commission.
-(2) The appellant must also immediately deliver or post a copy of that notice of appeal to every other party to the proceedings.
-(3) Every notice of appeal must specify—
-  (a) the decision or the part of the decision appealed from; and
-  (b) the error of law alleged by the appellant; and
-  (c) the question of law to be resolved; and
-  (d) the grounds of appeal.
+[Repealed]
 
 ### 69R Determination of appeal
-(1) Subject to section 69Q, every appeal under section 69P(2) must be dealt with in accordance with the rules of Court.
-(2) In its determination of any appeal under section 69P(2), the Court may—
-  (a) confirm, modify, or reverse the decision appealed against, or any part of that decision; or
-  (b) refer the matter back to the Commission with directions to reconsider the whole or any specified part of the matter.
+[Repealed]
 
 **Miscellaneous provisions**
 
 ### 69S Witnesses and counsel to have privileges of witnesses and counsel in Court
-(1) Every person has the same privileges in relation to providing information and documents to, and answering questions before, the Commission, a member, officer, or employee of the Commission, or a person authorised by the Commission under section 67A, as witnesses have in proceedings before a court.
-(2) Every person appearing as counsel before the Commission, or a member, officer, or employee of the Commission, has the same privileges as counsel have in proceedings before a court.
-(3) Every person has the same privileges in relation to providing information and documents to the Registrar, or a person authorised by the Registrar under section 67A, as witnesses have in proceedings before a court.
-(4) This section is subject to section 69T.
+[Repealed]
 
 ### 69T No privilege against self-incrimination
-No person is excused from answering any question or providing any information or document under this Act on the ground that to do so would or might incriminate or tend to incriminate that person.
+[Repealed]
 
 ### 69U Restrictions on use of self-incriminating statements obtained by summons
-(1) A self-incriminating statement made orally by a person summoned under section 69D (whether or not the statement is recorded in writing) in the course of answering any question before, or providing any information or document to, the Commission, or a member, officer, or employee of the Commission,—
-  (a) subject to paragraph (b), is not admissible in—
-    (i) criminal proceedings against that person; or
-    (ii) proceedings under this Act, the Securities Markets Act 1988, or the Takeovers Act 1993 for a pecuniary penalty order against that person; but
-  (b) is admissible against that person in any proceeding in respect of the falsity of the person's testimony, for example, in a prosecution for perjury or for an offence under section 59A(1).
-(2) In addition,—
-  (a) a refusal or failure to answer a question or provide information or a document or comply with any other requirement may be used in evidence against that person in proceedings for an offence under section 59A(1) arising from that refusal or failure; and
-  (b) the answering of a question in a way that is false, deceptive, or misleading or the providing of information or a document that is false, deceptive, or misleading may be used in evidence against that person in proceedings for an offence under section 59A(1) arising from that act.
+[Repealed]
 
 ### 69V Limitation on disclosure of information obtained in Commission's operations
-(1) No court or other person may require a member, an officer, or an employee of the Commission, any delegate of the Commission, any expert appointed by the Commission, or any other person present at a meeting of the Commission to—
-  (a) give evidence in court or in any proceedings of a judicial nature of anything coming to his or her knowledge in connection with the operations of the Commission; or
-  (b) make discovery of a document or produce a document for inspection in court or in any proceedings of a judicial nature if the document was provided or obtained in connection with the operations of the Commission.
-(2) Subsection (1) does not apply to—
-  (a) proceedings in respect of the falsity of any testimony; or
-  (b) proceedings to which the Commission is a party; or
-  (c) proceedings in respect of—
-    (i) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-    (ii) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-    (iii) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
-(3) This section does not limit the application of the Official Information Act 1982.
+[Repealed]
 
-## Part 4 — Regulations
+## Part 4 — Regulations and exemptions
 
 ### 70 Regulations and Orders in Council
 (1) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister in accordance with subsection (3), make regulations for all or any of the following purposes:
@@ -2190,6 +2183,7 @@ No person is excused from answering any question or providing any information or
     (iii) prescribing requirements as to the layout or method of presentation of any advertisement, investment statement, prospectus, or registered prospectus, and the size of type used therein;—
   (c) providing that statements included in, or relating to an advertisement, investment statement, or registered prospectus or to securities to which an advertisement, investment statement, or registered prospectus relates, made for the purposes of regulations under this Act shall be deemed to be statements made in the advertisement, investment statement, or registered prospectus for the purposes of sections 55 to 65 of this Act:
   (ca) prescribing, in respect of securities offered to the public, the kinds of information that must be sent to security holders periodically or on request; and different kinds of information may be prescribed in respect of different kinds of securities:
+  (cb) prescribing, in respect of securities offered to the public, the documents, information, and other matters that must be made publicly available under section 54C, the times or events referred to in that section, and the manner of making the documents, information, and other matters publicly available (including prescribing the manner in which the documents, information, or matters are to be presented, calculated, or prepared); and different matters and requirements may be prescribed in respect of different kinds of securities or different classes of issuers or offerees:
   (d) specifying obligations that are disclosure obligations for the purposes of this Act:
   (e)
   (f)
@@ -2200,9 +2194,18 @@ No person is excused from answering any question or providing any information or
   (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing the fines, not exceeding $5,000, that may be imposed in respect of any such offence:
   (l) providing for such other matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister in accordance with subsection (3), add to Schedule 2 to this Act any qualification. Any reference in this Act to Schedule 2 shall be construed as a reference to that Schedule with any additions made by any Order in Council for the time being in force under this subsection.
-(3) The Minister must consult with the Commission before making a recommendation under subsection (1) or subsection (2).
+(3) The Minister must consult with the FMA before making a recommendation under subsection (1) or subsection (2).
 (3A)
 (4)
+
+### 70AAA Regulations relating to exemptions under section 5(1)
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with subsection (2), make regulations—
+  (a) prescribing circumstances in which any exemption under section 5(1) does not apply:
+  (b) prescribing additional requirements that must be satisfied before any exemption under section 5(1) may apply:
+  (c) prescribing transitional and savings provisions in connection with any regulations made under paragraph (a) or (b).
+(2) The Minister must, before making a recommendation under subsection (1),—
+  (a) consult with the FMA; and
+  (b) be satisfied that the regulations are needed in order to prevent an exemption in section 5(1) from applying in inappropriate circumstances, having regard to whether the exemption may, in relation to securities of a particular kind, cause significant detriment to subscribers for those securities who are members of the public in New Zealand.
 
 ### 70AA Regulations may require compliance with generally accepted accounting practice and incorporate financial reporting standards by reference
 (1) Regulations may—
@@ -2253,13 +2256,46 @@ Sections 70AA to 70AAE do not affect the application of sections 22 to 25 of the
 ### 70A Fees and charges
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing the amount to be paid on the registration of a prospectus under section 42 of this Act and different amounts may be prescribed in respect of different amounts of securities being offered; and
-  (b) prescribing the amount to be paid on the registration of a memorandum of amendments to a registered prospectus under section 43 of this Act and in the case of amendments increasing the amount of the securities being offered different amounts may be prescribed in respect of increases of different amounts.
+  (b) prescribing the amount to be paid on the registration of an instrument that amends a registered prospectus under section 43 of this Act and in the case of amendments increasing the amount of the securities being offered different amounts may be prescribed in respect of increases of different amounts; and
+  (c) prescribing the amount to be paid on the registration of any other information or document under this Act and different amounts may be prescribed in respect of different amounts of securities being offered, different kinds of securities, or different classes of issuers or offerees:
+  (d) requiring the Registrar to provide to the FMA a portion of any amounts paid on the registration of a prospectus, trust deed, deed of participation, or an instrument that amends any of those kinds of documents.
+(1A) Regulations made under subsection (1) may prescribe amounts to be paid on the registration of a prospectus, trust deed, deed of participation, or an instrument that amends any of those kinds of documents on the basis that those amounts recover (in whole or in part) the costs of the FMA in performing or exercising functions, powers, or duties under sections 43C to 43L (in addition to recovering (in whole or in part) the costs of the Registrar in performing or exercising functions, powers, or duties in connection with the registration of those documents).
 (2) The Governor-General may from time to time, by Order in Council, make regulations prescribing fees and charges to be paid for the purposes of this Act.
 (3) Without limiting subsection (2) of this section, regulations may be made under that subsection—
-  (a) prescribing fees and charges which the Commission may require to be paid to it—
-    (i) in connection with the exercise by the Commission of any power or function conferred on it by this Act:
-    (ii) on an application to the Commission to exercise any power or function conferred on it by this Act:
-  (b) authorising the Commission to require payment of any costs incurred by the Commission.
+  (a) prescribing fees and charges which the FMA may require to be paid to it—
+    (i) in connection with the exercise by the FMA of any power or function conferred on it by this Act:
+    (ii) on an application to the FMA to exercise any power or function conferred on it by this Act:
+  (b) authorising the FMA to require payment of any costs incurred by the FMA.
+
+### 70B FMA may grant exemptions
+(1) The FMA may, on the terms and conditions (if any) that it thinks fit, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—
+  (a) Part 2; or
+  (b) any regulations made under section 70(1).
+(2) The FMA must not grant an exemption under this section unless it is satisfied that—
+  (a) the exemption would not cause significant detriment to subscribers for the securities to which the exemption relates who are members of the public in New Zealand; and
+  (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
+(3) Nothing in Part 5 limits subsection (1).
+
+### 70C Status and publication of exemptions
+(1) An exemption granted under section 70B—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
+  (b) must be presented to the House of Representatives under section 4 of that Act.
+(2) A class exemption (but not any other exemption granted under section 70B) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) An exemption granted under section 70B that is not a class exemption must, as soon as practicable after it is granted, be—
+  (a) published on an Internet site maintained by or on behalf of the FMA; and
+  (b) notified in the Gazette; and
+  (c) made available in printed form for purchase on request by members of the public.
+(4) A notification in the Gazette for the purpose of subsection (3)(b) does not have to include the text of the exemption.
+(5) The FMA's reasons for granting an exemption under section 70B (including why the exemption is appropriate) must be published together with the exemption.
+(6) In this section, class exemption—
+  (a) means an exemption granted under section 70B that is of general application and that applies to a class of persons or a class of transactions; but
+  (b) does not include an exemption granted under section 70B in relation to—
+    (i) a particular person or transaction; or
+    (ii) persons associated with, or transactions involving, a particular entity.
+
+### 70D Variation or revocation of exemptions
+(1) The FMA may vary or revoke an exemption granted under section 70B.
+(2) Sections 70B(2) and 70C apply, with necessary modifications, in all respects to a variation or revocation under this section.
 
 ## Part 5 — Recognition and application regimes
 
@@ -2294,18 +2330,18 @@ In this Part, country includes a state, a territory, a country, or a group of co
   (a) if he or she is satisfied that it is in the public interest after having regard to—
     (i) the securities laws of the designated country; and
     (ii) the interests of New Zealand investors; and
-  (b) after consulting with the Commission.
+  (b) after consulting with the FMA.
 
 ### 75 Matters that must be stated in regulations implementing recognition regime
 (1) The regulations made under section 74 must state—
   (a) the country to which the recognition regime applies; and
   (b) the classes of securities to which the recognition regime applies (whether by reference to type of issuer, offer, or any other matter); and
   (c) the exemptions from provisions of Part 2 and the Regulations for those securities; and
-  (d) the preconditions that must be met for the recognition regime to apply, for example (without limitation), requiring specified information relating to the offer or securities to be provided to the Commission or Registrar; and
+  (d) the preconditions that must be met for the recognition regime to apply, for example (without limitation), requiring specified information relating to the offer or securities to be provided to the FMA or Registrar; and
   (e) the terms and conditions that must be complied with under the recognition regime, for example (without limitation), requiring—
     (i) the offer of the securities to be made in accordance with specified provisions of the designated country's laws:
     (ii) warnings to be given to investors so as to inform them that the offer of the securities is regulated under the designated country's laws and that New Zealand securities laws do not apply to the offer:
-    (iii) specified information relating to the offer or securities to be provided to the Commission or Registrar.
+    (iii) specified information relating to the offer or securities to be provided to the FMA or Registrar.
 (2) Regulations may provide different exemptions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
 
 ### 76 Offence for breach of regulations implementing recognition regime
@@ -2333,14 +2369,14 @@ A provision of Part 2 or the Regulations applies to a security that is offered t
   (b) the other matters set out in section 79.
 (2) The Minister may recommend making an Order in Council under this section only—
   (a) if he or she is satisfied that it is appropriate for New Zealand securities laws to apply to securities offered to persons in the designated country as set out in the proposed application regime; and
-  (b) after consulting with the Commission.
+  (b) after consulting with the FMA.
 
 ### 79 Matters that must be stated in regulations implementing application regime
 (1) The regulations made under section 78 must state—
   (a) the country to which the application regime applies; and
   (b) the classes of securities to which the application regime applies (whether by reference to type of issuer, offer, or any other matter); and
   (c) the provisions of Part 2 and the Regulations that apply to those securities; and
-  (d) whether or not, or the extent to which, exemptions from those provisions granted by the Commission under section 5(5) may also apply for those securities; and
+  (d) whether or not, or the extent to which, exemptions from those provisions granted by the FMA under section 70B may also apply for those securities; and
   (e) the preconditions (if any) that must be met for the application regime to apply; and
   (f) the terms and conditions (if any) that must be complied with under the application regime.
 (2) The regulations may provide different applications of provisions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
@@ -2478,3 +2514,64 @@ This Act is the Securities Amendment Act 2006.
 (2) In this section, existing offence or contravention means—
   (a) an offence under, or contravention of, the principal Act that was committed or done in respect of a prospectus that was registered, or an advertisement that was distributed, before the commencement of this subpart; and
   (b) in any other case, an offence under, or contravention of, the principal Act that was committed or done before the commencement of this subpart.
+
+### 1 Title
+This Act is the Securities Amendment Act 2011.
+
+### 2 Commencement
+(1) This Act (apart from sections 5(3), 16(3), 22, 40, 43(2), and 49(3) to (6)) comes into force on 1 May 2011.
+(2) Sections 5(3), 16(3), 22, 40, 43(2), and 49(3) to (6) come into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(3) To the extent that the provisions referred to in subsection (2) are not previously brought into force under that subsection, those provisions come into force on 1 July 2013.
+
+**Transitional provisions**
+
+### 49 Registration of prospectus continues
+(1) If a prospectus was registered under the principal Act before the commencement of this subsection (or is registered in accordance with section 53),—
+  (a) the prospectus must continue to be treated as being a registered prospectus under the principal Act; and
+  (b) the principal Act (as amended by this Act) continues to apply to the prospectus as if it had been registered under section 42 of the principal Act (as substituted by this Act); and
+  (c) every memorandum of amendments to the prospectus registered under the principal Act before the commencement of this subsection (or in accordance with section 53) must continue to be treated as registered.
+(2) However,—
+  (a) subsection (1) does not apply if, before the commencement of this subsection, the registration of the prospectus has been cancelled; and
+  (b) sections 43B to 43E of the principal Act (as substituted by this Act) do not apply to a prospectus referred to in subsection (1) (except as referred to in paragraph (c)); and
+  (c) sections 43B and 43C of the principal Act (as substituted by this Act) apply to an instrument to amend a prospectus referred to in subsection (1) only if the instrument is registered after the commencement of this subsection.
+(3) For the purpose of including information and documents in the register for a current prospectus, the issuer of the securities to which the prospectus relates must, within 40 working days after the commencement of this subsection, supply the prescribed information and documents to the Registrar in the prescribed manner.
+(4) The Registrar is not required to include in the register information and documents for a prospectus registered before the commencement of this subsection if—
+  (a) the period within which allotments of securities may be made under the prospectus in accordance with the principal Act finally ended before the commencement of this subsection (for example, as a result of section 37A(1)(c) of the principal Act); or
+  (b) that information or those documents are of a kind that is prescribed as being information or documents that are not required to be included in the register.
+(5) In subsection (3), current prospectus—
+  (a) means a prospectus that was registered before the commencement of this subsection and under which allotments may still be made in accordance with the principal Act after that commencement; but
+  (b) does not include a prospectus if no allotments of securities will be made under the prospectus after the date that is 40 working days after the commencement of this subsection.
+(6) An issuer commits an offence and is liable on summary conviction to a fine not exceeding $30,000 if the issuer,—
+  (a) without reasonable excuse, fails to comply with subsection (3); or
+  (b) in purported compliance with that subsection, supplies information or a document knowing it to be false or misleading.
+
+### 50 Regulations for purposes of section 49
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with subsection (2), make regulations prescribing—
+  (a) information and documents for the purposes of section 49(3); and
+  (b) the manner of supplying that information and those documents to the Registrar; and
+  (c) information and documents for the purposes of section 49(4)(b).
+(2) The Minister must consult with the FMA before making a recommendation under subsection (1).
+(3) Different matters may be prescribed under subsection (1) in respect of different kinds of securities or different classes of issuers.
+
+### 51 FMA may perform functions formerly performed by Registrar of Companies in relation to registration of prospectuses
+For the purpose of effectively managing the transition relating to the amendments in sections 20 and 21 of this Act (which include changes to the process for registering prospectuses), the FMA may, in the manner that it thinks fit and on a temporary basis, perform the same, or substantially similar, functions as the Registrar of Companies performed, before the commencement of this section, in relation to the registration of prospectuses under the principal Act (whether those functions were performed on a formal or an informal basis).
+
+### 52 Registration of deeds continues
+If a trust deed or deed of participation was registered under the principal Act before the commencement of this section (or is registered in accordance with section 53),—
+  (a) the deed must continue to be treated as being a deed that is registered under the principal Act; and
+  (b) the principal Act (as amended by this Act) continues to apply to the deed as if it had been registered under section 46 of the principal Act (as substituted by this Act); and
+  (c) every instrument of amendments to the deed registered under the principal Act before the commencement of this section (or in accordance with section 53) must continue to be treated as registered.
+
+### 53 Prospectuses, amendments, and deeds delivered but not yet registered must be dealt with under old law
+(1) If, before the commencement of this section,—
+  (a) a prospectus is delivered for registration under the principal Act but the Registrar has not yet decided whether or not to register it, the prospectus must be dealt with in accordance with section 42 of the principal Act as in force before the commencement of section 21:
+  (b) a memorandum of amendments is delivered for registration under section 43 of the principal Act but the Registrar has not yet decided whether or not to register it, the memorandum must be dealt with in accordance with section 43 of the principal Act as in force before the commencement of section 21:
+  (c) a copy of a trust deed or deed of participation is delivered for registration under section 46 of the principal Act but the Registrar has not yet decided whether or not to register it, the deed must be dealt with in accordance with section 46 of the principal Act as in force before the commencement of section 27:
+  (d) an instrument of amendments is delivered for registration under section 47 of the principal Act but the Registrar has not yet decided whether or not to register it, the instrument must be dealt with in accordance with section 47 of the principal Act as in force before the commencement of section 27.
+(2) In subsection (1), Registrar has the same meaning as in section 2(1) of the principal Act (as in force before the commencement of section 5(2)).
+
+### 54 Exemptions continue in force
+(1) This section applies to every exemption granted under section 5(5) of the principal Act that is in force immediately before the commencement of this section.
+(2) The exemption—
+  (a) continues in force as if it were granted under section 70B of the principal Act (as inserted by this Act); and
+  (b) may be amended or revoked as if granted under that section.
