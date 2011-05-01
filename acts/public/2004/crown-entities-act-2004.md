@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1634,6 +1634,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Drug Free Sport New Zealand |  |  |  |  |  |
 | Electricity Authority |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
+| Financial Markets Authority |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
 | Independent Police Conduct Authority |  |  |  |  |  |
@@ -1641,7 +1642,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | New Zealand Productivity Commission |  |  |  |  |  |
 | Office of Film and Literature Classification |  |  |  |  |  |
 | Privacy Commissioner |  |  |  |  |  |
-| Securities Commission |  |  |  |  |  |
 | Takeovers Panel |  |  |  |  |  |
 | Transport Accident Investigation Commission |  |  |  |  |  |
 
