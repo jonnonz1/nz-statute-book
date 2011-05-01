@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2008-07-24_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -692,7 +692,8 @@ No proceedings brought by a partner or in which a partner intervenes, as the cas
   (a) a general partner:
   (b) a limited partner:
   (c) a creditor:
-  (d) the Registrar.
+  (d) the Registrar:
+  (e) in the case of a limited partnership that is a financial markets participant (within the meaning of section 4 of the Financial Markets Authority Act 2011, the Financial Markets Authority.
 
 ### 90 Grounds for Court appointment of liquidator
 (1) The Court may appoint a liquidator to a limited partnership under section 89(1) on any of the following grounds:
