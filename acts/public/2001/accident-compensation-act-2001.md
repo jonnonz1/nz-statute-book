@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -278,7 +278,7 @@ This Act binds the Crown.
     (b) section 37 and clause 55 of Schedule 1, when it is used in relation to personal injury caused by a work-related gradual process, disease, or infection:
     (c) section 38 and clause 55 of Schedule 1, when it is used in relation to treatment injury or personal injury caused by medical misadventure
   - **tax year** , in relation to any person, has the same meaning as in section YA 1 of the Income Tax Act 2007 for the purposes of furnishing a return of income under the Tax Administration Act 1994
-  - **trade plate** means a trade plate issued under section 22 of the Transport Act 1962 or section 34 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **trade plate** has the same meaning as in section 233(1) of the Land Transport Act 1998
   - **treatment** includes—
     (a) physical rehabilitation:
     (b) cognitive rehabilitation:
@@ -2413,8 +2413,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (a) finance entitlements provided under this Act in respect of motor vehicle injuries; and
   (b) finance the cost of programmes to improve the safety of moped and motorcycle riders from the levy referred to in subsection (2)(d).
 (2) The funds for the Motor Vehicle Account are to be derived from—
-  (a) levies to be paid by every registered owner of a motor vehicle; and
-  (b) levies to be paid by every person who holds a trade licence issued under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; and
+  (a) levies to be paid by every person registered under Part 17 of the Land Transport Act 1998 in respect of a motor vehicle; and
+  (b) levies to be paid by every person who holds a trade plate issued under section 262(3) of that Act; and
   (c) a levy to be paid in accordance with section 214(4); and
   (d) the prescribed Motorcycle Safety levy; and
   (e) premiums payable under Part 11 that relate to motor vehicle injuries.
@@ -2436,8 +2436,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) the purposes of subsection (5)(ba), (c), and (d) and the purpose specified in section 215(1)(a).
 
 ### 214 Rate of levies
-(1) A registered owner of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
-(2) A person who holds a trade licence issued under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
+(1) A person registered under Part 17 of the Land Transport Act 1998 in respect of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
+(2) A person who holds a trade plate issued under section 262(3) of the Land Transport Act 1998 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
 (3) A registered owner of a motor vehicle that is a moped or motorcycle must pay, in accordance with this Act and regulations made under it, the prescribed Motorcycle Safety levy.
 (3A) Subsection (3) does not limit or affect subsection (1).
 (4) The levy payable under section 213(2)(c) is payable—
@@ -2463,8 +2463,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
 ### 216 Levy categories
 (1) Regulations made under this Act may establish a system for differential levies in relation to all or any of the following or categories of the following:
   (a) motor vehicles:
-  (b) registered owners of motor vehicles:
-  (c) persons who hold trade licences under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+  (b) persons registered under Part 17 of the Land Transport Act 1998 in respect of motor vehicles:
+  (c) persons who hold trade plates under section 262(3) of the Land Transport Act 1998.
   (d) fuel in respect of which a levy is payable under section 213(2)(c).
 (2) The regulations may also classify all or any of the following, or categories of the following, into classes that most accurately describe their risk rating and may impose levies at different rates in relation to those classes in accordance with the system of differential levies referred to in subsection (1):
   (a) motor vehicles:
@@ -2473,7 +2473,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (3) Subsection (2) does not limit subsection (1).
 
 ### 217 Collection of levies
-(1) The levies payable under section 214(1) or (2) are payable on application for a motor vehicle licence under section 10 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or on application for a trade licence under section 34 of that Act (as the case may require) or in any other prescribed manner.
+(1) The levies payable under section 214(1) or (2) are payable on application for a motor vehicle licence under section 244 of the Land Transport Act 1998 or on application for a trade plate under section 262 of that Act (as the case may require) or in any other prescribed manner.
 (2) The levy payable under section 213(2)(c) on any fuel is payable—
   (a) in the manner prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), with any excise or excise-equivalent duty that is payable on that fuel.
@@ -5502,6 +5502,12 @@ Despite section 73(1)(d) of the Crown Entities Act 2004, the Corporation need no
 (2) Section 12 comes into force on the day after the date on which this Act receives the Royal assent.
 (3) The rest of this Act comes into force on 1 July 2003.
 
+### 3 Purpose
+The purpose of this Act is to—
+  (a) establish as a levy under the principal Act the portion of excise and excise-equivalent duty payable on motor spirit that is paid to the Motor Vehicle Account; and
+  (b) avoid the need for an amending Act to consequentially adjust the rates of excise duty and excise-equivalent duty on the relevant fuel (as set out in Schedule 3 of the Customs and Excise Act 1996) whenever the levy changes; and
+  (c) preserve the requirement to obtain leave to appeal under section 162 of the principal Act against a decision of a District Court.
+
 ## Part 2 — Amendments to Injury Prevention, Rehabilitation, and Compensation Act 2001
 
 ### 4 New section 162 substituted
@@ -5557,6 +5563,9 @@ This Act is the Injury Prevention, Rehabilitation, and Compensation Amendment Ac
 ### 2 Commencement
 This Act comes into force on 1 April 2007.
 
+### 3 Principal Act amended
+This Act amends the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+
 ## Part 2 — Transitional provisions
 
 ### 14 Transfer of assets and liabilities to Work Account
@@ -5580,6 +5589,9 @@ This Act is the Injury Prevention, Rehabilitation, and Compensation Amendment Ac
   (a) sections 5(1), 6 to 9, 11, 12, and 14 to 17:
   (b) section 33(1) and the Schedule, in so far as they relate to the amendments to clause 25 of Schedule 1 of the principal Act.
 (4) The rest of this Act comes into force on 1 August 2008.
+
+### 3 Principal Act amended
+This Act amends the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ## Part 1 — Amendments to principal Act
 
@@ -5620,6 +5632,9 @@ This Act is the Accident Compensation Amendment Act 2010.
   (g) section 47(1) and Part 1 of Schedule 1:
   (h) sections 53 to 61.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Act that was previously called the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ## Part 2 — Miscellaneous provisions
 
