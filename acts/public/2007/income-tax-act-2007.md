@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -7856,7 +7856,7 @@ When this section applies
 What this section does not apply to
 (1B) This section does not apply to a transfer of expenditure to a master superannuation fund that is a multi-rate PIE.
 KiwiSaver schemes
-(2) For the avoidance of doubt, section 144 of the KiwiSaver Act 2006 applies to a registered superannuation scheme that converts to a KiwiSaver scheme for the purpose of determining if subsection (1)(c) applies.
+(2)
 Surplus carried forward
 (3) The member superannuation fund carries the surplus expenditure forward to the next income year and takes the following steps:
   (a) it gets the combined expenditure by adding the surplus expenditure to the expenditure, if any, incurred by it in the income year that it chooses to treat as being incurred by the master superannuation fund:
@@ -16183,7 +16183,7 @@ Part-year calculations: end of transitional adjustments
 (7)
 
 ### EY 6 Actuarial advice and guidance
-The Commissioner may seek the advice of the Government Actuary or any other actuary on anything that is required to be actuarially determined, or any related matter.
+The Commissioner may seek the advice of an actuary on anything that is required to be actuarially determined, or any related matter.
 
 ### EY 7 Meaning of claim
 Meaning in life insurance rules
@@ -16262,7 +16262,7 @@ Benefits treated as life insurance
 Exemption for certain schemes
 (2) A trustee of a superannuation fund is treated as not carrying on the business of life insurance for an income year if the fund meets all the requirements of subsections (3) to (9) for the income year.
 Fund must be registered
-(3) At all times in the income year, the fund must be registered by the Government Actuary under the Superannuation Schemes Act 1989.
+(3) At all times in the income year, the fund must be registered under the Superannuation Schemes Act 1989.
 Trustee cannot be a life insurance company
 (4) At all times in the income year, no trustee of the fund is a company carrying on the business of providing life insurance to which the Life Insurance Act 1908 applies.
 Nature of funds
@@ -16279,20 +16279,20 @@ Significant employer superannuation contributions required
 (7) At all times in the income year, each employer is required by the trust deed or Act constituting the fund to make or is making, or having made on their behalf, superannuation contributions to provide to a significant extent the fund benefits, except to the extent to which subsection (10) applies.
 No avoidance effect
 (8) The fund must not have been established, and must not be being used at any time in the income year, in a way that has the effect of defeating the intent and application of the life insurance rules.
-Government Actuary approval required
-(9) The trustee of the fund must have made a written application to the Government Actuary for, and the Government Actuary must have granted, approval that the fund is for the income year one that complies with subsections (3) to (8).
+FMA approval required
+(9) The trustee of the fund must have made a written application to the FMA for, and the FMA must have granted, approval that the fund is for the income year one that complies with subsections (3) to (8).
 Exemptions to requirements of subsection (7)
 (10) Subsection (7) does not apply if—
-  (a) the Government Actuary is satisfied that, for the income year, subsection (7) would have been complied with but for the fund assets exceeding the accrued benefits from the fund:
+  (a) the FMA is satisfied that, for the income year, subsection (7) would have been complied with but for the fund assets exceeding the accrued benefits from the fund:
   (b) the fund is one referred to in subsection (5)(c) (which refers to funds related to the National Provident Fund).
 Limited superannuation contributions disregarded for subsection (7)
 (11) For the purposes of subsection (7), superannuation contributions that are merely nominal or that only meet the costs of administration and investment management are disregarded.
-Notice by Government Actuary
-(12) The Government Actuary must notify the trustee of a superannuation fund as soon as practicable after determining that—
+Notice by FMA
+(12) The FMA must notify the trustee of a superannuation fund as soon as practicable after determining that—
   (a) the fund complies with subsections (3) to (8) for an income year:
   (b) the fund ceases to comply with the subsections for an income year.
 Objection under Superannuation Schemes Act
-(13) A person dissatisfied with the Government Actuary’s decision can object under section 23 of the Superannuation Schemes Act 1989 and has no right of objection under the Tax Administration Act 1994.
+(13) A person dissatisfied with the FMA's decision may appeal against the decision under section 23 of the Superannuation Schemes Act 1989 and has no right of objection under the Tax Administration Act 1994.
 Meaning of related by employment
 (14) In this section, a person is related by employment to an employer if the person is—
   (a) a former employee, in the case of deferred benefits relating to prior employment:
@@ -17273,7 +17273,7 @@ Adjustment to income
 Amount
 (4) The reserve at the end of the tax year is—
   (a) an amount calculated by an actuary applying subsection (5) and adopted by the insurer for financial reporting purposes; or
-  (b) if no such amount has been calculated, an amount determined by the Commissioner, who may seek the advice of the Government Actuary or any other actuary in determining it.
+  (b) if no such amount has been calculated, an amount determined by the Commissioner, who may seek the advice of an actuary in determining it.
 Calculation or determination of reserve
 (5) A person calculating or determining the amount of a reserve under subsection (4) must ensure that the amount has regard to—
   (a) generally accepted accounting practice; and
@@ -23901,7 +23901,7 @@ Choosing to become listed PIE
 (1) A company that is not listed on a recognised exchange in New Zealand may choose under section HM 71 to become a listed PIE if it—
   (a) has 100 shareholders or more; and
   (b) has resolved to become a company listed on a recognised exchange in New Zealand if it were to obtain the required consents; and
-  (c) has applied to the Securities Commission for an exemption to disclose in a prospectus its intention to become a listed company; and
+  (c) has applied to the Securities Commission or the FMA for an exemption to disclose in a prospectus its intention to become a listed company; and
   (d) satisfies the Commissioner that the company would apply to become a listed company if it were to obtain the required consents.
 Two-year period
 (2) If the company is not listed within 2 years of the election, it loses PIE status from the last day of that period.
@@ -37018,7 +37018,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
   - **complying fund rules** is defined in section RD 66 (Complying fund rules)
-  - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund by the Government Actuary under section 35 of the Superannuation Schemes Act 1989
+  - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund under section 35 of the Superannuation Schemes Act 1989
   - **complying trust** is defined in section HC 10 (Complying trusts)
   - **compulsory employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **conduct** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
@@ -37707,6 +37707,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (ii) any security provided to the shareholder, including put or call options over the share or any amount payable determined by reference to the amount of dividend payable:
       (iii) the variability or lack of variability of the dividend payable
   - **flat-owning company** is defined in section CD 31(2) (Flat-owning companies) for the purposes of that section and section HA 6 (Corporate requirements)
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
     (b) FIF income calculated under the accounting profits method or the branch equivalent method
@@ -37839,7 +37840,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **gross gambling proceeds** means gross proceeds, as defined in regulation 3(1) of the Gambling (Class 4 New Proceeds) Regulations 2004, plus prizes
   - **group funding debt** means the amount calculated under section FE 23 (Banking group’s funding debt)
   - **group investment fund** means a group investment fund established under the—
-    (a) Public Trust Act 2001 ; or
+    (a) Public Trust Act 2001; or
     (b) Trustee Companies Act 1967 ; or
     (c) Public Trust Office Act 1957
   - **group life master policy** is defined in section EY 30 (Transitional adjustments: life risk)
