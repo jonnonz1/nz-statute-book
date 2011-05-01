@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-05-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -742,7 +742,7 @@ Despite the provisions of sections 61A and 70,—
 ## Part 5A — Superannuation
 
 ### 73A Interpretation
-For the purposes of sections 73B to 73D,—
+For the purposes of sections 73B and 73C,—
   - **superannuation scheme** or has the same meaning as in the Superannuation Schemes Act 1989.
 
 ### 73B Chief of Defence Force may establish superannuation schemes for members of Defence Force
@@ -767,9 +767,7 @@ Before contributing to any superannuation scheme established or arranged in resp
   (h) that the trust deed of the scheme does not permit amendments to be made to the scheme which would result in any provision of paragraphs (a) to (g) ceasing to apply to the scheme.
 
 ### 73D Chief of Defence Force to obtain confirmation from Government Actuary that scheme meets requirements of this Act
-(1) The Chief of Defence Force shall, before contributing to a superannuation scheme on behalf of members of the Defence Force, apply to the Government Actuary for confirmation that the superannuation scheme complies with the requirements of section 73C.
-(2) If confirmation is so obtained, the scheme shall be deemed, for the purpose of this Act, to comply with the requirements of that section.
-(3) The Government Actuary may charge reasonable fees for considering any application made under this section.
+[Repealed]
 
 ### 73E Contributions to superannuation schemes
 The Chief of Defence Force may, for the purpose of providing retirement benefits to members of the Defence Force, contribute to any superannuation scheme that complies with the requirements of section 73C.
