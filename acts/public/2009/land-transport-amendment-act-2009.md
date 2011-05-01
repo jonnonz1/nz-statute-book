@@ -1,5 +1,5 @@
 # Land Transport Amendment Act 2009
-_Consolidation as at 2009-11-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act 2009.
