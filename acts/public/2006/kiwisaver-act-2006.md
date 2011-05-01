@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -19,7 +19,11 @@ This Act is the KiwiSaver Act 2006.
   - **address** , in relation to a person, means all or any of the following:
     (a) the person’s last known street address or post office box number:
     (b) the person’s last known electronic address, if the person consents to notices under this Act being given to the person’s electronic address
+  - **administration manager** ,—
+    (a) in relation to a restricted KiwiSaver scheme, means a person to whom the trustees have contracted some or all of the administration of the scheme; and
+    (b) in relation to any other KiwiSaver scheme, means a person to whom the manager has contracted some or all of the administration of the scheme
   - **automatic enrolment rules** means sections 10 to 21
+  - **benefit** means a lump sum, allowance, refund, or other payment arising from membership of a KiwiSaver scheme
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
   - **complying superannuation fund** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **contribution** means any contribution to a KiwiSaver scheme, including an employer contribution and a Crown contribution
@@ -32,7 +36,7 @@ This Act is the KiwiSaver Act 2006.
     (b) the amount of tax credit under section MK 1 of the Income Tax Act 2007 that is treated as a Crown contribution for a member under section MK 5 of that Act
   - **deduction rate** means the rate at which deductions must be made under section 66 or 66A, as the case may be
   - **default investment product** , in relation to a default KiwiSaver scheme, means the investment product specified as the default investment product of the scheme under an instrument of appointment to which section 177 applies
-  - **default KiwiSaver provider** means a person that is appointed under section 177 as the provider of a default investment product of a default KiwiSaver scheme
+  - **default KiwiSaver provider** means a manager that is appointed under section 177 as the provider of a default investment product of a default KiwiSaver scheme
   - **default KiwiSaver scheme** means a scheme specified as the default KiwiSaver scheme under an instrument of appointment to which section 177 applies
   - **defined benefit scheme member** means an employee in relation to whom the employer pays, credits, or provides for amounts (), and—
     (a) the defined benefit contributions are employer’s superannuation contributions made to, or amounts credited from within, a registered superannuation scheme (the contributions scheme) to fund the agreed benefits for the employee, and—
@@ -75,12 +79,12 @@ This Act is the KiwiSaver Act 2006.
     (c) includes any other fee or charge prescribed to be a fee for the purposes of this Act; but
     (d) does not include a fee referred to in section 200 or charged under regulations made under section 228(c) except in the context of those provisions
   - **fee subsidy** means a Crown subsidy for fees that are payable by a member or a class of members of a KiwiSaver scheme as prescribed under section 228(n) or (o)
-  - **Government Actuary** includes any person authorised by delegation by the Government Actuary to exercise or perform any of the duties, functions, or powers of the Government Actuary
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **gross salary or wages** means salary or wages before the deduction of tax (as tax is defined in section 3(1) of the Tax Administration Act 1994)
   - **guardian** has the same meaning as in the Care of Children Act 2004
   - **holding account** means the Inland Revenue KiwiSaver Holding Account established by the Commissioner under section 72
   - **inactive account** , in relation to a member of a KiwiSaver scheme, means a member’s account in respect of which no contribution has been received for at least 2 years
-  - **independent trustee** , in relation to a KiwiSaver scheme, means—
+  - **independent trustee** , in relation to a restricted KiwiSaver scheme, means—
     (a) a trustee, including a corporate trustee that is not a trustee corporation, that—
       (i) is not a promoter of the scheme; and
       (ii) is not a related company of a corporate trustee that is an investment manager, promoter, or another trustee of the scheme; and
@@ -92,11 +96,15 @@ This Act is the KiwiSaver Act 2006.
       (viii) in the case of a corporate trustee, has no director that would fail to meet any of the requirements described in subparagraphs (i) to (vii) if that person were a trustee; or
     (b) a trustee corporation that has a director that would meet any of the requirements described in paragraph (a)(i) to (vii) if that person were a trustee
   - **information pack** means an information pack that is supplied by the Commissioner under section 40 and contains the matters required by section 41
+  - **investment manager** ,—
+    (a) in relation to a restricted KiwiSaver scheme, means a person to whom the trustees have contracted the investment of some or all of the funds of the scheme; and
+    (b) in relation to any other KiwiSaver scheme, means a person to whom the manager has contracted the investment of some or all of the funds of the scheme
   - **investment statement** , in relation to a KiwiSaver scheme, has the meaning given to it by section 38C of the Securities Act 1978
   - **KiwiSaver deduction notice** means a notice given by an employee to his or her employer under section 22 or 34 that requires deductions of contributions to be made from his or her salary or wages
-  - **KiwiSaver scheme** means a scheme that is registered in the KiwiSaver schemes register but does not include a scheme that is provisionally registered under section 137 or a scheme that is included in the register only under section 161
+  - **KiwiSaver scheme** means a scheme that is registered in the KiwiSaver schemes register but does not include a scheme that is included in the register only under section 161
   - **KiwiSaver scheme rules** means the provisions implied in the trust deed of a KiwiSaver scheme under section 126 and Schedule 1
   - **KiwiSaver schemes register** means the register established under section 156
+  - **manager** means the person designated or appointed under the trust deed as manager of a KiwiSaver scheme other than a restricted scheme
   - **member** , in relation to a scheme, means a natural person who has been admitted to membership of the scheme and who is, or may become, entitled to benefits under the scheme
   - **member’s account** , in relation to a member of a KiwiSaver scheme, includes any account held by that member in the KiwiSaver scheme
   - **member’s accumulation** , in relation to a member of a KiwiSaver scheme or a member of a registered superannuation scheme, means the net value of the total of—
@@ -114,7 +122,10 @@ This Act is the KiwiSaver Act 2006.
     (a) in relation to contributions, the values of the contributions once appropriate debits and credits have been made for positive and negative returns; and
     (b) in relation to a member’s accumulation, or a member’s interest, means the value of the member’s accumulation or member’s interest (as applicable) once any other appropriate debits and credits have been made to account for things like fees, permitted withdrawals, and positive and negative returns
   - **new employment** has the meaning given to it by sections 11 to 14
+  - **New Zealand resident** means a person resident in New Zealand under section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007
   - **New Zealand superannuation qualification age** means the age specified in section 7(1) of the New Zealand Superannuation and Retirement Income Act 2001, irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
+  - **nominated person** , in relation to trustees, means a person nominated by the trustees and eligible to act as a nominated person under section 116H
+  - **nominee** , in relation to a nominated person, means a person appointed by the nominated person and eligible to act as a nominee under section 116I
   - **opt in** means to opt in to the overall KiwiSaver scheme as provided in sections 33 to 39
   - **opt out** means to opt out of the overall KiwiSaver scheme as provided in sections 16 to 21
   - **opt-out notice** means a notice given under section 17
@@ -132,6 +143,7 @@ This Act is the KiwiSaver Act 2006.
   - **registered superannuation scheme** means a superannuation scheme registered under the Superannuation Schemes Act 1989
   - **related company** has the same meaning as in the Companies Act 1993
   - **remittance certificate** means a PAYE payment form as defined in section YA 1 of the Income Tax Act 2007
+  - **restricted KiwiSaver scheme** or means a KiwiSaver scheme identified as a restricted scheme on the KiwiSaver schemes register
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
       (i) salary or wages described in section RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
@@ -146,24 +158,26 @@ This Act is the KiwiSaver Act 2006.
       (i) otherwise excluded under paragraph (a) of this definition; or
       (ii) the amount is a redundancy payment (as defined in section YA 1 of the Income Tax Act 2007)
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **trust deed** includes—
-    (a) a participation agreement and any other document that, under the terms of the relevant trust deed, forms part of or determines any of the terms of the trust deed; and
-    (b) in relation to a registered superannuation scheme or KiwiSaver scheme constituted under an Act of the Parliament of New Zealand, the documents governing the scheme
+  - **trust deed** , in relation to a KiwiSaver scheme or a registered superannuation scheme,—
+    (a) means the trust deed that sets out the trusts governing the scheme, as amended from time to time; and
+    (b) includes a participation agreement and any other document that, under the terms of the relevant trust deed, forms part of or determines a term of the trust deed
   - **trustee corporation** —
     (a) means the Public Trust or the Maori Trustee or any corporation authorised by any Act of the Parliament of New Zealand to administer the estates of deceased persons and other trust estates; and
     (b) includes any wholly-owned subsidiary of the trustee corporation that is guaranteed by the trustee corporation
   - **trustees** ,—
-    (a) in relation to a scheme, means the persons who are designated as trustees in the trust deed of the scheme, or the successors of those trustees, and who have the responsibility for administering the trusts governing the scheme:
-    (b) in relation to a scheme constituted under an Act of the Parliament of New Zealand, means the person or persons appointed to administer the scheme
-  - **umbrella trust** , in relation to a KiwiSaver scheme, or a registered superannuation scheme, means an umbrella trust of the type referred to in section 148.
+    (a) in relation to a restricted KiwiSaver scheme, means the independent trustee referred to in section 116A and any other trustee who is designated or appointed as trustee of the scheme under the trust deed or the successor of that person; and
+    (b) in relation to any other KiwiSaver scheme, means the person who is designated or appointed as trustee of the scheme under the trust deed or the successor of that person; and
+    (c) in relation to any other superannuation scheme, has the same meaning as in section 2(1) of the Superannuation Schemes Act 1989
+  - **umbrella trust** , in relation to a KiwiSaver scheme, or a registered superannuation scheme, means an umbrella trust of the type referred to in section 148 as in force immediately before its repeal by section 35 of the KiwiSaver Amendment Act 2011.
 (2) References in a provision to a period after the Commissioner receives the first contribution in respect of a person are references to the expiry of the relevant number of days or months after the date on which the first amount of contribution is received, or treated as received, by the Commissioner for the person in the current context of the provision, ignoring any earlier contribution received in a prior context (for example, a prior automatic enrolment and opt out of the person).
 (3) References in this Act to 3 months are references to a period of 92 days.
 (4) An outline provision in this Act is only a guide to the general scheme and effect of the part of the Act that it describes.
 
 ### 5 Meaning of provider
-(1) For the purpose of anything that must or may be done by or to or in relation to a provider of a KiwiSaver scheme or a complying superannuation fund under this Act, provider, unless the context otherwise requires, means—
+(1) For the purpose of anything that must or may be done by or to or in relation to a provider of a restricted KiwiSaver scheme or a complying superannuation fund under this Act, provider, unless the context otherwise requires, means—
   (a) the trustees of the scheme; or
   (b) in a case in which the trustees of the scheme have made a lawful delegation to do any thing to another person (for example, an administration manager), that person.
+(1A) For the purpose of anything that must or may be done by or to or in relation to a provider of any other KiwiSaver scheme under this Act, provider, unless the context otherwise requires, means the manager of the scheme.
 (2) Subsection (1)(b) does not apply if a person who may or must do something to or in relation to a provider has not been given notice of, and could not reasonably be expected to know about, the delegation.
 
 ### 6 Application
@@ -174,7 +188,7 @@ This Act is the KiwiSaver Act 2006.
     (iii) serving in a jurisdiction where offers of KiwiSaver scheme membership are lawful; and
   (b) is a New Zealand citizen or is entitled, in terms of the Immigration Act 2009, to be in New Zealand indefinitely.
 (2) This Act applies to an employer only if—
-  (a) the employer is a New Zealand resident (within the meaning of sections YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007); or
+  (a) the employer is a New Zealand resident; or
   (b) the employer carries on a business from a fixed establishment in New Zealand (within the meaning of section YA 1 of the Income Tax Act 2007); or
   (c) the employer does not meet the requirements in subsections (a) and (b), and the employer chooses to apply this Act.
 (3) This Act applies to an employer only in respect of the employer’s employees who are referred to in subsection (1).
@@ -332,7 +346,7 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
   (b) does not prevent a person who is already a member of a KiwiSaver scheme from becoming liable for automatic deduction of contributions from the salary or wages paid in respect of employment with an exempt employer under section 15(1)(a)(ii) or 36(1)(a)(ii).
 
 ### 25 Eligibility to be exempt employer
-(1) An employer is eligible to be approved as an exempt employer if the Government Actuary is satisfied that the employer provides access to a superannuation scheme for its employees that complies with the following rules:
+(1) An employer is eligible to be approved as an exempt employer if the FMA is satisfied that the employer provides access to a superannuation scheme for its employees that complies with the following rules:
   (a) every person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee (including a part-time employee) of that employer, and who is aged 18 or over but less than the New Zealand superannuation qualification age, must be eligible, in practice, at the time when the person so becomes an employee,—
     (i) to become a member of the scheme; and
     (ii) to transfer to the scheme the member’s accumulation in relation to other superannuation schemes (to the extent that transfers are available from those other superannuation schemes); and
@@ -342,7 +356,7 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
   (d) the trust deed of the scheme must provide for an amount equal to at least 4% of annual gross base salary or wages to be contributed to, or otherwise credited within, the scheme in respect of each person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee of that employer and a member of the scheme.
 (2) However, subsection (1)(d) does not apply—
   (a) to the extent that an employee is, in accordance with the terms of the scheme, temporarily relieved from contributions at that rate (for example, in the event of financial hardship); or
-  (b) if the scheme is a defined benefit scheme of a type that does not satisfy the 4% minimum amount rule in subsection (1)(d), and if the actuary of the scheme certifies, to the satisfaction of the Government Actuary, that the value of each employee’s accrued benefits to be provided by the scheme is, as a matter of fact, increasing, during each membership period, by an amount at least equivalent to such minimum amount that would otherwise be required by this section and section 26.
+  (b) if the scheme is a defined benefit scheme of a type that does not satisfy the 4% minimum amount rule in subsection (1)(d), and if the actuary of the scheme certifies, to the satisfaction of the FMA, that the value of each employee’s accrued benefits to be provided by the scheme is, as a matter of fact, increasing, during each membership period, by an amount at least equivalent to such minimum amount that would otherwise be required by this section and section 26.
 (3) In this section,—
   - **defined benefit scheme** means a superannuation scheme that is not a defined contribution scheme
   - **permanent employees** means employees—
@@ -365,47 +379,47 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
 (2) Subsection (1)(b) does not limit subsection (1)(c) or (d).ExampleCompany A provides access to a superannuation scheme for its employees. The trust deed provides that employees, if they decide to become members, must contribute at either 1% or 3% of annual gross base salary. The employer is obliged to match the employee’s contributions (eg, if employee contributes 1%, company must contribute 1%).The scheme complies with the rule as to the 4% minimum contribution as follows:Minimum amount employee member must contribute1%Maximum amount that employer must contribute in respect of employee member3%4%
 
 ### 27 Eligibility of employers who provide access to more than 1 scheme
-An employer who provides access to more than 1 superannuation scheme for its employees is eligible to be approved as an exempt employer if the Government Actuary is satisfied that, if all of those schemes were considered as a whole (as if they were 1 scheme), the rules in section 25 would be complied with.
+An employer who provides access to more than 1 superannuation scheme for its employees is eligible to be approved as an exempt employer if the FMA is satisfied that, if all of those schemes were considered as a whole (as if they were 1 scheme), the rules in section 25 would be complied with.
 
 ### 28 Eligibility of employers who have schemes established under master trusts
-An employer who provides access to a superannuation scheme for its employees that is established under a master trust is eligible to be approved as an exempt employer if the Government Actuary is satisfied that the rules in section 25 would be complied with if the Government Actuary considered only—
+An employer who provides access to a superannuation scheme for its employees that is established under a master trust is eligible to be approved as an exempt employer if the FMA is satisfied that the rules in section 25 would be complied with if the FMA considered only—
   (a) the master trust in so far as it relates to the employer’s scheme; and
   (b) the participation agreement executed between the employer and the trustees of the master trust in relation to the membership of the employer’s employees in the scheme; and
-  (c) anything else that the Government Actuary decides is relevant to evidencing compliance with the rules in section 25, in respect of the employer’s employees.
+  (c) anything else that the FMA decides is relevant to evidencing compliance with the rules in section 25, in respect of the employer’s employees.
 
 ### 29 How to apply to be exempt employer
-(1) A person may make an application to the Government Actuary for approval of an employer (the current employer) as an exempt employer if,––
+(1) A person may make an application to the FMA for approval of an employer (the current employer) as an exempt employer if,––
   (a) an application (the old application) was received by the Government Actuary on or before 19 November 2009; and
   (b) as a result of the Government Actuary's consideration of that old application under section 30 an employer was approved as an exempt employer; and
   (c) either that exempt employer is the current employer, or the current employer is a succeeding employer for that exempt employer.
 (2) The application must be accompanied by—
-  (a) information that satisfies the Government Actuary that the scheme complies with the rules in section 25; and
+  (a) information that satisfies the FMA that the scheme complies with the rules in section 25; and
   (b) the names, addresses, and tax file numbers of each employer in respect of whom the application is made; and
-  (c) if the application is made in respect of an employer that is part of a group of companies, such details of the names, addresses, tax file numbers, and payroll arrangements of any other members of the group that the Government Actuary may request.
+  (c) if the application is made in respect of an employer that is part of a group of companies, such details of the names, addresses, tax file numbers, and payroll arrangements of any other members of the group that the FMA may request.
 (3) In this section succeeding employer means, for an exempt employer,––
   (a) an employer who succeeds the exempt employer due to a merger or acquisition of the exempt employer; and
   (b) another employer who succeeds a succeeding employer for the exempt employer due to a merger or acquisition of that succeeding employer.
 
 ### 30 How applications to be exempt employer must be dealt with
-(1) The Government Actuary must, within 28 days after receiving an application that may be made under section 29(1) and the documents required under section 29(2) to accompany the application,—
-  (a) consider whether he or she is satisfied that each employer in respect of whom the application is made is eligible to be approved as an exempt employer; and
+(1) The FMA must, within 28 days after receiving an application that may be made under section 29(1) and the documents required under section 29(2) to accompany the application,—
+  (a) consider whether the FMA is satisfied that each employer in respect of whom the application is made is eligible to be approved as an exempt employer; and
   (b) if so satisfied, approve the employer as an exempt employer and register the employer on the register of exempt employers.
-(2) The Government Actuary must—
+(2) The FMA must—
   (a) give notice to the employer as soon as practicable after approving, or declining to approve, the employer as an exempt employer; and
   (b) specify in that notice an effective date after which an employee who starts new employment with the employer will be exempt from the automatic enrolment rules (unless those rules do not otherwise apply).
 
 ### 31 Revocation of exempt employer approval
-(1) The Government Actuary may revoke an approval given under section 30 if—
-  (a) the Government Actuary has given not less than 28 days’ notice to the employer that the Government Actuary is considering whether to revoke the approval; and
-  (b) the Government Actuary is satisfied on reasonable grounds that the employer no longer provides access to a scheme for its employees that complies with the rules in section 25.
-(2) The revocation may be on application by the employer or on the Government Actuary’s initiative.
-(3) The Government Actuary must—
+(1) The FMA may revoke an approval given under section 30 if—
+  (a) the FMA has given not less than 28 days’ notice to the employer that the FMA is considering whether to revoke the approval; and
+  (b) the FMA is satisfied on reasonable grounds that the employer no longer provides access to a scheme for its employees that complies with the rules in section 25.
+(2) The revocation may be on application by the employer or on the FMA's initiative.
+(3) The FMA must—
   (a) give notice to the employer as soon as practicable after revoking the approval; and
   (b) specify in that notice an effective revocation date after which an employee who starts new employment with the employer will be subject to the automatic enrolment rules (unless those rules do not otherwise apply); and
   (c) remove the employer from the register of exempt employers.
 
-### 32 Government Actuary must give notice to Commissioner of exempt employers
-The Government Actuary must give notice to the Commissioner as soon as practicable after an employer is approved under section 30 or an approval is revoked under section 31.
+### 32 FMA must give notice to Commissioner of exempt employers
+The FMA must give notice to the Commissioner as soon as practicable after an employer is approved under section 30 or an approval is revoked under section 31.
 
 **Opting in**
 
@@ -568,7 +582,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 
 ### 49 Effect on existing members of change, etc, in employer chosen scheme
 (1) A notice under section 47(2)(b) does not affect any person who became a member of a KiwiSaver scheme while the scheme was the employer’s chosen KiwiSaver scheme.
-(2) However, subsection (1) does not limit section 9BAA of the Superannuation Schemes Act 1989 (which provides for transfers without consent in certain circumstances).
+(2) However, subsection (1) does not limit section 119G (which provides for transfers without consent in certain circumstances).
 
 **Default KiwiSaver schemes**
 
@@ -650,6 +664,10 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
     (v)
     (vi) of any information held by a provider of the old scheme that would be relevant to a provider of the new scheme making a claim under section 68C of the Tax Administration Act 1994, including information as to the periods for which claims have already been made.
 (4) The provider must comply with subsection (3) within 35 days of receiving that notice or any longer period agreed between the providers of the old and new schemes.
+(5) Despite subsections (3) and (4), in the circumstances described in subsection (6), the provider of the old scheme must not transfer the member’s accumulation to the new scheme other than by way of distributing the assets of the old scheme as the scheme is wound up.
+(6) The circumstances are that—
+  (a) the trustees (in the case of a restricted KiwiSaver scheme) have, or the manager (in the case of any other KiwiSaver scheme) has, under section 119D, notified members of the old scheme of a proposal to transfer all of the members of the old scheme to another scheme; or
+  (b) the trustees have, under section 173, lodged a copy of a winding-up order or resolution with the FMA (in the case of a restricted KiwiSaver scheme) or notified the manager of a winding-up order or resolution (in the case of any other KiwiSaver scheme).
 
 **Involuntary transfers**
 
@@ -660,7 +678,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (bb) a scheme winds up, if that winding up is after the Commissioner has received notice under section 173(1)(b) that the person must transfer to another scheme on the scheme's winding up; or
   (c) the Commissioner has received a notice in respect of a member of a KiwiSaver scheme under section 210(2); or
   (d) the Commissioner has received notice in accordance with clauses 4(a) and 5(a) in schedule 28 of the Income Tax Act 2007.
-(2) However, this section does not apply if section 9BAA of the Superannuation Schemes Act 1989 applies.
+(2) However, this section does not apply if section 119G applies.
 (3) The person must be allocated to a new scheme in accordance with the principles in section 44, but excluding section 44(b) (which relates to allocation to an employer’s chosen KiwiSaver scheme).
 (4) The Commissioner must take whatever steps the Commissioner thinks appropriate to ensure that, so far as practicable, the process for an involuntary transfer follows the process for a voluntary transfer under section 56.
 (5) Section 56(3) and (4) applies to an involuntary transfer, but as if the requirement in section 56(4) referred to 3 months instead of 35 days.
@@ -1058,7 +1076,7 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (5) Other contributions is the total of amounts that the employer pays or credits in relation to the employee for the period to which the payment of gross salary or wages relates, to the extent to which the amounts are—
   (a) employer contributions made in the absence of this section:
   (b) employer’s superannuation contributions made to, or amounts credited from within, (collectively, the contributions) a registered superannuation scheme (the contributions scheme), and—
-    (i) the contributions scheme was registered before 17 May 2007, or the contributions scheme is one (a succeeding scheme) for which there is, due to all relevant members transferring to the succeeding scheme by virtue of section 9BAA of the Superannuation Schemes Act 1989, a prior registered superannuation scheme (a prior scheme) and that prior scheme or another prior scheme for the contributions scheme were registered before 17 May 2007; and
+    (i) the contributions scheme was registered before 17 May 2007, or the contributions scheme is one (a succeeding scheme) for which there is, due to all relevant members transferring to the succeeding scheme by virtue of section 9BAA of the Superannuation Schemes Act 1989 or section 119G of this Act, a prior registered superannuation scheme (a prior scheme) and that prior scheme or another prior scheme for the contributions scheme were registered before 17 May 2007; and
     (ii) the employer provided access to eligible employees to the contributions scheme or a prior scheme for the contributions scheme before 17 May 2007; and
     (iii) the employee is—
       (A) employed by the employer before 1 April 2008, and the employer makes or has agreed with the employee before 1 April 2008 to make or credit the contributions to the contributions scheme or a prior scheme for the contributions scheme; or
@@ -1117,23 +1135,23 @@ For a payment of gross salary or wages to an employee, an employer does not have
 
 ### 101H Failure to pay: provider notice
 (1) This section applies if the provider of a complying superannuation fund knows that an employer has failed to pay to the provider an amount of compulsory employer contribution in accordance with this subpart.
-(2) The provider must, as soon as practicable, give a notice to the employer, requesting the payment of the amount of compulsory employer contribution. The provider must send to the Government Actuary a copy of the notice.
-(3) If the employer does not pay the amount of compulsory employer contribution to the provider within 1 month of this section first applying for the amount, and the total of the amounts of compulsory employer contributions unpaid is more than $500, then the provider must immediately give a notice to the Government Actuary.
+(2) The provider must, as soon as practicable, give a notice to the employer, requesting the payment of the amount of compulsory employer contribution. The provider must send to the FMA a copy of the notice.
+(3) If the employer does not pay the amount of compulsory employer contribution to the provider within 1 month of this section first applying for the amount, and the total of the amounts of compulsory employer contributions unpaid is more than $500, then the provider must immediately give a notice to the FMA.
 (4) A notice under subsection (3) must show the following:
   (a) the name of the employer; and
   (b) the amounts of compulsory employer contributions unpaid; and
   (c) the employer’s name, address, and tax file number (if known); and
   (d) specify the relevant employees to whom the failure to pay relates, their tax file numbers, and addresses; and
   (e) the pay periods and relevant amounts for the employees to whom the failure to pay relates; and
-  (f) other information required by the Government Actuary.
-(5) If the employer pays an amount of compulsory employer contribution remedying a failure to pay that was notified to the Government Actuary under subsection (3), the provider must immediately give a notice to the Government Actuary showing relevant details of the employer’s payment.
+  (f) other information required by the FMA.
+(5) If the employer pays an amount of compulsory employer contribution remedying a failure to pay that was notified to the FMA under subsection (3), the provider must immediately give a notice to the FMA showing relevant details of the employer’s payment.
 
-### 101I Failure to pay: Government Actuary's duties
-(1) If the Government Actuary receives a notice under section 101H(3), the Government Actuary must decide the amount of compulsory employer contribution that an employer to which the notice relates has failed to pay for the relevant calendar months.
-(2) The Government Actuary may use any power (with necessary modifications for complying superannuation funds) that the Government Actuary has in respect of KiwiSaver schemes in the performance of the duty to decide imposed by subsection (1).
-(3) As soon as practicable, the Government Actuary must give a notice to the employer showing the information described in subsection (4).
+### 101I Failure to pay: FMA's duties
+(1) If the FMA receives a notice under section 101H(3), the FMA must decide the amount of compulsory employer contribution that an employer to which the notice relates has failed to pay for the relevant calendar months.
+(2) The FMA may use any power (with necessary modifications for complying superannuation funds) that the FMA has in respect of KiwiSaver schemes in the performance of the duty to decide imposed by subsection (1).
+(3) As soon as practicable, the FMA must give a notice to the employer showing the information described in subsection (4).
 (4) A notice under subsection (3) must—
-  (a) require the payment of the amount (the liable amount) that the Government Actuary has decided, under subsection (1), that an employer has failed to pay to the provider; and
+  (a) require the payment of the amount (the liable amount) that the FMA has decided, under subsection (1), that an employer has failed to pay to the provider; and
   (b) specify the relevant calendar months and related amounts; and
   (c) specify that the employer must pay the liable amount within 28 days after the notice is given; and
   (d) specify the employer's name, address and tax file number (if known); and
@@ -1141,7 +1159,7 @@ For a payment of gross salary or wages to an employee, an employer does not have
   (f) specify the pay periods and relevant amounts for the employees to whom the failure to pay relates; and
   (g) inform the employer that failure to comply with the notice will result in the Commissioner receiving notice of the failure to comply; and
   (h) show other information required by the Commissioner.
-(5) If the employer does not pay the liable amount in the period specified in subsection (4)(c) and the employer has not objected to the Government Actuary's decision under subsection (1) within the time allowed under section 186, the Government Actuary must immediately—
+(5) If the employer does not pay the liable amount in the period specified in subsection (4)(c) and the employer has not objected to the FMA's decision under subsection (1) within the time allowed under section 186, the FMA must immediately—
   (a) give to the Commissioner a notice showing the information described in subsection (6); and
   (b) send to the provider a copy of the notice.
 (6) A notice under subsection (5) must—
@@ -1150,14 +1168,14 @@ For a payment of gross salary or wages to an employee, an employer does not have
   (c) specify the extent to which an amount of compulsory employer contributions remains unpaid for the liable amount; and
   (d) specify the relevant employees to whom the unpaid amounts relate, their tax file numbers, and addresses; and
   (e) specify the pay periods and relevant amounts for the employees to whom the unpaid amounts relate.
-(7) If the Government Actuary makes a decision, upon an employer's objection to the Government Actuary's decision under subsection (1), and the decision is that the employer to which the notice under section 101H(3) relates has failed to pay an amount of compulsory employer contribution for the relevant calendar months, the employer is treated as having not objected, and the Government Actuary must immediately give the Commissioner the notice described in subsection (5).
+(7) If the FMA makes a decision, upon an employer's objection to the FMA's decision under subsection (1), and the decision is that the employer to which the notice under section 101H(3) relates has failed to pay an amount of compulsory employer contribution for the relevant calendar months, the employer is treated as having not objected, and the FMA must immediately give the Commissioner the notice described in subsection (5).
 
 ### 101J Failure to pay: Commissioner
 (1) If the Commissioner receives a notice under section 101I(5), the amount of compulsory employer contributions unpaid for the liable amount, specified in that notice, is treated as an amount due and payable by the employer to the Commissioner on the 20th working day after the Commissioner receives the notice under section 101I(5).
 (2) The Commissioner must send the employer a notice of the amount due and payable, and the due date, specified in subsection (1).
 
 ### 101K Recovered amounts
-An amount of compulsory employer contribution for an employee's complying superannuation fund that is received by the Government Actuary or the Commissioner by virtue of this subpart must be paid by them to the relevant provider. The relevant amount of compulsory employer contributions remaining unpaid for the relevant liable amount is consequentially reduced.
+An amount of compulsory employer contribution for an employee's complying superannuation fund that is received by the FMA or the Commissioner by virtue of this subpart must be paid by them to the relevant provider. The relevant amount of compulsory employer contributions remaining unpaid for the relevant liable amount is consequentially reduced.
 
 ### Subpart 4 — Contributions holiday
 
@@ -1278,29 +1296,132 @@ In this Part, unless the context otherwise requires, any term or expression that
 
 ### 116 Schemes eligible to be KiwiSaver scheme
 (1) A scheme is eligible to be a KiwiSaver scheme if—
-  (a) it is—
-    (i) established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; or
-    (ii) in the case of a proposal under section 135 or 148, proposed to be established as a KiwiSaver scheme and governed under a trust deed that meets the criteria in subparagraph (i); or
-    (iii) a scheme constituted under an Act of the Parliament of New Zealand; and
+  (a) it is established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law; and
   (b) its principal purpose is to provide retirement benefits directly or indirectly to natural persons; and
   (c) it is a defined contribution scheme; and
   (d) the benefits provided by the scheme are fully funded as they accrue; and
-  (e) the scheme has at least 1 independent trustee; and
-  (f) in the case of a scheme that is not constituted under an Act of the Parliament of New Zealand,—
-    (i) it has at least 1 trustee who is a New Zealand resident; or
-    (ii) if any of the trustees is a corporate trustee, at least 1 of the directors of the corporate trustee is a New Zealand resident.
-(2) However, subsection (1)(e) does not apply in the case of a scheme that is, or is to be, registered under section 141 or 150 if the registered superannuation scheme in respect of which the proposal under section 135 or 148 is made was in existence before this section came into force.
-(3) The provisions of the trust deed referred to in subsection (1)(a)(i) and (ii) may also govern a registered superannuation scheme.
+  (e) it has a manager; and
+  (f) it has a trustee.
+(2)
+(3) The provisions of the trust deed referred to in subsection (1)(a) may also govern a registered superannuation scheme.
 (4) This section is subject to the requirement for registration under subpart 3.
+(5) This section does not apply to a restricted KiwiSaver scheme.
+
+### 116A Requirements for restricted KiwiSaver schemes
+(1) A scheme that is identified on the KiwiSaver schemes register as a restricted KiwiSaver scheme must—
+  (a) meet the requirements of section 116(1)(a) to (d); and
+  (b) have at least 1 independent trustee; and
+  (c) have—
+    (i) at least 1 trustee who is a New Zealand resident; or
+    (ii) if any of the trustees is a corporate trustee, at least 1 director of the corporate trustee who is a New Zealand resident; and
+  (d) restrict membership of the scheme, in its conditions of entry of members to the scheme and in the way in which those conditions are applied, to 1 or more of the classes of persons described in subsection (2).
+(2) The classes of persons are—
+  (a) persons who are employed by a particular employer:
+  (b) persons who are employed by a related body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988) of a particular employer:
+  (c) persons who belong to a particular profession, calling, trade, or occupation:
+  (d) persons who belong to a particular association, society, or other body with a definable community of interest:
+  (e) persons who are immediate family members of, or wholly or partially financially dependent on, a person in 1 or more of the classes of persons described in paragraphs (a) to (d).
+(3) In subsection (2)(e), immediate family member, in relation to a person, means the persons's spouse, civil union partner, de facto partner, parent, child, step-parent, or stepchild.
+(4) A restricted scheme must obtain the prior written consent of the FMA before changing the conditions of entry of members to the scheme, or the way in which those conditions are applied, in a way that expands or is likely to expand the classes of persons who may become members of the scheme.
+(5) As soon as practicable after a restricted scheme ceases to comply with subsection (1)(c), the trustees of the scheme must notify the FMA of that fact.
+
+### 116B Requirements for managers of KiwiSaver schemes
+(1) The manager of a KiwiSaver scheme is responsible for performing the following functions:
+  (a) offering interests in the scheme for subscription:
+  (b) issuing interests in the scheme:
+  (c) managing scheme investments and property:
+  (d) administering the scheme.
+(2) The manager—
+  (a) must be a company within the meaning of the Companies Act 1993; and
+  (b) must have at least 1 director who is a New Zealand resident; and
+  (c) must be designated or appointed as manager of the scheme under the trust deed; and
+  (d) must be a party to the trust deed or bound to comply with the relevant provisions of the trust deed as if it were a party to the trust deed.
+(3) The manager has the same liability for its acts and omissions in the performance of its functions and duties, and the exercise of its powers, as it would if it performed those functions or duties, or exercised those powers, as a trustee.
+(4) As soon as practicable after a manager ceases to comply with subsection (2)(b), the manager must notify the FMA of that fact.
+
+### 116C Duty of manager with respect to money received
+(1) This section applies to all money received by the manager, or an agent of the manager, in respect of contributions.
+(2) On receipt by the manager,—
+  (a) the manager must pay the money into a separate bank account; and
+  (b) the money is subject to the trusts governing the scheme that are set out in the trust deed.
+
+### 116D Requirements for trustees of KiwiSaver schemes other than restricted schemes
+(1) A KiwiSaver scheme other than a restricted scheme must not have more than 1 trustee.
+(2) The trustee must be a body corporate that is incorporated in New Zealand.
+(3) The trustee must supervise the manager's performance of—
+  (a) the functions of the manager as set out in section 116B(1); and
+  (b) any other functions that the manager performs in relation to the scheme under the trust deed or an enactment.
+(4) The trustee must not delegate the function described in subsection (3).
+
+### 116E Removal of trustees of KiwiSaver schemes other than restricted schemes
+(1) The trustee of a KiwiSaver scheme other than a restricted scheme must not resign as trustee of the scheme unless—
+  (a) all functions and duties of the position have been performed; or
+  (b) the High Court consents.
+(2) Despite anything to the contrary in the trust deed, a manager must not discharge or remove a trustee unless the manager does so with the approval of the High Court.
+
+### 116F Manager and trustee must be independent
+(1) This section applies to a KiwiSaver scheme other than a restricted scheme.
+(2) A person (A) must not act as trustee of the scheme, and another person (B) must not act as manager of the scheme, if A and B are associated persons (within the meaning of subpart YB of the Income Tax Act 2007).
+
+### 116G Investments and property of KiwiSaver schemes
+The investments and property of a KiwiSaver scheme must be vested in—
+  (a) the trustees; or
+  (b) 1 or more nominated persons of the trustees; or
+  (c) 1 or more nominees of a nominated person of the trustees.
+
+### 116H Nomination of person
+(1) If authorised by the trust deed, the trustees of a KiwiSaver scheme may nominate, in writing, 1 or more persons in which are vested any of the investments or property of the scheme.
+(2) The following persons are not eligible to be nominated as, or to act as, a nominated person:
+  (a) the manager of the scheme:
+  (b) a person who is an associated person (within the meaning of subpart YB of the Income Tax Act 2007) of the manager.
+(3) The trustees, in addition to their own obligations as trustees in relation to the scheme, are jointly and severally liable with the nominated person for the due and faithful performance and observance by the nominated person of all the duties and obligations imposed on the nominated person in relation to the scheme either by this Act or by law.
+
+### 116I Appointment of nominee by nominated person
+(1) If authorised in writing by the trustees, a nominated person may appoint 1 or more nominees in which are vested any of the investments or property of the scheme.
+(2) The following persons are not eligible to be appointed as, or to act as, a nominee:
+  (a) the manager of the scheme:
+  (b) a person who is an associated person (within the meaning of subpart YB of the Income Tax Act 2007) of the manager.
+(3) The trustee and the nominated person that appointed the nominee, in addition to their own obligations in relation to the scheme, are jointly and severally liable with the nominee for the due and faithful performance and observance by the nominee of all the duties and obligations imposed on the nominee in relation to the scheme by this Act or by law.
+
+### 116J Trust deed or other instrument must not exempt trustees, managers, or investment managers from liability
+(1) A provision in a trust deed or any other instrument is void to the extent that it would have the effect of exempting or indemnifying a trustee, a manager, or an investment manager from liability for breach of trust in the event of the trustee, manager, or investment manager failing to meet,—
+  (a) in the case of a trustee of a KiwiSaver scheme other than a restricted scheme, the standard of care set out in clause 1A(b) of Schedule 1:
+  (b) in the case of a manager, the standard of care set out in clauses 1B(1)(b) and 1E(2) of Schedule 1:
+  (c) in the case of an investment manager, the standard of care set out in clause 1E(2) of Schedule 1:
+  (d) in the case of a trustee of a restricted KiwiSaver scheme,—
+    (i) the standard of care set out in clause 1E(2) of Schedule 1; or
+    (ii) the standard of care required of a trustee by law:
+  (e) in the case of an independent trustee of a restricted KiwiSaver scheme, the standard of care set out in section 117(2)(a).
+(2) However, the trustees of a restricted KiwiSaver scheme, and the trustee and the manager of any other KiwiSaver scheme, are otherwise entitled to the same indemnities and relief as any trustee (within the meaning of the Trustee Act 1956).
+
+### 116K Trustees of KiwiSaver schemes other than restricted schemes may apply to High Court for order relating to scheme
+(1) This section applies if the trustee of a KiwiSaver scheme other than a restricted scheme is satisfied that—
+  (a) there is a significant risk that the interests of members of the scheme will be materially prejudiced; or
+  (b) the provisions of the trust deed are no longer adequate to give proper protection to members.
+(2) The trustee may apply to the High Court for an order under this section.
+(3) The court may direct that the application be served on any person that the court thinks fit.
+(4) On an application, the court, after giving the manager and any other person that the court thinks fit the opportunity to be heard, may make an order that—
+  (a) amends the provisions of the trust deed of the scheme:
+  (b) imposes restrictions on the activities of the trustee or the manager (including, in the case of the manager, restrictions on advertising) that the court thinks are necessary to protect the interests of members:
+  (c) stays any or all civil proceedings before any court by or against the trustee or the manager:
+  (d) restrains the payment under this Act of money by the manager or the trustee to members or a class of members:
+  (e) restrains the transfer under this Act of a member's accumulation from one KiwiSaver scheme to another:
+  (f) removes a person as manager of a scheme and appoints another person as manager of the scheme (with any powers that the court orders):
+  (g) gives any other directions that the court considers necessary to protect the interests of members, or the public.
+(5) The court may vary or cancel an order made under this section.
+(6) In exercising its powers under this section, the court must have regard to the interests of all creditors in respect of the scheme.
 
 ### 117 Additional duty of independent trustees
-(1) This section applies to a trustee if—
-  (a) the trustee is named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under sections 131, 132, 135, or 148 (unless a substitute has been appointed for that person in accordance with paragraph (c)); or
-  (b) the trustee is, in fact, an independent trustee in the event that no trustee is named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under sections 131, 132, 135, or 148 or none of the persons so named in the application or proposal, or their substitutes appointed under paragraph (c), continue to be trustees; or
-  (c) the trustee is appointed as a substitute for a person named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under sections 131, 132, 135, or 148 (or as a substitute for a person subsequently appointed) if the trustees notify the Government Actuary of the appointment.
+(1) This section applies to a trustee of a restricted KiwiSaver scheme if—
+  (a) the trustee is named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under any of the sections specified in subsection (3) (unless a substitute has been appointed for that person in accordance with paragraph (c)); or
+  (b) the trustee is, in fact, an independent trustee in the event that no trustee is named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under any of the sections specified in subsection (3) or none of the persons so named in the application or proposal, or their substitutes appointed under paragraph (c), continue to be trustees; or
+  (c) the trustee is appointed as a substitute for a person named as an independent trustee in an application or proposal submitted in relation to the KiwiSaver scheme under any of the sections specified in subsection (3) (or as a substitute for a person subsequently appointed) if the trustees notify the FMA of the appointment.
 (2) A trustee to whom this section applies—
-  (a) must, in managing the affairs of the KiwiSaver scheme, exercise the care, diligence, and skill that a prudent person engaged in the profession or business of managing trusts must exercise; and
+  (a) must, in managing the affairs of the KiwiSaver scheme, exercise the care, diligence, and skill that a prudent person engaged in the profession or business of managing trusts would exercise in managing the affairs of others; and
   (b) is liable in any civil proceedings for any act or omission as if that standard of care, diligence, and skill applied.
+(3) The sections referred to in subsection (1) are—
+  (a) section 131(1) and (4); and
+  (b) sections 131(2) and (3), 132, 135, and 148 of this Act as in force immediately before their repeal by section 31, 32, or 35 of the KiwiSaver Amendment Act 2011.
 
 ### 117A Restrictions on transactions
 (1) This section applies to a KiwiSaver scheme if the scheme has less than 20 members, treating all interests in the scheme held by persons associated under the 1988 version provisions of the Income Tax Act 2007 as being held by 1 person.
@@ -1320,76 +1441,165 @@ In this Part, unless the context otherwise requires, any term or expression that
 (1) A KiwiSaver scheme must, for the purposes of any other enactment (unless the enactment indicates otherwise), be treated as a registered superannuation scheme and, accordingly,—
   (a) a reference in an enactment to a scheme registered under the Superannuation Schemes Act 1989 includes a reference to a KiwiSaver scheme:
   (b) a reference in an enactment to any person, right, obligation, duty, interest, property, funds, or any other matter that would apply in relation to a registered superannuation scheme applies with necessary modifications in relation to a KiwiSaver scheme.
-(2) Despite subsection (1), but subject to subsection (3), a KiwiSaver scheme—
-  (a) must not be treated as a registered superannuation scheme for the purposes of this Act or the Superannuation Schemes Act 1989 except as provided in sections 119 to 123; and
+(2) Despite subsection (1), a KiwiSaver scheme—
+  (a) must not be treated as a registered superannuation scheme for the purposes of this Act or the Superannuation Schemes Act 1989; and
   (b) must instead be established, registered, and wound up in accordance with this Part and subject to the express provisions of this Part.
-(3) This section is subject to sections 119 to 124.
+(3)
 
-### 119 Application of section 7 of Superannuation Schemes Act 1989
-(1) The requirement in section 7 of the Superannuation Schemes Act 1989 to specify certain matters in the trust deed of a registered superannuation scheme applies to the trust deed of a KiwiSaver scheme so as to require the same matters to be specified in relation to a KiwiSaver scheme.
-(2) Despite subsection (1), if this Act expressly sets out requirements in relation to the matters set out in section 7 of the Superannuation Schemes Act 1989 (for example, by terms implied by the KiwiSaver scheme rules or provision for how a scheme must be wound up),—
-  (a) the provisions of this Act prevail; and
-  (b) section 7 of the Superannuation Schemes Act 1989 (as applied by this section) is satisfied by reference to the relevant provisions in this Act in respect of those matters.
+**Trust deeds**
+
+### 119 Content of trust deeds
+(1) The trust deed of a KiwiSaver scheme must specify the following matters:
+  (a) the conditions of entry of members to the scheme:
+  (b) the conditions of termination of membership of the scheme:
+  (c) the contributions payable:
+  (d) the conditions under which benefits become payable and the way in which the benefits will be determined:
+  (e) the number of trustees, and provision for their appointment, removal from office, and retirement:
+  (f) the circumstances in which the scheme may be wound up and the way in which the assets of the scheme are to be distributed in the event of a winding-up:
+  (g) in the case of a KiwiSaver scheme other than a restricted scheme, provision for the appointment, removal from office, and retirement of the manager.
+(2) If other provisions of this Act expressly set out requirements in relation to the matters set out in subsection (1) (for example, by terms implied by the KiwiSaver scheme rules or provision for how a scheme must be wound up),—
+  (a) the trust deed is subject to those provisions; and
+  (b) subsection (1) is satisfied by reference to the relevant provisions in this Act in respect of those matters.
+
+### 119A Implied provision as to amendments reducing accrued benefits, etc
+(1) There is implied in the trust deed of a KiwiSaver scheme a provision that an amendment requiring consent must not be made unless the trustees (in the case of a restricted KiwiSaver scheme) have, or the manager (in the case of any other KiwiSaver scheme) has, obtained the written consent of every member who would be adversely affected by the amendment.
+(2) In subsection (1), amendment requiring consent means an amendment of the trust deed that would have the effect of—
+  (a) reducing, postponing, or otherwise adversely affecting the benefits, whether vested, contingent, or discretionary, that may in due course flow from, or are attributable to, membership of the scheme up to the date the amendment is made; or
+  (b) removing a right of members to participate in the management of the scheme; or
+  (c) increasing the contributions, fees, or charges payable by a member; or
+  (d) providing for the reversion of any assets of the scheme to an employer to a greater extent than already provided for in the trust deed.
+
+### 119B Application of sections 119C to 119I
+Sections 119C to 119I apply to transfers or proposed transfers between KiwiSaver schemes, other than transfers to which subpart 3 of Part 2 applies.
+
+### 119C Implied provision as to transfer of members, etc
+(1) There is implied in the trust deed of a KiwiSaver scheme a provision that no member of the scheme will be transferred to another KiwiSaver scheme, or to another section of the same scheme, unless the trustees (in the case of a restricted KiwiSaver scheme) have, or the manager (in the case of any other KiwiSaver scheme) has, obtained the written consent of the member concerned.
+(2) This section is subject to section 119G.
+
+### 119D Procedural requirements in case of certain transfers
+(1) This section and sections 119E to 119H apply if it is proposed to transfer (whether at the same time or over an extended period) all or a substantial number of members from a KiwiSaver scheme to another KiwiSaver scheme.
+(2) The manager of each KiwiSaver scheme affected, other than a restricted scheme, must, at least 1 month before the date on which the manager requires members to give their written consent to a proposed transfer,—
+  (a) consult the trustee of the scheme on the proposed transfer; and
+  (b) notify the members described in subsection (4) in writing of—
+    (i) the proposed transfer and its implications for members; and
+    (ii) the date on which the proposed transfer is to occur; and
+    (iii) the date by which the written consent of members to the proposed transfer must be received by the manager; and
+    (iv) any comments concerning the proposed transfer made by the trustee as a result of consultation under paragraph (a); and
+    (v) the fact that a copy of the notice has been forwarded to the FMA; and
+  (c) notify the FMA in writing of the matters described in paragraph (b)(i) to (iv).
+(3) The trustees of each restricted KiwiSaver scheme affected must, at least 1 month before the date on which they require members to give their written consent to a proposed transfer,—
+  (a) notify the members described in subsection (4) in writing of—
+    (i) the proposed transfer and its implications for members; and
+    (ii) the date on which the proposed transfer is to occur; and
+    (iii) the date by which the written consent of members to the proposed transfer must be received by the trustees; and
+    (iv) the fact that a copy of the notice has been forwarded to the FMA; and
+  (b) notify the FMA in writing of the matters described in paragraph (a)(i) to (iii).
+(4) The persons who must be notified under subsections (2)(b) and (3)(a) are all members of the scheme other than those members who, in the opinion of the FMA, are not likely to be materially affected by the proposed transfer.
+(5) Giving notice under this section does not derogate from the need to comply with any other provision of this Act.
+(6) For the purposes of this section and section 119E, references to the transfer of members from one scheme to another include references to transfers of members from one section of a scheme to another section of the same scheme.
+
+### 119E When requirements of section 119D not met
+For the purposes of section 169, and without limiting that section, it is a ground for the FMA to have reasonable cause to believe that a particular scheme to which members are transferred fails to meet the requirements of section 119D if,—
+  (a) over any 12-month period, either—
+    (i) 20% or more of the members of another KiwiSaver scheme are transferred to the particular KiwiSaver scheme; or
+    (ii) the number of members of the particular KiwiSaver scheme is increased by 20% or more by reason of a transfer of members from another KiwiSaver scheme; and
+  (b) the members of the particular KiwiSaver scheme who are described in section 119D(4) have not been notified of the transfer, or any notification given has not adequately set out the implications of the transfer.
+
+### 119F Information required in case of transfer under section 119D
+In respect of a transfer to which section 119D applies, the provider of the scheme from which a member (A) transfers must give the following information to the provider of the scheme to which A transfers:
+  (a) A's name, address, and date of birth:
+  (b) A's tax file number:
+  (c) the date on which A first became a member of a KiwiSaver scheme:
+  (d) if A is an employee,—
+    (i) the name and address of each of A's employers; and
+    (ii) the rate at which A intends each of those employers to make deductions of contributions from his or her salary or wages:
+  (e) the name, address, and tax file number of both the provider and the scheme:
+  (f) any other information that the Commissioner requires the provider to give to the provider of the scheme to which A transfers.
+
+### 119G When FMA may approve section 119D transfers without consent of members
+(1) In respect of a transfer to which section 119D applies, the requirement in section 119C to obtain the written consent of all or any of the members of a scheme does not apply if the FMA approves the transfer under this section.
+(2) The FMA may approve the transfer if the FMA is satisfied that—
+  (a) the terms and conditions of the scheme to which the members are to be transferred (the new scheme) are no less favourable to members than the terms and conditions of the scheme from which they are being transferred (the old scheme); and
+  (b) the transfer is otherwise reasonable in all the circumstances (including having regard to the value of the assets transferred from the old scheme to the new scheme); and
+  (c) the procedure in section 119H has been followed.
+(3) The FMA may decline to approve a transfer if the FMA considers that the transfer would adversely affect the interests of all or any of the members of the old scheme in a material way.
+(4) In determining whether subsection (2) or (3) applies, the FMA may—
+  (a) have regard to the likely effect of the new scheme on benefits to members as a whole; and
+  (b) have regard to any other matter that the FMA considers relevant.
+(5) For a transfer that the FMA has approved,—
+  (a) each relevant member of the old scheme is treated as offering to be a member of the new scheme on the terms and conditions for that new scheme; and
+  (b) the provider of the new scheme is treated as accepting the member's offer.
+(6) The FMA may publish, in any form that the FMA thinks fit, guidance on matters that the FMA considers relevant under this section (including principles that the FMA may use to decide whether to approve a transfer).
+
+### 119H How approval under section 119G may be granted
+(1) An application for approval under section 119G may be made by—
+  (a) the trustees (in the case of a restricted KiwiSaver scheme) of the old scheme or the new scheme:
+  (b) the trustee or the manager (in the case of any other KiwiSaver scheme) of the old scheme or the new scheme:
+  (c) a relevant employer.
+(2) The FMA may accept an application for approval if it is satisfied that—
+  (a) it is reasonable in all of the circumstances of the case that the person have standing to make the application; and
+  (b) the person falls within a class specified in guidelines published by the FMA (if any) for the purposes of this subsection.
+(3) The FMA may require the applicant to give the FMA, with the application or at any later time,—
+  (a) a certificate, signed by a person of a class specified by the FMA, that the transfer meets the requirements of section 119G; and
+  (b) any other information about the new scheme, the old scheme, or the transfer.
+(4) The applicant must give notice to every member of the old scheme—
+  (a) that the applicant has applied for approval to transfer the members without their written consent; and
+  (b) that the member may make submissions to the FMA about the transfer.
+(5) The FMA must have regard to submissions before deciding whether or not to give approval.
+(6) The FMA may give approval subject to any terms and conditions that the FMA may specify in the notice of approval, and the approval is effective only if the transfer is carried out in accordance with those terms and conditions.
+
+### 119I FMA may exempt trustees and managers from requirement to obtain written consent of members
+The FMA may exempt the trustees of a restricted KiwiSaver scheme or the manager of any other KiwiSaver scheme from the requirement to obtain the written consent of all members of the scheme who are required to give consent under section 119A or 119C if the FMA is satisfied that—
+  (a) the trustees have not, or the manager has not, been able to contact all of those members despite having taken all reasonable steps to do so; and
+  (b) the proposed action is not unreasonable in relation to the best interests of 1 or more of those members who have not been contacted.
+
+### 119J Application and enforcement of implied provisions
+(1) Sections 119A to 119I, 129A, and 129B apply notwithstanding anything to the contrary in the trust deed.
+(2) Every provision implied in a trust deed in accordance with sections 119A to 119I, 129A, and 129B is enforceable by the manager, the trustees, or a member of the scheme.
+
+**Prospective members' rights to information**
+
+### 119K Prospective members' rights to information
+(1) A person who is eligible to become a member of a KiwiSaver scheme has the right, on request,—
+  (a) to look at, at any reasonable time, a copy of the trust deed:
+  (b) to receive, on payment of a reasonable fee, a copy of the trust deed:
+  (c) to receive, free of charge, a copy of the annual financial statements and any auditor's report.
+(2) In subsection (1), trust deed does not include a participation agreement that would not relate to the person if the person were to become a member of the scheme.
+(3) Nothing in subsection (1) limits any provision in the Securities Act 1978.
+
+**Members' rights to information**
+
+### 119L Members' rights to information
+(1) Each member of a KiwiSaver scheme must—
+  (a) be given, within 6 months of the close of each financial year of the scheme, a copy of the annual report prepared under section 123 in respect of that year; and
+  (b) have the right, on request,—
+    (i) to receive an estimate of the member's benefits:
+    (ii) to look at, at any reasonable time, a copy of the trust deed:
+    (iii) to receive, on payment of a reasonable fee, a copy of the trust deed:
+    (iv) to receive, free of charge, a copy of the annual financial statements and any auditor's report.
+(2) Subsection (1)(a) does not apply in relation to a member's account that is an inactive account unless the member requests a copy of the annual report.
+(3) The requirement in subsection (1)(a) is treated as met in respect of a member if––
+  (a) the member has consented, in writing, to receive a World Wide Web uniform resource locator for access to an electronic copy of the annual report (the annual report URL); and
+  (b) the member is given the annual report URL within 6 months of the close of the relevant financial year.
+(4) In subsection (1), trust deed does not include a participation agreement that does not relate to the member.
+(5) Nothing in subsection (1) limits sections 54A, 54B, or any other provision of the Securities Act 1978.
 
 ### 120 Application of sections 8 to 11 of Superannuation Schemes Act 1989
-(1) Sections 8 to 11 of the Superannuation Schemes Act 1989 (which relate to trust deeds and their provisions) apply with necessary modifications to a KiwiSaver scheme as if it were a registered superannuation scheme.
-(2) However,—
-  (a) section 9B of the Superannuation Schemes Act 1989 applies as if a reference to section 20 of the Superannuation Schemes Act 1989 were a reference to section 169 of this Act; and
-  (b) section 9BA of the Superannuation Schemes Act 1989 applies as if a reference to section 23 of the Superannuation Schemes Act 1989 were a reference to section 186 of this Act.
-(3) This section is not limited by any requirement in this Act for the Government Actuary to consider or be satisfied of any matters that are certified by the trustees under Schedule 2.
-(4) This section is subject to section 121.
+[Repealed]
 
 ### 121 Further modifications to application of sections 8 to 11 of Superannuation Schemes Act 1989
-(1) Nothing in this section limits the application of sections 8 to 11 of the Superannuation Schemes Act 1989 under section 120 with necessary modifications.
-(2) Despite section 120,—
-  (a) sections 9B to 9BA of the Superannuation Schemes Act 1989 do not apply in relation to transfers to which subpart 3 of Part 2 applies; and
-  (b) nothing in sections 9 to 9BA of the Superannuation Schemes Act 1989 applies in relation to amendments to the trust deed of a registered superannuation scheme, alterations to a registered superannuation scheme or the transfer of members of a registered superannuation scheme that are effected in accordance with sections 135 to 147 or sections 148 to 155.
-(3) In respect of any transfer that does occur under section 9B of the Superannuation Schemes Act 1989 (as applied by section 120 and this section) from one KiwiSaver scheme to another KiwiSaver scheme,—
-  (a) a member (A) of the KiwiSaver scheme who gives consent to a proposed transfer under section 9B of the Superannuation Schemes Act 1989 (as applied by section 120 and this section) must give to the trustees the following information:
-    (i) A’s name, address, and date of birth; and
-    (ii) A’s tax file number; and
-    (iii) the date on which A first became a member of a KiwiSaver scheme; and
-    (iv) if A is an employee,—
-      (A) the name and address of each of A’s employers; and
-      (B) the rate at which A intends each of those employers to make deductions of contributions from his or her salary or wages; and
-    (v) the name and address and tax file number of both the provider and the scheme; and
-    (vi) any other information that the Commissioner requires; and
-  (b) the trustees of the KiwiSaver scheme from which it is proposed to transfer members must, in addition to the matters to be notified in writing under section 9B(2B) of the Superannuation Schemes Act 1989, provide to the satisfaction of the Government Actuary evidence that they have provided in respect of each member of the scheme the information set out in paragraph (a) to the Commissioner.
-(4) Despite subsection (3)(b), the trustees of a registered superannuation scheme are not required to provide any or all of the information listed in subsection (3)(a) in respect of any or all of the members of the scheme to the Commissioner if the information is not in the control or possession of the trustees.
+[Repealed]
 
 ### 122 Application of other provisions of Superannuation Schemes Act 1989
-(1) Sections 13, 15A, 16, 17, and 18 of the Superannuation Schemes Act 1989 apply, as far as applicable and with necessary modifications, in relation to a KiwiSaver scheme.
-(2) Despite subsection (1), section 13(2) of the Superannuation Schemes Act 1989 does not apply in relation to a KiwiSaver scheme.
-(3) Section 15A of the Superannuation Schemes Act 1989 applies as if the references to a trust deed exclude participation agreements that would not relate to a person if the person were to become a member of the KiwiSaver scheme.
-(4) Section 16(2) of the Superannuation Schemes Act 1989 applies in relation to KiwiSaver schemes subject to any exemptions made under regulations made under section 228(t).
-(5) Section 17 of the Superannuation Schemes Act 1989 applies subject to the following:
-  (a) the requirement in section 17(1)(a) (which relates to a requirement to give members a copy of the annual report) does not apply in relation to a member’s account that is an inactive account unless the member requests a copy of the annual report; and
-  (ab) the requirement in section 17(1)(a) is treated as met in respect of a member, if––
-    (i) the member has consented, in writing, to receive a world wide web uniform resource locator for access to an electronic copy of the annual report (the annual report URL); and
-    (ii) the provider gives the annual report URL to the member within 6 months of the close of the relevant financial year; and
-  (b) the requirements in section 17(1)(b)(ii) and (iii) must be treated as if the references to a trust deed exclude participation agreements that do not relate to the relevant member.
-(6) Section 18 of the Superannuation Schemes Act 1989 applies in relation to a KiwiSaver scheme as if it also required the trustees of a KiwiSaver scheme that is not constituted under an Act of Parliament, and in respect of which any of the trustees is a corporate trustee, to notify the Government Actuary as soon as practicable after the corporate trustee ceases to have at least 1 director who is a New Zealand resident.
+[Repealed]
+
+**Annual reports, returns, and statements**
 
 ### 123 Requirement for annual report
-(1) The trustees of a KiwiSaver scheme must, within 5 months after the end of each financial year, prepare a report on the scheme for that year.
-(2) The annual report must, to the extent the information is applicable in respect of a KiwiSaver scheme, specify the information set out in Schedule 2 of the Superannuation Schemes Act 1989.
-(3) However,—
-  (a) clause 1(d) of Schedule 2 of the Superannuation Schemes Act 1989 does not apply; and
-  (b) instead, the annual report must include a statement by the trustees as to whether they have applied contributions received in respect of each member, including contributions paid via the Commissioner in respect of that member, in accordance with the trust deed.
-(4) The annual report must contain a certificate signed by the trustees certifying that—
-  (a) they have, in respect of each member of the scheme, applied any fee subsidies received in respect of that member in accordance with prescribed requirements; and
-  (b) there is a scheme provider agreement between the Commissioner and the provider of the scheme that remains in force; and
-  (c) if there has been an increase in a fee referred to in clause 2 of the KiwiSaver scheme rules during the year, the fee as increased is not unreasonable, after having regard to any matters prescribed under section 228(p) and any guidelines published by the Government Actuary under section 127.
-(5) The annual report must also specify—
-  (a) the number of members of the scheme who during the year have made a withdrawal for the purchase of a first home under clause 8 of the KiwiSaver scheme rules and the total amount withdrawn by all of those members:
-  (b) the number of members of the scheme who during the year have made a withdrawal on the grounds of significant financial hardship under clause 10 of the KiwiSaver scheme rules and the total amount withdrawn by all of those members:
-  (c) the number of members of the scheme who during the year have made a withdrawal on the grounds of serious illness under clause 12 of the KiwiSaver scheme rules and the total amount withdrawn by all those members:
-  (d) the number of members of the scheme who during the year have made a withdrawal on the grounds of permanent emigration under clause 14 of the KiwiSaver scheme rules and the total amount withdrawn by all of those members:
-  (e) the total amount of fees that have been charged in the period subsequent to the last annual report:
-  (f) the total amount of each type of contribution received by the provider for the year, and the number of members credited with each type:
-  (g) the total amount of members’ accumulations at the end of the year, and the number of members with accumulations:
-  (h) the total amounts of fee subsidies credited to members for the year, and the number of members credited.
-(6) The trustees must send to the Government Actuary a copy of the completed report within 28 days after its completion, and, if only abridged accounts are contained in the report, a copy of the annual accounts.
+(1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must, within 5 months after the end of each financial year, prepare a report on the scheme for that year.
+(2) In the case of a KiwiSaver scheme other than a restricted scheme, the manager must consult the trustee about the annual report.
+(3) The annual report must contain, or have attached to it, the prescribed information, statements, certificates, and documents.
+(4) The trustees or the manager (as the case may be) must, within 28 days after the annual report is completed, send to the FMA a copy of the completed report and, if not already contained in or attached to the report, a copy of the annual financial statements.
 
 ### 124 Annual report in case of KiwiSaver scheme established under umbrella trust
 (1) In a case in which a KiwiSaver scheme is established under an umbrella trust, the trustees may provide a combined report on the KiwiSaver scheme and the registered superannuation scheme concerned, for the purposes of—
@@ -1401,20 +1611,21 @@ In this Part, unless the context otherwise requires, any term or expression that
 (3) Nothing in this section requires information that relates to both the KiwiSaver scheme and the registered superannuation scheme to be combined.
 
 ### 125 Requirement for annual return
-(1) The trustees of a KiwiSaver scheme must provide an annual return to the Government Actuary that—
+(1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must provide an annual return to the FMA that—
   (a) is in the prescribed form; and
   (b) meets any further prescribed requirements.
 (2) The prescribed requirements may include a requirement to provide statistical information in relation to the KiwiSaver scheme.
 (3) The annual return must be provided before the prescribed date and relate to the prescribed 12-month period.
-(4) Nothing in this section requires the trustees of a KiwiSaver scheme to provide—
+(4) Nothing in this section requires the trustees or the manager (as the case may be) to provide—
   (a) information about an identifiable individual; or
-  (b) information that is not in the possession or control of the trustees; or
-  (c) information that is not reasonably ascertainable from information that is in the possession or control of the trustees.
+  (b) information that is not in the possession or control of the trustees or the manager (as the case may be); or
+  (c) information that is not reasonably ascertainable from information that is in the possession or control of the trustees or the manager (as the case may be).
 
 ### 125A Requirement for annual personalised statement of contributions and accumulations for members
-The trustee of a KiwiSaver scheme or a complying superannuation fund must provide annually to each person who is a member of the provider’s scheme or fund during the relevant year a statement showing the following for that person:
-  (a) the amount of each type of contribution received by the provider for the year; and
-  (b) the member’s accumulation at the end of the year.
+The trustees (in the case of a complying superannuation fund or a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must provide annually to each person who is a member of that fund or scheme during the relevant year a statement showing the following for that person:
+  (a) the amount of each type of contribution received by the provider of the fund or scheme (as the case may be) for the year; and
+  (b) the member's accumulation at the end of the year; and
+  (c) any other prescribed information.
 
 **Other implied provisions**
 
@@ -1423,22 +1634,20 @@ The trustee of a KiwiSaver scheme or a complying superannuation fund must provid
 (2) The KiwiSaver scheme rules set out in Schedule 1 are implied in every trust deed that establishes a KiwiSaver scheme in relation to the KiwiSaver scheme.
 (3) The KiwiSaver scheme rules—
   (a) apply despite anything to the contrary in the trust deed; and
-  (b) are enforceable by the trustees or any member of the scheme.
-(4) The provisions implied as KiwiSaver scheme rules under this section are in addition to the provisions implied in the trust deed of a KiwiSaver scheme by sections 8 to 10 of the Superannuation Schemes Act 1989 (as applied by section 120).
-(5) Nothing in sections 8 to 10 of the Superannuation Schemes Act 1989 overrides the KiwiSaver scheme rules.
+  (b) are enforceable by the trustees, the manager, or any member of the scheme.
+(4)
+(5)
 
-### 127 Exercise of functions by Government Actuary relating to clause 2 of KiwiSaver scheme rules
-(1) In exercising any function under this Act that requires the Government Actuary to consider whether a KiwiSaver scheme complies with clause 2 of the KiwiSaver scheme rules (which relates to a requirement that fees not be unreasonable), the Government Actuary—
+### 127 Exercise of functions by FMA relating to clause 2 of KiwiSaver scheme rules
+(1) In exercising any function under this Act that requires the FMA to consider whether a KiwiSaver scheme complies with clause 2 of the KiwiSaver scheme rules (which relates to a requirement that fees not be unreasonable), the FMA—
   (a) must have regard to any prescribed matter:
-  (b) may have regard to any other matter that the Government Actuary considers relevant:
+  (b) may have regard to any other matter that the FMA considers relevant:
   (c) may make decisions in accordance with any prescribed process.
-(2) The Government Actuary may publish, in any form that the Government Actuary considers fit, guidance as to matters that the Government Actuary considers relevant to considering whether a KiwiSaver scheme complies with clause 2 of the KiwiSaver scheme rules (including principles that the Government Actuary may use to make that assessment).
-(3) The Government Actuary is not limited to considering matters published by the Government Actuary under subsection (2).
+(2) The FMA may publish, in any form that the FMA considers fit, guidance as to matters that the FMA considers relevant to considering whether a KiwiSaver scheme complies with clause 2 of the KiwiSaver scheme rules (including principles that the FMA may use to make that assessment).
+(3) The FMA is not limited to considering matters published by the FMA under subsection (2).
 
 ### 128 Participation agreements executed before registration
-(1) In the case of a KiwiSaver scheme registered under section 141, a participation agreement relating to a member of the scheme that was executed before the registration of the KiwiSaver scheme, and that is still in force immediately before the scheme is registered, must be treated as forming part of the trust deed at the time of the registration of the KiwiSaver scheme.
-(2) In the case of a KiwiSaver scheme registered under section 150, a participation agreement relating to a member of the scheme that was executed before the registration of the KiwiSaver scheme, and that is still in force immediately before the scheme is registered, must be treated as forming part of the trust deed at the time of the partial or full transfer of the member’s interest under section 155.
-(3) Subsections (1) and (2) apply despite anything to the contrary in the trust deed or in any other enactment or rule of law or agreement, or any defect in the form or mode of execution of the participation agreement.
+[Repealed]
 
 ### 128A Terms relating to members’ tax credits implied into trust deed
 (1) Terms necessary for giving effect to the law relating to the tax credits described in section MK 1 of the Income Tax Act 2007 are implied into a trust deed that establishes—
@@ -1446,19 +1655,19 @@ The trustee of a KiwiSaver scheme or a complying superannuation fund must provid
   (b) a complying superannuation fund in relation to the complying superannuation fund.
 (2) The terms—
   (a) apply despite anything to the contrary in a trust deed of a scheme or fund; and
-  (b) are enforceable by a trustee, and by a member, of the scheme or fund.
+  (b) are enforceable by a trustee, a manager, or a member of the scheme or fund.
 
 ### 128B Terms relating to back-dated validation implied into trust deed
 (1) Terms necessary for giving effect to the law relating to back-dated validation of invalid membership under subpart 4 of Part 2 are implied into a trust deed that establishes a KiwiSaver scheme in relation to the KiwiSaver scheme.
 (2) The terms—
   (a) apply despite anything to the contrary in a trust deed of a scheme; and
-  (b) are enforceable by a trustee, and by a member, of the scheme.
+  (b) are enforceable by a trustee, a manager, or a member of the scheme.
 
 ### 128C Terms relating to lump sum payments by complying superannuation funds
 (1) Terms necessary for giving effect to clause 2(c) in schedule 28 of the Income Tax Act 2007 are implied into a trust deed that establishes a complying superannuation fund in relation to the complying superannuation fund.
 (2) The terms—
   (a) apply despite anything to the contrary in a trust deed of a fund; and
-  (b) are enforceable by a trustee, and by a member, of the fund.
+  (b) are enforceable by a trustee, a manager, or a member of the fund.
 
 ### 128D Terms relating to compulsory employer contributions implied into trust deed
 (1) Terms necessary for giving effect to the law relating to compulsory employer contributions are implied into a trust deed that establishes—
@@ -1466,21 +1675,40 @@ The trustee of a KiwiSaver scheme or a complying superannuation fund must provid
   (b) a complying superannuation fund in relation to the complying superannuation fund.
 (2) The terms—
   (a) apply despite anything to the contrary in a trust deed of a scheme or fund; and
-  (b) are enforceable by a trustee, and by a member, of the scheme or fund.
+  (b) are enforceable by a trustee, a manager, or a member of the scheme or fund.
+
+### 128E Provisions implied in trust deeds by regulations
+A provision implied in a trust deed by regulations made under section 228(1)(bb)—
+  (a) does not apply to the extent that it is inconsistent with provisions implied in the trust deed by this Act; but
+  (b) applies despite anything else to the contrary in the trust deed; and
+  (c) is enforceable by the trustees, the manager, or any member of the scheme, unless the regulations provide otherwise.
 
 **Amending trust deed in relation to KiwiSaver scheme**
 
 ### 129 Amendment of trust deed or participation agreement governing KiwiSaver scheme
-(1) This section applies if the trustees of a KiwiSaver scheme propose to make any amendment to the trust deed of the scheme, or to a participation agreement related to the trust deed, that will or may affect the members of the scheme in their capacity as members of that scheme or the trustees of the scheme in their capacity as trustees of the scheme.
-(2) The trustees or the trustees’ solicitor must, before any amendment of the type referred to in subsection (1) is made, give a certificate that the trust deed, when amended as proposed,—
-  (a) will comply with section 7 of the Superannuation Schemes Act 1989 (as applied by section 119); and
-  (b) will not contain any provision that is contrary to those implied by sections 8 to 10 of the Superannuation Schemes Act 1989 (as applied by sections 120 and 121); and
-  (c) will not contain any provision that is contrary to the KiwiSaver scheme rules.
-(3) Within 14 days after any amendment to the trust deed is made, the trustees must lodge a copy of that certificate and a copy of the amendment with the Government Actuary.
+(1) This section applies if the trustees (in the case of a restricted KiwiSaver scheme) or the trustee or the manager (in the case of any other KiwiSaver scheme) propose to amend the trust deed of the scheme in a way that will or may affect—
+  (a) the members of the scheme in their capacity as members of the scheme; or
+  (b) the trustees of the scheme in their capacity as trustees of the scheme; or
+  (c) the manager of the scheme in its capacity as manager of the scheme.
+(2) Before an amendment of the type referred to in subsection (1) is made, the trustees of the scheme, or the trustees' solicitor, must give a certificate that the trust deed, when amended as proposed,—
+  (a) will comply with section 119; and
+  (b) will not contain a provision that is contrary to those implied in a trust deed by or under this Act (including the KiwiSaver scheme rules).
+(3) Within 14 days after any amendment to the trust deed is made, the trustees must ensure that a copy of that certificate and a copy of the amendment are lodged with the FMA.
 (4)
 
+### 129A Implied provision as to alterations to scheme
+(1) There is implied in the trust deed of a KiwiSaver scheme a provision that an alteration described in subsection (2) must be effected by way of amendment to the trust deed in accordance with section 129(2) and (3).
+(2) Subsection (1) applies to an alteration to the scheme that—
+  (a) would be contrary to or have the effect of nullifying, reversing, or amending a matter stated in the trust deed or a provision implied in the trust deed by or under this Act; or
+  (b) would have the effect of extending, varying, or limiting the scope of the trust deed in a material particular.
+
+**Reversion of scheme assets to employer**
+
+### 129B Implied provision as to reversion of scheme assets to employer
+There is implied in the trust deed of a KiwiSaver scheme that provides for the reversion of any assets of the scheme to an employer, a provision that no part of the assets may revert to an employer without the prior written consent of the FMA.
+
 ### 130 Consent to reversion of assets to employer
-Where section 10 of the Superannuation Schemes Act 1989 (as applied by section 120) applies, the Government Actuary must not give consent to the reversion of any assets of a KiwiSaver scheme to any employer unless satisfied—
+Where section 129B applies, the FMA must not give consent to the reversion of any assets of a KiwiSaver scheme to any employer unless satisfied—
   (a) that sufficient assets would remain to support the member’s interests of all of the members; and
   (b) that the reversion is fair and equitable to the members, taking into account the manner in which the scheme acquired those assets.
 
@@ -1489,232 +1717,93 @@ Where section 10 of the Superannuation Schemes Act 1989 (as applied by section 1
 **Application to register new scheme as KiwiSaver scheme**
 
 ### 131 Applications for registration of scheme governed by trust deed
-(1) The trustees of a scheme established under a trust deed may apply to the Government Actuary for registration of the scheme under this Act if it is eligible to be a KiwiSaver scheme under section 116.
-(2) In any case in which the scheme that is proposed to be registered as a KiwiSaver scheme is a registered superannuation scheme,—
-  (a) this section and sections 132 to 134 do not apply; and
-  (b) the application must be in the form of a proposal under section 135.
-(3) In any case in which the scheme that is proposed to be registered as a KiwiSaver scheme is established under a trust deed under which a registered superannuation scheme is also established,—
-  (a) this section and sections 132 to 134 do not apply; and
-  (b) the application must be in the form of a proposal under section 148.
+(1) The trustees of a scheme established under a trust deed may apply to the FMA for registration of the scheme under this Act if it is eligible to be a KiwiSaver scheme under section 116.
+(2)
+(3)
 (4) Every application under this section must include a copy of the trust deed and of every amendment to the trust deed.
 
 ### 132 Application for registration of scheme constituted under Act of Parliament
-(1) The person appointed to administer any superannuation scheme that is constituted under an Act of the Parliament of New Zealand may apply to the Government Actuary for registration of the scheme under this Act.
-(2) Every such application must be accompanied by any documents governing the scheme (other than the Act of Parliament).
+[Repealed]
 
 ### 133 Matters required to be specified in application
-Every application for registration under section 131 or 132 must specify the matters set out in Part 1 of Schedule 2.
+Every application for registration under section 131 must specify the matters set out in Part 1 of Schedule 2.
 
 ### 134 Registration of scheme
-(1) The Government Actuary must within 28 days after receiving the application for registration under section 131 or 132 and the documents required to accompany the application, or within a longer period of time agreed on by the Government Actuary and the trustees,—
-  (a) consider whether he or she is satisfied—
+(1) The FMA must within 28 days after receiving the application for registration under section 131 and the documents required to accompany the application, or within a longer period of time agreed on by the FMA and the trustees,—
+  (a) consider whether the FMA is satisfied—
     (i) that the application is made in accordance with this Act; and
     (ii) that the scheme is eligible to be a KiwiSaver scheme under section 116; and
     (iii) of the matters required to be certified under Part 1 of Schedule 2; and
     (iv) that fees charged in accordance with any information provided in the application will comply with clause 2 of the KiwiSaver scheme rules; and
   (b) if so satisfied, register the scheme as a KiwiSaver scheme.
-(2) The registration of a KiwiSaver scheme under this section must be treated as having taken effect on the date on which the Government Actuary enters the scheme as a KiwiSaver scheme in the KiwiSaver schemes register.
+(2) The registration of a KiwiSaver scheme under this section must be treated as having taken effect on the date on which the FMA enters the scheme as a KiwiSaver scheme in the KiwiSaver schemes register.
 
 **Conversion of registered superannuation scheme**
 
 ### 135 Trustees may submit proposal to convert superannuation scheme
-(1) The trustees of a registered superannuation scheme may submit to the Government Actuary a proposal to convert the scheme to a KiwiSaver scheme.
-(2) The proposed KiwiSaver scheme must be eligible to be a KiwiSaver scheme under section 116.
-(3) The proposal may propose amendments to any of the provisions of the trust deed that establishes the registered superannuation scheme (including repeals and additions to those provisions) that are necessary or desirable to—
-  (a) implement the proposal in accordance with this Act and the Superannuation Schemes Act 1989; and
-  (b) ensure that the scheme complies with subsection (2).
+[Repealed]
 
 ### 136 Form of proposal
-A proposal that is submitted to the Government Actuary under section 135 must—
-  (a) include—
-    (i) a copy of the proposed amendments to the trust deed; and
-    (ii) a copy of each participation agreement related to the scheme; and
-    (iii) a copy of the trust deed and every amendment to the trust deed; and
-    (iv) a copy of the explanatory material that will be notified to members in accordance with section 140(1); and
-  (b) contain the matters specified in Part 2 of Schedule 2.
+[Repealed]
 
-### 137 Government Actuary must provisionally register scheme as KiwiSaver scheme if satisfied of certain matters
-(1) The Government Actuary must, within 28 days of receiving a proposal under section 135, or within a longer period of time agreed on by the Government Actuary and the trustees,—
-  (a) consider whether he or she is satisfied—
-    (i) that the proposal is made in accordance with this Act; and
-    (ii) that the scheme is or will be eligible to be a KiwiSaver scheme under section 116; and
-    (iii) of the matters required to be certified under Part 2 of Schedule 2; and
-    (iv) that fees charged in accordance with any information provided in the proposal will comply with clause 2 of the KiwiSaver scheme rules; and
-  (b) if so satisfied,—
-    (i) provisionally register the registered superannuation scheme as a KiwiSaver scheme by recording the provisional registration in the KiwiSaver schemes register; and
-    (ii) give notice to the trustees of the scheme of the provisional registration.
-(2) Provisional registration as a KiwiSaver scheme does not affect the status of the scheme as a registered superannuation scheme or have the effect that the scheme is a KiwiSaver scheme.
+### 137 FMA must provisionally register scheme as KiwiSaver scheme if satisfied of certain matters
+[Repealed]
 
 ### 138 Trustees must provide evidence of consents, and information, to Commissioner
-(1) The Government Actuary must not, in relation to a scheme that has been provisionally registered under section 137, proceed to final registration of the scheme as a KiwiSaver scheme unless the trustees have provided, to the satisfaction of the Government Actuary, evidence that they have—
-  (a) obtained the consent of the persons referred to in subsection (3) in accordance with section 140; and
-  (b) provided the information listed in subsection (4) in respect of each member of the scheme to the Commissioner.
-(2) A member who gives consent for the purpose of subsection (1)(a) must provide the information set out in subsection (4) to the trustees.
-(3) For the purposes of subsection (1)(a), the persons from whom consent must be obtained are—
-  (a) every member of the registered superannuation scheme; and
-  (b) every person who is an employer contributor in relation to that scheme.
-(4) For the purposes of subsection (1)(b) and subsection (2), the information that must be provided in respect of a member (A) is—
-  (a) A’s name, address, and date of birth; and
-  (b) A’s tax file number; and
-  (c) if A is an employee,—
-    (i) the name and address of each of A’s employers; and
-    (ii) the rate at which A intends each of those employers to make deductions of contributions from his or her salary or wages; and
-  (d) the name and address and tax file number of both the provider and the scheme; and
-  (e) any other information that the Commissioner requires.
+[Repealed]
 
 ### 139 Exceptions to requirements under section 138
-(1) Despite section 138, the Government Actuary may exempt the trustees of a registered superannuation scheme from the requirement to obtain the written consent in accordance with section 140 and proceed to final registration if the Government Actuary is satisfied that—
-  (a) the terms and conditions of the trust deed of the registered superannuation scheme as proposed to be amended in accordance with sections 135 and 136 are no less favourable to members than the terms and conditions of the trust deed of the scheme immediately before the proposal to the Government Actuary is made; and
-  (b) the exemption is otherwise reasonable in all the circumstances; and
-  (c) the procedure in section 9BAB of the Superannuation Schemes Act 1989 has been followed, as if—
-    (i) an application for an exemption under this section were an application for approval of a transfer under that section; and
-    (ii) the notice given under that section included the advice referred to in section 140(1)(a)(i).
-(2) The Government Actuary may decline to give the exemption if the Government Actuary considers that to do so would adversely affect the interests of all or any of the members and beneficiaries of the scheme in any material way.
-(3) The trustees of a registered superannuation scheme are not required to provide any or all of the information listed in subsection 138(4) in respect of any or all of the members of the scheme to the Commissioner if the information is not in the control or possession of the trustees.
-(4) In determining whether subsection (1) or (2) applies, the Government Actuary may—
-  (a) have regard to the likely effect of the proposed scheme (including the effect of any amendments proposed in accordance with sections 135 and 136) on benefits to members as a whole; and
-  (b) have regard to any other relevant matter.
-(5) The Government Actuary may publish, in any form that the Government Actuary considers fit, guidance about matters that the Government Actuary considers relevant to considering whether subsection (1) applies (including principles that the Government Actuary may use to make that assessment).
+[Repealed]
 
-### 140 Process for obtaining consents and evidence to be provided to Government Actuary
-(1) For the purposes of section 138(1) and (2), the trustees of a registered superannuation scheme must obtain the necessary consents by—
-  (a) giving notice to every member of the registered superannuation scheme and every person who is an employer contributor in relation to that scheme of—
-    (i) the implications of the proposal for members and employer contributors; and
-    (ii) the date on which the proposed conversion is intended to occur; and
-    (iii) the fact that the Government Actuary has provisionally approved the scheme for registration as a KiwiSaver scheme subject to the consent of all members of the registered superannuation scheme and all persons who are employer contributors in relation to that scheme; and
-    (iv) the date by which the written consent must be received by the trustees in order to proceed with registration on the provisional date; and
-  (b) providing to those persons with that notice a copy of the certificates required under Part 2 of Schedule 2 that were provided to the Government Actuary on making the proposal.
-(2) The date by which written consent must be received from each member and employer contributor must be no earlier than 28 days after the date on which notice is given under this section.
-(3) For the purposes of section 138, the trustees must provide evidence to the satisfaction of the Government Actuary in the form required by the Government Actuary that the necessary consents have been obtained in accordance with subsections (1) and (2).
-(4) If the trustees do not provide evidence to the Government Actuary in accordance with subsection (3), subject to any exception from those requirements under section 139, the Government Actuary may—
-  (a) cancel the provisional registration of the scheme as a KiwiSaver scheme; and
-  (b) remove the record of provisional registration in the KiwiSaver schemes register.
+### 140 Process for obtaining consents and evidence to be provided to FMA
+[Repealed]
 
-### 141 Government Actuary must register scheme as KiwiSaver scheme if certain conditions met
-(1) This section applies if the trustees provide to the Government Actuary—
-  (a) evidence that they have complied with sections 138 and 140, subject to any applicable exception under section 139; and
-  (b) a copy of the proposed amendments referred to in section 136(a)(i) with the proposal in executed form.
-(2) If this section applies, the Government Actuary must, within 28 days after the provision of the things referred to in subsection (1), or within a longer period of time agreed on by the Government Actuary and the trustees,—
-  (a) consider whether he or she is satisfied that—
-    (i) the trust deed has not been amended since the time of making the proposal; and
-    (ii) there is no material change in facts or circumstances since the time the scheme was provisionally registered as a KiwiSaver scheme that would, had those facts or circumstances applied and been known to the Government Actuary at that time, have resulted in the Government Actuary failing to be satisfied of the matters set out in section 137(1)(a); and
-  (b) if so satisfied,—
-    (i) remove the record of provisional registration; and
-    (ii) register the registered superannuation scheme as a KiwiSaver scheme under this Act; and
-    (iii) remove the registered superannuation scheme from the register maintained under the Superannuation Schemes Act 1989.
+### 141 FMA must register scheme as KiwiSaver scheme if certain conditions met
+[Repealed]
 
 ### 142 Date of registration and conversion
-(1) The registration of a KiwiSaver scheme under section 141 must be treated as having taken effect on the later of—
-  (a) the date on which the Government Actuary enters the scheme as a KiwiSaver scheme in the KiwiSaver schemes register; or
-  (b) the date of commencement of the automatic enrolment rules.
-(2) A registered superannuation scheme that is subject to a proposal under section 135 is converted to a KiwiSaver scheme on the date registration of the scheme takes effect under this section.
+[Repealed]
 
 ### 143 Trust deed must be treated as having been amended in accordance with registration proposal
-(1) If the Government Actuary registers a KiwiSaver scheme under section 141, the trust deed of the scheme must be treated as having been amended in the form submitted in the proposal to the Government Actuary—
-  (a) as if those amendments were authorised to be made and were made in accordance with the provisions of the trust deed before the amendments were made; and
-  (b) despite any defect in the form or mode of execution of the amendments.
-(2) This section applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment or rule of law or agreement.
-(3) Nothing in this section applies to the terms of any agreement between an employer and a provider (for example, terms in a participation agreement) unless the employer agrees that this section will apply so as to amend the terms and conditions of that agreement.
+[Repealed]
 
 ### 144 Effect of conversion of registered superannuation scheme to KiwiSaver scheme
-(1) On the registration of a KiwiSaver scheme under section 141 taking effect,—
-  (a) the scheme ceases to be a superannuation scheme that is registered under the Superannuation Schemes Act 1989 and is instead a KiwiSaver scheme that is registered under this Act:
-  (b) despite its change in registration status,—
-    (i) no assets or liabilities are removed from the existing scheme; and
-    (ii) no new settlement occurs; and
-    (iii) the scheme must, subject to the provisions of this Act, be treated as the same scheme:
-  (c) the persons who were trustees immediately before the scheme’s registration as a KiwiSaver scheme continue in their capacity as trustees of the scheme:
-  (d) all persons who were members of the scheme immediately before the scheme’s registration as a KiwiSaver scheme continue to be members of the scheme subject to section 145(3):
-  (e) the nature of any contractual obligations between employer contributors and the provider of the scheme is governed by section 145.
-(2) Subsection (1)(a) is subject to sections 116 to 124.
-(3) Amendments to, and terms implied into, a trust deed that relate to registration of a KiwiSaver scheme under section 141 do not give rise to—
-  (a) a settlement under the definition of settlement in section YA 1 of the Income Tax Act 2007:
-  (b) a disposition of property under the definition of disposition of property in section 2 of the Estate and Gift Duties Act 1968.
+[Repealed]
 
 ### 145 Status of contracts and other instruments
-(1) This section applies to contracts, agreements, guarantees, conveyances, deeds, leases, licences, and other instruments, undertakings, and notices (whether in writing or not), entered into by, made with, given to or by, or addressed to the trustees of the scheme (whether alone or with another person) before the registration of the scheme as a KiwiSaver scheme under section 141 and subsisting immediately before registration under section 141.
-(2) The instruments to which this section applies are, on and after the registration of the scheme as a KiwiSaver scheme, binding on, and enforceable by, against, or in favour of, the trustees of the scheme despite the change in the scheme’s registration status.
-(3) This section is subject to the provisions of this Act and the nature of the interest of members of the scheme is varied at the time of registration of the scheme as a KiwiSaver scheme in accordance with the provisions of this Act and, in particular, the KiwiSaver scheme rules.
+[Repealed]
 
 ### 146 References to scheme in existing instruments
-A reference (express or implied) to the scheme or the trustees of the scheme in an instrument made, given, passed, or executed before the registration of the scheme as a KiwiSaver scheme under section 141 is a reference to the scheme or the trustees of the scheme on and after the registration of the scheme as a KiwiSaver scheme.
+[Repealed]
 
 ### 147 Continuation of legal and other proceedings
-(1) An action, arbitration, a proceeding, or cause of action that was pending or that existed by, against, or in favour of, the trustees of the scheme or to which the trustees were a party before the registration of the scheme as a KiwiSaver scheme under section 141 may, on and after the registration of the scheme as a KiwiSaver scheme, be continued and enforced by, against, or in favour of, the trustees on and after the registration of the scheme as a KiwiSaver scheme.
-(2) It is not necessary to amend an application, notice, or other document to do so.
+[Repealed]
 
 **Establishment of KiwiSaver scheme under umbrella trust that also governs registered superannuation scheme**
 
 ### 148 Trustees may submit proposal to establish KiwiSaver scheme under umbrella trust that also governs registered superannuation scheme
-(1) The trustees of a registered superannuation scheme may submit to the Government Actuary a proposal to establish a KiwiSaver scheme under an umbrella trust that governs by 1 trust deed and the same trustees, as separate schemes,—
-  (a) a superannuation scheme registered under the Superannuation Schemes Act 1989; and
-  (b) a KiwiSaver scheme registered under this Act.
-(2) The proposed KiwiSaver scheme must be eligible to be a KiwiSaver scheme under section 116.
-(3) The proposal may propose amendments to any of the provisions of the trust deed that establishes the registered superannuation scheme (including repeals and additions to those provisions) that are necessary or desirable to—
-  (a) enable the governance of the registered superannuation scheme and the KiwiSaver scheme as separate schemes; and
-  (b) implement the proposal in accordance with this Act and the Superannuation Schemes Act 1989; and
-  (c) ensure that the scheme complies with subsection (2).
+[Repealed]
 
 ### 149 Form of proposal
-A proposal that is submitted to the Government Actuary under section 148 must—
-  (a) include—
-    (i) a copy of the proposed amendments to the trust deed:
-    (ii) a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the KiwiSaver scheme:
-    (iii) a copy of the trust deed and every amendment to the trust deed; and
-  (b) contain the matters specified in Part 3 of Schedule 2.
+[Repealed]
 
-### 150 Government Actuary must register KiwiSaver scheme if satisfied of certain matters
-(1) The Government Actuary must, within 28 days of receiving a proposal under section 148, or within a longer period of time agreed on between the trustees and the Government Actuary, enter the proposed scheme as a KiwiSaver scheme in the KiwiSaver schemes register, if the Government Actuary is satisfied—
-  (a) that the proposal is made in accordance with this Act; and
-  (b) that the scheme is or will be eligible to be a KiwiSaver scheme under section 116 after section 152 has effect; and
-  (c) of the matters required to be certified under Part 3 of Schedule 2; and
-  (d) that fees charged in accordance with any information provided in the proposal will comply with clause 2 of the KiwiSaver scheme rules.
-(2) Registration of the scheme as a KiwiSaver scheme does not affect the status of the registered superannuation scheme.
+### 150 FMA must register KiwiSaver scheme if satisfied of certain matters
+[Repealed]
 
 ### 151 Date of registration
-The registration of a KiwiSaver scheme under section 150 must be treated as having taken effect on the date on which the Government Actuary enters the scheme as a KiwiSaver scheme in the KiwiSaver schemes register.
+[Repealed]
 
 ### 152 Trust deed must be treated as having been amended in accordance with registration proposal
-(1) If the Government Actuary registers a KiwiSaver scheme under section 150, the trust deed must be treated for all purposes as having been amended in the form submitted in the proposal to the Government Actuary—
-  (a) as if those amendments were authorised to be made and were made in accordance with the provisions of the trust deed before the amendments were made; and
-  (b) despite any defect in the form or mode of execution of the amendments.
-(2) This section applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment or rule of law or agreement.
-(3) Nothing in this section applies to a participation agreement that forms part of the trust deed.
+[Repealed]
 
 ### 153 Effect of registration of KiwiSaver scheme under section 150
-On the registration of a KiwiSaver scheme under section 150 taking effect,—
-  (a) there is an umbrella trust that governs by one trust deed and the same trustees, as separate schemes,—
-    (i) the superannuation scheme registered under the Superannuation Schemes Act 1989; and
-    (ii) the KiwiSaver scheme registered under this Act:
-  (b) no person who is a member of the registered superannuation scheme becomes a member of the KiwiSaver scheme:
-  (c) no assets or liabilities are removed from the registered superannuation scheme by reason only that the KiwiSaver scheme has been registered:
-  (d) the umbrella trust, the registered superannuation scheme, and the KiwiSaver scheme must be treated as the same person for the purposes of provisions of the Income Tax Act 2004, the Income Tax Act 2007, and the Tax Administration Act 1994, other than those related to portfolio investment entities.
+[Repealed]
 
 ### 154 Advice of right of election must be included in annual report provided under Superannuation Schemes Act 1989
-The trustees of a registered superannuation scheme and a KiwiSaver scheme that has been registered under section 150 must, when providing the first copy of the annual report to members of the registered superannuation scheme under section 17(1) of the Superannuation Schemes Act 1989 after the registration of the KiwiSaver scheme, include with that report notice to each member about his or her right of election under section 155.
+[Repealed]
 
 ### 155 Right of election of members of registered superannuation scheme
-(1) Registration of a KiwiSaver scheme under section 150 confers a right on any person who is a member of the registered superannuation scheme established under the umbrella trust to—
-  (a) elect, by notice in writing to the trustees within 28 days after the date the trustees give the notice referred to in section 154, or at any other time accepted by the trustees, to transfer a specified part of the member’s interest in the registered superannuation scheme to the KiwiSaver scheme (partial transfer); or
-  (b) elect, by notice in writing to the trustees within 28 days after the date on which the trustees give the notice referred to in section 154, or at any other time accepted by the trustees, to transfer all of the member’s interest in the registered superannuation scheme to the KiwiSaver scheme (full transfer); or
-  (c) elect, by failure to make an election in accordance with paragraph (a) or (b), not to transfer any of the member’s interest in the registered superannuation scheme to the KiwiSaver scheme.
-(2) A member of the registered superannuation scheme who makes an election under subsection (1)(a) or (b) must provide the information set out in subsection (10) to the trustees.
-(3) However, subsection (1) does not apply to a member of a registered superannuation scheme under a participation agreement entered into by that person’s employer unless the terms of the trust deed (including the participation agreement) enable the member to make an election under this section.
-(4) The trustees of the scheme must carry out any transfers in accordance with an election made in accordance with this section as soon as practicable after the automatic enrolment rules come into force (but not before).
-(5) However, the trustees of the scheme may transfer any part of the member’s interest that consists of unvested employer contributions only to the extent that the relevant employer consents to the transfer of that amount.
-(6) In the case in which a person has elected to make a partial transfer, a person continues to be a member of the registered superannuation scheme and also a member of the KiwiSaver scheme.
-(7) In the case in which a person has elected to make a full transfer, a person is no longer a member of the registered superannuation scheme but is a member of the KiwiSaver scheme.
-(8) In the case in which a person has not made an election, the person continues to be a member of the registered superannuation scheme but is not a member of the KiwiSaver scheme.
-(9) Nothing in this section prevents a person becoming a member of a KiwiSaver scheme at a subsequent time or prevents subsequent transfers of any or all of a member’s interest from the registered superannuation scheme to the KiwiSaver scheme.
-(10) If a member (A) makes a partial or full transfer, the trustees must provide to the Commissioner, in respect of A,—
-  (a) A’s name, address, and date of birth; and
-  (b) A’s tax file number; and
-  (c) the date of the transfer of the part or whole of the member’s interest to the KiwiSaver scheme; and
-  (d) if A is an employee,—
-    (i) the name and address of each of A’s employers; and
-    (ii) the rate at which A intends each of those employers to make deductions of contributions from his or her salary or wages; and
-  (e) the name and address and tax file number of both the provider and the scheme; and
-  (f) any other information that the Commissioner requires.
+[Repealed]
 
 ### Subpart 4 — KiwiSaver schemes register
 
@@ -1722,20 +1811,23 @@ The trustees of a registered superannuation scheme and a KiwiSaver scheme that h
 (1) A register called the KiwiSaver schemes register is established.
 (2) The register may be—
   (a) an electronic register; or
-  (b) kept in any other manner that the Government Actuary thinks fit.
+  (b) kept in any other manner that the FMA thinks fit.
 
 ### 157 Operation of register
 The register must be operated at all times unless—
-  (a) the Government Actuary suspends the operation of the register, in whole or in part, in accordance with section 162(1); or
+  (a) the FMA suspends the operation of the register, in whole or in part, in accordance with section 162(1); or
   (b) otherwise provided in regulations.
 
 ### 158 Purpose of register
 The purpose of the register is—
   (a) to enable a member of the public to—
     (i) determine whether a scheme is registered as a KiwiSaver scheme under this Act; and
+    (ia) determine whether a scheme is a restricted scheme; and
+    (ib) know how to contact the manager of a scheme other than a restricted scheme; and
     (ii) know how to contact the trustees of the scheme; and
     (iii) know whether a scheme is authorised to be a default KiwiSaver scheme; and
     (iv) know whether an employer is an exempt employer; and
+    (v) know how to access information about the manager or trustees that is contained in the register of financial service providers established and maintained under section 24 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (including details of the relevant dispute resolution scheme); and
   (ab) to enable a member of the public to—
     (i) determine whether a fund is approved as a complying superannuation fund under the Superannuation Schemes Act 1989; and
     (ii) know how to contact the trustees of the fund; and
@@ -1743,16 +1835,19 @@ The purpose of the register is—
     (i) in the exercise of the person’s powers under this Act or any other enactment; or
     (ii) in the performance of the person’s functions under this Act or any other enactment.
 
-### 159 Government Actuary is Registrar of register
-(1) The Government Actuary holds the office of Registrar of the register.
-(2) The Government Actuary must ensure that the register is compiled and maintained.
+### 159 FMA is Registrar of register
+(1) The FMA holds the office of Registrar of the register.
+(2) The FMA must ensure that the register is compiled and maintained.
 
 ### 160 Contents of register in relation to KiwiSaver schemes
 The register must contain the following information and documents for each KiwiSaver scheme:
   (a) the name of the scheme; and
   (b) whether it is a default KiwiSaver scheme; and
+  (ba) whether it is a restricted scheme; and
   (c) the commencement date of the scheme as a KiwiSaver scheme; and
   (d) the names of the trustees of the scheme and an address for service for the trustees; and
+  (da) in the case of a KiwiSaver scheme other than a restricted scheme, the name of the manager of the scheme and an address for service for the manager; and
+  (db) the unique identifiers issued to the trustees and the manager by the Registrar of Financial Service Providers and contained in the register of financial service providers established and maintained under section 24 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
   (e) the date upon which the financial year of the scheme ends; and
   (f) each notice of change sent or delivered under section 164.
 
@@ -1768,22 +1863,22 @@ The register must contain the following information and documents for each KiwiS
 (2B) The information contained on the register under this section must be kept in separate subparts of the register.
 (3) This section is subject to section 162.
 
-### 162 Government Actuary may refuse access to or suspend operation of register, or omit or remove, or restrict public access to, information and documents in register
-(1) The Government Actuary may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Government Actuary considers that it is not practical to provide access to the register.
-(2) The Government Actuary may omit or remove from the register any of the information or documents that relate to a KiwiSaver scheme or complying superannuation fund if—
+### 162 FMA may refuse access to or suspend operation of register, or omit or remove, or restrict public access to, information and documents in register
+(1) The FMA may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the FMA considers that it is not practical to provide access to the register.
+(2) The FMA may omit or remove from the register any of the information or documents that relate to a KiwiSaver scheme or complying superannuation fund if—
   (a) the scheme or fund is removed from the register; or
-  (b) the Government Actuary considers, in the public interest, that the information or documents should not form part of the register.
+  (b) the FMA considers, in the public interest, that the information or documents should not form part of the register.
 (3) This section does not limit the Official Information Act 1982 or the Privacy Act 1993.
 
 ### 163 Amendments to register
-The Government Actuary may, at any time, make any amendments to the register that are necessary—
+The FMA may, at any time, make any amendments to the register that are necessary—
   (a) to keep the register accurate and up-to-date; or
   (b)
   (c) for the purposes of section 162; or
   (d) to comply with any order or decision made under section 186(8).
 
-### 164 Duty to notify changes to Government Actuary
-(1) The trustees of a KiwiSaver scheme must ensure that they give notice to the Government Actuary of any changes to—
+### 164 Duty to notify changes to FMA
+(1) The trustees of a restricted KiwiSaver scheme and the manager of any other KiwiSaver scheme must ensure that they give notice to the FMA of any changes to—
   (a) any of the information referred to in section 160(a) to (e); or
   (b) any information required to be contained in the register under section 161.
 (2) This section does not apply if the change has been notified in an annual report sent or delivered under section 123 before the notice is required to be given under section 165(d).
@@ -1793,7 +1888,7 @@ A notice under section 164 must—
   (a) be in the prescribed form (if any); and
   (b) contain, or be accompanied by, any other prescribed information or documentation; and
   (c) specify the effective date of the change; and
-  (d) be given to the Government Actuary within 3 months of the later of—
+  (d) be given to the FMA within 3 months of the later of—
     (i) the effective date of the change; or
     (ii) the trustees of the KiwiSaver scheme first becoming aware of the change.
 
@@ -1811,43 +1906,52 @@ In this subpart, winding up, in relation to a KiwiSaver scheme that is establish
   (b) does not relate to the registered superannuation scheme.
 
 ### 168 Cancellation of registration and order to wind up KiwiSaver scheme
-The Government Actuary may cancel the registration of a KiwiSaver scheme and order its winding up—
-  (a) upon giving 28 days’ notice to the trustees, if satisfied on reasonable grounds that a KiwiSaver scheme is no longer eligible to be a KiwiSaver scheme under section 116; or
-  (b) upon giving 28 days’ notice to the trustees, if the Government Actuary has reasonable cause to believe that any KiwiSaver scheme has no members; or
+The FMA may cancel the registration of a KiwiSaver scheme and order its winding up—
+  (a) upon giving 28 days’ notice to the trustee, if satisfied on reasonable grounds that a KiwiSaver scheme other than a restricted scheme is no longer eligible to be a KiwiSaver scheme under section 116; or
+  (ab) on giving 28 days' notice to the trustees, if satisfied on reasonable grounds that a restricted scheme no longer meets the requirements set out in section 116A(1)(a) to (c); or
+  (b) upon giving 28 days’ notice to the trustees, if the FMA has reasonable cause to believe that any KiwiSaver scheme has no members; or
   (c) upon receipt of an application by the trustees, if satisfied that the members of the scheme have been advised of the consequences of the scheme ceasing to be registered; or
   (d) in accordance with section 169.
 
-### 169 Powers of Government Actuary in event of scheme operating in contravention of this Act, etc
-(1) This section applies if, in respect of any KiwiSaver scheme, the Government Actuary has reasonable cause to believe that—
+### 168A Scheme may cease to be restricted scheme
+(1) The FMA may determine that a restricted KiwiSaver scheme should cease to be a restricted scheme—
+  (a) if it is satisfied that the scheme no longer meets the requirements set out in section 116A(1)(d) or (4); or
+  (b) at the request of the trustees of the scheme, if it is satisfied that the members of the scheme have been adequately advised of the consequences of the scheme ceasing to be a restricted scheme.
+(2) If the FMA makes a determination under subsection (1), the FMA must—
+  (a) notify the trustees of the determination; and
+  (b) amend the register so that the scheme is no longer identified as a restricted scheme.
+(3) However, the FMA must not amend the register earlier than 6 months after the date of the determination without the consent of the trustees.
+(4) The trustees must, as soon as practicable after being notified by the FMA under subsection (2)(a), notify the members of the scheme of the determination.
+
+### 169 Powers of FMA in event of scheme operating in contravention of this Act, etc
+(1) This section applies if, in respect of any KiwiSaver scheme, the FMA has reasonable cause to believe that—
   (a) the scheme is not operating in accordance with this Act or any regulations made under this Act, or meeting the requirements of this Act or regulations made under this Act; or
   (b) the financial position of the scheme or the security of benefits or the management of the scheme is inadequate; or
   (c) prescribed circumstances apply.
-(2) A failure to operate in accordance with this Act or meet the requirements of this Act referred to in subsection (1)(a) includes a failure to operate in accordance with any terms implied in the trust deed of the scheme, or to meet the requirements of any terms implied in the trust deed of the scheme, that are implied by section 120 or 126 and the KiwiSaver scheme rules.
+(2) A failure to operate in accordance with this Act or meet the requirements of this Act referred to in subsection (1)(a) includes a failure to operate in accordance with any terms implied in the trust deed of the scheme, or to meet the requirements of any terms implied in the trust deed of the scheme, that are implied by or under this Act, including the KiwiSaver scheme rules.
 (3)
-(4) If subsection (1) applies, the Government Actuary may do any or all of the following:
-  (a) direct the trustees to supply all members of the scheme with information specified by the Government Actuary:
-  (b) upon giving 28 days’ notice to the trustees, direct the trustees or the administration manager or the investment manager, as the case may be, to operate the scheme in a specified manner:
+(4) If subsection (1) applies, the FMA may do any or all of the following:
+  (a) direct the trustees of a restricted KiwiSaver scheme, or the trustee or manager of any other KiwiSaver scheme, to supply all members of the scheme with information specified by the FMA:
+  (b) upon giving 28 days’ notice to the trustees, direct the trustees, the manager, the administration manager, or the investment manager, as the case may be, to operate the scheme in a specified manner:
   (c) upon giving 28 days’ notice to the trustees, cancel the registration of the KiwiSaver scheme and order that it be wound up.
-(5) The Government Actuary must not give a direction under subsection (4)(b) if the operation of the scheme in accordance with the direction would be contrary to the provisions of the trust deed.
+(5) The FMA must not give a direction under subsection (4)(b) if the operation of the scheme in accordance with the direction would be contrary to the provisions of the trust deed.
 
-### 170 Government Actuary must remove scheme from register on cancellation of registration
-(1) On cancelling the registration of a KiwiSaver scheme, the Government Actuary must remove it from the KiwiSaver schemes register.
+### 170 FMA must remove scheme from register on cancellation of registration
+(1) On cancelling the registration of a KiwiSaver scheme, the FMA must remove it from the KiwiSaver schemes register.
 (2) The cancellation of registration must be treated as taking effect on the date on which the scheme is removed from the register.
-(3) The Government Actuary must give notice of the cancellation of registration, as soon as practicable after the registration of the scheme is cancelled, to—
+(3) The FMA must give notice of the cancellation of registration, as soon as practicable after the registration of the scheme is cancelled, to—
   (a) the trustees of the scheme; and
   (b) the Commissioner.
 
 ### 171 Implied terms continue to be implied on cancellation of registration
-If the registration of a KiwiSaver scheme is cancelled, the following provisions must continue to be implied in the trust deed of the scheme until the scheme is wound up:
-  (a) sections 8 to 10 of the Superannuation Schemes Act 1989 (as applied by section 120); and
-  (b) the KiwiSaver scheme rules.
+If the registration of a KiwiSaver scheme is cancelled, the KiwiSaver scheme rules and any other provisions implied in a trust deed by or under this Act must continue to be implied in the trust deed of the scheme until the scheme is wound up.
 
 ### 172 Receiver or liquidator to designate or appoint independent trustee if required
 (1) This section applies if a receiver has been appointed in respect of any property of an employer or if a liquidator has been appointed for the employer and either—
   (a) the receiver or liquidator is designated or appointed as a trustee of a relevant KiwiSaver scheme; or
   (b) before the appointment of the receiver or liquidator, the employer had the power to appoint a trustee of a relevant KiwiSaver scheme.
 (2) The receiver or liquidator must be satisfied that, at all times, at least 1 of the trustees of the relevant KiwiSaver scheme is an independent person and, if the receiver or liquidator is not so satisfied, designate or appoint an independent person as trustee of the scheme.
-(3) For the purposes of this section, a relevant KiwiSaver scheme is one in relation to which the employer is an employer contributor.
+(3) For the purposes of this section, a relevant KiwiSaver scheme is a restricted scheme in relation to which the employer is an employer contributor.
 (4) For the purposes of this section, an independent person is a person who—
   (a) has no interest in the assets of the employer or of the scheme, other than as a trustee of the scheme; and
   (b) is not associated with, or employed by, the employer, the receiver, or the liquidator.
@@ -1858,22 +1962,26 @@ If the registration of a KiwiSaver scheme is cancelled, the following provisions
 **Winding up**
 
 ### 173 Initial steps in winding up of KiwiSaver scheme
-(1) If a KiwiSaver scheme is to be wound up, the trustees must, within 14 days after a winding-up resolution or an order by the Government Actuary that the scheme be wound up is made,—
-  (a) lodge a copy of any order or resolution with the Government Actuary and the Commissioner; and
-  (b) give notice to the Commissioner of the name, tax file number, and address of each member of the KiwiSaver scheme.
+(1) If a KiwiSaver scheme is to be wound up, the trustees must, within 14 days after a winding-up resolution or an order by the FMA that the scheme be wound up is made,—
+  (a) lodge a copy of any order or resolution with the FMA and the Commissioner; and
+  (b) give notice to the Commissioner of the name, tax file number, and address of each member of the KiwiSaver scheme; and
+  (c) in the case of a KiwiSaver scheme other than a restricted scheme, notify the manager of the scheme of any order or resolution.
 (2) Sections 50 to 52 set out the effect of notice to the Commissioner in relation to members of the KiwiSaver scheme and subpart 3 of Part 2 relates to the transfer of members’ interests to another KiwiSaver scheme.
 
 ### 174 Winding up report
 The persons who were trustees of the relevant KiwiSaver scheme immediately before the scheme was wound up—
-  (a) must, within 4 months of the date on which the winding up takes effect, ensure that final accounts of the scheme, showing the financial position of the scheme as at the date on which the winding up takes effect, are prepared; and
-  (b) must, within 4 months of the date on which the winding up takes effect, ensure that those final accounts are audited; and
-  (c) must, within 28 days after the final accounts have been audited,—
-    (i) send a copy of those accounts to the Government Actuary and to every person who was a member of the scheme immediately before it was wound up; and
-    (ii) advise the Government Actuary and the members in writing as to the manner in which remaining assets (if any) of the scheme are to be distributed; and
-  (d) must inform the Government Actuary of the date on which the distribution of the assets is completed.
+  (a) must, within 4 months of the date on which the winding up takes effect, ensure that final financial statements of the scheme, showing the financial position of the scheme as at the date on which the winding up takes effect, are prepared; and
+  (b) must, within 4 months of the date on which the winding up takes effect, ensure that those final financial statements are audited; and
+  (c) must, within 28 days after the final financial statements have been audited, ensure that—
+    (i) a copy of those financial statements is sent to the FMA and to every person who was a member of the scheme immediately before it was wound up; and
+    (ii) the FMA and the members are advised in writing of the manner in which remaining assets (if any) of the scheme are to be distributed; and
+  (d) must inform the FMA of the date on which the distribution of the assets is completed.
+
+### 174A Registration deemed to be cancelled when assets distributed
+The registration of a KiwiSaver scheme that has been wound up is deemed to be cancelled as soon as the distribution of the assets is completed.
 
 ### 175 Time for doing certain things may be extended
-The Government Actuary may, by giving notice to the relevant person, extend the time period within which a person must comply with any of the requirements set out in sections 173 and 174.
+The FMA may, by giving notice to the relevant person, extend the time period within which a person must comply with any of the requirements set out in sections 173 and 174.
 
 ### 176 Member’s right to information
 (1) Each person who was a member of a KiwiSaver scheme immediately before its winding up continues to have the right, upon request,—
@@ -1884,15 +1992,17 @@ The Government Actuary may, by giving notice to the relevant person, extend the 
 ### Subpart 6 — Default KiwiSaver schemes
 
 ### 177 Appointment of default providers
-(1) The Minister may appoint 1 or more eligible KiwiSaver providers for a specified term to provide—
+(1) The Minister may appoint 1 or more managers for a specified term to provide—
   (a) a default KiwiSaver scheme that is specified in the instrument of appointment; and
   (b) a default investment product of that default KiwiSaver scheme that is specified in the instrument of appointment.
-(2) An eligible KiwiSaver provider is one that has at least 1 trustee of the scheme that is proposed to be provided under the instrument of appointment that is a trustee corporation.
+(2)
 (3) The appointment may be made subject to such terms and conditions as the Minister considers fit.
 (4) The instrument of appointment must—
   (a) identify the default KiwiSaver scheme and the default investment product of the scheme:
   (b) state any terms and conditions of the appointment:
   (c) state any prescribed information.
+(5) In determining whether to appoint a manager as a default KiwiSaver provider under this section, the Minister must seek the advice of the FMA.
+(6) A restricted scheme is not eligible to be a default KiwiSaver scheme.
 
 ### 178 Provisions of instrument of appointment to prevail over provisions of trust deed
 (1) The trustees of a default KiwiSaver scheme must amend the trust deed to ensure that its terms are consistent with the instrument of appointment.
@@ -1908,48 +2018,49 @@ If a person is appointed as a provider of a default KiwiSaver scheme under an in
   (a) the default KiwiSaver scheme must be shown as a default KiwiSaver scheme on the KiwiSaver schemes register for the purposes of section 160; and
   (b) the Commissioner may nominate the default investment product of the scheme as a default investment product to which persons may be allocated for the purposes of sections 50 to 52.
 
-### 180 Availability of instrument of appointment
-(1) The Minister must—
-  (a) make the instrument of appointment referred to in section 177 available for inspection, during working hours, free of charge at the head office of the department; and
-  (b) make copies of the instrument of appointment available for purchase at a reasonable price at the head office of the department; and
-  (c) make copies of the instrument of appointment available free of charge, at all reasonable times, on an Internet website maintained by, or on behalf of, the department; and
-  (d) give notice in the Gazette that—
-    (i) the instrument of appointment has been executed and the date on which the instrument of appointment was executed; and
-    (ii) the instrument of appointment is available for inspection during working hours, free of charge, and the place at which it can be inspected; and
-    (iii) copies of the instrument of appointment can be purchased and the place at which they can be purchased; and
-    (iv) the instrument of appointment is available on the Internet, free of charge, and the website address.
-(2) This section also applies to any variation or renewal or revocation of the instrument of appointment.
-
-### 181 Appointment must be notified to Government Actuary and Commissioner
+### 180 Appointment must be notified to FMA and Commissioner
 The Minister must, as soon as practicable after an appointment under section 177 has been made,—
-  (a) notify the Government Actuary and the Commissioner that the appointment has been made; and
-  (b) provide the Government Actuary and the Commissioner with a copy of the instrument of appointment.
+  (a) notify the FMA and the Commissioner that the appointment has been made; and
+  (b) provide the FMA and the Commissioner with a copy of the instrument of appointment.
+
+### 181 Availability of instrument of appointment
+(1) The FMA must—
+  (a) make copies of the instrument of appointment provided to it under section 180—
+    (i) available for inspection, during working hours, free of charge at its head office; and
+    (ii) available for purchase at a reasonable price at its head office; and
+  (b) publish the copy of that instrument of appointment on an Internet site maintained by or on behalf of the FMA; and
+  (c) give notice in the Gazette—
+    (i) that the instrument of appointment has been executed and of the date of execution; and
+    (ii) that the instrument of appointment is available for inspection during working hours, free of charge, and the place at which it can be inspected; and
+    (iii) that copies of the instrument of appointment can be purchased and the place at which they can be purchased; and
+    (iv) that the instrument of appointment is available on the Internet, free of charge, and the Internet site address.
+(2) This section also applies to any variation, renewal, or revocation of the instrument of appointment.
 
 ### 182 Minister not required to appoint maximum number of persons
 Nothing in section 177 or regulations made under section 228(h) requires the Minister to appoint the maximum number of persons prescribed by regulations made under section 228(h).
 
 ### 183 Power of High Court to act in respect of terms and conditions of appointment as default KiwiSaver scheme and regulations relating to default KiwiSaver schemes
-(1) This section applies if, on the application of the Crown, it appears to the High Court that a provider of a default KiwiSaver scheme appointed under section 177 intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute,—
+(1) This section applies if, on the application of the Crown, it appears to the High Court that the manager of a default KiwiSaver scheme appointed under section 177 intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute,—
   (a) a breach of the terms and conditions of the instrument of appointment referred to in section 177; or
   (b) a breach of regulations made under section 230.
 (2) If this section applies, the High Court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,—
-  (a) an order to—
-    (i) restrain the trustees of the default KiwiSaver scheme, or the provider of the scheme who has been appointed under section 177 (if different from the trustees), or both, from engaging in conduct that constitutes, or would constitute, the breach:
-    (ii) require the trustees of the default KiwiSaver scheme, or the provider of the scheme who has been appointed under section 177 (if different from the trustees), or both, to do a particular act or thing:
-    (iii) require the trustees of the default KiwiSaver scheme, or the provider of the scheme who has been appointed under section 177 (if different from the trustees), or both, to comply with the conditions of the instrument of appointment:
-  (b) an interim order.
+  (a) an order to restrain the trustee or the manager of the scheme, or both, from engaging in conduct that constitutes, or would constitute, the breach:
+  (b) an order to require the trustee or the manager of the scheme, or both,—
+    (i) to do a particular act or thing:
+    (ii) to comply with the conditions of the instrument of appointment:
+  (c) an interim order.
 (3) In any proceeding under this section, the Crown, on the order of the High Court, may obtain discovery and administer interrogatories.
 (4) The High Court may at any time rescind or vary an order made under this section.
 
 ### 184 Revocations, etc, of instruments of appointment
 (1) An instrument of appointment may provide for its renewal or variation or expiry or revocation by the Minister or the provider.
 (2) Despite any matter provided for in an instrument of appointment as to its expiry or revocation, the Minister may, by notice in writing to a provider, revoke an instrument of appointment if—
-  (a) the Government Actuary cancels the registration of the scheme as a KiwiSaver scheme under section 168 or 169; or
+  (a) the FMA cancels the registration of the scheme as a KiwiSaver scheme under section 168 or 169; or
   (b) the Minister is satisfied that—
     (i) the provider is not operating in accordance with the terms and conditions of the instrument of appointment; and
     (ii) the failure to operate in accordance with the terms and conditions of the instrument of appointment is a significant breach as prescribed in regulations made under section 230.
 (3) The appointment of the provider under section 177 ceases on revocation of the instrument of appointment.
-(4) The Minister must notify the Government Actuary and the Commissioner as soon as practicable after an instrument of appointment is revoked.
+(4) The Minister must notify the FMA and the Commissioner as soon as practicable after an instrument of appointment is revoked.
 
 ### 185 Duration of obligations as default provider after terminating event
 (1) In this section,—
@@ -1966,92 +2077,75 @@ Nothing in section 177 or regulations made under section 228(h) requires the Min
 
 ### Subpart 7 — Miscellaneous
 
-### 186 Objections and appeals against decisions of Government Actuary
-(1) Any person who is dissatisfied with an order or decision made by the Government Actuary in the exercise of the Government Actuary’s powers, functions, and discretions under this Act may object to that order or decision by notice to the Government Actuary.
-(2) Every objection under subsection (1) must be made within 28 days after notice of the order or decision is given, or within any extended time as the Government Actuary may allow on application made either before or after the 28-day period has elapsed.
-(3) The Government Actuary must, if the person objecting so requests, allow that person an opportunity of being heard by him or her within 28 days after receiving that request.
-(4) The Government Actuary must, within 28 days after receiving the objection or holding any hearing requested under subsection (3), give notice of his or her decision to the person who made the objection.
-(5) Any person whose objection is disallowed by the Government Actuary may appeal against that disallowance to the High Court, unless the objection related to a decision under section 101I.
-(6) Every appeal under subsection (5) must be made by notice of appeal, and must be lodged with the Registrar of the High Court in Wellington, together with a duplicate of that notice, within 28 days after the date on which the applicant was notified of the disallowance of the objection, or within any further time as the High Court may allow on application made either before or after the 28-day period has elapsed.
-(7) Every appeal under subsection (5) must be by way of rehearing of the matter in respect of which the Government Actuary made the decision.
-(8) In its determination of any appeal, the High Court may confirm, modify, or reverse the order or decision appealed against.
-(9) Subject to the provisions of this section, the procedure in respect of any appeal under subsection (5) must be in accordance with the rules of the High Court.
+### 186 Right of appeal against certain decisions of FMA
+(1) A person affected by a decision of the FMA under any of the following provisions may appeal against the decision to the High Court:
+  (a) section 30 (approval of employer as exempt employer):
+  (b) section 31 (revocation of exempt employer approval):
+  (c) section 134 (registration):
+  (d) section 168 (cancellation of registration and order to wind up):
+  (e) section 169 (powers of FMA if scheme operating in contravention of this Act).
+(2) A decision against which an appeal is lodged under this section continues in force unless the High Court orders otherwise.
 
 ### 187 Power of Government Actuary to delegate
-(1) The Government Actuary may delegate to any person (whether an employee of the State services or not), either generally or particularly, any of the Government Actuary’s functions, duties, and powers except the power of delegation.
-(2) A delegation—
-  (a) must be in writing; and
-  (b) may be made subject to any restrictions and conditions that the Government Actuary thinks fit; and
-  (c) is revocable at any time, in writing; and
-  (d) does not affect or prevent the performance or exercise of a function, duty, or power by the Government Actuary.
-(3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
-(4) A person who purports to perform or exercise a function, duty, or power under a delegation by the Government Actuary—
-  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
-  (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
+[Repealed]
 
-### 188 Government Actuary may carry out investigation as to whether KiwiSaver scheme is operating in accordance with Act
-(1) The Government Actuary may, on his or her own motion, or as a result of any information that comes into the possession of the Government Actuary, carry out an investigation as to whether a KiwiSaver scheme is operating in accordance with or meeting the requirements of this Act or regulations made under this Act.
-(2) The Government Actuary may, for the purposes of any such investigation, request the Commissioner to provide, as soon as reasonably practicable, any information, papers, documents, records, or things in respect of the scheme that are held by the Commissioner that, in the Government Actuary’s opinion, are necessary or desirable for the Government Actuary to carry out that investigation.
-(3) This section is subject to the provisions of the Tax Administration Act 1994.
+### 188 Sharing of information and documents with Commissioner for purpose of administering KiwiSaver schemes
+(1) The FMA may provide to the Commissioner any information, or a copy of any document, that the FMA—
+  (a) holds in relation to the performance or exercise of the FMA’s functions, powers, or duties under this Act or in connection with 1 or more KiwiSaver schemes under this Act or any other enactment; and
+  (b) considers may assist the Commissioner in the performance or exercise of the Commissioner's functions, powers, or duties under this Act or in connection with 1 or more KiwiSaver schemes under this Act or any other enactment.
+(2) The FMA may use any information, or a copy of any document, provided to it by the Commissioner under any enactment in the FMA’s performance or exercise of its functions, powers, or duties under this Act or in connection with 1 or more KiwiSaver schemes under this Act or any other enactment.
+(3) This section applies despite anything to the contrary in any contract, deed, or document.
 
-### 189 Power of Government Actuary to require information
-(1) This section applies in relation to a KiwiSaver scheme and a scheme that has ceased to be registered as a KiwiSaver scheme under this Act.
-(2) For the purpose of performing or exercising any of his or her functions, duties, or powers under this Act, the Government Actuary may require the trustees or administration manager of the scheme to supply specified information in respect of the scheme.
-(3) For the purpose of investigating whether a scheme is operating in accordance with or meeting the requirements of this Act, or regulations made under this Act, the Government Actuary may, in the circumstances set out in subsection (4), require any person, by notice in writing, to produce any papers, documents, records, or things in respect of the scheme.
-(4) The circumstances are—
-  (a) the Government Actuary believes, on reasonable grounds, that the exercise of the powers under subsection (3) is necessary to enable the Government Actuary to carry out his or her investigation; and
-  (b) the person to whom the notice under subsection (3) is given has failed to comply with a previous request to produce to the Government Actuary, within a reasonable time, the information, papers, documents, records, or things required by the notice; and
-  (c) the Government Actuary believes, on reasonable grounds, that—
-    (i) it is not reasonably practicable to obtain the information required by the Government Actuary from another source; or
-    (ii) for the purposes of the investigation, it is necessary to obtain the information, papers, documents, records, or things to verify or refute information obtained from another source.
-(5) Nothing in this section requires a person to—
-  (a) provide any information or produce any document that would be privileged in a court of law; or
-  (b) produce to the Government Actuary any information, papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
+### 189 Conditions that may be imposed on providing information, documents, or evidence to Commissioner
+(1) The FMA may impose any conditions in relation to providing information or documents to the Commissioner (whether in compliance with a request or otherwise).
+(2) The FMA must, in considering what conditions to impose, have regard to whether conditions are necessary or desirable in order to protect the privacy of any individual.
+(3) Those conditions may include, without limitation, conditions relating to—
+  (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the Privacy Act 1993):
+  (b) the storing of, use of, or access to anything provided:
+  (c) the copying, returning, or disposing of copies of documents provided.
 
-### 189B Duty to give notice to Government Actuary about fee increases
-Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a fee to which that clause applies must give notice of the increase to the Government Actuary as soon as reasonably practicable after the increase takes effect.
+### 189B Duty to give notice to FMA about fee increases
+Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a fee to which that clause applies must give notice of the increase to the FMA as soon as reasonably practicable after the increase takes effect.
 
 ### 189C Powers of High Court in relation to unreasonable fees
-(1) If the High Court is satisfied, on the application of a member or the Government Actuary, that any of the persons referred to in clause 2 of the KiwiSaver scheme rules have charged a fee that is unreasonable, it may order that the fee be annulled or reduced.
+(1) If the High Court is satisfied, on the application of a member or the FMA, that any of the persons referred to in clause 2 of the KiwiSaver scheme rules have charged a fee that is unreasonable, it may order that the fee be annulled or reduced.
 (2) The High Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (1).
 (3) An application for an order may be made within 1 year of the day that the fee is imposed or debited.
 (4) In determining whether a fee is unreasonable for the purposes of this section, the High Court—
   (a) must have regard to any prescribed matter; and
-  (b) may, to the extent it thinks fit, have regard to any guidelines published by the Government Actuary under section 127; and
+  (b) may, to the extent it thinks fit, have regard to any guidelines published by the FMA under section 127; and
   (c) may have regard to any other matter it thinks fit.
 
 ### 190 Secrecy
-The Government Actuary, or any person who has information, papers, documents, records, or things as a result of a delegation by the Government Actuary of any of his or her functions, duties, and powers under this Act, is not required to produce in any court or tribunal any information, paper, document, record, or thing, or to divulge or communicate to any court or tribunal any matter or thing coming under that person’s notice in the performance of that person’s duties, except when it is necessary to do so for the purposes of carrying into effect—
-  (a) any provision of this Act or any regulations made under this Act; or
-  (b) any provision of the Inland Revenue Acts or regulations made under the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994 ) that is relevant to carrying into effect the provisions of this Act.
+[Repealed]
 
-### 191 Duty of certain persons to disclose information to Government Actuary
+### 191 Duty of certain persons to disclose information to FMA
 (1) This section applies if a person who holds office as an administration manager, investment manager, or auditor of a KiwiSaver scheme forms an opinion in the course of, or in connection with, the performance of the functions of that office that there is a serious problem with the KiwiSaver scheme.
-(2) If this section applies, the person must disclose to the Government Actuary information that is specified by the Government Actuary relating to the affairs of the KiwiSaver scheme obtained in the course of holding that office.
+(2) If this section applies, the person must disclose to the FMA information that is specified by the FMA relating to the affairs of the KiwiSaver scheme obtained in the course of holding that office.
 (3) For the purposes of this section, a serious problem means—
   (a) the KiwiSaver scheme is not operating in accordance with this Act and any regulations made under this Act, or fails to meet any requirements of this Act or any regulations; or
   (b) the financial position of the KiwiSaver scheme or the security of benefits or the management of the KiwiSaver scheme is inadequate.
-(4) For the avoidance of doubt, this section does not require any person who holds office as an administration manager, investment manager, or auditor of a KiwiSaver scheme to carry out functions additional to those functions that he or she would ordinarily carry out in the course of holding that office, other than to disclose to the Government Actuary information relating to the affairs of the KiwiSaver scheme.
+(4) For the avoidance of doubt, this section does not require any person who holds office as an administration manager, investment manager, or auditor of a KiwiSaver scheme to carry out functions additional to those functions that he or she would ordinarily carry out in the course of holding that office, other than to disclose to the FMA information relating to the affairs of the KiwiSaver scheme.
 
 ### 192 Protection of administration managers, investment managers, and auditors
-(1) No civil, criminal, or disciplinary proceedings lie against any administration manager, investment manager, or auditor arising from the disclosure in good faith of information to the Government Actuary under section 191.
-(2) No person may remove from office, or terminate the contract of appointment of, any administration manager, investment manager, or auditor by reason of the disclosure in good faith of information to the Government Actuary under section 191.
+(1) No civil, criminal, or disciplinary proceedings lie against any administration manager, investment manager, or auditor arising from the disclosure in good faith of information to the FMA under section 191.
+(2) No person may remove from office, or terminate the contract of appointment of, any administration manager, investment manager, or auditor by reason of the disclosure in good faith of information to the FMA under section 191.
 (3) No tribunal, body, or authority having jurisdiction in respect of the professional conduct of any administration manager, investment manager, or auditor may make any order against, or do any act in relation to, that person in respect of the fact of that disclosure.
-(4) No information received by the Government Actuary under section 191 is admissible as evidence in any proceedings against the administration manager, investment manager, or auditor concerned.
+(4) No information received by the FMA under section 191 is admissible as evidence in any proceedings against the administration manager, investment manager, or auditor concerned.
 (5) Nothing in subsection (4) limits the admissibility of any information obtained in any other way.
 
 ### 193 Personal liability
-Neither the Government Actuary, nor any person acting as a delegate of the Government Actuary, is personally liable for any act done or omitted to be done by the Government Actuary or any such person in good faith in the exercise or intended exercise of the functions, duties, or powers of the Government Actuary under this Act.
+[Repealed]
 
-### 194 Annual report by Government Actuary
-(1) The Government Actuary must, within 3 months after the end of every financial year, report to the Minister on the principal matters transacted under this Act during that year.
+### 194 Annual report by FMA
+(1) The FMA must, within 3 months after the end of every financial year, report to the Minister on the principal matters transacted under this Act during that year.
 (2) Every report must be presented to the House of Representatives by the responsible Minister as soon as practicable after it has been received by that Minister.
 
 ### 195 Unclaimed money held by trustees of KiwiSaver scheme
 (1) Section 77 of the Trustee Act 1956 applies subject to this section in relation to a member’s interest in a KiwiSaver scheme held by, or in the control of, the trustees of that scheme.
 (2) Section 77 of the Trustee Act 1956 applies to the member’s interest only if, at the time that section is applied,—
   (a) the member of the scheme in respect of which the trust exists is able to be identified, according to the information held by or available to the trustees, as being at least 5 years older than the date on which a withdrawal is permitted under clause 4 of the KiwiSaver scheme rules; and
-  (b) the trustees have made reasonable efforts to locate the member but the member is unable to be found; and
+  (b) the trustees have ensured that reasonable efforts have been made to locate the member but the member is unable to be found; and
   (c) there has been no contribution made to the member’s account in the preceding 5 years, excluding any fee subsidy or Crown contribution.
 
 ### 196 Member’s interest in KiwiSaver scheme not assignable
@@ -2063,15 +2157,15 @@ Neither the Government Actuary, nor any person acting as a delegate of the Gover
   (a) to deliver any paper, document, record, report, copy, thing, or certificate; or
   (b) to allow a person to look at a paper, document, record, report, copy, or thing; or
   (c) to supply any return or to give any certificate or information.
-(2) For the purposes of sections 15A, 16, and 17 of the Superannuation Schemes Act 1989 , as applied by section 122 of this Act,—
-  (a) requests must be made to the trustees of the KiwiSaver scheme to which the request relates; and
-  (b) if a person has a right to look at a document, report, or copy, the trustees of the KiwiSaver scheme to which the document, report, or copy relates have a duty to ensure that the person is allowed to look at, at any reasonable time, that document, report, or copy; and
-  (c) if a person has a right to receive a document, statement, report, copy, certificate, or information, the trustees of the KiwiSaver scheme to which the document, statement, report, copy, certificate, or information relates have a duty to ensure that the document, statement, report, copy, certificate, or information is delivered or supplied to the person; and
+(2) For the purposes of sections 119K and 119L,—
+  (a) requests must be made to the trustees (in the case of a restricted scheme) or the manager (in the case of any other scheme) of the KiwiSaver scheme to which the request relates; and
+  (b) if a person has a right to look at a document, report, or copy, the trustees (in the case of a restricted scheme) or the manager (in the case of any other scheme) of the KiwiSaver scheme to which the document, report, or copy relates have a duty to ensure that the person is allowed to look at, at any reasonable time, that document, report, or copy; and
+  (c) if a person has a right to receive a document, statement, report, copy, certificate, or information, the trustees (in the case of a restricted scheme) or the manager (in the case of any other scheme) of the KiwiSaver scheme to which the document, statement, report, copy, certificate, or information relates have a duty to ensure that the document, statement, report, copy, certificate, or information is delivered or supplied to the person; and
   (d) if a person has a right to be advised of certain information, the trustees of the KiwiSaver scheme to which the information relates have a duty to ensure that the information is supplied to the person.
 
 ### 198 Other offences under this Part
 (1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding the amount set out in section 199, who knowingly or recklessly—
-  (a) fails to carry out any direction or order of the Government Actuary made under section 169(4)(a) or (b); or
+  (a) fails to carry out any direction or order of the FMA made under section 169(4)(a) or (b); or
   (b) fails to designate or appoint an independent trustee, if required to do so under section 172; or
   (c) as and when required by this Part or any regulations made under section 228, fails to deliver any paper, document, record, report, copy, thing, or certificate; or
   (d) as and when required by this Part or any regulations made under section 228, fails to allow a person to look at a paper, document, record, report, copy, or thing; or
@@ -2090,8 +2184,8 @@ Neither the Government Actuary, nor any person acting as a delegate of the Gover
   (b) on every other occasion the person is convicted for the same type of offence, to a fine not exceeding $50,000.
 (3) A person who is convicted of an offence under section 198(1)(f) or (g) is liable to a fine not exceeding $300,000.
 
-### 200 Government Actuary may decline to take action if fees not paid
-If any fee is payable in accordance with any regulations made under this Act, the Government Actuary may decline to take any action in respect of the matter for which the fee is payable, or decline to accept the document to which the fee relates, unless the fee, or an estimate of the fee, has been paid.
+### 200 FMA may decline to take action if fees not paid
+If any fee is payable in accordance with any regulations made under this Act, the FMA may decline to take any action in respect of the matter for which the fee is payable, or decline to accept the document to which the fee relates, unless the fee, or an estimate of the fee, has been paid.
 
 ### 201 Trustees not in breach of obligations, etc
 Nothing effected or authorised by the trustees of a registered superannuation scheme or KiwiSaver scheme in accordance with the requirements of this Act—
@@ -2108,9 +2202,9 @@ Nothing effected or authorised by the trustees of a registered superannuation sc
 ### 202 Application of section 13G of Trustee Act 1956 if power of investment exercised in relation to member allocated to scheme under sections 50 to 52
 (1) This section applies if—
   (a) a member has been allocated to a default KiwiSaver scheme under sections 50 to 52; and
-  (b) the trustees of the scheme purport to exercise a power of investment under the trust deed of that KiwiSaver scheme; and
+  (b) the trustee or the manager of the scheme purports to exercise a power of investment under the trust deed of that KiwiSaver scheme; and
   (c) the power of investment is exercised in accordance with the express terms relating to the default investment product specified in an instrument of appointment made under section 177.
-(2) If this section applies, the exercise of the power must be treated, for the purposes of section 13G of the Trustee Act 1956, as consistent with any requirements of the trust deed or statute that are binding on the trustees and that relate to the obtaining of consent or compliance with any direction with respect to the investment of trust funds.
+(2) If this section applies, the exercise of the power must be treated, for the purposes of section 13G of the Trustee Act 1956, as consistent with any requirements of the trust deed or statute that are binding on the trustee or the manager (as the case may be) and that relate to the obtaining of consent or compliance with any direction with respect to the investment of trust funds.
 
 ### 203 General application of Financial Transactions Reporting Act 1996
 (1) For the avoidance of doubt, an offer to become a member of a KiwiSaver scheme is, subject to section 204, a request to a financial institution for the person to become a facility holder within the meaning of the Financial Transactions Reporting Act 1996.
@@ -2183,11 +2277,11 @@ For the avoidance of doubt, the Crown or any other person does not perform a fin
 (1) This section applies if an interest in a KiwiSaver scheme is allotted in contravention of—
   (a) section 37 of the Securities Act 1978 (which relates to void irregular allotments of securities); or
   (b) section 37A of the Securities Act 1978 (which relates to voidable irregular allotments of securities); or
-  (c) section 38F(9)(b) of the Securities Act 1978 (which relates to the distribution of an investment statement); or
-  (d) section 44(6)(b) of the Securities Act 1978 (which relates to the cancellation of the registration of a registered prospectus).
+  (c) section 43D, 43F, 43G, 43I, or 43K of the Securities Act 1978 (which relate to various restrictions on the allotment of securities).
+  (d)
 (2) If this section applies,—
-  (a) any resulting duty of the trustees (as issuer) or any other person to repay subscriptions or any other amount under section 37(5), 37(6), 37A(6), 37A(7), 38F(9)(b), 38F(13), 44(6)(b), or 44(7) of the Securities Act 1978 does not apply; but
-  (b) the trustees must instead provide the Commissioner with a notice of—
+  (a) any resulting duty of the trustees (as issuer in respect of a restricted KiwiSaver scheme), the manager (as issuer in respect of any other KiwiSaver scheme), or any other person to repay subscriptions or any other amount under section 37(5), 37(6), 37A(6), 37A(7), 43F(2)(b), 43G(3)(b) or (4)(b) of the Securities Act 1978 does not apply; but
+  (b) the trustees or the manager (as the case may be) must instead provide the Commissioner with a notice of—
     (i) the application of the relevant section or sections of the Securities Act 1978 in respect of the allotment of securities to that member; and
     (ii) if all or part of the consideration for the allotment of securities to that member was the transfer of the member’s accumulation from another KiwiSaver scheme, the name of that scheme from which the member’s accumulation was transferred; and
     (iii) the name, address, and tax file number of the member.
@@ -2326,19 +2420,24 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (b) a gift for the purposes of the Estate and Gift Duties Act 1968.
 
 ### 228 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purpose of this Act, and prescribing—
     (i) specified information or documents to be included or attached to forms:
     (ii) forms to be signed by specified persons:
   (b) prescribing requirements with which documents that are sent, given, or delivered must comply (including documents sent, given, or delivered for registration) and prescribing information that must be included in any notice given under this Act that is in addition to the information specified in this Act:
-  (c) prescribing fees payable to the Commissioner or the Government Actuary in respect of any matter under this Act or the manner in which fees may be calculated:
+  (ba) prescribing the information and matters that must be included in the trust deed of a KiwiSaver scheme:
+  (bb) subject to subsection (2), prescribing provisions to be implied in the trust deed of a KiwiSaver scheme:
+  (c) prescribing fees payable to the Commissioner or the FMA in respect of any matter under this Act or the manner in which fees may be calculated:
   (d) prescribing procedures, requirements, and other matters for the KiwiSaver schemes register, including matters relating to—
     (i) the operation of that register:
     (ii) access to that register:
     (iii) the location of, and hours of access to, that register:
   (e) recognising specific foreign superannuation schemes or classes of specific foreign superannuation schemes that are based in named countries as schemes to which funds can be transferred on permanent emigration under the provision implied by clause 14 of the KiwiSaver scheme rules:
   (f) prescribing circumstances for the purposes of clause 8(3)(a) of the KiwiSaver scheme rules or prescribing who is a qualifying person for the purpose of clause 8(3)(c)(ii) of the KiwiSaver scheme rules:
+  (fa) prescribing information, statements, certificates, or documents that must, or must not, be contained in or attached to the annual report prepared under section 123:
   (g) prescribing requirements in relation to annual returns for the purposes of section 125, including the date by which the return must be provided and the 12-month period to which it must relate (by reference to annual dates):
+  (ga) prescribing information that must be included in annual personalised statements for members under section 125A:
+  (gb) prescribing how the information included in an annual personalised statement under section 125A must be presented, calculated, or prepared:
   (h) prescribing the maximum number of persons that the Minister may appoint under section 177:
   (i) specifying information that must be contained in the instrument of appointment referred to in section 177:
   (j) prescribing the information or matters that must be included in the information packs referred to in Part 2:
@@ -2354,11 +2453,15 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (q) prescribing circumstances in which the purchase of an estate in land enables a withdrawal under clause 8 of the KiwiSaver scheme rules:
   (r) prescribing matters that may be regarded as matters from which significant financial difficulties have arisen for the purposes of clause 11 of the KiwiSaver scheme rules:
   (s) prescribing what must be treated as reasonable efforts for the purposes of section 204:
-  (t) exempting any person or class of persons or any transaction or class of transactions from compliance with any or all of the provisions of the Securities Act 1978 or the Securities Regulations 1983 in connection with any or all KiwiSaver schemes:
+  (t) exempting any person or class of persons or any transaction or class of transactions from compliance with any or all of the provisions of the Securities Act 1978 or any regulations made under that Act in connection with any or all KiwiSaver schemes:
   (u) varying any requirements of regulations made under the Securities Act 1978 in relation to investment statements of KiwiSaver schemes or providing for additional requirements to those contained in regulations made under the Securities Act 1978 in relation to investment statements of KiwiSaver schemes:
   (v) providing for any matters that are necessary for the administration of regulations made under paragraph (h) or (i) by the Department:
   (w) providing for any transitional or savings matters concerning the coming into force of this Act:
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) A provision prescribed for the purposes of subsection (1)(bb) may, without limitation, do any of the following:
+  (a) specify the duties and powers of the trustee of the scheme:
+  (b) specify the duties of the manager of the scheme:
+  (c) provide for the trustee of the scheme to have the power, exercisable with the consent of the manager of the scheme (but without requiring the consent of members), to make amendments to the trust deed that do not adversely affect the interests of members.
 
 ### 229 Regulations relating to mortgage diversion facility
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Finance, make regulations providing for mortgage diversion facilities that allow contributions in respect of a person to be withdrawn from the person’s KiwiSaver scheme and complying superannuation funds to pay amounts secured by certain mortgages relating to that person.
@@ -2442,12 +2545,45 @@ If, as a result of amendments in Part 2 of the Taxation (Budget Tax Measures) Ac
 
 ## Schedule 1 — KiwiSaver scheme rules
 
-### 1 Enforceability
-The KiwiSaver scheme rules are enforceable by the trustees or any member of the scheme.
+### 1 Application
+(1) The KiwiSaver scheme rules in clauses 1A to 1D apply to KiwiSaver schemes other than restricted schemes.
+(2) The KiwiSaver scheme rules in clauses 1E to 17 apply to all KiwiSaver schemes.
+
+### 1A Trustee's duties
+The trustee, in exercising its powers and performing its duties as the trustee, must—
+  (a) act in the best interests of the members of the scheme; and
+  (b) exercise the care, diligence, and skill that a prudent person engaged in the profession or business of acting as a trustee would exercise in acting as the trustee of a KiwiSaver scheme other than a restricted scheme.
+
+### 1B Manager's duties
+(1) The manager, in exercising its powers and performing its duties as the manager, must—
+  (a) act in the best interests of the members of the scheme; and
+  (b) exercise the care, diligence, and skill that a prudent person engaged in the profession or business of acting as a manager would exercise in managing the affairs of others, unless the manager is exercising a power of investment, in which case clause 1E(2) applies.
+(2) The manager must use the manager's best endeavours and skill to ensure that the affairs of the scheme are conducted in a proper and efficient manner.
+
+### 1C Scheme investments and property
+(1) The trustee must comply with every direction of the manager relating to the acquisition or disposal of scheme investments and property, unless subclause (2) applies.
+(2) The trustee must refuse to act on a direction of the manager relating to the acquisition or disposal of scheme investments or property if the trustee considers that the proposed acquisition or disposal—
+  (a) would be in breach of the trust deed or an enactment; or
+  (b) would be manifestly not in the best interests of the members of the scheme.
+(3) If the trustee refuses to act on a direction of the manager, the trustee must notify the manager and the FMA in writing of the trustee's reasons for refusing to do so.
+
+### 1D Manager to provide information to trustee
+If requested by the trustee, the manager must—
+  (a) make available to the trustee all documents and records relating to the scheme that are held by the manager, an administration manager, or an investment manager of the scheme:
+  (b) provide the trustee with any information required by the trustee about—
+    (i) the scheme:
+    (ii) the affairs of the manager:
+    (iii) the property of the manager (whether acquired before or after the date of the manager's appointment).
+
+### 1E Investment of scheme money
+(1) All money belonging to a KiwiSaver scheme and available for investment must be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(2) The trustees (in the case of a restricted scheme), the manager (in the case of any other KiwiSaver scheme), and the investment managers (if any) of a scheme must, in exercising a power of investment, exercise the care, diligence, and skill required of a trustee by section 13B or 13C of the Trustee Act 1956.
+(3) Subclause (2) applies despite anything to the contrary in section 13D(1) of the Trustee Act 1956.
 
 ### 2 Fees must not be unreasonable
 (1) The following persons must not charge a fee that is unreasonable:
   (a) the trustees of the scheme:
+  (ab) the manager of the scheme:
   (b) the administration manager of the scheme:
   (c) the investment manager of the scheme:
   (d) the promoter of the scheme:
@@ -2476,15 +2612,15 @@ The KiwiSaver scheme rules are enforceable by the trustees or any member of the 
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
 
-### 5 Trustees must pay permitted withdrawal as lump sum
-(1) The trustees must, at the member’s request, pay a permitted withdrawal as a lump sum.
+### 5 Trustees and managers must pay permitted withdrawal as lump sum
+(1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must, at the member’s request, pay a permitted withdrawal as a lump sum.
 (2) Nothing in subclause (1) prevents a member purchasing annuities or a pension from all or part of the member’s accumulation or member’s interest that is withdrawn by that member.
 
-### 6 Trustees may reasonably require evidence to establish right to make permitted withdrawal
-A trustee may reasonably require a member who applies to make a permitted withdrawal to provide evidence of the facts necessary to establish the member’s right to make the withdrawal.
+### 6 Trustees and managers may reasonably require evidence to establish right to make permitted withdrawal
+A trustee (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may reasonably require a member who applies to make a permitted withdrawal to provide evidence of the facts necessary to establish the member’s right to make the withdrawal.
 
 ### 7 Release of funds required under other enactments
-(1) The trustees must comply with the provisions of any enactment that requires them to release funds from the KiwiSaver scheme in accordance with that enactment.
+(1) The trustees of a restricted KiwiSaver scheme and the manager of any other KiwiSaver scheme must comply with the provisions of any enactment that requires them to release funds from the KiwiSaver scheme in accordance with that enactment.
 (2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
 
 ### 8 Withdrawal for purpose of purchase of first home
@@ -2510,14 +2646,14 @@ A trustee may reasonably require a member who applies to make a permitted withdr
 (6) In this clause, estate means a fee simple estate, a leasehold estate or a stratum estate.
 (7) It is a condition of subclause (3) that—
   (a) any withdrawal made under that provision must be paid to the member’s solicitor; and
-  (b) the trustees may require from the member’s solicitor, before payment of the withdrawal,—
+  (b) the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may require from the member’s solicitor, before payment of the withdrawal,—
     (i) a copy of an agreement for the sale and purchase of the estate in land showing the member as purchaser; and
-    (ii) an undertaking that the agreement is unconditional at the time the trustees make the request; and
-    (iii) an undertaking that the funds will be paid to the vendor as part of the purchase price or, if the settlement is not completed by the due date or any extended date, repaid to the trustees on account of the member.
+    (ii) an undertaking that the agreement is unconditional at the time the trustees or the manager (as the case may be) make the request; and
+    (iii) an undertaking that the funds will be paid to the vendor as part of the purchase price or, if the settlement is not completed by the due date or any extended date, repaid to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) on account of the member.
 (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
 
 ### 9 Withdrawal on death
-If a member dies, the trustees must,––
+If a member dies, the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must,––
   (a) on application by the member's personal representative, pay to that person an amount that is equal to the value of the member's accumulation at the date on which the application is accepted as part of the member's estate; or
   (b) if the requirements of section 65 of the Administration Act 1969 are met, pay to the relevant person any sum authorised by that section, subject to that Act.
 
@@ -2554,14 +2690,14 @@ If a member dies, the trustees must,––
   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
 
 ### 14 Withdrawal or transfer to foreign scheme in cases of permanent emigration
-(1) A member may, on application to the trustees, and no earlier than 1 year after the member’s permanent emigration from New Zealand, withdraw an amount equal to the value of the member’s accumulation less the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) on the date of withdrawal.
-(2) A member may, on application to the trustees, at any time after the member’s permanent emigration from New Zealand, have the trustees transfer the member’s accumulation less the amount of Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) to a foreign superannuation scheme authorised for that purpose under regulations made under section 228.
-(3) An application under subclause (1) or (2) must be in the form required by the trustees and must include—
+(1) A member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member’s permanent emigration from New Zealand, withdraw an amount equal to the value of the member’s accumulation less the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) on the date of withdrawal.
+(2) A member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member’s permanent emigration from New Zealand, have the trustees or manager (as the case may be) transfer the member’s accumulation less the amount of Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) to a foreign superannuation scheme authorised for that purpose under regulations made under section 228.
+(3) An application under subclause (1) or (2) must be in the form required by the trustees or manager (as the case may be) and must include—
   (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated from New Zealand; and
-  (b) proof to the satisfaction of the trustees—
+  (b) proof to the satisfaction of the trustees or manager (as the case may be)—
     (i) of the member’s departure from New Zealand (for example, evidence of confirmed travel arrangements, passport evidence, and evidence of any necessary visas); and
     (ii) that the member has resided at an overseas address at some time during the year following the member’s departure from New Zealand.
-(4) The trustees may require that any other documents, things, or information produced in an application under subclause (1) or (2) be verified by oath, statutory declaration, or otherwise.
+(4) The trustees or manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (1) or (2) be verified by oath, statutory declaration, or otherwise.
 
 ### 15 Contributions holiday
 A employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
@@ -2573,11 +2709,160 @@ A employee member may, at any time, take a contributions holiday in accordance w
 
 ### 17 Crown contributions: tax credits
 Despite rules 4 to 14, the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
-  (a) before the member, the personal representative, or the relevant person under section 65 of the Administration Act 1969 (as the case may be) gives the fund provider (as defined in the Income Tax Act 2007) a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
-  (b) to the extent to which the fund provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of section MK 2 of the Income Tax Act 2007 wrong.
+  (a) before the member, the personal representative, or the relevant person under section 65 of the Administration Act 1969 (as the case may be) gives the provider a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
+  (b) to the extent to which the provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of section MK 2 of the Income Tax Act 2007 wrong.
 
 ## Schedule 2 — Matters to be specified in application for registration or registration proposal
 
 ## Schedule 3 — Amendments to other Acts
 
 ## Schedule 4 — Transitional rates for employers and employees
+
+### 1 Title
+This Act is the KiwiSaver Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on 1 May 2011.
+
+**Transitional provisions**
+
+### 57 Interpretation
+In this section and in sections 58 to 71, unless the context otherwise requires,—
+  - **commencement date** means the date on which this section comes into force
+  - **effective date** , in relation to a particular KiwiSaver scheme, means the earlier of the dates set out in section 58(2)
+  - **existing KiwiSaver scheme** means a KiwiSaver scheme registered in the KiwiSaver schemes register immediately before the commencement date
+  - **existing member** , in relation to a KiwiSaver scheme, means a person who was a member of the scheme immediately before the effective date
+  - **register** means the KiwiSaver schemes register established under section 156 of the principal Act
+  - **relevant enactments** means the principal Act and the enactments amended by section 56 of this Act
+  - **security** means an interest in a KiwiSaver scheme offered to the public for subscription.
+
+### 58 Transition period for existing schemes
+(1) To the extent that the relevant enactments as amended by this Act would otherwise apply to an existing KiwiSaver scheme, those enactments continue in force during the transition period described in subsection (2) as if they had not been amended by this Act.
+(2) The transition period for a particular scheme is the period beginning on the commencement date and ending on the close of the day before the earlier of the following dates:
+  (a) the date that the trustees of the scheme elect to comply with the relevant enactments as amended by this Act; or
+  (b) 1 October 2012.
+(3) The relevant enactments as amended by this Act apply to a particular scheme on and from the earlier of the dates set out in subsection (2).
+(4) If the trustees elect an effective date that is earlier than 1 October 2012, the trustees must notify the FMA and the Commissioner of the elected date at least 20 working days before that date.
+(5) A failure to comply with subsection (4) does not limit subsection (3).
+(6) This section is subject to section 59.
+
+### 59 Certain provisions have effect during transition period
+Despite section 58,—
+  (a) section 56(5) of the principal Act (as inserted by section 8 of this Act) applies to a KiwiSaver scheme during the scheme's transition period as if the reference in section 56(5) to the circumstances in section 56(6) were a reference to the trustees of the scheme having lodged a copy of a winding-up order or resolution with the FMA under section 173 of the principal Act; and
+  (b) section 116A(4) of the principal Act (as inserted by section 12 of this Act) applies to a KiwiSaver scheme listed in section 61 or 62 of this Act during the scheme's transition period.
+
+### 60 FMA must amend register
+(1) On, or as soon as practicable after, the effective date for a KiwiSaver scheme, the FMA must,—
+  (a) in the case of a scheme listed in section 61 or 62, amend the register to identify the scheme as a restricted scheme; and
+  (b) in the case of any other KiwiSaver scheme, amend the register to identify the name of the manager of the scheme.
+(2) The FMA must not amend the register to identify a KiwiSaver scheme as a restricted scheme other than in accordance with subsection (1)(a).
+
+### 61 Certain employer schemes to be restricted schemes
+Each of the following KiwiSaver schemes is eligible, on its effective date, to be identified as a restricted scheme on the KiwiSaver schemes register:
+  (a) Allied Farmers KiwiSaver Scheme:
+  (b) Douglas Pharmaceuticals KiwiSaver Scheme:
+  (c) Ecolab KiwiSaver Scheme:
+  (d) Foodstuffs (Wellington) KiwiSaver Scheme:
+  (e) Foodstuffs KiwiSaver Scheme:
+  (f) Griffins KiwiSaver Scheme:
+  (g) Hexion KiwiSaver Scheme:
+  (h) Ravensdown KiwiSaver Scheme:
+  (i) Stevenson Group KiwiSaver Scheme:
+  (j) Tait Electronics Ltd KiwiSaver Scheme.
+
+### 62 Certain restricted-entry schemes to be restricted schemes
+Each of the following KiwiSaver schemes is eligible, on its effective date, to be identified as a restricted scheme on the KiwiSaver schemes register:
+  (a) BCF KiwiSaver Scheme:
+  (b) Koinonia Fund:
+  (c) Medical Assurance Society KiwiSaver Plan:
+  (d) New Zealand Harbours KiwiSaver Scheme:
+  (e) NZ Maritime Officers KiwiSaver Scheme:
+  (f) PSBG KiwiSaver Scheme:
+  (g) SRF KiwiSaver Scheme:
+  (h) Supereasy KiwiSaver Superannuation Scheme:
+  (i) Waterfront Industry KiwiSaver Scheme.
+
+### 63 Parties to trust deed may execute amendment to trust deed
+(1) This section applies—
+  (a) to a trust deed that, immediately before the commencement date, governs a KiwiSaver scheme; and
+  (b) to a new trust deed that replaces an existing trust deed under section 64; and
+  (c) despite anything to the contrary in the trust deed or a relevant enactment, or in any other enactment, rule of law, or agreement, including anything relating to the consent of any person or organisation to the making of amendments to the trust deed.
+(2) The parties to the trust deed may, from time to time, until 30 September 2012, make any amendments to the trust deed that are necessary or desirable to ensure, or in connection with ensuring, that the trust deed complies with the relevant enactments as amended by this Act.
+(3) However, the parties must not amend the trust deed under this section without the prior written consent of the FMA.
+(4) An amendment to the trust deed made under this section must be treated for all purposes as if it were authorised to be made and were made in accordance with the provisions of the trust deed before the amendment was made.
+(5) This section expires, and is repealed, on the close of 30 September 2012.
+
+### 64 Conversion of umbrella trusts to separate trusts
+(1) This section applies—
+  (a) to a trust deed (existing trust deed) that, immediately before the commencement date, governs a KiwiSaver scheme and a registered superannuation scheme under an umbrella trust; and
+  (b) despite anything to the contrary in the trust deed or a relevant enactment, or in any other enactment, rule of law, or agreement, including anything relating to the consent of any person or organisation to the making of amendments to the trust deed.
+(2) The parties to an existing trust deed may, until 30 September 2012, rescind the existing trust deed, provided that the existing trust deed is immediately replaced with a new trust deed in respect of each scheme governed by the existing trust deed.
+(3) However,—
+  (a) an existing trust deed must not be rescinded, and new trust deeds must not be executed, under this section without the prior written consent of the FMA; and
+  (b) the parties to, and provisions of, a new trust deed must differ from the parties to, and provisions of, the existing trust deed only to the extent that is necessary or desirable to ensure, or in connection with ensuring, that the new trust deed complies with the relevant enactments as amended by this Act.
+(4) On the replacement of an existing trust deed with new trust deeds under this section,—
+  (a) the KiwiSaver scheme and the registered superannuation scheme—
+    (i) are governed by separate trusts rather than by an umbrella trust; and
+    (ii) must be treated as separate persons for the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994; and
+  (b) no assets or liabilities are removed from the KiwiSaver scheme or the registered superannuation scheme; and
+  (c) no new settlement (as defined in section YA 1 of the Income Tax Act 2007) occurs; and
+  (d) the KiwiSaver scheme must be treated as the same scheme; and
+  (e) the registered superannuation scheme must be treated as the same scheme; and
+  (f) the persons who were members of each scheme immediately before the replacement of the existing trust deed continue to be members of the same scheme.
+(5) This section expires, and is repealed, on the close of 30 September 2012.
+
+### 65 Providers must notify existing members of changes
+(1) The provider of a KiwiSaver scheme must, no later than 3 months after the effective date for the scheme,—
+  (a) prepare a document (the information document) that identifies—
+    (i) the material amendments to the trust deed of the scheme made under section 63; and
+    (ii) if an existing trust deed has been replaced with a new trust deed under section 64, the material differences between the existing trust deed and the new trust deed; and
+    (iii) the material variations in the terms or conditions of a security that result from amendments to relevant enactments made by this Act; and
+  (b) send, to the address (as defined in section 4(1) of the principal Act) of every existing member of the scheme a written statement that complies with subsection (2).
+(2) The written statement must contain all of the following:
+  (a) the effective date:
+  (b) the names of the trustees:
+  (c) a brief description of the material amendments, differences, and variations described in the information document:
+  (d) in the case of a KiwiSaver scheme other than a restricted scheme, the name of the manager:
+  (e) a statement to the effect that the member is entitled to receive a copy of the information document free of charge:
+  (f) a statement to the effect that a copy of the information document is available, free of charge and at all reasonable times, on an Internet site maintained by, or on behalf of, the provider.
+(3) The provider must, if an existing member of the scheme requests a copy of the information document, ensure that a hard copy of the information document is sent, free of charge, to the member.
+(4) Until 31 December 2013, the provider must ensure that a copy of the information document is available, at all reasonable times, on an Internet site maintained by or on behalf of the provider.
+
+### 66 Application of Securities Act 1978: promoter
+(1) This section applies to a person who, in respect of a KiwiSaver scheme other than a restricted scheme,—
+  (a) was a trustee of the scheme before the effective date; and
+  (b) is a trustee of the scheme on or after the effective date.
+(2) For the purposes of the Securities Act 1978, the person is not a promoter in relation to interests in the scheme offered to the public for subscription on or after the effective date by reason only that the person was, before the effective date and in the person's capacity as trustee, instrumental in the formulation of a plan or programme pursuant to which interests in the scheme are offered to the public.
+
+### 67 Application of Securities Act 1978: offer of securities to public
+To avoid doubt, none of the following constitutes an offer of a security to the public for the purposes of the Securities Act 1978:
+  (a) an amendment to a trust deed under section 63:
+  (b) a replacement of an existing trust deed with a new trust deed under section 64:
+  (c) if an existing trust deed is replaced with a new trust deed under section 64, a difference between the existing trust deed and the new trust deed:
+  (d) the change of issuer in relation to an interest in a KiwiSaver scheme other than a restricted scheme from the trustees to the manager (see the definition of issuer in section 2(1) of the Securities Act 1978 as amended by section 56 of this Act):
+  (e) any other variation in the terms or conditions of a security resulting from amendments to relevant enactments made by this Act.
+
+### 68 Certain participation agreements executed before registration continue to have effect
+The repeal of section 128 of the principal Act by section 22 of this Act does not affect the status of a participation agreement as forming part of the trust deed.
+
+### 69 Certain scheme provider agreements continue in force
+(1) This section applies to a scheme provider agreement that—
+  (a) relates to a KiwiSaver scheme other than a restricted scheme; and
+  (b) was entered into before, and has effect immediately before, the effective date.
+(2) On and from the effective date, the scheme provider agreement is binding on and enforceable by, against, or in favour of the manager as provider of the scheme.
+
+### 70 References to department in instruments of appointment
+Unless the context otherwise requires, a reference (express or implied) to the department in an instrument of appointment made under section 177 of the principal Act before or on the commencement date must be read as a reference to the FMA.
+
+### 71 Transitional regulations
+(1) In this section, transition means the transition from the relevant enactments as in force immediately before their amendment by this Act to the relevant enactments as amended by this Act.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional or savings provisions for the purpose of facilitating or ensuring an orderly transition.
+(3) The Minister must not recommend that regulations be made under this section unless he or she is satisfied that the regulations are necessary to facilitate or ensure an orderly transition.
+(4) Regulations made under this section may, for a period specified in the regulations that ends no later than the close of 31 December 2013,—
+  (a) provide that 1 or more provisions (including definitions) of this Act, or of a relevant enactment, do not apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme:
+  (b) provide that 1 or more terms in this Act, or in a relevant enactment, have the meaning given to them by the regulations to the extent that they apply to or in respect of a KiwiSaver scheme:
+  (c) provide that 1 or more provisions repealed, amended, or revoked by this Act are to continue to apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme as if they had not been repealed, amended, or revoked:
+  (d) provide for any other matter necessary to facilitate or ensure an orderly transition.
+(5) On the close of 31 December 2013,—
+  (a) this section expires and is repealed; and
+  (b) any regulations made under this section that are in force on 31 December 2013 expire and are revoked.
