@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -3141,7 +3141,7 @@ The council shall take all sufficient precautions for the general safety of the 
 (2) In the case of a category A or category B vehicle, the following provisions shall apply:
   (a) the council may, or may authorise any person to, remove the vehicle and store it:
   (b) no person shall remove the vehicle until a member of the Police has been notified of the proposal to move it:
-  (c) the council shall make reasonable efforts to give notice to the last registered owner of the vehicle of its intention to sell the vehicle, and those efforts shall include,—
+  (c) the council shall make reasonable efforts to give notice to the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle of its intention to sell the vehicle, and those efforts shall include,—
     (i) in the case of a category A vehicle, taking practical steps to identify the owner of the vehicle by reference to chassis numbers or other numbers appearing on the vehicle:
     (ii) in the case of a category B vehicle, identifying the owner of the vehicle by reference to such numbers and by searching the motor vehicle security register or otherwise:
   (d) after making reasonable efforts to give notice under paragraph (c), the council may give not less than 10 working days' notice, by advertisement in 2 issues of a daily newspaper circulating in the district in which the road is situated, of its intention to sell the vehicle, but if the council is satisfied that the condition of the vehicle is such that it is of little or no value, it may dispense with the giving of such notice:
@@ -3153,8 +3153,8 @@ The council shall take all sufficient precautions for the general safety of the 
   (g) the proceeds of any such sale shall be applied in payment of the costs and charges attending the sale, including the advertisement under paragraph (d), and of the expenses of the removal and storage of the motor vehicle, and the residue, if any, shall be payable to the former owner of the vehicle:
   (h) where any motor vehicle is removed under this subsection, the owner shall be liable to pay to the council all expenses incurred by the council in removing and storing the vehicle, and, where the vehicle is claimed by the owner and not sold or otherwise disposed of pursuant to this subsection, those expenses shall be payable before the owner takes delivery of the vehicle.
 (3) In the case of a category C vehicle, the provisions of subsection (2) shall apply with the following modifications:
-  (a) the notice specified in paragraph (d) of that subsection shall not be given unless the vehicle has been stored for a period of 1 month and reasonable efforts to locate the last registered owner have been made by the council:
-  (b) in addition to specifying the matters set out in paragraph (f) of that subsection, the notice shall specify the name of the current registered owner and the last known address of that person:
+  (a) the notice specified in paragraph (d) of that subsection shall not be given unless the vehicle has been stored for a period of 1 month and reasonable efforts to locate the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle have been made by the council:
+  (b) in addition to specifying the matters set out in paragraph (f) of that subsection, the notice shall specify the name of the person currently registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle and the last known address of that person:
   (c) paragraph (c) of that subsection shall apply as if the vehicle were a category B vehicle.
 (4) If, after a search of the motor vehicle security register in accordance with subsection (2)(c)(ii) or subsection (3)(c), it is found that the vehicle is subject to a registered security interest, the council shall, before selling or otherwise disposing of the vehicle, notify the holder of that interest of its intention to sell or otherwise dispose of the vehicle.
 (5) For the purposes of this section,—
@@ -3178,7 +3178,7 @@ The council shall take all sufficient precautions for the general safety of the 
   (a) may, or may authorise any person to, remove the vehicle; and
   (b) if it does so, must—
     (i) store it for 10 days (the 10-day period); and
-    (ii) during that time, make reasonable efforts to notify the last registered owner of the vehicle—
+    (ii) during that time, make reasonable efforts to notify the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle—
       (A) that it has removed the vehicle; and
       (B) that the vehicle is in storage; and
       (C) of the territorial authority's powers under subsection (7).
@@ -3188,7 +3188,7 @@ The council shall take all sufficient precautions for the general safety of the 
 (6) Subsection (5) applies only if any costs incurred by the territorial authority for removing and storing the vehicle are first paid.
 (7) If a vehicle is not claimed under subsection (5), the territorial authority may—
   (a) dispose of it (by sale or otherwise) at any time after the 10-day period has expired; and
-  (b) recover from the vehicle's last registered owner any costs incurred by the territorial authority as a result of removing, storing, and disposing of the vehicle (less any amount received on the disposal of it).
+  (b) recover from the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle any costs incurred by the territorial authority as a result of removing, storing, and disposing of the vehicle (less any amount received on the disposal of it).
 (8) A territorial authority may retain any proceeds from the disposal of a vehicle under this section that—
   (a) are not claimed by the person who owned the vehicle at the time it was disposed of within 12 months of the vehicle's disposal; and
   (b) are in addition to any costs incurred by the territorial authority for removing, storing, and disposing of the vehicle.
@@ -6445,7 +6445,7 @@ Where any road or part of a road is closed under clause 11(e), the road or part 
 (a) the Transport Act 1962 and any bylaws made under section 72 of that Act:
 (b) the Traffic Regulations 1976:
 (c) the Transport (Drivers Licensing) Regulations 1985:
-(d) the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
+(d)
 (e) the Transport (Vehicle Registration and Licensing) Notice 1986:
 (ea) the Land Transport Act 1998:
 (f) Any enactment made in substitution for any enactment referred to in paragraphs (a) to (ea)—
