@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-05-01_
 
 > An Act to—aAmend the National Provident Fund Restructuring Act 1990; andbAuthorise the Board of Trustees of the National Provident Fund to amend the trust deeds for certain existing schemes and validate payments made to members of those schemes
 
@@ -69,7 +69,7 @@ _Consolidation as at 2007-09-03_
   (b) The Board is hereby authorised to make such amendments to the trust deed for the Pension National Scheme as are necessary—
     (i) To empower the Board to pay to any member who becomes redundant a benefit not exceeding the amount standing to the total credit of the member in the scheme:
     (ii) In the event of a member electing to leave his or her total credit in the scheme on ceasing to be engaged by an employer, to authorise the full total credit of the member to be left in the scheme and attract interest in accordance with the provisions of the scheme until a benefit becomes payable under the terms of the scheme.
-(2) No amendment may be made by the Board under subsection (1) of this section unless the Government Actuary and an actuary appointed by the Board for the purpose have each given a certificate in writing stating that the financial resources of the scheme are likely to be sufficient to meet the liabilities of the scheme as so amended.
+(2) No amendment may be made by the Board under subsection (1) of this section unless an actuary appointed by the Board for the purpose has given a certificate in writing stating that the financial resources of the scheme are likely to be sufficient to meet the liabilities of the scheme as so amended.
 (3) Where the Board amends the trust deed for such a scheme in accordance with this section—and any payments made by the Board and any action taken by the Board in accordance with the trust deed or the terms and conditions of the scheme as so deemed to have been amended shall be deemed to be and always to have been valid.
   (a) The trust deed shall be deemed to have been amended on the date on which it was executed; and
   (b) The terms and conditions of the scheme as it existed on the 1st day of June 1981 shall be deemed to have been amended to the same effect on the 1st day of June 1981—
