@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-05-02_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -236,9 +236,11 @@ Every person exercising or performing a function, duty or power under this Act m
   - **part-time work** means work that averages not less than 15 hours a week when calculated over a period of the preceding 3 months—
     (a) under a contract of service, whether on time or piece rates; or
     (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking:
-  - **part-time work-tested beneficiary** means a person—
-    (a) who is a work-tested spouse or partner or a work-tested domestic purposes beneficiary; and
-    (b) whose youngest dependent child is aged 6 years or older, but under 18 years
+  - **part-time work-tested beneficiary** means—
+    (a) a person with a youngest dependent child aged 6 or older, but under 18 years, and who is—
+      (i) a work-tested spouse or partner; or
+      (ii) a work-tested domestic purposes beneficiary; or
+      (b) a person who is a work-tested sickness beneficiary
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **pay day** means the day or date from time to time fixed by the chief executive as the date on which an instalment of a benefit falls due for payment
   - **periodical** means regular or intermittent
@@ -294,7 +296,8 @@ Every person exercising or performing a function, duty or power under this Act m
     (c)
     (d)
     (e)
-    (f) a work-tested domestic purposes beneficiary
+    (f) a work-tested domestic purposes beneficiary; or
+    (g) a work-tested sickness beneficiary
   - **work-tested benefit** means—
     (a) a community wage; or
     (b)
@@ -304,10 +307,12 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) a sickness benefit; or
       (ii) an emergency benefit; or
       (iii) an invalid's benefit; or
-    (f) in relation to a work-tested domestic purposes beneficiary, a domestic purposes benefit under section 27B
+    (f) in relation to a work-tested domestic purposes beneficiary, a domestic purposes benefit under section 27B; or
+    (g) in relation to a work-tested sickness beneficiary, a sickness benefit
   - **work-tested domestic purposes beneficiary** means a person—
     (a) who has been granted a domestic purposes benefit under section 27B; and
     (b) whose youngest dependent child is aged 6 years or older, but under 18 years, or is aged 18 years and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
+  - **work-tested sickness beneficiary** means a person granted a sickness benefit who is required under section 54DA(1) to comply with the work test
   - **work-tested spouse or partner** means a person who—
     (a) has no dependent children, or whose youngest dependent child is aged 6 years or more; and
     (b) has not been granted an exemption from the work test; and is—
@@ -1115,6 +1120,8 @@ In addition to the benefit computed as provided in section 42, there shall be pa
   (a) any claim for a child disability allowance is declined on the grounds that the child is not a child with a serious disability within the meaning of subsections (1) and (2) of section 39A, or if any such allowance is cancelled on those grounds; or
   (b) any claim for an invalid's benefit is declined on medical grounds or any such benefit is cancelled on medical grounds; or
   (ba) any claim for a sickness benefit is declined on medical grounds or on grounds relating to a person's capacity for work, or a person's sickness benefit is cancelled on medical grounds or on grounds relating to the person's capacity for work; or
+  (bab) under section 54DA(1), the chief executive requires a sickness beneficiary to comply with the work test; or
+  (bac) under section 54DA(3), the chief executive confirms a requirement under section 54DA(1) (that a sickness beneficiary complies with the work test); or
   (bb)
   (c)
   (d)
@@ -1144,7 +1151,7 @@ In addition to the benefit computed as provided in section 42, there shall be pa
   (b) an income of less than the amount that would fully abate the benefit.
 (5) Nothing in subsection (4) affects the entitlement of a person to receive a sickness benefit if, during a temporary period, the person has income sufficient to fully abate the benefit but otherwise fulfils the conditions of entitlement to the benefit.
 (6) For the purposes of subsection (1)(b), any payment made by a person to any other person who acts as his or her substitute during a period of sickness or injury may be treated as a loss of earnings by the first-mentioned person.
-(7) A person who is granted a benefit under this section must—
+(7) A person who is granted a benefit under this section (other than a person required to comply with the work test under section 54DA(1)) must—
   (a) comply with a requirement under section 60Q; and
   (b) comply with any other obligation arising under any of sections 60Q to 60S.
 
@@ -1180,6 +1187,13 @@ In addition to the benefit computed as provided in section 42, there shall be pa
 (4) An applicant is entitled to be paid the rate in clause 5 of Schedule 9 during any period when the applicant's spouse or partner is ineligible for a benefit because of—
   (a) the application of section 60H (which relates to voluntary unemployment or loss of employment through misconduct, etc); or
   (b) a strike, either by himself or herself, or by fellow members of the same union at the same place of employment.
+
+### 54DA Sickness beneficiary may be required to comply with work test
+(1) The chief executive may, by notice in writing, require a person who is granted a sickness benefit under section 54 to comply with the work test from a date specified in the notice if the chief executive, having regard to the certificate and any report obtained under section 54B, is satisfied that the person has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work.
+(2) The date specified in a notice under subsection (1),—
+  (a) in the case of a new grant of the benefit, may be the date on which the benefit is first paid; but
+  (b) in any case, must not be a date before the date on which the chief executive reasonably considers the person will receive the notice.
+(3) The chief executive may at any time, whether on the application of the person or otherwise, review a requirement under subsection (1) and may confirm or revoke it.
 
 ### 54E Obligations of spouse or partner of sickness beneficiary
 From the time that payment of the sickness benefit commences, the spouse or partner of a person granted a sickness benefit at a work-test married rate—
@@ -1372,6 +1386,7 @@ The chief executive must take reasonable and appropriate steps to make every per
   - **unemployed** means resigning from or otherwise leaving employment, other than by dismissal.
 (2) This section applies to a person who is—
   (a) a person who is an applicant for a benefit if, on the grant of the benefit, he or she would be a work-tested beneficiary; or
+  (ab) a person who is an applicant for a sickness benefit if the chief executive would be able to require him or her to comply with the work test under section 54DA(1) from the date on which the benefit is first paid; or
   (b) a person who is the spouse or partner of an applicant for a married rate of benefit, if, on the grant of the benefit, he or she would be a work-tested spouse or partner; or
   (c) a work-tested beneficiary.
 (3) This section applies if the chief executive is satisfied that a person referred to in subsection (2)—
@@ -1466,7 +1481,7 @@ In sections 60P to 60Z, unless the context otherwise requires,—
 ### 60P Purpose of sections 60Q to 60Z
 The purpose of sections 60Q to 60Z is—
   (a) to facilitate the movement of domestic purposes beneficiaries (other than work-tested domestic purposes beneficiaries) and widows' beneficiaries, and the spouses and partners (other than work-tested spouses or partners) of emergency, invalids', sickness, and unemployment beneficiaries, into ongoing employment as their parenting responsibilities and individual circumstances allow:
-  (ab) to facilitate the movement of invalids' beneficiaries and sickness beneficiaries into employment as their disability-related or medical conditions, and circumstances, allow:
+  (ab) to facilitate the movement of invalids' beneficiaries and sickness beneficiaries (other than work-tested sickness beneficiaries) into employment as their disability-related or medical conditions, and circumstances, allow:
   (b) to provide opportunities for those beneficiaries to improve their capabilities for employment:
   (c) to improve social and economic outcomes for those beneficiaries and their dependent children.
 
@@ -1503,7 +1518,7 @@ The purpose of sections 60Q to 60Z is—
     (ii) a benefit under section 27B (the domestic purposes benefit for solo parents) if the recipient has a dependent child under the age of 6 years; or
     (iii) a benefit under section 27C (the domestic purposes benefit for women alone); or
     (iv) a benefit under section 40 (the invalid's benefit); or
-    (v) a benefit under section 54 (the sickness benefit); or
+    (v) a benefit under section 54 (the sickness benefit), unless the person is a work-tested sickness beneficiary; or
   (b) is the spouse or partner of a person who—
     (i) is the recipient of an emergency benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit; and
     (ii) has a dependent child aged under 6.
@@ -3063,7 +3078,9 @@ The purpose of sections 102 to 123D is—
   (d) to provide a work test structure applying to all work-tested beneficiaries that is sufficiently flexible to take account of an individual beneficiary's circumstances.
 
 ### 102 Application of work test
-(1) The work test applies to a person while he or she is a work-tested beneficiary, and unless subsection (2) applies, the person is subject to the obligations of the work test set out in section 102A from the date on which the work-tested benefit is first paid.
+(1) The work test applies to a person while he or she is a work-tested beneficiary, and unless subsection (2) applies, the person is subject to the obligations of the work test set out in section 102A from,—
+  (a) in the case of a work-tested sickness beneficiary, the date specified in the chief executive's notice under section 54DA(1); or
+  (b) in any other case, the date on which the work-tested benefit is first paid.
 (2) The work test does not apply to a work-tested beneficiary if the chief executive is satisfied that the beneficiary is undertaking employment of the kind required to satisfy the work test for that beneficiary.
 (3) A work test obligation set out in section 102A applies on—
   (a) a day that is a day between Monday and Friday (inclusive); or
