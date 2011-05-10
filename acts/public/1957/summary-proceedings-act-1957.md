@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -42,7 +42,7 @@ _Consolidation as at 2011-05-01_
     (c) in relation to an infringement offence for which an infringement notice has been issued, the Department, local body, or other authority in or by which the officer or employee who issued the notice was employed
   - **infringement fee** , in relation to an infringement offence, means the amount fixed as the infringement fee for the offence by or under the Act under which the offence is created
   - **infringement notice** means a notice issued under—
-    (a) section 42A of the Transport Act 1962; or
+    (a)
     (b) section 14 of the Litter Act 1979; or
     (ba) section 41B of the Financial Reporting Act 1993; or
     (c) section 32A of the Weights and Measures Act 1987; or
@@ -344,7 +344,7 @@ Every information shall contain such particulars as will fairly inform the defen
   (d) any other class of person approved for the time being for the purposes of this section by the Minister of Justice by notice in the Gazette. Any such approval may be conditional or may apply only in respect of specified offences or classes of offences.
 (11) Every certificate given by an informant under paragraph (h) of subsection (3) shall be deemed to be a statement for the purposes of section 111 of the Crimes Act 1961 (which relates to false statements) notwithstanding that it is not required to be made before any person.
 (12) For the purposes of this section, the term minor offence means,—
-  (a) in the case of a summary offence under the Transport Act 1962 or the Land Transport Act 1998, any summary offence under either of those Acts for which the defendant is not liable on conviction to a sentence of imprisonment or to a fine exceeding $2,000:
+  (a) in the case of a summary offence under the Land Transport Act 1998, a summary offence under that Act for which the defendant is not liable on conviction to a sentence of imprisonment or to a fine exceeding $2,000:
   (b) in any other case, means any summary offence for which the defendant is not liable on conviction to a sentence of imprisonment or to a fine exceeding $500.
 (13) This section shall not apply where the defendant, or, where 2 or more persons are jointly charged, at least 1 of the defendants, is under the age of 17 years, unless the charge is for a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) which is not punishable by imprisonment.
 (14) Subject to the provisions of any other enactment, where a conviction is entered following proceedings under this section the entry in the Criminal Records kept pursuant to section 71 relating to that conviction and the summary of the facts contained in the notice filed under subsection (2) shall be open to inspection by the public.
@@ -441,7 +441,7 @@ In any proceedings, a computer printout of the particulars of a reminder notice 
   (a) by being delivered to him personally or by being brought to his notice if he refuses to accept it; or
   (b) by being left for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years; or
   (c) by being sent to him by registered letter addressed to him at his last known or usual place of residence or at his place of business; or
-  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998.
+  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998.
   provided that a District Court Judge or Justice or Community Magistrate or the Registrar may if he thinks fit direct that the summons or other document shall be served in accordance with the provisions of paragraph (a).
 (1A) Despite subsection (1), if a summons or other document required to be served on a defendant is to be served on a defendant who is a Crown organisation, it may be served—
   (a) by delivering it personally to an employee of the organisation at its head office or principal place of business; or
@@ -455,7 +455,7 @@ In any proceedings, a computer printout of the particulars of a reminder notice 
   (a) any sworn or non-sworn member of the Police:
   (b) an officer of the Court:
   (c) any person or member of a class of persons authorised by a District Court Judge or Registrar either generally or in respect of a particular case or class of case:
-  (d) in the case of a summons to the defendant or other document required to be served on the defendant in proceedings for an offence against any Act, regulation, or bylaw to which section 68B(1) of the Transport Act 1962 or section 113(1) of the Land Transport Act 1998 applies, an enforcement officer under the Land Transport Act 1998:
+  (d) in the case of a summons to the defendant or other document required to be served on the defendant in proceedings for an offence against any Act, regulation, or bylaw to which section 113(1) of the Land Transport Act 1998 applies, an enforcement officer under the Land Transport Act 1998:
   (e) in the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, any person acting in the course of official duties as an officer or employee of the informant.
 (2) Where any such summons or document is to be served by registered or ordinary letter it shall be so served—
   (a) except in the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, by an officer of the Court posting the summons or document to the defendant:
@@ -3458,15 +3458,17 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 228A |  | Fraudulent removal of records |
 | Land Transport Act 1998 |  | 32(4) |  | Driving while disqualified or contrary to limited licence or while licence suspended or revoked |
 |  |  | 36(1) |  | Reckless or dangerous driving causing injury or death, or failing to stop and render assistance after person injured or killed |
+|  |  | 36AA |  | Causing death of another person |
 |  |  | 36A(1) (a) and (2) |  | Operating a motor vehicle in a race or unnecessary exhibition of speed or acceleration in contravention of section 22A(1), and by that act or omission causing an injury to or the death of another person |
 |  |  | 36A(1)(c) and (2) |  | Without reasonable excuse, operating a motor vehicle in a manner that causes it to undergo sustained loss of traction in contravention of section 22A(3), and by that act or omission causing an injury to or the death of another person |
 |  |  | 39(1) |  | Causing injury or death while carelessly using vehicle |
 |  |  | 56(4) |  | Contravening specified breath or blood-alcohol limit |
 |  |  | 58(3) |  | Driving while under influence of drink or drug to such an extent as to be incapable of proper control of vehicle |
 |  |  | 60(3) |  | Failing or refusing to allow blood specimen to be taken |
-|  |  | 61(1), (2) |  | Causing injury or death while in charge of vehicle and having breath or blood alcohol level over specified limit, or to such an extent as to be incapable of proper control of vehicle |
-|  |  | 62(1) |  | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61)Causing bodily injury or death by carelessly driving under influence of drink or drug or both |
-|  |  | 62(1A) |  | Causing bodily injury or death by driving impaired and with blood containing evidence of use of drugs or prescription medicine |
+|  |  | 61(1) |  | Causing bodily injury or death while in charge of a motor vehicle and having breath alcohol exceeding 400 micrograms of alcohol per litre of breath or blood alcohol exceeding 80 milligrams of alcohol per 100 millilitres of blood |
+|  |  | 61(2) |  | Causing bodily injury or death while in charge of a motor vehicle and while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle, or with blood containing evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975 (except thalidomide) |
+|  |  | 62(1) |  | Causing bodily injury or death while carelessly driving a motor vehicle (in a manner that is not an offence against section 61) and while under the influence of drink or a drug, or both, or with blood containing evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975 (except thalidomide) |
+|  |  | 62(1B) |  | Causing bodily injury or death by driving or attempting to drive with blood containing evidence of use of qualifying drug |
 |  |  | 62(1B) |  | Causing bodily injury or death by driving or attempting to drive with blood containing evidence of use of drugs or prescription medicine |
 | Local Electoral Act 2001 |  | 123 and 124 |  | Offences in respect of official documents and voting offences |
 | Local Government Act 2002 |  | 232(2) |  | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
