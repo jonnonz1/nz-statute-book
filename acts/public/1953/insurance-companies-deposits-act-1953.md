@@ -1,5 +1,5 @@
 # Insurance Companies' Deposits Act 1953
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2011-05-10_
 
 > An Act to consolidate and amend the law relating to deposits required from companies and persons carrying on various classes of insurance business
 
@@ -388,7 +388,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 | --- | --- | --- | --- | --- | --- |
 |  | Class 1: |  | Fire insurance business. |  |  |
 |  | Class 2: |  | Employers' liability insurance business. |  |  |
-|  | Class 3: |  | Third party risks insurance business under Part 6A of the Transport Act 1962. |  |  |
+|  | Class 3: |  | Third party risks insurance business. |  |  |
 |  | Class 4: |  | All other kinds of insurance business, except- |  |  |
 |  |  |  | (a) | Life insurance, including endowment and annuity contracts; and |  |
 |  |  |  | (b) | Marine insurance; and |  |
