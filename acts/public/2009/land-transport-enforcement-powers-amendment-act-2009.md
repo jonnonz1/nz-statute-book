@@ -1,11 +1,11 @@
 # Land Transport (Enforcement Powers) Amendment Act 2009
-_Consolidation as at 2009-10-27_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
 ### 2 Commencement
-(1) Sections 9, 10, 17, 18, 20, 21, and 40(2) come into force on a date appointed by the Governor-General by Order in Council.
+(1) Sections 9, 10, 17, 20, 21, and 40(2) come into force on a date appointed by the Governor-General by Order in Council.
 (2) Sections 4(2) and (3), 5, 13 to 16, 34, and 39(2) come into force on 1 November 2009.
 (3) The rest of this Act comes into force on 1 December 2009.
 
@@ -137,19 +137,10 @@ The following heading and sections are inserted after section 22A:BylawsRoad con
     (b) must remain attached to the motor vehicle for that period.
 
 ### 9 Certain driver licences have no effect
-Section 29 is amended by repealing subsection (1) and substituting the following subsection:
-  (1) A driver licence has no effect if—
-    (a) a person is disqualified from holding, or unqualified to hold, a driver licence:
-    (b) the licence is invalid or is issued invalidly:
-    (c) the licence is revoked, cancelled, superseded, or replaced:
-    (d) the licence is for the time being suspended under any Act.
+[Repealed]
 
 ### 10 Driver licences are property of Agency and are to be surrendered in certain circumstances
-Section 30 is amended by repealing subsection (5) and substituting the following subsection:
-  (5) The Agency must, subject to sections 82A and 83 and as soon as practicable after being satisfied that a person is eligible to hold a driver licence,—
-    (a) in the case where the person's driver licence is treated as cancelled, issue a new driver licence to the person when the disqualification or suspension expires or is removed; or
-    (b) in the case where the person ceases to be licensed owing to a suspension (other than under section 90 for accumulated demerit points), reissue the person's driver licence to the person when the suspension expires or is removed; or
-    (c) in the case where a court authorises the issue of a limited licence, issue a new licence to the person.
+[Repealed]
 
 ### 11 New section 36AB inserted
 The following section is inserted after section 36A:Contravention of sections 7 and 114
@@ -183,37 +174,19 @@ Section 62(1B) is amended by repealing paragraph (c) and substituting the follow
 Section 79(4)(e) is amended by omitting controlled drug or any prescription medicine in each place where it appears and substituting in each case qualifying drug.
 
 ### 17 Effect of disqualification
-Section 82 is amended by adding the following subsection:
-  (3) If a disqualification relates to every class or endorsement specified on a driver licence or temporary driver licence held by a person, then that person's driver licence or temporary driver licence is to be treated as cancelled.
+[Repealed]
 
 ### 18 New sections 82A and 82B inserted
-The following sections are inserted after section 82:Application for reinstatement if disqualified or suspended for a period not exceeding 12 monthsTransitional provision in relation to reinstatement fees
-  (1) This section applies to a person if—
-    (a) the person's driver licence or temporary driver licence is suspended or treated as cancelled under section 82; and
-    (b) the person's period or periods of disqualification or suspension do not exceed 12 months; and
-    (c) the person is not required to undergo any test or examination or undertake any course to renew his or her driver licence.
-  (2) If this section applies, a person may apply for reinstatement of the person's driver licence or temporary driver licence in accordance with the regulations and the rules.
-  A person must reinstate his or her driver licence and pay the prescribed reinstatement fee if, before the commencement of this section,—
-    (a) the person has been disqualified from holding or obtaining a driver licence, for a period of not more than 12 months; or
-    (b) the person's driver licence is suspended under section 90.
+[Repealed]
 
 ### 19 Holder to undergo approved tests or courses if disqualified for more than 1 year
 Section 83(1)(b) is amended by omitting or endorse the existing licence.
 
 ### 20 New licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes
-(1) The heading to section 84 is amended by omitting or endorsement.
-(2) Section 84(1)(a) is amended by omitting section 83(1) and substituting section 82A or 83(1).
-(3) Section 84 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) If this section applies, then the Agency must issue a new licence to that person to authorise that person to drive the relevant class of motor vehicle and all lower classes of motor vehicles for which that person held a licence immediately before he or she was disqualified.
+[Repealed]
 
 ### 21 Suspension of licence or disqualification from driving under demerit points system
-(1) Section 90 is amended by repealing subsection (1) and substituting the following subsection:
-  (1) If, in any 2-year period, a total of 100 or more demerit points have effect against a person, the Agency must give notice in writing to the person that,—
-    (a) if the person holds a current driver licence or temporary driver licence on the date of the giving of the notice, suspends that person's driver licence or temporary driver licence for 3 months by informing the person that—
-      (i) the person ceases to be licensed for 3 months owing to a suspension; and
-      (ii) the person's driver licence or temporary driver licence is cancelled:
-    (b) if the person does not hold a current driver licence or temporary driver licence on the date of the giving of the notice, disqualifies the person from holding or obtaining a driver licence or temporary driver licence for 3 months.
-(2) Section 90(3) is amended by inserting , and the person's driver licence or temporary driver licence is cancelled, after starts.
+[Repealed]
 
 ### 22 Vehicle seized and impounded for 28 days in certain circumstances
 (1) Section 96 is amended by inserting the following subsection after subsection (1):
@@ -447,22 +420,3 @@ Despite anything in these regulations, a person may not be subject to proceeding
 | Part 1 of the notice in Schedule 4: insert after the second paragraph (b): |  |
 | □ | cyou failed to stop in the circumstances referred to in section 96(1AA) of the Act; or |
 | □ | dyou failed to stop in the circumstances referred to in section 96(1AB) of the Act. |
-
-| 7. | 3(1)(a) | Fee to reinstate a licence | 65.00 |
-| --- | --- | --- | --- |
-
-### 67B Reinstatement of driver licence after end of suspension or disqualification for a period of not more than 12 months
-(1) The Agency may, on the application of a person who has been disqualified for a period of not more than 12 months, or whose licence has been suspended due to demerit points, reinstate that person's licence.
-(2) A person is entitled to have his or her driver licence reinstated if—
-  (a) the person has served their disqualification or suspension, and there are no further subsequent periods of disqualification or suspension left to serve as of the date of application; and
-  (b) the person complies with clause 67(2)(a); and
-  (c) in the case of an applicant of 75 years of age or over, the person produces a medical certificate in accordance with clause 44; and
-  (d) the person passes the on-road safety test, if referred for the test under clause 44B; and
-  (e) in the case of an applicant for a licence of any of Classes 2, 3, 4, or 5, the person produces a medical certificate in accordance with clause 44.
-(3) A reinstated driver licence may be issued with an expiry date that is 10 years after the expiry date of the licence being reinstated if—
-  (a) the driver licence being reinstated is due to expire within 12 months of the date of the application, or has expired within the 5 years immediately preceding the date of application; and
-  (b) the applicant will be younger than 64 years on the date that the licence is due to expire.
-(4) The expiry date specified on the reinstated licence must be the date of the person’s 75th birthday if—
-  (a) the driver licence being reinstated is due to expire within 12 months of the date of the application, or has expired within the 5 years immediately preceding the date of application; and
-  (b) the applicant will be older than 64 years, but younger than 75 on the date that the licence is due to expire.
-(5) If a driver licence being reinstated has expired for more than 5 years immediately preceding the date of application, clause 67A(2) to (6) apply.
