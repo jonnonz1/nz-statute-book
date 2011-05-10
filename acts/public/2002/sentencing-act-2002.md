@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2257,7 +2257,7 @@ As soon as an order has been entered in the records of the Family Court under se
 **Disqualification from driving**
 
 ### 124 Power of court to disqualify offenders from driving motor vehicles
-(1) This section applies if a person is convicted of an offence punishable by imprisonment, not being an offence against the Transport Act 1962 or the Land Transport Act 1998.
+(1) This section applies if a person is convicted of an offence punishable by imprisonment, not being an offence against the Land Transport Act 1998.
 (2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court is satisfied that,—
   (a) the commission of the offence was facilitated by the use of a motor vehicle by the offender, whether or not the offender was the driver or person in charge; or
   (b) a motor vehicle was used by the offender, whether or not the offender was the driver or person in charge, for the purpose of facilitating his or her flight or avoiding his or her detection or arrest after the commission of the offence.
