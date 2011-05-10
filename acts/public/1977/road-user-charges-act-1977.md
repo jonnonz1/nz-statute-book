@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
@@ -18,14 +18,12 @@ _Consolidation as at 2011-05-01_
     (a) in the case of a motor vehicle that is required to be fitted with a hubodometer by regulations made under this Act, a hubodometer of the kind required to be fitted:
     (b) in the case of any other motor vehicle, a distance recorder that records in kilometres or miles and that is of a nature and accuracy sufficient to provide a reliable record of the distance travelled by the vehicle
   - **distance to which the licence relates** , in relation to a distance licence or a supplementary licence, means the distance arrived at by subtracting the minimum reading specified in the licence from the maximum reading specified in the licence
-  - **gross laden weight** , in relation to a motor vehicle, means the greater of the following weights:
+  - **gross laden weight** , in relation to a motor vehicle, means the greater of the following weights:provided that if, in respect of a motor vehicle, no evidence of any such weight has been adduced, the term means, in relation to that vehicle, the total of the unladen weight of the vehicle and the weight of the maximum load that the vehicle may safely carry
     (a) any weight specified (subsequent to the latest modification thereof, if any) as the gross laden weight of the vehicle by the manufacturer thereof:
     (b) any weight specified as the gross laden weight of the vehicle, or of a vehicle of that kind, by the Secretary for Transport, by notice in the Gazette or by notice to an owner of the vehicle:
-      provided that if, in respect of a motor vehicle, no evidence of any such weight has been adduced, the term gross laden weight means, in relation to that vehicle, the total of the unladen weight of the vehicle and the weight of the maximum load that the vehicle may safely carry
-  - **gross weight** , in relation to a motor vehicle, means the weight which is transmitted to the road surface through the axle or group of axles of the vehicle, and includes all weight exerted on that vehicle by any other vehicle:
-    provided that—
-      (a) without limiting the methods by which the gross weight of a vehicle may be determined, the gross weight of a motor vehicle may be determined by adding the weight transmitted to the road surface at different parts of the vehicle:
-      (b) where the gross weight of any one of a combination of vehicles is to be ascertained, nothing in this Act shall require the vehicles comprising the combination to be detached from each other and be separately weighed
+  - **gross weight** , in relation to a motor vehicle, means the weight which is transmitted to the road surface through the axle or group of axles of the vehicle, and includes all weight exerted on that vehicle by any other vehicle:provided that—
+    (a) without limiting the methods by which the gross weight of a vehicle may be determined, the gross weight of a motor vehicle may be determined by adding the weight transmitted to the road surface at different parts of the vehicle:
+    (b) where the gross weight of any one of a combination of vehicles is to be ascertained, nothing in this Act shall require the vehicles comprising the combination to be detached from each other and be separately weighed
   - **issuing officer** means any person or member of a class of persons authorised by the chief executive to act as an issuing officer for the purposes of this Act
   - **licence** means a distance licence, a time licence, or a supplementary licence
   - **light electric motor vehicle** means a motor vehicle whose motive power is wholly or partly derived from an external source of electricity and whose gross laden weight is 3.5 tonnes or less
@@ -35,7 +33,6 @@ _Consolidation as at 2011-05-01_
   - **motor vehicle** means a vehicle drawn or propelled by mechanical power, and includes a trailer; but does not include—
     (a) a vehicle that the Director has declared is not a motor vehicle under section 168A of the Land Transport Act 1998; or
     (b) a mobility device as defined in section 2(1) of the Land Transport Act 1998
-  - **motor spirits duty** has the same meaning as in section 187(1) of the Transport Act 1962 (as substituted by section 2 of the Transport Amendment Act 1975)
   - **off-road motor vehicle** means a motor vehicle of a class specified in Schedule 2
   - **to operate** means to use or drive or ride on any road, or cause or permit to be driven or ridden on any road, or to permit to be on any road, whether the person operating is present in person or not
   - **owner** , in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998
@@ -61,7 +58,7 @@ _Consolidation as at 2011-05-01_
   - **to use** , in relation to a motor vehicle, includes to drive, draw, or propel by means of another vehicle
   - **vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **vehicle type number** , in relation to a motor vehicle, means the number prescribed, in Schedule 2 (in the case of an off-road motor vehicle) or Schedule 1 (in the case of any other motor vehicle), as the vehicle type number for the class of motor vehicle to which the motor vehicle belongs
-  - **weight** , in relation to an axle, a group of axles, or a motor vehicle, means the weight, or (as the case may be), the sum of the weights, recorded on a weighing device of a type approved by the Minister of Police for the purposes of the definition of the term in the Land Transport Act 1998, and used in a manner prescribed by the Minister of Police by notice in the Gazette for the purposes of that term under that Act
+  - **weight** , in relation to an axle, a group of axles, or a motor vehicle, means the weight or (as the case may be), the sum of the weights, recorded on a weighing device of a type approved by the Minister of Police for the purposes of the definition of the term weight in the Land Transport Act 1998, and used in a manner prescribed by the Minister of Police by notice in the Gazette for the purposes of that term under that Act
   - **year** means a period of 12 months ending with the last day of June.
 (2) For the purposes of this Act, every trailer (whether attached to another motor vehicle or not) shall be deemed to be a separate motor vehicle.
 (3)
@@ -128,18 +125,18 @@ No person shall operate an off-road motor vehicle (as defined in section 2) on a
   (b) contain such information as is prescribed by regulations made under section 24.
 (2) Without limiting subsection (1)(b), any such regulations may—
   (a) specify the persons who are entitled to make applications and hold licences:
-  (b) require an applicant to furnish the chief executive with a completed bank authority, on a form provided by the chief executive or by a bank, directing a specified bank to effect an automatic transfer of funds to the Crown Bank Account, where an applicant wishes to make payments under this Act in that manner:
+  (b) require an applicant to furnish the chief executive with a completed bank authority, on a form provided by the chief executive or by a bank, directing a specified bank to effect an automatic transfer of funds to a Crown Bank Account, where an applicant wishes to make payments under this Act in that manner:
   (c) prescribed the manner of calculating the distance to which the licence relates, in the case of a distance licence.
-(3) In every application under this section for a distance licence for a motor vehicle, the minimum reading to be specified in the licence shall not be greater than the maximum reading specified in the last properly issued licence for that vehicle. Where an application for a distance licence is made in contravention of this subsection, the amount arrived at by multiplying the distance in kilometres by which the minimum reading was overstated by the road user charge per kilometre for that licence shall, until paid in full to, or remitted by, the chief executive, constitute a debt to the Crown by the applicant for the licence, and may be recovered accordingly in any Court of competent jurisdiction.
+(3) In every application under this section for a distance licence for a motor vehicle, the minimum reading to be specified in the licence shall not be greater than the maximum reading specified in the last properly issued licence for that vehicle. Where an application for a distance licence is made in contravention of this subsection, the amount arrived at by multiplying the distance in kilometres by which the minimum reading was overstated by the road user charge per kilometre for that licence shall, until paid in full to, or remitted by, the chief executive, constitute a debt to the Crown by the applicant for the licence, and may be recovered accordingly in any court of competent jurisdiction.
 
-### 9 Road User Charges
+### 9 Road user charges
 (1) Subject to subsection (3) and to any regulations made under this Act, every application under section 8 for a licence shall be accompanied by the appropriate road user charge for that licence calculated in accordance with Schedule 3 together with the prescribed administration fee.
-(2) Subject to subsection (3), where a licence is issued under this Act, the amount of the appropriate road user charge for the licence and the prescribed administration fee shall, until paid in full to the Registrar or the chief executive, constitute a debt due to the Crown by the applicant for the licence, and may be recovered accordingly in any Court of competent jurisdiction.
+(2) Subject to subsection (3), where a licence is issued under this Act, the amount of the appropriate road user charge for the licence and the prescribed administration fee shall, until paid in full to the Registrar or the chief executive, constitute a debt due to the Crown by the applicant for the licence, and may be recovered accordingly in any court of competent jurisdiction.
 (3) Where the chief executive is of the opinion, after considering the road wear that is likely to be caused by the vehicle to which the licence relates, that a road user charge calculated in accordance with Schedule 3 is excessive in respect of any particular licence, he may, in his absolute discretion, remit part of the charge; and if the full charge has been paid may cause the part remitted to be refunded to the applicant for the licence.
 
 ### 10 Issue of licences
 (1) Every licence shall be in the prescribed form and colour and contain the prescribed information.
-(2) No licence shall relate to more than one vehicle.
+(2) No licence shall relate to more than 1 vehicle.
 (3) Licences may be issued—
   (a) by the chief executive in such manner as he or she thinks fit:
   (b) by such persons (whether or not employed in the Ministry of Transport) and in such manner as the chief executive may authorise in that behalf.
@@ -239,30 +236,30 @@ Notwithstanding any other provision of this Act,—
 (3) The chief executive may, in an application to a District Court Judge for the purposes of subsection (1), specify any convictions relating to offences under section 23 that have, during the period of 6 years immediately preceding the date of the application, been entered against the person specified in the application.
 
 ### 18B Provisions relating to inquiries
-(1) For the purposes of any inquiry under section 18A, the District Court Judge may, of his own motion or on application, by written notice served on the person,—if any District Court Judge is satisfied that any person who has been summoned under paragraph (a) will not attend to give evidence without being compelled to do so, he may issue a warrant (in the same form, with all necessary modifications, as is prescribed for the purposes of section 20(4) of the Summary Proceedings Act 1957) for the attendance of that person at the inquiry.
+(1) For the purposes of any inquiry under section 18A, the District Court Judge may, of his own motion or on application, by written notice served on the person,—If any District Court Judge is satisfied that any person who has been summoned under paragraph (a) will not attend to give evidence without being compelled to do so, he may issue a warrant (in the same form, with all necessary modifications, as is prescribed for the purposes of section 20(4) of the Summary Proceedings Act 1957) for the attendance of that person at the inquiry.
   (a) summon before him any person or persons (including, where the inquiry relates to a body corporate, any director or employee of the body) to give evidence; and
   (b) require any person to produce for the inspection of the Judge, or of any other person authorised by the Judge for this purpose, any books, papers, accounting records, or other documents, or things, that are relevant to the inquiry.
 (2) At any inquiry under section 18A,—
-  (a) the District Court Judge may examine on oath any person; and for that purpose the Judge or a Registrar of a Court may administer an oath; and
+  (a) the District Court Judge may examine on oath any person; and for that purpose the Judge or a Registrar of a court may administer an oath; and
   (b) the District Court Judge may receive as evidence any statement, document, information, matter, or thing, that in his opinion may assist him to deal effectively with the subject of the inquiry, whether or not it would ordinarily be admissible as evidence; and
   (c) the chief executive, and the person specified in the chief executive's application under section 18A, may each be represented by a counsel or agent; and
   (d) the chief executive and the person specified in the chief executive's application, or any counsel or agent representing them, may examine, cross-examine, and re-examine, in accordance with the ordinary practice, any person summoned pursuant to subsection (1).
 (3) Every inquiry under section 18A shall take place in chambers and at such time or times as the District Court Judge determines.
-(4) The statement of every person examined under this section shall be taken down in writing, and signed by him in the presence of the District Court Judge and copies thereof shall be delivered to the chief executive and to the person specified in the chief executive's application. The statement shall not form part of the records of the Court.
+(4) The statement of every person examined under this section shall be taken down in writing, and signed by him in the presence of the District Court Judge, and copies thereof shall be delivered to the chief executive and to the person specified in the chief executive's application. The statement shall not form part of the records of the court.
 (5) No person examined under this section shall be excused from answering any question on the ground that the answer may incriminate him or render him liable to any penalty.
 (6) No statement made by any person in answer to any question put to him in examination under this section, or document or thing produced pursuant to a requirement under this section, shall in criminal proceedings be admissible in evidence against him, except upon a charge of perjury against him in respect of his testimony upon that examination.
-(7) A District Court Judge may, for the purpose of assisting him in the exercise of his powers under section 18C, appoint any Registrar of a Court, chartered accountant, or other person or persons to inspect documents and things produced pursuant to a requirement under subsection (1)(b) and consider statements made during the inquiry, and to report to him thereon.
+(7) A District Court Judge may, for the purpose of assisting him in the exercise of his powers under section 18C, appoint any Registrar of a court, chartered accountant, or other person or persons to inspect documents and things produced pursuant to a requirement under subsection (1)(b) and consider statements made during the inquiry, and to report to him thereon.
 (8) A District Court Judge may order that any costs (or such part thereof as is specified by the Judge) incurred by—in respect of an inquiry to which this section relates, shall be paid by the chief executive or the person specified in the chief executive's application, or both (in proportions specified by the Judge); and in any such case the costs so awarded shall be recoverable as a debt due by the person against whom they have been awarded to the person in whose favour they have been awarded.
   (a) the chief executive; or
   (b) the person specified in the chief executive's application; or
-  (c) any person summoned, or required to produce a document or thing under this section,—
+  (c) any person summoned, or required to produce a document or thing, under this section,—
 
 ### 18C District Court Judge may make assessment
 (1) Where, after holding an inquiry under section 18A and considering any reports obtained pursuant to section 18B(7), a District Court Judge considers, on the balance of probabilities, that all the appropriate licences that ought to have been obtained for the motor vehicles specified in the chief executive's application during the period, and while they were owned by the person, so specified were not obtained, he may make an assessment of the amount of road user charges that in his opinion ought to have been, but were not, paid to the Crown in respect of those motor vehicles while they were owned by that person during that period.
 (2) In giving reasons for an assessment under this section a District Court Judge need not indicate how the assessment is calculated or what licences he considers ought to have been obtained.
-(3) Every assessment made by a District Court Judge under this section shall be delivered by him in open Court.
+(3) Every assessment made by a District Court Judge under this section shall be delivered by him in open court.
 (4) A District Court Judge may, when delivering an assessment, state the date from which the amount of the assessment shall be payable to the chief executive pursuant to subsection (5), which date may be earlier than the date the assessment is so delivered.
-(5) Where a District Court Judge makes an assessment under this section, the amount of the assessment shall, from the date the Judge delivers his assessment (or such other date, if any, as the Judge specifies pursuant to subsection (4)), be payable to the chief executive by the person specified in the chief executive's application under section 18A; and, until paid in full to the chief executive, the amount shall constitute a debt due to the Crown by the person and may be recovered accordingly in any Court of competent jurisdiction.
+(5) Where a District Court Judge makes an assessment under this section, the amount of the assessment shall, from the date the Judge delivers his assessment (or such other date, if any, as the Judge specifies pursuant to subsection (4)), be payable to the chief executive by the person specified in the chief executive's application under section 18A; and, until paid in full to the chief executive, the amount shall constitute a debt due to the Crown by the person and may be recovered accordingly in any court of competent jurisdiction.
 
 ### 18D District Court Judge may make assessment by consent
 A District Court Judge may, instead of holding an inquiry and making an assessment under sections 18A and 18C, make an assessment by consent of the chief executive and the person specified in the chief executive's application under section 18A, and subsections (2), (3), (4), and (5) of section 18C shall apply to the assessment by consent accordingly.
@@ -284,10 +281,10 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
 ### 20 Power to alter rates of road user charges by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, reduce or increase any or all of the rates of road user charges specified in Schedule 3.
 (1A) An Order in Council made under this section that increases all or any of the rates of road user charges specified in Schedule 3 comes into force 42 days after the date of its notification in the Gazette, or on any later date that may be specified in the order.
-(2) Every Order in Council made under this section shall be laid before the House of Representatives not later than the sixteenth sitting day of the House of Representatives after the day on which it is made.
+(2) Every Order in Council made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which it is made.
 (3) Every Order in Council made under this section shall,—
-  (a) where the Order in Council is made on or before the 30th day of June in any year, expire on the close of the 31st day of December of that year except so far as it is expressly validated or confirmed by Act of Parliament passed during that year; and
-  (b) where the Order in Council is made on or after the 1st day of July in any year, expire on the close of the 31st day of December in the following year except so far as it is expressly validated or confirmed by Act of Parliament passed before the end of that following year.
+  (a) where the Order in Council is made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly validated or confirmed by Act of Parliament passed during that year; and
+  (b) where the Order in Council is made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly validated or confirmed by Act of Parliament passed before the end of that following year.
 (4) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (3), the road user charge rate or rates altered by that Order in Council or provision shall, from the expiry of that Order in Council or provision and until it is or they are again altered, be the same as it was or they were immediately before that Order in Council or provision came into force.
 (5) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (3), any charges collected under that Order in Council or provision in excess of the charges otherwise payable shall, except so far as any other provision is made by an Act of Parliament in respect thereof, be refunded upon application made to the chief executive.
 (6) Every application under subsection (5) shall be in a form provided for the purpose by the chief executive, and shall contain such information as the chief executive considers necessary to enable the refund to be made in accordance with this section.
@@ -297,8 +294,8 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
 (1) This section applies if a road user charge rate specified in Schedule 3 is increased under section 20 or by any other Act.
 (2) Despite any other provision of this Act, a distance licence or supplementary licence for a motor vehicle whose gross laden weight is more than 3.5 tonnes issued before the increase comes into force is no longer valid after the expiry of 1 month from the date of the increase.
 
-### 21A Additional charges for default in payment of amounts due
-(1) Subject to subsection (3), if any debt due to the Crown by virtue of this Act (being a road user charge, administration fee, assessment under section 18C or section 18D, amount payable under section 8(3), or part thereof) is not paid to the Crown within 3 months of the date it first becomes due, an amount calculated in accordance with subsection (2) shall be added to the debt by way of an additional charge and may be recovered accordingly by the Crown from the person who owed the debt in any Court of competent jurisdiction.
+### 21A Additional charges for default in payment of amounts due under principal Act
+(1) Subject to subsection (3), if any debt due to the Crown by virtue of this Act (being a road user charge, administration fee, assessment under section 18C or section 18D, amount payable under section 8(3), or part thereof) is not paid to the Crown within 3 months of the date it first becomes due, an amount calculated in accordance with subsection (2) shall be added to the debt by way of an additional charge and may be recovered accordingly by the Crown from the person who owed the debt in any court of competent jurisdiction.
 (2) For the purposes of subsection (1), an additional charge shall be an amount equal to 10% of the debt.
 (3) On written application for relief made by or on behalf of any person who has become liable under this section for the payment of any additional charge, the chief executive, if having regard to the circumstances of the case he thinks it equitable to do so, may grant relief to the person—
   (a) by the remission of the whole or any part of the additional charge; or
@@ -313,7 +310,7 @@ All road user charges (excluding applicable refunds, and goods and services tax 
 ### 22AA Other amounts received under this Act
 (1) This section applies to amounts that are received under this Act and that are not referred to in section 22.
 (2) Amounts to which this section applies must be paid to the relevant prescribed recipient.
-(3) However, if there is no prescribed recipient to whom any amounts to which this section applies must be paid, those amounts must be paid into the Crown Bank Account.
+(3) However, if there is no prescribed recipient to whom any amounts to which this section applies must be paid, those amounts must be paid into a Crown Bank Account.
 (4) For the purposes of this section, prescribed recipient means the person who is specified in regulations made under this Act or any other enactment as the person to whom any amounts to which this section applies are payable.
 
 ### 22A Restrictions on fitting and repair of hubodometers
@@ -331,6 +328,20 @@ All road user charges (excluding applicable refunds, and goods and services tax 
   (b) cause a label bearing that identifier to be affixed to the hubodometer to seal the device.
 (5) For the purposes of this section, sell includes supply for the purposes of fitting to a vehicle.
 
+### 22C Removal and retention of hubodometers for enforcement purposes
+(1) An authorised enforcement officer or a person authorised by the chief executive may—
+  (a) remove, or require the removal of, any hubodometer from any motor vehicle on any road for the purpose of determining whether the hubodometer has been tampered with or modified:
+  (b) seize and retain for the purposes of any criminal proceedings, or any proceedings under section 18A,—
+    (i) any hubodometer on any motor vehicle on any road, or any hubodometer removed from a vehicle under paragraph (a), if the authorised enforcement officer or authorised person believes on reasonable grounds that the hubodometer—
+      (A) has been tampered with or modified (otherwise than in accordance with section 22A); or
+      (B) bears a serial number common to any other hubodometer of the same make:
+    (ii) any licence carried or displayed in or on any motor vehicle on any road, or produced to the authorised enforcement officer or authorised person by any person, if the authorised enforcement officer or authorised person believes on reasonable grounds that the licence has been altered, is expired, is invalid, or is a forgery.
+(2) If a hubodometer or licence is retained by an authorised enforcement officer or authorised person under subsection (1),—
+  (a) the operator of the vehicle from which the hubodometer is removed or to which the licence relates may cause the vehicle to be moved for a distance, not exceeding 100 kilometres, that may be necessary for the purpose of obtaining a replacement hubodometer or licence, or both; and
+  (b) the vehicle is to be treated as being fitted with a proper hubodometer or to have a valid licence displayed or both (as the case may be) while it is being moved.
+(3) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with or does any act in contravention of any direction given under this section.
+(4) For the purposes of this section, enforcement officer has the same meaning as in section 2(1) of the Land Transport Act 1998.
+
 ### 23 Offences
 (1) Subject to subsections (3), (3A), (3B), (3C), and (4) but without limiting subsection (2), every person who—commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $3,000.
   (a) operates a motor vehicle on a road in contravention of section 5 or section 6; or
@@ -338,8 +349,8 @@ All road user charges (excluding applicable refunds, and goods and services tax 
   (ba) contravenes section 10A; or
   (c) operates on a road any motor vehicle bearing a licence that has been altered or defaced or that is in any way obscured or not easily distinguishable; or
   (ca) operates on a road any motor vehicle for which a licence is required that does not have such a licence displayed as required by section 19; or
-  (d) displays or causes to be displayed on any motor vehicle anything (not being a licence) that is likely to be mistaken for a licence; or any licence that is not current (other than a licence that immediately precedes, or immediately follows the current licence) or is no longer valid or that does not relate to the motor vehicle; or
-  (e) operates any motor vehicle that has displayed on it anything (not being a licence) that is likely to be mistaken for a licence, or any licence that is not current (other than a licence that immediately precedes, or immediately follows the current licence) or is no longer valid or that does not relate to the motor vehicle; or
+  (d) displays or causes to be displayed on any motor vehicle anything (not being a licence) that is likely to be mistaken for a licence; or any licence that is not current (other than a licence that immediately precedes, or immediately follows, the current licence) or is no longer valid or that does not relate to the motor vehicle; or
+  (e) operates any motor vehicle that has displayed on it anything (not being a licence) that is likely to be mistaken for a licence, or any licence that is not current (other than a licence that immediately precedes, or immediately follows, the current licence) or is no longer valid or that does not relate to the motor vehicle; or
   (ea) fails without reasonable excuse to comply with any requirement made under section 17A(1); or
   (eb) fails to produce any licence when required to do so under section 19(2); or
   (f) makes any application under this Act that he knows or ought to know is incorrect in a material particular; or
@@ -352,15 +363,15 @@ All road user charges (excluding applicable refunds, and goods and services tax 
 (2) Subject to subsections (3), (3A), (3B), (3C), and (4) but without limiting subsection (1), where—the owner of the motor vehicle commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $15,000.
   (a) a motor vehicle is operated on a road in contravention of section 5 or section 6; or
   (b) an application for a licence for a motor vehicle is made that is incorrect in a material particular—
-(2A) It shall be a defence in proceedings for an offence against paragraph (d) or paragraph (e) or paragraph (eb) of subsection (1) of this section if the defendant produces proof of purchase of a licence under section 10(5).
+(2A) It shall be a defence in proceedings for an offence against paragraph (d) or paragraph (e) or paragraph (eb) of subsection (1) if the defendant produces proof of purchase of a licence under section 10(5).
 (3) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road without the appropriate distance licence or supplementary licence if the defendant proves that—
   (a) it was not possible to obtain the licence at any time during the period between the time when the need for the licence was reasonably foreseeable by the defendant or any employee or agent thereof, and the time when the alleged offence was committed; and
   (b) an appropriate licence covering the distance for which the motor vehicle was on a road in contravention of this Act was obtained for the motor vehicle forthwith after the commission of the alleged offence.
-(3A) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road when the reading of the distance recorder is more than the maximum reading specified in the licence displayed in the vehicle at the time of the offence, if the Court is satisfied that—
+(3A) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road when the reading of the distance recorder is more than the maximum reading specified in the licence displayed in the vehicle at the time of the offence, if the court is satisfied that—
   (a) the reading of the distance recorder did not exceed by more than 500 kilometres that maximum reading; and
   (b) the gross weight of the motor vehicle was not more than the maximum gross weight specified in that licence; and
   (c) as soon as reasonably practical after the offence was drawn to the attention of the defendant, a further licence was purchased specifying not less than the maximum gross weight of the motor vehicle and for a distance of not less than the amount by which the reading of the distance recorder exceeded the maximum reading of the licence displayed in the vehicle at the time of the offence.
-(3B) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road when the gross weight of that motor vehicle is more than the maximum gross weight specified in the licence carried or displayed on that motor vehicle, if the Court is satisfied that, having regard to the maximum gross weights specified in the licences carried or displayed on any other attached vehicles, and to the actual gross weights of those attached vehicles, sufficient payment has been made in total to cover the charges that apply for the actual loadings on the individual vehicles at the time of the offence.
+(3B) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road when the gross weight of that motor vehicle is more than the maximum gross weight specified in the licence carried or displayed on that motor vehicle, if the court is satisfied that, having regard to the maximum gross weights specified in the licences carried or displayed on any other attached vehicles, and to the actual gross weights of those attached vehicles, sufficient payment has been made in total to cover the charges that apply for the actual loadings on the individual vehicles at the time of the offence.
 (3C) It shall be a defence in proceedings for an offence of operating a motor vehicle on a road when the distance licence carried or displayed on the motor vehicle specifies the wrong vehicle type number of that motor vehicle if the defendant proves that—
   (a) the vehicle was fitted with a lifting axle which was not transmitting a portion of the weight of the vehicle to the roadway at the time of the offence; and
   (b) the vehicle was unladen, except for normal operating gear; and
@@ -377,19 +388,19 @@ All road user charges (excluding applicable refunds, and goods and services tax 
   (c) who fails or refuses to produce any document or thing for the inspection of the Judge, or of any person authorised by the Judge for this purpose, when required to do so pursuant to section 18B(1)(b)—
   provided that no person shall be convicted of an offence against paragraph (a) unless, at the time of the service of the summons or at some other reasonable time before the date on which that person was required to attend, there was paid or tendered to that person a sum sufficient to provide for his reasonable travel expenses in attending the inquiry.
 (5) Notwithstanding section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made thereunder may be laid at any time within 2 years from the time when the matter of the information arose.
-(6) Any offence against this Act that is specified in Part 4 of Schedule 2 to the Transport Act 1962 as an excess weight offence or a distance recorder offence or as an infringement offence under the Land Transport Act 1998 may be proceeded with as an infringement offence in accordance with section 42A of that Act or the Land Transport Act 1998.
-(7) For the avoidance of doubt, it is hereby declared that, in any proceedings for an offence of operating a motor vehicle on a road in contravention of section 5 or section 6, it is not necessary for the prosecution to prove that any licence required to be carried on the vehicle either had been or had not been displayed in accordance with section 19 of this Act.
-(8) Where a person breaches the requirements of a licence in more than one particular, each such breach, to the extent that it constitutes an offence against this Act, constitutes a separate offence.
+(6) Any offence against this Act that is specified in Schedule 4 as an excess weight offence or a distance recorder offence or as an infringement offence under the Land Transport Act 1998 may be proceeded with as an infringement offence in accordance with the Land Transport Act 1998.
+(7) For the avoidance of doubt, it is hereby declared that, in any proceedings for an offence of operating a motor vehicle on a road in contravention of section 5 or section 6, it is not necessary for the prosecution to prove that any licence required to be carried on the vehicle either had been or had not been displayed in accordance with section 19.
+(8) Where a person breaches the requirements of a licence in more than 1 particular, each such breach, to the extent that it constitutes an offence against this Act, constitutes a separate offence.
 
 ### 23A Evidence in proceedings
 (1) A document certified by an officer or employee of the Ministry of Transport, or by a person authorised by the chief executive for the purpose, to be a record held for the purposes of this Act shall be received as prima facie evidence—
   (a) in any inquiry under section 18A:
-  (b) in any proceedings for an offence against this Act or the Transport Act 1962 or the Land Transport Act 1998 or any regulations made under any of those Acts:
+  (b) in any proceedings for an offence against this Act or the Land Transport Act 1998 or any regulations made under either of those Acts:
   (c) in any proceedings for the revocation of a transport services licence under the Transport Services Licensing Act 1989.
 (2) For the purposes of this section, a record held for the purposes of this Act includes a copy of a licence issued under this Act and a computer record held for the purposes of this Act; and, in this subsection, computer record includes a microfiche, a microfiche printout, a computer printout, or any other document produced by a device by means of which information is recorded or stored.
 
 ### 23B Admissibility of certain statements
-(1) Notwithstanding any enactment or rule of law, any statement that is made to a constable or a traffic officer who is a non-sworn member of the Police by the driver of any vehicle to which this Act applies that relates to—may be given in evidence by that constable or traffic officer and shall be admissible in any proceedings for an offence against this Act as evidence of the matters referred to in the statement.
+(1) Notwithstanding any enactment or rule of law, any statement that is made to a constable or a traffic officer who is a Police employee who is not a constable by the driver of any vehicle to which this Act applies that relates to—may be given in evidence by that constable or traffic officer and shall be admissible in any proceedings for an offence against this Act as evidence of the matters referred to in the statement.
   (a) the identity of the employer of that driver; or
   (b) any matter that is by any enactment to be specified in any logbook—
 (2) Notwithstanding any enactment or rule of law, any statement that—may be given in evidence by that authorised employee and shall be admissible in any proceedings for an offence against this Act as evidence of the matters referred to in the statement.
@@ -439,7 +450,7 @@ All road user charges (excluding applicable refunds, and goods and services tax 
 (2)
 
 ### 26 Repeal of provisions relating to heavy-traffic licences
-(1) Amendment(s) incorporated in the Act(s)
+(1) Amendment(s) incorporated in the Act(s).
 (2) Notwithstanding any other provision of this Act, heavy-traffic licences that are issued pursuant to regulations made under paragraphs (l) and (m) of section 77(1) of the Transport Act 1962 for a term expiring after 28 February 1978 may be surrendered, and part of the licence fee paid in respect thereof may be refunded to the licensee, as if this Act had not been passed.
 
 ### 27 Refund of motor spirits duty
@@ -456,10 +467,7 @@ All road user charges (excluding applicable refunds, and goods and services tax 
 
 ### 31 Consequential repeals
 The following enactments are hereby consequentially repealed—
-  (a) section 13 of, and the Schedule to, the Transport Amendment Act 1965:
-  (b) section 20 of the Transport Amendment Act 1971:
-  (c) section 29 of the Transport Amendment Act 1974:
-  (d) section 3 of the Transport Amendment Act 1975:
+  ((a)–(d)) Amendment(s) incorporated in the Act(s).
   (e) the Transport Amendment Act (No 2) 1976.
 
 **Amendments to National Roads Act 1953**
@@ -483,51 +491,51 @@ The following enactments are hereby consequentially repealed—
 
 | Class of motor vehicle |  |  | Vehicle type number |
 | --- | --- | --- | --- |
-| 1. | Powered vehicles with 2 axles with: |  |  |
+| 1 | Powered vehicles with 2 axles with: |  |  |
 |  | (a) | 1 single-tyred spaced axle and 1 twin-tyred spaced axle | 2 |
 |  | (b) | any other configuration | 1 |
-| 2. | Powered vehicles with 3 axles with: |  |  |
+| 2 | Powered vehicles with 3 axles with: |  |  |
 |  | (a) | 1 single-tyred axle and 2 twin-tyred axles | 6 |
 |  | (b) | any other configuration | 5 |
-| 3. | Powered vehicles with 4 axles |  | 14 |
-| 4. | Powered vehicles with 5 or more axles |  | 19 |
-| 5. | Unpowered vehicles with 1 axle |  | 24 |
-| 6. | Unpowered vehicles with 2 axles with: |  |  |
+| 3 | Powered vehicles with 4 axles |  | 14 |
+| 4 | Powered vehicles with 5 or more axles |  | 19 |
+| 5 | Unpowered vehicles with 1 axle |  | 24 |
+| 6 | Unpowered vehicles with 2 axles with: |  |  |
 |  | (a) | single-tyred spaced axles | 27 |
 |  | (b) | twin-tyred close axles | 29 |
 |  | (c) | twin-tyred spaced axles | 30 |
 |  | (d) | any other configuration | 28 |
-| 7. | Unpowered vehicles with 3 axles with: |  |  |
+| 7 | Unpowered vehicles with 3 axles with: |  |  |
 |  | (a) | twin-tyred close axles | 33 |
 |  | (b) | any other configuration | 37 |
-| 8. | Unpowered vehicles with 4 or more axles |  | 43 |
+| 8 | Unpowered vehicles with 4 or more axles |  | 43 |
 
 ## Schedule 2 — Off-road motor vehicles
 
 | Class of motor vehicle |  | Vehicle type number |
 | --- | --- | --- |
-| 1. | Trailer scrapers | 70 |
-| 2. | Plant for servicing oil filled cables | 71 |
-| 3. | Road rollers | 72 |
-| 4. | Tractors other than those owned and operated by farmers on their own farms | 73 |
-| 5. | Post debarkers | 74 |
-| 6. | Saw bench apparatus | 75 |
-| 7. | Forestry chippers | 76 |
-| 8. | Sawing or shearing apparatus for tree cutting | 77 |
-| 9. | Stone and gravel crushing and screening plant | 78 |
-| 10. | Asphalt mixing and paving plant | 79 |
-| 11. | Bulldozers and angle dozers | 80 |
-| 12. | Tractor mounted mobile cranes and log skidders. | 81 |
-| 13. | Front end loaders | 82 |
-| 14. | Mobile pile drivers | 83 |
-| 15. | Motor scrapers | 84 |
-| 16. | Self-propelled water carts that are always unladen on the road | 85 |
-| 17. | Self-propelled trench diggers and excavators | 86 |
-| 18. | Self-propelled vehicles that are always unladen on the road and that are designed exclusively for carrying earth or other bulk materials | 87 |
-| 19. | Mobile cranes (excluding mobile vehicle recovery units, truck mounted cranes, and cranes to which a distance recording device is or could readily be fitted) | 88 |
-| 20. | Motor graders | 89 |
-| 21. | Unregistered motor vehicles operated under trade plates | 90 |
-| 22. | Cable jinkers | 91 |
+| 1 | Trailer scrapers | 70 |
+| 2 | Plant for servicing oil filled cables | 71 |
+| 3 | Road rollers | 72 |
+| 4 | Tractors other than those owned and operated by farmers on their own farms | 73 |
+| 5 | Post debarkers | 74 |
+| 6 | Saw bench apparatus | 75 |
+| 7 | Forestry chippers | 76 |
+| 8 | Sawing or shearing apparatus for tree cutting | 77 |
+| 9 | Stone and gravel crushing and screening plant | 78 |
+| 10 | Asphalt mixing and paving plant | 79 |
+| 11 | Bulldozers and angle dozers | 80 |
+| 12 | Tractor mounted mobile cranes and log skidders | 81 |
+| 13 | Front end loaders | 82 |
+| 14 | Mobile pile drivers | 83 |
+| 15 | Motor scrapers | 84 |
+| 16 | Self-propelled water carts that are always unladen on the road | 85 |
+| 17 | Self-propelled trench diggers and excavators | 86 |
+| 18 | Self-propelled vehicles that are always unladen on the road and that are designed exclusively for carrying earth or other bulk materials | 87 |
+| 19 | Mobile cranes (excluding mobile vehicle recovery units, truck mounted cranes, and cranes to which a distance recording device is or could readily be fitted) | 88 |
+| 20 | Motor graders | 89 |
+| 21 | Unregistered motor vehicles operated under trade plates | 90 |
+| 22 | Cable jinkers | 91 |
 
 ## Schedule 3 — Road user charges
 
@@ -687,13 +695,12 @@ The following enactments are hereby consequentially repealed—
 | Incremental rate | 405.21 | 265.12 | 72.65 | 61.21 | 27.16 |
 | 50 | 6,870.81 | 4,498.00 | 1,237.92 | 1,044.21 | 467.50 |
 | Incremental rate | 736.72 | 481.98 | 131.98 | 111.18 | 49.26 |
-|  | 19 | 24 | 27 | 28 | 29 |
-| 1 | 2.15 | 0.80 | 0.76 | 0.76 | 0.75 |
-| 2 | 2.15 | 0.80 | 0.76 | 0.76 | 0.75 |
 
 | Maximum gross weight (in tonnes) to be specified in licence | Vehicle type number ($ per 50 kilometres or 31 miles of distance to which licence relates) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 19 | 24 | 27 | 28 | 29 |
+| 1 | 2.15 | 0.80 | 0.76 | 0.76 | 0.75 |
+| 2 | 2.15 | 0.80 | 0.76 | 0.76 | 0.75 |
 | 3 | 2.25 | 1.21 | 1.00 | 0.98 | 0.94 |
 | 4 | 2.25 | 2.01 | 1.34 | 1.29 | 1.18 |
 | 5 | 2.25 | 3.51 | 1.88 | 1.77 | 1.48 |
@@ -727,34 +734,32 @@ The following enactments are hereby consequentially repealed—
 | Incremental rate | 11.71 | 1,335.25 | 374.60 | 305.60 | 136.83 |
 | 50 | 205.78 | 22,622.00 | 6,350.82 | 5,182.13 | 2,323.50 |
 | Incremental rate | 21.16 | 2,427.92 | 681.05 | 555.58 | 248.68 |
-|  | 30 | 33 | 37 | 43 |  |
-| 1 | 0.75 | 0.75 | 0.75 | 0.75 |  |
-| 2 | 0.75 | 0.75 | 0.75 | 0.75 |  |
-| 3 | 0.95 | 0.92 | 0.92 | 0.92 |  |
-| 4 | 1.20 | 1.11 | 1.11 | 1.09 |  |
-| 5 | 1.53 | 1.31 | 1.33 | 1.28 |  |
-| 6 | 1.99 | 1.55 | 1.58 | 1.48 |  |
-| 7 | 2.47 | 1.71 | 1.76 | 1.58 |  |
-| 8 | 3.38 | 2.08 | 2.16 | 1.87 |  |
-| 9 | 4.60 | 2.52 | 2.66 | 2.18 |  |
-| 10 | 6.36 | 3.03 | 3.25 | 2.49 |  |
-| 11 | 8.84 | 3.66 | 3.97 | 2.86 |  |
-| 12 | 11.80 | 4.42 | 4.88 | 3.29 |  |
-| 13 | 15.51 | 5.35 | 5.99 | 3.80 |  |
-| 14 | 20.13 | 6.48 | 7.36 | 4.40 |  |
-| 15 | 25.82 | 7.90 | 9.17 | 5.11 |  |
-| 16 | 32.73 | 9.69 | 11.24 | 5.95 |  |
-| 17 | 41.03 | 11.70 | 13.67 | 6.92 |  |
-| 18 | 50.90 | 14.07 | 16.54 | 8.04 |  |
-| 19 | 62.53 | 16.85 | 19.92 | 9.37 |  |
-| 20 | 76.12 | 20.07 | 23.86 | 10.94 |  |
-| 21 | 91.88 | 23.85 | 28.36 | 12.69 |  |
-| 22 | 110.04 | 28.09 | 33.53 | 14.69 |  |
-| 23 | 130.82 | 32.92 | 39.42 | 16.96 |  |
 
-| Maximum gross weight (in tonnes) to be specified in licence | Vehicle type number ($ per 50 kilometres or 31 miles of distance to which licence relates) |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | 30 | 33 | 37 | 43 |
+| --- | --- | --- | --- | --- |
+| 1 | 0.75 | 0.75 | 0.75 | 0.75 |
+| 2 | 0.75 | 0.75 | 0.75 | 0.75 |
+| 3 | 0.95 | 0.92 | 0.92 | 0.92 |
+| 4 | 1.20 | 1.11 | 1.11 | 1.09 |
+| 5 | 1.53 | 1.31 | 1.33 | 1.28 |
+| 6 | 1.99 | 1.55 | 1.58 | 1.48 |
+| 7 | 2.47 | 1.71 | 1.76 | 1.58 |
+| 8 | 3.38 | 2.08 | 2.16 | 1.87 |
+| 9 | 4.60 | 2.52 | 2.66 | 2.18 |
+| 10 | 6.36 | 3.03 | 3.25 | 2.49 |
+| 11 | 8.84 | 3.66 | 3.97 | 2.86 |
+| 12 | 11.80 | 4.42 | 4.88 | 3.29 |
+| 13 | 15.51 | 5.35 | 5.99 | 3.80 |
+| 14 | 20.13 | 6.48 | 7.36 | 4.40 |
+| 15 | 25.82 | 7.90 | 9.17 | 5.11 |
+| 16 | 32.73 | 9.69 | 11.24 | 5.95 |
+| 17 | 41.03 | 11.70 | 13.67 | 6.92 |
+| 18 | 50.90 | 14.07 | 16.54 | 8.04 |
+| 19 | 62.53 | 16.85 | 19.92 | 9.37 |
+| 20 | 76.12 | 20.07 | 23.86 | 10.94 |
+| 21 | 91.88 | 23.85 | 28.36 | 12.69 |
+| 22 | 110.04 | 28.09 | 33.53 | 14.69 |
+| 23 | 130.82 | 32.92 | 39.42 | 16.96 |
 | 24 | 154.48 | 38.41 | 46.11 | 19.53 |
 | 25 | 181.26 | 44.60 | 53.67 | 22.42 |
 | 26 | 211.44 | 51.57 | 62.18 | 25.66 |
@@ -770,7 +775,7 @@ The following enactments are hereby consequentially repealed—
 
 | Maximum gross weight (in tonnes) to be specified in licence | Vehicle type number ($ per annum) |  |  |
 | --- | --- | --- | --- |
-|  | 70-81 | 82-87 | 88-91 |
+|  | 70–81 | 82–87 | 88–91 |
 | 1 | 22.62 | 56.57 | 113.15 |
 | 2 | 25.27 | 63.17 | 126.35 |
 | 3 | 29.16 | 72.88 | 145.78 |
@@ -804,7 +809,33 @@ The following enactments are hereby consequentially repealed—
 | Incremental rate | 30.97 | 77.42 | 154.84 |
 
 ### 1 Definition of incremental rate
-In this Schedule, the term incremental rate means the incremental rate per tonne for maximum gross weights between the immediately preceding maximum gross weight and the immediately following gross weight (if any).
+In this schedule, the term incremental rate means the incremental rate per tonne for maximum gross weights between the immediately preceding maximum gross weight and the immediately following gross weight (if any).
 
 ### 2 Provisions relating to road user charges for time licences
 In calculating the road user charges payable in respect of a time licence for a period that has already commenced, the amount arrived at in accordance with Part 3 shall be reduced by one-third (in the case of a licence for a quarter) or one-twelfth (in the case of a licence for a year) for every whole month between the commencement of the period and the date of issue.
+
+## Schedule 4 — Offences against Act
+
+| Excess weight offence | Infringement fee($)* |
+| --- | --- |
+| Where the gross weight of the vehicle, reduced by an amount equal to 5% of the maximum gross weight specified in the licence, exceeds the maximum gross weight specified in a distance licence, supplementary licence, or time licence by— |  |
+| not more than 1 000 kg | 200 |
+| more than 1 000 kg but not more than 2 000 kg | 400 |
+| more than 2 000 kg but not more than 3 000 kg | 600 |
+| more than 3 000 kg but not more than 4 000 kg | 1,000 |
+| more than 4 000 kg but not more than 5 000 kg | 1,500 |
+| more than 5 000 kg but not more than 6 000 kg | 2,000 |
+| more than 6 000 kg but not more than 7 000 kg | 2,500 |
+| more than 7 000 kg but not more than 8 000 kg | 3,000 |
+| more than 8 000 kg but not more than 9 000 kg | 3,500 |
+| more than 9 000 kg but not more than 10 000 kg | 4,000 |
+| more than 10 000 kg but not more than 11 000 kg | 5,000 |
+| more than 11 000 kg but not more than 12 000 kg | 6,500 |
+| more than 12 000 kg but not more than 13 000 kg | 8,000 |
+| more than 13 000 kg | 10,000 |
+| *If the infringement offence notice is issued in respect of an offence against section 23(1)(a) (being an offence of operating a motor vehicle in excess of the maximum weight specified in a distance licence or a supplementary licence or a time licence), the infringement fee may not exceed $3,000 or any lesser applicable amount that is specified in this table. |  |
+
+| Distance recorder offence | Infringement fee ($)* |
+| --- | --- |
+| Subject to section 23(3A), operating a motor vehicle, or being the owner of a motor vehicle on a road, when the reading of a distance recorder exceeds the maximum reading specified in the licence carried in the vehicle at the time of the offence (being an offence against section 23(1) or (2)). | An amount calculated at 3 times the road user charges payable for the particular vehicle type number as specified in Part 1 of Schedule 3. For the purposes of this calculation, the road user charges must be determined on the difference between the reading on the distance recorder and the maximum reading specified in the licence, in integral multiples of 1 000 kilometres. |
+| *If the infringement offence notice is issued in respect of an offence against section 23(1)(a) (being an offence of operating a motor vehicle where the reading on the distance recorder exceeds the maximum reading specified in the distance licence), the infringement fee may not exceed $3,000. |  |
