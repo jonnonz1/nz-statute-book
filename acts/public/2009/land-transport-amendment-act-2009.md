@@ -1,5 +1,5 @@
 # Land Transport Amendment Act 2009
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act 2009.
@@ -675,8 +675,6 @@ The Transport (Vehicle Registration and Licensing) Amendment Regulations 2006 (S
 
 | “62(1) | Causing bodily injury or death by carelessly driving under influence of drink or drug or both |
 | --- | --- |
-| “62(1A) | Causing bodily injury or death by driving impaired and with blood containing evidence of use of drugs or prescription medicine |
-| “62(1B) | Causing bodily injury or death by driving or attempting to drive with blood containing evidence of use of drugs or prescription medicine”. |
 
 ### 3
 Offence against—
