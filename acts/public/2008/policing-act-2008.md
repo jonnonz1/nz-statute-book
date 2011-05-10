@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -1087,7 +1087,7 @@ ExampleA Police employee working as a forensic accountant.A Police employee work
 
 ### 8
 A Police employee warranted as a Police transport enforcement officer has the following powers:
-(a) the powers of a constable under section 42A of the Transport Act 1962:
+(a)
 (b) the powers of a constable under sections 113(2)(a), (c), and (d), 113(3), and 114(1), (2), and (3) of the Land Transport Act 1998:
 (c) the powers of a constable under section 32, 33, 35, and 36 of this Act:
 (d) the powers of a constable to execute any unexecuted process for the arrest of any person without having the process in his or her possession:
