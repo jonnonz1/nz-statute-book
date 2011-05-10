@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36891,7 +36891,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (b) in the FBT rules, and in the definition of work-related vehicle,—
       (i) means a motor vehicle designed exclusively or mainly to carry people:
       (ii) includes such a motor vehicle that has rear doors or collapsible rear seats:
-      (iii) does not include a minibus, moped, motorcycle, or taxicab
+      (iii) does not include a minibus, moped, motorcycle, or taxi
   - **cash accounting method** is defined in section EG 2(4) (Adjustment for changes to accounting practice) for the purposes of that section
   - **cash basis person** is defined in section EW 54 (Meaning of cash basis person)
   - **casual agricultural employee** means—
@@ -39518,7 +39518,8 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **taxation law** , in sections EZ 52 (References to new rules include old rules), GZ 2 (Arrangements involving cancellation of conduit tax relief credits), ZA 3 (Transitional provisions), ZA 4 (Saving of binding rulings), and ZA 5 (Saving of accrual determinations), means—
     (a) a provision that is a taxation law under section 91B of the Tax Administration Act 1994:
     (b) a provision of the Income Tax Act 1994 or Income Tax Act 2004
-  - **taxicab** is defined in section 2(1) of the Transport Act 1962
+  - **taxi** is defined in section 2(1) of the Land Transport Act 1998
+  - **taxicab**
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
   - **technology** is defined in section LH 7(5) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **telecommunications service** means a service, relating to information of any kind including pictures, sound, and data, that is—
