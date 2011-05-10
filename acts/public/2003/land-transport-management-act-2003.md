@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -132,8 +132,8 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **road** —
     (a) means a road as defined in section 2(1) of the Government Roading Powers Act 1989; and
     (b) despite the terms of that definition, in subpart 2 of Part 2, includes a motorway as defined in that section; and
-    (c) includes toll booths and other toll-related infrastructure on a road
-  - **road** includes a motorway
+    (c) includes toll booths and other toll-related infrastructure on a road; and
+    (d) includes a motorway
   - **road controlling authority** ,—
     (a) in relation to a road, means the Minister, department of State, Crown entity, State enterprise, or territorial authority that controls the road; but
     (b) in relation to a road within Auckland that is controlled by Auckland Transport, means Auckland Transport
