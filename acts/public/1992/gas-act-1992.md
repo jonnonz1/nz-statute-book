@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-05-10_
 
 > Title
 
@@ -118,7 +118,7 @@ The purposes of this Act are—
   (a) any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
     (i) Part 1 of the Crown Minerals Act 1991:
     (ii) the Shipping and Seamen Act 1952:
-    (iii) the Transport Act 1962 or the Land Transport Act 1998:
+    (iii) the Land Transport Act 1998:
   (b) any gas installation or class of gas installation that the Governor-General declares by Order in Council to be a gas installation or, as the case requires, a class of gas installation to which this Act does not apply:
   (c) any gas appliance or class of gas appliance that the Governor-General declares by Order in Council to be a gas appliance or, as the case requires, a class of gas appliance to which this Act does not apply:
   (d) any gas used as a feedstock, excluding any gas being reformed for use as a gaseous fuel:
