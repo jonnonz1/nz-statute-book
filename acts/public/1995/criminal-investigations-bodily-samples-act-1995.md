@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2011-05-10_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1749,7 +1749,8 @@ The amendments made to this Act by the Criminal Investigations (Bodily Samples) 
 | Receiving (if the value of the property does not exceed $1,000) | section 246 |
 | Threatening acts | section 308 |
 |  | Land Transport Act 1998 |
-| Contravention of section 7 or section 22 involving injury or death | section 36 |
+| Contravention of section 7 or section 22 involving injury | section 36 |
+| Contravention of section 7 by causing death of another person | section 36AA |
 | Person in charge of motor vehicle causing injury or death | section 61 |
 |  | Summary Offences Act 1981 |
 | Peeping or peering into dwellinghouse | section 30 |
