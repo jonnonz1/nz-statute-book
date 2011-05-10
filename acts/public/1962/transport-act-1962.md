@@ -1,5 +1,5 @@
 # Transport Act 1962
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to motor vehicles, to road traffic, and to commercial transport services carried on by means of motor vehicles or harbour ferries
 
