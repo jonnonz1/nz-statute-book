@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2011-05-10_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -841,7 +841,7 @@ An inspector may, at any reasonable time, visit and inspect the school of anatom
   (2) This section does not limit or affect section 199(9) to (11).
 (4) Section 199(2)(q) is repealed.
 (5) Section 199(5) is repealed; and section 199(7) and (8) are consequentially amended by omitting any of subsections (4) to (6) and substituting in each case subsection (4) or (6).
-(6) Section 199 is amended by adding the following subsections:
+(6) Section 199 is amended by inserting the following subsections after subsection (8):
   (9) The national register may, but need not, continue to show organ donor information, despite the repeals and revocations effected by sections 87 and 88 of the Human Tissue Act 2008, while that information continues to be shown on the relevant driver licence in accordance with section 28B.
   (10) The Authority may retain for initial disclosure, and may disclose (initially, and again on 1 or more later occasions during the period specified in this subsection), and may for 5 years (or a shorter period considered appropriate by the Authority) after initial disclosure under this subsection retain to disclose again under this subsection, to the national organ and tissue donor register (as defined in section 6 of the Human Tissue Act 2008), organ donor information that was, or may have been, formerly shown—
     (a) on the relevant driver licence, under section 28B; and
