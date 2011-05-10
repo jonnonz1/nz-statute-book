@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-10_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -4622,26 +4622,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
   - **transport station** means a place where transport-service vehicles, or any class of transport-service vehicles, may wait between trips,—
 
 ### 591A Bylaws as to parking places and transport stations
-(1) Without limiting the power to make bylaws conferred by section 684, the council may make such bylaws as it thinks fit as to the use of parking places and transport stations, and in particular—
-  (a) as to the vehicles or classes of vehicles that may be entitled to use any parking place or transport station:
-  (b) reserving any specified parking place or transport station for use, either generally or at specified times, only by members of the judiciary, medical practitioners, members of the diplomatic corps or consular corps, or disabled persons as defined in section 2 of the Disabled Persons Community Welfare Act 1975:
-  (c) where in the council's opinion it would be reasonable to reserve parking places or transport stations for the use of persons residing in the vicinity, reserving specified parking places or transport stations for use, either generally or at specified times, only by such persons, and providing for payment to the council of fees, whether annual or otherwise, fixed by the bylaws for the use by such persons of such parking places or transport stations:
-    provided that such fees shall not exceed the reasonable cost to the council of the service involved in granting a permit to park in any such parking place or transport station, the collection of the fees, or otherwise in relation to the reserving of any such parking place or transport station:
-  (d) prohibiting or restricting parking (being the stopping or standing of a vehicle for a period in excess of that specified in the bylaws) on specified roads or part of roads in residential areas by specified classes of vehicles (not being motorcars or motor cycles as defined in subsection (5)), either generally or at specified times, where in the council's opinion such parking is likely to cause a nuisance or danger:
-  (e) as to the conditions upon or subject to which any parking place or transport station may be used:
-  (f) as to charges to be paid to the council in connection with the use of any parking place or transport station, as measured by parking meters or in any other manner specified in the bylaws:
-  (g) the removal from parking places or transport stations or roads of vehicles using the same in breach of the bylaws, and requiring the payment of the reasonable cost of such removal.
-(2) Where pursuant to subsection (1) any specified parking place or transport station has been appointed for the use of vehicles plying for hire or otherwise available for hire for the carriage of passengers or goods or for the use of any specified kind of such vehicles or for the use of vehicles used for any specified public purpose, the council may from time to time, by resolution publicly notified, limit that parking place or transport station or any specified part thereof to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes.
-(3) Where any parking place or transport station has been so limited to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes, no person in charge of any other vehicle shall allow that vehicle to stand in that parking place or transport station.
-(4) In this section the terms parking place and transport station have the same meanings as in section 591(6).
-(5) In this section,—
-  - **motorcar** —
-    (a) means a motor vehicle (other than a motor cycle or moped) designed exclusively or principally for the carriage of persons not exceeding 9 in number inclusive of the driver; and
-    (b) includes a motor vehicle which is designed principally for the carriage of passengers but which has rear doors and collapsible rear seats
-  - **motor cycle** —
-    (a) means a motor vehicle running on 2 wheels, or not more than 3 wheels when fitted with a side car; and
-    (b) includes any vehicle with motor cycle controls that has an engine cylinder capacity exceeding 50 cubic centimetres or has a maximum speed exceeding 50 kilometres per hour; but
-    (c) does not include a moped.
+[Repealed]
 
 ### 592 Territorial authority may guarantee loans for parking buildings or parking spaces
 [Repealed]
@@ -5431,66 +5412,7 @@ Officers of Customs, officers of the Ministry of Agriculture and Forestry, offic
 (2) This section does not limit any other provisions of that Act that apply to a bylaw made under this Act.
 
 ### 684 Subject-matter of bylaws
-(1) Without limiting the power to make bylaws conferred on the council by any other provision of this Act or by any other Act, the council may from time to time make such bylaws as it thinks fit for all or any of the following purposes:Constitutional and Management of DistrictPublic Health and WellbeingRoadsLand and BuildingsRecreation and Community DevelopmentAnimals and PlantsLicensing and InspectionMiscellaneous, and Fees
-  (1)
-  (2)
-  (3)
-  (4)
-  (5)
-  (6)
-  (7)
-  (8)
-  (9)
-  (10)
-  (11)
-  (12)
-  (13) concerning roads and cycle tracks and the use thereof, and the construction of anything upon, over, or under a road or cycle track:
-  (14) regulating the use of any means of access constructed pursuant to section 319(1):
-  (14A) requiring the owner or occupier of any area of land on which a building is situated or the owner or occupier of any building or part of a building, being land or a building or part of a building to which a number has been allocated under section 319B, to display that number in a position visible from the road:
-  (15) regulating, controlling, or prohibiting the display or continuance of the display, upon or over public buildings or bridges, or upon or over buildings, walls, fences, posts, trees, pavements, or hoardings, situated in or upon or adjoining any land or road the property of or under the control of the council, or the display or continuance of the display, in any manner so that it shall be visible from any such road or public place, of posters, placards, handbills, writings, pictures, or devices for advertising or other purposes:
-  (16) restricting or prohibiting the planting or erection, at or within a specified distance of corners, bends, or intersections on roads, of trees, shrubs, hedges, scrub, or other growth, or of fences or walls, which, in the opinion of the council are, or are likely to constitute, a source of nuisance or danger to traffic, and requiring the trimming or cutting down of such trees, shrubs, hedges, scrub, or other growth:
-  (17) requiring any allotment in such parts of the district as are specified in the bylaws to be fenced along its line of frontage to any road, and to be kept clear of noxious plants:
-  (18) prohibiting the cutting of grass for seed on roads or on any specified roads without the previous consent in writing of the council, either at all times or during any specified part of the year:
-  (19) regulating the use of, and protecting, grass plots, flower beds, and shrubberies laid out in roads or on land vested in or under the control of the council (whether laid out before or after the commencement of this Part) by or under the authority of the council, and protecting trees growing on any roads or on land vested in or under the control of the council (whether planted by the council or not):
-  (20) regulating or prohibiting the construction of cellars or the making of excavations within a specified distance from any road or any adjoining land, and preventing cellars and excavations from becoming a receptacle for stagnant water or other impure matter:
-  (21)
-  (22)
-  (23)
-  (24)
-  (25)
-  (26)
-  (27)
-  (28)
-  (29)
-  (30)
-  (31)
-  (32)
-  (33)
-  (33A)
-  (34)
-  (35)
-  (36)
-  (37)
-  (38)
-  (39)
-  (40)
-  (41) subject in the case of a State highway to the prior consent of the New Zealand Transport Agency and to any conditions imposed by the Agency, permitting hawkers, pedlars, keepers of stalls (including vehicles used as stalls) and keepers of mobile or travelling shops to occupy stands in such roads, public places, and State highways as the council thinks fit, and fixing charges in respect of those permits:
-  (41A) subject in the case of a State highway to the prior consent of the New Zealand Transport Agency, prohibiting hawkers, pedlars, keepers of stalls (including vehicles used as stalls), and keepers of mobile or travelling shops to occupy stands—
-    (a) in specified roads or State highways or parts of specified roads or State highways; or
-    (b) where the presence of the stall or stand is likely to cause an obstruction or a danger to traffic, in any public place adjoining specified roads or State highways or parts of specified roads or State highways:
-  (42)
-  (43)
-  (44)
-  (45)
-  (46)
-  (47)
-  (48)
-  (49)
-  (50)
-(2)
-(3) For the purposes of paragraphs (39) to (41A) of subsection (1),—
-  - **mobile or travelling shop** means a vehicle, whether self-propelled or not, from which goods, wares, or merchandise are offered or exposed for sale in the road, or from which goods, wares, or merchandise may be ordered in the road (whether or not in pursuance of any invitation to call with the goods, wares, or merchandise) or from which services are offered for sale in the road; but does not include any vehicle on or from which food is sold for consumption in or at the vehicle, or any vehicle used for the purpose of transporting and delivering goods, wares, or merchandise pursuant to a prior order placed for the delivery of the goods, wares, or merchandise
-  - **keeper** , in relation to any mobile or travelling shop, means the person by whom or on whose behalf any business is carried on by means of that mobile or travelling shop.
+[Repealed]
 
 ### 684A Effect of Building Act 1991 on bylaws
 [Repealed]
@@ -6442,7 +6364,7 @@ Where any road or part of a road is closed under clause 11(e), the council or, w
 
 ### 11C
 Where any road or part of a road is closed under clause 11(e), the road or part of a road shall be deemed for the purposes of—not to be a road; but nothing in this clause shall affect the status of the road or part of a road as a public place for the purposes of this or any other enactment.
-(a) the Transport Act 1962 and any bylaws made under section 72 of that Act:
+(a)
 (b) the Traffic Regulations 1976:
 (c) the Transport (Drivers Licensing) Regulations 1985:
 (d)
