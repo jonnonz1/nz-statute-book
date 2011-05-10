@@ -1,5 +1,5 @@
 # Transport Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-05-10_
 
 > An Act to amend the Transport Act 1962
 
