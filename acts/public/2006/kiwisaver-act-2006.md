@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-24_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2542,6 +2542,11 @@ If, as a result of amendments provided by the Taxation (KiwiSaver) Act 2007, the
 If, as a result of amendments in Part 2 of the Taxation (Budget Tax Measures) Act 2009, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2009 and does not continue on or after 31 July 2009, or if it relates to––
   (a) a prospectus that is registered under the Securities Act 1978 before 1 June 2009:
   (b) an investment statement under the Securities Act 1978 that is dated before 1 June 2009.
+
+### 237 Protection from non-compliance: Taxation (Annual Rates and Budget Measures) Act 2011
+If, as a result of amendments in sections 7 to 14 of the Taxation (Annual Rates and Budget Measures) Act 2011, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2011 and does not continue on or after 31 July 2011, or if it relates to––
+  (a) a prospectus that is registered under the Securities Act 1978 on or before 27 May 2011:
+  (b) an investment statement under the Securities Act 1978 that is dated on or before 27 May 2011.
 
 ## Schedule 1 — KiwiSaver scheme rules
 
