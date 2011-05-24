@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-05-24_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -4178,6 +4178,12 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
 (6) Within 30 days of issuing or changing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
   (a) gives notice that the determination has been issued or changed, as applicable; and
   (b) states where copies of the determination can be obtained.
+
+### 91AAS Declaration of emergency event for purposes of family scheme income
+(1) The Commissioner may determine that an event is an emergency event, for the purposes of section MB 13(2)(r)(i) of the Income Tax Act 2007, if the event meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
+(2) The determination must set a period relating to the event, for the purposes of section MB 13(2)(r)(ii) of the Income Tax Act 2007, equal to or less than 12 months and beginning on the day of the event.
+(3) The determination may provide for the extension, limitation, variation, cancellation, or repeal of an earlier determination, except that the total period relating to an event may not exceed 12 months.
+(4) As soon as possible after issuing or changing a determination under this section, the Commissioner must publish the new or changed determination in a publication chosen by the Commissioner.
 
 ## Part 5A — Binding rulings
 
