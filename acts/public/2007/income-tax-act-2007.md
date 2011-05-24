@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-05-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4972,6 +4972,38 @@ Income: disposing of well
 (3) For a person to whom subsection (1)(b)(ii) applies, the person has, for the first income year in which this section applies, an amount of income equal to the lesser of—
   (a) the amount derived from disposing of the well; and
   (b) the total amount of deductions that the person is allowed for the well under section DZ 7 of the Income Tax Act 1994, section DZ 15 of the Income Tax Act 2004, and section DZ 16 for all income years.
+
+### CZ 23 Employee benefits for Canterbury earthquake relief: exempt income
+Exempt income
+(1) Income derived by an employee from an employer is exempt income to the extent given by subsection (2) if the income—
+  (a) would be assessable income in the absence of this section; and
+  (b) is provided by the employer for the purpose of relief of employees from the adverse effects of a Canterbury earthquake, as defined in section 4 of the Canterbury Earthquake Recovery Act 2011, of 4 September 2010 or 22 February 2011; and
+  (c) is derived in the period of 8 weeks beginning on the day of that Canterbury earthquake; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) is available to another employee, who is not an associated person of the employer and is or was immediately before a Canterbury earthquake in full-time employment with the employer, if the employee is an associated person of the employer; and
+  (g) is treated by the employer as being exempt income for the employee.
+Extent of exemption
+(2) Income satisfying subsection (1) is exempt income to the extent that the income is—
+  (a) accommodation as defined in section CE 1(2) (Amounts derived in connection with employment):
+  (b) less than or equal to $3,200 in total, if the income is in a form other than accommodation.
+
+### CZ 24 Employee benefits for Canterbury earthquake relief: not fringe benefits
+When this section applies
+(1) This section applies when an employee receives from an employer a benefit that—
+  (a) would be a fringe benefit in the absence of this section; and
+  (b) is for the purpose of the relief of employees from the adverse effects of a Canterbury earthquake, as defined in section 4 of the Canterbury Earthquake Recovery Act 2011, of 4 September 2010 or 22 February 2011; and
+  (c) is received in the period of 8 weeks beginning on the day of that Canterbury earthquake; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) is available to another employee, who is not an associated person of the employer and is or was immediately before a Canterbury earthquake in full-time employment with the employer, if the employee is an associated person of the employer; and
+  (g) is treated by the employer as not being a fringe benefit.
+Benefits with known value for employee
+(2) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent that their total value as fringe benefits for the period would be less than or equal to the amount by which $3,200 exceeds the income that is—
+  (a) exempt income under section CZ 23(2)(b); and
+  (b) derived by the employee from the employer in the same period.
+Benefits with unknown value for employee
+(3) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate, are not fringe benefits.
 
 ## Part D — Deductions
 
@@ -21646,6 +21678,11 @@ What this section applies to
 Income tax liability
 (2) The company's income tax liability for the income year of the arrangement is increased by the amount of CTR credits referred to in subsection (1)(a)(ii).
 
+### GZ 3 Donations of trading stock for relief of Canterbury earthquakes
+Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal of trading stock by a person to a person who is not an associated person—
+  (a) for the purpose of relief from the adverse effects of a Canterbury earthquake, as defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
+  (b) in the period beginning on 4 September 2010 and ending on 31 March 2012.
+
 ## Part H — Taxation of certain entities
 
 ### Subpart HA — Qualifying companies (QC) and loss-attributing qualifying companies (LAQC)
@@ -27779,7 +27816,10 @@ Payments and benefits excluded from family scheme income
   (n) a payment that is exempt income under section CW 33(1)(c), (e), or (f) (Allowances and benefits):
   (o) an amount that is declared not to be income for the purposes of the Social Security Act 1964 by a regulation under section 132 of that Act:
   (p) included in the family scheme income of the person under another section:
-  (q) expressly excluded from the family scheme income of the person under another section.
+  (q) expressly excluded from the family scheme income of the person under another section:
+  (r) a payment—
+    (i) to relieve the adverse effects of an event declared to be an emergency event by the Commissioner in a determination under section 91AAS of the Tax Administration Act 1994; and
+    (ii) in the period set by the Commissioner in the determination as relating to the event.
 Exception for total value of payments less than threshold
 (3) If, in the absence of this subsection, the total value of payments that would be included under subsection (1) in the family scheme income for the year of the person and the person's spouse, civil union partner, or de facto partner is less than or equal to $5,000, then the payments paid or provided to the person are not included in the person's family scheme income for the income year.
 
@@ -28382,9 +28422,12 @@ Underpayment
 ### MF 7 Orders in Council
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
-  (a) increase the amounts appearing as items in the formulas for family tax credit listed in section MD 3(3) (Calculation of family tax credit) by amounts that—
+  (a) increase the amounts in section MD 3(4)(a)(i) and (b)(i) and (ii) (Calculation of family tax credit) by amounts that—
     (i) correspond to the movement in the New Zealand Consumer Price Index that has not yet been taken into account by an increase:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
+  (ab) increase the amount in—
+    (i) section MD 3(4)(a)(ii) to equal the corresponding amount in section MD 3(4)(a)(i), if the amount in section MD 3(4)(a)(i) would otherwise be the greater:
+    (ii) section MD 3(4)(b)(iii) to equal the corresponding amount in section MD 3(4)(b)(ii), if the amount in section MD 3(4)(b)(ii) would otherwise be the greater:
   (b) increase the amounts appearing as items in the formula for the in-work tax credit set out in section MD 10(3) (Calculation of in-work tax credit):
   (c) increase the amount appearing as an item in the formula for the parental tax credit set out in section MD 12(3) (Calculation of parental tax credit):
   (cb) increase the amounts appearing as the amount of the threshold set out in section MD 13(3):
@@ -28402,6 +28445,10 @@ How movement in CPI determined
   (b) the number that, when the period ended, was the most recent quarterly index number of—
     (i) the New Zealand Consumers Price Index all groups, if the period ends before 29 April 2010; and
     (ii) the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products, if the period ends after 28 April 2010.
+Order in Council under subsection (1)(ab)
+(2C) An Order in Council must be made under subsection (1)(ab) if an Order in Council under subsection (1)(a) would otherwise result in—
+  (a) the amount in section MD 3(4)(a)(i) exceeding the amount in section MD 3(4)(a)(ii):
+  (b) the amount in section MD 3(4)(b)(ii) exceeding the amount in section MD 3(4)(b)(iii).
 Timing of Order in Council
 (3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
 Review of in-work tax credit and parental tax credit
@@ -28516,7 +28563,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### ML 1 What this subpart does
 Redundancy payments
-(1) This subpart provides a tax credit for a person who derives a redundancy payment before 1 October 2010 for loss of employment.
+(1) This subpart provides a tax credit for a person who derives a redundancy payment before 1 October 2011 for loss of employment.
 Exclusions
 (2) Despite subsection (1), no tax credit arises for a redundancy payment—
   (a) related to—
@@ -28531,7 +28578,7 @@ Exclusions
 
 ### ML 2 Tax credit for redundancy payments
 Tax credit
-(1) A person who derives a redundancy payment before 1 April 2011 has a tax credit of an amount equal to 6 cents for every complete dollar of total redundancy payments derived by them before 1 April 2011. It does not matter whether—
+(1) A person who derives a redundancy payment before 1 October 2011 has a tax credit of an amount equal to 6 cents for every complete dollar of total redundancy payments derived by them before 1 October 2011. It does not matter whether—
   (a) a redundancy payment is paid in a lump sum or by instalment:
   (b) the total redundancy payments relate to 1 or more occasions of redundancy of the person.
 Maximum amount
@@ -38686,7 +38733,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (c) is defined in section RD 51(6) (Calculation of all-inclusive pay) for the purposes of that section
   - **pay period** , for an employee receiving regular payments of salary or wages, means the period for which any such payment is payable
   - **PAYE** means pay-as-you-earn and refers to an amount payable as income tax under the PAYE rules
-  - **PAYE income payment** is defined in section RD 3 (PAYE income payments) for the purposes of the PAYE rules
+  - **PAYE income payment** is defined in section RD 3 (PAYE income payments)
   - **PAYE income payment form** , for an employer, means a form authorised by the Commissioner that shows—
     (a) the period to which the form relates; and
     (b) the name of the employer; and
