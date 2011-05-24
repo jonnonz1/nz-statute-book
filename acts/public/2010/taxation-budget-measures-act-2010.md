@@ -1,5 +1,5 @@
 # Taxation (Budget Measures) Act 2010
-_Consolidation as at 2010-09-07_
+_Consolidation as at 2011-05-24_
 
 ### 1 Title
 This Act is the Taxation (Budget Measures) Act 2010.
@@ -753,7 +753,7 @@ In sections EE 7, EE 11, EE 26, EE 27, EE 28, EE 30, EE 31, EE 32, EE 35, EE 37,
 (6) Subsections (2), (4), and (5) apply for Working for Families entitlements for the 2011–12, 2012–13, and 2013–14 tax years.
 
 ### 95 Subpart ML repealed
-Subpart ML is repealed.
+[Repealed]
 
 ### 96 Definitions
 (1) This section amends section YA 1.
@@ -777,7 +777,7 @@ Subpart ML is repealed.
     (f) site huts
 (5) After the definition of international tax rules, the following is inserted:.
   - **investment activity** is defined in section MB 3 (When person carries on 1 or more businesses or investment activities) for the purpose of that section
-(6) The definition of redundancy payment is repealed.
+(6)
 (7) After the definition of special corporate entity, the following is inserted:.
   - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
 (8) In the definition of temporary building, paragraph (a) is repealed.
