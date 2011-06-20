@@ -1,5 +1,5 @@
 # Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
-_Consolidation as at 2009-08-01_
+_Consolidation as at 2011-06-20_
 
 ### 1 Title
 (1) This Act is the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
@@ -108,16 +108,16 @@ Each computer freehold register must comprise—
 (3) A reference in the computer interest register to the instrument creating the interest to which the register relates takes effect as if the instrument were fully set out in the register.
 
 ### 11 Creation of computer unit title registers
-(1) The Registrar may create a computer unit title register for a stratum estate in freehold or a stratum estate in leasehold, within the meaning of the Unit Titles Act 1972.
-(2) If a computer unit title register is created in respect of any principal unit (and any associated accessory units) and any future development units under the Unit Titles Act 1972,—
-  (a) the unit or units become subject to this Act and remain subject to the Unit Titles Act 1972 and the principal Act; and
+(1) The Registrar may create a computer unit title register for a stratum estate in freehold or a stratum estate in leasehold, within the meaning of the Unit Titles Act 2010.
+(2) If a computer unit title register is created in respect of any principal unit (and any associated accessory units) and any future development units under the Unit Titles Act 2010,—
+  (a) the unit or units become subject to this Act and remain subject to the Unit Titles Act 2010 and the principal Act; and
   (b) the relevant folium established under section 33 of the principal Act is closed; and
   (c) if the unit is not electronic transactions land, a certificate of title must be issued under section 15, but, until that occurs, the certificate of title issued under the principal Act remains in force; and
   (d) if any instrument has been registered or deposited under the principal Act in respect of the unit or units, or is subsequently lodged for registration or deposit, the Registrar may determine, for the purposes of section 27, the definitive form in which the instrument may be held.
 (3) The provisions of this Part apply, to the extent that they are applicable, and with any necessary modifications, to any unit or units in respect of which a computer unit title register has been created as if that register were a computer freehold register.
 (4) On or after creating a computer unit title register in respect of a unit, the Registrar may also create, in any medium determined by the Registrar, a register—
-  (a) that must be treated as the supplementary record sheet kept for the relevant unit plan in accordance with section 20 of the Unit Titles Act 1972; and
-  (b) that includes every entry on any supplementary record sheet kept in accordance with section 20 of the Unit Titles Act 1972 at the time the register is created; and
+  (a) that must be treated as the supplementary record sheet kept for the relevant unit plan in accordance with section 47 of the Unit Titles Act 2010; and
+  (b) that includes every entry on any supplementary record sheet kept in accordance with section 47 of the Unit Titles Act 2010 at the time the register is created; and
   (c) that has a unique identifier determined by the Registrar.
 (5) The Registrar need not create a computer unit title register in respect of any unit in any particular case if, in his or her opinion, it is not expedient to do so.
 
@@ -126,7 +126,7 @@ Each computer unit title register must comprise—
   (a) the unique identifier for that computer unit title register; and
   (b) the number of the principal unit on the relevant unit plan and the letter allotted to any associated accessory unit and any future development unit on that plan; and
   (c) the unique identifier for each instrument relevant to the principal unit and any associated accessory unit, and the information necessary to enable the priority of the instrument to be determined; and
-  (d) a statement that the stratum estate concerned is subject to the reservations, restrictions, encumbrances, liens, and interests that are notified by memorial or by a unique identifier on the computer unit title register and on the relevant unit plan and the supplementary record sheet for the plan kept in accordance with section 20 of the Unit Titles Act 1972; and
+  (d) a statement that the stratum estate concerned is subject to the reservations, restrictions, encumbrances, liens, and interests that are notified by memorial or by a unique identifier on the computer unit title register and on the relevant unit plan and the supplementary record sheet for the plan kept in accordance with section 47 of the Unit Titles Act 2010; and
   (e) the name of the registered proprietor of the stratum estate concerned; and
   (f) any minority or other legal restriction on the legal capacity of the registered proprietor that is known to the Registrar; and
   (g) any other information that is required to be included by any Act or regulations, or that the Registrar considers appropriate to give effect to the requirements of any Act or regulations.
@@ -168,10 +168,10 @@ A computer register may be held or stored in any medium or combination of media 
 
 ### 17 References to certificates of title for land that is not electronic transactions land
 (1) This section applies to references to certificates of title in relation to land subject to this Act that is not electronic transactions land.
-(2) A reference in the principal Act, or the Unit Titles Act 1972, to a certificate of title that is a reference to a folium of the register must be read as a reference to the appropriate computer register.
-(3) A reference in the principal Act, or the Unit Titles Act 1972, to a certificate of title or duplicate certificate of title that is a reference to a certificate of title issued or capable of being issued to the registered proprietor of an estate or interest in any land must be read in relation to an estate or interest for which a certificate of title has been issued under section 15 as a reference to that certificate of title.
+(2) A reference in the principal Act to a certificate of title that is a reference to a folium of the register must be read as a reference to the appropriate computer register.
+(3) A reference in the principal Act to a certificate of title or duplicate certificate of title that is a reference to a certificate of title issued or capable of being issued to the registered proprietor of an estate or interest in any land must be read in relation to an estate or interest for which a certificate of title has been issued under section 15 as a reference to that certificate of title.
 (4) A reference in any enactment to the issue of a certificate of title must be read as a reference to the creation of a computer register and the issue of a certificate of title.
-(5) A reference in section 7 or section 8 of the Unit Titles Act 1972 to a certificate of title in relation to a stratum estate for which the Registrar has prepared a certificate of title under section 15 must be read as a reference to that certificate of title.
+(5)
 
 **No certificates of title for electronic transactions land**
 
@@ -201,7 +201,7 @@ A computer register may be held or stored in any medium or combination of media 
 (1) This section applies to references in any enactment to certificates of title in relation to land subject to this Act that is electronic transactions land.
 (2) A reference to a folium of the register must be read as a reference to the appropriate computer register.
 (3) A reference to a certificate of title or duplicate certificate issued or capable of being issued to the registered proprietor of an estate or interest in any land must be read as a reference to the appropriate computer register.
-(4) A reference to a certificate of title in section 7 and section 8 of the Unit Titles Act 1972 in relation to a stratum estate must be read as a reference to the appropriate computer register.
+(4)
 
 **Easements**
 
