@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -103,7 +103,7 @@ In this Act, unless the context otherwise requires,—
 ### 5A Meaning of certificate of title
 In sections 5B and 5C, certificate of title means a certificate of title—
   (a) issued under the Land Transfer Act 1952 for an estate in fee simple; or
-  (b) issued under the Unit Titles Act 1972 for a stratum estate; or
+  (b) issued under the Unit Titles Act 2010 for a stratum estate; or
   (c) issued under the Land Transfer Act 1952 for both—
     (i) an undivided share in an estate in fee simple; and
     (ii) an estate in leasehold of a building or part of a building on, or to be erected on, land comprised in the estate in fee simple under subparagraph (i).
