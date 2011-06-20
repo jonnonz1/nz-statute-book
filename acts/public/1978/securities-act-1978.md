@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -292,7 +292,7 @@ _Consolidation as at 2011-05-01_
 ### 5 Exemptions from this Act
 (1) Nothing in Part 2 of this Act shall apply in respect of—
   (a)
-  (b) any estate or interest in land for which a separate certificate of title can be issued under the Land Transfer Act 1952 or the Unit Titles Act 1972, other than any such estate or interest that—
+  (b) any estate or interest in land for which a separate certificate of title can be issued under the Land Transfer Act 1952 or the Unit Titles Act 2010, other than any such estate or interest that—
     (i) forms part of a contributory scheme; and
     (ii) does not entitle the holder to a right in respect of a specified part of the land for which a separate certificate of title can be so issued; or
   (c) any proprietary right to chattels (other than any such right that forms part of a contributory scheme); or
