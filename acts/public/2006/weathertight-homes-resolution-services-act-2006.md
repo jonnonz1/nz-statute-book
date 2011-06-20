@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-06-20_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -56,8 +56,8 @@ In general terms, this Act provides for the following matters:Purpose, overviews
   (a) every reference in it to a dwellinghouse included a reference to the multi-unit complex or stand-alone complex concerned; and
   (b) every reference in it to the owner of a dwellinghouse included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned; and
   (c) every reference in it to a party or parties included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned.
-(7) Section 24 ensures that, except for the voting relief in sections 22 and 23, nothing in the Act limits any obligations of a body corporate or the obligations of any person under the rules or constitution of a body corporate or under any lease.
-(8) Under section 25, nothing in the voting relief provisions in sections 22 and 23 is to be taken into account when determining whether or not unit title rules are valid.
+(7) Section 24 ensures that, except for the voting relief in sections 22 and 23, nothing in the Act limits any obligations of a body corporate or the obligations of any person under the Unit Titles Act 2010 or any body corporate operational rules made under that Act or under any lease.
+(8)
 (9) Under section 56, the chief executive has power to terminate claims not pursued.
 (10) This section is intended as a guide only.
 
@@ -148,7 +148,7 @@ In this Act, unless the context otherwise requires,—
   - **representative** ,—
     (a) for the owners of dwellinghouses in a company-share complex, means the company; and
     (b) for the owners of dwellinghouses in a cross-lease complex, means any person (whether one of those owners or not) authorised (whether to replace another person earlier so authorised or not) under section 19 or 20, to take action under this Act in respect of dwellinghouses, common areas, or both, in that complex; and
-    (c) for the owners of dwellinghouses in a unit title complex, means the body corporate (within the meaning of the Unit Titles Act 1972) of the units and common property shown on the unit plan whose deposit created the stratum estates under which they are held; and
+    (c) for the owners of dwellinghouses in a unit title complex, means the body corporate (within the meaning of the Unit Titles Act 2010) of the units and common property shown on the unit plan whose deposit created the stratum estates under which they are held; and
     (d) for the owners of dwellinghouses in a stand-alone complex, despite paragraphs (a) to (c), means any person authorised (whether to replace another person earlier so authorised or not) by or under section 21 to take action under this Act in respect of dwellinghouses in that complex
   - **respondent** means a person against whom a claim is made
   - **Secretary** means the Secretary for Justice
@@ -161,7 +161,7 @@ In this Act, unless the context otherwise requires,—
       (ii) 1 or more buildings consisting of 1 or more dwellinghouses and 1 or more common areas
   - **transition date** means 1 May 2007 unless an earlier date is appointed under section 2(2), in which case it means that earlier date so appointed
   - **tribunal** means the Weathertight Homes Tribunal established by section 101
-  - **unit title complex** means a complex containing dwellinghouses held under stratum estates under the Unit Titles Act 1972
+  - **unit title complex** means a complex containing dwellinghouses held under stratum estates under the Unit Titles Act 2010
   - **working day** means any day other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
@@ -290,11 +290,7 @@ The representative of some or all of the owners of dwellinghouses in a multi-uni
   (b) if the lease documents relating to those dwellinghouses contain provisions to the effect that the owners of at least an identifiable percentage of the dwellinghouses in the complex must authorise actions of a kind that include those actions, at least the lower of the following:
     (i) the owners of 80% of the dwellinghouses in the complex:
     (ii) the owners of the identifiable percentage of the dwellinghouses in the complex.
-(3) In the case of a unit title complex, a claim cannot be brought under section 19 or 20 unless, at a general meeting of the body corporate of the complex, a resolution authorising the body corporate to take the actions stated in subsection (4) has been passed by the affirmative vote of at least the lower of the following:
-  (a) 80% of the persons entitled to vote:
-  (b) the percentage of the persons entitled to vote—
-    (i) that is provided for in the rules of the body corporate; or
-    (ii) that those rules have, in some other way, the effect of requiring.
+(3) In the case of a unit title complex, a claim cannot be brought under section 19 or 20 unless a resolution has been passed in accordance with the Unit Titles Act 2010 authorising the body corporate to take the actions stated in subsection (4).
 (4) The actions referred to in subsections (1) to (3) are—
   (a) to bring and resolve a claim under this Act relating to the multi-unit complex concerned; and
   (b) to take other actions incidental to bringing, running, or settling the claim; and
@@ -303,45 +299,33 @@ The representative of some or all of the owners of dwellinghouses in a multi-uni
 (6) Subsection (5) overrides anything to the contrary in—
   (a) the constitution of a flat-owning or office-owning company; or
   (b) the lease of any dwellinghouse in a cross-lease complex; or
-  (c) the rules of the body corporate of a unit title complex.
+  (c)
 
 ### 23 How administrative decisions relating to representative claims in respect of multi-unit complexes to be made
 (1) In this section, administrative decision means a decision relating to a claim under section 19 or 20 made after the claim has been brought.
-(2) If the representative bringing a claim under section 19 or 20 is a body corporate, every administrative decision relating to the claim must be made in accordance with its rules or constitution, but as modified by subsections (3), (4), and (7).
-(3) The governing or managing body of a body corporate can make an administrative decision by the affirmative vote of at least the lower of the following:
-  (a) 80% of the members of the governing or managing body who are entitled to vote:
-  (b) the percentage of the members of the governing or managing body who are entitled to vote—
-    (i) that is provided for in the rules or constitution of the body corporate; or
-    (ii) that those rules have, or that constitution has, in some other way, the effect of requiring.
-(4) A general meeting of a body corporate can make an administrative decision by resolution passed by the affirmative vote of at least the lower of the following:
-  (a) 80% of the persons who are entitled to vote:
-  (b) the percentage of the members of the body corporate who are entitled to vote—
-    (i) that is provided for in the rules or constitution of the body corporate; or
-    (ii) that those rules have, or that constitution has, in some other way, the effect of requiring.
+(2) If the representative bringing a claim under section 19 or 20 is a body corporate, every administrative decision relating to the claim must be made in accordance with the Unit Titles Act 2010 or any body corporate operational rules made under that Act.
+(3)
+(4)
 (5) To the extent (if any) that an administrative decision must be made by a representative in accordance with any lease or licence, it must be made in accordance with the lease or licence as modified by subsections (6) and (7).
 (6) A body of persons acting under a lease or licence can make an administrative decision by the affirmative vote of at least the lower of the following:
   (a) 80% of the persons who are entitled to vote:
   (b) the percentage of the persons acting under the lease or licence who are entitled to vote—
     (i) that is provided for in the lease or licence; or
     (ii) that the lease or licence has, in some other way, the effect of requiring.
-(7) Subsections (3), (4), and (6) override anything to the contrary in—
+(7) Subsection (6) overrides anything to the contrary in—
   (a) the constitution of a flat-owning or office-owning company; or
-  (b) the lease of, or any licence relating to, any dwellinghouse in a cross-lease complex; or
-  (c) the rules of the body corporate of a unit title complex.
+  (b) the lease of, or any licence relating to, any dwellinghouse in a cross-lease complex.
 
 ### 24 Act does not generally limit or affect certain matters
 The provisions of this Act (other than those of sections 22(6) and 23(7)) do not limit or affect—
-  (a) any obligation of a body corporate, procedural or otherwise, under any enactment other than this Act, or under its rules or constitution; or
-  (b) any obligation of the governing or managing body of a body corporate, procedural or otherwise, under any enactment other than this Act, or under the rules or constitution of the body corporate; or
+  (a) any obligation of the body corporate or body corporate committee, procedural or otherwise, under any enactment other than this Act, or under any body corporate operational rules made under the Unit Titles Act 2010; or
+  (b)
   (c) any obligation of any person, procedural or otherwise,—
     (i) under any enactment other than this Act relating to leases or licences; or
     (ii) under any lease or licence.
 
 ### 25 Voting provisions not to affect validity of unit title rules
-(1) In the determination of whether or not any rules of the body corporate of a unit title complex are valid, regard must not be had to—
-  (a) subsection (3), (5), or (6) of section 22; or
-  (b) subsection (3), (4), or (7) of section 23.
-(2) Subsection (1) applies to the body corporate of a unit title complex whether or not action has been taken under section 19 or 20 in respect of the unit title complex.
+[Repealed]
 
 **Changes in owners involved in claim under section 19 or 21**
 
