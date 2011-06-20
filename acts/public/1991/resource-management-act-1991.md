@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -328,8 +328,8 @@ _Consolidation as at 2011-04-01_
   - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tikanga Maori** means Maori customary values and practices
   - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
-  - **unit** has the same meaning as in section 2 of the Unit Titles Act 1972; and includes a future development unit as defined in section 2 of the Unit Titles Amendment Act 1979
-  - **unit plan** has the same meaning as in section 2 of the Unit Titles Act 1972; and includes a proposed unit development plan within the meaning of that Act but does not include a stage unit plan or a complete unit plan within the meaning of that Act
+  - **unit** has the same meaning as in section 5(1) of the Unit Titles Act 2010; and includes a future development unit (also defined in section 5(1) of the Unit Titles Act 2010)
+  - **unit plan** has the same meaning as in section 5(1) of the Unit Titles Act 2010
   - **use** ,—
     (a) in sections 9, 10, 10A, 10B, 81(2), 176(1)(b)(i), and 193(a), means—
       (i) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of a structure in, on, under, or over land:
@@ -5638,7 +5638,7 @@ No survey plan shall be deposited for the purposes of section 11(1)(a)(i) or (ii
     (ii) a consent notice has been issued in relation to such of the conditions to which section 221 applies:
     (iii) a bond has been entered into by the subdividing owner in compliance with any condition of a subdivision consent imposed under section 108(2)(b); and
   (d) there is lodged for registration with the Registrar-General of Land a consent notice in respect of any conditions of a kind referred to in paragraph (c)(ii); and
-  (e) in relation to any unit plan, the requirements of the Unit Titles Act 1972 and the Unit Titles Amendment Act 1979 relating to the deposit of a unit plan have been complied with; and
+  (e) in relation to any unit plan, the requirements of the Unit Titles Act 2010 relating to the deposit of a unit plan have been complied with; and
   (f) in the case of a subdivision of land to be effected by the grant of a cross lease or company lease, or by the deposit of a unit plan, the territorial authority is satisfied on reasonable grounds that every existing building or part of an existing building (including any building or part thereof under construction) to which the cross lease, company lease, or unit title plan relates complies with or will comply with the provisions of the building code described in section 116A of the Building Act 2004, and a certificate signed by a person authorised by the territorial authority to sign such certificates is lodged with the Registrar-General of Land; and
   (g) where land is shown upon the survey plan to be subject to an esplanade strip, there is lodged for registration with the Registrar-General of Land an instrument creating that strip; and
   (h) less than 3 years has elapsed since the territorial authority approved the plan under section 223.
@@ -5657,7 +5657,7 @@ No survey plan shall be deposited for the purposes of section 11(1)(a)(i) or (ii
   (ba) the plan has been approved under Part 25 of the Municipal Corporations Act 1954; or
   (bb) the plan has been approved under Part 2 of the Counties Amendment Act 1961; or
   (bc) the plan did not require the approval of the Council under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 1952 after the said Part 2 came into force; or
-  (c) the plan has been deposited in accordance with the Unit Titles Act 1972; or
+  (c) the plan has been deposited in accordance with the Unit Titles Act 2010; or
   (d) the certificate of title is issued to enable effect to be given to any agreement for sale and purchase or agreement to lease or other contract to create an interest in land or a building or part of a building made before the commencement of this Act; or
   (e) the territorial authority has given a certificate signed by the principal administrative officer or other authorised officer to the effect—
     (i) that there is no district plan for the area to which the survey plan relates, and that the allotment is in accordance with the requirements and provisions of the proposed district plan; or
@@ -7967,7 +7967,7 @@ Where an application for approval of a scheme plan of subdivision has been made 
 
 ### 408 Existing approvals for unit plans, cross lease plans, and company lease plans
 (1) Nothing in section 11 or Part 10 shall apply—
-  (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 5(1)(g) of the Unit Titles Act 1972 or section 5(3)(c) of the Unit Titles Amendment Act 1979:
+  (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 32(2)(a) of the Unit Titles Act 2010:
   (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a certificate of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 314 of the Local Government Act 1974:
   (c) to the deposit of a plan to give effect to the grant of a company lease, or to the registration or issue of a certificate of title for a company lease in respect of a building or part of a building shown on a plan, where the plan is approved by the Chief Surveyor before the date of commencement of this Act.
 (2) Nothing in section 224(f) shall apply to any subdivision of land for which a subdivision consent was granted on or after 1 October 1991 and on or before 30 June 1992.
