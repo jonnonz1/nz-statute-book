@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -510,7 +510,7 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
 (4) In this section,—
   - **automatic sprinkler system** means an automatic sprinkler system that satisfies the minimum standard required by regulations made under section 92(2)(ne)
   - **evacuation scheme** means an evacuation scheme that complies with regulations made under section 92(2)(nd)
-  - **owner** , in relation to a building for which a unit plan within the meaning of section 2 of the Unit Titles Act 1972 has been deposited, means the body corporate.
+  - **owner** , in relation to a building for which a unit plan within the meaning of section 5(1) of the Unit Titles Act 2010 has been deposited, means the body corporate.
 
 ### 21C Owner must apply to National Commander for approval of evacuation scheme
 (1) The owner of a relevant building must apply to the National Commander for approval of the evacuation scheme provided for the building under section 21B.
