@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2010-04-19_
+_Consolidation as at 2011-06-20_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
