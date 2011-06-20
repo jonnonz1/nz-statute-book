@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -6383,7 +6383,8 @@ Applications to the court under the following enactments must be made by origina
   (y) rule 7.81, 9.60, 24.11, 24.56, 28.4, or 32.2 of these rules:
   (z) any repealed enactment if—
     (i) the application under that enactment could have been made by originating application immediately before the commencement of these rules; and
-    (ii) the enactment continues to apply to the applicant.
+    (ii) the enactment continues to apply to the applicant:
+  (za) sections 74, 140, 141, 165, 187, 193, 196, 197, 210, 211, and 214 of the Unit Titles Act 2010.
 
 ### 19.3 Application of this Part to certain kinds of proceeding
 This Part applies to the following kinds of proceeding:
