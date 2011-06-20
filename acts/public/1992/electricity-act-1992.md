@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-06-20_
 
 > Title
 
@@ -149,12 +149,12 @@ The purposes of this Act are—
   - **property** —
     (a) means the land within the boundary where the electricity is consumed:
     (b) includes the whole of the property, if the property is occupied wholly or partially by tenants or licensees of the owner or occupier:
-    (c) includes the whole of any property that has been subdivided under the Unit Titles Act 1972
+    (c) includes the whole of any property that has been subdivided under the Unit Titles Act 2010
   - **specific agreement** may be an agreement—
     (a) entered into by—
       (i) the existing consumer; or
       (ii) any person with a greater interest in the property than the consumer (such as the consumer's landlord); or
-      (iii) any body corporate under the Unit Titles Act 1972 or the registered proprietor of the land to which the unit plan relates; and
+      (iii) any body corporate under the Unit Titles Act 2010 or the registered proprietor of the land to which the unit plan relates; and
     (b) entered into by the electricity distributor or the electricity retailer; and
     (c) entered into before or after the date on which this provision comes into force.
 (4) The new definition of point of supply in subsection (3)—
