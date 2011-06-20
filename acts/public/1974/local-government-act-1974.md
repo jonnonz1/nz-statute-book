@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-06-20_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -3030,7 +3030,7 @@ The following provisions shall apply in respect of the declaration under section
 (3) In this section and in section 346E the term parcel of land means a parcel of land that can legally be transferred to a person other than an owner of adjoining land without the dedication of any further land as a road and without the deposit of any further plan:
   Provided that the council may, by resolution, declare—to be a single parcel of land for the purposes of this section and of section 346E.
     (a) 2 or more adjoining parcels of land, while remaining in 1 ownership; and
-    (b) all parcels of land included in 1 unit title plan deposited in accordance with the Unit Titles Act 1972—
+    (b) all parcels of land included in 1 unit title plan deposited in accordance with the Unit Titles Act 2010—
 
 ### 346E Authorisation of crossing places
 The council may from time to time—
