@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2009-08-01_
+_Consolidation as at 2011-06-20_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -110,7 +110,7 @@ In this Act, unless the context otherwise requires,—
   (a) the residential unit or units themselves; and
   (b) the common areas and facilities within the rest home or hospital care institution (if any) to which the resident or residents of the unit or units have access only by reason of their occupation right agreement.
 (4) For the avoidance of doubt, the following are not retirement villages for the purposes of this Act:
-  (a) owner-occupied residential units registered under the Unit Titles Act 1972 or owner-occupied cross-lease residential units that in either case do not provide services or facilities to their occupants beyond those commonly provided by—
+  (a) owner-occupied residential units registered under the Unit Titles Act 2010 or owner-occupied cross-lease residential units that in either case do not provide services or facilities to their occupants beyond those commonly provided by—
     (i) similar residential units that are not intended to provide accommodation predominantly for retired people and their spouses or partners; or
     (ii) residential units occupied under tenancies to which the Residential Tenancies Act 1986 applies:
   (b) boarding houses, guest houses, or hostels:
