@@ -1,5 +1,5 @@
 # Property Law Act 1952
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to consolidate and amend certain enactments relating to property
 
@@ -823,7 +823,7 @@ It is a defence to a director of any body corporate who is charged with an offen
     (a) A lease of any land on which a dwellinghouse is erected if the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it:
     (b) A licence to occupy within the meaning of section 121A of the Land Transfer Act 1952:
     (c) A lease under which the lessor, or, where more persons than one are entitled as lessor, any of those persons is also entitled as lessee:
-    (d) A lease to which Part 2 of the Unit Titles Act 1972 for the time being applies:
+    (d) A lease to which Part 3 of the Unit Titles Act 2010 for the time being applies:
   - **Lessor** and , in relation to a lease of a dwellinghouse, have corresponding meanings, but also, in relation to a lease of any land, include the respective executors, administrators, successors in title, and assigns of the lessor and lessee.
 (2) For the purposes of this section and the succeeding sections of this Part of this Act, except sections 117 to 121, dwellinghouse means any building or part of a building let as a separate dwelling; and includes any furniture or other chattels that may be let therewith; and also includes any land, outbuildings, or parts of buildings included in the tenancy; but does not include—
   (a) Any licensed premises within the meaning of the Sale of Liquor Act 1989; or
