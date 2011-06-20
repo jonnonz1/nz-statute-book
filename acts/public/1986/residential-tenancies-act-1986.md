@@ -1,18 +1,18 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2011-06-20_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Residential Tenancies Act 1986.
-(2) This Act shall come into force on the 1st day of February 1987.
+(2) This Act shall come into force on 1 February 1987.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **accommodation broker** means a person who, in the ordinary course of business, otherwise than as a solicitor or a letting agent acting on behalf of clients, informs other persons for fee or reward—
     (a) of residential premises that are or may be available for letting; or
     (b) of the names, addresses, or telephone numbers of persons who are or may be the proprietors or occupiers of residential premises that are or may be available for letting; or
-    (c) of the names, addresses, or telephone numbers of persons who wish or may wish to become tenants of residential premises:
+    (c) of the names, addresses, or telephone numbers of persons who wish or may wish to become tenants of residential premises
   - **address for service** has the meaning given to it by section 13AB
   - **adult** means a person who has attained the age of 18 years, or who is under that age but is or has been married or in a civil union
   - **agent** , in relation to any person who is a landlord or a tenant, means an agent of that person in that person's capacity as landlord or tenant; and includes an employee of that person in that person's capacity as landlord or tenant
@@ -21,7 +21,7 @@ _Consolidation as at 2010-10-01_
     (b) any complaint by the landlord against the tenant or by the tenant against the landlord; and
     (c) any claim by the landlord against the tenant or by the tenant against the landlord:
     (d) any complaint by the chief executive alleging a breach of this Act:
-    (e) any other application that may be made to the Tribunal by virtue of any of the provisions of this Act or of any regulations made under this Act:
+    (e) any other application that may be made to the Tribunal by virtue of any of the provisions of this Act or of any regulations made under this Act
   - **approved form** , in relation to any application or other matter, means a form approved and made available by the chief executive for the purposes of that application or matter
   - **assignment** means a transfer to a person of all of the rights that a tenant has under a tenancy agreement
   - **boarding house** , , , and have the meanings given to them in section 66B
@@ -30,15 +30,15 @@ _Consolidation as at 2010-10-01_
   - **commercial premises** means premises that are not residential premises
   - **contact address** ,—
     (a) in relation to a landlord, means an address or addresses (which may include telephone numbers) where the landlord or the landlord's agent is reasonably contactable by the tenant; and in addition
-    (b) in relation to a landlord that is a company, includes (if the information is different from that given under paragraph (a) of this definition)—
+    (b) in relation to a landlord that is a company, includes (if the information is different from that given under paragraph (a))—
       (i) the full name of the officer responsible to the company for the administration of the tenancy; and
       (ii) an address or addresses (which may include telephone numbers) where that officer or the landlord's agent is reasonably contactable by the tenant; and
-      (iii) the address of the company's registered office:
+      (iii) the address of the company's registered office
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Deputy Principal Tenancy Adjudicator** means the Deputy Principal Tenancy Adjudicator appointed under section 67(2A):
+  - **Deputy Principal Tenancy Adjudicator** means the Deputy Principal Tenancy Adjudicator appointed under section 67(2A)
   - **dispute** , in relation to a matter before, or to be brought before, the Tribunal, includes any claim, difference, question, or other matter, whether it requires a decision as between the parties or a declaration
   - **ethical belief** means the absence of a religious belief whether in respect of a particular religion or religions or all religions
-  - **facilities** , in relation to a tenancy agreement (other than a boarding house tenancy agreement), includes all facilities provided by the landlord for the non-exclusive use and enjoyment of the tenant, otherwise than as part of the premises that are the subject of the agreement, such as the following
+  - **facilities** , in relation to a tenancy agreement (other than a boarding house tenancy agreement), includes all facilities provided by the landlord for the non-exclusive use and enjoyment of the tenant, otherwise than as part of the premises that are the subject of the agreement, such as the following:
     (a) any land or buildings intended for use for storage space or for the parking of motor vehicles:
     (b) laundry facilities:
     (c) cooking facilities:
@@ -48,7 +48,7 @@ _Consolidation as at 2010-10-01_
     (g) appliances for heating or cooling premises:
     (h) communication facilities:
     (i) recreational areas:
-    (j) lawns, gardens, and outhouses:
+    (j) lawns, gardens, and outhouses
   - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 7(3) and section 58(1), does not include such a tenancy that is terminable by notice
   - **the Fund** means the Residential Tenancies Fund established by section 127
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
@@ -59,7 +59,7 @@ _Consolidation as at 2010-10-01_
     (b) a former landlord; and
     (c) a lawful successor in title of a landlord to the premises; and
     (d) the personal representative of a deceased landlord; and
-    (e) an agent of a landlord:
+    (e) an agent of a landlord
   - **letting agent** , in relation to a tenancy, means a person who, in the ordinary course of business, acts, or who holds himself or herself out to the public as ready to act, for reward as an agent in respect of the grant or assignment of tenancies, whether or not that person carries on any other business
   - **member of the landlord’s or owner’s family** means any of the following:
     (a) the landlord’s or owner’s spouse or civil union partner:
@@ -77,7 +77,7 @@ _Consolidation as at 2010-10-01_
   - **premises** includes (other than in relation to a boarding house tenancy, in which case the definition in section 66B applies)—
     (a) any part of any premises; and
     (b) any land and appurtenances, other than facilities; and
-    (c) any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land:
+    (c) any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land
   - **prescribed** means prescribed by this Act or by regulations made under this Act
   - **Principal Tenancy Adjudicator** means the Principal Tenancy Adjudicator appointed under section 67(2)(a)
   - **prospective landlord** means a person who has offered to grant a tenancy to any other person, or who has entered into negotiations with any other person for the granting of a tenancy to that other person
@@ -97,18 +97,18 @@ _Consolidation as at 2010-10-01_
     (b) a former tenant; and
     (c) a lawful successor in title of a tenant to the premises; and
     (d) the personal representative of a deceased tenant; and
-    (e) an agent of a tenant:
+    (e) an agent of a tenant
   - **Tribunal** means the Tenancy Tribunal constituted by section 67
   - **unlawful act** means anything declared by any of the provisions of this Act to be an unlawful act
   - **witness summons** means a summons issued under section 98 requiring the person named in the summons to attend at a specified time and place and to give evidence or to produce any document or thing
   - **work order** means an order by the Tribunal to carry out any repairs to any premises or to any chattels, or to rectify any deficiency in the performance of any services, by doing such work or attending to such matters (including the replacement of chattels) as may be specified in the order
   - **working day** means any day other than—
     (a) a Saturday or Sunday; and
-    (b) the Sovereign's Birthday, Anzac Day, Labour Day, and Waitangi Day; and
+    (b) the Sovereign's birthday, Anzac Day, Labour Day, and Waitangi Day; and
     (c) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (d) a day in the period commencing with Good Friday and expiring with the Tuesday after Easter; and
-    (e) a day in the period commencing with the 24th day of December and expiring with the 3rd day of January.
-(2) For the purposes of paragraph (b) of the definition of the term service tenancy in subsection (1), two companies are associated if one is the wholly or partly owned subsidiary of the other.
+    (e) a day in the period commencing with 24 December and expiring with 3 January.
+(2) For the purposes of paragraph (b) of the definition of the term service tenancy in subsection (1), 2 companies are associated if one is the wholly or partly owned subsidiary of the other.
 (3) For the purposes of this Act, where any premises that are subject to a legal or an equitable lease are used for both commercial and residential purposes, the premises shall be deemed to be residential premises unless it is proved that the premises were let principally for purposes other than residential purposes.
 
 ## Part 1 — Application of Act
@@ -124,7 +124,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (a) where the premises are commercial premises:
   (b) where the whole or a substantial part of the tenant's income is derived from the use of the premises for agricultural, pastoral, horticultural, or other similar purposes:
   (ba) where the premises are let for a fixed-term tenancy of at least 5 years, the tenancy was granted before the commencement, on 1 January 2008, of the Property Law Act 2007, and the tenancy agreement expressly provides that this Act shall not apply:
-  (c) where the premises constitute part of a Corrections prison or police jail:
+  (c) where the premises constitute part of a Corrections prison or Police jail:
   (d) where the premises constitute part of any hospital, home, or other institution for the care of sick, disabled, or aged persons:
   (e) where the premises constitute part of Police barracks, or Police cells and lock-ups:
   (f) where the premises constitute any barracks conducted by the Armed Forces for the accommodation of persons subject to the Armed Forces Discipline Act 1971:
@@ -142,7 +142,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (n) where the premises, not being a boarding house, continue to be used, during the tenancy, principally as a place of residence by the landlord or the owner of the premises or by any member of the landlord’s or owner’s family:
   (o) where the tenant is the purchaser of the premises under an agreement for sale and purchase with the landlord as vendor, not being an agreement that is revocable at will by the vendor:
   (p) where any of the tenants is also the landlord or one of the landlords by virtue of an arrangement of a kind commonly known as a cross-lease or lease-back arrangement:
-  (q) where the tenant's interest in the premises is a stratum estate in leasehold under the Unit Titles Act 1972:
+  (q) where the tenant's interest in the premises is a stratum estate in leasehold under the Unit Titles Act 2010:
   (r) where the tenancy arises wholly from or depends wholly upon the ownership by the tenant of any shares in a company that owns the premises:
   (s) where the tenancy agreement—
     (i) is genuinely entered into to enable a tenant (the sublandlord) to sublet the premises to provide accommodation for other people for commercial gain or to provide accommodation for the sublandlord's employees or to provide social housing; and
@@ -154,7 +154,7 @@ This Act applies to every tenancy for residential purposes except as specificall
     (ii) is intended for human habitation for periods not exceeding 50 days in any continuous term of occupancy:
   (tb) where temporary or transient accommodation is provided in a relocatable home under a tenancy agreement that has been entered into for the purpose of providing accommodation of that kind and that continues to be provided under the agreement:
   (u) if the tenancy has been entered into by a leasing authority under section 7(1)(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
-  (v) if the Maori Trustee has leased a Maori reserve or township land under section 26 of the Maori Reserved Land Act 1955:
+  (v) if the Māori Trustee has leased a Māori reserve or township land under section 26 of the Maori Reserved Land Act 1955:
   (w) if the lease provides for a perpetual right of renewal:
   (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it.
 (2) In subsection (1)(s)(i), social housing means housing for—
@@ -168,7 +168,7 @@ This Act applies to every tenancy for residential purposes except as specificall
 
 ### 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
 (1) This section applies to a fixed-term tenancy of at least 5 years, and to which this Act does not apply because the tenancy—
-  (a) commenced before 1 December 1996 and is one to which section 6, as repealed by section 4(1) of the Residential Tenancies Amendment Act 1996, continues to apply in accordance with section 4(2) of that Amendment Act; or
+  (a) commenced before 1 December 1996 and is one to which section 6 of this Act, as repealed by section 4(1) of the Residential Tenancies Amendment Act 1996, continues to apply in accordance with section 4(2) of that Amendment Act; or
   (b) commenced on or after 1 December 1996 and before 1 January 2008 (which is the date on which the Property Law Act 2007 came into force) and is one to which section 5(ba) applies.
 (2) The tenancy—
   (a) remains subject to sections 104A, 104B, 107B, and 116A to 116M (except section 116B(2)) of the Property Law Act 1952 (the specified sections of the 1952 Act), so far as those sections were applicable to the tenancy immediately before the commencement, on 1 January 2008, of the Property Law Act 2007, and as if those sections had not been repealed by that Act; and
@@ -565,7 +565,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 ### 30 Landlord to keep records
 (1) Every landlord under a tenancy to which this Act applies shall keep or cause to be kept proper business records showing—
   (a) all payments of rent paid by or on behalf of the tenant, sufficient to enable the landlord to comply within a reasonable time with any request made by the tenant under section 29(3); and
-  (b) any amount by way of bond paid by or on behalf of the tenant on or after the 1st day of May 1996.
+  (b) any amount by way of bond paid by or on behalf of the tenant on or after 1 May 1996.
 (2) Failure to keep records in accordance with this section is hereby declared to be an unlawful act.
 
 ### 31 Apportionment of rent
@@ -587,7 +587,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 (2) Seizing or disposing of any goods in contravention of subsection (1) is hereby declared to be an unlawful act.
 (3) Nothing in this section shall limit or affect the way in which any order of the Tribunal, or of any court on appeal from the Tribunal, may be enforced.
 (4) Nothing in this section applies to—
-  (a) goods disposed of under sections 62 to 62C; or
+  (a) goods disposed of under any of sections 62 to 62C; or
   (b) foodstuffs and other perishable goods if the landlord has reasonable cause to believe that the premises have been abandoned by the tenant.
 
 ### 34 Transitional provision relating to bonds
@@ -635,7 +635,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (e) on the termination of the tenancy,—
     (i) quit the premises; and
     (ii) remove all his or her goods from the premises; and
-    (iii) leave the premises in a reasonably clean and reasonably tidy condition, and remove or arrange for the removal from the premises of all rubbish.
+    (iii) leave the premises in a reasonably clean and reasonably tidy condition, and remove or arrange for the removal from the premises of all rubbish; and
     (iv) return to the landlord all keys, and security or pass cards or other such devices, provided by the landlord for the use of the tenant; and
     (v) leave in or at the premises all other chattels provided by the landlord for the use of the tenant.
 (2) The tenant shall not—
@@ -810,7 +810,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (6) Without limiting anything in subsections (2) to (5), in respect of a service tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971, the landlord may terminate the tenancy by giving less than 14 days' notice if the operational requirements of the Armed Forces so require.
 (7) In any proceedings before the Tribunal in which the validity of a notice purporting to have been given under this section is in issue, the following provisions shall apply:
   (a) whether the contract of service or, as the case requires, contract for services was or was not terminated shall be a question of fact to be determined by the Tribunal, but the Tribunal shall not be concerned with the lawfulness or otherwise of that termination:
-  (b) it shall be for the landlord to establish to the satisfaction of the Tribunal the matters referred to in paragraphs (a) and (b) of subsection (2), and in subsection (5), of this section:
+  (b) it shall be for the landlord to establish to the satisfaction of the Tribunal the matters referred to in paragraphs (a) and (b) of subsection (2), and in subsection (5):
   (c) in the case of a service tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971, a certificate by the Secretary of Defence to the effect that operational requirements necessitated the giving of notice of less than 14 days shall be accepted by the Tribunal as conclusive proof of that matter.
 
 ### 53A Special provisions for notice terminating certain student tenancies
@@ -855,7 +855,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (2) Where an application is made by a landlord under this section and the Tribunal is satisfied that at the time of determining the matter the landlord could have made an application under section 55, the Tribunal shall determine the matter as if an application had been made under that section.
 
 ### 57 Effect on subtenancy of termination of head tenancy
-(1) Except as provided in subsections (2) and (3), where any premises are subject to a tenancy and one or more subtenancies, on the termination of the tenancy each subtenancy shall be deemed to be terminated.
+(1) Except as provided in subsections (2) and (3), where any premises are subject to a tenancy and 1 or more subtenancies, on the termination of the tenancy each subtenancy shall be deemed to be terminated.
 (2) Where—the landlord may, on the same date, give a copy of the notice to the subtenant, in which case the notice shall have effect to terminate the subtenancy on the date on which the tenancy will terminate.
   (a) the landlord has consented to a subletting by the tenant to a subtenant; and
   (b) the landlord is giving to the tenant notice to terminate the tenancy in accordance with section 51 or section 52,—
@@ -1299,7 +1299,7 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
 ### 67 Constitution of Tribunal
 (1) For the purposes of this Act there is hereby constituted a tribunal, to be called the Tenancy Tribunal.
 (2) The Tribunal shall consist of—
-  (a) one person, being a person who has held a required qualification for at least 5 years, who shall be appointed to be the Principal Tenancy Adjudicator:
+  (a) 1 person, being a person who has held a required qualification for at least 5 years, who shall be appointed to be the Principal Tenancy Adjudicator:
   (b)
   (c) such number of other persons as may be required to ensure the efficient and expeditious exercise of the jurisdiction of the Tribunal throughout New Zealand, who shall be appointed to be Tenancy Adjudicators.
 (2A) One Tenancy Adjudicator, being a person who has held a required qualification for at least 5 years, may be appointed to be the Deputy Principal Tenancy Adjudicator.
@@ -1427,7 +1427,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
 ### 78 Orders of Tribunal
-(1) Without limiting the generality of section 77 or the nature or extent of orders that the Tribunal may make in the exercise of its jurisdiction, the Tribunal may, in respect of any claim within its jurisdiction, make one or more of the following orders:
+(1) Without limiting the generality of section 77 or the nature or extent of orders that the Tribunal may make in the exercise of its jurisdiction, the Tribunal may, in respect of any claim within its jurisdiction, make 1 or more of the following orders:
   (a) an order in the nature of a declaration, whether as to the status for the purposes of this Act of any premises or of any agreement or purported agreement, or as to the rights or obligations of any party, or otherwise:
   (b) an order that a party yield possession of any premises to any other party:
   (c) an order that a party deliver any specific chattels to any other party:
@@ -1472,9 +1472,9 @@ Subject to sections 105 and 117 to 120, every order made by the Tribunal shall, 
 
 ### 83 Transfer of proceedings to District Court
 (1) Where any proceedings have been commenced before the Tribunal that the Tribunal has no jurisdiction to hear and determine, the Tribunal may, instead of striking out the proceedings, order that they be transferred to a District Court in its ordinary civil jurisdiction.
-(2) The Tribunal may order that any proceedings be transferred to a District Court in its ordinary civil jurisdiction if the Tribunal is satisfied that the proceedings would be more properly determined in that Court.
+(2) The Tribunal may order that any proceedings be transferred to a District Court in its ordinary civil jurisdiction if the Tribunal is satisfied that the proceedings would be more properly determined in that court.
 (3) The Tribunal shall not make an order under subsection (1) or subsection (2) in respect of a claim if any agreement of a kind described in section 81(2) requires that the claim be submitted to arbitration.
-(4) Any proceedings transferred to a District Court under this section shall be deemed to have been commenced by action in that Court, and shall be dealt with by that Court accordingly.
+(4) Any proceedings transferred to a District Court under this section shall be deemed to have been commenced by action in that court, and shall be dealt with by that court accordingly.
 
 ### 83A Referral of complaints to Health and Disability Commissioner
 If a dispute or part of a dispute raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994, the Tribunal may—
@@ -1520,10 +1520,10 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
 (1) This section applies to any oral or written statement (including a statement contained in a document) made in the course of, and for the purposes of or in connection with, the mediation by a Tenancy Mediator of any dispute.
 (2) No action in defamation shall lie against any person in respect of any statement to which this section applies.
 (3) No evidence of any statement to which this section applies shall be admissible in any proceedings before any court or tribunal, or any person acting judicially.
-(4) Nothing in subsection (3) shall apply if—being an offence arising from an act or omission occurring after the statement was made; or
+(4) Nothing in subsection (3) shall apply if—
   (a) the parties to the dispute consent to the admission of the statement; or
   (b) the statement is otherwise admissible in any criminal proceedings and the defendant in those proceedings adduces it; or
-  (c) the statement is otherwise admissible in any criminal proceedings in which a person is charged with an offence—
+  (c) the statement is otherwise admissible in any criminal proceedings in which a person is charged with an offence—being an offence arising from an act or omission occurring after the statement was made; or
     (i) against the person; or
     (ii) against rights of property; or
     (iii) of threatening, conspiring, or attempting to commit an offence against the person or against rights of property,—
@@ -1600,7 +1600,7 @@ If a notice or other document that is required to be served on a party is not se
   (b) when approving a representative under section 93(5) or at any time thereafter, authorise that representative to control the conduct of the minor's case.
 (3) In any proceedings before the Tribunal, any manager or person appointed to administer another's affairs under the Protection of Personal and Property Rights Act 1988 shall, subject to that Act, control the conduct of the case of the person whose affairs they manage or administer.
 (4) A person who is empowered by or under this section to control the conduct of the case of another person may do all such things in the proceedings as the person so empowered could do if that person were a party to the proceedings in place of that other person.
-(5) Nothing in this section shall restrict the application of section 12 of the Minors Contracts Act 1969 to—after proceedings have been commenced before the Tribunal.
+(5) Nothing in this section shall restrict the application of section 12 of the Minors' Contracts Act 1969 to—after proceedings have been commenced before the Tribunal.
   (a) a settlement agreed to by or on behalf of a minor; or
   (b) a payment made or proposed to be made by, or on behalf of, or to, or for the benefit of, a minor,—
 (6) In this section proceedings before the Tribunal means—and also includes any order made in any such proceedings.
@@ -1673,7 +1673,7 @@ If a notice or other document that is required to be served on a party is not se
   (c) where, in the opinion of the Tribunal, the matter in dispute ought reasonably to have been settled before the Tenancy Mediator but that the party against whom the order is to be made refused, without reasonable excuse, to take part in proceedings before a Tenancy Mediator or acted in any such proceedings in a contemptuous or improper manner:
   (d) where any applicant to the Tribunal, after receiving notice of the hearing, fails to attend the hearing without good cause.
 (3) In any case to which subsection (2) applies, the Tribunal may order a party to pay—
-  (a) to the Crown, any one or more of the following:
+  (a) to the Crown, any 1 or more of the following:
     (i) the reasonable costs of the Tribunal hearing:
     (ii) the fees and expenses of any witness that have been paid or are payable by the Crown:
     (iii) the reasonable fees and expenses of any Tenancy Mediator in relation to the preparation of a report under section 99:
@@ -1702,13 +1702,13 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 **Enforcement and offences**
 
 ### 106 Enforcement of possession orders
-(1) Every possession order shall, on being filed in the appropriate District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the Court under the District Courts Act 1947.
+(1) Every possession order shall, on being filed in the appropriate District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the District Courts Act 1947.
 (2) Where any such order is filed in a District Court, section 79(5) of the District Courts Act 1947 shall apply as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
 
 ### 107 Enforcement of orders other than possession orders and work orders
 (1) Every order made by the Tribunal other than a possession order or a work order shall be deemed to be an order of the District Court, and, subject to this section, may be enforced accordingly.
 (2) Where application is made to a District Court for the issue of any process to enforce an order provided for by subsection (2) or subsection (2A) of section 78 (requiring a party to pay money to another as an alternative to compliance with a work order or an order other than a monetary order), the Registrar shall give written notice of the application to the party against whom enforcement is sought.
-(3) If that party does not file in the Court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
+(3) If that party does not file in the court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
 (4) The notice referred to in subsection (3) may be given only on the ground that it is the belief of the party giving it that the order of the Tribunal has been fully complied with and that the party therefore disputes the entitlement of the applicant to enforce it.
 (5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed time, the Registrar shall refer the matter to the Tribunal to be heard and determined under section 108(2).
 (6) The chief executive may advance to any person who seeks to enforce an order pursuant to subsection (1) the amount of any filing fee payable by that person; and, where the chief executive does make any such advance, the amount of the advance shall be recoverable from the other party as a debt due to the Crown.
@@ -1785,7 +1785,7 @@ In this section and in sections 112B to 112F,—
     (c) of a type that the Secretary for Justice has, by notice in the Gazette, identified as being information that is likely to assist in locating judgment debtors for the purpose of enforcing Tribunal orders
   - **judgment debtor** means a person who is required under a Tribunal order to pay money to the named in the order
   - **specified agency** means any of the following:
-    (a) the Department:
+    (a) the department:
     (b) the Ministry of Social Development:
     (c) the Ministry of Justice
   - **specified database** means a database operated by a specified agency and prescribed by regulation as a specified database for the purposes of section 112C(2).
@@ -1834,7 +1834,7 @@ When the Secretary for Justice receives contact information from the chief execu
     (ii) that enforcement proceedings may be commenced in that District Court or, if they have already been commenced in that or any other District Court, that enforcement proceedings may now continue in, or be transferred to, that District Court.
 
 ### 112F Non-disclosure of contact information
-(1) If contact information has been sent to the Registrar of a District Court in connection with enforcement proceedings relating to a Tribunal order, neither the Registrar nor the Court staff may disclose the contact information unless the disclosure is necessary for the purpose of enforcing the order or for determining any proceedings associated with enforcement of the order.
+(1) If contact information has been sent to the Registrar of a District Court in connection with enforcement proceedings relating to a Tribunal order, neither the Registrar nor the court staff may disclose the contact information unless the disclosure is necessary for the purpose of enforcing the order or for determining any proceedings associated with enforcement of the order.
 (2) No person may search, inspect, or copy any court file that contains contact information, unless a Judge directs otherwise.
 (3) A Judge may make a direction under subsection (2) only if satisfied that the contact information contained on the file is—
   (a) already known to the person seeking to search, inspect, or copy the record; or
@@ -1866,7 +1866,7 @@ For the purpose of ensuring that the application and administration of this Act 
 (1) The Governor-General may from time to time, by Order in Council, make rules for all or any of the following purposes:
   (a) regulating the practice and procedure of the Tribunal:
   (b) prescribing such things (including fees) as are required by this Act to be prescribed:
-  (c) prescribing such other matters as are necessary or desirable for carrying out the provisions of this Part of this Act.
+  (c) prescribing such other matters as are necessary or desirable for carrying out the provisions of this Part.
 (2) Without limiting the generality of subsection (1), rules may be made providing for the following:
   (a) the keeping of records by the Tribunal and the form of such records:
   (b) the form of documents to be issued by the Tribunal and the sealing of its documents:
@@ -1896,8 +1896,8 @@ For the purpose of ensuring that the application and administration of this Act 
 (4) The provisions of section 85, with any necessary modifications, shall apply in respect of the hearing and determination by a District Court of an appeal brought under this section.
 (5) An appeal under this section shall be brought by the filing of a notice of appeal in the District Court nearest to the place at which the Tribunal sat in the proceedings to which the appeal relates.
 (6) Every such notice of appeal shall be filed within 10 working days after the date of the decision to which the appeal relates.
-(7) As soon as practicable after a notice of appeal has been filed under this section, the Registrar of the Court shall cause a copy of the notice to be lodged with the Tribunal's records relating to the proceedings to which the appeal relates, and, on receipt of that copy, the Registrar of the Tribunal shall send the Tribunal's file on the matter to the Court.
-(8) The Registrar of the Court shall fix the time and place for the hearing of the appeal and shall notify the appellant.
+(7) As soon as practicable after a notice of appeal has been filed under this section, the Registrar of the court shall cause a copy of the notice to be lodged with the Tribunal's records relating to the proceedings to which the appeal relates, and, on receipt of that copy, the Registrar of the Tribunal shall send the Tribunal's file on the matter to the court.
+(8) The Registrar of the court shall fix the time and place for the hearing of the appeal and shall notify the appellant.
 (9) A copy of every notice of appeal together with a notice of the time and place for hearing the appeal shall be served by the Registrar on the other party to the proceedings before the Tribunal, and that party may appear and be heard.
 (10) The filing of a notice of appeal under this section shall not operate as a stay of proceedings, unless the Tribunal or a District Court Judge, on application, so determines.
 (11) Where the appeal relates to an order terminating the tenancy made on the ground of non-payment of rent, a stay of proceedings shall not be granted unless the application for stay is supported by a receipt or other written evidence tending to show that the rent was not in fact in arrear at the date of the hearing before the Tribunal.
@@ -1916,11 +1916,11 @@ For the purpose of ensuring that the application and administration of this Act 
 
 ### 120 Further appeal to Court of Appeal
 (1) Any party to an appeal under section 119 may, with the leave of the High Court or (if that leave is refused) with special leave of the Court of Appeal, appeal to the Court of Appeal against the determination of the High Court.
-(2) An application to the High Court for leave to appeal to the Court of Appeal under this section shall be brought, in accordance with the rules of Court, within 15 working days after the determination of the High Court, or within such further time as the High Court may allow; and the High Court may grant leave accordingly if, in its opinion, the appeal involves a question of law that, because of its general or public importance or for any other reasons, ought to be submitted to the Court of Appeal for decision.
-(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 15 working days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in accordance with the rules of that Court, for special leave to appeal to that Court, and the Court of Appeal may grant leave accordingly if, in its opinion, the appeal involves a question of law that, because of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(2) An application to the High Court for leave to appeal to the Court of Appeal under this section shall be brought, in accordance with the rules of court, within 15 working days after the determination of the High Court, or within such further time as the High Court may allow; and the High Court may grant leave accordingly if, in its opinion, the appeal involves a question of law that, because of its general or public importance or for any other reasons, ought to be submitted to the Court of Appeal for decision.
+(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 15 working days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in accordance with the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in its opinion, the appeal involves a question of law that, because of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4) On any appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
 (5) The decision of the Court of Appeal on any appeal under this section shall be final; and the same judgment shall be entered in the High Court, and the same consequences and proceedings shall follow thereon, as if the decision of the Court of Appeal had been given in the High Court.
-(6) The decision of the Court of Appeal on any application to that Court for leave to appeal shall be final.
+(6) The decision of the Court of Appeal on any application to that court for leave to appeal shall be final.
 
 ## Part 4 — Administration
 
@@ -1959,7 +1959,7 @@ The chief executive is responsible for the general administration of this Act.
   (b) the chief executive may, without consulting or seeking the consent of the party, conduct the proceedings in such manner as the chief executive considers to be appropriate and proper:
   (c) in the case of any proceedings already commenced, the Tribunal or court hearing the matter shall, on the chief executive's application, substitute the chief executive for the party as a party to the proceedings:
   (d) any money (excluding costs) recovered by the chief executive shall, without any deduction, be paid by the chief executive to the person on whose behalf the chief executive is acting:
-  (e) if any party to the proceedings alleges another cause of action, or if the party on whose behalf the proceedings are being defended has another cause of action, the Tribunal or Court shall, on the chief executive's application, order that the other cause of action be heard separately and that the party be a party to those other proceedings in his or her own right.
+  (e) if any party to the proceedings alleges another cause of action, or if the party on whose behalf the proceedings are being defended has another cause of action, the Tribunal or court shall, on the chief executive's application, order that the other cause of action be heard separately and that the party be a party to those other proceedings in his or her own right.
 (5) Any certificate given by the chief executive in relation to any matter referred to in subsection (1) or subsection (2) or subsection (3) and relating to the chief executive's powers, shall, in the absence of proof to the contrary, be sufficient evidence of the matters referred to in the certificate.
 (6) Any money that the chief executive becomes liable to pay by virtue of this section shall be paid out of Part B of the Fund.
 (7) Notwithstanding anything contained in subsection (1) or subsection (2), the chief executive shall not exercise any power conferred by this section, in relation to a tenancy agreement that has terminated, upon the request or complaint of any person who was a party to the agreement unless the request or complaint is made in writing within a period of 12 months after the termination of the agreement.
@@ -1968,7 +1968,7 @@ The chief executive is responsible for the general administration of this Act.
 No personal liability shall attach to the chief executive or to any delegate of the chief executive for any act or omission by the chief executive or the delegate made in good faith and in the exercise, or purported exercise, of all or any of the functions or powers of the chief executive under this Act, or in the discharge, or purported discharge, of all or any of the chief executive's duties under this Act, but without prejudice to any liability that the Crown may incur for the acts or omissions of any employee or agent of the Crown.
 
 ### 126 Annual report
-(1) The chief executive shall, as soon as practicable after the 30th day of June in each year, submit to the Minister a report on the administration of this Act during the year ending on that day; and shall include that report in the annual report of the department prepared pursuant to section 43 of the Public Finance Act 1989.
+(1) The chief executive shall, as soon as practicable after 30 June in each year, submit to the Minister a report on the administration of this Act during the year ending on that day; and shall include that report in the annual report of the department prepared pursuant to section 43 of the Public Finance Act 1989.
 (2) The report shall show separately—
   (a) the audited consolidated financial statements for the Residential Tenancies Trust Account for the year to which the report relates, consisting of such statements as may be necessary to show the financial position of that Account and the financial results of the operation of the Account during that year; and
   (b) the auditor's report on those financial statements.
@@ -1995,7 +1995,7 @@ No personal liability shall attach to the chief executive or to any delegate of 
 (8) All money credited to Part A of the Residential Tenancies Fund immediately before the commencement of the Residential Tenancies Amendment Act 1992 shall be deemed to be credited to the Residential Tenancies Trust Account.
 (9) All money credited to Part B of the Residential Tenancies Fund immediately before the commencement of the Residential Tenancies Amendment Act 1992 shall be deemed to be the property of the Crown.
 
-### 128 Auditor-General to be auditor of residential tenancies trust account
+### 128 Auditor-General to be auditor of Residential Tenancies Trust Account
 (1) The Residential Tenancies Trust Account is to be treated as a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) Without limiting subsection (1), the chief executive may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor to be an additional auditor of the Residential Tenancies Trust Account.
 
@@ -2053,9 +2053,9 @@ Any amount that is, by virtue of any provision of this Act or of any order of th
 (5) A witness summons may be served on the witness—
   (a) personally; or
   (b) by sending it by post addressed to the witness at the witness's last-known place of residence or business.
-(6) Where any document is sent by post in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the 4th working day after the date on which it was posted; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
-(7) Where any document is delivered to any address in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the 2nd working day after the date on which it was delivered; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and delivered.
-(8) Where any document is transmitted by facsimile in accordance with this section after 5pm on any day, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted; and, in proving service, it shall be sufficient to prove that the document was properly transmitted by facsimile machine to the person concerned.
+(6) Where any document is sent by post in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the fourth working day after the date on which it was posted; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
+(7) Where any document is delivered to any address in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the second working day after the date on which it was delivered; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and delivered.
+(8) Where any document is transmitted by facsimile in accordance with this section after 5 pm on any day, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted; and, in proving service, it shall be sufficient to prove that the document was properly transmitted by facsimile machine to the person concerned.
 
 ### 136A Calculation of periods
 Where this Act requires notice to be given of any thing and prescribes a following period within which, or on the expiry of which, a thing is required or permitted to be done, or a change in the parties’ rights, obligations, interests, or status is to take effect, the period—
@@ -2085,15 +2085,15 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000, and, where the offence is a continuing one, a further amount not exceeding $500 for every day or part of a day during which the offence has continued.
 
 ### 140 Regulations relating to other matters
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-(a) prescribing forms to be used for any purposes under this Act:
-(b) prescribing fees to be paid in respect of any matter under this Act, and specifying the circumstances in which any such fee may be waived or remitted in whole or in part:
-(c) requiring the provision of specified information by the landlord to the tenant at the commencement of a tenancy agreement:
-(d) providing for the payment of bonds by instalments; and providing for a landlord to be indemnified or protected in some other way from any loss arising out of the failure by the tenant to pay all the required instalments:
-(da) prescribing the method by which payments are to be made to the chief executive:
-(e) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $1,000 and, where the offence is a continuing one, a further amount not exceeding $100 for every day or part of day during which the offence has continued:
-(ea) prescribing specified databases for the purposes of section 112C(2):
-(f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing forms to be used for any purposes under this Act:
+  (b) prescribing fees to be paid in respect of any matter under this Act, and specifying the circumstances in which any such fee may be waived or remitted in whole or in part:
+  (c) requiring the provision of specified information by the landlord to the tenant at the commencement of a tenancy agreement:
+  (d) providing for the payment of bonds by instalments; and providing for a landlord to be indemnified or protected in some other way from any loss arising out of the failure by the tenant to pay all the required instalments:
+  (da) prescribing the method by which payments are to be made to the chief executive:
+  (e) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $1,000 and, where the offence is a continuing one, a further amount not exceeding $100 for every day or part of day during which the offence has continued:
+  (ea) prescribing specified databases for the purposes of section 112C(2):
+  (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Regulations under this section that prescribe the circumstances in which a fee may be waived or remitted in whole or in part may specify, as circumstances in which fees payable by landlords and tenants may be waived or remitted in whole or in part,—
   (a) the fact that a bond of not less than a prescribed number of weeks' rent has been paid in accordance with section 19 or section 21, as the case may be:
   (b) the fact that an address for service has been notified under section 15 or section 16, as the case may be.
@@ -2104,26 +2104,17 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 142 Effect of Property Law Act 2007
 (1) Nothing in Part 4 of the Property Law Act 2007 applies to a tenancy to which this Act applies.
-(2) However, the Tribunal, in exercising its jurisdiction in accordance with section 85, may look to Part 4 of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
+(2) However, the Tribunal, in exercising its jurisdiction in accordance with section 85 of this Act, may look to Part 4 of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
 
 ### 143 Housing Corporation Act 1974 amended
 [Repealed]
 
 ### 144 Repeals, revocations, and amendments
-(1) The enactments specified in Schedule 2 to this Act are hereby repealed.
-(2) The regulations specified in Schedule 3 to this Act are hereby revoked.
-(3) The enactments specified in the first column of Schedule 4 to this Act are hereby amended in the manner indicated in the second column of that Schedule.
+(1) The enactments specified in Schedule 2 are hereby repealed.
+(2) The regulations specified in Schedule 3 are hereby revoked.
+(3) The enactments specified in Schedule 4 are hereby amended in the manner indicated in that schedule.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
-
-| Provision A |
-| --- |
-
-| Provision B |
-| --- |
-
-| Provision C |
-| --- |
 
 ## Schedule 1A — Amounts for unlawful acts
 
@@ -2169,11 +2160,35 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ## Schedule 4 — Enactments amended
 
+### 1 Short Title and commencement
+(1) This Act may be cited as the Residential Tenancies Amendment Act 1996, and shall be read together with and deemed part of the Residential Tenancies Act 1986 (hereinafter referred to as the principal Act).
+(2) Except as provided in sections 3, 4, 6, 7, and 17 of this Act, this Act shall come into force on 1 May 1996.
+
+### 4 Long fixed-term tenancies
+(1) Amendment(s) incorporated in the Act(s).
+(2) Section 6 of the principal Act shall, notwithstanding its repeal by subsection (1) of this section, continue to apply to any tenancy that commenced before 1 December 1996.
+(3) This section shall come into force on 1 December 1996.
+
+### 6 New sections relating to tenancy agreements substituted
+(1) Amendment(s) incorporated in the Act(s).
+(2) Section 13 of the principal Act (as in force immediately before the commencement of this section) shall, notwithstanding its repeal by subsection (1) of this section, continue to apply, as if this section had not been enacted, to any tenancy that commenced before 1 December 1996 until the termination or renewal of the tenancy.
+(3) Sections 13 to 13D of the principal Act (as substituted by subsection (1) of this section) shall apply to any grant, variation, or renewal of a tenancy on or after 1 December 1996.
+(4) This section shall come into force on 1 December 1996.
+
+### 7 New sections relating to notification of new particulars
+(1) Amendment(s) incorporated in the Act(s).
+(2) Sections 15 and 16 of the principal Act (as in force immediately before the commencement of this section) shall, notwithstanding their repeal by subsection (1) of this section, continue to apply, as if this section had not been enacted, to any tenancy that commenced before 1 December 1996.
+(3) Sections 15 and 16 of the principal Act (as substituted by subsection (1) of this section) shall apply to any tenancy that was granted on or after 1 December 1996.
+(4) This section shall come into force on 1 December 1996.
+
 ### 1 Title
 This Act is the Residential Tenancies Amendment Act 2010.
 
 ### 2 Commencement
 This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+
+### 3 Principal Act amended
+This Act amends the Residential Tenancies Act 1986.
 
 ## Part 2 — Transitional provisions
 
