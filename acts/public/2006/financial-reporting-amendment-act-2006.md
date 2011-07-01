@@ -1,5 +1,5 @@
 # Financial Reporting Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Financial Reporting Amendment Act 2006.
@@ -134,48 +134,19 @@ Section 19 is repealed and the following sections are substituted:Overseas compa
 Section 20(b) is amended by omitting section 19(2) and substituting section 19(3).
 
 ### 13 Functions of Board
-Section 24(1) is amended by inserting the following paragraph after paragraph (e):.
-  (ea) to grant exemptions under section 29A:
+[Repealed]
 
 ### 14 New sections 29A to 29D inserted
-The following sections are inserted after section 29:Board may grant exemptionsExemption may apply to accounting period before exemption is grantedFailure to comply with applicable financial reporting standard must be disregarded if directors of reporting entity are exemptBoard must notify reasons for exemption
-  (1) The Board may, by notice in the Gazette, exempt the directors of any class of reporting entities from ensuring that financial statements or group financial statements comply with any provision of an applicable financial reporting standard.
-  (2) The Board must not grant an exemption under this section unless it is satisfied that—
-    (a) compliance with the relevant provision would, in the circumstances, result in financial statements or group financial statements that are misleading in a material way or are likely to be misleading in a material way; and
-    (b) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption; and
-    (c) the person who applied for the exemption (if any) has taken reasonable steps to consult with persons or organisations or representatives of persons or organisations who, in the opinion of the Board, would be affected by the exemption.
-  (3) The exemption may be granted on any terms and conditions that the Board thinks fit.
-  (4) The Board may give notice of the exemption in any publications it thinks fit (in addition to notifying the exemption in the Gazette).
-  (5) The Board may vary or revoke an exemption in the same way as an exemption may be granted under this section.
-  An exemption under section 29A may, if the Board thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if,—
-    (a) in the case of copies of financial statements or group financial statements for that period that are required to be delivered for registration under section 18 or 19, the exemption is granted before those documents are required to be delivered for registration under those sections; or
-    (b) in any other case, the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
-  In considering whether the financial statements of a reporting entity, or group financial statements of a group comprising a reporting entity and its subsidiaries, comply with generally accepted accounting practice or applicable financial reporting standards (or both), a failure of the financial statements or group financial statements to comply with a provision of an applicable financial reporting standard must be disregarded if the directors of the reporting entity—
-    (a) are exempted under section 29A from ensuring that the financial statements or group financial statements comply with the provision of the applicable financial reporting standard; and
-    (b) comply with the terms and conditions of that exemption.
-  (1) The Board's reasons for granting an exemption under section 29A (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
-  (2) However, the Board may defer notifying or not notify the reasons for granting an exemption if the Board is satisfied that it is proper to do so on the ground of commercial confidentiality.
+[Repealed]
 
 ### 15 Consultation
-(1) Section 30(1) is amended by repealing paragraph (c) and substituting the following paragraphs:
-  (c) revoke the approval of any approved financial reporting standard; or
-  (d) grant, amend, or revoke an exemption under section 29A.
-(2) Section 30 is amended by inserting the following subsection after subsection (1):
-  (1A) The Board must, in deciding whether or not to grant, amend, or revoke an exemption under section 29A, consult with the Reserve Bank of New Zealand if the exemption concerns a registered bank (within the meaning of section 2(1) of the Reserve Bank of New Zealand Act 1989).
+[Repealed]
 
 ### 16 New section 33 substituted
-Section 33 is repealed and the following section substituted:Disallowance of determinations and exemptions by House of Representatives
-  (1) The Regulations (Disallowance) Act 1989 applies to—
-    (a) the following determinations of the Board as if the determination were a regulation within the meaning of that Act:
-      (i) any approval of a financial reporting standard and any amendment to an approved financial reporting standard:
-      (ii) any revocation of an approval of an approved financial reporting standard:
-      (iii) any determination made under section 27(3A):
-    (b) any notice published in the Gazette under section 29A (which relates to exemptions) as if the notice were a regulation within the meaning of that Act.
-  (2) The determinations and notices referred to in subsection (1) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+[Repealed]
 
 ### 17 Certificates of Board
-Section 34(1) is amended by inserting the following paragraph after paragraph (b):.
-  (ba) the granting, amendment, or revocation of an exemption under section 29A or the accounting period or interim accounting period in relation to which an exemption under that section applies; or
+[Repealed]
 
 ### 18 New sections 35A to 35E inserted
 The following sections are inserted before section 36:Securities Commission may grant exemptions to directors of issuers that are incorporated or constituted outside New ZealandRegistrar of Companies may grant exemptions to directors of overseas companiesConsultationExemption may apply to accounting period before exemption is grantedReasons for exemption must be notified
