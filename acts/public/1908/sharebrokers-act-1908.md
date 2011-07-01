@@ -1,5 +1,5 @@
 # Sharebrokers Act 1908
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to sharebrokers and stock exchanges
 
