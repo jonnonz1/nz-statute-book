@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3423,6 +3423,8 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 127(4) |  | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
 |  |  | 131A(1) |  | Offences relating to possession of objectionable publications and involving knowledge. |
 | Finance Act 1915 |  | 65 |  | Bribing officer of Customs, Officer accepting bribe or conniving at offence |
+| Financial Advisers Act 2008 |  | 137E |  | Contravening banning order |
+|  |  | 137J |  | Breaching orders |
 | Financial Reporting Act 1993 |  | 41 |  | False statements. |
 | Fisheries Act 1996 |  | 231(1) and (2) |  | Knowingly making a false or misleading statement or using a false document to obtain a benefit |
 |  |  | 233(1) |  | Knowingly receiving or possessing fish for sale or engaging in a commercial activity, otherwise than in accordance with the Act |
