@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-07-01_
 
 > Title
 
@@ -1267,7 +1267,7 @@ Every person commits an offence and is liable on summary conviction to a fine no
   (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
   (b) to set any standard.
 (5) Notwithstanding section 1(3), and without limiting section 11 of the Interpretation Act 1999, no regulation made under this section may be expressed to come into force before 1 April 1993.
-(6) The Minister, before recommending the making of any regulations under this section, shall consult with the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996 about the contents of such regulations and shall take into account any submissions made by that Authority.
+(6) The Minister, before recommending the making of any regulations under this section, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations and shall take into account any submissions made by that Authority.
 
 ### 54A Regulations that prescribe requirements for safety management systems
 (1) Regulations made under section 54(1)(bb) must provide for requirements relating to—
