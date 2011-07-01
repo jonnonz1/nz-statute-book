@@ -1,7 +1,7 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-07-01_
 
-> An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andcestablish an Accounting Standards Review Board and define its functions and powers; anddgive legal force to accounting standards approved by the Board; andeprovide for related matters
+> An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Financial Reporting Act 1993.
@@ -13,10 +13,10 @@ _Consolidation as at 2011-05-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **accounting period** , in relation to an entity, means a year ending on a balance date of the entity and, if as a result of the date of the formation or incorporation of the entity or a change of the balance date of the entity, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
-  - **applicable financial reporting standard** , in relation to a reporting entity or a group and to an accounting period or to an interim accounting period of a reporting entity, means an approved financial reporting standard that applies to that reporting entity or to that group and to that accounting period or that interim accounting period in accordance with a determination of the Board for the time being in force or any election made under section 27
-  - **approved financial reporting standard** means a financial reporting standard approved by the Board under section 24; and includes an amendment to an approved financial reporting standard that is approved by the Board under that section
+  - **applicable financial reporting standard** , in relation to a reporting entity or a group and to an accounting period or an interim accounting period of a reporting entity, means a financial reporting standard that applies to the reporting entity or the group and to the accounting period or the interim accounting period in accordance with the financial reporting standard, a determination of the Board for the time being in force, or any election made under section 28(4)
+  - **auditing and assurance standard** means an auditing and assurance standard issued by the Board under section 24; and includes an amendment to an auditing and assurance standard that is issued by the Board under that section
   - **balance date** has the meaning given to it by section 7
-  - **Board** means the Accounting Standards Review Board established by this Act
+  - **Board** means the External Reporting Board continued under section 22
   - **chief executive** has the same meaning as in section 2 of the Public Finance Act 1989
   - **company** has the same meaning as in—as the case may be, and includes an overseas company
     (a) section 2 of the Companies Act 1955; or
@@ -38,6 +38,7 @@ _Consolidation as at 2011-05-01_
     (a) an interest in or right to a share in the share capital of a company; or
     (b) an interest in or right to participate in any distribution of profits or surplus assets of a company;—
   - **exempt company** has the meaning given to it by section 6A
+  - **financial reporting standard** means a financial reporting standard issued by the Board under section 24; and includes an amendment to a financial reporting standard that is issued by the Board under that section
   - **financial statements** has the meaning given to it by section 8
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **generally accepted accounting practice** has the meaning given to it by section 3
@@ -48,11 +49,13 @@ _Consolidation as at 2011-05-01_
   - **infringement offence** means an offence against section 38(b) or 39
   - **interim accounting period** , in relation to a reporting entity, means a period ending on a date other than the balance date of the reporting entity
   - **issuer** has the meaning given to it by section 4
+  - **licensed auditor** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Office of Parliament** has the same meaning as in section 2 of the Public Finance Act 1989
   - **overseas company** means a company incorporated outside New Zealand that carries on business in New Zealand within the meaning of section 332 of the Companies Act 1993
+  - **registered audit firm** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **Registrar** means—
     (a) in relation to an issuer that is—registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982, the Registrar within the meaning of section 2 of that Act; and
       (i) a society; or
@@ -66,6 +69,9 @@ _Consolidation as at 2011-05-01_
   - **security** means an interest or right to participate in any capital, assets, earnings, royalties, or other property of any person; and includes—
     (a) an interest in or right to be paid money that is deposited with, lent to, or otherwise owing by any person (whether or not the interest or right is secured by a charge over property); and
     (b) a renewal or variation of the terms or conditions of an existing security
+  - **specified standard** means—
+    (a) a financial reporting standard; or
+    (b) an auditing and assurance standard
   - **subsidiary** means a subsidiary within the meaning of section 158 of the Companies Act 1955 or sections 5 to 8 of the Companies Act 1993, as the case may be; and includes any company or body corporate or association of persons that is classified as a subsidiary in any applicable financial reporting standard
   - **turnover** —
     (a) means, in relation to a company, the total annualised gross operating revenue of the company (exclusive of any tax required to be collected) reported in the statement of financial performance, income and expenditure statement, or revenue and appropriation account, as the case may be, for the accounting period for which the financial statements are required; and includes (without limitation) any sales, fee income, grants, output appropriations, cost recoveries, donations, dividends, interest, and subscriptions of the company for that accounting period:
@@ -368,137 +374,194 @@ The Governor-General may from time to time, by Order in Council,—
 ### 21 Application of this Part to accounting periods ending before person becomes an issuer
 Nothing in this Part requires the directors of an issuer, not being a company, to ensure the completion of financial statements and any group financial statements and the registration of those financial statements in relation to an accounting period that ended before the accounting period in which that person became an issuer.
 
-## Part 3 — Accounting Standards Review Board
+## Part 3 — External Reporting Board
 
-### 22 Establishment of Accounting Standards Review Board
-(1) There is hereby established a Board to be called the Accounting Standards Review Board.
-(2) The Accounting Standards Review Board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Accounting Standards Review Board except to the extent that this Act expressly provides otherwise.
-(4) Members of the Accounting Standards Review Board are the board for the purposes of the Crown Entities Act 2004.
+### 22 Continuation of External Reporting Board
+(1) There continues to be an organisation to be called the External Reporting Board.
+(2) The External Reporting Board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the External Reporting Board except to the extent that this Act expressly provides otherwise.
+(4) The External Reporting Board is the same body as the Accounting Standards Review Board established under section 22 as in force immediately before its substitution by this section.
+(5) Unless the context otherwise requires, every reference to the Accounting Standards Review Board in any enactment, agreement, deed, instrument, application, notice, or other document in force immediately before the commencement of this section must, on and after that commencement, be read with all necessary modifications as a reference to the External Reporting Board.
 
 ### 23 Membership of Board
-(1) The Board shall consist of not less than 4 and not more than 7 members.
-(2)
-(3) The Minister shall not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, finance, economics, or law.
-(4) Subsection (3) does not limit section 29 of the Crown Entities Act 2004.
+(1) The Board consists of no fewer than 4 and not more than 9 members.
+(2) The Minister must not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, auditing, finance, economics, or law.
+(3) Subsection (2) does not limit section 29 of the Crown Entities Act 2004.
+(4) Members of the External Reporting Board are the board for the purposes of the Crown Entities Act 2004.
 
 ### 24 Functions of Board
 (1) The Board has the following functions:
-  (a) to review and, if it thinks fit, approve financial reporting standards submitted to it for approval for the purposes of—
+  (a) to prepare and, if it thinks fit, issue financial reporting standards for the purposes of—
     (i) this Act; or
-    (ia) the Crown Entities Act 2004; or
-    (ii) the Public Finance Act 1989; or
-    (iia) the Local Government Act 2002; or
-    (iii) any Act that requires a person to comply with this Act as if that person were a reporting entity:
-  (b) to review, and, if it thinks fit, approve amendments to any approved financial reporting standards:
-  (c) to make recommendations in relation to the submission to it for approval of financial reporting standards or amendments to approved financial reporting standards:
-  (d) to give directions as to the accounting policies that have authoritative support within the accounting profession in New Zealand:
-  (e) to encourage the development of financial reporting standards, including financial reporting standards for different classes of reporting entity:
-  (f) to liaise with the Accounting Standards Board established by the Securities Commission Act 1989 of Australia with a view to harmonising New Zealand and Australian financial reporting standards.
-(2) For the avoidance of doubt, the function of the Board referred to in subsection (1)(a) includes the function of reviewing and, if the Board thinks fit, approving financial reporting standards submitted to it for approval that relate to prospective, summary, or interim financial information.
-(3) Except as expressly provided otherwise in this or another Act, the Board must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
+    (ii) the Crown Entities Act 2004; or
+    (iii) the Public Finance Act 1989; or
+    (iv) the Local Government Act 2002; or
+    (v) any Act that requires a person to comply with this Act as if that person were a reporting entity:
+  (b) to prepare and, if it thinks fit, issue auditing and assurance standards for—
+    (i) the purposes of this Act; or
+    (ii) the purposes of the Auditor Regulation Act 2011; or
+    (iii) the purposes of any enactment that requires a person to comply with those standards; or
+    (iv) the purposes of any rules or codes of ethics of an association of accountants that require its members to comply with those standards; or
+    (v) any other purpose approved by the Minister by notice in writing to the Board:
+  (c) to develop and implement strategies for the issue of specified standards in order to provide a framework for the Board's overall direction in the setting of standards (including developing and implementing a strategy for tiers of financial reporting in accordance with sections 34 to 34D):
+  (d) to give directions or guidance as to the accounting policies that have authoritative support within the accounting profession in New Zealand:
+  (e) to prepare and, if it thinks fit, issue amendments to any specified standards:
+  (f) to liaise with international or national organisations that exercise functions that correspond with, or are similar to, those conferred on the Board.
+(2) For the avoidance of doubt, the function of the Board referred to in subsection (1)(a) includes the function of preparing and, if the Board thinks fit, issuing financial reporting standards that relate to prospective, summary, or interim financial information.
+
+### 25 Board must act independently
+Except as expressly provided otherwise in this or another Act, the Board must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Board (other than the Crown Entities Act 2004).
 
-### 25 Financial reporting standards may be submitted to Board for approval
-The New Zealand Institute of Chartered Accountants and any other organisation or person may, from time to time, submit—to the Board for approval.
-  (a) financial reporting standards; and
-  (b) amendments to any approved financial reporting standards—
-
 ### 26 Consultation
-(1) The Board shall not approve a financial reporting standard or an amendment to an approved financial reporting standard unless—
-  (a) the standard or the amendment is based on a standard or an amendment adopted by the New Zealand Institute of Chartered Accountants or the organisation or person by whom it was submitted to the Board and the Board is satisfied that, before it was so adopted, the Institute or organisation or person, as the case may be, took reasonable steps to consult with persons or organisations or representatives of persons or organisations who, in the opinion of the Institute or organisation or person, would be affected by the adoption of the standard or the amendment; or
-  (b) the standard or the amendment is based on a standard or amendment that was not adopted by the New Zealand Institute of Chartered Accountants or organisation or person by whom it was submitted to the Board and the Board is satisfied that, before the standard or amendment was submitted to the Board, the Institute or organisation or person, as the case may be, took reasonable steps to consult with persons or organisations who, in the opinion of the Institute or organisation or person, would be affected by the approval of the standard or the amendment by the Board.
-(1A) The Board must not approve a financial reporting standard, or an amendment to an approved financial reporting standard, that is likely to require the disclosure of personal information unless—
-  (a) the Board is satisfied that,—
-    (i) in the case of a standard or amendment based on a standard or amendment adopted by the New Zealand Institute of Chartered Accountants or the organisation or person by whom it was submitted to the Board, the Institute or organisation or person, as the case may be, consulted with the Privacy Commissioner before the standard or amendment was adopted; or
-    (ii) in the case of a standard or amendment based on a standard or amendment that was not adopted by the New Zealand Institute of Chartered Accountants or organisation or person by whom it was submitted to the Board, the Institute or organisation or person, as the case may be, consulted with the Privacy Commissioner before the standard or amendment was submitted to the Board; or
-  (b) the Board has consulted with the Privacy Commissioner.
-(2) Any failure to comply with subsection (1) or subsection (1A) does not affect the validity of the approval by the Board of the standard or the amendment.
-(3) In subsection (1A), personal information and Privacy Commissioner have the same meanings as in section 2 of the Privacy Act 1993.
+(1) The Board must not issue a specified standard, or an amendment to a specified standard, unless the Board has taken reasonable steps to consult with persons or organisations or representatives of persons or organisations who, in the opinion of the Board, would be affected by the issue of the standard or the amendment.
+(2) The Board must not issue a specified standard, or an amendment to a specified standard, that is likely to require the disclosure of personal information unless the Board has consulted the Privacy Commissioner.
+(3) Any failure to comply with subsection (1) or (2) does not affect the validity of the specified standard or the amendment.
+(4) In subsection (2),—
+  - **personal information** has the same meaning as in section 2 of the Privacy Act 1993
+  - **Privacy Commissioner** has the same meaning as Commissioner in section 2 of the Privacy Act 1993.
+(5) This section does not limit section 16 or 17 of the Crown Entities Act 2004.
 
-### 27 Approval of financial reporting standards
-(1) Approved financial reporting standards may be expressed to apply in relation to—
+### 27 Financial reporting standards
+(1) Financial reporting standards may be expressed to apply in relation to—
   (a) all reporting entities or groups; or
   (b) specified reporting entities or groups; or
   (c) the Crown; or
-  (d) all departments or Offices of Parliament or Crown entities; or
-  (e) specified departments or Offices of Parliament or Crown entities; or
-  (ea) all local authorities; or
-  (eb) specified local authorities; or
-  (f) accounting periods or interim accounting periods.
-(2) Approved financial reporting standards may—
+  (d) all departments or offices of Parliament or Crown entities; or
+  (e) specified departments or offices of Parliament or Crown entities; or
+  (f) all local authorities; or
+  (g) specified local authorities; or
+  (h) accounting periods or interim accounting periods.
+(2) Financial reporting standards may—
   (a) have general or specific application:
   (b) differ according to differences in time or circumstance.
-(3) An approved financial reporting standard may classify a company as a subsidiary of another company where, although the company is not a subsidiary of that other company for the purposes of section 5 of the Companies Act 1993 or section 158 of the Companies Act 1955, the company is, in effect, controlled by that other company (irrespective of whether it is taken to be controlled by that other company for the purposes of section 5 of the Companies Act 1993 or section 158 of the Companies Act 1955), so as to render it, in substance, a subsidiary of that other company.
-(3A) The Board may from time to time determine that—in relation to such accounting periods or interim accounting periods as the Board may determine.
-  (a) an approved financial reporting standard which has not been approved for application to a particular person (including a department or Office of Parliament) or category of persons shall apply to that person or category of persons; or
-  (b) an approved financial reporting standard which applies to a particular person (including a department or Office of Parliament) or category of persons shall cease to apply to that person or category of persons,—
-(4) In subsection (3), the expression company includes an association of persons whether incorporated or not.
-(5) An approved financial reporting standard or an amendment to an approved financial reporting standard or a determination by the Board under subsection (3A), as the case may be, takes effect on the 28th day after the date of the notification of the approval or the amendment or the determination in the Gazette.
-(6) Subject to subsection (7), an approved financial reporting standard or an amendment to an approved financial reporting standard or a determination made under subsection (3A) shall commence to apply in relation to such accounting periods or interim accounting periods as the Board specifies in its approval or determination, which periods—
-  (a) may be accounting periods or interim accounting periods that have commenced or that commence before the date on which the financial reporting standard or the amendment to the approved financial reporting standard takes effect; but
-  (b) must not be accounting periods or interim accounting periods that have ended or that end before the approved financial reporting standard or the amendment to the approved financial reporting standard takes effect.
-(7) Where—as the case may be, elect or elects in writing that an approved financial reporting standard, which would not otherwise apply to a particular accounting period or interim accounting period, shall apply to that accounting period or interim accounting period, the approved financial reporting standard shall apply accordingly.
-  (a) the directors of a reporting entity; or
-  (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared pursuant to the Public Finance Act 1989; or
-  (c) the chief executive of a department; or
-  (d) the chief executive of an Office of Parliament; or
-  (e) the Chairperson and the chief executive of a Crown entity or, where no Chairperson exists, the chief executive; or
-  (f) the chief executive of a local authority,—
+(3) A financial reporting standard may classify a company as a subsidiary of another company where, although the company is not a subsidiary of that other company for the purposes of section 5 of the Companies Act 1993, the company is, in effect, controlled by that other company (irrespective of whether it is taken to be controlled by that other company for the purposes of section 5 of the Companies Act 1993) so as to render it, in substance, a subsidiary of that other company.
+(4) In subsection (3), company includes an association of persons whether incorporated or not.
+(5) The Board may determine that—
+  (a) a financial reporting standard that has not been issued so as to apply to a particular person (including a department or office of Parliament) or category of persons will apply to that person or category of persons in relation to the accounting periods or interim accounting periods that the Board may determine; or
+  (b) a financial reporting standard that applies to a particular person (including a department or office of Parliament) or category of persons will cease to apply to that person or category of persons in relation to the accounting periods or interim accounting periods that the Board may determine.
 
-### 28 Revocation of approval
-(1) The Board may revoke the approval of any approved financial reporting standard.
-(2) Any such revocation shall take effect on the 28th day after the date of the notification of the revocation in the Gazette.
-(3) Subject to subsection (4), the revocation of the approval of an approved financial reporting standard shall apply in relation to such accounting periods or interim accounting periods as the Board specifies, which periods—
+### 28 Miscellaneous matters relating to application of financial reporting standards
+(1) A financial reporting standard, an amendment to a financial reporting standard, or a determination under section 27(5) (as the case may be) takes effect on the 28th day after the date of the notification of the issue, amendment, or determination in the Gazette.
+(2) However, a financial reporting standard, an amendment to a financial reporting standard, or a determination under section 27(5) (as the case may be) must, in respect of a particular reporting entity, be treated as taking effect on the date of the notification of the issue, amendment, or determination in the Gazette if—
+  (a) the Board is satisfied that it is desirable to allow this subsection to apply because bringing the financial reporting standard, amendment, or determination into effect earlier than is provided in subsection (1) is necessary or desirable in order for 1 or more reporting entities or the directors of those entities to comply with the financial reporting or accounting standards issued or adopted by an international organisation (for example, the International Accounting Standards Board); and
+  (b) the notice under section 31 states that this subsection applies; and
+  (c) the directors of the reporting entity elect in writing that this subsection should apply in respect of the financial reporting standard, amendment, or determination.
+(3) A financial reporting standard, an amendment to a financial reporting standard, or a determination made under section 27(5) commences to apply in relation to the accounting periods or interim accounting periods that the Board specifies in the standard, amendment, or determination, which periods—
+  (a) may be accounting periods or interim accounting periods that have commenced or that commence before the date on which the financial reporting standard, amendment, or determination takes effect; but
+  (b) must not be accounting periods or interim accounting periods that have ended or that end before the financial reporting standard, amendment, or determination takes effect.
+(4) However, if a financial reporting standard specifies that an election may be made under this subsection, any of the following may elect in writing that the standard will apply to a particular accounting period or interim accounting period that it would not otherwise apply to:
+  (a) the directors of a reporting entity:
+  (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the Public Finance Act 1989:
+  (c) the chief executive of a department:
+  (d) the chief executive of an office of Parliament:
+  (e) the chairperson and the chief executive of a Crown entity or, if no chairperson exists, the chief executive:
+  (f) the chief executive of a local authority.
+(5) If an election is made under subsection (4), the financial reporting standard will apply accordingly to the accounting period or interim accounting period in respect of the relevant reporting entity, the Crown, the department, the office of Parliament, the Crown entity, or the local authority (as the case may be).
+
+### 29 Auditing and assurance standards
+(1) Auditing and assurance standards may—
+  (a) have general or specific application:
+  (b) differ according to differences in time or circumstance.
+(2) Auditing and assurance standards may (without limitation) include professional and ethical standards that govern the professional conduct of persons who are appointed or engaged to carry out audits or other assurance engagements.
+(3) An auditing and assurance standard or an amendment to an auditing and assurance standard takes effect on the 28th day after the date of the notification of the issue or amendment in the Gazette.
+(4) An auditing and assurance standard or an amendment to an auditing and assurance standard commences to apply in relation to the accounting periods or interim accounting periods that the Board specifies in the standard or amendment, which periods—
+  (a) may be accounting periods or interim accounting periods that have commenced or that commence before the date on which the auditing and assurance standard or amendment takes effect; but
+  (b) must not be accounting periods or interim accounting periods that have ended or that end before the auditing and assurance standard or amendment takes effect.
+
+### 30 Revocation of standard
+(1) The Board may revoke a specified standard.
+(2) Any revocation takes effect on the 28th day after the date of the notification of the revocation in the Gazette.
+(3) The revocation of a specified standard applies in relation to the accounting periods or interim accounting periods that the Board specifies, which periods—
   (a) may be accounting periods or interim accounting periods that have commenced or that commence before the date on which the revocation takes effect; but
   (b) must not be accounting periods or interim accounting periods that have ended or that end before the revocation takes effect.
-(4) Where—as the case may be, elect or elects in writing that the revocation of an approved financial reporting standard, which does not apply to a particular accounting period or interim accounting period, shall apply in relation to that accounting period or interim accounting period, the revocation shall apply accordingly.
-  (a) the directors of a reporting entity; or
-  (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared pursuant to the Public Finance Act 1989; or
-  (c) the chief executive of a department; or
-  (d) the chief executive of an Office of Parliament; or
-  (e) the Chairperson and the chief executive of a Crown entity or, where no Chairperson exists, the chief executive; or
-  (f) the chief executive of a local authority,—
+(4) However, if the revocation of a financial reporting standard specifies that an election may be made under this subsection, any of the following may elect in writing that the revocation will apply to a particular accounting period or interim accounting period that it would not otherwise apply to:
+  (a) the directors of a reporting entity:
+  (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the Public Finance Act 1989:
+  (c) the chief executive of a department:
+  (d) the chief executive of an office of Parliament:
+  (e) the chairperson and the chief executive of a Crown entity or, if no chairperson exists, the chief executive:
+  (f) the chief executive of a local authority.
+(5) If an election is made under subsection (4), the revocation of the financial reporting standard will apply accordingly to the accounting period or interim accounting period in respect of the relevant reporting entity, the Crown, the department, the office of Parliament, the Crown entity, or the local authority (as the case may be).
 
-### 29 Public notice
-(1) The Board must give notice of—in the Gazette and in such publications as it considers appropriate for that purpose.
-  (a) the approval of a financial reporting standard and of any amendment to an approved financial reporting standard; and
-  (b) any determination made under section 27(3A); and
-  (c) the revocation of any approval of a financial reporting standard and of any amendment to an approved financial reporting standard—
-(2) A notice under this section must—
-  (a) identify the financial reporting standard approved or the amendment to the approved financial reporting standard, as the case may be, but need not incorporate it in the notice:
+### 31 Public notice
+(1) The Board must give notice of—
+  (a) the issue of a specified standard; and
+  (b) the amendment of a specified standard; and
+  (c) any determination made under section 27(5); and
+  (d) the revocation of a specified standard or of any amendment to any specified standard.
+(2) A notice under this section—
+  (a) must be given in the Gazette; and
+  (b) may be given in any other publications that the Board considers appropriate for that purpose.
+(3) A notice under this section must—
+  (a) identify the specified standard or the amendment to the specified standard (as the case may be) but need not incorporate it in the notice:
   (b) identify the financial reporting standard to which the determination relates, but need not incorporate it in the notice:
-  (c) identify the approved financial reporting standard revoked or the amendment to an approved financial reporting standard revoked, as the case may be, but need not incorporate it in the notice.
+  (c) identify the specified standard revoked or the amendment to the standard revoked (as the case may be) but need not incorporate it in the notice.
+(4) The Board must—
+  (a) publish specified standards that are in effect on an Internet site maintained by or on behalf of the Board; and
+  (b) ensure that copies of those specified standards are available for purchase by members of the public.
 
-### 30 Consultation
-(1) The Board may consult any persons or organisations that the Board thinks fit to assist the Board in deciding whether or not to—
-  (a) approve a financial reporting standard; or
-  (b) approve any amendment to an approved financial reporting standard; or
-  (c) revoke the approval of any approved financial reporting standard.
-(2) This section does not limit section 26 of this Act or section 16 or section 17 of the Crown Entities Act 2004.
+### 32 Disallowance of instruments and determinations by House of Representatives
+(1) The Regulations (Disallowance) Act 1989 applies to the following instruments and determinations of the Board as if the instrument or determination were a regulation within the meaning of that Act:
+  (a) any specified standard:
+  (b) any amendment to a specified standard:
+  (c) any revocation of a specified standard:
+  (d) any determination made under section 27(5).
+(2) The instruments and determinations referred to in subsection (1) must be presented to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+(3) The instruments and determinations referred to in subsection (1) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
 
-### 31 Annual reports
-[Repealed]
+### 33 Certificates of Board
+A certificate purporting to be signed by any member of the Board as to any of the following is, in the absence of evidence to the contrary, sufficient evidence of the matters stated in the certificate:
+  (a) the making of a determination issuing a specified standard or any amendment to a specified standard; or
+  (b) the making of a determination under section 27(5) and the accounting period or interim accounting period in relation to which it applies; or
+  (c) the making of a determination revoking a specified standard; or
+  (d) the accounting period or interim accounting period in relation to which a specified standard will commence to apply; or
+  (e) the accounting period or interim accounting period in relation to which a specified standard ceases to apply; or
+  (f) the accounting period or interim accounting period in relation to which a specified standard was in force.
 
-### 32 Further provisions applying to Board
-The provisions set out in Schedule 1 apply in respect of the Board.
+### 34 Tiers of financial reporting for different classes of reporting entities and other entities
+(1) The purpose of sections 34A to 34D is to establish a system for tiers of financial reporting that impose different financial reporting requirements in respect of different classes of relevant entities in order to ensure that the requirements that apply in respect of those entities are appropriate.
+(2) In this section and in sections 34A and 34B, relevant entities—
+  (a) means reporting entities, groups, the Crown, departments, offices of Parliament, Crown entities, and local authorities; and
+  (b) includes any other entities that are required by any Act to prepare financial statements in accordance with generally accepted accounting practice.
 
-### 33 Disallowance of determinations by House of Representatives
-The Regulations (Disallowance) Act 1989 applies to the following determinations of the Board as if the determination were a regulation within the meaning of that Act:
-  (a) any approval of a financial reporting standard and any amendment to an approved financial reporting standard:
-  (b) any revocation of an approval of an approved financial reporting standard:
-  (c) any determination made under section 27(3A).
+### 34A Board must develop and implement strategy for tiers of financial reporting
+(1) The Board must, within 9 months after the commencement of this section, prepare and submit to the Minister for approval, a draft strategy for establishing different tiers of financial reporting in respect of different classes of relevant entities.
+(2) The Board must, after the strategy is approved by the Minister, take reasonable steps to implement the strategy.
 
-### 34 Certificates of Board
-(1) A certificate signed by the Chairperson or Deputy Chairperson of the Board as to—shall, in the absence of evidence to the contrary, be sufficient evidence of the matters stated in the certificate.
-  (a) the making of a determination approving a financial reporting standard or any amendment to an approved financial reporting standard; or
-  (ab) the making of a determination under section 27(3A) and the accounting period or interim accounting period in relation to which it applies; or
-  (b) the making of a determination revoking the approval of an approved financial reporting standard; or
-  (c) the accounting period or interim accounting period in relation to which an approved financial reporting standard shall commence to apply; or
-  (d) the accounting period or interim accounting period in relation to which an approved financial reporting standard ceases to apply; or
-  (e) the accounting period or interim accounting period in relation to which an approved financial reporting standard was in force—
-(2) All courts and all persons acting judicially shall take judicial notice of the signature of the Chairperson or Deputy Chairperson appearing on a certificate given under subsection (1).
+### 34B Process for preparing strategy for tiers of financial reporting
+(1) In preparing the draft strategy under section 34A, the Board must have regard to—
+  (a) the purpose referred to in section 34(1); and
+  (b) the advantages and disadvantages of placing different classes of relevant entities within different tiers of financial reporting.
+(2) The draft strategy under section 34A must—
+  (a) specify the qualifying criteria for each tier of financial reporting; and
+  (b) describe the financial reporting requirements that will apply for each tier of financial reporting; and
+  (c) specify the Board's reasons (including why the strategy is appropriate); and
+  (d) include any other prescribed matters.
+(3) The description under subsection (2)(b) may refer to—
+  (a) a set of standards (for example, International Financial Reporting Standards and International Public Sector Accounting Standards):
+  (b) specific standards:
+  (c) accounting policies, principles, concepts, or methods (for example, the principles of accrual accounting):
+  (d) any combination of the matters in paragraphs (a) to (c).
+(4) The Board must, in preparing the draft strategy, consult the persons or organisations or representatives of persons or organisations who, in the opinion of the Board, would be affected by the strategy.
+(5) Any failure to comply with subsection (4) does not affect the validity of the strategy.
+
+### 34C Minister may approve strategy
+(1) The Minister may, after receiving the draft strategy from the Board under section 34A or subsection (3), either approve or decline to approve the draft strategy.
+(2) The Minister may decline to approve a draft strategy only if, in his or her opinion,—
+  (a) the Board has not had sufficient regard to the matters specified in section 34B(1); or
+  (b) the Board has not adequately consulted on the strategy under section 34B(4); or
+  (c) the draft strategy is inconsistent with the purposes of this Act.
+(3) If the Minister declines to approve a draft strategy, he or she may give a direction to the Board to review the strategy and resubmit a draft strategy to the Minister for approval (and the Board must comply with that direction).
+(4) The Minister's direction under subsection (3) may specify the date by which a draft strategy must be resubmitted (which may be after the 9-month period referred to in section 34A).
+
+### 34D Board may vary or replace strategy for tiers of financial reporting
+(1) The Board may—
+  (a) vary a strategy that has been approved under section 34C:
+  (b) revoke a strategy that has been approved under section 34C and replace it with another.
+(2) Sections 34A(2), 34B, and 34C apply with any necessary modifications for the purposes of subsection (1).
+(3) However, the Board is not required to comply with section 34B(4) in respect of a variation to the strategy if, in its opinion, the variation corrects a minor error or is otherwise of a minor nature.
 
 ### 35 Amendment to Official Information Act 1982
 [Repealed]
@@ -636,18 +699,67 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
 Notwithstanding anything to the contrary in the Summary Proceedings Act 1957, an information for an offence against any of sections 36 to 39 may be laid at any time within 3 years after the date of the offence.
 
 ### 42A Privacy Act 1993
-The disclosure of personal information (as defined in section 2 of the Privacy Act 1993) is not a breach of principle 10 or principle 11 of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved after the commencement of the Financial Reporting Amendment Act 2001.
+The disclosure of personal information (as defined in section 2 of the Privacy Act 1993) is not a breach of principle 10 or principle 11 of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved or issued after the commencement of the Financial Reporting Amendment Act 2001.
 
 ### 42B Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing fees and charges that—
     (i) the FMA may require to be paid to it in connection with an application to the FMA to grant or amend an exemption under section 4B or 35A:
-    (ii) the Board may require to be paid to it in connection with an application to the Board to grant or amend an exemption under section 29A:
+    (ii)
     (iii) the Registrar of Companies may require to be paid to him or her in connection with an application to him or her to grant or amend an exemption under section 35B:
   (b) prescribing the amounts of those fees or charges or the method by which they are to be calculated:
   (c) prescribing forms for the purposes of section 10A and forms of infringement notices and reminder notices:
-  (d) prescribing the information that must be included in infringement notices or reminder notices.
-(2) The amounts payable under regulations made under this section are recoverable by the FMA or the Board or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the FMA or the Board or the Registrar of Companies.
+  (d) prescribing the information that must be included in infringement notices or reminder notices:
+  (e) prescribing matters for the purposes of section 34B(2)(d):
+  (f) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) The amounts payable under regulations made under this section are recoverable by the FMA or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the FMA or the Registrar of Companies.
+
+### 42C Levies
+(1) Every person that is included in a prescribed class of specified persons must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations.
+(2) In this section and section 42D, specified persons means—
+  (a) chartered accountants who hold a certificate of public practice; and
+  (b) licensed auditors; and
+  (c) registered audit firms; and
+  (d) the Auditor-General; and
+  (e) issuers and other entities whose financial statements are required to be registered under this Act; and
+  (f) every other person who is a member, fellow, or associate of an association of accountants specified in the regulations and that is in the business of offering accounting or auditing services to the public in New Zealand; and
+  (g) public entities (within the meaning of the Public Audit Act 2001); and
+  (h) every other person registered or incorporated, or who makes an application for registration or incorporation of a person, under any of the following Acts:
+    (i) the Building Societies Act 1965:
+    (ii) the Companies Act 1993:
+    (iii) the Co-operative Companies Act 1996:
+    (iv) the Friendly Societies and Credit Unions Act 1982:
+    (v) the Industrial and Provident Societies Act 1908:
+    (vi) the Limited Partnerships Act 2008.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies.
+(4) The levies must be prescribed on the basis that the following costs should be met fully out of the levies:
+  (a) a portion of the costs of the Board performing its functions and exercising its powers and duties under this Act, where the size of the portion to be met by levies under this Act is determined by the Minister; and
+  (b) the costs of collecting the levy money.
+(5) The levies may be prescribed on the basis that any actual cost that could have been, but has not been, recovered as a levy shortfall for a year may be recovered (along with any financing charge) over any period of up to 5 years.
+(6) The regulations may—
+  (a) specify the class or classes of specified persons that are required to pay a levy:
+  (b) provide for different levies for different classes of specified persons:
+  (c) specify the amount of levies, or method of calculating or ascertaining the amount of levies:
+  (d) include in levies, or provide for the inclusion in levies of, any shortfall in recovering the actual costs of exercising or performing the Board's functions, powers, and duties under this Act:
+  (e) refund, or provide for refunds of, those levies:
+  (f) provide for the payment and collection of those levies:
+  (g) specify the financial year or part financial year to which those levies apply, and applying to that financial year or part financial year and each subsequent financial year until revoked or replaced:
+  (h) for the first financial year to which a levy applies, include in the levy amount or method costs incurred by the Board on or after 1 July 2010 in connection with preparing itself to exercise and perform, and exercising and performing, its functions, powers, and duties under this Act, irrespective of the fact that the regulations are made and come into effect after that year:
+  (i) require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (j) exempt or provide for exemptions from, and providing for waivers of, the whole or any part of the levy for any case or class of cases.
+(7) If a person is in 2 or more classes of specified persons in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
+(8) The levies for a financial year that starts after the Board begins to carry out any additional function under this Act may cover the costs of performing that additional function, irrespective of the fact that the regulations may be made and come into effect after the start of the financial year.
+(9) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Board, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
+(10) The Board, or any other person prescribed for the purposes of this subsection, must ensure that each levy payment is paid into a Crown Bank Account and is separately accounted for.
+
+### 42D Board must consult about request for appropriation
+(1) The Board must, before submitting a request to the Minister seeking an appropriation of public money for the following year, or any change to an appropriation for the current year, that relates to costs that are intended to be recovered by way of levies under section 42C, consult about that request with—
+  (a) the persons or organisations that the Board considers are able to represent the views of those specified persons who are liable to pay a levy under that section; and
+  (b) any other representatives of persons whom the Board believes to be significantly affected by a levy.
+(2) Consultation under subsection (1) must include consultation relating to the portion of the costs of the Board that should be met by the levies.
+(3) The Board must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
+(4) This section applies to requests in respect of the financial year beginning on 1 July 2013 and later financial years.
+(5) A failure to comply with this section does not affect the validity of any regulations made under section 42C.
 
 ### 43 Administration of Act
 The Registrar is charged with the administration of this Act.
@@ -682,38 +794,6 @@ The enactments specified in Schedule 2 are hereby amended in the manner indicate
 
 ## Schedule 1 — Provisions applying to Accounting Standards Review Board
 
-### 1 Term of office
-[Repealed]
-
-### 2 Continuation in office after term expires
-[Repealed]
-
-### 3 Extraordinary vacancies
-[Repealed]
-
-### 4 Meetings of Board
-[Repealed]
-
-### 5 Chairperson
-[Repealed]
-
-### 6 Voting at meetings
-(1) Despite clause 12 of Schedule 5 of the Crown Entities Act 2004, questions arising at a meeting of the Board as to—shall be decided by a majority of the votes cast by the members of the Board.
-  (a) the approval of a financial reporting standard:
-  (b) the approval of an amendment to an approved financial reporting standard:
-  (c) the revocation of the approval of an approved financial reporting standard—
-(2)
-(3)
-
-### 7 Procedure
-[Repealed]
-
-### 8 Members not personally liable
-[Repealed]
-
-### 9 Remuneration and travelling allowances
-[Repealed]
-
 ## Schedule 2 — Enactments amended
 
 ### 1 Title
@@ -727,7 +807,7 @@ This Act is the Financial Reporting Amendment Act 2006.
 ### 3 Principal Act amended
 This Act amends the Financial Reporting Act 1993.
 
-## Part  — Transitional provision
+**Transitional provision**
 
 ### 23 Accounting periods to which amendments apply
 (1) Sections 4(1) and (3), 8, 9, 11, 12, and 19 apply in respect of—
@@ -737,3 +817,24 @@ This Act amends the Financial Reporting Act 1993.
 (3) Sections 4(2), 5 to 7, 10, 20, and 22 apply in respect of accounting periods that commence after the respective commencement of those provisions.
 (4) The requirements and provisions that would have applied if the provisions referred to in subsection (3) had not been enacted continue to apply in respect of accounting periods that commenced on or before the respective commencement of those provisions.
 (5) Nothing in this Act limits sections 4C, 29B, and 35D of the principal Act (which allow an exemption to apply to an accounting period before the exemption is granted regardless of whether that accounting period commences before or after the respective commencement of those provisions).
+
+### 1 Title
+This Act is the Financial Reporting Amendment Act 2011.
+
+### 2 Commencement
+(1) This Act (apart from section 6) comes into force on 1 July 2011.
+(2) Section 6 comes into force on 1 July 2012, unless it is brought into force on an earlier date to be appointed by the Governor-General by Order in Council.
+
+### 13 Financial reporting standards continue in effect
+(1) Nothing in this Act affects the validity of a financial reporting standard that was approved, or of any other determination of the Accounting Standards Review Board made, before the commencement of this section.
+(2) Every approved financial reporting standard that is in effect immediately before the commencement of this section—
+  (a) continues in effect as a financial reporting standard as if issued under section 24 of the principal Act (as substituted by this Act); and
+  (b) may be amended or revoked as if issued under that section.
+
+### 14 Consultation not required in respect of certain auditing and assurance standards
+The External Reporting Board is not required to carry out consultation in accordance with section 26 of the principal Act in relation to an auditing and assurance standard that it intends to issue if the External Reporting Board is satisfied that the standard is the same, or substantially the same, as a standard relating to auditing or assurance that has, before the commencement of this section, been issued or approved by the New Zealand Institute of Chartered Accountants.
+
+### 15 Chairperson of Board continues in office but other members cease to hold office
+(1) The person who is the chairperson of the Accounting Standards Review Board, immediately before the commencement of this section, must be treated as being a member and the chairperson of the External Reporting Board on that commencement (and the term of office of the person as a member and term of office of the person as chairperson remain the same).
+(2) Every person (other than the chairperson) who, immediately before the commencement of this section, is a member of the Accounting Standards Review Board, ceases to be a member on that commencement (and does not automatically become a member of the External Reporting Board).
+(3) Subsection (2) does not prevent a person to whom that subsection applies from being appointed a member of the External Reporting Board in accordance with the principal Act and the Crown Entities Act 2004.
