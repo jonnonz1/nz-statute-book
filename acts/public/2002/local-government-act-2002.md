@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2010-11-27_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -50,8 +50,8 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **equity security** has the meaning given to it in section 2 of the Securities Act 1978
   - **financial year** means a period of 12 months ending on 30 June
   - **generally accepted accounting practice** means—
-    (a) approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to local authorities and council-controlled organisations; and
-    (b) in relation to matters for which no provision is made in approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
+    (a) financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to local authorities and council-controlled organisations; and
+    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate to the local authority or council-controlled organisation; and
       (ii) have authoritative support within the accounting profession in New Zealand
   - **group of activities** means 1 or more related activities provided by, or on behalf of, a local authority or council-controlled organisation
@@ -1108,6 +1108,14 @@ A summary of the information contained in a statement of proposal must—
   (c) the funding impact statement referred to in clause 30 of Schedule 10; and
   (d) the local authority's compliance with the requirements of Schedule 10 that are applicable to the annual report.
 (2) In addition to the information required by section 98(5), the summary required by section 98(4)(b) must contain the auditor's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
+
+### 99A Pre-election report
+(1) The chief executive of a local authority must prepare a pre-election report containing the information required by clause 36 of Schedule 10.
+(2) However, the chief executive of a local authority that has an ordinarily resident population of fewer than 20 000 people need not comply with clause 36(1)(a) and (2) of Schedule 10 for the financial year ending in the same year as the election.
+(3) Instead of complying with clause 36(1)(a) and (2) of Schedule 10, the chief executive of the local authority referred to in subsection (2) may include in a pre-election report the information set out in clause 37 of Schedule 10.
+(4) The purpose of a pre-election report is to provide information to promote public discussion about the issues facing the local authority.
+(5) A pre-election report must be completed and published no later than the day that is 2 weeks before the nomination day for a triennial general election of members of a local authority under the Local Electoral Act 2001.
+(6) A pre-election report must not contain a statement by, or a photograph of, an elected member of the local authority.
 
 ### Subpart 3 — Financial management
 
@@ -4333,7 +4341,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (c) a member of the local authority; or
   (d) the chief executive of the local authority; or
   (e) in the absence of the chief executive, some other officer appointed by the chief executive.
-(3) The form of the declaration must consist of the following elements:Declaration by mayor or chairperson or member“I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other ActDated at [place] this [number] day of [month] [year]Signature:Signed in the presence of:CD, [mayor or chairperson or member or chief executive of local authority]”.
+(3) The form of the declaration must consist of the following elements:Declaration by mayor or chairperson or member“I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other ActDated at: [place, date]Signature:Signed in the presence of:CD, [mayor or chairperson or member or chief executive of local authority]”.
 
 ### 15 Code of conduct
 (1) A local authority must adopt a code of conduct for members of the local authority as soon as practicable after the commencement of this Act.
