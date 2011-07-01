@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -44,7 +44,7 @@ The purpose of this Act is—
   - **required annual capital contribution** has the same meaning as in section 43
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
-    (b) includes an entity that is classified as a subsidiary in any relevant approved financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993).
+    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993).
 (2) In this Act, unless the context otherwise requires, the terms Crown, Crown Bank Account, expenses, financial year, Government, public money, and Treasury have the meanings given to them by section 2(1) of the Public Finance Act 1989.
 
 ### 5A Interpretation of Part 4 and Schedule 6
@@ -492,7 +492,7 @@ Schedule 3 applies to the board and its members.
 (2) If a contravention of subsection (1) arises (through inadvertence or otherwise), the Guardians must take all reasonable steps to remedy the default as soon as practicable.
 (3) For the purposes of this Act, an entity is controlled by the Fund if—
   (a) the entity is a subsidiary of the Fund; or
-  (b) the Fund controls the entity within the meaning of any relevant approved financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
+  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of section 8 of the Crown Entities Act 2004).
 
