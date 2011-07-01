@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -16,8 +16,8 @@ The purpose of this Act is to—
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **approved financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **appointed auditor** means an auditor appointed under either of section 32 or section 33
+  - **auditing and assurance standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **Auditor-General** means the Controller and Auditor-General appointed under section 7 and, in sections 21 and 24 to 30, includes every employee of the Controller and Auditor-General or every appointed auditor who has been authorised under this Act to act under the section concerned
   - **Crown** —
     (a) means Her Majesty the Queen in right of New Zealand; and
@@ -34,13 +34,15 @@ In this Act, unless the context otherwise requires,—
     (c) anything from which sounds, images, or writing can be reproduced, with or without the aid of anything else
   - **employee** , in section 16, includes any person who is engaged to work, or works, under a contract of service or a contract for services
   - **entity** means any person, whether corporate or unincorporate
+  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
+  - **issuer** has the same meaning as in section 4 of the Financial Reporting Act 1993
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **office of Parliament** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **public entity** has the meaning set out in section 5
   - **State enterprise** means an entity that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
-    (b) includes an entity that is classified as a subsidiary in any relevant approved financial reporting standard.
+    (b) includes an entity that is classified as a subsidiary in any relevant financial reporting standard.
 
 ### 5 Meaning of public entity
 (1) In this Act, public entity means each of the following entities:
@@ -52,7 +54,7 @@ In this Act, unless the context otherwise requires,—
   (f) an entity which is controlled by 1 or more entities of the kinds referred to in paragraphs (a) to (e).
 (2) For the purposes of subsection (1)(f), an entity is controlled by 1 or more other entities if—
   (a) the entity is a subsidiary of any of those other entities; or
-  (b) the other entity or entities together control the entity within the meaning of any relevant approved financial reporting standard; or
+  (b) the other entity or entities together control the entity within the meaning of any relevant financial reporting standard; or
   (c) the other entity or entities can together control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (3) Despite subsections (1) and (2), an entity is not a public entity if,—
   (a) but for this subsection, it would be a public entity only by virtue of the application of both subsection (1)(f) and subsection (2)(c); and
@@ -109,6 +111,7 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 ### 15 Financial report audit
 (1) The Auditor-General must from time to time audit the financial statements, accounts, and other information that a public entity is required to have audited.
 (2) In the case of an audit of a department (within the meaning of section 2(1) of the Public Finance Act 1989) or an Office of Parliament, the Auditor-General must also audit the appropriations administered by the department or Office.
+(3) In the case of an audit of an issuer carried out under this Act, the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the audit.
 
 ### 16 Performance audit
 (1) The Auditor-General may at any time examine—
@@ -166,6 +169,7 @@ If the Auditor-General has prepared a report under section 20 or section 21 rela
 (2) A report under subsection (1) must be prepared at least once every 3 years.
 (3) If requested to do so by any person, the Auditor-General must supply a copy of any report under subsection (1) to that person on payment by that person of a reasonable fee determined by the Auditor-General.
 (4) In each annual report prepared under section 37, the Auditor-General must include a description of any significant changes made to the auditing standards during the year covered by that annual report.
+(5) A report under subsection (1) and an annual report prepared under section 37 are not required to include information about auditing and assurance standards.
 
 ## Part 4 — Information-gathering powers and disclosure of information
 
