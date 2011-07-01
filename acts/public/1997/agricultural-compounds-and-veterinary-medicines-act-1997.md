@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-07-01_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -231,7 +231,7 @@ The importer of any goods may, for the purposes of section 6(3)(a)(i), make a de
 ### 13 Notification of application to Minister and departments
 (1) The Director-General must, upon receipt of an application, notify the nature and proposed use of the trade name product or the proposed variation of conditions to—
   (a) the Minister; and
-  (b) the Environmental Risk Management Authority; and
+  (b) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011; and
   (c) those departments listed in Schedule 1 of the State Sector Act 1988 that have notified the Director-General that they have an interest in applications made under this Act.
 (2) The Director-General must supply further information to any person notified under this section, if requested to do so by that person, unless that information is protected in accordance with sections 73, 109, or 121.
 
