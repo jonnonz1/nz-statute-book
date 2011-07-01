@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2011-05-24_
+_Consolidation as at 2011-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -5583,7 +5583,7 @@ Link with subpart DA
 Definitions
 (1) In this section, and in section DB 34,—
   - **development** is defined in paragraph 8 of the reporting standard
-  - **new reporting standard** means the New Zealand Equivalent to International Accounting Standard 38, approved by the Accounting Standards Review Board, and as amended from time to time or an equivalent standard issued in its place
+  - **new reporting standard** means the New Zealand Equivalent to International Accounting Standard 38, approved or issued under the Financial Reporting Act 1993, and as amended from time to time or an equivalent standard issued in its place
   - **old reporting standard** means Financial Reporting Standard No 13 1995 (Accounting for Research and Development Activities) being the standard approved under the Financial Reporting Act 1993, or an equivalent standard issued in its place, that applies in the tax year in which the expenditure is incurred
   - **research** is defined in paragraph 8 of the reporting standard.
 Meaning of research or development: modification by Order in Council
@@ -8761,7 +8761,7 @@ Valuation at cost: agricultural produce
 Whether valuation correct
 (2) For the purposes of subsection (1), the person has not complied with generally accepted accounting practice if the value of closing stock is materially different from the value obtained by applying, to the closing stock, NZIAS 2 or an equivalent standard issued in its place.
 Definition
-(3) In this section, NZIAS 41 means New Zealand Equivalent to International Accounting Standard 41, approved by the Accounting Standards Review Board as amended from time to time, or an equivalent standard issued in its place.
+(3) In this section, NZIAS 41 means New Zealand Equivalent to International Accounting Standard 41, approved or issued under the Financial Reporting Act 1993 as amended from time to time, or an equivalent standard issued in its place.
 
 ### EB 7 Cost allocation: cost-flow method
 When this section applies: first case
@@ -14622,7 +14622,7 @@ IFRSEs for test group
   (b) comply with the relevant IFRSEs; and
   (c) meet the audit requirements of subsection (8).
 Generally accepted accounting practice without IFRS for CFC
-(6) The interest holder may use generally accepted accounting practice in New Zealand for persons not required to use IFRS but required to comply with standards, other than IFRSs, approved by the Accounting Standards Review Board under the Financial Reporting Act 1993 (the generally accepted accounting practice without IFRS) for the CFC, if the interest holder or another person is a company resident in New Zealand that—
+(6) The interest holder may use generally accepted accounting practice in New Zealand for persons not required to use IFRS but required to comply with standards, other than IFRSs, approved or issued under the Financial Reporting Act 1993 (the generally accepted accounting practice without IFRS) for the CFC, if the interest holder or another person is a company resident in New Zealand that—
   (a) has no revenue under Financial Reporting Standard 34 and Financial Reporting Standard 35; and
   (b) is an issuer under section 4 of the Financial Reporting Act 1993 in neither of the current and preceding accounting periods; and
   (c) is not required by section 19 of the Financial Reporting Act 1993 to file its accounts with the Registrar of Companies; and
@@ -28500,13 +28500,13 @@ Exception: payment to person or another provider
 What this section does
 (1) This section sets out how to calculate the amount of a tax credit paid to a fund provider under section MK 3(2) for a year described in section MK 1(3).
 Amount of credit for year
-(2) The amount of the tax credit is an amount equal to a person's total member credit contributions for the year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $1042.86.
+(2) The amount of the tax credit is an amount equal to half of a person's total member credit contributions for the year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $521.43.
 Part-year equivalents: amount of tax credit
 (3) Despite subsection (2), if the person meets the requirements of section MK 2 for only part of the year, the amount of the tax credit is,—
-  (a) for a person whose member credit contributions for the year are equal to or less than the part-year maximum amount calculated under subsection (4), an amount equal to their total contributions for the year; or
-  (b) for a person whose member credit contributions for the year are greater than the part-year maximum amount calculated under subsection (4), the part-year maximum amount.
+  (a) equal to half of their total member credit contributions for the year, if that amount is equal to or less than the part-year maximum amount calculated under subsection (4); or
+  (b) equal to the part-year maximum amount calculated under subsection (4), if half of their total member credit contributions for the year is greater than the part-year maximum amount calculated under subsection (4).
 Part-year equivalents: maximum amount
-(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$1042.86 ×days365.
+(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$521.43 ×days365.
 Definition of item in formula
 (5) In the formula, days is the number of days in the year in which the person meets the requirements of section MK 2.
 Parts of years
@@ -37955,7 +37955,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
   - **identical share** means a share that confers the same rights and imposes the same obligations on a holder as an original share
-  - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, approved by the Accounting Standards Review Board, and as amended from time to time or an equivalent standard issued in its place
+  - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, approved or issued under the Financial Reporting Act 1993, and as amended from time to time or an equivalent standard issued in its place
   - **IFRS 4** means the IFRS, numbered NZ IFRS 4, that relates to insurance contracts
   - **IFRSE** means an International Financial Reporting Standard approved by the International Accounting Standards Board, as amended from time to time
   - **impaired credit adjustment** is defined in section EW 15D(3) (IFRS financial reporting method) for the purposes of that section.
@@ -38647,12 +38647,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **novelty** is defined in section LH 7(4) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **NRWT** means non-resident withholding tax and refers to an amount payable as income tax under the NRWT rules
   - **NRWT rules** means the provisions listed in section RF 1 (NRWT rules and their application)
-  - **NZIAS 2** means New Zealand Equivalent to International Accounting Standard 2, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 8** means New Zealand Equivalent to International Accounting Standard 8, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 17** means New Zealand Equivalent to International Accounting Standard 17, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 23** means New Zealand Equivalent to International Accounting Standard 23, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 2** means New Zealand Equivalent to International Accounting Standard 2, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 8** means New Zealand Equivalent to International Accounting Standard 8, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 17** means New Zealand Equivalent to International Accounting Standard 17, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 23** means New Zealand Equivalent to International Accounting Standard 23, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
   - **offered or entered into in New Zealand** , for an insurance contract, a reinsurance contract, and a life insurance policy, means a contract or policy offered or entered into in New Zealand, whether or not—
     (a) the contract or policy is executed in New Zealand; or
