@@ -1,5 +1,7 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-07-01_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Remuneration Authority Act 1977.
@@ -13,13 +15,13 @@ In this Act, unless the context otherwise requires,—
   - **principal allowances** means allowances (not being travelling allowances or other incidental or minor allowances)
   - **remuneration** includes—
     (a) salary, wages, and other payments, whether in the form of bonuses or otherwise, in return for services; and
-    (b) benefits and other emoluments (whether in money or not) in return for services:
+    (b) benefits and other emoluments (whether in money or not) in return for services.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
 
 ### 4 Establishment of Remuneration Authority
-(1) There is hereby established a commission to be called the Remuneration Authority.
+(1) There is hereby established an authority to be called the Remuneration Authority.
 (2) The Authority established by subsection (1) is hereby declared to be the same Authority as the Higher Salaries Commission established by the Wage Adjustment Regulations 1974 and in existence immediately before the commencement of this Act.
 
 ### 5 Membership of Authority
@@ -55,11 +57,11 @@ This Act shall bind the Crown.
 (2) Every person commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who wilfully acts in contravention of subsection (1).
 
 ### 10 Remuneration and travelling allowances
-(1) The Authority is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(1) The Authority is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There shall be paid out of money appropriated by Parliament for the purpose to the members of the Authority remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 
 ### 11 Staff of Authority
-There shall from time to time be appointed by the chief executive of the Department of Labour such employees of the Department as may be necessary to enable the Authority to exercise its functions and powers.
+There shall from time to time be appointed by the chief executive of the Department of Labour such employees of the department as may be necessary to enable the Authority to exercise its functions and powers.
 
 ### 12 Functions of Authority
 (1) The functions of the Authority shall be—
@@ -78,7 +80,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2) In carrying out its functions under subsection (1)(a), the Authority may fix scales of salaries and scales of allowances or ranges of rates of remuneration or alternative forms of remuneration within a remuneration package for any position, and may prescribe rules governing the application of any such scales of salaries or allowances, or ranges of rates of remuneration, or alternative forms of remuneration within a remuneration package fixed by it.
 (2A) The Authority shall, in making a determination under subsection (1)(ba), determine—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy (which amount must be the same for all members but which may be expressed as a specified monetary amount or as a percentage of an ordinary member's salary as the Authority determines) in respect of those members of the House of Representatives who choose to contribute to any registered superannuation scheme; and
-  (b) the contribution that the member must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a) of this subsection, expressed as a ratio of the subsidy to the member's contribution.
+  (b) the contribution that the member must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
 (2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
 (2C) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
@@ -117,7 +119,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (f) the chief coroner and the other coroners (other than a person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge).
 (2) The Authority shall have the function of considering and making determinations with respect to—
   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
-  (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956:
+  (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956.
 (3) The Authority shall, in making a determination under subsection (2)(b), determine—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any judicial officer who chooses to contribute to any registered superannuation scheme; and
   (b) the contribution that the judicial officer must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the officer's contribution.
@@ -139,7 +141,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (b) add to or omit from Schedule 2 the name of any university position:
   (c)
   (d) add to or omit from Schedule 4 the name of any specified statutory officer:
-  (e) otherwise amend Schedule 2, or Schedule 4, or revoke any such Schedule or any Part of any such Schedule, and substitute a new Schedule or a new Part, as the case may require.
+  (e) otherwise amend Schedule 2, or Schedule 4, or revoke any such schedule or any Part of any such schedule, and substitute a new schedule or a new Part, as the case may require.
 (2) Every Order in Council made under subsection (1) shall have effect according to its tenor.
 
 ### 14 Implementation of determinations
@@ -147,7 +149,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2) It is unlawful for any person to act contrary to a determination under this Act or to fail to observe the criteria or limits specified in a determination.
 
 ### 15 Release of determinations
-(1) The Authority shall ensure that every determination made by it in respect of the remuneration of any person is, subject to section 16, made known to that person and to the person responsible for the payment of the remuneration and to such other persons as have, in the opinion of the Authority, a direct interest in the subject-matter of the determination.
+(1) The Authority shall ensure that every determination made by it in respect of the remuneration of any person is, subject to section 16, made known to that person and to the person responsible for the payment of the remuneration and to such other persons as have, in the opinion of the Authority, a direct interest in the subject matter of the determination.
 (2) The Authority shall deliver to the Minister copies of all determinations made by it—
   (a) under any of the provisions of section 12(1)(a); or
   (b) under section 12B.
@@ -180,7 +182,7 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
   (a) consult with the Commissioner of Inland Revenue about the taxation consequences of the Authority's proposed determination; and
   (b) consult with the Speaker of the House of Representatives and the Minister who has, with the authority of the Prime Minister, for the time being assumed responsibility for Ministerial services, about the services for which they have jurisdiction.
 
-### 18 Criteria for Authority
+### 18 Criteria of Authority
 (1) In determining any remuneration under section 12(1)(a) or section 12B(1), or under any other enactment, the Authority shall have regard in particular to the following criteria:
   (a) the need to achieve and maintain fair relativity with the levels of remuneration received elsewhere; and
   (b) the need to be fair both—
@@ -200,8 +202,8 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 (4) To avoid doubt, the provisions of any other enactment relating to the setting of remuneration by the Authority must be read together with, and subject to, this section.
 
 ### 19 Frequency of adjustments
-(1) Subject to subsection (4), every determination shall specify the date on which it expires and shall continue in force at least until the close of that date. The Authority may issue separate determinations, at different times, for the different positions under the jurisdiction of the Authority. The Authority may make a determination before or after the date upon which that determination is to come into force.
 (1A) This section applies to determinations other than those under section 12(1)(b) or section 12(1)(ba) or section 12B(2).
+(1) Subject to subsection (4), every determination shall specify the date on which it expires and shall continue in force at least until the close of that date. The Authority may issue separate determinations, at different times, for the different positions under the jurisdiction of the Authority. The Authority may make a determination before or after the date upon which that determination is to come into force.
 (2) No determination, or any part of it, shall come into force earlier than the date of the expiry of the currency of the existing determination being wholly or partially superseded by the first-mentioned determination.
 (3) Notwithstanding the expiry of the currency of a determination, it shall continue in force to the extent that it is not superseded by another determination.
 (4) Notwithstanding subsection (1), the Authority may at any time while a determination is in force amend that determination—
@@ -233,7 +235,7 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 (2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002.
 
 ### 25 Powers of Authority
-(1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908, and the provisions of that Act, except sections 2, 4A, 11, and 12, shall apply accordingly.
+(1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908, and the provisions of that Act, except sections 2, 4A, 11, and 12, shall apply accordingly.
 (2) To enable it to carry out its functions, the Authority may require any person to furnish information concerning salaries or other conditions of employment or both for any positions, whether or not those positions are subject to the jurisdiction of the Authority under this Act.
 (3) In addition to the powers expressly conferred on the Authority by this Act or any other enactment, the Authority shall have such other powers as may be reasonably necessary to enable it to carry out its functions.
 
@@ -258,37 +260,33 @@ Notwithstanding any provision of any other Act authorising any person or body to
 (2) Nothing in this section shall derogate from section 24.
 
 ### 32 Consultation with Authority
-Where any University or the University Grants Committee considers that any remuneration which it proposes to agree to, or pay, will or may tend to lead to unreasonable disparities or inappropriate relativities with remuneration determined by the Authority under section 12 or section 12A, it shall, before agreeing to, or committing itself to the payment of, that remuneration, consult with the Authority and have due regard to any opinions expressed by the Authority and to any relevant remuneration determined by the Authority.
+Where any university or the University Grants Committee considers that any remuneration which it proposes to agree to, or pay, will or may tend to lead to unreasonable disparities or inappropriate relativities with remuneration determined by the Authority under section 12 or section 12A, it shall, before agreeing to, or committing itself to the payment of, that remuneration, consult with the Authority and have due regard to any opinions expressed by the Authority and to any relevant remuneration determined by the Authority.
 
 ### 33 Consequential amendments
-(1) The enactments specified in Schedule 5 are hereby amended in the manner indicated in that Schedule.
+(1) The enactments specified in Schedule 5 are hereby amended in the manner indicated in that schedule.
 (2) Unless in any case the context otherwise requires, in any other enactment or in any regulation, order, notice, award, agreement, instrument, or other document—
   (a) every reference to Part 2 of the Wage Adjustment Regulations 1974 shall be read as a reference to this Act:
-  (b) every reference to the Higher Salaries Authority shall be read as a reference to the Higher Salaries Authority established under this Act.
+  (b) every reference to the Higher Salaries Commission shall be read as a reference to the Remuneration Authority established under this Act.
 
 ### 34 Repeal
 The Civil List Amendment Act (No 2) 1970 is hereby repealed.
 
 ### 35 Revocations and amendments
 (1) The following regulations are hereby consequentially revoked, namely:
-  (a) Part 2 of the Wage Adjustment Regulations 1974, and the First and Second Schedules to those regulations:
+  (a) Amendment(s) incorporated in the regulations.
   (b) the Wage Adjustment Regulations 1974, Amendment No 1:
-  (c) regulation 7 of the Wage Adjustment Regulations 1974, Amendment No 4:
+  (c) Amendment(s) incorporated in the regulations.
   (d) the Wage Adjustment Regulations 1974, Amendment No 6:
-  (e) regulation 2(1)(b) and regulation 5(2) of the Wage Adjustment Regulations 1974, Amendment No 9:
-  (f) regulation 10(3) and regulation 17(3) of the Wage Adjustment Regulations 1974, Amendment No 10:
-  (g) so much of Part 1 of the Schedule to the Wage Adjustment Regulations 1974, Amendment No 13, as relates to regulation 27 and regulation 28 of the Wage Adjustment Regulations 1974.
-(2) Regulation 2 of the Wage Adjustment Regulations 1974 is hereby consequentially amended by revoking the proviso to the definition of the term instrument (as amended by regulation 2(1)(b) of the Wage Adjustment Regulations 1974, Amendment No 9), and substituting the following proviso:.
-  Provided that, subject to Part III of these regulations and to the Higher Salaries Commission Act 1977, nothing in Part I of these regulations shall apply with respect to any instrument to which the said Part III applies or to any determination made under the said Act:
-(3) Regulation 2 of the Wage Adjustment Regulations 1974 is hereby further amended by omitting from subclause (3) (as added by regulation 2(2) of the Wage Adjustment Regulations 1974, Amendment No 4) the words regulation 23(1) of these regulations, and substituting the words section 12(1)(a) of the Higher Salaries Commission Act 1977.
+  (e)–(g) Amendment(s) incorporated in the regulations.
+(2), (3) Amendment(s) incorporated in the regulations.
 
 ### 36 Savings and validation
 (1) Nothing in this Act shall affect the validity of any determination made by the Higher Salaries Commission before the commencement of this Act pursuant to Part 2 of the Wage Adjustment Regulations 1974 and every such determination shall be and be deemed always to have been valid according to its tenor.
-(2) Notwithstanding anything in this Act, salaries and allowances in respect of which the Higher Salaries Commission may make determinations shall, until amended or superseded by determination of the Authority, continue to be payable at the rates applicable at the commencement of this Act.
+(2) Notwithstanding anything in this Act, salaries and allowances in respect of which the Remuneration Authority may make determinations shall, until amended or superseded by determination of the Authority, continue to be payable at the rates applicable at the commencement of this Act.
 
 ## Schedule 1 — Corporations and bodies whose highest paid executive officers' remuneration is to be determined by Authority
 
-## Schedule 2 — University positions the salaries for which are to be determined by Higher Salaries Commission
+## Schedule 2 — University positions the remuneration for which is to be determined by Higher Salaries Commission
 
 ## Schedule 3 — Local authorities whose chief executive officers' remuneration is to be determined by Higher Salaries Commission
 
