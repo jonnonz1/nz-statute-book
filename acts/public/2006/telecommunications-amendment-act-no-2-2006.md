@@ -1,5 +1,5 @@
 # Telecommunications Amendment Act (No 2) 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Telecommunications Amendment Act (No 2) 2006.
@@ -826,7 +826,7 @@ The following heading and section are inserted after section 111:Information req
   (3) The Minister must not make a recommendation under subsection (2)(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
 
 ### 54 New Parts 4A and 4B inserted
-The following Parts are inserted after Part 4:EnforcementEnforcement of statutory and regulatory provisionsPreliminaryApplication of section 156BEnforcement actions that Commission may takeMatters that Commission must take into account in deciding what enforcement action to takeCivil infringement noticeCivil infringement noticeObjection to civil infringement noticeCommission must consider objectionEffect of withdrawal of civil infringement noticeConsequence of not paying pecuniary penalty specified in civil infringement noticeRight to appealDecision on appealCommission may publish information about issue of civil infringement noticePecuniary penaltyPecuniary penaltyFurther penalty may be imposed for continuing breachEnforcement of determinations, approved codes, and registered undertakingsInterpretationComplaints of breach of enforceable matterEnforcement by High CourtRemedies for breach of enforceable matterLimit on amount of pecuniary penaltyConsumer complaintsPreliminaryCommencement of this PartProcess to apply before Part may be commencedPurpose of this PartInterpretationPower to exempt service providers from application of consumer complaints systemObjectives of consumer complaints systemRequirements for consumer complaints systemConsumer complaints adjudicatorAppointment of consumer complaints adjudicatorQualification for appointment as consumer complaints adjudicatorRevocation of appointmentFunctions and duties of consumer complaints adjudicatorPowers of consumer complaints adjudicator in relation to complaintsConsumer complaints adjudicator may seek agreed settlement or order compensationRight of appealConsumer complaints levyPurpose of subpartConsumer complaints levyLate payment of consumer complaints levyMiscellaneousConsultation requirements for making Order in Council or regulation under this Part
+The following Parts are inserted after Part 4:EnforcementEnforcement of statutory and regulatory provisionsPreliminaryApplication of section 156BEnforcement actions that Commission may takeMatters that Commission must take into account in deciding what enforcement action to takeCivil infringement noticeCivil infringement noticeObjection to civil infringement noticeCommission must consider objectionEffect of withdrawal of civil infringement noticeConsequence of not paying pecuniary penalty specified in civil infringement noticeRight to appealDecision on appealCommission may publish information about issue of civil infringement noticePecuniary penaltyPecuniary penaltyFurther penalty may be imposed for continuing breachEnforcement of determinations, approved codes, and registered undertakingsInterpretationComplaints of breach of enforceable matterEnforcement by High CourtRemedies for breach of enforceable matterLimit on amount of pecuniary penaltyConsumer complaintsPreliminaryCommencement of this PartProcess to apply before Part may be commencedPurpose of this PartAppointment of consumer complaints systemInterpretationPower to exempt service providers from application of consumer complaints systemObjectives of consumer complaints systemRequirements for consumer complaints systemObligation to publish rulesDuty to notify change to rulesMinister's consideration of change of rulesConsumer complaints adjudicatorAppointment of consumer complaints adjudicatorQualification for appointment as consumer complaints adjudicatorRevocation of appointmentFunctions and duties of consumer complaints adjudicatorPowers of consumer complaints adjudicator in relation to complaintsConsumer complaints adjudicator may seek agreed settlement or order compensationRight of appealConsumer complaints levyPurpose of subpartConsumer complaints levyLate payment of consumer complaints levyMiscellaneousConsultation requirements for making Order in Council or regulation under this Part
   Section 156B applies to a person who commits any of the following breaches:
     (a) fails, without reasonable excuse, to comply with section 22A:
     (b) fails, without reasonable excuse, to comply with a notice under section 30F requiring a standard terms proposal to be submitted to the Commission:
@@ -970,36 +970,60 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   (2) For the purposes of subsection (1), 1 or more Orders in Council may be made appointing different dates for different provisions or for different purposes.
   (1) The Minister may recommend the making of an Order in Council under section 156S(1) only if the Minister is satisfied, at the time of making the recommendation, that—
     (a) a reasonable period of time has elapsed since the commencement of the Telecommunications Amendment Act 2006 to enable the telecommunications industry to establish its own complaints resolution system; and
-    (b) either of the following applies:
+    (b) any of the following applies:
       (i) no industry-based complaints resolution system has been established during that period; or
-      (ii) an industry-based complaints resolution system has been established during that period, but in the Minister's opinion it has failed to achieve the purpose of this Part set out in section 156U and the objectives of a consumer complaints system set out in section 156X.
+      (ii) an industry-based complaints resolution system has been established during that period, but in the Minister's opinion it has failed to achieve the purpose of this Part set out in section 156U and the objectives of a consumer complaints system set out in section 156X; or
+      (iii) the provisions are necessary to implement Government policy.
   (2) The Minister may not recommend the making of an Order in Council under section 156S(1) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
   (1) The purpose of this Part is to facilitate the resolution of complaints by consumers against service providers.
   (2) To that end, this Part—
     (a) facilitates the establishment of 1 or more consumer complaints systems; and
     (b) provides for the appointment of a consumer complaints adjudicator; and
     (c) imposes a consumer complaints levy on applicable service providers to fund the costs of the consumer complaints adjudicator.
+  (1) The Minister may, by notice in the Gazette,—
+    (a) appoint a system to be a consumer complaints system under this Part (with or without conditions) for a term specified by the Minister; and
+    (b) set rules for the system; and
+    (c) set rules about the funding of the system.
+  (2) To avoid doubt, this Part does not preclude the existence of 1 or more industry-based complaints resolution systems in addition to 1 or more systems appointed under this Part.
   In this Part, unless the context otherwise requires,—
     - **applicable service provider** means a service provider to whom a consumer complaints system applies
-    - **consumer** means a person who is an end-user of a telecommunications service
+    - **consumer** means a person who is an end-user of a telecommunications service, and includes an owner or occupier for the purposes of complaints under subpart 3 of Part 4
     - **consumer complaints adjudicator** means the person or entity appointed under section 156Z
     - **consumer complaints levy** means the levy payable under section 156ZH
     - **consumer complaints system** means a consumer complaints resolution system facilitated by this Part
     - **designated person** , in relation to an entity that is or is proposed to be appointed as a consumer complaints adjudicator, means the person responsible for carrying out the role of a consumer complaints adjudicator.
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare a service provider, or a class of service providers, to be exempt from the application of a consumer complaints system.
   (2) The Minister may not recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
-  A consumer complaints system has the following objectives:
-    (a) to ensure that complaints by consumers against applicable service providers are investigated in a fair, timely, and effective manner:
-    (b) to ensure that, if possible in the circumstances, complaints are dealt with reasonably promptly:
-    (c) to ensure that all reasonable steps are taken to investigate complaints:
-    (d) to ensure that complainants are advised of the progress in investigating their complaints:
-    (e) to ensure that complaints are resolved satisfactorily and any remedies or sanctions imposed on the applicable service provider concerned are appropriate in the circumstances.
+  (1) When considering appointing a system under this Part, the Minister must have regard to the following considerations in light of the principles listed in subsection (2):
+    (a) whether the system has an appropriate purpose:
+    (b) whether the applicant has undertaken reasonable consultation on the system with members or potential members of the system, and persons (or their representatives) likely to be substantially affected by the system:
+    (c) whether the applicant's directors and senior managers are competent to manage a consumer complaints system:
+    (d) whether the rules about the system are adequate and comply with the principles listed in subsection (2).
+  (2) The principles are as follows:
+    (a) accessibility:
+    (b) independence:
+    (c) fairness:
+    (d) accountability:
+    (e) efficiency:
+    (f) effectiveness.
   (1) A consumer complaints system must—
     (a) achieve the objectives set out in section 156X:
     (b) set out the procedures that the consumer complaints adjudicator must use for receiving, investigating, and resolving complaints; and
     (c) set out appropriate and auditable documentation and record keeping:
     (d) comply with any other requirements prescribed by regulations made under this Act.
   (2) A consumer complaints system may provide for the development of codes of practice relating to consumer complaints.
+  (3) Any codes of practice must be available for inspection by the public, free of charge,—
+    (a) at the system's head office (during ordinary office hours); and
+    (b) on an Internet site in an electronic form that is publicly available at all reasonable times.
+  The person responsible for an appointed consumer complaints system must make copies of the rules about the system available for inspection by the public, free of charge,—
+    (a) at the system's head office (during ordinary office hours); and
+    (b) on an Internet site in an electronic form that is publicly available (at all reasonable times).
+  The person responsible for an appointed consumer complaints system must notify the Minister if the person wishes to change the rules about the system.
+  (1) After receiving a notification under section 156YB, the Minister may notify the person responsible for a system that the Minister—
+    (a) approves the change; or
+    (b) considers the proposed change is not adequate and does not comply with the principles listed in section 156X(2).
+  (2) If subsection (1)(b) applies, the rule change must not be made.
+  (3) If the Minister does not notify the person responsible for the system in accordance with subsection (1) within 45 working days of the notification of the change of rules, the change is treated as having been approved by the Minister.
   (1) The Minister may, by notice in the Gazette, appoint a person or an entity as a consumer complaints adjudicator for a term, not exceeding 2 years, that the Minister may specify.
   (2) A notice under this section must state—
     (a) the date on which the appointment takes effect; and
@@ -1046,6 +1070,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
       (ii) take any remedial action that the adjudicator thinks fit.
   (2) Any compensation ordered to be paid under subsection (1)(b)(i) must not exceed $12,000.
   (1) A complainant or an applicable service provider may appeal to a District Court if the complainant or applicable service provider is dissatisfied with the consumer complaints adjudicator's final determination of a complaint.
+  (1A) For the avoidance of doubt, an appeal under subsection (1) cannot be made by either party after a binding settlement has been agreed to.
   (2) An appeal under subsection (1) must be brought within 20 working days after the date of the final determination.
   (3) In determining an appeal under subsection (1), the District Court has all the powers, duties, and functions the consumer complaints adjudicator had in relation to the matter concerned; and may—
     (a) confirm, modify, or reverse the adjudicator's final determination; or
