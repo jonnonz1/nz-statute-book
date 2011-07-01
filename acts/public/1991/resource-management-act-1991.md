@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2011-07-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -127,7 +127,7 @@ _Consolidation as at 2011-06-20_
     (c) amenity values; and
     (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) or which are affected by those matters
   - **Environment Court** and means the Environment Court referred to in section 247
-  - **Environmental Protection Authority** or means the Environmental Protection Authority established under section 42B
+  - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **esplanade reserve** means a reserve within the meaning of the Reserves Act 1977—
     (a) which is either—
       (i) a local purpose reserve within the meaning of section 23 of that Act, if vested in the territorial authority under section 239; or
@@ -878,7 +878,7 @@ The Minister of Conservation shall have the following functions under this Act:
   (q) this power of delegation.
 (2) A chief executive may, in accordance with section 41 of the State Sector Act 1988, subdelegate any function, power, or duty delegated to him or her by a Minister under section 28 of that Act.
 (3) Any delegation or subdelegation made under this section may be revoked in accordance with section 29 or section 42 of the State Sector Act 1988, as the case may be.
-(4) The Minister may, in writing, delegate to the Environmental Protection Authority his or her functions, powers, and duties under Part 6AA and sections 357B to 357D except the following:
+(4) The Minister may, in writing, delegate to the Environmental Protection Authority his or her functions, powers, and duties under section 24(f), Part 6AA, and sections 357B to 357D except the following:
   (a) deciding whether to make a direction under section 142(2) or 147(1) in relation to a matter that is or is part of a proposal of national significance:
   (b) appointing a board of inquiry under section 149J to consider a matter for which a direction has been made under section 142(2) or 147(1)(a):
   (c) extending the time by which a board of inquiry must produce a final report on a matter for which a direction has been made under section 142(2) or 147(1)(a):
@@ -887,6 +887,9 @@ The Minister of Conservation shall have the following functions under this Act:
 (5) A delegation under subsection (4)—
   (a) is revocable at will, but the revocation does not take effect until it is communicated in writing to the EPA; and
   (b) does not prevent the Minister from performing the functions or duties, or exercising the powers, concerned.
+
+### 29A Restriction on Ministerial direction
+The Minister may not give a direction under section 103 of the Crown Entities Act 2004 that relates to the exercise of the EPA's functions under section 42C(c).
 
 **Functions, powers, and duties of local authorities**
 
@@ -1393,22 +1396,24 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
 ## Part 4A — Environmental Protection Authority
 
 ### 42B Establishment of Environmental Protection Authority
-This section establishes the Environmental Protection Authority.
+[Repealed]
 
 ### 42C Functions of EPA
 The functions of the Environmental Protection Authority are—
+  (aa) to make recommendations to the Minister under section 144A in relation to a matter to which section 142(1) applies:
   (a) to receive matters lodged under section 145:
   (b) to make recommendations to the Minister under section 146 or 149ZB in respect of a matter referred to in paragraph (a):
+  (ba) to receive matters under section 149B(2):
   (c) to make decisions under section 139 on applications for certificates of compliance for proposals or activities that are related to proposals of national significance:
-  (d) to provide secretarial and support services to boards of inquiry appointed under section 149J:
+  (d) to provide secretarial and support services to—
+    (i) a board of inquiry appointed under section 149J:
+    (ii) a special tribunal appointed under section 202:
+  (da) to provide technical advice to the Minister on the development of a national environmental standard:
   (e) to exercise any powers or perform any functions or duties delegated to it by the Minister under section 29(4):
   (f) to exercise any other functions specified in this Act.
 
 ### 42D Secretary for the Environment to exercise functions of EPA
-(1) The Environmental Protection Authority is an office within the Ministry for the Environment.
-(2) The Secretary for the Environment has and may exercise all the powers and perform all the functions and duties of the Environmental Protection Authority.
-(3) The Secretary for the Environment may delegate any function, duty, or power imposed upon him or her by the operation of subsection (2) to any employee of the Ministry for the Environment.
-(4) In this section, Secretary for the Environment means the person appointed in accordance with section 29 of the Environment Act 1986 as the Secretary for the Environment (being the administrative head of the Ministry for the Environment).
+[Repealed]
 
 ## Part 5 — Standards, policy statements, and plans
 
@@ -3578,24 +3583,28 @@ In this Part, unless the context requires another meaning,—
 (2) If the Minister considers that a matter is or is part of a proposal of national significance, the Minister may call in the matter by making a direction to—
   (a) refer the matter to a board of inquiry for decision; or
   (b) refer the matter to the Environment Court for decision.
-(3) In deciding whether a matter is or is part of a proposal of national significance, the Minister may have regard to any relevant factor, including whether the matter—
-  (a) has aroused widespread public concern or interest regarding its actual or likely effect on the environment (including the global environment); or
-  (b) involves or is likely to involve significant use of natural and physical resources; or
-  (c) affects or is likely to affect a structure, feature, place, or area of national significance; or
-  (d) affects or is likely to affect or is relevant to New Zealand's international obligations to the global environment; or
-  (e) results or is likely to result in or contribute to significant or irreversible changes to the environment (including the global environment); or
-  (f) involves or is likely to involve technology, processes, or methods that are new to New Zealand and that may affect its environment; or
-  (g) is or is likely to be significant in terms of section 8; or
-  (h) will assist the Crown in fulfilling its public health, welfare, security, or safety obligations or functions; or
-  (i) affects or is likely to affect more than 1 region or district; or
-  (j) relates to a network utility operation that extends or is proposed to extend to more than 1 district or region.
+(3) In deciding whether a matter is, or is part of, a proposal of national significance, the Minister may have regard to—
+  (a) any relevant factor, including whether the matter—
+    (i) has aroused widespread public concern or interest regarding its actual or likely effect on the environment (including the global environment); or
+    (ii) involves or is likely to involve significant use of natural and physical resources; or
+    (iii) affects or is likely to affect a structure, feature, place, or area of national significance; or
+    (iv) affects or is likely to affect or is relevant to New Zealand's international obligations to the global environment; or
+    (v) results or is likely to result in or contribute to significant or irreversible changes to the environment (including the global environment); or
+    (vi) involves or is likely to involve technology, processes, or methods that are new to New Zealand and that may affect its environment; or
+    (vii) is or is likely to be significant in terms of section 8; or
+    (viii) will assist the Crown in fulfilling its public health, welfare, security, or safety obligations or functions; or
+    (ix) affects or is likely to affect more than 1 region or district; or
+    (x) relates to a network utility operation that extends or is proposed to extend to more than 1 district or region; and
+  (b) any advice provided by the EPA.
 (4) In deciding whether to make a direction under subsection (2), the Minister must have regard to—
   (a) the views of the applicant and the local authority; and
-  (b) the capacity of the local authority to process the matter.
+  (b) the capacity of the local authority to process the matter; and
+  (c) the recommendations of the EPA.
 (5) A direction made under subsection (2) must—
   (a) be in writing and be signed by the Minister; and
   (b) state the Minister's reasons for making the direction.
 (6) If a local authority or an applicant requests the Minister to call in a matter (by making a direction under subsection (2)) and the Minister decides not to do so, the EPA must give notice of the Minister's decision to the local authority and the applicant.
+(7) To avoid doubt, the Minister may make a direction under subsection (2) that differs from the direction recommended by the EPA under section 144A.
 
 ### 143 Restriction on when local authority may request call in
 A local authority (whether acting as an applicant or a local authority) may not make a request to the Minister in respect of either of the following matters unless it has complied with the consultation provisions in clauses 2, 3, and, if relevant, 4 of Schedule 1 in relation to the matter:
@@ -3606,6 +3615,17 @@ A local authority (whether acting as an applicant or a local authority) may not 
 The Minister must not call in a matter (by making a direction under section 142(2))—
   (a) more than 5 working days after the close of the last day on which submissions may be made, if the local authority has notified the matter; or
   (b) after the local authority gives notice of its decision or recommendation on the matter, if the local authority has decided not to notify the matter.
+
+### 144A EPA to advise and make recommendations to Minister in relation to call-in
+(1) The Minister may request the EPA to advise him or her on whether a matter is, or is part of, a proposal of national significance.
+(2) Section 142(3)(a) applies to the EPA as if the reference to the Minister were a reference to the EPA.
+(3) The EPA must provide advice under subsection (1) no later than 20 working days after receiving the Minister's request.
+(4) The EPA's advice must include its recommendation that the Minister—
+  (a) call the matter in and make a direction to refer it to a board of inquiry for a decision; or
+  (b) call the matter in and make a direction to refer it to the Environment Court for a decision; or
+  (c) not call the matter in.
+(5) The EPA must serve a copy of its recommendation on the applicant and the local authority.
+(6) The 20-working-day time frame specified in subsection (3) applies subject to section 149(5) and (6).
 
 **Matter lodged with EPA**
 
@@ -3688,11 +3708,11 @@ The Minister must not call in a matter (by making a direction under section 142(
 (4) If the EPA receives a notice under subsection (3)(b), the EPA must—
   (a) set a reasonable time within which the applicant must provide the information; and
   (b) tell the applicant by written notice the date by which the applicant must provide the information.
-(5) If the EPA requests further information under subsection (2)(a) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on,—
+(5) If the EPA requests further information under subsection (2)(a) before making its recommendation to the Minister on a matter under section 144A or 146, the time frame referred to in section 144A(3) or 146(1) (being the time within which the EPA must make its recommendation) begins on,—
   (a) if the information is provided in accordance with this section, the day after the day on which the EPA receives the information; or
   (b) if the EPA receives a notice of refusal under subsection (3)(c), the day after the day on which the EPA receives the notice; or
   (c) in any other case, the day after the day on which the deadline for providing the information expires.
-(6) If the EPA requires a report under subsection (2)(b) before making its recommendation to the Minister on a matter under section 146, the time frame referred to in section 146(1) (being the time within which the EPA must make its recommendation) begins on the day after the day on which the EPA receives the report.
+(6) If the EPA requires a report under subsection (2)(b) before making its recommendation to the Minister on a matter under section 144A or 146, the time frame referred to in section 144A(3) or 146(1) (being the time within which the EPA must make its recommendation) begins on the day after the day on which the EPA receives the report.
 (7) The EPA must make its recommendation even if the applicant—
   (a) does not provide the information before the deadline; or
   (b) refuses to provide the information.
@@ -7287,7 +7307,8 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 ### 357B Right of objection in relation to imposition of additional charges or recovery of costs
 There is a right of objection,—
   (a) for a person required by a local authority to pay an additional charge under section 36(3) or costs under section 149ZD(1), to the local authority in respect of that requirement:
-  (b) for a person required by the Minister to pay costs under section 149ZD(2) to (4), to the Minister in respect of that requirement.
+  (ab) for a person required by the EPA to pay costs under section 149ZD(2) or (3), to the EPA in respect of that requirement:
+  (b) for a person required by the Minister to pay costs under section 149ZD(4), to the Minister in respect of that requirement.
 
 ### 357C Procedure for making and hearing objection under sections 357 to 357B
 (1) An objection under section 357, 357A,or 357B must be made by notice in writing not later than 15 working days after the decision or requirement is notified to the objector, or within any longer time allowed by the person or body to which the objection is made.
