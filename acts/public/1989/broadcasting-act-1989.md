@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2011-07-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -27,7 +27,6 @@ _Consolidation as at 2010-10-01_
   - **approved code of broadcasting practice** means a code of broadcasting practice—
     (a) developed and issued under section 21(1)(f); or
     (b) approved for the purposes of this Act under section 21(1)(g)
-  - **approved financial reporting standard** has the meaning given to that term by section 2(1) of the Financial Reporting Act 1993
   - **Authority** means the Broadcasting Standards Authority established by section 20
   - **broadcaster** means, subject to subsection (2), a person who broadcasts programmes
   - **broadcasting** means any transmission of programmes, whether or not encrypted, by radio waves or other means of telecommunication for reception by the public by means of broadcasting receiving apparatus but does not include any such transmission of programmes—
@@ -56,7 +55,7 @@ _Consolidation as at 2010-10-01_
   - **series** —
     (a) means 2 or more related sequential programmes; but
     (b) does not include any news or current affairs programme
-  - **total revenue** means all income classified as revenue by the applicable financial reporting standard approved under section 24 of the Financial Reporting Act 1993
+  - **total revenue** means all income classified as revenue by the applicable financial reporting standard issued under section 24 of the Financial Reporting Act 1993
   - **transmit on demand** means the transmission of content, by any means, made on the demand of a particular person for reception by that person
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
