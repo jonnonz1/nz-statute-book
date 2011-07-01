@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-07-01_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1463,9 +1463,7 @@ Where any person cannot be served with notice of an application made under any p
 ### 67 Application of Legal Services Act 2000
 (1) For the purposes of the Legal Services Act 2000, all proceedings under this Act are civil proceedings.
 (2)
-(3) A person is not entitled to assistance under the Police detention legal assistance scheme administered under the Legal Services Act 2000 merely because—
-  (a) a suspect request or a databank request has been made to that person; and
-  (b) the person has been informed that he or she may consult with a lawyer.
+(3)
 
 ### 68 Standard of proof
 Any question of fact to be determined by a High Court Judge or a District Court Judge or a Youth Court Judge on an application made under this Act shall be determined on the balance of probabilities.
