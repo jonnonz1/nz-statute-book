@@ -1,5 +1,5 @@
 # Sharebrokers Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-07-01_
 
 > An Act to amend the Sharebrokers Act 1908
 
