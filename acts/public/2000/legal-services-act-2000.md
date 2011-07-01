@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
