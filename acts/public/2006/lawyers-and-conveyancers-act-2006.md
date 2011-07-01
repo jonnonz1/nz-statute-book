@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -49,7 +49,7 @@ In this Act, unless the context otherwise requires,—
       (iii) in the case of the Police of New Zealand, the Commissioner of Police; and
       (iv) in the case of the New Zealand Defence Force, the Chief of Defence Force; and
       (v) in the case of an Office of Parliament, the head of the office concerned
-  - **community law centre** means a community law centre within the meaning of section 85 of the Legal Services Act 2000 that is providing community legal services under a contract entered into by the Legal Services Agency pursuant to section 87 of that Act
+  - **community law centre** means a community law centre within the meaning of section 93 of the Legal Services Act 2011 that is providing community legal services under a contract entered into by the Secretary for Justice pursuant to section 94 of that Act
   - **company** means a company within the meaning of the Companies Act 1993
   - **complaint** means a complaint under section 132
   - **complaints service** means a complaints service established under section 121
@@ -300,7 +300,7 @@ In this Act, unless the context otherwise requires,—
   (b) by a partnership comprised entirely of lawyers; or
   (c) by an incorporated law firm; or
   (d) by a community law centre; or
-  (e) by the Legal Services Agency; or
+  (e) by the Ministry of Justice; or
   (f) by Public Trust; or
   (g) by the Maori Trustee; or
   (h) by a trustee company; or
@@ -574,7 +574,7 @@ A person who, in contravention of section 21, acts as a barrister or as a solici
 (3) Despite subsection (2), if,—that lawyer is not entitled to practise on his or her own account as a barrister and solicitor or as a barrister until he or she has received adequate instruction to the satisfaction of the Council of the New Zealand Law Society in the duties of a barrister and solicitor or of a barrister, as the case may require.
   (a) in the case of a lawyer to whom subsection (2)(a) applies, more than 10 years have elapsed since that lawyer last practised on his or her own account as a solicitor or as a barrister and solicitor; or
   (b) in the case of a lawyer to whom subsection (2)(b) applies, more than 10 years have elapsed since that lawyer last practised on his or her own account as a barrister,—
-(4) Section 30 does not restrict the right of a lawyer who is not entitled to practise on his or her own account, to act in any community law centre whose employing body comprises 1 or more lawyers qualified to practise on his or her own account, under the direct supervision of a lawyer qualified to practise on his or her own account and employed by that community law centre, or with the approval of the Legal Services Agency.
+(4) Section 30 does not restrict the right of a lawyer who is not entitled to practise on his or her own account, to act in any community law centre whose employing body comprises 1 or more lawyers qualified to practise on his or her own account, under the direct supervision of a lawyer qualified to practise on his or her own account and employed by that community law centre, or with the approval of the Secretary for Justice.
 
 **Conveyancing services**
 
@@ -1809,10 +1809,11 @@ A Standards Committee that receives a report from an investigator may, in its di
 (8) Consideration of the written material may be undertaken in whatever manner the Standards Committee thinks fit.
 
 ### 154 Reference of complaint or matter to Disciplinary Tribunal
-If a Standards Committee makes a determination that the complaint or matter be determined by the Disciplinary Tribunal, the Standards Committee must—
+(1) If a Standards Committee makes a determination that the complaint or matter be determined by the Disciplinary Tribunal, the Standards Committee must—
   (a) frame an appropriate charge and lay it before the Disciplinary Tribunal by submitting it in writing to the chairperson of the Disciplinary Tribunal; and
   (b) give written notice of that determination and a copy of the charge to the person to whom the charge relates; and
   (c) if the determination relates to a complaint, give both written notice of that determination and a copy of the charge to the complainant.
+(2) If the person who is the subject of the complaint or matter is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
 
 ### 155 Application for suspension of practitioner
 If, under section 154(a), a Standards Committee lays before the Disciplinary Tribunal a charge against a practitioner, the Standards Committee may apply to the Tribunal for an order that, pending the determination of the charge, the practitioner be suspended from practice—
@@ -1859,6 +1860,7 @@ If, under section 154(a), a Standards Committee lays before the Disciplinary Tri
   (b) specify any orders made under section 156 or section 157 and be accompanied by copies of any such orders; and
   (c) describe the right of review conferred by section 193; and
   (d) state the period within which an application for a review of the determination or of any such order or both may be lodged (which period is prescribed by section 198(b)).
+(3) If the person who is the subject of the determination is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
 
 ### 159 Power to notify Registrar-General of Land
 (1) If a Standards Committee makes a determination of the kind described in section 152(2)(a) or (b), that Standards Committee may give written notice of the making of the determination to the Registrar-General of Land if the Standards Committee considers that the giving of notice of the making of that determination to the Registrar-General is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 1952 or any other enactment.
@@ -2289,6 +2291,7 @@ The Legal Complaints Review Officer may, in conducting a review of a determinati
   (c) as a barrister and solicitor; or
   (d) as a conveyancing practitioner.
 (4) The Legal Complaints Review Officer may not, under section 211, decide that a complaint or matter should be considered by the Disciplinary Tribunal unless he or she has given the person who would be the subject of the charge laid before the Disciplinary Tribunal a reasonable opportunity to be heard.
+(5) If the Legal Complaints Review Officer decides to lay, or directs a Standards Committee to lay, a charge against a person who is a provider under the Legal Services Act 2011, the Legal Complaints Review Officer must give written notice of the decision to the Secretary for Justice.
 
 ### 213 Obligation to report outcomes and recommendations
 (1) The Legal Complaints Review Officer must—
@@ -2298,6 +2301,7 @@ The Legal Complaints Review Officer may, in conducting a review of a determinati
     (iii) each of the other persons who was entitled, under section 193, to apply to the Legal Complaints Review Officer for the review; and
   (b) report to the New Zealand Law Society or the New Zealand Society of Conveyancers, as the case may require, both the outcome at each review and any recommendations made as a result of the review.
 (2) The report of the outcome of a review must state the reasons for any decision made, as a result of that review, under section 205 or section 211.
+(3) If the person who is the subject of the review is a provider under the Legal Services Act 2011, the Legal Complaints Review Officer must report both the outcome of the review and any recommendations made as a result of the review to the Secretary for Justice.
 
 ### 214 Adverse comment
 The Legal Complaints Review Officer may not, in any decision, direction, or order made under section 211 or in any report made under section 213, make any comment that is adverse to any person unless that person has been given a reasonable opportunity to be heard.
@@ -2671,6 +2675,7 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 (2) Subject to subsection (3), on the filing of the order it takes effect as if it were an order of the High Court to the like effect made within the jurisdiction of the High Court.
 (3) If the order filed is an order made under section 242(1)(c) or (d), that order must, until the expiry of the time allowed for appeal under section 253, or, if an appeal is commenced, until the determination of the appeal, take effect only as an order that the practitioner be suspended from practice as a barrister or as a barrister and solicitor or as a conveyancing practitioner, as the case may require.
 (4) An order filed in the High Court under this section may be inspected by any person during office hours without payment of any fee.
+(5) If the person who is the subject of the order is a provider under the Legal Services Act 2011, the chairperson of the Disciplinary Tribunal must give a copy of the order to the Secretary for Justice.
 
 **Miscellaneous provisions**
 
@@ -2988,7 +2993,7 @@ Any money belonging to the Special Fund may, pending its application in accordan
 The accounts of the Special Fund must be audited annually by a chartered accountant appointed for the purpose by the Management Committee.
 
 ### 298 Distribution of Special Fund
-(1) On the last working day of every month, all money standing to the credit of the Special Fund at the close of the previous day (other than any money required to meet the costs of administering the Special Fund) must be paid to the Legal Services Agency for the purpose of funding community law centres.
+(1) On the last working day of every month, all money standing to the credit of the Special Fund at the close of the previous day (other than any money required to meet the costs of administering the Special Fund) must be paid to the Secretary for Justice for the purpose of funding community law centres.
 (2) The Management Committee may pay out of the Special Fund the costs of administering the Special Fund.
 (3) Those costs include the costs of—
   (a) auditing the accounts of the Special Fund; and
@@ -3088,10 +3093,10 @@ In this Part, unless the context otherwise requires,—
 (3) Every lawyer who is in fact employed by a lawyer who provides regulated services to the public or by a firm of lawyers that provides regulated services to the public but who is held out as a partner of the lawyer or as a partner in the firm is deemed, for the purposes of this Part, to be providing regulated services to the public on his or her own account.
 (4) For the purposes of this Part, a lawyer is not to be treated as being a lawyer of the kind described in subsection (1) merely because he or she,—
   (a) in the course of his or her employment by a community law centre, provides to the public—
-    (i) community services within the meaning of the Legal Services Act 2000; or
-    (ii) legal services under a scheme within the meaning of the Legal Services Act 2000; or
-  (b) acts as an employee of the Legal Services Agency; or
-  (c) provides legal services to the public under a scheme within the meaning of the Legal Services Act 2000; or
+    (i) community legal services within the meaning of section 4(1) of the Legal Services Act 2011; or
+    (ii) legal services within the meaning of section 4(1) of the Legal Services Act 2011; or
+  (b) acts as an employee of the Ministry of Justice; or
+  (c) provides to the public legal services within the meaning of the Legal Services Act 2011; or
   (d) provides to the public, in his or her capacity as an employee of Public Trust or of the Maori Trustee or of a trustee company, regulated services that his or her employer is entitled to provide to the public; or
   (e) provides, in his or her capacity as an employee of an employer organisation, regulated services to that organisation or to a member of that organisation; or
   (f) provides, in his or her capacity as an employee of a union, regulated services to that union or to a member of that union.
