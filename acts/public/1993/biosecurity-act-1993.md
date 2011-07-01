@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-07-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -18,7 +18,7 @@ _Consolidation as at 2010-07-07_
     (b) in relation to any other craft, means to anchor, berth, or come ashore in New Zealand territory after a voyage originating outside New Zealand territory:
     (c) in relation to a person, means to reach land within New Zealand territory after a flight or voyage originating outside New Zealand territory
   - **authorised person** means a person for the time being appointed an authorised person under section 103
-  - **Authority** means the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996
+  - **Authority** means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **biosecurity clearance** means a clearance under section 26 for the entry of goods into New Zealand
   - **biosecurity control area** means a place that is—
     (a) part of a port approved as a place of first arrival in accordance with section 37(1); and
