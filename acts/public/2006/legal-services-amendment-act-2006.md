@@ -1,5 +1,5 @@
 # Legal Services Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Legal Services Amendment Act 2006.
