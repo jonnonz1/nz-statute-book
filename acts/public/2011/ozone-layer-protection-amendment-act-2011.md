@@ -1,5 +1,5 @@
 # Ozone Layer Protection Amendment Act 2011
-_Consolidation as at 2011-05-17_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Ozone Layer Protection Amendment Act 2011.
