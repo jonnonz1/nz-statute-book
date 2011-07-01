@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2011-07-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -14,8 +14,8 @@ _Consolidation as at 2010-04-20_
   - **advertisement** means any publication to the community or to any section of the community of any words, whether written or printed, spoken, or in any electronic form, or of any pictorial representation or design or device, used to promote the sale of any hazardous substance; and has a corresponding meaning
   - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
   - **amenity values** means those natural or physical qualities and characteristics of an area that contribute to people's appreciation of its pleasantness, aesthetic coherence, and cultural and recreational attributes
-  - **approved form** means a form approved by the Authority under section 11(fa)
-  - **Authority** means the Environmental Risk Management Authority established under section 14
+  - **approved form** means a form approved by the Authority under section 11(1)(fa)
+  - **Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **bioaccumulation** means accumulation within the tissues of living organisms
   - **building** has the same meaning as in section 7 of the Building Act 2004
   - **by-product** means an incidental or secondary product made in the manufacture of another product
@@ -314,7 +314,7 @@ All persons exercising powers and functions under this Act shall take into accou
   (fa) approve forms for applications under Part 5:
   (fb) give directions as to the disposal of persistent organic pollutants:
   (fc) approve standards for containment facilities:
-  (g) carry out any powers, functions, and duties conferred on it by or under this Act or any other enactment.
+  (g) carry out any powers, functions, and duties conferred on it by or under this Act.
 (2) The Authority must, before exercising the function specified in subsection (1)(fc), consult the persons whom the Authority considers are representative of the classes of person who are likely to have an interest in the standards.
 (3) This section does not limit section 17 of the Crown Entities Act 2004.
 
@@ -332,29 +332,36 @@ Any enforcement officer may, in relation to the powers, functions, and duties sp
 (2) The duty imposed in accordance with subsection (1) is not of itself enforceable against any person, and no person is liable to any other person for a breach of that duty.
 (3) Notwithstanding subsection (2), a compliance order may be served on any person requiring that person to cease or prohibiting that person from commencing anything done or to be done by or on behalf of that person that in the opinion of the enforcement officer relates to any hazardous substance or new organism and is or is likely to be dangerous to such an extent that it has or is likely to have an adverse effect on the health and safety of people or the environment.
 
-## Part 4 — Environmental Risk Management Authority
+## Part 4 — Administrative provisions
 
 ### 14 Establishment of Authority
-(1) There is hereby established an Authority to be called the Environmental Risk Management Authority.
-(2) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 15 Membership of Authority
-(1) The Authority must have no fewer than 6, and no more than 8, members.
-(2) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
-(3) Members of the Authority hold office for 5 years or any shorter period stated in the notice of appointment.
-(4) Subsection (3) applies despite section 32(1)(a) of the Crown Entities Act 2004.
+[Repealed]
 
 ### 16 Eligibility for appointment as member of Authority
-(1) When considering whether a person is suitable to be appointed as a member of the Authority, the Minister shall ensure that the membership includes a balanced mix of knowledge and experience in matters likely to come before the Authority.
-(2) In subsection (1), matters includes matters relating to the Treaty of Waitangi and tikanga Māori.
-(3) Subsection (1) does not limit section 29 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 17 Restriction on Ministerial direction
-The Minister may not give a direction under section 104 of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Authority under Part 5 or Part 6A of this Act.
+The Minister may not give a direction under section 103 of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Authority under Part 5 or Part 6A of this Act.
 
-### 18 Further provisions applying in respect of Authority
-The provisions set out in Schedule 1 shall apply in respect of the Authority.
+### 18 EPA may appoint committees
+(1) A committee must include at least 1 member of the EPA.
+(2) A person must not be appointed as a member of a committee unless the Minister has approved the appointment.
+(3) Clause 14 of Schedule 5 of the Crown Entities Act 2004 applies to the EPA subject to subsection (2).
+
+### 18A Committee may appoint and delegate functions to subcommittee
+(1) A committee appointed by the EPA under clause 14 of Schedule 5 of the Crown Entities Act 2004 may appoint a subcommittee to hear and decide an application to which section 19(2)(b) applies.
+(2) For the purpose of subsection (1), the committee may delegate a power delegated to the committee under section 19(2)(b) to the subcommittee.
+(3) A subcommittee is a committee for the purposes of clause 15 of Schedule 5 of the Crown Entities Act 2004.
+
+### 18B Composition of subcommittee
+(1) The majority of members of a subcommittee appointed under section 18A must be members of the committee that appointed the subcommittee.
+(2) The subcommittee need not include a member of the EPA.
+
+### 18C Qualification for appointment to committee or subcommittee
+A committee or subcommittee appointed for the purpose of section 19(2)(b) must consist of persons who collectively have particular knowledge of, and expertise in, the subject matter of the application before the committee.
 
 ### 19 Delegation by Authority
 (1) The Authority may, in writing, delegate to any person, whether or not that person is a member of the Authority, any of the Authority's functions, powers, or duties under this Act, on such conditions as the Authority thinks fit, except—
@@ -363,14 +370,12 @@ The provisions set out in Schedule 1 shall apply in respect of the Authority.
   (c) this power of delegation.
 (2) The Authority may delegate in writing, on such terms and conditions as the Authority thinks fit,—
   (a) the power to conduct a rapid assessment under any of sections 35, 38BA, 42, 42A, 42B, or 42C to any person, whether or not that person is a member of the Authority:
-  (b) the power to hear and decide any other application made under Part 5 or Part 6A to any committee appointed for that purpose in accordance with Schedule 1:
+  (b) the power to hear and decide any other application made under Part 5 or Part 6A to any committee appointed for that purpose in accordance with the Crown Entities Act 2004:
   (ba) the power to assess and approve an application under section 38I(1) for the release of a qualifying organism to the responsible chief executive:
   (bb) the power to determine whether a medicine or veterinary medicine is a qualifying medicine or qualifying veterinary medicine to the responsible chief executive:
   (bc) the power to review and amend controls under section 38L in relation to qualifying medicines and qualifying veterinary medicines to the responsible chief executive:
   (bd) the power to impose controls under section 45(2) in relation to a genetically modified human cell to which section 55 of the Hazardous Substances and New Organisms Amendment Act 2003 applies:
-  (c) the power to decide any application for permission or other matter under Parts 11 to 16 to—
-    (i) any employee of the Ministry of Agriculture and Forestry, or of any person specified in section 97, with relevant experience in the subject matter of the application; or
-    (ii) if there is no employee with that relevant experience, any other person with that relevant experience, whether or not that person is a member of the Authority:
+  (c)
   (ca) the power to grant an extension of an exemption under section 25C(2) to—
     (i) any employee of a person specified in section 97 with relevant experience; or
     (ii) if there is no employee with relevant experience, any other person with relevant experience, whether or not that person is a member of the Authority:
@@ -391,7 +396,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Authority.
   (a) with the prior written consent of the Authority; and
   (b) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
 (6) Every delegation under subsection (2) must be available for public inspection at the office of the Authority during ordinary office hours.
-(7) Sections 73 to 76 of the Crown Entities Act 2004 do not apply to the Authority.
+(7) Sections 73 to 76 of the Crown Entities Act 2004 do not apply to the Authority's functions, powers, or duties under this Act.
 
 ### 20 Obligation to prepare and maintain register
 (1) The Authority shall keep a register of all applications made to the Authority.
@@ -445,19 +450,16 @@ The Authority may from time to time request any person who in the Authority's op
 ## Part 4A — Nga Kaihautu Tikanga Taiao
 
 ### 24A Establishment of Nga Kaihautu Tikanga Taiao
-This section establishes a committee to be called Nga Kaihautu Tikanga Taiao.
+[Repealed]
 
 ### 24B Function of Nga Kaihautu Tikanga Taiao
-(1) The function of Nga Kaihautu Tikanga Taiao is to provide advice and assistance to the Authority as sought by the Authority on matters relating to policy, process, and applications.
-(2) The advice and assistance must be given from the Māori perspective and come within terms of reference set by the Authority for Nga Kaihautu Tikanga Taiao.
+[Repealed]
 
 ### 24C Appointment and remuneration of members and chair
-(1) The Authority must appoint not fewer than 4 and not more than 8 members of Nga Kaihautu Tikanga Taiao.
-(2) The Authority must appoint one of the members to be the chairperson of Nga Kaihautu Tikanga Taiao.
-(3) The members of Nga Kaihautu Tikanga Taiao are entitled to be paid remuneration at a rate set by the Authority.
+[Repealed]
 
 ### 24D Review of terms of reference
-The Authority must, at intervals of not more than 3 years, review the terms of reference set by it for Nga Kaihautu Tikanga Taiao.
+[Repealed]
 
 ## Part 5 — Assessment of hazardous substances and new organisms
 
@@ -907,11 +909,11 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 
 ### 43 Additional matters to be considered when application made for developing new organisms in containment
 The Authority, when making a decision under section 45, must have regard to,—
-  (a) in the case of an application made under section 40(1)(b) to genetically modify an organism, the matters specified in regulations made under section 41; and
-  (b) in the case of all applications made under section 40(1)(b), the matters specified in section 37.
+  (a) in the case of an application made under section 40 to genetically modify an organism in containment, the matters specified in regulations made under section 41; and
+  (b) in the case of all applications made under section 40 to develop a new organism in containment, the matters specified in section 37.
 
 ### 44 Additional matters to be considered on applications for importing and field testing of organisms
-The Authority, when making a decision under section 45, on an application made under section 40(1)(a) or (c), shall have regard to—
+The Authority, when making a decision under section 45, on an application made under section 40 to import a new organism into, or field test a new organism in, containment, must have regard to—
   (a) the matters in section 37; and
   (b) the ability of the organism to escape from containment.
 
@@ -932,7 +934,7 @@ The Authority, when making a decision under section 45, on an application made u
 (1) After considering any application for approval made under section 40, the Authority (if the application is not approved under section 42, 42A, 42B, or 42C) may, in its discretion,—
   (a) approve the application if—
     (i) the application is for one of the purposes specified in section 39(1); and
-    (ii) after taking into account all the effects of the organism and any inseparable organism, including, but not limited to, the effects on the matters in section 43 (for applications made under section 40(1)(b)) or the matters in section 44 (for applications made under section 40(1)(a) or (c)), the beneficial effects of having the organism in containment outweigh the adverse effects of the organism and any inseparable organism; and
+    (ii) after taking into account all the effects of the organism and any inseparable organism, including, but not limited to, the effects on the matters in section 43 (for application to develop a new organism in containment) or the matters in section 44 (for applications to import a new organism into, or field test a new organism in, containment), the beneficial effects of having the organism in containment outweigh the adverse effects of the organism and any inseparable organism; and
     (iii) the Authority is satisfied that the organism can be adequately contained; or
   (b) decline the application in any other case.
 (2) An approval under this section—
@@ -1292,7 +1294,7 @@ A hearing of any application need not be held unless—
 (9) Where any person who has stated that he or she wished to be heard fails to appear at the hearing, the Authority may nevertheless proceed with the hearing if it considers it fair and reasonable to do so.
 
 ### 62 Grounds for reassessment of a substance or organism
-(1) —may at any time request the Authority to decide whether there are grounds for reassessing any new organism in containment, any conditionally released new organism, any qualifying organism released with controls, or any hazardous substance where that organism or substance has previously been assessed by the Authority or where Parts 11 to 16 apply to that substance or organism.
+(1) —may at any time request the Authority to decide whether there are grounds for reassessing any new organism in containment, any conditionally released new organism, any qualifying organism released with controls, or any hazardous substance where that organism or substance has previously been assessed by the Authority.
   (a) any person; or
   (b) the chief executive of the Authority—
 (2) Where any request has been made under subsection (1), the Authority may decide that grounds exist to reassess that substance or organism after taking into account that—
@@ -1303,7 +1305,7 @@ A hearing of any application need not be held unless—
 (4) For the purposes of subsection (1), assessed by the Authority means a decision under any of sections 28A, 29, 32, 38BA, 38C, 38I, 42, 42A, 42B, 42C, 45 or 48 or a decision by the Minister under section 73, or a deemed assessment under section 160A.
 
 ### 63 Reassessment
-(1) Any person or the chief executive of the Authority may request the Authority to proceed with a reassessment following a decision under section 62(3).
+(1) Any person or the chief executive of the Authority may request the Authority to proceed with a reassessment following a decision under section 62(2).
 (2) A reassessment under this section shall be deemed to be an application and shall be publicly notified in accordance with section 53 and—
   (a) section 29 and sections 54 to 61 shall apply with all necessary modifications to a reassessment of a hazardous substance approved under section 28A or section 29:
   (b) sections 30 and 32 shall apply with all necessary modifications to a reassessment of a hazardous substance approved under section 32:
@@ -1892,13 +1894,13 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
   (c) the New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (d) the Commissioner of Police (after consultation with the New Zealand Transport Agency) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (e) the Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in or on any aircraft:
-  (f) the Director of Maritime Transport shall ensure that the provisions of this Act are enforced in or on any ship:
+  (f) the Director of Maritime New Zealand shall ensure that the provisions of this Act are enforced in or on any ship:
   (g) the chief executive of the Ministry of Health shall ensure that the provisions of this Act are enforced where it is necessary to protect public health:
   (h) the chief executive of any territorial authority—
     (i) shall ensure that the provisions of this Act are enforced in or on any premises situated in the district of the territorial authority other than those premises specified in paragraphs (a) to (g):
     (ii) may enforce the provisions of this Act in or on those premises specified in paragraphs (a) to (g) where the territorial authority is in or on those premises for the purposes of enforcing the provisions of the Resource Management Act 1991:
-    (iii) shall ensure that the provisions of this Act are enforced in or on those premises specified in paragraphs (a) to (g), where the function, power, or duty is transferred to the territorial authority in accordance with section 98:
-    (iv) shall ensure that the provisions of this Act are enforced in or on those premises specified in paragraphs (a) to (g) in respect of any substances to which Part 14 applies.
+    (iii) shall ensure that the provisions of this Act are enforced in or on those premises specified in paragraphs (a) to (g), where the function, power, or duty is transferred to the territorial authority in accordance with section 98.
+    (iv)
 (2) The chief executive of a regional council may—
   (a) enforce the provisions of this Act in or on those premises specified in subsection (1)(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the Resource Management Act 1991:
   (b) enforce the provisions of this Act in or on those premises specified in subsection (1)(a) to (g) if the function, power, or duty is transferred to the regional council in accordance with section 98.
@@ -2533,7 +2535,7 @@ The Governor-General may, by Order in Council,—
   (b) revoke Schedule 1AA and substitute a new schedule setting out in an up-to-date form the text of the Stockholm Convention.
 
 ### 141 Procedure for making Orders in Council
-(1) Before making any recommendation for the purpose of making any Order in Council under this Act (other than any Order in Council or part of an Order in Council made under section 9(1), section 55(7), section 140(1)(i), (j), (m), or (n), or section 140A, or section 160(1)(b), (c), or (d)), the Minister shall—and the Minister shall have regard to those submissions and comments received in accordance with paragraph (a) and to the advice received in accordance with paragraph (b).
+(1) Before making any recommendation for the purpose of making any Order in Council under this Act (other than any Order in Council or part of an Order in Council made under section 9(1), section 55(7), section 140(1)(i), (j), (m), or (n), or section 140A), the Minister shall—and the Minister shall have regard to those submissions and comments received in accordance with paragraph (a) and to the advice received in accordance with paragraph (b).
   (a) request the Authority to—
     (i) do everything reasonably practicable on its part to advise all persons, who or which in its opinion may be affected by any Order in Council made in accordance with the recommendation, of the proposed terms of the Order in Council; and
     (ii) give such persons a reasonable opportunity to make submissions on them to the Authority; and
