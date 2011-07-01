@@ -1,5 +1,5 @@
 # Imprest Supply (First for 2010/11) Act 2010
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (First for 2010/11) Act 2010.
