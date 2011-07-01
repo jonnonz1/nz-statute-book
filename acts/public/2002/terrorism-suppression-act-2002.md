@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -43,7 +43,7 @@ The purpose of this Act is—
   - **designated terrorist entity** means an entity—
     (a) for the time being designated under section 20 or 22 as a terrorist entity or associated entity; or
     (b) that is a United Nations listed terrorist entity
-  - **duly authorised military device** means an explosive article, including, but not restricted to, a shell, bomb, projectile, mine, missile, rocket, shaped charge, grenade, and perforator, manufactured exclusively for lawful military or Police purposes and approved for those purposes by the Environmental Risk Management Authority
+  - **duly authorised military device** means an explosive article, including, but not restricted to, a shell, bomb, projectile, mine, missile, rocket, shaped charge, grenade, and perforator, manufactured exclusively for lawful military or Police purposes and approved for those purposes by the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **entity** means a person, group, trust, partnership, or fund, or an unincorporated association or organisation
   - **explosive or other lethal device** means—
     (a) an explosive or incendiary weapon or device that is designed, or has the capability, to cause death, serious bodily injury, or substantial material damage; or
@@ -263,7 +263,7 @@ This Act binds the Crown.
   (a) a person who performs military or Police functions during the period that begins with the entry into force of this section and ends 15 years later; or
   (b) any other person during the period that begins with the entry into force of this section and ends 3 years later.
 (3) Nothing in this section applies to unmarked plastic explosives—
-  (a) that are manufactured or held in limited quantities for sole use in any of the following activities that are duly approved by the Environmental Risk Management Authority:
+  (a) that are manufactured or held in limited quantities for sole use in any of the following activities that are duly approved by the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011:
     (i) research, development, or testing of new or modified explosives; or
     (ii) training in explosives detection or testing of explosives detection equipment; or
     (iii) forensic science activities; or
@@ -589,7 +589,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 
 ### 45 Privileged communication defined
 (1) For the purposes of section 43(3), a communication is a privileged communication only if—
-  (a) it is a confidential communication, whether oral or written, passing between— whether made directly or indirectly through an agent of either; and
+  (a) it is a confidential communication, whether oral or written, passing between—whether made directly or indirectly through an agent of either; and
     (i) a lawyer in his or her professional capacity and another lawyer in that capacity; or
     (ii) a lawyer in his or her professional capacity and his or her client,—
   (b) it is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
