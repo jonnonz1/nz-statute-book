@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2011-07-01_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -27,8 +27,8 @@ In this Act, unless the context otherwise requires,—
   - **defence area** has the same meaning as in section 2(1) of the Defence Act 1990
   - **District Licensing Agency** , in relation to any district, means the local authority for that district constituted as the District Licensing Agency by section 99
   - **generally accepted accounting practice** means—
-    (a) approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to licensing trusts or community trusts (as the case may require); and
-    (b) in relation to matters for which no provision is made in approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
+    (a) financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to licensing trusts or community trusts (as the case may require); and
+    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate to the licensing trust or community trust; and
       (ii) have authoritative support within the accounting profession in New Zealand
   - **guardian** , in relation to a person, means the person's guardian within the meaning of the Care of Children Act 2004
