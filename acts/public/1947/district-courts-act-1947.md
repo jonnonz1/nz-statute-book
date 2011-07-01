@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
