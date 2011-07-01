@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-07-01_
 
 > Title
 
@@ -14,20 +14,11 @@ _Consolidation as at 2011-05-01_
     (a) includes obtain by buying or subscribing; and
     (b) includes agree to acquire; but
     (c) in Part 3, has the meaning set out in section 37(1)
-  - **advertisement** means an advice advertisement, a broker advertisement, or a product advertisement
-  - **advice advertisement** means a form of communication that—
-    (a) contains or refers to investment advice or is reasonably likely to induce persons to seek investment advice; and
-    (b) is authorised or instigated by, or on behalf of, an investment adviser or prepared with the co-operation of, or by arrangement with, an investment adviser; and
-    (c) is to be, or has been, distributed to a person
-  - **associated persons or persons associated with each other** has the meaning set out in subsection (2)
+  - **associated persons** or has the meaning set out in subsection (2)
   - **authorised advertisement** has the same meaning as in section 2(1) of the Securities Act 1978
   - **authorised futures contract** has, in Part 3, the meaning set out in section 37(1)
   - **authorised futures exchange** has the meaning set out in section 37(1)
   - **authorised futures market** has the meaning set out in section 37(1)
-  - **broker advertisement** means a form of communication that—
-    (a) refers to an investment broker or is reasonably likely to induce persons to seek an investment broker service; and
-    (b) is authorised or instigated by, or on behalf of, an investment broker or prepared with the co-operation of, or by arrangement with, an investment broker; and
-    (c) is to be, or has been, distributed to a person
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
   - **business rules** means the rules of a registered exchange for a registered market that relate to the matters set out in section 36H(1)(b), in the case of a securities market, or section 36H(2), in the case of a futures market
   - **change** , in relation to the market rules for a registered market, has the meaning set out in section 36J(2)
@@ -53,7 +44,7 @@ _Consolidation as at 2011-05-01_
     (f) conspiring with any other person to contravene the provision
   - **control** , in subpart 1B of Part 2B, has the meaning set out in section 36S
   - **co-operative company** means a company that is registered as a co-operative company under the Co-operative Companies Act 1996
-  - **Court** means, in relation to any matter, the Court before which the matter is to be determined
+  - **court** means, in relation to any matter, the court before which the matter is to be determined
   - **deal** , in Part 3, in relation to a futures contract, has the meaning set out in section 37(5) and (6)
   - **dealings in securities** , in subpart 2 of Part 1,—
     (a) means, in relation to securities listed on a registered market, any of the following steps:
@@ -98,41 +89,6 @@ _Consolidation as at 2011-05-01_
   - **information insider** has the meaning set out in section 8A
   - **inside information** has the meaning set out in section 8B
   - **insider conduct prohibition** means any of sections 8C to 8E
-  - **investment advice** and —
-    (a) mean a recommendation, opinion, or guidance given to a member of the public in relation to acquiring or disposing of (or not acquiring or disposing of) securities; and
-    (b) include any such recommendation, opinion, or guidance that is communicated by letter, newspaper, periodical, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication; but—
-    (c) do not include—
-      (i) any such recommendation, opinion, or guidance given by a person whose principal occupation is that of a journalist and that is given in that person's capacity as a journalist; or
-      (ii) any such guidance about the procedure for taking any of the steps referred to in paragraph (a); or
-      (iii) any of the following:
-        (A) a prospectus; or
-        (B) an investment statement; or
-        (C) an authorised advertisement; or
-        (D) a bank disclosure statement; or
-        (E) a document or documents issued in lieu of a prospectus or investment statement in accordance with an exemption under the Securities Act 1978
-  - **investment adviser** and —
-    (a) mean a person (whether or not the person is also an investment broker) who, in the course of the person's business or employment, gives investment advice; and
-    (b) if a person is giving investment advice in the course of his or her employment, include both that person and his or her employer; but
-    (c) do not include an issuer or a promoter or a trustee (within the meaning of the Securities Act 1978 or the Unit Trusts Act 1960) or a statutory supervisor (within the meaning of the Securities Act 1978), of the particular securities to which the advice relates; but do include an employee or agent of, or person otherwise associated with, that issuer, promoter, trustee, or statutory supervisor if the employee, agent, or person associated falls within paragraph (a); and
-    (d) do not include a person who only transmits investment advice relating to particular securities given by the issuer or a promoter or a trustee (within the meaning of the Securities Act 1978 or the Unit Trusts Act 1960) or a statutory supervisor (within the meaning of the Securities Act 1978) of those securities; and
-    (e) do not include—
-      (i) the offeror or target company in a takeover offer made under the takeovers code:
-      (ii) an independent adviser in the exercise of that person's functions under the takeovers code
-  - **investment advisers' disclosure obligations** means any of sections 41A to 41F and sections 41J to 41N and any regulations with which those sections require compliance, and means those sections and regulations and sections 41O and 41S
-  - **investment broker and broker** —
-    (a) mean a person (whether or not the person is also an investment adviser) who, in the course of the person's business or employment, receives investment money or investment property; and
-    (b) if a person is receiving such investment money or investment property in the course of his or her employment, include both that person and his or her employer; but
-    (c) do not include, in relation to a security to which the investment money or investment property relates,—
-      (i) an issuer or a trustee (within the meaning of the Securities Act 1978 or the Unit Trusts Act 1960); or
-      (ii) a nominated person of a trustee (within the meaning of the Unit Trusts Act 1960); or
-      (iii) a nominee of a nominated person of a trustee (within the meaning of the Unit Trusts Act 1960); or
-      (iv) a statutory supervisor (within the meaning of the Securities Act 1978); or
-      (v) a security registrar appointed by the issuer; and
-    (d) do not include a person who only transmits investment money or investment property to a person to whom paragraph (c) applies without being able to apply the money or property for any other purpose
-  - **investment brokers' disclosure obligations** means any of sections 41G to 41N and any regulations with which those sections require compliance, and means those sections and regulations and sections 41O and 41S
-  - **investment brokers service** means the receipt of investment money or investment property by an investment broker
-  - **investment money and money** , in relation to an investment broker, mean any money received from, or on account of, a member of the public in relation to acquiring or disposing of securities
-  - **investment property** and , in relation to an investment broker, mean security certificates or other valuable property received from, or on account of, a member of the public in relation to acquiring or disposing of securities
   - **issuer** has the meaning set out in section 2(1) of the Securities Act 1978
   - **listed** , in relation to securities of a public issuer, means securities of the issuer that are approved for trading on a registered market (and, for the avoidance of doubt, securities do not cease to be listed merely because trading in those securities is suspended)
   - **listing rules** means the rules of a registered exchange for a registered market that relate to the matters set out in section 36H(1)(a)
@@ -154,7 +110,7 @@ _Consolidation as at 2011-05-01_
   - **product advertisement** —
     (a) means a form of communication that—
       (i) contains or refers to an offer of securities (including derivatives) to the public for subscription, or is reasonably likely to induce persons to subscribe for those securities, being securities to which the communication relates and that have been, or are to be, offered to the public for subscription; and
-      (ii) is authorised or instigated by, or on behalf of, an investment adviser or prepared with the cooperation of, or by arrangement with, an investment adviser; and
+      (ii) is authorised or instigated by, or on behalf of, an investment adviser or prepared with the co-operation of, or by arrangement with, an investment adviser; and
       (iii) is to be, or has been, distributed to a person; but
     (b) does not include a prospectus or an advertisement as defined in sections 2(1) and 2A of the Securities Act 1978 respectively
   - **public issuer** means—
@@ -185,10 +141,7 @@ _Consolidation as at 2011-05-01_
       (ii) the power to exercise, or control the exercise of, any right to vote attached to the security:
       (iii) the power to acquire or dispose of, or control the acquisition or disposition of, the security:
       (iv) any power which may exist or arise at any time under any trust, agreement, arrangement, or understanding relating to the security to do anything described in subparagraphs (i) to (iii); and
-    (e) in Part 4, means a security (as defined in paragraph (a)); but excludes—
-      (i) a security exempted from Part 2 of the Securities Act 1978 under any of paragraphs (b) to (h) of section 5(1) of that Act; and
-      (ii) a call debt security as defined in regulations made under that Act; and
-      (iii) a bank term deposit as defined in regulations made under this Act; and
+    (e)
     (f) in Part 5 has, when applied in relation to a contravention of a provision, the same meaning as security has in that provision
   - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993
   - **substantial holding** has the meaning set out in section 21
@@ -201,10 +154,10 @@ _Consolidation as at 2011-05-01_
     (b) does not include acquire, or dispose of, by inheritance or gift
   - **trading day** means a day during which securities are traded on a registered market
   - **transacting shareholder** has the same meaning as in section 4 of the Co-operative Companies Act 1996
-  - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act to administer the estates of deceased persons and other trust estates
-  - **voting right** , in subpart 1 of Part 2B, has the meaning set out in section 36S
+  - **trustee corporation** means Public Trust or the Māori Trustee or any corporation authorised by any Act to administer the estates of deceased persons and other trust estates
   - **unsolicited offer** has the meaning set out in section 48DA(1)
   - **unsolicited offer obligation** means any provision of any regulations made under section 48DB that is stated by those regulations to be an unsolicited offer obligation
+  - **voting right** , in subpart 1 of Part 2B, has the meaning set out in section 36S
   - **voting security** , in relation to a public issuer or other body,—
     (a) means a security of the public issuer or body that confers a right to vote at meetings of members or shareholders (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security); and
     (b) includes a security that is convertible into a security of that kind; but
@@ -251,7 +204,7 @@ For the purposes of this Act, unless the context otherwise requires, material in
   (b) is a beneficial owner of the security; or
   (c) has the power to exercise, or to control the exercise of, a right to vote attached to the security; or
   (d) has the power to acquire or dispose of, or to control the acquisition or disposition of, the security.
-(2) It does not matter whether the power or control is express or implied, direct or indirect, legally enforceable or not, related to a particular security or not, exercisable presently or in the future, or exercisable alone or jointly with another person or persons (but a power to cast merely 1 of many votes is not, in itself, a joint power of this kind).
+(2) It does not matter whether the power or control is express or implied, direct or indirect, legally enforceable or not, related to a particular security or not, exercisable presently or in the future, or exercisable alone or jointly with another person or persons (but a power to cast merely one of many votes is not, in itself, a joint power of this kind).
 (3) It also does not matter whether or not the power or control is or can be made subject to restraint or restriction or is exercisable only on the fulfilment of a condition.
 (4) If 2 or more persons can jointly exercise a power, each of them is taken to have that power.
 
@@ -495,7 +448,7 @@ Section 13 does not apply to conduct in relation to the acquisition or redemptio
 Section 13 does not apply to conduct in relation to an offer of securities to the public for subscription under the Securities Act 1978 or to conduct in relation to the issue or allotment of those securities to the extent that the conduct is regulated by that Act.
 
 ### 17 Exception for disclosure by investment advisers or brokers
-Section 13 does not apply to conduct in relation to a disclosure under Part 4 or to conduct in relation to an advice advertisement, a broker advertisement, or a product advertisement to the extent that that conduct is regulated by Part 4.
+[Repealed]
 
 **Territorial scope**
 
@@ -513,7 +466,7 @@ Section 13 applies to—
 ### 18C Procedural requirements for leave to exercise public issuer's right of action
 [Repealed]
 
-### 18D Powers of Court for proceedings exercising public issuer's right of action
+### 18D Powers of court for proceedings exercising public issuer's right of action
 [Repealed]
 
 ### 18E Proceedings must not be settled, compromised, or discontinued without approval
@@ -599,10 +552,10 @@ For the purposes of this Act, continuous disclosure provisions means provisions 
 ### 19N Court may order payment of costs
 [Repealed]
 
-### 19O General provisions as to Court's orders
+### 19O General provisions as to court's orders
 [Repealed]
 
-### 19P Persons entitled to appear before Court
+### 19P Persons entitled to appear before court
 [Repealed]
 
 ### 19PA No contravention of continuous disclosure provisions by person who takes reasonable steps to ensure public issuer complies
@@ -1089,7 +1042,7 @@ To avoid doubt, market rules are not regulations for the purposes of the Regulat
 (3) The Minister must not make a recommendation for the purposes of subsection (1) unless he or she has consulted the body corporate and is satisfied that it is in the public interest to do so.
 (4) For the purposes of this section and the rest of the subpart—
   - **control** , in relation to a voting right, means having, directly or indirectly, effective control of the voting right
-  - **voting right** means a currently exercisable right to cast a vote at meetings of members or shareholders of a body corporate, not being a right to vote that is exercisable only in 1 or more of the following circumstances
+  - **voting right** means a currently exercisable right to cast a vote at meetings of members or shareholders of a body corporate, not being a right to vote that is exercisable only in 1 or more of the following circumstances:
     (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
     (b) on a proposal that affects rights attached to the security that confers the voting right:
     (c) during the liquidation of the body corporate:
@@ -1119,7 +1072,7 @@ To avoid doubt, market rules are not regulations for the purposes of the Regulat
 (1) A person may apply to the chief executive for approval for any person or class of persons to exceed a control limit for a body corporate that applies under regulations made under section 36S.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve an application under subsection (1) and specify the terms and conditions (if any) applying to the approval.
 (3) The Minister may not make a recommendation for the purposes of subsection (2) unless,—
-  (a) if the body corporate is not the applicant or 1 of the applicants for the approval, he or she has consulted the body corporate on the application at least 30 days before making the recommendation; and
+  (a) if the body corporate is not the applicant or one of the applicants for the approval, he or she has consulted the body corporate on the application at least 30 days before making the recommendation; and
   (b) he or she is satisfied that it is in the public interest to make the recommendation.
 (4) An approval granted under subsection (2)—
   (a) may have retrospective effect; but
@@ -1137,23 +1090,6 @@ To avoid doubt, market rules are not regulations for the purposes of the Regulat
 **Overseas exchanges**
 
 ### 36X Overseas exchanges
-[Repealed]
-
-### 36Y Revocation or amendment of authorisation
-[Repealed]
-
-### 36Z Offence for breach of terms or conditions of authorisation
-[Repealed]
-
-**Enforcement of prohibition of certain statements relating to exchanges**
-
-### 36ZA Commission may make orders prohibiting statements relating to exchanges or requiring corrective statements
-[Repealed]
-
-### 36ZB Notice, submissions, and opportunity to be heard and represented on Commission's orders
-[Repealed]
-
-### 36ZC Offence for contravening prohibition order
 [Repealed]
 
 ### Subpart 2 — Obligations and oversight in respect of registered markets
@@ -1230,6 +1166,20 @@ A registered exchange must,—
   (b) the timetable for taking those actions.
 (3) The registered exchange must comply with the direction.
 
+### 36Z Offence for breach of terms or conditions of authorisation
+[Repealed]
+
+**Enforcement of prohibition of certain statements relating to exchanges**
+
+### 36ZA Commission may make orders prohibiting statements relating to exchanges or requiring corrective statements
+[Repealed]
+
+### 36ZB Notice, submissions, and opportunity to be heard and represented on Commission's orders
+[Repealed]
+
+### 36ZC Offence for contravening prohibition order
+[Repealed]
+
 **Notification of disciplinary actions and suspected contraventions**
 
 ### 36ZD Registered exchange must notify FMA of disciplinary actions and suspected contraventions
@@ -1241,7 +1191,7 @@ A registered exchange must,—
 (2) The FMA must notify the registered exchange of its decision to take, or not to take, any action in relation to a notification under subsection (1)(b)(ii).
 
 ### 36ZE When notification required
-The registered exchange must give the notice under section section 36ZD immediately after taking the disciplinary action or knowing or suspecting the person has committed, is committing, or is likely to commit the significant contravention.
+The registered exchange must give the notice under section 36ZD immediately after taking the disciplinary action or knowing or suspecting the person has committed, is committing, or is likely to commit the significant contravention.
 
 ### 36ZF Details and method of notification
 (1) The notice under section 36ZD must include—
@@ -1292,7 +1242,7 @@ The registered exchange must give the information under section 36ZG to the FMA 
 (1) This section and section 36ZN apply to a determination by a registered exchange if—
   (a) the determination exempts from, waives, or determines the meaning of a continuous disclosure provision of its listing rules for any of its registered markets (or varies or revokes a determination of that kind); and
   (b) that continuous disclosure provision relates to material information that is not generally available to the market; and
-  (c) No regulations under section 48E declare that section 19C applies to that exchange.
+  (c) no regulations under section 48E declare that section 19C applies to that exchange.
 (2) The registered exchange must—
   (a) give the FMA no less than 2 trading days' written notice before making the determination of—
     (i) the proposed terms of the determination; and
@@ -1324,7 +1274,7 @@ If the registered exchange thinks it necessary or desirable in the public intere
 (1) A direction on the grounds in this section is a continuous disclosure direction.
 (2) A direction may be given under section 36ZO in accordance with sections 36ZR to 36ZT if the FMA—
   (a) has regard to the purpose of subpart 1 of Part 2, the criteria stated in section 19A, and any other matters it considers relevant; and
-  (b) is satisfied that 1 of the following grounds applies:
+  (b) is satisfied that one of the following grounds applies:
     (i) a public issuer has contravened a continuous disclosure obligation or a term or condition of a continuous disclosure exemption; or
     (ii) a determination by a registered exchange to which section 36ZM applies does not achieve the purpose of subpart 1 of Part 2; or
     (iii) the registered exchange's administration of the continuous disclosure provisions of its listing rules does not achieve the purpose of subpart 1 of Part 2 (and section 19C does not apply to the exchange); or
@@ -1361,7 +1311,7 @@ If the FMA thinks it necessary or desirable in the public interest for a continu
 ### 36ZT Notice and opportunity to be heard and represented after FMA gives direction
 If a direction is given under section 36ZO, the FMA—
   (a) must, as soon as reasonably practicable, give written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
-    (i) its opinion that the requirements of section 36ZP or section36ZQ are satisfied; and
+    (i) its opinion that the requirements of section 36ZP or section 36ZQ are satisfied; and
     (ii) the terms of the direction; and
     (iii) the reasons for its opinion; and
   (b) must, after the direction is given, give each of those persons or the person's representative an opportunity to make written submissions and to be heard on the matter; and
@@ -1369,7 +1319,7 @@ If a direction is given under section 36ZO, the FMA—
 
 ### 36ZU Effect of directions to exchanges
 (1) A direction under section 36ZO has effect for the period specified in it (which may be up to 21 days) and, during that period, the registered exchange must comply with the direction and must not allow any trading to take place contrary to it.
-(2) If the registered exchange fails to comply with the direction or the FMA considers that the direction should have effect for a period longer than 21 days, it may apply to the Court for, and the Court may make, an order that the registered exchange comply with the direction for the period that the Court thinks fit.
+(2) If the registered exchange fails to comply with the direction or the FMA considers that the direction should have effect for a period longer than 21 days, it may apply to the court for, and the court may make, an order that the registered exchange comply with the direction for the period that the court thinks fit.
 
 ### 36ZV Provisions as to directions
 (1) The FMA may vary a direction under section 36ZO in the same way as it may make that direction.
@@ -1460,7 +1410,7 @@ Every person who acts in contravention of a term or condition of an authorisatio
   (b) an interest rate swap agreement to which a registered bank is a party:
   (c) a forward exchange rate contract to which a registered bank is a party:
   (d) a forward interest rate contract to which a registered bank is a party.
-(3) An agreement or option of the kind described in paragraphs (a), (b), (c), (d), (e) or (f) of the definition of the term futures contract in subsection (1) is a futures contract whether or not it—
+(3) An agreement or option of the kind described in paragraphs (a), (b), (c), (d), (e), or (f) of the definition of the term futures contract in subsection (1) is a futures contract whether or not it—
   (a) has any other effect; or
   (b) contains any other provisions; or
   (c) is capable of being varied or discharged before the time fixed for performance.
@@ -1543,7 +1493,7 @@ Every person who acts in contravention of a term or condition of an authorisatio
   (a) is, or is a member of a class of persons that is, authorised by the FMA by notice in the Gazette to carry on the business of dealing in futures contracts; or
   (b) has been approved by an authorised futures exchange under its rules to carry on the business of dealing in futures contracts in accordance with the rules of that exchange.
 (1A) However, a person who receives approval under subsection (1)(b) may carry on the business of dealing in futures contracts only if that dealing is subject to the regulation and oversight of the authorised futures exchange that approved the person.
-(2) For the purposes of subsection (1)(a) of this section, any authorisation may be for—
+(2) For the purposes of subsection (1)(a), any authorisation may be for—
   (a) specified futures contracts:
   (b) a specified class or specified classes of futures contracts:
   (c) futures contracts generally:
@@ -1554,7 +1504,7 @@ Every person who acts in contravention of a term or condition of an authorisatio
 (4) For the purposes of subsection (1)(b), rules, in relation to an authorised futures exchange that is a registered exchange (or subsidiary of a registered exchange), means market rules.
 
 ### 39 Contravention of section 38 an offence
-Every person who contravenes section 38 commits an offence (see section 43C for the maximum penalties of 3 years imprisonment and a $100,000 fine for an individual and a $300,000 fine for a body corporate).
+Every person who contravenes section 38 commits an offence (see section 43C for the maximum penalties of 3 years' imprisonment and a $100,000 fine for an individual and a $300,000 fine for a body corporate).
 
 ### 40 Effect of certain laws on authorised futures contracts and other contracts
 (1) Nothing in the Gambling Act 2003 applies to, or in respect of,—
@@ -1568,185 +1518,90 @@ Every person who contravenes section 38 commits an offence (see section 43C for 
 **Application of this Part**
 
 ### 41 When investment advice given to public, etc
-For the purpose of this Part, in determining whether investment advice is given to the public or investment money or investment property is received from the public, section 3 of the Securities Act 1978 (which relates to the construction of references to offering securities to the public), except section 3(2)(a)(iia), applies as if every reference in that section to an offer of securities were a reference to the giving of investment advice or receiving of investment money or investment property, as the case may be.
+[Repealed]
 
 **Disclosure by investment advisers**
 
 ### 41A Investment advisers' disclosure obligation
-(1) An investment adviser must not give investment advice to a member of the public unless the adviser has first made disclosure to that person in accordance with—
-  (a) sections 41B to 41F; and
-  (b) any requirements specified by regulations made under section 49C.
-(2) However, the requirement in subsection (1) that disclosure must be made before investment advice is given does not apply to the extent that—
-  (a) disclosure subsequent to investment advice is permitted by regulations made under section 49C; and
-  (b) the disclosure is made in accordance with those regulations.
+[Repealed]
 
 ### 41B Investment adviser must disclose experience, qualifications, professional standing, etc
-An investment adviser must disclose—
-  (a) the following information in relation to any qualifications of the adviser that are relevant to the giving of investment advice:
-    (i) the nature of the qualifications; and
-    (ii) when those qualifications were obtained; and
-    (iii) a brief description of the extent to which the adviser has kept up to date the knowledge gained in obtaining those qualifications; and
-  (b) a brief description of the adviser's experience as an investment adviser; and
-  (c) whether the adviser is a member of a professional body that is relevant to the provision of investment advice; and
-  (d) whether the adviser has professional indemnity insurance, and the nature and scope of that insurance; and
-  (e) whether dispute resolution facilities are available to the adviser's clients.
+[Repealed]
 
 ### 41C Investment adviser must disclose certain criminal convictions, etc
-(1) An investment adviser must disclose whether, during the period of 5 years before the investment advice is given, the investment adviser—
-  (a) has been convicted of an offence under this Act or the Securities Act 1978, or of a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961); or
-  (b) was a principal officer of a body corporate, if a body corporate committed an offence referred to in paragraph (a), when the body corporate committed the offence; or
-  (c) has been adjudicated bankrupt; or
-  (d) has been prohibited by an Act or by a court from taking part in the management of a company or a business; or
-  (e) has been the subject of an adverse finding by a court in any proceeding that has been taken against the investment adviser in the adviser's professional capacity; or
-  (f) has been expelled from, or has been prohibited from being a member of, a professional body.
-(2) In the case of an investment adviser that is a body corporate or unincorporated, the investment adviser must also—
-  (a) make disclosure under subsection (1) for each principal officer of the investment adviser; and
-  (b) disclose whether, during the period of 5 years before the investment advice is given, the investment adviser has been placed in statutory management or receivership.
+[Repealed]
 
 ### 41D Investment adviser must disclose fees
-An investment adviser must disclose the nature and level of the fee that the adviser will charge the person to whom the adviser gives investment advice.
+[Repealed]
 
 ### 41E Investment adviser must disclose other interests and relationships
-(1) An investment adviser must disclose whether or not the adviser or an associated person has, or will or may have, any interest or relationship that a reasonable person would find reasonably likely to influence the adviser in giving the investment advice.
-(2) This includes an obligation to disclose—
-  (a) any relevant remuneration as defined in subsection (4); and
-  (b) whether the adviser is an associated person of, or has any other financial or other relationship with, any person connected with the investment; and
-  (c) a relationship with any other person (other than a professional body) who may reasonably be expected to influence the provision or content of the investment advice; and
-  (d) any other direct or indirect pecuniary or other interest in giving the investment advice.
-(3) An investment adviser must disclose the following information:
-  (a) the nature and extent of the interest or relationship; and
-  (b) in the case of remuneration, to the extent practicable, the amount or rate of the remuneration and the name of the person from whom the remuneration has been, or will or may be, received.
-(4) In this section,—
-  - **relevant remuneration** means any remuneration that the adviser or an associated person has received, or will or may receive, directly or indirectly, from a person other than the investor in connection with the giving of the investment advice or a transaction resulting from the giving of the advice
-  - **remuneration** means a commission, fee, or other benefit or advantage, whether pecuniary or not, and whether direct or indirect; but does not include a salary or wages of a fixed amount.
+[Repealed]
 
 ### 41F Investment adviser must disclose details of securities about which advice given
-An investment adviser must disclose—
-  (a) the types of securities about which the adviser gives advice; and
-  (b) if the adviser gives advice only about securities of a particular issuer or particular issuers, a statement to this effect and the name of each of the issuers concerned.
+[Repealed]
 
 **Disclosure by investment brokers**
 
 ### 41G Investment brokers' disclosure obligation
-An investment broker must not receive investment money or investment property from a member of the public unless the broker has first made disclosure to that person in accordance with—
-  (a) sections 41H and 41I; and
-  (b) any requirements specified by regulations made under section 49C.
+[Repealed]
 
 ### 41H Investment broker must disclose certain criminal convictions, etc
-(1) An investment broker must disclose whether, during the period of 5 years before the investment money or investment property is received, the investment broker—
-  (a) has been convicted of an offence under this Act or the Securities Act 1978, or of a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961); or
-  (b) was a principal officer of a body corporate, if a body corporate committed an offence referred to in paragraph (a), when the body corporate committed the offence; or
-  (c) has been adjudicated bankrupt; or
-  (d) has been prohibited by an Act or by a court from taking part in the management of a company or a business; or
-  (e) has been the subject of an adverse finding by a court in any proceeding taken against the broker in the broker's professional capacity; or
-  (f) has been expelled from, or has been prohibited from being a member of, a professional body.
-(2) In the case of an investment broker that is a body corporate or unincorporated, the investment adviser must also—
-  (a) make disclosure under subsection (1) for each principal officer of the investment broker; and
-  (b) disclose whether, during the period of 5 years before the investment money or investment property is received, the investment broker has been placed in statutory management or receivership.
+[Repealed]
 
 ### 41I Investment broker must disclose procedures for dealing with investment money or investment property
-(1) An investment broker must disclose a brief description of the procedures of the broker (or, if the broker is acting in the course of his or her employment, of the employer) relating to the receipt and disbursement of the money or receipt and distribution of the property by the broker, including—
-  (a) how payment or delivery of money or delivery of property should be made to the broker; and
-  (b) whether or not the money or property received by the broker will be held on trust for the investor, and will be so held until it is disbursed or distributed in accordance with the investor's instructions; and
-  (c) what records will be kept by the broker in relation to the money or property, whether the investor has access to those records, and the terms of that access; and
-  (d) whether or not the receipt, holding, and disbursement of the money and the receipt, holding, and distribution of the property, by the broker will be audited by an auditor and, if so, the name of the auditor; and
-  (e) the extent, if any, to which the broker can use the money or property for the benefit of the broker or any other person; and
-  (f) any other information that must be disclosed under regulations made under this Act.
-(2) For the purposes of subsection (1)(d), auditor means a person who would, if the broker were an issuer of securities, be a qualified auditor within the meaning of section 2C of the Securities Act 1978.
+[Repealed]
 
 **Method of disclosure**
 
 ### 41J How disclosure must be made
-(1) Disclosure under this Part must be made in a disclosure statement.
-(2) The disclosure statement must—
-  (a) be in writing; and
-  (b) state when it was prepared; and
-  (c) in the case of an investment adviser or an investment broker, other than an employee of an investment adviser or investment broker, state the name, address, and business telephone number of the investment adviser or the investment broker concerned; and
-  (d) in the case of an investment adviser or an investment broker who is an employee of an investment adviser or an investment broker, state the name of that employee; and
-  (e) be either received by the investor, or delivered or sent to the investor, at the investor's last known address or an address (including an electronic address) specified by the investor for this purpose; and
-  (f) comply with any regulations prescribing the form or the contents of the statement.
+[Repealed]
 
 **Other requirements relating to disclosure**
 
 ### 41K Disclosure must not be misleading
-Disclosure under this Part must not be deceptive, misleading, or confusing at the time that it is made.
+[Repealed]
 
 ### 41L Disclosure of additional information
-(1) A disclosure statement may be accompanied by disclosure of additional information.
-(2) Additional information that accompanies a disclosure statement must not be deceptive, misleading, or confusing.
+[Repealed]
 
 ### 41M No compliance with disclosure obligations if disclosure statement out of date
-(1) An investment adviser or an investment broker who has previously given a member of the public a disclosure statement does not comply with their respective disclosure obligations under this Part if the disclosure statement is out of date when—
-  (a) the investment adviser gives that person investment advice; or
-  (b) the investment broker receives investment money or investment property from that person.
-(2) The disclosure statement is out of date if—
-  (a) since the date of the disclosure statement there has been a material change in any matter that must be disclosed in the disclosure statement; and
-  (b) a reasonable person in the position of the person receiving advice or engaging the investment broker would consider that the change would materially affect any of the following decisions by that person:
-    (i) in the case of disclosure by an investment adviser, a decision—
-      (A) to proceed to be given investment advice by that adviser; or
-      (B) to proceed with investment advice already given by the adviser; or
-      (C) about the weight that the person gives to investment advice by that adviser:
-    (ii) in the case of an investment broker, a decision—
-      (A) to proceed with the receipt of investment money or investment property by that broker; or
-      (B) to postpone or countermand the investment of investment money or investment property already received by that broker but not yet invested.
-(3) Subsection (1) does not apply if, before the investment advice is given or the investment money or investment property is received, as the case may be, the investment adviser or the investment broker gives the person concerned—
-  (a) a new disclosure statement that is up to date; or
-  (b) additional written information that, when read with the original disclosure statement, updates the disclosure statement.
+[Repealed]
 
 ### 41N Advertisement must refer to disclosure statement
-Any advertisement by an investment adviser or an investment broker advertising that person's services as an investment adviser or investment broker must state that a disclosure statement is available, on request and free of charge.
+[Repealed]
 
 ### 41O Advertisement must not be deceptive, misleading, or confusing
-An advertisement must not be deceptive, misleading, or confusing.
+[Repealed]
 
 **Offences**
 
 ### 41P Offence for failure to comply with disclosure obligation
-Every person who is aware or ought reasonably to be aware of information that the person must disclose under an investment advisers' or investment brokers' disclosure obligation, and who fails to disclose that information in accordance with this Part, commits an offence (see section 43D for the maximum penalty of a $100,000 fine for an individual or a $300,000 fine for a body corporate).
+[Repealed]
 
 ### 41Q Offence of deceptive, misleading, or confusing disclosure
-(1) An investment adviser or an investment broker who makes disclosure that contravenes section 41K or 41L commits an offence (see section 43D for the maximum penalty of a $100,000 fine for an individual or a $300,000 fine for a body corporate).
-(2) However, the adviser or the broker does not commit an offence under subsection (1) if the adviser or the broker proves that, at the time when the disclosure was made, the adviser or the broker believed on reasonable grounds that the disclosure was not deceptive, misleading, or confusing.
-(3) The defence in subsection (2) does not prevent the FMA from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
+[Repealed]
 
 ### 41R Offence of deceptive, misleading, or confusing advertisement
-(1) An investment adviser or an investment broker commits an offence (see section 43D for the maximum penalty of a fine of $300,000 and $10,000 per day in the case of a continuing offence) if an advertisement—
-  (a) contravenes section 41O; and
-  (b) has been distributed to a person; and
-  (c) was—
-    (i) authorised or instigated by, or on behalf of, the adviser or the broker; or
-    (ii) prepared with the co-operation of, or by arrangement with, the adviser or the broker.
-(2) However, the adviser or the broker does not commit an offence under subsection (1) if the adviser or the broker proves that, at the time when the advertisement was distributed, the adviser or the broker believed on reasonable grounds that the advertisement was not deceptive, misleading, or confusing.
-(3) The defence in subsection (2) does not prevent the FMA from making a prohibition or corrective order under section 42 or a disclosure order under section 42B, or the Court from granting an injunction under section 42K, or making a corrective order under section 42N or a disclosure order under section 42P.
+[Repealed]
 
 ### 41S Recommending, or receiving money for, acquisition of securities prohibited if offer for subscription illegal
-(1) An investment adviser must not recommend to a member of the public that that person acquire securities, and an investment broker must not receive investment money from a member of the public in respect of the acquisition of securities, if—
-  (a) when the securities were or are offered for subscription, the offer was or is illegal; and
-  (b) the illegality has not been remedied; and
-  (c) the adviser or the broker knows or ought to know that, when the securities were or are offered for subscription, the offer was or is illegal.
-(2) A person who contravenes subsection (1) commits an offence (see section 43D for the maximum penalty of a fine of $300,000 and $10,000 per day in the case of a continuing offence).
+[Repealed]
 
 ### 41T Defence of immateriality
-It is a defence to a charge of contravening any of sections 41P to 41S if the contravention was in respect of matters that, in the opinion of the Court dealing with the charge, were immaterial.
+[Repealed]
 
 **Territorial scope of this Part**
 
 ### 41U Territorial scope
-(1) This Part applies to investment advice offered to, or an investment brokers service performed for, or an investment adviser's or investment broker's advertisement received by, a person in New Zealand, regardless of—
-  (a) where any resulting investment occurs:
-  (b) where any investment money or investment property is received:
-  (c) where the adviser or broker is resident, is incorporated, or carries on business.
-(2) For the purposes of this Part, advice is offered, or an advertisement is made, to a person in New Zealand if the advice or the advertisement is received by a person in New Zealand, unless the adviser or broker shows that it took all reasonable steps to ensure that members of the public in New Zealand do not receive the advice or the advertisement.
-(3) Sections 41O and 41S apply to investment advice offered to, or an investment brokers service performed for, or an advertisement made to, a person outside New Zealand by a person who is resident, is incorporated, or carries on business, in New Zealand.
+[Repealed]
 
 **Miscellaneous**
 
 ### 41V No contracting out
-The provisions of this Part have effect no matter what any agreement may say.
+[Repealed]
 
 ### 41W No liability under Fair Trading Act 1986 if not liable under this Part
-(1) A court hearing a proceeding brought against a person under the Fair Trading Act 1986 must not find that person liable for conduct that is regulated by this Part if that person would not be liable for that conduct under this Part.
-(2) Except as provided in subsection (1), nothing in this Part affects the liability of a person under any other law or enactment.
+[Repealed]
 
 ## Part 5 — Enforcement and remedies
 
@@ -1772,7 +1627,7 @@ The FMA may make a disclosure order in accordance with this subpart if it is sat
   (a) a continuous disclosure obligation or exemption:
   (b) a directors' and officers' disclosure obligation or exemption:
   (c) a substantial holding disclosure obligation or exemption:
-  (d) an investment advisers' or brokers' disclosure obligation or exemption.
+  (d)
 
 ### 42C Terms of disclosure orders
 A disclosure order may order the person—
@@ -1782,15 +1637,10 @@ A disclosure order may order the person—
 **Temporary investment adviser and broker banning orders**
 
 ### 42D When FMA may make temporary banning orders for investment adviser or broker activities
-The FMA may make a temporary banning order against a person in accordance with this subpart if the FMA is satisfied that—
-  (a) the person has persistently contravened section 13 (general dealing misconduct prohibition), Part 4 (investment advisers and brokers), or the Securities Act 1978; or
-  (b) the person has been prohibited in an overseas jurisdiction from carrying on activities that the FMA is satisfied are substantially similar to any of the activities referred to in section 42E.
+[Repealed]
 
 ### 42E Terms of temporary banning order for investment adviser and broker activities
-A temporary banning order may prohibit or restrict the person from doing all or any of the following things, without the leave of the FMA, for a period stated in the order of 14 days or less:
-  (a) giving investment advice to, or receiving investment money or investment property from, the public:
-  (b) acting as a director or promoter of, or in any way, whether directly or indirectly, being concerned or taking part in the management of, any incorporated or unincorporated body that is an investment adviser or an investment broker (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand):
-  (c) acting as an employee or agent of an investment adviser or an investment broker in a capacity that allows the person to take part in the giving of investment advice to, or receiving investment money or investment property from, the public.
+[Repealed]
 
 **Unsolicited offer orders**
 
@@ -1831,9 +1681,9 @@ The FMA may make an unsolicited offer order in accordance with this subpart if t
 (2) However, the FMA must include in the notice under that section the reasons for acting urgently and must otherwise comply with the steps set out in that section.
 (3) The orders are—
   (a) a prohibition or corrective order for a contravention of a market manipulation prohibition or exemption or the general dealing misconduct prohibition:
-  (b) a prohibition or corrective order for an investment advisers' or brokers' obligation or exemption if that order is stated to apply for a period of 14 days or less:
+  (b)
   (c) a disclosure order for a contravention of a continuous disclosure obligation or exemption:
-  (d) a temporary banning order.
+  (d) a temporary banning order:
   (e) an unsolicited offer order.
 
 ### 42H FMA must give notice after making orders
@@ -1857,36 +1707,36 @@ The FMA may make an unsolicited offer order in accordance with this subpart if t
 (1) A person who contravenes an order made by the FMA under this subpart commits an offence (see section 43E for the maximum penalty of a $30,000 fine).
 (2) No person may be convicted of an offence against subsection (1) if—
   (a) the person proves that the contravention occurred without the person's knowledge or without the person's knowledge of the order; or
-  (b) the contravention was in respect of matters that, in the Court's opinion, were immaterial; or
-  (c) the Court thinks that the contravention, in the circumstances of the case, ought reasonably to be excused.
+  (b) the contravention was in respect of matters that, in the court's opinion, were immaterial; or
+  (c) the court thinks that the contravention, in the circumstances of the case, ought reasonably to be excused.
 
 ### Subpart 2 — Court's enforcement powers
 
 **Injunctions**
 
-### 42K What Court may injunct
-The Court may, on application by the FMA or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
+### 42K What court may injunct
+The court may, on application by the FMA or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
 
-### 42L When Court may grant injunctions and interim injunctions
-(1) The Court may grant an injunction restraining a person from engaging in conduct of a particular kind if—
+### 42L When court may grant injunctions and interim injunctions
+(1) The court may grant an injunction restraining a person from engaging in conduct of a particular kind if—
   (a) it is satisfied that the person has engaged in conduct of that kind; or
-  (b) it appears to the Court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
-(2) The Court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
-(3) Subsections (1)(a) and (2) apply whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+  (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
+(2) The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
+(3) Subsections (1)(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
 (4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 
 ### 42M Undertaking as to damages not required by FMA
-(1) If the FMA applies to the Court for the grant of an interim injunction under this subpart, the Court must not, as a condition of granting an interim injunction, require the FMA to give an undertaking as to damages.
-(2) However, in determining the FMA's application for the grant of an interim injunction, the Court must not take into account that the FMA is not required to give an undertaking as to damages.
+(1) If the FMA applies to the court for the grant of an interim injunction under this subpart, the court must not, as a condition of granting an interim injunction, require the FMA to give an undertaking as to damages.
+(2) However, in determining the FMA's application for the grant of an interim injunction, the court must not take into account that the FMA is not required to give an undertaking as to damages.
 
 **Corrective orders**
 
-### 42N When Court may grant corrective orders
-The Court may, on application by the FMA or any other person, make a corrective order if it is satisfied that a person has contravened—
+### 42N When court may grant corrective orders
+The court may, on application by the FMA or any other person, make a corrective order if it is satisfied that a person has contravened—
   (a) a market manipulation prohibition or exemption or the general dealing misconduct prohibition:
-  (b) an investment advisers' or brokers' obligation or exemption:
+  (b)
   (c) section 36A(1) (no holding out as securities exchange unless registered) or an exemption from that section:
-  (d) section 37A(1) (no holding out as futures exchange unless authorised) or an exemption from that section.
+  (d) section 37A(1) (no holding out as futures exchange unless authorised) or an exemption from that section:
   (e) an unsolicited offer obligation or exemption.
 
 ### 42O Terms of corrective orders
@@ -1894,11 +1744,11 @@ A corrective order may direct the person in contravention to publish, at the per
 
 **Disclosure orders**
 
-### 42P When Court may make disclosure orders
-The Court may, on application by the FMA or any other person, make a disclosure order if it is satisfied that a person has contravened—
+### 42P When court may make disclosure orders
+The court may, on application by the FMA or any other person, make a disclosure order if it is satisfied that a person has contravened—
   (a) a continuous disclosure obligation or exemption:
   (b) a substantial holding disclosure obligation or exemption:
-  (c) an investment advisers' or brokers' disclosure obligation or exemption.
+  (c)
   (d) an unsolicited offer obligation or exemption.
 
 ### 42Q Terms of disclosure orders
@@ -1925,23 +1775,23 @@ In this subpart, a civil remedy provision is—
   (c) the general dealing misconduct prohibition:
   (d) a continuous disclosure obligation or exemption:
   (e) a substantial holding disclosure obligation or exemption:
-  (f) an investment advisers' or brokers' obligation or exemption.
+  (f)
   (g) an unsolicited offer obligation or exemption.
 
 **Pecuniary penalty orders and declarations of contravention**
 
-### 42T When Court may make pecuniary penalty orders and declarations of contravention
-(1) If the FMA applies for a pecuniary penalty order against a person under this Act, the Court—
+### 42T When court may make pecuniary penalty orders and declarations of contravention
+(1) If the FMA applies for a pecuniary penalty order against a person under this Act, the court—
   (a) must determine whether the person has contravened a civil remedy provision; and
   (b) must make a declaration of contravention (see sections 42U and 42V) if satisfied that the person has contravened a civil remedy provision; and
-  (c) may order the person to pay a pecuniary penalty that the Court considers appropriate to the Crown (see sections 42W to 42Y) if satisfied that the person has contravened a civil remedy provision and that the contravention—
+  (c) may order the person to pay a pecuniary penalty that the court considers appropriate to the Crown (see sections 42W to 42Y) if satisfied that the person has contravened a civil remedy provision and that the contravention—
     (i) materially prejudices the interests of acquirers or disposers of the securities or relevant interests involved; or
     (ii) materially prejudices the public issuer or, if the public issuer is a body corporate, its members; or
     (iii) is likely to materially damage the integrity or reputation of any of New Zealand's securities markets; or
     (iv) is otherwise serious.
-(2) However, the Court must not make a declaration of contravention or a pecuniary penalty order under this section for a contravention of—
+(2) However, the court must not make a declaration of contravention or a pecuniary penalty order under this section for a contravention of—
   (a) section 13 (general dealing misconduct prohibition); or
-  (b) an investment advisers' or broker's disclosure obligation or exemption.
+  (b)
 
 ### 42U Purpose and effect of declarations of contravention
 (1) The purpose of a declaration of contravention is to enable an applicant for a compensatory order or other civil remedy order under section 42ZE to rely on the declaration of contravention in the proceedings for that order, and not be required to prove the contravention.
@@ -1949,7 +1799,7 @@ In this subpart, a civil remedy provision is—
 
 ### 42V What declarations of contravention must state
 A declaration of contravention must state the following:
-  (a) the Court that made the declaration; and
+  (a) the court that made the declaration; and
   (b) the civil remedy provision to which the contravention relates or, if the contravention is of an exemption, both the term or condition contravened and the civil remedy provision to which the exemption relates; and
   (c) the person who engaged in the contravention; and
   (d) the conduct that constituted the contravention and, if a transaction constituted the contravention, the transaction; and
@@ -1962,7 +1812,7 @@ A declaration of contravention must state the following:
   (c) $1,000,000.
 (2) The maximum amount of a pecuniary penalty for a contravention of any other civil remedy provision is $1,000,000.
 
-### 42X Guidance for Court on how to determine gains made or losses avoided for purposes of maximum amount
+### 42X Guidance for court on how to determine gains made or losses avoided for purposes of maximum amount
 (1) For the purposes of section 42W(1)(b),—
   (a) a person makes a gain if the person acquires a security for less than its value:
   (b) a person avoids a loss if the person disposes of a security for more than its value.
@@ -1971,60 +1821,50 @@ A declaration of contravention must state the following:
   (b) in the case of a contravention of a market manipulation prohibition, the conduct, statement, or information had not been misleading, deceptive, or false.
 (3) In the case of a contravention of an unsolicited offer prohibition, subsection (2) does not apply.
 
-### 42Y Considerations for Court in determining pecuniary penalty
-In determining an appropriate pecuniary penalty, the Court must have regard to all relevant matters, including—
+### 42Y Considerations for court in determining pecuniary penalty
+In determining an appropriate pecuniary penalty, the court must have regard to all relevant matters, including—
   (a) any purpose and criteria stated in this Act that apply to the civil remedy provision; and
   (b) the nature and extent of the contravention; and
   (c) the likelihood, nature, and extent of any damage to the integrity or reputation of any of New Zealand's securities markets because of the contravention; and
   (d) the nature and extent of any loss or damage suffered by a person referred to in section 42T(1)(c)(i) or (ii), or gains made or losses avoided by the person in contravention, because of the contravention; and
   (e) the circumstances in which the contravention took place; and
-  (f) whether or not the person in contravention has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct; and
+  (f) whether or not the person in contravention has previously been found by the court in proceedings under this Act to have engaged in any similar conduct; and
   (g) the relationship of the parties to the transaction constituting the contravention.
 
 ### 42Z Court must order that recovery from pecuniary penalty be applied to FMA's actual costs
-If the Court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the FMA, the Court must also order that the penalty must be applied first to pay the FMA's actual costs in bringing the proceedings.
+If the court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the FMA, the court must also order that the penalty must be applied first to pay the FMA's actual costs in bringing the proceedings.
 
 **Compensatory orders**
 
-### 42ZA When Court may make compensatory orders
-(1) The Court may make a compensatory order, on application by the FMA or any other person, if the Court is satisfied that—
+### 42ZA When court may make compensatory orders
+(1) The court may make a compensatory order, on application by the FMA or any other person, if the court is satisfied that—
   (a) there is a contravention of a civil remedy provision; and
   (b) a person (the aggrieved person) has suffered, or is likely to suffer, loss or damage because of the contravention.
-(2) The Court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
-(3) However, the Court must not make a compensatory order under this section for a contravention of an investment advisers' and brokers' disclosure obligation or exemption.
+(2) The court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
+(3) However, the court must not make a compensatory order under this section for a contravention of an investment advisers' and brokers' disclosure obligation or exemption.
 
 ### 42ZB Terms of compensatory orders
-If section 42ZA applies, the Court may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage, or to prevent or reduce that loss or damage, including an order (without limitation) to—
+If section 42ZA applies, the court may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage, or to prevent or reduce that loss or damage, including an order (without limitation) to—
   (a) direct the person in contravention to pay to the aggrieved person the amount of the loss or damage:
   (b) direct the person in contravention to refund money or return property to the aggrieved person:
   (c) if a contract has been entered into between the person in contravention and the aggrieved person,—
-    (i) vary the contract or any collateral arrangement as specified in the order and, if the Court thinks fit, declare the contract or arrangement to have had effect as so varied on and after a date before the order was made, as specified in the order:
-    (ii) cancel the contract and, if the Court thinks fit, declare the cancellation to have had effect on and after a date before the order was made, as specified in the order:
-    (iii) require the person in contravention to take any action the Court thinks fit to reinstate the parties as near as may be possible to their former positions.
+    (i) vary the contract or any collateral arrangement as specified in the order and, if the court thinks fit, declare the contract or arrangement to have had effect as so varied on and after a date before the order was made, as specified in the order:
+    (ii) cancel the contract and, if the court thinks fit, declare the cancellation to have had effect on and after a date before the order was made, as specified in the order:
+    (iii) require the person in contravention to take any action the court thinks fit to reinstate the parties as near as may be possible to their former positions.
 
 **Civil remedy order for investment advisers' or brokers' disclosure obligations**
 
-### 42ZC When Court may make civil remedy order for investment advisers' or brokers' disclosure obligations
-(1) The Court may make a civil remedy order described in section 42ZD against an investment adviser or investment broker, on application by an entitled person, if the Court is satisfied that—
-  (a) the adviser or broker has contravened an investment advisers' or brokers' disclosure obligation or exemption; and
-  (b) if the adviser or broker had complied with that obligation or exemption, a reasonable person in the position of the entitled person would have—
-    (i) not used that adviser or proceeded with investment advice given by that adviser; or
-    (ii) not used that broker or paid or delivered investment money or investment property to that broker; or
-    (iii) acted in a way that was materially different from the way the entitled person acted in relation to the advice or services of the adviser or broker.
-(2) An entitled person is any person who has received investment advice from that investment adviser or whose investment money or investment property has been paid or delivered to that investment broker.
-(3) It does not matter whether or not the investment adviser or investment broker has previously contravened an investment advisers' or brokers' disclosure obligation or exemption, or whether or not the entitled person has suffered any loss as a result of the contravention.
+### 42ZC When court may make civil remedy order for investment advisers' or brokers' disclosure obligations
+[Repealed]
 
 ### 42ZD Terms of civil remedy order for investment advisers' or brokers' disclosure obligations
-(1) A civil remedy order under section 42ZC may order the investment adviser or investment broker to pay to the entitled person an amount determined by the Court.
-(2) The maximum amount of a civil remedy order under subsection (1) is,—
-  (a) in the case of an individual, $100,000; and
-  (b) in the case of a body corporate, $300,000.
+[Repealed]
 
 **Other civil remedy orders**
 
-### 42ZE When Court may make other civil remedy orders
-(1) The Court may, on application by the FMA or any other person, make a civil remedy order described in section 42ZF if the Court is satisfied on reasonable grounds that a person has contravened or intends to contravene a civil remedy provision.
-(2) However, the Court must not make a civil remedy order of that kind for a contravention of a continuous disclosure obligation or exemption or an investment advisers' or brokers' obligation or exemption.
+### 42ZE When court may make other civil remedy orders
+(1) The court may, on application by the FMA or any other person, make a civil remedy order described in section 42ZF if the court is satisfied on reasonable grounds that a person has contravened or intends to contravene a civil remedy provision.
+(2) However, the court must not make a civil remedy order of that kind for a contravention of a continuous disclosure obligation or exemption or an investment advisers' or brokers' obligation or exemption.
 
 ### 42ZF Terms of other civil remedy orders
 A civil remedy order under section 42ZE may—
@@ -2038,15 +1878,15 @@ A civil remedy order under section 42ZE may—
 **Interrelationship of civil remedies**
 
 ### 42ZG More than 1 civil remedy order may be made for same conduct
-The Court may make a civil remedy order of one kind against a person even though the Court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe Court may make a compensatory order and a pecuniary penalty order for the same conduct.The Court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
+The court may make a civil remedy order of one kind against a person even though the court has made another civil remedy order of a different kind against the person for the same conduct.ExamplesThe court may make a compensatory order and a pecuniary penalty order for the same conduct.The court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
 
 ### 42ZH Only 1 pecuniary penalty order may be made for same conduct
-If conduct by a person constitutes a contravention of 2 or more civil remedy provisions, proceedings may be brought against that person for the contravention of any one or more of the provisions, but no person is liable to more than one pecuniary penalty order for the same conduct.
+If conduct by a person constitutes a contravention of 2 or more civil remedy provisions, proceedings may be brought against that person for the contravention of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
 
 **General**
 
 ### 42ZI Standard of proof for civil remedies
-The proceedings under this subpart are civil proceedings and the usual rules of the Court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
+The proceedings under this subpart are civil proceedings and the usual rules of the court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
 
 ### 42ZJ Time limit for applying for civil remedies
 (1) An application for a pecuniary penalty order, a civil remedy order under section 42ZC, or other civil remedy order under section 42ZE may be made at any time within 3 years after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
@@ -2093,44 +1933,36 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 37A(1) (no holding out as futures exchange unless authorised):
-  (b) section 37B(1) (no operation of futures markets unless authorised (if restriction applies)).
+  (b) section 37B(1) (no operation of futures markets unless authorised (if restriction applies)):
   (c) section 37E(1) (no operation by authorised futures exchange of unauthorised futures market).
 
 ### 43D Penalties for failing to comply with Part 4
-(1) A person who commits an offence against either of the following sections is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
-  (a) section 41R (offence of deceptive, misleading, or confusing advertisement):
-  (b) section 41S (recommending, or receiving money for, illegal offer).
-(2) A person who commits an offence against either of the sections set out in subsection (3) is liable on summary conviction to a fine not exceeding,—
-  (a) in the case of an individual, $100,000; or
-  (b) in the case of a body corporate, $300,000.
-(3) The sections are—
-  (a) section 41P (offence for failure to comply with disclosure obligation):
-  (b) section 41Q (offence of deceptive, misleading, or confusing disclosure).
+[Repealed]
 
 ### 43E Penalties for failing to comply with this Part
 (1) An individual who commits an offence against either of the following sections is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
-  (a) section 43H (offence of contravening management banning order):
+  (a)
   (b) section 43I (persons automatically banned from management).
 (2) A person who commits an offence against any of the sections set out in subsection (3) is liable on conviction on indictment,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 (3) The sections are—
-  (a) section 43M (offence of contravening investment adviser or broker banning order):
-  (b) section 43N (persons automatically banned from investment adviser or broker activities):
+  (a)
+  (b)
   (c) section 43T (offence of contravening orders to preserve assets to satisfy claims).
 (4) A person who commits an offence against section 42J (offence of failing to comply with FMA's orders) is liable on summary conviction to a fine not exceeding $30,000.
 
-### Subpart 5 — Other Court orders
+### Subpart 5 — Other court orders
 
 **Management bans**
 
-### 43F When Court may make management banning orders
-(1) The Court may, on application by an entitled person, make a management banning order against a person (A) if—
+### 43F When court may make management banning orders
+(1) The court may, on application by an entitled person, make a management banning order against a person (A) if—
   (a) A has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against A for a contravention of that Part; or
   (b) A has, while a director of an incorporated or unincorporated body,—
     (i) persistently contravened this Act, the Companies Act 1993, the Securities Act 1978, the Takeovers Act 1993, or the takeovers code; or
     (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
-  (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the Court is satisfied are substantially similar to any of the activities referred to in section 43G in connection with a contravention of any law relating to the trading of securities.
+  (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 43G in connection with a contravention of any law relating to the trading of securities.
 (2) An entitled person is—
   (a) the FMA:
   (b) the Registrar of Companies:
@@ -2141,68 +1973,51 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (e) a person who is, or has been, a holder of securities (and, for this purpose, security has the same meaning as in the Securities Act 1978) or creditor of an incorporated or unincorporated body referred to in paragraph (c).
 
 ### 43G Terms of management banning orders
-A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the Court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 
 ### 43H Offence of contravening management banning order
 An individual who acts in contravention of a management banning order under section 43F commits an offence (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine).
 
 ### 43I Persons automatically banned from management
 (1) This section applies to a person if the person has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against the person for a contravention of that Part.
-(2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the Court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+(2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
 (2A) The court may give leave for the purposes of subsection (2)—
   (a) at the time of conviction or making of the order, or at any other time on the application of the relevant person:
   (b) in respect of a particular incorporated or unincorporated body, a class of incorporated or unincorporated bodies, or incorporated or unincorporated bodies generally.
 (3) An individual who acts in contravention of this section commits an offence (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine).
 
-### 43J Only one management ban may be made for same conduct
+### 43J Only 1 management ban may be made for same conduct
 If conduct by a person constitutes grounds for making an order under any 1 or more of section 43F of this Act, section 60A of the Securities Act 1978, section 44F of the Takeovers Act 1993, and section 383 of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 
 **Investment adviser or broker bans**
 
-### 43K When Court may make banning orders for investment adviser or broker activities
-The Court may, on application by the FMA or any other person, make an investment adviser or broker banning order against a person if the Court is satisfied that—
-  (a) the person has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against the person for a contravention of that Part; or
-  (b) the person has been convicted of an offence against section 41R (offence of deceptive, misleading, or confusing advertisement) or section 41S (recommending, or receiving money for, illegal offer) or a pecuniary penalty order has been made against the person for a contravention of either of those sections; or
-  (c) the person has been convicted of an offence against any of sections 58, 59, or 59A of the Securities Act 1978 or a pecuniary penalty order has been made against the person under that Act; or
-  (d) the person has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
-  (e) the person has persistently contravened section 13 (general dealing misconduct prohibition), Part 4 (investment advisers and brokers), or the Securities Act 1978; or
-  (f) the person has been prohibited in an overseas jurisdiction from carrying on activities that the Court is satisfied are substantially similar to any of the activities referred to in section 43L.
+### 43K When court may make banning orders for investment adviser or broker activities
+[Repealed]
 
 ### 43L Terms of investment adviser or broker banning orders
-An investment adviser or broker banning order may prohibit or restrict the person from doing all or any of the following things, without the leave of the Court, for a period stated in the order of 10 years or less:
-  (a) giving investment advice to, or receiving investment money or investment property from, the public:
-  (b) being a director or promoter of, or in any way, whether directly or indirectly, being concerned or taking part in the management of, any incorporated or unincorporated body that is an investment adviser or an investment broker (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand):
-  (c) being an employee or agent of an investment adviser or an investment broker in a capacity that allows the person to take part in the giving of investment advice to, or receiving investment money or investment property from, the public.
+[Repealed]
 
 ### 43M Offence of contravening investment adviser or broker banning order
-A person who acts in contravention of an investment adviser or a broker banning order under section 43K commits an offence (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine for an individual or a $300,000 fine for a body corporate).
+[Repealed]
 
 ### 43N Persons automatically banned from investment adviser or broker activities
-(1) This section applies to a person if—
-  (a) the person has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against the person for a contravention of that Part; or
-  (b) the person has been convicted of an offence against section 41R (offence of deceptive, misleading, or confusing advertisement) or section 41S (recommending, or receiving money for, illegal offer) or a pecuniary penalty order has been made against the person for a contravention of either of those sections; or
-  (c) the person has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961.
-(2) The person must not, for the period of 5 years after the conviction or making of the order, without the leave of the Court,—
-  (a) give investment advice to, or receive investment money or investment property from, the public:
-  (b) be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, any incorporated or unincorporated body that is an investment adviser or an investment broker (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand):
-  (c) be an employee or agent of an investment adviser or an investment broker in a capacity that allows the person to take part in the giving of investment advice to, or receiving investment money or investment property from, the public.
-(3) A person who acts in contravention of this section commits an offence (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine for an individual or a $300,000 fine for a body corporate).
+[Repealed]
 
 ### 43O General provisions for bans and banning orders
-(1) The Registrar of the Court must, as soon as practicable after the making of a banning order by a Court under this Part,—
+(1) The Registrar of the court must, as soon as practicable after the making of a banning order by a court under this Part,—
   (a) give notice to the Registrar of Companies and the FMA that the order has been made; and
   (b) give notice in the Gazette of the name of the person against whom the order is made and the period or dates for which the ban applies.
-(2) A person intending to apply for the leave of the Court to override a ban imposed by or under section 43F, 43I, 43K, or 43N must give to the FMA not less than 10 working days' written notice of that person's intention to apply.
-(3) The FMA, and any other person that the Court thinks fit, may attend and be heard at the hearing of the application.
+(2) A person intending to apply for the leave of the court to override a ban imposed by or under section 43F, 43I, 43K, or 43N must give to the FMA not less than 10 working days' written notice of that person's intention to apply.
+(3) The FMA, and any other person that the court thinks fit, may attend and be heard at the hearing of the application.
 
 **Orders to preserve assets to satisfy claims**
 
-### 43P When Court may prohibit payment or transfer of money, securities, or other property
+### 43P When court may prohibit payment or transfer of money, securities, or other property
 (1) This section applies if—
   (a) an investigation is being carried out under this Act in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act or any regulations made under this Act; or
   (b) a prosecution has begun against a person for a contravention of this Act; or
   (c) a civil proceeding has begun against a person under this Act.
-(2) The Court may, on application by the FMA or by an aggrieved person, make 1 or more of the orders listed in section 43Q if the Court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
+(2) The court may, on application by the FMA or by an aggrieved person, make 1 or more of the orders listed in section 43Q if the court considers it necessary or desirable to do so for the purpose of protecting the interests of an aggrieved person.
 (3) In this section and section 43Q,—
   - **aggrieved person** means any person to whom a relevant person is liable
   - **liable** means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
@@ -2217,26 +2032,26 @@ A person who acts in contravention of an investment adviser or a broker banning 
   (e) an order prohibiting the taking, sending, or transfer by a person of securities or other property of the relevant person, or of an associated person of the relevant person from a place in New Zealand to a place outside New Zealand (including the transfer of securities from a register in New Zealand to a register outside New Zealand):
   (f) an order requiring the relevant person, or any person holding money, securities, or other property on behalf of the relevant person or an associated person if the relevant person, to pay or transfer money, securities, or other property to a specified person to be held on trust pending determination of the investigation, prosecution, or civil proceeding:
   (g) an order appointing,—
-    (i) if the relevant person is a natural person, a receiver or trustee, having any powers that the Court orders, of the property or of part of the property of that person; or
-    (ii) if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the Court orders, of the property or of part of the property of that person:
-  (h) if the relevant person is a natural person, an order requiring that person to deliver up to the Court his or her passport and any other documents that the Court thinks fit:
-  (i) if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the Court.
+    (i) if the relevant person is a natural person, a receiver or trustee, having any powers that the court orders, of the property or of part of the property of that person; or
+    (ii) if the relevant person is a body corporate, a receiver or receiver and manager, having any powers that the court orders, of the property or of part of the property of that person:
+  (h) if the relevant person is a natural person, an order requiring that person to deliver up to the court his or her passport and any other documents that the court thinks fit:
+  (i) if the relevant person is a natural person, an order prohibiting that person from leaving New Zealand, without the consent of the court.
 (2) A reference in subsection (1)(e) or (g) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example,—
   (a) as trustee for, as nominee for, or otherwise on behalf of or on account of, another person; or
   (b) in a fiduciary capacity.
 (3) An order may be expressed to operate for a specified period or until the order is discharged by a further order under this section.
 
 ### 43R Interim orders
-(1) If an application is made to the Court for an order under section 43P, the Court may, if in the opinion of the Court it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.
-(2) The Court must not require the applicant or any other person, as a condition of granting an interim order under this section, to give an undertaking as to damages.
-(3) In determining an application for the grant of an interim order, the Court must not take into account that the applicant is not required to give an undertaking as to damages.
+(1) If an application is made to the court for an order under section 43P, the court may, if in the opinion of the court it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.
+(2) The court must not require the applicant or any other person, as a condition of granting an interim order under this section, to give an undertaking as to damages.
+(3) In determining an application for the grant of an interim order, the court must not take into account that the applicant is not required to give an undertaking as to damages.
 
 ### 43S Relationship with other law
-(1) Nothing in sections 43P to 43R affects the powers that the Court has apart from those sections.
+(1) Nothing in sections 43P to 43R affects the powers that the court has apart from those sections.
 (2) This section has effect subject to the Insolvency Act 1967.
 
 ### 43T Offence
-A person commits an offence who contravenes an order by the Court under section 43Q or section 43R that is applicable to the person (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine for an individual or a $300,000 fine for a body corporate).
+A person commits an offence who contravenes an order by the court under section 43Q or section 43R that is applicable to the person (see section 43E for the maximum penalty of 3 years' imprisonment and a $100,000 fine for an individual or a $300,000 fine for a body corporate).
 
 ### Subpart 6 — General
 
@@ -2245,32 +2060,32 @@ A person commits an offence who contravenes an order by the Court under section 
 (2) Subsection (1) applies despite section 14 of, or anything else to the contrary in, the Summary Proceedings Act 1957.
 
 ### 43V Evidence not otherwise admissible
-In the exercise of its jurisdiction under this Act, the Court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
+In the exercise of its jurisdiction under this Act, the court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
 
-### 43W Court may order payment of FMA'scosts
-If the FMA brings proceedings under this Part and the Court makes any order against a person under this Part, the Court may also order that person to pay the FMA's costs and expenses in bringing the proceedings.
+### 43W Court may order payment of FMA's costs
+If the FMA brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the FMA's costs and expenses in bringing the proceedings.
 
 ### 43X Orders to secure compliance
-The Court may, for the purpose of securing compliance with any other order it makes under this Part, direct a person to do or refrain from doing a specified act.
+The court may, for the purpose of securing compliance with any other order it makes under this Part, direct a person to do or refrain from doing a specified act.
 
-### 43Y Giving notice of applications for Court orders
-Before making an order under this Part, the Court may direct the person making the application for the order to—
-  (a) give notice of the application to those persons the Court thinks fit:
-  (b) publish notice of the application in the manner the Court thinks fit.
+### 43Y Giving notice of applications for court orders
+Before making an order under this Part, the court may direct the person making the application for the order to—
+  (a) give notice of the application to those persons the court thinks fit:
+  (b) publish notice of the application in the manner the court thinks fit.
 
-### 43Z General provisions as to Court's orders
-(1) An order under this Part may be made on the terms and conditions the Court thinks fit.
-(2) The Court may revoke, vary, or suspend an order made under this Part on the terms and conditions the Court thinks fit.
+### 43Z General provisions as to court's orders
+(1) An order under this Part may be made on the terms and conditions the court thinks fit.
+(2) The court may revoke, vary, or suspend an order made under this Part on the terms and conditions the court thinks fit.
 
-### 43ZA Persons entitled to appear before Court
-The following persons are entitled to appear and be heard at the hearing of an application to the Court under this Part:
+### 43ZA Persons entitled to appear before court
+The following persons are entitled to appear and be heard at the hearing of an application to the court under this Part:
   (a) the applicant:
   (b) the public issuer:
   (c) a person who is alleged to have suffered, or to be likely to suffer, loss or damage because of an alleged contravention (whether that person or another person makes the allegation):
   (d) the FMA:
   (e) the relevant registered exchange:
   (f) a person directed to be given notice of the application:
-  (g) with the leave of the Court, any other person.
+  (g) with the leave of the court, any other person.
 
 ### 43ZB Knowledge of matters presumed if employee or agent knows matters
 In any proceedings under this Act, it is presumed, in the absence of proof to the contrary, that a person knew, at a material time, of any matter if, at that time, an employee or agent of that person knew of the matter in his or her capacity as employee or agent.
@@ -2304,7 +2119,7 @@ A registered exchange, or an officer or employee of a registered exchange, is no
   (b) is not in contravention of an unsolicited offer obligation or exemption.
 (2) A person to whom this section applies is not liable for any act done or omitted to be done by that person in good faith if the act or omission is—
   (a) required by an unsolicited offer order made by the FMA; or
-  (b) required by an order made by the Court under Part 5 in connection with a contravention of an unsolicited offer obligation or exemption; or
+  (b) required by an order made by the court under Part 5 in connection with a contravention of an unsolicited offer obligation or exemption; or
   (c) stated by the regulations made under section 48DB to be a protected act or omission for the purposes of this section.
 
 **Appeals**
@@ -2489,16 +2304,7 @@ The regulations made under section 48DB may, without limiting that section,—
 (3) The Minister must consult with the FMA before making a recommendation under subsection (1).
 
 ### 49C Regulations concerning investment advisers and brokers
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations for the purpose of—
-  (a) prescribing any further information that must be disclosed under section 41A or section 41G:
-  (b) prescribing any further contents of the disclosure statement and the method of disclosure under Part 4:
-  (c) requiring an investment adviser to—
-    (i) have a minimum level of professional indemnity insurance, and prescribing the amount of that minimum level; or
-    (ii) give an undertaking that the adviser has adequate professional indemnity insurance for the protection of the persons to whom the adviser gives investment advice:
-  (d) exempting (on terms and conditions, if any) any person or class of persons, any class of transactions, or any class of investment advice (for example, advice given by telephone) or investment brokers services from compliance with any investment advisers' or investment brokers' disclosure obligation or obligations:
-  (e) prescribing how information disclosed in a disclosure statement must be set out:
-  (f) prescribing a form for use as a disclosure statement.
-(2) The Minister must consult with the FMA before making a recommendation under subsection (1).
+[Repealed]
 
 ### 49D Other regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (3), make regulations for the purpose of—
@@ -2539,6 +2345,9 @@ This Act is the Securities Markets Amendment Act 2006.
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
 (2) One or more orders may be made bringing different provisions into force on different dates.
 
+### 3 Principal Act amended
+This Act amends the Securities Markets Act 1988.
+
 **Miscellaneous**
 
 ### 15 Transitional provisions relating to new subpart 3 of Part 2 of principal Act
@@ -2548,7 +2357,7 @@ This Act is the Securities Markets Amendment Act 2006.
   (c) new sections 23 and 24 apply only to a movement or change that occurs on or after commencement:
   (d) a person who ceases to have a substantial holding only as a result of the commencement of new subpart 3 of Part 2 must disclose that fact in accordance with new section 25 (except that disclosure is not required until the expiry of 14 days after commencement):
   (e) old subpart 3 and the rest of the Securities Markets Act 1988 continues to apply as they did immediately before commencement for the purposes of any disclosure required by old subpart 3 before commencement.
-(2) In this section, new section or new subpart means the section or subpart inserted by section 11 of this Act, and old section or old subpart means the section or subpart as they were immediately before commencement.
+(2) In this section, new section or new subpart means the section or subpart inserted by section 11, and old section or old subpart means the section or subpart as they were immediately before commencement.
 
 ### 16 Transitional provision for existing offences and contravention
 (1) This section applies to an offence committed under, or a contravention of,—
@@ -2565,6 +2374,9 @@ This Act is the Securities Markets Amendment Act 2011.
 
 ### 2 Commencement
 This Act comes into force on 1 May 2011.
+
+### 3 Principal Act amended
+This Act amends the Securities Markets Act 1988.
 
 **Transitional provisions**
 
