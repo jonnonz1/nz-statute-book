@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
