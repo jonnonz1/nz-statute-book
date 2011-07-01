@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-07-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1042,7 +1042,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (a) publish a notice of his or her intention to make the rule; and
   (b) consult—
     (i) the persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies; and
-    (ii) the Environmental Risk Management Authority, established under the Hazardous Substances and New Organisms Act 1996, about the contents of any rule that relates to the transportation of hazardous substances as defined in section 2(1) of that Act.
+    (ii) the Environmental Protection Authority, established by section 7 of the Environmental Protection Authority Act 2011, about the contents of any rules that relate to the transportation of hazardous substances as defined in section 2(1) of the Hazardous Substances and New Organisms Act 1996.
 (2) Subject to subsection (3), every ordinary rule shall be notified in the Gazette and be made available by the Authority for purchase by members of the public at a reasonable price, and the notification shall specify a place where the rule is available for inspection free of charge and for purchase.
 (3) Where for reasons of security it is inappropriate to notify a rule under subsection (2), the Minister shall notify such persons as he or she considers appropriate or necessary in the circumstances and service of notification may be effected in such other manner as the Minister considers appropriate or necessary in the circumstances, and the rule shall apply only to each person so notified (with effect from service of the rule on the person).
 (4)
