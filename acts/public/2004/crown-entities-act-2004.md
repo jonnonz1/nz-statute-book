@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1067,8 +1067,8 @@ Amendment(s) incorporated in the Act(s).
     (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
   - **forecast financial statements** has the meaning set out in section 2(1) of the Public Finance Act 1989
   - **generally accepted accounting practice** means—
-    (a) approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to the Crown entity:
-    (b) in relation to matters for which no provision is made in approved financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
+    (a) financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) so far as those standards apply to the Crown entity:
+    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2(1) of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate in relation to the Crown entity; and
       (ii) have authoritative support within the accounting profession in New Zealand
   - **outputs** —
@@ -1578,11 +1578,11 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
+| Environmental Protection Authority |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Health Sponsorship Council |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
-| Legal Services Agency |  |  |  |  |  |
 | Maritime Safety Authority of New Zealand |  |  |  |  |  |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
@@ -1605,7 +1605,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Arts Council of New Zealand Toi Aotearoa |  |  |  |  |  |
 | Broadcasting Commission |  |  |  |  |  |
 | Charities Commission |  |  |  |  |  |
-| Environmental Risk Management Authority |  |  |  |  |  |
 | Families Commission |  |  |  |  |  |
 | Government Superannuation Fund Authority |  |  |  |  |  |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
@@ -1627,13 +1626,13 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
-| Accounting Standards Review Board |  |  |  |  |  |
 | Broadcasting Standards Authority |  |  |  |  |  |
 | Children's Commissioner |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Drug Free Sport New Zealand |  |  |  |  |  |
 | Electricity Authority |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
+| External Reporting Board |  |  |  |  |  |
 | Financial Markets Authority |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
