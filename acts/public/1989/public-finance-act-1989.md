@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-07-01_
 
 > Title
 
@@ -89,8 +89,8 @@ _Consolidation as at 2010-11-01_
     (d) any other forecast financial statement required by generally accepted accounting practice; and
     (e) any other forecast financial statement required for a reporting entity by any regulations made, or instructions issued, under this or any other Act
   - **generally accepted accounting practice** means—
-    (a) approved financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) so far as those standards apply to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be:
-    (b) in relation to matters for which no provision is made in approved financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that—
+    (a) financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) so far as those standards apply to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be:
+    (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate in relation to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be; and
       (ii) have authoritative support within the accounting profession in New Zealand
   - **Government** means the Executive Government of New Zealand
@@ -1768,9 +1768,9 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
   (a)
-  (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
-  (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
-  (d) section 4(5) of the Public Finance Amendment Act 1980,—
+  (b) Amendment(s) incorporated in the Act(s):
+  (c) Amendment(s) incorporated in the Act(s):
+  (d) Amendment(s) incorporated in the Act(s),—
   (e) all public securities registered before the date on which regulations made under section 81(1)(f) come into force:
   (f)
   (g) all other stock.
@@ -1816,6 +1816,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
 | Crown Fibre Holdings Limited |  |  |  |  |  |  |  |  |
+| Dispute Resolution Services Limited |  |  |  |  |  |  |  |  |
 | Health Benefits Limited |  |  |  |  |  |  |  |  |
 | Leadership Development Centre Trust |  |  |  |  |  |  |  |  |
 | Learning State Limited |  |  |  |  |  |  |  |  |
