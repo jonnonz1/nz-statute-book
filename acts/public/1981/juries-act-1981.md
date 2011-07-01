@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2010-10-04_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -75,10 +75,7 @@ The following persons shall not serve on any jury in any court on any occasion:
     (ii) in the Department of Corrections; or
     (iii)
     (iv) as an officer of the High Court or of a District Court; or
-  (haa) employees of the Legal Services Agency continued by section 91 of the Legal Services Act 2000 (but nothing in this paragraph applies to members of—
-    (i) the Board of that agency; or
-    (ii) the Review Panel established under section 62 of that Act; or
-    (iii) the Public Advisory Committee established under Part 7 of that Act):
+  (haa)
   (ha) a party to a prison management contract entered into under section 198(1) of the Corrections Act 2004 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (hb) a security officer within the meaning of section 3(1) of the Corrections Act 2004:
   (i)
