@@ -1,5 +1,5 @@
 # Ozone Layer Protection Act 1996
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to help protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer and to implement in New Zealand the Vienna Convention for the Protection of the Ozone Layer and the Montreal Protocol on Substances that Deplete the Ozone Layer
 
@@ -11,18 +11,22 @@ _Consolidation as at 2008-10-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **code of practice** means any code that has been approved by the Minister for the Environment under section 10
+  - **approved form** means a form approved under section 12A
+  - **code of practice** means any code that has been approved by the Minister under section 10
   - **controlled substance** means any substance defined as such in any regulations made under this Act
   - **Convention** means the Vienna Convention for the Protection of the Ozone Layer (a copy of the English text of which is set out in Schedule 1), and includes any amendments to, or substitutions of, that Convention that are, or will become, binding on New Zealand from time to time
+  - **Environmental Protection Authority** means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
+  - **Minister** means the Minister of the Crown who, under authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **offence against this Act** includes any offence against any regulations made under this Act
   - **officer** means—
-    (a) any person employed in the service of the Ministry of Economic Development and designated as an officer for the purpose of this Act; and
+    (a) any person employed in the service of the Environmental Protection Authority and designated as an officer for the purpose of this Act; and
     (b) any Customs officer
   - **ozone depleting substance** and means—
     (a) any controlled substance; or
     (b) any other substance that has an ozone depletion potential of 0.01 or greater
   - **prescribed** means prescribed by regulations made under this Act
-  - **Protocol** means the Montreal Protocol on Substances that Deplete the Ozone Layer, and includes any amendments to, or substitutions of, that Protocol that are, or will become, binding on New Zealand from time to time.
+  - **Protocol** means the Montreal Protocol on Substances that Deplete the Ozone Layer, and includes any amendments to, or substitutions of, that Protocol that are, or will become, binding on New Zealand from time to time
+  - **register** means the Ozone Layer Protection Register required by section 12B.
 (2) Terms and expressions used and not defined in this Act or in regulations made under this Act but defined in the Convention or the Protocol shall, unless the context otherwise requires, have the same meaning as in the Convention or the Protocol.
 
 ### 3 Act to bind the Crown
@@ -59,11 +63,14 @@ All the provisions of the Customs and Excise Act 1996 that apply with respect to
 **Exemptions**
 
 ### 8 Exemptions
-(1) The Minister of Commerce may, at his or her discretion, grant an exemption from any prohibition on the importation, exportation, manufacture, sale, or use of any substance or goods, or other obligation, imposed by this Act or any regulations made under this Act.
+(1) The Environmental Protection Authority may grant an exemption from any prohibition on the importation, exportation, manufacture, sale, or use of any substance or goods, or other obligation, imposed by this Act or any regulations made under this Act.
 (2) An exemption may be granted only in accordance with regulations made under Part 3.
 
+### 8A Application for exemption
+An application for an exemption must be made in the approved form.
+
 ### 9 Consideration of application for exemption
-The Minister of Commerce shall, in considering any application for an exemption under this Part, have regard to—
+The Environmental Protection Authority must, in considering any application for an exemption under this Part, have regard to—
   (a) the need to protect human health and the environment from adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer; and
   (b) the need to phase out ozone depleting substances as soon as possible except for essential uses; and
   (c) New Zealand's obligations under the Convention and the Protocol; and
@@ -71,10 +78,43 @@ The Minister of Commerce shall, in considering any application for an exemption 
   (e) whether the applicant has complied with any code of practice that applies to the business of the applicant; and
   (f) whether the applicant has committed an offence against this Act.
 
+**Permits**
+
+### 9A General requirements for permits
+(1) This section applies if regulations made under section 16 allow the importation or exportation of substances or goods under the authority of a permit granted by the Environmental Protection Authority.
+(2) Any person may apply to the Environmental Protection Authority for a permit.
+(3) An application for a permit must be in the approved form.
+(4) The regulations may specify the process and requirements for applying for a permit.
+
+### 9B Refusal of permit to import substance
+(1) This section and sections 9C and 9D apply if regulations made under section 16 allow the importation of substances or goods under the authority of a permit granted by the Environmental Protection Authority.
+(2) The Environmental Protection Authority may refuse to grant a permit if the Authority considers—
+  (a) after considering the matters set out in section 9C, that granting the permit would be inconsistent with the scheme of the regulations; or
+  (b) that the person who applied for the permit has been convicted of an offence against this Act or an offence that involves an ozone-depleting substance; or
+  (c) that the information in the application is incorrect.
+
+### 9C Consideration of application for permit to import substance
+The Environmental Protection Authority must, in considering an application for a permit, have regard to the following matters to the extent that they are relevant:
+  (a) the amount of the substance that is available for allocation:
+  (b) the total amount of the substance for which applications have been received:
+  (c) the importance of the use to which the substance will be put:
+  (d) whether there is a viable alternative to the use of the substance that would be less harmful to the environment.
+
+### 9D Conditions on permits to import substance
+If the regulations authorise the Environmental Protection Authority to impose conditions on the grant of a permit, the conditions may address the following matters:
+  (a) the use to which the substance will be put in New Zealand:
+  (b) restriction or prohibition on transfer of an entitlement arising from a permit:
+  (c) the provision of information (including photographs) to the Environmental Protection Authority concerning the identification, movement, and location of the substance and compliance with conditions:
+  (d) the insurance requirements relating to the importation of the substance and its presence in New Zealand:
+  (e) control and ownership of the substance:
+  (f) restriction or prohibition on the grant of a security interest in the substance:
+  (g) the labelling, packaging, handling, storage, transport, processing, or disposal of the substance:
+  (h) liability for the substance if it cannot be used for the purpose for which it was imported.
+
 **Codes of practice**
 
 ### 10 Codes of practice
-(1) The Minister for the Environment may, by notice in writing, require any person whose business is or includes—or any representative of such persons, to submit for approval a code of practice to be observed in the course of carrying on that business.
+(1) The Minister may, by notice in writing, require any person whose business is or includes—or any representative of such persons, to submit for approval a code of practice to be observed in the course of carrying on that business.
   (a) the manufacture or use of any goods containing or designed to use, or manufactured using, controlled substances; or
   (b) the installing, operating, servicing, modifying, or dismantling of any equipment containing or designed to use, or manufactured using, controlled substances; or
   (c) the supply or use of any controlled substance,—
@@ -96,12 +136,47 @@ The Minister of Commerce shall, in considering any application for an exemption 
   (b) otherwise directly handles ozone depleting substances in a way that involves a possible risk of release of those substances into the atmosphere,—
 
 ### 12 Industry may be required to prepare draft accreditation schemes
-(1) For the purpose of assisting with accreditation, the Minister for the Environment may, by notice in writing, require any business, or representative of any business, to submit a draft accreditation scheme incorporating—
+(1) For the purpose of assisting with accreditation, the Minister may, by notice in writing, require any business, or representative of any business, to submit a draft accreditation scheme incorporating—
   (a) the class of persons that should be accredited; and
   (b) the conditions for accreditation; and
   (c) the system for granting accreditation; and
   (d) such other matters as the notice may specify.
 (2) Any person who fails without reasonable excuse, within 6 months after the date on which any such notice is sent to the person, to submit a draft accreditation scheme, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
+
+**Forms**
+
+### 12A Environmental Protection Authority may approve forms
+The Environmental Protection Authority may approve forms for the purposes of this Act.
+
+**Register**
+
+### 12B Register
+(1) The Environmental Protection Authority, on behalf of the Crown, must keep a register called the Ozone Layer Protection Register.
+(2) The register may be kept in the form of information stored electronically.
+(3) The Crown owns all information contained in the register.
+
+### 12C Information to be included in register
+(1) The register must record—
+  (a) the details of permits granted under regulations; and
+  (b) the details of exemptions granted under section 8; and
+  (c) any other information required to comply with New Zealand's international obligations and that is prescribed by regulations.
+(2) In relation to a permit, the register must specify—
+  (a) the name and address of the person to whom the permit was granted; and
+  (b) the substance or goods to which the permit relates; and
+  (c) the amount of the substance or goods that the permit allows to be imported, exported, manufactured, or sold; and
+  (d) the terms and conditions on which the permit was granted; and
+  (e) any other information required by regulations.
+(3) In relation to an exemption, the register must specify—
+  (a) the name and address of the person to whom the exemption was granted; and
+  (b) the substance or goods to which the exemption relates; and
+  (c) the amount of the substance or goods that the exemption allows to be imported, exported, manufactured, or sold; and
+  (d) the reason for granting the exemption; and
+  (e) the terms and conditions on which the exemption was granted; and
+  (f) any other information required by regulations.
+(4) The register may record any other information that the Environmental Protection Authority considers appropriate.
+
+### 12D Environmental Protection Authority to allow New Zealand Customs Service access to register
+The Environmental Protection Authority must allow the New Zealand Customs Service to have access to the register.
 
 **Offences and penalties**
 
@@ -132,11 +207,12 @@ Without limiting the circumstances in which a person may have a lawful justifica
 ## Part 3 — Regulations
 
 ### 16 Regulations
-(1) Subject to sections 17 to 19, the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister for the Environment, make regulations for the purpose of—
+(1) Subject to sections 17 to 19, the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of—
   (a) protecting human health and the environment from adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer:
   (b) phasing out ozone depleting substances as soon as possible except for essential uses:
   (c) giving effect to New Zealand's obligations under the Convention and the Protocol:
   (d) giving effect to the terms of any other international agreement relating to the protection of the ozone layer to which New Zealand is a party:
+  (da) prescribing the particulars of permits and exemptions to be shown in the Ozone Layer Protection Register:
   (e) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this Act, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
   (f) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and its due administration.
 (2) A prohibition imposed under this section—
@@ -148,18 +224,18 @@ Without limiting the circumstances in which a person may have a lawful justifica
   (b) on or subject to any terms and conditions as may be imposed by the person granting the permit or as may be prescribed.
 
 ### 17 Consultation requirements before regulations made
-(1) The Minister for the Environment shall not recommend the making of any regulations under section 16 unless the Minister has taken all reasonably practical steps to consult with such persons, or representatives of such persons, who or which, in his or her opinion, may be affected by or may have an interest in the proposed subject matter of the regulations.
+(1) The Minister shall not recommend the making of any regulations under section 16 unless the Minister has taken all reasonably practical steps to consult with such persons, or representatives of such persons, who or which, in his or her opinion, may be affected by or may have an interest in the proposed subject matter of the regulations.
 (2) The Minister may also publicise the proposal via the daily public newspapers in the main centres or any other publications, or in any other manner, that the Minister considers appropriate.
 (3) The Minister shall give persons notified of any such proposal under subsection (1) or subsection (2) such time and opportunity as the Minister considers adequate to comment on the proposed subject matter of the regulations.
 (4) Any notification of any proposal under subsection (1) or subsection (2) shall—
   (a) specify the proposed subject matter of the regulations and any relevant supporting documentation, or advice on where this may be obtained; and
   (b) invite submissions from any person on the proposed regulations; and
   (c) specify the address to which submissions must be made, and the closing date for the receipt of submissions.
-(5) The Minister for the Environment shall have regard to all submissions and other matters the Minister thinks fit before making a recommendation to the Governor-General.
+(5) The Minister shall have regard to all submissions and other matters the Minister thinks fit before making a recommendation to the Governor-General.
 (6) A failure to comply with this section shall not affect the validity of any regulations made under this Act.
 
 ### 18 Additional requirement before regulations made
-The Minister for the Environment shall not recommend the making of any regulations under section 16 unless the Minister is satisfied that, after making the proposed regulations, New Zealand will be able to give effect to its obligations under the Convention and the Protocol.
+The Minister must not recommend the making of any regulations under section 16 unless the Minister is satisfied that, after making the proposed regulations, New Zealand will be able to give effect to its obligations under the Convention and the Protocol.
 
 ### 19 Manufacture of goods not to be prohibited unless importation also prohibited
 No regulations shall be made under this Act prohibiting the manufacture in New Zealand of any goods unless, at the same time, regulations are made under this Act prohibiting the importation of those goods.
@@ -207,17 +283,17 @@ Any Customs officer who, in the course of exercising a power conferred on that o
 
 ### 25 Retention of property seized
 (1) Subject to any regulations made under this Act relating to return of property seized, where any constable seizes any substance or goods under this Act, it shall be retained by the Commissioner of Police pending the trial of the person in respect of the offence for which the substance or goods were seized.
-(2) Subject to any regulations made under this Act relating to return of property seized, where any officer seizes any substance or goods under this Act, it shall be retained by the New Zealand Customs Service or the Ministry of Economic Development, as the case may be, pending the trial of the person in respect of the offence for which the substance or goods were seized.
+(2) Subject to any regulations made under this Act relating to return of property seized, where any officer seizes any substance or goods under this Act, it shall be retained by the New Zealand Customs Service or the Environmental Protection Authority as the case may be, pending the trial of the person in respect of the offence for which the substance or goods were seized.
 
 ### 26 Return or forfeiture of property seized
 (1) If no proceedings are taken in respect of an offence within 12 months after the seizure of the substance or goods under this Act or, where proceedings are taken, no order of forfeiture is made under subsection (3), the substance or goods shall be returned to the person from whom they were seized.
 (2) If any person directly affected by the seizure of any substance or goods appeals and the appeal is successful, the substance or goods shall be returned to the person from whom they were seized.
-(3) Where any person has been convicted of an offence against paragraph (a) or paragraph (b) or paragraph (c) or paragraph (d) of section 13, the court may, if it thinks fit, order that any substance or goods in relation to which the offence was committed shall be forfeited to the Crown and disposed of as the Minister for the Environment directs.
+(3) Where any person has been convicted of an offence against paragraph (a) or paragraph (b) or paragraph (c) or paragraph (d) of section 13, the court may, if it thinks fit, order that any substance or goods in relation to which the offence was committed shall be forfeited to the Crown and disposed of as the Minister directs.
 
 ## Part 5 — Miscellaneous provisions
 
 ### 27 Review of reduction timetables
-The Minister of Commerce and the Minister for the Environment shall undertake a review at least every 2 years to consider whether the prescribed reduction timetables are appropriate given the technology available.
+The Minister must undertake a review at least every 2 years to consider whether the prescribed reduction timetables are appropriate given the technology available.
 
 ### 28 Other Acts not affected
 The provisions of this Act are in addition to, and not in substitution for, the provisions of any other enactment relating to the importation, exportation, manufacture, sale, or use of any substances or goods, and nothing in this Act shall limit or otherwise affect any such provisions.
@@ -226,8 +302,8 @@ The provisions of this Act are in addition to, and not in substitution for, the 
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on that person under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
 
 ### 30 Annual report
-(1) The Minister of Commerce and the Minister for the Environment shall, as soon as practicable after the end of each year, prepare a report on the operation of this Act during that year.
-(2) The Minister of Commerce shall lay a copy of the report before the House of Representatives as soon as practicable thereafter.
+(1) The Minister must, as soon as practicable after the end of each year, prepare a report on the operation of this Act during that year.
+(2) The Minister must lay a copy of the report before the House of Representatives as soon as practicable thereafter.
 (3) Every such report shall, among other things, specify—
   (a) the details of any exemptions granted during the year under this Act; and
   (b) such other matters as may be prescribed.
@@ -254,3 +330,13 @@ Every permit granted under the Import Control (Methyl Bromide) Conditional Prohi
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — Regulation and orders revoked
+
+### 1 Title
+This Act is the Ozone Layer Protection Amendment Act 2011.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+(2) Any provision that has not earlier been brought into force comes into force on 1 December 2012.
+
+### 19 Transitional provision
+Despite this Act and section 54 of the Environmental Protection Authority Act 2011, an application for a permit or exemption made before the commencement of this section must be determined by the Minister responsible for the administration of the Ozone Layer Protection Act 1996 as if this Act and the Environmental Protection Authority Act 2011 had not been passed.
