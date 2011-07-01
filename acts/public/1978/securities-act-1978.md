@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -2210,16 +2210,16 @@ A person that considers that a decision of the FMA under any of the following pr
 ### 70AA Regulations may require compliance with generally accepted accounting practice and incorporate financial reporting standards by reference
 (1) Regulations may—
   (a) require any person, class of persons, information, or class of information to comply with generally accepted accounting practice either generally or in specified circumstances; and
-  (b) incorporate by reference any approved financial reporting standard.
+  (b) incorporate by reference any financial reporting standard.
 (2) Regulations may require compliance with generally accepted accounting practice or incorporate material by reference—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
 (3) Material incorporated by reference in regulations has legal effect as part of the regulations.
 (4) In this section and in sections 70AAB to 70AAF,—
-  - **approved financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **chief executive** means the chief executive of the Ministry
+  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **generally accepted accounting practice** has the same meaning as in section 3 of the Financial Reporting Act 1993
-  - **material incorporated by reference** means any particular approved financial reporting standard that is incorporated by reference under subsection (1)(b)
+  - **material incorporated by reference** means any particular financial reporting standard that is incorporated by reference under subsection (1)(b)
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act.
 
 ### 70AAB Effect of amendments to, or replacement of, material incorporated by reference in regulations
@@ -2235,7 +2235,7 @@ An amendment to, or replacement of, material incorporated by reference in regula
     (ii) the material is available for inspection during working hours, free of charge, at the head office of the Ministry and giving the location of that office; and
     (iii) copies of the material can be purchased at the head office of the Ministry and giving the location of that office; and
     (iv) if copies of the material are made available under paragraph (c), the material is available in other ways and details of where or how it can be accessed or obtained.
-(2) The chief executive must comply with subsection (1) as soon as practicable after an approved financial reporting standard is incorporated by reference under section 70AA(1)(b).
+(2) The chief executive must comply with subsection (1) as soon as practicable after a financial reporting standard is incorporated by reference under section 70AA(1)(b).
 (3) The material is—
   (a) material incorporated by reference in regulations; and
   (b) either—
