@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -324,7 +324,7 @@ The following must from time to time be paid out of the Fund:
 (2) If a contravention of subsection (1) arises (through inadvertence or otherwise), the Authority must take all reasonable steps to remedy the default as soon as practicable.
 (3) For the purposes of this Act, an entity is controlled by the Fund if—
   (a) the entity is a subsidiary of the Fund; or
-  (b) the Fund controls the entity within the meaning of any relevant approved financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
+  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993); or
   (c) the Fund can control directly or indirectly the composition of the Board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (4) This section limits section 15B(5)(b), but does not limit section 15B(5)(a) or (c).
 (5) In this section, Fund means the Authority acting in respect of the Fund.
