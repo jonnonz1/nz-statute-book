@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -262,9 +262,9 @@ This subpart expires with the close of 30 June 2012.
 ### 18 Secretary deducts money for legal aid, reparation, and earlier orders, then pays surplus into account
 (1) On receiving money under section 17, the Secretary must, as soon as practicable,—
   (a) first, pay out of that money any sum necessary to satisfy fully any relevant charge—
-    (i) in favour of the Legal Services Agency; and
+    (i) in favour of the Secretary for Justice; and
     (ii) on proceeds of proceedings relating to the specified claim, and to which a grant of legal aid relates; and
-    (iii) arising by operation of section 32 of the Legal Services Act 2000; and
+    (iii) arising by operation of section 36 of the Legal Services Act 2011; and
   (b) second, pay out of that money any sum necessary to satisfy fully any amounts of reparation owed by the accused or the offender; and
   (c) third, pay out of that money any sum necessary to satisfy fully any amounts owed by the accused or the offender under any relevant order made under section 46 following an earlier receipt of money under section 17; and
   (d) fourth, pay any surplus remaining into the account.
