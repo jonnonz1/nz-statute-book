@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -1546,10 +1546,10 @@ On request from a territorial authority, the Secretary must provide—
   (a) in the case of a reporting entity under the Financial Reporting Act 1993, financial statements required by that Act; or
   (b) in any other case, financial statements prepared in accordance with generally accepted accounting practice.
 (2) In this section,—
-  - **approved financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
+  - **financial reporting standard** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **generally accepted accounting practice** means—
-    (a) relevant approved financial reporting standards; and
-    (b) in relation to matters for which no provision is made in approved financial reporting standards and that are not subject to any applicable rule of law, accounting policies that—
+    (a) relevant financial reporting standards; and
+    (b) in relation to matters for which no provision is made in financial reporting standards and that are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate to the corporate society; and
       (ii) have authoritative support within the accounting profession in New Zealand.
 
