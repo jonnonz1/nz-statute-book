@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2011-06-30_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -30,6 +30,7 @@ In this Act,—
   (g) provisions from Parts 1 and 1A of the 1987 Act about the following matters are set out in Part 4:
     (i) network operators and connection to, and misuse of, a network (subpart 1):
     (ii) maintenance of networks (subpart 2); and
+  (gaa) provisions about undertakings required to be given by providers of certain telecommunications services involving fibre optic communications networks constructed in whole or in part using Crown investment funding, restrictions on unbundling in respect of such service providers, and the preparation and disclosure of information are set out in Part 4AA; and
   (ga) enforcement provisions are set out in Part 4A; and
   (gb) provisions facilitating the establishment of 1 or more complaints systems for the purpose of addressing complaints by consumers against service providers are set out in Part 4B; and
   (h) miscellaneous provisions about the repeal of certain provisions of the 1987 Act (including consequential amendments and transitional provisions) are set out in Part 5 and Schedule 4.
@@ -55,7 +56,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Ministry of Economic Development
   - **Commission** means the Commerce Commission established by section 8 of the Commerce Act 1986
   - **computer record** has the meaning set out in section 116(2)
-  - **constitution of Telecom** means the constitution of Telecom Corporation of New Zealand Limited
+  - **CPI** means the Consumers Price Index (All Groups) published by Statistics New Zealand
   - **deemed TSO instrument** has the meaning set out in section 71
   - **designated access service** means a service described in subpart 1 of Part 2 of Schedule 1
   - **designated multinetwork service** means a service described in subpart 2 of Part 2 of Schedule 1
@@ -70,11 +71,15 @@ In this Act, unless the context otherwise requires,—
   - **existing lines** —
     (a) means any lines constructed by Telecom or any of its former subsidiaries before 1 April 1989; and
     (b) includes any lines that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 April 1989
+  - **existing residential line** —
+    (a) means a Telecom residential line (other than a party line or a second line) that was an active connection on 20 December 2001; and
+    (b) to avoid doubt, includes any such line that has been replaced or altered since 20 December 2001
   - **existing works** —
     (a) means any works relating to the provision of telecommunications under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; and
     (b) includes, for the purposes of subpart 2 of Part 4, any works relating to any conveyance that constitutes broadcasting under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; but
     (c) does not include any works that, after that date, have been altered or moved or added to in a way that substantially alters their character or location, as the case may be
-  - **financial year** , in relation to a TSO provider, means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year during some or all of which a TSO provider supplies services under a TSO instrument
+  - **fibre-to-the-premises access network** has the meaning set out in section 156AB
+  - **financial year** means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year
   - **fixed PDN** —
     (a) means a PDN, or that part of a PDN, that connects an end-user's building (or, in the case of commercial buildings, the building distribution frames) to a data switch or equivalent facility; and
     (b) includes the data switch or equivalent facility and that part of the overall telecommunications link within the building that connects to the end-user's equipment
@@ -83,21 +88,8 @@ In this Act, unless the context otherwise requires,—
     (b) includes those local switches or equivalent facilities
   - **fixed radio station** means radio apparatus comprising transmitters or receivers, or a combination of transmitters and receivers, installed at a fixed location, for the purposes of carrying on a radiocommunications service
   - **Forum** means the Telecommunications Industry Forum, which is a group that consists of at least 75% of all persons who are, for the time being, registered with the Commission for the purpose of voting on a draft code under clause 4 of Schedule 2
-  - **KSO** —
-    (a) means the obligations that were set out in clause 5 of the First Schedule of the constitution of Telecom (as it read immediately before the commencement of this Act); and
-    (b) includes—
-      (i) the letter of 1 October 1997 headed TELECOM DIRECTORY ASSISTANCE PROPOSAL, from the Minister of Finance to Telecom; and
-      (ii) the letter of 15 September 1999 headed TELECOM 0867 INITIATIVE, from the Minister of Finance to Telecom; and
-      (iii) the letter of 15 September 1999 headed TELECOM 0867 INITIATIVE, from Telecom to the Minister of Finance
-  - **liable person** , in relation to a TSO instrument, means (except when they are the TSO provider),—
-    (a) Telecom; and
-    (b) a person—
-      (i) whose network is interconnected with a fixed PSTN operated by Telecom; and
-      (ii) who provides a telecommunications service in New Zealand to end-users by means of some component of a PSTN that is operated by the person
-  - **liable person's TSO-qualified revenue** means the amount of revenue that, during the financial year, each liable person receives for supplying all or any of the following:
-    (a) telecommunications services by means of its PSTN:
-    (b) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
-    (c) directory services in respect of PSTN numbers
+  - **liability allocation determination** means a determination of the Commission prepared in accordance with section 87(1)(a)
+  - **liable person** means a person who provides a telecommunications service in New Zealand by means of some component of a PTN that is operated by the person
   - **line** —
     (a) means a wire or a conductor of any other kind (including a fibre optic cable) used or intended to be used for the transmission or reception of signs, signals, impulses, writing, images, sounds, instruction, information, or intelligence of any nature by means of any electromagnetic system; and
     (b) includes—
@@ -105,17 +97,14 @@ In this Act, unless the context otherwise requires,—
       (ii) any part of a line
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **net cost** means the unavoidable net incremental costs to an efficient service provider of providing the service required by the TSO instrument to commercially non-viable customers
+  - **Ministry** means the Ministry responsible for administering this Act
+  - **net cost** ,—
+    (a) in relation to an instrument that is declared to be a TSO instrument under section 70, means the unavoidable net incremental cost to an efficient service provider of providing the service required by the TSO instrument to commercially non-viable end-users; and
+    (b) in relation to a deemed TSO instrument, means the unavoidable net incremental cost to an efficient service provider of providing the service required by the TSO instrument to all end-users connected to existing residential lines
   - **network** means a system comprising telecommunication links to permit telecommunication
   - **network operator** means Telecom and any person declared under—
     (a) section 105 to be a network operator for the purposes of this Act or any provision of this Act; or
     (b) section 2A of the 1987 Act (as it read immediately before the commencement of this Act) to be a network operator for the purposes of that Act or any provision of that Act
-  - **original KSO** —
-    (a) means the constitution of Telecom; and
-    (b) includes—
-      (i) the letter of 1 October 1997 headed TELECOM DIRECTORY ASSISTANCE PROPOSAL, from the Minister of Finance to Telecom; and
-      (ii) the letter of 15 September 1999 headed TELECOM 0867 INITIATIVE, from the Minister of Finance to Telecom; and
-      (iii) the letter of 15 September 1999 headed TELECOM 0867 INITIATIVE, from Telecom to the Minister of Finance
   - **party** or means,—
     (a) for a determination made under section 27 or a residual terms determination made under section 30ZB, the access seeker and the access provider of the service; and
     (b) for a standard terms determination made under section 30M, a designated multinetwork service determination made under section 39, or an approved code under Schedule 2, all access seekers and all access providers of the service (whether they became an access seeker or an access provider before or after the determination was made or the code was approved); and
@@ -128,15 +117,23 @@ In this Act, unless the context otherwise requires,—
   - **proposed alteration** has the meaning set out in clause 1(1) of Schedule 3
   - **proposed omission** has the meaning set out in clause 8(1)(a) of Schedule 3
   - **PSTN** or means a dial-up telephone network used, or intended for use, in whole or in part, by the public for the purposes of providing telecommunication between telephone devices
+  - **PTN** or —
+    (a) means a network used, or intended to be used, in whole or in part, by the public for the purpose of telecommunication:
+    (b) includes—
+      (i) a PSTN:
+      (ii) a PDN
   - **public notice** has the meaning set out in section 6
   - **qualified auditor** means a person who is qualified for appointment as an auditor in accordance with any prescribed requirements or, if there are no prescribed requirements, any requirements of the Commission
+  - **qualified revenue** means the revenue (as determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to the liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
+    (a) telecommunications services by means of its PTN:
+    (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN
   - **radio frequency** means electromagnetic waves of frequencies between 9 kilohertz and 3 000 gigahertz, propagated in space without artificial guide
   - **registered undertaking** has the meaning set out in clause 1 of Schedule 3A
   - **road** includes—
     (a) a street and any other place to which the public have access, whether as of right or not; and
     (b) land that is vested in a local authority for the purpose of a road as shown on a deposited survey plan; and
     (c) all bridges, culverts, ferries, and fords that form part of any road, street, or any other place referred to in paragraph (a) or paragraph (b)
-  - **service provider** means a provider of a telecommunications service
+  - **service provider** , except in subpart 3 of Part 4 and Part 4AA, means a provider of a telecommunications service
   - **specified amount** has the meaning set out in section 71A
   - **specified service** means a service described in Part 3 of Schedule 1
   - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993
@@ -153,16 +150,14 @@ In this Act, unless the context otherwise requires,—
   - **telecommunications service** means any goods, services, equipment, and facilities that enable or facilitate telecommunication
   - **telephone device** means any terminal device capable of being used for transmitting or receiving any communications over a network designed for the transmission of voice frequency communication
   - **TSO** or means obligations in relation to a TSO instrument
+  - **TSO charges** means the amounts payable to a TSO provider by the Crown under section 94L(1)
   - **TSO cost allocation determination** means a determination prepared by the Commission in accordance with sections 87 to 91
-  - **TSO cost calculation determination** means a determination prepared by the Commission in accordance with sections 92 to 93E
-  - **TSO instrument** or —
-    (a) means an instrument that is declared to be a TSO instrument under section 70; and
-    (b) to the extent that it applies, includes a deemed TSO instrument
+  - **TSO cost calculation determination** means a determination of the Commission prepared in accordance with section 94J(1)(a)
+  - **TSO instrument** or means—
+    (a) an instrument that is declared to be a TSO instrument under section 70:
+    (b) a deemed TSO instrument
   - **TSO provider** or means a provider of a telecommunications service under a TSO instrument
-  - **TSO provider's TSO-qualified revenue** means the amount of revenue that, during the financial year, each TSO provider receives for supplying all or any of the following:
-    (a) telecommunications services by means of its PSTN:
-    (b) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
-    (c) directory services in respect of PSTN numbers
+  - **wireless works** means any works relating to the provision of any wireless or mobile telecommunications services
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
@@ -210,11 +205,15 @@ This Act binds the Crown.
 
 ### 10 Performance of Commission's functions
 (1) Subject to subsection (2) and sections 15 and 17,—
-  (a) the Telecommunications Commissioner and 2 other members of the Commission must—
+  (a) the Telecommunications Commissioner and no fewer than 2 other members of the Commission must—
     (i) make every determination in respect of a designated multinetwork service under section 39; and
     (ii) make every pricing review determination under section 51; and
-    (iii) make every determination in respect of a TSO instrument under section 90; and
-  (b) the Telecommunications Commissioner must report to the Minister about every alteration to Schedule 1 in any of the ways set out in sections 65 to 67, and the report must include the views of 2 other members of the Commission; and
+    (iii) make every liability allocation determination under section 87; and
+    (iv) make every TSO cost calculation determination under section 94J; and
+  (ab) the determinations referred to in paragraph (a) must, if the Telecommunications Commissioner and the other members of the Commission are not unanimous in their view, be made in accordance with the majority view; and
+  (b) the Telecommunications Commissioner must report to the Minister about every proposed alteration to Schedule 1 in any of the ways set out in sections 66 and 67 following consideration by the Telecommunications Commissioner and no fewer than 2 other members of the Commission in accordance with clause 4 of Schedule 3, and—
+    (i) the recommendation included in the final report to the Minister must be supported by the majority of the Telecommunications Commissioner and the other members of the Commission; and
+    (ii) the final report must include the majority view and any dissenting views; and
   (c) every function of the Commission under this Act (other than any of the functions set out in paragraphs (a) and (b)) must be performed—
     (i) by the Telecommunications Commissioner alone; or
     (ii) if the Telecommunications Commissioner requests the chairperson of the Commission to make 2 other members of the Commission available for the performance of a particular function and the chairperson agrees to that request, by the Telecommunications Commissioner and 2 other members of the Commission.
@@ -290,7 +289,7 @@ A search warrant may be issued under section 98A(2) of the Commerce Act 1986, an
   (a) ascertaining whether a person has done any of the following things:
     (i) committed an offence against section 46(1)(b) or (c) or section 82(1) of this Act:
     (ii) contravened section 103 (except subsection (1)(c)) of the Commerce Act 1986:
-  (b) obtaining information and documents that have been requested by the Commission under section 81(a) of this Act or section 98 of the Commerce Act 1986 and that have not been provided within the required time.
+  (b) obtaining information and documents that have been requested by the Commission under section 82(b) or 83(1)(a) of this Act or section 98 of the Commerce Act 1986 and that have not been provided within the required time.
 
 ### 17 Telecommunications Commissioner to consent to delegation of some functions and powers of Commission
 If there is a Telecommunications Commissioner, the Telecommunications Commissioner's consent must be first obtained for the delegation, under section 73 of the Crown Entities Act 2004, of a function or power of the Commission that would normally be performed or exercised by the Telecommunications Commissioner.
@@ -302,6 +301,7 @@ If there is a Telecommunications Commissioner, the Telecommunications Commission
 ### 18 Purpose
 (1) The purpose of this Part and Schedules 1 to 3 is to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services within New Zealand by regulating, and providing for the regulation of, the supply of certain telecommunications services between service providers.
 (2) In determining whether or not, or the extent to which, any act or omission will result, or will be likely to result, in competition in telecommunications markets for the long-term benefit of end-users of telecommunications services within New Zealand, the efficiencies that will result, or will be likely to result, from that act or omission must be considered.
+(2A) To avoid doubt, in determining whether or not, or the extent to which, competition in telecommunications markets for the long-term benefit of end-users of telecommunications services within New Zealand is promoted, consideration must be given to the incentives to innovate that exist for, and the risks faced by, investors in new telecommunications services that involve significant capital investment and that offer capabilities not available from established services.
 (3) Except as otherwise expressly provided, nothing in this Act limits the application of this section.
 (4) Subsection (3) is for the avoidance of doubt.
 
@@ -1043,7 +1043,6 @@ The purposes of this Part are—
 ### 69C Interpretation
 In this Part, unless the context otherwise requires,—
   - **Minister's determination** means a determination made under section 69F
-  - **Ministry** means the Ministry that is responsible for administering this Act
   - **operational separation** —
     (a) includes the way in which business units are managed or structured, and the type of relationships, dealings, and transactions the units have:
     (b) does not include a requirement that any business unit must be operated by different owners:
@@ -1235,29 +1234,7 @@ In this Part, unless the context otherwise requires,—
   - **prescribed** means prescribed by the Commission.
 
 ### 69ZB Accounting separation of Telecom
-(1) The Commission must require Telecom to prepare and disclose information about the operation and behaviour of all or any of its network, wholesale, or retail business activities as if those activities were operated as independent or unrelated companies.
-(2) The Commission may require Telecom to prepare and disclose separate information about all or part of separate prescribed business activities or separate prescribed services, within the network, wholesale, or retail categories.
-(3) Any requirements under this section must be finalised only after a separation plan has been approved under Part 2A, and must be consistent with that separation plan.
-(4) The Commission may require Telecom to prepare and disclose information consisting of, or about, the following things, as part of the information required under this section:
-  (a) financial statements:
-  (b) asset valuations and valuation reports:
-  (c) prices, terms, and conditions:
-  (d) costs and costs allocation methodologies:
-  (e) contracts:
-  (f) transactions with related parties (as if the test for related parties were the same as the test in section 79):
-  (g) financial and non-financial performance measures:
-  (h) plans and forecasts:
-  (i) transfer payments (whether actual or notional) amongst prescribed business activities:
-  (j) network capacity information:
-  (k) policies and methodologies in these or other areas.
-(5) The Commission may, as part of the information required under this section,—
-  (a) define the prescribed business activities and prescribed services in respect of which Telecom must prepare and disclose information:
-  (b) require Telecom to adopt, in the preparation or compilation of that information, any methodology that is required by the Commission (including the allocation methodology that must be used for preparing the financial statements and allocating the costs, revenues, assets, and liabilities amongst the prescribed business activities and prescribed services):
-  (c) require Telecom to disclose the manner in which methodologies have been applied:
-  (d) prescribe the information that must be included in the financial statements to be prepared and disclosed.
-(6) Before making any requirements under this section, the Commission must hold conferences or consult with persons that the Commission considers have a material interest.
-(7) Telecom must prepare and disclose the information required under this section in accordance with the Commission's requirements.
-(8) Subsections (2), (4), and (5) do not limit subsection (1).
+[Repealed]
 
 ### 69ZC Information disclosure by all access providers
 (1) This section applies—
@@ -1280,7 +1257,7 @@ In this Part, unless the context otherwise requires,—
 (5) Subsection (3) does not limit subsection (2).
 
 ### 69ZD Miscellaneous provisions relating to Commission's information disclosure requirements
-(1) The Commission may, in making requirements under section 69ZB or 69ZC—
+(1) The Commission may, in making requirements under section 69ZC—
   (a) prescribe the form and manner in which information must be disclosed:
   (b) specify a time or date, or times or dates, as at which information must be disclosed:
   (c) require the disclosure of assumptions made in the preparation of the information:
@@ -1337,47 +1314,48 @@ The Commission must, as soon as practicable after the Commission is supplied wit
 
 ### 71 Deemed TSO instrument
 (1) Despite anything to the contrary in section 70, any other enactment, or rule of law, an instrument of the kind referred to in subsection (2) is deemed to be a TSO instrument (deemed TSO instrument) for the purposes of this Part (as if that instrument had been declared to be a TSO instrument under section 70).
-(2) Subsection (1) applies to—
-  (a) the original KSO:
-  (b) any other instrument (new KSO) that—
-    (i) includes or records provisions that are stated in that instrument as operating in place of, and in addition to, the KSO; and
-    (ii) is agreed, or consented to, before the commencement of this Act (even if the new KSO has effect after that date).
+(2) Subsection (1) applies to any other instrument that—
+  (a) includes or records provisions that state that the parties intend the instrument to be a deemed TSO instrument under this Act; and
+  (b) is conditional on, or entered into as a consequence of, the structural separation of Telecom.
 
-### 71A TSO instrument or deemed TSO instrument may specify total amount payable by all liable persons
-A TSO instrument or a deemed TSO instrument may specify the total amount payable by all liable persons and the TSO provider under the instrument for each financial year of the TSO provider (the specified amount).
+### 71A TSO instrument may specify total amount payable by the Crown
+(1) A TSO instrument may specify the total amount payable by the Crown under the instrument for each financial year (the specified amount).
+(2) The total amount may be specified as—
+  (a) a fixed monetary amount; or
+  (b) a capped monetary amount; or
+  (c) an indexed monetary amount; or
+  (d) a formula for the calculation of a monetary amount; or
+  (e) any combination of paragraphs (a) to (d).
 
 ### 72 New KSO does not alter or revoke constitution of Telecom
-To avoid doubt, the new KSO does not alter or revoke the constitution of Telecom.
+[Repealed]
 
 ### 73 When KSO part of original KSO ceases to have effect
-(1) If there is a new KSO that is a deemed TSO instrument and the original KSO is still a deemed TSO instrument, then, subject to the provisions of the new KSO, the KSO ceases to have effect during the period that the new KSO is a deemed TSO instrument.
-(2) If the new KSO ceases to be a deemed TSO instrument and the original KSO has not ceased to be a deemed TSO instrument under section 76, the original KSO applies instead of the new KSO.
+[Repealed]
 
 ### 74 Compliance with TSO instrument
-(1) Subject to subsection (2), a TSO provider must comply with the terms of a TSO instrument.
-(2) The statutory duty in subsection (1) does not—
-  (a) apply in respect of a TSO instrument that is the constitution of a company in which the Crown is a shareholder; or
-  (b) limit or affect any right, duty, liability, or remedy in respect of a TSO instrument that exists or is available apart from this Act.
+(1) A TSO provider must comply with the terms of a TSO instrument.
+(2) The statutory duty in subsection (1) does not limit or affect any right, duty, liability, or remedy in respect of a TSO instrument that exists or is available apart from this Act.
 
-### 75 Variation of TSO instrument or deemed TSO instrument
+### 75 Variation of TSO instrument
 A variation of—
-  (a) a TSO instrument must be treated as part of the TSO instrument as long as the TSO instrument continues to meet the requirements set out in section 70(4):
+  (a) an instrument that is declared to be a TSO instrument under section 70 must be treated as part of the TSO instrument as long as the TSO instrument continues to meet the requirements set out in section 70(4):
   (b) a deemed TSO instrument must be treated as part of the deemed TSO instrument.
 
-### 76 When instrument ceases to be TSO instrument or deemed TSO instrument
-(1) An instrument ceases to be a TSO instrument or deemed TSO instrument (as the case may be),—
-  (a) in the case of a TSO instrument to which section 70 applies, when the Governor-General, by Order in Council made on the recommendation of the Minister, revokes the declaration of that TSO instrument; or
-  (b) in the case of a deemed TSO instrument, on a date to be appointed by the Governor-General by Order in Council made on the recommendation of the Minister; or
-  (c) in the case of a TSO instrument or a deemed TSO instrument, when the TSO instrument or the deemed TSO instrument, as the case may be, has been terminated under, and in accordance with, the instrument concerned.
+### 76 When instrument ceases to be TSO instrument
+(1) An instrument ceases to be a TSO instrument,—
+  (a) in the case of an instrument that is declared to be a TSO instrument under section 70, if the Governor-General, by Order in Council made on the recommendation of the Minister, revokes the declaration of that TSO instrument; or
+  (b) in the case of a deemed TSO instrument, on a date appointed by the Governor-General by Order in Council made on the recommendation of the Minister; or
+  (c) if the instrument is terminated in accordance with its terms.
 (2) The Minister must not make a recommendation under subsection (1)(a) or (b) unless,—
-  (a) in the case of a TSO instrument, the service provider to whom that instrument applies agrees to the revocation of the declaration made under section 70; or
+  (a) in the case of an instrument that is declared to be a TSO instrument under section 70, the service provider to whom that instrument applies agrees to the revocation of the declaration; or
   (b) in the case of a deemed TSO instrument, the service provider to whom that instrument applies agrees to that instrument ceasing to have effect as a deemed TSO instrument.
 
-### 77 Notification of TSO instrument or deemed TSO instrument
+### 77 Notification of TSO instrument
 (1) The Minister must notify the Commission of—
-  (a) the declaration of every TSO instrument; and
+  (a) every instrument that is declared to be a TSO instrument under section 70; and
   (b) every deemed TSO instrument.
-(2) The Commission must give public notice of every TSO instrument and deemed TSO instrument.
+(2) The Commission must give public notice of every TSO instrument.
 
 ### 78 Application of Commerce Act 1986
 Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or a contract, arrangement, or understanding to which the TSO instrument relates or any matter necessary for giving effect to the TSO instrument or the contract, arrangement, or understanding.
@@ -1394,184 +1372,254 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
   (a) those bodies corporate are in competition in the same market; or
   (b) one of them supplies goods or services to the other.
 
-### Subpart 2 — Annual procedure for determining amounts payable by liable persons
+### Subpart 2 — Amounts payable by liable persons to the Crown
 
-**Assessment of compliance**
+**Annual procedure for determining amounts payable by liable persons to the Crown**
 
-### 80 Assessment of compliance with TSO instrument
-Not later than 60 working days after the end of each financial year of a TSO provider under a TSO instrument, the Commission must—
-  (a) assess the TSO provider's compliance with the TSO instrument during that financial year in accordance with any process set out in the TSO instrument; and
-  (b) notify the TSO provider and the Minister in writing of any non-compliance by the TSO provider with the TSO instrument.
+### 80 Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **financial statements** ,—
+  (a) except if section 79 applies, has the same meaning as in section 8 of the Financial Reporting Act 1993; and
+  (b) if section 79 applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in section 3 of the Financial Reporting Act 1993
+  - **minimum telecommunications revenue** means $10 million, or such other amount, as may be prescribed by regulations made under section 101(1)(a), of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
+    (a) telecommunications services by means of its PTN:
+    (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN.
 
 **Requirement to produce certain information**
 
-### 81 Liable persons and TSO provider must produce certain information to Commission
-Not later than 60 working days after the end of each financial year of a TSO provider under a TSO instrument, every liable person in relation to the TSO instrument and (if the TSO instrument does not contain a specified amount) the TSO provider must provide to the Commission—
-  (a) any prescribed information or, if there is no prescribed information, information specified by the Commission, for the purpose of enabling the Commission to prepare a draft determination under section 88(1)(a) and (b) and to make its determination under section 91(1)(a) and (b); and
-  (b) a report prepared by a qualified auditor that includes a statement of whether or not the information complies with—
-    (i) any prescribed requirements relating to that information; or
-    (ii) if there are no prescribed requirements, any requirements of the Commission.
+### 81 Subpart does not apply to certain liable persons
+(1) This subpart does not apply to a liable person in respect of a financial year (financial year A) if—
+  (a) the liable person was not trading in the financial year preceding financial year A; or
+  (b) the liable person's telecommunications revenue for the year preceding financial year A was less than the minimum telecommunications revenue.
+(2) For the purpose of determining whether a person is a liable person to whom this subpart applies in respect of a financial year, the Commission may, by written notice to that person, require the person to provide to the Commission, within the time specified in the notice,—
+  (a) a copy of the person's financial statements for the year preceding financial year A; and
+  (b) any further information specified by the Commission for the purpose of enabling it to verify the telecommunications revenue of that person for the year preceding financial year A; and
+  (c) a certificate that complies with subsection (3).
+(3) A certificate complies with this subsection if—
+  (a) it certifies the person's telecommunications revenue for the year preceding financial year A; and
+  (b) it is signed by 2 directors of the person with the authority of the other directors.
 
-### 82 Offences
-[Repealed]
+### 82 Liable persons must produce information on qualified revenue
+Not later than 60 working days before the end of each financial year (financial year A), each liable person must provide to the Commission a copy of—
+  (a) its financial statements for the financial year preceding financial year A; and
+  (b) any further information specified by the Commission for the purpose of enabling it to verify the qualified revenue of that person for the financial year preceding financial year A.
 
 **Net cost**
 
-### 83 Calculations of net cost and auditor's report must be given to Commission
-Not later than 60 working days after the end of each financial year of a TSO provider under a TSO instrument that does not contain a specified amount, the TSO provider must provide to the Commission—
-  (a) calculations of the net cost of complying with the TSO instrument during the financial year; and
-  (b) a report prepared by a qualified auditor (the auditor's report) that includes a statement of whether or not the calculations comply with—
-    (i) any prescribed requirements relating to those calculations; or
-    (ii) if there are no prescribed requirements, any requirements of the Commission.
+### 83 Liable persons must produce information for purposes of liability allocation determination
+(1) Not later than 60 working days after the end of each financial year, each liable person must provide to the Commission—
+  (a) all prescribed information or, if there is no prescribed information, information specified by the Commission, for the purpose of enabling the Commission to make its determination in accordance with section 88(a); and
+  (b) a report that complies with subsection (2).
+(2) A report complies with this subsection if—
+  (a) it is prepared by a qualified auditor; and
+  (b) it includes a statement of the extent to which the information provided by the liable person under subsection (1)(a) is correct and complete.
 
-### 84 Considerations for determining net cost
-(1) Subject to subsections (2) and (3), in calculating the net cost under section 83, preparing a draft determination of the net cost under section 93A, and determining the net cost under section 93E, all of the following matters must be taken into account:
-  (a) the range of direct and indirect revenues and associated benefits derived from providing telecommunications services to commercially non-viable customers, less the costs of providing those telecommunications services to those customers:
-  (b) the provision of a reasonable return on the incremental capital employed in providing the services to those customers.
-(2) In preparing a draft determination of the net cost under section 93A and determining the net cost under section 93E, the Commission—
-  (a) may choose to not include profits from any new telecommunications services that involve significant capital investment and that offer capabilities not available from established telecommunications services; and
-  (b) must not include any losses from telecommunications services other than services that the TSO instrument requires the TSO provider to provide; and
-  (c) must consider the purpose set out in section 18.
-(3) In calculating the net cost under section 83, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (2)(a) to (c).
-(4) In this section,—
-  - **established telecommunications services** means telecommunications services that are not new telecommunications services
-  - **new telecommunications services** means telecommunications services that were first provided in New Zealand within 5 years before the commencement of the financial year to which the calculation of the net cost relates.
+### 84 Commission to prepare draft liability allocation determination
+(1) The Commission must—
+  (a) prepare a draft liability allocation determination for each financial year; and
+  (b) give public notice of that draft determination; and
+  (c) include in the public notice the closing date for submissions, which must be not later than 20 working days after the date of giving public notice.
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 80 working days after the end of the financial year.
 
 **Amount of revenue received by liable persons in relation to TSO instrument**
 
-### 85 Considerations for determining which revenue basis to use
-(1) In preparing a draft determination referred to in section 88 and a final determination referred to in section 91, the Commission may use either—
-  (a) a revenue basis where there are no weights attached to any revenue amount referred to in section 88(1)(a) or (b) or section 91(1)(a) or (b); or
-  (b) a weighted revenue basis where each revenue amount referred to in section 88(1)(a) or (b) or section 91(1)(a) or (b) is multiplied by a weight.
-(2) In deciding which revenue basis to use under subsection (1) for the purposes of calculating, under section 93, the amount payable by a liable person in relation to a TSO instrument, the Commission must—
-  (a) consider the purpose set out in section 18; and
-  (b) choose the method that the Commission considers best gives, or is likely to best give, effect to that purpose.
-(3) For the purposes of subsection (1), a weighted revenue basis involves both of the following steps:
-  (a) identifying categories of telecommunications services that are likely to have the same market elasticity of demand:
-  (b) estimating the market elasticity of demand for each category of telecommunications services by using a recognised econometric method or other recognised estimation method.
-(4) The Commission must, when applying both of the steps set out in subsection (3)(a) and (b) for the purposes of calculating, under section 93, the amount payable by a liable person in relation to a TSO instrument, consider the ability of—
-  (a) the liable person to pass on to end-users of telecommunications services the amount payable by the liable person; and
-  (b) the TSO provider to pass on to end-users of telecommunications services the net cost of complying with the TSO instrument less any amount payable by liable persons.
-(5) For the purposes of subsection (4), the Commission must not consider any reduction for non-compliance with the TSO instrument.
+### 85 Matters to be included in draft liability allocation determination
+(1) A draft liability allocation determination must include—
+  (a) the amount of each liable person's qualified revenue; and
+  (b) the amount of the telecommunications development levy payable by each liable person for the financial year, calculated in accordance with the following formula:a×cbwhere—ais the amount of the liable person's qualified revenuebis the sum of all liable persons' qualified revenuecis the telecommunications development levy specified for the relevant year in Schedule 3B; and
+  (c) the methodology applied by the Commission in preparing the determination; and
+  (d) the reasons for the determination.
+(2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(a) (for example, a net revenue basis).
 
 **General provision relating to TSO cost allocation determination and TSO cost calculation determination**
 
-### 86 Commission may determine priority between preparation of TSO cost allocation determination and TSO cost calculation determination
-(1) The Commission may determine the priority between the preparation of the TSO cost allocation determination and the TSO cost calculation determination and, accordingly, may comply with sections 87 to 91 and sections 92 to 93E in the sequence, as between those two sets of sections, it thinks fit.
-(2) However, the Commission must prepare a final TSO cost allocation determination before preparing a final TSO cost calculation determination for a financial year.
+### 86 Conferences on draft liability allocation determination
+The Commission may—
+  (a) hold conferences in relation to the draft liability allocation determination; and
+  (b) invite to those conferences any person who has a material interest in the determination.
 
 **TSO cost allocation determination**
 
-### 87 Commission to prepare draft TSO cost allocation determination
-The Commission must make reasonable efforts to do the following things not later than 80 working days after the end of each financial year of a TSO provider under a TSO instrument:
-  (a) prepare a draft TSO cost allocation determination:
-  (b) give public notice of that draft determination:
-  (c) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice.
+### 87 Commission to prepare final liability allocation determination
+(1) The Commission must—
+  (a) prepare a final liability allocation determination; and
+  (b) give public notice of that final determination; and
+  (c) give a copy of that final determination to all liable persons.
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 20 working days after the closing date for submissions specified in accordance with section 84(1)(c).
 
-### 88 Matters to be included in draft TSO cost allocation determination
-(1) A draft TSO cost allocation determination must include—
-  (a) the amount of each TSO provider's TSO-qualified revenue; and
-  (b) the amount of each liable person's TSO-qualified revenue; and
-  (c) a statement that identifies which revenue basis has been used under section 85(1) in respect of each amount of revenue to which the draft determination applies; and
-  (d) if a weighted revenue basis has been used for any amount of revenue, the particulars of the weighting attached to that amount of revenue; and
-  (e) the revenue amounts that will be used for the purposes of calculating, under section 93F, the amount payable by each liable person in relation to each TSO instrument; and
-  (f) the methodology applied by the Commission in making the determination; and
-  (g) the reasons for the determination.
-(2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(c) (for example, a net-revenue basis).
+### 88 Matters to be included in final liability allocation determination
+A final liability allocation determination must include—
+  (a) the amount of each liable person's qualified revenue; and
+  (b) the amount of the telecommunications development levy payable by each liable person, calculated in accordance with the formula set out in section 85(1)(b); and
+  (c) the methodology applied by the Commission in preparing the determination; and
+  (d) the reasons for the determination.
 
-### 89 Conferences on draft TSO cost allocation determination
-The Commission may—
-  (a) hold conferences in relation to a draft TSO cost allocation determination; and
-  (b) invite to those conferences any person who has a material interest in a matter to be determined.
+### 89 Payment by liable persons to the Crown
+(1) Each liable person must pay to the Crown the amount set out in the determination in accordance with section 88(b) not later than 20 working days after the date that the determination is publicly notified.
+(2) If that amount is not paid on or before the due date,—
+  (a) it is recoverable in any court of competent jurisdiction as a debt due to the Crown; and
+  (b) the liable person must pay the Crown interest on the unpaid amount at the 90-day bank bill rate (as at 21 working days after the date on which the determination is publicly notified) plus 5% for the period from the time the amount was due until the time at which it is paid.
+(3) Subsection (2) does not authorise the imposing of interest on interest.
 
-### 90 Commission to prepare final TSO cost allocation determination
-The Commission must make reasonable efforts to do the following things not later than 20 working days after the closing date for submissions under section 87(c):
-  (a) prepare a final TSO cost allocation determination:
-  (b) give public notice of that final determination:
-  (c) give a copy of that final determination to all liable persons and TSO providers in relation to each TSO instrument.
+**General matters**
 
-### 91 Matters to be included in final TSO cost allocation determination
-(1) A final TSO cost allocation determination under section 90 must include—
-  (a) the amount of each TSO provider's TSO-qualified revenue; and
-  (b) the amount of each liable person's TSO-qualified revenue; and
-  (c) a statement that identifies which revenue basis has been used under section 85(1) in respect of each amount of revenue to which the final determination applies; and
-  (d) if a weighted revenue basis has been used for any amount of revenue, the particulars of the weighting attached to that amount of revenue; and
-  (e) the revenue amounts that have been used for the purposes of calculating, under section 93F, the amount payable by each liable person in relation to each TSO instrument; and
-  (f) the percentage of the net cost under section 93E(a) or, as the case may be, the specified amount to be paid by each liable person in relation to the TSO instrument to the TSO provider in respect of the financial year calculated in accordance with section 93F.
-(2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(c) (for example, a net-revenue basis).
+### 90 Crown use of telecommunications development levy
+(1) The amounts paid by liable persons under section 89 (collectively, the telecommunications development levy) may be used for the following purposes:
+  (a) to pay TSO charges:
+  (b) to pay for non-urban telecommunications infrastructure development:
+  (c) to pay for upgrades to the emergency service calling system:
+  (d) any other purpose that the Minister considers will facilitate the supply of certain telecommunications services to groups of end-users within New Zealand to whom those telecommunications services may not otherwise be supplied on a commercial basis or at a price that is considered by the Minister to be affordable to those groups of end-users.
+(2) The telecommunications development levy must not be used for a purpose under subsection (1)(d) unless the Minister has first consulted liable persons and any persons and organisations that the Minister considers appropriate having regard to the proposed use of the levy.
+(3) To avoid doubt, except as provided in section 94L, nothing in this section requires the Crown to use any amount paid by liable persons under section 89 within any particular time.
+
+### 91 Commission must notify final liability allocation determination before notifying TSO cost calculation determination
+(1) The Commission may determine the priority between the preparation of a liability allocation determination and the preparation of a TSO cost calculation determination and, accordingly, may comply with sections 84 to 88 and sections 94F to 94K in the sequence, as between those 2 sets of sections, as it thinks fit.
+(2) However, the Commission must publicly notify a final liability allocation determination for each financial year in accordance with section 87(1)(b) before it publicly notifies any final TSO cost calculation determination for that financial year in accordance with section 94J(1)(b).
 
 **TSO cost calculation determination**
 
-### 92 Commission to prepare draft TSO cost calculation determination
-The Commission must make reasonable efforts to do the following things not later than 120 working days after the end of each financial year of a TSO provider under a TSO instrument:
-  (a) prepare a draft TSO cost calculation determination:
-  (b) give public notice of that draft determination:
-  (c) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice.
+### 92 Annual telecommunications development levy may be reduced by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 3B by reducing the annual telecommunications development levy set out in that schedule for 1 or more future years.
+(2) The Minister must not recommend the making of an order unless the Minister is satisfied that the full amount set out in Schedule 3B is not required for the purposes in section 90.
 
-### 93 Requirements for draft TSO cost calculation determination
-In preparing a draft TSO cost calculation determination of the matters referred to in section 93A(c), the Commission must consider the steps (if any) taken by the TSO provider between the time of any notification under section 80(b) and 15 working days before public notice is given under section 92(b) to remedy any non-compliance by the TSO provider with the TSO instrument.
+### Subpart 2A — TSO charges payable by the Crown
+
+**Assessment of compliance**
+
+### 93 Assessment of compliance with TSO instrument
+Not later than 60 working days after the end of each financial year, the Commission must—
+  (a) assess a TSO provider's compliance with its TSO instrument during that financial year in accordance with any process set out in the TSO instrument; and
+  (b) notify the TSO provider and the Minister, in writing, of any non-compliance by the TSO provider with the TSO instrument.
 
 ### 93A Matters to be included in draft TSO cost calculation determination
-A draft TSO cost calculation determination must include,—
-  (a) if the TSO instrument does not contain a specified amount, the net cost under section 93E(a) and all material information that—
-    (i) relates to the calculation of the net cost; and
-    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
-  (b) if the TSO instrument contains a specified amount, the dollar amount of the specified amount and all material information that—
-    (i) relates to the calculation of that amount; and
-    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
-  (c) in all cases, the amount (if any) by which the total amount that the TSO provider would receive from all liable persons in relation to the TSO instrument must be reduced because the TSO provider has not complied with the TSO instrument; and
-  (d) the methodology applied by the Commission in making the determination; and
-  (e) the reasons for the determination.
+[Repealed]
 
 ### 93B Conferences on draft TSO cost calculation determination
-The Commission may—
-  (a) hold conferences in relation to a draft TSO cost calculation determination; and
-  (b) invite to those conferences any person who has a material interest in a matter to be determined.
+[Repealed]
 
 ### 93C Commission to prepare final TSO cost calculation determination
-The Commission must make reasonable efforts to do the following things not later than 40 working days after the closing date for submissions under section 92(c):
-  (a) prepare a final TSO cost calculation determination:
-  (b) give public notice of that final determination:
-  (c) give a copy of that final determination to all liable persons and the TSO providers in relation to the TSO instrument.
+[Repealed]
 
 ### 93D Requirements for final TSO cost calculation determination
-In making a final TSO cost calculation determination of the matters referred to in section 93E(c), the Commission must consider the steps (if any) taken by the TSO provider between 15 working days before the date on which public notice is given under section 92(b) and 15 working days before the date on which public notice is given under section 93C(b) to remedy any non-compliance by the TSO provider with the TSO instrument.
+[Repealed]
 
 ### 93E Matters to be included in final TSO cost calculation determination
-A final cost calculation determination made under section 93C must include,—
-  (a) if the TSO instrument does not contain a specified amount, the net cost to the TSO provider of complying with the TSO instrument during the TSO provider's financial year and all material information that—
-    (i) relates to the calculation of the net cost; and
-    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
-  (b) if the TSO instrument contains a specified amount, the dollar amount of the specified amount and all material information that—
-    (i) relates to the calculation of that amount; and
-    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
-  (c) in all cases, the amount (if any) by which the total amount that the TSO provider would receive from all liable persons in relation to the TSO instrument must be reduced because the TSO provider has not complied with the TSO instrument; and
-  (d) an amount payable by each liable person in relation to the TSO instrument to the TSO provider in respect of the financial year calculated in accordance with section 93F; and
-  (e) an amount payable by each liable person in relation to the TSO instrument to the TSO provider for the loss of use of the amount referred to in paragraph (d), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the TSO provider's financial year and ending with the date of the final determination.
+[Repealed]
 
 **Calculation of amount payable by liable person**
 
 ### 93F Calculation of amount payable by liable person
-The amount payable by a liable person in relation to a TSO instrument that must be contained in the Commission's final TSO cost calculation determination made under section 93C is,—
-  (a) for a TSO instrument that contains a specified amount, the amount calculated using the following formula:
-  (b) for a TSO instrument that does not contain a specified amount, the amount calculated using the following formula:where—
-    (a) is the amount of the liable person's TSO-qualified revenue that is referred to in section 91(1)(b) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
-    (b) is the amount of the TSO provider's TSO-qualified revenue referred to in section 91(1)(a) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
-    (c) is the sum of the amounts of each liable person's TSO-qualified revenue referred to in section 91(1)(b)
-    (d) is the specified amount
-    (e) is the amount of the reduction (if any) referred to in section 93E(c)
-    (f) is the net cost referred to in section 93E(a).
+[Repealed]
 
-### 94 Payment by liable persons to TSO provider
-(1) A liable person in relation to a TSO instrument must pay to the TSO provider the amounts set out in the determination under section 93E(d) and (e) not later than 20 working days after the date of the determination.
-(2) Any amount that is not paid, under subsection (1), to the TSO provider by a liable person in relation to a TSO instrument before the expiration of the 20-working day period is recoverable in any court of competent jurisdiction as a debt due to the TSO provider.
-(3) If a liable person has not paid the whole amount referred to in subsection (1) before the expiration of the 20-working day period, the liable person must pay to the TSO provider interest on the unpaid amount at the 90-day bank bill rate (as at 21 working days after the date of the determination), plus 5% for the period commencing on that working day to the date of payment of the whole amount.
-(4) Subsection (3) does not authorise the giving of interest upon interest.
+**TSO provider may request TSO cost calculation determination**
+
+### 94 TSO provider under TSO instrument without specified amount may request TSO cost calculation determination
+(1) If a TSO provider under a TSO instrument that does not contain a specified amount wishes to have the TSO charges for the instrument determined in respect of a financial year, the TSO provider must notify the Commission that it wishes to invoke the procedure in sections 94D to 94K for the preparation of a TSO cost calculation determination for that financial year.
+(2) The notification must be—
+  (a) in writing; and
+  (b) given not later than 90 working days after the end of the relevant financial year.
 
 **Calculation of amount payable by TSO provider**
 
-### 94A TSO provider must meet residual amount from calculation of TSO charge
-The TSO provider must meet any amount that remains after subtracting all of the amounts payable by liable persons under section 93F from the net cost to the TSO provider of complying with the TSO instrument during the TSO provider's financial year or, as the case may be, the specified amount.
+### 94A TSO provider who requests TSO cost calculation determination liable for costs in certain circumstances
+(1) A TSO provider who notifies the Commission under section 94 must, if the Commission determines the TSO charges for the instrument to be zero, pay the costs of the Commission relating to the procedure in sections 94F to 94K for the preparation of the TSO cost calculation determination (including the costs of any expert advice) as directed by the Commission in writing.
+(2) The Commission may enforce a direction given under subsection (1) by filing it in the prescribed form in the Wellington Registry of the High Court.
+(3) A direction that is filed in the Registry of the High Court under this section is enforceable as a judgment of the High Court in its civil jurisdiction.
+
+### 94B Withdrawal of request for TSO cost calculation determination
+(1) A TSO provider who notifies the Commission under section 94 may subsequently withdraw its request for a TSO cost calculation determination.
+(2) The withdrawal must be made by submitting a notice in writing to the Commission before the Commission publicly notifies its final TSO cost calculation determination under section 94J(1)(b).
+(3) A TSO provider who withdraws a request for a TSO cost calculation determination must pay the costs of the Commission (including the costs of any expert advice) relating to as much of the procedure in sections 94F to 94K as has been undertaken in preparing the determination before the withdrawal, as directed by the Commission in writing.
+(4) Section 94A(2) and (3) apply to the enforcement of the direction.
+
+### 94C TSO charges deemed to be zero if TSO provider does not request TSO cost calculation determination
+If a TSO provider under a TSO instrument that does not contain a specified amount does not notify the Commission in accordance with section 94,—
+  (a) sections 91 and 94D to 94L do not apply in respect of the TSO provider or TSO instrument; and
+  (b) the TSO charges for the instrument are deemed to be zero.
+
+**Annual procedure for determining TSO charges payable by the Crown**
+
+### 94D Calculations of net cost and auditor's report must be given to Commission
+(1) Not later than 90 working days after the end of each financial year, a TSO provider under a TSO instrument that does not contain a specified amount must provide to the Commission—
+  (a) calculations of the net cost to the TSO provider of complying with the TSO instrument during the financial year; and
+  (b) a report prepared by a qualified auditor that includes a statement of whether or not the calculations comply with—
+    (i) any prescribed requirements relating to those calculations; and
+    (ii) any requirements of the Commission.
+(2) This section is subject to section 94C.
+
+### 94E Considerations for determining net cost
+(1) In calculating the net cost under section 94D and calculating the net cost for the purposes of a draft TSO cost calculation determination under section 94F and a final TSO cost calculation determination under section 94J, the following must be taken into account:
+  (a) in the case of an instrument that is declared to be a TSO instrument under section 70, the range of direct and indirect revenues and associated benefits derived from providing telecommunications services to commercially non-viable end-users, less the costs of providing those services to those end-users:
+  (b) in the case of a deemed TSO instrument, the range of direct and indirect revenues and associated benefits derived from providing telecommunications services to all end-users connected to existing residential lines, less the costs of providing those services to those end-users:
+  (c) the provision of a reasonable return on the incremental capital employed in providing those services to end-users.
+(2) Subsection (1) is subject to subsections (3) and (4).
+(3) In calculating the net cost for the purposes of a draft TSO cost calculation determination under section 94F and a final TSO cost calculation determination under section 94J, the Commission—
+  (a) may choose not to include profits from any new telecommunications services that involve significant capital investment and that offer capabilities not available from established telecommunications services; and
+  (b) must not include any losses from telecommunications services other than services that the TSO instrument requires the TSO provider to provide; and
+  (c) must consider the purpose set out in section 18.
+(4) In calculating the net cost under section 94D, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (3)(a) to (c).
+(5) In this section,—
+  - **established telecommunications services** means telecommunications services that are not new telecommunications services
+  - **new telecommunications services** means telecommunications services that were first provided in New Zealand within 5 years before the start of the financial year to which the calculation of the net cost relates.
+
+### 94F Commission to prepare draft TSO cost calculation determination
+(1) The Commission must—
+  (a) prepare a draft TSO cost calculation determination in respect of each TSO instrument for each financial year; and
+  (b) give public notice of that draft determination; and
+  (c) include in the public notice the closing date for submissions, which must be not later than 20 working days after the date of giving public notice.
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 120 working days after the end of the financial year.
+(3) This section is subject to sections 94 and 94C.
+
+### 94G Matters to be included in draft TSO cost calculation determination
+A draft TSO cost calculation determination must include,—
+  (a) if the TSO instrument does not contain a specified amount, the net cost to the TSO provider of complying with the TSO instrument during the financial year and all material information that—
+    (i) relates to the calculation of the net cost; and
+    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
+  (b) if the TSO instrument contains a specified amount, the dollar amount of the specified amount and all material information that—
+    (i) relates to the calculation of that amount; and
+    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
+  (c) the amount (if any) by which the total amount that the TSO provider would receive from the Crown in relation to the TSO instrument must be reduced because the TSO provider has not complied with the TSO instrument; and
+  (d) the methodology applied by the Commission in preparing the determination; and
+  (e) the reasons for the determination.
+
+### 94H Requirements for draft TSO cost calculation determination
+In preparing a draft TSO cost calculation determination of the matters referred to in section 94G(c), the Commission must consider the steps taken (if any) by the TSO provider to remedy any non-compliance by the TSO provider with the TSO instrument between the date the TSO provider was notified of the non-compliance under section 93(b) and the date that is 15 working days before public notice is given under section 94F(1)(b).
+
+### 94I Conferences on draft TSO cost calculation determination
+The Commission may—
+  (a) hold conferences in relation to a draft TSO cost calculation determination; and
+  (b) invite to those conferences any person who has a material interest in the determination.
+
+### 94J Commission to prepare final TSO cost calculation determination
+(1) The Commission must—
+  (a) prepare a final TSO cost calculation determination; and
+  (b) give public notice of that final determination; and
+  (c) give a copy of that final determination to the Minister, all liable persons, and the TSO providers in relation to the TSO instrument.
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 40 working days after the closing date for submissions specified in accordance with section 94F(1)(c).
+(3) This section is subject to sections 94 and 94C.
+
+### 94K Matters to be included in final TSO cost calculation determination
+(1) A final TSO cost calculation determination must include,—
+  (a) if the TSO instrument does not contain a specified amount, the net cost to the TSO provider of complying with the TSO instrument during the financial year and all material information that—
+    (i) relates to the calculation of the net cost; and
+    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
+  (b) if the TSO instrument contains a specified amount, the dollar amount of the specified amount and all material information that—
+    (i) relates to the calculation of that amount; and
+    (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
+  (c) the amount (if any) by which the total amount that the TSO provider would receive from the Crown in relation to the TSO instrument must be reduced because the TSO provider has not complied with the TSO instrument; and
+  (d) the amount payable by the Crown to the TSO provider in relation to the TSO instrument in respect of the financial year calculated,—
+    (i) in the case of a TSO instrument that does not contain a specified amount, by subtracting the amount of the reduction (if any) referred to in paragraph (c) from the net cost referred to in paragraph (a); and
+    (ii) in the case of a TSO instrument that contains a specified amount, by subtracting the amount of the reduction (if any) referred to in paragraph (c) from the specified amount referred to in paragraph (b); and
+  (e) the amount payable by the Crown to the TSO provider in relation to the TSO instrument for the loss of use of the amount referred to in paragraph (d), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the financial year and ending with the date of the final TSO cost calculation determination; and
+  (f) the methodology used by the Commission in preparing the determination; and
+  (g) the reasons for the determination.
+(2) To avoid doubt, if the calculation under subsection (1)(a) or (b) results in a figure that is zero or less, the amount for the purposes of subsection (1)(d) and (e), and that must be included in the determination, is zero.
+
+### 94L Payment by the Crown to TSO provider
+(1) The Crown must pay to the TSO provider, not later than 30 working days after the date that the final TSO cost calculation determination is publicly notified,—
+  (a) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)(d); and
+  (b) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)(e).
+(2) If the Crown does not pay the total of the amounts referred to in subsection (1) on or before the due date, the Crown must pay the TSO provider interest on the unpaid amount at the 90-day bank bill rate (as at 31 working days after the date on which the final cost calculation determination is publicly notified) plus 5% for the period from the time the amount was due until the time at which it is paid.
 
 ### Subpart 3 — Remedies and miscellaneous
 
@@ -1600,19 +1648,19 @@ None of the following prevents the court from making an order under section 96:
   (b) the fact that services are provided under the TSO instrument to a person other than, or in addition to, the Crown.
 
 ### 99 Amounts identifying particular TSOs in invoices not permitted
-(1) A liable person in relation to a TSO instrument may, without identifying a particular TSO, include in its invoices for any class of that liable person's customers, an item that relates to the amount allocated in respect of the TSO to which the TSO instrument applies.
-(2) If the liable person referred to in subsection (1) is a liable person in relation to more than 1 TSO instrument, and includes in its invoices for any class of that liable person's customers, an item that relates to the amount allocated in respect of the TSOs to which the relevant TSO instruments apply, the liable person must aggregate the charges for these items.
-(3) To avoid doubt, if more than 1 TSO is to be charged to any class of customers of a liable person in relation to a TSO instrument, the liable person's invoices for each of those customers must not identify each TSO separately.
+[Repealed]
 
 **Miscellaneous**
 
 ### 100 Right of appeal to High Court
-(1) The following persons may appeal to the High Court against the following matters:
-  (a) in the case of an appeal against a determination of the Commission on a matter referred to in section 93E(a), the TSO provider to whom the assessment applies and every liable person in relation to the TSO instrument to which the determination applies:
-  (b) in the case of an appeal against a determination of the Commission on a matter referred to in section 91(1)(a), the TSO provider to whom the assessment applies:
-  (c) in the case of an appeal against a determination of the Commission on a matter referred to in section 91(1)(b), the liable person to whom the assessment applies:
-  (d) in the case of an appeal against a determination of the Commission on a matter referred to in section 93E(c), the TSO provider to whom the assessment applies.
+(1) The following persons and (as applicable) the Crown may appeal to the High Court against the following matters:
+  (a) a liable person, against a determination of the Commission, in relation to that person, of the matter referred to in section 88(a):
+  (b) a TSO provider, against a direction of the Commission under section 94A(1) or 94B(3):
+  (c) a liable person, TSO provider, or the Crown, against a determination of the Commission in respect of a matter referred to in section 94K(1)(a) to (g).
 (2) An appeal under subsection (1) may be on a question of law only.
+(3) If an appeal or judicial review proceedings are commenced about a liability allocation determination, TSO cost calculation determination, or direction under section 94A(1), the determination or direction continues to have effect and is enforceable as if the proceedings had not been commenced until the proceedings are finally disposed of.
+(4) To avoid doubt, the obligations to pay money imposed by sections 89 and 94L continue to have effect and are enforceable despite any appeal or judicial review proceedings about a determination that relates to those payments, until the proceedings are finally disposed of.
+(5) TSO provider, in subsection (1), means the TSO provider under the TSO instrument to which the direction or determination relates.
 
 ### 100A Procedure for determinations
 For a determination made under this Part, the Commission—
@@ -1622,8 +1670,8 @@ For a determination made under this Part, the Commission—
 
 ### 100B Commission must include information about deemed TSO instrument in TSO cost calculation determinations
 (1) The Commission must include the information specified in subsection (2) in a—
-  (a) draft TSO cost calculation determination under section 92 in relation to a deemed TSO instrument:
-  (b) final TSO cost calculation determination under section 93C in relation to a deemed TSO instrument.
+  (a) draft TSO cost calculation determination under section 94F in relation to a deemed TSO instrument:
+  (b) final TSO cost calculation determination under section 94J in relation to a deemed TSO instrument.
 (2) The information referred to in subsection (1) is as follows:
   (a) the name, location, and limits of each geographical area within which the TSO provider supplies the service under the deemed TSO instrument; and
   (b) the number of subscriber lines for that service in each geographical area; and
@@ -1632,9 +1680,20 @@ For a determination made under this Part, the Commission—
     (ii) the revenue attributed by the Commission is less than the respective cost attributed; and
   (d) the net cost of the deemed TSO instrument in each geographical area; and
   (e) any related information that is necessary to assist in understanding the information specified in paragraphs (a) to (d).
-(3) The geographical areas referred to in subsection (2) must correspond to the areas that the Commission has identified in assessing, for the purpose of calculating the TSO net cost, the commercial viability of supplying the service to customers.
+(3) The geographical areas referred to in subsection (2) must correspond to the areas that the Commission has identified in assessing, for the purpose of calculating the TSO net cost, the commercial viability of supplying the service to end-users.
 
-### 100C Duties of Commission in complying with section 100B
+### 100BA Commission must include information about spending of TSO charges paid in relation to deemed TSO instrument
+(1) The Commission must include the information specified in subsection (2) in—
+  (a) a draft TSO cost calculation determination under section 94F, in relation to a deemed TSO instrument; and
+  (b) a final TSO cost calculation determination under section 94J, in relation to a deemed TSO instrument.
+(2) The information referred to in subsection (1) is the amount of the total TSO charges most recently received by the TSO provider (if any), that the TSO provider has spent on each of the following, and details of that expenditure:
+  (a) TSO-related infrastructure:
+  (b) TSO-related operational costs:
+  (c) any other items.
+(3) For the purpose of enabling the Commission to comply with subsection (1), the Commission may require the TSO provider to prepare and provide information about the spending of the TSO charges most recently received by the TSO provider.
+(4) The TSO provider must prepare and provide any information required under subsection (3) in accordance with the Commission's requirements.
+
+### 100C Duties of Commission in complying with sections 100B and 100BA
 (1) In complying with section 100B, the Commission must ensure that—
   (a) the information to be included in a draft or final TSO cost calculation determination is at its lowest level of aggregation (as determined by the Commission); and
   (b) satisfactory provision exists to protect the confidentiality of any information that—
@@ -1644,21 +1703,47 @@ For a determination made under this Part, the Commission—
 (2) However, if the Commission considers that compliance with subsection (1)(a) will, or is likely to, prejudice compliance with subsection (1)(b) or (c), the Commission—
   (a) may aggregate the information before it is included under section 100B; and
   (b) may do so in any manner that it thinks fit.
+(3) In complying with section 100BA, the Commission must ensure that satisfactory provision exists to protect the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
 
 ### 101 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
-  (a) prescribe the information that must be provided to the Commission under section 81(a):
-  (b) provide for the appointment of auditors who may make an auditor's report under section 81(b) or section 83(b):
-  (c) prescribe any requirements to which section 81(b)(i) or section 83(b)(i) applies:
-  (d) provide for any methods for all or any of the following:
-    (i) calculating the net cost under section 83:
-    (ii) preparing a draft determination of the net cost referred to in section 93E:
-    (iii) determining the net cost referred to in section 93E:
-    (iv) preparing a draft determination of the amount of revenue referred to in section 88(1)(a) or (b):
-    (v) determining the amount of revenue referred to in section 91(1)(a) or (b).
-(2) The Minister must not make a recommendation under subsection (1) unless—
-  (a) the Commission has consulted every liable person and the TSO provider under the relevant TSO instrument; and
+  (a) determine the amount of the minimum telecommunications revenue for the purposes of section 80:
+  (b) prescribe the information that must be provided to the Commission under section 83(1)(a):
+  (c) provide for the appointment of auditors who may make an auditor's report under section 83(1)(b) or 94D(1)(b):
+  (d) prescribe requirements to which section 94D(1)(b)(i) applies:
+  (e) provide for any methods for all or any of the following:
+    (i) preparing a draft determination of the amount of qualified revenue referred to in section 85(1)(a):
+    (ii) determining the amount of qualified revenue referred to in section 88(a):
+    (iii) calculating the net cost under section 94D:
+    (iv) preparing a draft determination of the net cost referred to in section 94G(a):
+    (v) determining the net cost referred to in section 94K(1)(a).
+(2) The Minister must not make a recommendation under subsection (1)(b) to (e) unless—
+  (a) the Commission has consulted every liable person; and
   (b) the Commission has recommended that the regulations be made.
+(3) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that, if the regulations were made, the minimum telecommunications revenue under those regulations would not exceed the maximum telecommunications revenue threshold.
+(4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:a×cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 cis $10 million.
+
+### 101A Review of local service TSO arrangements
+(1) The chief executive of the Ministry must,—
+  (a) at the start of 2013, commence a review of the deemed TSO instruments and the provisions of this Act that implement those deeds (including the provisions that relate to funding) (collectively, the deemed TSO arrangements), including consideration of the following:
+    (i) the operation of the deemed TSO arrangements:
+    (ii) changes in the telecommunications sector that have arisen from investments in, and the roll-out of, new and enhanced telecommunications infrastructure and facilities and the impact of those changes on the deemed TSO arrangements:
+    (iii) the continued need for, and relevance of, the deemed TSO arrangements:
+    (iv) the practicality of adopting universal, rather than provider-specific, arrangements for provision of the services and achievement of the outcomes covered by the deemed TSO arrangements:
+    (v) the impact of the funding arrangements for deemed TSO instruments and the calculation of costs in relation to deemed TSO instruments on TSO providers, market competition, and the development generally of the telecommunications industry:
+    (vi) alternative arrangements for achieving the purpose set out in section 70(1), including—
+      (A) the potential for adopting a contestable TSO model for deemed TSO arrangements and the costs and benefits of those alternatives in comparison with the deemed TSO arrangements; and
+      (B) alternative approaches for the funding of deemed TSO instruments and the calculation of costs in relation to deemed TSO instruments, including the costs and benefits of those alternative approaches in comparison with the deemed TSO funding arrangements:
+    (vii) related regulatory issues; and
+  (b) report to the Minister on its findings not later than the end of 2013.
+(2) In carrying out the review, the chief executive of the Ministry must consult with interested parties, including the Commission, industry participants, consumers, and Māori.
+(3) In conducting the review and reporting to the Minister, the chief executive of the Ministry must take the following into account:
+  (a) the long-term interests of end-users of telecommunications services:
+  (b) the long-term interests of those end-users in respect of whom the provision of services covered by the deemed TSO arrangements is commercially non-viable:
+  (c) the legitimate business interests of TSO providers:
+  (d) the ability for providers of TSO services to receive a reasonable return on the incremental capital employed in providing the services required under deemed TSO instruments:
+  (e) the impact on the incentives and capabilities of TSO providers and other telecommunications service providers to invest in new and improved telecommunications facilities and services:
+  (f) the effects on competition in telecommunications services markets in New Zealand.
 
 ## Part 4 — Networks
 
@@ -1700,7 +1785,7 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 (3) Subsection (1) is subject to sections 107 and 108.
 (4) In subsection (1) and sections 107 and 108, operator means—
   (a) a network operator; or
-  (b) any other person who provides a telecommunications service by means of a PSTN or PDN that is operated by the person.
+  (b) any other person who provides a telecommunications service by means of a PTN that is operated by the person.
 
 ### 107 When operator must not agree to connection to network
 (1) An operator must not agree to the connection of a telephone analyser to a network that is owned or operated by an operator unless the connection is for 1 or more of the following purposes:
@@ -1742,8 +1827,8 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 
 ### 111A Information about interconnection arrangements
 (1) A major supplier must make publicly available a copy of—
-  (a) the procedures that apply to interconnection with a PSTN or PDN owned or operated by that supplier; and
-  (b) all the applicable terms and conditions of supply for interconnection with that PSTN or PDN.
+  (a) the procedures that apply to interconnection with a PTN owned or operated by that supplier; and
+  (b) all the applicable terms and conditions of supply for interconnection with that PTN.
 (2) In this section, major supplier—
   (a) means Telecom; and
   (b) includes a person who is declared by the Governor-General, by Order in Council made on the recommendation of the Minister, to be a major supplier for the purposes of this section.
@@ -1796,6 +1881,10 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
   (d) the date (if any) on which the written authority expires; and
   (e) particulars of the powers of the network operator that the officer, employee, or agent is authorised to exercise; and
   (f) particulars of conditions (if any) imposed on the officer, employee, or agent by the network operator.
+
+### 118A Notices under this subpart
+(1) Any notice that is required to be given to any person under this subpart must be in writing.
+(2) To avoid doubt, subsection (1) does not apply to notices given in any proceedings in a court.
 
 ### 119 Criteria for setting reasonable conditions
 (1) In setting, varying, or revoking reasonable conditions under section 135(2) or section 142(2)(b), the local authority or other person who has jurisdiction over the road concerned may consider all or any of the following matters:
@@ -1893,13 +1982,13 @@ Every officer, employee, or agent of a network operator who enters land or a roa
 ### 134 Costs of removal of trees, etc, in emergency
 If a network operator removes or trims a tree, shrub, or plant on any land or road under section 132, the occupier of the land, or the local authority or other person who has control of the road, as the case may be, is liable for the reasonable cost of the work of the network operator.
 
-**Lines on roads**
+**Lines or wireless works on roads**
 
-### 135 Construction or repair of lines on roads
+### 135 Construction or repair of lines or wireless works on roads
 (1) Except as provided in subsection (2), a network operator may—
-  (a) construct, place, and maintain lines in, on, along, over, across, or under any road; and
+  (a) construct, place, and maintain lines or wireless works in, on, along, over, across, or under any road; and
   (b) for any of those purposes, open or break up any road, and alter the position of any pipe (not being a main) for the supply of water or gas; and
-  (c) alter, repair, or remove those lines or any part of those lines.
+  (c) alter, repair, or remove those lines or wireless works or any part of those lines or wireless works.
 (2) A network operator must exercise the powers contained in subsection (1) in accordance with any reasonable conditions that the local authority or other person who has jurisdiction over that road requires.
 
 ### 136 Notice requirement
@@ -1967,13 +2056,13 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 **Local authority, etc, requiring work to be done**
 
 ### 147A Local authority, etc, may require lines, etc, to be moved
-(1) Where a network operator owns lines, cabinets, or other similar appliances that are on a road, the local authority or other person having jurisdiction over the road may, by notice in writing, require the network operator to raise, lower, or otherwise alter the position of the lines, cabinets, or other similar appliances.
+(1) Where a network operator owns lines, cabinets, wireless works, or other similar appliances that are on a road, the local authority or other person having jurisdiction over the road may, by notice in writing, require the network operator to raise, lower, or otherwise alter the position of the lines, cabinets, wireless works, or other similar appliances.
 (2) If the network operator refuses or fails, within a reasonable period, to do the work required, the person requiring the work may do the work or have it done by some other person.
 (3) Before doing work as permitted by subsection (2), the person requiring the work must give notice to the network operator at least 15 working days before the work commences.
 
 ### 147B Cost of work required under section 147A
 (1) The reasonable cost of all work required to be done under section 147A must be paid by the person that requires the work to be done.
-(2) However, the cost of the work must be paid by the network operator if the reason that the work is required is that the lines, cabinets, or other appliances—
+(2) However, the cost of the work must be paid by the network operator if the reason that the work is required is that the lines, cabinets, wireless works, or other appliances—
   (a) were constructed contrary to any of the following:
     (i) this Act or any regulations made under section 157:
     (ii) the Telecommunications (Residual Provisions) Act 1987:
@@ -1984,11 +2073,11 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
   (b) are in a dangerous or unsafe condition.
 (3) A person that requires work to be done under section 147A may not claim for betterment in respect of that work, and no claim for betterment may be made against the person.
 (4) The following provisions apply if the person requiring the work is the New Zealand Transport Agency or the agent of the Minister of Transport:
-  (a) the cost of all lines, cabinets, other appliances, and associated equipment that are used in carrying out the required work (other than things used only during the course of construction) must be paid by the network operator:
-  (b) if, as a consequence of the requirement, the network operator elects to fix or install any lines, cabinets, or other appliances over, under, or through any roading structure (being a bridge, underpass, overpass, culvert, or tunnel) that is being, or is to be, constructed or altered, and if the cost of constructing or altering the roading structure is thereby increased, then the network operator must pay the increase in cost:
-  (c) if, as a consequence of the requirement, the network operator relocates the lines, cabinets, or other similar appliances and reconstructs them to specifications different from those of the original lines, cabinets, or other appliances, then, if the costs described in paragraph (d)(i) are less than the costs described in paragraph (d)(ii), the network operator is liable to pay the difference:
+  (a) the cost of all lines, cabinets, wireless works, other appliances, and associated equipment that are used in carrying out the required work (other than things used only during the course of construction) must be paid by the network operator:
+  (b) if, as a consequence of the requirement, the network operator elects to fix or install any lines, cabinets, wireless works, or other appliances over, under, or through any roading structure (being a bridge, underpass, overpass, culvert, or tunnel) that is being, or is to be, constructed or altered, and if the cost of constructing or altering the roading structure is thereby increased, then the network operator must pay the increase in cost:
+  (c) if, as a consequence of the requirement, the network operator relocates the lines, cabinets, wireless works, or other similar appliances and reconstructs them to specifications different from those of the original lines, cabinets, wireless works, or other appliances, then, if the costs described in paragraph (d)(i) are less than the costs described in paragraph (d)(ii), the network operator is liable to pay the difference:
   (d) the costs referred to in paragraph (c) are—
-    (i) what it would have cost to relocate and reconstruct the lines, cabinets, or other similar appliances as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) applies), taking into account—
+    (i) what it would have cost to relocate and reconstruct the lines, cabinets, wireless works, or other similar appliances as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) applies), taking into account—
       (A) any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
       (B) the location of the original works and the alternatives reasonably available to the network operator:
     (ii) the actual cost of the relocation and reconstruction (excluding any costs to which paragraph (a) applies).
@@ -2002,9 +2091,9 @@ Sections 147A and 147B apply despite anything to the contrary in section 54 of t
 
 **Miscellaneous**
 
-### 148 Alteration to line on road requested by owner
-(1) If an owner of land or some other person requires a line or works on a road to be altered so that the owner or other person has access to, or reasonable use of, the land, the network operator may require the person who makes the request to pay the cost of the alteration.
-(2) A network operator is not entitled to be paid the cost of any improvement to a line that is, or works that are, required to be altered by an owner of land or some other person under subsection (1).
+### 148 Alteration to line or wireless works on road requested by owner
+(1) If an owner of land or some other person requires a line, wireless works, or other works on a road to be altered so that the owner or other person has access to, or reasonable use of, the land, the network operator may require the person who makes the request to pay the cost of the alteration.
+(2) A network operator is not entitled to be paid the cost of any improvement to a line that is, or wireless works or other works that are, required to be altered by an owner of land or some other person under subsection (1).
 
 ### 149 Lines must not interfere with public traffic
 (1) A network operator must not intentionally place the wires of a line so that they interfere with the lawful traffic on a road.
@@ -2022,7 +2111,7 @@ A network operator, in maintaining, repairing, altering, or removing a line that
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 153 Charging for access to road reserve
-(1) Despite anything in this Act or in any other enactment, no local authority or other person who has jurisdiction over any road may require the payment, by or on behalf of a network operator, of any amount of or in the nature of rent in respect of any line or works constructed in, on, along, over, across, or under that road.
+(1) Despite anything in this Act or in any other enactment, no local authority or other person who has jurisdiction over any road may require the payment, by or on behalf of a network operator, of any amount of or in the nature of rent in respect of any line, wireless works, or other works constructed in, on, along, over, across, or under that road.
 (2) Nothing in subsection (1) applies in respect of any rate or charge levied under the Rating Powers Act 1988.
 
 ### 154 Compensation
@@ -2033,9 +2122,448 @@ A network operator, in maintaining, repairing, altering, or removing a line that
 (1) Any existing works or existing lines owned by a network operator that are fixed to, or installed over or under, land that is not owned by the network operator are deemed to be lawfully fixed or installed, and continue to be lawfully fixed or installed, until the network operator otherwise decides.
 (2) No person other than the network operator has an interest in any of those works or lines by reason only of having an interest in the land.
 
+### Subpart 3 — Access to multi-unit complexes to which fibre-to-the-premises is to be deployed
+
+### 155A Overview
+(1) This subpart provides a statutory right of access to multi-unit complexes that fibre-to-the-premises service providers may use if an access agreement is not negotiated.
+(2) This subpart does not limit the statutory rights of access in sections 120 to 127.
+
+### 155B Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **access order** means an order of the District Court referred to in section 155I
+  - **Code** means the Code that has been approved under section 155K, and includes any amendment to the Code that is approved under that section
+  - **consumer** , in relation to a consumer complaints system, includes an owner or occupier
+  - **consumer complaints system** , in relation to an FTTP service provider, means either of the following:
+    (a) an industry-based complaints system that has been established by the telecommunications industry and that has been approved by the Minister for the purposes of resolution of complaints under this subpart and the Code; or
+    (b) a consumer complaints system facilitated by Part 4B
+  - **fibre-to-the-premises access network** has the same meaning as in section 156AB
+  - **FTTP service provider** means the owner or operator of a fibre-to-the-premises access network
+  - **maintenance** has the same meaning as in section 117
+  - **multi-unit complex** means—
+    (a) a building that contains 2 or more distinct units (including the land on which the building is sited); or
+    (b) a group of buildings that are used communally (including the land on which those buildings are sited)
+  - **owner** , in relation to any part of a multi-unit complex, means any 1 or more of the following:
+    (a) a person who has a freehold or a leasehold interest in that part of the complex:
+    (b) any body corporate under the Unit Titles Act 1972 or the registered proprietor of the complex to which the unit plan relates:
+    (c) any other person who has a legal right to grant access to the building or to approve the performance of work in the building
+  - **preliminary notice** means a notice that complies with section 155F
+  - **second notice** means a notice that complies with section 155H.
+
+**Statutory right of access to multi-unit complexes**
+
+### 155C Nature of statutory right of access to multi-unit complexes
+(1) The right of access conferred by this subpart is that an FTTP service provider may, for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network,—
+  (a) enter a multi-unit complex at reasonable times, with or without any person who is, or any thing that is, reasonably necessary; and
+  (b) perform work that is reasonably necessary for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network.
+(2) This right of access applies only—
+  (a) if the service provider has complied with sections 155D to 155I in respect of each part of the multi-unit complex accessed under this subpart; and
+  (b) to authorise the matters referred to in subsection (1).
+
+### 155D Preconditions before statutory right of access to multi-unit complexes may be exercised
+Before an FTTP service provider enters, or performs work in, any part of a multi-unit complex under this subpart, the service provider must first—
+  (a) have agreed to be bound by the Code; and
+  (b) have taken all reasonable steps to negotiate an agreement for entry with the owner in accordance with the Code; and
+  (c) have served a preliminary notice on each owner of that part of the multi-unit complex in accordance with section 155F; and
+  (d) have served a second notice in accordance with section 155H on each owner of that part of the multi-unit complex who has not opted out in accordance with section 155G; and
+  (e) have obtained an access order from the District Court under section 155I in respect of each owner of that part of the multi-unit complex who has opted out in accordance with section 155G; and
+  (f) be a member of a consumer complaints system that provides for the resolution of complaints about compliance with this subpart and the Code.
+
+### 155E How statutory right of access to multi-unit complex must be exercised
+(1) The entry to a multi-unit complex under section 155C must only be made by an officer, employee, or agent (including a contractor) of the FTTP service provider authorised by it in writing.
+(2) The person entering must produce evidence of his or her authority and identity—
+  (a) on initial entry; and
+  (b) after the initial entry, on request.
+(3) Subsections (1) and (2) are subject to the terms and conditions of any access order from the District Court under section 155I.
+(4) In this section, evidence of authority has the same meaning as in section 118, with any necessary modifications.
+
+**Process**
+
+### 155F Requirements in respect of preliminary notice
+(1) A preliminary notice must—
+  (a) contain the matters specified in subsection (2); and
+  (b) comply with the Code; and
+  (c) be served on each person who is known by the service provider to be a current owner; and
+  (d) be left in a prominent place on the land.
+(2) The matters that must be included in the first notice are—
+  (a) an explanation of the infrastructure the service provider is seeking to deploy, maintain, or upgrade, and the benefits of that work:
+  (b) what the initial investigation would entail, including initial indications of the areas the service provider may want to access during the investigation, if known:
+  (c) the date and time of the intended investigation:
+  (d) an explanation that if the service provider does not hear from the owner within 20 working days (or any longer period agreed between the service provider and the owner), the owner will be deemed to have consented in principle to the investigation:
+  (e) an explanation that the owner can opt out of the access regime, and details as to reasonable grounds for opting out and the process for doing so:
+  (f) the contact details of the service provider to be used by the owner if the owner wishes to opt out or to negotiate an alternative time or date for the investigation:
+  (g) an explanation that, if the owner opts out on unreasonable grounds, the service provider may apply to the District Court for an access order:
+  (h) an assurance that the service provider has agreed to be bound by the Code and will, when entering the building, comply with the requirements in the Code, and an Internet link to the Code:
+  (i) an explanation that, if the owner or occupier believes that the service provider has breached the Code, the owner or occupier may complain to a consumer complaints system:
+  (j) an explanation of the process of making a complaint.
+
+### 155G Opting out of providing access under subpart
+(1) An owner may opt out of the access regime in this subpart by—
+  (a) serving an opt-out notice on the service provider within 20 working days of receiving a preliminary notice or a second notice (or any longer period agreed between the service provider and the owner); or
+  (b) denying access to a service provider.
+(2) An opt-out notice must be in writing and sent to the contact address given by the service provider.
+(3) The service provider has no right of access under this subpart after an opt-out happens unless the service provider obtains an access order granted by the District Court.
+
+### 155H Requirements in respect of second notice
+(1) A second notice must—
+  (a) contain the matters specified in subsection (2); and
+  (b) comply with the Code; and
+  (c) be served on each person who is known by the service provider to be a current owner, and left in a prominent place on the land,—
+    (i) no earlier than 10 working days after the earlier of—
+      (A) the expiration of the 20-working-day period referred to in section 155F(2)(d) (or any longer period agreed between the service provider and the owner); or
+      (B) the date of notification by the owner that the owner consents to the work as proposed in the preliminary notice; and
+    (ii) no later than 21 working days before the time proposed in the notice for the start of the work.
+(2) The second notice must give the owner all the key information relating to the proposed work, including—
+  (a) an explanation of the exact details of the proposed work, including—
+    (i) the areas in which it will occur; and
+    (ii) the nature of the work, including whether it will require structural work; and
+    (iii) the nature of any fixed infrastructure that will be installed in the process:
+  (b) details of the proposed timing of the work and the length of time it is intended to take:
+  (c) an explanation of ongoing access requirements for repairs and maintenance:
+  (d) details of any costs to the owner associated with the work:
+  (e) an explanation that the owner can opt out, and details as to reasonable grounds for opting out and the process for doing so:
+  (f) the contact details of the service provider to be used if the owner wishes to opt out or negotiate an alternative time or date for the work:
+  (g) an explanation that, if the owner opts out on unreasonable grounds, the service provider may apply to the District Court for an access order:
+  (h) an assurance that the service provider has agreed to be bound by the Code and will, when entering the building, comply with the requirements in the Code, and an Internet link to the Code:
+  (i) an explanation that, if the owner or occupier believes that the service provider has breached the Code, the owner or occupier may complain to a consumer complaints system:
+  (j) an explanation of the process of making a complaint.
+
+### 155I Access orders from District Court
+(1) If an owner has opted out, the service provider may apply to the District Court for an access order that authorises the service provider, for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network, to—
+  (a) enter a multi-unit complex at reasonable times, with or without any person who is, or any thing that is, reasonably necessary; and
+  (b) perform work that is reasonably necessary for the purpose of constructing, erecting, laying, maintaining, or upgrading all or any part of a fibre-to-the-premises access network.
+(2) The District Court may grant an access order only if the court is satisfied that the owner has unreasonably opted out.
+(3) The District Court must, in making that decision, consider whether the service provider has taken reasonable steps to negotiate an agreement for entry with the owner before applying to the court.
+(4) An access order may be made on any terms and conditions that the District Court thinks fit.
+(5) Sections 120(2), and 122 to 124 apply with necessary modifications.
+
+**Code**
+
+### 155J Preparation of Code
+(1) The Minister must prepare a Code relating to access to multi-unit complexes by FTTP service providers under this subpart or by agreement.
+(2) The minimum matters that must be included in the Code are—
+  (a) guidance on reasonable processes and time frames for negotiating access with owners; and
+  (b) guidance as to cost sharing between service providers and owners, and processes for agreeing final cost splits; and
+  (c) guidance as to reasonable grounds for opting out; and
+  (d) guidance as to ongoing costs and reasonable conditions of ongoing access.
+(3) The Code may contain any other provisions that are necessary or desirable.
+(4) The Minister must, before recommending that the Governor-General approve a Code, consult service providers, and any other persons, that the Minister reasonably considers may be likely to be representative of the persons to be affected by the Code.
+
+### 155K Approval and status of Code
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve a Code.
+(2) The order may refer to, but need not contain, the Code, and must be published in the Gazette.
+(3) The order and the Code are regulations for the purposes of the Regulations (Disallowance) Act 1989.
+(4) The order, but not the Code, is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(5) The Code must be presented to the House of Representatives no later than 16 days after the date on which it is approved.
+(6) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
+(7) The Minister may at any time prepare an amendment to the Code, and subsections (1) to (6) apply accordingly.
+(8) The Minister must ensure that the Code, and every amendment to it,—
+  (a) is published on an Internet site that is publicly available at all reasonable times; and
+  (b) is available for purchase in hard copy, at no more than a reasonable cost, from the head office of the Ministry.
+
+**Consumer complaints system**
+
+### 155L Compliance with rules and binding settlements
+(1) A service provider who is a member of a consumer complaints system must comply with the rules of that system that relate to complaints about access to multi-unit complexes.
+(2) On the application of the consumer complaints adjudicator or other person responsible for a consumer complaints system, a District Court may require a member of the system to do either or both of the following:
+  (a) comply with the rules of the system that relate to complaints about access to multi-unit complexes:
+  (b) comply with a binding settlement determined by the system in response to a complaint about access to multi-unit complexes.
+(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
+
+### 155M Offence to fail to comply with District Court order
+(1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under section 155L, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 155L(4).
+
 ### 156 Notices to be in writing
-(1) Any notice that is required to be given to any person under this subpart must be in writing.
-(2) To avoid doubt, subsection (1) does not apply to notices given in any proceedings in a court.
+[Repealed]
+
+## Part 4AA — Services provided using networks developed with Crown funding: Undertakings regime and Commerce Act 1986 authorisations
+
+### Subpart 1 — Preliminary provisions
+
+### 156AA Overview
+(1) This Part—
+  (a) requires providers of wholesale telecommunications services that are provided using a fibre optic communications network that is constructed, in whole or in part, with Crown investment funding provided as part of the Ultra-fast Broadband Initiative, or that provide access to unbundled elements of such a network, to give enforceable undertakings providing for non-discrimination, equivalence, and other matters in relation to the supply of those services (subpart 2); and
+  (b) restricts unbundling of point-to-multipoint layer 1 services before 1 January 2020 in respect of those service providers (section 156AP); and
+  (c) requires those service providers to disclose information concerning costs and other matters in accordance with requirements of the Commission (subpart 3); and
+  (d) enables providers of wholesale telecommunications services provided using a network that is constructed, in whole or in part, with Crown investment funding as part of the Rural Broadband Initiative to give enforceable undertakings that provide for non-discrimination and other matters in relation to those services (subpart 4); and
+  (e) provides certain Commerce Act 1986 authorisations in respect of participation in the Rural Broadband Initiative (subpart 5) and the Ultra-fast Broadband Initiative (subpart 6).
+(2) This section is intended only as a guide to the general scheme and effect of this Part.
+
+### 156AB Interpretation
+In this Part, unless the context otherwise requires,—
+  - **access seeker** means a person who seeks access to a relevant service
+  - **arm's-length** has the meaning set out in section 69D
+  - **Crown** includes Crown Fibre Holdings Limited
+  - **disclose** means to supply to the Commission
+  - **equivalence** , in relation to the supply of a relevant service, means equivalence of supply of the service and access to the service provider's network so that third-party access seekers are treated in the same way to the service provider's own business operations, including in relation to pricing, procedures, operational support, supply of information, and other relevant matters
+  - **fibre-to-the-premises access network** —
+    (a) means a network structure used to deliver telecommunications services over fibre media that connects a powered node in a central office location (an exchange or equivalent powered facility) to an end-user's premises or building, or the optical distribution facility of an end-user's premises or building; and
+    (b) includes the powered node in the central office location; and
+    (c) includes that part of the overall telecommunications link that connects to the end-user's equipment
+  - **information** includes any statement, certificate, or other information required to be disclosed under this Part
+  - **layer 1 service** has the same meaning as in the document New Zealand Government Ultra-Fast Broadband Initiative Invitation to Participate in Partner Selection Process dated October 2009 (as amended)
+  - **LFC** or means a company through which the investment of the Crown and a UFB partner in relation to a fibre optic communications network is effected, including—
+    (a) a company in which the Crown and the UFB partner hold shares; and
+    (b) a company in which the Crown holds a financial interest pursuant to the selection of that company as a UFB partner
+  - **LFC fibre network** means a fibre-to-the-premises access network that is owned or operated by an LFC
+  - **non-discrimination** , in relation to the supply of a relevant service, means that the service provider must not treat access seekers differently, or, where the service provider supplies itself with a relevant service, must not treat itself differently from other access seekers, except to the extent that a particular difference in treatment is objectively justifiable and does not harm, and is unlikely to harm, competition in any telecommunications market
+  - **point-to-multipoint layer 1 service** means a layer 1 service provided over a network configuration that enables each fibre to provide multiple end-point connections
+  - **prescribed** means prescribed by the Commission
+  - **relevant service** —
+    (a) in subparts 2 and 3, means a wholesale telecommunications service that is provided using, or that provides access to unbundled elements of, an LFC fibre network; and
+    (b) in subpart 4, means a wholesale telecommunications service that is provided using, or that provides access to, unbundled elements of a network that is constructed with funding provided, in whole or in part, by the Crown as part of the Rural Broadband Initiative
+  - **Rural Broadband Initiative** means the programme to develop enhanced broadband infrastructure in non-urban areas of New Zealand with the support of Crown grant funding
+  - **service provider** means a provider of a relevant service
+  - **UFB initiative** means the competitive tender programme, known as the Ultra-fast Broadband Initiative, to develop fibre-to-the-premises broadband networks connecting 75% of New Zealand households, with the support of $1.5 billion of Crown investment funding
+  - **UFB partner** means a successful tenderer in the UFB initiative
+  - **undertaking** means an undertaking under this Part.
+
+### Subpart 2 — Undertakings relating to networks developed with Crown funding as part of UFB initiative
+
+### 156AC Purposes
+The purposes of this subpart are to—
+  (a) promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand; and
+  (b) require transparency, non-discrimination, and equivalence of supply in relation to certain telecommunications services; and
+  (c) facilitate efficient investment in telecommunications infrastructure and services.
+
+**Requirements for undertakings**
+
+### 156AD Main requirements for undertakings
+(1) An LFC must enter into an undertaking in accordance with this subpart.
+(2) The undertaking must—
+  (a) be executed by the LFC; and
+  (b) provide for the LFC to supply unbundled layer 1 services on all parts of its fibre-to-the-premises access network on and after 1 January 2020; and
+  (c) provide for the LFC to—
+    (i) achieve non-discrimination in relation to the supply of relevant services; and
+    (ii) design and build the LFC fibre network in a way that enables equivalence in relation to the supply of unbundled layer 1 services to be achieved on and after 1 January 2020; and
+    (iii) achieve equivalence in relation to the supply of unbundled layer 1 services on and after 1 January 2020; and
+  (d) provide for the LFC to deal with the UFB partner on arm's-length terms (unless the UFB partner and the LFC are not separate entities); and
+  (e) provide for the LFC to maximise the use of standard terms for the supply of services through the use of template, or model, agreements; and
+  (f) provide for access seekers to have the same access to information from the LFC; and
+  (g) specify rules for the treatment of confidential information relating to access seekers; and
+  (h) provide for disclosure of relevant information to the Commission, to support the Commission's assessment of compliance with the undertaking; and
+  (i) provide for any other matters required by a determination of the Minister under section 156AE.
+(3) An undertaking may specify a mechanism for resolution, by a suitably qualified and experienced independent person, of any disputes that arise between the LFC and access seekers after the undertaking is approved.
+(4) Subsection (3) does not limit the further matters that may be included in an undertaking.
+(5) However, an undertaking must not—
+  (a) provide for rules or obligations in respect of services that are not relevant services (including layer 1 services); or
+  (b) specify the price or non-price terms of supply for any telecommunications service.
+
+### 156AE Minister may determine further requirements for undertakings
+(1) The Minister may determine further requirements with which an undertaking must comply.
+(2) The further requirements may—
+  (a) specify the relevant services, or types of relevant services, to which the requirements in section 156AD apply, and how they are to apply; and
+  (b) include further matters that must be addressed in the undertaking, and minimum requirements for the undertaking.
+(3) Any further requirements determined by the Minister under this section do not apply to an undertaking that has already been approved by the Minister.
+
+### 156AF Minister must issue and consult on draft determination
+Before making a determination under section 156AE, the Minister must prepare a draft determination and consult on that draft with those persons that the Minister considers have a material interest in the determination.
+
+### 156AG Procedural requirements for determination
+(1) The Minister must notify a determination made under section 156AE in the Gazette as soon as practicable after it is made.
+(2) The notice in the Gazette—
+  (a) need not contain the determination:
+  (b) must give a brief description of the nature of the determination:
+  (c) must state where copies of the determination are available for inspection and purchase.
+(3) The Minister must make the determination available to the public by making copies of it available—
+  (a) for inspection, free of charge,—
+    (i) at the head office of the Ministry (during office hours); and
+    (ii) on the Internet in an electronic form that is publicly accessible (at all reasonable times); and
+  (b) for purchase at a reasonable price.
+(4) A determination is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purpose of the Acts and Regulations Publication Act 1989.
+(5) The Minister must present a copy of the determination to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
+
+**Process for submission and consideration of undertakings**
+
+### 156AH LFC must submit undertaking for approval by Minister
+An LFC must submit an undertaking for approval by the Minister by sending the undertaking in writing to the Minister.
+
+### 156AI Minister may approve or decline undertaking
+(1) The Minister may, by notice in writing to the LFC who submitted the undertaking,—
+  (a) approve the undertaking; or
+  (b) decline to approve the undertaking.
+(2) The Minister must not approve the undertaking unless the Minister is satisfied that it meets the requirements in section 156AD.
+(3) If the Minister declines to approve the undertaking, the Minister—
+  (a) must give reasons for not approving the undertaking; and
+  (b) may invite the LFC to submit an amended undertaking for approval by the Minister.
+(4) Subsections (1) and (3) and section 156AH apply to an amended undertaking.
+(5) The Minister must notify his or her approval of an undertaking by notice in the Gazette.
+
+**Implementation of undertakings**
+
+### 156AJ Implementation of undertaking
+On and from the date that the Minister's approval of an undertaking is notified in accordance with section 156AI(5), the undertaking takes effect as if it were a deed that is—
+  (a) properly executed by, and binding on, the LFC; and
+  (b) given in favour of the Crown.
+
+### 156AK LFC must publish undertaking
+(1) As soon as practicable after the Minister's approval of an undertaking is notified, the LFC must publish the undertaking on an Internet site maintained by or on behalf of the LFC so that it is publicly accessible at all reasonable times.
+(2) The LFC must make a copy of the undertaking available for inspection free of charge at its registered office.
+
+**Variation and termination of undertakings**
+
+### 156AL Variation of undertaking
+(1) The Minister may, on the recommendation of the Commission, approve a variation of an undertaking.
+(2) The Commission must not make a recommendation under subsection (1) unless—
+  (a) the LFC who gave the undertaking has submitted a request for the variation to the Commission; and
+  (b) the Commission has consulted with interested parties; and
+  (c) the Commission is satisfied that the variation would best give effect to the purposes of this subpart.
+
+### 156AM Procedure for variation of undertaking
+(1) An LFC may submit a request for a variation of an undertaking under section 156AL by sending the proposed variation in writing to the Commission.
+(2) The Commission must notify the LFC in writing of whether it proposes to recommend that the Minister approve the variation.
+(3) The notice under subsection (2)—
+  (a) must set out the reasons for the Commission's decision; and
+  (b) may invite the LFC to submit an amended variation for consideration, if the Commission does not propose to recommend that the Minister approve the variation.
+(4) The Commission must make reasonable efforts to give the notice not later than 30 working days after the Commission receives the request for the variation from the service provider.
+(5) Sections 156AI to 156AK apply, with all necessary modifications, to a variation of an undertaking as if the variation were an undertaking.
+
+### 156AN Clarification of undertaking
+The Commission may amend an undertaking to clarify it if—
+  (a) the Commission, on the application of the LFC who gave the undertaking, considers that the undertaking requires clarification; and
+  (b) the clarification is not material.
+
+### 156AO Termination of undertaking
+(1) An undertaking may be terminated by mutual agreement between the LFC and the Minister.
+(2) The Minister may request the Commission to recommend whether an undertaking should be terminated under this section.
+(3) The Commission may, in response to a request under subsection (2) or on its own initiative, recommend to the Minister that an undertaking be terminated under this section, if the Commission considers that the termination would best promote the purposes of this subpart.
+
+**Effect of undertakings in relation to unbundling of certain services**
+
+### 156AP Commission may not recommend or investigate unbundling of point-to-multipoint layer 1 services
+(1) The Commission must not, before the close of 31 December 2019, provide a final report to the Minister recommending the unbundling of any point-to-multipoint layer 1 service that is provided by an LFC that is subject to a binding undertaking.
+(2) The Commission must not, before the close of 31 December 2018, commence an investigation into the unbundling of any point-to-multipoint layer 1 service provided by an LFC that is subject to a binding undertaking.
+(3) An LFC is subject to a binding undertaking for the purposes of this section if it has entered into an undertaking that has been approved by the Minister under this subpart and that is still in force.
+
+**Enforcement of undertakings**
+
+### 156AQ Enforcement and remedies under Part 4A
+Sections 156L, 156M, and 156O to 156R apply to an undertaking under this subpart as provided in Part 4A.
+
+### 156AR Power of court to grant relief in respect of undertakings
+(1) If, on the application of the Commission, it appears to the High Court that an LFC intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute, a breach of the terms of an undertaking, the court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation, an order to—
+  (a) restrain the LFC from engaging in conduct that constitutes, or would constitute, the breach:
+  (b) require the LFC to do a particular act or thing:
+  (c) require the LFC to comply with the terms of the undertaking.
+(2) In any proceeding under this section, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
+(3) The court may at any time rescind or vary an order made under this section.
+
+### 156AS Interrelationship of remedies
+(1) Nothing in this Part or Part 4A limits or affects any right, duty, liability, or remedy in respect of an undertaking that exists or is available apart from this Part or Part 4A.
+(2) Any right of action or other remedy available under this Part or Part 4A in respect of an undertaking may be taken, proceeded with, or heard in conjunction with any other action or remedy available under this Act or otherwise.
+(3) However, in determining whether to order a person to pay a penalty, compensation, or damages in respect of an undertaking, the court must have regard to—
+  (a) whether that person has already been ordered to pay a penalty, compensation, or damages for the same matter; and
+  (b) if so, the amount and effect of that first order.
+
+### Subpart 3 — Information disclosure by LFCs with undertakings
+
+### 156AT Purpose
+The purpose of this subpart is to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand by requiring LFCs who have given undertakings in relation to certain services to provide reliable and timely information to the Commission to enable it to record over time the costs and characteristics of LFC fibre networks to inform the Commission's statutory processes and determinations.
+
+### 156AU Commission must require disclosure by LFCs
+(1) The Commission must require LFCs to prepare and disclose information, annually, about the costs and characteristics of relevant services and the LFC fibre networks used to provide, or comprised of, relevant services.
+(2) The Commission may require the LFCs to prepare and disclose information consisting of, or about, the following things, as part of the information required under this section:
+  (a) financial statements:
+  (b) asset valuations and valuation reports:
+  (c) prices, terms, and conditions:
+  (d) costs and cost allocation methodologies:
+  (e) contracts:
+  (f) transactions with related parties (as if the test for related parties were the same as the test in section 79), including prices and methodologies in relation to such transactions:
+  (g) financial and non-financial performance measures:
+  (h) plans and forecasts:
+  (i) transfer payments (whether actual or notional) amongst prescribed business activities:
+  (j) network capacity information:
+  (k) characteristics of relevant services:
+  (l) policies and methodologies in the areas referred to in paragraphs (a) to (k) or other areas.
+(3) The Commission may, as part of the information required under this section,—
+  (a) define the prescribed business activities and prescribed services in respect of which the LFC must prepare and disclose information:
+  (b) require the LFC to adopt, in the preparation or compilation of that information, any methodology that is required by the Commission (including the allocation methodology that must be used for preparing the financial statements and allocating the costs):
+  (c) require the LFC to disclose the manner in which methodologies have been applied:
+  (d) prescribe the information that must be included in the financial statements to be prepared and disclosed.
+(4) The LFCs must prepare and disclose the information required under this section in accordance with the Commission's requirements.
+(5) To avoid doubt, nothing in this subpart requires an LFC to prepare and disclose information about the operation of all or any of its network or wholesale activities as if those activities were operated as independent or unrelated companies.
+
+### 156AV Further powers of Commission relating to information disclosure
+The Commission may, in making requirements under section 156AU,—
+  (a) prescribe the form and manner in which information must be disclosed:
+  (b) specify a time or date, or times or dates, as at which information must be disclosed:
+  (c) require the disclosure of assumptions made in the preparation of the information:
+  (d) require the audit of disclosed information:
+  (e) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be certified, in a prescribed form and manner, by persons belonging to any specified class of persons:
+  (f) set rules about when and for how long information must be disclosed:
+  (g) require the retention of data on which disclosed information is based and associated documentation:
+  (h) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements:
+  (i) provide for transitional provisions:
+  (j) make requirements from time to time (for example, more than once a year):
+  (k) make requirements in respect of all or part of the relevant business.
+
+### 156AW Commission may publish reports, etc, on information collected
+(1) The Commission may publish reports on, and summaries and analyses of, information collected under this subpart for the purpose of informing the industry and the public of current developments and emerging trends in relation to LFC fibre-to-the-premises access networks.
+(2) The publication may be in any form that the Commission considers fit.
+(3) In exercising its power under this section, the Commission must ensure that it protects the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
+
+### Subpart 4 — Undertakings relating to networks developed with Crown funding as part of Rural Broadband Initiative
+
+### 156AX Interpretation of this subpart
+In this subpart, unless the context otherwise requires,—
+  - **relevant service** means a service that is provided using, or that provides access to the unbundled elements of, a network that was constructed with funding provided, in whole or in part, by the Crown as part of the Rural Broadband Initiative
+  - **service provider** means a provider of a relevant service.
+
+### 156AY Requirements for undertakings under this subpart
+(1) A service provider may enter into an undertaking.
+(2) The undertaking must—
+  (a) provide for the service provider to achieve non-discrimination in relation to supply of relevant services; and
+  (b) provide for the disclosure of relevant information to the Commission, to support the Commission's assessment of compliance with the undertaking.
+(3) An undertaking may specify a mechanism for resolution, by a suitably qualified and experienced independent person, of any disputes that arise between the service provider and access seekers after the undertaking is approved.
+(4) Subsection (3) does not limit the further matters that may be included in an undertaking.
+
+### 156AZ Application of provisions in subpart 1
+Sections 156AH to 156AN, 156AO, and 156AQ to 156AS, with all necessary modifications, apply to an undertaking under this subpart as if every reference in those sections to an LFC were a reference to a service provider.
+
+### Subpart 5 — Commerce Act 1986 authorisations in respect of Rural Broadband Initiative
+
+### 156AZA Restrictive trade practices authorisations in respect of Telecom and Vodafone participation in Rural Broadband Initiative
+(1) The following are authorised:
+  (a) the joint Telecom–Vodafone proposal made on 12 November 2010 in response to the Rural Broadband Initiative request for proposals issued on 26 August 2010; and
+  (b) any contract that is entered into between the Crown and Telecom, or the Crown and Vodafone, to provide funding to Telecom or Vodafone in accordance with the Rural Broadband Initiative.
+(2) In this section, unless the context otherwise requires,—
+  - **Vodafone** means Vodafone New Zealand Limited and its subsidiaries.
+(3) The authorisations apply to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisation were in force at the time of entry.
+(4) The authorisations do not apply to a contract, arrangement, or understanding that is entered into later than 6 months after the date on which this section comes into force.
+(5) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
+(6) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
+(7) The effect of the authorisations is the same as that stated in section 58A(1) and (2) of the Commerce Act 1986.
+
+### Subpart 6 — Commerce Act 1986 authorisations in respect of Ultra-fast Broadband Initiative
+
+### 156AZB Interpretation for this subpart
+In this subpart, unless the context otherwise requires,—
+  - **fibre optic network assets** means ducting, fibre optic cabling, and related electronic equipment, together with other related equipment, that is used in connection with telecommunication over a fibre-based network
+  - **Telecom** includes Chorus and a successor to Telecom or Chorus
+  - **telecommunications network company** means a company that owns or operates a network.
+
+### 156AZC Restrictive trade practices authorisations in respect of participation in Ultra-fast Broadband Initiative
+(1) The following are authorised:
+  (a) any contract, arrangement, or understanding between the Crown and Telecom that is necessary to give effect to the selection of Telecom as a UFB partner in a particular region or regions; and
+  (b) any contract, arrangement, or understanding that is part of the arrangement with the Crown under the UFB initiative in a particular region or regions, under which Telecom or a UFB partner transfers fibre optic network assets to a local fibre company owned partially by the Crown.
+(2) The authorisations—
+  (a) apply to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisations were in force at the time of entry; but
+  (b) do not apply to any contract, arrangement, or understanding that is entered into more than 2 years after the date on which this section comes into force.
+(3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
+(4) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
+(5) The effect of the authorisations is the same as that stated in section 58A(1) and (2) of the Commerce Act 1986.
+
+### 156AZD Business acquisition authorisations in respect of participation in Ultra-fast Broadband Initiative
+(1) The following are authorised:
+  (a) any acquisition by a UFB partner or a local fibre company owned partially by the Crown of the fibre optic network assets or undertaking of any telecommunications network company as part of an arrangement with the Crown under the UFB initiative; and
+  (b) any acquisition by a UFB partner of the shares of any telecommunications network company (whether on a minority or an equal basis or otherwise) as part of an arrangement with the Crown, or with the Crown and another UFB partner, under the UFB initiative; and
+  (c) any acquisition by the Crown of shares in, or assets of, Telecom pursuant to the selection of Telecom as a UFB partner in a particular region or regions.
+(2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force.
+(3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 67(3)(b) of the Commerce Act 1986 on the date on which this section comes into force.
+(4) Sections 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
+(5) The effect of the authorisations is the same as that stated in section 69 of the Commerce Act 1986.
 
 ## Part 4A — Enforcement
 
@@ -2053,13 +2581,21 @@ Section 156B applies to a person who commits any of the following breaches:
     (i) the statement referred to in section 45(2)(b)(i):
     (ii) all the information referred to in section 45(2)(b)(ii):
   (f) knowingly provides false or misleading information or documents under section 45 or under the notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
-  (g) fails, without reasonable excuse, to comply with an information disclosure requirement made under section 69ZB(7), 69ZC(4), or 69ZF(2):
+  (g) fails, without reasonable excuse, to comply with an information disclosure requirement made under section 69ZC(4), 69ZF(2), or 156AU:
   (h) knowingly provides false or misleading information or documents under Part 2B:
-  (i) fails, without reasonable excuse, to comply with section 81:
-  (j) knowingly provides false or misleading information or documents under section 81:
+  (i) fails, without reasonable excuse, to provide to the Commission, not later than the time specified by it, the information or documents referred to in section 81(2):
+  (ia) knowingly provides or signs a false or misleading certificate under section 81:
+  (ib) knowingly provides false or misleading information or documents under section 81:
+  (j) fails, without reasonable excuse, to comply with section 82:
+  (ja) knowingly provides false or misleading information or documents under section 82:
   (k) fails, without reasonable excuse, to comply with section 83:
   (l) knowingly provides false or misleading information or documents under section 83:
+  (la) fails, without reasonable excuse, to comply with section 94D:
+  (lb) knowingly provides false or misleading information or documents under section 94D:
+  (lc) fails, without reasonable excuse, to comply with a requirement of the Commission under section 100BA(3):
+  (ld) knowingly provides false or misleading information or documents under section 100BA:
   (m) fails, without reasonable excuse, to comply with section 111A:
+  (ma) fails, without reasonable excuse, to comply with section 156AK:
   (n) fails, without reasonable excuse, to comply with any regulations made under section 157(ch) in relation to emergency call services.
 
 ### 156B Enforcement actions that Commission may take
@@ -2155,11 +2691,15 @@ In making a decision about what action to take under section 156B, the Commissio
 ### 156L Pecuniary penalty
 (1) The High Court may order a person to pay to the Crown any pecuniary penalty that the court determines to be appropriate if the High Court is satisfied, on the application of the Commission, that—
   (a) the person has failed, without reasonable excuse, to comply with a separation undertaking under Part 2A; or
+  (ab) the person has failed, without reasonable excuse, to comply with an undertaking under Part 4AA; or
   (b) the person has committed a breach of any of the provisions set out in section 156A.
-(2) In determining an appropriate penalty to be imposed under this section, the High Court must have regard to all relevant matters, including the nature and extent of any commercial gain.
+(2) In determining an appropriate remedy to be imposed under this section, the High Court must have regard to all relevant matters, including—
+  (a) the nature and extent of any commercial gain; and
+  (b) if subsection (1)(ab) applies, the size of the service provider.
 (3) The amount of any pecuniary penalty for each act or omission must not exceed—
   (a) $10 million for a breach referred to in subsection (1)(a); and
-  (b) $1 million for a breach referred to in section 156A(g) in relation to the accounting separation requirements in section 69ZB; and
+  (ab) $10 million for a breach referred to in subsection (1)(ab) (Part 4AA undertakings—UFB and RBI); and
+  (b)
   (c) $300,000 in any other case.
 (4) The standard of proof in proceedings under this section is the standard of proof that applies in civil proceedings.
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the breach was discovered or ought reasonably to have been discovered.
@@ -2169,13 +2709,13 @@ In making a decision about what action to take under section 156B, the Commissio
 ### 156M Further penalty may be imposed for continuing breach
 (1) In addition to a pecuniary penalty imposed under section 156L, the High Court may, for a continuing breach of any of the provisions referred to in section 156L(1), impose for each day or part of a day during which the breach continues a further penalty of—
   (a) $500,000 for a breach referred to in section 156L(1)(a); and
-  (b) $50,000 for a breach referred to in section 156A(g) in relation to an information disclosure requirement made under section 69ZB(7), 69ZC(4), or 69ZF(2); and
+  (b) $50,000 for a breach referred to in section 156A(g) in relation to an information disclosure requirement made under section 69ZC(4) or 69ZF(2); and
   (c) $10,000 for any other case.
 (2) To avoid doubt, any further penalty under subsection (1) may be imposed only in respect of the period that—
   (a) begins on the day on which the pecuniary penalty was imposed under section 156L; and
   (b) ends on the day on which the breach is remedied.
 
-### Subpart 2 — Enforcement of determinations, approved codes, and registered undertakings
+### Subpart 2 — Enforcement of determinations, approved codes, and undertakings
 
 ### 156N Interpretation
 In sections 156O to 156R,—
@@ -2184,13 +2724,16 @@ In sections 156O to 156R,—
     (b) a standard terms determination made under section 30M:
     (c) a residual terms determination made under section 30ZB:
     (d) a designated multinetwork service determination made under section 39:
-    (e) a separation undertaking under Part 2A:
+    (e) an undertaking under Part 2A:
+    (ea) an undertaking under Part 4AA:
     (f) an approved code under Schedule 2:
     (g) a registered undertaking under Schedule 3A
-  - **party** means a party to an enforceable matter and includes, in the case of a separation undertaking under Part 2A, any provider of a telecommunications service that is affected by a breach of the separation undertaking.
+  - **party** means a party to an enforceable matter and includes, in the case of an undertaking under Part 2A or 4AA, any provider of a telecommunications service that is affected by a breach of the undertaking.
 
 ### 156O Complaints of breach of enforceable matter
-(1) An access seeker or an access provider of a designated access service or specified service may make a written complaint to the Commission alleging a breach of an enforceable matter.
+(1) The following persons may make a written complaint to the Commission alleging a breach of an enforceable matter:
+  (a) an access seeker or an access provider of a designated service or a specified service:
+  (b) in the case of an undertaking under Part 2A or 4AA, a party.
 (2) As soon as reasonably practicable after receiving a complaint, the Commission must consider the complaint to decide—
   (a) whether to take no action on the complaint; or
   (b) whether to take either or both of the following actions:
@@ -2198,17 +2741,20 @@ In sections 156O to 156R,—
     (ii) to take, or join another party in taking, enforcement action for the enforceable matter in the High Court under section 156P.
 (3) In deciding whether to take the action referred to in subsection (2)(b)(i), the Commission must consult with interested parties.
 (4) In deciding whether to take the action referred to in subsection (2)(b)(ii), the Commission—
-  (a) must consider the purpose set out in section 18; and
+  (a) must consider,—
+    (i) in the case of a complaint by a person referred to in subsection (1)(a), the purpose set out in section 18; and
+    (ii) in the case of a complaint by a party relating to an undertaking under Part 2A, the purposes set out in section 69A; and
+    (iii) in the case of a complaint by a party relating to an undertaking under Part 4AA, the purposes set out in section 156AC; and
   (b) may consider the financial means of the complainant.
 (5) For the purposes of subsection (2)(b)(i), section 58 applies to the enforceable matter with any necessary modifications.
 (6) The Commission must promptly give written notice to the complainant of the Commission's decision on the complaint.
-(7) Subsection (2)(b)(i) does not apply in the case of a separation undertaking under Part 2A.
+(7) Subsection (2)(b)(i) does not apply in the case of an undertaking under Part 2A or 4AA.
 
 ### 156P Enforcement by High Court
 (1) An enforceable matter may be enforced by a party or the Commission, or both, filing it in the prescribed form in the Wellington Registry of the High Court.
 (2) The Commission may,—
   (a) for a breach of a determination made under section 27 or a standard terms determination made under section 30M, enforce the enforceable matter only if it has received a complaint of the breach under section 156O; and
-  (b) for a breach of a designated multinetwork service determination, an approved code, a registered undertaking, or a separation undertaking under Part 2A, enforce the enforceable matter on its own initiative (whether or not it has received a complaint of the breach under section 156O).
+  (b) for a breach of a designated multinetwork service determination, an approved code, a registered undertaking, an undertaking under Part 2A or 4AA, enforce the enforceable matter on its own initiative (whether or not it has received a complaint of the breach under section 156O).
 (3) An enforceable matter filed in the High Court under subsection (1) is enforceable as a judgment of the High Court in its civil jurisdiction.
 (4) An enforceable matter is enforceable in accordance with subsection (3) during the period in which the matter continues in force.
 (5) A party who has filed a determination under subsection (1) must file in the prescribed form in the High Court any clarification of the determination under section 58 or reconsideration of the determination under section 59.
@@ -2225,6 +2771,32 @@ In sections 156O to 156R,—
 The amount of any pecuniary penalty imposed under section 156Q(2) must not exceed the value of any commercial gain resulting from the breach of the enforceable matter, less the amount of any compensatory damages that the court decides to award against the person who has committed the breach.
 
 ## Part 5 — Miscellaneous
+
+### 157AA Minister must review regulatory framework
+(1) The Minister must, not later than 30 September 2016, commence a review of the policy framework for regulating telecommunications services in New Zealand, taking account of the market structure and technology developments and competitive conditions in the telecommunications industry at the time of the review, including the impact of fibre, copper, wireless, and other telecommunications network investment.
+(2) The review must—
+  (a) consider whether the existing regulatory framework under the Telecommunications Act 2001 is the most effective means to—
+    (i) promote competition for the long-term benefit of end-users; and
+    (ii) promote the legitimate commercial interests of access providers and access seekers; and
+    (iii) encourage efficient investment for the long-term benefit of end-users, by—
+      (A) providing investors with an expectation of a reasonable return on their investment; and
+      (B) providing sufficient regulatory stability, transparency, and certainty to enable businesses to make long-term investments; and
+    (iv) support innovation in telecommunications markets, or deregulation where sufficient competition exists; and
+  (b) assess whether alternative regulatory frameworks, including (without limitation) generic price control, would be a preferable and more effective means of achieving these outcomes.
+(3) In carrying out the review, the Minister must—
+  (a) consult with interested parties, including the Commission, industry participants, consumers, and Māori; and
+  (b) take into account—
+    (i) the extent of network coverage of services provided on fibre, copper, wireless, and other telecommunications networks; and
+    (ii) the level of investment in fibre, copper, wireless, and other telecommunications networks, and the ability of access providers to recover that investment within a reasonable period; and
+    (iii) the ability of access providers to achieve, within a reasonable period, reasonable rates of return on their investment in telecommunications networks that adequately reflect the risks assumed by those access providers when the relevant investments were made; and
+    (iv) the level of competition in relevant telecommunications markets; and
+    (v) the effects of the regulatory framework under this Act on investment in fibre, copper, wireless, and other telecommunications networks, and on outcomes for end-users; and
+    (vi) the sustainability of the regulatory framework under this Act, given developments in technology and convergence of traditional telecommunications markets; and
+    (vii) the importance of any regulatory intervention being proportionate, having regard to the problems being addressed, the size of the relevant market, and the number and size of the potentially regulated entities; and
+    (viii) developments in wireless solutions and whether they should be part of any telecommunications regulation; and
+    (ix) experience in comparable jurisdictions and economic relations with Australia, weighed against what is appropriate for New Zealand conditions and the make-up and history of New Zealand's telecommunications markets; and
+    (x) any other matters that the Minister considers relevant.
+(4) The Minister must use his or her best endeavours to ensure that the review is completed no later than 31 March 2019.
 
 ### 157 Regulations
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -2538,7 +3110,7 @@ The following standard access principles apply to designated access services and
 (3) The Forum may otherwise determine the way in which the referendum is conducted.
 (3A) All eligible persons who are, in the opinion of the Commission, affected or likely to be affected by the draft code may vote in the referendum.
 (4) The following persons are entitled to register with the Commission as eligible persons:
-  (a) a person who provides a telecommunications service by means of some component of a PSTN or PDN that is operated by that person:
+  (a) a person who provides a telecommunications service by means of some component of a PTN that is operated by that person:
   (b) an access seeker or access provider of—
     (i) a designated service or specified service; or
     (ii) a service supplied under a registered undertaking:
@@ -2655,6 +3227,7 @@ The Commission must give public notice of—
 (4) The Commission must not consider the matter under subclause (3) earlier than 12 months before the end of each 5-year interval referred to in that subclause.
 (5) If the Commission decides that there are reasonable grounds for commencing an investigation into whether a designated service or specified service should be omitted from Schedule 1 under section 66(b), the Commission must commence the investigation not later than 15 working days after making that decision.
 (6) The Commission must give public notice of the commencement of an investigation under this clause.
+(7) This clause is subject to section 156AP.
 
 ### 2 Draft report
 (1) After public notice of the investigation has been given, the Commission must—
@@ -2687,8 +3260,9 @@ The Commission must give public notice of—
     (i) whether or not the proposed alteration should be made:
     (ii) in the case of a proposed alteration to a designated service, whether or not the Minister's decision regarding the proposed alteration should be deferred for any period that the Commission thinks fit; and
   (c) the reasons for the Commission's recommendation; and
-  (d) the views of 2 members of the Commission (other than the Telecommunications Commissioner) regarding the recommendation.
+  (d) the majority view and any dissenting views of the members of the Commission regarding the recommendation.
 (4) The Commission may, if it thinks fit, identify any recommendations included in the final report that it considers to be sufficiently related to each other that they ought to be considered together by the Minister.
+(5) This clause is subject to section 156AP.
 
 ### 5 Commission must give written reasons for not meeting time limit
 If, despite making reasonable efforts, the Commission is unable to do all of the things set out in clause 4(1) within the time limit specified in that subclause, the Commission must give to the Minister written reasons for not meeting that time limit.
@@ -2953,6 +3527,24 @@ An application under clause 13 must—
 (2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)(a).
 (3) Before determining the application, the Commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
 
+## Schedule 3B — Annual telecommunications development levy
+
+| Financial year | Telecommunications development levy |
+| --- | --- |
+|  | ($) |
+| 2010/11 | 50 million |
+| 2011/12 | 50 million |
+| 2012/13 | 50 million |
+| 2013/14 | 50 million |
+| 2014/15 | 50 million |
+| 2015/16 | 50 million |
+| 2016/17 | 10 million |
+| 2017/18 and each subsequent financial year | the inflation-adjusted specified telecommunications development levy |
+
+|  | a | × | c |
+| --- | --- | --- | --- |
+| b |  |  |  |
+
 ## Schedule 4 — Enactments amended
 
 ### 1 Title
@@ -3008,3 +3600,248 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 28 Transitional provision
 To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
+
+### 1 Title
+This Act is the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011.
+
+### 2 Commencement
+(1) This Act, except subpart 2 of Part 2 and sections 52 to 68, comes into force on the day after the date on which it receives the Royal assent.
+(2) Subpart 2 of Part 2 and sections 52 to 68 come into force on separation day, but only if an Order in Council has been made under section 36.
+(3) Telecom must publish the date of separation day in the Gazette as soon as practicable after it is known.
+(4) Separation day has the meaning set out in section 69B of the principal Act (as inserted by section 51 of this Act).
+
+## Part 1 — Telecommunications service obligations and general matters
+
+### Subpart 2 — Savings and transitional issues
+
+### 28 Savings provision for financial years up to and including 2009/10 financial year
+The principal Act continues to apply, as if this Act had not been passed, to—
+  (a) all TSO instruments, deemed TSO instruments, TSO providers, and liable persons for the financial year ended 30 June 2010 and all prior financial years; and
+  (b) every decision or determination relating to a TSO instrument or deemed TSO instrument made, or required to be made, by the Commission in respect of the financial year ended 30 June 2010 and all prior financial years.
+
+### 29 Transitional provision concerning liability allocation determination for 2010/11 financial year
+(1) This section applies in respect of the financial year ended 30 June 2011.
+(2) For the purposes of subpart 2 of Part 3 of the principal Act,—
+  (a) the definition of liable person (as substituted by this Act) does not apply; and
+  (b) liable person means—
+    (i) a person—
+      (A) who is identified by the Commission as a liable person in its final cost allocation determination, for the financial year ended 30 June 2010, in relation to the deemed TSO instrument known as the Telecommunications Service Obligations (TSO) Deed for Local Residential Telephone Service; and
+      (B) whose qualified revenue for the financial year ended 30 June 2010 is equal to or greater than $5 million; and
+    (ii) Telecom; and
+  (c) the definition of qualified revenue (as substituted by this Act) does not apply; and
+  (d) qualified revenue means the amount of revenue (as determined in accordance with any specifications set by the Commission) that, during the financial year, each liable person received from supplying all or any of the following:
+    (i) telecommunications services by means of its PSTN:
+    (ii) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
+    (iii) directory services in respect of PSTN numbers; and
+  (e) sections 81(1) and 82 do not apply.
+(3) For the avoidance of doubt,—
+  (a) section 81(2) and (3) apply for the purpose of determining whether a person is a liable person, within the meaning of subsection (2)(b)(i) of this section, to whom subpart 2 of Part 3 of the principal Act applies in respect of the financial year ended 30 June 2011; and
+  (b) except as provided in subsections (1) and (2) of this section, subpart 2 of Part 3 of the principal Act (as substituted by this Act) otherwise applies in respect of the financial year ended 30 June 2011.
+
+### 30 Transitional provision concerning information about deemed TSO instruments to be included in TSO cost calculation determinations
+Section 100BA of the principal Act (as inserted by this Act) does not apply in respect of any TSO charge received by a TSO provider before the 2010/11 financial year.
+
+## Part 2 — Structural separation of Telecom
+
+### Subpart 1 — Preparation for separation of Telecom
+
+### 31 Interpretation of this subpart
+For the purposes of this subpart, the terms defined in Part 2A of the principal Act (as substituted by section 51 of this Act, were that section in force) and used, but not defined, in this subpart have the same meanings as set out in that Part, with necessary modifications.
+
+**Approval of asset allocation plan**
+
+### 32 Preparation of asset allocation plan
+(1) Telecom must prepare an asset allocation plan and submit it to the Minister and the Commission not later than 40 working days after the date on which this section comes into force.
+(2) The asset allocation plan must meet the information requirements in subsection (3).
+(3) The asset allocation plan must—
+  (a) specify how the assets and liabilities of Telecom as at 5 working days before the plan is submitted are intended to be allocated between Telecom and Chorus (which obligation may be met by specifying categories of assets and liabilities, rather than every individual asset and liability, if the categorisation is reasonable and enables the Minister to understand where the assets and liabilities will be held after separation day); and
+  (b) specify how each asset, or category of assets, will be used to provide telecommunications services to the market; and
+  (c) specify the key terms of all intended material sharing arrangements.
+(4) Material, in this section and section 37, must be determined having regard to the degree of importance of the matter, in terms of its likely impact on, and likely consequences for, the provision of telecommunications services to the market.
+
+### 33 Updating of asset allocation plan before approval
+Telecom may, by notice in writing to the Minister, make changes to the asset allocation plan in order to update it at any time before the Minister approves the plan.
+
+### 34 Decision of Minister concerning approval of asset allocation plan
+(1) The Minister must, as soon as practicable after receiving the asset allocation plan,—
+  (a) decide whether to recommend or decline to recommend the making of an Order in Council approving the plan under section 36; and
+  (b) notify Telecom of the Minister's decision.
+(2) Before making a decision under subsection (1), the Minister may consult the Commission.
+(3) The Minister may decline to recommend the making of an Order in Council under section 36 only if the Minister is not satisfied that the plan meets the information requirements set out in section 32(3).
+
+### 35 Variation of asset allocation plan
+(1) If the Minister declines to recommend the making of an Order in Council approving the asset allocation plan,—
+  (a) the Minister must give reasons to Telecom for not recommending approval of the plan; and
+  (b) the Minister must invite Telecom to submit a revised plan; and
+  (c) Telecom must submit any revised plan not later than 15 days after the Minister notifies the Minister's decision under section 34, or any further time that the Minister may allow.
+(2) Sections 32(2) and (3) and 34 and subsection (1) of this section apply, with all necessary modifications, to a revised asset allocation plan as if it were an asset allocation plan.
+
+### 36 Asset allocation plan approved by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, approve the asset allocation plan.
+(2) An Order in Council under this section may be made only before separation day.
+(3) An Order in Council under this section must identify, but need not contain, the asset allocation plan.
+
+### 37 Telecom must make overview of asset allocation plan publicly available
+(1) Telecom must, as soon as practicable after approval of the asset allocation plan under section 36 but no later than separation day, make an overview of the plan publicly available.
+(2) The overview must provide sufficient information about the intended allocation of assets and liabilities and sharing arrangements to enable a reasonable person to understand the material aspects of the asset allocation plan.
+(3) The requirements in subsections (1) and (2) do not require Telecom to disclose any confidential commercial information.
+(4) In this section, publicly available means available at all reasonable times, free of charge, on an Internet site maintained by or on behalf of Telecom.
+
+### 38 Telecom must update Minister and overview on day before separation day
+Telecom must, on the day before separation day,—
+  (a) make changes to the asset allocation plan in order to update it to take account of—
+    (i) assets acquired, and liabilities incurred, since the date on which the plan was submitted or approved; and
+    (ii) trivial differences between the plan as approved and the demerger arrangement; and
+  (b) notify the Minister in writing of the changes made; and
+  (c) update the overview made available under section 37 to take account of that information.
+
+### 39 Demerger must be in accordance with asset allocation plan
+(1) Telecom must ensure that the demerger of Telecom and Chorus under the demerger arrangement is carried out in accordance with, and gives full effect to, the asset allocation plan as approved under section 36.
+(2) The High Court may order Telecom to pay to the Crown a pecuniary penalty not exceeding $10 million if the court is satisfied, on the application of the chief executive of the Ministry, that Telecom has failed, without reasonable excuse, to comply with subsection (1) as at separation day.
+(3) Telecom has a reasonable excuse for the purpose of subsection (2) to the extent that the failure to comply is because of a matter notified to the Minister under section 38(b).
+(4) Section 156L(2), (4), and (5) of the principal Act apply with all necessary modifications to proceedings under this section.
+
+**Approval of Chorus undertakings**
+
+### 40 Minister must consider purposes in section 69W
+In making a decision under sections 42 and 43, the Minister must consider the purposes set out in section 69W and make the decision that the Minister considers best gives, or is best likely to give, effect to the purposes set out in that section.
+
+### 41 Chorus must submit undertakings for approval by Minister
+Chorus must submit draft undertakings that comply with section 69XB of the principal Act (were that section in force) not later than 20 working days after the date on which this section comes into force or any later date, before separation day, that the Minister may allow.
+
+### 42 Minister may approve or decline to approve undertakings
+(1) The Minister must, as soon as practicable after receiving the undertakings, by notice in writing to Chorus,—
+  (a) approve the undertakings; or
+  (b) decline to approve the undertakings.
+(2) The Minister must consult the Commission, and may consult any other person that the Minister considers has a material interest, before deciding whether to approve or decline to approve the undertakings.
+(3) If the Minister declines to approve the undertakings, the Minister must—
+  (a) give reasons to Chorus for not approving the undertakings; and
+  (b) direct Chorus to prepare and submit amended undertakings.
+(4) Chorus must submit amended undertakings to the Minister not later than 15 working days after the date on which approval of the undertakings was declined, or any later date that the Minister may allow.
+(5) The Minister must notify his or her approval of an undertaking by notice in the Gazette.
+
+### 43 Approval of amended undertakings
+(1) As soon as practicable after receiving amended undertakings, the Minister must—
+  (a) approve the undertakings by notice in writing to Chorus; or
+  (b) if the Minister considers that the amended undertakings require further amendment, make any amendments to the undertakings that the Minister considers necessary to give better effect to the purpose and requirements in sections 69W and 69XB of the principal Act.
+(2) Before making any amendments to the undertakings under this section, the Minister must advise Chorus of the Minister's intention to do so and must give Chorus a reasonable opportunity to make submissions on the matter.
+(3) The Minister must give notice in writing to Chorus of the approval of the amended undertakings, accompanied by a copy of the undertakings as approved.
+(4) The Minister must notify his or her approval of an undertaking by notice in the Gazette.
+
+### 44 Failure to submit undertakings
+(1) The Minister must arrange for undertakings or revised undertakings (as the case may be) to be prepared, and the Minister has all the powers necessary for that purpose, if—
+  (a) Chorus has not submitted the undertakings required under section 41 within the time specified in that section; or
+  (b) Chorus has not given the Minister revised undertakings within the time specified in section 42(4).
+(2) Section 69XB of the principal Act and section 43(1), (3), and (4) apply to undertakings prepared under subsection (1) as if the undertakings were amended undertakings submitted by Chorus to the Minister.
+(3) If, as a result of the default of Chorus, the Minister acts under subsection (1) the Minister is entitled to be reimbursed for all costs and expenses incurred by the Minister in taking the action.
+
+**Notice of separation day**
+
+### 45 Telecom must give notice of separation day and provide information
+(1) Telecom must make the following information publicly available for a period of not less than 1 month before separation day:
+  (a) the date of separation day:
+  (b) for each designated service or specified service in respect of which Telecom is an access provider immediately before separation day, which entity (Telecom or Chorus) will provide the service and which entity will be subject to the obligations under this Act in respect of that service after separation day.
+(2) In this section, publicly available has the same meaning as in section 37, and the information referred to in that section may be combined with the information referred to in this section.
+
+**Approval of proposals for tax purposes**
+
+### 46 Proposals may be approved for tax purposes by Orders in Council
+(1) The Governor-General may, by Order in Council made on the advice of the Minister of Revenue, approve a proposal signed by or on behalf of Telecom Corporation of New Zealand Limited and ChorusCo.
+(2) The proposal may provide for 1 or more of the following matters:
+  (a) specify a day and a purpose relevant to sections 69XO to 69XZ for the purposes of the definition of appointed day in section 69XM:
+  (b) specify a list of assets and liabilities in accordance with subsections (3) and (4) for the purpose of the definition of designated assets and liabilities in section 69XM:
+  (c) prescribe the manner in which the volume weighted average price is to be calculated for the purposes of section 69XP(6):
+  (d) amend an earlier proposal with effect from the date on which the earlier proposal took effect or from a later date, if appropriate.
+(3) A list of assets and liabilities may be in the form of references to ledgers or registers maintained by a Telecom company or a Chorus company, or be in any other form, and be accompanied by any other information, that is reasonable and appropriate.
+(4) A designated asset or designated liability may consist of part only of an asset or liability.
+(5) An Order in Council under this section must identify, but need not contain, the proposal.
+(6) In this section, the references to sections 69XO to 69XZ, 69XM, and 69XP are references to those sections of the principal Act as inserted by section 51 of this Act, were section 51 and each of those sections in force.
+
+### Subpart 3 — Consequential amendments, saving, transitional provisions, and miscellaneous matters
+
+**Transitional provision relating to TSO obligations**
+
+### 69 TSO provider cannot request TSO cost calculation determination under section 94 for financial year in which separation day occurs
+(1) Despite section 94, a TSO provider under a TSO instrument that does not contain a specified amount may not notify the Commission that it wishes to invoke the procedure in sections 94D to 94K for the preparation of a TSO cost calculation determination for the financial year in which separation day occurs.
+(2) To avoid doubt, for the financial year in which separation day occurs, the TSO charges for a TSO instrument that does not contain a specified amount are deemed to be zero as provided in section 94C.
+
+**Transitional provision relating to shared asset arrangements**
+
+### 70 Minister may grant exemptions in relation to shared asset arrangements
+The Minister may grant an exemption under section 69N of the principal Act (as inserted by section 51 of this Act) as if those sections were in force.
+
+**Saving and transitional provisions relating to designated access services**
+
+### 71 Standard terms determinations continue to apply
+(1) Each standard terms determination referred to in the first column of the following table remains in force and continues to apply as if the determination were a determination made by the Commission for the designated access service set out in the second column of that table opposite that determination:Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream access Standard terms determination for Telecom's unbundled bitstream access backhaul service, 27 June 2008Chorus's unbundled bitstream access backhaulStandard terms determination for Telecom's unbundled copper local loop network service, 7 November 2007Standard terms determination for the designated services of Telecom's unbundled copper local loop network service (Sub-loop UCLL), Telecom's unbundled copper local loop network co-location service (Sub-loop Co-location) and Telecom's unbundled copper local loop network backhaul service (Sub-loop backhaul), 18 June 2009 (the Sub-loop services standard terms determination) Chorus's unbundled copper local loop networkStandard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Sub-loop services standard terms determinationChorus's unbundled copper local loop network co-locationSub-loop services standard terms determination Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)Standard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+(2) Part 2 of the principal Act applies to each standard terms determination accordingly.
+(3) Subsections (1) and (2) are subject to sections 72 to 79.
+
+### 72 General provision concerning reviews of standard terms determinations for purpose of implementing amendments to Schedule 1 of principal Act
+(1) The Commission may review any standard terms determination referred to in section 71 under section 30R for the purpose of making any changes to the determination that the Commission considers necessary to implement the amendments made by this Act to Schedule 1 of the principal Act—
+  (a) before the relevant amendments come into force or take effect; and
+  (b) as if the relevant amendments were in force or had taken effect.
+(2) However,—
+  (a) the Commission must review the standard terms determination for Telecom's unbundled bitstream access dated 12 December 2007 before separation day, as referred to in section 73(1); and
+  (b) the Commission must make reasonable efforts to conduct a review of certain determinations—
+    (i) before separation day, as referred to in section 73(2); and
+    (ii) before the expiry of 1 year from separation day, as referred to in section 77; and
+  (c) the Commission may not make a replacement determination under section 30R(2); and
+  (d) any variation of, addition to, or deletion of terms in a determination for the purpose of implementing an amendment made by this Act to the principal Act may not come into force or take effect until the relevant amendment comes into force or takes effect; and
+  (e) on conducting any review of the standard terms determination for Telecom's unbundled copper local loop network service dated 7 November 2007 and the Sub-loop services standard terms determination, the Commission's powers under section 30R are subject to section 73(3).
+
+### 73 Commission must complete reviews of standard terms determinations for certain designated access services before separation day
+(1) The Commission must review the standard terms determination for Telecom's unbundled bitstream access dated 12 December 2007 before separation day for the purpose of making any changes to the determination that may be necessary for the purpose of implementing clause 4A of subpart 1 of Part 1 of Schedule 1 of the principal Act from the close of the day before separation day.
+(2) The Commission must make reasonable efforts to do the following before separation day:
+  (a) review each of the standard terms determinations referred to in the first column of the table in subsection (5) for the purpose of making any changes or (in the case of the standard terms determination for Telecom's unbundled bitstream access) any further changes that may be necessary in order for the determination to apply to the designated access service set out opposite that determination in the second column of that table from the close of the day before separation day; and
+  (b) review the standard terms determination for Telecom's unbundled copper local loop network dated 7 November 2007 (in this section, the unbundled copper local loop network determination) and the Sub-loop services standard terms determination for the purpose of making any changes to those determinations that may be necessary for the purpose of implementing clause 4A of subpart 1 of Part 1 of Schedule 1; and
+  (c) give public notice of the results of each review.
+(3) However, no variation of, addition to, or deletion of terms in the unbundled copper local loop network determination or the Sub-loop services standard terms determination that relates to the implementation of clause 4A of subpart 1 of Part 1 of Schedule 1 may take effect before the expiry of 3 years from separation day.
+(4) To avoid doubt, clause 4A of subpart 1 of Part 1 of Schedule 1 of the principal Act applies to Chorus's unbundled bitstream access service on and after separation day and any changes made to the standard terms determination in accordance with subsection (1) for the purpose of implementing that clause take effect from the close of the day before separation day.
+(5) The table referred to in subsection (2) is—Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007 Chorus's unbundled bitstream access (excluding the initial and the final pricing principles applicable after the expiry of 3 years from separation day)Standard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Chorus's unbundled copper local loop network co-locationStandard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+
+### 74 Commission must make standard terms determination for Chorus's unbundled copper low frequency service before separation day
+(1) The Commission must make reasonable efforts to make a standard terms determination under section 30M for Chorus's unbundled copper low frequency service before separation day.
+(2) The standard terms determination must—
+  (a) be made in accordance with the procedure and requirements set out in sections 30D to 30Q; and
+  (b) apply from the close of the day before separation day.
+
+**Further transitional provisions relating to Chorus's unbundled bitstream access service**
+
+### 75 Certain clauses of standard terms determination do not apply to Chorus's unbundled bitstream access service
+Despite section 71(1), the following clauses of Schedule 2 of the standard terms determination for Telecom's unbundled bitstream access service dated 12 December 2007 do not apply to Chorus's unbundled bitstream access service from the close of the day before separation day:
+  (a) clause 4 (adjustment to basic UBA monthly (with POTS) charge):
+  (b) clause 4B (quarterly adjustment to early termination charge):
+  (c) clause 5 (adjustment to enhanced UBA monthly (with POTS) charge):
+  (d) clause 6 (adjustment to enhanced UBA service (without POTS) charges).
+
+### 76 Certain provisions of Part 2 and Schedule 3 of principal Act do not apply in relation to Chorus's unbundled bitstream access service
+Despite section 71(2), the following provisions of the principal Act do not apply in relation to Chorus's unbundled bitstream access service for the period starting on separation day and ending 3 years after separation day:
+  (a) section 30R (review of standard terms determination), except as provided in sections 73 and 77:
+  (b) section 30V (application for residual terms determination):
+  (c) section 59 (reconsideration of determination):
+  (d) clause 1(1) and (5) of Schedule 3 (Commission's investigation).
+
+### 77 Review of standard terms determination for unbundled bitstream access service before expiry of 1 year from separation day
+(1) The Commission must make reasonable efforts to do the following before the expiry of 1 year from separation day:
+  (a) review the standard terms determination for Chorus's unbundled bitstream access service under section 30R for the purpose of making any changes that may be necessary in order to implement the initial and final pricing principles applicable after the expiry of 3 years from separation day; and
+  (b) give public notice of the result of the review.
+(2) To avoid doubt, no variation of, addition to, or deletion of terms specified in the standard terms determination as a result of the Commission's review in accordance with subsection (1) may take effect before the expiry of 3 years from separation day.
+
+### 78 Party to standard terms determination for Chorus's unbundled bitstream access service may apply for pricing review
+(1) A party to the standard terms determination for Chorus's unbundled bitstream access service may apply for a pricing review under section 42 as if the review under section 77(1)(a) were a determination made under section 30M regarding the price payable for the service.
+(2) The pricing review application must be made in accordance with section 43, except that section 43(b)(ii) (which relates to the time within which an application under section 42 must be made) does not apply and the application must be given to the Commission not later than 25 working days after the Commission gives public notice of the review in accordance with section 77(1)(b).
+(3) The Commission must make reasonable efforts to complete the pricing review determination before the expiry of 3 years from separation day.
+
+### 79 Chorus's unbundled bitstream access prices grandfathered
+(1) This section applies in relation to a subscriber line if an access seeker is being supplied with a UBA service in relation to that subscriber line before separation day.
+(2) Chorus must, for the period starting on separation day and ending 3 years after separation day, provide each service component identified in items 2.1 to 2.8 of Schedule 2 of the standard terms determination for Telecom's unbundled bitstream access service dated 12 December 2007 at whichever of the following is the lower:
+  (a) the price that applies under the determination for the date on which this Act receives the Royal assent, if that price is set out in the standard terms determination before the day before separation day:
+  (b) the price set out in the standard terms determination on the day before separation day.
+(3) From the end of the period referred to in subsection (2), the initial pricing principle or the final pricing principle (whichever applies) for Chorus's unbundled bitstream access service applies to unbundled bitstream access services purchased by access seekers before separation day.
+(4) In this section, UBA service has the meaning set out in clause 1 of the standard terms determination for Telecom's unbundled bitstream access service dated 12 December 2007.
+
+**Miscellaneous**
+
+### 80 Operational separation undertakings cease to have effect
+The separation undertakings given by Telecom in favour of the Crown for the purposes of Part 2A (before its repeal and substitution by this Act) cease to have legal effect from the close of the day before separation day.
