@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -1178,7 +1178,7 @@ The Chief Judge, with the concurrence of at least 2 other Judges, may from time 
   (b) any barrister or solicitor appointed to assist the court under section 70(3)(a).
   (c)
 (3A)
-(4) A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Agency as soon as practicable after the making of the order.
+(4) A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Commissioner as soon as practicable after the making of the order.
 (5) No person in whose favour an order has been made under subsection (3) may apply for or be granted assistance under the Legal Services Act 2000 in respect of the same matter.
 (6) Where an order is made under subsection (3), the court may also make an order charging any real or personal property of the person or class of person in whose favour the first order is made, or of any other owners whose interests are or could have been affected by any order made in the proceedings to which the grant of aid relates, with the whole or any part of the amount so ordered to be paid out of the Fund, and fixing the terms and conditions on which the amount charged is to be repaid.
 (7) Every charge created by an order of the court under subsection (6) shall be in favour of the Māori Trustee on behalf of the Crown.
