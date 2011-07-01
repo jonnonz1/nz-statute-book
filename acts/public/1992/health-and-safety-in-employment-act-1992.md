@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-07-01_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -513,7 +513,7 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
   (b) in the form in which it was then in force, related to matters of a kind to which the provision relates.
 (10) In the absence of proof to the contrary, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by the Secretary shall in any proceedings be deemed to be an approved code of practice or an amendment of an approved code of practice.
 (11) Nothing in subsection (10) limits any method of proof of an approved code of practice or an amendment of an approved code of practice.
-(12) Subject to subsection (13), an approved code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996.
+(12) Subject to subsection (13), an approved code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011.
 (13) The Minister shall not—without the consent of the other Minister (or the the chief executive of the department of State responsible for the administration of the Building Act 2004).
   (a) adopt with modification—
     (i) any document previously approved by another Minister of the Crown; or
@@ -531,7 +531,7 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
     (iv) principals, or self-employed persons:
   (b) providing for any other matters contemplated by, or necessary for giving full effect to, this Act.
 (2) The Minister shall not recommend the making of any regulations without first consulting all persons and organisations the Minister thinks appropriate, having regard to the regulations' content.
-(3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, shall consult with the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996 about the contents of such regulations, and shall take into account any submissions made by that Authority.
+(3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 about the contents of such regulations, and shall take into account any submissions made by that Authority.
 
 ### 22 Application of regulations
 Regulations under section 21(1)(a) may impose duties—
