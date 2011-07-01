@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -937,8 +937,21 @@ The object of this Part is—
 (6) For the purpose of subsection (1)(e), a collective agreement that includes a coverage clause referring to named employees, or the work done by named employees, to whom the collective agreement applies, must be treated as covering the work or type of work done by the named employees (whether done by those employees or any other employees).
 (7) In this section, employee includes a prospective employee.
 
-### 64 Opportunity to seek advice for new employee where no collective agreement applies
-[Repealed]
+### 64 Employer must retain copy of individual employment agreement or individual terms and conditions of employment
+(1) When section 63A applies, the employer must retain a signed copy of the employee's individual employment agreement or the current terms and conditions of employment that make up the employee's individual terms and conditions of employment (as the case may be).
+(2) If an employer has provided an employee with an intended agreement under section 63A(2)(a), the employer must retain a copy of that intended agreement even if the employee has not—
+  (a) signed the intended agreement; or
+  (b) agreed to any of the terms and conditions specified in the intended agreement.
+(3) If requested by the employee, the employer must, as soon as is reasonably practicable, provide the employee with a copy of the employee's—
+  (a) individual employment agreement or current terms and conditions of employment retained under subsection (1); or
+  (b) intended agreement retained under subsection (2).
+(4) An employer who fails to comply with subsection (1), (2), or (3) is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.
+(5) Before bringing an action under subsection (4), the Labour Inspector must—
+  (a) give the employer written notice of the breach of this section; and
+  (b) give the employer 7 working days to remedy the breach.
+(6) To avoid doubt, an intended agreement must not be treated as the employee's employment agreement if the employee has not—
+  (a) signed the intended agreement; or
+  (b) agreed to any of the terms and conditions specified in the intended agreement.
 
 ### 65 Terms and conditions of employment where no collective agreement applies
 (1) The individual employment agreement of an employee whose work is not covered by a collective agreement that binds his or her employer—
@@ -1695,7 +1708,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 79 Eligible employee taking employment relations education leave entitled to ordinary pay
 (1) An employer must pay to an eligible employee the employee's relevant daily pay as defined in section 9 of the Holidays Act 2003 or average daily pay calculated in accordance with section 9A of that Act (as the case may be) for every day or part of a day taken by the employee as employment relations education leave.
-(2) However, an employer is not required to comply with subsection (1) in respect of any day for which the eligible employee is paid weekly compensation under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(2) However, an employer is not required to comply with subsection (1) in respect of any day for which the eligible employee is paid weekly compensation under the Accident Compensation Act 2001.
 
 ## Part 8 — Strikes and lockouts
 
@@ -2354,7 +2367,7 @@ Where the remedy of reinstatement is provided by the Authority or the court, the
     (vii) section 11(3)(c) of the Health and Disability Services Act 1993; or
     (viii) clauses 5 and 6 of Schedule 1 of the Broadcasting Act 1989; or
     (ix) sections 83, 83A, and 83B of the Fire Service Act 1975; or
-    (x) clauses 18, 19, and 21 of Schedule 5 of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
+    (x) clauses 18, 19, and 21 of Schedule 5 of the Accident Compensation Act 2001; or
     (xi) Part 2A (other than section 19G) and Schedule 1A of the Health and Safety in Employment Act 1992; or
   (b) any order, determination, direction, or requirement made or given under this Act by the Authority or a member or officer of the Authority.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require, in or in conjunction with any matter before the Authority under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
@@ -3398,7 +3411,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (3) Any person purporting to represent any employee or employer must establish that person's authority for that representation.
 (4) The Acts to which this section applies are—
   (a) this Act:
-  (b) the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+  (b) the Accident Compensation Act 2001:
   (c) the Equal Pay Act 1972:
   (d) the Holidays Act 2003:
   (e) the Human Rights Act 1993:
