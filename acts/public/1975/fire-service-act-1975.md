@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2011-07-01_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -463,7 +463,7 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
   (b) achieve unity and completeness of fire safety law and practice.
 
 ### 21 Functions of Commission in relation to the promotion of fire safety
-(1) The Commission shall seek to achieve co-ordination between territorial authorities, government departments, the architectural profession, the engineering profession, the building industry, the chief executive of the department of State responsible for the administration of the Building Act 2004, the Standards Association of New Zealand, the Building Research Association of New Zealand, the Environmental Risk Management Authority, and other bodies and organisations in matters relating to the promotion of fire safety, whether by making contributions to their expenses or otherwise.
+(1) The Commission shall seek to achieve co-ordination between territorial authorities, government departments, the architectural profession, the engineering profession, the building industry, the chief executive of the department of State responsible for the administration of the Building Act 2004, the Standards Association of New Zealand, the Building Research Association of New Zealand, the Environmental Protection Authority, and other bodies and organisations in matters relating to the promotion of fire safety, whether by making contributions to their expenses or otherwise.
 (2) The functions of the Commission in relation to the promotion of fire safety shall include—
   (a) establishing close and harmonious working relations with industry, commerce, government departments, territorial authorities, and other bodies and organisations:
   (b) seeking to ensure that knowledge affecting fire safety gained by the Commission is applied throughout the community:
@@ -478,10 +478,10 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
     (i) safeguards against fire:
     (ii) fire resisting construction and means of escape in the event of fire:
     (iii) the protection of persons and property from the danger of fire or other emergency:
-    (iv) the installation and maintenance of hand-operated fire fighting equipment, riser mains for fire service use, fire detection systems, automatic sprinkler and other fixed fire extinguishing systems, and manual fire alarm systems:
+    (iv) the installation and maintenance of hand-operated firefighting equipment, riser mains for fire service use, fire detection systems, automatic sprinkler and other fixed fire extinguishing systems, and manual fire alarm systems:
   (b) the fire safety provisions for any proposed building or for additions or alterations to any existing building:
   (c) the packing, marking, handling, carriage, storage, and use of hazardous materials.
-(4A) The Commission, before making any recommendation under subsection (4) that relates to a hazardous substance, shall consult with the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996 about the contents of such recommendation.
+(4A) Before making any recommendation under subsection (4) that relates to hazardous substances, the Commission must consult the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011.
 (5) Where a code of practice or standard is submitted pursuant to subsection (4) for the Minister's approval, the Minister may approve that code of practice or standard.
 (6) Notwithstanding the provisions of subsection (5), the Minister shall not approve any code of practice or standard, under that subsection, in relation to building matters if that code or standard purports to have the effect of requiring any building to achieve performance criteria additional to or more restrictive than those specified in the Building Act 2004 or in the building code.
 
