@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2011-07-01_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -135,9 +135,9 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 ### 11 Further limitations on jurisdiction
 (1) A debt or liquidated demand may be the subject of a declaration under section 10(1)(b), but, subject to subsection (2) of this section, a claim for a debt or liquidated demand is not within the jurisdiction conferred by section 10(1)(a) unless—
   (a) the applicant satisfies the Registrar, before the claim is lodged in the Tribunal, that the claim, or a part of the claim, is in dispute; or
-  (b) the applicant either—
+  (b) the applicant either—that the claim is in the nature of a counterclaim by a respondent against an applicant; or
     (i) satisfies the Registrar before the claim is lodged in a Tribunal; or
-    (ii) not having lodged or attempted to lodge the claim pursuant to subparagraph (i), satisfies the Tribunal at a hearing—that the claim is in the nature of a counterclaim by a respondent against an applicant; or
+    (ii) not having lodged or attempted to lodge the claim pursuant to subparagraph (i), satisfies the Tribunal at a hearing—
   (c) the claim is transferred to a Tribunal pursuant to section 37.
 (2) Notwithstanding subsection (1), a Tribunal may,—
   (a) where a respondent raises a debt or liquidated demand as a defence by way of set-off, give effect to that defence:
