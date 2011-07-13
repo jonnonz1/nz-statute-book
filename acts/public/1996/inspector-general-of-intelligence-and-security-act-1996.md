@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Act 1996
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2011-07-13_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by providing for the appointment of an Inspector-General of Intelligence and Security
 
@@ -95,7 +95,7 @@ The Inspector-General shall give written notice to the Prime Minister of all int
   (c) to inquire at the request of the Minister or of the Inspector-General's own motion, but subject to the concurrence of the Minister, into—
     (i) any matter where it appears that a New Zealand person has or may have been adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
     (ii) the propriety of particular activities of an intelligence and security agency:
-  (d) without limiting the generality of paragraph (a), to review from time to time the effectiveness and appropriateness of the procedures adopted by the New Zealand Security Intelligence Service to ensure compliance with the provisions of sections 4A to 4G of the New Zealand Security Intelligence Service Act 1969 in relation to the issue and execution of interception warrants:
+  (d) without limiting the generality of paragraph (a), to review from time to time the effectiveness and appropriateness of the procedures adopted by the New Zealand Security Intelligence Service to ensure compliance with the provisions of sections 4A to 4G of the New Zealand Security Intelligence Service Act 1969 in relation to the issue and execution of intelligence warrants:
   (da) without limiting the generality of paragraph (a), to review the effectiveness and appropriateness of the procedures adopted by the Government Communications Security Bureau to ensure compliance with the provisions of Part 3 of the Government Communications Security Bureau Act 2003 in relation to the issue and execution of interception warrants and computer access authorisations:
   (e) to prepare and submit to the Minister from time to time for his or her approval programmes for the general oversight and review of each intelligence and security agency and for the discharge by the Inspector-General, in relation to each intelligence and security agency, of the particular functions specified in this section:
   (f) to carry out any programme or amended programme or substituted programme approved by the Minister under paragraph (e).
