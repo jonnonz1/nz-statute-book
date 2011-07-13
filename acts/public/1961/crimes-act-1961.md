@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-07-13_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2316,8 +2316,9 @@ Every person who is guilty of receiving is liable as follows:
 **Crimes involving computers**
 
 ### 248 Interpretation
-For the purposes of this section and sections 249 and 250,—
+For the purposes of this section and sections 249 to 252,—
   - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
+  - **authorisation** includes an authorisation conferred on a person by or under an enactment or a rule of law, or by an order of a court or judicial process
   - **computer system** —
     (a) means—
       (i) a computer; or
@@ -2355,21 +2356,13 @@ For the purposes of this section and sections 249 and 250,—
 ### 252 Accessing computer system without authorisation
 (1) Every one is liable to imprisonment for a term not exceeding 2 years who intentionally accesses, directly or indirectly, any computer system without authorisation, knowing that he or she is not authorised to access that computer system, or being reckless as to whether or not he or she is authorised to access that computer system.
 (2) To avoid doubt, subsection (1) does not apply if a person who is authorised to access a computer system accesses that computer system for a purpose other than the one for which that person was given access.
-(3) To avoid doubt, subsection (1) does not apply if access to a computer system is gained by a law enforcement agency—
-  (a) under the execution of an interception warrant or search warrant; or
-  (b) under the authority of any Act or rule of the common law.
+(3)
 
 ### 253 Qualified exemption to access without authorisation offence for New Zealand Security Intelligence Service
-Section 252 does not apply if—
-  (a) the person accessing a computer system is—
-    (i) the person specified in an interception warrant issued under the New Zealand Security Intelligence Service Act 1969; or
-    (ii) a person, or member of a class of persons, requested to give any assistance that is specified in that warrant; and
-  (b) the person accessing a computer system is doing so for the purpose of intercepting or seizing any communication, document, or thing of the kind specified in that warrant.
+[Repealed]
 
 ### 254 Qualified exemption to access without authorisation offence for Government Communications Security Bureau
-Section 252 does not apply if the person that accesses a computer system—
-  (a) is authorised to access that computer system under the Government Communications Security Bureau Act 2003; and
-  (b) accesses that computer system in accordance with that authorisation.
+[Repealed]
 
 **Forgery and counterfeiting**
 
@@ -4257,7 +4250,7 @@ This Act shall be read together with and deemed part of the Crimes Act 1961 (her
 (2) This Act shall come into force on 1 January 1990.
 
 ### 3 Transitional provision
-Section 2 shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375Aof the principal Act (as originally enacted) shall continue to apply as if section 2 had not been enacted.
+Section 2 shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375A of the principal Act (as originally enacted) shall continue to apply as if section 2 had not been enacted.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes Amendment Act (No 2) 1995, and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
