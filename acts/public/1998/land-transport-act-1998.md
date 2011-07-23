@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-07-23_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -2225,9 +2225,12 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
   (a) demerit points must be recorded in relation to 1 offence only; and
   (b) if those offences do not carry the same number of points, points must be recorded for the offence or one of the offences that carries the greatest number of points.
 (4) Demerit points recorded under subsection (1) have effect on and from the date of the commission of the offence for which the points are recorded.
-(5) For the purposes of subsections (1) and (4), if an infringement fee is paid to the enforcement authority at the address for payment specified in the infringement notice before or within 28 days after service of a reminder notice for that offence or within 5 days after the expiry of that 28-day period, the following provisions apply to an infringement offence:
+(5) For the purposes of subsections (1) and (4), the provisions of subsection (6) apply to an infringement offence in respect of which—
+  (a) an infringement fee is paid to the enforcement authority, at the address for payment specified in the infringement notice, before a reminder notice is served or within 43 days after service of such a reminder notice; or
+  (b) the enforcement authority enters into an arrangement to pay under section 21(3A) of the Summary Proceedings Act 1957.
+(6) The provisions referred to in subsection (5) are as follows:
   (a) the date on which the infringement notice was issued is to be treated as the date on which the offence was committed; and
-  (b) a summary conviction for the offence is to be treated as having been entered against the offender on the date of the payment of the infringement fee.
+  (b) a summary conviction for the offence is to be treated as having been entered against the offender on the date of the payment of the infringement fee or the date on which the arrangement to pay was entered into, as the case may be.
 
 ### 89 Notice of demerit points
 (1) If 50 or more demerit points have been recorded against a person, the Agency must, when reasonably practicable, send that person a notice in writing telling the person—
@@ -2407,7 +2410,10 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
 (6) A vehicle to which a notice under this section relates must be released to the owner if—
   (a) the Police have decided finally that proceedings will not be taken against the person who drove the vehicle in circumstances referred to in subsection (1) or operated the vehicle in circumstances referred to in subsection (1A) or (1AA) or failed to stop in the circumstances referred to in subsection (1AB), or such proceedings have been taken and the person is acquitted; and
-  (b) the vehicle has not already been released.
+  (b) the vehicle has not been—
+    (i) released; or
+    (ii) seized under the Summary Proceedings Act 1957; or
+    (iii) confiscated under the Sentencing Act 2002.
 (6A) A vehicle to which a notice under this section relates must be released to the owner when the result of the blood test (if any) is notified to the person who drove the vehicle in circumstances referred to in subsection (1)(d) if—
   (a) the blood test shows that he or she had a blood alcohol concentration of, or less than, 80 milligrams of alcohol per 100 millilitres of blood; and
   (b) the vehicle has not already been released.
@@ -2459,7 +2465,10 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
 (6) A vehicle to which a notice under this section relates must be released to the owner if—
   (a) the Agency or the Police have decided finally that proceedings will not be taken against the transport service operator or the person who drove the vehicle in circumstances referred to in subsection (1) or such proceedings have been taken and the person is acquitted; and
-  (b) the vehicle has not already been released.
+  (b) the vehicle has not been—
+    (i) released; or
+    (ii) seized under the Summary Proceedings Act 1957; or
+    (iii) confiscated under the Sentencing Act 2002.
 (7) Nothing in subsection (1) authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
 (8) Sections 97 and 98 apply, with any necessary modifications, to a motor vehicle used in a transport service that is impounded under this section.
 
@@ -2673,12 +2682,14 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (5) If an application under this section is refused,—
   (a) the court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
-(6) Subject to subsection (6A) and section 30(5), if the court makes an order under this section, the Agency must, despite anything in this Act to the contrary but otherwise subject to the provisions of this Act, issue to the person entitled to it a limited licence in accordance with the terms of the order.
+(6) Subject to subsection (6A) and section 30(5), if the court makes an order under this section, the Agency must, subject to the provisions of this Act, issue to the person entitled to it a limited licence in accordance with the order even though—
+  (a) the person's driver licence is suspended under section 90; or
+  (b) the person is disqualified from holding or obtaining a driver licence.
 (6A) If, after the court makes an order under this section, the Agency becomes aware that the applicant is not entitled to apply for or be granted a limited licence in accordance with sections 103 and 104, the Agency may—
   (a) decline to issue the limited licence; and
   (b) refer the applicant to the right of appeal under section 106.
 (7) If the holder of a limited licence, or a person who is authorised to obtain a limited licence but has not become the holder of such a licence, is convicted of an offence for which an order of disqualification is imposed,—
-  (a) the limited licence must be revoked or may not be issued (as the case may be) and the original order of disqualification is revived and has effect for the balance of the term for which it was originally imposed; and
+  (a) the limited licence is revoked or may not be issued (as the case may be) and the original order of disqualification is revived and has effect for the balance of the term for which it was originally imposed; and
   (b) unless the court orders otherwise, the period of disqualification under the revived order of disqualification runs concurrently with the order of disqualification in respect of the second offence.
 (8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Agency.
 (9) Despite section 104(3)(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
