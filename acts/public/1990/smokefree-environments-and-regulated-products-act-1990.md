@@ -1,10 +1,10 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2011-07-23_
 
-> An Act—ato reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbto regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcto monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddto establish a Health Sponsorship Council
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Smoke-free Environments Act 1990.
+### 1 Title and commencement
+(1) This Act is the Smoke-free Environments Act 1990.
 (2) Part 1 shall come into force on the expiry of 3 months after the date on which this Act receives the Royal assent.
 (3) Part 2 shall come into force on 16 December 1990.
 (4) Except as provided in subsections (2) and (3), this Act shall come into force on the day after the date on which it receives the Royal assent.
@@ -182,6 +182,14 @@ _Consolidation as at 2010-04-01_
 
 ### 3 Act binds the Crown
 This Act shall bind the Crown.
+
+### 3A Purposes of this Act
+(1) The purposes of this Act are, in general, as follows:
+  (a) to reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; and
+  (b) to regulate and control the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; and
+  (c) to monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; and
+  (d) to establish a Health Sponsorship Council.
+(2) Subsection (1) does not limit or affect the particular purposes, stated in sections 4 and 21, of Parts 1 and 2.
 
 ## Part 1 — Smoke-free workplaces and public areas
 
@@ -567,6 +575,14 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
   (a) with the authority of the Director-General or of some other person authorised for that purpose by the Director-General; and
   (b) for the purpose of monitoring compliance with the provisions of this Part,—
 
+### 28A Arrangements conflicting with Act have no effect
+(1) A term has no effect if—
+  (a) it is expressed or implied in an arrangement of any kind in any form; and
+  (b) compliance with it would limit or prevent compliance with section 28(1) or (2).
+(2) The arrangement may be a contract, or a legally binding or other agreement, undertaking, or understanding.
+(3) Subsection (2) does not limit subsection (1).
+(4) A person who is, or is claiming through or under, a party to the arrangement may (regardless of whether it is a contract) seek relief under the Illegal Contracts Act 1970 (which applies with the necessary modifications) as if compliance with the term were performance, in a way that gives rise to illegality, of a provision of a contract.
+
 ### 29 Tobacco product not to be advertised or labelled as suitable for chewing, etc
 (1) No person shall publish an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking).
 (2) No person shall import for sale, sell, pack, or distribute any tobacco product labelled or otherwise described as suitable for chewing, or for any other oral use (other than smoking).
@@ -591,8 +607,8 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
   (b) the device used to activate the machine is permanently located in a place from which any person using it can see the person to whom the sale is to be made.
 (3) For the purposes of this Act, a person who activates an automatic vending machine so that a sale of a tobacco product or herbal smoking product to another person occurs is a party to the sale of that product to the other person.
 
-### 30 Sale of tobacco products and herbal smoking products to people under 18 prohibited
-(1) No person may sell a tobacco product or herbal smoking product to a person younger than 18 years.
+### 30 Sale, and sellers' arranging or effecting delivery, of tobacco products and herbal smoking products to people under 18 prohibited
+(1) No person may sell a tobacco product or herbal smoking product, or having sold it to a person of any age deliver it or arrange for it to be delivered, to a person younger than 18 years.
 (2) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (2A) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (2B) Subsection (2A) does not affect the generality of subsection (2).
@@ -717,7 +733,7 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 
 **Offences**
 
-### 36 Offences in respect of smoking products
+### 36 Offences in respect of tobacco products and herbal smoking products
 (1) Every person who, without reasonable excuse, publishes any advertisement for a tobacco product in contravention of section 22 commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
@@ -739,10 +755,13 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (5B) Every person commits an offence and is liable to a fine not exceeding $2,000 who, in contravention of section 29B,—
   (a) permits an automatic vending machine that dispenses or is capable of dispensing tobacco products or herbal smoking products to be located in a place to which members of the public have access; or
   (b) permits a tobacco product or herbal smoking product to be sold by way of an automatic vending machine in a place to which members of the public have access.
-(6) Every person commits an offence and is liable to a fine not exceeding $2,000 who—
-  (a) sells a tobacco product or herbal smoking product in contravention of section 30(1); or
-  (b) supplies a tobacco product or herbal smoking product in a public place in contravention of section 30AA(1).
-(7) Every retailer of tobacco products who fails, without reasonable excuse, to display the notice required by section 30(6) commits an offence and is liable to a fine not exceeding $2,000.
+(6) Every person who sells a tobacco product, or who having sold it delivers it or arranges for it to be delivered, in contravention of section 30(1) commits an offence and is liable,—
+  (a) in the case of a person who is a body corporate, to a fine not exceeding $10,000; and
+  (b) in the case of a person who is not a body corporate, to a fine not exceeding $5,000.
+(6A) Every person who sells a herbal smoking product, or who having sold it delivers it or arranges for it to be delivered, in contravention of section 30(1) commits an offence and is liable to a fine not exceeding $2,000.
+(6B) Every person who supplies a tobacco product or herbal smoking product in a public place in contravention of section 30AA(1) commits an offence and is liable to a fine not exceeding $2,000.
+(7) Every person who offers a tobacco product or herbal smoking product for sale by retail and who fails, without reasonable excuse, to display in accordance with section 30(6) the point-of-sale purchase age information sign or signs required by section 30(6) commits an offence and is liable to a fine not exceeding $2,000.
+(7AAA) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) and who fails, without reasonable excuse, to make visible in accordance with section 30(6A) the purchase age information or warnings required by section 30(6A) commits an offence and is liable to a fine not exceeding $2,000.
 (7AA) Every person commits an offence who fails to comply with an order under section 30AB(2); and is liable,—
   (a) in the case of a person who is a body corporate, to a fine not exceeding $10,000; and
   (b) in the case of a person who is a not a body corporate, to a fine not exceeding $4,000.
@@ -785,6 +804,43 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (2) Anything done by a person as the employee of another person is, for the purposes of an offence against section 36(6) in respect of a contravention of section 30(1), to be treated as done by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
 (3) Anything done by a person as the agent of another person is, for the purposes of an offence against section 36(6) in respect of a contravention of section 30(1), to be treated as done by that other person as well as by the first-mentioned person, unless it is done without that other person's express or implied authority, precedent or subsequent.
 
+### 38A Infringement offences
+In this section and sections 38B to 39,—
+  - **infringement fee** , in relation to an infringement offence, means an amount—
+    (a) prescribed for the purposes of this section in regulations made under section 39(1)(ik); and
+    (b) not exceeding the maximum infringement fee amount specified for that offence (in the relevant paragraph of the definition in this section of infringement offence)
+  - **infringement offence** means an offence that is an offence against a section, and that relates to contravening the section or sections, specified in any one of the following paragraphs (and that has the maximum infringement fee amount specified in that paragraph):
+    (a) section 36(5), but only so far as it relates to contravening section 29(1) (on publishing an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking)) or section 29(2) (on importing for sale, selling, packing, or distributing a tobacco product labelled or otherwise described as suitable for chewing, or for any other oral use (other than smoking))—maximum infringement fee amount $1,000:
+    (b) section 36(5A) (which relates to contravening section 29A(2), which relates to distributing a tobacco product to which section 29A(1) applies, or supplying a tobacco product to which section 29A(1) applies to another person for later distribution, or, in the case of a retailer, supplying a tobacco product to which section 29A(1) applies to another person for the purpose of that retailer's business)—maximum infringement fee amount $1,000:
+    (c) section 36(5B) (which relates to contravening section 29B, which relates to permitting an automatic vending machine that dispenses or is capable of dispensing tobacco products or herbal smoking products to be located in a place to which members of the public have access, and also to permitting a tobacco product or herbal smoking product to be sold by way of an automatic vending machine in a place to which members of the public have access)—maximum infringement fee amount $400:
+    (d) section 36(6) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, tobacco products to people younger than 18 years)—maximum infringement fee amount $1,000:
+    (e) section 36(6A) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, herbal smoking products to people younger than 18 years)—maximum infringement fee amount $400:
+    (f) section 36(7A) (which relates to contravening section 30A(2) or (3), both of which impose restrictions on the sale of certain tobacco products in small quantities)—maximum infringement fee amount $400:
+    (g) section 36A(2) (which relates to contravening section 36A(1), which prohibits sale of a toy tobacco product to a person younger than 18 years)—maximum infringement fee amount $400.
+
+### 38B Commission of infringement offences
+A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against for the alleged offence by the laying of an information under the Summary Proceedings Act 1957; or
+  (b) be served with an infringement notice as provided for in section 38C.
+
+### 38C Infringement notices
+(1) If an enforcement officer observes a person committing an infringement offence, or he or she has reasonable cause to believe that such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
+(2) Any enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business.
+(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) Every infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+(5) If an infringement notice has been issued under this section, the procedure under section 21 of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates; and, in that case, the provisions of that section apply with all necessary modifications.
+
+### 38D Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
 **Miscellaneous provisions**
 
 ### 39 Regulations
@@ -800,6 +856,8 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (h) prescribing the method of determining the constituents of tobacco products or herbal smoking products, and the smoke produced from their combustion:
   (i) prescribing the form and manner in which returns and reports are to be filed under section 35:
   (ia) prescribing for the purposes of section 23(1)(a)(ii) requirements with which the exposure of tobacco products for sale in a retailer's place of business must comply:
+  (ik) prescribing for the purposes of section 38A the infringement fee or infringement fees payable in respect of different kinds of infringement offences:
+  (il) prescribing for the purposes of (and for the purposes of the procedure in section 21 of the Summary Proceedings Act 1957 as modified and applied by) section 38C the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part or its due administration.
 (2)
 (3) Regulations under subsection (1)(ia) may prescribe requirements of either or both of the following kinds:
@@ -851,6 +909,20 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (4)
 ((5), (6)) Amendment(s) incorporated in the regulations.
 
+### 41AA Purposes of Smoke-free Environments (Controls and Enforcement) Amendment Act 2011
+(1) The purpose of Part 1 of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that it—
+  (a) generally prohibits the display of tobacco products in or at the outside of retail and other sales outlets, but also provides for temporary transitional exemptions from compliance during a 12-month transition period:
+  (b) prohibits the display, on the outside of retail premises, of retailers' names or trading names that are or include words, phrases, trade marks, or company names that have the effect of advertising the availability of tobacco products:
+  (c) treats sales-outlet notices or signs and Internet-sales messages that are or include tobacco product health or purchase age information or warnings as prohibited advertisements unless those sales-outlet notices or signs or Internet-sales messages are ones that it requires or permits:
+  (d) requires people who offer tobacco products or herbal smoking products for Internet sale to make visible on their Internet sites health and purchase age information or warnings:
+  (e) prohibits (more fully, or for the first time) manufacturers, importers, distributors, and retailers of tobacco products from sponsoring activities involving the use of tobacco product trade marks:
+  (f) prohibits manufacturers, importers, distributors, and retailers of tobacco products from sponsoring activities involving exclusive supply arrangements:
+  (g) facilitates the enforcement of prohibitions on distribution or supply of tobacco products free of charge or at a reduced charge, or with rewards, by providing that a term of an arrangement has no effect if compliance with the term would prevent or limit compliance with those prohibitions:
+  (h) is adjusted by related amendments and repeals.
+(2) The purpose of Part 2 of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that—
+  (a) it makes an infringement notice scheme available to enforce specified prohibitions, including the prohibitions on the sale of tobacco products and herbal smoking products to people younger than 18 years:
+  (b) its provisions relating to offences, regulations, and amendments are adjusted in the light of the amendments made to it by that Amendment Act.
+
 ## Part 2A — Powers of enforcement officers
 
 ### 41A Powers of entry and inspection
@@ -874,9 +946,9 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (b) with the consent of an occupier.
 
 ### 41B Requirement to give identifying information
-(1) An enforcement officer who at any time believes on reasonable grounds that within the previous 14 days tobacco products or herbal smoking products have been sold to a person younger than 18 years in a place where tobacco products or herbal smoking products are sold from time to time—
-  (a) may, while the person the officer believes on reasonable grounds to have sold the products is in the place, require the person to give the officer his or her name and address; and
-  (b) may require a person in the place who appears to be in charge of the place or any part of it to give the officer the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) any person the officer believes on reasonable grounds to have sold the products other than a person in charge of the place.
+(1) An enforcement officer who at any time believes on reasonable grounds that within the previous 14 days tobacco products or herbal smoking products have been sold, or have after they are sold been delivered, to a person younger than 18 years in or from a place where tobacco products or herbal smoking products are sold, or after they are sold (at that place or another place) are delivered, from time to time—
+  (a) may, while the person the officer believes on reasonable grounds to have sold, or to have after they are sold delivered or arranged the delivery of, the products is in the place, require the person to give the officer his or her name and address; and
+  (b) may require a person in the place who appears to be in charge of the place or any part of it to give the officer the name and address of (or, if the address is not within the person's knowledge, the name and any other identifying information within the person's knowledge relating to) any person the officer believes on reasonable grounds to have sold, or to have after they are sold delivered or arranged the delivery of, the products other than a person in charge of the place.
 (2) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)(a) require the person to give the officer his or her name and address unless—
   (a) there is no other person in the place concerned who appears to be in charge of it; or
   (b) there is another person in the place who appears to be in charge of it, but the enforcement officer suspects that that person is also younger than 17 years.
@@ -887,7 +959,7 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (a) finding out whether this Act is being complied with in and in respect of the place entered:
   (b) finding out the extent to which this Act is not being complied with in or in respect of the place entered:
   (c) exercising the powers given by section 41B.
-(2) The powers given by section 41B must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person's knowledge relating to) a person the enforcement officer concerned believes to have sold tobacco products or herbal smoking products to a person younger than 18 years in a place where tobacco products or herbal smoking products are sold from time to time.
+(2) The powers given by section 41B must be used only for, and only to the extent necessary for, finding out the name and address of (or, if the address is not within the knowledge of the person asked, the name and any other identifying information within the person's knowledge relating to) a person the enforcement officer concerned believes to have sold, or to have after selling them delivered or arranged the delivery of, tobacco products or herbal smoking products to a person younger than 18 years in or from a place where tobacco products or herbal smoking products are sold, or having been sold (at that place or another place) are delivered, from time to time.
 (3) This section does not prevent an enforcement officer from using in proceedings for an offence against this Act evidence obtained during the lawful exercise of any of the powers given by sections 41A and 41B.
 
 ### 41D Duties of enforcement officers
