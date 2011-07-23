@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2011-07-23_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -1165,29 +1165,23 @@ All fees and other money (not being fines, infringement fees, or other penalties
   (b) by sending it, or a copy of it, by post addressed to that person at that person's last known place of residence or business or postal address; or
   (c) if that person is a holder of a rail document, by serving it, or a copy of it, by post on that person at that person's last address for service provided with respect to that rail document.
 (3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
-(4) An infringement notice must be in the prescribed form and must inform the person to whom it is issued that—
-  (a) no proceedings in respect of the infringement offence will be taken if the infringement fee is paid to the enforcement authority at the address shown in the notice within 28 days after the date of issue of the notice; and
-  (b) the person may write to the enforcement authority if the person wishes to—
-    (i) raise a matter concerning the circumstances of the offence for consideration by the enforcement authority; or
-    (ii) deny liability for the offence and request a court hearing; or
-    (iii) admit liability for the offence, but make written submissions to the court; and
-  (c) if the person does not respond to the infringement notice, a reminder notice that explains how to defend the charge and that contains a statement of the person's rights must be issued to the person.
-(5) Different forms of infringement notices may be prescribed for different kinds of infringement notices.
+(4)
+(5)
 
-### 100 Reminder notices
-(1) A reminder notice may be in a form prescribed by regulations made under this Act or by regulations made under the Summary Proceedings Act 1957.
-(2) However, if the form of a reminder notice is prescribed under this Act, the reminder notice must contain—
-  (a) details of the alleged infringement offence that are sufficient to inform a person of the time, place, and nature of the alleged infringement offence; and
-  (b) in the case of an infringement offence for which a scale of infringement fees is prescribed with regard to the extent of the alleged infringement offence, the extent of the alleged infringement offence; and
-  (c) the amount of the infringement fee specified for the alleged infringement offence; and
-  (d) the address of the place where the infringement fee may be paid; and
+### 100 Contents of infringement notices and reminder notices
+(1) An infringement notice must contain—
+  (a) details of the alleged infringement offence that are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+  (b) in the case of an infringement offence in respect of which a scale of infringement fees is prescribed having regard to the extent of the alleged offence, the extent of the infringement offence alleged; and
+  (c) the amount of the infringement fee specified in respect of that offence; and
+  (d) the address of the place at which the infringement fee may be paid; and
   (e) the time within which the infringement fee may be paid; and
   (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (g) a statement of the right of the person served with the reminder notice to request a hearing; and
-  (h) a statement of the consequences if the person served with the notice—
-    (i) does not pay the infringement fee; or
-    (ii) does not request a hearing.
-(3) Different forms of reminder notices may be prescribed for different kinds of infringement offences.
+  (g) a statement of the right of the person served with the notice to request a hearing; and
+  (h) a statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
+  (i) any other particulars that are prescribed.
+(2) A reminder notice must include the same particulars, or substantially the same particulars, as the infringement notice.
+(3) If regulations made under this Act prescribe the form of an infringement notice or a reminder notice, the infringement notice or reminder notice must be in that form.
+(4) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
 
 ### 101 Infringement fees
 (1) The infringement fee payable in respect of an infringement offence is the appropriate infringement fee prescribed in respect of that infringement offence under this Act.
