@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-07-23_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -76,8 +76,8 @@ _Consolidation as at 2011-05-10_
   - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department as a social worker
   - **summary offence** means a summary offence within the meaning of the Summary Proceedings Act 1957
   - **traffic offence** means—
-    (a) any offence against the Land Transport Act 1998, or against any regulation or bylaw made under either of those Acts:
-    (b) any offence against any regulation or bylaw made under any other Act if the offence relates to the use of vehicles or parking places or transport stations
+    (a) any offence against the Road User Charges Act 1977, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
+    (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **victim** means a person who, through or by means of an offence, suffers physical or emotional harm, or loss of or damage to property; and where an offence results in death, the term includes the members of the immediate family of the deceased
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
