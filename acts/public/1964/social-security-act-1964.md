@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-07-23_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -3374,7 +3374,7 @@ Without limiting the general power to make regulations conferred by section 132,
 ### 126 Cost of repair and replacement of artificial limbs
 There shall from time to time be paid out of the Crown Bank Account out of money appropriated by Parliament for the purpose such sums as may be necessary to defray the reasonable cost of the repair or renewal by the New Zealand Artificial Limb Board, or by any other body or person specified from time to time by the Minister, by notice in the Gazette, of any artificial arm, hand, leg, or foot belonging to any person who is entitled to have that artificial limb repaired or renewed free of charge pursuant to the provisions of Part 1 of Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
-### 126A Information on beneficiaries and former beneficiaries may be disclosed to Department for Courts for fines enforcement purposes
+### 126A Information on beneficiaries and former beneficiaries may be disclosed to Ministry of Justice for fines enforcement purposes
 (1) In this section, unless the context otherwise requires,—
   - **beneficiary** means a person who has been granted a benefit; and includes a person in respect of whom a benefit or part of a benefit has been granted; and also includes—
     (a) a person who was formerly in receipt of a benefit:
@@ -3388,9 +3388,10 @@ There shall from time to time be paid out of the Crown Bank Account out of money
     (ab) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies:
     (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies.
     (c) a levy payable under section 105B of the Sentencing Act 2002.
-(2) The purpose of this section is to facilitate the disclosure of information by the department to the Department for Courts for the purpose of enabling the Department for Courts to locate any beneficiary who is in default in the payment of any fine.
-(3) For the purpose of this section, the chief executive of the Department for Courts may from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, request the chief executive of the latter department to supply, from information kept by that department, the last known address and telephone number of any beneficiary.
-(4) On receipt of a request made under subsection (3), the chief executive of the department may supply the information requested to any officer or employee of the Department for Courts who is authorised by the chief executive of that department to receive that information.
+(2) The purpose of this section is to facilitate the disclosure of information by the department to the Ministry of Justice for the purpose of enabling the Ministry of Justice to locate any beneficiary who is in default in the payment of any fine.
+(3) For the purpose of this section, the chief executive of the Ministry of Justice may from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, request the chief executive of the latter department to supply, from information kept by that department, the last known address and telephone number of any beneficiary.
+(3A) For each item of information to be supplied under subsection (3), the chief executive of the department must include the date when the information was most recently updated.
+(4) On receipt of a request made under subsection (3), the chief executive of the department may supply the information requested to any officer or employee of the Ministry of Justice who is authorised by the chief executive of that department to receive that information.
 (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the 2 chief executives.
 
 ### 126AB Disclosure of personal information to Registrar-General for birth registration purposes
