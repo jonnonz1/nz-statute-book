@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2011-04-19_
+_Consolidation as at 2011-07-23_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -812,6 +812,10 @@ A copy of a work to which section 53 or 54 applies must not be supplied in a dig
   (a) hear any sound recording played under subsection (1); or
   (b) see any film shown, and hear any sound recording associated with the film played, under subsection (2),—
 (4) This section does not apply if or to the extent that licences authorising the playing of a sound recording, or the showing of a film and the playing of a sound recording associated with the film, by an archive to which this section applies are available and if the archive knew that fact.
+
+### 57A Making archived works available for public viewing
+(1) The communication of an archived work in accordance with section 29C of the Television New Zealand Act 2003 does not infringe copyright (if any) in the archived work under this Act.
+(2) In this section, archived work has the same meaning as in section 29A of the Television New Zealand Act 2003.
 
 **Public administration**
 
