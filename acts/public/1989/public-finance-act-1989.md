@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-07-23_
 
 > Title
 
@@ -1301,7 +1301,7 @@ Except as expressly authorised by any Act, the Crown must not issue securities (
     (i) must be paid without further authority than this section; and
     (ii) must be paid from a Crown Bank Account; and
   (b) all borrowing expenses incurred under a public security may be incurred without further appropriation, and must be paid without further authority, than this section.
-(2) In this section and section 65E, public security does not include a guarantee or indemnity given under section 65ZD or the Crown Retail Deposit Guarantee Scheme Act 2009.
+(2) In this section and section 65E, public security does not include a guarantee or indemnity given under section 65ZD, the Crown Retail Deposit Guarantee Scheme Act 2009, or section 125I of the Weathertight Homes Resolution Services Act 2006.
 
 ### 65E Expenses in respect of securities
 (1) Any expenses incurred in connection with any of the following functions may be incurred without further appropriation, and must be paid without further authority, than this section:
@@ -1768,9 +1768,9 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
   (a)
-  (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
-  (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
-  (d) section 4(5) of the Public Finance Amendment Act 1980,—
+  (b) Amendment(s) incorporated in the Act(s):
+  (c) Amendment(s) incorporated in the Act(s):
+  (d) Amendment(s) incorporated in the Act(s),—
   (e) all public securities registered before the date on which regulations made under section 81(1)(f) come into force:
   (f)
   (g) all other stock.
