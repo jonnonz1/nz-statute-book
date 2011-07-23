@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-07-23_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -977,19 +977,7 @@ Except as otherwise provided in this Act, every fine shall be paid within 28 day
 (5) It shall not be necessary to comply with the requirements of this section in any case where a fine is paid in full before the notice is delivered or sent.
 
 ### 85 Final notice of fine
-(1) Where—the Registrar shall deliver to the defendant or send to the defendant by ordinary post addressed to the defendant's last known place of residence or business, a final notice of the fine.
-  (a) a defendant is liable to pay a fine; and
-  (b) no order has been made under section 81 or section 83; and
-  (c) no arrangement has been entered into under section 86 or section 86A; and
-  (d) the fine remains unpaid on the expiry of a period of 21 days beginning with the day on which it was imposed—
-(2) The notice given under subsection (1) shall—
-  (a) set out the matters specified in section 84(2):
-  (b) notify the defendant that if the fine is not paid within 28 days after the day on which it was imposed, and no arrangement has been entered into under section 86 or section 86A, enforcement action may then be commenced by—and must set out in general terms the meaning and effects of those orders and that notice:
-    (i) an order to seize property; or
-    (ii) an attachment order; or
-    (iii) a deduction notice,—
-  (c) notify the defendant that, instead of commencing enforcement action as described in paragraph (b), the Registrar may issue a warrant to arrest the defendant and have the defendant brought before a District Court Judge with a view to having a substitute sentence imposed.
-(3) Failure to comply with this section shall not of itself invalidate any subsequent proceeding.
+[Repealed]
 
 ### 86 Extension of time to pay
 (1) If a fine is payable and is not subject to an order for immediate payment, the Registrar may enter into an arrangement with a defendant providing for either or both of the following:
@@ -1258,13 +1246,19 @@ A person commits an offence and is liable on summary conviction to a fine not ex
 (2) If the matter is removed into the High Court, the High Court Rules apply so far as practicable to those proceedings.
 
 ### 88B Remission of fine
-(1) The Registrar may make an order remitting any fine if—
+(1) The Registrar may make an order remitting an amount of reparation if—
   (a) the amount outstanding is $25 or less; and
-  (b) the fine was imposed at least 3 years before the date on which the Registrar makes the order remitting the fine; and
-  (c) in the case of a fine that includes reparation or compensation to another person, the Registrar has—
-    (i) obtained the consent of the other person to remit the fine; or
-    (ii) made reasonable efforts to find the other person and obtain his or her consent, and has not been able to find that person and obtain his or her consent.
-(2) The Registrar may make an order remitting any fine imposed by, or resulting from the enforcement of, an order deemed to have been made, or made, under section 21(5), (5A), or (9) if the Registrar is satisfied that the defendant is dead and that the fine cannot be recovered from the defendant's estate.
+  (b) the amount of reparation was imposed at least 3 years before the date on which the Registrar makes the order remitting it; and
+  (c) the Registrar has—
+    (i) obtained the consent of the person who suffered the harm, loss, or damage; or
+    (ii) made reasonable efforts to find the person who suffered the harm, loss, or damage to obtain his or her consent, and has not been able to find that person and obtain his or her consent.
+(2) The Registrar may make an order remitting any fine that does not include reparation if—
+  (a) the amount outstanding is not greater than $50 or any other amount prescribed by regulations made under section 212; and
+  (b) the fine was imposed at least 1 year before the date on which the Registrar makes the order remitting the fine.
+(3) The Registrar may at any time make an order remitting any fine other than reparation if the Registrar is satisfied that the defendant is a deceased individual or a body corporate or an unincorporated body that has been wound up.
+(4) For the purposes of subsections (1) to (3), court costs or other costs that are referable to any reparation must be excluded from that reparation.
+(5) The Registrar may at any time make an order remitting any amount of court costs and costs associated with the enforcement of a fine, including court costs and costs associated with the enforcement of reparation or any offender levy.
+(6) The Registrar may at any time make an order remitting any fine that is lower than the lowest amount expressed on any coin that is legal tender in New Zealand.
 
 ### 89 Rights of representation and appeal
 (1) Every defendant attending before a District Court Judge or Community Magistrate pursuant to any provision of section 88 is entitled to be represented by a barrister or solicitor.
@@ -1287,6 +1281,29 @@ The period of imprisonment imposed under this Act in respect of the non-payment 
 
 ### 92 Effect of warrant of commitment
 A warrant of commitment issued under section 83(2)(b) or section 88(3)(b) shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in section 90) unless the fine or any lesser amount directed by the Judge under section 88(3)(f) is sooner paid.
+
+### 92I Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister for Courts, make regulations for all or any of the following purposes:
+  (a) prescribing the criteria to be applied by the Minister for Courts in authorising agencies as recognised users:
+  (b) specifying classes of persons for the purposes of the definition of recognised user in section 92A:
+  (c) prescribing the procedure, requirements, or other matters in relation to the cancellation of access codes, including the circumstances when access codes may be suspended immediately pending their proposed cancellation and when prior notice about the proposed cancellation and the opportunity for submissions in that respect are required to be given to the recognised user concerned:
+  (d) providing for the manner in which fine status responses are disclosed to recognised users:
+  (e) providing for the manner in which identifying particulars received from recognised users are processed:
+  (f) requiring recognised users to take all reasonable steps to ensure that a query subject's driver licence number (if any) or driver licence card number (if any), or both, are obtained from the query subject by or on behalf of the recognised user each time a fine status query is submitted:
+  (g) prescribing criteria for assessing whether the identifying particulars of a query subject in a fine status query correspond with those of a person shown in the fines enforcement records as having a default balance:
+  (h) prescribing criteria by which divergences in particulars are to be regarded, or are not to be regarded, as diverging particulars for the purposes of section 92G:
+  (i) prescribing restrictions on the disclosure and use, by recognised users and subscribers, of the information contained in fine status responses, including, without limitation, restrictions on combining that information with other information:
+  (j) prescribing the manner in which the information contained in a fine status response may be disclosed by a recognised user who is a credit reporter to the subscriber who requested the information:
+  (k) prescribing the period for which fine status responses may be retained or used by recognised users and subscribers, and requiring the destruction of those responses on the expiry of specified periods:
+  (l) providing for the manner and timing of audits conducted under section 92H, and for the delivery of audit reports to the Privacy Commissioner and any other persons specified in the regulations:
+  (m) prescribing, for audit purposes, the kinds of records that recognised users must keep in respect of fine status queries and fine status responses, and the manner in which, and the duration for which, those records must be kept:
+  (n) providing for a person's status as a recognised user to be terminated by the Minister for Courts in specified circumstances, even though that person comes within the definition of that term in section 92A:
+  (o) prescribing the fees that are payable in respect of access codes allocated by the chief executive, fine status queries, or fine status responses.
+(2) Before the Minister for Courts recommends the making of regulations under subsection (1), the Minister must—
+  (a) consult the Privacy Commissioner; and
+  (b) be satisfied that the proposed regulations are consistent with the purpose stated in section 92B(1) and the legislative framework described in section 92B(2).
+(3) Subsection (1)(f) does not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
+(4) This section does not limit section 212.
 
 ### 93 Warrant to seize property
 (1) Where any warrant to seize property is issued under section 83(2)(a), section 87(1)(a), or section 88(3)(a), the warrant shall apply so as to authorise the seizure of any property apparently property of the defendant.
@@ -3181,7 +3198,10 @@ Except as expressly provided in the Children, Young Persons, and Their Families 
   (a) prescribing the forms to be used in respect of any proceedings to which this Act applies:
   (b) prescribing the Court fees to be paid in respect of any proceedings or any processes to which this Act applies:
   (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
+  (ca) prescribing the fees and charges to be paid for the purposes of this Act:
   (d) prescribing the solicitors' fees payable by parties in proceedings to which this Act applies:
+  (daa) providing for documents to be sent in electronic form under section 24(1)(e) or 79A(1)(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
+  (dab) specifying, for the purposes of section 79A(1)(d), the kinds of documents that may be served by communicating their contents orally, and prescribing any conditions and restrictions for such communications and the ways in which such communications must be made, including any provisions for the recording of such communications and for the retention, custody, disclosure, use, and destruction of such recordings:
   (da) prescribing requirements or other matters in relation to the provision of particulars of reminder notices in electronic form under section 21, and any matters in relation to the verification or processing of those particulars:
   (db) regulating the searching of records of 1 or more of the following:
     (i) particulars of reminder notices provided under section 21:
