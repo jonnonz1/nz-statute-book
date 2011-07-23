@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2011-05-24_
+_Consolidation as at 2011-07-23_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3262,18 +3262,18 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 
 ### 85A Disclosure of certain information in relation to fines defaulters
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Ministry of Justice for the purpose of establishing an information matching programme to enable the Ministry of Justice to locate any fines defaulter.
-(2) For the purpose of this section, any authorised officer of the Ministry of Justice may from time to time supply to the Commissioner any fines defaulter information held by that department.
+(2) For the purpose of this section, any authorised officer of the Ministry of Justice may from time to time supply to the Commissioner any fines defaulter information held by that Ministry.
 (3) If, in relation to any fines defaulter, information is supplied by any authorised officer of the Ministry of Justice to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the fines defaulter.
-(4) If the Commissioner has information relating to the fines defaulter, the Commissioner may supply to an authorised officer of the Ministry of Justice all or any of the following information that is held by the Commissioner in relation to that fines defaulter:
+(4) If the Commissioner has information relating to the fines defaulter, the Commissioner may supply to an authorised officer of the Ministry of Justice all or any of the following information that is held by the Commissioner in relation to the fines defaulter:
   (a) the last known address of the fines defaulter; and
-  (b) if applicable, the date when that address was most recently changed; and
-  (c) the telephone number of the fines defaulter; and
-  (d) the name of the employer of the fines defaulter; and
-  (e) the address of the employer of the fines defaulter; and
-  (f) the telephone number of the employer of the fines defaulter.
+  (b) the last known telephone number of the fines defaulter; and
+  (c) the name of the last known employer of the fines defaulter; and
+  (d) the address of the last known employer of the fines defaulter; and
+  (e) the telephone number of the last known employer of the fines defaulter.
+(4A) For each item of information to be supplied under subsection (4), the Commissioner must include the date when the information was most recently updated.
 (5) The provisions of this section apply despite any other provision of this Act.
 (6) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the Ministry of Justice, means any officer, employee, or agent of that department who is authorised by the chief executive to supply information to or receive information from the Commissioner under this section
+  - **authorised officer** , in relation to the Ministry of Justice, means any officer, employee, or agent of that Ministry who is authorised by the chief executive to supply information to or receive information from the Commissioner under this section
   - **chief executive** means the chief executive of the Ministry of Justice
   - **fines defaulter** means any person who is in default in the payment of—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
