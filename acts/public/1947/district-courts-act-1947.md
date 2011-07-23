@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-07-23_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -226,6 +226,7 @@ Every Judge, by virtue of his office,—
 ### 12 Appointment of Registrar
 (1) There shall from time to time be appointed for each court a Registrar.
 (2) One person may be appointed Registrar for 2 or more courts.
+(2A) A person who is appointed as a Registrar may exercise the powers and perform the functions and duties of the Registrar of any District Court.
 (3) Each person who on the commencement of this Act holds office as the Clerk of any court shall without further appointment be deemed to have been appointed Registrar of that court.
 (4) All references to a Clerk of any court in any Act, rule, regulation, or other enactment, or in any judgment, order, contract, agreement, or other document whatsoever, shall, unless inconsistent with the context, be hereafter read as references to the Registrar of that court.
 
@@ -236,6 +237,7 @@ Every Judge, by virtue of his office,—
 
 ### 14 Deputy Registrars
 (1) There may be from time to time appointed in respect of any court 1 or more Deputy Registrars of the court. Each person who on the commencement of this Act holds office as an Assistant Clerk of any court shall without further appointment be deemed to have been appointed Deputy Registrar of that court.
+(1A) A person who is appointed as a Deputy Registrar may exercise the powers and perform the functions and duties of a Deputy Registrar of any District Court.
 (2) In any case where the Registrar or Deputy Registrar has died or is prevented by illness or other cause from acting in his office, a Judge may appoint a Deputy Registrar to act for such period as the Judge thinks fit. A Judge may at his pleasure remove any such Deputy Registrar.
 (3) Except as may be provided by the rules, each Deputy Registrar shall, both under this Act and under any other Act, have the same powers and privileges, perform the same duties, and be subject to the same provisions and penalties as if he were the Registrar for the time being, whether those powers, privileges, duties, provisions, or penalties are conferred, imposed, or enacted under this Act or that other Act, or not.
 
@@ -243,11 +245,13 @@ Every Judge, by virtue of his office,—
 
 ### 15 Appointment of bailiffs
 (1) There shall be a bailiff or such bailiffs for each court as may be necessary, who shall be appointed from time to time.
+(1A) A person who is appointed as a bailiff may exercise the powers and perform the functions and duties of a bailiff of any District Court.
 (2) A Judge may appoint a constable or other person to act for a particular occasion as bailiff at any court or place.
 (3) Whenever any summons, writ, warrant, or other process issued under the authority of this Act is received by any constable for service or execution, the constable in the service or execution of the process shall for all the purposes of this Act be deemed to be a bailiff duly appointed under the provisions of this section.
 
 ### 16 Deputy bailiffs
 (1) A Judge may from time to time appoint a deputy to act for a bailiff, when he is prevented by illness or other cause from acting in his office, and in the case of the death of a bailiff may appoint a deputy to act in the place of the bailiff until another appointment is made, and may remove any such deputy at his pleasure.
+(1A) A person who is appointed as a deputy bailiff may exercise the powers and perform the functions and duties of a deputy bailiff of any District Court.
 (2) Any deputy appointed as aforesaid, while acting under such appointment, shall, both under this Act and under any other Act, have the same powers and privileges, perform the same duties, and be subject to the same provisions and penalties as if he were the bailiff for the time being, whether those powers, privileges, duties, provisions, or penalties are conferred, imposed, or enacted under this Act or that other Act, or not.
 
 ### 17 Powers and duties of bailiffs
