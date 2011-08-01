@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-08-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -156,7 +156,7 @@ This Act binds the Crown.
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
   - **medical laboratory technologist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
+    (a) is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
     (b) holds a current practising certificate
   - **medical practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
