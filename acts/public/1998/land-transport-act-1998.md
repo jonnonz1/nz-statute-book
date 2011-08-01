@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2011-08-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -149,7 +149,7 @@ _Consolidation as at 2011-07-23_
   - **logbook** means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
   - **medical expenses** means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
-  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
+  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
     (b) a nurse; or
@@ -808,7 +808,9 @@ If an enforcement officer, acting in the course of his or her official duties, b
       (ii) whose identity is concealed for the purpose of carrying out a policing function approved by the Commissioner.
 
 ### 25 Minimum age for driver licensing
-A person who is younger than 15 may not hold or obtain a driver licence.
+(1) A person who is younger than 16 years may not hold or obtain a driver licence.
+(2) However, a person who holds a New Zealand driver licence immediately before 1 August 2011 and is younger than 16 years may continue to hold that driver licence.
+(3) A person referred to in subsection (2) may apply to the Agency to reinstate or replace that licence as necessary, or apply for a limited licence if an order has been made under section 105.
 
 ### 26 Drivers may be tested and examined
 The Agency may require an applicant for a driver licence and holders of driver licences to—
