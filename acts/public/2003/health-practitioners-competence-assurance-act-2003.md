@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2011-08-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -1660,7 +1660,7 @@ Every reference in any enactment to a chiropractor or registered chiropractor mu
 Every reference in any enactment to a dietitian or registered dietitian must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Dietitians Board and who is practising dietetics in accordance with his or her scope of practice.
 
 ### 163 Reference to medical laboratory technologists, etc, in other enactments
-(1) Every reference in any enactment to a medical laboratory technologist or registered medical laboratory technologist must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Medical Laboratory Science Board and who is practising medical laboratory science in accordance with his or her scope of practice.
+(1) Every reference in any enactment to a medical laboratory technologist or registered medical laboratory technologist must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Medical Sciences Council of New Zealand and who is practising medical laboratory science in accordance with his or her scope of practice.
 (2) Every reference in any enactment to a medical radiation technologist or registered medical radiation technologist must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Medical Radiation Technologists Board and who is practising medical radiation technology in accordance with his or her scope of practice.
 (3) Every reference in any enactment to a podiatrist or registered podiatrist must, unless a different intention appears, be taken to be a reference to a person who is, or is deemed to be, registered under this Act with the Podiatrists Board and who is practising podiatry in accordance with his or her scope of practice.
 
@@ -1791,7 +1791,7 @@ Every person who, immediately before the commencement of this section, was regis
 Every person who, immediately before the commencement of this section, was registered as a dietitian under the Dietitians Act 1950 (including a person who, immediately before that commencement, was so registered by virtue of a provisional certificate of registration or a certificate of temporary registration under that Act) is, on the commencement of this section, deemed to be registered, under this Act, with the Dietitians Board as a practitioner of the profession of dietetics.
 
 ### 182 Persons registered under Medical Auxiliaries Act 1966 deemed to be registered under this Act
-(1) Every person who, immediately before the commencement of this section, was registered as a medical laboratory technologist under the Medical Auxiliaries Act 1966 (including a person who, immediately before that commencement, was so registered by virtue of a provisional certificate of registration or a certificate of temporary registration under that Act) is, on the commencement of this section, deemed to be registered, under this Act, with the Medical Laboratory Science Board as a practitioner of the profession of medical laboratory science.
+(1) Every person who, immediately before the commencement of this section, was registered as a medical laboratory technologist under the Medical Auxiliaries Act 1966 (including a person who, immediately before that commencement, was so registered by virtue of a provisional certificate of registration or a certificate of temporary registration under that Act) is, on the commencement of this section, deemed to be registered, under this Act, with the Medical Sciences Council of New Zealand as a practitioner of the profession of medical laboratory science.
 (2) Every person who, immediately before the commencement of this section, was registered as a medical radiation technologist under the Medical Auxiliaries Act 1966 (including a person who, immediately before that commencement, was so registered by virtue of a provisional certificate of registration or a certificate of temporary registration under that Act) is, on the commencement of this section, deemed to be registered, under this Act, with the Medical Radiation Technologists Board as a practitioner of the profession of medical radiation technology.
 (3) Every person who, immediately before the commencement of this section, was registered as a podiatrist under the Medical Auxiliaries Act 1966 (including a person who, immediately before that commencement, was so registered by virtue of a provisional certificate of registration or a certificate of temporary registration under that Act) is, on the commencement of this section, deemed to be registered, under this Act, with the Podiatrists Board as a practitioner of the profession of podiatry.
 
@@ -1872,9 +1872,9 @@ Every person who, immediately before the commencement of this section, was regis
 (3) The provisions of sections 18A(2) and (4) of the Dietitians Act 1950 continue to apply with all necessary modifications to the registration of such a person, and the Dietitians Board may, in accordance with those provisions as so modified, renew or cancel that registration.
 
 ### 198 Persons holding certificates of temporary registration as medical laboratory technologists under Medical Auxiliaries Act 1966
-(1) This section applies to a person who is, by this subpart, deemed to be registered with the Medical Laboratory Science Board because the person held a certificate of temporary registration under the Medical Auxiliaries Act 1966.
+(1) This section applies to a person who is, by this subpart, deemed to be registered with the Medical Sciences Council of New Zealand because the person held a certificate of temporary registration under the Medical Auxiliaries Act 1966.
 (2) Unless sooner extended or cancelled, the registration of such a person under this subpart expires on the expiry of the period for which the certificate of temporary registration had been granted.
-(3) Regulation 8(3) and (5) of the Medical Laboratory Technologists Regulations 1989 (SR 1989/282) continues to apply with all necessary modifications to the registration of such a person, and the Medical Laboratory Science Board may, in accordance with those provisions as so modified, extend or direct the cancellation of that registration.
+(3) Regulation 8(3) and (5) of the Medical Laboratory Technologists Regulations 1989 (SR 1989/282) continues to apply with all necessary modifications to the registration of such a person, and the Medical Sciences Council of New Zealand may, in accordance with those provisions as so modified, extend or direct the cancellation of that registration.
 
 ### 199 Persons holding certificates of temporary registration as medical radiation technologists under Medical Auxiliaries Act 1966
 (1) This section applies to a person who is, by this subpart, deemed to be registered with the Medical Radiation Technologists Board because the person held a certificate of temporary registration under the Medical Auxiliaries Act 1966.
@@ -2191,7 +2191,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 | Dietitians Board (being the Board continued by section 4(1) of the Dietitians Act 1950) | Practice of dietetics |
 | Medical Radiation Technologists Board (being the Board continued by section 4A(1) of the Medical Auxiliaries Act 1966) | Practice of medical radiation technology |
 | Medical Council of New Zealand (being the Council continued by section 122(1) of the Medical Practitioners Act 1995) | Practice of medicine |
-| Medical Laboratory Science Board (being the Board continued by section 4(1) of the Medical Auxiliaries Act 1966, which Board was formerly known as the Medical Laboratory Technologists Board) | Practice of medical laboratory science |
+| Medical Sciences Council of New Zealand (formerly known as the Medical Laboratory Science Board, being the Board continued by section 4(1) of the Medical Auxiliaries Act 1966, which Board was formerly known as the Medical Laboratory Technologists Board) | Practice of medical laboratory science |
 | Nursing Council of New Zealand (being the Council continued by section 3 of the Nurses Act 1977) | Practice of nursing |
 | Occupational Therapy Board (being the Board continued by section 4(1) of the Occupational Therapy Act 1949) | Practice of occupational therapy |
 | Optometrists and Dispensing Opticians Board (being the Board continued by section 3(1) of the Optometrists and Dispensing Opticians Act 1976, which Board was formerly known as the Opticians Board) | Practice of optometry Practice of optical dispensing |
