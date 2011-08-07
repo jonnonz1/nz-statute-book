@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-08-01_
+_Consolidation as at 2011-08-07_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -237,9 +237,10 @@ _Consolidation as at 2011-08-01_
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice in the Gazette
   - **permanent speed limit** means a maximum speed limit set by a regulation or rule made under this Act and that is in force except when a holiday, variable, minimum, or temporary speed limit is in force
-  - **positive evidential breath test** means an evidential breath test that indicates that the proportion of alcohol in the breath of the person who underwent the test,—and positive, in relation to an evidential breath test, has a corresponding meaning
-    (a) in any case, exceeds 400 micrograms of alcohol per litre of breath; or
-    (b) in the case of a person who is apparently younger than 20, exceeds 150 micrograms of alcohol per litre of breath;—
+  - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
+    (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
+    (b) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
+    (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath
   - **premises** , in sections 130 and 131, includes a vehicle, rail vehicle, carriage, box, or receptacle; but does not include a dwelling or Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993
   - **prescribed** means,—
     (a) in relation to a matter under this Act, prescribed by this Act or by regulations, rules, or notice made under this Act:
@@ -506,8 +507,8 @@ A person may not drive or attempt to drive a motor vehicle while—
   (a) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath; or
   (b) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood; or
   (c) if the person is younger than 20,—
-    (i) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 150 micrograms of alcohol per litre of breath; or
-    (ii) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 30 milligrams of alcohol per 100 millilitres of blood.
+    (i) the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol; or
+    (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol; or
 
 ### 11A Persons may not drive or attempt to drive while impaired and their blood contains evidence of use of qualifying drug
 A person may not drive or attempt to drive a motor vehicle while—
@@ -1184,7 +1185,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
 (1) If the Agency takes into account the criteria specified in section 166(2), the Agency may, upon any conditions that the Agency considers appropriate,—
   (a) with respect to subpart 1, grant written variations to work time requirements specified in subpart 1 or the rules:
   (b) with respect to subpart 2, grant partial or total written exemptions from some or all of the requirements to maintain logbooks:
-  (c) approve, in accordance with the rules, an alternative fatigue management scheme that varies the work time restrictions or rest time requirements of any rule for all drivers covered by the relevant transport service licence.
+  (c) approve, in accordance with the rules, an alternative fatigue management scheme that varies the work time restrictions or rest time requirements of any rule for specified drivers covered by the relevant transport service licence.
 (2) A variation or exemption granted, or an approval given under subsection (1), in relation to work time or logbooks may be amended or revoked at any time by the Agency in writing.
 (3) The Agency may revoke, by notice in writing, any exemption from logbook use granted under the rules if the Agency has reason to believe that the person has breached the rules or any conditions imposed under subsection (1).
 (4) Before approving an alternative fatigue management scheme under subsection (1)(c), the Agency must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
@@ -1192,30 +1193,30 @@ Nothing in this Part applies in respect of any rail service vehicle.
 ### Subpart 1 — Work time
 
 ### 30ZB Application of subpart
-(1) This subpart applies if, in a cumulative work period,—
-  (a) a driver drives a vehicle that requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
-  (b) a driver drives a vehicle that is used in—
+(1) This subpart applies if, in a cumulative work period, a driver drives a vehicle that—
+  (a) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+  (b) is used in—
     (i) a transport service (other than a rental service); or
     (ii) circumstances in which that vehicle must, or ought to, be operated under a transport service licence; or
-  (c) a driver drives a vehicle that is used to carry goods for hire or reward.
-(2) Despite subsection (1), this subpart—
-  (a) applies whether or not the vehicle is—
-    (i) engaged in any transport service; or
-    (ii) carrying any load or passengers; but
-  (b) does not apply to a driver of a goods service vehicle that—
-    (i) requires a class 1 or class 2 licence (as specified in the rules); and
-    (ii) is used within a 50 km radius of the vehicle's normal base of operation; and
-    (iii) is not used for hire or reward.
+  (c) is used to carry goods for hire or reward.
+(2) Subsection (1) applies whether or not the vehicle is—
+  (a) engaged in any transport service; or
+  (b) carrying any load or passengers.
+(3) Subsection (1) does not apply to the driver of a goods service vehicle that—
+  (a) requires a class 2 licence (as specified in the rules); and
+  (b) is used within a 50 km radius of the vehicle's normal base of operation; and
+  (c) is not used for hire or reward.
 
 ### 30ZC Limits on work time
-(1) No driver may work for a period of time that—
-  (a) exceeds the work time restrictions specified in this section, the rules, or any variation granted under section 30ZA; or
-  (b) fails to comply with the rest time requirements specified in this section, the rules, or any variation granted under section 30ZA.
+(1) A driver subject to this subpart—
+  (a) may not exceed the work time restrictions specified in this section, the rules, or any variation granted under section 30ZA; and
+  (b) must comply with the rest time requirements specified in this section, the rules, or any variation granted under section 30ZA.
 (2) In any cumulative work day, a driver—
   (a) may not exceed 13 hours of work time; and
   (b) must have at least 10 hours of continuous rest time.
-(3) No driver may, in any cumulative work period, exceed 70 hours of work time.
-(4) This section does not apply to a driver of an ambulance service, a fire brigade, or a rural fire party who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
+(3) In any cumulative work period, a driver may not exceed 70 hours of work time.
+(4) To avoid doubt, the rules may extend the limits for a cumulative work day or period for a specified activity or service.
+(5) This section does not apply to a driver of an ambulance service, a fire brigade, or a rural fire party who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
 
 ### 30ZD Records must be kept
 (1) A person who employs a person to drive a vehicle referred to in section 30ZB, and any self-employed driver who drives a vehicle referred to in section 30ZB, must keep—
@@ -1540,7 +1541,9 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 57 Contravention of specified breath or blood-alcohol limit by person younger than 20
 (1) A person younger than 20 commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 150 micrograms of alcohol per litre of breath.
+(1A) A person younger than 20 commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 150 micrograms of alcohol per litre of breath.
 (2) A person younger than 20 commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 30 milligrams of alcohol per 100 millilitres of blood.
+(2A) A person younger than 20 commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 30 milligrams of alcohol per 100 millilitres of blood.
 (3) If a person commits an offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
@@ -1658,12 +1661,14 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) an injury, sustained in a motor vehicle accident giving rise to an obligation to undergo the test, that precludes undergoing the test.
 (2) It is no defence to proceedings for an offence that a provision forming part of sections 68 to 75A, and 77 has not been strictly complied with or has not been complied with at all, provided there has been reasonable compliance with such of those provisions as apply.
 (3) In any proceedings against any person for an offence against section 52(1)(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
-  (a) the breath screening test or evidential breath test indicated that the proportion of alcohol in the person's breath did not exceed—
-    (i) 150 micrograms of alcohol per litre of breath, in the case of a person apparently younger than 20; or
-    (ii) 400 micrograms of alcohol per litre of breath, in any other case; or
-  (b) any evidence given in respect of the results of a blood test indicates that the proportion of alcohol in the person's blood did not exceed—
-    (i) 30 milligrams of alcohol per 100 millilitres of blood, in the case of a person apparently younger than 20; or
-    (ii) 80 milligrams of alcohol per 100 millilitres of blood, in any other case.
+  (a) the breath screening test or evidential breath test indicated that,—
+    (i) in the case of a person apparently younger than 20, the person’s breath did not contain alcohol; or
+    (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's breath did not contain alcohol; or
+    (iii) in any other case, the proportion of alcohol in the person’s breath did not exceed 400 micrograms of alcohol per litre of breath; or
+  (b) any evidence given in respect of the results of a blood test indicates that,—
+    (i) in the case of a person apparently younger than 20, the person’s blood did not contain alcohol; or
+    (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's blood did not contain alcohol; or
+    (iii) in any other case, the proportion of alcohol in the person’s blood did not exceed 80 milligrams of alcohol per 100 millilitres of blood.
 (3A) It is no defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) that—
   (a) there was or may have been an error in the result of the breath screening test or evidential breath test; or
   (b) the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require an evidential breath test or a blood test.
@@ -1718,9 +1723,11 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
 (5) The use or non-use of a passive breath-testing device does not of itself affect the validity of a breath screening test.
 
 ### 69 Who must undergo evidential breath test
-(1) An enforcement officer may require a person to accompany an enforcement officer to a place where it is likely that the person can undergo an evidential breath test or a blood test (or both) when required to do so by the officer, if—
-  (a) the person has undergone a breath screening test under section 68 and it appears to the officer that the test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
-  (b) it appears to the officer that the person is younger than 20 and that a breath screening test undergone by the person under section 68 indicates that there is some alcohol in the person's breath; or
+(1) An enforcement officer may require a person to accompany an enforcement officer to a place where it is likely that the person can undergo an evidential breath test or a blood test (or both) when required to do so by the officer, if,—
+  (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
+  (aa) in the case of a person who is apparently younger than 20, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
+  (ab) in the case of any other person, the person has undergone a breath screening test under section 68 and it appears to the officer that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath; or
+  (b)
   (c) the person fails or refuses to undergo a breath screening test without delay after having been required to do so by the officer under section 68; or
   (d) the person could be required to undergo a breath screening test without delay under section 68 but cannot be tested because either a breath screening device is not readily available or for any reason a breath screening test cannot then be carried out, and there is good cause to suspect that the person has consumed drink.
 (2) If it is not practicable for a person to undergo an evidential breath test at a place to which the person has accompanied an enforcement officer under subsection (1), an enforcement officer may require the person to accompany the officer to any other place where it is likely that the person can undergo an evidential breath test or a blood test (or both).
@@ -2007,27 +2014,27 @@ The court may require a transport service licence holder to sit, or re-sit, the 
 
 ### 79N Failure to keep or produce records or comply with conditions of exemption or approval
 Every person commits an offence who fails or refuses to comply with any of the requirements of section 30ZD or the conditions of any exemption granted or approval given under section 30ZA(1)(a) or (c), and is liable on conviction,—
-  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or such greater period as the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-    (ii) is used in the relevant transport service; and
+  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or such greater period as the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+    (ii) is used in the relevant transport service; or
     (iii) is used to carry goods for hire or reward; or
   (b) in any other case, to a fine not exceeding $100,000.
 
 ### 79O Failure to comply with prescribed work time restrictions or rest time requirements
 Every person commits an offence who fails to comply with any work time restrictions or rest time requirements prescribed in this Act or the rules, and is liable on conviction to,—
   (a) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by less than 60 minutes in a cumulative work day or less than 120 minutes in a cumulative work period, a fine not exceeding $2,000, and, as the court thinks fit,—
-    (i) the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-      (A) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-      (B) is used in the relevant transport service; and
+    (i) the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+      (A) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+      (B) is used in the relevant transport service; or
       (C) is used to carry goods for hire or reward; or
     (ii) the person must complete a work time and log-book course approved by the Agency:
-  (b) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 60 minutes or more in a cumulative work day, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-    (ii) is used in the relevant transport service; and
+  (b) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 60 minutes or more in a cumulative work day, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+    (ii) is used in the relevant transport service; or
     (iii) is used to carry goods for hire or reward; or
-  (c) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 120 minutes or more in a cumulative work period, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-    (ii) is used in the relevant transport service; and
+  (c) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 120 minutes or more in a cumulative work period, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+    (ii) is used in the relevant transport service; or
     (iii) is used to carry goods for hire or reward.
 
 ### 79P Defences to work time offences
@@ -2038,14 +2045,22 @@ Every person commits an offence who fails to comply with any work time restricti
   (a) a state of emergency declared under the Civil Defence Emergency Management Act 2002; or
   (b) an incident attended by an emergency service; or
   (c) an event requiring immediate action to save life or prevent serious injury.
+(3) It is not a defence in any proceedings for an offence against section 79O that a continuous period of rest time of at least 10 hours was taken before the commencement of the work time to which the relevant cumulative work day relates.
+(4) It is not a defence in any proceedings for an offence against section 79O that a continuous period of rest time of at least 24 hours was taken before the commencement of the first cumulative work day to which the relevant cumulative work period relates.
+
+### 79PA Matters to be taken into account in imposing penalty for offence against section 79O
+In determining the penalty to be imposed for an offence against section 79O, the court must take into account each of the following:
+  (a) the cumulative effect of abbreviated, broken, or omitted periods of rest time:
+  (b) the accumulated hours of work time:
+  (c) the degree of risk to the public.
 
 ### Subpart 2 — Logbooks
 
 ### 79Q Failure to discharge duties regarding logbooks
 Every person who fails or refuses to comply with any requirement of or demand made under section 30ZH commits an offence and is liable on conviction,—
-  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-    (ii) is used in the relevant transport service; and
+  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+    (ii) is used in the relevant transport service; or
     (iii) is—
       (A) a heavy motor vehicle; and
       (B) used to carry goods for hire or reward:
@@ -2066,9 +2081,9 @@ Every person who fails or refuses to comply with any requirement of or demand ma
   (b) the logbook maintained in respect of the driving of that vehicle is false in a material particular, whether or not the person knows of the falsehood; or
   (c) the logbook maintained in respect of the driving of that vehicle omits a material particular, whether or not the person knows of the omission.
 (4) Every person who commits an offence against this section is liable on conviction,—
-  (a) in the case of a driver to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
-    (ii) is used in the relevant transport service; and
+  (a) in the case of a driver to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+    (ii) is used in the relevant transport service; or
     (iii) is—
       (A) a heavy motor vehicle; and
       (B) used to carry goods for hire or reward:
@@ -2818,8 +2833,8 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 
 ### 115 Enforcement officers may give directions prohibiting driving of vehicles
 (1) An enforcement officer who believes on reasonable grounds that a vehicle does not comply with the regulations or the rules or a particular requirement of the regulations or the rules, may—
-  (a) affix or cause to be affixed to the vehicle a notice in the form approved by the Agency by notice in the Gazette directing that the vehicle must not be driven on a road; and
-  (b) give the driver or owner of the vehicle a notice in a form approved by the Agency by notice in the Gazette directing that the vehicle must not be driven on a road.
+  (a) affix or cause to be affixed to the vehicle a notice in the form approved by the Minister by notice in the Gazette directing that the vehicle must not be driven on a road; and
+  (b) give the driver or owner of the vehicle a notice in a form approved by the Minister by notice in the Gazette directing that the vehicle must not be driven on a road.
 (2) A notice given under subsection (1) continues in force until the vehicle—
   (a) has been inspected by a person authorised by the Agency; and
   (b) the person is satisfied that the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
@@ -2828,7 +2843,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
   (a) the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
   (b) the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules or with the particular requirement of the regulations or the rules.
 (3) An enforcement officer who believes on reasonable grounds that a vehicle on a road is not in a safe condition to be driven on the road, may—
-  (a) affix or cause to be affixed to the vehicle a notice to that effect in a form approved by the Agency by notice in the Gazette; and
+  (a) affix or cause to be affixed to the vehicle a notice to that effect in a form approved by the Minister by notice in the Gazette; and
   (b) give the driver or owner of the vehicle a notice in a form approved by the Agency by notice in the Gazette stating that the vehicle must be removed from the road and may not be driven on a road until—
     (i) it has been inspected by a person authorised by the Agency; and
     (ii) the person is satisfied that the vehicle is in a safe condition for driving on the road; and
@@ -2837,7 +2852,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (3B) If a vehicle is subject to a direction under subsection (1) or (3) on the grounds that the vehicle's exhaust system exceeds any prescribed noise or decibel limits, the vehicle's exhaust system must, before new evidence of vehicle inspection may be issued, be certified as complying with the relevant limits in accordance with any prescribed testing and certification procedure.
 (4) A notice under subsection (1) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair or may continue to be driven for a given time or under limitations as to speed or route or otherwise.
 (5) A notice under subsection (3) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair.
-(6) A notice given by the Agency in the Gazette for any purpose specified in this section, and a corresponding notice given under any former enactment and continued in force by this Act, may be amended from time to time, or revoked, by the Agency in the same manner.
+(6) A notice given by the Minister in the Gazette for any purpose specified in this section, and a corresponding notice given under any former enactment and continued in force by this Act, may be amended from time to time, or revoked, by the Minister in the same manner.
 
 ### 116 Enforcement of directions
 (1) An enforcement officer may arrest without warrant a person whom the officer has good cause to suspect has failed to comply with a direction given under section 113 or section 115.
@@ -3921,8 +3936,14 @@ The functions of the Minister under this Act are—
   (a) may, with the general or special approval of that health authority, take for statistical or research purposes, whether in the hospital at which the practitioner or officer is employed or otherwise, a blood specimen from a person who the practitioner or officer believes is in the hospital at which the practitioner or officer is employed for examination, care, or treatment as a result of an accident involving a motor vehicle:
   (b) may, with the consent of a person from whom such a blood specimen may be taken under this subsection, take for such purposes a specimen of breath, saliva, urine, perspiration, or eye vapour from that person.
 (2) A blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section must be labelled that it was taken for statistical or research purposes, and evidence as to the proportion of alcohol or of a drug found in that specimen is not admissible in any civil or criminal proceedings in any court or in proceedings before a person acting judicially.
+(2A) A constable or Police employee may, for research purposes, examine a breath specimen taken under section 68 or a blood specimen taken under section 72 or 73 to determine the alcohol level of any driver involved in a serious injury or fatal accident who the constable or Police employee believes has been drinking.
+(2B) If the breath screening test of the breath specimen examined under subsection (2A) produces a result between 250 micrograms and 400 micrograms of alcohol per litre of breath (both measures inclusive), the constable or Police employee (as the case may be) must forward the result and the relevant crash report to the Secretary.
+(2C) If the blood test of the blood specimen examined under subsection (2A) produces a result between 50 milligrams of alcohol per 100 millilitres of blood and 80 milligrams of alcohol per 100 millilitres of blood (both measures inclusive), the enforcement officer must forward the result and the relevant crash report to the Secretary.
 (3) Subsections (5) and (6) of section 73 apply to every blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section as if the specimen had been taken under that section.
 (4) For the purposes of this section, a person acting judicially means any person having in New Zealand by law authority to hear, receive, and examine evidence.
+
+### 209AA Expiry and repeal of section 209(2A) to (2C)
+Subsections (2A) to (2C) of section 209 expire and are repealed with the close of a date to be appointed by the Governor-General by Order in Council.
 
 ### 209A Analysing blood specimens for statistical or research purposes related to use of drugs or alcohol
 (1) Without limiting the purposes for which a blood specimen may be analysed or re-analysed under this Act, a person may, for statistical or research purposes related to the use of drugs or alcohol, analyse or re-analyse in an approved laboratory a blood specimen from a person taken under section 72 or 73.
