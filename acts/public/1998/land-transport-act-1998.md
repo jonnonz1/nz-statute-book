@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-08-07_
+_Consolidation as at 2011-08-09_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -253,7 +253,7 @@ _Consolidation as at 2011-08-07_
     (b) controlling or restricting cruising or any associated activities
   - **qualifying drug** —
     (a) means any substance, preparation, mixture, or article containing—
-      (i) a controlled drug specified in Schedule 1 (except thalidomide), Schedule 2, or Part 1, 4, or 7 of Schedule 3 of the Misuse of Drugs Act 1975; and
+      (i) a controlled drug specified in Schedule 1, Schedule 2, or Part 1, 4, or 7 of Schedule 3 of the Misuse of Drugs Act 1975; and
       (ii) any of the following drugs:
         (A) Alprazolam:
         (B) Bromazepam:
@@ -1566,7 +1566,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 58 Contravention of section 12
 (1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road—
   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
-  (b) if the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 (except thalidomide) of the Misuse of Drugs Act 1975.
+  (b) if the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
 (1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
@@ -1612,7 +1612,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) the proportion of alcohol in the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken from that person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
 (2) A person commits an indictable offence if the person is in charge of a motor vehicle and causes bodily injury to, or the death of, a person—
   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
-  (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 (except thalidomide) of the Misuse of Drugs Act 1975; or
+  (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975; or
   (c) if—
     (i) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
@@ -1631,7 +1631,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 62 Causing injury or death in circumstances to which section 61 does not apply
 (1) A person commits an indictable offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
   (a) while under the influence of drink or a drug, or both; or
-  (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 (except thalidomide) of the Misuse of Drugs Act 1975.
+  (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
 (1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
 (1B) A person commits an indictable offence if—
   (a) the person causes bodily injury to, or the death of, a person by driving or attempting to drive a motor vehicle; and
