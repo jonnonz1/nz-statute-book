@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2010-12-01_
+_Consolidation as at 2011-08-09_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -39,6 +39,8 @@ _Consolidation as at 2010-12-01_
   - **registered health professional** means a health practitioner who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
   - **standing order** has the same meaning as it has in section 2(1) of the Medicines Act 1981
   - **supply** includes distribute, give, and sell
+  - **temporary class drug** means a substance, preparation, mixture, or article specified in a temporary class drug notice
+  - **temporary class drug notice** means a notice given under section 4C
   - **veterinarian** means a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
   - **Vienna Convention** means the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances adopted in Vienna on 19 December 1988.
 (1A) Any reference in this Act to an amount, level, or quantity at and over which a controlled drug is presumed to be for supply is a reference to the amount, level, or quantity specified in Schedule 5.
@@ -111,6 +113,46 @@ The classification of a drug under this Act is based on the risk of harm the dru
   (a) the amount of the drug that could reasonably be possessed for personal use, including, without limitation, levels of consumption, the ability of the drug to create physical or psychological dependence, and the specific effects of the drug; and
   (b) the amount, level, or quantity at and over which the drug is presumed to be for supply in other jurisdictions; and
   (c) any other matters that the Minister considers relevant.
+
+### 4C Temporary class drug notice
+(1) The Minister may, by notice in the Gazette, specify any substance, preparation, mixture, or article as a temporary class drug.
+(2) The Minister must not give notice under subsection (1) if the substance, preparation, mixture, or article is a Class A controlled drug, a Class B controlled drug, a Class C controlled drug, a precursor substance, or a restricted substance (as defined in section 31 of the Misuse of Drugs Amendment Act 2005).
+(3) The Minister must not give notice under subsection (1) unless he or she is satisfied that the substance, preparation, mixture, or article that is to be specified in the notice poses, or may pose, a risk of harm to individuals, or to society.
+(4) A notice under subsection (1) may describe the substance, preparation, mixture, or article by any 1 or more of the following:
+  (a) its chemical name, or 1 of its chemical names:
+  (b) its product name:
+  (c) a description of the substance, preparation, mixture, or article, in the form that the Minister considers appropriate for the purposes of the notice.
+(5) A notice under subsection (1) must state the date on which the notice comes into force.
+(6) The date specified under subsection (5) must not be earlier than 7 days after the date of the publication of the notice in the Gazette.
+
+### 4D Effect of temporary class drug notice
+(1) Except as provided in this section, a temporary class drug is to be treated, while the temporary class drug notice remains in force, in the same way as if the drug were a controlled drug that is specified or described in Part 1 of Schedule 3.
+(2) A temporary class drug specified or described in a temporary class drug notice is not to be added to any schedule of this Act while the notice is in force.
+(3) Despite section 7(1), it is not an offence for a person, in relation to a temporary class drug, to do either or both of the following while the temporary class drug notice relating to that drug is in force:
+  (a) to possess for his or her own use less than 56 grams in total of any products (including cigarettes), or any drug forms (including flakes, tablets, or capsules), each containing some quantity of that temporary class drug:
+  (b) to use that temporary class drug.
+(4) Possession by a person of 56 grams or more in total of any products (including cigarettes), or any drug forms (including flakes, tablets, or capsules), each containing some quantity of that temporary class drug is to be treated, for the purposes of this Act, as possession by that person of an amount, level, or quantity at and over which a controlled drug that is specified or described in Part 1 of Schedule 3 is presumed to be for supply.
+(5) A substance that has a structure substantially similar to a temporary class drug is not to be treated as a controlled drug analogue by reason only of that similarity.
+(6) While a temporary class drug notice is in force, the Minister must seek advice, as he or she considers appropriate, under section 5 or 5AA, or both, in relation to the temporary class drug and its appropriate classification, if any (including as a precursor substance, or as a restricted substance as defined in section 31 of the Misuse of Drugs Amendment Act 2005), under this Act.
+(7) As soon as possible after the publication of a temporary class drug notice in the Gazette, and while a temporary class drug notice is in force, the Director-General of Health must ensure that the notice, and information about its effects, is available—
+  (a) on the Ministry of Health's Internet site, in an electronic form that is publicly accessible; and
+  (b) in any other way that the Director-General considers appropriate in the circumstances.
+(8) Despite the Regulations (Disallowance) Act 1989, a temporary class drug notice is not to be treated as a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+
+### 4E Duration of temporary class drug notice
+(1) A temporary class drug notice expires at the earliest of—
+  (a) the close of the day that is 1 year after the date on which the notice came into force; or
+  (b) the date on which the substance, preparation, mixture, or article is—
+    (i) classified as a Class A controlled drug; or
+    (ii) classified as a Class B controlled drug; or
+    (iii) classified as a Class C controlled drug; or
+    (iv) added to Schedule 4 as a precursor substance; or
+    (v) classified as a restricted substance (as defined in section 31 of the Misuse of Drugs Amendment Act 2005); or
+  (c) its revocation by the Minister by notice in the Gazette.
+(2) A temporary class drug notice may be renewed by the Minister—
+  (a) prior to the date of its expiry as calculated under subsection (1); and
+  (b) on 1 occasion only; and
+  (c) only for the purpose of allowing sufficient time for the Minister to obtain the advice that is to be sought under section 4D(6).
 
 ### 5 Advisory and technical committees
 (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
@@ -450,14 +492,14 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 ### 22 Powers of Minister to prohibit importation, etc, of controlled drugs
 (1) The Minister may from time to time, by notice in the Gazette, prohibit the import, manufacture, production, procuring, possession, supply, administration, or other use of any specified controlled drug, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year:
   provided that this power shall not be exercised more than once in respect of any controlled drug so specified.
-(1A) The Minister may from time to time, by notice in the Gazette, prohibit the import or supply of any class of pipe or other utensil, not being a needle or syringe, that may be used for administering any controlled drug or in the preparation of any controlled drug to be administered, either absolutely or subject to such conditions as the Minister thinks fit.
+(1A) The Minister may from time to time, by notice in the Gazette, prohibit the importation, supply, possession for the purpose of sale or supply, or offering for sale of any class of pipe, other utensil, or identifiable component of a pipe or other utensil, not being a needle or syringe, that may be used for administering any controlled drug or in the preparation of any controlled drug to be administered, either absolutely or subject to such conditions as the Minister thinks fit.
 (2) Every person commits an offence against this Act who,—contravenes or fails to comply with that notice.
   (a) being a person permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in a notice under subsection (1); or
   (b) were it not for a notice issued under subsection (1), would be permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in that notice,—
 (3) Every person commits an offence against this Act who—
-  (a) supplies a pipe or other utensil whose supply is absolutely prohibited by a notice issued under subsection (1A); or
-  (b) supplies a pipe or other utensil otherwise than in accordance with any condition under which that pipe or utensil may, under a notice issued under subsection (1A), be supplied; or
-  (c) imports a pipe or other utensil otherwise than in accordance with any condition under which that pipe or utensil may, under a notice issued under subsection (1A), be imported.
+  (a) supplies, possesses for the purpose of sale or supply, or offers for sale a pipe, other utensil, or identifiable component of a pipe or other utensil whose sale, possession for the purpose of sale or supply, or offering for sale (as the case may be) is absolutely prohibited by a notice issued under subsection (1A); or
+  (b) supplies, possesses for the purpose of sale or supply, or offers for sale a pipe, other utensil, or identifiable component of a pipe or other utensil otherwise than in accordance with any condition under which that pipe, other utensil, or identifiable component of a pipe or other utensil may, under a notice issued under subsection (1A), be supplied, possessed for the purpose of sale or supply, or offered for sale (as the case may be); or
+  (c) imports a pipe, other utensil, or identifiable component of a pipe or other utensil otherwise than in accordance with any condition under which that pipe, other utensil, or identifiable component of a pipe or other utensil may, under a notice issued under subsection (1A), be imported.
 (4) Subject to subsection (5), every person who commits an offence against subsection (3) is liable,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
@@ -745,7 +787,6 @@ Amendment(s) incorporated in the Act(s).
 - **Psilocybine** (3-(2-dimethylaminoethyl) indol-4-yl dihydrogen phosphate)
 - **STP,DOM** (2-amino-1-(2,5-dimethoxy-4-methyl) phenylpropane)
 - **TCP** (1-[1-(2-thienyl)cyclohexyl]piperidine)
-- **Thalidomide** (α-phthalimidoglutarimide)
 - **TMA** (2-amino-1-(3,4,5-trimethoxyphenyl)propane).
 
 ### 2
