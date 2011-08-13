@@ -1,5 +1,5 @@
 # Appropriation (1994/95 Supplementary Estimates) Act 1995
-_Consolidation as at 1996-06-24_
+_Consolidation as at 2011-08-13_
 
 > An Act—ato authorise the Crown to spend public money and to incur expenses and liabilities during the financial year ending with 30 June 1995 by appropriating public money, expenses, and liabilities for that financial year; andbto authorise the Crown to spend public money and to incur expenses in relation to historical Treaty of Waitangi settlements during the period of 5 financial years ending with 30 June 1999 by appropriating public money and expenses for those 5 financial years
 
