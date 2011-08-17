@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-08-17_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -901,7 +901,10 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 |  | 10 |  | training prospective mercenary |  |  |  |
 |  | 11 |  | training mercenary |  |  |  |
 |  | 12 |  | mercenary taking part in hostilities or concerted act of violence |  |  |  |
-| 29The Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted by the General Assembly of the United Nations at New York on 25 May 2000 |  |  |  |  | An offence—aagainst any of the following sections of the Films, Videos, and Publications Classification Act 1993:sectionsubject matter124(1)knowingly making or supplying objectionable publications, etc127(4)knowing exhibition to persons under 18129(3)knowing distribution of objectionable publication in public place131A(1)knowingly having possession of objectionable publication; and |  |
+| 29The Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted by the General Assembly of the United Nations at New York on 25 May 2000 |  |  |  |  | An offence against the following section of the Adoption Act 1955: |  |
+|  | section |  | subject matter |  |  |  |
+|  | 27A |  | Offence to induce consent |  |  |  |
+|  |  |  |  |  | An offence—aagainst any of the following sections of the Films, Videos, and Publications Classification Act 1993:sectionsubject matter124(1)knowingly making or supplying objectionable publications, etc127(4)knowing exhibition to persons under 18129(3)knowing distribution of objectionable publication in public place131A(1)knowingly having possession of objectionable publication; and |  |
 | section |  | subject matter |  |  |  |  |
 | 124(1) |  | knowingly making or supplying objectionable publications, etc |  |  |  |  |
 | 127(4) |  | knowing exhibition to persons under 18 |  |  |  |  |
