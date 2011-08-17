@@ -1,5 +1,5 @@
 # Crimes Amendment Act 2005
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2011-08-17_
 
 ### 1 Title
 (1) This Act is the Crimes Amendment Act 2005.
@@ -94,8 +94,8 @@ The principal Act is amended by inserting, after section 98, the following secti
       (i) is undertaken for a material benefit; and
       (ii) involves the exposure of the person's genitalia, anus, or breasts.
   (4) For the purposes of paragraphs (b) and (c) of subsection (3), sexual exploitation, in relation to a person, does not include the recording or transmission of an artistic or cultural performance or display honestly undertaken primarily for purposes other than the exposure of body parts for the sexual gratification of viewers.
-  (5) For the purposes of subsection (3)(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts for the purpose of depicting a medical condition, or a surgical or medical technique, for the instruction or information of health professionals.
-  (6) For the purposes of subsection (3)(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts if the images are honestly intended—
+  (5) For the purposes of subsection (3)﻿(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts for the purpose of depicting a medical condition, or a surgical or medical technique, for the instruction or information of health professionals.
+  (6) For the purposes of subsection (3)﻿(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts if the images are honestly intended—
     (a) to provide medical or health education; or
     (b) to provide information relating to medical or health matters; or
     (c) to advertise a product, instrument, or service intended to be used for medical or health purposes.
@@ -146,7 +146,7 @@ The principal Act is amended by repealing sections 127 to 142, and substituting 
     (b) a person is induced to consent to an indecent act whether—
       (i) he or she is induced to consent to the doing of an indecent act with or on him or her; or
       (ii) he or she is induced to consent to do an indecent act himself or herself.
-  (5) The kinds of threat referred to in subsections (3) and (4)(a) are—
+  (5) The kinds of threat referred to in subsections (3) and (4)﻿(a) are—
     (a) a threat that the person making the threat or some other person will commit an offence that—
       (i) is punishable by imprisonment; but
       (ii) does not involve the actual or threatened application of force to any person; and
@@ -189,7 +189,7 @@ The principal Act is amended by repealing sections 127 to 142, and substituting 
       (ii) travels with the intention of meeting the young person:
       (iii) arranges for or persuades the young person to travel with the intention of meeting him or her; and
     (b) at the time of taking the action, he or she intends—
-      (i) to take in respect of the young person an action that, if taken in New Zealand, would be an offence against this Part, or against any of paragraphs (a)(i), (d)(i), (e)(i), (f)(i), of section 98AA(1); or
+      (i) to take in respect of the young person an action that, if taken in New Zealand, would be an offence against this Part, or against any of paragraphs (a)﻿(i), (d)﻿(i), (e)﻿(i), (f)﻿(i), of section 98AA(1); or
       (ii) that the young person should do on him or her an act the doing of which would, if he or she permitted it to be done in New Zealand, be an offence against this Part on his or her part.
   (2) It is a defence to a charge under subsection (1) if the person charged proves that,—
     (a) before the time he or she took the action concerned, he or she had taken reasonable steps to find out whether the young person was of or over the age of 16 years: and
@@ -367,15 +367,16 @@ To the extent (if any) that, with or without modification, a provision of the pr
 (1) For the purposes of this Act and any Order in Council in force under section 15 or section 104,—
   (a) every offence against section 98AA of the Crimes Act 1961 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
   (b) every offence against section 144A of the Crimes Act 1961 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
-  (c) every offence against section 23(1) of the Prostitution Reform Act 2003 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5).
-(2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with this Act and the applicable extradition treaty, whether the act occurred before or after the commencement of section 10 of the Crimes Amendment Act 2005.
+  (c) every offence against section 23(1) of the Prostitution Reform Act 2003 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 10 of the Crimes Amendment Act 2005 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5); and
+  (d) every offence against section 27A of the Adoption Act 1955 is deemed to be an offence described in any extradition treaty concluded before the commencement of section 6 of the Adoption Amendment Act 2011 and for the time being in force between New Zealand and any foreign country that is a party to the protocol referred to in subsection (5).
+(2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with this Act and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)﻿(a), (b), (c), or (d), as the case requires.
 (3) Subsection (2) does not apply in respect of an act that, had it occurred within the jurisdiction of New Zealand, would not, at the time that it occurred, have constituted an offence under New Zealand law.
 (4) A certificate given and signed by the Minister of Foreign Affairs and Trade that a foreign country is a party to the protocol referred to in subsection (5) is, in the absence of proof to the contrary, sufficient evidence of that fact.
 (5) The protocol to which this section applies is the Optional Protocol to the United Nations Convention on the Rights of the Child on the sale of children, child prostitution, and child pornography adopted by the General Assembly of the United Nations at New York on 25 May 2000.
 (6) For the purposes of this section, a foreign country includes a territory if—
   (a) the foreign country's government is responsible for the territory's international relations; and
   (b) an extradition treaty is in force between New Zealand and the foreign country; and
-  (c) the the protocol referred to in subsection (5) extends to the territory.
+  (c) the protocol referred to in subsection (5) extends to the territory.
 
 | 128B(1) | Sexual violation |
 | --- | --- |
