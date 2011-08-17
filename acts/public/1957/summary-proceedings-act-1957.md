@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2011-08-17_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3349,6 +3349,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 
 | Title of Act |  | Section of Act |  | Offence |
 | --- | --- | --- | --- | --- |
+| Adoption Act 1955 |  | 27A |  | Inducing consent to an adoption |
 | Animal Welfare Act 1999 |  | 28 |  | Wilful ill-treatment of animals |
 |  |  | 28A |  | Reckless ill-treatment of animals |
 | Antarctica (Environmental Protection) Act 1994 |  | Part 2 |  | Mineral resource activities in Antarctica |
