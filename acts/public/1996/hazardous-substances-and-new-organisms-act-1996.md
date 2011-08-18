@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-08-18_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -3058,49 +3058,142 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 
 ### Schedule.Group
 
-#### Schedule A — Elimination
+#### Schedule Annex A — Elimination
 
 | Chemical | Activity | Specific exemption |
 | --- | --- | --- |
 | Aldrin*CAS No: 309-00-2 | Production | None |
 | Use | Local ectoparasiticideInsecticide |  |
+| Alpha hexachlorocyclohexane*CAS No: 319-84-6 | Production | None |
+| Use | None |  |
+| Beta hexachlorocyclohexane*CAS No: 319-85-7 | Production | None |
+| Use | None |  |
 | Chlordane*CAS No: 57-74-9 | Production | As allowed for the Parties listed in the Register |
 | Use | Local ectoparasiticideInsecticideTermiticideTermiticide in buildings and damsTermiticide in roadsAdditive in plywood adhesives |  |
+| Chlordecone*CAS No: 143-50-0 | Production | None |
+| Use | None |  |
 | Dieldrin*CAS No: 60-57-1 | Production | None |
 | Use | In agricultural operations |  |
 | Endrin*CAS No: 72-20-8 | Production | None |
 | Use | None |  |
 | Heptachlor*CAS No: 76-44-8 | Production | None |
 | Use | TermiticideTermiticide in structures of housesTermiticide (subterranean)Wood treatmentIn use in underground cable boxes |  |
+| Hexabromobiphenyl*CAS No: 36355-01-8 | Production | None |
+| Use | None |  |
+| Hexabromodiphenyl ether* andheptabromodiphenyl ether* | Production | None |
+| Use | Articles in accordance with the provisions of Part IV of this Annex |  |
 | HexachlorobenzeneCAS No: 118-74-1 | Production | As allowed for the Parties listed in the Register |
 | Use | IntermediateSolvent in pesticideClosed system site limited intermediate |  |
+| Lindane*CAS No: 58-89-9 | Production | None |
+| Use | Human health pharmaceutical for control of head lice and scabies as second line treatment |  |
 | Mirex*CAS No: 2385-85-5 | Production | As allowed for the Parties listed in the Register |
 | Use | Termiticide |  |
-| Toxaphene*CAS No: 8001-35-2 | Production | None |
+| Pentachlorobenzene*CAS No: 608-93-5 | Production | None |
 | Use | None |  |
 | Polychlorinated Biphenyls (PCB)* | Production | None |
 | Use | Articles in use in accordance with the provisions of Part II of this Annex |  |
+| Technical endosulfan*CAS No: 115-29-7 and its related isomers* CAS No: 959-98-8 and CAS No: 33213-65-9 | Production | As allowed for the parties listed in the Register of Specific Exemptions |
+| Use | Crop-pest complexes as listed in accordance with the provisions of Part VI of this Annex |  |
+| Tetrabromodiphenyl ether* andpentabromodiphenyl ether* | Production | None |
+| Use | Articles in accordance with the provisions of Part IV of this Annex |  |
+| Toxaphene*CAS No: 8001-35-2 | Production | None |
+| Use | None |  |
 
-#### Schedule B — Restriction
+### 1.
+A Party may allow recycling of articles that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, provided that:
+(a) The recycling and final disposal is carried out in an environmentally sound manner and does not lead to recovery of hexabromodiphenyl ether and heptabromodiphenyl ether for the purpose of their reuse;
+(b) The Party takes steps to prevent exports of such articles that contain levels/concentrations of hexabromodiphenyl ether and heptabromodiphenyl ether exceeding those permitted for the sale, use, import or manufacture of those articles within the territory of the Party; and
+(c) The Party has notified the Secretariat of its intention to make use of this exemption.
 
-| Chemical | Activity | Acceptable purpose or specific exemption |
-| --- | --- | --- |
-| DDT(1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 | Production | Acceptable purpose:Disease vector control use in accordance with Part II of this Annex |
-| Specific exemption:Intermediate in production of dicofolIntermediate |  |  |
-| Use | Acceptable purpose:Disease vector control in accordance with Part II of this Annex |  |
-| Specific exemption:Production of dicofolIntermediate |  |  |
+### 2.
+At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of hexabromodiphenyl ether and heptabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030.
 
-#### Schedule C — Unintentional production
+### 1.
+A Party may allow recycling of articles that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, provided that:
+(a) The recycling and final disposal is carried out in an environmentally sound manner and does not lead to recovery of tetrabromodiphenyl ether and pentabromodiphenyl ether for the purpose of their reuse;
+(b) The Party does not allow this exemption to lead to the export of articles containing levels/concentrations of tetrabromodiphenyl ether and pentabromodiphenyl ether that exceed those permitted to be sold within the territory of the Party; and
+(c) The Party has notified the Secretariat of its intention to make use of this exemption.
+
+### 2.
+At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of tetrabromodiphenyl ether and pentabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030.
+
+| Crop | Pest |
+| --- | --- |
+| Cotton | Cotton bollworms, pink bollworm, aphids, jassids, whiteflies, thrips, leafroller |
+| Jute | Bihar hairy caterpillar, yellow mite |
+| Coffee | Berry borer, stem borer |
+| Tea | Aphids, caterpillars, tea mosquito bugs, mealybugs, scale insects, thrips, flushworm, smaller green leaf hopper, tea geometrid |
+| Tobacco | Oriental tobacco bud worm, aphids |
+| Cow peas, beans, tomato | Whiteflies, aphids, leaf miner |
+| Okra, tomato, eggplant | Fruit and shoot borer, diamondback moth, aphids, jassids |
+| Onion, potato, chillies | Aphids, jassids |
+| Apple | Yellow aphids |
+| Mango | Hopper, fruit fly |
+| Gram, arhar | Aphids, caterpillars, pod borer, pea semilooper |
+| Maize | Aphids, stem borer, pink borer |
+| Paddy/rice | White jassids, stem borer, gall midge, rice hispa |
+| Wheat | Aphids, termites, pink borer |
+| Groundnuts | Aphids |
+| Mustard | Aphids, gall midge |
+
+#### Schedule Annex B — Restriction
+
+| Chemical |  | Activity | Acceptable purpose or specific exemption |
+| --- | --- | --- | --- |
+| DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS NO: 50-29-3 |  | Production | Acceptable purpose:Disease vector control use in accordance with Part II of this Annex |
+|  |  |  | Specific exemption:Intermediate in production of dicofolIntermediate |
+|  |  | Use | Acceptable purpose:Disease vector control in accordance with Part II of this Annex |
+|  |  |  | Specific exemption:Production of dicofolIntermediate |
+| Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its saltsa and perfluorooctane sulfonyl fluoride (CAS No: 307-35-7) |  | Production | Acceptable purpose:In accordance with Part III of this Annex, production of other chemicals to be used solely for the uses below. Production for uses listed below. |
+| aFor example: potassium perfluorooctane sulfonate (CAS No: 2795-39-3); lithium perfluorooctane sulfonate (CAS No: 29457-72-5); ammonium perfluorooctane sulfonate (CAS No: 29081-56-9); diethanolammonium perfluorooctane sulfonate (CAS No: 70225-14-8); tetraethylammonium perfluorooctane sulfonate (CAS No: 56773-42-3); didecyldimethylammonium perfluorooctane sulfonate (CAS No: 251099-16-8) |  |  | Specific exemption:As allowed for Parties listed in the Register |
+|  | Use |  | Acceptable purpose:In accordance with Part III of this Annex for the following acceptable purposes, or as an intermediate in the production of chemicals with the following acceptable purposes:Photo-imagingPhoto-resist and anti-reflective coatings for semi-conductorsEtching agent for compound semi-conductors and ceramic filtersAviation hydraulic fluidsMetal plating (hard metal plating) only in closed-loop systemsCertain medical devices (such as ethylene tetrafluoroethylene copolymer (ETFE) layers and radio-opaque ETFE production, in-vitro diagnostic medical devices, and CCD colour filters)Fire-fighting foamInsect baits for control of leaf-cutting ants from Atta spp. and Acromyrmex spp. |
+|  |  |  | Specific exemption:For the following specific uses, or as an intermediate in the production of chemicals with the following specific uses:Photo masks in the semiconductor and liquid crystal display (LCD) industriesMetal plating (hard metal plating)Metal plating (decorative plating)Electric and electronic parts for some colour printers and colour copy machinesInsecticides for control of red imported fire ants and termitesChemically driven oil productionCarpetsLeather and apparelTextiles and upholsteryPaper and packagingCoatings and coating additivesRubber and plastics |
+
+### 1.
+The production and use of perfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF) shall be eliminated by all Parties except as provided in Part I of this Annex for Parties that have notified the Secretariat of their intention to produce and/or use them for acceptable purposes. A Register of Acceptable Purposes is hereby established and shall be available to the public. The Secretariat shall maintain the Register of Acceptable Purposes. In the event that a Party not listed in the Register determines that it requires the use of PFOS, its salts or PFOSF for the acceptable purposes listed in Part I of this Annex it shall notify the Secretariat as soon as possible in order to have its name added forthwith to the Register.
+
+### 2.
+Parties that produce and/or use these chemicals shall take into account, as appropriate, guidance such as that given in the relevant parts of the general guidance on best available techniques and best environmental practices given in Part V of Annex C of the Convention.
+
+### 3.
+Every four years, each Party that uses and/or produces these chemicals shall report on progress made to eliminate PFOS, its salts and PFOSF and submit information on such progress to the Conference of the Parties pursuant to and in the process of reporting under Article 15 of the Convention.
+
+### 4.
+With the goal of reducing and ultimately eliminating the production and/or use of these chemicals, the Conference of the Parties shall encourage:
+(a) Each Party using these chemicals to take action to phase out uses when suitable alternatives substances or methods are available;
+(b) Each Party using and/or producing these chemicals to develop and implement an action plan as part of the implementation plan specified in Article 7 of the Convention;
+(c) The Parties, within their capabilities, to promote research on and development of safe alternative chemical and non-chemical products and processes, methods and strategies for Parties using these chemicals, relevant to the conditions of those Parties. Factors to be promoted when considering alternatives or combinations of alternatives shall include the human health risks and environmental implications of such alternatives.
+
+### 5.
+The Conference of the Parties shall evaluate the continued need for these chemicals for the various acceptable purposes and specific exemptions on the basis of available scientific, technical, environmental and economic information, including:
+(a) Information provided in the reports described in paragraph 3;
+(b) Information on the production and use of these chemicals;
+(c) Information on the availability, suitability and implementation of alternatives to these chemicals;
+(d) Information on progress in building the capacity of countries to transfer safely to reliance on such alternatives.
+
+### 6.
+The evaluation referred to in the preceding paragraph shall take place no later than in 2015 and every four years thereafter, in conjunction with a regular meeting of the Conference of the Parties.
+
+### 7.
+Due to the complexity of the use and the many sectors of society involved in the use of these chemicals, there might be other uses of these chemicals of which countries are not presently aware. Parties which become aware of other uses are encouraged to inform the Secretariat as soon as possible.
+
+### 8.
+A Party may, at any time, withdraw its name from the Register of acceptable purposes upon written notification to the Secretariat. The withdrawal shall take effect on the date specified in the notification.
+
+### 9.
+The provisions of note (iii) of Part I of Annex B shall not apply to these chemicals.
+
+#### Schedule Annex C — Unintentional production
 
 | Chemical |
 | --- |
-| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Hexachlorobenzene (HCB) (CAS No: 118-74-1)Polychlorinated biphenyls (PCB) |
+| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Hexachlorobenzene (HCB) (CAS No: 118-74-1)Pentachlorobenzene (PeCB) (CAS No: 608-93-5)Polychlorinated biphenyls (PCB) |
 
-#### Schedule D — Information requirements and screening criteria
+#### Schedule Annex D — Information requirements and screening criteria
 
-#### Schedule E — Information requirements for the risk profile
+#### Schedule Annex E — Information requirements for the risk profile
 
-#### Schedule F — Information on socio-economic considerations
+#### Schedule Annex F — Information on socio-economic considerations
 
 ## Schedule 1 — Provisions relating to Environmental Risk Management Authority
 
@@ -3111,15 +3204,25 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Substance | Use or storage | Manufacture | Expiry of permitted use or storage |
 | --- | --- | --- | --- |
 | AldrinCAS No: 309-00-2 |  |  |  |
+| Alpha hexachlorocyclohexaneCAS No: 319-84-6 |  |  |  |
+| Beta hexachlorocyclohexaneCAS No: 319-85-7 |  |  |  |
 | ChlordaneCAS No: 57-74-9 |  |  |  |
+| ChlordeconeCAS No: 143-50-0 |  |  |  |
+| DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 |  |  |  |
 | DieldrinCAS No: 60-57-1 |  |  |  |
 | EndrinCAS No: 72-20-8 |  |  |  |
 | HeptachlorCAS No: 76-44-8 |  |  |  |
+| HexabromobiphenylCAS No: 36355-01-8 |  |  |  |
+| Hexabromodiphenyl ether and heptabromodiphenyl ether |  |  |  |
 | HexachlorobenzeneCAS No: 118-74-1 |  |  |  |
+| LindaneCAS No: 58-89-9 | In accordance with an exemption registered under article 4 of the Stockholm Convention:Human health pharmaceutical for control of head lice and scabies as second line treatment |  | 25 August 2015 |
 | MirexCAS No: 2385-85-5 |  |  |  |
-| ToxapheneCAS No: 8001-35-2 |  |  |  |
+| PentachlorobenzeneCAS No: 608-93-5 |  |  |  |
+| Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its salts and perfluorooctane sulfonyl fluoride (CAS No: 307-35-7) |  |  |  |
 | Polychlorinated Biphenyls (PCB) | in accordance with an exemption—agranted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983; andbthat is in force immediately before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 |  | at the expiry of—athe exemption; orban extension of the expiry of the exemption (being not later than the close of 2016) granted by the Authority |
-| DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 |  |  |  |
+| Technical endosulfan (CAS No: 115-29-7) and its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) |  |  |  |
+| Tetrabromodiphenyl ether and pentabromodiphenyl ether |  |  |  |
+| ToxapheneCAS No: 8001-35-2 |  |  |  |
 
 ## Schedule 3
 
