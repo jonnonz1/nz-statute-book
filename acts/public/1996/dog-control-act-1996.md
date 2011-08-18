@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-08-18_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
