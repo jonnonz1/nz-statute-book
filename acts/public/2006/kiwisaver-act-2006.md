@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2011-05-24_
+_Consolidation as at 2011-08-29_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -146,8 +146,8 @@ This Act is the KiwiSaver Act 2006.
   - **restricted KiwiSaver scheme** or means a KiwiSaver scheme identified as a restricted scheme on the KiwiSaver schemes register
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
-      (i) salary or wages described in section RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
-      (ib) allowances paid in place of a benefit under section CE 1(c) of that Act; and
+      (i) salary or wages described in section RD 5(4), (6)(b), (6)(c), and (8) and RD 68 of the Income Tax Act 2007; and
+      (ib)
       (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee’s gross base salary or wages by the relevant complying superannuation fund; and
@@ -904,6 +904,9 @@ The Commissioner must supply, to the provider of a KiwiSaver scheme to which the
 (1) A provider must refund to the Commissioner no more than the amount of contribution paid to the provider by the Commissioner in respect of a member of that provider’s KiwiSaver scheme that is in excess of the amount that is required to be paid to the provider under the KiwiSaver scheme and this Act.
 (2) The Commissioner must refund or give credit for the amount refunded under subsection (1) in the manner that the Commissioner thinks fit.
 (3) However, if a request is made under section 173L of the Tax Administration Act 1994, the Commissioner may apply any amount of that contribution in accordance with that request.
+
+### 81B Residual refunds
+If the Commissioner can not process an amount held in the holding account in accordance with this Act, or the amount is in excess of what this Act or a Revenue Act requires to be in the holding account, then the Commissioner may refund the amount to the person that the Commissioner considers has the best claim to it.
 
 ### 82 Trustee investment rules do not apply to contributions in holding account
 Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of money in the holding account.
