@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-08-29_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -620,12 +620,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 **Taxation**
 
 ### 76 Taxation of Fund and Guardians
-(1) The Fund is subject to income tax on any income derived from the Fund’s investments, and that income is to be treated as income of the Fund under the Income Tax Act 2007.
-(2) The Fund may claim deductions under section BD 2 of the Income Tax Act 2007.
-(3) The Fund is treated as if it were a body corporate for tax purposes.
-(4) The Fund is not required to establish and maintain an imputation credit account under section OB 1 of the Income Tax Act 2007.
-(5)
-(6)
+[Repealed]
 
 **Consequential amendments and revocation**
 
