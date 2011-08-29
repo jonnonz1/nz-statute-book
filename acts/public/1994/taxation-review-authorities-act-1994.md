@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2011-08-29_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -77,22 +77,17 @@ Every Authority established under section 5 has a general jurisdiction—
   (a) to hear and determine objections that this Act and the Taxation Administration Act 1994 authorise the Authority to hear and determine; and
   (b) to hear and determine challenges—
     (i) that this Act and the Taxation Administration Act 1994 authorise the Authority to hear and determine; and
-    (ii) that are not heard in the small claims jurisdiction of an Authority established under section 13B.
+    (ii)
 
 ### 13B Small claims jurisdiction of Authorities
-(1) Every Authority established under section 5 has a small claims jurisdiction to determine challenges in respect of which the facts are clear and not in dispute—
-  (a) that may involve tax to pay or have a tax effect of up to $30,000; and
-  (b) that do not involve significant legal issues, the decision of which affects or may affect the outcome of a separate and unrelated dispute between the Commissioner and a taxpayer other than the disputant.
-(2) For the purposes of subsection (1), tax effect means the value of an adjustment or amendment to an assessment, determined by applying—
-  (a) the marginal rate or rates of tax applicable to the disputant during the return period for which the adjustment or amendment is made; and
-  (b) where the disputant has no tax to pay in the return period, the rate of tax or lowest marginal rate of tax that would apply to a disputant of that type during the return period.
+[Repealed]
 
 ### 14 Seal
 Every Authority shall have a seal which shall be judicially noticed in all courts.
 
 ### 15 An Authority to be a commission of inquiry
 (1) Every Authority shall, within the scope of the Authority’s jurisdiction, be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908, and, subject to this Act and any regulations made under this Act, all the provisions of that Act, except sections 11 and 12 (which relate to costs), shall apply accordingly.
-(2) An Authority, or the Registrar or Deputy Registrar purporting to act by direction or with the authority of an Authority, may issue summonses requiring the attendance of witnesses before the Authority or the production of any book or document, or may do any other act preliminary or incidental to the hearing of any matter by the Authority.
+(2) An Authority, or the Registrar or Deputy Registrar purporting to act by direction or with the authority of an Authority, may issue summonses requiring the attendance of witnesses before the Authority or the production of any document, or may do any other act preliminary or incidental to the hearing of any matter by the Authority.
 
 ## Part 3 — Proceedings before Authorities
 
@@ -109,12 +104,10 @@ Every Authority shall have a seal which shall be judicially noticed in all court
 (2) Without limiting the generality of subsection (1), an Authority may receive, without formal proof—
   (a) a copy, duly certified as correct by any responsible officer of a bank or of a widely-held company or co-operative company, of any person’s account with that bank or company, and may take into consideration any entry or particular contained in that account:
   (b) a copy, duly certified as correct by any responsible officer of a local authority or public authority, of any document in the possession of that authority, and may take into consideration any statement or particular contained in that document.
-(2A) Unless subsection (2B) applies, if the Commissioner issues a disclosure notice to a disputant, and the disputant challenges the disputable decision, the Commissioner and the disputant may raise in the challenge only—that are disclosed in the Commissioner’s statement of position and in the disputant’s statement of position.
-  (a) the facts and evidence, and the issues arising from them; and
-  (b) the propositions of law—
-(2B) An Authority may, on application by a party to a challenge to a disputable decision, allow the applicant to raise in the challenge new facts and evidence, and new propositions of law, and new issues, if satisfied that—
-  (a) the applicant could not at the time of delivery of the applicant’s statement of position, with due diligence, discover those facts or evidence; or discern those propositions of law or issues; and
-  (b) having regard to the provisions of section 89A of the Tax Administration Act 1994 and the conduct of the parties, the Authority considers admission of those facts or evidence or propositions of law, or issues is necessary to avoid manifest injustice to the Commissioner or the disputant.
+(2A) Unless subsection (2B) applies, if the Commissioner issues a disclosure notice to a disputant, and the disputant challenges the disputable decision, the Commissioner and the disputant may raise in the challenge only the issues and the propositions of law that are disclosed in the Commissioner's and disputant's statements of position.
+(2B) An Authority may, on application by a party to a challenge to a disputable decision, allow the applicant to raise in the challenge new propositions of law, and new issues, if satisfied that—
+  (a) the applicant could not at the time of delivery of the applicant’s statement of position, with due diligence, discern those propositions of law or issues; and
+  (b) having regard to the provisions of section 89A of the Tax Administration Act 1994 and the conduct of the parties, the Authority considers admission of those propositions of law, or issues is necessary to avoid manifest injustice to the Commissioner or the disputant.
 (2C) For the purposes of subsection (2A), a statement of position includes additional information which the Commissioner and the disputant agree (under section 89M(13) of the Tax Administration Act 1994) to add to the statement of position.
 (3) Subject to the preceding provisions of this section, the Evidence Act 2006 shall apply to an Authority and to all proceedings before an Authority, as if an Authority were a court within the meaning of that Act.
 (4) In this section—
@@ -188,9 +181,7 @@ Proceedings before an Authority shall not abate by reason of the death of the ob
 (1) Unless subsection (2) applies, the determination by an Authority of a challenge may be appealed to the High Court if—
   (a) the amount of tax involved in the appeal is $2,000 or more; or
   (b) the amount of net loss involved in the appeal is $4,000 or more.
-(2) The determination by an Authority of a challenge may not be appealed to the High Court if the determination was made by the Authority—
-  (a) acting in its small claims jurisdiction; or
-  (b) under a tax law that provides for the Authority’s determination to be final.
+(2) The determination by an Authority of a challenge may not be appealed to the High Court if the determination was made by the Authority under a tax law that provides for the Authority's determination to be final.
 (3) This section applies only to challenges commenced under Part 8A of the Tax Administration Act 1994.
 
 ### 27 Removal of appeal to Court of Appeal
