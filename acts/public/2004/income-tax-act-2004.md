@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2011-08-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -2975,6 +2975,18 @@ Exempt income
 Relationship with section DP 8
 (4) Section DP 8 (Cost of acquiring timber: forestry business on land bought from Crown, Maori owners, or holding company) deals with the cost to the forestry company of acquiring the timber.
 
+### CW 1B Treaty of Waitangi claim settlements: rights to take timber
+When this section applies
+(1) This section applies when a person's right to take timber (the old right) is extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if––
+  (a) the sole reason for the new rights replacing the old right is to facilitate a Treaty of Waitangi claim settlement process; and
+  (b) the rights and obligations of the new rights are equivalent to the old right, ignoring differences that are solely for the reason in paragraph (a).
+Exempt income
+(2) An amount under section CB 22(1)(b) (Disposal of timber or right to take timber) for the extinguishing of the old right, or for the granting of the new rights, is exempt income of the relevant person. The amount is not income under that section.
+Exception
+(3) Subsection (2) does not apply to an amount to the extent it is compensation paid, for the new rights replacing the old right, to the person who is granted the new rights.
+Relationship with section DP 8B
+(4) Section DP 8B (Treaty of Waitangi claim settlements: rights to take timber) deals with the cost of the new rights for the person who is granted them.
+
 ### CW 2 Forestry encouragement agreements
 When this section applies
 (1) This section applies when a person makes a forestry encouragement agreement under the Forestry Encouragement Act 1962.
@@ -4739,6 +4751,14 @@ Some definitions
   - **taxable period** is defined in section 2 of the Goods and Services Tax Act 1985
 Link with subpart DA
 (4) This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
+
+### DB 3B Use of money interest
+Deduction
+(1) A person is allowed a deduction for an amount of interest they are liable to pay under Part 7 of the Tax Administration Act 1994.
+Timing of deduction
+(2) The deduction is allocated under section EF 5 (Use of money interest payable by person).
+Link with subpart DA
+(3) This section supplements the general permission and overrides the capital limitation, the private limitation, and the employment limitation. The other general limitations still apply.
 
 ### DB 4 Chatham Islands dues
 Deduction
@@ -6515,6 +6535,12 @@ Cost of acquiring timber
   (a) the cost of the timber to the seller at the date of the sale; and
   (b) the amount described in section CB 23(3) (Disposal of land with standing timber).
 
+### DP 8B Treaty of Waitangi claim settlements: rights to take timber
+When this section applies
+(1) This section applies when a person's right to take timber (the old right) has been extinguished, and new rights (the new rights) to take timber are granted to the person in place of the old right, if section CW 1B (Treaty of Waitangi claim settlements: rights to take timber) applied to exempt income for the extinguishing of the old right.
+Cost of acquiring new rights
+(2) The person who is granted the new rights is treated, for each new right, as having acquired the new right for a cost equal to the expenditure they incurred in relation to the old right, but only to the extent that the expenditure relates to the land covered by the new right and has not been deducted previously.
+
 ### DP 9 Cost of acquiring timber or right to take timber: other cases
 Acquiring land with standing timber
 (1) For a person acquiring land with standing timber on it in a disposal to which section CB 23 (Disposal of land with standing timber) applies, the cost of acquiring the timber is the amount that is, under section CB 23, income of the person disposing of the land.
@@ -6541,6 +6567,7 @@ Meaning of timber
   (a) the creation or grant of a right to take timber:
   (b) the grant of a licence or an easement in relation to timber:
   (c) the creation of a forestry right as defined in section 2 of the Forestry Rights Registration Act 1983, other than a right in favour of the proprietor in relation to establishing, maintaining, and harvesting timber.
+(4B) Subsection (2) does not apply if the amount of income of the person under section CB 22 would be exempt income under section CW 1B (Treaty of Waitangi claim settlements: rights to take timber) but for section CW 1B(3).
 Link with subpart DA
 (5) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
@@ -6831,9 +6858,7 @@ When this section applies
     (iii) a person who holds the asset for a person associated with the miner; and
   (b) section EJ 14(2) (Disposal of petroleum mining asset to associate) prevents the miner from taking the full amount of a deduction allocated under section EJ 11 or EJ 11B (which relate to petroleum development expenditure) to the income year in which the miner disposes of the asset.
 No deduction
-(2) The miner is denied a deduction for—
-  (a) the amount that section EJ 14(2) (Disposal of petroleum mining asset to associate) prevents the miner from taking; and
-  (b) the amount of the deduction allocated under section EJ 11 or EJ 11B to the income years after the income year in which the miner disposes of the asset.
+(2) The miner is denied a deduction for the amount that section EJ 15(2) (Partnership interests and disposal of part of asset) prevents from being allocated to the income year in which the miner disposes of the asset.
 Link with subpart DA
 (3) This section overrides the general permission.
 
@@ -8324,7 +8349,7 @@ Opening value of herd livestock
   (b) has the livestock on hand at the start of the income year; and
   (c) has not chosen to value the livestock by a different method for the income year.
 Determining opening value
-(3) The opening value of herd livestock in an income year is either its herd value for the income year or, if the person has adopted a herd value ratio, its herd value for the income year multiplied by its herd value ratio for the previous income year. This subsection overrides section DB 40(5) (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
+(3) The opening value of herd livestock in an income year is either its herd value for the income year or, if the person has adopted a herd value ratio, its herd value for the income year multiplied by its herd value ratio for the previous income year. This subsection overrides section DB 40(3) (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements).
 
 ### EC 17 Herd value ratio
 Adoption of herd value ratio
@@ -11816,10 +11841,10 @@ Consideration and amounts
 (1) A person using a spreading method must include, for the purpose of calculating and allocating income and expenditure under the financial arrangement,—
   (a) all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring—
     (i) non-contingent fees, if the relevant method is not the IFRS method described in section EW 15C:
-    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C; and
+    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C or the equity-free fair value method in section EW 15E; and
   (b) all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring—
     (i) non-contingent fees, if the relevant method is not the IFRS method described in section EW 15C:
-    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C; and
+    (ii) non-integral fees, if the relevant method is the IFRS method described in section EW 15C or the equity-free fair value method in section EW 15E; and
   (c) all amounts that have been remitted, and all amounts that are to be remitted, by the person under the financial arrangement; and
   (d) all amounts that would have been payable to the person under the financial arrangement if the amounts had not been remitted by law.
 Consideration in particular cases
@@ -11881,7 +11906,9 @@ IFRS method
 Fair value method not used for certain financial arrangements
 (2B) A person must not use the fair value method for a financial arrangement if—
   (a) the financial arrangement is treated under IFRSs by the person as a hedge of another financial arrangement; and
-  (b) the person uses a method other than the IFRS method for the other financial arrangement.
+  (b) the person uses for the other financial arrangement a method that is neither of the following:
+    (i) the IFRS method:
+    (ii) the method required under Determination G29: Agreements for sale and purchase of property denominated in foreign currency: exchange rate to determine the acquisition price and method for spreading income and expenditure.
 Modification of IFRS method
 (3) When a person applies the IFRS method, the following modifications are made to the method, if relevant:
   (a) if the financial arrangement is a financial asset, an amount arising from an impaired credit adjustment under IFRSs is not allocated to an income year. However, when the fair value method is used, adjustments for financial arrangements held by the person are excluded from this paragraph, if the financial arrangements are not derivative instruments and the person's business includes dealing in those financial arrangements:
@@ -12187,7 +12214,7 @@ When formula applies
 Positive base price adjustment
 (3) A base price adjustment, if positive, is income, under section CC 3 (Financial arrangements), derived by the person in the income year for which the calculation is made. However, it is not income to the extent to which it arises from expenditure incurred by the person under the financial arrangement in previous income years and for which a deduction was denied in those income years.
 Negative base price adjustment
-(4) A base price adjustment, if negative, is expenditure incurred by the person in the income year for which the calculation is made. The person is allowed a deduction for the expenditure under section DB 9 (Negative base price adjustment).
+(4) A base price adjustment, if negative, is expenditure incurred by the person in the income year for which the calculation is made. The person is allowed a deduction for the expenditure under sections DB 6 to DB 8 (which relate to deductions for interest) or, if none of those sections applies, under section DB 9 (Negative base price adjustment).
 Formula
 (5) The formula is—consideration – income + expenditure + amount remitted.
 Definition of items in formula
@@ -12467,8 +12494,8 @@ Consideration
 Who this section applies to
 (1) This section applies to a party to a financial arrangement who, for the financial arrangement,—
   (a) changes from the fair value method under the IFRS method described in section EW 15C to any other method; and
-  (b) must calculate a base price adjustment as at the date of the change, as provided by section EW 29(13).
-(2) A person is treated as having been paid, on the date of the change, an amount of consideration equal to the financial arrangement's market value on that date.
+  (b) must calculate a base price adjustment as at the end of the first income year for which the replacement method is used for the financial arrangement, as provided by section EW 29(13).
+(2) A person is treated as having been paid, at the end of the first income year for which the replacement method is used for the financial arrangement, an amount of consideration equal to the financial arrangement's market value on that date.
 
 ### EW 49 Anti-avoidance provisions
 When this section applies
@@ -19571,7 +19598,8 @@ Income type requirement
     (iv) proceeds from the disposal of property referred to in subsection (1)(a) to (d):
     (v) FIF income:
     (vi) portfolio investor allocated income:
-    (vii) distributions from superannuation funds.
+    (vii) distributions from superannuation funds:
+    (viii) an amount of income under section CW 4 (Annuities under life insurance policies) or CX 34 (Superannuation fund deriving amount from life insurance policy).
 Entity shareholding investment requirement
 (3) The entity shareholding investment requirement is that, for an investment of the entity consisting of shares in a company that is not listed in subsection (4),—
   (a) the investment must—
@@ -19830,6 +19858,10 @@ Expenses
   (b) expenditure of the investor transferred under subpart DV to the entity.
 Rebates
 (12) Rebates is the amount of rebates of fees paid or credited by the entity to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
+Determining investors' prescribed investor rate
+(13) For the purposes of determining the item rate in subsection (9), the taxable income of the investor does not include an amount that—
+  (a) arises because their portfolio investor rate is lower than their prescribed investor rate; and
+  (b) is treated as taxable income because section CX 44D (Portfolio investor allocated income and distributions of income by portfolio investment entities) does not apply.
 
 ### HL 21 Payments of tax by portfolio tax rate entity making no election
 When this section applies
@@ -25132,6 +25164,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
   (c) the amount of further income tax paid by the Maori authority during the imputation year under section MK 8:
   (d) the amount of a Maori authority credit attached to a distribution that is made to the Maori authority during the imputation year:
   (e) the amount of an imputation credit attached to a dividend that is paid to the Maori authority during the imputation year:
+  (eb) the amount of an imputation credit attributed to it during the imputation year under section HL 27(7)(b):
   (f) the amount of any dividend withholding payment credit attached to a dividend paid to the Maori authority during the imputation year at a time when the Maori authority is not a dividend withholding payment account company:
   (g) an amount equal to any amount of a debit arising to the Maori authority credit account under section MK 5(1)(h) (which relates to debits arising in respect of Maori authority credits determined to have been the subject of an arrangement to obtain a tax advantage), to the extent that it is subsequently established that the relevant Maori authority credit should not have been determined to be the subject of such an arrangement:
   (h) the amount of a resident withholding tax deduction deemed, under section NF 12(b), to have been derived by the Maori authority during the imputation year.
@@ -25139,6 +25172,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
   (a) in the case of the credits referred to in subsection (1)(a), (b), and (c), on the date the relevant tax is paid:
   (b) in the case of a credit referred to in subsection (1)(d), on the date the relevant distribution is made:
   (c) in the case of a credit referred to in subsection (1)(e) and (f), on the date the relevant dividend is paid:
+  (cb) in the case of a credit referred to in subsection (1)(eb), on the day the amount is attributed:
   (d) in the case of a credit referred to in subsection (1)(g), on the date that the relevant debit arose under section MK 5(2)(h):
   (e) in the case of a credit referred to in subsection (1)(h), on the date that the resident withholding tax is deducted from the resident withholding income.
 
@@ -30793,10 +30827,12 @@ Except where otherwise expressly provided, sections OD 3 to OD 6 are intended to
     (ii) those requirements would have been satisfied but for the application, to any particular extent, of any 1 of those subsections,—
 (8) For the purposes of this Act, where, and to the extent to which, in respect of any company and any of the continuity provisions at any time,—whose direct voting interests or direct market value interests in the company or unit trust were at all relevant times interests to which subsection (5) applied; andthe requirements of that continuity provision are deemed not to have been satisfied at that time.
   (a) the requirements of that continuity provision would not have been satisfied but for the application, in the case of any 1 or more voting or market value interests in the company and any period or periods of time, of either or both of subsections (5) and (6); and
-  (b) the failure, but for that application, to meet those requirements was not by reason only of—
-    (i) the sale of shares in a company in the ordinary course of trading on a recognised exchange between persons; or
-    (ii) the redemption or other cancellation of shares in a company which is a unit trust that falls within any of paragraphs (a), (b), and (c) of the definition of the term widely-held trust in section OB 1, held by persons; or
-    (iii) the redemption or other cancellation of shares in a company which is a unit trust that falls within any of paragraphs (a), (b), and (c) of the definition of the term widely-held trust in section OB 1, which were acquired by the manager or trustee of the unit trust in the ordinary course of the manager's or trustee's activities in respect of the unit trust from persons—
+  (b) the failure, but for that concessionary application, to meet the requirements would have occurred in the absence of transactions of the following types:
+    (i) the sale of shares in a company in the ordinary course of trading on a recognised exchange between persons, each of which is not a company associated with the company and has a direct voting interest or direct market value interest of less than 10%, calculated before the application of sections OD 3(3)(d) and OD 4(3)(d):
+    (ii) the redemption or other cancellation of shares in a company which is a unit trust that falls within any of paragraphs (a), (b), and (c) of the definition of the term widely-held trust in section OB 1, held by persons, each of which is not a company associated with the company and has a direct voting interest or direct market value interest of less than 10% calculated before the application of sections OD 3(3)(d) and OD 4(3)(d):
+    (iii) the redemption or other cancellation of shares in a company which is a unit trust that falls within any of paragraphs (a), (b), and (c) of the definition of the term widely-held trust in section OB 1, which were acquired by the manager or trustee of the unit trust in the ordinary course of the manager's or trustee's activities in respect of the unit trust from persons, each of which is not a company associated with the company and has a direct voting interest or direct market value interest of less than 10% calculated before the application of sections OD 3(3)(d) and OD 4(3)(d):
+    (iv) the transfer of shares in a company other than in the ordinary course of trading on a recognised exchange between persons, each of which is not a company associated with the company and has a direct voting interest or direct market value interest of less than 5%, calculated before the application of sections OD 3(3)(d) and OD 4(3)(d):
+    (v) the issue, redemption, or cancellation by a company, or the transfer to or from the company, or the transfer to an employee of the company from a trustee of a trust with no beneficiary other than the company and the company's employees, of shares in the company, or options over shares in the company, that in total for the company's income year would be a direct voting interest or direct market value interest of less than 5% if held by a single person; and
   (c) the directors of the company know or could reasonably be expected to know (without making enquiries specifically for the purposes of the application of the continuity provisions) at that time that the requirements of that continuity provision would not have been satisfied at that time but for that application,—
 (9) For the purposes of this Act, where and to the extent to which at any time, in respect of any company and any of the continuity provisions, the requirements of that continuity provision are not satisfied and would have been satisfied but for a change in the market value interest of any 1 or more persons which is solely attributable to—the requirements of that continuity provision in respect of that company are deemed to have been satisfied at that time.
   (a) any change in the market value of the tangible and intangible assets of the company; or
@@ -31148,6 +31184,15 @@ No confirmation determinations
 
 ### YA 5B Saving of effect of section 394L(4A) of Income Tax Act 1976
 Section 394L(4A) of the Income Tax Act 1976 (Further tax payable where end of year debit balance, or when company ceases to be an imputation credit account company) continues to apply in the same manner as it applied immediately before the repeal of that Act by the Income Tax Act 1994.
+
+### YA 5C Saving effect of section DF 5 of Income Tax Act 1994
+When this section applies
+(1) This section applies when a person—
+  (a) has made a payment to which section DC 1 (Lump sum payments on retirement) would otherwise apply in the absence of this section; and
+  (b) has allocated the deduction for the payment to an income year relying on the wording used in section DF 5 (Retiring allowances payable to employees) of the Income Tax Act 1994; and
+  (c) has taken the tax position for the allocation before 22 February 2011.
+Savings provision
+(2) Despite the express wording used in section DC 1, section DF 5 continues to apply for the person in relation to the tax position in the same manner as it applied immediately before the repeal of the Income Tax Act 1994 by the Income Tax Act 2004.
 
 ### YA 6 Comparative tables of old and new provisions
 Schedule 23
@@ -32600,6 +32645,7 @@ Within 30 days of issuing a determination under section 91AAF, the Commissioner 
 | CW 32(3) | The amounts excepted from the exemption are amounts that a local authority receives as a trustee |
 | CX 34(1) | The exclusion applies to life insurance policies offered or entered into in New Zealand |
 | DB 7(6) | A non-resident company that has a fixed establishment in New Zealand has a deduction for interest incurred on money borrowed to acquire shares in a group company |
+| DC 1 | A deduction related to lump sum payments on retirement is allocated to the income year in which payment is made. |
 | DD 2(6) | The limit on the deduction for entertainment expenditure applies to an area reserved for senior staff, rather than an area reserved for senior staff and their guests |
 | DE 12 | Inland Revenue mileage rates may be used to measure business use of a motor vehicle |
 | DO 4(2)(c) and (3)(c) | Expenditure on an asset deducted in the year of incurrence cannot also be deducted over the life of the asset |
@@ -38681,3 +38727,54 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
   (b) does not apply for a person in relation to a tax position taken by the person—
     (i) before 19 November 2009; and
     (ii) relying on the provision amended by this section as it was immediately before the amendment made by this section.
+
+### 1 Title
+This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 219 and 222 are treated as coming into force on 1 April 1995.
+(3) Sections 220 and 221 are treated as coming into force on 1 April 1997.
+(4) Sections 192, 193, 194, 195, 196, 197, 198, 201, 206, 207, and 208 are treated as coming into force on 1 April 2005.
+(5) Sections 199, 200, and 202 are treated as coming into force on 1 April 2007.
+(6) Sections 203, 204, and 205 are treated as coming into force on 1 October 2007.
+(7) Sections 4, 7, 12, 13, 17, 18, 19, 20, 22, 31, 32, 33, 34, 35, 40, 41, 45(1), (3), (4), and (6), 46, 48, 49, 50, 91, 92(1) and (3), 93, 94(1), (3), (7), (8), and (10), 96(1), (3), (4), and (5), 97(1), (2), (3), (6), and (8), 98, 99, 100, 101, 102, 103, 104, 108, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 124, 130(3), (5), (10), (15), (16), and (19), 131, 133, 135, 140, 161, and 210 are treated as coming into force on 1 April 2008.
+(8) Section 130(14) is treated as coming into force on 1 January 2009.
+(9) Sections 21(1) and (3), 37(1), (3), and (5), 39, 42, 44(1) and (3), 94(4), (5), (6), (9), and (11), 95, 96(2) and (6), 97(5), (7), and (9), and 130(6), (8), and (17) come into force on 30 June 2009.
+(10) Sections 109 and 110 come into force on 5 January 2010.
+(11) Sections 53, 54(1) and (5), 59(1) and (2), 65, 80(1), (3), (4), and (5), 106(1) and (3), and 130(9) and (18) are treated as coming into force on 1 April 2010.
+(12) Section 237 comes into force on 1 July 2010.
+(13) Sections 5, 11, 23, 24, 25, 26, 27, 43, and 188 are treated as coming into force on 4 September 2010.
+(14) Sections 47, 130(2), and 160 are treated as coming into force on 30 September 2010.
+(15) Section 136(8) is treated as coming into force on 1 October 2010.
+(16) Section 45(2) and (5) are treated as coming into force on the day of introduction for the Taxation (Tax Administration and Remedial Matters) Bill.
+(17) Sections 28, 29, 30, 88, 89, 107, 134, 136(1), (2), (3), (6), (7), and (9), 139, 209, 235(1)(b) and (c), (2), and (3), 236, 238, 239, 240, 241, 243, 244(2) and (3) are treated as coming into force on 1 April 2011.
+(18) Section 132 is treated as coming into force on 1 May 2011.
+(19) Sections 92(2), 94(2) and (12), and 97(4) and (10) come into force on 1 July 2011.
+(20) Section 245 comes into force on 1 October 2011.
+(21) Sections 9(3) and (5), 71, 81, 106(2) and (4), 123, 130(13) and (20), 136(4) and (5), and 138 come into force on 1 April 2012.
+(22) Sections 21(2) and (4), 37(2), (4), and (6), and 44(2) and (4) come into force on 30 June 2013.
+
+## Part 3 — Remedial matters and abolition of gift duty
+
+**Amendments to Income Tax Act 2004**
+
+### 194 New section DB 3B
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2005–06 and later income years but only in relation to an amount of interest imposed under Part 7 of the Tax Administration Act 1994 that the person has treated as a deduction—
+  (a) in a return of income that they have furnished on or before 24 November 2010:
+  (b) in a notice of proposed adjustment that is issued on or before 24 November 2010.
+
+### 199 What is included when spreading methods used
+((1)–(2)) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for—
+  (a) the 2007–08 and later income years, if paragraphs (b) and (c) do not apply; or
+  (b) the first income year for which a person adopts IFRSs for the purposes of financial reporting and later income years, if that first income year is before the 2007–08 income year and the person chooses to apply the IFRS taxpayer method in a return of income for that first year; or
+  (c) the 2008–09 and later income years, if a person's 2008–09 income starts before 1 January 2008 and the person has not adopted IFRSs for the purposes of financial reporting before 1 January 2007.
+
+### 200 IFRS method
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1)—
+  (a) applies for the 2007–08 and later income years, unless paragraph (b) or (c) applies; or
+  (b) applies for the first income year for which a person adopts IFRSs for the purposes of financial reporting and later income years, if that first income year is before the 2007–08 income year and the person chooses to apply the IFRS taxpayer method in a return of income for that first year; or
+  (c) does not apply if a person's 2008–09 income year starts before 1 January 2008 and the person has not adopted IFRSs for the purposes of financial reporting before 1 January 2007.
