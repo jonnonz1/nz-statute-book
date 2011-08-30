@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-08-30_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -306,15 +306,23 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   (a) commits an offence; and
   (b) is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
 
-### 34 Storage, etc, of identifying particulars on Police information recording system
-The identifying particulars of a person that are obtained under section 32 or 33—
-  (a) may be entered, recorded, and stored on a Police information recording system; but
-  (b) any photographs or visual images of a person and any impressions of a person's fingerprints, palm-prints, or footprints that are obtained under section 32 or 33 must, as soon as practicable, be destroyed—
-    (i) after a decision is made not to bring proceedings against the person in respect of the offence for which the particulars were taken:
-    (ii) after the completion of proceedings against the person in respect of the offence for which the particulars were taken, unless—
-      (A) the person is convicted; or
-      (B) the person is discharged under section 106 of the Sentencing Act 2002; or
-      (C) an alternative resolution is imposed where the person admits to an offence (for example, diversion).
+### 34 Storage, etc, on Police information recording system of identifying particulars
+(1) The identifying particulars of a person that are obtained under section 32 or 33 may be entered, recorded, and stored on a Police information recording system.
+(2) But photographs or visual images of a person, and impressions of a person's fingerprints, palm-prints, or footprints, that are obtained under section 32 or 33 must be destroyed as soon as practicable after—
+  (a) a decision is made not to commence criminal prosecution proceedings against the person in respect of the offence for which the particulars were taken; or
+  (b) criminal prosecution proceedings that are commenced against the person in respect of the offence for which the particulars were taken are completed with an outcome (for example, an acquittal) that is not an outcome (specified in section 34A) that authorises continued storage.
+(3) In this section and section 34A,—
+  - **criminal prosecution proceedings** against a person in respect of the offence for which particulars were taken, means proceedings—
+    (a) commenced against the person in respect of that offence or offences including that offence under the Crimes Act 1961, or under the Summary Proceedings Act 1957 (alone or, if the person is a child or a young person as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
+    (b) some or all of which (for example, any committal process proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
+  - **the offence for which the particulars were taken** includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
+
+### 34A Outcomes authorising continued storage of certain particulars
+The outcomes mentioned in section 34(2)(b) are as follows:
+  (a) the person admits to, and completes a programme of diversion (being a programme conducted by the Police) for, the offence for which the particulars were taken:
+  (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of a District Court or the High Court entering a conviction, or a Youth Court entering a conviction and making an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989):
+  (c) the Youth Court makes an order under any of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
+  (d) the person is discharged under section 106 of the Sentencing Act 2002 in respect of the offence for which the particulars were taken.
 
 **Other Police powers**
 
