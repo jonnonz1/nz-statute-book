@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2011-08-30_
 
 > An Act to reform the administration of education
 
@@ -11,7 +11,6 @@ _Consolidation as at 2011-06-20_
 
 ### 2 Interpretation
 (1) In this Part, and Parts 2, 3, and 11, unless the context otherwise requires,—
-  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
   - **board** means a board of trustees constituted under Part 9; and,—
     (a) in relation to a school, means the school's board; and
     (b) in relation to a principal, means the board of the principal's school
@@ -24,17 +23,14 @@ _Consolidation as at 2011-06-20_
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
-    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students
   - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H; and includes any amendments to the scheme that have been adopted under section 11M
-  - **exempt student** means a foreign student who—
-    (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
-    (b) is for the time being exempted under section 4C
-  - **foreign student** , at any time, means a person who is not then a domestic student
   - **government training establishment** has the same meaning as it has in section 159
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
   - **industry training organisation** has the same meaning as in section 2 of the Industry Training Act 1992
   - **institution** has the same meaning as it has in section 159
   - **intermediate school** has the same meaning as in section 145(1)
+  - **international student** , at any time, means a person who is not then a domestic student
   - **lead provider** means a provider of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31F as a lead provider
   - **managers of a private school** means all the people who control and manage the school, whether or not they have a proprietary interest in it
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part, and Parts 2, 3, and 11
@@ -75,9 +71,7 @@ _Consolidation as at 2011-06-20_
       (ii) the distance between the school and the place where public transport must finally be left (or, as the case may be, first be taken); and
       (iii) every intermediate distance between one element of public transport and another
 (2) In this Part, and Parts 2 and 3, unless the context otherwise requires, a special school, special class, special clinic, or special service means a school, class, clinic, or service established under section 98(1) of the Education Act 1964 as a special school, special class, special clinic, or special service respectively.
-(3) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
-  (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
-  (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
+(3)
 (4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
 (5) Regulations made under subsection (4),—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
@@ -85,77 +79,77 @@ _Consolidation as at 2011-06-20_
 (6) The expiry of regulations made under subsection (4) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
 
 ### 3 Right to free primary and secondary education
-Except as provided in this Act or the Private Schools Conditional Integration Act 1975, every person who is not a foreign student is entitled to free enrolment and free education at any State school during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
+Except as provided in this Act or the Private Schools Conditional Integration Act 1975, every person who is not an international student is entitled to free enrolment and free education at any State school during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
 
 ### 3A Restriction on attendance at certain schools
 [Repealed]
 
-### 4 Enrolment of foreign students
-(1) Subject to section 4A(3), a foreign student—
+### 4 Enrolment of international students
+(1) Subject to section 4A(3), an international student—
   (a) shall not be enrolled at a State school without the board's consent; and
   (b) shall not be enrolled in special education without the consent of the person or body administering the institution or service concerned.
-(2) Subject to section 4B and to subsections (3) and (4) of this section, once enrolled at a State school or in special education a foreign student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
-(3) Except as provided in subsection (5) or subsection (6), no foreign student who is not an exempt student shall be enrolled at a State school if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
-(4) Except as provided in subsection (5) or subsection (6), no foreign student who is not an exempt student shall be enrolled in any subject, course, or programme at a State school if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol in the subject or course and has applied for enrolment in it is not able to be enrolled in it.
-(5) Any assisted student may be enrolled at a State school, or in a subject, course, or programme at a State school, by agreement between the board and the chief executive of the Ministry of Foreign Affairs and Trade.
-(6) Notwithstanding that domestic and exempt students may not be able to be enrolled, a foreign student who is not an exempt student may be enrolled at a State school, or in any subject, course, or programme at a State school, if the enrolment is in a vacant place—
-  (a) that the board established for foreign students; and
-  (b) whose continued availability is dependent on the fees payable by foreign students enrolled in it.
-(7) As soon as is practicable after a foreign student is enrolled at a State school, the principal shall give the Secretary written notice of—
+(2) Subject to section 4B and to subsections (3) and (4) of this section, once enrolled at a State school or in special education an international student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
+(3) Except as provided in subsection (5), no international student may be enrolled at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
+(4) Except as provided in subsection (5), no international student may be enrolled in any subject, course, or programme at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol in the subject, course, or programme and has applied for enrolment in it is not able to be enrolled in it.
+(5) Although domestic students may not be able to be enrolled, an international student may be enrolled at a State school, or in any subject, course, or programme at a State school, if the enrolment is in a vacant place—
+  (a) that the board established for international students; and
+  (b) the continued availability of which is dependent on the fees payable by international students enrolled in it.
+(6)
+(7) As soon as is practicable after an international student is enrolled at a State school, the principal shall give the Secretary written notice of—
   (a) the student's name, age, and nationality; and
   (b) the day on which the student began (or will begin) to receive tuition at the school.
-(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, a foreign student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—but in that case the student shall not be counted for the purpose of calculating or ascertaining the schools entitlement to teachers or funding.
+(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, an international student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—but in that case the student shall not be counted for the purpose of calculating or ascertaining the schools entitlement to teachers or funding.
   (a) without the consent of the board; and
   (b) without paying the amount required by section 4B;—
 
-### 4A Certain foreign students may enrol at State schools as of right
-(1) The Minister may from time to time, by notice in the Gazette, declare foreign students of a specified kind or description to be entitled to enrol at State schools.
+### 4A Certain international students may enrol at State schools as of right
+(1) The Minister may from time to time, by notice in the Gazette, declare international students of a specified kind or description to be entitled to enrol at State schools.
 (2) A notice may be unconditional, or subject to conditions specified in it.
-(3) Subject to—a foreign student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student.
+(3) Subject to—an international student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student.
   (a) the conditions (if any) specified in the notice; and
   (b) section 4B,—
 
-### 4B Fees for foreign students
-(1) Subject to section 4(8), no foreign student shall receive tuition in any subject, course, or programme at a State school unless there has been paid to the board an amount fixed by the board that is not less than the sum of the following amounts:
+### 4B Fees for international students
+(1) Subject to section 4(8), no international student shall receive tuition in any subject, course, or programme at a State school unless there has been paid to the board an amount fixed by the board that is not less than the sum of the following amounts:
   (a) the board's best estimate of the cost to the board (including the appropriate proportion of the board's administrative and other general costs) of providing tuition in the subject, course, or programme for 1 student:
   (b) an amount that is in the board's opinion an appropriate reflection of the use made by 1 student receiving tuition in the subject, course, or programme of the board's capital facilities:
   (c) the amount (if any) prescribed under section 4D for a student receiving tuition at a State school in the subject, course, or programme:
   (d) all other fees (if any) prescribed by the board.
-(2) Nothing in subsection (1) prevents a board's accepting by instalments any amount required by that subsection to be paid; but subject to section 4(8), no foreign student shall at any time continue to receive tuition in any subject, course, or programme at a State school unless the sum of the following amounts is less than the sum of the instalments paid up to that time:
+(2) Nothing in subsection (1) prevents a board's accepting by instalments any amount required by that subsection to be paid; but subject to section 4(8), no international student shall at any time continue to receive tuition in any subject, course, or programme at a State school unless the sum of the following amounts is less than the sum of the instalments paid up to that time:
   (a) the board's best estimate of the cost to the board (including the appropriate proportion of the board's administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) of providing tuition in the subject, course, or programme for 1 student up to that time:
   (b) an amount that is in the board's opinion an appropriate reflection of the use made by 1 student receiving tuition in the subject, course, or programme of the board's capital facilities:
   (c) the appropriate proportion of the amount (if any) prescribed under section 4D for a student receiving tuition at a State school in the subject, course, or programme:
   (d) all other fees (if any) prescribed by the board.
-(3) Where a foreign student has after 31 December 1989 received tuition in a subject, course, or programme at a State school without paying the full amount required by subsection (1) in respect of the subject, course, or programme, the board may, in any court of competent jurisdiction, recover the underpayment from the student (or, as the case requires, a parent of the student), as a debt due to the board.
-(4) In any year, the amount of any grant for a board in respect of a school it administers may be reduced from what it would otherwise have been by any amount by which (in the Secretary's opinion), by virtue of the fact that the full amount required by subsection (1) in respect of a subject, course, or programme at the school in which a foreign student was enrolled has not been paid to the board, the student's education has been subsidised by money appropriated by Parliament.
+(3) Where an international student has after 31 December 1989 received tuition in a subject, course, or programme at a State school without paying the full amount required by subsection (1) in respect of the subject, course, or programme, the board may, in any court of competent jurisdiction, recover the underpayment from the student (or, as the case requires, a parent of the student), as a debt due to the board.
+(4) In any year, the amount of any grant for a board in respect of a school it administers may be reduced from what it would otherwise have been by any amount by which (in the Secretary's opinion), by virtue of the fact that the full amount required by subsection (1) in respect of a subject, course, or programme at the school in which an international student was enrolled has not been paid to the board, the student's education has been subsidised by money appropriated by Parliament.
 (5) No grant shall be reduced under subsection (4) unless the Secretary has given the board concerned written notice of the circumstances taken into account when the proposed reduction was decided on.
 (6) Where a board disputes that a grant should be reduced under subsection (4), or disputes the amount by which it should so be reduced, the following provisions shall apply:
   (a) the board may, within 28 days of getting notice from the Secretary under subsection (5), by written notice to the Secretary giving the name and address of a proposed arbitrator, require the dispute to be settled by arbitration:
   (b) if, within 14 days of getting the board's notice, the Secretary has agreed an arbitrator with the board, the agreed arbitrator shall settle the dispute:
   (c) if, within 14 days of getting the board's notice, the Secretary has not agreed an arbitrator with the board, an arbitrator appointed jointly by the Secretary and the arbitrator originally proposed by the board shall settle the dispute:
   (d) the arbitrator's decision is final.
-(7) Where at any time a foreign student withdraws from a subject, course, or programme at a State school, the board may refund to the person who paid (in respect of the student's enrolment in the subject, course, or programme) the amount of the fees referred to in subsection (1) (or the sum of any instalments paid in respect of those fees) any amount it thinks appropriate not exceeding the extent (if any) by which the amount paid exceeds the sum of the following amounts:
+(7) Where at any time an international student withdraws from a subject, course, or programme at a State school, the board may refund to the person who paid (in respect of the student's enrolment in the subject, course, or programme) the amount of the fees referred to in subsection (1) (or the sum of any instalments paid in respect of those fees) any amount it thinks appropriate not exceeding the extent (if any) by which the amount paid exceeds the sum of the following amounts:
   (a) the board's best estimate of the cost to the board (including the appropriate proportion of the board's administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) of providing tuition in the subject, course, or programme for 1 student up to that time:
   (b) an amount that is in the board's opinion an appropriate reflection of the use made by 1 student receiving tuition in the subject, course, or programme of the board's capital facilities:
   (c) the appropriate proportion of the amount (if any) prescribed under section 4D for a student receiving tuition at a State school in the subject, course, or programme:
   (d) all other fees (if any) prescribed by the board.
 
-### 4C Minister may exempt certain foreign students from payment of fees
-The Minister may, by notice in the Gazette, exempt foreign students of a particular kind or description from the payment of all or a specified proportion or amount of the amount required by section 4B to be paid; and that section shall have effect accordingly.
+### 4C Minister may exempt certain international students from payment of fees
+The Minister may, by notice in the Gazette, exempt international students of a particular kind or description from the payment of all or a specified proportion or amount of the amount required by section 4B to be paid; and that section shall have effect accordingly.
 
-### 4D Boards to reimburse the Crown for expenditure in respect of foreign students
-(1) Before 1 July in every year, the Minister shall, by notice in the Gazette, set fees to be paid by boards in respect of foreign students enrolled at State schools in the following year.
+### 4D Boards to reimburse the Crown for expenditure in respect of international students
+(1) Before 1 July in every year, the Minister shall, by notice in the Gazette, set fees to be paid by boards in respect of international students enrolled at State schools in the following year.
 (2) Fees may be set in respect of all or any of the following:
   (a) all State schools, State schools of a specified kind or description, or specified State schools:
-  (b) all foreign students, or foreign students of a specified kind or description:
+  (b) all international students, or international students of a specified kind or description:
   (c) all subjects, courses, and programmes; subjects, courses, and programmes of a specified kind or description; or specified subjects, courses, or programmes.
-(3) Within 28 days of the first day in any year on which a foreign student enrolled at a State school attends the school, the board shall pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
+(3) Within 28 days of the first day in any year on which an international student enrolled at a State school attends the school, the board shall pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
 (3A) The Minister may pay to the proprietors of an integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (3B), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
 (3B) The Minister must, by notice in the Gazette, prescribe a formula for the payment of money under subsection (3A), and may prescribe different formulae to apply to different schools or classes of school.
-(4) If before 1 July in any year the Minister has not set under subsection (1) fees to be paid by boards in respect of foreign students enrolled at State schools in the following year, there shall be deemed to have been set under that subsection the fees set (or deemed to have been set) in the year before.
+(4) If before 1 July in any year the Minister has not set under subsection (1) fees to be paid by boards in respect of international students enrolled at State schools in the following year, there shall be deemed to have been set under that subsection the fees set (or deemed to have been set) in the year before.
 
-### 4E Courses for foreign students
-(1) The board of a State school or the managers of a school registered under section 35A must not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme, intended exclusively or mainly for foreign students, unless the class, course, or programme is for the time being approved by the New Zealand Qualifications Authority.
+### 4E Courses for international students
+(1) The board of a State school or the managers of a school registered under section 35A must not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme, intended exclusively or mainly for international students, unless the class, course, or programme is for the time being approved by the New Zealand Qualifications Authority.
 (2) The New Zealand Qualifications Authority must not approve a class, course, or programme under subsection (1) unless satisfied on reasonable grounds that—
   (a) the school has or will have adequate staff, equipment, and premises to provide it; and
   (b) the standard of instruction provided in it will be no lower than the standard that would be expected in any similar class, course, or programme for domestic students.
@@ -228,7 +222,7 @@ The board of a State school may refuse to allow any person to attend classes at 
 ### 10 Right of reconsideration
 (1) Subject to paragraphs (p) and (q) of subsection (6), any person's parent may, in accordance with this section, require the reconsideration of—
   (a) any direction under subsection (1) of section 9 relating to the person; or
-  (b) if the person is not a foreign student, the Secretary's refusal to come to an agreement under that subsection relating to the person.
+  (b) if the person is not an international student, the Secretary's refusal to come to an agreement under that subsection relating to the person.
 (2) A requirement under subsection (1) shall be made to the Secretary in writing within 1 month of the direction or refusal concerned.
 (3) Subject to subsection (5), where a requirement under subsection (1) is made in respect of a direction given by the Secretary,—
   (a) the direction shall not take effect—
@@ -659,7 +653,7 @@ If a student has been suspended, the student, the student's parents, and their r
 ## Part 3 — Enrolment and attendance of students
 
 ### 20 New Zealand citizens and residents between 6 and 16 to go to school
-(1) Except as provided in this Act, every person who is not a foreign student is required to be enrolled at a registered school at all times during the period beginning on the person's sixth birthday and ending on the person's 16th birthday.
+(1) Except as provided in this Act, every person who is not an international student is required to be enrolled at a registered school at all times during the period beginning on the person's sixth birthday and ending on the person's 16th birthday.
 (2) Before a child's seventh birthday, the child is not required to be enrolled at any school more than 3 kilometres walking distance from the child's residence.
 
 ### 21 Long term exemptions from enrolment
@@ -911,8 +905,8 @@ The provider group or lead provider co-ordinating a participating student's seco
 (1) A participating student may withdraw from his or her secondary-tertiary programme at any time.
 (2) A provider group or lead provider (as the case may be) may withdraw its approval for a student's participation in a secondary-tertiary programme after consulting with the student.
 
-### 31L Foreign students and secondary-tertiary programmes
-A provider group or lead provider must not approve the entry of a foreign student (other than an exempt student) into a secondary-tertiary programme if to do so would result in the provider excluding from entry to the programme any domestic student, or any exempt student, who has applied for entry into the programme and is otherwise eligible to participate in the programme.
+### 31L International students and secondary-tertiary programmes
+A provider group or lead provider must not approve the entry of an international student into a secondary-tertiary programme if to do so would result in the provider excluding from entry to the programme any domestic student who has applied for entry into the programme and is otherwise eligible to participate in the programme.
 
 ### 32 Hearings of proceedings may be private
 If the District Court Judge concerned so orders, proceedings under this Part shall be held with closed doors.
@@ -1256,7 +1250,6 @@ As soon as practicable after the end of each financial year during which a schoo
 
 ### 60 Interpretation
 In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
-  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
   - **board** means a board of trustees constituted under Part 9; and
     (a) in relation to a school, means the school's board; and
     (b) in relation to a principal, means the board of the principal's school
@@ -1264,13 +1257,7 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   - **charter** means a charter of aims, purposes, and objectives that has been approved for a school under this Part; and, in relation to a school, means the school's charter (or, where it has no charter in fact, the charter it is deemed by section 61(12) to have)
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **domestic student** has the same meaning as in section 2(1)
-  - **exempt student** means a foreign student who—
-    (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
-    (b) is for the time being exempted under section 4C
-  - **foreign student** means a person who is not a New Zealand citizen and is—
-    (a) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
-    (b) a person obliged by or under that Act or any other enactment to leave New Zealand immediately by or within a specified time; or
-    (c) treated for the purposes of that Act as being unlawfully in New Zealand
+  - **international student** has the same meaning as in section 2(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **national education guidelines** means all the national education goals, foundation curriculum policy statements, national curriculum statements, national standards, and national administration guidelines, for the time being in force under section 60A
@@ -3719,38 +3706,38 @@ The Minister may at any time appoint a person to—and in that case the Minister
   (d) contributes to the sustainable economic and social development of the nation; and
   (e) strengthens New Zealand's knowledge base and enhances the contribution of New Zealand's research capabilities to national economic development, innovation, international competitiveness, and the attainment of social and environmental goals; and
   (f) provides for a diversity of teaching and research that fosters, throughout the system, the achievement of international standards of learning and, as relevant, scholarship.
-(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, the Qualifications Authority, and Career Services must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
+(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, the Qualifications Authority, and Careers New Zealand must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
 
 ### 159 Interpretation
 (1) In this Part and Part 13A to Part 24, and in Schedules 13 to 17, unless the context otherwise requires,—
   - **academic year** means a period of 12 months commencing on 1 January
-  - **accreditation** means accreditation under section 259
-  - **approval** , in relation to a course of study or training, means approval of the course as a whole under section 258, and approved, in relation to such a course, has a corresponding meaning
-  - **approved nationally recognised course** means a course of study or training that has been granted approval under section 258(10), other than an approval that has been withdrawn
-  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
-  - **award** includes a degree, diploma, certificate, or qualification
+  - **accreditation** means an accreditation granted by the Qualifications Authority under section 250
+  - **approved programme** means a programme approved by the Qualifications Authority under section 249
+  - **approved programme or training scheme** means an approved programme or approved training scheme
+  - **approved training scheme** means a training scheme approved by the Qualifications Authority under section 251
+  - **award** means—
+    (a) a certificate, diploma, degree, or other qualification that is listed on the Qualifications Framework; or
+    (b) a certificate or other document granted in recognition of a student's achievement and completion of a training scheme; or
+    (c) a certificate granted in recognition of a student's achievement in scholarship examinations at secondary education
   - **chief executive** , in relation to an institution, means the person who, by whatever name the person is called, is the chief executive of the institution and includes a person for the time being performing the duties of the chief executive of the institution
   - **college of education** means, subject to subsection (3), a body referred to in section 162(1)﻿(b) or a body established as a college of education under section 162(2)
   - **combined council** means a body constituted under section 222AM
   - **Commission** means the Tertiary Education Commission established under section 159C
   - **constitutents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
   - **council** , in relation to an institution, means the body that governs the institution in accordance with section 165
-  - **course of study or training** , in relation to an institution, means a course of study or training leading to an award
   - **designated polytechnic** ,—
     (a) after 28 February 2010 and before 1 May 2010, means a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council:
     (b) on or after 1 May 2010, means any polytechnic
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
-    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students
   - **enrol** includes admit and and have corresponding meanings
   - **equivalent full-time student formula** means the formula of that name that is based on the student workload that would normally be carried out by a full-time student in a single academic year
-  - **exempt student** means a foreign student who is in New Zealand to study under an exchange programme approved by the New Zealand Government
   - **existing institution** means—
     (a) a body specified in Part 1 or Part 2 of Schedule 13; or
     (b) a body that was established immediately before the day on which the Education Amendment Act 1990 received the Royal assent, or is established on or after that day and before 1 January 1991, as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964
   - **existing non-university institution** means an existing institution other than a body specified in Part 1 of Schedule 13
-  - **foreign student** , at any time, means a person who is not then a domestic student
   - **functions** , except where the expression occurs in a provision setting out the functions of a body, includes duties
   - **funding approval** means a decision made by the Commission under section 159YA to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under section 159P(d)﻿(i) and (ii)
   - **give public notice** means to publish a notice in the Gazette that—
@@ -3769,10 +3756,10 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (ba) specialist college; or
     (c) a university; or
     (d) a wananga
+  - **international student** has the meaning given in section 2(1)
   - **land** includes any legal or equitable estate or interest in, or right, power or privilege over, or in connection with, land
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
-  - **nationally recognised award** means an award granted under section 263 in respect of any approved nationally recognised course of study or training
   - **personal property** includes money
   - **plan** means a plan in relation to which funding approval has been given
   - **polytechnic** means, subject to subsection (3),—
@@ -3783,8 +3770,10 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (b) includes a combined council
   - **private training establishment** means an establishment, other than an institution, that provides post-school education or vocational training
   - **proceeding** means any legal or administrative proceeding, and includes an arbitration
+  - **programme** , in relation to an institution within the meaning of section 249(1), means a programme of study or training leading to a qualification listed on the Qualifications Framework
   - **proposed plan** means a proposed plan in relation to which an organisation is seeking funding approval
   - **Qualifications Authority** means the New Zealand Qualifications Authority established by Part 20
+  - **Qualifications Framework** means the framework referred to in section 248
   - **reconstitution day** ,—
     (a) in relation to a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council, means the day on which the order comes into force:
     (b) in relation to any other polytechnic, means 1 May 2010
@@ -3800,6 +3789,9 @@ The Minister may at any time appoint a person to—and in that case the Minister
     (c) a government training establishment:
     (d) any other person or body that provides, or proposes to provide, tertiary education and that is funded through non-departmental output classes from Vote Education (for example, community education providers)
   - **tertiary education strategy** means the latest strategy document issued under section 159AA
+  - **training scheme** means study or training that—
+    (a) leads to an award; but
+    (b) does not, of itself, lead to an award of a qualification listed on the Qualifications Framework
   - **university** means, subject to subsection (3), a body referred to in section 162(1)﻿(a) or a body established as a university under section 162(2)
   - **University Grants Committee** means the University Grants Committee established under Part 1 of the Universities Act 1961
   - **Vice-Chancellor** , in relation to a university, means the chief executive of the university, by whatever name called
@@ -3830,7 +3822,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
 (4) As soon as practicable after issuing a tertiary education strategy, the Minister must give public notice of it.
 
 ### 159AB Importance of tertiary education strategy
-In exercising their functions under this Act or any other enactment, the Commission, the Qualifications Authority, and Career Services must have regard to the tertiary education strategy.
+In exercising their functions under this Act or any other enactment, the Commission, the Qualifications Authority, and Careers New Zealand must have regard to the tertiary education strategy.
 
 ### 159AC Revocation and replacement or amendment of tertiary education strategy
 (1) The Minister may, at any time, revoke and replace, or amend, a tertiary education strategy.
@@ -3846,7 +3838,7 @@ In exercising their functions under this Act or any other enactment, the Commiss
 (3) This section is for the avoidance of doubt.
 
 ### 159AE Ministry may hold and disseminate information
-Any information collected and held by the Commission, the Qualifications Authority, or Career Services may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
+Any information collected and held by the Commission, the Qualifications Authority, or Careers New Zealand may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
   (a) the agency on whose behalf it is held; and
   (b) any other person or agency that is entitled to receive it.
 
@@ -4720,7 +4712,7 @@ No member of the council of an institution is personally liable for any act done
 (10) Any consent by the Qualifications Authority under subsection (8)﻿(b) may be withdrawn, after consultation with the council of the institution concerned, with effect from a date not earlier than 1 January next following the giving of notice of the withdrawal to that institution.
 (11) Nothing in this Act prevents an institution that was in existence immediately before the commencement of this section—
   (a) from granting during the 2 years following that commencement an award of a kind or description that the institution, or the governing body of that institution, was entitled to grant immediately before that commencement; or
-  (b) from granting after that period an award to a person in consequence of the person's having completed a course of study or training that the person commenced to undertake before the end of that period.
+  (b) from granting after that period an award to a person in consequence of the person's having completed a programme of study or training that the person commenced to undertake before the end of that period.
 
 ### 193 Powers of councils
 (1) The council of an institution has all powers reasonably necessary to enable it to perform its functions efficiently and effectively.
@@ -5068,7 +5060,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (3) A person who would, but for the disestablishment of the institution, have been entitled to be granted an award of the institution is entitled to be granted a like award,—
   (a) if the institution is incorporated in another institution, of the other institution; or
   (b) otherwise, of such institution as the Secretary directs.
-(4) A person who has partially completed a course at the disestablished institution leading to an award is entitled to enrol in a similar course at,—and to be granted such status, and such credit for work performed at the disestablished institution, as the council of the other institution, after consulting the Qualifications Authority, considers appropriate.
+(4) A person who has partially completed a programme at the disestablished institution leading to an award is entitled to enrol in a similar programme at,—and to be granted such status, and such credit for work performed at the disestablished institution, as the council of the other institution, after consulting the Qualifications Authority, considers appropriate.
   (a) if the institution is incorporated in another institution, the other institution; or
   (b) otherwise, such other institution as the Secretary directs to enrol the person,—
 (5) If the disestablished institution is, immediately upon its disestablishment, incorporated in another institution,—
@@ -5437,54 +5429,54 @@ If a polytechnic council requests the Minister or chief executive of the Tertiar
   (b) must consider whether or not to act under that section; but
   (c) may then (if any necessary conditions are satisfied) act under another of those sections giving him or her power to act.
 
-## Part 16 — Courses and students
+## Part 16 — Programmes and students
 
-### 223 Courses
-(1) Subject to subsection (2) and Part 20, the council of each institution may determine the courses of study and training to be provided at the institution.
-(2) If the Minister believes on reasonable grounds that the provision or the continued provision of a particular course of study or training at a particular institution would have significant implications for the allocation of the national resources available for tertiary education or vocational training, and would be contrary to the efficient use of those resources, the Minister may, after consulting the council of the institution and such other persons as the Minister considers appropriate, by written notice to the council setting out the reasons for giving the direction, direct the council that the institution is not to provide, or to continue to provide, that course.
-(3) The power of the Minister under subsection (2) may be exercised only in relation to a course of study or training as a whole and that subsection does not entitle the Minister to give a direction limited to particular subjects or other constituent elements of a course of study or training.
+### 223 Programmes
+(1) Subject to subsection (2) and Part 20, the council of each institution may determine the programmes of study and training to be provided at the institution.
+(2) If the Minister believes on reasonable grounds that the provision or the continued provision of a particular programme of study or training at a particular institution would have significant implications for the allocation of the national resources available for tertiary education or vocational training, and would be contrary to the efficient use of those resources, the Minister may, after consulting the council of the institution and such other persons as the Minister considers appropriate, by written notice to the council setting out the reasons for giving the direction, direct the council that the institution is not to provide, or to continue to provide, that programme.
+(3) The power of the Minister under subsection (2) may be exercised only in relation to a programme of study or training as a whole and that subsection does not entitle the Minister to give a direction limited to particular subjects or other constituent elements of a programme of study or training.
 (4) The council of an institution shall comply with a direction given to it under subsection (2).
 
 ### 224 Enrolment of students
 (1) In this section,—
-  - **eligible person** , in relation to a course of study or training at an institution, means a person who is eligible to be enrolled as a student in that course by virtue of subsection (2)
+  - **eligible student** , in relation to a programme or training scheme at an institution, means a person who is eligible to be enrolled as a student in that programme or scheme by virtue of subsection (2)
   - **year** means a period of 12 months commencing on 1 January.
-(2) Subject to this section, a person is eligible to be enrolled as a student at any institution in a course of study or training provided by the institution if, and only if,—
-  (a) 1 of the following subparagraphs applies:
-    (i) the person is a domestic student:
-    (ii) the person is an exempt student:
-    (iii) the council of the institution consents; and
-  (b) the person holds the minimum entry qualifications for the course determined by the council; and
-  (c) the person has attained—
+(2) Subject to this section, a person is eligible to be enrolled as a student at any institution in a programme or training scheme provided by the institution if, and only if,—
+  (a) either—
+    (i) the person is a domestic student; or
+    (ii) the council of the institution consents; and
+  (b) the person holds the minimum entry requirements for the programme or scheme as determined by the council; and
+  (c) the person has attained,—
     (i) if the institution has fixed a minimum age for enrolment at the institution, the age so fixed; and
-    (ii) if the institution has fixed a minimum age for enrolment in the course, the age so fixed.
-(3) Paragraphs (b) and (c) of subsection (2) do not apply to a person if—
+    (ii) if the institution has fixed a minimum age for enrolment in the programme or scheme, the age so fixed.
+(3) Subsection (2)﻿(b) and (c) do not apply to a person if—
   (a) the person has attained the age of 20 years; or
-  (b) the council of the institution is satisfied that the person is capable of undertaking the course of study or training concerned.
-(4) Where an eligible person applies for enrolment in a course of study or training at an institution, the person is, subject to this section, entitled to be enrolled in that course.
-(5) Where the council of an institution is satisfied that it is necessary to do so because of insufficiency of staff, accommodation, or equipment, the council may determine the maximum number of students who may be enrolled in a particular course of study or training at the institution in a particular year.
-(6) Where—the council may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the course.
-  (a) the maximum number of persons who may be enrolled at an institution in a particular course in a particular year is determined by the council of the institution under subsection (5); and
-  (b) the number of eligible persons who apply for enrolment in that course in that year exceeds the maximum number so determined—
-(7) The council of an institution shall not permit a foreign student to be enrolled at the institution in a course of study or training the duration of which will be or is likely to be not less than 3 months unless the course is an approved course and the institution is accredited to provide the course.
-(8) The duration of a course of study or training for the purposes of subsection (7) is the period from and including the day on which the course starts to and including the day on which the course ends or is likely to end, as the case requires, irrespective of the number of days during that period on which study or training takes place or is proposed to take place.
-(9) Except as provided in subsection (11) or subsection (12), no foreign student other than an exempt student shall be enrolled at an institution if the student's enrolment at the institution would have the effect that a domestic student, or an exempt student, who is eligible to enrol at the institution and has applied for enrolment would not be able to be enrolled.
-(10) Except as provided in subsection (11) or subsection (12), no foreign student other than an exempt student shall be enrolled in any course of study or training at an institution if the student's enrolment in that course would have the effect that a domestic student, or an exempt student, who is eligible to enrol in the course and has applied for enrolment in the course would not be able to be enrolled in it.
-(11) Any assisted student may be enrolled at an institution, or in a course of study or training at an institution, by agreement between the council and the chief executive of the Ministry of Foreign Affairs and Trade.
-(12) Notwithstanding that domestic students and exempt students may not be able to be enrolled at an institution or in a course of study or training at an institution, a foreign student who is not an exempt student may be enrolled at the institution, or in that course of study or training at the institution, if the enrolment is in a vacant place—
-  (a) that the council of the institution established for foreign students; and
-  (b) whose continued availability is dependent on the fees payable by foreign students enrolled in it.
-(13) Nothing in this section prevents the council of an institution from refusing to permit, or from cancelling, the enrolment of a person as a student at the institution, or in a particular course of study or training at the institution, on the ground that—
+  (b) the council of the institution is satisfied that the person is capable of undertaking the programme or scheme concerned.
+(4) An eligible student who applies for enrolment in a programme or training scheme at an institution is, subject to this section, entitled to be enrolled in that programme or scheme.
+(5) If the council of an institution is satisfied that it is necessary to do so because of insufficiency of staff, accommodation, or equipment, the council may determine the maximum number of students who may be enrolled in a particular programme or training scheme at the institution in a particular year.
+(6) Where—the council may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the programme or training scheme.
+  (a) the maximum number of students who may be enrolled at an institution in a particular programme or training scheme in a particular year is determined by the council of the institution under subsection (5); and
+  (b) the number of eligible students who apply for enrolment in that programme or training scheme in that year exceeds the maximum number so determined,—
+(7) The council of an institution must not permit the enrolment at the institution of an international student for all or part of a programme unless—
+  (a) the programme is approved by the Qualifications Authority and the institution is accredited to provide the programme; or
+  (b) the programme is exempted under section 232B.
+(8) The council of an institution must not permit the enrolment at the institution of an international student for all or part of a training scheme unless the scheme is an approved training scheme or exempted under section 232B.
+(9) Except as provided in subsection (11), no international student may be enrolled at an institution if the student's enrolment at the institution would have the effect that a domestic student who is eligible to enrol at the institution and has applied for enrolment would not be able to be enrolled.
+(10) Except as provided in subsection (11), no international student may be enrolled in any programme or training scheme at an institution if the student's enrolment in that programme or scheme would have the effect that a domestic student who is eligible to enrol in the programme or scheme and has applied for enrolment in the programme or scheme would not be able to be enrolled in it.
+(11) Although domestic students may not be able to be enrolled at an institution or in a programme or training scheme at an institution, an international student may be enrolled at the institution, or in that programme or scheme at the institution, if the enrolment is in a vacant place—
+  (a) that the council of the institution established for international students; and
+  (b) whose continued availability is dependent on the fees payable by international students enrolled in it.
+(12) Nothing in this section prevents the council of an institution from refusing to permit, or from cancelling, the enrolment of a person as a student at the institution, or in a particular programme or scheme at the institution, on the ground that—
   (a) the person is not of good character; or
   (b) the person has been guilty of misconduct or a breach of discipline; or
   (c) the person is enrolled for full-time instruction in another institution or in a school; or
   (d) the person has made insufficient progress in the person's study or training after a reasonable trial at the institution or at another institution.
-(14) The chief executive of an institution that provides approved courses of pre-service teacher-training shall ensure that the appropriate authorities of the institution liaise with the appropriate authorities of other institutions that provide such courses so as to establish common requirements to govern the selection of people for enrolment, and the enrolment of people, in those courses.
+(13) The chief executive of an institution that provides approved programmes of pre-service teacher training must ensure that the appropriate authorities of the institution liaise with the appropriate authorities of other institutions that provide such programmes so as to establish common requirements to govern the selection of people for enrolment, and the enrolment of people, in those programmes.
 
 ### 225 Records relating to students
 (1) Each institution shall keep records that show—
-  (a) the progress of each student at the institution (including the principal results achieved by the student) in his or her course of study or training; and
-  (b) particulars of any allowances, grants, or other payments received by each student at the institution in respect of his or her course of study or training out of public money appropriated by Parliament.
+  (a) the progress of each student at the institution (including the principal results achieved by the student) in his or her programme of study or training; and
+  (b) particulars of any allowances, grants, or other payments received by each student at the institution in respect of his or her programme of study or training out of public money appropriated by Parliament.
 (2) Without limiting the generality of subsection (1), the records to be kept by an institution under that subsection include such records as will enable the institution to comply with any requirement that may be made by the Secretary under section 226.
 
 ### 226 Secretary may require information
@@ -5514,25 +5506,34 @@ The Registrar or other appropriate officer of an institution shall, if so requir
     (i) full names and addresses; and
     (ii) their dates of birth:
   (b) their identification numbers (being either or both of the identification numbers referred to in subsection (5)):
-  (c) details of their recognised courses of study or parts of the courses in which they are so enrolled, and details of the fees for those courses:
-  (d) if, during the specified period, they are enrolled for any such course or ceased to be so enrolled or ceased to be enrolled as students, the details of each such event and the respective dates on which the event occurred:
-  (e) details of their academic performance in any such course:
+  (c) details of the education or training in which they are so enrolled, and details of the fees for that education or training:
+  (d) if, during the specified period, they are enrolled for any such education or training or ceased to be so enrolled or ceased to be enrolled as students, the details of each such event and the respective dates on which the event occurred:
+  (e) details of their academic performance in any such education or training:
   (f) details of their citizenship or residency status in New Zealand:
   (g) details of any allowances granted to the person by the institution on behalf of the Secretary in any academic year before the 1999 academic year:
-  (h) details reasonably required by the chief executive for the administration of the student loan scheme.
+  (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the determination or provision of an allowance or a benefit.
 (7) As soon as possible after the time or times specified in a requirement under subsection (3), an institution must supply the information required to the chief executive or any employee or agent of the department authorised by the chief executive to receive such information.
 (8) Information supplied by an institution under subsection (7) must be in a form previously agreed between the institution and the chief executive under the Privacy Act 1993 (or, where they are unable to agree, in a form settled by the Privacy Commissioner appointed under the Privacy Act 1993), and may include coded information.
 (9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 226B Offences concerning information requests
 (1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (2).
-(2) The maximum penalty for an offence against subsection (1) is a fine not exceeding $5,000, and, where the offence is a continuing one, a fine not exceeding $500 for each day the offence continues.
+(1A) An institution commits an offence and is liable on summary conviction to a penalty specified in subsection (2) if, in response to any requirement to supply information under section 226A, the institution intentionally—
+  (a) makes a false or misleading statement; or
+  (b) makes a statement from which any material matter has been omitted; or
+  (c) provides any false or misleading paper, document, or record; or
+  (d) provides a paper, document, or record from which any material matter has been omitted.
+(2) The maximum penalty for an offence against subsection (1) or (1A) is a fine not exceeding $5,000, and, where the offence is a continuing one, a fine not exceeding $500 for each day the offence continues.
 
 ### 227 Fees for domestic students
-(1) The council of an institution may fix, or specify a means by which there may be calculated or ascertained, a tuition fee for any course of study or training at the institution.
+(1) The council of an institution may fix, or specify a means by which there may be calculated or ascertained, a tuition fee for any programme of study or training at the institution.
 (1A) The council of an institution that receives funding under section 159YA or 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
-(2) No domestic student shall be or continue to be enrolled in a course of study or training at an institution unless there have been paid to the council in respect of the student—
+(1B) The council of an institution may fix, or specify a means for calculating or ascertaining, a fee for the provision of student services that are provided by the institution or by another person or body on behalf of the institution.
+(1C) If the Minister gives an institution a direction under section 227A(1)﻿(a) listing the categories of student services that the institution may make available, the council of the institution must ensure that any fees fixed under subsection (1B) for the provision of student services relate only to the types of student services that fall within those categories.
+(1D) If an institution is given a direction under section 227A(4), the council of the institution must not fix, in relation to the amount that students may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
+(2) No domestic student shall be or continue to be enrolled in a programme of study or training at an institution unless there have been paid to the council in respect of the student—
   (a) the tuition fee (if any) fixed, or calculated or ascertained in accordance with a means specified, under subsection (1); and
+  (ab) the fee for the provision of student services (if any) determined under subsection (1B); and
   (b) all other fees (if any) prescribed by the council.
 (3) Nothing in subsection (2) prevents a council's accepting by instalments any fee required by that subsection to be paid.
 (4) The council of an institution shall take all reasonable steps to ensure that before the procedures for enrolling a student at the institution for the first time in any year are complete the student is given written notice of the circumstances (if any) in which the student is or may be entitled to a refund of all or any part of fees under this section paid or to be paid to the council.
@@ -5541,22 +5542,51 @@ The Registrar or other appropriate officer of an institution shall, if so requir
   (b) the fact that the circumstances fall outside those notified under that subsection; or
   (c) the fact that the refund is larger than a notice under that subsection provides for.
 
-### 228 Fees for foreign students
-(1) The council of an institution shall take all reasonable steps to ensure that no person is enrolled at the institution until it has established whether the person is a domestic student or a foreign student.
-(2) No foreign student shall be or continue to be enrolled in any course of study or training at an institution unless there have been paid to the council in respect of the student—
+### 227A Ministerial direction to institutions relating to compulsory student services fees
+(1) For the purpose of ensuring accountability in the use of compulsory student services fees determined under section 227(1B), the Minister may give an institution or institutions a written direction that—
+  (a) lists the categories of student services that the institution or institutions may make available to students:
+  (b) requires the institution or institutions to hold the fees in a specified manner (for example, in a separate account to be used solely for the purpose of expenditure on student services) and, if the fees are to be held in an account, ensure that the account is audited:
+  (c) requires the institution or institutions to establish adequate arrangements for decisions to be made jointly or in consultation with the students enrolled at the institution, or their representatives, on all or any of the following matters:
+    (i) the types of student services that, subject to subsection (2)﻿(a), are to be made available to students:
+    (ii) the categories of student services that, subject to subsection (2)﻿(b), are to be made available to students:
+    (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
+    (iv) the procurement of student services:
+    (v) the method for authorising expenditure on student services:
+  (d) requires the institution or institutions to include in the institution’s annual report (under section 220) a description of the services funded out of the student services fee and a statement of the fee income and expenditure for each type of student service.
+(2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
+  (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
+  (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
+(3) A direction given under subsection (1)—
+  (a) may include all or any of the things specified in paragraphs (a) to (d) of that subsection:
+  (b) must specify when the direction must be complied with.
+(4) If an institution does not comply with a direction given under subsection (1), the Minister may give a written direction to that institution specifying—
+  (a) the types of student services that the institution may make available to students; and
+  (b) the maximum amount that students may be charged for those services; and
+  (c) when the direction must be complied with.
+(5) Before giving a direction under subsection (1) or (4), the Minister must,—
+  (a) by notice in the Gazette,—
+    (i) set out the proposed direction; and
+    (ii) invite submissions on it; and
+    (iii) state a final date for receipt of submissions (being a date no later than 21 days after the date of the Gazette notice); and
+  (b) consider the submissions (if any) on the proposed direction.
+(6) The council of an institution that is given a direction under subsection (1) or (4) may make statutes under section 194(1) for the purpose of giving effect to the direction.
+
+### 228 Fees for international students
+(1) The council of an institution shall take all reasonable steps to ensure that no person is enrolled at the institution until it has established whether the person is a domestic student or an international student.
+(2) No international student shall be or continue to be enrolled in any programme of study or training at an institution unless there have been paid to the council in respect of the student—
   (a) an amount fixed by the council that is not less than the council's best estimate of—
-    (i) the cost to the institution (including the institution's marginal administrative and other general costs, and the appropriate portion of any initial or start-up costs of the course) of providing tuition in the course for 1 student, in the case of a course in which no domestic student is enrolled:
-    (ii) the marginal cost to the institution (including the institution's marginal administrative and other general costs, and any marginal initial or start-up costs of the course) of providing tuition in the course for 1 student in addition to the domestic students receiving tuition in the course, in every other case; and
-  (b) an amount fixed by the council that is not less than an amount that in the council's opinion is an appropriate reflection of the use by 1 student receiving tuition in the course of the capital facilities (if any) whose provision at the institution is necessary by virtue only of the institution's provision of tuition to foreign students in addition to domestic students; and
+    (i) the cost to the institution (including the institution's marginal administrative and other general costs, and the appropriate portion of any initial or start-up costs of the programme) of providing tuition in the programme for 1 student, in the case of a programme in which no domestic student is enrolled:
+    (ii) the marginal cost to the institution (including the institution's marginal administrative and other general costs, and any marginal initial or start-up costs of the programme) of providing tuition in the programme for 1 student in addition to the domestic students receiving tuition in the programme, in every other case; and
+  (b) an amount fixed by the council that is not less than an amount that in the council's opinion is an appropriate reflection of the use by 1 student receiving tuition in the programme of the capital facilities (if any) whose provision at the institution is necessary by virtue only of the institution's provision of tuition to international students in addition to domestic students; and
   (c) all other fees (if any) prescribed by the council.
-(2A) Notwithstanding subsection (2), a council may accept from a foreign student in respect of any course of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of—out of the general revenue of the council (not being funds provided under section 159YA or 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
-  (a) any amounts by which the council has decided to subsidise the student in respect of the course; and
-  (b) the appropriate proportion of any amounts by which the council has decided to subsidise the student in respect of courses of a kind or description that include the course; and
-  (c) the appropriate proportion of any amounts by which the council has decided to subsidise students of a kind or description that include the student in respect of the course; and
-  (d) the appropriate proportion of any amounts by which the council has decided to subsidise students of a kind or description that include the student in respect of courses of a kind or description that include the course,—
+(2A) Notwithstanding subsection (2), a council may accept from an international student in respect of any programme of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of—out of the general revenue of the council (not being funds provided under section 159YA or 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
+  (a) any amounts by which the council has decided to subsidise the student in respect of the programme; and
+  (b) the appropriate proportion of any amounts by which the council has decided to subsidise the student in respect of programmes of a kind or description that include the programme; and
+  (c) the appropriate proportion of any amounts by which the council has decided to subsidise students of a kind or description that include the student in respect of the programme; and
+  (d) the appropriate proportion of any amounts by which the council has decided to subsidise students of a kind or description that include the student in respect of programmes of a kind or description that include the programme,—
 (2B) Nothing in subsection (2) prevents a council's accepting by instalments any fee required by that subsection to be paid.
-(3) Where a foreign student has after 31 December 1989 received tuition in a course of study or training at an institution without paying the full amounts required by paragraphs (a) and (b) of subsection (2) in respect of the course, the institution may, in any court of competent jurisdiction, recover the underpayment from the student, as a debt to the institution.
-(4) In any year, the amount of any grant for an institution may be reduced from what it would otherwise have been by any amount by which (in the Secretary's opinion), by virtue of the fact that the full amount required by subsection (2)﻿(a) in respect of a course of study or training at the institution in which a foreign student was enrolled has not been paid to the institution, the student's education has been subsidised by public money appropriated by Parliament.
+(3) Where an international student has after 31 December 1989 received tuition in a programme of study or training at an institution without paying the full amounts required by paragraphs (a) and (b) of subsection (2) in respect of the programme, the institution may, in any court of competent jurisdiction, recover the underpayment from the student, as a debt to the institution.
+(4) In any year, the amount of any grant for an institution may be reduced from what it would otherwise have been by any amount by which (in the Secretary's opinion), by virtue of the fact that the full amount required by subsection (2)﻿(a) in respect of a programme of study or training at the institution in which an international student was enrolled has not been paid to the institution, the student's education has been subsidised by public money appropriated by Parliament.
 (5) No grant shall be reduced under subsection (4) unless the Secretary has given to the council of the institution written notice of the circumstances taken into account when the proposed reduction was decided on.
 (6) Where the council of an institution disputes that a grant should be reduced under subsection (4), or disputes the amount by which it should so be reduced, the following provisions apply:
   (a) the council may, within 28 days of getting notice from the Secretary under subsection (5), by written notice to the Secretary giving the name and address of a proposed arbitrator, require the dispute to be settled by arbitration:
@@ -5564,9 +5594,9 @@ The Registrar or other appropriate officer of an institution shall, if so requir
   (c) if, within 14 days of getting the council's notice, the Secretary has not agreed an arbitrator with the council, an arbitrator appointed jointly by the Secretary and by the arbitrator originally proposed by the council shall settle the dispute:
   (d) the arbitrator's decision is final.
 (7) The council of an institution shall—
-  (a) when a foreign student enrols, or resumes attendance, at the institution, give to the Secretary written notice (to the best of the council's knowledge) of the student's name, nationality, and course of study or training:
-  (b) when a foreign student ceases to be enrolled at, or ceases to attend, the institution, notify the Secretary in writing:
-  (c) comply with all accounting requirements relating to foreign students enrolled at institutions contained in any notice published by the Minister in the Gazette that is for the time being in force.
+  (a) when an international student enrols, or resumes attendance, at the institution, give to the Secretary written notice (to the best of the council's knowledge) of the student's name, nationality, and programme of study or training:
+  (b) when an international student ceases to be enrolled at, or ceases to attend, the institution, notify the Secretary in writing:
+  (c) comply with all accounting requirements relating to international students enrolled at institutions contained in any notice published by the Minister in the Gazette that is for the time being in force.
 (8) The council of an institution shall take all reasonable steps to ensure that when a student enrols at the institution (whether for the first time or for a subsequent time) the student is given written notice of the circumstances (if any) in which the student is or may be entitled to a refund of all or any part of fees under this section paid or to be paid to the council.
 (9) The power of a council to refund to a student all or any part of any fees paid to it under this section is not limited or affected by—
   (a) any failure to comply with subsection (8); or
@@ -5575,8 +5605,9 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 
 ### 228A Tertiary institutions to give prospective students information about fees
 An institution (as defined in section 159(1)) must ensure that prospective students receive, before enrolment is completed, full written details of—
-  (a) all fees associated with their courses; and
-  (b) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled for each course of study or training.
+  (a) all fees associated with their programmes; and
+  (b) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled for each programme of study or training; and
+  (c) any fee fixed under section 227(1B) that must be paid to the institution for the provision of student services.
 
 ### 229 Fees payable to associations of students
 [Repealed]
@@ -5666,135 +5697,309 @@ Sections 229A to 229C apply to private training establishments; and, for the pur
 
 ## Part 18 — Private training establishments
 
-### 232 Courses for foreign students to be quality assured unless exempt
-(1) A person must not permit a foreign student to begin to undertake a course of study or training at a private training establishment unless—
-  (a) the course is an approved course and the establishment is accredited to provide it; or
-  (b) the course is of less than 3 months' duration and is an exempt course, as provided for in subsection (2).
-(2) The Qualifications Authority may, by notice in the Gazette, exempt courses of study or training for the purpose of subsection (1)﻿(b).
-(3) A notice under subsection (2)—
-  (a) may exempt only courses of study or training that are, or are likely to be, of less than 3 months' duration; and
-  (b) may identify courses, or classes of courses, that are exempt; and
-  (c) may identify courses by reference to a provider, or a class of provider, that offers them; and
-  (d) may be in respect of courses that have been completed, are in progress, or have not yet started; and
-  (e) is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not a regulation for the purposes of the Acts and Regulations Publications Act 1989.
-(4) For the purposes of this section and section 236(1), a course of study or training is of less than 3 months' duration if the period starting on the day on which the course starts, and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days during that period on which study or training is, or is proposed to be, provided.
+**Interpretation**
 
-### 233 Provision of approved courses
-A person shall not provide an approved course of study or training at a private training establishment unless the establishment is a registered establishment.
+### 232 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **Authority** means the Qualifications Authority
+  - **code** means the code of practice established under section 238F
+  - **governing member** , in relation to a private training establishment, means—
+    (a) any director:
+    (b) any member occupying a position equivalent to that of a director:
+    (c) if the establishment is a trust, any trustee:
+    (d) if the establishment is a partnership, any partner:
+    (e) any senior manager:
+    (f) any shareholder with a controlling interest in the establishment
+  - **senior manager** , in relation to a private training establishment, means—
+    (a) the chief executive officer or person occupying an equivalent position; or
+    (b) any member of staff in charge of academic issues, marketing, administration, finance, student fee trust funds, or student services.
 
-### 234 Applications for registration
-(1) The governing body of a private training establishment may apply to the Qualifications Authority for registration of the establishment as a private training establishment for the purposes of this Act.
-(2) An application by the governing body of a private training establishment for registration of the establishment shall be in such form and contain such information as the Qualifications Authority requires and shall be accompanied by such fee (if any) as that Authority determines.
+**Programmes and training schemes in which international students enrolled**
 
-### 235 Certain applications not to be considered
-The Qualifications Authority shall not consider an application for the registration of a private training establishment under section 234 unless—
-  (a) the establishment or the governing body of the establishment is a body corporate; and
-  (b) the application is accompanied by a written statement approved by the governing body that sets out the general goals and purposes of the establishment, being goals and purposes that relate primarily to education or training, or both.
+### 232A Requirements that private training establishments must comply with before enrolling international students
+(1) A private training establishment must not enrol an international student in, or permit an international student to begin to undertake, all or part of a programme at the establishment unless—
+  (a) the establishment is registered under section 233 and is a signatory to the code; and
+  (b) either—
+    (i) the programme is an approved programme and the establishment is accredited to provide the entire programme; or
+    (ii) the programme is of less than 3 months' duration and is exempted under section 232B; and
+  (c) if standards from the Directory of Assessment Standards are included in the programme, the establishment has a consent to assess against standards.
+(2) A private training establishment must not enrol an international student to begin to undertake a training scheme at the establishment unless—
+  (a) the establishment is a registered establishment and is a signatory to the code; and
+  (b) either—
+    (i) the training scheme is an approved training scheme; or
+    (ii) the training scheme is of less than 3 months' duration and is exempted under section 232B; and
+  (c) if standards from the Directory of Assessment Standards are included in the training scheme, the establishment has a consent to assess against those standards.
+(3) For the purposes of this section and section 232B, a programme or training scheme is of less than 3 months' duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days during that period on which the programme or training scheme is, or is proposed to be, provided.
 
-### 236 Grant or refusal of application
-(1) The Qualifications Authority must grant an application for registration of a private training establishment, and may only grant such an application, if it is satisfied that—
-  (a) the establishment is a suitable body to be registered having regard to the goals and purposes set out in the statement that accompanied the application in accordance with section 235(b); and
-  (b) the establishment has, or will at the relevant time have, adequate staff, equipment, and premises to provide its courses of study or training; and
-  (ba) the establishment—
-    (i) in the case of an establishment that is already operational, has acceptable financial management practices and performance; and
-    (ii) in the case of an establishment that is not already operational, is likely to have acceptable financial management practices and performance; and
-  (c) the establishment complies, or is capable of complying and likely to comply, with section 236A and the notice made under section 236AB; and
-  (d) the establishment—
-    (i) provides, or will provide, every prospective student with a written statement of the total course costs and other financial commitments associated with each course of study or training before accepting that student's enrolment; and
-    (ii) allows, or will allow, every domestic student enrolled for a course of study or training (other than a course of less than 3 months' duration) to withdraw from it at any time within 7 days after the first day of the course for which the attendance of students at the establishment is required; and
-    (iii) refunds, or will refund, to every domestic student who so withdraws, without deduction, so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that course, and, if withdrawal from that course also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds $500 or 10% of the amount of that payment or of the sum of those payments, whichever is the less; and
-    (iiia) allows, or will allow, every foreign student enrolled for a course of study or training (other than a course of less than 3 months' duration) to withdraw from it at any time within the period specified in the notice made under section 236AB; and
-    (iiib) refunds, or will refund, to every foreign student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that course, and, if withdrawal from that course also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 236AB; and
-    (iv) allows, or will allow, every foreign student enrolled for a course of study or training that is of less than 3 months' duration to withdraw from it within a period (being less than 7 days) specified by the Authority, and refunds, or will refund, to any student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the course; and
-  (e) the standard of instruction that is or will be provided in the courses of study or training will be not lower than the standard that would be expected to be provided if the courses were provided at a polytechnic or college of education.
+### 232B Exemptions
+(1) The Authority may, by notice in the Gazette,—
+  (a) exempt programmes for the purposes of section 232A(1)﻿(b)﻿(ii); or
+  (b) exempt training schemes for the purposes of section 232A(2)﻿(b)﻿(ii).
+(2) A notice under subsection (1)—
+  (a) may exempt only programmes or training schemes that are, or are likely to be, of less than 3 months' duration; and
+  (b) may identify programmes or training schemes, or classes of programmes or training schemes, that are exempt; and
+  (c) may identify programmes or training schemes by reference to a provider, or a class of providers, that offers them; and
+  (d) may be in respect of programmes or training schemes that have been completed, are in progress, or have not yet started.
+
+### 232C Requirement to be registered before providing approved programmes or training schemes
+A private training establishment must be registered before it can provide an approved programme or training scheme to a student.
+
+**Applications for registration**
+
+### 232D Applications for registration of private training establishments
+(1) A private training establishment that is a body corporate may apply to the Authority for registration of the establishment as a private training establishment for the purposes of this Act.
+(2) The application must—
+  (a) include a written statement setting out—
+    (i) the kinds of education the establishment proposes to provide; and
+    (ii) the outcomes it seeks to achieve through the provision of those kinds of education; and
+  (b) demonstrate how the establishment intends to meet the requirements of sections 233(1), 233A(1), and 233B(1) and (2); and
+  (c) contain a statutory declaration from each governing member of the establishment in respect of—
+    (i) any material conflicts of interest arising from the person's role as a governing member of the establishment; and
+    (ii) any interests that the person has in organisations in the education or immigration sector that provide goods or services to tertiary students; and
+  (d) contain a statutory declaration from each governing member of the establishment in respect of the matters described in section 233A(1)﻿(a) to (g); and
+  (e) describe the arrangements that the establishment has in place to manage conflicts of interest that may arise; and
+  (f) be in a form and contain any other information that the Authority requires; and
+  (g) be accompanied by an amount that the Authority requires as a deposit on the fee charged under section 254(2)﻿(a)﻿(vii).
+(3) The Authority must not consider an application for registration if the applicant does not provide all the information required under subsection (2).
+
+### 232E Authority may verify identity of governing members of private training establishment
+(1) The Authority may require a private training establishment to provide, to the satisfaction of the Authority, evidence of the identities of its governing members—
+  (a) before considering an application for registration from the establishment; or
+  (b) at any time there is a change in the membership of the governing members of the establishment.
+(2) When acting under subsection (1), the Authority may interview any governing member of the establishment for the purpose of verifying his or her identity.
+
+**Determination of application**
+
+### 233 Grant or refusal of application
+(1) The Authority must grant an application for registration of a private training establishment, and may grant the application, only if it is satisfied that—
+  (a) every governing member of the establishment is a fit and proper person (after considering the criteria set out in section 233A); and
+  (b) the establishment has in place effective arrangements for managing any conflicts of interest that exist or may arise; and
+  (c) no governing member of the establishment has a material conflict of interest that the Authority considers is or is likely to be unmanageable; and
+  (d) no governing member of the establishment has an interest of a kind described in section 232D(2)﻿(c)﻿(ii) that the Authority considers is or is likely to be unmanageable; and
+  (e) the establishment has, or will at the relevant time have, adequate staff, equipment, and premises to provide its programmes or training schemes; and
+  (f) the establishment,—
+    (i) in the case of an establishment that is already operational, has acceptable financial management practices and performance (for example, is able to pay its staff, taxes, and creditors); and
+    (ii) in the case of an establishment that is not yet operational, is likely to have acceptable financial management practices and performance (for example, is likely to be able to pay its staff, taxes, and creditors); and
+  (g) the establishment complies, or is capable of complying and likely to comply, with the conditions of registration under section 233B; and
+  (h) before accepting the enrolment of any prospective student, the establishment provides or will provide that student with a written statement of—
+    (i) the total costs and other financial commitments associated with the programme or training scheme for which the student seeks enrolment; and
+    (ii) any material conflicts of interest of any of the governing members of the establishment; and
+    (iii) any interests of a kind described in section 232D(2)﻿(c)﻿(ii); and
+  (i) in the case of an establishment that intends to enrol international students, the establishment will become a signatory to the code before enrolling any international students.
 (2) Registration may be granted without limitation as to time or for a specified period.
-(3) The grant of registration to a private training establishment does not entitle the establishment or its governing body, or any of its students, to receive financial assistance out of public money appropriated by Parliament.
-(4) The Authority must give written notice to a private training establishment when it grants or refuses to grant registration and, if it refuses registration, it must give reasons for the refusal.
-(5) For the purposes of this section, first day of the course for which the attendance of students at the establishment is required means, in relation to a student enrolled for a course of study or training at the establishment, the first day on which the establishment requires the student to attend the establishment to begin the course of study or training.
+(3) The grant of registration does not entitle the establishment or any of its students to receive financial assistance out of public money appropriated by Parliament.
+(4) The Authority may refuse to grant registration to a private training establishment or withdraw the establishment's registration (if already granted) if the Authority is satisfied that a governing member of the establishment has provided a false or misleading declaration under section 232D(2)﻿(c).
+(5) The Authority must give written notice to a private training establishment—
+  (a) when it grants, refuses to grant, or withdraws registration; and
+  (b) if it refuses or withdraws registration, give reasons for doing so.
 
-### 236AA Conditions on registration
-(1) It is a condition of registration that the establishment will at all times comply with the relevant policies and criteria established by the Qualifications Authority under section 253(1)﻿(ca) that are currently in force, except to the extent that the Authority exempts the establishment, by a condition on its registration, from compliance.
-(2) When granting registration to an establishment, the Qualifications Authority may impose conditions on the registration that are specific to that establishment.
-(3) The Qualifications Authority may at any time, with the agreement of a registered establishment, impose new conditions on its registration, and may amend or revoke any existing conditions.
-(4) The Qualifications Authority may, without the agreement of a registered establishment, impose conditions on its registration, or amend or revoke any existing conditions, but only if the Authority has first—
+### 233A Criteria for determining whether governing member of private training establishment is fit and proper person
+(1) For the purpose of determining under section 233(1)﻿(a) whether a governing member of a private training establishment is a fit and proper person for that position, the Authority must give any weight that it considers appropriate to all of the following matters:
+  (a) the person's experience in the provision of education services (for example, any previous involvement in a registered private training establishment); and
+  (b) whether the person was a governing member of a registered private training establishment that was closed, sold due to insolvency, or taken over; and
+  (c) whether the person has been convicted of any offence involving fraud, violence, or dishonesty, or any offence under this Act or section 352 of the Immigration Act 2009; and
+  (d) whether the person is a defendant in proceedings in respect of an offence described in paragraph (c); and
+  (e) whether the person was adjudicated bankrupt under the Insolvency Act 2006 or the Insolvency Act 1967; and
+  (f) whether the person is prohibited from being a director or promoter of, or from being concerned or taking part in the management of, a company under any of sections 382, 383, 385, and 386A of the Companies Act 1993; and
+  (g) whether the person has failed to disclose any material conflict of interest as required under section 232D(2)﻿(c)﻿(i); and
+  (h) any other matter that the Authority considers relevant.
+(2) If the applicant has had direct involvement in the provision of education services that have failed, the Authority must give the applicant an opportunity to explain why the risk of this occurring again is unlikely.
+
+**Conditions and other requirements of registration**
+
+### 233B Conditions of registration
+(1) It is a condition of registration of a private training establishment that it will at all times comply with the requirements in the rules made under section 253, except to the extent that the Authority exempts the establishment, by a condition on its registration, from compliance.
+(2) It is a condition of registration that a registered establishment will keep the written statement required under section 232D(2)﻿(a) up to date.
+(3) It is a condition of registration that a registered establishment will ensure that—
+  (a) existing governing members keep the declarations required under section 232D(2)﻿(c) and (d) up to date; and
+  (b) any new governing member submits the declarations required under section 232D(2)﻿(c) and (d) before commencing as a governing member of the establishment.
+(4) The Authority may impose conditions on the registration of an establishment that are specific to the establishment or a group or class of establishments.
+(5) The Authority may at any time, with the agreement of the establishment,—
+  (a) impose new conditions on the establishment's registration; or
+  (b) amend or revoke any existing conditions.
+(6) The Authority may, without the agreement of an establishment, impose conditions on the establishment's registration, or amend or revoke any existing conditions, but only if the Authority has first—
   (a) given written notice to the establishment of its intentions; and
   (b) given the establishment a reasonable opportunity to respond to the notice; and
   (c) considered any submissions made by the establishment in response to the notice.
-(5) When conditions are imposed, amended, or revoked, the Qualifications Authority must give notice in writing to the registered establishment of the new, amended, or revoked conditions.
+(7) When conditions are imposed, amended, or revoked, the Authority must give written notice to the establishment of the new, amended, or revoked conditions.
 
-### 236A Information, withdrawals, and refunds
-(1) Every private training establishment shall—
-  (a) ensure that all printed and other information made available to prospective students gives full details of—
-    (i) the total fees for each course of study or training, including fees for class or lecture materials, books, special clothing, safety equipment, tools, and any other items that are or may be provided to students enrolled for that course, and including any students association membership fees; and
-    (ii) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled for each course of study or training; and
-  (b) provide every prospective student with a written statement of the total course costs and other financial commitments associated with each course of study or training before accepting that student's enrolment; and
-  (c) allow every domestic student enrolled for a course of study or training (being a course of 3 months or more) to withdraw from it at any time within 7 days after the first day of the course for which attendance of students at the establishment is required; and
-  (d) refund to every domestic student who so withdraws, without deduction, so much of any payment, or of the sum of any payments made by the student to the establishment in respect of that course, and, if withdrawal from that course also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds $500 or 10% of the amount of that payment or of the sum of those payments, whichever is the lesser; and
-  (e) allow every foreign student enrolled for a course of study or training that is a course of 3 months or more to withdraw from it at any time within the period specified in the notice made under section 236AB; and
-  (f) refund to every foreign student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that course, and, if withdrawal from the course also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 236AB; and
-  (g) allow every foreign student enrolled for a course of study or training that is of less than 3 months' duration to withdraw from it within a period (being less than 7 days) specified by the Qualifications Authority; and
-  (h) refund to every foreign student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the course.
-(2) If a student has made any payment or payments to an establishment in respect of the student's enrolment or participation in a course of study or training before the expiry of the period for withdrawal from the course specified in subsection (1)﻿(c), (e), or (g) (as the case may be),—
-  (a) the establishment must ensure that there is paid to an independent person approved by the Qualifications Authority for the purpose out of that payment or those payments, to be held in trust to be available for refund to the student under paragraph (d), (f), or (h) of subsection (1) (as the case may be), an amount equal to the amount required to be refunded to the student under that paragraph; and
-  (b) if satisfied that the student withdrew from the course within the period specified in subsection (1)﻿(c), (e), or (g) (as the case may be), the person must pay the amount held to the student; and
-  (c) if satisfied that the student did not withdraw from the course within the period specified in subsection (1)﻿(c), (e), or (g) (as the case may be), the person must (as the case requires) pay the amount held to the establishment, or hold it for the establishment's creditors.
-(3) For the purposes of this section, first day of the course for which the attendance of students at the establishment is required means, in relation to a student enrolled for a course of study or training at an establishment, the first day on which the establishment requires the student to attend the establishment to begin the course of study or training.
+### 233C Annual fee
+Every registered private training establishment must pay the Authority an annual registration fee of an amount prescribed by or determined under rules made under section 253.
 
-### 236AB Refund requirements set by Gazette notice
-(1) The Minister must specify, by notice in the Gazette, for the purposes of refunds under section 236A(1)﻿(f),—
-  (a) the period within which a foreign student may withdraw from a course of 3 months or more and be entitled to a refund under that section; and
+**Cancellation and lapse of registration**
+
+### 233D Cancellation of registration
+(1) The Authority may cancel the registration of a registered private training establishment—
+  (a) if it is satisfied on reasonable grounds that—
+    (i) the establishment no longer meets 1 or more of the criteria set out in section 233(1); or
+    (ii) the establishment is not complying, or has not complied, with 1 or more of the conditions applying to it; or
+  (b) if the establishment has provided false or misleading information in its application for registration; or
+  (c) at the written request of the establishment.
+(2) The Authority must cancel the registration of a private training establishment if—
+  (a) the establishment has been convicted of an offence against—
+    (i) this Act; or
+    (ii) section 352 of the Immigration Act 2009; or
+  (b) a governing member of the establishment is convicted of any serious criminal activity or any offence referred to in paragraph (a), and the establishment fails to comply with a written notice issued by the Authority on reasonable grounds requiring that the person be removed, within 2 months of receipt of the notice, from his or her position as a governing member and from every other position in the establishment.
+(3) Before cancelling a registration under subsection (1)﻿(a) or (b), the Authority must—
+  (a) notify the establishment that it is considering cancelling the establishment's registration, and give reasons; and
+  (b) give the establishment a reasonable opportunity to respond to the notice; and
+  (c) consider any submissions made by the establishment in response to the notice.
+(4) If the Authority cancels a registration, it must give notice of its decision to both the establishment and the Commission, with reasons.
+(5) Nothing in this section limits the Authority's powers under section 255(7)﻿(a) to cancel an establishment's registration.
+
+### 233E Effect of cancellation
+(1) Cancellation of registration under section 233D takes effect on the date specified by the Authority in the notice given under section 233D(4) (the date of cancellation).
+(2) If the registration of a registered private training establishment is cancelled under section 233D,—
+  (a) from the date of cancellation,—
+    (i) all approved programmes or training schemes granted to the establishment are withdrawn; and
+    (ii) all accreditations granted to the establishment are withdrawn; and
+    (iii) all consents to assess against standards granted to the establishment are withdrawn; and
+  (b) no notice is required to be given to the establishment for those withdrawals.
+
+### 234 Lapse of registration
+(1) The registration of a registered private training establishment lapses—
+  (a) on the date that is 1 year after registration is granted if,—
+    (i) within that period, the establishment does not provide an approved programme that it is accredited to provide to enrolled students; and
+    (ii) within that period, the establishment does not provide an approved training scheme to enrolled students:
+  (b) on the date that is 1 year after the establishment has ceased to provide to enrolled students—
+    (i) any approved programme it is accredited to provide; and
+    (ii) any approved training scheme.
+(2) Subsection (1) does not affect the registration of a private training establishment if—
+  (a) the time for the lapse of the establishment's accreditation is extended under section 250B(2) beyond either of the dates specified in subsection (1) of this section, in which case the establishment's registration lapses when the accreditation lapses; or
+  (b) the time for the lapse of the establishment's training scheme approval is extended under section 251C(2) beyond either of the dates specified in subsection (1) of this section, in which case the establishment's registration lapses when the training scheme approval lapses.
+(3) If a registered private training establishment is required under this Act to pay any fees to the Authority, and fails to pay those fees after receiving 2 reminder notices within 3 months, the registration of the establishment lapses on the date that is 1 calendar month after the date of the second reminder notice from the Authority.
+(4) The Authority must give written notice of the lapse of an accreditation to the establishment.
+
+**Fees for domestic students**
+
+### 234A Fees for domestic students must not exceed maximums set in conditions of funding
+(1) A registered private training establishment that receives funding under section 159YA or 159ZC must not exceed the maximum amount when fixing a tuition fee or a fee of a particular kind for any programme or training scheme at the establishment.
+(2) If a registered private training establishment is given a direction under section 235D(4), the establishment must not fix, in relation to the amount that students may be charged for student services, a fee that exceeds the maximum amount specified in the direction.
+(3) In subsection (1), the maximum amount means the maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
+
+**Information that must be given to prospective students**
+
+### 234B Information that private training establishments must give prospective students
+Every private training establishment must—
+  (a) ensure that all printed and other information made available to prospective students has full details of—
+    (i) the total fees for each programme or training scheme, including fees for class or lecture materials, books, special clothing, safety equipment, tools, and any other items that are or may be provided to students enrolled for that programme or training scheme, and including any students association membership fees; and
+    (ii) the class or lecture materials, books, special clothing, safety equipment, tools, and other items that are or may be required by the establishment to be bought or provided by students enrolled for each programme or scheme; and
+  (b) before accepting the enrolment of any prospective student, give the student a written statement of—
+    (i) the total costs of the programme or training scheme and all other financial commitments associated with the programme or training scheme; and
+    (ii) the cost of fees charged for student services provided by the establishment; and
+    (iii) any material conflicts of interest of any of the governing members of the establishment; and
+    (iv) any interests of a kind described in any statement required under section 232D(2)﻿(c)﻿(ii); and
+  (c) give every prospective student a written statement of his or her entitlements under sections 235 and 235A, in the event that the student withdraws from a programme or training scheme.
+
+**Protection of student fees**
+
+### 234C Interpretation
+(1) In sections 234D to 235C,—
+  - **independent trustee** , in relation to a private training establishment, means a trustee that does not provide any other service to the establishment other than that referred to in section 234E
+  - **refund period** means, in relation to a domestic student who is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required
+  - **trustee** means Public Trust, a trustee company under the Trustee Companies Act 1967, a chartered accountant in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
+(2) In sections 234D to 235C, the requirement that funds paid by or on behalf of a student be deposited with an independent trustee applies to all components of any fee payable by the student (for example, it includes any component of the fee payable by the student in respect of accommodation costs or agent commissions).
+
+### 234D Application of rules relating to student fee protection
+(1) This section applies to a person who receives money from a student for the purpose of enrolling, or helping the student to enrol, in a programme or training scheme at a private training establishment.
+(2) A person to whom this section applies must comply with the requirements of the rules made under section 253 that relate to student fee protection.
+
+### 234E Student fees must be deposited with independent trustee
+(1) If a private training establishment receives any funds paid by or on behalf of a student in respect of a programme or training scheme provided by the establishment, the establishment must—
+  (a) deposit those funds, as soon as practicable, with an independent trustee approved by the Authority; and
+  (b) hold those funds on trust for the student until they are deposited with the independent trustee.
+(2) If a person to whom section 234D applies receives any funds paid by or on behalf of a student in respect of a programme or training scheme provided by the establishment, the person must—
+  (a) deposit those funds, as soon as practicable, with an independent trustee approved by the Authority unless the establishment has made alternative arrangements that are acceptable to the Authority; and
+  (b) hold those funds on trust for the student until they are deposited with the independent trustee or in accordance with the alternative arrangements referred to in paragraph (a).
+(3) An independent trustee approved by the Authority must comply with the requirements of any rules made under section 253 relating to student fee protection.
+(4) The Authority—
+  (a) may withdraw its approval of a particular trustee if satisfied that the trustee is not managing the trust funds in accordance with the requirements of the rules; and
+  (b) must, if approval for a trustee is withdrawn, appoint a new trustee in accordance with the rules.
+
+### 235 Refund entitlements of domestic students
+(1) A domestic student who is enrolled at a private training establishment for all or part of a programme or training scheme that is of more than 3 months' duration and who withdraws from that programme or scheme within the refund period is entitled to a refund, without deduction, of so much of any payment, or of the sum of any payments, made by the student in respect of the programme or scheme, and, if withdrawal from the programme or scheme also constitutes complete withdrawal from the establishment, in respect of enrolment at the establishment, as exceeds $500 or 10% of the amount of that payment or of the sum of those payments, whichever is the lesser.
+(2) If the student withdraws from a programme or training scheme within the refund period, the independent trustee must refund all payments made to it by the private training establishment in respect of the programme or scheme—
+  (a) to the trustee of the student's new education provider; or
+  (b) if the fee has been paid for by student loan money, to the department defined in section 235F(1); or
+  (c) to the student, if neither paragraph (a) nor (b) applies.
+(3) When the refund period, in relation to any fees paid by or behalf of a student, has expired,—
+  (a) the fees paid must continue to be held in trust by the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 253; or
+  (b) the private training establishment may, if the Authority approves, make alternative arrangements in relation to the fees paid.
+
+### 235A Refund entitlements of international students
+(1) A private training establishment must—
+  (a) allow every international student enrolled for a programme or training scheme that is of 3 months' duration or more to withdraw from it at any time within the refund period; and
+  (b) refund to every international student who so withdraws, without deduction, at least so much of any payment, or of the sum of any payments, made by the student to the establishment in respect of that programme or training scheme, and, if withdrawal from the programme or scheme also constitutes withdrawal from the establishment as a whole, in respect of enrolment at the establishment, as exceeds the percentage specified in the notice made under section 235B; and
+  (c) allow every international student enrolled for a programme or training scheme that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by the Authority; and
+  (d) refund to every international student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the programme or training scheme.
+(2) For the purposes of subsection (1)﻿(c), a programme or training scheme is of less than 3 months' duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days during that period on which the programme or training scheme is, or is proposed to be, provided.
+(3) When the refund period, in relation to any fees paid by or on behalf of an international student, has expired,—
+  (a) the fees paid must continue to be held in trust with the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 253; or
+  (b) the private training establishment may, if the Authority approves, make alternative arrangements in relation to the fees paid.
+(4) In this section, refund period means the period referred to in section 235B(1)﻿(a) as specified in the notice made under section 235B.
+
+### 235B Refund requirements set by Gazette notice
+(1) The Minister must specify, by notice in the Gazette, for the purposes of refunds under section 235A,—
+  (a) the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; and
   (b) the maximum percentage of the payment or payments that an establishment may retain; and
   (c) the cost components of the fee total on which the maximum percentage is determined; and
-  (d) the expenses or categories of expense that the establishment must show that it has incurred in relation to a foreign student in order to deduct the maximum percentage.
-(2) Before giving notice in the Gazette under subsection (1), the Minister must consult with any 1 or more of the following, as he or she considers appropriate:
+  (d) the expenses or categories of expenses that the establishment must show that it has incurred in relation to an international student in order to deduct the maximum percentage.
+(2) Before giving notice in the Gazette under subsection (1), the Minister must, as the Minister considers appropriate, consult with any 1 or more of the following:
   (a) private training establishments:
   (b) sector and industry representative organisations:
   (c) any other relevant bodies.
 (3) A notice under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and for the purposes of the Acts and Regulations Publication Act 1989.
 
-### 236B Establishment to notify immigration officer if student withdraws from course
-(1) A private training establishment shall ensure that, within 7 days of the withdrawal of any student from a course of study or training at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the course, and the day on which the student withdrew.
-(2) Subsection (1) does not apply to a student if the establishment (or governing body) is satisfied on reasonable grounds that the student is a domestic student.
+### 235C Rules apply if students withdraw because of programme or training scheme closure
+Any fees paid by or on behalf of any student who withdraws from a programme or training scheme because of the closure of the programme or scheme are subject to the protections set out in the rules made under section 253.
 
-### 236C Fees for domestic students must not exceed maximums set in conditions of funding
-A registered private training establishment that receives funding under section 159YA or 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
+### 235D Ministerial direction to registered private training establishments relating to compulsory student services fees
+(1) For the purpose of ensuring accountability in the use of compulsory student services fees, the Minister may give a registered private training establishment or registered private training establishments a written direction that—
+  (a) lists the categories of student services that the establishment or establishments may make available to students:
+  (b) requires the establishment or establishments to hold the fees in a specified manner (for example, in a separate account to be used solely for the purpose of expenditure on student services) and, if the fees are to be held in an account, ensure that the account is audited:
+  (c) requires the establishment or establishments to establish adequate arrangements for decisions to be made jointly or in consultation with the students enrolled at the establishment, or their representatives, on all or any of the following matters:
+    (i) the types of student services that, subject to subsection (2)﻿(a), are to be made available to students:
+    (ii) the categories of student services that, subject to subsection (2)﻿(b), are to be made available to students:
+    (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
+    (iv) the procurement of student services:
+    (v) the method for authorising expenditure on student services:
+  (d) requires the establishment or establishments to provide each year to students a written report describing the services that have been funded out of the student services fee and a statement of the fee income and expenditure on each type of student service.
+(2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
+  (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
+  (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
+(3) A direction given under subsection (1)—
+  (a) may include all or any of the things specified in paragraphs (a) to (d) of that subsection:
+  (b) must specify when it must be complied with.
+(4) If a registered private training establishment does not comply with a direction given under subsection (1), the Minister may give a written direction to that establishment specifying—
+  (a) the types of student services that the establishment may make available to students; and
+  (b) the maximum amount that students may be charged for those services; and
+  (c) when the direction must be complied with.
+(5) Before giving a direction under subsection (1) or (4), the Minister must,—
+  (a) by notice in the Gazette,—
+    (i) set out the proposed direction; and
+    (ii) invite submissions on it; and
+    (iii) state a final date for receipt of submissions (being a date no later than 21 days after the date of the Gazette notice); and
+  (b) consider the submissions (if any) on the proposed direction.
+(6) In subsection (1), compulsory student services fees are fees for the provision of student services that a student must pay to a registered private training establishment as a condition of enrolment in a programme or training scheme at the establishment.
 
-### 237 Cancellation of registration
-(1) The Authority may cancel the registration of a registered establishment if it is satisfied on reasonable grounds that—
-  (a) the establishment no longer meets 1 or more of the requirements set out in section 236(1); or
-  (b) the establishment is not complying, or has not complied, with 1 or more of the conditions applying to it.
-(2) Before cancelling a registration under subsection (1), the Authority must—
-  (a) notify the establishment that it is considering cancelling registration, and give reasons; and
-  (b) give the establishment a reasonable opportunity to respond to the notice; and
-  (c) consider any submissions made by the establishment in response to the notice.
-(2A) The Authority may also cancel the registration of a registered establishment if—
-  (a) the Authority receives a written request to do so from the governing body of the registered establishment; and
-  (b) that request is not withdrawn by the governing body of the registered establishment after being advised by the Authority of its intention to cancel the registration of the establishment.
-(3) If the Authority cancels a registration, it must give notice of its decision to both the establishment and the Commission, with reasons.
-(4) Nothing in this section limits the Authority's powers under section 255A(7) to cancel an establishment's registration.
-(5) Cancellation under this section takes effect on the date specified by the Authority in the notice given under subsection (3) (the date of cancellation).
-(6) If the registration of an establishment is cancelled under this section, then from the date of cancellation—
-  (a) all approvals to provide courses of study or training granted to the establishment under section 258 are withdrawn, and no notice to the governing body of the establishment is required to be given under subsection (8) or (9A) of that section; and
-  (b) all accreditations to provide approved courses of study or training granted to the establishment under section 259 are withdrawn, and no notice to the governing body of the establishment is required to be given under subsection (5) or (7) of that section.
+**Information sharing with other government departments**
 
-### 238 Notice
-[Repealed]
+### 235E Private training establishment to notify immigration officer if student withdraws from programme or training scheme
+(1) A private training establishment must ensure that, within 7 days of the withdrawal of any student from a programme or training scheme at the establishment, an immigration officer (within the meaning of section 4 of the Immigration Act 2009) is given written notice of the name of the student and the programme or training scheme, and the day on which the student withdrew.
+(2) Subsection (1) does not apply to a student if the establishment is satisfied on reasonable grounds that the student is a domestic student.
 
-### 238A Grants to private training establishments
-[Repealed]
-
-### 238B Disclosure of enrolment information by private training establishments
+### 235F Disclosure of enrolment information by private training establishments
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
   - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964, or an independent youth benefit under section 60F of that Act
   - **chief executive** means the chief executive of the department
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act
   - **specified period** means any period specified in a notice under subsection (3)
-  - **student loan** and have the same meaning as they have in section 2 of the Student Loan Scheme Act 1992.
+  - **student loan** and have the same meanings as they have in section 2(1) of the Student Loan Scheme Act 1992.
 (2) The purpose of this section is to facilitate the disclosure of information by governing bodies of private training establishments to the department, in order to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(3) For the purpose of this section, the chief executive may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution (or, where they are unable to agree, in accordance with arrangements under that Act settled by the Privacy Commissioner appointed under the Privacy Act 1993), by notice in writing or electronically require the institution to supply all or any of the information set out in subsection (4), in respect of people—
+(3) For the purpose of this section, the chief executive may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution (or, where they are unable to agree, in accordance with arrangements under that Act settled by the Privacy Commissioner appointed under the Privacy Act 1993), by notice in writing, or electronically, require the institution to supply all or any of the information set out in subsection (4), in respect of people—
   (a) who are (or were in any specified period) enrolled as students at the private training establishment; or
   (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the private training establishment by the chief executive, together with the notice.
 (4) A notice under subsection (3) may require the private training establishment to supply the information specified in the notice either immediately or at specified times during the academic year, or both, and in the latter case may require the private training establishment to supply at those times only details of any changes to the information the private training establishment has previously supplied under this section.
@@ -5805,21 +6010,68 @@ A registered private training establishment that receives funding under section 
 (6) The details referred to in subsection (3) are—
   (a) their—
     (i) full names and addresses; and
-    (ii) their dates of birth:
+    (ii) dates of birth:
   (b) their identification numbers (being either or both of the identification numbers referred to in subsection (5)):
-  (c) details of their recognised courses of study or parts of the courses in which they are so enrolled, and details of the fees for those courses:
-  (d) if, during the specified period, they enrolled for any such course or ceased to be so enrolled or ceased to be enrolled as a student, the details of each such event and the respective dates on which the event occurred:
-  (e) details of their academic performance in any such course:
+  (c) details of the education or training in which they are so enrolled, and details of the fees for that education or training:
+  (d) if, during the specified period, they enrolled for any such education or training or ceased to be so enrolled or ceased to be enrolled as a student, the details of each such event and the respective dates on which the event occurred:
+  (e) details of their academic performance in any such education or training:
   (f) details of their citizenship or residency status in New Zealand:
   (g) details of any allowances granted to them by the private training establishment on behalf of the Secretary in any academic year before the 1999 academic year:
-  (h) details reasonably required by the chief executive for the administration of the student loan scheme.
+  (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the provision or determination of a benefit or allowance.
 (7) As soon as possible after the time or times specified in a requirement under subsection (3), a private training establishment must supply the information required to the chief executive or any employee or agent of the department authorised by the chief executive to receive such information.
 (8) Information supplied by a private training establishment under subsection (7) must be in a form previously agreed between the private training establishment and the chief executive under the Privacy Act 1993 (or, where they are unable to agree, in a form settled by the Privacy Commissioner appointed under the Privacy Act 1993), and may include coded information.
-(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of the Education Act 1989, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
+(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of this Act, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
+
+### 236 Offences concerning information requests
+(1) A private training establishment that intentionally fails or refuses to comply with section 235F(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (3).
+(2) A private training establishment commits an offence and is liable on summary conviction to the penalty specified in subsection (3) if, in response to any requirement to supply information under section 235F(7), the establishment intentionally—
+  (a) makes a false or misleading statement; or
+  (b) makes a statement from which any material matter has been omitted; or
+  (c) provides any false or misleading paper, document, or record; or
+  (d) provides a paper, document, or record from which any material matter has been omitted.
+(3) The maximum penalty for an offence against subsection (1) or (2) is a fine not exceeding $5,000, and, if the offence is a continuing one, a fine not exceeding $500 for each day the offence continues.
+
+### 236AA Conditions on registration
+[Repealed]
+
+**Student records**
+
+### 236A Duties of private training establishments to maintain student records
+(1) Every private training establishment must—
+  (a) keep accurate enrolment and academic records for each student enrolled in a programme or training scheme provided by the establishment; and
+  (b) comply with rules made under section 253(1)﻿(n) in respect of those records; and
+  (c) ensure that the enrolment records required to be kept under this section are up to date; and
+  (d) ensure that the enrolment records are readily available, upon request, to—
+    (i) the Authority:
+    (ii) Immigration New Zealand:
+    (iii) the administrator of the code (within the meaning of Part 18A):
+    (iv) the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act:
+    (v) Public Trust, if it is approved as an independent trustee for the private training establishment.
+(2) If a private training establishment closes, the establishment must, in respect of each student, forward his or her records kept under this section to the student's new education provider, or to the student if there is no new education provider.
+
+### 236AB Refund requirements set by Gazette notice
+[Repealed]
+
+### 236B Establishment to notify immigration officer if student withdraws from course
+[Repealed]
+
+### 236C Fees for domestic students must not exceed maximums set in conditions of funding
+[Repealed]
+
+### 237 Cancellation of registration
+[Repealed]
+
+### 238 Notice
+[Repealed]
+
+### 238A Grants to private training establishments
+[Repealed]
+
+### 238B Disclosure of enrolment information by private training establishments
+[Repealed]
 
 ### 238C Offences concerning information requests
-(1) A private training establishment that intentionally fails or refuses to comply with section 238B(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (2).
-(2) The maximum penalty for an offence against subsection (1) is a fine not exceeding $5,000, and, where the offence is a continuing one, a fine not exceeding $500 for each day the offence continues.
+[Repealed]
 
 ## Part 18A — International students
 
@@ -5831,7 +6083,7 @@ In this Part, unless the context otherwise requires,—
   - **international student** means a person who—
     (a)
     (b) is enrolled by a provider; and
-    (c) in relation to the provider, is a foreign student as defined in section 2 or section 159 (whichever is applicable)
+    (c) in relation to a provider, is an international student as defined in section 2(1)
   - **provider** means—
     (a) a registered school; or
     (b) an institution as defined in section 159; or
@@ -5848,6 +6100,11 @@ In this Part, unless the context otherwise requires,—
 (3) A provider that is suspended under section 238G may continue to have international students enrolled and may provide educational instruction to only those students to the extent permitted by the review panel under that section.
 (4) Until 1 July 2003, nothing in subsection (1) or subsection (2) applies to providers who enrol international students only on courses of less than 3 months' duration (as that term is defined in section 232(4)).
 
+### 238EA Obligation on provider to enrol person as international student
+A provider must enrol a person as an international student if the person is not a domestic student and the provider—
+  (a) provides the person with educational instruction for more than 2 weeks; or
+  (b) accepts tuition fees from the person.
+
 ### 238F Code
 (1) The Minister may publish a code of practice that provides a framework for the pastoral care of international students.
 (2) Without limiting subsection (1), the code may include provisions for all or any of the following purposes:
@@ -5855,7 +6112,7 @@ In this Part, unless the context otherwise requires,—
   (b) setting out requirements relating to the manner in which providers may assess and recruit prospective international students, including the information to be given by providers about courses, procedures, and costs:
   (c) providing for the welfare of international students, including the support services to be provided by a provider and any reporting obligations:
   (d) requiring providers to review their own performance to ensure compliance with the code, and providing for the designation or appointment of an independent person or organisation to monitor the performance of providers to ensure compliance with the code:
-  (e) establishing the IEAA to investigate and determine complaints from international students about alleged breaches of the code, after all internal grievance procedures have been exhausted, and to refer appropriate cases to the review panel; setting out rules of procedure or empowering the IEAA to regulate its own procedure; and, subject to section 238G, specifying the remedies and sanctions it may impose:
+  (e) establishing the IEAA to investigate and determine complaints from international students or their authorised representatives about alleged breaches of the code, after all internal grievance procedures have been exhausted, to investigate and determine complaints from the administrator about alleged breaches of the code, and to refer appropriate cases to the review panel; setting out rules of procedure or empowering the IEAA to regulate its own procedure; and, subject to section 238G, specifying the remedies and sanctions it may impose:
   (f) establishing the review panel to determine whether a signatory should be removed or suspended as a signatory to the code; setting out rules of procedure or empowering the review panel to regulate its own procedure; and, subject to section 238G, specifying the remedies and sanctions it may impose:
   (g) despite everything in the Public Finance Act 1989, requiring providers to indemnify the administrator:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to this Part and for its due administration.
@@ -5882,12 +6139,12 @@ In this Part, unless the context otherwise requires,—
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing an export education levy on providers who receive tuition fees from international students enrolled with them.
 (2) Without limiting subsection (1), regulations made under this section must—
   (a) prescribe the amount, a method or methods for calculating the amount, or both, of export education levy payable by individual providers, and may prescribe different amounts, or different methods of calculating the amounts, payable by different classes of provider; and
-  (b) prescribe when the levy, or any part of the levy, is payable, and the period to which it, or any part of it, relates; and
+  (b) prescribe when the levy, or any part of the levy, is payable; and
   (c) designate the agency that will administer the levy and, if that agency is the Ministry, the regulations may authorise the Ministry to delegate all or specified aspects of the levy's collection and use to another body; and
   (d) require that a provider supplies, on request by the agency responsible for the administration of the levy, information on student numbers or any other matter that is necessary to determine or verify the amount of levy payable by the provider.
   (e)
 (3) The Minister must consult with providers before recommending that regulations be made under subsection (1) that prescribe or amend an export education levy.
-(4) No regulations may be made under this section that impose a levy in respect of tuition fees received in respect of any period before 1 January 2003.
+(4)
 
 ### 238I Purpose and administration of export education levy
 (1) The purposes to which the funds of the levy may be put are as follows:
@@ -5944,7 +6201,8 @@ In this Part and Schedule 14, unless the context otherwise requires,—
 ### 241 Functions of Committee
 The functions of the Committee are—
   (a) to set up inter-university course approval and moderation procedures:
-  (b) to exercise in relation to universities under section 260 the powers of the Qualifications Authority under sections 255A, 258, 258A, 259, and 259A:
+  (b) to exercise in relation to universities in accordance with section 253A the powers of the Qualifications Authority under sections 249 to 251C, 254A(2)﻿(b), and 255:
+  (ba) to list university qualifications on the Qualifications Framework:
   (c) to grant scholarships to students enrolled or proposing to enrol at universities out of money under its control on such terms as the Committee considers appropriate:
   (d) where another body has power to grant such scholarships—
     (i) to make recommendations to the person or authority having power to make appointments to that body as to the persons who should be appointed:
@@ -5984,205 +6242,143 @@ All statutes, regulations, rulings, and decisions, and all other acts of authori
 
 ## Part 20 — New Zealand Qualifications Authority
 
-### 246 Definitions
-In this Part and Schedule 15, unless the context otherwise requires,—
+**Interpretation**
+
+### 246 Interpretation
+In this Part, unless the context otherwise requires,—
   - **Authority** means the Qualifications Authority
+  - **chief executive** means the chief executive of the Authority
   - **member** means a member of the Authority
   - **relevant school** means—
     (a) a secondary school (as that term is defined in section 2(1)); or
     (b) a composite school (as that term is defined in section 2(1)); or
     (c) a school that is registered under section 35A, but does not include any school registered under that section only as a primary school (as that term is defined in section 2(1)); or
-    (d) a special school (as that term is defined in section 2(2), except that a special school is not deemed to be a primary school for the purposes of this Part, despite the proviso to section 98(1) of the Education Act 1964).
+    (d) a special school (as that term is defined in section 2(2), except that a special school is not deemed to be a primary school for the purposes of this Part, despite the proviso to section 98(1) of the Education Act 1964)
+  - **rules** means rules made under section 253.
 
-### 247 Object
-The object of the provisions of this Act relating to the Authority is to establish a consistent approach to the recognition of qualifications in academic and vocational areas.
+**Functions of Qualifications Authority**
 
-### 248 Establishment of Authority
-(1) A New Zealand Qualifications Authority is established.
-(2) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
-(4) The members of the Authority are the board for the purposes of the Crown Entities Act 2004.
-
-### 249 Constitution
-(1) The Authority shall consist of not fewer than 8 nor more than 10 members.
-(2)
-(3) In appointing members, the Minister shall consult such persons, authorities, and bodies as the Minister considers appropriate and shall have regard to the interests of industry, the professions, and the authorities and bodies that are respectively responsible for providing compulsory and post-compulsory education.
-(3A) Subsection (3) does not limit section 29 of the Crown Entities Act 2004.
-(4)
-(5)
-(6)
-
-### 250 Committees
-(1)
-(2) If the Minister makes any recommendations to the Authority as to the committees to be established by the Authority or as to the constitution of any such committees, the Authority shall consider the recommendations.
-
-### 251 Delegation by Authority
-(1) The Authority must not delegate the power to appoint a chief executive.
-(1A) Subsection (1) applies despite section 73 of the Crown Entities Act 2004.
-(2)
-(3)
-(4)
-(5)
-(6) A delegation under section 73 of the Crown Entities Act 2004 to the chief executive shall,—
-  (a)
-  (b) if there is no chief executive for the time being, or if the chief executive is absent from duty, continue to have effect as if made to the person for the time being acting in place of the chief executive.
-(7)
-(8)
-(9)
-(10)
-
-### 252 Delegation by chief executive
-[Repealed]
-
-### 253 Functions of Authority
+### 246A Functions of Authority
 (1) The Authority has the following functions:
-  (a) to oversee the setting of standards for qualifications in relevant schools and in post-school education and training:
-  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in post-school education and training, either generally or in relation to a particular institution or a particular course of study or training:
-  (c) to develop a framework for national qualifications in relevant schools and in post-school education and training in which—
-    (i) all qualifications have a purpose and a relationship to each other that students and the public can understand; and
-    (ii) there is a flexible system for the gaining of qualifications, with recognition of competency already achieved:
-  (ca) subject to subsection (2), to establish policies and criteria for the registration of private training establishments:
-  (d) subject to subsection (2), to establish policies and criteria for the approval of courses of study and training at institutions:
-  (e) subject to subsection (2), to establish policies and criteria that will enable institutions to be granted accreditation to provide courses of study and training:
-  (ea) to establish policies and criteria relating to the quality assurance of providers of adult and community education:
-  (f) to ensure there are mechanisms in place to guarantee that different institutions providing approved nationally recognised courses have assessment procedures that are fair, equitable, consistent, and in keeping with the required standard:
+  (a) to oversee the setting of standards for qualifications in relevant schools and in tertiary education:
+  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in tertiary education, either generally or in relation to a particular organisation (within the meaning of section 159B) or a particular programme or training scheme:
+  (c) to maintain mechanisms for the recognition of learning (for example, the recognition of learning through qualifications gained and standards met):
+  (d) to maintain the Qualifications Framework and Directory of Assessment Standards:
+  (e) to make rules, not inconsistent with this Act, under any provision of this Part that empowers the Authority to make rules:
+  (f) to ensure there are mechanisms in place to guarantee that secondary schools and tertiary education providers that provide programmes or training schemes that, in the view of the Authority, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
   (g) to assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
-    (ii) approving programmes and courses of study:
-    (iii) accrediting providers to deliver programmes and courses of study:
+    (ii) approving programmes and training schemes:
+    (iii) granting accreditations for the provision of approved programmes:
     (iv) assisting governments and agencies to develop and conduct examinations, and to develop and confer awards:
-  (h) to maintain effective liaison with overseas certifying and validating bodies, in order to recognise overseas educational and vocational qualifications in New Zealand and to achieve recognition of New Zealand educational and vocational qualifications overseas:
+  (h) to maintain effective liaison with overseas certifying and validating bodies, in order to recognise overseas educational and vocational qualifications in New Zealand and to achieve recognition overseas of New Zealand educational and vocational qualifications:
   (i) to ensure that post-school educational and vocational qualifications maintain international comparability:
-  (j) to promote and monitor inter-institutional course approval and moderation procedures:
-  (k) such other functions as are conferred on it by this Act or any other enactment:
-  (l) to consult such persons, authorities, and bodies as it considers appropriate for the purposes of the performance of any of its functions.
-(1A) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
-(2) Before establishing policies or criteria under subsection (1)﻿(ca), (d), (e), or (ea) in respect of a class of institutions, the Authority shall—and may consult such other bodies as the Authority considers appropriate.
-  (a) in the case of criteria or policies in respect of universities, consult the Vice-Chancellors Committee; and
-  (ab) in the case of criteria or policies in respect of bodies that are providing adult and community education, consult—
-    (i) those bodies; or
-    (ii) a body that represents the interests of those bodies; and
-  (b) in the case of criteria or policies in respect of any other class of institutions in respect of which there is a body that has the function of setting up course approval and moderation procedures, consult that body;—
-(3) The Authority shall cause the criteria established pursuant to subsection (1)﻿(ca), (d), (e), and (ea) to be published in the Gazette.
+  (j) to promote and monitor the delivery of inter-institutional programmes and training schemes:
+  (k) any other functions that are conferred on it by this Act or any other enactment.
+(2) The Authority may consult any persons, authorities, and bodies as it considers appropriate for the purposes of performing any of its functions.
 
-### 254 General powers of Authority
-(1)
-(2)
-(3) The Authority shall not consent to the granting of an award that is described as a degree unless it is satisfied that the award recognises the completion of a course of advanced learning that—
-  (a) is taught mainly by people engaged in research; and
-  (b) emphasises general principles and basic knowledge as the basis for self-directed work and learning.
-(4) The Authority shall not withhold its consent to the use of any particular term or the granting of an award that, or whose name or description, includes any particular word, unless satisfied on reasonable grounds that it should do so.
-(5) The Authority may delegate its power to consent to the award of a qualification described as a degree to any body referred to in section 260(2) (other than the Vice-Chancellors Committee); and if it does so,—
-  (a) subsections (3) and (4), and section 264, apply to every body to whom that power is delegated as if it were the Authority; and
-  (b) the Authority may revoke any such delegation.
-
-### 254A Child care allowances
-A member may be paid any allowances in respect of child care that the Authority determines.
-
-### 254B Chief executive
-The Authority must from time to time appoint a chief executive of the Authority, on terms and conditions agreed by the Authority and the person appointed in accordance with section 117 of the Crown Entities Act 2004.
-
-### 254C Membership of Government Superannuation Fund
-Employment in the service of the Authority is Government service within the meaning of the Government Superannuation Fund Act 1956.
-
-### 254D Employees transferring from other government employment
-Every person who,—on that commencement becomes an employee of the Qualifications Authority.
-  (a) before the commencement of Schedule 15 and while employed in the Public Service or the education service, or employed by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards, received from the Secretary written notice that the person is designated to become an employee of the Qualifications Authority; and
-  (b) immediately before that commencement was still employed in the Public Service or the education service or by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards,—
-
-### 254E Taxation
-(1) The Authority is deemed to be the agent of the Crown in respect of its property and the performance of its functions and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Subsection (1) does not exempt the Authority from—
-  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) any obligation imposed by that Act.
-
-### 255 Power to obtain information
-(1AA) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
-(1) Subject to subsection (2), the chief executive of the Authority or a person authorised by the chief executive of the Authority may—
-  (a) by written notice to the Secretary, require the Secretary, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to institutions, being information or documents in the possession of the Secretary, as are specified in the notice; and
-  (b) by written notice to the chief executive of an institution, require the chief executive, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to the institution as are specified in the notice.
-(2) The powers conferred by subsection (1) may be exercised only where the obtaining of the information or documents is necessary for the purposes of the performance of the functions of the Authority.
-
-### 255A Compliance notices
-(1) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
-(2) The Authority may issue a compliance notice to an institution requiring the institution to do, or refrain from doing, a particular thing in relation to the institution's registration (in the case of an institution that is a registered establishment) or to the institution's course approvals or accreditations.
-(3) Every compliance notice must be in writing and must—
-  (a) give the date on which it is issued; and
-  (b) specify a time on or before which, or a period within which, the institution must comply with the notice; and
-  (c) state the consequences or possible consequences of non-compliance with the notice.
-(4) The Authority may publish any compliance notice, or a summary of a compliance notice, in a manner designed to give public notice of the compliance notice.
-(5) An institution that receives a compliance notice must comply with it within the time or during the period specified in the notice.
-(6) The Authority may, before the expiry of the time or period referred to in subsection (3)﻿(b), extend that time or period, in which case the extended time or period is for all purposes the time or period within or during which the notice must be complied with.
-(7) If the institution does not comply with the compliance notice, the Authority may immediately,—
-  (a) if the notice was issued to a registered establishment and related to a registration matter, cancel the registration of the establishment, or impose new, or amend or revoke any existing, conditions on the establishment's registration; or
-  (b) if the notice related to a course approval, withdraw any course approvals held by the institution, or impose new, or amend or revoke any existing, conditions on any course approval held by the institution; or
-  (c) if the notice related to an accreditation, withdraw any accreditations held by the institution, or impose new, or amend or revoke any existing, conditions on any accreditation.
-(8) The Authority may not do any of the things specified in subsection (7) until the later of—
-  (a) 10 days from the date of issue of the notice; and
-  (b) the expiry of the time or period referred to in subsection (3)﻿(b).
-
-### 256 Research
-The Authority has power to carry out such research activities as it considers relevant to the performance of its functions.
-
-### 257 Entrance to universities
-(1) In addition to its other functions, the Authority has—
-  (a) in relation to the rights of people who have not attained the age of 20 years to obtain entrance to universities, the function of establishing and maintaining by such means as it considers appropriate a common educational standard as a prerequisite for entrance to a university, other than provisional entrance and entrance ad eundem statum; and
-  (b) the function of consulting with the universities as to the criteria to be established for provisional entrance, or entrance ad eundem statum, to universities.
+### 247 Certain functions of Authority in relation to entrance to universities
+(1) In addition to its other functions, the Authority has,—
+  (a) in relation to the rights of people who have not attained the age of 20 years to obtain entrance to universities, the function of establishing and maintaining by any means that it considers appropriate a common educational standard as a prerequisite for entrance to a university, other than provisional entrance and entrance ad eundem statum; and
+  (b) the function of consulting the universities as to the criteria to be established for provisional entrance, or entrance ad eundem statum, to universities.
 (2) A person who is refused provisional entrance or entrance ad eundem statum to a university on grounds relating to the person's educational qualifications may appeal to the Authority against the refusal.
-(3) The Authority shall consider the appeal and—
-  (a) if it is satisfied that the person meets the criteria established by the universities, as mentioned in subsection (1)﻿(b), shall allow the appeal and direct the council of the university concerned to admit the person as a student and, where appropriate, to grant the person such status as the Authority determines; or
-  (b) if it is not so satisfied, shall dismiss the appeal.
-(4) The council of a university shall comply with a direction given to it by the Authority under subsection (3)﻿(a).
-(5) Before establishing standards for entrance to universities, the Authority shall consult the council of each university and the Vice-Chancellors Committee.
+(3) The Authority must consider the appeal and,—
+  (a) if it is satisfied that the person meets the criteria established by the universities, as mentioned in subsection (1)﻿(b), must allow the appeal and direct the council of the university concerned to admit the person as a student and, where appropriate, to grant the person such status as the Authority determines; or
+  (b) if it is not so satisfied, must dismiss the appeal.
+(4) The council of a university must comply with a direction given to it by the Authority under subsection (3)﻿(a).
+(5) Before establishing standards for entrance to universities, the Authority must consult the council of each university and the Vice-Chancellors Committee.
 
-### 258 Approval of courses
-(1) This section has effect subject to section 260.
-(1A) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
-(2) An institution that proposes to provide a course of study or training may apply to the Authority for the grant of approval to the course.
-(3) The Authority may grant or refuse approval to the course.
-(4) In deciding whether to grant or refuse approval to a course the Authority is required only to consider the course as a whole.
-(5) After a course has been approved, the course does not cease to be approved merely because of changes to the content of the course but nothing in this subsection affects the duties and powers of the Authority under subsections (8) and (9).
-(6) Where—the Authority shall grant approval to the course.
-  (a) there are inter-institutional procedures for the assessment and approval of courses of study or training; and
-  (b) the procedures for assessment and approval conform to the criteria established under section 253(1)﻿(d); and
-  (c) an application is made under subsection (2) in respect of a course that has been assessed and approved in accordance with the appropriate procedures,—
-(7) Approval may be granted to a course without limitation as to time or for a specified period.
-(8) If the Authority considers that there may be grounds for withdrawing an approval for a course from an institution, the Authority must give written notice to the governing body of the institution—
-  (a) setting out the grounds on which the Authority is considering withdrawing the approval; and
-  (b) giving the governing body of the institution a reasonable period within which to make submissions on the matter.
-(9) After that period and having considered any submission made by the governing body, the Authority may, on reasonable grounds, withdraw the approval.
-(9A) If the Authority withdraws an approval under this section, it must give notice of the withdrawal, with reasons, to the institution concerned.
-(9B) Nothing in this section limits the Authority's power to withdraw an approval under section 255A(7).
-(10) The Authority may, on its own initiative or on application made to it, grant approval to a course of study or training as a nationally recognised course and withdraw any approval so granted, and may impose conditions on any such grant.
+**New Zealand Qualifications Framework**
 
-### 258A Conditions on course approvals
-(1AA) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
-(1) Every course approval is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)﻿(d) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
-(2) When approving a course, the Authority may impose conditions on the approval that are specific to the approval for that particular course.
-(3) The Authority may at any time, with the agreement of the institution that holds the course approval, impose new conditions on the approval and may amend or revoke any existing conditions.
-(4) The Authority may, without the agreement of the institution, impose conditions on a course approval, or amend or revoke any existing conditions, but only if the Authority has first—
+### 248 New Zealand Qualifications Framework
+(1) The New Zealand Qualifications Framework—
+  (a) consists of all qualifications that have been approved and listed by the Authority in accordance with the rules made under section 253; and
+  (b) includes the rules relating to the Qualifications Framework made under that section.
+(2) The Authority—
+  (a) must list on the Qualifications Framework all qualifications that it has approved in accordance with the rules:
+  (b) may, in accordance with the rules, amend, add to, remove, or alter the status of any qualification on the framework.
+(3) If a qualification is removed from the Qualifications Framework,—
+  (a) any programme approval held by an institution in respect of the qualification lapses; and
+  (b) any accreditation granted to an institution in respect of the qualification lapses.
+(4) To avoid doubt, qualifications includes university qualifications.
+
+**Directory of Assessment Standards**
+
+### 248A Directory of Assessment Standards
+(1) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
+(2) The Directory of Assessment Standards consists of all standards approved by the Authority for use by institutions as standards for the assessment of students.
+(3) An application to have standards listed on the Directory—
+  (a) may only be made by an approved standard-setting body; and
+  (b) must be made in accordance with the rules.
+
+### 248B Standard-setting bodies
+(1) An approved standard-setting body includes—
+  (a) an industry training organisation within the meaning of the Industry Training Act 1992; and
+  (b) the Ministry of Education; and
+  (c) the Authority; and
+  (d) any other body approved by the Authority under subsection (3).
+(2) A body may apply, in accordance with the rules, to the Authority for approval as a standard-setting body.
+(3) In deciding whether to approve a standard-setting body, the Authority must apply the criteria set out in the rules, and must be satisfied that the applicant is able to—
+  (a) draft standards that meet the requirements in the rules; and
+  (b) manage consistency across New Zealand in learning outcomes in the relevant subject areas; and
+  (c) carry out national moderation of assessment of students.
+
+**Approval of programmes**
+
+### 249 Approval of programmes
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) An institution may apply to the Authority for approval of a programme.
+(3) The Authority—
+  (a) may grant or refuse to grant approval of the programme to the applicant; and
+  (b) is required only to consider the programme as a whole; and
+  (c) must give the applicant written notice of its decision to grant or refuse approval; and
+  (d) may grant approval without limitation as to time or for a specified period.
+(4) If 2 or more institutions have prepared a programme together, they may make a joint application for approval of the programme.
+(5) If the Authority considers that there may be grounds for withdrawing approval of a programme,—
+  (a) the Authority must give written notice to the institution concerned stating the grounds on which the Authority is considering withdrawing approval; and
+  (b) the Authority must give the institution a reasonable time (as specified in the notice) to make submissions on the matter; and
+  (c) after considering those submissions, the Authority—
+    (i) may withdraw approval if it considers there are reasonable grounds to do so; and
+    (ii) must notify the institution of the withdrawal (if any) and the reasons for it.
+(6) The Authority may withdraw approval of a programme at the written request of the institution concerned.
+(7) This section—
+  (a) is subject to section 253A:
+  (b) does not limit the Authority's power to withdraw an approval under section 255(7):
+  (c) does not apply to secondary school qualifications.
+
+### 249A Conditions on programme approvals
+(1) Every programme approval is subject to the condition that the institution will at all times comply with the relevant rules, except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+(2) When approving a programme, the Authority may impose conditions on the approval that are specific to the programme or to a class of programmes.
+(3) The Authority may at any time, with the agreement of the institution that holds the programme approval,—
+  (a) impose new conditions on the approval; or
+  (b) amend or revoke any existing conditions.
+(4) The Authority may, without the agreement of the institution, impose conditions on a programme approval, or amend or revoke any existing conditions, but only if the Authority has first—
   (a) given written notice to the institution of its intentions; and
   (b) given the institution a reasonable opportunity to respond to the notice; and
   (c) considered any submissions made by the institution in response to the notice.
 (5) When conditions are imposed, amended, or revoked, the Authority must give notice in writing to the institution that holds the approval of the new, amended, or revoked conditions.
 
-### 259 Accreditation to provide approved courses
-(1) This section has effect subject to section 260.
-(1A) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
-(2) An institution that proposes to provide an approved course of study or training may apply to the Authority for the grant of accreditation to provide that course.
-(3) The Authority may grant or refuse accreditation to an institution to provide an approved course.
-(4) Accreditation may be granted without limitation as to time or for a specified period.
-(5) If the Authority considers that there may be grounds for withdrawing an accreditation from an institution, the Authority must give written notice to the governing body of the institution—
-  (a) setting out the grounds on which the Authority is considering withdrawing the approval; and
-  (b) giving the governing body of the institution a reasonable period within which to make submissions on the matter.
-(6) After that period and having considered any submission made by the governing body, the Authority may, on reasonable grounds, withdraw the accreditation.
-(7) If the Authority withdraws an accreditation under this section, it must give notice of the withdrawal, with reasons, to the institution concerned.
-(8) Nothing in this section limits the Authority's power to withdraw an accreditation under section 255A(7).
+**Accreditation to provide approved programmes**
 
-### 259A Conditions on accreditation to provide approved courses
-(1AA) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
-(1) Every accreditation is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)﻿(e) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
-(2) When granting accreditation to an institution to provide an approved course of study or training, the Authority may impose conditions on the accreditation that are specific to the accreditation.
+### 250 Accreditation to provide approved programmes
+(1) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
+(2) An institution must not offer or provide all or part of an approved programme unless the institution is granted accreditation to provide the programme or part of the programme.
+(3) An institution may apply to the Authority for a grant of accreditation to provide all or part of a programme.
+(4) If the programme for which accreditation is sought incorporates standards from the Directory of Assessment Standards, the applicant must obtain consent to assess against those standards.
+(5) The Authority—
+  (a) may grant or refuse to grant accreditation to the institution to provide all or part of the programme; and
+  (b) must give the institution written notice of its decision to grant or refuse accreditation; and
+  (c) may grant accreditation without limitation as to time or for a specified period.
+(6) This section—
+  (a) does not apply to any secondary school qualification or class of secondary school qualification that the Authority exempts, by notice in the Gazette, from the application of this section:
+  (b) does not apply to any workplace training components of any programmes:
+  (c) is subject to section 253A.
+
+### 250A Conditions on accreditation
+(1) Every accreditation is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(d) and (e), except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
+(2) When granting accreditation to an institution to provide an approved programme, the Authority may impose conditions on the accreditation that are—
+  (a) specific to the programme or a particular class of programmes; or
+  (b) specific to the institution or a particular class of institutions.
 (3) The Authority may at any time, with the agreement of the accredited institution, impose new conditions on the accreditation and may amend or revoke any existing conditions.
 (4) The Authority may, without the agreement of the institution, impose conditions on an accreditation, or amend or revoke any existing conditions, but only if the Authority has first—
   (a) given written notice to the institution of its intentions; and
@@ -6190,96 +6386,424 @@ The Authority has power to carry out such research activities as it considers re
   (c) considered any submissions made by the institution in response to the notice.
 (5) When conditions are imposed, amended, or revoked, the Authority must give notice in writing to the accredited institution of the new, amended, or revoked conditions.
 
-### 260 Exercise of certain powers of Authority
-(1) The powers of the Authority under sections 255A, 258, 258A, 259, and 259A in so far as they apply in relation to universities are, subject to this section, exercisable by the Vice-Chancellors Committee in lieu of the Authority, and references in those sections to the Authority shall, in the application of those sections to universities, be read as references to that Committee.
-(2) Where there is a body established by institutions, or by a class of institutions, other than universities for the purpose, or for purposes that include the purpose, of exercising the powers of the Authority under sections 255A, 258, 258A, 259, and 259A,—
-  (a) the Authority may by writing delegate to that body the powers of the Authority under sections 255A, 258, 258A, 259, and 259A in relation to those institutions or institutions of that class, as the case may be; and
-  (b) while the delegation is in force, references in sections 255A, 258, 258A, 259, and 259A to the Authority shall, in the application of those sections to the institutions or class of institutions to which the delegation relates, be read as references to that body.
-(3) A body exercising powers pursuant to subsection (1) or subsection (2) shall, in exercising those powers, apply the criteria established by the Authority under paragraphs (d) and (e) of section 253(1).
-(4) If the Authority is of the opinion on reasonable grounds that a body exercising powers pursuant to subsection (1) or subsection (2) may not be applying the criteria referred to in subsection (3), the Authority may give written notice to the body—and shall consider any views expressed by the body.
-  (a) stating that it is of that opinion; and
-  (b) setting out the reasons why the Authority is of that opinion; and
-  (c) giving the body a reasonable opportunity to consult the Authority as to the way in which the powers have been exercised by the body,—
-(5) If, after it has complied with subsection (4) in respect of a body, the Authority is satisfied that the body is not applying the criteria referred to in subsection (3), the Authority may give a written direction to the body to apply those criteria.
-(6) If, after the Authority has given a direction to a body under subsection (5), the Authority is satisfied that the body has failed to comply with the direction, the Authority shall submit a written report on the matter to the Minister.
-(7) The Minister shall lay the report before the House of Representatives as soon as practicable after the report is received by the Minister.
-(8) If, in the case of a report relating to a body other than the Vice-Chancellors Committee, the Authority is satisfied after the end of a reasonable period after the report is laid before the House of Representatives that the body is still not complying with the direction given to it under subsection (5), the Authority may, by notice in writing to the body, revoke the delegation given to the body under subsection (2).
-(9) A delegation under subsection (2) continues in force unless and until it is revoked under subsection (8).
-(10) A delegation under subsection (2) to a body that is not a corporation is a delegation to the persons from time to time constituting the body.
-(11) The Vice-Chancellors Committee or a body to which powers are delegated under subsection (2) may charge fees to an institution for the grant of any approval or accreditation.
+### 250B Lapse of accreditation
+(1) An accreditation granted to an institution lapses when—
+  (a) 12 months have passed since accreditation was granted and the institution has not during that time provided all or part of the programme to which the accreditation relates; or
+  (b) 12 months have passed since the institution last provided all or part of the programme to which the accreditation relates; or
+  (c) the programme to which the accreditation relates ceases to be an approved programme; or
+  (d) the status of the qualification to which the accreditation relates is discontinued on the Qualifications Framework.
+(2) Despite subsection (1), the Authority may, if it considers that the circumstances so require, extend the time specified in subsection (1)﻿(a) or (b).
+(3) The Authority must give written notice of the lapse of an accreditation to the institution concerned.
 
-### 261 Only accredited institutions to provide approved courses
-An institution (as defined in section 259(1A)) does not have power to provide an approved course of study or training unless the institution is accredited to provide that course.
+### 250C Withdrawal of accreditation
+(1) If the Authority considers that there may be grounds for withdrawing an accreditation from an institution, the Authority must give written notice to the institution—
+  (a) setting out the grounds on which the Authority is considering withdrawing the approval; and
+  (b) giving the institution a reasonable period to make submissions on the matter.
+(2) After that period, and having considered any submission made by the institution, the Authority may, on any reasonable grounds, withdraw the accreditation.
+(3) If the Authority withdraws an accreditation under subsection (2), it must give notice of the withdrawal, with reasons, to the institution concerned.
+(4) The Authority may withdraw an accreditation at the written request of the institution concerned.
+(5) This section does not limit the Authority's power to withdraw an accreditation under section 255(7).
 
-### 262 Notice
-(1) The Authority, the Vice-Chancellors Committee, or a body to which powers have been delegated by the Authority under section 260(2), as the case requires, shall give to an institution or private training establishment written notice of the grant, refusal or withdrawal of approval of a course of study or training provided or to be provided at the institution or establishment, or of accreditation of the institution or establishment to provide an approved course of study or training, as soon as practicable after the decision to grant, refuse, or withdraw the approval or accreditation is made.
-(2) A notice of the refusal or withdrawal of approval or accreditation shall set out the reasons for the refusal or withdrawal.
+**Training schemes and consents to assess against standards**
 
-### 263 Awards for approved nationally recognised courses
-When an institution (as defined in section 259(1A)) provides an approved nationally recognised course that the institution is accredited to provide, the institution, or the Authority, may, subject to this Act, grant an award to a person who has completed the course stating that the course was an approved nationally recognised course.
+### 251 Application for training scheme approval
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) An institution may apply to the Authority for a grant of approval to provide a training scheme under this section.
+(3) An industry training organisation may apply jointly with an institution for a grant of approval to provide a training scheme if the scheme will be provided by the institution on behalf of the organisation.
+(4) The Authority—
+  (a) may grant or refuse to grant approval to the training scheme; and
+  (b) must give the institution and any joint applicant written notice of its decision to grant or refuse approval; and
+  (c) may grant approval without limitation as to time or for a specified period.
+(5) If the training scheme incorporates assessment standards listed on the Directory of Assessment Standards, the Authority must not grant training scheme approval until the institution has obtained consent to assess against those standards.
+(6) This section does not apply to—
+  (a) any secondary school qualification or class of secondary school qualification that the Authority exempts, by notice in the Gazette, from the application of this section:
+  (b) any workplace training component of any training scheme.
 
-### 264 Applications for consents by Authority
+### 251A Conditions of training scheme approval
+(1) Every training scheme approval is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(c) except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+(2) The Authority may impose conditions on a training scheme approval, and for that purpose, section 250A(2) to (5) apply as if each reference to accreditation were a reference to a training scheme approval under this section.
+
+### 251B Withdrawal of training scheme approval
+(1) If the Authority considers that there may be grounds for withdrawing a training scheme approval from an institution, the Authority must give written notice to the institution—
+  (a) setting out the grounds on which the Authority is considering withdrawing the approval; and
+  (b) giving the institution a reasonable period to make submissions on the matter.
+(2) After the period referred to in subsection (1)﻿(b), and having considered any submission made by the institution, the Authority—
+  (a) may, on reasonable grounds, withdraw the training scheme approval; and
+  (b) must give notice of the withdrawal, with reasons, to the institution concerned.
+(3) This section does not limit the Authority's power to withdraw training scheme approval under section 255(7).
+(4) The Authority may withdraw a training scheme approval at the written request of the institution concerned.
+
+### 251C Lapse of training scheme approval
+(1) A training scheme approval granted to an institution lapses when—
+  (a) 12 months have passed since approval was granted and the institution has not during that time provided all or part of the training scheme to which the approval relates; or
+  (b) 12 months have passed since the institution last provided all or part of the training scheme to which the approval relates.
+(2) Despite subsection (1), the Authority may, if it considers that the circumstances so require, extend the time specified in subsection (1)﻿(a) or (b).
+(3) The Authority must give written notice of the lapse of a training scheme approval to the institution concerned.
+
+**Consent to assess against standards**
+
+### 252 Consent to assess against standards
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) An institution that proposes to assess its students against standards listed on the Directory of Assessment Standards must apply to the Authority for a grant of consent to assess against those standards.
+(3) The Authority may grant or refuse consent to assess against those standards.
+(4) The Authority may withdraw a consent, but only after complying with subsection (5).
+(5) Before the Authority withdraws a consent, it must—
+  (a) give written notice of its intentions to the institution; and
+  (b) give the institution a reasonable opportunity to respond to the notice; and
+  (c) consider any submissions made by the institution in response to the notice.
+(6) The Authority must give the institution written notice of its decision under subsection (4), and must give reasons for its decision.
+(7) Despite subsection (4), the Authority may withdraw a consent at the written request of the institution concerned.
+
+### 252A Conditions
+(1) Every consent to assess against standards is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(c) except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+(2) The Authority may impose conditions on a consent to assess against standards, and for that purpose section 250A(2) to (5) apply as if each reference to accreditation were a reference to a consent to assess against standards.
+
+### 252B When a consent expires or ceases to have effect
+(1) A consent to assess against standards expires—
+  (a) when any training scheme approval or accreditation to which the consent relates is withdrawn, lapses, expires, or otherwise ceases to have effect:
+  (b) when the status of all standards to which the consent relates is discontinued on the Directory of Assessment Standards.
+(2) If the status of any standard to which the consent relates is discontinued on the Directory of Assessment Standards, the consent ceases to have effect in respect of that standard.
+
+**Rules**
+
+### 253 Rules
+(1) The Authority may make rules—
+  (a) prescribing the process for, and the information required in, an application for—
+    (i) registration of a private training establishment:
+    (ii) approval of a programme:
+    (iii) approval of a training scheme:
+    (iv) accreditation:
+    (v) consent to assess against standards:
+    (vi) approval as a standard-setting body:
+    (vii) the listing of a qualification on the Qualifications Framework:
+    (viii) the listing of a standard on the Directory of Assessment Standards:
+  (b) prescribing criteria that the Authority must apply when considering—
+    (i) each class of application described in paragraph (a); and
+    (ii) different kinds of application within each class:
+  (c) prescribing requirements that the applicant must meet in order to maintain the registration, approval, accreditation, or consent granted by the Authority:
+  (d) prescribing the amount of, or the method for determining, the annual registration fee required under section 233C:
+  (e) prescribing the requirements for the protection of student fees that must be met by a private training establishment, any person to whom section 234D applies, any agent or person purporting to act as an agent for a student or private training establishment, and any independent trustee:
+  (f) prescribing matters relating to the general operation of the Qualifications Framework and the Directory of Assessment Standards:
+  (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
+  (h) providing for the review, amendment, removal, or alteration of the status of qualifications and standards, including their components (including where amendments to titles occur, consequential amendments to programmes of study or training titles, accreditations, and consents to assess against standards):
+  (i) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications Framework:
+  (j) providing for the conduct of assessments and examinations relating to any qualifications or awards:
+  (k) prescribing the details for credits, cross credits, recognition of prior learning, and moderation:
+  (l) prescribing requirements for qualifications in respect of which the Authority is the qualifications developer:
+  (m) prescribing requirements relating to workplace training:
+  (n) providing for the following matters for the purposes of section 236A:
+    (i) the kinds of enrolment and academic records that must be kept:
+    (ii) the manner in which the records must be kept:
+    (iii) the length of time for which the records must be kept:
+  (o) prescribing reporting requirements that institutions (within the meaning of section 254(1)) must comply with in relation to the student's record of achievement that is maintained by the Qualifications Authority:
+  (p) for the purposes of rules made under paragraph (o), specifying the qualifications or standards for which institutions are required to report the credits gained by students undertaking or who have undertaken study or training towards those qualifications or standards:
+  (q) providing for any other matters contemplated by this Part or Part 18, necessary for their administration, or necessary for giving them full effect.
+(2) Without limiting any power to make rules under this section, restrictions on the use of standards may be included in any rules made under subsection (1)﻿(b) that—
+  (a) prescribe criteria that the Authority must apply when considering applications for approval of a programme leading to a degree or postgraduate qualification:
+  (b) prescribe criteria that the Authority must apply when considering applications for the listing of a degree or postgraduate qualification on the Qualifications Framework:
+  (c) prescribe criteria that the Authority must apply when considering applications for the listing of a standard on the Directory of Assessment Standards that relates to any programme leading to a degree or postgraduate qualification.
+(3) Rules made under subsection (1)﻿(n) may specify different requirements for different qualifications.
+(4) Before making rules under this section that apply to a class of institutions, the Authority must consult,—
+  (a) if the rules relate to universities, the Vice-Chancellors Committee; and
+  (b) if the rules relate to bodies that provide adult and community education, those bodies or a body that represents their interests; and
+  (c) if the rules relate to a class of institutions in respect of which there is a body whose function is to set up programme approval and moderation procedures, the representative bodies of those institutions, and any other bodies as the Authority considers appropriate.
+(5) Any proposed rules under this section must be approved by the board of the Authority and the Minister before being made, but, if the rules relate to any matter described in subsection (1)﻿(j), the approval of the Minister is not required.
+(6) Any rules made under this section must be—
+  (a) published on an Internet site maintained by or on behalf of the Authority; and
+  (b) made available in printed form for purchase at a reasonable price on request by members of the public.
+(7) Any rules made under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989, but are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+
+**Functions and powers of Authority in relation to universities**
+
+### 253A Exercise of certain powers of Authority by Vice-Chancellors Committee
+(1) In this section, the powers of the Authority means the Authority's powers under sections 249 to 251C, 254A(2)﻿(b), and 255.
+(2) The powers of the Authority as far as they are applicable to universities may, subject to this section, be exercised by the Vice-Chancellors Committee in relation to universities. References to the Authority in the relevant sections must be read as references to the Vice-Chancellors Committee.
+(3) The Vice-Chancellors Committee in exercising the powers of the Authority must apply the relevant rules made under section 253.
+(4) The Vice-Chancellors Committee may charge fees to an institution for the grant of any approval or accreditation.
+(5) The Vice-Chancellors Committee may—
+  (a) list or arrange for the listing of university qualifications on the Qualifications Framework; and
+  (b) correct any errors or omissions in the listing of the qualification on the framework.
+(6) To avoid doubt, this section does not limit the Authority's power to delegate its functions or powers under the Crown Entities Act 2004.
+
+**Granting of awards**
+
+### 253B Powers of Authority in granting of awards
 (1) A person may apply to the Authority for its consent—
-  (a)
-  (b) to grant an award that is described as a degree or the description of which includes the word bachelor, master or doctor.
-(2) Subject to section 254, the Authority may grant or refuse its consent.
-(3)
+  (a) to grant an award that is described as a degree or the description of which includes the word bachelor, master, or doctor:
+  (b) to grant an award that is described as a post-graduate qualification, for example, a post-graduate certificate or diploma.
+(2) The Authority may, in accordance with this section, grant or refuse its consent.
+(3) The Authority must not consent to the granting of an award of a kind referred to in subsection (1) unless it is satisfied that the award recognises the completion of a programme of advanced learning that—
+  (a) is taught mainly by people engaged in research; and
+  (b) emphasises general principles and basic knowledge as the basis for self-directed work and learning.
+(4) The Authority must not withhold its consent to the use of any particular term or the granting of an award that, or whose name or description, includes any particular word, unless satisfied on reasonable grounds that it should do so.
 
-### 264A Minister may consent to registered establishments using certain terms in their names
-(1) A registered establishment may apply to the Minister for consent to use the term university, college of education, polytechnic, or institute of technology to describe a registered establishment that is not an institution.
-(2) Before deciding whether to give consent under subsection (1), the Minister must—
+**Use of certain terms in name of registered establishment**
+
+### 253C Minister may consent to registered establishments using certain terms in their names
+(1) In this section, institution means a college of education, a polytechnic, a specialist college, a university, or a wananga.
+(2) A registered establishment may apply to the Minister for consent to use the term university, college of education, polytechnic, or institute of technology to describe a registered establishment that is not an institution.
+(3) Before deciding whether to grant consent under subsection (2), the Minister must—
   (a) take into account the characteristics of institutions as described in section 162(4); and
   (b) receive advice on the application from the Authority; and
-  (ba) be satisfied that consenting to the application is in the interests of the tertiary education system and the nation as a whole; and
-  (c) consult with the institutions, organisations representing institutions, and other relevant bodies that the Minister considers appropriate.
-(3) In deciding whether to give consent under subsection (1) to the use of the term institute of technology, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
-(4) The Minister may audit any registered establishment that has been given consent to use one of the terms in subsection (1) for continuous compliance with the requirements for consent to use the term.
-(5) If the Minister is not satisfied that a registered establishment is continuing to comply with the requirements for consent to use the term for which consent has been given, the Minister may—
+  (c) be satisfied that consenting to the application is in the interests of the tertiary education system and the nation as a whole; and
+  (d) consult with the institutions, organisations representing institutions, and other relevant bodies that the Minister considers appropriate.
+(4) In deciding whether to grant consent under subsection (2) to the use of the term “institute of technology”, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
+(5) The Minister may audit any registered establishment that has been given consent to use one of the terms in subsection (2) for continuous compliance with the requirements for consent to use the term.
+(6) If the Minister is not satisfied that a registered establishment is continuing to comply with the requirements for consent to use the term for which consent has been given, the Minister may—
   (a) withdraw the consent; or
-  (b) suspend the consent for a specified period, at the expiry of which the Minster must either lift the suspension or withdraw the consent.
+  (b) suspend the consent for a specified period, at the expiry of which the Minister must either lift the suspension or withdraw the consent.
+
+**Fees**
+
+### 254 Fees
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) The Authority may—
+  (a) charge fees to any person or institution for any of the following:
+    (i) programme approval:
+    (ii) training scheme approval:
+    (iii) accreditation:
+    (iv) consent to assess against standards:
+    (v) approval to list qualifications on the Qualifications Framework:
+    (vi) approval to list standards on the Directory of Assessment Standards:
+    (vii) registration of a private training establishment:
+    (viii) approval to be a standard-setting body:
+    (ix) consent to award a degree:
+    (x) consent for the use by a registered establishment of certain terms in its name:
+    (xi) reporting credits for the purposes of rules made under section 253(1)﻿(o) and (p):
+  (b) charge fees to any person or institution for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority, or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed:
+  (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority.
+(3) A fee may not be charged under subsection (2)﻿(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
+(4) All fees that are to be charged under subsection (2) must be—
+  (a) published on an Internet site maintained by or on behalf of the Authority; and
+  (b) made available in printed form for purchase at a reasonable price on request by members of the public.
+
+**Enforcement powers of Authority**
+
+### 254A Power to obtain information
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) The chief executive or a person authorised by the chief executive may, subject to subsection (3),—
+  (a) by written notice to the Secretary, require the Secretary, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to institutions, being information or documents in the possession of the Secretary, as are specified in the notice; and
+  (b) by written notice to the chief executive of an institution, require the chief executive, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to the institution as are specified in the notice.
+(3) The powers conferred by subsection (2) may be exercised only where the obtaining of the information or documents is necessary for the purposes of the performance of the functions of the Authority.
+
+### 254B Chief executive
+[Repealed]
+
+### 254C Membership of Government Superannuation Fund
+[Repealed]
+
+### 254D Employees transferring from other government employment
+[Repealed]
+
+### 254E Taxation
+[Repealed]
+
+### 255 Compliance notices
+(1) In this section, institution includes any institution, government training establishment, registered establishment, relevant school, industry training organisation, or other body.
+(2) The Authority may issue a compliance notice to an institution requiring the institution to do, or refrain from doing, a particular thing in relation to—
+  (a) the institution's registration as a registered establishment; or
+  (b) the institution's programme approvals, training scheme approvals, or accreditation; or
+  (c) any consent that the institution has to assess against standards; or
+  (d) any quality assurance conditions on workplace training; or
+  (e) any notice issued under section 254A(2)﻿(b).
+(3) Every compliance notice must be in writing and must—
+  (a) state the date on which it is issued; and
+  (b) state a time on or before which, or a period within which, the institution must comply with the notice; and
+  (c) state the consequences or possible consequences of non-compliance with the notice.
+(4) The Authority may publish any compliance notice, or a summary of a compliance notice, in a manner designed to give public notice of the compliance notice.
+(5) An institution that receives a compliance notice must comply with it within the time or during the period stated in the notice.
+(6) The Authority may, before the expiry of the time or period referred to in subsection (3)﻿(b), extend that time or period, in which case the extended time or period is for all purposes the time or period within or during which the notice must be complied with.
+(7) If the institution does not comply with the compliance notice, the Authority may immediately,—
+  (a) if the notice related to the registration of a registered establishment, cancel the registration, or impose new conditions or amend or revoke any existing conditions on the registration; or
+  (b) if the notice related to a programme or training scheme approval, withdraw the approval, or impose new, or amend or revoke any existing, conditions on the approval; or
+  (c) if the notice related to an accreditation, withdraw the accreditation, or impose new conditions, or amend or revoke any existing conditions on the accreditation; or
+  (d) if the notice related to a consent to assess against standards, withdraw the consent, impose new conditions, or amend or revoke any existing conditions on the approval; or
+  (e) if the notice related to any quality assurance conditions on workplace training, withdraw the programme or training scheme approval to which the training relates, impose new conditions, or amend or revoke any existing conditions.
+(8) The Authority may not do any of the things specified in subsection (7) until the later of—
+  (a) 10 days from the date of issue of the notice; or
+  (b) the expiry of the time or period referred to in subsection (3)﻿(b).
+(9) If the Authority withdraws programme approval it must also withdraw any consent to assess against standards or any accreditation in respect of the programme approval.
+(10) If the Authority withdraws any training scheme approval it must also withdraw any consent to assess against standards in respect of the training scheme approval.
+
+### 255A Powers of entry and inspection
+(1) For the purpose of ensuring that a private training establishment (whether registered or not) and any agent of the establishment comply with the provisions of this Act, the rules, and any approval, consent, or other authorisation granted by the Authority, the chief executive may authorise any person to do, at any reasonable time, any 1 or more of the following things:
+  (a) enter and inspect any premises (other than a dwellinghouse) that are occupied by the private training establishment or its agent:
+  (b) require any person to produce documents or information under the control of the person:
+  (c) inspect, photocopy, print out, or copy any documents (whether held in electronic or paper form) produced under paragraph (b) or that the authorised person believes on reasonable grounds to belong to the establishment:
+  (d) remove any document referred to in paragraph (c), whether in its original form or as an electronic or paper copy:
+  (e) require any employee or member of the establishment to make or provide statements, in any form and manner that the authorised person specifies:
+  (f) inspect any education and training work and any related materials:
+  (g) meet and talk with any person.
+(2) A person authorised by the chief executive under subsection (1) must—
+  (a) provide evidence of his or her authorisation to the person in charge of the premises when the person first enters the premises, and at any later time, at the request of the person in charge; and
+  (b) give that person a list of all documents that have been removed (if any); and
+  (c) return any documents that have been removed unless to do so would prejudice any investigation.
+(3) An authorisation under subsection (1) must be in writing and contain—
+  (a) a reference to this section; and
+  (b) the full name of the person authorised; and
+  (c) a statement of the powers conferred on that person under this section.
+
+**Research**
+
+### 256 Research
+The Authority has power to carry out any research activities that it considers relevant to the performance of its functions.
+
+**Provisions relating to continuation, constitution, and operation of New Zealand Qualifications Authority**
+
+### 256A Continuation of New Zealand Qualifications Authority
+(1) There continues to be a New Zealand Qualifications Authority, which is the same body as the body of that name existing immediately before the commencement of the Education Amendment Act 2011.
+(2) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
+(4) The members of the Authority are the board for the purposes of the Crown Entities Act 2004.
+
+### 256B Constitution
+(1) The Authority must consist of not fewer than 8 nor more than 10 members.
+(2) In appointing members, the Minister must consult such persons, authorities, and bodies as the Minister considers appropriate and must have regard to the interests of industry, the professions, and the authorities and bodies that are respectively responsible for providing compulsory and post-compulsory education.
+(3) Subsection (2) does not limit section 29 of the Crown Entities Act 2004.
+
+### 256C Chief executive
+The Authority must from time to time appoint a chief executive of the Authority, on terms and conditions agreed by the Authority and the person appointed in accordance with section 117 of the Crown Entities Act 2004.
+
+### 256D Delegation by Authority
+(1) The Authority must not delegate the power to appoint a chief executive.
+(2) Subsection (1) applies despite section 73 of the Crown Entities Act 2004.
+(3) A delegation under section 73 of the Crown Entities Act 2004 to the chief executive, if there is no chief executive for the time being, or if the chief executive is absent from duty, continues to have effect as if made to the person for the time being acting in place of the chief executive.
+
+### 256E Membership of Government Superannuation Fund
+Employment in the service of the Authority is Government service within the meaning of the Government Superannuation Fund Act 1956.
+
+### 256F Child care allowances
+A member may be paid any allowances in respect of child care that the Authority determines.
+
+### 256G Taxation
+(1) The Authority is deemed to be the agent of the Crown in respect of its property and the performance of its functions and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
+(2) Subsection (1) does not exempt the Authority from—
+  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
+  (b) any obligation imposed by that Act.
+
+### 257 Entrance to universities
+[Repealed]
+
+### 258 Approval of courses
+[Repealed]
+
+### 258A Conditions on course approvals
+[Repealed]
+
+### 259 Accreditation to provide approved courses
+[Repealed]
+
+### 259A Conditions on accreditation to provide approved courses
+[Repealed]
+
+### 260 Exercise of certain powers of Authority
+[Repealed]
+
+### 261 Only accredited institutions to provide approved courses
+[Repealed]
+
+### 262 Notice
+[Repealed]
+
+### 263 Awards for approved nationally recognised courses
+[Repealed]
+
+### 264 Applications for consents by Authority
+[Repealed]
+
+### 264A Minister may consent to registered establishments using certain terms in their names
+[Repealed]
 
 ### 265 Examination and assessment
-(1) The Authority may, in accordance with such rules and procedures as it considers appropriate, set and conduct such examinations, and make such assessments, as it considers necessary for the performance of its functions.
-(2) For the purposes of such examinations and assessments, the Authority may make regulations, give directions and approve examiners, assessors and moderators, and may grant awards to persons who reach such standards in the examinations or assessments as are set by the Authority.
-(3) Until 1 February 1991, any examinations that the Authority sets and conducts under this section shall be set and conducted, and any assessments that the Authority makes under this section shall be made, in accordance with the rules and procedures applicable immediately before the commencement of this section.
-(4) Nothing in this Act permits the Authority, without the consent of the chief executive of the institution concerned, to set or conduct any examination, or make any assessment, in respect of the performance by any student in a course of study or training at an institution.
+[Repealed]
 
 ### 266 Fees
-(1) The Authority may—
-  (a) charge fees to an institution (as defined in section 258(1A) or section 259(1A), as appropriate) for the grant of any approval or accreditation; and
-  (b) charge fees to any person for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed.
-(2) A fee may not be charged under subsection (1)﻿(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
+[Repealed]
 
 ### 267 Saving of certain statutes, etc, of University of New Zealand
-All statutes, regulations, rulings, decisions, and other acts of authority of the Senate of the University of New Zealand or any committee or board of that Senate or University, or of the Chancellor, Vice-Chancellor or any officer of that University, so far as they relate to the University Entrance Examination and were in force immediately before the commencement of this section by virtue of section 45 of the Universities Act 1961, continue in force except so far as they are repealed, replaced, or amended by any enactment or by regulations, rulings, decisions, or other acts of authority of the Qualifications Authority or of the Council of any university under powers conferred by this Act or any other enactment.
+[Repealed]
 
 ### 268 Powers of Minister
-(1) In the performance of its functions under this Part, the Authority shall not establish any policy in relation to the systems of evaluation, assessment, or certification of the ability or achievement of students at relevant schools unless the Minister has approved that policy in writing.
-(2) Section 103 of the Crown Entities Act 2004 applies in the performance of the Authority's functions under this Part.
-(3)
-
-## Part 21 — Skill New Zealand
-
-### 269 Interpretation
 [Repealed]
 
-### 270 Agency continued for purposes of this Part
-[Repealed]
+## Part 21 — Education New Zealand
 
-### 271 Function of Agency
-[Repealed]
+### 269 Education New Zealand established
+(1) An organisation called Education New Zealand is established.
+(2) Education New Zealand is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to Education New Zealand except to the extent that this Act expressly provides otherwise.
 
-### 272 Continuation of Board
-[Repealed]
+### 269A Interpretation
+In this Part, unless the context otherwise requires, board means the board of Education New Zealand.
 
-### 273 Charter of Agency
-[Repealed]
+### 270 Functions
+(1) In performing its functions under this Act or any other enactment, Education New Zealand must give effect to the Government’s policy on international education.
+(2) The functions of Education New Zealand are—
+  (a) to deliver strategies, programmes, and activities for promoting, together with providers and other government agencies, New Zealand education overseas; and
+  (b) to promote New Zealand as an educational destination for international students; and
+  (c) to promote the provision of New Zealand education and training services overseas; and
+  (d) to manage, in collaboration with other government agencies, activities undertaken by representatives appointed to act on behalf of the New Zealand Government in relation to international education; and
+  (e) to carry out research on international education markets and marketing strategies; and
+  (f) to administer any international programmes or activities that are consistent with the Government's policy on international education; and
+  (g) to provide information, advice, and assistance to providers on strategies to promote industry co-ordination and professional development; and
+  (h) to provide information to international students about living and studying in New Zealand; and
+  (i) to work with other agencies to ensure that international students are adequately supported while living and studying in New Zealand; and
+  (j) to foster collaborative networks with former international students; and
+  (k) to perform any other function directed by the Minister under subsection (3).
+(3) The Minister may direct Education New Zealand to perform any function that the Minister considers consistent with the Government’s policy on international education.
+(4) In this section, providers means any organisation that provides education, training, or education-related services.
 
-### 273A Minister may require Board to negotiate document of accountability
-[Repealed]
+### 271 International education strategy
+(1) The Minister may, from time to time, issue an international education strategy that sets out—
+  (a) the Government's long-term strategic direction for international education; and
+  (b) the Government's current and medium-term priorities for international education.
+(2) Before issuing the Government's international education strategy, the Minister must consult with organisations or people that, in the Minister's opinion, have a substantial interest in international education and ought to be consulted.
 
-### 273B Minister may prepare document where no agreement reached
-[Repealed]
+### 272 Membership of board of Education New Zealand
+(1) The board of Education New Zealand consists of at least 5 members and no more than 7 members appointed by the Minister under section 28 of the Crown Entities Act 2004.
+(2) Before appointing any member to the board, the Minister must consult with—
+  (a) the bodies that represent the organisations involved in the provision of international education; and
+  (b) any organisations or people that, in the Minister's opinion, have a substantial interest in the board's operations.
+
+### 272A Special advisers to the board
+(1) The Minister may appoint as special advisers to the board—
+  (a) the Secretary for Education; and
+  (b) the chief executive of the department responsible for the administration of the Immigration Act 2009; and
+  (c) any other person as the Minister determines.
+(2) The function of a special adviser is to assist the board to align its strategies and activities with government policy.
+(3) A special adviser may attend any meeting of the board or any board committees but may not vote.
+(4) The board (including any board committee) must give the special advisers sufficient notice of its meetings and copies of all documents and materials to be considered at each meeting.
+(5) A special adviser may delegate to any person his or her functions and powers conferred by this section, and the delegate may exercise those functions and powers in the same manner and with the same effect as if they had been conferred directly by this section and not by delegation.
+(6) Every person purporting to act under a delegation under subsection (5) is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+
+### 272B International education stakeholder advisory committee
+(1) The Minister may establish a stakeholder advisory committee to provide expert advice to the board on matters relating to the exercise of its functions.
+(2) The board must consider any advice it receives from the committee.
+(3) The members of the committee must be appointed by the Minister, on terms and conditions that the Minister determines, by written notice to each member.
+(4) When appointing members of the committee, the Minister must ensure, as far as practicable, that—
+  (a) the committee's membership is broadly representative of the international education industry; and
+  (b) the members collectively have sufficient experience and knowledge of the international education industry to give appropriate advice to the board.
+(5) The Minister may give terms of reference on the topics or subject areas on which the committee may advise the board.
+(6) The committee must comply with any terms of reference given by the Minister.
+(7) The committee may determine its own procedure.
+
+### 273 Chief executive
+(1) The board—
+  (a) must appoint a chief executive of Education New Zealand; and
+  (b) must act independently when appointing the chief executive; and
+  (c) may not delegate its duty under paragraph (a).
+(2) The chief executive must not be a member of the board.
+
+### 273A Responsibilities of chief executive
+The chief executive is responsible for—
+  (a) the effective and efficient management and administration of Education New Zealand; and
+  (b) the achievement of outcomes identified in the statement of intent of Education New Zealand.
+
+### 273B Superannuation
+(1) Any person who, immediately before becoming an employee of Education New Zealand, is a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service so long as he or she continues to be an employee of Education New Zealand.
+(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of Education New Zealand were Government service.
+(3) Subsection (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of Education New Zealand is the controlling authority.
 
 ### 273C Contents of documents
 [Repealed]
@@ -6302,8 +6826,33 @@ All statutes, regulations, rulings, decisions, and other acts of authority of th
 ### 273I Minister to publish certain documents and directions
 [Repealed]
 
-### 274 Communication of government policy to the Board
-[Repealed]
+### 274 Application of Part 2 of Commerce Act 1986
+(1) For the purposes of section 43 of the Commerce Act 1986, the Governor-General may, by Order in Council, specifically authorise any act, matter, or thing, or kind of act, matter or thing, to be done or omitted to be done by Education New Zealand.
+(2) Part 2 of the Commerce Act 1986 does not apply to any act, matter, or thing, or kind of act, matter, or thing that is specifically authorised under subsection (1).
+
+### 274A Transfer of Ministry employees to Education New Zealand
+(1) The chief executive of the Ministry of Education must identify the employees of the Ministry—
+  (a) whose duties are overall more closely connected with the functions of Education New Zealand than with the Ministry; and
+  (b) whose positions will, as a result of the establishment of Education New Zealand, cease to exist within the Ministry.
+(2) An employee who is identified under subsection (1) must be offered equivalent employment by Education New Zealand, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
+  (d) on terms that treat the period of service with the Ministry of Education (and every other period of service recognised by the Ministry of Education as continuous service) as if it were continuous service with Education New Zealand.
+(3) The employee is not entitled to receive any payment or other benefit on the ground that the position held by the person in the Ministry of Education has ceased to exist if—
+  (a) the employee’s position ceases to exist because the duties of the position are more closely connected with the functions of Education New Zealand; and
+  (b) the employee is offered employment in an equivalent position in Education New Zealand (whether or not the employee accepts the offer).
+(4) This section overrides any provision to the contrary in Part 6A of the Employment Relations Act 2000.
+
+### 274B No compensation for technical redundancy of employees of Education New Zealand Trust
+(1) An employee of Education New Zealand Trust is not entitled to receive any payment or other benefit on the ground that the position held by the person in the Trust has ceased to exist if the employee's position ceases to exist because the duties of the position are more closely connected with the functions of Education New Zealand, and—
+  (a) the employee is offered employment in an equivalent position in Education New Zealand (whether or not the employee accepts the offer); or
+  (b) the employee is offered and accepts employment in Education New Zealand.
+(2) In subsection (1)﻿(a), employment in an equivalent position means employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
+  (d) on terms that treat the period of service with Education New Zealand Trust (and every other period of service recognised by Education New Zealand Trust as continuous service) as if it were continuous service with Education New Zealand.
 
 ### 275 Power of Secretary to obtain information
 [Repealed]
@@ -6314,7 +6863,7 @@ All statutes, regulations, rulings, decisions, and other acts of authority of th
 ### 277 Transitional provisions relating to Education and Training Support Agency
 [Repealed]
 
-## Part 22 — Career Services
+## Part 22 — Careers New Zealand
 
 ### 278 Interpretation
 In this Part and Schedule 17, unless the context otherwise requires,—
@@ -6322,13 +6871,13 @@ In this Part and Schedule 17, unless the context otherwise requires,—
   - **general manager** means the general manager of the Service
   - **Service** means the Service continued by section 279.
 
-### 279 Career Services is service for purposes of this Part
-(1) There is to continue to be a Service for the purposes of this Part and the Service is to be known as Career Services.
+### 279 Careers New Zealand is service for purposes of this Part
+(1) There is to continue to be a Service for the purposes of this Part and the Service is to be known as Careers New Zealand.
 (2) The Service is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (3) The Crown Entities Act 2004 applies to the Service except to the extent that this Act expressly provides otherwise.
 (4) The members of the Service are the Board for the purposes of the Crown Entities Act 2004.
 (5)
-(6) The Service is the same body as the Service that existed under this section immediately before the commencement of section 49 of the Education Amendment Act (No 2) 1998.
+(6) The Service is the same body as the Service that existed under this section immediately before the commencement of sections 40 and 41 of the Education Amendment Act 2011.
 
 ### 280 Functions of Service
 (1) The functions of the Service are—
@@ -6461,50 +7010,100 @@ A delegation to the member who is the general manager continues to have effect,�
 
 ## Part 24 — Miscellaneous provisions
 
-### 292 Offences
-(1) A person connected with a body shall not falsely represent, either expressly or by implication, that the body is a registered establishment.
-(2) A person connected with a body that provides a course of study or training shall not—
-  (a) falsely represent, either expressly or by implication, that that course is an approved course of study or training; or
-  (b) describe that course as a nationally recognised course, or in any other way that implies that that course is a nationally recognised course, unless that course is an approved nationally recognised course.
-(3) A person connected with a body that provides a course of study or training shall not falsely represent, either expressly or by implication, that the body is accredited to provide that course.
-(4) A person must not—
-  (a) use the term university to describe an educational establishment or facility unless the educational establishment and facility—
+### 292 Offences relating to use of certain terms
+(1) A person commits an offence who—
+  (a) uses the term university to describe an educational establishment or facility unless the educational establishment and facility—
     (i) is a university; or
-    (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
+    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
     (iii) was a university but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a university as set out in section 162(4)﻿(a) and (b)﻿(iii):
-  (b) use the term college of education to describe an educational establishment or facility unless the educational establishment or facility—
+  (b) uses the term college of education to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is a college of education; or
-    (ii) is a registered establishment and the Minister has consented under section 264A to the establishment using the term; or
+    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
     (iii) was a college of education but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a college of education as set out in section 162(4)﻿(b)﻿(i):
-  (c) use the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility—
+  (c) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is a polytechnic or institute of technology; or
-    (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
+    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
     (iii) was a polytechnic or institute of technology but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii):
-  (d) use the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility—
+  (d) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is an institute of technology or a polytechnic; or
-    (ii) is a registered establishment that has the Minister's permission under section 264A to use the term; or
+    (ii) is a registered establishment that has the Minister's permission under section 253C to use the term; or
     (iii) was an institute of technology or a polytechnic but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii).
-(5) A person (other than a university) must not grant or purport to grant an award that is described as a degree, or the description of which includes the word bachelor, master, or doctor, unless—
-  (a) the person has the consent of the Qualifications Authority or body subject to a delegation under section 254(5); or
+(2) A person (other than a university) commits an offence who grants or purports to grant an award that is described as a degree, or the description of which includes the word bachelor, master, doctor, or postgraduate, unless—
+  (a) the person has the consent of the Qualifications Authority; or
   (b) as provided by section 192(11).
-(6) Except with the consent of the Qualifications Authority, a person shall not grant or purport to grant an award—
-  (a) which, or the name or description of which, includes the word national or the words New Zealand; and
-  (b) the setting, or the oversight of the setting, of the standard of which is a function of that Authority.
-(7) Where a person connected with a body contravenes subsection (1) or subsection (2) or subsection (3), the person commits an offence and,—
-  (a) if the body is an institution and the council of the institution is proved to have authorised, or to have negligently failed to prevent, the making of the relevant false representation, the institution also commits an offence; or
-  (b) if the body is not an institution and the body, or the governing body of the body, is proved to have authorised, or to have negligently failed to prevent, the making of the relevant false representation,—
-    (i) where the body, or the governing body of the body, is a body corporate, the body corporate also commits an offence; or
-    (ii) in any other case, each of the members of the body, or of the governing body of the body, as the case may be, also commits an offence.
-(8) Where a person contravenes any of subsections (4), (5), or (6), that person commits an offence.
-(9) Where the council of an institution contravenes section 224(7), the institution commits an offence.
-(10) Where a person contravenes section 232(1) or section 233—each commit an offence.
-  (a) if the private training establishment, or its governing body, is a body corporate, the person and the body corporate; or
-  (b) otherwise, the person and the members of the governing body of the establishment,—
-(11) A person who commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
-(12) Where a person has engaged, is engaging, or proposes to engage, in conduct in contravention of section 224(7) or section 232(1) or section 233 or this section, the High Court may, on application by the Qualifications Authority, grant an injunction or make some other appropriate order, on such terms as the High Court considers appropriate, restraining the person from engaging in that conduct or for the purpose of ensuring that the person does not engage in that conduct.
-(13) A reference in this section to a person connected with a body is a reference to—
-  (a) a person concerned in the management or administration of the body; or
-  (b) a person employed by, or by the governing body or chief executive of, the body.
+(3) A person commits an offence who, without the consent of the Qualifications Authority, grants or purports to grant an award which, or the name or description of which, includes the word national or the words New Zealand.
+(4) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+
+### 292A Offences relating to false representations
+(1) A person commits an offence who falsely represents, expressly or by implication, that—
+  (a) a qualification is listed on the Qualifications Framework; or
+  (b) a programme is an approved programme; or
+  (c) a training scheme is an approved training scheme; or
+  (d) a body is a registered establishment; or
+  (e) a programme or training scheme provided by a body—
+    (i) is an approved programme or training scheme; or
+    (ii) leads to a qualification listed on the Qualifications Framework; or
+  (f) a body has accreditation to provide an approved programme or training scheme; or
+  (g) a body is providing or purports to provide an approved training scheme; or
+  (h) a body is providing or purports to provide an approved programme; or
+  (i) a body has consent to assess against standards; or
+  (j) a standard is on the Directory of Assessment Standards; or
+  (k) the person is an agent of an institution (as that term is defined in section 249(1)) when the person is not.
+(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+
+### 292B Liability of body corporate and directors in respect of false representations
+(1) If, in proceedings in respect of conduct engaged in by a body corporate, being conduct in relation to which section 292A(1) applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
+(2) For the purpose of section 292A, any conduct engaged in on behalf of a body corporate—is deemed to have been engaged in also by the body corporate.
+  (a) by a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority; or
+  (b) by any other person at the direction or with the consent or agreement (whether express or implied) of a director, an employee, or an agent of the body corporate, given within the scope of the actual or apparent authority of the director, employee or agent,—
+(3) If a body corporate is convicted of an offence under section 292A(1), any director of the body corporate, and, if the body corporate is a private training establishment, any governing member of the establishment, is to be treated as having committed the same offence, if—
+  (a) the director or governing member approved of the act that constituted the offence; or
+  (b) the director or governing member knew the offence was to be or was being committed and failed to take all reasonable steps to prevent it.
+(4) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief, or purpose.
+(5) In this section, governing member has the meaning given to it in section 232.
+
+### 292C Offence to issue false qualifications and falsify records
+(1) A person commits an offence who knowingly or recklessly issues an award that falsely represents that a person has achieved a qualification listed on the Qualifications Framework.
+(2) A person commits an offence who receives an award knowing that the award falsely represents that he or she has achieved a qualification listed on the Qualifications Framework.
+(3) A person commits an offence—
+  (a) who enters or changes results on a student's record of achievement, knowing that the results or changes have the effect of falsifying the student's record:
+  (b) who, without reasonable excuse or lawful authority, causes entries or changes to be made on a student's record that have the effect of falsifying the student's record.
+(4) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+
+### 292D Offence to fail to comply with section 236A (student records)
+(1) A private training establishment commits an offence that fails, without reasonable excuse, to comply with the requirements of section 236A.
+(2) A private training establishment that commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+
+### 292E Offence to provide or advertise cheating services
+(1) A person commits an offence if the person provides any service specified in subsection (4) with the intention of giving a student an unfair advantage over other students.
+(2) A person commits an offence if the person advertises any service described in subsection (4) knowing that the service has or would have the effect of giving a student an unfair advantage over other students.
+(3) A person commits an offence who, without reasonable excuse, publishes an advertisement for any service described in subsection (4).
+(4) The services referred to in subsections (1) to (3) are as follows:
+  (a) completing an assignment or any other work that a student is required to complete as part of a programme or training scheme:
+  (b) providing or arranging the provision of an assignment that a student is required to complete as part of a programme or training scheme:
+  (c) providing or arranging the provision of answers for an examination that a student is required to sit as part of a programme or training scheme:
+  (d) sitting an examination that a student is required to sit as part of a programme or training scheme or providing another person to sit the exam in place of the student.
+(5) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000.
+(6) In this section,—
+  - **programme** has the meaning given to it in section 159(1)
+  - **student** means a student of a programme or training scheme
+  - **training scheme** has the meaning given to it in section 159(1).
+
+### 292F Offences relating to enrolment of international students and registration of private training establishments
+(1) Where the Council of an institution contravenes section 224(7), the institution commits an offence.
+(2) A private training establishment that contravenes section 232A(1), 232A(2), or 232C commits an offence.
+(3) A body that commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
+
+### 292G Offence to contravene requirements in section 234E relating to student fees
+(1) A private training establishment that contravenes section 234E(1) commits an offence.
+(2) A person who contravenes section 234E(2) commits an offence.
+(3) A private training establishment or person that commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
+
+### 292H Injunctions and orders of High Court
+(1) If a person has engaged, is engaging, or proposes to engage, in conduct that contravenes section 224(7) or any of sections 292 to 292F, the High Court may, on application by the Qualifications Authority, grant an injunction or make any appropriate order—
+  (a) restraining the person from engaging in that conduct; or
+  (b) for the purpose of ensuring that the person does not engage in that conduct.
+(2) The court may grant an injunction or make an order under subsection (1) on any terms that it considers appropriate.
 
 ### 293 Transitional provisions consequential on repeal of Adult Education Act 1963
 (1) Upon the commencement of this section,—
@@ -7787,10 +8386,8 @@ Subject to any other enactment, the Committee may invest any of its money in any
   - **disciplinary offence** means a disciplinary offence specified in section 158(1)
   - **domestic student** , at any time, means a person who is then—
     (a) a New Zealand citizen; or
-    (b) the holder of a residence permit under the Immigration Act 1987; or
-    (c) by virtue of paragraph (a) or paragraph (b) or paragraph (f) of section 11(1) of that Act, exempt from the requirement to hold a permit granted under that Act; or
-    (d) exempted under section 12 of that Act from the requirement to hold a permit granted under that Act; or
-    (e) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
+    (b) the holder of a residence class visa granted under the Immigration Act 2009; or
+    (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
   - **education authority** means a body that is a board, or the governing body of a college of education, a polytechnic, or a wananga, established under the Education Amendment Act 1990
   - **education centre** means an education centre established under section 107A(1)
   - **education centre council** means an education centre council constituted under section 107B(2)
@@ -7809,9 +8406,6 @@ Subject to any other enactment, the Committee may invest any of its money in any
   - **prescribed** means prescribed by this Act or by regulations made under this Act
   - **primary education** means education for pupils in a primary or intermediate school or department
   - **primary school** means a school providing a 6-year course, or an 8-year course, for pupils entering the school between the ages of 5 and 7 years; and includes such a school which in special circumstances approved by the Director-General also provides continuing education
-  - **private primary school** means any private school where there are enrolled for the purpose of receiving primary education more than 8 children of school age
-  - **private school** means any private school where there are more than 8 children over 5 years of age receiving instruction
-  - **private secondary school** means any private school where more than 8 pupils are enrolled for the purpose of receiving secondary education
   - **property** means real and personal property of every description
   - **public conveyance** includes any transport approved by the Director-General, whether by railway, bus, ferry, or other means of conveyance, available to children for the purpose of attending school
   - **public notice** means a notice published in some newspaper circulating in the district, and means notified by means of a public notice
@@ -7820,7 +8414,7 @@ Subject to any other enactment, the Committee may invest any of its money in any
   - **salary order** means any decision fixing any salary or salaries in the education service
   - **school age** , in relation to any child, means any age between the age of 5 years and the age of 15 years or any earlier age at which the child ceases to be required to have his name enrolled on the register of a school in accordance with Part 4; or, in the case of any child who is deemed by the Director-General (after special examination by a medical officer or other officer appointed for the purpose) to require special tuition, between such ages as the Director-General may from time to time determine, but in no case shall any person who has attained the age of 21 years be deemed to be of school age
   - **school year** means the period of 12 months ending with 27 January in any year
-  - **secondary education** means full-time education for pupils in a secondary school or department or in a private secondary school
+  - **secondary education** means full-time education for pupils in a secondary school or department or in a secondary private school registered under section 35A of the Education Act 1989
   - **secondary school or department** means a school or department established, or deemed to have been established, as a secondary school under Part 3, and providing full-time and part-time courses beyond the primary school course, and also, in circumstances approved by the Director-General, continuing education and related guidance services
   - **secondary teacher** means a teacher classified in accordance with regulations made under this Act as a secondary teacher
   - **senior division** , in relation to a State primary school, includes such classes or forms therein as may from time to time be prescribed by regulations
@@ -7931,66 +8525,6 @@ Having regard to the provision of continuing education, the Minister may establi
 
 ### 16 Part to be read with Education Act 1964
 This Part shall be read together with and deemed part of the Education Act 1964 (in this Part referred to as “the principal Act”).
-
-### 20 Foreign students at tertiary institutions
-(1) In this section, unless the context otherwise requires,—
-  - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
-  - **council** means the governing body of a tertiary institution; and, in relation to an institution, means its council
-  - **exempt student** means a foreign student who—
-    (a) is in New Zealand under an exchange programme approved by the New Zealand Government; or
-    (b) is for the time being exempted under subsection (3)
-  - **tertiary institution** or means a body that is a community college, college of education, or technical institute.
-(2) Every council shall take all reasonable steps to ensure that no person is enrolled at a tertiary institution it administers until it has established whether the person is a domestic student or a foreign student.
-(3) The Minister may, by notice in the Gazette, exempt foreign students of a particular class or description from the payment of all or a specified proportion of fees specified in the notice that would otherwise be required by subsection (4).
-(4) Subject to subsection (3), no foreign student shall be or continue to be enrolled in any subject, course, or programme at a tertiary institution unless there have been paid to the council—
-  (a) an amount fixed by the council (having regard to any guidelines the Secretary has given it) that is not less than the sum of—
-    (i) the council's best estimate of the cost to the council (including the appropriate proportion of the council's administrative and other general costs) of providing tuition in the subject, course, or programme for 1 student; and
-    (ii) an amount that is in the council's opinion an appropriate reflection of the use made by 1 student receiving tuition in the subject, course, or programme of the council's capital facilities; and
-  (b) all fees (if any) prescribed by the council.
-(5) Where a foreign student has after 31 December 1989 received tuition in a subject, course, or programme at a tertiary institution without paying the full amount required by subsection (4)﻿(a) in respect of the subject, course, or programme, the council may, in any court of competent jurisdiction, recover the underpayment from the student, as a debt due to the council.
-(6) In any year, the amount of any grant for a tertiary institution may be reduced from what it would otherwise have been by any amount by which (in the Secretary's opinion), by virtue of the fact that the full amount required by subsection (4)﻿(a) in respect of a subject, course, or programme at the institution in which a foreign student was enrolled has not been paid to the council, the student's education has been subsidised by money appropriated by Parliament.
-(7) No grant shall be reduced under subsection (6) unless the Secretary has given the council concerned written notice of the circumstances taken into account when the proposed reduction was decided on.
-(8) Where the council of a tertiary institution disputes that a grant should be reduced under subsection (6), or disputes the amount by which it should so be reduced, the following provisions shall apply:
-  (a) the council may, within 28 days of getting notice from the Secretary under subsection (6), by written notice to the Secretary giving the name and address of a proposed arbitrator, require the dispute to be settled by arbitration:
-  (b) if, within 14 days of getting the council's notice, the Secretary has agreed an arbitrator with the council, the agreed arbitrator shall settle the dispute:
-  (c) if, within 14 days of getting the council's notice, the Secretary has not agreed an arbitrator with the council, an arbitrator appointed jointly by the Secretary and the arbitrator originally proposed by the council shall settle the dispute:
-  (d) the arbitrator's decision is final.
-(9) No foreign student who is not an exempt student shall be enrolled at a tertiary institution except with the consent of the council.
-(10) Except as provided in subsection (12) or subsection (13), no foreign student who is not an exempt student shall be enrolled at a tertiary institution if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
-(11) Except as provided in subsection (12) or subsection (13), no foreign student who is not an exempt student shall be enrolled in any subject, course, or programme at a tertiary institution if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol in the subject, course, or programme and has applied for enrolment in it is not able to be enrolled in it.
-(12) Any assisted student may be enrolled at a tertiary institution, or in a subject, course, or programme at a tertiary institution, by agreement between the council and the chief executive of the Ministry of External Relations and Trade.
-(13) Notwithstanding that domestic and exempt students may not be able to be enrolled, a foreign student who is not an exempt student may be enrolled at a tertiary institution, or in any subject, course, or programme at a tertiary institution, if the enrolment is in a vacant place—
-  (a) that the council established for foreign students; and
-  (b) whose continued availability is dependent on the fees payable by foreign students enrolled in it.
-(14) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
-  (a) a certificate signed by the chief executive of the Ministry of External Relations and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
-  (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
-(15) The council of a tertiary institution shall—
-  (a) when a foreign student enrols, re-enrols, or resumes attendance, at the institution, give the Secretary written notice (to the best of the council's knowledge) of the student's name, nationality, and course:
-  (b) when a foreign student ceases to be enrolled at, or ceases to attend the institution, notify the Secretary in writing:
-  (c) comply with all accounting requirements relating to foreign students enrolled at the institution contained in any notice published by the Minister in the Gazette (being notice expressed to apply to the institution or an institution of a class or description to which the institution belongs) that is for the time being in force.
-
-### 21 Bulk funding of tertiary institutions
-(1) In each financial year the governing body of every college of education, technical institute, and community college—out of money appropriated by Parliament for the purpose.
-  (a) shall be paid a general grant; and
-  (b) may be paid 1 or more special grants,—
-(2) The amount of every general and special grant shall be determined by the Minister.
-(3) The Minister shall ensure that no special grant is paid to a governing body before the Minister has given it written notice of the purposes for which the grant is to be used.
-(4) A governing body shall ensure that a special grant is not used except for the purposes specified for it by the Minister.
-(5) Subject to subsection (4), the provisions of any other enactment, and the terms of any trust or endowment,—
-  (a) the income and capital of a college of education, technical institute, or community college, (within the meaning of the principal Act) shall be applied in doing whatever its governing body thinks will best accomplish the purposes it was established for; and
-  (b) the governing body may from time to time, out of the income, create, maintain, or add to, a fund or funds for any one or more of the purposes for which it may be applied.
-(6) Paragraph (b) of subsection (5) does not limit the generality of paragraph (a).
-(7) Amendment(s) incorporated in the Act(s).
-
-### 22 Borrowing powers of governing bodies of tertiary institutions
-(1) In this section, tertiary authority means the governing body of a teachers college, technical institute, or community college.
-(2) A tertiary authority may, with the written consent of the Minister of Education given with the concurrence of the Minister of Finance, borrow any money from any source on and subject to any terms and conditions.
-(3) The Minister of Education may, out of money appropriated by Parliament for the purpose, make to any tertiary authority any advance the Minister thinks fit, upon terms approved by the Minister of Finance.
-(4) Except for paragraphs (b) to (d) of section 122(1), sections 122 to 124 of the Local Authorities Loans Act 1956 shall (so far as they relate to illegal borrowing and with any necessary modifications) apply to the borrowing of money by tertiary authorities as if—
-  (a) The references to a local authority in those provisions were references to a tertiary authority; and
-  (b) The references to that Act in sections 122(1) and 124(1) were references to the principal Act.
-(5) For the avoidance of doubt, it is hereby declared that all actions of tertiary authorities are, and are deemed always to have been, as valid and effectual as if this section had come into force on 20 July 1987.
 
 ### 23 Bulk funding of early childhood educational institutions
 (1) The Minister may from time to time—
@@ -8385,3 +8919,50 @@ This Act is the Education Amendment Act (No 3) 2010.
 (5) Despite subsection (4), when the Secretary is deciding whether to fully register a school to which that subsection applies, he or she must do so as if—
   (a) old section 35A had not been repealed by section 11 of this Act, but continued in force; and
   (b) he or she were considering under old section 35A whether to fully register a provisionally registered school.
+
+### 1 Title
+This Act is the Education Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part Part 2 — Transitional arrangements and amendments to other enactments
+
+**Transitional provisions**
+
+### 43 Qualifications and standards existing before commencement of this Act
+On the commencement of this Act,—
+  (a) all qualifications listed on the Qualifications Framework immediately before the commencement of this Act are deemed to be qualifications listed on the Qualifications Framework under section 248 of the principal Act; and
+  (b) all standards listed on the Directory of Assessment Standards immediately before the commencement of this Act are deemed to be standards listed under section 248A of the principal Act.
+
+### 44 Policies and criteria under former section 253 and rules under former section 265
+(1) On the commencement of this Act,—
+  (a) all policies and criteria made under former section 253 of the principal Act and in force immediately before the commencement of this Act are deemed to be rules made under section 253 of the principal Act; and
+  (b) all rules made under former section 265 of the principal Act and in force immediately before the commencement of this Act are deemed to be rules made under section 253 of the principal Act.
+(2) All policies and criteria that exist by the operation of subsection (1)﻿(a) and all rules that exist by the operation of subsection (1)﻿(b) expire on the close of 31 December 2012.
+
+### 45 Course approvals, accreditations, consents, etc
+(1) On the commencement of this Act,—
+  (a) a course approval granted under former section 258 of the principal Act and that existed immediately before commencement is deemed to be a programme approval granted under section 249 of the principal Act:
+  (b) a course approval granted under former section 258 of the principal Act that does not lead to a qualification on the New Zealand Qualifications Framework is deemed to be a training scheme approval granted under section 251 of the principal Act:
+  (c) an accreditation granted under former section 259 of the principal Act and that existed immediately before commencement is deemed to be an accreditation granted under section 250 of the principal Act:
+  (d) a consent to assess against standards granted by the Qualifications Authority and that existed immediately before commencement is deemed to be a consent to assess against standards granted under section 252 of the principal Act:
+  (e) a consent granted under former section 254 of the principal Act and that existed immediately before commencement is deemed to be a consent granted under section 253B of the principal Act:
+  (f) fees charged under former section 266 of the principal Act that, immediately before commencement, were owed to the Authority are deemed to be fees charged under section 254 of the principal Act.
+(2) If, immediately before commencement, an institution provided study or training under a consent to assess against standards,—
+  (a) the institution must, within 12 months of commencement, apply for training scheme approval for the study or training; and
+  (b) if it fails to apply for training scheme approval within that period, the consent to assess against standards that it holds by the operation of subsection (1)﻿(d) lapses on the date that is 12 months after commencement.
+(3) Subsection (2) does not apply where the institution had a course approval or an accreditation to provide the study or training.
+(4) In this section, commencement means commencement of this Act.
+
+**Transitional provisions relating to private training establishments**
+
+### 46 Transitional arrangements for private training establishments
+(1) A registered private training establishment that existed immediately before the commencement of this Act must, in order to maintain its registration,—
+  (a) do the following things within 6 months of the commencement of this Act:
+    (i) give the Authority a statutory declaration from each governing member of the establishment that satisfies the requirements of section 232D(2)﻿(c)﻿(i) and (ii); and
+    (ii) satisfy the Authority that it complies with the requirements of section 233(1)﻿(h) relating to the provision of certain information; and
+  (b) provide, within 6 months of receiving a request from the Authority, any application or information required by the Authority for the purpose of determining whether each governing member of the establishment is a fit and proper person; and
+  (c) satisfy the Authority, within 3 years of the commencement of this Act, that each governing member of the establishment is a fit and proper person.
+(2) A failure to comply with subsection (1) is a failure to meet the relevant criteria set out in section 233(1), and section 233D applies accordingly.
+(3) In subsection (1), a registered private training establishment means a private training establishment that was granted registration by the Authority under section 236 of the principal Act before it was amended by this Act.
