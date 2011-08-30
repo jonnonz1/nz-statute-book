@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2011-08-30_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
@@ -720,7 +720,9 @@ In this section and sections 45B to 45H, unless the context otherwise requires,�
 
 ### 45F Manner in which 10% bonus is to be provided and restriction on amount of 10% bonus
 (1) If a borrower's IRD loan balance will be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at the date on which the final excess repayment was made.
-(2) If a borrower's IRD loan balance will not be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at 1 April in the tax year that follows the tax year in respect of which the excess repayments were made.
+(2) If a borrower's loan balance will not be fully repaid as a result of being reduced by a 10% bonus, that bonus must be credited to the borrower's loan balance with effect from—
+  (a) 1 April in the tax year that follows the tax year for which the excess repayments were made; or
+  (b) any other date that the Commissioner considers appropriate if the borrower dies or is declared bankrupt.
 (3) Nothing in subsection (1) or (2) requires the Commissioner to credit a 10% bonus to a borrower's IRD loan balance before the Commissioner has determined that borrower's total excess repayments in respect of a tax year.
 (4) The total amount of a 10% bonus that may be provided to a borrower must not exceed an amount equal to one-eleventh of that borrower's IRD loan balance on either—
   (a) the date on which the 10% bonus is provided; or
@@ -891,8 +893,8 @@ Sections 57B to 57D—
   (a) apply despite anything to the contrary in this Act; and
   (b) only apply to a refund that was elected or requested by a borrower under section 56, or requested by a borrower under section 57, on or after 30 November 2005.
 
-### 57B No refunds for deductions or payments made prior to 1 April 2004
-No refund may be made under section 56 or section 57 of any amount that was deducted or paid in excess (as set out in section 56(1)(a) to (e) or section 57(1)) prior to 1 April 2004.
+### 57B No refunds for deductions or payments made prior to 31 March 2006
+No refund may be made under section 56 or section 57 of any amount that was deducted or paid in excess (as set out in section 56(1)(a) to (e) or section 57(1)) prior to 31 March 2006.
 
 ### 57C Certain refunds not entitled to full interest write-off under section 38AK
 (1) This section applies to refunds made under section 56 or section 57 of any amount that was deducted or paid in excess (as set out in section 56(1)(a) to (e) or section 57(1)) during the period from 31 March 2004 to 31 March 2006 (referred to in this section and section 57D as a relevant refund).
@@ -1001,6 +1003,95 @@ The provisions of this Act shall supplement the provisions of the loan contract 
 
 ### 63A Loan contract enforceable against minor
 A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the Minors' Contracts Act 1969, as if the borrower were aged 18 years.
+
+### 63B Initial disclosure
+The loan manager must provide a borrower with a copy of the borrower's student loan contract before the day that is 6 working days after the day on which the contract is entered into.
+
+### 63C Certain information must be disclosed in loan contract
+(1) Every loan contract entered into on or after the date on which this section comes into force must specify the following information that applies at the date the loan contract is entered into:
+  (a) the repayment threshold:
+  (b) the total interest rate:
+  (c) the repayment percentage:
+  (d) the amount of any student loan establishment fee:
+  (e) the amount of the annual administration fee charged under section 63L:
+  (f) any other matters specified in regulations.
+(2) The Commissioner must inform borrowers in accordance with section 63D if any of the information specified in accordance with subsection (1) changes.
+
+### 63D Method of informing borrowers
+For the purposes of section 63C(2), the Commissioner must inform a borrower—
+  (a) by—
+    (i) providing the information free of charge on an Internet site that allows the borrower to access the information at all reasonable times; and
+    (ii) making the information available for inspection free of charge, and for purchase at a reasonable price, at each office of the Inland Revenue Department during the period from 8 am to 4.30 pm each working day; or
+  (b) by giving public notice.
+
+### 63E Continuing disclosure of information
+(1) The loan manager or the Commissioner must disclose the information set out in section 63F to the borrower under a student loan contract.
+(2) The information must—
+  (a) be disclosed at least once in each 6-month period following the day on which the contract is entered into; and
+  (b) relate to the previous 6-month period.
+
+### 63F Content of information disclosed
+Each disclosure of information in accordance with section 63E must contain as much of the following information as is applicable to the borrower or the student loan contract:
+  (a) the opening and closing dates of the period covered by the disclosure; and
+  (b) the loan balance on the opening and closing dates; and
+  (c) the date and amount, and a description, of each amount advanced to the borrower under the contract during the period covered by the disclosure; and
+  (d) the date and amount of any interest charged to the borrower during the period covered by the disclosure; and
+  (e) the total interest rate that applies during the period covered by the disclosure; and
+  (f) the date and amount, and a description, of each fee charged to the borrower during the period covered by the disclosure; and
+  (g) the date and amount, and a description, of each penalty charged to the borrower during the period covered by the disclosure.
+
+### 63G Disclosure of changes to obligations under student loan contract
+(1) Subsection (2) applies if—
+  (a) a change is made to a borrower's obligations under a student loan contract; and
+  (b) that change increases the borrower's obligations under that contract in a more than minor way, including a change to—
+    (i) the borrower's repayment obligations; or
+    (ii) the repayment percentage; or
+    (iii) the total interest rate; and
+  (c) that change is made—
+    (i) without the borrower's prior agreement; or
+    (ii) by, or as a consequence of, an enactment.
+(2) Details of the change must be disclosed to the borrower within 7 months after the day on which the change is made.
+
+### 63H Direct disclosure of information and changes
+(1) Disclosure under sections 63E to 63G must be made—
+  (a) by means of information that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
+  (b) by an electronic means (except a fax), if the person making the disclosure complies with the Electronic Transactions Act 2002, including by email or the Internet (if the borrower for whom the disclosure is intended is directly alerted to it in some manner).
+(2) Despite subsection (1)(b) of this section and section 16 of the Electronic Transactions Act 2002, the consent of a borrower is not required in order for disclosure to be made in an electronic form.
+(3) However, subsection (1) does not apply if the loan manager or the Commissioner, as applicable, cannot reasonably locate the borrower.
+
+### 63I Public disclosure of changes
+Disclosure under section 63G must also be made—
+  (a) by providing the information free of charge on an Internet site that allows a borrower to access the information at all reasonable times; and
+  (b) by giving public notice that the information is available on that Internet site.
+
+### 63J Satisfaction of requirements to disclose
+If disclosure is made in accordance with sections 63E to 63H, the requirements to disclose under those sections are satisfied regardless of whether the borrower receives the information that was disclosed.
+
+### 63K Cap on student loan establishment fees
+A student loan establishment fee charged by the loan manager to a borrower under a student loan contract must not exceed $60.
+
+### 63L Annual administration fee
+(1) If a borrower has a loan balance of $20 or more on the close of 31 March 2012,—
+  (a) an annual administration fee of $40 must be charged by the Commissioner to that borrower for the 1 April 2011 to 31 March 2012 tax year; and
+  (b) that borrower's loan balance is increased on 1 April 2012 by the amount of that fee.
+(2) However, no fee may be charged under subsection (1) to a borrower if that borrower is charged with a student loan establishment fee during the period starting on 1 April 2011 and ending on 31 March 2012.
+
+### 63M Student loan contracts are not credit contracts
+(1) A loan contract is not—
+  (a) a credit contract for the purposes of the Credit Contracts Act 1981:
+  (b) a credit contract or a consumer credit contract for the purposes of the Credit Contracts and Consumer Finance Act 2003.
+(2) No cause of action exists under the Credit Contracts Act 1981 or the Credit Contracts and Consumer Finance Act 2003 in relation to a loan contract.
+(3) This section applies—
+  (a) to all loan contracts regardless of when they were entered into; and
+  (b) despite anything to the contrary.
+
+### 63N Commissioner may exercise rights in loan contracts to recall loans
+(1) The Commissioner may exercise any right or power in a loan contract to recall or demand repayment of all or any part of a loan balance.
+(2) To avoid doubt, the right or power may be exercised in the name of the Commissioner without any assignment by the lender.
+(3) This section applies—
+  (a) whether or not the Commissioner is the lender under the loan contract or a person on whom the loan contract confers the right or power; and
+  (b) despite section 63 or anything in the loan contract or any other Act; and
+  (c) whether the loan contract was signed before or after the date on which this section comes into force.
 
 ## Part 5 — Challenges after transfer of loan balance to Commissioner
 
@@ -1168,6 +1259,7 @@ If any borrower evades, or attempts to evade, or does any act with intent to eva
   (b)
   (ba)
   (bb) specifying a list of charitable organisations for the purposes of section 38AE(1)(b):
+  (bc) specifying further information requirements in accordance with section 63C(1)(f):
   (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2)
