@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-08-30_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1572,11 +1572,12 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Accident Compensation Corporation |  |  |  |  |  |
-| Career Services |  |  |  |  |  |
+| Careers New Zealand |  |  |  |  |  |
 | Civil Aviation Authority of New Zealand |  |  |  |  |  |
 | Crown Health Financing Agency |  |  |  |  |  |
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission |  |  |  |  |  |
+| Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
