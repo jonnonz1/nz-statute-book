@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2011-08-09_
+_Consolidation as at 2011-09-08_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -839,6 +839,7 @@ The substance gamma-hydroxybutyrate (GHB) (commonly known as fantasy) and—
 - **Benzphetamine** (2-benzylmethylamino-1-phenylpropane)
 - **Cathinone** (2-amino-1-phenylpropan-1-one)
 - **DOET** (2-amino-1-(2,5-dimethoxy-4-ethylphenyl) propane)
+- **Ephedrine**
 - **N-ethyl MDA** (2-ethylamino-1-(3,4-methylenedioxyphenyl) propane)
 - **N-ethylamphetamine** (2-ethylamino-1-phenylpropane)
 - **Fencamfamine** (N-ethyl-3-phenylbicyclo[2.2.1]heptan-2-amine)
@@ -852,6 +853,7 @@ The substance gamma-hydroxybutyrate (GHB) (commonly known as fantasy) and—
 - **4-methylthioamphetamine**
 - **Norpseudoephedrine** (threo-2-amino-1-hydroxy-1-phenylpropane), including cathine
 - **Propylhexedrine** (1-cyclohexyl-2-methylaminopropane)
+- **Pseudoephedrine**
 - **Pyrovalerone** (1-(4-methylphenyl)-2-(1-pyrrolidinyl)-1-pentanone).
 
 ### 2
@@ -1035,10 +1037,7 @@ The salts of the substances mentioned in this Part and the salts of the isomers,
 Substances containing any proportion of a substance mentioned in clause 1, clause 2, clause 3, or clause 4, other than a preparation or mixture named or described in Part 6.
 
 ### 6
-Preparations of pseudoephedrine, its salts, isomers, esters, and ethers (if any), and the salts of its isomers, esters, and ethers (if any), being preparations—
-(a) in solid or liquid form; and
-(b) containing not more than 60 mg of pseudoephedrine per dosage unit; and
-(c) containing either a single ingredient or being in combination with other pharmacologically active ingredients, being ingredients that are not named or described in Schedule 1 or 2 or in Parts 1, 2, 4, or 5 of this schedule.
+[Repealed]
 
 ### 1 The following substances, namely:
 - **Allobarbital** (5,5-diallylbarbituric acid)
@@ -1083,7 +1082,6 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Cloxazolam**
 - **Delorazepam**
 - **Diazepam**
-- **Ephedrine**
 - **Estazolam**
 - **Ethchlorvynol** (ethyl-2-chlorovinylethynyl-carbinol)
 - **Ethinamate** (1-ethynylcyclohexanol carbamate)
@@ -1114,7 +1112,6 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Pinazepam**
 - **Pipradrol** (1,1-diphenyl-1-(2-piperidyl)methanol)
 - **Prazepam**
-- **Pseudoephedrine** (other than a preparation referred to in clause 6 of Part 3)
 - **SPA** ((−)-1-dimethylamino-1,2-diphenylethane)
 - **Temazepam**
 - **Tetrazepam**
@@ -1143,7 +1140,6 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 ### 1 The following substances:
 - **Acetic anhydride**
 - **N-acetylanthranilic acid**
-- **Ephedrine**
 - **Ergometrine**
 - **Ergotamine**
 - **Isosafrole**
@@ -1152,7 +1148,6 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **1-phenyl-2 propanone**
 - **Piperonal**
 - **Potassium permanganate**
-- **Pseudoephedrine**
 - **Safrole** .
 
 ### 2
@@ -1182,7 +1177,7 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 ## Schedule 5 — Amount, level, or quantity at and over which controlled drugs are presumed to be for supply
 
 ### 1 The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
-Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixture
+Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixture
 
 ### 2
 Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
