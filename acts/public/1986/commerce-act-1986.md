@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2011-09-15_
 
 > Title
 
@@ -2829,6 +2829,8 @@ The Regulations (Disallowance) Act 1989 does not apply to material incorporated 
 | Energy Infrastructure Limited and Petroleum Infrastructure Limited | The 032 pipeline running from the T-junction on the Maui Pipeline at Ngatimaru Road to the Pohokura Production Station and the Methanex Motunui Methanol Plant |
 | Vector Limited | Kapuni—Faull Road Mixing Station low temperature separator gas pipeline |
 | Nova Gas Limited | All gas pipelines |
+| Origin Energy Resources NZ (Rimu) Ltd | Rimu Production Station—Mokoia Mixing station gas pipeline |
+| TAG Oil (NZ) Limited | Sidewinder Production Station—Vector 300 Line at Durham Road Upper |
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Commerce Amendment Act 1990 and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as “the principal Act”).
