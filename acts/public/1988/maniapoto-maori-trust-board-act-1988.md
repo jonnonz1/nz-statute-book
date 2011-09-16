@@ -1,5 +1,5 @@
 # Maniapoto Maori Trust Board Act 1988
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2011-09-16_
 
 > An Act to establish the Maniapoto Maori Trust Board
 
@@ -43,6 +43,4 @@ The Board consists of 15 persons, appointed or elected as follows:
 (4) Sections 21 to 23 of the Maori Trust Boards Act 1955 shall also apply with any necessary modifications to regional management committees.
 
 ### 9 Annual hui
-(1) The Board shall in every year hold a hui at which it shall report on its activities and its plans for the future to the beneficiaries.
-(2) Not later than 3 months before the date of the proposed hui in any year, the secretary of the Board shall cause public notice to be given to the beneficiaries of the Board of the date and place of the proposed hui.
-(3) Section 46(2) of the Maori Trust Boards Act 1955 shall apply to every public notice required to be given under subsection (2).
+[Repealed]
