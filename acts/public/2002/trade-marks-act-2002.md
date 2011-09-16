@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2005-12-15_
+_Consolidation as at 2011-09-16_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -34,7 +34,9 @@ In this Act,—
   - **advisory committee** means the advisory committee appointed under section 177
   - **applicant** —
     (a) means a person who has applied for the registration of a trade mark; and
-    (b) includes the assignee of an application, if the assignment has been effected under section 82
+    (b) includes the assignee of an application, if the assignment has been effected under section 82; and
+    (c) in sections 134G, 134H, and 134K, means the applicant for a search warrant; and
+    (d) in section 134U means the applicant for the order referred to in that section
   - **application** —
     (a) means an application for the registration of a trade mark; and
     (b) includes an application for the registration of a series of trade marks
@@ -44,7 +46,9 @@ In this Act,—
     (b) distinguishing, in the course of trade,—
       (i) goods certified by any person in respect of origin, material, mode of manufacture, quality, accuracy, or other characteristic from goods not so certified; or
       (ii) services certified by any person in respect of quality, accuracy, performance, or other characteristic from services not so certified
-  - **chief executive** has the meaning set out in section 135
+  - **chief executive** ,—
+    (a) in subpart 3 of Part 4 (border protection measures), has the meaning set out in section 135; and
+    (b) in the rest of this Act, means the chief executive of the Ministry
   - **claimant** has the meaning set out in section 135
   - **collective association** means a body (whether incorporated or not) that has or is able to have members, and is—
     (a) constituted for the joint benefit of its members for the time being; and
@@ -65,7 +69,9 @@ In this Act,—
   - **convention country application** means an application for the registration of a trade mark that is made in a convention country (whether before or after it became a convention country) and that is, in accordance with the—
     (a) terms of a treaty between 2 or more convention countries, equivalent to an application made in any one of those convention countries; or
     (b) law of any convention country, equivalent to an application made in that convention country
-  - **court** means the High Court
+  - **court** —
+    (a) means the High Court; and
+    (b) for the purposes of sections 126 to 134, and 134T to 134V, includes a District Court or a Judge of that court
   - **Customs officer** has the meaning set out in section 135
   - **deceased owner** —
     (a) means a registered owner of any trade mark who has died, whether before or after the commencement of this Act; and
@@ -73,6 +79,12 @@ In this Act,—
   - **deemed date of registration** means,—
     (a) in the case of a trade mark to which section 36 applies, the date of the application in the convention country (subject to any enactment relating to international arrangements):
     (b) in any other case, the date of the application
+  - **document** , for the purposes of subpart 2A of Part 4 and sections 155B and 155D to 155F, means—
+    (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, and includes—
+      (i) a label, marking, or other writing that identifies or describes a thing of which it forms a part, or to which it is attached:
+      (ii) a book, map, plan, graph, or drawing:
+      (iii) a photograph, film, or negative; and
+    (b) information electronically recorded or stored, and information derived from that information
   - **geographical indication** has the same meaning as in section 2(1) of the Geographical Indications Act 1994
   - **infringing goods** , in relation to a registered trade mark, are goods that bear, or goods the packaging of which bears, a sign that is identical with or similar to the registered trade mark and—
     (a) the application of the sign to the goods or their packaging is an infringement of the registered trade mark; or
@@ -84,22 +96,23 @@ In this Act,—
     (a) specifically designed or adapted for making copies of a sign that is identical or similar to the registered trade mark; and
     (b) in the possession, custody, or control of a person who knows or has reason to believe that the object has been or is to be used to produce infringing goods or material
   - **infringing sign** has the meaning set out in section 135
-  - **licensee** , in relation to a trade mark, means a person who is for the time being registered as a licensee of the trade mark in respect of any of the goods or services for which the trade mark is registered or who is a registered user of the trade mark under the Trade Marks Act 1953
+  - **International Bureau** means the International Bureau of the World Intellectual Property Organization
+  - **licensee** , in relation to a trade mark, means a person whose use of the trade mark is authorised by, and subject to the control of, the owner of the trade mark
+  - **Madrid Protocol** means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid on 27 June 1989, as amended from time to time
   - **member** ,—
     (a) in relation to a collective association, means a member of the association; and
     (b) in relation to a collective trade mark, means a member of the collective association that is the owner of the collective trade mark
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **Nice Agreement** means the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks adopted at Nice on 15 June 1957, as amended from time to time
+  - **Nice Classification** means the classification of goods and services for the registration of marks published from time to time under the Nice Agreement
   - **owner** ,—
     (a) in relation to a registered trade mark that is not a certification trade mark or a collective trade mark, means the person in whose name the trade mark is registered; and
     (b) in relation to a collective trade mark that is registered, means the collective association in whose name the trade mark is registered; and
     (c) in relation to a certification trade mark that is registered, means the person who certifies the goods or services to which the certification trade mark relates; and
-    (d) in relation to a an unregistered trade mark, means the person who owns all of the rights in the mark
+    (d) in relation to an unregistered trade mark, means the person who owns all of the rights in the mark
   - **Paris Convention** means the Convention for the Protection of Industrial Property signed at Paris on 20 March 1883, as revised or amended from time to time
-  - **permitted use** means use—
-    (a) of a trade mark by a licensee of the trade mark in relation to any goods or services—
-      (i) with which the licensee is connected in the course of trade; and
-      (ii) in respect of which the trade mark is registered; and
-    (b) that complies with any conditions to which the licensee's registration is subject
   - **protected geographical indication** means a geographical indication that is entered on the Register of Protected Geographical Indications established under section 8 of the Geographical Indications Act 1994
+  - **protected international trade mark (New Zealand)** means a trade mark that is entitled to protection in New Zealand under the Madrid Protocol
   - **qualified person** , in relation to a deceased owner, means a person who satisfies the Commissioner—
     (a) that he or she has obtained or is entitled to obtain probate of the will of the deceased owner or letters of administration in his or her estate in the place where the deceased owner was domiciled at his or her death, or that he or she is the legal representative of the deceased owner in that place:
     (b) that probate of the will of the deceased owner or letters of administration in his or her estate have not been granted or resealed in New Zealand:
@@ -109,10 +122,10 @@ In this Act,—
   - **regulations** means, except in sections 54 to 56, 63, 79, and 80, regulations in force under this Act
   - **series of trade marks** means a number of trade marks for the same goods or description of goods or the same services or description of services (as the case may be) that—
     (a) resemble each other in their material particulars; and
-    (b) differ only in respect of—
-      (i) statements of the goods or services for which they are, or are proposed to be, used; or
-      (ii) statements of number, price, quality, or names of places; or
-      (iii) other matters of a non-distinctive character that do not substantially affect the identity of the trade mark; or
+    (b) differ only in respect of 1 or more of the following matters:
+      (i) statements of the goods or services for which they are, or are proposed to be, used:
+      (ii) statements of number, price, quality, or names of places:
+      (iii) other matters of a non-distinctive character that do not substantially affect the identity of the trade marks:
       (iv) colour
   - **sign** includes—
     (a) a brand, colour, device, heading, label, letter, name, numeral, shape, signature, smell, sound, taste, ticket, or word; and
@@ -124,8 +137,8 @@ In this Act,—
       (i) being represented graphically; and
       (ii) distinguishing the goods or services of one person from those of another person; and
     (b) includes,—
-      (i) except in sections 83 to 87, a certification trade mark; and
-      (ii) except in sections 83 to 87, a collective trade mark
+      (i) except in section 85, a certification trade mark; and
+      (ii) except in section 85, a collective trade mark
   - **transmission** means transmission by operation of law, devolution on the personal representative of a deceased person, and any other mode of transfer that is not assignment
   - **TRIPS Agreement** means the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the WTO Agreement, as revised or amended from time to time
   - **working day** means a day of the week other than—
@@ -325,7 +338,7 @@ For the purposes of sections 28 and 29, the State emblems (other than the nation
 ### Subpart 1 — Preliminary
 
 ### 31 Classification of trade marks
-(1) Goods and services must be classified for the purposes of the registration of trade marks according to a prescribed system of classification.
+(1) Goods and services must be classified, for the purpose of registration of a trade mark, according to the edition of the Nice Classification in effect at the time of application for registration of the trade mark.
 (2) Any question arising as to the class within which any goods or services fall must be determined by the Commissioner, whose decision is final.
 
 ### Subpart 2 — Applications
@@ -452,11 +465,10 @@ On the registration of a trade mark, the Commissioner must—
 (2) Every qualified person who is registered under this section as the owner of a trade mark must hold it subject to all existing interests and equities affecting it.
 (3) Nothing in section 70 or section 73 of the Administration Act 1969 limits this section.
 
-### 53 Replacement certificate of registration
+### 53 Reissuing certificate of registration
 The Commissioner may issue a further certificate of registration if—
   (a) an application for a further certificate of registration has been made in the prescribed manner; and
-  (b) the prescribed fee, if any, has been paid; and
-  (c) the Commissioner is satisfied that a certificate of registration has been lost or destroyed or in any other case in which he or she thinks it expedient.
+  (b) the prescribed fee, if any, has been paid.
 
 ### Subpart 5 — Additional matters that relate to certification trade marks
 
@@ -539,21 +551,22 @@ The Commissioner may, on the application of an aggrieved person or on the Commis
 
 ### 66 Grounds for revoking registration of trade mark
 (1) The registration of a trade mark may be revoked on any of the following grounds:
-  (a) that, up to the date 1 month before the date of the application for the revocation of the registration of the trade mark, a continuous period of 3 years or more elapsed following the actual date of registration during which the trade mark was not put to genuine use in the course of trade in New Zealand, by any owner for the time being, in relation to the goods or services in respect of which it is registered:
-  (b) except as provided in subsection (3), that the use of the trade mark has been suspended for an uninterrupted period of 3 years:
+  (a) that at no time during a continuous period of 3 years or more was the trade mark put to genuine use in the course of trade in New Zealand, by the owner for the time being, in relation to goods or services in respect of which it is registered:
+  (b)
   (c) that, in consequence of acts or inactivity of the owner, the trade mark has become a common name in general public use for a product or service in respect of which it is registered:
   (d) that—
     (i) the article or substance was formerly manufactured under a patent or the service was formerly a patented process; and
     (ii) a period of 2 years or more has elapsed since the expiry of the patent; and
     (iii) the word is or the words are the only practicable name or description of the article, substance, or service:
   (e) that, in consequence of the trade mark's use by the owner or with the owner's consent in relation to the goods or services in respect of which the trade mark is registered, the trade mark is likely to deceive or confuse the public, for instance as to the nature, quality, or geographical origin of those goods or services.
+(1A) For the purposes of subsection (1)(a), continuous period means a period that commences from a date after the actual date of registration and continues uninterrupted up to the date 1 month before the application for revocation.
 (2) However, despite subsection (1), a trade mark may not be revoked for its non-use if its non-use is due to special circumstances that are outside the control of the owner of the trade mark.
-(3) The registration of a trade mark must not be revoked on the grounds in subsection (1)(a) or (b) if that use is commenced or resumed after the expiry of the 3-year period and before the application for revocation is made.
+(3) The registration of a trade mark must not be revoked on the ground in subsection (1)(a) if that use is commenced or resumed after the expiry of the 3-year period and before the application for revocation is made.
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 3-year period but within the period of 1 month before the making of the application for revocation must be disregarded unless preparation for the commencement or resumption began before the owner became aware that the application may be made.
 
 ### 67 Onus of proof for revocation of registration of trade mark for non-use
-If an owner or a licensee intends to oppose an application for the revocation of the registration of a trade mark under section 66(1)(a) or (b), the owner or the licensee must, within the period specified by the Commissioner or the court,—
-  (a) provide proof of the use of the trade mark if the grounds in section 66(1)(a) or (b) form the basis for the application; or
+If an owner or a licensee intends to oppose an application for the revocation of the registration of a trade mark under section 66(1)(a), the owner or the licensee must, within the period specified by the Commissioner or the court,—
+  (a) provide proof of the use of the trade mark if the ground in section 66(1)(a) forms the basis for the application; or
   (b) raise the special circumstances that justify the non-use of the trade mark if section 66(2) applies.
 
 ### 68 Revocation of registration of trade mark
@@ -614,9 +627,12 @@ The owner of a registered trade mark may not alter the registered trade mark aft
 
 ### 78 Alteration of register
 After the actual date of registration of a trade mark, the Commissioner may,—
-  (a) at the request of the owner or licensee of the trade mark, as the case may be, allow the owner's or licensee's name or address to be altered on the register:
+  (a) at the request of the owner of the trade mark, allow the owner’s name or address to be altered on the register:
   (b) at the request of the owner, strike out any goods or services, or classes of goods or services, from those in respect of which the trade mark is registered:
-  (c) at the request of the owner, enter a memorandum that relates to the trade mark that does not in any way extend the rights given by the existing registration of the trade mark.
+  (c) at the request of the owner,—
+    (i) enter a memorandum that relates to the trade mark, provided that the memorandum does not in any way extend the rights given by the existing registration of the trade mark; or
+    (ii) alter a memorandum, provided that the alteration does not in any way extend the rights given by the existing registration of the trade mark; or
+    (iii) remove a memorandum, provided that the removal does not in any way extend the rights given by the existing registration of the trade mark.
 
 **Alteration of certification trade mark regulations**
 
@@ -631,9 +647,7 @@ After the actual date of registration of a trade mark, the Commissioner may,—
 **Assignment or transmission**
 
 ### 81 Commissioner's certificate that relates to certain assignments or transmissions
-The Commissioner may, if requested by—
-  (a) an applicant, issue a certificate that states whether or not the proposed assignment or transmission of the applicant's application is likely to deceive or confuse; or
-  (b) the owner of a registered trade mark, issue a certificate that states whether or not the proposed assignment or transmission of the trade mark is likely to deceive or confuse.
+[Repealed]
 
 ### 82 Registration of title to trade mark
 (1) A trade mark is assignable and transmittable in respect of all or some of the goods or services for which it is registered.
@@ -649,38 +663,19 @@ The Commissioner may, if requested by—
 **Licensees**
 
 ### 83 Application for registration of licensee
-(1) A person who is not the owner of a trade mark may, with or without conditions, be registered as licensee of the trade mark in respect of—
-  (a) any of the goods or services for which the trade mark is registered; or
-  (b) if the trade mark is not registered but an application has been made, any of the goods or services to which the application relates.
-(2) If a person proposes to be registered as a licensee of a trade mark,—
-  (a) the owner and the proposed licensee must apply to the Commissioner in the prescribed manner; and
-  (b) the owner, or some person authorised to act on the owner's behalf and approved by the Commissioner, must make a statutory declaration that the person proposing to be registered as a licensee of a trade mark is entitled to be registered as a licensee; and
-  (c) the owner must give the Commissioner the statutory declaration.
-(3) The Commissioner must file the statutory declaration for public record.
+[Repealed]
 
 ### 84 Registration of licensee
-If the owner and the proposed licensee of a trade mark have complied with section 83(2), the Commissioner must register the proposed licensee as licensee of the trade mark in respect of any goods or services to which the application under that subsection relates.
+[Repealed]
 
 ### 85 Assigning or transmitting right to use trade mark
 Nothing in this Act prevents a licensee from assigning or transmitting the right to use a trade mark.
 
 ### 86 Alteration of registration of licensee
-The registration of a person as a licensee may be altered by the Commissioner as regards the goods or services in respect of which, or any conditions subject to which, it has effect, on the application in the prescribed manner of the owner of the trade mark to which the registration relates.
+[Repealed]
 
 ### 87 Cancellation of registration of licensee
-(1) The Commissioner must cancel the registration of a person as a licensee of a trade mark—
-  (a) in the case of registration as a licensee under section 83(1)(a), if the trade mark is no longer registered; or
-  (b) in the case of registration as a licensee under section 83(1)(b), if the application is withdrawn, abandoned, or rejected.
-(2) The registration of a person as a licensee of a trade mark may be cancelled by the Commissioner—
-  (a) if the Commissioner receives no advice within the time specified by the Commissioner that the relationship between the owner and the licensee of the trade mark described in section 83(1) is current; or
-  (b) on the written application in the prescribed manner of the owner or the licensee of the trade mark; or
-  (c) on the written application of any person on any of the following grounds:
-    (i) that the licensee has used the trade mark in a way that—
-      (A) is not the permitted use; or
-      (B) deceives or confuses; or
-      (C) is likely to deceive or confuse:
-    (ii) that the owner or the licensee misrepresented, or failed to disclose, some fact material to the application for the registration, or that the circumstances have materially changed since the date of the registration:
-    (iii) that the registration should not have been effected having regard to rights vested in the applicant by virtue of a contract in the performance of which the applicant is interested.
+[Repealed]
 
 ## Part 4 — Legal proceedings
 
@@ -741,32 +736,38 @@ A person does not infringe a registered trade mark if, in accordance with honest
   (b) the name of the person's predecessor in business or the name of the person's predecessor's place of business; or
   (c) a sign to indicate—
     (i) the kind, quality, quantity, intended purpose, value, geographical origin, or other characteristic of goods or services; or
-    (ii) the time of production of goods or of the rendering of services.
+    (ii) the time of production of goods or of the rendering of services; or
+  (d) the trade mark where reasonably necessary to indicate the intended purpose of the goods (in particular as accessories or spare parts) or services.
 
 ### 96 No infringement for certain continuous use of unregistered trade mark
 (1) A registered trade mark (trade mark A) is not infringed by the use of an unregistered trade mark (trade mark B) if—
   (a) trade mark B is identical with or similar to trade mark A and is used in relation to any goods or services that are identical with or similar to any goods or services in respect of which trade mark A is registered; and
-  (b) trade mark B has been continuously used by the owner or the owner's predecessor in title and used in relation to those goods or services in the course of trade before, whichever is the earlier of,—
+  (b) trade mark B was used in relation to those goods or services in the course of trade by the owner or a predecessor in title of the owner before whichever is the earlier of the following dates:
     (i) the date of application in New Zealand for the registration of trade mark A; or
-    (ii) the date that the owner first used trade mark A.
+    (ii) the date that the owner, or a predecessor in title, first used trade mark A; and
+  (c) trade mark B has been used continuously in relation to those goods and services in the course of trade by the owner's predecessors in title (if any) and the owner since that date.
 (2) Nothing in this Act entitles the owner of a registered trade mark to—
   (a) interfere with or restrain the use by any person of a trade mark identical or similar to it in relation to goods or services in relation to which that person or the owner's predecessor in title had continuously used that trade mark from a date prior to the commencement of the Trade Marks Amendment Act 1994 if, before that date, the use of that trade mark by that person did not infringe the right to the use of the first-mentioned trade mark given by the registration; or
   (b) object (if use is proved) to that person being put on the register for that identical or similar trade mark in respect of those goods or services or similar goods or services.
 
-### 97 No infringement where certain connection in course of trade
-A trade mark registered—
-  (a) in respect of goods is not infringed by its use in relation to identical or similar goods connected in the course of trade with the owner or licensee if, as to those goods or a bulk of which they form part,—
-    (i) the owner or licensee has applied the trade mark and has not later removed or obliterated it; or
-    (ii) the owner or licensee has consented to the use of the trade mark; or
-  (b) in respect of goods is not infringed by its use in relation to identical or similar goods adapted to form part of, or to be an accessory to, or intended to be provided with or in connection with, other goods or services in relation to which the trade mark has been or can be used without infringement if—
-    (i) the use of the trade mark is reasonably necessary in order to indicate that the goods are so adapted or intended; and
-    (ii) the purpose or the effect of the use of the trade mark is to indicate only a connection in the course of trade between the owner and licensee and the goods; or
-  (c) in respect of services is not infringed by its use in relation to identical or similar services intended to be provided with or in connection with goods or other services in relation to which the trade mark has been or can be used without infringement if—
-    (i) the use of the trade mark is reasonably necessary in order to indicate that the services are intended to be so provided; and
-    (ii) the purpose or the effect of the use of the trade mark is to indicate only a connection in the course of trade between the owner and licensee and the services.
+### 97 No infringement for use in relation to certain identical or similar goods
+A trade mark registered in respect of goods is not infringed by its use in relation to identical or similar goods connected in the course of trade with the owner or licensee if, as to those goods or a bulk of which they form part,—
+  (a) the owner or licensee has applied the trade mark and has not later removed or obliterated it; or
+  (b) the owner or licensee has consented to the use of the trade mark.
 
 ### 97A Exhaustion of rights conferred by registered trade mark
-A registered trade mark is not infringed by the use of the trade mark (including use for the purpose of advertising) in relation to goods that have been put on the market anywhere in the world under that trade mark by the owner or with his or her express or implied consent.
+(1) A registered trade mark is not infringed by the use of the trade mark (including use for the purpose of advertising) in relation to goods that have been put on the market anywhere in the world under that trade mark under any 1 or more of the following circumstances:
+  (a) by the owner:
+  (b) with the owner’s express or implied consent:
+  (c) by an associated person of the owner.
+(2) For the purposes of subsection (1)(c), a person is an associated person of the owner if—
+  (a) they are in the same group of companies; or
+  (b) they are both bodies corporate and they consist of substantially the same members or are directly or indirectly under the control of the same persons; or
+  (c) either of them has effective control of the other's use of the trade mark; or
+  (d) a third person has effective control of the use of the trade mark by each of them.
+(3) For the purposes of subsection (2),—
+  (a) group of companies includes a holding company and its subsidiaries within the meaning of section 5 of the Companies Act 1993; and
+  (b) a person has effective control of the use of a trade mark if that person may authorise the use of the trade mark or has significant influence over how it is used, regardless of how that authorisation or influence arises (for example, whether directly or indirectly and whether by way of proprietary interest, contract, arrangement, understanding, a combination of those things, or otherwise).
 
 ### 98 When owner or licensee consents to use of registered trade mark
 (1) For the purposes of section 97(a), the owner or licensee is deemed to have consented to the use of a trade mark if a person with whom the owner or licensee has an arrangement that relates to the use of the trade mark by the owner or licensee has consented to its use (whether or not that consent is subject to any conditions).
@@ -880,9 +881,9 @@ If the court decides that no order should be made under section 110, the person 
 (1) No proceeding may be commenced for any offence against any of sections 120 to 124 that was committed before the actual date of registration of the trade mark concerned.
 (2) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against any of sections 120 to 124 may be laid at any time within 3 years after the time when the matter of the information arose.
 
-### 118 Application of Criminal Justice Act 1985
+### 118 Application of Sentencing Act 2002
 If a person is convicted of an offence against any of sections 120 to 124 in circumstances where that offence involves the making of profit or gain,—
-  (a) that offence is deemed to have caused a loss of property for the purposes of section 22(1)(b) of the Criminal Justice Act 1985; and
+  (a) that offence is deemed to have caused a loss of property for the purposes of section 32(1)(a) and (c) of the Sentencing Act 2002; and
   (b) the provisions of that Act that relate to the imposition of the sentence of reparation apply accordingly.
 
 ### 119 Liability of officers of body corporate
@@ -992,9 +993,11 @@ If the court decides that no order should be made under section 128, the person 
 
 ### 135 Interpretation
 In this subpart and section 204, unless the context otherwise requires,—
+  - **accepted notice** means a notice given under section 137 that has been accepted by the chief executive under section 139
   - **chief executive** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **claimant** means a person who gives a notice under section 137
   - **control of the Customs** has the same meaning as in section 20 of the Customs and Excise Act 1996
+  - **Customs** means the New Zealand Customs Service
   - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **infringing sign** means a sign that is—
     (a) identical with a trade mark in respect of which a notice has been given under section 137 and is used on or in physical relation to goods that are identical with goods in respect of which the trade mark is registered; or
@@ -1004,7 +1007,7 @@ In this subpart and section 204, unless the context otherwise requires,—
 **Notice of infringing sign**
 
 ### 136 Application of sections 137 to 141
-Nothing in sections 137 to 141 applies in relation to any infringing sign that has been applied to goods in an overseas country by or with the licence of the owner of the registered trade mark to which the infringing sign relates.
+Nothing in sections 137 to 141 applies in relation to any infringing sign that has been applied to goods that are put on the market anywhere in the world under any 1 or more of the circumstances referred to in section 97A(1)(a) to (c).
 
 ### 137 Notice may be given to chief executive
 A person who is the owner of a registered trade mark may give a notice in writing to the chief executive that—
@@ -1026,10 +1029,37 @@ The chief executive must, in relation to any notice given under section 137,—
     (ii) decline the notice if the claimant or the notice given by the claimant does not comply with the requirements of this section and any regulations; and
   (b) within a reasonable period of receiving the notice, advise the claimant whether the notice has been accepted or declined.
 
+### 139A Chief executive may suspend accepted notice
+(1) The chief executive may suspend an accepted notice if the chief executive is satisfied that—
+  (a) the information held in respect of the accepted notice is not correct or is no longer current; or
+  (b) there has been a failure to comply with a requirement concerning the giving of security or indemnity or both; or
+  (c) there has been a failure to comply with an obligation under an indemnity given for an amount in respect of the accepted notice.
+(2) Before suspending an accepted notice, the chief executive must—
+  (a) give written advice of the chief executive’s intention to suspend the accepted notice to—
+    (i) the person who gave the notice under section 137; or
+    (ii) if the chief executive has received notification of an assignment or transmission of the trade mark to which the notice relates, the person notified as the current owner of the trade mark; and
+  (b) include in or with the advice a statement of the chief executive’s reasons; and
+  (c) give the person to whom the advice is given not less than 20 working days to respond; and
+  (d) consider any response made by that person to the chief executive within the time allowed.
+(3) The written advice under subsection (2) may be given—
+  (a) by delivering it to that person; or
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+
+### 139B Notice of suspension
+(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 139A(2)(a).
+(2) The notice of suspension may be given—
+  (a) by delivering it to that person; or
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+
+### 139C Chief executive may reinstate accepted notice
+The chief executive may reinstate an accepted notice suspended under section 139A if the chief executive is satisfied that the grounds for the suspension no longer apply.
+
 ### 140 Duration of accepted notice
-A notice accepted under section 139 remains in force for the period specified in the notice unless—
+(1) An accepted notice remains in force for the period specified in the notice unless—
   (a) it is revoked by the claimant by notice in writing; or
-  (b) the court orders, in proceedings under section 153, that the notice be discharged.
+  (b) the court orders, in proceedings under section 153, that the notice be discharged; or
+  (c) registration of the trade mark to which the notice relates has been cancelled, revoked, declared invalid, or has expired.
+(2) However, an accepted notice is not in force during the period of any suspension under section 139A.
 
 ### 141 Licensee may require notice
 (1) Subject to agreement between a licensee of a registered trade mark and the owner of the trade mark, a licensee is entitled to require the owner to give notice under section 137 in relation to the trade mark.
@@ -1260,13 +1290,34 @@ The decision to which an appeal under this Act relates remains in full force pen
 ### Subpart 1 — Commissioner and Assistant Commissioners of Trade Marks
 
 ### 175 Commissioner and Assistant Commissioners of Trade Marks
-(1) There must be—
-  (a) a Commissioner of Trade Marks who must be appointed under the State Sector Act 1988; and
-  (b) as many Assistant Commissioners of Trade Marks as may be necessary for the purposes of this Act, each of whom must be appointed under the State Sector Act 1988; and
-  (c) other officers and employees that may be necessary for the purposes of this Act, each of whom must be appointed under the State Sector Act 1988.
-(2) Subject to the control of the Commissioner, an Assistant Commissioner has and may exercise the powers, duties, and functions of the Commissioner under this Act.
-(3) The fact that an Assistant Commissioner exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
-(4) The person holding office as Commissioner of Trade Marks under the Trade Marks Act 1953 and every person holding office as an Assistant Commissioner under that Act, immediately before the commencement of this Act, is deemed to have been appointed as Commissioner of Trade Marks or as an Assistant Commissioner of Trade Marks, as the case may be, in accordance with this section.
+(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988,—
+  (a) the Commissioner of Trade Marks; and
+  (b) as many Assistant Commissioners of Trade Marks as may be necessary for the purposes of this Act.
+(2) Those persons are employees of the Ministry, and those appointments may be made separately or in conjunction with any other office in the Ministry.
+
+### 175A Functions of Commissioner
+The functions of the Commissioner are, in accordance with this Act and the regulations, to—
+  (a) examine applications for the registration of trade marks, consider applications for the alteration, renewal, assignment, revocation, declaration of invalidity, and cancellation of registered trade marks and make other decisions relating to the examination and registration of trade marks; and
+  (b) provide preliminary advice and search advice to persons who propose to apply for the registration of trade marks; and
+  (c) appoint and alter the advisory committee under section 177; and
+  (d) provide administrative support to the advisory committee; and
+  (e) maintain the register of trade marks and carry out other duties and responsibilities relating to the register of trade marks; and
+  (f) perform or exercise other functions, duties, and powers conferred on him or her by this Act and the regulations.
+
+### 175B Powers of Assistant Commissioners
+(1) An Assistant Commissioner of Trade Marks has the functions, duties, and powers of the Commissioner under this Act, other than the power to delegate under section 175C, but is subject to the control of the Commissioner.
+(2) The fact that an Assistant Commissioner performs or exercises those functions, duties, and powers is conclusive evidence of the authority to do so.
+
+### 175C Power of Commissioner to delegate
+(1) The Commissioner may delegate to any person, either generally or particularly, any of the Commissioner's functions, duties, and powers (except this power of delegation).
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be subject to any restrictions and conditions that the Commissioner thinks fit; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Commissioner.
+(3) A person to whom any of the functions, duties, and powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) Any reference in this Act or the regulations to the Commissioner includes a reference to the delegate in respect of anything delegated to that person.
 
 ### 176 Hearing before exercise of Commissioner's discretion
 The Commissioner must not exercise any of the Commissioner's discretionary or other powers under this Act or any regulations made under this Act adversely to any person without (if required to do so within the prescribed time) giving the person an opportunity of being heard.
@@ -1304,7 +1355,7 @@ The register must contain the following:
   (a) all registered trade marks with the names and addresses of their owners:
   (b) the actual date of registration, the deemed date of registration, and the date of application in New Zealand:
   (c) assignments and transmissions:
-  (d) the names and addresses of all licensees:
+  (d) memoranda referred to in section 78(c):
   (e) disclaimers:
   (f) conditions:
   (g) any other prescribed matters relating to registered trade marks.
@@ -1441,12 +1492,13 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the amended or substituted classification of goods or services for the purposes of the registration of trade marks under this Act:
   (b) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the registration, or renewal or alteration or cancellation, of trade marks under this Act, including—
     (i) providing for the division of an application for the registration of a trade mark into several applications:
+    (ia) providing for the division of a registration of a trade mark into several registrations:
     (ii) providing for the merging of separate applications or registrations:
     (iii) providing for the registration of a series of trade marks:
-  (c) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the registration of licensees:
+  (c)
   (d) prescribing classes of persons whom the Commissioner may refuse to recognise as agents in respect of proceedings:
   (e) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the importation of infringing goods under this Act, including—
-    (i) requiring a person to give security or an indemnity of an amount, subject to any conditions determined by the chief executive:
+    (i) requiring a person to give security or an indemnity or both, subject to any conditions determined by the chief executive of the New Zealand Customs Service, for any costs incurred by the New Zealand Customs Service in relation to any 1 or more of the detention of goods, the disposal of goods, or the recovery of sums owed:
     (ii) providing for exceptions to any requirement to give security or an indemnity imposed by any regulations made under subparagraph (i):
     (iii) providing for the disposition of any security given under any regulations made under subparagraph (i):
     (iv) prescribing how goods that are forfeited to the Crown under section 151 or section 154 are to be disposed of:
@@ -1458,10 +1510,26 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (ii) the location of and hours of access to the register:
   (h) prescribing matters in respect of which fees are payable under this Act and the amounts of those fees:
   (i) prescribing time and extensions of time in respect of any matters under this Act:
-  (j) prescribing forms for the purposes of this Act:
+  (j) prescribing forms for the purposes of this Act; and those regulations may require—
+    (i) the inclusion in, or attachment to, forms of specified information or documents:
+    (ii) forms to be signed by specified persons:
   (k) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of notices under this Act, including prescribing the matters in respect of which notices are required under this Act:
   (l) regulating, in a manner not inconsistent with this Act, the business of the Patent Office in relation to trade marks and all things that are under the direction or control of the Commissioner:
   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+
+### 199A Regulations: Madrid Protocol
+The Governor-General may, by Order in Council, make regulations for the purpose of giving effect in New Zealand to the Madrid Protocol, including providing for any of the following:
+  (a) making applications for international registration by way of the Patent Office as office of origin:
+  (b) procedures to be followed where the basic New Zealand application for registration ceases to be in force:
+  (c) procedures to be followed where the Patent Office receives from the International Bureau, or any body specified in the regulations, a request for extension of protection to New Zealand:
+  (d) the effects of a successful request for extension of protection to New Zealand:
+  (e) transforming an application for an international registration, or an international registration, into a national application for registration:
+  (f) communicating information to the International Bureau:
+  (g) requiring fees to be paid in respect of applications for international registrations, extensions of protection, and renewals, and prescribing the amounts of those fees:
+  (h) the application of the following provisions to a protected international trade mark (New Zealand):
+    (i) section 105 (unjustified proceedings):
+    (ii) subpart 2 of Part 4 (criminal proceedings):
+    (iii) subpart 3 of Part 4 (border protection measures).
 
 ### 200 Orders in Council relating to convention countries
 For the purpose of giving effect to an international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that an entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies is, for the purposes of all or any of the provisions of this Act, a convention country.
