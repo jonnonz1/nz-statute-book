@@ -1,5 +1,5 @@
 # Copyright (New Technologies) Amendment Act 2008
-_Consolidation as at 2008-10-31_
+_Consolidation as at 2011-09-16_
 
 ### 1 Title
 This Act is the Copyright (New Technologies) Amendment Act 2008.
@@ -346,37 +346,7 @@ Sections 82 to 84, and the heading immediately above section 82 are repealed and
 Section 86 is repealed.
 
 ### 48 New sections 87 to 87B substituted
-Section 87 is repealed and the following sections substituted:Free public playing or showing of communication workFree public playing or showing of communication work that is simultaneous with receptionAssessment of damages for infringement of copyright in sound recording or film
-  (1) The free public playing or showing of a communication work (other than a communication work to which section 87A applies or a communication work for which a subscription fee must be paid in order to receive it) does not infringe any copyright in—
-    (a) the communication work; or
-    (b) any sound recording or film included in the communication work.
-  (2) For the purposes of this section, the public playing or showing of a communication work is not free if—
-    (a) the audience has paid for admission to—
-      (i) the place where the communication work is shown or played (which in this section is called the venue); or
-      (ii) any place of which the venue is a part; or
-    (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
-      (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
-      (ii) exceed those usually charged there and that are partly attributable to those facilities; or
-    (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
-  (3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
-    (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
-    (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
-  (1) This section applies to the playing or showing of a communication work that—
-    (a) is made for reception in the area in which it is played or shown; and
-    (b) is not a communication work for which a subscription fee must be paid in order to receive it; and
-    (c) is shown or played simultaneously upon reception of the communication work.
-  (2) The free public playing or showing of a communication work to which this section applies does not infringe any copyright in—
-    (a) the communication work; or
-    (b) any sound recording or film that is played or shown in public by reception of the communication work.
-  (3) For the purposes of this section, the public playing or showing of a communication work is not free if—
-    (a) the audience has paid for admission to the place where the communication work is shown or played (which in this section is called the venue), including any place of which the venue is a part; or
-    (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
-      (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
-      (ii) exceed those usually charged there and that are partly attributable to those facilities.
-  (4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
-    (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purpose of temporary accommodation):
-    (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
-  Where the making of a communication work is an infringement of copyright, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
+[Repealed]
 
 ### 49 Reception and retransmission of broadcast in cable programme service
 Section 88 is amended by adding the following subsection:
@@ -664,37 +634,7 @@ Section 187 is repealed and the following section substituted:Incidental recordi
     (b) for all purposes after either of the conditions in subsection (2) is broken.
 
 ### 85 New sections 188 to 188B substituted
-Section 188 is repealed and the following sections substituted:Free public playing or showing of communication workFree public playing or showing of communication work that is simultaneous with receptionAssessment of damages for infringement of rights under this Part in relation to performance or recording
-  (1) The free public playing or showing of a communication work (other than a communication work to which section 188A applies or a communication work for which a subscription fee must be paid in order to receive it) does not infringe a right under this Part in relation to a performance or recording included in—
-    (a) the communication work; or
-    (b) any sound recording or film that is played or shown in public by reception of the communication work.
-  (2) For the purposes of this section, the public playing or showing of a communication work is not free if—
-    (a) the audience has paid for admission to—
-      (i) the place where the communication work is shown or played (which in this section is called the venue); or
-      (ii) any place of which the venue is a part; or
-    (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
-      (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
-      (ii) exceed those usually charged there and that are partly attributable to those facilities; or
-    (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
-  (3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
-    (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
-    (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
-  (1) This section applies to the playing or showing of a communication work that—
-    (a) is made for reception in the area in which it is played or shown; and
-    (b) is not a communication work for which a subscription fee must be paid in order to receive it; and
-    (c) is played or shown simultaneously upon reception of the communication work.
-  (2) The free public playing or showing of a communication work to which this section applies does not infringe a right under this Part in relation to a performance or recording included in—
-    (a) the communication work; or
-    (b) any sound recording or film that is played or shown in public by reception of the communication work.
-  (3) For the purposes of this section, the public playing or showing of a communication work is not free if—
-    (a) the audience has paid for admission to the place where the communication work is played or shown (which in this section is called the venue), including any place of which the venue is a part; or
-    (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
-      (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
-      (ii) exceed those usually charged there and that are partly attributable to those facilities.
-  (4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
-    (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee) for the purpose of temporary accommodation:
-    (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
-  Where the making of a communication work is an infringement of rights under this Part in relation to a performance or recording, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
+[Repealed]
 
 ### 86 Section 189 repealed
 Section 189 is repealed.
