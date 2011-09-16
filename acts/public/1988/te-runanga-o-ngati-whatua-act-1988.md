@@ -1,5 +1,5 @@
 # Te Runanga o Ngati Whatua Act 1988
-_Consolidation as at 1988-12-22_
+_Consolidation as at 2011-09-16_
 
 > An Act to establish Te Runanga o Ngati Whatua as a Maori Trust Board
 
@@ -8,7 +8,7 @@ _Consolidation as at 1988-12-22_
 (2) This Act shall come into force on the 28th day after the date on which it receives the Royal assent.
 
 ### 2 Interpretation
-In this Act, Te Runanga means Te Runanga o Ngati Whatua constituted by section 5.
+In this Act, Te Runanga means Te Runanga o Ngati Whatua constituted by section 4.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -31,9 +31,7 @@ In performing the functions conferred on it by section 24 of the Maori Trust Boa
 (3) Te Kauhanganui shall comprise such of the kaumatua of the beneficiaries as Te Runanga may decide to appoint from time to time after consulting the kaumatua.
 
 ### 8 Annual hui
-(1) Te Runanga shall in every year hold a hui at which it shall report on its activities and its plans for the future to the beneficiaries.
-(2) Not later than 3 months before the date of the proposed hui in any year, the Secretary of Te Runanga shall cause public notice to be given to the beneficiaries of Te Runanga of the date and place of the proposed hui.
-(3) Section 46(2) of the Maori Trust Boards Act 1955 shall apply to every public notice required to be given under subsection (2).
+[Repealed]
 
 ### 9 Bank accounts
 The bank account into which all money belonging to Te Runanga is required by section 28(1) of the Maori Trust Boards Act 1955 to be paid shall be called Te Runanga o Ngati Whatua Account.
