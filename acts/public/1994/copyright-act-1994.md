@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2011-09-01_
+_Consolidation as at 2011-09-16_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -1113,35 +1113,41 @@ ExampleA records a movie to be screened on television because she will be at wor
 ### 86 Photographs of television broadcasts or cable programmes
 [Repealed]
 
-### 87 Free public playing or showing of broadcast or cable programme
-(1) The playing in public or showing in public of a broadcast (other than a broadcast to which subsections (4) to (7) apply) or cable programme to an audience who have not paid for admission to the place where the broadcast or cable programme is to be heard or seen does not infringe any copyright in—
-  (a) the broadcast or cable programme; or
-  (b) any sound recording or film included in the broadcast or programme.
-(2) For the purposes of subsection (1), the audience shall be treated as having paid for admission to a place—
-  (a) if they have paid for admission to a place of which that place forms part; or
-  (b) if goods or services are supplied at that place, or a place of which that place forms part,—
-    (i) at prices that are substantially attributable to the facilities afforded for hearing or seeing the broadcast or cable programme; or
-    (ii) at prices exceeding those usually charged there and that are partly attributable to those facilities; or
-  (c) if the place is a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of obtaining accommodation of a temporary nature and they are persons residing at the hotel, motel, camping ground, or other place.
-(3) For the purposes of subsection (1), the following persons shall not be treated as having paid for admission to a place:
-  (a) persons admitted as residents or inmates of a place (other than a hotel, motel, camping ground, or other place to which subsection (2)(c) applies):
-  (b) persons admitted as members of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing broadcasts or cable programmes is only incidental to the main purposes of the club or society.
-(4) Subsections (5) to (7) apply in respect of the playing or showing of a broadcast—
-  (a) that is made for reception in the area in which it is played or shown; and
-  (b) that is not a satellite transmission or an encrypted transmission; and
-  (c) that is shown or played simultaneously upon reception of the transmission of the broadcast.
-(5) The playing in public or showing in public of a broadcast to which subsection (4) applies to an audience who have not paid for admission to the place where the broadcast is to be heard or seen does not infringe any copyright in—
-  (a) the broadcast; or
-  (b) any sound recording or film included in the broadcast.
-(6) For the purposes of subsection (5), the audience shall be treated as having paid for admission to a place—
-  (a) if they have paid for admission to a place of which that place forms part; or
-  (b) if goods or services are supplied at that place, or a place of which that place forms part,—
-    (i) at prices that are substantially attributable to the facilities afforded for hearing or seeing the broadcast; or
-    (ii) at prices exceeding those usually charged there and that are partly attributable to those facilities.
-(7) For the purposes of subsection (5), the following persons shall not be treated as having paid for admission to a place:
-  (a) persons admitted as residents or inmates of a place (including, without limitation, persons residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of obtaining accommodation of a temporary nature):
-  (b) persons admitted as members of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing broadcasts or cable programmes is only incidental to the main purposes of the club or society.
-(8) Where the making of the broadcast or inclusion of the programme in a cable programme service was an infringement of the copyright in a sound recording or film, the fact that the broadcast or programme was heard or seen in public by the reception of the broadcast or cable programme shall be taken into account in assessing the damages for that infringement.
+### 87 Free public playing or showing of communication work
+(1) The free public playing or showing of a communication work (other than a communication work to which section 87A applies) does not infringe any copyright in—
+  (a) the communication work; or
+  (b) any sound recording or film included in the communication work.
+(2) For the purposes of this section, the public playing or showing of a communication work is not free if—
+  (a) the audience has paid for admission to—
+    (i) the place where the communication work is played or shown (which in this section is called the venue); or
+    (ii) any place of which the venue is a part; or
+  (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
+    (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
+    (ii) exceed those usually charged there and that are partly attributable to those facilities; or
+  (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
+(3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
+  (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
+
+### 87A Free public playing or showing of communication work that is simultaneous with reception
+(1) This section applies to the playing or showing of a communication work that—
+  (a) is made for reception in the area in which it is played or shown; and
+  (b) is not a communication work for which a subscription fee must be paid in order to receive it; and
+  (c) is played or shown simultaneously upon reception of the communication work.
+(2) The free public playing or showing of a communication work to which this section applies does not infringe any copyright in—
+  (a) the communication work; or
+  (b) any sound recording or film that is played or shown in public by reception of the communication work.
+(3) For the purposes of this section, the public playing or showing of a communication work is not free if—
+  (a) the audience has paid for admission to the place where the communication work is played or shown (which in this section is called the venue), including any place of which the venue is a part; or
+  (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
+    (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
+    (ii) exceed those usually charged there and that are partly attributable to those facilities.
+(4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purpose of temporary accommodation):
+  (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
+
+### 87B Assessment of damages for infringement of copyright in sound recording or film
+Where the making of a communication work is an infringement of copyright, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
 
 ### 88 Reception and retransmission of broadcast in cable programme service
 (1) This section applies where a broadcast made from a place in New Zealand is, by reception and immediate retransmission, included in a cable programme service.
@@ -2139,10 +2145,12 @@ Where any body corporate is convicted of an offence against section 131, every d
 
 ### 135 Definitions
 In this Part, unless the context otherwise requires,—
+  - **accepted notice** means a notice given under section 136(1) that has been accepted by the chief executive under section 136(3)
   - **chief executive** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **claimant** means a person who gives a notice under section 136(1)
   - **control of the Customs** has the meaning given to it by section 20 of the Customs and Excise Act 1996
   - **court** means the High Court
+  - **Customs** means the New Zealand Customs Service
   - **Customs officer** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
   - **pirated copy** —
     (a) means any copy of a copyright work that is a literary, dramatic, musical, or artistic work or the typographical arrangement of a published edition or a sound recording or a film, where the copy is made—
@@ -2167,9 +2175,38 @@ In this Part, unless the context otherwise requires,—
 (3) The chief executive shall, in relation to any notice given under subsection (1),—and shall within a reasonable period of receiving the notice advise the claimant whether the notice has been accepted or declined.
   (a) accept the notice if the claimant and the notice given by the claimant comply with the requirements of this section and any regulations made under this Act:
   (b) decline the notice if the claimant or the notice given by the claimant does not comply with the requirements of this section and any regulations made under this Act,—
-(4) A notice accepted under subsection (3)(a) remains in force for the period specified in the notice unless—
+(4)
+
+### 136A Chief executive may suspend accepted notice
+(1) The chief executive may suspend an accepted notice if the chief executive is satisfied that—
+  (a) the information held in respect of the accepted notice is not correct or is no longer current; or
+  (b) there has been a failure to comply with a requirement concerning the giving of security or indemnity or both; or
+  (c) there has been a failure to comply with an obligation under an indemnity given for an amount in respect of the accepted notice.
+(2) Before suspending an accepted notice, the chief executive must—
+  (a) give written advice of the chief executive’s intention to suspend the accepted notice to—
+    (i) the person who gave the notice under section 136; or
+    (ii) if the chief executive has received notification of an assignment or transmission of the copyright to which the notice relates, the person notified as the current owner of the copyright; and
+  (b) include in or with the advice a statement of the chief executive’s reasons; and
+  (c) give the person to whom the advice is given not less than 20 working days to respond; and
+  (d) consider any response made by that person to the chief executive within the time allowed.
+(3) The written advice under subsection (2) may be given—
+  (a) by delivering it to that person; or
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+
+### 136B Notice of suspension
+(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 136A(2)(a).
+(2) The notice of suspension may be given—
+  (a) by delivering it to that person; or
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+
+### 136C Chief executive may reinstate accepted notice
+The chief executive may reinstate an accepted notice suspended under section 136A if the chief executive is satisfied that the grounds for the suspension no longer apply.
+
+### 136D Duration of accepted notice
+(1) An accepted notice remains in force for the period specified in the notice unless—
   (a) it is revoked by the claimant by notice in writing; or
   (b) the court orders, in proceedings under section 141(1), that the notice be discharged.
+(2) However, an accepted notice is not in force during the period of any suspension under section 136A.
 
 ### 137 Determination whether item is pirated copy
 (1) Where—the chief executive may conduct such investigation as he or she considers necessary in order to establish whether or not the item appears to be a pirated copy to which the notice relates.
@@ -2249,6 +2286,8 @@ If any pirated copies have been detained in the custody of the chief executive o
 
 ### 144 Notice of parallel import may be given to chief executive
 [Repealed]
+
+**Miscellaneous matters**
 
 ### 145 Delegation of powers, duties, and functions
 (1) With the written consent of the Minister of Customs, the chief executive may from time to time, either generally or particularly, by writing under his or her hand, delegate to any Customs officer all or any of the powers, duties, and functions conferred or imposed on the chief executive by or under this Part.
@@ -2651,35 +2690,41 @@ The rights conferred by this Part are not infringed by anything done for the pur
   (a) for the purposes of any use in breach of the condition in subsection (2)(a); and
   (b) for all purposes after either of the conditions in subsection (2) is broken.
 
-### 188 Free public playing or showing of broadcast or cable programme
-(1) The playing in public or showing in public of a broadcast (other than a broadcast to which subsections (4) to (7) apply) or cable programme to an audience who have not paid for admission to the place where the broadcast or cable programme is to be heard or seen does not infringe any right conferred by this Part in relation to a performance or recording included in—
-  (a) the broadcast or cable programme; or
-  (b) any sound recording or film that is played in public or shown in public by reception of the broadcast or cable programme.
-(2) For the purposes of subsection (1), the audience shall be treated as having paid for admission to a place—
-  (a) if they have paid for admission to a place of which that place forms part; or
-  (b) if goods or services are supplied at that place, or a place of which that place forms part,—
-    (i) at prices that are substantially attributable to the facilities afforded for hearing or seeing the broadcast or cable programme; or
-    (ii) at prices exceeding those usually charged there and that are partly attributable to those facilities; or
-  (c) if the place is a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of obtaining accommodation of a temporary nature and they are persons residing at the hotel, motel, camping ground, or other place.
-(3) For the purposes of subsection (1), the following persons shall not be treated as having paid for admission to a place:
-  (a) persons admitted as residents or inmates of a place (other than a hotel, motel, camping ground, or other place to which subsection (2)(c) applies):
-  (b) persons admitted as members of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing broadcasts or cable programmes is only incidental to the main purposes of the club or society.
-(4) Subsections (5) to (7) apply in respect of the playing or showing of a broadcast—
-  (a) that is made for reception in the area in which it is played or shown; and
-  (b) that is not a satellite transmission or an encrypted transmission; and
-  (c) that is shown or played simultaneously upon reception of the transmission of the broadcast.
-(5) The playing in public or showing in public of a broadcast to which subsection (4) applies to an audience who have not paid for admission to the place where the broadcast is to be heard or seen does not infringe any right conferred by this Part in relation to a performance or recording included in—
-  (a) the broadcast; or
-  (b) any sound recording or film included in the broadcast.
-(6) For the purposes of subsection (5), the audience shall be treated as having paid for admission to a place—
-  (a) if they have paid for admission to a place of which that place forms part; or
-  (b) if goods or services are supplied at that place, or a place of which that place forms part,—
-    (i) at prices that are substantially attributable to the facilities afforded for hearing or seeing the broadcast; or
-    (ii) at prices exceeding those usually charged there and that are partly attributable to those facilities.
-(7) For the purposes of subsection (5), the following persons shall not be treated as having paid for admission to a place:
-  (a) persons admitted as residents or inmates of a place (including, without limitation, persons residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of obtaining accommodation of a temporary nature):
-  (b) persons admitted as members of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing broadcasts or cable programmes is only incidental to the main purposes of the club or society.
-(8) Where the making of the broadcast or inclusion of the programme in a cable programme service was an infringement of the rights conferred by this Part in relation to a performance or recording, the fact that the broadcast or programme was heard or seen in public by the reception of the broadcast or cable programme shall be taken into account in assessing the damages for that infringement.
+### 188 Free public playing or showing of communication work
+(1) The free public playing or showing of a communication work (other than a communication work to which section 188A applies) does not infringe a right under this Part in relation to a performance or recording included in—
+  (a) the communication work; or
+  (b) any sound recording or film that is played or shown in public by reception of the communication work.
+(2) For the purposes of this section, the public playing or showing of a communication work is not free if—
+  (a) the audience has paid for admission to—
+    (i) the place where the communication work is played or shown (which in this section is called the venue); or
+    (ii) any place of which the venue is a part; or
+  (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
+    (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
+    (ii) exceed those usually charged there and that are partly attributable to those facilities; or
+  (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
+(3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
+  (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
+
+### 188A Free public playing or showing of communication work that is simultaneous with reception
+(1) This section applies to the playing or showing of a communication work that—
+  (a) is made for reception in the area in which it is played or shown; and
+  (b) is not a communication work for which a subscription fee must be paid in order to receive it; and
+  (c) is played or shown simultaneously upon reception of the communication work.
+(2) The free public playing or showing of a communication work to which this section applies does not infringe a right under this Part in relation to a performance or recording included in—
+  (a) the communication work; or
+  (b) any sound recording or film that is played or shown in public by reception of the communication work.
+(3) For the purposes of this section, the public playing or showing of a communication work is not free if—
+  (a) the audience has paid for admission to the place where the communication work is played or shown (which in this section is called the venue), including any place of which the venue is a part; or
+  (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
+    (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
+    (ii) exceed those usually charged there and that are partly attributable to those facilities.
+(4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee) for the purpose of temporary accommodation:
+  (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
+
+### 188B Assessment of damages for infringement of rights under this Part in relation to performance or recording
+Where the making of a communication work is an infringement of rights under this Part in relation to a performance or recording, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
 
 ### 189 Reception and retransmission of broadcast in cable programme service
 [Repealed]
@@ -3175,7 +3220,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (j) providing for exceptions to any requirement to give security or an indemnity imposed by any regulations made under paragraph (i):
   (k) providing for the disposition of any security given under any regulations made under paragraph (i):
   (l) providing for the forfeiture to the claimant, by consent, of an item detained under section 140(1):
-  (m) prescribing a fee for the purposes of section 144(2)(c):
+  (m) prescribing forms for the purposes of this Act; and those regulations may require—
+    (i) the inclusion in, or attachment to, forms of specified information or documents:
+    (ii) forms to be signed by specified persons:
   (n) imposing requirements in respect of licensing bodies or any specified class or classes of licensing body or any specified licensing body, in relation to all or any of the following matters:
     (i) the contents of the constitution or other form of rules of the licensing body or bodies:
     (ii) the representation of copyright owners in the management of the licensing body or bodies:
