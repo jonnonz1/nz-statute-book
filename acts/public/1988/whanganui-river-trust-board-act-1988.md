@@ -1,5 +1,5 @@
 # Whanganui River Trust Board Act 1988
-_Consolidation as at 1988-12-22_
+_Consolidation as at 2011-09-16_
 
 > An Act to establish the Whanganui River Maori Trust Board
 
@@ -27,6 +27,4 @@ This Act shall bind the Crown.
 In addition to the functions conferred on the Board by section 24 of the Maori Trust Boards Act 1955, the Board shall from time to time negotiate with the Government, or any other body or authority concerned, for the settlement of all outstanding claims relating to the customary rights and usages of te iwi o Whanganui, or any particular hapu, whanau, or group, in respect of the Whanganui River, including the bed of the river, its minerals, its water, and its fish.
 
 ### 7 Annual hui
-(1) The Board shall in every year hold a hui at which it shall report on its activities and its plans for the future to the beneficiaries.
-(2) Not later than 3 months before the date of the proposed hui in any year, the secretary of the Board shall cause public notice to be given to the beneficiaries of the Board of the date and place of the proposed hui.
-(3) Section 46(2) of the Maori Trust Boards Act 1955 shall apply to every public notice required to be given under subsection (2).
+[Repealed]
