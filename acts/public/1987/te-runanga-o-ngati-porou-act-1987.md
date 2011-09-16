@@ -1,5 +1,5 @@
 # Te Runanga o Ngati Porou Act 1987
-_Consolidation as at 1987-07-21_
+_Consolidation as at 2011-09-16_
 
 > An Act to establish Te Runanga o Ngati Porou as a Maori Trust Board
 
@@ -28,9 +28,7 @@ _Consolidation as at 1987-07-21_
 If, by regulations made under section 56 of the Maori Trust Boards Act 1955, the Governor-General makes provision for the representation of specific sections or divisions of the beneficiaries of Te Runanga, he shall, by such regulations, ensure that the majority of representatives of each such section or division are nga nohokainga; and any such provisions shall have effect according to its tenor notwithstanding anything to the contrary in section 49(2) of that Act.
 
 ### 6 Annual hui
-(1) Te Runanga shall in every year hold a hui at which it shall report on its activities and its plans for the future to the beneficiaries.
-(2) Not later than 3 months before the date of the proposed hui in any year, the Secretary of Te Runanga shall cause public notice to be given to the beneficiaries of Te Runanga of the date and place of the proposed hui.
-(3) Section 46(2) of the Maori Trust Boards Act 1955 shall apply to every public notice required to be given under subsection (2).
+[Repealed]
 
 ### 7 Bank accounts
 The bank account into which all money belonging to Te Runanga is required by section 28(1) of the Maori Trust Boards Act 1955 to be paid shall be called Te Runanga o Ngati Porou Account.
