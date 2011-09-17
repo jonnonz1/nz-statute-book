@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2011-09-17_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -33,7 +33,7 @@ The purposes of this Act are—
   - **chief executive** means the chief executive of CERA
   - **council** means the Christchurch City Council, the Canterbury Regional Council (Environment Canterbury), the Selwyn District Council, or the Waimakariri District Council
   - **council organisation** has the same meaning as in section 6 of the Local Government Act 2002
-  - **dangerous building** has the same meaning as in sections 121 and 122 of the Building Act 2004, but with the modifications made by clause 7(1) of the Canterbury Earthquake (Building Act) Order 2010
+  - **dangerous building** has the same meaning as in sections 121 and 122 of the Building Act 2004, but with the modifications made by clause 7(1) of the Canterbury Earthquake (Building Act) Order 2011
   - **enactment** has the same meaning as in section 29 of the Interpretation Act 1999 and also includes any plan, programme, bylaw, or rule made under any Act
   - **greater Christchurch** means the districts of the Christchurch City Council, the Selwyn District Council, and the Waimakariri District Council, and includes the coastal marine area adjacent to these districts
   - **land** includes an interest in land
