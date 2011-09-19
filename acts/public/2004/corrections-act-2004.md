@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-09-19_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1076,6 +1076,48 @@ The chief executive must ensure that in every corrections prison, so far as is r
 (1) Unless there is an emergency, no prisoner may be required to work on a certain day if working on that day would be inconsistent with the prisoner's genuine religious beliefs or practices.
 (2) No prisoner may be required to work for more than 40 hours per week.
 (3) Every prisoner is entitled to 1 day of rest in each week.
+
+### 81A Request and approval for placement of child with mother
+(1) A female prisoner who is the mother of a child less than 24 months old, or who is expecting a child, may request the chief executive’s approval to keep the child with her until the day after the date on which the child turns 24 months if she—
+  (a) was the child’s primary caregiver before being imprisoned or is likely to be the child’s primary caregiver on release; and
+  (b) does not have a conviction for an offence involving sexual or violent offending against children; and
+  (c) agrees to undergo screening for the purposes of identifying any mental health and substance abuse issues.
+(2) The chief executive may approve a request under subsection (1) if—
+  (a) the chief executive is satisfied that the mother meets the criteria set out in subsection (1); and
+  (b) the chief executive considers that placing the child with the mother—
+    (i) is in the best interests of the child; and
+    (ii) is not inconsistent with any court order relating to the child or any application or proceeding before the court (whether pending or existing) relating to the child; and
+  (c) the mother enters into a parenting agreement under section 81B with the chief executive in relation to the child’s placement; and
+  (d) the chief executive is satisfied that there are appropriate facilities available to accommodate the child’s placement.
+(3) In considering whether placing the child with the mother is in the best interests of the child, the chief executive must have regard to the principles in section 5 of the Care of Children Act 2004 to the extent that those principles are relevant.
+(4) The chief executive must—
+  (a) consult the chief executive of the department responsible for administering the Children, Young Persons, and Their Families Act 1989 before deciding whether to approve a child’s placement; and
+  (b) seek the advice of a child development specialist before deciding whether to approve or end a child’s placement, unless it is clear from the circumstances that it is not necessary to seek that advice.
+(5) The chief executive may end the child’s placement if the chief executive considers that—
+  (a) subsection (2)(b)(i) or (ii) is not being met; or
+  (b) the mother’s responsibilities under the parenting agreement are not being met.
+(6) In this section and sections 81B and 81C, unless the context otherwise requires, child’s placement or placement means the placement of a child with his or her mother in prison in accordance with this section.
+
+### 81B Parenting agreements
+A parenting agreement to which section 81A(2)(c) relates must include, without limitation, all of the following:
+  (a) notice that the mother is responsible for the care of her child while the child is in prison:
+  (b) identification of an alternative caregiver who will care for the child when the placement ends or in an emergency:
+  (c) the chief executive’s agreement to—
+    (i) provide parenting information, education, and support to the mother; and
+    (ii) attend to arrangements for the child to receive any necessary health and well-being checks and any treatment required as a result of those checks; and
+    (iii) facilitate the mother’s access to any treatment or counselling required to support the mother to care for her child:
+  (d) for the purpose of ensuring that the best interests of the child are met, the mother’s agreement to—
+    (i) attend any parenting education programmes specified; and
+    (ii) facilitate arrangements for the child to receive any necessary health and well-being checks and any treatment required as a result of those checks; and
+    (iii) participate in any treatment or counselling required to address any mental health or substance abuse issues identified; and
+    (iv) attend any programmes identified in her management plan; and
+    (v) co-operate in a planned separation from the child when the placement ends.
+
+### 81C Accommodation and feeding of children placed with their mothers
+(1) The chief executive must ensure that, to the extent practicable within the resources available, every prison in which female prisoners are imprisoned provides appropriate facilities for the accommodation of children under the age of 24 months, and that those facilities support the development needs of those children.
+(2) The chief executive must ensure that every child who is placed with his or her mother in prison is,—
+  (a) if the child is breastfed, provided sufficient opportunity to be breastfed; and
+  (b) if the child is fed by other means, provided sufficient opportunity to be fed.
 
 **Living conditions**
 
@@ -2734,7 +2776,7 @@ Regulations made under section 200(1)(c) may include (without limitation) provis
 Regulations made under section 200(1)(d) may include (without limitation) provisions—
   (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009):
   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987 to be treated as a prisoner on remand for the purposes of any specified provision:
-  (c) regulating the period during which the babies of female prisoners may be allowed to remain with their mothers in prison, and prescribing conditions relating to their care:
+  (c) prescribing conditions relating to the care of children of female prisoners who are allowed to remain with or visit their mothers in prison:
   (d) regulating the appearance of prisoners (including the clothing to be worn by prisoners and the cutting of prisoners' hair):
   (e) regulating the employment of prisoners, including their hours of work and the application or payment of earnings:
   (f) authorising the removal of jewellery (including earrings and studs attached to any part of the body) for reasons of safety, security, or hygiene:
