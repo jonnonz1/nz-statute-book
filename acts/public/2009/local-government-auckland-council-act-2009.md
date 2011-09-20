@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2011-09-20_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -224,8 +224,6 @@ A local board must be established for each local board area for the purposes ofâ
 (2) For the purposes of clauses 2 to 5 of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
 (2A) However, each group of activities specified in clause 2(2) of Schedule 10 of the Local Government Act 2002 must be identified separately from any other activities or group of activities.
 (3) The matters in subsection (1) must first be identified in the LTP adopted for the period beginning 1 July 2012, and in each subsequent LTP.
-
-**Local boards funding policy**
 
 ### 19 Local boards funding policy
 (1) To provide predictability and certainty about levels of funding for local boards, the Auckland Council must adopt a local boards funding policy as part of its long-term plan.
@@ -1114,6 +1112,11 @@ An employee of the Council who is elected to be a member of a local board must r
 
 ### 106 Representation on port company board
 For the purposes of section 6(1)(b) of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
+
+**Borrowing in foreign currency**
+
+### 107 Borrowing in foreign currency
+Despite section 113 of the Local Government Act 2002, the Auckland Council may borrow or enter into incidental arrangements, within or outside New Zealand, in currency other than New Zealand currency.
 
 ## Schedule 1 â€” Matters to be addressed by Local Government Commission when making determination in relation to southern boundary of Auckland
 
