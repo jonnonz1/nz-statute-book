@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-10-01_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -90,16 +90,18 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or the FMA, 
 ### 10 Requirement that information be audited
 The Registrar may, by notice in writing to a corporation or an associated person of a corporation, require any information which that corporation or associated person is required to supply pursuant to section 9 to be audited by an auditor approved by the Registrar.
 
-### 11 Disclosure of information to Registrar by trustees or statutory supervisors
-Every person who holds, or at any time has held, office under the Securities Act 1978 or the Retirement Villages Act 2003 as a trustee or statutory supervisor for the holders of any securities issued by a corporation shall disclose to the Registrar information relating to the affairs of that corporation obtained in the course of holding that office if, in the opinion of that person,—
-  (a) the corporation is insolvent or is likely to become insolvent or is in serious financial difficulties; or
-  (b) the corporation has breached, or is likely to breach, in a significant respect,—
-    (i) the terms of the trust deed or deed of participation; or
-    (ii) the terms of the offer of the securities; or
-  (c) the disclosure of the information is likely to assist, or be relevant to, the exercise of powers under this Act.
+### 11 Disclosure of information to Registrar by statutory supervisor of retirement village
+(1) This section applies if a statutory supervisor (under the Retirement Villages Act 2003) of a retirement village operated by a corporation becomes aware, in the course of or in connection with the performance of the statutory supervisor's functions, of information on the basis of which the statutory supervisor could reasonably form the opinion that—
+  (a) the corporation is unable to pay the corporation's debts as they become due in the normal course of business; or
+  (b) the value of the corporation's assets is less than the value of the corporation's liabilities, including contingent liabilities; or
+  (c) it is likely that—
+    (i) the corporation will be unable to pay the corporation's debts as they become due in the normal course of business; or
+    (ii) the value of the corporation's assets will be less than the value of the corporation's liabilities, including contingent liabilities; or
+  (d) the corporation has breached, or is likely to breach, in a material respect, the terms of the deed of supervision relating to the retirement village.
+(2) The statutory supervisor must, as soon as practicable, disclose to the Registrar all information relevant to the matter referred to in subsection (1) that is in the possession or control of the statutory supervisor and was obtained in the course of, or in connection with, the performance of functions as statutory supervisor.
 
 ### 12 Trustee or statutory supervisor to inform corporation of intention to disclose
-Every trustee or statutory supervisor shall, before disclosing any information to the Registrar under section 11, take reasonable steps to inform the corporation of the intention to disclose information and the nature of that information.
+[Repealed]
 
 ### 13 Disclosure of information to Registrar by auditors
 Every person who holds, or at any time has held, office as auditor of a corporation, or of an associated person of a corporation, pursuant to any enactment shall disclose to the Registrar, if requested to do so by the Registrar by notice in writing, information relating to the affairs of that corporation obtained in the course of holding that office, in such form as may be specified in the notice.
