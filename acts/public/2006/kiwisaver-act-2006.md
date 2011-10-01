@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2011-10-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -1350,7 +1350,7 @@ In this Part, unless the context otherwise requires, any term or expression that
 
 ### 116D Requirements for trustees of KiwiSaver schemes other than restricted schemes
 (1) A KiwiSaver scheme other than a restricted scheme must not have more than 1 trustee.
-(2) The trustee must be a body corporate that is incorporated in New Zealand.
+(2) The trustee must hold a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers interests in the scheme.
 (3) The trustee must supervise the manager's performance of—
   (a) the functions of the manager as set out in section 116B(1); and
   (b) any other functions that the manager performs in relation to the scheme under the trust deed or an enactment.
@@ -1359,8 +1359,11 @@ In this Part, unless the context otherwise requires, any term or expression that
 ### 116E Removal of trustees of KiwiSaver schemes other than restricted schemes
 (1) The trustee of a KiwiSaver scheme other than a restricted scheme must not resign as trustee of the scheme unless—
   (a) all functions and duties of the position have been performed; or
+  (ab) another person has been appointed to the position who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers interests in the scheme, and that person has accepted the appointment; or
   (b) the High Court consents.
-(2) Despite anything to the contrary in the trust deed, a manager must not discharge or remove a trustee unless the manager does so with the approval of the High Court.
+(2) Despite anything to the contrary in the trust deed, a manager must not discharge or remove a trustee unless the manager does so—
+  (a) under section 23 or 38 of the Securities Trustees and Statutory Supervisors Act 2011; or
+  (b) with the approval of the High Court.
 
 ### 116F Manager and trustee must be independent
 (1) This section applies to a KiwiSaver scheme other than a restricted scheme.
