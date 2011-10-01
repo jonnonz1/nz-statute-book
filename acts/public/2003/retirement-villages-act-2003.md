@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2011-10-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -459,25 +459,20 @@ The operators of a retirement village must ensure that, at the commencement of t
 **Statutory supervisors**
 
 ### 37 Registrar must approve statutory supervisor
-(1) Subject to subsection (2), a person must not be appointed a statutory supervisor unless first approved by the Registrar for that purpose.
-(2) Every person who was, immediately before the commencement of this section, approved under section 48 of the Securities Act 1978 to act as the statutory supervisor of retirement village schemes is, subject to subsection (4), approved as a statutory supervisor for the purposes of this Act.
-(3) The Registrar may approve a person as a statutory supervisor for—
-  (a) a specific retirement village; or
-  (b) all retirement villages; or
-  (c) retirement villages of a class defined by the Registrar.
-(4) The Registrar may revoke or amend the approval of a person under this section.
+[Repealed]
 
 ### 38 Operator must appoint statutory supervisor
-(1) The operator of a retirement village must appoint a statutory supervisor for the village, unless the operator has obtained an exemption under section 41.
+(1) The operator of a retirement village must appoint a statutory supervisor who holds a licence under the Securities Trustees and Statutory Supervisors Act 2011 that covers the village, unless the operator has obtained an exemption under section 41.
 (2) The statutory supervisor must be appointed under a deed of supervision between the operator and the statutory supervisor, on the terms and conditions set out in that document.
 (3) A deed of supervision must contain all information and other matters or provisions that are required to be included in it by regulations made under this Act.
-(4) Subject to section 37(3), the same person may be a statutory supervisor for more than 1 retirement village, whether or not owned by the same operator.
+(4)
 
 ### 39 Registrar's consent required for termination or non-renewal of appointment
 (1) The Registrar must consent in writing before the operator or the statutory supervisor—
   (a) terminates the appointment of the statutory supervisor; or
   (b) elects not to renew the appointment.
 (2) In the case of termination or election not to renew by the statutory supervisor, the Registrar's consent is not necessary if the statutory supervisor has given the operator 1 year's notice.
+(3) This section does not apply to the termination of the appointment of a statutory supervisor by the operator under section 23 or 38 of the Securities Trustees and Statutory Supervisors Act 2011.
 
 ### 40 Operator must not indemnify or exempt statutory supervisor from liability
 (1) The operator must not indemnify the statutory supervisor for, or exempt the statutory supervisor from, any liability for breach of duty, breach of trust or other fiduciary obligation, that involves gross negligence, bad faith, or wilful misconduct by the statutory supervisor.
