@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-10-01_
 
 > Title
 
@@ -666,7 +666,7 @@ The purpose of this subpart is to promote an informed market, and to deter insid
 (1) A person is a substantial security holder in a public issuer for the purposes of this Act if that person has a substantial holding in that public issuer.
 (2) A person has a substantial holding in a public issuer for the purposes of this Act if that person has a relevant interest in listed voting securities that comprise 5% or more of a class of listed voting securities of the public issuer.
 (3) A person has a separate substantial holding for the purposes of this Act for each class in respect of which the person has a substantial holding under subsection (2).
-(4) The percentage of securities that a person has in a class, for the purposes of this subpart, is calculated as follows:number held totalif—
+(4) The percentage of securities that a person has in a class, for the purposes of this subpart, is calculated as follows:if—
   - **number held** is the number of securities, in that class, in which the person has a relevant interest
   - **total** is the total number of securities in that class.
 
@@ -1960,7 +1960,7 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 (1) The court may, on application by an entitled person, make a management banning order against a person (A) if—
   (a) A has been convicted of an offence against Part 1 (dealing misconduct) or a pecuniary penalty order has been made against A for a contravention of that Part; or
   (b) A has, while a director of an incorporated or unincorporated body,—
-    (i) persistently contravened this Act, the Companies Act 1993, the Securities Act 1978, the Takeovers Act 1993, or the takeovers code; or
+    (i) persistently contravened this Act, the Companies Act 1993, the Securities Act 1978, the Securities Trustees and Statutory Supervisors Act 2011, the Takeovers Act 1993, or the takeovers code; or
     (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
   (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 43G in connection with a contravention of any law relating to the trading of securities.
 (2) An entitled person is—
