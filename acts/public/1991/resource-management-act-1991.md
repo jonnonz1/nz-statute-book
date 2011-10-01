@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-10-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -40,14 +40,12 @@ _Consolidation as at 2011-07-01_
       (iii) initiates a requirement for a designation:
     (c) in Part 6AA, has the meaning given in section 141
   - **aquaculture activities** —
-    (a) means the breeding, hatching, cultivating, rearing, or ongrowing of fish, aquatic life, or seaweed for harvest if the breeding, hatching, cultivating, rearing, or ongrowing involves the occupation of a coastal marine area; and
+    (a) means any activity described in section 12 done for the purpose of the breeding, hatching, cultivating, rearing, or ongrowing of fish, aquatic life, or seaweed for harvest if the breeding, hatching, cultivating, rearing, or ongrowing involves the occupation of a coastal marine area; and
     (b) includes the taking of harvestable spat if the taking involves the occupation of a coastal marine area; but
     (c) does not include an activity specified in paragraph (a) if the fish, aquatic life, or seaweed—
       (i) are not in the exclusive and continuous possession or control of the person undertaking the activity; or
-      (ii) cannot be distinguished or kept separate from naturally occurring fish, aquatic life, or seaweed
-  - **aquaculture management area** —
-    (a) means an area established as an aquaculture management area in accordance with section 165AB; and
-    (b) includes part of an aquaculture management area
+      (ii) cannot be distinguished or kept separate from naturally occurring fish, aquatic life, or seaweed; and
+    (d) does not include an activity specified in paragraph (a) or (b) if the activity is carried out solely for the purpose of monitoring the environment
   - **aquatic life** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **bed** means,—
     (a) in relation to any river—
@@ -218,6 +216,8 @@ _Consolidation as at 2011-07-01_
   - **mineral** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **mining** has the same meaning as in the Crown Minerals Act 1991
   - **Minister** means the Minister for the Environment
+  - **Minister of Aquaculture** means the Minister who, under the authority of any warrant or under the authority of the Prime Minister, has overall responsibility for aquaculture
+  - **Minister of Fisheries** has the same meaning as Minister in the Fisheries Act 1996
   - **mouth** , for the purpose of defining the landward boundary of the coastal marine area, means the mouth of the river either—and once so agreed and set or declared shall not be changed in accordance with Schedule 1 or otherwise varied, altered, questioned, or reviewed in any way until the next review of the regional coastal plan, unless the Minister of Conservation, the regional council, and the appropriate territorial authority agree
     (a) as agreed and set between the Minister of Conservation, the regional council, and the appropriate territorial authority in the period between consultation on, and notification of, the proposed regional coastal plan; or
     (b) as declared by the Environment Court under section 310 upon application made by the Minister of Conservation, the regional council, or the territorial authority prior to the plan becoming operative,—
@@ -577,18 +577,10 @@ In achieving the purpose of this Act, all persons exercising functions and power
 (6) This section shall not apply to anything to which section 15A or 15B applies.
 
 ### 12A Restrictions on aquaculture activities in coastal marine area and on other activities in aquaculture management areas
-(1) No person may occupy a coastal marine area for the purpose of an aquaculture activity—
-  (a) except in an aquaculture management area provided for in a regional coastal plan; or
-  (b) if that part of the coastal marine area is in the common marine and coastal area, unless expressly authorised by a coastal permit.
-(1A) No person may apply for a coastal permit to occupy a coastal marine area for the purpose of an aquaculture activity except in an aquaculture management area in a regional coastal plan.
-(2) In an aquaculture management area, any other activity requiring occupation may be undertaken only as—
-  (a) a restricted discretionary activity; or
-  (b) a discretionary activity; or
-  (c) a non-complying activity.
-(3)
+[Repealed]
 
 ### 12B Continuation of coastal permit for aquaculture activities if aquaculture management area ceases to exist
-To avoid doubt, a coastal permit for aquaculture activities does not expire because the area or part of the area that the permit relates to subsequently ceases to be in an aquaculture management area.
+[Repealed]
 
 **River and lake beds**
 
@@ -837,8 +829,9 @@ The Minister of Conservation shall have the following functions under this Act:
   (a) the preparation and recommendation of New Zealand coastal policy statements under section 57:
   (b) the approval of regional coastal plans in accordance with Schedule 1:
   (c)
-  (d) the monitoring of the effect and implementation of New Zealand coastal policy statements and coastal permits for restricted coastal activities.
+  (d) the monitoring of the effect and implementation of New Zealand coastal policy statements and coastal permits for restricted coastal activities:
   (e)
+  (f) any other functions specified in this Act.
 
 ### 28A Regional council must supply information to Minister of Conservation
 (1) The Minister of Conservation may, if it is reasonable to do so, require a regional council to supply information about the regional council's monitoring of—
@@ -850,6 +843,12 @@ The Minister of Conservation shall have the following functions under this Act:
   (a) 20 working days of the date of the notice; or
   (b) a longer time set by the Minister of Conservation.
 (4) The council must not charge for supplying the information.
+
+### 28B Functions of Minister of Aquaculture
+The Minister of Aquaculture has the following functions under this Act:
+  (a) suspending the receipt of applications for coastal permits authorising aquaculture activities to be undertaken in the coastal marine area under section 165ZD:
+  (b) making a direction to process and hear together applications for coastal permits authorising aquaculture activities to be undertaken in the coastal marine area under section 165ZFA:
+  (c) recommending the making of regulations under sections 360A to 360C that amend regional coastal plans in relation to aquaculture activities in the coastal marine area.
 
 ### 29 Delegation of functions by Ministers
 (1) Any Minister of the Crown may, either generally or particularly, delegate to the chief executive of that Minister's department in accordance with section 28 of the State Sector Act 1988, any of that Minister's functions, powers, or duties under this Act other than the following:
@@ -935,10 +934,8 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (ga) the establishment, implementation, and review of objectives, policies, and methods for maintaining indigenous biological diversity:
   (gb) the strategic integration of infrastructure with land use through objectives, policies, and methods:
   (h) any other functions specified in this Act.
-(2) A regional council and the Minister of Conservation may perform the functions specified in subsection (1)(d) to control the harvesting or enhancement of aquatic organisms to avoid, remedy, or mitigate—
-  (a) the effects on fishing and fisheries resources of occupying a coastal marine area for the purpose of aquaculture activities:
-  (b) the effects on fishing and fisheries resources of aquaculture activities.
-(3) However, a regional council and the Minister of Conservation must not perform the functions specified in subsection (1)(d)(i), (ii), or (vii) to control the harvesting or enhancement of aquatic organisms for the purpose of conserving, using, enhancing, or developing any fisheries resources controlled under the Fisheries Act 1996.
+(2) A regional council and the Minister of Conservation must not perform the functions specified in subsection (1)(d)(i), (ii), and (vii) to control the taking, allocation or enhancement of fisheries resources for the purpose of managing fishing or fisheries resources controlled under the Fisheries Act 1996.
+(3) However, a regional council and the Minister of Conservation may perform the functions specified in subsection (1)(d) to control aquaculture activities for the purpose of avoiding, remedying, or mitigating the effects of aquaculture activities on fishing and fisheries resources.
 (4) A rule to allocate a natural resource established by a regional council in a plan under subsection (1)(fa) or (fb) may allocate the resource in any way, subject to the following:
   (a) the rule may not, during the term of an existing resource consent, allocate the amount of a resource that has already been allocated to the consent; and
   (b) nothing in paragraph (a) affects section 68(7); and
@@ -976,6 +973,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (1) In achieving the purpose of this Act, before a proposed plan, proposed policy statement, change, or variation is publicly notified, a national policy statement or New Zealand coastal policy statement is notified under section 48, or a regulation is made, an evaluation must be carried out by—
   (a) the Minister, for a national environmental standard or a national policy statement; or
   (b) the Minister of Conservation, for the New Zealand coastal policy statement; or
+  (ba) the Minister of Aquaculture, for regulations made under section 360A; or
   (c) the local authority, for a policy statement or a plan (except for plan changes that have been requested and the request accepted under clause 25(2)(b) of Schedule 1); or
   (d) the person who made the request, for plan changes that have been requested and the request accepted under clause 25(2)(b) of Schedule 1.
 (2) A further evaluation must also be made by—
@@ -1143,15 +1141,18 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (8) However, subsection (7) does not apply to a charge to which subsection (1)(ab)(ii), (ad)(ii), or (cb)(iv) applies (relating to independent hearings commissioners requested by submitters or reviews required by a court order).
 
 ### 36AA Local authority policy on discounting administrative charges
-(1) A local authority may provide a discount on an administrative charge imposed under section 36 in accordance with regulations made under section 360(1)(hj).
+(1) A local authority must provide a discount on an administrative charge imposed under section 36 as follows:
+  (a) a local authority that has not adopted a policy under subsection (3) must provide a discount if regulations under section 360(1)(hj) require the local authority to provide a discount:
+  (b) a local authority that has adopted a policy under subsection (3) must provide a discount under whichever of the policy and regulations under section 360(1)(hj) is more generous in the circumstances of the particular case.
 (2) The Minister must recommend to the Governor-General within 9 months of the commencement of section 32 of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 that regulations be made under section 360(1)(hj) and the Minister must, before making the recommendation, consult with local authorities about the proposed regulations.
+(2A) The Minister must ensure that regulations made under section 360(1)(hj) remain in force, but this subsection does not prevent regulations made under section 360(1)(hj) (including the regulations made in compliance with subsection (2)) from being amended or from being revoked and replaced by another set of regulations made under section 360(1)(hj).
 (3) A local authority may adopt, in accordance with the special consultative procedure set out in section 83 of the Local Government Act 2002, a policy in respect of discounting administrative charges imposed under section 36 of this Act in the circumstances where—
   (a) an application for a resource consent or an application to change or cancel conditions under section 127 is not processed within the time frames set out in this Act; and
   (b) the responsibility for the failure rests with the local authority.
 (4) The policy must specify—
   (a) the discount, or the method for determining the discount, that would be given for any application fees or charges paid or owing; and
   (b) the procedure an applicant must follow to obtain the discount.
-(5) If a discount in a policy adopted under subsection (3) is more generous than that provided for in the regulations the local authority may comply with the policy instead of the regulations.
+(5)
 
 **Duties of local authorities and applicants**
 
@@ -1195,6 +1196,7 @@ Any party to a joint management agreement may terminate that agreement by giving
 (1) A consent authority or local authority may, in any particular case,—
   (a) extend a time period specified in this Act or in regulations, whether or not the time period has expired; or
   (b) waive a failure to comply with a requirement under this Act, regulations, or a plan for the time or method of service of documents.
+(1A) However, a consent authority must not, under subsection (1), waive or extend a time period for the purpose of providing more time for a pre-request aquaculture agreement to be negotiated under section 186ZM of the Fisheries Act 1996.
 (2) If a person is required to provide information under this Act, regulations, or a plan and the information is inaccurate or omitted, or a procedural requirement is omitted, the consent authority or local authority may—
   (a) waive compliance with the requirement; or
   (b) direct that the omission or inaccuracy be rectified on such terms as the consent authority or local authority thinks fit.
@@ -1829,10 +1831,10 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 (2) Without limiting subsection (1), the purpose of the preparation, implementation, and administration of regional coastal plans is to assist a regional council, in conjunction with the Minister of Conservation, to achieve the purpose of this Act in relation to the coastal marine area of that region.
 
 ### 64 Preparation and change of regional coastal plans
-(1) There shall at all times be, for all the coastal marine area of a region, 1 or more regional coastal plans prepared in the manner set out in Schedule 1 and Schedule 1A.
+(1) There shall at all times be, for all the coastal marine area of a region, 1 or more regional coastal plans prepared in the manner set out in Schedule 1.
 (2) A regional coastal plan may form part of a regional plan where it is considered appropriate in order to promote the integrated management of a coastal marine area and any related part of the coastal environment.
 (3) Where a regional coastal plan forms part of a regional plan, the Minister of Conservation shall approve only that part which relates to the coastal marine area.
-(4) A regional coastal plan may be changed in the manner set out in Schedule 1 and Schedule 1A.
+(4) A regional coastal plan may be changed in the manner set out in Schedule 1.
 
 ### 64A Imposition of coastal occupation charges
 (1) Unless a regional coastal plan or proposed regional coastal plan already addresses coastal occupation charges, in preparing or changing a regional coastal plan or proposed regional coastal plan, a regional council must consider, after having regard to—whether or not a coastal occupation charging regime applying to persons who occupy any part of the common marine and coastal area should be included.
@@ -1920,7 +1922,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 (4) A regional plan must not be inconsistent with—
   (a) a water conservation order; or
   (b) any other regional plan for the region; or
-  (c) a determination or reservation of the chief executive of the Ministry of Fisheries made under section 186E of the Fisheries Act 1996.
+  (c)
 (5) A regional plan must record how a regional council has allocated a natural resource under section 30(1)(fa) or (fb) and (4), if the council has done so.
 (6) A regional plan may incorporate material by reference under Part 3 of Schedule 1.
 
@@ -1961,8 +1963,11 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
   (b) provides how the significant adverse effects on the environment that the hazardous substance is reasonably likely to have are to be avoided; or
   (c) treats the land as not contaminated for purposes stated in the rule.
 
-### 68A Aquaculture activities
-[Repealed]
+### 68A Regional coastal plan not to authorise aquaculture activities in coastal marine area as permitted activities
+(1) Despite section 68, after the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011 no rule may be included in a regional coastal plan which authorises as a permitted activity any aquaculture activity in the coastal marine area.
+(2) If, immediately before the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011, a regional coastal plan contains a rule that authorises as a permitted activity any part of an aquaculture activity in the coastal marine area—
+  (a) any person may act, or continue to act, in accordance with the rule until any alteration of the rule has legal effect; but
+  (b) a regional council must, as soon as is reasonably practicable and not later than 2 years after the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011, initiate a review of the rule under section 79 and propose to alter any provisions necessary to ensure compliance with subsection (1), in the manner set out in Part 1 of Schedule 1 and this Part.
 
 ### 69 Rules relating to water quality
 (1) Where a regional council—the rules shall require the observance of the standards specified in that schedule in respect of the appropriate class or classes unless, in the council's opinion, those standards are not adequate or appropriate in respect of those waters in which case the rules may state standards that are more stringent or specific.
@@ -2282,12 +2287,12 @@ A plan or proposed plan must not include a rule that describes an activity as a 
   (b) protects areas of significant indigenous vegetation; or
   (c) protects areas of significant habitats of indigenous fauna; or
   (d) protects historic heritage; or
-  (e) provides for or relates to an aquaculture management area.
+  (e) provides for or relates to aquaculture activities.
 (4) For the purposes of subsection (2)(c), a decision is rescinded if—
   (a) the local authority publicly notifies that the decision is rescinded; and
   (b) the public notice includes a statement of the decision to which it relates and the date on which the recision was made.
 (5) For the purposes of subsection (3), immediate legal effect means legal effect on and from the date on which the proposed plan containing the rule is publicly notified under clause 5 of Schedule 1.
-(6) A rule in a change to a plan proposed by a person under Part 2 of Schedule 1 that provides for or relates to an aquaculture management area and that has been accepted by the local authority under clause 25(2)(b) of Schedule 1 has legal effect on and from the date the change is publicly notified under clause 26(b) of that schedule.
+(6)
 
 ### 86C When rule has legal effect if decision to delay its effect is rescinded
 (1) This section applies to a rule to which section 86B(1)(c) applies that is rescinded (within the meaning of subsection (4) of that section).
@@ -2355,9 +2360,10 @@ In this Act, the term resource consent means any of the following:
 (5) If an activity is described in this Act, regulations (including a national environmental standard), a plan, or a proposed plan as a non-complying activity, a resource consent is required for the activity and the consent authority may—
   (a) decline the consent; or
   (b) grant the consent, with or without conditions, but only if the consent authority is satisfied that the requirements of section 104D are met and the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
-(6) If an activity is described in this Act, regulations (including a national environmental standard), a plan, or a proposed plan as a prohibited activity,—
+(6) If an activity is described in this Act, regulations (including a national environmental standard), or a plan as a prohibited activity,—
   (a) no application for a resource consent may be made for the activity; and
   (b) the consent authority must not grant a consent for it.
+(7) However, subsection (6) does not apply to a concurrent application lodged under subpart 4 of Part 7A.
 
 ### 87B Certain activities to be treated as discretionary activities or prohibited activities
 (1) An application for a resource consent for an activity must, with the necessary modifications, be treated as an application for a resource consent for a discretionary activity if—
@@ -2428,6 +2434,7 @@ In this Act, the term resource consent means any of the following:
 (7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the court must apply sections 104 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
   (b) every reference to a resource consent and to the effects of the activity were, respectively, a reference to the change or cancellation of a condition and the effects of the change or cancellation.
+(8) However, in the case of an application for a coastal permit for aquaculture activities, for the purposes of section 107F(3)(b) or (c), the consent authority must obtain from the Environment Court any additional information, reports, or submissions not previously forwarded or sent under that section and forward or send the information, report, and submissions to the chief executive of the Ministry of Fisheries.
 
 ### 87H Residual powers of consent authority
 The consent authority that would have determined the application had the Environment Court not done so under section 87G has all the functions, duties, and powers in relation to a resource consent granted by the court as if it had granted the consent itself.
@@ -2448,6 +2455,7 @@ The consent authority that would have determined the application had the Environ
 (2) An application must—
   (a) be made in the prescribed form and manner; and
   (b) include, in accordance with Schedule 4, an assessment of environmental effects in such detail as corresponds with the scale and significance of the effects that the activity may have on the environment.
+(2A) An application for a coastal permit to undertake an aquaculture activity must include a copy for the Ministry of Fisheries.
 (3) If an application does not include an adequate assessment of environmental effects or the information required by regulations, a consent authority may, within 5 working days after the application was first lodged, determine that the application is incomplete and return the application, with written reasons for the determination, to the applicant.
 (4) If, after an application has been returned as incomplete, that application is lodged again with the consent authority, that application is to be treated as a new application.
 (5) Sections 357 to 358 apply to a determination that an application is incomplete.
@@ -2566,6 +2574,17 @@ The consent authority that would have determined the application had the Environ
   (b) ending with the earlier of the following:
     (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
     (ii) the date on which the mediator reports the outcome of the mediation to the authority.
+
+### 88F Excluded time relating to pre-request aquaculture agreements
+(1) Subsection (2) applies when—
+  (a) an application has been made for a coastal permit to undertake aquaculture activities in the coastal marine area; and
+  (b) the applicant requests the consent authority to defer determining the application so that the applicant can negotiate a pre-request aquaculture agreement under section 186ZM of the Fisheries Act 1996; and
+  (c) it is the first request made by the applicant for that purpose.
+(2) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+  (a) starting with the date on which the request is made; and
+  (b) ending with the earlier of the following:
+    (i) the 80th working day after the date on which the request is made:
+    (ii) the date on which the applicant notifies the consent authority that the applicant wishes the consent authority to continue determining the application that the request related to.
 
 ### 89 Applications to territorial authorities for resource consents where land is in coastal marine area
 (1) Where an application for a subdivision consent is made to a territorial authority and any part, or all, of the land proposed to be subdivided is in the coastal marine area, the territorial authority shall decide the application as if the whole of that land were part of the district, and the provisions of this Act shall apply accordingly.
@@ -2878,7 +2897,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
     (vi) a plan or proposed plan; and
   (c) any other matter the consent authority considers relevant and reasonably necessary to determine the application.
 (2) When forming an opinion for the purposes of subsection (1)(a), a consent authority may disregard an adverse effect of the activity on the environment if a national environmental standard or the plan permits an activity with that effect.
-(2A) When considering an application affected by section 124, the consent authority must have regard to the value of the investment of the existing consent holder.
+(2A) When considering an application affected by section 124 or 165ZH(1)(c), the consent authority must have regard to the value of the investment of the existing consent holder.
 (2B) When considering a resource consent application for an activity in an area within the scope of a planning document, a consent authority must have regard to any resource management matters set out in that planning document.
 (2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under section 93 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 (3) A consent authority must not,—
@@ -2887,7 +2906,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
     (ii) any effect on a person who has given written approval to the application:
   (b)
   (c) grant a resource consent contrary to—
-    (i) section 107, 107A, 107E, or 217:
+    (i) section 107, 107A, or 217:
     (ii) an Order in Council in force under section 152:
     (iii) any regulations:
     (iv) wāhi tapu conditions included in a customary marine title order or agreement:
@@ -2987,8 +3006,21 @@ If a national environmental standard is made to control the effects on climate c
 **Decisions on applications relating to non-aquaculture activities**
 
 ### 107E Decision on application to undertake non-aquaculture activity in aquaculture management area
-(1) This section applies when a person applies for a coastal permit to undertake an activity in an aquaculture management area and the activity is not an aquaculture activity.
-(2) The consent authority may grant the permit only to the extent to which the activity is compatible with the aquaculture activities that may be undertaken in the aquaculture management area.
+[Repealed]
+
+### 107F Applications to undertake aquaculture activities
+(1) This section applies to an application for a coastal permit authorising aquaculture activities to be undertaken in the coastal marine area, other than an application referred to in subsection (2), including an application under subpart 4 of Part 7A.
+(2) This section does not apply to an application that relates to—
+  (a) an area—
+    (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under this Act; and
+    (ii) where, since the date on which the lease, licence, marine farming permit, or spat catching permit was deemed to be a coastal permit, aquaculture activities have been continuously authorised under that permit or another permit granted under this Act; or
+  (b) an area that is or was subject to the coastal permit referred to in section 20A of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 and where, since the date the coastal permit was deemed to be granted, aquaculture activities have been continuously authorised under that permit or another permit granted under this Act; or
+  (c) an area in a gazetted aquaculture area within the meaning of section 35 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(3) The consent authority must take the following actions:
+  (a) unless the application is returned under section 88(3), forward a copy of the application as soon as is reasonably practicable to the chief executive of the Ministry of Fisheries:
+  (b) if information or a report is obtained in relation to the application under section 41C, 42A, 92, or 149, forward that information or report as soon as is reasonably practicable to the chief executive:
+  (c) if the application is notified, as soon as is reasonably practicable after the closing date for submissions, send to the chief executive a copy of the submissions received.
+(4) For the purposes of subsection (3)(c), in the case of a concurrent application made under subpart 4 of Part 7A that is lodged with the EPA, the copy of submissions required to be sent by the EPA to the chief executive is a copy of only those submissions that relate to the concurrent application and not those that relate to its plan change request.
 
 ### 108 Conditions of resource consents
 (1) Except as expressly provided in this section and subject to any regulations, a resource consent may be granted on any condition that the consent authority considers appropriate, including any condition of a kind referred to in subsection (2).
@@ -3105,6 +3137,21 @@ Where a consent authority has received a cash contribution under section 108(2)(
   (a) make a copy of the decision available (whether physically or by electronic means) at all its offices and all public libraries in the district (if the consent authority is a territorial authority) or region (in all other cases); and
   (b) include with the notice a statement of the places where a copy of the decision is available; and
   (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
+(4) If the decision is to grant an application that section 107F applies to, the consent authority must—
+  (a) send a copy of the decision, and any notice served under subsection (2), to the chief executive of the Ministry of Fisheries:
+  (b) advise the applicant that—
+    (i) the decision is still subject to an aquaculture decision by the chief executive of the Ministry of Fisheries under the Fisheries Act 1996 (which will be made following the determination of all appeals against the decision, if any); and
+    (ii) the consent may commence only in accordance with section 116A:
+  (c) if there is no appeal relating to the decision, or following completion of any such appeal,—
+    (i) send a copy of the final decision to the chief executive of the Ministry of Fisheries; and
+    (ii) request an aquaculture decision from the chief executive under the Fisheries Act 1996.
+(5) If a consent authority forwards, at the same time, 2 or more decisions to the chief executive of the Ministry of Fisheries under subsection (4)(c), the consent authority must indicate to the chief executive the order in which the applications to which the decisions relate were received.
+(6) Subsection (4) does not apply if the decision relates to an application for a change or cancellation of the conditions of a consent under section 127, a review of the conditions of a consent initiated under section 132, or an application referred to in section 165ZH, if—
+  (a) that consent had conditions specified under section 186H(3) of the Fisheries Act 1996; and
+  (b) the conditions are contained in the consent the decision relates to, and continue to be specified as not being able to be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
+(7) For the purpose of subsection (4), in the case of a concurrent application made under subpart 4 of Part 7A that is lodged with the EPA, the functions in—
+  (a) paragraphs (a) and (b) of that subsection are to be performed by the EPA; and
+  (b) paragraph (c) of that subsection are to be performed by the consent authority.
 
 ### 115 Time limits for notification of decision
 (1) Notice of a decision on an application for a resource consent must be given under section 114 within the time limits in this section.
@@ -3114,7 +3161,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (5) However, if section 87I applies and a hearing is not held, the notice must be given within 10 working days after the date on which the authority knows that the section applies.
 
 ### 116 When a resource consent commences
-(1) Except as provided in subsections (1A), (2), (4), and (5), every resource consent that has been granted commences—unless the resource consent states a later date or a determination of the Environment Court states otherwise.
+(1) Except as provided in subsections (1A), (2), (4), and (5), or section 116A, every resource consent that has been granted commences—unless the resource consent states a later date or a determination of the Environment Court states otherwise.
   (a) when the time for lodging appeals against the grant of the consent expires and no appeals have been lodged; or
   (b) when the Environment Court determines the appeals or all appellants withdraw their appeals—
 (1A) A resource consent that has been granted—commences on the date on which the decision on the application is notified under section 114 or on such later date as is stated in the resource consent, unless an appeal has been lodged, in which case subsection (1) applies, or an objection has been made under section 357A, in which case subsection (1AB) applies.
@@ -3130,6 +3177,34 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (4) Where the Environment Court grants a resource consent under section 87G or 149U, the consent commences on the date of the decision or such later date as the court states in its decision.
 (5) Where a board of inquiry grants a resource consent under section 149R, the consent commences on the date of the decision or such later date as the board states in its decision.
 (6) If a resource consent is granted for an activity in a part of the common marine and coastal area where a customary marine title order or agreement is in effect, section 68(1) of the Marine and Coastal Area (Takutai Moana) Act 2011 applies.
+
+### 116A When coastal permit for aquaculture activities may commence
+(1) A coastal permit to undertake aquaculture activities in the coastal marine area cannot commence other than in accordance with this section.
+(2) If the chief executive of the Ministry of Fisheries makes a determination in relation to the permit, and has notified the consent authority of that decision in accordance with section 186H of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,—
+  (a) amend the permit, if necessary, to note any conditions specified under section 186H(3) of the Fisheries Act 1996 that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision:
+  (b) notify the applicant that the permit commences in respect of the area that is the subject of the determination, on the date of notification under this paragraph, or, if the permit specifies a later commencement date, on that date.
+(3) If the chief executive makes a reservation in relation to recreational fishing or customary fishing or commercial fishing in relation to stocks or species not subject to the quota management system and has notified the consent authority of that decision, in accordance with section 186H of the Fisheries Act 1996, the consent authority must, as soon as reasonably practicable,—
+  (a) amend the permit to remove the areas affected by the reservation:
+  (b) provide the applicant with a copy of the amended permit:
+  (c) cancel the permit to the extent that it applies to the removed areas by written notice served on the applicant.
+(4) If the chief executive makes a reservation in relation to commercial fishing in relation to stocks or species subject to the quota management system and has notified the consent authority of that decision, in accordance with section 186H of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,—
+  (a) amend the permit to show the areas affected by the reservation:
+  (b) provide the applicant with a copy of the amended permit:
+  (c) notify the applicant that the permit will not commence in the area affected by the reservation, unless—
+    (i) an aquaculture agreement is registered in accordance with section 186ZH of the Fisheries Act 1996; or
+    (ii) a compensation declaration has been registered under section 186ZHA of the Fisheries Act 1996.
+(5) If subsection (4) applies and the chief executive has notified the consent authority that an aquaculture agreement or compensation declaration has been registered for those stocks under section 186ZH or 186ZHA of the Fisheries Act 1996 (as the case may require), the consent authority must, as soon as reasonably practicable,—
+  (a) amend the permit so that it no longer shows the areas affected by the reservation:
+  (b) provide the applicant with a copy of the amended permit:
+  (c) notify the applicant that the permit (as amended) commences in respect of the area previously shown subject to the reservation on the date of notification under this paragraph, unless the permit states a later date.
+(6) If subsection (5) applies, then for the purposes of section 125(1)(b) the entire permit, as amended, is to be treated as having commenced on the commencement date notified under subsection (5)(c), unless the permit states a later date.
+(7) If subsection (4) applies and the chief executive has notified the consent authority under section 186ZK of the Fisheries Act 1996 that no aquaculture agreement or compensation declaration has been registered, the consent authority must, as soon is as reasonably practicable,—
+  (a) amend the permit to remove the areas affected by the reservation:
+  (b) provide the applicant with a copy of the amended permit:
+  (c) cancel the permit to the extent that it applies to the removed areas by written notice served on the applicant.
+(8) If the chief executive makes a reservation to which subsection (3) applies, for the entire permit area, the consent authority must cancel the permit by written notice served on the applicant.
+(9) Subsections (3) and (7) apply even if the permit was granted under section 104A.
+(10) In the case of a concurrent application made under subpart 4 of Part 7A that is lodged with and granted by the EPA, the references in this section to the consent authority are to be read as references to the consent authority that otherwise could have granted the application.
 
 **Restricted coastal activities**
 
@@ -3199,11 +3274,19 @@ Where a consent authority has received a cash contribution under section 108(2)(
 **Duration of consent**
 
 ### 123 Duration of consent
-Except as provided in section 125,—
+Except as provided in section 123A or 125,—
   (a) the period for which a coastal permit for a reclamation, or a land use consent in respect of a reclamation that would otherwise contravene section 13, is granted is unlimited, unless otherwise specified in the consent:
   (b) subject to paragraph (c), the period for which any other land use consent, or a subdivision consent, is granted is unlimited, unless otherwise specified in the consent:
   (c) the period for which any other coastal permit, or any other land use consent to do something that would otherwise contravene section 13, is granted is such period, not exceeding 35 years, as is specified in the consent and if no such period is specified, is 5 years from the date of commencement of the consent under section 116:
   (d) the period for which any other resource consent is granted is the period (not exceeding 35 years from the date of granting) specified in the consent and, if no such period is specified, is 5 years from the date of commencement of the consent under section 116.
+
+### 123A Duration of consent for aquaculture activities
+(1) A coastal permit authorising aquaculture activities to be undertaken in the coastal marine area must specify the period for which it is granted.
+(2) The period specified under subsection (1) must be not less than 20 years from the date of commencement of the consent under section 116A unless—
+  (a) the applicant has requested a shorter period; or
+  (b) a shorter period is required to ensure that adverse effects on the environment are adequately managed.
+(3) The period specified under subsection (1) must be not more than 35 years from the date of commencement of the consent under section 116A.
+(4) This section applies subject to section 125.
 
 ### 124 Exercise of resource consent while applying for new consent
 (1) Subsection (3) applies when—
@@ -3222,6 +3305,7 @@ Except as provided in section 125,—
 (3) The holder may continue to operate under the existing consent until—
   (a) a new consent is granted and all appeals are determined; or
   (b) a new consent is declined and all appeals are determined.
+(4) This section does not apply to an application to which section 165ZH applies.
 
 ### 124A When sections 124B and 124C apply and when they do not apply
 (1) Sections 124B and 124C apply to an application affected by section 124 if, when the application is made, the relevant plan has not allocated any of the natural resources used for the activity.
@@ -3268,13 +3352,16 @@ Except as provided in section 125,—
 (6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by section 124 is granted, the application described in subsection (1)(a) lapses to the extent to which the use of the resource has been granted to the holder.
 
 ### 125 Lapsing of consents
-(1) A resource consent lapses on the date specified in the consent or, if no date is specified, 5 years after the date of commencement of the consent unless, before the consent lapses,—
+(1) A resource consent lapses on the date specified in the consent or, if no date is specified,—
+  (a) 5 years after the date of commencement of the consent, if the consent does not authorise aquaculture activities to be undertaken in the coastal marine area; or
+  (b) 3 years after the date of commencement if the consent does authorise aquaculture activities to be undertaken in the coastal marine area.
+(1A) However, a consent does not lapse under subsection (1) if, before the consent lapses,—
   (a) the consent is given effect to; or
   (b) an application is made to the consent authority to extend the period after which the consent lapses, and the consent authority decides to grant an extension after taking into account—
     (i) whether substantial progress or effort has been, and continues to be, made towards giving effect to the consent; and
     (ii) whether the applicant has obtained approval from persons who may be adversely affected by the granting of an extension; and
     (iii) the effect of the extension on the policies and objectives of any plan or proposed plan.
-(1A) Sections 357A and 357C to 358 apply to subsection (1)(b).
+(1B) Sections 357A and 357C to 358 apply to subsection (1A)(b).
 (2) For the purposes of this section, a subdivision consent is given effect to when a survey plan in respect of the subdivision has been submitted to the territorial authority under section 223, but shall thereafter lapse if the survey plan is not deposited in accordance with section 224.
 (3) This section is subject to section 150G.
 
@@ -3295,6 +3382,7 @@ Except as provided in section 125,—
 (3) Sections 88 to 121 apply, with all necessary modifications, as if—
   (a) the application were an application for a resource consent for a discretionary activity; and
   (b) the references to a resource consent and to the activity were references only to the change or cancellation of a condition and the effects of the change or cancellation respectively.
+(3A) If the resource consent is a coastal permit authorising aquaculture activities to be undertaken in the coastal marine area, no aquaculture decision is required in respect of the application if the application is for a change or cancellation of a condition of the consent and does not relate to a condition that has been specified under section 186H(3) of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
 (4) For the purposes of determining who is adversely affected by the change or cancellation, the consent authority must consider, in particular, every person who—
   (a) made a submission on the original application; and
   (b) may be affected by the change or cancellation.
@@ -3311,6 +3399,7 @@ Except as provided in section 125,—
   (ba) in the case of a coastal, water, or discharge permit, when relevant national environmental standards have been made; or
   (c) if the information made available to the consent authority by the applicant for the consent for the purposes of the application contained inaccuracies which materially influenced the decision made on the application and the effects of the exercise of the consent are such that it is necessary to apply more appropriate conditions.
 (2) A consent authority must, in accordance with section 129, serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under section 339(5)(b).
+(3) A regional council must notify the chief executive of the Ministry of Fisheries as soon as is reasonably practicable if it intends to review a condition of a coastal permit authorising an aquaculture activity to be undertaken in the coastal marine area and the condition has been specified under section 186H(1A) of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
 
 ### 129 Notice of review
 (1) A notice under section 128—
@@ -3357,6 +3446,7 @@ Except as provided in section 125,—
 
 ### 132 Decisions on review of consent conditions
 (1) A consent authority may change the conditions of a resource consent (other than any condition as to the duration of the consent) on a review under section 128 if, and only if, 1 or more of the circumstances specified in that section applies.
+(1A) Sections 114(4) and 116A apply with all necessary modifications if a regional council decides to do a review and as a result of the review intends to change a condition of a coastal permit and it is required by section 128(3) to give notice of the intended review to the chief executive of the Ministry of Fisheries.
 (2) Sections 106 to 116 (which relate to conditions, decisions, and notification) and sections 120 and 121 (which relate to appeals) apply, with all necessary modifications, to a review under section 128 as if—
   (a) the review were an application for a resource consent; and
   (b) the consent holder were an applicant for a resource consent.
@@ -3634,6 +3724,7 @@ The Minister must not call in a matter (by making a direction under section 142(
   (a) an application for a resource consent:
   (b) a request for the preparation of a regional plan (other than a regional coastal plan):
   (c) a request for a change to a plan.
+(1A) A person must not lodge with the EPA a plan change request made under subpart 4 of Part 7A unless the person also lodges with it a concurrent application under that subpart.
 (2) The holder of a resource consent may lodge an application for a change to or cancellation of the conditions of the resource consent with the EPA.
 (3) A requiring authority may lodge a notice of requirement for a designation or to alter a designation with the EPA.
 (4) A heritage protection authority may lodge a notice of requirement for a heritage order or to alter a heritage order with the EPA.
@@ -3649,6 +3740,7 @@ The Minister must not call in a matter (by making a direction under section 142(
 (7) If the matter is a notice of requirement for a designation or to alter a designation, section 168 applies, except that every reference in that section to a territorial authority must be read as a reference to the EPA.
 (8) If the matter is a notice of requirement for a heritage order or to alter a heritage order, section 189 applies, except that every reference in that section to a territorial authority must be read as a reference to the EPA.
 (9) If the matter is a request for a change to a plan or the preparation of a regional plan, clause 22 of Schedule 1 applies, except that every reference in that clause to a local authority must be read as a reference to the EPA.
+(9A) If the matter is a concurrent application lodged with a plan change request made under subpart 4 of Part 7A, section 107F(3) applies except that the reference to the consent authority in that subsection must be read as a reference to the EPA.
 (10) A person who lodges a matter with the EPA under subsections (1) to (4) must serve the local authority with notice of the matter and of its lodging with the EPA under this section.
 (11) A matter may not be lodged with the EPA under this section if—
   (a) the same matter has been lodged with a local authority; and
@@ -3667,6 +3759,11 @@ The Minister must not call in a matter (by making a direction under section 142(
     (iv) if the local authority appoints 1 or more hearings commissioners for the matter, to appoint an additional commissioner for the matter.
 (3) The EPA must serve a copy of its recommendation on the applicant and the local authority.
 (4) The 20-working day time frame specified in subsection (1) applies subject to section 149(5) and (6).
+(5) This section applies to plan change requests and concurrent applications made under subpart 4 of Part 7A subject to the following:
+  (a) the 20 working days referred to in subsection (1) begins on the later of the following days:
+    (i) the day on which the EPA determines that, for the purposes of section 88(3), the concurrent application is complete:
+    (ii) the day on which the EPA receives all the information and reports required under section 149:
+  (b) any recommendation made by the EPA under this section must relate to both the plan change request and its concurrent application.
 
 ### 147 Minister makes direction after EPA recommendation
 (1) After the Minister receives a recommendation from the EPA under section 146, he or she may make a direction to—
@@ -3683,6 +3780,7 @@ The Minister must not call in a matter (by making a direction under section 142(
   (a) be in writing and be signed by the Minister; and
   (b) state the Minister's reasons for making the direction.
 (6) To avoid doubt, the Minister may make a direction under subsection (1) that differs from the direction recommended by the EPA under section 146(1).
+(7) For the purposes of a plan change request made, and a concurrent application lodged, under subpart 4 of Part 7A, a direction given under this section must relate to both.
 
 **General provisions for matter lodged with local authority or EPA**
 
@@ -3742,7 +3840,8 @@ As soon as practicable after the Minister makes a direction under section 142(2)
     (iii) has made a decision to adopt the request, but has not yet notified the proposed plan or change under clause 5 of Schedule 1; or
   (b) the matter is a request for the preparation of a regional plan, or a request for a change to a plan, lodged with the EPA under section 145; or
   (c) the Minister instructs that the giving of public notice be delayed under section 149D; or
-  (d) the Minister decides under section 149ZC that the application or notice to which the direction relates is not to be publicly notified.
+  (d) the Minister decides under section 149ZC that the application or notice to which the direction relates is not to be publicly notified; or
+  (e) the matter is a concurrent application made under subpart 4 of Part 7A.
 (3) A notice under subsection (1) must—
   (a) state the Minister's reasons for making the direction; and
   (b) describe the matter to which the direction applies; and
@@ -3803,12 +3902,15 @@ As soon as practicable after the Minister makes a direction under section 142(2)
   (a) any person representing a relevant aspect of the public interest; and
   (b) any person that has an interest in the request, change, or variation greater than the interest that the general public has; and
   (c) the local authority.
-(4) However, a further submission may be only in support of or in opposition to the submissions made on a matter under section 149E.
+(4) However, a further submission—
+  (a) may only be in support of or in opposition to a submission made on a matter under section 149E:
+  (b) may not be made on a concurrent application made under subpart 4 of Part 7A.
 (5) A further submission must be in the prescribed form.
 (6) A person who makes a further submission under subsection (3) must serve a copy of it on—
   (a) the applicant; and
   (b) the person who made the submission under section 149E to which the further submission relates.
 (7) The further submission must be served no later than 5 working days after the day on which the person provides the EPA with the further submission.
+(8) In subsection (1), request for a change to a plan, in relation to a plan change request made under subpart 4 of Part 7A, includes the concurrent application that relates to the plan change request.
 
 ### 149G EPA must provide board or court with necessary information
 (1) This section applies if a matter is referred to a board of inquiry or the Environment Court under this Part.
@@ -3834,6 +3936,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 ### 149I Limitation on withdrawal of change or variation
 (1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, or a variation to a proposed plan, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
 (2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
+(3) If the applicant withdraws a request for a change to the plan that is a plan change request made under subpart 4 of Part 7A, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
 
 ### Subpart 2 — How matter decided if direction made to refer matter to board of inquiry or court
 
@@ -3891,6 +3994,9 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
     (ii) apply section 149P(6) or (7), as the case may be; and
     (iii) produce a draft report on the proposed plan or change under section 149Q; and
     (iv) produce a final report on the proposed plan or change under section 149R.
+(4A) For the purposes of subsection (4)(c), in the case of a plan change request made under subpart 4 of Part 7A, the concurrent application—
+  (a) must be included in the public notice and invitation to make submissions; but
+  (b) must not be included in the invitation to make further submissions.
 (5) If the board rejects the request, the board must serve notice of its decision on the applicant and the local authority.
 
 ### 149N Process if section 149M applies or proposed plan or change not yet prepared
@@ -3901,19 +4007,20 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (3) The local authority must then serve a copy of the proposed plan or change on the EPA,—
   (a) if the circumstances in subsection (1)(a) apply, no later than 4 months after the local authority was served with notice of the board's decision under section 149M(4):
   (b) if the circumstances in subsection (1)(b) apply, no later than 4 months after the local authority was served with the Minister's direction under section 149A.
-(4) The local authority must also give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (9) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
+(4) The local authority must also give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8)(b) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
 (5) Subsections (6) to (8) apply if a local authority has adopted a request for the preparation of a regional plan, or a request for a change to a plan, under clause 25(2)(a) of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet notified the proposed plan or change under clause 5 of Schedule 1.
 (6) The local authority must, no later than 4 months after the local authority was served with the Minister's direction under section 149A,—
   (a) serve a copy of the proposed plan or change on the EPA; and
   (b) give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
 (7) A rule in a proposed plan or change served on the EPA under subsection (6) has legal effect only once a decision is made by the board of inquiry or court.
-(8) However, a rule has legal effect on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O if the rule—
-  (a) protects or relates to water, air, or soil (for soil conservation); or
-  (b) protects areas of significant indigenous vegetation; or
-  (c) protects areas of significant habitats of indigenous fauna; or
-  (d) protects historic heritage; or
-  (e) provides for or relates to an aquaculture management area.
-(9) A rule included in a proposed plan or change served on the EPA under subsection (3) that provides for or relates to an aquaculture management area has legal effect on and from the date that public notice of the proposed plan or change is given under section 149O.
+(8) However, a rule has legal effect on and from the date on which the EPA gives public notice of—
+  (a) the proposed plan or change under section 149O if the rule—
+    (i) protects or relates to water, air, or soil (for soil conservation); or
+    (ii) protects areas of significant indigenous vegetation; or
+    (iii) protects areas of significant habitats of indigenous fauna; or
+    (iv) protects historic heritage:
+  (b) the proposed plan under section 149O if the rule provides for or relates to aquaculture activities.
+(9)
 
 ### 149O Public notice and submissions where EPA receives proposed plan or change from local authority under section 149N
 (1) This section applies where the EPA receives a proposed plan or change proposed by a local authority under section 149N.
@@ -3924,7 +4031,9 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
   (d) that submissions on the proposed plan or change may be made by any person to the EPA; and
   (e) the closing date for receiving submissions; and
   (f) the address for service of the EPA and the applicant.
-(3) Any person may make a submission on a proposed plan or change for which public notice is given under subsection (2) and, for that purpose, section 149E(3), (4), and (8) apply.
+(3) Any person may make a submission on—
+  (a) a proposed plan or change for which public notice is given under subsection (2), and, for that purpose, section 149E(3), (4), and (8) apply:
+  (b) a concurrent application for which public notice is given under subsection (2), and, for that purpose, section 149E(5) applies.
 (4) However, the closing date for making a submission under subsection (3) is 20 working days after the day on which public notice of the proposed plan or change is given under subsection (2).
 (5) On receiving a copy of the proposed plan or change, the EPA must also provide the board of inquiry with a copy of the proposed plan or change.
 (6) When the EPA gives public notice under subsection (2), it must also serve a copy of the notice on—
@@ -3935,7 +4044,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (1) A board of inquiry considering a matter must—
   (a) have regard to the Minister's reasons for making a direction in relation to the matter; and
   (b) consider any information provided to it by the EPA under section 149G; and
-  (c) act in accordance with subsection (2), (3), (4), (5), (6), or (7), as the case may be.
+  (c) act in accordance with subsection (2), (3), (4), (5), (6), (7), (8), or (9) as the case may be.
 (2) A board of inquiry considering a matter that is an application for a resource consent must apply sections 104 to 112 and 138A as if it were a consent authority.
 (3) A board of inquiry considering a matter that is an application for a change to or cancellation of the conditions of a resource consent must apply sections 104 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
@@ -3961,6 +4070,11 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293 as if it were the Environment Court; and
   (c) must apply sections 74 to 77D as if it were a territorial authority.
+(8) A board of inquiry considering a plan change request and its concurrent application made under subpart 4 of Part 7A must—
+  (a) firstly, determine matters in relation to the plan change request; and
+  (b) secondly, determine matters in relation to the concurrent application, based on its determination of matters in relation to the plan change request.
+(9) For the purposes of subsection (8)(b), a board of inquiry must process, consider, and determine the concurrent application as if it were a regional council acting under section 165ZW and that section applies accordingly with all necessary modifications.
+(10) A board of inquiry must decline a concurrent application if, as a result of the board's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.
 
 ### 149Q Board to produce draft report
 (1) As soon as practicable after a board of inquiry has completed its inquiry on a matter, it must—
@@ -4012,6 +4126,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
   (g) if the matter to which the report relates is a notice of requirement, the landowners and occupiers directly affected by the decision.
 (5) The EPA must publish the board's report and give public notice of where and how copies of it can be obtained.
 (6) Nothing in section 37(1) applies to the time periods or the requirements in this section that apply to a board.
+(7) The EPA's functions under this section are in addition to the EPA's functions under section 114(7)(a).
 
 ### 149S Minister may extend time by which board must report
 (1) Despite section 149R(2), the Minister may, at any time (including before the board is appointed), grant an extension or extensions of time in which a board of inquiry must produce its final report.
@@ -4407,201 +4522,294 @@ Every authorisation may be transferred by its holder to any other person, but th
 (2) Where an authorisation granted to a person to whom subsection (1) applies has lapsed pursuant to section 164, the Minister shall cause 80% of the initial payment to be refunded to that person from a Crown Bank Account.
 (3) Where any tenderer who has failed to obtain an authorisation forwarded an initial payment to the Minister pursuant to section 158(2), the Minister shall as soon as practicable cause that money to be refunded to that tenderer.
 
-## Part 7A — Occupation of coastal marine area
+## Part 7A — Occupation of common marine and coastal area
 
-### Subpart 1 — Aquaculture management areas and authorisations
-
-### 165A Interpretation
-In this subpart and subpart 2, unless the context otherwise requires,—
-  - **aquaculture agreement** has the same meaning as in section 186ZD of the Fisheries Act 1996
-  - **authorisation** means the right to apply for a coastal permit to occupy space in a coastal marine area
-  - **available space** , in relation to an aquaculture management area,—
-    (a) means space vested in the Crown or a regional council that is not the subject of—
-      (i) a coastal permit to occupy space in a coastal marine area for aquaculture activities; or
-      (ii) an authorisation; or
-      (iii) a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that authorises occupation of the space; or
-      (iv) an application for a coastal permit to occupy space in a coastal marine area for aquaculture activities; or
-      (v) a lease or licence under the Marine Farming Act 1971 until the lease or licence becomes a deemed coastal permit under section 10 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-      (vi) a coastal permit to occupy space in an aquaculture management area for activities that are not aquaculture activities if the activities authorised by the coastal permit are not compatible with aquaculture activities; and
-    (b) does not include an actual space (as defined in section 53(12) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004)
-  - **chief executive** means the chief executive of the Ministry of Fisheries
-  - **Minister** means the Minister of Conservation
-  - **public notice** has the same meaning as in section 151
-  - **trustee** has the same meaning as in section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+### 165A Overview
+(1) This section provides a general indication of the contents of this subpart and does not affect the interpretation or application of this subpart.
+(2) Subpart 1 contains provisions about managing occupation of the common marine and coastal area, in particular,—
+  (a) a power to refuse to receive an application for a coastal permit to occupy the common marine and coastal area if made within 1 year after refusing a similar application:
+  (b) provisions about the contents of a regional coastal plan:
+  (c) requirements for a regional council (before including a rule in a regional coastal plan or proposed regional coastal plan about the allocation of space in the common marine and coastal area) to have regard to, and be satisfied about, certain matters:
+  (d) a power by Order in Council to direct a regional council not to proceed with the allocation of authorisations or to proceed as specified in the order:
+  (e) a power of the Minister of Conservation to approve a method of allocating authorisations:
+  (f) general provisions about authorisations:
+  (g) a power of the Minister of Aquaculture, on request from a regional council, to suspend receipt of applications for coastal permits to occupy space in the common marine and coastal area for aquaculture activities or to direct a regional council to process and hear applications together.
+(3) Subpart 2 has been repealed.
+(4) Subpart 3 relates to applications (made on or after 23 August 2004) for coastal permits to occupy space for aquaculture activities where the relevant space is already subject to a coastal permit or deemed coastal permit and the relevant plan does not provide for a method of allocating authorisations for occupation of the space for aquaculture activities. The provisions of this subpart provide priority for the processing of applications from existing permit holders ahead of other applications.
+(5) Subpart 4 provides for plan change requests and concurrent coastal permit applications in relation to a rule in a regional coastal plan that,—
+  (a) as at 1 October 2011, specifies an aquaculture activity as a prohibited activity; and
+  (b) is operative when a concurrent application is lodged.
 
 ### 165AB Establishment of aquaculture management areas
-An area may be established as an aquaculture management area only in the following ways:
-  (a) by being included in a regional coastal plan or proposed regional coastal plan in accordance with section 165C:
-  (b) by becoming an aquaculture management area under section 44 or 45 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+[Repealed]
 
-### 165B Power of consent authorities to refuse to receive applications for coastal permits
-For the purposes of this subpart, a consent authority may refuse to receive an application for a coastal permit for activities within 1 year after a consent authority has refused to grant an application for a permit for an activity of the same or a similar type in respect of the same space or in respect of space in close proximity to the space concerned.
+### 165B Relationship of Part with rest of Act
+The provisions of this Act that relate to applications for, and the granting of, resource consents apply to applications for, and the granting of, coastal permits to occupy space in the common marine and coastal area subject to the provisions of this Part.
 
 ### 165BB Some applications for coastal permits must be cancelled
-A consent authority must cancel an application for a coastal permit for the occupation of space in the coastal marine area for the purpose of aquaculture activities if the application—
-  (a) is made after 9 May 2006 but before the commencement of the Resource Management Amendment Act 2008; and
-  (b) does not relate to an aquaculture management area in a regional coastal plan as at the commencement of the Resource Management Amendment Act 2008.
+[Repealed]
 
 ### 165BC Certain applications not to be processed or determined until aquaculture management area established in regional coastal plan
-(1) This section applies to applications for coastal permits for the occupation of space in the coastal marine area for the purpose of aquaculture activities made on or after 1 January 2005 but before 10 May 2006, being applications that (at the time of being made) did not relate to an aquaculture management area in a regional coastal plan.
-(2) A consent authority must not process or determine an application until such time as the area to which the application relates becomes an aquaculture management area in a regional coastal plan.
-(3) An application referred to in subsection (2) must be processed and determined under the rules in the regional coastal plan and any proposed regional coastal plan at the time the consent authority resumes processing the application.
-(4) However, a consent authority must not grant a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation relating to commercial fishing, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
-(5) An application is deemed to be cancelled on and from the date on which a proposed regional coastal plan is notified under clause 5 of Schedule 1 after the commencement of the Resource Management Amendment Act 2008 and to the extent that the application relates to an area covered by the plan and the plan provides for an aquaculture management area, but it does not include the area that the application relates to.
-(6) An application is deemed to be cancelled on and from the day that is 10 years after the commencement of the Resource Management Amendment Act 2008 to the extent that, by that date,—
-  (a) no proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1; or
-  (b) a proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1, but the plan contains no aquaculture management areas.
-(7) This section—
-  (a) prevails over Part 7A; but
-  (b) applies subject to the Maori Commercial Aquaculture Claims Settlement Act 2004.
+[Repealed]
 
-**Aquaculture management areas and occupation of coastal marine area**
+### Subpart 1 — Managing occupation in common marine and coastal area
 
-### 165C Provisions about aquaculture management areas
-(1) A regional coastal plan or proposed regional coastal plan—
-  (a) may provide for 1 or more aquaculture management areas in a coastal marine area; and
-  (b) may provide for 1 or more aquaculture management areas in a coastal marine area for the express purpose of providing for the allocation of space to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004; and
-  (c) in relation to an aquaculture management area, may—
-    (i) specify the aquaculture activities that may be undertaken; and
-    (ii) specify other activities involving occupation that may be undertaken; and
-    (iii) specify that no application (other than under an authorisation) can be made for a coastal permit to occupy space in an aquaculture management area before a date to be specified in a public notice; and
-    (iv) provide that the consent authority may process and hear together applications for coastal permits for the occupation of—
-      (A) the same space in a coastal marine area; or
-      (B) different spaces in a coastal marine area that are in close proximity to each other; and
-    (v) specify limits on—
-      (A) the character, intensity, or scale of activities associated with occupation of space or the aquaculture management area generally; and
-      (B) the size of space that may be the subject of a coastal permit granted for the purposes of section 12(2) and the proportion of an aquaculture management area that may be occupied for the purpose of specified activities; and
-    (vi) provide for the management of competition for the occupation of space vested in the Crown or a regional council in an aquaculture management area.
-(2) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area must include provisions to ensure that an aquaculture management area is principally for aquaculture activities.
-(3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
-(4) A regional coastal plan or proposed regional coastal plan that provides for aquaculture management areas must be prepared in the manner set out in Schedule 1A.
-(5)
+### 165C Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **authorisation** means the right to apply for a coastal permit to occupy space in a common marine and coastal area
+  - **Minister** means the Minister of Conservation
+  - **public notice** has the same meaning as in section 151
+  - **tender** means any form of tender (whether public or otherwise)
+  - **trustee** has the same meaning as in section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 
-### 165D Provisions about occupation of coastal marine area
-(1) This section applies only in relation to areas in a coastal marine area that are not aquaculture management areas.
-(2) A regional coastal plan or proposed regional coastal plan may include provisions to address the effects of occupation of a coastal marine area and to manage competition for the occupation of space, including rules specifying—
+### 165D Power of consent authorities to refuse to receive applications for coastal permits
+For the purposes of this subpart, a consent authority may refuse to receive an application for a coastal permit to occupy space in the common marine and coastal area for the purpose of an activity if, within 1 year before the application is made, the consent authority has refused to grant an application for a permit for an activity of the same or a similar type in respect of the same space or in respect of space in close proximity to the space concerned.
+
+### 165E Applications in relation to aquaculture settlement areas
+(1) No person may apply for a coastal permit authorising occupation of space in an aquaculture settlement area (within the meaning of the Maori Commercial Aquaculture Claims Settlement Act 2004), for the purpose of aquaculture activities, unless the person is a holder of an authorisation that—
+  (a) relates to that space and activity; and
+  (b) was provided to the trustee under section 13 of that Act.
+(2) A consent authority may grant a coastal permit authorising any other activity in an aquaculture settlement area, but only—
+  (a) to the extent that that activity is compatible with aquaculture activities; and
+  (b) after consultation with the trustee and iwi in the region.
+(3) Subsection (1) does not affect any application received by a consent authority—
+  (a) after 1 January 2005; but
+  (b) before the space became an aquaculture settlement area.
+(4) In subsection (2)(b), iwi has the same meaning as in the Maori Fisheries Act 2004.
+
+**Regional coastal plan provisions relating to occupation of common marine and coastal area**
+
+### 165F Provisions about occupation of common marine and coastal area
+(1) A regional coastal plan or proposed regional coastal plan may include provisions to address the effects of occupation of a common marine and coastal area and to manage competition for the occupation of space, including rules specifying—
   (a) that no application can be made for a coastal permit to occupy space before a date to be specified in a public notice:
   (b) that the consent authority may process and hear together applications for coastal permits for the occupation of—
-    (i) the same space in a coastal marine area; or
-    (ii) different spaces in a coastal marine area that are in close proximity to each other:
-  (c) limits on—
+    (i) the same space in a common marine and coastal area; or
+    (ii) different spaces in a common marine and coastal area that are in close proximity to each other:
+  (c) that the consent authority may process and hear together with the applications referred to in paragraph (b) any applications for coastal permits related to the coastal permits referred to in paragraph (b):
+  (d) limits on—
     (i) the character, intensity, or scale of activities associated with the occupation of space:
     (ii) the size of space that may be the subject of a coastal permit and the proportion of any space that may be occupied for the purpose of specified activities.
-(3) However, a rule made for the purposes of subsection (2)(a) does not apply to an application made for a coastal permit under an authorisation.
+(2) However, a rule made for the purposes of subsection (1)(a) does not apply to an application made for a coastal permit under an authorisation.
+(3) For the purposes of subsection (1), a provision in a regional coastal plan or proposed regional coastal plan may relate to an activity, 1 or more classes of activities, or all activities.
 
-**Allocation of space in coastal marine area**
+### 165G Plan may specify allocation methods
+A regional coastal plan or proposed regional coastal plan may provide for a rule in relation to a method of allocating space in the common marine and coastal area for the purposes of an activity, including a rule in relation to the public tender of authorisations or any other method of allocating authorisations.
 
-### 165E Offer of authorisations for available space in aquaculture management area
-(1) If a regional coastal plan provides for an aquaculture management area, the regional council may, by public notice, offer authorisations for available space in the area for 1 or more aquaculture activities for which the area may be occupied—
-  (a) by public tender, if paragraph (b) does not apply; or
-  (b) by another method, if the plan provides for allocation by another method.
-(2) Subsection (1) applies subject to section 165O.
-(3) A regional council must not offer authorisations for available space in an aquaculture management area (for activities that are not aquaculture activities) by public tender or another method unless the regional coastal plan provides for the allocation of authorisations for available space by public tender or the other method.
-
-### 165F Offer of authorisations for activities other than aquaculture activities
-A regional council may, by public notice and in accordance with its regional coastal plan, offer authorisations for coastal permits for the occupation of space in the coastal marine area for activities other than aquaculture activities.
-
-### 165G Chief executive to be notified of proposed allocation
-(1) This section applies only in relation to space that is the subject of a reservation relating to commercial fishing.
-(2) A regional council must give the chief executive not less than 6 months' notice of—
-  (a) an offer of authorisations under section 165E:
-  (b) the date on and from which applications for coastal permits for the occupation of space for aquaculture activities may be made in accordance with the regional coastal plan or this Act:
-  (c) the operative date of the regional coastal plan or a change to a regional coastal plan that provides for an aquaculture management area.
-(3) A regional council must also give not less than 6 months' public notice of the matters referred to in subsection (2)(a) to (c).
-
-### 165H Plan may specify allocation methods
-A regional coastal plan or proposed regional coastal plan may provide for a rule in relation to a method of allocating space in the common marine and coastal area.
-
-### 165I Duty to adopt most efficient and effective allocation mechanism
-(1) Before adopting a rule in relation to the method of allocation of space in a coastal marine area, other than as provided for in this Act, a regional council must—
+### 165H Regional council to have regard to and be satisfied about certain matters before including allocation rule in regional coastal plan or proposed regional coastal plan
+(1) Before including a rule in a regional coastal plan or proposed regional coastal plan in relation to the allocation of space in a common marine and coastal area for the purposes of an activity, a regional council must—
   (a) have regard to—
-    (i) the reasons for and against adopting the proposed method; and
-    (ii) the principal alternative means available; and
-  (b) be satisfied that the adoption of the proposed method is—
-    (i) necessary in the circumstances of the region; and
-    (ii) the most appropriate for allocation in the circumstances of the region, having regard to its efficiency and effectiveness compared with other methods.
-(2) Section 32(1) to (3) does not apply to the adoption of a rule in accordance with subsection (1).
-(3) Subsection (1) applies subject to an Order in Council made under section 165O.
+    (i) the reasons for and against including the proposed rule; and
+    (ii) if the proposed rule provides for a method of allocation of space other than by a method of allocating authorisations,—
+      (A) the reasons why allocation other than by a method of allocating authorisations is justified; and
+      (B) how this may affect the preferential rights provided for in section 165W; and
+    (iii) if the proposed rule provides for a method of allocating authorisations other than by public tender,—
+      (A) the reasons why allocation other than by public tender is justified; and
+      (B) how this may affect the preferential rights provided for in section 165W; and
+  (b) be satisfied that—
+    (i) a rule in relation to the allocation of space is necessary or desirable in the circumstances of the region; and
+    (ii) if the proposed method of allocating space is not allocation of authorisations, or the proposed allocation of authorisations is not by public tender, the proposed method is the most appropriate for allocation of space in the circumstances of the region, having regard to its efficiency and effectiveness compared to other methods of allocating space.
+(2) Section 32(1) to (3) do not apply to the inclusion of a rule in accordance with subsection (1).
+(3) Subsection (1) applies subject to an Order in Council made under section 165K.
+(4) A challenge to a rule on the ground that this section has not been complied with may be made only in a submission under Schedule 1.
+(5) Subsection (4) does not preclude a person who is hearing a submission or an appeal on a proposed regional coastal plan from taking into account the matters stated in subsection (1).
 
-### 165J Allocation of space in aquaculture management area for aquaculture activities subject to reservation relating to commercial fishing
-(1) This section applies to an aquaculture management area to the extent that the area is subject to a reservation relating to commercial fishing.
-(2) A regional council must not allocate authorisations relating to aquaculture activities in an area subject to a reservation, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act relating to the area.
-(3) No person may apply for or be granted a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation in relation to commercial fishing, except a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
-(4) Before allocating an authorisation referred to in subsection (2), the regional council must have received advice from the chief executive that—
-  (a) the time for registering aquaculture agreements has expired; and
-  (b) at least 1 aquaculture agreement has been registered.
-(5) If a coastal permit is granted for the area that is subject to the reservation, the regional council must delete from the regional coastal plan the reservation in relation to the area to which the coastal permit relates.
-(6) If the chief executive advises the regional council that no aquaculture agreement has been registered in respect of the area or part of the area, the regional council must amend its regional coastal plan by deleting the area or part of the area from the aquaculture management area.
-(7) If an authorisation lapses under section 165N and the holder of the authorisation does not hold a coastal permit granted under it, the regional council must amend its regional coastal plan by deleting the area from the aquaculture management area.
-(8) Schedule 1 and Schedule 1A do not apply to an amendment made under any of subsections (5), (6), or (7).
-(9) This section applies subject to section 14 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+### 165I Offer of authorisations for activities in common marine and coastal area in accordance with plan
+(1) If a regional coastal plan includes a rule that provides for public tendering or another method of allocating authorisations, the regional council must, by public notice and in accordance with the rule, offer authorisations for coastal permits for the occupation of space in the common marine and coastal area.
+(2) Subsection (1) applies subject to—
+  (a) subsection (3); and
+  (b) any Order in Council made under section 165K.
+(3) A regional council must give the Minister not less than 4 months' notice before making an offer of authorisations under subsection (1).
 
-### 165K When applications not to be made or granted unless applicant holds authorisation
-(1) Subsection (2) applies to space in the coastal marine area if—
-  (a) the space is available space and a regional coastal plan does not provide for the allocation of the space by an alternative to an offer of authorisations; or
-  (b) the space has been identified by a regional council as space for allocation to the trustee under section 9(1) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
-(2) A person must not apply for, and a consent authority must not grant, a coastal permit authorising occupation of the space or identified space (as the case may be) for aquaculture activities unless the person is the holder of an authorisation for the space.
-(3) Subsection (4) applies to space in a coastal marine area and the regional coastal plan provides for the allocation of authorisations of space by public tender or another method.
-(4) A person must not apply for, and a regional council must not grant, a coastal permit authorising occupation of the space for activities that are not aquaculture activities unless the person is a holder of an authorisation for the space.
+### 165J When applications not to be made unless applicant holds authorisation in accordance with plan
+(1) Subsection (2) applies to space in the common marine and coastal area if a regional coastal plan or a rule in a proposed regional coastal plan that has legal effect provides for public tendering or another method of allocating authorisations in relation to an activity in the space.
+(2) A person must not apply for a coastal permit authorising occupation of the space for the activity unless the person is the holder of—
+  (a) an authorisation that relates to the space and activity; or
+  (b) a coastal permit granted under an authorisation that related to the occupation of that space and the application is for an activity that was within the scope of the authorisation.
+(3) Subsection (2) does not affect any applications received by the regional council before the regional coastal plan became operative or the rule in a proposed regional coastal plan had legal effect.
+(4) Subsection (2) does not affect any application referred to in section 165ZH that is received by the regional council—
+  (a) after a rule in a proposed regional coastal plan has legal effect; but
+  (b) before the rule becomes operative.
 
-### 165L Authorisation not to confer right to coastal permit
+### 165K Power to give directions relating to allocation of authorisations for space provided for in plan
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, direct a regional council whose regional coastal plan or any proposed regional coastal plan provides for a rule in relation to a method of allocating authorisations for space in a common marine and coastal area—
+  (a) not to proceed with a proposed allocation of authorisations for space in a common marine and coastal area; or
+  (b) in proceeding with a proposed allocation of authorisations for space in a common marine and coastal area, to give effect to the matters specified in the Order in Council.
+(2) The Minister may make a recommendation under subsection (1) only for 1 or more of the following purposes:
+  (a) to give effect to Government policy in the common marine and coastal area:
+  (b) to preserve the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Māori claimants or representative of any group of Māori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992:
+  (c) to facilitate compliance with section 165W:
+  (d) to assist the Crown to comply with its obligations under the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(3) The matters referred to in subsection (1)(b) include—
+  (a) the allocation method to be used:
+  (b) subject to sections 123 and 123A, the maximum term of a coastal permit to which the authorisations available for allocation relate:
+  (c) the allocation, at no cost, of authorisations relating to specific spaces within a common marine and coastal area to the Crown:
+  (d) the allocation, at no cost, of authorisations relating to specific spaces in a common marine and coastal area, or a certain proportion of the authorisations proposed to be allocated, to the trustee that is representative of the entire space for which authorisations are to be offered under the proposed allocation.
+(4) If an Order in Council contains a direction under subsection (3)(a), the order must be made before—
+  (a) the relevant proposed plan is notified under clause 5 or 26 of Schedule 1; or
+  (b) the Minister approves the relevant regional coastal plan under clause 19 of Schedule 1.
+(5) If an Order in Council contains a direction under subsection (3)(b), (c), or (d), the order must be made before the regional council publicly notifies the offer under section 165I.
+(6) Subject to subsection (4), the Minister may make a recommendation under subsection (1) only if the Minister makes the recommendation within 3 months after receiving a notice under section 165I(3).
+(7) An Order in Council does not affect the following if made before the Order in Council comes into force:
+  (a) a publicly notified offer of authorisations:
+  (b) an application for a coastal permit.
+(8) An authorisation allocated in accordance with subsection (3)(d) is a settlement asset for the purposes of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+
+**Ministerial approval of use of method of allocating authorisations**
+
+### 165L Regional council may request use of allocation method
+(1) This section applies if—
+  (a) in a regional council’s opinion it is desirable due to actual or anticipated high demand or competing demands for coastal permits for occupation of space in the common marine and coastal area for the purpose of 1 or more activities, that a method be used to allocate authorisations for the space; and
+  (b) either—
+    (i) a regional coastal plan does not provide for a rule in relation to a method of allocating authorisations for the space for the purpose of the activities; or
+    (ii) a regional coastal plan does provide for a rule referred to in subparagraph (i), but the regional council considers that it will not enable it to manage effectively the high demand or the competing demands for coastal permits for the occupation of space for the purpose of the activities.
+(2) The regional council may request the Minister to approve allocation by public tender of authorisations or another method of allocating authorisations for the space in the common marine and coastal area.
+(3) A request under subsection (2) must—
+  (a) specify,—
+    (i) if it does not relate to a public tender, the proposed method for allocation of authorisations; and
+    (ii) the activities it is proposed the public tender or other allocation method will apply to; and
+    (iii) the space in the common marine and coastal area it is proposed the public tender or other allocation method will apply to; and
+    (iv) how and when the public tender or other method for allocating authorisations is proposed to be implemented in the space, including any staging of the allocation; and
+    (v) the reasons for the council’s opinion that it is desirable that an allocation method be used in relation to the space; and
+  (b) if the proposed allocation method is not public tender, give reasons why the council proposes to use the alternative allocation method; and
+  (c) be accompanied by information about the actual or anticipated high demand or competing demands for coastal permits for occupation of the space for the purposes of the activity or activities covered by the request.
+(4) A request under subsection (2) may relate to a single use of the proposed allocation method or its use on more than 1 occasion.
+(5) On the day a request is made under subsection (2), or as soon as practicable afterwards, a regional council must—
+  (a) give public notice of the request; and
+  (b) give notice of the request to the Environmental Protection Authority.
+(6) A public notice under subsection (5) must include—
+  (a) the matters in subsection (3)(a)(i) to (iii); and
+  (b) a statement to the effect of section 165M(2) and (3).
+
+### 165M Stay on applications following request under section 165L
+(1) Subsection (2) applies if a regional council has made a request under section 165L(2).
+(2) A person must not apply for a coastal permit to occupy any space that is the subject of the request for the purpose of an activity in the request during the period commencing on the day on which public notice of the request is given under section 165L(5)(a), and ending on the earlier of—
+  (a) the day on which the regional council publicly notifies under section 165N(8) that the request has been declined; or
+  (b) the day on which the approval of an allocation method is notified in the Gazette under section 165N(1)(c)(i).
+(3) If the request is approved, section 165Q applies to applications from the date the approval applies.
+(4) Neither this section nor section 165Q affects any application received by the regional council before the request was made under section 165L(2) or any application referred to in section 165ZH.
+
+### 165N Minister may approve use of allocation method
+(1) If the Minister receives a request under section 165L(2), the Minister—
+  (a) must consult with relevant Ministers, including the Minister of Aquaculture (if the request relates to aquaculture activities); and
+  (b) may—
+    (i) consult any other person whom the Minister considers it appropriate to consult; and
+    (ii) request any further information from the regional council that made the request; and
+  (c) must, within 25 working days after the date of receipt of the request,—
+    (i) by notice in the Gazette, approve the request—
+      (A) on the terms specified by the regional council in the request; or
+      (B) on terms that in the Minister’s opinion will better manage the actual or anticipated high demand or competing demands in the space; or
+    (ii) decline the request.
+(2) A failure to comply with the time limit in subsection (1)(c) does not prevent the Minister from making a decision on the request.
+(3) Any period of consultation under subsection (1)(b)(i) is excluded from the period specified in subsection (1)(c).
+(4) The Minister must not approve the request unless he or she considers that—
+  (a) there is actual or anticipated high demand or competing demands for coastal permits for occupation of the space for the purpose of the activity or activities that the request applies to; and
+  (b) the method and terms of allocation specified in the request, or any modified terms determined by the Minister will—
+    (i) effectively manage the actual or anticipated high demand or competing demands identified under paragraph (a); and
+    (ii) be implemented within a time frame that is, in the Minister’s opinion, reasonable.
+(5) In considering whether to approve a request, the Minister must have regard to—
+  (a) Government policy in relation to the common marine and coastal area:
+  (b) the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Māori claimants or representative of any group of Māori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992:
+  (c) the need to facilitate compliance with section 165W:
+  (d) the ability of the Crown to give effect to its obligations under the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(6) As soon as practicable after deciding whether to approve a request, the Minister must notify the Environmental Protection Authority of his or her decision.
+(7) A Gazette notice under subsection (1)(c)(i)—
+  (a) must specify,—
+    (i) if the approval does not relate to a public tender, the other allocation method that is approved; and
+    (ii) the space and activities that the public tender or other allocation method will apply to; and
+    (iii) how and within what period the public tender or other allocation method must be implemented, including any staging of the allocation; and
+  (b) may also specify 1 or more of the following:
+    (i) whether the approval is for a single public tender, or a single use of the allocation method or is to be used on more than 1 occasion; and
+    (ii) an expiry date for the approval; and
+    (iii) a date by which authorisations allocated in accordance with the public tender or other allocation method will lapse, being a date that is not more than 2 years after the date on which an authorisation is granted; and
+    (iv) any restrictions on transferring authorisations allocated under the public tender or other allocation method; and
+    (v) that applications received in respect of authorisations allocated under the public tender or other allocation method (together with any other applications for coastal permits related to the activities to which the authorisation relates) must be processed and heard together; and
+    (vi) subject to sections 123 and 123A, the maximum term of a coastal permit to which the authorisations available for allocation relate; and
+    (vii) that authorisations relating to specific spaces within a common marine and coastal area must be allocated to the Crown at no cost; and
+    (viii) that authorisations relating to specific spaces, or a certain proportion of the authorisations that are representative of the entire space for which authorisations are to be offered in accordance with the public tender or other allocation method, must be allocated to the trustee at no cost.
+(8) If the Minister declines a request made under section 165L(2),—
+  (a) the Minister must notify the regional council of the decision to decline the request; and
+  (b) the regional council must as soon as practicable after receiving notice under paragraph (a) publicly notify that—
+    (i) the request was declined; and
+    (ii) applications may be made for coastal permits to occupy any space for any activity that was the subject of the request.
+(9) A provision in a regional coastal plan that relates to the allocation of space to which a Gazette notice under this section relates does not apply during the period of the approval to the extent that it is inconsistent with the terms of the Gazette notice.
+(10) An authorisation allocated in accordance with subsection (7)(b)(viii) is a settlement asset for the purposes of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+
+### 165O Period of approval
+(1) An approval to use a public tender or other method to allocate authorisations applies on and from the date on which the relevant Gazette notice is published until the earliest of the following dates:
+  (a) the date on which it is expressed in the relevant Gazette notice to expire or any date substituted under subsection (3); or
+  (b) the date it lapses under section 165P(2); or
+  (c) the date it is revoked by a further notice in the Gazette under subsection (2).
+(2) The Minister may, by notice in the Gazette, revoke an approval to use a public tender or other allocation method to allocate authorisations if the Minister—
+  (a) is requested to do so by the regional council; and
+  (b) considers that—
+    (i) there are no longer actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities; or
+    (ii) the regional council has in place other methods that will satisfactorily manage actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities.
+(3) The Minister may, by notice in the Gazette, substitute another date in the relevant Gazette notice for the date on which the relevant Gazette notice is to expire if—
+  (a) the Minister receives a request from the regional council to do so; and
+  (b) the Minister considers that—
+    (i) there remains actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities; and
+    (ii) the regional council does not have in place other methods that will satisfactorily manage the high demand or competing demands.
+
+### 165P Offer of authorisations where approved by Minister
+(1) If the Minister approves the use of a public tender or other method for allocating authorisations under section 165N(1)(c), the regional council must by public notice offer authorisations for coastal permits for the occupation of space in the common marine and coastal area in accordance with the terms of that approval.
+(2) A Gazette notice under section 165N(1)(c) lapses if the regional council does not carry out the public tender or implement the other approved allocation method within the period specified in the notice (or any extension of time specified by the Minister in a further notice under subsection (3)).
+(3) The Minister may by notice in the Gazette approve an extension of time for carrying out a public tender or implementing the other approved allocation method, but only if the Minister is satisfied that—
+  (a) the regional council has taken all reasonable steps to carry out the public tender or implement the other approved allocation method; and
+  (b) the regional council requires further time to carry out the public tender or implement the other approved allocation method.
+
+### 165Q When applications not to be made or granted unless applicant holds authorisation in accordance with Gazette notice
+(1) Subsection (2) applies to space in the common marine and coastal area if the Minister has approved public tendering or another method for allocating authorisations in relation to any activity in that space by a Gazette notice under section 165N(1)(c)(i).
+(2) During the period that the approval to use public tendering or another allocation method applies, no person may apply for a coastal permit authorising occupation of the space for an activity covered by the approval unless the person is the holder of an authorisation that relates to that space and activity.
+
+**Authorisations**
+
+### 165R Authorisation not to confer right to coastal permit
 (1) The granting of an authorisation does not confer any right to the grant of a coastal permit in respect of the space that the authorisation relates to.
-(2) However, if a coastal permit is granted to the holder of an authorisation, the permit must not be granted for a period greater than the period specified in the authorisation.
+(2) However, if a coastal permit is granted to the holder of an authorisation, the permit must be within the terms of the authorisation, including not being granted for a period greater than the period specified in the authorisation.
 
-### 165M Authorisation transferable
-An authorisation or any part of it may be transferred by its holder to any other person, but the transfer does not take effect until written notice of it has been received by the regional council concerned.
+### 165S Authorisation transferable
+(1) An authorisation or any part of it may be transferred by its holder to any other person, but the transfer does not take effect until written notice of it has been received by the regional council concerned.
+(2) This section applies subject to any restrictions on the transfer of authorisations specified in—
+  (a) the Gazette notice under section 165N under which the authorisations were allocated; and
+  (b) the relevant regional coastal plan under which the authorisations were allocated.
 
-### 165N Authorisation lapses in certain circumstances
-(1) An authorisation lapses at the close of 2 years after the day on which it is granted unless subsection (3) applies.
-(2) Subsection (3) applies if,—
-  (a) before the second anniversary of the date on which an authorisation is granted, its holder has applied for a coastal permit in respect of the activity that the authorisation relates to; and
-  (b) on the second anniversary date—
-    (i) no decision has been made by the consent authority on the application; or
-    (ii) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the court on the appeal.
+### 165T Authorisation lapses in certain circumstances
+(1) An authorisation lapses at the close of 2 years after the day on which it is granted (or any earlier day that may be specified in the authorisation) unless subsection (3) applies.
+(2) Subsection (3) applies,—
+  (a) for an authorisation for which no earlier date is specified, if,—
+    (i) before the second anniversary of the date on which an authorisation is granted, its holder has applied for a coastal permit to occupy space in respect of the activity that the authorisation relates to; and
+    (ii) on the second anniversary date,—
+      (A) no decision has been made by the consent authority whether to grant or decline the application; or
+      (B) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the court on the appeal; or
+  (b) for an authorisation specified to lapse on a date earlier than 2 years after the day on which it is granted, if,—
+    (i) before the date specified in the authorisation, its holder has applied for a coastal permit to occupy space in respect of the activity that the authorisation relates to; and
+    (ii) on the date specified in the authorisation,—
+      (A) no decision has been made by the consent authority whether to grant or decline the application; or
+      (B) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the court on the appeal.
 (3) The authorisation does not lapse until—
   (a) the time for lodging an appeal in respect of the decision has expired and no appeal has been lodged; or
   (b) an appeal has been lodged and the court has given its decision on the appeal.
 
-### 165O Power of Minister of Conservation to give directions relating to allocation of space
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, direct a regional council—
-  (a) not to proceed with a proposed allocation of space in a coastal marine area; or
-  (b) in proceeding with a proposed allocation of space in a coastal marine area, to give effect to the matters specified in the Order in Council.
-(2) The Minister may make a recommendation under subsection (1) only for either or both of the following purposes:
-  (a) to give effect to government policy in the coastal marine area:
-  (b) to preserve the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Maori claimants or representative of any group of Maori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992.
-(3) The matters referred to in subsection (1)(b) include—
-  (a) the allocation method to be used:
-  (b) the maximum term of a coastal permit available for allocation:
-  (c) the allocation of authorisations relating to specific spaces within a coastal marine area to the Crown.
-(4) If an Order in Council contains a direction under subsection (3)(a), the Order must be made before—
-  (a) the relevant proposed plan is notified under clause 5 or clause 26 of Schedule 1; or
-  (b) the Minister approves the relevant regional coastal plan under clause 19 of Schedule 1.
-(5) If an Order in Council contains a direction under subsection (3)(b) or (c), the Order must be made before the regional council publicly notifies the offer under section 165E(1) or section 165F.
-(6) A regional council must give the Minister of Conservation not less than 4 months' notice of an offer of authorisations under section 165E or section 165F.
-(7) The Minister must not make a recommendation except within 3 months after receiving notification from the regional council under subsection (6).
-(8) The Order in Council does not affect any allocation of authorisations advertised or a plan approved under clause 19 of Schedule 1 or an application for a coastal permit made before the Order in Council comes into force.
-
-**Allocation by offer of authorisations**
-
-### 165P Public notice of offer of authorisations
-(1) A notice given under section 165E(1) or section 165F must—
-  (a) specify the range of activities that the authorisation will apply to after it is issued; and
-  (b) describe the space in the coastal marine area that the authorisation will apply to after it is issued, including the size, shape, and location of the space; and
-  (c) specify the maximum term of the coastal permit; and
-  (d) note whether or not the space is subject to a reservation relating to commercial fishing and, if so, the details of the reservation; and
-  (e) if the space is subject to a reservation relating to commercial fishing, note that only a person who holds a registered aquaculture agreement as specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 may be granted the authorisation; and
-  (f) specify the closing date for offers; and
-  (g) specify the criteria that the regional council will apply in selecting the successful offer; and
-  (h) include details of any direction given under section 165O in relation to the offer; and
-  (i) specify the manner in which offers must be submitted; and
-  (j) specify any charge payable under section 36(1)(ca); and
-  (k) specify any other matter that the regional council considers appropriate in the circumstances.
-(2) If an offer of authorisations is to be by tender, the notice must also—
+### 165U Public notice of offer of authorisations by regional council
+(1) A notice given under section 165I or 165P(1) must—
+  (a) specify the activities that the authorisation will apply to after it is issued; and
+  (b) describe the space in the common marine and coastal area that offers for authorisations are invited for, including the size and location of the space; and
+  (c) subject to sections 123 and 123A, specify the maximum term of the coastal permit; and
+  (d) specify the closing date for offers; and
+  (e) specify the criteria that the regional council will apply in selecting successful offers for authorisations; and
+  (f) include details of any direction given under section 165K in relation to the offer of authorisations by the regional council; and
+  (g) specify the manner in which offers for authorisations must be submitted; and
+  (h) specify any charge payable under section 36(1)(ca); and
+  (i) specify any other matter that the regional council considers appropriate in the circumstances.
+(2) A notice may specify conditions on which the authorisation will be granted, including—
+  (a) a date earlier than 2 years from the date of its granting on which the authorisation will lapse; and
+  (b) restrictions on the transfer of authorisations.
+(3) If an offer of authorisations is to be by tender, the notice must also—
   (a) specify the form of remuneration required, whether all by advance payment, or by deposit and annual rental payments; and
   (b) specify whether or not there is a reserve price.
-(3) This section applies subject to an Order in Council made under section 165O.
+(4) This section applies subject to an Order in Council made under section 165K.
 
-### 165Q Requirements for offers
+### 165V Requirements for offers for authorisations
 (1) An offer for an authorisation must specify—
   (a) the activity or range of activities in respect of which the authorisation is sought; and
   (b) the site it applies to.
@@ -4612,9 +4820,9 @@ An authorisation or any part of it may be transferred by its holder to any other
   (a) a cash deposit (being payment in advance of part of the remuneration) or equivalent security to the satisfaction of the regional council; and
   (b) any additional information specified in the notice calling for tenders.
 (4) An offer or a tender must be accompanied by any charge payable under section 36(1)(ca).
-(5) If a tender is accepted under section 165S, the amount of any annual rental component of the remuneration payable under subsection (2) must be reduced by the amount of any coastal occupation charges payable under section 64A for the occupation of the area concerned.
+(5) If a tender is accepted under section 165X, the amount of any annual rental component of the remuneration payable under subsection (2) must be reduced by the amount of any coastal occupation charges payable under section 64A for the occupation of the area concerned.
 
-### 165R Preferential rights of iwi
+### 165W Preferential rights of iwi
 (1) In conducting a tender of authorisations under this Part, a regional council must give effect to any preferential right to purchase a proportion of the authorisations.
 (2) Subsection (1) applies to preferential rights conferred by—
   (a) section 316 of the Ngāi Tahu Claims Settlement Act 1998:
@@ -4623,138 +4831,392 @@ An authorisation or any part of it may be transferred by its holder to any other
   (d) section 106 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005:
   (e) section 118 of the Ngāti Awa Claims Settlement Act 2005:
   (f) section 92 of the Ngāti Mutunga Claims Settlement Act 2006.
-(3) For the purposes of subsection (1), provisions in the Acts referred to in subsection (2) relating to a preferential right that contain references to the Minister of Conservation apply as if the references were to the regional council.
-(4) This section applies subject to section 165J.
+(3) For the purposes of subsection (1), provisions in the Acts referred to in subsection (2) relating to a preferential right that contain references to the Minister of Conservation or Part 7 of this Act apply as if the references were to the regional council and relevant provisions of this Part.
 
-### 165S Acceptance of offer
-(1) After considering the offers in accordance with the criteria specified under section 165P, the regional council may—
+### 165X Acceptance of offer for authorisations
+(1) After considering the offers for authorisations in accordance with the criteria specified under section 165U, the regional council may—
   (a) accept any offer; or
   (b) reject all offers; or
   (c) reject all offers and call for new offers; or
   (d) negotiate with any person who made an offer with a view to reaching an agreement.
-(2) If the offer is a tender, the regional council may accept any tender or negotiate with any tenderer, whether or not the tender was the highest received.
-(3) As soon as practicable after deciding to accept an offer or to reject all offers or after reaching an agreement, the regional council must give written notice of the decision and the reasons for it to every person who made an offer.
+(2) If the offer of authorisations is a tender, the regional council may accept any tender or negotiate with any tenderer, whether or not the tender was the highest received.
+(3) As soon as practicable after deciding to accept an offer for an authorisation or to reject all offers or after reaching an agreement, the regional council must give written notice of the decision and the reasons for it to every person who made an offer.
 (4) If an offer is accepted or an agreement is reached, the notice under subsection (3) must include details of the name of the person who made the offer and the nature of the activity that the offer or agreement relates to.
 
-### 165T Grant of authorisation
-If the regional council accepts an offer or reaches an agreement with a person who made an offer under section 165S, the regional council must grant an authorisation to the person concerned.
+### 165Y Grant of authorisation
+If the regional council accepts an offer or reaches an agreement with a person who made an offer under section 165X, the regional council must grant an authorisation to the person concerned.
 
-### 165U Tender money
+### 165Z Tender money
 (1) If the holder of an authorisation obtains a coastal permit authorising the holder to undertake an activity in respect of which the authorisation was granted, the regional council must forward to the Minister 50% of the remuneration received under the tender.
 (2) The Minister must cause the money to be paid into a Crown Bank Account in accordance with the Public Finance Act 1989.
-(3) If an authorisation granted to a successful tenderer has lapsed under section 165N, the regional council must, as soon as possible, refund the remuneration to the tenderer.
-(4) If a tenderer who has failed to obtain an authorisation forwarded a payment to the regional council under section 165Q(3), the regional council must, as soon as possible, refund the payment to the tenderer.
-(5) This section applies subject to section 26 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(3) If an authorisation granted to a successful tenderer has lapsed under section 165T, the regional council must, as soon as possible, refund the remuneration to the tenderer.
+(4) If a tenderer who has failed to obtain an authorisation forwarded a payment to the regional council under section 165V(3), the regional council must, as soon as possible, refund the payment to the tenderer.
 
-### 165V Use of tender money
+### 165ZA Use of tender money
 The regional council must apply its share of the remuneration to achieving the purpose of this Act in the coastal marine area in its region.
 
+**Ministerial powers in relation to applications for coastal permits to undertake aquaculture activities in common marine and coastal area**
+
+### 165ZB Regional council may request suspension of applications to occupy common marine and coastal area for purposes of aquaculture activities
+(1) This section applies if—
+  (a) a regional council has identified actual or anticipated high demand or competing demands for coastal permits for occupation of space in a common marine and coastal area for the purpose of aquaculture activities; and
+  (b) in the regional council's opinion—
+    (i) the provisions of a regional coastal plan will not enable it to manage effectively the identified demands; and
+    (ii) it is desirable that applications for coastal permits for occupation of space in a common marine and coastal area for the purpose of aquaculture activities be suspended to enable the regional council to amend its regional coastal plan or to use other measures available under this subpart to deal with the identified demands.
+(2) The regional council may request the Minister of Aquaculture to suspend the receipt of applications for coastal permits to occupy the space for the purpose of aquaculture activities.
+(3) A request under subsection (2) must—
+  (a) specify—
+    (i) the space in the common marine and coastal area it is proposed the suspension will apply to; and
+    (ii) the aquaculture activities that it is proposed the suspension will apply to; and
+    (iii) the planning or other measure that the council proposes to implement to deal with the identified demand; and
+    (iv) the proposed duration of the suspension, which must be not more than 12 months; and
+  (b) be accompanied by information about the actual or anticipated high demand or competing demands for coastal permits for occupation of the space for the purposes of the aquaculture activities covered by the request.
+(4) A regional council must—
+  (a) give public notice of a request under subsection (2) on the day the request is made or as soon as practicable after the request is made; and
+  (b) give notice of the request to the Environmental Protection Authority.
+(5) A public notice under subsection (4) must include—
+  (a) the matters specified in subsection (3)(a); and
+  (b) a statement to the effect of section 165ZC(2) and (3).
+(6) To avoid doubt, this section may apply in relation to an aquaculture activity, 1 or more classes of aquaculture activities, or all aquaculture activities.
+
+### 165ZC Effect on applications of request under section 165ZB
+(1) Subsection (2) applies if a regional council has made a request under section 165ZB(2).
+(2) A person must not apply for a coastal permit to occupy any space that is the subject of the request for the purpose of an aquaculture activity in the request during the period commencing on the day on which public notice of the request is given under section 165ZB(4)(a), and ending on,—
+  (a) if the request is declined, the day on which the regional council publicly notifies under section 165ZD(6) that the request has been declined; or
+  (b) if the request is granted, the date on which the Gazette notice issued by the Minister of Aquaculture under section 165ZD in response to the request expires.
+(3) Neither this section nor section 165ZD affects—
+  (a) any application received by the regional council before the request was made under section 165ZB(2):
+  (b) any application to which section 165ZH applies:
+  (c) any application made in accordance with an authorisation.
+
+### 165ZD Minister of Aquaculture may suspend applications to occupy the common marine and coastal area for the purposes of aquaculture activities
+(1) If the Minister of Aquaculture receives a request under section 165ZB(2), the Minister—
+  (a) must consult the Minister of Conservation; and
+  (b) may—
+    (i) consult any other person whom the Minister considers it appropriate to consult; and
+    (ii) request any further information from the regional council that made the request; and
+  (c) must, within 25 working days after receiving the request,—
+    (i) approve the request by notice in the Gazette—
+      (A) on the terms specified by the regional council in the request; or
+      (B) on terms that in the Minister’s opinion will better manage the actual or anticipated high demand or competing demands in the space; or
+    (ii) decline the request.
+(2) A failure to comply with the time limit in subsection (1)(c) does not prevent the Minister from making a decision on the request.
+(3) Any period of consultation under subsection (1)(b)(i) is excluded from the period specified in subsection (1)(c).
+(4) The Minister must not approve the request unless he or she considers that—
+  (a) there is actual or likely high demand or competing demands for coastal permits for occupation of the space for the purpose of the aquaculture activities that the request applies to; and
+  (b) the planning or other measure that the council proposes to implement, or any modified terms determined by the Minister will—
+    (i) effectively manage the high demand or competing demands identified under paragraph (a); and
+    (ii) be implemented within a time frame that is, in the Minister’s opinion, reasonable.
+(5) A Gazette notice under subsection (1)(c)(i) must specify—
+  (a) the space and aquaculture activities that the suspension on applications will apply to; and
+  (b) the date the notice expires, which must not be more than 12 months after the date of the Gazette notice.
+(6) If the Minister declines a request made under section 165ZB(2),—
+  (a) the Minister must notify the regional council of the decision to decline the request; and
+  (b) the regional council must, as soon as practicable after receiving notice under paragraph (a), publicly notify that—
+    (i) the request was declined; and
+    (ii) applications may be made for coastal permits to occupy any space for any aquaculture activity that was the subject of the request.
+(7) The Minister must notify the Minister of Conservation and the Environmental Protection Authority of a decision to issue a Gazette notice, or to decline a request for a suspension on receipt of applications.
+
+### 165ZE Subsequent requests for direction in relation to suspension of receipt of applications
+(1) The Minister of Aquaculture may issue a further Gazette notice under section 165ZD before the expiry of a notice issued under that section if—
+  (a) a request for a further suspension on the receipt of applications is made by a regional council under section 165ZB; and
+  (b) the Minister considers that—
+    (i) there remains actual or likely high demand or competing demands for coastal permits to occupy the space for the relevant activity or activities; and
+    (ii) the regional council does not have in place planning or other measures that will satisfactorily manage the high demand or competing demands; and
+    (iii) the Minister is satisfied that more time is needed to put in place plan provisions to deal with the demand.
+(2) Sections 165ZB to 165ZD apply with any necessary modifications to a request for a further suspension of receipt of applications.
+
+**Ministerial power to direct applications for coastal permits to undertake aquaculture activities in common marine and coastal area to be processed and heard together**
+
+### 165ZF Regional council may request direction to process and hear together applications for permits to occupy common marine and coastal area for purpose of aquaculture activities
+(1) This section applies if, in a regional council’s opinion,—
+  (a) processing and hearing together applications for coastal permits to occupy space in a common marine and coastal area for the purpose of aquaculture activities would be more efficient and would enable better assessment and management of cumulative effects of the permits; and
+  (b) a regional coastal plan or proposed regional council plan does not provide adequately for efficient processing and assessment and management of the cumulative effects of permits to occupy the common marine and coastal area for the purpose of the aquaculture activities.
+(2) The regional council may request the Minister of Aquaculture to direct the regional council to process and hear together applications for coastal permits to occupy the space for the purpose of aquaculture activities.
+(3) A request under subsection (2) must—
+  (a) specify—
+    (i) the space in the common marine and coastal area it is proposed the direction will apply to; and
+    (ii) the aquaculture activities that it is proposed the direction will apply to; and
+    (iii) the applications or classes of applications it is proposed that the direction will apply to; and
+  (b) be accompanied by information about why it would be more efficient and would enable better assessment and management of the cumulative effects of coastal permits to occupy the common marine and coastal area for the purposes of aquaculture activities if the direction were made.
+
+### 165ZFA Ministerial power to direct applications to be processed and heard together
+(1) If the Minister receives a request under section 165ZF(2), the Minister—
+  (a) must consult the Minister of Conservation: and
+  (b) may—
+    (i) consult any other person whom the Minister considers it appropriate to consult; and
+    (ii) request any further information from the regional council that made the request; and
+  (c) must, within 25 working days after receiving the request,—
+    (i) by notice in the Gazette, direct the regional council to process and hear together applications for coastal permits to occupy the common marine and coastal area for the purposes of aquaculture activities (together with any other applications for coastal permits related to the aquaculture activities)—
+      (A) on the terms specified by the regional council in the request; or
+      (B) on terms that in the Minister’s opinion will facilitate efficient processing and better assessment and management of the cumulative effects of the applications that are the subject of the notice; or
+    (ii) decline the request.
+(2) A failure to comply with the time limit in subsection (1)(c) does not prevent the Minister from giving a direction or declining a request.
+(3) Any period of consultation under subsection (1)(b)(i) is excluded from the period specified in subsection (1)(c).
+(4) The Minister must not give a direction under subsection (1)(c)(i) unless he or she considers that the direction will facilitate efficient processing and better assessment and management of the cumulative effects of the applications that are the subject of the direction.
+(5) The Gazette notice by which a direction is given under subsection (1)(c)(i) must specify—
+  (a) the space in the common marine and coastal area that the direction applies to; and
+  (b) the aquaculture activities that the direction applies to; and
+  (c) the applications or classes of applications the direction applies to, which,—
+    (i) subject to subparagraph (ii), may (without limitation) include—
+      (A) applications made on or after the date of the Gazette notice; or
+      (B) applications made but not determined before the date of the Gazette notice; or
+      (C) applications defined by reference to their contents (for example, by the size of the space they relate to); but
+    (ii) may not include applications—
+      (A) in respect of which the regional council has determined, before the date of the Gazette notice, to hold a hearing and the hearing has commenced or been completed; or
+      (B) in respect of which the regional council has determined, before the date of the Gazette notice, that no hearing is required; or
+      (C) to which section 165ZH applies; or
+      (D) made more than 12 months after the date of the Gazette notice; or
+      (E) in respect of which a notice of motion has been lodged with the Environment Court under section 87G before the date of the Gazette notice; or
+      (F) called in by the Minister of Conservation under section 142 before the date of the Gazette notice; or
+      (G) for which a call-in request has been made by the regional council or the applicant under section 142(1)(b) before the date of the Gazette notice, unless the request is declined; or
+      (H) lodged with the Environmental Protection Authority before the date of the Gazette notice, unless the application is referred to the local authority under section 147(1)(c).
+(6) The Gazette notice by which a direction is given under subsection (1)(c)(i) may also specify that an application made after the notice, and that the notice does not relate to but would otherwise come within the scope of the notice, is not to be processed and heard until decisions have been made and notified on all of the applications to which the Gazette notice relates.
+(7) The regional council must comply with a provision specified in the Gazette notice under subsection (6).
+(8) The Minister must notify the decision to give a direction or to decline a request for a direction to the regional council, Minister of Conservation, and the Environmental Protection Authority.
+(9) On and from the date of a Gazette notice under this section, the regional council concerned must process and hear together applications to which the direction in the Gazette notice applies.
+
+**Processing and hearing together of applications for coastal permits**
+
+### 165ZFB Application of sections 165ZFC to 165ZFH
+Sections 165ZFC to 165ZFH apply if a regional council is required to process and hear together any applications or class of applications for coastal permits to occupy space in the common marine and coastal area under—
+  (a) a rule included in a regional coastal plan or a proposed regional coastal plan under section 165F; or
+  (b) a Gazette notice under section 165N; or
+  (c) a Gazette notice under section 165ZFA.
+
+### 165ZFC Interpretation
+In this section and sections 165ZFD to 165ZFH,—
+  - **affected application** , in relation to a PHT requirement,—
+    (a) means an application for a coastal permit to occupy space in the common marine and coastal area for the purpose of 1 or more activities that is required to be processed and heard together with another application or applications under the PHT requirement; and
+    (b) includes any other applications for coastal permits that are related to the application referred to in paragraph (a) and that are subject to the PHT requirement
+  - **comes into force** means, in relation to a rule in a proposed regional coastal plan, that the rule has legal effect
+  - **PHT requirement** means a requirement that an application be processed and heard together with another application or applications as provided in a rule or Gazette notice referred to in section 165ZFB.
+
+### 165ZFD Effect of requirement that applications be processed and heard together on direct referral to Environment Court under sections 87D to 87I
+(1) On and from the date on which a PHT requirement comes into force, no person may request that an affected application be determined by the Environment Court under section 87D.
+(2) Despite sections 87E to 87G, if at the date the PHT requirement comes into force,—
+  (a) the regional council is considering a request by an applicant under section 87D in respect of an affected application, the council must not make a decision on the request, but must return the request to the applicant with a notice stating that the application is one to which a PHT requirement relates and section 165ZFE applies:
+  (b) the regional council has granted a request by an applicant under section 87D in respect of an affected application, but the applicant had not yet lodged a notice of motion under section 87G(2)(a) in respect of the application,—
+    (i) the regional council must continue to process the application in accordance with sections 165ZFE and 165ZFF and is not required to comply with section 87F(3) to (5); and
+    (ii) the applicant may not lodge a notice of motion under section 87G(2)(a).
+
+### 165ZFE Processing of affected applications
+(1) Sections 88 to 98 apply in respect of each affected application that is subject to a PHT requirement.
+(2) The regional council must, as soon as practicable after the latest date on which the period for submissions closes on an affected application to which the PHT requirement relates, advise each of the applicants—
+  (a) of the names and contact details of the other affected applicants; and
+  (b) that if the applicant wants the affected applications to be determined by the Environment Court, the applicant has 10 working days from the date of the notice to make such a request.
+(3) The applicant must make the request under subsection (2) electronically or in writing on the form prescribed for a request under section 87D.
+(4) If the regional council receives requests under subsection (2) from all the applicants in respect of affected applications within the required period, the regional council must decide whether to grant or decline the applicants’ requests that all the affected applications be determined by the Environment Court.
+(5) If subsection (4) applies and the regional council declines the requests, or if the regional council does not receive requests under subsection (2) from all applicants in respect of affected applications within the required period, the regional council must continue to process and hear together the affected applications in accordance with this section and section 165ZFF.
+(6) If subsection (4) applies and the regional council grants the requests, the regional council must prepare a report on each of the affected applications within the period that ends 20 working days after the date on which the regional council decided to grant the requests.
+(7) Section 87F(4) and (5) apply to a report prepared under subsection (6) on an affected application.
+(8) Each applicant in respect of an affected application must advise the regional council within 5 working days after receipt of a report prepared under subsection (6), whether the applicant continues to want the affected application to be determined by the Environment Court instead of by the regional council.
+(9) If the regional council—
+  (a) receives advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must give notice to each applicant that—
+    (i) the applicant’s affected application is to be determined by the Environment Court; and
+    (ii) the applicant must lodge a notice of motion with the Environment Court that complies with section 87G(2)(a) within 10 working days after the date of the regional council’s notice or the applicant’s affected application may be cancelled in accordance with subsection (11); or
+  (b) does not receive advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must—
+    (i) give notice to each applicant that the applicant’s affected application is to be determined by the regional council; and
+    (ii) continue to process and hear together the affected applications in accordance with this section and section 165ZFF.
+(10) Section 87G(2)(b) and (c), (3), and (4) apply in relation to the notice of motion referred to in subsection (9)(a)(ii) with any necessary modifications.
+(11) If an applicant does not lodge a notice of motion with the Environment Court within 10 working days after the date of the notice under subsection (9)(a), the regional council must—
+  (a) give notice to the relevant applicant that unless the applicant lodges the notice of motion within 5 working days of the date of the notice, the applicant’s affected application will be cancelled; and
+  (b) if, within the period notified, or such greater period as the regional council may think reasonable in the circumstances, the applicant does not lodge the notice of motion the regional council must cancel the applicant’s affected application.
+(12) Sections 87G(5) to (7) and 87H apply in respect of the affected applications.
+(13) Sections 99 and 100 apply in respect of any affected application that the regional council is required to process and hear together with other affected applications.
+
+### 165ZFF Hearing of affected applications
+The provisions of this Act that relate to the hearing and making of decisions on a coastal permit apply to the affected applications with the following modifications:
+  (a) if a hearing is to be held in respect of any affected application,—
+    (i) a hearing must be held in respect of all affected applications; and
+    (ii) all affected applications must be heard together; and
+  (b) if an applicant or person who made a submission on an affected application makes a request under section 100A(2), the regional council is not required to comply with section 100A(4) but must instead consider whether to delegate under section 34A(1) its functions, powers, and duties required to hear and decide all the affected applications, to 1 or more hearings commissioners who are not members of the local authority; and
+  (c) for the purposes of section 101(2), the date for the commencement of the hearing must be—
+    (i) within 25 working days after the latest closing date for submissions on an affected application to which the PHT requirement relates, if no request is received under section 165ZFE(2); or
+    (ii) within 25 working days after the date on which the council becomes subject to a requirement to continue to process and hear together affected applications under section 165ZFE(5) or (9); and
+  (d) despite section 115,—
+    (i) decisions on the affected applications are, subject to section 88(4), to be made in the order in which the applications were lodged; and
+    (ii) notice of the decision on each affected application must be given within 30 working days after the end of the hearing or, if no hearing is held, within the period within which a hearing would have been required to be held under paragraph (c)(i) or (ii); and
+  (e) paragraph (d)(i) is subject to sections 124B and 124C.
+
+### 165ZFG Effect of requirement that applications be processed and heard together on power of Minister to call in applications under section 142
+(1) Despite sections 142 and 144,—
+  (a) the Minister must not make a decision as to whether to call in an affected application until all affected applications to which the relevant PHT requirement relates have been identified; and
+  (b) if the Minister decides to call in an affected application by making a direction under section 142(2), the Minister must, whether or not the Minister considers any other affected application is a proposal or part of a proposal of national significance, call in all the other affected applications under the same direction; and
+  (c) in deciding whether to make the direction referred to in paragraph (b), the Minister—
+    (i) may, in addition to the matters specified in section 142(3), consider the impact that the call-in direction would have on the other affected applications, including the impact on the costs the applicants might face; and
+    (ii) must have regard to the capacity of the local authority to process the affected applications and the views of—
+      (A) the applicants for all the affected applications; and
+      (B) the regional council; and
+      (C) if the PHT requirement was made by Gazette notice under section 165ZFA, the Minister of Aquaculture.
+(2) Section 165ZFF(a), (d), and (e) apply if the affected applications are heard by the Environment Court or a board of inquiry and, for that purpose, the provisions of Part 6AA apply in respect of the hearing and determination of the affected applications with any necessary modifications.
+
+### 165ZFH Effect of requirement that applications be processed and heard together on lodgement of applications with EPA
+On and from the date on which the relevant PHT requirement comes into force, no affected application may be lodged with the Environmental Protection Authority under section 145.
+
 ### Subpart 2 — Privately initiated plan changes
-
-### 165W Excluded areas
-(1) A regional council may, by public notice, identify areas in the coastal marine area in its region as excluded areas.
-(2) Before identifying an excluded area, the regional council must comply with the consultative requirements in clauses 3 to 3B of Schedule 1, and those clauses apply, with all necessary modifications, as if a proposal to identify an excluded area were a proposed plan.
-(3) To avoid doubt, any consultation under subsection (2) does not constitute a request for an aquaculture decision under section 186D of the Fisheries Act 1996.
-
-### 165X Aquaculture management areas may not be established in excluded areas as result of requests for changes
-A regional council must not seek nor accept, under this subpart, a request for a change to a regional coastal plan or proposed regional coastal plan from a person wishing to undertake aquaculture activities in any part of the coastal marine area that is an excluded area.
-
-### 165Y Request for change may be made only in response to regional council seeking requests
-A person may not make a request for change under this subpart except in response to a regional council seeking requests under section 165Z.
-
-### 165Z Invitation to request change to regional coastal plan or proposed regional coastal plan
-(1) A regional council may, by public notice, invite any person to request a change to a regional coastal plan or a proposed regional coastal plan to establish an aquaculture management area.
-(1A) A regional council may give an invitation under subsection (1) only if all the following apply:
-  (a) the council has complied under section 165W with the consultation requirements of clauses 3 to 3B of Schedule 1; and
-  (b) the council has decided whether or not 1 or more excluded areas should be identified in the part of the coastal marine area covered by the invitation; and
-  (c) if the council has decided that 1 or more excluded areas should be identified, it has identified the areas.
-(2) Part 2 of Schedule 1 and Schedule 1A apply to a request made in response to an invitation under subsection (1) except to the extent modified by sections 165ZA to 165ZF.
-(3) If the request relates to a proposed regional coastal plan, then Part 2 of Schedule 1 and Schedule 1A apply as if references to a plan were references to a proposed plan.
-(4) For the purpose of carrying out its functions under subsection (1) and clause 25(1) of Schedule 1, the regional council must establish a process that is fair and reasonable in the circumstances.
-
-### 165ZA Adoption of request or part of request for change, and combining requests
-(1) When considering a request under clause 25 of Schedule 1, the regional council may adopt a request or part of a request under clause 25(2)(a) of Schedule 1 and combine it with any other request or part of a request for a change to a plan or proposed plan to establish an aquaculture management area if, in the council's opinion, combining requests is likely to assist the council—
-  (a) in allocating space of an economic size to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
-  (b) to address more effectively the cumulative effects of aquaculture activities in the areas the requests relate to; or
-  (c) in planning more effectively for aquaculture activities.
-(2) A regional council may amend a request adopted under subsection (1) by increasing the amount of available space provided for in the part of the region the request relates to.
-(3) If the regional council adopts a request and combines it with any other request or amends the request under subsection (2),—
-  (a) the council must specify that part of the available space in the aquaculture management area out of which a person who requested a change is to receive an authorisation under section 165ZF, being 80% of the available space requested by the person; and
-  (b) the council may fix a charge under section 36(1)(a) payable by each person who requested a change recognising the proportion of the available space to which the person's request relates.
-
-### 165ZB Acceptance of request or part of request for change
-(1) If the regional council accepts the request under clause 25(2)(b) of Schedule 1, the council must specify that the person or persons who requested the change are to receive an authorisation under section 165ZF for 80% of the available space in the aquaculture management area.
-(2) Schedule 1A applies to a request adopted and combined with another request under section 165ZA and clause 25(2)(a) of Schedule 1 or accepted under clause 25(2)(b) as if the reference to the regional council in clause 2 of Schedule 1A were a reference to the person who requested the change.
-(3) Sections 186D and 186E of the Fisheries Act 1996 apply to a request adopted and combined with another request under section 165ZA and clause 25(2)(a) of Schedule 1 or accepted under clause 25(2)(b) of Schedule 1 as if the reference to the regional council were a reference to the person who requested the change.
-
-### 165ZC Regional council to notify chief executive of acceptance or adoption of request
-As soon as practicable after accepting or adopting a request under clause 25 of Schedule 1, the regional council must notify the chief executive of—
-  (a) the name of the person who requested the change; and
-  (b) a description of the space that the request relates to.
-
-### 165ZD Notification of change
-When a change is notified under clause 5 or clause 26 of Schedule 1, the regional council must also include in the notice—
-  (a) the name of the person who requested the change; and
-  (b) a description of the space in the aquaculture management area out of which the person who requested the change is to receive an authorisation under section 165ZF, being 80% of the available space requested by the person.
-
-### 165ZE Rejection of request for change
-The regional council may reject a request for a change if—
-  (a) clause 25(4)(a), (b), (c), or (d) of Schedule 1 applies; or
-  (b) the regional council is preparing a change to establish an aquaculture management area in the same area of its region; or
-  (c) more than 1 person has requested a change to establish an aquaculture management area in the same area of the region and the council has adopted another request.
-
-### 165ZF Allocation of authorisations from privately initiated changes
-(1) This section applies if an aquaculture management area has been included in a regional coastal plan or proposed regional coastal plan as a result of a request for a change made in response to an invitation under section 165Z(1).
-(2) The regional council must comply with section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004 before allocating any other authorisations in the aquaculture management area.
-(3) As soon as practicable after complying with subsection (2), the regional council must—
-  (a) allocate authorisations for the remaining space to the person who requested the change in response to an invitation under section 165Z(1); and
-  (b) publicly notify the allocation.
-(4) To avoid doubt, section 165J(1), (3), and (5) to (9) and sections 165K to 165O apply to available space in an aquaculture management area established as a result of a request made in response to an invitation under section 165Z(1).
 
 ### Subpart 3 — Order in which applications by existing consent holders are to be processed
 
 ### 165ZG Application
 (1) This subpart applies—
-  (a) only to applications and coastal permits for aquaculture activities, that relate to an aquaculture management area; and
+  (a) only to applications for coastal permits to occupy space in the common marine and coastal area for aquaculture activities; and
   (b) in relation to such applications made on or after 23 August 2004.
-(2) However, this subpart does not apply to an application if the relevant plan provides for a method of allocating space used for aquaculture activities at the time of an application for resource consent for aquaculture activities.
+(2) However, this subpart does not apply to an application for a coastal permit to occupy space in the common marine and coastal area for an aquaculture activity if, at the time the application is made, a regional coastal plan provides for a method of allocating authorisations in respect of the space and activity.
 
 ### 165ZH Processing applications for existing permit holders
 (1) This section applies if—
   (a) a person holds—
-    (i) a deemed coastal permit under section 10 or 20 or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-    (ii) a coastal permit to occupy space for the purpose of aquaculture activities, granted after the commencement of this Part; and
-  (b) the permit referred to in paragraph (a)(i) or paragraph (a)(ii)—
-    (i) is in force at the time of any application under subsection (2); and
-    (ii) applies in relation to an area located in an aquaculture management area.
-(2) If the holder of a permit (existing permit holder) makes an application for a coastal permit and complies with section 124, then—
-  (a) the application must be processed and determined before any other application for a coastal permit for the space that the permit applies to; and
-  (b) no other application may be accepted for the space that the application relates to before the determination of the application.
+    (i) a deemed coastal permit under section 10, 20, 20A, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+    (ii) a coastal permit to occupy space in the common marine and coastal area for aquaculture activities, granted after the commencement of this Part; and
+  (b) the permit referred to in paragraph (a)(i) or (ii) (existing coastal permit)—
+    (i) is in force at the time of any application under paragraph (c); and
+    (ii) applies in relation to space in the common marine and coastal area in which aquaculture is not a prohibited activity; and
+  (c) the holder of the existing coastal permit (existing permit holder) makes an application for a new coastal permit that is—
+    (i) for occupation of some or all of the same space; and
+    (ii) for the same or another aquaculture activity; and
+    (iii) accompanied by any other applications for coastal permits related to the carrying out of the aquaculture activity; and
+  (d) the application and any related applications are—
+    (i) made to the appropriate consent authority; and
+    (ii) made—
+      (A) at least 6 months before the expiry of the existing coastal permit; or
+      (B) in the period that begins 6 months before the expiry of the existing coastal permit and ends 3 months before the expiry of the existing coastal permit, and the authority, in its discretion, allows the holder to continue to operate.
+(2) If this section applies, then—
+  (a) the applications, must be processed and determined before any other application for a coastal permit to occupy the space that the permit applies to; and
+  (b) no other application to occupy the space that the application relates to may be accepted before the determination of the application; and
+  (c) the holder may continue to operate under the existing coastal permit until—
+    (i) a new coastal permit is granted and all appeals are determined; or
+    (ii) a new coastal permit is declined and all appeals are determined.
 
 ### 165ZI Applications for space already used for aquaculture activities
-(1) This section applies to an application for a coastal permit to carry out aquaculture activities if—
+(1) This section applies to an application for a coastal permit to occupy space in the common marine and coastal area for aquaculture activities if—
   (a) the application relates to space that is subject to a permit referred to in section 165ZH; and
   (b) the application is made by a person who is not the existing permit holder.
 (2) The application must be held by the consent authority without processing until 3 months before the expiry of the permit.
-(3) While the application is being held under subsection (2), the consent authority must not accept any other applications by persons other than the existing permit holder for that space until after the application being held under subsection (2) is determined or has lapsed.
+(3) While the application is being held under subsection (2), the consent authority must not accept any other applications by persons other than the existing permit holder to occupy that space until after the application being held under subsection (2) is determined or has lapsed.
 (4) After receiving an application referred to in subsection (1), the council must notify the existing permit holder—
   (a) of the application; and
-  (b) that the holder can make an application in accordance with section 124.
-(5) If an application to which section 165ZH(2) applies is made in accordance with section 124, then the application referred to in subsection (1) remains on hold until that application is determined.
+  (b) that the holder can make an application in accordance with section 165ZH(1)(c).
+(5) If an application to which section 165ZH(1)(c) applies is made, then the application referred to in subsection (1) remains on hold until that application is determined.
 (6) If the application to which section 165ZH(2) applies is granted, then the application referred to in subsection (1) lapses.
 (7) If no application to which section 165ZH(2) applies is made prior to the date 3 months before expiry of the relevant permit, then the application being held under subsection (2) must be processed and determined in accordance with this Act.
-(8) However, the application may be processed and determined before the expiry of the 3-month period referred to in subsection (7) if the existing permit holder notifies the consent authority in writing that the holder does not propose to make an application under section 124.
+(8) However, the application may be processed and determined before the expiry of the 3-month period referred to in subsection (7) if the existing permit holder notifies the consent authority in writing that the holder does not propose to make an application under section 165ZH(1)(c).
 
 ### 165ZJ Additional criteria for considering applications for permits for space already used for aquaculture activities
-(1) When considering an application to which section 165ZH(2) or section 165ZI(7) or (8) applies, a consent authority must not only consider the relevant matters under this Act, but also consider the applicant's conduct in relation to—
+(1AA) When considering an application under section 165ZH that relates to the same aquaculture activity, a consent authority must consider all relevant information available in relation to the existing coastal permit, including any available monitoring data.
+(1) When considering an application to which section 165ZH or section 165ZI(7) or (8) applies, a consent authority must not only consider the relevant matters under this Act, but also consider the applicant's conduct in relation to—
   (a) compliance with the relevant regional coastal plan; and
   (b) compliance with resource consent conditions for current or previous aquaculture activities undertaken by the applicant; and
-  (c) the use of current industry good practice for any current aquaculture activities.
+  (c)
 (2) In making an assessment under subsection (1)(a) and (b), the council must, in relation to any successful enforcement action under Part 12, consider—
   (a) the number of any breaches that have occurred; and
   (b) the seriousness of the breach; and
   (c) how recently the breach occurred; and
   (d) the subsequent behaviour of the applicant after enforcement action.
+
+### Subpart 4 — Plan change requests and concurrent applications for coastal permits in relation to aquaculture activities
+
+### 165ZK Application
+This subpart applies only in relation to a rule in a regional coastal plan that,—
+  (a) at the commencement of section 55 of the Resource Management Amendment Act (No 2) 2011, provided that an aquaculture activity is a prohibited activity, whether in all or part, of the common marine and coastal area that the plan applies to; and
+  (b) is still operative when a plan change request is made.
+
+### 165ZL Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **concurrent application** means an application made under section 165ZN that is made in conjunction with a plan change request
+  - **plan change request** means a plan change request—
+    (a) made under clause 21 of Schedule 1, in relation to a rule referred to in section 165ZK,—
+      (i) to provide for aquaculture activities; and
+      (ii) to make any related changes; and
+    (b) made in conjunction with, or in contemplation of, a concurrent application.
+
+### 165ZM Other provisions of Act apply subject to this subpart
+(1) The provisions of this Act relating to consent applications and plan change requests apply to concurrent applications and plan change requests under this subpart subject to the provisions of this subpart.
+(2) Subsections (3) to (4) do not limit subsection (1).
+(3) Section 36AA and any regulations made under section 360(1)(hj) do not apply in relation to a concurrent application.
+(4) The following provisions of Part 6 do not apply to a concurrent application: sections 88A to 88E, 95 to 95G, 96(7), 97, 99 to 103A, 115, and 121(1)(c).
+
+### 165ZN Application for coastal permit to undertake aquaculture activities
+(1) An application for a coastal permit to undertake an aquaculture activity in the common marine and coastal area that otherwise could not be made because of section 87A(6) may be made if—
+  (a) the person making the application also makes a plan change request under clause 21 of Schedule 1; and
+  (b) the application for the coastal permit is made—
+    (i) at the same time as the plan change request is made; or
+    (ii) if the plan change request is lodged with a regional council, within 20 working days after receiving the regional council's notification of its decision under clause 25(5) of Schedule 1; and
+  (c) the plan change request is to change—
+    (i) the regional coastal plan to make the aquaculture activity in the common marine and coastal area a controlled activity, a restricted discretionary activity, a discretionary activity, or a non-complying activity; and
+    (ii) related matters (if any) in the regional coastal plan; and
+  (d) the application for the coastal permit would be consistent with the plan change if the plan change request were accepted and made.
+(2) For the purposes of subsection (1)(d), section 165ZW(1) is to be disregarded.
+
+### 165ZO Identifying plan change requests and concurrent applications
+(1) A concurrent application must identify the plan change request it relates to.
+(2) A plan change request must—
+  (a) identify the concurrent application it relates to, if the plan change request and concurrent application are made at the same time; or
+  (b) specify that it is intended to lodge a concurrent application subsequently, if the plan change request is accepted.
+
+### 165ZP Incomplete concurrent application
+(1) This section applies if a concurrent application is returned, under section 88(3), as incomplete.
+(2) The regional council is not required to take any further action on the plan change request unless the application is lodged again within the time specified in subsection (3).
+(3) If the application is not lodged again within 20 working days after the date on which the applicant receives the returned application, the application and the plan change request lapse.
+
+### 165ZQ Additional consents
+(1) If the regional council makes a determination under section 91(1), it must do so within 20 working days after—
+  (a) the expiry of the 5 working days specified in section 88(3), if the application is not returned as incomplete:
+  (b) the day after the application is lodged again under section 165ZP(3), if the application was returned as incomplete under section 88(3).
+(2) If the regional council determines that 1 or more further consents will be required, the regional council is not required to take any further action on the plan change request until the applications for the further consents have been lodged and accepted as complete under section 88(3).
+
+### 165ZR Concurrent application to be declined or treated as withdrawn if plan change request declined or withdrawn
+(1) If, under clause 25(4) of Schedule 1, a regional council rejects a plan change request, then the concurrent application lapses.
+(2) If, under clause 25(2)(b) of Schedule 1, a regional council accepts a plan change request in part so that the aquaculture activity that the concurrent application relates to remains a prohibited activity, then the regional council must decline the concurrent application as a result of the decision made under clause 25(4) of Schedule 1.
+(3) If a plan change request is withdrawn or deemed to be withdrawn under clause 28 of Schedule 1, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
+
+### 165ZS Consideration of plan change request
+(1) The regional council—
+  (a) may not adopt a plan change request under clause 25(2)(a) of Schedule 1; but
+  (b) may accept a plan change request under clause 25(2)(b) of Schedule 1.
+(2) If the regional council accepts a plan change request, the person making the plan change request may, within 20 working days after being notified of the council's decision under clause 25(5) of Schedule 1,—
+  (a) if a concurrent application has been lodged with the plan change request and the plan change request has been modified under clause 24 of Schedule 1,—
+    (i) amend the concurrent application; or
+    (ii) withdraw the concurrent application and lodge a replacement concurrent application:
+  (b) if a concurrent application has not been lodged with the plan change request, lodge a concurrent application.
+
+### 165ZT Notification of accepted plan change request
+(1) For the purposes of publicly notifying an accepted plan change request and its concurrent application under clause 26(b)(i) of Schedule 1, the period of 4 months specified in that subparagraph begins on the day as determined in accordance with subsection (2), (3), or (4), as the case may require.
+(2) If a concurrent application has been lodged, the period begins on the day on which the regional council receives written confirmation from the applicant that the applications will not be amended or withdrawn.
+(3) If a concurrent application has been lodged but has been amended, or withdrawn and a replacement application lodged, the period begins on the day on which the regional council confirms to the applicant that the application as amended or the replacement application is complete and that no other resource consents are required.
+(4) If a concurrent application has not been lodged but is lodged after the plan change request is accepted by the regional council, the period begins on the day on which the regional council confirms to the applicant that the application is complete and that no other resource consents are required.
+(5) Notification of a plan change request under subsection (1) must also include notification of the concurrent application.
+(6) For the purposes of subsection (5), clause 5 of Schedule 1 applies with all necessary modifications and as if references to a plan or regional coastal plan were references to a plan change request and its related concurrent application and as if the reference to a proposed change in clause 5(3)(b) of that schedule included a reference to its concurrent application.
+
+### 165ZU Submissions on plan change request and concurrent application
+(1) The regional council must, in addition to preparing a summary of submissions on the plan change request, prepare a summary of submissions on the concurrent application.
+(2) Clause 7 of Schedule 1 accordingly applies also to the summary of submissions on the concurrent application.
+(3) However, no person may make further submissions under clause 8 of Schedule 1 on a concurrent application.
+
+### 165ZV Hearing of submissions
+(1) The regional council must hear, under clause 8B of Schedule 1, any submissions on a plan change request and its concurrent application together.
+(2) For the purposes of clause 8C of Schedule 1, a hearing is not required if, in addition, no person indicates they wish to be heard, or the request to be heard is withdrawn, in relation to the concurrent application.
+
+### 165ZW Type of activity in relation to concurrent activities
+(1) After a plan change request has been accepted and publicly notified, the regional council must process the concurrent application that the plan change request relates to on the basis that the activities for which the application is made are non-complying activities.
+(2) The concurrent application must be considered and determined on the basis that the activities for which the application is made are controlled activities, restricted discretionary activities, discretionary activities, or non-complying activities in accordance with the regional council's decision on the plan change request that the concurrent application relates to.
+
+### 165ZX Consideration of plan change request and concurrent application
+(1) A regional council considering a plan change request and its concurrent application made under subpart 4 of Part 7A must,—
+  (a) firstly, determine matters in relation to the plan change request; and
+  (b) secondly, determine matters in relation to the concurrent application, based on its determination of matters in relation to the plan change request.
+(2) A regional council must decline a concurrent application if, as a result of the council's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.
+
+### 165ZY Regional council's decision on concurrent application
+The regional council must make and publicly notify its decision on the concurrent application not later than the close of the 20th working day after publicly notifying its decision on the plan change request in accordance with clause 10(4) of Schedule 1.
+
+### 165ZZ Appeals
+(1) An appeal against a decision relating to the plan change request or the concurrent application or both must be lodged within 20 working days after the day on which the regional council publicly notifies its decision on the concurrent application.
+(2) If appeals are lodged against both the decision on the plan change request and the concurrent application, the appeals must be heard together.
+
+### 165ZZA Grant of coastal permit
+(1) If the regional council grants a concurrent application and issues a coastal permit, the commencement of the coastal permit under section 116A is subject to the Minister of Conservation approving the plan change.
+(2) If the Minister of Conservation declines to approve the plan change, the regional council must cancel the coastal permit.
 
 ## Part 8 — Designations and heritage orders
 
@@ -7287,7 +7749,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 (1) There is a right of objection to a consent authority,—
   (a) in respect of a decision of that authority, for any person who has made an application under—
     (i) section 124(2) (which relates to the exercise of a resource consent while applying for a new resource consent):
-    (ii) section 125(1)(b) (which relates to the lapsing of consents):
+    (ii) section 125(1A)(b) (which relates to the lapsing of consents):
     (iii) section 126(2)(b) (which relates to the cancellation of consents):
     (iv) section 139 (which relates to certificates of compliance):
     (v) section 139A (which relates to existing use certificates):
@@ -7387,6 +7849,51 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (b) generally to rules or resource consents, or to rules or resource consents made by the consent authorities specified in the regulations.
 (3) All regulations made under subsection (1)(g) that are still in force on the day that is 5 years after the date of commencement of this Act shall expire at the close of that day.
 (4) Regulations made under this section may incorporate material by reference. Schedule 1AA applies as if its references to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under section 360.
+
+### 360A Regulations amending regional coastal plans in relation to aquaculture activities
+(1) The Governor-General may, by Order in Council, amend provisions in a regional coastal plan that relate to the management of aquaculture activities in the coastal marine area.
+(2) An amendment made under subsection (1)—
+  (a) becomes part of the operative plan as if it had been notified under clause 20 of Schedule 1; and
+  (b) must not be inconsistent with, and is subject to, the other provisions of this Act (for example, subpart 1 of Part 7A); and
+  (c) may be amended—
+    (i) under this section; or
+    (ii) in accordance with Schedule 1; or
+    (iii) under any other provision of this Act.
+(3) In this section and sections 360B and 360C, amend provisions includes—
+  (a) omitting provisions (whether other provisions are substituted or not):
+  (b) adding provisions.
+
+### 360B Conditions to be satisfied before regulations made under section 360A
+(1) Regulations must not be made under section 360A(1) except on the recommendation of the Minister of Aquaculture.
+(2) The Minister of Aquaculture must not make a recommendation unless the Minister—
+  (a) has first had regard to the provisions of the regional coastal plan that will be affected by the proposed regulations; and
+  (b) has consulted—
+    (i) the Minister of Conservation; and
+    (ii) other Ministers that the Minister of Aquaculture considers relevant to the proposed regulations; and
+    (iii) any regional council that will be affected by the proposed regulations; and
+    (iv) the public and iwi authorities in accordance with subsection (3); and
+  (c) is satisfied that—
+    (i) the proposed regulations are necessary or desirable for the management of aquaculture activities in accordance with the Government's policy for aquaculture in the coastal marine area; and
+    (ii) the matters to be addressed by the proposed regulations are of regional or national significance; and
+    (iii) the regional coastal plan to be amended by the proposed regulations will continue to give effect to—
+      (A) any national policy statement; and
+      (B) any New Zealand coastal policy statement; and
+      (C) any regional policy statement; and
+    (iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard.
+(3) For the purposes of subsection (2)(b)(iv), the Minister of Aquaculture must—
+  (a) notify the public and iwi authorities of the proposed regulations; and
+  (b) establish a process that—
+    (i) the Minister of Aquaculture considers gives the public and iwi authorities adequate time and opportunity to comment on the proposed regulations; and
+    (ii) requires a report and recommendation to be made to the Minister on those comments and the proposed regulations; and
+  (c) publicly notify the report and recommendation.
+(4) For the purposes of subsection (2)(b)(iv), the Minister is not required to consult on matters that have already been the subject of consultation if the Minister is satisfied that the previous consultation related to subject matter that is in substance the same as that proposed in the regulations.
+
+### 360C Regional council's obligations
+As soon as practicable after regulations are made under section 360A(1), the regional council whose regional coastal plan is or will be amended by the regulations must—
+  (a) give public notice that the regulations have been made, of the date on which the regulations come into force, and that provides a general description of the nature and effect of the regulations; and
+  (b) amend the plan in accordance with the regulations—
+    (i) without using the process in Schedule 1; and
+    (ii) by any date specified in the regulations for that purpose or, if no date is specified, as soon as practicable after the regulations come into force.
 
 ### 361 Repeals and revocations
 (1) The enactments specified in Schedule 6 are hereby repealed.
@@ -7502,6 +8009,7 @@ Except as otherwise provided in this Part or in any regulations, from the date o
 (4) Notwithstanding section 64(4), a request under clause 21 of Schedule 1 to a regional council to change a regional coastal plan deemed to be constituted under subsection (1) may only be made by one of the following persons:
   (a) the Minister of Conservation:
   (b) the territorial authority for any district that is within or adjoins the relevant region.
+(5) However, subsection (4) does not apply to a plan change request made under subpart 4 of Part 7A.
 
 ### 371 Provisions deemed to be regional rules
 (1) A provision of a district scheme or a combined scheme under the Town and Country Planning Act 1977 that is deemed by section 370 to be a provision of a regional coastal plan shall also be deemed to be—and the provisions of this Act shall apply accordingly.
@@ -7905,8 +8413,9 @@ Where the conditions of any permission that is deemed to be a resource consent b
 ### 401A Transitional coastal occupation charges
 (1) Where a person is occupying the coastal marine area, either as a holder of a resource consent or as a result of permitted activity in a plan, there is implied a condition that that person must, from the commencement of this section until a regional coastal plan or plan change is operative which contains either a charging regime or a statement to the effect that no regime may be introduced or 30 June 2007 (whichever is earlier), pay to the relevant regional council, if requested by that regional council, any sum required to be paid for the occupation of the coastal marine area by any regulations made under section 360(1)(c).
 (2) Any money received by the regional council under subsection (1) may be used only for the purpose of promoting the sustainable management of the coastal marine area.
-(3) Where a regional council prepares or changes a regional coastal plan or proposed regional coastal plan in the period from the commencement of this section until 1 July 2007, that plan is not required to comply with section 64A.
-(4) Where no provision for coastal occupation charges has been made in a regional coastal plan or proposed regional coastal plan by 1 July 2007, the regional council must, in the first proposed regional coastal plan or change to a regional coastal plan notified after 30 June 2007, include a statement or regime on coastal occupation charges in accordance with section 64A.
+(3) Where a regional council prepares or changes a regional coastal plan or proposed regional coastal plan in the period from the commencement of this section until the expiry date, that plan is not required to comply with section 64A.
+(4) Where no provision for coastal occupation charges has been made in a regional coastal plan or proposed regional coastal plan by the expiry date, the regional council must, in the first proposed regional coastal plan or change to a regional coastal plan notified on or after the expiry date, include a statement or regime on coastal occupation charges in accordance with section 64A.
+(5) In this section, expiry date means the date that is 3 years after the commencement of section 59 of the Resource Management Amendment Act (No 2) 2011.
 
 ### 401B Obligation to pay coastal occupation charge deemed condition of consent
 In every coastal permit that—there is implied a condition that the holder must at all times throughout the period of the permit pay to the relevant regional council any sum of money required to be paid (if any) by that regional coastal plan.
@@ -8681,7 +9190,9 @@ As a result of further or additional information, commissioned reports, or other
 (3) The local authority may decide to deal with the request as if it were an application for a resource consent and the provisions of Part 6 shall apply accordingly.
 (4) The local authority may reject the request in whole or in part, but only on the grounds that—
   (a) the request or part of the request is frivolous or vexatious; or
-  (b) the substance of the request or part of the request has been considered and given effect to or rejected by the local authority or Environment Court within the last 2 years; or
+  (b) within the last 2 years, the substance of the request or part of the request—
+    (i) has been considered and given effect to, or rejected by, the local authority or the Environment Court; or
+    (ii) has been given effect to by regulations made under section 360A; or
   (c) the request or part of the request is not in accordance with sound resource management practice; or
   (d) the request or part of the request would make the policy statement or plan inconsistent with Part 5; or
   (e) in the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.
@@ -8832,67 +9343,6 @@ Material incorporated by reference in a plan or proposed plan that expires or th
   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 
 ## Schedule 1A — Preparation and change of regional coastal plans providing for aquaculture activities
-
-### 1 Preparation and change of regional coastal plans providing for aquaculture activities
-(1AA) This schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
-(1) Schedule 1 applies, subject to this schedule, to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
-(2) The provisions of this schedule apply, with all necessary modifications, to a variation to a proposed plan or proposed change of a plan as if it were a change.
-
-### 1A Proposed regional coastal plan or proposed change to regional coastal plan must not describe certain areas as aquaculture management areas
-(1) A proposed regional coastal plan or a proposed change to a regional coastal plan must not describe an area as an aquaculture management area if the area comprises or includes space—
-  (a) that is subject to an application—
-    (i) to which section 25(3) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies; and
-    (ii) made by a person to whom section 25(2) of that Act applies; and
-    (iii) which has not been determined or withdrawn; or
-  (b) that is, or may be, subject to an application—
-    (i) referred to in section 26(1)(b) of that Act; and
-    (ii) made by a person referred to in section 26(1)(a) of that Act; and
-    (iii) where an application has been made, it has not been determined or withdrawn; or
-  (c) that is subject to an application to which section 50(2) of that Act applies and the application has not been determined or withdrawn; or
-  (d) that was subject to an application to which section 50(2) of that Act applied and—
-    (i) the coastal permit applied for has been granted; and
-    (ii) the coastal permit has not lapsed or been cancelled or surrendered; but
-    (iii) the application for a marine farming permit or spat catching permit referred to in section 50(3) of that Act has not been made or has been made but has not been determined or withdrawn.
-(2) To avoid doubt, subclause (1) does not prevent a proposed regional coastal plan or a proposed change to a regional coastal plan describing as an aquaculture management area an area to which a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 relates.
-(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
-(4) If a proposed regional coastal plan or a proposed change to a regional coastal plan describes an area as an aquaculture management area in breach of subclause (1), then (to avoid doubt)—
-  (a) the area is not, and is not to be treated as, an aquaculture management area; and
-  (b) the breach does not invalidate the rest of the plan to the extent that the rest of the plan is not inconsistent with the area not being an aquaculture management area.
-
-### 2 Assessment of undue adverse effects on fishing
-(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or 26 of Schedule 1 until—
-  (a) the chief executive of the Ministry of Fisheries has made an aquaculture decision under section 186E of the Fisheries Act 1996 in relation to any area described in the plan as an aquaculture management area; and
-  (b) the regional council has complied with clause 3 of this schedule.
-(2) However, subclause (1) does not apply in relation to an area that is—
-  (a) subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-  (b) an aquaculture management area in relation to which a determination has already been made under section 186E of the Fisheries Act 1996 or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
-(3) Subclause (2)(b) does not include a determination to which section 186H(1)(d)(ii) of the Fisheries Act 1996 or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies, if the proposed regional coastal plan or proposed change to a regional coastal plan proposes to revoke or amend the rule on which the determination was based.
-
-### 3 Effect of assessment
-(1) If the chief executive of the Ministry of Fisheries makes a reservation about customary or recreational fishing in relation to an aquaculture management area, the regional council must—
-  (a) note the details on the plan; and
-  (b) delete from the aquaculture management area, any areas that the reservation relates to.
-(2) If the chief executive of the Ministry of Fisheries makes a reservation (about commercial fishing) or a determination in relation to an aquaculture management area, the regional council must note the details of the reservation or determination on the plan.
-(3) If the chief executive of the Ministry of Fisheries makes a reservation about commercial fishing relating to fish, aquatic life, or seaweed that is not subject to the quota management system under the Fisheries Act 1996 and that is not listed in Schedule 4C or Schedule 4D of that Act, the regional council must exclude the area that the reservation relates to from the plan.
-(4) If the chief executive of the Ministry of Fisheries makes a reservation relating to commercial fishing, the regional council must note the details of the reservation on the plan, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C or 4D of the Fisheries Act 1996.
-(5) A determination or reservation does not form part of the plan.
-
-### 4 Effect of direction under section 165O
-(1) If an Order in Council is made under section 165O in relation to a proposed regional coastal plan to be notified under clause 5 or clause 26 of Schedule 1, the regional council must amend its proposed regional coastal plan in accordance with the direction and record the details of the direction on the plan.
-(2) Schedule 1 does not apply to an amendment under this clause.
-(3) A direction does not form part of the plan.
-
-### 5 Notification of proposed plan
-The regional council must not notify its proposed regional coastal plan in accordance with clause 5 or clause 26 of Schedule 1 until the period provided for in section 186J of the Fisheries Act 1996 has expired.
-
-### 6 Provision of proposed regional coastal plan to chief executive
-A regional council must provide 1 copy of its proposed regional coastal plan, without charge, to the chief executive of the Ministry of Fisheries.
-
-### 7 Restriction on decisions affecting aquaculture management areas
-A decision under any of clauses 10, 16, 19, or 29(4) of Schedule 1 must not—
-  (a) include an aquaculture management area in a coastal marine area that was not in the proposed regional coastal plan as notified under clause 5 or clause 26 of Schedule 1; or
-  (b) alter the boundaries of an aquaculture management area except to reduce the size of the aquaculture management area within those boundaries; or
-  (c) amend the rules applicable to the aquaculture management area in a way that changes the character or increases the intensity or scale or the occupation of the aquaculture management area by aquaculture activities in a manner contrary to the determination.
 
 ## Schedule 2 — Matters that may be provided for in policy statements and plans
 
@@ -9085,6 +9535,16 @@ Despite sections 68(5)(e) and 76(4)(e) of the principal Act (as repealed and sub
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is to amend the principal Act—
+  (a) to make explicit provision for all persons exercising functions and powers under the principal Act to have particular regard to—
+    (i) the efficiency of the end use of energy; and
+    (ii) the effects of climate change; and
+    (iii) the benefits to be derived from the use and development of renewable energy; and
+  (b) to require local authorities—
+    (i) to plan for the effects of climate change; but
+    (ii) not to consider the effects on climate change of discharges into air of greenhouse gases.
 
 ## Part 2 — Amendments to principal Act and transitional provisions
 
