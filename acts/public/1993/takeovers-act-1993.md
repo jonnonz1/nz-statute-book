@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-10-01_
 
 > Title
 
@@ -772,7 +772,7 @@ The Fair Trading Act 1986 does not apply to conduct in relation to any transacti
 The court may, on application by any person referred to in section 35(1)(a) to (g), make a management banning order against a person (A) if—
   (a) A has been convicted of an offence against either section 44 or section 44C or a pecuniary penalty order has been made against A under this Act for a contravention of the takeovers code; or
   (b) A has, while a director of an incorporated or unincorporated body,—
-    (i) persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Securities Act 1978, or the takeovers code; or
+    (i) persistently contravened this Act, the Companies Act 1993, the Securities Markets Act 1988, the Securities Act 1978, the Securities Trustees and Statutory Supervisors Act 2011, or the takeovers code; or
     (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
   (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in section 44G in connection with a contravention of any law relating to takeovers.
 
