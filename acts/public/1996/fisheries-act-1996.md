@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-10-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -22,7 +22,6 @@ _Consolidation as at 2011-04-01_
   - **approved service delivery organisation** means a person declared to be an approved service delivery organisation, and to whom any specified functions, duties, or powers of the chief executive have been transferred, under section 296B
   - **aquaculture activities** has the same meaning as in the Resource Management Act 1991
   - **aquaculture decision** has the meaning given to it by section 186C
-  - **aquaculture management area** has the same meaning as in the Resource Management Act 1991
   - **aquatic ecosystem** means any system of interacting aquatic life within its natural and physical environment
   - **aquatic environment** —
     (a) means the natural and biological resources comprising any aquatic ecosystem; and
@@ -233,6 +232,9 @@ _Consolidation as at 2011-04-01_
   - **quota share** has the meaning given to it by section 42
   - **quota weight equivalent** , in relation to any quota share, means the figure in kilogrammes (or, in the case of Foveaux Strait dredge oysters, the figure in oyster numbers) arrived at by dividing by 100 000 000 the total allowable commercial catch for the stock to which the quota share relates; and, consequently, the quota weight equivalent of a parcel of shares is the quota weight equivalent of 1 share multiplied by the number of shares in the parcel
   - **record** includes any document, whether or not it has been completed
+  - **regional council** —
+    (a) has the same meaning as in section 5 of the Local Government Act 2002; and
+    (b) includes a unitary authority within the meaning of that Act
   - **regional plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **registered fish carrier** means any fish carrier registered under section 105
   - **relevant Ministers** , in sections 56 to 58B, has the meaning set out in section 57A(1)
@@ -334,15 +336,14 @@ This Act shall be interpreted, and all persons exercising or performing function
   (a) the allocation to 1 or more fishing sectors in preference to any other fishing sector of access to any fisheries resources in the coastal marine area; or
   (b) the conferral on any fisher of a right to occupy any land in the coastal marine area or any related part of the coastal marine area, if the right to occupy would exclude any other fisher from fishing in any part of the coastal marine area.
 (2) Subsection (1) does not—
-  (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources in establishing an aquaculture management area under section 165C of the Resource Management Act 1991; or
-  (b) apply to a regional coastal plan to the extent that it establishes an aquaculture management area; or
-  (c) prevent any regional plan or coastal permit authorising the erection in the coastal marine area of a fish farm structure or other structure.
+  (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under section 30(1)(d) of the Resource Management Act 1991; or
+  (b) prevent any coastal permit authorising aquaculture activities from being granted.
 (3) In this section—
   - **fishing sector** means—
     (a) commercial fishers:
     (b) recreational fishers:
     (c) Maori non-commercial customary fishers:
-    (d) fish farmers:
+    (d)
     (e) other fishers authorised under this Act to take fish, aquatic life, or seaweed
   - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991.
 (4)
@@ -3251,73 +3252,109 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
 ### 186C Interpretation
 In this Part,—
   - **adverse effect** , in relation to fishing, means to restrict access for fishing or to displace fishing
+  - **application for a coastal permit** —
+    (a) means an application for a coastal permit under section 88 of the Resource Management Act 1991; and
+    (b) includes—
+      (i) an application for a change or cancellation of condition of a coastal permit under section 127 of that Act; and
+      (ii) a notice of intention to review conditions under section 128 of that Act
   - **aquaculture decision** means a determination or a reservation
-  - **determination** , in relation to an aquaculture management area, means a decision by the chief executive that he or she is satisfied that the aquaculture management area will not have an undue adverse effect on fishing
-  - **reservation** , in relation to an aquaculture management area, means a decision by the chief executive that he or she is not satisfied that the aquaculture management area will not have an undue adverse effect on fishing.
+  - **coastal permit** means a coastal permit granted under the Resource Management Act 1991 that authorises aquaculture activities to be undertaken in the coastal marine area
+  - **determination** , in relation to a coastal permit, means a decision by the chief executive that he or she is satisfied that the aquaculture activities authorised by the coastal permit will not have an undue adverse effect on fishing
+  - **regional council** means a regional council acting as a consent authority under the Resource Management Act 1991
+  - **reservation** , in relation to a coastal permit, means a decision by the chief executive that he or she is not satisfied that the aquaculture activities authorised by the coastal permit will not have an undue adverse effect on fishing.
 
-### Subpart 1 — Aquaculture decisions in relation to aquaculture management areas
+### Subpart 1 — Aquaculture decisions in relation to coastal permits
 
-### 186D Request for aquaculture decision
-(1) A regional council may request the chief executive to make—
-  (a) an aquaculture decision in relation to an area to be included as an aquaculture management area in a proposed regional coastal plan:
-  (b) a further aquaculture decision for the purposes of section 186H(1)(d)(ii) of this Act or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
-(2) However, the regional council must not make a request under subsection (1)(a) if the area is an area in relation to which section 186F precludes the chief executive from making an aquaculture decision.
+### 186D Chief executive may seek information or consult certain persons for purposes of making aquaculture decision
+(1) After receiving a copy of an application for a coastal permit forwarded by a regional council to the chief executive under section 107F of the Resource Management Act 1991, the chief executive may, for the purpose of making an aquaculture decision that may be requested under that Act seek information relevant to the application from—
+  (a) the applicant for or the holder of the coastal permit:
+  (b) any fisher whose interests may be affected:
+  (c) persons and organisations that the chief executive considers represent the classes of persons who have customary, commercial, or recreational fishing interests that may be affected by the granting of the coastal permit or change to, or cancellation of, the conditions of the coastal permit.
+(2) For the purposes of subsection (1), the chief executive—
+  (a) may set a date by which information must be provided and may grant 1 or more extensions of that date if he or she considers it necessary to do so; and
+  (b) is not required to consider or take into account any information received after that date or extended date (as the case may be).
+(3) Before making an aquaculture decision under section 186E, the chief executive may consult any of the persons or organisations specified in subsection (1).
+(4) For the purposes of subsection (3), the chief executive—
+  (a) may set a date by which the consultation is to be completed and may grant 1 or more extensions of that date if he or she considers it necessary to do so; and
+  (b) is not required to consider or take into account any submissions made for the purposes of the consultation received after that date or extended date (as the case may be).
 
 ### 186E Chief executive to make aquaculture decision
-(1) Within 6 months after accepting a request for an aquaculture decision, the chief executive must—
+(1) Within 20 working days after receiving a request for an aquaculture decision from a regional council under section 114 of the Resource Management Act 1991, the chief executive must—
   (a) make a determination; or
   (b) make a reservation; or
-  (c) make 1 or more determinations or reservations or both in relation to different parts of the area.
-(2) The chief executive may request the regional council that requested the aquaculture decision and any fisher whose interests may be affected to provide him or her with further information about the effects that the aquaculture management area would have on access to or displacement of fishing.
-(3) For the purposes of subsection (1), the period beginning on the day when a request for further information is made and ending on the day when the information is provided is excluded from the 6-month period referred to in subsection (1).
-(4) Before making an aquaculture decision, the chief executive must—
-  (a) consult the persons and organisations that the chief executive considers represent the classes of persons who have customary, commercial, or recreational fishing interests that may be affected by the aquaculture management area; and
-  (b) consider any submissions made by those persons and organisations.
+  (c) make 1 or more determinations or reservations or both in relation to different parts of the area to which the request relates.
+(2) One or both of the following periods are excluded from the period of 20 working days specified in subsection (1) to the extent that the periods could otherwise fall within the period of 20 working days:
+  (a) a period during which the chief executive is undertaking consultation under section 186D(3):
+  (b) a period during which the chief executive is, in compliance with section 186F(1), making an aquaculture decision in relation to a prior request.
+(3) In making an aquaculture decision, the chief executive must have regard to—
+  (a) information held by the Ministry of Fisheries; and
+  (b) information supplied, or submissions made, to the chief executive under section 186D(1) or (3); and
+  (c) information that is forwarded by the regional council; and
+  (d) any other information that the chief executive has requested and obtained.
+(4) For the purposes of this section, the chief executive is not required to consider or take into account any information received after receiving the request for an aquaculture decision.
+(5) Subsection (4) applies subject to section 186D(2) and (4).
 
-### 186F Aquaculture decisions must not be made in relation to certain areas
-(1) The chief executive must not make an aquaculture decision if the decision would apply to an area—
-  (a) that is subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-  (b) that is an aquaculture management area in relation to which a determination has already been made under section 186E of this Act or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
-(2) However, subsection (1) does not prevent the chief executive making a further aquaculture decision for the purposes of section 186H(1)(d)(ii) of this Act or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+### 186F Order in which requests for aquaculture decisions to be processed
+(1) The chief executive must make aquaculture decisions in the same order in which the requests for the decisions are received.
+(2) For the purposes of subsection (1), the order in which aquaculture decisions must be made in relation to requests for aquaculture decisions received on the same day is determined according to the time when the requests are received.
+(3) If 2 or more requests for aquaculture decisions are received at the same time from the same regional council, the chief executive must make aquaculture decisions in the order specified by the regional council under section 114(5) of the Resource Management Act 1991.
+(4) For the purposes of subsections (1) to (3), the chief executive's aquaculture decision is not to be treated as made until any judicial review of the decision is finally disposed of.
+(5) The chief executive may make aquaculture decisions in a different order from that required by subsections (1) to (3), but the chief executive may do so only if satisfied that in making an aquaculture decision out of order it will not have an adverse effect on any other aquaculture decision that the chief executive has been requested to make.
 
-### 186G Matters to be considered before aquaculture decision made
-In considering, for the purposes of making an aquaculture decision, whether an aquaculture management area will have an undue adverse effect on fishing, the chief executive must have regard only to the following matters:
-  (a) the location of the aquaculture management area in relation to areas in which fishing is carried out:
-  (b) the effect of the aquaculture management area on fishing of any fishery, including the proportion of any fishery likely to become affected:
-  (c) the degree to which aquaculture activities within the aquaculture management area will lead to the exclusion of fishing:
-  (d) the extent to which fishing for a species in the aquaculture management area can be carried out in other areas:
-  (e) the extent to which the aquaculture management area will increase the cost of fishing:
-  (f) the cumulative effect on fishing of any previous aquaculture activities.
+### 186G Provision of fisheries information relating to stock
+For the purposes of this subpart and subpart 4, the chief executive may, by notice in the Gazette, specify the manner and form in which fisheries information relating to stocks is to be made publicly available by the Ministry of Fisheries.
+
+### 186GA Aquaculture decisions must not be made in relation to certain areas
+The chief executive must not make an aquaculture decision in relation to—
+  (a) an area—
+    (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under the Resource Management Act 1991; and
+    (ii) where, since the date on which the lease, licence, marine farming permit, or spat catching permit was deemed to be a coastal permit, aquaculture activities have been continuously authorised under that permit or another permit granted under the Resource Management Act 1991; or
+  (b) an area that is or was subject to the coastal permit referred to in section 20A of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 and where, since the date the coastal permit was deemed to be granted, aquaculture activities have been continuously authorised under the permit or another permit granted under the Resource Management Act 1991; or
+  (c) an area that is in a gazetted aquaculture area within the meaning of section 35 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+  (d) an area that is subject to a coastal permit to which section 114(6) of the Resource Management Act 1991 applies.
+
+### 186GB Matters to be considered before aquaculture decision made
+(1) In making an aquaculture decision, the chief executive must have regard only to the following matters:
+  (a) the location of the area that the coastal permit relates to in relation to areas in which fishing is carried out:
+  (b) the likely effect of the aquaculture activities in the area that the coastal permit relates to on fishing of any fishery, including the proportion of any fishery likely to become affected:
+  (c) the degree to which the aquaculture activities in the area that the coastal permit relates to will lead to the exclusion of fishing:
+  (d) the extent to which fishing for a species in the area that the coastal permit relates to can be carried out in other areas:
+  (e) the extent to which the occupation of the coastal marine area authorised by the coastal permit will increase the cost of fishing:
+  (f) the cumulative effect on fishing of any authorised aquaculture activities, including any structures authorised before the introduction of any relevant stock to the quota management system.
+(2) If a pre-request aquaculture agreement has been registered under section 186ZH in relation to the area that the coastal permit relates to, the chief executive must not have regard to the undue adverse effects on commercial fishing in respect of any stocks covered by the pre-request aquaculture agreement when having regard to the matters specified in subsection (1).
 
 ### 186H Requirements for aquaculture decision
 (1) An aquaculture decision must—
   (a) be in writing; and
   (b) define the areas that are subject to the decision; and
   (c) provide reasons for the decision; and
-  (d) if the decision is a determination based on a rule in a regional coastal plan or proposed regional coastal plan that relates to the character, intensity, or scale of the occupation of the aquaculture management area for aquaculture activities,—
-    (i) specify the rule; and
-    (ii) state that the rule may not be revoked or amended until the chief executive makes a further aquaculture decision in relation to the area affected by the revocation or amendment; and
-  (e) be notified to the regional council.
-(2) If the chief executive makes a reservation, the reservation must also include—
-  (a) whether the reservation relates to customary, recreational, or commercial fishing or a combination of them; and
-  (b) if the reservation relates only to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C and 4D, and any other stocks or species not subject to the quota management system; and
+  (d) be notified to—
+    (i) the regional council that requested the decision; and
+    (ii) the holder of the coastal permit that the decision relates to; and
+    (iii) the persons and organisations who supplied information to the chief executive under section 186D(1); and
+    (iv) the persons and organisations consulted by the chief executive under section 186D(3).
+(2) The fact that an aquaculture decision has been made and where a copy can be obtained must be—
+  (a) notified in the Gazette; and
+  (b) made accessible via the Internet.
+(3) If the chief executive makes a determination, the determination may—
+  (a) specify any condition of the coastal permit that is material to the decision and that relates to the character, intensity, or scale of the aquaculture activities; and
+  (b) state that the condition may not be changed or cancelled until the chief executive makes a further aquaculture decision in relation to the area affected by the change or cancellation.
+(4) If the chief executive makes a reservation, the reservation must also include—
+  (a) whether the reservation relates to customary, recreational, or commercial fishing, or a combination of them; and
+  (b) if the reservation relates to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system and any other stock not subject to the quota management system; and
   (c) any other matters required by regulations to be included.
-(3) The chief executive must—
-  (a) publicly notify the fact that he or she has made a determination or reservation; and
-  (b) in the notice published for that purpose, include—
-    (i) the information specified in subsections (1) and (2); and
-    (ii) information about where a copy of the determination or reservation can be obtained.
+(5) The chief executive must include, in the notification under subsection (1)(d),—
+  (a) the information specified in subsections (1)(b) and (c), (3), and (4), as appropriate; and
+  (b) information about where a copy of the determination or reservation can be obtained.
 
 ### 186I Appeal against aquaculture decision
-(1) The following persons may appeal to the High Court against an aquaculture decision:
-  (a) the person who requested the aquaculture decision, being the regional council or the person specified in a notice given under section 165ZC of the Resource Management Act 1991:
-  (b) any person consulted or who ought to have been consulted under section 186E(4):
-  (c) any person who has an interest in the decision greater than the public generally.
-(2) An appeal must be filed within 3 months after public notification of the aquaculture decision.
-(3) The High Court may confirm or modify the aquaculture decision appealed against or substitute a different aquaculture decision.
+[Repealed]
 
 ### 186J Judicial review of aquaculture decision
-Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 3 months after the public notification of the decision.
+(1) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)(a).
+(2) The chief executive must notify the relevant regional council of—
+  (a) any proceedings brought to seek judicial review of an aquaculture decision; and
+  (b) the result of those proceedings, including any appeals.
 
 ### Subpart 2 — Fish farmers
 
@@ -3468,38 +3505,36 @@ This subpart does not apply to fish farming undertaken in accordance with a prot
 (3) The Minister may make a recommendation under subsection (1) to include a species of fish, aquatic life, or seaweed in Schedule 8A only if he or she is satisfied that including the species in Schedule 8A is not likely to have an adverse effect on recruitment to the adult population of the species concerned.
 (4) Before making a recommendation under subsection (1) to include a species of fish, aquatic life, or seaweed in Schedule 8A, the Minister must consult the persons or organisations that the Minister considers are representative of the classes of persons having an interest in the species concerned, including Māori, environmental, commercial, and recreational interests.
 
-### Subpart 4 — Aquaculture agreements
+### Subpart 4 — Aquaculture agreements and compensation declarations
 
 ### 186ZD Interpretation
-In this subpart, unless the context otherwise requires, aquaculture agreement means 1 or more documents, in the approved form, containing the consents required under section 186ZF.
-  - ****
+In this subpart, unless the context otherwise requires,—
+  - **aquaculture agreement** means 1 or more documents, in the approved form, containing the consents required under section 186ZF
+  - **compensation declaration** means a statutory declaration to the effect that compensation has been provided, in accordance with sections 186ZN and 186ZQ, to all affected quota owners
+  - **pre-request aquaculture agreement** means 1 or more documents, in the approved form, containing the consents required under section 186ZM.
 
-### 186ZE Register of aquaculture agreements
-(1) The chief executive must keep a register of aquaculture agreements.
-(2) Sections 186K(2) to (6), 186L, and 186M apply, with all necessary modifications, to the aquaculture agreement register.
+### 186ZE Registers of aquaculture agreements, pre-request aquaculture agreements, and compensation declarations
+(1) The chief executive must keep—
+  (a) a register of aquaculture agreements; and
+  (b) a register of pre-request aquaculture agreements; and
+  (c) a register of compensation declarations.
+(2) Sections 186K(2) to (6), 186L, and 186M apply, with all necessary modifications, to each register.
 
-### 186ZF Fishers whose consent is necessary for aquaculture agreement
-(1) An aquaculture agreement lodged with the chief executive for registration must contain the consents required under subsection (2) to aquaculture activities being undertaken in the area concerned.
-(2) The consents required are,—
-  (a) in the case of a stock specified in a reservation that is subject to the quota management system,—
-    (i) the consents of the registered quota owners of the stock holding not less than 90% of the quota shares for the stock; and
-    (ii) to the extent that the consents referred to in subparagraph (i) are given by persons holding 90% or more but less than 100% of the quota shares for the stock, the consent of the High Court in relation to the persons who did not consent:
-  (b) in the case of a stock or species that is specified in a reservation that is not subject to the quota management system but listed in Schedule 4C,—
-    (i) the consents of not less than 90% of the permit holders for the stock or species; and
-    (ii) to the extent that the consents referred to in subparagraph (i) are given by 90% or more but less than 100% of the permit holders, the consent of the High Court in relation to the persons who did not consent:
-  (c) in the case of a species that is specified in a reservation that is not subject to the quota management system but listed in Schedule 4D,—
-    (i) the consents of not less than 90% of the persons who hold permits and would hold provisional catch history, as provided for in section 29A(2), for the stock if the stock or species were to become subject to the quota management system; and
-    (ii) to the extent that the consents referred to in subparagraph (i) are given by 90% or more but less than 100% of the persons holding that catch history, the consent of the High Court in relation to the persons who did not consent.
-(3) For the purposes of subsection (2)(b) and (c), permit holders includes any mandated iwi organisations that would be entitled to receive quota shares for the relevant quota management system stock under the Maori Fisheries Act 2004 if the stocks or species were to become subject to the quota management system.
-(4) After an aquaculture agreement is lodged with the chief executive, no person whose consent is contained in the agreement may revoke the consent.
-(5) Where the regional council proposes to make an offer of authorisations for available space in an aquaculture management area under section 165E of the Resource Management Act 1991, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given under section 165G(2)(a) of the Resource Management Act 1991.
-(6) Where space in the coastal marine area is subject to applications to which section 165BC of the Resource Management Act 1991 applies, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given under section 165G(2)(c) of that Act.
+### 186ZF Quota owners whose consent is necessary for aquaculture agreement
+(1) An aquaculture agreement lodged with the chief executive for registration must—
+  (a) contain the consents required under subsection (2) to the aquaculture activities being undertaken in the area concerned; and
+  (b) be accompanied by information showing that each registered quota owner has had a reasonable opportunity to consider whether to consent.
+(2) The consents required are, for each stock specified in a reservation in relation to commercial fishing for stocks subject to the quota management system,—
+  (a) the consents of the registered quota owners of the stock holding not less than 75% of the quota shares for the stock; and
+  (b) to the extent that the consents referred to in paragraph (a) are given by persons holding 75% or more but less than 100% of the quota shares for the stock, the consent of the High Court in relation to the persons who did not consent.
+(3) After an aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with section 165ZH of the Resource Management Act 1991.
+(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which the chief executive gives notice of a reservation under section 186H(2)(a) in relation to the coastal permit concerned.
 
 ### 186ZG High Court may consent to aquaculture agreement on behalf of non-consenting persons
-(1) A person wishing to lodge an aquaculture agreement with the chief executive may, for the purposes of section 186ZF(2)(a), (b), or (c), apply to the High Court for its consent to the lodging of the agreement.
+(1) A person wishing to lodge an aquaculture agreement with the chief executive may, for the purposes of section 186ZF(2), apply to the High Court for its consent to the lodging of the agreement.
 (2) The High Court must not give its consent unless it is satisfied that the applicant has offered sufficient compensation to each person who has not consented to the lodging of the aquaculture agreement,—
   (a) in the case of persons holding quota shares, for the effect on their rights, as holders of the quota shares, of the proposed aquaculture activity:
-  (b) in the case of permit holders, for the effect on their rights, of the proposed aquaculture activity, if the stocks or species concerned were to become subject to the quota management system and they held quota shares.
+  (b)
 (3) If the High Court gives its consent under subsection (2), the High Court may (with the agreement of the applicant) make such ancillary orders or give such directions as it thinks fit relating to the payment of compensation.
 (4) However, to avoid doubt, any order for the purposes of subsections (2) and (3) may not—
   (a) require the payment of compensation that exceeds the compensation offered by the applicant; or
@@ -3515,29 +3550,51 @@ In this subpart, unless the context otherwise requires, aquaculture agreement me
   (a) register the agreement in the register of aquaculture agreements kept by the chief executive; and
   (b) notify the person who lodged it, or another person whom the chief executive considers is entitled to receive notification, that the agreement has been registered.
 (3) In deciding whether to register an aquaculture agreement, the chief executive—
-  (a) is entitled to rely on the information in the agreement as sufficient evidence that a fisher has consented under section 186ZF, unless the chief executive has notice of evidence to the contrary; and
-  (b) is not required to verify the identity of a fisher appearing to consent in the agreement.
+  (a) is entitled to rely on the information in the agreement as sufficient evidence that a quota owner has consented under section 186ZF, unless the chief executive has notice of evidence to the contrary; and
+  (b) is not required to verify the identity of a quota owner appearing to consent in the agreement.
+
+### 186ZHA Lodging compensation declarations with chief executive for registration
+(1) If a compensation declaration lodged with the chief executive for registration does not comply with this subpart, the chief executive must—
+  (a) return the declaration to the person who lodged it or another person whom the chief executive considers is entitled to receive it; and
+  (b) provide reasons to the person to whom the declaration is returned as to why the declaration has not been registered.
+(2) If a compensation declaration lodged with the chief executive for registration complies with this subpart, the chief executive must—
+  (a) register the declaration in the register of compensation declarations kept by the chief executive; and
+  (b) notify the person who lodged it, or another person whom the chief executive considers is entitled to receive notification, that the declaration has been registered.
+(3) In deciding whether to register a compensation declaration, the chief executive is entitled to rely on the information in the declaration as sufficient evidence that compensation has been provided to quota owners in accordance with sections 186ZN and 186ZQ, unless the chief executive has notice of evidence to the contrary.
 
 ### 186ZI Period within which aquaculture agreements must be lodged for registration
 (1) An aquaculture agreement must be lodged with the chief executive for registration—
-  (a) on the approved form; and
-  (b) within 6 months after,—
-    (i) where an offer of authorisations is to be made under section 165E of the Resource Management Act 1991, the date referred to in section 186ZF(5); or
-    (ii) where space in the coastal marine area is subject to applications to which section 165BC of the Resource Management Act 1991 applies, the date referred to in section 186ZF(6); or
-    (iii) the date on which a notice of receipt is given under section 15(3) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+  (a) on the approved form and be accompanied by the prescribed fee; and
+  (b) within 6 months after the notification of the reservation under section 186H(2)(a) in relation to the coastal permit concerned.
 (2) However, the chief executive may give a person a further 3 months to lodge an aquaculture agreement if the chief executive is satisfied that—
-  (a) the person has taken reasonable steps to obtain the consent of all the fishers whose consent is required; and
+  (a) the person has taken reasonable steps to obtain the consents required; and
   (b) the person requires further time to obtain all the consents.
 (3) An extension of time may be granted under subsection (2) only—
   (a) once to a person in respect of aquaculture activities in the same area; and
   (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)(b).
 (4) The period of 6 months referred to in subsection (1)(b) does not include—
   (a) any extension of the time granted under subsection (2); and
-  (b) the period beginning with the day on which an application to the High Court is made under section 186ZG(1) and ending on the day on which the High Court gives its decision.
-(5) This section applies subject to section 15 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+  (b) the period beginning with the day on which an application to the High Court is made under section 186ZG(1) and ending on the day on which the High Court gives its decision; and
+  (c) the period beginning with the day on which proceedings are brought seeking judicial review of the chief executive's aquaculture decision and ending on the day on which the proceedings are finally disposed of.
+(5)
+
+### 186ZIA Period within which compensation declaration must be lodged for registration
+(1) A compensation declaration must be lodged with the chief executive for registration—
+  (a) on the approved form and be accompanied by the prescribed fees; and
+  (b) within 6 months after the date of the notification of the reservation under section 186H(2)(a) in relation to the coastal permit concerned.
+(2) However, the chief executive may give a person a further 3 months to lodge a compensation declaration if the chief executive is satisfied that—
+  (a) the person has taken reasonable steps to provide compensation to quota owners in accordance with sections 186ZN and 186ZQ; and
+  (b) the person requires further time to provide the compensation.
+(3) An extension of time may be granted under subsection (2) only—
+  (a) once to a person in respect of aquaculture activities in the same area; and
+  (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)(b).
+(4) The period of 6 months referred to in subsection (1)(b) does not include—
+  (a) any extension of time granted under subsection (2); and
+  (b) the period beginning on the day on which arbitration proceedings are commenced and ending on the day on which the arbitrator makes a determination under section 186ZP(5) or, if the arbitrator does not make a determination under that provision, the day on which the arbitrator makes a determination or decision under section 186ZP(6)(a) or (b); and
+  (c) the period beginning with the day on which proceedings are brought seeking judicial review of the chief executive's aquaculture decision and ending on the day on which the proceedings are finally disposed of.
 
 ### 186ZJ No proceedings to be taken against chief executive
-(1) No civil or criminal proceedings are to be brought against the chief executive in respect of any decision of the chief executive under section 186ZH or section 186ZI.
+(1) No civil or criminal proceedings are to be brought against the chief executive in respect of any decision of the chief executive under section 186ZH, 186ZHA, 186ZI, 186ZIA, or 186ZM.
 (2) However, subsection (1) does not apply in relation to proceedings seeking, under Part 1 of the Judicature Amendment Act 1972, judicial review of a decision by the chief executive.
 
 ### 186ZK Chief executive must notify regional council of certain matters
@@ -3545,26 +3602,91 @@ In this subpart, unless the context otherwise requires, aquaculture agreement me
 (2) The matters are—
   (a) the name of the holder of an aquaculture agreement registered by the chief executive and the area that the agreement relates to:
   (b) an application made under section 186ZG:
-  (c) an extension of time given under section 186ZI:
-  (d) when the period for lodging aquaculture agreements has expired, including any period extended under section 186ZI:
-  (e) that no aquaculture agreements have been lodged at the expiry of the period for lodging them, if that is the case:
-  (f) any application for judicial review of a decision of the chief executive in relation to aquaculture agreements.
+  (c) an extension of time given under section 186ZI or section 186ZIA:
+  (d) when the period for lodging aquaculture agreements or compensation declarations has expired, including any period extended under section 186ZI or section 186ZIA, as the case may be:
+  (e) that no aquaculture agreements or compensation declarations have been lodged at the expiry of the period for lodging them, if that is the case:
+  (f) any application for judicial review of a decision of the chief executive in relation to aquaculture agreements or compensation declarations:
+  (g) the name of the person who made a compensation declaration registered by the chief executive and the area the declaration relates to.
 
 ### 186ZL Memorials
-(1) Subsection (2) applies if—
-  (a) a regional council gives notice under—
-    (i) section 165G(2)(a) of the Resource Management Act 1991 in relation to available space in an aquaculture management area; or
-    (ii) section 165G(2)(c) of the Resource Management Act 1991 in relation to space in the coastal marine area that is subject to an application to which section 165BC of that Act applies; and
-  (b) the space is subject to a reservation in relation to commercial fishing.
-(2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation.
+(1) Subsection (2) applies if the chief executive makes a reservation in relation to commercial fishing for stocks subject to the quota management system under section 186E or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation on the date of the notification under section 186H(2)(a).
 (3) A memorial must be to the effect that—
-  (a) the chief executive has made a reservation under section 186E or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
-  (b) as a result, an aquaculture agreement can be registered under this Part; and
-  (c) if an agreement is registered, fishing may be affected by the allocation of space in the area subject to the reservation for aquaculture activities.
-(4) A memorial recorded in a register under subsection (2) that relates to a notice referred to in—
-  (a) subsection (1)(a)(i) must be cancelled on the expiry of the period specified in section 186ZI(1)(b)(i):
-  (b) subsection (1)(a)(ii) must be cancelled on the expiry of the period specified in section 186ZI(1)(b)(ii).
-(5) If a memorial recorded in a register under subsection (2) applies to space that is the subject of an authorisation allocated to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004, the memorial does not expire until the end of the period specified in section 186ZI(1)(b)(iii).
+  (a) the chief executive has made a reservation in relation to commercial fishing for stocks subject to the quota management system under section 186E or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
+  (b) as a result, an aquaculture agreement, or compensation declaration, can be registered under this Part; and
+  (c) if an agreement or a declaration is registered, fishing may be affected by aquaculture activities being undertaken in the area subject to the reservation.
+(4) A memorial recorded in a register under subsection (2) must be cancelled on the expiry of the period specified in section 186ZI(1)(b) or 186ZIA(1)(b) or any extension of those periods under section 186ZI(4) or 186ZIA(4).
+(5)
+
+**Pre-request aquaculture agreements**
+
+### 186ZM Pre-request aquaculture agreements
+(1) A person who has applied for a coastal permit to undertake aquaculture activities in the coastal marine area may, before a regional council makes a request under section 114 of the Resource Management Act 1991 for an aquaculture decision in relation to the coastal permit, lodge a pre-request aquaculture agreement in relation to the area covered by the application with the chief executive for registration.
+(2) The pre-request aquaculture agreement must be in the approved form, be accompanied by the prescribed fee, and—
+  (a) relate to 1 or more stocks subject to the quota management system; and
+  (b) contain the consents required under subsection (3) to the exclusion of the stock from consideration by the chief executive when making an aquaculture decision in relation to the area covered by the application if the coastal permit is granted; and
+  (c) be accompanied by information showing that each registered quota owner had a reasonable opportunity to consider whether to consent.
+(3) A pre-request aquaculture agreement must contain, as at 5 pm on the day before the date on which the agreement is lodged for registration, the consent, for each stock included in the agreement, of the registered quota owners of the stock holding not less than 75% of the quota shares for the stock.
+(4) A person who wishes to lodge a pre-request aquaculture agreement with the chief executive for registration must, at least 20 working days before lodging the agreement, give notice of the person’s intention to lodge the agreement—
+  (a) to each quota owner of stock that is included in the agreement; and
+  (b) by a notice published in a newspaper circulating in the locality of the proposed coastal permit the agreement relates to.
+(5) After a pre-request aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end—
+  (a) if the application for the coastal permit they relate to is declined or withdrawn; or
+  (b) if the application is granted, when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with section 165ZH of the Resource Management Act 1991.
+(6) Sections 186ZH and 186ZK apply with any necessary modifications as if references to an aquaculture agreement were references to a pre-request aquaculture agreement and references to section 186ZF were references to section 186ZM.
+(7) A quota holder for a stock, which is the subject of a registered pre-request aquaculture agreement, who did not consent to the agreement is entitled to receive from the applicant in proportion to the quota holder's shareholding of the stock equivalent entitlements and benefits (whether financial or otherwise), to those that were agreed between the applicant and the persons who consented to the agreement.
+(8) The High Court may make such orders or give such directions as it thinks fit for the purposes of subsection (7).
+(9) An order or direction under subsection (8) must not prevent or delay the chief executive making an aquaculture decision.
+
+**Compensation**
+
+### 186ZN Compensation to be provided by coastal permit holder to affected quota owners if aquaculture agreement not lodged
+(1) This section applies if—
+  (a) the chief executive has, in relation to a coastal permit, made a reservation in relation to commercial fishing of quota management stock; and
+  (b) the holder of the coastal permit has not lodged an aquaculture agreement in respect of the stock before the expiry of the period specified in section 186ZI(1)(b) or any extension of that period under section 186ZI(2), subject in either case to section 186ZI(4).
+(2) If the holder of the permit wishes to undertake aquaculture activities authorised by the permit, the holder must provide to each affected quota owner compensation for the loss of value of the owner's affected quota as determined by an arbitrator appointed in accordance with section 186ZO.
+(3) In subsection (2), quota owner means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is notified in the Gazette under section 186H(2)(a).
+
+### 186ZO Submission to arbitration
+(1) The holder of a coastal permit may submit to an arbitrator a request to determine the amount of compensation to be provided under section 186ZN and the provisions of the Arbitration Act 1996 (other than those relating to the appointment of an arbitrator) apply as if this section were an arbitration agreement.
+(2) For the purposes of the arbitration, an arbitrator is to be appointed—
+  (a) by agreement between the holder of the coastal permit and all the quota owners; but
+  (b) if they cannot agree, then by the President of the Arbitrators and Mediators Institute of New Zealand Incorporated or a person authorised by the President.
+
+### 186ZP Arbitrator to determine preliminary question about economic value of proposed aquaculture activities
+(1) Before determining the compensation to be provided to quota owners or a class of quota owners, an arbitrator must first determine the question in subsection (2).
+(2) The question is: which of the following is of materially greater economic value to New Zealand:
+  (a) the proposed aquaculture activities; or
+  (b) the fishing in relation to which the chief executive has made a reservation.
+(3) The arbitrator must determine the question on the basis of data and analysis provided by—
+  (a) the holder of the coastal permit; and
+  (b) the quota owners concerned.
+(4) In determining the question, the arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)(a).
+(5) The arbitrator must determine the compensation payable to quota owners if the arbitrator determines the question in favour of the proposed aquaculture activities.
+(6) The arbitrator must not determine the compensation payable to quota owners if the arbitrator—
+  (a) determines the question in favour of the fishing in relation to which the chief executive has made a reservation; or
+  (b) decides that the question cannot be determined one way or the other.
+
+### 186ZQ Determination of compensation
+(1) In determining the compensation to be awarded to quota owners, an arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)(b).
+(2) For the purposes of section 186ZR(3)(a)(ii), the holder of the coastal permit and quota owners may submit proposals to the arbitrator that set out the maximum extent to which complementary use may be made of the site concerned for particular quota stocks and aquaculture activities.
+(3) The level of compensation provided under subsection (1) must be the same for each quota share for each quota stock.
+(4) The compensation awarded under subsection (1) must—
+  (a) be provided to the persons holding quota for the fish stock subject to the reservation; and
+  (b) be provided only to quota owners as defined in section 186ZN(3).
+(5) If, after the arbitrator has made an award, the holder of the coastal permit decides not to proceed with the aquaculture activities, then the holder of the permit must pay the quota owners' reasonable costs and expenses, as determined by the arbitrator, for participating in the arbitration.
+
+### 186ZR Regulations relating to compensation
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing—
+  (a) a methodology for determining the question in section 186ZP(2); and
+  (b) for the purposes of section 186ZQ, a methodology for calculating the loss in value of affected quota due to the aquaculture activities authorised by a coastal permit.
+(2) The methodology prescribed under subsection (1)(a) must set out the type of data and analysis required for determining whether the proposed aquaculture activities or the fishing in respect of which the chief executive has made a reservation is of greater economic value to New Zealand.
+(3) The methodology prescribed under subsection (1)(b) must—
+  (a) provide for compensation to be calculated in proportion to the impact on fishing, including—
+    (i) increased fishing costs and any consequential disruption costs as a result of the proposed aquaculture activities, including a sum by way of solatium to fishing interests for any adjustments required as a result of the impact of the aquaculture activities; and
+    (ii) any complementary uses that might exist for the site in accordance with any submissions made under section 186ZQ(2); and
+    (iii) the loss in value of affected quota, but only in relation to that part of the relevant average annual catch that is estimated would be reduced if the proposed aquaculture activities were to proceed; and
+  (b) provide for the calculation of compensation to be based on the size of the affected quota holding and the corresponding loss of quota value, including by reference to any recent transfers of the quota or associated annual catch entitlement.
 
 ## Part 10 — Recordkeeping, reporting, disposal of fish, and provisions relating to taking and possession of fish for purpose of sale
 
@@ -5159,6 +5281,7 @@ An auditor must, before disclosing information to the Minister under section 296
     (ii) the amounts of the fees or charges, or the method or rates (including hourly rates) by which they are to be assessed, which may differ depending on whether or not an application is processed on an urgent basis:
     (iii) the persons liable to pay the fees or charges:
     (iv) the circumstances in which the Minister or the chief executive may remit or waive payment of the whole or any part of the fees or charges:
+  (ma) without limiting paragraph (m), prescribing fees and charges payable under this Act in respect of the functions of the chief executive in relation to aquaculture activities or proposed aquaculture activities in the coastal marine area:
   (n) creating offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and providing for the imposition of fines not exceeding $100,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences:
   (na) prescribing infringement offences against this Act (which offences may not be offences of taking or possession of fish by a commercial fisher):
   (nb) prescribing the form of infringement notices and infringement offence reminder notices:
@@ -5296,7 +5419,7 @@ Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply 
   (b) the application or request must be supported by such evidence or information as may be specified in the approved form:
   (c) the prescribed fee or charge (if any) must be paid in respect of the application or request.
 (2) The chief executive may, but does not have to, accept an application or request if it does not comply with subsection (1).
-(3) The lodging of an aquaculture agreement for registration under section 186ZH is to be treated as a request for the purposes of this section.
+(3) The lodging of an aquaculture agreement for registration under section 186ZH or a pre-request aquaculture agreement for registration under section 186ZM is to be treated as a request for the purposes of this section.
 
 ### 305C Chief executive may require additional information
 (1) The chief executive may require an applicant or a person who makes a request under this Act to provide such relevant additional information or evidence as the chief executive considers necessary on reasonable grounds to enable the chief executive to consider the applicant's application or request.
