@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-10-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -107,6 +107,7 @@ In this Act, financial service means any of the following financial services:
     (ii) as a promoter:
   (ia) acting in any of the following capacities (within the meaning of those terms under section 2(1) of the Securities Act 1978) in respect of securities offered to the public:
     (i) as a trustee:
+    (ia) as a statutory supervisor:
     (ii) as a unit trustee:
     (iii) as a superannuation trustee:
     (iv) as a manager:
@@ -944,3 +945,4 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 | --- | --- | --- |
 | Financial Markets Authority | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
+| Financial Markets Authority | Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees | Securities Trustees and Statutory Supervisors Act 2011 |
