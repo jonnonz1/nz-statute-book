@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2010-03-30_
+_Consolidation as at 2011-10-01_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -19,39 +19,28 @@ In this Act, unless the context otherwise requires,—
   - **allocate** , in relation to settlement assets,—
     (a) means to determine the settlement assets to be transferred to an iwi aquaculture organisation; but
     (b) does not include the transfer of those assets to the iwi aquaculture organisation
+  - **anticipated new space** means the amount of space in the coastal marine area that the Minister anticipates will become new space after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011
   - **aquaculture activities** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **aquaculture agreement** has the same meaning as in section 186ZD of the Fisheries Act 1996
-  - **aquaculture management area** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **authorisation** has the same meaning as in section 165A of the Resource Management Act 1991
+  - **aquaculture settlement area** means space in the coastal marine area declared in a Gazette notice under section 12 to be an aquaculture settlement area
+  - **authorisation** has the same meaning as in section 165C of the Resource Management Act 1991
   - **coastal marine area** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **coastal permit** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **commercial aquaculture** means an aquaculture activity undertaken for the purpose of sale
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
+  - **iwi** has the same meaning as in the Maori Fisheries Act 2004
   - **iwi aquaculture organisation** means an iwi aquaculture organisation recognised under section 33
-  - **new space** , in relation to an aquaculture management area,—
-    (a) means—
-      (i) available space as defined in section 165A of the Resource Management Act 1991; and
-      (ii) space in the aquaculture management area that, at the date on which the relevant regional council identifies the new space under section 9(1), is subject to—
-        (A) an application for occupation of the coastal marine area for the purpose of an aquaculture activity that was made after 31 December 2004 and before the close of 9 May 2006; or
-        (B) an application to which section 150B(2) of the Resource Management Act 1991 applies; but
-    (b) does not include space that is pre-commencement space as defined in section 20; and
-    (c)
-    (d) does not include space in an aquaculture management area if, before the space is made available for applications for coastal permits or allocations of authorisations, the regional council complied with section 9(1); and
-    (da) does not include space in an aquaculture management area if the space is in a proposed regional coastal plan or in a proposed change to a regional coastal plan, and the space is in an aquaculture management area in the operative regional coastal plan; and
-    (e) does not include space in an aquaculture management area if—
-      (i) the regional coastal plan provides for the space to be used only in emergencies; and
-      (ii) the space may be used only by registered fish farmers who hold coastal permits to undertake aquaculture activities in the coastal marine area; and
-      (iii) the space may be used by the fish farmers referred to in subparagraph (ii) only while the space to which their coastal permits relate cannot be used for aquaculture activities; but
-    (f) does include space if—
-      (i) the space was in an aquaculture management area in a regional coastal plan; and
-      (ii) the space was new space for the purposes of section 9(1); and
-      (iii) authorisations and coastal permits have been allocated or granted in respect of the space, including the trustee; and
-      (iv) the space subsequently ceases to be in an aquaculture management area; and
-      (v) all coastal permits granted in respect of the space have expired and no further coastal permits have been granted in respect of the space; and
-      (vi) the space is included in an aquaculture management area in a subsequent regional coastal plan
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **new space** —
+    (a) means space that, after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011, first becomes subject to a coastal permit to occupy the space for the purpose of aquaculture activities that has commenced under section 116A of the Resource Management Act 1991; and
+    (b) does not include—
+      (i) space that is pre-commencement space as defined in section 20; or
+      (ii) space in respect of which a regional council is or was required to comply with sections 44B to 44D and, if necessary, section 44E of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+      (iii) any space that has been transferred to the trustee as a settlement asset before the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011
   - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **public notice** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **recognised iwi organisation** has the same meaning as in section 5 of the Maori Fisheries Act 2004
+  - **region** means the region of a regional council or the district of a unitary authority under the Local Government Act 2002
   - **regional agreement** means an agreement of a kind described in section 29A (whether entered into before, on, or after the date of commencement of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010)
   - **regional council** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **reservation** has the same meaning as in section 186C of the Fisheries Act 1996
@@ -67,7 +56,8 @@ In this Act, unless the context otherwise requires,—
 
 ### 5 Meaning of settlement assets
 (1) In this Act, unless the context otherwise requires, settlement assets—
-  (a) means authorisations relating to aquaculture activities, coastal permits to occupy space for aquaculture activities, or the financial equivalent of the authorisations or the permits, transferred or paid or to be transferred or paid to the trustee under this Act; and
+  (a) means authorisations relating to aquaculture activities, coastal permits to occupy space for aquaculture activities, or the financial equivalent of the authorisations or the permits, transferred or paid or to be transferred or paid to the trustee under this Act or the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
+  (aa) includes any authorisations provided to the trustee by a regional council in accordance with an Order in Council under section 165K, or a notice in the Gazette under section 165N, of the Resource Management Act 1991, for the purpose of giving effect to the Crown's obligations under this Act; and
   (ab) includes payments of money and the transfer of any other benefit to the trustee or an iwi aquaculture organisation under a regional agreement; and
   (b) includes any authorisation held by the trustee, an iwi aquaculture organisation, or a company under the Companies Act 1993 wholly owned by 1 or more iwi aquaculture organisations in the same region if—
     (i) the authorisation was transferred in exchange for an authorisation referred to in paragraph (a) or received under a previous transfer to which this paragraph applied; and
@@ -98,86 +88,119 @@ In this Act, unless the context otherwise requires,—
   (b) the existence of rights and interests of Maori in commercial aquaculture activities on or after 21 September 1992:
   (c) the quantification or the adequacy of the benefits to Maori provided by or under this Act.
 
-**Allocation of authorisations to trustee for new space for aquaculture activities**
+### 6A Relationship of Act to Marine and Coastal Area (Takutai Moana) Act 2011
+(1) Nothing done under or for the purposes of this Act is to be treated as a matter that may be taken into account in determining, under subpart 3 of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011, whether customary marine title exists in a specified area of the common marine and coastal area.
+(2) Without limiting subsection (1), the provision of authorisations under section 13 is not to be used—
+  (a) as evidence that an applicant group did not hold a specified area of the common marine and coastal area in accordance with tikanga for the purposes of section 58(1)(a) of the Marine and Coastal Area (Takutai Moana) Act 2011; or
+  (b) as evidence of a substantial interruption of the exclusive use and occupation of a specified area of the common marine and coastal area for the purposes of section 58(1)(b) of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
-### 7 Purpose of sections 9 to 18
-The purpose of sections 9 to 18 is to provide for the allocation of authorisations in respect of 20% of new space in aquaculture management areas.
+**Provision and transfer of settlement assets to trustee that are representative of 20% of new space**
 
-### 8 Sections 9 to 18 not to apply in certain cases
-Sections 9 to 18 do not apply to an aquaculture management area in a regional coastal plan if—
-  (a) the plan was notified before the commencement of this Act; and
-  (b) to the extent that the rules in the plan provide for space in the aquaculture management area to be available for the transfer of coastal permits for aquaculture activities.
+### 7 Purpose of sections 8 to 18
+The purpose of sections 8 to 18 is to require the Crown to provide for, and transfer to the trustee, settlement assets that are representative of 20% of the new space.
 
-### 9 Allocation of authorisations to trustee
-(1) Before a regional coastal plan or a change to a regional coastal plan that provides for aquaculture activities in new space becomes operative, the regional council must, by public notice, identify 20% of the new space for allocation to the trustee.
-(2) However, a regional council may, for the purposes of subsection (1), identify new space that comprises or includes new space in the region concerned in an aquaculture management area established under section 165C(1)(b) of the Resource Management Act 1991.
-(3) The new space identified under subsection (1) must be representative of all the new space being established in the region by the regional coastal plan or the change to the regional coastal plan.
-(4) The regional council must allocate to the trustee authorisations for the new space identified under subsection (1) as soon as practicable after the date on which the new space becomes available for applications for coastal permits or allocation of authorisations.
-(5) For the purposes of this section, new space that is subject to an application to which section 150B(2) of the Resource Management Act 1991 applies must be treated as available for allocation of authorisations on the operative date of the regional coastal plan concerned.
-(6) If new space in an aquaculture management area includes space that is subject to a reservation relating to commercial fishing, the representative space allocated to the trustee must include 20% of the new space that is subject to the reservation and that is representative of all the new space subject to a reservation.
-(7) In identifying whether space is representative for the purposes of this section, a regional council must have regard to—
-  (a) the overall productive capacity of the new space available for applications for coastal permits or the allocation of authorisations; and
-  (b) the provisions of the plan that relate to the new space available for applications for coastal permits or the allocation of authorisations.
-(8) An application to which section 150B(2) of the Resource Management Act 1991 applies is cancelled on and from the operative date of the plan to the extent that the space to which it applies as been identified as the subject of an authorisation to be allocated to the trustee under subsection (1) or has been identified as part of an aquaculture management area established under section 165C(1)(b) of the Resource Management Act 1991.
-(9) This section applies subject to sections 10 and 11.
+### 8 Crown’s obligations apply on regional basis
+The Crown’s obligations under sections 9 to 18 apply and must be satisfied on the basis that they apply separately to each region.
 
-### 10 Space to be allocated must be of economic size
-(1) The new space identified under section 9 must be of an economic size.
-(2) However, if it is not possible for a regional council to comply with subsection (1), the regional council must identify new space that is of an economic size even though the new space is not representative.
-(3) However, if it is not possible for a regional council to comply with subsection (2), the regional council must identify new space that comprises a single area.
-(4) New space identified under subsection (2) or subsection (3) must not have less than average productive capacity compared with the new space it was originally intended to be representative of.
+### 9 Crown’s obligations in respect of new space
+(1) The Crown must ensure that the trustee is provided with settlement assets that are representative of 20% of the new space by way of 1 or more of the following:
+  (a) the provision of authorisations to apply to occupy space in the coastal marine area for the purpose of aquaculture activities and any payment required by section 13(4):
+  (b) the payment of a financial equivalent of that space:
+  (c) entering into 1 or more regional agreements under section 10.
+(2) The settlement assets provided under subsection (1)(a) must be representative of 20% of the anticipated new space.
 
-### 11 Allocation of authorisations to trustee in relation to staged developments and harbours
-(1) For the purposes of section 9, if the new space available for applications for coastal permits or allocation of authorisations in an aquaculture management area includes space in a staged development or a harbour, then—
-  (a) to comply with section 9(1), the public notice given by the regional council must identify 20% of the new space separately for each stage of the staged development or harbour; and
-  (b) to comply with section 9(3), that space must be representative of the new space available at each stage of the staged development or harbour; and
-  (c) to comply with section 9(4), the regional council must allocate to the trustee authorisations for that space.
-(2) The identification of space in a staged development under section 9(1) is to be treated as an interim identification and any necessary adjustments may be made at the time that authorisations for the space for that stage are made available for applications for coastal permits or allocation of authorisations.
-(3) If the space to which a staged development applies is not made available for the allocation of authorisations or applications for coastal permits, the regional council must not allocate authorisations for that space to the trustee.
-(4) In this section,—
-  - **harbour** means a harbour listed in Schedule 2
-  - **staged development** means provision in a regional coastal plan or the Resource Management Act 1991 for space in an aquaculture management area to become available for application for coastal permits or allocation of authorisations on a date later than the operative date of the regional coastal plan.
+### 10 Regional agreements relating to new space
+(1) The Crown may enter into 1 or more agreements (including by deed) in respect of 1 or more regions if the Crown and the parties referred to in section 29A(2) all agree that the Crown’s obligations under section 9 will be satisfied in respect of the regions on the terms set out in the agreement or the agreements.
+(2) Section 29A(3), (4), (6), and (7) apply to an agreement entered into under this section.
+(3) An agreement under this section may provide for settlement of the Crown’s obligations on any basis acceptable to the Crown and the other parties.
 
-### 12 Appeal to Environment Court against regional council's decision
-(1) The following persons may appeal to the Environment Court against a decision of a regional council under any of sections 9, 10, or 11:
-  (a) an iwi aquaculture organisation:
-  (b) a recognised iwi organisation:
-  (c) any other person who has an interest in aquaculture activities in the region concerned greater than the public generally.
-(2) An appeal under this section must be filed within 15 working days after the public notice is given under section 9(1).
-(3) The Environment Court may confirm, amend, or cancel the decision of the regional council appealed against.
+### 11 Settlement in negotiation period
+(1) The Crown must use its best endeavours to negotiate and enter into regional agreements under section 10 that provide for the Crown to meet its obligations under section 9.
+(2) The Crown must do so within the following periods:
+  (a) within 2 years after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 for the following:
+    (i) the Northland region:
+    (ii) the east coast of the Waikato region, which is to be treated as a separate region:
+    (iii) the Tasman region:
+    (iv) the Marlborough region:
+  (b) for all other regions, whichever is the later of the following:
+    (i) within 3 years after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011; or
+    (ii) within 2 years after the receipt of the first resource consent application for the purpose of aquaculture activities after the commencement of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (not being an application to which section 165ZH of the Resource Management Act 1991 applies).
+(3) The Minister may, by notice in the Gazette, extend a period specified in subsection (2).
+(4) The Minister may not give a notice under subsection (3) unless the Minister—
+  (a) has consulted the trustee and the iwi aquaculture organisations, mandated iwi organisations, or recognised iwi organisations with whom the regional agreement under section 10 is being negotiated; and
+  (b) is satisfied that reasonable steps have been taken to negotiate an agreement and that the proposed extension is likely to enable a regional agreement under section 10 in respect of the initial settlement period to be entered into.
+(5) If, at the conclusion of the relevant period specified in subsection (2) (or any extension), there is no regional agreement under section 10 that relates to settlement in a region, the Crown must—
+  (a) arrange, in accordance with section 14, for authorisations in any relevant aquaculture settlement areas in the region to be provided to the trustee in accordance with section 9(1)(a); but
+  (b) if insufficient authorisations are available to be provided to the trustee to meet the Crown’s obligations as set out in section 9, pay the difference to the trustee in accordance with section 9(1)(b).
 
-### 13 Certain provisions of Resource Management Act 1991 do not apply
-(1) Section 165J(2), (4), and (7) of the Resource Management Act 1991 does not apply to the allocation of authorisations under section 9.
-(2) No Order in Council may be made under section 165O of the Resource Management Act 1991 for the purposes of this Act.
+### 12 Gazetting space for settlement purposes
+(1) For the purposes of preserving space to be used for meeting the Crown’s obligations under section 9, the Minister may, by notice in the Gazette, declare space in the coastal marine area to be an aquaculture settlement area that is required to meet the obligations.
+(2) The Minister—
+  (a) may, by notice in the Gazette, add to or remove space from an aquaculture settlement area; and
+  (b) must, if the Crown’s obligations are settled in respect of a region, remove, by notice in the Gazette, the space from an aquaculture settlement area that is not required to meet the obligations.
+(3) Section 165E of the Resource Management Act 1991 applies in respect of applications for coastal permits made in an aquaculture settlement area.
+(4) In determining whether an aquaculture settlement area will be representative for the purposes of meeting the Crown's obligations under section 9, the Minister must take into account—
+  (a) the suitability of the space for aquaculture activities; and
+  (b) the overall productive capacity of the anticipated new space available for aquaculture activities in each region.
+(5) To avoid doubt, the Minister may exercise his or her powers under this section before the preparation of a plan under section 14.
 
-### 14 Application for coastal permits for occupation of new space subject to reservation relating to commercial fishing
-(1) This section applies to new space if—
-  (a) authorisations for the new space have been allocated to the trustee under section 9; and
-  (b) the new space is subject to a reservation relating to commercial fishing.
-(2) The only person who may apply for a coastal permit to occupy the new space for aquaculture activities is the holder of—
-  (a) an authorisation for new space; and
-  (b) an aquaculture agreement registered under section 186ZH of the Fisheries Act 1996.
+### 13 Allocation of authorisations in aquaculture settlement area
+(1) This section applies if the Crown is required, either under a regional agreement under section 10 or by section 11(5), to provide authorisations for space in an aquaculture settlement area to the trustee.
+(2) The Minister must direct the regional council in whose region the relevant aquaculture settlement area is located to provide authorisations for aquaculture activities in the space to the trustee (whether or not the regional coastal plan would otherwise require a different allocation).
+(3) A regional council must comply with a direction made under subsection (2).
+(4) As soon as practicable after giving a direction under subsection (2), the Minister must,—
+  (a) if an assessment under section 14(4)(d)(iv) shows a difference in value under that provision, consult the trustee about whether a payment of the difference is required; and
+  (b) if the Minister decides that such a payment should be made, make the payment to the trustee.
+(5) Clause 3(1)(b) of Schedule 1 does not apply to the provision of authorisations under this section.
+(6) To avoid doubt, section 165R of the Resource Management Act 1991 applies in relation to the provision of authorisations under this section.
 
-### 15 Time within which iwi aquaculture organisation may lodge aquaculture agreement
-(1) This section applies if—
-  (a) authorisations for new space have been allocated to the trustee under section 9; and
-  (b) the new space is subject to a reservation relating to commercial fishing.
-(2) The trustee must notify in writing the chief executive of the Ministry of Fisheries as soon as practicable after—
-  (a) the trustee has recognised iwi aquaculture organisations for all the iwi with an interest in the authorisations; and
-  (b) the trustee has determined the entitlements for all those iwi in relation to the regional coastline or harbour to which the aquaculture management area belongs.
-(3) The chief executive must, as soon as practicable after receiving the notice, notify in writing the trustee and every iwi aquaculture organisation and the regional council concerned of the receipt of the notice.
-(4) A notice given by the chief executive under subsection (3) has the same effect as if the notice were given under section 165G(2)(a) of the Resource Management Act 1991.
+### 14 Preparation of plan
+(1) The Minister must, by 31 December 2012, have started preparing a plan that—
+  (a) provides an assessment of the progress made by the Crown in complying with section 9; and
+  (b) to the extent that the Crown has not complied with section 9, provides how the Crown is going to comply with that provision; and
+  (c) establishes processes and methods for determining the value of the settlement assets to be delivered under section 9.
+(2) In preparing the plan, the Minister must consult—
+  (a) the trustee; and
+  (b) all iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations—
+    (i) whose area of interest includes a part of the coastal marine area; and
+    (ii) in relation to which the Crown has not, by 31 December 2012, satisfied its obligations under this Act.
+(3) As soon as practicable after completing the plan, the Minister must provide copies to the relevant regional council, the trustee, and the relevant iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations.
+(4) Without limiting subsection (1)(c), the processes and methods must—
+  (a) avoid increasing the demand for coastal permits, which would increase the value of space; and
+  (b) reduce the risk of collusion; and
+  (c) be cost effective for the Crown; and
+  (d) enable an assessment to be made of the following:
+    (i) the amount of anticipated new space in the region; and
+    (ii) the value that would be representative of each of the types of aquaculture expected to be developed in the anticipated new space in the region; and
+    (iii) the overall productive capacity of the anticipated new space available for aquaculture activities in each region; and
+    (iv) the difference in value between—
+      (A) the costs of obtaining, pursuant to an authorisation granted under this Act, a resource consent under the Resource Management Act 1991 that could commence under section 116A of that Act; and
+      (B) the costs of obtaining the resource consent pursuant to an authorisation had the authorisation been granted in relation to an aquaculture management area as at 1 January 2005.
 
-### 16 When authorisations allocated to trustee lapse
-(1) Section 165N of the Resource Management Act 1991 does not apply to settlement assets.
-(2) However, a settlement asset that is an authorisation does lapse if the space that is subject to the authorisation ceases to be part of an aquaculture management area.
-(3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under section 165M of the Resource Management Act 1991.
+### 15 Review of plan
+(1) The Minister must begin a review of the plan prepared under section 14—
+  (a) by 31 December 2017; and
+  (b) after that date, at intervals of not more than 5 years.
+(2) However, the Minister must begin a review of the plan prepared under section 14 at any time that it appears that the amount of anticipated new space is likely to change significantly.
+
+### 16 Response to review of plan
+(1) If the plan prepared under section 14 or a review of the plan prepared under section 15 shows that the Crown needs to take action in order to meet its obligations under section 9, the Crown may do so under section 9(1)(a), (b), or (c), as appropriate.
+(2) Before taking action under subsection (1), the Crown must consult—
+  (a) the trustee; and
+  (b) the relevant iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations of affected iwi.
+
+### 16A When authorisations allocated to trustee lapse
+(1) Section 165T of the Resource Management Act 1991 does not apply to settlement assets.
+(2) However, a settlement asset that is an authorisation does lapse if—
+  (a) a resource consent application for aquaculture activities has been declined in respect of the space that is subject to the authorisation; or
+  (b) a resource consent has been cancelled under section 116A(3) or (7) of the Resource Management Act 1991.
+(3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under section 165S of the Resource Management Act 1991.
 
 ### 17 Expiry, lapsing, or cancellation of coastal permit to occupy space for aquaculture activities
 (1) This section applies if—
   (a) the trustee, iwi aquaculture organisation, or a company under the Companies Act 1993 wholly owned by 1 or more iwi aquaculture organisations in the region holds a coastal permit for space that is a settlement asset; and
   (b) the coastal permit expires, lapses, or is cancelled.
-(2) The holder of the coastal permit is to be treated as if the holder holds an authorisation allocated under section 9 in relation to the space that was subject to the coastal permit.
+(2) The holder of the coastal permit is to be treated as if the holder holds an authorisation allocated under section 44 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the space that was subject to the coastal permit.
 
 ### 18 Limitations on disposal of settlement assets
 (1) The trustee must not transfer settlement assets except to—
@@ -211,7 +234,7 @@ The Crown's obligations under sections 22 to 31 apply and must be satisfied on t
 (1) The Crown must ensure that the trustee is provided with space in the coastal marine area for the purpose of aquaculture activities equivalent to 20% of pre-commencement space.
 (2) The Crown must use its best endeavours to comply with subsection (1) by the close of 31 December 2014.
 (3) Subsection (1) must be complied with in 1 or more of the following ways:
-  (a) by the making of Orders in Council under section 25:
+  (a)
   (b) by purchasing and transferring to the trustee on or after 1 January 2008 established marine farms:
   (ba) by entering into a regional agreement:
   (c) by paying to the trustee on or after 1 January 2013 amounts equivalent, in part or in full, to the value of the pre-commencement space.
@@ -219,34 +242,27 @@ The Crown's obligations under sections 22 to 31 apply and must be satisfied on t
 (4) To avoid doubt, subsection (3) does not require the Crown at any particular time to comply with subsection (1) in any particular way or combination of ways specified in subsection (3).
 
 ### 23 Preparation of plan
-(1) The Minister of Fisheries must, by 31 December 2007, have started preparing a plan that—
+(1) The Minister must, by 31 December 2007, have started preparing a plan that—
   (a) provides an assessment of the progress made by the Crown in complying with section 22; and
   (b) to the extent that the Crown has not complied with section 22, provides how the Crown is going to comply with that provision.
 (2) In preparing the plan, the Crown must consult all iwi aquaculture organisations and recognised iwi organisations—
   (a) whose area of interest includes a part of the coastal marine area; and
   (b) in relation to which the Crown has not, by 31 December 2007, satisfied its obligations under this Act.
-(3) As soon as practicable after completing the plan, the Minister of Fisheries must provide copies to the trustee, iwi aquaculture organisations, and recognised iwi organisations.
+(3) As soon as practicable after completing the plan, the Minister must provide copies to the trustee, iwi aquaculture organisations, and recognised iwi organisations.
 
 ### 24 Review of plan
-The Minister of Fisheries must, by 31 December 2012, have started a review of the plan prepared under section 23.
+The Minister must, by 31 December 2012, have started a review of the plan prepared under section 23.
 
 ### 25 Additional allocation of space to iwi
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Fisheries, direct a regional council to—
-  (a) identify, at the same time that the council identifies space under section 9 and in addition to the space identified under section 9, a specified percentage (being not more than 20%) of the new space available for application for coastal permits or allocation of authorisations; and
-  (b) allocate authorisations for the identified new space to the trustee.
-(2) The Minister may make a recommendation at any time after the commencement of this Act, but if the Order in Council is made within 3 months before the regional coastal plan concerned becomes operative, the Order in Council does not apply to the identification of space for the trustee under section 9.
-(3) An Order in Council made under subsection (1) does not affect any allocation advertised, or application for a coastal permit made, before the Order in Council comes into force.
-(4) New space identified under this section must not include any new space that is subject to a reservation relating to commercial fishing.
-(5) New space identified under this section must be representative of all new space being established by the regional coastal plan concerned. For the purposes of this section, sections 9(7), 10, 11, and 12 apply with all necessary modifications.
-(6) This section does not apply to space in an aquaculture management area established in response to a request under section 165Z of the Resource Management Act 1991.
+[Repealed]
 
 ### 26 Regional Council may retain proportion of tender remuneration
-If new space to be allocated by tender is allocated to the trustee under section 9 or section 25, a regional council may retain a proportion of the tender remuneration calculated in accordance with the following formula:a =b100% − c × 0.5where—ais the money that the regional council may retainbis the total tender money received in the tender concernedcis the percentage of space allocated to the trustee.
+[Repealed]
 
 ### 27 Purchase of coastal permits by the Crown
 (1) The Crown may purchase coastal permits for the purpose of complying with section 22.
 (2) The Crown must use its best endeavours to ensure that on 31 December 2014 the average value of all coastal permits for a region or harbour listed in Schedule 2 purchased by it and transferred to the trustee during the period beginning on 1 January 2008 and ending on the close of 31 December 2014 is not less than the average value of all coastal permits authorising the occupation of coastal space for aquaculture in the region or harbour.
-(3) Before purchasing a coastal permit under subsection (1), the Minister of Fisheries must establish processes and methods for determining the appropriate value of the coastal permit.
+(3) Before purchasing a coastal permit under subsection (1), the Minister must establish processes and methods for determining the appropriate value of the coastal permit.
 (4) Without limiting subsection (3), the processes and methods must—
   (a) avoid increasing demand for coastal permits which would increase the value of the space; and
   (b) reduce the risk of collusion among sellers of coastal permits; and
@@ -254,7 +270,7 @@ If new space to be allocated by tender is allocated to the trustee under section
   (d) assess the average current value of space in the part of the coastal marine area concerned.
 
 ### 28 Payment of financial equivalent
-Before making a payment under section 22(3)(c), the Minister of Fisheries must have regard to section 27(2) and must go through the process and apply the methods referred to in section 27(3) and (4) to establish what the appropriate payment should be.
+Before making a payment under section 22(3)(c), the Minister must have regard to section 27(2) and must go through the process and apply the methods referred to in section 27(3) and (4) to establish what the appropriate payment should be.
 
 ### 29 Purchase of coastal permits to occupy space for aquaculture activities, including purchase of improvements
 (1) If the Crown purchases a coastal permit to occupy space for aquaculture activities and the purchase includes improvements in the space, the Crown—
@@ -312,10 +328,20 @@ Before making a payment under section 22(3)(c), the Minister of Fisheries must h
 (3) An iwi aquaculture organisation must not undertake commercial aquaculture activities except through a separate enterprise that is responsible to the organisation.
 
 ### 33 Recognition of iwi aquaculture organisations
-The trustee must recognise an iwi aquaculture organisation and record its recognition in the iwi aquaculture register only if—
+(1) The trustee must recognise an iwi aquaculture organisation and record its recognition in the iwi aquaculture register only if—
   (a) the iwi aquaculture organisation is a mandated iwi organisation under the Maori Fisheries Act 2004; and
   (b) the trustee is satisfied that the constitution of the organisation authorises the organisation to act on behalf of its iwi in relation to aquaculture claims and settlement assets under this Act; and
   (c) in the case of a joint mandated iwi organisation (as defined in section 5 of the Maori Fisheries Act 2004), the trustee is satisfied that the constitution of the organisation includes a process for determining the division of settlement assets between the organisation and a withdrawing group (as defined in section 19 of that Act).
+(2) The trustee must recognise a new iwi aquaculture organisation and record its recognition in the iwi aquaculture register in place of another iwi aquaculture organisation (an existing iwi aquaculture organisation) if—
+  (a) the new iwi aquaculture organisation is entitled to be recognised under subsection (1); and
+  (b) before becoming a mandated iwi organisation under the Māori Fisheries Act 2004, the existing iwi aquaculture organisation notified the members of the iwi of the proposed replacement and of the effect of that replacement in terms of subsections (3) and (4).
+(3) On and from the time when the new iwi aquaculture organisation is recognised in place of the existing iwi aquaculture organisation under subsection (2), all rights and interests of the existing iwi aquaculture organisation under this Act become the rights and interests of the new iwi aquaculture organisation.
+(4) Without limiting subsection (3),—
+  (a) any regional agreement entered into under section 10 by the existing iwi aquaculture organisation is to be treated as having been entered into by the new iwi aquaculture organisation; and
+  (b) any entitlement, claim, agreement, or written statement in respect of the allocation of settlement assets made or entered into by the existing iwi aquaculture organisation is to be treated as having been made or entered into by the new iwi aquaculture organisation; and
+  (c) any settlement assets held by the existing iwi aquaculture organisation become the settlement assets of the new iwi aquaculture organisation; and
+  (d) any settlement assets held by an enterprise under section 32(3) for the existing iwi aquaculture organisation are to be held for the new iwi aquaculture organisation.
+(5) To avoid doubt, section 50 does not apply to settlement assets that become the settlement assets of the new iwi aquaculture organisation by subsections (3) and (4).
 
 **Maori Commercial Aquaculture Settlement Trust**
 
@@ -327,7 +353,8 @@ The purpose of the trust is to—
   (a) receive settlement assets from the Crown or regional councils; and
   (b) hold and maintain settlement assets on trust until they are transferred to an iwi aquaculture organisation; and
   (c) allocate settlement assets to iwi on the basis of a model set out in this Act; and
-  (d) facilitate steps by iwi to meet the requirements for the allocation of settlement assets.
+  (d) facilitate steps by iwi to meet the requirements for the allocation of settlement assets; and
+  (e) perform any functions that are necessary or desirable to facilitate consultation between the Crown and iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations for the purposes of sections 8 to 18.
 
 ### 36 Annual plan
 The trustee must prepare an annual plan.
@@ -349,7 +376,8 @@ The trustee is the trustee of the trust.
   (g) notifying coastal endpoints in the Gazette.
 (2) The trustee may undertake additional activities for related or ancillary purposes (such as facilitating and co-ordinating the development and use of settlement assets, and representing the interests of iwi) if the iwi concerned agree to the trustee doing so.
 (2A) The trustee may also enter into a regional agreement or otherwise agree to be bound by a regional agreement, and perform obligations and exercise rights under or in relation to the agreement.
-(3) The reasonable costs and expenses of the trustee in performing its duties under subsection (1) or its obligations referred to in subsection (2A) are to be paid out of money appropriated by Parliament for that purpose.
+(2B) The trustee, in performing its functions under section 35(e), must consult the iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations of those iwi that it considers, on reasonable grounds, have an interest in the relevant region.
+(3) The reasonable costs and expenses of the trustee in performing its duties under subsection (1) or its obligations referred to in subsections (2A) and (2B) are to be paid out of money appropriated by Parliament for that purpose.
 
 ### 39 Reporting requirements of trustee
 (1) In measuring its performance against the annual plan, the trustee must report annually, not later than 5 months after the end of each financial year, to iwi aquaculture organisations, recognised iwi organisations, and the chief executive of the Ministry of Fisheries.
@@ -404,12 +432,17 @@ The iwi aquaculture register must be available for access upon request by—
 (4) The trustee may amend a determination to give effect to a written agreement referred to in section 45(4) to the extent that the agreement relates to settlement assets under a regional agreement that was entered into after the written agreement and, if it does so, the amendment becomes a determination of settlement assets allocation entitlements.
 
 ### 45 Allocation of assets to iwi of region
-(1) For the purposes of this section and sections 46 to 51, in the case of the Waikato and Manawatu-Wanganui regions, the east coast and west coast of each region are to be treated as separate regions.
+(1) For the purposes of this section and sections 46 to 51,—
+  (a) in the case of the Waikato and Manawatu–Wanganui regions, the east coast and west coast of each region are to be treated as separate regions:
+  (b) in any case where the boundaries of a region change after settlement assets are created but before they are allocated, the settlement assets must be allocated on the basis of the boundaries of the region as at the time the settlement assets were created.
 (2) Settlement assets must be allocated—
   (a) only to iwi whose territory abuts the coastline of the region in which the assets are situated; and
   (b) in accordance with settlement assets allocation entitlements determined and registered under section 31.
 (3) The trustee must not determine settlement assets allocation entitlements in relation to a region until all iwi entitled to make a claim for assets in the region have had iwi aquaculture organisations recognised by the trustee.
-(4) During the 12 months after the trustee has recognised iwi aquaculture organisations for all the iwi of a region, the trustee may determine settlement assets allocation entitlements only on the basis of a written agreement of all the iwi aquaculture organisations for the region.
+(4) During the period specified in subsection (4A), the trustee may determine settlement assets allocation entitlements only on the basis of a written agreement of all the iwi aquaculture organisations for the region.
+(4A) The period is 12 months after—
+  (a) the trustee has recognised iwi aquaculture organisations for all the iwi of the region; and
+  (b) the first of the settlement assets for the region has been allocated to the trustee.
 (5) Before determining the settlement assets allocation entitlements on the basis of a written agreement referred to in subsection (4), the trustee must be satisfied that all iwi aquaculture organisations for the region are parties to the agreement.
 
 ### 46 Criteria for agreement
@@ -418,7 +451,9 @@ In reaching an agreement for the purposes of sections 48 and 49, the iwi aquacul
   (b) the desirability of allocating settlement assets that are of an economic size.
 
 ### 47 Basis of allocation of settlement assets
-(1) If by the end of the 12-month period specified in section 45(4) the iwi aquaculture organisations for a region have not made a written agreement for all of the settlement assets of the region, the trustee must determine, in accordance with this section and Schedule 1, settlement assets allocation entitlements for any settlement assets for which no written agreement has been made.
+(1) The trustee must determine settlement assets allocation entitlements in accordance with this section and Schedule 1 if,—
+  (a) by the end of the 12-month period specified in section 45(4A), the iwi aquaculture organisations have not made a written agreement; and
+  (b) at any time after the end of the 12-month period specified in section 45(4A), an iwi aquaculture organisation notifies the trustee in writing that it does not intend to enter into a written agreement.
 (2) When allocating coastal settlement assets, the trustee must allocate to each iwi the same proportion of settlement assets for the regional coastline that the iwi coastline bears to the total regional coastline as described in a settlement assets allocation entitlement determined in accordance with section 31 and Schedule 1.
 (3) The trustee must allocate to an iwi whose territory abuts a harbour specified in Schedule 2 settlement assets in the harbour.
 (4) If more than 1 iwi has its territory abutting a harbour specified in Schedule 2, the iwi aquaculture organisations of those iwi must take all reasonable steps—
@@ -450,7 +485,9 @@ In reaching an agreement for the purposes of sections 48 and 49, the iwi aquacul
   (b) obtained the prior approval of not less than 75% of the adult members of the iwi who vote—
     (i) at a general meeting of the iwi aquaculture organisation called for the purpose; or
     (ii) by postal ballot.
-(2) However, subsection (1) does not apply to a transfer of settlement assets by the iwi aquaculture organisation or trustee if the settlement assets are transferred to a company under the Companies Act 1993 that is wholly owned by the iwi aquaculture organisation.
+(2) However, subsection (1) does not apply to a transfer of settlement assets by the iwi aquaculture organisation or trustee if the settlement assets are transferred to a company under the Companies Act 1993 that is wholly owned by—
+  (a) the iwi aquaculture organisation; or
+  (b) the iwi aquaculture organisation and other iwi aquaculture organisations in the region, but only if the transfer is approved by the iwi aquaculture organisation before the settlement assets are transferred.
 (3) A notice given under subsection (1)(a) must specify—
   (a) the approximate proportion of the total value of settlement assets held by the iwi aquaculture organisation that is affected by the proposed transfer; and
   (b) the settlement assets affected by the proposed transfer; and
@@ -512,8 +549,8 @@ If a dispute arises in relation to a matter referred to in section 52 and the pa
   (a) a regional coastal plan is changed; and
   (b) the change has the effect of reducing space available in the coastal marine area for aquaculture activities; and
   (c) the effect of the reduction in relation to settlement assets of an iwi aquaculture organisation in a region is disproportionately greater than the overall reduction of space in the region for aquaculture activities.
-(2) If this section applies, the iwi aquaculture organisation may apply to the Minister of Fisheries to provide for redress.
-(3) If the Minister of Fisheries is satisfied that there has been a disproportionate effect as referred to in subsection (1)(c), the Minister must provide redress by way of financial equivalent.
+(2) If this section applies, the iwi aquaculture organisation may apply to the Minister to provide for redress.
+(3) If the Minister is satisfied that there has been a disproportionate effect as referred to in subsection (1)(c), the Minister must provide redress by way of financial equivalent.
 
 ### 57 Aquaculture settlement register
 (1) The chief executive of the Ministry of Fisheries must keep and maintain an aquaculture settlement register, and enter in the register information prescribed by regulations.
@@ -530,11 +567,11 @@ If a dispute arises in relation to a matter referred to in section 52 and the pa
     (iv) additional requirements in relation to keeping and maintaining the aquaculture settlement register; and
     (v) any other additional requirements in relation to the role of the trustee under this Act; and
   (d) providing for notation referring to settlement space on authorisations and coastal permits transferred to the trustee for allocation to iwi aquaculture organisations.
-(2) Regulations made under subsection (1)(c) may be made only on the recommendation of the Minister of Fisheries after consulting the trustee.
+(2) Regulations made under subsection (1)(c) may be made only on the recommendation of the Minister after consulting the trustee.
 
 ### 59 Certain harbours to be added to Schedule 2
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Fisheries, amend Schedule 2 to add references to Admiralty Bay, Port Gore, and Port Underwood.
-(2) The Minister of Fisheries must make a recommendation under subsection (1) as soon as practicable after the relevant details about Admiralty Bay, Port Gore, and Port Underwood have been determined.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 2 to add references to Admiralty Bay, Port Gore, and Port Underwood.
+(2) The Minister must make a recommendation under subsection (1) as soon as practicable after the relevant details about Admiralty Bay, Port Gore, and Port Underwood have been determined.
 
 ### 60 Amendments to Foreshore and Seabed Act 2004
 ((1)–(4)) Amendment(s) incorporated in the Act(s).
@@ -750,3 +787,17 @@ The calculation of coastline lengths must be based on the following decision rul
 |  | South (Cape Koamaru) | 174°22.957′ | 41°05.389′ |
 | Queen Charlotte South (East and West Head entrance) | North (East Head) | 174°19.358′ | 41°12.748′ |
 |  | South (West Head) | 174°18.913′ | 41°12.918′ |
+
+### 1 Title
+This Act is the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011.
+
+### 2 Commencement
+(1) Section 7(2) and (3) come into force on the day on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on 1 October 2011.
+
+### 7 New heading and sections 7 to 16A substituted
+(1) Amendment(s) incorporated in the Act(s).
+(2) On and from the commencement of this subsection until the commencement of subsection (1), the Minister may by notice in the Gazette declare space in the coastal marine area to be an aquaculture settlement area as if section 12, as inserted by subsection (1), were in force.
+(3) However, no notice in the Gazette under subsection (2) comes into force until—
+  (a) the commencement of subsection (1); or
+  (b) any later date that is specified in the notice.
