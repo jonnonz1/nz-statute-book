@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2011-10-06_
 
 > An Act to restate and reform the law relating to the management of Crown owned minerals
 
