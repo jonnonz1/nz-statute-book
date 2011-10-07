@@ -1,5 +1,5 @@
 # Trade Marks Amendment Act 2011
-_Consolidation as at 2011-09-15_
+_Consolidation as at 2011-10-07_
 
 ### 1 Title
 This Act is the Trade Marks Amendment Act 2011.
