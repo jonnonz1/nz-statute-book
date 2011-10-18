@@ -1,5 +1,5 @@
 # Subordinate Legislation (Confirmation and Validation) Act 2010
-_Consolidation as at 2010-11-26_
+_Consolidation as at 2011-10-18_
 
 ### 1 Title
 This Act is the Subordinate Legislation (Confirmation and Validation) Act 2010.
