@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2007-03-06_
+_Consolidation as at 2011-10-21_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -605,8 +605,8 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 The following messages are not electronic messages for the purposes of this Act:
   (a) voice calls made using—
     (i) a standard telephone service; or
-    (ii) voice-over internet protocol (IP):
-  (b) facsimiles.
+    (ii) voice-over Internet protocol (IP).
+  (b)
 
 ### 2 Definition
 In this Schedule, voice call means, whether or not a recipient responds by way of pressing buttons on a telephone handset, a keyboard, or similar thing,—
