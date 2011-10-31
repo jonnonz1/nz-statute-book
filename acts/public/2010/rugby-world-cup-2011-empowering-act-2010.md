@@ -1,5 +1,5 @@
 # Rugby World Cup 2011 (Empowering) Act 2010
-_Consolidation as at 2010-11-22_
+_Consolidation as at 2011-10-31_
 
 ### 1 Title
 This Act is the Rugby World Cup 2011 (Empowering) Act 2010.
@@ -635,586 +635,198 @@ An approval, a declaration, a test approval or declaration, or a change to the c
 **Purpose**
 
 ### 49 Purpose of this Part
-(1) The purpose of this Part is to make provision for special procedures to apply in circumstances of urgency that, for good reason, were not foreseen.
-(2) The powers conferred by this Part may be exercised only in relation to an activity, facility, or a class of activity or facility—
-  (a) that is necessary for the proper conduct of the Rugby World Cup 2011; and
-  (b) for which an approval could not be granted, in the time available, under any other enactment.
+[Repealed]
 
 ### Subpart 1 — Declarations of status as Rugby World Cup permitted activity and grant of urgent approvals
 
 **Applications**
 
 ### 50 Applications for recommendation of Authority
-(1) Applications may be made to the Authority by a statutory person or body for a recommendation to the Minister, in respect of a specified activity, facility, or class of activity or facility, that an Order in Council be made under section 52 declaring the activity, facility, or class of activity or facility to be a Rugby World Cup permitted activity.
-(2) Applications may also be made to the Authority by any person for a recommendation under section 54 that the Minister grant an urgent approval for an activity or a facility that is necessary for the proper conduct of the Rugby World Cup 2011.
-(3) Applications must—
-  (a) be in writing, in the form and manner prescribed by regulations or as approved by the Minister; and
-  (b) be lodged directly with the Authority; and
-  (c) include, as far as is relevant, the information required by section 22 (which relates to the information to be supplied with applications for approvals and declarations); and
-  (d) in relation to an application made under subsection (1), give particulars relevant to the determination of the Authority under section 51; and
-  (e) in relation to an application under subsection (2), give information relevant to the determination of the Authority under section 54.
+[Repealed]
 
 **Declaration of status as Rugby World Cup permitted activity**
 
 ### 51 Matters relevant to determination of application
-(1) Before the Authority makes a recommendation to the Minister on an application under section 50(1), the Authority must be satisfied that it is reasonable to do so, having regard to—
-  (a) the circumstance of urgency that has arisen; and
-  (b) the nature and significance of the activity or facility to which the regulations, if made, would apply; and
-  (c) the location or area where the regulations, if made, would apply; and
-  (d) the extent (if any) to which the proposed Rugby World Cup permitted activity would be inconsistent with the requirements of—
-    (i) the enactment or statutory planning instrument that would, but for this Part, apply in relation to that activity; and
-    (ii) any relevant rule of law; and
-  (e) the likely impacts on persons or property of the proposed Rugby World Cup permitted activity being undertaken; and
-  (f) any matters relevant to securing public safety; and
-  (g) the extent and intensity of those impacts and whether they are, or are likely to be,—
-    (i) no more than temporary; or
-    (ii) able to be remedied or mitigated; and
-  (h) whether the proposed regulations are necessary—
-    (i) to permit the proper conduct of the Rugby World Cup 2011:
-    (ii) to provide appropriately for hospitality in relation to the Rugby World Cup 2011:
-    (iii) to provide support for the appropriate delivery of services by Rugby New Zealand 2011 Limited; and
-  (i) the likely impact on the proper conduct of the Rugby World Cup 2011 if the regulations are not made; and
-  (j) the matters set out in section 11(2); and
-  (k) any other matter that the Authority considers relevant.
-(2) In determining an application, the Authority must state, with reasons,—
-  (a) whether it recommends that the declaration sought should be granted; and
-  (b) if so, any terms and conditions that it recommends, including—
-    (i) conditions that apply to any of the activities, facilities, or classes of activity or facility to which the declaration relates; and
-    (ii) a condition for a bond to be paid to the administrative secretariat to secure the performance of the conditions of a declaration or test declaration.
+[Repealed]
 
 ### 52 Power to declare Rugby World Cup permitted activities
-(1) The Governor-General may, on the advice of the Minister given after considering the recommendation of the Authority received under section 51, by Order in Council, make regulations to declare as a Rugby World Cup permitted activity—
-  (a) a specified activity or facility:
-  (b) a specified class of activity or facility.
-(2) However, before the Minister may give advice to the Governor-General under subsection (1), the Minister must, in relation to the recommendation of the Authority, consult—
-  (a) the Minister for Economic Development; and
-  (b) each Minister of the Crown who would, but for this subpart, be responsible for the enactment that would otherwise apply to the proposed activity or facility or class of activity or facility.
+[Repealed]
 
 ### 53 Contents of regulations
-(1) Regulations made under section 52(1) must—
-  (a) describe the activity, facility, or class of activity or facility to which they apply; and
-  (b) describe the location or area where they apply; and
-  (c) state the date on which the regulations commence, which must not be earlier than 1 August 2011; and
-  (d) state the date on which the regulations expire, which must not be later than 31 October 2011; and
-  (e) prescribe any conditions that are appropriate, having regard to—
-    (i) the recommendation of the Authority given under section 51; and
-    (ii) any advice received by the Minister under section 52(2); and
-    (iii) the need, as far as practicable, to—
-      (A) secure public safety; and
-      (B) avoid, control, or mitigate any adverse impacts of a Rugby World Cup permitted activity on the environment.
-(2) Regulations may include requirements for, or relating to, matters such as the cessation of an activity or the dismantling or removal of a facility—
-  (a) during the tournament; or
-  (b) after its conclusion.
+[Repealed]
 
 **Grant of urgent approvals**
 
 ### 54 Recommendation of Authority
-(1) Before determining an application made under section 50(2), the Authority must be satisfied that—
-  (a) it is reasonable to do so, having regard to the matters set out in sections 11(2) and 51(1); and
-  (b) the approval is necessary—
-    (i) to secure public safety; or
-    (ii) to avoid seriously compromising the proper conduct of the Rugby World Cup 2011; or
-    (iii) to provide support for the appropriate delivery of services by or through Rugby New Zealand 2011 Limited.
-(2) In determining an application under this section, the Authority must state, with reasons,—
-  (a) whether it recommends that the urgent approval should be granted; and
-  (b) if so, any terms and conditions that it recommends, including a condition for a bond to be paid to the administrative secretariat to secure the performance of the conditions of an urgent approval.
+[Repealed]
 
 ### 55 Granting of urgent approvals
-(1) Before determining whether or not to grant an urgent approval, the Minister must, in relation to the recommendation of the Authority received under section 54(2), consult—
-  (a) the Minister for Economic Development; and
-  (b) each Minister of the Crown who would, but for this subpart, be responsible for the enactment that would otherwise apply to the proposed activity or facility or class of activity or facility.
-(2) The Minister may grant an application for an urgent approval in full or in part, or decline the application.
-(3) In granting an application, the Minister must—
-  (a) specify the date on which the approval commences, which must not be earlier than 1 September 2011; and
-  (b) specify the date on which the approval expires, which must not be later than 31 October 2011; and
-  (c) prescribe any conditions that are appropriate, having regard to—
-    (i) the recommendation of the Authority given under section 54; and
-    (ii) any advice received by the Minister under subsection (1); and
-    (iii) the need, as far as practicable, to—
-      (A) secure public safety; and
-      (B) avoid, control, or mitigate any adverse impacts of a Rugby World Cup permitted activity on the environment.
-(4) The conditions imposed under this section may include conditions as to the cessation of an activity or the dismantling or removal of a facility—
-  (a) during the tournament; or
-  (b) after its conclusion.
-(5) A decision of the Minister under this section is final.
+[Repealed]
 
 ### Subpart 2 — Miscellaneous provisions
 
 **Effect of regulations**
 
 ### 56 Effect of declaration made by Order in Council
-(1) Regulations made under section 52 have full force and effect, for their duration and according to their terms and conditions, despite any restriction, prohibition, or limitation on the relevant activity or facility, or class of activity or facility, under any rule of law, enactment, or statutory planning instrument that would, but for this Part, apply.
-(2) To avoid doubt, an activity undertaken or a facility constructed in reliance on regulations made under this Part does not give rise to, or create, any right to use land after the expiry of the regulations.
+[Repealed]
 
 **Effect of urgent approval**
 
 ### 57 Effect of urgent approval granted by Minister
-(1) An urgent approval granted under section 55 has full force and effect, for its duration and according to its terms and conditions, despite any restriction, prohibition, or limitation on the activity or facility under any rule of law, enactment, or statutory planning instrument that would, but for this Part, apply.
-(2) To avoid doubt, an activity undertaken or a facility constructed in reliance on an urgent approval does not give rise to, or create, any right based on the use of land after the expiry of the approval.
+[Repealed]
 
 **Monitoring, enforcement, and appeal rights**
 
 ### 58 Monitoring, enforcement, and appeals
-(1) The provisions of subpart 5 of Part 3 (which relate to monitoring, enforcement, and offences and penalties) apply to an activity or a facility permitted under this Part as if—
-  (a) a reference to a declaration made under Part 3 were a reference to a Rugby World Cup permitted activity declared by Order in Council in regulations made under this Part; and
-  (b) a reference to an approval granted under that Part were a reference to an urgent approval granted under this Part.
-(2) There is a right of appeal to the High Court, but only on a question of law, against a determination of the Authority on an application for a recommendation to the Minister—
-  (a) made under section 50(1), by the statutory person or body that made the application:
-  (b) made under section 50(2), by the person who made the application.
-(3) An appeal under this section—
-  (a) must be made in accordance with the High Court Rules, except to the extent that those rules are inconsistent with Schedule 2; and
-  (b) is not an appeal to which Rule 20.10(2) of the High Court Rules applies.
+[Repealed]
 
 **Offences and penalties**
 
 ### 59 Offences and penalties
-(1) The provisions of section 47 apply as if a breach of a regulation made under this Part were a breach of a declaration made, or an approval granted, under Part 3.
-(2) The penalties prescribed for offences under Part 3 apply to offences under this Part.
+[Repealed]
 
 ## Part 5 — Rugby World Cup liquor licences
 
 ### Subpart 1 — Preliminary matters
 
 ### 60 Purpose
-(1) The purpose of this Part is to establish a temporary process for licensing the sale and supply of liquor to the public during the period of the Rugby World Cup 2011, as an alternative to the process under the Sale of Liquor Act 1989, whilst having regard to—
-  (a) the significance of the Rugby World Cup 2011 (or any particular part of it), the scale of the hospitality that is needed, and any relevant circumstances, such as the times at which games are scheduled; and
-  (b) the need to ensure that priority is given to—
-    (i) matters of public health and safety; and
-    (ii) the minimisation of harm to persons and property.
-(2) To that end, this Part provides for the Authority—
-  (a) to consider and determine applications for Rugby World Cup liquor licences; and
-  (b) to grant licences subject to terms and conditions that—
-    (i) are appropriate, having regard to the particular circumstances applying during the period of the Rugby World Cup 2011; and
-    (ii) ensure that public health and safety are protected as far as is reasonably practicable during the period of the Rugby World Cup 2011.
-(3) The Sale of Liquor Act 1989 does not apply to, or in relation to, licences issued under this Part, except to the extent that the Sale of Liquor Act 1989 is applied by this Part.
+[Repealed]
 
 ### 61 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **application** includes a group of applications for a Rugby World Cup liquor licence that relate to a specified geographical location
-  - **area** means an area consisting of more than 1 premises or a defined outdoor area that is subject to a Rugby World Cup liquor licence
-  - **inspector** means an inspector appointed under the Sale of Liquor Act 1989
-  - **licensee** means the person to whom a Rugby World Cup liquor licence is granted
-  - **liquor** has the meaning given in section 2 of the Sale of Liquor Act 1989
-  - **manager** has the meaning given in section 80(1)
-  - **permanent club charter** means a charter—
-    (a) granted under section 260(3) of the Licensing Act 1908 or any former Licensing Act; and
-    (b) in force immediately before the commencement of this Part
-  - **premises** means premises subject to a Rugby World Cup liquor licence, and includes temporary premises and ships
-  - **restricted area** , in relation to premises or an area subject to a Rugby World Cup liquor licence, means any part of the premises or area so designated by the Authority where a person under the age of 18 years must not be admitted
-  - **Rugby World Cup liquor licence** and mean a licence issued under this Part and having the purpose and scope set out in section 62
-  - **ship** means a large passenger ship, wherever it is registered, that is—
-    (a) in New Zealand waters at any time between 9 September and 31 October 2011; and
-    (b) being used primarily for the purpose of providing passenger accommodation to persons attending the tournament, whether the passengers—
-      (i) are international passengers or domestic passengers; or
-      (ii) have travelled to New Zealand on that ship or boarded the ship for the first time in New Zealand waters
-  - **supervised area** , in relation to premises or an area subject to a Rugby World Cup liquor licence, means any part of the premises or area so designated by the Authority where a person under the age of 18 years must not be admitted unless accompanied by the person's parents or guardian
-  - **territorial authority** has the meaning given in section 5 of the Local Government Act 2002.
+[Repealed]
 
 ### Subpart 2 — Rugby World Cup liquor licensing scheme
 
 **Purpose and scope**
 
 ### 62 Purpose and scope of Rugby World Cup liquor licence
-(1) A Rugby World Cup liquor licence authorises the licensee—
-  (a) to sell and supply liquor to any person present on premises, or in an area described in a licence, for consumption on those premises or in that area; and
-  (b) to allow the consumption of liquor in accordance with paragraph (a).
-(2) Subsection (1) does not permit the sale or supply of liquor to, or consumption of liquor by, a person under the age of 18 years or a person who is intoxicated.
-(3) A Rugby World Cup liquor licence—
-  (a) comes into force on 9 September 2011 and expires on 31 October 2011, unless the licence specifies a shorter period; and
-  (b) authorises the sale and supply of liquor on the days and during the hours that are specified by the licence; and
-  (c) applies to or in respect of premises or an area defined in the licence as the premises or area where the licence applies.
-(4) The premises or area described in a licence may be 1 or more of the following:
-  (a) single premises:
-  (b) a specified outdoor area, with or without premises, the part or whole of which is defined as an area where a licence applies.
+[Repealed]
 
 **Applications for Rugby World Cup liquor licences**
 
 ### 63 Who may apply for and hold Rugby World Cup liquor licence
-(1) Application may be made for a Rugby World Cup liquor licence by—
-  (a) a person who holds, or is eligible to hold, an on-licence under the Sale of Liquor Act 1989; or
-  (b) a club that holds, or is deemed to hold, a club licence under that Act; or
-  (c) a chartered club that holds a permanent club charter.
-(2) Unless a Rugby World Cup liquor licence is held in respect of a tournament venue, no person may sell or supply liquor at a Rugby World Cup 2011 game or ancillary event at that venue, whether or not a licence is held under the Sale of Liquor Act 1989 for that venue.
-(3) A Rugby World Cup liquor licence granted under this Part in respect of 1 or more premises or areas applies, for the period for which it is granted, instead of the licence or permanent club charter that would, but for this Part, apply to the relevant premises or area.
-(4) To avoid doubt, any licence held under the Sale of Liquor Act 1989 and any permanent club charter that would apply, but for subsection (3), is suspended—
-  (a) to the extent that the licence applies to the premises or area for which the Rugby World Cup liquor licence applies; and
-  (b) for the period for which the Rugby World Cup liquor licence is granted.
+[Repealed]
 
 ### 64 Applications for Rugby World Cup liquor licences
-(1) Applications may be made at any time in accordance with this section for a Rugby World Cup liquor licence to be issued by the Authority.
-(2) Applications made under this section must—
-  (a) be made in writing, in the form and manner prescribed by regulations or as approved by the Authority; and
-  (b) be made by, and in the name of, the person who will hold the licence, if the application is granted; and
-  (c) include an address for service of the applicant; and
-  (d) be lodged for registration with the administrative secretariat; and
-  (e) be accompanied by the deposit that the administrative secretariat may require under section 18.
-(3) Applications must include—
-  (a) information relevant to the matters set out in section 69; and
-  (b) any conditions sought by the applicant; and
-  (c) information as to why the application is made under this Act; and
-  (d) information as to how the premises or area to which the application relates is to be used for the Rugby World Cup 2011; and
-  (e) information on how entry to and exit from the premises or area are to be controlled; and
-  (f) if the application relates to premises, a certificate from the local authority that the proposed use of the premises meets any requirements of—
-    (i) the Resource Management Act 1991; and
-    (ii) the building code made under the Building Act 2004.
-(4) Applications must be forwarded to the Authority by the administrative secretariat on the first working day after being lodged, if the administrative secretariat is satisfied that an application contains the information required by subsection (3).
-(5) If an application does not contain the necessary information, it must be returned to the applicant who, upon payment of any further deposit required by the administrative secretariat, may lodge another application.
-(6) At the same time as the administrative secretariat forwards an application to the Authority, the administrative secretariat must provide a copy of each application to—
-  (a) the constable in charge of the Police station nearest to the premises or area in respect of which the licence is sought; and
-  (b) the Medical Officer of Health of the district within which those premises or that area is situated; and
-  (c) an inspector; and
-  (d) the chief executive of the New Zealand Fire Service.
+[Repealed]
 
 ### 65 Applications under this Part and Part 3 for same activity or approval
-(1) This section applies if an application made under this Part relates to the same activity or facility for which an approval or declaration is also sought under Part 3.
-(2) The applications may be lodged and processed concurrently and considered by the Authority together.
-(3) Section 64 applies to an application for a licence lodged concurrently with an application under Part 3, except that the certificate required by section 64(3)(f) is replaced by the approval or declaration, if granted or made, under Part 3.
+[Repealed]
 
 ### 66 Applications relating to specified geographic locations
-(1) The Authority may, in its discretion, publish notices—
-  (a) inviting applications for Rugby World Cup liquor licences in relation to—
-    (i) premises or areas in a specified geographical location; or
-    (ii) ships; and
-  (b) specifying the date by which all applications in relation to the specified geographical location must be received by the Authority.
-(2) This section does not limit section 64(1).
+[Repealed]
 
 ### 67 Reports to Authority
-(1) When the persons referred to in section 64(6) receive an application from the administrative secretariat, each must—
-  (a) inquire into the application; and
-  (b) report to the Authority in the form and manner prescribed by regulations or as approved by the Authority, stating—
-    (i) whether there is any matter on which he or she opposes the application:
-    (ii) any conditions that he or she considers should be imposed on the licence.
-(2) The Authority may request a further report, if that is necessary in its opinion, on any matter relevant to that person's report on the application.
-(3) Reports must be returned to the Authority as soon as practicable and not later than 15 working days after the date that the application was forwarded by the administrative secretariat under section 64(6).
-(4) The Authority must—
-  (a) provide a copy of each report to the applicant; and
-  (b) make a copy of each report, including any further report, available for inspection at the place specified in the notice given under section 68(1).
+[Repealed]
 
 **Notice**
 
 ### 68 Public notice of applications
-(1) Unless provided otherwise in this Part, the Authority must—
-  (a) give public notice of an application not later than 5 days after the application is lodged with the administrative secretariat; and
-  (b) advise where copies of an application may be inspected.
-(2) However, before notifying an application, the Authority must be satisfied that—
-  (a) the application relates to premises or an area that is to be used for the Rugby World Cup 2011; and
-  (b) granting the licence would promote the purpose of this Part.
-(3) The Authority may notify and determine applications—
-  (a) singly and in the order that they are lodged with the administrative secretariat; or
-  (b) together as a group, in the case of applications that relate to a specified geographical location; or
-  (c) in relation to 1 or more ships.
-(4) If the Authority determines to process a group of applications together,—
-  (a) it must advise the relevant applicants of that intention and give public notice of the applications, at the time and in the manner prescribed by regulations or as the Authority thinks appropriate; and
-  (b) each applicant must comply with subsection (5) in respect of that applicant's application.
-(5) The applicant (and in the case of a group of applications, each applicant) must ensure that notice of an application is attached, in the form and manner prescribed by regulations or as approved by the Authority, to a conspicuous place on or adjacent to the premises or area to which the application relates, unless the Authority agrees, in writing, that it is impracticable or unreasonable to do so.
+[Repealed]
 
 **Matters relevant to determining applications**
 
 ### 69 Matters relevant to objections and determinations
-(1) The matters relevant for the purposes of sections 70, 71, and 75 are—
-  (a) the days on which liquor may be sold or supplied for consumption on the premises or in the area to which the Rugby World Cup liquor licence applies, which must not be outside the period prescribed in section 62(3)(a); and
-  (b) the hours during which liquor may be sold or supplied for consumption on the premises or within the area to which the licence applies; and
-  (c) the nature and location of the premises or area in respect of which the licence is sought; and
-  (d) the applicant's proposals for how the premises or area will be managed during the period for which any licence is granted, including the control of entry to, or exit from, the premises or area; and
-  (e) any parts of the premises or area in respect of which a licence is sought that the applicant proposes should be designated as restricted areas or supervised areas; and
-  (f) the steps that the applicant will take to ensure that the conditions of any licence are observed; and
-  (g) the applicant's proposal to engage in—
-    (i) the sale or supply of goods other than liquor or food; or
-    (ii) the provision of services other than those directly related to the sale or supply of liquor and food; and
-  (h) any matters raised in the reports received by the Authority under section 67.
-(2) The Authority must not take into account any prejudicial effect that the grant of a Rugby World Cup liquor licence may have on the business conducted under any other licence granted under this Part or under the Sale of Liquor Act 1989.
+[Repealed]
 
 **Who may object**
 
 ### 70 Objections
-(1) A person who has an interest greater than that of the general public may object to an application for a Rugby World Cup liquor licence.
-(2) Objections must be made in writing to the Authority, in the form and manner prescribed by regulations or as approved by the Authority, not later than 5 working days after the public notice given under section 68(1).
-(3) Objections may relate only to—
-  (a) the suitability of the applicant:
-  (b) the premises or area for which a licence is sought, whether the application relates to—
-    (i) single premises; or
-    (ii) more than 1 premises in a specified area; or
-    (iii) an area:
-  (c) the matters set out in section 69(1).
-(4) In the case of an applicant who holds or is deemed to hold a current licence under the Sale of Liquor Act 1989 or a permanent club charter, any objection may relate only to—
-  (a) any extension of the premises to which that licence or permanent club charter relates:
-  (b) the matters set out in section 69(1).
+[Repealed]
 
 **Decisions on applications**
 
 ### 71 Grant of unopposed applications without hearing
-(1) The chairperson of the Authority must, without delay, appoint a panel to determine, without a hearing, an application for a Rugby World Cup liquor licence unless—
-  (a) the reports received under section 67 contain matters in opposition to the grant of a Rugby World Cup liquor licence; or
-  (b) an objection is received under section 70.
-(2) In making a determination on whether to grant the application, the Authority must have regard to the matters set out in section 69(1).
-(3) The Authority must notify a determination under subsection (2) not later than 5 working days after the expiry of the period for objections under section 70(2).
+[Repealed]
 
 ### 72 Hearing in case of opposed licence
-(1) This section applies if, in relation to an application,—
-  (a) a report is received under section 67 that includes any matter in opposition to the application; or
-  (b) an objection is received under section 70.
-(2) The Authority must convene a hearing unless—
-  (a) an application or all the applications in a group of applications are withdrawn; or
-  (b) having considered the application and the reports received under section 67, the Authority believes the objection is vexatious or based on grounds outside the scope of this Part; or
-  (c) all persons who have a right to be heard waive that right and it is satisfied that a hearing is not necessary.
-(3) A hearing (if any) must be convened not later than 15 working days after the closing date for objections under section 70.
-(4) The Authority must give not less than 10 working days' written notice of the hearing, advising the date, time, and place of the hearing, to—
-  (a) the applicant or group of applicants; and
-  (b) each objector; and
-  (c) the persons that provided reports under section 67.
-(5) The persons notified under subsection (4)(a) and (b) are entitled to make written submissions.
-(6) Submissions must be lodged with the Authority, in the form and manner prescribed by regulations or as approved by the Authority.
+[Repealed]
 
 ### 73 Right to appear and be heard
-The following persons have a right to appear and be heard in any public hearing convened by the Authority under this Part:
-  (a) the persons who are entitled to make a written submission under section 72(5) and who did so; and
-  (b) the persons notified under section 72(4)(c); and
-  (c) a member of the New Zealand Fire Service established under the Fire Service Act 1975 authorised to undertake fire safety inspections or person authorised by the relevant local authority to do so; and
-  (d) any other person who satisfies the Authority that he or she has a particular interest greater than that of the public generally in the application that is the subject of the hearing.
+[Repealed]
 
 ### 74 Decision on papers
-(1) If the Authority does not hold a hearing, it must determine the matters on the papers, after considering—
-  (a) any reports and objections received in relation to it; and
-  (b) the matters set out in section 69.
-(2) The Authority must—
-  (a) notify its decision within 5 working days of notifying the applicant that there would be no hearing; and
-  (b) if a licence is granted, issue that licence.
+[Repealed]
 
 ### 75 Decision if hearing held
-(1) The Authority must determine the application, after having regard to the matters before it, including those set out in section 69.
-(2) The Authority must, not later than 5 working days after the conclusion of any hearing under section 72, notify its decision in writing, with reasons, to—
-  (a) the applicant, and in the case of a decision on a group of applications, each applicant; and
-  (b) each person who made a submission and was heard at the hearing; and
-  (c) each person or body that exercised the right, or was permitted by the Authority, to appear under section 73.
+[Repealed]
 
 **Licences issued**
 
 ### 76 Issue of licence
-(1) In the case of a successful application, the chairperson must ensure that a Rugby World Cup liquor licence is issued—
-  (a) in the form prescribed by regulations made under this Act; and
-  (b) subject to any requirements imposed as a prior condition of the licence being met.
-(2) The premises or area that is the subject of an application for a licence is not subject to a Rugby World Cup liquor licence until a licence is issued.
-(3) If the Authority considers an application under this Part concurrently with an application under Part 3 in respect of the same premises or area, it must not issue a Rugby World Cup liquor licence in respect of the premises or area until all the necessary approvals have been granted.
+[Repealed]
 
 ### Subpart 3 — Conditions of Rugby World Cup liquor licences
 
 ### 77 Conditions applying to all licences
-(1) A licence granted under this Part is, unless expressly stated otherwise, subject to the following conditions:
-  (a) the licensee must ensure that at all times there is displayed,—
-    (i) on the exterior of the premises or within the area subject to the licence, a sign that is easily read by persons immediately outside the principal entrance of the premises or within the area; and
-    (ii) inside the premises or at a suitable site within the area subject to the licence, so as to be easily read by persons entering the premises or within the area, a copy of the licence and its conditions; and
-  (b) the licensee has available, for consumption on the premises or in the area,—
-    (i) a reasonable range of non-alcoholic refreshments for sale or supply; and
-    (ii) drinking water free of charge; and
-  (c) the licensee is not obliged to sell or supply liquor at any time or to any person.
-(2) The sign required by subsection (1)(a)(i) must state that a Rugby World Cup liquor licence is held in respect of the premises or area and the days and hours of opening that apply under that licence.
-(3) Subsection (1)(c) applies subject to the Human Rights Act 1993.
-(4) If the licensee is the holder of a licence by virtue of the Sale of Liquor Act 1989, the Rugby World Cup liquor licence must be displayed beside the other licence.
-(5) Subsection (4) does not limit section 63(3).
+[Repealed]
 
 ### 78 Other conditions of licences
-(1) In granting any licence under this Part, the Authority must impose conditions relating to the following matters:
-  (a) the days on which liquor may be sold or supplied, which may only be within the period prescribed in section 62(3)(a); and
-  (b) the hours during which liquor may be sold or supplied; and
-  (c) the sale and supply of low-alcohol beverages; and
-  (d) the provision of food for consumption on the premises or in the area to which the licence applies; and
-  (e) actions that are prohibited in order to discourage the excessive consumption of liquor by persons on the premises or in the area; and
-  (f) the maximum number of patrons permitted on the premises or in the area at any one time; and
-  (g) the provision of information about, or assistance with, alternative forms of transport from the premises or area.
-(2) Different conditions may be imposed under subsection (1)(a) and (b) in respect of different parts of the premises or area.
-(3) In granting a licence under this Part, the Authority may impose conditions relating to—
-  (a) the designation of the whole or a specified part or parts of the premises or area to which the licence applies as a restricted area or supervised area:
-  (b) any limits on when liquor may be served, and what quantity or kind of liquor may be served:
-  (c) the types and sizes of vessels in which drinks must be served:
-  (d) information that the licensee must provide to patrons as a means to promote responsible consumption of liquor:
-  (e) the number of security staff that must be in attendance at any time and the means to control access to the premises or area, including an emergency evacuation plan:
-  (f) any other security measures that are required:
-  (g) the payment of a bond to the administrative secretariat to secure compliance with any conditions relating to the mitigation or remedying of any adverse effects to public property arising from a Rugby World Cup liquor licence:
-  (h) other conditions that the Authority considers necessary or desirable to minimise harm to persons or property.
-(4) In the case of a Rugby World Cup liquor licence granted under this Part to a club or a chartered club, the Authority may also impose a condition restricting or otherwise defining the class of persons who may purchase or be served with liquor.
-(5) In determining the conditions to be imposed in respect of any licence, the Authority must have regard to—
-  (a) the purpose of this Part and of this Act; and
-  (b) the days and times when persons are likely to be attending the tournament; and
-  (c) the site of the premises or area in relation to the neighbouring land use.
+[Repealed]
 
 ### 79 Licences under this Part not to affect limitations under Gambling Act 2003
-(1) No class 4 gambling must take place on or in premises or an area subject to a Rugby World Cup liquor licence unless, at the time of the granting of that licence, the premises or area was subject to—
-  (a) a licence under the Sale of Liquor Act 1989 or a permanent club charter; and
-  (b) a class 4 venue licence.
-(2) If a Rugby World Cup liquor licence extends the hours or days when liquor may be sold or supplied for consumption on or in premises or an area that was, at the time of the granting of that licence, subject to a licence granted under the Sale of Liquor Act 1989, no class 4 gambling may take place during those extended hours.
-(3) Subsections (1) and (2) apply despite anything in—
-  (a) the Gambling Act 2003; or
-  (b) a class 4 venue licence.
-(4) Class 4 gambling and class 4 gambling venue licence have the meanings given in section 4(1) of the Gambling Act 2003.
+[Repealed]
 
 ### Subpart 4 — Management
 
 ### 80 Responsibility for management and compliance
-(1) In this Part, manager has the meaning given in section 2 of the Sale of Liquor Act 1989, and the provisions of that Act apply, in relation to a person who is, or may be appointed as, a manager under this Part, as if a reference to—
-  (a) licensed premises were a reference to premises or an area subject to a Rugby World Cup liquor licence; and
-  (b) a licence were a reference to a Rugby World Cup liquor licence.
-(2) The licensee is responsible for ensuring that the management of the premises or area is appropriately carried out in accordance with—
-  (a) the conditions of the licence to which the premises or area is subject; and
-  (b) the provisions of this Part.
-(3) At all times when liquor is sold or supplied to the public on premises or in an area subject to a Rugby World Cup liquor licence,—
-  (a) a manager must be on duty; and
-  (b) the manager is responsible for compliance with—
-    (i) the provisions of this Part; and
-    (ii) the conditions of the Rugby World Cup liquor licence; and
-  (c) the name of the manager must be displayed inside the premises, or within the area, subject to a Rugby World Cup liquor licence and, for the purposes of this Part, the named person is to be treated as the manager of the premises or area at that time; and
-  (d) the licensee must take all reasonable steps to enable the manager to comply with his or her obligations under this Part.
+[Repealed]
 
 ### 81 Further application of Sale of Liquor Act 1989
-(1) The following provisions of the Sale of Liquor Act 1989 apply under this Part:
-  (a) section 223 (which relates to service on licensees and managers); and
-  (b) sections 225 to 225B (which relate to the notification of changes to companies that hold licences); and
-  (c) section 226 (which permits duplicate licences to be issued in certain circumstances); and
-  (d) section 227 (which relates to the voluntary surrender of a licence); and
-  (e) section 228 (which enables a temporary alternative licence to be issued in certain circumstances).
-(2) Those provisions apply as if a reference to—
-  (a) a licensee or manager under the Sale of Liquor Act 1989 were a reference under this Part:
-  (b) the District Licensing Agency, the Licensing Authority, or the Secretary of the District Licensing Agency or Licensing Authority were a reference to the Authority under this Part:
-  (c) licensed premises were a reference to premises or an area subject to a Rugby World Cup liquor licence under this Part.
+[Repealed]
 
 ### Subpart 5 — Enforcement, offences, penalties, and appeal rights
 
 **Enforcement**
 
 ### 82 Powers of inspectors and constables in relation to licensed premises or areas
-(1) The provisions of section 131(1) to (3) of the Sale of Liquor Act 1989 apply to the powers of inspectors to enter premises or an area subject to a Rugby World Club liquor licence.
-(2) The following provisions of the Sale of Liquor Act 1989 apply to the powers of constables in relation to premises or an area subject to a Rugby World Cup liquor licence:
-  (a) sections 173(1) and (2) and 174(1) to (4) (which confer powers for the closure of premises in the case of rioting or fighting); and
-  (b) sections 175(1) to (3) and 176(1) to (3) (which confer powers for constables to enter licensed premises without warrant and to demand information); and
-  (c) sections 177 and 177A (which relate to the execution of a search warrant and confer power to seize samples).
-(3) The provisions of the Sale of Liquor Act 1989 referred to in subsections (1) and (2) apply under this section as if a reference in those sections to—
-  (a) a licence were a reference to a Rugby World Cup liquor licence; and
-  (b) licensed premises were a reference to premises or an area subject to a Rugby World Cup liquor licence; and
-  (c) a licensee or a manager were a reference to a licensee or a manager under this Part; and
-  (d) a provision of the Sale of Liquor Act 1989 were a reference to that Act as applied by this Part.
-(4) An order made under section 173(1) or 174(1) of the Sale of Liquor Act 1989 (which relate to the closure of licensed premises) may have effect from the time it is made until the time that the premises or area would otherwise close within the 24-hour period of the order being made, as provided for by the terms of the Rugby World Cup liquor licence.
+[Repealed]
 
 ### 83 Variation, suspension, or cancellation of licence
-(1) An inspector or constable may, at any time, apply to the Authority for an order to—
-  (a) vary or revoke a condition of a Rugby World Cup liquor licence; or
-  (b) impose any new condition relating to a matter specified in section 69(1); or
-  (c) suspend or cancel a licence.
-(2) The grounds on which an order may be sought are that—
-  (a) the provisions of this Part or the conditions of a licence have been breached:
-  (b) the licensee has used the licence, or permitted the licence to be used, in an improper way:
-  (c) the conduct of the licensee shows that the person is not suitable to hold a licence:
-  (d) the premises or area subject to the licence are being used in a disorderly manner so as to be obnoxious to neighbouring residents or to the public.
-(3) The Authority must, without delay, serve an application lodged under subsection (1) on the licensee of the relevant premises or area.
-(4) The Authority must ensure that—
-  (a) an application is considered and determined within 24 hours of being lodged; and
-  (b) an opportunity to be heard and to call, examine, and cross-examine witnesses is given to—
-    (i) the inspector or constable, as the case may be; and
-    (ii) the licensee.
-(5) If the Authority is satisfied that any ground in subsection (2) is established and that it is desirable to make an order, it must make the appropriate order, as permitted under subsection (1).
-(6) The Authority must, without delay, notify a decision under this section to—
-  (a) the licensee; and
-  (b) the inspector or constable who applied for an order; and
-  (c) each person or body who has responsibility for enforcing the conditions of the Rugby World Cup liquor licence.
+[Repealed]
 
 ### 84 Suspension or cancellation of licence without notice
-(1) If the Authority is of the opinion, in relation to an application made under section 83(1), that the application discloses evidence of a serious breach of one of the grounds under section 83(2), the Authority may, despite section 83(4), and without notice to the licensee, make an order to—
-  (a) suspend the licence for any period that the Authority considers appropriate in the circumstances; or
-  (b) cancel the licence.
-(2) An order made under subsection (1) comes into effect as soon as notice is served on the licensee.
-(3) Notice of the order must also be given in accordance with section 83(6)(b) and (c).
-(4) A licensee may apply to the Authority to set aside an order given under section 83(1) not later than 5 working days after receiving notice of the order under subsection (2) of this section.
-(5) Section 83(4) applies to an application made under subsection (4) of this section as if it were an application under section 83(1).
+[Repealed]
 
 ### 85 Suspension of licence for public health or fire precaution requirements
-(1) This section applies if a Medical Officer of Health (within the meaning of section 2(1) of the Health Act 1956) or a member of the New Zealand Fire Service (established under the Fire Service Act 1975) has reason to believe that persons using premises or an area are likely to be injured or their safety is likely to be endangered because of the failure of the licensee of the premises or area subject to a Rugby World Cup liquor licence to comply with any requirements (other than requirements under the Building Act 2004) relating to—
-  (a) public health; or
-  (b) the escape of people in the event of fire.
-(2) The Medical Officer of Health or the member of the New Zealand Fire Service may apply to the Authority for—
-  (a) immediate suspension or cancellation of the licence; or
-  (b) immediate variation of the conditions of the licence.
-(3) As a matter of urgency, the Authority—
-  (a) must summon the licensee to appear not later than 24 hours after the summons is served, to establish good reasons why the licence should not be suspended, cancelled, or its conditions varied; or
-  (b) may, if the Authority is satisfied, on the evidence of the applicant, that the health and safety of persons using the premises or area are in danger,—
-    (i) suspend the licence until it is satisfied that everything necessary or desirable to remedy the default has been done and there is no further likelihood of danger; or
-    (ii) order the closure of the premises or of the area and cancel the licence; or
-    (iii) vary the conditions of the licence to ensure that the health and safety of persons are not endangered.
-(4) Despite subsection (3), if the Authority is of the opinion that an application under subsection (2) discloses evidence of an immediate and serious risk to the health and safety of any person, the Authority may, without hearing from the licensee, make an order of the kind specified in section 84(1).
-(5) Section 84(2) to (5) apply, with any necessary modifications, to an order made under subsection (4) as if the application were an application made under section 83.
+[Repealed]
 
 **Enforcement of manager's certificate**
 
 ### 86 Suspension or cancellation of manager's certificate
-(1) An inspector or constable may, at any time, apply to the Authority for an order to suspend or cancel a manager's certificate.
-(2) The grounds on which an order may be sought are that—
-  (a) the manager has failed to manage the premises or area subject to a Rugby World Cup liquor licence in a proper manner in accordance with the provisions of this Part and the conditions of the licence:
-  (b) the conduct of the manager shows that the manager is not suitable to hold the certificate.
-(3) The Authority must, without delay, serve an application made under subsection (1) on the manager and on the licensee of the relevant premises or area.
-(4) The Authority must ensure that—
-  (a) an application is considered and determined within 24 hours of being made; and
-  (b) an opportunity to be heard and to call, examine, and cross-examine witnesses is given to—
-    (i) the inspector or constable; and
-    (ii) the manager; and
-    (iii) if appropriate, the licensee.
-(5) If the Authority is satisfied that any ground in subsection (2) is established and that it is desirable to make an order, it must make the appropriate order.
+[Repealed]
 
 **Offences and penalties**
 
 ### 87 Offence of licensee in respect of manager
-(1) A licensee commits an offence and is liable to a fine not exceeding $5,000 who fails, without reasonable excuse,—
-  (a) to appoint a manager for the purposes of section 80; or
-  (b) to ensure compliance with that section.
-(2) However, the licensee is not responsible for an offence against this Part by a manager except if the licensee was a party to the offence.
+[Repealed]
 
 ### 88 Offences by licensee or manager
-(1) The offences under sections 131(5), 154A, 155(1), 161, 164, 165, 166(1), 167, 168, 169, 171, 173(4) and (5), 174(6) and (7), and 175(5) of the Sale of Liquor Act 1989 (offences by a licensee or manager against that Act) are to be treated as if they were offences by a licensee or manager against this Part.
-(2) The penalties prescribed under the sections of the Sale of Liquor Act 1989 referred to in subsection (1) apply under this section as if they were prescribed under this Part.
-(3) The provisions referred to in subsection (1) apply as if a reference to—
-  (a) a licence were a reference to a Rugby World Cup liquor licence under this Part; and
-  (b) a licensee or manager were a reference to a licensee or manager under this Part; and
-  (c) licensed premises or premises were a reference to premises or an area subject to a Rugby World Cup liquor licence under this Part; and
-  (d) the conditions of a licence were a reference to the conditions of a Rugby World Cup liquor licence; and
-  (e) a provision of the Sale of Liquor Act 1989 were a reference to that provision of that Act as applied by this Part.
+[Repealed]
 
 ### 89 Offences by persons other than licensee or manager
-(1) The offences in sections 131(4), 151, 152, 153, 154, 155(2), 160, 162, 163, 166(2), 170, 172, 175(4), and 176(4) of the Sale of Liquor Act 1989 (offences against that Act by persons other than a licensee or manager) are offences against this Part.
-(2) The penalties prescribed in the sections of the Sale of Liquor Act 1989 referred to in subsection (1) apply under this section as if they were prescribed under this Part.
-(3) The provisions referred to in subsection (1) apply as if a reference to—
-  (a) a licence were a reference to a Rugby World Cup liquor licence; and
-  (b) a licensee or manager were a reference to a licensee or manager under this Part; and
-  (c) unlicensed premises were a reference to premises or an area that is not subject to a Rugby World Cup liquor licence; and
-  (d) the conditions of a licence were a reference to the conditions of a Rugby World Cup liquor licence; and
-  (e) a provision of the Sale of Liquor Act 1989 were a reference to that provision of that Act as applied by this Part.
+[Repealed]
 
 ### 90 Matters of evidence
-Sections 178 to 180 of the Sale of Liquor Act 1989 (which relate to matters of evidence) apply, with the necessary modifications, as if the proceedings in relation to offences against the provisions of this Part were offences against the provisions of that Act.
+[Repealed]
 
 ### 91 Other provisions applying to offences and penalties under this Part
-(1) Offences against this Part are punishable on summary conviction.
-(2) On the conviction of a person for an offence against this Part, the Court may declare liquor found in the possession of the offender or on the premises where the offence occurred, together with the containers and packages, to be forfeited to the Crown.
-(3) The exemption under section 157 of the Sale of Liquor Act 1989 applies, with the necessary modification, to the supply of liquor on premises or in an area subject to a Rugby World Cup liquor licence.
-(4) Section 184 of the Sale of Liquor Act 1989 (which relates to the notification of any prosecution or conviction) applies as if the offence against provisions of this Part were an offence against the provisions of that Act.
-(5) The Registrar of the court that entered the conviction must also send a notice of a conviction under this Part to the Authority.
+[Repealed]
 
 **Amendment to Sale of Liquor Act 1989**
 
 ### 92 Amendment to Sale of Liquor Act 1989
-(1) This section amends the Sale of Liquor Act 1989.
-(2) The following section is inserted above the Part 7 heading:Offences under Part 5 of Rugby World Cup 2011 (Empowering) Act 2010
-  To avoid doubt, an offence committed under Part 5 of the Rugby World Cup 2011 (Empowering) Act 2010 may be taken into account, if and to the extent that it is relevant, for the purposes of applying the provisions of this Act.
+[Repealed]
 
 **Infringement offences**
 
 ### 93 Infringement offences under this Part
-Sections 162A to 162D of the Sale of Liquor Act 1989 apply, with any necessary modifications, in relation to the relevant offences under section 89 as they do to offences under sections 162 and 163 of that Act.
+[Repealed]
 
 **Right of appeal on questions of law only**
 
 ### 94 Appeal
-(1) A person or body that applied for a Rugby World Cup liquor licence under this Part may appeal to the High Court, but only on a question of law, if that person or body is dissatisfied with—
-  (a) a decision of the Authority under section 74 or 75 (which relate to the decision to grant or decline a licence); or
-  (b) a decision of the Authority under sections 83 to 85 (which relate to the suspension or cancellation of a licence or the variation of its conditions); or
-  (c) a decision of the Authority under section 86 (which relates to the suspension or cancellation of a manager's certificate); or
-  (d) the conditions imposed on a licence under section 78 (which relates to the imposition of conditions).
-(2) An appeal under this section must be made in accordance with the High Court Rules, except to the extent that those rules are inconsistent with Schedule 2.
+[Repealed]
 
 ## Part 6 — Miscellaneous
 
