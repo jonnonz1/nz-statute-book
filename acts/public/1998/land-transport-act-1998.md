@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-08-09_
+_Consolidation as at 2011-11-05_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -38,7 +38,11 @@ _Consolidation as at 2011-08-09_
     (b) if the longitudinal centre line of an axle of a motor vehicle is less than 1 metre distant from the longitudinal centre line of another axle, the 2 axles are to be treated as 1 axle (a dual axle):
     (c) for the purposes of measuring the distance of a dual axle from any other axle, the measurement must be taken from the longitudinal centre line of that one of the 2 axles comprising the dual axle which is nearer to the axle from which the distance is to be measured
   - **blood specimen** means a specimen of venous blood taken in accordance with normal medical procedures
+  - **blood specimen collecting instrument** means—
+    (a) a needle and syringe; or
+    (b) an instrument of a kind designed for the taking of blood specimens approved by the Minister of Police (after consulting the Science Minister and the Minister of Transport) by notice in the Gazette
   - **blood specimen collecting kit** means a package having endorsed on it or affixed to it or included in it a label indicating that it is a blood specimen collecting kit and that it has been supplied by or on behalf of a laboratory for the time being approved by the Science Minister, by notice in the Gazette, for the purpose of supplying or causing to be supplied blood specimen collecting kits
+  - **blood specimen collecting procedure** means the taking of a blood specimen by a blood specimen collecting instrument in a manner prescribed by the Minister of Police by notice in the Gazette
   - **blood test** means the analysis of a blood specimen
   - **blood test fee** means the fee for the analysis of a blood specimen prescribed by the Minister of Police, by notice in the Gazette, under section 67
   - **breath screening device** means a device of a kind approved for the purpose of breath screening tests by the Minister of Police, by notice in the Gazette
@@ -1789,8 +1793,8 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
 (1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69.
 (2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a medical practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
 (3) If it is not practicable for a blood specimen to be taken from a person by a medical practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a medical practitioner or medical officer if the officer requires the person to do so.
-(4) If a blood specimen taken under this section is insufficient to be divided into 2 parts in accordance with section 74(1),—
-  (a) the person from whom the specimen was taken must permit a medical practitioner or medical officer to take a further blood specimen immediately after being requested to so by the medical practitioner or medical officer; and
+(4) If a blood specimen taken under this section is insufficient for the purposes of the relevant blood specimen collecting procedure,—
+  (a) the person from whom the specimen was taken must permit a medical practitioner or medical officer to take a further blood specimen immediately after being requested to do so by the medical practitioner or medical officer; and
   (b) a further blood specimen so taken is to be treated as part of the original blood specimen taken from the person.
 (5) An enforcement officer may arrest a person without warrant if the person—
   (a) fails or refuses to accompany an enforcement officer to a place when required to do so under this section; or
@@ -1804,39 +1808,37 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
   (a) the medical practitioner who is in immediate charge of the examination, care, or treatment of the person; or
   (b) another medical practitioner or a medical officer.
 (3) The medical practitioner who is in immediate charge of the examination, care, or treatment of the person in a hospital or doctor's surgery—whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
-  (a) may cause a blood specimen to be taken by another medical practitioner or a medical officer; and
+  (a) may take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer; and
   (b) must either take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer, if an enforcement officer requests him or her to do so,—
-(4) If the specimen originally taken is insufficient to be divided into 2 parts in accordance with section 74(1), the medical practitioner who is in immediate charge of the examination, care, or treatment of the person may take or cause to be taken by another medical practitioner or a medical officer a further blood specimen (which further specimen is for the purposes of this Act to be treated as a part of the original blood specimen taken from the person), whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
-(5) Despite subsection (3)(b), a blood specimen may be taken under any provision of this section only if the medical practitioner—
+(4) If the specimen originally taken is insufficient for the purposes of the relevant blood specimen collecting procedure, the medical practitioner who is in immediate charge of the examination, care, or treatment of the person may take or cause to be taken by another medical practitioner or a medical officer a further blood specimen (which further specimen is for the purposes of this Act to be treated as a part of the original blood specimen taken from the person), whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
+(5) Despite subsection (3), a blood specimen may be taken under any provision of this section only if the medical practitioner—
   (a) has reasonable grounds to suspect that the person is in the hospital or doctor's surgery as a result of—
     (i) an accident or incident involving a motor vehicle:
     (ii) an injury or a medical condition arising subsequent to an accident or incident involving a motor vehicle; and
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (c) tells the person (unless the person is unconscious) that the blood specimen is being or was taken under this section for evidential purposes.
 (6) If a blood specimen is taken under this section from a person who is unconscious, the medical practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
-(7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved analyst, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
+(7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
 ### 73A Evidence of controlled drug in blood sample taken under section 72 or 73 may not be used as evidence of use of controlled drugs in prosecutions under Misuse of Drugs Act 1975
 Evidence of a controlled drug in a blood sample taken under section 72 or 73 may not be used as evidence of the use of a controlled drug in a prosecution for an offence under the Misuse of Drugs Act 1975.
 
 ### 74 Procedure for dealing with blood specimens
-(1) A blood specimen taken under section 72 or section 73 must be divided into 2 parts, and—
-  (a) each part must be placed in a separate bottle and the bottle must then be sealed; and
-  (b) each part is a blood specimen for the purposes of this Act.
-(2) One or more preservative substances and anti-coagulant substances may be added to a blood specimen by placing them in the bottle, whether before or after the specimen is taken and placed in the bottle.
-(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, both parts of the blood specimen to an approved analyst for the analysis of one of those parts and the custody of the other.
+(1) A blood specimen taken under section 72 or 73 must be dealt with in accordance with the relevant blood specimen collecting procedure.
+(2)
+(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
 (4) In the case of a blood specimen taken under section 73, the medical practitioner or medical officer by whom the specimen was taken must,—
-  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by registered post, both parts of the blood specimen to an approved analyst for the analysis of one of those parts and the custody of the other; and
-  (b) give the Commissioner a written notification—
-    (i) identifying the approved analyst to whom the parts of the blood specimen were (or are being) delivered or posted; and
+  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure; and
+  (b) if, at the time the blood specimen is taken, there is more than 1 approved laboratory, give the Commissioner a written notification—
+    (i) identifying the approved laboratory to whom the blood specimen was (or is being) delivered or posted; and
     (ii) naming the person from whom the blood specimen was taken.
 (5) If a person from whom a blood specimen was taken wishes to have the specimen analysed by a private analyst,—
   (a) the person (or the person's solicitor or counsel) may apply to the Commissioner in accordance with subsection (7); and
   (b) if the application complies with subsection (7),—
-    (i) the Commissioner, or a person authorised for the purpose by the Commissioner, must forward a copy of the application to the approved analyst to whom the blood specimen taken from the person was delivered or posted under subsection (3) or subsection (4); and
-    (ii) that analyst must send by registered post, personal delivery, or delivery by courier 1 part of that blood specimen to the private analyst specified in the application.
-(6) If an application under subsection (5) does not comply with subsection (7), the Commissioner or authorised person may refuse to forward a copy of the application to the approved analyst.
+    (i) the Commissioner, or a person authorised for the purpose by the Commissioner, must forward a copy of the application to the approved laboratory to whom the blood specimen taken from the person was delivered or posted under subsection (3) or subsection (4); and
+    (ii) that laboratory must send by registered post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
+(6) If an application under subsection (5) does not comply with subsection (7), the Commissioner or authorised person may refuse to forward a copy of the application to the approved laboratory.
 (7) An application under subsection (5)(a) must—
   (a) be made in writing to the Commissioner not later than 28 days after—
     (i) the date on which a summons in respect of an offence against this Act (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
@@ -1844,35 +1846,39 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
     (iii) in any case to which subparagraph (i) or subparagraph (ii) does not apply, the date on which the defendant is first charged in court with any such offence; and
   (b) state the full name and address and the occupation of the person and the date of the alleged offence; and
   (c) identify the private analyst to whom the part of the blood specimen is to be sent and the address of the private analyst.
-(8) A blood specimen sent to an approved analyst under subsection (3) or subsection (4) may be destroyed at any time later than 1 year after the date the specimen was so sent.
+(8) A blood specimen sent to an approved laboratory under subsection (3) or subsection (4) may be destroyed at any time later than 1 year after the date the specimen was so sent.
 
 **Evidential provisions**
 
 ### 75 Certificates in blood-alcohol proceedings
 (1) Except as provided in section 79, production of a certificate to which this section applies in proceedings for an offence against this Part is sufficient evidence, in the absence of proof to the contrary, of such of the matters as are stated in the certificate and of the sufficiency of the authority and qualifications of the person by whom the certificate is made and, in the case of a certificate referred to in subsection (5), of the person who carried out the analysis.
 (2) This section applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying that—
-  (a) a specimen of venous blood was taken by the practitioner or medical officer in accordance with normal medical procedures from a person named in the certificate; and
-  (b) the specimen was divided by the practitioner or medical officer into 2 parts, or the specimen was insufficient for division and the practitioner or medical officer took a further specimen; and
-  (c) the practitioner or medical officer placed and sealed in a separate bottle each part or specimen (as the case may be); and
-  (d) each such separate bottle was received by the practitioner or medical officer in a sealed blood specimen collecting kit; and
-  (e) the practitioner or medical officer handed each such separate bottle to an enforcement officer named in the certificate.
+  (a) a specimen of venous blood was taken by the practitioner or medical officer in accordance with the blood specimen collecting procedure specified in the certificate from a person named in the certificate; and
+  (b) for the purposes of the specified blood specimen collecting procedure,—
+    (i) the specimen was sufficient; or
+    (ii) the specimen was insufficient and the practitioner or medical officer took a further specimen; and
+  (c) in accordance with the specified blood specimen collecting procedure, the practitioner or medical officer kept the specimen in the appropriate container or containers (as applicable); and
+  (d) each such container was received by the practitioner or medical officer in a sealed blood specimen collecting kit; and
+  (e) the practitioner or medical officer handed each such container to an enforcement officer named in the certificate.
 (3) This section also applies to a certificate purporting to be signed by a medical practitioner and certifying that—
   (a) the person named in the certificate was in a hospital or doctor's surgery; and
   (b) the practitioner, being a medical practitioner in immediate charge of the examination, care, or treatment of that person, took a blood specimen or caused a blood specimen to be taken by any other medical practitioner or any medical officer from the person under section 73; and
-  (c) at the time the blood specimen was taken from the person, the practitioner had reasonable grounds to suspect that the person was in the hospital or doctor's surgery as a result of an accident involving a motor vehicle; and
+  (c) the practitioner has reasonable grounds to suspect that the person is in the hospital or doctor’s surgery as a result of—
+    (i) an accident or incident involving a motor vehicle:
+    (ii) an injury or a medical condition arising subsequent to an accident or incident involving a motor vehicle; and
   (d) before taking the blood specimen or causing the blood specimen to be taken from the person, the practitioner examined the person and was satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (e) the practitioner either—
     (i) told the person that the blood specimen was being or had been taken under section 73 for evidential purposes; or
     (ii) if the person was unconscious when the specimen was taken, notified the person in writing as soon as practicable that the blood specimen was taken under section 73 for evidential purposes.
 (4) This section also applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying—
   (a) all the matters referred to in paragraphs (a) to (d) of subsection (2); and
-  (b) that the practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, both parts of the specimen (or both specimens) to a specified approved analyst in accordance with section 74; and
-  (c) that the practitioner or medical officer notified the Commissioner in writing of the approved analyst to whom the parts of the specimen (or the specimens) were delivered or posted.
+  (b) that the practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, the specimen to a specified approved laboratory in accordance with section 74; and
+  (c) that, if at the time the blood specimen was taken more than 1 approved laboratory exists, the practitioner or medical officer has notified the Commissioner in writing of the approved laboratory to which the specimen was delivered or posted.
 (5) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that—
-  (a) a blood specimen in a sealed bottle was, on a specified date, delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) for analysis, and was delivered by registered post or personal delivery or delivery by courier; and
+  (a) a blood specimen in a sealed container was, on a specified date, delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) for analysis, and was delivered by registered post or personal delivery or delivery by courier; and
   (b) on analysis of the blood specimen by an analyst specified in the certificate, the presence or a specified proportion of alcohol or of a drug, or both (as the case may be), was found in the specimen; and
   (c) no such deterioration or congealing was found as would prevent a proper analysis.
-(6) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that, following an application under section 74, a part of a blood specimen was posted to a specified private analyst by registered post, personal delivery, or delivery by courier, and addressed to the private analyst at the address given in the application.
+(6) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that, following an application under section 74, a blood specimen was posted to a specified private analyst by registered post, personal delivery, or delivery by courier, and addressed to the private analyst at the address given in the application.
 (7) For the purposes of this section, it is not necessary for the person making a certificate to specify his or her entitlement to give the certificate if the certificate indicates that the person belongs to the general category of persons who may make such a certificate.
 
 ### 75A Certificates of compliance for evidential breath-testing devices
@@ -1893,7 +1899,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (1) In proceedings for an offence against this Act it is to be presumed, in the absence of proof to the contrary, that,—
   (a) if a certificate referred to in section 75 names a person having the same name, address, and occupation as the defendant as the person from whom the specimen of blood was taken, the specimen was taken from the defendant:
   (b) every approved analyst who signed a certificate referred to in section 75(5) was duly authorised to sign it:
-  (c) if the bottle in which a blood specimen (or part of a blood specimen) was placed was received by a medical practitioner or medical officer in a sealed blood specimen collecting kit, the bottle contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
+  (c) if the container in which a blood specimen (or part of a blood specimen) was placed was received by a medical practitioner or medical officer in a sealed blood specimen collecting kit, the container contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
 (2) On the request of a person from whom a blood specimen has been taken under section 72 or section 73, or of the person's solicitor or counsel, copies of any certificates referred to in subsection (1) that relate to that blood specimen must be supplied by the prosecutor to the person making the request.
 
 ### 77 Presumptions relating to alcohol-testing
@@ -1916,11 +1922,11 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 ### 79 Circumstances in which certificate not admissible in proceedings
 (1) No certificate referred to in subsection (2) or subsection (3) or subsection (4) of section 75 (which certificates relate to the taking of a blood specimen by a medical practitioner or medical officer) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that the medical practitioner or medical officer who gave the certificate ought to appear as a witness at the hearing.
 (2) No certificate referred to in section 75(5) (which certificate is given by an approved analyst and relates to the presence or proportion of alcohol, a drug, or both, found to be in a blood specimen) is admissible in evidence in proceedings for an offence against this Act if—but this subsection does not apply in respect of a specimen destroyed under the authority of section 74(8) before the date of the application.
-  (a) application has been made in accordance with section 74 for 1 part of the blood specimen to be sent to a private analyst; and
-  (b) that part of the specimen has not been sent to the private analyst in compliance with the application;—
-(3) No certificate referred to in subsection (5) or subsection (6) of section 75 (which certificate is given by an approved analyst and relates to the presence or proportion of alcohol, a drug, or both, in a blood specimen, or to the sending of 1 part of a specimen to a private analyst) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that,—
+  (a) application has been made in accordance with section 74 for the blood specimen to be sent to a private analyst; and
+  (b) the specimen has not been sent to the private analyst in compliance with the application;—
+(3) No certificate referred to in subsection (5) or subsection (6) of section 75 (which certificate is given by an approved analyst and relates to the presence or proportion of alcohol, a drug, or both, in a blood specimen, or to the sending of a specimen to a private analyst) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that,—
   (a) in the case of a certificate referred to in that subsection (5), the person who made the analysis or the approved analyst who gave the certificate ought to appear as a witness at the hearing; or
-  (b) in the case of a certificate referred to in that subsection (6), the person who posted or delivered the part of the specimen, or the person who gave the part of the specimen to the courier, or the approved analyst who gave the certificate ought to appear as a witness at the hearing.
+  (b) in the case of a certificate referred to in that subsection (6), the person who posted or delivered the specimen, or the person who gave the specimen to the courier, or the approved analyst who gave the certificate ought to appear as a witness at the hearing.
 (4) The court may not make an order under subsection (3) unless the application made by the defendant under that subsection is accompanied by an affidavit, sworn by the private analyst who is specified in the defendant's application under section 74, to the effect that,—
   (a) since the date given to the private analyst as the date on which application was made under section 74 for the sending to the analyst of a blood specimen relating to the defendant, the analyst has not received any such specimen; or
   (b) the blood specimen received by the private analyst relating to the defendant—
@@ -1928,7 +1934,7 @@ If a certificate referred to in section 143 is produced in proceedings for an of
     (ii) was suitable for analysis but, for specified reasons, that analysis was not carried out; or
     (iii) was suitable for analysis and that analysis was carried out but, for specified reasons, the results of the analysis are not available; or
   (c) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain,—
-    (i) in the case of a defendant who was younger than 20 at the time of the commission of the offence, not more than 30 milligrams of alcohol per 100 millilitres of blood; or
+    (i) in the case of a defendant who (at the time of the commission of the offence) was younger than 20 or held an alcohol interlock licence or a zero alcohol licence, no alcohol; or
     (ii) in any other case, not more than 80 milligrams of alcohol per 100 millilitres of blood; or
   (d) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain 20 milligrams or more of alcohol per 100 millilitres of blood more or less than the proportion of alcohol per 100 millilitres of blood specified in the certificate referred to in section 75(5); or
   (e) if a certificate certifies that there is evidence of a qualifying drug, the defendant’s blood specimen has been received and analysed by the private analyst and found to contain no evidence of a qualifying drug.
