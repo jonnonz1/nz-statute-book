@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2011-11-16_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -44,7 +44,7 @@ The principles referred to in section 4(5)﻿(b) are as follows:
   (b) there should be continuity in arrangements for the child’s care, development, and upbringing, and the child’s relationships with his or her family, family group, whānau, hapu, or iwi, should be stable and ongoing (in particular, the child should have continuing relationships with both of his or her parents):
   (c) the child’s care, development, and upbringing should be facilitated by ongoing consultation and co-operation among and between the child’s parents and guardians and all persons exercising the role of providing day-to-day care for, or entitled to have contact with, the child:
   (d) relationships between the child and members of his or her family, family group, whānau, hapu, or iwi should be preserved and strengthened, and those members should be encouraged to participate in the child’s care, development, and upbringing:
-  (e) the child’s safety must be protected and, in particular, he or she must be protected from all forms of violence (whether by members of his or her family, family group, whānau, hapu, or iwi, or by other persons):
+  (e) the child’s safety must be protected and, in particular, he or she must be protected from all forms of violence as defined in section 3(2) to (5) of the Domestic Violence Act 1995 (whether by members of his or her family, family group, whānau, hapu, or iwi, or by other persons):
   (f) the child’s identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
 
 ### 6 Child’s views
@@ -556,7 +556,7 @@ An application for a parenting order must include a statement made by or on beha
 ### 51 Court must consider protective conditions in certain cases
 (1) This section applies to a parenting order when—
   (a) the order provides for a person (person A) to have contact with a child; and
-  (b) the court is satisfied that person A has used violence (as defined in section 58) against the child or a person (person B) who has the role of providing day-to-day care for the child.
+  (b) the court is satisfied that person A has physically or sexually abused the child or a person (person B) who has the role of providing day-to-day care for the child.
 (2) The court must consider whether the order should be subject to conditions imposed for the purpose of protecting the safety of person B while person A’s contact with the child takes place (including while the child is being collected from, or returned to, person B).
 (3) This section does not limit section 48(4) or (5) or section 60.
 
@@ -572,10 +572,7 @@ If a court proposes to make a parenting order that does not give a parent the ro
 (6) An order may be made under this section, and an order made under this section may be varied or discharged, even though the court has refused to make the principal order or to give any other relief sought.
 
 ### 54 Orders in proceedings under Domestic Violence Act 1995
-(1) A Family Court hearing or otherwise dealing with proceedings under the Domestic Violence Act 1995 for a protection order may make any 1 or more of the following orders if it considers the order or orders necessary to protect the welfare and best interests of the child concerned:
-  (a) any interim order or orders about the role of providing day-to-day care for, or about contact with, a child of the applicant’s family (as defined in section 2 of the Domestic Violence Act 1995):
-  (b) any interim order or orders varying any order of the kind referred to in paragraph (a).
-(2) Section 50 applies with all necessary modifications to an order under subsection (1).
+[Repealed]
 
 ### 55 Content and explanation of parenting orders
 (1) An order under section 48(1)—
@@ -618,12 +615,16 @@ If a court proposes to make a parenting order that does not give a parent the ro
   (b) unless there are special circumstances, within 42 days after parent A’s notice is received by the court.
 (5) In this section, interim order means—
   (a) an interim parenting order under section 48(1); or
-  (b) an interim order under section 53(2) or section 54(1).
+  (b) an interim order under section 53(2).
 
 **Cases involving violence**
 
 ### 58 Interpretation
 In this section and sections 59 to 62, unless the context otherwise requires,—
+  - **allegation of violence** , in relation to a party to proceedings, means an allegation that that party has physically or sexually abused—
+    (a) another party to the proceedings; or
+    (b) a child who is the subject of the proceedings; or
+    (c) a child of the family
   - **approved provider** means a supervised contact service provider who is—
     (a) approved—
       (i) by the chief executive as a Community Service under section 403 of the Children, Young Persons, and Their Families Act 1989; or
@@ -633,39 +634,42 @@ In this section and sections 59 to 62, unless the context otherwise requires,—
   - **child of the family** , in relation to any proceedings, means—
     (a) a child of the applicant and the respondent, or of either of them; or
     (b) any child who was a member of the family of the applicant and the respondent, or either of them, immediately before the commencement of the proceedings
+  - **protection order** means—
+    (a) a protection order, including a temporary protection order, made under section 14 of the Domestic Violence Act 1995:
+    (b) a protection order made under section 123B of the Sentencing Act 2002
   - **supervised contact** means direct (that is, face to face) contact between a party and a child, being contact that occurs—
     (a) under the supervision of an approved provider; or
     (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable)
-  - **violence** means physical abuse or sexual abuse.
+  - **violent party** means a party to the proceedings against whom—
+    (a) there is currently in force a protection order for the protection of any of the following persons:
+      (i) another party to the proceedings:
+      (ii) a child who is the subject of the proceedings:
+      (iii) a child of the family; or
+    (b) an allegation of violence is made that, on the basis of the evidence presented by, or on behalf of, the parties to the proceedings (without the court being required to make inquiries on its own initiative), the court is satisfied is proved
 
-### 59 Allegations of violence made in proceedings relating to parenting orders
+### 59 Application of section 60
 (1) Section 60 applies to proceedings—
   (a) relating to an application under this Act for any of the following:
     (i) an order about the person or persons who have the role of providing day-to-day care for a child:
     (ii) an order about contact with a child:
     (iii) the variation or discharge of, or of any condition of, an order in subparagraph (i) or subparagraph (ii); and
-  (b) in which an allegation is made that a party to the proceedings has used violence—
-    (i) against the child or a child of the family; or
-    (ii) against the other party to the proceedings.
+  (b) in which there is a violent party.
 (2) Section 60 applies to proceedings specified in subsection (1) whether or not those proceedings also relate to any other matter (whether arising under this Act or any other enactment).
 
 ### 60 Procedure for dealing with proceedings in section 59(1)
-(1) In proceedings to which this section applies in accordance with section 59 (the proceedings), the court must, as soon as practicable,—
-  (a) consider whether to appoint a lawyer to act for the child under section 7(1); and
-  (b) determine, on the basis of the evidence presented to it by, or on behalf of, the parties to the proceedings, whether the allegation of violence is proved.
-(2) Nothing in subsection (1) requires the court to make any inquiries on its own initiative in order to make a determination on the allegation.
-(3) If the court is satisfied that a party to the proceedings (the violent party) has used violence against the child or a child of the family, or against the other party to the proceedings, then, unless subsection (4) applies, the court must not make—
+(1)
+(2)
+(3) In proceedings to which this section applies in accordance with section 59 (the proceedings), the court must not make—
   (a) an order giving the violent party the role of providing day-to-day care for the child to whom the proceedings relate; or
   (b) any order allowing the violent party contact (other than supervised contact) with that child.
+(3A) Subsection (3) is subject to subsection (4).
 (4) In the situation in subsection (3), the court may make an order in subsection (3)﻿(a) or (b) if, after complying with section 61, the court is satisfied that the child will be safe while the violent party—
   (a) provides day-to-day care for the child; or (as the case may be)
   (b) has contact with the child.
 (5) If, in the situation in subsection (3), the court is not satisfied as provided in subsection (4), it may make an order for supervised contact between the child and the violent party, and, if it does so, the court must specify in the order whether the supervised contact is to occur—
   (a) under the supervision of an approved provider; or
   (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
-(6) Despite subsection (1), the court may make any order under this Act that it thinks fit in order to protect the safety of the child if the court—
-  (a) is unable to determine, on the basis of the evidence presented to it by, or on behalf of, the parties to the proceedings, whether the allegation of violence is proved; but
-  (b) is satisfied there is a real risk to the child’s safety.
+(6)
 
 ### 61 Matters relevant to question in section 60(4)
 In considering, for the purposes of section 60(4), whether a child will be safe if a violent party provides day-to-day care for, or has contact (other than supervised contact) with, the child, the court must, so far as is practicable, have regard to the following matters:
@@ -680,6 +684,14 @@ In considering, for the purposes of section 60(4), whether a child will be safe 
   (g) any views the child expresses on the matter (as required by section 6):
   (h) any steps taken by the violent party to prevent further violence occurring:
   (i) all other matters the court considers relevant.
+
+### 61A Court may make orders to ensure safety of child in other cases
+(1) This section applies if—
+  (a) there are proceedings before the court relating to any of the kinds of application specified in section 59(1)﻿(a); and
+  (b) section 60 does not apply to the proceedings because—
+    (i) the court is not satisfied that an allegation of violence (as defined in section 58) is proved; and
+    (ii) there is not otherwise a violent party (as defined in section 58) to the proceedings.
+(2) If the court is satisfied that there is a real risk to the safety of a child, the court may make any order under this Act that it thinks fit in order to ensure the safety of the child.
 
 ### 62 Costs of formal supervised contact
 (1) This section applies only to supervised contact that is ordered under section 60(5) and supervised by an approved provider.
@@ -825,16 +837,34 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
 
 ### 77 Preventing removal of child from New Zealand
 (1) In this section and section 76, authority means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of a District Court (not being a constable).
-(2) An authority may, on an application for the purpose by any person, exercise the powers stated in subsection (3) if the authority believes on reasonable grounds that a person is about to take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,—
+(2) An authority may, on an application for the purpose by any person, exercise the powers stated in subsection (3) if the authority believes on reasonable grounds that a person may take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,—
   (a) defeat the claim of a person who has applied for, or is about to apply for, the role of providing day-to-day care for, or an order for contact with, the child; or
   (b) prevent any order of any court (including an order registered under section 81) about the role of providing day-to-day care for, or about contact with, the child from being complied with.
 (3) In the situation stated in subsection (2), the authority—
   (a) may issue a warrant directing a constable or a social worker to take the child (using reasonable force if necessary) and place the child in the care of some suitable person pending the order or further order of the court having jurisdiction in the case; and
   (b) may, in addition, order that any tickets or travel documents (including the passport) of the child, or of the person believed to be about to take the child out of New Zealand, or of both, be surrendered to the authority for a period and on any conditions the authority thinks fit; and
-  (c) may, whether or not a warrant has been issued under paragraph (a) (either with or without an additional order under paragraph (b)), order that the child not be removed from New Zealand for a specified period, or until a further order of an authority.
+  (c) may, whether or not a warrant has been issued under paragraph (a) (either with or without an additional order under paragraph (b)), order that the child not be removed from New Zealand by—
+    (i) any person; or
+    (ii) any person other than a person named in the order.
+(3A) An order made under subsection (3)﻿(c) may specify that the order is to continue until—
+  (a) the expiry of a specified period; or
+  (b) a further order is made by an authority.
 (4) Sections 75 and 79 apply, with all necessary modifications, to every warrant under subsection (3)﻿(a) as if every warrant of that kind were a warrant under section 72 or section 73.
 (5) A person against whom an order under subsection (3)﻿(b) or (c) is in force may apply to the authority for the discharge of the order, and the authority may, if it thinks fit, discharge the order accordingly.
 (6) No proceedings for contempt of court may be taken against a person in respect of an act authorised or required by this section or by an order or warrant made or issued under this section.
+
+### 77A Orders under section 77(3)﻿(c) in respect of children of or over 16 years
+(1) An order under section 77(3)﻿(c) must not be made in respect of a child of or over the age of 16 years unless there are special circumstances.
+(2) An order under section 77(3)﻿(c) made in respect of a child under the age of 16 years expires when the child attains that age unless the court in special circumstances orders otherwise on or after making the order.
+
+### 77B Orders under section 77(3)﻿(c) may be suspended for specified period
+(1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, or a Family Court Judge may suspend an order made under section 77(3)﻿(c).
+(2) On an application for the purpose, a Registrar of the High Court, or of a District Court, may suspend an order made under section 77(3)﻿(c) if—
+  (a) the application is made by a party to the proceedings under section 77 in which the order was made (the earlier proceedings); and
+  (b) every other person who was a party to the earlier proceedings consents.
+(3) A suspension of an order made under section 77(3)﻿(c) must be—
+  (a) for a specified time; and
+  (b) in relation to a specified person.
 
 **Offences**
 
@@ -1171,7 +1201,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (a) may exercise, in respect of that child, the power referred to in section 77(3)﻿(a); and
   (b) may exercise, in respect of that child, or the person believed to be about to take the child out of New Zealand, or both, the power referred to in section 77(3)﻿(b); and
   (c) may, whether or not the power referred to in paragraph (a) has been exercised (with or without the exercise of the power referred to in paragraph (b)), make an order of the kind referred to in section 77(3)﻿(c) in respect of that child.
-(3) If a power referred to in subsection (2)﻿(a) or (b) or (c) is exercised, section 77(4) and (5), so far as applicable and with all necessary modifications, applies accordingly.
+(3) If a power referred to in subsection (2)﻿(a) or (b) or (c) is exercised, sections 77(4) and (5), 77A, and 77B, so far as applicable and with all necessary modifications, apply accordingly.
 (4) A Registrar of the High Court or of a District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
 
 ### 119 Enforcing order for return of child
@@ -1203,6 +1233,15 @@ Every application under section 102 or section 112 in respect of a child must be
 (2) On being so lodged, the order must be treated, from the date on which it is lodged, as an order of the High Court.
 (3) In particular, the order is of the same force and effect for the purposes of execution, and carries interest on the amount payable under it in the same way, and is subject to the same control over its execution by the High Court, as if it were an order originally made in the High Court and entered on the date on which it is so lodged.
 (4) If, on an application for the purpose, it thinks fit to do so, the High Court may, at any time, set aside the lodging of an order under this section on any terms it thinks just.
+
+### 122A Discharge of order under section 105 for return of child
+(1) This section applies where a court makes an order under section 105(2) for the return of a child (the return order).
+(2) A party to the proceedings under section 105 in which the return order was made (the return proceedings) may apply to the court for the discharge of the return order.
+(3) On an application under subsection (2), the court may discharge the return order if—
+  (a) the application is made not earlier than 1 year after the return order was made, or any appeal in relation to the return order was determined, and the court is satisfied that—
+    (i) the child is now settled in his or her new environment in New Zealand; and
+    (ii) having regard to all the circumstances of the case, the discharge of the return order is warranted; or
+  (b) every other person who was a party to the return proceedings consents.
 
 ### 123 Unfounded applications
 (1) Nothing in this subpart requires the Authority to take any action in respect of an application if it is manifest—
