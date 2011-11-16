@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2011-11-16_
 
 > An Act to provide greater protection from domestic violence
 
@@ -23,6 +23,7 @@ In this Act, unless the context otherwise requires,—
   - **child of the applicant’s family** means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
   - **country** includes any State, territory, province, or other part of a country
   - **court** means a Family Court or a District Court; and includes a Judge of any such court
+  - **day-to-day care** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **domestic relationship** means one of the relationships set out in section 4(1)
   - **domestic violence** has the meaning set out in section 3
   - **dwellinghouse** includes—
@@ -45,6 +46,7 @@ In this Act, unless the context otherwise requires,—
   - **furniture order** means an order made under section 67; and includes a temporary order made under that section
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **occupation order** means an order made under section 53; and includes a temporary order made under that section
+  - **parenting order** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to a person,—
     (a) the person’s civil union partner; or
     (b) the person’s de facto partner; or
@@ -249,6 +251,12 @@ A court must not decline to make a protection order merely because of the existe
 
 ### 16 Protection of persons other than applicant
 (1) Where the court makes a protection order, that order applies for the benefit of any child of the applicant’s family.
+(1A) A protection order continues to apply for the benefit of a child of the applicant's family until—
+  (a) the child ceases to be a child of the applicant's family; or
+  (b) the order sooner lapses or is discharged.
+(1B) If a child of the applicant's family having attained the age of 17 years continues to ordinarily or periodically reside with the applicant (an adult child), a protection order continues to apply for the benefit of the adult child until—
+  (a) the adult child ceases to ordinarily or periodically reside with the applicant; or
+  (b) the order sooner lapses or is discharged.
 (2) Subject to subsection (3), where the court makes a protection order, it may direct that the order also apply for the benefit of a particular person with whom the applicant has a domestic relationship.
 (3) No direction may be made pursuant to subsection (2) in respect of a person unless the court is satisfied that—
   (a) the respondent is engaging, or has engaged, in behaviour that, if the respondent and the person were or, as the case may be, had been in a domestic relationship, would amount to domestic violence against the person; and
@@ -256,6 +264,10 @@ A court must not decline to make a protection order merely because of the existe
   (c) the making of a direction under this section is necessary for the protection of the person; and
   (d) where practicable, the person consents to the direction being made.
 (4) Subsections (2) to (5) of section 14 apply, with the necessary modifications, in respect of an application for a direction pursuant to subsection (2) of this section.
+(5) If the applicant dies at any time after a protection order is made for the protection of the applicant, then, notwithstanding the death of the applicant, the order (if it has not sooner lapsed or been discharged) continues to apply for the benefit of—
+  (a) a child who at the time of the applicant's death was a child of the applicant's family, until that child attains the age of 17 years; and
+  (b) a person in respect of whom a direction has been made under subsection (2), until the order lapses or is discharged.
+(6) Subsections (1A), (1B), and (5) apply in respect of a protection order regardless of whether the protection order is made before or after the commencement of those subsections.
 
 ### 17 Protection from respondent’s associates
 (1) Subject to subsection (2), where the court makes a protection order against the respondent, the court may also direct that the order apply against a person whom the respondent is encouraging, or has encouraged, to engage in behaviour against a protected person, where that behaviour, if engaged in by the respondent, would amount to domestic violence.
@@ -436,6 +448,26 @@ Where the court grants an application for a protection order, it must not also m
   (a) the consent of a person (other than the respondent or, as the case may be, the associated respondent) who is specified, in a special condition of the protection order imposed pursuant to section 27(3), as a person who is entitled to consent, on the protected person’s behalf, in relation to the matter:
   (b) the withdrawal of consent by such a person.
 
+**Interim care and contact orders**
+
+### 28B Interim orders in respect of child of applicant's family
+(1) This section applies when—
+  (a) an application has been made to the Family Court for a protection order; and
+  (b) there is a child of the applicant's family.
+(2) The Family Court may make 1 or more of the following orders if it considers the order or orders are necessary to protect the welfare and best interests of the child concerned:
+  (a) an interim order or orders about the role of providing day-to-day care for, or about contact with, a child of the applicant's family:
+  (b) any interim order or orders varying any order of the kind referred to in paragraph (a).
+(3) An order must not be made under subsection (2) in respect of a child of the applicant's family of or over the age of 16 years unless there are special circumstances.
+
+### 28C Duration of interim order
+An interim order made under section 28B ceases to have effect (if it has not ceased to have effect sooner) on the earlier of—
+  (a) the date that is 1 year after the day on which the order is made; or
+  (b) the date that the child attains the age of 16 years, unless the Family Court in special circumstances orders otherwise on or after making the order.
+
+### 28D Application for parenting order under Care of Children Act 2004 must be made
+(1) Where 1 or more interim orders have been made under section 28B, a party in whose favour an order has been made must as soon as possible (if that party has not already done so) make an application under the Care of Children Act 2004 for a parenting order.
+(2) For the purposes of section 16(1) of the Legal Services Act 2000, proceedings that relate to, or arise out of, an application for a protection order under Part 2 of the Domestic Violence Act 1995 include proceedings commenced pursuant to an application referred to in subsection (1).
+
 **Programmes**
 
 ### 29 Programmes for protected persons
@@ -482,6 +514,12 @@ A protected person and a respondent, or, as the case may be, a protected person 
   (b) attend the programme for the first time—
     (i) on the date and at the time and place specified in the direction; or
     (ii) on a date and at a time and place to be advised by the programme provider as soon as practicable after the direction is made.
+(1A) Subsection (1B) applies if—
+  (a) the court makes a direction under section 32; and
+  (b) the respondent or associated respondent, as the case requires, has not been served with a copy of the protection order at least 10 working days prior to the date specified in the direction for his or her first attendance at the programme.
+(1B) The Registrar may amend the direction made under section 32 to specify that the respondent or associated respondent, as the case requires, attend the programme for the first time on a later date and, if necessary, at a different—
+  (a) time:
+  (b) place.
 (2) The number of programme sessions that are or may be specified under subsection (1) must be determined in accordance with regulations made under this Act (if any).
 
 ### 34 Registrar to notify programme provider to whom respondent or associated respondent is referred
@@ -496,14 +534,14 @@ Where, in any direction made under section 32, the court states, pursuant to sec
 
 ### 36 Direction to attend programme made on application without notice
 (1) This section applies where the court makes a direction under section 32 on an application without notice.
-(2) Where this section applies, the direction does not take effect unless—
-  (a) a copy of the order containing the direction is served on the person to whom the direction relates; and
-  (b) either—
-    (i) that person does not notify the court, within 5 clear days after the order is served on him or her, that he or she objects to the direction; or
-    (ii) the court, after considering the person’s objection, confirms the direction (whether with or without variation).
-(3) Where the respondent or associated respondent notifies the court, in accordance with subsection (2), that he or she objects to the direction, and wishes to be heard, the Registrar must assign a hearing date, which must be—
-  (a) as soon as practicable; and
-  (b) unless there are special circumstances, in no case later than 42 days after the receipt of the notice of objection.
+(2) Where this section applies,—
+  (a) the direction does not take effect until 10 working days after a copy of the direction is served on the person to whom it relates; and
+  (b) that person may, within those 10 days, notify the court that he or she objects to the direction.
+(3) Where the respondent or associated respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,—
+  (a) the Registrar must, if the respondent or associated respondent wishes to be heard, assign a hearing date, which must be—
+    (i) as soon as practicable; and
+    (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
+  (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the person's objection, confirms the direction (whether with or without variation).
 (4) Nothing in this section or section 37 gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 76 or section 79.
 
 ### 37 Court may confirm or discharge direction
@@ -731,6 +769,7 @@ Any person aged 16 years or over who is or has been in a domestic relationship w
   (a) the respondent has physically or sexually abused the applicant or a child of the applicant’s family; and
   (b) the delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant’s family to physical or sexual abuse.
 (2) Any occupation order or tenancy order made on an application without notice is a temporary order that, subject to sections 76 to 80, and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+(2A) When a temporary order becomes a final order pursuant to subsection (2), the final order comes into effect immediately.
 (3) An occupation order or a tenancy order may be made on an application without notice only where the court has made or, at the same time, makes a protection order, unless the court considers that there are special reasons for not making a protection order.
 (4) Where an occupation order or a tenancy order is made on an application without notice while the applicant and the respondent are living in the same dwellinghouse, that occupation order or tenancy order expires,—
   (a) on its discharge by the court; or
@@ -835,6 +874,7 @@ Where a person aged 16 years or over—that person may—apply to the court for 
   (a) that the respondent has physically or sexually abused the applicant or a child of the applicant’s family; and
   (b) that the delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant’s family to physical or sexual abuse.
 (2) Any ancillary furniture order or furniture order made on an application without notice is a temporary order that, subject to sections 76 to 80, and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+(2A) When a temporary order becomes a final order pursuant to subsection (2), the final order comes into effect immediately.
 (3) No ancillary furniture order may be made on an application without notice unless the court has made or, at the same time, makes an occupation order or a tenancy order.
 (4) No furniture order may be made on an application without notice unless the court has made or, at the same time, makes a protection order.
 (5) Where an ancillary furniture order or a furniture order is made on an application without notice while the applicant and the respondent are living in the same dwellinghouse, the order expires—
@@ -888,6 +928,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
 
 ### 77 Procedure where respondent does not require hearing
 (1) Subject to sections 36, 78, and 79 and to subsections (2) and (3), unless the respondent notifies the court in accordance with section 76(1) that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
+(1A) When a temporary order becomes a final order pursuant to subsection (1), the final order comes into effect immediately.
 (2) No temporary order becomes final pursuant to subsection (1) unless—
   (a) the respondent has been served with a copy of the order not less than 10 clear days before the 3 month period specified in subsection (1) elapses; and
   (b) the respondent has not notified the court, before that period elapses, that he or she wishes to be heard.
@@ -910,10 +951,29 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (a) notice has been given pursuant to section 74 to any person having an interest in the property affected by the order; and
   (b) the person so notified takes no steps in the proceedings.
 
+### 79A Review of contact arrangements
+(1) When making a temporary protection order, the Family Court may direct the Registrar to convene a review before a Family Court Judge of the arrangements for contact between the respondent and a child of the applicant's family.
+(2) On receiving a direction under subsection (1), the Registrar must—
+  (a) appoint a time and place for the holding of the review; and
+  (b) inform the applicant and respondent of the date, time, and place of the review, and invite them to attend.
+(3) Only the following persons may attend the review:
+  (a) the applicant:
+  (b) the respondent:
+  (c) a lawyer representing the applicant:
+  (d) a lawyer representing the respondent:
+  (e) a lawyer appointed under section 81:
+  (f) any lawyer appointed under section 7(1) of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
+  (g) any other persons whom the Family Court Judge permits to be present.
+(4) If both the applicant and the respondent attend or are represented at the review, the Judge may—
+  (a) make an interim order relating to contact under section 28B:
+  (b) impose any condition under section 27 relating to the matter set out in subsection (2)(a) of that section:
+  (c) give any directions that the Judge considers necessary.
+(5) The provisions of this section, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were a respondent.
+
 ### 80 Procedure where hearing required
 (1) Where, pursuant to section 76 or section 79, the respondent or an associated respondent or any person to whom section 79(3) applies notifies the court that he or she wishes to be heard, or in any other case where a hearing is required or held, the court may at the hearing—
   (a) discharge the temporary order; or
-  (b) discharge the temporary order and make a final order in its place (whether with or without variation); or
+  (b) make the temporary order a final order (whether with or without variation); or
   (c) in a case to which section 78(3) or section 79(2) applies and where part of the temporary order has become final in accordance with section 77,—
     (i) confirm the temporary order to the extent that it has not already become final:
     (ii) confirm the temporary order to the extent that it has not already become final, but exercise, in relation to that part of the temporary order so confirmed, any power conferred by this Act to vary or alter the terms and conditions of the order, or to impose new terms and conditions:
@@ -923,6 +983,10 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
 (3) Where, pursuant to subsection (1)(c), the court confirms part of a temporary order (whether with or without variation), that part of the temporary order becomes final, but that confirmation does not affect the order to the extent that it has already become final.
 (4) Where a hearing is adjourned under subsection (1)(d) to another day, the court must not, at the adjourned hearing, exercise that power to adjourn the hearing to a further date unless there are special reasons for doing so.
 (5) Where a hearing is adjourned pursuant to subsection (1)(d) to a specified date, the temporary order continues in force until that date.
+
+### 80A Temporary order discharged when made final order under section 80(1)
+(1) When a temporary order becomes a final order pursuant to section 80(1)(b), the temporary order is automatically discharged.
+(2) Where the part of a temporary order not already a final order is confirmed under section 80(1)(c)(i) or (ii), the temporary order is automatically discharged.
 
 **General provisions**
 
@@ -966,6 +1030,7 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
   (b) the parties to the proceedings:
   (c) any lawyer representing any party to the proceedings:
   (d) any lawyer appointed pursuant to section 81 in respect of the proceedings:
+  (da) any lawyer appointed under section 7(1) of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
   (e) where, pursuant to any provision of this Act, any person is bringing or defending the proceedings on behalf of another person,—
     (i) the person so bringing or defending the proceedings:
     (ii) the person on whose behalf the proceedings are so brought or defended:
