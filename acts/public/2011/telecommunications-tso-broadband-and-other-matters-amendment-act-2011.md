@@ -1,5 +1,5 @@
 # Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011
-_Consolidation as at 2011-06-30_
+_Consolidation as at 2011-11-30_
 
 ### 1 Title
 This Act is the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011.
