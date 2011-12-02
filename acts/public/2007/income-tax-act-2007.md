@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2011-12-02_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -15,7 +15,7 @@ Act effective for 2008–09 income year and later
 ## Part A — Purpose and interpretation
 
 ### AA 1 Purpose of Act
-The main purpose of this Act are—
+The main purposes of this Act are—
   (a) to define, and impose tax on, net income:
   (b) to impose obligations concerning tax:
   (c) to set out rules for calculating tax and for satisfying the obligations imposed.
@@ -74,6 +74,9 @@ Double tax agreements: subpart BH
 
 ### Subpart BC — Calculating and satisfying income tax liabilities
 
+| Flowchart B2: Calculating and satisfying income taxliabilities |
+| --- |
+
 ### BC 1 Non-filing and filing taxpayers
 Non-filing taxpayer
 (1) The income tax liability of a non-filing taxpayer for a tax year is the total tax withheld from amounts of income included in the taxpayer's annual gross income for the year.
@@ -105,7 +108,6 @@ Treatment of net loss
 A person's taxable income for a tax year is determined by subtracting any available tax loss that the person has from their net income under Part I (Treatment of tax losses).
 
 ### BC 6 Income tax liability of filing taxpayer
-Flowchart B3Calculating income tax liability
 Calculation of amount
 (1) The income tax liability of a filing taxpayer for a tax year is the amount calculated by multiplying their taxable income for the tax year by the basic tax rate. The income tax liability of a filing taxpayer with schedular income is determined under section BC 7.
 When liability zero or negative
@@ -124,7 +126,6 @@ Income tax liability of multi-rate PIEs
 (4) The income tax liability for a tax year of a multi-rate PIE is determined under subpart HM (Portfolio investment entities).
 
 ### BC 8 Satisfaction of income tax liability
-Flowchart B4Satisfying income tax liability
 Use of tax credits
 (1) Credits for tax paid, tax withheld, or other circumstances, calculated under Parts L (Tax credits and other credits) and M (Tax credits paid in cash), satisfy a person's income tax liability for a tax year as far as the credits extend.
 Ordering rule
@@ -136,7 +137,7 @@ Remaining credits
 
 ### Subpart BD — Income, deductions, and timing
 
-### BD 1 Income, exempt income, excluded income, nonresidents' foreign-sourced income, and assessable income
+### BD 1 Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income
 Amounts of income
 (1) An amount is income of a person if it is their income under a provision in Part C (Income).
 Exempt income
@@ -287,8 +288,6 @@ Excluded income
 
 ### Subpart CB — Income from business or trade-like activities
 
-**Business generally**
-
 ### CB 1 Amounts derived from business
 Income
 (1) An amount that a person derives from a business is income of the person.
@@ -312,20 +311,14 @@ Disposal
 Relationship with section CB 1
 (5) This section overrides section CB 1.
 
-**Schemes for profit**
-
 ### CB 3 Profit-making undertaking or scheme
 An amount that a person derives from carrying on or carrying out an undertaking or scheme entered into or devised for the purpose of making a profit is income of the person.
-
-**Personal property**
 
 ### CB 4 Personal property acquired for purpose of disposal
 An amount that a person derives from disposing of personal property is income of the person if they acquired the property for the purpose of disposing of it.
 
 ### CB 5 Business of dealing in personal property
 An amount that a person derives from disposing of personal property is income of the person if their business is to deal in property of that kind.
-
-**Land**
 
 ### CB 6 Disposal: land acquired for purpose or with intention of disposal
 Income
@@ -431,7 +424,7 @@ Relationship with section DB 27
 ### CB 14 Disposal: amount from land affected by change and not already in income
 Income
 (1) An amount that a person derives from disposing of land is income of the person if—
-  (a) the amount is not income under any of sections CB 6 to CB 12; and
+  (a) the amount is not income under any of sections CB 6 to CB 12 ; and
   (b) the person disposed of the land within 10 years of acquiring it; and
   (c) the total amount that they derive from its disposal is more than the cost of the land; and
   (d) at least 20% of the excess arises from a factor, or more than 1 factor, that—
@@ -463,7 +456,7 @@ Income
   (c) the amount derived is more than the cost of the land to the transferee; and
   (d) the amount derived would have been income of the transferor under any of sections CB 6 to CB 14 if the transferor had retained and disposed of the land.
 Date on which some transferees acquire land
-(2) For the purposes of sections CB 7 to CB 12 and CB 14, if the transferor and transferee are associated persons at the time of the transfer, the transferee is treated as having acquired the land on the date on which the transferor acquired it.
+(2) For the purposes of sections CB 7 to CB 12and CB 14, if the transferor and transferee are associated persons at the time of the transfer, the transferee is treated as having acquired the land on the date on which the transferor acquired it.
 
 **Exclusions for residential land**
 
@@ -550,7 +543,7 @@ Exclusion
   (a) the person (person A) acquired the land, and they, their spouse, civil union partner or de facto partner, or both of them used or intended to use the land mainly for the purposes of a farming or agricultural business carried on by them, their spouse, civil union partner, or de facto partner, or both of them; and
   (b) they disposed of the land to another person (person B) mainly for the purposes of the continuing use of the land in a farming or agricultural business.
 Purposes of acquisition for purposes of subsection (1)(b)
-(2) For the purposes of subsection (1)(b), person B’s purposes in acquiring the land are ascertained from circumstances of the disposal arising after person A acquired the land and other relevant matters, not including the factors described in CB 14(1).
+(2) For the purposes of subsection (1)(b), person B’s purposes in acquiring the land are ascertained from circumstances of the disposal arising after person A acquired the land and other relevant matters, not including the factors described in section CB 14(1).
 
 **Exclusion for investment land**
 
@@ -564,8 +557,6 @@ Sections CB 6 to CB 23 apply to an amount derived from the disposal of land if t
   (a) part of the land to which the relevant section applies:
   (b) the whole of the land to which the relevant section applies:
   (c) disposed of together with other land.
-
-**Timber**
 
 ### CB 24 Disposal of timber or right to take timber
 Income
@@ -588,8 +579,6 @@ Exclusions
 Income
 (3) The amount that the person derives from disposing of the standing timber is income of the person.
 
-**Investments**
-
 ### CB 26 Disposal of certain shares by portfolio investment entities
 When this section applies
 (1) This section applies when—
@@ -607,8 +596,6 @@ Definition of items in formula
 Positive result
 (4) The result of the formula must be a positive amount.
 
-**Farming, forestry, or fishing**
-
 ### CB 27 Income equalisation schemes
 Income derived by a person, as timed and quantified under any of the following provisions, is income of the person:
   (a) sections EH 11, EH 14, EH 16, EH 18, EH 20 to EH 22, EH 24, and EH 26 (which relate to the main income equalisation scheme):
@@ -618,13 +605,11 @@ Income derived by a person, as timed and quantified under any of the following p
 ### CB 27B Entering partners’ livestock income
 [Repealed]
 
-**Environmental restoration**
-
 ### CB 28 Environmental restoration accounts
 Income from refund
-(1) A person who receives a refund for a tax year under section EK 12 (Refund if request or excess balance) derives for the person’s corresponding income year an amount of income calculated using the formula—
+(1) A person who receives a refund for a tax year under section EK 12 (Refund if request or excess balance) derives for the person’s corresponding income year an amount of income calculated using the formula—refundtax rate.
 Income from transfer from environmental restoration account
-(2) If there is a transfer from a person’s environmental restoration account under section EK 15, EK 16, or EK 19 (which relate to environmental restoration accounts), the person derives for the corresponding income year an amount of income calculated using the formula—
+(2) If there is a transfer from a person’s environmental restoration account under section EK 15, EK 16, or EK 19 (which relate to environmental restoration accounts), the person derives for the corresponding income year an amount of income calculated using the formula—transfertax rate.
 Definitions of items in formulas
 (3) The items in the formulas are defined in subsections (4) to (6).
 Refund
@@ -644,20 +629,14 @@ Amount of income
   (a) the total deduction under section DB 46 for the person for the period from the grant of the resource consent to the beginning of the income year:
   (b) the total deduction for the expenditure that the person would have had under section DB 46 for the period referred to in paragraph (a), if the period of the resource consent at the time of the grant had been 35 years.
 
-**Minerals**
-
 ### CB 29 Disposal of minerals
 Income
 (1) An amount that a person derives from disposing of minerals taken from land is income of the person.
 Whether or not person owns land
 (2) Subsection (1) applies whether or not the person owns the land from which the minerals are taken.
 
-**Intellectual property**
-
 ### CB 30 Sale of patent applications or patent rights
 If a person derives an amount from the sale of a patent application with a complete specification or from the sale of patent rights, the amount is income of the person.
-
-**Transfer of business**
 
 ### CB 31 Sale of business: transferred employment income obligations
 When this section applies
@@ -666,8 +645,6 @@ Income
 (2) The excess is income of the buyer.
 Timing of income
 (3) The income is allocated to the income year in which the reduction of the transferred provision is required to be recognised by the buyer under generally accepted accounting practice.
-
-**Stolen property**
 
 ### CB 32 Property obtained by theft
 Income
@@ -723,8 +700,6 @@ Income tax and refund
 (13) For the purposes of subsection (8)(c),—
   (a) income tax payable is income tax that would, when paid, give rise to a credit in the company's imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
   (b) a refund of income tax due is the amount that would, when paid, give rise to a debit to the company's imputation credit account under sections OB 30 to OB 59 (which relate to imputation debits).
-
-**Mutual associations**
 
 ### CB 33 Amounts derived by mutual associations
 When this section applies
@@ -791,8 +766,6 @@ Excluded income: fishing quota emissions unit
 
 ### Subpart CC — Income from holding property (excluding equity)
 
-**Land use**
-
 ### CC 1 Land
 Income
 (1) An amount described in subsection (2) is income of the owner of land if they derive the amount from—
@@ -821,8 +794,6 @@ Timing of income
 (3) The income is allocated to the income year in which the lessor receives the amount.
 Relationship with sections EI 5 and EI 6
 (4) Subsection (3) is overridden by sections EI 5 (Amount paid to lessor for non-compliance with covenant for repair) and EI 6 (Amount paid for non-compliance: when lessor ceases to own land).
-
-**Financial instruments**
 
 ### CC 3 Financial arrangements
 Income: party to financial arrangement
@@ -884,8 +855,6 @@ Income: disposal
 Income: redemption
 (3) The amount that the non-resident holder receives on redemption is income of the person.
 
-**Royalties**
-
 ### CC 9 Royalties
 Income
 (1) A royalty derived by a person is income of the person.
@@ -934,8 +903,6 @@ Income
 Relationship with sections CV 17 and YD 7
 (4) This section is overridden by sections CV 17 and YD 7 (which relate to film rental income).
 
-**Finance leases**
-
 ### CC 11 Lessee acquiring lease asset on expiry of term of lease
 When this section applies
 (1) This section applies for the purposes of section FA 9 (Treatment when lease ends: lessee acquiring asset), when, after the term of a finance lease, a lessee acquires the personal property lease asset and then disposes of it.
@@ -950,8 +917,6 @@ When this section applies
 Income of lessor
 (2) To the extent to which the difference between the amount determined under section FA 10(2) and the consideration is not paid by the lessor to the lessee under the original finance lease, the amount is income of the lessor in the income year in which the original lease term ends.
 
-**Hire purchase agreements**
-
 ### CC 13 Amounts paid in income years after hire purchase agreement ends
 When this section applies
 (1) This section applies for the purposes of section FA 18 (Treatment of amounts paid in income years after agreement ends), when an amount that is liable to be paid under a hire purchase agreement is paid in an income year that is later than the income year in which the agreement ends.
@@ -962,15 +927,11 @@ Income of buyer
 
 ### Subpart CD — Income from equity
 
-**Income**
-
 ### CD 1 Dividend
 A dividend derived by a person is income of the person.
 
 ### CD 2 Distribution excluded from being dividend
 A distribution, derived by a member of a co-operative company, that is excluded by section CD 34B from being a dividend is income of the member.
-
-**What is a dividend?**
 
 ### CD 3 Meaning of dividend
 Sections CD 4 to CD 21 define what is a dividend.
@@ -1168,8 +1129,6 @@ Meaning of non-executive director
 ### CD 21 Attributed repatriations from controlled foreign companies
 [Repealed]
 
-**What is not a dividend?**
-
 ### CD 22 Returns of capital: off-market share cancellations
 When this section applies
 (1) This section applies when a company pays an amount to a shareholder because of the off-market cancellation of a share in the company, other than on liquidation of the company.
@@ -1217,7 +1176,7 @@ Some definitions
     (b) the share is—
       (i) a redeemable share under section 68 of the Companies Act 1993 or an equivalent provision of foreign law; or
       (ii) issued under 1 of New Zealand’s Acts relating to co-operative companies; or
-      (iii) subject to section FA 2 (Recharacterisation of certain debentures) and FZ 1 (Treatment of interest payable under debentures issued before certain date) or section FA 2B(2) (Stapled debt securities); or
+      (iii) subject to sections FA 2 (Recharacterisation of certain debentures) and FZ 1 (Treatment of interest payable under debentures issued before certain date) or section FA 2B(2) (Stapled debt securities); or
       (iv) a unit in a unit trust that is not a widely-held trust; and
     (c) the share is either a fixed-rate share or a share for which the amount payable on cancellation is no more than the available subscribed capital per share calculated under the slice rule; and
     (d) the shareholder does not have shareholder decision-making rights in relation to the share except—
@@ -1233,13 +1192,13 @@ Some definitions
 
 ### CD 23 Ordering rule and slice rule
 Ordering rule
-(1) Under the ordering rule, the available subscribed capital per share is calculated for a share using the formula—
+(1) Under the ordering rule, the available subscribed capital per share is calculated for a share using the formula—available subscribed capital of classshares being cancelled of class.
 Definition of items in formula
 (2) In the formula in subsection (1),—
   (a) available subscribed capital of class is the available subscribed capital, of all shares of the same class as the share, at the relevant time for the calculation:
   (b) shares being cancelled of class is the number of shares of the same class as the share, including the share, being cancelled at the time.
 Slice rule
-(3) Under the slice rule, the available subscribed capital per share is calculated for a share using the formula—
+(3) Under the slice rule, the available subscribed capital per share is calculated for a share using the formula—available subscribed capital of classshares of class.
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) available subscribed capital of class is the available subscribed capital, of all shares of the same class as the share, at the relevant time for the calculation:
@@ -37851,7 +37810,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (vi) a company or organisation, as defined in section 6(2) of the Local Government Act 2002, that is subject to the control, directly or indirectly, of the New Zealand Local Government Association Incorporated:
       (vii) New Zealand Local Government Insurance Corporation and any subsidiaries it has:
       (viii) Watercare Services Limited and any subsidiaries it has: but
-    (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004
+    (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004 or the New Zealand Local Government Funding Agency Limited
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit account continuity provisions** means—
@@ -38950,7 +38909,8 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (v) the Canterbury Museum Trust Board continued in existence by section 5(1) of the Canterbury Museum Trust Board Act 1993:
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
       (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
-      (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004
+      (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004:
+      (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002
   - **logbook term** is defined in section DE 8 (Logbook term)
   - **long-term bailment** is defined in section EC 27 (Some definitions) for the purposes of subpart EC (Valuation of livestock)
   - **look-through company** means an entity––
@@ -52926,10 +52886,11 @@ This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
 ### 94 Ring-fencing cap on attributed CFC net losses
 ((1)–(2)) Amendment(s) incorporated in the Act(s).
 (3) Section IQ 2(1), other than its heading, is replaced by the following:
-  (a) the total amount of attributed CFC income and FIF income calculated under the branch equivalent method that the person derives in the tax year in relation to a CFC or FIF that is resident in the jurisdiction, if that amount is less than or equal to the amount referred to in paragraph (b); or
-  (b) the total amount of such attributed CFC net loss and FIF net loss that—
-    (i) the person carries forward to the tax year:
-    (ii) is made available in the tax year to the person by another company in the same group.
+  (1) The total amount of attributed CFC net loss and FIF net loss, relating to a CFC or FIF that is resident in the jurisdiction when the loss arises, that is subtracted from the person's net income for the tax year is—
+    (a) the total amount of attributed CFC income and FIF income calculated under the branch equivalent method that the person derives in the tax year in relation to a CFC or FIF that is resident in the jurisdiction, if that amount is less than or equal to the amount referred to in paragraph (b); or
+    (b) the total amount of such attributed CFC net loss and FIF net loss that—
+      (i) the person carries forward to the tax year:
+      (ii) is made available in the tax year to the person by another company in the same group.
 ((4)–(9)) Amendment(s) incorporated in the Act(s).
 (10) Subsections (1), (3), and (7) apply for the 2008–09 and later income years.
 ((11)–(12)) Amendment(s) incorporated in the Act(s).
