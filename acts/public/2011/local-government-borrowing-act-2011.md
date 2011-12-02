@@ -1,5 +1,5 @@
 # Local Government Borrowing Act 2011
-_Consolidation as at 2011-09-19_
+_Consolidation as at 2011-12-02_
 
 ### 1 Title
 This Act is the Local Government Borrowing Act 2011.
