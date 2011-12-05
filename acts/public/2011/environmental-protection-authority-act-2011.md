@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-12-05_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
