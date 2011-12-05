@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2011-12-05_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -35,12 +35,14 @@ _Consolidation as at 2011-07-01_
   - **databank compulsion notice hearing** means a hearing requested under section 41
   - **databank request** means a request made pursuant to section 30
   - **detained under a sentence of imprisonment** has the meaning given to it by section 4A
+  - **District Court** , in sections 6(2)﻿(b)﻿(vii), 7(b)﻿(viii), 13(1), 14(1)﻿(a), 15(1), 16(1), and 18(1) and (3)﻿(b)﻿(vii), includes a Youth Court if the suspect or respondent is subject to the Youth Court's jurisdiction
   - **DNA profile** , in relation to any person, means information derived from an analysis of a sample of genetic material obtained from that person, being information—
     (a) that is clearly identifiable as relating to that person; and
     (b) that is able to be compared with information obtained from an analysis (using the same technique) of another sample of genetic material for the purpose of determining, with reasonable certainty, whether or not the other sample is from that person
   - **DNA profile databank** means a databank established pursuant to section 25
   - **fingerprick sample** means a sample of capillary blood taken, in accordance with normal medical procedures, from the tip of a finger or thumb
   - **forensic comparison** means the comparison of a DNA profile stored in a DNA profile databank with another DNA profile, where that comparison is undertaken for the purpose of confirming or disproving the involvement of any person in the commission of an offence
+  - **imprisonable offence** means an offence punishable by a term of imprisonment; and includes an offence punishable by imprisonment for life
   - **independent adult** has the meaning given to it in section 2A
   - **indictable offence** has the same meaning as it has in the Summary Proceedings Act 1957
   - **juvenile compulsion order** means an order made under section 23
@@ -152,7 +154,7 @@ This Act binds the Crown.
 
 ### 5 Authority to take bodily sample from suspect
 Subject to section 72, in any criminal investigation in respect of an offence committed or believed to have been committed, a bodily sample may be taken from a suspect, for the purposes of that investigation, on behalf of any constable only if—
-  (a) the offence is an indictable offence; and
+  (a) the offence is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) either,—
     (i) in the case of a suspect who is of or over the age of 17 years, the suspect consents to the taking of that sample in accordance with section 9; or
     (ii) in the case of a suspect who is of or over the age of 14 years but under 17 years, both the suspect and a parent of the suspect consent to the taking of that sample in accordance with section 9; or
@@ -165,7 +167,7 @@ The authority in this Part to take, or order the taking of, a bodily sample from
 **Obtaining bodily sample by consent**
 
 ### 6 Request to consent to taking of bodily sample
-(1) Subject to section 8, for the purposes of any criminal investigation in respect of an indictable offence committed or believed to have been committed, a constable may request any suspect to give a bodily sample if that constable has reasonable grounds to believe that analysis of the sample would tend to confirm or disprove the suspect’s involvement in the commission of the offence.
+(1) Subject to section 8, for the purposes of any criminal investigation in respect of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule committed or believed to have been committed, a constable may request any suspect to give a bodily sample if that constable has reasonable grounds to believe that analysis of the sample would tend to confirm or disprove the suspect’s involvement in the commission of the offence.
 (2) Subject to section 8, on making a request under subsection (1) of this section, the constable shall—
   (a) hand to the suspect to whom the request is made a written notice containing the particulars specified in section 7(b); and
   (b) inform the suspect, in a manner and in language that the suspect is likely to understand,—
@@ -175,25 +177,25 @@ The authority in this Part to take, or order the taking of, a bodily sample from
     (iv) that if the suspect consents to the taking of the sample, the suspect may, at any time before the sample is taken, withdraw that consent; and
     (v) that the suspect may wish to consult a lawyer before deciding whether or not to consent to the taking of the sample; and
     (vi) that the sample will be analysed and may provide evidence that may be used in criminal proceedings; and
-    (vii) that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, and that offence is a relevant offence, an application may be made to a High Court Judge for an order requiring the suspect to give a bodily sample.
+    (vii) that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, and that offence is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, an application may be made to a District Court Judge for an order requiring the suspect to give a bodily sample.
 
 ### 7 Form and content of notice
 Subject to section 8, every notice given pursuant to section 6(2)﻿(a)—
   (a) shall be in the prescribed form; and
   (b) shall contain the following particulars:
-    (i) a statement that it is believed that the suspect has or may have committed an indictable offence and is being requested to consent to the taking of a bodily sample:
+    (i) a statement that it is believed that the suspect has or may have committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and is being requested to consent to the taking of a bodily sample:
     (ii) a statement that there are reasonable grounds to believe that analysis of the sample would tend to confirm or disprove the suspect’s involvement in the commission of that offence:
     (iii) a statement that the suspect is under no obligation to give the sample:
     (iv) a statement that if the suspect consents to the taking of the sample, the suspect may, at any time before the sample is taken, withdraw that consent:
     (v) a statement that the suspect may wish to consult a lawyer before deciding whether or not to consent to the taking of the sample:
     (vi) a statement that unless, within the period of 48 hours after the request is made, the suspect consents to the taking of the sample, the suspect shall be deemed to have refused to consent to the taking of the sample:
     (vii) a statement that the sample will be analysed and may provide evidence that may be used in criminal proceedings:
-    (viii) a statement that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, and that offence is a relevant offence, an application may be made to a High Court Judge for an order requiring the suspect to give a bodily sample:
+    (viii) a statement that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, an application may be made to a District Court Judge for an order requiring the suspect to give a bodily sample:
     (ix) a summary of the provisions of sections 48, 49, and 49A relating to the procedure for taking the sample:
     (x) a statement that the suspect may request that the sample be taken in the presence of a lawyer, or another person, of the suspect’s own choice:
     (xi) a summary of the provisions of sections 55, 56, 56A, and 59 relating to the procedures for the analysis of that sample and the disclosure of the results of the analysis:
     (xii) a statement that the sample, and any information derived from any analysis of the sample, will be held by or on behalf of the Police:
-    (xiii) a statement that if the suspect is convicted of the offence in respect of which the sample is taken, or a related offence, and the offence of which the suspect is convicted is a relevant offence, information derived from any analysis of the sample will be held on a DNA profile databank:
+    (xiii) a statement that if the suspect is convicted of the offence in respect of which the sample is taken, or a related offence, information derived from any analysis of the sample will be held on a DNA profile databank:
     (xiv) a reference to the provisions of section 60 relating to the destruction of the sample and of any information derived from any analysis of the sample:
     (xv) such other particulars as may be prescribed.
 
@@ -260,11 +262,11 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 **Obtaining bodily sample by court order from persons 17 and over**
 
 ### 13 Application for order authorising taking of bodily sample
-(1) An application may be made in accordance with this section to a High Court Judge for an order requiring a suspect who is of or over the age of 17 years to give a bodily sample in any case where—
-  (a) there is good cause to suspect that the suspect has committed a relevant offence; and
+(1) An application may be made in accordance with this section to a District Court Judge for an order requiring a suspect who is of or over the age of 17 years to give a bodily sample in any case where—
+  (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) the suspect has refused to consent to the taking of a bodily sample in response to a suspect request made in respect of that offence, or a related offence.
 (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing and on oath, and shall set out the following particulars:
-  (a) the facts relied on to show that there is good cause to suspect that the respondent has committed a relevant offence:
+  (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule:
   (b) the reasons why it is considered necessary to obtain a suspect compulsion order in relation to the respondent, including the facts relied on to show that there are reasonable grounds to believe that analysis of a bodily sample taken from the respondent would tend to confirm or disprove the respondent’s involvement in the commission of the offence:
   (c) where possible, the type of analysis that is likely to be required in respect of the bodily sample sought from the respondent, having regard to the nature of the material (being material of the kind referred to in paragraph (b) of section 16(1)) found in any of the circumstances referred to in that paragraph.
 (3) Subject to section 15, where an application is made under this section,—
@@ -274,13 +276,13 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 
 ### 14 Prohibition against publication of name of respondent
 (1) Where an application is made under section 13, no person shall publish, in any report or account relating to any proceedings on that application, the name of the respondent, or any name or particulars likely to lead to the identification of the respondent, unless—
-  (a) a High Court Judge, by order, permits such publication; or
+  (a) a District Court Judge, by order, permits such publication; or
   (b) subject to subsection (2), at the time of the publication of the report or account, the respondent is charged with the offence to which the application relates, or a related offence.
 (2) Nothing in subsection (1)﻿(b) applies where there is in force in respect of the respondent, in relation to the offence to which the application relates or a related offence, any order of any court the effect of which is to prohibit the publication of any name or particulars likely to lead to the identification of the respondent.
 (3) Nothing in this section shall be construed to limit or restrict the provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to any judicial proceedings.
 
 ### 15 Information may be withheld from respondent
-(1) Where an application is made under section 13, a High Court Judge may, on the ex parte application of the applicant, order that any information included in the application made under section 13 shall not be disclosed to the respondent, and that information is not required to be included in the notice given to the respondent pursuant to subsection (3)﻿(a) of that section.
+(1) Where an application is made under section 13, a District Court Judge may, on the ex parte application of the applicant, order that any information included in the application made under section 13 shall not be disclosed to the respondent, and that information is not required to be included in the notice given to the respondent pursuant to subsection (3)﻿(a) of that section.
 (2) On the hearing of any application made under section 13, the Judge may, on the application of the applicant, order that any evidence to be tendered on behalf of the applicant may be tendered in writing, and shall not be disclosed to the respondent. An application for such an order shall be heard in the absence of the respondent.
 (3) A Judge may not make an order under subsection (1) or subsection (2) in relation to any information or evidence unless the Judge is satisfied—
   (a) that the disclosure of that information or evidence to the respondent would be likely—
@@ -295,8 +297,8 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
   (b) the publication of reports or particulars relating to any such proceedings.
 
 ### 16 Judge may authorise bodily sample to be taken
-(1) On the hearing of an application for a suspect compulsion order, a High Court Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
-  (a) there is good cause to suspect that the respondent (being a person who is of or over the age of 17 years) has committed the relevant offence to which the application relates; and
+(1) On the hearing of an application for a suspect compulsion order, a District Court Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
+  (a) there is good cause to suspect that the respondent (being a person who is of or over the age of 17 years) has committed the offence to which the application relates; and
   (b) material reasonably believed to be from, or genetically traceable to, the body of a person who committed the offence has been found or is available—
     (i) at the scene of the offence; or
     (ii) on the victim of the offence; or
@@ -332,8 +334,8 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 **Obtaining bodily sample by court order from persons under 17**
 
 ### 18 Application for order authorising taking of bodily sample from person under 17
-(1) An application may be made in accordance with this section to a High Court Judge for an order requiring a suspect who is under the age of 17 years to give a bodily sample in any case where—
-  (a) there is good cause to suspect that the suspect has committed a relevant offence; and
+(1) An application may be made in accordance with this section to a District Court Judge for an order requiring a suspect who is under the age of 17 years to give a bodily sample in any case where—
+  (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) the suspect may lawfully be prosecuted for that offence (being, in the case of a suspect who is a child or was a child at the time the offence is alleged to have been committed,—
     (i) the offence of murder or manslaughter; or
     (ii) an offence (other than murder or manslaughter)—
@@ -346,7 +348,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
     (i) a suspect request has been made to the suspect in respect of that offence, or a related offence; but
     (ii) consent to the taking of a bodily sample in response to the request has been refused, either by the suspect or by a parent of the suspect, or both.
 (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing and on oath, and shall set out the following particulars:
-  (a) the facts relied on to show that there is good cause to suspect that the respondent has committed a relevant offence:
+  (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule:
   (b) the reasons why it is considered necessary to obtain a juvenile compulsion order in relation to the respondent, including the facts relied on to show that there are reasonable grounds to believe that analysis of a bodily sample taken from the respondent would tend to confirm or disprove the respondent’s involvement in the commission of the offence:
   (c) where possible, the type of analysis that is likely to be required in respect of the bodily sample sought from the respondent, having regard to the nature of the material (being material of the kind referred to in paragraph (d) of section 23(1)) found in any of the circumstances referred to in that paragraph.
 (3) Subject to section 15 (as applied by section 20), where an application is made under this section for a juvenile compulsion order,—
@@ -361,7 +363,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
     (iv) any person who is a parent of, or who has the care of, the respondent:
     (v) any lawyer representing any person referred to in subparagraph (iv):
     (vi) any person on whom notice of the application is served pursuant to paragraph (a)﻿(iii):
-    (vii) with the leave of a High Court Judge, any other person.
+    (vii) with the leave of a District Court Judge, any other person.
 (4) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be admissible in a court of law.
 
 ### 19 Prohibition against publication of name of respondent under 17
@@ -393,7 +395,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 
 ### 23 Judge may authorise bodily sample to be taken
 (1) On the hearing of an application for a juvenile compulsion order, a Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
-  (a) there is good cause to suspect that the respondent (being a person who is under the age of 17 years) has committed the relevant offence to which the application relates; and
+  (a) there is good cause to suspect that the respondent (being a person who is under the age of 17 years) has committed the offence to which the application relates; and
   (b) the respondent may lawfully be prosecuted for that offence (being, in the case of a suspect who is a child or was a child at the time the offence is alleged to have been committed,—
     (i) the offence of murder or manslaughter; or
     (ii) an offence (other than murder or manslaughter)—
@@ -444,7 +446,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
   (e) conditions included by the Judge under subsection (2):
   (f) a statement that if the suspect refuses to allow a bodily sample to be taken, a sample may be taken by force under section 54(2) and, if applicable, section 54(3):
   (g) a statement that the sample, and any information derived from any analysis of the sample, will be held by or on behalf of the Police:
-  (h) a statement that if the suspect is convicted of the offence in respect of which the order is made, or a related offence that is a relevant offence, information derived from any analysis of the sample will be held on a DNA profile databank:
+  (h) a statement that if the suspect is convicted of the offence in respect of which the order is made, or a related offence that is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, information derived from any analysis of the sample will be held on a DNA profile databank:
   (i) a reference to the provisions of section 60 relating to the destruction of the sample and of any information derived from any analysis of the sample:
   (j) such other particulars as may be prescribed.
 
@@ -548,12 +550,12 @@ A notice given under section 24E(a) must—
 ### 24I Buccal sample to be forwarded to approved agency as soon as practicable
 If a buccal sample is taken as a result of a Part 2A request, the Police must ensure that the buccal sample is forwarded to an approved agency as soon as is practicable after it is taken.
 
-## Part 2B — Taking bodily sample from person arrested or intended to be charged with relevant offence
+## Part 2B — Taking bodily sample from person arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule
 
-### 24J Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with relevant offence
+### 24J Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule
 (1) A constable may require a person who is of or over the age of 17 years to give a bodily sample if either—
-  (a) the person is in the lawful custody of the Police and being detained for committing a relevant offence and is at a Police station or at any other place being used for Police purposes; or
-  (b) a constable has good cause to suspect the person of committing a relevant offence and intends to bring proceedings against the person in respect of that offence by way of summons.
+  (a) the person is in the lawful custody of the Police and being detained for committing an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and is at a Police station or at any other place being used for Police purposes; or
+  (b) a constable has good cause to suspect the person of committing an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and intends to bring proceedings against the person in respect of that offence by way of summons.
 (2) The sample must be taken in accordance with the procedures set out in Part 4.
 (3) If subsection (1)﻿(b) applies, a constable may detain the person at any place—
   (a) in order for the bodily sample to be taken; and
@@ -637,10 +639,10 @@ There may be maintained (whether in computerised form or otherwise), by or on be
 Subject to sections 60, 60A, and 62, the following information may be stored on a DNA profile databank:
   (a) any DNA profile derived from a bodily sample taken from any person pursuant to Part 2, where—
     (i) that person is convicted of the offence in respect of which the sample is taken, or of a related offence, (unless the conviction is subsequently quashed); and
-    (ii) the offence of which the person is convicted is a relevant offence:
+    (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule:
   (ab) any DNA profile derived from a bodily sample taken from a person under Part 2B if—
-    (i) that person is convicted of the triggering offence, or of a related relevant offence (unless the conviction is subsequently quashed); and
-    (ii) the offence of which the person is convicted is a relevant offence; and
+    (i) that person is convicted of the triggering offence, or of a related imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule (unless the conviction is subsequently quashed); and
+    (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
     (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or a Youth Court makes an order under section 283 of the Children, Young Persons, and Their Families Act 1989:
   (ac) any DNA profile derived from a bodily sample taken from a young person under Part 2B if—
     (i) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the information relating to the offence after finding that the offence was proved; and
@@ -663,13 +665,19 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
   (a) if the profile is stored in relation to an offence and a court imposes a sentence of imprisonment for the offence:
   (b) if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in subsection (4):ExamplesDuring a 10-year period for a section 283 order, another section 283 order is made against the person or a conviction (with or without imprisonment) is entered against the person by any court.During a 10-year period for a conviction by a District Court, a section 283 order is made against the person or another conviction (with or without imprisonment) is entered against the person by any court.During a 4-year retention period for a section 282 order, 2 further section 282 orders are made against the person.
   (c) in any other case (whether the person is a young person or of or over the age of 17 years), no fixed retention period is specified by this Act.
+(6) The profile must be removed from the databank no later than 10 years after the date on which the person ceases to be subject to a sentence of imprisonment in respect of the offence, or, in any other case, no later than 10 years after the date of conviction, if—
+  (a) either—
+    (i) the person to whom the profile relates was a young person on the date of the offence referred to in section 26(a) or, as the case may be, section 26(ab), and a court imposed a community-based sentence in respect of the offence; or
+    (ii) the person to whom the profile relates was of or over 17 years of age on the date of the offence referred to in section 26(a) or, as the case may be, section 26(ab); and
+  (b) the conviction was for an offence that was not a relevant offence at the time of the conviction; and
+  (c) the person has not been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule since the date of the conviction.
 
 ### 26B Certain young persons may apply for removal of DNA profiles from DNA profile databank
 (1) This section applies to a person if,—
   (a) before the commencement of this section,—
     (i) a DNA profile of the person was taken and stored on a DNA databank under Part 2 when the person was a young person; and
     (ii) a Youth Court made an order in relation to the person under section 282 or 283 of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
-  (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence.
+  (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
 (2) The person’s DNA profile must be removed from the DNA databank and destroyed if the person applies in writing to the Commissioner requesting the removal of the profile.
 
 ### 27 Access to and disclosure of information on DNA profile databank
@@ -834,17 +842,17 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 
 ### 39 Issue and service of databank compulsion notice
 (1) A constable who is of or above the level of position of inspector may issue a databank compulsion notice requiring a person to give a bodily sample if—
-  (a) the person has been convicted of a relevant offence; and
+  (a) the person has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) the conviction is one to which this Part applies under section 4.
 (2) If a databank compulsion notice is issued, the Police must—
   (a) serve the notice on the person to whom it relates by handing the notice to the person; and
   (b) if that person is under the age of 17 years, take all reasonable steps to serve a copy of the notice on a parent or other person having the care of that person by giving him or her a copy of it; and
   (c) explain the contents of the notice to the person being served in a manner, and in a language, that the person is likely to understand.
-(3) If a person in relation to whom a databank compulsion notice is issued is not detained under a sentence of imprisonment for the relevant offence in relation to which it is issued, the notice—
-  (a) must be served on a date as soon as is reasonably practicable after the person’s conviction for the relevant offence is entered; but
-  (b) need not be served on a date before the person is sentenced for the relevant offence; and
+(3) If a person in relation to whom a databank compulsion notice is issued is not detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule in relation to which it is issued, the notice—
+  (a) must be served on a date as soon as is reasonably practicable after the person’s conviction for the imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule is entered; but
+  (b) need not be served on a date before the person is sentenced for the imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (c) must be served on a date that allows for the taking of a bodily sample in accordance with section 39C(3) (which describes the dates between which a person who is not detained under a sentence of imprisonment may be required to attend to give a bodily sample).
-(4) If a person in relation to whom a databank compulsion notice is issued is detained under a sentence of imprisonment for the relevant offence in relation to which it is issued, the notice must be served on a date that allows for the taking of a bodily sample in accordance with section 39C(4) (which describes the dates between which a person who is detained under a sentence of imprisonment may be required to attend to give a bodily sample).
+(4) If a person in relation to whom a databank compulsion notice is issued is detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule in relation to which it is issued, the notice must be served on a date that allows for the taking of a bodily sample in accordance with section 39C(4) (which describes the dates between which a person who is detained under a sentence of imprisonment may be required to attend to give a bodily sample).
 
 ### 39A Form and content of databank compulsion notice
 (1) Every databank compulsion notice must be in the prescribed form.
@@ -1367,13 +1375,12 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (e) if the person is charged with such an offence before the expiry of that period, as soon as practicable after—whichever occurs first; or
     (i) the charge is withdrawn; or
     (ii) the person is acquitted of the offence,—
-  (f) if the person is convicted of such an offence, and the offence is not a relevant offence, as soon as practicable after the expiry of the appeal period applicable to the conviction.
-(2) Where—then,—
-  (a) a bodily sample is taken pursuant to Part 2 from any person; and
-  (b) that person is convicted of the offence in respect of which the sample is taken, or of a related offence; and
-  (c) the offence of which the person is convicted is a relevant offence,—
-  (d) where the appeal period applicable to the conviction expires not later than 3 months before the specified date, the Commissioner shall ensure that the sample is destroyed not later than the close of the specified date; and
-  (e) where the appeal period applicable to the conviction expires on or after the specified date, or at any time within the period of 3 months before the specified date, the Commissioner shall ensure that the sample is retained only for as long as is necessary to enable a DNA profile to be obtained from the sample, and is then destroyed.
+  (f) if the person is convicted of such an offence, and the offence is not an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule, as soon as practicable after the expiry of the appeal period applicable to the conviction.
+(2) Subsection (2A) applies if—
+  (a) a bodily sample is taken under Part 2 from a person; and
+  (b) the person is convicted of the offence in respect of which the sample is taken, or of a related offence; and
+  (c) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
+(2A) The Commissioner must ensure that the sample is retained only for as long as necessary to enable a DNA profile to be obtained from the sample, and is then destroyed.
 (3) Nothing in this section requires the destruction of any DNA profile that may lawfully be retained in a DNA profile databank.
 (4) Nothing in subsection (1)﻿(f) applies where the conviction for the offence is quashed on appeal and a new trial is ordered.
 
@@ -1393,7 +1400,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
 (4) Nothing in this section requires the destruction of a DNA profile that may lawfully be retained in a DNA profile databank.
 
 ### 61 Extension of period for which sample may be retained
-(1) On application in accordance with this section, a High Court Judge may,—
+(1) On application in accordance with this section, a District Court Judge may,—
   (a) in respect of a bodily sample taken under Part 2 and related records as described in section 60(1)﻿(b) and (c), extend the period specified in section 60(1)﻿(d); or
   (b) in respect of records as described in section 60A(1)﻿(b) and (c), extend the period specified in section 60A(3)﻿(a).
 (1A) In this section, the period in section 60(1)﻿(d) or, as the case may be, section 60A(3)﻿(a) is referred to as the relevant period.
@@ -1401,7 +1408,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (a) may be made only by a constable who is of or above the level of position of inspector; and
   (b) may be made at any time before the relevant period (or any current extension of the relevant period granted pursuant to this section) has expired; and
   (c) shall be made ex parte.
-(3) An extension or, as the case requires, a further extension of the relevant period may be granted under this section only if the High Court Judge is satisfied—
+(3) An extension or, as the case requires, a further extension of the relevant period may be granted under this section only if the District Court Judge is satisfied—
   (a) that the person from whom the bodily sample was taken has not been charged with the triggering offence, or a related relevant offence; and
   (b) either of the circumstances mentioned in subsection (3A) exists.
 (3A) The circumstances referred to in subsection (3) are—
