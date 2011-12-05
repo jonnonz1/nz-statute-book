@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2011-12-05_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -44,7 +44,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (a) specifically to 1 or more classes of persons who carry out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 on and after a date appointed in the order; or
   (b) generally to all persons who carry out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 on and after a date appointed in the order.
 (3) Before recommending that an Order in Council be made under section 2A(8) or (9), the Minister must have regard to—
-  (a) the need for the chief executive responsible for the administration of Parts 4 and 5 of this Act to be able to verify information contained in emissions returns of the persons who will become participants in respect of an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 by operation of the order; and
+  (a) the need for the EPA to be able to verify information contained in emissions returns of the persons who will become participants in respect of an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 by operation of the order; and
   (b) the likelihood that, as a result of becoming participants by operation of the order, persons carrying out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 will reduce their emissions; and
   (c) the desirability of minimising—
     (i) the compliance and administration costs of persons who will become participants in respect of an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 by operation of the order; and
@@ -68,7 +68,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (b) section 2A(9) that has the effect of applying subpart 4 of Part 5 of Schedule 3 to all persons who carry out an activity listed in that subpart from a date appointed in that order, then section 2A(6) and subpart 3 of Part 5 of Schedule 3 expire and are repealed on the date from which all persons carrying out an activity listed in subpart 4 of Part 5 of Schedule 3 are liable to surrender units in respect of emissions from the activity.
 (5) If, by operation of subsection (3)(a) or (b) or (4)(a) or (b), this Act no longer applies to a person carrying out an activity in subpart 1 or 3 of Part 5 of Schedule 3, or an activity listed in subpart 1 or 3 of Part 5 of Schedule 3 is repealed, then—
   (a) section 54(4) applies, with any necessary modifications, to any person who has ceased, by operation of the provision, to be a participant in respect of that activity; and
-  (b) the person is not required to comply with section 59, but the chief executive may, for the purposes of section 59(2), determine that the person has ceased to carry out the activity.
+  (b) the person is not required to comply with section 59, but the EPA may, for the purposes of section 59(2), determine that the person has ceased to carry out the activity.
 
 ### 3 Purpose
 (1) The purpose of this Act is to—
@@ -78,7 +78,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (b) provide for the implementation, operation, and administration of a greenhouse gas emissions trading scheme in New Zealand that supports and encourages global efforts to reduce greenhouse gas emissions by assisting New Zealand to meet its international obligations under the Convention and the Protocol, and by reducing New Zealand's net emissions below business-as-usual levels.
 (2)
 (2) A person who exercises a power or discretion, or carries out a duty, under this Act must exercise that power or discretion, or carry out that duty, in a manner that is consistent with the purpose of this Act.
-(3) For the purposes of this section, business-as-usual levels means the levels of New Zealand's greenhouse gas emissions, estimated by a Minister or chief executive with powers or functions under this Act at any particular point in time, as if the greenhouse gas emissions trading scheme provided for under this Act had not been implemented.
+(3) For the purposes of this section, business-as-usual levels means the levels of New Zealand's greenhouse gas emissions, estimated by the Minister or the EPA at any particular point in time, as if the greenhouse gas emissions trading scheme provided for under this Act had not been implemented.
 
 ### 3A Treaty of Waitangi (Te Tiriti o Waitangi)
 In order to recognise and respect the Crown’s responsibility to give effect to the principles of the Treaty of Waitangi,—
@@ -93,7 +93,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (f) with respect to section 162 (which relates to regulations adding further activity to Part 2 of Schedule 4), before recommending the making of a regulation under section 162(1), the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulation:
   (g) with respect to section 163 (which relates to regulations relating to methodologies and verifiers), before recommending the making of a regulation under section 163(1), the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulation:
   (h) with respect to section 164 (which relates to regulations relating to unique emissions factors), before recommending the making of a regulation under section 164, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulation:
-  (i) with respect to section 224 (which relates to the gazetting of targets), before the Minister responsible for the administration of this Act may set, amend, or revoke a target, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the target:
+  (i) with respect to section 224 (which relates to the gazetting of targets), before the Minister may set, amend, or revoke a target, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the target:
   (j) with respect to section 225 (which relates to regulations relating to targets), before recommending the making of a regulation under section 225(1), the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulation.
 
 ### 4 Interpretation
@@ -123,8 +123,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **carry-over** means the transfer of an assigned amount unit, certified emission reduction unit, or emission reduction unit from the relevant commitment period to a subsequent commitment period so that the unit remains capable of being transferred, retired, cancelled, or carried-over in that subsequent commitment period
   - **CDM registry** means the registry established and maintained as the clean development mechanism registry under Article 12 of the Protocol
   - **certified emission reduction unit** means a unit derived from a clean development mechanism project, issued by the CDM registry, and designated as a certified emission reduction unit by the CDM registry
-  - **chief executive** , in relation to a Part or subpart, means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of the Part or subpart
-  - **chief executive responsible for the administration of this Act** means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of this Act
+  - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of this Act
   - **clean development mechanism project** means a project undertaken under Article 12 of the Protocol for the benefit of a Party not listed in Annex I of the Convention
   - **clear** , in relation to a tree,—
     (a) includes—
@@ -190,6 +189,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (c) a final emissions return submitted under section 118; or
     (d) an emissions return submitted under section 187, 189, 191, or 193
   - **entity** , in relation to a group, means a reporting entity or reporting entity’s subsidiary, within the meaning of section 2(1) of the Financial Reporting Act 1993
+  - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **executive board** means the board established under Article 12(4) of the Protocol
   - **exempt land** —
     (a) means pre-1990 forest land that has been declared to be exempt land—
@@ -227,7 +227,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **industrial or trade premises** means any premises used for any industrial or trade purposes, or any premises used for the storage, transfer, treatment, or disposal of waste materials or for other waste-management purposes; but does not include any production land
   - **initial assigned amount** means the allowance of emissions of greenhouse gas assigned to a Party listed in Annex B of the Protocol, measured in tonnes of carbon dioxide equivalent, and calculated under Articles 3.7 and 3.8 of the Protocol
   - **international transaction log** means an international log established and maintained by the Secretariat to confirm the validity of transactions, including the issue and transfer of Kyoto units between registries and between accounts in the Registry
-  - **inventory agency** means the chief executive of the department that is, with the authority of the Prime Minister, responsible for the administration of Part 3
+  - **inventory agency** means the chief executive
   - **joint implementation project** means a project aimed at reducing the human-induced emissions of greenhouse gases by sources or enhancing the human-induced removals by sink activities of a Party listed in Annex I of the Convention that is undertaken under Article 6 of the Protocol
   - **Kyoto units** means all of the unit types specified in, or in accordance with, the Protocol (namely, assigned amount units, certified emission reduction units, emission reduction units, long-term certified emission reduction units, removal units, and temporary certified emission reduction units)
   - **landowner** ,—
@@ -252,8 +252,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) wood that is decayed or grossly distorted; and
     (c) wood that is less than 10 centimetres in diameter, excluding the bark
   - **mining** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
-  - **Minister** , in relation to a Part of this Act, means the Minister who is, under the authority of any warrant or under the authority of the Prime Minister, responsible for the administration of the Part
-  - **Minister responsible for the administration of this Act** means the Minister who is, under the authority of any warrant or under the authority of the Prime Minister, responsible for the administration of this Act
+  - **Minister** means the Minister who is, under the authority of any warrant or under the authority of the Prime Minister, responsible for the administration of this Act
   - **natural gas** means—
     (a) all gaseous hydrocarbons produced from wells, including wet gas and residual gas remaining after the extraction of condensate from wet gas; and
     (b) liquid hydrocarbons, other than condensate, extracted from wet gas and sold as natural gas liquids, for example, liquid petroleum gas; and
@@ -310,6 +309,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) means a lease registered under that Act; and
       (ii) includes a lease registered under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002:
     (b) in relation to a lease in respect of land that is not registered under the Land Transfer Act 1952, means a lease registered under the Deeds Registration Act 1908
+  - **Registrar** means the person appointed under section 11
   - **Registry** means the Registry established in New Zealand for the purpose set out in section 10
   - **relevant commitment period** means a commitment period that is specified or determined under the Protocol, and—
     (a) in which a particular activity or transaction occurs; or
@@ -423,7 +423,8 @@ The Minister of Finance may, on behalf of the Crown,—
 (3) For the purposes of subsection (2)(b)(i), reasonable notice means sufficient opportunity in the circumstances for the relevant account holder to make a written submission to the Minister of Finance on the transfer of the units before the units are transferred.
 
 ### 8 Registrar must give effect to directions of Minister of Finance
-The Registrar must give effect to any directions given by the Minister of Finance under section 6 or section 7 in accordance with, and subject to, the procedures set out in subpart 2 of this Part and regulations made under section 30G.
+(1) The Registrar must give effect to any directions given by the Minister of Finance under section 6 or section 7 in accordance with, and subject to, the procedures set out in subpart 2 of this Part and regulations made under section 30G.
+(2) To avoid doubt, the Crown Entities Act 2004 does not apply to a direction by the Minister of Finance to the Registrar.
 
 ### 8A Minister of Finance must publish directions
 As soon as practicable after giving a direction under section 6 or 7, the Minister of Finance must publish a copy of the direction on the Registry's Internet site.
@@ -434,6 +435,18 @@ For the purposes of managing the Crown's holding of units and discharging New Ze
   (b) direct the Registrar to provide information on those units, including, but not limited to, information indicating—
     (i) how many units the Crown holds; and
     (ii) how many units the Crown has issued or acquired, transferred, retired, replaced, cancelled, and carried-over.
+
+### Subpart 1A — Chief executive
+
+### 9A Functions of chief executive
+The functions of the chief executive are to—
+  (a) advise the Minister; and
+  (b) be the inventory agency; and
+  (c) publish information on the Internet in accordance with this Act.
+
+### 9B Delegation by chief executive
+(1) The chief executive may delegate any of his or her functions, duties, and powers under this Act to the EPA.
+(2) Section 41 of the State Sector Act 1988 applies to a delegation under this section as if the EPA were an employee of the chief executive.
 
 ### Subpart 2 — Registry
 
@@ -459,11 +472,11 @@ For the purposes of managing the Crown's holding of units and discharging New Ze
 
 **Registrar**
 
-### 11 Appointment of Registrar
-The chief executive must appoint a Registrar in accordance with the State Sector Act 1988.
+### 11 EPA to appoint Registrar
+The EPA must appoint an employee of the EPA as the Registrar.
 
 ### 12 Registrar responsible for Registry
-The Registrar is responsible for the operation of the Registry.
+The Registrar is responsible for the operation, on behalf of the Crown, of the Registry.
 
 ### 13 Registrar may refuse access to, or suspend operation of, Registry
 The Registrar may refuse access to the Registry, or otherwise suspend the operation of the Registry (in whole or in part),—
@@ -473,7 +486,7 @@ The Registrar may refuse access to the Registry, or otherwise suspend the operat
   (d) to give effect to New Zealand's international obligations.
 
 ### 14 Registrar must give effect to directions
-The Registrar must give effect to any direction relating to the transfer of units from a Crown holding account (or in the case of reimbursement, from a surrender account) to the holding account of an eligible person or a participant (or, if required, in the prescribed circumstances to another holding account notified by one of those persons) that is given by a Minister or chief executive authorised to give such direction in accordance with a provision in Part 4 or 5 of this Act.
+The Registrar must give effect to any direction relating to the transfer of units from a Crown holding account (or in the case of reimbursement, from a surrender account) to the holding account of an eligible person or a participant (or, if required, in the prescribed circumstances to another holding account notified by one of those persons) that is given by a Minister authorised to give such directions in accordance with a provision in Part 4 or 5 of this Act or the EPA.
 
 ### 15 Registrar to allocate unique numbers
 (1) The Registrar must, in accordance with regulations made under this Act,—
@@ -499,7 +512,7 @@ The Registrar must give effect to any direction relating to the transfer of unit
 (2) This section does not apply to transfers or cancellations of Kyoto units that the Registrar has issued as emission reduction units that were verified by the supervisory committee.
 
 ### 17A Power of Registrar to delegate
-(1) The Registrar may, in writing, delegate to any person who is employed in the State services all or any of the functions, duties, and powers exercisable by the Registrar under this Act, except this power of delegation.
+(1) The Registrar may, in writing, delegate to any person who is employed by the EPA or in the State services all or any of the functions, duties, and powers exercisable by the Registrar under this Act, except this power of delegation.
 (2) Subject to any general or special directions given or conditions specified at any time by the Registrar, the person to whom any functions, duties, or powers are delegated under this section must perform and may exercise those functions, duties, and powers in the same manner and with the same effect as if they had been conferred on that person directly by a section of this Act and not by delegation.
 (3) Every person purporting to act under any delegation under this section is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 (4) Any delegation under this section may be to a specified person or to persons of a specified class, or may be to the holder or holders for the time being of a specified office or specified classes of offices.
@@ -539,14 +552,14 @@ The Registrar must give effect to any direction relating to the transfer of unit
 
 ### 18B Closing holding accounts
 (1) An account holder may submit a request to the Registrar to close 1 or more of that account holder's holding accounts in the unit register by using the form and paying the fee (if any) prescribed in regulations made under this Act.
-(2) The chief executive may give a direction to the Registrar to close an account holder's holding account—
-  (a) if the chief executive has the written consent of the account holder; or
+(2) The EPA may give a direction to the Registrar to close an account holder's holding account—
+  (a) if the EPA has the written consent of the account holder; or
   (b) where written consent is not given,—
-    (i) if the chief executive has given the account holder reasonable notice; and
+    (i) if the EPA has given the account holder reasonable notice; and
     (ii) if—
       (A) the closure is required to comply with New Zealand's obligations under the Protocol; or
       (B) the account holder has failed to comply with this Part or any regulations made regarding the matters specified in section 30G; or
-      (C) the chief executive is satisfied that the account holder no longer requires the account.
+      (C) the EPA is satisfied that the account holder no longer requires the account.
 (3) If there are any units remaining in a holding account when it is closed,—
   (a) the units are forfeited to the Crown; and
   (b) the Registrar must, as soon as practicable, transfer the units to a Crown holding account.
@@ -555,8 +568,8 @@ The Registrar must give effect to any direction relating to the transfer of unit
 (6) For the purposes of subsection (2)(b)(i), reasonable notice means sufficient opportunity in the circumstances to—
   (a) transfer the units to another account before the holding account that is the subject of the closure direction is closed; or
   (b) in the case of non-compliance, comply with this Part or any regulations made under section 30G; or
-  (c) if the chief executive is satisfied that an account holder no longer requires a holding account, make a written submission to the chief executive, before the account is closed, regarding the account holder’s need to retain the account.
-(7) The Registrar must give effect to any directions given by the chief executive under subsection (2) in accordance with, and subject to, the procedures set out in this subpart and any regulations made under section 30G.
+  (c) if the EPA is satisfied that an account holder no longer requires a holding account, make a written submission to the EPA, before the account is closed, regarding the account holder’s need to retain the account.
+(7) The Registrar must give effect to any directions given by the EPA under subsection (2) in accordance with, and subject to, the procedures set out in this subpart and any regulations made under section 30G.
 
 ### 18C Transfer of units
 (1) An account holder may, by using the form and paying the fees (if any) prescribed in regulations made under this Act, apply to the Registrar to transfer units from that account holder's holding account to another account in—
@@ -573,8 +586,8 @@ The Registrar must give effect to any direction relating to the transfer of unit
 (2) A Kyoto unit that is transferred to a retirement account may not be further transferred, retired, surrendered, carried-over, or cancelled.
 (3) A Kyoto unit that is transferred to a surrender account may only be further transferred, in accordance with—
   (a) a direction from the Minister of Finance, to a retirement account or a cancellation account; or
-  (b) a direction of the chief executive of the department responsible for the administration of Part 4 given under section 124, to a participant's holding account.
-(4) A New Zealand unit or an approved overseas unit that is transferred to a surrender account may only be further transferred in accordance with a direction of the chief executive of the department responsible for the administration of Part 4 given under section 124.
+  (b) a direction of the EPA given under section 124, to a participant's holding account.
+(4) A New Zealand unit or an approved overseas unit that is transferred to a surrender account may only be further transferred in accordance with a direction of the EPA given under section 124.
 (5) A New Zealand unit that is transferred to a conversion account may not be surrendered, cancelled, or otherwise further transferred except as required by section 30E(4)(b).
 
 ### 18CB Restriction on surrender of assigned amount units
@@ -591,10 +604,10 @@ The Registrar must give effect to any direction relating to the transfer of unit
   (b) a CP1 imported assigned amount unit has been transferred to a surrender account to meet a participant’s obligations under section 63 in respect of any emissions from any activities listed in Schedule 3 or 4 carried out by the participant after 31 December 2012.
 (2) If this section applies, the Registrar must—
   (a) reverse the transfer; and
-  (b) notify the participant and the chief executive of the department responsible for the administration of Part 4 that the transfer has been reversed.
+  (b) notify the participant and the EPA that the transfer has been reversed.
 (3) If a transfer is reversed under subsection (2),—
-  (a) the chief executive of the department responsible for the administration of Part 4 must treat the transfer as never taking place for the purpose of assessing whether a participant has surrendered the required number of units by the due date as required under any section of this Act; and
-  (b) if the chief executive of the department responsible for the administration of Part 4 considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under section 134(3)(a).
+  (a) the EPA must treat the transfer as never taking place for the purpose of assessing whether a participant has surrendered the required number of units by the due date as required under any section of this Act; and
+  (b) if the EPA considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under section 134(3)(a).
 
 ### 18D Succession
 (1) This section applies if an account holder—
@@ -626,54 +639,54 @@ The Registrar must give effect to any direction relating to the transfer of unit
   (c) the prescribed fees (if any) have not been paid to the Registrar (unless arrangements for payment have been made in accordance with regulations made under this Act).
 
 ### 21 Registration procedure for Kyoto units
-(1) On receipt of a direction in relation to Kyoto units given by a Minister or chief executive authorised to give the direction under a provision of this Act, or an application for the registration of a transaction in relation to Kyoto units by an account holder that is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act, the Registrar must—
+(1) On receipt of a direction in relation to Kyoto units given by the Minister authorised to give the direction under a provision of this Act or the EPA, or an application for the registration of a transaction in relation to Kyoto units by an account holder that is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act, the Registrar must—
   (a) create a unique transaction number; and
   (b) if the proposed transaction concerns the international transaction log, send a record of the proposed transaction to the international transaction log if required to do so by the international transaction log; and
   (c) if the proposed transaction does not concern the international transaction log,—
     (i) record in the unit register the particulars of the transaction set out in the direction or the application; and
     (ii) send electronic notification that the transaction has been recorded in the unit register to,—
-      (A) in the case of a direction, the Minister or chief executive who gave the direction and, if the direction specifies that Kyoto units are to be transferred to a holding account of an account holder other than the Crown, the account holder:
+      (A) in the case of a direction, the Minister or the EPA who gave the direction and, if the direction specifies that Kyoto units are to be transferred to a holding account of an account holder other than the Crown, the account holder:
       (B) in the case of an application, the account holder who submitted the application and the account holder specified in the application as the account holder to whose holding account Kyoto units are to be transferred.
 (2) If the Registrar sends a record of the proposed transaction to the international transaction log under subsection (1)(b) and receives notification back from the international transaction log that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
   (a) record in the unit register the particulars of the transaction set out in the direction or the application; and
   (b) send notification that the transaction has been recorded in the unit register to the international transaction log; and
   (c) send electronic notification that the transaction has been recorded in the unit register to,—
-    (i) in the case of a direction, the Minister or chief executive who gave the direction; or
+    (i) in the case of a direction, the Minister or the EPA who gave the direction; or
     (ii) in the case of an application, the account holder.
 (3) If the Registrar receives a notification from the international transaction log that there is a discrepancy in a transaction in relation to Kyoto units, the Registrar—
   (a) may not register the transaction; and
   (b) must terminate the transaction; and
   (c) must give notification of the termination, as soon as practicable, to the international transaction log; and
   (d) send electronic notification that the transaction has been terminated to,—
-    (i) in the case of a direction, the Minister or chief executive who gave the direction; or
+    (i) in the case of a direction, the Minister or the EPA who gave the direction; or
     (ii) in the case of an application, the account holder.
 (4) This section does not apply to the carry-over of assigned amount units, certified emission reduction units, and emission reduction units.
 
 ### 21AA Registration procedure for New Zealand units and approved overseas units
-(1) On receipt of a direction in relation to New Zealand units or approved overseas units given by a Minister or chief executive authorised to give the direction under a provision of this Act, or an application for the registration of a transaction in relation to New Zealand units or approved overseas units by an account holder, which is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act, the Registrar must—
+(1) On receipt of a direction in relation to New Zealand units or approved overseas units given by a Minister authorised to give the direction under a provision of this Act or the EPA, or an application for the registration of a transaction in relation to New Zealand units or approved overseas units by an account holder, which is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act, the Registrar must—
   (a) create a unique transaction number; and
   (b) if the proposed transaction concerns an overseas registry, send a record of the proposed transaction to the overseas registry if required to do so by the overseas registry; and
   (c) if the proposed transaction does not concern an overseas registry,—
     (i) record in the unit register the particulars of the transaction set out in the direction or the application; and
     (ii) send electronic notification that the transaction has been recorded in the unit register to,—
-      (A) in the case of a direction, the Minister or chief executive who gave the direction and, if the direction specifies that New Zealand units or approved overseas units are to be transferred to the holding account of an account holder other than the Crown, the account holder:
+      (A) in the case of a direction, the Minister or the EPA who gave the direction and, if the direction specifies that New Zealand units or approved overseas units are to be transferred to the holding account of an account holder other than the Crown, the account holder:
       (B) in the case of an application, the account holder who submitted the application and the account holder specified in the application as the account holder to whose holding account New Zealand units or approved overseas units are to be transferred.
 (2) If the Registrar sends a record of the proposed transaction to an overseas registry under subsection (1)(b) and receives notification back from the overseas registry that there are no discrepancies in the transaction, the Registrar must, as soon as practicable,—
   (a) record in the unit register the particulars of the transaction set out in the direction or the application; and
   (b) send notification to the overseas registry that the transaction has been recorded in the unit register; and
   (c) send electronic notification that the transaction has been recorded in the unit register to,—
-    (i) in the case of a direction, the Minister or chief executive who gave the direction; or
+    (i) in the case of a direction, the Minister or the EPA who gave the direction; or
     (ii) in the case of an application, the account holder.
 (3) If the Registrar receives a notification from the overseas registry that there is a discrepancy in a proposed transaction in relation to New Zealand units or approved overseas units, the Registrar—
   (a) may not register the transaction; and
   (b) must terminate the transaction; and
   (c) must notify the overseas registry of the termination; and
   (d) send electronic notification that the transaction has been terminated to,—
-    (i) in the case of a direction, the Minister or chief executive who gave the direction; or
+    (i) in the case of a direction, the Minister or the EPA who gave the direction; or
     (ii) in the case of an application, the account holder.
 
 ### 21A Electronic registration
-A direction to the Registrar by a Minister or chief executive under a provision of this Act or an application by an account holder to register a transaction must be—
+A direction to the Registrar by the Minister or the EPA under a provision of this Act or an application by an account holder to register a transaction must be—
   (a) made electronically in the prescribed form via the Registry's Internet site, and contain the particulars specified in the form; and
   (b) accompanied by the fee (if any) prescribed in regulations made under this Act; and
   (c) made in accordance with regulations made under this Act.
@@ -712,13 +725,13 @@ A direction to the Registrar by a Minister or chief executive under a provision 
 (3) A transfer of New Zealand units or approved overseas units from an overseas registry is subject to any regulations made under this Act.
 
 ### 24 Priority of registration
-(1) A direction given to the Registrar by a Minister or chief executive under a provision of this Act or an application for the registration of a transaction by an account holder must, as soon as practicable, be processed in the chronological order in which it is received by the Registrar.
+(1) A direction given to the Registrar by the Minister or the EPA under a provision of this Act or an application for the registration of a transaction by an account holder must, as soon as practicable, be processed in the chronological order in which it is received by the Registrar.
 (2) A direction or an application is received by the Registrar when it is recorded as being downloaded into the computer maintained to operate the unit register.
 (3) Subsection (1) applies to an application for the registration of a transaction only if the application is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act.
 
 ### 25 Correction of unit register
 (1) If the unit register records a transaction inaccurately, and the inaccuracy is the result of an error or omission made by the Registrar when registering the transaction, then a request to correct the inaccuracy may be submitted by—
-  (a) the Minister or chief executive who gave the direction, if the Registrar registered the transaction following receipt of a direction from a Minister or chief executive authorised to give the direction under a provision of this Act; or
+  (a) the Minister or the EPA who gave the direction, if the Registrar registered the transaction following receipt of a direction from the Minister or the EPA; or
   (b) the account holder who applied to register the transaction.
 (2) The request—
   (a) may be made at any time; and
@@ -804,8 +817,8 @@ A printed search result, or a copy of a printed search result, that purports to 
   (c) information that the Registry holds.
 
 ### 30 Recovery of fees
-(1) A fee that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fees by the chief executive in any court of competent jurisdiction.
-(2) The chief executive may enter into any agreement or arrangement, on any terms that the chief executive thinks fit, with any person to collect, or assist in the collection of, any fees that are payable.
+(1) A fee that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fees by the EPA in any court of competent jurisdiction.
+(2) The EPA may enter into any agreement or arrangement, on any terms that the EPA thinks fit, with any person to collect, or assist in the collection of, any fees that are payable.
 
 ### 30A The Crown or Registrar not liable in relation to searches in certain cases
 No action may be brought against the Crown or the Registrar for any loss or damage resulting from—
@@ -923,6 +936,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (o) providing for the matters that are contemplated by, or necessary for, giving full effect to this Part and for its due administration.
 (2) Regulations made under subsection (1) may be made in respect of different units, transactions, persons, classes of units, subclasses of units, classes of transactions, or classes of persons.
 (3) Any regulation made under subsection (1)(b)(i) or (c) does not apply to the transfer of units that are held in an account in the Registry at the time that the regulation comes into force.
+(3A) The amount of fees set under regulations made under subsection (1)(f) must not exceed the amount necessary to enable the recovery of the direct and indirect costs of the Registrar in performing his or her functions under this Part.
 (4) Any regulations made under subsection (1) must be consistent with the Convention and the Protocol.
 
 ### 30H Procedure for certain regulations relating to units
@@ -999,7 +1013,8 @@ The inventory agency must publish New Zealand's annual inventory report and its 
 (1) The Minister may authorise the following persons, provided that they are suitably qualified and trained, to exercise any or all of the powers of, and carry out any or all of the duties of an inspector under this Part:
   (a) employees of the inventory agency; or
   (b) employees of the Ministry of Agriculture and Forestry and employees of any other department of the public service prescribed by regulation; or
-  (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, New Zealand Pastoral Agriculture Research Institute Limited, and employees of any other Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) prescribed by regulation.
+  (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, New Zealand Pastoral Agriculture Research Institute Limited, and employees of any other Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) prescribed by regulation; or
+  (d) employees of the EPA.
 (2) An authorisation is subject to the terms and conditions that are agreed to by the Minister and the chief executive of the agency that employs the person authorised to be an inspector.
 (3) The Minister must supply an inspector with a warrant of authorisation that clearly states the powers and duties of that inspector.
 (4) An inspector who exercises, or purports to exercise, a power conferred on that inspector under this Part must carry and be able to produce, if required to do so,—
@@ -1116,7 +1131,7 @@ Every person who signs a declaration that is required by regulations made under 
 **Miscellaneous provisions**
 
 ### 49 Reporting
-For the purpose of reporting to the Secretariat under the Convention and the Protocol, the Minister responsible for the administration of this Act may, as and when the Minister thinks fit, direct the inventory agency or the Registrar to provide reports and information to the Minister or directly to the Secretariat.
+For the purpose of reporting to the Secretariat under the Convention and the Protocol, the Minister may, as and when the Minister thinks fit, direct the inventory agency or the Registrar to provide reports and information to the Minister or directly to the Secretariat.
 
 ### 50 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for any or all of the following purposes:
@@ -1205,7 +1220,7 @@ Amendment(s) incorporated in the Act(s).
 (2) Any reference in this Part or Part 5 to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180, 204, or 213 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
 (3) Subsection (1)(a) is subject to any exemption under an Order in Council made under section 60.
 (4) A person who was a participant under subsection (1) continues to be a participant for the purposes of this Act in respect of any obligations (including, but not limited to, the obligation to retain records in accordance with section 67), or entitlements under section 64, arising in respect of an activity listed in Schedule 3 or 4 that the person carried out while a participant.
-(5) The chief executive must ensure that the registers, or the information contained in the registers, kept for the purposes of section 56 or 57 are open for public inspection, without fee, on the Internet site of the department of the chief executive, and in any other form that the chief executive considers appropriate.
+(5) The EPA must ensure that the registers, or the information contained in the registers, kept for the purposes of section 56 or 57 are open for public inspection, without fee, on the EPA's Internet site and in any other form the EPA considers appropriate.
 
 ### 55 Associated persons
 (1) This section applies if an activity listed in Schedule 3 has a threshold below or above which a person becomes a participant.
@@ -1219,61 +1234,61 @@ Amendment(s) incorporated in the Act(s).
 
 ### 56 Registration as participant in respect of activities listed in Schedule 3
 (1) A person who carries out an activity listed in Schedule 3 must—
-  (a) notify the chief executive that the person is a participant in respect of the activity; and
+  (a) notify the EPA that the person is a participant in respect of the activity; and
   (b) if the person does not already have a holding account—
-    (i) apply to open a holding account under section 18A at the time the person notifies the chief executive under paragraph (a); and
-    (ii) supply the account number of the holding account, or ensure that the account number of the holding account is supplied, to the chief executive within 10 working days of receiving the account number from the Registrar.
+    (i) apply to open a holding account under section 18A at the time the person notifies the EPA under paragraph (a); and
+    (ii) supply the account number of the holding account, or ensure that the account number of the holding account is supplied, to the EPA within 10 working days of receiving the account number from the Registrar.
 (2) A notice under subsection (1)(a) must—
-  (a) be submitted to the chief executive within 20 working days of the person becoming a participant in respect of the activity; and
+  (a) be submitted to the EPA within 20 working days of the person becoming a participant in respect of the activity; and
   (b) be in the prescribed form; and
   (c) contain—
     (i) the name of the person; and
     (ii) the details of the activity that the person carries out; and
-    (iii) any other information that the chief executive may require; and
+    (iii) any other information that the EPA may require; and
     (iv) if the person already has 1 or more holding accounts, the account number of the holding account that the person wishes to use for the purpose of section 61(1).
-(3) The chief executive must, as soon as practicable after receiving a notice under subsection (1)(a),—
-  (a) enter on a register kept by the chief executive for the purpose of this section—
+(3) The EPA must, as soon as practicable after receiving a notice under subsection (1)(a),—
+  (a) enter on a register kept by the EPA for the purpose of this section—
     (i) the name of the person; and
     (ii) the activity that the person carries out; and
   (b) notify the person that the person’s name and the activity the person carries out have been entered on the register.
-(4) If the chief executive receives a notice under subsection (1)(a) from a person whose name is already on the register kept in accordance with subsection (3), the chief executive need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
+(4) If the EPA receives a notice under subsection (1)(a) from a person whose name is already on the register kept in accordance with subsection (3), the EPA need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
 
 ### 57 Applications to be registered as participant in respect of activities listed in Schedule 4
-(1) A person who carries out an activity listed in Schedule 4, or who will do so at the time that the person’s registration takes effect, may apply to be registered as a participant in respect of the activity by application to the chief executive in accordance with subsection (2).
+(1) A person who carries out an activity listed in Schedule 4, or who will do so at the time that the person’s registration takes effect, may apply to be registered as a participant in respect of the activity by application to the EPA in accordance with subsection (2).
 (2) An application under subsection (1) must—
   (a) be in the prescribed form; and
   (b) be accompanied by—
-    (i) any information that the chief executive may require; and
+    (i) any information that the EPA may require; and
     (ii) the prescribed fee (if any); and
   (c) if the person already has 1 or more holding accounts, contain the account number of the holding account that the person wishes to use for the purpose of section 61(1).
 (3) Any person who does not have a holding account at the time the person submits an application under subsection (1) must—
   (a) apply to open a holding account under section 18A at the time the person submits the application; and
-  (b) supply the account number of the holding account to the chief executive within 10 working days of receiving an account number from the Registrar.
-(4) Following the receipt of an application under subsection (1), the chief executive must register the person in accordance with subsections (5) and (7) if satisfied that the person—
+  (b) supply the account number of the holding account to the EPA within 10 working days of receiving an account number from the Registrar.
+(4) Following the receipt of an application under subsection (1), the EPA must register the person in accordance with subsections (5) and (7) if satisfied that the person—
   (a) in respect of the activity listed in Schedule 4 specified in the application—
-    (i) is carrying out the activity in the year in which the chief executive receives the application; or
+    (i) is carrying out the activity in the year in which the EPA receives the application; or
     (ii) will carry out the activity in the year in which the person’s registration will take effect in accordance with subsection (8); and
   (b) has met any conditions of registration in respect of the activity in this Part or Part 5; and
   (c) has paid any prescribed fees or charges.
-(5) The chief executive registers a person by entering on a register kept by the chief executive for the purpose of this section—
+(5) The EPA registers a person by entering on a register kept by the EPA for the purpose of this section—
   (a) the name of the applicant; and
   (b) the activity carried out by the applicant; and
   (c) the date from which the applicant’s registration as a participant in respect of the activity will take effect in accordance with subsection (8).
-(6) After registering a person under subsection (5), the chief executive must notify the following persons that the person has been registered as a participant in respect of the activity and the date from which the registration will take effect:
+(6) After registering a person under subsection (5), the EPA must notify the following persons that the person has been registered as a participant in respect of the activity and the date from which the registration will take effect:
   (a) the applicant; and
   (b) by notice issued on the same date as the notice to the applicant, any other persons required to be notified under section 188(6)(a), 198(2)(a), or 209(2)(a), as the case may require.
-(7) If the chief executive receives an application under subsection (1) in respect of an activity listed in Part 2, 3, or 4 of Schedule 4, then the chief executive must, within 20 working days of receiving the application,—
+(7) If the EPA receives an application under subsection (1) in respect of an activity listed in Part 2, 3, or 4 of Schedule 4, then the EPA must, within 20 working days of receiving the application,—
   (a) decline the application; or
-  (b) register the applicant under subsection (5), unless the chief executive requires further information from the applicant in order to satisfy himself or herself that the person is carrying out the activity specified in the application, in which case the chief executive must either register the person within 20 working days of receiving the further information or decline the application.
+  (b) register the applicant under subsection (5), unless the EPA requires further information from the applicant in order to satisfy himself or herself that the person is carrying out the activity specified in the application, in which case the EPA must either register the person within 20 working days of receiving the further information or decline the application.
 (8) The registration of a person takes effect from the date the person’s name is entered on the register under subsection (5) or any later date required by section 198(2)(b), or 209(2)(b).
-(9) If the chief executive receives an application under subsection (1) from a person whose name is already on the register kept in accordance with subsection (5), and registers the person in respect of the activity specified in the application, the chief executive need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the application, and notify the person that the activity has been entered on the register next to the person's name.
+(9) If the EPA receives an application under subsection (1) from a person whose name is already on the register kept in accordance with subsection (5), and registers the person in respect of the activity specified in the application, the EPA need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the application, and notify the person that the activity has been entered on the register next to the person's name.
 
 ### 58 Removal from register of participants in respect of activities listed in Schedule 4
-(1) A person who is registered under section 57 as a participant in respect of an activity listed in Schedule 4 may apply to have that person’s name removed from the register in respect of the activity by application to the chief executive in accordance with subsection (2).
+(1) A person who is registered under section 57 as a participant in respect of an activity listed in Schedule 4 may apply to have that person’s name removed from the register in respect of the activity by application to the EPA in accordance with subsection (2).
 (2) An application under subsection (1) must—
   (a) be in the prescribed form; and
   (b) be accompanied by the prescribed fee (if any).
-(3) Following receipt of an application under subsection (1), the chief executive must—
+(3) Following receipt of an application under subsection (1), the EPA must—
   (a) note on the register—
     (i) that the applicant has applied to be removed from the register as a participant in respect of the activity; and
     (ii) the date on which the applicant’s name is to be removed in accordance with subsection (4); and
@@ -1281,11 +1296,11 @@ Amendment(s) incorporated in the Act(s).
   (c) notify, by notice issued on the same date as the notice to the applicant under paragraph (b), any other persons required to be notified under section 188(7)(a)(i), 198(3)(a), or 209(3)(a), as the case may require,—
     (i) that the applicant has applied to have the applicant’s name removed from the register as a participant in respect of the activity; and
     (ii) the date that the applicant’s name was, or is to be, removed in accordance with subsection (4).
-(4) The chief executive must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7)(a)(ii), 198(3)(b), or 209(3)(b).
+(4) The EPA must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7)(a)(ii), 198(3)(b), or 209(3)(b).
 
 ### 59 Removal from register of participants in respect of activities listed in Schedules 3 and 4
-(1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the chief executive as soon as practicable if the person ceases, or will cease, to carry out the activity.
-(2) The chief executive must, after receiving notice under subsection (1), or otherwise being satisfied that the person has ceased to carry out the activity,—
+(1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the EPA as soon as practicable if the person ceases, or will cease, to carry out the activity.
+(2) The EPA must, after receiving notice under subsection (1), or otherwise being satisfied that the person has ceased to carry out the activity,—
   (a) remove the name of the person from the register in respect of the activity immediately or, if the notice specifies that the person will cease the activity on a future date, on that date; and
   (b) notify the person, and any other person specified in section 188(7)(a)(i), 198(3)(a), or 209(3)(a), as the case may require, that the person’s name—
     (i) has been removed from the register in respect of the activity; or
@@ -1333,26 +1348,26 @@ Amendment(s) incorporated in the Act(s).
 
 ### 62 Monitoring of emissions and removals
 A participant must, in respect of each activity listed in Schedule 3 or 4 that is carried out by the participant in a year,—
-  (a) collect the prescribed data or other prescribed information (which data or information must, if required by regulations made under this Act, be verified by a person or organisation recognised by the chief executive under section 92); and
+  (a) collect the prescribed data or other prescribed information (which data or information must, if required by regulations made under this Act, be verified by a person or organisation recognised by the EPA under section 92); and
   (b) calculate the emissions and the removals from the activity in accordance with the methodologies prescribed in regulations made under this Act; and
-  (c) if required by regulations made under this Act, have the calculations verified by a person or organisation recognised by the chief executive under section 92; and
+  (c) if required by regulations made under this Act, have the calculations verified by a person or organisation recognised by the EPA under section 92; and
   (d) keep, in the prescribed format (if any), records of the data or information and calculations.
 
 ### 63 Liability to surrender units to cover emissions
 (1) A participant is liable to surrender 1 unit for each whole tonne of emissions from each activity listed in Schedule 3 or 4 that the participant carries out,—
   (a) as calculated in accordance with this Act; and
   (b) at the times required under this Act.
-(2) If a participant is liable to surrender units under this Act, the participant must make an application under section 18C to transfer the required number of units from the participant’s holding account to a surrender account designated by the chief executive.
+(2) If a participant is liable to surrender units under this Act, the participant must make an application under section 18C to transfer the required number of units from the participant’s holding account to a surrender account designated by the EPA.
 
 ### 64 Entitlement to receive New Zealand units for removal activities
 (1) A participant is entitled to receive 1 New Zealand unit for each whole tonne of removals from the participant’s removal activities, as calculated in accordance with this Act.
-(2) If a participant submits an emissions return to the chief executive that contains an assessment of the participant's entitlement to receive New Zealand units, then the chief executive must, within 20 working days of receiving the emissions return, direct the Registrar to transfer the number of New Zealand units contained in the assessment to the participant’s holding account.
-(3) Subsection (2) does not apply if, within 20 working days of the chief executive receiving the emissions return, the chief executive or an enforcement officer serves notice on the participant under section 94 requiring the participant to provide information in respect of any matter contained in the emissions return.
+(2) If a participant submits an emissions return to the EPA that contains an assessment of the participant's entitlement to receive New Zealand units, then the EPA must, within 20 working days of receiving the emissions return, direct the Registrar to transfer the number of New Zealand units contained in the assessment to the participant’s holding account.
+(3) Subsection (2) does not apply if, within 20 working days of the EPA receiving the emissions return, the EPA or an enforcement officer serves notice on the participant under section 94 requiring the participant to provide information in respect of any matter contained in the emissions return.
 (4)
 (5)
 
 ### 65 Annual emissions returns
-(1) In the period beginning on 1 January and ending on 31 March in each year, a participant must submit an annual emissions return to the chief executive in respect of each of the activities listed in Schedule 3 or Part 2, 3, 4, or 5 of Schedule 4 that the participant carried out in the immediately preceding year.
+(1) In the period beginning on 1 January and ending on 31 March in each year, a participant must submit an annual emissions return to the EPA in respect of each of the activities listed in Schedule 3 or Part 2, 3, 4, or 5 of Schedule 4 that the participant carried out in the immediately preceding year.
 (2) The annual emissions return must, in respect of activities that the participant carried out during the year covered by the return,—
   (a) record the participant’s activities; and
   (b) record the participant’s emissions and removals as calculated and, if required, as verified under section 62(b) and (c); and
@@ -1383,7 +1398,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (3) Despite anything in section 65, the annual emissions return of a participant who has submitted a return for an activity under this section in any year must cover only the part of the year not covered by a return under this section.
 
 ### 67 Retention of emissions records
-(1) A participant must keep sufficient records to enable the chief executive to verify, in respect of any year in which the participant carries or carried out an activity listed in Schedule 3 or 4,—
+(1) A participant must keep sufficient records to enable the EPA to verify, in respect of any year in which the participant carries or carried out an activity listed in Schedule 3 or 4,—
   (a) the activities carried out by the participant; and
   (b) the emissions and removals from those activities as calculated and, if required, as verified under section 62(b) and (c); and
   (c) the participant’s assessment of the participant’s—
@@ -1414,7 +1429,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (3) The Registrar must give effect to a direction given by the Minister under subsection (1).
 (4) As soon as practicable after giving a direction under subsection (1), the Minister must—
   (a) publish a copy of the direction in the Gazette; and
-  (b) ensure that the direction is accessible via the Internet site of the department of the chief executive responsible for the administration of this Act; and
+  (b) ensure that the direction is accessible via the Internet site of the EPA; and
   (c) present a copy of the direction to the House of Representatives.
 (5) Each copy of the direction under subsection (4) must be accompanied by a statement setting out how the Minister has had regard to the matters specified in subsection (2)(b) and, if relevant, subsection (2)(c).
 
@@ -1430,7 +1445,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (b) the time frames for issuing the New Zealand units under section 68; and
   (c) the intended time frame for any allocation of New Zealand units, or the sale of New Zealand units and the method of sale.
 (3) The Minister must present a copy of the report under section 160(7)(b) to the House of Representatives before notice may be given under this section.
-(4) The Minister must ensure that a copy of any notice given under subsection (1) is accessible via the Internet site of the department of the chief executive responsible for the administration of this Act.
+(4) The Minister must ensure that a copy of any notice given under subsection (1) is accessible via the Internet site of the EPA.
 (5) The Crown is not bound by any notice given under subsection (1) to make any decisions in relation to the issuing, sale, or allocation of New Zealand units.
 
 **Allocation of New Zealand units in relation to pre-1990 forest land and fishing**
@@ -1569,10 +1584,10 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (8) As soon as practicable after making a final determination under subsection (7), the Minister must—
   (a) notify the applicant of the determination; and
   (b) publish the determination in the Gazette; and
-  (c) ensure that the determination is accessible via the Internet site of the department of the chief executive responsible for the administration of this Act; and
+  (c) ensure that the determination is accessible via the Internet site of the EPA; and
   (d) if New Zealand units are allocated to an applicant, direct the Registrar to transfer the allocated New Zealand units to the applicant's holding account in the amounts and on the date or dates specified in the determination.
 (9) For the purposes of making a preliminary determination under subsection (5) or a final determination under subsection (7) in respect of a fishing allocation plan, the Minister may access, and rely on, the information set out in the quota register kept under Part 8 of the Fisheries Act 1996.
-(10) To avoid doubt, and without limiting the powers conferred under sections 94 to 106, the chief executive or any other person with powers under sections 94 to 106 may exercise those powers for the purposes of ascertaining whether a person who applies for an allocation of New Zealand units or is allocated New Zealand units under an allocation plan is complying with, or has complied with,—
+(10) To avoid doubt, and without limiting the powers conferred under sections 94 to 106, the EPA or any other person with powers under sections 94 to 106 may exercise those powers for the purposes of ascertaining whether a person who applies for an allocation of New Zealand units or is allocated New Zealand units under an allocation plan is complying with, or has complied with,—
   (a) any requirement in this section or section 78 or 79; or
   (b) any requirement in the relevant allocation plan (for example, a requirement to keep records).
 
@@ -1652,7 +1667,7 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
   (b) for a highly emissions-intensive eligible industrial activity,—
     (i) 0.9 in 2010, 2011, and 2012; and
     (ii) in each year after 2012, the level of assistance from the previous year less 1.3% (the phase-out rate for a highly emissions-intensive eligible industrial activity) (expressed to 2 decimal places)
-(3) The formula for the calculation of a person’s annual allocation adjustment is as follows:AA = PA – FAwhere—AAis the person’s annual allocation adjustment of units for the eligible industrial activity for the yearPAis the person's provisional allocation for the eligible industrial activity notified by the chief executive under section 86BFAis the person's final allocation entitlement for the eligible industrial activity for the year calculated under subsection (2).
+(3) The formula for the calculation of a person’s annual allocation adjustment is as follows:AA = PA – FAwhere—AAis the person’s annual allocation adjustment of units for the eligible industrial activity for the yearPAis the person's provisional allocation for the eligible industrial activity notified by the EPA under section 86BFAis the person's final allocation entitlement for the eligible industrial activity for the year calculated under subsection (2).
 (4) If the figure for AA calculated under the formula in subsection (3)—
   (a) is a negative number, then the person is entitled to be allocated the number of units in the annual allocation adjustment:
   (b) is a positive number, then the person is liable to repay the number of units in the annual allocation adjustment.
@@ -1662,10 +1677,10 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
 (6) If an eligible person is liable to repay the number of units in an annual allocation adjustment and the person—
   (a) makes an application for a provisional allocation for the same eligible industrial activity in the year following the year to which the annual allocation adjustment relates, then—
     (i) the person must record the adjustment for the year in the person's application for a provisional allocation for the following year; and
-    (ii) subject to section 86B, the chief executive must deduct the number of units in the adjustment from the provisional allocation for the following year, unless the number of units in the provisional allocation is less than the adjustment, in which case the person must, within 20 working days of being notified of the shortfall in the number of units by the chief executive, repay the shortfall by transferring the relevant number of units to a Crown holding account designated by the chief executive; or
+    (ii) subject to section 86B, the EPA must deduct the number of units in the adjustment from the provisional allocation for the following year, unless the number of units in the provisional allocation is less than the adjustment, in which case the person must, within 20 working days of being notified of the shortfall in the number of units by the EPA, repay the shortfall by transferring the relevant number of units to a Crown holding account designated by the EPA; or
   (b) does not make an application for a provisional allocation for the same eligible industrial activity in the year following the year to which the annual allocation adjustment relates, then the person must—
-    (i) by 30 April in the year following the year to which the annual allocation adjustment relates, notify the chief executive of the person’s annual allocation adjustment; and
-    (ii) by 31 May in the year following the year to which the annual allocation adjustment relates, repay the number of units in the annual allocation adjustment by transferring the units to a Crown holding account designated by the chief executive.
+    (i) by 30 April in the year following the year to which the annual allocation adjustment relates, notify the EPA of the person’s annual allocation adjustment; and
+    (ii) by 31 May in the year following the year to which the annual allocation adjustment relates, repay the number of units in the annual allocation adjustment by transferring the units to a Crown holding account designated by the EPA.
 (7) If a person is required to repay units under this section, then—
   (a) the units repaid must be of a type that may be transferred to a surrender account at the time the units are repaid; and
   (b) sections 134 and 135 apply, with any necessary modifications, as if—
@@ -1677,12 +1692,12 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
   (a) calculate the person’s final allocation entitlement for the activity for the year in accordance with the formula in section 83(2); and
   (b) using the formula in section 83(3), calculate the person’s closing allocation adjustment, and, for this purpose, section 83(3) applies, with any necessary modifications, as if the closing allocation adjustment were an annual allocation adjustment; and
   (c) if the closing allocation adjustment is—
-    (i) a negative number, apply to the chief executive under section 86 for an allocation of the number of units in the closing allocation adjustment:
-    (ii) a positive number, notify the chief executive of the person's closing allocation adjustment and repay the number of units in the closing allocation adjustment by transferring the units to a Crown holding account designated by the chief executive.
+    (i) a negative number, apply to the EPA under section 86 for an allocation of the number of units in the closing allocation adjustment:
+    (ii) a positive number, notify the EPA of the person's closing allocation adjustment and repay the number of units in the closing allocation adjustment by transferring the units to a Crown holding account designated by the EPA.
 (2) For the purposes of subsection (1), a person who has received a provisional allocation for an eligible industrial activity in respect of a year and who temporarily does not carry out the activity—
   (a) is not immediately to be treated as having ceased to carry out the activity; but
-  (b) must, if the person does not carry out the activity for a period of 3 months in the year, notify the chief executive as soon as practicable after the expiry of that 3-month period of that fact; and
-  (c) must, if given notice by the chief executive (following receipt of the person’s notice under paragraph (b)) that the chief executive is satisfied that the person has ceased to carry out the activity for the year and that the person is required to comply with subsection (1), within 20 working days of the date of the chief executive’s notice, comply with subsection (1).
+  (b) must, if the person does not carry out the activity for a period of 3 months in the year, notify the EPA as soon as practicable after the expiry of that 3-month period of that fact; and
+  (c) must, if given notice by the EPA (following receipt of the person’s notice under paragraph (b)) that the EPA is satisfied that the person has ceased to carry out the activity for the year and that the person is required to comply with subsection (1), within 20 working days of the date of the EPA's notice, comply with subsection (1).
 (3) Subject to subsection (4), an eligible person who has complied with subsection (1) during the year in which the person ceased to carry out the eligible industrial activity—
   (a) is not required to comply with section 83 in respect of that activity; and
   (b) may not calculate an annual allocation adjustment under section 83 in respect of that year.
@@ -1704,7 +1719,7 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
 (6) An eligible person who has applied in accordance with subsection (3) for an allocation in respect of a closing year, but who then recommences carrying out the activity in the closing year may apply under section 86 for an allocation in respect of the part of the year after the date the person recommenced carrying out the activity (and which was not covered by the application made in accordance with subsection (3)) and, for that purpose, subsection (2) applies as if the year were the part of the year from the date the person recommenced carrying out the activity.
 
 ### 86 Applications for allocation of New Zealand units for industry and agriculture
-(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity or eligible agricultural activity under this subpart must, unless this subpart otherwise provides, apply to the chief executive for an allocation—
+(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity or eligible agricultural activity under this subpart must, unless this subpart otherwise provides, apply to the EPA for an allocation—
   (a) no later than 30 April in the year to which it relates, if the application is for a provisional allocation for an eligible industrial activity in respect of a year; and
   (b) no later than 30 April in the year following the year to which it relates, if the application is for an allocation (other than a provisional allocation for an industrial activity) in respect of a year (including for an allocation of an annual allocation adjustment); and
   (c) on or after 1 January and before 31 December in the year following the year to which it relates, if the application is for an allocation for an eligible agricultural activity in respect of a year.
@@ -1720,7 +1735,7 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
       (A) allocation entitlement in respect of the previous year calculated in accordance with section 85(2); or
       (B) if section 85(3) applies, allocation entitlement in respect of the year in which the person ceased to carry out the eligible agricultural activity; and
   (c) be accompanied by—
-    (i) any other information that the chief executive may require; and
+    (i) any other information that the EPA may require; and
     (ii) the prescribed fee (if any); and
   (d) contain the account number of the eligible person’s holding account, required by section 61.
 
@@ -1730,58 +1745,58 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (b) ending on the date 3 months after the date in paragraph (a).
 
 ### 86B Decisions on applications for allocations of New Zealand units to industry and agriculture
-(1) On receipt of an application under section 86, the chief executive must decide—
+(1) On receipt of an application under section 86, the EPA must decide—
   (a) whether the applicant is eligible to receive an allocation in respect of the application:
-  (b) if in the chief executive’s opinion the applicant is eligible for an allocation in respect of the application, the number of units the applicant is entitled to be allocated in respect of the application that, if the application relates to a provisional allocation for an eligible industrial activity, must—
+  (b) if in the EPA's opinion the applicant is eligible for an allocation in respect of the application, the number of units the applicant is entitled to be allocated in respect of the application that, if the application relates to a provisional allocation for an eligible industrial activity, must—
     (i) include any units to which the person is entitled in respect of an annual allocation adjustment for the previous year; or
     (ii) be net of any units required to be deducted from the person’s provisional allocation entitlement in accordance with section 83(6)(a).
-(2) If the chief executive decides under subsection (1) that an applicant is entitled to receive an allocation in respect of the application, then the chief executive must—
+(2) If the EPA decides under subsection (1) that an applicant is entitled to receive an allocation in respect of the application, then the EPA must—
   (a) notify the applicant of—
-    (i) the number of units the applicant has been allocated in respect of the application and, in the case of an eligible industrial activity, any adjustment to that allocation that the chief executive has made under subsection (1); and
+    (i) the number of units the applicant has been allocated in respect of the application and, in the case of an eligible industrial activity, any adjustment to that allocation that the EPA has made under subsection (1); and
     (ii) the person's right under section 144 to seek a review of the allocation decision; and
   (b) direct the Registrar to transfer to the holding account notified in the person’s application the number of units notified under paragraph (a) (as adjusted, in the case of an eligible industrial activity, under subsection (1)).
-(3) If the chief executive decides under subsection (1) that an applicant is not eligible to receive an allocation in respect of the application, or that the allocation to which the person is entitled in respect of the application is the same as or less than the number of units that the person is liable to repay in respect of an annual allocation adjustment recorded in the application in accordance with section 83(6)(a), then the chief executive must notify the applicant of—
-  (a) the chief executive's decision; and
+(3) If the EPA decides under subsection (1) that an applicant is not eligible to receive an allocation in respect of the application, or that the allocation to which the person is entitled in respect of the application is the same as or less than the number of units that the person is liable to repay in respect of an annual allocation adjustment recorded in the application in accordance with section 83(6)(a), then the EPA must notify the applicant of—
+  (a) the EPA's decision; and
   (b) the reasons for the decision; and
   (c) if the result of the decision is that the person is liable to repay more units than the number of units to which the person would have been entitled in respect of the application, the number of units in the shortfall; and
   (d) the person's right under section 144 to seek a review of the allocation decision.
-(4) If a person has failed to notify the chief executive of an annual allocation adjustment or a closing allocation adjustment when required by section 83(6)(b) or 84(1)(c)(ii), or if the chief executive is satisfied that an annual allocation adjustment or closing allocation adjustment notified by a person to the chief executive under section 83(6)(b) or 84(1)(c)(ii) is incorrect, then the chief executive may make a decision as to the person’s annual allocation adjustment, or closing allocation adjustment or correct annual allocation adjustment or closing allocation adjustment.
-(5) The chief executive must, as soon as practicable, after deciding an eligible person’s final allocation for an eligible activity in respect of a year,—
+(4) If a person has failed to notify the EPA of an annual allocation adjustment or a closing allocation adjustment when required by section 83(6)(b) or 84(1)(c)(ii), or if the EPA is satisfied that an annual allocation adjustment or closing allocation adjustment notified by a person to the EPA under section 83(6)(b) or 84(1)(c)(ii) is incorrect, then the EPA may make a decision as to the person’s annual allocation adjustment, or closing allocation adjustment or correct annual allocation adjustment or closing allocation adjustment.
+(5) The EPA must, as soon as practicable, after deciding an eligible person’s final allocation for an eligible activity in respect of a year,—
   (a) publish the decision in the Gazette; and
-  (b) ensure it is accessible via the Internet site of the department of the chief executive responsible for the administration of this Act.
+  (b) ensure it is accessible via the Internet site of the EPA.
 (6) For the purposes of subsection (5),—
   (a) the final allocation of a person who received a provisional allocation for an eligible industrial activity is the person’s provisional allocation for the activity in respect of the year adjusted by the annual allocation adjustment for the activity for the year (or closing allocation adjustment, as the case may be); and
-  (b) the chief executive is not required to publish the final allocation of an eligible person for an eligible activity in respect of a year, or ensure it is accessible via the Internet, if the chief executive considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
+  (b) the EPA is not required to publish the final allocation of an eligible person for an eligible activity in respect of a year, or ensure it is accessible via the Internet, if the EPA considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
 
 ### 86C Reconsideration of allocation decisions
-(1) Without limiting section 144, the chief executive may reconsider, vary, or revoke any decision made under section 86B if in the chief executive’s opinion the decision has resulted, or would otherwise result, in a person receiving an incorrect allocation because—
+(1) Without limiting section 144, the EPA may reconsider, vary, or revoke any decision made under section 86B if in the EPA's opinion the decision has resulted, or would otherwise result, in a person receiving an incorrect allocation because—
   (a) of an error in the calculation of the person’s entitlement to an allocation or liability to repay units under this subpart; or
   (b) the person has provided altered, false, incomplete, or misleading information in or with an application.
-(2) The chief executive may not make a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or vary or revoke a decision under subsection (1) after the expiration of 4 years from the end of the year or other period to which the decision relates if the decision, or variation or revocation of the decision, would decrease the number of units allocated to a person.
-(3) However, if the chief executive is satisfied that a notice under section 83(6)(b) or 84(1)(c)(ii) or application for an allocation, or any other document submitted under section 86, 86E, or 144, was submitted with intent to deceive, the chief executive may make a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or vary or revoke a decision under subsection (1) at any time so as to decrease the number of units allocated to the person to whom the notice or application related (including decreasing that number to zero).
-(4) If the chief executive makes a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or varies or revokes a decision under subsection (1), the chief executive must, as soon as practicable after doing so, notify the person who gave, or should have given, the notice under section 83(6)(b) or 84(1)(c)(ii) or the applicant, as the case may be, of—
+(2) The EPA may not make a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or vary or revoke a decision under subsection (1) after the expiration of 4 years from the end of the year or other period to which the decision relates if the decision, or variation or revocation of the decision, would decrease the number of units allocated to a person.
+(3) However, if the EPA is satisfied that a notice under section 83(6)(b) or 84(1)(c)(ii) or application for an allocation, or any other document submitted under section 86, 86E, or 144, was submitted with intent to deceive, the EPA may make a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or vary or revoke a decision under subsection (1) at any time so as to decrease the number of units allocated to the person to whom the notice or application related (including decreasing that number to zero).
+(4) If the EPA makes a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or varies or revokes a decision under subsection (1), the EPA must, as soon as practicable after doing so, notify the person who gave, or should have given, the notice under section 83(6)(b) or 84(1)(c)(ii) or the applicant, as the case may be, of—
   (a) the particulars of the decision, or variation or revocation of the decision; and
   (b) any grounds or information upon which the decision or variation or revocation of the decision was based; and
   (c) the person's right under section 144 to seek a review of the allocation decision.
 (5) If the result of a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4), variation or revocation of an allocation decision under subsection (1), or review under section 144 is that a person allocated units is found to have been allocated and transferred—
-  (a) units to which the person was not entitled, or to have repaid too few units, the person must within 90 working days after the date of the notice under subsection (4) repay the number of units notified to the person by transferring the units to a Crown holding account designated by the chief executive; or
-  (b) fewer units than the person was entitled to, or to have repaid too many units, the chief executive must, as soon as practicable after the date of the notice under subsection (4), direct the Registrar to transfer to the holding account notified in the person’s application (or any other holding account notified by the person) the number of New Zealand units recorded in the notice.
+  (a) units to which the person was not entitled, or to have repaid too few units, the person must within 90 working days after the date of the notice under subsection (4) repay the number of units notified to the person by transferring the units to a Crown holding account designated by the EPA; or
+  (b) fewer units than the person was entitled to, or to have repaid too many units, the EPA must, as soon as practicable after the date of the notice under subsection (4), direct the Registrar to transfer to the holding account notified in the person’s application (or any other holding account notified by the person) the number of New Zealand units recorded in the notice.
 (6) Section 83(7) applies to repayment of units under subsection (5) as if it were repayment under section 83.
 
 ### 86D Retention of records and materials in relation to allocation
-(1) A person who has been allocated New Zealand units for an eligible activity must keep sufficient records to enable the chief executive to verify, for any year in respect of which the person received an allocation,—
+(1) A person who has been allocated New Zealand units for an eligible activity must keep sufficient records to enable the EPA to verify, for any year in respect of which the person received an allocation,—
   (a) that the person was an eligible person; and
   (b) the person’s calculations of the person’s entitlement to be allocated New Zealand units or liability to repay units under the relevant subsections in sections 81 to 85; and
   (c) the total amount of each product produced by the person from the eligible activity in the year, as determined, if relevant, in accordance with regulations made under this Act; and
   (d) any other prescribed information.
 (2) The records specified in subsection (1)—
   (a) must include—
-    (i) a copy of any application made to the chief executive under section 86 or notice given to the chief executive under section 83(6)(b) or 84(1)(c)(ii); and
+    (i) a copy of any application made to the EPA under section 86 or notice given to the EPA under section 83(6)(b) or 84(1)(c)(ii); and
     (ii) any information used to prepare the application or notice; and
   (b) must be retained for a period of at least 7 years after the end of the year to which the application or notice relates.
 
-### 86E Minister or chief executive may require further information for purpose of carrying out functions under subpart
-(1) For the purposes of making a determination under section 77 or 78 or a decision under section 86B, the Minister or chief executive, as appropriate, may give to any of the following persons a notice requiring the person to supply information or further information to the Minister or chief executive:
+### 86E Minister or EPA or chief executive may require further information for purpose of carrying out functions under subpart
+(1) For the purposes of making a determination under section 77 or 78 or a decision under section 86B, the Minister or EPA or chief executive, as appropriate, may give to any of the following persons a notice requiring the person to supply information or further information to the Minister or EPA or chief executive:
   (a) a person who has made an application for an allocation of New Zealand units or notified an annual allocation adjustment or closing allocation adjustment:
   (b) a person who has failed to notify an annual allocation adjustment or closing allocation adjustment as required by section 83(6)(b) or 84(1)(c)(ii):
   (c) a person who may be affected by a reconsideration of a determination or decision.
@@ -1789,9 +1804,9 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
 (3) A notice under subsection (1) may require the information to be provided that is necessary to determine whether a person is or was—
   (a) eligible for an allocation of New Zealand units; or
   (b) entitled to the allocation that the person has applied for or received (in relation to an annual allocation adjustment or a closing allocation adjustment).
-(4) The Minister or chief executive may, as appropriate, for the purpose of verifying whether a determination made under section 77 or 78 or a decision made under section 86B was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under one of those sections, requiring the person to supply to the Minister or chief executive any records, data, or other information that the person is required to keep in relation to the allocation.
+(4) The Minister or EPA or chief executive may, as appropriate, for the purpose of verifying whether a determination made under section 77 or 78 or a decision made under section 86B was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under one of those sections, requiring the person to supply to the Minister or EPA or chief executive any records, data, or other information that the person is required to keep in relation to the allocation.
 (5) A person who has received a notice under this section must supply the information requested within the period specified in the notice.
-(6) A person who fails to comply with a notice under this section within the period specified in the notice, or any further period agreed with the Minister or chief executive as appropriate, and who—
+(6) A person who fails to comply with a notice under this section within the period specified in the notice, or any further period agreed with the Minister or EPA or chief executive as appropriate, and who—
   (a) has applied for an allocation under an allocation plan or under section 86 is not entitled to receive an allocation under that plan or in respect of that application; or
   (b) has been allocated but not yet received some or all units allocated to the person under an allocation plan is not entitled to be transferred any units or any further units allocated to the person under the plan.
 
@@ -1811,12 +1826,12 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
 (5) If an Order in Council is made under subsection (3), the Minister must ensure that the Crown holds the required number of units by the date specified in the order.
 (6) For the purposes of subsection (1), true-up period means the 100 days, beginning on a date determined by the Conference of the Parties (serving as the Meeting of the Parties to the Protocol), that provide the Parties with an additional period for fulfilment of their obligation under Article 3.1 of the Protocol through the acquisition and transfer of Kyoto units.
 
-### Subpart 3 — Chief executive
+### Subpart 3 — Environmental Protection Authority
 
 **General administrative provisions**
 
-### 87 Functions of chief executive
-(1) The functions of the chief executive are to—
+### 87 Functions of EPA
+(1) The functions of the EPA are to—
   (a) keep a register under section 56 of persons who carry out activities and a register of persons who register under section 57 as participants; and
   (b) receive and collate the data and other information provided by participants under this Part and Part 5; and
   (ba) administer allocations relating to industry and agriculture in accordance with sections 80 to 86E; and
@@ -1825,18 +1840,25 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (e) ensure participants comply with this Part and Part 5 and to take any action that may be appropriate to enforce those provisions and the provisions of any regulations made under this Part; and
   (f) publish information in accordance with section 89; and
   (g) issue emissions rulings to help persons meet their obligations under this Part and Part 5.
-(2) The chief executive must comply with any direction that the Minister gives under section 88(1).
+(2) The EPA must comply with any direction that the Minister gives under section 88(1).
+(3) For the avoidance of doubt, the EPA undertakes the functions described in subsection (1) on behalf of the Crown.
 
-### 88 Directions to chief executive
-(1) The Minister may give general directions to the chief executive in relation to the chief executive's exercise of powers and performance of functions under this Part, Part 5, or any regulations made under this Part or Part 5.
+### 87A Delegation by EPA
+(1) The EPA must not delegate its power to appoint the Registrar under section 11.
+(2) In all other respects, section 73 of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:.
+  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:
+
+### 88 Directions to EPA
+(1) The Minister may give general directions to the EPA in relation to the EPA's exercise of powers and performance of functions under this Part, Part 5, or any regulations made under this Part or Part 5.
 (2) Subsection (1) does not authorise the Minister to give directions about the exercise of powers and performance of functions in relation to a particular person.
 (3) As soon as practicable after giving a direction under subsection (1), the Minister must—
   (a) publish a copy of the direction in the Gazette; and
-  (b) make a copy of the direction accessible via the Internet site of the department of the chief executive; and
+  (b) make a copy of the direction accessible via the Internet site of the EPA; and
   (c) present a copy of the direction to the House of Representatives.
+(4) Before giving a direction under subsection (1), the Minister must comply with section 115(1) of the Crown Entities Act 2004.
 
-### 89 Chief executive to publish certain information
-(1) The chief executive must publish the following information in accordance with subsection (2):
+### 89 EPA to publish certain information
+(1) The EPA must publish the following information in accordance with subsection (2):
   (a) in respect of each activity listed in Schedule 3, the total number of participants—
     (i) registered under section 56; and
     (ii) removed from the register under section 59; and
@@ -1852,84 +1874,84 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (g) the total number of units surrendered; and
   (h) the total number of New Zealand units transferred for removal activities; and
   (i) the total number of New Zealand units allocated under subpart 2 less any units repaid.
-(2) The chief executive—
+(2) The EPA—
   (a) must publish the information specified in subsection (1) by 30 June in each year; and
-  (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the chief executive considers appropriate.
-(3) The chief executive is not required to publish the information required under subsection (1)(e) in respect of an activity or the information required under subsection (1)(i) if the chief executive is satisfied that publishing the information would result in the disclosure of a participant’s individual emissions or an eligible person's own allocation, unless—
+  (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
+(3) The EPA is not required to publish the information required under subsection (1)(e) in respect of an activity or the information required under subsection (1)(i) if the EPA is satisfied that publishing the information would result in the disclosure of a participant’s individual emissions or an eligible person's own allocation, unless—
   (a) the participant or eligible person to whom the information relates has consented to the publication of the information; or
   (b) the information is already in the public domain.
-(4) The chief executive is only required to publish the total quantity of emissions and the total quantity of removals in aggregate for the activities in Part 1 of Schedule 4.
+(4) The EPA is only required to publish the total quantity of emissions and the total quantity of removals in aggregate for the activities in Part 1 of Schedule 4.
 
-### 90 Chief executive may prescribe form of certain documents
-(1) The chief executive may, for the purposes of this Part and Part 5, prescribe—
+### 90 EPA may prescribe form of certain documents
+(1) The EPA may, for the purposes of this Part and Part 5, prescribe—
   (a) the form and electronic format of any forms, applications, returns, information accompanying any applications or returns, or other documents that are not otherwise prescribed in regulations made under this Act; and
   (b) different forms or formats for different classes of participants or different activities; and
   (c) the manner in which any application, return, information, or other document must be submitted or notified under this Part or Part 5 if this is not otherwise prescribed in regulations.
-(2) The chief executive must publish any form or format prescribed under subsection (1) via the Internet site of the department of the chief executive.
-(3) The production by the chief executive of any document purporting to be a prescribed form or an extract from a prescribed form or a copy of a form or extract is, in all courts and in all proceedings, unless the contrary is proved, sufficient evidence that the form or electronic format was prescribed.
-(4) To avoid doubt, if the chief executive prescribes an electronic form or format under subsection (1), the chief executive may require any signature on that form or that relates to that format to be an electronic signature.
+(2) The EPA must publish any form or format prescribed under subsection (1) via the Internet site of the EPA.
+(3) The production by the EPA of any document purporting to be a prescribed form or an extract from a prescribed form or a copy of a form or extract is, in all courts and in all proceedings, unless the contrary is proved, sufficient evidence that the form or electronic format was prescribed.
+(4) To avoid doubt, if the EPA prescribes an electronic form or format under subsection (1), the EPA may require any signature on that form or that relates to that format to be an electronic signature.
 
 ### 91 Approval of unique emissions factors
-(1) The chief executive may approve the use by a participant of a unique emissions factor when calculating emissions or removals from an activity under section 62(b) if—
+(1) The EPA may approve the use by a participant of a unique emissions factor when calculating emissions or removals from an activity under section 62(b) if—
   (a) regulations made under section 164 provide a mechanism for participants to apply for approval to use a unique emissions factor for the activity; and
-  (b) the chief executive is satisfied that the unique emissions factor that the participant has applied to use meets any requirements prescribed in regulations made under section 164.
+  (b) the EPA is satisfied that the unique emissions factor that the participant has applied to use meets any requirements prescribed in regulations made under section 164.
 (2) An approval under subsection (1)—
-  (a) may be subject to the conditions that the chief executive considers appropriate; and
+  (a) may be subject to the conditions that the EPA considers appropriate; and
   (b) ceases to have effect on the earliest of the following dates:
     (i) the date of a material change in any of the information or factors on which the approval is based; or
     (ii) the date of a material change to this Act or to any regulations to which the approval relates; or
     (iii) the date on which any of the conditions to which the approval is subject cease to be met or complied with.
-(3) If the chief executive approves the use of a unique emissions factor under subsection (1), the chief executive must—
+(3) If the EPA approves the use of a unique emissions factor under subsection (1), the EPA must—
   (a) notify the applicant of the approval; and
   (b) publish in the Gazette—
     (i) the name of the participant; and
     (ii) a description of the activity; and
-    (iii) the details of the unique emissions factor the chief executive has approved the participant to use when calculating emissions or removals for the activity.
+    (iii) the details of the unique emissions factor the EPA has approved the participant to use when calculating emissions or removals for the activity.
 
 ### 92 Recognition of verifiers
-(1) The chief executive may, in accordance with any regulations made under section 163, recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of section 62(a) and (c) or regulations made under section 164 relating to the process for approval of a unique emissions factor.
+(1) The EPA may, in accordance with any regulations made under section 163, recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of section 62(a) and (c) or regulations made under section 164 relating to the process for approval of a unique emissions factor.
 (2) A person or organisation may be recognised by the chief executive as able to verify information or unique emissions factors in respect of—
   (a) 1 or more types of data or information or calculations of types of emissions or removals:
   (b) 1 or more activities in Schedule 3 or 4.
-(3) The chief executive may suspend or revoke any recognition given under this section in accordance with regulations made under section 163.
+(3) The EPA may suspend or revoke any recognition given under this section in accordance with regulations made under section 163.
 
 **Verification and inquiry**
 
 ### 93 Appointment of enforcement officers
-(1) The chief executive may appoint 1 or more persons as enforcement officers to exercise all or any of the powers and perform the functions conferred on enforcement officers under this Part.
-(2) A person appointed under subsection (1) must be employed by the chief executive under the State Sector Act 1988.
-(3) The chief executive must supply an enforcement officer with a warrant of authorisation that clearly states the powers and functions of the enforcement officer.
+(1) The EPA may appoint 1 or more persons who are employees of the EPA as enforcement officers to exercise 1 or more of the powers and perform the functions conferred on enforcement officers under this Part.
+(2) If the EPA delegates the power to appoint a person as an enforcement officer to the chief executive of a department of the Public Service, the chief executive of the department may appoint a person as an enforcement officer only if the person is employed by a government department, in which case the chief executive must employ the person under the State Sector Act 1988.
+(3) The EPA must supply each enforcement officer with a warrant of authorisation that clearly states the powers and functions of the officer.
 (4) An enforcement officer who exercises, or purports to exercise, a power conferred on the enforcement officer under this Act must carry and produce, if required to do so,—
   (a) his or her warrant of authorisation; and
   (b) evidence of his or her identity.
 (5) An enforcement officer must, on the termination of the enforcement officer’s appointment, surrender his or her warrant to the chief executive.
-(6) To avoid doubt, if the chief executive delegates the appointment power specified in subsection (1) to another chief executive under section 41 of the State Sector Act 1988, subsection (2) applies as if the reference to the chief executive were a reference to the chief executive to whom the power specified in subsection (1) is delegated.
+(6)
 
 ### 94 Power to require information
-(1) The chief executive or an enforcement officer may, by notice, require a person to provide any information that is reasonably necessary for the purposes of—
+(1) The EPA, the chief executive, or an enforcement officer may, by notice, require a person to provide any information that is reasonably necessary for the purposes of—
   (a) ascertaining whether a person is complying, or has complied, with this Part and Part 5; or
-  (b) ascertaining whether the chief executive should exercise any powers under this Part or Part 5.
+  (b) ascertaining whether the EPA or the chief executive, as appropriate, should exercise any powers under this Part or Part 5.
 (2) The information required to be provided under subsection (1) must,—
-  (a) if required by the chief executive or an enforcement officer, be accompanied by a statutory declaration attesting to the truthfulness of the information provided; and
+  (a) if required by the EPA, the chief executive, or an enforcement officer, be accompanied by a statutory declaration attesting to the truthfulness of the information provided; and
   (b) be provided—
-    (i) in the form specified by the chief executive or enforcement officer; and
+    (i) in the form specified by the EPA, the chief executive, or an enforcement officer; and
     (ii) within any reasonable time specified in the notice requiring the information; and
     (iii) free of charge.
 
 ### 95 Power to inquire
-(1) For the purpose of obtaining information for a purpose specified in section 94(1), or any other information required for the purposes of the administration or enforcement of this Part or Part 5, the chief executive may require a person to—
-  (a) appear before the chief executive or an enforcement officer at a time and place that is specified in the notice to give evidence; and
+(1) For the purpose of obtaining information for a purpose specified in section 94(1), or any other information required for the purposes of the administration or enforcement of this Part or Part 5, the EPA or the chief executive may require a person to—
+  (a) appear before the EPA, or the chief executive, or an enforcement officer at a time and place that is specified in the notice to give evidence; and
   (b) produce any document or class of documents in the person’s possession or under the person’s control that is specified in the notice.
-(2) The chief executive or enforcement officer may require the evidence to be given on oath and either orally or in writing, and for that purpose the chief executive or enforcement officer may administer an oath.
+(2) The EPA, or the chief executive, or enforcement officer may require the evidence to be given on oath and either orally or in writing, and for that purpose the EPA, or the chief executive, or enforcement officer may administer an oath.
 
 ### 96 Inquiry before District Court Judge
-(1) For the purpose of obtaining information for a purpose specified in section 94(1), or any other information required for the purposes of the administration or enforcement of this Part or Part 5, the chief executive, if the chief executive considers it necessary, may apply in writing to a District Court Judge to hold an inquiry under this section.
+(1) For the purpose of obtaining information for a purpose specified in section 94(1), or any other information required for the purposes of the administration or enforcement of this Part or Part 5, the EPA or the chief executive, if the EPA or the chief executive, as appropriate, considers it necessary, may apply in writing to a District Court Judge to hold an inquiry under this section.
 (2) For the purposes of an inquiry under this section,—
   (a) the District Court Judge—
-    (i) may, with respect to any matter that is relevant to the subject matter of the inquiry, summon and examine on oath all persons whom the chief executive or any other interested person requires to be called and examined; and
+    (i) may, with respect to any matter that is relevant to the subject matter of the inquiry, summon and examine on oath all persons whom the EPA, the chief executive, or any other interested person requires to be called and examined; and
     (ii) has the same jurisdiction and authority regarding the summoning and examination of a person as the Judge would have in respect of a witness in a civil action within the Judge’s ordinary jurisdiction; and
   (b) the person summoned and examined has all the rights and is subject to all the liabilities that the person would have and be subject to if the person were a witness in a civil action within the Judge’s ordinary jurisdiction.
-(3) The chief executive and any person materially affected by the subject matter of the inquiry may be represented by a barrister or solicitor, who may examine, cross-examine, and re-examine, in accordance with ordinary practice, any person summoned under subsection (2).
+(3) The EPA, the chief executive, and any person materially affected by the subject matter of the inquiry may be represented by a barrister or solicitor, who may examine, cross-examine, and re-examine, in accordance with ordinary practice, any person summoned under subsection (2).
 (4) Every examination under this section must take place in chambers.
 (5) The statement of every person examined—
   (a) must be—
@@ -1941,27 +1963,28 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
 (1) No person summoned or examined under section 95 or 96 is excused from answering a question on the ground that the answer may incriminate the person or render the person liable to any penalty or forfeiture.
 (2) The testimony of a person examined is not admissible as evidence in criminal proceedings against the person, except on a charge of perjury in relation to the testimony.
 
-### 98 Expenses in relation to inquiries by chief executive or District Court Judge
-The chief executive may pay, or a District Court Judge may order the chief executive to pay, to any person who has appeared before the chief executive or an enforcement officer under section 95 or the District Court Judge under section 96, out of money appropriated by Parliament for the purpose, the sum that in the chief executive’s or Judge’s opinion, as the case may be, is reasonable in respect of that person’s travelling and other expenses.
+### 98 Expenses in relation to inquiries
+The EPA or the chief executive may pay, or a District Court Judge may order the EPA or the chief executive to pay, to any person who has appeared before the EPA, or the chief executive, or an enforcement officer under section 95 or the District Court Judge under section 96 the sum that in the EPA's, or the chief executive's, or the Judge's opinion, as the case may be, is reasonable in respect of that person's travelling and other expenses.
 
 ### 99 Obligation to maintain confidentiality
 (1) This section applies—
-  (a) to the chief executive, any enforcement officer, and any other person who performs functions or exercises powers of the chief executive or an enforcement officer under this Part and Part 5; and
+  (a) to the chief executive, the EPA, an enforcement officer, and any other person who performs functions or exercises powers of the chief executive, the EPA, or an enforcement officer under this Part and Part 5; and
   (b) at the time during which, and any time after which, those functions are performed or those powers are exercised.
 (2) A person to whom this section applies—
   (a) must keep confidential all information that comes into the person’s knowledge when performing any function or exercising any power under this Part and Part 5; and
   (b) may not disclose any information specified in paragraph (a), except—
     (i) with the consent of the person to whom the information relates or of the person to whom the information is confidential; or
     (ii) to the extent that the information is already in the public domain; or
-    (iii) for the purposes of, or in connection with, the exercise of powers conferred by this Part; or
+    (iii) for the purposes of, or in connection with, the exercise of powers conferred by this Part or for the administration of this Act; or
+    (iiia) for the purposes of, or in connection with, reporting requirements of the Public Finance Act 1989; or
     (iv) as provided under this Act or any other Act; or
     (v) in connection with any investigation or inquiry (whether or not preliminary to any proceedings) in respect of, or any proceedings for, an offence against this Act or any other Act; or
     (vi) for the purpose of complying with any obligation under the Protocol.
 (3) A person to whom this section applies commits an offence under section 130 if the person knowingly contravenes this section.
-(4) Nothing in subsection (2) may be treated as prohibiting the chief executive from—
+(4) Nothing in subsection (2) may be treated as prohibiting the chief executive or the EPA from—
   (a) providing or publishing general guidance in relation to the operation of this Part and Part 5; or
   (b) with the prior approval of the Minister, preparing and supplying statistical information to any person in a form that does not identify any individual; or
-  (c) providing information to any person about whether any forest land is considered by the chief executive to be pre-1990 forest land or post-1989 forest land, or has been declared to be exempt land by the chief executive.
+  (c) providing information to any person about whether any forest land is considered by the chief executive or the EPA to be pre-1990 forest land or post-1989 forest land, or has been declared to be exempt land by the chief executive or the EPA.
 
 ### 100 Power of entry for investigation
 (1) An enforcement officer may enter land or premises (excluding any dwellinghouse or marae) at any reasonable time during the ordinary hours of business to investigate whether a person is complying with this Part or Part 5.
@@ -1980,7 +2003,7 @@ The chief executive may pay, or a District Court Judge may order the chief execu
 (7) Nothing in this section limits the privilege against self-incrimination.
 
 ### 101 Applications for warrants
-(1) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of any court who, on written application made on oath by an enforcement officer authorised by the chief executive, is satisfied that there are reasonable grounds to believe that there are in or on or under or over any land, premises, dwellinghouse, or marae any documents or other records or things (including samples) that may be evidence of the commission of an offence under section 129, 132, or 133 may issue a warrant authorising the entry and search of the land, premises, dwellinghouse, or marae.
+(1) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of any court who, on written application made on oath by an enforcement officer authorised by the EPA, is satisfied that there are reasonable grounds to believe that there are in or on or under or over any land, premises, dwellinghouse, or marae any documents or other records or things (including samples) that may be evidence of the commission of an offence under section 129, 132, or 133 may issue a warrant authorising the entry and search of the land, premises, dwellinghouse, or marae.
 (2) Every search warrant may authorise the enforcement officer executing the warrant to do any of the following things:
   (a) enter and search the land, premises, dwellinghouse, or marae, at any time that is reasonable in the circumstances during the ordinary hours of business, within—
     (i) 14 working days after the date of the warrant; or
@@ -2028,7 +2051,7 @@ No enforcement officer or person called upon to assist an enforcement officer wh
 **Emissions rulings**
 
 ### 107 Applications for emissions rulings
-(1) A person may apply to the chief executive for an emissions ruling in respect of 1 or more of the following matters:
+(1) A person may apply to the EPA for an emissions ruling in respect of 1 or more of the following matters:
   (a) whether something that the person—
     (i) is doing is an activity listed in Schedule 3 or 4; or
     (ii) proposes to do would be an activity listed in Schedule 3 or 4:
@@ -2042,57 +2065,57 @@ No enforcement officer or person called upon to assist an enforcement officer wh
   (d) specify the applicant’s opinion as to what the ruling should be; and
   (e) contain, or have attached, all information that is relevant to a proper consideration of the application; and
   (f) be accompanied by the prescribed fee (if any).
-(3) The chief executive may request any further information from an applicant that the chief executive considers necessary to assist in the consideration of the application.
+(3) The EPA may request any further information from an applicant that the EPA considers necessary to assist in the consideration of the application.
 
-### 108 Matters in relation to which chief executive may decline to make emissions rulings
-(1) The chief executive may not make an emissions ruling––
-  (a) with respect to a provision that authorises or requires the chief executive to—
+### 108 Matters in relation to which EPA may decline to make emissions rulings
+(1) The EPA may not make an emissions ruling––
+  (a) with respect to a provision that authorises or requires the EPA to—
     (i) impose or remit a penalty; or
     (ii) inquire into the correctness of any return or other information supplied by any person; or
     (iii) prosecute any person; or
     (iv) recover any debt owing by any person; or
-  (b) if the information submitted with the application for the ruling, including (but not limited to) information submitted under section 107(3), raises questions of fact that the chief executive would need to determine in order to make the ruling.
-(2) The chief executive may decline to make an emissions ruling if—
-  (a) the chief executive considers that the correctness of the ruling would depend on which assumptions were made about a future event or other matter; or
+  (b) if the information submitted with the application for the ruling, including (but not limited to) information submitted under section 107(3), raises questions of fact that the EPA would need to determine in order to make the ruling.
+(2) The EPA may decline to make an emissions ruling if—
+  (a) the EPA considers that the correctness of the ruling would depend on which assumptions were made about a future event or other matter; or
   (b) the matter on which the ruling is sought is subject to a review or appeal, or is the subject of proceedings, whether in relation to the applicant or any other person; or
   (c) the applicant has outstanding unpaid fees relating to an earlier emissions ruling application; or
-  (d) the chief executive considers the application is frivolous or vexatious; or
+  (d) the EPA considers the application is frivolous or vexatious; or
   (e) the matter on which the ruling is sought concerns an obligation to surrender units that are already due and payable, unless the application is received before the obligation arises; or
-  (f) an assessment or amendment relating to the same person, activity, and period to which the proposed ruling would apply has been made (unless the application is received by the chief executive before the date an assessment or amendment is made); or
-  (g) in the chief executive’s opinion—
-    (i) the chief executive has insufficient information to make the ruling; or
-    (ii) it would be unreasonable to make a ruling in view of the resources available to the chief executive.
+  (f) an assessment or amendment relating to the same person, activity, and period to which the proposed ruling would apply has been made (unless the application is received by the EPA before the date an assessment or amendment is made); or
+  (g) in the EPA's opinion—
+    (i) the EPA has insufficient information to make the ruling; or
+    (ii) it would be unreasonable to make a ruling in view of the resources available to the EPA.
 
 ### 109 Making of emissions rulings
-(1) The chief executive must make an emissions ruling regarding the matter in respect of which a ruling is sought under section 107 as soon as practicable after the receipt of—
+(1) The EPA must make an emissions ruling regarding the matter in respect of which a ruling is sought under section 107 as soon as practicable after the receipt of—
   (a) a properly completed application for a ruling; and
-  (b) all information that the chief executive considers relevant to the consideration of the application, including information requested under section 107(3).
+  (b) all information that the EPA considers relevant to the consideration of the application, including information requested under section 107(3).
 (2) Subject to section 114(2), a ruling comes into effect on the day on which it is made.
 (3) A ruling may be made subject to any conditions that the chief executive thinks fit.
 (4) Subsection (1) is subject to section 108.
 
 ### 110 Notice of emissions rulings
-The chief executive must, as soon as practicable, notify the applicant of—
+The EPA must, as soon as practicable, notify the applicant of—
   (a) an emissions ruling, together with the reasons for the ruling, and the conditions (if any) to which the ruling is subject; or
   (b) a decision to decline to make an emissions ruling, together with the reasons for the decision.
 
 ### 111 Confirmation of basis of emissions rulings
-At any time after an emissions ruling is made, the chief executive may, by notice, require an applicant to satisfy the chief executive, within 20 working days after receipt of the notice, and in a manner that the chief executive considers appropriate, that—
+At any time after an emissions ruling is made, the EPA may, by notice, require an applicant to satisfy the EPA, within 20 working days after receipt of the notice, and in a manner that the EPA considers appropriate, that—
   (a) the information on which the emissions ruling is based remains accurate; and
   (b) the conditions (if any) to which the ruling is subject, have been, and continue to be, complied with.
 
-### 112 Notifying chief executive of changes relevant to or failure to comply with emissions rulings
-(1) A person must, as soon as practicable, notify the chief executive of any material change that is relevant to the application if the person—
+### 112 Notifying EPA of changes relevant to or failure to comply with emissions rulings
+(1) A person must, as soon as practicable, notify the EPA of any material change that is relevant to the application if the person—
   (a) has made an application for an emissions ruling under section 107; and
-  (b) becomes aware of a material change relating to the application before the emissions ruling is made by the chief executive.
-(2) A person who has obtained an emissions ruling under section 109 must, as soon as practicable, notify the chief executive of—
+  (b) becomes aware of a material change relating to the application before the emissions ruling is made by the EPA.
+(2) A person who has obtained an emissions ruling under section 109 must, as soon as practicable, notify the EPA of—
   (a) any material change that is relevant to the ruling:
   (b) any failure to comply with any of the conditions of the ruling.
 (3) The notification that a person provides under subsection (1) or (2) must state the date on which the person became aware of the material change or the failure to comply.
 
 ### 113 Correction of emissions rulings
-(1) The chief executive may amend an emissions ruling to correct any error that the chief executive is satisfied is contained in the ruling.
-(2) The chief executive must, as soon as practicable after making a correction, notify the applicant of the corrected ruling.
+(1) The EPA may amend an emissions ruling to correct any error that the EPA is satisfied is contained in the ruling.
+(2) The EPA must, as soon as practicable after making a correction, notify the applicant of the corrected ruling.
 (3) The correction to a ruling applies to the applicant from the date on which notice of the corrected ruling is given to the applicant.
 (4) Despite subsection (3), if the corrected ruling has the effect of—
   (a) increasing the number of units that a person is required to surrender, or decreasing the number of New Zealand units that a person is entitled to receive, in respect of a year, then the ruling as given prior to correction under this section must be applied to that year; or
@@ -2103,37 +2126,37 @@ At any time after an emissions ruling is made, the chief executive may, by notic
   (a) the date of a material change in any of the information or facts on which the ruling is based; or
   (b) the date of a material change to this Act or to any regulations relevant to the ruling; or
   (c) the date on which any of the conditions to which the ruling is subject cease to be met or complied with; or
-  (d) the date of a failure to satisfy the requirements of the chief executive under section 111.
+  (d) the date of a failure to satisfy the requirements of the EPA under section 111.
 (2) An emissions ruling does not come into effect if any information on which it is based is not accurate in all material respects.
 
-### 115 Appeal from decisions of chief executive
+### 115 Appeal from decisions of EPA
 (1) An applicant who is dissatisfied with an emissions ruling, or a decision to decline to make an emissions ruling, may, within 20 working days after the date on which notice of the ruling or decision is given, appeal to a District Court against the ruling or decision.
 (2) The District Court may confirm, reverse, or modify the emissions ruling or decision appealed against.
 (3) An emissions ruling or decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 
 ### 116 Effect of emissions rulings
 (1) An emissions ruling is conclusive evidence of the determination of the matter in respect of which a ruling is sought under section 107.
-(2) If the chief executive makes an emissions ruling under section 109,—
+(2) If the EPA makes an emissions ruling under section 109,—
   (a) the ruling applies to the matter in relation to which the ruling was sought; and
-  (b) if the applicant complies with the ruling, the chief executive must apply this Act to that matter in accordance with the ruling.
+  (b) if the applicant complies with the ruling, the EPA must apply this Act to that matter in accordance with the ruling.
 (3) This section is subject to sections 113 and 114 and any decision of the District Court under section 115(2).
 
-### 117 Chief executive may publish certain aspects of emissions rulings
-(1) For the purpose of providing general guidance about the application of this Part or Part 5, the chief executive may, after making an emissions ruling, publish information that relates to the ruling.
-(2) The chief executive may not publish any information under subsection (1) that identifies any person to whom the ruling relates.
+### 117 EPA may publish certain aspects of emissions rulings
+(1) For the purpose of providing general guidance about the application of this Part or Part 5, the EPA may, after making an emissions ruling, publish information that relates to the ruling.
+(2) The EPA may not publish any information under subsection (1) that identifies any person to whom the ruling relates.
 (3) No person may treat, or rely on, the information published under subsection (1) as an emissions ruling with the effect specified by section 116.
 
 **Emissions returns**
 
 ### 118 Submission of final emissions returns
 (1) Subsection (2) applies to the following persons:
-  (a) a person who the chief executive believes is about to—
+  (a) a person who the EPA believes is about to—
     (i) cease carrying out an activity listed in Schedule 3 or 4 in relation to which the person is a participant; and
     (ii) leave New Zealand:
   (b) a participant who has ceased to carry out any activities in New Zealand:
   (c) the executors or administrators of a deceased participant:
   (d) a participant who has become bankrupt or has been put into liquidation.
-(2) The chief executive may, at any time, require a person to whom subsection (1) applies to submit a final emissions return in relation to a specified activity listed in Schedule 3 or 4.
+(2) The EPA may, at any time, require a person to whom subsection (1) applies to submit a final emissions return in relation to a specified activity listed in Schedule 3 or 4.
 (3) Any of the following persons may, at any time, submit a final emissions return in relation to a specified activity listed in Schedule 3 or 4:
   (a) a person who has—
     (i) ceased to carry out an activity listed in Schedule 3 or 4 in relation to which the person was a participant; and
@@ -2143,7 +2166,7 @@ At any time after an emissions ruling is made, the chief executive may, by notic
   (d) a participant who has become bankrupt or has been put into liquidation.
 (4) A final emissions return submitted under subsection (2) or (3) must—
   (a) contain all of the information required in an annual emissions return under section 65(2), but only in respect of the following periods, as relevant:
-    (i) if the return is submitted in response to a requirement of the chief executive under subsection (2), the period specified by the chief executive:
+    (i) if the return is submitted in response to a requirement of the EPA under subsection (2), the period specified by the EPA:
     (ii) if the return is made under subsection (3)(a) or (b), the period—
       (A) beginning on the later of 1 January in the year in which the return is submitted, or the day after the end of the period covered by the last emissions return submitted by the person for the activity; and
       (B) ending on the day the person ceased to carry out the specified activity, or the last of the specified activities covered by the return:
@@ -2158,44 +2181,44 @@ At any time after an emissions ruling is made, the chief executive may, by notic
   (b) must, if the final emissions return does not cover the full period in which the activity was carried out by the participant in a year, submit an annual emissions return under section 65 in respect of the activity that covers any part of the year in which the activity was carried out by the participant that is not covered by the return submitted under this section.
 
 ### 119 Power to extend date for emissions returns
-The chief executive may extend the time for the submission of an emissions return by a period of no more than 20 working days if—
+The EPA may extend the time for the submission of an emissions return by a period of no more than 20 working days if—
   (a) the participant has applied for an extension by the date upon which the emissions return is due; and
-  (b) the chief executive is satisfied that the participant is unable to submit the required emissions return by the due date.
+  (b) the EPA is satisfied that the participant is unable to submit the required emissions return by the due date.
 
-### 120 Amendment to emissions returns by chief executive
-Subject to section 127, if the chief executive is satisfied that the information contained in an emissions return is incorrect, the chief executive may, at any time, amend the emissions return and any assessment of the participant’s liability to surrender units or entitlement to receive New Zealand units in the emissions return as the chief executive thinks fit.
+### 120 Amendment to emissions returns by EPA
+Subject to section 127, if the EPA is satisfied that the information contained in an emissions return is incorrect, the EPA may, at any time, amend the emissions return and any assessment of the participant’s liability to surrender units or entitlement to receive New Zealand units in the emissions return as the EPA thinks fit.
 
 ### 121 Assessment if default made in submitting emissions return
 (1) This section applies if—
   (a) a participant fails to submit an emissions return when required to do so under this Act; or
-  (b) the chief executive has reason to believe that a person is a participant who should have submitted an emissions return, but did not.
-(2) If this section applies, the chief executive may make an assessment of the matters that should have been in the person’s emissions return.
+  (b) the EPA has reason to believe that a person is a participant who should have submitted an emissions return, but did not.
+(2) If this section applies, the EPA may make an assessment of the matters that should have been in the person’s emissions return.
 
 ### 122 Amendment or assessment presumed to be correct
 An amendment made to an emissions return under section 120, or an assessment made under section 121, must be taken to be correct unless, on review or appeal, a different amendment or assessment is made.
 
 ### 123 Effect of amendment or assessment
-(1) If the chief executive makes an amendment under section 120 or an assessment under section 121, the chief executive must, as soon as practicable after making the amendment or assessment, notify the participant of—
+(1) If the EPA makes an amendment under section 120 or an assessment under section 121, the EPA must, as soon as practicable after making the amendment or assessment, notify the participant of—
   (a) the particulars of the amendment or assessment; and
   (b) any grounds or information upon which the amendment or assessment was based; and
   (c) the right of the person to seek a review of the decision under section 144.
 (2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134(3)(b).
 (3) If the amendment or assessment results in a liability for the person to surrender units or any additional units, the participant must surrender those units within 90 days after the date of the notice under subsection (1).
-(4) If the amendment shows that a participant has surrendered too many units, the chief executive must, within 20 working days after the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
-(5) If the amendment or assessment results in an entitlement for a participant to receive New Zealand units for the participant's removal activities, the chief executive must direct the Registrar to transfer the number of New Zealand units to which the participant is entitled to the participant's holding account.
-(6) If the amendment shows that a participant was transferred too many New Zealand units for the participant’s removal activities, the participant must, within 90 days after the date of the notice under subsection (1), repay the number of units to which the amendment shows the participant was not entitled by transferring them to a Crown holding account designated by the chief executive.
+(4) If the amendment shows that a participant has surrendered too many units, the EPA must, within 20 working days after the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
+(5) If the amendment or assessment results in an entitlement for a participant to receive New Zealand units for the participant's removal activities, the EPA must direct the Registrar to transfer the number of New Zealand units to which the participant is entitled to the participant's holding account.
+(6) If the amendment shows that a participant was transferred too many New Zealand units for the participant’s removal activities, the participant must, within 90 days after the date of the notice under subsection (1), repay the number of units to which the amendment shows the participant was not entitled by transferring them to a Crown holding account designated by the EPA.
 (7) Units repaid by any person under subsection (6) must be of a type that may be transferred to a surrender account at the time the unit is repaid.
-(8) The chief executive is not required to meet the time frame in subsection (4) if consultation under section 124(6) on the units to be reimbursed makes this impracticable.
+(8) The EPA is not required to meet the time frame in subsection (4) if consultation under section 124(6) on the units to be reimbursed makes this impracticable.
 
-### 124 Reimbursement of units by chief executive
-(1) If the chief executive is required to arrange for the reimbursement of units to a person under section 123(4), 126(2), 138(2), or 189(7), the chief executive must direct the Registrar to transfer units to the person in accordance with subsection (2).
+### 124 Reimbursement of units by EPA
+(1) If the EPA is required to arrange for the reimbursement of units to a person under section 123(4), 126(2), 138(2), or 189(7), the EPA must direct the Registrar to transfer units to the person in accordance with subsection (2).
 (2) If the reimbursement is of—
-  (a) New Zealand units or approved overseas units, the chief executive must direct the Registrar to transfer the applicable number of New Zealand units or approved overseas units from the appropriate surrender account or Crown holding account to the person's holding account; or
-  (b) Kyoto units, the chief executive must direct the Registrar to transfer the applicable number and type of Kyoto units from the appropriate surrender account or Crown holding account to the person's holding account.
-(3) The chief executive must take into account the views of the person to whom units will be reimbursed about the type of units to be reimbursed when determining what units to reimburse.
+  (a) New Zealand units or approved overseas units, the EPA must direct the Registrar to transfer the applicable number of New Zealand units or approved overseas units from the appropriate surrender account or Crown holding account to the person's holding account; or
+  (b) Kyoto units, the EPA must direct the Registrar to transfer the applicable number and type of Kyoto units from the appropriate surrender account or Crown holding account to the person's holding account.
+(3) The EPA must take into account the views of the person to whom units will be reimbursed about the type of units to be reimbursed when determining what units to reimburse.
 
 ### 125 Repayment of units by persons in case of error
-(1) The chief executive may, if satisfied that as a result of an error, units to which a person is not entitled under a provision in Part 4 or 5 have been transferred from a Crown holding account or other account held by the Crown to the person's holding account, give a notice to the person requiring that person to repay the units referred to in the notice in accordance with subsection (2).
+(1) The EPA may, if satisfied that as a result of an error, units to which a person is not entitled under a provision in Part 4 or 5 have been transferred from a Crown holding account or other account held by the Crown to the person's holding account, give a notice to the person requiring that person to repay the units referred to in the notice in accordance with subsection (2).
 (2) A person who receives a notice under subsection (1) must—
   (a) repay any units transferred in error that are still in the person’s holding account, or are otherwise under the person's control, by transferring those units as soon as practicable to the Crown holding account designated in the notice; and
   (b) if not all the units transferred in error are repaid under paragraph (a), repay, within 30 working days of the date of the notice, the outstanding number of units by transferring units to the Crown holding account designated in the notice.
@@ -2203,24 +2226,24 @@ An amendment made to an emissions return under section 120, or an assessment mad
 
 ### 126 Obligation to surrender or repay units not suspended by review or appeal
 (1) The obligation to surrender or repay units under section 123 or 125 is not suspended by any review or legal proceedings.
-(2) If the applicant for a review or the appellant in proceedings is successful in the review or the proceedings, the chief executive must arrange for the reimbursement to the applicant or appellant of the number of units surrendered or repaid in excess of those that are determined to be required to be surrendered or repaid.
-(3) However, any obligation on the chief executive under subsection (2) is suspended pending the outcome of any appeal filed by the chief executive under section 146.
+(2) If the applicant for a review or the appellant in proceedings is successful in the review or the proceedings, the EPA must arrange for the reimbursement to the applicant or appellant of the number of units surrendered or repaid in excess of those that are determined to be required to be surrendered or repaid.
+(3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed by the EPA under section 146.
 
 ### 127 Time bar for amendment of emissions returns
 (1) If a participant has complied with the participant’s obligation to surrender units in relation to an emissions return submitted under—
-  (a) any section except section 189 or 193, the chief executive may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 4 years from the end of the year or other period in respect of which the emissions return was made, or in the case of a return under section 187 or 191, from the date of the submission of the emissions return, if the amendment would—
+  (a) any section except section 189 or 193, the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 4 years from the end of the year or other period in respect of which the emissions return was made, or in the case of a return under section 187 or 191, from the date of the submission of the emissions return, if the amendment would—
     (i) increase the number of units required to be surrendered by the participant; or
     (ii) alter the number of New Zealand units that the participant is entitled to receive for removal activities:
-  (b) section 189 or 193, the chief executive may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 7 years from the end of the year or other period in respect of which the emissions return was made if the amendment would—
+  (b) section 189 or 193, the EPA may not amend the emissions return, or the assessment made by the participant of the units to be surrendered or received, after the expiration of 7 years from the end of the year or other period in respect of which the emissions return was made if the amendment would—
     (i) increase the number of units required to be surrendered by the participant; or
     (ii) alter the number of New Zealand units that the participant is entitled to receive for removal activities.
-(2) However, if the chief executive is satisfied that an emissions return was fraudulent, was wilfully misleading, or deliberately omitted mention of emissions or removals in respect of which an emissions return was required to be submitted, the chief executive may amend the emissions return at any time, under section 120, so as to—
+(2) However, if the EPA is satisfied that an emissions return was fraudulent, was wilfully misleading, or deliberately omitted mention of emissions or removals in respect of which an emissions return was required to be submitted, the EPA may amend the emissions return at any time, under section 120, so as to—
   (a) increase the number of units required to be surrendered by the participant:
   (b) decrease the number of New Zealand units to which the participant is entitled in respect of removal activities.
 
 ### 128 Amendments and assessments made by electronic means
-Any amendment or assessment made by the chief executive for the purpose of this Act that is made automatically by a computer or other electronic means in response to or as a result of information entered or held in the computer or other electronic medium—
-  (a) must be treated as an amendment or assessment made by or under the properly delegated authority of the chief executive; and
+Any amendment or assessment made by the EPA for the purpose of this Act that is made automatically by a computer or other electronic means in response to or as a result of information entered or held in the computer or other electronic medium—
+  (a) must be treated as an amendment or assessment made by or under the properly delegated authority of the EPA; and
   (b) is not invalid by virtue of the fact that it is made automatically by such means.
 
 ### Subpart 4 — Offences and penalties
@@ -2229,15 +2252,15 @@ Any amendment or assessment made by the chief executive for the purpose of this 
 (1) A person commits an offence against this Act if the person—
   (a) is a participant in any year and, without reasonable excuse, fails to comply with section 62 (requirement to collect data or other information, calculate emissions and removals, and keep records); or
   (b) without reasonable excuse,—
-    (i) fails to notify the chief executive under section 56 that the person is carrying out an activity listed in Schedule 3; or
+    (i) fails to notify the EPA under section 56 that the person is carrying out an activity listed in Schedule 3; or
     (ii) fails to submit an emissions return when required to do so under section 65, 118, 189, 191, or 193; or
-    (iia) fails to comply with the requirements relating to the calculation of, application for, or notification of an annual allocation adjustment or closing allocation adjustment under section 83 or 84, including where required to comply with section 84(1)(a) to (c) by the chief executive under section 84(2)(c); or
+    (iia) fails to comply with the requirements relating to the calculation of, application for, or notification of an annual allocation adjustment or closing allocation adjustment under section 83 or 84, including where required to comply with section 84(1)(a) to (c) by the EPA under section 84(2)(c); or
     (iii) fails to keep records as required—
       (A) under section 67 or 86D; or
       (B) by a fishing allocation plan; or
       (C) by a pre-1990 forest land allocation plan; or
-    (iv) fails to notify the chief executive of a matter that is required to be notified under section 112; or
-    (v) fails to notify the chief executive, within the time required, of a matter required to be notified under section 84(2)(b) or 192(3).
+    (iv) fails to notify the EPA of a matter that is required to be notified under section 112; or
+    (v) fails to notify the EPA, within the time required, of a matter required to be notified under section 84(2)(b) or 192(3).
 (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
   (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
   (b) the second time the person is convicted of that offence, to a fine not exceeding $16,000:
@@ -2251,8 +2274,8 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
 
 ### 131 Offence for failure to provide information or documents
 (1) A person commits an offence against this Act if the person, without reasonable excuse,—
-  (a) fails to provide information to the chief executive or an enforcement officer when required to do so under section 94; or
-  (b) fails to appear before the chief executive or an enforcement officer, or fails to produce any document or documents, when required to do so under section 95.
+  (a) fails to provide information to the EPA or an enforcement officer when required to do so under section 94; or
+  (b) fails to appear before the EPA or an enforcement officer, or fails to produce any document or documents, when required to do so under section 95.
 (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
   (a) in the case of an individual, to a fine not exceeding $12,000; or
   (b) in the case of a body corporate, to a fine not exceeding $24,000.
@@ -2263,12 +2286,12 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (b) refuses to answer any question when required to do so under section 95; or
   (c) is a participant in any year and knowingly fails to comply with section 62 (requirement to collect data or other information, calculate emissions and removals, and keep records); or
   (d) knowingly fails to submit an emissions return when required to do so under section 65, 118, 189, 191, or 193; or
-  (da) knowingly fails to comply with the requirements relating to the calculation of, application for, or notification of an annual allocation adjustment or a closing allocation adjustment under section 83 or 84, including when required to comply with section 84(1)(a) to (c) by the chief executive under section 84(2)(c); or
+  (da) knowingly fails to comply with the requirements relating to the calculation of, application for, or notification of an annual allocation adjustment or a closing allocation adjustment under section 83 or 84, including when required to comply with section 84(1)(a) to (c) by the EPA under section 84(2)(c); or
   (e) knowingly fails to keep records as required—
     (i) under section 67 or 86D; or
     (ii) by a fishing allocation plan; or
     (iii) by a pre-1990 forest land allocation plan; or
-  (f) knowingly provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the chief executive or any other person in respect of any matter in this Part or Part 5; or
+  (f) knowingly provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the EPA or any other person in respect of any matter in this Part or Part 5; or
   (g) wilfully obstructs, hinders, resists, or deceives a person exercising a power conferred on that person under this Part or Part 5; or
   (h) wilfully interferes with any survey, investigation, test, or measurement carried out by an enforcement officer or a person assisting an enforcement officer under section 100; or
   (i) refuses to provide information that an enforcement officer has demanded from that person under section 100(2)(d).
@@ -2280,13 +2303,13 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
 (1) A person commits an offence against this Act if the person, with intent to deceive and for the purpose of either obtaining any material benefit or avoiding any material detriment,—
   (a) fails to comply with any of the requirements specified in section 62; or
   (b) fails to submit an emissions return when required to do so under section 65, 118, 189, 191, or 193; or
-  (ba) fails to comply with the requirements relating to calculation and application for or notification of an annual allocation adjustment or a closing allocation adjustment under section 83 or 84 (including where required to comply with section 84(1)(a) to (c) by the chief executive under section 84(2)(c)); or
+  (ba) fails to comply with the requirements relating to calculation and application for or notification of an annual allocation adjustment or a closing allocation adjustment under section 83 or 84 (including where required to comply with section 84(1)(a) to (c) by the EPA under section 84(2)(c)); or
   (c) fails to keep records as required—
     (i) under section 67 or 86D; or
     (ii) by a fishing allocation plan; or
     (iii) by a pre-1990 forest land allocation plan; or
-  (d) fails to provide information to the chief executive or any other person when required to do so under this Part or Part 5; or
-  (e) provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the chief executive or any other person in respect of a matter in this Part and Part 5.
+  (d) fails to provide information to the EPA or any other person when required to do so under this Part or Part 5; or
+  (e) provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the EPA or any other person in respect of a matter in this Part and Part 5.
 (2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to—
   (a) imprisonment for a term not exceeding 5 years; or
   (b) a fine not exceeding $50,000; or
@@ -2301,32 +2324,32 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (c) a person is required under section 125 to repay units transferred in error.
 (2) Subject to section 135, if this section applies, the person is liable to—
   (a) surrender or repay the units as required under the relevant section; and
-  (b) pay to the chief executive an excess emissions penalty of $30 for each unit that,—
+  (b) pay to the EPA an excess emissions penalty of $30 for each unit that,—
     (i) if subsection (1)(a) applies, the person fails to surrender by the due date; or
     (ii) if subsection (1)(b) applies, the person is required to surrender under section 123(3) or repay under section 123(6); or
     (iii) if subsection (1)(c) applies, the person fails to repay by the due date.
-(3) If a person is liable to an excess emissions penalty under subsection (2), the chief executive must give a notice to the person that,—
+(3) If a person is liable to an excess emissions penalty under subsection (2), the EPA must give a notice to the person that,—
   (a) if subsection (1)(a) or (c) applies,—
     (i) refers to the person’s failure to surrender units by the due date as required under section 65(4), 118(5), 189, 191, or 193, as applicable, or repay units by the due date under section 125; and
     (ii) sets out the number of units required to be surrendered or repaid; and
     (iii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)(b); and
-    (iv) requires the person to surrender or repay the units specified in subparagraph (ii), and pay the penalty specified in subparagraph (iii) to the chief executive, within 20 working days of the date of the notice; and
+    (iv) requires the person to surrender or repay the units specified in subparagraph (ii), and pay the penalty specified in subparagraph (iii) to the EPA, within 20 working days of the date of the notice; and
     (v) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137; or
   (b) if subsection (1)(b) applies,—
     (i) refers to the relevant notice under section 123(1); and
     (ii) sets out the amount of the excess emissions penalty to which the person is liable under subsection (2)(b); and
     (iii) requires the person to pay the penalty specified in subparagraph (ii) within the period in which the person must surrender units under section 123(3) or repay units under section 123(6); and
     (iv) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
-(4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
+(4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
 ### 135 Reductions in penalty
-(1) The chief executive may reduce the excess emissions penalty imposed by section 134(2)(b)(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
-(2) The chief executive may reduce the excess emissions penalty imposed by section 134(2)(b)(ii) by up to 100%, if—
-  (a) the person voluntarily disclosed that an emissions return submitted by the person contained incorrect information, or that the person failed to file a return when required to do so, before the chief executive or an enforcement officer—
+(1) The EPA may reduce the excess emissions penalty imposed by section 134(2)(b)(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
+(2) The EPA may reduce the excess emissions penalty imposed by section 134(2)(b)(ii) by up to 100%, if—
+  (a) the person voluntarily disclosed that an emissions return submitted by the person contained incorrect information, or that the person failed to file a return when required to do so, before the EPA or an enforcement officer—
     (i) requested any information under section 94 or 95 in relation to the return; or
     (ii) gave notice of an intention to enter land or premises under section 100(3); or
     (iii) executed a warrant under section 101; or
-  (b) the chief executive is satisfied that the person formed a view as to the information on which the return was based or as to whether a return was required, that, while incorrect, was reasonable, having regard to the information available to that person at the time the emissions return was required.
+  (b) the EPA is satisfied that the person formed a view as to the information on which the return was based or as to whether a return was required, that, while incorrect, was reasonable, having regard to the information available to that person at the time the emissions return was required.
 
 ### 136 Additional penalty for knowing failure to comply
 (1) This section applies to a person who—
@@ -2340,17 +2363,17 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
       (B) assessed under section 121.
 (2) If this section applies, the person is liable, in addition to any penalty imposed in respect of the offence, to—
   (a) as the case may require,—
-    (i) transfer to the Crown holding account designated by the Minister or chief executive in the notice referred to in section 79(3) or 86C(4) a number of units equivalent to the number of units specified as being repayable in that notice under section 79(3)(a) or 86C(4), or in any review or appeal proceedings relating to that determination or decision; or
-    (ii) surrender a number of units equivalent to the number of units determined by the chief executive in the amendment under section 120 or the assessment under section 121, or in any review or appeal proceedings relating to that determination; and
+    (i) transfer to the Crown holding account designated by the Minister or EPA in the notice referred to in section 79(3) or 86C(4) a number of units equivalent to the number of units specified as being repayable in that notice under section 79(3)(a) or 86C(4), or in any review or appeal proceedings relating to that determination or decision; or
+    (ii) surrender a number of units equivalent to the number of units determined by the EPA in the amendment under section 120 or the assessment under section 121, or in any review or appeal proceedings relating to that determination; and
   (b) pay an excess emissions penalty of $30 for each unit the person is liable to transfer or surrender under paragraph (a).
-(3) If this section applies, the chief executive must give a notice to the person that—
+(3) If this section applies, the EPA must give a notice to the person that—
   (a) sets out the—
     (i) number of additional units that the person is required to transfer to a Crown holding account or surrender under subsection (2); and
     (ii) amount of the excess emissions penalty to which the person is liable under subsection (2); and
   (b) requires the person to transfer to the designated Crown holding account or surrender the additional units, and pay the penalty within 90 days after the date of the notice; and
   (c) advises that, unless both the units are transferred to the designated Crown holding account or surrendered (as the case may require) and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
-(4) To avoid doubt, any liability to transfer units to a Crown holding account or surrender units and pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the chief executive under section 134.
-(5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
+(4) To avoid doubt, any liability to transfer units to a Crown holding account or surrender units and pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134.
+(5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
 ### 137 Interest for late payment
 (1) This section applies if—
@@ -2363,27 +2386,30 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (a) at the rate prescribed by the Governor-General by Order in Council; and
   (b) for the period from the date by which the penalty was due to be paid until the associated liability to surrender or repay units or to transfer units to a Crown holding account under section 136 (or to pay any associated debt under section 159) has been met, and until the penalty and any interest due have been paid in full.
 (3) To avoid doubt, interest accrues under subsection (2) even if the amount of the excess emissions penalty in a penalty notice has been paid in full if the associated requirement to surrender or repay units or to transfer units to a Crown holding account under section 136 (or to pay any associated debt under section 159) has not been met in full.
-(4) Despite anything in this section, the chief executive may remit any amount of interest that has accrued under this section, if the chief executive is satisfied that—
+(4) Despite anything in this section, the EPA may remit any amount of interest that has accrued under this section, if the EPA is satisfied that—
   (a) the failure of the person to comply with the requirement to surrender or repay units or to transfer units to a Crown holding account under section 136 and pay the penalty in full arises as a result of an event or a circumstance beyond the control of that person; and
   (b) as a consequence of that event or circumstance, the person has a reasonable justification or excuse for the non-compliance; and
   (c) the person corrected the failure to comply as soon as practicable.
-(5) Without limiting the chief executive’s discretion under subsection (4), an event or circumstance may include—
+(5) Without limiting the EPA’s discretion under subsection (4), an event or circumstance may include—
   (a) an accident or a disaster; or
   (b) illness or emotional or mental distress.
-(6) Despite anything in this section, the chief executive may remit part of an amount of interest that has accrued under this section if the chief executive is satisfied that it would be manifestly unfair or unjust to impose the full amount.
+(6) Despite anything in this section, the EPA may remit part of an amount of interest that has accrued under this section if the EPA is satisfied that it would be manifestly unfair or unjust to impose the full amount.
 (7) For the purposes of this section, an event or circumstance does not include—
-  (a) an act or omission of an agent of a person, unless the chief executive is satisfied that the act or omission was caused by an event or circumstance beyond the control of the agent—
+  (a) an act or omission of an agent of a person, unless the EPA is satisfied that the act or omission was caused by an event or circumstance beyond the control of the agent—
     (i) that could not have been anticipated; and
     (ii) the effect of which could not have been avoided by compliance with accepted standards of business organisation and professional conduct; or
   (b) a person’s financial position.
 
 ### 138 Obligation to pay penalty not suspended by appeal
 (1) The obligation to pay and the right to receive and recover any excess emissions penalty or interest imposed under section 134, 136, or 137, and the obligation to transfer to a Crown holding account or surrender any additional units under section 136, are not suspended by any review or appeal.
-(2) If the applicant or appellant is successful in the review or appeal, the amount of any excess emissions penalty or interest paid by the applicant must be refunded to the applicant or appellant by the chief executive, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
-(3) However, any obligation on the chief executive under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
-(4) The chief executive must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)(a).
-  (a) commences on the day on which the relevant penalty is lodged to the credit of the chief executive; and
-  (b) ends on the day on which the relevant penalty is refunded by the chief executive; and
+(2) If the applicant or appellant is successful in the review or appeal, the amount of any excess emissions penalty or interest paid by the applicant must be refunded to the applicant or appellant by the EPA, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
+(3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
+(4) The EPA must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)(a).
+  (a) commences on the day on which the relevant penalty is lodged to the credit of the EPA; and
+  (b) ends on the day on which the relevant penalty is refunded by the EPA; and
+
+### 138A Penalties to be paid into Crown account
+The EPA must pay the amount of all excess emissions penalties and interest on the penalties received from a person in accordance with section 134, 136, or 137 into a Crown Bank Account.
 
 ### 139 Liability of body corporate
 If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person’s actual or apparent authority, had that state of mind.
@@ -2404,7 +2430,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 
 ### 143 Evidence in proceedings
 (1) In any proceedings for an offence against this Part or Part 5, a certificate or document (including an electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or the document, as the case may require:
-  (a) a certificate purporting to be signed by the chief executive, or by a delegate of the chief executive, to the effect that, at any specified date or period,—
+  (a) a certificate purporting to be signed by a delegate of the EPA, to the effect that, at any specified date or period,—
     (i) a named person is or was, or is not or was not, an enforcement officer or a person or organisation recognised under section 92; or
     (ii) a person was, or was not, registered as a participant in relation to an activity listed in Schedule 4:
   (b) a certificate purporting to be signed by any person authorised to delegate to any person, or to persons of any kind or description, the exercise of any power or the performance of any function under this Part or Part 5, stating that the person has delegated—
@@ -2417,17 +2443,17 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 ### Subpart 5 — Review and appeal provisions
 
 ### 144 Request for review of decisions
-(1) A person affected by a decision of the chief executive under a provision in this Part or Part 5 who is dissatisfied with the decision may, by notice to the chief executive within the period of 30 days after receiving notice of the decision, or within any further period that the chief executive allows, request the chief executive to review the decision.
+(1) A person affected by a decision of the EPA under a provision in this Part or Part 5 who is dissatisfied with the decision may, by notice to the EPA within the period of 30 days after receiving notice of the decision, or within any further period that the EPA allows, request the EPA to review the decision.
 (2) The request must set out the grounds on which it is believed that the original decision should be reviewed.
-(3) For the purposes of a review, the chief executive may require the person making the request for review to supply information additional to that contained in the request.
-(4) Following a review, the chief executive may confirm, revoke, or vary the decision in the manner that the chief executive thinks fit.
-(5) The decision requested to be reviewed remains valid unless and until altered by the chief executive.
-(6) The chief executive must, as soon as practicable, give notice to the person who requested the review of the decision on the review, and of the reasons for it.
-(7) A decision by the chief executive under this section is final, unless determined otherwise by a court under an appeal under section 145 or 146.
-(8) This section does not apply to any decision that the chief executive makes under section 90 or of the chief executive in relation to emissions rulings (including a decision to decline making a ruling) under sections 107 to 117.
+(3) For the purposes of a review, the EPA may require the person making the request for review to supply information additional to that contained in the request.
+(4) Following a review, the EPA may confirm, revoke, or vary the decision in the manner that the EPA thinks fit.
+(5) The decision requested to be reviewed remains valid unless and until altered by the EPA.
+(6) The EPA must, as soon as practicable, give notice to the person who requested the review of the decision on the review, and of the reasons for it.
+(7) A decision by the EPA under this section is final, unless determined otherwise by a court under an appeal under section 145 or 146.
+(8) This section does not apply to any decision that the EPA makes under section 90 or of the EPA in relation to emissions rulings (including a decision to decline making a ruling) under sections 107 to 117.
 
 ### 145 Right of appeal to District Court
-(1) A person has a right of appeal to a District Court if affected by a decision of the chief executive under section 144.
+(1) A person has a right of appeal to a District Court if affected by a decision of the EPA under section 144.
 (2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 
@@ -2436,28 +2462,28 @@ If a party to any proceedings before the District Court under section 145 is dis
 
 ### Subpart 6 — Miscellaneous provisions
 
-### 147 Giving of notices by chief executive
-(1) This section applies if this Act requires the chief executive to give a notice to a person.
-(2) If this section applies, the chief executive—
+### 147 Giving of notices by EPA
+(1) This section applies if this Act requires the EPA to give a notice to a person.
+(2) If this section applies, the EPA—
   (a) must give the notice in writing to—
     (i) the person; or
     (ii) a representative authorised to act on behalf of the person; and
   (b) may give notice by—
     (i) personal delivery to a person that is not a body corporate:
     (ii) personal delivery to a person that is a body corporate, if the personal delivery is made to the person’s office during working hours:
-    (iii) an electronic means of communication to the person, if the chief executive complies with the Electronic Transactions Act 2002:
+    (iii) an electronic means of communication to the person, if the EPA complies with the Electronic Transactions Act 2002:
     (iv) post to—
       (A) the street address of the person’s usual or last known place of residence; or
       (B) the street address of any of the person’s usual or last known places of business; or
-      (C) any other address, if the person has notified the chief executive that the person accepts notices at the address.
+      (C) any other address, if the person has notified the EPA that the person accepts notices at the address.
 (3) A notice given by post under subsection (2)(b)(iv) is to be treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
-### 148 Giving of notices to chief executive
-(1) This section applies if this Act requires a person to give a notice to the chief executive.
+### 148 Giving of notices to EPA
+(1) This section applies if this Act requires a person to give a notice to the EPA.
 (2) If this section applies, the person must—
   (a) give the notice in writing; and
   (b) may—
-    (i) give the notice to the office of the chief executive’s department designated by the chief executive by notice in the Gazette:
+    (i) give the notice to the EPA at the office of the EPA:
     (ii) give the notice by—
       (A) personal delivery, if the personal delivery is made during working hours:
       (B) an electronic means of communication, if the person complies with the Electronic Transactions Act 2002:
@@ -2473,7 +2499,7 @@ If a party to any proceedings before the District Court under section 145 is dis
 ### 150 Formation of consolidated group
 (1) Any 2 or more participants who are members of a group may, in respect of any activity or activities listed in Schedule 3 or 4, elect to form and be treated as a consolidated group for the purposes of this Part and Part 5.
 (2) A consolidated group may, in addition to participants who are members of the group, include a member of the group that is not a participant, if that entity is to act as the nominated entity.
-(3) An election under subsection (1) must be made by giving notice to the chief executive in the prescribed form.
+(3) An election under subsection (1) must be made by giving notice to the EPA in the prescribed form.
 (4) A notice given under subsection (3) must—
   (a) include—
     (i) the names of each of the entities that are to be members of the consolidated group (and contact details of any member that is not registered as a participant); and
@@ -2482,23 +2508,23 @@ If a party to any proceedings before the District Court under section 145 is dis
   (c) contain an agreement by each entity listed in the notice as a member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the consolidated group for any obligations under this Part or Part 5 in respect of emissions and removals resulting from the activities specified in the notice; and
     (ii) to the transfer to the consolidated group's holding account on behalf of the group of any units to which any member of the consolidated group may become entitled in respect of any removal activity listed in the notice.
-(5) The chief executive must acknowledge the formation of a consolidated group by notice to all members of the group given within 1 month after the chief executive’s receipt of a notice under subsection (3).
+(5) The EPA must acknowledge the formation of a consolidated group by notice to all members of the group given within 1 month after the EPA's receipt of a notice under subsection (3).
 (6) If 2 or more participants have elected under subsection (1) to form a consolidated group, those participants must be treated for the purposes of this Part and Part 5 as being members of a consolidated group,—
-  (a) if notice of the formation of the consolidated group is received by the chief executive by 30 September in any year, from the beginning of that year:
-  (b) if notice of the formation of the consolidated group is received by the chief executive after 30 September in any year, from the beginning of the following year.
-(6A) Despite subsection (1), 2 or more members of a group may, if they elect to form a consolidated group in respect of an activity, give notice to the chief executive under subsection (3)—
-  (a) at the same time they all give notice to the chief executive under section 56 in respect of that activity; or
+  (a) if notice of the formation of the consolidated group is received by the EPA by 30 September in any year, from the beginning of that year:
+  (b) if notice of the formation of the consolidated group is received by the EPA after 30 September in any year, from the beginning of the following year.
+(6A) Despite subsection (1), 2 or more members of a group may, if they elect to form a consolidated group in respect of an activity, give notice to the EPA under subsection (3)—
+  (a) at the same time they all give notice to the EPA under section 56 in respect of that activity; or
   (b) at the same time they all submit an application under section 57 in respect of that activity.
-(6B) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the chief executive in accordance with subsection (6A) is not required to have its own holding account under section 61 to comply with its obligations as a participant in respect of an activity specified in the notice given under subsection (3) and is not required to open a holding account when giving notice under section 56 or making an application under section 57 in respect of an activity, if—
-  (a) the notice given in accordance with subsection (6A) is received by the chief executive by 30 September in the year in which that notice is given; and
+(6B) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the EPA in accordance with subsection (6A) is not required to have its own holding account under section 61 to comply with its obligations as a participant in respect of an activity specified in the notice given under subsection (3) and is not required to open a holding account when giving notice under section 56 or making an application under section 57 in respect of an activity, if—
+  (a) the notice given in accordance with subsection (6A) is received by the EPA by 30 September in the year in which that notice is given; and
   (b) the nominated entity specified in the notice given in accordance with subsection (6A) has, or has applied for, a holding account in the name of the consolidated group.
 (7) To avoid doubt, a participant may be a member of more than 1 consolidated group in relation to different activities.
 
 ### 151 Changes to consolidated groups
-(1) If at any time 2 or more participants who are members of a group have formed a consolidated group, and at least 1 participant remains a member of the consolidated group, any other participant (or, in the circumstances specified in section 150(2), any other entity that is a member of the group) may elect to join and be treated as a member of the consolidated group by giving notice to the chief executive in a form that the chief executive approves.
+(1) If at any time 2 or more participants who are members of a group have formed a consolidated group, and at least 1 participant remains a member of the consolidated group, any other participant (or, in the circumstances specified in section 150(2), any other entity that is a member of the group) may elect to join and be treated as a member of the consolidated group by giving notice to the EPA in a form that the EPA approves.
 (2) A notice given under subsection (1) must—
   (a) include—
-    (i) the name of the entity that elects to join the consolidated group (and the entity’s contact details if it is not registered as a participant) and sufficient information for the chief executive to identify the consolidated group that is to be joined; and
+    (i) the name of the entity that elects to join the consolidated group (and the entity’s contact details if it is not registered as a participant) and sufficient information for the EPA to identify the consolidated group that is to be joined; and
     (ii) if the entity is a participant, the activity or activities in respect of which the entity elects to be treated as a member of that consolidated group; and
   (b) contain the agreement of the entity—
     (i) to be jointly and severally liable with the other members of the consolidated group for any obligations under this Part or Part 5 in respect of emissions and removals resulting from the activities of the members of the group; and
@@ -2506,35 +2532,35 @@ If a party to any proceedings before the District Court under section 145 is dis
   (c) contain the agreement of every existing member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the group for any obligations under this Part or Part 5 in respect of emissions and removals resulting from the activities of the joining entity; and
     (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the joining entity may become entitled in respect of the activity or activities of that entity specified in the notice.
-(3) The chief executive must acknowledge the joining of a member to a consolidated group by notice to all members of the group given within 1 month after the chief executive’s receipt of a notice under subsection (1).
-(4) Subject to subsection (6), if a participant elects under subsection (1) to join a consolidated group, that participant must be treated for the purposes of this Part and Part 5 as being a member of that consolidated group on and after 1 January of the year in which the participant gives notice to the chief executive under subsection (1).
-(5) If an entity referred to in section 150(2) has elected by notice under subsection (1) to join a consolidated group, that entity must be treated for the purposes of this Part as being a member of that consolidated group from the date of receipt by the chief executive of the notice, or from any later date that may be specified in the notice.
-(6) An entity may, if the entity elects to be treated as a member of a consolidated group on and after the date the entity is registered as a participant in respect of an activity, give notice to the chief executive under subsection (1)—
-  (a) at the same time as giving notice to the chief executive under section 56 in respect of that activity; or
+(3) The EPA must acknowledge the joining of a member to a consolidated group by notice to all members of the group given within 1 month after the EPA's receipt of a notice under subsection (1).
+(4) Subject to subsection (6), if a participant elects under subsection (1) to join a consolidated group, that participant must be treated for the purposes of this Part and Part 5 as being a member of that consolidated group on and after 1 January of the year in which the participant gives notice to the EPA under subsection (1).
+(5) If an entity referred to in section 150(2) has elected by notice under subsection (1) to join a consolidated group, that entity must be treated for the purposes of this Part as being a member of that consolidated group from the date of receipt by the EPA of the notice, or from any later date that may be specified in the notice.
+(6) An entity may, if the entity elects to be treated as a member of a consolidated group on and after the date the entity is registered as a participant in respect of an activity, give notice to the EPA under subsection (1)—
+  (a) at the same time as giving notice to the EPA under section 56 in respect of that activity; or
   (b) when submitting an application under section 57 in respect of that activity.
-(7) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the chief executive in accordance with subsection (6) is not required to have its own holding account under section 61 to comply with its obligations as a participant in respect of an activity specified in the notice given under subsection (1) and is not required to apply for a holding account, when—
-  (a) giving notice to the chief executive under section 56 in respect of that activity; or
+(7) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the EPA in accordance with subsection (6) is not required to have its own holding account under section 61 to comply with its obligations as a participant in respect of an activity specified in the notice given under subsection (1) and is not required to apply for a holding account, when—
+  (a) giving notice to the EPA under section 56 in respect of that activity; or
   (b) submitting an application under section 57 in respect of that activity.
 
 ### 151A Addition of activities to consolidated groups
-(1) A member of a consolidated group may elect to add to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the chief executive in the prescribed form.
+(1) A member of a consolidated group may elect to add to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the EPA in the prescribed form.
 (2) A notice given under subsection (1) must—
   (a) include the name of the member and the activity or activities the member is electing to add to the activities in respect of which the member is treated as a member of the consolidated group; and
   (b) contain the agreement of every existing member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the group for any obligations under this Part or Part 5 in respect of emissions and removals resulting from the member's activity or activities specified in the notice; and
     (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the adding member may become entitled in respect of the activity or activities specified in the notice.
-(3) The chief executive must acknowledge that the member has added the activity or activities specified in the notice under subsection (1) to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the chief executive’s receipt of the notice.
+(3) The EPA must acknowledge that the member has added the activity or activities specified in the notice under subsection (1) to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the EPA's receipt of the notice.
 (4) If a member has elected under subsection (1) to add to the activities in respect of which the member is treated as a member of the consolidated group, the activity or activities specified in the notice are added,—
-  (a) if the notice of the election is received by the chief executive by 30 September in a year, on and after 1 January of that year:
-  (b) if the notice of the election is received by the chief executive after 30 September in a year, on and after 1 January of the next year.
+  (a) if the notice of the election is received by the EPA by 30 September in a year, on and after 1 January of that year:
+  (b) if the notice of the election is received by the EPA after 30 September in a year, on and after 1 January of the next year.
 
 ### 152 Nominated entities
 (1) The nominated entity for a consolidated group at any time is to be treated for the purposes of this Part and Part 5 as the agent at that time of the consolidated group, and of each entity that is at that time a member of the consolidated group, except where this Act otherwise expressly provides or the context otherwise requires.
 (2) No entity is at any time a nominated entity for a consolidated group unless, at the time, the entity is a member of the consolidated group.
-(3) An entity that is a nominated entity for a consolidated group may give notice to the chief executive, in a form that the chief executive approves, that—
+(3) An entity that is a nominated entity for a consolidated group may give notice to the EPA, in a form that the EPA approves, that—
   (a) the entity is to cease to be the agent for the consolidated group; and
   (b) another member entity is to become the agent for the consolidated group.
-(4) If an entity gives notice under subsection (3), then, from the date of receipt by the chief executive of the notice, or from a later date that may be specified in the notice,—
+(4) If an entity gives notice under subsection (3), then, from the date of receipt by the EPA of the notice, or from a later date that may be specified in the notice,—
   (a) the notifying entity ceases to be the agent for the consolidated group; and
   (b) the other entity becomes the agent (nominated entity) for the consolidated group.
 
@@ -2546,7 +2572,7 @@ If a party to any proceedings before the District Court under section 145 is dis
     (i) meet the requirements of section 65(2) in respect of the activities listed in the notice under section 150(4)(a)(ii) or 151(2)(a)(ii) carried out by each member of the consolidated group:
     (ii) be signed by the nominated entity in accordance with section 65(2)(f) on behalf of the consolidated group.
 (2) Each member of a consolidated group is jointly and severally liable to surrender the amount of units assessed in relation to the consolidated group in any year, and that joint and several liability is in substitution for any liability of those members under this Part or Part 5 individually in respect of units to be surrendered for that year (to the extent that the surrender obligation relates to a period when the entity is a member of the consolidated group).
-(3) The liability of every member of the consolidated group to surrender units in respect of any year is met by the transfer of the units assessed in relation to the consolidated group from the consolidated group’s holding account to a surrender account designated by the chief executive.
+(3) The liability of every member of the consolidated group to surrender units in respect of any year is met by the transfer of the units assessed in relation to the consolidated group from the consolidated group’s holding account to a surrender account designated by the EPA.
 (4) Each member of a consolidated group is jointly entitled to any New Zealand units assessed in relation to the removal activities of the consolidated group in any year, and that joint entitlement is in substitution for any entitlement of those members under this Part or Part 5 individually in respect of units to be transferred for that year (to the extent that the entitlement relates to a period when the entity is a member of the consolidated group).
 (5) The entitlement of every member of the consolidated group to be transferred units for removal activities in respect of any year must be met by the transfer of the number of units assessed in relation to the consolidated group to the consolidated group’s holding account.
 (6) This section—
@@ -2568,35 +2594,35 @@ If a party to any proceedings before the District Court under section 145 is dis
 
 ### 155 Ceasing to be member of consolidated group
 (1) An entity that is a member of a consolidated group ceases to be a member of the consolidated group if—
-  (a) the entity so elects, by notice to the chief executive in a form that the chief executive approves; or
+  (a) the entity so elects, by notice to the EPA in a form that the EPA approves; or
   (b) the entity ceases to be a member of the group in respect of which it is eligible to be a member of the consolidated group; or
   (c) the entity ceases to be a participant, unless the entity is the nominated entity; or
   (d) the entity ceases to be the nominated entity and is not a participant; or
   (e) the entity is a member of a consolidated group that has ceased to have a nominated entity.
 (2) An entity is treated as having ceased to be a member of a consolidated group,—
-  (a) if subsection (1)(a) applies and the notice of election to cease to be a member of the consolidated group is received by the chief executive—
+  (a) if subsection (1)(a) applies and the notice of election to cease to be a member of the consolidated group is received by the EPA—
     (i) by 30 September in any year, on and after 1 January of that year; or
     (ii) after 30 September in any year, on and after 1 January of the following year; and
   (b) if subsection (1)(b) applies, with effect from the date on which the entity ceased to be a member of the group in respect of which it is eligible to be a member of the consolidated group; and
   (c) if subsection (1)(c) applies, with effect from the date the participant’s name is removed from the register of participants under section 58 or 59; and
-  (d) if subsection (1)(d) applies, with effect from the date of receipt by the chief executive of the notice under section 152(3) notifying that the entity has ceased to be the nominated entity for the consolidated group; and
+  (d) if subsection (1)(d) applies, with effect from the date of receipt by the EPA of the notice under section 152(3) notifying that the entity has ceased to be the nominated entity for the consolidated group; and
   (e) if subsection (1)(e) applies, with effect from the date on which the consolidated group ceased to have a nominated entity.
 (3) Subsection (1)(e) does not apply if—
   (a) the nominated entity ceases to be the nominated entity by reason of being liquidated; and
-  (b) within 20 working days after that liquidation, or within such further period as the chief executive may allow, the other entities in the consolidated group have selected another nominated entity and notified the chief executive accordingly (in which case the selected entity is treated as the nominated entity with effect from the time of the liquidation).
-(4) An entity that ceases to be a member of a group in respect of which it is eligible to be a member of the consolidated group, or is a member of a consolidated group that ceases to have a nominated entity, must as soon as practicable give notice to the chief executive of this change of circumstances.
-(5) The chief executive must acknowledge the cessation of membership of a member of a consolidated group by notice to that member and the other members of the consolidated group given within 1 month of—
-  (a) the chief executive receiving a notice under—
+  (b) within 20 working days after that liquidation, or within such further period as the EPA may allow, the other entities in the consolidated group have selected another nominated entity and notified the EPA accordingly (in which case the selected entity is treated as the nominated entity with effect from the time of the liquidation).
+(4) An entity that ceases to be a member of a group in respect of which it is eligible to be a member of the consolidated group, or is a member of a consolidated group that ceases to have a nominated entity, must as soon as practicable give notice to the EPA of this change of circumstances.
+(5) The EPA must acknowledge the cessation of membership of a member of a consolidated group by notice to that member and the other members of the consolidated group given within 1 month of—
+  (a) the EPA receiving a notice under—
     (i) subsection (1)(a); or
     (ii) section 152(3); or
-  (b) the chief executive becoming aware that subsection (1)(b) or (e) applies; or
+  (b) the EPA becoming aware that subsection (1)(b) or (e) applies; or
   (c) the member being removed from the register of participants under section 58 or 59.
 (6) Subsection (7) applies to an entity that—
   (a) ceases to be a member of a consolidated group but remains a participant; and
   (b) does not have its own holding account.
 (7) An entity to which this subsection applies must,—
   (a) immediately upon ceasing to be a member of the consolidated group, apply to open a holding account under section 18A; and
-  (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the chief executive within 10 working days of receiving the account number from the Registrar.
+  (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the EPA within 10 working days of receiving the account number from the Registrar.
 
 ### 156 Effect of ceasing to be member of consolidated group
 If an entity ceases to be a member of a consolidated group, the entity—
@@ -2604,11 +2630,11 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) is not liable for any obligations under this Part or Part 5 in respect of emissions and removals from the activities of other members of the group, or entitled to the benefit of any units transferred for the removal activities of other members of the group, for any period during which the entity is not a member of the consolidated group.
 
 ### 156A Removal of activities from consolidated groups
-(1) A member of a consolidated group may elect to remove 1 or more activities from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the chief executive in the prescribed form.
+(1) A member of a consolidated group may elect to remove 1 or more activities from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the EPA in the prescribed form.
 (2) The activity or activities specified in the notice under subsection (1) are removed from the activities in respect of which the member is treated as a member of the consolidated group,—
-  (a) if the notice of the election is received by the chief executive by 30 September in a year, on and after 1 January of that year:
-  (b) if the notice of the election is received by the chief executive after 30 September in a year, on and after 1 January of the next year.
-(3) The chief executive must acknowledge that the activity or activities specified in the notice under subsection (1) are removed from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the chief executive’s receipt of the notice.
+  (a) if the notice of the election is received by the EPA by 30 September in a year, on and after 1 January of that year:
+  (b) if the notice of the election is received by the EPA after 30 September in a year, on and after 1 January of the next year.
+(3) The EPA must acknowledge that the activity or activities specified in the notice under subsection (1) are removed from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the EPA's receipt of the notice.
 (4) If a member has removed an activity from the activities in respect of which the member is treated as a member of a consolidated group, that member continues to be jointly and severally liable with the other members of the consolidated group for any obligations under this Part or Part 5 in respect of emissions and removals related to the activity, and jointly entitled to any units transferred for the activity (if it is a removal activity), in respect of the period in which the activity was an activity in respect of which the member was treated as a member of the consolidated group.
 (5) Subsection (6) applies to a member of a consolidated group that—
   (a) removes 1 or more activities from the activities in respect of which the member is treated as a member of the consolidated group; and
@@ -2616,7 +2642,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (c) does not have its own holding account.
 (6) A member of a consolidated group to which this subsection applies must—
   (a) apply to open a holding account under section 18A immediately upon removal of the activity or activities from the activities in respect of which the member is treated as a member of the consolidated group; and
-  (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the chief executive within 10 working days of receiving the account number from the Registrar.
+  (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the EPA within 10 working days of receiving the account number from the Registrar.
 
 ### 157 Unincorporated bodies
 (1) This section applies if the members of an unincorporated body—
@@ -2633,11 +2659,11 @@ If an entity ceases to be a member of a consolidated group, the entity—
       (A) are not liable to, and may not, be registered as a participant under section 56 in respect of the activity; and
       (B) may not be registered as a participant under section 57 in respect of the activity; and
     (ii) the unincorporated body—
-      (A) must notify the chief executive that it is the participant under section 56 in respect of the activity (if the activity is an activity listed in Schedule 3):
+      (A) must notify the EPA that it is the participant under section 56 in respect of the activity (if the activity is an activity listed in Schedule 3):
       (B) may apply to be registered as the participant under section 57 in respect of the activity (if the activity is an activity listed in Schedule 4):
-      (C) when notifying under section 56 or applying to be registered under section 57, as the case may be, advise the chief executive of the name of the unincorporated body that should be entered on the register of participants kept for the purposes of section 56 or 57; and
-    (iii) the chief executive must, for the purpose of section 56(3) or 57(5) (as applicable), enter the name of the unincorporated body on the register kept for the purposes of section 56 or 57; and
-  (d) the unincorporated body must, when applying for an allocation, or notifying the chief executive under section 56, or applying to the chief executive to be registered as a participant under section 57, as the case may be, provide the chief executive with—
+      (C) when notifying under section 56 or applying to be registered under section 57, as the case may be, advise the EPA of the name of the unincorporated body that should be entered on the register of participants kept for the purposes of section 56 or 57; and
+    (iii) the EPA must, for the purpose of section 56(3) or 57(5) (as applicable), enter the name of the unincorporated body on the register kept for the purposes of section 56 or 57; and
+  (d) the unincorporated body must, when applying for an allocation, or notifying the EPA under section 56, or applying to the EPA to be registered as a participant under section 57, as the case may be, provide the EPA with—
     (i) the names and contact details of the members of the unincorporated body; and
     (ii) the name and contact details of the person to whom notices are to be given under this Act on behalf of the unincorporated body; and
   (e) subject to subsections (3) to (5), any change of members of the unincorporated body has no effect for the purposes of this Act.
@@ -2660,20 +2686,20 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (c) an unincorporated body wishes to change the name under which the body is registered as a participant.
 (2) If this section applies,—
   (a) the unincorporated body must, as relevant,—
-    (i) within 20 working days of a person joining or leaving the unincorporated body, give the chief executive notice of—
+    (i) within 20 working days of a person joining or leaving the unincorporated body, give the EPA notice of—
       (A) the name and contact details of the person joining or leaving; and
       (B) the date on which the person joined or left the unincorporated body; or
-    (ii) within 20 working days of a change in the name or contact details of the person to whom notices are to be given, give the chief executive notice of that matter; or
-    (iii) give the chief executive notice if the unincorporated body wishes to change the name under which the body is recorded as a participant on the register kept for the purposes of section 56 or 57; and
-  (b) the chief executive must, as soon as practicable after receiving the notice,—
+    (ii) within 20 working days of a change in the name or contact details of the person to whom notices are to be given, give the EPA notice of that matter; or
+    (iii) give the EPA notice if the unincorporated body wishes to change the name under which the body is recorded as a participant on the register kept for the purposes of section 56 or 57; and
+  (b) the EPA must, as soon as practicable after receiving the notice,—
     (i) amend—
-      (A) the chief executive’s records to reflect the change in membership of the unincorporated body or the change in the name or contact details of the person to whom notices are to be given; or
+      (A) the EPA's records to reflect the change in membership of the unincorporated body or the change in the name or contact details of the person to whom notices are to be given; or
       (B) the register kept under section 56 or 57, as the case may be, to record the change in the name of the unincorporated body; and
     (ii) notify the Registrar of the change in membership of the unincorporated body, the change in the name or contact details of the person to whom notices are to be given, or the change in the unincorporated body’s name; and
-    (iii) notify the unincorporated body of the amendment to the chief executive’s records or the participant register and the notification to the Registrar.
+    (iii) notify the unincorporated body of the amendment to the EPA's records or the participant register and the notification to the Registrar.
 (3) A notice given under subsection (2) must—
   (a) be in the prescribed form; and
-  (b) contain any other information the chief executive may require; and
+  (b) contain any other information the EPA may require; and
   (c) be accompanied by the prescribed fee (if any).
 (4) For the purposes of subsection (1), the following transfers must be treated as changes in the membership of an unincorporated body and not as the transfer of an interest for the purposes of section 192(1)(a):
   (a) the transfer of land from members of an unincorporated body to members of an unincorporated body if at least 60% of the members of an unincorporated body are the same following the transfer; and
@@ -2696,20 +2722,20 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (4) For the purposes of this section, insolvency process means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006.
 
 ### 160 Reviews of operation of emissions trading scheme
-(1) The Minister responsible for the administration of this Act must initiate a review of the operation and effectiveness of the emissions trading scheme established by this Act in each of the following periods:
+(1) The Minister must initiate a review of the operation and effectiveness of the emissions trading scheme established by this Act in each of the following periods:
   (a) the first commitment period and each subsequent commitment period (if any); and
   (b) if there is no subsequent commitment period,—
     (i) the 5-year period commencing on 1 January 2013; and
     (ii) each subsequent 5-year period after the period specified in subparagraph (i).
 (2) Each review initiated under subsection (1) must be completed no later than 12 months before the end of the period in which the review is initiated.
 (3) Despite anything in subsections (1) and (2),—
-  (a) the Minister responsible for the administration of this Act must ensure that a review of the matters listed in subsection (5)(j) (an allocation review) is initiated and completed at least once in each of the following periods:
+  (a) the Minister must ensure that a review of the matters listed in subsection (5)(j) (an allocation review) is initiated and completed at least once in each of the following periods:
     (i) the 5-year period commencing on 1 January 2011; and
     (ii) each subsequent 5-year period after the period specified in subparagraph (i); and
   (b) subsections (6) to (8) apply to each allocation review with all necessary modifications as if the allocation review were initiated under subsection (1); and
   (c) the person conducting each allocation review may consider any other matter, including (but not limited to) the matters listed in subsection (5); and
-  (d) if the person conducting an allocation review considers the matters specified in subsection (5) in the relevant period, that consideration satisfies the obligation of the Minister responsible for the administration of this Act under subsection (1).
-(4) For the avoidance of doubt, if a review initiated under subsection (1) results in the matters listed in subsection (5)(j) being reviewed in a period listed in subsection (3)(a), then the Minister responsible for the administration of this Act is not obliged under subsection (3) to ensure any further review of those matters is initiated in that period.
+  (d) if the person conducting an allocation review considers the matters specified in subsection (5) in the relevant period, that consideration satisfies the obligation of the Minister under subsection (1).
+(4) For the avoidance of doubt, if a review initiated under subsection (1) results in the matters listed in subsection (5)(j) being reviewed in a period listed in subsection (3)(a), then the Minister is not obliged under subsection (3) to ensure any further review of those matters is initiated in that period.
 (5) Without limiting the scope of the review, a review under subsection (1) must consider—
   (a) whether an amendment to this Act in relation to the emissions trading scheme is necessary or desirable; and
   (b) whether New Zealand has undertaken, or is expected to undertake, any international obligations with respect to its emissions and removals that are different from or additional to any international obligations that New Zealand had undertaken when this section came into force, or since the last review under this section; and
@@ -2737,18 +2763,18 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (m) the impacts of the forestry sector elements of the emissions trading scheme established under this Act on biodiversity within New Zealand; and
   (n) the costs and benefits of establishing an independent or quasi-independent government body to carry out the allocation process, or any part of the allocation process, contained in subpart 2; and
   (o) the social, economic, and environmental effects of the emissions trading scheme established by this Act (other than those considered under paragraphs (a) to (n)); and
-  (p) any other matter that the Minister responsible for the administration of this Act considers relevant.
-(6) The Minister responsible for the administration of this Act must appoint a panel to conduct any review under subsection (1) and report in accordance with the terms of reference set by the Minister on the matters set out in this section.
-(7) Following the completion of each review under subsection (1), the Minister responsible for the administration of this Act must—
+  (p) any other matter that the Minister considers relevant.
+(6) The Minister must appoint a panel to conduct any review under subsection (1) and report in accordance with the terms of reference set by the Minister on the matters set out in this section.
+(7) Following the completion of each review under subsection (1), the Minister must—
   (a) publish the report of the panel on the review; and
   (b) present a copy of the report to the House of Representatives.
-(8) If the panel recommends any change in relation to allocation to industry or agriculture that involves amending any Act or making or amending regulations under this Act, the Minister responsible for the administration of this Act must—
+(8) If the panel recommends any change in relation to allocation to industry or agriculture that involves amending any Act or making or amending regulations under this Act, the Minister must—
   (a) prepare a report that contains a response to the panel's recommendations for legislative change; and
   (b) present a copy of his or her report to the House of Representatives.
-(9) To avoid doubt, this section does not limit the ability of the Minister responsible for the administration of this Act to initiate reviews of the operation and effectiveness of the emissions trading scheme established by this Act at any time and may use any method of review (including, but not limited to, the method specified in this section).
+(9) To avoid doubt, this section does not limit the ability of the Minister to initiate reviews of the operation and effectiveness of the emissions trading scheme established by this Act at any time and may use any method of review (including, but not limited to, the method specified in this section).
 
 ### 161 Appointment and conduct of review panel
-(1) When appointing members to a review panel under section 160, the Minister responsible for the administration of this Act must—
+(1) When appointing members to a review panel under section 160, the Minister must—
   (a) ensure that there are a minimum of 3 and a maximum of 7 members; and
   (b) ensure that the majority of the members are not employees under the State Sector Act 1988; and
   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of—
@@ -2757,7 +2783,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (iii) the operation of the emissions trading scheme established under this Act, including its environmental, social, and economic effects; and
   (d) appoint 1 member as the chairperson of the panel.
 (2) The Minister must, by written notice to the panel, specify the terms of reference for the review to be conducted by the panel.
-(3) A review panel must complete a draft report on the review and provide the report to the Minister responsible for the administration of this Act at least 1 month before the date on which the review is required to be completed under section 160.
+(3) A review panel must complete a draft report on the review and provide the report to the Minister at least 1 month before the date on which the review is required to be completed under section 160.
 (4) The review panel must—
   (a) allow the Minister at least 10 working days within which to respond to and comment on the contents of the draft report; and
   (b) after considering the Minister's response and comments (if any), prepare a final report and provide it to the Minister by the date on which the review is required to be completed under section 160.
@@ -2966,10 +2992,10 @@ If an entity ceases to be a member of a consolidated group, the entity—
 ### 163 Regulations relating to methodologies and verifiers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) prescribing the data or other information that must be collected under section 62(a) in respect of an activity, and, if relevant, the mechanism or method by which the data or information must be collected; and
-  (ab) authorising, in respect of an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4, the chief executive to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
+  (ab) authorising, in respect of an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4, the EPA to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
   (b) prescribing a methodology or methodologies for calculating emissions or removals from an activity for the purposes of section 62(b); and
-  (c) prescribing the data or other information, or the calculations of emissions or removals, that must be verified by a person or organisation recognised by the chief executive under section 92; and
-  (d) authorising the chief executive to issue guidelines or standards by notice in the Gazette in relation to the data or information prescribed under paragraph (a), and providing that compliance with the guidelines or standards is to be treated as compliance with the relevant requirements in the regulations; and
+  (c) prescribing the data or other information, or the calculations of emissions or removals, that must be verified by a person or organisation recognised by the EPA under section 92; and
+  (d) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to the data or information prescribed under paragraph (a), and providing that compliance with the guidelines or standards is to be treated as compliance with the relevant requirements in the regulations; and
   (e) prescribing, for the purposes of section 92,—
     (i) the process by which a person or organisation may be recognised as being able to verify information or calculations for the purposes of section 62(a) or (c) or unique emissions factors for the purposes of regulations made under section 164; and
     (ii) the expertise, technical competence, or qualifications required for recognition as a person or organisation able to verify unique emissions factors or information relating to 1 or more types of data or information, the calculations of certain types of emissions or removals, or 1 or more activities; and
@@ -2977,9 +3003,9 @@ If an entity ceases to be a member of a consolidated group, the entity—
       (A) requirements for recognition of an organisation; and
       (B) restrictions on the employees of the organisation who may carry out the duties of the organisation in respect of the recognition; and
     (iv) the period for which a person or organisation may be recognised, and the process for the renewal of recognition; and
-    (v) conditions of recognition, which may include (but are not limited to) ongoing competency and professional standard requirements, membership of a professional body, and the provision of reports to the chief executive; and
+    (v) conditions of recognition, which may include (but are not limited to) ongoing competency and professional standard requirements, membership of a professional body, and the provision of reports to the EPA; and
     (vi) the procedure for, and circumstances in which, recognition may be suspended or revoked; and
-    (vii) fees for recognition of a person or organisation, which may vary depending on the class of persons or organisations, or the type of verification in respect of which recognition is sought.
+    (vii) fees to enable the recovery of the direct and indirect costs of the EPA in recognising a person or organisation, which may vary depending on the class of persons or organisations, or the type of verification in respect of which recognition is sought.
 (2) A regulation made under subsection (1) may apply—
   (a) generally or with respect to different classes of activity, persons, parts of New Zealand, or other things; or
   (b) in respect of the same classes of activity, persons, parts of New Zealand, or other things, in different circumstances; or
@@ -2989,14 +3015,14 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) may, without limiting subsection (1), relate to emissions or removals that—
     (i) stem directly from an activity; or
     (ii) are associated with a product or other thing that is the subject of the activity; and
-  (b) may require the use of a computer programme available via the Internet site of the department of the chief executive; and
+  (b) may require the use of a computer programme available via the Internet site of the EPA; and
   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
 (5) In making a recommendation in relation to a regulation under subsection (1)(a) or (b), the Minister must have regard to New Zealand’s international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
 (6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 164 Regulations relating to unique emissions factors
 If regulations made under section 163(1)(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) providing for a process by which a participant may apply to the chief executive for approval to use a unique emissions factor:
+  (a) providing for a process by which a participant may apply to the EPA for approval to use a unique emissions factor:
   (b) prescribing the information that must be collected to support an application for use of a unique emissions factor:
   (c) prescribing the criteria for a unique emissions factor, which may include (but are not limited to)—
     (i) the percentage by which a unique emissions factor must vary from the default emissions factor, before an application for a unique emissions factor may be made:
@@ -3017,10 +3043,10 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
 ### 167 Regulations relating to fees and charges
 (1) The Governor-General may, by Order in Council, make regulations prescribing the amount of any fees payable under this Part or Part 5 and the procedures for payment.
 (2) The Governor-General may, by Order in Council, make regulations prescribing the fees or charges payable by a person—
-  (a) who has made an application for an emissions ruling under section 107, to enable the recovery of all or part of the direct and indirect costs of the chief executive in—
+  (a) who has made an application for an emissions ruling under section 107, to enable the recovery of all or part of the direct and indirect costs of the EPA in—
     (i) receiving and processing the application; and
     (ii) considering whether to make the ruling, making the ruling, or declining to make the ruling; or
-  (b) who is a participant, or who has applied to be a participant, in respect of an activity listed in Part 1 or 2 of Schedule 4, to enable the recovery of all or part of the direct and indirect costs of the chief executive in—
+  (b) who is a participant, or who has applied to be a participant, in respect of an activity listed in Part 1 or 2 of Schedule 4, to enable the recovery of all or part of the direct and indirect costs of the EPA in—
     (i) publicising and informing people about the operation of this Part and Part 5 in relation to an activity listed in Part 1 or 2 of Schedule 4:
     (ii) administering the operation of this Part and Part 5 in relation to an activity listed in Part 1 or 2 of Schedule 4:
     (iii) enforcing and monitoring compliance with this Part or Part 5 in relation to an activity listed in Part 1 or 2 of Schedule 4:
@@ -3040,8 +3066,8 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
   (f) prescribe a formula for fixing fees and charges; and
   (g) prescribe an annual fee or charge, or classes of fees or charges, payable by participants or classes of participants; and
   (h) prescribe the time of payment of fees and charges, the means of collection of fees and charges, and the person who is responsible for paying a fee or charge; and
-  (i) authorise the chief executive to recover the full costs of services from third parties (other than services in respect of which a fee or charge is prescribed) in circumstances prescribed in the regulations; and
-  (j) authorise the chief executive to grant, in whole or in part, an exemption, waiver, or refund in relation to any fee or charge.
+  (i) authorise the EPA to recover the full costs of services from third parties (other than services in respect of which a fee or charge is prescribed) in circumstances prescribed in the regulations; and
+  (j) authorise the EPA to grant, in whole or in part, an exemption, waiver, or refund in relation to any fee or charge.
 (5) Subsection (2) is subject to sections 173(2) and 174(1) (which relate to material incorporated by reference).
 
 ### 168 Other regulations
@@ -3049,10 +3075,10 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
   (a) specifying the fuel that is obligation fuel and the jet fuel that is obligation jet fuel for the purposes of this Act; and
   (b) prescribing matters in respect of which applications for emissions rulings may be made; and
   (c)
-  (ca) prescribing a date by which an application to the chief executive must be submitted under section 183; and
+  (ca) prescribing a date by which an application to the EPA must be submitted under section 183; and
   (d) prescribing forest species that are tree weeds for the purposes of section 184; and
   (e) prescribing criteria for carbon accounting areas; and
-  (f) requiring notification by the chief executive of the status of forest land or any changes to the status of forest land under section 195; and
+  (f) requiring notification by the EPA of the status of forest land or any changes to the status of forest land under section 195; and
   (g) providing for the circumstances in which a notice of the status of forest land must be cancelled by the Registrar-General of Land, a Registrar of the Maori Land Court, or the Registrar of Deeds; and
   (h)
   (i)
@@ -3133,8 +3159,8 @@ Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires materia
 Sections 169 to 176 do not affect the application of sections 22 to 25 of the Standards Act 1988.
 
 ### 178 Recovery of fees or charges
-(1) A fee or charge that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fee or charge by the chief executive in any court of competent jurisdiction.
-(2) The chief executive may enter into any agreement or arrangement, on any terms that the chief executive thinks fit, with any person to collect, or assist in the collection of, any fees or charges that are payable.
+(1) A fee or charge that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fee or charge by the EPA in any court of competent jurisdiction.
+(2) The EPA may enter into any agreement or arrangement, on any terms that the EPA thinks fit, with any person to collect, or assist in the collection of, any fees or charges that are payable.
 
 ## Part 5 — Sector specific provisions
 
@@ -3152,17 +3178,17 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
 (2) If forest land is to be treated as deforested under subsection (1),—
   (a) the deforestation is to be treated as having been carried out 4 years, 10 years, or 20 years, after the clearing of the forest species, as the case may be; but
   (b) the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees cleared 4 years, 10 years, or 20 years earlier, as the case may be.
-(3) Nothing in this section limits the chief executive’s ability to exercise powers under section 121 in respect of the deforestation of a hectare of forest land whenever the chief executive considers that—
+(3) Nothing in this section limits the EPA's ability to exercise powers under section 121 in respect of the deforestation of a hectare of forest land whenever the EPA considers that—
   (a) the hectare has been converted to land that is not forest land; and
   (b) any obligations imposed under this Act in respect of the deforestation have not been complied with.
 
 **Pre-1990 forest land**
 
 ### 180 Participant in respect of pre-1990 forest land
-(1) If the activity listed in Part 1 of Schedule 3 is carried out, the landowner of the pre-1990 forest land is to be treated as the person carrying out the activity unless the chief executive is satisfied that—
+(1) If the activity listed in Part 1 of Schedule 3 is carried out, the landowner of the pre-1990 forest land is to be treated as the person carrying out the activity unless the EPA is satisfied that—
   (a) the right to decide to deforest the pre-1990 forest land was vested in a third party, whether before or after 1 January 2008; and
   (b) the landowner had no control over the decision.
-(2) If the chief executive is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
+(2) If the EPA is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
 (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in Part 1 of Schedule 3.
 
 ### 181 When deforestation to be treated as occurring in respect of pre-1990 forest land
@@ -3179,26 +3205,26 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
 (1) This section applies to a person who—
   (a) is a landowner of an area of pre-1990 forest land at the date of issue of the allocation plan referred to in section 72; or
   (b) was the landowner of an area of pre-1990 forest land that was converted to land that is not forest land between 1 January 2008 and the date of issue of the allocation plan referred to in section 72 at the date of the land’s conversion.
-(2) A person to whom this section applies may apply to the chief executive for the area of pre-1990 forest land to be declared exempt land if—
+(2) A person to whom this section applies may apply to the EPA for the area of pre-1990 forest land to be declared exempt land if—
   (a) the area is less than 50 hectares; and
   (b) the area was owned on 1 September 2007 by a person or persons who, along with any associated persons, owned in total less than 50 hectares of pre-1990 forest land; and
   (c) no allocation of units to a landowner has been made in respect of the area under an allocation plan under section 72.
 (3) An application under subsection (2) must—
-  (a) be submitted to the chief executive by—
+  (a) be submitted to the EPA by—
     (i) the date prescribed by regulations made under section 168(1)(ca); or
-    (ii) in the absence of a date prescribed by regulations made under section 168(1)(ca), the date specified by public notice given by the chief executive; and
+    (ii) in the absence of a date prescribed by regulations made under section 168(1)(ca), the date specified by public notice given by the EPA; and
   (b) be in the prescribed form and accompanied by the prescribed fee (if any); and
   (c) contain details of the area of pre-1990 forest land to which the application relates; and
   (d) be accompanied by evidence showing that the land is pre-1990 forest land; and
   (e) be accompanied by a statutory declaration from each person who owned the land on 1 September 2007 (other than a joint tenant who is a professional trustee) that the person, together with any associated persons of that person, owned on 1 September 2007 in total less than 50 hectares of pre-1990 forest land; and
   (f) be signed by the applicant; and
   (g) be accompanied by any other prescribed information.
-(4) If the chief executive is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the chief executive must—
+(4) If the EPA is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the EPA must—
   (a) declare the land to be exempt land; and
   (b) notify the applicant that the land has been declared exempt land.
-(5) Despite subsection (3)(a), the chief executive may, at his or her discretion, accept applications after the date specified in the public notice given under subsection (3)(a)(ii) or prescribed by regulations under section 168(1)(ca).
+(5) Despite subsection (3)(a), the EPA may, at his or her discretion, accept applications after the date specified in the public notice given under subsection (3)(a)(ii) or prescribed by regulations under section 168(1)(ca).
 (6) The following rules apply for the purposes of determining, under subsection (2)(b), whether an area of pre-1990 forest land was owned on 1 September 2007 by a person or persons who, along with any associated persons, owned in total less than 50 hectares of pre-1990 forest land:
-  (a) the chief executive must consider only pre-1990 forest land in respect of which the person or associated person was a landowner on 1 September 2007; and
+  (a) the EPA must consider only pre-1990 forest land in respect of which the person or associated person was a landowner on 1 September 2007; and
   (b) if land was owned by persons as joint tenants,—
     (i) in the case where 1 or more of the joint tenants is a professional trustee, each of the joint tenants other than the professional trustee or trustees must individually have been a landowner of less than 50 hectares of pre-1990 forest land; or
     (ii) in the case where none of the joint tenants is a professional trustee, each of the joint tenants must individually have been a landowner of less than 50 hectares of pre-1990 forest land; and
@@ -3208,17 +3234,17 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   - **professional trustee** means a trustee whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others.
 
 ### 184 Exemptions for deforestation of land with tree weeds
-(1) The chief executive may give public notice that exemptions are available in relation to the deforestation of pre-1990 forest land if—
+(1) The EPA may give public notice that exemptions are available in relation to the deforestation of pre-1990 forest land if—
   (a) a forest species growing on the land, or that was cleared from the land as part of the deforestation process on or after 1 January 2008, is or was a specified type of tree weed; and
   (b) no allocation of units to a landowner has been made in respect of the land under the pre-1990 forest land allocation plan.
 (2) A notice given under subsection (1) must include—
   (a) the types of tree weeds in respect of which exemptions may be available; and
   (b) the criteria and priorities by which exemptions will be assessed, which may include the type of tree weed, the location of forest land, or any other matter; and
-  (c) the date by which applications for exemptions under this section must be received by the chief executive; and
+  (c) the date by which applications for exemptions under this section must be received by the EPA; and
   (d) the number of whole tonnes of emissions from the deforestation of the specified types of tree weed that will be covered by exemptions granted in relation to the notice.
-(3) If a notice has been given under subsection (1), the landowner of pre-1990 forest land on which there is or was a specified type of tree weed or, in the circumstances referred to in section 180, a third party may apply to the chief executive for the land to be declared exempt land.
+(3) If a notice has been given under subsection (1), the landowner of pre-1990 forest land on which there is or was a specified type of tree weed or, in the circumstances referred to in section 180, a third party may apply to the EPA for the land to be declared exempt land.
 (4) An application for an exemption under subsection (3) must—
-  (a) be submitted to the chief executive before the date notified under subsection (2)(c); and
+  (a) be submitted to the EPA before the date notified under subsection (2)(c); and
   (b) be in the prescribed form and accompanied by the prescribed fee (if any); and
   (c) contain details of the land to which the application relates; and
   (d) be accompanied by evidence that—
@@ -3226,12 +3252,12 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
     (ii) a forest species growing on the land, or that grew on the land before it was cleared as part of the deforestation process, is or was a specified type of tree weed; and
   (e) be signed by the applicant; and
   (f) be accompanied by any other prescribed information.
-(5) The chief executive must consider every application received under subsection (4) against the criteria, and priorities in, and the number of whole tonnes of emissions that are to be covered by exemptions granted in respect of, the relevant notice given under subsection (1) and—
+(5) The EPA must consider every application received under subsection (4) against the criteria, and priorities in, and the number of whole tonnes of emissions that are to be covered by exemptions granted in respect of, the relevant notice given under subsection (1) and—
   (a) may declare the land, or any part of the land, to be exempt land, if satisfied that—
     (i) the applicant is eligible to apply for the exemption under subsection (3); and
     (ii) the land is pre-1990 forest land; and
     (iii) the criteria specified in subsection (1) are met; and
-  (b) must, if the chief executive declares any land to be exempt land, notify the applicant accordingly.
+  (b) must, if the EPA declares any land to be exempt land, notify the applicant accordingly.
 (6) The clearing of tree weeds on exempt land that has not been cleared before the land was declared exempt land must be—
   (a) commenced within 24 months of the date of notification of the exemption; and
   (b) completed by the end of—
@@ -3243,7 +3269,7 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
 (7) Any land that is declared to be exempt land under this section ceases to be exempt land if either of the conditions specified in subsection (6) is breached.
 (8) If a person is convicted of an offence under section 132 or 133 in relation to an application under this section,—
   (a) the person must be treated as a person who has failed to submit an annual emissions return in respect of an activity listed in Part 1 of Schedule 3 when required to do so under this Act; and
-  (b) the chief executive must make an assessment of the matters that should have been in the person’s annual emissions return and the number of units the person would have been liable to surrender if the land had not been exempt land; and
+  (b) the EPA must make an assessment of the matters that should have been in the person’s annual emissions return and the number of units the person would have been liable to surrender if the land had not been exempt land; and
   (c) the person is liable to surrender the number of units in the assessment under paragraph (b); and
   (d) section 123(1) to (3) and the other provisions of this Act apply as if the assessment under paragraph (b) was an assessment under section 121.
 (9) For the purposes of this section, tree weed means a tree that is defined or designated as—
@@ -3271,7 +3297,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
     (i) is the holder of the registered forestry right or the leaseholder of the registered lease; and
     (ii) has the written agreement of the landowner of the land to the forestry right holder or leaseholder, as the case may be, registering as a participant.
 (2) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in relation to exempt land that has been deforested unless the person—
-  (a) has submitted an emissions return to the chief executive that—
+  (a) has submitted an emissions return to the EPA that—
     (i) records the emissions from the deforestation of the land—
       (A) that would have been required to have been recorded in an annual emissions return under section 65, had the land not been declared to be exempt land; and
       (B) calculated in accordance with the methodology or methodologies prescribed for the deforestation activity listed in Part 1 of Schedule 3 that were applicable when the land was deforested; and
@@ -3297,37 +3323,37 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
       (A) complied with the requirements; or
       (B) verified that any other person required to comply with the requirements has done so; and
   (d) must be accompanied by any information prescribed by regulations made under this Act.
-(2) The chief executive must, for every person who is a participant in respect of an activity listed in Part 1 of Schedule 4, keep a record of—
+(2) The EPA must, for every person who is a participant in respect of an activity listed in Part 1 of Schedule 4, keep a record of—
   (a) the carbon accounting area or areas in respect of which the person is a participant; and
   (b) the unit balance of each carbon accounting area in respect of which the person is a participant, as calculated in accordance with section 190(2).
 (3) A person who is a participant in respect of an activity listed in Part 1 of Schedule 4—
-  (a) may apply to the chief executive to—
+  (a) may apply to the EPA to—
     (i) add or remove any carbon accounting area or areas to or from the post-1989 forest land in respect of which the person is recorded as a participant; or
     (ii) remove post-1989 forest land from any carbon accounting area or areas in respect of which the person is recorded as a participant; and
-  (b) must, as soon as practicable, notify the chief executive if the person ceases to carry out the activity in respect of a carbon accounting area or any land in a carbon accounting area in respect of which the person is recorded as a participant.
+  (b) must, as soon as practicable, notify the EPA if the person ceases to carry out the activity in respect of a carbon accounting area or any land in a carbon accounting area in respect of which the person is recorded as a participant.
 (4) An application or a notice under subsection (3) must be—
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fee and any prescribed information.
-(5) The chief executive may not add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant, unless satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 187.
-(6) If the chief executive—
-  (a) registers a person as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4, the chief executive must notify under section 57(6)(b),—
+(5) The EPA may not add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant, unless satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 187.
+(6) If the EPA—
+  (a) registers a person as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4, the EPA must notify under section 57(6)(b),—
     (i) if section 187(1)(a) applies, any person with a registered forestry right or registered lease in respect of the post-1989 forest land; or
     (ii) if section 187(1)(b) applies, the landowner of the post-1989 forest land; or
-  (b) receives an application to add a carbon accounting area and is satisfied as to the matters specified in subsection (5), the chief executive must—
+  (b) receives an application to add a carbon accounting area and is satisfied as to the matters specified in subsection (5), the EPA must—
     (i) notify,—
       (A) if the activity relates to owning post-1989 forest land, any person with a registered forestry right or registered lease in respect of the land in the carbon accounting area; or
       (B) if the activity relates to being the holder of a registered forestry right or registered lease, or being a party to a Crown conservation contract in respect of post-1989 forest land, the landowner of the land in the carbon accounting area; and
     (ii) update the participant's record to reflect the addition of the carbon accounting area; and
     (iii) notify the participant accordingly.
-(7) If the chief executive receives—
-  (a) an application under section 58 for the removal of a person’s name from the register as a participant in relation to an activity listed in Part 1 of Schedule 4, or is satisfied under section 59(2) that the person has ceased to carry out the activity, the chief executive must—
+(7) If the EPA receives—
+  (a) an application under section 58 for the removal of a person’s name from the register as a participant in relation to an activity listed in Part 1 of Schedule 4, or is satisfied under section 59(2) that the person has ceased to carry out the activity, the EPA must—
     (i) notify under section 58(3)(c) or 59(2)(b),—
       (A) if the landowner is the participant, the holder of any registered forestry right or registered lease in respect of the post-1989 forest land; or
       (B) if a holder of a registered forestry right or registered lease, or a party to a Crown conservation contract is the participant, the landowner of the post-1989 forest land; and
     (ii) remove the person’s name from the register—
       (A) 10 working days after the date of the notification under section 58(3)(c); or
       (B) as required under section 59(2):
-  (b) an application to remove a carbon accounting area, or remove land from a carbon accounting area in respect of which a person is recorded as a participant, or a notification that the person has ceased to carry out the activity in respect of a carbon accounting area or part of a carbon accounting area, the chief executive must—
+  (b) an application to remove a carbon accounting area, or remove land from a carbon accounting area in respect of which a person is recorded as a participant, or a notification that the person has ceased to carry out the activity in respect of a carbon accounting area or part of a carbon accounting area, the EPA must—
     (i) notify,—
       (A) if the landowner is the participant, any holder of a registered forestry right or registered lease in respect of the post-1989 forest land; or
       (B) if a holder of a registered forestry right or registered lease, or a party to a Crown conservation contract is the participant, the landowner of the post-1989 forest land; and
@@ -3403,7 +3429,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (a) entitled to fewer units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net units that have been transferred in respect of returns under subsection (3), the person is liable to repay the number of units transferred in excess of the entitlement in the return under subsection (4); or
   (b) entitled to receive more units for removals from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units that have been transferred in respect of returns under subsection (3), the person is entitled to receive the number of units that is the difference between the entitlement in respect of the return under subsection (4) and the net number of units already transferred in respect of returns under subsection (3); or
   (c) liable to surrender more units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the person is liable to surrender the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4); or
-  (d) liable to surrender fewer units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the chief executive must arrange for reimbursement to the person, in accordance with section 124, of the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4).
+  (d) liable to surrender fewer units for emissions from the carbon accounting area in respect of the return submitted under subsection (4) than the net number of units already surrendered in respect of returns under subsection (3), the EPA must arrange for reimbursement to the person, in accordance with section 124, of the number of units that is the difference between the net number surrendered and the number assessed as being required to be surrendered under the return under subsection (4).
 (7A) Subsections (6) and (7) apply to a return submitted under subsection (4A) as if it were a return submitted under subsection (4).
 (8) A person who submits an emissions return under this section—
   (a) may include in the return an assessment of the person’s net liability to surrender or repay units, or the person’s net entitlement to New Zealand units, calculated by determining the difference between the total number of units required to be surrendered for emissions from each of the carbon accounting areas covered by the return (or, if relevant, required to be repaid in respect of the carbon accounting areas covered by the return) and the total number of New Zealand units to which the person is entitled in respect of removals from each of the carbon accounting areas covered by the return (or, if relevant, is entitled to be reimbursed in respect of carbon accounting areas covered by the return); and
@@ -3411,7 +3437,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (c) must, if the person makes an election under paragraph (b), indicate clearly in the return that such an election has been made; and
   (d) must, if an assessment in the emissions return shows a liability or a net liability to—
     (i) surrender units, surrender those units within 20 working days of submitting the emissions return; or
-    (ii) repay units, repay those units, by transferring the number of units required to be transferred, within 60 working days of submitting the emissions return, to a Crown holding account designated by the chief executive, and the provisions of sections 134 and 135 apply, with any necessary modifications, as if—
+    (ii) repay units, repay those units, by transferring the number of units required to be transferred, within 60 working days of submitting the emissions return, to a Crown holding account designated by the EPA, and the provisions of sections 134 and 135 apply, with any necessary modifications, as if—
       (A) the units the person is required to repay were units transferred to the person in error; and
       (B) the requirement to repay the units arose under section 125.
 (9) In this section,—
@@ -3454,7 +3480,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
 
 ### 191 Ceasing to be registered as participant in respect of post-1989 forest land
 (1) Subject to section 193, a person who is or was a participant in respect of an activity listed in Part 1 of Schedule 4—
-  (a) must submit an emissions return to the chief executive within 20 working days of—
+  (a) must submit an emissions return to the EPA within 20 working days of—
     (i) being removed from the register in respect of that activity; or
     (ii) removing a carbon accounting area or ceasing to be a participant in respect of a carbon accounting area in respect of which the person is recorded as a participant under section 188; or
     (iii) removing land from a carbon accounting area or ceasing to carry out the activity in respect of part of a carbon accounting area in respect of which the person is recorded as a participant under section 188; and
@@ -3517,7 +3543,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
     (iii) in the circumstances described in subsection (1)(c), the date that the registered forestry right over post-1989 forest land, registered lease of post-1989 forest land, or Crown conservation contract expires or is terminated.
 (3) If this section applies, then,—
   (a) within 20 working days of the date of transmission of the transmitted interest,—
-    (i) the transferor and transferee must notify the chief executive of the transmission; and
+    (i) the transferor and transferee must notify the EPA of the transmission; and
     (ii) the transferor must submit an emissions return as required by section 193 in relation to any affected carbon accounting areas; and
   (b) from the date of transmission,—
     (i) the transferor ceases to be a participant under this Act in relation to the post-1989 forest land to which the transmitted interest relates and the transferee becomes a participant in respect of the activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1) in relation to the post-1989 forest land to which the transmitted interest relates; and
@@ -3530,19 +3556,19 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fees or charges and any prescribed information; and
   (c) signed by both the transferor and the transferee.
-(6) Following receipt of a notice complying with subsection (5) and the emissions return required under section 193, the chief executive must take such of the following actions as are relevant:
+(6) Following receipt of a notice complying with subsection (5) and the emissions return required under section 193, the EPA must take such of the following actions as are relevant:
   (a) if the transferee is not already registered under section 57, enter the transferee's name on the register kept under section 57 as a participant in respect of an activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1):
   (b) if the transferee is already registered under section 57, but not in respect of the activity listed in Part 1 of Schedule 4 that is referred to in the fourth column of the table in subsection (1), amend that registration to show that the transferee is now a participant in respect of that activity:
   (c) if the transferor is registered under section 57 only in respect of carrying out the activity listed in Part 1 of Schedule 4 in respect of post-1989 forest land to which the transmitted interest relates, remove the transferor's name from the register in respect of that activity:
-  (d) update the chief executive’s records under section 188(2) by—
+  (d) update the EPA's records under section 188(2) by—
     (i) removing the affected carbon accounting areas from the transferor’s record (if the transferor remains a participant only in respect of an activity listed in Part 1 of Schedule 4); and
     (ii) recording any new carbon accounting areas constituted by operation of subsection (3)(b)(ii) or (iii) on the transferor's or transferee’s record; and
     (iii) recording the opening unit balance of any carbon accounting area referred to in subparagraph (ii), calculated in accordance with section 190(3)(a) or (c):
-  (e) as applicable, give notice to the transferor and transferee of the action taken by the chief executive under paragraphs (a) to (d).
+  (e) as applicable, give notice to the transferor and transferee of the action taken by the EPA under paragraphs (a) to (d).
 (7) To avoid doubt,—
   (a) for the purposes of section 54(4), a transferor continues to be liable in respect of any obligations that arose in relation to the carbon accounting area or part of the carbon accounting area while the transferor was a participant in respect of the post-1989 forest land to which the transmitted interest relates (for example, in respect of the submitting of returns and surrendering of units required under section 189); and
-  (b) a transferor is not required to notify the chief executive separately under section 59 if the result of the transfer is that the transferor is ceasing to carry out the activity; and
-  (c) the chief executive is not required to notify any person under section 188(6)(a) of the registration of the transferee under section 57 if that registration is in accordance with this section.
+  (b) a transferor is not required to notify the EPA separately under section 59 if the result of the transfer is that the transferor is ceasing to carry out the activity; and
+  (c) the EPA is not required to notify any person under section 188(6)(a) of the registration of the transferee under section 57 if that registration is in accordance with this section.
 
 ### 193 Emissions returns in relation to transmitted interests
 (1) If section 192 applies, the transferor is not required to submit an emissions return under section 191 in respect of any post-1989 forest land to which the transmitted interest relates, but must submit an emissions return under this section by the date specified in section 192(3)(a) or 192(4)(b), as applicable.
@@ -3561,7 +3587,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (b) section 189(8) applies to the person as if the reference in that provision to this section was a reference to section 193.
 
 ### 194 Information about status of forest land
-(1) Despite anything in this Act, the chief executive must, on receipt of a written request for information about the carbon accounting area or areas to which it relates, provide a statement containing the information in subsection (2) to—
+(1) Despite anything in this Act, the EPA must, on receipt of a written request for information about the carbon accounting area or areas to which it relates, provide a statement containing the information in subsection (2) to—
   (a) the landowner of any post-1989 forest land in respect of which the holder of a registered forestry right or registered lease or party to a Crown conservation contract is a participant; or
   (b) a prospective transferee, holder of a registered forestry right or registered lease, or party to a Crown conservation contract who has the written consent of the participant in respect of any post-1989 forest land.
 (2) A statement under subsection (1) must set out—
@@ -3573,7 +3599,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
 **Post-1989 forest land and pre-1990 forest land**
 
 ### 195 Notification of status of forest land
-(1) The chief executive must, if required by regulations made under section 168, notify the following persons of the details of the land that the chief executive is satisfied is pre-1990 forest land, post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the chief executive has declared to be exempt land:
+(1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is pre-1990 forest land, post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the EPA has declared to be exempt land:
   (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
   (b) the Registrar-General of Land in relation to land registered or provisionally registered under the Land Transfer Act 1952; and
   (c) the Registrar of Deeds in relation to land that is registered under the Deeds Registration Act 1908.
@@ -3590,9 +3616,9 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
 (2A) A participant referred to in subsection (1) must, by 31 May 2011 but not before 1 January 2011, surrender the number of units listed in the participant’s assessment in the emissions return submitted under subsection (1)(b) in relation to the activity.
 (3) For all other purposes of this Act, the emissions return submitted under subsection (1)(b) is to be treated as an annual emissions return required to be submitted under section 65.
 (4) Despite anything in this Act, a participant who carries out an activity listed in Part 1 of Schedule 3 may not submit an emissions return before 1 January 2010.
-(5) Despite anything in section 56, if an activity listed in Part 1 of Schedule 3 is carried out in 2008 or 2009, the person who carried out the activity has until 31 January 2010 to give notice to the chief executive under section 56(1).
+(5) Despite anything in section 56, if an activity listed in Part 1 of Schedule 3 is carried out in 2008 or 2009, the person who carried out the activity has until 31 January 2010 to give notice to the EPA under section 56(1).
 (6) To avoid doubt, a person who carried out an activity listed in Part 1 of Schedule 3 on or after 1 January 2008, but before this section came into force, must register as a participant under section 56(1) in accordance with subsection (5).
-(7) Despite section 129(1)(b)(i), a person who carried out, before the commencement of this subsection, an activity listed in Part 1 of Schedule 3 for the period commencing with 1 January 2008 and ending with the close of 31 December 2009 is not liable under section 129(1)(b)(i) if the person notifies the chief executive of that activity on or before 31 January 2010.
+(7) Despite section 129(1)(b)(i), a person who carried out, before the commencement of this subsection, an activity listed in Part 1 of Schedule 3 for the period commencing with 1 January 2008 and ending with the close of 31 December 2009 is not liable under section 129(1)(b)(i) if the person notifies the EPA of that activity on or before 31 January 2010.
 
 ### 196A Power to withdraw or suspend certain draft allocation plans
 [Repealed]
@@ -3603,23 +3629,23 @@ Despite anything in this Act, the first emissions return submitted by a person t
 ### Subpart 2 — Liquid fossil fuels sector
 
 ### 198 Registration as participant by purchasers of jet fuel
-(1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 3 of Schedule 4 may be submitted to the chief executive at any time.
-(2) If the chief executive registers a person as a participant under section 57 in respect of an activity listed in Part 3 of Schedule 4,—
-  (a) the chief executive must notify, under section 57(6)(b), every person who is registered under section 56 in respect of an activity in Part 2 of Schedule 3; and
+(1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 3 of Schedule 4 may be submitted to the EPA at any time.
+(2) If the EPA registers a person as a participant under section 57 in respect of an activity listed in Part 3 of Schedule 4,—
+  (a) the EPA must notify, under section 57(6)(b), every person who is registered under section 56 in respect of an activity in Part 2 of Schedule 3; and
   (b) the registration takes effect 12 months from the date of the notice issued under section 57(6).
-(3) If the chief executive has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 3 of Schedule 4, the chief executive must—
+(3) If the EPA has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 3 of Schedule 4, the EPA must—
   (a) notify, under section 58(3)(c), every person who is registered under section 56 in respect of an activity listed in Part 2 of Schedule 3; and
   (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the notice issued under section 58(3)(b) and (c).
 
-### 199 Historical information sufficient to satisfy chief executive
+### 199 Historical information sufficient to satisfy EPA
 (1) A person who carries out an activity listed in Part 3 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of obligation jet fuel purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
-(2) If the chief executive receives an application under section 57 that includes the information specified in subsection (1), the chief executive may, for the purposes of section 57(4), satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 3 of Schedule 4 on the basis of that information.
-(3) Nothing in this section prevents the chief executive from requiring a person specified in subsection (1) to provide any further information that the chief executive requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in Part 3 of Schedule 4.
+(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 3 of Schedule 4 on the basis of that information.
+(3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in Part 3 of Schedule 4.
 
 ### 200 Effect of purchasing less than the threshold level of obligation jet fuel
 If a person is a participant in respect of the activity listed in Part 3 of Schedule 4, and in any year the volume of obligation jet fuel that the person purchases is less than, or the person knows that the volume purchased will be less than, the threshold specified in Part 3 of Schedule 4—
-  (a) the person is not required to notify the chief executive under section 59(1) that the person has ceased, or will cease, to carry out the activity; and
-  (b) the chief executive must not, under section 59(2), treat the person as having ceased to carry out the activity; and
+  (a) the person is not required to notify the EPA under section 59(1) that the person has ceased, or will cease, to carry out the activity; and
+  (b) the EPA must not, under section 59(2), treat the person as having ceased to carry out the activity; and
   (c) the person remains a participant in respect of the activity until the person’s name is removed, in accordance with this Act, from the register that is kept for the purposes of section 57.
 
 ### 201 Effect of registration by purchasers of jet fuel
@@ -3694,34 +3720,34 @@ A participant who carries out the activity of mining coal, where the volume of c
 (2) In subsection (1), subsidiary and holding company have the same meaning as in section 5 of the Companies Act 1993.
 
 ### 209 Registration as participant by purchasers of coal or natural gas
-(1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 4 of Schedule 4 may be submitted to the chief executive at any time.
-(2) If the chief executive registers a person as a participant under section 57 in respect of an activity listed in Part 4 of Schedule 4,—
-  (a) the chief executive must notify, under section 57(6)(b), every person who—
+(1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 4 of Schedule 4 may be submitted to the EPA at any time.
+(2) If the EPA registers a person as a participant under section 57 in respect of an activity listed in Part 4 of Schedule 4,—
+  (a) the EPA must notify, under section 57(6)(b), every person who—
     (i) mines—
       (A) coal, if the activity specified in the application is purchasing coal; or
       (B) natural gas, if the activity specified in the application is purchasing natural gas; and
     (ii) is registered under section 56; and
   (b) the registration takes effect 12 months from the date of the notice issued under section 57(6).
-(3) If the chief executive has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 4 of Schedule 4, the chief executive must—
+(3) If the EPA has received an application under section 58 for removal of a person’s name from the register as a participant in respect of an activity listed in Part 4 of Schedule 4, the EPA must—
   (a) notify, under section 58(3)(c), every person who—
     (i) mines—
       (A) coal, if the activity specified in the application is purchasing coal; or
       (B) natural gas, if the activity specified in the application is purchasing natural gas; and
     (ii) is registered under section 56; and
   (b) remove, under section 58(4), the applicant’s name from the register on the date that is 48 months after the date of the notice issued under section 58(3)(b) and (c).
-(4) Despite anything in subsection (2)(b), if the chief executive receives an application submitted under subsection (1) by 31 January 2009, registration of the applicant as a participant may take effect from 1 January 2010 if—
+(4) Despite anything in subsection (2)(b), if the EPA receives an application submitted under subsection (1) by 31 January 2009, registration of the applicant as a participant may take effect from 1 January 2010 if—
   (a) the applicant requests in the application that registration take effect from 1 January 2010; and
-  (b) the chief executive has provided notification under section 57(6) by 31 March 2009 (which notice must specify 1 January 2010 as the date from which registration takes effect).
+  (b) the EPA has provided notification under section 57(6) by 31 March 2009 (which notice must specify 1 January 2010 as the date from which registration takes effect).
 
-### 210 Historical information sufficient to satisfy chief executive
+### 210 Historical information sufficient to satisfy EPA
 (1) A person who carries out an activity listed in Part 4 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of coal or natural gas, as the case may be, purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
-(2) If the chief executive receives an application under section 57 that includes the information specified in subsection (1), the chief executive may, for the purposes of section 57(4), satisfy himself or herself that the person is (or will, when the person’s registration takes effect, be) carrying out an activity listed in Part 4 of Schedule 4 that is specified in the application on the basis of that information.
-(3) Nothing in this section prevents the chief executive from requiring a person specified in subsection (1) to provide any further information that the chief executive requires to satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 4 of Schedule 4 that is specified in the application.
+(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy himself or herself that the person is (or will, when the person’s registration takes effect, be) carrying out an activity listed in Part 4 of Schedule 4 that is specified in the application on the basis of that information.
+(3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 4 of Schedule 4 that is specified in the application.
 
 ### 211 Effect of purchasing less than threshold level of coal or natural gas
 If a person is a participant in respect of an activity listed in Part 4 of Schedule 4, and in any year the volume of coal or natural gas that the person purchases is less than, or the person knows that the volume purchased will be less than, the thresholds specified in Part 4 of Schedule 4,—
-  (a) the person is not required to notify the chief executive under section 59(1) that the person has ceased, or will cease, to carry out the activity; and
-  (b) the chief executive must not, under section 59(2), treat the person as having ceased to carry out the activity; and
+  (a) the person is not required to notify the EPA under section 59(1) that the person has ceased, or will cease, to carry out the activity; and
+  (b) the EPA must not, under section 59(2), treat the person as having ceased to carry out the activity; and
   (c) the person remains a participant in respect of the activity until the person’s name is removed, in accordance with this Act, from the register that is kept for the purposes of section 57.
 
 ### 212 Effect of registration by purchasers of coal or natural gas
@@ -3730,12 +3756,12 @@ A participant who mines coal or mines natural gas is not required to surrender u
 ### Subpart 4 — Agriculture
 
 ### 213 Participant in respect of subpart 4 of Part 5 of Schedule 3
-(1) If an activity listed in subpart 4 of Part 5 of Schedule 3 is carried out, the landowner of the land on which it is carried out is to be treated as the person carrying out the activity unless the chief executive is satisfied that there is a written agreement in place between the landowner and a third party that—
+(1) If an activity listed in subpart 4 of Part 5 of Schedule 3 is carried out, the landowner of the land on which it is carried out is to be treated as the person carrying out the activity unless the EPA is satisfied that there is a written agreement in place between the landowner and a third party that—
   (a) allows access by the third party to the land on which the activity listed in subpart 4 of Part 5 of Schedule 3 is being carried out and the third party is carrying out the activity listed in subpart 4 of Part 5 of Schedule 3 on the land; and
   (b) was entered into—
     (i) on or after the date appointed in the Order in Council under section 2A(9) that applies the activity listed in subpart 4 of Part 5 of Schedule 3 to the person carrying out the activity, and is for a term of at least 3 years; or
     (ii) before the date appointed in the Order in Council under section 2A(9) that applies the activity listed in subpart 4 of Part 5 of Schedule 3 to the person carrying out the activity, and had at least 3 years until expiry at the date appointed in the Order in Council.
-(2) If the chief executive is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
+(2) If the EPA is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
 (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances specified in subsection (2), a third party, is to be treated as carrying out an activity listed in subpart 4 of Part 5 of Schedule 3.
 
 ### 214 Units not required to be surrendered for fertilisers embedded in products
@@ -3762,7 +3788,7 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
   (a) a participant to whom subsection (1)(a) applies is not liable under section 129(1)(a) for a failure to comply with section 62 in relation to the period before—
     (i) section 62 comes into force; and
     (ii) any regulations setting out the data or other prescribed information to be collected in relation to an activity listed in Part 1 of Schedule 3 come into force:
-  (b) if the emissions return of a participant to whom subsection (1) applies is amended by the chief executive under section 120, the participant—
+  (b) if the emissions return of a participant to whom subsection (1) applies is amended by the EPA under section 120, the participant—
     (i) is liable to surrender any units or additional units required to be surrendered under section 123(3); but
     (ii) is not liable to pay an excess emissions penalty under section 134(2)(b)(ii) in relation to those units:
   (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134 or 136.
@@ -3779,13 +3805,13 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
     (ii) subpart 3 of Part 2 of Schedule 4 in the period 1 January 2011 to 31 December 2011.
     (iii)
 (2) Despite anything in this Act, a person to whom this section applies—
-  (a) may (but is not required to), if the person carries out an activity in subsection (1)(a)(i) to (iii) during the relevant period, notify the chief executive under section 56 that the person is a participant in respect of the activity:
-  (ab) must, if the person carries out an activity specified in subsection (1)(a)(iv) during the relevant period, notify the chief executive under section 56 that the person is a participant in respect of the activity:
-  (b) may (but is not required to), if the person has notified the chief executive that the person carries out an activity in subsection (1)(a), or is a person to whom subsection (1)(b) applies, submit an annual emissions return under section 65 or an emissions return under section 66 or 118 in respect of the activity and the period in subsection (1):
+  (a) may (but is not required to), if the person carries out an activity in subsection (1)(a)(i) to (iii) during the relevant period, notify the EPA under section 56 that the person is a participant in respect of the activity:
+  (ab) must, if the person carries out an activity specified in subsection (1)(a)(iv) during the relevant period, notify the EPA under section 56 that the person is a participant in respect of the activity:
+  (b) may (but is not required to), if the person has notified the EPA that the person carries out an activity in subsection (1)(a), or is a person to whom subsection (1)(b) applies, submit an annual emissions return under section 65 or an emissions return under section 66 or 118 in respect of the activity and the period in subsection (1):
   (c) may not surrender units in relation to any emissions, and is not entitled to New Zealand units in relation to any removals, in respect of the relevant activity and period in subsection (1):
   (d) is not required to comply, except as provided in paragraph (ab), with any of the obligations of a participant under this Act in respect of the relevant activity and period in subsection (1):
   (e) is not liable under the offence provisions in sections 129 to 133 for any acts or omissions in relation to the relevant activity and period in subsection (1).
-(3) The chief executive must not include information obtained from an emissions return submitted in accordance with subsection (2)(b) in the information published under section 89.
+(3) The EPA must not include information obtained from an emissions return submitted in accordance with subsection (2)(b) in the information published under section 89.
 
 ### 219 Transitional provision for mandatory reporting by certain participants
 (1) This section applies to—
@@ -3844,18 +3870,18 @@ Section 30H(1) and (3) do not apply to any regulations that—
     (i) under section 65(4), 118(5), 189(8), or 193 for emissions from an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4 in respect of any part of the period 1 January 2008 to 31 December 2012; or
     (ii) under section 65(4) or 118(5) for emissions from any other activity in respect of any part of the period 1 July 2010 to 31 December 2012; or
     (iii) under section 187 or 191 during the period 1 January 2008 to 31 January 2013; or
-  (b) the chief executive is required under section 123(4) or 189(7)(d) to arrange for the reimbursement of units because a person has surrendered too many units—
+  (b) the EPA is required under section 123(4) or 189(7)(d) to arrange for the reimbursement of units because a person has surrendered too many units—
     (i) for emissions from an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4 in respect of any part of the period 1 January 2008 to 31 December 2012; or
     (ii) for emissions from any other activity in respect of any part of the period 1 July 2010 to 31 December 2012; or
     (iii) under section 187 or 191 during the period 1 January 2008 to 31 January 2013.
 (2) Despite anything in this Act, if this section applies, a person may satisfy the person's obligation to surrender, repay, or reimburse units by,—
-  (a) in the case of a person other than the chief executive,—
+  (a) in the case of a person other than the EPA,—
     (i) surrendering or repaying the units in accordance with section 65(4), 118(5), 187, 189(8), 191, or 193 as applicable; or
     (ii) paying a sum of $25 for each unit that the person is liable to surrender or repay, into a Crown bank account, by the date or within the period by which the units are required to be surrendered or repaid; or
     (iii) a combination of—
       (A) surrendering or repaying units in accordance with section 65(4), 118(5), 187, 189(8), 191, or 193 as applicable; and
       (B) paying a sum of $25 for each unit that the person is liable to surrender or repay, but has not surrendered or repaid or will not surrender or repay in accordance with subsubparagraph (A), into a Crown bank account by the date or within the period by which the units are required to be surrendered or repaid; or
-  (b) in the case of the chief executive,—
+  (b) in the case of the EPA,—
     (i) reimbursing a person with units in accordance with the procedure specified in section 124; or
     (ii) paying a sum of $25 for each unit into a bank account designated by the person; or
     (iii) a combination of—
@@ -3868,10 +3894,10 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (1) If, in accordance with section 222C(2)(a)(ii) or (iii)(B), a person pays a sum of $25 instead of surrendering a unit that the person is liable to surrender, the Registrar must, when the funds are cleared,—
   (a) issue a number of New Zealand units into a Crown holding account equal to the number of units in respect of which the person has paid a sum of $25; and
   (b) transfer the New Zealand units into the person’s holding account held for the purpose of section 61(1); and
-  (c) immediately following the transfer under paragraph (b), transfer the New Zealand units to a surrender account designated by the chief executive.
+  (c) immediately following the transfer under paragraph (b), transfer the New Zealand units to a surrender account designated by the EPA.
 (2) The Registrar may, for the purposes of subsection (1)(a), issue a number of New Zealand units equal to the number of units in respect of which 1 or more persons have paid a sum of $25 under section 222C(2)(a)(ii) or (iii)(B).
-(3) If the chief executive is required to reimburse a person units under section 123(4) or 189(7)(d) and has satisfied his or her obligation to do so by paying to the person a sum of $25 for the units in accordance with section 222C(2)(b)(ii) or (iii)(B), then the Registrar must—
-  (a) transfer from the appropriate surrender account to the person’s holding account held for the purpose of section 61(1) a number of New Zealand units equal to the number of units for which the chief executive paid the person a sum of $25; and
+(3) If the EPA is required to reimburse a person units under section 123(4) or 189(7)(d) and has satisfied his or her obligation to do so by paying to the person a sum of $25 for the units in accordance with section 222C(2)(b)(ii) or (iii)(B), then the Registrar must—
+  (a) transfer from the appropriate surrender account to the person’s holding account held for the purpose of section 61(1) a number of New Zealand units equal to the number of units for which the EPA paid the person a sum of $25; and
   (b) immediately following the transfer under paragraph (a), transfer the New Zealand units from the person's holding account to a cancellation account.
 (4) For the avoidance of doubt, section 68 does not apply in respect of any New Zealand units issued under this section.
 (5) If subsection (1) applies, this Act applies with any necessary modification as if the payment of $25 for a unit by a person and the transfer of a unit to a surrender account by the Registrar under this section were a surrender of a unit by the person.
@@ -3882,9 +3908,9 @@ Section 30H(1) and (3) do not apply to any regulations that—
   (a) the total quantity of New Zealand units issued during the relevant year; and
   (b) the total quantity of New Zealand units issued under section 68 in that year; and
   (c) the total quantity of New Zealand units issued under section 222D in that year.
-(2) In the period from the date this section comes into force until 30 June 2013, the chief executive must publish, in accordance with section 89(2),—
+(2) In the period from the date this section comes into force until 30 June 2013, the EPA must publish, in accordance with section 89(2),—
   (a) the total sum of money paid to a Crown bank account in accordance with section 222C(2)(a)(ii) or (iii)(B); and
-  (b) the total sum of money paid by the chief executive in accordance with section 222C(2)(b)(ii) or (iii)(B).
+  (b) the total sum of money paid by the EPA in accordance with section 222C(2)(b)(ii) or (iii)(B).
 
 ### 222F Transitional provision for allocation to industry
 (1) Despite anything in this Act,—
@@ -3918,19 +3944,19 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (1) This section applies to 3 or more joint owners of land, leaseholders, forestry right holders, or parties to a Crown conservation contract who registered together as a participant (joint participants) in accordance with section 157 before the commencement of this section.
 (2) If this section applies, then—
   (a) the joint participants are, on and after the commencement of this section, to be treated as members of an unincorporated body that is a participant, but the unincorporated body is not required to—
-    (i) notify the chief executive that it is a participant as specified in section 157(2)(c)(ii)(A); or
+    (i) notify the EPA that it is a participant as specified in section 157(2)(c)(ii)(A); or
     (ii) apply to be registered as a participant as specified in section 157(2)(c)(ii)(B); and
-  (b) the chief executive must notify the joint participants that they are—
+  (b) the EPA must notify the joint participants that they are—
     (i) now members of an unincorporated body for the purposes of this Act:
-    (ii) required to provide the details specified in section 157(2)(c)(ii)(C) and (2)(d) to the chief executive within 20 working days of receiving the notice, unless the chief executive has these details; and
-  (c) the chief executive must, after receiving the information specified in paragraph (b)(ii), update any records relating to the joint participants, including (but not limited to) by removing the names of the joint participants from any register kept under this Act and substituting the name of the unincorporated body.
+    (ii) required to provide the details specified in section 157(2)(c)(ii)(C) and (2)(d) to the EPA within 20 working days of receiving the notice, unless the EPA has these details; and
+  (c) the EPA must, after receiving the information specified in paragraph (b)(ii), update any records relating to the joint participants, including (but not limited to) by removing the names of the joint participants from any register kept under this Act and substituting the name of the unincorporated body.
 (3) Failure to provide the information specified in section 157(2)(d)(i) in response to a notice given under subsection (2)(b) must be treated as an offence under section 131(1)(a) and that section applies as if the reference to section 94 in that section were a reference to this section.
-(4) If the joint participants fail to provide the information specified in a notice given under subsection (2)(b) within the specified period, the chief executive may, as applicable,—
+(4) If the joint participants fail to provide the information specified in a notice given under subsection (2)(b) within the specified period, the EPA may, as applicable,—
   (a) choose a name for the unincorporated body and update any records relating to the joint participants as specified in subsection (2)(c); and
   (b) nominate 1 of the members of the unincorporated body as the person to whom notices are to be given.
-(5) If the chief executive updates any records relating to joint participants in accordance with subsection (2)(c) or (4), the chief executive must notify the person authorised or nominated to receive notices on behalf of the unincorporated body accordingly.
+(5) If the EPA updates any records relating to joint participants in accordance with subsection (2)(c) or (4), the EPA must notify the person authorised or nominated to receive notices on behalf of the unincorporated body accordingly.
 (6) Despite subsection (2),—
-  (a) until the chief executive updates any records in relation to any joint participants, the joint participants together remain registered as a participant, and are jointly and severally liable for all obligations, and jointly and severally entitled to all benefits, arising from their status as a participant; and
+  (a) until the EPA updates any records in relation to any joint participants, the joint participants together remain registered as a participant, and are jointly and severally liable for all obligations, and jointly and severally entitled to all benefits, arising from their status as a participant; and
   (b) the joint participants whose names have been removed from a register and the unincorporated body whose name has been substituted on that register are to be treated for the purposes of this Act as the same participant.
 
 ## Part 6 — Other matters
@@ -3939,19 +3965,19 @@ Section 30H(1) and (3) do not apply to any regulations that—
 [Repealed]
 
 ### 224 Gazetting of targets
-(1) The Minister responsible for the administration of this Act must set a target.
+(1) The Minister must set a target.
 (2) The Minister responsible for the administration of the Act may set a target, or amend or revoke an existing target, at any time.
 (2A) Before the Minister sets, amends, or revokes a target, the Minister must consult, or be satisfied that the chief executive has consulted, persons (or their representatives) that appear to the Minister or the chief executive likely to have an interest in the target.
 (3) As soon as practicable after setting, amending, or revoking a target under this section, the Minister must—
   (a) publicly notify the target or revocation of the target in the Gazette; and
-  (b) make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive responsible for the administration of this Act.
+  (b) make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive.
 (4) To avoid doubt, the Gazette notice in subsection (1) may not be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publications Act 1989.
 (5) To avoid doubt, any number of targets may be set using the process under this section.
 
 ### 225 Regulations relating to targets
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister responsible for the administration of this Act, make regulations setting a target.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting a target.
 (2) Before recommending the making of an Order in Council under subsection (1), the Minister must consult, or be satisfied that the chief executive has consulted, persons (or their representatives) that appear to the Minister or the chief executive likely to have an interest in the order.
-(3) The Minister responsible for the administration of this Act—
+(3) The Minister—
   (a) must review the target following publication of any Intergovernmental Panel on Climate Change Assessment Report or report of a successor agency; and
   (b) may at any time recommend to the Governor-General the setting of a target, or amendment or revocation of a target, having regard to the following matters:
     (i) any Intergovernmental Panel on Climate Change Assessment Report or report of a successor agency:
