@@ -1,5 +1,5 @@
 # Climate Change Response Amendment Act 2011
-_Consolidation as at 2011-05-17_
+_Consolidation as at 2011-12-05_
 
 ### 1 Title
 This Act is the Climate Change Response Amendment Act 2011.
