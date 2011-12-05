@@ -1,5 +1,5 @@
 # Climate Change Response (Emissions Trading) Amendment Act 2008
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2011-12-05_
 
 ### 1 Title
 This Act is the Climate Change Response (Emissions Trading) Amendment Act 2008.
@@ -1999,14 +1999,14 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
   (3) A landowner to whom this subsection applies is to be treated as carrying out an activity listed in Part 1 of Schedule 3 on the date of the first action on the hectare of pre-1990 forest land following—
     (a) the date of transfer of the land that is inconsistent with the hectare remaining forest land; or
     (b) the date of the expiry or termination of the forestry right, Crown forestry licence, lease, or other agreement relating to the land that is inconsistent with the hectare remaining forest land.
-  (1) A landowner of pre-1990 forest land (or, in the circumstances specified in section 180, a third party) who intends to carry out the activity in Part 1 of Schedule 3 may apply to the chief executive to offset the pre-1990 forest land proposed to be deforested with other forest land.
-  (2) The chief executive—
+  (1) A landowner of pre-1990 forest land (or, in the circumstances specified in section 180, a third party) who intends to carry out the activity in Part 1 of Schedule 3 may apply to the EPA to offset the pre-1990 forest land proposed to be deforested with other forest land.
+  (2) The EPA—
     (a) must approve the offsetting of the pre-1990 forest land by other forest land (the offsetting forest land) if satisfied that—
       (i) the area of proposed offsetting forest land meets the prescribed criteria; and
       (ii) any other conditions in regulations under section 165 are met; and
     (b) may impose any prescribed conditions on the approval.
   (3) Despite anything in this Act,—
-    (a) if the chief executive approves the offsetting of pre-1990 forest land, subject to complying with any conditions of the approval,—
+    (a) if the EPA approves the offsetting of pre-1990 forest land, subject to complying with any conditions of the approval,—
       (i) the pre-1990 forest land ceases to be pre-1990 forest land; and
       (ii) the applicant does not become a participant in respect of the deforestation of the pre-1990 forest land; and
     (b) no person is liable to comply with section 62, submit an emissions return, or surrender units in relation to the deforestation of the pre-1990 forest land unless—
