@@ -1,5 +1,5 @@
 # Land Transport Management Amendment Act 2008
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-01-01_
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
@@ -1746,13 +1746,7 @@ Except as otherwise expressly provided in this Act, nothing in this Act affects 
 If a matter or thing is continued with a specified effect by this Act, the matter or thing continues to have that effect until revoked or replaced under the relevant empowering enactment.
 
 ### 43 Transitional regulations
-(1) The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in this Act:
-  (b) providing that, subject to such conditions as may be specified in the regulations, during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions) do not apply:
-    (ii) specified terms have the meaning given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
-(2) This clause expires on 1 January 2012.
+[Repealed]
 
 ## Schedule 3 — Amendments to other enactments
 
