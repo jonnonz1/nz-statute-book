@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2012-01-01_
 
 > An Act to reform the administration of education
 
@@ -4479,9 +4479,7 @@ The object of the provisions of this Act relating to institutions is to give the
   (b) the chief executive of the institution:
   (c) at least 1, but not more than 3, permanent members of the academic staff of the institution elected by the permanent members of that staff:
   (d) at least 1, but not more than 3, permanent members of the general staff of the institution elected by the permanent members of that staff:
-  (e) at least 1, but not more than 3, persons who must be appointed,—
-    (i) in the case of an institution at which membership of a students association is compulsory, in accordance with the constitution or rules of the association; or
-    (ii) in any other case, following an election (conducted in accordance with statutes made by the council) by the students at the institution:
+  (e) at least 1, but not more than 3, persons who must be appointed following an election (conducted in accordance with statutes made by the council) by the students at the institution:
   (ea)
   (f) having regard to the courses provided by the institution—
     (i) 1 person appointed in accordance with the council's constitution after consultation by the person or body making the appointment with the central organisation of employers within the meaning of the Labour Relations Act 1987:
@@ -5614,32 +5612,46 @@ An institution (as defined in section 159(1)) must ensure that prospective stude
 
 ## Part 16A — Membership of associations of tertiary students
 
-### 229A Institutions at which membership of students association is compulsory
-(1) This section applies to every institution at which membership of a students association is compulsory.
-(2) The students association that, at the commencement of this section, is recognised by the council of the institution as being the institution's students association for the purpose of representation on the council, is the students association at that institution for the purposes of section 171(2)﻿(e), this section, and sections 229B and 229C.
-(3) The council must, if asked to by the institution's student association, collect the membership fees of the association, but only if the association provides the council with—
+### 229A Membership of students association voluntary
+No student or prospective student at an institution is required to be a member of a students association.
+
+### 229B Undue influence
+A person must not exert undue influence on any student or prospective student with intent to make that student or prospective student—
+  (a) become or remain a member of a students association; or
+  (b) cease to be a member of a students association; or
+  (c) not become a member of a students association.
+
+### 229C Complaints
+(1) A student or prospective student who, on reasonable grounds, considers that any person has exerted undue influence in breach of section 229B may lodge a complaint with the council of the institution.
+(2) A complaint must be in writing, and must specify the grounds on which the person believes that undue influence has been exerted.
+(3) A student or prospective student who lodges a complaint—
+  (a) is entitled to be heard on the matter by the council; and
+  (b) may represent himself or herself, or be represented by an advocate.
+(4) A students association in respect of which a complaint has been lodged—
+  (a) is entitled to be heard on the matter by the council; and
+  (b) may be represented by a member of the association or by an advocate.
+(5) The council may refuse to hear a complaint if it believes that no reasonable grounds exist for it to be made.
+(6) If the council hears a complaint, it must deal with that complaint in accordance with the principles of natural justice and the procedures (if any) prescribed by the council in statutes made under section 194.
+(7) The council may uphold, reject, or otherwise decide on the complaint as it considers appropriate in the circumstances, and its decision is final.
+
+### 229CA Students association membership fees
+(1) No person is required to pay a membership fee to a students association, or to pay money to any other person as an alternative to paying such a membership fee, unless that person chooses to become or remain a member of that association.
+(2) A person who is not a member of a students association may not be required to pay a representation fee to that association for any services that the association provides generally to the institution's student body.
+(3) Subsections (1) and (2) do not prevent a students association—
+  (a) charging a person who is not a member of the association for the provision of a specific service to that person, at that person's request; or
+  (b) being contracted by an institution or any other person to provide services to students of an institution.
+(4) The council of an institution must, if asked by a students association of the institution, collect the membership fees of that association, but only if the association provides the council with—
   (a) a copy of its current constitution; and
   (b) an independently audited set of financial accounts of the association for the last financial year.
-(4) The council must pay all membership fees collected on behalf of the students association to the association in a timely manner, but may charge the association for the actual and reasonable costs incurred by the council in collecting the fees.
-(5) A students association may, on the grounds of hardship, exempt any student from the obligation to pay the membership fee of the association; and a student so exempted may nonetheless be a member of the association.
-(6) A students association may exempt any student from membership of the association on the grounds of conscientious objection; and, if exempted, the association must pay the student's membership fee to a charity of its choice.
-(7) Every students association must ensure that information about the rights in subsections (5) and (6) is available to students before enrolment, and must make rules for dealing in a fair, timely, and consistent way with applications for exemption under either subsection.
+(5) The council must pay all membership fees collected on behalf of the students association to the association in a timely manner.
+(6) Despite subsections (4) and (5), the council may decline a request to collect membership fees on behalf of a students association, or may withhold all or part of any membership fees collected, if the council believes that—
+  (a) the terms of the constitution of the association are being breached; or
+  (b) the accounts disclose financial irregularities.
+(7) The council may retain any membership fees that have been withheld under subsection (6) until the council is satisfied that all breaches of the terms of the association's constitution, and all financial irregularities, have been appropriately addressed by the association.
+(8) The council may charge a students association for the actual and reasonable costs incurred by the council in collecting membership fees on behalf of that association.
 
-### 229B Initiating change relating to compulsory membership of students association
-(1) The students of an institution at which membership of a students association is compulsory may request the council to conduct a vote of all students at the institution on whether membership of the students association should continue to be compulsory.
-(2) The students of an institution at which membership of a students association is not compulsory may request the council to conduct a vote of all students at the institution on whether membership of a specified students association at the institution should become compulsory.
-(3) A request under subsection (1) or subsection (2) is not effective unless it is accompanied by a petition requesting the vote, signed by at least 10% (as calculated according to figures provided by the Ministry) of all students currently enrolled at the institution.
-
-### 229C Council to conduct vote on issue of compulsory membership of students association
-(1) A council that receives an effective request under section 229B must conduct (and pay for) a vote of all students at the institution as soon as practicable after receiving the request, but may not hold a vote more than once every 2 years.
-(2) The council must make statutes setting out the procedures for conducting a vote under this section in consultation with,—
-  (a) in the case of an institution at which membership of a students association is compulsory, the institution's students association; or
-  (b) in the case of an institution at which membership of a students association is not compulsory, any associations that represent students and that the council considers should be consulted.
-(3) The result of a vote of students held under this section determines whether, in and after the following year, membership of the association referred to in the vote is compulsory or not.
-(4) Despite subsection (1), a vote may be held in 2000 under this section.
-
-### 229D Sections 229A to 229C apply to private training establishments
-Sections 229A to 229C apply to private training establishments; and, for the purpose of those sections,—
+### 229D Sections 229A to 229CA apply to private training establishments
+Sections 229A to 229CA apply to private training establishments; and, for the purpose of those sections,—
   (a) every reference to an institution includes a reference to a private training establishment; and
   (b) every reference to a council includes a reference to the governing body of the private training establishment.
 
@@ -8377,7 +8389,7 @@ Subject to any other enactment, the Committee may invest any of its money in any
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **community college** means an educational institution established under Part 3 to provide continuing education and related advisory and guidance services, and other educational services designed to meet the particular circumstances of the local community
   - **composite school** means a State school that provides primary education and secondary education
-  - **continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a university or university college of agriculture or college of education
+  - **continuing education** means education, including vocational education, provided for persons who are no longer required to attend school under the provisions of this Act, and who are not, unless otherwise expressly provided for by this Act, enrolled as pupils in any secondary school or department; but does not include education at a university or university college of agriculture or teachers college
   - **contributing school** means a State primary school that is for the time being established under this Act without provision for classes for pupils of forms 1 and 2 or either of those forms
   - **correspondence school** or means any school or institution, or any classes, established by the Minister to provide instruction by correspondence
   - **Department** means the Ministry of Education
@@ -8388,7 +8400,7 @@ Subject to any other enactment, the Committee may invest any of its money in any
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009; or
     (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not foreign students
-  - **education authority** means a body that is a board, or the governing body of a college of education, a polytechnic, or a wananga, established under the Education Amendment Act 1990
+  - **education authority** means a body that is an education board, the governing body of a secondary school, technical institute, or community college, a secondary schools council, a teachers college council, or a body declared to be an education authority by the Governor-General by Order in Council
   - **education centre** means an education centre established under section 107A(1)
   - **education centre council** means an education centre council constituted under section 107B(2)
   - **employing authority** , in relation to any teacher, means the education board, board of governors, or other body or person, that controls the kindergarten, school, institute, or college, in which the teacher is employed
@@ -8421,7 +8433,7 @@ Subject to any other enactment, the Committee may invest any of its money in any
   - **Senior Inspector** or means an Inspector of Schools appointed under section 7 to discharge the duties of the Senior Inspector of Primary Schools for an education district; and where appropriate, includes an Inspector of Schools so appointed to discharge the duties of the Senior Inspector of Secondary Schools for an area specified by the Director-General
   - **special education** means education for children who, because of physical or mental handicap or of some educational difficulty, require educational treatment beyond that normally obtained in an ordinary class in a school providing primary, secondary, or continuing education
   - **State primary school** means any school providing primary education established under Part 3 by an education board; and includes any intermediate school or district high school subject to the control and management of an education board; and also includes a school established under this Act or a former Education Act as a Chatham Islands School
-  - **teacher** means a schoolmaster or schoolmistress, or an assistant schoolmaster or assistant schoolmistress, engaged in teaching or eligible for appointment to a teaching position in any State primary school or correspondence school, or in a college of education, or in a secondary school, or technical institute or community college, or in an intermediate department, or engaged or eligible to be engaged as a teacher of a special subject (including manual training), or in any specialist training service; and, in sections 157 to 161B, includes a kindergarten teacher, but does not include a probationary assistant, a junior assistant in a Maori school, or a student at a college of education
+  - **teacher** means a schoolmaster or schoolmistress, or an assistant schoolmaster or assistant schoolmistress, engaged in teaching or eligible for appointment to a teaching position in any State primary school or correspondence school, or in a teachers college, or in a secondary school, or technical institute or community college, or in an intermediate department, or engaged or eligible to be engaged as a teacher of a special subject (including manual training), or in any specialist training service; and, in sections 157 to 161B, includes a kindergarten teacher, but does not include a probationary assistant, a junior assistant in a Maori school, or a student at a teachers college
   - **teacher appointed by the Director-General** means a teacher placed under the control of the Director-General by an Order in Council made under section 164
   - **technical institute** means an educational institution established, or deemed to have been established, as a technical institute under Part 3, and providing continuing education and related advisory and guidance services; and includes any correspondence school so far as it is deemed to be a technical institute within the meaning of that Part
   - **working day** means a working day within the meaning of the Public Works Act 1981.
@@ -8465,7 +8477,7 @@ Nothing in this Act shall affect religious instruction or religious observances 
   (a) every reference in this Act to a State primary school were a reference to those classes and courses in that composite school providing primary education; and
   (b) every reference in this Act to a secondary school were a reference to those classes and courses in the composite school providing secondary education.
 
-**Further education: Technical and continuation**
+**Further education—technical and continuation**
 
 ### 89 Saving of technical institutes already established
 Every school established as a technical institute under any former Education Act and existing at the commencement of this Act shall be deemed to have been established as a technical institute under this Act.
@@ -8505,15 +8517,15 @@ Having regard to the provision of continuing education, the Minister may establi
 **Appointment and employment of teachers: General**
 
 ### 162 Teachers to take oath of allegiance
-(1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, college of education, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
-(2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or college of education, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
-(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding $100.
+(1) No person shall be employed or shall continue to be employed, or shall act as a teacher, in any State primary school, secondary school, technical institute, community college, teachers college, endowed school, or private school or in any teaching position under the control of the Ministry of Education or under an education board unless, in the case of a New Zealand citizen, he has made and subscribed an oath or affirmation of allegiance, and, in any other case, he has made and subscribed such an oath or affirmation or has made and subscribed in the prescribed form an oath or affirmation that he will not, directly or indirectly, use words or be concerned in any act which would be disloyal to Her Majesty if those words were spoken or written, or that act was committed, by a New Zealand citizen.
+(2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
+(3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding 50 pounds.
 
 ## Part 8 — General provisions
 
 ### 187 Exemptions from taxation
-(1) Every education board and secondary schools council, and every governing body of a secondary school, college of education, technical institute, or community college, being a school, college, or institute established or deemed to have been established under Part 3, and every education centre council, shall be deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and shall be entitled accordingly to all the privileges which the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Nothing in subsection (1) exempts an education board, a secondary schools council, the governing body of a secondary school, college of education, technical institute, or community college, or an education centre council, from—
+(1) Every education board and secondary schools council, and every governing body of a secondary school, teachers college, technical institute, or community college, being a school, college, or institute established or deemed to have been established under Part 3, and every education centre council, shall be deemed to be the agent of the Crown in respect of its property and the exercise of its functions, and shall be entitled accordingly to all the privileges which the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
+(2) Nothing in subsection (1) exempts an education board, a secondary schools council, the governing body of a secondary school, teachers college, technical institute, or community college, or an education centre council, from—
   (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
   (b) any obligation imposed by that Act.
 
@@ -8966,3 +8978,17 @@ On the commencement of this Act,—
   (c) satisfy the Authority, within 3 years of the commencement of this Act, that each governing member of the establishment is a fit and proper person.
 (2) A failure to comply with subsection (1) is a failure to meet the relevant criteria set out in section 233(1), and section 233D applies accordingly.
 (3) In subsection (1), a registered private training establishment means a private training establishment that was granted registration by the Authority under section 236 of the principal Act before it was amended by this Act.
+
+### 1 Title
+This Act is the Education (Freedom of Association) Amendment Act 2011.
+
+### 2 Commencement
+This Act comes into force on 1 January 2012.
+
+### 9 Transitional provision
+(1) This section applies to any student who on 1 January 2012—
+  (a) is enrolled at an institution or private training establishment; and
+  (b) is a member of that institution's or that private training establishment's students association.
+(2) Despite sections 229A to 229CA of the principal Act (as inserted by this Act),—
+  (a) a student to whom this section applies continues to be a member of the students association until the expiry of his or her current term of enrolment; and
+  (b) the provisions of the constitution of the students association that existed when the student last joined or rejoined the association continue to apply until the expiry of that period.
