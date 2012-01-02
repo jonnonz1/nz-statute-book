@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2011-08-09_
+_Consolidation as at 2012-01-02_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1416,12 +1416,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   - **tobacco products** means goods specified in headings 24.02, 24.03, 99.60, and 99.65 of the Excise and Excise-equivalent Duties Table.
 
 ### 79AA Increases of 10% on 1 January 2011 and 2012 must be made in or by Excise and Excise-equivalent Duties Table (Tobacco Products Indexation or Other) Amendment Orders 2010 and 2011
-(1) An order under section 79(1), and that comes into force on 1 January 2011 or 1 January 2012, must be called an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2010, or 2011 (as the case requires), and must (despite section 79) impose on all tobacco products (as defined in section 79(4)) new rates of duties that not only—
-  (a) index existing rates of duties on those products (having regard to movements in the Consumers Price Index All Groups excluding credit services) in accordance with section 79(2) to (4); but also
-  (b) include a separate increase of 10% of those existing rates.
-(2) However, if subsection (1) cannot be complied with because no order is or is to be made under section 79(1) so as to come into force on 1 January 2011 or 1 January 2012, the Governor-General must, by an Order in Council made under this subsection, coming into force on that date, and called an Excise and Excise-equivalent Duties Table (Tobacco Products 10% Increase) Amendment Order 2010, or 2011 (as the case requires), amend the Excise and Excise-equivalent Duties Table by—
-  (a) omitting all existing rates of duties on all tobacco products (as defined in section 79(4)); and
-  (b) substituting new rates that include an increase of 10% of those existing rates.
+[Repealed]
 
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
