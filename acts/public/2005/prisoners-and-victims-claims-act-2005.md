@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -278,7 +278,9 @@ This subpart expires with the close of 30 June 2012.
     (a) an order under section 106, section 108, or section 110 of the Sentencing Act 2002; or
     (b) an order under section 84(1)(b) of the Children, Young Persons, and Their Families Act 1989; or
     (c) an order under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
-    (d) an order that requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment.
+    (d) an order that—
+      (i) requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment; and
+      (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of Part 3 of the Summary Proceedings Act 1957.
 (3) Subsection (1)(b) applies regardless of the conditions of a relevant sentence of reparation or order of reparation, for example, any conditions in respect of the following matters:
   (a) whether the total amount of reparation to be paid is to be paid in 1 lump sum or in instalments:
   (b) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
