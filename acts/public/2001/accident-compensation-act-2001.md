@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2011-08-01_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -1595,7 +1595,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
     (iii) the Corporation, if the Corporation is liable to provide the allowance and the Corporation agrees to the assignment; or
   (c) sections 4 and 5 of the Maori Housing Act 1935; or
   (d) sections 84F to 84M of the District Courts Act 1947; or
-  (e) sections 87(1)(b), 88(3)(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
+  (e) sections 87(2)(b), 88AE(1)(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
   (f) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
   (g) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
   (h) the Child Support Act 1991; or
