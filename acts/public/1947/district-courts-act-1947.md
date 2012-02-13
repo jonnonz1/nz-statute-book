@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2012-02-13_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -390,8 +390,12 @@ Notwithstanding section 28F, in any case to which that section would otherwise a
     (ii) the informant, with the consent of the Solicitor-General given under section 115A(2) of the Summary Proceedings Act 1957, may appeal against the sentence to the High Court under section 115A(1A) of the Summary Proceedings Act 1957.
 (2A) This section is subject to section 384A of the Crimes Act 1961.
 
-### 28I Enforcement of penalties
-Where a court exercising jurisdiction under this Part adjudges or orders any sum of money to be paid by a conviction or an order, whether as a fine or for costs or otherwise, the sum may be recovered under Part 3 of the Summary Proceedings Act 1957; and that Part, with any necessary modifications, shall apply.
+### 28I Enforcement of fines
+(1) If a court exercising jurisdiction under this Part imposes 1 or more fines, Part 3 of the Summary Proceedings Act 1957 applies subject to any necessary modifications and subject to the modification in subsection (2).
+(2) Despite section 90 of the Summary Proceedings Act 1957, the period of imprisonment that the court may impose on the offender for the non-payment of the fine or fines must not exceed, for each fine, the lesser of—
+  (a) the maximum term of imprisonment to which the offender was liable on conviction; or
+  (b) a period of 2 years.
+(3) In this section, fine has the meaning given to it in section 79 of the Summary Proceedings Act 1957.
 
 ### 28J Transfer of proceedings
 (1) Where any person is committed under section 184N of the Summary Proceedings Act 1957 to a District Court for trial, or where proceedings have been transferred to a District Court for trial by order made under section 184Q of that Act, the accused person or the prosecutor may, either before or after an indictment is presented, apply to a Judge of the High Court for an order directing that the person be tried in the High Court.
@@ -1240,6 +1244,7 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
   (h)
   (i)
   (ia) prescribing the circumstances in which an order under section 56A or section 56B can be made:
+  (ib) providing for documents to be sent in electronic form under section 108A(1)(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
   (j) regulating and providing for any other matters which were regulated or provided for by the District Courts Rules in force on the date of the passing of this Act:
   (k) regulating or providing for any other matters which immediately prior to the coming into force of this Act were regulated or provided for by the enactments (repealed by this Act) which are referred to in Schedule 2:
   (l) providing for any other matters in respect of which rules are contemplated or specially authorized by this Act.
@@ -1247,7 +1252,7 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
 
 ### 123 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing fees payable in respect of proceedings, including fees for the service of documents, in the District Court pursuant to this Act or other Acts:
+  (a) prescribing fees payable in respect of proceedings, including fees for the filing and service of documents, in the District Court pursuant to this Act or other Acts:
   (b) prescribing fees payable to persons giving evidence and to referees and arbitrators in proceedings in the District Court pursuant to this Act or other Acts:
   (ba) in order to promote access to justice, empowering Registrars or Deputy Registrars to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding (including a proceeding in a Disputes Tribunal), or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (bb) that—
     (i) the person otherwise responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
@@ -1491,3 +1496,16 @@ These regulations come into force on 18 July 2008.
 ### 4 Transitional provision
 (1) This regulation applies if a person charged with an offence under section 6(2)(a), 6(2A)(a), 10(1), or 12C(1)(a) of the Misuse of Drugs Act 1975 was, before the commencement of these regulations, committed to the High Court for trial and is awaiting the commencement of that trial.
 (2) Section 168AA(2) (or, when it is in force, section 184Q) of the Summary Proceedings Act 1957 applies in respect of a defendant in the circumstances referred to in subclause (1) as if at all material times the offence for which the defendant was committed for trial was an offence to which that section applied.
+
+### 1 Title
+This Act is the District Courts Amendment Act 2011.
+
+### 2 Commencement
+(1) Sections 3 and 5 to 8 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
+
+### 44 Transitional provisions
+((1)) Section 28I of the principal Act, as inserted by section 9 of this Act, does not apply in respect of any fine (as defined in section 79 of the Summary Proceedings Act 1957) that was imposed before the commencement of section 9 by a District Court in the exercise of its jurisdiction under Part 2A of the principal Act.
+(2) A person affected by any order or direction that was made before the commencement of section 22 of this Act by a Registrar under section 84B of the principal Act (as it read immediately before that commencement) may, on and after that commencement, apply to a District Court Judge for a review of the order or direction under section 84N of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
+(3) If, before the commencement of section 14 of this Act, the examination of a judgment debtor had commenced under section 84B of the principal Act (as it read immediately before that commencement) as to the judgment debtor's means for satisfying the judgment debt, the District Court may, on and after that commencement, do any 1 or more of the things referred to in section 84E(1) of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
+(4) If, before the commencement of section 23 of this Act, a judgment debtor was examined under section 84B of the principal Act (as it read immediately before that commencement) as to the judgment debtor's means for satisfying the judgment debt, a judgment creditor may, on and after that commencement, apply for an order of community work under section 84O(1) of the principal Act (as it read immediately before that commencement) as if this Act had not been enacted.
