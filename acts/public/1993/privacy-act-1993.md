@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-02-13_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1041,14 +1041,14 @@ Where a specified agency derives or receives information produced by an authoris
   (c) by posting it in a letter addressed to that individual at that place of residence or business or at that address.
 (4) If any such notice is sent to any individual by post, then in the absence of proof to the contrary, the notice shall be deemed to have been delivered to that individual on the fourth day after the day on which it was posted, and in proving the delivery it shall be sufficient to prove that the letter was properly addressed and posted.
 (5) In this section,—
+  - **amount of reparation** has the same meaning as in section 79 of the Summary Proceedings Act 1957
   - **bailiff** means a bailiff of the District Court or of the High Court
   - **fine** means—
-    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957 or an amount of reparation:
-    (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies:
-    (c) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies
-  - **reparation** means—
-    (a) any amount that is required to be paid under a sentence of reparation; or
-    (b) any amount that is required to be paid under any order of reparation as defined in section 145D of the Sentencing Act 2002.
+    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
+    (b) a fine to which section 19 of the Crimes Act 1961 applies:
+    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
+    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
 
 ### 104 Reporting requirements
 (1) Every specified agency that is involved in an authorised information matching programme shall make such reports to the Commissioner in respect of that programme as the Commissioner may from time to time require.
