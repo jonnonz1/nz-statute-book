@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2011-07-13_
+_Consolidation as at 2012-02-13_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -247,46 +247,54 @@ Nothing in this Act shall be construed to limit or affect in any way any provisi
 
 **Fine**
 
-### 19 Payment of fine, etc
-(1) Where the court sentences an offender on conviction on indictment to pay a fine, or orders him to pay any other sum of money, it may do all or any of the following things—
-  (a) allow time for payment:
-  (b) direct payment to be made by instalments:
-  (c) direct payment to be made to such person or persons and in such place or places as the court may specify.
-(2) Where a sum is directed to be paid by instalments and default is made in the payment of any 1 instalment, the same proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+### 19 Enforcement of fines by High Court
+(1) If the High Court imposes 1 or more fines, Part 3 of the Summary Proceedings Act 1957 applies to the fine or fines, subject to any necessary modifications and subject to the modifications in subsections (2) to (5).
+(2) Without limiting the actions that the High Court may take under Part 3 of the Summary Proceedings Act 1957 in relation to the fine or fines, the High Court may make any orders that it thinks fit, including a charging order or sale order in relation to the offender's real property.
+(3) To avoid doubt, section 88A of the Summary Proceedings Act 1957 does not apply if the High Court makes, in accordance with subsection (2), a charging order or sale order in relation to real property.
+(4) If an offender is sentenced by the High Court to community work, community detention, or home detention under section 88AE(1) of the Summary Proceedings Act 1957 or is imprisoned under a warrant of commitment issued under that section,—
+  (a) section 89(2) and (3) of the Summary Proceedings Act 1957 apply with any necessary modifications as if—
+    (i) the references in those subsections to a District Court Judge were references to a High Court Judge; and
+    (ii) the reference to the High Court was a reference to the Court of Appeal; and
+  (b) sections 115 and 121 of the Summary Proceedings Act 1957, and any other relevant provisions of that Act relating to appeals against sentence, apply with any necessary modifications as if—
+    (i) the references in those sections to a District Court were references to the High Court; and
+    (ii) the references in those sections to the High Court were references to the Court of Appeal.
+(5) Despite section 90 of the Summary Proceedings Act 1957, the period of imprisonment that the High Court may impose on the offender for the non-payment of 1 or more fines must not exceed, for each fine, the lesser of—
+  (a) the maximum term of imprisonment to which the offender was liable on the conviction; or
+  (b) a period of 2 years.
+(6) If the High Court enforces 1 or more fines under this section, the court may, at the same time, enforce any outstanding fine or fines imposed on the offender by a District Court.
+(7) For the purposes of subsection (6), the outstanding fine or fines imposed by the District Court must be treated as if the fine or fines were imposed by the High Court and, in accordance with subsection (1), Part 3 of the Summary Proceedings Act 1957 applies to the fine or fines, subject to any necessary modifications, and—
+  (a) subject to the modifications in subsections (2) to (5), if the outstanding fine or fines were imposed in the District Court's indictable jurisdiction; and
+  (b) subject to the modifications in subsections (2) and (4), but not the modification in subsection (5), if the outstanding fine or fines were imposed in the District Court's summary jurisdiction.
+(8) A Registrar of a District Court or of the High Court may exercise any jurisdiction and powers conferred on a Registrar of a District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
+(9) A bailiff of a District Court may exercise any jurisdiction and powers conferred on a bailiff of a District Court by Part 3 of the Summary Proceedings Act 1957 in respect of the fine or fines imposed by the High Court to which, under subsection (1), that Part applies.
+(10) The amount of the fee payable if default is made in the payment of 1 or more fines imposed by the High Court to which, under subsection (1), Part 3 of the Summary Proceedings Act 1957 applies is the same as that prescribed by regulations, made under the Summary Proceedings Act 1957, in respect of enforcement action taken under that Act to enforce the fine or fines.
+(11) To avoid doubt, sections 92A to 92I of the Summary Proceedings Act 1957 apply, subject to any necessary modifications, to any fine or fines imposed by the High Court, and accordingly, the chief executive of the Ministry of Justice may, among other things authorised by those sections, disclose information about default balances relating to such fine or fines in accordance with those sections.
+(12) For the purposes of this section, and subject to subsection (4), any reference in Part 3 of the Summary Proceedings Act 1957 to—
+  (a) a Court is, unless the context otherwise requires, taken to be a reference to the High Court; and
+  (b) a District Court Judge is, unless the context otherwise requires, taken to be a reference to a High Court Judge; and
+  (c) a Registrar is, unless the context otherwise requires, taken to be a reference to a Registrar of the High Court or of a District Court and includes a Deputy Registrar.
+(13) In this section, fine has the meaning given to it in section 79 of the Summary Proceedings Act 1957.
 
 ### 19A Supervision of offender when time for payment is allowed
 [Repealed]
 
 ### 19B Immediate execution
-If the court which sentences an offender to pay a fine or which orders an offender to pay any other sum of money is of opinion—the court may direct that a writ of sale be issued against the personal property of an offender, without waiting for the expiration of the period mentioned in the rules of court made under this Act, or it may impose on the offender a period of imprisonment in default of payment of the fine or other sum of money (not exceeding the appropriate maximum period prescribed in section 19E).
-  (a) that the offender has sufficient means to pay the fine or other sum of money forthwith; or
-  (b) that the offender has no fixed place of residence; or
-  (c) that for any other reason, having reference to the gravity of the offence, the character of the offender, or other special circumstances, execution should issue without delay—
+[Repealed]
 
 ### 19C Warrant to collect fine or other sum of money ordered to be paid
-(1) Where any fine imposed on conviction on indictment or any other sum of money which an offender has been ordered to pay is not paid within 14 days thereafter, or within such further time as may be allowed or fixed for the payment thereof, any Registrar may issue a warrant in the form prescribed in the rules of court made under this Act to collect the sum or so much of it as remains unpaid.
-(2) Where a warrant has been issued under this section, the constable or bailiff executing it shall demand payment from the offender if he can be found and shall, unless the fine or other sum of money, or so much of it as remains unpaid, and the fee for the issue of the warrant are sooner paid, make a report as to the means of the offender so far as he has been able to ascertain them, or, as the case may be, a report that after reasonable inquiry the offender could not be found.
-(3) In this section and section 19D, bailiff means a bailiff of a District Court; and includes any deputy bailiff and any person acting as bailiff under section 15 of the District Courts Act 1947.
+[Repealed]
 
 ### 19D Execution
-Where a constable or bailiff makes a report as mentioned in section 19C, the Judge who sentenced the offender to pay the fine or who ordered the offender to pay the other sum of money or, if that Judge is not available, any other Judge, shall consider the report and may make such order as he thinks fit including an order for the remission of either the whole or part of the fine or other sum of money, an order for the issue of a writ of sale or an order for the immediate imprisonment of the offender, or an order allowing time for payment or allowing payment by instalments.
+[Repealed]
 
 ### 19DA Community work, community detention, and home detention for non-payment of fine
-(1) In any case where, under section 19D, an order may be made for the imprisonment of any person in respect of the non-payment of any fine or other sum of money, the Judge may issue a summons to that person, or, whether or not a summons has been issued or served, may issue a warrant to arrest that person and bring him before the High Court.
-(2) On the appearance of that person before the court, the court may, in its discretion, after considering the report referred to in section 19D, and after taking into account any other fines and any amount of reparation owing by that person, sentence that person to community work, community detention, or home detention in accordance with the relevant provisions of Part 2 of the Sentencing Act 2002.
-(3) A sentence of community work, community detention, or home detention may be imposed under this section, even though none of the offences in respect of which the fines were imposed was punishable by imprisonment.
-(4) If any person is sentenced to community work, community detention, or home detention under this section for the non-payment of the whole or any part of a fine or other sum of money, that fine or part of a fine or other sum of money is deemed to be remitted.
-(5) If the court sentences any person to community work, community detention, or home detention under this section, that person has the same right of appeal to the Court of Appeal against the sentence as the person would have had if the sentence had been imposed by the High Court after his or her conviction in the High Court.
-(6) If the Court of Appeal quashes the sentence of community work, community detention, or home detention on appeal, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
-(7) If, on appeal from the Court of Appeal, the Supreme Court quashes the sentence of community work, community detention, or home detention, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
+[Repealed]
 
 ### 19E Period of imprisonment for non-payment of money
-(1) The period of imprisonment imposed under this Act in respect of the non-payment of any fine or other sum of money shall not exceed the maximum term of imprisonment to which the offender was liable on the conviction or 2 years, whichever is the less.
-(2) Where a person is imprisoned for non-payment of any fine or other sum of money, he may pay or cause to be paid to the prison manager of the prison in which he is imprisoned the sum payable and the prison manager shall thereupon discharge that person, unless he is in custody for some other matter.
-(3) Where any person who is imprisoned for non-payment of any fine or other sum of money pays or causes to be paid to any person authorised or entitled to receive the same any sum in partial satisfaction of the total amount (including costs and charges) for which he is liable, the term of his imprisonment shall be reduced by a number of days bearing as nearly as possible the same proportion to the total number of days for which he has been committed as the sum so paid bears to the total amount (including costs and charges) for which he is liable, and the prison manager of the prison in which he is imprisoned shall, upon the expiration of the term so reduced, discharge that person unless he is in custody for some other matter.
+[Repealed]
 
 ### 19F Stay of execution on appeal
-The court may at any time, in the case of any appeal or application for leave to appeal, or in any case if it thinks fit, suspend any order made under sections 19, 19A, 19B, or 19D or any warrant issued under section 19C.
+[Repealed]
 
 ## Part 3 — Matters of justification or excuse
 
