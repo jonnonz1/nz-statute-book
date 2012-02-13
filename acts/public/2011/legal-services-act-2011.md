@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -39,7 +39,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (c) the disbursements claimed by the lead provider and any other provider who acted on the matter, as approved for payment under section 99
   - **criminal proceedings** includes—
     (a) proceedings on an application made under any of section 54, 68, or 121 of the Sentencing Act 2002:
-    (b) proceedings before a District Court Judge under section 88 of the Summary Proceedings Act 1957:
+    (b) proceedings before a District Court Judge under sections 88 to 88AG of the Summary Proceedings Act 1957:
     (c) proceedings for contempt under section 84O of the District Courts Act 1947:
     (d) proceedings before a District Court Judge under the Extradition Act 1999 relating to the surrender to a foreign country of the person to whom the proceedings relate
   - **disposable capital** , in relation to a person, means that person's disposable capital—
