@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -244,10 +244,11 @@ In sentencing or otherwise dealing with an offender the court—
   (b) the court is not precluded from dealing with the offender in that manner if the court thinks that it is appropriate in the circumstances.
 
 ### 12 Reparation
-(1) If a court is lawfully entitled under Part 2 to impose a sentence of reparation, it must impose it unless it is satisfied that the sentence would result in undue hardship for the offender or the dependants of the offender, or that any other special circumstances would make it inappropriate.
+(1) If a court is lawfully entitled under Part 2 to impose a sentence or order of reparation, it must impose it unless it is satisfied that the sentence or order would result in undue hardship for the offender or the dependants of the offender, or that any other special circumstances would make it inappropriate.
 (1A) When considering undue hardship or other special circumstances under subsection (1), a court must not take into account that the offender is required to pay a levy under section 105B.
 (2) A sentence of reparation may be imposed, in relation to any particular offence, on its own or in addition to any other sentence.
-(3) If a court does not impose a sentence of reparation in a case where it is lawfully entitled to do so, it must give reasons for not doing so.
+(3) If a court does not impose a sentence or order of reparation in a case where it is lawfully entitled to do so, it must give reasons for not doing so.
+(4) In this section, order of reparation means an order under section 106(3)(b), 108(2)(b), or 110(3)(b).
 
 ### 13 Sentence of fine
 If a court is lawfully entitled under this or any other enactment to impose a fine in addition to, or instead of, any other sentence, the court must regard a fine as the appropriate sentence for the particular offence unless—
@@ -515,17 +516,20 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (a) reparation for any amount that is less than the value of the loss, damage, or harm; or
   (b) payment by instalments in respect of the loss, damage, or harm; or
   (c) both (a) and (b).
-(2) If the court imposes on an offender a sentence of reparation and a sentence of a fine, any payments received from the offender must be applied first in satisfaction of the amount due under the sentence of reparation.
-(3) Subsection (2) is subject to section 105C.
+(2) Subsection (3) applies if the court is considering whether to impose—
+  (a) more than 1 sentence of reparation on an offender; or
+  (b) a sentence of reparation and a sentence of a fine on an offender; or
+  (c) a sentence of reparation on an offender who is subject to an earlier sentence or order of reparation or an earlier sentence of a fine, or a combination of any of those.
+(3) The court must take into account that any payments received from the offender must be applied in the order of priority set out in sections 86E to 86G of the Summary Proceedings Act 1957.
 
-### 36 Conditions of sentence of reparation
-(1) If a court sentences an offender to make reparation, the court must determine the conditions of the sentence in respect of the following matters:
-  (a) the total amount of reparation to be paid by the offender:
-  (b) whether the amount is to be paid in 1 lump sum or in instalments:
-  (c) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
-  (d) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
-(2) The court may not impose a condition that an amount to be paid in 1 lump sum must be paid immediately unless the court is satisfied that the offender has sufficient means to pay it immediately.
-(3) If the court imposes a condition on a sentence of reparation that it must be paid immediately in 1 lump sum, section 83(2) of the Summary Proceedings Act 1957 applies as if the condition were an order under section 83(1) of that Act.
+### 36 Payment conditions of sentence of reparation
+(1) If a court sentences an offender to make reparation, the court may—
+  (a) make an order, under section 81(1)(a) of the Summary Proceedings Act 1957, allowing the offender greater time to pay or allowing the offender to pay by instalments, or both; or
+  (b) make an order, under section 83(1) of the Summary Proceedings Act 1957, requiring the offender to pay immediately; or
+  (c) direct the Registrar to determine the conditions of payment of the reparation, including whether to—
+    (i) require the offender to pay the reparation immediately under section 83(1) of the Summary Proceedings Act 1957 (which applies with any necessary modifications); or
+    (ii) enter into an arrangement with the offender allowing the offender greater time to pay or allowing the offender to pay by instalments, or both, under section 86 of the Summary Proceedings Act 1957.
+(2) If the court does not make an order or give a direction under subsection (1), the reparation must be paid in 1 lump sum within the time allowed for the payment of fines generally by section 80 of the Summary Proceedings Act 1957.
 
 ### 37 Copy of conditions of reparation to be given to person who suffered harm, loss, or damage
 (1) A copy of the conditions of a sentence of reparation must be given to the person who suffered the harm, loss, or damage.
@@ -550,7 +554,12 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (1) In determining the amount of a fine, the court must take into account, in addition to the provisions of sections 7 to 10, the financial capacity of the offender.
 (2) Subsection (1) applies whether taking into account the financial capacity of the offender has the effect of increasing or reducing the amount of the fine.
 (3) If under an enactment an offender is liable to a fine of a specified amount, the offender may be sentenced to pay a fine of any less amount, unless a minimum fine is expressly provided for by that enactment.
-(4) If a court imposes a fine in addition to a sentence of reparation, it must, in fixing the amount of the fine, take into account the amount payable under the sentence of reparation.
+(4) Subsection (4A) applies if a court imposes a fine—
+  (a) in addition to a sentence of reparation; or
+  (b) on an offender who is subject to an earlier sentence or order of reparation.
+(4A) In fixing the amount of the fine, the court must take into account—
+  (a) the amount of reparation payable; and
+  (b) that any payments received from the offender must be applied in the order of priority set out in sections 86E to 86G of the Summary Proceedings Act 1957.
 (5) When considering the financial capacity of the offender under subsection (1), the court must not take into account that the offender is required to pay a levy under section 105B.
 
 ### 41 Financial capacity of offender
@@ -575,6 +584,9 @@ A declaration as to financial capacity must contain information on all sources o
   (i) income and realisable assets that the offender does not currently have but which it is anticipated that the offender will receive during the 12 months following the date of giving the declaration:
   (j) debts:
   (k) essential outgoings of the offender and his or her dependants.
+
+### 42A Offender may be detained for purpose of making declaration
+A court may direct that an offender be detained in the custody of the court for a period not exceeding 2 hours for the purpose of making a declaration of financial capacity in accordance with section 42.
 
 ### 43 Offence of providing false or misleading information
 Every person is liable on summary conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information in a declaration of financial capacity provided in accordance with section 42.
@@ -2003,10 +2015,7 @@ For the purposes of this subpart, unless the context otherwise requires,—
 (3) The levy is not a sentence and is in addition to any sentence.
 
 ### 105C Priority of payments received from offender
-If the court imposes or has previously imposed on an offender a sentence or an order of reparation or a sentence of a fine, or both, any payments received from the offender must be applied in the following order of priority:
-  (a) in payment of the amount due under any sentence or order of reparation:
-  (b) in payment of the offender levy:
-  (c) in payment of any fine.
+[Repealed]
 
 ### 105D Amount of levy
 The amount of the levy payable under section 105B is $50 unless regulations made under section 147 prescribe otherwise.
@@ -2051,11 +2060,11 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (ii) emotional harm; or
     (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property:
   (c) make any order that the court is required to make on conviction.
-(3A) If the court is considering making an order under subsection (3)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
-(4) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
-(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
-(6) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
-(7) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+(3A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (3)(b) as they apply to a sentence of reparation.
+(4)
+(5)
+(6)
+(7)
 
 ### 107 Guidance for discharge without conviction
 The court must not discharge an offender without conviction unless the court is satisfied that the direct and indirect consequences of a conviction would be out of all proportion to the gravity of the offence.
@@ -2069,11 +2078,11 @@ The court must not discharge an offender without conviction unless the court is 
     (ii) emotional harm; or
     (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property:
   (c) make any order that the court is required to make on conviction.
-(2A) If the court is considering making an order under subsection (2)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
-(3) Despite subsection (2)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
-(4) Despite subsection (2)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (2)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
-(5) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
-(6) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+(2A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (2)(b) as they apply to a sentence of reparation.
+(3)
+(4)
+(5)
+(6)
 
 ### 109 Guidance on conviction and discharge
 The court must not convict and discharge an offender unless it is satisfied that a conviction is sufficient penalty in itself.
@@ -2089,11 +2098,11 @@ The court must not convict and discharge an offender unless it is satisfied that
     (i) loss of, or damage to, property; or
     (ii) emotional harm; or
     (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property.
-(3A) If the court is considering making an order under subsection (3)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
-(4) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
-(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
-(6) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
-(7) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+(3A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (3)(b) as they apply to a sentence of reparation.
+(4)
+(5)
+(6)
+(7)
 
 ### 111 Calling offender to come up for sentence
 (1) This section applies if an offender in respect of whom an order is made under section 110—
@@ -2543,8 +2552,8 @@ If the Registrar has reasonable grounds to believe that a motor vehicle that is 
   (a) if the motor vehicle has been impounded under the Land Transport Act 1998, any impoundment costs; and
   (b) the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale).
 (3) Subsection (1) applies regardless of whether the offender owned or had an interest in the motor vehicle.
-(4) Part 3 (except sections 84 and 85) of the Summary Proceedings Act 1957 or (as the case may require) sections 19 to 19F of the Crimes Act 1961 apply with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
-(5) A certificate appearing to have been signed by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified, without proof of the signature or office of the person appearing to have signed the certificate.
+(4) Part 3 (except section 84) of the Summary Proceedings Act 1957 (or, if applicable, section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
+(5) A certificate issued by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified.
 
 ### 139 Procedure if notice given that vehicle subject to encumbrance
 (1) If notice is given to the Registrar within 1 month after the date of sale under section 137 that the confiscated motor vehicle is subject to any encumbrance and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
@@ -2747,53 +2756,37 @@ Nothing in sections 142A to 142P affects sections 127 to 142.
 ### 144 Royal prerogative not affected
 Nothing in this Act limits or affects the Royal prerogative of mercy.
 
-### 145 Enforcement of payment of amounts under sentence of reparation, reparation orders, etc
-(1) This section applies to—
-  (a) any amount that is required to be paid under a sentence of reparation; or
-  (b) any amount that is required to be paid under any order made under section 106, section 108, or section 110; or
-  (c) the amount of any levy payable under section 105B.
-(2) Part 3 of the Summary Proceedings Act 1957 or (as the case may require) sections 19 to 19F of the Crimes Act 1961 apply with all necessary modifications as if the amount to be paid were a fine.
-(2A) However, if the only amount payable is the levy,—
-  (a) Part 3 of the Summary Proceedings Act 1957 applies (even if sections 19 and 19B to 19F of the Crimes Act 1961 would be applicable); but
-  (b) sections 83(2)(a) and (b), 87(1)(a), and 88 of the Summary Proceedings Act 1957 do not apply and the following references must be read as follows:
-    (i) the reference in section 88B(1)(a) to the amount of $25 must be read as a reference to the amount of the levy (being $50 or any other amount that may be prescribed by regulation); and
-    (ii) the reference in section 88B(1)(b) to 3 years must be read as a reference to 1 year.
-(3) The remission of the whole or any part of the amount required to be paid under a sentence of reparation does not affect the right of the person who suffered the harm, loss, or damage to bring civil proceedings, or make claims under any accident compensation legislation applicable at the time of the offending, to recover the amount so remitted.
+### 145 Maximum period of detention for administrative tasks
+(1) The purpose of this section is to provide for the maximum period for which an offender may be detained in the custody of the court, on any 1 occasion, to allow any administrative tasks to be completed if—
+  (a) 2 or more of those tasks apply or relate to the offender; and
+  (b) they have to be completed at the same time.
+(2) An offender may be detained in the custody of the court for a period not exceeding 3 hours if the offender is required, at any time before sentencing, to complete both of the following:
+  (a) make a declaration of financial capacity in accordance with section 42:
+  (b) make a declaration of ownership of a motor vehicle in accordance with section 130.
+(3) An offender may be detained in the custody of the court for a period specified in subsection (4) if, at any time after sentencing, 2 or more of the following are required to be completed:
+  (a) the offender to make a declaration of financial capacity in accordance with section 42:
+  (b) an order for a community-based sentence to be drawn up and a copy given to the offender under section 74:
+  (c) an order for a sentence of home detention to be drawn up and a copy given to the offender under section 80ZC:
+  (d) a non-association order to be drawn up and a copy given to the offender under section 115:
+  (e) a protection order to be drawn up and served on the offender under section 123E.
+(4) The period referred to in subsection (3) is—
+  (a) a period not exceeding 3 hours if any 2 administrative tasks are required to be completed; or
+  (b) a period not exceeding 4 hours if any 3 or more administrative tasks are required to be completed.
+(5) If an offender is detained in the custody of the court for 2 or more orders for community-based sentences to be drawn up under section 74, each order is a separate administrative task for the purposes of subsection (4).
+(6) Nothing in this section limits or affects sections 42A, 74(4), 80ZC(4), 115(2), 123E(2), and 130(3) if the administrative task described in each of those sections is undertaken separately on any 1 occasion, rather than in conjunction with other administrative tasks.
+(7) In this section, administrative task means a task of a kind specified in subsection (2) or, as the case may be, subsection (3).
 
 ### 145A Manner in which amounts of reparation must be applied in cases involving same offence
-(1) This section applies if a person (the liable person) is required to pay an amount of reparation to 2 or more persons in relation to the same offence (whether the requirement to pay the amount of reparation arose before or after the commencement of this section).
-(2) Any payments received from the liable person must be applied, as between the persons in whose favour the sentence of reparation or order of reparation (or both) was made, in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them under the sentence or order (or both or if there was no such order, in equal amounts).
-(3) Subsection (2) applies subject to any contrary direction by a court.
+[Repealed]
 
 ### 145B Manner in which amounts of reparation must be applied in cases involving different offences
-(1) This section applies—
-  (a) if a person (the liable person) is required to pay an amount of reparation to a person or persons in relation to an offence; and
-  (b) if the liable person is later required to pay an amount of reparation to another person or other persons in relation to another offence; and
-  (c) if both the amounts referred to in paragraphs (a) and (b) have not been paid in full; and
-  (d) whether the requirements to pay the amounts referred to in paragraphs (a) and (b) arose before or after the commencement of this section.
-(2) For the purpose of subsection (1) it does not matter whether or not the offence referred to in subsection (1)(b) is of the same kind as the offence referred to in subsection (1)(a).
-(3) Any payments received from the liable person must, in respect of 1 or more sentences of reparation or orders of reparation (or both) imposed on the same day in respect of different offences committed by the liable person, be applied (in accordance with section 145A if applicable)—
-  (a) as between the persons in whose favour the sentences of reparation or orders of reparation (or both) were made; and
-  (b) in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them under the sentences or orders (or both).
-(4) Any payments received from the liable person must, in respect of sentences of reparation or orders of reparation (or both) imposed on the liable person on different days, be applied (in accordance with section 145A or subsection (3), if applicable) first in satisfaction of the amount of reparation that is payable to the person or persons in whose favour the sentence of reparation or the order of reparation (or both) was made first.
-(5) After the amount of reparation referred to in subsection (4) has been paid in full, any further payments received from the liable person must next be applied (in accordance with section 145A or subsection (3), if applicable) to the person or persons in whose favour the sentence of reparation or the order of reparation (or both) was next made.
-(6) This section applies subject to any contrary direction by a court.
+[Repealed]
 
 ### 145C No Crown liability for error, etc, in applying payments of amounts of reparation
-The Crown is not liable to any person for any error, omission, or delay in applying any payment of an amount of reparation in accordance with section 145A or section 145B.
+[Repealed]
 
 ### 145D Definitions for sections 145A to 145C
-In sections 145A to 145C,—
-  - **amount of reparation** means—
-    (a) any amount that is required to be paid under a sentence of reparation; or
-    (b) any amount that is required to be paid under any order of reparation
-  - **order of reparation** means—
-    (a) an order made under section 106, section 108, or section 110; or
-    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)(b) of the Children, Young Persons, and Their Families Act 1989; or
-    (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
-    (d) an order that—
-      (i) requires the payment of any amount as compensation or restitution to the victim of an offence against any enactment; and
-      (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of sections 145A to 145C.
+[Repealed]
 
 ### 146 Consent to treatment, etc, not affected
 (1) No sentence or condition imposed or order made under this Act limits or affects in any way any enactment or rule of law relating to consent to any medical or psychiatric treatment.
