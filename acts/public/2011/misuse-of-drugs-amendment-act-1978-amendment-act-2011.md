@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978 Amendment Act 2011
-_Consolidation as at 2011-07-22_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Misuse of Drugs Amendment Act 1978 Amendment Act 2011.
