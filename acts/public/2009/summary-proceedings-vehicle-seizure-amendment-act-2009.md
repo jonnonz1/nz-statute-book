@@ -1,5 +1,5 @@
 # Summary Proceedings (Vehicle Seizure) Amendment Act 2009
-_Consolidation as at 2009-10-27_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Summary Proceedings (Vehicle Seizure) Amendment Act 2009.
@@ -254,5 +254,4 @@ In the period commencing on the commencement of this Act and ending immediately 
   (c) the reference in section 100M(4) of the principal Act (as inserted by this Act) to the Land Transport Act 1998 is taken to be a reference to the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
 
 ### 10 Transitional provisions relating to pre-commencement fines and warrants
-(1) The principal Act as amended by sections 5 to 8 of this Act applies to the enforcement of any fine whether adjudged, ordered, or deemed to be ordered, to be paid before or after the commencement of this Act.
-(2) Despite subsection (1), any motor vehicle seized under a warrant issued, before the commencement of this Act, under section 83(2)(a), 87(1)(a), or 88(3)(a) of the principal Act must be dealt with as if this Act (other than this subsection) had not been enacted.
+[Repealed]
