@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-02-13_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -589,43 +589,21 @@ Where, in any case to which section 38 or section 39 of this Act applies, it app
 
 **Enforcement of fines**
 
-### 43 Enforcement of fines imposed in High Court
-(1) Where the Court sentences an offender on conviction on indictment of a drug dealing offence to pay a fine and that fine is not paid within 14 days thereafter, or within such further time as may be allowed or fixed for the payment thereof, the following provisions shall apply:
-  (a) The Registrar shall inquire into the means of the offender, and shall—to enable the offender to be orally examined as to his means:
-    (i) Where the offender is detained in a prison, issue a warrant to produce the offender; or
-    (ii) Issue a summons requiring the offender, unless he sooner pays the amount outstanding under the conviction, to appear at the time and place appointed in the summons; or
-    (iii) If in the opinion of the Registrar a warrant is necessary to compel the attendance of the defendant, issue a warrant to arrest him and bring him before the Court—
-  (b)
-  (c) In addition to the powers conferred on the Registrar by this section, the Registrar may issue a warrant for the production of any prisoner (other than the offender) of a prison whom he believes may be able to furnish him with any relevant information:
-  (d) On completion of his inquiry, the Registrar shall make a report as to the offender's means, so far as he has been able to ascertain them, to the Judge who imposed the fine or, if that Judge is unable to act, any other Judge:
-  (e) The Judge to whom a report is made under paragraph (d) of this section shall consider the report, and may make such order as he thinks fit, including an order—
-    (i) For the remission of either the whole or part of the fine; or
-    (ii) For the issue of a writ of sale; or
-    (iii) For the immediate imprisonment of the offender; or
-    (iv) Allowing time for payment or allowing payment by instalments:
-  (f) For the purposes of sections 19E and 19F of the Crimes Act 1961, any order made by a Judge under paragraph (e) of this section shall be deemed to have been made under section 19D of that Act:
-  (g) Any money or assets treated as the offender's pursuant to section 42 of this Act shall be deemed to be property of the offender and amenable as such to any order of the Judge under paragraph (e) of this section.
-(2) In this section and section 46, Registrar—
-  (a) means any Registrar of the High Court or of the District Court; and
+### 43 Enforcement of fines
+(1) If the Court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
+(2) The Court or the Registrar may make any orders as are appropriate under any of the provisions specified in subsection (1) in respect of any money or assets that are treated as belonging to the offender under section 42 (which are deemed to be the offender's property for the purposes of this subsection).
+(3) In subsection (2), Registrar—
+  (a) means any Registrar of the High Court or a District Court; and
   (b) includes any Deputy Registrar.
 
 ### 44 Enforcement of fines imposed in District Court
-Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine the following provisions shall apply:
-  (a) Part 3 of the Summary Proceedings Act 1957 (with any necessary modifications):
-  (b) In addition to the powers conferred on the Registrar by Part 3 of the Summary Proceedings Act 1957, the Registrar may issue a warrant for the production of any prisoner (other than the offender) of a prison whom he believes may be able to furnish him with any relevant information:
-  (c) Any money or assets treated as the offender's pursuant to section 42 of this Act shall be deemed to be the property of the offender and amenable as such to any order of the Court or the Registrar under any of the provisions of Part 3 of the Summary Proceedings Act 1957.
+[Repealed]
 
 ### 45 Fine imposed in District Court may be enforced in High Court
 Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that Court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that Court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
 
 ### 46 Garnishee proceedings
-(1) For the purpose of enforcing the payment of any fine imposed by any Court on conviction of an offender of a drug dealing offence, a sum that stands to the credit of the offender with any person (including a bank or savings bank) and that is on deposit with that person or is held by him in a current or other account (including a deposit account) shall be deemed to be a sum due or accruing to the Registrar enforcing the fine and shall be attachable accordingly, notwithstanding that any of the following conditions applicable to the deposit or account, that is to say—has not been satisfied.
-  (a) Any condition that notice is required before any money is withdrawn:
-  (b) Any condition that a demand for payment must be made:
-  (c) Any condition that a personal application must be made before any money is withdrawn:
-  (d) Any other condition (other than a condition that a deposit book, receipt for money deposited, or other like document must be produced before any money is withdrawn)—
-(2) In exercising his powers under section 43 of this Act or sections 19 to 19E of the Crimes Act 1961 or, as the case may require, under Part 3 of the Summary Proceedings Act 1957, the Registrar may require any person who has in his possession or knows the whereabouts of any deposit book, receipt for money deposited, or other like document relating to the deposit or account of the offender to deliver that book, receipt, or document to the Court or to disclose its whereabouts to the Court, as the case may require; and for that purpose the Registrar may summon any such person to appear before him at such time and place as he may specify, or issue a warrant for the arrest of that person so that he may be brought before the Registrar.
-(3) In this section the term savings bank includes the Post Office Savings Bank, a trustee savings bank established under the Trustee Savings Banks Act 1948, and a private savings bank established under the Private Savings Banks Act 1964.
+[Repealed]
 
 **Parole**
 
