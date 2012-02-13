@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2012-02-13_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -536,7 +536,7 @@ Every person exercising or performing a function, duty or power under this Act m
 (4) The powers of the Appeal Authority shall not be affected by any vacancy in its membership.
 
 ### 12D Special Appeal Authorities
-(1) In addition to the Appeal Authority established by section 12A, there may from time to time be established in accordance with this section one or more Special Authorities each of which shall be known as a Special Social Security Appeal Authority.
+(1) In addition to the Appeal Authority established by section 12A, there may from time to time be established in accordance with this section 1 or more Special Authorities each of which shall be known as a Special Social Security Appeal Authority.
 (2) Every Special Social Security Appeal Authority shall consist of 3 persons appointed by the Governor-General on the recommendation of the Minister given after consultation with the Minister of Justice, and those members shall hold office during the pleasure of the Governor-General.
 (3) One of the members shall be appointed as Chairman of the Authority.
 (4) Any member of a Special Social Security Appeal Authority may from time to time be reappointed, or may at any time resign his office by written notice to the Minister.
@@ -618,7 +618,7 @@ If the Appeal Authority requests an appellant to appear before it and the appell
 (2) Notwithstanding anything in subsection (1), on any appeal against a decision or determination of the chief executive, the Authority may rehear the whole or any part of the evidence, and shall rehear the evidence of any witness if the Authority has reason to believe that any note of the evidence of that witness made by the chief executive is or may be incomplete in any material particular.
 (3) The Authority shall have full discretionary power to hear and receive evidence or further evidence on questions of fact, either by oral evidence or by affidavit.
 (4) The Authority shall also have regard to any report lodged by the chief executive under section 12K and to any matters referred to therein and to any evidence tendered thereon, whether or not such matters would be otherwise admissible in evidence.
-(5) In the exercise of its powers under this section the Authority may receive as evidence any statement, document, information, or matter which in the opinion of the Authority may assist it to deal with the matters before it, whether or not the same would be admissible in a Court of Law.
+(5) In the exercise of its powers under this section the Authority may receive as evidence any statement, document, information, or matter which in the opinion of the Authority may assist it to deal with the matters before it, whether or not the same would be admissible in a court of law.
 (6) The Authority shall, within the scope of its jurisdiction, be deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908, and subject to the provisions of this Act, all the provisions of the Act, except sections 2, 10, 11, and 12, shall apply accordingly.
 (7) Subject to subsection (2) of section 12I, in the determination of any appeal the Authority may confirm, modify, or reverse the decision or determination appealed against.
 (8) Notwithstanding the provisions of subsection (7) , the Authority may refer to the chief executive for further consideration, the whole or any part of the matter to which an appeal relates, and where any matter is so referred the Authority shall advise the chief executive of its reasons for so doing and shall give such directions as it thinks just as to the rehearing or reconsideration or otherwise of the whole or any part of the matter that is so referred.
@@ -692,9 +692,9 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
 
 ### 21 Widows' benefits
 (1) Subject to the provisions of this Act,—shall be entitled to receive a widow's benefit under this Act.
-  (a) every widow who is the mother of one or more dependent children; and
+  (a) every widow who is the mother of 1 or more dependent children; and
   (b) every widow (not being a widow to whom paragraph (a) applies) who satisfies the following conditions, namely:
-    (i) that she has had one or more children; and
+    (i) that she has had 1 or more children; and
     (ii) that the duration of her marriage (or, if she was married more than once, the aggregate of the periods of the duration of her marriages) was not less than 15 years, or, in the alternative, that the aggregate of the periods of the duration of her marriage or marriages and any subsequent period during which she had the care and control of at least one of her children under 16 years of age was not less than 15 years; and
   (c) every widow who, on the expiration of not less than 5 years after the date of her marriage, became a widow after she had attained the age of 50 years; and
   (d) every widow (not being a widow to whom paragraph (c) applies) who satisfies all of the following conditions, namely:
@@ -796,11 +796,11 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (a) the parent already receiving a domestic purposes benefit in respect of any of the children; or
   (b) the parent whom the chief executive considers was the principal caregiver in respect of the children immediately before the parents began living apart, if no parent is already receiving a domestic purposes benefit in respect of any of the children; or
   (c) the parent who is the principal caregiver in respect of the youngest child, if neither parent was the principal caregiver in respect of the children before they began living apart, or the chief executive is unable to ascertain which parent was the principal caregiver in respect of the children immediately before they began living apart.
-(3) This section shall not apply where each parent has become the principal caregiver in respect of at least 1 child under 1 or more orders made by a Court of competent jurisdiction, and about the role of providing day-to-day care for children.
+(3) This section shall not apply where each parent has become the principal caregiver in respect of at least 1 child under 1 or more orders made by a court of competent jurisdiction, and about the role of providing day-to-day care for children.
 (4) This section shall apply only to a person who applies for a domestic purposes benefit on or after 1 October 1991, or where the Department was not notified before 1 October 1991 that each parent was the principal caregiver in respect of 1 or more of the children.
 (5) In this section, child means a dependent child of the parents—
   (a) born of their relationship; or
-  (b) adopted by the parents or by 1 of the parents during their marriage or civil union or de facto relationship.
+  (b) adopted by the parents or by one of the parents during their marriage or civil union or de facto relationship.
 
 ### 27C Domestic purposes benefits for women alone
 (1) In this section—
@@ -1285,7 +1285,7 @@ From the time that payment of the sickness benefit commences, the spouse or part
   (a) is 16 years or 17 years; and
   (b) is without a dependent child or dependent children; and
   (c) meets the residential requirements in section 74AA; and
-  (d) is in 1 of the situations described in subsections (3) to (6).
+  (d) is in one of the situations described in subsections (3) to (6).
 (3) The first situation is that the person—
   (a) is unemployed (other than because of a strike either by the person or by fellow members of the same union at the same place of employment); and
   (b) is capable of undertaking suitable employment and is willing to do so; and
@@ -1401,7 +1401,7 @@ The chief executive must take reasonable and appropriate steps to make every per
 (6) If this section applies because of misconduct—
   (a) the chief executive may, in his or her discretion, decide not to apply subsection (4) of this section to the person; or
   (b) the chief executive may pay the benefit, or the benefit without the reduction, on the condition that the person will repay the amount to which he or she would not be entitled but for this paragraph, if—
-    (i) a Court, person, or body authorised by law to determine the matter determines the misconduct to be proved; and
+    (i) a court, person, or body authorised by law to determine the matter determines the misconduct to be proved; and
     (ii) the chief executive, in his or her discretion, so directs.
 (7) Any amount that the chief executive directs to be repayable under subsection (6)(b) may be recovered from the person under section 86(1).
 
@@ -1672,7 +1672,7 @@ In respect of any period in which a benefit is payable, any officer of the depar
   (a) the chief executive shall, for the purposes of the Family Proceedings Act 1980 or any other enactment, be deemed to be the person to whom and for whose benefit the money is payable pursuant to the maintenance order, and may take any proceedings accordingly:
   (b) all money received under the maintenance order shall, without any further authority, be paid into the Crown Bank Account:
   (c) either the beneficiary or the chief executive or any officer of the Department, acting for and on behalf of the beneficiary, may institute and prosecute proceedings under Part 7 of the Family Proceedings Act 1980 (as preserved by section 259(1) of the Child Support Act 1991) for the enforcement of the maintenance order.
-(3) While any maintenance debt remains payable, the chief executive shall be served with all proceedings instituted under the Family Proceedings Act 1980 in relation to the maintenance order, by the delivery of a true copy of all documents filed in the proceedings to the relevant office of the Department nearest to the Court in which the proceedings are filed. The chief executive or any officer of the Department shall, without special appointment, be entitled to appear and be heard in those proceedings.
+(3) While any maintenance debt remains payable, the chief executive shall be served with all proceedings instituted under the Family Proceedings Act 1980 in relation to the maintenance order, by the delivery of a true copy of all documents filed in the proceedings to the relevant office of the Department nearest to the court in which the proceedings are filed. The chief executive or any officer of the Department shall, without special appointment, be entitled to appear and be heard in those proceedings.
 
 **Epidemics**
 
@@ -3384,10 +3384,11 @@ There shall from time to time be paid out of the Crown Bank Account out of money
     (a) a lump sum payable under section 61DB or section 61DC or section 61DD:
     (b) any special assistance granted out of the Crown Bank Account from money appropriated by Parliament under section 124(1)(d):
   - **fine** means—
-    (a) a fine within the meaning of Part 3 of the Summary Proceedings Act 1957, or an amount of reparation as defined in section 145D of the Sentencing Act 2002:
-    (ab) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies:
-    (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies.
-    (c) a levy payable under section 105B of the Sentencing Act 2002.
+    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
+    (b) a fine to which section 19 of the Crimes Act 1961 applies:
+    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
+    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002.
 (2) The purpose of this section is to facilitate the disclosure of information by the department to the Ministry of Justice for the purpose of enabling the Ministry of Justice to locate any beneficiary who is in default in the payment of any fine.
 (3) For the purpose of this section, the chief executive of the Ministry of Justice may from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, request the chief executive of the latter department to supply, from information kept by that department, the last known address and telephone number of any beneficiary.
 (3A) For each item of information to be supplied under subsection (3), the chief executive of the department must include the date when the information was most recently updated.
@@ -3416,7 +3417,7 @@ Nothing in—to anything done, before 31 December 2001, which—
 Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
   (a) any benefit under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001; or
   (b) any exemption from any obligation under this Act; or
-  (c) any payment from the Crown Bank Account in accordance with this Act; or
+  (c) any payment from a Crown Bank Account in accordance with this Act; or
   (d) any entitlement card issued under regulations made pursuant to section 132A; or
   (e) a more favourable means assessment under section 69FA than he or she would otherwise have been entitled to; or
   (f) a more favourable means assessment under Part 4 than he or she would otherwise have been entitled to—
@@ -3932,18 +3933,18 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
-| 1. | (a) | In respect of a child aged 14 years or over | $195.96 a week |
+| 1 | (a) | In respect of a child aged 14 years or over | $195.96 a week |
 | --- | --- | --- | --- |
 |  | (b) | In respect of a child aged over 10 years and under 14 years | $179.25 a week |
 |  | (c) | In respect of a child aged over 5 years and under 10 years | $162.43 a week |
 |  | (d) | In respect of a child aged under 5 years | $139.97 a week |
-| 2. |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
+| 2 |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of invalids' benefits
 
-| 1. | (a) | To a single beneficiary under the age of 18 years without dependent children | $203.71 a week, subject to Income Test 1. |
+| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $203.71 a week, subject to Income Test 1. |
 | --- | --- | --- | --- |
 |  | (b) | To any other single beneficiary without dependent children | $251.73 a week, subject to Income Test 1. |
 |  | (c) | To a single beneficiary with 1 or more dependent children | $330.70 a week subject to Income Test 1 |
@@ -3954,7 +3955,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 | Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall— |  |  |  |
 | (a) |  | Disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 | (b) |  | Disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2. |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $339.78 a week, increased by $41.95 a week if the beneficiary is a single person. |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $339.78 a week, increased by $41.95 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -3962,7 +3963,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1. | (aa) | To a single beneficiary under the age of 20 who is— |  | $134.26 a week, subject to Income Test 3. |
+| 1 | (aa) | To a single beneficiary under the age of 20 who is— |  | $134.26 a week, subject to Income Test 3. |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | Living with a parent (as that term is defined in section 3(1)); and |  |
 |  |  | (ii) | Whose benefit commenced on or after 1 July 1998. |  |
@@ -3976,10 +3977,10 @@ A person who has been means assessed as to assets may apply for a loan under the
 |  | (h) |  |  |  |
 |  | (i) |  |  |  |
 |  | (j) |  |  |  |
-| 2. |  | Maximum increase in respect of a housekeeper |  | $167.83 a week. |
-| 3. |  |  |  |  |
-| 4. |  |  |  |  |
-| 5. |  | Special rate of benefit for persons to whom section 99(4) applies |  | $167.83 a week, subject to Income Test 4 |
+| 2 |  | Maximum increase in respect of a housekeeper |  | $167.83 a week. |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  | Special rate of benefit for persons to whom section 99(4) applies |  | $167.83 a week, subject to Income Test 4 |
 
 ## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16, invalids', widows', domestic purposes, and sickness benefits only)
 
