@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2011-10-20_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -3493,17 +3493,16 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
 (4) In this section and section 296, unless the context otherwise requires,—
+  - **amount of reparation** has the same meaning as in section 79 of the Summary Proceedings Act 1957
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to supply information to or receive information from the chief executive of the Department in accordance with this section
   - **fine** means—
-    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957 or an amount of reparation:
-    (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies:
-    (c) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) any levy payable under the Sentencing Act 2002
+    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
+    (b) a fine to which section 19 of the Crimes Act 1961 applies:
+    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
+    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole or any part of any fine
   - **identifying information** means personal information that identifies an individual, which may include the individual’s passport number
-  - **reparation** means—
-    (a) any amount that is required to be paid under a sentence of reparation; or
-    (b) any amount that is required to be paid under any order of reparation as defined in section 145D of the Sentencing Act 2002
   - **serious default** , in relation to a person, means that—
     (a) the person owes—
       (i) an amount of $1,000 (or any other lesser amount that may be fixed by the Governor-General by Order in Council) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
