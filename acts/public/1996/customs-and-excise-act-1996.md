@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2012-01-02_
+_Consolidation as at 2012-02-13_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -3690,20 +3690,19 @@ In section 280B, unless the context otherwise requires,—
 
 ### 280C Interpretation
 In sections 280D and 280E, unless the context otherwise requires,—
+  - **amount of reparation** has the same meaning as in section 79 of the Summary Proceedings Act 1957
   - **authorised officer** —
     (a) means any officer, employee, or agent of the Department who is authorised by the chief executive of the Department to supply information to, or receive information from, the chief executive of the Customs under sections 280D; and
     (b) includes a constable
   - **Department** means the Ministry of Justice or other department of State that, with the authority of the Prime Minister, is for the time being responsible for the enforcement of fines
   - **fine** means—
-    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957 or an amount of reparation:
-    (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies:
-    (c) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a levy payable under section 105B of the Sentencing Act 2002
+    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
+    (b) a fine to which section 19 of the Crimes Act 1961 applies:
+    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
+    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
   - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
-  - **reparation** means—
-    (a) any amount that is required to be paid under a sentence of reparation; or
-    (b) any amount that is required to be paid under any order of reparation as defined in section 145D of the Sentencing Act 2002
   - **serious default** , in relation to a person, means that—
     (a) the person owes—
       (i) an amount of $1,000 (or any other amount that may be fixed by the Governor-General by Order in Council) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
@@ -3749,7 +3748,9 @@ In sections 280D and 280E, unless the context otherwise requires,—
   (a) may be given in any form and by any method agreed upon by the chief executive of the Department (as that term is defined in section 280C), the chief executive of the Customs, and the chief executive of the Department of Labour; and
   (b) may, in whole or in part, be in the form of a code representing the information.
 (3) In this section,—
-  - **fine** means a fine within the meaning of that term in section 280C, other than a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under section 21(5), (5A), or (9) of the Summary Proceedings Act 1957
+  - **fine** means a fine within the meaning of that term in section 280C, other than—
+    (a) a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under section 21(5), (5A), or (9) of the Summary Proceedings Act 1957; or
+    (b) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **specified fines defaulter** means a person—
     (a) who owes—
       (i) an amount of $5,000 (or any other amount that may be fixed by the Governor-General by Order in Council) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
