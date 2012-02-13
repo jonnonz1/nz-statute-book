@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2012-02-13_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -447,7 +447,7 @@ The outcomes mentioned in section 34(2)(b) are as follows:
 (3) If subsection (2) applies to an action,—
   (a) the Court trying it must enter a verdict for the Police employee concerned; and
   (b) the employee may recover his or her costs.
-(4) In this section, court process includes a computer printout to which section 88 or 93 of the Summary Proceedings Act 1957 applies.
+(4) In this section, court process includes a computer printout to which section 88AA or 98 of the Summary Proceedings Act 1957 applies.
 
 ### 45 Police employee may appear in Court by another employee
 A Police employee who is to appear (otherwise than as a witness) in the execution of his or her duty may appear by another Police employee in any proceedings—
