@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-02-13_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3349,10 +3349,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   - **chief executive** means the chief executive of the Ministry of Justice
   - **fines defaulter** means any person who is in default in the payment of—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
-    (b) an amount of reparation as defined in section 145D of the Sentencing Act 2002:
-    (c) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies:
-    (d) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies:
-    (e) a levy payable under section 105B of the Sentencing Act 2002
+    (b) a fine to which section 19 of the Crimes Act 1961 applies:
+    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
+    (d) a fine to which section 28I of the District Courts Act 1947 applies:
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines defaulter information** —
     (a) means information that identifies a fines defaulter; and
     (b) includes—
@@ -3406,7 +3406,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (3) In this section,—
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Accident Compensation Act 2001
   - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Accident Compensation Act 2001
-  - **earnings as an employee, employer, private domestic worker** , and have the meanings given to them by section 6 of the Accident Compensation Act 2001.
+  - **earnings as an employee, employer, private domestic worker,** and have the meanings given to them by section 6 of the Accident Compensation Act 2001.
 
 ### 85F Disclosure of information for verification of government screen production payment entitlement
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the Commission for the purpose of providing to the Commission information which the chief executive considers necessary to enable the Commission to determine the entitlement of a company to a government screen production payment.
@@ -8061,28 +8061,6 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies—
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
-
-### 1 Title
-This Act is the Tax Administration Amendment Act 2011.
-
-### 2 Commencement
-(1) This Act (except section 4(7)) comes into force on the day after the date on which it receives the Royal assent.
-(2) Section 4(7) comes into force on the earlier of—
-  (a) a date appointed by the Governor-General by Order in Council; and
-  (b) the expiry of the period of 15 months that starts on the date on which this Act receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Tax Administration Act 1994.
-
-### 4 Disclosure of certain information in relation to fines defaulters
-((1)–(6)) Amendment(s) incorporated in the Act(s).
-(7) Section 85A(6) is amended by repealing the definition of fines defaulter and substituting the following definition:
-  - **fines defaulter** means any person who is in default in the payment of—
-    (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957:
-    (b) a fine to which section 19 of the Crimes Act 1961 applies:
-    (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
-    (d) a fine to which section 28I of the District Courts Act 1947 applies:
-    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
 
 ### 1 Title
 This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
