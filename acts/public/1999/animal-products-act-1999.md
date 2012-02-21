@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-02-21_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2021,7 +2021,7 @@ A person who is required by or under section 159 to keep records or any other in
     (vi) the Food Act 1981:
     (vii) the Medicines Act 1981:
     (viii) the Biosecurity Act 1993:
-    (viiia) the Animal Identification Act 1993:
+    (viiia) the National Animal Identification and Tracing Act 2012:
     (viiib) the Hazardous Substances and New Organisms Act 1996:
     (ix) the Fisheries Act 1996 or the Fisheries Act 1983:
     (x) the Customs and Excise Act 1996:
