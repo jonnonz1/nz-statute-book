@@ -1,5 +1,5 @@
 # Animal Identification Act 1993
-_Consolidation as at 1999-05-07_
+_Consolidation as at 2012-02-21_
 
 > An Act to facilitate the identification of animals, with the object of providing evidence of ownership of animals
 
