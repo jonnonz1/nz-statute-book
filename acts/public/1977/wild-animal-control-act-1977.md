@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-02-21_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -65,7 +65,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
       (ii) any chamois, thar, wallaby, or possum (Trichosurus vulpecula):
       (iii) any goat that is not—
         (A) held behind effective fences or otherwise constrained; and
-        (B) identified in accordance with an identification system registered under section 3 of the Animal Identification Act 1993 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act:
+        (B) identified in accordance with an animal identification device approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act:
       (iv) any pig that is living in a wild state and is not being herded or handled as a domestic animal or kept within an effective fence or enclosure for farming purposes:
       (v) any member of any species or class of land mammals that the Governor-General may from time to time, by Order in Council, declare to be wild animals for the purposes of this Act; and
     (b) includes the whole or any part of the carcass of any such animal:
@@ -172,7 +172,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (b) killed by a person who hunts or kills a wild animal on the land with the consent of the owner or occupier; or
   (c) hunted or killed by the owner or occupier by lawful means; or
   (d) identified in accordance with an identification system—
-    (i) registered under section 3 of the Animal Identification Act 1993; or
+    (i) approved under the National Animal Identification and Tracing Act 2012; or
     (ii) approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
 (3) The taking or killing of any wild animal shall be deemed to be unlawful where any person takes or kills the animal—
   (a) while he is on any land without the express authority of the owner or occupier or authority in control of the land, or in any case where, while recovering any animal or the carcass thereof, he lands on or enters upon any land without the express authority of the owner or occupier or authority in control of the land; or
@@ -203,7 +203,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (a) any wild animal for the purpose of farming, or for the purpose of sale or breeding for such farming; or
   (b) any wild animal for the purposes of any zoo within the meaning of the Zoological Gardens Regulations 1977; or
   (c) any wild animal for the purposes of operating a safari park.
-(2) Notwithstanding anything to the contrary in this section, any person may muster, herd, drive, capture, or convey any wild goat without a permit where the purpose of the mustering, herding, driving, capturing, or conveying of the animal is the immediate slaughter thereof, or the branding thereof as provided for pursuant to section 3 of the Animal Identification Act 1993.
+(2) Notwithstanding anything to the contrary in this section, any person may muster, herd, drive, capture, or convey any wild goat without a permit where the purpose of the mustering, herding, driving, capturing, or conveying of the animal is the immediate slaughter thereof, or the identification of it under the National Animal Identification and Tracing Act 2012.
 (3) For the purposes of subsection (1), the following permits and licences shall be effective in relation to any specified wild animal:
   (a) every permit or licence that authorises the capture or conveyance of the animal, or the keeping of the animal in captivity, being a permit or licence that is issued by the Director-General:
   (b) every permit or licence that authorises the keeping of the animal for farming purposes, and is issued by the responsible chief executive, with the concurrence of the Director-General, under regulations made under section 107 of the Animals Act 1967:
@@ -259,7 +259,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (b) the species of deer proposed to be kept on the land:
   (c) such other particulars as the Director-General may specify in writing.
 (7) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, an acknowledgment in writing given by the Director-General under subsection (5) shall be deemed to be a permit issued under section 12(3)(a).
-(8) Any deer that—shall remain the property of the owner if that deer is identified in accordance with an identification system registered under section 3 of the Animal Identification Act 1993 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
+(8) Any deer that—shall remain the property of the owner if that deer is identified in accordance with an identification system approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
   (a) escapes from its enclosure; or
   (b) strays while being lawfully captured, conveyed, or held in captivity, for the purposes of farming,—
 (9) Notwithstanding subsection (8), the following provisions apply in relation to any deer on Crown-owned land:
@@ -276,7 +276,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (1B) A permit must not be issued under subsection (1) unless the Director-General is satisfied that the requirements of sections 12 and 12A have been complied with.
 (2) For the purposes of section 9(2) and of subsections (9) to (11) of section 12, a permit issued under subsection (1) shall be deemed to be a permit issued under section 12(3)(a).
 (3) The Minister may from time to time, by notice in the Gazette, specify those areas or places in which safari parks are prohibited.
-(4) Any animal that escapes from its enclosure and strays while being lawfully captured, conveyed, or held in captivity for the purposes of a safari park shall remain the property of the owner if that animal is identified in accordance with an identification system registered under section 3 of the Animal Identification Act 1993 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
+(4) Any animal that escapes from its enclosure and strays while being lawfully captured, conveyed, or held in captivity for the purposes of a safari park shall remain the property of the owner if that animal is identified in accordance with an identification system approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act.
 (5) Notwithstanding subsection (4), the following provisions apply in relation to any animal that has escaped from a safari park and is on Crown-owned land:
   (a) any person acting in the course of his or her duties as an employee of the Department, and any other person acting pursuant to a special or general authority conferred for the purpose by the Director-General, may hunt and kill the animal and dispose of the animal:
   (b) no person is required to notify the owner of the animal that it has been killed or disposed of:
