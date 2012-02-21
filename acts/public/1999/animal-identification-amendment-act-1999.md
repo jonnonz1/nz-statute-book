@@ -1,5 +1,5 @@
 # Animal Identification Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-02-21_
 
 > An Act to amend the Animal Identification Act 1993
 
