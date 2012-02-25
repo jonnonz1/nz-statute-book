@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -19,7 +19,6 @@ In this Act, unless the context requires otherwise,—
   - **capital contribution** has the meaning given to it in section 37(1)
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Court** means the High Court
-  - **Deputy Registrar** means a Deputy Registrar of Companies holding office under the Companies Act 1993
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, and includes—
       (i) a label, marking, or other writing which identifies or describes a thing of which it forms part, or to which it is attached:
@@ -41,7 +40,7 @@ In this Act, unless the context requires otherwise,—
         (A) the limited partnership's or overseas limited partnership's place of business; or
         (B) if the limited partnership or overseas limited partnership has more than 1 place of business, its principal place of business; or
         (C) in the case of a limited partnership that has no place of business or neither its place of business nor its principal place of business is known, its registered office
-  - **Registrar** means the Registrar of Companies
+  - **Registrar** means the Registrar of Companies holding office under the Companies Act 1993 and includes a Deputy Registrar acting in accordance with section 357(2) of that Act
   - **resolution of the limited partnership** means, unless the partnership agreement provides otherwise, a resolution passed or signed by partners having contributed at least 75% of the capital contributions of all the partners.
 
 ### 5 Act binds the Crown
@@ -613,7 +612,7 @@ Any document may be served on a limited partnership by—
   (b) the chief executive; or
   (c) any person authorised by the Registrar to receive the document, information, or report for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (d) a liquidator for the purposes of the liquidation of a limited partnership.
-(2) A person authorised by the Registrar for the purposes of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar or a Deputy Registrar when directed to do so by any person holding either of those offices.
+(2) A person authorised by the Registrar for the purposes of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
 (3) A person authorised by the Registrar for the purposes of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except—
   (a) in accordance with subsection (1) or (2); or
   (b) subject to the approval of the Registrar, with the consent of the person to whom it relates; or
