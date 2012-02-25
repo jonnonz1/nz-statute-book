@@ -1,5 +1,5 @@
 # Sugar Loaf Islands Marine Protected Area Act 1991
-_Consolidation as at 1996-05-02_
+_Consolidation as at 2012-02-25_
 
 > An Act to provide for the setting up and management of the Sugar Loaf Islands Marine Protected Area for the purpose of protecting that area of the sea and foreshore in its natural state as the habitat of marine life, and to provide for the enhancement of recreational activities
 
@@ -47,7 +47,7 @@ Nothing in this Act shall limit or affect—in respect of the New Plymouth Power
 
 ### 7 Protected Area to be conservation area
 (1) The Protected Area is hereby deemed to be a conservation area under the Conservation Act 1987.
-(2) Moturoa Island, Motumahanga (Saddlebank Island), Waikaranga (Seal Rocks), and Whareumu (Lion Rock) are hereby deemed to be sanctuary areas under the Conservation Act 1987; and each of those sanctuary areas shall be deemed to extend to the mean low water mark.
+(2) Moturoa Island, Motumahanga (Saddleback Island), Waikaranga (Seal Rocks), and Whareumu (Lion Rock) are hereby deemed to be sanctuary areas under the Conservation Act 1987; and each of those sanctuary areas shall be deemed to extend to the mean low water mark.
 (3) The remainder of the Protected Area (being the parts not referred to in subsection (2)) is hereby deemed to be a conservation park under the Conservation Act 1987.
 (4) No person shall enter any such sanctuary area except pursuant to a permit issued by the Director-General; and the Director-General may issue a permit subject to such conditions as he or she thinks fit.
 (5) The provisions of the Conservation Act 1987 shall, with any necessary modifications, apply to the Protected Area accordingly.
