@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -35,8 +35,8 @@ The purpose of this Act is to—
   - **officer** —
     (a) means, in relation to the trustees of a trust, any of those trustees; and
     (b) means, in relation to any other entity,—
-      (i) a member of the board or governing body of the entity if it has a board or governing body; or
-      (ii) in any other case, a person occupying a position in the entity that allows the person to exercise significant influence over the management or administration of the entity (for example, a treasurer or a chief executive); and
+      (i) a member of the board or governing body of the entity if it has a board or governing body; and
+      (ii) a person occupying a position in the entity that allows the person to exercise significant influence over the management or administration of the entity (for example, a treasurer or a chief executive); and
     (c) includes any class or classes of persons that are declared by regulations to be officers for the purposes of this Act; but
     (d) excludes any class or classes of persons that are declared by regulations not to be officers for the purposes of this Act
   - **parent entity** has the meaning set out in section 44
@@ -63,6 +63,7 @@ The purpose of this Act is to—
   (b) a marae has a charitable purpose if the physical structure of the marae is situated on land that is a Maori reservation referred to in Te Ture Whenua Maori Act 1993 (Maori Land Act 1993) and the funds of the marae are not used for a purpose other than—
     (i) the administration and maintenance of the land and of the physical structure of the marae:
     (ii) a purpose that is a charitable purpose other than under this paragraph.
+(2A) The promotion of amateur sport may be a charitable purpose if it is the means by which a charitable purpose referred to in subsection (1) is pursued.
 (3) To avoid doubt, if the purposes of a trust, society, or an institution include a non-charitable purpose (for example, advocacy) that is merely ancillary to a charitable purpose of the trust, society, or institution, the presence of that non-charitable purpose does not prevent the trustees of the trust, the society, or the institution from qualifying for registration as a charitable entity.
 (4) For the purposes of subsection (3), a non-charitable purpose is ancillary to a charitable purpose of the trust, society, or institution if the non-charitable purpose is—
   (a) ancillary, secondary, subordinate, or incidental to a charitable purpose of the trust, society, or institution; and
@@ -214,11 +215,11 @@ The name of an entity complies with this section if—
 
 ### 17 Application for registration
 (1) An application for registration of an entity as a charitable entity must be sent or delivered to the Commission and must—
-  (a) be in the prescribed form; and
-  (b) be accompanied by a document in the prescribed form, signed by, or on behalf of, every person who is an officer of the entity, that contains a certification that the person is not disqualified from being an officer of a charitable entity in relation to the entity under section 16; and
+  (a) be in the form prescribed by the Commission; and
+  (b) be accompanied by a document in the form prescribed by the Commission, signed by, or on behalf of, every person who is an officer of the entity, that contains a certification that the person is not disqualified from being an officer of a charitable entity in relation to the entity under section 16; and
   (c) be accompanied by a copy of the rules of the entity; and
-  (d) be accompanied by the prescribed fee for the application (if any); and
-  (e) contain, or be accompanied by, any other prescribed information or documentation.
+  (d) be accompanied by the fee prescribed by regulations for the application (if any); and
+  (e) contain, or be accompanied by, any other information or documentation prescribed by the Commission.
 (2) If a request for a waiver under section 16 has been made in relation to an officer of an entity, the document referred to in subsection (1)(b) is not required to contain a certification referred to in that paragraph in relation to that officer.
 
 ### 18 Commission to consider application
@@ -287,7 +288,7 @@ The purpose of the register is—
   (g) each annual return sent or delivered to the Commission by the entity; and
   (h) each notice of change sent or delivered under section 40; and
   (i) the terms and conditions of any exemption granted under section 43 that is in force in relation to the entity.
-(2) The register must contain any other prescribed information or documents.
+(2) The register must contain any other information or documents prescribed by regulations.
 (3) This section is subject to section 25.
 
 ### 25 Commission may allow information and documents to be omitted or removed from register and may restrict public access to information and documents
@@ -313,7 +314,7 @@ The Commission may, at any time, make any amendments to the register that are ne
   (a) the name of the charitable entity:
   (b) the registration number of the charitable entity:
   (c) the name of an officer of the charitable entity:
-  (d) any other prescribed criteria.
+  (d) any other criteria prescribed by regulations.
 
 ### 28 Search purposes
 A search of the register may be carried out only by the following persons for the following purposes:
@@ -423,12 +424,13 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (a) a change to the name of the charitable entity:
   (b) a change to the address for service of the charitable entity:
   (c) a change in the officers of the charitable entity, whether as the result of an officer ceasing to hold office or the appointment of a new officer, or both:
+  (ca) a change that disqualifies an officer of the charitable entity from being an officer of the entity:
   (d) a change in the balance date of the charitable entity:
   (e) a change to the rules of the charitable entity:
   (f) a change to the purposes of the charitable entity.
 (2) A notice under subsection (1) must—
-  (a) be in the prescribed form (if any); and
-  (b) contain, or be accompanied by, any other prescribed information or documentation; and
+  (a) be in the form prescribed by the Commission (if any); and
+  (b) contain, or be accompanied by, any other information or documentation prescribed by the Commission; and
   (c) specify the effective date of the change; and
   (d) be sent or delivered to the Commission within 3 months of the later of—
     (i) the effective date of the change; or
@@ -442,7 +444,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (a) completed in relation to the entity and that balance date; and
   (b) dated and signed on behalf of the entity; and
   (c) sent or delivered to the Commission.
-(2) The annual returns of charitable entities must be in the form, contain the particulars, and comply with the directions as to the preparation of those returns that are prescribed under section 42.
+(2) The annual returns of charitable entities must be in the form, contain the particulars, and comply with the directions as to the preparation of those returns that are prescribed by the Commission under section 42.
 (3) For the purposes of this Act,—
   (a) an entity may nominate a balance date for the entity—
     (i) in the application for registration of the entity as a charitable entity; or
@@ -457,12 +459,13 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
 (6) The Commission may approve a change of balance date with or without conditions.
 (7) Subsection (3)(b) is subject to subsections (5) and (6).
 
-### 42 Regulations concerning content of annual returns
-(1) The Governor-General may, on the recommendation of the Minister, by Order in Council, prescribe the following matters in relation to the annual returns of charitable entities:
+### 42 Commission must prescribe content of annual returns
+(1) The Commission must prescribe the following matters in relation to the annual returns of charitable entities:
   (a) the form of the returns:
   (b) the particulars to be contained in the returns:
   (c) directions to be complied with in the preparation of the returns.
-(2) The order made under subsection (1) may prescribe different requirements for different types or classes of entities.
+(2) The Commission may prescribe different requirements for different types or classes of entities.
+(3) Section 72A(2) and (5) to (7) apply to a form or requirement to be prescribed under this section.
 
 **Exemptions**
 
@@ -484,7 +487,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (b) each of the entities qualifies for registration as a charitable entity; and
   (c) it is fit and proper to treat the entities as forming part of a single entity.
 (2) In considering whether to act under subsection (1), the Commission must have regard to the extent to which the entities have similar charitable purposes.
-(3) A request made under this section must be in the prescribed form (if any).
+(3) A request made under this section must be in the form prescribed by the Commission (if any).
 
 ### 45 Parent entity may request means of compliance with duties
 (1) A parent entity, on behalf of a single entity, may request,—
@@ -494,7 +497,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (b) in relation to section 41, that the duty under that section be either—
     (i) separately complied with by each entity that forms part of the single entity; or
     (ii) complied with by the parent entity in relation to the single entity on behalf of the single entity and all of the entities that form part of the single entity.
-(2) A request made under this section must be in the prescribed form (if any).
+(2) A request made under this section must be in the form prescribed by the Commission (if any).
 (3) The Commission must have regard to a request made under this section when it is setting terms and conditions under section 46.
 
 ### 46 Commission may treat parent entity and 1 or more other entities as forming part of single entity on certain terms and conditions
@@ -748,12 +751,28 @@ Amendment(s) incorporated in the Act(s).
 
 ### Subpart 5 — Miscellaneous provisions
 
+### 72A Forms and requirements prescribed by Commission
+(1) The Commission may do 1 or more of the following things:
+  (a) prescribe forms for the purposes of this Act:
+  (b) prescribe requirements for—
+    (i) specified information or documents to be included in or attached to forms:
+    (ii) forms to be signed by specified persons:
+  (c) prescribe requirements with which documents sent or delivered for registration must comply.
+(2) The Commission may prescribe a form or requirement only for the purpose of collecting information or documentation required for the Commission to perform its functions and duties under this Act.
+(3) However, a form prescribed under this section may require information or documents to be included in or attached to the form for the purpose of assisting any person—
+  (a) in the exercise of the person's powers in connection with subpart LD of the Income Tax Act 2007; or
+  (b) in the performance of the person's functions in connection with that subpart.
+(4) Subsection (3) applies regardless of whether the information or documentation is collected for the purposes of this Act.
+(5) In order to prescribe a form or requirement, the Commission—
+  (a) must publish it on its Internet site; and
+  (b) may publish it in any other way.
+(6) In developing a form or requirement to be prescribed, the Commission must consult persons or organisations that the Commission considers to be representative of the interests of charitable entities.
+(7) A failure to comply with subsection (6) does not affect the validity of the prescribed form or requirement.
+
 ### 73 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing forms for the purposes of this Act, and prescribing—
-    (i) the inclusion in, or attachment to, forms of specified information or documents:
-    (ii) forms to be signed by specified persons:
-  (b) prescribing requirements with which documents sent or delivered for registration must comply:
+  (a)
+  (b)
   (c) prescribing fees payable to the Commission in respect of any matter under this Act or the manner in which fees may be calculated:
   (d) prescribing amounts payable to the Commission by way of penalty for the purposes of section 58 or the manner in which penalties may be calculated:
   (e) prescribing procedures, requirements, and other matters for the register of charitable entities, including matters relating to—
@@ -762,9 +781,9 @@ Amendment(s) incorporated in the Act(s).
     (iii) the location of, and hours of access to, that register:
   (f) declaring any class or classes of persons to be, or not to be, officers for the purposes of this Act:
   (g) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Without limiting subsection (1)(a), forms prescribed under this section may require the inclusion in, or attachment to, forms of information or documents for the purpose of assisting any person in the exercise of the person's powers in connection with subpart LD of the Income Tax Act 2007 or in the performance of the person's functions in connection with that section (regardless of whether or not that information or documentation is collected for the purposes of this Act).
-(3) The Commission may refuse to perform a function or exercise a power until the prescribed fee is paid.
-(4) Any Order in Council made under subsection (1) may authorise the Commission to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee or amount payable in relation to any person or class of persons.
+(2)
+(3) The Commission may refuse to perform a function or exercise a power until the fee prescribed by regulations is paid.
+(4) Any Order in Council made under subsection (1) may authorise the Commission to refund or waive, in whole or in part and on any conditions as may be prescribed by regulations, payment of any fee or amount payable in relation to any person or class of persons.
 (5) Any fee or amount payable to the Commission is recoverable by the Commission in any court of competent jurisdiction as a debt due to the Commission.
 
 ### 74 Prosecution of offences
@@ -792,3 +811,28 @@ This Act is the Income Tax Act 2007.
 (1) This Act comes into force on 1 April 2008.
 Act effective for 2008–09 income year and later
 (2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008–09 income year and later income years.
+
+### 1 Title
+This Act is the Charities Amendment Act 2012.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 16 Transitional provision for officers
+(1) This section applies if a person becomes an officer of a charitable entity because of the amendments made to the definition of officer by section 4.
+(2) The charitable entity must ensure that it sends or delivers notice of the change to the Commission.
+(3) The notice must—
+  (a) be in the form prescribed by the Commission (if any); and
+  (b) be accompanied by a document in the form prescribed by the Commission that is signed by, or on behalf of, the person who became an officer and that contains a certification that the person is not disqualified under section 16 of the principal Act from being an officer of the entity; and
+  (c) contain, or be accompanied by, any other information or documentation prescribed by the Commission; and
+  (d) specify the date of commencement of this Act as the effective date of the change; and
+  (e) be sent or delivered to the Commission together with, or as part of, the first annual return to be provided by the charitable entity under section 41 of the principal Act after the commencement of this Act.
+(4) This section overrides section 40(1)(c) of the principal Act and, until the notice is sent or delivered, section 24(1)(d) of that Act.
+(5) A term or expression that is used in this section and is defined in the principal Act has the meaning given by that Act.
+
+### 17 Transitional provision for information or documentation received
+(1) This section applies if, before the commencement of this Act, the Commission received any information or documentation that complied with the principal Act's requirements when it was received.
+(2) The Commission must deal with the information or documentation as if the principal Act had not been amended by this Act.
+
+### 18 Transitional provision for Commission prescribing form or requirement
+The Commission may satisfy the requirement for consultation under section 42(3) or 72A(6) of the principal Act even if the consultation occurs before the commencement of this Act.
