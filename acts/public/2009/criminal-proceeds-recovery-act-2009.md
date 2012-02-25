@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -87,7 +87,7 @@ This Act comes into force on 1 December 2009.
     (a) a legal or equitable estate or interest in the property; or
     (b) a right, power, or privilege in connection with the property
   - **interim foreign restraining order** means an order applied for under section 128
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** means a lawyer within the meaning of section 6 of the Lawyers and Conveyancers Act 2006
   - **Official Assignee** means the Official Assignee of New Zealand
   - **organisation** means an organisation listed in Part 2 of Schedule 1 of the Ombudsmen Act 1975
   - **profit forfeiture order** means an order made under section 55
@@ -343,9 +343,11 @@ An application for a restraining order must be made to,—
   (b) a person with an interest in the restrained property or proposed restrained property with which the further order is associated; or
   (c) the Official Assignee; or
   (d) with the leave of the court, any other person.
-(2) The application must be served on every person (other than the applicant) who is a party to the proceeding in which—
-  (a) the making of the associated restraining order is to be considered; or
-  (b) the associated restraining order was made.
+(2) The applicant for the further order must serve a copy of the application on—
+  (a) every person, or every other person (if the applicant is a party), who is a party to the proceeding in which—
+    (i) the making of the associated restraining order is to be considered; or
+    (ii) the associated restraining order was made; and
+  (b) the Official Assignee.
 (3) The following persons are entitled to appear and to adduce evidence at the hearing of an application for a further order:
   (a) the applicant:
   (b) a person with an interest in the restrained property or proposed restrained property with which the further order is associated:
@@ -804,7 +806,7 @@ If a court makes an instrument forfeiture order, the Official Assignee must, as 
 
 ### 87 Costs recoverable by Official Assignee
 (1) The Official Assignee is entitled to recover, in respect of the exercise or performance by the Official Assignee or any delegate of the Official Assignee of functions or powers under this Act in respect of property, costs as may be prescribed or provided for in regulations made under this Act, if the Official Assignee—
-  (a) takes custody and control of property under a restraining order, forfeiture order, or foreign forfeiture order registered in New Zealand; and
+  (a) takes custody and control of property under a restraining order, foreign restraining order registered in New Zealand, forfeiture order, or foreign forfeiture order registered in New Zealand; and
   (b) deals with or disposes of property under a forfeiture order, or foreign forfeiture order registered in New Zealand.
 (2) For the purposes of subsection (1), the costs that may be prescribed or provided for in regulations made under this Act include—
   (a) costs, charges, and expenses properly incurred or payable by or on behalf of the Official Assignee in connection with the exercise or performance, by the Official Assignee or any delegate of the Official Assignee, of functions or powers under this Act in respect of the property:
@@ -842,7 +844,7 @@ If a court makes an instrument forfeiture order, the Official Assignee must, as 
 ### Subpart 6 — Role of police
 
 ### 91 Interpretation
-In this subpart, unless the context otherwise requires, Commissioner includes any member of the police to whom the functions and powers of the Commissioner under this Act are delegated.
+In this subpart, unless the context otherwise requires, Commissioner includes any member of the police to whom the powers, functions, or duties of the Commissioner under this Act are delegated.
 
 **Functions of Commissioner of Police**
 
@@ -882,10 +884,10 @@ In this subpart, unless the context otherwise requires, Commissioner includes an
   (a) the purposes of this Act; and
   (b) the overall interests of justice.
 
-**Delegation of functions or powers of Commissioner of Police**
+**Delegation of powers, functions, or duties of Commissioner of Police**
 
-### 96 Delegation of functions or powers of Commissioner of Police
-The provisions of the Police Act 1958 relating to the delegation of functions or powers of the Commissioner apply in all respects to the functions and powers of the Commissioner under this Act.
+### 96 Delegation of powers, functions, or duties of Commissioner of Police
+The provisions of the Policing Act 2008 relating to the delegation of powers, functions, or duties of the Commissioner apply in all respects to the powers, functions, or duties of the Commissioner under this Act.
 
 **Outside investigators appointed by Commissioner**
 
@@ -969,8 +971,8 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 
 ### 105 Court may make production order
 (1) If an application is made under section 104, the Judge may, if satisfied that the Commissioner has reasonable grounds for applying for the order, make an order that the person—
-  (a) produce to the Commissioner or any member of the police any specified document or class of documents of the kind referred to in section 104(1) that are in the person’s possession or control while the order is in force; or
-  (b) make available to the Commissioner or any member of the police, for inspection, any specified document or class of documents of that kind that are in the person’s possession or control while the order is in force.
+  (a) produce to the Commissioner any specified document or class of documents of the kind referred to in section 104(1) that are in the person’s possession or control while the order is in force; or
+  (b) make available to the Commissioner, for inspection, any specified document or class of documents of that kind that are in the person’s possession or control while the order is in force.
 (2) Every production order must contain the following particulars:
   (a) the grounds on which the order is issued:
   (b) a description of the document or documents production of which is required:
@@ -982,6 +984,8 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
   (b) take copies of the document, or of extracts from the document:
   (c) if necessary, require the person producing the document to reproduce, or to assist any person nominated by the Commissioner to reproduce, in usable form, any information recorded or stored in the document.
 (6) If any person is required to produce any document under this section and fails to do so, the Commissioner may require that person to state to the best of his of her knowledge or belief where the document is.
+
+**Examination orders**
 
 ### 106 Application for examination order
 (1) The Commissioner may apply to a Judge for an examination order under section 107 if the Commissioner has reason to believe that a person is able—
@@ -1005,8 +1009,8 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 (3) The things referred to in subsection (1) are—
   (a) to attend before the Commissioner:
   (b) to answer questions with respect to any matter that the Commissioner has reason to believe may be relevant to the investigation or to any proceedings under this Act:
-  (c) to supply any information specified in the notice with respect to any matter that the Commissioner has reason to believe may be relevant to the investigation or to any proceedings under this Act:
-  (d) to produce for inspection any documents that are specified in the notice and that the Commissioner has reason to believe are in the person’s possession or control and may be relevant to the investigation or to any proceedings under this Act.
+  (c) to supply any information specified in the order with respect to any matter that the Commissioner has reason to believe may be relevant to the investigation or to any proceedings under this Act:
+  (d) to produce for inspection any documents that are specified in the order and that the Commissioner has reason to believe are in the person’s possession or control and may be relevant to the investigation or to any proceedings under this Act.
 (4) If any document is produced under this section, the Commissioner may do any one or more of the following things:
   (a) retain the original document produced for as long as is reasonably necessary for the purposes of this Act, provided that a copy of the document is taken and returned as soon as practicable after the document is produced:
   (b) take copies of the document, or of extracts from the document:
@@ -1095,7 +1099,7 @@ The provisions of sections 115 to 122 apply in respect of every search warrant a
 (1) Every search warrant issued must be in the prescribed form.
 (2) Every search warrant issued must be directed to,—
   (a) in the case of a warrant issued under section 101, every member of the police:
-  (b) in the case of a warrant issued under section 102 or 108, the Commissioner and every member of the police:
+  (b) in the case of a warrant issued under section 102 or 108, the Commissioner:
   (c) in the case of a warrant issued under section 110, the Official Assignee and every delegate of the Official Assignee.
 (3) A search warrant issued—
   (a) may be executed by all or any of the persons to whom it is directed:
@@ -1307,7 +1311,7 @@ If authorised to register a foreign restraining order in New Zealand under secti
 (3) If an application is granted under this section, the registration of the foreign restraining order in New Zealand ceases at the time specified in the Court’s order.
 
 ### 138 Additional matters relating to extension of registration of foreign restraining order
-(1) On making any order of the kind referred to in section 135, the High Court may vary the foreign restraining order in any way it considers fit, including, without limitation, by specifying whether all or part of the property is to remain subject to the foreign restraining order during the extended period of registration in New Zealand.
+(1) On making any order of the kind referred to in section 137, the High Court may vary the foreign restraining order in any way it considers fit, including, without limitation, by specifying whether all or part of the property is to remain subject to the foreign restraining order during the extended period of registration in New Zealand.
 (2) An applicant for an order under subsection (1) must serve a copy of the application on any person who, to the knowledge of the applicant, has an interest in the property that is the subject of the application.
 
 ### 139 Exclusion of interest from foreign restraining order registered in New Zealand
@@ -1482,7 +1486,7 @@ Nothing in this Act limits or restricts the operation of any other enactment pro
 ### 159 Duties as to confidentiality generally overridden
 (1) Sections 105 and 107 override every enactment or rule of law that obliges any person to maintain secrecy in relation to, or not to disclose, any matter.
 (2) Compliance by any person with any of sections 105 and 107 is not a breach of any relevant obligation of secrecy or non-disclosure or of the enactment or rule of law by which the obligation is imposed.
-(3) This section is subject to sections 160 and 162.
+(3) This section is subject to sections 160 to 162.
 
 ### 160 Legal professional privilege
 (1) Nothing in sections 105 and 107 requires any lawyer to disclose any privileged communication.
@@ -1494,11 +1498,11 @@ Nothing in this Act limits or restricts the operation of any other enactment pro
   (b) it is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
 (4) If the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the lawyer in connection with—
-  (a) a trust account of the lawyer within the meaning of section 2 of the Law Practitioners Act 1982; or
+  (a) a trust account of the lawyer within the meaning of section 6 of the Lawyers and Conveyancers Act 2006; or
   (b) the operation of a financial institution within the meaning of section 3 of the Financial Transactions Reporting Act 1996.
 (5) If any person refuses to disclose any information or document on the ground that it is a privileged communication under this section, the Commissioner or that person may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid.
 (6) For the purposes of determining any application under subsection (5), the District Court Judge may require the information or document to be produced to him or her.
-(7) For the purposes of this section, the term lawyer means a barrister or solicitor of the High Court, and references to a lawyer include a firm in which he or she is a partner or is held out to be a partner.
+(7) For the purposes of this section, references to a lawyer include a firm in which he or she is a partner or is held out to be a partner.
 
 ### 161 Privilege in relation to tax advice
 (1) Nothing in sections 105 and 107 requires a tax advisor to disclose a tax advice document.
@@ -1772,7 +1776,7 @@ Section 47(4) is amended by omitting Proceeds of Crime Act 1991 and substituting
 Section 207 amends the Judicature Act 1908.
 
 ### 207 Application of Part 4A
-Rule 458D(1)(a)(xvii) of Schedule 2 is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Rule 19.2(r) of Schedule 2 is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 **Amendments to Legal Services Act 2000**
 
