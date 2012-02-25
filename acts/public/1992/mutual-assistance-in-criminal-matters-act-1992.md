@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2011-08-17_
+_Consolidation as at 2012-02-25_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -671,7 +671,7 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
   (a) that the order has, since being registered in New Zealand, ceased to have effect in the foreign country in which it was made; or
   (b) that cancelling the order is appropriate having regard to arrangements entered into between New Zealand and the foreign country in relation to the enforcing of orders of that kind; or
   (c) that the registration of the order in New Zealand contravened section 56; or
-  (d) that, in the case of a foreign restraining order registered in New Zealand, 1 year has passed since the foreign country made the order; or
+  (d)
   (e) that, after consultation with the foreign country where the order was made, it is desirable that the registration of the foreign order be cancelled; or
   (f) that the foreign order has been discharged, wholly or in part.
 (3) The High Court must cancel the registration of a foreign order in New Zealand if the Commissioner applies, under a direction under subsection (1), to the High Court to cancel the registration.
