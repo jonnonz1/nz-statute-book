@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-02-25_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -59,7 +59,7 @@ The Corporation shall not be an instrument of the Executive Government of New Ze
 
 ### 4 New Zealand Railways Corporation
 (1) There shall be a Corporation to be called the New Zealand Railways Corporation, which shall be an instrument of the Executive Government of New Zealand.
-(2) The Corporation shall consist of not more than 7 directors appointed by the Minister.
+(2) The Corporation shall consist of not more than 9 directors appointed by the Minister.
 (3) The Minister shall appoint one of the directors to be chairperson of the Corporation, and may appoint any other director to be deputy chairperson of the Corporation.
 (4) Subject to this section, every director shall be appointed for a term not exceeding 3 years, and may from time to time be reappointed.
 (5) Any director may at any time resign from office by written notice given to the Minister.
