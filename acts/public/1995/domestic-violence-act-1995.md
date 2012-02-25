@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2011-11-16_
+_Consolidation as at 2012-02-25_
 
 > An Act to provide greater protection from domestic violence
 
@@ -1369,8 +1369,10 @@ Sections 47 to 52 of the Privacy Act 1993, so far as applicable and with all nec
 ### 124A Interpretation
 In this Part, unless the context otherwise requires,—
   - **constable** has the meaning given to it by section 4 of the Policing Act 2008
+  - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates, presiding over a District Court; but does not include a Registrar
   - **Police safety order** or means an on-the-spot order issued by a qualified constable under section 124B in the prescribed form
-  - **qualified constable** means a constable who is of or above the level of position of sergeant.
+  - **qualified constable** means a constable who is of or above the level of position of sergeant
+  - **Registrar** means any Registrar of a District Court; and includes a Deputy Registrar.
 
 ### 124B Qualified constable may issue Police safety order
 (1) A qualified constable may issue an order against a person (person A) who is, or has been, in a domestic relationship with another person (person B) if the constable—
@@ -1453,7 +1455,7 @@ On the issue of an order, and for the period that the order is in force,—
 (3) In considering the period to be specified in the order, the qualified constable must have regard to the matters set out in section 124B(2).
 
 ### 124L Contravention of Police safety order
-(1) Subsection (2) applies where a person against whom an order is issued refuses or fails to comply with—
+(1) Subsection (2) applies where a person who has been served with an order refuses or fails to comply with—
   (a) the order; or
   (b) any condition of the order.
 (2) If this subsection applies, a constable may take the person into custody by—
@@ -1467,7 +1469,7 @@ On the issue of an order, and for the period that the order is in force,—
   (a) be released; and
   (b) be served by a constable with a summons requiring him or her to appear before a District Court at the place and time specified in the summons.
 (2) A summons served under subsection (1)(b) must be in the prescribed form.
-(3) If a person who has been served with a summons under subsection (1)(b) does not attend personally at the place and time specified in the summons, the District Court may issue a warrant, in the prescribed form, to—
+(3) If a person who has been served with a summons under subsection (1)(b) does not attend personally at the place and time specified in the summons, a District Court or Registrar may issue a warrant, in the prescribed form, to—
   (a) arrest him or her; and
   (b) bring him or her before the court.
 
@@ -1498,7 +1500,7 @@ On the issue of an order, and for the period that the order is in force,—
 (1) Subsection (2) applies if—
   (a) a person against whom a Police safety order is issued refuses or fails to comply with the order, or any condition of the order; or
   (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under section 124N(1)(c)(i).
-(2) The District Court may issue a warrant in the prescribed form.
+(2) A District Court or Registrar may issue a warrant in the prescribed form.
 (3) A warrant to arrest a person under this section—
   (a) must be directed either—
     (i) specifically to a constable; or
