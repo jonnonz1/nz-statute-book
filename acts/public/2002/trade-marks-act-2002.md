@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2011-10-07_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -411,7 +411,7 @@ If the Commissioner considers that an application does not comply with the requi
 The Commissioner must reject an application if, within the time specified by the Commissioner, the applicant does not satisfy the Commissioner that the applicant has complied with the requirements in this Act for registering a trade mark.
 
 ### 44 Abandonment of application
-(1) If, within the time specified by the Commissioner, the applicant has not responded to a notification under section 41, the Commissioner must treat the application as abandoned.
+(1) If, within the time specified by the Commissioner, the Commissioner does not receive a response from the applicant to a notification under section 41, the Commissioner must treat the application as abandoned.
 (2) The Commissioner must not treat an application as abandoned under subsection (1) if the application is awaiting the outcome of—
   (a) opposition proceedings in respect of a prior application; or
   (b) cancellation, revocation, or invalidity proceedings in respect of a prior registration.
