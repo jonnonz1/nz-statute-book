@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-02-25_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2325,10 +2325,13 @@ Notwithstanding anything to the contrary in this Act,—
 (1) A person is not entitled to receive a benefit who is—
   (a) unlawfully resident or present in New Zealand; or
   (b) lawfully resident or present in New Zealand but only by virtue of holding a temporary entry class visa.
-(1A) Despite subsection (1), the chief executive may grant an emergency benefit under section 61 or temporary additional support under section 61G, or may continue, under section 23 of the Social Security (Working for Families) Amendment Act 2004, a special benefit already granted to the person if the chief executive is satisfied that the person is—
+(1A) Despite subsection (1), the chief executive may take either or both of the actions specified in subsection (1B) if the chief executive is satisfied that the person is—
   (a) a person lawfully present in New Zealand who is awaiting the outcome of his or her claim for recognition as a refugee or a protected person; or
   (b) a person who is recognised as a refugee or a protected person; or
   (c) a person applying for a residence class visa under the Immigration Act 2009 who is compelled to remain in New Zealand because of unforeseen circumstances.
+(1B) The actions referred to in subsection (1A) are—
+  (a) grant the person an emergency benefit under section 61:
+  (b) grant the person temporary additional support under section 61G or, as the case requires, continue, under section 23 of the Social Security (Working for Families) Amendment Act 2004, a special benefit already granted to the person.
 (2) If subsection (3) applies to a person,—
   (a) the rate of benefit payable to the person is the appropriate rate for a single person (and not the rate for a person who is married or in a civil union or in a de facto relationship); and
   (b) the income and assets of both the person and the person's spouse or partner must be taken into account as the person's income and assets in determining the rate of benefit payable to the person.
