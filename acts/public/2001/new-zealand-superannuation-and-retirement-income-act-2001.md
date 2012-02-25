@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -78,6 +78,7 @@ No person is entitled to New Zealand superannuation unless the person—
   (c) in the case of any applicant, any period of absence while serving in any capacity as a member of any naval, military, or air force of any Commonwealth country or serving in connection with any war in which New Zealand forces were involved as a member of any organisation attached to any of those forces:
   (d) in the case of any applicant, any period of absence while serving in any capacity as an accredited volunteer appointed by Volunteer Service Abroad Incorporated.
 (2) Subsection (1) applies only if the chief executive is satisfied that during the absence of the applicant he or she remained ordinarily resident in New Zealand.
+(3) The reference in subsection (1)(d) to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of subsection (1)(d) on or after its commencement on 12 October 2001, and despite any later changes to that body's name, be read as a reference to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc.
 
 ### 10 Periods of absence as missionary also not counted
 (1) In determining the period an applicant has been present in New Zealand, no account is taken of any period of absence while engaged in missionary work outside New Zealand as a member of, or on behalf of, any religious body or, as the case may be, during any period that the applicant was absent from New Zealand with his or her spouse or partner while that spouse or partner was engaged in that missionary work.
@@ -634,6 +635,11 @@ The Social Security (Disability Services) Regulations 1993 (SR 1993/250) are con
 
 ### 79 Transitional provision for existing New Zealand superannuation entitlements
 Every person who, immediately before the commencement of this section, was entitled to receive New Zealand superannuation entitlements under the Social Security Act 1964 or the Social Welfare (Transitional Provisions) Act 1990 or the Social Security (Disability Services) Regulations 1993 is entitled to receive the corresponding New Zealand superannuation entitlements under Part 1.
+
+### 79A References to Volunteer Service Abroad Incorporated
+The references in the following provisions to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of those provisions be read as references to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc:
+  (a) section 14(2)(e) of the Social Security Act 1964 (as inserted on 29 September 1969 by section 4 of the Social Security Amendment Act 1969, and repealed on 1 April 1990 by section 14(18) of the Social Welfare (Transitional Provisions) Act 1990):
+  (b) section 4(2)(d) of the Social Welfare (Transitional Provisions) Act 1990 (which commenced on 1 April 1990, and was repealed by section 77 of this Act on 12 October 2001).
 
 ## Part 4 — Retirement Commissioner
 
