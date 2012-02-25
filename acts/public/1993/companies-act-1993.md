@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-02-25_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -3780,7 +3780,9 @@ If a licensed insurer may be put into liquidation under or in accordance with th
     (va) if the company is a financial markets participant, the FMA; or
     (vi) the Registrar; or
     (vii) if the company is a licensed insurer, the Reserve Bank of New Zealand; or
+    (viii) in the case of a company that has been removed from the New Zealand register, the Registrar or a person who, immediately before the company was removed from the New Zealand register, was a person described in subparagraph (ii), (iii), (iv), or (vii); or
   (d) a resolution of the creditors passed at the watershed meeting held under section 239AT.
+(2A) However, the court must not appoint a liquidator under subsection (2)(c)(viii) unless the company is restored to the New Zealand register under section 328 or 329.
 (3) An Official Assignee may be appointed liquidator of a company only—
   (a) if the special resolution passed in accordance with paragraph (a) of subsection (2) is passed by reason of the Official Assignee exercising voting rights attaching to shares in the company of—
     (i) a person who has been adjudged bankrupt; or
@@ -5306,8 +5308,8 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (1) The Registrar must ensure that—is kept in New Zealand.
   (a) a register of companies registered under Part 2 or reregistered under this Act in accordance with the Companies Reregistration Act 1993, as the case may be; and
   (b) a register of overseas companies registered or deemed to be registered under Part 18,—
-(2) The New Zealand register may be divided into different parts which may be kept in such places in New Zealand as the Registrar determines from time to time.
-(3) The overseas register must be kept at such place in New Zealand as the Registrar determines from time to time.
+(2)
+(3)
 (4) The New Zealand register and the overseas register may be kept in such manner as the Registrar thinks fit including, either wholly or partly, by means of a device or facility—
   (a) that records or stores information electronically or by other means; and
   (b) that permits the information so recorded or stored to be readily inspected or reproduced in usable form.
@@ -5334,13 +5336,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (3) On an application for an order under subsection (1), the court may, if it is satisfied that any information has been wrongly entered in, or omitted from, the New Zealand register or the overseas register, make an order that the New Zealand register or the overseas register be rectified.
 
 ### 361 Registrar may direct transfer
-(1) Subject to this section, the Registrar may direct the transfer of part of the New Zealand register and of any record relating to a company from one place in New Zealand to another place in New Zealand.
-(2) Except where the company has requested the transfer, the Registrar must not direct the transfer of any part of the New Zealand register or of any record relating to a particular company unless written notice of the proposed transfer is given to the company.
-(3) The Registrar must give notice in the Gazette of any transfer under subsection (1) as soon as practicable after the transfer is made.
-(4) Nothing in subsections (2) and (3) applies to the transfer of part of the New Zealand register or of any record relating to a particular company from one place in New Zealand to another place in New Zealand if—
-  (a) the New Zealand register is kept by means of a device or facility referred to in section 360(4); and
-  (b) the transfer is of the whole of the register kept in that place.
-(5) All the records relating to a particular company must be kept in the same place.
+[Repealed]
 
 ### 362 Registration of documents
 (1) On receipt of a document for registration under this Act, the Registrar must,—
