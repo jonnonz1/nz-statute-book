@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2012-02-21_
+_Consolidation as at 2012-02-25_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -62,7 +62,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
   - **wild animal** —
     (a) means—
       (i) any deer (including wapiti or moose):
-      (ii) any chamois, thar, wallaby, or possum (Trichosurus vulpecula):
+      (ii) any chamois, tahr, wallaby, or possum (Trichosurus vulpecula):
       (iii) any goat that is not—
         (A) held behind effective fences or otherwise constrained; and
         (B) identified in accordance with an animal identification device approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act:
@@ -216,7 +216,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (b) is not unsuitable for farming or holding the wild animals because of its susceptibility to erosion; and
   (c) will be adequately equipped with effective fences.
 (5) Except as authorised by a permit or licence that is effective for the purposes of subsection (1), no person may, without a permit issued by the Director-General,—
-  (a) capture or convey or keep in captivity any thar, chamois, possum, or wallaby; or
+  (a) capture or convey or keep in captivity any tahr, chamois, possum, or wallaby; or
   (b) except for the purposes of farming or operating a safari park, capture or convey or keep in captivity any deer.
 (5A) The Director-General must not issue, under subsection (5), any permit to keep an animal in captivity unless the Director-General is satisfied that—
   (a) the enclosure or land on which, or the conveyance in which, the animal will be kept or conveyed is suitable to contain the animal in a manner that will prevent its escape; or
