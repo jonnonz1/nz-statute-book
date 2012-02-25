@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2012-02-25_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -250,9 +250,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 (3) If the voting period for the indicative referendum ends on the polling day for a general election, the writ must be issued on the day on which the writ for the general election is issued.
 (4) If the voting period for the indicative referendum ends on another day, the writ must be issued at least 28 days before the commencement of that period.
 (5) The latest day for the return of the writ must be stated in the writ.
-(6) The latest day for the return of the writ is,—
-  (a) if the voting period for the indicative referendum ends on the polling day for a general election, the 60th day after the issue of the writ:
-  (b) if the voting period for the indicative referendum ends on another day, the 50th day after the issue of the writ.
+(6) The latest day for the return of the writ is the 60th day after the issue of the writ.
 
 ### 26B Notice of issue of writ
 (1) Immediately after receiving a writ for an indicative referendum, the Electoral Commission must notify the following persons of the issue and the contents of the writ:
@@ -334,7 +332,9 @@ If the result of any indicative referendum in any electoral district is disputed
 (3) The writ must be returned within the time specified in the writ for its return.
 (4) If any application for a recount of the votes has been made, the Electoral Commission must postpone the return of the writ until the completion of every recount.
 (5) If, at any time before the expiry of the time for an application for a recount of the votes, it appears to the Electoral Commission that such an application may be made, the Electoral Commission may postpone the return of the writ until that expiry.
-(6) Subsections (4) and (5) prevail over subsections (1) to (3).
+(5A) If the voting period for an indicative referendum conducted by postal voting is extended under section 37 of the Referenda (Postal Voting) Act 2000, the Electoral Commission may postpone the return of the writ until as soon as practicable after noon on the fourth day after the last day of the extended voting period.
+(5B) Subsection (5A) applies whether the voting period is extended in relation to the whole or any area or areas of New Zealand, or any or all of Tokelau, Campbell Island, Raoul Island, or the Ross Dependency.
+(6) Subsections (4) to (5B) prevail over subsections (1) to (3).
 
 ### 40 Declaration of result
 (1) This section applies when the Governor-General makes an Order in Council, under section 22(2)(a) or section 22AA(7), appointing the date on which an indicative referendum is to be held under this Act.
