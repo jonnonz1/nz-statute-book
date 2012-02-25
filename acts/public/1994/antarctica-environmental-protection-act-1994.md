@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-02-25_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -226,7 +226,9 @@ In this Part, unless the context otherwise requires,—
 (1) Every person carrying out activities in any Antarctic Specially Protected Area or any Antarctic Specially Managed Area shall act in accordance with the requirements of any management plan applying to any such Area.
 (2) Every person in Antarctica shall refrain from damaging, removing, or destroying any Historic Site or Historic Monument or its contents.
 (3) Notwithstanding subsection (2), any part of, or the contents of, any Historic Site or Historic Monument may be removed,—
-  (a) in accordance with the written authorisation of the Minister, for the purpose of restoration or protection; or
+  (a) in accordance with the written authorisation of the Minister,—
+    (i) for the purpose of restoration or protection; or
+    (ii) if the removal is consistent with any management plan that applies to the Historic Site or Historic Monument; or
   (b) in an emergency, for the purpose of protection.
 (4) Every person commits an offence who does any act in contravention of this section.
 
