@@ -1,5 +1,5 @@
 # Wills Act 2007
-_Consolidation as at 2008-04-24_
+_Consolidation as at 2012-02-25_
 
 ### 1 Title
 This Act is the Wills Act 2007.
@@ -110,11 +110,22 @@ For the purposes of this Act, unless the context requires another meaning,—
 (2) A will must be signed and witnessed as described in subsections (3) and (4).
 (3) The will-maker must—
   (a) sign the document; or
-  (b) acknowledge that a person directed by the will-maker signed the document in the will-maker's presence.
+  (b) direct another person to sign the document on his or her behalf in his or her presence.
 (4) At least 2 witnesses must—
-  (a) be together in the will-maker's presence when the will-maker complies with subsection (3); and
-  (b) each state on the document, in the will-maker's presence, that the witness was present when the will-maker complied with subsection (3); and
-  (c) each sign the document in the will-maker's presence.
+  (a) be together in the will-maker's presence when the will-maker—
+    (i) complies with subsection (3); or
+    (ii) acknowledges that—
+      (A) he or she signed the document earlier and that the signature on the document is his or her own; or
+      (B) another person directed by him or her signed the document earlier on his or her behalf in his or her presence; and
+  (b) each sign the document in the will-maker's presence.
+(5) As evidence of compliance with subsection (4), at least 2 witnesses may each state on the document, in the will-maker's presence, the following:
+  (a) that he or she was present with the other witnesses when the will-maker—
+    (i) signed the document; or
+    (ii) acknowledged that he or she signed the document earlier and that the signature on the document is his or her own; or
+    (iii) directed another person whose signature appears on the document to sign the document on his or her behalf in his or her presence; or
+    (iv) acknowledged that another person directed by him or her signed the document earlier on his or her behalf in his or her presence; and
+  (b) that he or she signed the document in the will-maker's presence.
+(6) No particular form of words is required for the purposes of subsection (5).
 
 ### 12 Witnesses
 (1) The person appointed as executor of a will may witness the will.
@@ -463,12 +474,12 @@ Informal testamentary actions may be proved by any evidence that the High Court 
       (ii) doing whichever of those actions he or she asked the court to approve
   (g) section 9(4) must be read as if it said of 16 or 17 years, not under 18 years; and
   (h) section 10 does not apply; and
-  (i) section 11(3)(a) and (b) must be read as if the words at its foot or end appeared at the end of each of them; and
+  (i)
   (j) section 13(2)(c) and (d) do not apply; and
-  (k) section 14 does not apply; and
-  (l) section 15(d) does not apply; and
+  (k)
+  (l)
   (m) section 16(c) must be read as if it did not contain the words or enters a civil union; and
-  (n) section 16(g) and (h) do not apply; and
+  (n) section 16(g) does not apply; and
   (o) section 18(1), (3), and (4) must be read as if they did not contain the words or enters a civil union, or civil union, and or entering a civil union; and
   (p) section 18(2)(a) does not apply; and
   (q) section 19 must be read as if—
@@ -487,6 +498,16 @@ Informal testamentary actions may be proved by any evidence that the High Court 
   (b) subsection (4) did not contain the words or grandchildren.
 (6) For wills made before 27 October 1955, section 22 does not apply.
 (7) For wills made before 5 December 1944, section 18(2)(b) and (3) do not apply.
+
+### 40A Application of Wills (Validity) Amendment Act 2012
+(1) Sections 11 and 40 as amended by the Wills Amendment Act 2012 apply (instead of those sections as in force before they were amended by that Act) in making after the commencement of that Act (in this section called the commencement) a determination whether a document is, or can and is to be declared by order of the High Court to be, a valid will.
+(2) Subsection (1) applies whether or not the determination—
+  (a) is made by the High Court, a Judge of the High Court, a Registrar or Senior Deputy Registrar of the High Court, a personal representative (as defined in section 6) of a person who has died, or any other court or person:
+  (b) arises from, or without, an application for administration (whether without notice, or in solemn form) made before or after the commencement (including, without limitation, one in solemn form made before or after the commencement and following one without notice made unsuccessfully before the commencement):
+  (c) arises from an application made before or after the commencement for a review by the High Court or a Judge of the High Court of a determination made by a Registrar or Senior Deputy Registrar of the High Court made before or after the commencement.
+(3) But this section and sections 11 and 40 (as amended by the Wills Amendment Act 2012) do not affect the validity or consequences of the following to the extent (if any) that they are based on sections 11 and 40 (as in force before they were amended by that Act):
+  (a) a grant of administration (as defined in section 2(1) of the Administration Act 1969) made before the commencement:
+  (b) a payment made or other action taken before the commencement and that an enactment authorised without a grant of administration (as so defined).
 
 ### 41 Consequential amendments
 The enactments specified in the Schedule are consequentially amended in the manner indicated in the Schedule.
