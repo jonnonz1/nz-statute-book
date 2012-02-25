@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2012-02-25_
 
 > Title
 
@@ -268,7 +268,7 @@ Except as otherwise provided by a resolution of the House of Representatives, th
 **Information requirements for appropriations**
 
 ### 13 Estimates and other supporting information must be presented with first Appropriation Bill
-(1) The Minister must present to the House of Representatives the Estimates immediately after he or she has delivered the Budget.
+(1) The Minister must present to the House of Representatives the Estimates immediately after he or she has delivered the Budget, or at any time prior to that time on the same day.
 (2) The Minister must also present to the House of Representatives the other supporting information referred to in section 15 at the same time he or she presents the Estimates under subsection (1), unless that other supporting information is already contained in the Estimates.
 
 ### 14 Content of Estimates
@@ -468,7 +468,7 @@ All financial statements and forecast financial statements included in reports a
 
 ### 26I Fiscal strategy report
 (1) The Minister must, in each financial year and in accordance with subsection (2), present to the House of Representatives a report on the Government's fiscal strategy.
-(2) The Minister must present the fiscal strategy report immediately after he or she has delivered the Budget for the financial year to which the report relates.
+(2) The Minister must present the fiscal strategy report immediately after he or she has delivered the Budget for the financial year to which the report relates, or at any time prior to that time on the same day.
 (3) Sections 26J to 26L set out the contents of the fiscal strategy report.
 
 ### 26J Contents of fiscal strategy report: long-term objectives
@@ -545,7 +545,7 @@ All financial statements and forecast financial statements included in reports a
 
 ### 26O Economic and fiscal update
 (1) The Minister must, in accordance with subsection (2), present to the House of Representatives an economic and fiscal update prepared by the Treasury for each financial year.
-(2) The Minister must present the economic and fiscal update immediately after he or she has delivered the Budget for the financial year to which the update relates.
+(2) The Minister must present the economic and fiscal update immediately after he or she has delivered the Budget for the financial year to which the update relates, or at any time prior to that time on the same day.
 (3) The update must—
   (a) contain economic and fiscal forecasts that relate to—
     (i) the financial year to which the update relates; and
@@ -837,7 +837,7 @@ The chief executive of a department is not responsible for the outputs or financ
   (b) in the case of any other department, the Minister in time for him or her to present the information, as required by section 39.
 
 ### 39 Obligation to present and publish information on future operating intentions
-(1) The Minister must present the information for each department (other than an intelligence and security department) to the House of Representatives immediately after he or she has delivered the Budget for the financial year to which the information relates.
+(1) The Minister must present the information for each department (other than an intelligence and security department) to the House of Representatives immediately after he or she has delivered the Budget for the financial year to which the information relates, or at any time prior to that time on the same day.
 (2) The information presented under subsection (1) must—
   (a) be taken to have been presented by the responsible Minister concerned; and
   (b) be accompanied by—
@@ -1768,9 +1768,9 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
   (a)
-  (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
-  (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
-  (d) section 4(5) of the Public Finance Amendment Act 1980,—
+  (b) Amendment(s) incorporated in the Act(s):
+  (c) Amendment(s) incorporated in the Act(s):
+  (d) Amendment(s) incorporated in the Act(s),—
   (e) all public securities registered before the date on which regulations made under section 81(1)(f) come into force:
   (f)
   (g) all other stock.
