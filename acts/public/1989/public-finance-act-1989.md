@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-02-29_
 
 > Title
 
@@ -1768,9 +1768,9 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
   (a)
-  (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
-  (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
-  (d) section 4(5) of the Public Finance Amendment Act 1980,—
+  (b) Amendment(s) incorporated in the Act(s):
+  (c) Amendment(s) incorporated in the Act(s):
+  (d) Amendment(s) incorporated in the Act(s),—
   (e) all public securities registered before the date on which regulations made under section 81(1)(f) come into force:
   (f)
   (g) all other stock.
@@ -1815,6 +1815,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 |  | 139 | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
+| Crown Asset Management Limited |  |  |  |  |  |  |  |  |
 | Crown Fibre Holdings Limited |  |  |  |  |  |  |  |  |
 | Dispute Resolution Services Limited |  |  |  |  |  |  |  |  |
 | Health Benefits Limited |  |  |  |  |  |  |  |  |
