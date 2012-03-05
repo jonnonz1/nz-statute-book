@@ -1,5 +1,5 @@
 # Criminal Justice Act 1985
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2012-03-05_
 
 > An Act to reform and revise the law relating to criminal justice, and to repeal and replace the Criminal Justice Act 1954 and its amendments
 
@@ -686,67 +686,19 @@ _Consolidation as at 2010-10-01_
 [Repealed]
 
 ### 138 Power to clear court and forbid report of proceedings
-(1) Subject to the provisions of subsections (2) and (3) and of any other enactment, every sitting of any court dealing with any proceedings in respect of an offence shall be open to the public.
-(2) Where a court is of the opinion that the interests of justice, or of public morality, or of the reputation of any victim of any alleged sexual offence or offence of extortion, or of the security or defence of New Zealand so require, it may make any 1 or more of the following orders:
-  (a) an order forbidding publication of any report or account of the whole or any part of—
-    (i) the evidence adduced; or
-    (ii) the submissions made:
-  (b) an order forbidding the publication of the name of any witness or witnesses, or any name or particulars likely to lead to the identification of the witness or witnesses:
-  (c) subject to subsection (3), an order excluding all or any persons other than the informant, any Police employee, the defendant, any counsel engaged in the proceedings, and any officer of the court from the whole or any part of the proceedings.
-(3) The power conferred by paragraph (c) of subsection (2) shall not, except where the interests of security or defence so require, be exercised so as to exclude any accredited news media reporter.
-(4) An order made under paragraph (a) or paragraph (b) of subsection (2)—
-  (a) may be made for a limited period or permanently; and
-  (b) if it is made for a limited period, may be renewed for a further period or periods by the court; and
-  (c) if it is made permanently, may be reviewed by the court at any time.
-(5) The powers conferred by this section to make orders of any kind described in subsection (2) are in substitution for any such powers that a court may have had under any inherent jurisdiction or any rule of law; and no court shall have power to make any order of any such kind except in accordance with this section or any other enactment.
-(6) Notwithstanding that an order is made under subsection (2)(c), the announcement of the verdict or decision of the court (including a decision to commit the defendant for trial or sentence) and the passing of sentence shall in every case take place in public; but, if the court is satisfied that exceptional circumstances so require, it may decline to state in public all or any of the facts, reasons, or other considerations that it has taken into account in reaching its decision or verdict or in determining the sentence passed by it on any defendant.
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under paragraph (a) or paragraph (b) of subsection (2) or evades or attempts to evade any such order.
-(8) The breach of any order made under subsection (2)(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
-(9) Nothing in this section shall limit the powers of the court under sections 139 and 140 to prohibit the publication of any name.
+[Repealed]
 
 ### 139 Prohibition against publication of names in specified sexual cases
-(1AA) The purpose of this section is to protect persons upon or with whom an offence referred to in subsection (1) or subsection (2) has been, or is alleged to have been, committed.
-(1) No person shall publish, in any report or account relating to any proceedings commenced in any court in respect of an offence against any of sections 128 to 142A of the Crimes Act 1961, or in respect of an offence against section 144A of that Act, the name of any person upon or with whom the offence has been or is alleged to have been committed, or any name or particulars likely to lead to the identification of that person, unless—
-  (a) that person is of or over the age of 16 years; and
-  (b) the court, by order, permits such publication.
-(1A) However, the court must make an order referred to in subsection (1)(b), permitting any person to publish the name of a person upon or with whom any offence referred to in subsection (1) has been or is alleged to have been committed, or any name or particulars likely to lead to the identification of that person, if—
-  (a) that person—
-    (i) is aged 16 years or older (whether or not he or she was aged 16 years or older when the offence was, or is alleged to have been, committed); and
-    (ii) applies to the court for such an order; and
-  (b) the court is satisfied that that person understands the nature and effect of his or her decision to apply to the court for such an order.
-(2) No person shall publish, in any report or account relating to proceedings in respect of an offence against section 130 or section 131 of the Crimes Act 1961, the name of the person accused or convicted of the offence or any name or particulars likely to lead to the person's identification.
-(2A) However, a court must order that any person may publish the name of a person convicted of an offence against section 130 or section 131 of the Crimes Act 1961, or any name or particulars likely to lead to the person's identification, if—
-  (a) the victim (or, if there were 2 or more victims of the offence, each victim) of the offence—
-    (i) is aged 16 years or older (whether or not he or she was aged 16 years or older when the offence was, or is alleged to have been, committed); and
-    (ii) applies to the court for such an order; and
-  (b) the court is satisfied that the victim (or, as the case requires, each victim) of the offence understands the nature and effect of his or her decision to apply to the court for such an order; and
-  (c) no order or further order has been made under section 140 prohibiting the publication of the name, address, or occupation, of the person convicted of the offence, or of any particulars likely to lead to that person's identification.
-(2B) An order made under subsection (2A) in respect of the name of a person, or of any name or particulars likely to lead to the identification of a person, ceases to have effect if—
-  (a) the person applies to a court for an order or further order under section 140 prohibiting the publication of his or her name, address, or occupation, or of any particulars likely to lead to his or her identification; and
-  (b) the court makes the order or further order under section 140.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who publishes any name or particular in contravention of subsection (1) or subsection (2).
+[Repealed]
 
 ### 139A Protection of identity of children called as witnesses in criminal proceedings
-(1) Subject to subsection (2), no person shall publish, in any report of any criminal proceedings in any court, the name of any person under the age of 17 years who is called as a witness in those proceedings or any particulars likely to lead to the identification of that person.
-(2) Nothing in subsection (1) prevents the publication of the name of the defendant or the nature of the charge.
-(3) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000:
-  (b) in the case of a body corporate, to a fine not exceeding $5,000.
+[Repealed]
 
 ### 140 Court may prohibit publication of names
-(1) Except as otherwise expressly provided in any enactment, a court may make an order prohibiting the publication, in any report or account relating to any proceedings in respect of an offence, of the name, address, or occupation of the person accused or convicted of the offence, or of any other person connected with the proceedings, or any particulars likely to lead to any such person's identification.
-(2) Any such order may be made to have effect only for a limited period, whether fixed in the order or to terminate in accordance with the order; or if it is not so made, it shall have effect permanently.
-(3) If any such order is expressed to have effect until the determination of an intended appeal, and no notice of appeal or of application for leave to appeal is filed or given within the time limited or allowed by or under the relevant enactment, the order shall cease to have effect on the expiry of that time; but if such a notice is given within that time, the order shall cease to have effect on the determination of the appeal or on the occurrence or non-occurrence of any event as a result of which the proceedings or prospective proceedings are brought to an end.
-(4) The making under this section of an order having effect only for a limited period shall not prevent any court from making under this section any further order having effect either for a limited period or permanently.
-(4A) When determining whether to make any such order or further order in respect of a person accused or convicted of an offence and having effect permanently, a court must take into account any views of a victim of the offence, or of a parent or legal guardian of a victim of the offence, conveyed in accordance with section 28 of the Victims' Rights Act 2002.
-(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under this section or evades or attempts to evade any such order.
+[Repealed]
 
 ### 141 Publication by or at request of Police, etc
-Nothing in sections 138 to 140 shall prevent—
-  (a) the publication by or at the request of any Police employee of the name, address, or occupation of any person who has escaped from lawful custody or has failed to attend any court when lawfully required to do so, or of any particulars likely to lead to that person's identification, if that publication is made for the purpose of facilitating that person's recapture or arrest:
-  (b) the publication of the name, address, or occupation of any person, or any particulars likely to lead to the identification of any person, or any details of the offences charged to—
-    (i) any person assisting with the administration of the sentence imposed on the person or with the rehabilitation of the person; or
-    (ii) any Police employee, or any officer or employee of the Department of Corrections or of the Ministry of Justice, who requires the information for the purposes of his or her official duties.
+[Repealed]
 
 ### 142 Special provisions as to young persons remanded or committed for trial or sentence
 (1) Notwithstanding anything in any other enactment, no person under the age of 16 years shall be remanded to a prison pending the hearing or trial of any charge or pending sentence.
