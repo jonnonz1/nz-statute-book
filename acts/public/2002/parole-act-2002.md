@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -1257,7 +1257,7 @@ This Part—
   (h) section 131(3) (indecent act on dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
   (i) section 131B(1) (meeting young person under 16 following sexual grooming, etc):
   (j) section 132(1) (sexual connection with child under 12):
-  (k) section 130(2) (attempted sexual connection with child under 12):
+  (k) section 132(2) (attempted sexual connection with child under 12):
   (l) section 132(3) (indecent act on child under 12):
   (m) section 134(1) (sexual connection with young person under 16):
   (n) section 134(2) (attempted sexual connection with young person under 16):
@@ -1345,7 +1345,7 @@ The chief executive must ensure that, before an eligible offender is released fr
   (e) section 206 (contempt of court).
 (8) Any summons, warrant, or other form that is prescribed under section 212 of the Summary Proceedings Act 1957 may, if modified appropriately, be used for the purposes of this section.
 (9) Before the Corrections Act 2004 comes into force, section 26(2) of the Penal Institutions Act 1954 applies as if paragraph (a) of that subsection applies to an offender who is subject to an application for an extended supervision order.
-(10) Sections 138 to 141 of the Criminal Justice Act 1985 (which relate generally to name suppression) apply, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of sections 128 to 142A of the Crimes Act 1961.
+(10) Subpart 3 of Part 5 of the Criminal Procedure Act 2011 (which relates generally to name suppression) applies, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of sections 128 to 142A of the Crimes Act 1961.
 (11) The Costs in Criminal Cases Act 1967 applies, with all necessary modifications, to proceedings under this Part.
 
 ### 107GA Application of section 107G during epidemic
