@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2011-11-05_
+_Consolidation as at 2012-03-05_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -1703,7 +1703,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 **Name suppression**
 
 ### 66 Names of drivers convicted of alcohol or drug-related offences may not be suppressed
-Unless for special reasons the court thinks fit to order otherwise, the power of prohibiting the publication of the names of accused persons or of reports or accounts of their arrest, trial, conviction, or sentence conferred on a court by section 138 or section 140 of the Criminal Justice Act 1985, or by any other enactment, is not exercisable in the case of a person who is convicted of an offence against any of sections 56 to 62.
+[Repealed]
 
 **Blood test fee**
 
