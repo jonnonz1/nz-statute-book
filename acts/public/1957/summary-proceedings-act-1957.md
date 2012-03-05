@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-03-05_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -199,10 +199,10 @@ The summary criminal jurisdiction of a District Court must be exercised in accor
   (a) to disqualify any person from holding or obtaining a driver licence; or
   (b) to impose any other penalty.
 
-### 9E Ancillary powers under Criminal Justice Act 1985, Sentencing Act 2002, and Land Transport Act 1998
+### 9E Ancillary powers under Criminal Justice Act 1985, Sentencing Act 2002, and Land Transport Act 1998, and Criminal Procedure Act 2011
 A Court presided over by 1 or more Community Magistrates has, in exercising any power conferred on it by section 9C or section 9D,—
-  (a) power to make, under section 138 of the Criminal Justice Act 1985 (which relates to the power to clear the Court and to forbid reports of proceedings), orders of any kind described in subsection (2) of that section:
-  (b) power to make orders under section 140 of the Criminal Justice Act 1985 (which relates to the power to prohibit the publication of names and other particulars):
+  (a) power to make orders of any kind provided under section 197 or 205 of the Criminal Procedure Act 2011, subject to section 198 of that Act:
+  (b) power to make orders of any kind provided under section 200 or 202 of the Criminal Procedure Act 2011:
   (c) all the powers and processes that a court has under the Criminal Justice Act 1985, the Sentencing Act 2002, or the Land Transport Act 1998 for the purpose of perfecting, or giving full effect to, any sentence imposed or order made under any of the provisions of those Acts referred to in section 9C or section 9D.
 
 ### 9F Power of Community Magistrates to decline jurisdiction
@@ -430,9 +430,18 @@ In any proceedings, a computer printout of the particulars of a reminder notice 
 
 ### 23 Withdrawal of warrant
 (1) Any warrant to arrest a defendant or warrant for the appearance of a person required as a witness may, by leave of a District Court Judge or the Justice or Community Magistrate or Registrar who issued it, be withdrawn at any time before it is executed.
-(2) A Registrar may withdraw a warrant to arrest a defendant or a warrant for the appearance of a person required as a witness, whether or not the warrant was issued by the Registrar, if—
-  (a) the warrant has not been executed; and
-  (b) the defendant or person (as the case may be) has appeared before the Court on the matter for which the warrant was issued.
+(2) A Registrar may, at any time before it is executed, withdraw a warrant to arrest a defendant or warrant to arrest a person required as a witness if—
+  (a) in the case of a warrant to arrest a defendant,—
+    (i) the warrant was issued under this Act or section 36 or 60 of the Bail Act 2000 because the defendant failed to appear at Court; and
+    (ii) the defendant reports to the Court (whether or not the defendant actually makes an appearance in the court that day); and
+    (iii) no breaches of bail by the defendant in relation to the charge have been recorded under section 38 of the Bail Act 2000; and
+    (iv) no other warrants for the arrest of the defendant in relation to the proceeding have been issued; and
+    (v) the defendant is charged with an offence for which the maximum penalty is 10 or less years' imprisonment:
+  (b) in the case of a warrant to arrest a witness,—
+    (i) the warrant was issued under this Act because the witness failed to appear at court; and
+    (ii) the witness reports to the Court (whether or not the defendant actually makes an appearance in the Court that day); and
+    (iii) no other warrants for the arrest of the witness in relation to the proceeding have been issued; and
+    (iv) the defendant in the proceeding is charged with an offence for which the maximum penalty is 10 or less years' imprisonment.
 
 **Service of documents**
 
@@ -517,9 +526,7 @@ Any statement taken under section 164 (which relates to statements of persons da
 ### 36 Withdrawal of information by informant
 (1) Any information may by leave of the Court be withdrawn by the informant before the defendant has been convicted or the information has been dismissed or, in any case where the defendant has pleaded guilty, before he has been sentenced or otherwise dealt with.
 (1A) A Registrar may exercise the power conferred by subsection (1) to grant leave if the informant is a sworn or non-sworn member of the Police and has notified the Registrar in writing that the defendant has successfully completed a programme of diversion (being a programme conducted by the Police).
-(1B) A Registrar may exercise the power conferred by section 140 of the Criminal Justice Act 1985 (which relates to orders prohibiting the publication of names) to make an order that has permanent effect if—
-  (a) the Registrar grants leave under subsection (1A); and
-  (b) the informant agrees to the making of that order.
+(1B)
 (2)
 (3) The withdrawal of an information shall not operate as a bar to any other proceedings in the same matter.
 
@@ -612,9 +619,7 @@ A plea of guilty may, by leave of the Court, be withdrawn at any time before the
 (1) A Registrar may, upon application, adjourn the hearing of any charge to a time and place then appointed if—
   (a) the defendant is not in custody at the time of the application; and
   (b) the application is made before the commencement of the hearing.
-(2) Where an adjournment is granted under subsection (1),—
-  (a) the present conditions of bail (if any) shall, subject to section 34 of the Bail Act 2000, continue to the adjourned date of hearing; and
-  (b) any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant or any other person connected with the proceedings and having effect only for a limited period that would expire before the adjourned date of hearing shall continue to have effect until the close of the adjourned date of hearing.
+(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing.
 (3) Whenever the Registrar grants an adjournment under this section, the Registrar shall notify each party in writing.
 (4) For the avoidance of doubt, it is hereby declared that a Registrar may, upon application, grant an adjournment under subsection (1) if—
   (a) the defendant has been released on bail under section 21 of the Bail Act 2000; and
@@ -633,16 +638,7 @@ A plea of guilty may, by leave of the Court, be withdrawn at any time before the
 (3) If a Registrar remands a person in custody under subsection (1)(c) the defendant must be brought before a court or Justice or Community Magistrate at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a) and the Court or Justice or Community Magistrate must declare what action (if any) should be taken under subsection (1) in respect of the defendant.
 
 ### 46A Registrar may prohibit publication of names
-(1) A Registrar may exercise the power conferred by section 140 of the Criminal Justice Act 1985 (which relates to orders prohibiting the publication of names) to make an order that has effect for a limited period if—
-  (a) the Registrar either—
-    (i) adjourns the hearing of any charge under section 45A; or
-    (ii) grants a defendant bail under section 28 of the Bail Act 2000; or
-    (iii) remands the defendant in custody under section 46(2); and
-  (b) either,—
-    (i) where the defendant asks for the making of the order, the informant agrees to that order being made; or
-    (ii) where the informant asks for the making of the order, the defendant agrees to that order being made.
-(2) If a Registrar makes an order under section 140 of the Criminal Justice Act 1985, the order may have effect for a limited period of up to 28 days from the date on which the order is made.
-(3) No Registrar may exercise the power under subsection (1) more than once in relation to any particular information.
+[Repealed]
 
 ### 46AB Application of section 45 during epidemic
 [Repealed]
@@ -2240,7 +2236,7 @@ A defendant who appeals by way of case stated against any determination shall no
 Any person against whom an order (other than an order to the effect only that a person be taken into custody and detained until the rising of the Court) has been made under section 206 may appeal to the High Court against the order; and the provisions of sections 116 to 144, as far as they are applicable and with the necessary modifications, shall apply to any such appeal as if that person was a defendant who had been convicted on an information and sentenced.
 
 ### 115C Right of appeal against decisions relating to publication of reports of proceedings or identifying particulars
-(1) The applicant for an order under paragraph (a) or paragraph (b) of section 138(2), or under section 140, of the Criminal Justice Act 1985 forbidding publication of any report of the proceedings or of any identifying particulars, or the informant may appeal to the High Court against the District Court's decision in respect of the application.
+(1) The applicant for an order under section 200, 202, or 205 of the Criminal Procedure Act 2011 forbidding publication of any report of the proceedings or of any identifying particulars, or the informant may appeal to the High Court against the District Court's decision in respect of the application.
 (2) Where the decision is to refuse to make the order sought, the District Court shall, on being satisfied that an appeal against that decision is to be brought under this section, make an interim order to the effect sought by the applicant; and that interim order shall continue in force—
   (a) until the expiry of the period prescribed by section 116 for the filing of notice of the appeal; or
   (b) if notice of the appeal is filed within that prescribed period, until the appeal is finally disposed of, or withdrawn, or abandoned.
@@ -2572,9 +2568,7 @@ The following provisions of Part 2, as far as they are applicable and with the n
 (1) A Registrar may, on the application of either party and with the consent of each party, adjourn committal proceedings for any information to a time and place then appointed if—
   (a) the defendant is not, at the time of the application, in custody (including if the defendant has been released on bail under section 21 of the Bail Act 2000); and
   (b) it is necessary or desirable to do so for any reasonable cause.
-(2) If an adjournment is granted under subsection (1),—
-  (a) the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing; and
-  (b) any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant, or any other person connected with the proceedings, and having effect only for a limited period that would expire before the adjourned date of hearing, continues to have effect until the close of the adjourned date of hearing.
+(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing.
 (3) Whenever the Registrar grants an adjournment under this section, the Registrar must notify each party in writing.
 
 ### 157 Application of section 46
@@ -3174,11 +3168,10 @@ Every Court that hears the oral evidence of a complainant at a committal hearing
 (3) No report or account of any matters shown in the video record may be published, and every person who publishes a report or account of those matters commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
 
 ### 185E Power of Court to prohibit publication of certain details
-(1) If, at the time of the standard committal or in any committal hearing to which this Part applies, the Court is of the opinion that the interests of the complainant so require, it may make an order forbidding the publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant, or of any acts that the complainant is alleged to have been compelled or induced to perform, to consent to, or to acquiesce in.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under subsection (1), or who evades, or attempts to evade, that order.
+[Repealed]
 
 ### 185F Other powers of Court preserved
-Nothing in section 185C(2) or 185D or 185E limits or affects the powers of the Court to exclude any person or forbid any report or account of any evidence under section 206, or under section 138 of the Criminal Justice Act 1985, or under any other enactment.
+Nothing in section 185C(2) or 185D limits or affects the powers of the Court to exclude any person or forbid any report or account of any evidence under section 206 or under any other enactment.
 
 ## Part 6 — Conservation of the peace
 
