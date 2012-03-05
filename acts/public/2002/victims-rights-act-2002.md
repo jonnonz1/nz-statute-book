@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -172,7 +172,7 @@ Nothing in section 16 applies to a criminal proceeding if it is necessary to dis
 ### 18 Procedure before ascertaining information from victim
 The prosecutor must make all reasonable efforts to ensure, before information is ascertained from a victim under section 17,—
   (a) that the victim is informed—
-    (i) that the information is being ascertained for submission to the judicial officer sentencing the offender; and
+    (i) that the information is being ascertained for submission to the judicial officer sentencing the offender and may be used by a judicial officer for the purpose of giving the accused a sentence indication; and
     (ii) that the victim must ensure that any information that he or she gives is true; and
     (iii) that the information must be recorded, and may be verified in the way stated in section 19(3) or (4); and
   (b) that the victim is informed about who may properly see or make or keep copies of the information ascertained, and about the orders, directions, and conditions, relating to disclosure and distribution of it, that may be made under sections 24(3)(b), 25, and 27; and
@@ -184,10 +184,13 @@ The prosecutor must make all reasonable efforts to ensure, before information is
   (a) in the way stated in subsection (3), if practicable; or
   (b) if it is not practicable to verify it in the way stated in subsection (3), in the way stated in subsection (4).
 (3) The information may be verified by being submitted to the victim for signature or other approval, and signed or otherwise approved by the victim, after the prosecutor, or some other person on behalf of the prosecutor, has added to it statements—
-  (a) that the victim gave the information knowing that it was for submission to the judicial officer sentencing the offender, and knowing that he or she was required to ensure that any information that he or she gave is true; and
+  (a) that the victim gave the information knowing that it was for submission to the judicial officer sentencing the offender and might be used by a judicial officer for the purpose of giving the accused a sentence indication, and knowing that he or she was required to ensure that any information that he or she gave is true; and
   (b) that the information is true to the best of the victim's knowledge and belief.
 (4) The information may also be verified by being signed or otherwise approved by the prosecutor, or some other person on behalf of the prosecutor, after the prosecutor or other person has added to it statements that he or she—
-  (a) advised the victim that it was for submission to the judicial officer sentencing the offender, and that the victim was required to ensure that any information that he or she gave is true; and
+  (a) advised the victim that—
+    (i) it was for submission to the judicial officer sentencing the offender; and
+    (ii) it might also be used by a judicial officer for the purpose of giving the accused a sentence indication; and
+  (ab) advised the victim that he or she was required to ensure that any information that he or she gave is true; and
   (b) read it or replayed it or submitted it in another way to the victim, and is satisfied that the victim approves of it.
 
 ### 20 Statements by others disadvantaged by offence
@@ -203,6 +206,9 @@ The prosecutor must make all reasonable efforts to ensure, before information is
   (a) the judicial officer, on a request made by the prosecutor for the purpose, permits all or part of it to be submitted instead by the prosecutor reading it, replaying it, or submitting it in another way:
   (b) a request is made by, or on behalf of, the victim, that all or part of it be submitted instead by the victim, or by 1 person named by the victim, reading all or part of it, and the judicial officer does not direct otherwise.
 (3) In determining the weight (if any) to give to the information, the judicial officer must have regard to whether or not it was verified in the way stated in section 19(3) or (4).
+
+### 21A Victim impact statement may be used for purpose of sentence indication
+A victim impact statement within the meaning of section 22 of this Act may be submitted to a judicial officer for the purpose of giving a sentence indication under section 61 of the Criminal Procedure Act 2011.
 
 ### 22 Victim impact statement defined
 In sections 23 to 27, victim impact statement—
@@ -250,7 +256,7 @@ A judicial officer must not take into account in sentencing the offender a part 
 **Victim's views on application for order prohibiting permanently publication of name of accused or offender**
 
 ### 28 Victim's views on application for order prohibiting permanently publication of name of accused or offender
-(1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under section 140 of the Criminal Justice Act 1985 for an order or further order—
+(1) This section applies to a victim if the person accused of the offence or, as the case requires, the offender applies to a court under section 200 of the Criminal Procedure Act 2011 for an order or further order—
   (a) prohibiting the publication of his or her name, address, or occupation, or of any particulars likely to lead to his or her identification; and
   (b) having effect permanently.
 (2) If this section applies to a victim, the prosecutor—
@@ -515,3 +521,17 @@ The Acts specified in the Schedule are amended in the manner indicated in that s
 The Victims of Offences Act 1987 (1987 No 173) is repealed.
 
 ## Schedule  — Enactments amended
+
+### 1 Title
+This Act is the Victims' Rights Amendment Act 2011.
+
+### 2 Commencement
+(1) Sections 4 to 7 come into force on a date appointed by the Governor-General by Order in Council.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council.
+(3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Victims' Rights Act 2002.
+
+### 7 Transitional provision regarding submitting victim impact statement for purpose of sentence indication
+A victim impact statement may be submitted under section 21A of the principal Act (as inserted by section 6 of this Act) even if it was prepared before the date on which section 6 came into force.
