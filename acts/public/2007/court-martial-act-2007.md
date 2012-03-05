@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -40,7 +40,7 @@ The purpose of this Act is—
   - **Registrar** means the Registrar of the Court Martial
   - **rules of procedure** means rules of procedure made under section 150 of the 1971 Act
   - **sentencing guidelines** means sentencing guidelines produced by the Discipline Committee and published by the Chief of Defence Force as Defence Force Orders
-  - **serious offence** has the meaning given by section 21(1)(b)(i)
+  - **serious offence** has the meaning given by section 21(1)﻿(b)﻿(i)
   - **substitute military member** has the meaning given by section 27.
 (2) Any term or expression that is defined in the 1971 Act and used, but not defined, in this Act has the same meaning as in the 1971 Act.
 
@@ -198,10 +198,10 @@ A person is disqualified to sit as a military member if he or she—
 (1) The Registrar must give written notice to—
   (a) each person who is assigned as a military member; and
   (b) the accused in the proceedings.
-(2) The notice under subsection (1)(a) must state that—
+(2) The notice under subsection (1)﻿(a) must state that—
   (a) the person has been assigned as a military member; but
   (b) the assignment is to be confirmed pending any objections made by the accused in accordance with section 27.
-(3) The notice under subsection (1)(b) must—
+(3) The notice under subsection (1)﻿(b) must—
   (a) set out the names and particulars of the persons who have been assigned as military members; and
   (b) state that the accused has the right to object to the Registrar in accordance with section 27.
 
@@ -223,7 +223,7 @@ A person is disqualified to sit as a military member if he or she—
     (i) the substitute military member; and
     (ii) the person whose assignment was objected to by the accused (the impugned person); and
     (iii) the accused.
-(5) To avoid doubt, the impugned person must be treated as if that person had retired from the Court Martial on the date on which the notice under subsection (4)(b)(ii) is given.
+(5) To avoid doubt, the impugned person must be treated as if that person had retired from the Court Martial on the date on which the notice under subsection (4)﻿(b)﻿(ii) is given.
 (6) If the Registrar rejects the objection,—
   (a) the impugned person is confirmed as a military member; and
   (b) the Registrar must give written notice of that fact to the impugned person and the accused.
@@ -266,10 +266,10 @@ A person is disqualified to sit as a military member if he or she—
   (f) ensure that no officer under instruction who is present expresses an opinion to a member of the Court Martial on any matter relating to the trial before the court has announced its findings, nor on sentence before the court has passed sentence:
   (g) after the final addresses on behalf of the prosecution and the accused, sum up the evidence and advise the military members on the application of the law to the case before they retire to deliberate on their findings:
   (h) if the military members declare a finding of guilty (including any finding authorised by sections 56 to 59) and the Judge is of the opinion that the finding is contrary to law, advise the military members once (but only once) more of the findings that are, in the Judge's opinion, open to them in law.
-(3) For the purposes of subsection (2)(d), a Judge—
+(3) For the purposes of subsection (2)﻿(d), a Judge—
   (a) must not unnecessarily restrict the accused in the manner in which the accused makes the defence; and
   (b) must not stop the presentation of the defence on the ground of irrelevance except in extreme cases (although the Judge may caution the accused to avoid the defence becoming irrelevant).
-(4) Despite subsection (2)(e), a Judge must not prevent the accused from impeaching the evidence or motive of any witness, or charging any other person with any blame or criminality, if to do so is a part of the case for the defence (although the Judge may caution the accused of his or her liability to cross-examination if he or she follows that course).
+(4) Despite subsection (2)﻿(e), a Judge must not prevent the accused from impeaching the evidence or motive of any witness, or charging any other person with any blame or criminality, if to do so is a part of the case for the defence (although the Judge may caution the accused of his or her liability to cross-examination if he or she follows that course).
 
 **Duties of military members**
 
@@ -288,7 +288,7 @@ A person is disqualified to sit as a military member if he or she—
   (a) attend all the sittings of the court in respect of the proceedings for which the military member was assigned; and
   (b) perform the functions or duties of a military member of the court during the period of that person's membership of the court.
 (2) For the purposes of subsection (1), the period of a person's membership of the Court Martial—
-  (a) begins on the date on which the person receives the written notice referred to in section 26(1)(a) or 27(4)(b)(i), as the case may be; and
+  (a) begins on the date on which the person receives the written notice referred to in section 26(1)﻿(a) or 27(4)﻿(b)﻿(i), as the case may be; and
   (b) ends on the date on which the person—
     (i) retires from the court as a result of an objection under section 27; or
     (ii) is released from the court on the discharge of the military members under section 48; or
@@ -343,8 +343,8 @@ A person is disqualified to sit as a military member if he or she—
   (b) must sit in the presence of the accused; and
   (c) may sit in any place, whether in New Zealand or elsewhere; and
   (d) may conduct its proceedings by teleconference or by any means of communication that allows individuals a reasonable opportunity to participate in the proceedings.
-(2) Despite subsection (1)(b), the Court Martial may sit in the absence of the accused if the accused misconducts himself or herself by so interrupting the proceedings as to render the continuation of those proceedings in his or her presence impracticable.
-(3) Subsection (1)(b) and (d) are subject to the rules of procedure.
+(2) Despite subsection (1)﻿(b), the Court Martial may sit in the absence of the accused if the accused misconducts himself or herself by so interrupting the proceedings as to render the continuation of those proceedings in his or her presence impracticable.
+(3) Subsection (1)﻿(b) and (d) are subject to the rules of procedure.
 (4) A sitting of the Court Martial may be adjourned from time to time and from place to place.
 
 ### 38 When Court Martial must hold proceedings in closed court
@@ -354,8 +354,8 @@ A person is disqualified to sit as a military member if he or she—
   (c) the Judge and the military members deliberate on the sentence in accordance with section 61.
 (2) The Court Martial may hold its proceedings in closed court on any other deliberation.
 (3) When the Court Martial holds its proceedings in closed court, only the following persons may be present:
-  (a) the members of the court referred to in subsection (1)(a), (b), or (c) (as the case requires):
-  (b) in the case of proceedings referred to in subsection (1)(a), the persons referred to in section 39(2)(c)(iii) to (vii):
+  (a) the members of the court referred to in subsection (1)﻿(a), (b), or (c) (as the case requires):
+  (b) in the case of proceedings referred to in subsection (1)﻿(a), the persons referred to in section 39(2)﻿(c)﻿(iii) to (vii):
   (c) any other persons authorised by the Judge.
 
 ### 39 Judge may limit scope of open court
@@ -379,7 +379,7 @@ A person is disqualified to sit as a military member if he or she—
     (vi) the Registrar or any other officer of the Court Martial:
     (vii) an interpreter required in the proceedings:
     (viii) a person expressly permitted by the Judge to be present.
-(3) However, the Judge may make an order specified in subsection (2)(c) that has the effect of excluding any accredited news media reporter from the proceedings only on the grounds specified in subsection (1)(a), but not on any of the grounds specified in subsection (1)(b).
+(3) However, the Judge may make an order specified in subsection (2)﻿(c) that has the effect of excluding any accredited news media reporter from the proceedings only on the grounds specified in subsection (1)﻿(a), but not on any of the grounds specified in subsection (1)﻿(b).
 
 ### 40 Duration of order limiting scope of open court
 An order specified in section 39(2) limiting the scope of open court—
@@ -395,7 +395,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
     (iii) assault with intent to commit sexual violation:
     (iv) an offence against section 129A of the Crimes Act 1961 (sexual conduct with consent induced by certain threats):
     (v) an offence against section 142A of the Crimes Act 1961 (compelling indecent act with an animal):
-  (b) section 75 of that Act, where the offence is one of aiding, abetting, inciting, counselling, procuring, or conspiring with any person to commit any offence referred to in paragraph (a)(i) to (v).
+  (b) section 75 of that Act, where the offence is one of aiding, abetting, inciting, counselling, procuring, or conspiring with any person to commit any offence referred to in paragraph (a)﻿(i) to (v).
 
 ### 42 Special provisions in cases involving sexual violation
 (1) While the complainant in a case involving sexual violation is giving oral evidence (whether in chief or under cross-examination or on re-examination), no person may be present except the following:
@@ -412,7 +412,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
   (k) a person expressly permitted by the Judge to be present.
 (2) Before the complainant in a case involving sexual violation commences to give evidence, the Judge must—
   (a) ensure that no person other than one referred to in subsection (1) is present; and
-  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)(j).
+  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)﻿(j).
 (3) If, in a case involving sexual violation, the Judge is of the opinion that the interests of the complainant so require, he or she may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or consent to or acquiesce in.
 (4) This section does not limit or affect the powers of the Judge to make an order specified in section 39(2) that excludes any person from, or forbids the publication of any report or account of, the proceedings.
 
@@ -426,7 +426,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
     (ii) the Director of Military Prosecutions; and
     (iii) the Judge for the proceedings; and
     (iv) the military members for the proceedings.
-(2) At the beginning of the trial, the notice under subsection (1)(b) must—
+(2) At the beginning of the trial, the notice under subsection (1)﻿(b) must—
   (a) be accompanied by a copy of the charge sheet certified by the Director of Military Prosecutions in accordance with section 101F(c) of the 1971 Act and laid before the Registrar in accordance with section 101F(e) of that Act; and
   (b) in the case of a notice to the accused, be accompanied by a copy of all documents submitted to the Judge by the Director of Military Prosecutions in relation to the charge; and
   (c) in the case of a notice to the military members, be accompanied by an information sheet that—
@@ -437,7 +437,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
 (1) The Judge for the proceedings must—
   (a) rule on every question of law or procedure that arises during any trial in the Court Martial; and
   (b) sit in the absence of the military members to determine the question of law or procedure if the Judge considers it would be desirable in the interests of justice to do so.
-(2) To avoid doubt, the Judge may sit alone under subsection (1)(b) before or after the appointment of the military members.
+(2) To avoid doubt, the Judge may sit alone under subsection (1)﻿(b) before or after the appointment of the military members.
 (3) A ruling under subsection (1) must be followed by the military members.
 (4) In this section, question of law includes any question arising in respect of—
   (a) a plea to the general jurisdiction of the Court Martial:
@@ -447,9 +447,9 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
   (e) an application for the severance of charges:
   (f) a submission that there is no case to answer:
   (g) the admissibility of evidence:
-  (h) an application for a ruling referred to in section 30(2)(a):
+  (h) an application for a ruling referred to in section 30(2)﻿(a):
   (i) an application for an order specified in section 39(2):
-  (j) an order under any of sections 139 to 141 of the Criminal Justice Act 1985 (as applied to proceedings under the 1971 Act by section 145 of the 1971 Act):
+  (j) an order under subpart 3 of Part 5 of the Criminal Procedure Act 2011 (as applied to proceedings under the 1971 Act by section 145 of the 1971 Act):
   (k) an application for discovery:
   (l) the fitness of the accused to stand trial.
 
@@ -469,9 +469,9 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
   (a) by delivering it to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
 (2) The summons must,—
-  (a) if it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required:
-  (b) if it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)(b) to be served at the time when the letter would be delivered in the ordinary course of post.
+  (a) if it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required:
+  (b) if it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)﻿(b) to be served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 47 Administration of oaths
 (1) An oath in the prescribed form must be administered to—
@@ -493,7 +493,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
 (1) The Judge—
   (a) must discharge the military members if they are unable to reach a unanimous decision on the charge; or
   (b) may discharge the military members if, before or after the beginning of a trial, the Judge considers it to be necessary or expedient in the interests of the administration of justice.
-(2) Section 55(2) applies if subsection (1)(a) applies.
+(2) Section 55(2) applies if subsection (1)﻿(a) applies.
 (3) If, after the beginning of a trial, the Judge dies or is otherwise unable to attend,—
   (a) the Chief Judge must assign another Judge to be the Judge of the Court Martial; and
   (b) that Judge must discharge the military members.
@@ -567,11 +567,11 @@ Any time during which an appellant is released from imprisonment or detention on
     (i) a provost officer:
     (ii) a person lawfully exercising authority under or on behalf of a provost officer:
     (iii) a member of the police.
-(3) For the purpose of executing the warrant, a person referred to in subsection (2)(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the person against whom the warrant is issued is on those premises.
+(3) For the purpose of executing the warrant, a person referred to in subsection (2)﻿(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the person against whom the warrant is issued is on those premises.
 (4) The person executing the warrant—
   (a) must have the warrant with him or her; and
   (b) must produce it on initial entry and, if requested, at any subsequent time; and
-  (c) if he or she is not in uniform, produce evidence that he or she is one of the persons referred to in subsection (2)(b).
+  (c) must if he or she is not in uniform, produce evidence that he or she is one of the persons referred to in subsection (2)﻿(b).
 
 ### 54 Person arrested under warrant for absconding or breaching bail condition must be brought before Judge
 (1) A person who is arrested under a warrant issued under section 53 must be brought before a Judge as soon as possible.
@@ -585,11 +585,11 @@ Any time during which an appellant is released from imprisonment or detention on
 
 ### 55 Finding of Court Martial
 (1) The finding of the Court Martial on a charge must be determined by the unanimous vote of the military members.
-(2) If the military members are unable to reach a unanimous decision on the charge, the Judge must refer the charge back to the Director of Military Prosecutions after discharging the military members in accordance with section 48(1)(a).
+(2) If the military members are unable to reach a unanimous decision on the charge, the Judge must refer the charge back to the Director of Military Prosecutions after discharging the military members in accordance with section 48(1)﻿(a).
 (3) The Director of Military Prosecutions may then—
   (a) decide not to proceed with the charge; or
   (b) lay the charge sheet again, or an amended version of the charge sheet, before the Registrar.
-(4) If subsection (3)(b) applies, the Registrar must assign new military members in accordance with sections 22 to 26 and, as the case may be, section 28.
+(4) If subsection (3)﻿(b) applies, the Registrar must assign new military members in accordance with sections 22 to 26 and, as the case may be, section 28.
 
 ### 56 Power to convict of offence other than that charged
 (1) This section applies if a provision of the 1971 Act provides that—
@@ -630,7 +630,7 @@ If the Court Martial records a conviction on a charge laid in the alternative, t
 (1) This section applies if an offender for whom an order is made under section 62—
   (a) is convicted or found guilty summarily of a subsequent offence against the 1971 Act or any other Act; or
   (b) fails to comply with any other order referred to in section 62(4); or
-  (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in section 10(1)(b), (d), or (e) of the Sentencing Act 2002 that was brought to the attention of the Court Martial at the time the Court Martial made the order under section 62.
+  (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in section 10(1)﻿(b), (d), or (e) of the Sentencing Act 2002 that was brought to the attention of the Court Martial at the time the Court Martial made the order under section 62.
 (2) The Director of Military Prosecutions may, at any time within the period specified in the order, apply to the Court Martial to have the offender brought before the Court Martial to be dealt with for the original offence.
 (3) On an application under subsection (2), the offender is to be placed in close arrest and brought before the Court Martial at the time and place directed by the Registrar.
 (4) If a person appears before the Court Martial under this section and the Court Martial is satisfied of any of the matters specified in subsection (1), the Court Martial—
@@ -688,7 +688,7 @@ No proceedings before the Court Martial may—
 ### 70 Application of provisions of Evidence Act 2006 relating to jury trials to proceedings under this Act or 1971 Act
 (1) The provisions of the Evidence Act 2006 that relate to a trial before a jury apply, to the extent that they are applicable and subject to all necessary modifications, to proceedings of the Court Martial under this Act or the 1971 Act that involve military members as if those proceedings were proceedings that involve a jury.
 (2) The provisions of the Evidence Act 2006 referred to in subsection (1)—
-  (a) include sections 32(2)(b), 45(3)(e) and (f), 76, 82, 83(1), 98(5)(a), 105(1)(b), 109(2) and (3), 121(2), and 122 to 127; but
+  (a) include sections 32(2)﻿(b), 45(3)﻿(e) and (f), 76, 82, 83(1), 98(5)﻿(a), 105(1)﻿(b), 109(2) and (3), 121(2), and 122 to 127; but
   (b) do not include sections 101 and 128.
 
 ### 71 Evidence in proceedings under this Act or 1971 Act
@@ -746,7 +746,7 @@ No proceedings before the Court Martial may—
   (b) is in the custody of—
     (i) the Judge Advocate General; or
     (ii) any person lawfully having custody of any original record.
-(2) On its being produced from the custody of a person referred to in subsection (1)(b), the original record to which this subsection applies is admissible in evidence in all proceedings under this Act or the 1971 Act and in all courts in New Zealand.
+(2) On its being produced from the custody of a person referred to in subsection (1)﻿(b), the original record to which this subsection applies is admissible in evidence in all proceedings under this Act or the 1971 Act and in all courts in New Zealand.
 (3) Subsection (4) applies to a document that appears—
   (a) to be a copy of the original record (including a transcript of an audio recording of the proceedings) of any proceedings of the Court Martial or of part of that record; and
   (b) to be certified by the Judge Advocate General, or by any person lawfully having custody of the original record, as being a true copy of that record or part of that record.
@@ -851,25 +851,25 @@ The enactments specified in Schedule 2 are amended in the manner indicated in th
 | 1 | Section 23(1) (aiding the enemy with intent to assist the enemy). | Section 23(2) (aiding the enemy knowingly and without lawful excuse). |
 | 2 | Section 24(1) (communicating with, giving intelligence to, or failing to report information about the enemy, with intent to assist the enemy). | aSection 24(2) (communicating with or giving intelligence to the enemy without authority, or failing to report information about the enemy without lawful excuse); orbSection 25 (disclosing information without authority). |
 | 3 | Section 24(2) (communicating with or giving intelligence to the enemy without authority, or failing to report information about the enemy without lawful excuse). | Section 25 (disclosing information without authority). |
-| 4 | Section 29(1)(b) (when before the enemy, using words which to his or her knowledge are likely to create despondency or unnecessary alarm). | Section 29(2) (the corresponding offence without knowledge). |
-| 5 | Section 34(5)(a) (striking a person on guard duty or on watch). | Section 34(5)(b) (using force against a person on guard duty or on watch otherwise than by striking him or her). |
-| 6 | Section 35(1)(a) (striking his or her superior officer). | aSection 35(1)(b) (using violence to his or her superior officer otherwise than by striking); orbSection 35(1)(c) (offering violence to his or her superior officer). |
-| 7 | Section 35(1)(b) (using violence to his or her superior officer, other than by striking). | Section 35(1)(c) (offering violence to his or her superior officer). |
-| 8 | Section 35(1)(c) (offering violence to his or her superior officer). | Section 36(1)(a) (using threatening language to his or her superior officer). |
-| 9 | Section 36(1)(a) (using threatening language to his or her superior officer). | aSection 36(1)(b) (using insubordinate language to his or her superior officer); orbSection 36(1)(c) (using insulting language to his or her superior officer). |
-| 10 | Section 36(1)(b) (using insubordinate language to his or her superior officer). | Section 36(1)(c) (using insulting language to his or her superior officer). |
+| 4 | Section 29(1)﻿(b) (when before the enemy, using words which to his or her knowledge are likely to create despondency or unnecessary alarm). | Section 29(2) (the corresponding offence without knowledge). |
+| 5 | Section 34(5)﻿(a) (striking a person on guard duty or on watch). | Section 34(5)﻿(b) (using force against a person on guard duty or on watch otherwise than by striking him or her). |
+| 6 | Section 35(1)﻿(a) (striking his or her superior officer). | aSection 35(1)﻿(b) (using violence to his or her superior officer otherwise than by striking); orbSection 35(1)﻿(c) (offering violence to his or her superior officer). |
+| 7 | Section 35(1)﻿(b) (using violence to his or her superior officer, other than by striking). | Section 35(1)﻿(c) (offering violence to his or her superior officer). |
+| 8 | Section 35(1)﻿(c) (offering violence to his or her superior officer). | Section 36(1)﻿(a) (using threatening language to his or her superior officer). |
+| 9 | Section 36(1)﻿(a) (using threatening language to his or her superior officer). | aSection 36(1)﻿(b) (using insubordinate language to his or her superior officer); orbSection 36(1)﻿(c) (using insulting language to his or her superior officer). |
+| 10 | Section 36(1)﻿(b) (using insubordinate language to his or her superior officer). | Section 36(1)﻿(c) (using insulting language to his or her superior officer). |
 | 11 | Section 41(a) (striking another person subject to this Act who is of inferior rank). | Section 41(b) (ill-treating such a person otherwise than by striking him or her). |
-| 12 | Section 44(2)(a) (striking a member of the Armed Forces ordering offender into arrest). | aSection 44(2)(b) (using violence to a member of the Armed Forces ordering offender into arrest otherwise than by striking); orbSection 44(2)(c) (offering violence to any such member of the Armed Forces). |
-| 13 | Section 44(2)(b) (using violence to a member of the Armed Forces who has ordered offender into arrest). | Section 44(2)(c) (offering violence to any such member of the Armed Forces). |
-| 14 | Section 44(3)(a) (striking person who is apprehending an offender or who is holding him or her in custody). | aSection 44(3)(b) (using violence to any such person otherwise than by striking); orbSection 44(3)(c) (offering violence to any such person). |
-| 15 | Section 44(3)(b) (using violence to any person who is apprehending an offender or who is holding him or her in custody). | Section 44(3)(c) (offering violence to any such person). |
+| 12 | Section 44(2)﻿(a) (striking a member of the Armed Forces ordering offender into arrest). | aSection 44(2)﻿(b) (using violence to a member of the Armed Forces ordering offender into arrest otherwise than by striking); orbSection 44(2)﻿(c) (offering violence to any such member of the Armed Forces). |
+| 13 | Section 44(2)﻿(b) (using violence to a member of the Armed Forces who has ordered offender into arrest). | Section 44(2)﻿(c) (offering violence to any such member of the Armed Forces). |
+| 14 | Section 44(3)﻿(a) (striking person who is apprehending an offender or who is holding him or her in custody). | aSection 44(3)﻿(b) (using violence to any such person otherwise than by striking); orbSection 44(3)﻿(c) (offering violence to any such person). |
+| 15 | Section 44(3)﻿(b) (using violence to any person who is apprehending an offender or who is holding him or her in custody). | Section 44(3)﻿(c) (offering violence to any such person). |
 | 16 | Section 46(1) (permitting the escape of prisoners and other persons in custody wilfully and without authority). | Section 46(2) (doing certain specified acts with intent to facilitate escape). |
 | 17 | Section 47 (desertion). | Section 48 (absence without leave). |
 | 18 | Sections 47 and 76 (attempting to desert). | Section 48 (absence without leave). |
-| 19 | Section 57(1)(a) (stealing service property or property belonging, etc, to a person subject to service law). | Section 57(1)(b) (fraudulently misapplying any such property). |
+| 19 | Section 57(1)﻿(a) (stealing service property or property belonging, etc, to a person subject to service law). | Section 57(1)﻿(b) (fraudulently misapplying any such property). |
 | 20 | Section 58 (receiving service property or property belonging, etc, to a person subject to service law). | Section 59 (being in possession of any such property without lawful excuse). |
 | 21 | Section 61(1) (wilful destruction of or damage to property). | Section 61(2) (negligent destruction of or damage to property). |
 | 22 | Section 64(1) (losing or hazarding a ship, aircraft, or armoured fighting vehicle wilfully and without authority). | Section 64(2) (losing or hazarding a ship, aircraft, or armoured fighting vehicle negligently). |
-| 23 | Section 67(1)(a) (reckless or dangerous driving). | Section 67(2) (careless or inconsiderate driving). |
+| 23 | Section 67(1)﻿(a) (reckless or dangerous driving). | Section 67(2) (careless or inconsiderate driving). |
 
 ## Schedule 2 — Consequential amendments to other enactments
