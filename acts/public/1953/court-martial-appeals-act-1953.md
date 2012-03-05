@@ -1,5 +1,5 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-03-05_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
@@ -17,7 +17,7 @@ _Consolidation as at 2010-07-07_
   - **Court Martial** means the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007
   - **Director of Military Prosecutions** means the Director of Military Prosecutions appointed under section 101E of the Armed Forces Discipline Act 1971
   - **Judge Advocate General** means the Judge Advocate General of the Armed Forces appointed under section 203 of the Armed Forces Discipline Act 1971
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Defence
   - **offence** means an offence against the Armed Forces Discipline Act 1971
   - **prescribed** means prescribed by rules of court
@@ -40,14 +40,14 @@ _Consolidation as at 2010-07-07_
   (b) ceases to hold office when he or she reaches the age of 75 years:
   (c) ceases to hold office if he or she is, under the Insolvency Act 2006, adjudged bankrupt:
   (d) may be removed from office only by the Sovereign or the Governor-General, acting upon the address of the House of Representatives.
-(3A) An address under subsection (3)(d) may be moved only on the ground of—
+(3A) An address under subsection (3)﻿(d) may be moved only on the ground of—
   (a) the appointed Judge’s misbehaviour; or
   (b) the appointed Judge’s incapacity to discharge the functions of his or her office.
 (3B) Each appointed Judge is to be paid, out of public money, without further authority than this section,—
   (a) a salary at the rate that the Remuneration Authority determines; and
   (b) any allowances that are determined by the Remuneration Authority; and
   (c) any additional allowances (being travelling allowances or other incidental or minor allowances) that may be determined by the Governor-General.
-(4) Every person appointed under subsection (1)(b) has all the immunities of a Judge of the High Court for the purposes of carrying out his or her tasks and functions as a Judge of the Court Martial Appeal Court.
+(4) Every person appointed under subsection (1)﻿(b) has all the immunities of a Judge of the High Court for the purposes of carrying out his or her tasks and functions as a Judge of the Court Martial Appeal Court.
 
 ### 4 Supplementary provisions as to court
 (1) For the purpose of hearing and determining appeals under this Act, or any matter preliminary or incidental to an appeal, the court shall be summoned in accordance with directions given by the Chief High Court Judge, and shall be deemed to be duly constituted if—
@@ -79,7 +79,7 @@ _Consolidation as at 2010-07-07_
   (a) confirm the decision; or
   (b) vary the decision; or
   (c) set the decision aside.
-(5) If subsection (4)(c) applies, the court may make any other decision that—
+(5) If subsection (4)﻿(c) applies, the court may make any other decision that—
   (a) could have been made in the first place; and
   (b) the court thinks appropriate.
 
@@ -90,7 +90,7 @@ _Consolidation as at 2010-07-07_
   (a) confirm the ruling; or
   (b) vary the ruling; or
   (c) set the ruling aside.
-(4) If subsection (3)(c) applies, the court may make any other ruling that—
+(4) If subsection (3)﻿(c) applies, the court may make any other ruling that—
   (a) could have been made in the first place; and
   (b) the court thinks appropriate.
 (5) In this section, question of law includes any question arising in respect of—
@@ -101,9 +101,9 @@ _Consolidation as at 2010-07-07_
   (e) an application for the severance of charges:
   (f) a submission that there is no case to answer:
   (g) the admissibility of evidence:
-  (h) an application for a ruling referred to in section 30(2)(a) of the Court Martial Act 2007:
+  (h) an application for a ruling referred to in section 30(2)﻿(a) of the Court Martial Act 2007:
   (i) an application for an order specified in section 39(2) of the Court Martial Act 2007:
-  (j) an order under any of sections 139 to 141 of the Criminal Justice Act 1985 (as applied to proceedings under the Armed Forces Discipline Act 1971 by section 145 of that Act):
+  (j) an order under subpart 3 of Part 5 of the Criminal Procedure Act 2011 (as applied to proceedings under the Armed Forces Discipline Act 1971 by section 145 of that Act):
   (k) an application for discovery.
 
 ### 8 Procedure for obtaining leave of court to appeal against ruling
@@ -139,7 +139,7 @@ _Consolidation as at 2010-07-07_
   (b) dismiss the appeal in any other case.
 (2) However, the court may dismiss the appeal if it considers that no substantial miscarriage of justice has actually occurred even though it considers that the point raised in the appeal might be decided in favour of the appellant.
 (3) If the court allows an appeal, the court—
-  (a) may squash the conviction; and
+  (a) may quash the conviction; and
   (b) may do any of the following:
     (i) direct a judgment and finding of acquittal to be entered; or
     (ii) direct a new trial; or
@@ -239,7 +239,7 @@ In an appeal to the Court of Appeal or the Supreme Court under section 10 or 10A
   (d) receive the evidence, if tendered, of any witness (including the appellant) who is a competent but not compellable witness and, if the appellant makes an application for the purpose, of the spouse or civil union partner of the appellant in cases where the evidence of the spouse or civil union partner could not have been given at the trial except on such an application:
   (e) where any question arising on the appeal involves prolonged examination of documents or accounts, or any scientific or local investigation, which cannot in the opinion of the court conveniently be conducted before the court, order the reference of the question in the prescribed manner for inquiry and report to a special commissioner appointed by the court, and act upon the report of any such commissioner so far as the court thinks fit to adopt it:
   (f) appoint any person with special expert knowledge to act as an assessor to the court in any case where it appears to the court that such special knowledge is required for the proper determination of the case,—
-(2) The court must not make an order under subsection (1)(b) for the purpose of obtaining a report from a military member of the Court Martial unless—
+(2) The court must not make an order under subsection (1)﻿(b) for the purpose of obtaining a report from a military member of the Court Martial unless—
   (a) it also makes an order for the purpose of obtaining a report from the Judge at the trial; or
   (b) it is satisfied that obtaining a report from the Judge at the trial is impracticable or would involve undue delay.
 
@@ -321,11 +321,11 @@ The proceedings of the court shall be conducted in open court, except when the c
     (i) a provost officer:
     (ii) a person lawfully exercising authority under or on behalf of a provost officer:
     (iii) a constable.
-(3) For the purpose of executing the warrant, a person referred to in subsection (2)(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the appellant against whom it is issued is on those premises.
+(3) For the purpose of executing the warrant, a person referred to in subsection (2)﻿(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the appellant against whom it is issued is on those premises.
 (4) The person executing the warrant—
   (a) must have the warrant with him or her; and
   (b) must produce it on initial entry and, if requested, at any subsequent time; and
-  (c) must, if he or she is not in uniform, produce evidence that he or she is one of the persons referred to in subsection (2)(b).
+  (c) must, if he or she is not in uniform, produce evidence that he or she is one of the persons referred to in subsection (2)﻿(b).
 
 ### 20C Appellant arrested under warrant for absconding or breaching bail condition must be brought before Judge
 (1) An appellant who is arrested under a warrant issued under section 20B must be brought before a Judge as soon as possible.
@@ -363,8 +363,8 @@ In every appeal under section 7 or 9, it is the duty of the Judge Advocate Gener
 (2) The court may deal with a reference from the Judge Advocate General or the Minister by way of a hearing on the papers if the person who is sent a notice under subsection (1)—
   (a) indicates that he or she does not want to be legally represented at an oral hearing of the matter; or
   (b) otherwise indicates that he or she does not require an oral hearing of the matter; or
-  (c) does not provide written advice under subsection (1)(b)(ii) within the prescribed period.
-(3) In this section, prescribed period means a period of 21 days commencing on the day after the day that the notice under subsection (1)(b) is sent.
+  (c) does not provide written advice under subsection (1)﻿(b)﻿(ii) within the prescribed period.
+(3) In this section, prescribed period means a period of 21 days commencing on the day after the day that the notice under subsection (1)﻿(b) is sent.
 
 **Miscellaneous**
 
@@ -386,9 +386,9 @@ In every appeal under section 7 or 9, it is the duty of the Judge Advocate Gener
 The Governor-General may from time to time, by Order in Council, make regulations, not inconsistent with this Act, for all or any of the following purposes:
   (a) providing for the payment of such fees, allowances, and expenses as may be fixed or determined by or in accordance with the regulations to the following persons (other than members of the regular forces):
     (i)
-    (ii) a person appointed by the court under section 11(1)(c) to conduct the examination of a witness:
-    (iii) a person appointed by the court under section 11(1)(e) to inquire into, and report on, a question arising on an appeal:
-    (iv) a person appointed by the court under section 11(1)(f) to be an assessor:
+    (ii) a person appointed by the court under section 11(1)﻿(c) to conduct the examination of a witness:
+    (iii) a person appointed by the court under section 11(1)﻿(e) to inquire into, and report on, a question arising on an appeal:
+    (iv) a person appointed by the court under section 11(1)﻿(f) to be an assessor:
   (b) prescribing the fees, allowances, and expenses payable to witnesses, and other expenses referred to in subsection (2) of section 16.
 
 ### 27 Saving for prerogative of mercy
