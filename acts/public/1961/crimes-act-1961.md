@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-03-05_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -3061,8 +3061,8 @@ Where any one is charged with any offence in respect of which the leave or conse
 ### 316 Duty of persons arresting
 (1) It is the duty of every one arresting any other person to inform the person he is arresting, at the time of the arrest, of the act or omission for which the person is being arrested, unless it is impracticable to do so, or unless the reason for the arrest is obvious in the circumstances. The act or omission need not be stated in technical or precise language, and may be stated in any words sufficient to give that person notice of the true reason for his arrest.
 (2) It is the duty of every one who arrests any other person pursuant to any process or warrant—
-  (a) if he has the process or warrant in his possession at the time of the arrest, to produce it if required by that person to do so:
-  (b) if he does not have the process or warrant in his possession at the time of the arrest, to show it to the arrested person as soon as practicable after the arrest, if that person so requires.
+  (a) if he or she has the process or warrant, or a copy of it, in his or her possession at the time of the arrest, to produce it if required by that person to do so:
+  (b) if he or she does not have the process or warrant, or a copy of it, in his or her possession at the time of the arrest, to show it to the arrested person as soon as practicable after the arrest, if that person so requires.
 (3) Where under any enactment any person other than a constable has, by virtue of his office, a power of arrest without warrant, he shall, whenever he arrests any other person pursuant to that power,—
   (a) if he has evidence of his appointment to that office in his possession at the time of the arrest, produce it if required by that person to do so:
   (b) if he does not have evidence of his appointment in his possession at the time of the arrest, show it to the arrested person as soon as practicable after the arrest, if that person so requires.
@@ -3645,28 +3645,7 @@ Nothing in this Act affects the powers of a court or Judge or Registrar to disch
 [Repealed]
 
 ### 375A Special provisions in cases of sexual nature
-(1) For the purposes of this section, case of a sexual nature means proceedings in which a person is charged with, or is to be sentenced for, any of the following offences:
-  (a) any offence against any of the provisions of sections 128 to 142A:
-  (aa) any offence against section 144A:
-  (b) any other offence against the person of a sexual nature:
-  (c) being a party to the commission of any offence referred to in paragraph (a) or paragraph (aa) or paragraph (b):
-  (d) conspiring with any person to commit any such offence.
-(2) While the complainant in a case of a sexual nature is giving oral evidence (whether in chief or under cross-examination or on re-examination), no person shall be present in the courtroom except the following:
-  (a) the Judge and jury:
-  (b) the accused and any person who is for the time being acting as custodian of the accused:
-  (c) any barrister or solicitor engaged in the proceedings:
-  (d) any officer of the court:
-  (e) any person who is for the time being responsible for recording the proceedings:
-  (f) the constable in charge of the case:
-  (g) any accredited news media reporter:
-  (h) any person whose presence is requested by the complainant:
-  (i) any person expressly permitted by the Judge to be present.
-(3) Before the complainant in a case of a sexual nature commences to give evidence, the Judge shall—
-  (a) ensure that no person other than one referred to in subsection (2) is present in the courtroom; and
-  (b) advise the complainant of the complainant's right to request the presence of any person under paragraph (h) of that subsection.
-(4) Where in a case of a sexual nature the court is of the opinion that the interests of the complainant so require, it may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or to consent to or acquiesce in.
-(5) The breach of any order made under subsection (4), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
-(6) Nothing in this section shall limit or affect the powers of the court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 401 of this Act or any other enactment.
+[Repealed]
 
 ### 376 Presence of the accused
 (1) Every accused person shall be entitled to be present in court during the whole of his trial, unless he misconducts himself by so interrupting the proceedings as to render their continuance in his presence impracticable.
@@ -3772,7 +3751,7 @@ The Attorney-General may at any time after any person has been committed for tri
   (a) any conditions that the court considers are required to safeguard the fairness of the retrial:
   (b) any other directions as to the conduct of the retrial.
 (2) A court may, if it considers that the interests of justice so require, exclude any person from the hearing of an application under section 378A or 378D, or forbid any report or account of any evidence given or referred to at such a hearing or prohibit the publication of the name of the acquitted person or of any other person connected with a retrial for which leave is sought or has been granted.
-(3) For the purposes of subsection (2), sections 138 and 140 of the Criminal Justice Act 1985, so far as they are applicable, apply with all necessary modifications.
+(3) For the purposes of subsection (2), subpart 3 of Part 5 of the Criminal Procedure Act 2011, so far as it is applicable, applies with the necessary modifications.
 
 ### 378F Effect of order for retrial
 (1) If an order for a retrial is granted under section 378A or 378D,—
@@ -3799,7 +3778,7 @@ In this Part, unless the context otherwise requires,—
   (a) against a refusal to make an order under subsection (1) of section 322:
   (aa) against the making of an order under section 344A, or against the refusal of a Judge to make such an order:
   (b) against the making of an order under subsection (3) of section 330 or under subsection (3) of section 340, or against a refusal to make any such order:
-  (ba) against the making of an order under paragraph (a) or paragraph (b) of section 138(2) or section 140 of the Criminal Justice Act 1985, or the refusal to make any such order:
+  (ba) against the making of an order under section 200, 202, or 205 of the Criminal Procedure Act 2011, or the refusal to make any such order:
   (c) against the quashing or amendment of the indictment under subsection (2) of section 342, or against a refusal to quash or amend the indictment under that subsection:
   (ca) against an order under section 345B extending the period allowed for filing an indictment or refusing to do so:
   (cb) against an order under section 345C excusing the prosecution from the obligation to disclose certain information:
