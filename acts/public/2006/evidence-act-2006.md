@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -1271,7 +1271,7 @@ If a witness anonymity order is made under section 112,—
 (2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence at any committal hearing or the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
 (3) This section does not limit—
   (a) section 206 of the Summary Proceedings Act 1957 (which confers power to deal with contempt of court); or
-  (b) section 138 of the Criminal Justice Act 1985 (which confers power to clear the court); or
+  (b) section 197 of the Criminal Procedure Act 2011 (which confers power to clear the court); or
   (c) any power of the court to direct that evidence be given, or to permit evidence to be given, by a particular mode.
 
 ### 117 Variation or discharge of witness anonymity order during trial
