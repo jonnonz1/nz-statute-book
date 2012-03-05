@@ -1,5 +1,5 @@
 # Crimes Amendment Act (No 4) 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Crimes Amendment Act (No 4) 2011.
@@ -31,4 +31,4 @@ The principal Act is amended as set out in the Schedule.
 ## Schedule  — Amendments to principal Act
 
 ### 243A Charges for money laundering
-A person charged with an offence against section 243(2) or (3) of this Act or section 12B of the Misuse of Drugs Act 1975 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+A person charged with an offence against section 243(2) or (3) of this Act or section 12B of the Misuse of Drugs Act 1975 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice
