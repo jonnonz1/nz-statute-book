@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-03-05_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -245,7 +245,8 @@ After the jury is constituted but before the case is opened or the accused given
 ### 22 Discharge of juror or jury
 (1) When this subsection applies, the court, having regard to the interests of justice, may either—
   (a) discharge the jury without the jury giving a verdict (whether unanimous or majority); or
-  (b) discharge the juror or jurors concerned from the panel and jury and proceed with the remaining jurors and take their verdict (whether unanimous or majority).
+  (b) discharge the juror or jurors concerned from the panel and jury and, subject to subsection (1A), proceed with the remaining jurors and take their verdict (whether unanimous or majority).
+(1A) The court may proceed with fewer than 10 jurors under subsection (1)(b) only if all parties consent to doing so and the court, having regard to the interests of justice, considers that it should do so.
 (2) Subsection (1) applies if, and only if, before or after the jury is constituted but before the jury’s verdict is taken, the court considers that—
   (a) a juror is incapable of performing, or continuing to perform, the juror’s duty as a juror in the case; or
   (b) a juror is disqualified; or
@@ -266,10 +267,8 @@ After the jury is constituted but before the case is opened or the accused given
   (b) the court may, if the discharge occurs before the case is opened or the accused is given in charge, require a further juror to be selected from the panel and sworn under sections 18 and 20:
   (c) the choice of a foreperson is not affected (even if 1 or more replacement jurors are selected and sworn under paragraph (b)) if that choice has already been made and the juror who was chosen as foreperson is not the juror discharged:
   (d) if the juror has, by the time he or she is discharged, been chosen as foreperson, another foreperson must be chosen under section 21 from among the other jurors (including any 1 or more replacement jurors selected and sworn under paragraph (b)).
-(2) Despite section 22(1)(b), the court may proceed with fewer than 11 jurors only if—
-  (a) all parties consent and the court, having regard to the interests of justice, considers that the court should proceed in accordance with that consent; or
-  (b) the court considers that, because of exceptional circumstances relating to the trial (for example, the length or expected length of the trial), and having regard to the interests of justice, the court should proceed with fewer than 11 jurors; and in that case the court may proceed with 10 jurors but no fewer, even though all parties do not consent.
-(3) If the court proceeds with fewer than 12 jurors, their verdict (whether unanimous or majority) has, despite section 17, the same effect as a verdict of 12 jurors.
+(2)
+(3) If the court proceeds with fewer than 12 jurors under section 22(1)(b), their verdict (whether unanimous or majority) has, despite section 17, the same effect as a verdict of 12 jurors.
 (4) On discharging the jury under section 22(1)(a) or (3), the court must either—
   (a) direct that a new jury be empanelled during the sitting of the court; or
   (b) postpone the trial on any terms justice requires.
