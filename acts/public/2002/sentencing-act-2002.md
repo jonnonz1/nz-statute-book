@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2131,7 +2131,7 @@ The court must not convict and discharge an offender unless it is satisfied that
 (3) Subject to subsection (4), a non-association order may be made in addition to, or instead of, imposing a sentence or making any other order.
 (4) If the court makes a non-association order, it must not at the same time impose on the offender a sentence of imprisonment, whether for the offence for which that order was made or for any other offence for which the offender has appeared for sentence.
 (5) The court must not make a non-association order if the offender is already detained under a sentence of imprisonment of more than 24 months imposed on an earlier occasion.
-(6) Section 140 of the Criminal Justice Act 1985 applies to a person specified in a non-association order as if that person were connected with the proceedings.
+(6) Section 202 of the Criminal Procedure Act 2011 applies to a person specified in a non-association order as if that person were connected with the proceedings.
 
 ### 113 Effect of non-association order
 (1) A non-association order prohibits the offender from associating with—
