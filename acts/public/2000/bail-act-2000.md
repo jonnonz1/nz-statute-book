@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2009-10-28_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -122,6 +122,10 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
   (c) the personal circumstances of the defendant and the defendant's immediate family:
   (d) any other consideration that the court considers relevant.
 (4) If the defendant is unlikely to receive a sentence of imprisonment, this must count against the defendant being remanded in custody.
+(4A) Despite being satisfied that it would otherwise be in the interests of justice to grant bail, the court may remand the defendant in custody for the purpose described in subsection (4B) if it is satisfied that—
+  (a) the defendant has breached a condition of bail imposed under section 31(2A); and
+  (b) there is no other reasonable means to achieve the purpose described in subsection (4B).
+(4B) The purpose referred to in subsection (4A) is to ensure that the defendant takes the steps necessary for the proceedings to be progressed within a reasonable time frame.
 (5) This section is subject to section 11.
 
 ### 14 Exercise of discretion when considering bail pending appeal
@@ -161,11 +165,29 @@ A District Court may, despite the limitations imposed on District Court Judges b
 ### 18 Bail hearing may be in private
 A court may, having regard to the interests of the defendant or any other person and to the public interest, order that the whole or any part of an application for bail or an appeal against a bail decision be heard in private.
 
-### 19 Court may prohibit publication of matters relating to hearing
-A court may make an order prohibiting the publication of any report or description of the hearing or any part of the hearing including, without limitation, all or any of the following:
+### 19 Publication of matters relating to hearing
+(1) No person may publish a report or account of any matters dealt with at a bail hearing, apart from the following matters:
   (a) the identity of the defendant applying for bail:
-  (b) the decision of the court on the application:
-  (c) the conditions of bail, if bail is granted.
+  (b) the charges faced by the defendant:
+  (c) the decision of the court on the application:
+  (d) the conditions of bail, if bail is granted.
+(2) Despite subsection (1), a court may make an order—
+  (a) that permits publication of other details; or
+  (b) that prohibits publication of all or any of the details set out in subsection (1)(a) to (d).
+(3) The general prohibition on publication of details of a bail hearing under subsection (1), and any specific prohibition that is ordered under subsection (2)(b), applies until—
+  (a) the conclusion of the defendant's trial; or
+  (b) any earlier time ordered by the court.
+(4) For the purposes of subsection (3), the conclusion of the defendant's trial means—
+  (a) the expiry of the appeal period for an appeal of the decision or verdict at the defendant's trial; or
+  (b) if the decision or verdict is appealed, the date on which that appeal is finally determined or withdrawn.
+(5) Every person commits an offence who knowingly or recklessly publishes details of a bail hearing in breach of subsection (1), or in breach of any specific prohibition that is ordered under subsection (2), and is liable on conviction,—
+  (a) in the case of an individual, to a term of imprisonment not exceeding 6 months:
+  (b) in the case of a body corporate, to a fine not exceeding $100,000.
+(6) Every person commits an offence who publishes details of a bail hearing in breach of subsection (1), or in breach of any specific prohibition that is ordered under subsection (2), and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $25,000:
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+(7) Subsection (6) does not apply to a person who hosts material on websites or other electronic retrieval systems that can be accessed by a user unless the specific details have been placed or entered on the site or system by that person.
+(8) In a prosecution for an offence against subsection (6), it is not necessary for the prosecution to prove that the defendant intended to commit an offence.
 
 ### 20 Evidence in bail hearing
 (1) In hearing an application for bail a court may receive as evidence any statement, document, information, or matter that it considers relevant, whether or not it would be otherwise admissible in a court of law.
@@ -267,7 +289,8 @@ If the defendant is granted bail under section 28, a District Court or Registrar
   (a) at the time and place at which the hearing is adjourned; or
   (b) at every time and place to which, during the course of the proceedings, the hearing may from time to time be adjourned.
 (2) The District Court or Registrar may impose, as a further condition of the defendant's release, a condition that the defendant report to the Police at the time or times and at the place or places that the court or Registrar orders.
-(3) Whether or not the District Court or Registrar imposes a condition under subsection (2), the court or Registrar may impose any other condition that the court or Registrar considers reasonably necessary to ensure that the defendant—
+(2A) When considering bail pending sentencing, the District Court or Registrar may impose any condition that the court or the Registrar considers reasonably necessary to ensure that the defendant takes the steps necessary for the proceedings to be progressed within a reasonable time frame.
+(3) Whether or not the District Court or Registrar imposes a condition under subsection (2) or (2A), the court or Registrar may impose any other condition that the court or Registrar considers reasonably necessary to ensure that the defendant—
   (a) appears in court on the date to which the defendant has been remanded; and
   (b) does not interfere with any witness or any evidence against the defendant; and
   (c) does not commit any offence while on bail.
@@ -328,8 +351,8 @@ If the defendant is granted bail under section 28, a District Court or Registrar
 (2) A warrant to arrest a defendant under this section must be directed to a constable by name or generally to every constable. The warrant may be executed by any constable.
 (3) For the purpose of executing a warrant issued under this section, the constable executing it may at any time enter on to any premises, by force if necessary, if the constable has reasonable grounds to believe that the defendant against whom it is issued is on those premises.
 (4) The constable executing the warrant—
-  (a) must have the warrant with him or her; and
-  (b) must produce it on initial entry and, if requested, at any subsequent time; and
+  (a) must have the warrant, or a copy of it, with him or her; and
+  (b) must produce it, or a copy of it, on initial entry and, if requested, at any subsequent time; and
   (c) if he or she is not in uniform, produce evidence that he or she is a constable.
 (5) If a defendant is arrested under a warrant issued under this section, subsections (2) to (4) of section 35 apply as if the defendant had been arrested under section 35(1).
 
@@ -547,8 +570,8 @@ If a defendant is granted bail by the High Court, a High Court Judge may direct 
 (2) A warrant to arrest a defendant under this section must be directed to a constable by name or generally to every constable. The warrant may be executed by any constable.
 (3) For the purposes of executing a warrant issued under this section, the constable executing it may at any time enter on to any premises, by force if necessary, if the constable has reasonable grounds to believe that the defendant against whom it is issued is on those premises.
 (4) The constable executing the warrant—
-  (a) must have the warrant with him or her; and
-  (b) must produce it on initial entry and, if requested, at any subsequent time; and
+  (a) must have the warrant, or a copy of it, with him or her; and
+  (b) must produce it, or a copy of it, on initial entry and, if requested, at any subsequent time; and
   (c) if he or she is not in uniform, produce evidence that he or she is a constable.
 (5) If a defendant is arrested under a warrant issued under this section,—
   (a) subsections (2) to (4) of section 58 apply as if the defendant had been arrested under section 58(1); or
@@ -712,3 +735,31 @@ Despite the repeal of any enactment by this Act, where any notice of appeal has 
 (4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge, who may issue a warrant for the arrest of the defendant.
 
 ## Schedule 2 — Amendments to other enactments
+
+### 1 Title
+This Act is the Bail Amendment Act 2011.
+
+### 2 Commencement
+(1) Sections 4, 5, and 7 to 14 come into force on a date appointed by the Governor-General by Order in Council.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council.
+(3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Bail Act 2000.
+
+### 10 Transitional provision regarding offence provision under new section 19 of principal Act
+(1) This section applies if an Order in Council is made under section 2(1) bringing section 5 into force before the date appointed under section 2(2) or provided by section 2(3).
+(2) Until the date appointed under section 2(2) or provided by section 2(3), section 19 of the principal Act must be read as if the offence prescribed in that section were punishable on summary conviction.
+
+### 11 Transitional provision regarding section 5
+(1) This section applies to any bail hearing if the proceedings for the offence with which the defendant is charged were commenced before the date on which section 5 came into force.
+(2) Section 19 of the principal Act, as it was before section 5 came into force, applies.
+(3) Section 397(3) of the Criminal Procedure Act 2011 (which sets out when a proceeding has commenced) applies for the purpose of this section whether or not section 397(3) has itself been brought into force.
+
+### 12 Transitional provision regarding sections 4 and 7
+(1) This section applies to any decision regarding the granting of bail if the proceedings for the offence with which the defendant is charged were commenced before the date on which sections 4 and 7 came into force.
+(2) Sections 13 and 31 of the principal Act, as they were before sections 4 and 7 came into force, apply.
+(3) Section 397(3) of the Criminal Procedure Act 2011 (which sets out when a proceeding has commenced) applies for the purpose of this section whether or not section 397(3) has itself been brought into force.
+
+### 13 Transitional provision regarding sections 8 and 9
+Sections 36(4) and 60(4) of the principal Act (as amended by sections 8 and 9) apply to the execution of any warrant of arrest on or after the date on which sections 8 and 9 come into force even if the warrant was issued before that date.
