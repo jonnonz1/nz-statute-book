@@ -1,5 +1,5 @@
 # Victims' Rights Amendment Act 2011
-_Consolidation as at 2011-10-17_
+_Consolidation as at 2012-03-05_
 
 ### 1 Title
 This Act is the Victims' Rights Amendment Act 2011.
