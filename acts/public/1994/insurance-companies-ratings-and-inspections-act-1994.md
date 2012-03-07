@@ -1,5 +1,5 @@
 # Insurance Companies (Ratings and Inspections) Act 1994
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2012-03-07_
 
 > An Act to provide for—athe rating of the claims paying ability of insurers in relation to the business of insurance except life insurance; andbinspections of insurance companies of doubtful solvency
 
