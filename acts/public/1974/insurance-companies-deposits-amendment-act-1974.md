@@ -1,5 +1,5 @@
 # Insurance Companies' Deposits Amendment Act 1974
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-03-07_
 
 > An Act to amend the Insurance Companies' Deposits Act 1953
 
