@@ -1,5 +1,5 @@
 # Insurance Companies' Deposits Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-03-07_
 
 ### 1 Title
 This Act is the Insurance Companies' Deposits Amendment Act 2006.
