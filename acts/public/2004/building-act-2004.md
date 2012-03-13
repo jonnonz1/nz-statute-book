@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2012-03-13_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -24,12 +24,14 @@ This Act is the Building Act 2004.
 
 **Purpose and principles**
 
-### 3 Purpose
-The purpose of this Act is to provide for the regulation of building work, the establishment of a licensing regime for building practitioners, and the setting of performance standards for buildings, to ensure that—
-  (a) people who use buildings can do so safely and without endangering their health; and
-  (b) buildings have attributes that contribute appropriately to the health, physical independence, and well-being of the people who use them; and
-  (c) people who use a building can escape from the building if it is on fire; and
-  (d) buildings are designed, constructed, and able to be used in ways that promote sustainable development.
+### 3 Purposes
+This Act has the following purposes:
+  (a) to provide for the regulation of building work, the establishment of a licensing regime for building practitioners, and the setting of performance standards for buildings to ensure that—
+    (i) people who use buildings can do so safely and without endangering their health; and
+    (ii) buildings have attributes that contribute appropriately to the health, physical independence, and well-being of the people who use them; and
+    (iii) people who use a building can escape from the building if it is on fire; and
+    (iv) buildings are designed, constructed, and able to be used in ways that promote sustainable development:
+  (b) to promote the accountability of owners, designers, builders, and building consent authorities who have responsibilities for ensuring that building work complies with the building code.
 
 ### 4 Principles to be applied in performing functions or duties, or exercising powers, under this Act
 (1) This section applies to—
@@ -62,6 +64,11 @@ The purpose of this Act is to provide for the regulation of building work, the e
     (ii) material conservation:
   (o) the need to facilitate the efficient use of water and water conservation in buildings:
   (p) the need to facilitate the reduction in the generation of waste during the construction process.
+  (q) the need to ensure that owners, designers, builders, and building consent authorities are each accountable for their role in ensuring that—
+    (i) the necessary building consents and other approvals are obtained for proposed building work; and
+    (ii) plans and specifications are sufficient to result in building work that (if built to those plans and specifications) complies with the building code; and
+    (iii) building work for which a building consent is issued complies with that building consent; and
+    (iv) building work for which a building consent is not required complies with the building code.
 
 **Overview**
 
@@ -184,6 +191,11 @@ In this Act, unless the context otherwise requires,—
       (i) used, or intended to be used, only or mainly for residential purposes; and
       (ii) occupied, or intended to be occupied, exclusively as the home or residence of not more than 1 household; but
     (b) does not include a hostel, boardinghouse, or other specialised accommodation
+  - **independently qualified person** means a person—
+    (a) who is accepted by a territorial authority as being qualified to—
+      (i) carry out or supervise all or some of the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule; and
+      (ii) certify that those procedures have been fully complied with; and
+    (b) whose acceptance under paragraph (a) has not been withdrawn by the territorial authority
   - **intended use** , in relation to a building,—
     (a) includes any or all of the following:
       (i) any reasonably foreseeable occasional use that is not incompatible with the intended use:
@@ -222,7 +234,10 @@ In this Act, unless the context otherwise requires,—
       (ii) would be so entitled if the land were let to a tenant at a rack rent; and
     (b) includes—
       (i) the owner of the fee simple of the land; and
-      (ii) for the purposes of sections 32, 44, 92, 96, and 97, any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land, or to take a lease of the land, and who is bound by the agreement because the agreement is still in force
+      (ii) for the purposes of sections 32, 44, 92, 96, 97, and 176(c), any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land, or to take a lease of the land, and who is bound by the agreement because the agreement is still in force
+  - **owner-builder** has the meaning given to it by section 90B
+  - **owner-builder exemption** means the exemption for owner-builders set out in section 90D
+  - **owner-builder status** means the status of a person as an owner-builder
   - **performance criteria** , in relation to a building, means qualitative or quantitative criteria that the building is required to satisfy in performing its functional requirements
   - **person** includes—
     (a) the Crown; and
@@ -237,7 +252,8 @@ In this Act, unless the context otherwise requires,—
     (c) in the case of the construction or alteration of a building, also includes—
       (i) the intended use of the building; and
       (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under section 100; and
-      (iii) the proposed procedures for inspection and routine maintenance for the purposes of the compliance schedule for those specified systems
+      (iii) the proposed inspection, maintenance, and reporting procedures for the purposes of the compliance schedule for those specified systems
+  - **prescribed** means prescribed by regulations made under this Act
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
   - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
   - **product certification accreditation body** means the person referred to in section 261(2)
@@ -259,12 +275,9 @@ In this Act, unless the context otherwise requires,—
     (a) builds the household unit; or
     (b) arranges for the household unit to be built; or
     (c) acquires the household unit from a person who built it or arranged for it to be built
-  - **restricted building work** —
-    (a) means building work that is—
-      (i) critical to the integrity of a building, for example, its envelope and structure; and
-      (ii) of a kind declared by the Governor-General by Order in Council to be building work that must be carried out or supervised by a licensed building practitioner who is licensed to carry out or supervise that work; and that Order in Council may relate, without limitation, to certain types or categories of buildings, or parts of buildings specified in the Order in Council; and
-    (b) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act; and
-    (c) does not include any building work for which, in accordance with section 41, a building consent is not required
+  - **restricted building work** means any building work that is—
+    (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work; or
+    (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
   - **rules** means any rules made under section 353
   - **scaffolding used in the course of the construction process** —
     (a) means a structure, framework, swinging stage, suspended scaffolding, or boatswain's chair, that is of a temporary nature and that is used or intended to be used for—
@@ -277,7 +290,7 @@ In this Act, unless the context otherwise requires,—
   - **specified intended life** has the meaning given to it by section 113(3)
   - **specified system** —
     (a) means a system or feature that—
-      (i) is contained in a building; and
+      (i) is contained in, or attached to, a building; and
       (ii) contributes to the proper functioning of the building (for example, an automatic sprinkler system); and
       (iii) is declared by the Governor-General, by Order in Council, to be a specified system for the purposes of this Act; and
     (b) includes a cable car
@@ -285,9 +298,11 @@ In this Act, unless the context otherwise requires,—
   - **supervise** , in relation to building work, means provide control or direction and oversight of the building work to an extent that is sufficient to ensure that the building work—
     (a) is performed competently; and
     (b) complies with the building consent under which it is carried out
-  - **territorial authority** means a city council or district council named in Part 2 of Schedule 2 of the Local Government Act 2002; and—
-    (a) in relation to land within the district of a territorial authority, or a building on or proposed to be built on any such land, means that territorial authority; and
-    (b) in relation to any part of a coastal marine area (within the meaning of the Resource Management Act 1991) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part
+  - **territorial authority** —
+    (a) means a city council or district council named in Part 2 of Schedule 2 of the Local Government Act 2002; and,—
+      (i) in relation to land within the district of a territorial authority, or a building on or proposed to be built on any such land, means that territorial authority; and
+      (ii) in relation to any part of a coastal marine area (within the meaning of the Resource Management Act 1991) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
+    (b) includes the Minister of Conservation or the Minister of Local Government, as the case may be, in any case in which the Minister of Conservation or the Minister of Local Government is the territorial authority under section 22 of the Local Government Act 2002
   - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to—
     (a) the supply or acquisition of goods or services; or
     (b) the acquisition of household units or any interest in land
@@ -330,6 +345,7 @@ In this Act, building does not include—
     (ii) is connected to, or is intended to be connected to, the building to provide for the successful functioning of the NUO system in accordance with the system's intended design and purpose; and
     (iii) is not a mast pole or a telecommunication aerial that is on, or forms part of, a building; or
   (ab) a pylon, free-standing communication tower, power pole, or telephone pole that is a NUO system or part of a NUO system; or
+  (ac) security fences, oil interception and containment systems, wind turbines, gantries, and similar machinery and other structures (excluding dams) not intended to be occupied that are part of, or related to, a NUO system; or
   (b) cranes (including any cranes as defined in regulations made under the Health and Safety in Employment Act 1992); or
   (c) any of the following, whether or not incorporated within another structure:
     (i) ski tows:
@@ -367,6 +383,7 @@ Under this Act, the chief executive—
   (b) warns against, or bans the use of, particular building methods or products; and
   (ba) determines applications for national multiple-use approvals; and
   (c) specifies the kinds of applications for a building consent that must be copied to the New Zealand Fire Service Commission under section 46; and
+  (ca) has the functions set out in section 168A in relation to the implementation, administration, and review of this Act; and
   (d) monitors and reports annually to the Minister in accordance with section 169; and
   (e) publishes guidance information on the requirements of this Act and the building code; and
   (f) registers building consent authorities that have been accredited to allow them to perform functions under Parts 2 and 3; and
@@ -435,6 +452,43 @@ Under this Act, a regional authority—
   (b) sections 40 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
 (4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
 (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
+
+### Subpart 4 — Outline of responsibilities under this Act
+
+### 14A Outline of responsibilities under this Act
+Sections 14B to 14F—
+  (a) are not a definitive and exhaustive statement of the responsibilities of the parties but are an outline only:
+  (b) are for guidance only, and in the event of any conflict between any of those sections and any other provision of this Act, the latter prevails:
+  (c) do not reflect the responsibilities of the parties under any other law or enactment or any contract that may be entered into between them.
+
+### 14B Responsibilities of owner
+An owner is responsible for—
+  (a) obtaining any necessary consents, approvals, and certificates:
+  (b) ensuring that building work carried out by the owner complies with the building consent or, if there is no building consent, with the building code:
+  (c) ensuring compliance with any notices to fix.
+
+### 14C Responsibilities of owner-builder
+An owner-builder is responsible for ensuring that restricted building work carried out under the owner-builder exemption complies with the building consent and the plans and specifications to which the building consent relates.
+
+### 14D Responsibilities of designer
+(1) In subsection (2), designer means a person who prepares plans and specifications for building work or who gives advice on the compliance of building work with the building code.
+(2) A designer is responsible for ensuring that the plans and specifications or the advice in question are sufficient to result in the building work complying with the building code, if the building work were properly completed in accordance with those plans and specifications or that advice.
+
+### 14E Responsibilities of builder
+(1) In subsection (2), builder means any person who carries out building work, whether in trade or not.
+(2) A builder is responsible for—
+  (a) ensuring that the building work complies with the building consent and the plans and specifications to which the building consent relates:
+  (b) ensuring that building work not covered by a building consent complies with the building code.
+(3) A licensed building practitioner who carries out or supervises restricted building work is responsible for—
+  (a) ensuring that the restricted building work is carried out or supervised in accordance with the requirements of this Act; and
+  (b) ensuring that he or she is licensed in a class for carrying out or supervising that restricted building work.
+
+### 14F Responsibilities of building consent authority
+A building consent authority is responsible for—
+  (a) checking, in accordance with the requirements of this Act for each type of building consent, to ensure that—
+    (i) an application for a building consent complies with the building code:
+    (ii) building work has been carried out in accordance with the building consent for that work:
+  (b) issuing building consents and certificates in accordance with the requirements of this Act.
 
 ## Part 2 — Building
 
@@ -635,7 +689,7 @@ A person may comply with a compliance document in order to comply with the provi
 ### 30C Applications for national multiple-use approval relating to design work that is restricted building work
 (1) This section applies if an application for a national multiple-use approval is accompanied by plans and specifications that contain design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act.
 (2) The design work referred to in subsection (1) must be carried out or supervised by 1 or more licensed building practitioners who are licensed to carry out or supervise that work.
-(3) The plans and specifications that contain the design work referred to in subsection (1) must be accompanied by a memorandum—
+(3) The plans and specifications that contain the design work referred to in subsection (1) must be accompanied by a certificate of work—
   (a) provided by 1 or more licensed building practitioners who carried out or supervised that design work; and
   (b) that identifies that design work; and
   (c) that states—
@@ -716,7 +770,7 @@ An owner may apply to a territorial authority for a project information memorand
 
 ### 33 Content of application
 (1) An application for a project information memorandum must be in the prescribed form and be accompanied by—
-  (a) the application charge fixed by the territorial authority; and
+  (a) any fees and charges imposed by the territorial authority under section 219; and
   (b) any information that the territorial authority reasonably requires in relation to authorisations or requirements (if any) that—
     (i) the territorial authority is authorised to refuse or impose under any Act (except this Act); and
     (ii) are likely to be relevant to the design and construction of the proposed building; and
@@ -843,7 +897,7 @@ If a project information memorandum contains information previously supplied to 
     (i) a copy of that national multiple-use approval; and
     (ii) details of any proposed minor customisations; and
   (c) contain or be accompanied by any other information that the building consent authority reasonably requires; and
-  (d) be accompanied by the charge fixed by the building consent authority; and
+  (d) be accompanied by any fees and charges imposed by the building consent authority under section 240; and
   (e) in the case of an application for a building consent that relates to restricted building work, state the name of each licensed building practitioner who, as far as the applicant is aware at the time the application is made, will be involved in carrying out or supervising the restricted building work that is the subject of the application; and
   (f) if the owner applies for a project information memorandum for the building work under section 32 and the project information memorandum is then issued, be accompanied by—
     (i) the project information memorandum; and
@@ -865,7 +919,9 @@ If a project information memorandum contains information previously supplied to 
 (4) An application for an amendment to a building consent must,—
   (a) in the case of a minor variation, be made in accordance with section 45A; and
   (b) in all other cases, be made as if it were an application for a building consent, and this section, and sections 48 to 51 apply with any necessary modifications.
-(5)
+(5) The application must be accompanied by a statutory declaration, in the prescribed form, as to owner-builder status—
+  (a) if the building work includes restricted building work to be carried out by the owner-builder; or
+  (b) if any accompanying plans or specifications contain design work that is restricted building work and that has been carried out by the owner-builder.
 
 ### 45A Minor variations to building consents
 (1) An application for a minor variation to a building consent—
@@ -910,7 +966,7 @@ If a project information memorandum contains information previously supplied to 
 ### 49 Grant of building consent
 (1) A building consent authority must grant a building consent if it is satisfied on reasonable grounds that the provisions of the building code would be met if the building work were properly completed in accordance with the plans and specifications that accompanied the application.
 (2) However, a building consent authority is not required to grant a building consent until it receives—
-  (a) any charge fixed by it in relation to the consent; and
+  (a) any charge or fee fixed by it in relation to the consent; and
   (b) any levy payable under section 53.
   (c)
 
@@ -956,6 +1012,7 @@ A building consent lapses and is of no effect if the building work to which it r
     (i) to the building consent authority as the agent of the chief executive; and
     (ii) at the time the building consent is granted.
 (3) Subsection (2)(a)(ii) is subject to section 431.
+(4) The chief executive may, in his or her discretion, refund all or part of the levy if the building consent lapses by paying the refund to the applicant or to the relevant building consent authority.
 
 ### 54 Building consent authority must advise applicant of amount of levy payable
 A building consent authority must, before it grants a building consent, advise the applicant of the amount of levy for which the applicant may be liable under section 53.
@@ -1198,17 +1255,24 @@ All restricted building work must be carried out or supervised by a licensed bui
 
 ### 85 Offences relating to carrying out or supervising restricted building work
 (1) A person who is not a licensed building practitioner commits an offence if he or she carries out restricted building work while not supervised by a licensed building practitioner who is licensed to carry out or supervise the carrying out of restricted building work of that kind.
-(1A) A licensed building practitioner commits an offence if he or she—
-  (a) carries out restricted building work of a kind that he or she is not licensed to carry out or supervise the carrying out of; or
-  (b) supervises the carrying out of restricted building work of a kind that he or she is not licensed to carry out or supervise the carrying out of.
-(2) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
+(2) A person who is a licensed building practitioner commits an offence if he or she—
+  (a) carries out restricted building work and is not licensed to carry out restricted building work of that kind; or
+  (b) supervises restricted building work and is not licensed to carry out or supervise the carrying out of restricted building work of that kind.
+(3) Subsection (1) and (2)(a) do not apply to a person to whom the owner-builder exemption applies in respect of the restricted building work in question.
+(4) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
-(1) A person commits an offence if the person—
-  (a) engages another person to carry out or supervise restricted building work; and
+(1) A person commits an offence if that person—
+  (a) engages another person to carry out restricted building work; and
   (b) knows that the other person is not—
     (i) a licensed building practitioner; or
-    (ii) a licensed building practitioner who is licensed to carry out or supervise the restricted building work.
+    (ii) a licensed building practitioner who is licensed to carry out the restricted building work.
+(1A) A person commits an offence if that person—
+  (a) engages another person to supervise the carrying out of restricted building work; and
+  (b) knows that the other person is not—
+    (i) a licensed building practitioner; or
+    (ii) a licensed building practitioner who is licensed to carry out or supervise the carrying out of the restricted building work.
+(1B) This section does not apply in the case of any unpaid friend or family member of an owner-builder who is engaged to assist the owner-builder in carrying out restricted building work.
 (2) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 87 Owner must notify names of licensed building practitioners engaged in restricted building work
@@ -1222,18 +1286,31 @@ All restricted building work must be carried out or supervised by a licensed bui
   (a) state that 1 or both of the circumstances specified in subsection (2)(a) and (b) apply; and
   (b) be given as soon as practicable; and
   (c) name the other licensed building practitioner concerned (if any).
+(4) This section does not apply in the case of a licensed building practitioner who, as an unpaid friend or family member of an owner-builder, is engaged to assist the owner-builder in carrying out restricted building work.
 
-### 88 Licensed building practitioner to certify or provide memorandum about restricted building work
-(1) Each licensed building practitioner who carries out or supervises restricted building work under a building consent must, on completion of the restricted building work,—
-  (a) provide the persons specified in subsection (2) with a memorandum, in the prescribed form, stating what restricted building work the licensed building practitioner carried out or supervised; and
-  (b) if applicable, give to the persons specified in subsection (2) a certificate, in the prescribed form, stating that any specified systems in the building to which the restricted building work relates are capable of performing to the performance standards set out in the building consent.
+### 87A Notices to building consent authority when owner-builder carries out restricted building work
+(1) This section applies when, under the owner-builder exemption, an owner-builder carries out restricted building work under a building consent.
+(2) If the building consent application was not accompanied by a statutory declaration as to owner-builder status, the owner must give the building consent authority a notice that the owner-builder is to carry out restricted building work.
+(3) The owner must give the building consent authority a notice—
+  (a) if there is a change in the owner-builder carrying out the restricted building work; or
+  (b) when the owner-builder ceases to carry out the restricted building work.
+(4) A notice under this section must—
+  (a) be in the prescribed form; and
+  (b) if it is a notice required under subsection (2) or (3)(a), be accompanied by a statutory declaration as to owner-builder status; and
+  (c) be given—
+    (i) before the building work begins, if it is a notice required by subsection (2):
+    (ii) as soon as practicable, if it is a notice required by subsection (3).
+(5) A person who contravenes this section commits an offence and is liable to a fine not exceeding $20,000.
+
+### 88 Licensed building practitioner to provide record of work in respect of restricted building work
+(1) Each licensed building practitioner who carries out (other than as an owner-builder) or supervises restricted building work under a building consent must, on completion of the restricted building work, provide the persons specified in subsection (2) with a record of work, in the prescribed form, stating what restricted building work the licensed building practitioner carried out or supervised.
 (2) The persons are—
   (a) the owner; and
   (b) the territorial authority for the district in which the restricted building work is situated.
-(3) A licensed building practitioner who carries out or supervises restricted building work that relates only to part of a specified system may give a certificate under subsection (1) that is qualified to the effect that the restricted building work on the other parts of the specified system must meet the requirements in subsection (1)(a) and (b).
-(4) A memorandum provided or certificate given under subsection (1) does not, of itself,—
-  (a) create any liability in relation to any matter to which the memorandum or certificate relates; or
-  (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner was not required to provide the memorandum or certificate.
+(3)
+(4) A record of work given under subsection (1) does not, of itself,—
+  (a) create any liability in relation to any matter to which the record of work relates; or
+  (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the record of work.
 (5) Subsection (4) does not limit section 397(c).
 
 **Other provisions relating to building work generally**
@@ -1254,6 +1331,28 @@ All restricted building work must be carried out or supervised by a licensed bui
   (c) any building.
 (2) The provisions (if any) that are endorsed on a building consent in relation to inspection during the carrying out of building work must be taken to include the provisions of this section.
 (3) In this section, inspection means the taking of all reasonable steps to ensure that building work is being carried out in accordance with a building consent.
+
+### Subpart 4A — Restricted building work carried out by owner-builders
+
+### 90A Purpose of this subpart
+The purpose of this subpart is to enable homeowners to build and alter their own homes.
+
+### 90B Meaning of owner-builder
+(1) An owner-builder, in relation to restricted building work, means a natural person who—
+  (a) has a relevant interest in the land or the building on which the restricted building work is carried out; and
+  (b) resides, or intends to reside, in the household unit in relation to which the restricted building work is carried out; and
+  (c) carries out the restricted building work himself or herself or with the assistance of his or her unpaid friends and family members; and
+  (d) has not, under the owner-builder exemption, carried out restricted building work in relation to a different household unit within the previous 3 years.
+(2) For the purposes of subsection (1)(b), reside includes temporarily reside.
+
+### 90C Meaning of relevant interest
+For the purposes of section 90B(1)(a), relevant interest, in relation to the land or the building on which restricted building work is carried out, means a legal or equitable interest in the land or building; and includes—
+  (a) a right of occupancy of the land or building or part of the building; or
+  (b) a right, power, or privilege over, or in connection with, the land or building.
+
+### 90D Owner-builder exemption
+(1) A person who is an owner-builder in relation to restricted building work may carry out that restricted building work without being supervised by a licensed building practitioner.
+(2) Subsection (1) does not apply if the restricted building work in question is low-risk building work under a low-risk building consent, simple residential building work under a simple residential building consent, or commercial building work under a commercial building consent.
 
 ### Subpart 5 — Code compliance certificates, certificates of acceptance, and compliance schedules
 
@@ -1312,7 +1411,7 @@ All restricted building work must be carried out or supervised by a licensed bui
 A code compliance certificate must be issued—
   (a) by a building consent authority; and
   (b) in the prescribed form; and
-  (c) on payment of any charge fixed by the building consent authority.
+  (c) on payment of any fees and charges imposed by the building consent authority under section 240.
 
 ### 95A Refusal to issue code compliance certificate
 If a building consent authority refuses to issue a code compliance certificate, the building consent authority must give the applicant written notice of—
@@ -1345,7 +1444,7 @@ An application for a certificate of acceptance must—
     (i) required by regulations made under section 402; or
     (ii) if the regulations do not so require, required by the territorial authority; and
   (c) contain or be accompanied by any other information that the territorial authority reasonably requires; and
-  (d) be accompanied by the charge fixed by the territorial authority; and
+  (d) be accompanied by any fees and charges imposed by the territorial authority under section 219; and
   (e) in the case of an application under section 96(1)(a), be accompanied by any fees, charges, or levies that would have been payable had the owner, or the owner's predecessor in title, applied for a building consent before carrying out the building work; and
   (f) if a project information memorandum for the building work has been issued under section 34, be accompanied by the project information memorandum; and
   (g) if a compliance schedule is required as a result of the building work, have attached to it a list of all specified systems for the building; or
@@ -1390,27 +1489,32 @@ If a territorial authority refuses to grant an application for a certificate of 
     (i) requires a compliance schedule only if it has a specified system other than a cable car; and
     (ii) does not require a compliance schedule for any cable car attached to it or servicing it; and
   (b) a building used wholly as a single household unit does not require a compliance schedule.
+(4) The requirement in subsections (1) and (2) that a building have a compliance schedule if it has a cable car attached to it or servicing it is satisfied, in the case of a cable car that is attached to or services more than 1 building, if any of the buildings in question have a compliance schedule for the cable car.
+(5) Except to the extent that it provides, subsection (4) does not relieve an owner of any of the obligations under sections 105 to 110.
 
 ### 101 Owner must comply with requirement for compliance schedule
 (1) An owner of a building for which a compliance schedule is required under section 100 must obtain the compliance schedule.
 (2) A person commits an offence if the person fails to comply with subsection (1).
 (3) A person who commits an offence under this section is liable to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence has continued.
 
-### 102 Compliance schedule must be issued with code compliance certificate in certain cases
-(1) A building consent authority must issue a compliance schedule with a code compliance certificate if the compliance schedule, or an amended compliance schedule, is required as a result of building work.
-(2) A building consent authority may charge a fee for the issue of a compliance schedule.
+### 102 When compliance schedule must be issued
+(1) A building consent authority must issue a compliance schedule if—
+  (a) the compliance schedule, or an amended compliance schedule, is required as a result of building work; and
+  (b) the building consent authority is satisfied, on reasonable grounds, that the specified systems for the building are capable of performing to the performance standards for those systems.
+(2) A compliance schedule that is issued under subsection (1) must be issued with the relevant code compliance certificate or consent completion certificate.
+(3) A territorial authority must issue a compliance schedule on an application under section 102A if the territorial authority is satisfied, on reasonable grounds, that the specified systems for the building are capable of performing to the performance standards for those systems.
+
+### 102A Procedure for obtaining compliance schedule where building consent not required
+(1) This section applies when an owner of a building for which a compliance schedule is required under section 100 must obtain a compliance schedule but is not required to apply for a building consent in relation to the building because, for example, no building work is being carried out.
+(2) The owner must apply in the prescribed form (if any) to the appropriate territorial authority for the issue of a compliance schedule by providing the authority with—
+  (a) a description of all specified systems for the building and the performance standards for each of them; and
+  (b) the proposed inspection, maintenance, and reporting procedures for the specified systems.
 
 ### 103 Content of compliance schedule
-(1) A compliance schedule must state—
-  (a) the specified systems that are covered by the compliance schedule; and
-  (b) the performance standards for the specified systems; and
-  (c) the inspection, maintenance, and reporting procedures to be followed by licensed building practitioners or other persons in respect of the specified systems to ensure that those systems are capable of, and are, performing to the performance standards; and
-  (d) if applicable, the specified systems that relate to—
-    (i) means of escape from fire; and
-    (ii) safety barriers; and
-    (iii) means of access, and facilities for use, by persons with disabilities that meet the requirements of section 118; and
-    (iv) handheld hose reels for fire-fighting; and
-    (v) any signs that are required by the building code or by section 120.
+(1) A compliance schedule must—
+  (a) state and describe each of the specified systems covered by the compliance schedule, including a statement of the type and (if known) make of each specified system; and
+  (b) state the performance standards for the specified systems; and
+  (c) describe the inspection, maintenance, and reporting procedures to be followed by independently qualified persons or other persons in respect of the specified systems to ensure that those systems are capable of, and are, performing to the performance standards.
 (2) For the purposes of subsection (1)(c), the inspection, maintenance, and reporting procedures of the compliance schedule may be identified—
   (a) by description in the compliance schedule; or
   (b) by reference to—
@@ -1433,17 +1537,23 @@ An owner of a building for which a compliance schedule has been issued must ensu
     (ii) in another building in the district of the territorial authority; or
     (iii) in some other place agreed on by the owner and the territorial authority; and
   (d) that the compliance schedule is available for inspection by any person or organisation who or that has a right to inspect the building under any Act; and
-  (e) that, for the first 12 months of the period of the compliance schedule, there is displayed publicly in a place in the building so that users of the building can have access to it a statement by the territorial authority in the prescribed form stating—
+  (e) that, for the first 12 months of the period of the compliance schedule, there is displayed publicly in the building so that users of the building can have access to it a statement by the territorial authority in the prescribed form that contains the following information:
     (i) the specified systems covered by the compliance schedule; and
-    (ii) the place where the compliance schedule is held.
+    (ii) the place where the compliance schedule is held; and
+    (iii) any other prescribed information.
 
 ### 106 Application by owner for amendment to compliance schedule
 (1) An owner of a building that has 1 or more specified systems may, at any time and entirely at the owner's discretion, apply to the territorial authority of the district in which the building is situated for an amendment to a compliance schedule for the building.
-(2) However, the owner must apply to the territorial authority for an amendment to a compliance schedule for the building if the owner considers that the amendment is required to ensure that the specified systems are performing, and will continue to perform, to the performance standards for those systems.
+(2) However, the owner must apply to the territorial authority for an amendment to a compliance schedule for the building if—
+  (a) the owner considers that the amendment is required to ensure that the specified systems are performing, and will continue to perform, to the performance standards for those systems; or
+  (b) as a result of an amendment to this Act or any regulation made under it, the compliance schedule—
+    (i) no longer complies with the requirements of this Act or any regulations made under it; or
+    (ii) contains information that is no longer required under this Act or any regulations made under it.
+(2A) An application under subsection (2)(b) must be made before the next anniversary of the issue of the compliance schedule following the amendment of the Act or regulation that results in the compliance schedule becoming non-compliant or containing information that is no longer required.
 (3) The owner must—
   (a) apply for the amendment in the prescribed form; and
   (b) provide any information that the territorial authority reasonably requires in relation to the application; and
-  (c) pay any charge fixed by the territorial authority in relation to the application.
+  (c) pay any fees and charges imposed by the territorial authority under section 219.
 (4) The territorial authority must, as soon as practicable after receiving the application, decide whether to amend the compliance schedule.
 (5) If the territorial authority decides to amend the compliance schedule, the territorial authority must—
   (a) give written notice of the amendment to the owner; and
@@ -1462,7 +1572,7 @@ An owner of a building for which a compliance schedule has been issued must ensu
 (4) If the territorial authority amends a compliance schedule under this section, the territorial authority must—
   (a) give written notice of the amendment to the owner; and
   (b) attach a copy of the amended compliance schedule to the notice.
-(5) The territorial authority may charge a fee for the issue of an amended compliance schedule under this section.
+(5)
 
 **Annual building warrant of fitness**
 
@@ -1472,21 +1582,21 @@ An owner of a building for which a compliance schedule has been issued must ensu
 (3) The building warrant of fitness must—
   (a) be supplied on each anniversary of the issue of the compliance schedule; and
   (b) state that the inspection, maintenance, and reporting procedures of the compliance schedule have been fully complied with during the previous 12 months; and
-  (c) have attached to it all certificates, in the prescribed form, issued by a licensed building practitioner that, when those certificates are considered together, certify that the inspection, maintenance, and reporting procedures stated in the compliance schedule have been fully complied with during the previous 12 months; and
-  (d) have attached to it any recommendation made by a licensed building practitioner that the compliance schedule should be amended to ensure that the specified systems stated in the compliance schedule are performing, and will continue to perform, to the performance standards for those systems; and
+  (c) have attached to it all certificates, in the prescribed form, issued by an independently qualified person that, when those certificates are considered together, certify that the inspection, maintenance, and reporting procedures stated in the compliance schedule have been fully complied with during the previous 12 months; and
+  (d) have attached to it any recommendation made by an independently qualified person that the compliance schedule should be amended to ensure that the specified systems stated in the compliance schedule are performing, and will continue to perform, to the performance standards for those systems; and
   (e) be in the prescribed form; and
   (f) contain the prescribed information.
-(4) The owner must publicly display a copy of the building warrant of fitness in a place in the building to which users of the building have ready access.
+(4) The owner must publicly display a copy of the building warrant of fitness in a place in the building to which users of the building have ready access or, if the compliance schedule relates only to a cable car, publicly display the copy of the building warrant of fitness in or near the cable car.
 (5) A person commits an offence if the person—
   (aa) fails to supply to the territorial authority the building warrant of fitness in accordance with subsection (1); or
   (a) fails to display a building warrant of fitness that is required to be displayed under this section; or
   (b) displays a false or misleading building warrant of fitness; or
   (c) displays a building warrant of fitness otherwise than in accordance with this section.
 (6) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
-(7) In subsection (3)(d), a reference to a licensed building practitioner is a reference to the licensed building practitioner or licensed building practitioners who carried out the inspection, maintenance, and reporting procedures stated in a compliance schedule during the previous 12 months.
+(7) In subsection (3)(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
 
 ### 109 Territorial authority must consider recommendation to amend compliance schedule
-A territorial authority must, in relation to a recommendation made by a licensed building practitioner under section 108(3)(d) for a compliance schedule to be amended,—
+A territorial authority must, in relation to a recommendation made by an independently qualified person under section 108(3)(d) for a compliance schedule to be amended,—
   (a) give the owner of the building concerned a reasonable opportunity to make written submissions on the recommendation; and
   (b) consider those submissions (if any); and
   (c) decide whether to—
@@ -1496,7 +1606,7 @@ A territorial authority must, in relation to a recommendation made by a licensed
 
 ### 110 Owner must obtain reports on compliance schedule
 An owner of a building for which a compliance schedule has been issued must—
-  (a) obtain annual written reports relating to the inspection, maintenance, and reporting procedures of the compliance schedule signed by each licensed building practitioner or other person who carried out 1 or more of those procedures; and
+  (a) obtain annual written reports relating to the inspection, maintenance, and reporting procedures of the compliance schedule signed by each independently qualified person or other person who carried out 1 or more of those procedures; and
   (b) keep those reports, together with the compliance schedule, for a period of 2 years; and
   (c) produce those reports for inspection, when required, by—
     (i) the territorial authority; and
@@ -1507,7 +1617,7 @@ An owner of a building for which a compliance schedule has been issued must—
 (1) An agent of a territorial authority authorised for the purposes of this section is entitled, at all times during normal working hours, to inspect—
   (a) a building for which a compliance schedule has been issued; and
   (b) the specified systems in the building.
-(2) The territorial authority may charge a fee for an inspection under this section.
+(2)
 (3) In this section, inspection means the taking of all reasonable steps to ensure that—
   (a) an annual building warrant of fitness supplied under section 108 is correct; and
   (b) every report under section 110 is correct.
@@ -1618,7 +1728,7 @@ If any provision required by section 118 is made at a building in compliance wit
   (a) in the ordinary course of events (excluding the occurrence of an earthquake), the building is likely to cause—
     (i) injury or death (whether by collapse or otherwise) to any persons in it or to persons on other property; or
     (ii) damage to other property; or
-  (b) in the event of fire, injury or death to any persons in the building or to persons on other property is likely because of fire hazard or the occupancy of the building.
+  (b) in the event of fire, injury or death to any persons in the building or to persons on other property is likely.
 (2) For the purpose of determining whether a building is dangerous in terms of subsection (1)(b), a territorial authority—
   (a) may seek advice from members of the New Zealand Fire Service who have been notified to the territorial authority by the Fire Service National Commander as being competent to give advice; and
   (b) if the advice is sought, must have due regard to the advice.
@@ -2101,6 +2211,11 @@ In this subpart, unless the context otherwise requires,—
 
 **Functions, duties, and powers of chief executive generally**
 
+### 168A Chief executive's functions in relation to this Act
+The chief executive must—
+  (a) take all necessary steps for the implementation and administration of this Act; and
+  (b) review the Act as necessary.
+
 ### 169 Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister
 (1) The chief executive must monitor current and emerging trends in building design, building technologies, and other factors that may affect—
   (a) the building code and compliance documents:
@@ -2178,8 +2293,9 @@ The chief executive must, in performing his or her functions, consult with,—
 In sections 177 to 190, party, in relation to a determination, means any or all of the following persons affected by the determination:
   (a) the territorial authority:
   (b) the building consent authority:
-  (c) the owner:
+  (c) the owner or, if there is more than 1 owner, any of the owners:
   (d) the licensed building practitioner concerned with the relevant building work:
+  (da) any person to whom a notice to fix relating to the relevant building work has been issued under section 164:
   (e) if the matter for determination relates to—
     (i) a provision in the building code that has the purpose of protecting other property, the owner of the other property:
     (ii) a dam, the regional authority:
@@ -2488,7 +2604,7 @@ An authorised person supplied with a warrant under section 206—
 ### 208 Appeals to District Court
 (1) The persons referred to in subsection (2) may appeal to a District Court against—
   (a) a determination by the chief executive under section 188; or
-  (aa) a written direction given by the chief executive under section 190 to the applicant or another party, and requiring that person to meet some or all of the other party's costs in respect of, or in respect of an application for, a determination against which all or any of the persons referred to in subsection (2) have made an appeal under paragraph (a) (whether or not that appeal has been determined); or
+  (aa) a direction as to costs given under section 190(2); or
   (b) the chief executive's decision to—
     (i) decline to register the person as a building consent authority; or
     (ii) take any action referred to in section 203; or
@@ -2576,7 +2692,9 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (ii) building consents:
     (iii) if applicable, the specified intended life of the building:
     (iv) code compliance certificates:
-    (iva) memoranda provided by licensed building practitioners under section 45(2) or 88(1)(a):
+    (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
+    (ivb) statutory declarations provided by owner-builders:
+    (ivc) if applicable, the specified intended life of the building:
     (v) compliance schedules:
     (vi) building warrants of fitness:
     (vii) energy work certificates relating to building work:
@@ -2613,7 +2731,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
 
 ### 219 Territorial authority may impose fee or charge and must collect levy
 (1) A territorial authority—
-  (a) may impose a fee or charge—
+  (a) may impose a fee or charge (or both)—
     (i) in relation to a building consent; and
     (ii) for the performance of any other function or service under this Act; and
   (b) must collect the levy which an applicant is liable to pay to the chief executive under section 53.
@@ -2685,7 +2803,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
 (2) The persons are—
   (a) the owner of the building; and
   (b) an occupier of the building; and
-  (c) any person engaged in the building work.
+  (c) any person engaged in the building work, including an owner-builder and any unpaid friend or family member of the owner-builder engaged to assist him or her in the building work.
 
 ### 224 Warrant must be produced
 An authorised officer must, on entering private land and when requested at any subsequent time, produce to the occupier of the building a written warrant issued under section 174 of the Local Government Act 2002.
@@ -2784,6 +2902,9 @@ This subpart applies to a building consent authority that—
     (ii) building consents:
     (iii) code compliance certificates:
     (iv) compliance schedules:
+    (iva) if applicable, the intended life of the building:
+    (ivb) statutory declarations provided by an owner-builder:
+    (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
     (v) building warrants of fitness:
     (vi) energy work certificates:
     (vii) notices to fix:
@@ -2803,7 +2924,7 @@ A building consent authority must provide information to the chief executive in 
 
 ### 240 Building consent authority may impose fee or charge and must collect levy
 (1) A building consent authority—
-  (a) may impose a fee or charge payable by a member of the public—
+  (a) may impose a fee or charge (or both) payable by a member of the public—
     (i) in relation to a building consent; and
     (ii) for the performance of any other function or service under this Act; and
   (b) must collect the levy for which an applicant is liable to pay to the chief executive under section 53.
@@ -2828,7 +2949,7 @@ A regional authority must provide information to the chief executive in accordan
 
 ### 243 Regional authorities may impose fee or charge and recover costs, and must collect levy
 (1) A regional authority—
-  (a) may impose a fee or charge—
+  (a) may impose a fee or charge (or both)—
     (i) for issuing a project information memorandum under section 34; or
     (ii) for performing any other function or service under this Act; and
   (b) may recover its costs from the owner if it carries out building work under section 156; and
@@ -3172,6 +3293,29 @@ If a person is appointed under section 277,—
   (b) be renewed in accordance with section 278.
 (3) A person appointed under section 277 may resign from his or her appointment by giving not less than 20 working days' written notice of his or her intention to resign to the Minister.
 
+### Subpart 9 — Fees, charges, and additional costs
+
+### 281A What fees and charges may be imposed
+(1) This section applies when a territorial authority, building consent authority, or a regional authority (in this section and in sections 281B to 281D called the authority) imposes a fee or charge (or both) under section 219, 240, or 243 for a function or service performed by the authority under this Act.
+(2) Each authority has a discretion as to how the fee or charge is charged or set and how it may be paid or collected, and may (by way of example and without limiting an authority's discretion)—
+  (a) charge a fixed or variable fee:
+  (b) require a deposit and then further payment:
+  (c) require full payment at the outset:
+  (d) charge on the basis of an hourly rate or any other rate or method of charging.
+(3) An authority may impose a fee or charge whether or not the function or service in question is performed on the application of another person or on the initiative of the authority itself.
+
+### 281B Authority may increase fee or charge to meet additional cost
+(1) If a fee or a charge imposed by an authority for a function or service performed by the authority under this Act is, in any particular case, inadequate to meet the authority’s actual and reasonable costs in performing that function or service, the authority may increase the amount of the fee or charge to meet the additional cost.
+(2) The authority must, on request by the person liable to pay the increased fee or charge, provide an estimate of the increase in the fee or charge.
+
+### 281C Authority may waive or refund fee or charge
+An authority may, in its discretion, waive or refund, in whole or in part, any fee or charge imposed by it for a function or service performed by it under this Act.
+
+### 281D Validity of previous fees, charges, and additional costs
+(1) This section applies to a fee, charge, or additional cost that was imposed by, paid to, or collected by an authority before the commencement of this section.
+(2) Any question relating to the validity of the fee, charge, or additional cost must be determined as if sections 281A and 281B were in force at the time of the imposition, payment, or collection of the fee, charge, or additional cost.
+(3) Nothing in this section affects the validity of a fee, charge, or additional cost that is the subject of a proceeding that was commenced before the commencement of this section.
+
 ## Part 4 — Regulation of building practitioners
 
 ### Subpart 1 — Preliminary
@@ -3226,9 +3370,10 @@ Except as otherwise provided in this Act, the Board and the Registrar may regula
 **Licensing classes**
 
 ### 285 Licensing classes may be designated by regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, designate a licensing class or classes for carrying out or supervising particular types of—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, designate a licensing class or classes for carrying out or supervising particular types of—
   (a) building work:
   (b) building inspection work.
+(2) An order made under subsection (1) may designate a licensing class or classes for carrying out the work, or for supervising the work, or for carrying out or supervising the work.
 
 **How to become licensed**
 
@@ -3389,6 +3534,7 @@ The purpose of the register is—
 (5) If the licensed building practitioner does not comply with subsection (2), and pay the late fee, within 12 months after the date on which the person is contacted under subsection (3), the Registrar must—
   (a) cancel the person's licensing; and
   (b) remove the person's name from the register.
+(6) The levy may be applied to costs and other expenses incurred in the licensing and disciplining of building practitioners under this Act, including the costs of the operation and administration of the Board.
 
 ### 304 Alterations to register
 The Registrar may, at any time, make any amendments to the register that are necessary to—
@@ -3454,6 +3600,16 @@ The functions of the Registrar are—
   (b) fails to give written notice of a change in circumstances in accordance with section 302.
 (4) A person who commits an offence under subsection (3) is liable to a fine not exceeding $5,000.
 
+**Code of ethics and competence**
+
+### 314A Code of ethics for licensed building practitioners
+The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe a code or codes of minimum standards of ethical conduct for licensed building practitioners or classes of licensed building practitioners.
+
+### 314B Licensed building practitioner must work within competence
+A licensed building practitioner must—
+  (a) not misrepresent his or her competence:
+  (b) carry out or supervise building work only within his or her competence.
+
 **Discipline**
 
 ### 315 Complaints about licensed building practitioners
@@ -3473,16 +3629,20 @@ The functions of the Registrar are—
     (i) a licensed building practitioner has been convicted, whether before or after he or she is licensed, by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 6 months or more; and
     (ii) the commission of the offence reflects adversely on the person's fitness to carry out or supervise building work or building inspection work; or
   (b) a licensed building practitioner has carried out or supervised building work or building inspection work in a negligent or incompetent manner; or
-  (c) a licensed building practitioner has carried out or supervised restricted building work or building inspection work of a type that he or she is not licensed to carry out or supervise; or
+  (c) a licensed building practitioner has carried out (other than as an owner-builder) or supervised restricted building work or building inspection work of a type that he or she is not licensed to carry out or supervise; or
   (d) a licensed building practitioner has carried out or supervised building work or building inspection work that does not comply with a building consent; or
-  (da) a licensed building practitioner has failed, without good reason, in respect of a building consent that relates to restricted building work that he or she is to carry out or supervise, or has carried out or supervised, (as the case may be),—
-    (i) to provide a memorandum, in accordance with section 45(2)(b), about any plans and specifications required to accompany the building consent application; or
-    (ii) to provide the persons specified in section 88(2) with a memorandum, on completion of the restricted building work, in accordance with section 88(1); or
+  (da) a licensed building practitioner has failed, without good reason, in respect of a building consent that relates to restricted building work that he or she is to carry out (other than as an owner-builder) or supervise, or has carried out (other than as an owner-builder) or supervised, (as the case may be),—
+    (i) to provide a certificate of work about any plans and specifications required to accompany the building consent application; or
+    (ii) to provide the persons specified in section 88(2) with a record of work, on completion of the restricted building work, in accordance with section 88(1); or
   (db) a licensed building practitioner has held himself or herself out as being licensed to carry out or supervise building work or building inspection work of a type that, at that time, he or she was not licensed to carry out or supervise; or
   (e) a licensed building practitioner has, for the purpose of becoming licensed himself or herself, or for the purpose of any other person becoming licensed,—
     (i) either orally or in writing, made any declaration or representation, knowing it to be false or misleading in a material particular; or
     (ii) produced to the Registrar or made use of any document, knowing it to contain a declaration or representation referred to in subparagraph (i); or
-    (iii) produced to the Registrar or made use of any document, knowing that it was not genuine.
+    (iii) produced to the Registrar or made use of any document, knowing that it was not genuine; or
+  (f) a licensed building practitioner has failed, without good reason, to provide to the owner the record of work referred to in clause 1(b) of Schedule 1E or clause 1(b) of Schedule 1F; or
+  (g) a licensed building practitioner has breached the code of ethics prescribed under section 314A; or
+  (h) a licensed building practitioner has breached section 314B; or
+  (i) a licensed building practitioner has conducted himself or herself in a manner that brings, or is likely to bring, the regime under this Act for licensed building practitioners into disrepute.
 (2) The Board may take the action whether or not the person is still a licensed building practitioner.
 
 ### 318 Disciplinary penalties
@@ -3652,11 +3812,12 @@ The Building Practitioners Board is established.
 (2) The Board may exercise its powers only for the purpose of performing its functions.
 
 ### 343 Board's functions
-The Board's functions are—
+(1) The Board's functions are—
   (a) to approve rules relating to licensed building practitioners that are prepared in accordance with this subpart; and
   (b) to receive, investigate, and hear complaints about, and to inquire into the conduct of, and discipline, licensed building practitioners in accordance with subpart 2; and
   (c) to hear appeals against certain decisions of the Registrar in accordance with subpart 2; and
   (d) to review and report to the Minister on the performance of the functions and duties, and the exercise of the powers, of the Board under this Act in accordance with this subpart.
+(2) The Board may, in accordance with clause 34 of Schedule 3, delegate any or all of its functions under subsection (1)(b) or (c) to a subcommittee of the Board appointed under that clause.
 
 ### 344 Composition of Board
 (1) The Board must have at least 6 members, but not more than 8 members.
@@ -3810,15 +3971,11 @@ The rules are deemed to be regulations for the purpose of the Regulations (Disal
 (6) Nothing in this section relieves the owner of a building from the obligation imposed by section 92(1) to apply to a building consent authority for a code compliance certificate after all building work to be carried out under a building consent granted to the owner is completed.
 
 ### 363B Application of section 363 to building work where consent granted, or work begun, before 31 March 2005
-(1) This section applies to building work if it affects premises to which section 362A applies, and—
-  (a) a building consent was granted for it before 31 March 2005; or
-  (b) it began before 31 March 2005.
-(2) Before 31 March 2010, section 363(1) does not apply to building work to which this section applies.
-(3) On and after 31 March 2010, section 363(1) does not apply to building work to which this section applies if a certificate of acceptance has been issued for it under section 96(1) before 31 March 2010.
+[Repealed]
 
-### 363C Section 363 does not apply to building work commenced before commencement of Building Act 1991
-(1) Section 363(1) does not apply to building work commenced before 1 July 1992.
-(2) Subsection (1) applies whether the work was completed before, on, or after 1 July 1992.
+### 363C Section 363 does not apply to building work commenced before 31 March 2005
+(1) Section 363(1) does not apply to building work commenced before 31 March 2005.
+(2) Subsection (1) applies whether or not the work was completed before, on, or after 31 March 2005.
 
 ### 364 Offence for residential property developer to transfer household unit without code compliance certificate
 (1) A residential property developer commits an offence if the residential property developer does either or both of the following things before a code compliance certificate is issued in relation to a household unit:
@@ -4128,16 +4285,38 @@ A provision of an agreement or instrument that purports to restrict or remove th
   (c) the circumstances in which building methods or products that have a current product certificate issued under section 269 must be used.
 (2) Any regulations made under subsection (1) must state whether those regulations apply to building work for which a building consent has been issued, but for which a code compliance certificate has not been issued.
 
+### 401A Regulations: building consents and consent completion certificates
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+  (a) define low-risk building work including by specifying any or all of the following: the nature of the building work, the circumstances in which it may be carried out, or the conditions for carrying it out:
+  (b) define simple residential building work:
+  (c) define commercial building work:
+  (d) prescribe types or categories of commercial building work for which a commercial building consent is required:
+  (e) prescribe types or categories of commercial building work for which an application for either a commercial building consent or a standard building consent may be made:
+  (f) prescribe those aspects of plans and specifications accompanying an application for a simple residential building consent that must be considered by a building consent authority when deciding whether to grant the consent:
+  (g) for the purpose of a determination by a building consent authority whether to issue a consent completion certificate in respect of simple residential building work, prescribe—
+    (i) the maximum inspections that are required; and
+    (ii) the nature of those inspections:
+  (h) prescribe the criteria for determining the risk profile of a commercial building:
+  (i) prescribe the matters that must be included in a quality assurance system, including prescribing different matters for different types or categories of commercial building work:
+  (j) define safety system.
+
+### 401B Order in Council declaring work to be restricted building work
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any kind of building work (other than building work for which a building consent is not required) or any kind of design work to be restricted building work.
+(2) An order under subsection (1) may apply to any kind of building work or design work generally, or may apply to building work or design work in relation to particular types or categories of buildings or to particular parts of buildings.
+(3) The Minister may recommend the making of an order under this section only if the Minister is satisfied that the kind of building work or design work in question is (or is likely to be) critical to the integrity of a building or part of a building.
+(4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
+
 ### 402 Regulations: general
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Building levy:Licensing:General matters:
   (a) prescribing the rate of the levy to be paid under section 53:
   (b) providing for the method by which the levy will be calculated:
   (c) providing for the payment and collection of the levy:
-  (d) prescribing the fees or charges payable in respect of the performance of the Registrar's functions under Part 4, including the fees and charges for—
+  (d) prescribing the fees or charges payable in respect of the licensing, disciplining, and registration of building practitioners under Part 4, including the fees and charges for—
     (i) an application to be licensed as a building practitioner; and
     (ii) the issue of that evidence of being licensed; and
     (iii) the renewal of that evidence of being licensed:
-  (e) providing for the following matters relating to the levy payable by licensed building practitioners under section 303 for, or in connection with, the costs of the operation and administration of the Board:
+  (da) providing for waivers and refunds of the whole or any part of a fee or charge referred to in paragraph (d):
+  (e) providing for the following matters relating to the levy payable by licensed building practitioners under section 303:
     (i) different levies for different classes of licensed building practitioners; and
     (ii) the amount of the levy; and
     (iii) the method by which the levy will be calculated; and
@@ -4167,11 +4346,11 @@ A provision of an agreement or instrument that purports to restrict or remove th
     (i) territorial authorities and building consent authorities in relation to buildings and building work; and
     (ii) regional authorities and owners of dams in relation to dams:
   (m) prescribing time limits for the purposes of this Act:
-  (n) prescribing building work that amounts to restricted building work:
+  (n)
   (na) designating a licensing class or classes for carrying out or supervising particular types of—
     (i) building work; or
     (ii) building inspection work:
-  (o) prescribing systems that amount to specified systems for the purposes of this Act:
+  (o) prescribing systems or parts of systems that amount to specified systems for the purposes of this Act:
   (p) defining moderate earthquake for the purposes of sections 122 and 153:
   (q) defining moderate flood for the purposes of section 153:
   (qa) defining earthquake threshold event for the purposes of section 153A:
@@ -4496,14 +4675,10 @@ If, before the commencement of this section, a person is liable to pay a levy un
 (1) On the commencement of this section,—
   (a) a code compliance certificate issued under section 43 of the former Act has effect as if it had been issued under section 95 of this Act; and
   (b) a compliance schedule issued under section 44 of the former Act has effect as if it had been issued under section 102 of this Act.
-(2) Before 30 November 2010,—
-  (a) the reference in sections 103(1)(c) and 108(7) to licensed building practitioners, in relation to a territorial authority, includes a reference to independently qualified people accepted by the authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule:
-  (b) the references in sections 108(3)(c), 108(3)(d), 108(7), 109, and 110(a) to a licensed building practitioner, in relation to a territorial authority, include references to an independently qualified person accepted by the authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule.
+(2)
 (3) A person who immediately before the commencement of this section was accepted by a territorial authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule continues to be accepted until the authority withdraws its acceptance.
-(4) Before 30 November 2010, a territorial authority—
-  (a) may accept any person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule:
-  (b) may withdraw its acceptance of any person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule (whether the acceptance occurred before or after the commencement of this section).
-(5) If not earlier withdrawn, a territorial authority's acceptance of a person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule expires on 30 November 2010.
+(4)
+(5)
 
 ### 439 Transitional provision for document used in establishing compliance with building code
 (1) This section applies if, before the commencement of this section,—
@@ -4816,6 +4991,13 @@ A meeting of the Board may be held—
 ### 33 Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
 (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+
+### 34 Appointment of subcommittee to deal with complaints and licensing appeals
+(1) The Board may appoint 1 or more subcommittees of the Board and by written notice may delegate to a subcommittee any or all of its functions under section 343(b) and (c).
+(2) A subcommittee must have no fewer than 3 members.
+(3) The members of a subcommittee must be members of the Board, and the Board must nominate 1 of the members as the chairperson of the subcommittee.
+(4) The Board must regulate the procedure of its subcommittees as it thinks fit, and may at any time discharge, alter, or reconstitute a subcommittee.
+(5) A delegation under this clause may be revoked at any time, and the delegation of a function of the Board does not prevent the Board from exercising that function itself.
 
 ## Schedule 4 — Enactments amended
 
