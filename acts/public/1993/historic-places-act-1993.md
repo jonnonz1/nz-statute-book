@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2012-03-13_
 
 > An Act—ato promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbto continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcto establish the Maori Heritage Council; anddto amend and consolidate the Historic Places Act 1980
 
@@ -278,8 +278,8 @@ The Trust shall, within 20 working days after granting an authority under sectio
   (c) to assist historic places, historic areas, wahi tapu, and wahi tapu areas to be protected under the Resource Management Act 1991.
 (3) The register shall consist of the following:
   (a) a part relating to historic places, comprising the following categories:
-    (i) Category I: places of special or outstanding historical or cultural heritage significance or value:
-    (ii) Category II: places of historical or cultural heritage significance or value:
+    (i) Category 1: places of special or outstanding historical or cultural heritage significance or value:
+    (ii) Category 2: places of historical or cultural heritage significance or value:
   (b) a part relating to historic areas:
   (c) a part relating to wahi tapu:
   (d) a part relating to wahi tapu areas.
@@ -291,7 +291,7 @@ The Trust shall, within 20 working days after granting an authority under sectio
 
 ### 23 Criteria for registration of historic places and historic areas
 (1) The Trust may enter any historic place or historic area in the register if the place or area possesses aesthetic, archaeological, architectural, cultural, historical, scientific, social, spiritual, technological, or traditional significance or value.
-(2) The Trust may assign Category I status or Category II status to any historic place, having regard to any of the following criteria:
+(2) The Trust may assign Category 1 status or Category 2 status to any historic place, having regard to any of the following criteria:
   (a) the extent to which the place reflects important or representative aspects of New Zealand history:
   (b) the association of the place with events, persons, or ideas of importance in New Zealand history:
   (c) the potential of the place to provide knowledge of New Zealand history:
@@ -304,7 +304,7 @@ The Trust shall, within 20 working days after granting an authority under sectio
   (j) the importance of identifying rare types of historic places:
   (k) the extent to which the place forms part of a wider historical and cultural complex or historical and cultural landscape:
   (l) such additional criteria for registration of wahi tapu, wahi tapu areas, historic places, and historic areas of Maori interest as may be prescribed in regulations made under this Act:
-  (m) such additional criteria not inconsistent with those in paragraphs (a) to (k) for the purpose of assigning Category I or Category II status to any historic place, and for the purpose of registration of any historic area, as may be prescribed in regulations made under this Act.
+  (m) such additional criteria not inconsistent with those in paragraphs (a) to (k) for the purpose of assigning Category 1 or Category 2 status to any historic place, and for the purpose of registration of any historic area, as may be prescribed in regulations made under this Act.
 
 ### 24 Provisions relating to historic places
 (1) The registration of any historic place may be proposed by the Trust or by any other person.
@@ -465,7 +465,7 @@ The Trust or the Council (as the case may be) may confirm the registration of th
 
 ### 34 Records to be supplied to territorial authorities
 (1) The Trust shall maintain and supply to every territorial authority a record of registered historic places, historic areas, wahi tapu, and wahi tapu areas that are located within that territorial authority's district and heritage covenants that have effect in that area, and the territorial authority shall keep the record available for public inspection during its usual business hours.
-(2) Notification to a territorial authority—of any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of section 34(1)(b) of the Building Act 2004 and section 44A(2)(g) of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
+(2) Notification to a territorial authority—of any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of section 35(1)(b) of the Building Act 2004 and section 44A(2)(g) of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
   (a) pursuant to section 24(3)(b) of a proposal for interim registration or removal from the register; and
   (b) pursuant to section 32C(2)(b) or section 37(7) or section 37A(b) of registration or removal from the register—
 
@@ -496,7 +496,7 @@ The register shall be open for public inspection during usual business hours at 
   (b) remove the registration; or
   (c) confirm the registration; or
   (d) in the case of an historic place, change or confirm the category of registration.
-(9) If the Trust has, as part of its review, publicly notified a proposal to change the category of a registered historic place to Category I,—
+(9) If the Trust has, as part of its review, publicly notified a proposal to change the category of a registered historic place to Category 1,—
   (a) the Trust may apply section 194 of the Resource Management Act 1991 until the Trust has finally dealt with the application, as if the application were a notice of a requirement for a heritage order; and
   (b) if the Trust applies section 194 of the Resource Management Act 1991, section 195 of that Act applies.
 
@@ -1020,9 +1020,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
 **Transitional provisions and consequential amendments**
 
 ### 114 Registration or classification under former Act
-(1) All buildings classified under paragraph (a) or paragraph (b) of section 35(1) of the Historic Places Act 1980, and all places recorded under section 51 of that Act, shall, notwithstanding subsection (8), be deemed to have final registration in Category I of the register.
+(1) All buildings classified under paragraph (a) or paragraph (b) of section 35(1) of the Historic Places Act 1980, and all places recorded under section 51 of that Act, shall, notwithstanding subsection (8), be deemed to have final registration in Category 1 of the register.
 (2) Where a proposal for classification made under section 35 or section 49 of the Historic Places Act 1980, or an application made under section 50(1) of that Act, has not been finally dealt with before the commencement of this Act, those proposals or applications shall be dealt with and completed after that date in accordance with the provisions of that Act as if this Act had not been enacted.
-(3) The following shall be deemed to have final registration in Category II of the register:
+(3) The following shall be deemed to have final registration in Category 2 of the register:
   (a) all buildings classified under paragraph (c) or paragraph (d) of section 35(1) of the Historic Places Act 1980:
   (b) all archaeological sites registered under section 43(1) of that Act.
 (4) All historic areas classified under section 49 of the Historic Places Act 1980 shall be deemed to have final registration under this Act as historic areas.
