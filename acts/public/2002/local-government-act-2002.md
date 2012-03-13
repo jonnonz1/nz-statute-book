@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-03-13_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -374,9 +374,15 @@ This Part—
 
 ### 22 Minister is territorial authority in certain cases
 (1) The Minister is the territorial authority for any part of New Zealand that does not form part of the district of a territorial authority.
-(2) Subsection (1) does not apply in relation to—
-  (a) the territorial sea; or
-  (b) the Kermadec Islands, the Snares Islands, the Bounty Islands, the Antipodes Islands, the Auckland Islands, Campbell Island, and the islands adjacent to Campbell Island.
+(2) Subsection (1)—
+  (a) does not apply at all in relation to any of the following:
+    (i) the territorial sea; or
+    (ii) the Kermadec Islands; or
+    (iii) the Sub-Antarctic Islands (which include the Antipodes Islands, the Auckland Islands, the Bounty Islands, Campbell Island and the islands adjacent to Campbell Island, and the Snares Islands); and
+  (b) does not apply in relation to the Three Kings Islands (which include Great Island, South West Island, West Island, North East Island, and several islets and rock stacks) for the purposes of the Building Act 2004.
+(3) For the purposes of the Building Act 2004,—
+  (a) the Minister of Local Government is the territorial authority for any part of New Zealand referred to in subsection (1); and
+  (b) the Minister of Conservation is the territorial authority for the islands referred to in subsection (2).
 
 ### 23 Description of local government
 (1) A territorial authority must be either a city council or a district council.
@@ -5446,3 +5452,45 @@ A local authority is not required to comply with, or complete the compliance wit
   (b) a local authority's rates remission policy under section 109(2A) of the principal Act (as inserted by section 26 of this Act):
   (c) a local authority's rates postponement policy under section 110(2A) of the principal Act (as inserted by section 27 of this Act).
 (2) A policy specified in subsection (1) is to be treated as having been last reviewed on the date that the local authority adopted its long-term plan for the period beginning on 1 July 2009.
+
+### 1 Title
+This Act is the Building Amendment Act 2012.
+
+### 2 Commencement
+(1) The following provisions come into force on the day after the date of Royal assent:
+  (a) sections 1 to 5:
+  (b) section 6(4) to (6), and (9) to (11):
+  (c) sections 8 to 10:
+  (d) sections 13 and 14:
+  (e) sections 18 to 20:
+  (f) sections 23 to 27:
+  (g) section 29:
+  (h) sections 36(3) and 39 to 51:
+  (i) sections 53 and 54:
+  (j) section 56:
+  (k) section 57(1) and (2):
+  (l) sections 59, 61, 62(2), and 63 to 65:
+  (m) sections 67 to 71:
+  (n) sections 74 and 75:
+  (o) sections 81 to 83:
+  (p) sections 87 and 88(2):
+  (q) sections 90 to 92, 93(5), and 94.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
+
+### 3 Principal Act amended
+This Act amends the Building Act 2004.
+
+## Part 2 — Miscellaneous provisions
+
+### 92 Transitional provisions for section 91
+(1) In this section, transition period means—
+  (a) the period of 18 months from the commencement of this section; or
+  (b) a shorter period than 18 months from the commencement of this section ending on a date determined by the Minister of Conservation (the Minister) and notified in the Gazette.
+(2) During the transition period, the following provisions of the Building Act 2004 do not apply to the Minister in his or her capacity as a territorial authority under section 22 of the Local Government Act 2002:
+  (a) section 212:
+  (b) section 215.
+(3) During the transition period, none of the following persons is liable, and no proceeding may be brought against any of them, for any thing done or omitted to be done under the Building Act 2004 from the commencement of that Act until the close of the transition period on or in relation to the islands referred to in section 22(2) of the Local Government Act 2002 after amendment by this Act:
+  (a) the Minister:
+  (b) the Minister of Local Government:
+  (c) the Department of Conservation:
+  (d) any employee or agent of the Department of Conservation.
