@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2009-02-01_
+_Consolidation as at 2012-03-19_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -129,9 +129,7 @@ Every person is liable to imprisonment for a term not exceeding 6 months or a fi
 Every person is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $4,000 who assaults any constable, or any prison officer, or any traffic officer, acting in the execution of his duty.
 
 ### 10A Ill-treatment or wilful neglect of child
-Every person is liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $4,000 who,—
-  (a) being a paid or unpaid staff member of a residence under the Children, Young Persons, and Their Families Act 1989, ill-treats or wilfully neglects any child under the age of 17 years who resides in that residence; or
-  (b) being a person to whom the care or custody of a child under the age of 17 years has been lawfully entrusted, ill-treats or wilfully neglects that child.
+[Repealed]
 
 ### 10B Leaving child without reasonable supervision and care
 Every person is liable to a fine not exceeding $2,000 who, being a parent or guardian or a person for the time being having the care of a child under the age of 14 years, leaves that child, without making reasonable provision for the supervision and care of the child, for a time that is unreasonable or under conditions that are unreasonable having regard to all the circumstances.
@@ -526,3 +524,18 @@ Amendment(s) incorporated in the Act(s).
 | 10 | Aiding offences against corresponding law of another country |
 | 11 | Theft, etc, of controlled drugs |
 | 12 | Use of premises or vehicle |
+
+### 1 Title
+This Act is the Crimes Amendment Act (No 3) 2011.
+
+### 2 Commencement
+This Act comes into force 6 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
+
+## Part 2 — Amendments to other enactments and transitional provision
+
+### 12 Transitional provision
+(1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
+(2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
