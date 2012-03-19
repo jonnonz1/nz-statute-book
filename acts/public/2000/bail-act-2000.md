@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-03-19_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -34,8 +34,8 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 (2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against section 49 of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
 (3) A defendant is bailable as of right who is charged with an offence against any of the following provisions of the Crimes Act 1961, namely:
   (a) section 111 (false statements or declarations):
-  (b) section 151 (duty to provide the necessaries of life):
-  (c) section 152 (duty of parent or guardian to provide necessaries):
+  (b) section 151 (duty to provide necessaries and protect from injury):
+  (c) section 152 (duty of parent or guardian to provide necessaries and protect from injury):
   (d) section 153 (duty of employers to provide necessaries):
   (e) section 154 (abandoning child under 6):
   (f) section 190 (injuring by unlawful act):
@@ -735,6 +735,21 @@ Despite the repeal of any enactment by this Act, where any notice of appeal has 
 (4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge, who may issue a warrant for the arrest of the defendant.
 
 ## Schedule 2 — Amendments to other enactments
+
+### 1 Title
+This Act is the Crimes Amendment Act (No 3) 2011.
+
+### 2 Commencement
+This Act comes into force 6 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
+
+## Part 2 — Amendments to other enactments and transitional provision
+
+### 12 Transitional provision
+(1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
+(2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
 
 ### 1 Title
 This Act is the Bail Amendment Act 2011.
