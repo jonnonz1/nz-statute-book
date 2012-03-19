@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-03-19_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -13,7 +13,7 @@ _Consolidation as at 2012-03-05_
   - **aerodrome** has the same meaning as in the Civil Aviation Act 1990
   - **aircraft** has the same meaning as in the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of any of the armed forces of any country other than New Zealand
   - **assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
-  - **claim of right** , in relation to any act, means a belief that the act is lawful, although that belief may be based on ignorance or mistake of fact or of any matter of law other than the enactment against which the offence is alleged to have been committed
+  - **claim of right** , in relation to any act, means a belief at the time of the act in a proprietary or possessory right in property in relation to which the offence is alleged to have been committed, although that belief may be based on ignorance or mistake of fact or of any matter of law other than the enactment against which the offence is alleged to have been committed
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the government of any such country is responsible
   - **Commonwealth ship** means a ship registered or required to be registered in any Commonwealth country, or recognised by the law of any Commonwealth country as a ship belonging to that country; and includes any ship for the time being used as a ship of any of the armed forces of any Commonwealth country
   - **constable** has the meaning given in section 4 of the Policing Act 2008
@@ -63,7 +63,9 @@ _Consolidation as at 2012-03-05_
   - **to injure** means to cause actual bodily harm
   - **trial Judge** means,—
     (a) if the accused has been committed to the High Court for trial and the case has not been transferred to the District Court for trial under section 184Q of the Summary Proceedings Act 1957, a High Court Judge:
-    (b) if the accused has been committed to the District Court for trial or the case has been transferred to that court for trial under section 184Q of the Summary Proceedings Act 1957, and the court has jurisdiction in the matter under section 28A of the District Courts Act 1947, a District Court Judge.
+    (b) if the accused has been committed to the District Court for trial or the case has been transferred to that court for trial under section 184Q of the Summary Proceedings Act 1957, and the court has jurisdiction in the matter under section 28A of the District Courts Act 1947, a District Court Judge
+  - **unlawful act** means a breach of any Act, regulation, rule, or bylaw
+  - **vulnerable adult** , for the purposes of sections 151, 195, and 195A, means a person unable, by reason of detention, age, sickness, mental impairment, or any other cause, to withdraw himself or herself from the care or charge of another person.
 (1A) For the purposes of paragraph (a) of the definition in subsection (1) of sexual connection, introduction to the slightest degree is enough to effect a connection.
 (1B) For the purposes of this Act, one person does an indecent act on another person whether he or she—
   (a) does an indecent act with or on the other person; or
@@ -1261,7 +1263,7 @@ There is no presumption of law that a person is incapable of sexual connection b
   - **step-parent** includes a former step-parent
   - **uncle** , in relation to a person, includes a half-brother of one of the person's parents.
 
-### 131B Meeting young person under 16 following sexual grooming, etc
+### 131B Meeting young person following sexual grooming, etc
 (1) Every person is liable to imprisonment for a term not exceeding 7 years if,—
   (a) having met or communicated with a person under the age of 16 years (the young person) on an earlier occasion, he or she takes one of the following actions:
     (i) intentionally meets the young person:
@@ -1270,6 +1272,7 @@ There is no presumption of law that a person is incapable of sexual connection b
   (b) at the time of taking the action, he or she intends—
     (i) to take in respect of the young person an action that, if taken in New Zealand, would be an offence against this Part, or against any of paragraphs (a)(i), (d)(i), (e)(i), (f)(i), of section 98AA(1); or
     (ii) that the young person should do on him or her an act the doing of which would, if he or she permitted it to be done in New Zealand, be an offence against this Part on his or her part.
+(1A) A reference in this section to a young person under the age of 16 years or the young person includes a reference to a constable who pretends to be a young person under the age of 16 years (the fictitious young person) if the offender, when taking any of the actions described in subsection (1), believed that the fictitious young person was a young person under the age of 16 years.
 (2) It is a defence to a charge under subsection (1) if the person charged proves that,—
   (a) before the time he or she took the action concerned, he or she had taken reasonable steps to find out whether the young person was of or over the age of 16 years; and
   (b) at the time he or she took the action concerned, he or she believed on reasonable grounds that the young person was of or over the age of 16 years.
@@ -1428,19 +1431,21 @@ Every one is liable to imprisonment for a term not exceeding 2 years who—
 
 **Duties tending to the preservation of life**
 
-### 150A Standard of care required of persons under legal duties
-(1) This section applies in respect of the legal duties specified in any of sections 151, 152, 153, 155, 156, and 157.
-(2) For the purposes of this Part, a person is criminally responsible for—only if, in the circumstances of the particular case, the omission or neglect is a major departure from the standard of care expected of a reasonable person to whom that legal duty applies in those circumstances.
-  (a) omitting to discharge or perform a legal duty to which this section applies; or
-  (b) neglecting a legal duty to which this section applies—
+### 150A Standard of care applicable to persons under legal duties or performing unlawful acts
+(1) This section applies in respect of—
+  (a) the legal duties specified in any of sections 151, 152, 153, 155, 156, and 157; and
+  (b) an unlawful act referred to in section 160 where the unlawful act relied on requires proof of negligence or is a strict or absolute liability offence.
+(2) For the purposes of this Part, a person is criminally responsible for omitting to discharge or perform a legal duty, or performing an unlawful act, to which this section applies only if, in the circumstances, the omission or unlawful act is a major departure from the standard of care expected of a reasonable person to whom that legal duty applies or who performs that unlawful act.
 
-### 151 Duty to provide the necessaries of life
-(1) Every one who has charge of any other person unable, by reason of detention, age, sickness, insanity, or any other cause, to withdraw himself from such charge, and unable to provide himself with the necessaries of life, is (whether such charge is undertaken by him under any contract or is imposed upon him by law or by reason of his unlawful act or otherwise howsoever) under a legal duty to supply that person with the necessaries of life, and is criminally responsible for omitting without lawful excuse to perform such duty if the death of that person is caused, or if his life is endangered or his health permanently injured, by such omission.
-(2) Every one is liable to imprisonment for a term not exceeding 7 years who, without lawful excuse, neglects the duty specified in this section so that the life of the person under his charge is endangered or his health permanently injured by such neglect.
+### 151 Duty to provide necessaries and protect from injury
+Every one who has actual care or charge of a person who is a vulnerable adult and who is unable to provide himself or herself with necessaries is under a legal duty—
+  (a) to provide that person with necessaries; and
+  (b) to take reasonable steps to protect that person from injury.
 
-### 152 Duty of parent or guardian to provide necessaries
-(1) Every one who as a parent or person in place of a parent is under a legal duty to provide necessaries for any child under the age of 16 years, being a child in his actual custody, is criminally responsible for omitting without lawful excuse to do so, whether the child is helpless or not, if the death of the child is caused, or if his life is endangered or his health permanently injured, by such omission.
-(2) Every one is liable to imprisonment for a term not exceeding 7 years who, without lawful excuse, neglects the duty specified in this section so that the life of the child is endangered or his health permanently injured by such neglect.
+### 152 Duty of parent or guardian to provide necessaries and protect from injury
+Every one who is a parent, or is a person in place of a parent, who has actual care or charge of a child under the age of 18 years is under a legal duty—
+  (a) to provide that child with necessaries; and
+  (b) to take reasonable steps to protect that child from injury.
 
 ### 153 Duty of employers to provide necessaries
 (1) Every one who as employer has contracted to provide necessary food, clothing, or lodging for any servant or apprentice under the age of 16 years is under a legal duty to provide the same, and is criminally responsible for omitting without lawful excuse to perform such duty if the death of that servant or apprentice is caused, or if his life is endangered or his health permanently injured, by such omission.
@@ -1675,8 +1680,27 @@ Every one is liable to imprisonment for a term not exceeding 2 years who—
   (a) assaults any child under the age of 14 years; or
   (b) being a male, assaults any female.
 
-### 195 Cruelty to a child
-Every one is liable to imprisonment for a term not exceeding 5 years who, having the custody, control, or charge of any child under the age of 16 years, wilfully ill-treats or neglects the child, or wilfully causes or permits the child to be ill-treated, in a manner likely to cause him unnecessary suffering, actual bodily harm, injury to health, or any mental disorder or disability.
+### 195 Ill-treatment or neglect of child or vulnerable adult
+(1) Every one is liable to imprisonment for a term not exceeding 10 years who, being a person described in subsection (2), intentionally engages in conduct that, or omits to discharge or perform any legal duty the omission of which, is likely to cause suffering, injury, adverse effects to health, or any mental disorder or disability to a child or vulnerable adult (the victim) if the conduct engaged in, or the omission to perform the legal duty, is a major departure from the standard of care to be expected of a reasonable person.
+(2) The persons are—
+  (a) a person who has actual care or charge of the victim; or
+  (b) a person who is a staff member of any hospital, institution, or residence where the victim resides.
+(3) For the purposes of this section and section 195A, a child is a person under the age of 18 years.
+
+### 195A Failure to protect child or vulnerable adult
+(1) Every one is liable to imprisonment for a term not exceeding 10 years who, being a person described in subsection (2), has frequent contact with a child or vulnerable adult (the victim) and—
+  (a) knows that the victim is at risk of death, grievous bodily harm, or sexual assault as the result of—
+    (i) an unlawful act by another person; or
+    (ii) an omission by another person to discharge or perform a legal duty if, in the circumstances, that omission is a major departure from the standard of care expected of a reasonable person to whom that legal duty applies; and
+  (b) fails to take reasonable steps to protect the victim from that risk.
+(2) The persons are—
+  (a) a member of the same household as the victim; or
+  (b) a person who is a staff member of any hospital, institution, or residence where the victim resides.
+(3) A person may not be charged with an offence under this section if he or she was under the age of 18 at the time of the act or omission.
+(4) For the purposes of this section,—
+  (a) a person is to be regarded as a member of a particular household, even if he or she does not live in that household, if that person is so closely connected with the household that it is reasonable, in the circumstances, to regard him or her as a member of the household:
+  (b) where the victim lives in different households at different times, the same household refers to the household in which the victim was living at the time of the act or omission giving rise to the risk of death, grievous bodily harm, or sexual assault.
+(5) In determining whether a person is so closely connected with a particular household as to be regarded as a member of that household, regard must be had to the frequency and duration of visits to the household and whether the person has a familial relationship with the victim and any other matters that may be relevant in the circumstances.
 
 ### 196 Common assault
 Every one is liable to imprisonment for a term not exceeding 1 year who assaults any other person.
@@ -1725,7 +1749,7 @@ Every one is liable to imprisonment for a term not exceeding 1 year who assaults
 (1) In subsection (4)(a) offensive weapon means any article made or altered for use for causing bodily injury, or intended by the person having it with him for such use.
 (2) In subsection (4)(b) offensive weapon means any article capable of being used for causing bodily injury.
 (3) In this section disabling substance means any anaesthetising or other substance produced for use for disabling persons, or intended by any person having it with him for such use.
-(4) Every one is liable to imprisonment for a term not exceeding 2 years—
+(4) Every one is liable to imprisonment for a term not exceeding 3 years—
   (a) who, without lawful authority or reasonable excuse, has with him in any public place any knife or offensive weapon or disabling substance; or
   (b) who has in his possession in any place any offensive weapon or disabling substance in circumstances that prima facie show an intention to use it to commit an offence involving bodily injury or the threat or fear of violence.
 (5) It is a defence to a charge under subsection (4)(b) if the person charged proves that he did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
@@ -4421,3 +4445,18 @@ This Act amends the Crimes Act 1961.
 
 ### 19 Transitional provision
 Despite section 384A of the Crimes Act 1961, every appeal filed before the commencement of that section must be heard and determined as if section 384A had not been enacted.
+
+### 1 Title
+This Act is the Crimes Amendment Act (No 3) 2011.
+
+### 2 Commencement
+This Act comes into force 6 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
+
+## Part 2 — Amendments to other enactments and transitional provision
+
+### 12 Transitional provision
+(1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
+(2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
