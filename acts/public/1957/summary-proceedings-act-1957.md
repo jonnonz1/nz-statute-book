@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-03-19_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3644,7 +3644,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 149A | Repealed |
 | 150 | Misconduct in respect of human remains |
 | Part 8—Crimes Against the Person |  |
-| 151, 152, 153 | Neglect to provide necessaries of life |
+| 153 | Duty of employers to provide necessaries |
 | 154 | Abandoning child under 6 |
 | 181 | Concealing dead body of child |
 | 185 | Procuring own miscarriage |
@@ -3654,7 +3654,8 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 192 | Aggravated assault |
 | 193 | Assault with intent to injure |
 | 194 | Assault on a child, or by a male on a female |
-| 195 | Cruelty to a child |
+| 195 | Ill-treatment or neglect of child or vulnerable adult |
+| 195A | Failure to protect child or vulnerable adult |
 | 196 | Common assault |
 | 198A(2) | Using any firearm to resist arrest |
 | 198B | Commission of Crime with firearm |
@@ -4066,3 +4067,18 @@ This Act is the Summary Proceedings Amendment Act 2011.
 ### 47 Transitional provisions relating to pre-commencement fines and warrants
 (1) The principal Act as amended by this Act applies to the enforcement of any fine whether adjudged, ordered, or deemed to be ordered to be paid before or after the commencement of this Act.
 (2) Amendment(s) incorporated in the Act(s).
+
+### 1 Title
+This Act is the Crimes Amendment Act (No 3) 2011.
+
+### 2 Commencement
+This Act comes into force 6 months after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
+
+## Part 2 — Amendments to other enactments and transitional provision
+
+### 12 Transitional provision
+(1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
+(2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
