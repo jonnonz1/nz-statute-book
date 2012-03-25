@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-03-25_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -161,7 +161,7 @@ All persons exercising functions in relation to the development and implementati
   (a) every regional council and every territorial authority within that region must unite to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002:
   (b) subject to paragraph (c), a unitary authority must establish a Civil Defence Emergency Management Group for the purposes of this Act for the district of that unitary authority alone:
   (c) instead of establishing a Civil Defence Emergency Management Group in accordance with paragraph (b), a unitary authority may unite with a unitary authority or unitary authorities that border it, or a regional council that borders it, or all or any of them, to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
-(2) Clause 30(5) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
+(2) Clause 30(5) or (7) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
 (3) Nothing in this section requires the Minister of Local Government to be a member of a Civil Defence Emergency Management Group.
 
 ### 13 Membership of Civil Defence Emergency Management Groups
@@ -623,30 +623,52 @@ Emergency services must—
 ### 68 Declaration of state of local emergency
 (1) A person appointed for the purpose under section 25 may declare that a state of local emergency exists in the area for which the person is appointed if at any time it appears to the person that an emergency has occurred or may occur within the area.
 (2) A person who is authorised to declare a state of local emergency may declare that the state of local emergency exists in respect of the whole area of the Civil Defence Emergency Management Group concerned or 1 or more districts or wards within the area.
+(2A) If an authorised person declares a state of local emergency for—
+  (a) the whole area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more districts or wards within the area ceases to have effect:
+  (b) a district within the area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more wards within the district ceases to have effect.
 (3) A state of local emergency may be declared in respect of an area that is not affected by an emergency if, in the opinion of any person authorised to declare a state of local emergency in respect of that area, the resources of that area are needed to assist any other area where a state of local emergency is in force.
 (4) The fact that a person purporting to be authorised by section 25 declares a state of local emergency is, in the absence of proof to the contrary, conclusive evidence that the person is a person authorised under that section to do so.
 (5) Nothing in this section authorises a person to declare a state of local emergency for any part of New Zealand while a state of national emergency is in force in respect of that part.
 
 ### 69 Minister may declare state of local emergency in certain cases
 (1) If at any time it appears to the Minister that an emergency has occurred or may occur in the area of any Civil Defence Emergency Management Group and a state of local emergency has not been declared under section 68, the Minister may declare a state of local emergency for that area.
+(1A) If the Minister declares a state of local emergency for—
+  (a) the whole area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more districts or wards within the area ceases to have effect:
+  (b) a district within the area of a Civil Defence Emergency Management Group, then any other state of local emergency already in force for 1 or more wards within the district ceases to have effect.
 (2) Nothing in this section authorises the Minister to declare a state of local emergency for any part of New Zealand while a state of national emergency is in force in respect of that part.
 
 **General provisions applying to declaration of state of national emergency or state of local emergency**
 
 ### 70 Commencement and duration of state of emergency
-(1) A state of emergency comes into force immediately on the making of the declaration declaring it, or at a later time and date stated in that declaration.
-(2) A state of emergency expires with the commencement of the seventh day after the date on which it was declared, or any earlier time and date that may be stated in the declaration of the state of emergency.
-(3) Nothing in this section prevents the extension or termination of a state of emergency under section 71 or section 72.
+(1) A declaration of a state of emergency must specify the time and date on which the declaration is made.
+(2) A state of emergency comes into force at the time and on the date that a declaration of the state of emergency is made.
+(3) A state of emergency expires 7 days after the time and date on which the state of emergency comes into force.
+(4) Nothing in this section prevents—
+  (a) the extension of a state of emergency under section 71; or
+  (b) the termination of a state of emergency under section 72.
+(5) For the purposes of this section, 7 days after the time and date on which the state of emergency comes into force means immediately after a period that—ExampleIf a state of emergency came into force at 9.35 am on 1 January, it would expire at 9.35 am on 8 January. If the state of emergency came into force at 9.35 am on a Friday, it would expire at 9.35 am on the following Friday.
+  (a) begins immediately after the time of the day on which the state of emergency comes into force; and
+  (b) ends immediately before the same time of the day on the date that is 7 days after the day on which the state of emergency comes into force.
 
 ### 71 Extension of duration of state of emergency
-(1) The duration of a state of national emergency may be extended by declaration made by the Minister.
-(2) The duration of a state of local emergency may be extended by declaration by a person authorised to declare a state of local emergency for the area concerned.
-(3) Every extension of a state of emergency expires with the commencement of the seventh day after the date on which it was declared, or at any earlier time and date that may be stated in the declaration of the extension of the duration of the state of emergency.
-(4) Nothing in this section prevents the termination of a state of emergency under section 72, or the making of another declaration under this section, before the expiration of the state of emergency (as extended), further extending the state of emergency.
+(1) Before a state of national emergency expires, the Minister may, by declaration, extend the state of national emergency.
+(2) Before a state of local emergency expires, a person authorised to declare a state of local emergency for an area may, by declaration, extend the state of local emergency.
+(3) An extension of a state of emergency comes into force—
+  (a) immediately before the state of emergency would have expired under section 70(3); or
+  (b) if the state of emergency was previously extended under this section, immediately before that extension would have expired under subsection (4).
+(4) An extension of a state of emergency expires 7 days after the time and date on which the extension of the state of emergency comes into force.
+(5) Nothing in this section prevents—
+  (a) the further extension of a state of emergency that has been extended under this section; or
+  (b) the termination of a state of emergency under section 72.
+(6) For the purposes of this section, 7 days after the time and date on which the extension of the state of emergency comes into force means a period that—
+  (a) begins immediately after the time of the day on which the extension comes into force; and
+  (b) ends immediately before the same time of the day on the date that is 7 days after the day on which the extension comes into force.
 
 ### 72 Termination of state of emergency
 (1) A person who is authorised to declare a state of emergency may, by declaration, terminate that state of emergency, whether or not the declaration of the state of emergency or any extension of it was made by that person.
-(2) Every declaration made under subsection (1) takes effect from the time and date of the declaration, or any later time and date that may be stated in the declaration.
+(2) A declaration made under subsection (1)—
+  (a) must specify the time and date on which it is made; and
+  (b) terminates the state of emergency when made.
 
 ### 73 Form and publication of declaration of state of emergency and declaration extending or terminating state of emergency
 (1) A person who declares a state of emergency, or extends or terminates a state of emergency, must do so by a declaration in the appropriate form prescribed in regulations made under section 115, or a form of similar effect.
@@ -1017,7 +1039,7 @@ The airport company (as defined in section 2 of the Airport Authorities Act 1966
 The entity (being an airport authority as defined in section 2 of the Airport Authorities Act 1966, whether or not it is also an airport company as defined in that section) that operates the primary airport at Bay of Islands, Blenheim, Dunedin, Gisborne, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, Wanganui, Westport, Whakatane, or Whangarei.
 
 ### 6
-The port company (as defined in section 2(1) of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttleton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
+The port company (as defined in section 2(1) of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttelton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
 
 ### 7
 The Grey District Council, acting as the Greymouth harbour authority and owner and operator of the Port of Greymouth under Parts 4 and 6 of the Local Government (West Coast Region) Reorganisation Order 1989, Part 39A of the Local Government Act 1974, and section 16 of the Local Government Amendment Act (No 2) 1999.
