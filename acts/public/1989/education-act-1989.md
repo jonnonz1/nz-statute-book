@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2012-01-01_
+_Consolidation as at 2012-04-01_
 
 > An Act to reform the administration of education
 
@@ -5487,7 +5487,8 @@ The Registrar or other appropriate officer of an institution shall, if so requir
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25
   - **specified period** means any period specified in a notice under subsection (3)
-  - **student loan** and have the same meaning as they have in section 2 of the Student Loan Scheme Act 1992.
+  - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
+  - **student loan scheme** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011.
 (2) The purpose of this section is to facilitate the disclosure of information by institutions to the department, in order to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
@@ -6007,7 +6008,8 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act
   - **specified period** means any period specified in a notice under subsection (3)
-  - **student loan** and have the same meanings as they have in section 2(1) of the Student Loan Scheme Act 1992.
+  - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
+  - **student loan scheme** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011.
 (2) The purpose of this section is to facilitate the disclosure of information by governing bodies of private training establishments to the department, in order to verify—
   (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
   (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
@@ -7247,8 +7249,8 @@ In this Part of this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Secretary** means the chief executive of the Ministry
-  - **student loan** has the same meaning as it has in section 2 of the Student Loan Scheme Act 1992
-  - **student loan information** means information held by the Ministry for the purposes of the administration of the student loan scheme under the Student Loan Scheme Act 1992.
+  - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
+  - **student loan information** means information held by the Ministry for the purposes of the administration of the student loan scheme under the Student Loan Scheme Act 2011.
 
 ### 303 Student allowances
 (1) The Governor-General may, by Order in Council, make regulations establishing allowances to help people pursue courses of education or training (in the case of courses of secondary education, whether within or outside New Zealand).
@@ -7385,7 +7387,7 @@ The provisions of section 226A apply to any secondary school as if such a school
 
 ### 307AC Bonded scholarships
 (1) The Minister may, by notice in the Gazette, declare that any allowance to which section 307AB applies is a bonded scholarship.
-(2) The effect of declaring an allowance to be a bonded scholarship is that, under section 2A of the Student Loan Scheme Act 1992, the Student Loan Scheme Act 1992 applies to enable the recovery of money in accordance with the terms of the scholarship.
+(2) The effect of declaring an allowance to be a bonded scholarship is that, under section 7 of the Student Loan Scheme Act 2011, the Student Loan Scheme Act 2011 applies to enable the recovery of money in accordance with the terms of the scholarship.
 
 ### 307A Use of student allowance information for purposes of Social Security Act 1964
 (1) In this section, unless the context otherwise requires,—
