@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -209,7 +209,7 @@ In any proceedings in which a party claims that a credit contract is a consumer 
     (i) the effect of the debit is to put the account into overdraft; and
     (ii) the creation of the overdraft has not been agreed between the creditor and the person before the debit of the account:
   (c) a credit contract under which the debtor is a trustee acting in his or her capacity as a trustee of a family trust:
-  (ca) a loan contract (as defined in section 2(1) of the Student Loan Scheme Act 1992):
+  (ca) a loan contract (as defined in section 4(1) of the Student Loan Scheme Act 2011):
   (d) a contract of any class prescribed by regulations to be a class of contract that is exempted from being a consumer credit contract if the person who relies on the exemption complies with the terms and conditions (if any) that apply to the exemption.
 (2) Subsection (1)(b) applies whether or not—
   (a) the creditor knows at the time the account is debited that the debit would have the effect of putting the account into overdraft; or
