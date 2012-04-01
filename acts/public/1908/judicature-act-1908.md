@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-04-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -5861,7 +5861,7 @@ In this subpart, unless the context otherwise requires,—
   (a) a charge created by an attachment order or deduction notice made under the Family Proceedings Act 1980:
   (b) a charge created by an attachment order made under the Summary Proceedings Act 1957:
   (c) a deduction notice issued under the Child Support Act 1991:
-  (d) a deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 46 of the Student Loan Scheme Act 1992):
+  (d) a deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 193 of the Student Loan Scheme Act 2011):
   (e) a deduction from or adjustment to a benefit under section 86 of the Social Security Act 1964.
 (2) Subclause (3) applies if the liable party assigns or charges the liable party’s salary or wages before or after the making of the attachment order.
 (3) The attachment order has the same effect as it would have if the assignment or charge had not occurred.
