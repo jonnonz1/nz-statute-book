@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 (1) This Act is the Student Loan Scheme Amendment Act 2000.
