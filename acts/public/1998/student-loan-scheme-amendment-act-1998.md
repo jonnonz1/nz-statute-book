@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-04-01_
 
 > An Act to amend the Student Loan Scheme Act 1992
 
