@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2011-08-17_
+_Consolidation as at 2012-04-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -4534,7 +4534,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
   (a) in the case of the department for the time being responsible for the administration of the Social Security Act 1964, in relation to any—
     (i) beneficiary; or
     (ii) student; or
-    (iii) borrower (as that term is defined in section 2 of the Student Loan Scheme Act 1992):
+    (iii) borrower (as that term is defined in section 4(1) of the Student Loan Scheme Act 2011):
   (b) in the case of the Ministry of Transport, in relation to motor vehicle registration:
   (c) in the case of the New Zealand Transport Agency, in relation to driver licences:
   (d) in the case of the Department of Internal Affairs, in relation to any persons—
