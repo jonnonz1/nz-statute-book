@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -46,7 +46,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **sheriff** includes any officer who undertakes the execution or process of any court
   - **special resolution** means a resolution of creditors passed in accordance with section 92(1)(b)
   - **spouse** , in relation to a person (), includes a person with whom A has a de facto relationship (whether that person is of the same or a different sex as A) and a civil union partner
-  - **student loan balance** means a loan balance under the student loan scheme established by the Student Loan Scheme Act 1992
+  - **student loan balance** means a consolidated loan balance, as that term is defined in section 4(1) of the Student Loan Scheme Act 2011
   - **supervisor** means a person who is appointed under section 345.
 
 ### 4 Rights and powers under other Acts not affected
@@ -1915,7 +1915,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (aa) subject to section 276(1), all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under section 24Q of the Tax Administration Act 1994 during the 4 months before the adjudication:
   (b) subject to section 276(1), any holiday pay payable to an employee on the termination of his or her employment before, or because of, the adjudication:
   (c) subject to section 276(1), any compensation for redundancy owed to an employee that accrues before, or because of, the adjudication:
-  (d) subject to section 276(1), amounts deducted by the bankrupt from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with section 163(1) of the Child Support Act 1991 and section 167(2) of the Tax Administration Act 1994 as applied by section 25 of the Student Loan Scheme Act 1992):
+  (d) subject to section 276(1), amounts deducted by the bankrupt from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with section 163(1) of the Child Support Act 1991 and section 167(2) of the Tax Administration Act 1994 as applied by section 70 of the Student Loan Scheme Act 2011):
   (e) subject to section 276(1), any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under section 123(1)(b) or section 128 of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the adjudication:
   (f) amounts that are preferential claims under section 172(2) and (3):
   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994 as applied by section 67 of the KiwiSaver Act 2006:
