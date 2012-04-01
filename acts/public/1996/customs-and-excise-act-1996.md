@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-04-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1119,6 +1119,9 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (6) The expiry of an Order in Council under subsection (5) shall not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
 (7) No prohibition under this section applies to goods that are already loaded into the exporting craft at the time when the prohibition comes into force.
 (8) Unless otherwise specified in the order, an Order in Council under this section prohibiting the exportation of goods extends to and applies to the shipment of the goods for use as stores by a craft.
+
+###
+[Repealed]
 
 ### 57 Duration of Orders in Council prohibiting exports
 (1) Subject to subsection (2), an Order in Council made under section 56 shall expire 3 years after the date on which it comes into force.
@@ -3759,17 +3762,17 @@ In sections 280D and 280E, unless the context otherwise requires,—
 
 ### 280G Defined terms for sections 280H and 280I
 In sections 280H and 280I, unless the context otherwise requires,—
-  - **borrower** has the meaning given to it by section 2 of the Student Loan Scheme Act 1992
+  - **borrower** has the meaning given to it by section 4(1) of the Student Loan Scheme Act 2011
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
   - **Department** means the Inland Revenue Department
-  - **identifying information** means the information set out in section 62A(2) of the Student Loan Scheme Act 1992 that identifies a borrower
+  - **identifying information** means the information set out in section 208(2) of the Student Loan Scheme Act 2011 that identifies a borrower
   - **officer of the Department** has the meaning given to it by section 3(1) of the Tax Administration Act 1994.
 
-### 280H Disclosure of arrival and departure information for purposes of Student Loan Scheme Act 1992
+### 280H Disclosure of arrival and departure information for purposes of Student Loan Scheme Act 2011
 (1) The purpose of this section is to facilitate the exchange of information between the Customs and the Department for the purpose of assisting the Commissioner to verify—
-  (a) borrowers' entitlements to a full interest write-off under section 38AA of the Student Loan Scheme Act 1992:
-  (b) whether borrowers are New Zealand based or overseas based for the purposes of that Act:
-  (c) whether borrowers are resident or non-resident for the purposes of that Act.
+  (a) whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
+  (b) whether borrowers are New Zealand residents for the purposes of that Act.
+  (c)
 (2) For the purpose of this section, the Commissioner may supply any identifying information to the chief executive.
 (3) If, in relation to any borrower, identifying information is supplied in accordance with subsection (2), the chief executive may compare that information with any arrival and departure information held by the Customs that relates to that borrower.
 (4) If the Customs has arrival or departure information relating to a borrower, the chief executive may, for the purpose of this section, supply to the Commissioner any of the following information held by the Customs:
@@ -3782,12 +3785,12 @@ In sections 280H and 280I, unless the context otherwise requires,—
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
 
-### 280I Direct access to arrival and departure information for purposes of Student Loan Scheme Act 1992
+### 280I Direct access to arrival and departure information for purposes of Student Loan Scheme Act 2011
 (1) The purpose of this section is to facilitate the Department's access to information stored in a database for the purpose of assisting the Commissioner to verify—
-  (a) borrowers' entitlements to a full interest write-off under section 38AA of the Student Loan Scheme Act 1992:
-  (b) whether borrowers are New Zealand based or overseas based for the purposes of that Act:
-  (c) whether borrowers are resident or non-resident for the purposes of that Act:
-  (d) for the purposes of that Act, whether borrowers are in New Zealand.
+  (a) whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
+  (b) whether borrowers are New Zealand residents for the purposes of that Act:
+  (c) for the purposes of that Act, whether borrowers are in New Zealand.
+  (d)
 (2) The chief executive may, for the purpose of this section, allow the Commissioner to access a database in accordance with a written agreement entered into by the chief executive and the Commissioner.
 (3) In accessing a database for the purpose of this section, the Commissioner—
   (a) may only search for arrival or departure information relating to pre-selected borrowers who are of interest to the Commissioner; and
