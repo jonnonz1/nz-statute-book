@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -256,7 +256,7 @@ This subpart expires with the close of 30 June 2012.
 (4) Subsection (1) applies even if that money is also—
   (a) required to be paid to a creditor of the accused or the offender; or
   (b) liable to be attached or taken in execution at the instance of a creditor of the accused or the offender.
-(5) In subsection (4), a creditor includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the Child Support Act 1991 or the Student Loan Scheme Act 1992) are payable.
+(5) In subsection (4), a creditor includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the Child Support Act 1991 or the Student Loan Scheme Act 2011) are payable.
 (6) No person has a right of action against the Crown, an agent of the Crown, or any other person, in respect of any investment or payment of money permitted or required by this subpart or by regulations made under section 57.
 
 ### 18 Secretary deducts money for legal aid, reparation, and earlier orders, then pays surplus into account
@@ -291,7 +291,7 @@ This subpart expires with the close of 30 June 2012.
 (2) In particular, until paid out to the accused or the offender in accordance with this subpart or regulations made under section 57, that money is, even if the accused or the offender has a beneficial interest in it,—
   (a) not available for the payment of a creditor of the accused or the offender; and
   (b) not liable to be attached or taken in execution at the instance of a creditor of the accused or the offender.
-(3) In subsection (2), a creditor includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the Child Support Act 1991 or the Student Loan Scheme Act 1992) are payable.
+(3) In subsection (2), a creditor includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the Child Support Act 1991 or the Student Loan Scheme Act 2011) are payable.
 (4) Money paid into the account, in accordance with this subpart, is money paid to the Crown in trust for the accused or the offender.
 (5) Nothing in Part 7 of the Public Finance Act 1989 (which relates to trust money) applies to money that, in accordance with this section, is paid to the Crown in trust for the accused or the offender.
 
