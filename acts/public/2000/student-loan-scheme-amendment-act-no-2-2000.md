@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act (No 2) 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 (1) This Act is the Student Loan Scheme Amendment Act (No 2) 2000.
@@ -21,7 +21,7 @@ Sections 4 to 12 and 15 apply in respect of the income year commencing on 1 Apri
 ### 5 Repayment obligation for borrowers who are non-resident for part of income year
 Section 35(2) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraphs:
   (b) interest may be written off under sections 38A to 40 only if the interest is chargeable for a period when the borrower is or was a resident; and
-  (c) for the purpose of calculating an interest write-off under section 38B, the reference in section 38B(1)(b) to $24,596 must be read as a reference to the following amount: $24,596 x d ___ 365. where d is the number of days in the period that the borrower is or was a resident.
+  (c) for the purpose of calculating an interest write-off under section 38B, the reference in section 38B(1)(b) to $24,596 must be read as a reference to the following amount:$24,596 × d/365where d is the number of days in the period that the borrower is or was a resident.
 
 ### 6 New headings and sections 38A to 41 substituted
 The principal Act is amended by repealing sections 39 to 41, and the heading immediately above section 39, and substituting the following headings and sections:Full interest write-offFull interest write-off for full-time, full-year studentsFull interest write-off for part-time or part-year studentsAmount of full interest write-offConditions for full-interest write-offBase interest write-offBase interest write-off where income below repayment thresholdInterest reductionInterest reduction where base interest exceeds 50% of repayment obligationConditions for base interest write-off
@@ -92,7 +92,7 @@ The principal Act is amended by repealing section 59, and substituting the follo
 
 ### 10 Changes in balance dates producing income year other than 12 months
 Section 61 of the principal Act is amended by inserting, after the formula in paragraph (b), the expression ; and and the following paragraph:
-  (c) for the purpose of calculating an interest write-off under section 38B, the reference in section 38B(1)(b) to $24,596 must be read as a reference to the following amount: $24,596 x b ___ 365.
+  (c) for the purpose of calculating an interest write-off under section 38B, the reference in section 38B(1)(b) to $24,596 must be read as a reference to the following amount:$24,596 × b/365
 
 ### 11 Disclosure of information
 (1) Section 62 of the principal Act is amended by inserting, after subsection (1), the following subsection:
