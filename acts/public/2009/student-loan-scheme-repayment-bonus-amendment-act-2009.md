@@ -1,5 +1,5 @@
 # Student Loan Scheme (Repayment Bonus) Amendment Act 2009
-_Consolidation as at 2009-09-22_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme (Repayment Bonus) Amendment Act 2009.
