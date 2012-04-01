@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -336,7 +336,7 @@ _Consolidation as at 2012-02-13_
         (CB) an amount required to be deducted under subpart 1 of Part 3 of the KiwiSaver Act 2006:
         (CC) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
         (CD) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
-        (D) a repayment deduction (as defined in section 2 of the Student Loan Scheme Act 1992), or an amount required to be deducted in accordance with section 46 of the Student Loan Scheme Act 1992:
+        (D) a salary or wage deduction (as defined in section 4(1) of the Student Loan Scheme Act 2011), or an amount recovered in accordance with section 193 of that Act:
       (iv) a credit of tax under a tax law:
       (v) a tax of the general character described in any of paragraphs (i) to (iv)—
         (A) that is imposed on or payable by a taxpayer in a country or territory other than New Zealand; or
@@ -345,17 +345,20 @@ _Consolidation as at 2012-02-13_
       (vii) subject to paragraph (b), a civil penalty:
       (viii) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
       (ix) financial support (as defined in section 2(1) of the Child Support Act 1991):
-      (x) a repayment obligation (as defined in section 2 of the Student Loan Scheme Act 1992):
+      (x) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
       (xi) a tax credit under section 41A:
       (xii) is a tax prescribed in section 173D:
       (xiii) the amount of a subsidy payable under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary:
       (xiv) a fee described in section 226C:
     (ab) for the purposes of the application of this Act in relation to a regulation made under section CV 8 of the Income Tax Act 2007, includes an Australian wine producer rebate:
     (b) for the purposes of section 4A and Parts 7, 8, 8A, 9, 10, and 11, also includes a civil penalty:
-    (c) for the purpose of sections 6, 6A and 6B, includes any revenue collected under, entitlements arising from or repayment obligations required by, the Inland Revenue Acts, any interest charged on a loan balance (as that term is defined in the Student Loan Scheme Act 1992), and any contributions administered by the Commissioner under the KiwiSaver Act 2006:
+    (c) for the purposes of sections 6, 6A, and 6B, includes—
+      (i) revenue collected under, entitlements arising from, or amounts paid or payable under the Inland Revenue Acts; and
+      (ii) loan interest charged on a loan balance (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011); and
+      (iii) contributions administered by the Commissioner under the KiwiSaver Act 2006:
     (ca) for the purpose of Part 10B, includes—
       (i) financial support, as defined in section 2(1) of the Child Support Act 1991; and
-      (ii) a repayment obligation, as defined in section 2 of the Student Loan Scheme Act 1992; and
+      (ii) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011; and
       (iii) a tax credit referred to in section 41A:
     (cb) for the purposes of sections 156 to 165, includes a combined tax and earner-related payment:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
@@ -367,14 +370,14 @@ _Consolidation as at 2012-02-13_
         (C) an amount payable by a payer, as defined in section 153 of the Child Support Act 1991, under Part 10 of that Act:
         (CB) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
         (CC) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
-        (D) a repayment deduction, as defined in section 2 of the Student Loan Scheme Act 1992, or an amount required to be deducted in accordance with section 46 of that Act:
+        (D) a salary or wage deduction (as defined in section 4(1) of the Student Loan Scheme Act 2011) or an amount recovered in accordance with section 193 of that Act:
       (iv) a tax prescribed in section 173D:
       (v) interest imposed under Part 7:
       (vi) a civil penalty:
       (vii)
       (viii) financial support, as defined in section 2(1) of the Child Support Act 1991:
       (viiib) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
-      (ix) a repayment obligation, as defined in section 2 of the Student Loan Scheme Act 1992
+      (ix) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011)
   - **tax advice document** is defined in section 20B(3)
   - **tax advisor** is defined in section 20B(4)
   - **tax agent** means a person who—
@@ -473,7 +476,7 @@ Except where there is express provision to the contrary,—For example, a refere
   (b) deductions under the Child Support Act 1991; or
   (bb) deductions under the KiwiSaver Act 2006; or
   (bc) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act; or
-  (c) repayment deductions or other deductions under the Student Loan Scheme Act 1992,—
+  (c) salary or wage deductions under the Student Loan Scheme Act 2011,—
 (4) When a taxpayer has an obligation under any of sections RA 5, RA 6, RA 10, RA 15 to RA 19, RD 2, RD 4, RD 22, RE 20, RE 21, or RF 13 of the Income Tax Act 2007—the taxpayer's tax position in respect of the due date is the tax paid and not the amount of tax shown as payable in the tax return.
   (a) furnishes a return that shows a liability to pay tax under that section; and
   (b) the tax is required to be paid by a due date for a return period; and
@@ -1705,7 +1708,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
     (iv) a source or sources other than those listed in subparagraphs (i) to (iiic) and the total amount derived is $200 or less; and
   (b) derives a total of $200 or less of—
     (i) income that is subject to the PAYE rules in relation to which the person's obligations under those rules are not met; and
-    (ii) income that is subject to the PAYE rules and to a student loan repayment deduction under sections 19 and 20 of the Student Loan Scheme Act 1992, in relation to which the person's obligations under those rules are not met; and
+    (ii)
     (iii) income from employment from which the earner premium or earner levy is not withheld or deducted correctly; and
     (iv) interest or a dividend that is resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies (other than interest for which an RWT withholding certificate did not have to be prepared under section 25(7)), from which RWT has been withheld at a rate other than that specified in—
       (AA)
@@ -1728,7 +1731,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
     (via) dividends if that person's annual gross income is more than $70,000; and
     (vib) taxable Maori authority distributions if the person's annual gross income is more than $48,000; and
     (vii) interest, dividends, or taxable Maori authority distributions, if the person is required to pay financial support in the tax year under the Child Support Act 1991; and
-    (viii) interest, dividends, or taxable Maori authority distributions, if the person has an IRD loan balance (as defined in section 2 of the Student Loan Scheme Act 1992), other than a balance of nil on the last day of the tax year, and income that is more than the student loan repayment threshold (as defined in section 2 of the Student Loan Scheme Act 1992) for that tax year; and
+    (viii)
     (ix) salary or wages from employment as an election day worker, if the worker has used the EDW tax code; and
     (ixa) salary or wages from employment as a casual agricultural employee, if the employee has used the CAE tax code; and
     (ixb)
@@ -1741,7 +1744,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
   (d) is not issued a family notice of entitlement for any part of the tax year; and
   (e) is not living in a marriage, civil union, or de facto relationship, with a person who is issued with a family notice of entitlement for any part of the tax year; and
   (f) or the person with whom the natural person lives in a marriage, civil union, or de facto relationship, is not paid by the chief executive of the administering department a family assistance credit for which the amount of family credit abatement under section MD 13 of the Income Tax Act 2007 is greater than zero; and
-  (g) is a person who has a nil IRD loan balance on the last day of the tax year.
+  (g)
   (h)
   (i)
   (j)
@@ -2156,7 +2159,7 @@ An employer that is not required to furnish an employer monthly schedule electro
   (e) an allowance paid under regulations made under section 303 of the Education Act 1989; or
   (f) a credit of tax paid under subparts MA to MF and MZ of the Income Tax Act 2007.
 (5A) The employer must furnish the Commissioner with the consolidated employer monthly schedule on or before 5 April 2000.
-(5B) The particulars required under subsection (4) do not include the name, tax file number, or any other particular relating to child support or student loan deductions made.
+(5B) The particulars required under subsection (4) do not include the name, tax file number, or any other particular relating to child support deductions made, or salary or wage deductions made under the Student Loan Scheme Act 2011.
 (6) Nothing in the employer monthly schedule requires information in relation to—
   (a) any period referred to in subsection (2) where no person commences or ceases in that period to be an employee of the employer; or
   (b) the commencement or cessation of—specified by the Commissioner as not requiring to be included in a certificate under this section; or
@@ -3124,8 +3127,8 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (i) the person is authorised by the New Zealand Customs Service to receive; and
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
-  (g) communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2) or (2A) of that section:
-  (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
+  (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) or (2) of that section in accordance with subsection (1) of that section:
+  (gb) communicating to the chief executive of the New Zealand Customs Service under section 208 of the Student Loan Scheme Act 2011 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
   (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner:
   (i) communicating to any person, or employee of that person, being a person engaged by the Commissioner for the performance of services necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner, such information as the Commissioner considers necessary for the performance of those services:
@@ -3162,7 +3165,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (a) the executor, original or by representation, or an administrator for the time being of a deceased person:
   (b) any person who by order of court has been appointed as guardian or manager of the estate of any person:
   (c) any other person who by order of court administers the estate of any person.
-(7) In this section tax or duty, taxes or duties, and tax and duty include any financial support within the meaning of the Child Support Act 1991 and any amount payable under the Student Loan Scheme Act 1992.
+(7) In this section tax or duty, taxes or duties, and tax and duty include any financial support within the meaning of the Child Support Act 1991 and any amount payable under the Student Loan Scheme Act 2011.
 (8) In this section,—
   (a) Inland Revenue officer,—
     (i) means a person who is employed in the service of Inland Revenue; and
@@ -5087,7 +5090,7 @@ Nothing in this Part applies to—
   (a) a person (other than an employer and the Commissioner) specified in section 157A in relation to the person's obligations under a tax law specified in that section:
   (b) a liable person in relation to child support (both as defined in the Child Support Act 1991):
   (bb) an employer in relation to amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act:
-  (c) a borrower in relation to repayment obligation (both as defined in the Student Loan Scheme Act 1992).
+  (c) a borrower in relation to repayment obligation (both as defined in the Student Loan Scheme Act 2011).
 
 **General provisions**
 
@@ -5733,7 +5736,7 @@ A disputant may—that is issued by the Commissioner in relation to an amount of
 
 ### 138S Challenge to be heard before Taxation Review Authority
 (1) A challenge to a disputable decision made by the Commissioner under—is to be commenced, heard, and finally determined by a Taxation Review Authority.
-  (a) the Student Loan Scheme Act 1992, or any provision of this Act that applies in relation to an employer's obligation under the Student Loan Scheme Act 1992; and
+  (a) the Student Loan Scheme Act 2011, or any provision of this Act that applies in relation to an employer's obligation under the Student Loan Scheme Act 2011; and
   (b) the Child Support Act 1991, or any provision of this Act that applies in relation to an employer's obligation under the Child Support Act 1991; and
   (c) any other tax law, where that tax law or another tax law specifies that the disputable decision is to be determined by a Taxation Review Authority,—
 (2) Subsection (1) prevails over any other section in this Part.
@@ -6394,7 +6397,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
     (ii) non-resident passive income:
     (iii) an employer’s superannuation contribution:
   (d) a deduction of contribution that was payable under Part 3, subpart 1 of the KiwiSaver Act 2006:
-  (e)
+  (e) a salary or wage deduction made under the Student Loan Scheme Act 2011:
   (f)
   (g) an amount of RSCT withheld:
   (h) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
@@ -6422,7 +6425,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
   (g) to obtain a refund or payment of tax in the knowledge that the person is not lawfully entitled to the refund or payment under a tax law; or
   (h) to enable another person to obtain a refund or payment of tax in the knowledge that the other person is not lawfully entitled to the refund or payment under a tax law.
 (2) A person who evades or attempts to evade the assessment or payment of tax by the person or another person under a tax law commits an offence against this Act.
-(3)
+(3) In this section, tax includes a repayment obligation as defined in section 4(1) of the Student Loan Scheme Act 2011.
 (4) A person who is convicted of an offence against subsection (1) or subsection (2) is liable to—
   (a) imprisonment for a term not exceeding 5 years; or
   (b) a fine not exceeding $50,000; or
@@ -6549,7 +6552,10 @@ A natural person who is resident in New Zealand commits an offence against this 
 (2) A taxpayer is liable to only one shortfall penalty, other than under section 141ED, for each tax shortfall.
 (3) If a taxpayer could, apart from subsection (2), be liable to more than 1 shortfall penalty for a tax shortfall, the highest shortfall penalty is to be imposed.
 (4) The Commissioner may assess and impose civil penalties after a taxpayer has been prosecuted for an offence under this Act, whether or not the prosecution is successful.
-(5) If a shortfall penalty, other than under section 141ED, has been imposed on a taxpayer for taking an incorrect tax position, the Commissioner may not subsequently prosecute the taxpayer for taking the incorrect tax position.
+(5) If a shortfall penalty, other than under section 141ED, has been imposed on a taxpayer for taking an incorrect tax position, the Commissioner may not subsequently prosecute the taxpayer—
+  (a) under this Act for taking the incorrect tax position; or
+  (b) under the Student Loan Scheme Act 2011 for taking the incorrect tax position; or
+  (c) in relation to an obligation arising under the Student Loan Scheme Act 2011 for taking the incorrect tax position.
 
 ### 149A Standard of proof and onus of proof
 (1) The standard of proof in civil proceedings relating to the imposition of penalties is the balance of probabilities.
@@ -6739,7 +6745,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (i) section 157 of this Act; or
     (ii) section 43 of the Goods and Services Tax Act 1985; or
     (iii) section 154 of the Child Support Act 1991; or
-    (iv) section 46 of the Student Loan Scheme Act 1992; or
+    (iv) section 193 of the Student Loan Scheme Act 2011; or
     (v) another tax law specifying obligations in relation to withholdings or deductions of tax that operates by incorporating, or by reference to, section 157; and
   (b) fails to comply with the Commissioner's notice,—
   (c) to pay interest on the amount of unpaid tax under Part 7; or
@@ -7405,7 +7411,7 @@ If a double tax agreement exempts from tax any income derived before the date of
   (c)
   (d) cheque duty, as provided for in section 77 of the Stamp and Cheque Duties Act 1971:
   (e) financial support, as defined in section 2 of the Child Support Act 1991:
-  (f) a repayment obligation, as defined in section 2 of the Student Loan Scheme Act 1992, if the borrower has elected a refund under section 56(1A) of that Act.
+  (f) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under section 132 of that Act.
 (6) This section applies to the direct crediting of a type of tax once an Order in Council has been promulgated specifying the date from which the type of tax may be refunded by direct credit.
 
 ### 184B Tax type that may be direct credited to bank account
