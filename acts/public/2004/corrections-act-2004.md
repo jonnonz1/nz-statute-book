@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2011-09-19_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -2241,7 +2241,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   - **allowance** means an allowance established (whether established for the first time or continued) by regulations made under section 303 of the Education Act 1989
   - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **discrepancy** has the same meaning as in section 97 of the Privacy Act 1993
-  - **student loan** has the meaning given to it by section 2 of the Student Loan Scheme Act 1992
+  - **student loan** has the meaning given to it by section 4(1) of the Student Loan Scheme Act 2011
   - **working day** has the same meaning as in section 2(1) of the Privacy Act 1993.
 (3) A notice under subsection (1) may also be used to give the person concerned notice under section 103(1) of the Privacy Act 1993 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
 (4) Subsection (1) overrides section 103(1) of the Privacy Act 1993.
