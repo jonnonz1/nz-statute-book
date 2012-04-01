@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2012-04-01_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
