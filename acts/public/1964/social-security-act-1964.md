@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -52,16 +52,16 @@ Every person exercising or performing a function, duty or power under this Act m
       (iv) a child disability allowance under section 39A:
       (iva) childcare assistance payable under section 61GA:
       (ivb) temporary additional support payable under section 61G:
-      (v) a disability allowance payable under section 69C but
+      (v) a disability allowance payable under section 69C; but
       (va)
       (vi)
       (vii)
       (viii)
     (c) does not include a lump sum payable under section 61DB or section 61DC or section 61DD
   - **capacity for work** means, in relation to any person, the person's capacity to engage in employment, as determined having regard to any sickness, injury, or disability the person may have
-  - **ceased** , in relation to a person's employment, means—a date which is the number of days (excluding Saturdays and Sundays) after the date on which the person's employment terminated which is equal to the nearest whole number produced by dividing the aggregate amount of any such payments by the amount of the person's normal daily wage or salary before termination of his or her employment
+  - **ceased** , in relation to a person's employment, means—
     (a) subject to paragraph (b), the date on which the person's employment terminates; or
-    (b) if in relation to the termination of employment the person receives—
+    (b) if in relation to the termination of employment the person receives—a date which is the number of days (excluding Saturdays and Sundays) after the date on which the person's employment terminated which is equal to the nearest whole number produced by dividing the aggregate amount of any such payments by the amount of the person's normal daily wage or salary before termination of his or her employment
       (i) any payment in lieu of notice terminating the employment of the person; or
       (ii) any holiday pay; or
       (iii) any payment in lieu of accumulated leave; or
@@ -78,7 +78,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (a) under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
     (b) to the person or to some other person on behalf of or for the benefit of the person; and
     (c) for the sole purpose of, and used for, repaying or paying any amounts on account of any existing debt of the person
-  - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act as a practitioner of the profession of dentistry
+  - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **dependent child** , in relation to any person,—
     (a) means a child—
@@ -95,10 +95,10 @@ Every person exercising or performing a function, duty or power under this Act m
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **document** means a document in any form; and includes—
     (a) any writing on any material:
-    (b) any information recorded or stored by means of any tape-recorder, computer, or other device; and any material subsequently derived from information so recorded or stored:
+    (b) any information recorded or stored by means of any tape recorder, computer, or other device; and any material subsequently derived from information so recorded or stored:
     (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
     (d) any book, map, plan, graph, or drawing:
-    (e) any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
+    (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **domestic epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
   - **employment** means paid employment
   - **employment plan** has the meaning specified in section 60O
@@ -122,7 +122,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) a period of employment, direct or indirect, by that Government of that person or that person's deceased spouse or partner or that person's deceased parent; or
       (ii) a period of service to that Government (including, without limitation, service in the armed forces, service in the police, and service as a judicial officer or other person acting judicially) by that person or that person's deceased spouse or partner or that person's deceased parent; but
     (b) does not include any part of that benefit, pension, or periodical allowance that is paid by the Government of that country by reason of anything other than that period of employment or service; and
-    (c) does not include any part of that benefit, pension, or periodical allowance to which the Government of that country contributes by reason of anything other than that period of employment or service; and
+    (c) does not include any part of that benefit, pension, or periodical allowance to which the Government of that country contributes by reason of anything other than that period of employment or service; but
     (d) does not include a benefit, pension, or periodical allowance of the kind set out in paragraph (a) if the person would have been entitled to receive a similar benefit, pension, or periodical allowance paid by, or on behalf of, the Government of that country under a scheme or other arrangement in respect of persons who were not employees or in the service of that Government
   - **health or disability insurance payment** , in relation to a person, means a payment made, or the value of any credit or service provided, on the occurrence of a contingency—and used for paying or reimbursing those costs
     (a) under a contract of insurance, or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate, that provides for the payment or reimbursement of the costs of health or disability care for the person or a member of his or her family; and
@@ -148,7 +148,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) any benefit, grant, allowance, or concession received under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, including the value of any benefit under Part 2:
       (ii) any pension or allowance under the War Pensions Act 1954 received by any person by reason of his or her own disablement:
       (iii) any pension received under Part 2 or Part 4 or Part 5 of the War Pensions Act 1954 by the surviving spouse or partner of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine in respect of the death of that member:
-      (iv) any pension or other periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive determines is analogous to a pension or allowance specified in subparagraph (ii) or subparagraph (iii) of this paragraph:
+      (iv) any pension or other periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive determines is analogous to a pension or allowance specified in subparagraph (ii) or subparagraph (iii):
       (iva) the value of any assistance of a kind approved by the chief executive provided to a person with a sickness, injury, or disability to obtain or remain in employment:
       (v) any money received by way of funeral benefit from any friendly society:
       (va) a participation allowance:
@@ -173,7 +173,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **income-related insurance payment** , in relation to a person, means a payment, or the value of any credit or service, that, in the opinion of the chief executive, having regard to the matters specified in subsection (4), is—
     (a) made or provided on the occurrence of a contingency under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
     (b) made or provided to the person or to some other person on behalf of or for the benefit of the person or a member of his or her family; and
-    (c) made or provided or used for an income-related purpose:
+    (c) made or provided or used for an income-related purpose
   - **income-related purpose** , in relation to any person, means the purpose of—
     (a) replacing lost or diminished income; or
     (b) maintaining the person or a member of his or her family; or
@@ -196,7 +196,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) an emergency benefit:
     (d) an independent youth benefit:
     (e) an invalid's benefit:
-    (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veterans' pensions payable—
+    (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension payable—
       (i) at the appropriate rate in clause 1 of Schedule 11 of the War Pensions Act 1954 if the pension is subject to abatement under section 74D of that Act; or
       (ii) at the appropriate rate in clause 2 of Schedule 11 of the War Pensions Act 1954:
     (g) an orphan's benefit:
@@ -231,16 +231,16 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) does not include a benefit, pension, or periodical allowance of a kind referred to in the proviso to section 70(1); and
     (c) does not include a Government occupational pension
   - **overseas pensioner** means a person to whom an overseas pension has been granted
-  - **parent** , for the purposes of the definition of the term , means a parent, or a guardian, or a person acting as a parent
+  - **parent** , for the purposes of the definition of the term living with a parent, means a parent, or a guardian, or a person acting as a parent
   - **participation allowance** means a participation allowance under regulations made under section 132F
   - **part-time work** means work that averages not less than 15 hours a week when calculated over a period of the preceding 3 months—
     (a) under a contract of service, whether on time or piece rates; or
-    (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking:
+    (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking
   - **part-time work-tested beneficiary** means—
     (a) a person with a youngest dependent child aged 6 or older, but under 18 years, and who is—
       (i) a work-tested spouse or partner; or
       (ii) a work-tested domestic purposes beneficiary; or
-      (b) a person who is a work-tested sickness beneficiary
+    (b) a person who is a work-tested sickness beneficiary
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **pay day** means the day or date from time to time fixed by the chief executive as the date on which an instalment of a benefit falls due for payment
   - **periodical** means regular or intermittent
@@ -299,7 +299,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (f) a work-tested domestic purposes beneficiary; or
     (g) a work-tested sickness beneficiary
   - **work-tested benefit** means—
-    (a) a community wage; or
+    (a) an unemployment benefit; or
     (b)
     (c)
     (d)
@@ -322,18 +322,18 @@ Every person exercising or performing a function, duty or power under this Act m
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (aa) the day observed as the anniversary of the appropriate province; and
-    (b) a day in the period commencing on 25 December in any year and ending with 5 January in the following year
+    (b) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 (2) For the purposes of this Act, a person shall be deemed not to have attained a given age until the commencement of the relevant anniversary of the day of his birth.
 (2A)
 (3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
   (a) meets the residential qualification for New Zealand superannuation set out in the New Zealand Superannuation and Retirement Income Act 2001; and
-  (b) is aged 60 years or more and whose spouse (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
+  (b) is aged 60 years or more and whose spouse or partner (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
   (c) is in receipt of a pension under a superannuation scheme registered under the Superannuation Schemes Act 1989 or of payments under an annuity paid in respect of a policy of life insurance—
     (i) offered or entered into in New Zealand by a life insurer (as that term is defined in paragraph (a) of the definition of life insurer in section YA 1 of the Income Tax Act 2007); or
-    (ii) ofered or entered into outside of New Zealand by a life insurer (as so defined) that is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007; and
+    (ii) offered or entered into outside of New Zealand by a life insurer (as so defined) that is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007; and
   (d) commenced to receive payments of that pension or under that annuity—
     (i) before 1 April 1992; and
-    (ii) when that person was aged not less than 55 years nor more than 59 years and when that person's spouse (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, was aged 55 years or more,—
+    (ii) when that person was aged not less than 55 years nor more than 59 years and when that person's spouse or partner (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, was aged 55 years or more,—
 (4) In considering, in respect of a person, whether any payment or credit or service is an income-related insurance payment or is for an income-related purpose, as the case may be, the chief executive shall have regard to the following matters:
   (a) the nature of the contingency in respect of which the payment or credit or service was made or provided or used:
   (b) the nature of the payment or credit or service:
@@ -354,7 +354,7 @@ Every person exercising or performing a function, duty or power under this Act m
 [Repealed]
 
 ### 5 Chief executive to comply with directions
-(1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
+(1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
 (2) As soon as practicable after giving a direction under subsection (1), the Minister must publish in the Gazette and present to the House of Representatives a copy of the direction.
 
 ### 6 Social Security Commission
@@ -374,18 +374,18 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 10A Review of decisions
 (1) This section applies to—
-  (a) an applicant or beneficiary affected by a decision made by any person in the exercise of any power, function, or discretion conferred on the person by delegation , against which the applicant or beneficiary has a right of appeal under section 12J; or
-  (b) an applicant, beneficiary, or other person in respect of whom a person makes any decision in the exercise of a power under section 19D(1)(a) of the Social Welfare (Transitional Provisions) Act 1990 conferred on the decision-making person by delegation , against which the applicant or beneficiary or other person has a right of appeal under section 12J.
+  (a) an applicant or beneficiary affected by a decision made by any person in the exercise of any power, function, or discretion conferred on the person by delegation, against which the applicant or beneficiary has a right of appeal under section 12J; or
+  (b) an applicant, beneficiary, or other person in respect of whom a person makes any decision in the exercise of a power under section 19D(1)(a) of the Social Welfare (Transitional Provisions) Act 1990 conferred on the decision-making person by delegation, against which the applicant or beneficiary or other person has a right of appeal under section 12J.
 (1A) A person to whom this section applies may apply in writing for a review of the decision to the appropriate benefits review committee established under this section.
 (1B) The application must be made—
   (a) within 3 months after receiving notification of the decision; or
   (b) if the committee considers there is good reason for the delay, within such further period as the committee may allow on application made either before or after the expiration of that period of 3 months.
 (1C) For the purposes of subsection (1), a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 is to be treated as a beneficiary.
-(2) The Minister shall establish at least 1 benefits review committee for every office of the Department where decisions or recommendations in relation to the matter or matters to which the Act applies are being made or was taken or made.
+(2) The Minister shall establish at least 1 benefits review committee for every office of the Department where decisions or recommendations in relation to the matters to which this Act applies are made or were made.
 (3) Every benefits review committee shall consist of—
-  (a) a person resident in or closely connected with the office of the Department where decisions or recommendations in relation to the matter or matters to which the Act applies are being made or was taken or made appointed by the Minister to represent the interests of the community on the committee:
+  (a) a person resident in or closely connected with the office of the Department where decisions or recommendations in relation to the matters to which this Act applies are made or were made appointed by the Minister to represent the interests of the community on the committee:
   (b)
-  (c) two officers of the Department appointed by the chief executive—
+  (c) 2 officers of the Department appointed by the chief executive—
     (i) from time to time; or
     (ii) in respect of the particular review.
 (4) The member of the benefits review committee appointed under subsection (3)(a)—
@@ -401,7 +401,7 @@ Every person exercising or performing a function, duty or power under this Act m
   (b) advice that the applicant has a right of appeal against the decision to the Social Security Appeal Authority.
 
 ### 11 Power to obtain information
-(1) Subject to this section and to the code of conduct established under section 11B, the chief executive, for any purpose specified in subsection (2), may by notice in writing require any person (including any person who is an officer or employee in the service of the Crown in a Government department or public body (other than as an officer of a Court), in his or her official capacity,)—within a period (being not less than 5 working days after the notice is given) and in the manner specified in the notice, and without charge.
+(1) Subject to this section and to the code of conduct established under section 11B, the chief executive, for any purpose specified in subsection (2), may by notice in writing require any person (including any person who is an officer or employee in the service of the Crown in a government department or public body (other than as an officer of a court), in his or her official capacity,)—within a period (being not less than 5 working days after the notice is given) and in the manner specified in the notice, and without charge.
   (a) to provide the Department or a specified employee of the Department with such information as the chief executive requires; or
   (b) to produce to the Department or to a specified employee of the Department any document in the custody of or under the control of that person, and to allow copies of or extracts from any such document to be made or taken; or
   (c) to furnish to the Department or to a specified employee of the Department any copies or extracts from any document or record in the custody or under the control of that person—
@@ -413,29 +413,28 @@ Every person exercising or performing a function, duty or power under this Act m
   (da) determining, pursuant to section 69FA, the amount that any person is required to pay towards the cost of the home-based disability support services supplied to that person, and whether a person who has been so assessed is entitled to that assessment; or
   (e) ascertaining the financial circumstances or whereabouts of any person who is indebted to the Crown under—
     (i) this Act; or
-    (ii) sections 27I to 27ZI (except section 27X) of, and Schedule 20 to, this Act (as preserved by section 256(1) of the Child Support Act 1991); or
+    (ii) sections 27I to 27ZI (except section 27X) of, and Schedule 20 of, this Act (as preserved by section 256(1) of the Child Support Act 1991); or
     (iii) section 61CA of this Act; or
   (f) discharging the chief executive's functions under this Act or under any regulations in force under this Act or under the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 or under any welfare programme approved by the Minister under section 124(1)(d) of this Act.
 (3) A person who—commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
   (a) refuses or fails without reasonable excuse to comply with a notice under this section to the extent that the person is capable of complying with it; or
   (b) in purported compliance with such a notice knowingly or recklessly furnishes information which is false or misleading in any material particular, or attempts to do so,—
 (4) Nothing in subsection (1) requires any person to provide any information or produce any document that would be privileged in a court of law, except as provided in subsection (5).
-(5) Nothing in subsection (1) of this section shall require any person to provide any information or to produce any document that is legally professionally privileged:
+(5) Nothing in subsection (1) shall require any person to provide any information or to produce any document that is legally professionally privileged:
   provided that this subsection shall not apply to information or any document that consists wholly or partly of, or relates wholly or partly to,—and is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the law practitioner.
     (a) the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a law practitioner, his or her client, or any other person); or
     (b) investment receipts (being receipts arising or accruing from any money lodged at any time with a law practitioner for investment) of any person or persons (whether the law practitioner, his or her clients, or any other person or persons)—
-(6) Where any person refuses to disclose any information or document on the ground that it is privileged under subsection (4) or subsection (5), the chief executive or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the Judge may require the information or document to be produced to the Court.
+(6) Where any person refuses to disclose any information or document on the ground that it is privileged under subsection (4) or subsection (5), the chief executive or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the Judge may require the information or document to be produced to the court.
 (7)
 (8) In this section—
   - **law practitioner** means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which the law practitioner is, or is held out to be, a partner, director, or shareholder
   - **trust account,** in relation to a law practitioner, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 11A Power to obtain information for matching purposes
-(1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer—
+(1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer—that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) requiring that employer to provide the following information within a specified period:
   (a) to whom benefits or payments under this Act have been paid; or
   (b) to whom entitlement cards have been issued; or
   (c) in respect of whom or whose spouse or partner, a means assessment under Part 4 has been conducted—
-    that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) requiring that employer to provide the following information within a specified period:
   (d) the names and addresses of that employer's employees or a specified class of employees (including any former employees who were employed by that employer within a specified period); and
   (e) the tax file numbers of those employees or former employees.
 (2) The chief executive may issue a notice to an employer pursuant to subsection (1) whether or not the chief executive is able to identify any employees or former employees of that employer as being individuals who—
@@ -449,8 +448,8 @@ Every person exercising or performing a function, duty or power under this Act m
     (ii) stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
   (b) until the expiration of those 5 working days.
 (5) Nothing in subsection (4) prevents the chief executive from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
-(6) The provisions of sections 100 to 102 and 104 to 106 of the Privacy Act 1993, and of the information matching rules specified in Schedule 4 to that Act, shall apply, with all necessary modifications, to any information obtained by the chief executive pursuant to subsection (1) of this section and to any information matching programme using that information; but, notwithstanding anything in rule 4 of those rules,—
-  (a) the chief executive shall not be required to prepare more than one technical standards report in respect of information received from any employer or employers pursuant to subsection (1) where the standards in that report are to apply to information so obtained from any employers generally; and
+(6) The provisions of sections 100 to 102 and 104 to 106 of the Privacy Act 1993, and of the information matching rules specified in Schedule 4 of that Act, shall apply, with all necessary modifications, to any information obtained by the chief executive pursuant to subsection (1) and to any information matching programme using that information; but, notwithstanding anything in rule 4 of those rules,—
+  (a) the chief executive shall not be required to prepare more than 1 technical standards report in respect of information received from any employer or employers pursuant to subsection (1) where the standards in that report are to apply to information so obtained from any employers generally; and
   (b) the chief executive shall not be required to make that report available to any employer given notice pursuant to subsection (1), and nor shall any such employer be required to hold a copy of that report.
 (7) Where the chief executive fails to comply, in relation to any individual, with subsection (4) or with any of the provisions of the sections or rules applied by subsection (6), the failure shall, for the purposes of Part 8 of the Privacy Act 1993, be deemed to constitute a failure to comply with the provisions of Part 10 of that Act.
 (8) In this section, information matching programme means the comparison of information obtained pursuant to subsection (1) with other personal information held by the Department for the purpose of producing or verifying information about an identifiable individual; and expressions otherwise defined in section 97 of the Privacy Act 1993 shall have the meanings so defined, with any necessary modifications.
@@ -547,14 +546,14 @@ Every person exercising or performing a function, duty or power under this Act m
 (3) Notwithstanding the provisions of subsections (1) and (2), the Governor-General may, on the recommendation of the Minister given after consultation with the Minister of Justice, appoint some other person qualified for appointment to be Deputy Chairman, to act as Chairman from time to time as required.
 
 ### 12F Remuneration and travelling allowances
-(1) The Appeal Authority is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(1) The Appeal Authority is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There shall be paid, out of money appropriated by Parliament for the purpose, to the members of the Appeal Authority remuneration by way of fees, salary, or allowances, and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 
 ### 12G Services for Appeal Authority
 The chief executive of the Department for Courts shall designate an officer of the Department for Courts to be secretary to the Appeal Authority, and shall provide such secretarial, recording, and clerical services as may be necessary to enable the Appeal Authority to discharge its functions.
 
 ### 12H Authority to have seal
-The Authority shall have a seal, which shall be judicially noticed by all Courts for all purposes.
+The Authority shall have a seal, which shall be judicially noticed by all courts for all purposes.
 
 ### 12I Functions of Appeal Authority
 (1) The functions of the Appeal Authority shall be to sit as a judicial authority for the determination of appeals in accordance with section 12J of this Act and section 16A of the War Pensions Act 1954.
@@ -574,7 +573,7 @@ The Authority shall have a seal, which shall be judicially noticed by all Courts
 (1B) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
 (2) The Appeal Authority shall not have the authority to hear and determine any appeal on medical grounds or on grounds relating to incapacity, or capacity for work against any decision or determination of the chief executive in respect of—
   (a) an invalid's benefit; or
-  (b) a child disability allowance under section 39A of this Act; or
+  (b) a child disability allowance under section 39A; or
   (c)
   (d) a veteran's pension under section 70 of the War Pensions Act 1954; or
   (e) a sickness benefit.
@@ -584,10 +583,10 @@ The Authority shall have a seal, which shall be judicially noticed by all Courts
 ### 12K Procedure on appeal
 (1) An appeal under section 12J is begun by a written notice of appeal.
 (1A) If the appeal is against a decision or determination of the chief executive confirmed or varied by a benefits review committee, the notice of appeal must be lodged with the Secretary of the Appeal Authority within—
-  (a) three months after the applicant is notified of the confirmation or variation under section 10A(9); or
+  (a) 3 months after the applicant is notified of the confirmation or variation under section 10A(9); or
   (b) an additional time allowed by the Appeal Authority, on an application made to it before or after the end of that period of 3 months.
 (1B) If the appeal is against a decision or determination of the chief executive made other than pursuant to a delegation, the notice of appeal must be lodged with the Secretary of the Appeal Authority within—
-  (a) three months after the applicant is notified of the decision or determination; or
+  (a) 3 months after the applicant is notified of the decision or determination; or
   (b) an additional time allowed by the Appeal Authority, on an application made to it before or after the end of that period of 3 months.
 (1C) The parties to an appeal are—
   (a) the applicant or beneficiary affected by the decision or determination; and
@@ -1755,7 +1754,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) the deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,925.34 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,959.42 to meet the deceased person's reasonable funeral expenses if—
   (a) a spouse or partner; or
   (b) a child or children whom he or she is liable in law to maintain; or
   (c) any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1765,10 +1764,10 @@ If a person, other than a child, dies and the deceased person is survived by—t
   (e) the annual income of any spouse or partner who survives the deceased is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
-If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,925.34 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,959.42 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
 
 ### 61DD Children's funeral grants
-If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,925.34 to meet the deceased child's reasonable funeral expenses if—
+If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,959.42 to meet the deceased child's reasonable funeral expenses if—
   (a) those funeral expenses cannot be paid from the aggregate of—
     (i) the deceased child's assessable estate before the payment of any other debts; and
     (ii) the combined assets of the parents, or any other person or persons, who were liable in law to maintain the deceased child on the date of death, other than non-assessable assets, in excess of the amount in clause 2 of Part 1 of Schedule 31; and
@@ -2662,7 +2661,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (e) section RD 11(3) of the Income Tax Act 2007.
 
 ### 84 Benefits to be inalienable
-(1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964, or the Child Support Act 1991 or the Student Loan Scheme Act 1992 and of section 82 of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
+(1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964, or the Child Support Act 1991 or the Student Loan Scheme Act 2011 and of section 82 of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
 (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $100, who demands or accepts from any beneficiary any benefit order or any acknowledgment or undertaking where that demand, acceptance, acknowledgment, or undertaking would constitute a legal or an equitable assignment of or a charge upon any benefit if the benefit were capable of being legally assigned or charged.
 (3)
 
@@ -3929,36 +3928,36 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 3 — Rates of widows' benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $288.47 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $293.58 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $209.78 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $213.49 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
-| 1 | (a) | In respect of a child aged 14 years or over | $195.96 a week |
+| 1 | (a) | In respect of a child aged 14 years or over | $199.43 a week |
 | --- | --- | --- | --- |
-|  | (b) | In respect of a child aged over 10 years and under 14 years | $179.25 a week |
-|  | (c) | In respect of a child aged over 5 years and under 10 years | $162.43 a week |
-|  | (d) | In respect of a child aged under 5 years | $139.97 a week |
+|  | (b) | In respect of a child aged over 10 years and under 14 years | $182.42 a week |
+|  | (c) | In respect of a child aged over 5 years and under 10 years | $165.31 a week |
+|  | (d) | In respect of a child aged under 5 years | $142.45 a week |
 | 2 |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of invalids' benefits
 
-| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $203.71 a week, subject to Income Test 1. |
+| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $207.32 a week, subject to Income Test 1. |
 | --- | --- | --- | --- |
-|  | (b) | To any other single beneficiary without dependent children | $251.73 a week, subject to Income Test 1. |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $330.70 a week subject to Income Test 1 |
+|  | (b) | To any other single beneficiary without dependent children | $256.19 a week, subject to Income Test 1. |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $336.55 a week subject to Income Test 1 |
 |  | (d) |  |  |
-|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $209.78 a week, subject to Income Test 2. |
-|  | (f) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $209.78 a week, increased by $202.20 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
-|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $209.78 a week, subject to Income Test 1. |
+|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $213.49 a week, subject to Income Test 2. |
+|  | (f) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $213.49 a week, increased by $213.49 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
+|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $213.49 a week, subject to Income Test 1. |
 | Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall— |  |  |  |
 | (a) |  | Disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 | (b) |  | Disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $339.78 a week, increased by $41.95 a week if the beneficiary is a single person. |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $343.49 a week, increased by $42.70 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -3966,24 +3965,24 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1 | (aa) | To a single beneficiary under the age of 20 who is— |  | $134.26 a week, subject to Income Test 3. |
+| 1 | (aa) | To a single beneficiary under the age of 20 who is— |  | $136.64 a week, subject to Income Test 3. |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | Living with a parent (as that term is defined in section 3(1)); and |  |
 |  |  | (ii) | Whose benefit commenced on or after 1 July 1998. |  |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $167.83 a week, subject to Income Test 3. |
-|  | (b) | To any other single beneficiary without dependent children |  | $201.40 a week, subject to Income Test 3. |
-|  | (c) | To a single beneficiary with 1 or more dependent children |  | $288.47 a week, subject to Income Test 3 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $167.83 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $167.83 a week, increased by $167.83 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $167.83 a week, subject to Income Test 3 |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $170.80 a week, subject to Income Test 3. |
+|  | (b) | To any other single beneficiary without dependent children |  | $204.96 a week, subject to Income Test 3. |
+|  | (c) | To a single beneficiary with 1 or more dependent children |  | $293.58 a week, subject to Income Test 3 |
+|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $170.80 a week, subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $170.80 a week, increased by $170.80 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $170.80 a week, subject to Income Test 3 |
 |  | (g) |  |  |  |
 |  | (h) |  |  |  |
 |  | (i) |  |  |  |
 |  | (j) |  |  |  |
-| 2 |  | Maximum increase in respect of a housekeeper |  | $167.83 a week. |
+| 2 |  | Maximum increase in respect of a housekeeper |  | $170.80 a week. |
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
-| 5 |  | Special rate of benefit for persons to whom section 99(4) applies |  | $167.83 a week, subject to Income Test 4 |
+| 5 |  | Special rate of benefit for persons to whom section 99(4) applies |  | $170.80 a week, subject to Income Test 4 |
 
 ## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16, invalids', widows', domestic purposes, and sickness benefits only)
 
@@ -4005,22 +4004,22 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 16 — Rates of domestic purposes benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $288.47 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $293.58 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $209.78 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $213.49 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
 
-| 1. | To a single beneficiary under the age of 18 years without dependent children | $203.71 a week, subject to Income Test 1. |
+| 1. | To a single beneficiary under the age of 18 years without dependent children | $207.32 a week, subject to Income Test 1. |
 | --- | --- | --- |
-| 2. | To any other single beneficiary without dependent children | $251.73 a week, subject to Income Test 1. |
-| 3. | To a single beneficiary with 1 or more dependent children | $330.70 a week, subject to Income Test 1 |
+| 2. | To any other single beneficiary without dependent children | $256.19 a week, subject to Income Test 1. |
+| 3. | To a single beneficiary with 1 or more dependent children | $336.55 a week, subject to Income Test 1 |
 | 4. |  |  |
-| 5. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $209.78 a week, subject to Income Test 2. |
-| 6. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $209.78 a week, subject to Income Test 1. |
-| 7. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $209.78 a week, subject to Income Test 1. |
-| 8. | Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $209.78 a week. |  |
+| 5. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $213.49 a week, subject to Income Test 2. |
+| 6. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $213.49 a week, subject to Income Test 1. |
+| 7. | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $213.49 a week, subject to Income Test 1. |
+| 8. | Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $213.49 a week. |  |
 
 ## Schedule 18 — Accommodation supplement
 
@@ -4144,10 +4143,10 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1. | Rate of child disability allowance | $44.55 a week. |
+| 1. | Rate of child disability allowance | $45.34 a week. |
 | --- | --- | --- |
-| 2. | Maximum rate of disability allowance under section 69C(1) | $59.12 a week. |
-| 3. | Rate of special disability allowance under section 69C(5) | $36.88 a week. |
+| 2. | Maximum rate of disability allowance under section 69C(1) | $60.17 a week. |
+| 3. | Rate of special disability allowance under section 69C(5) | $37.53 a week. |
 
 ## Schedule 20 — Rates of contribution by liable parents to cost of domestic purposes benefit
 
@@ -4155,7 +4154,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1. | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $41.64 a week. |
+| 1. | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $42.38 a week. |
 | --- | --- | --- |
 | 2. | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to the amount specified in clause 1. |
 
@@ -4167,10 +4166,10 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 26 — Rates of independent youth benefits
 
-| 1. | To a single beneficiary | $167.83 a week, subject to Income Test 3. |
+| 1. | To a single beneficiary | $170.80 a week, subject to Income Test 3. |
 | --- | --- | --- |
-| 2. | To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $167.83 a week, subject to Income Test 4. |
-| 3. | To any other beneficiary who is married or in a civil union or in a de facto relationship and | $167.83 a week, subject to Income Test 3. |
+| 2. | To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $170.80 a week, subject to Income Test 4. |
+| 3. | To any other beneficiary who is married or in a civil union or in a de facto relationship and | $170.80 a week, subject to Income Test 3. |
 
 ## Schedule 27 — Means assessment under Part 4
 
@@ -4279,27 +4278,27 @@ The weekly contribution payable by a person whose income is assessed is the pers
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
-| 1 | For a single person without dependent children | $1,007.28 |
+| 1 | For a single person without dependent children | $1,025.11 |
 | --- | --- | --- |
-| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,678.39 |
-| 3 | For a sole parent with 1 dependent child | $1,322.59 |
-| 4 | For any other sole parent | $1,420.74 |
+| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,708.10 |
+| 3 | For a sole parent with 1 dependent child | $1,346.00 |
+| 4 | For any other sole parent | $1,445.89 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 5 | For a single person aged 16 or 17 years without dependent children | $460.09 |
-| 6 | For any other single person without dependent children | $528.79 |
-| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $768.03 |
-| 8 | For a sole parent with 1 dependent child | $641.65 |
-| 9 | For any other sole parent | $676.01 |
+| 5 | For a single person aged 16 or 17 years without dependent children | $468.23 |
+| 6 | For any other single person without dependent children | $538.15 |
+| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $781.62 |
+| 8 | For a sole parent with 1 dependent child | $653.01 |
+| 9 | For any other sole parent | $687.98 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 10 | For a single person aged 16 or 17 years without dependent children | $497.21 |
-| 11 | For any other single person without dependent children | $575.48 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $851.83 |
-| 13 | For a sole parent with 1 dependent child | $693.45 |
-| 14 | For any other sole parent | $730.60 |
+| 10 | For a single person aged 16 or 17 years without dependent children | $506.01 |
+| 11 | For any other single person without dependent children | $585.67 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $866.91 |
+| 13 | For a sole parent with 1 dependent child | $705.72 |
+| 14 | For any other sole parent | $743.53 |
 
 ### 1 Title
 This order is the Social Security (Rates of Benefits and Allowances) Order 2008.
