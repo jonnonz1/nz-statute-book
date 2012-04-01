@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -1008,7 +1008,7 @@ A person other than an employer (including a member of a KiwiSaver scheme) may m
 (3) In this section, total deductions means the total of the following:
   (a) the total amount of combined tax and earner-related payments (within the meaning of the Income Tax Act 2007); and
   (b) the total child support deductions; and
-  (c) the total student loan deductions; and
+  (c) the total salary or wage deductions made under the Student Loan Scheme Act 2011; and
   (d) the total contributions deducted under subpart 1; and
   (e) employer contributions that are not compulsory employer contributions.
 
