@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1995,8 +1995,7 @@ Regulations made under section 215 or 216 are regulations for the purposes of th
 **Savings and transitional provisions**
 
 ### 218 Transitional provisions concerning loan manager and loan advances
-(1) This Act and the Student Loan Scheme Act 1992 are subject to the transitional provisions set out in Schedule 5.
-(2) This section and Schedule 5 are repealed on 1 April 2012.
+[Repealed]
 
 ### 219 Early applications and issue of certificates for transition to this Act
 (1) A borrower may—
@@ -2146,21 +2145,6 @@ A borrower who makes an application under section 25(1)(j) must—
 | --- |
 
 ## Schedule 5 — Transitional provisions concerning loan manager and loan advances
-
-### 1 Provisions of this Act apply in place of Part 1 of Student Loan Scheme Act 1992
-(1) Subpart 2 of Part 1, subpart 4 of Part 4, sections 173 to 175, 187, 188, 201, and 210 to 214, and this schedule apply, and Part 1 of the Student Loan Scheme Act 1992 does not apply, if—
-  (a) a person applies for a student loan between 31 December 2011 and 1 April 2012; or
-  (b) a person becomes a borrower between 31 December 2011 and 1 April 2012; or
-  (c) a loan advance is made or charged to a borrower between 31 December 2011 and 1 April 2012.
-(2) The Student Loan Scheme Act 1992 must be interpreted to give effect to subclause (1).
-
-### 2 No interest charged by loan manager
-(1) The loan manager must not charge interest in relation to any loan advance made by the loan manager in accordance with this schedule.
-(2) Subclause (1) applies despite anything to the contrary in the Student Loan Scheme Act 1992.
-
-### 3 Borrower liable to repay
-(1) A borrower is liable to repay the total amount outstanding under a student loan in accordance with the Student Loan Scheme Act 1992 and the loan contract (see section 13(2) of the Student Loan Scheme Act 1992).
-(2) Subclause (1) applies despite anything to the contrary in this schedule.
 
 ## Schedule 6 — Savings and transitional provisions
 
