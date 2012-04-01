@@ -1,5 +1,5 @@
 # Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010
-_Consolidation as at 2010-03-06_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010.
