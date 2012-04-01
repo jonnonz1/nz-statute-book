@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2012-02-01_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
