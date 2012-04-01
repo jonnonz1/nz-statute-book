@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-04-01_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -147,24 +147,12 @@ Freedom camping is permitted in any local authority area unless it is restricted
 
 ### 15 Where freedom camping permitted
 Freedom camping is permitted on any conservation land unless freedom camping is restricted or prohibited on the land—
-  (a) in accordance with 1 or more signs posted under section 16; or
+  (a)
   (b) in accordance with a freedom camping notice made under section 17; or
   (c) under a conservation Act or any other enactment.
 
 ### 16 Freedom camping restriction and prohibition signs
-(1) The Director-General may, by erecting a sign, restrict or prohibit freedom camping on conservation land within 200 m of the sign.
-(2) The sign must clearly describe, whether by words or symbols or both,—
-  (a) that freedom camping is restricted within 200 m of the sign and the restrictions that apply; or
-  (b) that freedom camping is prohibited within 200 m of the sign.
-(3) A sign must be clearly identified as a sign erected with the authority of the Director-General.
-(4) The Director-General may erect a sign under subsection (1) only if the Director-General is satisfied that restricting or prohibiting camping on the land is not inconsistent with—
-  (a) the purpose of any conservation Act relevant to the land; or
-  (b) any general policy, management strategy, or management plan made under a conservation Act relevant to the land.
-(5) Freedom camping on conservation land is also restricted or prohibited within 200 m of a sign that was erected before the commencement of this Act, but only if—
-  (a) the sign clearly describes, whether by words or symbols or both,—
-    (i) that freedom camping is restricted and the restrictions that apply; or
-    (ii) that freedom camping is prohibited; and
-  (b) the sign is clearly identified as a sign erected with the authority of the Director-General.
+[Repealed]
 
 ### 17 Freedom camping notices
 (1) The Director-General may, by notice published in accordance with section 18,—
@@ -215,16 +203,12 @@ The Director-General must exercise the powers conferred on him or her under this
   (c) makes preparations to freedom camp in a local authority area in breach of any prohibition or restriction in a bylaw made under section 11 that applies to the area; or
   (d) deposits waste, generated while freedom camping, in or on a local authority area other than into an appropriate waste receptacle; or
   (e) fails or refuses to leave a local authority area when required to do so by an enforcement officer acting under section 36; or
-  (f) freedom camps on conservation land within 200 m of a sign to which section 16 applies—
-    (i) that prohibits freedom camping; or
-    (ii) in breach of any restrictions set out on the sign; or
+  (f)
   (g) freedom camps on conservation land in breach of any prohibition or restriction in a freedom camping notice that applies to the land; or
   (h) while freedom camping on conservation land,—
     (i) interferes with or damages the land, its flora or fauna, or any structure on the land; or
     (ii) deposits waste in or on the land (other than into an appropriate waste receptacle); or
-  (i) makes preparations to freedom camp on conservation land within 200 m of a sign to which section 16 applies—
-    (i) in breach of any restrictions set out on the sign; or
-    (ii) where the sign prohibits freedom camping; or
+  (i)
   (j) makes preparations to freedom camp on conservation land in breach of any prohibition or restriction in a freedom camping notice that applies to the land; or
   (k) deposits waste, generated while freedom camping, in or on conservation land other than into an appropriate waste receptacle; or
   (l) refuses to give information when required to do so by an enforcement officer under section 35 or gives false or misleading information; or
