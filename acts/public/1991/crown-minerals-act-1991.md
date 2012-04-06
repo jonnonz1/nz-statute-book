@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2011-10-06_
+_Consolidation as at 2012-04-06_
 
 > An Act to restate and reform the law relating to the management of Crown owned minerals
 
@@ -588,6 +588,12 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 (6) Subsection (1)(b) applies in relation to land registered in the name of Awanuiārangi II as protected land under section 157 of the Ngāti Awa Claims Settlement Act 2005 as if—
   (a) the land were Maori land; and
   (b) the Ngāti Awa governance entity were the local iwi authority of the land.
+(7) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012), if the land is registered in the names of Wharepakau and Tangiharuru as tenants in common.
+(8) Subsection (1)(b) applies in relation to land registered in the names of Wharepakau and Tangiharuru as tenants in common under section 104 of the Ngāti Whare Claims Settlement Act 2012 and section 88 of the Ngāti Manawa Claims Settlement Act 2012 as if that land were Māori land and as if the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012) were jointly the local iwi authority of that land.
+(9) No person may, for the purpose of carrying out a minimum impact activity enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare (as defined in section 10 of the Ngāti Whare Claims Settlement Act 2012), if the land is—
+  (a) registered in the name of Wharepakau as protected land under section 104 of that Act; and
+  (b) regarded as wāhi tapu by the trustees.
+(10) Subsection (1)(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
 
 ### 52 Permit holder may obtain order
 Where a permit holder or other person authorised to enter on land under section 49 has complied with the requirements of that section and, in the exercise of his or her rights under that section, is obstructed, hindered, or interfered with by an owner or occupier of the land, or any other person, the permit holder or person so authorised may apply to a District Court for an order directing that he or she or any other person having rights under section 49 be permitted to exercise those rights.
