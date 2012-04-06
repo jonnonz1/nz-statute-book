@@ -1,5 +1,5 @@
 # Te Runanga o Ngati Porou Act 1987
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2012-04-06_
 
 > An Act to establish Te Runanga o Ngati Porou as a Maori Trust Board
 
