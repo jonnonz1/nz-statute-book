@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-04-06_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -9596,268 +9596,6 @@ On the commencement of this Act, an existing rule or part of a rule in a regiona
 If an activity that involves an occupation of land in, or the removal of sand, shingle, shell, or other natural material from, the public foreshore and seabed is being carried out without an authorisation granted by the relevant local authority, as the land owner, section 12(2) of the principal Act does not apply until 1 January 2008.
 
 ### 1 Title
-This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
-
-### 2 Commencement
-(1) Section 33 comes into force on a date to be appointed by the Governor-General by Order in Council.
-(2) The rest of this Act come into force on 1 January 2005.
-
-**Transitional provisions relating to end of moratorium under Resource Management Act 1991**
-
-### 34 Resource Management Act 1991 called principal Act in sections 35 to 54
-In sections 35 to 54, the Resource Management Act 1991 is called the principal Act.
-
-**Interim aquaculture management areas**
-
-### 35 Interpretation
-In sections 36 to 54,—
-  - **aquaculture decision** means a determination or reservation
-  - **chief executive** means the chief executive of the Ministry of Fisheries
-  - **determination** , in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources
-  - **interim aquaculture management area** —
-    (a) means a coastal marine area described in an Order in Council made under section 150C of the principal Act or section 36 of this Act; but
-    (b) does not include a coastal marine area described in paragraph (a) if the area is an aquaculture management area under section 44 of this Act
-  - **reservation** , in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is not satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources.
-
-### 36 Interim aquaculture management areas declared by Order in Council
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, declare a coastal marine area described in the order to be an interim aquaculture management area.
-(2) The Minister must not make a recommendation unless—
-  (a) the regional council concerned has requested the Minister to make the recommendation; and
-  (b) a regional coastal plan or proposed regional coastal plan—
-    (i) has, before the commencement of this Act, been notified under clause 5 of Schedule 1 of the principal Act; and
-    (ii) applies to the coastal marine area to be described in the Order in Council; and
-  (c) the Minister is satisfied that he or she has received adequate information to base a recommendation on; and
-  (d) the Minister is satisfied that—
-    (i) the regional coastal plan or the proposed regional coastal plan provides for aquaculture activities as a controlled or restricted discretionary or discretionary or non-complying activity in the area that the request relates to; and
-    (ii) the provisions of the plan or proposed plan adequately address the adverse effects (including cumulative effects) on the environment (other than fisheries resources) of the occupation of a coastal area and of aquaculture activities.
-(3) The Minister must make a recommendation under subsection (1) within 3 months after receiving a request if the Minister is not prevented by subsection (2) from making the recommendation.
-(4) For the purposes of subsection (3), section 37 of the principal Act applies, with all necessary modifications, as if the Minister were acting as a consent authority.
-
-### 37 Application for aquaculture decision in relation to interim aquaculture management area
-(1) A regional council may request the chief executive to make an aquaculture decision in relation to an interim aquaculture management area.
-(2) However, a regional council must not make a request in relation to an area to which section 39(a), (b), or (c) applies.
-
-### 38 Chief executive to make aquaculture decision
-(1) Within 6 months after receiving a request for an aquaculture decision under section 37, the chief executive must—
-  (a) make a determination; or
-  (b) make a reservation; or
-  (c) make 1 or more determinations or reservations or both in relation to different parts of the area.
-(2) The chief executive may request the regional council that requested the aquaculture decision and any person whose interests may be affected to provide him or her with further information about the effects that the interim aquaculture management area would have on access to or displacement of fishing or the sustainability of fisheries resources.
-(3) For the purposes of subsection (1), the period beginning on the day when a request for further information is made and ending on the day when the information is provided is excluded from the 6-month period referred to in subsection (1).
-(4) Before making an aquaculture decision, the chief executive must—
-  (a) consult the persons and organisations that the chief executive considers represent the classes of persons having a customary, commercial, or recreational fishing interest in the interim aquaculture management area; and
-  (b) consider any submissions made by those persons and organisations.
-
-### 39 Aquaculture decisions must not be made in relation to certain areas
-(1) The chief executive must not make an aquaculture decision if the decision would apply to an area for which—
-  (a) a coastal permit under the principal Act authorises occupation for the purposes of an aquaculture activity; or
-  (b) a deemed coastal permit under section 10 or section 20 or section 21 is in force; or
-  (c) an application for a coastal permit under the principal Act to occupy a coastal marine area for the purpose of an aquaculture activity has been made but not determined.
-(2) However, subsection (1)(c) does not apply to the following applications:
-  (a) applications to which section 150B(2) of the principal Act applies:
-  (b) applications made in the period beginning on 1 January 2005 and ending with the close of 9 May 2006.
-
-### 40 Matters to be considered by chief executive
-In deciding whether to make a determination or reservation, the chief executive must have regard only to the following matters:
-  (a) the effect of the interim aquaculture management area on—
-    (i) the biological diversity of the aquatic environment:
-    (ii) the productivity and biological abundance of fisheries resources:
-    (iii) habitats of known significance for fisheries management:
-  (b) the location of the interim aquaculture management area in relation to areas in which fishing is carried out:
-  (c) the effect of the interim aquaculture management area on fishing of any fishery, including the proportion of any fishery likely to become affected:
-  (d) the degree to which aquaculture activities within the interim aquaculture management area will lead to the exclusion of fishing:
-  (e) the extent to which fishing for a species in the interim aquaculture management area can be carried out in other areas:
-  (f) the extent to which the interim aquaculture management area will increase the cost of fishing:
-  (g) the cumulative effect on fishing of any previous aquaculture activities.
-
-### 41 Requirements for aquaculture decision
-(1) An aquaculture decision must—
-  (a) be in writing; and
-  (b) define the areas that are subject to the decision; and
-  (c) provide reasons for the decision; and
-  (d) if the decision is a determination based on a rule in a regional coastal plan or proposed regional coastal plan that relates to the character, intensity, or scale of occupation of the interim aquaculture management area by aquaculture activities,—
-    (i) specify the rule; and
-    (ii) state that the rule may not be revoked or amended until the chief executive makes a further aquaculture decision in relation to the area affected by the revocation or amendment; and
-  (e) be notified to the regional council.
-(2) If the chief executive makes a reservation, the reservation must also include—
-  (a) whether the reservation relates to customary, recreational, or commercial fishing or a combination of them; and
-  (b) if the reservation relates only to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C and 4D, and any stocks for species not subject to the quota management system; and
-  (c) any other matters required by regulations to be included.
-(3) The chief executive must—
-  (a) publicly notify the fact that he or she has made a determination or reservation; and
-  (b) in the notice published for that purpose, include—
-    (i) the information specified in subsections (1) and (2); and
-    (ii) information about where a copy of the determination or reservation can be obtained.
-
-### 42 Appeal against aquaculture decision
-(1) The following persons may appeal to the High Court against an aquaculture decision:
-  (a) the regional council that requested the aquaculture decision:
-  (b) any person consulted or who ought to have been consulted under section 38(4):
-  (c) any person who has an interest in the decision greater than the public generally.
-(2) An appeal must be filed within 3 months after public notification of the aquaculture decision.
-(3) The High Court may confirm or modify the aquaculture decision appealed against or substitute a different aquaculture decision.
-
-### 43 Judicial review of aquaculture decision
-Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 3 months after the public notification of the decision.
-
-### 44 Interim aquaculture management area becomes aquaculture management area following aquaculture decision
-(1) If the chief executive makes an aquaculture decision under section 38, the regional council must amend the regional coastal plan and any proposed regional coastal plan as follows:
-  (a) in the case of a determination, by noting on the plan the details of the determination:
-  (b) in the case of a reservation,—
-    (i) by noting on the plan the details of the reservation; and
-    (ii) if the reservation relates to the sustainability of fisheries resources or effects on customary or recreational fishing, by deleting from the plan the area or areas that the reservation relates to.
-(2) However, if, when the aquaculture decision is made under section 38, an interim aquaculture management area is in a regional coastal plan, the regional council must comply with sections 9 to 12 of the Maori Commercial Aquaculture Claims Settlement Act 2004 before it complies with subsection (1).
-(3) Schedules 1 and 1A and of the principal Act do not apply to an amendment made under subsection (1).
-(4) On and from the date on which the regional council complies with subsection (1), the interim aquaculture management area becomes an aquaculture management area.
-
-**Deemed aquaculture management areas**
-
-### 45 Existing coastal permits deemed to be aquaculture management areas
-(1) This section applies—
-  (a) to a coastal permit—
-    (i) that has been deemed to be a coastal permit under any of sections 10, 20, or 21; but
-    (ii) only to the extent contemplated by section 28; and
-  (b) subject to section 53.
-(2) This section does not apply in respect of any space identified in a regional coastal plan or proposed regional coastal plan at the commencement of this Act as space in which aquaculture activities authorised by the coastal permit are prohibited.
-(3) The area to which a coastal permit that this section applies to is deemed to be an aquaculture management area for the purposes of the principal Act and, if the relevant plan is not operative, the relevant plan must be treated as if it were operative.
-(4) The deemed aquaculture management area is subject to the provisions of the regional coastal plan or proposed regional coastal plan that apply to the area.
-(5) An area that is deemed to be an aquaculture management area by this section ceases to be an aquaculture management area if a plan that applies to the area becomes operative after the commencement of this Act and does not provide for the area to continue to be an aquaculture management area.
-
-**Existing applications and coastal permits**
-
-### 46 Pending applications where moratorium ends before 31 December 2004
-(1) This section applies to an application—
-  (a) that section 150B(2) of the principal Act applies to; but
-  (b) only to the extent that it relates to an area that an Order in Council made under section 150C(1) of the principal Act applies to.
-(2) At the end of the moratorium, a consent authority must—
-  (a) resume processing an application; and
-  (b) process and determine the application under rules in the regional coastal plan, and in any proposed regional coastal plan, as at the end of the moratorium.
-(3) For the purposes of subsection (1), rules in a proposed regional coastal plan include any rule prohibiting an activity if the plan has been notified under clause 5 of Schedule 1 of the principal Act.
-(4) Subsection (3) applies subject to section 20 of the principal Act.
-
-### 47 Pending applications where moratorium ends on close of 31 December 2004
-(1) This section applies to an application—
-  (a) that section 150B(2) of the principal Act applies to; but
-  (b) only to the extent that it relates to an area for which the moratorium expires on the close of 31 December 2004.
-(2) After the end of the moratorium, a consent authority must resume processing an application; but only if and to the extent that the application relates to a regional coastal plan that provides for an aquaculture management area and the application relates to the aquaculture management area.
-(3) An application referred to in subsection (2) must be processed and determined under the rules in the regional coastal plan and any proposed regional coastal plan at the time the consent authority resumes processing the application.
-(4) However, a consent authority must not grant a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation relating to commercial fishing, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
-(5) An application is deemed to be cancelled on and from the date on which a proposed regional coastal plan is notified under clause 5 of Schedule 1 of the principal Act after the commencement of this Act if and to the extent that the application relates to an area covered by the plan and the plan provides for aquaculture management areas, but it does not include the area that the application relates to.
-(6) An application is deemed to be cancelled on and from 31 December 2014 to the extent that, by that date,—
-  (a) no proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1 of the principal Act; or
-  (b) a proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1 of the principal Act, but the plan contains no aquaculture management areas.
-(7) This section—
-  (a) prevails over Part 7 of the principal Act; but
-  (b) applies subject to the Maori Commercial Aquaculture Claims Settlement Act 2004.
-(8) In this section, aquaculture management area does not include an area that is deemed to be an aquaculture management area under section 45.
-
-### 48 Certain coastal permits granted during moratorium not to be exercised until end of moratorium
-(1) This section applies to a coastal permit if—
-  (a) the application for the permit was notified during the moratorium but before the commencement of the Resource Management (Aquaculture Moratorium) Amendment Act 2002; or
-  (b) the consent authority decided, during the moratorium but before the commencement of the Resource Management (Aquaculture Moratorium) Amendment Act 2002, not to notify the application for the permit.
-(2) However, this section does not apply to a coastal permit for aquaculture activities that relates to a coastal marine area that, immediately before the moratorium, was subject to—
-  (a) a coastal permit; or
-  (b) a marine farming lease or licence under the Marine Farming Act 1971.
-(3) No person may do anything under a coastal permit until the moratorium has expired in relation to the area that the permit relates to.
-(4) At the end of the moratorium, a regional council may—
-  (a) review the conditions in a coastal permit; and
-  (b) amend the conditions so that they comply with the rules in the regional coastal plan and any proposed regional coastal plan that apply at the end of the moratorium.
-(5) If a coastal permit relates to a restricted coastal activity, section 119A of the principal Act applies in relation to the amendment of conditions under subsection (4)(b).
-(6) At the end of the moratorium,—
-  (a) no person may carry on any aquaculture activities under a coastal permit in any area in which aquaculture is prohibited; and
-  (b) the coastal permit ceases to have any effect and is deemed to be cancelled.
-(7) For the purposes of section 125 of the principal Act, the commencement date of a coastal permit is the later of—
-  (a) the day after the date on which the moratorium ceases to apply to the coastal permit; or
-  (b) the day after the date on which the regional council notifies the holder of the permit of the result of a review under subsection (4).
-(8) Sections 357 and 358 of the principal Act apply to a decision by a regional council to amend conditions under subsection (4).
-
-### 49 Preferential right for deemed permit holder to apply for coastal permit for occupation
-(1) Subsection (2) applies if—
-  (a) a person holds a lease or licence that is deemed to be a coastal permit by section 10; and
-  (b) the deemed coastal permit relates to an area in an aquaculture management area; and
-  (c) the person is giving effect to the deemed coastal permit.
-(2) No person, other than the permit holder, may apply for a coastal permit to occupy the area that the deemed coastal permit relates to.
-(3) However, subsection (2) does not apply if—
-  (a) the permit holder consents in writing to the application; or
-  (b) the coastal permit has expired and—
-    (i) the holder of the permit has not applied for a new coastal permit to occupy the same area to undertake an aquaculture activity; or
-    (ii) the holder of the permit has applied for a new coastal permit for the same area and the application has been refused and all appeals against the refusal have been withdrawn or dismissed; or
-  (c) the coastal permit has lapsed under section 125 of the principal Act; or
-  (d) the coastal permit has been cancelled under section 126 of the principal Act; or
-  (e) the coastal permit has been surrendered under section 138 of the principal Act.
-(4) This section does not limit or affect section 124 of the principal Act.
-
-**Pre-moratorium and pre-commencement applications for coastal permits**
-
-### 50 Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium
-(1) Subsection (2) applies to an application for a coastal permit under the principal Act to occupy a coastal marine area for aquaculture activities if the application—
-  (a) was made before the commencement of this Act; and
-  (b) is not subject to section 150B(2) of the principal Act; and
-  (c) has not been determined or withdrawn before the commencement of this Act.
-(2) An application to which this subsection applies must be determined under the principal Act as if the Resource Management Amendment Act (No 2) 2004 had not been passed.
-(3) A person who has made an application that subsection (2) applies to may apply, or continue with an application, for a marine farming permit under section 67J of the Fisheries Act 1983 or a spat catching permit under section 67Q(2) of that Act if the application under that Act relates to all or part of the area, and 1 or more of the species of fish, aquatic life, or seaweed, that the application that subsection (2) applies to relates to.
-(4) An application under subsection (3) lapses if the application to which subsection (2) applies is—
-  (a) withdrawn; or
-  (b) declined and any appeal in relation to the declined application has been unsuccessful or withdrawn.
-(5) If an application that subsection (2) applies to is granted, the application under subsection (3) must be determined under the Fisheries Act 1983 as if this Act had not been passed.
-(6) If the application is for a marine farming permit and the application is granted, section 20 applies to the permit as if every reference in that section to the commencement of this Act were a reference to the date on which the application was granted.
-(7) If the application is for a spat catching permit and the application is granted, section 21 applies to the permit as if every reference in that section to the commencement of this Act were a reference to the date on which the application was granted.
-
-### 51 Regional council must request aquaculture decision if application for coastal permit declined or withdrawn
-(1) This section applies to—
-  (a) an application for a coastal permit to occupy a coastal marine area for aquaculture activities if the application—
-    (i) is made before the commencement of this Act; and
-    (ii) is not subject to section 150B(2) of the principal Act; and
-    (iii) relates to part of an interim aquaculture management area; and
-    (iv) has been declined or withdrawn:
-  (b) a coastal permit if—
-    (i) it was granted under an application to which paragraph (a)(i) to (iii) applies; and
-    (ii) no marine farming permit or spat catching permit has been issued in relation to the coastal permit; and
-    (iii) the coastal permit—
-      (A) lapses under section 125 of the principal Act; or
-      (B) expires and the holder of the permit is not entitled under section 124 of the principal Act to continue to operate under the coastal permit; or
-      (C) is cancelled under section 126 of the principal Act; or
-      (D) is surrendered under section 138 of the principal Act.
-(2) The regional council to which the application was made or which granted the coastal permit must request an aquaculture decision for the part of the interim aquaculture management area concerned.
-(3) Sections 38 to 44 apply to the request.
-
-### 52 Areas excluded from interim aquaculture management area
-(1) This section applies to an application for—
-  (a) a marine farming permit under section 67J of the Fisheries Act 1983:
-  (b) a spat catching permit under section 67Q(2) of the Fisheries Act 1983.
-(2) If the chief executive of the Ministry of Fisheries has declined an application to which this section applies, whether before or after the commencement of this Act, the regional council must delete from an interim aquaculture management area any area to which the application applies.
-(3) If the chief executive of the Ministry of Fisheries has granted an application to which this section applies, whether before or after the commencement of this Act, the area to which the application relates is to be treated as if the chief executive had made a determination under section 38 of this Act in relation to it and section 44 applies accordingly.
-
-**Review of off-site farms**
-
-### 53 Off-site farms
-(1) This section applies to a deemed coastal permit under any of sections 10, 20, or 21 for which the actual space is not the authorised space.
-(2) The holder of a deemed coastal permit may, within 2 years after the commencement of this Act, apply in writing to the consent authority to amend the permit to reflect the actual space.
-(3) An application under this section must include—
-  (a) the description, to a standard approved by the consent authority, of the actual space; and
-  (b) the description of the authorised space; and
-  (c) an assessment of the adverse effects on the environment of the activity in the actual space, and of moving the activity to the authorised space (including the effects of moving the activity and the effects of the activity in the authorised space); and
-  (d) the reasons for and against amending the permit to reflect the actual space.
-(4) Section 92 of the principal Act applies, with all necessary modifications, to an application under this section as if it were an application for a resource consent.
-(5) After considering an application under this section and consulting the chief executive about it, the consent authority must—
-  (a) amend the deemed coastal permit as requested by the consent holder; or
-  (b) decline to amend the permit and require the consent holder to move the activity to the authorised space.
-(6) Section 120 of the principal Act applies to a decision of the consent authority under subsection (5) as if the decision were a decision on a review of consent conditions.
-(7) A deemed coastal permit amended under this section must not authorise the holder of the permit to occupy a space greater than the authorised space.
-(8) A consent authority must advise the chief executive of its decision under subsection (5).
-(9) As soon as practicable after receiving the advice under subsection (8), the chief executive must amend the fish farmer registration that the advice relates to.
-(10) Sections 357(5) to (8) and 358 and of the principal Act apply to a decision of the consent authority under subsection (5).
-(11) Section 36 of the principal Act applies to the functions of the consent authority under this section as if an application to amend a deemed coastal permit were an application for resource consent.
-(12) In this section,—
-  - **actual space** means the space in relation to which the deemed coastal permit is being exercised
-  - **authorised space** means the space specified in the deemed coastal permit.
-
-### 54 Consent authority may initiate review of off-site farms
-(1) This section applies to deemed coastal permits to which section 53 applies.
-(2) A consent authority may review a deemed coastal permit to the same extent and within the same time as if the holder of the permit had applied under section 53(2).
-(3) For the purposes of subsection (2), section 53(5) to (12) applies with all necessary modifications.
-
-### 1 Title
 (1) This Act is the Resource Management Amendment Act 2005.
 (2) In this Act, the Resource Management Act 1991 is called the principal Act.
 
@@ -9872,6 +9610,17 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
   (a) section 108:
   (b) section 115(2) to (4):
   (c) section 117.
+
+### 3 Purpose
+The purpose of this Act is to amend the Resource Management Act 1991
+  (a) to improve the operation of the Act, in particular in relation to—
+    (i) the achievement of nationally consistent standards through national environmental standards and national policy statements; and
+    (ii) the making of decisions by consent authorities and the Environment Court; and
+    (iii) the power of the Minister for the Environment to call in applications for resource consents; and
+    (iv) the development of policy statements and plans by local authorities; and
+    (v) consultation with iwi and resource planning by iwi; and
+    (vi) the allocation of natural resources; and
+  (b) to make related and other amendments of a minor or technical nature.
 
 ### 131 Transitional provisions relating to provisions of principal Act
 (1) The amendments made by this Act do not apply to—
@@ -9917,6 +9666,9 @@ This Act is the Resource Management (Simplifying and Streamlining) Amendment Act
 
 ### 2 Commencement
 This Act comes into force on 1 October 2009.
+
+### 3 Principal Act amended
+This Act amends the Resource Management Act 1991.
 
 ## Part 2 — Transitional provisions and amendments to other enactments
 
@@ -10015,23 +9767,3 @@ The amendments made by this Act apply to a national policy statement whether the
   (a) had been publicly notified under clause 5 or 26(b) of Schedule 1 of the principal Act; but
   (b) had not proceeded to the stage at which no further appeal was possible.
 (2) The proposed policy statement or plan or change must be determined as if the amendments made by this Act had not been made.
-
-### 1 Title
-This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
-
-### 2 Commencement
-(1) Parts 1 and 3 (except section 113(2)) come into force on 1 November 2010.
-(2) Section 113(2) comes into force on 1 July 2012.
-(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1 — Savings, transitional provisions, and related matters (except employment)
-
-### Subpart 2 — Savings and transitional provisions relating to Auckland Council and its subsidiaries
-
-**Other planning matters**
-
-### 81 Appeals against change or variation under Local Government (Auckland) Amendment Act 2004
-(1) This section applies to an appeal under the Resource Management Act 1991, lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under sections 39 and 40 of the Local Government (Auckland) Amendment Act 2004.
-(2) The appeal must be determined as if—
-  (a) sections 38 to 43 of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
-  (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that section 80(2)(a) to (d) of this Act applies).
