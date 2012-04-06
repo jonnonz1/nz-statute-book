@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-04-06_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -19,6 +19,8 @@ _Consolidation as at 2012-04-01_
   - **arrival hall** means a place licensed under section 12 for the processing of persons arriving in New Zealand
   - **authorised person** means a person authorised under section 6
   - **beer** means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extract
+  - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
+  - **biofuel blend** means a product that results from blending biofuel with petrol, diesel, or other substances
   - **boat** means a vessel other than a ship
   - **chief executive** means the person holding office under the State Sector Act 1988 as the chief executive of the New Zealand Customs Service
   - **coastal cargo** , in relation to any ship, means goods loaded on the ship at any port in New Zealand for carriage to and unloading at any other port in New Zealand
@@ -50,6 +52,7 @@ _Consolidation as at 2012-04-01_
   - **Customs-approved secure package** means a package of a kind that is approved by the chief executive under section 53C for the purposes of a Customs-approved secure exports scheme
   - **Customs controlled area** means an area that is required, for 1 or more of the purposes described in section 10, to be licensed and that is so licensed
   - **Customs direction** means a lawful request, order, command, or instruction given by a Customs officer to any person to do or to refrain from doing an act or to submit to a procedure for the purposes of this Act; and includes any notice, poster, or sign publicly displayed in a Customs place or Customs controlled area; and includes a direction contained in a form prescribed under this Act
+  - **Customs dog** means a dog that is being used or intended for use by the Customs
   - **Customs officer** or ,—
     (a) in any provision of this Act, and in any enactment that is not this Act or a portion of it but that uses the definition in this subsection of both or either of those terms, means a person who is—
       (i) a person appointed by the chief executive as a Customs officer for the purpose of this Act; or
@@ -249,7 +252,7 @@ The Customs flag shall be the New Zealand Ensign with the addition in the fly of
 **Customs controlled areas**
 
 ### 10 Customs controlled areas
-Subject to such exemptions as may be prescribed and to sections 12(4), 68A, and 68B, no area shall be used for—unless that area is licensed as a Customs controlled area.
+Subject to such exemptions as may be prescribed and to sections 12(4), 68A, 68B, and 68C, no area shall be used for—unless that area is licensed as a Customs controlled area.
   (a) the manufacture of goods specified in Part A of the Excise and Excise-equivalent Duties Table; or
   (b) the deposit, keeping, or securing of imported or excisable goods, without payment of duty on the goods, pending the export of those goods; or
   (c) the temporary holding of imported goods for the purposes of the examination of those goods under section 151 (including the holding of the goods while they are awaiting examination); or
@@ -855,12 +858,20 @@ Nothing in this Part—
   (a) default is made in the entry of goods pursuant to this section; or
   (b) the goods are not claimed within such period as may be prescribed,—
 
+### 39A Entry of imported goods in multiple or split shipments
+(1) This section applies if the chief executive considers, after taking into account any criteria prescribed by regulations made under section 40, that goods cannot reasonably be imported into New Zealand in 1 shipment.
+(2) The chief executive may, on application by an importer, allow the goods to be—
+  (a) imported in multiple or split shipments; and
+  (b) entered by the importer under the same Tariff classification that they would have been entered under if they had been imported in 1 shipment.
+(3) In exercising the power conferred by subsection (2), the chief executive may impose any conditions on the importer that he or she considers to be reasonably necessary.
+
 ### 40 Regulations relating to entry of imported goods
 Without limiting the power to make regulations under section 286, the Governor-General may from time to time, by Order in Council, make regulations—
   (a) prescribing when an entry is deemed to have been made for the purposes of this Act; and
   (b) prescribing the conditions under which an entry is deemed to have been passed for the purposes of this Act; and
   (c) exempting specified goods or goods of a specified class from the requirements of section 39(1), subject to such conditions as may be prescribed; and
-  (d) prescribing goods or classes of goods that shall be deemed to have been entered under section 39(1) and the circumstances in which and the conditions subject to which those goods shall be so deemed.
+  (d) prescribing goods or classes of goods that shall be deemed to have been entered under section 39(1) and the circumstances in which and the conditions subject to which those goods shall be so deemed; and
+  (e) for the purposes of section 39A(1), prescribing criteria for determining whether goods cannot reasonably be imported in 1 shipment.
 
 ### 40A Fees and charges relating to importation of goods
 (1) Without limiting the power to make regulations under section 287, the Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the importation of goods.
@@ -927,6 +938,7 @@ Except as otherwise permitted by the chief executive, no goods subject to the co
 
 ### 50 Regulations relating to entry of goods for export
 Without limiting the power to make regulations under section 286, the Governor-General may from time to time, by Order in Council, make regulations—
+  (aaa) specifying when an entry of goods for export is deemed to have been made; and
   (aa) prescribing the conditions under which an entry is deemed to have been passed for the purposes of this Act; and
   (a) exempting specified goods or goods of a specified class from the requirements of section 49(1), subject to such conditions as may be prescribed; and
   (b) prescribing goods or classes of goods that shall be deemed to have been entered under section 49(1) and the circumstances in which and the conditions subject to which those goods shall be so deemed.
@@ -1253,10 +1265,22 @@ Without limiting the power to make regulations conferred by section 286, the Gov
 ### 68B Exemption for alcohol manufactured for personal use
 Section 68 does not apply to the manufacture of beer, wine, or spirits in an individual's private house or dwelling place, but only if and as long as the beer, wine, or spirits are manufactured exclusively for the individual's personal use and not for sale or other disposition to any other person.
 
+### 68C Exemption for biofuel and biofuel blends manufactured for personal use
+Section 68 does not apply to the manufacture of biofuel or biofuel blends on land where the private house or dwelling of the individual who is undertaking the manufacture is located, but only if and as long as the biofuel or biofuel blends are manufactured exclusively for the individual's personal use and not for sale or other disposition to any other person.
+
 ### 69 Goods deemed to have been manufactured
-For the purposes of this Act,—
+(1) For the purposes of this Act,—
   (a) compressed natural gas is deemed to have been manufactured by a licensee of a manufacturing area when natural gas supplied by the licensee to a compressed natural gas fuelling facility is compressed for use as a motor vehicle fuel:
-  (b) goods on which work has been done by a contractor shall be deemed to have been manufactured by the contractor.
+  (b) goods on which work has been done by a contractor shall be deemed to have been manufactured by the contractor:
+  (c) biofuel is deemed to have been manufactured by a licensee of a manufacturing area when biofuel supplied by the licensee to a biofuel fuelling facility is blended at the biofuel fuelling facility.
+(2) A licensee of a manufacturing area who supplies biofuel under subsection (1)(c) will be liable for duty under this Act for the biofuel blend that results from blending at a biofuel fuelling facility the biofuel supplied by the licensee.
+(3) The biofuel blend that results from blending at a biofuel fuelling facility under subsection (2) is, for the purposes of this Part, deemed to be removed for home consumption when the blending is undertaken.
+(4) In this section, biofuel fuelling facility—
+  (a) means any installation, facility, or other place that—
+    (i) is used for fuelling any craft, vehicle, or other conveyance; and
+    (ii) is not, for the time being, licensed under section 12(1) or exempted under section 12(4); and
+  (b) includes any vehicle designed for the storage and transport of fuel in which a process of blending occurs; but
+  (c) does not include land to which an exemption under section 68C relates.
 
 ### 70 Entry of excisable goods
 (1) Subject to any regulations made under section 71, all goods that are specified in Part A of the Excise and Excise-equivalent Duties Table must, on removal from a Customs controlled area, be entered—
@@ -1308,7 +1332,7 @@ For the purposes of this Part, goods are deemed to be removed for home consumpti
 (2) Subsection (1) does not apply in respect of goods—
   (a) that are manufactured in an area that pursuant to a direction of the chief executive under section 12(4) is not required to be licensed; or
   (b) that are covered by an exemption prescribed under section 10; or
-  (c) that are manufactured in accordance with the conditions specified by section 68A or 68B.
+  (c) that are manufactured in accordance with the conditions specified by section 68A, 68B, or 68C.
 
 ### 75 Excise-equivalent duty on imported goods
 (1) Subject to this Act, and in addition to any other duties or levies payable on imported goods, excise-equivalent duty at the appropriate rate specified in Part B of the Excise and Excise-equivalent Duties Table must be levied, collected, and paid on all goods specified in Part B of the Excise and Excise-equivalent Duties Table that are imported.
@@ -1553,7 +1577,12 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (2) Notwithstanding subsection (1), in any case where, in the opinion of the chief executive, the entry or any declaration made in relation to the goods was fraudulent or wilfully misleading, the chief executive may amend the assessment at any time so as to increase the amount of the assessment.
 
 ### 95 Keeping of business records
-(1) Every licensee, importer, exporter, and body authorised to issue a New Zealand certificate of origin under section 64B must keep or cause to be kept in New Zealand such records, for such period of time not exceeding 7 years, as may be prescribed.
+(1) The following must keep or cause to be kept in New Zealand any prescribed records for the prescribed period of time, which must not exceed 7 years:
+  (a) a licensee:
+  (b) an importer:
+  (c) an exporter:
+  (d) a person who acts as an agent of any person referred to in paragraphs (a) to (c):
+  (e) a body authorised to issue a New Zealand certificate of origin under section 64B.
 (2) Every such person must, as and when required by a Customs officer,—
   (a) make the records available to the Customs; and
   (b) provide copies of the records as required; and
@@ -1767,6 +1796,10 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
   (d) destroyed; or
   (e) dealt with in such manner as the chief executive may allow.
 (3) Where in any case goods temporarily imported are used for industrial or commercial purposes or such other purposes as the chief executive may consider applicable, duty shall be payable in respect of the goods on the amount by which their value for duty, as determined by the chief executive at the time that he or she is satisfied pursuant to subsection (2) that the goods have been dealt with under any of paragraphs (a) to (e) of that subsection, is less than their value for duty, as ascertained in accordance with this Act, at the time of their importation.
+(3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)(a) to (e) by using—
+  (a) the straight-line method of calculating an amount of depreciation loss described in section EE 12(2)(b) of the Income Tax Act 2007; and
+  (b) the depreciation rate for that method determined by the Commissioner of Inland Revenue under section 91AAF or 91AAG of the Tax Administration Act 1994 or the rate specified in the table appended to the General Depreciation Rates published by the Commissioner of Inland Revenue; and
+  (c) for duty calculation purposes, the depreciation rate applicable on the date the goods are imported.
 (4) Where an amount of duty is payable in accordance with subsection (3), that duty may be deducted from any deposit of money given as security under subsection (1).
 (5) Notwithstanding subsection (3), but subject to such conditions as the chief executive may impose, duty is not payable on goods temporarily imported in accordance with any treaty, agreement, or arrangement concluded by the Government of New Zealand.
 (6) If, at the expiry of the period prescribed by subsection (2), the goods have not been dealt with in accordance with that subsection,—
@@ -1882,72 +1915,100 @@ At any time after a Customs ruling is made, the chief executive may, by notice i
 An applicant who is dissatisfied with a Customs ruling, or a decision to decline to make a Customs ruling, or a decision to amend a Customs ruling, under this Part may, within 20 working days after the date on which notice of the ruling or decision is given, appeal to a Customs Appeal Authority against that ruling or decision.
 
 ### 127 No liability where Customs ruling relied on
-(1) Where an applicant has relied on a Customs ruling in relation to specific goods or a specific matter, and, as a result,—the amount of the duty otherwise payable is not recoverable as a debt due to the Crown and no penalty shall be imposed under section 128 and the goods shall not be liable to seizure under this Act, as the case may be.
+(1) Where an applicant has relied on a Customs ruling in relation to specific goods or a specific matter, and, as a result,—the amount of the duty otherwise payable is not recoverable as a debt due to the Crown and no penalty shall be imposed under section 128A and the goods shall not be liable to seizure under this Act, as the case may be.
   (a) the applicant has not paid the amount of duty that, but for this section, is payable on the goods; or
-  (b) the applicant would, but for this section, be liable to the imposition of a penalty under section 128; or
+  (b) the applicant would, but for this section, be liable to the imposition of a penalty under section 128A; or
   (c) goods, but for this section, would be liable to seizure under this Act,—
 (2) Subsection (1) applies only in relation to a matter on which the Customs ruling was given and where the Customs ruling has not ceased under section 125, and in accordance with any amendment to a Customs ruling that the applicant has received notice of under section 124.
 
 ## Part 10 — Administrative penalties
 
-### 128 Imposition of penalty
-(1AA) In this Part, entry means an entry required under this Act, including, without limitation,—
-  (a) every declaration, invoice, certificate, written statement, or other document required or authorised by or under this Act to be made or produced by a person making the entry; and
-  (b) every amendment of the entry; and
-  (c) in relation to any goods or class of goods deemed by regulations made under section 40(d) to have been entered under section 39(1), a document that, under those regulations, the chief executive requires to be lodged with the Customs before the goods or class of goods will be deemed to be entered; and
-  (d) in relation to any goods or class of goods deemed by regulations made under section 50(b) to have been entered under section 49(1), a document that, under those regulations, the chief executive requires to be lodged with the Customs before the goods or class of goods will be deemed to be entered.
-(1) Subject to section 130, where the chief executive is satisfied that an entry of goods contains an error or omission and that as a result—the chief executive may give notice in writing to the person who made the entry stating that unless, within 20 working days after the date on which notice is given, that person satisfies the chief executive that the person is entitled to be exempted from the imposition of a penalty under section 130, the chief executive will issue a penalty notice under subsection (2).
-  (a) an amount of duty payable under this Act has not been paid or declared for payment or would not have been paid or declared for payment; or
-  (b) the entry is otherwise materially incorrect,—
-(2) Where a person to whom a notice is given under subsection (1) does not, within the period referred to in that subsection, satisfy the chief executive that the person is entitled to be exempted under section 130 from the imposition of a penalty under this section, the chief executive shall issue a notice to that person requiring that person to pay to the chief executive by way of penalty and in addition to the duty, if any, payable under this Act,—
-  (a) in any case where, as a result of the error or omission, an amount of duty payable under this Act (not consisting solely of goods and services tax) has not been paid or declared for payment,—whichever is the greater:
-    (i) $50; or
-    (ii) an amount equal to 20% of the duty unpaid or not declared, up to a maximum amount of $10,000,—
-  (b) in any case (to which paragraph (a) does not apply) where the error or omission has resulted in the entry being materially incorrect or, as a result of the error or omission, an amount of goods and services tax was not paid or declared for payment, as the case may be, $50 in respect of each such entry.
-(3) The due date for the payment of any penalty imposed under this section is the date that is 20 working days after the date on which notice of the penalty is given by the chief executive.
-(4) The amount of the penalty constitutes a debt due to the Crown and is recoverable by action at the suit of the chief executive.
-(5) No person by or on whose behalf the amount of the penalty is paid is liable to prosecution for an offence in relation to the error or omission and the goods in relation to which the error or omission occurred are not liable to seizure under this Act.
-(6) Nothing in subsection (5) applies to a prosecution or seizure in relation to goods that have been forfeited to the Crown by reason of the importation or exportation of the goods being prohibited or unlawful.
-(7) For the purposes of this section, materially incorrect, in relation to an entry pursuant to section 39, means that the entry contains an error or omission in relation to any of the following matters:
-  (a) the identity of the overseas supplier:
-  (b) the identity of the importer:
-  (c) the identity of the person making the entry:
-  (d) the identification of the importing craft or its voyage number:
-  (e) the Bill of Lading, Air Waybill, or container identification details:
-  (f) the supplier's invoice number:
-  (g) any permit number or code:
-  (h) the Tariff item in which the goods are classified under the Tariff Act 1988:
-  (i) the statistical quantity of the goods:
-  (j) the currency code for the currency in which the goods are traded:
-  (k) the value for duty expressed in the currency in which the goods are traded:
-  (l) the value for duty expressed in New Zealand currency:
-  (m) the country of origin of the goods:
-  (n) the country from which the goods have been exported:
-  (o) the amount paid or payable to transport the goods to New Zealand from the country of exportation, including any amount paid or payable for internal transportation of the goods in that country:
-  (p) the insurance costs associated with transporting the goods to New Zealand, inclusive of any insurance costs in the country of exportation.
-(7A) For the purposes of this section, materially incorrect, in relation to an entry that is not an entry pursuant to section 39, means that the entry contains a material error or omission in relation to a matter that the entry is required by or under this Act to address.
-(8) Where any penalty imposed under this section remains unpaid by the due date for payment, there shall be imposed—
-  (a) an additional penalty of 5% of the amount of the penalty unpaid by the due date; and
-  (b) an additional penalty of 2% of the amount of the penalty, including any additional penalty, unpaid at the end of the period of 1 month after the due date; and
-  (c) an additional penalty of 2% of the amount of the penalty, including additional penalty, unpaid at the end of each succeeding period of 1 month.
-(9) Notwithstanding subsection (8), the chief executive may, in his or her discretion, remit or refund the whole or any part of any additional penalty imposed by that subsection.
-(10) Where the goods referred to in subsection (1) and entered pursuant to section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, then the penalty must be calculated according to subsection (2)(a) as if the duty liability had not so changed.
-(11) A person who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+### 128 Definitions for Part
+In this Part,—
+  - **entry** includes—
+    (a) an entry required under this Act; and
+    (b) every declaration, invoice, certificate, written statement, or other document required or authorised by or under this Act to be made or produced by a person making the entry; and
+    (c) every amendment of the entry; and
+    (d) for any goods or class of goods deemed by regulations made under section 40(d) to have been entered under section 39(1), a document that, under those regulations, the chief executive requires to be lodged with the Customs before the goods or class of goods will be deemed to be entered; and
+    (e) for any goods or class of goods deemed by regulations made under section 50(b) to have been entered under section 49(1), a document that, under those regulations, the chief executive requires to be lodged with the Customs before the goods or class of goods will be deemed to be entered
+  - **materially incorrect** means,—
+    (a) for an entry under section 39, that the entry contains an error or omission in relation to any of the following matters:
+      (i) the overseas supplier's identity:
+      (ii) the importer's identity:
+      (iii) the identity of the person making the entry:
+      (iv) the identification of the importing craft or its voyage number:
+      (v) the bill of lading, air waybill, or container identification details:
+      (vi) the supplier's invoice number:
+      (vii) any permit number or code:
+      (viii) the Tariff item in which the goods are classified under the Tariff Act 1988:
+      (ix) the statistical quantity of the goods:
+      (x) the currency code for the currency in which the goods are traded:
+      (xi) the value for duty expressed in the currency in which the goods are traded:
+      (xii) the value for duty expressed in New Zealand currency:
+      (xiii) the country of origin of the goods:
+      (xiv) the country from which the goods have been exported:
+      (xv) the amount paid or payable to transport the goods to New Zealand from the country of exportation, including any amount paid or payable for internal transportation of the goods in that country:
+      (xvi) the insurance costs associated with transporting the goods to New Zealand, inclusive of any insurance costs in the country of exportation:
+    (b) for an entry under section 49 in respect of goods for which drawbacks of duty may be allowed under section 117, that the entry contains a material error or omission in relation to a matter that the entry is required by or under this Act to address:
+    (c) for an entry that is not an entry under section 39 or 49, that the entry contains a material error or omission in relation to a matter that the entry is required by or under this Act to address.
 
-### 129 Obligation to pay penalty not suspended by appeal
-(1) The obligation to pay and the right to receive and recover any penalty imposed under section 128 are not suspended by any appeal or legal proceedings.
-(2) Subject to the provisions of subsection (3), if the appellant is successful in the appeal, the amount of the penalty imposed under this section shall forthwith be refunded to the appellant by the chief executive.
+### 128A Imposition of penalty
+(1) The chief executive may issue a penalty notice to a person if the chief executive is satisfied that—
+  (a) an entry of goods made by the person contains an error or omission; and
+  (b) either of the following applies:
+    (i) as a result of the error or omission, an amount of duty payable under this Act has not been paid or declared for payment or would not have been paid or declared for payment; or
+    (ii) the entry is otherwise materially incorrect.
+(2) The penalty notice may require the person to pay to the chief executive by way of penalty and in addition to the duty payable under this Act (if any) the amount referred to in section 128B(1).
+(3) Within 20 working days after the date on which the penalty notice is issued by the chief executive under subsection (1) (the due date), the person to whom it was issued—
+  (a) must pay the penalty:
+  (b) may request the chief executive to review the decision to issue the notice.
+(4) However, section 129(2) applies if the person to whom the penalty notice was issued requests the chief executive to review the decision to issue the notice under subsection (3)(b).
+(5) The amount of the penalty, including any additional penalty imposed under section 128C, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
+(6) A person who pays the amount of the penalty, or for whom that amount is paid, is not liable to prosecution for an offence in relation to the error or omission and the goods in relation to which the error or omission occurred are not liable to seizure under this Act.
+(7) Subsection (6) does not apply to a prosecution or seizure in relation to goods that have been forfeited to the Crown because the importation or exportation of the goods is prohibited or unlawful.
+(8) This section is subject to section 130.
+
+### 128B Calculation of amount of penalty
+(1) The amount of the penalty imposed under section 128A(2) is the amount specified under subsection (2) or (3), as the case may be.
+(2) If the error or omission has resulted in an amount of duty payable under this Act (including any liability for goods and services tax) not being paid or declared for payment, the amount is the greater of—
+  (a) $200; or
+  (b) an amount (up to a maximum of $50,000) that is equal to whichever one of the following applies:
+    (i) 20% of the duty unpaid or undeclared, if the chief executive is satisfied that the error or omission occurred because the person did not take reasonable care; or
+    (ii) 40% of the duty unpaid or undeclared, if the chief executive is satisfied that the error or omission occurred because the person was grossly careless; or
+    (iii) 100% of the duty unpaid or undeclared, if the chief executive is satisfied that the error or omission was made knowingly.
+(3) If the error or omission has resulted in the entry being materially incorrect, the amount is the greater of—
+  (a) $200 for each entry; or
+  (b) an amount (up to a maximum of $50,000) that is equal to whichever one of the following applies:
+    (i) 20% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person did not take reasonable care; or
+    (ii) 40% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person was grossly careless; or
+    (iii) 100% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission was made knowingly.
+(4) If the goods referred to in section 128A(1) and entered under section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)(b) as if the duty liability had not changed.
+
+### 128C Additional penalty may be imposed
+(1) The additional penalties specified in subsection (2) are imposed (as the case may be) on a person to whom a penalty notice is issued under section 128A(1) if the penalty remains unpaid by the due date referred to in section 128A(3), unless the chief executive decides that the notice should not have been issued following a request for review under section 128A(3)(b).
+(2) The additional penalties are—
+  (a) 5% of the amount of the penalty unpaid by the due date; and
+  (b) 2% of the amount of the penalty, including any additional penalty, unpaid at the end of the period of 1 month after the due date; and
+  (c) 2% of the amount of the penalty, including any additional penalty, unpaid at the end of each succeeding period of 1 month.
+(3) However, the chief executive may, in his or her discretion, remit or refund the whole or any part of any additional penalty imposed under subsection (1).
+
+### 128D Right of appeal to Customs Appeal Authority
+A person who is dissatisfied with a decision of the chief executive under section 128A, 128B, or 128C may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+
+### 129 Obligation to pay penalty not suspended by review or appeal
+(1) The obligation to pay and the right to receive and recover any penalty imposed under section 128A are not suspended by any request for review under section 128A(3)(b) or by any appeal or legal proceedings.
+(2) Subject to the provisions of subsection (3), if the person who requested the review, or the appellant, is successful, the amount of the penalty imposed under this section shall forthwith be refunded to the person or the appellant by the chief executive.
 (3) The provisions of section 92(3) and section 93 shall, with all necessary modifications, apply to an administrative penalty required to be refunded under this section as if such penalty were duty.
 
 ### 130 No penalty in certain cases
-A person is not liable to the imposition of a penalty under section 128, if—
+A person is not liable to the imposition of a penalty under section 128A, if—
   (a) that person has voluntarily disclosed the error or omission to the Customs before the Customs has notified the person that—
     (i) the goods to which the entry relates have been selected for examination by the Customs:
     (ii) documentation is required to be presented to the Customs in relation to that entry:
     (iii) the Customs intends to conduct an audit or investigation in relation to a selection of entries that includes that entry, or in relation to entries made over a period of time that includes the time the entry was made; or
   (b) that person satisfies the chief executive that the person formed a view as to the relevant facts pertaining to the entry which, while incorrect, was reasonable having regard to the information available to that person when the entry was prepared; or
   (c) that person satisfies the chief executive that he or she acted in good faith on information provided by the importer, exporter, or supplier of the goods to which the entry relates, and reliance on the accuracy or completeness of the information so provided was reasonable in the circumstances; or
-  (d) the total correct value for duty of the goods to which the error on the entry relates is less than $1,000; or
+  (d)
   (e) an information for an offence against this Act has been laid in relation to the error or omission; or
   (f) the period between the date of lodgement of the entry of the goods and the date on which the error or omission was first identified exceeds 4 years; or
   (g) the provisions of section 127 apply.
@@ -2249,11 +2310,20 @@ Sections 149A, 149B(1), and 149BA apply to—
   (b) a person in the process of disembarking from, or embarking on to, a craft described in paragraph (a); or
   (c) a person who, having entered into New Zealand at a Customs place, remains in that Customs place.
 
+### 149AA Powers in relation to unauthorised persons remaining in certain Customs controlled areas
+(1) This section applies to a person who remains in a Customs controlled area licensed for any of the purposes described in section 10(c) to (e) when directed to leave that area by a Customs officer.
+(2) A Customs officer may detain a person to whom this section applies for a reasonable period, for the purpose of questioning the person about 1 or more of the following matters:
+  (a) the person's identity:
+  (b) the person's residential address:
+  (c) the person's reason or purpose for entering, or remaining in, the Customs controlled area.
+(3) A Customs officer may remove a person to whom this section applies from the Customs controlled area.
+(4) A Customs officer may use reasonable force, if necessary, when exercising any of the powers conferred by subsections (2) and (3).
+
 ### 149A Preliminary search of persons by use of aids
 (1) A Customs officer or constable may conduct a preliminary search of a person to whom this section applies, and may detain that person for the purposes of conducting that preliminary search.
 (2) A preliminary search is a search that—
   (a) involves little or no physical contact between the person conducting the search and the person being searched; and
-  (b) is conducted by using an aid or aids such as a dog, or a chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device, or other similar aid, but not by any more invasive means.
+  (b) is conducted by using an aid or aids such as a Customs dog, or a chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device, or other similar aid, but not by any more invasive means.
 (3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), sections 149B to 149D apply.
 
 ### 149B Searching of persons if reasonable cause to suspect items hidden
@@ -2321,7 +2391,7 @@ Subject to section 173, the Customs may, at any time of the day or night, enter 
 (3) The powers conferred by subsection (1) extend to the examination, weighing, analysing, or testing of a suitcase, pallet, bulk cargo container, or other package.
 (4) The examination—
   (a) may include the physical or chemical testing of, or the drilling into, or the dismantling of, the goods; and
-  (b) may be facilitated by any means whatever (for example, by a dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device).
+  (b) may be facilitated by any means whatever (for example, by a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device).
 (5) Samples of goods subject to the control of the Customs or suspected to be subject to the control of the Customs may be taken and used by the Customs for the purposes of this section, and disposed of in the prescribed manner.
 (6) Any sample taken in accordance with subsection (5) must be as small as possible for the purpose for which it is taken.
 (7) A Customs officer must, subject to section 173, be allowed free access to all lands, buildings, and places, and to all goods in or on any lands, buildings, or places, for the purpose of exercising powers under this section in respect of goods that are, or are suspected to be,—
@@ -2601,7 +2671,7 @@ A Customs officer may, without warrant, seize and detain goods if—
 (8) As soon as practicable after an emergency warrant has expired, the Customs officer who applied for it, or, if that officer is not able to do so, another Customs officer, shall provide a written report, in the prescribed form, to the Judge or Justice or Community Magistrate or Registrar who granted the emergency warrant setting out the manner in which the emergency warrant has been executed and the results obtained by the execution of the warrant.
 
 ### 172 Use of aids by Customs officer
-(1) In exercising any power of boarding, entry, or search conferred by this Act, a Customs officer or any constable may have with him or her, and use for the purposes of searching, a dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
+(1) In exercising any power of boarding, entry, or search conferred by this Act, a Customs officer or any constable may have with him or her, and use for the purposes of searching, a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
 (2) Nothing in this section applies to a search carried out on residential premises except pursuant to a warrant issued under section 167 or 171.
 
 ### 173 Conditions applying to entry of buildings
@@ -2685,9 +2755,13 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 ### 177 Obstructing Customs officer or interfering with Customs property
 (1) Every person commits an offence who,—
   (a) otherwise than by force, intentionally obstructs any Customs officer acting in the execution of his or her duties; or
-  (b) intentionally interferes with any equipment, vehicle, craft, dog, communications system, or other aid used, or intended for use, by the Customs; or
-  (c) does any act with the intention of impairing the effectiveness of any equipment, vehicle, craft, dog, communications system, or other aid used, or intended for use, by the Customs.
+  (b) intentionally interferes with a Customs dog, or any equipment, vehicle, craft, communications system, or other aid used, or intended for use, by the Customs; or
+  (c) does any act with the intention of impairing the effectiveness of a Customs dog, or any equipment, vehicle, craft, communications system, or other aid used, or intended for use, by the Customs.
 (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+
+### 177AA Killing or injuring Customs dog
+(1) Every person who intentionally kills, maims, wounds, or otherwise injures a Customs dog without lawful authority or reasonable excuse commits an offence.
+(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
 
 ### 177A False allegation or report to Customs officer
 (1) Every person commits an offence who,—
@@ -3143,7 +3217,7 @@ For the purposes of this Act,—
   (a) fails to attend in accordance with the summons; or
   (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by the Authority to answer concerning the subject of the proceedings; or
   (c) fails to produce any paper, document, record, or thing.
-(4) No person summoned to attend proceedings before an Authority shall be convicted of an offence against subsection (3) of this section unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under section 265(2).
+(4) No person summoned to attend proceedings before an Authority shall be convicted of an offence against subsection (3) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under section 265(2).
 (5) Every person commits an offence who—
   (a) wilfully obstructs or hinders an Authority or any person authorised by an Authority in any inspection or examination of papers, documents, records, or things pursuant to section 261(1)(a); or
   (b) without sufficient cause, fails to comply with any requirement of an Authority or any person authorised by an Authority made under section 261(1)(b); or
@@ -3188,14 +3262,18 @@ Except where this Act otherwise provides, every offence against this Act, or aga
 (3) The recovery of any amount under this section in respect of a claim does not extinguish the claim for duty, but shall be taken into account in determining the amount (if any) to be awarded in any subsequent proceedings that may be taken in respect of that claim.
 
 ### 223 Power of chief executive to deal with petty offences
-(1) Subsection (2) applies to the following offences:
-  (a) an offence against this Act that is committed in relation to goods—
-    (i) the Customs value of which does not exceed $1,000; or
-    (ii) on which duty payable under this Act does not exceed $1,000; or
-    (iii) on which the duty evaded or attempted to be evaded does not exceed $1,000:
-  (b) an offence against any of sections 180, 181, 186, and 194A.
-(2) If a person admits in writing that he or she has committed an offence to which this subsection applies and requests that the offence be dealt with summarily by the chief executive, the chief executive may, at any time before an information has been laid in respect of the offence, accept from that person payment of any sum, not exceeding $500, that the chief executive thinks just in the circumstances of the case in full satisfaction of any fine or other penalty to which the person would otherwise be liable under this Act.
-(3) If the chief executive accepts any sum under subsection (2), the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
+(1) This section applies to the following offences:
+  (a) an offence against this Act that is committed—
+    (i) in relation to goods; and
+    (ii) in circumstances that the chief executive is satisfied would not amount to more than minor offending:
+  (b) an offence against this Act that is not punishable by imprisonment.
+(2) At any time before an information is laid against a person for an offence to which this section applies, the chief executive may accept from the person—
+  (a) a written admission that he or she committed the offence; and
+  (b) a request that the offence be dealt with summarily by the chief executive; and
+  (c) payment of an amount, not exceeding the limit specified in subsection (2B), that the chief executive thinks just in the circumstances of the case in full satisfaction of any fine or other penalty to which the person would otherwise be liable under this Act.
+(2A) For the purposes of subsection (2), the chief executive may indicate to the person at the time of the commission of the alleged offence or as soon as practicable after that whether the chief executive considers that the offence is an offence to which this section applies.
+(2B) The amount referred to in subsection (2)(c) must not exceed one-third of the maximum total monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
+(3) If the chief executive accepts payment of an amount under subsection (2)(c), the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
 (4) If the chief executive declines to exercise his or her power under subsection (2), the admission in writing made by the offender is not admissible as evidence in any prosecution for that offence.
 
 ## Part 14 — Forfeiture and seizure
@@ -3626,6 +3704,7 @@ Subject to any limitations imposed in regulations made under this Act, the chief
 (3) Without limiting the power to make regulations conferred by section 286, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing that any separate postal articles and goods contained in them, whether addressed to the same or to different persons, may be treated for the purposes of this Act as a single postal article consigned to a single person:
   (b) prescribing the persons who are to be deemed for the purposes of this Act to be the importers or exporters of such postal articles or goods.
+(4) For the purposes of this Act, a postal article is deemed to have been produced or delivered to a Customs officer when it is brought within a Customs controlled area.
 
 ### 277 Declarations under this Act
 (1) Every declaration, including a declaration that is made and transmitted electronically, that is required or authorised by this Act must be made in the prescribed form.
@@ -3948,6 +4027,142 @@ In sections 280K and 280L, unless the context otherwise requires,—
   (d) the protection of the health and safety of members of the public.
 (5) Nothing in this section limits section 38L(3)(a) or section 38O.
 
+### 282B Access by accessing agency to border information
+(1) The purpose of this section is to facilitate the exchange of information between agencies at the border to enable them to co-ordinate their border protection functions.
+(2) An accessing agency may, for the purpose of this section, access any border information held by a holder agency if the access is authorised by regulations made under this Act.
+(3) In this section,—
+  - **accessing agency** means any agency or any class of agencies for the time being specified in regulations made under this Act as an agency or a class of agencies to which border information is available
+  - **border information** —
+    (a) means any information or class of information that is—
+      (i) held by a holder agency; and
+      (ii) specified in regulations made under this Act; and
+    (b) includes, without limitation, information about—
+      (i) goods, persons, or craft:
+      (ii) import or export transactions:
+      (iii) importers or exporters
+  - **holder agency** means any agency or any class of agencies for the time being specified in regulations made under this Act as an agency or a class of agencies whose border information is available to an accessing agency.
+
+### 282C Chief executive must review operation of section 282B
+(1) After the expiry of 5 years, but before the expiry of 6 years, after the commencement of section 282B, the chief executive must—
+  (a) review the operation of that section; and
+  (b) assess the impact of that section on the privacy of individuals, in consultation with the Privacy Commissioner; and
+  (c) consider whether any amendments to the law are necessary or desirable and, in particular, whether there is a need to retain this section and sections 282B, 286A, and 286B; and
+  (d) report his or her findings to the Minister.
+(2) The Minister must present a copy of a report provided under this section to the House of Representatives as soon as practicable after receiving it.
+
+**Definitions for information-sharing provisions**
+
+### 282D Definitions
+In this section and sections 282E to 282L, unless the context otherwise requires,—
+  - **access** , in relation to any information, means search, inspect, copy, process, analyse, manipulate, receive, or otherwise make use of the information in a way that is consistent with the purpose for which access has been allowed
+  - **biosecurity-related border management function** means—
+    (a) any function, duty, or power imposed or conferred on the Ministry by or under Part 3 of the Biosecurity Act 1993:
+    (b) any other function, duty, or power imposed or conferred on the Ministry by or under the Biosecurity Act 1993 that is necessary—
+      (i) to achieve the purpose of Part 3 of that Act; or
+      (ii) for the administration of Part 3 of that Act:
+    (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
+      (i) the Food Act 1981:
+      (ii) the Hazardous Substances and New Organisms Act 1996:
+      (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
+      (iv) the Animal Products Act 1999:
+      (v) the Wine Act 2003:
+      (vi) any other Act specified by Order in Council made under section 165A of the Biosecurity Act 1993
+  - **border information** —
+    (a) means information—
+      (i) that is required to be supplied to the Ministry or the Customs by or under this Act or Part 3 of the Biosecurity Act 1993, or both, for a border protection purpose; or
+      (ii) that is otherwise lawfully supplied or collected for a border protection purpose; and
+    (b) includes, without limitation, information about—
+      (i) goods, persons, or craft:
+      (ii) import or export transactions:
+      (iii) importers or exporters; and
+    (c) also includes data or information that is derived from, or related to, any information referred to in paragraphs (a) and (b) or any analysis of that information
+  - **border protection purpose** means any lawful purpose relating to, or connected with, the performance or exercise of either or both of the following, as the case may be:
+    (a) a biosecurity-related border management function:
+    (b) a customs-related border management function
+  - **computer system** —
+    (a) means—
+      (i) a computer; or
+      (ii) 2 or more interconnected computers; or
+      (iii) any communication links between computers or from computers to remote terminals or other devices; or
+      (iv) 2 or more interconnected computers combined with any communication links between computers or from computers to remote terminals or other devices; and
+    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored information
+  - **Customs** includes the chief executive and any Customs officer
+  - **customs-related border management function** means any function, duty, or power imposed or conferred on the Customs by or under this Act that is necessary—
+    (a) to achieve the purpose of this Act; or
+    (b) for the administration of this Act
+  - **Director-General** means the chief executive of the Ministry
+  - **Joint Border Management System** or means an integrated border management computer system that—
+    (a) is designed for the collection, storage, and use of border information by the Ministry and the Customs; and
+    (b) is administered by, and under the control of, the Customs
+  - **Ministry** —
+    (a) means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Biosecurity Act 1993; and
+    (b) includes—
+      (i) the Director-General; and
+      (ii) any inspector appointed under section 103 of the Biosecurity Act 1993.
+
+**Interim arrangements for information sharing**
+
+### 282E Purpose of sections 282F to 282H
+The purpose of sections 282F to 282H is to support certain interim information-sharing measures (relating to joint border management initiatives between the Ministry and the Customs) that are required to be in place until the JBMS becomes operational by allowing—
+  (a) the Customs to collect or store any border information:
+  (b) the Ministry to access that border information for a biosecurity-related border management function.
+
+### 282F Interim collection of border information
+(1) The Customs may—
+  (a) collect any border information:
+  (b) store any border information.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
+
+### 282G Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
+(1) A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Customs if, instead of to the Customs, the person supplies the border information to—
+  (a) the Ministry, for the purposes of, and in accordance with, section 41C(1) of the Biosecurity Act 1993:
+  (b) an agency appointed under section 41C(3) of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
+(2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under section 41C(3) of the Biosecurity Act 1993.
+
+### 282H Interim access to border information
+(1) The chief executive may, in accordance with a written agreement entered into by the chief executive and the Director-General, allow the Ministry to access any border information that was or is collected or stored by the Customs before, on, or after the commencement of this section.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 or 11 of the Privacy Act 1993.
+(3) An agreement must state—
+  (a) the purpose of the agreement; and
+  (b) the border information that can be accessed; and
+  (c) the conditions subject to which the border information will be accessed; and
+  (d) how the Ministry will use the border information (including the limits on any further disclosure by the Ministry); and
+  (e) the method and form of access.
+(4) An agreement may be varied by the chief executive and the Director-General in writing.
+(5) The chief executive and the Director-General must consult the Privacy Commissioner before entering into or varying an agreement.
+(6) To avoid doubt, nothing in subsection (1) limits or prevents the Ministry from carrying out an analysis of any border information to which it has access under that subsection for the purpose of examining risk patterns or risk profiles in relation to any or all of the following:
+  (a) goods, persons, or craft:
+  (b) import or export transactions:
+  (c) importers or exporters.
+
+### 282I Expiry of sections 282E to 282H and agreements made under section 282H
+(1) The following expire, or must be taken to have expired, on 1 July 2015 or on a later date appointed by the Governor-General by Order in Council made on the recommendation of the Minister:
+  (a) sections 282E to 282H:
+  (b) any agreement made under section 282H.
+(2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the implementation of the JBMS.
+
+**Information sharing for joint border management**
+
+### 282J Collection of border information
+(1) The Customs may—
+  (a) collect any border information:
+  (b) store any border information in the JBMS.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
+
+### 282K Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
+A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Customs if, instead of to the Customs, the person supplies the border information to—
+  (a) the Ministry, for the purposes of, and in accordance with, section 41G(1) of the Biosecurity Act 1993:
+  (b) an agency appointed under section 41G(3) of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41G(1) of that Act.
+
+### 282L Customs may access border information
+(1) The Customs may access any border information stored in the JBMS that is needed for, or relevant to, a customs-related border management function.
+(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 of the Privacy Act 1993.
+(3) Subsections (1) and (2) apply to any border information stored in the JBMS, whether the border information was or is collected before, on, or after the commencement of this section.
+(4) To avoid doubt, nothing in subsection (1) limits or prevents the Customs from carrying out an analysis of any border information to which it has access under that subsection for the purpose of examining risk patterns or risk profiles in relation to any or all of the following:
+  (a) goods, persons, or craft:
+  (b) import or export transactions:
+  (c) importers or exporters.
+
 ### 283 Chief executive to give written reasons for decisions open to appeal to Customs Appeal Authority
 Without limiting any other obligation imposed on the chief executive to give notice in writing or to give reasons, in any case where a decision of the chief executive is open to an appeal to a Customs Appeal Authority, the notice of the decision of the chief executive must be given without undue delay and shall include or be accompanied by a written statement of the reasons for that decision.
 
@@ -4045,6 +4260,36 @@ Without limiting any other obligation imposed on the chief executive to give not
   (d) limiting the age of any person involved in the manufacture or use of the goods:
   (e) limiting the quantity of goods that may be produced by any measure or other form of description.
 (2) Different dates for the payment of excise duty may be prescribed in accordance with subsection (1)(m) in respect of different classes of goods subject to excise duty, or different classes of persons, or on any other differential basis.
+
+### 286A Regulations relating to information sharing
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of section 282B—
+  (a) specifying any agency or any class of agencies as an accessing agency:
+  (b) specifying any information or any class of information held by a holder agency as border information available to an accessing agency:
+  (c) specifying any agency or any class of agencies as a holder agency:
+  (d) authorising an accessing agency to access border information held by a holder agency:
+  (e) prescribing the conditions under which an accessing agency may access border information held by a holder agency.
+(2) Before recommending the making of regulations under this section, the Minister must consider the following matters and consult on them in accordance with subsection (3):
+  (a) whether the proposed regulations are consistent with the purpose of section 282B and how they are consistent with that purpose:
+  (b) whether the border information to be made available to an accessing agency under the proposed regulations includes personal information:
+  (c) if the border information to be made available to an accessing agency under the proposed regulations includes personal information,—
+    (i) the amount of personal information to be made available:
+    (ii) whether that personal information represents a significant or negligible proportion of the border information:
+    (iii) the sensitivity of that personal information:
+    (iv) the level of accuracy of that personal information:
+    (v) whether the proposed regulations will be consistent with, or will detract from, the information privacy principles of the Privacy Act 1993:
+    (vi) whether there are alternative ways to achieve the purpose of section 282B besides making personal information available under the proposed regulations.
+(3) The Minister must—
+  (a) consult with the following:
+    (i) the Privacy Commissioner:
+    (ii) the agencies that may be affected by the proposed regulations:
+    (iii) those organisations considered by the Minister to be representative of interests likely to be substantially affected by the proposed regulations:
+    (iv) members of the public; and
+  (b) give public notice of the consultation being undertaken; and
+  (c) take the results of the consultation into account.
+
+### 286B Regulations made under section 286A to be confirmed
+(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Regulations (Disallowance) Act 1989 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly validated and confirmed by an Act of Parliament passed before that date.
+(2) The validity of any regulations made under section 286A is not affected merely because of the repeal of an Act of Parliament validating and confirming them.
 
 ### 287 Regulations for fees, charges, and expenses
 (1) Without limiting the power to make regulations conferred by any other section of this Act, but subject to the provisions of this Act, the Governor-General may from time to time, by Order in Council, make regulations—
