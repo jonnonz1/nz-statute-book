@@ -1,0 +1,11 @@
+# Military Manoeuvres Act Repeal Act 2012
+_Consolidation as at 2012-04-11_
+
+### 1 Title
+This Act is the Military Manoeuvres Act Repeal Act 2012.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Repeal of Military Manoeuvres Act 1915
+The Military Manoeuvres Act 1915 (1915 No 42) is repealed.
