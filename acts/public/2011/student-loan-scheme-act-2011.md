@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-04-12_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -25,6 +25,7 @@ The purposes of this Act are to—
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **adjusted net income** has the meaning given to it in section 88A
   - **annual gross income** has the same meaning as in section BC 2 of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced income as if the borrower were a New Zealand resident
   - **annual repayment threshold** means—
     (a) $19,084 for the tax year commencing on 1 April 2012 and for each subsequent tax year to which regulations referred to in paragraph (b) do not apply; or
@@ -40,7 +41,8 @@ The purposes of this Act are to—
   - **Commissioner deduction** means a deduction from a borrower's salary or wages in accordance with section 38
   - **consolidated loan balance** means the total amount incurred by a borrower and outstanding under the student loan scheme and this Act, consisting of—
     (a) the loan balance; and
-    (b) any unpaid amount
+    (b) any unpaid amount; and
+    (c) any interest calculated and accrued under section 135(1)
   - **declaration of pre-taxed income** means a declaration in accordance with section 74
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
   - **employer or PAYE intermediary** means an employer or a person acting as a PAYE intermediary for the employer
@@ -72,16 +74,16 @@ The purposes of this Act are to—
   - **loan contract** means any loan agreement or contract entered into by the lender and the borrower under the student loan scheme
   - **loan interest** means interest that a borrower is liable to pay under section 134(1)
   - **loan manager** means any person who is appointed by the lender to make, charge, and administer loan advances under the student loan scheme
-  - **net income** means a borrower's net income calculated in accordance with the formula—a = b − cwhere—ais the borrower's net incomebis the borrower's annual gross incomecis the borrower's annual total deductionshowever, if the sum of b − c is less than zero, then a must be treated as if it were zero
+  - **net pre-taxed income** has the meaning given to it in section 73
   - **New Zealand-based** has the meaning given to it in section 22
   - **New Zealand resident** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **non-resident** means a person who is not a New Zealand resident
   - **notify** has the meaning given to it in section 211
   - **notify a person in writing** has the meaning given to it in section 212
   - **other income** , in relation to a tax year, means,—
-    (a) if a borrower is required to file a return of income for that tax year, the borrower's net income for that tax year other than from salary or wages or pre-taxed income:
-    (b) if a borrower is required to provide details of his or her annual gross income and annual total deductions under section 114 for that tax year, the borrower's net income for that tax year other than from salary or wages or pre-taxed income
-  - **other income repayment obligation** means the repayment obligation of a New Zealand-based borrower for the other income the borrower derives for a tax year, calculated in accordance with section 91
+    (a) if a borrower is required to file a return of income for that tax year, the borrower's adjusted net income for that tax year other than from pre-taxed income:
+    (b) if a borrower is required to provide details of his or her annual gross income and annual total deductions under section 114 for that tax year, the borrower's adjusted net income for that tax year other than from pre-taxed income
+  - **other income repayment obligation** means the repayment obligation of a New Zealand-based borrower for the adjusted net income the borrower derives for a tax year, calculated in accordance with section 90 or 91
   - **overseas-based** has the meaning given to it in section 23
   - **overseas-based repayment obligation** means the repayment obligation of an overseas-based borrower under subpart 4 of Part 2
   - **pay period** , for a borrower who receives a payment of salary or wages, means the period for which that payment is payable
@@ -127,7 +129,7 @@ The purposes of this Act are to—
     (b) does not include—
       (i) salary or wages from employment as a casual agricultural employee, as defined in section YA 1 of the Income Tax Act 2007:
       (ii) salary or wages from employment as an election day worker, as defined in section YA 1 of the Income Tax Act 2007
-  - **significant over-deduction** means a standard deduction, from a borrower who does not derive other income in the tax year in which the deduction is made, that—
+  - **significant over-deduction** means a standard deduction that—
     (a) is more than the amount that is required to be deducted in accordance with section 37; and
     (b) exceeds the threshold determined by the Commissioner in accordance with section 63(1)
   - **significant under-deduction** means a standard deduction that—
@@ -137,7 +139,7 @@ The purposes of this Act are to—
     (b) exceeds the threshold determined by the Commissioner in accordance with section 63(1)
   - **special deduction rate** means a special deduction rate specified in a special deduction rate certificate that is issued in relation to a borrower under—
     (a) section 45 (special deduction rate certificate for unused repayment threshold); or
-    (b) section 102 (special deduction rate certificate for lower repayment obligation); or
+    (b)
     (c) section 148 (special deduction rate certificate for hardship relief)
   - **standard deduction** means a deduction from a borrower's salary or wages in accordance with section 36(2)
   - **student loan** means any loan assistance provided to a borrower by means of a loan contract
@@ -240,8 +242,8 @@ Every loan contract entered into after 31 March 2012 must specify the following 
   (d) the amount of the student loan establishment fee charged under section 14:
   (e) the amount of the annual administration fee charged under section 189:
   (f) the borrower's right, under section 15, to cancel the loan contract:
-  (g) the borrower's right, under sections 167 to 171, to object to the details of a loan advance set out in a notification given to the borrower in accordance with section 18:
-  (h) the date on or before which an objection by a borrower under section 167 must be received by the loan manager (see section 18(2)(e)):
+  (g) the borrower’s right to object to the details of loan advances set out in a notification given to the borrower in accordance with section 18:
+  (h) the timeframe within which an objection by a borrower under section 167 must be received by the loan manager (see section 18(2)(e)):
   (i) any further information specified in regulations.
 
 ### 14 Student loan establishment fee
@@ -378,7 +380,7 @@ For the purposes of sections 22 and 23, if a borrower is physically in New Zeala
   (h) the borrower is undertaking study that meets the requirements of clause 8 of Schedule 1; or
   (i) the borrower is undertaking study that meets the requirements of clause 9 of Schedule 1; or
   (j) the borrower is in 1 or more of Niue, the Cook Islands, Tokelau, or the Ross Dependency.
-(2) Subsection (1)(b) to (j) are subject to the conditions set out in, as applicable, clauses 2 to 10 of Schedule 1.
+(2) Subsection (1)(b) to (j) are subject to the conditions set out in, as applicable, clauses 2 to 11 of Schedule 1.
 
 ### 26 Method of making application and provision of evidence and information
 A borrower who applies to the Commissioner to be treated as being physically in New Zealand under section 25(1) must—
@@ -454,10 +456,12 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (1) For the purpose of the application of the PAYE rules under section 70, the repayment code of all New Zealand-based borrowers who derive salary or wages is either—
   (a) SL; or
   (b) STC.
-(2) The repayment code STC applies to a borrower only if—
-  (a) a special deduction rate applies to the borrower; and
-  (b) the borrower's employer is notified in writing that the special deduction rate applies to the borrower.
-(3) If another Act requires an employer to withhold an amount of tax for a PAYE income payment to a borrower and pay the amount to the Commissioner, the repayment code STC may be combined with another code applying under that Act.
+(2) The repayment code STC applies to a borrower if—
+  (a) the employer is issued with a special tax code certificate under section 24F of the Tax Administration Act 1994; or
+  (b) the Commissioner requires or permits its use in any other case.
+(3) If another Act requires an employer to withhold an amount of tax for a PAYE income payment to a borrower and pay the amount to the Commissioner,—
+  (a) the repayment code SL may be combined with another code under that Act; and
+  (b) the repayment code STC may be combined into another code under that Act.
 
 ### 35 Borrowers with SL repayment code must notify employers
 (1) A borrower whose repayment code is SL must notify his or her employer in a manner acceptable to the Commissioner.
@@ -465,8 +469,8 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
   (a) after the later of—
     (i) the time at which the borrower becomes an employee of the employer; and
     (ii) the time at which the borrower becomes a borrower; and
-  (b) if a special deduction rate ceases to apply to the borrower; and
-  (c) if the borrower wants a special deduction rate to cease to apply to him or her.
+  (b) if an STC repayment code ceases to apply to the borrower.
+  (c)
 
 **Salary or wage deductions**
 
@@ -474,14 +478,14 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (1) This section applies if—
   (a) a borrower has notified his or her employer under section 35; or
   (b) the Commissioner has notified a borrower's employer or PAYE intermediary that the repayment code that should be applied to the borrower's salary or wages is SL; or
-  (c) a borrower's employer has been notified in writing that a special deduction rate applies to the borrower.
+  (c) a borrower's employer has been notified in writing that an STC repayment code applies to the borrower.
 (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount in accordance with section 37(1) or (2).
 
 ### 37 Deduction rates that apply to standard deductions from salary or wages
-(1) If a borrower's repayment code is SL, deductions must be made at the rate of 10 cents in each complete dollar from—
+(1) If the employer of a borrower has not been notified that a special deduction rate applies to the borrower, deductions must be made at the rate of 10 cents in each complete dollar from—
   (a) so much of the primary employment earnings paid to the borrower as exceeds the pay period repayment threshold; and
   (b) any secondary employment earnings paid to the borrower.
-(2) If a borrower's repayment code is STC, deductions must be made at the special deduction rate specified in the applicable special deduction rate certificate from—
+(2) If the employer has been notified that a special deduction rate applies to the borrower, deductions must be made at the special deduction rate specified in the applicable special deduction rate certificate from—
   (a) the primary employment earnings paid to the borrower; and
   (b) any secondary employment earnings paid to the borrower.
 (3) If the repayment percentage is changed by regulations, the deduction rate in subsection (1) is changed accordingly.
@@ -498,7 +502,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount at the additional deduction rate specified in the notice.
 (3) Deductions made in accordance with this section must—
   (a) be made in addition to standard deductions and, if applicable, borrower deductions; and
-  (b) have the tax code SLCIR applied to them; and
+  (b) have the repayment code SLCIR applied to them; and
   (c) continue to be made until the earlier of the date on which—
     (i) the Commissioner notifies the employer or PAYE intermediary otherwise; or
     (ii) the deductions equal the amount specified in the additional deduction rate notice in accordance with section 49(2)(b).
@@ -509,7 +513,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount at the additional deduction rate, or of the amount, requested by the borrower.
 (3) Deductions made in accordance with this section must—
   (a) be made in addition to standard deductions and, if applicable, Commissioner deductions; and
-  (b) have the tax code SLBOR applied to them; and
+  (b) have the repayment code SLBOR applied to them; and
   (c) continue to be made until the borrower notifies his or her employer or PAYE intermediary otherwise.
 (4) Nothing in this section limits section 36, 37, or 38.
 
@@ -520,6 +524,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (2) The chief executive—
   (a) must not make a salary or wage deduction from the income-tested benefit; and
   (b) must make a deduction from the income-tested benefit of an amount determined by the Commissioner in consultation with the chief executive.
+(2A) If the amount of the deduction determined under subsection (2)(b) is zero, then sections 34 and 35 do not apply.
 (3) This section overrides sections 36(2), 38, and 39.
 (4) In this section,—
   - **equivalent gross amount** means the sum of—
@@ -538,8 +543,8 @@ In sections 42 to 48,—
 ### 42 Application for unused repayment threshold to be allocated to secondary employment earnings
 (1) Subsection (2) applies to a New Zealand-based borrower who, for a quarter,—
   (a) has 1 or more sources of secondary employment earnings; and
-  (b) has an unused repayment threshold for a pay period that is greater than zero; and
-  (c) does not derive other income.
+  (b) has an unused repayment threshold for a pay period that is greater than zero.
+  (c)
 (2) The borrower may apply to the Commissioner for the borrower's unused repayment threshold for a pay period to be allocated to the borrower's secondary employment earnings.
 (3) The borrower must apply by notifying the Commissioner, in a manner acceptable to the Commissioner, of—
   (a) the borrower's estimated salary or wages; and
@@ -558,14 +563,14 @@ A borrower's unused repayment threshold for a pay period is calculated in accord
 
 ### 45 Special deduction rate certificate for unused repayment threshold
 Upon receiving an application in accordance with section 42, the Commissioner may issue a special deduction rate certificate that, in relation to the borrower's secondary employment earnings,—
-  (a) specifies a special deduction rate that reflects the borrower's unused repayment threshold for a pay period; and
+  (a) specifies a special deduction rate and the repayment code to be used that reflects the borrower's unused repayment threshold for a pay period; and
   (b) specifies the period for which the special deduction rate is to apply to the borrower; and
   (c) requires the borrower's employer or PAYE intermediary to make deductions from the borrower's salary or wages at the special deduction rate.
 
 ### 46 Issue and application of special deduction rate certificate
 (1) If the Commissioner issues a special deduction rate certificate under section 45, the Commissioner must give a copy of the certificate to the borrower.
 (2) The special deduction rate certificate—
-  (a) revokes all other special deduction rate certificates previously issued in relation to the borrower under section 45 or 102; and
+  (a) revokes all other special deduction rate certificates previously issued in relation to the borrower under section 45; and
   (b) does not limit the application of sections 147 to 153 (concerning hardship relief).
 
 ### 47 Ongoing obligations of borrower to review and notify
@@ -588,7 +593,7 @@ The special deduction rate applies until the earlier of—
 ### 49 Commissioner must issue additional deduction rate notice to obtain Commissioner deductions
 (1) The Commissioner may obtain Commissioner deductions from a borrower's salary or wages if—
   (a) there is a significant under-deduction in relation to the borrower in the current tax year or in any prior tax year that the Commissioner reasonably believes has occurred because of—
-    (i) an error by the borrower's employer; or
+    (i) an error or omission by the borrower's employer or PAYE intermediary; or
     (ii) an error or omission by the borrower; or
   (b) the borrower has an unpaid amount.
 (2) To obtain Commissioner deductions from a borrower's salary or wages, the Commissioner must issue an additional deduction rate notice that—
@@ -604,7 +609,7 @@ The special deduction rate applies until the earlier of—
     (i) that an additional deduction rate notice has been issued in relation to the borrower under section 49(2); and
     (ii) that Commissioner deductions will be made from the borrower's salary or wages; and
     (iii) of all of the information in that notice.
-(2) An additional deduction rate notice issued in relation to a borrower revokes an additional deduction rate notice previously issued in relation to the borrower.
+(2) An additional deduction rate notice issued to an employer or a PAYE intermediary in relation to a borrower revokes an additional deduction rate notice previously issued to that employer or PAYE intermediary in relation to the borrower.
 (3) Nothing in section 49 or this section limits the application of sections 147 to 153 (concerning hardship relief).
 
 **Further means of recovering amounts that remain unpaid**
@@ -612,11 +617,11 @@ The special deduction rate applies until the earlier of—
 ### 51 Assessment of standard deductions that ought to have been made
 (1) This section applies if, in relation to a borrower,—
   (a) there is a significant under-deduction in the current tax year or in any prior tax year that the Commissioner reasonably believes has occurred because—
-    (i) of a deliberate action or omission by the borrower; or
+    (i) of a deliberate action or omission by the borrower or by the borrower's employer or PAYE intermediary; or
     (ii) the borrower has prevented a standard deduction from being made; or
   (b) the Commissioner has been unable to obtain Commissioner deductions for the purposes set out in section 49(1)(a); or
   (c) the Commissioner is satisfied that he or she will be unable to obtain Commissioner deductions within a reasonable period of time from the borrower's future salary or wages for the purposes set out in section 49(1)(a).
-(2) However, this section does not apply if the borrower derives other income within the tax year in question.
+(2)
 (3) The Commissioner may make an assessment in relation to the borrower to determine the standard deductions that ought to have been made for any period.
 (4) In making an assessment under this section, the Commissioner may have regard to any information that the Commissioner considers to be relevant.
 (5) The assessment must be made in accordance with this subpart and the loan contract.
@@ -653,8 +658,11 @@ In sections 54 to 60,—
 ### 54 Borrowers who are eligible for exemption from standard deductions
 (1) This section applies to a New Zealand-based borrower who—
   (a) is a full-time student in a tax year (year A); and
-  (b) reasonably expects that his or her gross income from salary or wages and pre-taxed income for year A will not exceed the annual repayment threshold for year A; and
-  (c) does not derive other income.
+  (b) reasonably expects that the annual repayment threshold for year A will not be exceeded by his or her—
+    (i) gross income from salary or wages; and
+    (ii) in the case of a borrower to whom subpart 2 applies, net pre-taxed income; and
+    (iii) in the case of a borrower to whom subpart 3 applies, adjusted net income.
+  (c)
 (2) The borrower may obtain an exemption from future standard deductions for an exemption period by making a declaration in accordance with section 55.
 
 ### 55 Declaration by eligible borrowers for exemption from standard deductions
@@ -750,7 +758,7 @@ A borrower may withdraw a declaration under section 55 by—
 (1) If a borrower reasonably believes that a significant over-deduction was made in relation to him or her, the borrower—
   (a) may request the Commissioner to determine whether a significant over-deduction was made; and
   (b) must provide any evidence or information that the Commissioner may reasonably require in order to establish whether a significant over-deduction was made.
-(2) The borrower must make a request under subsection (1)(a) within 6 months after the date on which the borrower believes the significant over-deduction was made.
+(2) The borrower must make a request under subsection (1)(a) within 6 months after the date on which the significant over-deduction is believed to have occurred.
 (3) A request under subsection (1)(a) must be made by notifying the Commissioner (see section 211).
 
 ### 66 Commissioner must determine whether significant over-deduction made
@@ -766,8 +774,9 @@ If the Commissioner receives a request in accordance with section 65, the Commis
   (a) that a significant over-deduction has been made in relation to the borrower; and
   (b) of the amount of the over-deduction; and
   (c) that the over-deduction has been offset against the borrower's consolidated loan balance; and
-  (d) that the borrower may choose to receive a refund of the over-deduction (see sections 199 and 200); and
+  (d) that the borrower may, subject to subsections (2A) and (3), choose to receive a refund of the over-deduction (see sections 199 and 200); and
   (e) of the time frame within which the borrower must notify the Commissioner if the borrower chooses to receive a refund of the over-deduction.
+(2A) In any case where there is also, in relation to the borrower and any tax year, a significant under-deduction or an unpaid amount that the Commissioner has at any time identified, the significant under-deduction or unpaid amount may be offset against the significant over-deduction before any refund is made.
 (3) To receive a refund of the over-deduction, the borrower must notify the Commissioner in a manner acceptable to the Commissioner within 6 months after the date on which the borrower was notified in accordance with subsection (2).
 (4) A choice made by the borrower to receive a refund of the over-deduction is irrevocable.
 
@@ -795,12 +804,16 @@ This subpart applies to New Zealand-based borrowers—
   (b) whose income from net pre-taxed income and salary or wages (if any) for that tax year is $1,500 or more above the annual repayment threshold; and
   (c) who do not derive other income for that tax year.
 
-### 73 Definitions relating to net pre-taxed income
-In this subpart,—a = b − cwhere—ais the borrower's net pre-taxed income for the tax yearbis the borrower's pre-taxed income (as defined in section 4(1)) for the tax yearcis the borrower's allowable expenses for the tax year.
+### 73 Meaning of net pre-taxed income
+(1) In this Act, net pre-taxed income, in relation to a borrower for a tax year, means the amount calculated in accordance with the formula—a = b – cwhere—ais the borrower’s net pre-taxed income for the tax yearbis the borrower’s pre-taxed income (as defined in section 4(1)) for the tax yearcis the borrower’s allowable expenses for the tax year.
+(2) However, the pre-taxed income and allowable expenses for any investment activity for a tax year are ignored when calculating a borrower's net pre-taxed income for that tax year if, treating the borrower as having only the pre-taxed income and allowable expenses of that activity, the borrower would have a net loss for that year.
+(3) For the purposes of applying subsection (2), 2 or more investment activities may be treated as a single activity if the Commissioner considers that those investment activities are of a kind that are normally carried on in association with each other.
+(4) For the purposes of applying subsection (2), as modified by subsection (3), allowable expenses that relate to an asset used in carrying on 2 or more investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
+(5) In this section,—
   - **allowable expenses** means—
     (a) expenditure or interest for which a person is allowed a deduction under section DB 3, DB 5, or DB 6 of the Income Tax Act 2007:
     (b) a premium under a policy of income protection insurance for which a person is allowed a deduction under section DA 1 of the Income Tax Act 2007
-  - **net pre-taxed income** , in relation to a borrower for a tax year, means the amount calculated in accordance with the formula—
+  - **investment activity** has the same meaning as in section MB 3(5) of the Income Tax Act 2007.
 
 **Declaration of pre-taxed income and assessment of pre-taxed repayment obligation**
 
@@ -873,7 +886,7 @@ A borrower may apply to the Commissioner for an extension of time for the making
   (a) if the sum of (b − c) is less than zero, then it must be treated as if it were zero; and
   (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero; and
   (c) if a is not divisible into equal amounts, then the final remaining repayment carries the difference.
-(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's pre-taxed repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's pre-taxed repayment obligation for the tax year cis the number of due dates the borrower has for the tax year determined in accordance with section 81(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
+(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's pre-taxed repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's pre-taxed repayment obligation for the tax yearcis the number of due dates the borrower has for the tax year determined in accordance with section 81(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
 
 ### 81 Due dates for payment of remaining repayments
 (1) Subsection (2) applies if a borrower—
@@ -940,6 +953,15 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 ### 88 Application of this subpart
 This subpart applies to New Zealand-based borrowers who derive other income.
 
+### 88A Meaning of adjusted net income
+(1) In this Act, adjusted net income means a borrower's income calculated in accordance with the formula—a = b – cwhere—ais the borrower's adjusted net incomebis the borrower's annual gross income other than from salary or wagescis the borrower's annual total deductions.
+(2) However, the income and deductions for any investment activity, or for any business, for a tax year are ignored when calculating a borrower's adjusted net income for that tax year if, treating the borrower as having only the income and deductions of that investment activity or of that business, the borrower would have a net loss for that year.
+(3) For the purposes of applying subsection (2), 2 or more business or investment activities may be treated as a single activity if the Commissioner considers that those business or investment activities are of a kind that are normally carried on in association with each other.
+(4) For the purposes of applying subsection (2), as modified by subsection (3), deductions that relate to an asset used in carrying on 2 or more business or investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
+(5) In this section,—
+  - **business** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **investment activity** has the same meaning as in section MB 3(5) of the Income Tax Act 2007.
+
 **Assessment of other income repayment obligation**
 
 ### 89 Commissioner to assess borrower's other income repayment obligation
@@ -959,15 +981,18 @@ This subpart applies to New Zealand-based borrowers who derive other income.
 
 **Calculation of other income repayment obligations**
 
-### 90 Certain borrowers have no other income repayment obligations
-If a borrower's net income for the tax year is equal to or less than the annual repayment threshold, then the borrower has no other income repayment obligation for the tax year.
-
-### 91 Calculating borrower's other income repayment obligation
+### 90 Calculation of borrower's other income repayment obligation where salary or wages below threshold
 (1) Subsection (2) applies if, in relation to a tax year,—
   (a) this subpart applies to a borrower; and
-  (b) the borrower's net income is more than the annual repayment threshold.
-(2) The borrower's other income repayment obligation for a tax year must be calculated in accordance with the formula—a = (b × (c − d)) − ewhere—ais the amount of the borrower's other income repayment obligation for the tax yearbis the repayment percentagecis the amount of the borrower's net income for the tax yeardis the annual repayment thresholdeis the total amount of standard deductions made for the tax year.
-(3) If the amount of the borrower's other income repayment obligation for the tax year is zero or less, the borrower has no other income repayment obligation for the tax year.
+  (b) the gross income that the borrower derived from salary or wages is less than the annual repayment threshold.
+(2) The borrower’s other income repayment obligation for the tax year must be calculated in accordance with the formula—a = b × (c – d)where—ais the borrower’s other income repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income and from salary or wages for the tax yeardis the annual repayment threshold.
+(3) If the borrower’s other income repayment obligation for the tax year is zero or less, the borrower has no other income repayment obligation for the tax year.
+
+### 91 Calculation of borrower's other income repayment obligation where salary or wages equal to or above threshold
+(1) Subsection (2) applies if, in relation to a tax year,—
+  (a) this subpart applies to a borrower; and
+  (b) the gross income that the borrower derived from salary or wages is equal to or more than the annual repayment threshold.
+(2) The borrower’s other income repayment obligation for the tax year must be calculated in accordance with the formula—a = b × cwhere—ais the borrower’s other income repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income for the tax year.
 
 **Payment of other income repayment obligations**
 
@@ -996,7 +1021,7 @@ If a borrower's net income for the tax year is equal to or less than the annual 
   (a) if the sum of (b − c) is less than zero, then it must be treated as if it were zero; and
   (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero; and
   (c) if a is not divisible into equal amounts, then the final remaining repayment carries the difference.
-(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's other income repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's other income repayment obligation for the tax year cis the number of due dates the borrower has for the tax year determined in accordance with section 94(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
+(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's other income repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's other income repayment obligation for the tax yearcis the number of due dates the borrower has for the tax year determined in accordance with section 94(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
 
 ### 94 Due dates for payment of remaining repayments
 (1) Subsection (2) applies if a borrower—
@@ -1004,13 +1029,13 @@ If a borrower's net income for the tax year is equal to or less than the annual 
   (b) does not have to make interim payments for a tax year.
 (2) The borrower must pay 1 remaining repayment on or before the date in column B, D, or F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that—
   (a) corresponds to the month of the borrower's balance date; and
-  (b) immediately follows the date on which the borrower is required to file his or her return of income for the tax year.
+  (b) immediately follows the date on which the borrower is required to file his or her return of income, or his or her notification of gross income and deductions under section 114 or 114A, for the tax year.
 (3) Subsection (4) applies if—
   (a) a borrower has an other income repayment obligation for a tax year that is $1,000 or more, but less than $16,000; and
   (b) that borrower has not estimated his or her other income repayment obligation for that tax year.
 (4) The borrower—
   (a) must make the same number of remaining repayments for a tax year (tax year A) as the number of interim payment dates the borrower has for tax year A; but
-  (b) must pay a remaining repayment on or before each of the interim payment dates that immediately follow the date on which the borrower is required to file his or her return of income for tax year A, even though this may require those payments to be made in tax year A and in the tax year following tax year A.
+  (b) must pay a remaining repayment on or before each of the interim payment dates that immediately follow the date on which the borrower is required to file his or her return of income, or his or her notification of gross income and deductions under section 114 or 114A, for tax year A, even though this may require those payments to be made in tax year A and in the tax year following tax year A.
 (5) If subsections (2) and (4) do not apply, a borrower must pay a remaining repayment for a tax year on or before—
   (a) each of the interim payment dates for the same tax year; or
   (b) if the borrower does not have to make interim payments for the tax year, each of the interim payment dates that would have applied for the tax year if the borrower had to make interim payments for the tax year.
@@ -1070,65 +1095,68 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 **Reduction of deduction rate for borrower with lower repayment obligation**
 
 ### 101 Borrower may apply for reduction of deduction rate to reflect lower repayment obligation
-(1) Section 102 applies if a borrower—
-  (a) either—
-    (i) derives other income in a tax year; or
-    (ii) incurs a loss from other income for the tax year; and
-  (b) derives salary or wages in the tax year; and
-  (c) considers on reasonable grounds that his or her balance of repayment obligations for the tax year is, or will be, less than his or her standard deductions for the tax year; and
-  (d) applies to the Commissioner for a reduction in the deduction rate that applies to the borrower under section 37(1) or (2) in order to reflect the difference in paragraph (c).
-(2) An application under subsection (1)(d) must be made by notifying the Commissioner in a manner acceptable to the Commissioner.
-(3) The borrower must, as soon as practicable, notify the Commissioner if the circumstances in subsection (1)(c) change.
-(4) In this section, balance of repayment obligations means the sum that is derived when the amount calculated in accordance with the formula in section 91(2) for the borrower for the tax year is offset against the total amount of the borrower's standard deductions for the tax year.
+[Repealed]
 
 ### 102 Special deduction rate certificate for lower repayment obligation
-(1) If this section applies, the Commissioner may, in relation to the borrower, issue a special deduction rate certificate that—
-  (a) specifies a special deduction rate that reflects the difference in section 101(1)(c); and
-  (b) specifies the period for which the special deduction rate is to apply to the borrower; and
-  (c) requires the borrower's employer or PAYE intermediary to make deductions from the borrower's salary or wages at the special deduction rate.
-(2) In determining the specified deduction rate that is to apply to the borrower, the Commissioner must have regard to the amount of any excess repayment the borrower may have for the tax year if the special deduction rate certificate is not issued to the borrower.
+[Repealed]
 
 ### 103 Issue and application of special deduction rate certificate
-(1) If the Commissioner issues a special deduction rate certificate under section 102, the Commissioner must give a copy of the certificate to the borrower.
-(2) The special deduction rate certificate—
-  (a) revokes all other special deduction rate certificates previously issued in relation to the borrower under section 45 or 102; and
-  (b) does not limit the application of sections 147 to 153 (concerning hardship relief).
+[Repealed]
 
 ### 104 Time when special deduction rate ceases to apply
-The special deduction rate applies until the earlier of—
-  (a) the end of the period specified in the special deduction rate certificate; or
-  (b) the date on which the Commissioner notifies the employer in writing otherwise; or
-  (c) the date on which the borrower notifies the employer otherwise.
+[Repealed]
 
 ### Subpart 4 — Overseas-based borrowers' repayment obligations
 
 ### 105 Application of this subpart
 This subpart applies to overseas-based borrowers.
 
-### 106 Definitions used in this subpart
-In this subpart,—
-  - **opt-out period** means a period for which an overseas-based borrower chooses, under section 108(1), not to have a repayment holiday
-  - **repayment holiday** means a period during which a borrower's overseas-based repayment obligation is reduced to zero for the purposes of section 107.
+### 106 Meaning of repayment holiday
+In this subpart, repayment holiday means a period during which a borrower’s overseas-based repayment obligation is reduced to zero.
 
 **Repayment holiday from overseas-based repayment obligations**
 
-### 107 Overseas-based borrowers are entitled to 3-year repayment holiday
-(1) A borrower who is overseas-based is entitled to a repayment holiday for a maximum period of 3 years.
-(2) A borrower is entitled to a repayment holiday only for periods when the borrower is overseas-based.
-(3) A repayment holiday may consist of 1 or more periods of time when a borrower is overseas-based, but in total those periods must be 3 years or less.
-(4) If a borrower is, at any time, overseas-based after that borrower's 3-year repayment holiday has ended, that borrower's repayment obligation must be calculated in accordance with sections 110 and 111.
-(5) Any 1 borrower is entitled to receive only one 3-year repayment holiday.
+### 107 Borrowers who intend to be overseas-based may apply for repayment holidays
+(1) A borrower may, by notifying the Commissioner, apply to the Commissioner for a repayment holiday if he or she intends to be overseas-based.
+(2) The application may be made from New Zealand or from overseas, but no application may be made by an overseas-based borrower.
 
-### 108 Borrowers may choose to opt out of repayment holiday
-(1) A borrower may, by notifying the Commissioner, choose to have 1 or more opt-out periods for any period during which that borrower is overseas-based.
-(2) An opt-out period may begin from a date before the date on which a borrower notifies the Commissioner under subsection (1).
-(3) An opt-out period ends if a borrower—
-  (a) becomes New Zealand-based; or
-  (b) notifies the Commissioner to end the opt-out period.
-(4) A repayment holiday—
-  (a) ends if an opt-out period begins; and
-  (b) begins when an opt-out period ends (but only if the borrower, at that time, is overseas-based and has had a repayment holiday for a total of less than 3 years).
-(5) If a borrower chooses to have an opt-out period, the borrower's repayment obligation must be calculated in accordance with sections 110 and 111.
+### 107A Contact person to be nominated
+(1) At the time of making an application under section 107, the borrower must nominate, as the borrower's contact person, an individual who resides in New Zealand.
+(2) The borrower nominates a contact person by notifying the Commissioner of an individual who is willing to act as the borrower's contact person and by specifying the following details in that notification:
+  (a) the name of the individual:
+  (b) a New Zealand postal address for the individual:
+  (c) an electronic address for the individual (if the individual has one):
+  (d) a New Zealand telephone number for the individual (if the individual has one):
+  (e) any further information specified in regulations.
+
+### 107B Grant of repayment holiday
+(1) The Commissioner may grant a repayment holiday to a borrower who applies under section 107 if satisfied that the borrower—
+  (a) has not reached the borrower's limit; and
+  (b) has complied with section 107A.
+(2) A borrower who is granted a repayment holiday becomes entitled to that repayment holiday on the day on which the borrower becomes overseas-based.
+(3) For the purposes of this subpart, a borrower reaches the borrower's limit if—
+  (a) the borrower has had 1 or more repayment holidays, granted under this Act, for a period of 365 days or for periods that total 365 days; or
+  (b) the borrower has had 1 or more repayment holidays under Part 3 of the Student Loan Scheme Act 1992 for a period of 3 years or for periods that total 3 years; or
+  (c) the borrower has had—
+    (i) 1 or more repayment holidays under Part 3 of the Student Loan Scheme Act 1992 for a period of less than 3 years or for periods that total less than 3 years; and
+    (ii) 1 or more repayment holidays, granted under this Act, for a period that equals, or for periods that in total equal, the lesser of—
+      (A) 365 days; and
+      (B) the remainder of the period of the repayment holiday to which the borrower would have been entitled under Part 3 of the Student Loan Scheme Act 1992 if that Act had not been repealed; or
+  (d) the borrower has had his or her repayment holiday under Part 3 of the Student Loan Scheme Act 1992 continued under section 108A(2) for the maximum period prescribed for that continuation.
+
+### 108 Duration of repayment holiday
+(1) Despite section 107B(2), for the purpose of determining the duration of a repayment holiday, the repayment holiday of a borrower who has become entitled to it under that subsection is deemed to have commenced on the first day of the period of the borrower's physical absence from New Zealand, being the period that resulted in the borrower becoming overseas-based.
+(2) The repayment holiday of a borrower who has become entitled to it under section 107B(2) ends on the earlier of—
+  (a) the day that the borrower reaches the borrower's limit; and
+  (b) the day on which the borrower ceases to be overseas-based.
+(3) A borrower's repayment obligation must be calculated in accordance with sections 110 and 111 if the borrower is, at any time, overseas-based after his or her repayment holiday has ended.
+
+### 108A Borrowers who have had, or are having, repayment holidays under Student Loan Scheme Act 1992
+(1) A New Zealand-based borrower who has had 1 or more repayment holidays under Part 3 of the Student Loan Scheme Act 1992, but who has not reached the borrower's limit (within the meaning of section 107B(3)), must apply under section 107 if he or she wishes to have a repayment holiday under this Act.
+(2) An overseas-based borrower who, as at 31 March 2012, has a repayment holiday under Part 3 of the Student Loan Scheme Act 1992 that, but for the repeal of that Act, would have continued under that Act continues to have a repayment holiday under this Act, but for no longer than the lesser of—
+  (a) 365 days; and
+  (b) the remainder of the period of the repayment holiday to which the borrower would have been entitled under Part 3 of the Student Loan Scheme Act 1992 if that Act had not been repealed.
+(3) The repayment obligation of a borrower to whom subsection (2) applies must be calculated in accordance with sections 110 and 111 if the borrower is, at any time, overseas-based after his or her repayment holiday has ended in accordance with that subsection.
 
 **Assessment of overseas-based repayment obligation**
 
@@ -1147,9 +1175,7 @@ In this subpart,—
 **Calculation and payment of overseas-based repayment obligation**
 
 ### 110 Repayment obligations of overseas-based borrowers
-(1) This section applies to an overseas-based borrower—
-  (a) whose 3-year repayment holiday has ended; or
-  (b) who has chosen to have an opt-out period.
+(1) This section applies to an overseas-based borrower who is not, or is no longer, entitled to a repayment holiday under section 107B or 108A(2).
 (2) If the borrower's consolidated loan balance is less than $1,000, the borrower's repayment obligation for a tax year (or, if applicable, part of a tax year) during which this section applies to the borrower is the amount of the borrower's consolidated loan balance.
 (3) If the borrower's consolidated loan balance is—
   (a) $1,000 or more, but less than or equal to $15,000, the borrower's repayment obligation is $1,000 for each full tax year during which the borrower is overseas-based:
@@ -1165,7 +1191,7 @@ In this subpart,—
   (b) for each subsequent tax year (year A) during that period, the sum determined by—
     (i) including the amount of the borrower's consolidated loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
-    (iii) excluding any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
+    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
 
 ### 111 Exceptions to repayment obligations of overseas-based borrowers
 (1) For each tax year in which an overseas-based borrower has an unpaid amount but has no loan balance, the borrower's repayment obligation is zero.
@@ -1179,16 +1205,14 @@ In this subpart,—
   (b) for each subsequent tax year (year A) during that period, the sum determined by—
     (i) including the amount of the borrower's loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
-    (iii) excluding any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
+    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
 
 ### 112 Repayment to be made by instalments
 (1) A borrower's overseas-based repayment obligation for a tax year must be paid by the borrower as follows:
   (a) half of the total amount must be paid in the tax year on or before 30 September:
   (b) the other half of the total amount must be paid in the tax year on or before 31 March.
 (2) If the total amount payable is not divisible into equal amounts, then the final payment carries the difference.
-(3) However, a borrower's overseas-based repayment obligation for a tax year must be paid by the borrower in instalments as determined by the Commissioner if—
-  (a) the borrower's 3-year repayment holiday ends part-way through the tax year; or
-  (b) the borrower chooses part-way through the tax year to have an opt-out period.
+(3) However, a borrower’s overseas-based repayment obligation for a tax year must be paid by the borrower in instalments as determined by the Commissioner if any repayment holiday granted to the borrower under section 107B or continued under section 108A(2) ends part-way through the tax year.
 
 ### 113 Consequence of failure to meet repayment obligations
 A borrower may be liable to pay late payment interest if the borrower does not meet his or her repayment obligations under this subpart (see section 139(1)).
@@ -1203,13 +1227,18 @@ A borrower may be liable to pay late payment interest if the borrower does not m
   (b) a return of income for a tax year.
 (4) The Commissioner may require the borrower to provide evidence of the borrower's annual gross income and annual total deductions.
 
+### 114A Extension of time for making notification of worldwide income
+(1) This section applies if section 114(2) applies.
+(2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's annual gross income and annual total deductions in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
+  (a) the reference to the due date required under this section were a reference to the due date required under section 114(3) of the Student Loan Scheme Act 2011; and
+  (b) every reference to a taxpayer were a reference to a borrower; and
+  (c) every reference to a return or a return of income were a reference to a notification of the borrower's annual gross income and annual total deductions.
+
 ### 115 Repayment obligations of borrowers who are overseas-based for part of tax year
 (1) If a borrower is both New Zealand-based and overseas-based during a tax year,—
   (a) subparts 1 to 3 apply to the borrower for the period in the tax year during which he or she is New Zealand-based (the New Zealand-based period), except that, for the purposes of subparts 2 and 3, the amount of the annual repayment threshold for the tax year must be proportionately decreased to the same proportion as the number of days in the New Zealand-based period bears to the number of days in a year; and
   (b) only the income that the borrower derived during the period that the borrower was New Zealand-based during the year must be taken into account when calculating the borrower’s repayment obligation under subparts 1 to 3; and
-  (c) section 110(4) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and—
-    (i) is not entitled to a repayment holiday (as defined in section 106); or
-    (ii) has chosen to have an opt-out period (as defined in section 106); and
+  (c) section 110(4) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and is not entitled to a repayment holiday (as defined in section 106); and
   (d) the borrower's overseas-based repayment obligation is payable in instalments as determined by the Commissioner.
 (2) Subsection (1) applies despite anything to the contrary in this Act.
 
@@ -1224,31 +1253,35 @@ A borrower may be liable to pay late payment interest if the borrower does not m
   - **specified deduction** means the following deductions made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand:
     (a) a standard deduction:
     (b) so much of a Commissioner deduction for the purposes set out in section 49(1)(a) as the Commissioner considers relates to a significant under-deduction that occurred while the borrower was overseas-based.
-(3) This section overrides section 194.
+(3)
 
 ## Part 3 — Excess repayments
 
 ### 118 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **10% bonus** means the bonus specified in, as appropriate, section 123(2), 124(2), or 125(2)
+  - **10% bonus** means the bonus specified in, as appropriate, section 123(2), or 124(2)
   - **final excess repayment** means an excess repayment that, when combined with the resulting 10% bonus, results in the borrower's consolidated loan balance being fully repaid.
 
 ### 119 Meaning of excess repayment
 (1) A borrower makes an excess repayment in relation to a tax year if, as at the close of that tax year, that borrower's total payments exceed his or her total obligations.
 (2) In determining whether an excess repayment has been made, the Commissioner must—
-  (a) disregard a standard deduction that is more than the amount that is required to be deducted unless—
-    (i) it is a significant over-deduction; or
-    (ii) it is made from a New Zealand-based borrower who derives other income; or
-    (iii) it is made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand; and
-  (b) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
-  (c) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
-  (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
+  (a) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
+  (b) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
+  (c) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
 (3) In this section,—
   - **total obligations** means—
     (a) all unpaid amounts; and
-    (b) all repayment obligations for the tax year
+    (b) any standard deductions that were deducted in the tax year except—
+      (i) a significant over-deduction; or
+      (ii) a standard deduction or Commissioner deduction for the purposes set out in section 49(1)(a) made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand; and
+    (c) any Commissioner deductions for the purposes set out in section 49(1)(a) that were deducted in the tax year; and
+    (d) any other income repayment obligations for the tax year; and
+    (e) any pre-taxed repayment obligation for the tax year; and
+    (f) any overseas-based repayment obligation for the tax year; and
+    (g) any amount that must be paid by a borrower in accordance with a written notification under section 52 for the tax year; and
+    (h) penalties imposed under subpart 3 of Part 4
   - **total payments** means—
-    (a) all salary or wage deductions required to be made during the tax year; and
+    (a) all salary or wage deductions that were deducted in the tax year (including salary and wage deductions made in accordance with section 116 from the salary or wages an overseas-based borrower derives from New Zealand); and
     (b) all payments received by the Commissioner during the tax year for a borrower who—
       (i) does not have to pay interim payments for the tax year; or
       (ii) must pay the final instalment of an overseas-based repayment obligation in the tax year; and
@@ -1308,17 +1341,7 @@ In this Part, unless the context otherwise requires,—
 (2) The Commissioner must reduce the borrower's loan balance to zero.
 
 ### 125 Borrower may be entitled to 10% bonus if under-deduction is due to PAYE system
-(1) Subsection (2) applies to a borrower if—
-  (a) the borrower derives other income; and
-  (b) the borrower's excess repayment for a tax year is less than $500; and
-  (c) the difference between the borrower's excess repayment for the tax year and $500 (the shortfall) is because of an under-deduction through the PAYE system; and
-  (d) the shortfall meets 1 or more of the following criteria:
-    (i) it is less than $20:
-    (ii) it is due to the borrower starting or ending employment:
-    (iii) it is due to an action or an omission of the borrower's employer; and
-  (e) the Commissioner considers that the borrower's excess repayment for the tax year would have been $500 or more if the under-deduction referred to in paragraph (c) had not occurred; and
-  (f) at the beginning of the tax year, the borrower's loan balance was $550 or more.
-(2) The Commissioner must reduce the borrower's loan balance by an amount equal to 10% of the borrower's excess repayment for the tax year that the Commissioner considers would have been made if the under-deduction referred to in subsection (1)(c) had not occurred.
+[Repealed]
 
 ### 126 Time at which 10% bonus is credited
 (1) If a borrower's loan balance will be fully repaid as a result of being reduced by a 10% bonus, that bonus must be credited to the borrower's loan balance with effect from the date on which the final excess repayment was made.
@@ -1348,7 +1371,7 @@ If a 10% bonus is credited to a borrower's loan balance part-way through a tax y
 
 ### 129 Consequences of refund or credit to next tax year
 (1) If the whole or part of a borrower's excess repayment for a tax year is refunded or used to satisfy a future repayment obligation of the borrower in accordance with subpart 2, any 10% bonus that was credited to that borrower must be reduced to an amount equal to 10% of the remaining excess repayment (if any) for the tax year that is $500 or more.
-(2) If the 10% bonus was credited under section 125(2), then the remaining excess repayment (if any) for the tax year that is $500 or more must be determined by reference to the borrower's excess repayment for the tax year that the Commissioner considered (under section 125) would have been made if the under-deduction referred to in section 125(1)(c) had not occurred.
+(2)
 
 ### 130 Commissioner must advise borrowers to seek financial advice
 The Commissioner must, in all material that provides information about 10% bonuses and that is made available to all borrowers, include a statement to the effect that borrowers are advised to seek appropriate financial advice before making excess repayments in order to obtain a 10% bonus.
@@ -1382,8 +1405,8 @@ Except as provided in this Part, no interest is payable on a consolidated loan b
 (2) Loan interest must be calculated in accordance with the formula—a =(b × c)365where—ais the loan interestbis the borrower's loan balance on the relevant daycis the base interest rate.
 
 ### 135 Loan interest calculated daily and charged and compounded annually
-(1) Loan interest is calculated each day that a borrower has a loan balance.
-(2) Loan interest is charged and added to a borrower's loan balance on the last day of each year.
+(1) Loan interest is calculated and accrues each day that a borrower has a loan balance.
+(2) Loan interest is charged and added to a borrower's loan balance on the last day of each year or an earlier date determined by the Commissioner, at his or her discretion, that is within the relevant tax year.
 
 ### 136 Notification that loan interest has compounded
 (1) The Commissioner must, as soon as practicable after loan interest has been added to a borrower's loan balance in accordance with section 135(2), notify the borrower in writing—
@@ -1475,7 +1498,11 @@ No interest is payable on—
   (b) regardless of whether that late payment interest has been paid, either in whole or in part; and
   (c) if an application is made under section 145(1)(a) for relief from late payment interest.
 (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the late payment interest as the Commissioner considers equitable.
-(3) The Commissioner must refund any late payment interest that has been paid and is cancelled (see sections 199 and 200).
+(3) So much of any cancelled late payment interest that has already been paid must be offset as follows:
+  (a) first, against any unpaid amount the borrower has; and
+  (b) secondly, any remainder must be offset against the borrower’s current year obligations; and
+  (c) thirdly, any remainder must be offset against the borrower’s loan balance.
+(4) Where any amount is, under subsection (3)(c), applied to the loan balance, the borrower may choose to have that amount refunded in whole or in part, and section 132(2) and (3) apply to that choice with all necessary modifications.
 
 **Hardship relief**
 
@@ -1490,14 +1517,14 @@ No interest is payable on—
   (a) the Commissioner decreases the repayment obligation of a borrower under section 147; and
   (b) the borrower derives salary or wages.
 (2) The Commissioner may issue a special deduction rate certificate that—
-  (a) specifies a special deduction rate that reflects the Commissioner's decision under section 147; and
+  (a) specifies a special deduction rate and the repayment code to be used that reflects the Commissioner's decision under section 147; and
   (b) specifies the period for which the special deduction rate is to apply to the borrower; and
   (c) requires the borrower's employer or PAYE intermediary to make deductions from the borrower's salary or wages at the special deduction rate.
 (3) The issue of a special deduction rate certificate may form part of or all of the means by which a borrower's repayment obligation is decreased under section 147.
 
 ### 149 Issue and application of special deduction rate certificate
 (1) If the Commissioner issues a special deduction rate certificate under section 148, the Commissioner must give a copy of the certificate to the borrower.
-(2) The special deduction rate certificate revokes all other special deduction rate certificates previously issued in relation to the borrower under section 45, 102, or 148.
+(2) The special deduction rate certificate revokes all other special deduction rate certificates previously issued in relation to the borrower under section 45 or 148.
 
 ### 150 Time when special deduction rate ceases to apply
 The special deduction rate applies until the earlier of—
@@ -1543,20 +1570,20 @@ A borrower who applies for hardship relief under section 145(1)(b) must notify t
 (2) A borrower is liable to pay a late filing penalty if—
   (a) the Commissioner notified the borrower or gave public notice in accordance with subsection (1); and
   (b) the declaration is not completed and filed within 30 days of the date of the notification or notice.
-(3) The late filing penalty for a borrower with net income—
+(3) The late filing penalty for a borrower with adjusted net income or net pre-taxed income—
   (a) below $100,000 is $50:
   (b) between $100,000 and $1,000,000 (both figures inclusive) is $250:
   (c) above $1,000,000 is $500.
 (4) A borrower is not liable to pay a late filing penalty under both this section and under section 139A of the Tax Administration Act 1994 for the same declaration.
-(5) In this section, declaration means—
+(5) In this section and section 156, declaration means—
   (a) a declaration of pre-taxed income:
   (b) a notification of a borrower's annual gross income and annual total deductions under section 114.
 
 ### 156 Due dates for payment of late filing penalty
 A borrower who is liable to pay a late filing penalty must pay that penalty on or before the later of the following dates:
   (a) the date that is 60 days after the date of the notification or notice given to the borrower under section 155(1):
-  (b) if the borrower does not have an extension of time to file a return of income under section 37 of the Tax Administration Act 1994, the date in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
-  (c) if the borrower does have an extension of time to file a return of income under section 37 of the Tax Administration Act 1994, the date in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
+  (b) if the borrower does not have an extension of time to make a declaration under section 75 or 114A, the date in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
+  (c) if the borrower does have an extension of time to make a declaration under section 75 or 114A, the date in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
 
 **Student loan shortfall penalties**
 
@@ -1758,7 +1785,7 @@ A challenge under this subpart may be made only by or on behalf of the person to
 ### Subpart 1 — Matters of general application
 
 ### 189 Annual administration fee
-(1) If a borrower has a loan balance of $20 or more on the close of 31 March in a tax year,—
+(1) If a borrower has a consolidated loan balance of $20 or more on the close of 31 March in a tax year,—
   (a) an annual administration fee of $40 (or any other amount prescribed by regulations) must be charged by the Commissioner to that borrower for that tax year; and
   (b) that borrower's loan balance is increased by the amount of that fee on 1 April in the next tax year.
 (2) However, no annual administration fee may be charged to a borrower for a tax year if that borrower is charged with a student loan establishment fee under section 14 in that tax year.
@@ -1786,6 +1813,27 @@ If this Act does not specify a date by which an amount payable under this Act is
   (c) the reference to an assessment in section 162 of the Tax Administration Act 1994 were a reference to an assessment made under Part 2 of this Act; and
   (d) every reference to this Act in sections 164 and 165 of the Tax Administration Act 1994 were a reference to the Student Loan Scheme Act 2011.
 
+### 193A Contact person may be requested to assist
+(1) The Commissioner may at any time advise a person that the person has been nominated as the contact person of a borrower.
+(2) If, in any case where a borrower has an unpaid amount, the Commissioner does not have the current address details for the borrower or is uncertain as to the accuracy of the address details for the borrower, the Commissioner may request the borrower's contact person—
+  (a) to notify the Commissioner of the borrower's current address details; or
+  (b) to ask the borrower to notify the Commissioner of the borrower's current address details.
+(3) In subsection (2), address details, in relation to a borrower, means—
+  (a) all postal addresses for the borrower; and
+  (b) all electronic addresses for the borrower (if the borrower has any); and
+  (c) all telephone numbers for the borrower (if the borrower has any).
+(4) The Commissioner may not make a request under subsection (2) unless the contact person confirms that he or she is willing to act as the borrower's contact person.
+(5) The Commissioner—
+  (a) may not disclose any matters about the borrower other than those required to be disclosed for the purposes of this section; and
+  (b) may use any information obtained from a request under this section only for the purposes of this Act.
+(6) In this section and section 193B, contact person, in relation to a borrower, means—
+  (a) an individual whose name has been notified under section 16A in relation to the borrower; or
+  (b) an individual nominated by the borrower under section 107A or 193B.
+
+### 193B Changes relating to identity and details of contact person
+(1) Whenever the contact person of a borrower dies or becomes incapacitated or is for any other reason ineligible, unable, or unwilling to act as the borrower's contact person, the borrower must nominate another contact person who resides in New Zealand in the manner provided by section 107A(2).
+(2) If there is a change in any of the details of a borrower's contact person, the borrower must promptly notify the Commissioner of the changed details.
+
 ### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
 A salary or wage deduction or payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
   (a) first, against any interest charged; and
@@ -1794,9 +1842,12 @@ A salary or wage deduction or payment received by the Commissioner in respect of
 ### 195 Date on which salary or wage deductions and payments treated as being made and credited
 (1) A salary or wage deduction is made on the date the deduction is made.
 (2) A payment is made to the Commissioner on the date it is received by the Commissioner.
-(3) For the purposes of calculating loan interest and late payment interest, determining whether an annual administration fee is payable, and determining whether a borrower's consolidated loan balance is less than $20 for the purposes of section 197,—
+(3) For the purposes of calculating late payment interest, determining whether an annual administration fee is payable, and determining whether a borrower's consolidated loan balance is less than $20 for the purposes of section 197,—
   (a) a salary or wage deduction is credited on the 15th day of the month in which the deduction is made; and
   (b) all other payments are credited on the date on which they are received by the Commissioner.
+(3A) For the purpose of calculating loan interest,—
+  (a) a salary or wage deduction is credited on the 16th day of the month in which the deduction is made; and
+  (b) all other payments are credited on the day after the date on which they are received by the Commissioner.
 (4) Other than for the purposes set out in subsection (3),—
   (a) a salary or wage deduction is credited on the last day of the month in which the deduction is made; and
   (b) a payment made by a New Zealand-based borrower (excluding a salary or wage deduction) for a tax year is credited at the time when the Commissioner assesses the borrower's pre-taxed repayment obligation or other income repayment obligation for that tax year; and
@@ -1806,7 +1857,7 @@ A salary or wage deduction or payment received by the Commissioner in respect of
 (1) Subsection (2) applies if—
   (a) the Commissioner informs or notifies a borrower of the borrower's consolidated loan balance (the notification) on or before 31 March 2013; and
   (b) the borrower pays the consolidated loan balance stated in the notification in full within 30 days after the date of the notification.
-(2) The Commissioner must cancel any interest that is charged between the date of the notification and the date on which the payment is received.
+(2) The Commissioner must cancel any loan interest that is calculated and accrued between the date of the notification and the date on which the payment is received.
 (3) A notification provided on or after 2 March 2012 under section 60A(1) of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
 (4) This section is repealed on the close of 1 May 2013.
 
@@ -1999,12 +2050,12 @@ Regulations made under section 215 or 216 are regulations for the purposes of th
 
 ### 219 Early applications and issue of certificates for transition to this Act
 (1) A borrower may—
-  (a) make an application under section 42, 101, or 145(1)(b); and
-  (b) if applicable, notify his or her employer in writing (in accordance with section 34(2)(b)) that a special deduction rate applies to the borrower; and
+  (a) make an application under section 42 or 145(1)(b); and
+  (b) if applicable, notify his or her employer in writing that a special deduction rate applies to the borrower; and
   (c) request his or her employer or PAYE intermediary (in accordance with section 39) to make borrower deductions; and
   (d) make a declaration in accordance with sections 54(2) and 55.
 (2) The Commissioner may—
-  (a) issue a special deduction rate certificate under section 45, 102, or 148; and
+  (a) issue a special deduction rate certificate under section 45 or 148; and
   (b) issue an additional deduction rate notice under section 49(2); and
   (c) if applicable, follow the procedures in section 50(1); and
   (d) issue a notice under section 56(b).
@@ -2019,7 +2070,7 @@ This Act is subject to the savings and transitional provisions set out in Schedu
 **Consequential amendments and repeals**
 
 ### 221 Amendments to this Act
-This Act is amended in the manner set out in Schedule 7.
+This Act is amended in the manner, and is subject to the transitional provisions, set out in Schedule 7.
 
 ### 222 Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003
 The Acts specified in Schedule 8 are amended in the manner set out in that schedule.
@@ -2129,6 +2180,10 @@ A borrower who makes an application under section 25(1)(j) must—
   (a) provide the Commissioner with evidence that he or she is physically in 1 or more of New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for the period to which the application applies; and
   (b) pay his or her repayment obligation in full when, or before, it falls due during the period he or she is treated as being physically in New Zealand.
 
+### 11 Certain exempt borrowers must notify Commissioner of their worldwide income
+(1) This clause applies to a borrower who is treated as being physically in New Zealand under any of paragraphs (b), (g), (h), (i), and (j) of section 25(1).
+(2) The borrower must notify the Commissioner of the borrower's annual gross income and annual total deductions in accordance with section 114(2), and sections 114(3) and (4) and 114A apply accordingly.
+
 ## Schedule 2 — Application of PAYE rules for purposes of section 70
 
 | Compare: 1992 No 141 s 25 |
@@ -2188,7 +2243,7 @@ The provisions of this schedule apply despite—
 ### 6 Small amounts of unpaid and uncollected repayment obligations
 (1) The following are added to a borrower's loan balance under this Act:
   (a) any amount that the Commissioner has refrained from collecting from a borrower in accordance with section 51(3) of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012; and
-  (b) a default amount that is not subject to a penalty under section 52 of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012.
+  (b) a default amount that is not subject to a penalty under section 52 of the Student Loan Scheme Act 1992 or late payment interest under section 139(1) of this Act and that remains unpaid on the close of 31 March 2013.
 (2) This clause overrides clause 5.
 
 ### 7 New Zealand-based and overseas-based borrowers
@@ -2207,7 +2262,7 @@ The provisions of this schedule apply despite—
 (3) The borrower is treated as being physically in New Zealand for the purposes of sections 22 to 24 for the period that the exemption continues.
 
 ### 9 Overseas-based borrowers' repayment holidays
-Every day on which a borrower has had a repayment holiday under Part 3 of the Student Loan Scheme Act 1992 is treated as a day on which the borrower has had a repayment holiday for the purposes of section 107 of this Act.
+[Repealed]
 
 ### 10 Deduction rates and deduction rate certificates
 (1) If, at the close of 31 March 2012, a borrower has employment for which the repayment code SL applies to the borrower under section 18 of the Student Loan Scheme Act 1992, that repayment code continues to apply to that borrower in relation to that employment for the purposes of section 34 of this Act.
@@ -2223,7 +2278,7 @@ Every day on which a borrower has had a repayment holiday under Part 3 of the St
     (i) a request by the borrower to make borrower deductions in accordance with section 39 of this Act; or
     (ii) a special deduction rate certificate issued in relation to the borrower under—
       (A) section 45 of this Act (special deduction rate certificate for unused repayment threshold); or
-      (B) section 102 of this Act (special deduction rate certificate for lower repayment obligation); or
+      (B)
       (C) section 148 of this Act (special deduction rate certificate for hardship relief).
 
 ### 11 Pay period that spans 1 April 2012
@@ -2505,3 +2560,32 @@ A student loan establishment fee charged by the loan manager to a borrower under
 | --- | --- |
 
 ## Schedule 10 — Amendments to other enactments
+
+### 1 Title
+This Act is the Student Loan Scheme Amendment Act 2012.
+
+### 2 Commencement
+(1) Sections 7 and 59(2) come into force on 1 January 2013.
+(2) Section 55 is deemed to have come into force on 1 January 2012.
+(3) Section 57 comes into force on 1 April 2013 except that if a clause in Schedule 7 is, under section 2(5) of the principal Act, brought into force on a later date, any provision in section 57 that relates to that clause comes into force on that later date.
+(4) The rest of the Act is deemed to have come into force on 1 April 2012.
+
+## Part 1 — Amendments to principal Act
+
+### 3 Principal Act amended
+This Act amends the Student Loan Scheme Act 2011.
+
+### 4 Purposes of Act
+The purposes of this Act are—
+  (a) to assess the repayment obligations of borrowers by—
+    (i) disregarding any business or investment losses; and
+    (ii) treating salaries and wages separately from investment and business income:
+  (b) to provide for repayment holidays to be granted by the Commissioner and to limit their term to 365 days:
+  (c) to require borrowers who apply for repayment holidays to have contact persons who may be requested to assist the Commissioner in locating borrowers:
+  (d) to make miscellaneous amendments to the principal Act.
+
+## Part 2 — Transitional provision
+
+### 59 Transitional provision
+(1) Until the close of 31 December 2012, the definition of contact person in section 193A(6) of the principal Act must be read without reference to paragraph (a) of that definition.
+(2) This section is repealed on 1 January 2013.
