@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-04-12_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3129,6 +3129,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
   (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) or (2) of that section in accordance with subsection (1) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 208 of the Student Loan Scheme Act 2011 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
+  (gba) communicating to a contact person (within the meaning of section 193A of the Student Loan Scheme Act 2011), for the purposes of a request under that section, any information required to be communicated by that section:
   (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner:
   (i) communicating to any person, or employee of that person, being a person engaged by the Commissioner for the performance of services necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the department) or any other function that may from time to time be lawfully conferred on the Commissioner, such information as the Commissioner considers necessary for the performance of those services:
@@ -5152,7 +5153,7 @@ Nothing in this Part applies to—
 (4) Interest overpaid by the Commissioner may be recovered in the same manner as income tax that is payable under the Income Tax Act 2007.
 
 ### 120E Amount of interest payable
-(1) The amount of interest payable—is calculated for each day in the interest period in accordance with the following formula:t × r ÷ 365.where—tis the unpaid tax or overpaid tax on which the interest is payable; andris the Commissioner's paying rate or the taxpayer's paying rate applying on the day.
+(1) The amount of interest payable—is calculated for each day in the interest period in accordance with the following formula:t × r ÷ 365where—tis the unpaid tax or overpaid tax on which the interest is payable; andris the Commissioner's paying rate or the taxpayer's paying rate applying on the day.
   (a) by a taxpayer on unpaid tax; or
   (b) by the Commissioner on overpaid tax,—
 (2) The amount of interest payable in an interest period, is the sum of the amounts calculated under subsection (1) for each day in the interest period.
