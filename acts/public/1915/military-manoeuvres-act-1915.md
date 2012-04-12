@@ -1,5 +1,5 @@
 # Military Manoeuvres Act 1915
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-04-12_
 
 > An Act to facilitate military manoeuvres
 
