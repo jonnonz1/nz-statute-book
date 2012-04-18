@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2012-02-29_
+_Consolidation as at 2012-04-18_
 
 > Title
 
@@ -1768,9 +1768,9 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 ### 84 Registration of public securities, local authority stock, and other stock
 Notwithstanding the repeal by section 87 of—those provisions shall continue to apply to—
   (a)
-  (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
-  (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
-  (d) section 4(5) of the Public Finance Amendment Act 1980,—
+  (b) Amendment(s) incorporated in the Act(s):
+  (c) Amendment(s) incorporated in the Act(s):
+  (d) Amendment(s) incorporated in the Act(s),—
   (e) all public securities registered before the date on which regulations made under section 81(1)(f) come into force:
   (f)
   (g) all other stock.
@@ -1834,6 +1834,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |
 | Road Safety Trust |  |  |  |  |  |  |  |  |
 | Sentencing Council |  |  |  |  |  |  |  |  |
+| Southern Response Earthquake Services Limited |  |  |  |  |  |  |  |  |
 | Te Ariki trust |  |  |  |  |  |  |  |  |
 | Transferee companies under the New Zealand Railways Corporation Restructuring Act 1990 in which the Crown holds 50% or more of the issued ordinary shares |  |  |  |  |  |  |  |  |
 
