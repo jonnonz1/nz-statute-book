@@ -1,12 +1,12 @@
 # Crimes Act 1961
-_Consolidation as at 2012-03-19_
+_Consolidation as at 2012-04-18_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
 ### 1 Short Title, commencement, etc
 (1) This Act may be cited as the Crimes Act 1961.
 (2) This Act shall come into force on 1 January 1962.
-(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19F)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against religion, morality, and public welfare (sections 123 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 11A—Obtaining evidence by interception devices (sections 312A to 312Q)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
+(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19F)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against religion, morality, and public welfare (sections 123 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -51,6 +51,15 @@ _Consolidation as at 2012-03-19_
   - **Registrar** —
     (a) for the purposes of Part 12, means any Registrar of the trial court; and includes any Deputy Registrar of that court:
     (b) for any other purpose, means any Registrar of the High Court or of a District Court, as the case may require; and includes any Deputy Registrar
+  - **serious violent offence** means any offence—
+    (a) that is punishable by a period of imprisonment for a term of 7 years or more; and
+    (b) where the conduct constituting the offence involves—
+      (i) loss of a person's life or serious risk of loss of a person's life; or
+      (ii) serious injury to a person or serious risk of serious injury to a person; or
+      (iii) serious damage to property in circumstances endangering the physical safety of any person; or
+      (iv) perverting the course of justice, where the purpose of the conduct is to prevent, seriously hinder, or seriously obstruct the detection, investigation, or prosecution of any offence—
+        (A) that is punishable by a period of imprisonment for a term of 7 years or more; and
+        (B) that involved, involves, or would involve conduct of the kind referred to in any of subparagraphs (i) to (iii)
   - **sexual connection** means—
     (a) connection effected by the introduction into the genitalia or anus of one person, otherwise than for genuine medical purposes, of—
       (i) a part of the body of another person; or
@@ -854,8 +863,8 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, within
 (2) For the purposes of this Act, a group is an organised criminal group if it is a group of 3 or more people who have as their objective or one of their objectives—
   (a) obtaining material benefits from the commission of offences that are punishable by imprisonment for a term of 4 years or more; or
   (b) obtaining material benefits from conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of offences that are punishable by imprisonment for a term of 4 years or more; or
-  (c) the commission of serious violent offences (within the meaning of section 312A(1)); or
-  (d) conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of serious violent offences (within the meaning of section 312A(1)).
+  (c) the commission of serious violent offences; or
+  (d) conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of serious violent offences.
 (3) A group of people is capable of being an organised criminal group for the purposes of this Act whether or not—
   (a) some of them are subordinates or employees of others; or
   (b) only some of the people involved in it at a particular time are involved in the planning, arrangement, or execution at that time of any particular action, activity, or transaction; or
@@ -1916,15 +1925,13 @@ A person who claims in good faith a right to the possession of a young person un
 (2) Subsection (1) does not apply where the person intercepting the private communication—
   (a) is a party to that private communication; or
   (b) does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under—
-    (i) Part 11A; or
+    (i) the Search and Surveillance Act 2012; or
     (ii)
     (iii) the New Zealand Security Intelligence Service Act 1969; or
     (iiia) the Government Communications Security Bureau Act 2003; or
-    (iv) the Misuse of Drugs Amendment Act 1978; or
+    (iv)
     (v) the International Terrorism (Emergency Powers) Act 1987.
-(3) Subsection (1) does not apply to the interception by any constable of a private communication by means of an interception device where—
-  (a) an emergency has arisen in which there are reasonable grounds for believing that any person (in this section referred to as the suspect) is threatening the life of, or serious injury to, any other person in his presence or in the immediate vicinity; and
-  (b) the use of the interception device by that constable is authorised by a constable who is of or above the level of position of inspector who believes on reasonable grounds that the use of the interception device to intercept any private communication to which the suspect is a party during the emergency will facilitate the protection of any person who is threatened by the suspect.
+(3)
 (4) Subsection (1) does not apply to any monitoring of a prisoner call under section 113 of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
 (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if—
   (a) the interception is carried out by an employee of the person providing that Internet or other communication service to the public in the course of that person's duties; and
@@ -1932,7 +1939,7 @@ A person who claims in good faith a right to the possession of a young person un
   (c) the interception is necessary for the purpose of maintaining the Internet or other communication service; and
   (d) the interception is only used for the purpose of maintaining the Internet or other communication service.
 (6) Information obtained under subsection (5) must be destroyed immediately if it is no longer needed for the purpose of maintaining the Internet or other communication service.
-(7) Any information held by any person that was obtained while assisting with the execution of an interception warrant must, upon expiry of the warrant, be—
+(7) Any information held by any person that was obtained while assisting with the execution of a surveillance device warrant issued under the Search and Surveillance Act 2012 must, upon expiry of the warrant, be—
   (a) destroyed immediately; or
   (b) given to the agency executing the warrant.
 
@@ -1967,12 +1974,8 @@ A person who claims in good faith a right to the possession of a young person un
 Where any person is convicted of a crime against section 216B or section 216D in respect of any interception devices the sole or principal purpose of which is the surreptitious interception of private communications, the court may, as part of the sentence, order that the interception devices shall be forfeited; and, in such a case, the interception devices shall thereupon become forfeited to the Crown accordingly, and may be disposed of in such manner as the Commissioner of Police directs.
 
 ### 216F Unlawful disclosure
-(1) An unlawful disclosure is—
-  (a) the intentional and unauthorised disclosure of the existence of an interception warrant to be exercised by a constable if the disclosure would, or is likely to, prejudice an investigation; or
-  (b) the intentional and unauthorised disclosure of—
-    (i) any information gained when undertaking maintenance of a communication service; or
-    (ii) any information gained when assisting with the execution of an interception warrant other than to the agency executing the warrant.
-(2) Despite anything in subsection (1)(b)(i), a person may disclose information to any constable if the information appears to relate to the commission of a crime that has caused or could cause serious harm to any person.
+(1) An unlawful disclosure is the intentional and unauthorised disclosure of any information gained when undertaking maintenance of a communication service.
+(2) Despite anything in subsection (1), a person may disclose information to any constable if the information appears to relate to the commission of a crime that has caused or could cause serious harm to any person.
 (3) Every person who makes an unlawful disclosure is liable to imprisonment for a term not exceeding 2 years.
 
 **Intimate visual recordings**
@@ -2705,317 +2708,73 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
 **Interpretation**
 
 ### 312A Interpretation
-(1) In this Part, unless the context otherwise requires,—
-  - **facility** means an electronic address, phone number, or similar facility that enables private communications to—
-    (a) take place between individuals; or
-    (b) be sent to or from an identified individual
-  - **intercept** , in relation to a private communication, includes hear, listen to, record, monitor, acquire, or receive the communication either—
-    (a) while it is taking place; or
-    (b) while it is in transit
-  - **interception device** —
-    (a) means any electronic, mechanical, or electromagnetic instrument, apparatus, equipment, or other device that is used or is capable of being used to intercept a private communication; but
-    (b) does not include a hearing aid or similar device used to correct subnormal hearing of the user to no better than normal hearing
-  - **organised criminal enterprise** means a continuing association of 3 or more persons having as its object or as one of its objects the acquisition of substantial income or assets by means of a continuing course of criminal conduct
-  - **private communication** —
-    (a) means a communication (whether in oral or written form or otherwise) made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
-    (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so
-  - **serious violent offence** means any offence—
-    (a) that is punishable by a period of imprisonment for a term of 7 years or more; and
-    (b) where the conduct constituting the offence involves—
-      (i) loss of a person's life or serious risk of loss of a person's life; or
-      (ii) serious injury to a person or serious risk of serious injury to a person; or
-      (iii) serious damage to property in circumstances endangering the physical safety of any person; or
-      (iv) perverting the course of justice, where the purpose of the conduct is to prevent, seriously hinder, or seriously obstruct the detection, investigation, or prosecution of any offence—
-        (A) that is punishable by a period of imprisonment for a term of 7 years or more; and
-        (B) that involved, involves, or would involve conduct of the kind referred to in any of subparagraphs (i) to (iii)
-  - **specified offence** means any of the following offences:
-    (a) an offence punishable by a period of imprisonment for a term of 7 years or more:
-    (b) an offence against section 243(3) (which relates to certain money laundering offences):
-    (c) an offence punishable under section 247(b) or (c) (which relate to certain offences in respect of receiving property dishonestly obtained)
-    (d)
-    (e)
-    (f)
-  - **terrorist offence** means an offence against any of sections 6A to 13E of the Terrorism Suppression Act 2002.
-(2) A reference in this Part to a party to a private communication is a reference to—
-  (a) any originator of the communication and any person intended by the originator to receive it; and
-  (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
+[Repealed]
 
 **Applications for interception warrants in relation to organised criminal enterprises**
 
 ### 312B Application by Police for warrant to intercept private communications
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any Police employee to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing—
-  (a) either that—
-    (i) a person has committed, or is committing, an offence under section 98A(1); or
-    (ii) a member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
-  (b) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of the warrant.
-(2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing, and on oath, and shall set out the following particulars:
-  (a) the facts relied upon to show that there are reasonable grounds for believing either—
-    (i) that a person has committed, or is committing, an offence under section 98A(1); or
-    (ii) that—
-      (A) there is an organised criminal enterprise; and
-      (B) a member of the organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
-  (b) a description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the Police investigation of the case, or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise or by the person who is believed to have committed, or be committing, an offence under section 98A(1) (as the case may be); and
-  (d) the period for which a warrant is requested; and
-  (e) whichever of the following is applicable:
-    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+[Repealed]
 
 ### 312C Matters on which Judge must be satisfied in respect of applications
-(1) On an application made in accordance with section 312B, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) there are reasonable grounds for believing either—
-    (i) that a person has committed, or is committing, an offence under section 98A(1); or
-    (ii) that—
-      (A) there is an organised criminal enterprise; and
-      (B) a member of the organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
-  (b) there are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
-  (c) whichever of the following is applicable:
-    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
+[Repealed]
 
 **Applications for interception warrants in relation to serious violent offences**
 
 ### 312CA Application by Police for warrant to intercept private communications in relation to serious violent offences
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any constable to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that,—
-  (a) a serious violent offence has been committed, or is being committed, or is about to be committed; and
-  (b) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (c) it is unlikely that the Police investigation of the case could be brought to a successful conclusion or, as the case may be, the commission of the serious violent offence prevented, without the granting of such a warrant.
-(2) Every application under subsection (1) must be made by a constable who is of or above the level of position of inspector, in writing, and on oath, and must set out the following particulars:
-  (a) the facts relied on to show that there are reasonable grounds for believing that,—
-    (i) a serious violent offence has been committed, or is being committed, or is about to be committed; and
-    (ii) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (b) a description of the manner in which it is proposed to intercept private communications; and
-  (c) either,—
-    (i) the name and address, if known, of the suspect the interception of whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence; or
-    (ii) if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any person—
-      (A) whom it is believed has committed or is committing or is about to commit a serious violent offence; or
-      (B) whom it is believed was involved or is involved or will be involved in the commission of a serious violent offence; and
-  (d) the period for which a warrant is requested; and
-  (e) whichever of the following is applicable:
-    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence, and the reasons why they have failed in that respect; or
-    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+[Repealed]
 
 ### 312CB Matters on which Judge must be satisfied in respect of applications relating to serious violent offences
-(1) On an application made in accordance with section 312CA, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) there are reasonable grounds for believing that,—
-    (i) a serious violent offence has been committed, or is being committed, or is about to be committed; and
-    (ii) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (b) there are reasonable grounds for believing that,—
-    (i) evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; or
-    (ii) where the serious violent offence has yet to be committed, evidence relevant to the prevention of that offence will be obtained through the use of an interception device to intercept private communications; and
-  (c) whichever of the following is applicable:
-    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence; or
-    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
+[Repealed]
 
 ### 312CC Application by Police for warrant to intercept private communications relating to terrorist offences
-(1) An application may be made to a Judge of the High Court for a warrant for any constable to intercept a private communication by means of an interception device if there are reasonable grounds for believing—
-  (a) that a terrorist offence has been committed, or is being committed, or is about to be committed; and
-  (b) if the offence has yet to be committed, that the use of an interception device to intercept private communications is likely to prevent its commission; and
-  (c) that it is unlikely that without the granting of such a warrant the Police investigation of the case can be brought to a successful conclusion or, as the case may be, the commission of the offence can be prevented.
-(2) The application must be made by a constable who is of or above the level of position of inspector, in writing and on oath, and must set out the following particulars:
-  (a) a statement of the facts relied on to show that there are reasonable grounds for believing—
-    (i) that a terrorist offence has been committed, or is being committed, or is about to be committed; and
-    (ii) if the offence has yet to be committed, that the use of an interception device to intercept private communications is likely to prevent its commission; and
-  (b) a description of how it is proposed to intercept private communications; and
-  (c) either,—
-    (i) if they are known, the name and address of the suspect the interception of whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or (as the case may be) prevent the commission of a terrorist offence; or
-    (ii) if the name and address of the suspect are not known, a general description of the premises or place in respect of which it is proposed to intercept private communications, being premises or a place believed to be used for any purpose by a person—
-      (A) who it is believed has committed, or is committing, or is about to commit, a terrorist offence; or
-      (B) who it is believed was involved, or is involved, or will be involved, in the commission of the offence; and
-  (d) a statement of the period for which the warrant is requested; and
-  (e) whichever of the following is applicable:
-    (i) both—
-      (A) a general description of the investigative procedures and techniques that have been tried, but have failed to enable the Police to conclude their investigation of the case successfully or (as the case may be) failed to help prevent the commission of the offence; and
-      (B) a statement of why those procedures and techniques have failed:
-    (ii) a statement of why it appears that investigative procedures and techniques other than the interception of private communications—
-      (A) are unlikely to enable the Police to conclude their investigation of the case successfully or (as the case may be) to help prevent the commission of the offence; or
-      (B) are likely to be too dangerous to adopt in the particular case:
-    (iii) a statement of why the case is considered so urgent that it would be impracticable for the Police to carry out their investigation using only investigative procedures and techniques other than the interception of private communications.
+[Repealed]
 
 ### 312CD Matters of which Judge must be satisfied in respect of applications relating to terrorist offences
-(1) A Judge may grant an interception warrant on an application under section 312CC if satisfied that it is in the best interests of the administration of justice to do so, and—
-  (a) that there are reasonable grounds for believing,—
-    (i) that a terrorist offence has been committed, or is being committed, or is about to be committed; and
-    (ii) if the offence has yet to be committed, that the use of an interception device to intercept private communications is likely to prevent its commission; and
-  (b) that there are reasonable grounds for believing—
-    (i) that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; or
-    (ii) if the offence has yet to be committed, that evidence relevant to the prevention of the offence will be obtained through the use of an interception device to intercept private communications; and
-  (c) whichever of the following is applicable:
-    (i) that investigative procedures and techniques other than the interception of private communications have been tried, but have failed to enable the Police to conclude their investigation of the case successfully or (as the case may be) failed to help prevent the commission of the offence; and
-    (ii) that investigative procedures and techniques other than the interception of private communications—
-      (A) are unlikely to enable the Police to conclude their investigation of the case successfully or (as the case may be) to help prevent the commission of the offence, or
-      (B) are likely to be too dangerous to adopt in the particular case:
-    (iii) that the case is so urgent that it would be impracticable for the Police to carry out their investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) that the private communications proposed to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) In determining whether or not the granting of an interception warrant under subsection (1) is in the best interests of the administration of justice, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception of private communications under it.
-(3) Subsection (2) does not limit subsection (1).
+[Repealed]
 
 **General provisions**
 
 ### 312D Contents and term of warrant
-(1) Every interception warrant shall be issued in the prescribed form, and shall—
-  (a) state the offence or offences in respect of which the warrant is granted; and
-  (b) state,—
-    (i) in the case of a warrant granted under section 312C, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise or by the person who is believed to have committed, or be committing, an offence under section 98A(1) (as the case may be); or
-    (ii) in the case of a warrant granted under section 312CB, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person—
-      (A) whom it is believed has committed or is committing or is about to commit a serious violent offence; or
-      (B) whom it is believed was involved or is involved or will be involved in the commission of a serious violent offence; and
-  (c) specify the constable who is of or above the level of position of inspector who (with any other constable for the time being assisting the constable who is of or above the level of position of inspector) may intercept the private communications; and
-  (d) where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any aircraft, ship, hovercraft, carriage, vehicle, or premises for the purpose of placing, servicing, or retrieving an interception device; and
-  (e) contain such additional terms and conditions as the Judge considers advisable in the public interest.
-(2) Without limiting subsection (1), where it is proposed to place an interception device in the residential or business premises of a person who is a barrister or solicitor, or a clergyman, or a medical practitioner, the Judge shall prescribe such conditions (if any) as the Judge considers desirable to avoid so far as practicable the interception of communications of a professional character to which the barrister or solicitor or clergyman or medical practitioner is a party.
-(3) Every interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the warrant.
+[Repealed]
 
 ### 312E Effect of warrant
-Every interception warrant shall have effect, according to its terms, to authorise the interception of private communications by means of an interception device.
+[Repealed]
 
 ### 312F Renewal of warrants
-(1) Any Judge of the High Court may from time to time grant a renewal of an interception warrant upon application made at any time before the warrant (or any current renewal of the warrant) has expired.
-(2) Every application for the renewal of an interception warrant shall be made in the manner provided by section 312B or, as the case requires, section 312CA, and shall give—
-  (a) the reason and period for which the renewal is required; and
-  (b) full particulars, together with times and dates, of any interceptions made or attempted under the warrant, and an indication of the nature of the information that has been obtained by every such interception.
-(3) Every such application shall be supported by such other information as the Judge may require.
-(4) A renewal of an interception warrant may be granted under this section if the Judge is satisfied that the circumstances described in section 312C or, as the case requires, section 312CB still obtain.
-(5) Every renewal of an interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the renewal.
-(6) A renewal of an interception warrant may be granted upon an application made within the time prescribed by subsection (1) notwithstanding that the warrant (or any renewal of the warrant) has expired before the application is determined.
-(7) Nothing in this section shall prevent a Judge from granting a second or subsequent renewal of an interception warrant upon an application duly made.
+[Repealed]
 
 ### 312G Emergency permits
-(1) In any case where a Judge is satisfied that circumstances exist that would justify the grant of an interception warrant under section 312C or, as the case requires, section 312CB, but the urgency of the situation requires that the interception should begin before a warrant could with all practicable diligence be obtained, the Judge may, orally or in writing, grant an emergency permit for the interception of private communications in respect of particular premises or a particular place or a particular thing or a particular type of facility and in a particular manner.
-(2)
-(3) Any application for an emergency permit may be made orally, but otherwise every such application shall comply with the requirements of section 312B or, as the case requires, section 312CA.
-(4) Where the Judge grants the application for an emergency permit, the Judge shall forthwith make a note in writing of the particulars of the application. The note shall be filed in the High Court Registry nearest to where the application is made, and shall, for the purposes of section 312H(1), be deemed to be a document relating to the application for the permit. The Judge shall also make a note of the terms of the permit.
-(5) The provisions of section 312D, so far as they are applicable and with the necessary modifications, shall apply to emergency permits in the same manner as they apply to interception warrants.
-(6) Every emergency permit shall remain valid for 48 hours from the time when it is given, and shall then expire.
-(7) On filing the report required by section 312P, the constable who applied for the emergency permit (or, if that constable is not the constable filing the report, then the constable who is filing the report) may apply to the Judge who granted the permit (or, if that Judge is not the Judge receiving the report, then the Judge who is receiving the report) for a certificate confirming the permit pursuant to subsection (9).
-(8) Where the Police, within the period of 48 hours during which the emergency permit is valid, apply for an interception warrant in place of the permit, the constable applying for the warrant may also apply for a certificate confirming the permit pursuant to subsection (9).
-(9) The Judge to whom an application is made pursuant to subsection (7) or subsection (8) shall issue a certificate confirming the permit if the Judge is satisfied, having regard to the requirements of section 312C or, as the case requires, section 312CB, that if the original application for the emergency permit had been an application for an interception warrant, the Judge would have granted a warrant.
-(10) For the purposes of section 312M, an interception of a private communication pursuant to an emergency permit shall be deemed to have been made unlawfully unless the Judge to whom an application is made in accordance with subsection (7) or subsection (8) issues a certificate confirming the permit pursuant to subsection (9).
+[Repealed]
 
 ### 312H Security of applications
-(1) As soon as an application for an interception warrant or for a renewal of an interception warrant or for an emergency permit or for a certificate confirming an emergency permit has been determined by the Judge, the Registrar shall place all documents relating to the application (except the warrant or renewal or permit or certificate itself) in a packet, seal the packet, and thereafter keep it in safe custody, subject to the succeeding provisions of this section.
-(2) Notwithstanding any enactment or rule of law or rules of court entitling any party to any proceedings to demand the production of any documents, no such party shall be entitled to demand the production of any documents held in safe custody pursuant to subsection (1), except in accordance with the succeeding provisions of this section.
-(3) Every such party who requires the production of any document held in safe custody pursuant to subsection (1) shall, except in a case to which subsection (9) or subsection (10) applies, apply in writing to the Registrar, who shall forthwith notify the senior constable in the district.
-(4) If, within 3 days after notice is given to the senior constable in the district under subsection (3), that constable gives written notice to the Registrar that that constable intends to oppose the production of the documents, the Registrar shall refer the matter to a Judge.
-(5) Where the senior constable in the district does not give such written notice to the Registrar, the Registrar shall produce the documents to the party applying for production.
-(6) Where a matter is referred to a Judge pursuant to subsection (4), both the person requesting production of the documents and the constable opposing production shall be given an opportunity to be heard.
-(7) If the Judge is satisfied that information in any document the production of which is in dispute identifies or is likely to lead to the identification of a person who gave information to the Police, or of any constable whose identity was concealed for the purpose of any relevant investigation and has not been subsequently revealed, the Judge may, if the Judge believes it in the public interest to do so, order that the whole or any specified part of the document be not produced.
-(8) Subject to the provisions of subsection (7), the Judge shall order the production of the documents to the party requesting it.
-(9) Where a request for the production of any document kept in safe custody pursuant to subsection (1) is made in the course of any proceedings presided over by a Judge and the request is opposed, the Judge shall adjudicate upon the matter as if it had been referred to the Judge pursuant to subsection (4).
-(10) Where such a request is made in the course of any other proceedings, the presiding judicial officer shall forthwith refer the matter to a Judge for adjudication.
-(11) Notwithstanding anything in this section, every Judge who is presiding over any proceedings in which the issue of an interception warrant or emergency permit is in issue shall be entitled to inspect any relevant document held under subsection (1).
+[Repealed]
 
 ### 312I Destruction of irrelevant records made by use of interception device
-(1) Every person who intercepts a private communication in pursuance of an interception warrant or any emergency permit must, as soon as practicable after it has been made, destroy any record, whether written or otherwise, of the information obtained by that interception if none of the information directly or indirectly relates to—
-  (a) the commission of a specified offence or a conspiracy to commit such an offence; or
-  (b) the commission of a serious violent offence or a conspiracy to commit such an offence; or
-  (c) a drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978).
-(2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+[Repealed]
 
 ### 312J Destruction of relevant records made by use of interception device
-(1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to—is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
-  (a) the commission of a specified offence or a conspiracy to commit such an offence; or
-  (b) the commission of a serious violent offence or a conspiracy to commit such an offence; or
-  (c) a drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978),—
-(1A) In subsection (1), proceedings includes proceedings under sections 142A to 142Q of the Sentencing Act 2002 and any proceedings under the Criminal Proceeds (Recovery) Act 2009.
-(2) Nothing in subsection (1) shall apply to—
-  (a) any record of any information adduced in proceedings in any court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) is made, would have been adduced had the matter come to trial:
-  (b) any record of any information contained in any transcript or written statement given to any person in accordance with section 312L(a).
-(3) Every report made to a Judge in accordance with section 312P shall state whether or not subsection (1) has yet been complied with, and, if it has not, the Judge shall give such directions relating to the eventual destruction of the record as the Judge thinks necessary to ensure compliance with that subsection, including a requirement that the Judge be advised when the record has been destroyed.
+[Repealed]
 
 ### 312K Prohibition on disclosure of private communications lawfully intercepted
-(1) No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of that person's duty.
-  (a) intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
-  (b) acquires knowledge of a private communication as a direct or indirect result of that interception—
-(2) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
+[Repealed]
 
 ### 312L Notice to be given of intention to produce evidence of private communication
-Particulars of a private communication intercepted pursuant to an interception warrant or an emergency permit shall not be received in evidence by any court against any person unless the party intending to adduce it has given to that person reasonable notice of that person's intention to do so, together with—
-  (a) a transcript of the private communication where that person intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that person intends to adduce oral evidence of it; and
-  (b) a statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
+[Repealed]
 
 ### 312M Inadmissibility of evidence of private communications unlawfully intercepted
-(1) Subject to subsections (2) to (4), where a private communication intercepted by means of an interception device otherwise than in pursuance of an interception warrant or emergency permit issued under this Part or of any authority conferred by or under any other enactment has come to the knowledge of a person as a direct or indirect result of that interception or its disclosure, no evidence so acquired of that communication, or of its substance, meaning, or purport, and no other evidence obtained as a direct or indirect result of the interception or disclosure of that communication, shall be given against any person, except in proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted in that manner.
-(2) Even though certain evidence is inadmissible in criminal proceedings by virtue of subsection (1), a court may admit that evidence if the following conditions are satisfied:
-  (a) the proceedings are for—
-    (i) a specified offence, or a conspiracy to commit a specified offence; or
-    (ii) a serious violent offence, or a conspiracy to commit such an offence; and
-  (b) the evidence is relevant; and
-  (c) the evidence is inadmissible by virtue of subsection (1) merely because of a defect in form, or an irregularity in procedure, in—
-    (i) the application for or the granting of the interception warrant or emergency permit; or
-    (ii) the manner in which the evidence was obtained; and
-  (d) the defect in form or irregularity in procedure—
-    (i) was not substantive; and
-    (ii) was not the result of bad faith.
-(3) Subsection (1) shall not render inadmissible against any party to a private communication evidence of that communication that has, in the manner referred to in that subsection, come to the knowledge of the person called to give evidence, if all the parties to the communication consent to that person giving the evidence.
-(4) Subsection (1) shall not render inadmissible evidence of a private communication by any person who intercepted that communication by means of an interception device with the prior consent of any party to the communication.
+[Repealed]
 
 ### 312N Restriction on admissibility of evidence of private communications lawfully intercepted
-Even if the communication was intercepted under an interception warrant or an emergency permit, evidence of a private communication intercepted by means of an interception device, or of its substance, meaning, or purport, may not be given in any court unless the evidence relates to—
-  (a) a specified offence; or
-  (b) a conspiracy to commit a specified offence; or
-  (c) a terrorist offence; or
-  (d) a conspiracy to commit a terrorist offence; or
-  (e) a serious violent offence; or
-  (f) a conspiracy to commit a serious violent offence; or
-  (g) a drug dealing offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
-  (h) a prescribed cannabis offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
-  (i) offences of 2 or more of those kinds specified in paragraphs (a) to (h); or
-  (j) an offence specified in paragraphs (a) to (h) and the evidence is relevant to a proceeding under the Criminal Proceeds (Recovery) Act 2009 or a proceeding under sections 142A to 142Q of the Sentencing Act 2002.
+[Repealed]
 
 ### 312O Privileged evidence
-Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any court, except with the consent of the person entitled to waive that privilege.
-  (a) any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
-  (b) any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client,—
+[Repealed]
 
 ### 312P Report to be made to Judge on use of warrant or permit
-(1) As soon as practicable after an interception warrant or an emergency permit has expired, the constable who applied for it, or (if that constable is unable to act) another constable who is of or above the level of position of inspector, shall make a written report to the Judge who granted the warrant or permit, or (if that Judge is unable to act) to another Judge, on the manner in which the power conferred by the warrant or permit has been exercised and the results obtained by the exercise of that power.
-(2) Notwithstanding anything in section 312H, the Judge who receives a report under subsection (1) of this section shall be entitled to inspect any relevant document held under subsection (1) of that section.
-(3) Without limiting the generality of subsection (1), every report made for the purposes of that subsection shall contain the following information:
-  (a) where the interception device was placed:
-  (b) the number of interceptions made by means of the interception device:
-  (c) whether any relevant evidence was obtained by means of the interception device:
-  (d) whether any relevant evidence has been, or is intended to be, used in any criminal proceedings:
-  (e) whether any records of a private communication intercepted pursuant to the warrant or permit have been destroyed in accordance with section 312I or section 312J, and, if not, why they have not been destroyed:
-  (f) whether the interception device has been retrieved, and, if not, why it has not been retrieved.
-(4) On receiving a report under this section, the Judge may require such further information relating to the matter as the Judge thinks fit, and (in addition to any directions the Judge gives for the purposes of section 312J(3)) the Judge may give such directions as the Judge thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
+[Repealed]
 
 ### 312Q Commissioner of Police to give information to Parliament
-The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
-  (a) the number of applications for warrants made under section 312B; and
-  (b) the number of applications for warrants made under section 312CA; and
-  (c) the number of applications for renewals of warrants made under section 312F; and
-  (d) the number of applications for emergency permits made under section 312G; and
-  (e) the number of applications referred to in each of paragraphs (a) to (d) that were granted, and the number that were refused; and
-  (f) in relation to each of the types of warrant referred to in paragraphs (a) and (b) that were issued,—
-    (i) the number of warrants that authorised the use of an interception device to intercept the private communications of a named individual:
-    (ii) the number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
-    (iii) the number of warrants that authorised entry onto private premises; and
-  (g) the number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 312G; and
-  (ga) the number of occasions on which the Police used an interception device in reliance on section 216B(3)(b):
-  (h) the average duration of warrants (including renewals); and
-  (i) the number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
-  (j) the number of prosecutions that have been instituted against constables (including former constables where the prosecution relates to behaviour occurring while they were constables) for—
-    (i) offences against section 216C (prohibition on disclosure of private communications unlawfully intercepted):
-    (ii) offences against section 312K (prohibition on disclosure of private communications lawfully intercepted).
-  (k) in relation to the emergency powers granted under section 216B(3),—
-    (i) whether or not the powers have been used:
-    (ii) the number of times the powers have been used:
-    (iii) the circumstances in which the powers were used:
-    (iv) the results of using the powers; and
-  (ka) in relation to road blocks authorised under section 317B,—
-    (i) the number of road blocks authorised; and
-    (ii) the reason for each authorisation; and
-    (iii) the number of persons (if any) arrested as a result of that authorisation; and
-  (l) the number of warrants that did not result in any charges being laid within 90 days of the date on which the warrant expired.
+[Repealed]
 
 ## Part 12 — Procedure
 
@@ -4460,3 +4219,25 @@ This Act amends the Crimes Act 1961.
 ### 12 Transitional provision
 (1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
 (2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+### 346 Transitional provision relating to Part 11A of Crimes Act 1961
+(1) Despite the repeal of Part 11A of the Crimes Act 1961 by this Act,—
+  (a) where an application has been made under that Part before 18 April 2012, and the application is not finally determined before that date, that Part continues to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
+  (b) that Part (except for section 312F) continues to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
+  (c) section 312M of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
+(2) In this section, continuing warrant or permit means an interception warrant or emergency permit issued under Part 11A of the Crimes Act 1961—
+  (a) before 18 April 2012; or
+  (b) on or after that date on an application made before that date.
