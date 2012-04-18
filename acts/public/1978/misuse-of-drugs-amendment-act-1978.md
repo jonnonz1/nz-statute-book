@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-04-18_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -334,204 +334,62 @@ The Commissioner of Police shall include in every annual report prepared by the 
 **Applications for interception warrants in relation to drug dealing offences**
 
 ### 14 Application by Police for warrant to intercept private communications
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any member of the Police to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) A person has committed, or is committing, or is about to commit, a drug dealing offence; and
-  (b) It is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
-(2) Every application under subsection (1) of this section shall be made by a commissioned officer of Police, in writing, and on oath, and shall set out the following particulars:
-  (a) The facts relied upon to show that there are reasonable grounds for believing that a person has committed, or is committing, or is about to commit, a drug dealing offence; and
-  (b) A description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the police investigation of the case or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any person involved in the drug dealing offence; and
-  (d) The period for which a warrant is requested; and
-  (e) Whichever of the following is applicable:
-    (i) The other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) The reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+[Repealed]
 
 ### 15 Matters on which Judge must be satisfied in respect of applications
-(1) On an application made to him in accordance with section 14 of this Act, the Judge may grant an interception warrant if he is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) There are reasonable grounds for believing that a person has committed, or is committing, or is about to commit a drug dealing offence; and
-  (b) There are reasonable grounds for believing that evidence relevant to the investigation of the offence will be obtained through the use of an interception device to intercept private communications; and
-  (c) Whichever of the following is applicable:
-    (i) Other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) Other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) The private communications to be intercepted are not likely to be privileged in proceedings in a Court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and his client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
+[Repealed]
 
 **Applications for interception warrants in relation to prescribed cannabis offences**
 
 ### 15A Application by Police for warrant to intercept private communications in relation to prescribed cannabis offences
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any Police employee to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) Any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-  (b) The prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (c) It is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
-(2) Every application under subsection (1) must be made by a commissioned officer of Police, in writing, and on oath, and must set out the following particulars:
-  (a) The facts relied upon to show that there are reasonable grounds for believing that—
-    (i) There is an organised criminal enterprise; and
-    (ii) Any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-    (iii) The prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (b) A description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the police investigation of the case or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and.
-  (d) The period for which a warrant is requested; and
-  (e) Whichever of the following is applicable:
-    (i) The other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) The reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+[Repealed]
 
 ### 15B Matters on which Judge must be satisfied in respect of applications relating to prescribed cannabis offences
-(1) On an application made in accordance with section 15A, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) There are reasonable grounds for believing that—
-    (i) There is an organised criminal enterprise; and
-    (ii) Any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
-    (iii) The prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
-  (b) There are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
-  (c) Whichever of the following is applicable:
-    (i) Other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) Other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) The private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
+[Repealed]
 
 **General provisions relating to interception of private communications**
 
 ### 16 Contents and term of warrant
-(1) Every interception warrant shall be issued in the prescribed form, and shall—
-  (a) State the offence in respect of which the warrant is granted; and
-  (b) state,—
-    (i) in the case of a warrant granted under section 15, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person involved in the drug dealing offence; or
-    (ii) in the case of a warrant granted under section 15B, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and.
-  (c) Specify the commissioned officer of Police who (with any other Police employee or officer of Customs for the time being assisting him) may intercept the private communications; and
-  (d) Where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any craft, carriage, vehicle, or premises, for the purpose of placing, servicing, or retrieving an interception device; and
-  (e) Contain such additional terms and conditions as the Judge considers advisable in the public interest.
-(2) Without limiting subsection (1) of this section, where it is proposed to place an interception device in the residential or business premises of a person who is a barrister or solicitor, or a clergyman, or a medical practitioner, the Judge shall prescribe such conditions (if any) as he considers desirable to avoid so far as practicable the interception of communications of a professional character to which the barrister or solicitor or clergyman or medical practitioner is a party.
-(3) Every interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the warrant.
+[Repealed]
 
 ### 17 Effect of warrant
-Every interception warrant shall have effect, according to its terms, to authorise the interception of private communications by means of an interception device.
+[Repealed]
 
 ### 18 Renewal of warrants
-(1) Any Judge of the High Court may from time to time grant a renewal of an interception warrant upon application made to him at any time before the warrant (or any current renewal thereof) has expired.
-(2) Every application for the renewal of an interception warrant shall be made in the manner provided by section 14 or, as the case requires, section 15A of this Act, and shall give—
-  (a) The reason and period for which the renewal is required; and
-  (b) Full particulars, together with times and dates, of any interceptions made or attempted under the warrant, and an indication of the nature of the information that has been obtained by every such interception.
-(3) Every such application shall be supported by such other information as the Judge may require.
-(4) A renewal of an interception warrant may be granted under this section if the Judge is satisfied that the circumstances described in section 15 or, as the case requires, section 15B of this Act still obtain.
-(5) Every renewal of an interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the renewal.
-(6) A renewal of an interception warrant may be granted upon an application made within the time prescribed by subsection (1) of this section notwithstanding that the warrant (or any renewal thereof) has expired before the application is determined.
-(7) Nothing in this section shall prevent a Judge from granting a second or subsequent renewal of an interception warrant upon an application duly made to him.
+[Repealed]
 
 ### 19 Emergency permits
-(1) In any case where a Judge is satisfied that circumstances exist that would justify the grant of an interception warrant under section 15 or, as the case requires, section 15B of this Act, but the urgency of the situation requires that the interception should begin before a warrant could with all practicable diligence be obtained, the Judge may, orally or in writing, grant an emergency permit for the interception of private communications in respect of particular premises or a particular place or a particular thing or a particular type of facility and in a particular manner.
-(2)
-(3) Any application for an emergency permit may be made orally, but otherwise every such application shall comply with the requirements of section 14 or, as the case requires, section 15A of this Act.
-(4) Where the Judge grants the application for an emergency permit, he shall forthwith make a note in writing of the particulars of the application. The note shall be filed in the High Court Registry nearest to where the application is made, and shall, for the purposes of section 20(1) of this Act, be deemed to be a document relating to the application for the permit. The Judge shall also make a note of the terms of the permit.
-(5) The provisions of section 16 of this Act, so far as they are applicable and with the necessary modifications, shall apply to emergency permits in the same manner as they apply to interception warrants.
-(6) Every emergency permit shall remain valid for 48 hours from the time when it is given, and shall then expire.
-(7) On filing the report required by section 28 of this Act, the member of the Police who applied for the emergency permit (or, if he is not the member filing the report, then that member) may apply to the Judge who granted the permit (or, if he is not the Judge receiving the report, then that Judge) for a certificate confirming the permit pursuant to subsection (9) of this section.
-(8) Where the Police, within the period of 48 hours during which the emergency permit is valid, apply for an interception warrant in place of the permit, the member of the Police applying for the warrant may also apply for a certificate confirming the permit pursuant to subsection (9) of this section.
-(9) The Judge to whom an application is made pursuant to subsection (7) or subsection (8) of this section shall issue a certificate confirming the permit if he is satisfied, having regard to the requirements of section 15 or, as the case requires, section 15B of this Act, that if the original application for the emergency permit had been an application for an interception warrant, he would have granted a warrant.
-(10) For the purposes of section 25 of this Act, an interception of a private communication pursuant to an emergency permit shall be deemed to have been made unlawfully unless the Judge to whom an application is made in accordance with subsection (7) or subsection (8) of this section issues a certificate confirming the permit pursuant to subsection (9) of this section.
+[Repealed]
 
 ### 20 Security of applications
-(1) As soon as an application for an interception warrant or for a renewal of an interception warrant or for an emergency permit or for a certificate confirming an emergency permit has been determined by the Judge, the Registrar shall place all documents relating to the application (except the warrant or renewal or permit or certificate itself) in a packet, seal the packet, and thereafter keep it in safe custody, subject to the succeeding provisions of this section.
-(2) Notwithstanding any enactment or rule of law or rules of Court entitling any party to any proceedings to demand the production of any documents, no such party shall be entitled to demand the production of any documents held in safe custody pursuant to subsection (1) of this section, except in accordance with the succeeding provisions of this section.
-(3) Every such party who requires the production of any document held in safe custody pursuant to subsection (1) of this section shall, except in a case to which subsection (9) or subsection (10) of this section applies, apply in writing to the Registrar, who shall forthwith notify the senior Police officer in the district.
-(4) If, within 3 days after notice is given to the senior Police officer in the district under subsection (3) of this section, that officer gives written notice to the Registrar that he intends to oppose the production of the documents, the Registrar shall refer the matter to a Judge.
-(5) Where the senior Police officer in the district does not give written notice to the Registrar as aforesaid, the Registrar shall produce the documents to the party applying for production.
-(6) Where a matter is referred to a Judge pursuant to subsection (4) of this section, both the person requesting production of the documents and the member of the Police opposing production shall be given an opportunity to be heard.
-(7) If the Judge is satisfied that information in any document the production of which is in dispute identifies or is likely to lead to the identification of a person who gave information to the Police, or of any Police employee whose identity was concealed for the purpose of any relevant investigation and has not been subsequently revealed, he may, if he believes it in the public interest to do so, order that the whole or any specified part of the document be not produced.
-(8) Subject to the provisions of subsection (7) of this section, the judge shall order the production of the documents to the party requesting it.
-(9) Where a request for the production of any document kept in safe custody pursuant to subsection (1) of this section is made in the course of any proceedings presided over by a Judge and the request is opposed, the judge shall adjudicate upon the matter as if it had been referred to him pursuant to subsection (4) of this section.
-(10) Where such a request is made in the course of any other proceedings, the presiding judicial officer shall forthwith refer the matter to a Judge for adjudication as aforesaid.
-(11) Notwithstanding anything in this section, every Judge or District Court Judge who is presiding over any proceedings in which the issue of an interception warrant or emergency permit is in issue shall be entitled to inspect any relevant document held under subsection (1) of this section.
+[Repealed]
 
 ### 21 Destruction of irrelevant records made by use of interception device
-(1) Every person who intercepts a private communication in pursuance of an interception warrant or any emergency permit must, as soon as practicable after it has been made, destroy any record, whether written or otherwise, of the information obtained by that interception if none of the information directly or indirectly relates to—
-  (a) The commission of a drug dealing offence or a prescribed cannabis offence; or
-  (b) The commission of a specified offence or a serious violent offence (as those terms are defined in section 312A of the Crimes Act 1961), or a conspiracy to commit such an offence.
-(2) Every person who fails to comply with subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
+[Repealed]
 
 ### 22 Destruction of relevant records made by use of interception device
-(1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to—is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
-  (a) The commission of a drug dealing offence or a prescribed cannabis offence; or
-  (b) The commission of a specified offence or a serious violent offence (as those terms are defined in section 312A of the Crimes Act 1961), or a conspiracy to commit such an offence,—
-(2) Nothing in subsection (1) of this section shall apply to—
-  (a) Any record of any information adduced in proceedings in any Court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) of this section is made, would have been adduced had the matter come to trial:
-  (b) Any record of any information contained in any transcript or written statement given to any person in accordance with section 24(a) of this Act.
-(3) Every report made to a Judge in accordance with section 28 of this Act shall state whether or not subsection (1) of this section has yet been complied with, and, if it has not, the Judge shall give such directions relating to the eventual destruction of the record as he thinks necessary to ensure compliance with that subsection, including a requirement that he be advised when the record has been destroyed.
+[Repealed]
 
 ### 23 Prohibition on disclosure of private communications lawfully intercepted
-(1) No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of his duty.
-  (a) Intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
-  (b) Acquires knowledge of a private communication as a direct or indirect result of that interception—
-(2) Every person who acts in contravention of subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
+[Repealed]
 
 ### 24 Notice to be given of intention to produce evidence of private communication
-Particulars of a private communication intercepted pursuant to an interception warrant or an emergency permit shall not be received in evidence by any Court against any person unless the party intending to adduce it has given to that person reasonable notice of his intention to do so, together with—
-  (a) A transcript of the private communication where he intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where he intends to adduce oral evidence of it; and
-  (b) A statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
+[Repealed]
 
 ### 25 Inadmissibility of evidence of private communications unlawfully intercepted
-(1) Subject to subsections (2) to (4) of this section, where a private communication intercepted by means of an interception device otherwise than in pursuance of an interception warrant or emergency permit issued under this Act or of any authority conferred by or under any other enactment has come to the knowledge of a person as a direct or indirect result of that interception or its disclosure, no evidence so acquired of that communication, or of its substance, meaning, or purport, and no other evidence obtained as a direct or indirect result of the interception or disclosure of that communication, shall be given against any person, except in proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted in that manner.
-(2) Even though certain evidence is inadmissible in criminal proceedings by virtue of subsection (1), a Court may admit that evidence if the following conditions are satisfied:
-  (a) The proceedings are for—
-    (i) A drug dealing offence; or
-    (ii) A prescribed cannabis offence; and
-  (b) The evidence is relevant; and
-  (c) The evidence is inadmissible by virtue of subsection (1) merely because of a defect in form, or an irregularity in procedure, in—
-    (i) The application for or the granting of the interception warrant or emergency permit; or
-    (ii) The manner in which the evidence was obtained; and
-  (d) The defect in form or irregularity in procedure—
-    (i) Was not substantive; and
-    (ii) Was not the result of bad faith.
-(3) Subsection (1) of this section shall not render inadmissible against any party to a private communication evidence of that communication that has, in the manner referred to in that subsection, come to the knowledge of the person called to give evidence, if all the parties to the communication consent to that person giving the evidence.
-(4) Subsection (1) of this section shall not render inadmissible evidence of a private communication by any person who intercepted that communication by means of an interception device with the prior consent of any party to the communication.
+[Repealed]
 
 ### 26 Restriction on admissibility of evidence of private communications lawfully intercepted
-(1) Even if the communication was intercepted under an interception warrant or an emergency permit, evidence of a private communication intercepted by means of an interception device, or of its substance, meaning, or purport, may not be given in any court unless the evidence relates to—
-  (a) a specified offence; or
-  (b) a conspiracy to commit a specified offence; or
-  (c) a terrorist offence; or
-  (d) a conspiracy to commit a terrorist offence; or
-  (e) a serious violent offence; or
-  (f) a conspiracy to commit a serious violent offence; or
-  (g) a drug dealing offence; or
-  (h) a prescribed cannabis offence; or
-  (i) offences of 2 or more of those kinds.
-(2) In subsection (1), serious violent offence, specified offence, and terrorist offence have the meanings given to those terms by section 312A of the Crimes Act 1961.
+[Repealed]
 
 ### 27 Privileged evidence
-Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any Court, except with the consent of the person entitled to waive that privilege.
-  (a) Any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
-  (b) Any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and his client,—
+[Repealed]
 
 ### 28 Report to be made to Judge on use of warrant or permit
-(1) As soon as practicable after an interception warrant or an emergency permit has expired, the member of the Police who applied for it, or (if he is unable to act) another commissioned officer of Police, shall make a written report to the Judge who granted the warrant or permit, or (if he is unable to act) to another Judge, on the manner in which the power conferred by the warrant or permit has been exercised and the results obtained by the exercise of that power.
-(2) Notwithstanding anything in section 20 of this Act, the Judge who receives a report under subsection (1) of this section shall be entitled to inspect any relevant document held under subsection (1) of that section.
-(3) Without limiting the generality of subsection (1) of this section, every report made for the purposes of that subsection shall contain the following information:
-  (a) Where the interception device was placed:
-  (b) The number of interceptions made by means of the interception device:
-  (c) Whether any relevant evidence was obtained by means of the interception device:
-  (d) Whether any relevant evidence has been, or is intended to be, used in any criminal proceedings:
-  (e) Whether any records of a private communication intercepted pursuant to the warrant or permit have been destroyed in accordance with section 21 or section 22 of this Act, and, if not, why they have not been destroyed:
-  (f) Whether the interception device has been retrieved, and, if not, why it has not been retrieved.
-(4) On receiving a report under this section, the Judge may require such further information relating to the matter as he thinks fit, and (in addition to any directions he gives for the purposes of section 22(3) of this Act) he may give such directions as he thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
+[Repealed]
 
 ### 29 Commissioner of Police to give information to Parliament
-The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
-  (a) The number of applications for warrants made under section 14; and
-  (b) The number of applications for warrants made under section 15A; and
-  (c) The number of applications for renewals of warrants made under section 18; and
-  (d) The number of applications for emergency permits made under section 19; and
-  (e) The number of applications referred to in each of paragraphs (a) to (d) that were granted, and the number that were refused; and
-  (f) In relation to each of the types of warrant referred to in paragraphs (a) and (b) that were issued,—
-    (i) The number of warrants that authorised the use of an interception device to intercept the private communications of a named individual:
-    (ii) The number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
-    (iii) The number of warrants that authorised entry onto private premises; and
-  (g) The number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 19; and
-  (h) The average duration of warrants (including renewals); and
-  (i) The number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
-  (j) The number of prosecutions that have been instituted against members of the Police (including former members of the Police where the prosecution relates to behaviour occurring while they were members of the Police) for offences against section 23 (prohibition on disclosure of private communications lawfully intercepted).
+[Repealed]
 
 **Bail**
 
@@ -618,3 +476,27 @@ This Part of this Act shall be administered in the Ministry of Justice.
 ## Schedule 1 — Interception warrant
 
 ## Schedule 2 — Statement of rights
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 347 Transitional provision relating to sections 14 to 29 of Misuse of Drugs Amendment Act 1978
+(1) Despite the repeal of sections 14 to 29 of the Misuse of Drugs Amendment Act 1978 by this Act,—
+  (a) where an application has been made under any of those sections before 18 April 2012 and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
+  (b) those sections (except for section 18) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
+  (c) section 25 of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
+(2) In this section, continuing warrant or permit means an interception warrant or emergency permit issued under sections 14 to 29 of the Misuse of Drugs Amendment Act 1978—
+  (a) before 18 April 2012; or
+  (b) on or after that date on an application made before that date.
