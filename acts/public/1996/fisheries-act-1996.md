@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-04-18_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -3867,17 +3867,34 @@ To avoid doubt, the powers of a fishery officer conferred by or under this Part 
 
 **Powers of entry, search, and questioning**
 
-### 199 Powers of entry and search
+### 199 Powers of entry and examination for regulatory purposes
 (1) In the course of the enforcement and administration of this Act, a fishery officer may, at any reasonable time,—
-  (a) stop, enter, or pass across any land in order to enter and examine any vessel or vehicle, or enter and examine any premises or place, or examine any record, document, article, and any gear, apparatus, device, or contents of any kind therein:
-  (b) stop any person and examine any record, document, article, container, gear, apparatus, device, fish, aquatic life, or seaweed in the possession of that person.
-(2) If a fishery officer believes, on reasonable grounds,—then, for the purpose of the enforcement of this Act, that officer may at any reasonable time enter or pass across any land in order to enter, examine, and search any such premises or place, or any such vessel, vehicle, or conveyance of any kind (by stopping or opening where necessary), and may examine and search (by stopping or opening where necessary) any such parcel, package, record, or thing.
-  (a) that an offence is being or has been committed against this Act; and
-  (b) that—may be concealed or located or held in any vessel, vehicle, conveyance of any kind, premises, place, parcel, package, record, or thing—
+  (a) examine any vessel, vehicle, premises, or other place (by stopping or opening the thing or place, as the case requires, where necessary) and—
+    (i) examine any fish, aquatic life, or seaweed in that thing or at that place; or
+    (ii) examine any accounts, records, returns, or other documents in that thing or at that place that may be relevant to monitoring compliance with this Act or any regulations made under this Act; or
+    (iii) examine any record, authority, approval, permission, licence, or authority in that thing or at that place that may be relevant to monitoring compliance with this Act or any regulations made under this Act; or
+    (iv) examine any article, gear, container, apparatus, device, or thing relating to the taking, sale, purchase, farming, or possession of any fish, aquatic life, or seaweed that is in that thing or at that place:
+  (b) enter, pass across, or remain upon any land for the purpose of observing any public place, including by the use of a visual surveillance device:
+  (c) stop any person and examine any thing referred to in paragraph (a)(i) to (iv) that is in the possession of that person:
+  (d) for the purposes of any examination under paragraph (a) or (c),—
+    (i) open, or direct any person to open, any thing that may be examined; and
+    (ii) take any sample of a thing that may be examined, for forensic or other scientific testing:
+  (e) for the purposes of exercising any power conferred by paragraph (a), enter or pass across any land.
+(2) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for any period that is reasonably necessary to enable the fishery officer to carry out an examination under this section.
+(3) In this section and in section 199A, visual surveillance device means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to observe, or to observe and record, any object or activity.
+
+### 199A Powers of entry and search for law enforcement purposes
+(1) Subsection (2) applies to a fishery officer if he or she believes, on reasonable grounds, that—
+  (a) an offence is being or has been committed against this Act; and
+  (b) there may be concealed or located or held in any vessel, vehicle, conveyance of any kind, premises, place, parcel, package, record, or thing—
     (i) any fish, aquatic life, or seaweed taken or thing used or intended to be used in contravention of this Act; or
-    (ii) any record or information required by or under this Act to be kept, completed, or provided; or
-    (iii) any article, record, document, or thing which there is reasonable ground to believe will be evidence as to the commission of an offence against this Act,—
-(3) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for such period as is reasonably necessary to enable the fishery officer to carry out an examination or search under this section.
+    (ii) any article, record, document, or thing that will be evidence as to the commission of an offence against this Act.
+(2) If this subsection applies to a fishery officer, then, for the purpose of enforcing this Act, that officer may—
+  (a) enter, examine, and search any such premises or place, or any such vessel, vehicle, or conveyance of any kind (by stopping or opening the thing or place, as the case requires, where necessary); and
+  (b) enter, pass across, or remain upon any land for the purpose of observing any public place, including by the use of a visual surveillance device; and
+  (c) examine and search (by opening the thing where necessary) any such parcel, package, record, or thing; and
+  (d) for the purposes of exercising any power conferred by paragraph (a), enter or pass across any land.
+(3) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for such period as is reasonably necessary to enable the fishery officer to carry out an examination or a search under this section.
 
 ### 200 Conditions relating to exercise of powers of entry, etc
 (1) A fishery officer shall not exercise any power under this Act to enter a place that is a private dwelling place, or the enclosed garden or curtilage of a private dwelling place, or any Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993, unless he or she is authorised in writing by a Justice, Community Magistrate, District Court Judge, or Registrar of a District Court.
@@ -3985,7 +4002,7 @@ All property seized under section 207 and (if applicable) the proceeds from the 
 If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or other thing seized under section 207 may rot, spoil, deteriorate, or otherwise perish, the chief executive may dispose of it in such manner and for such price (if any) as the chief executive may determine.
 
 ### 213 Protection of the Crown
-(1) The Crown shall not be liable to any person for any spoilage or deterioration in the quality of any fish, aquatic life, seaweed, or other thing detained under section 199, or seized under section 207, or for any loss caused by its disposal under section 212.
+(1) The Crown shall not be liable to any person for any spoilage or deterioration in the quality of any fish, aquatic life, seaweed, or other thing detained under section 199 or 199A, or seized under section 207, or for any loss caused by its disposal under section 212.
 (2) Notwithstanding any other provisions in this Part, a fishery officer who at the time of seizure returns to the water any fish, aquatic life, or seaweed seized under section 207 that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the fish, aquatic life, or seaweed was seized, or to any other person, in the event of a decision being made not to lay an information or charge in respect of the fish, aquatic life, or seaweed or of the person being acquitted of the charge.
 
 **Crown caveats**
@@ -6043,71 +6060,21 @@ Section 369L(3) expires with the close of 31 January 2007.
 
 #### Schedule I — Standard requirements for the collection and sharing of data
 
-###
-  (1.) The timely collection, compilation and analysis of data are fundamental to the effective conservation and management of straddling fish stocks and highly migratory fish stocks. To this end, data from fisheries for these stocks on the high seas and those in areas under national jurisdiction are required and should be collected and compiled in such a way as to enable statistically meaningful analysis for the purposes of fishery resource conservation and management. These data include catch and fishing effort statistics and other fishery-related information, such as vessel-related and other data for standardizing fishing effort. Data collected should also include information on non-target and associated or dependent species. All data should be verified to ensure accuracy. Confidentiality of nonaggregated data shall be maintained. The dissemination of such data shall be subject to the terms on which they have been provided.
-  (2.) Assistance, including training as well as financial and technical assistance, shall be provided to developing States in order to build capacity in the field of conservation and management of living marine resources. Assistance should focus on enhancing capacity to implement data collection and verification, observer programmes, data analysis and research projects supporting stock assessments. The fullest possible involvement of developing State scientists and managers in conservation and management of straddling fish stocks and highly migratory fish stocks should be promoted.
-
-###
-The following general principles should be considered in defining the parameters for collection, compilation and exchange of data from fishing operations for straddling fish stocks and highly migratory fish stocks:
-  (a) States should ensure that data are collected from vessels flying their flag on fishing activities according to the operational characteristics of each fishing method (e.g., each individual tow for trawl, each set for long-line and purse-seine, each school fished for pole-and-line and each day fished for troll) and in sufficient detail to facilitate effective stock assessment;
-  (b) States should ensure that fishery data are verified through an appropriate system;
-  (c) States should compile fishery-related and other supporting scientific data and provide them in an agreed format and in a timely manner to the relevant subregional or regional fisheries management organization or arrangement where one exists. Otherwise, States should cooperate to exchange data either directly or through such other cooperative mechanisms as may be agreed among them;
-  (d) States should agree, within the framework of subregional or regional fisheries management organizations or arrangements, or otherwise, on the specification of data and the format in which they are to be provided, in accordance with this Annex and taking into account the nature of the stocks and the fisheries for those stocks in the region. Such organizations or arrangements should request non-members or non-participants to provide data concerning relevant fishing activities by vessels flying their flag;
-  (e) such organizations or arrangements shall compile data and make them available in a timely manner and in an agreed format to all interested States under the terms and conditions established by the organization or arrangement; and
-  (f) scientists of the flag State and from the relevant subregional or regional fisheries management organization or arrangement should analyse the data separately or jointly, as appropriate.
-
-###
-  (1.) States shall collect and make available to the relevant subregional or regional fisheries management organization or arrangement the following types of data in sufficient detail to facilitate effective stock assessment in accordance with agreed procedures:
-    (a) time series of catch and effort statistics by fishery and fleet;
-    (b) total catch in number, nominal weight, or both, by species (both target and non-target) as is appropriate to each fishery. [Nominal weight is defined by the Food and Agriculture Organization of the United Nations as the live-weight equivalent of the landings];
-    (c) discard statistics, including estimates where necessary, reported as a number or nominal weight by species, as is appropriate to each fishery;
-    (d) effort statistics appropriate to each fishing method; and
-    (e) fishing location, date and time fished and other statistics on fishing operations as appropriate.
-  (2.) States shall also collect where appropriate and provide to the relevant subregional or regional fisheries management organization or arrangement information to support stock assessment, including:
-    (a) composition of the catch according to length, weight and sex;
-    (b) other biological information supporting stock assessments, such as information on age, growth, recruitment, distribution and stock identity; and
-    (c) other relevant research, including surveys of abundance, biomass surveys, hydro-acoustic surveys, research on environmental factors affecting stock abundance, and oceanographic and ecological studies.
-
-###
-  (1.) States should collect the following types of vessel-related data for standardizing fleet composition and vessel fishing power and for converting between different measures of effort in the analysis of catch and effort data:
-    (a) vessel identification, flag and port of registry;
-    (b) vessel type;
-    (c) vessel specifications (e.g., material of construction, date built, registered length, gross registered tonnage, power of main engines, hold capacity and catch storage methods); and
-    (d) fishing gear description (e.g., types, gear specifications and quantity).
-  (2.) The flag State will collect the following information:
-    (a) navigation and position fixing aids;
-    (b) communication equipment and international radio call sign; and
-    (c) crew size.
-
-###
-A State shall ensure that vessels flying its flag send to its national fisheries administration and, where agreed, to the relevant subregional or regional fisheries management organization or arrangement, logbook data on catch and effort, including data on fishing operations on the high seas, at sufficiently frequent intervals to meet national requirements and regional and international obligations. Such data shall be transmitted, where necessary, by radio, telex, facsimile or satellite transmission or by other means.
-
-###
-States or, as appropriate, subregional or regional fisheries management organizations or arrangements should establish mechanisms for verifying fishery data, such as:
-  (a) position verification through vessel monitoring systems;
-  (b) scientific observer programmes to monitor catch, effort, catch composition (target and non-target) and other details of fishing operations;
-  (c) vessel trip, landing and transshipment reports; and
-  (d) port sampling.
-
-###
-  (1.) Data collected by flag States must be shared with other flag States and relevant coastal States through appropriate subregional or regional fisheries management organizations or arrangements. Such organizations or arrangements shall compile data and make them available in a timely manner and in an agreed format to all interested States under the terms and conditions established by the organization or arrangement, while maintaining confidentiality of non-aggregated data, and should, to the extent feasible, develop database systems which provide efficient access to data.
-  (2.) At the global level, collection and dissemination of data should be effected through the Food and Agriculture Organization of the United Nations. Where a subregional or regional fisheries management organization or arrangement does not exist, that organization may also do the same at the subregional or regional level by arrangement with the States concerned.
-
 #### Schedule II — Guidelines for the application of precautionary reference points in conservation and management of straddling fish stocks and highly migratory fish stocks
 
 ## Schedule 1
 
-###
-(1) The mean high-water coastline used in this schedule is based on the 1:50 000 topographic map series maintained by Land Information New Zealand.
+### 1
+The mean high-water coastline used in this schedule is based on the 1:50 000 topographic map series maintained by Land Information New Zealand.
 
-###
-(2) The boundary of the exclusive economic zone is based on that described in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 and maintained by Land Information New Zealand.
+### 2
+The boundary of the exclusive economic zone is based on that described in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 and maintained by Land Information New Zealand.
 
-###
-(3) For the purposes of this Act, all waters inland from the defined coastline will be considered as part of the quota management area or fishery management area with which they are contiguous and into which they flow directly.
+### 3
+For the purposes of this Act, all waters inland from the defined coastline will be considered as part of the quota management area or fishery management area with which they are contiguous and into which they flow directly.
 
-###
-(4) All positions and directions described in this schedule are based on a geographic latitude/longitude co-ordinate system, using a Mercator projection and the World Geodetic Standard 1984 spheroid.
+### 4
+All positions and directions described in this schedule are based on a geographic latitude/longitude co-ordinate system, using a Mercator projection and the World Geodetic Standard 1984 spheroid.
 
 ## Schedule 2 — Stocks whose abundance is highly variable
 
