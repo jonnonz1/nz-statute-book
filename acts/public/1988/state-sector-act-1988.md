@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-04-30_
 
 > An Act—ato ensure that employees in the State services are imbued with the spirit of service to the community; andbto promote efficiency in the State services and other agencies; andcto ensure the responsible management of the State services; anddto maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeto ensure that every employer in the State services is a good employer; andfto promote equal employment opportunities in the State services; andgto provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhto repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
@@ -1167,3 +1167,12 @@ This Act comes into force on 25 January 2005.
 (2) The entitlement of an officer or employee in the State services under any superannuation arrangement that applies to that officer or employee at the commencement of this section is not affected by—
   (a) the repeal of sections 84 to 84D of the principal Act by this section; or
   (b) the amendments to Acts that are contained in Schedule 6 of the Crown Entities Act 2004.
+
+### 1 Title
+This order is the State Sector (Ministry for Primary Industries) Order 2012.
+
+### 2 Commencement
+This order comes into force on 30 April 2012.
+
+### 4 Application of consequential changes to references provisions
+Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 30 April 2012 and ending on 30 June 2013, after the name of the Ministry of Agriculture and Forestry is changed to Ministry for Primary Industries.
