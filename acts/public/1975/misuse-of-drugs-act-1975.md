@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2011-09-08_
+_Consolidation as at 2012-05-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -967,6 +967,7 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Racemorphan** ((±)-3-hydroxy-N-methylmorphinan)
 - **Remifentanil** (1-(2-methoxycarbornyl-ethyl)-4-(phenylpropionyl-amino)-piperidine-4-carboxylic acid methyl ester)
 - **Sufentanil** (N-[4-(methoxymethyl)-1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide)
+- **Tapentadol** (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]phenol hydrochloride)
 - **Thebacon** (acetyldihydrocodeinone)
 - **Thebaine**
 - **Thiofentanyl** (N-[1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide)
