@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-05-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -8,6 +8,9 @@ This Act is the Auditor Regulation Act 2011.
 (1) Sections 1 to 7 and 84 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
 (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 July 2012.
+
+###
+[Repealed]
 
 ## Part 1 — Preliminary and key provisions
 
