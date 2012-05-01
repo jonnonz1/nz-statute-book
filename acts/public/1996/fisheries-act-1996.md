@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2012-04-18_
+_Consolidation as at 2012-05-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -6229,6 +6229,7 @@ All positions and directions described in this schedule are based on a geographi
 | Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if—athat porbeagle shark is likely to survive on return; andbthe return takes place as soon as practicable after the porbeagle shark is taken. |
 | Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if—athat prawn killer is likely to survive on return; andbthe return takes place as soon as practicable after the prawn killer is taken. |
 | Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters | A commercial fisher may return any queen scallop to the waters from which it is taken if—athe queen scallop is likely to survive the return; andbthe return takes place as soon as practicable after the queen scallop is taken. |
+| Rig (Mustelus lenticulatus) | All New Zealand fisheries waters | A commercial fisher may return any rig to the waters from which it was taken if—athe rig is likely to survive on return; andbthe return takes place as soon as practicable after the rig is taken. |
 | Rock lobster (Jasus verreauxi, Jasus edwardsii) | All New Zealand fisheries waters | 1A commercial fisher may return any rock lobster of legal size to the waters from which it is taken if—athat rock lobster is likely to survive on return; andbthe return takes place as soon as practicable after the rock lobster is taken. |
 |  |  | 2 |
 |  |  | 3A commercial fisher shall immediately return any rock lobster to the waters from which it was taken if—athe lobster is carrying external eggs; orbthe lobster is in the soft-shell stage, being the stage following moulting when the exoskeleton of the lobster has not reached full hardness; orcthe calcified bar or any part of the exoskeleton (the outer shell of the tail) of the first abdominal segment of the tail is in such a state that its tail cannot properly be measured in the manner required under regulations made under section 297; ordin the case of spiny rock lobster, the calcified bar or any part of the exoskeleton (the outer shell of the tail) of the second abdominal segment of the tail is fractured; or any part of any pleural spine of the second abdominal segment is broken. |
