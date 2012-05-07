@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-04-12_
+_Consolidation as at 2012-05-07_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1122,7 +1122,7 @@ An information holder who is required to disclose information in relation to a p
   (h) the deductions of that person in the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (i) every fringe benefit, and the taxable value of every fringe benefit, provided by the person to any person in relation to whom the person is an employer, and every fringe benefit provided by the person to any person who in relation to another person is an employee, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the fringe benefit, the occasion of the providing of it, and the amount (if any) paid or payable by the employee for the receipt or enjoyment of it; and
   (j)
-  (k) every credit and debit to the person’s memorandum accounts (other than a CTR account and an ASC account), and the amount of a credit attached to a dividend or distribution paid by the person:
+  (k) every credit and debit to the person’s memorandum accounts (other than an ASC account), and the amount of a credit attached to a dividend or distribution paid by the person:
   (kb)
   (kc) the amount of the person's tax credit under section LH 2 of the Income Tax Act 2007; and
   (kd) the person's compliance with section LH 15(1) of that Act, if the person is a listed research provider under section LH 15 of that Act, to show—
@@ -1433,7 +1433,7 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
 (2) The Commissioner may add to or change the list of information requirements set out in subsection (1) from time to time.
 
 ### 29 Shareholder dividend statement to be provided by company
-(1) A company that pays to a shareholder a dividend (not being a dividend treated as interest) from which RWT has been withheld, or a dividend with an imputation credit, an FDP credit, or a CTR credit attached or a conduit tax relief credit attached must give to the shareholder a shareholder dividend statement in a form approved by the Commissioner, showing—
+(1) A company that pays to a shareholder a dividend (not being a dividend treated as interest) from which RWT has been withheld, or a dividend with an imputation credit, or an FDP credit attached or a conduit tax relief credit attached must give to the shareholder a shareholder dividend statement in a form approved by the Commissioner, showing—
   (a) the name of the company:
   (b) the date of payment of the dividend:
   (c) the name and address of the shareholder to whom the dividend is paid:
@@ -1443,7 +1443,7 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
   (g) the amount of any imputation credit attached to that dividend:
   (h) the aggregate of the amount of the dividend and the amount of any imputation credit attached to that dividend:
   (i) where an FDP credit is attached to the dividend, the information required to be included in the shareholder dividend statement in accordance with section 30:
-  (ia) when a CTR credit is attached to the dividend, the information required to be included in the shareholder dividend statement in accordance with section 30A:
+  (ia)
   (ib) the amount, if any, of the dividend paid to a retirement savings scheme as a retirement scheme contribution for the shareholder:
   (ic) the name of the retirement savings scheme to which any retirement scheme contribution was paid:
   (id) the amount, if any, of imputation credit used to satisfy a liability of the company for RSCT:
@@ -1468,12 +1468,7 @@ Where an FDPA company attaches an FDP credit to a dividend under section OC 27 o
   (c) the aggregate of the imputation credit and the FDP credit.
 
 ### 30A Statement to shareholder when CTR credit attached to dividend
-Where a CTR company attaches a CTR credit to a dividend under section OD 20 of the Income Tax Act 2007, the company must include the following information in the shareholder dividend statement required by section 29:
-  (a)
-  (b) the amount of the CTR additional dividend paid under section LQ 5 of the Income Tax Act 2007:
-  (c) the aggregate of—
-    (i) the dividend paid to the shareholder; and
-    (ii) the CTR additional dividend paid to the shareholder.
+[Repealed]
 
 ### 30B Statement to share supplier when share user makes replacement payment under share-lending arrangement
 A share user under a share-lending arrangement who pays a replacement payment to the share supplier must at the time of paying the replacement payment give to the share supplier a replacement payment statement in a form approved by the Commissioner showing—
@@ -2496,6 +2491,13 @@ Every controlled petroleum mining entity shall furnish to the Commissioner, with
   (b) the number of shares, or the proportion of the trust represented by the trust interest, comprised in the disposal; and
   (c) the name and address of the person disposing of and the person acquiring the shares or trust interest.
 
+### 65B Information to be furnished with return by entity apportioning interest expenditure under section FE 6B
+A company or person apportioning its interest expenditure under section FE 6B of the Income Tax Act 2007 for an income year must furnish to the Commissioner, no later than when the company or person is required to furnish a return of its income for the corresponding tax year, the following information in the form and by the means prescribed by the Commissioner:
+  (a) notice to the Commissioner that the section has been applied; and
+  (b) a reconciliation of adjusted net profit under section FE 5(1BC) of that Act to GAAP net profit; and
+  (c) a reconciliation of goodwill to items presented in the GAAP balance sheet; and
+  (d) further information that is required by the Commissioner.
+
 ### 66 Annual and other returns for PCA persons
 [Repealed]
 
@@ -2517,10 +2519,7 @@ Where an FDPA company attaches an FDP credit to a dividend, the company shall in
   (c) where any imputation credit has also been attached to the dividend, the combined imputation and FDP ratio of the dividend.
 
 ### 68A Statement when CTR credit attached to dividend
-If a CTR company attaches a CTR credit to a dividend, the company must include the following information in the company dividend statement required by section 67:
-  (a) the CTR additional dividend paid under section LQ 5 of the Income Tax Act 2007:
-  (b) the FDP ratio, calculated as if the credit were an FDP credit:
-  (c) the combined imputation and FDP ratio, calculated as if the credit were an FDP credit, if an imputation credit has been attached to the dividend.
+[Repealed]
 
 ### 68B Distribution statement required when Maori authority makes distribution
 (1) A Maori authority that makes a distribution to a member must, at the time it makes the distribution, complete and retain a distribution statement that contains the following:
@@ -2579,9 +2578,7 @@ If a CTR company attaches a CTR credit to a dividend, the company must include t
   (e) when the company is a branch equivalent tax account (BETA) company,—
     (i) the opening balance and closing balance of the company’s branch equivalent tax account for the tax year:
     (ii) the amount and source of all credits and debits to the company’s branch equivalent tax account for the tax year that have arisen as described in sections OA 5(5)﻿(a) and OA 6(5)﻿(a) of that Act:
-  (f) when the company is a conduit tax relief (CTR) company for the tax year,—
-    (i) the opening and closing balances of the company’s CTR account for the tax year:
-    (ii) the amount and source of all credits and debits that have arisen in the company’s CTR account as described in sections OA 5(4) and OA 6(4) of that Act:
+  (f)
   (g) when the company is a policyholder credit account (PCA) company,—
     (i) the opening balance and closing balance of the company’s policyholder credit account for the tax year:
     (ii) the amount and source of all credits and debits to the company’s policyholder credit account for the tax year that have arisen as described in sections OA 5(7)﻿(a) and OA 6(7)﻿(a) of that Act:
@@ -4250,7 +4247,7 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
     (vi) has a main business that is insurance or is related to insurance.
 (4) In deciding whether or not to grant an application, the Commissioner must consider whether the business of the CFC or group of CFCs—
   (a) is carried on with the main purpose of producing a commercial return on the capital of the CFC or group; and
-  (b) produces all or nearly all of the income of the CFC or group from—
+  (b) produces income of the CFC or group, other than income from claims under reinsurance contracts, that is all or nearly all from—
     (i) premiums from insurance contracts, other than reinsurance contracts, covering risks arising in the country or territory in which the business of the CFC or group is located:
     (ii) proceeds from investment assets having a total value commensurate with the value of those insurance contracts.
 (5) For the purposes of subsection (4), the Commissioner may take into account the following:
@@ -4258,6 +4255,9 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (b) the nature and extent of the risks arising in the country or territory that are assumed by the CFC or group in the business:
   (c) the nature and value of the assets used by the CFC or group in the business compared with the nature and extent of the risks assumed by the CFC or group in the business:
   (d) the nature and amount of deductions that the company controlling the CFC or group has for expenditure or loss incurred in giving support in relation to the business compared with the nature and amount of the assessable income that the company has from the CFC or group in relation to the business.
+(5B) In a determination, the Commissioner may stipulate conditions that must be satisfied,—
+  (a) in addition to the requirements of subsection (2), for a CFC to be a non-attributing active CFC:
+  (b) in addition to the requirements of subsection (3), for the members of a group of CFCs to be non-attributing active CFCs.
 (6) A determination may be made for income years specified in the determination.
 (7) A determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
 (8) A determination must be published in a publication chosen by the Commissioner within 30 days of the making of the determination.
