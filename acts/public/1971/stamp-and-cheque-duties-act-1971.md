@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2012-05-07_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -12,35 +12,10 @@ _Consolidation as at 2010-12-21_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **adhesive stamp**
-  - **assessment**
   - **bill of exchange** means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a banknote
-  - **Board of Review**
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
-  - **consideration**
-  - **contract note**
-  - **conveyance**
   - **the Crown** means Her Majesty in respect of the Government of New Zealand and its dependencies; and includes any officer of the Government acting in his official capacity; and, in relation to any deed or bill of exchange, also includes any public authority
-  - **impressed stamp**
-  - **instrument of agreement to convey**
-  - **instrument of assignment for the benefit of creditors**
-  - **instrument of declaration of trust**
-  - **instrument of nomination of shares**
-  - **insurance**
-  - **land**
-  - **local authority**
-  - **mining right**
-  - **mortgage**
-  - **partnership**
-  - **penalty**
-  - **property**
-  - **public authority**
-  - **rent**
-  - **shares**
-  - **shares in a flat or office owning company**
-  - **stamp duty**
-  - **Taxation Review Authority** , or , means a Taxation Review Authority constituted under the Taxation Review Authorities Act 1994
-  - **transferable certificate of deposit**
+  - **Taxation Review Authority** , or , means a Taxation Review Authority constituted under the Taxation Review Authorities Act 1994.
 
 ### 3 Meaning of the term instrument
 [Repealed]
@@ -275,7 +250,7 @@ In this Act, unless the context otherwise requires,—
 ### 70 Unstamped instruments ineligible for registration
 [Repealed]
 
-### 71 Refunds payable out of Consolidated Account
+### 71 Refunds payable out of Crown Bank Account
 [Repealed]
 
 ### 71A Application of Parts 4A and 8A of Tax Administration Act 1994
@@ -286,10 +261,10 @@ In this Act, unless the context otherwise requires,—
 ### 72 Objections to assessments
 [Repealed]
 
-### 73 Objections against exercise of Commissioner's discretion
+### 73 Commissioner may alter assessment, or objection may be submitted to Taxation Review Authority
 [Repealed]
 
-### 74 Stating case for High Court
+### 74 When objection may be referred in first instance to High Court
 [Repealed]
 
 ### 74A Test case procedure
@@ -336,7 +311,7 @@ In this Part, unless the context otherwise requires,—
   (b) Tower Corporation:
   (c) State Insurance Limited:
   (d) Housing New Zealand Corporation:
-  (e) the Accident Compensation Corporation:
+  (e) the Accident Compensation Corporation.
   (f)
   (g)
 (2) The Commissioner may by written agreement with any person to whom this section applies exempt from cheque duty all bills of exchange drawn or made on behalf of that person.
@@ -349,7 +324,7 @@ In this Part, unless the context otherwise requires,—
 (2) The grant of a licence to a bank under this section shall be subject to such other conditions as may be required by the Commissioner who may at any time and from time to time, by notice in writing to the bank, amend those conditions.
 (3) Within 21 days after the expiry of each quarter, every bank that at any time during the quarter was a licensed bank shall forward to the Commissioner a statement in the form prescribed by the Commissioner containing particulars of all bill of exchange forms prepaid with cheque duty supplied to its customers or procured on its own behalf during that quarter. The statement shall contain particulars of all prepaid forms that have not been used and have been destroyed by the bank during that quarter, or that have been defaced or spoiled after issue but before being further acted on and that have been destroyed by the bank during that quarter.
 (4) Every statement sent to the Commissioner under subsection (3) shall be verified by the signature of the General Manager, the Accountant, or any other senior administrative officer of the head office of the bank in New Zealand, and shall be accompanied by the amount of cheque duty payable for the quarter to which the statement relates, less the amount of duty that has been paid for prepaid forms that have been destroyed by the bank during the quarter and particulars of which are contained in the statement.
-(5) The Commissioner may, by giving 3 months' notice in writing forwarded by registered post to the General Manager for New Zealand of any bank licensed under this section, cancel the licence granted to that bank, and on the expiry of the 3 months which shall commence from the date on which the notice was posted, the licence held by that bank shall be cancelled and cease to have any force or effect.
+(5) The Commissioner may, by giving 3 months notice in writing forwarded by registered post to the General Manager for New Zealand of any bank licensed under this section, cancel the licence granted to that bank, and on the expiry of the 3 months which shall commence from the date on which the notice was posted, the licence held by that bank shall be cancelled and cease to have any force or effect.
 (6)
 
 ### 82 Cheque duty payable by licensed printers
@@ -377,7 +352,7 @@ In this Part, unless the context otherwise requires,—
 (3) A bill of exchange drawn or made in New Zealand shall be duly stamped by the drawer or maker of the bill before he delivers it out of his hands.
 (4) Subject to subsection (2) of section 79, a bill of exchange drawn or made out of New Zealand shall be duly stamped by the first holder of the bill in New Zealand before he presents it for acceptance or payment, or endorses, or transfers, or in any manner negotiates it.
 (5) A bill of exchange which comes into the hands of any person before it has been duly stamped shall be duly stamped by that person before he presents it for payment, or endorses, or transfers, or otherwise negotiates it, or accepts it, or pays it; but no person shall thereby be relieved from liability for any offence committed by him against any provision of this Act in respect of that bill:
-  Provided that a bill of exchange which is drawn or made in New Zealand and bears on its face a printed inscription indicating that the bill is exempt from cheque duty or that cheque duty has been paid shall be deemed to be duly stamped for the purposes of this subsection unless the person into whose hands the bill comes has reason to believe that the bill is not exempt from cheque duty, or that the cheque duty purporting to have been paid has not been paid.
+  provided that a bill of exchange which is drawn or made in New Zealand and bears on its face a printed inscription indicating that the bill is exempt from cheque duty or that cheque duty has been paid shall be deemed to be duly stamped for the purposes of this subsection unless the person into whose hands the bill comes has reason to believe that the bill is not exempt from cheque duty, or that the cheque duty purporting to have been paid has not been paid.
 (6) If a bill of exchange, to which the appropriate postage stamp is affixed, is held in good faith by a holder without notice of the stamp having been affixed otherwise than in accordance with this section, the bill of exchange shall, so far as it relates to the holder, be deemed to be duly stamped.
 (7) No bill of exchange shall be noted or protested by any notary public or other person unless it appears to be duly stamped.
 (8) For the purposes of subsection (6), notice of an omission by any person to cancel a stamp in the due manner shall not be notice of a breach of this section if the holder cancels the stamp as soon as the bill comes into his hands.
@@ -390,8 +365,8 @@ In this Part, unless the context otherwise requires,—
   (c) that any bills of exchange for which cheque duty has been paid have been spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
 (2) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
 
-### 86 Refunds payable out of Consolidated Account
-All money payable by way of refunding any cheque duty shall be paid out of the Crown Bank Account without further appropriation than this section.
+### 86 Refunds payable out of Crown Bank Account
+All money payable by way of refunding any cheque duty shall be paid out of a Crown Bank Account without further appropriation than this section.
 
 ## Part 6A — Credit card transaction duty
 
@@ -438,15 +413,33 @@ Any approved issuer may apply to the Commissioner, in writing and in such form a
 (2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G.
 
 ### 86I Application of approved issuer levy and zero-rating
-(1) This section applies for the purposes of—
-  (a) the NRWT rules of the Income Tax Act 2007:
-  (b) an exemption under a double tax agreement:
-  (c) section 86J.
-(2) Despite the NRWT rules, a payment of interest under a registered security is treated as paid by an approved issuer only to the extent to which—
-  (a) approved issuer levy in relation to the security is paid by or on behalf of the approved issuer; and
-  (b) the amount of the levy, based on the leviable value of the registered security at the time of the payment of the interest, is paid—
-    (i) at the rate set out in section 86J; and
-    (ii) by the date set out in section 86K or 86KA or, subject to the payment of interest or penalties imposed under Part 7 or 9 of the Tax Administration Act 1994, by a later date.
+For the purposes of the NRWT rules of the Income Tax Act 2007 and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,—
+  (a) and to the extent that, payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest—
+    (i) at the rate specified in section 86J; and
+    (ii) by the date specified in either section 86K or 86KA, or by a later date upon the payment of any interest or penalties imposed under Part 7 or 9 of the Tax Administration Act 1994 respectively; or
+  (b) the registered security meets the requirements of section 86IB and the approved issuer provides a statement to the Commissioner—
+    (i) showing the details prescribed by the Commissioner under section 86K(2) for a statement relating to payments of interest under such a registered security and provided to the Commissioner within the time given by subparagraph (ii); and
+    (ii) by the time that would be required by section 86K(1)(b) for a payment of the levy in relation to the payment of interest, or by a later date for the statement if that date is set by the Commissioner in a notice given to the approved issuer.
+
+### 86IB Zero rate of approved issuer levy—requirements for securities
+(1) A registered security meets the requirements of this section if—
+  (a) the security is denominated in New Zealand dollars; and
+  (b) the issue of the security—
+    (i) was an offer to the public for the purposes of the Securities Act 1978; and
+    (ii) was not a private placement; and
+  (c) the security is not an asset-backed security; and
+  (d) the activities of the registrar and the paying agent for the security are carried on through a fixed establishment in New Zealand; and
+  (e) the security—
+    (i) is listed on an exchange registered under the Securities Markets Act 1988:
+    (ii) is one of a number of securities meeting the requirements of subsection (2) that are traded in a market bringing together buyers and sellers of such securities.
+(2) A security meets the requirements of this subsection if, at or before the time of the payment of interest referred to in section 86I in respect of the registered security,—
+  (a) the security is one of a number of identical debt securities (the class of securities) that are registered securities; and
+  (b) the group of persons who each hold a security included in the class of securities consists of 100 or more persons; and
+  (c) the issuer of the class of securities has reasonable grounds for expecting that each of 100 or more persons in the group—
+    (i) is not associated with the issuer except by being a beneficiary of a trust established for the main purpose of protecting and enforcing beneficiaries' rights under the class of securities; and
+    (ii) is not associated with another member of the group; and
+    (iii) is not part of an arrangement intended to temporarily increase the number of persons in the group; and
+  (d) no person or group of associated persons holds more than 10% by value of the class of securities.
 
 ### 86J Approved issuer levy
 Approved issuer levy shall be computed in respect of any registered security at any time at the rate of 2 cents for every $1 of the leviable value of the registered security at that time.
@@ -540,11 +533,11 @@ Approved issuer levy shall be computed in respect of any registered security at 
 Part 9 of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997.
 
 ### 100 Consequential amendments
-The enactments specified in Schedule 2 are hereby consequentially amended in the manner indicated in that Schedule.
+The enactments specified in Schedule 2 are hereby consequentially amended in the manner indicated in that schedule.
 
 ### 101 Repeals and revocations
 (1) The enactments specified in Schedule 3 are hereby repealed.
-(2) The following regulations are hereby revoked:
+(2) The following regulations are hereby revoked—
   (a) the National Expenditure Adjustment (Stamp Duty) Regulations 1932:
   (b)
   (c)
@@ -556,52 +549,3 @@ The enactments specified in Schedule 2 are hereby consequentially amended in the
 ## Schedule 2 — Enactments amended
 
 ## Schedule 3 — Enactments repealed
-
-### 1 Title
-This Act is the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009.
-
-### 2 Commencement
-(1) This Act comes into force on the day on which it receives the Royal assent, except as provided in this section.
-(2) Sections 74, 108, 319, 320, 322, 323, 502, 510, 546, 549, 557(26), (45), (53), (132), (145), and (147), 605(1), and (3), 606, 610, 682, 862, and 863 are treated as coming into force 3 months after this Act receives the Royal assent.
-(3) Section 704(5) is treated as coming into force—
-  (a) in relation to the Parliamentary Service, on 1 October 1986:
-  (b) in relation to the Office of the Clerk of the House of Representatives, on 1 August 1988.
-(4) Section 855 is treated as coming into force on 1 April 1993.
-(5) Section 850 is treated as coming into force on 1 April 1995.
-(6) Sections 851 and 860 are treated as coming into force on 1 April 1997.
-(7) Sections 847, 848, 849, 852, 853, 854, and 856 are treated as coming into force on 1 October 2001.
-(8) Sections 628(1), 646(1) and (4), 647(1), (3), and (6), 712, 735, 736, 738, 741, 742, 743, 746, 747, 748, 749, 750, 751, 754, 759, 760, 761, 764(2), 767, 769, 770, 771, 772, 773, 789(2) and (4), 832, 844(2), (9), (15), (23), (25), (31), and (33), 845, 858(1) and (3), and 864 are treated as coming into force on 1 April 2005.
-(9) Section 647(2) is treated as coming into force on 1 October 2005.
-(10) Sections 744, 768, and 844(3), (13), (14), (22), and (32) are treated as coming into force on 1 April 2006.
-(11) Sections 646(2) and 647(4) are treated as coming into force on 3 April 2006.
-(12) Sections 706, 739, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789(1) and (3), 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 819(2), 841, and 844(8), (11), (18), (21), and (35) are treated as coming into force on 1 April 2007.
-(13) Section 684 is treated as coming into force on 17 May 2007.
-(14) Sections 720, 731, 733(2) and (4), and 844(6) and (17) are treated as coming into force on 1 July 2007.
-(15) Sections 612, 625, 675, 677, 756, 808, 809, 811, 812, 813, 814, 815, 816, 817, 818, 819(1), 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 833, 834, 835, 836, 837, 838, 839, 840, 842, 843, and 844(26) are treated as coming into force on 1 October 2007.
-(16) Section 764(1) and (3) is treated as coming into force on 1 December 2007.
-(17) Sections 638(2), 757, 830, and 831 are treated as coming into force on 19 December 2007.
-(18) Section 758 is treated as coming into force on 1 January 2008.
-(19) Section 737, 740, 755, 762, 790, 791, 792, 803, 804, 805, 806, 807, 810, and 844(4), (5), (7), (10), (12), (16), and (27) to (30) are treated as coming into force on 25 February 2008.
-(20) Section 763 is treated as coming into force on 4 March 2008.
-(21) Sections 5(1), (2), (4), (5), and (7), 11, 12, 15(1)(b), 16, 18, 19(1), (2), (3) and (5), 20(3), 24, 25, 26, 32, 34, 35, 36, 37, 38, 41(1) and (2), 42, 43, 44, 45, 47, 48, 52, 53, 54, 56(1) and (4), 60, 62, 68, 72, 73(3), 76, 81, 82, 83, 84, 85, 93, 96(1) and (3), 97, 98(1), (3), and (4), 99, 100, 101, 102(1), (3), (5), and (7), 103(1), (3), and (5), 104(1) and (3), 105(1), (3), and (5), 106(1), (3), and (5), 107, 109, 111, 117, 118, 119, 120, 121, 127, 128, 129, 130, 131, 133, 134, 135, 136(1) and (3), 137(1), (2), (3), and (5), 138, 140, 141, 142, 143, 144, 145, 146, 147, 150, 151, 152(1), 161(7) and (15), 166, 167, 168, 169, 170, 171, 172, 173(1) to (3), (5) to (7), and (11), 174, 176(1), 177(1), (2) to (4), and (6) to (10), 178(1) to (5), and (7) to (11), 179, 180(1), 181(1), (2), and (5), 182, 183, 188, 196, 197, 198, 201, 202(1) and (3), 203, 204, 205(1), (4), and (5), 209(2), (3), and (5), 211(3) and (6), 215(1) and (3), 218(1), (4), (5), (7), and (9), 227, 230(4), 232, 233, 234, 235, 236, 238(1) and (4), 239(1), 241, 242(1), 251, 253, 254, 255, 256, 257, 258, 261, 262(1), 263, 264(2) and (4), 265, 266, 268, 269, 270, 271, 272, 273, 274, 275, 277, 280, 281, 282(1), (3), (4), and (5), 283, 284(1), (2), (4), and (6), 285, 286, 287, 288, 289, 290, 291, 293, 294, 296(2), (3), and (8), 297(2) and (5), 298(1) and (4), 299, 300, 302(2) and (4), 304, 306, 308(1), 309, 311, 312, 314, 317, 318, 321, 324(1), (2), (4), and (6), 329, 330, 331, 332, 333, 334, 335, 336(1), (3), (5), and (6), 337, 338, 339, 340(1), (3), (4), and (7), 341, 344, 345, 349, 350, 352, 353, 354, 355, 356, 357, 358, 359, 360(1) and (3), 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 376, 378(1), (2), (4), (5), and (7), 379, 381(2) and (4), 383, 387, 388(2) and (5), 389(2) and (3), 390, 391, 393, 394, 397, 398, 399(1), (4), and (8), 400(2) and (6), 409, 420(1) and (3), 421(1) and (3), 422, 427, 431(1) and (3), 440, 441, 442, 443, 444, 446, 447(2) and (5), 452(3) and (6), 453, 455, 457, 460(2), (4), and (7), 466, 470, 486, 489, 490(2), (3) and (5), 491(1), (3), and (5), 492(1) and (5), 493, 494, 495, 496, 497, 500, 503(2), (3), and (4), 504, 505, 506, 507, 509, 511, 512, 513, 514(1) to (4), (7), and (9) to (11), 515, 516, 517(1) and (3) to (5), 518(1) and (3) to (5), 519(1) to (6) and (8) to (13), 520, 521, 522, 523, 524, 525, 526, 529, 530, 531(1), (2), and (4) to (7), 532, 533, 534, 536, 537, 538, 539, 541, 542, 543, 544, 545, 547, 548, 554, 555, 556, 557(5), (7), (10), (25), (28), (29), (36), (37), (39), (42), (49), (50), (51), (52), (54), (55), (57), (58), (59), (62), (63), (64), (68), (69), (76), (84), (85), (88), (93), (95), (98), (99), (109), (114), (118), (119), (130), (134), (137), (138), (139), (140), (141), (142), (143), (144), (146), (149), (156), (157), (164), (170), (171), (175), (176), (184), (187), (191), (193), (195), (197), (198), (199), (200), (202), (204), (210), (214), (217), (219), (222), (224), (225), and (228), 559, 560, 561, 562, 564, 567, 568, 569, 570, 571(1) and (3), 572, 573, 574, 575, 576, 579(3) to (8), 580, 581, 582, 583, 585, 590, 591, 592, 593, 596(3), (4), (7), and (8), 597(4), 598(1) and (3), 599(1), 609, 614, 615, 616(2), 619(2), (3), (6), and (7), 620, 624, 627, 628(2) to (4), 630(1), 631, 632, 633, 636, 637, 640, 642, 643, 644, 646(3) and (5), 647(5) and (7), 648, 649, 650, 651(1) and (3), 654, 659, 660, 661, 664, 665, 669, 671, 672, 673, 680, 683, 690, 691, 693, 701, 702, 715(1) to (3), 717, 719, 724, 725, 726, 727, 729, 730, 733(3) and (5), 765, 766, 774, 775, 776, 777, 778, 844(19), (20), (24), and (34), 858(2) and (4), 859, and 865 are treated as coming into force on 1 April 2008.
-(22) Sections 88, 315, 316, 360(2), 503(1), 557(148), 732, 867, and 868 are treated as coming into force on 1 July 2008.
-(23) Sections 40, 58, 61, 243, 244, 745, 752, and 753 are treated as coming into force on 26 September 2008.
-(24) Section 137(4) and (6) are treated as coming into force on 1 October 2008.
-(25) Sections 10, 80, 112(2) and (3), 115, 116, 132(2) and (4), 173(8), (13), and (15), 557(32), (48), (60), (82), (105), (127), (131), (159), (160), (181), (186), and (206), and 704(2) and (4) are treated as coming into force on 1 January 2009.
-(26) Sections 9, 27, 50, 64, 92, 114, 136(2), (4), (5), and (6), 139, 173(9), 176(2) and (3), 181(4) and (8), 184, 276, 278, 279, 282(2), 284(3), (5), (7), and (8), 301, 347(1), 399(2) and (6), 445(1) and (4), 462, 463, 464, 465, 492(2), 508, 514(5), (6), and (8), 517(2), 518(2), 519(7), 550, 557(92), (158), (165), (166), (188), and (209), 571(2), (4), and (5), 587, 607, 608, 619(1), (4), and (5), 623, 715(4), and 721 are treated as coming into force on 1 April 2009.
-(27) Sections 5(3), (6), and (8), 6, 14, 17(2), (3) and (5), 20(1), (2), and (4), 22, 23, 29, 30, 39, 41(3) and (6), 69, 70, 71, 79, 90, 91, 110, 152(2) and (3), 153, 154, 155, 156, 160, 161(1) to (6), (9) to (14), (16), and (17), 162, 163, 164, 165, 175, 180(2) to (4), 195, 202(2) and (4), 206, 207, 208, 209(1) and (4), 210, 211(1), (2), (4), (5), and (7), 212, 213, 214, 215(2), (4), and (5), 216, 217, 218(3) and (10), 219, 220, 221, 222, 223, 224, 225, 226, 228, 229, 230(1) to (3), and (5) to (7), 231, 237, 238(2), (3), and (5), 240, 246, 247, 248, 249, 250, 252, 259, 260, 302(1) and (3), 303, 305, 340(2), (5), and (6), 342, 343, 346, 377, 385, 395, 399(3) and (7), 400(3) and (7), 401(2) and (5), 403, 404, 405, 406, 407, 408, 412, 413, 414, 415, 416, 417, 419, 421(2) and (4), 423, 424, 425, 426, 428, 429, 430, 431(2) and (4), 432, 433, 434, 435, 436, 437, 448, 456, 459(1) and (3), 460(3) and (8), 461(1) and (3), 468, 469(1) and (3), 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 485, 488, 490(1) and (4), 491(2), (4) and (6), 492(3), (4), and (6), 527, 528, 540, 557(8), (9), (11), (14), (16), (22), (23), (30), (34), (38), (40), (41), (43), (61), (70), (71), (74), (75), (77), (78), (79), (80), (89), (94), (96), (104), (117), (123), (128), (129), (182), (183), (185), (203), (208), (211), (212), (213), (215), (216), and (229), 558, 577(2), 584, 586, 596(5) and (9), 597(1) to (3), (5) and (6), 605(2) and (4), 617, 634, 635, 651(2) and (5), 652, 655, 656, 657, 658, 666, 668, 674, 676, 678, 686, 687, 688, 695, 697, and 700 are treated as coming into force on 30 June 2009.
-(28) Sections 46, 56(2), (3), and (5), 59, 86, 87, and 89 come into force on 1 October 2009.
-(29) Sections 95, 123, 124, 125, 126, 557(108), and (110) come into force on 1 January 2010.
-(30) Sections 4, 7, 8, 13, 15(1)(a) and (2), 17(1) and (4), 19(4), (6), and (7), 21, 28, 41(4), (5), and (7), 51, 63, 65, 66, 67, 73(1), (2), and (4), 75, 77, 78, 96(2), (4), and (5), 98(2), (5), and (6), 102(2), (4), (6), and (8), 103(2), (4), and (6), 104(2) and (4), 105(2), (4), and (6), 106(2), (4), and (6), 112(1), 113, 122, 149, 157, 158, 159, 161(8) and (18), 173(4), (10), (12), and (14), 177(5), (11), and (12), 178(6), (12), and (13), 181(3), (6), and (7), 191, 192, 218(2), (6), (8), and (11), 239(2) and (3), 242(2) to (4), 245, 262(2) and (3), 264(1) and (3), 267, 292, 295, 296(4), (6), and (9), 298(2), (3), and (5), 308(2) and (3), 313, 324(3), (5), and (7), 328, 336(2), (4), and (7), 347(2), 348, 351, 378(3), (6), and (8), 384, 401(1), (3), and (4), 438, 498, 531(3) and (8), 535, 557(2), (3), (4), (13), (15), (17), (18), (19), (21), (24), (31), (44), (66), (73), (81), (83), (91), (97), (100), (101), (102), (103), (106), (107), (111), (115), (116), (121), (126), (133), (136), (150), (154), (155), (167), (177), (179), (180), (192), (196), (220), (221), (223), and (227), 563, 565, 566, 579(1) and (2), 588, 594, 599(2), 611, 613, 618, 621, 622, 626, 628(5) and (6), 645, 651(4) and (6), 679, 681, 710(3), 713, and 861 come into force on 1 April 2010.
-(31) Sections 200 and 487 come into force on 30 June 2010.
-(32) Sections 33, 49, 55, 94, 132(1), (3), (5), and (6), 185, 186, 187, 189, 190, 193, 194, 199, 296(1), (5), and (7), 297(1), (3), and (4), 307, 310, 325, 326, 327, 372, 373, 374, 375, 380, 381(1), (3), and (5), 382, 386, 388(1), (3), and (4), 392, 396, 399(5) and (9), 400(1), (4), and (5), 402, 410, 411, 418, 420(2) and (4), 439, 445(2), (3), and (5), 447(1), (3), and (4), 449, 450, 451, 452(1), (2), (4), and (5), 454, 458, 459(2) and (4), 460(1), (5), and (6), 461(2) and (4), 467, 469(2) and (4), 483, 484, 557(6), (12), (20), (27), (33), (35), (46), (56), (65), (67), (72), (87), (90), (112), (113), (120), (122), (124), (151), (152), (153), (161), (162), (163), (168), (169), (172), (178), (189), (190), (194), (201), (205), (207), (218), and (226), 577(1) and (3), 629, and 663 come into force on 1 July 2010.
-
-## Part 6 — Amendments to other Acts and regulations
-
-**Stamp and Cheque Duties Act 1971**
-
-### 858 Interpretation
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Subsection (1) applies for the 2005–06 and later income years.
-(4) Subsection (2) applies for the 2008–09 and later income years.
