@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-05-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -992,7 +992,7 @@ Treating bonus issues as dividends
 (1) A bonus issue that is not a bonus issue in lieu is a dividend if—
   (a) the bonus issue—
     (i) is issued fully paid from reserves of the company:
-    (ii) if a dividend, would not be exempt income under section CW 10 (Dividend within New Zealand wholly-owned group) or CW 11 (Dividend of conduit tax relief holding company); and
+    (ii) if a dividend, would not be exempt income under section CW 10 (Dividend within New Zealand wholly-owned group); and
   (b) the company chooses under this section to treat the bonus issue as a dividend.
 Form of election
 (2) A company chooses to treat a bonus issue as a dividend by—
@@ -1388,10 +1388,10 @@ Amount not dividend
     (iii) the cost method:
     (iv) the fair dividend rate method.
   (c)
-Exclusion for interests in grey list companies
-(2) Subsection (1)(b)(iv) does not apply if—
-  (a) the FIF is a grey list company; and
-  (b) the person holds a direct income interest of 10% or more in the FIF at the beginning of the income year in which the period falls.
+Exclusion for interests in FIFs resident in Australia
+(2) Subsection (1)(b)(iv) does not apply if the person's interest in the company is included, at the beginning of the income year in which the payment is made, in a direct income interest of 10% or more in a FIF that, at the beginning of the income year,—
+  (a) meets the requirements of section EX 35(b)(i) to (iii) (Exemption for interest in FIF resident in Australia); and
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)(i) or (ii).
 Application of rule for certain managed funds
 (3) Subsection (2) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -1730,7 +1730,7 @@ When this section applies
 Treatment of amount
 (2) For the purposes of the other rules, the amount derived by the person from the company is treated as if it were reduced, but not below zero, by the amount of any dividend derived by the person in relation to the cancellation, excluding any attached imputation credit or FDP credit.
 Non-taxable dividends
-(3) Subsection (2) does not apply to the extent to which the dividend is exempt income of the person under sections CW 9 to CW 11 (which relate to income from equity).
+(3) Subsection (2) does not apply to the extent to which the dividend is exempt income of the person under sections CW 9 and CW 10 (which relate to income from equity).
 Subsection (3)(b): formula
 (4)
 Definition of items in formula
@@ -2141,6 +2141,7 @@ General rule
 (1) A person has attributed CFC income from a foreign company in an income year if—
   (a) the foreign company is a CFC at any time during 1 of its accounting periods, under sections EX 1 to EX 7 (which relate to the definition of a controlled foreign company); and
   (b) the accounting period ends during the income year; and
+  (bb) the person is not a portfolio investment entity; and
   (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person’s income interest); and
   (d) at any time in the accounting period, the person is a New Zealand resident who is not a transitional resident; and
   (e) the person’s income interest is 10% or more for the part of the accounting period during which the person is a New Zealand resident who is not a transitional resident, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
@@ -2151,9 +2152,9 @@ General rule
   (h) the CFC is not a non-attributing active CFC for the accounting period, under section EX 21B (Non-attributing active CFCs); and
   (i) the CFC is not a non-attributing Australian CFC for the accounting period, under section EX 22 (Non-attributing Australian CFCs).
 Special rule: branch equivalent FIF with taxable distribution
-(2) A person also has attributed CFC income if section EX 50(5) (Branch equivalent method) applies because—
+(2) A person also has attributed CFC income if section EX 50(5) (Attributable FIF income method) applies because—
   (a) the person has an attributing interest in a foreign investment fund (FIF); and
-  (b) the person is using the branch equivalent method to calculate FIF income; and
+  (b) the person is using the attributable FIF income method to calculate FIF income; and
   (c) the FIF receives a taxable distribution from a non-complying trust.
 Special rule: attributed CFC amount from personal services
 (2B) If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)(h) (Attributable CFC amount), the person has attributed CFC income from the CFC equal to the product of—
@@ -2182,7 +2183,7 @@ General rule
     (ii) the exemption for Australian unit trusts with 25% turnover in section EX 32 (Exemption for Australian unit trusts with 25% turnover):
     (iii) the exemption for Australian regulated superannuation savings in section EX 33 (Exemption for Australian regulated superannuation savings):
     (iv) the CFC rules exemption in section EX 34 (CFC rules exemption):
-    (v) the exemption for a 10% or greater interest in a grey list company in section EX 35 (Exemption for 10% or greater interest in grey list company):
+    (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
     (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemption for employee share purchase scheme of grey list company):
@@ -2191,15 +2192,22 @@ General rule
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii) the immigrant’s accrued superannuation entitlement exemption in section EX 42 (New resident’s accrued superannuation entitlement exemption):
-    (xiv) the non-resident’s annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exemption); and
-  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000; and
-  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (5), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000; and
+    (xiv) the non-resident’s annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
+    (xv) an exemption given by sections EX 50, EX 18A(2)(b)(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
+  (d) if the person is a natural person and not acting as a trustee,—
+    (i) the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
+    (ii) the person includes, in a return for the year, FIF income or loss from an attributing interest in a FIF:
+    (iii) the person has, in the return for 1 of the preceding 4 income years (the earlier year), included FIF income or loss from attributing interests in FIFs with a total cost of $50,000 or less, calculated under section EX 68, at all times in the earlier year when the person is a New Zealand resident; and
+  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (5),—
+    (i) the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000:
+    (ii) the person includes, in a return for the year, FIF income or loss from an attributing interest in a FIF:
+    (iii) the person has, in the return for 1 of the preceding 4 income years (the earlier year), included FIF income or loss from attributing interests in FIFs with a total cost of $50,000 or less, calculated under section EX 68, at all times in the earlier year; and
   (f) at any time in the year, the person is a New Zealand resident who is not a transitional resident and holds the attributing interest; and
   (g) under the relevant calculation method chosen by the person, an income amount is calculated for the year under sections EX 44 to EX 56(which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
 Treatment of transaction under section EX 63, EX 65, or EX 67
 (1B) If a person is treated under section EX 63(5), EX 65, or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)(d) and (e).
 Look-through calculation methods
-(2) Despite subsection (1), if the calculation method is the accounting profits method or branch equivalent method,—
+(2) Despite subsection (1), if the calculation method is the attributable FIF income method,—
   (a) FIF income arises in the income year only if the relevant accounting period of the FIF ends during the year; and
   (b) the tests in subsection (1)(a), (b), (c), and (f) are applied on the basis that references in subsection (1)(a), (b), (c), and (f) to any time in the year are read as references to any time in the relevant accounting period.
 FIF income from CFC with FIF interest
@@ -3098,7 +3106,7 @@ Exempt income
 (1) A dividend from a foreign company is exempt income if derived by a company that is resident in New Zealand.
 Exclusions
 (2) Subsection (1) does not apply to a dividend if the dividend is paid in relation to rights that are—
-  (a) a direct income interest of less than 10% in a foreign company described in—
+  (a) a direct income interest that meets the requirements of neither section EX 34 (CFC rules exemption) nor section EX 35 (Exemption for interest in FIF resident in Australia) and is excluded from being an attributing interest by—
     (i) section EX 31 (Exemption for ASX-listed Australian companies):
     (ii) section EX 32 (Exemption for Australian unit trusts with adequate turnover or distributions):
     (iii) section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
@@ -3107,8 +3115,10 @@ Exclusions
     (vi) section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
   (b) a fixed-rate foreign equity:
   (c) rights to a deductible foreign equity distribution.
-Non-application to dividends derived by certain PIEs
-(3) This section does not apply to a dividend derived by a multi-rate PIE.
+Non-application to certain dividends
+(3) This section does not apply to a dividend—
+  (a) derived by a portfolio investment entity:
+  (b) excluded by section CD 36(2) (Foreign investment fund income) from the effect of section CD 36(1).
 
 ### CW 10 Dividend within New Zealand wholly-owned group
 Exempt income
@@ -3132,10 +3142,7 @@ Exclusion: certain sickness, accident, or death benefit fund dividends
 (6) The dividend must not be derived by a trustee in trust for a sickness, accident, or death benefit fund from a company registered as an insurer under the Accident Insurance Act 1998 that is under the control of the trustee.
 
 ### CW 11 Dividend of conduit tax relief holding company
-Exempt income: credit
-(1) If a conduit tax relief (CTR) holding company derives a dividend with a CTR credit attached, the dividend is exempt income to the extent to which it is fully credited for conduit tax relief.
-Exempt income: additional dividend
-(2) If a CTR holding company derives a CTR additional dividend, the CTR additional dividend is exempt income.
+[Repealed]
 
 ### CW 12 Proceeds of share disposal by qualifying foreign equity investor
 Exempt income: proceeds from disposal of share in resident company
@@ -3258,7 +3265,7 @@ Venture investment agreement
     (ii) more than 50% in number of the company’s employees.
 
 ### CW 14 Dividends derived by qualifying companies
-Sections CW 10 and CW 11 do not apply to treat as exempt income a dividend derived by a company that has been a qualifying company at some time before the date on which it derives the dividend, except to the extent to which the dividend is a dividend to which section CW 9 applies.
+Section CW 10 does not apply to treat as exempt income a dividend derived by a company that has been a qualifying company at some time before the date on which it derives the dividend, except to the extent to which the dividend is a dividend to which section CW 9 applies.
 
 ### CW 15 Dividends paid by qualifying companies
 Exempt income of shareholder
@@ -4890,6 +4897,21 @@ Contents of notice of election
 Relationship to section CG 6
 (8) This section overrides section CG 6.
 
+### CZ 23 Employee benefits for Canterbury earthquake relief: exempt income
+Exempt income
+(1) Income derived by an employee from an employer is exempt income to the extent given by subsection (2) if the income—
+  (a) would be assessable income in the absence of this section; and
+  (b) is provided by the employer for the purpose of relief of employees from the adverse effects of a Canterbury earthquake, as defined in section 4 of the Canterbury Earthquake Recovery Act 2011, of 4 September 2010 or 22 February 2011; and
+  (c) is derived in the period of 8 weeks beginning on the day of that Canterbury earthquake; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) is available to another employee, who is not an associated person of the employer and is or was immediately before a Canterbury earthquake in full-time employment with the employer, if the employee is an associated person of the employer; and
+  (g) is treated by the employer as being exempt income for the employee.
+Extent of exemption
+(2) Income satisfying subsection (1) is exempt income to the extent that the income is—
+  (a) accommodation as defined in section CE 1(2) (Amounts derived in connection with employment):
+  (b) less than or equal to $3,200 in total, if the income is in a form other than accommodation.
+
 ### CZ 24 Employee benefits for Canterbury earthquake relief: not fringe benefits
 When this section applies
 (1) This section applies when an employee receives from an employer a benefit that—
@@ -6520,6 +6542,7 @@ General rule
 (1) A person has an attributed CFC loss from a foreign company in an income year if—
   (a) the foreign company is a CFC at any time during 1 of its accounting periods, under sections EX 1 to EX 7 (which relate to the definition of a controlled foreign company); and
   (b) the accounting period ends during the income year; and
+  (bb) the person is not a portfolio investment entity; and
   (c) the person has an income interest in the foreign company for the accounting period, under sections EX 8 to EX 13 (which relate to calculating a person’s income interest); and
   (d) at any time in the accounting period, the person is a New Zealand resident who is not a transitional resident; and
   (e) the person’s income interest is 10% or more for the accounting period, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
@@ -6539,7 +6562,7 @@ The amount of an attributed CFC loss is calculated under sections EX 18 to EX 20
 Amount of deduction
 (1) The deduction that a person is allowed for an attributed CFC loss from a CFC in an income year is no more than the total of—
   (a) any attributed CFC income of the person for the income year from another CFC that is resident in the same country as the first CFC for the relevant accounting period; and
-  (b) any foreign investment fund (FIF) income of the person for the income year calculated under the branch equivalent method from a FIF that is resident in the same country.
+  (b) any foreign investment fund (FIF) income of the person for the income year calculated under the attributable FIF income method from a FIF that is resident in the same country.
 Income only once
 (2) When subsection (1) is applied to an attributed CFC loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when—
   (a) subsection (1) is applied to another attributed CFC loss; or
@@ -6551,7 +6574,7 @@ Relationship with subpart IQ
 Deduction
 (1) A person is allowed a deduction for a FIF loss.
 Ring-fencing rule for loss calculated under branch equivalent method
-(2) The deduction for a FIF loss calculated under the branch equivalent method is subject to the jurisdictional ring-fencing rule in section DN 8.
+(2) The deduction for a FIF loss calculated under the attributable FIF income method is subject to the jurisdictional ring-fencing rule in section DN 8.
 Link with subpart DA
 (3) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
@@ -6567,7 +6590,7 @@ General rule
     (ii) the exemption for Australian unit trusts with 25% turnover in section EX 32 (Exemption for Australian unit trusts with 25% turnover):
     (iii) the exemption for Australian regulated superannuation savings in section EX 33 (Exemption for Australian regulated superannuation savings):
     (iv) the CFC regime exemption in section EX 34 (CFC rules exemption):
-    (v) the exemption for a 10% or greater interest in a grey list company in section EX 35 (Exemption for 10% or greater interest in grey list company):
+    (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
     (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemption for employee share purchase scheme of grey list company):
@@ -6576,15 +6599,22 @@ General rule
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident, in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii) the immigrant’s accrued superannuation entitlement exemption in section EX 42 (New resident’s accrued superannuation entitlement exemption):
-    (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exemption); and
-  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
-  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (4), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000; and
+    (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
+    (xv) an exemption given by sections EX 50, EX 18A(2)(b)(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
+  (d) if the person is a natural person and not acting as a trustee,—
+    (i) the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
+    (ii) the person includes, in a return for the year, FIF income or loss from an attributing interest in a FIF:
+    (iii) the person has, in the return for 1 of the preceding 4 income years (the earlier year), included FIF income or loss from attributing interests in FIFs with a total cost of $50,000 or less, calculated under section EX 68, at all times in the earlier year when the person is a New Zealand resident; and
+  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (4),—
+    (i) the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000:
+    (ii) the person includes, in a return for the year, FIF income or loss from an attributing interest in a FIF:
+    (iii) the person has, in a return for 1 of the preceding 4 income years (the earlier year), included FIF income or loss from attributing interests in FIFs with a total cost of $50,000 or less, calculated under section EX 68, at all times in the earlier year; and
   (f) at any time in the year, the person is a New Zealand resident who is not a transitional resident and holds the attributing interest; and
   (g) under the relevant calculation method chosen by the person, a loss amount is calculated for the income year or relevant accounting period under sections EX 44 to EX 56 (which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
 Treatment of transaction under section EX 63, EX 65, or EX 67
 (1B) If a person is treated under section EX 63(5), EX 65 or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)(d) and (e).
 Look-through calculation methods
-(2) Despite subsection (1), if the calculation method is the accounting profits method or branch equivalent method,—
+(2) Despite subsection (1), if the calculation method is the attributable FIF income method,—
   (a) FIF loss arises in the income year only if the relevant accounting period of the FIF ends during the year; and
   (b) the tests in subsection (1)(a), (b), (c), and (f) are applied on the basis that references in subsection (1)(a), (b), (c), and (f) to any time in the income year are read as references to any time in the relevant accounting period.
 FIF loss from CFC with FIF interest
@@ -6603,11 +6633,11 @@ Requirements for trustees
 ### DN 7 Calculation of FIF loss
 The amount of a FIF loss is calculated, using the relevant calculation method, under sections EX 44 to EX 61 (which relate to the calculation of FIF income or loss).
 
-### DN 8 Ring-fencing cap on deduction: branch equivalent method
+### DN 8 Ring-fencing cap on deduction: attributable FIF income method
 Amount of deduction
-(1) If a person has a FIF loss that is calculated under the branch equivalent method, the deduction the person is allowed for the loss in an income year is no more than the total of—
+(1) If a person has a FIF loss that is calculated under the attributable FIF income method, the deduction the person is allowed for the loss in an income year is no more than the total of—
   (a) any attributed CFC income of the person for the income year from a CFC that is resident in the same country as the FIF for the relevant accounting period of the CFC; and
-  (b) any FIF income of the person for the income year that is calculated under the branch equivalent method from another FIF resident in the same country.
+  (b) any FIF income of the person for the income year that is calculated under the attributable FIF income method from another FIF resident in the same country.
 Income only once
 (2) When subsection (1) is applied to a FIF loss, an amount of attributed CFC income or FIF income may be used only to the extent to which the income is not used when applying—
   (a) subsection (1) to another FIF loss; or
@@ -13869,8 +13899,13 @@ Proportional reduction
 
 **Ten percent threshold and variations in income interest level**
 
-### EX 14 Attribution: 10% threshold
-A person has attributed CFC income or attributed CFC loss from a CFC only if the person’s income interest in the CFC is 10% or more for the relevant accounting period.
+### EX 14 Attribution: 10% threshold, not PIE
+Persons with attributed CFC income or loss
+(1) A person has attributed CFC income or loss from a CFC only if the person—
+  (a) has an income interest in the CFC of 10% or more for the relevant accounting period; and
+  (b) is not a portfolio investment entity.
+Portfolio investment entity
+(2) A portfolio investment entity that would have attributed CFC income or loss from a CFC in the absence of subsection (1)(b) has FIF income or loss from the CFC under the FIF rules.
 
 ### EX 15 Associates and 10% threshold
 Associates included
@@ -13964,7 +13999,7 @@ Definition of items in formula
 (2) The items in the formula in subsection (1) are defined in subsections (3) and (4).
 Gross
 (3) Gross is the total amount of income derived in the accounting period by the CFC that is 1 or more of the following:
-  (a) a dividend that is paid in relation to rights that are a direct income interest of less than 10% in a foreign company and are described in—
+  (a) a dividend that is paid in relation to rights that are a direct income interest in a foreign company, meet the requirements of neither section EX 34 nor section EX 35, and are excluded from being an attributing interest by—
     (i) section EX 31:
     (ii) section EX 32:
     (iii) section EX 36:
@@ -13986,10 +14021,11 @@ Gross
   (l) income from a service, other than a telecommunications service, to the extent to which the service is physically performed in New Zealand:
   (m) income from a service relating to the use of equipment to provide a telecommunications service, to the extent to which the equipment is at the time—
     (i) physically located outside any country or territory; and
-    (ii) owned by the CFC or by another CFC that is associated with the CFC; and
+    (ii) owned by the CFC or by a FIF that is associated with the CFC; and
     (iii) not a mobile telephone handset or a radio receiver and transmitter for a ship or aircraft:
   (n) income from a telecommunications service to the extent to which the service is physically performed in New Zealand and is not described in subsection (11):
   (o) attributed PIE income that, for a CFC, is not excluded income under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
+  (p) a dividend that is excluded by section CD 36(2) (Foreign investment fund income) from the effect of section CD 36(1).
 Arrangement
 (4) Arrangement is the total for the CFC and the accounting period of amounts of income under section CC 3 (Financial arrangements) for—
   (a) an arrangement that—
@@ -14015,9 +14051,9 @@ Attributable CFC amount: royalties
     (i) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (7)(c) and (12)(a); and
     (ii) from property that is not linked to New Zealand under subsection (13):
   (d) the royalty is—
-    (i) paid to the CFC by a person who is not associated with the CFC under section YB 2, or by a CFC associated with the CFC under section YB 2 that has received a corresponding royalty payment from such a person; and
-    (ii) from property owned by a New Zealand resident who is not treated as a non-resident under a double tax agreement; and
-    (iii) from property licensed to the CFC by the New Zealand resident for an arm's length amount determined under section GC 13 for the arrangement between the CFC and the New Zealand resident.
+    (i) paid to the CFC by a person not associated with the CFC under section YB 2, or by a CFC associated with the CFC under section YB 2 that has received a royalty payment from such a person or a royalty payment arising from such a royalty payment; and
+    (ii) from property owned by a New Zealand resident who is resident in no other country under all applicable double tax agreements; and
+    (iii) from property licensed to the CFC, or to a CFC associated with the CFC under section YB 2, (the licensee) by the New Zealand resident for an arm's length amount determined under section GC 13 for the arrangement between the licensee and the New Zealand resident.
 Attributable CFC amount: rent
 (6) Rent derived by a CFC is included in an attributable CFC amount under subsection (3)(e) if the rent is not of a type referred to in subsection (7) and is from—
   (a) a lease or sublease of land:
@@ -14026,7 +14062,7 @@ Attributable CFC amount: rent
   (d) a hire or bailment.
 Attributable CFC amount: exclusions from rent
 (7) Rent derived by a CFC from a source referred to in subsection (6) is not included in an attributable CFC amount under subsection (3)(e) if the rent is—
-  (a) from land in a country or territory under the laws of which the CFC is liable to income tax on the CFC's income because of its domicile, residence, place of incorporation, or centre of management:
+  (a) from land in a country or territory with which the CFC has a taxed CFC connection:
   (b) from property other than land, to the extent to which the rent relates to the use of the property in a country or territory referred to in paragraph (a):
   (c) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)(c) and (12)(a):
   (d) a payment under a hire purchase agreement:
@@ -14055,12 +14091,16 @@ Exclusions from attributable CFC amount: shares
   (d) the cost method.
 Exclusions from attributable CFC amount: telecommunications services in New Zealand
 (11) Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)(n) if—
-  (a) the service is the transmission, emission, or reception of information between New Zealand and the country or territory in which the CFC is liable to income tax on its income because of its domicile, residence, place of incorporation, or centre of management; and
+  (a) the service is the transmission, emission, or reception of information between New Zealand and a country or territory with which the CFC has a taxed CFC connection; and
   (b) the CFC is a network operator under the Telecommunications (Interception Capability) Act 2004 (a network operator), or—
     (i) a group of persons has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in the CFC; and
     (ii) the group of persons also has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in a network operator; and
-  (c) the service is not performed using equipment that at the time is physically located in New Zealand and is in the possession of the CFC or of another CFC that is associated with the CFC; and
-  (d) the service is not performed by a person who at the time is physically located in New Zealand and is an employee or contractor of the CFC or of another CFC that is associated with the CFC.
+  (c) the service is performed by a person, other than the CFC, who—
+    (i) is resident in New Zealand, and is resident in no other country under all applicable double tax agreements:
+    (ii) has a fixed establishment in New Zealand that is a permanent establishment under all applicable double tax agreements; and
+  (d) the service is performed by the person as part of a business in New Zealand of providing telecommunication services in New Zealand—
+    (i) carried on through the person's fixed establishment, if the person is not resident in New Zealand; and
+    (ii) from which the person derives assessable income of more than $5,000,000 per annum.
 Exclusions from attributable CFC amount: income from financial arrangements other than derivative instruments
 (12) Income of a CFC from a financial arrangement or excepted financial arrangement that is referred to in subsection (4)(a)(i) is not included in an attributable CFC amount under subsection (4)(a) if the financial arrangement or agreement is—
   (a) an agreement by the CFC to lend money to a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)(c) and (7)(c):
@@ -14110,16 +14150,16 @@ Definition of items in formula
 (6) In the formula in subsection (5)(b),—
   (a) funding costs is the total of amounts in the accounting period—
     (i) for which the CFC would have a deduction relating to a financial arrangement referred to in subsection (7)(a):
-    (ii) that are distributions relating to fixed-rate foreign equity or deductible foreign equity distributions of the CFC and paid by the CFC to companies resident in New Zealand or to CFCs:
+    (ii) that are distributions relating to fixed-rate foreign equity or deductible foreign equity distributions of the CFC and are paid by the CFC to a company resident in New Zealand, to another CFC, or to a FIF for which the interest holder uses the attributable FIF income method:
   (b) funding is the total amount of outstanding balances for financial arrangements referred to in subsection (7)(a) and of shares referred to in subsection (7)(b):
   (c) group funding is the lesser of the item funding and the total amount of outstanding balances for financial arrangements—
-    (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies); and
+    (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies) or to a FIF for which the interest holder uses the attributable FIF income method and that is associated with the CFC under section YB 2; and
     (ii) which produce for the CFC an amount included in the item arrangement under section EX 20B(4).
 Financial arrangements and shares contributing to funding costs
 (7) A financial arrangement to which a CFC is a party, or a share issued by the CFC, contributes to the item funding costs under subsection (6)(a) for the CFC if it is—
   (a) a financial arrangement that provides funds for the CFC:
   (b) a share that is—
-    (i) held by a company that is a New Zealand resident or a CFC; and
+    (i) held by a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method; and
     (ii) a fixed-rate foreign equity or a share giving a right to a deductible foreign equity distribution.
 Fraction
 (8) Fraction is,—
@@ -14169,13 +14209,13 @@ Total CFC's debts
   (a) financial arrangements entered by the CFC, each of which—
     (i) provides funds to the CFC; and
     (ii) gives rise to an amount for which the CFC would have a deduction:
-  (b) fixed-rate foreign equity issued by the CFC and held by a company that is a New Zealand resident or another CFC:
-  (c) shares issued by the CFC in relation to which the CFC makes deductible foreign equity distributions to a company that is a New Zealand resident or another CFC.
+  (b) fixed-rate foreign equity that is issued by the CFC and held by a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method:
+  (c) shares issued by the CFC in relation to which the CFC makes deductible foreign equity distributions to a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method.
 Group funding
 (7) Group funding is—
   (a) if paragraph (b) does not apply, zero; or
   (b) if the interest holder chooses to rely on this paragraph and the item total CFC's assets is greater than the item total CFC's debts, the lesser of the item total CFC's debts and the total amount of outstanding balances for financial arrangements—
-    (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies); and
+    (i) under which the CFC provides funds to another CFC that is associated with the CFC under section YB 2 (Two companies) or to a FIF for which the interest holder uses the attributable FIF income method and that is associated with the CFC under section YB 2; and
     (ii) which produce for the CFC an amount included in the item arrangement under section EX 20B(4).
 Total CFC's assets
 (8) Total CFC's assets is the total value of the CFC's assets determined under generally accepted accounting practice.
@@ -14184,15 +14224,15 @@ Fraction for excessively debt funded CFC
   (a) an excess debt outbound company; and
   (b) the only member of the CFC's New Zealand group.
 Formula for fraction
-(10) The formula for the CFC's fraction is—attributable CFC assetstotal CFC assets.
+(10) The formula for the CFC's fraction is—attributable foreign company assetstotal foreign company assets.
 Definition of items in formula
 (11) The items in the formula in subsection (10) are defined in subsections (12) and (13).
-Attributable CFC assets
-(12) Attributable CFC assets is the total value of assets, consolidated under generally accepted accounting practice for all the interest holder's CFCs and the accounting period, to the extent to which each asset is—
-  (a) used for the purpose of deriving an attributable CFC amount; and
-  (b) not used for the purpose of deriving an amount that is not an attributable CFC amount.
-Total CFC assets
-(13) Total CFC assets is the total value of assets, consolidated under generally accepted accounting practice, for all the interest holder's CFCs and the accounting period.
+Attributable foreign company assets
+(12) Attributable foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method, to the extent to which each asset is—
+  (a) used for the purpose of deriving an attributable CFC amount or an amount that is included in net attributable FIF income or loss; and
+  (b) not used for the purpose of deriving an amount other than an amount referred to in paragraph (a).
+Total foreign company assets
+(13) Total foreign company assets is the total value of assets, consolidated under generally accepted accounting practice for the accounting period, of all the interest holder's CFCs and of all the FIFs for which the interest holder uses the attributable FIF income method.
 
 ### EX 20E Relative debt-asset ratio for CFC
 What this section does
@@ -14214,8 +14254,8 @@ Total group debts
   (a) financial arrangements entered by the group's members, each of which—
     (i) provides funds to a group member; and
     (ii) gives rise to an amount for which a group member would have a deduction:
-  (b) fixed-rate foreign equity issued by a member of the group and held by a company that is a New Zealand resident or a CFC:
-  (c) equity interests issued by a member of the group in relation to which the member makes deductible foreign equity distributions to a company that is a New Zealand resident or a CFC.
+  (b) fixed-rate foreign equity issued by a member of the group and held by a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method:
+  (c) equity interests issued by a member of the group in relation to which the member makes deductible foreign equity distributions to a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method.
 Total group assets
 (6) Total group assets is the total value, consolidated under generally accepted accounting practice for the accounting period, of the assets of the CFC's group.
 Formula for CFC's relative debt-asset ratio
@@ -14342,7 +14382,7 @@ Petroleum mining activities
 Finance leases and specified leases
 (30) A lease entered into by the CFC before the start of the first accounting period in which the CFC is a CFC is neither a finance lease (subject to the financial arrangements rules and sections FA 6 to FA 11 , which relate to finance leases), nor a specified lease (subject to sections FZ 2 to FZ 4, which relate to leases).
 When subsection (30) does not apply
-(31) Subsection (30) does not apply if another party to the lease is either a CFC or a New Zealand resident.
+(31) Subsection (30) does not apply if another party to the lease is a New Zealand resident, a CFC, or a FIF for which the taxpayer uses the attributable FIF income method.
 Taxable distributions from non-complying trust
 (32) If the CFC gets a taxable distribution from a non-complying trust—
   (a) section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts) does not apply; and
@@ -14372,6 +14412,8 @@ CFC meeting test in section EX 21D or EX 21E
     (iii) the CFC meets the requirements of EX 21E.
 Insurer meeting requirements of determination
 (3) A CFC that is an insurer meeting the requirements of a determination made by the Commissioner under section 91AAQ of the Tax Administration Act 1994 is a non-attributing active CFC.
+Single test for each CFC
+(4) In determining whether CFCs are non-attributing active CFCs for an accounting period under a test in section EX 21D or EX 21E, an interest holder must not use the result of a test applied to a test group that includes a CFC if the person uses for the period a result of the same or a different test applied to the CFC, alone or as part of a different test group.
 
 **Tests for non-attributing active CFCs**
 
@@ -14437,14 +14479,14 @@ Compliance with accounting standards
   (a) the accounts state that they comply with the accounting standard; and
   (b) the accounts meet the audit requirements of subsection (8); and
   (c) the Commissioner does not have reasonable grounds to suspect—
-    (i) fraudulent activity by the interest holder, the CFC, a CFC in the CFC's test group, or the auditor:
+    (i) fraudulent activity by the interest holder, the CFC, a company in the CFC's test group, or the auditor:
     (ii) preparation of the accounts with an intent to mislead:
     (iii) incompetence of the auditor.
 
 ### EX 21D Non-attributing active CFC: default test
 CFC as part of test group
 (1) A person (the interest holder) with an interest in a CFC may choose to apply this section for the CFC as a member of a group (a test group) if the group consists of companies—
-  (a) each subject to the laws of the same country or territory under which the company is liable to income tax on its income because of its domicile, residence, place of incorporation, or centre of management; and
+  (a) each subject to the laws of the same country or territory and having a taxed CFC connection with the country or territory; and
   (b) in each of which the interest holder holds an income interest of more than 50%; and
   (c) each of which is required to use the same currency under section EX 21(4); and
   (d) that are consolidated for the purposes of this section—
@@ -14497,7 +14539,7 @@ Applicable accounting standard
 CFC as part of test group
 (2) The interest holder may choose to apply this section for the CFC as a member of a group (a test group) if—
   (a) the group consists of companies required under the applicable accounting standard to consolidate, whether or not with companies that are not in the group; and
-  (b) each company is subject to the laws of the same country or territory under which the company is liable to income tax on its income because of its domicile, residence, place of incorporation, or centre of management; and
+  (b) each company is subject to the laws of the same country or territory and has a taxed CFC connection with the country or territory; and
   (c) the interest holder holds an income interest of more than 50% in each company; and
   (d) each company has the same functional currency; and
   (e) there are audited and consolidated financial statements that—
@@ -14563,6 +14605,7 @@ Removed passive
   (a) a dividend that is not included in the attributable CFC amount for the accounting period under section EX 20B(3)(a) to (c):
   (b) a royalty that would be included in the attributable CFC amount for the accounting period but for section EX 20B(5)(a) to (d):
   (c) rent that would be included in the attributable CFC amount for the accounting period but for section EX 20B(7)(a) to (c):
+  (cb) gain or loss from a financial asset that is a financial arrangement or agreement referred to in section EX 20B(12):
   (d) the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, to which—
     (i) the cost would be a deduction of the CFC in the accounting period if the CFC were a resident of New Zealand; and
     (ii) the deduction would exceed the amount of any income arising under subpart CH (Adjustments) relating to the deduction.
@@ -14571,6 +14614,7 @@ Reported revenue
   (a) included under the applicable accounting standard in—
     (i) operating revenue, if the applicable accounting standard is generally accepted accounting practice without IFRS; or
     (ii) revenue, if subparagraph (i) does not apply:
+  (ab) income from rent:
   (b) income, other than rent, from a finance lease or operating lease:
   (c) a gain or loss on a financial asset, other than a derivative as defined in NZIAS 39 or a share not on revenue account, in the form of—
     (i) a change in the reported fair value of the asset:
@@ -14819,19 +14863,25 @@ A person’s rights in a FIF are not an attributing interest if—
 ### EX 34 CFC rules exemption
 A person’s rights in a FIF at any time are not an attributing interest if—
   (a) the FIF is a CFC at the time; and
-  (b) the person has, under sections EX 14 to EX 17, an income interest of 10% or more in the CFC for the accounting period during which the time falls.
+  (b) the person has, under sections EX 14 to EX 17, an income interest of 10% or more in the CFC for the accounting period during which the time falls; and
+  (c) the person is not a portfolio investment entity.
 
-### EX 35 Exemption for 10% or greater interest in grey list company
-A person’s rights in a FIF in an income year are not an attributing interest if, at all times in the year,—
-  (a) the rights are a direct income interest of 10% or more; and
-  (b) the FIF is a grey list company; and
-  (c) the person is not—
+### EX 35 Exemption for interest in FIF resident in Australia
+A person's rights in a FIF in an income year are not an attributing interest if,—
+  (a) at all times in the year, the rights are a direct income interest of 10% or more; and
+  (b) at all times in the year, the FIF is—
+    (i) resident in Australia; and
+    (ii) under Australian law, subject to income tax on its income or treated as part of the head company of a consolidated group subject to income tax on its income; and
+    (iii) treated as being resident in Australia under all agreements between the Government of Australia and the governments of other territories that would be a double tax agreement if between the Government of New Zealand and the government of the other country or territory; and
+  (c) the FIF's liability for income tax for the income year is not reduced by—
+    (i) an exemption from income tax for income derived from business activities carried on outside Australia:
+    (ii) a special allowance, relief, or exemption with respect to offshore banking units; and
+  (d) at all times in the year, the person is none of the following:
     (i) a portfolio investment entity:
     (ii) a superannuation scheme:
     (iii) a unit trust:
     (iv) a life insurer:
-    (v) a group investment fund; and
-  (d) the FIF is not an entity described in schedule 25, part B (Foreign investment funds).
+    (v) a group investment fund.
 
 ### EX 36 Venture capital company emigrating to grey list country: 10-year exemption
 A person’s rights in a FIF in an income year are not an attributing interest if—
@@ -14932,20 +14982,19 @@ Exemption for non-resident or transitional resident
 ### EX 42 New resident’s accrued superannuation entitlement exemption
 Exemption
 (1) The rights of a natural person to benefit, as a beneficiary or a member, from a foreign superannuation scheme at any time are not an attributing interest in a FIF—
-  (a) to the extent to which the requirements of subsections (2) to (4) are met at the time; and
+  (a) to the extent to which the requirements of subsection (2) are met at the time; and
   (b) if the requirements of subsections (5) to (9) are met at the time.
-Rights accruing before or after becoming resident
-(2) The rights must have accrued during a period—
-  (a) for which the person is not a New Zealand resident:
-  (b) for which the person is a New Zealand resident and that—
+Requirements for accrual of rights
+(2) The rights must have accrued—
+  (a) when the person is not a New Zealand resident:
+  (b) during a period for which the person is a New Zealand resident that—
     (i) begins when the person becomes a New Zealand resident; and
-    (ii) ends before the first day of the fifth income year following the income year in which the person becomes a New Zealand resident.
+    (ii) ends before the first day of the fifth income year following the income year in which the person becomes a New Zealand resident:
+  (c) as a result of rights that satisfy paragraph (a) or (b).
 Calculation of rights accruing
-(3) The extent to which the rights have accrued during a period referred to in subsection (2) is calculated using the formula—closing value − opening value.
+(3)
 Definition of items in formula
-(4) In the formula,—
-  (a) closing value is the market value of the rights on the day that ends the period:
-  (b) opening value is the market value of the rights on the day that begins the period.
+(4)
 Employee scheme or self-employed
 (5) Either—
   (a) the scheme must be one where the person’s rights can be acquired only through the person’s employment; or
@@ -14990,11 +15039,11 @@ Elective exclusion of pre-1996–97 rights
 
 **Calculation of FIF income or loss**
 
-### EX 44 Six calculation methods
+### EX 44 Five calculation methods
 Use of 1 method
 (1) If the tests in section CQ 5 (When FIF income arises) or DN 6 (When FIF loss arises) are met, the amount of a person’s FIF income or loss is calculated under—
-  (a) the accounting profits method; or
-  (b) the branch equivalent method; or
+  (a)
+  (b) the attributable FIF income method; or
   (c) the comparative value method; or
   (d) the deemed rate of return method; or
   (e) the fair dividend rate method; or
@@ -15021,40 +15070,24 @@ Same method for same FIF
   (a) the interests are of different classes; and
   (b) this section prevents the same method being used.
 Accounting profits method
-(2) A person may use the accounting profits method for an accounting period to calculate FIF income or loss from an attributing interest in a FIF only if—
-  (a) the FIF is a company; and
-  (b) at all times during the accounting period when the FIF exists, interests in the FIF similar to the person’s attributing interest were—
-    (i) quoted on the official list of a recognised exchange; or
-    (ii) offered widely by or for the FIF to the public in 1 or more countries; and
-  (c) the net after-tax accounting profits or losses of the FIF for the accounting period are calculated under generally accepted accounting practice, or an equivalent standard for consistent and undistorted reporting of net profits, of the country in which the FIF is resident; and
-  (d) the net after-tax accounting profits or losses are detailed in financial statements—
-    (i) sent or made available to shareholders in the FIF; and
-    (ii) readily available to interested members of the public; and
-    (iii) audited by a chartered accountant, or accountant of equivalent professional standard in the country in which the FIF is resident; and
-    (iv) for which such an accountant has given a standard audit opinion, without qualifications, to the effect that the financial statements represent the income and financial position of the FIF to the degree of validity normally required in the country in which the FIF is resident; and
-  (e) the net after-tax accounting profits or losses are calculated, in any case in which the FIF has 1 or more subsidiaries, on a consolidated basis; and
-  (f) the net after-tax accounting profits or losses include any extraordinary items; and
-  (g) the person has no reason to believe that the net after-tax accounting profits or losses do not fairly represent the net after-tax profits or losses of the FIF for the accounting period; and
-  (h) the FIF is not an entity described in schedule 25, part C (Foreign investment funds); and
-  (i) the Commissioner has not concluded that the net after-tax accounting profits or losses do not fairly represent the net after-tax profits or losses of the FIF for the accounting period.
-Branch equivalent method
-(3) A person may use the branch equivalent method to calculate FIF income or loss from an attributing interest in a FIF for an accounting period only if—
-  (a) the FIF is a company; and
-  (b) the person can provide to the Commissioner, if requested, sufficient information to enable the Commissioner to check the calculations required by section EX 50.
+(2)
+Attributable FIF income method
+(3) A person may use the attributable FIF income method to calculate FIF income or loss from an attributing interest in a FIF for an accounting period only if the person can provide to the Commissioner, if requested, sufficient information to enable the Commissioner to check the calculations required by section EX 50 and,—
+  (a) at all times in the accounting period,—
+    (i) the FIF is a company; and
+    (ii) the item income interest given by section EX 50(4) for the person and the FIF is 10% or more; and
+    (iii) the person is not a portfolio investment entity:
+  (b) the FIF is a CFC and the person cannot determine the market value of the attributing interest at the beginning of the accounting period except by independent valuation and neither the person nor a person who has a direct income interest of 10% or more in the FIF is—
+    (i) a listed company:
+    (ii) a group investment fund:
+    (iii) a portfolio investment entity:
+    (iv) a superannuation scheme:
+    (v) a unit trust:
+    (vi) a trustee of a trust with a beneficiary described in 1 or more of subparagraphs (i) to (iv).
 Deemed rate of return method: general rule
-(4) A person may use the deemed rate of return method to calculate FIF income or loss from an attributing interest in a FIF for an income year only if the interest is not a direct income interest of less than 10% in a foreign company and any of the following applies:
-  (a) it is not reasonably practicable for the person to use—
-    (i) the comparative value method, because the person cannot determine the market value of the attributing interest at the end of the income year; or
-    (ii) the accounting profits method for any accounting period that falls wholly or partly in the year; or
-  (b) the person is a natural person and at all times during the income year the total value of attributing interests in FIFs held by the person is $250,000 or less, the value of each interest being—
-    (i) its book value, calculated under section EX 55(7), at the end of the previous income year, if the person held the interest then and used the deemed rate of return method to calculate FIF income for all attributing interests in the previous income year:
-    (ii) its market value, in any other case; or
-  (c) section EX 48 requires the person to use that method; or
-  (d) section EX 62 requires the person to continue using that method.
-Deemed rate of return method: exception when section EX 47 applies
-(5) Despite subsection (4), a person may use the deemed rate of return method to calculate FIF income or loss from an attributing interest in a FIF if—
-  (a) the interest is a direct income interest in a foreign company of less than 10%; and
-  (b) the person is required by section EX 47 to use the deemed rate of return method for the interest.
+(4)
+Deemed rate of return method
+(5) A person may use the deemed rate of return method to calculate FIF income or loss from an attributing interest in a FIF only if the person is required by section EX 47 to use the deemed rate of return method for the interest.
 Comparative value method: shares in foreign companies
 (6) A person may use the comparative value method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company for an income year only if—
   (a) the person is a natural person:
@@ -15063,25 +15096,17 @@ Comparative value method: shares in foreign companies
     (ii) at all times in the income year, is a complying trust for a distribution made at the time; and
     (iii) is, at all times in the income year, mainly for the benefit of a natural person for whom the gifting settlors of the trust have natural love and affection (or had natural love and affection when alive) or is mainly for the benefit of an organisation or trust with income that is exempt income under section CW 41 or CW 42 (which relate to the income of charities); and
     (iv) is not a superannuation scheme:
-  (c) the person’s direct income interest in the FIF, increased for the purposes of this paragraph by each direct income interest of a person associated with them, is 10% or more at any time in the income year:
+  (c)
   (d) the share is a non-ordinary share described in subsection (10).
 Fair dividend rate method: shares in foreign companies
-(7) A person may use the fair dividend rate method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company for an income year only if—
-  (a) the person’s direct income interest in the FIF, increased for the purposes of this paragraph by each direct income interest of a person associated with them, is less than 10%—
-    (i) at any time in the year, if the FIF is a grey list company; or
-    (ii) at all times in the year, if the FIF is not a grey list company:
-  (b) the FIF is a foreign PIE equivalent and the person is—
-    (i) a portfolio investment entity or an entity that qualifies for PIE status:
-    (ii) a life insurance company.
+(7)
 Fair dividend rate method: exemption for shares in foreign companies
-(8) Despite subsection (7), a person must not use the fair dividend rate method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company for an income year if—
+(8) A person must not use the fair dividend rate method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company for an income year if—
   (a) the share is a non-ordinary share described in subsection (10):
   (b) the person chooses to use the comparative value method for another attributing interest that is a share in a foreign company and for which the person would be allowed, in the absence of this paragraph, to use the fair dividend rate method.
 Cost method for shares in foreign companies
 (9) A person may use the cost method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company only if—
-  (a) the person’s direct income interest in the FIF, increased for the purposes of this paragraph by each direct income interest of a person associated with them, is less than 10%—
-    (i) at any time in the income year, if the FIF is a grey list company; or
-    (ii) at all times in the income year, if the FIF is not a grey list company; and
+  (a)
   (b) use of the fair dividend rate method is allowed but is not practical because the person cannot determine the market value of the attributing interest at the start of the income year except by an independent valuation.
 Certain non-ordinary shares
 (10) For the purposes of subsections (6)(d) and (8)(a), a non-ordinary share in a foreign company is—
@@ -15117,66 +15142,69 @@ When this section applies
 (1) This section applies when—
   (a) a person does not choose a calculation method to calculate FIF income or loss from an attributing interest for a period; and
   (b) sections EX 46, EX 47, and EX 62 do not have the effect of requiring a particular calculation method to be used.
-Default choice for direct income interests in FIF of less than 10%
+Default choice
 (2) The person is treated as having chosen to use, for the period,—
-  (a) for a direct income interest in a foreign company of less than 10% for which section EX 46(7) allows the use of the fair dividend rate method,—
-    (i) the fair dividend rate method if it is practical to use it; and
-    (ii) the cost method if it is not practical to use the fair dividend rate method:
-  (b) for any other interest,—
-    (i) the accounting profits method, if section EX 46(2) allows the use of that method and it is practical to use it; or
-    (ii) the comparative value method, if use of the accounting profits method is not allowed or is not practical, and it is practical to use the comparative value method; or
-    (iii) the deemed rate of return method, if use of the accounting profits method is not allowed or is not practical, and it is not practical to use the comparative value method.
+  (a) the fair dividend rate method if it is practical to use it; and
+  (b) the cost method if it is not practical to use the fair dividend rate method.
 
 ### EX 49 Accounting profits method
-Formula
-(1) If a person is using the accounting profits method to calculate FIF income or loss from an attributing interest in a FIF, the total FIF income or loss from all their attributing interests in the FIF for the relevant accounting period is calculated using the formula—(accounting profits or losses − foreign tax) × income interest.
-Definition of items in formula
-(2) The items in the formula are defined in subsections (3) to (5).
-Accounting profits or losses
-(3) Accounting profits or losses is the net after-tax accounting profits or losses of the FIF for the accounting period.
-Foreign tax
-(4) Foreign tax is the total for the accounting period of income tax on the income of the FIF—
-  (a) for which the person is liable under the laws of a country or territory outside New Zealand; and
-  (b) paid by the person in the accounting period.
-Income interest
-(5) Income interest is the person’s income interest in the FIF for the accounting period. The income interest is calculated under all the following CFC rules, applying as if the FIF were a CFC:
-  (a) sections EX 8 to EX 11and EX 13:
-  (b) sections EX 16 and EX 17:
-  (c) section EX 26, unless the person chooses to apply subsection (6).
-Election to measure on 31 March only
-(6) For an income interest that the person has held for more than 12 months, the person may follow a simplified calculation process by choosing to be treated as holding, at all times in the income year, the same interest, including zero interest, that they held at the end of the income year. The person makes the election by completing their return of income accordingly for the relevant income year.
-Election irrevocable
-(7) An election under subsection (6) is—
-  (a) irrevocable and applies to the person and all their attributing interests in the FIF in later years; and
-  (b) overridden by the anti-avoidance rules in sections GB 9 to GB 16 (which relate to CFCs).
-Conversion to New Zealand dollars
-(8) The person must choose, for the accounting period and each later accounting period and for all interests for which the person uses the accounting profits method,—
-  (a) for all the calculations to be done in the currency of the FIF’s financial accounts, with the result then converted into New Zealand dollars at the average of the close of trading spot exchange rates for the 15th day of each complete month that falls in the accounting period; or
-  (b) for all the calculations of the net after-tax accounting profits or losses of the FIF to be done in New Zealand dollars.
-Reduction in FIF loss to economic loss
-(9) In the cases described in subsections (10) and (11), the amount of any FIF loss calculated under subsection (1) is reduced to be equal to the person’s corresponding economic loss, if any.
-Application of subsection (9): no economic loss
-(10) Subsection (9) applies if the person suffers no, or substantially no, economic loss corresponding to the FIF loss, whether because of a call option, a put option, or any other reason.
-Application of subsection (9): FIF loss excessive
-(11) Subsection (9) also applies if the amount of FIF loss is more than any corresponding economic loss suffered by the person, whether because of the application of the rules for calculating the person’s income interest or any other reason.
+[Repealed]
 
-### EX 50 Branch equivalent method
+### EX 50 Attributable FIF income method
 Formula
-(1) If a person is using the branch equivalent method to calculate FIF income or loss from an attributing interest in a FIF, the total FIF income or loss from all their attributing interests in the FIF for the relevant accounting period is calculated using the formula—branch equivalent income or loss × income interest.
+(1) If a person is using theattributable FIF income method to calculate FIF income or loss from an attributing interest in a FIF, the total FIF income or loss from all their attributing interests in the FIF for the relevant accounting period is calculated using the formula—net attributable FIF income or loss × income interest.
 Definition of items in formula
 (2) The items in the formula in subsection (1) are defined in subsections (3) and (4).
-Branch equivalent income or loss
-(3) Branch equivalent income or loss is the branch equivalent income or loss of the FIF for the accounting period. This is calculated by applying section EX 21 of the CFC rules as that provision reads ignoring section 161(1) to (6), (9) to (14), (16), and (17) of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009—
-  (a) as if the FIF were a CFC and the person were calculating their attributed CFC income or loss; and
-  (b) applying subsections (5) and (6).
+Net attributable FIF income or loss
+(3) Net attributable FIF income or loss is the amount for the FIF and the accounting period found by applying—
+  (a) sections EX 18A to EX 21E, EX 24, and EX 25, as modified by subsection (4B), as if the FIF were a CFC and the person's attributing interests in the FIF were income interests in the CFC; and
+  (b) subsections (5) and (6).
 Income interest
 (4) Income interest is the person’s income interest in the FIF for the accounting period. The income interest is calculated under all the following CFC rules, applying as if the FIF were a CFC:
   (a) sections EX 8 to EX 11and EX 13:
   (b) sections EX 16 and EX 17:
   (c) section EX 26.
+Modifications to method of calculating net attributable CFC income or loss
+(4B) The net attributable FIF income or loss of a FIF is calculated as if—
+  (a) section EX 20B(5)(c)(i) required that the royalty be paid by a foreign company meeting the requirements of section EX 50(4C):
+  (b) section EX 20B(5)(d) were omitted:
+  (c) section EX 20B(7)(c) required that the rent be paid by a foreign company meeting the requirements of section EX 50(4C):
+  (d) section EX 20B(12)(a) required that the financial arrangement or agreement be an agreement by the CFC to lend money to a foreign company meeting the requirements of section EX 50(4C):
+  (e) section EX 21C(2)(a) required—
+    (i) the interest holder or other person to have accounts that include the accounts of the CFC, including by proportionate consolidation under NZIAS 31:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under NZIAS 39, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+  (f) section EX 21C(3)(a) required—
+    (i) the interest holder or other person to have accounts that include the accounts of the members of the test group, including by proportionate consolidation under NZIAS 31:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under NZIAS 39, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+  (g) section EX 21C(4)(a) required—
+    (i) the interest holder or other person to have accounts that include the accounts of the CFC, including by proportionate consolidation under the IFRSE corresponding to NZIAS 31:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under the IFRSE corresponding to NZIAS 39, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+  (h) section EX 21C(5)(a) required—
+    (i) the interest holder or other person to have accounts that include the accounts of the members of the test group, including by proportionate consolidation under the IFRSE corresponding to NZIAS 31:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under the IFRSE corresponding to NZIAS 39, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+  (i) section EX 21D(1)(a) required that none of the other companies in the test group be a CFC:
+  (j) section EX 21D(1)(b) required that the CFC hold a voting interest of more than 50% in each of the other companies in the test group:
+  (k) section EX 21D(3)(b) were omitted:
+  (l) section EX 21E(2)(b) required that none of the other companies in the test group be a CFC:
+  (m) section EX 21E(2)(c) required that the CFC hold a voting interest of more than 50% in each of the other companies in the test group:
+  (n) section EX 21E(2)(d) were omitted:
+  (o) section EX 21E(4)(c) were omitted:
+  (p) the references in section EX 21E(7)(f) and (g) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (q) section EX 21E(9)(a) required that an amount in the category be a dividend that is—
+    (i) not included in the attributable CFC amount for the accounting period under section EX 20B(3)(a) to (c); and
+    (ii) paid by a company other than 1 from which the person does not have additional FIF income or loss under subsection (6) because of the application of subsection (7B)(b):
+  (r) the references in section EX 21E(10)(c) and (d) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (s) the references in section EX 21E(12)(d) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (t) the reference in section EX 21E(12)(g) to NZIAS 32 were a reference to whichever is appropriate of NZIAS 32, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles.
+Requirements for foreign company making payments to FIF
+(4C) A foreign company making payments to a FIF meets the requirements of this subsection if—
+  (a) the person uses the attributable FIF income method for the foreign company; and
+  (b) the foreign company, if it were a CFC, would be a non-attributing active CFC under section EX 21B(2) in the absence of section EX 20B(5)(c)(i), (7)(c), and (12)(a); and
+  (c) a group of persons holds total voting interests of more than 50% in the FIF and in the foreign company; and
+  (d) the FIF and the foreign company each have a taxed FIF connection with the same country or territory.
 Taxable distributions
 (5) If the FIF derives a taxable distribution from a non-complying trust in the accounting period,—
-  (a) the taxable distribution is excluded when calculating the FIF’s branch equivalent income or loss, due to the combined effect of subsection (1) and section EX 21(32); and
+  (a) the taxable distribution is excluded when calculating the FIF’s net attributable FIF income or loss, due to the combined effect of subsection (1) and section EX 21(32); and
   (b) the person has additional attributed CFC income calculated by multiplying the taxable distribution by the person’s income interest in the FIF; and
   (c) the person is liable for income tax on the additional attributed CFC income at the rate in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) that applies to amounts under section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts).
 Calculation of additional FIF income or loss
@@ -15187,6 +15215,16 @@ Definition of items in formula
   (b) FIF’s FIF income or loss is the FIF’s FIF income or loss calculated under the rules in section EX 58(4) and (5), as if—
     (i) the FIF were the CFC referred to; and
     (ii) the FIF’s interest in the foreign company were an attributing interest, despite any application of section EX 34.
+Exception to subsection (6)
+(7B) A person does not have additional FIF income or loss under subsection (6) from a FIF with an interest in a foreign company if—
+  (a) the foreign company meets the test for a non-attributing active CFC under section EX 21B(2) and the person—
+    (i) would be able to use the attributable FIF income method for the foreign company if the person held the FIF's interest in the foreign company:
+    (ii) is able to include the foreign company in the same test group as the FIF under section EX 21D or EX 21E:
+  (b) the FIF would meet the test for a non-attributing active CFC under section EX 21B(2)(b) if the following amounts relating to the interest in the foreign company reported in the accounts of the FIF, or in the consolidated accounts of the FIF's test group under section EX 21E, were included in the items added passive and reported revenue under section EX 21E(5), (8), and (10) for the FIF or the test group:
+    (i) amounts recognised in profit and loss under the equity method under whichever is appropriate of NZIAS 28, NZIAS 31, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America:
+    (ii) amounts recognised in profit or loss under proportionate consolidation under whichever is appropriate of NZIAS 31, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America:
+    (iii) dividends and net fair value changes recognised in profit or loss in relation to investments accounted for under whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America:
+  (c) the interest in the foreign company would be excluded by section EX 35 from being an attributing interest if the interest were held by the person.
 Application of CFC rules tax credit rules
 (8) The rules in sections LK 1 to LK 7 (which relate to tax credits for attributed CFC income) apply to allow the person to claim foreign tax credits but on the basis of the assumptions made in subsection (9). The rules in those sections allow foreign tax credits relating to attributed CFC income but apply a jurisdictional ring-fencing approach to the use of tax credits.
 Assumptions in reading tax credit rules
@@ -15194,7 +15232,7 @@ Assumptions in reading tax credit rules
   (a) the FIF were a CFC; and
   (b) the FIF income of the person from the FIF were attributed CFC income; and
   (c) the person’s income interest, calculated under subsection (4) were their relevant income interest for the purposes of those sections; and
-  (d) any relevant person’s FIF income calculated under the branch equivalent method from a FIF that is resident in the relevant country were attributed CFC income.
+  (d) any relevant person’s FIF income calculated under the attributable FIF income method from a FIF that is resident in the relevant country were attributed CFC income.
 Reduction in FIF loss to economic loss
 (10) In the cases described in subsections (11) and (12), the amount of any FIF loss calculated under subsections (1) and (6) is reduced to be equal to the person’s corresponding economic loss, if any.
 Application of subsection (10): no economic loss
@@ -15220,9 +15258,7 @@ Costs
     (i) for which the person is liable under the laws of a country or territory outside New Zealand; and
     (ii) paid by the person in the income year.
 Losses from some attributing interests not subject to rule
-(7) Subsection (8) applies to a person who calculates under subsection (1) an amount of FIF loss for an attributing interest in a FIF (the affected interest) that is neither of the following:
-  (a) a direct income interest in a foreign company equal to or more than 10% at all times in the relevant income year:
-  (b) a non-ordinary share described in section EX 46(10).
+(7) Subsection (8) applies to a person who calculates under subsection (1) an amount of FIF loss for an attributing interest in a FIF (the affected interest) that is not a non-ordinary share described in section EX 46(10).
 No total FIF loss from other attributing interests
 (8) If, in the absence of this subsection, the person would have under subsection (1) a total FIF loss for the income year from all the person's affected interests, the FIF loss for the income year for the person from each affected interest is reduced to the extent necessary for the total FIF loss from the affected interests to be zero.
 
@@ -15242,7 +15278,9 @@ Definition of items in FIF income formula
 Opening value
 (5) Opening value is the total of the market values of the FDR interests that—
   (a) the person holds at the start of the income year; and
-  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a grey list company.
+  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a FIF that, at the beginning of the year,—
+    (i) meets the requirements of section EX 35(b)(i) to (iii); and
+    (ii) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)(i) or (ii).
 Exclusion for certain managed funds
 (5B) Subsection (5)(b) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -15311,7 +15349,9 @@ Definition of items in formula
 Opening value
 (5) Opening value is the total of the market values of the FDR interests that—
   (a) the interest holder holds at the start of the unit valuation period; and
-  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a grey list company.
+  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a FIF that, at the beginning of the year,—
+    (i) meets the requirements of section EX 35(b)(i) to (iii); and
+    (ii) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)(i) or (ii).
 Exclusion for certain managed funds
 (5B) Subsection (5)(b) does not apply if—
   (a) the interest holder is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -15530,7 +15570,7 @@ Election applying method-wide and for future years
 Application of this section
 (1) This section applies when—
   (a) a person has an income interest of 10% or more in a CFC for an accounting period under sections EX 14 to EX 17; and
-  (b) because section EX 21(33) applies, FIF income and FIF loss is not taken into account in calculating the branch equivalent income or loss of the CFC for the period for the person.
+  (b) because section EX 21(33) applies, FIF income and FIF loss is not taken into account in calculating the net attributable CFC income or loss of the CFC for the period for the person.
 Calculation of FIF income or loss
 (2) The person instead has FIF income or loss, for the income year in which the period ends, calculated using the formula—income interest × CFC’s FIF income or loss.
 Definition of items in formula
@@ -15541,9 +15581,11 @@ Application of FIF rules to choice of method
 (4) The person must—
   (a) choose, under sections EX 44 to EX 48, the calculation method for calculating the CFC’s FIF income or loss; and
   (b) otherwise apply the calculation rules in sections EX 44 to EX 61 as if the person directly held the attributing interest; and
-  (c) apply the FIF loss ring-fencing rules in section DN 8 (Ring-fencing cap on deduction: branch equivalent method) as if the person directly held the attributing interest.
-Exclusion of policyholders’ entitlements
-(5) Despite subsection (4), the CFC’s FIF income or loss does not include any amount actuarially determined to be attributable to policyholders in the CFC or another company as a result of applying section EX 21(25) and (26) to the CFC.
+  (c) apply the FIF loss ring-fencing rules in section DN 8 (Ring-fencing cap on deduction: attributable FIF income method) as if the person directly held the attributing interest.
+Exceptions
+(5) Despite subsection (4), the CFC's FIF income or loss does not include—
+  (a) any amount actuarially determined to be attributable to policyholders in the CFC or another company as a result of applying section EX 21(25) and (26) to the CFC:
+  (b) any amount from an interest that would be excluded under section EX 35 from being an attributing interest if held by the person instead of the CFC.
 Non-attributing Australian CFCs
 (6) This section applies whether or not the CFC is a non-attributing Australian CFC under section EX 22 for the period.
 Exclusion for insurance CFC meeting requirements of determination
@@ -15558,10 +15600,10 @@ When this section applies
   (b) the deemed rate of return method:
   (c) the fair dividend rate method:
   (d) the cost method.
-Exclusion for interests in grey list companies
-(1B) Subsection (1)(c) does not apply if—
-  (a) the FIF is a grey list company; and
-  (b) the person holds a direct income interest of 10% or more in the FIF at the beginning of the income year in which the period falls.
+Exclusion for interests in FIFs resident in Australia
+(1B) Subsection (1)(c) does not apply if the person's interest in the company is included, at the beginning of the income year in which the payment is made, in a direct income interest of 10% or more in a FIF that, at the beginning of the income year,—
+  (a) meets the requirements of section EX 35(b)(i) to (iii); and
+  (b) does not have its liability for income tax reduced by an exemption, allowance, or relief referred to in section EX 35(c)(i) or (ii).
 Application of rule for certain managed funds
 (1C) Subsection (1B) does not apply if—
   (a) the person is a portfolio investment entity, an entity eligible to be a portfolio investment entity, or a life insurance company; and
@@ -15616,19 +15658,23 @@ No change unless allowed
 (1) Once a person uses a particular calculation method to calculate FIF income or loss for an attributing interest in a FIF for a particular period, they must use the same method for interests in the FIF for the next period unless they are allowed to change under subsections (2) to (9).
 Change on practical grounds
 (2) The person may change if it is not practical to continue with the same method because—
-  (a) in the case of the accounting profits method, section EX 46(2) prevents its continued use or it is impossible to obtain enough information to continue to use it:
-  (b) in the case of the branch equivalent method, it is impossible to obtain enough information to continue to use it:
-  (c) in the case of the comparative value method, it is impossible to find out the end-of-year market value of the interest:
-  (d) in the case of the deemed rate of return method, if the person was entitled to use that method only by falling under the $250,000 threshold in section EX 46(4)(b), the threshold is exceeded:
-  (e) in the case of the deemed rate of return method, if it was the default method under section EX 48, it ceases to be the default method:
+  (a) in the case of the accounting profits method,—
+    (i) section EX 46(2) is repealed:
+    (ii) before the date of the repeal of section EX 46(2), that section prevents its continued use or it is impossible to obtain enough information to continue to use it:
+  (b) in the case of the attributable FIF income method, section EX 46(3)(a) or (b) prevents its continued use or it is impossible to obtain enough information to continue to use it:
+  (c) in the case of the comparative value method,—
+    (i) section EX 46(6) prevents its continued use:
+    (ii) it is impossible to find out the end-of-year market value of the interest:
+  (d)
+  (e) in the case of the deemed rate of return method, the person is required by section EX 47 to use the comparative value method:
   (f) in the case of the fair dividend rate method, it is impossible to find out the start-of-year market value of the interest except by an independent valuation:
-  (g) in the case of the cost method, if it was the default method under section EX 48, it ceases to be the default method.
+  (g) in the case of the cost method, section EX 46(9) prevents its continued use.
 Choosing to change
 (3) The person may also change by notice to the Commissioner if—
   (a) the notice complies with subsection (4); and
   (b) either—
     (i) the person is a natural person and the $250,000 threshold in subsection (5) is not exceeded; or
-    (ii) the change is to, or from, the branch equivalent method and within subsections (6) and (7).
+    (ii) the change is to, or from, the attributable FIF income method and within subsections (6) and (7).
 Notice of election
 (4) The notice of an election to change under subsection (3) must—
   (a) give the reasons for the change; and
@@ -15637,17 +15683,14 @@ Notice of election
   (d) in the case of a natural person relying on the $250,000 threshold test in subsection (3)(b)(i), be given before the end of the year or period that is before the one from the end of which the change takes effect.
 Natural person: $250,000 threshold
 (5) A natural person may make an election under subsection (3) if the total market value of their attributing interests in FIFs is $250,000 or less at the end of the income year or accounting period before the year or period from the end of which the change takes effect.
-Changing to or from branch equivalent method
-(6) A person may make an election under subsection (3) to change—
-  (a) to the branch equivalent method if—
-    (i) this is the first time they have chosen to change to the branch equivalent method for an attributing interest in the FIF; or
-    (ii) subsection (7) allows them to make another election:
-  (b) from the branch equivalent method if—
-    (i) they are changing back to a calculation method that they used for attributing interests in the fund before they used the branch equivalent method; and
-    (ii) this is the first time they have chosen to change from the branch equivalent method, unless subsection (7) allows them to make another election.
+Changing to or from the attributable FIF income method
+(6) A person may make an election under subsection (3) to change to or from the attributable FIF income method if—
+  (a) they are changing from the branch equivalent method:
+  (b) this is the first time they have chosen to change to or from the attributable FIF income method for an attributing interest in the FIF, other than under paragraph (a):
+  (c) subsection (7) allows them to make another election.
 Repeated changes to or from branch equivalent method
-(7) A person may change more than once to, or from, the branch equivalent method if—
-  (a) there has been a change in circumstances, such as a significant change in shareholding, that significantly changes their ability to obtain enough information to use the branch equivalent method; and
+(7) A person may change more than once to, or from, the attributable FIF income method if—
+  (a) there has been a change in circumstances, such as a significant change in shareholding, that significantly changes their ability to obtain enough information to use the attributable FIF income method; and
   (b) altering their income tax liability is not the principal purpose or effect of the change.
 Repeated changes between fair dividend rate method and comparative value method
 (8) A person may change more than once from the fair dividend rate method to the comparative value method and from the comparative value method to the fair dividend rate method if the person is a natural person or the trustee of a trust that—
@@ -15661,12 +15704,14 @@ Change to fair dividend rate method in return for 2008–09, 2009–10 tax year
 (9) A person may change to the fair dividend rate method from the branch equivalent method or the accounting profits method in the person's return of income for—
   (a) the 2008–09 tax year, if the person has not furnished a return for that tax year before the date on which the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 receives the Royal assent; or
   (b) the 2009–10 tax year, if the person has furnished a return for the 2008–09 tax year before the date on which that Act receives the Royal assent.
+Change to fair dividend rate method for first income year beginning on or after 1 July 2011
+(10) A person may change to the fair dividend rate method from the accounting profits method, the branch equivalent method, or the deemed rate of return method in the person's return of income for the first income year beginning on or after 1 July 2011.
 
 ### EX 63 Consequences of changes in method
 Changes between cost-based methods and look-through methods
 (1) Subsection (2) applies if a person holding an attributing interest in a FIF changes the calculation method for calculating FIF income or loss from the interest—
-  (a) from 1 of the 4 cost-based calculation methods (the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method) to either of the look-through calculation methods (the accounting profits method or the branch equivalent method); or
-  (b) from either of the look-through calculation methods to 1 of the 4 cost-based calculation methods.
+  (a) from 1 of the 4 cost-based calculation methods (the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method) to the attributable FIF income method; or
+  (b) from a look-through calculation method (the attributable FIF income method, the accounting profits method, or the branch equivalent method) to 1 of the 4 cost-based calculation methods.
 Treatment as sale for market value
 (2) The person is treated as having—
   (a) disposed of the interest to an unrelated person immediately before the start of the first accounting period to which the new method applies; and
@@ -15727,7 +15772,7 @@ Look-through calculation method: relevance of income interest rules
     (ii) a non-resident, and becomes a New Zealand resident who is not a transitional resident:
     (iii) a transitional resident, and becomes a New Zealand resident who is not a transitional resident; and
   (b) holds an attributing interest in a FIF at the time; and
-  (c) for the accounting period in which the change occurs, uses the accounting profits method or branch equivalent method to calculate FIF income or loss from the interest.
+  (c) for the accounting period in which the change occurs, uses the attributable FIF income method to calculate FIF income or loss from the interest.
 Income interest rules
 (6) The income interest rule in section EX 16 is relevant to the calculation of the amount of FIF income or loss for the period.
 
@@ -15744,7 +15789,7 @@ Market value for cost-based methods
   (b) reacquired them immediately after the change; and
   (c) received for the sale and paid for the repurchase an amount equal to their market value at the time.
 Calculation of reduction in FIF income or loss
-(3) If the change occurs during an accounting period of the FIF and the person uses the accounting profits method or the branch equivalent method to calculate FIF income or loss from the rights for that period, the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days before changedays in period.
+(3) If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or loss from the rights for that period, the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days before changedays in period.
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) FIF income or loss is the FIF income or loss of the person from the rights for the period before allowing for the reduction:
@@ -15762,7 +15807,7 @@ Market value for cost-based methods
   (b) reacquired it immediately after the change; and
   (c) received for the sale and paid for the repurchase an amount equal to its market value at the time.
 Calculation of reduction in FIF income or loss
-(7) If the change occurs during an accounting period of the FIF and the person uses the accounting profits methods or the branch equivalent method to calculate FIF income or loss from the interest for that period, the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days after changedays in period.
+(7) If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or loss from the interest for that period, the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days after changedays in period.
 Definition of items in formula
 (8) In the formula in subsection (7),—
   (a) FIF income or loss is the FIF income or loss of the person from the interest for the period before allowing for the reduction:
@@ -15778,7 +15823,7 @@ Treatment as sale and repurchase
   (b) repurchased it immediately after the change; and
   (c) received for the sale and paid for the repurchase an amount equal to the market value of the interest at the end of the business day on which the change occurred.
 Calculation of reduction in FIF income or loss
-(3) If the change occurs during an accounting period of the FIF and the person uses the accounting profits method or branch equivalent method to calculate FIF income or loss from the rights for that period, section EX 24 does not apply and the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days before changedays in period.
+(3) If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or loss from the rights for that period, section EX 24 does not apply and the FIF income or loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days before changedays in period.
 Definition of items in formula
 (4) In the formula,—
   (a) FIF income or loss is the FIF income or loss of the person from the rights for the period before allowing for the reduction:
@@ -15794,7 +15839,7 @@ Treatment as sale and repurchase
   (b) immediately after the change, repurchased the interest; and
   (c) received for the sale and paid for the repurchase an amount equal to the market value of the interest at the end of the business day on which the change occurred.
 Calculation of reduction in FIF income or loss
-(3) If the change occurs during an accounting period of the FIF and the person uses the accounting profits method or branch equivalent method to calculate FIF income or FIF loss from the rights for that period, section EX 24 does not apply and the FIF income or FIF loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days after changedays in period.
+(3) If the change occurs during an accounting period of the FIF and the person uses the attributable FIF income method to calculate FIF income or FIF loss from the rights for that period, section EX 24 does not apply and the FIF income or FIF loss is reduced by subtracting the amount calculated using the formula—FIF income or loss×days after changedays in period.
 Definition of items in formula
 (4) In the formula,—
   (a) FIF income or loss is the FIF income or FIF loss of the person from the rights for the period before allowing for the reduction:
@@ -15820,6 +15865,28 @@ Payment of tax liability arising from transition
     (i) one third of the amount of tax in the income year following the income year in which the disposals are treated as occurring; and
     (ii) one half of the balance of the amount of tax remaining owing after payment made under subparagraph (i), in the second income year following the income year in which the disposals are treated as occurring; and
     (iii) the balance of the amount of tax remaining owing after payments made under subparagraphs (i) and (ii), in the third income year following the income year in which the disposals are treated as occurring:
+  (b) is not liable to pay any penalty or interest for which the person would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent to which the inaccuracy or shortfall arises because of the disposals.
+
+### EX 67B Revaluation of inherited interests in grey list companies
+When this section applies
+(1) This section applies when—
+  (a) a person inherited, before 1 April 2007, an interest in a FIF that was a grey list company when the interest was inherited; and
+  (b) the cost of the interest for the person is equal to zero.
+Treatment as disposal and reacquisition
+(2) The person is treated as having—
+  (a) disposed of the interest immediately before this section applied to the person and the interest; and
+  (b) reacquired the interest as soon as this section applied to the person and the interest; and
+  (c) received for the disposal and paid for the reacquisition an amount equal to the market value of the interest at the time of the disposal.
+Cost of inherited interest for purposes of tax liability
+(3) For determining a tax liability of the person arising from the disposal, the cost of the interest for the person at the time of the inheritance is treated as being the lesser of—
+  (a) the market value of the interest at the time of the inheritance:
+  (b) the market value of the interest at the time of the disposal.
+Payment of tax liability arising from revaluation
+(4) A person who is liable to pay an amount of income tax (the amount of tax) because of a disposal in an income year, and related acquisition, treated as occurring under this section—
+  (a) may satisfy the liability by paying to the Commissioner—
+    (i) at least one third of the amount of tax in the income year following the income year in which the disposal is treated as occurring; and
+    (ii) at least one half of the balance of the amount of tax remaining owing after payment made under subparagraph (i), in the second income year following the income year in which the disposal is treated as occurring; and
+    (iii) the balance of the amount of tax remaining owing after payments made under subparagraphs (i) and (ii), in the third income year following the income year in which the disposal is treated as occurring:
   (b) is not liable to pay any penalty or interest for which the person would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent to which the inaccuracy or shortfall arises because of the disposals.
 
 **Measurement of cost**
@@ -15864,7 +15931,7 @@ Cost treated as half 1 April 2007 value
 When this section applies
 (1) This section applies when a person—
   (a) has an attributing interest in a FIF; and
-  (b) calculates their FIF income or loss from the FIF using the accounting profits method or the branch equivalent method; and
+  (b) calculates their FIF income or loss from the FIF using the attributable FIF income method; and
   (c) has calculated FIF income or loss from the FIF on the basis of 1 accounting year (the old accounting year); and
   (d) wants to change to use a different accounting year (the new accounting year) for the calculations.
 Commissioner’s consent
@@ -15907,13 +15974,13 @@ When this section applies
 (1) This section applies when—
   (a) a person has failed to disclose their control interest or income interest in a CFC or attributing interest in a FIF, under section 61 of the Tax Administration Act 1994:
   (b) a person has failed to disclose information regarding their control interest or income interest in a CFC or attributing interest in a FIF, requested under section 17 of that Act:
-  (c) a person cannot obtain enough information to calculate their attributed CFC income or loss, FIF income or loss, or attributed repatriation for a period.
+  (c) a person cannot obtain enough information to calculate their attributed CFC income or loss or FIF income or loss for a period.
 Commissioner’s power
 (2) The Commissioner may make an assessment of the amount of attributed CFC income or loss, FIF income or loss, or attributed repatriation for the relevant period.
 Examples of methods
 (3) Without limiting the Commissioner’s discretion, the assessment may be based on any of the following:
   (a) the accounts of the CFC or FIF for the relevant period prepared for tax authorities, creditors, shareholders, or others:
-  (b) the application of a rate of presumed increase of 10% or more, compounding annually, to the CFC’s or FIF’s branch equivalent income calculated under section EX 21 for a previous period:
+  (b) the application of a rate of presumed increase of 10% or more, compounded annually, to the CFC's net attributable CFC income or to the FIF's net attributable FIF income, for a previous period:
   (c) the application of a rate of presumed increase of 10% or more, compounding annually, to the CFC’s or FIF’s accounting profits as shown in its accounts for a previous period:
   (d) an imputed rate of return on the market value of the interest at the start of the period:
   (e) the actual gains or losses of the person in the period from holding or disposing of the interest:
@@ -18559,9 +18626,10 @@ Financial arrangements: cash basis person
 ### FE 1 What this subpart does
 Interest apportionment
 (1) This subpart applies—
-  (a) to apportion certain interest expenditure between income that has a source in New Zealand and other income for a New Zealand taxpayer who—
-    (i) is controlled by a single non-resident, or is a New Zealand resident (an outbound entity) with an income interest in a CFC, or a New Zealand resident that controls an outbound entity; and
-    (ii) has a disproportionately high level of debt funding in relation to their worldwide interest expenditure; and
+  (a) to apportion certain interest expenditure between income having a source in New Zealand and other income for a New Zealand taxpayer who has a disproportionately high level of debt funding in relation to their worldwide interest expenditure and who—
+    (i) is controlled by a single non-resident:
+    (ii) is a person (an outbound entity) with an income interest in a CFC or with an interest in a FIF that satisfies the requirements of section EX 35 (Exemption for interest in FIF resident in Australia) or for which the person uses the attributable FIF income method:
+    (iii) is a New Zealand resident who controls an outbound entity; and
   (b) to prescribe an acceptable level of equity for a foreign-owned bank for the application of the interest apportionment rules.
 Structure of subpart
 (2) This subpart sets out—
@@ -18584,12 +18652,17 @@ Persons to whom interest apportionment rules may apply
     (i) an ownership interest in the company of 50% or more:
     (ii) control of the company by any other means:
   (d) the trustee of a non-complying trust settled by a non-resident if the value of the settlements made by them, including the value of all settlements made by a person associated with them, are 50% or more of the value of the settlements made on the trust:
-  (e) a company that is resident in New Zealand and has an income interest in a CFC:
+  (e) a company that is resident in New Zealand and has—
+    (i) an income interest in a CFC:
+    (ii) an interest in a FIF that satisfies the requirements of section EX 35 (Exemption for interest in FIF resident in Australia):
+    (iii) an interest in a FIF for which the person uses the attributable FIF income method:
   (f) a company that is resident in New Zealand and has—
     (i) an ownership interest in a company described in paragraph (e) of 50% or more:
     (ii) control of a company described in paragraph (e) by any other means:
   (g) a natural person, or a trustee of a trust settled by a New Zealand resident, if the natural person or trustee is resident in New Zealand and has––
     (i) an income interest in a CFC:
+    (ib) an interest in a FIF that satisfies the requirements of section EX 35:
+    (ic) an interest in a FIF for which the person uses the attributable FIF income method:
     (ii) an ownership interest in a company described in paragraph (e) or (f) of 50% or more:
     (iii) control of a company described in paragraph (e) or (f) by any other means.
 Ownership interests
@@ -18598,6 +18671,8 @@ Treatment of foreign companies
 (3) For the purposes of this section, a company resident in New Zealand is treated as being a non-resident company if it is treated under a double tax agreement as not being resident in New Zealand.
 Associated persons
 (4) For the purposes of subsection (1)(b)(ii), a non-resident who does not have a direct or an indirect ownership interest in a company and a relative resident in New Zealand are not associated persons in relation to the company.
+New Zealand banking group of Crown-owned registered bank
+(5) If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)(e) and (f) do not include interests held by an associated person who is not a member of the group.
 
 ### FE 3 Interest apportionment for individuals
 Natural persons and trustees: inbound, not described in section FE 2(1)(g)
@@ -18605,7 +18680,7 @@ Natural persons and trustees: inbound, not described in section FE 2(1)(g)
   (a) the New Zealand group of the natural person or trustee is made up of the natural person or trustee and all associated persons who––
     (i) are resident in New Zealand; or
     (ii) are carrying on business in New Zealand through a fixed establishment in New Zealand; or
-    (iii) derive income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
+    (iii) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
   (b) the worldwide group of the trustee is made up of the trustee and––
     (i) the trustee's New Zealand group; and
     (ii) all non-residents who are associated with the trustee or a member of the trustee's New Zealand group:
@@ -18615,10 +18690,12 @@ Natural persons and trustees: outbound, described in section FE 2(1)(g)
   (a) the New Zealand group of the natural person or trustee is made up of the natural person or trustee and all associated persons who are not excess debt outbound companies and are not included in a New Zealand group of an excess debt outbound company, and who––
     (i) are resident in New Zealand; or
     (ii) are carrying on business in New Zealand through a fixed establishment in New Zealand; or
-    (iii) derive income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
+    (iii) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
   (b) the worldwide group of the trustee is made up of the trustee and––
     (i) the trustee's New Zealand group; and
-    (ii) all CFCs in which the trustee or a member of the trustee's New Zealand group has an income interest:
+    (ii) all CFCs in which the trustee or a member of the trustee's New Zealand group has an income interest; and
+    (iii) all FIFs in which the trustee or a member of the trustee's New Zealand group has an interest that meets the requirements of section EX 35 (Exemption for interest in FIF resident in Australia); and
+    (iv) all FIFs in which the trustee or a member of the trustee's New Zealand group has an interest for which the person uses the attributable FIF income method:
   (c) in the calculation of the amount of the natural person's total assets, private and domestic assets are excluded.
 
 ### FE 4 Some definitions
@@ -18647,14 +18724,43 @@ Threshold for excess debt entity
 Exceptions for excess debt outbound companies
 (1B) Despite subsection (1), an excess debt outbound company and a natural person or trustee who is described in section FE 2(1)(g) do not have to apportion interest expenditure for an income year under section FE 6 if, for the income year,—
   (a) the ratio of the total group assets measured under section FE 16 for its New Zealand group to the total group assets measured under section FE 18 for its worldwide group is 90% or greater:
-  (b) its New Zealand group—
-    (i) has a total amount of deductions for interest allowed under sections DB 6 to DB 8 (which relate to deductions for interest) to the group, less the total deductions allowed in relation to interest payable intra-group, that is not greater than $250,000; and
-    (ii) does not include an entity with an income interest in a CFC, and the CFC derives rent from land in the country or territory in which the CFC is resident.
+  (ab) the company or person is eligible to choose, and chooses, under subsection (1BB) to use the threshold test in subsection (1D):
+  (b)
+Eligibility for optional threshold, apportionment method
+(1BB) A company or person referred to in subsection (1B) that would otherwise be required to make an apportionment under section FE 6 may choose instead to be subject to the threshold in subsection (1D) and to the apportionment method in section FE 6B only if—
+  (a) for each of the New Zealand group and the worldwide group, the amount (the adjusted net profit) given by subsection (1BC) is greater than zero; and
+  (b) for the New Zealand group, the deductions for interest allowed to the group under sections DB 6 to DB 9 (which relate to deductions for interest) exceed the income of the group that is interest; and
+  (c) for the worldwide group, treating the members as residents for the purposes of this paragraph, the deductions for interest allowed to the group under sections DB 6 to DB 9 exceed the income of the group that is interest; and
+  (d) for the worldwide group, the amount of the total group debt, calculated for the income year as if for the purposes of determining the group's debt percentage under section FE 12, is equal to or more than 75% of the amount of total group assets, not including goodwill; and
+  (e) for the worldwide group, the proportion of the total group debt, calculated as for paragraph (d), for which the lender is not associated with the group under subpart YB (Associated persons) is equal to or more than 80%.
+Formula for adjusted net profit
+(1BC) The adjusted net profit for a group is the amount calculated using the formula—net – attributed + net interest + depreciation + amortisation.
+Definition of items in formula
+(1BD) In the formula in subsection (1BC),—
+  (a) net is the net profit or loss of the group before tax using generally accepted accounting practice, treating a net loss as a negative amount:
+  (b) attributed, for the worldwide group, is zero and, for the New Zealand group, is the income—
+    (i) under generally accepted accounting practice from an interest in a FIF or CFC described in section FE 2(1)(e) to (g); and
+    (ii) included in the calculation of the item net profit or loss and not included in the calculation of the item net interest:
+  (c) net interest is the deductions for interest allowed to the group under sections DB 6 to DB 9 from a financial arrangement providing funds to the group, treating the members as residents for the purpose of calculating this item for a worldwide group, reduced by the income of the group from a financial arrangement on arm's-length terms providing funds to a person who meets the requirements of section FE 13(3):
+  (d) depreciation is the depreciation for the group using generally accepted accounting practice:
+  (e) amortisation is the amortisation for the group using generally accepted accounting practice.
 Natural persons' worldwide group total assets
 (1C) For the purposes of subsection (1B)(a), the total group assets of a natural person's worldwide group under section FE 18 are measured on the basis that the natural person is an excess debt entity that has a worldwide group made up of––
   (a) the natural person; and
   (b) the natural person's New Zealand group; and
-  (c) all CFCs in which the natural person or a member of the natural person's New Zealand group has an income interest.
+  (c) all CFCs in which the natural person or a member of the natural person's New Zealand group has an income interest:
+  (d) all FIFs in which the natural person or a member of the natural person's New Zealand group has an interest that meets the requirements of section EX 35 (Exemption for interest in FIF resident in Australia); and
+  (e) all FIFs in which the natural person or a member of the natural person's New Zealand group has an interest for which the natural person or member uses the attributable FIF income method.
+Elective threshold for excess debt entity
+(1D) A company or person that chooses to be subject to the threshold test in this subsection must apportion the interest expenditure for the income year under section FE 6B except if the ratio (the interest-income ratio) given by subsection (1E) for the company or person's New Zealand group is equal to or less than the lesser of—
+  (a) 110% of the interest-income ratio for the company or person's worldwide group:
+  (b) 50%.
+Formula for group's interest-income ratio
+(1E) The interest-income ratio for a group is calculated using the formula—net interestadjusted net profit.
+Definition of items in formula
+(1F) In the formula in subsection (1E),—
+  (a) net interest is the deductions for interest allowed to the group under sections DB 6 to DB 9 from a financial arrangement providing funds to the group, treating the members as residents for the purpose of calculating this item for a worldwide group, reduced by the income of the group from a financial arrangement on arm's-length terms providing funds to a person who meets the requirements of section FE 13(3):
+  (b) adjusted net profit is the amount given for the group by subsection (1BC).
 Threshold for reporting bank
 (2) A reporting bank must apportion its interest expenditure for an income year under section FE 7 if—
   (a) the New Zealand net equity of its New Zealand banking group for a tax year is less than its equity threshold; and
@@ -18701,6 +18807,19 @@ Alternative calculation
 (4) If a company that is in the same wholly-owned group of companies as the excess debt entity has a deduction for interest under any of sections DB 6 to DB 8, the company may choose to be treated as deriving the income that the excess debt entity would otherwise, under subsection (2), be treated as deriving for the income year. The amount of income is not calculated using the formula in subsection (2) but is limited as set out in subsection (5).
 Limitation on election amount
 (5) The amount of income for which the company may make the election under subsection (4) must not be more than the total amount of deductions that the company has for interest for the income year, having taken into account any other income that the company chooses to treat itself as deriving under subsection (4).
+
+### FE 6B Alternative apportionment of interest by some excess debt entities
+Who this section applies to
+(1) This section applies to a company or person that is required by section FE 5(1D) to apportion its interest expenditure for an income year under this section.
+Formula
+(2) The company or person is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving from New Zealand in the income year an amount of income calculated for the income year using the formula—net interest×NZ group ratio – threshold ratioNZ group ratio.
+Definition of items in formula
+(3) In the formula,—
+  (a) is the deductions for interest allowed to the company or person under sections DB 6 to DB 9 (which relate to deductions for interest) from a financial arrangement providing funds to the company or person, reduced by the income of the company or person from a financial arrangement on arm's-length terms providing funds to a person who meets the requirements of section FE 13(3):
+  (b) NZ group ratio is the interest-income ratio given by section FE 5(1E) for the New Zealand group of the company or person:
+  (c) threshold ratio is the lesser of—
+    (i) 50%:
+    (ii) 110% of the interest-income ratio given by section FE 5(1E) for the worldwide group of the company or person.
 
 ### FE 7 Apportionment of interest by reporting bank
 When this section applies
@@ -18782,6 +18901,20 @@ Natural persons: membership of New Zealand groups
 Trustees: membership of New Zealand and worldwide groups
 (7) For a trustee, the memberships of the New Zealand group and the worldwide group are determined as described in section FE 3(1) and (2), as applicable.
 
+### FE 12B Calculations for group for test and apportionment using interest-income ratio
+Application of rules
+(1) The rules in this section apply to the calculation, for an entity's New Zealand group or worldwide group, of the following amounts:
+  (a) deductions for interest allowed to the group under sections DB 6 to DB 9 (which relate to deductions for interest), for the purposes of section FE 5(1BB):
+  (b) the income of the group that is interest, for the purposes of section FE 5(1BB):
+  (c) the items in the formula for adjusted net profit in section FE 5(1BC):
+  (d) the items in the formula for interest-income ratio in section FE 5(1E).
+Generally accepted accounting practice for consolidation
+(2) An amount calculated under these rules for an entity's group must be calculated under generally accepted accounting practice for the consolidation of companies for the purposes of eliminating intra-group income, expenses, transactions, and balances.
+Non-resident member of New Zealand group
+(3) If a member of a New Zealand group is not resident in New Zealand, the amounts for the member are not included in a consolidation except to the extent that the amounts relate to—
+  (a) the carrying on of business in New Zealand through a fixed establishment in New Zealand:
+  (b) the derivation of income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
+
 ### FE 13 Financial arrangements entered into with persons outside group
 When this section applies
 (1) This section applies when a natural person, a member of a natural person's New Zealand group, an excess debt entity, or a member of an entity's New Zealand group or worldwide group, enters into a financial arrangement with another person (person A) as described in this section and the financial arrangement—
@@ -18791,9 +18924,9 @@ Reduction
 (2) In the calculation of the debt percentage of the New Zealand group and a worldwide group, the amount of total group debt and total group assets is reduced by the outstanding balance of the financial arrangement.
 Debt percentage of New Zealand group
 (3) In the calculation of the debt percentage of a New Zealand group, the reduction applies if the consideration for the financial arrangement is at arm’s length, and person A is 1 of the following:
-  (a) a non-resident who is not carrying on business through a fixed establishment in New Zealand and who—
-    (i) does not derive income that has a source in New Zealand:
-    (ii) does derive income that has a source in New Zealand and, for all of that income, relief from New Zealand tax under a double tax agreement is available; or
+  (a) a non-resident who is not carrying on business through a fixed establishment in New Zealand and derives—
+    (i) income that does not have a source in New Zealand:
+    (ii) income with a source in New Zealand, all of which is non-resident passive income or has relief from New Zealand tax available under a double tax agreement; or
   (b) a person who is not associated with the excess debt entity; or
   (c) a person who is associated with the excess debt entity but—
     (i) is not a member of the New Zealand group; and
@@ -18811,7 +18944,7 @@ Natural persons' and trustees' calculation
 When member not resident
 (3) If a member of a New Zealand group is not resident in New Zealand, the assets and debts of the member are included in a consolidation only to the extent to which the assets and debts are for the group member to—
   (a) carry on business in New Zealand through a fixed establishment in New Zealand:
-  (b) derive income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
+  (b) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
 Treatment of specified leases and particular interest expenditure
 (4) In this subpart, in the determination of total group debt and total group assets and the calculation of an amount for which a deduction is denied,—
   (a) a specified lease under section FZ 2 (Effect of specified lease on lessor and lessee) is treated as a financial arrangement that provides funds to the issuer; and
@@ -18847,15 +18980,15 @@ Meaning
   (d) adjusted tax value of a personal property lease asset at the start of the income year, in the case of a specified lease or a finance lease that is not recognised as an asset under generally accepted accounting practice; or
   (e) if allowed under generally accepted accounting practice, a combination of the financial statement values and net current values.
 CFC investments excluded
-(1B) If the excess debt entity or another member of the New Zealand group has an investment in a CFC in which the entity or member has an income interest, the value of the total group assets calculated and measured under this section does not include the value of the investment, except––
+(1B) If the excess debt entity or another member of the New Zealand group has an investment in a CFC in which the entity or member has an income interest, or an investment in a FIF in which the entity or member has an interest meeting the requirements of section EX 35 (Exemption for interest for FIF resident in Australia) or for which the person uses the attributable FIF income method, the value of the total group assets calculated and measured under this section does not include the value of the investment, except––
   (a) to the extent to which—
     (i) the value of the investment represents the outstanding balances of financial arrangements to which section FE 13 applies:
-    (ii) the CFC derives income with a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
+    (ii) the CFC or FIF derives income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
   (b) that the value of the total group assets is treated as being $1 if the value would otherwise be zero as a result of this subsection.
 When member not resident
 (1C) If the excess debt entity or another member of a New Zealand group is not resident in New Zealand, the assets of the entity or member are included in the calculation and measurement of total group assets under this section only to the extent to which the assets are for the entity or member to—
   (a) carry on business in New Zealand through a fixed establishment in New Zealand:
-  (b) derive income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
+  (b) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
 Generally accepted accounting practice
 (2) The amount of total group assets must be calculated under generally accepted accounting practice, with the exception of the values referred to in subsection (1)(c) or (d).
 
@@ -18973,9 +19106,7 @@ Prudential deductions
   (b) an advance by a member of the group of a capital nature to a connected person who is a non-member.
 Offshore assets
 (12) Adjustment 9 is the financial value of shares in a non-resident company that—
-  (a) are held by—
-    (i) a member or potential member of the group; or
-    (ii) a company resident in New Zealand in which a member or potential member of the group holds a direct voting interest of 10% or more and that, in the income year, pays to the member or potential member a dividend to which a conduit tax relief (CTR) credit is attached; and
+  (a) are held by a member or potential member of the group; and
   (b) are not interests in a foreign investment fund (FIF) for which the FIF income or FIF loss is calculated using the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method; and
   (c) are not shares in a grey list company that—
     (i) are listed on the official list of a recognised exchange; and
@@ -19060,14 +19191,14 @@ Entity as parent
   (a) the entity is not resident in New Zealand; or
   (b) the entity is resident in New Zealand, and—
     (i) a non-resident has a direct ownership interest in the entity of 50% or more, as determined under section FE 39; and
-    (ii) no single non-resident who is carrying on business in New Zealand through a fixed establishment in New Zealand or who derives income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable has an ownership interest in the entity of 50% or more; or
+    (ii) no single non-resident who is carrying on business in New Zealand through a fixed establishment in New Zealand or who derives income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable has an ownership interest in the entity of 50% or more; or
   (c) the entity is an excess debt outbound company and no single company resident in New Zealand has an ownership interest in the entity of 50% or more.
 Top tier New Zealand resident company if not excess debt outbound company
 (3) If subsection (2) does not apply, and the excess debt entity is not an excess debt outbound company, the entity’s New Zealand parent is the company (company A) that meets all the following requirements:
   (a) company A is either—
     (i) resident in New Zealand; or
     (ii) not resident in New Zealand but carrying on business in New Zealand through a fixed establishment in New Zealand; or
-    (iii) not resident in New Zealand but deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) not resident in New Zealand but deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) company A has an ownership interest in the entity; and
   (c) a non-resident has a direct ownership interest in company A; and
   (d) if company A is resident in New Zealand, a non-resident who has an ownership interest in the entity of 50% or more, also has an ownership interest in company A of 50% or more; and
@@ -19077,7 +19208,7 @@ When parent controlled by non-resident
   (a) company B is either—
     (i) resident in New Zealand; or
     (ii) not resident in New Zealand but carrying on business in New Zealand through a fixed establishment in New Zealand; or
-    (iii) not resident in New Zealand but deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) not resident in New Zealand but deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) company B has an ownership interest in the entity; and
   (c) if company B is resident in New Zealand, a non-resident who has control of the entity by any means, has control of company B by any means; and
   (d) no company that meets the requirements of paragraphs (a) to (c) has a direct ownership interest in company B.
@@ -19125,7 +19256,7 @@ New Zealand parent's group
   (a) that is—
     (i) resident in New Zealand:
     (ii) carrying on a business in New Zealand through a fixed establishment in New Zealand:
-    (iii) deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) that is identified under section FE 27 as being under the control of the New Zealand parent; and
   (c) that is not a member of the New Zealand banking group of a registered bank.
 Special rule for some entity's group
@@ -19133,7 +19264,7 @@ Special rule for some entity's group
   (a) that is—
     (i) resident in New Zealand:
     (ii) carrying on a business in New Zealand through a fixed establishment in New Zealand:
-    (iii) deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) that is a company that—
     (i) would be identified under section FE 27 as being under the control of the entity if the entity were treated as the New Zealand parent; or
     (ii) if the entity is identified under section FE 27 as being under the control of another company (company A), would be identified under section FE 27 as under the control of company A if company A were included in the New Zealand group and treated as the New Zealand parent; or
@@ -19160,7 +19291,7 @@ When this section applies
   (c) company A is—
     (i) resident in New Zealand:
     (ii) carrying on business in New Zealand through a fixed establishment in New Zealand:
-    (iii) deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (d) a single non-resident has ownership interests of 50% or more in both—
     (i) the New Zealand group; and
     (ii) company A.
@@ -19172,7 +19303,7 @@ When company A cannot be part of group
   (b) company B is—
     (i) resident in New Zealand:
     (ii) carrying on business in New Zealand through a fixed establishment in New Zealand:
-    (iii) deriving income that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
+    (iii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (c) either—
     (i) a New Zealand parent in the group, after the application of subsection (2), has control of company B under section FE 27(3); or
     (ii) the single non-resident has ownership interests of 50% or more in company B.
@@ -19226,7 +19357,10 @@ Worldwide GAAP group
 When this section applies
 (1) This section applies when a natural person or trustee described in section FE 2(1)(g) has—
   (a) a 50% or more ownership interest in an excess debt outbound company that is a member of a worldwide group (worldwide group A); and
-  (b) an income interest in a CFC that is not part of the worldwide group A.
+  (b) an interest, in an entity not part of the worldwide group A, that is—
+    (i) an income interest in a CFC:
+    (ii) an interest in a FIF that meets the requirements of section EX 35 (Exemption for interest in FIF resident in Australia):
+    (iii) an interest in a FIF for which the natural person or trustee uses the attributable FIF income method.
 Transfer
 (2) The CFC is part of the worldwide group A.
 Ownership interests
@@ -19284,9 +19418,9 @@ Fixed establishment with other activities
   (b) the fixed establishment has a main activity of financing the person excluded under subsection (2); and
   (c) the main activity of the fixed establishment is not banking, financing, or leasing, or the ownership or control of an entity whose main activity is banking, financing, or leasing.
 
-### FE 36 Identifying members of New Zealand banking group
+### FE 36 Identifying members of New Zealand banking group in usual case
 Entities included in group
-(1) The New Zealand banking group of a registered bank includes the entities described in subsection (2), and may also include the entities described in subsections (3) to (6) if the conditions set out in those subsections are met.
+(1) The New Zealand banking group of a registered bank to which section FE 36B does not apply includes the entities described in subsection (2), and may also include the entities described in subsections (3) to (6) if the conditions set out in those subsections are met.
 Registered bank or fixed establishment
 (2) The banking group includes—
   (a) the registered bank, if resident in New Zealand:
@@ -19309,6 +19443,20 @@ Fixed establishment in group with non-resident ultimate parent
 (6) A fixed establishment in New Zealand of a non-resident is included in the banking group separately from the non-resident if—
   (a) the fixed establishment is part of the same group of companies as a non-resident ultimate parent:
   (b) under generally accepted accounting practice, the consolidated group accounts would include the fixed establishment and the ultimate parent if the ultimate parent were resident in New Zealand and the relevant materiality thresholds were met.
+
+### FE 36B Identifying members of New Zealand banking group: Crown-owned, no interest apportionment
+Entities included in group
+(1) The New Zealand banking group of a registered bank consists of the entities given by this section if—
+  (a) Her Majesty the Queen in right of New Zealand has a voting interest of 100% in the registered bank; and
+  (b) in the absence of this paragraph and sections EX 15, FE 2(5), FE 38(b) and (d), and FE 41(1), none of the entities that would be part of the banking group under this section would be a person to whom the interest apportionment rules might apply under section FE 2.
+Registered bank and person with direct voting interest of 100%
+(2) The banking group includes—
+  (a) the registered bank:
+  (b) a person with a direct voting interest of 100% in the registered bank.
+Resident member of financial reporting group under Financial Reporting Act 1993
+(3) A resident person is included in the banking group if the person,—
+  (a) under the Financial Reporting Act 1993, is a member of the financial reporting group for which the registered bank is the reporting member:
+  (b) would be a member of the financial reporting group referred to in paragraph (a) but for the relevant materiality thresholds.
 
 ### FE 37 Reporting bank for New Zealand banking group
 When subsection (2) applies
@@ -19777,7 +19925,7 @@ When company eligible
 (1) A company is eligible to form, join, and continue as part of a consolidated group at a particular time if, at the time,—
   (a) it is resident in New Zealand; and
   (b) it is not a foreign company; and
-  (c) it is not a company that derives only exempt income, except exempt income under sections CW 9 to CW 11 (which relate to income from equity); and
+  (c) it is not a company that derives only exempt income, except exempt income under sections CW 9 and CW 10 (which relate to income from equity); and
   (d) it is incorporated in New Zealand or carrying on a business in New Zealand through a fixed establishment; and
   (e) it is not, by the law of another country or territory, liable to income tax in that country or territory through domicile, residence, or place of incorporation; and
   (f) when subsection (2) or (4) applies, it meets the relevant conditions; and
@@ -20067,7 +20215,7 @@ What is a resident’s restricted amalgamation?
 (1) In the amalgamation rules, an amalgamation is a resident’s restricted amalgamation if, at the time of the amalgamation, each of the amalgamating companies and the amalgamated company—
   (a) is resident in New Zealand; and
   (b) is not treated under, and for the purposes of, a double tax agreement as resident in another country; and
-  (c) is not a company that derives only exempt income, except income exempt under sections CW 9 to CW 11 (which relate to income from equity); and
+  (c) is not a company that derives only exempt income, except income exempt under sections CW 9 and CW 10 (which relate to income from equity); and
   (d) if the amalgamated company is a qualifying company, it meets the condition in subsection (2); and
   (e) if the amalgamated company is a loss-attributing qualifying company (LAQC), it meets the condition in subsection (3).
 Qualifying companies
@@ -20614,7 +20762,7 @@ When this section applies
   (a) an attributing interest in a foreign investment fund (FIF) is transferred by a person to an associated person; and
   (b) the associated persons make an arrangement for making or not making—
     (i) an election under section EX 26(3) (Use of quarterly measurement); or
-    (ii) an election under section EX 49(6) (Accounting profits method); or
+    (ii)
     (iii) a combination of those elections; and
   (c) the arrangement has an effect of defeating the intent and application of the international tax rules.
 Treatment of election
@@ -21448,16 +21596,7 @@ Section GB 20 (Arrangements involving petroleum mining) does not apply to an arr
   (c) the farm-out arrangement was entered into before 16 December 1991.
 
 ### GZ 2 Arrangements involving cancellation of conduit tax relief credits
-What this section applies to
-(1) This section applies to a company with a CTRA that enters an arrangement if—
-  (a) the arrangement involves transactions—
-    (i) undertaken between 4 December 2007 and the beginning of the first affected income year; and
-    (ii) giving rise to CTR credits in the CTRA; and
-  (b) a purpose of the arrangement is to produce for a New Zealand resident, other than the company with the CTRA or a CTR holding company for that company, a benefit—
-    (i) under a taxation law; and
-    (ii) relating to the CTR credits.
-Income tax liability
-(2) The company's income tax liability for the income year of the arrangement is increased by the amount of CTR credits referred to in subsection (1)(a)(ii).
+[Repealed]
 
 ### GZ 3 Donations of trading stock for relief of Canterbury earthquakes
 Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal of trading stock by a person to a person who is not an associated person—
@@ -21568,7 +21707,7 @@ Nature of liability
 ### HA 8B No CFC income interests or FIF direct income interests of 10% or more
 A qualifying company must not have—
   (a) income interests in a CFC:
-  (b) attributing interests in a FIF that are a direct income interest of 10% or more.
+  (b) interests in a FIF that are a direct income interest of 10% or more.
 
 ### HA 9 Limit on foreign non-dividend income
 Dollar limit
@@ -21684,9 +21823,9 @@ Exempt income
 What this section applies to
 (1) This section applies to a dividend—
   (a) that a company derives after it becomes a qualifying company; and
-  (b) to which section CW 10 (Dividend within New Zealand wholly-owned group) or CW 11 (Dividend of conduit tax relief holding company) applies.
+  (b) to which section CW 10 (Dividend within New Zealand wholly-owned group) applies.
 Dividend not exempt income
-(2) The dividend is not exempt income under sections CW 10 and CW 11, except to the extent to which section CW 9 (Dividend derived by company from overseas) applies to it.
+(2) The dividend is not exempt income under section CW 10, except to the extent to which section CW 9 (Dividend derived by company from overseas) applies to it.
 
 ### HA 18 Treatment of dividends when qualifying company status ends
 When this section applies
@@ -23151,7 +23290,7 @@ Excluded amounts
 (4) Subsection (2) does not apply to the following amounts:
   (a) expenditure or loss that relates to a person entering a partnership by acquiring partner’s interests disposed of by another partner, to the extent to which sections HG 5 to HG 10 do not apply to the partner’s interests:
   (b) supplementary dividends, to the extent to which subpart LP (Tax credits for supplementary dividends) applies:
-  (c) CTR additional dividends, to the extent to which subpart LQ (Tax credits of conduit tax relief companies) applies:
+  (c)
   (d) imputation credits, to the extent to which section LE 6 (Partners in partnerships) applies:
   (e) FDP credits, to the extent to which section LF 4 (Partners in partnerships) applies.
 
@@ -25515,16 +25654,16 @@ Treatment of excess
 
 ### IQ 2B Effect of attributed CFC net loss and FIF net loss from before first affected year
 When this section applies
-(1) This section applies when a person has an amount (the available BE loss) of attributed CFC net loss, or FIF net loss calculated using the branch equivalent method, that—
-  (a) relates to a tax year before the first tax year for which this section applies to the person; and
-  (b) relates to a CFC or FIF that is resident in a country (the jurisdiction) in which the loss arose; and
+(1) This section applies for a person and a country (the jurisdiction) when the person has an amount (the available BE loss) of attributed CFC net loss, or FIF net loss calculated using the branch equivalent method, that—
+  (a) relates to a tax year (the loss year) before the first tax year for which this section applies to the person; and
+  (b) relates to a CFC or FIF that is resident in the jurisdiction in the loss year; and
   (c) is carried forward to a tax year (the conversion year) in which this section applies to the person or is made available to the person for the conversion year by another company in the same group.
 What this section does
 (2) In this section, subsection (3) gives the person an option that available BE loss for a jurisdiction not be carried forward and subsections (4) to (7) give, for whichever of the 4 possible alternative situations is relevant for the person,—
-  (a) the amount of the available BE loss (the converted BE loss) that is—
+  (a) the amount of the available BE loss (the converted BE loss) for the jurisdiction that is—
     (i) treated as being converted into an amount referred to in paragraph (b) in the conversion year; and
-    (ii) is not available to the person to be carried forward as available BE loss for a later tax year:
-  (b) the amount (the equivalent CFC loss) of attributed CFC net loss or FIF net loss that, for the purposes of the rest of this subpart, is treated as arising on the last day of the conversion year.
+    (ii) not available to the person to be carried forward as available BE loss for the jurisdiction and a later tax year:
+  (b) the amount (the equivalent CFC loss) of attributed CFC net loss or FIF net loss for the jurisdiction that, for the purposes of the rest of this subpart, is treated as arising on the last day of the conversion year.
 Option: loss not carried forward
 (3) A person may choose by giving a notice in a form and at a time acceptable to the Commissioner that the available BE loss for a jurisdiction not be carried forward under this section.
 Person not resident group member: more jurisdictional BE income
@@ -25556,7 +25695,7 @@ Resident group member: more jurisdictional attributed income
 Election by person or group to fix jurisdictional income ratio
 (8) A person or wholly-owned group may choose under this subsection by notice, in a form and at a time acceptable to the Commissioner, that the person or members of the group use a jurisdictional income ratio—
   (a) equal to the average of the jurisdictional income ratios for the person or group, under paragraph (b) of the definition in subsection (9), for 2 consecutive tax years—
-    (i) beginning at or after the beginning of the 2010–11 tax year; and
+    (i) corresponding to an income year beginning on or after 1 July 2011; and
     (ii) in each of which the person or group has jurisdictional BE income; and
   (b) for all tax years after the 2 tax years referred to in paragraph (a).
 Some definitions
@@ -25564,13 +25703,13 @@ Some definitions
   - **jurisdictional attributed income** means,—
     (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by—
       (i) finding, for each CFC resident in the jurisdiction, the attributed CFC income or loss of the person from the CFC for the tax year:
-      (ii) finding, for each FIF resident in the jurisdiction for which the person uses the branch equivalent method, the FIF income or loss of the person from the FIF for the tax year:
+      (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss of the person from the FIF for the tax year:
       (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii):
     (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the attributed CFC income or loss and FIF income or loss, treating losses as negative, of members of the group who are New Zealand residents from CFCs and FIFs that are resident in the jurisdiction for the tax year, consolidated for the purposes of the financial statements of the group
   - **jurisdictional BE income** means,—
     (a) for a person and the tax year, the amount that is the greater of zero and the amount calculated by—
       (i) multiplying, for each CFC resident in the jurisdiction, the person's income interest in the CFC for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the person chooses, by the amount given by subsection (10) for the CFC for the tax year:
-      (ii) finding, for each FIF resident in the jurisdiction for which the person uses the branch equivalent method, the FIF income or loss of the person from the FIF for the tax year:
+      (ii) finding, for each FIF resident in the jurisdiction for which the person uses the attributable FIF income method, the FIF income or loss calculated under the branch equivalent method of the person from the FIF for the tax year:
       (iii) subtracting the total of loss amounts under subparagraphs (i) and (ii) from the total of income amounts under subparagraphs (i) and (ii):
     (b) for a wholly-owned group and the tax year, the amount that is the greater of zero and the amount calculated, treating losses as negative, by—
       (i) multiplying, for each CFC resident in the jurisdiction, the income interest in the CFC of members of the group who are New Zealand residents for the tax year by the branch equivalent income or loss of the CFC for the tax year or, if the group chooses, by the amount given by subsection (10) for the CFC for the tax year:
@@ -25587,6 +25726,10 @@ Option to determine jurisdictional BE income from accounts
     (i) a chartered accountant or an accountant of equivalent professional standard in the country in which the accounts are prepared; and
     (ii) independent of the CFC and the person or wholly-owned group; and
   (c) are given an unqualified opinion or an opinion of equivalent standard in the country in which the accounts are prepared.
+Conversion of income from accounts into New Zealand currency
+(11) If a person or wholly-owned group chooses under subsection (10) to use the profit or loss before taxation of a CFC given by accounts expressed in a currency other than New Zealand currency, the person or group must convert the profit or loss into New Zealand currency—
+  (a) by applying the close of trading spot exchange rate on the last day of the accounting period for the accounts; or
+  (b) applying the average of the close of trading spot exchange rates for the 15th day of each complete month that falls in the accounting period.
 
 ### IQ 3 Ring-fencing cap on FIF net losses
 Limit on amount: branch equivalent method
@@ -25673,7 +25816,7 @@ When this section applies
 Treatment of net losses
 (2) The attributed CFC net loss is treated as a FIF net loss of the person with effect from the tax year, as if the CFC were a FIF.
 Calculation methods
-(3) For the purposes of subsection (2) and the calculation of the amount of the loss, the branch equivalent method is not used unless the person calculates their FIF income or net loss under the branch equivalent method in relation to the interest on the date of the transition from an attributed CFC net loss to a FIF net loss.
+(3) For the purposes of subsection (2) and the calculation of the amount of the loss, the attributable FIF income method is not used unless the person calculates their FIF income or net loss under the attributable FIF income method in relation to the interest on the date of the transition from an attributed CFC net loss to a FIF net loss.
 
 ### Subpart IS — Mining companies’ and petroleum miners’ tax losses
 
@@ -26966,16 +27109,16 @@ Timing
 
 ### LK 5B Credits from tax year before first affected year
 When this section applies
-(1) This section applies when a person has a tax credit (the available BE credit) that—
-  (a) relates to a tax year before the first tax year for which this section applies to the person; and
-  (b) relates to a CFC or FIF that is resident in a country (the jurisdiction) in which the credit arose; and
-  (c) is carried forward to a tax year (the conversion year) for which this section applies to the person.
+(1) This section applies for a person and a country (the jurisdiction) when the person has a credit (the available BE credit) that—
+  (a) relates to a tax year (the credit year) before the first tax year for which this section applies to the person; and
+  (b) relates to a CFC or FIF that is resident in the jurisdiction in the credit year; and
+  (c) is carried forward to a tax year (the conversion year) in which this section applies to the person.
 What this section does
-(2) In this section, subsection (3) gives the person an option that an available BE credit for a jurisdiction not be carried forward and subsections (4) to (7) give, for whichever of the 4 alternative situations is otherwise relevant for the person,—
-  (a) the amount of the available BE credit (the converted BE credit) that is—
+(2) In this section, subsection (3) gives the person an option that an available BE credit for a jurisdiction not be carried forward and subsections (4) to (7) give, for whichever of the 4 possible alternative situations is relevant for the person,—
+  (a) the amount of the available BE credit (the converted BE credit) for the jurisdiction that is—
     (i) treated as being converted into an amount referred to in paragraph (b) in the conversion year; and
-    (ii) not available to the person to be carried forward as available BE credit for a later tax year:
-  (b) the amount (the equivalent tax credit) of a tax credit that, for the purposes of the rest of this subpart, is treated as arising in relation to the jurisdiction in the conversion year.
+    (ii) not available to the person to be carried forward as available BE credit for the jurisdiction and a later tax year:
+  (b) the amount (the equivalent tax credit) of a tax credit for the jurisdiction that, for the purposes of the rest of this subpart, is treated as arising on the last day of the conversion year.
 Option: tax credit not carried forward
 (3) A person may choose by giving a notice in a form and at a time acceptable to the Commissioner that the available BE credit for a jurisdiction not be carried forward under this section.
 Person not resident group member: more jurisdictional BE income
@@ -27005,12 +27148,7 @@ Resident group member: more jurisdictional attributed income
     (ii) the amount that would be the person's income tax liability if the person's only assessable income were the person's jurisdictional attributed income for the conversion year multiplied by the group's jurisdictional income ratio for the conversion year:
   (b) the person's equivalent tax credit is equal to the amount calculated by dividing the person's converted tax credit for the conversion year by the group's jurisdictional income ratio for the conversion year.
 Option to determine jurisdictional BE income from accounts
-(8) In determining the jurisdictional BE income of a person or wholly-owned group, the person or group may choose to use, instead of the branch equivalent income or loss of a CFC, the profit or loss of the CFC before taxation given by accounts—
-  (a) complying with generally accepted accounting practice in New Zealand or an equivalent standard for the consistent and undistorted reporting of net profits in the country in which the accounts are prepared; and
-  (b) audited by an accountant who is—
-    (i) a chartered accountant or an accountant of equivalent professional standard in the country in which the accounts are prepared; and
-    (ii) independent of the CFC and the person or wholly-owned group; and
-  (c) are given an unqualified opinion or an opinion of equivalent standard in the country in which the accounts are prepared.
+(8)
 
 ### LK 6 Use of credits by group companies
 When this section applies
@@ -27331,21 +27469,7 @@ Calculating credits under this Part
 [Repealed]
 
 ### LQ 5 CTR additional dividends
-When this section applies
-(1) This section applies when a CTR company pays a dividend to a non-resident, and a CTR credit is attached to the dividend. The rules for determining residence in sections YD 9 to YD 11 (which relate to CTR companies) apply for the purposes of this section.
-Payment of additional dividend required
-(2) The company must pay a CTR additional dividend relating to the dividend when the dividend is paid. The additional dividend is exempt income under section CW 11(2) (Dividend of conduit tax relief holding company) of the company receiving the dividend.
-Amount of additional dividend
-(3) The amount of the CTR additional dividend must be equal to the amount of the CTR credit attached to the dividend.
-Relationship with rules on imputation credits
-(4) Sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 27, and OC 28 (which relate to the allocation of imputation credits and FDP credits) apply as if the company had never paid a CTR additional dividend.
-Class of shares
-(5) The payment of an additional dividend to all non-resident shareholders who hold shares in a particular class does not constitute a breach of—
-  (a) section 53 of the Companies Act 1993; or
-  (b) the company’s constitution or its articles of association, unless the provision expressly refers to this subsection; or
-  (c) any other provision.
-Trusts
-(6) If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee’s distribution of an additional dividend to the same beneficiary does not breach the terms of the trust.
+[Repealed]
 
 ### Subpart LR — Tax credits for policyholder income
 
@@ -28574,7 +28698,7 @@ Types of account in this Part
 (1) The following accounts are dealt with in this Part:
   (a) an imputation credit account, see subparts OB and OP:
   (b) a foreign dividend payment (FDP) account, see subparts OC and OP:
-  (c) a conduit tax relief (CTR) account, see subparts OD and OP:
+  (c)
   (d) a branch equivalent tax account, see subparts OE and OP:
   (e) an available subscribed capital (ASC) account, see subpart OF:
   (f)
@@ -28619,9 +28743,7 @@ FDP credits
   (a) set out in any of sections OA 7, OC 6 to OC 12, and OP 56 to OP 63:
   (b) described in a row of table O3: FDP credits or table O21: FDP credits of consolidated FDP groups.
 CTR credits
-(4) A credit is a CTR credit if it is an amount—
-  (a) set out in any of sections OA 7, OD 5 to OD 9, and OP 81 to OP 86:
-  (b) described in a row of table O5: CTR credits or table O23: CTR credits of consolidated groups.
+(4)
 Branch equivalent tax credits
 (5) A credit is a branch equivalent tax credit if it is an amount,—
   (a) for a branch equivalent tax account (BETA) company,—
@@ -28656,9 +28778,7 @@ FDP debits
   (a) set out in any of sections OA 7, OC 13 to OC 26, and OP 64 to OP 77:
   (b) described in a row of table O4: FDP debits or table O22: FDP debits of consolidated FDP groups.
 CTR debits
-(4) A debit is a CTR debit if it is an amount—
-  (a) set out in any of sections OA 7, OD 10 to OD 19, and OP 87 to OP 94:
-  (b) described in a row of table O6: CTR debits or table O24: CTR debits of consolidated groups.
+(4)
 Branch equivalent tax debits
 (5) A debit is a branch equivalent tax debit if it is an amount,—
   (a) for a BETA company,—
@@ -28688,7 +28808,7 @@ Credit date
 (2) The credit date or debit date for an opening balance is,—
   (a) for an imputation credit account, the first day of the tax year:
   (b) for an FDP account, the first day of the tax year:
-  (c) for a CTR account, the first day of the tax year:
+  (c)
   (d) for a branch equivalent tax account—
     (i) of a BETA company, the first day of the tax year; or
     (ii) of a BETA person, the first day of the income year; or
@@ -28716,7 +28836,7 @@ Exclusions: qualifying companies
 Exclusion: ASC accounts
 (4) Subsection (2) does not apply to a person who maintains an ASC account.
 Modification: CTR accounts
-(5) The general rule in subsection (2) is modified by section OD 16 (CTRA increase in resident shareholding) for CTR accounts.
+(5)
 When continuity lost
 (6) For a memorandum account and for a company or consolidated group that maintains the account when the continuity of shareholding required by subsection (7) is lost, a debit arises under the relevant section in each subpart only to the extent to which an unused amount of credit remains in the memorandum account. The relevant sections are—
   (a) section OB 41 (ICA debit for loss of shareholder continuity):
@@ -28762,7 +28882,7 @@ When this section applies
 (1) This section applies on a resident’s restricted amalgamation if, at the time of the amalgamation, an amalgamating company maintains—
   (a) an imputation credit account:
   (b) an FDP account:
-  (c) a CTR account:
+  (c)
   (d) a branch equivalent tax account:
   (e) a policyholder credit account.
 Credits and debits due
@@ -28770,12 +28890,12 @@ Credits and debits due
 Exclusion: shareholder continuity rules
 (3) Subsection (2) does not apply to—
   (a) a debit for loss of shareholder continuity in an imputation credit account arising under section OB 41 (ICA debit for loss of shareholder continuity) and described in table O2: imputation debits, row 14 (debit for loss of shareholder continuity):
-  (b) a debit for an increase in resident shareholding in a CTR account arising under section OD 16 (CTRA increase in resident shareholding) and described in table O6: CTR debits, row 8 (increase in resident shareholding):
+  (b)
   (c) a credit or debit in a branch equivalent tax account arising—
     (i) under section OE 10 (BETA credit for loss of shareholder continuity) and described in table O7: branch equivalent tax credits, row 5 (credit for loss of shareholder continuity); and
     (ii) under section OE 15 (BETA debit for loss of shareholder continuity) and described in table O8: branch equivalent tax debits, row 5 (debit for loss of shareholder continuity).
 Recording in imputation credit account
-(4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)(b), (c), and (e), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 11 to OA 13.
+(4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)(b) and (e), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 11 to OA 13.
 
 ### OA 11 FDP account on resident’s restricted amalgamation
 When this section applies
@@ -28834,7 +28954,7 @@ Credits and debits due
 Exclusion: shareholder continuity rules
 (3) Subsection (2) does not apply to—
   (a) a debit for loss of shareholder continuity in an imputation credit account arising under section OP 42 (Consolidated ICA debit for loss of shareholder continuity) and described in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity):
-  (b) a debit for an increase in resident shareholding in a CTR account arising under section OP 91 (Consolidated CTRA increase in resident shareholding) and described in table O24: CTR debits of consolidated groups, row 6 (increase in resident shareholding):
+  (b)
   (c) a credit or debit in a branch equivalent tax account arising—
     (i) under section OP 104 (Consolidated BETA credit for loss of shareholder continuity) and described in table O25: branch equivalent tax credits of consolidated BETA groups, row 5 (credit for loss of shareholder continuity); and
     (ii) under section OP 108 (Consolidated BETA debit for loss of shareholder continuity) and described in table O26: branch equivalent tax debits of consolidated BETA groups, row 5 (debit for loss of shareholder continuity).
@@ -28865,12 +28985,12 @@ No policyholder credit account
 
 ### OA 18 Calculation of maximum permitted ratios
 When this section applies
-(1) This section applies in relation to an imputation credit, an FDP credit, a CTR credit, and a Maori authority credit, for the purposes of the calculation of—
+(1) This section applies in relation to an imputation credit, an FDP credit, and a Maori authority credit, for the purposes of the calculation of—
   (a) an imputation ratio; and
   (b) an FDP ratio; and
   (c) a combined imputation and FDP ratio; and
-  (d) a CTR ratio; and
-  (e) a combined imputation and CTR ratio; and
+  (d)
+  (e)
   (f) a Maori authority credit ratio.
 Maximum permitted ratio
 (2) A dividend or distribution with a credit attached must not have a ratio for the amount of the credit to the amount of the dividend or distribution that is more than the maximum permitted ratio calculated using the formula—tax rate1 − tax rate.
@@ -28892,7 +29012,7 @@ Exclusions
     (i)
     (ii) is acting in the capacity of trustee, not being a company that is a trustee, of a group investment fund to which paragraph (c) of the definition of company in section YA 1 (Definitions) applies; or
     (iii) has a constitution that prohibits a distribution to a shareholder; or
-    (iv) derives only exempt income other than income exempt under sections CW 9 to CW 11 (which relate to income from equity); or
+    (iv) derives only exempt income other than income exempt under sections CW 9 and CW 10 (which relate to income from equity); or
     (v) under a double tax agreement, is treated as not being resident in New Zealand; or
   (b) a Maori authority; or
   (c) a local authority; or
@@ -29170,7 +29290,7 @@ Sections
 (3) The sections are—
   (a) section OA 10 (When credits or debits due to amalgamating company but not recorded) for imputation credits in the imputation credit account of an amalgamating company:
   (b) section OA 11 (FDP account on resident’s restricted amalgamation) for an FDP credit in the FDP account of an amalgamating company because the amalgamated company does not maintain an FDP account:
-  (c) section OA 12 (CTR account on resident’s restricted amalgamation) for the conduit tax relief (CTR) credits in the CTR account of an amalgamating company because the amalgamated company does not maintain a CTR account:
+  (c)
   (d) section OA 13 (Policyholder credit account on resident’s restricted amalgamation) for a policyholder credit in the policyholder credit account of an amalgamating company because the amalgamated company does not maintain a policyholder credit account:
   (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation credits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation:
   (f) section OA 16 (When FDP account ends on resident’s restricted amalgamation) for an FDP credit in the FDP account of a consolidated FDP group because the amalgamated company does not maintain an FDP account:
@@ -29545,7 +29665,7 @@ Sections
 (3) The sections are—
   (a) section OA 10 (When credits or debits due to amalgamating company but not recorded) for imputation debits in the imputation credit account of an amalgamating company:
   (b) section OA 11 (FDP account on resident’s restricted amalgamation) for FDP debits in the FDP account of an amalgamating company because the amalgamated company does not maintain an FDP account:
-  (c) section OA 12 (CTR account on resident’s restricted amalgamation) for the CTR debits in the CTR account of an amalgamating company because the amalgamated company does not maintain a CTR account:
+  (c)
   (d) section OA 13 (Policyholder credit account on resident’s restricted amalgamation) for the policyholder debits in the policyholder credit account of an amalgamating company because the amalgamated company does not maintain a policyholder credit account:
   (e) section OA 14 (Continuity of shareholding when group companies amalgamate) for imputation debits in the imputation credit account of a consolidated imputation group that ends its existence on the amalgamation:
   (f) section OA 16 (When FDP account ends on resident’s restricted amalgamation) for FDP debits in the FDP account of a consolidated group because the amalgamated company does not maintain an FDP account:
@@ -30173,9 +30293,7 @@ Debit
 Table reference
 (2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 3 (refund of FDP).
 No debit
-(3) The company does not have a debit for the amount of—
-  (a) a refund to the extent to which it refunds FDP paid before a debit arises under section OC 24 (table O4: FDP debits, row 13 (debit for loss of shareholder continuity)); or
-  (b) a refund of FDP paid under section OD 25 (Refunds on transfers to CTR account).
+(3) The company does not have a debit for the amount of a refund to the extent to which it refunds FDP paid before a debit arises under section OC 24 (table O4: FDP debits, row 13 (debit for loss of shareholder continuity)).
 Debit date
 (4) The debit date is the day the refund is made.
 
@@ -30232,35 +30350,12 @@ Method of election
     (i) the company; or
     (ii) the imputation group.
 CTR companies
-(5) Despite subsection (1), an FDPA company that is also a CTR company may not choose to make the transfer.
+(5)
 Debit date
 (6) The debit date is the last day of the tax year.
 
 ### OC 19 FDPA transfer to CTR account
-Debit
-(1) An FDPA company has an FDP debit for an amount transferred when a credit balance in the company’s FDP account is treated under subsections (2) and (3) as transferred to the company’s CTR account. The amount of the debit is the smaller of the credit balance and debit balance in subsection (2).
-When debit arises
-(2) The debit for the transfer arises when—
-  (a) a credit balance exists in the company’s FDP account immediately before the end of the tax year; and
-  (b) a debit balance exists in the company’s CTR account immediately before the end of the tax year.
-Determining balances
-(3) For the purposes of subsection (2),—
-  (a) the credit balance in the FDP account is found by including an FDP credit under section OC 9; and
-  (b) the debit balance in the CTR account is found by including a CTR credit under section OD 5 (CTRA tax credit for conduit tax relief); and
-  (c) the debit balance and the credit balance are determined immediately before a transfer under this section is made.
-Amount of debit and credit
-(4) The smaller of the debit balance or the credit balance referred to in subsection (2) becomes—
-  (a) the FDP debit transferred; and
-  (b) the CTR credit under section OD 6 (CTRA transfer from FDP account).
-Table references
-(5) The table references are as follows:
-  (a) the FDP debit in subsection (1) is referred to in table O4: FDP debits, row 8 (transfer to CTR account):
-  (b) the FDP credit in subsection (3)(a) is referred to in table O3: FDP credits, row 6 (transfer for net foreign attributed income):
-  (c) the CTR credit in subsection (3)(b) is referred to in table O5: CTR credits, row 2 (tax credit for conduit tax relief):
-  (d) the FDP credit in subsection (4)(a) is referred to in table O4: FDP debits, row 8 (transfer to CTR account):
-  (e) the CTR credit in subsection (4)(b) is referred to in table O5: CTR credits, row 3 (transfer from FDP account).
-Debit date
-(6) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OC 20 Debit for policyholder base FDP credits
 Debit
@@ -30328,7 +30423,7 @@ Debit date
 Attaching FDP credits
 (1) When an FDPA company pays a dividend, it may attach an FDP credit to the dividend. Subsection (2) overrides this subsection.
 Exclusion
-(2) Subsection (1) does not apply to an FDPA company that is also a CTR company.
+(2)
 FDP ratio for dividend
 (3) A dividend with an FDP credit attached has an FDP ratio calculated using the formula—credit attachednet dividends.
 Definition of items in formula
@@ -30450,275 +30545,70 @@ Alternative for consolidated group
 ### Subpart OD — Conduit tax relief accounts (CTRA)
 
 ### OD 1 General rules for companies with CTR accounts
-CTR company
-(1) A foreign dividend payment account (FDPA) company may choose to become a conduit tax relief (CTR) company.
-CTR account
-(2) A CTR company must maintain a CTR account for a tax year as set out in section OD 3(2). The account is a record of CTR credits and CTR debits that arise in the account during the tax year.
-Credits
-(3)
-Debits
-(4) Debits to the account include the amount of a CTR credit attached to a dividend paid to the company’s non-resident shareholders.
-Group accounts
-(5) A consolidated group must maintain a group CTR account if a group company is a CTR company.
-Resident shareholder continuity requirements
-(6) The carrying forward of a credit in the company’s CTR account is subject to the resident shareholder continuity requirements of section OD 16.
-Relationship with section OZ 17
-(7) Section OZ 17 (CTRA reductions) may apply to modify the credits and debits arising under this subpart.
+[Repealed]
 
 ### OD 2 CTR accounts
-General rules
-(1) The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to the CTR account of a CTR company.
-Credits and debits of consolidated groups
-(2) Under section OP 79 (When credits and debits arise only in CTR group accounts), certain credits and debits do not arise in the account if the company is part of a consolidated group.
+[Repealed]
 
 ### OD 3 Choosing to become CTR company
-Notifying Commissioner
-(1) An FDPA company that chooses to become a CTR company must notify the Commissioner of its election and state the tax year for which the election is first to apply. The notification must be made no later than the day on which the company is required to file a return of income for the income year that corresponds to the first tax year for which the election is made.
-Maintaining CTR account
-(2) A CTR company must maintain the CTR account referred to in section OD 1(2) from the first day of the tax year referred to in subsection (1), whether or not the company is treated as a CTR company for the purposes of sections LQ 5, OD 20, or RG 7 (which relate to credits attached to dividends). The company must continue to maintain the account until it chooses to stop being a CTR company under section OD 4.
-Treatment of company for certain provisions
-(3) Despite subsection (1), the company is not treated as a CTR company for the purposes of applying sections LQ 5, OD 20, or RG 7 until the date on which the company notifies the Commissioner of its election.
+[Repealed]
 
 ### OD 4 When company stops being CTR company
-Election
-(1) A company stops being a CTR company—
-  (a) by election under subsection (2); or
-  (b) when the company stops being an FDPA company under section OC 4 (When company chooses to stop being FDPA company).
-When election made
-(2) A CTR company may make an election under subsection (1)(a) only in a tax year that is later than the tax year in which the company chooses under section OD 3 to become a CTR company.
-When company’s status ends
-(3) The company stops being a CTR company on the day after the day on which the election referred to in subsection (1)(a) is made but only if the company—
-  (a) files an annual imputation credit account (ICA) return for the year of election in the time allowed by section 69 of the Tax Administration Act 1994; and
-  (b) pays further FDP, if any, under section OD 23 or OD 24 for the year of election.
-Continuation of account
-(4) The company must continue to maintain its CTR account to the end of the year of election.
+[Repealed]
 
 ### OD 5 CTRA tax credit for conduit tax relief
 [Repealed]
 
 ### OD 6 CTRA transfer from FDP account
-Credit
-(1) A CTR company has a CTR credit for an amount equal to the amount of an FDP debit under section OC 19 (FDPA transfer to CTR account) for a transfer to the CTR account.
-Table references
-(2) The CTR credit in subsection (1) is referred to in table O5: CTR credits, row 3 (transfer from FDP account). The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 8 (transfer to CTR account).
-Credit date
-(3) The credit date is the last day of the tax year.
+[Repealed]
 
 ### OD 7 CTRA dividend derived with CTR credit
-Credit
-(1) A CTR company has a CTR credit for the amount of a CTR credit attached to a dividend derived by the company.
-Table reference
-(2) The CTR credit in subsection (1) is referred to in table O5: CTR credits, row 4 (dividend derived with CTR credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OD 8 CTRA reduction of FDP
 [Repealed]
 
 ### OD 9 CTRA reversal of tax advantage arrangement
-When this section applies
-(1) This section applies when it is established that a CTR credit in a CTR company’s CTR account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
-Credit
-(2) The company has a CTR credit for an amount that equals the amount of the debit in the company’s CTR account under section OD 18.
-Table references
-(3) The CTR credit in subsection (2) is referred to in table O5: CTR credits, row 6 (reversal of tax advantage arrangement). The CTR debit in subsection (2) is referred to in table O6: CTR debits, row 10 (tax advantage arrangement).
-Credit date
-(4) The credit date is the same as the debit date for the debit.
+[Repealed]
 
 ### OD 10 CTRA payment of dividend
-Debit
-(1) A CTR company has a CTR debit for the amount of a CTR credit attached to a dividend paid by the company.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 2 (payment of dividend).
-Debit date
-(3) The debit date is the day of payment.
+[Repealed]
 
 ### OD 11 CTRA transfer to FDP account
 [Repealed]
 
 ### OD 12 CTRA transfer to group account
-Debit
-(1) A CTR company has a CTR debit for an amount equal to the amount of a CTR credit under section OP 84 (Consolidated CTRA group company’s credit) for a transfer of a credit to the CTR account of the consolidated group of which the company is part.
-Table references
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 4 (transfer to group account). The CTR credit in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 5 (group company’s credit).
-Debit date
-(3) The debit date is the day of transfer.
+[Repealed]
 
 ### OD 13 CTRA adjustment for conduit tax relief
-Debit
-(1) A CTR company has a CTR debit for the amount of an adjustment under section FF 7(8) (Surplus to foreign dividends).
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 5 (adjustment for conduit tax relief).
-Debit date
-(3) The debit date is the day the company files a return of income for the tax year corresponding to the income year in which the adjustment occurred.
+[Repealed]
 
 ### OD 14 CTRA break in shareholding chain for group company
-Debit
-(1) A CTR company that is part of a wholly-owned group has a CTR debit for an amount arising in the circumstances set out in subsections (2) and (3).
-When debit arises
-(2) A debit under subsection (1) arises when—
-  (a) a credit has arisen in the company’s CTR account under—
-    (i) section OD 5:
-    (ii) section OD 8; and
-  (b) the credit has not been cancelled by a later debit; and
-  (c) sections YD 9 to YD 11 (which relate to the residence of CTR companies and their shareholders) have enabled the credit to arise by treating a CTR group member as a non-resident; and
-  (d) the CTR group member is no longer a CTR group company because the requirements of section YD 11(4) (Meaning of CTR group member) are no longer met.
-Table references
-(3) The table references are as follows:
-  (a) the CTR debit in subsection (1) is referred to in table O6: CTR debits, row 6 (chain break for group company):
-  (b) the CTR credit in subsection (2)(a)(i) is referred to in table O5: CTR credits, row 2 (tax credit for conduit tax relief):
-  (c) the FDP credit in subsection (2)(a)(ii) is referred to in table O5: CTR credits, row 5 (reduction of FDP).
-Cancellation
-(4) To determine whether the credit has been cancelled by a later debit as described in subsection (2)(b),—
-  (a) credits retain their separate character and are not treated as part of a credit for an opening credit balance under section OA 7 (Opening balances of memorandum accounts); and
-  (b) a debit is counted only once in the cancellation of a credit; and
-  (c) debits cancel credits in the order in which the credits arise.
-Amount of debit
-(5) The amount of the debit is the residual amount after taking into account the amount of any cancellation.
-Residence
-(6) The residence of companies for the purposes of this section is determined under sections YD 9 to YD 11.
-Debit date
-(7) The debit date is the day the shareholding chain is broken.
+[Repealed]
 
 ### OD 15 CTRA break in shareholding chain for company
-Debit
-(1) A CTR company that is part of a wholly-owned group has a CTR debit for an amount arising in the circumstances set out in subsections (2) and (3).
-When debit arises
-(2) The debit arises when—
-  (a) the company derives a dividend from another company in the same wholly-owned group and the dividend gives rise to a credit under section OD 7 in the company’s CTR account; and
-  (b) the other company is in the same wholly-owned group when the dividend is derived; and
-  (c) the credit has not been cancelled by a later debit; and
-  (d) the company is no longer part of the wholly-owned group because the requirements of section YD 11(4) (Meaning of CTR group member) are no longer met.
-Table references
-(3) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 7 (chain break when group membership stops). The CTR credit in subsection (2)(a) is referred to in table O5: CTR credits, row 4 (dividend derived with CTR credit).
-Cancellation
-(4) To determine whether a credit has been cancelled by a later debit under subsection (2)(c),—
-  (a) credits retain their separate character and are not treated as part of a credit for an opening credit balance under section OA 7 (Opening balances of memorandum accounts); and
-  (b) a debit is counted only once in the cancellation of a credit; and
-  (c) debits cancel credits in the order in which the credits arise.
-Amount of debit
-(5) The amount of the debit is the residual amount after taking into account the amount of any cancellation.
-Debit date
-(6) The debit date is the day before the company stops being part of the consolidated group.
+[Repealed]
 
 ### OD 16 CTRA increase in resident shareholding
-Debit
-(1) A CTR company has a CTR debit for an amount of a CTR credit in the company’s CTR account if the resident shareholding requirements of subsection (2) and section OA 8 (Shareholder continuity requirements for memorandum accounts) are not met.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 8 (increase in resident shareholding).
-Resident shareholding requirements
-(3) For the purposes of subsection (1), the resident shareholding requirements are that—
-  (a) the credit continues to exist to the extent to which it is not reduced by a later CTR debit; and
-  (b) since the credit date for the credit, the percentage of the company’s shareholders who are resident in New Zealand does not increase by 34 percentage points or more; and
-  (c) an amount that is the CTR debit under subsection (1) arises for an amount of the credit that still exists when the requirement of paragraph (b) is not met.
-Supporting rules
-(4) The following rules apply for the purposes of subsection (3):
-  (a) the percentage of shareholders resident in New Zealand at any time is found by taking the highest of the following percentages:
-    (i) the percentage of direct voting interests held in the company by residents; and
-    (ii) the percentage of direct market value interests held in the company, if a direct market value circumstance exists, by residents; and
-    (iii) if not all shares in the company are shares of the same class, the percentage of total dividends that would be derived by residents if the company were liquidated; and
-  (b) a credit retains its separate character and is not treated as part of a credit referred to in section OA 7 (Opening balances of memorandum accounts) in a later tax year; and
-  (c) the amount by which a credit is reduced by an earlier or later debit is found by—
-    (i) treating debits as reducing credits in the order in which the credits arise; and
-    (ii) counting a debit, whether some or all, only once in the reduction of a credit; and
-  (d) the requirement of subsection (3)(b) is met if the increase in shareholders resident in New Zealand is solely because the requirements of section YD 10(4) (Meaning of CTR holding company) are not met; and
-  (e) a debit still arises despite an arrangement affecting the company’s shares that has a purpose or effect of defeating the intent and application of the resident shareholding requirements.
-Debit date
-(5) The debit date is the day on which the shareholding threshold is first reached or passed.
+[Repealed]
 
 ### OD 17 CTRA breach of CTR ratio
-Debit
-(1) A CTR company has a CTR debit for a tax year for a breach of the benchmark dividend rules in section OD 21 for an amount calculated using the formula—(net dividends × CTR ratio) – credits attached.
-Definition of items in formula
-(2) In the formula,—
-  (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding imputation credits and CTR credits attached to the dividends:
-  (b) CTR ratio is the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios) or, if less, the greatest CTR ratio of a dividend paid by the company during the tax year:
-  (c) credits attached is the total amount of all CTR credits attached to dividends paid by the company during the tax year.
-Table reference
-(3) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 9 (breach of CTR ratio).
-No FDP debit
-(4) If a CTR company has a debit under this section, no debit arises for the amount in the company’s FDP account.
-Ratio change declaration
-(5) A debit under subsection (1) does not arise if the CTR company provides a ratio change declaration under section OD 21(6).
-Debit date
-(6) The debit date is the last day of the tax year in which the breach occurred.
+[Repealed]
 
 ### OD 18 CTRA tax advantage arrangement
-Debit
-(1) A CTR company has a CTR debit for the amount of a debit for a tax advantage arrangement determined under sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage), which apply to a CTR credit as if it were an FDP credit.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 10 (tax advantage arrangement).
-Debit date
-(3) The debit date is the last day of the tax year in which the tax advantage arrangement began.
+[Repealed]
 
 ### OD 19 CTRA final balance
-Debit
-(1) A CTR company has a CTR debit for a credit balance in the account when the company stops being a CTR company.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O6: CTR debits, row 11 (final balance).
-Debit date
-(3) The debit date is the day before the company stops being a CTR company.
+[Repealed]
 
 ### OD 20 CTR credits attached to dividends
-Attaching CTR credits
-(1) When a CTR company pays a dividend to a non-resident shareholder, it may attach a CTR credit to the dividend. Subsection (2) overrides this subsection.
-Dividends of producer boards and co-operative companies
-(2) Subsection (1) does not apply to a dividend with a CTR credit attached that is subject to an election by—
-  (a) a statutory producer board under sections OB 73 to OB 75 (which relate to producer boards’ notional distributions); and
-  (b) a co-operative company under sections OB 78 to OB 80 (which relate to co-operative companies’ notional distributions).
-CTR ratio for dividend
-(3) A dividend with a CTR credit attached has a CTR ratio calculated using the formula—credit attachednet dividends.
-Definition of items in formula
-(4) In the formula,—
-  (a) credit attached is the amount of CTR credit attached to the dividend:
-  (b) net dividends is the amount of the dividend paid, excluding the amount of imputation credit and CTR credit.
-Maximum permitted ratio
-(5) A CTR credit attached to a dividend must not be more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
-Residence
-(6) Residence for the purposes of this section is ascertained under sections YD 9 to YD 11 (which relate to the residence of CTR companies).
+[Repealed]
 
 ### OD 21 CTRA benchmark dividend rules
-When this section applies
-(1) This section applies when a CTR company pays a dividend on more than 1 occasion during a tax year. Subsection (2) overrides this subsection.
-Exclusions
-(2) This section does not apply to a dividend with a CTR credit attached that is subject to an election by—
-  (a) a statutory producer board under sections OB 73 to OB 75 (which relate to producer boards’ notional distributions); and
-  (b) a co-operative company under sections OB 78 to OB 80 (which relate to co-operative companies’ notional distributions).
-Benchmark dividend
-(3) The first dividend of the tax year is the benchmark dividend.
-Same CTR ratio
-(4) The CTR ratio of a dividend paid after the benchmark dividend must be the same as the CTR ratio of the benchmark dividend.
-Debit for breach of CTR ratio
-(5) A breach of subsection (4) gives rise to a CTR debit under section OD 17 (table O6: CTR debits, row 9 (breach of CTR ratio)) for an amount calculated using the formula in OD 17(1).
-Ratio change declaration
-(6) A CTR company may notify the Commissioner that the dividend is not part of an arrangement to obtain a tax advantage by providing a ratio change declaration stating that the dividend is not part of an arrangement to which sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage) applies. The company must provide the declaration before the dividend is paid, or by a later date if the Commissioner allows. For the purposes of this subsection, the dividend must not be part of an arrangement to obtain a tax advantage. This subsection overrides subsection (5).
-Consolidated group
-(7) This section applies, modified as necessary, to a consolidated group as if it were a single company.
-Group debit
-(8) If the company is part of a consolidated group, a breach of a CTR ratio alternatively gives rise to a CTR debit under section OP 92 (Consolidated CTRA breach of CTR ratio) (table O24: CTR debits of consolidated groups, row 7 (breach of CTR ratio)).
-Treatment of group dividends
-(9) In the application of this section to a consolidated group, a dividend paid between group companies is disregarded.
+[Repealed]
 
 ### OD 22 CTR credits and imputation credits attached to dividends
-Attaching combined credits
-(1) When a CTR company pays a dividend, it may attach both a CTR credit and an imputation credit to the dividend.
-Combined ratio
-(2) A dividend with combined credits attached has a combined imputation and CTR ratio calculated using the formula—combined creditsnet dividends.
-Definition of items in formula
-(3) In the formula in subsection (2),—
-  (a) combined credits is the total amount of CTR credit and imputation credit attached to the dividend:
-  (b) net dividends is the amount of the dividend paid, excluding the amount of CTR credit and imputation credit.
-Maximum permitted ratio
-(4) A dividend with combined credits attached must not have a combined imputation and CTR ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
-Combined ratio breach
-(5) A breach of the maximum ratio set out in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio – maximum ratio).
-Definition of items in formula
-(6) In the formula in subsection (5),—
-  (a) net dividends is the amount of the dividend paid, excluding the amount of CTR credit and imputation credit:
-  (b) combined ratio is the combined imputation and CTR ratio of the dividend:
-  (c) maximum ratio is the maximum combined imputation and CTR ratio permitted under subsection (4).
-Relationship with section OZ 8
-(7) Section OZ 8 (Attaching imputation credits and FDP credits: maximum permitted ratio) may apply to modify this section.
+[Repealed]
 
 ### OD 23 FDP payable for CTR debits
 [Repealed]
@@ -30727,10 +30617,7 @@ Relationship with section OZ 8
 [Repealed]
 
 ### OD 25 Refunds on transfers to CTR account
-Refund
-(1) A CTR company has a refund for the amount of a CTR credit under section OD 6 (table O5: CTR credits, row 3 (transfer from FDP account)) in the company’s CTR account.
-Application of refund
-(2) The Commissioner may apply the refund to pay an amount due under the Inland Revenue Acts. This subsection overrides subpart RM (Refunds).
+[Repealed]
 
 **Table O5: conduit tax relief credits**
 
@@ -30788,7 +30675,7 @@ When company’s status ends
 ### OE 5 Treatment of attributed CFC income and FIF income in this subpart
 This subpart applies to a person with an attributing interest in a foreign investment fund (FIF) by treating—
   (a) FIF income derived from the person’s interest as attributed CFC income, if the FIF income is calculated—
-    (i) under the accounting profits method or the branch equivalent method; or
+    (i) under the attributable FIF income method; or
     (ii) under a method to which section EX 50(6) or EX 58 (which relate to the calculation of FIF income) applies; and
   (b) the fund as a CFC; and
   (c) the interest as an income interest.
@@ -30797,7 +30684,7 @@ This subpart applies to a person with an attributing interest in a foreign inves
 
 ### OE 6 BETA payment of income tax on foreign income
 Credit
-(1) A BETA company has a branch equivalent tax credit for an amount calculated using the formula—((CFC income for year – deductions for year) × tax rate) – foreign tax credits – debit balances.
+(1) A BETA company has a branch equivalent tax credit for the lesser of the amount by which the branch equivalent tax account is in debit and the amount calculated using the formula—((CFC income for year – deductions for year) × tax rate) – foreign tax credits – debit balances.
 Definition of items in formula
 (2) In the formula,—
   (a) CFC income for year is the amount of attributed CFC income derived during the income year corresponding to the tax year referred to in subsection (3):
@@ -30828,7 +30715,7 @@ When this section applies
 Group companies
 (2) This section also applies in relation to a BETA company if another company (company B) that is part of the same group of companies has a debit balance in its branch equivalent tax account that arises in the circumstances set out in subsection (1).
 Election
-(3) The company or company B may choose to apply some or all of the debit balance under section BC 8 (Satisfaction of income tax liability) to satisfy an income tax liability in relation to the attributed CFC income. The election is made by recording a credit in the branch equivalent tax account with the debit balance.
+(3) The company or company B may choose to apply under section BC 8 (Satisfaction of income tax liability) some or all of the debit balance to satisfy an income tax liability in relation to attributed CFC income that is allocated to an income year beginning before 1 July 2011. The election must be made before the end of the first income year beginning on or after 1 July 2011, for the company having the branch equivalent tax account with the debit balance, by recording a credit in that branch equivalent tax account.
 Maximum amount
 (3B) Despite subsection (3) and section OP 101(2) (Consolidated BETA payment of income tax), the amount of BETA debits applied under elections under subsection (3) and section OP 101(2) relating to the attributed CFC income referred to in subsection (3) must be no more than the amount calculated under section OE 6(1) for the company that has the attributed CFC income, treating the item debit balances as zero.
 Credit
@@ -30856,13 +30743,15 @@ Credit date
 
 ### OE 9 BETA refund of FDP
 Credit
-(1) A BETA company has a branch equivalent tax credit for the amount of a refund of FDP paid to the company. Subsections (2) and (3) override this subsection.
+(1) A BETA company has a branch equivalent tax credit for the amount of a refund of FDP paid to the company. Subsections (2) to (3B) override this subsection.
 Refund giving rise to debit
 (2) A refund under subsection (1) must be a refund of a payment of FDP that gave rise to a debit under section OE 12.
 Reduction
 (3) The amount of the credit under subsection (1) is reduced to the extent to which—
   (a) the payment of FDP is made before a branch equivalent tax credit arises under section OE 10 in the company’s branch equivalent tax account; and
   (b) the amount of the refund is no more than the amount of the credit for loss of shareholder continuity.
+Limit on amount
+(3B) The amount of the credit under subsection (1), after any reduction under subsection (3), is limited to the amount of the debit in the company's branch equivalent tax account at the time of the refund.
 Table references
 (4) The table references are as follows:
   (a) the branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 4 (refund of FDP):
@@ -32244,12 +32133,7 @@ Debit date
 (3) The debit date is the last day of the tax year.
 
 ### OP 70 Consolidated FDPA transfer to group’s CTR account
-Debit
-(1) A consolidated FDP group has an FDP debit for a tax year for an amount equal to a CTR credit under section OP 85 for the transfer of a credit balance to the group’s CTR account.
-Table references
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 8 (transfer to group’s CTR account). The CTR credit in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 6 (transfer from group’s FDP account).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OP 71 Consolidated FDPA group company’s debit
 Debit
@@ -32318,38 +32202,13 @@ Debit date
 **Introductory provisions**
 
 ### OP 78 CTR accounts of consolidated groups
-Consolidated group accounts
-(1) A consolidated group must maintain a group CTR account for a tax year if a group company is a CTR company at a time during the tax year.
-Group company’s status
-(2) Every company that is part of a consolidated group with a CTR account is a CTR company, despite the absence of an election under section OD 1(1) (General rules for companies with CTR accounts) by a group company.
-Relationship with section OZ 17
-(3) Section OZ 17 (CTRA reductions) may apply to modify the credits and debits arising under sections OP 81 to OP 96.
+[Repealed]
 
 ### OP 79 When credits and debits arise only in CTR group accounts
-Credits only in the group accounts
-(1) A credit listed in subsection (2) arises only in the CTR account of a consolidated group and not in the CTR account of a group company.
-Particular credits
-(2) The credit referred to in subsection (1) is a credit under section OD 7, described in table O5, row 4.
-Debits only in the group accounts
-(3) A debit listed in subsection (4) arises only in the CTR account of a consolidated group and not in the CTR account of a group company.
-Particular debits
-(4) The debit referred to in subsection (3) is a debit under the following sections and described in the following rows of table O6: CTR debits:
-  (a) section OD 10 (CTRA payment of dividend), row 2 (payment of dividend):
-  (b) section OD 13 (CTRA adjustment for conduit tax relief), row 5 (adjustment for conduit tax relief):
-  (c) section OD 17 (CTRA breach of CTR ratio), row 9 (breach of CTR ratio).
+[Repealed]
 
 ### OP 80 Provisions applying to consolidated groups with CTR accounts
-Single company, tax liabilities
-(1) The provisions set out in subsection (2) apply, modified as necessary, to a consolidated group and to the CTR account of the group as if—
-  (a) the group were a single company; and
-  (b) a reference to a section of this Act were to an equivalent provision applicable to a consolidated group; and
-  (c) a reference to a company’s liability for further FDP, late payment penalty, or FDP penalty tax were a reference to a joint and several liability owed by group companies when the tax or penalty becomes payable.
-Other provisions
-(2) The provisions are—
-  (a) sections OD 22 and OD 23 (which relate to credits attached to dividends and FDP payable); and
-  (b) sections 103, 104, 139B, 140C, 140D, and 181 of the Tax Administration Act 1994.
-Consolidation provisions
-(3) Sections FM 4 and FM 5 (which relate to the liability of consolidated groups) override subsection (1)(c).
+[Repealed]
 
 **CTR credits of consolidated groups**
 
@@ -32360,147 +32219,42 @@ Consolidation provisions
 [Repealed]
 
 ### OP 83 Consolidated CTRA dividend derived with CTR credit
-Credit
-(1) A consolidated group has a CTR credit for the amount of a CTR credit attached to a dividend derived by a group company that is part of the group when the dividend is derived.
-Table reference
-(2) The CTR credit in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 4 (dividend derived with CTR credit).
-Credit date
-(3) The credit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 84 Consolidated CTRA group company’s credit
-Credit
-(1) A consolidated group has a CTR credit for the amount of a credit that arises when—
-  (a) a CTR credit described in a row of table O5: CTR credits, arises in the CTR account of a group company; and
-  (b) a CTR debit described in a row of table O24: CTR debits of consolidated groups, arises in the CTR account of the group; and
-  (c) the debit is not offset by a credit arising in the group account before the credit arose in the group company’s account; and
-  (d) the amount of the credit is no more than the amount of the debit.
-Table reference
-(2) The CTR credit in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 5 (group company’s credit).
-Offsetting debits
-(3) For the purposes of subsection (1)(c), to determine whether a debit has been offset by a credit in the group account,—
-  (a) a credit retains its separate character and is not treated as part of a credit under section OA 7 (Opening balances of memorandum accounts); and
-  (b) credits are treated as reducing debits in the order in which the credits arise; and
-  (c) a credit, whether some or all, is counted only once in determining whether the debit has been offset; and
-  (d) credits in the accounts of more than 1 group company become a credit to the group account—
-    (i) in the order of their credit date; and
-    (ii) as chosen by the group, if the credits arise on the same credit date; and
-    (iii) on a pro rata basis, if no election is made under subparagraph (ii).
-Credit date
-(4) The credit date is the day the credit is recorded as transferred to the group account.
+[Repealed]
 
 ### OP 85 Consolidated CTRA transfer from group’s FDP account
-Credit
-(1) A consolidated group has a CTR credit for a tax year for an amount of a credit balance in the group’s FDP account that is treated as transferred to the group’s CTR account when—
-  (a) a credit balance exists in the group’s FDP account immediately before the end of the tax year; and
-  (b) a debit balance exists in the group’s CTR account immediately before the end of the tax year.
-Finding balances
-(2) For the purposes of subsection (1),—
-  (a) the debit balance in the CTR account is determined after a CTR credit arises at the end of the tax year under the following sections and described in the following rows of table O23: CTR credits of consolidated groups—
-    (i) section OP 81, row 2 (tax credit for conduit tax relief); and
-    (ii) section OP 84, row 5 (group company’s credit); and
-  (b) the credit balance in the FDP account is determined after an FDP credit arises under section OP 62 before the end of the tax year.
-Amount of credit and debit
-(3) The amount of the credit is equal to the smaller of the 2 balances referred to in subsection (1), and becomes—
-  (a) the CTR credit; and
-  (b) the FDP debit under section OP 70.
-Table references
-(4) The table references are as follows:
-  (a) the CTR credit in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 6 (transfer from group’s FDP account):
-  (b) the FDP credit in subsection (2)(b) is referred to in table O21: FDP credits of consolidated FDP groups, row 8 (transfer for net foreign attributed income):
-  (c) the CTR credit in subsection (3)(a) is referred to in table O23: CTR credits of consolidated groups, row 6 (transfer from group’s FDP account):
-  (d) the FDP debit in subsection (3)(b) is referred to in table O22: FDP debits of consolidated groups, row 8 (transfer to groups CTR account).
-Credit date
-(5) The credit date is the last day of the tax year.
+[Repealed]
 
 ### OP 86 Consolidated CTRA reversal of tax advantage arrangement
-When this section applies
-(1) This section applies when it is established that a CTR credit in a consolidated group’s CTR account was incorrectly determined to be the subject of an arrangement to obtain a tax advantage.
-Credit
-(2) The consolidated group has a CTR credit for an amount equal to a debit in the group’s CTR account under section OP 93.
-Table references
-(3) The CTR credit in subsection (2) is referred to in table O23: CTR credits of consolidated groups, row 7 (reversal of tax advantage arrangement). The CTR debit in subsection (2) is referred to in table O24: CTR debits of consolidated groups, row 8 (tax advantage arrangement).
-Credit date
-(4) The credit date is the same as the debit date for the debit.
+[Repealed]
 
 **CTR debits of consolidated groups**
 
 ### OP 87 Consolidated CTRA payment of dividend
-Debit
-(1) A consolidated group has a CTR debit for the amount of a CTR credit attached to a dividend paid by a group company that is part of the group when the dividend is paid.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 2 (payment of dividend).
-Debit date
-(3) The debit date is the day the dividend is paid.
+[Repealed]
 
 ### OP 88 Consolidated CTRA transfer to group’s FDP account
 [Repealed]
 
 ### OP 89 Consolidated CTRA adjustment for conduit tax relief
-Debit
-(1) A consolidated group has a CTR debit for a tax year for the amount of an adjustment allowed under section FF 7(8) (Surplus to foreign dividends) to a group company that is part of the group on the last day of the income year corresponding to the tax year for which the adjustment is allowed.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 4 (adjustment for conduit tax relief).
-Debit date
-(3) The debit date is the day the company files a return of income for the tax year corresponding to the income year for which the adjustment is made.
+[Repealed]
 
 ### OP 90 Consolidated CTRA group company’s debit
-Debit
-(1) A consolidated group has a CTR debit for an amount to the extent to which the amount would, in the absence of section OP 54(3), give rise to—
-  (a) a CTR debit described in a row of table O6: CTR debits, in the CTR account of a group company; and
-  (b) a CTR debit that would create or increase a debit balance in the group company’s CTR account.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 5 (group company’s debit).
-Debit date
-(3) The debit date is the day that would be the debit date if the debit had arisen in the company’s account.
+[Repealed]
 
 ### OP 91 Consolidated CTRA increase in resident shareholding
-Debit
-(1) A consolidated group has a CTR debit for the amount of a CTR credit in the group’s CTR account if the resident shareholding requirements of subsection (2) and section OA 8 (Shareholder continuity requirements for memorandum accounts) are not met.
-Resident shareholding requirements
-(2) For the purposes of subsection (1), the resident shareholding requirements are that—
-  (a) the credit continues to exist to the extent to which it is not reduced by a later CTR debit; and
-  (b) since the credit date for the credit, the percentage of the group’s shareholders who are resident in New Zealand does not increase by 34% or more; and
-  (c) an amount that is the CTR debit under subsection (1) arises for the amount of the credit that still exists when the requirement of paragraph (b) is not met.
-Supporting rules
-(3) The following rules apply for the purposes of subsection (2):
-  (a) the percentage of shareholders resident in New Zealand at any time is found by taking the highest of the following percentages:
-    (i) the percentage of direct voting interests held in the group by residents; and
-    (ii) the percentage of direct market value interests held in the group, if a direct market value circumstance exists, by residents; and
-    (iii) if not all shares held by the group’s shareholders are shares of the same class, the percentage of total dividends that would be derived by residents if the group were liquidated:
-  (b) a credit retains its separate character and is not treated as part of a credit referred to in section OA 7 (Opening balances of memorandum accounts) in a later tax year; and
-  (c) the amount by which a credit is reduced by an earlier or later debit is found by—
-    (i) treating debits as reducing credits in the order in which the credits arise; and
-    (ii) counting a debit, whether some or all, only once in the reduction of a credit; and
-  (d) the credit date for a credit arising under section OP 84 is the credit date when the credit arose in the CTR account of the group company; and
-  (e) the debit still arises despite an arrangement affecting the company’s shares that has a purpose or effect of defeating the intent and application of the resident shareholding requirements.
-Table references
-(4) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 6 (increase in resident shareholding). The CTR credit in subsection (3)(d) is referred to in table O23: CTR credits of consolidated groups, row 5 (group company’s credits).
-Debit date
-(5) The debit date is the day on which the shareholding threshold is first reached or passed.
+[Repealed]
 
 ### OP 92 Consolidated CTRA breach of CTR ratio
-Debit
-(1) A consolidated group has a CTR debit for a tax year for the amount of a debit under section OD 17 (CTRA breach of CTR ratio) that would arise in the CTR account of a group company in the absence of section OP 79.
-Table references
-(2) The group’s CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 7 (breach of CTR ratio). The group company’s CTR credit in subsection (1) is referred to in table O6: CTR debits, row 9 (breach of CTR ratio).
-Debit date
-(3) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OP 93 Consolidated CTRA tax advantage arrangement
-Debit
-(1) A consolidated group has a CTR debit for the amount of a debit for a tax advantage arrangement determined under sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage) which apply to a CTR credit as if it were an FDP credit.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 8 (tax advantage arrangement).
-Debit date
-(3) The debit date is the last day of the tax year in which the arrangement began.
+[Repealed]
 
 ### OP 94 Consolidated CTRA final balance
-Debit
-(1) A consolidated group has a CTR debit for a credit balance in the CTR account when the group is no longer required to maintain the account.
-Table reference
-(2) The CTR debit in subsection (1) is referred to in table O24: CTR debits of consolidated groups, row 9 (final balance).
-Debit date
-(3) The debit date is the day before the group is no longer required to maintain a CTR account.
+[Repealed]
 
 **Consolidated groups’ FDP payments and refunds**
 
@@ -32508,12 +32262,7 @@ Debit date
 [Repealed]
 
 ### OP 96 Refund on transfer from group’s FDP account
-Refund
-(1) A consolidated FDP group is entitled to a refund for the amount referred to in section OP 85 for a transfer from the group’s CTR account.
-Table reference
-(2) The amount in subsection (1) is referred to in table O23: CTR credits of consolidated groups, row 6 (transfer from group’s FDP account).
-Application of refund
-(3) The Commissioner may apply the amount of the refund to pay an amount due under the Inland Revenue Acts.
+[Repealed]
 
 **Table O23: conduit tax relief credits of consolidated groups**
 
@@ -32548,7 +32297,7 @@ When group ends status
 
 ### OP 100 Consolidated BETA payment of income tax on foreign income
 Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for an income year for an amount calculated using the formula—((group CFC income – group deductions) × tax rate) – foreign tax – debit balances.
+(1) A consolidated BETA group has a branch equivalent tax credit for an income year for the lesser of the amount by which the group's branch equivalent tax account is in debit and the amount calculated using the formula—((group CFC income – group deductions) × tax rate) – foreign tax – debit balances.
 Definition of items in formula
 (2) In the formula,—
   (a) group CFC income is the amount of attributed foreign income derived by the consolidated BETA group during the income year:
@@ -32578,7 +32327,7 @@ When this section applies
     (ii) by reducing a tax loss:
     (iii) to reduce an FDP liability under section RG 7 (Reduction of payments for conduit tax relief).
 Election
-(2) A company that is allowed under subsection (6) to make an election under this subsection may choose to apply some or all of the debit balance in the branch equivalent tax account to satisfy an income tax liability arising from attributed CFC income of the consolidated BETA group or the BETA group company.
+(2) The nominated company of the consolidated BETA group may choose to apply some or all of the debit balance to satisfy an income tax liability of the group or of group company B in relation to attributed CFC income that is allocated to an income year beginning before 1 July 2011. The election must be made before the end of the first income year beginning on or after 1 July 2011.
 Maximum amount
 (2B) Despite subsection (2) and section OE 7(3) (BETA payment of income tax), the amount of BETA debits applied under elections under subsection (2) and section OE 7(3) relating to the attributed CFC income referred to in subsection (2) must be no more than the amount calculated under section OE 6(1) (BETA payment of income tax on foreign income) for the company that has the attributed CFC income or under section OP 100(1) for the consolidated BETA group, in both cases treating the item debit balances as zero.
 Credit
@@ -32615,13 +32364,15 @@ Credit date
 
 ### OP 103 Consolidated BETA refund of FDP
 Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for a tax year for the amount of a refund of FDP. Subsections (2) and (3) override this subsection.
+(1) A consolidated BETA group has a branch equivalent tax credit for a tax year for the amount of a refund of FDP. Subsections (2) to (3B) override this subsection.
 Refund giving rise to debit
 (2) A refund under subsection (1) must be a refund of a payment of FDP that gave rise to a debit under section OP 105.
 Reduction
 (3) The amount of the credit under subsection (1) is reduced to the extent to which—
   (a) the payment of FDP is made before a branch equivalent tax credit arises under section OP 104 in the group’s branch equivalent tax account; and
   (b) the amount of the refund is no more than the amount of the credit for the loss of shareholder continuity.
+Limit on amount
+(3B) The amount of the credit under subsection (1), after any reduction under subsection (3), is limited to the amount of the debit in the group's branch equivalent tax account at the time of the refund.
 Table references
 (4) The table references are as follows:
   (a) the branch equivalent tax credit in subsection (1) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 4 (refund of FDP):
@@ -32938,12 +32689,7 @@ Reduction
 (2) The amount of the credit and debit are reduced by multiplying the amount by 28/30.
 
 ### OZ 17 CTRA reductions
-What this section applies to
-(1) This section applies to—
-  (a) a credit and a debit in the CTR account of a company or a consolidated group before the first day of their 2011–12 income year:
-  (b) a credit and a debit arising to the CTR account of a company or a consolidated group on or after the first day of their 2011–12 income year, if the credit and debit relate to their 2010–11 or earlier income years.
-Reduction
-(2) The amount of the credit and debit are reduced by multiplying the amount by 28/30.
+[Repealed]
 
 ### OZ 18 Credit-back of PCA balance
 When this section applies
@@ -34979,7 +34725,7 @@ Inclusions in interest
 Exclusions from dividends
 (5) The following amounts are excluded from a dividend under this section:
   (a) a dividend that is exempt income—
-    (i) through the application of any of sections CW 9 to CW 11 (which relate to income from equity); or
+    (i) through the application of either of sections CW 9 and CW 10 (which relate to income from equity); or
     (ii) under section CW 27 (Certain income derived by transitional resident); or
     (iii) under section CW 64 (Exemption under other Acts):
   (b) an amount treated as a dividend under—
@@ -35464,16 +35210,16 @@ When this section applies
 (1) This section applies when a person makes a payment of non-resident passive income that consists of a dividend, except to the extent to which the payment is—
   (a) an investment society dividend; or
   (b) a supplementary dividend under subpart LP (Tax credits for supplementary dividends); or
-  (c) a conduit tax relief (CTR) additional dividend under subpart LQ (Tax credits of conduit tax relief companies); or
+  (c)
   (d) a fully imputed dividend; or
   (e) an amount of a dividend that is fully credited for FDP; or
-  (f) an amount of a dividend that is fully credited for conduit tax relief.
+  (f)
 Calculation of amount of tax
 (2) The amount of tax is calculated using the formula—dividend payment × 0.3.
 
 ### RF 9 When dividends fully imputed or fully credited
 When this section applies
-(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed or fully credited for FDP or conduit tax relief.
+(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed or fully credited for FDP.
 Fully imputed
 (2) The extent to which a dividend is fully imputed is calculated using the formula—(imputation credit amount + supplementary dividend amount)×1 − tax ratetax rate.
 Definition of items in formula
@@ -35488,9 +35234,9 @@ Definition of items in formula
   (a) FDP credit amount is the amount of FDP credit attached to the dividend:
   (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2.
 Fully credited for conduit tax relief
-(6) The extent to which a dividend is fully credited for conduit tax relief is calculated using the formula—CTR credit attached to dividend ×(1 − tax rate)tax rate.
+(6)
 Definition of item in formula
-(7) In the formula in subsection (6), tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 for the income year in which the dividend is paid.
+(7)
 
 ### RF 10 Non-cash dividends
 When subsections (2) to (5) apply
@@ -35499,14 +35245,12 @@ When amount not taxable bonus issue
 (2) The amount of tax, when the payment is not a taxable bonus issue, is calculated using the formula—(rate A× dividend payment) + (rate B × amount paid).(1 − rate A
 Definition of items in formula
 (3) In the formula in subsection (2),—
-  (a) rate A is—
-    (i) for a CTR additional dividend paid under subpart LQ (Tax credits of conduit tax relief companies) or a dividend to the extent to which the amount of the dividend is fully credited for conduit tax relief as described in subsection (7), the rate set out in section RF 7; and
-    (ii) in any other case, the rate of tax set out in section RF 8:
+  (a) rate A is the rate of tax set out in section RF 8:
   (b) dividend payment is the amount of the dividend paid to the extent to which the amount of the dividend is not fully imputed or fully credited for FDP, as described in section RF 9(2) and (4), disregarding the amount of tax to be withheld:
   (c) rate B is the rate set out in section RF 7:
   (d) amount paid is the amount of the dividend paid to the extent to which the amount of the dividend is fully credited for FDP, as described in section RF 9(4), disregarding the amount of tax to be withheld.
 When amount taxable bonus issue
-(4) The amount of tax, when the payment is a taxable bonus issue, is calculated using the formula—(rate A × dividend payment) + (rate B × (amount paid + credit amount)).
+(4) The amount of tax, when the payment is a taxable bonus issue, is calculated using the formula—(rate A × dividend payment) + (rate B × amount paid).
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) rate A is the rate of tax set out in section RF 8:
@@ -35514,14 +35258,14 @@ Definition of items in formula
     (i) other than a dividend referred to in the item bonus issue:
     (ii) to the extent to which the amount of the dividend is not fully imputed or fully credited for FDP (as described in sections RF 9 and RF 14), before the amount of tax is withheld:
   (c) rate B is the rate of tax set out in section RF 7:
-  (d) amount paid is the amount of the dividend calculated under section CD 7(2) or CD 8(3) together with the amount of an FDP credit attached to the dividend to the extent to which the amount of the dividend is fully credited for FDP, as described in section RF 9(4), before the amount of tax is withheld:
-  (e) credit amount is the amount of the dividend to the extent to which it is fully credited for conduit tax relief as described in subsection (7) together with a CTR additional dividend paid for the taxable bonus issue under subpart LQ.
+  (d) amount paid is the amount of the dividend calculated under section CD 7(2) or CD 8(3) together with the amount of an FDP credit attached to the dividend to the extent to which the amount of the dividend is fully credited for FDP, as described in section RF 9(4), before the amount of tax is withheld.
+  (e)
 Fully imputed non-cash dividends
 (5B) When a payment of non-resident passive income consists of a non-cash dividend, the rate of NRWT payable on the amount is 0% to the extent to which the amount is fully imputed.
 Amount treated as amount withheld and paid under NRWT rules
 (6) A person who is liable under this section for NRWT must pay the amount to the Commissioner. The amount is treated as if it were an amount withheld and paid under the NRWT rules for the purposes of this Act and the Tax Administration Act 1994.
 Amount part of dividend
-(7) For the purposes of this section and sections OD 20 to OD 22 (which relate to CTR credits attached to dividends), an amount subtracted from a non-cash dividend to the extent it is fully credited for conduit tax relief is treated as part of the non-cash dividend.
+(7)
 
 ### RF 11 Dividends paid to companies associated with non-residents
 When this section applies
@@ -35543,7 +35287,7 @@ When this section applies
 (1) This section applies in relation to an amount of non-resident passive income that consists of—
   (a) interest that—
     (i) is paid by an approved issuer under a registered security; and
-    (ii) is derived by a person not associated with the approved issuer; and
+    (ii) is derived by a person not associated with the approved issuer except by being a beneficiary of a trust established for the main purpose of protecting and enforcing beneficiaries' rights under the registered security; and
     (iii) is not a payment to which section RF 12B applies:
   (b) interest that—
     (i) is paid by a transitional resident in relation to money borrowed by them while non-resident; and
@@ -36548,7 +36292,7 @@ In this Act, unless the context requires otherwise,—
   - **accounting period** , for a foreign company, means—
     (a) its accounting year; or
     (b) the relevant period of other than 12 months, if a person’s attributed CFC income or loss or FIF income or loss from the foreign company is allowed or required to be calculated on the basis of a period other than 12 months because of a change of residence of the foreign company
-  - **accounting profits method** means the method of calculating FIF income or FIF loss in section EX 49 (Accounting profits method)
+  - **accounting profits method**
   - **accounting year** ,—
     (a) for any person, means a tax year or another 12 month period that ends with the date of the annual balance of the person’s accounts:
     (b) for a company, includes—
@@ -36676,13 +36420,13 @@ In this Act, unless the context requires otherwise,—
   - **associated, associated person, person associated** , and other expressions indicating the association of persons with each other are defined in sections YB 1 to YB 16 (which relate to associated persons)
   - **associated internal software developer** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **associated mining operations** is defined in section CU 29 (Other definitions)
-  - **associated non-attributing active CFC** , for a CFC, means a person who is—
-    (a) associated with the CFC under section YB 2 (Two companies); and
-    (b) subject with the CFC to the laws of the same country or territory under which each company is liable to income tax on its income because of its domicile, residence, place of incorporation, or centre of management; and
-    (c) a non-attributing active CFC
+  - **associated non-attributing active CFC** , for a CFC, means a person who is associated with the CFC under section YB 2 (Two companies) if the person and the CFC meet the following requirements:
+    (a) the person is a non-attributing active CFC; and
+    (b) the person and the CFC each have a taxed CFC connection with the same country or territory
   - **association** , in subpart HE (Mutual associations), and sections CB 33, CB 34, and DV 19, (which relate to mutual associations), means a body or association of persons, whether incorporated or not
   - **association rebate** is defined in section HE 3 (Association rebates) for the purposes of subpart HE (Mutual associations) and sections CB 34 and DV 19 (which relate to mutual associations)
   - **attributable CFC amount** is defined in section EX 20B (Attributable CFC amount)
+  - **attributable FIF income method** means the method of calculating FIF income or FIF loss in section EX 50 (Attributable FIF income method)
   - **attributed CFC income** is defined in section CQ 2 (When attributed CFC income arises)
   - **attributed CFC loss** is defined in section DN 2 (When attributed CFC loss arises)
   - **attributed CFC net loss** , for a person and for an income year in which they have an attributed CFC loss, means the part of the loss that the person is denied as a deduction because of section DN 4 (Ring-fencing cap on deduction), but must instead deal with under Part I (Treatment of tax losses)
@@ -36749,12 +36493,10 @@ In this Act, unless the context requires otherwise,—
   (b) the entity has 1 or more other investor classes that include 20 or more persons; and
   (c) no investor in the class described in paragraph (a), other than the manager or trustee of the entity, can control investment decisions relating to the class; and
   (d) the investor interests of investors in all investor classes described in paragraph (a) of the entity add up to less than 10% of the total value of interests in the entity
-  - **branch equivalent company** means, at any time for any person, a company that is at the time—
-    (a) a controlled foreign company; or
-    (b) a company from which the person is deriving FIF income or incurring FIF loss that they calculate using the branch equivalent method, including income or loss under section EX 50(6) (Branch equivalent method)
+  - **branch equivalent company**
   - **branch equivalent income** , for a foreign company and for an accounting period, means the amount of income for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent loss** , for a foreign company and for an accounting period, means the amount of loss for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
-  - **branch equivalent method** means the method of calculating FIF income or FIF loss in section EX 50 (Branch equivalent method)
+  - **branch equivalent method** means the method of calculating FIF income or FIF loss in section EX 50 (Branch equivalent method) as that provision read immediately before being amended by section 35 of the Taxation (International Investment and Remedial Matters) Act 2012
   - **branch equivalent tax account** means the account maintained by a BETA company under section OE 2 (Branch equivalent tax accounts of companies) or a BETA person under section OE 17(3) (Person choosing to become BETA person)
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
@@ -36774,7 +36516,7 @@ In this Act, unless the context requires otherwise,—
   - **business premises** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
   - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly in deriving the person’s income
-  - **calculation method** , for the calculation of FIF income or FIF loss, means any of the accounting profits method, the branch equivalent method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
+  - **calculation method** , for the calculation of FIF income or FIF loss, means any of the attributable FIF income method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
   - **calculation period** , for a multi-rate PIE, means a period in which the entity calculates an amount under section HM 47 (Calculation of tax liability or tax credit of multi-rate PIEs) that—
     (a) consists of 1 or more attribution periods:
     (b) for a calculation under the quarterly calculation option, is a quarter:
@@ -36857,7 +36599,7 @@ In this Act, unless the context requires otherwise,—
       (i) a market value circumstance exists for the company; and
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
-  - **combined imputation and CTR ratio** means the ratio set out in section OD 22 (CTR credits and imputation credits attached to dividends)
+  - **combined imputation and CTR ratio**
   - **combined imputation and FDP ratio** means the ratio set out in section OC 29 (FDP credits and imputation credits attached to dividends)
   - **combined tax and earner-related payment** means, for a PAYE income payment, the total of—
     (a) the amount of tax for the PAYE income payment required to be withheld and paid under the PAYE rules; and
@@ -36937,7 +36679,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EE 45 (Consideration for purposes of section EE 44) for the purposes of section EE 44 (Application of sections EE 48 to EE 52):
     (b) means an amount determined under the financial arrangements rules in—
       (i) the financial arrangements rules:
-      (ii) section EX 21(11) (Branch equivalent income or loss: calculation rules):
+      (ii) section EX 21(11) (Attributable CFC amount and net attributable CFC income or loss: calculation rules):
       (iii) sections FO 12 to FO 15 (which relate to the treatment of financial arrangements on amalgamation):
       (iv) sections FO 18 to FO 20 (which relate to companies that are parties to financial arrangements):
       (v) section HC 31(4) (When existing trusts come into tax base)
@@ -37077,16 +36819,16 @@ In this Act, unless the context requires otherwise,—
   (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
   (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
-  - **CTR** means conduit tax relief
-  - **CTR account** means the account referred to in section OA 2(1)(c) (Memorandum accounts)
-  - **CTR additional dividend** means a dividend paid under section LQ 5 (CTR additional dividends)
-  - **CTR company** means a company that chooses under sections OD 1(1) and OD 3 (which relate to CTR companies) to become a CTR company
-  - **CTR credit** is a credit referred to in section OA 5(4) (Credits)
-  - **CTR debit** is a debit referred to in section OA 6(4) (Debits)
-  - **CTR group member** is defined in section YD 11 (Meaning of CTR group member)
-  - **CTR holding company** is defined in section YD 10 (Meaning of CTR holding company)
-  - **CTR ratio** means the ratio set out in section OD 20 (CTR credits attached to dividends)
-  - **CTRA** means conduit tax relief account
+  - **CTR**
+  - **CTR account**
+  - **CTR additional dividend**
+  - **CTR company**
+  - **CTR credit**
+  - **CTR debit**
+  - **CTR group member**
+  - **CTR holding company**
+  - **CTR ratio**
+  - **CTRA**
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
@@ -37099,7 +36841,7 @@ In this Act, unless the context requires otherwise,—
   - **debenture holder** includes the owner of debenture stock
   - **debt security** is defined in section FA 2B(4) (Stapled debt securities)
   - **deductible foreign equity distribution** means a distribution by a foreign company to a company, in relation to a share in the foreign company,—
-    (a) for which a deduction is allowed in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the foreign company or on the income of a company in the same group as the foreign company:
+    (a) for which a deduction is allowed in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of a person:
     (b) sourced directly or indirectly out of an amount paid to the foreign company in relation to a financial arrangement or share by another company if—
       (i) the foreign company is not liable for income tax imposed by a country or territory other than New Zealand on the amount paid to the foreign company; and
       (ii) the other company is allowed a deduction, in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the other company, for the amount paid to the foreign company
@@ -37368,7 +37110,7 @@ In this Act, unless the context requires otherwise,—
   - **excepted financial arrangement** —
     (a) is defined in section EW 5 (What is an excepted financial arrangement?) for the purposes of this Act except the old financial arrangements rules; and
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **excess credit amount** means an amount calculated under sections OC 29(5) and OD 22(5) (which relate to dividends with both imputation credit and FDP credits or CTR credits attached) for a dividend with a combined imputation and FDP ratio or a combined imputation and CTR ratio
+  - **excess credit amount** means an amount calculated under section OC 29(5) (FDP credits and imputation credits attached to dividends) for a dividend with a combined imputation and FDP ratio
   - **excess debt entity** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **excess debt outbound company** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment)
   - **excess expenditure** —
@@ -37483,7 +37225,7 @@ In this Act, unless the context requires otherwise,—
   - **FIF** means a foreign investment fund as defined in section EX 28 (Meaning of FIF)
   - **FIF income** is defined in section CQ 5 (When FIF income arises)
   - **FIF loss** is defined in section DN 6 (When FIF loss arises)
-  - **FIF net loss** , for a person and for an income year in which the person has a FIF loss, means the part of the FIF loss for which the person is denied a deduction because of section DN 8 (Ring-fencing cap on deduction: branch equivalent method), but must instead deal with under Part I (Treatment of tax losses)
+  - **FIF net loss** , for a person and for an income year in which the person has a FIF loss, means the part of the FIF loss for which the person is denied a deduction because of section DN 8 (Ring-fencing cap on deduction: attributable FIF income method), but must instead deal with under Part I (Treatment of tax losses)
   - **FIF rules** means sections EX 28 to EX 72 (which relate to foreign investment funds)
   - **fifteen percent capital reduction** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **fifteen percent interest reduction** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
@@ -37620,12 +37362,8 @@ In this Act, unless the context requires otherwise,—
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
-    (b) FIF income calculated under the accounting profits method or the branch equivalent method
-  - **foreign attributed loss offsets** means all deductions or offsets a company is allowed in the income year that are—
-    (a) attributed CFC losses:
-    (b) FIF losses calculated under the accounting profits method or the branch equivalent method:
-    (c) attributed CFC net losses:
-    (d) FIF net losses calculated under the accounting profits method or the branch equivalent method
+    (b) FIF income calculated under the attributed FIF income method
+  - **foreign attributed loss offsets**
   - **foreign company** means a company that—
     (a) is not resident in New Zealand; or
     (b) is treated under a double tax agreement as not being resident in New Zealand
@@ -37686,7 +37424,7 @@ In this Act, unless the context requires otherwise,—
   - **full reinsurance** is defined in section EY 12(2) (Meaning of life reinsurance)
   - **full-time earner** is defined in section MA 7 (Meaning of full-time earner for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
-  - **fully credited for conduit tax relief** means the part of a dividend calculated using the formula in section RF 9(6) (When dividends fully imputed or fully credited)
+  - **fully credited for conduit tax relief**
   - **fully imputed** ,—
     (a) for the purposes of sections CB 26, EX 20B, RF 8, and RF 10 (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), means the amount calculated under section HA 15(2) (Fully imputed distributions)
@@ -38019,7 +37757,7 @@ In this Act, unless the context requires otherwise,—
       (i) means a disposition by which a leasehold estate is created; and
       (ii) includes a licence:
     (c) for the purposes of subpart EE (Depreciation), includes a licence to occupy:
-    (d) in sections EJ 10 (Personal property lease payments), EX 21(30) and (31) (Branch equivalent income or loss: calculation rules), FA 6 to FA 11 (which relate to finance leases), FZ 2 to FZ 4 (which relate to specified leases) and in the definitions of cost price (paragraphs (b) to (e)), finance lease, guaranteed residual value, initial period, instalment, lessee (paragraph (b)), lessor (paragraph (b)), operating lease, outstanding balance, personal property lease asset, specified lease, and term of the lease,—
+    (d) in sections EJ 10 (Personal property lease payments), EX 21(30) and (31) (Attributable CFC amount and net attributable CFC income or loss: calculation rules), FA 6 to FA 11 (which relate to finance leases), FZ 2 to FZ 4 (which relate to specified leases) and in the definitions of cost price (paragraphs (b) to (e)), finance lease, guaranteed residual value, initial period, instalment, lessee (paragraph (b)), lessor (paragraph (b)), operating lease, outstanding balance, personal property lease asset, specified lease, and term of the lease,—
       (i) means an agreement under which a lessor transfers to a lessee for the term of the lease a personal property lease asset or the right to possess a personal property lease asset in consideration for a personal property lease payment; and
       (ii) includes a sublease; and
       (iii) includes a licence to use intangible property; and
@@ -38185,7 +37923,7 @@ In this Act, unless the context requires otherwise,—
   - **loss** —
     (a) includes an amount of depreciation loss, except when any of paragraphs (b) to (d) applies:
     (b) means an attributed CFC loss when used in the expression attributed CFC income or loss:
-    (c) means a branch equivalent loss when used in the expression branch equivalent income or loss:
+    (c) means a net attributable FIF loss when used in the expression net attributable FIF income or loss:
     (d) means a FIF loss when used in the expression FIF income or loss
   - **loss balance** , for a tax year,—
     (a) means the sum of all tax loss components—
@@ -38269,7 +38007,7 @@ In this Act, unless the context requires otherwise,—
   - **maximum account balance** is defined in section EK 23 (Other definitions) for the purposes of subpart EK (Environmental restoration accounts)
   - **maximum deficit debit** is defined in section OC 36 (Meaning of maximum deficit debit) for the purposes of section OC 23 (FDPA breach of FDP ratio by PCA company)
   - **maximum payment** is defined in section EK 22 (Meaning of maximum payment) for the purposes of subpart EK (Environmental restoration accounts)
-  - **maximum permitted ratio** , for an imputation credit, an FDP credit, a CTR credit, or a Maori authority credit, means a ratio calculated under section OA 18 (Calculation of maximum permitted ratios)
+  - **maximum permitted ratio** , for an imputation credit, an FDP credit, or a Maori authority credit, means a ratio calculated under section OA 18 (Calculation of maximum permitted ratios)
   - **maximum pooling value** is defined in section EE 65 (Meaning of maximum pooling value)
   - **measurement period** , for an income year of a reporting bank, means 1 of the measurement periods for the income year described in section FE 8 (Measurement dates) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **member** ,—
@@ -38381,6 +38119,8 @@ In this Act, unless the context requires otherwise,—
     (k) a right to or interest in an item referred to in any of the preceding paragraphs
   - **net attributable CFC income** , for a foreign company and for an accounting period, means the amount calculated for the accounting period under section EX 20C(1)(a) (Net attributable CFC income or loss)
   - **net attributable CFC loss** , for a foreign company and for an accounting period, means the amount calculated for the accounting period under section EX 20C(1)(b) (Net attributable CFC income or loss)
+  - **net attributable FIF income** , for a FIF and for an accounting period, means an amount of zero or more calculated for the accounting period under section EX 50(3) (Attributable FIF income method)
+  - **net attributable FIF loss** , for a FIF and for an accounting period, means an amount of less than zero calculated for the accounting period under section EX 50(3) (Attributable FIF income method)
   - **net family scheme income** is defined in section ME 3 (Meaning of net family scheme income) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **net gambling proceeds** means net proceeds as defined in section 4 of the Gambling Act 2003
   - **net income** means net income for a tax year calculated under section BC 4 (Net income and net loss)
@@ -38402,7 +38142,7 @@ In this Act, unless the context requires otherwise,—
     (b) the water and the air space above any part of the continental shelf that is beyond New Zealand’s territorial sea, as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977, if and to the extent to which—
       (i) any exploration or exploitation in relation to the part, or any natural resource of the part, is or may be undertaken; and
       (ii) the exploration or exploitation, or any related matter, involves, or would involve any activity on, in, or in relation to the water or air space
-  - **New Zealand banking group** , for a registered bank, means the New Zealand banking group referred to in section FE 36 (Identifying members of New Zealand banking group) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
+  - **New Zealand banking group** , for a registered bank, means the New Zealand banking group referred to in sections FE 36 and FE 36B (which identify the members of a New Zealand banking group) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **New Zealand business** , in relation to a life insurer not resident in New Zealand, means the part of the business of the life insurer that consists of life insurance policies or life reinsurance policies offered or entered into in New Zealand
   - **New Zealand emissions unit** means a New Zealand unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **New Zealand net equity** , for a New Zealand banking group is the amount referred to in section FE 21 (Banking group’s New Zealand net equity) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
@@ -38472,7 +38212,7 @@ In this Act, unless the context requires otherwise,—
     (ab) a tax credit under section LD 4 (Tax credits for payroll donations):
     (b) a tax credit under subpart LJ (Tax credits for foreign income tax):
     (c) a tax credit under subpart LK (Tax credits relating to attributed controlled foreign company income):
-    (d) a tax credit under subpart LQ (Tax credits of conduit tax relief companies):
+    (d)
     (e) a tax credit under subpart LR (Tax credits for policyholder income):
     (f) an amount in a person’s branch equivalent tax account or policyholder credit account that the person chooses, under Part O (Memorandum accounts), to credit in payment of income tax:
     (g) a tax credit under sections LS 3(3) and (4) and LS 4(3) and (4) (which relate to multi-rate PIEs and certain of their investors) and under section LS 1 (Tax credits for multi-rate PIEs) to the extent to which it arises under section HM 51 (Use of foreign tax credits by PIEs)
@@ -38523,6 +38263,8 @@ In this Act, unless the context requires otherwise,—
   - **NZIAS 8** means New Zealand Equivalent to International Accounting Standard 8, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 17** means New Zealand Equivalent to International Accounting Standard 17, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 23** means New Zealand Equivalent to International Accounting Standard 23, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 28** means New Zealand Equivalent to International Accounting Standard 28 approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 31** means New Zealand Equivalent to International Accounting Standard 31 approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, approved or issued under the Financial Reporting Act 1993 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
@@ -38535,7 +38277,7 @@ In this Act, unless the context requires otherwise,—
   - **offered or was offered or entered into** , in sections EY 12 (Meaning of life reinsurance) and EY 48 (Non-resident life insurers with life insurance policies in New Zealand), has the same meaning as
   - **off-market cancellation** means a share cancellation that is not an on-market cancellation
   - **offshore permit area** is defined in section CW 57 (Non-resident company involved in exploration and development activities) for the purposes of that section
-  - **old company tax rate** means a 30% basic tax rate applying before the 2008–09 income year
+  - **old company tax rate** means a 30% or 33% basic tax rate applying before the 2011–12 income year
   - **old financial arrangements rules** means—
     (a) the following provisions:
       (i) sections EZ 33 to EZ 52 (which relate to the old financial arrangements rules):
@@ -39367,7 +39109,7 @@ In this Act, unless the context requires otherwise,—
     (b) that has notified the subsidiary within the previous 7 years that it is a supplementary dividend company, and has not revoked the notice; and
     (c) that has a purpose, in maintaining the notice, of directly or indirectly enabling the payment of a supplementary dividend to a non-resident; and
     (d) in which 1 or more voting interests are held by non-residents; and
-    (e) that derives dividends that are not excluded income or exempt income other than income under sections CW 9 to CW 11 (which relate to income from equity)
+    (e) that derives dividends that are not excluded income or exempt income other than income under sections CW 9 and CW 10 (which relate to income from equity)
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
   - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
@@ -39432,9 +39174,35 @@ In this Act, unless the context requires otherwise,—
   - **taxable Maori authority distribution** is defined in section HF 7 (Taxable Maori authority distributions)
   - **taxable period** has the meaning given in section 2(1) of the Goods and Services Tax Act 1985
   - **taxable supply** has the meaning given in section 2(1) of the Goods and Services Tax Act 1985
-  - **taxation law** , in sections EZ 52 (References to new rules include old rules), GZ 2 (Arrangements involving cancellation of conduit tax relief credits), ZA 3 (Transitional provisions), ZA 4 (Saving of binding rulings), and ZA 5 (Saving of accrual determinations), means—
+  - **taxation law** , in sections EZ 52 (References to new rules include old rules), ZA 3 (Transitional provisions), ZA 4 (Saving of binding rulings), and ZA 5 (Saving of accrual determinations), means—
     (a) a provision that is a taxation law under section 91B of the Tax Administration Act 1994:
     (b) a provision of the Income Tax Act 1994 or Income Tax Act 2004
+  - **taxed CFC connection** , for a CFC and a country or territory (the host country), means a relationship meeting the following requirements:
+    (a) the CFC is resident in the host country under section YD 3 (Country of residence of foreign countries); and
+    (b) there is no other country or territory for which the CFC is—
+      (i) a resident under the domestic law of the country or territory:
+      (ii) liable to income tax because of the CFC's domicile, residence, place of incorporation, or centre of management:
+      (iii) treated as a resident under an agreement with the host country that would be a double tax agreement if it were an agreement between New Zealand and the host country; and
+    (c) the CFC has no presence outside the host country that is—
+      (i) a fixed establishment:
+      (ii) a permanent establishment under an agreement, between another country or territory and the host country, that would be a double tax agreement if it were between New Zealand and the host country; and
+    (d) the CFC is liable in the host country to tax on its income because of the CFC's domicile, residence, place of incorporation, or centre of management, or there is another foreign company (the parent company) that—
+      (i) wholly owns the CFC under the laws of New Zealand and the host country; and
+      (ii) has a relationship with the host country meeting the requirements of paragraphs (a) to (c); and
+      (iii) because of the parent company's domicile, residence, place of incorporation, or centre of management, is liable in the host country to tax on the CFC's income in the same period that the CFC would be liable on its income if it were a company liable for tax
+  - **taxed FIF connection** , for a FIF and a country or territory (the host country), means a relationship meeting the following requirements:
+    (a) the FIF is resident in the host country under section YD 3 (Country of residence of foreign companies); and
+    (b) there is no other country or territory for which the FIF is—
+      (i) a resident under the domestic law of the country or territory:
+      (ii) liable to income tax because of the FIF's domicile, residence, place of incorporation, or centre of management:
+      (iii) treated as a resident under an agreement with the host country that would be a double tax agreement if it were an agreement between New Zealand and the host country; and
+    (c) the FIF has no presence outside the host country that is—
+      (i) a fixed establishment:
+      (ii) a permanent establishment under an agreement, between another country or territory and the host country, that would be a double tax agreement if it were between New Zealand and the host country; and
+    (d) the FIF is liable in the host country to tax on its income because of the FIF's domicile, residence, place of incorporation, or centre of management, or there is a foreign company (the parent company) that—
+      (i) wholly owns the FIF under the laws of New Zealand and the host country; and
+      (ii) has a relationship with the host country meeting the requirements of paragraphs (a) to (c); and
+      (iii) because of the parent company's domicile, residence, place of incorporation, or centre of management, is liable in the host country to tax on the FIF's income in the same period that the FIF would be liable on its income if it were a company liable for tax
   - **taxi** is defined in section 2(1) of the Land Transport Act 1998
   - **taxicab**
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
@@ -40438,62 +40206,13 @@ No connection if all risk offshore
   (b) the insurer deriving the premium is not associated with the insured person.
 
 ### YD 9 Residence of CTR company shareholders
-When these sections apply
-(1) The rules in this section and sections YD 10 and YD 11 apply only for the purposes of applying the conduit tax relief provisions in sections LQ 3 to LQ 5, OD 16, OD 22, RG 7, YD 10(3) and YD 11(4) (which relate to credits and payments for conduit tax relief).
-Associated CFC or non-complying trust treated as resident
-(2) A non-resident is treated as resident in New Zealand if the non-resident is—
-  (a) associated with the conduit tax relief (CTR) company; and
-  (b) a controlled foreign company (CFC) or the trustee of a non-complying trust.
-CTR holding companies and group members treated as non-resident
-(3) A company resident in New Zealand holding shares in a CTR company is treated as not resident in New Zealand if it is—
-  (a) a CTR holding company for the CTR company; or
-  (b) a CTR group member for the CTR company, but only to the extent described in subsection (4).
-Limitation to treatment of group member as non-resident
-(4) A CTR group member is treated as not resident in New Zealand for the percentage of its direct voting interest, direct market value interest, and entitlement to derive dividends that is equal to the total percentage of direct voting interests, or direct market value interests if market value circumstances exist, referred to in section YD 11(4).
+[Repealed]
 
 ### YD 10 Meaning of CTR holding company
-What is a CTR holding company?
-(1) A company is a CTR holding company, in relation to a CTR company in which it holds shares, if the requirements of subsections (2) to (5) are each met.
-CTR company
-(2) The company must itself be a CTR company.
-Direct ownership by single non-resident
-(3) A single person not resident in New Zealand must have—
-  (a) 100% of the direct voting interests in the CTR holding company; and
-  (b) 100% of the direct market value interests in the CTR holding company, if a direct market value circumstance exists at the relevant time for the CTR holding company.
-Owning 10% or more of CTR company
-(4) The company must itself have—
-  (a) a 10% or greater direct voting interest in the CTR company; and
-  (b) a 10% or greater direct market value interest in the CTR company, if a direct market value circumstance exists at the relevant time for the CTR company.
-Notice to CTR company
-(5) The company must have previously given, and have not revoked, a notice to the CTR company that it is to be a CTR holding company for the CTR company.
-Nominal shareholding
-(6) In the application of subsection (3), a nominal shareholding held by a person solely to comply with company law requirements is disregarded.
-CFC or non-complying trust
-(7) Despite subsection (3), a company is not a CTR holding company if the single person is a CFC or the trustee of a non-complying trust.
+[Repealed]
 
 ### YD 11 Meaning of CTR group member
-What is a CTR group member?
-(1) A company resident in New Zealand is a CTR group member, in relation to a CTR company in which it holds shares, if the requirements of subsections (2) to (4) are each met.
-CTR company
-(2) The company must itself be a CTR company.
-Direct ownership of CTR company
-(3) The company must have, in the CTR company,—
-  (a) a 100% direct voting interest; and
-  (b) a 100% direct market value interest, if a market value circumstance exists at the time for the CTR company.
-Direct or indirect interest in group member
-(4) One or more non-residents have a direct voting interest, or a direct market value interest if a market value circumstance exists at the time for the group member, in—
-  (a) the CTR group member:
-  (b) another member of the same wholly-owned group of companies that—
-    (i) is resident in New Zealand; and
-    (ii) has a 100% voting interest and, if a market value circumstance exists, a 100% market value interest, in the CTR company.
-Nominal shareholding
-(5) For the purposes of subsections (3) and (4), a nominal shareholding held by a person solely to comply with company law requirements is disregarded.
-No application of look-through rules
-(6) In the application of subsection (4)(b), the look-through rules in section YC 4(2) and (5) (Look-through rule for corporate shareholders) do not apply to treat the other member’s interests as held by others.
-Associated CFC or non-complying trust treated as resident
-(7) For the purposes of subsection (4), a non-resident is treated as resident in New Zealand if the non-resident is—
-  (a) associated with the company or the CTR company; and
-  (b) a CFC or the trustee of a non-complying trust.
+[Repealed]
 
 ### Subpart YE — References to balance dates and years
 
@@ -41555,8 +41274,8 @@ expenditure related to the acquisition of land
 | Annual amount, calculated in accordance with section MF 3(2)(a) | Annualised equivalent amount for section MF 3(2)(b) |
 | --- | --- |
 |  | $ |
-| Amount does not exceed $36,827 | 36,827 |
-| Amount exceeds $36,827 but does not exceed $38,000 | 38,000 |
+| Amount does not exceed $36,350 | $36,350 |
+| Amount exceeds $36,350 but does not exceed $38,000 | 38,000 |
 | Amount exceeds $38,000 but does not exceed $39,500 | 39,500 |
 | Amount exceeds $39,500 but does not exceed $41,000 | 41,000 |
 | Amount exceeds $41,000 but does not exceed $42,500 | 42,500 |
