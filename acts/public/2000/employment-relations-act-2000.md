@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-05-15_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -250,6 +250,7 @@ The object of this Part is—
     (ii) democratic; and
     (iii) not unfairly discriminatory or unfairly prejudicial; and
     (iv) not contrary to law; and
+  (ca) the society's rules contain a provision relating to the process for holding a secret ballot for the purposes of this Act; and
   (d) the society is independent of, and is constituted and operates at arm's length from, any employer.
 (2) In deciding whether a society is entitled to be registered as a union, the Registrar of Unions may rely on the statutory declaration made under section 13(2)(c).
 
@@ -4305,3 +4306,23 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 4 Meaning of employee
 ((1)–(3)) Amendment(s) incorporated in the Act(s).
 (4) To avoid doubt, the amendments made by this section do not affect an employment agreement entered into before the commencement of this section.
+
+### 1 Title
+This Act is the Employment Relations (Secret Ballot for Strikes) Amendment Act 2012.
+
+### 2 Commencement
+(1) Sections 5 and 9 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force 1 year after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Employment Relations Act 2000.
+
+### 4 Purpose
+The purpose of this Act is to require unions to hold a secret ballot vote of their members to approve a strike before undertaking any strike action.
+
+### 9 Transitional provision
+(1) This section applies to a society whose rules do not comply with section 14(1)(ca) of the principal Act (as inserted by section 5 of this Act).
+(2) The society must amend its rules so that the rules comply with section 14(1)(ca) of the principal Act.
+(3) The society must amend its rules for the purposes of subsection (2)—
+  (a) as soon as is reasonably practicable after the commencement of section 5 of this Act; but
+  (b) no later than 2 years after the commencement of section 5 of this Act.
