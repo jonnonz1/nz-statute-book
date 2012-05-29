@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-05-07_
+_Consolidation as at 2012-05-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1995,13 +1995,13 @@ An employer that is not required to furnish an employer monthly schedule electro
     (iii) the date allowed by the Commissioner on application.
 (8) An application under subsection (7)﻿(b)﻿(iii) for an extension of time to make an election is treated as if it were an application under section 37 in relation to a return of income for the later of the tax years referred to in subsection (7)﻿(b)﻿(i) and (ii).
 
-### 41A Returns by persons with tax credits for housekeeping payments and charitable or other public benefit gifts
-(1) A person who has a tax credit under section LC 6 or sections LD 1 to LD 3 of the Income Tax Act 2007 may apply to the Commissioner for 1 or more refunds.
+### 41A Returns by persons with tax credits for charitable or other public benefit gifts
+(1) A person who has a tax credit under sections LD 1 to LD 3 of the Income Tax Act 2007 may apply to the Commissioner for 1 or more refunds.
 (2) The total amount refunded, including a refund made on an application under subsection (7), must be no more than the annual amount of the tax credits.
-(3) The sum of the housekeeping payments under section LC 6 of that Act and charitable or other public benefit gifts under sections LD 1 to LD 3 of that Act made by a person must be no more than their taxable income in the tax year in which the payment or gift, or both, is made.
-(4) If subsection (3) applies, the Commissioner must reduce, in equal portions, the total amount of housekeeping payments and charitable or other public benefit gifts so that the total is no more than the person’s taxable income in the tax year in which the payment or gift, or both, is made.
+(3) The sum of the charitable or other public benefit gifts under sections LD 1 to LD 3 of that Act made by a person must be no more than their taxable income in the tax year in which the gift is made.
+(4) If subsection (3) applies, the Commissioner must reduce the total amount of charitable or other public benefit gifts so that the total is no more than the person’s taxable income in the tax year in which the gift is made.
 (5) An application under subsection (1) must be made in the manner required by the Commissioner, be signed by the person, and be accompanied by any information the Commissioner requires, including—
-  (a) the amount of a housekeeping payment under section LC 6 of that Act; and
+  (a)
   (b) the amount of a charitable or other public benefit gift to which sections LD 1 to LD 3 of that Act apply.
 (6) A taxpayer with a standard balance date or an early balance date may apply for a refund for a tax year after 1 April that follows the end of the taxpayer’s income year. A taxpayer with a late balance date may apply for a refund for a tax year on or after the first day of the taxpayer’s next accounting year.
 (7) Despite subsection (6), the Commissioner may, in special circumstances, accept an application for a refund before the end of the tax year to which the application relates.
@@ -2009,7 +2009,7 @@ An employer that is not required to furnish an employer monthly schedule electro
   (a) the person leaving New Zealand, permanently or for a significant length of time:
   (b) a trustee of a deceased person’s estate wishing to wind up the estate.
 (9) Despite subsection (1), the Commissioner must not refund the amount of a tax credit unless the requirements of subsections (2) and (3) are met.
-(10) When the Commissioner has considered an application, the Commissioner must notify the person of the amount of the tax credit under section LC 6 or sections LD 1 to LD 3 of that Act and of the amount of refund allowed.
+(10) When the Commissioner has considered an application, the Commissioner must notify the person of the amount of the tax credit under sections LD 1 to LD 3 of that Act and of the amount of refund allowed.
 (11) A tax credit may not be refunded to an absentee, a company, a public authority, a Maori authority, an unincorporated body, or a trustee liable for income tax under sections HC 16, HC 32, or HZ 2 of that Act.
 (12) A refund under subsection (1) must be paid as if it were tax paid in excess.
 (13) A refund under subsection (1), to the extent to which it is more than the correct amount of refund, is recoverable as an excess tax credit under section 142D.
