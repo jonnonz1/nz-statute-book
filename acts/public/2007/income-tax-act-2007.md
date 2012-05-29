@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-05-07_
+_Consolidation as at 2012-05-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3795,6 +3795,28 @@ A distribution from a Maori authority to a member, to the extent to which it is 
 
 ### CW 55BA Tertiary education institutions
 An amount of income derived by a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual is exempt income.
+
+### CW 55BB Minors' income, to limited extent
+When this section applies
+(1) This section applies for a tax year to a person, other than an absentee, when the person is—
+  (a) younger than 15:
+  (b) younger than 18, and attends—
+    (i) a private primary school, state primary school, private secondary school, or state secondary school, in each case as defined in the Education Act 1964:
+    (ii) an integrated school as defined in section 2 of the Private Schools Conditional Integration Act 1975:
+    (iii) a school providing special education as defined in the Education Act 1964 and the Education Act 1989:
+  (c) younger than 19, and—
+    (i) was a person to whom paragraph (b) applied during the previous tax year; and
+    (ii) turned 18 on or after 1 January in that previous tax year; and
+    (iii) continues to attend a school of a kind referred to in paragraph (b).
+Exempt income—if less than limit
+(2) An amount of income derived by the person in the tax year is exempt income if—
+  (a) the income is none of—
+    (i) a PAYE income payment:
+    (ii) resident passive income:
+    (iii) non-resident passive income:
+    (iv) excluded income:
+    (v) exempt income under another provision; and
+  (b) the person derives in the tax year a total amount of income meeting the requirements of paragraph (a) that is less than $2,340.
 
 ### CW 55B Amounts of exempt income for partners
 A person who is a partner has an amount of exempt income to the extent to which an amount of exempt income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
@@ -8949,11 +8971,15 @@ Commissioner’s determination
 Restrictions
 (5) Restrictions apply to the use of valuation methods, as described in sections EC 8 to EC 10, and the making of elections, as described in section EC 11.
 
-### EC 8 Restrictions on use of herd scheme
+### EC 8 Restrictions arising from use of herd scheme
 Herd scheme: first restriction on use of other method
 (1) A valuation method other than the herd scheme is not available to a person, in an income year, for animals of a class for which they use the herd scheme if the animals remaining to be valued under the herd scheme would be reduced to a number smaller than the number of any animals of the class that the person valued under the herd scheme at the end of the previous income year.
 Herd scheme: second restriction on use of other method
 (2) A person who values livestock of a particular type under the herd scheme must value all male breeding stock of that type under the herd scheme in an income year if, in the income year, they also value any livestock of that type under the national standard cost scheme or under the cost price method.
+No election after 18 August 2011 to change from use of herd scheme
+(3) A valuation method other than the herd scheme is not available to a person, in an income year after the 2011–12 income year, for a type of specified livestock if the person—
+  (a) gives a notice of election, with application beginning for or before the income year, to use the herd scheme for the type of specified livestock; and
+  (b) does not give before 18 August 2011 a later notice of election, with application beginning for or before the income year, to use another valuation method for the type of specified livestock.
 
 ### EC 9 Restrictions on use of national standard cost scheme
 National standard cost scheme: first restriction on use of scheme
@@ -26280,181 +26306,34 @@ Definition of items in formula
 [Repealed]
 
 ### LC 3 Child’s income
-When this section applies
-(1) This section applies for a tax year when a person other than an absentee derives income and is younger than—
-  (a) 15; or
-  (b) 18, and is attending—
-    (i) a private primary school or a state primary school or a private secondary school or a state secondary school (in each case as defined in the Education Act 1964); or
-    (ii) an integrated school (as defined in section 2 of the Private Schools Conditional Integration Act 1975); or
-    (iii) a school providing special education (as defined in the Education Act 1964 and the Education Act 1989); or
-  (c) 19, and—
-    (i) during the previous tax year was a person to whom paragraph (b) applied; and
-    (ii) turned 18 on or after 1 January in that previous tax year; and
-    (iii) continues to attend a school of any of the kinds referred to in paragraph (b).
-Exclusion
-(2) Despite subsection (1), if the person has a tax credit under section LC 4, they are not allowed a credit under this section.
-Amount of credit
-(3) The person has a tax credit equal to an amount that is the lesser of—
-  (a) $245.70; and
-  (b) an amount calculated using the formula in subsection (4).
-Formula
-(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×10.5100.
-Definition of items in formula
-(5) In the formula,—
-  (a) net income is the person’s net income for the tax year:
-  (b) resident passive income is the resident passive income derived by the person in the tax year.
+[Repealed]
 
 ### LC 4 Tax credits for transitional circumstances
-When this section applies
-(1) This section applies in a tax year to a person who is engaged in full-time work other than a person who—
-  (a) is a child younger than 18, other than a child older than 15 who has stopped going to a school of any of the kinds referred to in section LC 3(1)(b):
-  (b) is treated under section YD 1 (Residence of natural persons) as not resident in New Zealand throughout the tax year:
-  (c) has a tax credit for the tax year under subpart MD, ME, or MZ (which relate to tax credits under the family scheme):
-  (d) is throughout the tax year, the spouse, civil union partner, or de facto partner of a person who has a tax credit for the tax year under subpart MD, ME, or MZ.
-Amount of credit
-(2) The person has a tax credit equal to an amount calculated using the formula—person's net income ×weekly periods52.
-Definition of items in formula
-(3) In the formula in subsection (2),—
-  (a) person’s net income is—
-    (i) $611.52, if the net income of the person for the tax year is less than $6,241; or
-    (ii) an amount calculated using the formula in subsection (4), if the net income of the person for the tax year is $6,241 or more:
-  (b) weekly periods is the number of periods of 1 week for which the person is engaged in full-time work.
-Formula
-(4) The formula referred to in subsection (3)(a)(ii) is—$611.52 − ((person’s net income − $6,240) × 0.168).
-Definition of item in formula
-(5) In the formula in subsection (4), person’s net income means the person’s net income for the tax year in complete dollars.
+[Repealed]
 
 ### LC 5 Meaning of engaged in full-time work
-Meaning
-(1) For the purposes of section LC 4, a person who is engaged in full-time work for a week, means a person who, in the week, is engaged in paid work for at least 20 hours.
-Inclusions
-(2) A person engaged in full-time work includes a person who is not engaged in paid work for the following reasons:
-  (a) if they suffer incapacity due to personal injury by accident for which compensation is or will be paid when otherwise they would have been engaged in paid work:
-  (b) if they are on parental leave during a week for which a parental leave payment is payable under Part 7A of the Parental Leave and Employment Protection Act 1987:
-  (c) if they are temporarily, or for an indefinite period, incapacitated for work through sickness or accident in relation to which a sickness benefit is or will be paid under the Social Security Act 1964 when otherwise they would have been engaged in paid work.
-Uniform daily rate
-(3) For the purposes of the definition of engaged in full-time work, if a person performs paid work in a pay period that consists of a period longer than 1 week, the person is treated as having been engaged in paid work at a uniform daily rate throughout that pay period.
-Meaning of personal injury by accident, and compensation
-(4) For the purposes of subsection (2)(a),—
-  (a) personal injury by accident means—
-    (i) personal injury by accident within the meaning of section 2 of the Accident Compensation Act 1982:
-    (ii) personal injury within the meaning of section 4 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (iii) personal injury within the meaning of section 13 of the Accident Insurance Act 1998:
-    (iv) personal injury within the meaning of section 6 of the Accident Compensation Act 2001:
-  (b) compensation means—
-    (i) earnings related compensation under section 2 of the Accident Compensation Act 1982:
-    (ii) compensation for loss of earnings payable under sections 38, 39, and 43 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (iii) a vocational rehabilitation allowance payable under section 25 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (iv) compensation for loss of potential earning capacity payable under section 45 or 46 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (v) weekly compensation payable under section 58, 59, or 60 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (vi) continued compensation payable under section 138 of the Accident Rehabilitation and Compensation Insurance Act 1992:
-    (vii) weekly compensation payable under section 428(2) or 429(2) or schedule 1, part 2 of the Accident Insurance Act 1998:
-    (viii) compensation payable under section 445, 446, or 447 or schedule 1, clauses 67, 70, and 71 of the Accident Insurance Act 1998 that is or will be paid when the person would have been engaged in full-time work, if not for the death of another person:
-    (ix) weekly compensation within the meaning of sections 6 and 365 and schedule 1, part 2 of the Accident Compensation Act 2001:
-    (x) compensation payable under sections 383, 384, and 385 and schedule 1, clauses 66, 70, and 71 of the Accident Compensation Act 2001.
-Meaning of paid work
-(5) Paid work, for a person, means work from, by, or through the performance of which the person derives assessable income.
+[Repealed]
 
 ### LC 6 Tax credits for housekeeping
-Amount of credit
-(1) A person, other than an absentee, who makes housekeeping payments in a tax year for the services of a housekeeper and who meets the requirements of section 41A of the Tax Administration Act 1994, has a tax credit equal to the lesser of—
-  (a) $310; and
-  (b) an amount calculated using the formula in subsection (2).
-Formula
-(2) The formula referred to in subsection (1)(b) is—housekeeping payments × 0.33.
-Definition of item in formula
-(3) In the formula, housekeeping payments is the amount of housekeeping payments that the person makes during the tax year in complete dollars.
-Refundable credits
-(4) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits under social policy schemes) and excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
+[Repealed]
 
 ### LC 7 Meaning of housekeeper
-Definition
-(1) For the purposes of section LC 6, housekeeper, for a person (person A) and a tax year, means,—
-  (a) if person A is a widow, a widower, a surviving civil union partner, a surviving de facto partner, a divorced person, a person whose civil union has been dissolved, a person who is not in a marriage, civil union, or de facto relationship, or a separated person,—
-    (i) a person or an institution that has the care and control of a household member, either in person A’s home or elsewhere; or
-    (ii) a person who tends person A’s home if the person’s services are necessary because of a mental or physical infirmity or disability of person A; or
-  (b) if person A is living with their spouse, civil union partner, or de facto partner,—
-    (i) a person or an institution that has the care and control of a household member, either in person A’s home or elsewhere, if the services of the person or the institution are necessary because of a mental or physical infirmity or disability of person A or their spouse, civil union partner, or de facto partner; or
-    (ii) a person who tends person A’s home, if the services of the person or the institution are necessary because of a mental or physical infirmity or disability of person A or their spouse, civil union partner, or de facto partner; or
-  (c) if person A is living with their spouse, civil union partner, or de facto partner, a person or an institution that has the care and control of a household member, either in person A’s home or elsewhere, if the services of the person or the institution are necessary because of the employment or business activities of both person A and their spouse, civil union partner, or de facto partner.
-When both partners have credits
-(2) Despite subsection (1)(c), if person A and their spouse, civil union partner, or de facto partner have a credit under section LC 6, the Commissioner may apportion the amount of the credit as is fair and equitable. The maximum amount that may be apportioned in this way is $310.
+[Repealed]
 
 ### LC 8 Some definitions
-For the purposes of sections LC 6 and LC 7,—
-  - **home** , for a person and a tax year,—
-    (a) means the dwelling in which the person resides during the tax year:
-    (b) does not include a motel, hotel, boardinghouse, guest house, convalescent home, nursing home, rest home, hospital, hospice, or other similar establishment, other than a part of an establishment that is occupied by any person regularly engaged in carrying on the activity of operating the establishment or by the person’s spouse, civil union partner, or de facto partner
-  - **household member** means a person who is—
-    (a) younger than 18; or
-    (b) suffering from a mental or physical infirmity or disability affecting their ability to earn a living
-  - **housekeeping payments** , in relation to a person and a tax year, means payments—
-    (a) that are made by the person during the tax year for the services of a housekeeper; and
-    (b) for which no credit under any other provision of this Act is allowed to the person or to any other person
-  - **institution** —
-    (a) means a creche, day nursery, play centre, kindergarten, or similar body:
-    (b) does not, in relation to the care and control of a household member who is 5 or older, include an institution that is, in any way, concerned with the education of the household member.
+[Repealed]
 
 ### LC 9 Tax credits for absentees
-When this section applies
-(1) This section applies when—
-  (a) an absentee has derived assessable income from their personal services while they are personally present in New Zealand in a tax year; and
-  (b) the absentee would have a tax credit under any of sections LC 3 to LC 6 if they were not an absentee.
-Amount of tax credit under applicable section
-(2) The absentee has a tax credit under the applicable section equal to an amount calculated using the formula—credit amount ×days365.
-Definition of items in formula
-(3) In the formula,—
-  (a) credit amount is the tax credit that the person would have under the applicable section if they were not an absentee:
-  (b) days is the total number of days in the period for which the person is paid for the personal services.
+[Repealed]
 
 ### LC 10 Adjustment for change in return date
-When this section applies
-(1) This section applies when—
-  (a) section 39 of the Tax Administration Act 1994 applies to a person; and
-  (b) for the purposes of that section, the person provides a return of income for a period that is—
-    (i) less than a year; or
-    (ii) more than a year.
-Adjustment
-(2) The amount of the total tax credits that the person has under this subpart is adjusted using the formula—person's total credit ×days365.
-Definition of items in formula
-(3) In the formula,—
-  (a) person’s total credits is the total of the person’s tax credits under sections LC 3 to LC 6:
-  (b) days is the number of days in the period in relation to which the person provides the return.
+[Repealed]
 
 ### LC 11 Adjustment when person is non-resident for part of tax year
-When this section applies
-(1) This section applies—
-  (a) for the purposes of section LC 4; and
-  (b) when a person is a non-resident for part of a tax year.
-Amount of tax credit under applicable section
-(2) The person’s tax credit under the applicable section is calculated—
-  (a) first, by determining an annualised amount for the person’s net income calculated using the formula in subsection (3); and
-  (b) second, by using the annualised amount calculated under paragraph (a) in the calculation of the credit in the applicable section; and
-  (c) third, by calculating the amount of the credit by using the formula in subsection (4).
-Formula: increasing net income
-(3) The formula referred to in subsection (2)(a) is—person's net income ×365days.
-Formula: reducing amount of credit
-(4) The formula referred to in subsection (2)(c) is—person's total credit ×days365.
-Definition of items in formulas
-(5) In the formulas in subsections (3) and (4),—
-  (a) person’s net income is the amount of the person’s net income for the period that the person is a New Zealand resident:
-  (b) days is the total number of days for which the person is a New Zealand resident:
-  (c) person’s total credit is the total of the person’s tax credits under the applicable section.
-Relationship with section LC 12
-(6) This section is overridden by section LC 12.
+[Repealed]
 
 ### LC 12 Assessment when person is non-resident
-When this section applies
-(1) This section applies—
-  (a) for the purposes of section LC 4; and
-  (b) when a person derives for a tax year assessable income having a source in New Zealand during the part of the tax year when the person is a non-resident.
-Determination of net income
-(2) The Commissioner may determine the amount of the net income of the person for the tax year.
-Fairness of determination
-(3) A determination under subsection (2) must be fair, having regard to—
-  (a) the kind of assessable income derived by the person; and
-  (b) the circumstances in which the assessable income is derived; and
-  (c) any other matters the Commissioner considers relevant to the intended meaning of section LC 4, as applicable.
+[Repealed]
 
 **Tax credits for independent earners**
 
@@ -36572,7 +36451,7 @@ In this Act, unless the context requires otherwise,—
     (b) is aged 16 or 17 years and is not financially independent; or
     (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Abating WFF tax credit) or both sections MD 1 and ME 1 (Minimum family tax credit)
   - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and in sections LC 4 and LC 13 (which relate to tax credits for natural persons) and in the definitions of , , and , does not include a separated person
+  - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and in section LC 13 (Tax credits for independent earners) and in the definitions of , , and , does not include a separated person
   - **claim** , in the life insurance rules, is defined in section EY 7 (Meaning of claim)
   - **claim of right** means a belief that an act is lawful, although the belief may be based on ignorance, or mistake, of—
     (a) fact; or
@@ -36662,7 +36541,7 @@ In this Act, unless the context requires otherwise,—
     (j) is further defined in section EX 30(7) (Direct income interests in FIFs) for the purposes of that section
   - **company dividend statement** means a statement required by section 67 of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
-  - **compensation** is defined in section LC 5(4) (Meaning of engaged in full-time work) for the purposes of that section
+  - **compensation**
   - **completed** , for a film, means the completion of the film to—
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
@@ -37067,7 +36946,7 @@ In this Act, unless the context requires otherwise,—
   - **employment limitation** is defined in section DA 2(4) (General limitations)
   - **employment-related loan** means a loan that is a fringe benefit
   - **end date** is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
-  - **engaged in full-time work** is defined in section LC 5 (Meaning of engaged in full-time work) for the purposes of section LC 4 (Tax credits for transitional circumstances)
+  - **engaged in full-time work**
   - **entering owner** ––
     (a) means a person who acquires an owner's interests for a look-through company:
     (b) includes a person who already has owner's interests for a look-through company when they acquire another owner's interests
@@ -37554,13 +37433,13 @@ In this Act, unless the context requires otherwise,—
   - **holding company** ,—
     (a) for a forestry company, means a company associated with the forestry company:
     (b) for a mining company, is defined in section CU 29 (Other definitions)
-  - **home** is defined in section LC 8 (Some definitions) for the purposes of section LC 7 (Meaning of housekeeper)
+  - **home**
   - **home ownership requirements** means home ownership requirements as defined in the Home Ownership Savings Act 1974
   - **home vendor mortgage** is defined in section LZ 8 (Meaning of home vendor mortgage) for the purposes of sections LZ 6 and LZ 7 (which relate to credits for interest on home vendor mortgages)
   - **honorarium** is defined in section CW 62B (Voluntary activities) for the purposes of that section
-  - **household member** is defined in section LC 8 (Some definitions) for the purposes of section LC 7 (Meaning of housekeeper)
-  - **housekeeper** is defined in section LC 7 (Meaning of housekeeper) for the purposes of section LC 6 (Tax credits for housekeeping)
-  - **housekeeping payments** is defined in section LC 8 (Some definitions) for the purposes of section LC 6 (Tax credits for housekeeping)
+  - **household member**
+  - **housekeeper**
+  - **housekeeping payments**
   - **ICA** means imputation credit account
   - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
@@ -37644,7 +37523,7 @@ In this Act, unless the context requires otherwise,—
     (c) both
   - **instalment date** means a date for payment of provisional tax for a tax year that is the day and month specified for a person with a provisional tax liability in schedule 3, part A (Payment of provisional tax and terminal tax)
   - **instalment period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
-  - **institution** is defined in section LC 8 (Some definitions) for the purposes of section LC 7 (Meaning of housekeeper)
+  - **institution**
   - **insurance** ,—
     (a) in section CR 3 (Income of non-resident general insurer) means insurance of a kind described in section CR 3(3):
     (b) in section YD 8 (Apportionment of premiums derived by non-resident general insurers) means insurance of a kind described in section YD 8(4)(a)
@@ -38208,7 +38087,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include a tree planted mainly for the purposes of timber production
   - **non-participating redeemable share** is defined in section CD 22(9) (Returns of capital: off-market share cancellations)
   - **non-refundable tax credit** means—
-    (a) a tax credit under subpart LC (Tax credits for natural persons), excluding section LC 6 (Tax credits for housekeeping):
+    (a) a tax credit under subpart LC (Tax credits for natural persons):
     (ab) a tax credit under section LD 4 (Tax credits for payroll donations):
     (b) a tax credit under subpart LJ (Tax credits for foreign income tax):
     (c) a tax credit under subpart LK (Tax credits relating to attributed controlled foreign company income):
@@ -38315,7 +38194,7 @@ In this Act, unless the context requires otherwise,—
     (b) for the ownership of depreciable property, is defined in sections EE 2 to EE 5 (which relate to depreciation)
   - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section and section YC 18B (Corporate reorganisations not affecting economic ownership)
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
-  - **paid work** is defined in section LC 5(5) (Meaning of engaged in full-time work) for the purposes of that section
+  - **paid work**
   - **parental entitlement period** means the period of time described in section MD 11(1)(b)(i) (Entitlement to parental tax credit)
   - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **Part F activity** is defined in schedule 4, part F, clause 7 (Rates of tax for schedular payments)
@@ -38384,7 +38263,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 3(2) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 37(2) (Persons to whom adverse event income equalisation scheme applies) for the purposes of the adverse event income equalisation scheme:
     (c) is defined in section EH 63(2) (Persons to whom thinning operations income equalisation scheme applies) for the purposes of the thinning operations income equalisation scheme
-  - **personal injury by accident** is defined in section LC 5(4) (Meaning of engaged in full-time work) for the purposes of that section
+  - **personal injury by accident**
   - **personal property** , in sections CB 4 (Personal property acquired for purpose of disposal) and CB 5 (Business of dealing in personal property) does not include land
   - **personal property lease asset** —
     (a) means any personal property subject to a lease; and
@@ -38862,7 +38741,7 @@ In this Act, unless the context requires otherwise,—
       (ii) disease or sickness of livestock; and
     (b) materially affects the business; and
     (c) is described, together with the effect on the business, by the person in a statutory declaration given to the Commissioner
-  - **separated person** , in section LC 7 (Meaning of housekeeper), subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of and , means a person who is separated and living apart from their spouse or civil union partner, whether under an agreement for separation, or under a court order, or otherwise
+  - **separated person** , in subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of and , means a person who is separated and living apart from their spouse or civil union partner, whether under an agreement for separation, or under a court order, or otherwise
   - **services** ,—
     (a) in sections CD 5 (What is a transfer of value?) and EA 3 (Prepayments), means anything that is not goods, money, or a chose in action:
     (b) in sections CX 1 (Goods and services tax) and DB 2 (Goods and services tax), means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
@@ -39041,7 +38920,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 62 (Other definitions) for the purposes of the adverse event income equalisation scheme:
     (c) is defined in section EH 79 (Other definitions) for the purposes of the thinning operations income equalisation scheme
-  - **spouse** , in section LC 4 (Tax credits for transitional circumstances) and subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of , , and , does not include a separated person
+  - **spouse** , in subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of , , and , does not include a separated person
   - **spreading method** means a method listed in section EW 14(2) (What spreading methods do)
   - **stallion** means a stallion that is bloodstock
   - **standard accounting year** has the meaning given in section YE 1(4) (References to balance dates and years)
