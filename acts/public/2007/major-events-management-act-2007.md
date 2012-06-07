@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2012-06-07_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -750,6 +750,8 @@ New Zealand Olympic and Commonwealth Games Association Incorporated
 New Zealand Olympic Committee Incorporated
 New Zealand Olympic Team
 New Zealand Youth Olympic Festival Team
+New Zealand Youth Olympic Team
+New Zealand Youth Olympic Winter Team
 Olympic Games
 Olympic Gold
 
@@ -761,14 +763,26 @@ Olympic Gold
 
 ### Part 3 — Words relating to Olympic and Commonwealth Games
 
-### 1 The expressions Turin 2006, Torino 2006, Melbourne 2006, Beijing 2008, and any words in column A when used in connection with any words in column B.
-Column AColumn BCommonwealthTurinGamesTorinoOlympiadMelbourneOlympianBeijingOlympic2006200820thTwentiethXXth26thTwenty-sixthXXVIth29thTwenty-ninthXXIXth
-
-### 2 The expressions Games City, Gold Games, One Team One Spirit, and One Team Our Team.
-[Repealed]
-
-### 3 Any abbreviation, extension, or derivation of a word or words in clause 1 or 2.
-[Repealed]
-
-### 4 Words that have the same meaning as, or a similar meaning to, a word or words in clause 1 or 2.
-[Repealed]
+| Column A | Column B |
+| --- | --- |
+| Commonwealth | Innsbruck |
+| Games | London |
+| Olympiad | Sochi |
+| Olympian | Glasgow |
+| Olympic | Rio de Janeiro |
+| Olympics | Rio |
+| Winter Olympics | 2012 |
+|  | 2014 |
+|  | 2016 |
+|  | First |
+|  | 1st |
+|  | I |
+|  | Twentieth |
+|  | 20th |
+|  | XXth |
+|  | 26th |
+|  | Twenty-sixth |
+|  | XXVIth |
+|  | 29th |
+|  | Twenty-ninth |
+|  | XXIXth |
