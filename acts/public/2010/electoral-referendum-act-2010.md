@@ -1,5 +1,5 @@
 # Electoral Referendum Act 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2012-06-11_
 
 ### 1 Title
 This Act is the Electoral Referendum Act 2010.
