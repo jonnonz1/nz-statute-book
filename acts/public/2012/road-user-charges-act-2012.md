@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2012-02-20_
+_Consolidation as at 2012-06-15_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
