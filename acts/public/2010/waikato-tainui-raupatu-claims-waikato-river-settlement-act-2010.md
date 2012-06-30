@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2010-11-25_
+_Consolidation as at 2012-06-30_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -131,6 +131,7 @@ The purpose of this Act is to—
       (ii) does not include the Auckland Council:
     (d) for the purposes of any other provisions of this Act, has the meaning given to it by the Resource Management Act 1991
   - **memorialised lands** means the land described in Schedule 2 of the 1995 Act
+  - **mixed ownership model company** has the meaning given to it by section 45P of the Public Finance Act 1989
   - **principles described in the Kiingitanga Accord** means the principles set out in Schedule 1
   - **public notice** means a notice published—
     (a) in 1 or more daily newspapers circulating in the Waikato region; or
@@ -833,16 +834,17 @@ The provisions of this Act relating to joint management agreements do not preclu
   (c) the 2009 deed and this Act are primarily concerned with management of the Waikato River to—
     (i) achieve the overarching purpose of the settlement:
     (ii) recognise the special relationship of Waikato-Tainui with the Waikato River.
-(2) This section applies if the Crown, a Crown entity, or a state enterprise proposes doing any of the following actions in relation to a property right or interest in the Waikato River:
+(2) This section applies if the Crown, a Crown entity, a state enterprise, or a mixed ownership model company proposes doing any of the following actions in relation to a property right or interest in the Waikato River:
   (a) creating it:
   (b) disposing of it:
   (c) starting a statutory or other process to create it:
   (d) starting a statutory or other process to dispose of it.
-(3) The Crown, Crown entity, or state enterprise must engage with Waikato-Tainui in accordance with the principles described in the Kiingitanga Accord before doing the action.
+(3) The Crown, Crown entity, state enterprise, or mixed ownership model company must engage with Waikato-Tainui in accordance with the principles described in the Kiingitanga Accord before doing the action.
 (4) In subsection (2), dispose of or create a property right or interest,—
   (a) in relation to a Crown entity or state enterprise, includes only activities—
     (i) that relate to an asset held by that entity or enterprise; and
     (ii) the nature of which is such that the entity or enterprise would either in the ordinary course, or as a result of a statutory requirement or under a statement of intent or otherwise, consult with the responsible Minister or the shareholding Ministers, as the case may be; and
+  (aa) in relation to a mixed ownership model company, includes only activities that relate to an asset held by that company; and
   (b) does not include—
     (i) any decision in relation to which consideration is required to be given to the vision and strategy under section 17; or
     (ii) any decision relating to a permit under the Crown Minerals Act 1991.
