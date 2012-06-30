@@ -1,5 +1,5 @@
 # Manapouri - Te Anau Development Act 1963
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2012-06-30_
 
 > An Act to validate an agreement between Her Majesty the Queen and Consolidated Zinc Proprietary Limited in respect of the utilisation by the Crown of the water resources of Lakes Manapouri and Te Anau and of the Waiau and Mararoa Rivers for the generation of electrical power for industrial and other purposes
 
@@ -14,7 +14,7 @@ This Act may be cited as the Manapouri - Te Anau Development Act 1963.
 In this Act, unless the context otherwise requires,—
   - **the agreement** means the agreement between the Minister and the Company, a copy of which is set out in the Schedule
   - **the Company** means Consolidated Zinc Proprietary Limited, a company duly incorporated in Victoria, Australia, and includes its permitted assigns
-  - **corporation** means a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is for the time being the owner of the assets known as Manapouri Power Station
+  - **corporation** means a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986, or a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989), that is for the time being the owner of the assets known as Manapouri Power Station
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **the said water resources** means the water resources of Lakes Manapouri and Te Anau and the water resources of the Waiau and Mararoa Rivers and all tributaries thereof from their respective sources to a point 5 miles below the confluence of the said rivers; and includes the water resources of all other rivers flowing into the said lakes and their tributaries
   - **sea level** means mean sea level at Deep Cove.
@@ -41,15 +41,15 @@ In this Act, unless the context otherwise requires,—
   (d) for the purposes of this Act, to construct tunnels under private land, or aqueducts and flumes over the same, and to erect electric lines as defined in section 319 of the Public Works Act 1928 over or along any such land, without being bound to acquire the same, and with right of way to and along any such works and erections:
   (e) to supply and sell electrical power generated from the said water resources, and recover money due for the same.
 (2)
-(3) Except as otherwise provided in this Act or in the agreement all the provisions of the Public Works Act 1928 shall operate as if the powers conferred on the corporation by this section were conferred on him by an Order in Council made under section 311 of that Act.
+(3) Except as otherwise provided in this Act or in the agreement all the provisions of the Public Works Act 1928 shall operate as if the powers conferred on the corporation by this section were conferred on it by an Order in Council made under section 311 of that Act.
 
 ### 4A Operating guidelines for levels of Lakes Manapouri and Te Anau
-(1) The Minister shall from time to time promulgate, by notice in the Gazette, operating guidelines, based on recommendations submitted to him by the Guardians of Lakes Manapouri and Te Anau and the corporation, for the levels of those lakes aimed to protect the existing patterns, ecological stability, and recreational values of their vulnerable shorelines and to optimise the energy output of the Manapouri power station.
+(1) The Minister shall from time to time promulgate, by notice in the Gazette, operating guidelines, based on recommendations submitted to him or her by the Guardians of Lakes Manapouri and Te Anau and the corporation, for the levels of those lakes aimed to protect the existing patterns, ecological stability, and recreational values of their vulnerable shorelines and to optimise the energy output of the Manapouri power station.
 (2) Notwithstanding anything in section 4, anything operated, used, constructed, or provided pursuant to that section shall, except in exceptional natural circumstances or where life or structures are endangered, comply with the operating guidelines promulgated by the Minister under subsection (1).
 (3) Details of any departure from the operating guidelines shall be reported as soon as practicable to the Minister and the Minister of Conservation, and shall be included in the annual report of the department of State for the time being responsible for the administration of this Act made under section 43 of the Public Finance Act 1989.
 
 ### 5 Preservation of natural scenery and fishery
-Before exercising any power conferred on him by section 4 within the Fiordland National Park, the corporation shall consult—
+Before exercising any power conferred on it by section 4 within the Fiordland National Park, the corporation shall consult—
   (a) the Minister of Conservation on the measures to be taken with a view to preserving natural scenery that may be affected by the exercise of the power:
   (b) the Minister of Conservation on measures to be taken to minimise any adverse effects on the trout fishery in Lakes Manapouri and Te Anau that may result from the exercise of the power.
 
