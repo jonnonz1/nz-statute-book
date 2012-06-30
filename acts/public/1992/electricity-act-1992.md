@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2012-06-30_
 
 > Title
 
@@ -39,7 +39,7 @@ The purposes of this Act are—
   - **consumer** —
     (a) means any person who is supplied, or who applies to be supplied, with electricity; but
     (b) does not include any electricity generator or any electricity distributor or electricity retailer, except where the electricity generator or, as the case may be, the electricity distributor or electricity retailer is supplied, or applies to be supplied, with electricity for its own consumption and not for the purposes of resupply to any other person
-  - **corporation** means a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is a generator of electricity and includes any subsidiary of any such State enterprise
+  - **corporation** means a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986) or a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that is a generator of electricity, and includes any of its subsidiaries
   - **document** has the same meaning as in section 2(1) of the Official Information Act 1982
   - **dwellinghouse** means any building or part of a building occupied as a separate dwelling; but does not include a meter box or meter located on the exterior of the building or the part of the building
   - **electrical appliance** means any appliance that uses, or is designed or intended to use, electricity, whether or not it also uses, or is designed or intended to use, any other form of energy
