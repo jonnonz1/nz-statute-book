@@ -1,5 +1,5 @@
 # Ngāi Tahu Claims Settlement Act 1998
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-06-30_
 
 > An Act—ato record the apology given by the Crown to Ngāi Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Rūnanga o Ngāi Tahu; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāi Tahu claims
 
@@ -143,7 +143,7 @@ In this Act, unless the context otherwise requires,—
   - **Crown** ,—
     (a) except for the purposes of Part 9, means Her Majesty the Queen in right of New Zealand:
     (b) for the purposes of Part 9, has the same meaning as in section 2(1) of the Public Finance Act 1989
-  - **Crown body** means the Crown (whether acting through a Minister of the Crown or otherwise) or a Crown entity or a State enterprise or any company which is wholly-owned by a Crown entity or a State enterprise, and, for the purposes of Part 9, includes trustees to which section 50(j) applies and any person to whom section 50(m) applies
+  - **Crown body** means the Crown (whether acting through a Minister of the Crown or otherwise) or a Crown entity, a State enterprise, or a mixed ownership model company, or a company that is wholly-owned by a Crown entity, a State enterprise, or a mixed ownership model company, and, for the purposes of Part 9, includes trustees to which section 50(j) applies and any person to whom section 50(m) applies
   - **Crown entity** has the same meaning as in section 2(1) of the Public Finance Act 1989 and, for the purposes of Part 9, includes the New Zealand Railways Corporation
   - **Crown forest land** has the meaning given to it in section 7 of the deed of settlement
   - **Crown Forestry Rental Trust** means the forestry rental trust established under the Crown Forest Assets Act 1989
@@ -208,6 +208,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** ,—
     (a) for the purposes of Part 13, means the Minister of Conservation; and
     (b) for the purposes of Part 15, means the Minister in Charge of Treaty of Waitangi Negotiations
+  - **mixed ownership model company** has the same meaning as in section 45P of the Public Finance Act 1989
   - **Mount Cook National Park** means the Mount Cook National Park established under the National Parks Act 1980
   - **national park** has the same meaning as in section 2 of the National Parks Act 1980
   - **national park management plan** means a management plan as defined in section 2 of the National Parks Act 1980
@@ -565,7 +566,7 @@ The purpose of this Part is to provide for the legislative matters contemplated 
     (b) the terms of the last of any written offers subsequently made by Te Rūnanga o Ngāi Tahu during the 1-month period specified in section 66
   - **Crown** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **Crown body** —
-    (a) means the Crown (whether acting through a Minister of the Crown or otherwise), a Crown entity, a State enterprise, or any company that is wholly-owned by a Crown entity or a State enterprise; and
+    (a) means the Crown (whether acting through a Minister of the Crown or otherwise), a Crown entity, a State enterprise, a mixed ownership model company, or a company that is wholly-owned by a Crown entity, a State enterprise, or a mixed ownership model company; and
     (b) includes—
       (i) trustees to which section 50(j) applies; and
       (ii) any person to whom section 50(m) applies
@@ -583,6 +584,7 @@ The purpose of this Part is to provide for the legislative matters contemplated 
         (A) the reserve is vested in another person to hold and administer as a reserve under the Reserves Act 1977; and
         (B) the reserve would revest in the Crown if its status as a reserve were subsequently revoked
   - **lease** includes a concession in the form of a lease, and any right that grants exclusive possession
+  - **mixed ownership model company** has the same meaning as in section 45P of the Public Finance Act 1989
   - **public valuer** has the same meaning as in section 2 of the Valuers Act 1948
   - **relevant land** means—
     (a) that land of The Power Company Limited described in Schedule 5:
