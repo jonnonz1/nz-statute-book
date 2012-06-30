@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-06-30_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -432,7 +432,7 @@ Notwithstanding anything in sections 40 and 42, where any land to which section 
 (4) No solatium payment payable under this section in respect of the loss of the opportunity to purchase any land shall exceed $20,000.
 
 ### 42B Notice of right to apply for solatium payment
-(1) Where the chief executive of the department within the meaning of section 2 of the Survey Act 1986 is advised by a State enterprise within the meaning of the State-Owned Enterprises Act 1986 that any land held by that State enterprise for a public work is no longer required for a public work, that chief executive shall ascertain—
+(1) Where the chief executive of the department within the meaning of section 2 of the Survey Act 1986 is advised by a State enterprise within the meaning of the State-Owned Enterprises Act 1986 or a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that any land held by that State enterprise or mixed ownership model company for a public work is no longer required for a public work, that chief executive shall ascertain—
   (a) whether an offer under section 40 or section 41 is required to be made to any person in respect of that land; and
   (b) whether, in his or her opinion, any person is entitled to apply to the Land Valuation Tribunal under section 42A for a solatium payment for the loss of the opportunity to purchase that land.
 (2) Where the chief executive of the department within the meaning of section 2 of the Survey Act 1986 ascertains, under subsection (1), that any person is, in the opinion of that chief executive, entitled to apply to the Land Valuation Tribunal under section 42A for a solatium payment in respect of the loss of the opportunity to purchase that land, that chief executive shall advise that person in writing of that person's entitlement.
