@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-06-30_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -231,7 +231,7 @@ To help to achieve its purpose, when compensation is sought from a court or trib
 Nothing in this subpart prevents a person under control or supervision from complaining to, or seeking the assistance of, an authority, official agency or body, or statutory officer.
 
 ### 16 Expiry of subpart
-This subpart expires with the close of 30 June 2012.
+This subpart expires with the close of 30 June 2013.
 
 ### Subpart 2 — Victims’ claims
 
@@ -240,11 +240,11 @@ This subpart expires with the close of 30 June 2012.
 ### 17 Compensation of prisoners, etc, must be paid to Secretary
 (1) A person must pay to the Secretary, immediately, all money that, after the commencement of this Act, the person becomes liable to pay as compensation and—
   (a) in satisfaction of a court's or tribunal's final judgment—
-    (i) on a specified claim made before 1 July 2012; and
-    (ii) given after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2012; or
+    (i) on a specified claim made before 1 July 2013; and
+    (ii) given after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013; or
   (b) as, or as part of, an out-of-court final settlement—
-    (i) of a specified claim made before 1 July 2012; and
-    (ii) concluded after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2012.
+    (i) of a specified claim made before 1 July 2013; and
+    (ii) concluded after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013.
 (2) For the purposes of subsection (1)(a), a judgment of a court or tribunal (whether at first instance or on appeal) is final—
   (a) when the time for filing appeals against the judgment expires and no appeals of that kind have been filed; or
   (b) if appeals against the judgment may be brought or heard only by leave, when—
