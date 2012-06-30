@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1988
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2012-06-30_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -41,18 +41,13 @@ There shall be paid out of the National Roads Fund established under the Nationa
 **Solid Energy New Zealand Limited**
 
 ### 7 Amendment to State-Owned Enterprises Act 1986
-(1) The State-Owned Enterprises Act 1986 is hereby amended by omitting from Schedule 1, and also from Schedule 2, the words Solid Energy New Zealand Limited.
-(2) Notwithstanding the coming into force of subsection (1), sections 22 and 30 of the State-Owned Enterprises Act 1986 shall, so long as Ministers of the Crown continue to hold shares in the Solid Energy New Zealand Limited, continue to apply in relation to the Solid Energy New Zealand Limited as if it were a State enterprise and a company named in Schedule 2 of that Act.
-(3) Notwithstanding the coming into force of subsection (1) and whether or not all or any of the shares in Solid Energy New Zealand Limited are held by Ministers of the Crown on behalf of the Crown, sections 23 to 29 of the State-Owned Enterprises Act 1986 and any Order in Council made at any time pursuant to any of those sections shall continue to apply after the coming into force of subsection (1) as if—
-  (a) Solid Energy New Zealand Limited were a State enterprise named in Schedule 2 of that Act; and
-  (b) the Minister of Finance and the Minister for State-Owned Enterprises were the shareholding Ministers for Solid Energy New Zealand Limited.
-(4) Each Minister of the Crown who holds shares in Solid Energy New Zealand Limited on behalf of Her Majesty the Queen may exercise all or any of Her Majesty's rights and powers as the holder of those shares.
+[Repealed]
 
 ### 8 Amendment to Official Information Act 1982
-The Official Information Act 1982 is hereby amended by omitting from Schedule 1 (as substituted by section 23(1) of the Official Information Amendment Act 1987) the words Solid Energy New Zealand Limited.
+[Repealed]
 
 ### 9 Amendment to Ombudsmen Act 1975
-The Ombudsmen Act 1975 is hereby amended by omitting from Part 2 of Schedule 1 (as amended by section 32(1) of the State-Owned Enterprises Act 1986) the words Solid Energy New Zealand Limited.
+[Repealed]
 
 ### 10 Amendment to Income Tax Act 1976
 [Repealed]
