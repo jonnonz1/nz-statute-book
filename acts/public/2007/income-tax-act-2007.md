@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-05-29_
+_Consolidation as at 2012-06-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3591,6 +3591,8 @@ Exclusion: certain public authorities
   (a) Public Trust:
   (b) State enterprises:
   (c) Crown Research Institutes.
+Exclusion: mixed-ownership enterprises
+(5B) Subsection (2) does not apply to an amount of income derived by a mixed-ownership enterprise.
 Meaning of public authority
 (6) In this section, public authority includes the Reserve Bank of New Zealand.
 
@@ -25267,6 +25269,8 @@ Meaning
   (b) if a market value circumstance exists for a company that is part of a group of companies, common market value interests that add up to at least 66%.
 Part of group at time or for period
 (2) A company is treated as part of a group of companies at a particular time or for a particular period if the minimum common interests referred to in subsection (1) exist at the relevant time or are kept for the whole of the relevant period. But it is not necessary that the group of persons holding the interests stays the same for the whole of the relevant period.
+Restriction for mixed-ownership enterprises
+(2A) A mixed-ownership enterprise may be included in a group of companies only if, at the particular time or for the particular period, no other company in the group is a mixed-ownership enterprise.
 When multi-rate PIEs included in group
 (2B) In relation to 2 or more companies of which 1 is a multi-rate PIE, the companies are treated as a group of companies at a particular time or for a particular period if—
   (a) the PIE owns 100% of the voting interests in the other companies; and
@@ -25603,7 +25607,7 @@ Modified requirements
   (c) company B provides the Commissioner with adequate financial statements under section IP 6; and
   (d) company A notifies the Commissioner of the treatment of the tax loss under section IP 7.
 Determining amounts
-(3) For the purposes of determining the amount of the loss balance that company A and company B may use, Isections C 5 and IC 8 (which relate to the treatment of tax losses by companies) apply as if the common span were a tax year.
+(3) For the purposes of determining the amount of the loss balance that company A and company B may use, sections IC 5 and IC 8 (which relate to the treatment of tax losses by companies) apply as if the common span were a tax year.
 
 ### IP 6 Financial statements required
 Financial statements required from company: section IP 3
@@ -25934,7 +25938,7 @@ Cancellation of life insurer's tax loss
 When this section applies
 (1) This section applies when a supplementary dividend holding company derives a supplementary dividend in a tax year.
 Limit on amount
-(2) If the company has a tax loss that is a tax loss component under section IA 2(4) (Tax losses), and is entitled to use the amount under section IA 3, IA 4, IC 5, IS 3, or IS 4 (which relate to a company’s use of tax losses), the maximum amount that it may use must be no more than the amount calculated using the formula—net income − credits + supplementary dividertax rate.
+(2) If the company has a tax loss that is a tax loss component under section IA 2(4) (Tax losses), and is entitled to use the amount under section IA 3, IA 4, IC 5, IS 3, or IS 4 (which relate to a company’s use of tax losses), the maximum amount that it may use must be no more than the amount calculated using the formula—net income−credits + supplementary dividertax rate.
 Definition of items in formula
 (3) In the formula,—
   (a) net income is the company’s net income for the tax year:
@@ -26093,7 +26097,7 @@ Part-year tax losses carried forward
 Financial statements
 (3) For the purposes of subsection (2), the company must provide the Commissioner with adequate financial statements relating to the relevant part-period that disclose the amount that would be the tax loss for the relevant part of the tax year, on a fair and reasonable basis of attribution.
 Application of subsection (7B)
-(4) In subsection (1), the reference to subsection (7B) applies to the extent to which regard was required to be had to that part of the period starting with 8.00pm New Zealand Standard Time on 30 July 1991 which falls within the tax year in which the tax loss component arises, and without prejudice to the application of that subsection to the extent to which it required regard to be had to later periods.
+(4) In subsection (1), the reference to subsection (7B) applies to the extent to which regard was required to be had to that part of the period starting with 8.00 pm New Zealand Standard Time on 30 July 1991 which falls within the tax year in which the tax loss component arises, and without prejudice to the application of that subsection to the extent to which it required regard to be had to later periods.
 
 ### IZ 7 Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92
 Commonality period: between 1981–82 and 1991–92
@@ -26288,7 +26292,7 @@ When this section applies
   (b) the person pays another person (the provider) for providing the key aspect to them for the period; and
   (c) the amount paid to the provider is less than the amount of the personal service rehabilitation payment to the person for the period after taking into account any amount of tax withheld.
 Tax credit
-(2) The person has a tax credit for the tax year corresponding to the income year in which the period falls to the extent of the amount calculated using the formula—total tax withheld − amount paid × tax rate1 − tax rate.
+(2) The person has a tax credit for the tax year corresponding to the income year in which the period falls to the extent of the amount calculated using the formula—total tax withheld−amount paid × tax rate1 − tax rate.
 Definition of items in formula
 (3) In the formula,—
   (a) total tax withheld is the total amount of tax withheld from the personal service rehabilitation payment paid to the person for the period:
@@ -26844,7 +26848,7 @@ For the purposes of this Part, a person has a segment of foreign-sourced income 
 What this section does
 (1) This section provides the rules that a person must use to calculate the amount of New Zealand tax for an income year in relation to each segment of foreign-sourced income of the person that is allocated to the income year.
 Calculation for single segment
-(2) If the person has a notional income tax liability of more than zero, the amount of New Zealand tax for the income year relating to the allocated segment is calculated using the following formula, the result of which can not be less than zero:(segment − person's deductions)× notional liability.person's net income
+(2) If the person has a notional income tax liability of more than zero, the amount of New Zealand tax for the income year relating to the allocated segment is calculated using the following formula, the result of which can not be less than zero:(segment − person's deductions)×notional liability.person's net income
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) segment is the amount of the segment of foreign-sourced income for the income year:
@@ -26873,7 +26877,7 @@ When this section applies
 When credit not allowed
 (2) The person is not allowed a tax credit in relation to any foreign income tax paid on the taxable distribution unless the tax has substantially the same nature as non-resident withholding tax (NRWT).
 Amount of credit
-(3) The person’s tax credit is equal to an amount calculated using the formula—person's taxable distribution× foreign tax paid.total distribution
+(3) The person’s tax credit is equal to an amount calculated using the formula—person's taxable distribution×foreign tax paid.total distribution
 Definition of items in formula
 (4) In the formula,—
   (a) person’s taxable distribution is the amount of the taxable distribution derived by the person in their capacity as beneficiary of the trust, including a payment of tax that meets the requirements of subsection (2):
@@ -26962,7 +26966,7 @@ Associated persons
 
 ### LK 2 Calculation of amount of credit
 Amount of credit
-(1) For the purposes of section LK 1(1), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula—section EX 18 income interest× (tax paid − excluded foreign tax).
+(1) For the purposes of section LK 1(1), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula—section EX 18 income interest × (tax paid − excluded foreign tax).
 Definition of items in formula
 (2) In the formula,—
   (a) section EX 18 income interest is the income interest of the person used to calculate attributed CFC income under section EX 18 (Formula for calculating attributed CFC income or loss) for the accounting period corresponding to the tax year:
@@ -27051,7 +27055,7 @@ When this section applies
 When credit not allowed
 (2) The person does not have a tax credit in relation to tax paid on the taxable distribution unless the tax is substantially the same as non-resident withholding tax (NRWT).
 Amount of tax on distribution
-(3) The amount of tax that gives rise to the credit must not be more than an amount calculated using the formula—person's taxable distribution× foreign tax paid.total distribution
+(3) The amount of tax that gives rise to the credit must not be more than an amount calculated using the formula—person's taxable distribution×foreign tax paid.total distribution
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) person’s taxable distribution is the amount of the taxable distribution derived by the CFC, including a payment of tax that meets the requirements of subsection (2):
@@ -27321,7 +27325,7 @@ When rules do not apply
 
 ### LP 10 Limitation on deductions
 Limitation on total annual deductions
-(1) Despite section BD 4 (Allocation of deductions to particular income years), the annual total deduction of a supplementary dividend holding company under section BC 3 (Annual total deduction) for a tax year must not be more than an amount calculated using the formula—company's income −total credit's + supplementary dividendstax rate.
+(1) Despite section BD 4 (Allocation of deductions to particular income years), the annual total deduction of a supplementary dividend holding company under section BC 3 (Annual total deduction) for a tax year must not be more than an amount calculated using the formula—company's income−total credit's + supplementary dividendstax rate.
 Definition of items in formula
 (2) In the formula,—
   (a) company’s income is the supplementary dividend holding company’s income for the income year that corresponds to the tax year:
@@ -27483,7 +27487,7 @@ Relationship to section LZ 7
 Maximum amount: 1 person
 (1) If only 1 person has provided the loan secured by a home vendor mortgage, the maximum amount of tax credit that the person is entitled to under section LZ 6 in a tax year is $500.
 Maximum amount: 2 or more persons
-(2) When 2 or more persons have provided the loan secured by a home vendor mortgage, for each person who has provided the loan, the maximum amount of tax credit under section LZ 6 in a tax year is calculated using the formula—loan provided× 500.loan secured
+(2) When 2 or more persons have provided the loan secured by a home vendor mortgage, for each person who has provided the loan, the maximum amount of tax credit under section LZ 6 in a tax year is calculated using the formula—loan provided×500.loan secured
 Definition of items in formula
 (3) In the formula,—
   (a) loan provided is the amount of the loan provided by the persons:
@@ -27625,7 +27629,7 @@ Transitional adjustments
 
 ### MB 2 Adjustment for period that is less or more than 1 year
 Calculation of adjustment
-(1) If a person’s income is calculated for a period that is less or more than a year, their family scheme income must be adjusted by an amount calculated using the formula—person's family scheme income ×365days.
+(1) If a person’s income is calculated for a period that is less or more than a year, their family scheme income must be adjusted by an amount calculated using the formula—person's family scheme income×365days.
 Definition of items in formula
 (2) In the formula,—
   (a) person’s family scheme income is the person’s income calculated under subparts MB to MF and MZ:
@@ -27647,7 +27651,7 @@ Definition
 When this section applies
 (1) This section applies for the purposes of determining the amount that represents the family scheme income of a person for an income year when the person is a major shareholder in a close company on the last day of the company's balance date for financial purposes. If the company has paid the major shareholder a dividend in the income year, the amount of family scheme income calculated under subsection (2) is reduced by the total dividends paid for the income year.
 What is included in family scheme income
-(2) The person’s family scheme income includes an amount calculated using the formula—person's shares× company's income.company's shares
+(2) The person’s family scheme income includes an amount calculated using the formula—person's shares×company's income.company's shares
 Definition of items in formula
 (3) In the formula,—
   (a) person’s shares is the number of shares issued by the company and held by the person, excluding fixed-rate shares, on the last day of the company’s accounting year:
@@ -27935,7 +27939,7 @@ Credit abatements
 Entitlement
 (1) A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to an amount of family tax credit calculated using the formula in subsection (2).
 Formula
-(2) The formula is—prescribed amount ×days365.
+(2) The formula is—prescribed amount×days356.
 Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
@@ -28025,7 +28029,7 @@ Absence from work due to birth of child
 Entitlement
 (1) A person who meets the requirements of section MD 4 is entitled to an in-work tax credit calculated using the formula in subsection (2).
 Formula
-(2) The formula is—(amount A + (amount B × (children − 3))) ×weekly periods52.
+(2) The formula is—(amount A+(amount B×(children − 3)))×weekly periods52.
 Definition of items in formula
 (3) In the formula,—
   (a) amount A is $3,120:
@@ -28069,7 +28073,7 @@ Payment of parental tax credit
 Entitlement
 (1) A person who meets the requirements of section MD 11 is entitled to a parental tax credit calculated using the formula in subsection (2).
 Formula
-(2) The formula is—prescribed amount ×days56.
+(2) The formula is—prescribed amount×days56.
 Definition of items in formula
 (3) In the formula,—
   (a) prescribed amount is $1,200 for each dependent child born on or after 1 October 1999:
@@ -28081,7 +28085,7 @@ Order in Council increasing amount
 When this section applies
 (1) This section applies for the purposes of section MD 1 to determine the amount of a person’s family credit abatement for an entitlement period.
 Formula
-(2) The formula is—full-year abatement ×days365.
+(2) The formula is—full-year abatement×days365.
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
@@ -28116,7 +28120,7 @@ When this section applies
   (b) they choose to have the credit paid in a lump sum; and
   (c) the birth occurs within 56 days of the end of the tax year.
 Amount of abatement
-(2) Despite section MD 2, the amount of the person's parental tax credit abatement for the parental entitlement period is calculated using the formula—full-year abatement ×56− amount used.365
+(2) Despite section MD 2, the amount of the person's parental tax credit abatement for the parental entitlement period is calculated using the formula—full-year abatement×56−amount used.365
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement has the same meaning as the item full-year abatement in section MD 13(3)(a):
@@ -28216,7 +28220,7 @@ Method for determining family assistance credit
   (b) ascertain the amount (amount A) that, in schedule 31, column 2 (Annualised equivalent amount for Part M) is the equivalent of the annual amount represented in schedule 31, column 1; and
   (c) calculate the WFF tax credit that the person would be entitled to for the tax year in which the calculation period falls if the family scheme income of the person for the calculation period were equal to amount A.
 Formula
-(3) The formula is—attributed net income ×365days.
+(3) The formula is—attributed net income×365days.
 Definition of items in formula
 (4) In the formula,—
   (a) attributed net income is equal to such amount of the family scheme income expected to be attributable to the part of the tax year that is the part (the calculation period) for which the Commissioner determines that a tax credit is allowable to the person:
@@ -28242,7 +28246,7 @@ Instalment shown in complete dollars
 When this section applies
 (1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit), or as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 1 April 2010 and finishing on 30 September 2010.
 Family tax credit formula: section MD 3
-(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount×days365.
 Definition of items in formula in subsection (2)
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
@@ -28262,7 +28266,7 @@ Days
 When another person cares for dependent child
 (6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
 Family credit abatement formula: section MD 13
-(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement×days365.
 Definition of items in formula in subsection (7)
 (8) In the formula,—
   (a) full-year abatement is,—
@@ -28276,7 +28280,7 @@ When 56-day period includes 31 March
 Relationship with subject matter
 (10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
 Minimum family tax credit formula: section ME 1
-(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount − net family scheme income ×weekly periods52.
+(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount −net family scheme income×weekly periods52.
 Definition of items in formula in subsection (11)
 (12) In the formula,—
   (a) prescribed amount is $20,800:
@@ -28292,7 +28296,7 @@ Relationship with subject matter
 When this section applies
 (1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit), or as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 1 October 2010 and finishing on 31 March 2011.
 Family tax credit formula: section MD 3
-(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount×days365.
 Definition of items in formula in subsection (2)
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
@@ -28312,7 +28316,7 @@ Days
 When another person cares for dependent child
 (6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
 Family credit abatement formula: section MD 13
-(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement×days365.
 Definition of items in formula in subsection (7)
 (8) In the formula,—
   (a) full-year abatement is,—
@@ -28326,7 +28330,7 @@ When 56-day period includes 31 March
 Relationship with subject matter
 (10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
 Minimum family tax credit formula: section ME 1
-(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount − net family scheme income ×weekly periods52.
+(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount −net family scheme income×weekly periods52.
 Definition of items in formula in subsection (11)
 (12) In the formula,—
   (a) prescribed amount is $21,216:
@@ -28452,7 +28456,7 @@ Part-year equivalents: amount of tax credit
   (a) equal to half of their total member credit contributions for the year, if that amount is equal to or less than the part-year maximum amount calculated under subsection (4); or
   (b) equal to the part-year maximum amount calculated under subsection (4), if half of their total member credit contributions for the year is greater than the part-year maximum amount calculated under subsection (4).
 Part-year equivalents: maximum amount
-(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$521.43 ×days365.
+(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$521.43×days365.
 Definition of item in formula
 (5) In the formula, days is the number of days in the year in which the person meets the requirements of section MK 2.
 Parts of years
@@ -28549,7 +28553,7 @@ When another person entitled to credit
 Entitlement
 (1) A person who meets the requirements of section MZ 1 is entitled to a child tax credit calculated using the formula in subsection (2).
 Formula
-(2) The formula is—$780 × dependent children ×days in entitlement period365.
+(2) The formula is—$780 × dependent children×days in entitlement period365.
 Definition of items in formula
 (3) In the formula,—
   (a) dependent children is the number of dependent children for whom the person is a principal caregiver during the entitlement period:
@@ -29260,7 +29264,7 @@ Table references
   (b) the imputation debit in subsection (2)(b) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity):
   (c) the imputation debit in subsection (2)(c) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
 Part-year ICA company
-(4) The amount of the debit that arises if the company is an ICA company for only part of a tax year is an amount calculated using the formula—ICA days× refund.365
+(4) The amount of the debit that arises if the company is an ICA company for only part of a tax year is an amount calculated using the formula—ICA days×refund.365
 Definition of items in formula
 (5) In the formula,—
   (a) ICA days is the number of days in which the company is an ICA company:
@@ -29393,7 +29397,7 @@ Avoidance arrangements
 
 ### OB 42 ICA on-market cancellation
 Debit
-(1) When an ICA company acquires its shares in an on-market cancellation, it has an imputation debit for an amount calculated using the formula—ASC per share excess ×tax rate1 − tax rate.
+(1) When an ICA company acquires its shares in an on-market cancellation, it has an imputation debit for an amount calculated using the formula—ASC per share excess×tax rate1 − tax rate.
 Definitions of items in formula
 (2) In the formula,—
   (a) ASC per share excess is the amount distributed on the on-market cancellation that is more than the amount of the available subscribed capital per share calculated under the ordering rule:
@@ -29452,7 +29456,7 @@ Definition of items in formula
     (i) section OB 41 in the company’s imputation credit account; or
     (ii) section OP 42 (Consolidated ICA debit for loss of shareholder continuity) in the imputation credit account of the consolidated imputation group of which the company is part.
 Second amount
-(6) The second amount is calculated using the formula—total dividends× (tax liability − debits).taxable income
+(6) The second amount is calculated using the formula—total dividends×(tax liability − debits).taxable income
 Definition of items in formula
 (7) In the formula in subsection (6),—
   (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits and FDP credits attached to the dividends:
@@ -29903,13 +29907,13 @@ Methods
   (b) all levies payable by a member for the income year as a proportion of total levies payable by members for the income year; or
   (c) another method of determination approved by the Commissioner.
 Total credits attached
-(4) The total amount of imputation credit attached to the distribution is calculated using the formula—total net dividend ×tax rate1 − tax rate.
+(4) The total amount of imputation credit attached to the distribution is calculated using the formula—total net dividend×tax rate1 − tax rate.
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
   (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 Member’s credits
-(6) The amount of a member’s share of an imputation credit attached under subsection (4) is calculated using the formula—member's distribution× total imputation credit attached.total distribution
+(6) The amount of a member’s share of an imputation credit attached under subsection (4) is calculated using the formula—member's distribution×total imputation credit attached.total distribution
 Definition of items in formula
 (7) In the formula in subsection (6),—
   (a) member’s distribution is the amount of the member’s share of the distribution excluding the amount of imputation credit:
@@ -29932,14 +29936,14 @@ Methods
   (c) a combination of paragraphs (a) and (b); or
   (d) some other method of determination approved by the Commissioner.
 Produce transactions
-(4) The amount of an imputation credit attached to a member’s distribution that is based on produce transactions is calculated using the formula—member's payment× credit attached.total payments
+(4) The amount of an imputation credit attached to a member’s distribution that is based on produce transactions is calculated using the formula—member's payment×credit attached.total payments
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) member’s payments is the total amount of all payments to or by a member for the member’s produce transactions during the income year:
   (b) total payments is all payments to or by all members for produce transactions during the income year:
   (c) credit attached is the amount of imputation credit attached to the distribution.
 Members’ levies
-(6) An imputation credit attached to a member’s distribution that is based on members’ levies is calculated using the formula—member's levies× credit attached.total levies
+(6) An imputation credit attached to a member’s distribution that is based on members’ levies is calculated using the formula—member's levies×credit attached.total levies
 Definition of items in formula
 (7) In the formula in subsection (6),—
   (a) member’s levies is the total amount of all levies payable by a member to the producer board for the income year:
@@ -29955,7 +29959,7 @@ Commissioner’s determination
 Dividend derived
 (1) A notional distribution to which section OB 74 applies that has an imputation credit attached is a dividend under section CD 13 (Notional distributions of producer boards and co-operative companies) derived by a member.
 Calculation of amount
-(2) The amount of the dividend is calculated using the formula—credit attached− credit attached.tax rate
+(2) The amount of the dividend is calculated using the formula—credit attached−credit attached.tax rate
 Definitions of items in formula
 (3) In the formula,—
   (a) credit attached is the amount of imputation credit attached to the member’s distribution:
@@ -29995,13 +29999,13 @@ Requirements
   (c) the company would, in the absence of this section, have a deduction for some or all of the distribution, whether as an association rebate under subpart HE (Mutual associations) or some other provision of this Act; and
   (d) no other election for a cash distribution is made for the income year.
 Total credit attached
-(3) The total amount of imputation credit attached to the distribution is calculated using the formula—total net dividend ×tax rate1 − tax rate.
+(3) The total amount of imputation credit attached to the distribution is calculated using the formula—total net dividend×tax rate1 − tax rate.
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
   (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 Shareholder’s credit
-(5) The amount of a shareholder’s share of the imputation credit attached as described in subsection (3) is calculated using the formula—shareholder's distribution× total imputation credit attached.total distribution
+(5) The amount of a shareholder’s share of the imputation credit attached as described in subsection (3) is calculated using the formula—shareholder's distribution×total imputation credit attached.total distribution
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) shareholder’s distribution is the amount that is the shareholder’s share of the distribution, excluding the amount of imputation credit:
@@ -30020,7 +30024,7 @@ Requirements
   (a) the distribution is made to all persons who were shareholders of the company at a time during the income year; and
   (b) no other election to pay a notional distribution is made for the income year.
 Shareholder’s credits
-(3) The amount of a shareholder’s share of an imputation credit attached to a notional distribution is calculated using the formula—produce payments× credit attached.total payments
+(3) The amount of a shareholder’s share of an imputation credit attached to a notional distribution is calculated using the formula—produce payments×credit attached.total payments
 Definition of items in formula
 (4) In the formula,—
   (a) produce payments is the amount of all payments to or by the shareholder for the shareholder’s produce transactions during the income year:
@@ -30031,7 +30035,7 @@ Definition of items in formula
 Dividends
 (1) A notional distribution referred to in section OB 79 that has an imputation credit attached is a dividend under section CD 13 (Notional distributions of producer boards and co-operative companies) derived by a shareholder of the co-operative company.
 Amount
-(2) The amount of a shareholder’s dividend is calculated using the formula—credit attached− credit attached.tax rate
+(2) The amount of a shareholder’s dividend is calculated using the formula—credit attached−credit attached.tax rate
 Definition of items in formula
 (3) In the formula,—
   (a) credit attached is the amount of imputation credit attached to the shareholder’s distribution:
@@ -30065,7 +30069,7 @@ Notice
 
 **Table O1: imputation credits**
 
-**Table 02: imputation debits**
+**Table O2: imputation debits**
 
 ### Subpart OC — Foreign dividend payment accounts (FDPA)
 
@@ -30611,7 +30615,7 @@ Definition of items in formula
     (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7, if the company is a Maori authority.
 Income tax paid
-(8) For the purposes of this section, the income tax liability —
+(8) For the purposes of this section, the income tax liability—
   (a) is calculated by applying the formula in section OE 6(1) on the basis that the item debit balances is zero:
   (b) is satisfied to the extent to which the liability is no more than the income tax payable in relation to the amount of the attributed CFC income.
 Credit date
@@ -30733,7 +30737,7 @@ When person’s status ends
 
 ### OE 19 BETA person’s payment of income tax on foreign income
 Credit
-(1) A BETA person has a branch equivalent tax credit for an income year for an amount calculated using the formula—tax liability ×(CFC or taxable income)− foreign tax credits.(taxable income)
+(1) A BETA person has a branch equivalent tax credit for an income year for an amount calculated using the formula—tax liability×(CFC or taxable income)−foreign tax credits.(taxable income)
 Definition of items in formula
 (2) In the formula,—
   (a) tax liability is the person’s income tax liability for the income year:
@@ -31069,7 +31073,7 @@ No debit
 Table references
 (3) The Maori authority debit in subsection (1) is referred to in table O18: Maori authority debits, row 4 (refund of income tax). The Maori authority debit in subsection (2)(b) is referred to in table O18: Maori authority debits, row 7 (debit for loss of shareholder continuity).
 Part-year Maori authorities
-(4) If a Maori authority maintains a Maori authority credit account for only part of a tax year, the amount of the debit is calculated using the formula—account days× refund.365
+(4) If a Maori authority maintains a Maori authority credit account for only part of a tax year, the amount of the debit is calculated using the formula—account days×refund.365
 Definition of items in formula
 (5) In the formula,—
   (a) account days is the number of days in the tax year for which the Maori authority maintains the Maori authority credit account:
@@ -31767,7 +31771,7 @@ Definition of items in formula
   (a) credits attached is the total amount of all imputation credits and FDP credits attached to dividends derived by the group company in the income year in the circumstances set out in subsection (2):
   (b) imputation debits is the amount of imputation debits in the income year under section OP 42 in the group’s imputation credit account.
 Second amount
-(6) The second amount is calculated using the formula—total dividends× (tax liability − continuity debits).taxable income
+(6) The second amount is calculated using the formula—total dividends×(tax liability − continuity debits).taxable income
 Definition of items in formula
 (7) In the formula in subsection (6),—
   (a) total dividends is the total amount of all dividends derived in the circumstances set out in subsection (2), including imputation credits and FDP credits attached to the dividends:
@@ -33071,7 +33075,7 @@ When this section applies
   (c) sections RC 13 and RC 14 (which relate to persons with an initial provisional tax liability and those with an extension of time for providing a return); and
   (d) sections RC 26 and RC 27 (which relate to changes in taxable periods).
 Calculation
-(2) The amount of an instalment of provisional tax is calculated using the formula—residual income tax× instalment number− provisional tax.total instalments
+(2) The amount of an instalment of provisional tax is calculated using the formula—residual income tax × instalment number−provisional tax.total instalments
 Definition of items in formula
 (3) In the formula,—
   (a) residual income tax is a person’s residual income tax, as applicable—
@@ -33267,7 +33271,7 @@ Counting months in transitional years
 When this section applies
 (1) This section applies to a person liable to pay provisional tax using the standard method in relation to instalments of provisional tax payable in a transitional year under section RC 21.
 Instalment other than final instalment
-(2) For an instalment date other than the date of the final instalment, the person must pay an amount calculated using the formula—person's provisional tax× instalments payable− tax previously payable.total instalments
+(2) For an instalment date other than the date of the final instalment, the person must pay an amount calculated using the formula—person's provisional tax × instalments payable−tax previously payable.total instalments
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) person’s provisional tax is the person’s provisional tax liability under section RC 5(2) or (3):
@@ -33277,7 +33281,7 @@ Definition of items in formula
     (ii) 2, for a person who pays on instalment dates C and F:
   (d) tax previously payable is the amount for the transitional year of the person’s provisional tax payable before the instalment date.
 Final instalment
-(4) For the final instalment, the person must pay an amount calculated using the formula—person's provisional tax× transitional year days− tax previously payable.preceding year days
+(4) For the final instalment, the person must pay an amount calculated using the formula—person's provisional tax × transitional year days−tax previously payable.preceding year days
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) person’s provisional tax is the person’s provisional tax liability under section RC 5(2) or (3):
@@ -33289,7 +33293,7 @@ Definition of items in formula
 When this section applies
 (1) This section applies to a person liable to pay provisional tax using the estimation method in relation to instalments of provisional tax payable in a transitional year under section RC 21.
 Instalment other than final instalment
-(2) For an instalment date other than the date of the final instalment, the person must pay an amount calculated using the formula—tax estimate× instalments payable− tax previously payable.transitional months
+(2) For an instalment date other than the date of the final instalment, the person must pay an amount calculated using the formula—tax estimate × instalments payable−tax previously payable.transitional months
 Definition of items in formula
 (3) In the formula,—
   (a) tax estimate is the person’s provisional tax liability last estimated by the person under section RC 5(5):
@@ -34549,7 +34553,7 @@ Revoking election
 When this section applies
 (1) This section applies when an employer or PAYE intermediary does not withhold under section RD 65(3) an amount of tax for an employer's superannuation cash contribution.
 Calculation of amount of tax
-(2) The amount of tax is calculated using the formula—tax rate× contribution to fund − tax already paid.1 − tax rate
+(2) The amount of tax is calculated using the formula—tax rate×contribution to fund−tax already paid.1 − tax rate
 Definition of items in formula
 (3) In the formula,—
   (a) tax rate is the basic rate set out in schedule 1, part D (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) at the time the contribution was made:
@@ -34806,7 +34810,7 @@ Definition of items in formula
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a non-cash dividend other than a bonus issue in lieu.
 Calculation of amount of tax
-(2) The amount of tax for the payment that the person must pay under subsection (4) to the Commissioner is calculated using the formula—(tax rate × dividend paid)− tax paid or credit attached.1 − tax rate
+(2) The amount of tax for the payment that the person must pay under subsection (4) to the Commissioner is calculated using the formula—(tax rate × dividend paid)−tax paid or credit attached.1 − tax rate
 Definition of items in formula
 (3) In the formula,—
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
@@ -34838,7 +34842,7 @@ When this section applies
 Calculation of amount of tax
 (2) The amount of tax for the payment that the Maori authority must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (distribution amount + credit attached)) – credit attached.
 Non-cash amounts
-(3) Despite subsection (2), if the resident passive income is not paid in cash, the amount of tax for the payment that the Maori authority must pay to the Commissioner is calculated using the formula—(tax rate × distribution amount)− credit attached.1 − tax rate
+(3) Despite subsection (2), if the resident passive income is not paid in cash, the amount of tax for the payment that the Maori authority must pay to the Commissioner is calculated using the formula—(tax rate × distribution amount)−credit attached.1 − tax rate
 Definition of items in formulas
 (4) In the formulas in subsections (2) and (3),—
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
@@ -34849,7 +34853,7 @@ Definition of items in formulas
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a replacement payment under a share-lending arrangement.
 Calculation of amount of tax
-(2) The amount of tax for the payment is calculated using the formula—tax rate × payment− credit attached − credit transferred − FDP credit transferred.1 − tax rate
+(2) The amount of tax for the payment is calculated using the formula—tax rate × payment−credit attached − credit transferred − FDP credit transferred.1 − tax rate
 Definition of items in formula
 (3) In the formula,—
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
@@ -35121,7 +35125,7 @@ Definition of item in formula
 When subsections (2) to (5) apply
 (1) Subsections (2) to (5) apply when a person makes a payment of non-resident passive income that consists of a non-cash dividend to the extent to which the amount is not fully imputed.
 When amount not taxable bonus issue
-(2) The amount of tax, when the payment is not a taxable bonus issue, is calculated using the formula—(rate A× dividend payment) + (rate B × amount paid).(1 − rate A
+(2) The amount of tax, when the payment is not a taxable bonus issue, is calculated using the formula—(rate A×dividend payment)+(rate B×amount paid).(1 − rate A
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) rate A is the rate of tax set out in section RF 8:
@@ -35322,7 +35326,7 @@ The amount of tax for a retirement scheme contribution is the amount determined 
 When this section applies
 (1) This section applies when a retirement scheme contributor or retirement savings scheme does not withhold an amount of tax for a retirement scheme contribution under section RH 2(4).
 Calculation of amount
-(2) The amount is calculated using the formula—tax rate× contribution to scheme – tax already paid.1 − tax rate
+(2) The amount is calculated using the formula—tax rate×contribution to scheme–tax already paid.1 − tax rate
 Definition of items in formula
 (3) In the formula,—
   (a) tax rate is the rate of RSCT for the person set out in schedule 1, part D, clause 7 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
@@ -36149,7 +36153,7 @@ In this Act, unless the context requires otherwise,—
   - **ACC** means the Accident Compensation Corporation continued by section 259 of the Accident Compensation Act 2001
   - **ACC levy or premium** is defined in section EF 3(5) (Accident compensation levies and premiums) for the purposes of that section
   - **acceptable property** is defined in section GB 45(3) (Arrangements involving money not at risk) for the purposes of that section
-  - **accident compensation earnings-related payment** means a payment included in salary or wages of the following kinds and under the following Acts
+  - **accident compensation earnings-related payment** means a payment included in salary or wages of the following kinds and under the following Acts:
     (a) under the Accident Compensation Act 1982, a payment of earnings related compensation, as defined in section 2, and of compensation under section 80(4), that are not payments of account made under section 88 in circumstances in which, at the time the payments are made, the nature of the compensation has not been determined:
     (b) under the Accident Rehabilitation and Compensation Insurance Act 1992,—
       (i) a vocational rehabilitation allowance payable under section 25; and
@@ -36171,7 +36175,6 @@ In this Act, unless the context requires otherwise,—
   - **accounting period** , for a foreign company, means—
     (a) its accounting year; or
     (b) the relevant period of other than 12 months, if a person’s attributed CFC income or loss or FIF income or loss from the foreign company is allowed or required to be calculated on the basis of a period other than 12 months because of a change of residence of the foreign company
-  - **accounting profits method**
   - **accounting year** ,—
     (a) for any person, means a tax year or another 12 month period that ends with the date of the annual balance of the person’s accounts:
     (b) for a company, includes—
@@ -36339,7 +36342,7 @@ In this Act, unless the context requires otherwise,—
     (a) means the basic rate of income tax for the person set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) and schedule 2 (Basic tax rates for PAYE income payments); and
     (b) in the case of a transitional year, resulting from a change in a person’s balance date, has the meaning given in section 39(5) of the Tax Administration Act 1994
   - **benchmark distribution** means the first taxable Maori authority distribution by a Maori authority in a tax year
-  - **benchmark dividend** , means the first dividend paid by a company in a tax year that is not 1 of the following kinds
+  - **benchmark dividend** , means the first dividend paid by a company in a tax year that is not 1 of the following kinds:
     (a) a dividend to which the company is not allowed by section OB 63 (Australian dividends) to attach an imputation credit:
     (b) a distribution of a co-operative company for which the company has made an election under section OB 82 (When and how co-operative company makes election)
   - **beneficial interest** includes an interest that is contingent, discretionary or unvested
@@ -36372,7 +36375,6 @@ In this Act, unless the context requires otherwise,—
   (b) the entity has 1 or more other investor classes that include 20 or more persons; and
   (c) no investor in the class described in paragraph (a), other than the manager or trustee of the entity, can control investment decisions relating to the class; and
   (d) the investor interests of investors in all investor classes described in paragraph (a) of the entity add up to less than 10% of the total value of interests in the entity
-  - **branch equivalent company**
   - **branch equivalent income** , for a foreign company and for an accounting period, means the amount of income for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent loss** , for a foreign company and for an accounting period, means the amount of loss for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent method** means the method of calculating FIF income or FIF loss in section EX 50 (Branch equivalent method) as that provision read immediately before being amended by section 35 of the Taxation (International Investment and Remedial Matters) Act 2012
@@ -36478,7 +36480,6 @@ In this Act, unless the context requires otherwise,—
       (i) a market value circumstance exists for the company; and
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
-  - **combined imputation and CTR ratio**
   - **combined imputation and FDP ratio** means the ratio set out in section OC 29 (FDP credits and imputation credits attached to dividends)
   - **combined tax and earner-related payment** means, for a PAYE income payment, the total of—
     (a) the amount of tax for the PAYE income payment required to be withheld and paid under the PAYE rules; and
@@ -36541,7 +36542,6 @@ In this Act, unless the context requires otherwise,—
     (j) is further defined in section EX 30(7) (Direct income interests in FIFs) for the purposes of that section
   - **company dividend statement** means a statement required by section 67 of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
-  - **compensation**
   - **completed** , for a film, means the completion of the film to—
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
@@ -36698,16 +36698,6 @@ In this Act, unless the context requires otherwise,—
   (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
   (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
-  - **CTR**
-  - **CTR account**
-  - **CTR additional dividend**
-  - **CTR company**
-  - **CTR credit**
-  - **CTR debit**
-  - **CTR group member**
-  - **CTR holding company**
-  - **CTR ratio**
-  - **CTRA**
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
@@ -36946,7 +36936,6 @@ In this Act, unless the context requires otherwise,—
   - **employment limitation** is defined in section DA 2(4) (General limitations)
   - **employment-related loan** means a loan that is a fringe benefit
   - **end date** is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
-  - **engaged in full-time work**
   - **entering owner** ––
     (a) means a person who acquires an owner's interests for a look-through company:
     (b) includes a person who already has owner's interests for a look-through company when they acquire another owner's interests
@@ -37242,7 +37231,6 @@ In this Act, unless the context requires otherwise,—
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
     (b) FIF income calculated under the attributed FIF income method
-  - **foreign attributed loss offsets**
   - **foreign company** means a company that—
     (a) is not resident in New Zealand; or
     (b) is treated under a double tax agreement as not being resident in New Zealand
@@ -37303,7 +37291,6 @@ In this Act, unless the context requires otherwise,—
   - **full reinsurance** is defined in section EY 12(2) (Meaning of life reinsurance)
   - **full-time earner** is defined in section MA 7 (Meaning of full-time earner for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
-  - **fully credited for conduit tax relief**
   - **fully imputed** ,—
     (a) for the purposes of sections CB 26, EX 20B, RF 8, and RF 10 (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), means the amount calculated under section HA 15(2) (Fully imputed distributions)
@@ -37433,13 +37420,9 @@ In this Act, unless the context requires otherwise,—
   - **holding company** ,—
     (a) for a forestry company, means a company associated with the forestry company:
     (b) for a mining company, is defined in section CU 29 (Other definitions)
-  - **home**
   - **home ownership requirements** means home ownership requirements as defined in the Home Ownership Savings Act 1974
   - **home vendor mortgage** is defined in section LZ 8 (Meaning of home vendor mortgage) for the purposes of sections LZ 6 and LZ 7 (which relate to credits for interest on home vendor mortgages)
   - **honorarium** is defined in section CW 62B (Voluntary activities) for the purposes of that section
-  - **household member**
-  - **housekeeper**
-  - **housekeeping payments**
   - **ICA** means imputation credit account
   - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
@@ -37523,7 +37506,6 @@ In this Act, unless the context requires otherwise,—
     (c) both
   - **instalment date** means a date for payment of provisional tax for a tax year that is the day and month specified for a person with a provisional tax liability in schedule 3, part A (Payment of provisional tax and terminal tax)
   - **instalment period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
-  - **institution**
   - **insurance** ,—
     (a) in section CR 3 (Income of non-resident general insurer) means insurance of a kind described in section CR 3(3):
     (b) in section YD 8 (Apportionment of premiums derived by non-resident general insurers) means insurance of a kind described in section YD 8(4)(a)
@@ -37927,7 +37909,7 @@ In this Act, unless the context requires otherwise,—
       (i) designed for the seating of 2 or more adult persons; and
       (ii) permanently affixed to the motor vehicle; and
       (iii) neither collapsible nor capable of being folded down
-  - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **minimum family tax credit** is defined in section MA8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
@@ -37951,6 +37933,7 @@ In this Act, unless the context requires otherwise,—
   - **mining venture** is defined in section CU 26 (Meaning of mining venture)
   - **Minister** means the Minister of Finance
   - **minor** is defined in section HC 35(3) (Beneficiary income of minors) for the purposes of that section and sections HC 36, HC 37, LE 4, and LF 2 (which relate to beneficiary minors)
+  - **mixed-ownership enterprise** means an entity specified in schedule 36, part B (Government enterprises)
   - **money** ,—
     (a) in section GB 48 (Defined terms for sections GB 45 and GB 46), in the financial arrangements rules, and in the definition of security payment, includes—
       (i) money’s worth, whether or not convertible into money:
@@ -38194,7 +38177,6 @@ In this Act, unless the context requires otherwise,—
     (b) for the ownership of depreciable property, is defined in sections EE 2 to EE 5 (which relate to depreciation)
   - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section and section YC 18B (Corporate reorganisations not affecting economic ownership)
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
-  - **paid work**
   - **parental entitlement period** means the period of time described in section MD 11(1)(b)(i) (Entitlement to parental tax credit)
   - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **Part F activity** is defined in schedule 4, part F, clause 7 (Rates of tax for schedular payments)
@@ -38205,7 +38187,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes—
       (i) a limited partner of a limited partnership:
       (ii) a general partner of a limited partnership:
-      (iii) a joint venturer or a co-owner, if they make the relevant choice to be treated as partnership:
+      (iii) a joint venturer or a co-owner, if they make the relevant choice to be treated as partnership
   - **partner’s associate** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **partner’s interests** means the relevant interests in rights and obligations and other property, status, and things that a partner has as a result of applying section HG 2 (Partnerships are transparent)
   - **partnership** means—
@@ -38263,7 +38245,6 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 3(2) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 37(2) (Persons to whom adverse event income equalisation scheme applies) for the purposes of the adverse event income equalisation scheme:
     (c) is defined in section EH 63(2) (Persons to whom thinning operations income equalisation scheme applies) for the purposes of the thinning operations income equalisation scheme
-  - **personal injury by accident**
   - **personal property** , in sections CB 4 (Personal property acquired for purpose of disposal) and CB 5 (Business of dealing in personal property) does not include land
   - **personal property lease asset** —
     (a) means any personal property subject to a lease; and
@@ -38481,7 +38462,8 @@ In this Act, unless the context requires otherwise,—
     (a) means every department or instrument of the Executive Government of New Zealand; and
     (b) includes the Public Trust and the Maori Trustee; and
     (c) includes the Christmas Island Phosphate Commission, incorporated in Australia by the Christmas Island Agreement Act 1949 of the Parliament of Australia and continued under the Christmas Island Agreement Act 1958; and
-    (d) is further defined in section CW 38(6) (Public authorities) for the purposes of that section
+    (d) is further defined in section CW 38(6) (Public authorities) for the purposes of that section; and
+    (e) does not include a mixed-ownership enterprise
   - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section
   - **public official** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **public unit trust** means—
@@ -38936,7 +38918,7 @@ In this Act, unless the context requires otherwise,—
   - **standing timber** includes trees that would be standing timber if they were mature trees
   - **stapled** , for a debt security and a share, is defined in section FA 2B(5) (Stapled debt securities)
   - **stapled debt security** means a debt security that is stapled to a share, if the share is not a fixed-rate share
-  - **state enterprise** means a person specified in schedule 36 (State enterprises)
+  - **state enterprise** means a person specified in schedule 36, part A (Government enterprises)
   - **statutory producer board** means—
     (a) a body specified in schedule 37 (Statutory producer boards):
     (b) a marketing authority as defined in the Primary Products Marketing Act 1953 that is established by regulations made under that Act:
@@ -39083,7 +39065,6 @@ In this Act, unless the context requires otherwise,—
       (ii) has a relationship with the host country meeting the requirements of paragraphs (a) to (c); and
       (iii) because of the parent company's domicile, residence, place of incorporation, or centre of management, is liable in the host country to tax on the FIF's income in the same period that the FIF would be liable on its income if it were a company liable for tax
   - **taxi** is defined in section 2(1) of the Land Transport Act 1998
-  - **taxicab**
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
   - **technology** is defined in section LH 7(5) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **telecommunications service** means a service, relating to information of any kind including pictures, sound, and data, that is—
@@ -39360,6 +39341,7 @@ Aggregation rule for land provisions
 Exception for certain government entities
 (6) Subsection (3) does not apply to 2 companies if either or both are—
   (a) a state enterprise:
+  (ab) a mixed-ownership enterprise:
   (b) a Crown Research Institute:
   (c) a Crown health enterprise:
   (d) a company that is part of the same group of companies as an entity referred to in any of paragraphs (a) to (c).
@@ -39574,6 +39556,13 @@ Shareholders treated as notional single person existing with entity
   (b) as a notional single person that—
     (i) exists as long as the special corporate entity exists; and
     (ii) holds nothing other than shares and related rights concerning the entity.
+
+### YC 5B Treatment of mixed-ownership enterprises
+(1) Section YC 5 applies to the Crown’s interest in a mixed-ownership enterprise in the same way as it does to the Crown’s interest in a special corporate entity to determine—
+  (a) who is treated as holding those shares and related rights that represent the Crown’s interest in the enterprise:
+  (b) how those shares and related rights are treated as being held.
+Transitional provision for changes in status
+(2) If a special corporate entity changes its status to become a mixed-ownership enterprise, no breach of shareholding arises in relation to the Crown’s interest.
 
 ### YC 6 Disregarding certain securities
 When this section applies
@@ -40373,7 +40362,7 @@ The basic tax rate amount for a payment of salary or wages is set by applying th
   (b) the employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994.
 
 ### 2 M, ME, and ML tax codes: payments for pay periods longer than a week
-If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment)× weekly PAYE table amount.weekly portion of payment
+If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment)×weekly PAYE table amount.weekly portion of payment
   (a) total payment means the payment of salary or wages to which this clause applies:
   (b) weekly portion of the payment means the portion of the payment that is attributable to the part of the pay period that is for a week if it is assumed that the payment accrued at a uniform daily rate throughout the pay period:
   (c) weekly PAYE table amount means the amount that results from applying the Commissioner’s weekly PAYE table to the weekly portion of the payment (described in paragraph (b)) using the employee’s tax code, as if the weekly portion is a payment for a weekly pay period.
@@ -41214,7 +41203,7 @@ expenditure related to the acquisition of land
 
 ## Schedule 32 — Recipients of charitable or other public benefit gifts
 
-## Schedule 36 — State enterprises
+## Schedule 36 — Government enterprises
 
 ## Schedule 37 — Statutory producer boards
 
@@ -41861,7 +41850,7 @@ In determining the amount of family assistance credit that is payable under sect
 (2) Subsection (3) applies—
   (a) for the purposes of section MF 6 of the Income Tax Act 2007; and
   (b) when a person has received payments under section 80KI for the whole of a tax year.
-(3) The person is entitled to a tax credit for the tax year of an amount calculated using the formula—tax credit +((final instalment − parental tax credit)×13).14
+(3) The person is entitled to a tax credit for the tax year of an amount calculated using the formula—tax credit+((final instalment −parental tax credit)×13).14
 (4) In the formula in subsection (3),—
   (a) tax credit is the amount of the tax credit for the tax year calculated for the person under—
     (i) section MD 1 of the Income Tax Act 2007, if the person is entitled to a family assistance credit:
@@ -41871,7 +41860,7 @@ In determining the amount of family assistance credit that is payable under sect
 (5) Subsection (6) applies—
   (a) for the purposes of section MF 6 of the Income Tax Act 2007; and
   (b) when a person has received payments under section 80KN for the whole of a tax year.
-(6) The person is entitled to a tax credit for the tax year equal to an amount calculated using the formula—tax credit +total amount of instalments53.
+(6) The person is entitled to a tax credit for the tax year equal to an amount calculated using the formula—tax credit+total amount of instalments53.
 (7) In the formula in subsection (6),—
   (a) tax credit is the amount of the tax credit for the tax year calculated for the person under—
     (i) section MD 1 of the Income Tax Act 2007, if the person is entitled to a family assistance credit:
