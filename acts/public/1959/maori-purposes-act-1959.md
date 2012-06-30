@@ -1,5 +1,5 @@
 # Maori Purposes Act 1959
-_Consolidation as at 2002-06-01_
+_Consolidation as at 2012-06-30_
 
 > An Act to amend the law relating to Maoris and Maori land, and for other purposes
 
@@ -48,7 +48,7 @@ In this Part, unless the context otherwise requires,—
   (i) any person engaged, either directly or indirectly, in the planning, preparation, construction, maintenance, or operation of any public work within the meaning of the Public Works Act 1981, or in carrying out any investigation for the purposes of any proposed such work:
   (j) any officer of Te Puni Kōkiri entering in the course of his duties as such:
   (k) any Judge of the Maori Land Court entering in the exercise of his office as such:
-  (l) any officer, employee, or agent of a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is a generator of electricity.
+  (l) any officer, employee, or agent of a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is a generator of electricity or of a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that is a generator of electricity.
 
 ### 5 Fees for entry permits
 (1) There shall be payable to the Trustees for every entry permit such fee as the Trustees prescribe from time to time, and different fees may be so prescribed in respect of entry permits for different purposes.
