@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2012-05-15_
+_Consolidation as at 2012-06-30_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -3548,8 +3548,11 @@ The production, processing, or supply of manufactured gas or natural gas (includ
 ### 2
 The production, processing, distribution, or sale of petroleum, whether refined or not.
 
+### 2A
+The production or supply of electricity.
+
 ### 3
-The production or supply of electricity or the operational management of a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986) that has electricity generation within the definition of the nature and scope of its business in its statement of corporate intent.
+The operational management of a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986) or a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that is a generator of electricity.
 
 ### 4
 The supply of water to the inhabitants of a city, district, or other place.
