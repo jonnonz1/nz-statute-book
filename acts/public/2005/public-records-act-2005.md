@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2012-06-30_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -150,6 +150,7 @@ In this Act, unless the context otherwise requires,—
 (6) Before making a recommendation in relation to local authority records under subsection (1)(b)(iii) or subsection (4), the Minister must—
   (a) consult with the Minister of the Crown for the time being responsible for the administration of the Local Government Act 2002; and
   (b) have regard to advice received from the Archives Council.
+(7) This Act continues to apply to a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that was a public office immediately before becoming a mixed ownership model company, as if it were still a public office, but only in respect of its affairs before it ceased to be a public office (regardless of when the records of those affairs are created).
 
 ### 6 Exclusions from application of Act
 This Act does not apply to—
