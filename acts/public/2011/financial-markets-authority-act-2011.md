@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the capital markets in New Zealand
   - **financial markets legislation** means the Acts listed in Schedule 1 and the enactments made under those Acts
   - **financial markets participant** —
-    (a) means a person who is, or is required to be, registered, licensed, appointed, or authorised under, or for the purposes of, any of the Acts listed in Part 1 of Schedule 1 or any of the enactments made under those Acts (or would be required to be so registered, licensed, appointed, or authorised but for an exemption granted or provided by or under any of those Acts); and
+    (a) means a person who is, or is required to be, registered, licensed, appointed, accredited, or authorised under, or for the purposes of, any of the Acts listed in Part 1 of Schedule 1 or any of the enactments made under those Acts (or would be required to be so registered, licensed, appointed, accredited, or authorised but for an exemption granted or provided by or under any of those Acts); and
     (b) includes any of the following:
       (i) a person who participates in an offer of securities to the public as an issuer or a promoter (within the meaning of those terms in section 2(1) of the Securities Act 1978):
       (ii) a person who acts, in respect of securities offered to the public, as a trustee, a unit trustee, a superannuation trustee, a statutory supervisor, a manager, an expert, or a qualified auditor (within the meaning of those terms in section 2(1) of the Securities Act 1978):
@@ -51,6 +51,7 @@ In this Act, unless the context otherwise requires,—
     (f) the Registrar of Financial Service Providers:
     (g) the Reserve Bank of New Zealand:
     (h) the Takeovers Panel
+    (i) an accredited body (within the meaning of section 6(1) of the Auditor Regulation Act 2011)
   - **member** —
     (a) means a member of the board of the FMA referred to in section 10; and
     (b) in the circumstances set out in section 12, includes an associate member
