@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2136,13 +2136,19 @@ The fees and expenses of an auditor of a company shall be fixed,—
   (d) if the auditor is the Auditor-General, in accordance with the Public Audit Act 2001.
 
 ### 198 Appointment of partnership
-(1) A partnership may be appointed by the firm name to be the auditor of a company if all or some of the partners are persons who are qualified to be appointed as auditors of the company.
-(2) The appointment of a partnership by the firm name to be the auditor of a company is deemed, notwithstanding section 199, to be the appointment of all the persons who are partners in the firm from time to time.
-(3) Where a partnership that includes persons who are not qualified to be appointed as auditors of a company is appointed as auditor of a company, the persons who are not qualified to be appointed as auditors must not act as auditors of the company.
+(1) A partnership may be appointed by the firm name to be the auditor of a company if,—
+  (a) in the case of a company that is an issuer, the partnership is a registered audit firm:
+  (b) in any other case, all or some of the partners are persons who are qualified to be appointed as auditors of the company.
+(2) The appointment of a partnership by the firm name to be the auditor of a company is deemed, despite section 199, to be the appointment of,—
+  (a) in the case of a company that is an issuer, all the partners in the firm, from time to time, who are licensed auditors:
+  (b) in any other case, all the partners in the firm from time to time.
+(3) If a partnership that includes persons who are not qualified to be appointed as auditors of a company is appointed as auditor of a company, the persons who are not qualified to be appointed as auditors must not act as auditors of the company.
+(4) In this section and section 199, issuer, registered audit firm, and licensed auditor have the same meanings as in section 6 of the Auditor Regulation Act 2011.
 
 ### 199 Qualifications of auditors
 (1) A person must not be appointed or act as an auditor of a company unless—
   (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+  (ab) the person is a licensed auditor; or
   (b)
   (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
     (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this section by the Registrar; and
@@ -2150,6 +2156,7 @@ The fees and expenses of an auditor of a company shall be fixed,—
   (d) the person, not being a person to whom paragraph (c) applies, is—
     (i) eligible to act as an auditor in a country, State, or territory outside New Zealand; and
     (ii) approved for the time being for the purposes of this section by the Registrar by notice in the Gazette.
+(1A) However, if the company is an issuer, a person must not be appointed or act as an auditor of the company unless he or she is a licensed auditor.
 (2) None of the following persons may be appointed or act as auditor of a company:
   (a) a director or employee of the company:
   (b) a person who is a partner, or in the employment, of a director or employee of the company:
