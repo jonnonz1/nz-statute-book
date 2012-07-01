@@ -1,5 +1,5 @@
 # Referenda (Postal Voting) Act 2000
-_Consolidation as at 2010-10-01_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Referenda (Postal Voting) Act 2000.
@@ -13,10 +13,6 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) In this Act, unless the context otherwise requires,—
   - **applicant** , in Part 6, means a group that makes an application
   - **application** means an application under section 52
-  - **Chief Registrar** —
-    (a) means the Chief Registrar of Electors referred to in section 10(1); and
-    (b) includes the Chief Registrar's deputy; and
-    (c) includes any person acting under a delegation under section 11(2)
   - **citizens initiated referendum** means an indicative referendum—
     (a) that a person promotes under the Citizens Initiated Referenda Act 1993; and
     (b) that is specified in an Order in Council made under section 5(b) as an indicative referendum that must be conducted by postal voting
@@ -24,6 +20,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   - **court** , in section 6, means the High Court
   - **district** means a General electoral district or a Maori electoral district constituted under the Electoral Act 1993
   - **elector** means a person whose name lawfully appears on the referendum roll or the supplementary referendum roll
+  - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **electoral roll** , in relation to any district, and subject to sections 101 and 103 of the Electoral Act 1993,—
     (a) means the forms that the Registrar keeps of applications for registration of persons registered under the Electoral Act 1993 as electors of that district; and
     (b) includes the forms deemed by section 83A and 83D of the Electoral Act 1993 to be applications for registration as an elector
@@ -63,7 +60,7 @@ This Act comes into force on the day after the date on which it receives the Roy
     (b) includes the Returning Officer's deputy; and
     (c) includes any person acting under a delegation under section 11(1)
   - **Returning Officer's copy of the roll** means the copy of the referendum roll and the supplementary referendum roll supplied under section 24
-  - **roll identifier number** means the randomly generated number assigned to each elector by the Chief Registrar
+  - **roll identifier number** means the randomly generated number assigned to each elector by the Electoral Commission
   - **supplementary referendum roll** means the list of electors described in section 22(1)
   - **voting paper** ,—
     (a) when used in the definition of returned, and in sections 7(3)(b) and 39 to 50, means the detachable part of a voting paper in the prescribed form:
@@ -131,18 +128,16 @@ This Act applies if the Governor-General makes an Order in Council—
   (a) is under the direction of the Returning Officer; and
   (b) must, as the person's first duty, make a declaration in form 1 before the Returning Officer, a Justice of the Peace, or a solicitor.
 
-### 10 Chief Registrar of Electors
-(1) The Chief Registrar of Electors referred to in section 21 of the Electoral Act 1993 is, under the direction of the Minister, charged with the duty of implementing Part 4.
-(2) For the purposes of implementing Part 4, the Chief Registrar may, both in that capacity and in the capacity of the Chief Executive of New Zealand Post Limited, provide such computer and other services, and such facilities, as the Chief Registrar thinks necessary.
+### 10 Electoral Commission
+(1) The Electoral Commission is charged with the duty of implementing Part 4 (which relates to rolls of electors).
+(2) For the purposes of implementing Part 4, the Electoral Commission may provide such computer and other services, and such facilities, as the Electoral Commission thinks necessary.
 
-### 11 Delegation by Returning Officer or Chief Registrar
+### 11 Delegation by Returning Officer or Electoral Commission
 (1) The Returning Officer may, either generally or particularly, delegate any of the Returning Officer's functions, powers, rights, and duties, except this power of delegation, to—
   (a) any specified person employed or engaged under section 9; or
   (b) persons of a specified class employed or engaged under section 9.
-(2) The Chief Registrar may, either generally or particularly, delegate any of the Chief Registrar's functions, powers, rights, and duties, except this power of delegation, to—
-  (a) a specified employee of New Zealand Post Limited; or
-  (b) employees of New Zealand Post Limited of a specified class.
-(3) A delegation under this section must be made in writing, and the document must be signed by the maker of the delegation.
+(2) A delegation under this section must be made in writing, and the document must be signed by the maker of the delegation.
+(3) Section 73 of the Crown Entities Act 2004 (alone, or in conjunction with section 9 of the Electoral Act 1993) enables the Electoral Commission to delegate all or any of its functions or powers under this Act that relate to registration of electors.
 
 ### 12 Provisions applying to delegations
 (1) The provisions of this section apply to a delegation under section 11.
@@ -167,9 +162,9 @@ This Act applies if the Governor-General makes an Order in Council—
 
 ### 14 Preliminary referendum rolls
 (1) The preliminary referendum roll for each district is a list of all persons whose names are lawfully on the electoral roll for the district on a date to be appointed for the closing of the preliminary referendum rolls.
-(2) The Chief Registrar must appoint the date for the closing of the preliminary referendum rolls and give notice of it in the Gazette.
+(2) The Electoral Commission must appoint the date for the closing of the preliminary referendum rolls and give notice of it in the Gazette.
 (3) The Registrar of each district must print the preliminary referendum roll for the district as soon as practicable after that date.
-(4) No printed preliminary referendum roll is to list any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Chief Registrar under section 115 of that Act.
+(4) No printed preliminary referendum roll is to list any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by theElectoral Commission under section 115 of that Act.
 
 ### 15 Form of printed preliminary referendum rolls
 (1) Although every printed preliminary referendum roll is the main roll for the district, section 106 of the Electoral Act 1993, relating to the form of the main roll and supplementary rolls, does not apply to any printed referendum roll and this section applies instead.
@@ -189,7 +184,7 @@ Although every printed preliminary referendum roll is the main roll for the dist
   (a) at the Registrar's office; and
   (b) without payment; and
   (c) at any time between 9 am and 4 pm on any day on which the office is open for the transaction of business, until 4 pm on the day before the first day of the voting period.
-(3) Copies of the printed preliminary referendum roll must also be kept at such other places within the district as the Minister or the Chief Registrar directs.
+(3) Copies of the printed preliminary referendum roll must also be kept at such other places within the district as the Minister or the Electoral Commission directs.
 (4) Any person may inspect the printed preliminary referendum roll, without payment, at a place at which it is kept as a result of a direction under subsection (3).
 (5) Every person holding a copy of a printed preliminary referendum roll as a result of a direction under subsection (3) must return it to the office of the Registrar for the district before 4 pm on the day before the first day of the voting period.
 (6) The right of inspection conferred by subsections (2) and (4) does not include the rights to copy or purchase the whole or any part of the printed preliminary referendum roll.
@@ -200,12 +195,12 @@ Although every printed preliminary referendum roll is the main roll for the dist
   (b) checking that persons not qualified to be on it are not on it:
   (c) encouraging persons qualified to be on it, whether or not they are, to apply for registration as electors under the Electoral Act 1993.
 (2) A person who wants to use a printed preliminary referendum roll for these purposes must—
-  (a) complete a form, provided by the Chief Registrar, applying for a copy; and
+  (a) complete a form, provided by the Electoral Commission, applying for a copy; and
   (b) state in the form that—
     (i) the roll is required for the purposes set out in subsection (1); and
     (ii) the roll will not be used for any other purpose.
-(3) If a person applies for a copy of a roll and completes the form, the Chief Registrar must supply that copy to that person without charge.
-(4) Every person holding a copy of a printed preliminary referendum roll as a result of an application under subsection (2) must return it to the office of the Chief Registrar before 4 pm on the day before the first day of the voting period.
+(3) If a person applies for a copy of a roll and completes the form, the Electoral Commission must supply that copy to that person without charge.
+(4) Every person holding a copy of a printed preliminary referendum roll as a result of an application under subsection (2) must return it to the office of the Electoral Commission before 4 pm on the day before the first day of the voting period.
 (5) The right to use a printed preliminary referendum roll conferred by subsection (1) does not include the right to copy the whole or any part of it.
 
 ### 19 Supply of electoral information under Electoral Act 1993
@@ -224,7 +219,7 @@ Nothing in this Act prevents the making of a request for electoral information u
 ### 21 Referendum roll
 (1) The referendum roll is a list of all persons whose names are lawfully on any electoral roll for any district on a date to be appointed for the closing of the referendum roll.
 (2) The Governor-General must appoint, by Order in Council, the date for the closing of the referendum roll.
-(3) The Chief Registrar must compile the referendum roll as soon as practicable after that date.
+(3) The Electoral Commission must compile the referendum roll as soon as practicable after that date.
 
 ### 22 Supplementary referendum roll
 (1) The supplementary referendum roll is a list of all persons who meet the following criteria:
@@ -234,7 +229,7 @@ Nothing in this Act prevents the making of a request for electoral information u
 (2) For the purposes of subsection (1)(b), an application is received before the commencement of the voting period if—
   (a) the application, or the envelope in which it is contained, bears a postmark or date stamp impressed at any New Zealand Post Limited outlet or agency before the commencement of the voting period; or
   (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
-(3) The Chief Registrar must compile the supplementary referendum roll as soon as practicable after the commencement of the voting period.
+(3) The Electoral Commission must compile the supplementary referendum roll as soon as practicable after the commencement of the voting period.
 
 ### 23 Form of referendum roll and supplementary referendum roll
 The referendum roll and the supplementary referendum roll must—
@@ -249,7 +244,7 @@ The referendum roll and the supplementary referendum roll must—
     (vii) roll identifier number.
 
 ### 24 Supply of copy of rolls to Returning Officer
-At the request of the Returning Officer, the Chief Registrar must supply the Returning Officer with a copy of the referendum roll and the supplementary referendum roll.
+At the request of the Returning Officer, the Electoral Commission must supply the Returning Officer with a copy of the referendum roll and the supplementary referendum roll.
 
 ### 25 Persons who qualify to register as electors after close of roll
 (1) This section applies to every person who—
@@ -263,7 +258,7 @@ At the request of the Returning Officer, the Chief Registrar must supply the Ret
   (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
 
 ### 26 Persons who, at commencement of voting period, are dead or disqualified or removed from roll
-(1) The Chief Registrar must supply the Returning Officer with the roll identifier number of every elector who is on the referendum roll or the supplementary referendum roll but who, at the commencement of the voting period, falls into a category described in subsections (2) to (4).
+(1) The Electoral Commission must supply the Returning Officer with the roll identifier number of every elector who is on the referendum roll or the supplementary referendum roll but who, at the commencement of the voting period, falls into a category described in subsections (2) to (4).
 (2) The first category is every elector—
   (a) who is dead; and
   (b) whose death has been notified to a Registrar—
@@ -274,31 +269,31 @@ At the request of the Returning Officer, the Chief Registrar must supply the Ret
 (4) The third category is every elector whose name has been removed from a roll under—
   (a) section 95B or section 96 or section 97 of the Electoral Act 1993; or
   (b) section 20(3).
-(5) The Chief Registrar must supply the roll identifier number—
+(5) The Electoral Commission must supply the roll identifier number—
   (a) in electronic form; and
-  (b) as soon as practicable after the Chief Registrar ascertains it, and before the end of the voting period.
+  (b) as soon as practicable after the Electoral Commission ascertains it, and before the end of the voting period.
 (6) The Returning Officer must make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the elector is dead, disqualified, or removed from a roll.
 
 ### 27 Protection of referendum roll and supplementary referendum roll
 (1) The referendum roll and the supplementary referendum roll must not be printed or made available for purchase or public inspection in any form.
 (2) Every person who has a copy of the referendum roll or the supplementary referendum roll must, as soon as practicable after the declaration of the result of the referendum under section 49,—
   (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any copy of the whole or any part of the referendum roll and the supplementary referendum roll and any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); and
-  (b) make a declaration to the Chief Registrar in the prescribed form that he or she has complied with paragraph (a).
+  (b) make a declaration to the Electoral Commission in the prescribed form that he or she has complied with paragraph (a).
 (3) Subsection (2) does not apply to the Returning Officer acting under section 50(1)(b) or to the Clerk of the House acting under section 50(2).
 
 ### 28 Supply and protection of information used for any official publicity campaign
-(1) At the request in writing of the panel, the Chief Registrar must supply to the panel in electronic form the information described in subsection (2).
-(2) The information is a list of every person whose name appears on the referendum roll or supplementary referendum roll, except any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Chief Registrar under section 115 of that Act, that shows the following details for each person listed:
+(1) At the request in writing of the panel, the Electoral Commission must supply to the panel in electronic form the information described in subsection (2).
+(2) The information is a list of every person whose name appears on the referendum roll or supplementary referendum roll, except any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Electoral Commission under section 115 of that Act, that shows the following details for each person listed:
   (a) full name:
   (b) postal address:
   (c) preferred honorific, if any.
 (3) The panel may supply to any person, for the purposes of a task required for the official publicity campaign, any or all of the information supplied under subsection (1) or the original or a copy of any electronic storage medium on which the information was supplied.
 (4) As soon as practicable after the conclusion of the official publicity campaign, the panel must—
   (a) erase from any electronic storage medium held by the panel, and delete from any electronic system used by the panel, any information supplied under subsection (1); and
-  (b) make a declaration to the Chief Registrar in the prescribed form that it has complied with paragraph (a).
+  (b) make a declaration to the Electoral Commission in the prescribed form that it has complied with paragraph (a).
 (5) As soon as practicable after completing every task for which information was supplied under subsection (3), the person must—
   (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any information supplied under subsection (3); and
-  (b) make a declaration to the Chief Registrar in the prescribed form that the person has complied with paragraph (a).
+  (b) make a declaration to the Electoral Commission in the prescribed form that the person has complied with paragraph (a).
 
 ## Part 5 — Conduct of referendum
 
@@ -342,7 +337,7 @@ The Returning Officer may dispatch voting papers at any time after the start of 
 (3) If the Returning Officer is satisfied that the person is an elector, the Returning Officer must—
   (a) post the elector 1 voting paper addressed to the elector at his or her current postal address; and
   (b) make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the Returning Officer posted a replacement voting paper to the elector; and
-  (c) provide the Chief Registrar with the name, date of birth, and current postal address of the elector, if the current postal address is different from the postal address shown on the Returning Officer's copy of the roll.
+  (c) provide the Electoral Commission with the name, date of birth, and current postal address of the elector, if the current postal address is different from the postal address shown on the Returning Officer's copy of the roll.
 
 ### 35 Dispatching voting papers by fax or dictation
 (1) A person may apply to the Returning Officer to have the voting paper faxed to him or her, on the grounds that he or she—
@@ -531,7 +526,7 @@ When all the voting papers returned in accordance with section 40 have been proc
   (b) published or broadcast by—
     (i) the panel; or
     (ii) the Returning Officer; or
-    (iii) the Chief Registrar; and
+    (iii) the Electoral Commission; and
   (c) containing a statement or symbol indicating that the advertisement has been authorised by one of those persons.
 (2) This section does not apply to the publication or broadcast of any news or comments relating to any aspect of a referendum.
 (3) A person who publishes or broadcasts an advertisement relating to any aspect of a referendum must include in the advertisement a statement setting out the true name of the person who commissioned it and that person's postal address.
@@ -557,7 +552,7 @@ When all the voting papers returned in accordance with section 40 have been proc
 The person complained of is a respondent to the application if the person is—
   (a) the Returning Officer; or
   (b) a person employed or engaged under section 9; or
-  (c) the Chief Registrar; or
+  (c) the Electoral Commission; or
   (d) an employee of New Zealand Post Limited; or
   (e) a person acting under a delegation under section 11.
 
@@ -610,7 +605,7 @@ At the end of a hearing, the court must do one of the following:
 (1) This section applies to the following persons:
   (a) the Returning Officer:
   (b) any person employed or engaged under section 9:
-  (c) the Chief Registrar:
+  (c) the Electoral Commission:
   (d) any employee of New Zealand Post Limited:
   (e) any person acting under a delegation under section 11.
 (2) Every such person commits an offence if the person uses or discloses information acquired in connection with the referendum by that person in the capacity described in subsection (1), knowing that the use or disclosure is not required or permitted for the performance of that person's official duty.
