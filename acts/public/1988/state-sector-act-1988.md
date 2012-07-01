@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2012-04-30_
+_Consolidation as at 2012-07-01_
 
 > An Act—ato ensure that employees in the State services are imbued with the spirit of service to the community; andbto promote efficiency in the State services and other agencies; andcto ensure the responsible management of the State services; anddto maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeto ensure that every employer in the State services is a good employer; andfto promote equal employment opportunities in the State services; andgto provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhto repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
@@ -1176,3 +1176,34 @@ This order comes into force on 30 April 2012.
 
 ### 4 Application of consequential changes to references provisions
 Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 30 April 2012 and ending on 30 June 2013, after the name of the Ministry of Agriculture and Forestry is changed to Ministry for Primary Industries.
+
+### 1 Title
+This order is the State Sector (Ministry of Business, Innovation, and Employment) Order 2012.
+
+### 2 Commencement
+(1) Clauses 3 and 7 come into force on 24 May 2012.
+(2) The rest of this order comes into force on 1 July 2012.
+
+### 5 Application of employee provisions
+Sections 30E to 30G of the State Sector Act 1988 apply to the transfer of the functions of the former departments and ministries to the Ministry of Business, Innovation, and Employment.
+
+### 6 Application of consequential changes to references provisions
+Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period of 24 months, beginning on 1 July 2012 and ending on 30 June 2014, after the transfer of the functions of the former departments and ministries to the Ministry of Business, Innovation, and Employment.
+
+### 7 Transitional provision relating to 2012 Budget documents
+(1) To avoid doubt, any reference in the following documents to any of the former departments and ministries or to the Ministry of Consumer Affairs must, on and after 1 July 2012, be read as a reference to the Ministry of Business, Innovation, and Employment or to part of the Ministry of Business, Innovation, and Employment, as the context requires:
+  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
+  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
+(2) To avoid doubt, any reference in the following documents to the Responsible Minister for any of the former departments and ministries must, on and after 1 July 2012, be read as a reference to the Responsible Minister for the Ministry of Business, Innovation, and Employment:
+  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
+  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
+(3) The statements of intent for 2012–2015 for the former departments and ministries must be taken to be the Statement of Intent for 2012–2015 for the Ministry of Business, Innovation, and Employment.
+
+### 8 Transitional provision relating to Ministry of Consumer Affairs
+(1) The purpose of this clause is to provide a transitional period relating to certain functions, duties, and powers of the Ministry of Consumer Affairs, which was, until 1 July 2012, part of the Ministry of Economic Development.
+(2) References in the following regulations to the Ministry of Consumer Affairs must be read as if they were references to the Ministry of Business, Innovation, and Employment:
+  (a) regulations 17 and 18(1) of the Financial Service Providers (Dispute Resolution—Reserve Scheme Fees) Rules 2010:
+  (b) the definition of reserve scheme governance contract in regulation 3 of the Financial Service Providers (Appointment of Reserve Scheme) Order 2010:
+  (c) paragraph (d) of the definition of competent organisation in regulation 16, and forms 2, 6, and 8 of Schedule 5 of the Weights and Measures Regulations 1999.
+(3) The reference in regulation 35A(5)(b) of the Disputes Tribunals Rules 1989 to the head of the Ministry of Consumer Affairs must be read as if it were a reference to the chief executive of the Ministry of Business, Innovation, and Employment.
+(4) This clause expires on 30 June 2014.
