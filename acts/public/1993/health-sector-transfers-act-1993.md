@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2010-11-09_
+_Consolidation as at 2012-07-01_
 
 > Title
 
@@ -21,7 +21,6 @@ _Consolidation as at 2010-11-09_
     (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights of any kind whether enforceable by Act or rule of law:
     (f) goodwill, and any business undertaking:
     (g) interests of any kind in any of the foregoing
-  - **CHFA** means the Crown Health Financing Agency continued by section 57 of the New Zealand Public Health and Disability Act 2000
   - **Crown endowment** means, in relation to land held by a DHB, a trust settled by the Crown or by or pursuant to any Act, Provincial Ordinance, grant, or Order in Council in respect of that land, whether before or after it came to be held by the DHB, being a trust—
     (a) for the purpose of providing an income derived from that land—
       (i) for hospital purposes (such as for the maintenance of a hospital); or
@@ -43,6 +42,7 @@ _Consolidation as at 2010-11-09_
   - **employee** has the same meaning as in section 6 of the Employment Relations Act 2000
   - **Health Benefits Limited** means the company incorporated under the Companies Act 1993 with the name Health Benefits Limited
   - **hospital board** means a hospital board constituted by section 25 of the Hospitals Act 1957
+  - **HPA** means the Health Promotion Agency established by section 57 of the New Zealand Public Health and Disability Act 2000
   - **HQSC** means the Health Quality and Safety Commission established under section 59A of the New Zealand Public Health and Disability Act 2000
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
@@ -50,7 +50,7 @@ _Consolidation as at 2010-11-09_
     (c) contingent liabilities; and
     (d) interests of any kind in any of the foregoing
   - **predecessor in title** , in relation to a DHB, means any of its predecessors in title that was an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
-  - **publicly-owned health and disability organisation** means any DHB, the CHFA, the NZBS, Pharmac, and HQSC
+  - **publicly-owned health and disability organisation** means any DHB, the HPA, the NZBS, Pharmac, and HQSC
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—and the word has a corresponding meaning
     (a) assign and convey; and
