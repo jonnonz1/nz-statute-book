@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2011-08-30_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1574,15 +1574,14 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Accident Compensation Corporation |  |  |  |  |  |
 | Careers New Zealand |  |  |  |  |  |
 | Civil Aviation Authority of New Zealand |  |  |  |  |  |
-| Crown Health Financing Agency |  |  |  |  |  |
 | District Health Boards |  |  |  |  |  |
 | Earthquake Commission |  |  |  |  |  |
 | Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
+| Health Promotion Agency |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
-| Health Sponsorship Council |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
 | Maritime Safety Authority of New Zealand |  |  |  |  |  |
 | New Zealand Antarctic Institute |  |  |  |  |  |
@@ -1602,14 +1601,11 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
-| Alcohol Advisory Council of New Zealand |  |  |  |  |  |
 | Arts Council of New Zealand Toi Aotearoa |  |  |  |  |  |
 | Broadcasting Commission |  |  |  |  |  |
-| Charities Commission |  |  |  |  |  |
 | Families Commission |  |  |  |  |  |
 | Government Superannuation Fund Authority |  |  |  |  |  |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
-| Mental Health Commission |  |  |  |  |  |
 | Museum of New Zealand Te Papa Tongarewa Board |  |  |  |  |  |
 | New Zealand Artificial Limb Board |  |  |  |  |  |
 | New Zealand Film Commission |  |  |  |  |  |
