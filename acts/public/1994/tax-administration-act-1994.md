@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-05-29_
+_Consolidation as at 2012-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -75,7 +75,6 @@ _Consolidation as at 2012-05-29_
     (ab) to commence proceedings under section 89K(6) challenging a refusal to issue a notice; or
     (b) the proceedings,—
   - **challenge notice** means a notice issued by the Commissioner in accordance with section 89P
-  - **Charities Commission** means the Charities Commission established under Part 1 of the Charities Act 2005
   - **civil penalty** means—
     (a) a late filing penalty; or
     (b) a late payment penalty; or
@@ -1116,7 +1115,7 @@ An information holder who is required to disclose information in relation to a p
   (eb) has a tax credit under section LH 2 of the Income Tax Act 2007:
   (ec) is a listed research provider under section LH 15 of that Act:
   (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
-  (f) is a company that is an ICA company, a FDPA company, a BETA company, a BETA person, a PCA company, or a PCA person:
+  (f) is a company that is an ICA company, a FDPA company, a BETA person, a PCA company, or a PCA person:
   (fb) is a resident foreign trustee of a foreign trust in any income year,—
   (g) the assessable income derived by that person from the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (h) the deductions of that person in the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
@@ -1149,7 +1148,7 @@ An information holder who is required to disclose information in relation to a p
 (7) In this section, records includes—
   (a) books of account (whether contained in a manual, mechanical, or electronic format) recording receipts or payments or income or expenditure:
   (b) vouchers, bank statements, invoices, receipts, and such other documents as are necessary to verify the entries in the books of account referred to in paragraph (a):
-  (c) accounts (whether contained in a manual, mechanical, or electronic format) to be maintained under the imputation rules, the FDP rules, or section OA 3 for accounts under subparts OE and OJ, and sections OP 97 to OP 108 of the Income Tax Act 2007, and any statement to be retained under section 31 or 71 of this Act:
+  (c) accounts (whether contained in a manual, mechanical, or electronic format) to be maintained under the imputation rules, the FDP rules, or section OA 3 for accounts under subparts OE and OJ, of the Income Tax Act 2007, and any statement to be retained under section 31 or 71 of this Act:
   (d) in the case of a foreign trust, other than for the period for which section 59B(3) applies,—
     (i) documents that evidence the creation and constitution of the foreign trust; and
     (ii) particulars of settlements made on, and distributions made by, the foreign trust, including the date of the settlement or distribution, the name and address (if known) of the settlor of the settlement, the name and address (if known) of the recipient of the distribution; and
@@ -1781,7 +1780,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 ### 33C Return not required for certain providers of personal services
 A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Accident Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
   (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
-  (b) under section RD 10(3) of the Income Tax Act 2007, an amount of tax was withheld by the Corporation from each payment referred to in paragraph (a); and
+  (b) the taxable income of the person does not exceed $14,000 for the tax year; and
   (c) tax is withheld at the rate of 10.5% from the personal service rehabilitation payment; and
   (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
 
@@ -2575,9 +2574,7 @@ Where an FDPA company attaches an FDP credit to a dividend, the company shall in
   (b) the amount and source of all credits and debits that have arisen during the tax year as described in sections OA 5(2) and OA 6(2) of the Income Tax Act 2007:
   (c) the amount of any further income tax payable for the tax year under sections OB 65 to OB 67 of that Act:
   (d) the amount of any imputation penalty tax payable for the tax year:
-  (e) when the company is a branch equivalent tax account (BETA) company,—
-    (i) the opening balance and closing balance of the company’s branch equivalent tax account for the tax year:
-    (ii) the amount and source of all credits and debits to the company’s branch equivalent tax account for the tax year that have arisen as described in sections OA 5(5)﻿(a) and OA 6(5)﻿(a) of that Act:
+  (e)
   (f)
   (g) when the company is a policyholder credit account (PCA) company,—
     (i) the opening balance and closing balance of the company’s policyholder credit account for the tax year:
@@ -2680,9 +2677,7 @@ Where any amalgamating company ceases to exist on an amalgamation, the amalgamat
   (b) in particular but without limitation, make a return of income in respect of the amalgamating company and the tax year in which the amalgamation takes place.
 
 ### 77 Company electing to maintain branch equivalent tax account to furnish amended annual ICA return
-Where any company—the company shall immediately after the making of that election furnish an amended annual ICA return for that tax year including that information.
-  (a) has made an election under section OE 3 of the Income Tax Act 2007 after the end of the tax year in respect of which the election is made; and
-  (b) has furnished to the Commissioner before the election was made an annual ICA return for that year in the prescribed form which does not include the information prescribed in section 69(1)﻿(e),—
+[Repealed]
 
 ### 78 Annual and other returns for BETA persons
 (1) Every BETA person shall furnish to the Commissioner an annual BETA return in the prescribed form for each income year in respect of which the person is required to maintain such an account.
@@ -3117,9 +3112,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (fa) communicating to any person, being an officer, employee, or agent of the Regulator for the purposes of the Accident Insurance Act 1998 any information, being information—
     (i) which the person is authorised by the Regulator to receive; and
     (ii) which is communicated to that person for the purposes of section 370 or section 371 of the Accident Insurance Act 1998:
-  (fb) communicating to any person, being a member, an employee, or an agent of the Charities Commission, any information, being information—
-    (i) that the person is authorised by the Charities Commission to receive; and
-    (ii) that the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable that person to carry out any duty lawfully conferred on that person relating to the exercise of the Charities Commission's powers or the performance of its functions and duties:
+  (fb) communicating to any person, being a member, an employee, or an agent of the Board established by section 8 of the Charities Act 2005 or the chief executive defined in section 4(1) of that Act, any information, being information—
+    (i) that the person is authorised by that Board or chief executive to receive; and
+    (ii) that the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable that person to carry out any duty lawfully conferred on that person relating to the exercise of the powers of that Board or chief executive or the performance of their functions and duties under that Act:
   (fc) communicating to a person who is a member, employee, or agent, of the New Zealand Customs Service, information that—
     (i) the person is authorised by the New Zealand Customs Service to receive; and
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
@@ -3709,8 +3704,8 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
       (B) specifying the matters required by section 89G; or
     (ii) a notice of proposed adjustment—
       (A) in respect of a disputable decision referred to in subsection (1B)﻿(b); and
-      (B) specifying the matters required by section 89F; or,—
-    (iii) a statement of position:
+      (B) specifying the matters required by section 89F; or
+    (iii) a statement of position,—
   (c) the disputant's rejection of the Commissioner's notice of proposed adjustment; or
   (d) the disputant's notice of proposed adjustment; or
   (e) the disputant's statement of position:
