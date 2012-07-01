@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -952,7 +952,7 @@ In this Part, unless the context otherwise requires,—
   - **specified agency** means any of the following agencies:
     (a) the Accident Compensation Corporation:
     (aa) the Regulator, as defined by Part 10 of the Accident Compensation Act 2001:
-    (b) the Chief Registrar of Electors:
+    (b) the Electoral Commission established by section 4B of the Electoral Act 1993:
     (ba) the company within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992:
     (bb) the Board of the Government Superannuation Fund Authority:
     (bc) the Board of Trustees of the National Provident Fund:
@@ -1395,6 +1395,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Enactment | Public register provision |
 | --- | --- |
 | Animal Products Act 1999 | Sections 18, 52, 73, and 112 |
+| Auditor Regulation Act 2011 | section 38 |
 | Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 5, 7(2), 8, 21B, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62A, and 62C |
 | Building Act 2004 | Sections 216, 273, and 298 |
 | Building Societies Act 1965 | Section 121A |
