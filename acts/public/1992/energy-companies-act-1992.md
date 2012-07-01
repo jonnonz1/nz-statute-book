@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2012-07-01_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -753,7 +753,7 @@ Where any Board, local authority, or energy company is required under this Act t
 The Minister may, from time to time, for the purposes of this Act, require any establishing authority to make available to the Minister information in its possession or over which it has control relating to its energy undertaking; and the establishing authority shall make that information available in a form in which it may be readily understood.
 
 ### 86A Supply of computer compiled lists and computer tapes containing electoral information to Electric Power Boards and energy companies
-(1) Where any officer, member, or employee of an Electric Power Board (within the meaning of the Electric Power Boards Act 1925), or of an energy company (within the meaning of this Act), or of any trust that has a substantial share holding in such a company, wishes to obtain a computer compiled list or computer tape, disk, or diskette containing any of the information specified in subsection (2), for the purposes of—the Chief Registrar of Electors may give that member, officer, or employee, a computer compiled list or computer tape, disk, or diskette containing that information.
+(1) Where any officer, member, or employee of an Electric Power Board (within the meaning of the Electric Power Boards Act 1925), or of an energy company (within the meaning of this Act), or of any trust that has a substantial share holding in such a company, wishes to obtain a computer compiled list or computer tape, disk, or diskette containing any of the information specified in subsection (2), for the purposes of—the Electoral Commission may give that member, officer, or employee, a computer compiled list or computer tape, disk, or diskette containing that information.
   (a) any election or poll to be conducted by or on behalf of that Board or company or trust; or
   (b) any distribution of shares—
 (2) For the purposes of subsection (1), the following information may be recorded on a computer compiled list or computer tape, disk, or diskette for any electoral district:
@@ -761,11 +761,12 @@ The Minister may, from time to time, for the purposes of this Act, require any e
   (b) the residential address of each elector, and postal address (if different):
   (c) the occupation (if any) of each elector:
   (d) statistical meshblock details of each elector.
-(3) The provisions of sections 64BB and 64BC of the Electoral Act 1956 and any regulations made under the Electoral Act 1956 prescribing requirements in respect of computer tapes, disks, or diskettes, or prescribing fees, shall apply, with any necessary modifications, as if—
-  (a) the information sought or supplied under this section had been sought or supplied pursuant to section 64A(8A) of the Electoral Act 1956; and
-  (b) the persons to whom information may be supplied under this section were persons to whom section 64A(8A) of the Electoral Act 1956 applied; and
-  (c) the purposes described in paragraphs (a) and (b) of subsection (1) were purposes for which the supply of information was authorised under section 64A(8A) of the Electoral Act 1956.
-(4) In this section, expressions defined in the Electoral Act 1956 have the meanings so defined.
+(3) The provisions of sections 116 and 117 of the Electoral Act 1993 and any regulations made under the Electoral Act 1993 prescribing requirements in respect of computer tapes, disks, or diskettes, or prescribing fees, shall apply, with any necessary modifications, as if—
+  (a) the information sought or supplied under this section had been sought or supplied pursuant to section 113(9) of the Electoral Act 1993; and
+  (b) the persons to whom information may be supplied under this section were persons to whom section 113(9) of the Electoral Act 1993 applied; and
+  (c) the purposes described in paragraphs (a) and (b) of subsection (1) were purposes for which the supply of information was authorised under section 113(9) of the Electoral Act 1993.
+(3A) Electoral Commission, in this section, means the Electoral Commission established by section 4B of the Electoral Act 1993.
+(4) In this section, expressions (other than Electoral Commission) defined in the Electoral Act 1993 have the meanings so defined.
 
 ### 87 Local authority shareholding in energy companies
 (1) Local authorities are hereby authorised to subscribe for, otherwise acquire, hold, or dispose of, equity securities in energy companies.
