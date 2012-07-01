@@ -1,5 +1,5 @@
 # Alcohol Advisory Council Act 1976
-_Consolidation as at 2010-01-01_
+_Consolidation as at 2012-07-01_
 
 > Title
 
