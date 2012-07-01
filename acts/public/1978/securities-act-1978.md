@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -225,15 +225,12 @@ _Consolidation as at 2011-10-01_
 (2) Nothing in subsection (1) limits the ways in which a person may make due enquiry about a matter.
 
 ### 2C Meaning of qualified auditor
-(1) For the purposes of this Act, a person is a qualified auditor only if—
-  (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-  (b) the person is an auditor appointed by the Auditor-General under section 32 of the Public Audit Act 2001; or
-  (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
-    (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this Act by the Registrar; and
-    (ii) the person is entitled to act as an auditor in the country, State, or territory in which the association is constituted; or
-  (d) the person, not being a person referred to in paragraph (c), is—
-    (i) entitled to act as an auditor in a country, State, or territory outside New Zealand; and
-    (ii) approved for the time being for the purposes of this Act by the Registrar by notice in the Gazette.
+(1) For the purposes of this Act, qualified auditor means—
+  (a) a licensed auditor; or
+  (b) a registered audit firm; or
+  (c) in the case of an issuer that is a public entity under the Public Audit Act 2001, the Auditor-General or any other person who may act as the auditor under that Act.
+(1A) In this section, licensed auditor and registered audit firm have the same meanings as in section 6 of the Auditor Regulation Act 2011.
+(1B) The appointment of a registered audit firm by the firm name to be the qualified auditor for the purposes of this Act is deemed to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
 (2) None of the following persons is qualified for appointment as an auditor of the accounting or other records of an issuer of securities:
   (a) the issuer, or a principal officer, officer, or employee of the issuer:
   (b) a person who is a partner of or in the employment of a person specified in paragraph (a):
