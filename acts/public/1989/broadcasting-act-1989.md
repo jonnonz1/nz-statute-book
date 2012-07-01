@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-07-01_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -661,7 +661,7 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
     (c) advocates support for a candidate or for a political party; or
     (d) opposes a candidate or a political party; or
     (e) notifies meetings held or to be held in connection with an election
-  - **Electoral Commission** means the Electoral Commission established under section 4 of the Electoral Act 1993
+  - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **free-to-air television broadcasting** means broadcasting of television programmes by means of radio waves propagated in space without artificial guide, where persons wishing to view programmes are not required to pay to do so
   - **general election** means a general election within the meaning of the Electoral Act 1993
   - **production costs** , in relation to an opening address or a closing address, includes the costs of linking between venues and broadcasting studios
@@ -686,7 +686,7 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
     (ii) relating solely to 1 named constituency candidate at an election; and
     (iii) used or appearing to be used to promote or procure the election of the candidate; and
     (iv) broadcast by the candidate or with the candidate's authority within the election period; or
-  (d) any advertisement placed by the Electoral Commission or by the Chief Registrar of Electors, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
+  (d) any advertisement placed by the Electoral Commission, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
   (e) any non-partisan advertisement broadcast, as a community service, by the broadcaster.
 (2A) Nothing in subsection (1) restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
 (2B) Nothing in this Act derogates from section 214B of the Electoral Act 1993.
