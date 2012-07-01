@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -29,6 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **financial year** means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
   - **friendly society** means a society of the kind specified in section 11(1)(a)
   - **land** includes any interest in land
+  - **licensed auditor** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **meeting** includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
   - **Minister** means the Minister of the Crown having for the time being charge of the administration of this Act
@@ -36,6 +37,7 @@ In this Act, unless the context otherwise requires,—
   - **persons claiming through a member** includes the nominee of the member where nomination is allowed
   - **property** means all property, whether real or personal (including accounting records and all documents)
   - **registered** means received by the Registrar and sealed with his seal of office
+  - **registered audit firm** has the same meaning as in section 6 of the Auditor Regulation Act 2011
   - **registered society or branch** means a society or branch registered or deemed to be registered under Part 2
   - **Registrar** means the Registrar of Friendly Societies and Credit Unions, and, where a Deputy Registrar of Friendly Societies and Credit Unions is lawfully acting, includes that Deputy Registrar
   - **Revising Barrister** means the Solicitor-General; and includes any Crown Counsel in the Crown Law Office
@@ -472,16 +474,21 @@ A registered society or branch may (if its rules so provide) out of any surplus 
   (b) prescribe what receipts and payments of a society shall be taken into account for the purposes of subsection (2) or subsection (3),—
 
 ### 63 Qualifications for appointment as auditor
-(1) Subject to subsection (3), no person shall be qualified for appointment as auditor of a registered society or branch under this Act unless he is—
-  (a) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-  (b) a member, fellow, or associate of an association of accountants constituted outside New Zealand which is for the time being approved for the purposes of section 199 of the Companies Act 1993.
-(2) The appointment of a partnership by the firm name to be the auditors of a registered society or branch shall be taken to be the appointment of all the persons who are partners in the firm at the time of the appointment.
+(1) No person is qualified for appointment as auditor of a registered society or branch under this Act unless he or she is,—
+  (a) in the case of a registered society or branch that is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993), a licensed auditor:
+  (b) in any other case,—
+    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+    (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of section 199 of the Companies Act 1993.
+(2) The appointment of a partnership by the firm name to be the auditors of a registered society or branch shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
+(2A) However, if the registered society or branch is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),—
+  (a) a partnership appointed by its firm name to be the auditors of the registered society or branch must be a registered audit firm; and
+  (b) the appointment of a registered audit firm by its firm name to be the auditors of the registered society or branch is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
 (3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a registered society or branch and holding office as such immediately before the commencement of this Act from acting as auditor of that society or branch, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that society or branch.
 (4) None of the following persons shall be qualified for appointment as auditor of a registered society or branch:
   (a) an officer or employee of the society or branch:
   (b) a person who is a partner of or in the employment of an officer or employee of the society or branch:
   (c) a body corporate.
-(5) Subsections (1) and (4) shall have effect notwithstanding anything to the contrary in the rules of any society or branch.
+(5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any society or branch.
 (6) Subject to section 64, if a registered society or branch appoints any unqualified person to be an auditor—
   (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
   (b) the society or branch, and every officer of the society or branch who is in default, commits an offence against this Act.
@@ -1093,16 +1100,21 @@ For the purposes of this Part, the following provisions shall, as far as they ar
 (7) No association of credit unions shall be an exempt credit union under this section.
 
 ### 123 Qualifications for appointment as auditor
-(1) For the purposes of section 122(1), no person shall be qualified for appointment as auditor of a credit union unless he is—
-  (a) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
-  (b) a member, fellow, or associate of an association of accountants constituted outside New Zealand which is for the time being approved for the purposes of section 199 of the Companies Act 1993.
-(2) The appointment of a partnership by the firm name to be auditors shall be taken to be the appointment of all the persons who are partners in the firm at the time of the appointment.
+(1) For the purposes of section 122(1), no person is qualified for appointment as auditor of a credit union unless he or she is,—
+  (a) in the case of a credit union that is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993), a licensed auditor:
+  (b) in any other case,—
+    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+    (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of section 199 of the Companies Act 1993.
+(2) The appointment of a partnership by the firm name to be auditors shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
+(2A) However, if the credit union is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),—
+  (a) a partnership appointed by its firm name to be the auditors of the credit union must be a registered audit firm; and
+  (b) the appointment of a registered audit firm by its firm name to be the auditors of the credit union is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
 (3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a credit union and holding office as such immediately before the commencement of this Act from acting as auditor of that credit union, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that credit union.
 (4) None of the following persons shall be qualified for appointment as auditor of a credit union:
   (a) an officer or employee of the credit union:
   (b) a person who is a partner of or in the employment of an officer or employee of the credit union:
   (c) a body corporate.
-(5) Subsections (1) and (4) shall have effect notwithstanding anything to the contrary in the rules of any credit union.
+(5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any credit union.
 (6) If a credit union to which section 122(1) applies appoints any unqualified person to be an auditor—
   (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
   (b) the credit union, and every officer of the credit union who is in default, commits an offence against this Act.
