@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -31,7 +31,6 @@ This Act may be cited as the Electoral Act 1993.
     (b) not to vote for a constituency candidate (whether or not the name of the candidate is stated)
   - **census** means the census of population and dwellings carried out by the Department of Statistics pursuant to the Statistics Act 1975
   - **Chief Electoral Officer** means the Chief Electoral Officer appointed under this Act; and includes any person authorised to exercise the powers, duties, and functions of the Chief Electoral Officer
-  - **Chief Registrar** means the Chief Registrar of Electors holding office under section 21; and includes his or her deputy
   - **component party** means, in relation to a registered political party (in this definition called the ) or in relation to a political party that is applying for registration (in this definition called the ),—
     (a) a political party that is a member of the registered party or of the applicant party; or
     (b) a political party that has combined some or all of its membership with that of another political party and thereby formed the registered party or the applicant party or augmented the membership of such a party, as the case may be
@@ -80,7 +79,6 @@ This Act may be cited as the Electoral Act 1993.
   - **member of the Defence Force** means any person resident in New Zealand within the meaning of this Act who is for the time being a member of the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990; and includes any person so resident who is attached to, or employed by, or carries out duties of the New Zealand Defence Force which necessitate his or her being outside New Zealand
   - **meshblock** means statistical meshblock
   - **Minister** means the Minister of Justice
-  - **New Zealand Post** or means the company called New Zealand Post Limited, which is incorporated under the Companies Act 1955 pursuant to the State-Owned Enterprises Act 1986; and includes that company on its reregistration under the Companies Act 1993
   - **nomination day** , in relation to any election, means the day appointed in the writ for that election as the latest day for the nomination of candidates
   - **party** , in Parts 6AA and 6A,—
     (a) means a political party registered under Part 4; and
@@ -152,7 +150,7 @@ A reference to a numbered form is a reference to the form so numbered in Schedul
     (ii) a party advertisement.
 (2) None of the following are election advertisements:
   (a) an advertisement that—
-    (i) is published, or caused or permitted to be published, by the Electoral Commission, the Chief Registrar of Electors, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand; and
+    (i) is published, or caused or permitted to be published, by the Electoral Commission or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand; and
     (ii) relates to electoral matters or the conduct of any general election or by-election; and
     (iii) contains either—
       (A) a statement indicating that the advertisement has been authorised by that officer or agency; or
@@ -327,7 +325,7 @@ The provisions of Schedule 1 apply to the Electoral Commission and to its procee
 
 ### 5 Functions
 The functions of the Electoral Commission are to—
-  (a) carry the provisions of this Act (except those of Part 5) into effect:
+  (a) carry the provisions of this Act into effect:
   (b) carry out duties in relation to parliamentary election programmes that are prescribed by Part 6 of the Broadcasting Act 1989:
   (c) promote public awareness of electoral matters by means of the conduct of education and information programmes or by other means:
   (d) consider and report to the Minister or to the House of Representatives on electoral matters referred to the Electoral Commission by the Minister or the House of Representatives:
@@ -365,12 +363,29 @@ The Electoral Commission must act independently in performing its statutory func
 (2) The Minister must present any report received under subsection (1) to the House of Representatives within 5 working days after receiving it or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 (3) The Electoral Commission must publish any report made under subsection (1) as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the report is received by the Minister.
 
-### 9 Electoral Commission may delegate functions, duties, or powers to non-employees
-(1) The Electoral Commission's board may under section 73 of the Crown Entities Act 2004 delegate any of the Commission's functions or powers, either generally or specifically, not only to any person or persons listed in section 73(1) of the Crown Entities Act 2004, but also to any electoral official who is engaged by (rather than employed by) the Electoral Commission.
-(2) The electoral official may (without limiting the definition of that term in section 3(1)) be a person of one of the following kinds that the Electoral Commission engages for the purpose of assisting with the performance of its functions:
+### 9 Electoral Commission may delegate functions or powers to electoral officials engaged by Commission
+(1) The Electoral Commission's board may under section 73 of the Crown Entities Act 2004 delegate any of the Commission's functions or powers, either generally or specifically, not only to any person or persons listed in section 73(1) of the Crown Entities Act 2004, but also to any electoral official who is engaged (rather than employed) by the Commission.
+(2) The functions or powers delegated may (without limitation) be or include either or both of the following:
+  (a) the Commission's power under section 73 of the Crown Entities Act 2004 to delegate particular functions or powers of the Commission:
+  (b) all or any of the Commission's functions or powers that relate to registration of electors.
+(3) The electoral official may (without limiting the definition of that term in section 3(1)) be a person of one of the following kinds that the Electoral Commission engages for the purpose of assisting with the performance of its functions:
   (a) a body corporate:
   (b) an individual who holds an office in, or is employed by, a body corporate.
-(3) The provisions of the Crown Entities Act 2004, including in particular sections 74 (powers of delegate), 75 (effect of delegation), and 76 (revocations), apply in respect of a delegation by virtue of this section to any electoral official who is engaged (rather than employed) by the Electoral Commission as if it were a delegation under section 73 of the Crown Entities Act 2004 to any person or persons listed in section 73(1) of the Crown Entities Act 2004.
+(4) For the purposes of this section, the Commission's functions or powers that relate to registration of electors include, without limitation, its functions or powers under (or under any regulations under) Part 5 of this Act, and also its functions or powers under (or under any regulations under) the following Acts:
+  (a) Bay of Plenty Regional Council (Maori Constituency Empowering) Act 2001:
+  (b) Citizens Initiated Referenda Act 1993:
+  (c) Energy Companies Act 1992:
+  (d) Juries Act 1981:
+  (e) Local Electoral Act 2001:
+  (f) Referenda (Postal Voting) Act 2000.
+(5) The provisions of the Crown Entities Act 2004, including in particular sections 74 (powers of delegate), 75 (effect of delegation), and 76 (revocations), apply in respect of a delegation by virtue of this section to any electoral official who is engaged (rather than employed) by the Electoral Commission as if it were a delegation under section 73 of the Crown Entities Act 2004 to any person or persons listed in section 73(1) of the Crown Entities Act 2004.
+
+### 9A Ownership of intellectual property developed by delegates of functions or powers
+(1) Any intellectual property of any kind in, or in respect of, any matter or thing belongs to the Crown if it is devised or developed (entirely or mainly) after 30 June 2012 by or on behalf of an electoral official to whom or to which all or any of the Commission's functions or powers that relate to registration of electors have been delegated under section 73 of the Crown Entities Act 2004 (alone, or in conjunction with section 9 of this Act) and—
+  (a) in the exercise or performance by or on behalf of that official of those delegated functions or powers; or
+  (b) entirely or mainly by or through the use of public money appropriated by Parliament to facilitate the exercise or performance of those delegated functions or powers.
+(2) However, the Crown acting by and through the Minister of Finance may grant to any person a licence in respect of, or transfer to any person all or any ownership of, all or any of that intellectual property.
+(3) This section applies despite any contrary instrument or law.
 
 ### 10 Term of office
 [Repealed]
@@ -449,36 +464,36 @@ A delegation under section 20C may be revoked at will by—
 (4) For the purposes of this section, a State sector agency means any part of the State services as defined in section 2 of the State Sector Act 1988, any Crown entity within the meaning of section 7 of the Crown Entities Act 2004, and any State enterprise within the meaning of the State-Owned Enterprises Act 1986.
 
 ### 21 Chief Registrar of Electors
-(1) There shall be a Chief Registrar of Electors who shall be the person exercising the powers, duties, and functions for the time being of the Chief Executive of New Zealand Post Limited.
-(2) The Chief Registrar shall, under the direction of the responsible Minister, be charged with the duty of carrying Part 5 into effect and to that end the Chief Registrar may, both in that capacity and in the capacity of the Chief Executive of New Zealand Post Limited, provide such computer and other services and such facilities as the Chief Registrar thinks necessary.
-(2A) Without limiting the duty imposed by subsection (2), the Chief Registrar must take all reasonable steps to ensure the accuracy of information held on the electoral roll.
-(3) The Chief Registrar may from time to time appoint an officer or employee of New Zealand Post Limited to be the Deputy Chief Registrar of Electors, who, subject to the control of the Chief Registrar, shall have and may exercise all the functions, duties, and powers of the Chief Registrar.
-(4) The Chief Registrar may from time to time, either generally or particularly, by writing signed by the Chief Registrar, delegate to any officer or employee of New Zealand Post Limited all or any of the Chief Registrar’s powers, except this power of delegation.
-(5) Subject to any general or special directions given or conditions imposed from time to time by the Chief Registrar, the officer or employee to whom any powers are delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on that officer or employee directly by this Act and not by delegation.
-(6) Every officer or employee purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(7) Any delegation under this section may be made to any specified officer or employee or to officers or employees of a specified class, or to the holder or holders for the time being of a specified office or class of offices.
-(8) Any delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Chief Registrar.
-(9) Any delegation under this section shall until revoked continue in force according to its tenor, notwithstanding that the Chief Registrar by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of the Chief Registrar.
+[Repealed]
 
 ### 22 Registrar of Electors
-(1) There shall be for each electoral district a Registrar of Electors to be appointed by the Chief Registrar.
-(2) Every Registrar shall be an employee of New Zealand Post Limited appointed by name or as the holder for the time being of any specified office and shall, subject to subsection (3), be stationed at an office occupied by New Zealand Post Limited within the electoral district of which he or she is Registrar.
-(3) Where, in the opinion of the Chief Registrar,—he or she may appoint as the Registrar for the district an employee of New Zealand Post Limited stationed at an office occupied by New Zealand Post Limited in an adjoining electoral district.
-  (a) there is no suitable office occupied by New Zealand Post Limited in an electoral district; or
-  (b) an officer more suitable for appointment is stationed at an office occupied by New Zealand Post Limited in an adjoining district; or
-  (c) it appears to be in the public interest to do so,—
-(3A) A district is, for the purposes of subsection (3), an adjoining district for another district if the boundaries of both districts—
+(1) Each electoral district must have a Registrar of Electors to be appointed by the Electoral Commission.
+(2) Every Registrar—
+  (a) must be an individual who is an electoral official (as defined in section 3(1)); and
+  (b) may, but need not, hold an office in, or be an employee of, a body corporate to which all or any of the Commission's functions or powers that relate to registration of electors have been delegated; and
+  (c) must, subject to subsection (3), be stationed at an office within the electoral district of which he or she is Registrar.
+(3) The Electoral Commission may appoint as the Registrar for an electoral district a person stationed at an office occupied by the Electoral Commission, by the electoral official, or by the body corporate in or by which the electoral official holds an office or is employed, and in an adjoining electoral district if, in the Electoral Commission's opinion,—
+  (a) there is in the electoral district no suitable office occupied by the Electoral Commission, the electoral official, or that body corporate; or
+  (b) an officer more suitable for appointment is stationed at an office occupied by the Electoral Commission, the electoral official, or that body corporate in an adjoining district; or
+  (c) making the appointment is, for 1 or more other reasons, in the public interest.
+(4) A district is, for the purposes of subsection (3), an adjoining district for another district if the boundaries of both districts—
   (a) are wholly or partly shared; or
   (b) are separated by no more than 2 intermediate districts.
-(4) The Registrar shall, under the direction of the Chief Registrar,—
+(5) The Registrar must, under the Electoral Commission's direction,—
   (a) compile and keep, as required by this Act, the electoral roll for the Registrar’s electoral district; and
-  (b) carry out such other functions and duties as are specified in this Act.
-(5) The Chief Registrar may from time to time appoint an employee of New Zealand Post Limited to be the Deputy Registrar for any electoral district, who, subject to the control of the Registrar, shall have and may exercise all the powers, functions, and duties of the Registrar.
-(6) Neither the Registrar nor his or her deputy shall hold any official position in any political organisation.
-(7) The powers conferred on the Chief Registrar by subsections (1) and (5) include the power to appoint a Registrar or a Deputy Registrar for a named electoral district that is not yet in being or in respect of which a roll has not been compiled.
+  (b) carry out the functions and duties conferred and imposed on the Registrar by or under this Act.
+(6) The Electoral Commission may from time to time appoint to be the Deputy Registrar for any electoral district an individual who—
+  (a) is an electoral official (as defined in section 3(1)); and
+  (b) may, but need not, hold an office in, or be an employee of, a body corporate to which all or any of the Commission's functions or powers that relate to registration of electors have been delegated.
+(7) The Deputy Registrar has and may carry out (exercise or perform), subject to the control of the Registrar for that electoral district, all of that Registrar's powers, functions, and duties.
+(8) Neither the Registrar nor his or her deputy may hold any official position in any political organisation.
+(9) The powers conferred on the Electoral Commission by subsections (1) and (6) include the power to appoint a Registrar or a Deputy Registrar for a named electoral district—
+  (a) that is not yet in being; or
+  (b) in respect of which a roll has not been compiled.
+(10) All appointments made under section 22 as repealed on 1 July 2012 by section 31 of the Electoral (Administration) Act 2011 and in force at the close of 30 June 2012 continue on and after 1 July 2012, and may be amended, revoked, or revoked and replaced, as if they had been made under this section.
 
 ### 23 Appropriation of expenses of New Zealand Post Limited
-The expenses incurred by New Zealand Post Limited in the administration of Part 5 shall be paid out of public money appropriated by Parliament.
+[Repealed]
 
 ### 24 Employees appointed by Chief Electoral Officer
 [Repealed]
@@ -562,10 +577,10 @@ Any political party to which a member of Parliament belongs and any independent 
     (v) any projected variation in the General electoral population of those districts during their life:
   (g) no General electoral district shall be situated partially in the North Island and partially in the South Island.
 (4) As soon as possible after each periodical census, the Surveyor-General shall call a meeting of the members of the Commission who hold office under any of the provisions of paragraphs (a) to (e) of section 28(2) for the purpose of nominating a Chairperson of the Commission.
-(5) As soon as possible after each periodical census and each period specified in a notice published under section 77(2), the Chief Registrar shall supply the Government Statistician with the information that he or she is required to supply to the Government Statistician under section 77(6).
+(5) As soon as possible after each periodical census and each period specified in a notice published under section 77(2), the Electoral Commission shall supply the Government Statistician with the information that the Electoral Commission is required to supply to the Government Statistician under section 77(6).
 (6) When the Government Statistician—the Government Statistician shall thereupon report the results of the census and his or her calculation of the Maori electoral population as at the close of the last day of that period to the Surveyor-General and to the other members of the Commission.
   (a) has the results of the census; and
-  (b) has been supplied by the Chief Registrar with the information that he or she is required, under section 77(6), to supply to the Government Statistician as soon as practicable after the last day of the period specified in the notice published under section 77(2),—
+  (b) has been supplied by the Electoral Commission with the information that the Electoral Commission is required, under section 77(6), to supply to the Government Statistician as soon as practicable after the last day of the period specified in the notice published under section 77(2),—
 (7) Upon receipt of the report of the Government Statistician, the Surveyor-General shall prepare maps showing the distribution of the population and provisional boundaries for the electoral districts, and shall then call a meeting of the Commission.
 (8) The report so made by the Government Statistician, and the maps so prepared by the Surveyor-General, shall be sufficient evidence as to the General electoral population of New Zealand or of the North Island or of the South Island or of any district.
 
@@ -592,7 +607,7 @@ The Representation Commission, if it is informed by the Remuneration Authority t
 (5) The Commission shall, before coming to a final determination, duly consider any objections lodged under subsection (1)(b) and any counter-objections lodged under subsection (4).
 
 ### 39 Communications to officials
-(1) When, after the gazetting, pursuant to section 38, of a notice stating places (which shall include the office of each Registrar of Electors) at which the public may inspect, without charge, a description of the boundaries of the proposed districts, the Commission makes a determination relating to the boundaries of any district, the Surveyor-General must communicate the details of that determination to the Electoral Commission, the Chief Registrar of Electors, and such other entities or persons directly concerned with the administration of this Act as have been specified by the Representation Commission by name or by position or by the functions they perform.
+(1) When, after the gazetting, pursuant to section 38, of a notice stating places (which shall include the office of each Registrar of Electors) at which the public may inspect, without charge, a description of the boundaries of the proposed districts, the Commission makes a determination relating to the boundaries of any district, the Surveyor-General must communicate the details of that determination to the Electoral Commission and such other entities or persons directly concerned with the administration of this Act as have been specified by the Representation Commission by name or by position or by the functions they perform.
 (2) Any entity or person to whom information is communicated pursuant to subsection (1) shall use that information only for the purposes of this Act.
 
 ### 40 Report of Commission
@@ -1088,7 +1103,7 @@ For the purposes of this Act, a person is a permanent resident of New Zealand if
 (3) The Minister shall, as soon as practicable after the commencement of this section, and in accordance with section 269(2), publish the first notice under subsection (2).
 (4) Subject to subsections (3) and (5) and to section 269(2), the Minister shall, in every year that a quinquennial census of population is taken, but in no other year, publish a notice under subsection (2).
 (5) Notwithstanding subsection (4), where a Parliament is due to expire in a year in which a quinquennial census of population is to be taken, the Minister shall not, in that year, publish a notice under subsection (2), but shall instead, in the year following the year in which the quinquennial census of population is taken, publish such a notice.
-(6) For the purpose of enabling the Government Statistician to calculate the Maori electoral population, the Chief Registrar shall, as soon as practicable after the last day of each period specified in a notice published under subsection (2), supply to the Government Statistician—
+(6) For the purpose of enabling the Government Statistician to calculate the Maori electoral population, the Electoral Commission shall, as soon as practicable after the last day of each period specified in a notice published under subsection (2), supply to the Government Statistician—
   (a) the total number of persons registered as electors of the Maori electoral districts as at the close of that last day; and
   (b) the total number of persons registered as electors of the General electoral districts, who, as at the close of that last day, are recorded as having given written notice to the Registrar that they are persons of New Zealand Maori descent; and
   (c) the total number of persons whose names are shown on the dormant rolls maintained under section 109 for the Maori electoral districts; and
@@ -1145,11 +1160,11 @@ Except as provided in sections 76 to 78,—
     (ii) is the spouse, civil union partner, de facto partner, or child of the person referred to in subparagraph (i), or the child of the spouse, civil union partner, or de facto partner of that person.
 
 ### 81 Detention in prison pursuant to sentence of imprisonment
-(1) Where a person who has been sentenced to imprisonment is received into a prison in which that person is to serve the whole or part of the sentence, the prison manager of that prison shall, not later than the seventh day after the day on which the prisoner is received into the prison, forward to the Chief Registrar of Electors a notice—
+(1) Where a person who has been sentenced to imprisonment is received into a prison in which that person is to serve the whole or part of the sentence, the prison manager of that prison shall, not later than the seventh day after the day on which the prisoner is received into the prison, forward to the Electoral Commission a notice—
   (a) showing the name, previous residential address, and date of birth of that person; and
   (b) showing the name and address of the prison.
   (c)
-(2) The Chief Registrar of Electors shall, on receiving a notice under subsection (1), forward a copy of that notice to the appropriate Registrar of Electors.
+(2) The Electoral Commission shall, on receiving a notice under subsection (1), forward a copy of that notice to the appropriate Registrar of Electors.
 (3) In subsection (1), prison manager has the meaning given to it by section 3(1) of the Corrections Act 2004.
 
 **Registration**
@@ -1162,7 +1177,7 @@ Except as provided in sections 76 to 78,—
 (2) Notwithstanding anything in subsection (1)(a), any person of or over the age of 17 years may make application in the prescribed form to a Registrar of Electors for registration as an elector, and that person shall, upon attaining the age of 18 years, be registered as an elector without any further application.
 (3) Every person qualified to be registered as an elector of any electoral district may, if he or she is outside New Zealand, make application in the prescribed form to a Registrar of Electors for registration as an elector of that district at any time.
 (4) Where a Maori is qualified to be registered as an elector of both a Maori electoral district and a General electoral district, this section shall apply with respect to only one of those districts, being the district in respect of which he or she has exercised his or her option under section 76.
-(4A) A person who is or has been a registered elector may, instead of using the prescribed form to make an application required by subsection (1)(c), make it by supplying to the Registrar using an electronic medium approved for the purpose by the Chief Registrar information necessary to complete the prescribed form and identified by the Registrar.
+(4A) A person who is or has been a registered elector may, instead of using the prescribed form to make an application required by subsection (1)(c), make it by supplying to the Registrar using an electronic medium approved for the purpose by the Electoral Commission information necessary to complete the prescribed form and identified by the Registrar.
 (4B) Nothing in section 85(1) and (2) applies to an application required by subsection (1)(c) and that a person intends to make, or makes, in accordance with subsection (4A).
 (5) Where it appears to the Registrar that an applicant is qualified to be registered as an elector of another electoral district, the Registrar shall forthwith send the application to the Registrar of that district.
 (6) Every person commits an offence against this section who, being required by this section to apply for registration as an elector during any period, knowingly and wilfully fails to so apply.
@@ -1174,7 +1189,7 @@ Except as provided in sections 76 to 78,—
 (1) Every Registrar must, at the times required by or under this section, direct an inquiry to be made concerning the particulars on the roll of every person registered as an elector of the district.
 (2) An inquiry must be made,—
   (a) where practicable, within the period of 12 months ending with the day on which a Parliament is due to expire; and
-  (b) at any other time directed by the Chief Registrar.
+  (b) at any other time directed by the Electoral Commission.
 (3) In any year in which a triennial general election of members of any local authority must be held under the Local Electoral Act 2001, every Registrar of a district that is, in part or in whole, within the local government area of a local authority must direct an inquiry to be made concerning the particulars on the roll of every person who—
   (a) is registered as an elector of that district; and
   (b) appears from those particulars to reside within that local government area.
@@ -1194,7 +1209,7 @@ Except as provided in sections 76 to 78,—
   (c) the form or the information supplied electronically is deemed to be an application for registration for the purposes of section 82; and
   (d) the Registrar for the old electoral district must, in accordance with section 98(1)(a), remove from the roll for that district the name of the elector.
 (2) If, following an inquiry under section 83, the Registrar receives from an elector a form, or information supplied electronically under subsection (3), that contains a change to any particulars other than a change of place of residence referred to in subsection (1), the Registrar must amend the roll in accordance with the information supplied in the form or electronically.
-(3) An elector may, instead of returning a form to the Registrar to notify the Registrar that the elector has changed his or her place of residence and now resides in another electoral district or to notify the Registrar of a change to any other of the elector's particulars, notify the Registrar of a change to any of the elector's particulars by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
+(3) An elector may, instead of returning a form to the Registrar to notify the Registrar that the elector has changed his or her place of residence and now resides in another electoral district or to notify the Registrar of a change to any other of the elector's particulars, notify the Registrar of a change to any of the elector's particulars by supplying that information to the Registrar using an electronic medium approved for the purpose by the Electoral Commission.
 (4) An elector remains on the roll and his or her particulars on the roll remain unchanged if—
   (a) the Registrar does not receive from the elector a form, or information supplied electronically under subsection (3); or
   (b) the Registrar receives from the elector a form, or information supplied electronically under subsection (3), with no changes.
@@ -1213,7 +1228,7 @@ If the Registrar receives, during an inquiry under section 83(1), or within 28 d
   (a) the Registrar is notified that an inquiry made under section 83(1) or a form sent under section 78(2) cannot be delivered to the elector to whom it is addressed because the whereabouts of the elector are not known; or
   (b) at any other time the elector cannot be contacted at the elector’s address on the roll.
 (2) If this section applies, the Registrar must—
-  (a) make any inquiry as to the whereabouts of the elector that the Registrar thinks fit or that the Chief Registrar directs; and
+  (a) make any inquiry as to the whereabouts of the elector that the Registrar thinks fit or that the Electoral Commission directs; and
   (b) if the Registrar is then unable to contact the elector, the Registrar must remove the name of the elector from the roll and include the name in the dormant roll maintained under section 109.
 
 ### 83D Transfer of electors between electorates
@@ -1281,7 +1296,7 @@ If the Registrar receives, during an inquiry under section 83(1), or within 28 d
   (b) to delete the name of the applicant from that main, supplementary, or composite roll.
 
 ### 87A Procedure if immigration status means applicant apparently not qualified to be registered
-(1) This section applies in accordance with section 263A(6)(a) if the Chief Registrar under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
+(1) This section applies in accordance with section 263A(6)(a) if the Electoral Commission under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
   (a) unlawfully in New Zealand; or
   (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
 (2) When this section applies the Registrar must comply with subsections (3) to (5) before determining under section 87 whether the applicant for registration as an elector is qualified to be registered.
@@ -1323,7 +1338,7 @@ The Registrar must, not later than 14 days after the registration of a person (i
 (2) Where a person to whom subsection (1) applies is both—the person holding office as that welfare guardian or the person holding office as that attorney shall, on behalf of the person to whom subsection (1) applies, comply with subsection (1), and the person to whom subsection (1) applies shall not be under any personal obligation to comply with that subsection.
   (a) a person who lacks, wholly or partly, the capacity to understand the nature of the decision to register as an elector; and
   (b) a person in respect of whom a welfare guardian appointed for that person under section 12(1) of the Protection of Personal and Property Rights Act 1988 or an attorney appointed by that person under an enduring power of attorney holds office,—
-(2A) A person to whom subsection (1) applies (but not a person who is required by subsection (2) to comply with subsection (1)) may, instead of giving a written notice to the Registrar of the change of place of residence and the address of the new place of residence, notify the Registrar of them by supplying that information to the Registrar using an electronic medium approved for the purpose by the Chief Registrar.
+(2A) A person to whom subsection (1) applies (but not a person who is required by subsection (2) to comply with subsection (1)) may, instead of giving a written notice to the Registrar of the change of place of residence and the address of the new place of residence, notify the Registrar of them by supplying that information to the Registrar using an electronic medium approved for the purpose by the Electoral Commission.
 (3) Every person commits an offence who knowingly and wilfully fails to comply with subsection (1) or subsection (2).
 (4) Every person who commits an offence against this section shall be liable on summary conviction to a fine not exceeding $50 on a first conviction, and to a fine not exceeding $100 on any subsequent conviction.
 
@@ -1333,8 +1348,8 @@ A registered elector who has changed his or her place of residence within an ele
 **Death of registered elector**
 
 ### 92 Notification of death of registered elector
-(1) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Chief Registrar of Electors.
-(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 that may be required to enable the Chief Registrar and Electoral Commission—
+(1) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Electoral Commission.
+(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 that may be required to enable the Electoral Commission—
   (a) to determine the electoral district in which the deceased person resided; and
   (b) to take appropriate steps in relation to the roll and other records.
 
@@ -1342,7 +1357,7 @@ A registered elector who has changed his or her place of residence within an ele
 
 ### 93 Notification of marriages and civil unions
 (1) In this section, Registrar-General means the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) As soon as is reasonably practicable after the registration of a marriage under Part 7 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, or the registration of a civil union under Part 7A of that Act, the Registrar-General must provide to the Chief Registrar the following information in respect of each of the parties to the marriage or civil union:
+(2) As soon as is reasonably practicable after the registration of a marriage under Part 7 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, or the registration of a civil union under Part 7A of that Act, the Registrar-General must provide to the Electoral Commission the following information in respect of each of the parties to the marriage or civil union:
   (a) full name:
   (b) date of birth:
   (c) usual residential address:
@@ -1350,7 +1365,7 @@ A registered elector who has changed his or her place of residence within an ele
 (3) Subsection (4) applies if a party to the marriage or civil union is—
   (a) registered as an elector of any district; or
   (b) a person who has applied under section 82(2) for registration as an elector.
-(4) The Chief Registrar must—
+(4) The Electoral Commission must—
   (a) send to the party to the marriage or civil union a notice asking for details of any changes resulting from the marriage or civil union that may be required to the name, address, and occupation under which he or she is registered on the roll; and
   (b) if a change is required, amend the roll in accordance with the details supplied.
 (5) If an amendment to the roll is required under subsection (4) and the amendment does not appear on the main or supplementary roll printed for any election, the person is, if otherwise qualified, entitled to vote at the election under his or her former name as it appears on the roll.
@@ -1359,7 +1374,7 @@ A registered elector who has changed his or her place of residence within an ele
 
 ### 94 Notification of change of name
 (1) This section applies if a person registers a change of his or her name under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must provide to the Chief Registrar the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
+(2) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must provide to the Electoral Commission the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
   (a) the old name and the new name of the person; and
   (b) the person’s date of birth; and
   (c) the person’s full residential address.
@@ -1395,7 +1410,7 @@ A registered elector who has changed his or her place of residence within an ele
   (a) that he or she may forward to the Registrar a statement signed by him or her giving reasons why his or her name should be retained on the roll; and
   (b) that his or her name will be retained on the roll if he or she provides the Registrar with evidence that satisfies the Registrar that the name of the person objected to should be retained on the roll; and
   (c) that if he or she fails to forward a statement to the Registrar within 14 days after the day on which that notice is served on the person objected to, the Registrar will, under section 95B, remove from the roll the name of the person objected to.
-(4) Where, after making such inquiry as he or she thinks fit, or the Chief Registrar directs, the Registrar is unable, after making at least 2 attempts to do so, to serve the notice of objection on that person personally, the Registrar shall remove the name of that person from the roll and include the name in the dormant roll maintained under section 109.
+(4) Where, after making such inquiry as he or she thinks fit, or the Electoral Commission directs, the Registrar is unable, after making at least 2 attempts to do so, to serve the notice of objection on that person personally, the Registrar shall remove the name of that person from the roll and include the name in the dormant roll maintained under section 109.
 
 ### 95B Power to remove name from roll
 Where, within 14 days after the day on which a notice under section 95A(1) or section 96(2) is served on the person objected to,—either fails to provide evidence of eligibility to be on the roll or notifies the Registrar that he or she consents to the removal from the roll of the name of the person objected to, the Registrar shall, unless the objection has been withdrawn by the objector, remove from the roll the name of the person objected to and shall notify the parties accordingly.
@@ -1427,7 +1442,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (a) that he or she may forward to the Registrar a statement signed by him or her giving reasons why his or her name should be retained on the roll; and
   (b) that his or her name will be retained on the roll if he or she provides the Registrar with evidence that satisfies the Registrar that the name of the person objected to should be retained on the roll; and
   (c) that if he or she fails to forward a statement to the Registrar within 14 days after the day on which that notice is served on the person objected to, the Registrar will, under section 95B, remove from the roll the name of the person objected to.
-(5) Where, after making such inquiry as he or she thinks fit, or as the Chief Registrar directs, the Registrar is unable, after making at least 2 attempts to do so, to serve notice of objection on that person personally, the Registrar shall remove the name of that person from the roll and include the name in the dormant roll maintained under section 109.
+(5) Where, after making such inquiry as he or she thinks fit, or as the Electoral Commission directs, the Registrar is unable, after making at least 2 attempts to do so, to serve notice of objection on that person personally, the Registrar shall remove the name of that person from the roll and include the name in the dormant roll maintained under section 109.
 (6) Nothing in this section affects the provisions of this Act as to the removal of names from the roll by the Registrar.
 
 ### 97 Procedure on reference of application or objection to District Court
@@ -1501,26 +1516,26 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 **Electoral rolls**
 
 ### 101 Electoral rolls
-(1) Where a notice is gazetted under section 40(1)(b) or section 45(9)(b), the Chief Registrar shall—
+(1) Where a notice is gazetted under section 40(1)(b) or section 45(9)(b), the Electoral Commission shall—
   (a) decide, on the basis of the then existing rolls, which of the electors are entitled to be registered as electors of each electoral district whose boundaries are fixed by the report to which the notice relates; and
   (b) compile for each electoral district whose boundaries are fixed by the report to which the notice relates a list of persons appearing to be entitled to be registered as electors of that electoral district (in this section called the compiled list).
 (2) For the purposes of any inquiry under section 83 which is considered before the dissolution or expiration of the Parliament in existence when any list is compiled pursuant to subsection (1)(b), the compiled list shall be the electoral roll for the district to which it relates.
-(3) For the purposes of the printing of the main rolls and the supplementary rolls, each compiled list shall, if the Chief Registrar so directs, be the electoral roll for the district to which it relates.
+(3) For the purposes of the printing of the main rolls and the supplementary rolls, each compiled list shall, if the Electoral Commission so directs, be the electoral roll for the district to which it relates.
 (4) Where a compiled list is, under subsection (2) or subsection (3), the electoral roll for the district to which it relates, that electoral roll shall come into force on the dissolution or expiry of the then existing Parliament.
 (5) The compiled lists shall be compiled immediately before—whichever is the earlier.
   (a) the next succeeding inquiry under section 83; or
-  (b) the printing of the main rolls (where the Chief Registrar directs that, for the purposes of the printing of the main rolls and the supplementary rolls, each compiled list shall be the electoral roll for the district to which it relates),—
+  (b) the printing of the main rolls (where the Electoral Commission directs that, for the purposes of the printing of the main rolls and the supplementary rolls, each compiled list shall be the electoral roll for the district to which it relates),—
 (6) Every roll to which subsection (4) applies, as it may be updated from time to time following an inquiry under section 83, continues in force until a new roll for the district is compiled and comes into force.
 (7) The Registrar shall keep every roll to which subsection (4) applies up to date by making all such additions, alterations, and deletions as become necessary.
 
 ### 102 Maintenance of rolls being replaced
-(1) Where the Chief Registrar has compiled the lists referred to in section 101(1)(b), the respective Registrars of Electors shall not be obliged to keep up to date the rolls for the districts that were in existence immediately before the gazetting under section 40(1)(b) or section 45(9)(b) of the notice that immediately preceded the compilation of those lists.
-(2) Notwithstanding subsection (1), the Chief Registrar shall ensure that each Registrar of a district to which that subsection applies has available to him or her, until the roll for that district ceases to be in force, all information necessary to enable him or her to bring his or her roll up to date in the event of a by-election in that district (which information may include or consist of photocopies of original documents).
+(1) Where the Electoral Commission has compiled the lists referred to in section 101(1)(b), the respective Registrars of Electors shall not be obliged to keep up to date the rolls for the districts that were in existence immediately before the gazetting under section 40(1)(b) or section 45(9)(b) of the notice that immediately preceded the compilation of those lists.
+(2) Notwithstanding subsection (1), the Electoral Commission shall ensure that each Registrar of a district to which that subsection applies has available to him or her, until the roll for that district ceases to be in force, all information necessary to enable him or her to bring his or her roll up to date in the event of a by-election in that district (which information may include or consist of photocopies of original documents).
 (3) Where a by-election is to take place in a district to which subsection (1) applies, the Registrar of that district shall cause an up to date composite roll for the district to be closed and printed as at writ day for the by-election.
-(4) Where a by-election has taken place in a district to which subsection (1) applies, the Registrar of that district shall, after the time allowed for the filing of an election petition in respect of the by-election has expired or, where an election petition is filed in respect of that by-election, after that election petition has been finally disposed of, send to other Registrars of Electors such of the original applications for registration as electors held by him or her as the Chief Registrar specifies.
+(4) Where a by-election has taken place in a district to which subsection (1) applies, the Registrar of that district shall, after the time allowed for the filing of an election petition in respect of the by-election has expired or, where an election petition is filed in respect of that by-election, after that election petition has been finally disposed of, send to other Registrars of Electors such of the original applications for registration as electors held by him or her as the Electoral Commission specifies.
 
 ### 103 Rolls where Parliament dissolved after change of boundaries and before new rolls completed
-(1) Where a Parliament is dissolved in the period between the gazetting of a notice under section 40(1)(b) or section 45(9)(b) and the completion of the compilation of the rolls pursuant to section 101, the Chief Registrar shall—
+(1) Where a Parliament is dissolved in the period between the gazetting of a notice under section 40(1)(b) or section 45(9)(b) and the completion of the compilation of the rolls pursuant to section 101, the Electoral Commission shall—
   (a) comply with paragraphs (a) and (b) of section 101(1); and
   (b) direct which of the applications for registration as electors which constituted the rolls of the electoral districts that were defined immediately before the report to which that notice relates took effect shall be sent to the respective Registrars of the electoral districts fixed by that report.
 (2) Subject to subsection (3), each list compiled under section 101(1)(b) (as applied by subsection (1)(a) of this section) shall be the electoral roll for the district to which it relates and shall come into force as soon as it is compiled.
@@ -1532,11 +1547,11 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 (1) The Registrar for every district shall, at least once in each year, cause to be printed a main roll for the district, which shall contain a list of all persons whose names are lawfully on the electoral roll for the district on a date to be fixed for the closing of the main rolls.
 (2) The date to be fixed for the purposes of subsection (1) shall,—
   (a) in the case of a year in which Parliament is due to expire, be fixed by the Governor-General by Order in Council; and
-  (b) in the case of any other year, be fixed by the Chief Registrar by notice in the Gazette.
+  (b) in the case of any other year, be fixed by the Electoral Commission by notice in the Gazette.
 (3) Every main roll printed for any district under this section shall be the main roll for the district until a new main roll is printed for the district.
 
 ### 105 Supplementary rolls to be printed
-(1) The Registrar for every district shall from time to time cause to be printed a supplementary roll for the district, which shall contain a list of all persons whose names do not appear on the main roll or any existing supplementary roll for the district but are lawfully on the electoral roll for the district on a date to be fixed for the closing of that supplementary roll by the Chief Registrar of Electors:
+(1) The Registrar for every district shall from time to time cause to be printed a supplementary roll for the district, which shall contain a list of all persons whose names do not appear on the main roll or any existing supplementary roll for the district but are lawfully on the electoral roll for the district on a date to be fixed for the closing of that supplementary roll by the Electoral Commission:
   provided that a supplementary roll shall be printed as soon as may be after the issue of a writ for an election in the district, and the date for the closing of that roll shall be writ day.
 (2) Every supplementary roll printed for any district under this section shall be a supplementary roll for the district until a new main roll is printed for the district.
 
@@ -1552,7 +1567,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (a) shall, subject to any additions, alterations, and deletions made to the electoral roll for the district, contain a list of—
     (i) all persons whose names appear on the main roll for the district; and
     (ii) all persons whose names appear on any existing supplementary roll for the district; and
-    (iii) all persons whose names do not appear on the main roll for the district or any existing supplementary roll for the district but are lawfully on the electoral roll for the district on a date to be fixed for the closing of that composite roll by the Chief Registrar of Electors; and
+    (iii) all persons whose names do not appear on the main roll for the district or any existing supplementary roll for the district but are lawfully on the electoral roll for the district on a date to be fixed for the closing of that composite roll by the Electoral Commission; and
   (b) shall, subject to paragraph (a), be printed in the manner prescribed by section 106 in respect of a main roll.
 (2) Notwithstanding anything in subsection (1), in the case of a by-election in any district, the Registrar of Electors for that district shall cause a composite roll for that district to be closed and printed as at writ day for the by-election.
 (3) Where the date for the closing of a composite roll for a district is writ day in relation to an election in that district, the Registrar of Electors—
@@ -1568,7 +1583,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
     (ii) whether any person is qualified to vote in any district as a special voter.
 
 ### 108 Habitation indexes
-The Chief Registrar—
+The Electoral Commission—
   (a) may from time to time compile in respect of any electoral district a habitation index—
     (i) listing, in accordance with their residential addresses, the electors who reside in that electoral district; and
     (ii) showing, against the name of each elector, the number of the elector on the main roll, or, as the case may be, on any supplementary roll for that electoral district; and
@@ -1591,11 +1606,11 @@ The Chief Registrar—
 (5) The dormant roll as it exists on the day before polling day may be used for the purpose of determining whether any person is qualified, under section 60(c) or (d), to vote at any election held in the district to which the roll relates.
 
 ### 110 Public inspection of rolls, etc
-(1) A copy or copies of—shall be kept for inspection by the public at the Office of the Registrar of Electors, and at such other places within the district as the Minister of Justice or the Chief Registrar directs.
+(1) A copy or copies of—shall be kept for inspection by the public at the Office of the Registrar of Electors, and at such other places within the district as the Electoral Commission directs.
   (a) the main roll and of the supplementary rolls for any district; and
   (b) the latest index compiled under section 108 in respect of the electoral district; and
   (c) the most recent computer-compiled list printed pursuant to section 109(5) for the electoral district—
-(2) Any direction given by the Minister of Justice or the Chief Registrar, as the case may be, may be given in respect of any or all of the categories of documents specified in subsection (1).
+(2) Any direction given by the Electoral Commission may be given in respect of any or all of the categories of documents specified in subsection (1).
 (3) Any person may inspect at the Registrar’s office, without payment, at any time between 9 am and 4 pm on any day on which the office is open for the transaction of business,—
   (a) the documents specified in subsection (1):
   (b) the most recent computer-compiled list which is held by the Registrar and which shows the names and particulars of the persons who are on the roll for the district:
@@ -1619,12 +1634,12 @@ The Chief Registrar—
 (8) Where land in a General electoral district is included within the boundaries of a Maori electoral district, a copy of the most recent computer-compiled list printed pursuant to section 109(5) in respect of the Maori electoral district shall be kept open for inspection by the public at the office of the Registrar of the General electoral district as well as at the office of the Registrar of the Maori electoral district.
 
 ### 111 Inspection of rolls at hui
-(1) Subject to subsection (2), the Chief Registrar of Electors shall, at the request of any person, make available for public inspection, under the supervision of any Registrar of Electors or person nominated by the Chief Registrar, at any meeting or hui—
+(1) Subject to subsection (2), the Electoral Commission shall, at the request of any person, make available for public inspection, under the supervision of any Registrar of Electors or person nominated by the Electoral Commission, at any meeting or hui—
   (a) the main roll and the supplementary rolls kept for any district:
   (b) the most recent computer-compiled list which is held by the Registrar of Electors for any district and which shows the names and particulars of the persons who are on the roll for the district:
   (c) any computer-compiled list printed pursuant to section 109(5).
-(2) A request made under subsection (1) shall not be granted unless the Chief Registrar of Electors is satisfied that a large number of persons are likely to attend the meeting or hui in respect of which the request is made.
-(3) Where a roll or list is made available for public inspection under subsection (1), the roll or list shall be made available at such times and places as the Chief Registrar of Electors thinks fit.
+(2) A request made under subsection (1) shall not be granted unless the Electoral Commission is satisfied that a large number of persons are likely to attend the meeting or hui in respect of which the request is made.
+(3) Where a roll or list is made available for public inspection under subsection (1), the roll or list shall be made available at such times and places as the Electoral Commission thinks fit.
 
 ### 111A Objectives of sections 111B to 111F
 The objectives of sections 111B to 111F are—
@@ -1646,34 +1661,34 @@ For the purposes of sections 111C to 111F,—
   - **Maori elector** means a person registered as an elector who has given written notice to a Registrar that the person is of Maori descent
   - **register of iwi affiliations** means a list or lists of persons of Maori descent and their iwi affiliations, together with the information described in section 111C(2) in respect of those persons.
 
-### 111C Chief Registrar may seek consent of Maori electors to supply of information to designated body
-(1) The Chief Registrar may seek the consent of any Maori elector to the supply by the Chief Registrar from time to time of the particulars described in subsection (2) to the designated body for the purpose of establishing and maintaining a register or registers of iwi affiliations.
+### 111C Electoral Commission may seek consent of Maori electors to supply of information to designated body
+(1) The Electoral Commission may seek the consent of any Maori elector to the supply by the Electoral Commission from time to time of the particulars described in subsection (2) to the designated body for the purpose of establishing and maintaining a register or registers of iwi affiliations.
 (2) The particulars referred to in subsection (1) are—
   (a) the elector’s name, including first names, surname, and preferred honorific (if any):
   (b) the elector’s postal address, email address (if any), and contact telephone numbers (if any):
   (c) the elector’s date of birth:
-  (d) any randomly generated number assigned to that elector by the Chief Registrar.
-(3) The Chief Registrar may ask a Maori elector—
+  (d) any randomly generated number assigned to that elector by the Electoral Commission.
+(3) The Electoral Commission may ask a Maori elector—
   (a) whether the Maori elector consents to the supply of his or her iwi affiliation information to the designated body for the purpose of establishing and maintaining a register or registers of iwi affiliations; and
   (b) if the answer under paragraph (a) is in the affirmative,—
     (i) to give his or her iwi affiliation information; and
     (ii) if the elector wishes, to specify the iwi organisation or organisations or other Maori organisation or organisations to which the elector’s iwi affiliation information may be supplied by the designated body.
-(4) Despite subsections (1) and (3), the Chief Registrar must not seek the consent under this section of a person in respect of whom the Chief Registrar has given a direction under section 115.
-(5) If the Chief Registrar seeks the consent of a person under this section, the Chief Registrar must advise the person of the provisions of section 111D(4) and section 111F(1) to (4).
-(6) If the Chief Registrar seeks the consent of a person under subsection (1), the Chief Registrar must advise the person that a consent given under that subsection may be withdrawn at any time.
-(7) The Chief Registrar—
+(4) Despite subsections (1) and (3), the Electoral Commission must not seek the consent under this section of a person in respect of whom the Electoral Commission has given a direction under section 115.
+(5) If the Electoral Commission seeks the consent of a person under this section, the Electoral Commission must advise the person of the provisions of section 111D(4) and section 111F(1) to (4).
+(6) If the Electoral Commission seeks the consent of a person under subsection (1), the Electoral Commission must advise the person that a consent given under that subsection may be withdrawn at any time.
+(7) The Electoral Commission—
   (a) may hold iwi affiliation information obtained in response to a request under subsection (3) only for such time as is reasonable for the purpose of forwarding that information to the designated body; and
   (b) must not retain any of that iwi affiliation information.
 
-### 111D Chief Registrar may supply information to designated body
-(1) The Chief Registrar may supply the information described in subsection (2) to the designated body if—
-  (a) the Chief Registrar has obtained the consent of a Maori elector under section 111C(1) (and that consent has not been withdrawn); and
-  (b) the Chief Registrar has under section 111C(3) obtained the consent of a Maori elector to the supply of the iwi affiliation information of that elector.
+### 111D Electoral Commission may supply information to designated body
+(1) The Electoral Commission may supply the information described in subsection (2) to the designated body if—
+  (a) the Electoral Commission has obtained the consent of a Maori elector under section 111C(1) (and that consent has not been withdrawn); and
+  (b) the Electoral Commission has under section 111C(3) obtained the consent of a Maori elector to the supply of the iwi affiliation information of that elector.
 (2) The information referred to in subsection (1) is—
   (a) the particulars of the elector described in section 111C(2); and
   (b) the elector’s iwi affiliation information; and
   (c) if, under section 111C(3)(b)(ii), the elector specified a particular organisation or organisations to which the iwi affiliation information may be supplied, the name of that organisation or those organisations.
-(3) The Chief Registrar may charge a reasonable fee for the supply of information to the designated body under this section.
+(3) The Electoral Commission may charge a reasonable fee for the supply of information to the designated body under this section.
 (4) Information supplied under this section is supplied for the purpose of enabling the designated body to—
   (a) establish and maintain a register or registers of iwi affiliations; and
   (b) supply the information on that register or registers to any organisation to which it is authorised to supply that information under section 111F.
@@ -1702,7 +1717,7 @@ For the purposes of sections 111C to 111F,—
 (5) Any fee charged by the designated body for the supply of information under this section must be a reasonable fee.
 
 ### 112 Supply of information on age and Maori descent
-(1) Any person may, in the manner specified in subsection (3), request the Chief Registrar to provide to that person,—
+(1) Any person may, in the manner specified in subsection (3), request the Electoral Commission to provide to that person,—
   (a) for the purposes of research conducted by that person on a topic that relates to a scientific matter,—
     (i) a list of electors in a particular age group as defined in section 114(9); or
     (ii) a list of electors of Maori descent; or
@@ -1718,32 +1733,32 @@ For the purposes of sections 111C to 111F,—
   (e) 1 or more named wards; or
   (f) 1 or more named community board areas;—
 (4) Every list supplied following a request under subsection (1) may be supplied in the form of a computer-compiled list or in electronic form.
-(5) The Chief Registrar shall comply with a request under subsection (1) if—
+(5) The Electoral Commission shall comply with a request under subsection (1) if—
   (a) the person requesting the list pays the prescribed fee; and
   (b) the person requesting the list supplies a statement that the list is required for research being conducted by that person on a topic which is specified in the statement and which relates to a scientific matter or to human health; and
   (c) the statement supplied under paragraph (b) is signed by the chief executive of any department, organisation, or local authority to which the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 applies; and
-  (d) the person requesting the list states in a form to be provided by the Chief Registrar that the list is required for the purpose of that person’s research and will not be used for any other purpose; and
-  (e) the Chief Registrar is satisfied that the list should be provided; and
-  (f) if the person requesting the list requires the list to be supplied in electronic form, that person supplies to the Chief Registrar a storage medium for that electronic information that complies with the prescribed requirements.
+  (d) the person requesting the list states in a form to be provided by the Electoral Commission that the list is required for the purpose of that person’s research and will not be used for any other purpose; and
+  (e) the Electoral Commission is satisfied that the list should be provided; and
+  (f) if the person requesting the list requires the list to be supplied in electronic form, that person supplies to the Electoral Commission a storage medium for that electronic information that complies with the prescribed requirements.
 
 ### 113 Supply of computer-compiled lists and electronic storage media to local authorities
-(1) Subject to this section, if an electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) wishes to obtain specified information for the purposes of any election, by-election, or poll that is required by or under any Act, the electoral official is entitled to obtain from the Chief Registrar a computer-compiled list or electronic storage medium containing that information.
+(1) Subject to this section, if an electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) wishes to obtain specified information for the purposes of any election, by-election, or poll that is required by or under any Act, the electoral official is entitled to obtain from the Electoral Commission a computer-compiled list or electronic storage medium containing that information.
 (2) For the avoidance of doubt, it is hereby declared that subsection (1) shall not apply where the list or information is required for the purpose of determining whether or not there has been a valid demand for a poll or a survey of electors.
 (3) The specified information, which shall be provided free of charge, shall be provided in accordance with any regulations made pursuant to section 267.
-(4) Any electronic storage medium supplied by the Chief Registrar must be returned to the Chief Registrar as soon as practicable after use.
-(5) Where the specified information is requested for a by-election or poll to be conducted at some time other than a triennial general election, the Chief Registrar may supply only such of the specified information as is relevant to the conduct of the by-election or poll.
-(6) If an electoral official requires specified information for any purpose other than a purpose specified in subsection (1), and the latest information already available to the electoral official is not suitable for the purpose, the electoral official may make a special request to the Chief Registrar for the information, which must be supplied subject to, and in accordance with, any regulations made under section 267.
+(4) Any electronic storage medium supplied by the Electoral Commission must be returned to the Electoral Commission as soon as practicable after use.
+(5) Where the specified information is requested for a by-election or poll to be conducted at some time other than a triennial general election, the Electoral Commission may supply only such of the specified information as is relevant to the conduct of the by-election or poll.
+(6) If an electoral official requires specified information for any purpose other than a purpose specified in subsection (1), and the latest information already available to the electoral official is not suitable for the purpose, the electoral official may make a special request to the Electoral Commission for the information, which must be supplied subject to, and in accordance with, any regulations made under section 267.
 (7)
 (8) Regulations made under section 267 may prescribe—
-  (a) fees for the supply of an electronic storage medium by the Chief Registrar in any case; and
+  (a) fees for the supply of an electronic storage medium by the Electoral Commission in any case; and
   (b) fees for providing information under this section on an electronic storage medium in any case to which subsection (1) does not apply.
-(9) If an electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) wishes to obtain, for the purposes of compiling a roll of electors for the local authority and for no other purpose, any specified information, the Chief Registrar may, in accordance with regulations made under this Act, give that electoral official, on payment of the prescribed fee, a computer-compiled list or electronic storage medium containing that information.
-(9A) Any electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) may, on payment of the prescribed fee, and in accordance with regulations made under this Act, obtain from the Chief Registrar of Electors a computer-compiled list or electronic storage medium containing specified information, for the purpose of conducting an election for any body, where the Chief Registrar is satisfied that—
+(9) If an electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) wishes to obtain, for the purposes of compiling a roll of electors for the local authority and for no other purpose, any specified information, the Electoral Commission may, in accordance with regulations made under this Act, give that electoral official, on payment of the prescribed fee, a computer-compiled list or electronic storage medium containing that information.
+(9A) Any electoral official of a local authority (as defined in section 5 of the Local Electoral Act 2001) may, on payment of the prescribed fee, and in accordance with regulations made under this Act, obtain from the Electoral Commission a computer-compiled list or electronic storage medium containing specified information, for the purpose of conducting an election for any body, where the Electoral Commission is satisfied that—
   (a) the body is established by statute or is a corporate or unincorporate body established by a local authority or local authorities or is a body contracted by a local authority or local authorities to provide services to some or all local residents or is a body that provides health services or disability support services or electricity supply or is a trust that owns shares in a body or bodies involved in electricity supply to some or all local residents; and
   (b) the body has in place procedures for the democratic conduct of its elections; and
   (c) it is in the public interest that the election be conducted by a local authority.
 (9B) Nothing in subsection (9A) or subsection (9D) requires a local authority to conduct an election on behalf of any other body but, where a local authority conducts an election for another body, the local authority may impose a charge in respect of the conduct of the election.
-(9C) Where any officer of a body designated by notice in writing pursuant to subsection (9D) wishes to obtain, for the purpose of compiling a roll of electors for an election and for no other purpose, any specified information, the Chief Registrar may, in accordance with regulations made under this Act, give that officer, on payment of the prescribed fee, a computer-compiled list or electronic storage medium containing that information.
+(9C) Where any officer of a body designated by notice in writing pursuant to subsection (9D) wishes to obtain, for the purpose of compiling a roll of electors for an election and for no other purpose, any specified information, the Electoral Commission may, in accordance with regulations made under this Act, give that officer, on payment of the prescribed fee, a computer-compiled list or electronic storage medium containing that information.
 (9D) The Minister may, by notice in writing, designate bodies for the purposes of subsection (9C) if the Minister is satisfied that—
   (a) the body has in place procedures for the democratic conduct of its elections; and
   (b) it is in the public interest that the elections are conducted using the specified information.
@@ -1761,17 +1776,17 @@ For the purposes of sections 111C to 111F,—
     (v) other local authority and, where appropriate, local authority subdivision,—
 
 ### 114 Supply of electoral information to candidates, political parties, and members of Parliament
-(1) The Chief Registrar must supply to a person specified in subsection (2), on a request made in accordance with this section by that person,—
+(1) The Electoral Commission must supply to a person specified in subsection (2), on a request made in accordance with this section by that person,—
   (a) the information described in subsection (3); and
   (b) if the person so requests, the information described in subsection (4).
 (2) The persons referred to in subsection (1) are—
   (a) any candidate or any person acting on behalf of a political party who wishes to obtain the information for the purposes of the candidate or the political party:
   (b) any candidate or any person acting on behalf of a political party who wishes to obtain the information for the purposes of the candidate or the political party in connection with any local authority elections:
   (c) a member of Parliament or person acting on behalf of a member of Parliament who wishes to obtain the information for the purposes of the member of Parliament:
-  (d) any Commissioner or officer of the Electoral Commission for the purposes of assisting the Electoral Commission to exercise its functions under section 5(c):
+  (d)
   (e) any other person charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election.
 (3) The information referred to in subsection (1)(a) is—
-  (a) the names, residential addresses, occupations (if any), preferred honorifics (if any), meshblock, and postal addresses of, and any randomly generated number assigned by the Chief Registrar to, any or all of the following persons:
+  (a) the names, residential addresses, occupations (if any), preferred honorifics (if any), meshblock, and postal addresses of, and any randomly generated number assigned by the Electoral Commission to, any or all of the following persons:
     (i) the electors of an electoral district:
     (ii) the persons whose names are on the dormant roll for an electoral district:
     (iii) the electors of an electoral district who were registered as electors for that district on or after the date fixed for the closing of the main roll for the district pursuant to section 104, or on or after a date nominated by the applicant, that date being not earlier than the date on which the roll was last closed for printing:
@@ -1783,28 +1798,28 @@ For the purposes of sections 111C to 111F,—
   (c) the age group within which the elector appears; or
   (d) a list of electors in a particular age group; or
   (e) any or all of the above.
-(5) Information supplied by the Chief Registrar under this section may be supplied—
+(5) Information supplied by the Electoral Commission under this section may be supplied—
   (a) in the form of a computer-compiled list; or
   (b) in electronic form, including by the giving of remote access to the information by electronic means.
 (6) A request for information from a person described in subsection (2)(a), (b), or (c) must,—
   (a) if the information is sought in electronic form supplied on an electronic storage medium, be accompanied by a storage medium for that electronic information; and
   (b) be accompanied by the prescribed fee; and
-  (c) be accompanied by a statement, on a form to be provided by the Chief Registrar, by the person seeking the information that the information is required for purposes permitted by this section and will not be used for any purpose other than those for which it is supplied.
+  (c) be accompanied by a statement, on a form to be provided by the Electoral Commission, by the person seeking the information that the information is required for purposes permitted by this section and will not be used for any purpose other than those for which it is supplied.
 (7) A request for information from a person described in subsection (2)(d) or (e) must, if the information is sought in electronic form supplied on an electronic storage medium, be accompanied by a storage medium for that electronic information.
-(8) Regulations made under section 267 may prescribe fees, or a scale of fees, for the supply of computer-compiled lists and electronic storage media by the Chief Registrar to any person under this section, and for the giving of remote access to the information by electronic means.
+(8) Regulations made under section 267 may prescribe fees, or a scale of fees, for the supply of computer-compiled lists and electronic storage media by the Electoral Commission to any person under this section, and for the giving of remote access to the information by electronic means.
 (9) For the purposes of this section and section 112(1)(a),—
   - **age group** means, in relation to electors, those whose birthdays fall within a period of 5 years (being the first half or the second half of a decade)
   - **decade** means a period of 10 years that begins with a year that is divisible, without remainder, by 10.
 
-### 114A General provision concerning supply of information by Chief Registrar in electronic form
-If the Chief Registrar is required in accordance with this Act to supply information in electronic form, the Chief Registrar is only required to supply that information in a form, or using a medium, that is compatible with computer systems being used by the Chief Registrar at the time.
+### 114A General provision concerning supply of information by Electoral Commission in electronic form
+If the Electoral Commission is required in accordance with this Act to supply information in electronic form, the Electoral Commission is only required to supply that information in a form, or using a medium, that is compatible with computer systems being used by the Electoral Commission at the time.
 
 ### 115 Unpublished names
-(1) Notwithstanding sections 101, 104, 105, 107, 108, and 110(3)(c) and (d), where the Chief Registrar is satisfied, on the application of any person, that the publication of that person’s name would be prejudicial to the personal safety of that person or his or her family, the Chief Registrar may direct that—
+(1) Notwithstanding sections 101, 104, 105, 107, 108, and 110(3)(c) and (d), where the Electoral Commission is satisfied, on the application of any person, that the publication of that person’s name would be prejudicial to the personal safety of that person or his or her family, the Electoral Commission may direct that—
   (a) the name, residence, and occupation of that person shall not be published in any main or supplementary roll or in any list or index that may be available for inspection by the public; and
   (b) the name and particulars of that person shall not be available for inspection under section 110(3)(c); and
   (c) the application for registration of that person shall not be available for inspection under section 110(3)(d).
-(2) Without limiting the discretion conferred on the Chief Registrar by subsection (1), he or she may on the production of—exercise in respect of that person’s name, and without further evidence or inquiry, the power conferred on the Chief Registrar by that subsection.
+(2) Without limiting the discretion conferred on the Electoral Commission by subsection (1), the Electoral Commission may on the production of—exercise in respect of that person’s name, and without further evidence or inquiry, the power conferred on the Electoral Commission by that subsection.
   (a) a protection order that is in force under the Domestic Violence Act 1995 in respect of any person; or
   (aa) a restraining order that is in force under the Harassment Act 1997 in respect of any person; or
   (b) a statutory declaration from a constable to the effect that he or she believes that the personal safety of a person or of a person’s family could be prejudiced by the publication of that person’s name,—
@@ -1832,7 +1847,7 @@ If the Chief Registrar is required in accordance with this Act to supply informa
   (b) where the use or supply was for any other purpose, to a fine not exceeding $10,000.
 
 ### 117A Offence relating to misuse of electoral information supplied under section 111D
-(1) Every person commits an offence who knowingly and wilfully supplies, receives, or uses information of a kind described in section 111C(2) that is provided by, or derived from information provided by, the Chief Registrar under section 111D, for any purpose other than a purpose authorised by section 111D(4) or section 111F(4).
+(1) Every person commits an offence who knowingly and wilfully supplies, receives, or uses information of a kind described in section 111C(2) that is provided by, or derived from information provided by, the Electoral Commission under section 111D, for any purpose other than a purpose authorised by section 111D(4) or section 111F(4).
 (2) Every person who commits an offence against this section is liable on summary conviction,—
   (a) in the case of information supplied, received, or used for a commercial purpose, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
@@ -1864,7 +1879,7 @@ Every person shall be liable on summary conviction to a fine not exceeding $2,00
 (1) The Registrar shall supply to the Returning Officer for the district—
   (a) as many copies as he or she may require of the main roll and the supplementary rolls, showing all deletions (except deletions made in the period beginning on the day after writ day and ending on the day before polling day) from the electoral roll and certified correct by the Registrar; and
   (b) a copy of the list of post-writ day deletions referred to in section 98(5).
-(2) Despite section 106, the Chief Registrar may, with the agreement of the Electoral Commission, direct Registrars to modify the form of any rolls supplied under this section if that is necessary to facilitate the use of technology for the scrutiny of the rolls under this Act.
+(2) Despite section 106, the Electoral Commission may direct Registrars to modify the form of any rolls supplied under this section if that is necessary to facilitate the use of technology for the scrutiny of the rolls under this Act.
 
 ### 124 Power to destroy records
 (1) Subject to subsection (3), the Registrar may destroy any of the records described in subsection (2) if—
@@ -2017,7 +2032,7 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
 (5) The latest day for the return of a writ issued under section 153E(2) shall be the 78th day after its issue.
 
 ### 140 Chief Registrar to be notified of writ
-Immediately after receiving a writ for an election to be held in any district, the Electoral Commission must notify the Chief Registrar of the issue of the writ.
+[Repealed]
 
 ### 141 Returning Officer to be notified of writ
 Immediately after receiving a writ requiring an election to be held in a district, the Electoral Commission must notify the Returning Officer for the district of the following matters:
@@ -3109,7 +3124,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3302,8 +3317,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $25,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $50,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $25,400 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $50,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3441,9 +3456,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,065,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $25,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,000 for each electoral district contested by a candidate for the party.
+  (a) $1,082,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $25,400 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,400 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -3601,7 +3616,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $300,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $305,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
@@ -4213,7 +4228,7 @@ Where any person knowingly provides money for any purpose which is contrary to t
 
 ### 221A Electoral advertisements
 (1) Subject to subsection (2), no person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement relating to an election (not being an election advertisement as defined in section 3A) unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of that person’s place of residence or business.
-(2) Subsection (1) shall not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, by the Chief Registrar of Electors, the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
+(2) Subsection (1) shall not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, by the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
 (3) Every person is guilty of an illegal practice who wilfully contravenes any provision of subsection (1).
 (4) Nothing in this section shall restrict the publication of any news or comments relating to an election in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989.
 
@@ -4484,7 +4499,10 @@ At the conclusion of the trial of an election petition to which section 258 appl
 ### 263 Service of notices
 (1) Any notice under this Act may be served on any person by delivering it to that person, and may be delivered to that person either personally or by leaving it at his or her place of residence as stated on the roll or by posting it by registered letter addressed to him or her at that place of residence.
 (2) A notice so posted shall be deemed to have been served at the time when the registered letter would in the ordinary course of post be delivered.
-(3) Where any notice is sent by registered letter addressed to any person at his or her place of residence as stated on the roll, with a special request that the letter be returned to the sender at the expiration of 15 days if the person to whom the letter is addressed cannot be found, the return of the letter by New Zealand Post Limited shall be deemed sufficient proof that the person has quitted that place of residence.
+(3) Where any notice is sent by registered letter addressed to any person at his or her place of residence as stated on the roll, with a special request that the letter be returned to the sender at the expiration of 15 days if the person to whom the letter is addressed cannot be found, the return of the letter by a person registered as a postal operator under the Postal Services Act 1998 must be treated as sufficient proof that the person has quitted that place of residence.
+(4) Registered letter includes any service that—
+  (a) provides a system of recorded delivery; and
+  (b) is similar in nature to a registered post service provided by a person registered as a postal operator under the Postal Services Act 1998.
 
 ### 263A Disclosure of immigration information for matching purposes
 (1) In this section,—
@@ -4499,22 +4517,22 @@ At the conclusion of the trial of an election petition to which section 258 appl
       (iv) the person’s address (if known):
       (v) the expiry date of any visa held by the person
   - **responsible department** means the department of State that is, with the authority of the Prime Minister, responsible for the administration of the Immigration Act 2009.
-(2) The purpose of this section is to facilitate the disclosure of information from the responsible department to the Chief Registrar for the purposes of—
+(2) The purpose of this section is to facilitate the disclosure of information from the responsible department to the Electoral Commission for the purposes of—
   (a) verifying, for the purposes of this Act, that any person who is, or has applied to be, registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
   (b) verifying that a person who is, or has applied to be, registered as an elector is a person who the chief executive of the responsible department believes to be either—
     (i) a person who is unlawfully in New Zealand; or
     (ii) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
-(3) For the purposes of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may, at the request of the Chief Registrar, supply to the Chief Registrar any immigration information held by that department.
-(4) If, in relation to any person, immigration information is supplied to the Chief Registrar pursuant to subsection (3), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
-(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll, is—the Chief Registrar must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
+(3) For the purposes of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may, at the request of the Electoral Commission, supply to the Electoral Commission any immigration information held by that department.
+(4) If, in relation to any person, immigration information is supplied to the Electoral Commission pursuant to subsection (3), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
+(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll, is—the Electoral Commission must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
   (a) a person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
   (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,—
-(6) After receiving advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,—
+(6) After receiving advice from the Electoral Commission under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,—
   (a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87A; or
   (b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.
 
 ### 263B Disclosure of personal information for enrolment purposes
-(1) The purpose of this section is to facilitate the disclosure of information described in subsection (2) by a specified agency to the Chief Registrar only for the purposes of—
+(1) The purpose of this section is to facilitate the disclosure of information described in subsection (2) by a specified agency to the Electoral Commission only for the purposes of—
   (a) identifying persons who are qualified to apply to register as an elector but who have not yet registered; and
   (b) encouraging those persons identified to register as an elector; and
   (c) updating and ensuring the accuracy of the particulars of persons whose names are on the roll.
@@ -4530,7 +4548,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
   (b) the Ministry of Transport; and
   (c) the New Zealand Transport Agency; and
   (d) the Department of Internal Affairs.
-(4) For the purposes of this section, any officer or employee or agent of a specified agency, authorised by the chief executive of that agency, may from time to time, at the request of the Chief Registrar, supply to the Chief Registrar any of the information described in subsection (2) held by that agency,—
+(4) For the purposes of this section, any officer or employee or agent of a specified agency, authorised by the chief executive of that agency, may from time to time, at the request of the Electoral Commission, supply to the Electoral Commission any of the information described in subsection (2) held by that agency,—
   (a) in the case of the department for the time being responsible for the administration of the Social Security Act 1964, in relation to any—
     (i) beneficiary; or
     (ii) student; or
@@ -4540,7 +4558,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
   (d) in the case of the Department of Internal Affairs, in relation to any persons—
     (i) who obtain New Zealand citizenship under the Citizenship Act 1977; or
     (ii) by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
-(5) If, in relation to any person, information is supplied to the Chief Registrar under subsection (4), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
+(5) If, in relation to any person, information is supplied to the Electoral Commission under subsection (4), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
 
 ### 264 Review by select committee
 (1) The House of Representatives shall, as soon as practicable after 1 April 2000, appoint a select committee to consider the following matters:
@@ -4581,7 +4599,7 @@ Where anything is omitted to be done or cannot be done at the time required by o
 ### 267 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms for the purposes of this Act:
-  (b) prescribing fees, or a scale of fees, for the supply of computer-compiled lists and electronic storage media by the Chief Registrar to any person under section 114, and for the giving of remote access by electronic means under that section:
+  (b) prescribing fees, or a scale of fees, for the supply of computer-compiled lists and electronic storage media by the Electoral Commission to any person under section 114, and for the giving of remote access by electronic means under that section:
   (c) prescribing criteria, in addition to those specified in section 111E(3)(a) to (d), of which the Minister of Justice and the Minister of Maori Affairs must be satisfied in relation to a particular person or body of persons before designating it under section 111E:
   (ca) defining iwi organisation and other Maori organisation for the purposes of sections 111A to 111F:
   (d) prescribing the time at which, and the manner in which, special voters may vote (whether at a polling place or not and whether in or outside New Zealand):
@@ -4637,7 +4655,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 269 Membership of Representation Commission
 (1) Every person who held office as a member of the Representation Commission under section 15(2)(e) or section 15(2)(f) or section 15(3)(b) of the Electoral Act 1956 immediately before the commencement of this section shall be deemed to have been appointed as a member of the Commission under section 28(2)(e) or section 28(2)(f) or section 28(3)(b) of this Act, as the case may require.
 (2) For the purpose of enabling the Representation Commission to divide New Zealand into electoral districts on the first occasion after this Act is passed, the Minister shall, as soon as is practicable after the commencement of this section, specify a period of 2 months during which any Maori may exercise the option given by section 76.
-(3) Following the report of the Chief Registrar under section 77(6), the Government Statistician shall prepare a report on the General electoral population and the Maori electoral population in accordance with the provisions of this Act, based on the results of the periodical census conducted in the year 1991, and the report of the Chief Registrar made pursuant to section 77(6), and shall report the results of the census and his or her calculation of the electoral populations to the Surveyor-General and to the other members of the Commission.
+(3) Following the report of the Electoral Commission under section 77(6), the Government Statistician shall prepare a report on the General electoral population and the Maori electoral population in accordance with the provisions of this Act, based on the results of the periodical census conducted in the year 1991, and the report of the Electoral Commission made pursuant to section 77(6), and shall report the results of the census and his or her calculation of the electoral populations to the Surveyor-General and to the other members of the Commission.
 (4) Upon the receipt of that report, the Surveyor-General shall prepare maps showing the distribution of the population and provisional boundaries for the General electoral districts and the Maori electoral districts and shall then call a meeting of the Commission.
 (5) The report so made by the Government Statistician, and the maps so prepared by the Surveyor-General, shall be sufficient evidence as to the General electoral population and the Maori electoral population of New Zealand or of the North Island or of the South Island or of any district.
 (6) In relation to the first occasion on which, after the commencement of this section, New Zealand is, under this Act, divided into electoral districts, section 35(3)(f)(i) shall not apply.
