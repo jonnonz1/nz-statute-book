@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-07-01_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -139,6 +139,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (c) any person or member of a club, institution, or association which is not carried on with a view to profit from acting as auditor of the club, institution, or association:
   (d) any Minister of the Crown or officer charged with the administration of any law or the Controller and Auditor-General from appointing, or authorising or approving the appointment of, any person as auditor in respect of any undertaking.
 (4) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
+(5) Nothing in this section limits sections 8 and 9 of the Auditor Regulation Act 2011.
 
 ### 16 Failure to comply with summons of disciplinary body
 (1) Every person summoned under section 11 to attend a hearing of a disciplinary body commits an offence if he or she, without sufficient cause, does any or all of the following:
