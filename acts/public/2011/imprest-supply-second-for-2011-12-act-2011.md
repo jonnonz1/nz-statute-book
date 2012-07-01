@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2011/12) Act 2011
-_Consolidation as at 2011-08-12_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2011/12) Act 2011.
