@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -53,8 +53,8 @@ _Consolidation as at 2011-07-01_
 (1) A ratepayer who, at the commencement of a rating year was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is the less.
   (a) so much of the rates payable for that rating year in respect of the property as represents—
     (i) two-thirds of the amount by which those rates exceed $160, reduced by
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $23,240, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $580,—
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $23,650, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $590,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
 
@@ -149,12 +149,3 @@ Except for the purposes of this Act or the Public Finance Act 1989, or of invest
   (b) refuses or fails to comply with any requirement under section 11, or refuses or fails to answer any question put to him pursuant to that section, or knowingly gives any false or misleading answer to any such question.
 (2) Every person who commits an offence against this Act is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $500, or to both.
 (3) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information for an offence against this Act may be laid at any time within 12 months after the facts alleged in the information have been brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act.
-
-### 1 Title
-This order is the Rates Rebate (Specified Amounts) Order 2011.
-
-### 2 Commencement
-This order comes into force on 1 July 2011.
-
-### 5 Savings
-A ratepayer's entitlement to a rebate for a rating year ending on or before the commencement of this order, and the amount (if any) of that rebate, must be determined as if this order had not been made.
