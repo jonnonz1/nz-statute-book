@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2012-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -19667,7 +19667,7 @@ Dividends
   (a) the imputation rules:
   (b)
   (c) sections FM 8(3)(c), FM 27 to FM 30, GB 38, GB 40, and OP 3 to OP 50 (which relate to dividends and consolidated groups):
-  (d) subpart OE (Branch equivalent tax accounts (BETA)):
+  (d)
   (e) section 74 of the Tax Administration Act 1994.
 International tax rules
 (4) The international tax rules apply, modified as necessary, as if the consolidated group were a single company.
@@ -21230,13 +21230,7 @@ Arrangement for dividend from another company
 [Repealed]
 
 ### GB 40 BETA arrangements for carrying amounts forward
-When this section applies
-(1) This section applies when—
-  (a) a share in a branch equivalent tax account (BETA) company or another company has been subject to an arrangement, including an arrangement directly or indirectly altering rights attached to the shares; and
-  (b) the arrangement allows the BETA company to meet the requirements of section OE 10 or OE 15 (which relate to credits and debits arising to branch equivalent tax accounts); and
-  (c) a purpose of the arrangement is to defeat the intent and application of section OE 10 or OE 15.
-Company treated as not meeting requirements
-(2) The BETA company is treated as not meeting the requirements of the relevant provision in relation to the share.
+[Repealed]
 
 ### GB 41 FDPA arrangements for carrying amounts forward
 When this section applies
@@ -22623,7 +22617,7 @@ Treatment of non-resident trustee in other provisions
 (6) For the purpose only of calculating the taxable income of a trustee referred to in subsection (2), and not otherwise, the trustee is treated as resident in New Zealand for the purposes of—
   (a) sections EW 9 and EW 11 (which relate to financial arrangements):
   (b) section LJ 2 (Tax credits for foreign income tax):
-  (c) section OE 1 (General rules for companies and other persons with branch equivalent tax accounts):
+  (c) section OE 1 (General rules for persons with branch equivalent tax accounts):
   (d) the international tax rules.
 
 ### HC 26 Foreign-sourced amounts: resident trustees
@@ -28582,7 +28576,7 @@ Types of account in this Part
   (a) an imputation credit account, see subparts OB and OP:
   (b) a foreign dividend payment (FDP) account, see subparts OC and OP:
   (c)
-  (d) a branch equivalent tax account, see subparts OE and OP:
+  (d) a branch equivalent tax account, see subpart OE:
   (e) an available subscribed capital (ASC) account, see subpart OF:
   (f)
   (g) a Maori authority credit account, see subpart OK.
@@ -28628,16 +28622,9 @@ FDP credits
 CTR credits
 (4)
 Branch equivalent tax credits
-(5) A credit is a branch equivalent tax credit if it is an amount,—
-  (a) for a branch equivalent tax account (BETA) company,—
-    (i) set out in any of sections OA 7 and OE 6 to OE 11:
-    (ii) described in a row of table O7: branch equivalent tax credits:
-  (b) for a BETA person,—
-    (i) set out in section OA 7 or OE 19:
-    (ii) described in a row of table O9: person’s branch equivalent tax credits:
-  (c) for a consolidated BETA group,—
-    (i) set out in any of sections OA 7 and OP 100 to OP 104:
-    (ii) described in a row of table O25: branch equivalent tax credits of consolidated BETA groups.
+(5) A credit is a branch equivalent tax credit if it is an amount, for a BETA person,—
+  (a) set out in section OA 7 or OE 19:
+  (b) described in a row of table O9: person's branch equivalent tax credits.
 ASC credits
 (6) A credit is an ASC credit if it is an amount—
   (a) set out in section OA 7 or OF 4:
@@ -28663,16 +28650,9 @@ FDP debits
 CTR debits
 (4)
 Branch equivalent tax debits
-(5) A debit is a branch equivalent tax debit if it is an amount,—
-  (a) for a BETA company,—
-    (i) set out in any of sections OA 7 and OE 12 to OE 16:
-    (ii) described in a row of table O8: branch equivalent tax debits:
-  (b) for a BETA person,—
-    (i) set out in any of sections OA 7 and OE 20 to OE 22:
-    (ii) described in a row of table O10: person’s branch equivalent tax debits:
-  (c) for a consolidated BETA group,—
-    (i) set out in any of sections OA 7 and OP 105 to OP 108:
-    (ii) described in a row of table O26: branch equivalent tax debits of consolidated BETA groups.
+(5) A debit is a branch equivalent tax debit if it is an amount, for a BETA person,—
+  (a) set out in any of sections OA 7 and OE 20 to OE 22:
+  (b) described in a row of table O10: person's branch equivalent tax debits.
 ASC debits
 (6) A debit is an ASC debit if it is an amount—
   (a) set out in section OA 7 or OF 5:
@@ -28692,10 +28672,7 @@ Credit date
   (a) for an imputation credit account, the first day of the tax year:
   (b) for an FDP account, the first day of the tax year:
   (c)
-  (d) for a branch equivalent tax account—
-    (i) of a BETA company, the first day of the tax year; or
-    (ii) of a BETA person, the first day of the income year; or
-    (iii) of a consolidated BETA group, the first day of the tax year:
+  (d) for a branch equivalent tax account of a BETA person, the first day of the income year:
   (e) for an ASC account, the first day of the tax year:
   (f)
   (g) for a Maori authority credit account, the first day of the tax year.
@@ -28724,11 +28701,11 @@ When continuity lost
 (6) For a memorandum account and for a company or consolidated group that maintains the account when the continuity of shareholding required by subsection (7) is lost, a debit arises under the relevant section in each subpart only to the extent to which an unused amount of credit remains in the memorandum account. The relevant sections are—
   (a) section OB 41 (ICA debit for loss of shareholder continuity):
   (b) section OC 24 (FDPA debit for loss of shareholder continuity):
-  (c) section OE 15 (BETA debit for loss of shareholder continuity):
+  (c)
   (d) section OK 15 (MACA debit for loss of shareholder continuity):
   (e) section OP 42 (Consolidated ICA debit for loss of shareholder continuity):
   (f) section OP 73 (Consolidated FDPA debit for loss of shareholder continuity):
-  (g) section OP 108 (Consolidated BETA debit for loss of shareholder continuity).
+  (g)
 Shareholder continuity requirement
 (7) The shareholder continuity requirement is that, while some or all of the credit still exists, a group of persons must continue to hold—
   (a) aggregate minimum voting interests in a company or consolidated group of at least 66%; and
@@ -28756,7 +28733,7 @@ Treatment of pre-amalgamation period
   (a) it did not separately exist; and
   (b) it were instead the amalgamating company, with the same shareholders and option holders.
 Avoidance provisions
-(4) For the purposes of determining the credits and debits in the memorandum account of an amalgamating company, sections GB 34, GB 40, and GB 41 (which relate to arrangements to defeat the application of certain provisions) apply, modified as necessary.
+(4) For the purposes of determining the credits and debits in the memorandum account of an amalgamating company, sections GB 34 and GB 41 (which relate to arrangements to defeat the application of certain provisions) apply, modified as necessary.
 
 **When companies amalgamate**
 
@@ -28766,17 +28743,12 @@ When this section applies
   (a) an imputation credit account:
   (b) an FDP account:
   (c)
-  (d) a branch equivalent tax account:
+  (d)
   (e) a policyholder credit account.
 Credits and debits due
 (2) A credit or a debit due to the amalgamating company but not recorded in its memorandum account before the date of amalgamation is recorded in the same type of memorandum account of the amalgamated company. Subsections (3) and (4) override this subsection.
 Exclusion: shareholder continuity rules
-(3) Subsection (2) does not apply to—
-  (a) a debit for loss of shareholder continuity in an imputation credit account arising under section OB 41 (ICA debit for loss of shareholder continuity) and described in table O2: imputation debits, row 14 (debit for loss of shareholder continuity):
-  (b)
-  (c) a credit or debit in a branch equivalent tax account arising—
-    (i) under section OE 10 (BETA credit for loss of shareholder continuity) and described in table O7: branch equivalent tax credits, row 5 (credit for loss of shareholder continuity); and
-    (ii) under section OE 15 (BETA debit for loss of shareholder continuity) and described in table O8: branch equivalent tax debits, row 5 (debit for loss of shareholder continuity).
+(3) Subsection (2) does not apply to a debit for loss of shareholder continuity in an imputation credit account arising under section OB 41 (ICA debit for loss of shareholder continuity) and described in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
 Recording in imputation credit account
 (4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)(b) and (e), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 11 to OA 13.
 
@@ -28823,24 +28795,19 @@ Treatment of pre-amalgamation period
   (a) it did not separately exist; and
   (b) it were instead the consolidated group, with the same shareholders and option holders.
 Avoidance provisions
-(6) For the purposes of determining the credits and debits in the memorandum account of a consolidated group, sections GB 34, GB 40, and GB 41 (which relate to arrangements to defeat the application of certain provisions) apply, modified as necessary.
+(6) For the purposes of determining the credits and debits in the memorandum account of a consolidated group, sections GB 34 and GB 41 (which relate to arrangements to defeat the application of certain provisions) apply, modified as necessary.
 
 ### OA 15 When credits or debits due to consolidated group but not recorded
 When this section applies
 (1) This section applies on a resident’s restricted amalgamation referred to in section OA 14 when, at the time of the amalgamation, a consolidated group maintains—
   (a) an imputation credit account:
   (b) an FDP account:
-  (c) a branch equivalent tax account:
+  (c)
   (d) a policyholder credit account.
 Credits and debits due
 (2) A credit or a debit due to the consolidated group but not recorded in its account before the date of amalgamation is recorded in the same type of memorandum account of the amalgamated company. Subsections (3) and (4) override this subsection.
 Exclusion: shareholder continuity rules
-(3) Subsection (2) does not apply to—
-  (a) a debit for loss of shareholder continuity in an imputation credit account arising under section OP 42 (Consolidated ICA debit for loss of shareholder continuity) and described in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity):
-  (b)
-  (c) a credit or debit in a branch equivalent tax account arising—
-    (i) under section OP 104 (Consolidated BETA credit for loss of shareholder continuity) and described in table O25: branch equivalent tax credits of consolidated BETA groups, row 5 (credit for loss of shareholder continuity); and
-    (ii) under section OP 108 (Consolidated BETA debit for loss of shareholder continuity) and described in table O26: branch equivalent tax debits of consolidated BETA groups, row 5 (debit for loss of shareholder continuity).
+(3) Subsection (2) does not apply to a debit for loss of shareholder continuity in an imputation credit account arising under section OP 42 (Consolidated ICA debit for loss of shareholder continuity) and described in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
 Recording in imputation credit account
 (4) If the amalgamated company does not maintain a memorandum account referred to in subsection (1)(b) or (d), the credit or debit is recorded in the imputation credit account of the amalgamated company. See sections OA 16 and OA 17.
 
@@ -28965,7 +28932,7 @@ No credit
   (eb) income tax paid by a tax credit under subpart LA and section LH 2 (which relate to tax credits for research development and their use); or
   (f) income tax paid by a tax credit under subpart LP (Tax credits for supplementary dividends); or
   (g) further income tax applied under section OB 69 to pay income tax or provisional tax; or
-  (h) income tax paid under section OE 7 (BETA payment of income tax) by crediting a branch equivalent tax credit; or
+  (h)
   (i) income tax paid as a trustee, unless paid on category A income of the type described in paragraph (c) of the definition of company in section YA 1 (Definitions).
 Credit date
 (4) The credit date is—
@@ -30508,185 +30475,59 @@ Alternative for consolidated group
 
 ### Subpart OE — Branch equivalent tax accounts (BETA)
 
-### OE 1 General rules for companies and other persons with branch equivalent tax accounts
+### OE 1 General rules for persons with branch equivalent tax accounts
 BETA company
-(1) A company resident in New Zealand may choose to be a branch equivalent tax account (BETA) company with a branch equivalent tax account.
+(1)
 BETA person
 (2) A person resident in New Zealand who is not a company may choose to be a BETA person with a branch equivalent tax account.
 General rules: BETA company
-(3) The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to the branch equivalent tax account of a BETA company.
+(3)
 General rules: BETA person
-(4) Sections OA 2 and OA 3 apply to a BETA person and their branch equivalent tax account as if references in those sections to a tax year were references to an income year.
+(4) Sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a BETA person and their branch equivalent tax account as if references in those sections to a tax year were references to an income year.
 
 **Introductory provisions**
 
 ### OE 2 Branch equivalent tax accounts of companies
-Accounts
-(1) A BETA company must maintain a branch equivalent tax account for a tax year. The account is a record of branch equivalent tax credits and branch equivalent tax debits that arise in the account during the tax year.
-Credits
-(2)
-Debits
-(3)
-Consolidated groups
-(4) A consolidated group has a branch equivalent tax account if a group company is a BETA company, or if the group chooses to have the account.
-Group credits and debits
-(5) Certain credits and debits arise in the branch equivalent tax account of a consolidated group and not in the account of a group company.
-Shareholder continuity requirement
-(6) The carrying forward of a credit or a debit in the company’s branch equivalent tax account is subject to the shareholder continuity requirement of section OA 8 (Shareholder continuity requirements for memorandum accounts).
-Relationship with section OZ 16
-(7) Section OZ 16 (BETA reductions) may apply to modify the application of sections OE 6 to OE 16.
+[Repealed]
 
 ### OE 3 Choosing to become BETA company
-Election
-(1) A company may choose to become a BETA company for a tax year—
-  (a) at any time during the tax year; or
-  (b) no later than the day on which the company is required to file a return of income for the tax year; or
-  (c) by a later date if the Commissioner allows.
-Notifying Commissioner
-(2) The company must notify the Commissioner of an election under subsection (1)—
-  (a) no later than 21 days after the date of the election; or
-  (b) by a later date if the Commissioner allows.
-Effect of election
-(3) A BETA company must maintain a branch equivalent tax account referred to in section OE 2(1) from the first day of the tax year in which the company makes the election.
+[Repealed]
 
 ### OE 4 When company stops being BETA company
-Election
-(1) A BETA company may choose to stop being a BETA company only in a tax year that is later than the tax year in which the company chooses under section OE 3 to become a BETA company.
-When company’s status ends
-(2) The company ends its status as a BETA company from the first day of the tax year after the tax year in which it makes the election but only if it files an annual imputation credit account (ICA) return for the year of election in the time allowed by section 69 of the Tax Administration Act 1994.
+[Repealed]
 
 ### OE 5 Treatment of attributed CFC income and FIF income in this subpart
-This subpart applies to a person with an attributing interest in a foreign investment fund (FIF) by treating—
-  (a) FIF income derived from the person’s interest as attributed CFC income, if the FIF income is calculated—
-    (i) under the attributable FIF income method; or
+For the purposes of applying this subpart to a person, other than a company, with an attributing interest in a foreign investment fund (FIF),—
+  (a) FIF income derived from the person's interest is treated as attributed CFC income if the FIF income is calculated—
+    (i) under the attributable FIF income method:
     (ii) under a method to which section EX 50(6) or EX 58 (which relate to the calculation of FIF income) applies; and
-  (b) the fund as a CFC; and
-  (c) the interest as an income interest.
+  (b) the FIF is treated as a CFC; and
+  (c) the interest in the FIF is treated as an income interest.
 
 **Branch equivalent tax credits**
 
 ### OE 6 BETA payment of income tax on foreign income
-Credit
-(1) A BETA company has a branch equivalent tax credit for the lesser of the amount by which the branch equivalent tax account is in debit and the amount calculated using the formula—((CFC income for year – deductions for year) × tax rate) – foreign tax credits – debit balances.
-Definition of items in formula
-(2) In the formula,—
-  (a) CFC income for year is the amount of attributed CFC income derived during the income year corresponding to the tax year referred to in subsection (3):
-  (b) deductions for year is the total amount in the income year corresponding to the tax year referred to in subsection (3) of—
-    (i) attributed CFC loss; and
-    (ii) attributed CFC net loss; and
-    (iii) FIF loss; and
-    (iv) FIF net loss:
-  (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7 if the company is a Maori authority:
-  (d) foreign tax credits is the amount of foreign tax credits allowed for the income year corresponding to the tax year referred to in subsection (3) under sections LK 1 to LK 7 (which relate to foreign tax credits of CFCs), as applicable:
-  (e) debit balances is the total amount of all debit balances in a branch equivalent tax account applied to satisfy the company’s income tax liability for the income year corresponding to the tax year referred to in subsection (3).
-Table reference
-(3) The branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 2 (income tax on foreign income).
-Credit date
-(4) The credit date is the day the company files the return of income for the tax year.
+[Repealed]
 
 ### OE 7 BETA payment of income tax
-When this section applies
-(1) This section applies when—
-  (a) a BETA company has a debit balance in its branch equivalent tax account; and
-  (b) the income of the company includes an amount of attributed CFC income; and
-  (c) an amount of FDP that gives rise to a debit included in the debit balance has been paid—
-    (i) directly; or
-    (ii) by reducing a tax loss; or
-    (iii) to reduce an FDP liability under section RG 7 (Reduction of payments for conduit tax relief).
-Group companies
-(2) This section also applies in relation to a BETA company if another company (company B) that is part of the same group of companies has a debit balance in its branch equivalent tax account that arises in the circumstances set out in subsection (1).
-Election
-(3) The company or company B may choose to apply under section BC 8 (Satisfaction of income tax liability) some or all of the debit balance to satisfy an income tax liability in relation to attributed CFC income that is allocated to an income year beginning before 1 July 2011. The election must be made before the end of the first income year beginning on or after 1 July 2011, for the company having the branch equivalent tax account with the debit balance, by recording a credit in that branch equivalent tax account.
-Maximum amount
-(3B) Despite subsection (3) and section OP 101(2) (Consolidated BETA payment of income tax), the amount of BETA debits applied under elections under subsection (3) and section OP 101(2) relating to the attributed CFC income referred to in subsection (3) must be no more than the amount calculated under section OE 6(1) for the company that has the attributed CFC income, treating the item debit balances as zero.
-Credit
-(4)
-Table reference
-(5) The branch equivalent tax credit in subsection (3), as limited by subsection (3B), is referred to in table O7: branch equivalent tax credits, row 3 (payment of income tax).
-Excess amount treated as tax loss component
-(6) If a company chooses under subsections (3) and (3B) to apply a debit amount that exceeds the total income tax liability for the attributed CFC income referred to in subsection (3), the excess amount is treated as an amount of tax loss component of the company having the attributed income calculated using the formula—debit applied – tax liabilitytax rate.
-Definition of items in formula
-(7) In the formula,—
-  (a) debit applied is the amount of the debit balance applied by the company under an election under subsections (3) and (3B):
-  (b) tax liability is the total income tax liability for the attributed CFC income:
-  (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7, if the company is a Maori authority.
-Income tax paid
-(8) For the purposes of this section, the income tax liability—
-  (a) is calculated by applying the formula in section OE 6(1) on the basis that the item debit balances is zero:
-  (b) is satisfied to the extent to which the liability is no more than the income tax payable in relation to the amount of the attributed CFC income.
-Credit date
-(9) The credit date is the day of election.
+[Repealed]
 
 ### OE 8 BETA unused amount of debit balance
 [Repealed]
 
 ### OE 9 BETA refund of FDP
-Credit
-(1) A BETA company has a branch equivalent tax credit for the amount of a refund of FDP paid to the company. Subsections (2) to (3B) override this subsection.
-Refund giving rise to debit
-(2) A refund under subsection (1) must be a refund of a payment of FDP that gave rise to a debit under section OE 12.
-Reduction
-(3) The amount of the credit under subsection (1) is reduced to the extent to which—
-  (a) the payment of FDP is made before a branch equivalent tax credit arises under section OE 10 in the company’s branch equivalent tax account; and
-  (b) the amount of the refund is no more than the amount of the credit for loss of shareholder continuity.
-Limit on amount
-(3B) The amount of the credit under subsection (1), after any reduction under subsection (3), is limited to the amount of the debit in the company's branch equivalent tax account at the time of the refund.
-Table references
-(4) The table references are as follows:
-  (a) the branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 4 (refund of FDP):
-  (b) the branch equivalent tax debit in subsection (2) is referred to in table O8: branch equivalent tax debits, row 2 (payment of FDP):
-  (c) the branch equivalent tax credit in subsection (3)(a) is referred to in table O7: branch equivalent tax credits, row 5 (credit for loss of shareholder continuity).
-Credit date
-(5) The credit date is the day the refund is made.
+[Repealed]
 
 ### OE 10 BETA credit for loss of shareholder continuity
-Credit
-(1) A BETA company has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused at the time at which shareholder continuity is lost.
-Table reference
-(2) The branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 5 (credit for loss of shareholder continuity).
-When credit arises
-(3) The credit arises at the time shareholder continuity is lost.
-Avoidance arrangements
-(4) Section GB 40 (BETA arrangements for carrying amounts forward) may exclude a company from the application of this section.
+[Repealed]
 
 ### OE 11 BETA final balance
-Credit
-(1) A BETA company has a branch equivalent tax credit for a debit balance in the branch equivalent tax account when the company stops being resident in New Zealand.
-Table reference
-(2) The branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 6 (final balance).
-Credit date
-(3) The credit date is the day the company stops being resident in New Zealand.
+[Repealed]
 
 **Treatment of debits from conduit relief**
 
 ### OE 11B Company with debit balance, including debits from conduit relief, in some income years
-When this section applies
-(1) This section applies when a BETA company, in an income year beginning on or after 1 July 2009 (an affected year), has a debit balance—
-  (a) in its branch equivalent tax account; and
-  (b) that includes an amount (the CTR-relief amount) equal to the total of amounts that—
-    (i) relate to branch equivalent tax debits in the branch equivalent tax account that each arose under section OE 12 in relation to a foreign dividend; and
-    (ii) equal, for each branch equivalent tax debit, the reduction under section RG 7 (Reduction of payments for conduit tax relief) of the company's liability to pay FDP to the Commissioner for the foreign dividend.
-Use of CTR-relief amount
-(2) The BETA company may not choose under section OE 7 to apply the CTR-relief amount to satisfy an income tax liability except by an election—
-  (a) relating to attributed CFC income that the company allocates to an income year beginning before 1 July 2009; and
-  (b) made before the earlier of—
-    (i) the first election under section OE 7 relating to attributed CFC income that the company allocates to an affected year:
-    (ii) the end of the first affected year.
-Determination of CTR-relief amount
-(3) The CTR-relief amount in a branch equivalent tax account is found by—
-  (a) treating a branch equivalent tax debit that arises partly from a reduction of FDP under section RG 7 and partly from a payment of FDP as being 2 debits, one equal to the reduction of FDP and the other equal to the amount of the payment of FDP; and
-  (b) if a branch equivalent tax credit arises before the first affected year other than from an election relating to attributed CFC income allocated to an affected year or arises in an affected year from an election meeting the requirements of the exception to subsection (2), treating the credit as—
-    (i) reducing branch equivalent tax debits in the order in which the debits arise; and
-    (ii) for branch equivalent tax debits arising at the same time and not reduced to zero by the credit, reducing each debit in proportion to the contribution of the debit to the total of the debits; and
-  (c) if the treatment of a branch equivalent tax credit is not given by paragraph (b), treating the credit as—
-    (i) reducing branch equivalent tax debits arising from the payment of FDP in the order in which the debits arise; and
-    (ii) after all branch equivalent tax debits arising from the payment of FDP are reduced to zero, reducing debits arising from a reduction of FDP under section RG 7 in the order in which the debits arise; and
-    (iii) for branch equivalent tax debits subject to the same subparagraph and arising at the same time and not reduced to zero by the credit, reducing each debit in proportion to the contribution of the debit to the total of the debits; and
-  (d) counting an amount of a branch equivalent tax credit only once in the reduction of some or all of a branch equivalent tax debit.
+[Repealed]
 
 **Branch equivalent tax debits**
 
@@ -32154,24 +31995,10 @@ Debit date
 **Introductory provisions**
 
 ### OP 97 Branch equivalent tax accounts of consolidated BETA groups
-Consolidated group accounts
-(1) A consolidated group is a consolidated branch equivalent tax account (BETA) group for a tax year if—
-  (a) a group company is a BETA company at a time during the tax year; or
-  (b) the group chooses to maintain a branch equivalent tax account.
-Notifying Commissioner
-(2) The nominated company of a consolidated BETA group must notify the Commissioner of an election under subsection (1)(b)—
-  (a) no later than 21 days after the day of election; or
-  (b) by a later date if the Commissioner allows.
+[Repealed]
 
 ### OP 98 Choosing to stop being consolidated BETA group
-Election
-(1) The nominated company of a consolidated BETA group may choose that the group’s status as a consolidated BETA group is to end.
-No election
-(2) An election under subsection (1) may be made during a tax year that is later than the tax year in which the group chooses under section OP 97 to become a consolidated BETA group.
-When group ends status
-(3) The election takes effect from the first day of the tax year after the tax year in which the election referred to in subsection (2) is made, but only if—
-  (a) the group files an annual ICA return for the year of election in the time allowed by section 69 of the Tax Administration Act 1994; and
-  (b) no group company is a BETA company in the tax year after the year of the election.
+[Repealed]
 
 ### OP 99 When credits and debits arise only in branch equivalent tax group accounts
 [Repealed]
@@ -32179,125 +32006,24 @@ When group ends status
 **Branch equivalent tax credits of consolidated BETA groups**
 
 ### OP 100 Consolidated BETA payment of income tax on foreign income
-Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for an income year for the lesser of the amount by which the group's branch equivalent tax account is in debit and the amount calculated using the formula—((group CFC income – group deductions) × tax rate) – foreign tax – debit balances.
-Definition of items in formula
-(2) In the formula,—
-  (a) group CFC income is the amount of attributed foreign income derived by the consolidated BETA group during the income year:
-  (b) group deductions is the total amount for the group for the income year of—
-    (i) attributed controlled foreign company (CFC) loss; and
-    (ii) attributed CFC net loss; and
-    (iii) foreign investment fund (FIF) loss; and
-    (iv) FIF net loss:
-  (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7 if the company is a Maori authority:
-  (d) foreign tax is the amount of foreign tax credits allowed under sections LK 1 to LK 7 (which relate to tax credits relating to attributed CFC income), as applicable, relating to the group’s income tax liability for the income year:
-  (e) debit balances is the amount of all debit balances in a branch equivalent tax account applied to satisfy the group’s income tax liability for the income year.
-Table reference
-(3) The branch equivalent tax credit in subsection (1) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 2 (payment of income tax on foreign income).
-Credit date
-(4) The credit date is the day the nominated company files the return of income for the tax year corresponding to the income year for which the calculation is made.
+[Repealed]
 
 ### OP 101 Consolidated BETA payment of income tax
-When this section applies
-(1) This section applies when, for a consolidated BETA group,—
-  (a) attributed CFC income is derived by—
-    (i) the consolidated BETA group, and there is a debit balance in the branch equivalent tax account of the consolidated BETA group, of a member of the consolidated BETA group, or of a BETA company (a BETA group company) that would be part of the same group of companies as the consolidated BETA group if the consolidated BETA group were a single company:
-    (ii) a BETA group company, and there is a debit balance in the branch equivalent tax account of the consolidated BETA group; and
-  (b) the debits producing the debit balance arise from FDP that has been paid—
-    (i) directly:
-    (ii) by reducing a tax loss:
-    (iii) to reduce an FDP liability under section RG 7 (Reduction of payments for conduit tax relief).
-Election
-(2) The nominated company of the consolidated BETA group may choose to apply some or all of the debit balance to satisfy an income tax liability of the group or of group company B in relation to attributed CFC income that is allocated to an income year beginning before 1 July 2011. The election must be made before the end of the first income year beginning on or after 1 July 2011.
-Maximum amount
-(2B) Despite subsection (2) and section OE 7(3) (BETA payment of income tax), the amount of BETA debits applied under elections under subsection (2) and section OE 7(3) relating to the attributed CFC income referred to in subsection (2) must be no more than the amount calculated under section OE 6(1) (BETA payment of income tax on foreign income) for the company that has the attributed CFC income or under section OP 100(1) for the consolidated BETA group, in both cases treating the item debit balances as zero.
-Credit
-(3)
-Table reference
-(4) The branch equivalent tax credit in subsection (2), as limited by subsection (2B), is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 3 (payment of income tax).
-Excess amount treated as tax loss component
-(4B) If a company chooses under subsections (2) and (2B) to apply a debit amount that exceeds the total income tax liability for the attributed CFC income referred to in subsection (1), the excess amount is treated as an amount of tax loss component—debit applied – tax liabilitytax rate.
-  (a) of the BETA group company, if it has the attributed CFC income, or of the consolidated BETA group, otherwise; and
-  (b) calculated using the formula—
-Definition of items in formula
-(4C) In the formula,—
-  (a) debit applied is the amount of the debit balance applied by the company under an election under subsections (2) and (2B):
-  (b) tax liability is the total income tax liability for the attributed CFC income:
-  (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7, if the company is a Maori authority.
-Income tax paid
-(5)
-Who makes the election
-(6) An election under subsection (2) may be made as follows:
-  (a) if the income tax liability of the consolidated BETA group is to be satisfied, the election may be made by—
-    (i) the nominated company, if the debit balance is in the branch equivalent tax account of the consolidated BETA group:
-    (ii) a company that is a member of the consolidated BETA group, if the debit balance is in the branch equivalent tax account of that company:
-    (iii) a BETA group company, if the debit balance is in the branch equivalent tax account of that BETA group company:
-  (b) if the income tax liability of a BETA group company is to be satisfied, the election may be made by the nominated company of the consolidated BETA group.
-How election made
-(7) An election under subsection (2), limited by subsection (2B), is made by recording in the branch equivalent tax account a credit equal to the amount of the debit balance for which the election is made.
-Credit date
-(8) The credit date is the day of election.
+[Repealed]
 
 ### OP 102 Consolidated BETA remaining debit balances
 [Repealed]
 
 ### OP 103 Consolidated BETA refund of FDP
-Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for a tax year for the amount of a refund of FDP. Subsections (2) to (3B) override this subsection.
-Refund giving rise to debit
-(2) A refund under subsection (1) must be a refund of a payment of FDP that gave rise to a debit under section OP 105.
-Reduction
-(3) The amount of the credit under subsection (1) is reduced to the extent to which—
-  (a) the payment of FDP is made before a branch equivalent tax credit arises under section OP 104 in the group’s branch equivalent tax account; and
-  (b) the amount of the refund is no more than the amount of the credit for the loss of shareholder continuity.
-Limit on amount
-(3B) The amount of the credit under subsection (1), after any reduction under subsection (3), is limited to the amount of the debit in the group's branch equivalent tax account at the time of the refund.
-Table references
-(4) The table references are as follows:
-  (a) the branch equivalent tax credit in subsection (1) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 4 (refund of FDP):
-  (b) the branch equivalent tax debit in subsection (2) is referred to in table O26: branch equivalent tax debits of consolidated BETA groups, row 2 (payment of FDP):
-  (c) the branch equivalent tax credit in subsection (3)(a) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 5 (credit for loss of shareholder continuity).
-Credit date
-(5) The credit date is the day the refund is made.
+[Repealed]
 
 ### OP 104 Consolidated BETA credit for loss of shareholder continuity
-Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused at the time at which shareholder continuity is lost.
-Table reference
-(2) The branch equivalent tax credit in subsection (1) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 5 (credit for loss of shareholder continuity).
-When credit arises
-(3) The credit arises at the time shareholder continuity is lost.
+[Repealed]
 
 **Treatment by consolidated BETA groups of BETA debits from conduit relief**
 
 ### OP 104B Consolidated BETA group with debit balance, including debits from conduit relief, in certain income years
-When this section applies
-(1) This section applies when a consolidated BETA group, in an income year beginning on or after 1 July 2009 (an affected year), has a debit balance—
-  (a) in its branch equivalent tax account; and
-  (b) that includes an amount (the CTR-relief amount) equal to the total of amounts that—
-    (i) relate to branch equivalent tax debits in the branch equivalent tax account that each arose under section OP 105 in relation to a foreign dividend; and
-    (ii) equal, for each branch equivalent tax debit, the reduction under section RG 7 (Reduction of payments for conduit tax relief) of a company's liability to pay FDP to the Commissioner for the foreign dividend.
-Use of CTR-relief amount
-(2) The consolidated BETA group may not choose under section OP 101 to apply the CTR-relief amount to satisfy an income tax liability except by an election—
-  (a) relating to attributed CFC income that the consolidated BETA group allocates to an income year beginning before 1 July 2009; and
-  (b) made before the earlier of—
-    (i) the first election under section OP 101 relating to attributed CFC income that the group allocates to an affected year:
-    (ii) the end of the first affected year.
-Determination of CTR-relief amount
-(3) The CTR-relief amount in a branch equivalent tax account is found by—
-  (a) treating a branch equivalent tax debit that arises partly from a reduction of FDP under section RG 7 and partly from a payment of FDP as being 2 debits, one equal to the reduction of FDP and the other equal to the amount of the payment of FDP; and
-  (b) if a branch equivalent tax credit arises before the first affected year other than from an election relating to attributed CFC income allocated to an affected year or arises in an affected year from an election meeting the requirements of the exception to subsection (2), treating the credit as—
-    (i) reducing branch equivalent tax debits in the order in which the debits arise; and
-    (ii) for branch equivalent tax debits arising at the same time and not reduced to zero by the credit, reducing each debit in proportion to the contribution of the debit to the total of the debits; and
-  (c) if the treatment of a branch equivalent tax credit is not given by paragraph (b), treating the credit as—
-    (i) reducing branch equivalent tax debits arising from the payment of FDP in the order in which the debits arise; and
-    (ii) after all branch equivalent tax debits arising from the payment of FDP are reduced to zero, reducing debits arising from a reduction of FDP under section RG 7 in the order in which the debits arise; and
-    (iii) for branch equivalent tax debits subject to the same subparagraph and arising at the same time and not reduced to zero by the credit, reducing each debit in proportion to the contribution of the debit to the total of the debits; and
-  (d) counting an amount of a branch equivalent tax credit only once in the reduction of some or all of a branch equivalent tax debit.
+[Repealed]
 
 **Branch equivalent tax debits of consolidated BETA groups**
 
@@ -32564,12 +32290,7 @@ Co-operative companies' notional distributions
 (5) In the calculation under section OB 80(2) (Co-operative companies' notional distributions that are dividends), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
 
 ### OZ 16 BETA reductions
-What this section applies to
-(1) This section applies to—
-  (a) a credit and a debit in the branch equivalent tax account of a company or a consolidated group before the first day of their 2011–12 income year:
-  (b) a credit and a debit arising to the branch equivalent tax account of a company or a consolidated group on or after the first day of their 2011–12 income year, if the credit and debit relate to their 2010–11 or earlier income years.
-Reduction
-(2) The amount of the credit and debit are reduced by multiplying the amount by 28/30.
+[Repealed]
 
 ### OZ 17 CTRA reductions
 [Repealed]
@@ -36145,6 +35866,9 @@ The Commissioner must refund an amount of tax that a life insurer has paid to th
 
 ### YA 1 Definitions
 In this Act, unless the context requires otherwise,—
+  - **1973 version provisions**
+  - **1988 version provisions**
+  - **1990 version provisions**
   - **abating WFF tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **absentee** —
     (a) means a person other than a person who is resident in New Zealand during any part of the tax year:
@@ -36175,6 +35899,7 @@ In this Act, unless the context requires otherwise,—
   - **accounting period** , for a foreign company, means—
     (a) its accounting year; or
     (b) the relevant period of other than 12 months, if a person’s attributed CFC income or loss or FIF income or loss from the foreign company is allowed or required to be calculated on the basis of a period other than 12 months because of a change of residence of the foreign company
+    - **accounting profits method**
   - **accounting year** ,—
     (a) for any person, means a tax year or another 12 month period that ends with the date of the annual balance of the person’s accounts:
     (b) for a company, includes—
@@ -36207,6 +35932,8 @@ In this Act, unless the context requires otherwise,—
   - **adverse event income equalisation scheme** means the scheme referred to in section EH 1(2)(b) (Income equalisation schemes)
   - **adverse event maximum deposit** is defined in section EH 61 (Meaning of adverse event maximum deposit)
   - **affected associate** is defined in section GB 48(1) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
+  - **after-income tax earnings**
+  - **after-income tax loss**
   - **agent** means a person declared by this Act to be an agent for the purposes of income tax
   - **agreement for the sale and purchase of property** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **agreement for the sale and purchase of property or services** —
@@ -36359,7 +36086,7 @@ In this Act, unless the context requires otherwise,—
     (b) are made using professional judgement, training and experience; and
     (c) are not deliberately overstated or understated
   - **BETA** has the same meaning as
-  - **BETA company** means a company that chooses under sections OE 1(1) and OE 3 (which relate to companies with branch equivalent tax accounts) to become a BETA company
+  - **BETA company**
   - **BETA person** means a person who chooses under sections OE 1(2) and OE 17 (which relate to persons with branch equivalent tax accounts) to become a BETA person
   - **binding ruling** is defined in section 3 of the Tax Administration Act 1994
   - **bloodstock** —
@@ -36375,10 +36102,11 @@ In this Act, unless the context requires otherwise,—
   (b) the entity has 1 or more other investor classes that include 20 or more persons; and
   (c) no investor in the class described in paragraph (a), other than the manager or trustee of the entity, can control investment decisions relating to the class; and
   (d) the investor interests of investors in all investor classes described in paragraph (a) of the entity add up to less than 10% of the total value of interests in the entity
+  - **branch equivalent company**
   - **branch equivalent income** , for a foreign company and for an accounting period, means the amount of income for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent loss** , for a foreign company and for an accounting period, means the amount of loss for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent method** means the method of calculating FIF income or FIF loss in section EX 50 (Branch equivalent method) as that provision read immediately before being amended by section 35 of the Taxation (International Investment and Remedial Matters) Act 2012
-  - **branch equivalent tax account** means the account maintained by a BETA company under section OE 2 (Branch equivalent tax accounts of companies) or a BETA person under section OE 17(3) (Person choosing to become BETA person)
+  - **branch equivalent tax account** means the account maintained by a BETA person under section OE 17(3) (Person choosing to become BETA person)
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
   - **bribe** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
@@ -36480,6 +36208,7 @@ In this Act, unless the context requires otherwise,—
       (i) a market value circumstance exists for the company; and
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
+  - **combined imputation and CTR ratio**
   - **combined imputation and FDP ratio** means the ratio set out in section OC 29 (FDP credits and imputation credits attached to dividends)
   - **combined tax and earner-related payment** means, for a PAYE income payment, the total of—
     (a) the amount of tax for the PAYE income payment required to be withheld and paid under the PAYE rules; and
@@ -36542,9 +36271,11 @@ In this Act, unless the context requires otherwise,—
     (j) is further defined in section EX 30(7) (Direct income interests in FIFs) for the purposes of that section
   - **company dividend statement** means a statement required by section 67 of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
+  - **compensation**
   - **completed** , for a film, means the completion of the film to—
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
+  - **complying fund calculation period**
   - **complying fund rules** means, for a superannuation fund and an employee's superannuation accumulation, rules that—
     (a) meet all the requirements set out in schedule 28 (Requirements for complying fund rules); and
     (b) do not detract from those requirements
@@ -36562,7 +36293,7 @@ In this Act, unless the context requires otherwise,—
       (iii) sections FO 12 to FO 15 (which relate to the treatment of financial arrangements on amalgamation):
       (iv) sections FO 18 to FO 20 (which relate to companies that are parties to financial arrangements):
       (v) section HC 31(4) (When existing trusts come into tax base)
-  - **consolidated BETA group** is defined in section OP 97(1) (Branch equivalent tax accounts of consolidated BETA groups)
+  - **consolidated BETA group**
   - **consolidated FDP group** is defined in section OP 51(1) (FDP accounts of consolidated FDP groups)
   - **consolidated group** means, at any time, a consolidated group formed under section FM 35 (Forming consolidated group) as it is constituted at that time
   - **consolidated imputation group** means—
@@ -36584,7 +36315,7 @@ In this Act, unless the context requires otherwise,—
     (f) section LP 3(4) (Use of remaining credits); and
     (g) section OB 41 (ICA debit for loss of shareholder continuity); and
     (h) section OC 24 (FDPA debit for loss of shareholder continuity); and
-    (i) section OE 10 (BETA credit for loss of shareholder continuity); and
+    (i)
     (j) section OK 15 (MACA debit for loss of shareholder continuity)
   - **contract activity or service** , for a non-resident contractor, means—
     (a) performing any work in New Zealand:
@@ -36599,6 +36330,7 @@ In this Act, unless the context requires otherwise,—
   - **contribution** , in the FBT rules, means a contribution made—
     (a) directly; or
     (b) indirectly by reimbursement through another person
+  - **control**
   - **control interest** , for a foreign company, is defined in sections EX 2 (Four categories for calculating control interests) and EX 7 (Indirect control interests)
   - **control interest category** means 1 of the categories of control interest listed in section EX 2(2) (Four categories for calculating control interests)
   - **controlled foreign company** is defined in section EX 1 (Meaning of controlled foreign company)
@@ -36682,8 +36414,8 @@ In this Act, unless the context requires otherwise,—
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit account continuity provisions** means—
     (a) section OB 41 (ICA debit for loss of shareholder continuity); and
-    (b) section OC 24 (FDPA debit for loss of shareholder continuity); and
-    (c) section OE 10 (BETA credit for loss of shareholder continuity)
+    (b) section OC 24 (FDPA debit for loss of shareholder continuity)
+    (c)
   - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit of tax** has the same meaning as
   - **credit transfer notice** means a credit transfer notice issued under section 30C of the Tax Administration Act 1994
@@ -36698,6 +36430,17 @@ In this Act, unless the context requires otherwise,—
   (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
   (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
+  - **CTR**
+  - **CTR account**
+  - **CTR additional dividend**
+  - **CTR company**
+  - **CTR credit**
+  - **CTR debit**
+  - **CTR group member**
+  - **CTR holding company**
+  - **CTR ratio**
+  - **CTRA**
+  - **current accounting year**
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
@@ -36753,6 +36496,7 @@ In this Act, unless the context requires otherwise,—
     (a) means income that a person has in the circumstances set out in section EE 1(3) (What this subpart does); and
     (b) includes income that a person had under the corresponding provision of an earlier Act
   - **derivative instrument** means a derivative as defined in NZIAS 39
+  - **derived from New Zealand**
   - **designated group investment fund** is defined in section HR 3(6) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated source investments** is defined in section HR 3(7) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated sources** is defined in section HR 3(5) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
@@ -36820,6 +36564,7 @@ In this Act, unless the context requires otherwise,—
     (e) does not include a disclaimer of an interest under an intestacy
   - **distinctive work clothing** is defined in section CX 30(2) (Distinctive work clothing) for the purposes of that section
   - **distribution** is defined in section HC 14 (Distributions from trusts) for the purposes of the trust rules
+  - **district health board**
   - **dividend** —
     (a) is defined in sections CD 3 to CD 20 (which relate to income from equity) for the purposes of this Act, except for the definition of investment society dividend:
     (b) in the RWT rules, does not include any dividend of the kind listed in section RE 2(1)(b), (5) and (6) (Resident passive income):
@@ -36926,6 +36671,7 @@ In this Act, unless the context requires otherwise,—
     (c) reserves, that is, employer's superannuation cash contributions under section RA 5(1)(c) made on or after 1 April 2000 that do not vest in a member of the superannuation fund and any return on those employer's superannuation cash contributions, as follows:
       (i) for a superannuation fund with 10 or more unassociated members, reserves that have been allocated to a member of the superannuation fund, other than those allocated to an account of the member’s contributions for smoothing investment returns; or
       (ii) for all other superannuation funds, reserves
+  - **employer sponsored group policy**
   - **employer's superannuation cash contribution** is defined in section RD 65(1) (Employer's superannuation cash contributions)
   - **employer’s superannuation contribution** means a superannuation contribution made by an employer for the benefit of 1 or more of their employees
   - **employing company** is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 14 (which relate to share purchase schemes)
@@ -36936,6 +36682,7 @@ In this Act, unless the context requires otherwise,—
   - **employment limitation** is defined in section DA 2(4) (General limitations)
   - **employment-related loan** means a loan that is a fringe benefit
   - **end date** is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
+  - **engaged in full-time work**
   - **entering owner** ––
     (a) means a person who acquires an owner's interests for a look-through company:
     (b) includes a person who already has owner's interests for a look-through company when they acquire another owner's interests
@@ -36975,6 +36722,7 @@ In this Act, unless the context requires otherwise,—
       (ii) an assumption of normal and reasonable maintenance:
     (c) for a listed horticultural plant, means the period of time over which the listed horticultural plant might reasonably be expected to be useful to a person in deriving income or in carrying on a business in New Zealand, with the expectation based on an assumption of normal and reasonable maintenance:
     (d) for a type of pasture, means the period of time over which the pasture might reasonably be expected to be useful to a person in deriving income or carrying on a farming or agricultural business on land in New Zealand
+  - **ETS unit**
   - **excepted financial arrangement** —
     (a) is defined in section EW 5 (What is an excepted financial arrangement?) for the purposes of this Act except the old financial arrangements rules; and
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
@@ -37050,9 +36798,12 @@ In this Act, unless the context requires otherwise,—
   - **extra pay** is defined in section RD 7 (Extra pay)
   - **fair dividend rate method** means the method of calculating FIF income or FIF loss under sections EX 52 (Fair dividend rate method: usual method) and EX 53 (Fair dividend rate method for unit-valuing funds and others by choice)
   - **fair value method** means a method under section EW 15D (IFRS financial reporting method) of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
+  - **family assistance credit**
   - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **family plus**
   - **family scheme** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **family support**
   - **family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **farmer** is defined in section EH 3(1)(a) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme
   - **farm-in expenditure** means expenditure that a farm-in party under a farm-out arrangement agrees that they will incur
@@ -37169,6 +36920,7 @@ In this Act, unless the context requires otherwise,—
     (b) the day following the last day in an income year on which a person with a provisional tax liability derived income from employment, if the person is a natural person
   - **first payment period** means the period starting on the 1st day of a month and ending with the 15th day of the month
   - **first publication** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
+  - **first tracking date**
   - **fisher** is defined in section EH 3(1)(b) (Persons to whom main income equalisation scheme applies)
   - **fishing boat** is defined in section EJ 2(6) (Spreading forward of deductions for repairs to fishing boats) for the purposes of that section
   - **fishing business** —
@@ -37231,6 +36983,7 @@ In this Act, unless the context requires otherwise,—
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
     (b) FIF income calculated under the attributed FIF income method
+  - **foreign attributed loss offsets**
   - **foreign company** means a company that—
     (a) is not resident in New Zealand; or
     (b) is treated under a double tax agreement as not being resident in New Zealand
@@ -37238,10 +36991,14 @@ In this Act, unless the context requires otherwise,—
     (a) meets the definition of overseas limited partnership in section 4 of the Limited Partnerships Act 2008; and
     (b) is treated as a separate legal entity under the laws (other than taxation laws) of the country, territory, or jurisdiction where it is established
   - **foreign country** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **foreign dividend**
+  - **foreign dividend company**
+  - **foreign dividend company net earnings**
   - **foreign exempt entity** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **foreign exempt partnership** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **foreign exempt person** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **foreign expenditure** is defined in section EG 1(10) (Election to use balance date used in foreign country) for the purposes of that section
+  - **foreign group**
   - **foreign income tax** is defined in section LJ 3 (Meaning of foreign income tax) for the purposes of Part L (Tax credits and other credits)
   - **foreign investment fund** is defined in section EX 28 (Meaning of FIF)
   - **foreign investment PIE** means a multi-rate PIE that—
@@ -37273,6 +37030,7 @@ In this Act, unless the context requires otherwise,—
   - **forest land emissions unit** means a pre-1990 forest land emissions unit, a post-1989 forest land emissions unit, or a forest sink emissions unit
   - **forest sink emissions unit** means an emissions unit issued to a person in relation to a forest sink covenant under section 67Y of the Forests Act 1949 entered by the person
   - **forester** is defined in section EH 3(1)(c) (Persons to whom main income equalisation scheme applies)
+  - **forest land unit**
   - **forestry assets** is defined in section FC 6 (Forestry assets transferred to close relatives) for the purpose of that section
   - **forestry business** includes a PFSI forestry business
   - **forestry company** means a company that is incorporated, under an agreement between the Crown, the Maori owners, and a holding company of the company, for the purposes of—
@@ -37291,6 +37049,7 @@ In this Act, unless the context requires otherwise,—
   - **full reinsurance** is defined in section EY 12(2) (Meaning of life reinsurance)
   - **full-time earner** is defined in section MA 7 (Meaning of full-time earner for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
+  - **fully credited for conduit tax relief**
   - **fully imputed** ,—
     (a) for the purposes of sections CB 26, EX 20B, RF 8, and RF 10 (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), means the amount calculated under section HA 15(2) (Fully imputed distributions)
@@ -37304,6 +37063,7 @@ In this Act, unless the context requires otherwise,—
   - **gaming-machine operator’s licence** means a class 4 operator’s licence as defined in section 4 of the Gambling Act 2003
   - **gaming-machine venue licence** means a class 4 venue licence as defined in section 4 of the Gambling Act 2003
   - **general insurance** means insurance that is not life insurance
+  - **general insurance contract**
   - **general limitation** means a rule described in any of section DA 2(1) to (6) (General limitations)
   - **general partner** —
     (a) means a general partner of a limited partnership:
@@ -37326,6 +37086,7 @@ In this Act, unless the context requires otherwise,—
   - **geothermal well** means a bore or well solely for the purpose of investigating or exploiting geothermal energy in New Zealand
   - **gifting settlor** is defined in section EX 46(12) (Limits on choice of calculation methods)
   - **goods** , in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and EA 3 (Prepayments), and in the definition of , is defined in section 2 of the Goods and Services Tax Act 1985
+  - **government screen production payment**
   - **government stock** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **Government Superannuation Fund** means the fund established under the Government Superannuation Fund Act 1956
   - **grandparented consolidated company** , for a company that is part of a consolidated group and for an income year (the ), means a company that before 17 May 2006 chose to form or join the consolidated group, when—
@@ -37359,6 +37120,7 @@ In this Act, unless the context requires otherwise,—
     (b) the company is organised under the laws of the country and the country—
       (i) imposes on persons holding income interests in the company the liability for income tax on the company's income; and
       (ii) under the laws of the country, is the source of 80% or more of the income of the company
+  - **grey list dividend**
   - **gross** , for an amount, means without any deduction from the amount
   - **gross gambling proceeds** means gross proceeds, as defined in regulation 3(1) of the Gambling (Class 4 New Proceeds) Regulations 2004, plus prizes
   - **group funding debt** means the amount calculated under section FE 23 (Banking group’s funding debt)
@@ -37420,9 +37182,13 @@ In this Act, unless the context requires otherwise,—
   - **holding company** ,—
     (a) for a forestry company, means a company associated with the forestry company:
     (b) for a mining company, is defined in section CU 29 (Other definitions)
+  - **home**
   - **home ownership requirements** means home ownership requirements as defined in the Home Ownership Savings Act 1974
   - **home vendor mortgage** is defined in section LZ 8 (Meaning of home vendor mortgage) for the purposes of sections LZ 6 and LZ 7 (which relate to credits for interest on home vendor mortgages)
   - **honorarium** is defined in section CW 62B (Voluntary activities) for the purposes of that section
+  - **household member**
+  - **housekeeper**
+  - **housekeeping payments**
   - **ICA** means imputation credit account
   - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
@@ -37450,6 +37216,7 @@ In this Act, unless the context requires otherwise,—
   - **imputation ratio** means the ratio set out in section OB 60(3) (Imputation credits attached to dividends)
   - **imputation rules** means the provisions listed in section FN 2 (Imputation rules)
   - **income** , for a person, means income of the person under section BD 1(1) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
+  - **income derived from New Zealand**
   - **income from employment** —
     (a) means salary or wages or an extra pay:
     (b) in sections DA 2(4) (General limitations) and DE 1 (What this subpart does), excludes payments referred to in section RD 5(1)(b)(iii) (Salary or wages) to the extent to which those payments are made to 1 of the following:
@@ -37488,6 +37255,7 @@ In this Act, unless the context requires otherwise,—
     (a) does not have a level of compulsory care:
     (b) has a level of compulsory care that is merely incidental to the occupancy
   - **indirect income interest** is defined in section EX 10 (Indirect income interests)
+  - **industry research co-operative**
   - **initial period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
   - **initial provisional tax liability** , means—
     (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity, when they did not derive income from a taxable activity in any of the 4 previous tax years; and
@@ -37506,6 +37274,7 @@ In this Act, unless the context requires otherwise,—
     (c) both
   - **instalment date** means a date for payment of provisional tax for a tax year that is the day and month specified for a person with a provisional tax liability in schedule 3, part A (Payment of provisional tax and terminal tax)
   - **instalment period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
+  - **institution**
   - **insurance** ,—
     (a) in section CR 3 (Income of non-resident general insurer) means insurance of a kind described in section CR 3(3):
     (b) in section YD 8 (Apportionment of premiums derived by non-resident general insurers) means insurance of a kind described in section YD 8(4)(a)
@@ -37551,7 +37320,7 @@ In this Act, unless the context requires otherwise,—
       (ix) section GC 4 (Disposals and acquisitions of FIF attributing interests):
       (x) subpart IQ (Attributed controlled foreign company net losses and foreign investment fund net losses):
       (xi) sections LK 1 to LK 7 (which relate to foreign tax credits and CFCs):
-      (xii) section OE 5 (Treatment of attributed CFC income and FIF income in this subpart):
+      (xii)
       (xiii) section YA 2 (Meaning of income tax varied):
       (xiv)
       (xv)
@@ -37570,6 +37339,7 @@ In this Act, unless the context requires otherwise,—
     (c)
   - **investor class** , for a portfolio investment entity, is defined in section HM 5 (What is an investor class?)
   - **investor interest** , for an investor in a portfolio investment entity, means an interest in the entity that gives the holder an entitlement to a distribution of proceeds from the entity’s investments
+  - **in-work payment**
   - **in-work tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **issue** ,—
     (a) for a financial arrangement, means the act of creating the financial arrangement:
@@ -37581,8 +37351,10 @@ In this Act, unless the context requires otherwise,—
   - **jurisdictional attributed income** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **jurisdictional BE income** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **jurisdictional income ratio** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
+  - **KiwiSaver calculation period**
   - **KiwiSaver contributions** means a contribution required to be deducted under Part 3, subpart 1 of the KiwiSaver Act 2006
   - **KiwiSaver scheme** means a KiwiSaver scheme, as defined in section 4 of the KiwiSaver Act 2006
+  - **Kyoto unit**
   - **land** —
     (a) includes any estate or interest in land:
     (b) includes an option to acquire land or an estate or interest in land:
@@ -37605,12 +37377,14 @@ In this Act, unless the context requires otherwise,—
     (a) sections CB 7 to CB 11 (which relate to certain land transactions), except CB 8 (Disposal: land used for landfill, if notice of election):
     (b) section CB 15 (Transactions between associated persons):
     (c) sections FB 3 to FB 5 (which relate to the transfer of land on a settlement of relationship property)
+  - **LAQC**
   - **large budget film grant** means a payment that—
     (a) is in the nature of a large budget screen production grant or post-production digital and visual effects grant; and
     (b) is made in relation to a film or television production; and
     (c) is authorised by the New Zealand Film Commission in relation to a company that—
       (i) is resident in New Zealand:
       (ii) has a permanent establishment in New Zealand
+  - **large budget screen production grant**
   - **late balance date** has the meaning given in section YE 1(7) (References to balance dates and years)
   - **lease** —
     (a) means a disposition that creates a leasehold estate:
@@ -37698,6 +37472,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes an overseas limited partnership as defined in section 4 of that Act; and
     (c) despite paragraph (a) or (b), does not include a listed limited partnership or a foreign corporate limited partnership
   - **limited partnership deduction** is defined in section HG 11(12) (Limitations on deductions by partners in limited partnerships) for the purposes of that section
+  - **limited partnership net deduction**
   - **limited-recourse amount** is defined in section GB 48(2) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **limited-recourse loan** is defined in section GB 48(3) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **lines trust** means a trustee of a trust that—
@@ -37731,6 +37506,7 @@ In this Act, unless the context requires otherwise,—
     (d) has not chosen to cancel PIE status under section HM 29 (Choosing to cancel status); and
     (e) is not a life fund PIE; and
     (f) has not chosen under section HM 2(3) (What is a portfolio investment entity?) to become a multi-rate PIE
+  - **listed research provider**
   - **livestock on the Chatham Islands** means livestock that are on hand on the Chatham Islands at the end of an income year
   - **living alone payment** means a living alone payment under—
     (a) section 74U of the War Pensions Act 1954; or
@@ -37786,6 +37562,7 @@ In this Act, unless the context requires otherwise,—
     (b) means an attributed CFC loss when used in the expression attributed CFC income or loss:
     (c) means a net attributable FIF loss when used in the expression net attributable FIF income or loss:
     (d) means a FIF loss when used in the expression FIF income or loss
+  - **loss-attributing qualifying company**
   - **loss balance** , for a tax year,—
     (a) means the sum of all tax loss components—
       (i) arising in the tax year and included in the tax loss for the tax year under section IA 2(3) and (4) (Tax losses), to the extent not used under section IA 3(1) to (3) or IA 4(1)(a) (which relate to the first use and to particular losses):
@@ -37948,6 +37725,8 @@ In this Act, unless the context requires otherwise,—
       (ii) person B’s promise is not required to be secured or evidenced in writing:
       (iii) person B includes any other person with whom person B is an associated person
   - **monthly instalment plan** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under the Accident Insurance Act 1998) for the purposes of that section
+  - **mortality profit**
+  - **mortality profit formula**
   - **mortgage** means a mortgage, charge, or other security, whether legal or equitable
   - **motor vehicle** ,—
     (a) in subpart DE (Motor vehicle expenditure), means a motor vehicle that—
@@ -37999,6 +37778,7 @@ In this Act, unless the context requires otherwise,—
   - **new start grant** means a grant of money that is—
     (a) designated by the Minister of Agriculture as a new start grant; and
     (b) paid by the Government of New Zealand to a person in relation to an emergency event
+  - **new tax rate person**
   - **New Zealand** includes—
     (a) the continental shelf:
     (b) the water and the air space above any part of the continental shelf that is beyond New Zealand’s territorial sea, as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977, if and to the extent to which—
@@ -38034,6 +37814,7 @@ In this Act, unless the context requires otherwise,—
       (i) schedule 1, clause 2 of the New Zealand Superannuation and Retirement Income Act 2001; or
       (ii) schedule 1, clause 2 of the Social Welfare (Transitional Provisions) Act 1990
   - **New Zealand tax** means income tax imposed by this Act or any earlier Act
+  - **New Zealand unit**
   - **Niue International Trust Fund** means the trust governed by the Deed concerning the Niue International Trust Fund dated 25 October 2006 and signed by Her Majesty the Queen in right of New Zealand and the Governments of Niue and Australia
   - **nominated company** ,—
     (a) for a consolidated group, means the company described in section FM 34 (Nominated companies) for the time being nominated as agent of the group under section FM 35 (Forming consolidated group):
@@ -38049,6 +37830,7 @@ In this Act, unless the context requires otherwise,—
   - **non-contingent fee** means a fee that—
     (a) is for services provided for a person becoming a party to a financial arrangement; and
     (b) is payable whether or not the financial arrangement proceeds
+  - **non-creditable dividend**
   - **non-discretionary trust** is defined in section HC 16(8) (Ordering rule for distributions from non-complying and foreign trusts) for the purposes of that section
   - **non-executive director** is defined in section CD 20(4) (Benefits of shareholder-employees or directors)
   - **non-filing taxpayer** means—
@@ -38138,6 +37920,7 @@ In this Act, unless the context requires otherwise,—
       (iii) has an agent in New Zealand
   - **offered or was offered or entered into** , in sections EY 12 (Meaning of life reinsurance) and EY 48 (Non-resident life insurers with life insurance policies in New Zealand), has the same meaning as
   - **off-market cancellation** means a share cancellation that is not an on-market cancellation
+  - **offshore development**
   - **offshore permit area** is defined in section CW 57 (Non-resident company involved in exploration and development activities) for the purposes of that section
   - **old company tax rate** means a 30% or 33% basic tax rate applying before the 2011–12 income year
   - **old financial arrangements rules** means—
@@ -38154,6 +37937,7 @@ In this Act, unless the context requires otherwise,—
     (b) before the transaction, no arrangement existed between the shareholder and the company for the company to acquire the share; and
     (c) the acquisition is not a treasury stock acquisition to which section CD 25 (Treasury stock acquisitions) applies, but this paragraph does not limit the application of section CD 25(2) to (6); and
     (d) it includes an acquisition of the company’s shares on the recognised exchange that is undertaken by an associated person under an arrangement for the associate to acquire the shares in lieu of the company
+  - **onshore development**
   - **operating lease** means, except in section EW 15I(1)(b)(iib) (Mandatory use of yield to maturity method for some arrangements), a lease that—
     (a) is not a finance lease; and
     (b) is entered into on or after 20 May 1999
@@ -38170,6 +37954,7 @@ In this Act, unless the context requires otherwise,—
   - **outstanding claims reserve** means––
     (a) for an insurer who uses IFRS 4, the amount of the insurer's outstanding claims liability for general insurance contracts, excluding contracts having premiums to which section CR 3 (Income of non-resident general insurer) applies, as that liability is measured under Appendix D, paragraphs 5.1 to 5.2.12 of IFRS 4 for the insurer's financial statements less the amount of reinsurance and non-reinsurance recoveries receivable, as measured for the financial statements:
     (b) for a life insurer, the amount that would be the life insurer's outstanding claims reserve under section EY 24(3) and (4) (Outstanding claims reserving amount: non-participation policies not annuities) for general insurance contracts, excluding contracts having premiums to which section CR 3 applies, if section EY 24(3) and (4) were modified so as to apply to general insurance contracts and reinsurance contracts, instead of to life insurance policies and reinsurance contracts
+  - **overseas eligible expenditure**
   - **overseas pension** is defined in section CW 28(2) (Pensions) for the purposes of that section
   - **overtime** is defined in section CW 17C(4) (Payments for overtime meals and certain other allowances) for the purposes of that section
   - **own** ,—
@@ -38177,6 +37962,7 @@ In this Act, unless the context requires otherwise,—
     (b) for the ownership of depreciable property, is defined in sections EE 2 to EE 5 (which relate to depreciation)
   - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section and section YC 18B (Corporate reorganisations not affecting economic ownership)
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
+  - **paid work**
   - **parental entitlement period** means the period of time described in section MD 11(1)(b)(i) (Entitlement to parental tax credit)
   - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **Part F activity** is defined in schedule 4, part F, clause 7 (Rates of tax for schedular payments)
@@ -38245,6 +38031,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 3(2) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 37(2) (Persons to whom adverse event income equalisation scheme applies) for the purposes of the adverse event income equalisation scheme:
     (c) is defined in section EH 63(2) (Persons to whom thinning operations income equalisation scheme applies) for the purposes of the thinning operations income equalisation scheme
+  - **personal injury by accident**
   - **personal property** , in sections CB 4 (Personal property acquired for purpose of disposal) and CB 5 (Business of dealing in personal property) does not include land
   - **personal property lease asset** —
     (a) means any personal property subject to a lease; and
@@ -38317,6 +38104,14 @@ In this Act, unless the context requires otherwise,—
   - **policyholder base** means, for a life insurer, the base for policyholder base income and allowable deductions and to which income of a particular source or nature, and tax credits received are apportioned under section EY 4 (Apportionment of income of particular source or nature, and of tax credits)
   - **policyholder base allowable deductions** means policyholder base allowable deductions described in section EY 2(2) (Policyholder base)
   - **policyholder base income** means policyholder base income described in section EY 2(1) (Policyholder base)
+  - **policyholder base income tax liability**
+  - **policyholder credit**
+  - **policyholder credit account**
+  - **policyholder debit**
+  - **policyholder FDP ratio**
+  - **policyholder income**
+  - **policyholder income formula**
+  - **policyholder net loss**
   - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
   - **pool** is defined in section EE 67 (Other definitions)
   - **pool method** is defined in section EE 67 (Other definitions)
@@ -38329,6 +38124,18 @@ In this Act, unless the context requires otherwise,—
     (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
     (b) section 74O of the War Pensions Act 1954; or
     (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+  - **portfolio allocation period**
+  - **portfolio calculation period**
+  - **portfolio class fraction**
+  - **portfolio class investment value**
+  - **portfolio class net income**
+  - **portfolio class net loss**
+  - **portfolio class taxable income**
+  - **portfolio class taxable loss**
+  - **portfolio defined benefit fund**
+  - **portfolio entity formation loss**
+  - **portfolio entity investment**
+  - **portfolio entity tax liability**
   - **portfolio investment** means an investment of an entity in an item of property of a type to which section HM 11 (Investment types) refers
   - **portfolio investment entity** means—
     (a) a multi-rate PIE:
@@ -38339,6 +38146,17 @@ In this Act, unless the context requires otherwise,—
     (a) holds investments subject to life insurance policies under which benefits are directly linked to the value of the investments held in the fund; and
     (b) has become a portfolio investment entity under section HL 13 (Becoming portfolio investment entity); and
     (c) has not ceased to be a portfolio investment entity under section HL 15 (Ceasing to be portfolio investment entity)
+  - **portfolio investor allocated income**
+  - **portfolio investor allocated loss**
+  - **portfolio investor class**
+  - **portfolio investor exit period**
+  - **portfolio investor interest**
+  - **portfolio investor interest fraction**
+  - **portfolio investor proxy**
+  - **portfolio investor rate**
+  - **portfolio land company**
+  - **portfolio listed company**
+  - **portfolio tax rate entity**
   - **possession** includes a use that is in fact or effect substantially exclusive
   - **post-1989 forest land** means post-1989 forest land as defined in section 4(1) of the Climate Change Response Act 2002
   - **post-1989 forest land emissions unit** , for a person, means an emissions unit transferred under section 64 of the Climate Change Response Act 2002 for growing trees on post-1989 forest land—
@@ -38346,6 +38164,7 @@ In this Act, unless the context requires otherwise,—
     (b) to another person (the recipient), who at the time of the transfer is a party to a forestry rights agreement as defined in the Forestry Rights Registration Act 1983 with the person, and—
       (i) transferred by the recipient to the person, under a provision of the forestry rights agreement relating to the allocation of income or emissions units between the recipient and the person; and
       (ii) held continuously by the person from the transfer by the recipient
+  - **post-1989 forest land unit**
   - **post-treaty tax rate** means the rate of tax, after taking into account the overriding effect of a relevant double tax agreement, if there is one, as provided by section BH 1 (Double tax agreements)
   - **pre-1983 investments** is defined in section HR 3(8) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **pre-1990 forest land** means pre-1990 forest land as defined in section 4(1) of the Climate Change Response Act 2002
@@ -38357,6 +38176,7 @@ In this Act, unless the context requires otherwise,—
     (c) to another person (the recipient), who at the time of the transfer is a party to a forestry rights agreement as defined in the Forestry Rights Registration Act 1983 with the person, and—
       (i) transferred by the recipient to the person, under a provision of the forestry rights agreement relating to the allocation of income or emissions units between the recipient and the person; and
       (ii) held continuously by the person from the transfer by the recipient
+  - **pre-1990 forest land unit**
   - **pre-1991 budget security** means a fixed-rate share, or a debenture to which section FA 2 (Recharacterisation of certain debentures) applies, that—
     (a) was itself issued by the company before 8.00 pm New Zealand Standard Time on 30 July 1991 (the specified time), or was issued under a binding contract entered into before the specified time no term of which is altered at any time after the specified time; and
     (b) is not a share or debenture any term of which is altered at any time after the specified time, whether under a provision for roll-over or extension or under an option held at the specified time by the shareholder or debenture holder or the company or both or by any other person or otherwise, except when the term is altered under a binding contract entered into before the specified time no term of which is altered at any time after the specified time
@@ -38370,6 +38190,8 @@ In this Act, unless the context requires otherwise,—
     (c) in section EZ 8 (Premium paid on land leased before 1 April 1993) and for the purposes of section DZ 9 (Premium paid on land leased before 1 April 1993),—
       (i) includes a payment in the nature of a fine, a payment for goodwill attaching to the land, and a payment in consideration of the grant, transfer, or renewal of the lease; and
       (ii) does not include rent
+  - **premium loading**
+  - **premium loading formula**
   - **premium payback amount** means an amount of life risk component premium refunded in accordance with the terms and conditions of the relevant life insurance policy or the discretion of the life insurer
   - **prepaid expenditure** means expenditure to which section EA 3 (Prepayments) applies
   - **prescribed** means—
@@ -38452,6 +38274,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes prospecting for petroleum by electrical, geochemical, gravimetric, magnetic, radioactive, seismic, or other geological methods; and
     (c) does not include residual expenditure
   - **prospecting permit** is defined in section 2 of the Crown Minerals Act 1991
+  - **protected family support**
   - **protected family tax credit** , for a person, means an amount of family scheme income derived in the way set out in section MD 14 (Person receiving protected family tax credit)
   - **protective right** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **provisional rate** is defined in section EE 67 (Other definitions)
@@ -38502,6 +38325,7 @@ In this Act, unless the context requires otherwise,—
     (d) a debenture issued by a forestry company for capitalised interest derived from a debenture described in paragraph (c); or
     (e) a debenture issued by a forestry company for capitalised interest derived from a debenture described in paragraph (b) or (d); or
     (f) a debenture issued by a Maori investment company to a shareholder of the company or a trustee for a shareholder
+  - **qualifying event**
   - **qualifying foreign equity investor** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **qualifying improvement** is defined in section EZ 27 (Meaning of qualifying improvement)
   - **qualifying resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
@@ -38524,6 +38348,7 @@ In this Act, unless the context requires otherwise,—
   - **recognised seasonal employment scheme** means the recognised seasonal employer policy published by the Department of Labour under section 13A of the Immigration Act 1987
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
   - **reduced deficit debit** is defined in section OC 38 (Meaning of reduced deficit debit) for the purposes of section OC 23 (FDPA breach of FDP ratio by PCA company)
+  - **redundancy payment**
   - **refundable tax credit** means—
     (a) a tax credit under subpart LB (Tax credits for payments, deductions, and family payments):
     (b) a tax credit under subpart LF (Tax credits for foreign dividend payment (FDP) credits), excluding section LF 8 (Credits for persons who are non-resident or who receive exempt income):
@@ -38531,6 +38356,7 @@ In this Act, unless the context requires otherwise,—
     (c) a tax credit under subpart LO (Tax credits for Maori authority credits):
     (d) a tax credit under sections LS 2, LS 3(2), and LS 4(2) (which relate to multi-rate PIEs and certain of their investors):
     (e) a tax credit under section LS 1 (Tax credits for multi-rate PIEs) to the extent to which it arises under section HM 53 or HM 55 (which relate to the use of tax credits other than foreign tax credits)
+  - **registered as a charitable entity**
   - **registered bank** means a registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989
   - **registered person** is defined in section 2 of the Goods and Services Tax Act 1985
   - **registered security** is defined in section 86F of the Stamp and Cheque Duties Act 1971
@@ -38576,6 +38402,7 @@ In this Act, unless the context requires otherwise,—
   - **rent** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **repairs** , in sections CC 2 (Non-compliance with covenant for repair) and DB 21 (Amounts paid for non-compliance with covenant for repair), includes painting and general maintenance
   - **replaced area fraction** is defined in section DO 9 (Meaning of replaced area fraction and diminished value) for the purposes of sections DO 5 and DO 6 (which relate to horticultural plants)
+  - **replacement ETS unit**
   - **replacement forest land emissions unit** means an emissions unit acquired by a person if—
     (a) the person has previously disposed of a post-1989 forest land emissions unit or forest sink emissions unit other than by—
       (i) surrender under the Climate Change Response Act 2002:
@@ -38589,8 +38416,11 @@ In this Act, unless the context requires otherwise,—
     (b) includes a sequential series of replacement permits to the extent to which each permit in the series replaces the previous permit in the series
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
+  - **reporting standard**
+  - **required interest**
   - **research** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
   - **research and development activities** is defined in section LH 7(1) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
+  - **research and development project**
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
   - **resident group member** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **resident imputation subgroup** has the meaning given in section FN 8(2) (Trans-Tasman imputation groups and resident imputation subgroups)
@@ -38629,10 +38459,11 @@ In this Act, unless the context requires otherwise,—
       (viii) section LK 6 (Use of tax credits by group companies):
       (ix) section LO 1 (Tax credits for Maori authority credits):
     (c) the amount of any credit allowed against the income tax liability arising under subpart LP (Tax credits for supplementary dividends), other than through section LP 3(3) (Use of remaining credits):
-    (d) the amount of a debit balance used to pay income tax under section OE 7 or OP 101 (which relate to the payment of tax by BETA companies or consolidated groups):
+    (d)
     (e) the amount of a credit used to pay income tax under section OJ 8 or OJ 18 (which relate to the policyholder base)
   - **resource consent** means a resource consent as defined in section 2 of the Resource Management Act 1991
   - **restitution** is defined in section DB 44(3) (Restitution of stolen property) for the purposes of that section
+  - **retained earnings**
   - **retirement savings scheme** for a person means an entity eligible under section RH 3 (Retirement savings schemes)
   - **retirement scheme contribution** is defined in section RH 2 (Retirement scheme contributions)
   - **retirement scheme contributor** means an entity eligible under section RH 4 (Retirement scheme contributors)
@@ -38662,6 +38493,7 @@ In this Act, unless the context requires otherwise,—
   - **right in the specified property** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **right to take timber** includes an easement or licence or right of taking profits or produce from the land to the extent to which the easement, licence, or right relates to timber
   - **ring-fenced tax loss** means an amount referred to in section IA 7 (Restrictions relating to ring-fenced tax losses)
+  - **RMBS special purpose vehicle**
   - **rolling average value** is defined in section EZ 4(5) (Valuation of livestock bailed or leased as at 2 September 1992) for the purposes of that section
   - **routine government action** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **royalty** is defined in section CC 9(2) and (3) (Royalties)
@@ -38839,6 +38671,7 @@ In this Act, unless the context requires otherwise,—
   - **significant capital activity** , in section DO 1(1)(g) (Enhancements to land, except trees) and schedule 20 (Expenditure on farming, horticultural, aquacultural, and forestry improvements) and in relation to a farming or agricultural business on land in New Zealand,—
     (a) means an activity that enables a change in the nature or character of a farming activity from that undertaken on the land immediately before the change; and
     (b) excludes an activity that enables a change in the intensity of a farming practice employed in a farming activity on the land
+  - **significant financial hardship**
   - **slice rule** means the rule set out in section CD 23(3) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
   - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
@@ -38918,6 +38751,7 @@ In this Act, unless the context requires otherwise,—
   - **standing timber** includes trees that would be standing timber if they were mature trees
   - **stapled** , for a debt security and a share, is defined in section FA 2B(5) (Stapled debt securities)
   - **stapled debt security** means a debt security that is stapled to a share, if the share is not a fixed-rate share
+  - **starting date**
   - **state enterprise** means a person specified in schedule 36, part A (Government enterprises)
   - **statutory producer board** means—
     (a) a body specified in schedule 37 (Statutory producer boards):
@@ -39065,6 +38899,7 @@ In this Act, unless the context requires otherwise,—
       (ii) has a relationship with the host country meeting the requirements of paragraphs (a) to (c); and
       (iii) because of the parent company's domicile, residence, place of incorporation, or centre of management, is liable in the host country to tax on the FIF's income in the same period that the FIF would be liable on its income if it were a company liable for tax
   - **taxi** is defined in section 2(1) of the Land Transport Act 1998
+  - **taxicab**
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
   - **technology** is defined in section LH 7(5) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **telecommunications service** means a service, relating to information of any kind including pictures, sound, and data, that is—
@@ -39090,6 +38925,7 @@ In this Act, unless the context requires otherwise,—
   - **terminating share** means a share in a building society that is included in a group of shares, if the group is to terminate—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
+  - **tertiary institution**
   - **thinning operations** is defined in section EH 79 (Other definitions)
   - **thinning operations deposit** is defined in section EH 79 (Other definitions)
   - **thinning operations income equalisation account** is defined in section EH 79 (Other definitions)
@@ -39113,6 +38949,8 @@ In this Act, unless the context requires otherwise,—
   - **total group debt** , for a New Zealand group, is defined in section FE 15 (Total group debt) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **total tax credit** , for a person, means the total amount of their tax credits under Part L (Tax credits and other credits)
   - **total taxable supplies** is defined in section RC 8(8) (GST ratio method) for the purposes of that section and sections RC 11, RC 16, RC 19, and RC 31 (which relate to the calculation and payment of provisional tax using the GST ratio method)
+  - **tracking account**
+  - **tracking associate**
   - **trade credit** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **trading stock** —
     (a) is defined in section EB 2 (Meaning of trading stock) except for the provisions to which paragraphs (b) and (d) apply:
@@ -39173,6 +39011,8 @@ In this Act, unless the context requires otherwise,—
     (a) means the total income that a business derives in an income year as a result of trading by that business; and
     (b) does not include the value of closing stock
   - **type** , in subparts EC (Valuation of livestock) and FB (Transfers of relationship property), and in the definitions of and , means a category of livestock listed in schedule 17, column 1 (Types and classes of livestock)
+  - **UFTC**
+  - **UFTC accounting period**
   - **ultimate owner** of a company means a person—
     (a) who has an ownership interest in the company calculated under section FE 2 (When this subpart applies); and
     (b) in whom no ownership interest is held by a person who holds an ownership interest in the company of 50% or more
@@ -39231,6 +39071,7 @@ In this Act, unless the context requires otherwise,—
     (c) paragraph (a) does not apply to it but only because of unusual or temporary circumstances, such as the fact that it was recently established or is to be terminated; or
     (d) paragraph (a) does not apply to it but it can reasonably be regarded as a vehicle mainly for investment by unit trusts, group investment funds, or superannuation funds that are widely-held vehicles for direct investment
   - **wine** is defined in section CV 8 (Regulations: Australian wine producer rebate) for the purposes of that section
+  - **withdrawal**
   - **withdrawable share** —
     (a) means a share in a building society—
       (i) that bears a rate of dividend set on the issue of the share and that is redeemable at the end of a fixed term or at the option of the shareholder; or
@@ -39253,8 +39094,10 @@ In this Act, unless the context requires otherwise,—
   - **work-related relocation** is defined in section CW 17B(4) (Relocation payments)
   - **work-related vehicle** is defined in section CX 38 (Meaning of work-related vehicle)
   - **year** means a 12-month period
+  - **year of payment**
   - **year of transfer** , for a relationship agreement, means the income year in which the date of transfer falls
   - **zero-rated investor** , for an investor in an investor class of a PIE, means an investor referred to in section HM 57 (Prescribed investor rates for certain investors: 0%).
+  - **zero-rated portfolio investor**
 
 ### YA 2 Meaning of income tax varied
 DTA and time bar provisions: ancillary tax
@@ -39783,8 +39626,8 @@ Credit account credits arising before 1 April 2002
   (a) an insurer undergoes demutualisation; and
   (b) the insurer or another company that is part of the same group of companies has, at the time of the commencement of the process of demutualisation, a credit that arose before 1 April 1992 in—
     (i) its imputation credit account:
-    (ii) its FDP account:
-    (iii) its branch equivalent tax account.
+    (ii) its FDP account.
+    (iii)
 Credit treated as arising on 1 April 1992
 (13) Despite section OZ 4 (Terminating modifications to debits for loss of shareholder continuity), for the purposes of Part O (Memorandum accounts), with effect from the date on which the insurer stops being a special corporate entity on the demutualisation, the credit is treated as having first arisen in the account on 1 April 1992 and not when it actually arose.
 
@@ -39831,7 +39674,7 @@ Description of arrangement
     (i) ownership interests in the initial parent for which paragraph (c)(ii) applies are excluded from a person's holding of ownership interests:
     (ii) ownership interests in the new parent are excluded from being a dividend, gift, or other direct benefit.
 Loss balance and credit account continuity
-(3) For the purposes of the tests of ownership and control in Part I and subparts LP, OA, OB, OC, OE, and OP (which relate to loss balances, tax credits, and memorandum accounts), starting from when the initial parent is first treated under section YC 11(3) and (4) as holding the ownership interests in another company, the new parent is treated as—
+(3) For the purposes of the tests of ownership and control in Part I and subparts LP, OA, OB, OC, and OP (which relate to loss balances, tax credits, and memorandum accounts), starting from when the initial parent is first treated under section YC 11(3) and (4) as holding the ownership interests in another company, the new parent is treated as—
   (a) existing and having the shareholders it has immediately after the arrangement's implementation:
   (b) holding the ownership interests that the initial parent is treated under section YC 11(3) and (4) as holding:
   (c) holding all ownership interests in the initial parent.
