@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-07-01_
 
 > An Act to—arequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbprescribe requirements for financial reporting by other entities; andccontinue an External Reporting Board and define its functions and powers; anddgive legal force to accounting standards issued by the Board; and(da)provide for the issue of auditing and assurance standards by the Board; andeprovide for related matters
 
@@ -291,12 +291,10 @@ None of the following is an issuer for the purposes of this Act:
 
 ### 15 Financial statements of issuers and group financial statements of issuers to be audited
 (1) The directors of an issuer must ensure that the financial statements of the issuer and, if the issuer is required to complete group financial statements, the group financial statements are audited.
-(2) The financial statements and any group financial statements must be audited,—
-  (a) if the issuer is a company, other than an overseas company, by an auditor appointed in accordance with the Companies Act 1955 or the Companies Act 1993, as the case may be; or
-  (b) if the issuer is an overseas company, by a person who is qualified for appointment as auditor in accordance with section 199 of the Companies Act 1993; or
-  (c) if the issuer is incorporated or registered under any other Act that provides for the appointment of an auditor, by an auditor appointed under that Act; or
-  (d) if the issuer is not incorporated or registered under an Act that provides for the appointment of an auditor, by an auditor appointed in accordance with the provisions of the Companies Act 1993 which shall, for that purpose, apply with such modifications as may be necessary:
-  (e) if the issuer is a public entity under the Public Audit Act 2001, by the Auditor-General.
+(2) The financial statements and any group financial statements must be audited—
+  (a) by a licensed auditor; or
+  (b) by a registered audit firm; or
+  (c) if the issuer is a public entity under the Public Audit Act 2001, by the Auditor-General or any other person who may act as the auditor under that Act.
 (3) This section shall not apply in respect of a superannuation scheme that is registered under the Superannuation Schemes Act 1989 if the annual accounts of that scheme are not required to be audited under section 13 of that Act.
 
 ### 16 Auditor's report on reporting entities
