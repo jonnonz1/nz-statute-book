@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -48,7 +48,6 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 (1) In this Act, unless the context otherwise requires,—
   - **anonymous** , in relation to an electoral donation (as defined in section 104), means a donation that is made in such a way that the candidate concerned does not know who made the donation
   - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Statistics Act 1975
-  - **Chief Registrar of Electors** means the person who is the Chief Registrar as defined in section 3(1) of the Electoral Act 1993
   - **close of nominations** , in relation to any election, means 12 noon on nomination day
   - **close of voting** , in relation to any election or poll, means,—
     (a) if booth voting is the method of voting used at the election or poll, 7 pm on polling day:
@@ -62,6 +61,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **district** means the district of a local authority; and includes a region
   - **election** means election to any office in, under, or in connection with any local authority, community board, or other body required by law to be filled by the election of the electors of any local government area
   - **elector** means any person entitled under any law for the time being in force to vote at an election or poll, as the case may be, held under this Act
+  - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **electoral officer** means a person appointed under section 12(1); and includes any person for the time being exercising all or any of the duties and powers of that person
   - **electoral official** means an electoral officer, a deputy electoral officer, and any person authorised to exercise any power or perform any duty of an electoral officer under section 12(2)
   - **electoral system** means any of the following electoral systems that are prescribed for use at an election or poll:
@@ -560,7 +560,7 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
   (a) in the case of a territorial authority, the name of the elector appears on the electoral roll of the territorial authority; or
   (b) in the case of a regional council, the name of the elector appears on the electoral roll of a territorial authority and the elector's address as shown on that roll is within the region; or
   (c) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a) or paragraph (b),—
-    (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Chief Registrar under section 115 of that Act (which relates to unpublished names); and
+    (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Electoral Commission under section 115 of that Act (which relates to unpublished names); and
     (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the territorial authority or regional council; or
   (d) the address given by the elector who signed the demand—
     (i) is confirmed by a Registrar of Electors as the address at which the elector is registered as a parliamentary elector; and
@@ -779,7 +779,7 @@ Two or more electors of a local government area or, in the case of an election i
     (i) in the case of a territorial authority, on the electoral roll of the territorial authority; and
     (ii) in the case of any other local authority, on the electoral roll of any territorial authority or other local authority as the name of a person eligible to vote in an election of that local authority; or
   (b) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a),—
-    (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Chief Registrar under section 115 of that Act (which relates to unpublished names); and
+    (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Electoral Commission under section 115 of that Act (which relates to unpublished names); and
     (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the local authority; or
   (c) the address given by the elector who signed the demand is—
     (i) confirmed by a Registrar of Electors as the address at which the elector is registered as a parliamentary elector; and
@@ -873,7 +873,7 @@ Sections 27 to 31 do not apply if—
   (a) include the name of every residential elector and ratepayer elector of the district of the territorial authority or, as the case may require, the local authority for whom the election or poll is to be held or taken who, as at the prescribed date, is entitled, under this Act and regulations made under this Act, to be included in the roll; and
   (b) include any other prescribed details; and
   (c) comply with any other prescribed requirements.
-(4) For the purposes of determining the names and other details of residential electors to be included in the electoral roll, the electoral officer must obtain from the Chief Registrar of Electors under section 113 of the Electoral Act 1993 a computer-compiled list containing the specified information (as contained in that section) in respect of electors appearing to reside within the local government area of the local authority.
+(4) For the purposes of determining the names and other details of residential electors to be included in the electoral roll, the electoral officer must obtain from the Electoral Commission under section 113 of the Electoral Act 1993 a computer-compiled list containing the specified information (as contained in that section) in respect of electors appearing to reside within the local government area of the local authority.
 
 ### 39 Public notice of procedures for enrolment as ratepayer on electoral roll
 (1) The electoral officer—
@@ -885,10 +885,10 @@ Sections 27 to 31 do not apply if—
 ### 40 No person to be enrolled more than once for local authority or community board
 The name of any person must not appear more than once in the same electoral roll.
 
-### 41 Supply of information by Chief Registrar of Electors
-(1) If the electoral officer wishes to find out whether any person is qualified as a ratepayer elector under section 24 and is registered as a parliamentary elector in respect of an address outside the region, district, or community, the Chief Registrar of Electors, on the request of the electoral officer, must inform the electoral officer whether that person is registered as a parliamentary elector in respect of that address.
-(2) The electoral officer may request the Chief Registrar of Electors to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, or community is registered as a parliamentary elector of a Māori electoral district.
-(3) If the Chief Registrar of Electors receives a request under subsection (2), the Chief Registrar must provide the information requested by the electoral officer, if the electoral officer has provided adequate identifying information.
+### 41 Supply of information by Electoral Commission
+(1) If the electoral officer wishes to find out whether any person is qualified as a ratepayer elector under section 24 and is registered as a parliamentary elector in respect of an address outside the region, district, or community, the Electoral Commission, on the request of the electoral officer, must inform the electoral officer whether that person is registered as a parliamentary elector in respect of that address.
+(2) The electoral officer may request the Electoral Commission to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, or community is registered as a parliamentary elector of a Māori electoral district.
+(3) If the Electoral Commission receives a request under subsection (2), the Electoral Commission must provide the information requested by the electoral officer, if the electoral officer has provided adequate identifying information.
 
 ### 42 Roll to be available for public inspection
 (1) A copy of an electoral roll must,—
@@ -911,7 +911,7 @@ The name of any person must not appear more than once in the same electoral roll
 (2) Any person to whom this subsection applies may make application for registration or correction of registration as a parliamentary elector in the form prescribed by the Electoral Act 1993 or by regulations made under that Act.
 
 ### 45 Completion of electoral roll
-The electoral officer must, as soon as practicable after the closing of the electoral roll, obtain from the Chief Registrar of Electors under section 113 of the Electoral Act 1993 a further computer-compiled list, and must complete the compilation of the electoral roll,—
+The electoral officer must, as soon as practicable after the closing of the electoral roll, obtain from the Electoral Commission under section 113 of the Electoral Act 1993 a further computer-compiled list, and must complete the compilation of the electoral roll,—
   (a) in the case of residential electors, by using that list; or
   (b) in the case of ratepayer electors, from the applications received until the closing of the electoral roll.
 
@@ -922,7 +922,7 @@ The electoral officer must, as soon as practicable after the closing of the elec
 ### 47 Amendments to roll
 (1) The electoral officer may, on the application of any person who is or claims to be entitled to be enrolled or any other person or otherwise, make any necessary corrections to any names, addresses, occupations, abbreviations, marks, or other details, appearing in the electoral roll.
 (2) Despite subsection (1), the electoral officer must not amend any information received under section 113 of the Electoral Act 1993 unless the electoral officer is satisfied that the elector is dead, in which case the electoral officer must remove the name of the elector from the electoral roll.
-(3) If the electoral officer receives advice from the Chief Registrar of Electors that a person whose name is included on the electoral roll as a ratepayer elector is eligible to be included on the roll as a residential elector, the electoral officer must amend the roll accordingly.
+(3) If the electoral officer receives advice from the Electoral Commission that a person whose name is included on the electoral roll as a ratepayer elector is eligible to be included on the roll as a residential elector, the electoral officer must amend the roll accordingly.
 
 ### 48 Objections to roll
 (1) Any person may, not later than the day on which the electoral roll closes, object to the electoral roll on either of the following grounds:
@@ -1871,7 +1871,7 @@ Regulations made under section 139(1)(c) may include (without limitation) provis
 Regulations made under section 139(1)(f) may include (without limitation)—
   (a) provision for different forms of electoral rolls for different classes of local government areas, including (without limitation) divided local government areas, and local government areas containing 1 or more communities:
   (b) requirements for residential electors or ratepayer electors, or any class of residential elector or ratepayer elector, to complete and deliver specified information (whether as a condition of enrolment or otherwise):
-  (c) requirements for the Chief Registrar of Electors or a Registrar of Electors to supply specified information in the prescribed manner to an electoral officer, or other electoral official, or any other class of person (with or without fee or on payment of a reasonable charge):
+  (c) requirements for the Electoral Commission or a Registrar of Electors to supply specified information in the prescribed manner to an electoral officer, or other electoral official, or any other class of person (with or without fee or on payment of a reasonable charge):
   (d) requirements concerning the procedures for enrolment of ratepayer electors:
   (e) provisions regulating the method and form of nomination of ratepayer electors for enrolment by organisations, bodies, societies or associations, or other persons (whether corporate or unincorporate):
   (f) provisions regulating the inspection, copying by and use of electoral rolls by local authorities, electoral officials, members of the public or any class of persons, either generally or for any specified purposes.
