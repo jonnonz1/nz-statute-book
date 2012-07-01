@@ -1,5 +1,5 @@
 # Mental Health Commission Act 1998
-_Consolidation as at 2007-08-30_
+_Consolidation as at 2012-07-01_
 
 > Title
 
@@ -87,7 +87,7 @@ The Minister may, at the request of the Commission, appoint under section 11 of 
 **Miscellaneous provisions**
 
 ### 13 Expiry and repeal of Act
-(1) This Act expires at 5 pm on 31 August 2015.
+(1) This Act expires on the close of 30 June 2012.
 (2)
 (3) At the expiry of this Act—
   (a) the Commission ceases to exist; and
