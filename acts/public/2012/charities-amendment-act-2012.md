@@ -1,5 +1,5 @@
 # Charities Amendment Act 2012
-_Consolidation as at 2012-02-24_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Charities Amendment Act 2012.
@@ -81,22 +81,22 @@ The following section is inserted before section 73:Forms and requirements presc
 
 ### 16 Transitional provision for officers
 (1) This section applies if a person becomes an officer of a charitable entity because of the amendments made to the definition of officer by section 4.
-(2) The charitable entity must ensure that it sends or delivers notice of the change to the Commission.
+(2) The charitable entity must ensure that it sends or delivers notice of the change to the Commission or the chief executive.
 (3) The notice must—
-  (a) be in the form prescribed by the Commission (if any); and
-  (b) be accompanied by a document in the form prescribed by the Commission that is signed by, or on behalf of, the person who became an officer and that contains a certification that the person is not disqualified under section 16 of the principal Act from being an officer of the entity; and
-  (c) contain, or be accompanied by, any other information or documentation prescribed by the Commission; and
+  (a) be in the form prescribed by the Commission or the chief executive (if any); and
+  (b) be accompanied by a document in the form prescribed by the Commission or the chief executive that is signed by, or on behalf of, the person who became an officer and that contains a certification that the person is not disqualified under section 16 of the principal Act from being an officer of the entity; and
+  (c) contain, or be accompanied by, any other information or documentation prescribed by the Commission or the chief executive; and
   (d) specify the date of commencement of this Act as the effective date of the change; and
-  (e) be sent or delivered to the Commission together with, or as part of, the first annual return to be provided by the charitable entity under section 41 of the principal Act after the commencement of this Act.
+  (e) be sent or delivered to the Commission or the chief executive together with, or as part of, the first annual return to be provided by the charitable entity under section 41 of the principal Act after the commencement of this Act.
 (4) This section overrides section 40(1)(c) of the principal Act and, until the notice is sent or delivered, section 24(1)(d) of that Act.
 (5) A term or expression that is used in this section and is defined in the principal Act has the meaning given by that Act.
 
 ### 17 Transitional provision for information or documentation received
 (1) This section applies if, before the commencement of this Act, the Commission received any information or documentation that complied with the principal Act's requirements when it was received.
-(2) The Commission must deal with the information or documentation as if the principal Act had not been amended by this Act.
+(2) The Commission or the chief executive, as the case may be, must deal with the information or documentation as if the principal Act had not been amended by this Act.
 
 ### 18 Transitional provision for Commission prescribing form or requirement
-The Commission may satisfy the requirement for consultation under section 42(3) or 72A(6) of the principal Act even if the consultation occurs before the commencement of this Act.
+The Commission or the chief executive, as the case may be, may satisfy the requirement for consultation under section 42(3) or 72A(6) of the principal Act even if the consultation occurs before the commencement of this Act.
 
 ### 19 Consequential amendments to Charities (Fees, Forms, and Other Matters) Regulations 2006
 (1) This section amends the Charities (Fees, Forms, and Other Matters) Regulations 2006.
