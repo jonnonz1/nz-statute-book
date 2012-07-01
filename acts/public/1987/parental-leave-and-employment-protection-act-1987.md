@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2012-07-01_
 
 > Title
 
