@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2012-03-13_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -169,7 +169,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   (d)
   (e) New Zealand Local Government Association Incorporated; or
   (f) New Zealand Local Government Insurance Corporation Limited and its subsidiaries; or
-  (g) Watercare Services Limited and any subsidiary of Watercare Services Limited; or
+  (g)
   (h) a company or other organisation (as defined in subsection (2)) of which the New Zealand Local Government Association Incorporated has control directly or indirectly by whatever means; or
   (i) an organisation exempted under section 7.
 (5) In this section, terms not defined in this Act, but defined in the Companies Act 1993, have the same meaning as in that Act.
