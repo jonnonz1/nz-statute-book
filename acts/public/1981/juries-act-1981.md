@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-07-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -11,8 +11,8 @@ _Consolidation as at 2012-03-05_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Ministry of Justice
-  - **Chief Registrar of Electors** means the Chief Registrar of Electors holding office under section 21 of the Electoral Act 1993; and includes his or her deputy
   - **disability** includes visual or aural impairment
+  - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **intellectual disability** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **jury district** means a district constituted under section 5
   - **jury rules** means the rules made under section 35
@@ -85,20 +85,20 @@ The following persons shall not serve on any jury in any court on any occasion:
 **Jury lists and panels**
 
 ### 9 Preparation of jury lists
-(1) Whenever the chief executive considers it expedient he or she may ask the Chief Registrar of Electors to prepare a jury list for 1 or more jury districts.
-(2) In relation to each jury list requested under subclause (1), the chief executive must advise the Chief Registrar of Electors of—
+(1) Whenever the chief executive considers it expedient he or she may ask the Electoral Commission to prepare a jury list for 1 or more jury districts.
+(2) In relation to each jury list requested under subclause (1), the chief executive must advise the Electoral Commission of—
   (a) the number of names to be included in the jury list; and
   (b) the date by which the list is required.
-(3) The Chief Registrar of Electors must, for each jury district, prepare a jury list containing a random selection of the names of people who, according to the electoral roll, reside in the jury district and are registered as electors.
+(3) The Electoral Commission must, for each jury district, prepare a jury list containing a random selection of the names of people who, according to the electoral roll, reside in the jury district and are registered as electors.
 (4) A jury list must not contain the name of any person—
   (a) who, according to the electoral roll, holds any office, or is engaged in any occupation, referred to in section 8:
   (b) in respect of whom a direction is in force under section 115 of the Electoral Act 1993 that his or her name, residence, and occupation not be published.
 
 ### 10 Jury lists sent to chief executive
-The Chief Registrar of Electors must, within the time specified by the chief executive, forward a jury list for each jury district to the chief executive in accordance with the jury rules.
+The Electoral Commission must, within the time specified by the chief executive, forward a jury list for each jury district to the chief executive in accordance with the jury rules.
 
 ### 11 Currency of jury lists
-A jury list remains current until it is replaced by a new list provided by the Chief Registrar of Electors under section 10.
+A jury list remains current until it is replaced by a new list provided by the Electoral Commission under section 10.
 
 ### 12 Access to, and confidentiality of, jury lists
 (1) The chief executive must give the Registrar of the court to which a particular jury list relates a copy of, or access to, the jury list in a form that enables the Registrar to carry out his or her functions relating to the selection of juries.
@@ -438,7 +438,7 @@ Where a jury is directed to be summoned under Part 2 of the Judicature Act 1908 
   (a) in relation to jury lists, prescribing—
     (i) what information about each person named on a list must be included on the list:
     (ii) the form or forms in which lists must be provided:
-    (iii) the powers and duties of the Chief Registrar of Electors, the chief executive, registrars, and other persons:
+    (iii) the powers and duties of the Electoral Commission, the chief executive, registrars, and other persons:
     (iv) that, where more than 1 form is prescribed under subparagraph (ii), the chief executive may from time to time determine in which 1 or more of those forms the list relating to each jury district must be provided:
   (b) in relation to jury panels, prescribing—
     (i) the method, methods, or the specifications of the method, by which panels must be compiled from jury lists:
