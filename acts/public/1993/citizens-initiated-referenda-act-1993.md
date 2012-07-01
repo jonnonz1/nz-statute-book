@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-07-01_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -146,8 +146,8 @@ The Clerk of the House of Representatives, before making a determination under s
 (1) For the purpose of ascertaining whether an indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors, the Clerk of the House of Representatives shall, with the assistance of the Government Statistician,—
   (a) calculate the number of signatures that must be checked for the purpose of providing a sample that can, with confidence, be regarded as providing an accurate estimate of the result that would be obtained if all of the signatures were checked; and
   (b) take, from the signatures to the indicative referendum petition, the number of signatures calculated under paragraph (a).
-(2) The Clerk of the House of Representatives shall give to the Chief Registrar of Electors the signatures taken under subsection (1)(b).
-(3) The Chief Registrar of Electors shall check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
+(2) The Clerk of the House of Representatives must give to the Electoral Commission established by section 4B of the Electoral Act 1993 the signatures taken under subsection (1)(b).
+(3) The Electoral Commission must check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
 (4) The Clerk of the House of Representatives shall, on receiving the result, determine, with the assistance of the Government Statistician, whether or not the indicative referendum petition has, after the date on which the promoter received the written notice required by section 13(1)(a), been signed by not less than 10% of the eligible electors.
 
 ### 20 Power to resubmit rejected indicative referendum petition
@@ -255,7 +255,7 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 ### 26B Notice of issue of writ
 (1) Immediately after receiving a writ for an indicative referendum, the Electoral Commission must notify the following persons of the issue and the contents of the writ:
   (a) the Clerk of the House of Representatives:
-  (b) the Chief Registrar of Electors:
+  (b)
   (c) the promoter of the indicative referendum petition seeking the holding of that indicative referendum.
 (2) If the indicative referendum is not to be conducted by postal voting, the Electoral Commission must also notify the Returning Officer for each electoral district.
 
