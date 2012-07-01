@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -254,21 +254,7 @@ Until the end of 30 June 2012, the directors of Watercare Services Limited—
     (ii) in subsequent proceedings.
 
 ### 27 Requiring authority status of Watercare Services Limited
-(1) In this section,—
-  - **infrastructure** means the infrastructure—
-    (a) owned or operated by Watercare Services Limited as at 1 November 2010; and
-    (b) used for the purpose of the supply or distribution of water or the collection, treatment, or disposal of sewage in Auckland
-  - **requiring authority approvals** means the following requiring authority approval order and notices for Watercare Services Limited:
-    (a) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Order 1992:
-    (b) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Notice 1994 (Gazette 1994, p 1278):
-    (c) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Notice (No 2) 1994 (Gazette 1994, p 1278).
-(2) Subsection (3) applies to infrastructure only—
-  (a) to the extent that the operation, maintenance, and improvement of infrastructure are not covered by the requiring authority approvals; and
-  (b) until this section expires.
-(3) On and from 1 November 2010, the requiring authority approvals are deemed for the purposes of section 167 of the Resource Management Act 1991 to include the operation, maintenance, and improvement of infrastructure.
-(4) This section expires on the earlier of—
-  (a) the close of 30 June 2012:
-  (b) the date of a decision by the Minister for the Environment under section 167 of the Resource Management Act 1991 on an application by Watercare Services Limited for requiring authority status in relation to any project or work related to the operation, maintenance, and improvement of infrastructure.
+[Repealed]
 
 **Acquisition of shareholding in Auckland International Airport Limited**
 
@@ -1006,16 +992,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 (3) Any subsequent obligation under section 209 or 210 of the Local Government Act 2002 to refund a development contribution made or paid to the former Franklin District Council in respect of the territory to which subsection (2) applies becomes an obligation of the Hauraki District Council or the Waikato District Council, as the case may be.
 
 ### 96 Hauraki District Council and Waikato District Council may require schedule development contributions
-(1) The Hauraki District Council may require a development contribution under section 198 of the Local Government Act 2002, in the territory of its district gained from the former Franklin District, in accordance with the schedule of development contributions payable prepared and adopted by the former Franklin District Council under section 29H(2)(b) of the Reorganisation Act.
-(2) For the purpose of subsection (1), the Hauraki District Council must apply the Franklin District Council development contributions policy.
-(3) The Waikato District Council may require a development contribution under section 198 of the Local Government Act 2002, in the territory of its district gained from the former Franklin District, in accordance with the schedule of development contributions payable prepared and adopted by the former Franklin District Council under section 29H(2)(b) of the Reorganisation Act.
-(4) For the purpose of subsection (3), the Waikato District Council must apply the Franklin District Council development contributions policy.
-(5) In this section,—
-  - **development contributions policy** means the policy on development contributions—
-    (a) adopted by the Franklin District Council under section 102(4)(d) of the Local Government Act 2002; and
-    (b) included in its current long-term plan as at 1 July 2010
-  - **the territory of its district gained from the former Franklin** means the territory gained by the Hauraki District or the Waikato District, as the case may be, in accordance with the boundary adjustment Order.
-(6) This section expires on the close of 30 June 2012.
+[Repealed]
 
 ## Part 2 — Transitional provisions relating to employment
 
