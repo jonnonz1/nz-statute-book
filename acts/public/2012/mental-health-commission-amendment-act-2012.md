@@ -1,5 +1,5 @@
 # Mental Health Commission Amendment Act 2012
-_Consolidation as at 2012-06-06_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Mental Health Commission Amendment Act 2012.
