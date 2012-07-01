@@ -1,5 +1,5 @@
 # Alcohol Advisory Council Amendment Act 2009
-_Consolidation as at 2009-03-16_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Alcohol Advisory Council Amendment Act 2009.
