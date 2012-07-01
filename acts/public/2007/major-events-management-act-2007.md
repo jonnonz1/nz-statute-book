@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2012-06-07_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -50,7 +50,7 @@ In this Act, unless the context otherwise requires,—
   - **proper name** , in relation to any town or road or other place, means the name assigned or approved in respect of that place by the New Zealand Geographic Board or the Surveyor-General or a territorial authority under any Act
   - **protection period** means the period for which the protection under section 10 applies in relation to a major event, as declared by Order in Council under section 8(1)
   - **registering authority** includes the following Commission and officers, and also includes any officer acting on behalf of the following Commission and officers:
-    (a) the Charities Commission under the Charities Act 2005:
+    (a) the chief executive under the Charities Act 2005:
     (b) the Registrar of Incorporated Societies under the Incorporated Societies Act 1908:
     (c) the Registrar of Industrial and Provident Societies under the Industrial and Provident Societies Act 1908:
     (d) the Registrar of Friendly Societies and Credit Unions under the Friendly Societies and Credit Unions Act 1982:
