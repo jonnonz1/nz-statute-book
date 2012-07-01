@@ -1,5 +1,5 @@
 # Alcoholic Liquor Advisory Council Amendment Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-07-01_
 
 > An Act to amend the Alcoholic Liquor Advisory Council Act 1976
 
