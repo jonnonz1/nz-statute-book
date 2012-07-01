@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2012-07-01_
 
 > Title
 
@@ -30,7 +30,6 @@ _Consolidation as at 2011-07-23_
   - **class 4 gambling venue licence** means a class 4 venue licence within the meaning of section 4(1) of the Gambling Act 2003
   - **coastal cargo** has the meaning given to it by section 198(6) of the Maritime Transport Act 1994
   - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1955 or the Companies Act 1993 or any other enactment
-  - **Council** means the Health Sponsorship Council established by section 43
   - **craft** means—
     (a) an aircraft:
     (b) a ship (as defined in section 2(1) of the Maritime Transport Act 1994)
@@ -985,36 +984,16 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 ## Part 3 — Health Sponsorship Council
 
 ### 42 Meaning of sponsorship
-(1) In this Part, sponsorship means, in broad terms, the provision of assistance by the Council to any person or organisation and, in return, the promotion by that person or organisation of health and healthy lifestyles in a manner agreed by the Council.
-(2) Without limiting the generality of the term, such assistance by the Council may take the form of—
-  (a) money, whether by way of grant or otherwise; or
-  (b) goods and services; or
-  (c) trophies, prizes, awards, and scholarships.
-(3) Also, without limiting the generality of the term, such promotion by the person or organisation receiving assistance may take the form of—
-  (a) publicising messages relating to health and healthy lifestyles; or
-  (b) publicising messages relating to ill-health and unhealthy lifestyles; or
-  (c) promoting the aims and objectives of the Council.
+[Repealed]
 
 ### 43 Council established
-(1) There is hereby established a council, to be known as the Health Sponsorship Council.
-(2) The Council is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Council except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 44 Principal functions of Council
-(1) The principal functions of the Council shall be—
-  (a) to promote health and to encourage healthy lifestyles, whether through the provision of sponsorship or otherwise; and
-  (b)
-(2) For the purposes of its principal functions, the Council may provide sponsorship to—
-  (a) any person or organisation involved in sports participation, artistic endeavour, cultural pursuits, or recreational activities; or
-  (b) any person or organisation involved in arranging any sporting, artistic, or recreational activity; or
-  (c) any person or organisation in accordance with section 56.
-(3) The Council also has any other functions conferred on it by the Minister in accordance with section 112 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 45 Membership of Council
-(1) The Council must have no fewer than 3, and no more than 6, members.
-(2) Members of the Council are the board for the purposes of the Crown Entities Act 2004.
-(3)
-(4)
+[Repealed]
 
 ### 46 Term of office of members of Council
 [Repealed]
@@ -1026,8 +1005,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 [Repealed]
 
 ### 49 Council to appoint chief executive
-(1) The Council shall appoint and employ a suitably qualified person to be the chief executive of the Council.
-(2)
+[Repealed]
 
 ### 50 Other staff
 [Repealed]
@@ -1060,13 +1038,10 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 [Repealed]
 
 ### 60 Further provisions relating to funds
-(1) Any funds received by the Council in one year and not expended by the Council in that year shall, without further appropriation by Parliament, be available to, and may be expended by, the Council, in any subsequent year.
-(2) Subject to subsection (3), the Council shall not commit itself to expend any money by way of sponsorship unless it has the money in hand at the time.
-(3) The Council may in any year commit itself to expend by way of sponsorship in the next succeeding year in aggregate up to 25% of the amount of the money appropriated by Parliament for the purposes of the Council for the current year.
+[Repealed]
 
 ### 61 Liability of Council and members
-(1) The liability of the Council shall be limited to the aggregate value of its assets, including all money standing to its credit at a bank, and all money to which it is entitled by way of repayment of any loan.
-(2)
+[Repealed]
 
 ### 62 Accounts
 [Repealed]
