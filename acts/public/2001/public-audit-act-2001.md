@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2012-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -112,6 +112,17 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 (1) The Auditor-General must from time to time audit the financial statements, accounts, and other information that a public entity is required to have audited.
 (2) In the case of an audit of a department (within the meaning of section 2(1) of the Public Finance Act 1989) or an Office of Parliament, the Auditor-General must also audit the appropriations administered by the department or Office.
 (3) In the case of an audit of an issuer carried out under this Act, the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the audit.
+
+### 15A Auditor-General may ask for quality review in respect of audits of issuers
+(1) The Auditor-General may ask the Financial Markets Authority to arrange for a quality review to be carried out of the systems, policies, and procedures applying to the employees of the Auditor-General who assist in the carrying out of audits of issuers under this Act.
+(2) The purpose of a quality review under this section is to provide the Auditor-General with advice on whether those systems, policies, and procedures are satisfactory in terms of—
+  (a) promoting, in relation to audits of issuers under this Act, compliance with the auditing and assurance standards that apply to those audits; and
+  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of those audits.
+(3) The Auditor-General must take reasonable steps to ensure that the period between quality reviews carried out under this section does not exceed 4 years.
+(4) The Financial Markets Authority may—
+  (a) prepare a report on a quality review carried out under this section; and
+  (b) include recommendations in the report.
+(5) The Auditor-General must have regard to a report prepared under subsection (4) (but is not required to comply with any recommendations).
 
 ### 16 Performance audit
 (1) The Auditor-General may at any time examine—
@@ -233,6 +244,13 @@ For the purpose of obtaining documents, information, or other evidence relevant 
   (a) an employee of the Auditor-General:
   (b) a person qualified to be an auditor of a company under section 199 of the Companies Act 1993, regardless of whether the entity concerned is a company:
   (c) subject to subsection (2), a partnership, if all or some of the partners are persons who are qualified to be appointed as auditors of a company under section 199 of the Companies Act 1993.
+(1A) The Auditor-General must, before appointing a person to act as the auditor of an issuer under subsection (1)(a) or (b), be satisfied that the person—
+  (a) meets the prescribed minimum standards for the issue of a licence prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
+  (b) has the competence, qualifications, and experience that are equivalent to, or as satisfactory as, those standards.
+(1B) The Auditor-General must, before appointing a partnership to act as the auditor of an issuer under subsection (1)(c), be satisfied that the partnership—
+  (a) meets the prescribed minimum standards for the registration of an audit firm prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
+  (b) meets other requirements that are equivalent to, or as satisfactory as, those standards.
+(1C) Subsections (1A) and (1B) apply only after the relevant minimum standards have been prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011.
 (2) If a partnership is appointed under subsection (1)(c),—
   (a) the appointment of the partnership is to be treated as an appointment of all the persons who are partners in the firm from time to time; and
   (b) if the partnership includes persons who are not qualified to be appointed as auditors of a company under section 199 of the Companies Act 1993, the persons who are not qualified to be appointed as auditors must not act as auditors.
