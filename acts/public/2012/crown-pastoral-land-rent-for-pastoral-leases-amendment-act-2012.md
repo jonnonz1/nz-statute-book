@@ -1,5 +1,5 @@
 # Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012
-_Consolidation as at 2012-05-07_
+_Consolidation as at 2012-07-06_
 
 ### 1 Title
 This Act is the Crown Pastoral Land (Rent for Pastoral Leases) Amendment Act 2012.
