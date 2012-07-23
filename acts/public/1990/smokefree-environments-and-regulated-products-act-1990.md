@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-07-23_
 
 > Title
 
@@ -24,9 +24,6 @@ _Consolidation as at 2012-07-01_
     (b) does not require replenishment between each sale
   - **casino** means a casino for which a casino venue licence is in force under section 122 or section 137 of the Gambling Act 2003
   - **casino operator's licence** means a licence granted under section 130 of the Gambling Act 2003
-  - **children's product** —
-    (a) means a product (such as comics, games, and toys) marketed primarily for children; and
-    (b) includes confectionery, ice-cream, soft drinks, and other similar products
   - **class 4 gambling venue licence** means a class 4 venue licence within the meaning of section 4(1) of the Gambling Act 2003
   - **coastal cargo** has the meaning given to it by section 198(6) of the Maritime Transport Act 1994
   - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1955 or the Companies Act 1993 or any other enactment
@@ -42,9 +39,6 @@ _Consolidation as at 2012-07-01_
     (a) means a person who employs 1 or more employees; and
     (b) includes a person who arranges for volunteers to undertake work
   - **enforcement officer** means a person for the time being appointed under section 14 to enforce Parts 1 and 2, or provisions of Parts 1 and 2
-  - **face** , in relation to a tobacco carton or tobacco package,—
-    (a) means a more or less flat area of the surface of the carton or package that is bounded by edges of the package; and
-    (b) in the case of a tobacco package that is a pouch pack, includes a curved area of the surface of the package that is between 2 faces
   - **foreign ship** means a ship that is not a New Zealand ship
   - **gambling** has the meaning set out in section 4(1) of the Gambling Act 2003
   - **gambling area** , in relation to a casino venue, means the area of the venue in which gambling is conducted
@@ -60,6 +54,11 @@ _Consolidation as at 2012-07-01_
   - **internal flight** means a flight—
     (a) between any 2 or more places in New Zealand; or
     (b) that commences from any place in New Zealand and is intended to terminate at that same place
+  - **Internet sale** , in relation to a tobacco product or herbal smoking product, means a sale (whether by retail or wholesale) of the product pursuant to a contract that—
+    (a) has been entered into using the Internet between—
+      (i) a seller whose business is or includes offering the product for sale (whether by retail or wholesale); and
+      (ii) a person (whether the purchaser or a person acting on the purchaser's behalf) who is at a distance from the seller's place of business; and
+    (b) contains a term providing for the product to be delivered by or on behalf of the seller to, or to a place or person chosen by, the purchaser
   - **licensed premises** means any premises, or any part of any premises, on which liquor may be sold pursuant to a licence under the Sale of Liquor Act 1989
   - **managers** , in relation to a school, or premises to which section 7A(4) applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
   - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
@@ -87,7 +86,6 @@ _Consolidation as at 2012-07-01_
   - **point of sale** —
     (a) means a checkout where tobacco products may be bought; and
     (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
-  - **pouch pack** means a package made, from flexible material, in the form of a rectangular pocket with a flap covering the opening
   - **prescribed petroleum operations** means petroleum operations prescribed for the purposes of the Health and Safety in Employment Act 1992 by regulations made under that Act
   - **prison** —
     (a) means a prison within the meaning of the Corrections Act 2004; and
@@ -125,19 +123,11 @@ _Consolidation as at 2012-07-01_
   - **tobacco package** means a box, carton, pack, packet, pouch, tin, wrapping, or other package that—
     (a) contains a tobacco product or products; but
     (b) does not contain other tobacco packages within it
-  - **tobacco packages in a visible stack** means 2 or more tobacco packages so arranged that—
-    (a) one is in front of, but does not completely obscure, the other or others; but
-    (b) at least 88% of the total surface area of every package behind the front package is obscured
   - **tobacco product** means any product manufactured from tobacco and intended for use by smoking, inhalation, or mastication; and includes nasal and oral snuff; but does not include any medicine (being a medicine in respect of which there is in force a consent or provisional consent given under section 20 or section 23 of the Medicines Act 1981) that is sold or supplied wholly or principally for use as an aid in giving up smoking
   - **tobacco product advertisement** means any words, whether written, printed, or spoken, including on film, video recording, or other medium, broadcast or telecast, and any pictorial representation, design, or device, used to encourage the use or notify the availability or promote the sale of any tobacco product or to promote smoking behaviour; and includes—and has a corresponding meaning
     (a) any trade circular, any label, and any advertisement in any trade journal; and
     (b) any depiction, in a film, video recording, telecast, or other visual medium, of a tobacco product or a tobacco product trade mark, where in return for that depiction any money is paid, or any valuable thing is given, whether to the maker or producer of that film, video recording, telecast, or visual medium or to any other person; and
     (c) the use in any advertisement or promotion to the public of a tobacco products manufacturer's company name where that name or any part of that name is used as, or is included in, a tobacco product trade mark;—
-  - **tobacconist's shop** —
-    (a) means a retail shop that—
-      (i) is held out as a specialist retail seller of tobacco products (even if it is also held out as a specialist retail seller of other products such as newspapers and magazines, or it also provides services such as hairdressing, or both); and
-      (ii) obtains from the retail sale of tobacco products at least 60% of the gross revenue it obtains from retail sales; but
-    (b) does not include any retail shop within premises in which petroleum products are sold to motorists
   - **toy tobacco product** means an object that—
     (a) looks like a tobacco product or a smoker's pipe, and can be used to simulate smoking; but
     (b) cannot be smoked, is not confectionery, and has a primary purpose other than to help people stop smoking
@@ -409,91 +399,68 @@ The purpose of this Part is—
 **Promotion and advertising**
 
 ### 22 Advertising of tobacco products
-(1) Subject to the succeeding provisions of this section and to section 23, no person shall publish, or arrange for any other person to publish, any tobacco product advertisement in New Zealand.
-(2) Nothing in subsection (1) shall apply to any price list given to retailers of tobacco products if the price list includes the health messages required by or under this Part.
-(3) Nothing in subsection (1) shall apply to any advertisement included in any book, magazine, or newspaper printed outside New Zealand, or in any radio or television transmission originating outside New Zealand, or in any film or video recording made outside New Zealand, unless—
-  (a) the principal purpose of the book, magazine, newspaper, transmission, film, or video recording is the promotion of the use of tobacco products; or
-  (b) the book, magazine, newspaper, film, or video recording is intended for sale, distribution, or exhibition primarily in New Zealand; or
-  (c) in the case of an advertisement in any radio or television transmission, the advertisement is targeted primarily at a New Zealand audience.
-(4) Nothing in subsection (1) shall apply to the publication by a tobacco products manufacturer of a tobacco product advertisement in a magazine that is intended for distribution only to employees of the manufacturer.
-(5) Nothing in subsection (1) shall apply to—
-  (a) the exhibition, in any museum or art gallery, of any work or artifact:
-  (b) the dissemination, broadcasting, or exhibition of any film, video recording, or sound recording, where—
+(1) No person may, unless authorised by section 22A or 23, publish in New Zealand, or arrange for any other person to publish in New Zealand, a tobacco product advertisement (as defined in section 2(1)).
+(2) A notice or sign must be treated as a tobacco product advertisement if the notice or sign—
+  (a) communicates information that is or includes tobacco product health information or warnings, tobacco product purchase age information or warnings, or both; and
+  (b) is displayed inside or at the outside of the place of business of a person who offers tobacco products for sale (whether by retail or wholesale); and
+  (c) is not required or permitted by this Act, regulations under this Act, or both.
+(3) A message must be treated as a tobacco product advertisement if the message—
+  (a) communicates information that is or includes tobacco product health information or warnings, tobacco product purchase age information or warnings, or both; and
+  (b) is an Internet-sales message; and
+  (c) is not required or permitted by this Act, regulations under this Act, or both.
+(4) Subsections (2) and (3) do not limit the generality of subsection (1) or of the definition in section 2(1) of the term tobacco product advertisement.
+
+### 22A Exemptions from advertising prohibition for specified publications
+Nothing in section 22(1) applies to any of the following:
+  (a) any price list given to retailers of tobacco products if the price list includes the health messages required by or under this Part:
+  (b) any advertisement included in any book, magazine, or newspaper printed outside New Zealand, or in any radio or television transmission originating outside New Zealand, or in any film or video recording made outside New Zealand, unless—
+    (i) the main purpose of the book, magazine, newspaper, transmission, film, or video recording is the promotion of the use of tobacco products; or
+    (ii) the book, magazine, newspaper, film, or video recording is intended for sale, distribution, or exhibition primarily in New Zealand; or
+    (iii) in the case of an advertisement in any radio or television transmission, the advertisement is targeted primarily at a New Zealand audience:
+  (c) the publication by a tobacco products manufacturer of a tobacco product advertisement in a magazine that is intended for distribution only to employees of the manufacturer:
+  (d) the exhibition, in any museum or art gallery, of any work or artifact:
+  (e) the dissemination, broadcasting, or exhibition of any film, video recording, or sound recording, where—
     (i) that film, video recording, or sound recording was made before 16 December 1990; and
     (ii) the tobacco product advertisement included in that film, video recording, or sound recording is in the form of a reference to, or a depiction of, a tobacco product trade mark that is only an incidental part of that film, video recording, or sound recording.
 
-### 23 Exemptions for retailers and vending machines
-(1) Notwithstanding anything in section 22, a retailer of tobacco products may do either or both of the following things:
-  (a)
-  (b) subject to subsections (3) and (4), display, inside that retailer's place of business, any notice identifying the tobacco products that are available for purchase in that place and indicating their price:
-  (c) display the retailer's name or trade name on the exterior of the retailer's place of business, in accordance with regulations made under this Part, even though the name contains any word or expression signifying that any tobacco product is available in that place for purchase, so long as the name does not include the trade mark of a tobacco product or the company name of a tobacco products manufacturer.
-(2) Subject to subsections (3) and (4), any person who offers for sale, by way of an automatic vending machine, any tobacco product may display, on the exterior of the vending machine, any notice identifying that tobacco product and indicating its price.
-(3) Every notice to which subsection (1)(b) or subsection (2) applies must comply with the following requirements:
-  (a) the notice must be no larger than 90 mm by 55 mm:
-  (b) the background of the notice must be white, and all words, figures, or other material appearing on the notice must be black:
-  (c) no material other than the following may appear on the notice:
-    (i) the name of the tobacco product (which may consist of or include a brand or brand variant):
-    (ii) any logo, design, or similar device that is usually associated with that tobacco product:
-    (iii) a depiction of the package in which the tobacco product is customarily sold:
-    (iv) the quantity in which the tobacco product is sold (whether by weight or number):
-    (v) the price of the tobacco product.
-(4) The combined area of all notices to which subsection (3) applies and that are displayed—must not exceed, in total, 21 cm by 29.7 cm.
-  (a) inside a retailer's place of business; or
-  (b) on the exterior of an automatic vending machine—
+### 23 Exemptions from advertising prohibition for retailers, vending machines, and Internet sellers
+(1) A retailer of tobacco products may do all or any of the following things:
+  (a) provide, inside that retailer's place of business, and on a request (however expressed) made for the purpose by a person who has asked to purchase a specified, or any available, tobacco product, any information (in any medium, but only in the form of printed, written, or spoken words) that—
+    (i) does no more than identify the tobacco products that are available for purchase in that place and indicate their price; and
+    (ii) complies with any regulations for the time being in force under section 39(1)(ia):
+  (b) display inside that retailer's place of business any notice for the public that—
+    (i) does no more than indicate, using only printed or written words, the fact that, and the location or locations where, tobacco products in general are available for purchase in that place; and
+    (ii) complies with any regulations for the time being in force under section 39(1)(ib):
+  (c) display the retailer's name or trade name at the outside of the retailer's place of business so long as the name is not and does not include either or both of the following:
+    (i) any word or expression signifying that any tobacco product is available in that place for purchase:
+    (ii) the trade mark of a tobacco product or the company name of a tobacco products manufacturer.
+(2) Any person who offers any tobacco products for sale (whether by retail or wholesale) by way of an automatic vending machine may display, on the outside of the vending machine, any notice for the public that—
+  (a) does no more than identify (using only printed or written words) the tobacco products and indicate (using only printed or written words) their prices; and
+  (b) complies with any regulations for the time being in force under section 39(1)(ic).
+(3) Any person who offers any tobacco product for Internet sale (whether by retail or wholesale) may, on a request (however expressed) made for the purpose by another person who has asked to purchase a specified, or any available, tobacco product, allow to be visible on the person's Internet site when people browse, enter, or otherwise access it information that is only in the form of printed or written words, and that—
+  (a) does no more than identify the tobacco product and indicate its price; and
+  (b) complies with any regulations for the time being in force under section 39(1)(id).
 
-### 23A Compliant product display
-(1) A retailer of tobacco products must not expose a tobacco product for sale inside the retailer's place of business unless its exposure—
-  (i) complies with this section; and
-  (ii) complies with any regulations for the time being in force under section 39(1)(ia).
-(2) The exposure of tobacco products for sale inside a retailer's place of business complies with this section if, and only if,—
-  (a) no tobacco product exposed for sale is visible from outside the place; and
-  (b) unless the place of business is a tobacconist's shop, not more than 100 tobacco packages are exposed for sale at any point of sale; and
-  (c) unless the place of business is a tobacconist's shop, not more than 40 tobacco cartons are exposed for sale at any point of sale; and
-  (d) not more than 2 tobacco packages of the same kind are exposed for sale at any point of sale; and
-  (e) not more than 2 tobacco cartons of the same kind are exposed for sale at any point of sale; and
-  (f) no tobacco package (other than a pouch pack of loose tobacco) with a face that has an area greater than 66 cm2 is exposed for sale; and
-  (g) no pouch pack of loose tobacco with a face that has an area greater than 105 cm2 is exposed for sale; and
-  (h) no tobacco carton with a face that has an area greater than 266 cm2 is exposed for sale; and
-  (i) either—
-    (i) no tobacco product is exposed for sale within 1 metre of any children's product exposed for sale; or
-    (ii) if, because of the size of the place, it is not reasonably practicable to keep all tobacco products exposed for sale at least 1 metre from any children's product exposed for sale, the retailer has taken all reasonably practicable steps to ensure that every tobacco product exposed for sale that is within 1 metre of any children's product exposed for sale is as far away from the children's product as possible; and
-  (j) no tobacco product is exposed for sale on any counter top or similar surface; and
-  (k) there is displayed at each point of sale where tobacco products are exposed for sale a rectangular sign, with its longer sides horizontal and its shorter sides vertical, and the message SMOKING KILLS Ka mate koe i te kai hikareti printed in black across it—
-    (i) within a black rectangular border that is no wider than an upper case letter i in the point size used for the words SMOKING KILLS; and
-    (ii) on a white background within that border; and
-    (iii) in the type face known as Helvetica; and
-    (iv) in roman font; and
-    (v) with the words SMOKING KILLS printed centred, in upper case letters, in 1 line; and
-    (vi) with the words Ka mate koe i te kai hikareti printed centred, in upper case and lower case letters (as it is printed in this subparagraph) in 1 line—
-      (A) beneath the words SMOKING KILLS; and
-      (B) in a point size such that its risers are two-thirds the height of the words SMOKING KILLS; and
-    (vii) in a type that is clear and legible, of normal weight, and of such a point size that the words Ka mate koe i te kai hikareti do not touch the vertical elements of the border, but as nearly as possible take up the full width of the sign between them.
-(3) The sign must have at least the lesser of the following areas:
-  (a) 1 square metre:
-  (b) 10% of the area of the display in which the tobacco products are exposed for sale.
-(4) The sign may include the attribution Ministry of Health Warning, printed centred, in 1 line beneath the words Ka mate koe i te kai hikareti,—
-  (a) in upper case and lower case letters (as it is set out above); and
-  (b) in an italic font in the type face known as Helvetica; and
-  (c) in a point size such that its risers are no more than half the height of the words SMOKING KILLS; and
-  (d) otherwise in accordance with subsection (2)(k).
-(5) The sign must not include anything that is not—
-  (a) required by subsection (2)(k); or
-  (b) authorised by subsection (4).
-(6) For the purposes of subsection (2)(k), tobacco products are exposed for sale at a point of sale if they are exposed for sale—
-  (a) in a display that forms part of a unit or counter of which that point of sale forms part; or
-  (b) at a place that—
-    (i) is within 2 metres of that point of sale; and
-    (ii) is not closer to some other point of sale than to that point of sale.
+### 23A Display of tobacco products in or from sales outlets or vending machines generally prohibited
+(1) A person who offers tobacco products for sale (whether by retail or wholesale) must not allow any part of a tobacco product, tobacco package, or tobacco carton at the outside of or inside the person's place of business to be for any reason visible—
+  (a) from outside the place; or
+  (b) from an area inside the place to which members of the public are allowed access.
+(2) A person who offers any tobacco product for sale (whether by retail or wholesale) by way of an automatic vending machine must not allow any part of a tobacco product, tobacco package, or tobacco carton to be for any reason visible from outside the machine.
+(3) Subsection (1) does not limit or affect, and is not limited or affected by, subsection (2).
+(4) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible only to the extent that is necessary for it to be delivered—
+  (a) to the person at the place or, as the case requires, to the machine; or
+  (b) to its purchaser at or from the place or, as the case requires, from the machine.
+(5) A tobacco product, tobacco package, or tobacco carton must be treated as being visible only to the extent that is authorised by subsection (4)(a) or (b) if it is delivered—
+  (a) to a person and at or from a place or machine specified in that paragraph; and
+  (b) using a form of visible delivery prescribed by any relevant acceptable forms of visible delivery regulations for the time being in force under section 39(1)(ie).
+(6) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible in a way that complies with any relevant temporary transitional exemption regulations for the time being in force under section 39(1)(if).
 
-### 23B Exposure for sale
-(1) For the purposes of sections 23(1) and 23A,—
-  (a) a tobacco product is exposed for sale if the tobacco package or tobacco carton it is in is exposed for sale; and
-  (b) a tobacco package or tobacco carton is exposed for sale inside a retailer's place of business if it is for sale, and any part of it is visible—
-    (i) from outside the place; or
-    (ii) from an area inside the place to which members of the public are allowed access.
-(2) In determining for the purposes of section 23(1) how many tobacco packages in a visible stack are exposed for sale, the front package must be counted; but
-  (a) if there are 4 or fewer other packages behind it that are exposed for sale, the other packages must not be counted; and
-  (b) if there are 5 or more other packages behind it that are exposed for sale, the first 4 of the other packages must not be counted.
+### 23B Transitional exemption regulations expire 12 months after section 23A comes into force
+(1) The following enactments expire at the end of the 12-month transition period:
+  (a) sections 23A(6) and 39(1)(if) and (6C); and
+  (b) all regulations under section 39(1)(if) that are in force immediately before the end of that period.
+(2) The 12-month transition period ends at the close of the period of 12 months that starts on the day on which section 23A (as substituted by section 9 of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011) comes into force.
+(3) On their expiry those enactments are repealed or, as the case requires, revoked.
 
 ### 24 Use of trade marks, etc, on goods other than tobacco products, or in relation to sponsored events
 (1) No person shall use, otherwise than in a private capacity, a tobacco product trade mark—even though that person would be, but for this Act, entitled to use the trade mark on that article or for that purpose.
@@ -512,13 +479,21 @@ The purpose of this Part is—
   (a) was in use in New Zealand for that purpose before 17 May 1990; or
   (b) was in use for that purpose at any time before that trade mark or company name was first used, in New Zealand, for application to, or in connection with, any tobacco product or smoking accessory.
 
-### 25 Organising or promoting activity using trade mark, etc, of tobacco products
-No manufacturer, importer, distributor, or retailer of tobacco products shall—where that organised activity involves the use, in the name of that activity, or on any article other than a tobacco product, of a tobacco product trade mark, or of a company name or any part of a company name included in that tobacco product trade mark.
-  (a) organise or promote any organised activity that is to take place, in whole or in part, in New Zealand; or
-  (b) make any financial contribution towards any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand; or
-  (c) make any financial contribution to any person in respect of—any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand—
-    (i) the organisation or promotion, by that person, of; or
-    (ii) the participation, by the person, in—
+### 25 Sponsoring activity involving use of trade mark, etc, of tobacco products
+(1) No person who is a manufacturer, importer, distributor, or retailer of tobacco products may sponsor (within the meaning of subsection (2)) an organised activity that is to take place, is taking place, or has taken place, in whole or in part, in New Zealand, and that involves the use, in the name of that activity, or on or through any thing other than a tobacco product, of all or any of the following:
+  (a) a tobacco product trade mark:
+  (b) all or any part of a company name included in a tobacco product trade mark:
+  (c) 1 or more words, logos, colours, shapes, sounds, smells, or other elements of a tobacco product trade mark that, as those 1 or more elements are used in the name, or on or through the thing, are likely to cause a person exposed to the name or thing to believe that the 1 or more elements are used in, on, or through it only or mainly for the purpose of advertising the product.
+(2) A person sponsors an activity for the purposes of subsection (1) or section 25A(1) if, and only if, the person does all or any of the following:
+  (a) organises or promotes, before the activity is to take place, or during the time that it takes place, some or all of the activity:
+  (b) makes, before the activity is to take place, or during or after the time that it takes place, any financial or non-financial contribution towards some or all of the activity:
+  (c) makes, before the activity is to take place, or during or after the time that it takes place, any financial or non-financial contribution to any other person in respect of the organisation or promotion, by that other person, of, or the participation, by that other person, in, some or all of the activity.
+
+### 25A Sponsoring activity involving exclusive supply arrangement
+(1) No person who is a manufacturer, importer, distributor, or retailer of tobacco products may sponsor (within the meaning of section 25(2)) an organised activity that is to take place, is taking place, or has taken place, in whole or in part, in New Zealand, and that involves an arrangement for the person to be the only person supplying tobacco products at, or for the purposes of, some or all of the event.
+(2) The arrangement may be a contract, or a legally binding or other agreement, undertaking, or understanding.
+(3) Subsection (2) does not limit subsection (1).
+(4) This section operates in parallel with (that is, is not subject to, and does not override) the Commerce Act 1986.
 
 ### 26 Exemptions for participants in certain events
 (1) Nothing in section 22 or section 24 or section 25 shall apply to the display, on any craft, of any tobacco product trade mark or the company name of any tobacco products manufacturer, where—
@@ -588,6 +563,17 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
 
 **Sale and labelling**
 
+### 29AA Point-of-sale health information or warnings signs
+Every person who offers a tobacco product or herbal smoking product for sale (by retail or wholesale) must, at all times when point-of-sale health information or warnings signs regulations under section 39(1)(ig) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a sign for the public that—
+  (a) does no more than communicate health information or warnings (which may, without limitation, be or include the message SMOKING KILLS Ka mate koe i te kai hikareti); and
+  (b) complies with any regulations for the time being in force under section 39(1)(ig).
+
+### 29AAB Internet-sales health information or warnings
+(1) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales health information or warnings regulations under section 39(1)(ih) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring health information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
+(2) The health information or warnings to be visible—
+  (a) may, without limitation, be or include the message SMOKING KILLS Ka mate koe i te kai hikareti; and
+  (b) must comply with any regulations for the time being in force under section 39(1)(ih).
+
 ### 29A Sale of tobacco products with other products prohibited
 (1) This subsection applies to a tobacco product if it is—
   (a) packed together with a product that is not a tobacco product; or
@@ -614,7 +600,13 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
 (3) It is not a defence to a charge in respect of a contravention of subsection (1)—
   (a) that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years; or
   (b) that the person charged believed on reasonable grounds that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
-(6) Every person who sells by retail a tobacco product or herbal smoking product must display clearly for the public a notice to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited.
+(6) Every person who offers a tobacco product or herbal smoking product for sale by retail must, at all times when point-of-sale purchase age information or warnings regulations under section 39(1)(ii) that apply to the person are in force, display clearly at each point of sale at the outside of or inside the person's place of business a notice for the public that—
+  (a) does no more than communicate information or warnings to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited; and
+  (b) complies with any regulations for the time being in force under section 39(1)(ii).
+(6A) Every person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) must, at all times when Internet-sales purchase age information or warnings regulations under section 39(1)(ij) that apply to the person are in force, comply with all provisions of those regulations (if any) requiring purchase age information or warnings to be visible on the person's Internet site when people browse, enter, or otherwise access it.
+(6B) The purchase age information or warnings required by subsection (6A) to be visible must—
+  (a) do no more than communicate information or warnings to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited; and
+  (b) comply with any regulations for the time being in force under section 39(1)(ij).
 
 ### 30AA Supplying tobacco products or herbal smoking products to people under 18 prohibited
 (1) No person may, in a public place (within the meaning of section 2 of the Summary Offences Act 1981),—
@@ -736,11 +728,14 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (1) Every person who, without reasonable excuse, publishes any advertisement for a tobacco product in contravention of section 22 commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
-(1A) A retailer of tobacco products who, without reasonable excuse, exposes a tobacco product for sale inside the retailer's place of business otherwise than in compliance with section 23A commits an offence and is liable to a fine not exceeding $10,000.
+(1A) A person who, without reasonable excuse, allows a tobacco product, tobacco package, or tobacco carton to be visible in contravention of section 23A(1) or (2) commits an offence and is liable to a fine not exceeding $10,000.
 (2) Every person who, without reasonable excuse, uses any trade mark or company name in contravention of subsection (1) or subsection (2) of section 24, or who distributes, sells, or offers or exposes for sale any article in contravention of subsection (3) of that section commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
-(3) Every manufacturer, importer, distributor, or retailer of tobacco products who, in contravention of section 25, organises or promotes any organised activity, or makes any financial contribution towards any organised activity, or makes any financial contribution to any other person in respect of the organisation or promotion, by that other person, of, or the participation, by that other person, in, any organised activity, commits an offence and is liable,—
+(3) Every manufacturer, importer, distributor, or retailer of tobacco products who, in contravention of section 25(1), sponsors (within the meaning of section 25(2)) an organised activity commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
+  (b) in any other case, to a fine not exceeding $10,000.
+(3A) Every manufacturer, importer, distributor, or retailer of tobacco products who, in contravention of section 25A(1), sponsors (within the meaning of section 25(2)) any organised activity, commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
   (b) in any other case, to a fine not exceeding $10,000.
 (4) Every manufacturer, distributor, importer, or retailer of tobacco products who distributes or supplies any tobacco product in contravention of section 28(1) commits an offence and is liable to a fine not exceeding $50,000.
@@ -748,6 +743,8 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (5) Every person who offers any gift, cash rebate, or right of participation in contravention of section 28(2), or who publishes any advertisement in contravention of section 29(1), or who imports, sells, packs, or distributes any tobacco product in contravention of section 29(2), commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
   (b) in any other case, to a fine not exceeding $5,000.
+(5AA) Every person who offers a tobacco product for sale (by retail or wholesale) and who fails, without reasonable excuse, to display any point-of-sale health information or warnings sign or signs required by section 29AA commits an offence and is liable to a fine not exceeding $2,000.
+(5AAB) Every person who offers a tobacco product for Internet sale (by retail or wholesale) and who fails, without reasonable excuse, to make visible in accordance with section 29AAB the health information or warnings required by section 29AAB commits an offence and is liable to a fine not exceeding $2,000.
 (5A) Every person who, in contravention of section 29A(2), distributes a tobacco product to which section 29A(1) applies, or supplies a tobacco product to which section 29A(1) applies to another person for later distribution, or, in the case of a retailer, supplies a tobacco product to which section 29A(1) applies to another person for the purpose of that retailer's business commits an offence, and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; and
   (b) in any other case, to a fine not exceeding $5,000.
@@ -810,12 +807,16 @@ In this section and sections 38B to 39,—
     (b) not exceeding the maximum infringement fee amount specified for that offence (in the relevant paragraph of the definition in this section of infringement offence)
   - **infringement offence** means an offence that is an offence against a section, and that relates to contravening the section or sections, specified in any one of the following paragraphs (and that has the maximum infringement fee amount specified in that paragraph):
     (a) section 36(5), but only so far as it relates to contravening section 29(1) (on publishing an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking)) or section 29(2) (on importing for sale, selling, packing, or distributing a tobacco product labelled or otherwise described as suitable for chewing, or for any other oral use (other than smoking))—maximum infringement fee amount $1,000:
-    (b) section 36(5A) (which relates to contravening section 29A(2), which relates to distributing a tobacco product to which section 29A(1) applies, or supplying a tobacco product to which section 29A(1) applies to another person for later distribution, or, in the case of a retailer, supplying a tobacco product to which section 29A(1) applies to another person for the purpose of that retailer's business)—maximum infringement fee amount $1,000:
-    (c) section 36(5B) (which relates to contravening section 29B, which relates to permitting an automatic vending machine that dispenses or is capable of dispensing tobacco products or herbal smoking products to be located in a place to which members of the public have access, and also to permitting a tobacco product or herbal smoking product to be sold by way of an automatic vending machine in a place to which members of the public have access)—maximum infringement fee amount $400:
-    (d) section 36(6) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, tobacco products to people younger than 18 years)—maximum infringement fee amount $1,000:
-    (e) section 36(6A) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, herbal smoking products to people younger than 18 years)—maximum infringement fee amount $400:
-    (f) section 36(7A) (which relates to contravening section 30A(2) or (3), both of which impose restrictions on the sale of certain tobacco products in small quantities)—maximum infringement fee amount $400:
-    (g) section 36A(2) (which relates to contravening section 36A(1), which prohibits sale of a toy tobacco product to a person younger than 18 years)—maximum infringement fee amount $400.
+    (b) section 36(5AA) (which relates to contravening section 29AA, which in certain circumstances requires point-of-sale signs to be displayed by a person who offers for sale (by retail or wholesale) a tobacco product or herbal smoking product)—maximum infringement fee amount $400:
+    (c) section 36(5AAB) (which relates to contravening section 29AAB, which in certain circumstances requires health information or warnings to be made visible by a person who offers for Internet sale (by retail or wholesale) a tobacco product)—maximum infringement fee amount $400:
+    (d) section 36(5A) (which relates to contravening section 29A(2), which relates to distributing a tobacco product to which section 29A(1) applies, or supplying a tobacco product to which section 29A(1) applies to another person for later distribution, or, in the case of a retailer, supplying a tobacco product to which section 29A(1) applies to another person for the purpose of that retailer's business)—maximum infringement fee amount $1,000:
+    (e) section 36(5B) (which relates to contravening section 29B, which relates to permitting an automatic vending machine that dispenses or is capable of dispensing tobacco products or herbal smoking products to be located in a place to which members of the public have access, and also to permitting a tobacco product or herbal smoking product to be sold by way of an automatic vending machine in a place to which members of the public have access)—maximum infringement fee amount $400:
+    (f) section 36(6) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, tobacco products to people younger than 18 years)—maximum infringement fee amount $1,000:
+    (g) section 36(6A) (which relates to contravening section 30(1) by selling, or after selling them delivering or arranging for the delivery of, herbal smoking products to people younger than 18 years)—maximum infringement fee amount $400:
+    (h) section 36(7) (which relates to contravening section 30(6), which in certain circumstances requires point-of-sale purchase age information or warnings to be displayed by a person who offers a tobacco product or herbal smoking product for sale by retail)—maximum infringement fee amount $400:
+    (i) section 36(7AAA) (which relates to contravening section 30(6A), which in certain circumstances requires purchase age information or warnings to be made visible by a person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale))—maximum infringement fee amount $400:
+    (j) section 36(7A) (which relates to contravening section 30A(2) or (3), both of which impose restrictions on the sale of certain tobacco products in small quantities)—maximum infringement fee amount $400:
+    (k) section 36A(2) (which relates to contravening section 36A(1), which prohibits sale of a toy tobacco product to a person younger than 18 years)—maximum infringement fee amount $400.
 
 ### 38B Commission of infringement offences
 A person who is alleged to have committed an infringement offence may either—
@@ -846,7 +847,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing forms, certificates, notices, leaflets, signs, particulars, and notifications, and the persons by whom and the persons to whom any such forms, certificates, notices, leaflets, signs, particulars, and notifications are to be supplied:
   (b) prescribing records and registers for the purposes of this Part; prescribing the manner in which and the period during which any such records and registers are to be kept; and prescribing the persons to whom, and the conditions on which, any such records and registers may be available for searching, inspection, and copying:
-  (c) prescribing the form and manner in which tobacco products may be identified and depicted on the exterior of vending machines:
+  (c)
   (d)
   (e) prescribing the form, size, and content of information and messages to be displayed with, on, or in packages of, tobacco products or herbal smoking products, or on automatic vending machines that dispense tobacco products; and prescribing the circumstances and manner in which the information and messages are to be so displayed:
   (f) prescribing the class or classes of tobacco products or herbal smoking products to which section 33 is to apply, and regulating the tests that are to be conducted under that section:
@@ -854,22 +855,48 @@ All infringement fees paid in respect of infringement offences must be paid into
   (ga) prohibiting harmful constituents of tobacco products or herbal smoking products for the purposes of section 31(a):
   (h) prescribing the method of determining the constituents of tobacco products or herbal smoking products, and the smoke produced from their combustion:
   (i) prescribing the form and manner in which returns and reports are to be filed under section 35:
-  (ia) prescribing for the purposes of section 23(1)(a)(ii) requirements with which the exposure of tobacco products for sale in a retailer's place of business must comply:
+  (ia) prescribing for the purposes of section 23(1)(a)(ii) (on retailers) requirements with which tobacco product and price information under section 23(1)(a) must comply:
+  (ib) prescribing for the purposes of section 23(1)(b)(ii) (on retailers) requirements with which a tobacco product availability and locations notice under section 23(1)(b) must comply:
+  (ic) prescribing for the purposes of section 23(2)(b) (on vending machines) requirements with which a tobacco product and price notice under section 23(2) must comply:
+  (id) prescribing for the purposes of section 23(3)(b) (on Internet sales) requirements with which a tobacco product and price information under section 23(3) must comply:
+  (ie) prescribing for the purposes of section 23A(5)(b) acceptable forms of visible delivery of all or any of tobacco products, tobacco packages, and tobacco cartons:
+  (if) prescribing for the purposes of section 23A(6) ways in which a class or classes of people who offer tobacco products for sale may allow a tobacco product, tobacco package, or tobacco carton to be visible:
+  (ig) prescribing for the purposes of section 29AA requirements with which point-of-sale health information or warnings signs under that section must comply:
+  (ih) prescribing for the purposes of section 29AAB requirements that a person who offers a tobacco product for Internet sale (by retail or wholesale) make visible as required by section 29AAB health information or warnings, and prescribing requirements with which that information or those warnings must comply:
+  (ii) prescribing for the purposes of section 30(6)(b) requirements with which a notice for the public (to the effect that the sale of tobacco products and herbal smoking products to people who are younger than 18 years is prohibited) under section 30(6) must comply:
+  (ij) prescribing for the purposes of section 30(6A) requirements that a person who offers a tobacco product or herbal smoking product for Internet sale (by retail or wholesale) make visible as required by section 30(6A) tobacco product and herbal smoking product purchase age information or warnings, and prescribing requirements with which that information or those warnings must comply:
   (ik) prescribing for the purposes of section 38A the infringement fee or infringement fees payable in respect of different kinds of infringement offences:
   (il) prescribing for the purposes of (and for the purposes of the procedure in section 21 of the Summary Proceedings Act 1957 as modified and applied by) section 38C the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part or its due administration.
 (2)
-(3) Regulations under subsection (1)(ia) may prescribe requirements of either or both of the following kinds:
-  (a) requirements that are not of the same kind as those in section 23A:
-  (b) requirements that are of the same kind as, but are more stringent than, those in section 23A.
-(4) Regulations under subsection (1)(ia) must be made on the recommendation of the Minister.
-(5) The Minister must not recommend the making of regulations under subsection (1)(ia) without having first consulted—
-  (a) organisations that, in the Minister's opinion, represent the interests of retailers of a kind who customarily sell tobacco products; and
-  (b) every organisation (if any) that is known to the Minister to represent the interests of manufacturers, importers, or wholesalers of tobacco products; and
-  (c) every manufacturer, importer, or wholesaler of tobacco products that is known to the Minister—
-    (i) to be likely to be substantially affected by the regulations; and
-    (ii) not to be represented by an organisation consulted under paragraph (b).
-(6) Regulations made under subsection (1)(ia) must come into force no earlier than the day 6 months after the date on which they are made.
+(3)
+(4)
+(5)
+(6) Regulations made under subsection (1)(ia), (ic), (ig), (ih), (ii), or (ij) must come into force no earlier than the day 6 months after the date on which they are made.
+(6A) Regulations under all or any of subsection (1)(ia), (ib), (ic), (ig), (ih), (ii), and (ij) may (without limitation) prescribe different requirements for all or any of the following:
+  (a) different classes of people who offer tobacco products or herbal smoking products for sale:
+  (b) different classes of place of business:
+  (c) different classes of points of sale:
+  (d) different circumstances of the sales for which requirements are prescribed.
+(6B) Regulations under subsection (1)(ie) may (without limitation) do either or both of the following:
+  (a) prescribe for different classes of people who offer tobacco products for sale different acceptable forms of visible delivery of all or any of tobacco products, tobacco packages, and tobacco cartons:
+  (b) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, using a prescribed acceptable form of visible delivery.
+(6C) Regulations under subsection (1)(if) may (without limitation) do either or both of the following:
+  (a) prescribe for different classes of people who offer tobacco products for sale different ways of allowing a tobacco product, tobacco package, or tobacco carton to be visible:
+  (b) prescribe conditions with which 1 or more classes of people of that kind must comply before, or while, allowing a tobacco product, tobacco package, or tobacco carton to be visible in a way prescribed.
+(6D) Regulations under subsection (1)(ig) may (without limitation) prescribe requirements relating to all or any of the following matters relating to signs under section 29AA:
+  (a) the health information or warnings to be communicated by them:
+  (b) the shape and lengths of their sides:
+  (c) the width, and other aspects of, the borders around their edges:
+  (d) the typeface or font, point size, other aspects of the format or layout, or of the clarity, legibility, and weight, of the printing on them of the health information or warnings to be communicated by them:
+  (e) the minimum area that they must have for printing across:
+  (f) any official attribution (which may, without limitation, be or include Ministry of Health Warning) that they are to contain, and the way in which that attribution is to be communicated by them.
+(6E) Regulations under subsection (1)(ih) may (without limitation) prescribe requirements relating to all or any of the following matters relating to the health information or warnings to be made visible under section 29AAB:
+  (a) the shape, and lengths of, the sides of that information or those warnings:
+  (b) the width, and other aspects of, the borders around the edges of that information or those warnings:
+  (c) the typeface or font, point size, other aspects of the format or layout, or of the clarity, legibility, and weight, of all or any of the text of that information or those warnings:
+  (d) the minimum area of that information or those warnings:
+  (e) any official attribution (which may, without limitation, be or include Ministry of Health Warning) that that information is, or that those warnings are, to contain.
 (7) This subsection applies to regulations under this section if they are the first regulations made after the commencement of section 28 of the Smoke-free Environments Amendment Act 2003 that (substantively, or by amending existing regulations)—
   (a) require tobacco products sold or offered for sale to display a photograph or picture intended to have effect as a warning relating to the effects of their use on health; or
   (b) require a leaflet to be placed inside packages of tobacco products sold or offered for sale; or
