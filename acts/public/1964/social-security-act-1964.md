@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-07-27_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -3302,6 +3302,46 @@ Without limiting the general power to make regulations conferred by section 132,
 
 ## Part 3 — General provisions
 
+### 123E Services to encourage young persons to move to education, training, and employment
+The chief executive may do either or both of the following things:
+  (a) provide services to encourage and help young persons to move into education, training, and employment rather than to receiving financial support under this Act:
+  (b) enter (under section 125A) into contracts with service providers to provide services of that kind on the chief executive's behalf.
+
+### 123F Chief executive may enter into information-sharing agreement with chief executive of Ministry of Education
+(1) The chief executive may enter into an agreement with the chief executive of the Ministry of Education relating to the sharing, for the purposes of facilitating the provision of services of a kind described in section 123E(a), of information about young persons who have ceased to be enrolled at a registered school (as defined in section 2 of the Education Act 1989) or a tertiary education organisation (being an organisation as defined in section 159B(1) of that Act).
+(2) While the agreement is in force, the chief executive of the Ministry of Education—
+  (a) may provide to the chief executive any information to which subsection (1) applies that the former considers may facilitate the provision by the latter of services of a kind described in section 123E(a); and
+  (b) may use national student numbers for the purpose of gathering the information.
+(3) Subsection (2) overrides section 344(2) of the Education Act 1989.
+
+### 123G Consultation on proposed agreement
+(1) Before entering into an agreement under section 123F(1), the parties must—
+  (a) consult on the proposed agreement, and invite submissions on it from,—
+    (i) the Privacy Commissioner; and
+    (ii) any person or organisation that they consider represents the interests of the kinds of people whose personal information will be shared under the proposed agreement; and
+    (iii) any other person or organisation that the parties consider should be consulted; and
+  (b) consider all submissions received within a reasonable time of being invited.
+(2) The Privacy Commissioner—
+  (a) must consider the privacy implications of the proposed agreement; and
+  (b) may make any submissions under subsection (1)(a)(i) that he or she thinks fit.
+
+### 123H Agreements to be reviewed after 3 years
+(1) Promptly after an agreement under section 123F(1) has been in effect for 3 years, the chief executive must conduct a review of its operation.
+(2) In conducting the review, the chief executive must consult—
+  (a) the chief executive of the Ministry of Education (as the other party to the agreement); and
+  (b) the Privacy Commissioner; and
+  (c) any organisation or other person that he or she considers to represent the interests of the kinds of people whose personal information may be shared under the agreement.
+(3) In conducting the review, the chief executive must consider—
+  (a) whether (and if so, to what extent) the agreement is operating—
+    (i) in a way that is unusual; or
+    (ii) otherwise than was expected by the parties when they entered into it; or
+    (iii) otherwise than was expected by the Privacy Commissioner when he or she was consulted on it under section 123G(1)(a)(i); and
+  (b) the extent to which the agreement is facilitating the provision of services of a kind described in section 123E(a); and
+  (c) the extent to which the agreement is impinging on the privacy of individuals; and
+  (d) whether (and if so, to what extent) the benefits of sharing information under the agreement justify the costs of sharing it; and
+  (e) all submissions made in the course of the consultation required by subsection (2).
+(4) After conducting the review, the chief executive must report to the Minister on its findings, and make to the Minister any recommendations arising from them that the chief executive considers appropriate.
+
 ### 124 Money payable out of Crown Bank Account
 (1) There shall from time to time be paid out of a Crown Bank Account, from money appropriated by Parliament for the purpose,—
   (a) all money required to be expended in providing benefits and making other payments under this Act:
@@ -3339,6 +3379,38 @@ Without limiting the general power to make regulations conferred by section 132,
 
 ### 125 Advances to beneficiaries and war pensioners for repair or maintenance of home, etc
 [Repealed]
+
+### 125A Chief executive may contract with service providers
+(1) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a contracted service provider) for the provision by the contracted service provider of services—
+  (a) that are—
+    (i) services of the kind referred to in section 123E(a); or
+    (ii) services in relation to Part 5; and
+  (b) that are services of a kind or description stated for the purposes of this section by regulations under this Act.
+(2) The chief executive must not enter into a contract with a person, body, or organisation for the provision of services of a kind stated in subsection (1) unless the chief executive is satisfied that it—
+  (a) is suitable to provide the services specified in the contract; and
+  (b) is suitable to work with young persons in providing those services; and
+  (c) has the powers and capacity to enter into and perform a contract for those services.
+(3) In this section, young person has the meaning given by section 157.
+
+### 125B Contracts with service providers: contents and form
+(1) A contract under section 125A—
+  (a) must set out the responsibilities of the contracted service provider and the chief executive in respect of each of the services the provider is to provide under the contract; and
+  (b) must require the provider to co-operate with the chief executive; and
+  (c) must contain all terms and conditions (if any) stated for the purposes of that section by regulations under this Act.
+(2) The contract must be in writing.
+(3) Subsection (1) does not limit section 125A.
+
+### 125E Chief executive may adopt existing contracts
+The chief executive may agree in writing with the other party to any contract the chief executive has entered into before the commencement of the Social Security (Youth Support and Work Focus) Amendment Act 2012 that this Act applies to the contract as if it had been entered into under section 125A; and in that case, after the agreement takes effect, this Act applies to the contract (to the extent that it was capable of being entered into under that section) as if it had been entered into under that section.
+
+### 125I Complaints to Privacy Commissioner
+(1) A person may complain to the Privacy Commissioner if personal information relating to the person has been disclosed under section 125C or 125D, on the grounds that the disclosure was in breach of—
+  (a) regulations of the kind referred to in section 125C; or
+  (b) the requirements of section 125D.
+(2) A person may complain to the Privacy Commissioner if personal information relating to the person has been disclosed pursuant to an information-sharing agreement under section 123F, on the grounds that the disclosure was in breach of the agreement.
+(3) Part 8 of the Privacy Act 1993—
+  (a) applies to a complaint under subsection (1) as if the regulations concerned and section 125D together constituted a code of practice issued under Part 6 of that Act; and
+  (b) applies to a complaint under subsection (2) as if the information-sharing agreement concerned were a code of practice issued under Part 6 of that Act.
 
 ### 126 Cost of repair and replacement of artificial limbs
 There shall from time to time be paid out of Crown Bank Account out of money appropriated by Parliament for the purpose such sums as may be necessary to defray the reasonable cost of the repair or renewal by the New Zealand Artificial Limb Board, or by any other body or person specified from time to time by the Minister, by notice in the Gazette, of any artificial arm, hand, leg, or foot belonging to any person who is entitled to have that artificial limb repaired or renewed free of charge pursuant to the provisions of Part 1 of Schedule 1 of the Accident Compensation Act 2001.
