@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-08-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
