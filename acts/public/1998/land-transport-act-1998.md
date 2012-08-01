@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-08-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -133,9 +133,9 @@ _Consolidation as at 2012-03-05_
     (ca) a toll offence:
     (d) any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence)
   - **land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
-  - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
+  - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
   - **land transport register** includes—
-    (a) registers kept under this Act, the Railways Act 2005; and
+    (a) registers kept under this Act, the Railways Act 2005, or the Road User Charges Act 2012; and
     (b) other information and records relating to vehicle and operator licensing kept by the Agency
   - **large passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry more than 12 persons (including the driver)
   - **licensed** means,—
@@ -1260,8 +1260,9 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 
 ### 30ZH Duties regarding logbooks
 (1) A driver must—
-  (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 12 months after the date of the last entry in that logbook; and
-  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 12 months from the date of the record.
+  (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 36 months after the date of the last entry in that logbook; and
+  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 36 months from the date of the record.
+(1A) Despite anything in subsection (1), if the logbook only contains entries for a light RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012), the driver must retain the logbook only for a period of 12 months.
 (2) A driver must—
   (a) carry a logbook with him or her at all times when driving a vehicle to which section 30ZE applies; and
   (b) produce, on demand by any enforcement officer and without delay, any logbook that—
@@ -2799,7 +2800,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
-  (a) the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
+  (a) the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 2012, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
@@ -2974,7 +2975,7 @@ An enforcement officer may, at a reasonable time, exercise all or any of the fol
 (1) An enforcement officer may at any time exercise all or any of the following powers in respect of a heavy motor vehicle or transport service vehicle (other than a light rental service vehicle) on a road:
   (a) inspect the load on the vehicle:
   (b) measure, or require to be measured, the weight of the vehicle or the weight on any of its axles:
-  (c) direct the driver or person in charge of the vehicle to drive the vehicle to a site and on to a weighing device specified by the enforcement officer for the purpose of enforcing the provisions of this Act or the Road User Charges Act 1977 or any other enactment, even though the driver may not otherwise be permitted to drive the vehicle to that site.
+  (c) direct the driver or person in charge of the vehicle to drive the vehicle to a site and on to a weighing device specified by the enforcement officer for the purpose of enforcing the provisions of this Act or the Road User Charges Act 2012 or any other enactment, even though the driver may not otherwise be permitted to drive the vehicle to that site.
 (2) The power conferred by subsection (1)(c) is also exercisable in respect of a vehicle an enforcement officer believes to be a heavy motor vehicle or transport service vehicle (other than a light rental service vehicle).
 (3) Except where the driver has failed to stop when directed under subsection (4), nothing in subsection (1) authorises an enforcement officer to direct the driver or person in charge, in order to drive the vehicle to a site or weighing device, to travel a distance that would increase the total length of the journey by—
   (a) more than 5 km; or
@@ -3039,8 +3040,8 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 (1) A parking warden in uniform or in possession of a warrant or other evidence of authority as a parking warden—
   (a) may enforce the provisions of any stationary vehicle offence or special vehicle lane offence:
   (b) may, in relation to enforcing the provisions of any stationary vehicle offence or special vehicle lane offence, direct any person on any road, and apparently in charge of or in any vehicle, to—
-    (i) provide the person's name and address and give any other particulars required as to the person's identity:
-    (ii) give any information that is within the person's knowledge and that may lead to the identification of the driver or person in charge of any vehicle:
+    (i) provide the person’s full name and full address and give any other identifying particulars required as to the person’s identity (for example, the person’s date of birth, occupation, and telephone number):
+    (ii) give any information that is within the person’s knowledge and that may lead to the identification of the driver or person in charge of any vehicle (for example, the other person’s full name, full address, date of birth, occupation, and telephone number):
   (c) may direct the driver or person in charge of any vehicle on any road to remove the vehicle from the road or any specified part of any road, if the parking warden believes on reasonable grounds that—
     (i) the vehicle causes an obstruction in the road or to any vehicle entrance to any property; or
     (ii) the removal of the vehicle is desirable in the interests of road safety or for the convenience or in the interests of the public:
@@ -3122,7 +3123,9 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
     (ii) another person was driving the vehicle; and
   (b) immediately after becoming aware of the alleged offence, the person advised the enforcement authority in writing that, at the time the offence was committed, he or she was not lawfully entitled to possession of the vehicle or another person was driving the vehicle (as the case may be); and
   (c) the person has given the enforcement authority a statutory declaration—
-    (i) identifying the driver, by giving the name and address of the driver or such other particulars within the person's knowledge as may lead to the identification of the driver; or
+    (i) identifying the driver, by giving—
+      (A) the full name and full address of the driver; and
+      (B) any other identifying particulars, so far as they are within the person’s knowledge, such as the driver’s date of birth, occupation, telephone number; or
     (ii) establishing that the person could not identify the driver, after taking all reasonable steps to do so.
 (5) In proceedings for a moving vehicle offence or a special vehicle lane offence, a statutory declaration given under subsection (4) is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the declaration; and it is admissible for all purposes of any proceedings under this section.
 
@@ -3142,7 +3145,11 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
     (i) he or she was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
     (ii) another person was unlawfully in charge of the vehicle; and
   (b) as soon as practicable after becoming aware of the alleged offence, he or she advised the enforcement authority in writing that, at the time the offence was committed, he or she was not lawfully entitled to possession of the vehicle or another person unlawfully had charge of the vehicle, as the case may be; and
-  (c) he or she has done everything reasonably possible on his or her part to comply with all requests of the enforcement authority to supply to the enforcement authority information regarding the person lawfully entitled to possession, or the person who was in charge, of the vehicle at the time of the alleged offence.
+  (c) he or she has given the enforcement authority a statutory declaration that—
+    (i) identifies another person who was, at the time of the alleged offence, lawfully entitled to possession, or was unlawfully in charge, of the vehicle by providing—
+      (A) the full name and full address of the other person; and
+      (B) any other identifying particulars of the other person that are known to the person making the declaration (for example, the other person's date of birth, occupation, and telephone number); or
+    (ii) establishes that the person making the declaration was unable to identify the other person after taking all reasonable steps to do so.
 (5) In the case of any stationary vehicle offence, any defence available under subsection (3) or (4) is in addition to and not in substitution for any defences available under the enactment creating the offence.
 
 ### 134 Strict liability for offences involving insecure loads and loads falling from vehicles
@@ -3205,15 +3212,8 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (3) For the purposes of the Summary Proceedings Act 1957,—
   (a) an infringement notice attached to a vehicle under paragraph (a) of subsection (2) is to be treated as having been served when it is attached to the vehicle:
   (b) an infringement notice sent to a person by post under paragraph (c) or paragraph (d) of that subsection is to be treated as having been served on the person when it would have been delivered in the ordinary course of post.
-(4) Every infringement notice must be in the prescribed form and must inform the person to whom it is issued that:
-  (a) no proceedings in respect of the infringement offence will be taken if the infringement fee (including any towage fees) is paid, within 28 days after the date of issue of the notice, to the enforcement authority at the address shown in the notice; and
-  (b) the person should write to the enforcement authority if the person wishes to—
-    (i) raise a matter concerning the circumstances of the offence for consideration by the enforcement authority; or
-    (ii) deny liability for the offence and request a court hearing; or
-    (iii) admit liability for the offence, but make written submissions to the court; and
-  (c) if the person does nothing, a reminder notice explaining fully how to defend the charge and containing a statement of the person's rights will be issued to the person; and
-  (d) in the case of a moving vehicle offence, the owner of the vehicle is responsible for moving vehicle offences committed with the vehicle unless one of the relevant statutory defences can be established.
-(5) Different forms of infringement notices may be prescribed for different kinds of infringement offences.
+(4)
+(5)
 (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
   (a) the user of the vehicle may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
@@ -3225,21 +3225,24 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (b) the court is satisfied that expenses have been incurred by an enforcement authority in respect of the movement or proposed movement of the vehicle involved in the offence (whether or not the vehicle was in fact moved).
 (2) If, in proceedings in respect of a parking offence (including proceedings commenced by the filing of a copy of a reminder notice under section 21(5) of the Summary Proceedings Act 1957 or the provision of particulars of a reminder notice under section 21 of that Act), the defendant is ordered to pay an amount in respect of a towage fee, the amount of the fee recovered must be paid to the enforcement authority that incurred the towage expenses.
 
-### 140 Reminder notices
-(1) A reminder notice must be in the form prescribed by regulations made under this Act, and must contain—
-  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+### 140 Contents of infringement and reminder notices
+(1) An infringement notice must be in the form prescribed by regulations made under this Act and must contain—
+  (a) details of the alleged infringement offence that are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) in the case of a speeding offence, the applicable speed limit and the speed at which it is alleged the driver was travelling at the time of the alleged offence; and
-  (c) in the case of an offence to which demerit points apply, a statement that demerit points apply to the alleged offence; and
-  (d) in the case of an infringement offence (other than a speeding offence) in respect of which a scale of infringement fees is prescribed having regard to the extent of the alleged offence, the extent of the infringement offence alleged; and
-  (e) the amount of the infringement fee specified in respect of that offence; and
-  (f) the address of the place at which the infringement fee may be paid; and
-  (g) the time within which the infringement fee may be paid; and
-  (h) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (i) in the case of an alleged infringement offence that is a moving vehicle offence, a summary of the provisions of section 133; and
-  (j) a statement of the right of the person served with the notice to request a hearing; and
-  (k) a statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
-  (l) such other particulars as are prescribed.
-(2) Different forms of reminder notices may be prescribed for different kinds of infringement offences.
+  (c) in the case of an infringement offence (other than a speeding offence) in respect of which a scale of infringement fees is prescribed having regard to the extent of the alleged offence, the extent of the infringement offence alleged; and
+  (d) the amount of the infringement fee specified in respect of that offence; and
+  (e) the address of the place at which the infringement fee may be paid; and
+  (f) the time within which the infringement fee may be paid; and
+  (g) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (h) in the case of an alleged infringement offence that is a moving vehicle offence, a summary of the provisions of section 133 of this Act; and
+  (i) a statement of the right of the person served with the notice to request a hearing; and
+  (j) a statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
+  (k) any other particulars as are prescribed.
+(2) A reminder notice must—
+  (a) be in the form prescribed by regulations made under this Act; and
+  (b) include the same particulars, or substantially the same particulars, as the infringement notice; and
+  (c) in the case of an offence to which demerit points apply, include a statement that demerit points apply to the alleged offence.
+(3) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
 
 ### 141 Provisions relating to infringement fees
 (1) The infringement fee payable in respect of an infringement offence is the appropriate infringement fee prescribed in respect of the relevant offence by or under this Act.
@@ -3296,7 +3299,7 @@ In any proceedings for an offence against Part 6A,—
   (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by an officer of the Agency or a Police employee to certify documents or give certificates under this section, until the contrary is proved.
 
 ### 146 Evidence of testing and accuracy of speed-measuring devices, etc
-(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a constable or Police employee who is not a constable authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
+(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 2012 (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a constable or Police employee who is not a constable authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
 (2) Every document purporting to be a copy of a certificate issued under this section is, in the absence of proof to the contrary, to be presumed to be a true copy.
 (3) Every certificate issued under this section is, in the absence of proof to the contrary, to be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for any such certificate to show on its face that the person signing it was so authorised.
 (4) This section applies to distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks used to check such devices or equipment.
@@ -3304,7 +3307,7 @@ In any proceedings for an offence against Part 6A,—
 (6) In any proceedings where a certificate has been produced under this section, the court may, on application made not less than 14 days before the hearing of the charge concerned, and if satisfied that there is good cause to do so, set aside the certificate and require the accuracy of the equipment or device to be established by evidence other than the certificate.
 
 ### 147 Evidence of accuracy of weighing devices and sites
-(1) In proceedings for an offence against this Act or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
+(1) In proceedings for an offence against this Act or an offence against the Road User Charges Act 2012 (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
 (2) A certificate referred to in subsection (1) may be to the effect that,—
   (a) on a specified date, being a date not more than 12 months earlier than the date of the alleged offence, a weighing device referred to in the certificate was tested and found to be accurate by—
     (i) an Inspector of Weights and Measures; or
@@ -3319,7 +3322,7 @@ In any proceedings for an offence against Part 6A,—
 (4) A certificate issued under subsection (1) sufficiently identifies the weighing device to which it refers if (in the case of a portable wheel weigher) it contains the serial number of the wheel weigher or if (in the case of a weighbridge or site) it refers to the location of the weighbridge or site.
 (5) Every document purporting to be a copy of a certificate issued under this section is, in the absence of evidence to the contrary, to be presumed to be a true copy.
 (6) Every certificate issued under this section is, in the absence of evidence to the contrary, to be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for any such certificate to show on its face that the person signing it was so authorised.
-(7) In proceedings for an offence against this Act or an offence against the Road User Charges Act 1977, evidence that—is, in the absence of evidence to the contrary, sufficient evidence that the weighing device was accurate on the date of the alleged offence.
+(7) In proceedings for an offence against this Act or an offence against the Road User Charges Act 2012 (or any regulations made under that Act), evidence that—is, in the absence of evidence to the contrary, sufficient evidence that the weighing device was accurate on the date of the alleged offence.
   (a) a weighing device bore the stamp of a mark of verification under the Weights and Measures Act 1987 indicating that the weighing device had been so stamped; or
   (b) at the time of the alleged offence, there was in force in respect of a weighing device a certificate of accuracy issued under the Weights and Measures Act 1987—
 
@@ -3611,7 +3614,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) setting the infringement fee for each offence prescribed under paragraph (b), which,—
     (i) in the case of an individual, may not exceed $2,000; or
     (ii) in the case of a body corporate, may not exceed $10,000; or
-    (iii) in the case of an infringement offence involving road user charges, may not exceed $15,000; or
+    (iii)
     (iv) in the case of an overloading offence, may not exceed $10,000:
   (f) setting the penalty for each overloading infringement offence against section 43:
   (fa) setting the infringement fee for a toll offence:
@@ -3653,7 +3656,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
-  (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Road User Charges Act 1977, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
+  (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the Public Transport Management Act 2008.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
@@ -3667,7 +3670,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (f) fix, or enable the fixing of, discounts for early payment of any fee or charge, and penalties for late payment:
   (g) prescribe any returns, and the conditions relating to such returns, to be made by persons by whom any fees, charges, or penalties are payable.
 (5)
-(6) Nothing in this section affects or limits the power under the Road User Charges Act 1977 to set rates of road user charges.
+(6)
 
 ### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
 (1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is a mobility device.
@@ -3924,7 +3927,8 @@ The functions of the Minister under this Act are—
   (a) an enforcement officer for the purposes of—
     (i) this Act:
     (ii) Part 2 of the Land Transport Management Act 2003:
-    (iii) the Public Transport Management Act 2008; or
+    (iii) the Public Transport Management Act 2008:
+    (iv) the Road User Charges Act 2012; or
   (b) a dangerous goods enforcement officer.
 (2) The Commissioner may, by warrant, appoint any constable to be a dangerous goods enforcement officer.
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
@@ -4031,7 +4035,7 @@ Without limiting the powers conferred by section 167, the Governor-General may f
   (f)
   (g) the Transport (Measurement of Weight) Notice 1997 (SR 1997/375).
 (3) The enactments specified in subsection (1) or subsection (2), which were made under the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, may be amended from time to time under the corresponding empowering provision (if any) in this Act or (if there is no corresponding empowering provision in this Act) as if this section contained the relevant empowering provision (as it read immediately before the commencement of section 214).
-(4) Every regulation prescribing or providing for the fixing of fees and charges (other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, or the Government Roading Powers Act 1989, and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under section 167.
+(4) Every regulation prescribing or providing for the fixing of fees and charges under the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, or the Government Roading Powers Act 1989, and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under section 167.
 
 ### 219 Expiry of section 218
 [Repealed]
