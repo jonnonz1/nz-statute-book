@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Amendment Act 2011
-_Consolidation as at 2011-07-22_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Amendment Act 2011.
