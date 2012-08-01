@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-08-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -336,7 +336,7 @@ _Consolidation as at 2011-08-29_
   (a) a payment made by a waste disposal facility user to a waste disposal facility operator; and
   (b) a payment made by a waste disposal facility operator to the Secretary for the Ministry for the Environment; and
   (c) a payment made by the Secretary to a funding recipient or territorial authority to fund waste minimisation activities in the community as described in section 30 of the Waste Minimisation Act 2008.
-(6B) For the purposes of this Act, any amount of road user charge paid on or after 26 April 1993 pursuant to section 9 of the Road User Charges Act 1977 shall be deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
+(6B) For the purposes of this Act, any amount of road user charges paid pursuant to the Road User Charges Act 2012 is deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
 (6C) For the purposes of this Act, the amount of any deposit specified in, and paid under, section 127A or section 144 or section 146F of the Electoral Act 1993 is deemed to be consideration (inclusive of tax) for a supply of services by the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Electoral Act 1993 in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 127A(3) or section 144(3) or section 146F(3) of that Act.
 (6CA) For the purposes of this Act, the amount of any deposit referred to in, and paid under, section 55 of the Local Electoral Act 2001 is deemed to be consideration (inclusive of tax) for a supply of services by the relevant local authority in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 59 of that Act.
 (6D) For the purposes of this Act, where any payment in the nature of a grant or subsidy is made on behalf of the Crown or by any public authority to—that payment shall be deemed to be consideration for a supply of goods and services by the person to whom or for whose benefit the payment is made in the course or furtherance of that person's taxable activity.
