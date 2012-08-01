@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-08-01_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
