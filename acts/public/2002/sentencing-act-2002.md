@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -538,6 +538,28 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 ### 38 Payment of sums to person who suffered harm, loss, or damage
 (1) Every sum payable under a sentence of reparation must be paid to the person who suffered the harm, loss, or damage, or, with that person's consent, to that person's insurer.
 (2) A sentence of reparation does not affect any right that the person who suffered the harm, loss, or damage has to recover by civil proceedings any damages in excess of the amount recovered under the sentence.
+
+### 38A Cancellation of sentence of reparation
+(1) A court may, on an application under subsection (2) or (3) or on its own initiative,—
+  (a) cancel a sentence of reparation; or
+  (b) cancel a sentence of reparation and substitute any other sentence (including another sentence of reparation) that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
+(2) An offender who is subject to a sentence of reparation or a Registrar may apply in accordance with section 72 for an order under subsection (1) on the ground that the reparation is unaffordable because the offender's financial position has changed significantly since the sentence was imposed.
+(3) A Registrar may apply in accordance with section 72 for an order under subsection (1) on the ground that the Registrar reasonably believes that the sentence is unenforceable because the offender provided false or misleading information about the offender's financial position that the court relied on in imposing the sentence or because of any other reason.
+(4) The court may make an order under subsection (1) (whether on application or on its own initiative) only if—
+  (a) the person to whom the offender is required to pay the reparation—
+    (i) has been informed and has been given the opportunity to be heard about the matter; or
+    (ii) is unable to be found despite reasonable efforts made by the Registrar; and
+  (b) the court is satisfied that—
+    (i) the ground in subsection (2) or (3) has been established; and
+    (ii) enforcement of the original sentence of reparation under Part 3 of the Summary Proceedings Act 1957 (or, if applicable, under section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) is unlikely to be effective.
+(5) If the court is considering a substitute sentence,—
+  (a) the court must take the following matters into account:
+    (i) the amount of the original sentence of reparation that has been paid and the amount outstanding:
+    (ii) any other sentences or orders imposed on the offender for the offending for which the original reparation was imposed and the extent to which the reparation was taken into account in imposing those sentences or orders; and
+  (b) if the offender provided false or misleading information about the offender's financial position, the court may take the following matters into account:
+    (i) the extent to which the information was false or misleading:
+    (ii) the offender's culpability in providing the information, including whether, in the court's opinion, the offender intended to mislead the court.
+(6) If the court cancels a sentence of reparation, the amount of reparation outstanding is deemed to be remitted from the date the order is made or any other date that the court may specify.
 
 **Fines**
 
@@ -1102,10 +1124,10 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
   (j) behaves in an offensive, threatening, insolent, insulting, disorderly, or indecent manner while under the supervision of a probation officer under section 65.
 (2) A person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who, without lawful justification or excuse, loiters about any community work centre or any place where persons sentenced to community work are placed, and refuses or neglects to depart after being warned by a constable or by a probation officer.
 
-**Review of community-based sentences**
+**Review of community-based sentences and cancellation of sentences of reparation**
 
 ### 72 Jurisdiction and procedure
-(1) Every application under section 54, 54K, 68, or 69I must be made—
+(1) Every application under section 38A, 54, 54K, 68, or 69I must be made—
   (a) to the High Court, if the sentence was passed—
     (ia) by the Supreme Court on appeal against a sentence imposed by the High Court, or imposed by the Court of Appeal on appeal from the High Court; or
     (i) by the Court of Appeal on appeal from the High Court; or
@@ -1117,7 +1139,12 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
   (c) to a District Court presided over by any Judge, in any other case.
 (2) A copy of the application must, either before or as soon as practicable after the application is lodged in the office of the court, be served—
   (a) on the offender, if the offender is not the applicant; or
-  (b) on the chief executive of the Department of Corrections, if a probation officer is not the applicant.
+  (b) on the chief executive of the Ministry of Justice, if a Registrar is not the applicant under section 38A; or
+  (c) on the chief executive of the Department of Corrections, if a probation officer is not the applicant under section 54, 54K, 68, or 69I.
+(2A) An application under section 38A must be served in accordance with section 79A or 79B of the Summary Proceedings Act 1957.
+(2B) If an application under section 38A has been lodged in a court by a Registrar, the Registrar may, for the purpose of having the offender brought before the court dealing with the application, issue a warrant for the arrest of the offender.
+(2C) Sections 88AA and 88AC of the Summary Proceedings Act 1957 apply with any necessary modifications to a warrant to arrest issued under subsection (2B).
+(2D) For the purposes of sections 280C to 280F of the Customs and Excise Act 1996 and sections 295 to 297 of the Immigration Act 2009, a warrant for the arrest of the offender issued under subsection (2B) is to be treated as a warrant for arrest that has been issued in respect of the non-payment of the whole, or of any part, of a fine.
 (3) If an application under section 54, 54K, 68, or 69I has been lodged in a court by a probation officer, a probation officer or a constable may, for the purpose of having the offender brought before the court dealing with the application, apply to a court for the issue of a warrant to arrest the offender.
 (4) No warrant issued under subsection (3) may be executed otherwise than by a constable.
 (5) If an offender is arrested under a warrant issued under subsection (3), sections 45 to 47 of the Summary Proceedings Act 1957, so far as they are applicable and with any necessary modifications, apply as if the application were an information.
@@ -2296,16 +2323,19 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 
 ### 127 Interpretation of terms used in sections 128 to 142
 (1) For the purposes of this section and sections 128 to 142, unless the context otherwise requires,—
-  - **encumbrance** , in relation to a motor vehicle in respect of which a confiscation order is made, includes—
-    (a) a hire purchase agreement:
-    (b) a leasing agreement:
-    (c) any other agreement entered into between the offender and another party under which the other party obtains or retains any interest in the motor vehicle
-  - **hire purchase agreement** means a hire purchase agreement within the meaning of section YA 1 of the Income Tax Act 2007
+  - **constable** has the meaning given to it in section 4 of the Policing Act 2008
+  - **hire purchase agreement** means—
+    (a) an agreement under which goods are let or hired with an option to purchase, however the agreement describes the payments, under which the person who agrees to purchase the goods is given possession of them before the total amount payable has been paid:
+    (b) an agreement for the purchase of goods by instalment payments, however the agreement describes the payments, under which the person who agrees to purchase the goods is given possession of them before the total amount payable has been paid
   - **impoundment costs** , in relation to a motor vehicle that has been confiscated while impounded under the Land Transport Act 1998, means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under section 167 of that Act, and, where those fees and charges have already been paid by the chief executive of the Ministry of Justice, means the amount required to reimburse the chief executive for that payment
   - **interest** means any proprietary interest, whether legal or equitable, and whether vested or contingent
-  - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Land Transport Act 1998
+  - **lease** does not include a hire purchase agreement or a rental service agreement to which the holder of a rental service licence under the Land Transport Act 1998 is a party
   - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer
   - **person who is registered** , in relation to a motor vehicle, means the person who is registered under the Land Transport Act 1998 in respect of the vehicle, and where several persons are so registered, means any one of those persons
+  - **Police employee** has the meaning given to it in section 4 of the Policing Act 2008
+  - **secured party** has the meaning given to it in section 16 of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
+  - **security agreement** has the meaning given to it in section 16 of the Personal Property Securities Act 1999, but does not include a lease
+  - **security interest** has the meaning given to it in section 17 of the Personal Property Securities Act 1999, but does not include a lease
   - **written caution** means a caution issued under section 129B.
 (2) For the purposes of sections 128 to 142, a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
 (3) For the purposes of sections 128 to 142, a person is, in relation to an offender, a substitute for the offender or a substitute if—
@@ -2351,20 +2381,23 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (a) the offender owns or has any interest in the motor vehicle; or
   (b) a substitute for the offender owns or has an interest in the motor vehicle if the written caution served on the substitute was issued in respect of an offence specified in subsection (1)(a).
 (4) The court must not make an order under subsection (3) if it will result in extreme hardship to the offender or undue hardship to any other person, including, without limitation, to any substitute for the offender.
+(5) The court must not make an order under subsection (3) in respect of a motor vehicle that 1 or more persons treated as a substitute have an interest in if it is satisfied that either of the following applies to each substitute:
+  (a) the substitute did not know, and could not reasonably have known, that the offender would commit the offence or offences; or
+  (b) the substitute took all reasonable steps to prevent the offender from committing the offence or offences.
 
 ### 129B Written caution to persons with interest in motor vehicles involved in offences
 (1) Subsection (2) applies whenever—
   (a) a court convicts an offender of an offence specified in section 128(1) involving a motor vehicle; and
   (b) the court is satisfied the offence was committed in circumstances that would permit or require the confiscation of the motor vehicle under section 128, 129, or 129A if the offender owned or had an interest in it at the time of conviction; and
   (c) it appears to the court that the offender does not own or have an interest in the motor vehicle.
-(2) The court by or before which the offender is convicted must order that a written caution be served on every person (other than the offender) who is registered in respect of the motor vehicle or who the court believes owns or has an interest in the motor vehicle.
+(2) The court by or before which the offender is convicted must order that a written caution be issued and served on every person (other than the offender) who is registered in respect of the motor vehicle or who the court believes owns or has an interest in the motor vehicle.
 (3) Despite subsection (2), a written caution must not be served—
   (a) on anyone if the court is satisfied that the motor vehicle—
     (i) was stolen or converted at the material time; or
     (ii) was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998:
   (b) on a person who the court is satisfied—
     (i) did not own or have an interest in the motor vehicle at the material time; or
-    (ii) is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender.
+    (ii) is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender.
 (4) On any one occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
 (5) A written caution must provide the following information:
   (a) the name and identifying details of the offender:
@@ -2376,19 +2409,21 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (6) The written caution remains current for 4 years after the date of the commission of the offence for which that written caution is served.
 (7) A written caution ordered to be served on a person must be served on the person in one of the following ways:
   (a) by being delivered to the person personally or by being brought to the person's notice if the person refuses to accept it:
-  (b) by being left for the person at the person's place of residence with another person (other than the offender) who appears to be of or over the age of 14 years.
+  (b) by being left for the person at the person's place of residence with another person (other than the offender) who appears to be of or over the age of 14 years:
+  (c) by being left for the person at the person's place of business with another person (other than the offender).
 (8) A written caution may be served by one of the following persons:
-  (a) a Police employee:
+  (aa) a constable:
+  (a) a Police employee authorised by the Commissioner of Police to serve documents under this Act:
   (b) an officer of the court:
   (c) any person who is authorised to serve the written caution under a general or particular authority given by a District Court Judge or Registrar:
   (d) any officer or employee of a corporation that is authorised by the Secretary for Justice to serve the written caution.
-(9) An endorsement on a copy of a written caution stating the fact, the date, and the time of service and purporting to be signed by a person of a kind described in subsection (8) is, in the absence of evidence to the contrary, sufficient proof of service of the written caution in accordance with this section.
+(9) An endorsement on a copy of a written caution stating the fact, date, time, and mode of service and purporting to be signed by a person of a kind described in subsection (8) is, in the absence of evidence to the contrary, sufficient proof of service of the written caution in accordance with this section.
 
 ### 129C Review of written caution
 (1) A person served with a written caution may, within 20 working days after the date of service, apply to the court that ordered the service of the written caution for a review of the decision to serve the applicant on 1 or more of the following grounds:
   (a) the motor vehicle was stolen or converted at the material time:
   (b) the applicant did not own or have an interest in the motor vehicle at the material time:
-  (c) the applicant is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender:
+  (c) the applicant is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender:
   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
 (2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
 (3) The Registrar must promptly forward a copy of the application to the prosecuting agency in the proceeding that resulted in the relevant conviction.
@@ -2406,21 +2441,34 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 
 ### 129E Appeal against confiscation by persons treated as substitutes
 (1) If the court orders, under section 128 or 129A, the confiscation of a motor vehicle on the basis that the person who owns it, or has an interest in it, is a substitute for the offender, that person may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on 1 or more of the following grounds:
-  (a) the appellant did not own or have an interest in the motor vehicle at the material time:
-  (b) the motor vehicle was stolen or converted at the material time:
-  (c) the appellant did not know, and could not reasonably have known, that the offender would commit the offence or offences:
-  (d) the appellant took all reasonable steps to prevent the offender from committing the offence or offences:
-  (e) the appellant had not, prior to the commission of the offence or offences, been served with a written caution under section 129B in relation to the offender:
-  (f) the appellant is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender:
-  (g) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
+  (a) the motor vehicle was stolen or converted at the material time:
+  (b) the appellant did not own or have an interest in the motor vehicle at the material time:
+  (c) the appellant is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender:
+  (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998:
+  (e) the appellant took all reasonable steps to prevent the offender from committing the offence or offences:
+  (f) the appellant had not, before the commission of the offence or offences, been served with a written caution under section 129B in relation to the offender:
+  (g) the appellant did not know, and could not reasonably have known, that the offender would commit the offence or offences:
+  (h) confiscation of the motor vehicle is causing, or will cause, undue hardship to the appellant or any other person (other than the offender).
 (2) The appellant must serve the notice of appeal on—
   (a) the prosecuting agency in the proceeding that resulted in the relevant conviction; and
-  (b) any other person treated as a substitute who owns or has an interest in the motor vehicle.
+  (b) any other person treated as a substitute or who owns or has an interest in the motor vehicle.
 (3) The persons described in subsection (2) are parties to the appeal.
 (4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
 (5) The court must set aside the confiscation of the motor vehicle if satisfied that—
-  (a) a ground stated in subsection (1)(b) or (g) applies; or
+  (a) a ground stated in subsection (1)(a), (d), or (h) applies; or
   (b) another ground stated in that subsection applies to the appellant and to every other person who is treated as a substitute for the offender.
+(6) For the purposes of subsection (1),—
+  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules:
+  (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
+
+### 129EA Appeal against confiscation by third party
+(1) If the court orders the confiscation of a motor vehicle under section 128, 129, or 129A, a person (other than the offender or, as the case may be, the substitute for the offender) may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on the ground that the confiscation is causing, or will cause, undue hardship to the appellant or any other person (other than the offender or, as the case may be, the substitute for the offender).
+(2) The appellant must serve the notice of appeal on—
+  (a) the prosecuting agency in the proceeding that resulted in the relevant conviction; and
+  (b) any person (other than the offender or, as the case may be, the substitute for the offender) who owns or has an interest in the vehicle.
+(3) The persons described in subsection (2) are parties to the appeal.
+(4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
+(5) The court must set aside the confiscation of the motor vehicle if satisfied that the ground of appeal stated in subsection (1) applies.
 (6) For the purposes of subsection (1),—
   (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules:
   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
@@ -2434,14 +2482,14 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (2) The Registrar must—
   (a) check whether a financing statement has been registered in respect of the motor vehicle on the personal property securities register kept under the Personal Property Securities Act 1999; and
   (b) issue a warning notice stating that any motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has an interest is liable to be confiscated and destroyed if the offender commits another offence against section 36A(1)(a) or (c) of the Land Transport Act 1998 before the expiry of 4 years from the commission of the previous offence; and
-  (c) send the warning notice, by ordinary post, facsimile, email, or other electronic means to every person (other than the offender or the substitute) who the Registrar believes is a party to an encumbrance relating to the motor vehicle.
+  (c) send the warning notice, by ordinary post, facsimile, email, or other electronic means to every person (other than the offender or the substitute) who the Registrar believes is a party to a security agreement or lease relating to the motor vehicle.
 (3) The jurisdiction of a court to make a confiscation and destruction order under section 129A or 136(4) or the validity of any order made under those sections is not affected by a failure to comply with subsection (2).
 
 ### 130 Court may order declaration of ownership to be completed
 (1) If a court is considering whether to order the confiscation of a motor vehicle under section 128, 129, or 129A, the court may order that the offender complete a declaration of ownership before ordering the confiscation.
 (2) The declaration of ownership must specify—
   (a) whether the offender owns, or has any interest in, the motor vehicle at the date of conviction; and
-  (b) whether any other person owns, or has any interest (including any encumbrance) in, the motor vehicle at the date of conviction and, if so, the name of that person and the nature of that interest; and
+  (b) whether any other person owns, or has any interest (including any security interest or lease) in, the motor vehicle at the date of conviction and, if so, the name of that person and the nature of that interest; and
   (c) whether the offender has ceased to be the owner of, or to have any interest in, the motor vehicle at any time subsequent to the commission of the offence but before the date of his or her conviction; and
   (d) if the offender has disposed of his or her interest in the motor vehicle during the period referred to in paragraph (c), to whom the ownership or interest in the motor vehicle was disposed, the relationship of that person to the offender, and the consideration received by the offender.
 (3) For the purposes of having a declaration of ownership completed by the offender, the court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to complete the declaration of ownership.
@@ -2473,9 +2521,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (2) If the offender or the substitute for the offender fails to surrender the motor vehicle in accordance with the order, the court must issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to confiscate the motor vehicle.
 (3) For the purpose of executing a warrant of confiscation issued under this section, the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if that officer has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
 (4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
-(5) Despite any enactment, rule of law, or agreement to the contrary, the property in the motor vehicle passes absolutely to the Crown free of all encumbrances when—
-  (a) an offender or a substitute for an offender surrenders a motor vehicle in accordance with an order; or
-  (b) the Registrar or a bailiff or constable pursuant to a warrant issued under this section seizes the motor vehicle described in the warrant.
+(5)
 (6) If a motor vehicle is surrendered to or seized by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
 
 ### 132A Offence to sell or dispose of motor vehicle subject to confiscation order
@@ -2494,7 +2540,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (3) Despite subsections (1) and (2), a person aggrieved by a defect or irregularity referred to in those subsections may recover satisfaction for the special damage by action at law.
 
 ### 135 Registrar may direct order to be enforced in another District Court
-(1) Despite anything in section 132, if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may, by order signed by the Registrar, so direct.
+(1) Despite anything in section 132, if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may so direct.
 (2) If the Registrar makes a direction under subsection (1), sections 132 to 134 and sections 137 to 141 apply accordingly.
 
 ### 136 Offender must not acquire new interest in motor vehicle for 12 months
@@ -2504,29 +2550,40 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
 (3) A person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
 (4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated and, where this section applies because of an order under section 129A, may also order that the motor vehicle be destroyed.
-(5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), sections 130, 131 to 135, this section, and sections 136A to 142 apply accordingly.
+(5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), sections 129EA, 130, 131 to 135, this section, and sections 136A to 142 apply accordingly.
 
-### 136A Registrar must seek deregistration of motor vehicle subject to confiscation and destruction order
-If, under section 129A or 136(4), the court orders a motor vehicle to be confiscated and destroyed, a Registrar must, before the motor vehicle is sold, seek to have the registration of the motor vehicle cancelled by taking, so far as practicable, any steps required to be taken, under the Land Transport Act 1998, for that purpose by the owner of, or the person who is registered in respect of, the motor vehicle.
+### 136A Registrar must apply for deregistration of motor vehicle subject to confiscation and destruction order
+If, under section 129A or 136(4), the court orders a motor vehicle to be confiscated and destroyed, the Registrar—
+  (a) is, for the purposes of the Land Transport Act 1998 and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
+  (b) must make that application before the motor vehicle is sold or disposed of.
 
 ### 137 Sale of confiscated motor vehicles
 (1) Subject to section 138, as soon as practicable after a motor vehicle is delivered into a Registrar's custody under section 132, the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the Registrar, subject to any direction by the court, thinks fit.
-(2) The Registrar, or any officer of the Ministry of Justice authorised in writing by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the Auctioneers Act 1928 or the Motor Vehicle Dealers Act 1975.
+(2) The Registrar, or any officer of the Ministry of Justice authorised by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the Auctioneers Act 1928 or the Motor Vehicle Dealers Act 1975.
 (3) Subject to subsection (4), the proceeds of the sale must be applied in the following manner and order of priority:
   (a) if the motor vehicle has been impounded under the Land Transport Act 1998, in paying any impoundment costs:
   (b) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale):
-  (c) in satisfaction of any amount owed under any encumbrance brought to the notice of the Registrar within 1 month after the date of sale and established to the Registrar's satisfaction:
+  (c) if 1 or more security agreements have been brought to the notice of the Registrar before the proceeds of sale are fully applied, and have been established to the Registrar's satisfaction, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement:
   (d) in payment of any sentence or order of reparation payable by the offender:
-  (e) in payment of any levy payable by the offender under this Act:
+  (e) in payment of any levy payable by the offender under section 105B of this Act:
   (f) in payment of any fine or court costs payable by the offender:
+  (fa) in payment of any fees and accident insurance levies prescribed under section 242(2)(b) of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
+  (fb) in payment of any road user charges under the Road User Charges Act 2012 that are outstanding in respect of the vehicle:
   (g) to the offender or, as the case requires, the substitute for the offender.
-(4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the offender or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (3), except that the payment described in paragraphs (d) and (f) of that subsection are limited to sums imposed in respect of offences committed by the offender in a motor vehicle that, at the material time, was owned by the substitute or in which the substitute had an interest.
+(3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
+(4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the offender or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (3), except that the payment described in paragraphs (d) to (f) of that subsection are limited to sums imposed in respect of offences committed by the offender in a motor vehicle that, at the material time, was owned by the substitute or in which the substitute had an interest.
+(5) A motor vehicle may be sold under this section even though it fails to comply in any respect with section 242 of the Land Transport Act 1998, and the purchaser of that motor vehicle—
+  (a) is, despite that Act or any other enactment, entitled to tow the motor vehicle to any appropriate place; and
+  (b) in so towing the vehicle, is under no criminal or civil liability merely because of the failure of the vehicle to comply with that section; and
+  (c) must comply in all respects with that Act as soon as the motor vehicle has been towed to that place.
+(6) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold under this section, apply, under the Land Transport Act 1998, to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
+(7) The person to whom a motor vehicle is sold under this section obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
 
 ### 137A Certain sales conditional on dismantling and destruction
 (1) This section applies if any motor vehicle sold under section 137 is subject to a confiscation and destruction order under section 129A or 136(4).
 (2) The sale of the motor vehicle is subject to a condition that the purchaser dismantle the motor vehicle for any saleable parts and destroy the remainder of the motor vehicle, to the satisfaction of the Registrar.
 (3) The condition imposed by subsection (2) must be fulfilled within 30 working days after the date of the sale, or within any longer period that the Registrar specifies in writing.
-(4) The property in the motor vehicle does not pass from the Crown to the purchaser until the condition imposed by subsection (2) has been fulfilled.
+(4) Despite section 137(7), the property in the motor vehicle does not pass to the purchaser until the condition imposed by subsection (2) has been fulfilled.
 
 ### 137B Failure to comply with condition to dismantle and destroy
 (1) Where the sale of a motor vehicle is subject to a condition imposed by section 137A(2) and that condition is not fulfilled within the appropriate time, the Registrar may require any person in possession of the motor vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
@@ -2537,14 +2594,18 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
 (6) Sections 133 and 134 apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
 
 ### 137C Sale of motor vehicle surrendered or recovered under section 137B
-(1) As soon as practicable after a motor vehicle is delivered into a Registrar’s custody under section 137B, the Registrar must arrange for the sale of the motor vehicle, and sections 137(1) and (2), 137A, and 137B apply to that sale with any necessary modifications.
+(1) As soon as practicable after a motor vehicle is delivered into a Registrar’s custody under section 137B, the Registrar must arrange for the sale of the motor vehicle, and sections 137(1), (2), (5), and (7), 137A, and 137B apply to that sale with any necessary modifications.
 (2) The proceeds of the sale must be applied in the following manner and order of priority:
   (a) in payment of the costs of the sale (including all costs incurred in recovering the motor vehicle, and towing and storing the vehicle):
   (b) in payment of the purchase price to the purchaser to whom the motor vehicle was sold under section 137:
   (c) in payment of any unsatisfied amounts described in section 137(3) in accordance with that section and with all necessary modifications.
 
 ### 138 Disposal of unsaleable confiscated vehicle
-If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under section 132 or 137B is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+(1) If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under section 132 or 137B is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+(2) If the Registrar proposes to dispose of a motor vehicle under subsection (1), the Registrar—
+  (a) is, for the purposes of the Land Transport Act 1998 and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
+  (b) must make that application before the disposal of the motor vehicle.
+(3) The person to whom a motor vehicle is disposed of under this section obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that disposition.
 
 ### 138A Offender liable for outstanding costs of seizure, storage, and sale
 (1) If the amount realised from the sale of a motor vehicle under section 137 or its disposal under section 138 is less than the costs described in subsection (2), the offender is liable for the shortfall between that amount and those costs.
@@ -2555,39 +2616,68 @@ If the Registrar has reasonable grounds to believe that a motor vehicle that is 
 (4) Part 3 (except section 84) of the Summary Proceedings Act 1957 (or, if applicable, section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
 (5) A certificate issued by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified.
 
-### 139 Procedure if notice given that vehicle subject to encumbrance
-(1) If notice is given to the Registrar within 1 month after the date of sale under section 137 that the confiscated motor vehicle is subject to any encumbrance and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
+### 139 Procedure if notice given that vehicle subject to security agreement
+(1) If notice is given to the Registrar before the proceeds of sale are fully applied under section 137 that the confiscated motor vehicle is subject to a security agreement and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
 (2) The following provisions apply to every summons issued under subsection (1) so far as they are applicable and with the necessary modifications:
   (a) the provisions of the High Court Rules relating to interpleader by an officer executing a writ or other order; or
   (b) as the case may require, section 94 of the District Courts Act 1947.
 
-### 140 Lessor under leasing agreement may apply to Registrar
-(1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a leasing agreement of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under section 129A or 136(4)) may apply to the Registrar, at any time before the Registrar has sold the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the agreement.
+### 140 Lessor may apply to Registrar
+(1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a lease of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under section 129A or 136(4)) may apply to the Registrar, at any time before the Registrar has sold or disposed of the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the lease.
 (2) If subsection (1) applies, the Registrar may transfer the motor vehicle to the lessor accordingly.
+(2A) On the transfer of the motor vehicle under subsection (2) to the lessor, the lease is cancelled.
 (3) This section is subject to section 141A.
 
+### 140A What happens if lessor does not apply to Registrar before motor vehicle sold or disposed of
+(1) This section applies if—
+  (a) section 140 applies; but
+  (b) the lessor does not apply to the court for the transfer of the motor vehicle under section 140(1) before it is sold or disposed of; and
+  (c) the vehicle is sold; and
+  (d) the proceeds of the sale have not been fully applied.
+(2) The lessor may apply to the court for the release of the proceeds of the sale of the motor vehicle that have not been applied.
+(3) On an application under subsection (2), the Registrar or a District Court Judge may release the proceeds of the sale of the motor vehicle in accordance with subsections (4) and (5).
+(4) The proceeds of the sale of the motor vehicle must be applied in accordance with section 137 as if the lease were a security agreement as defined in section 127(1) and the lessor were a secured party as defined in that subsection.
+(5) However, despite subsection (4), section 137 applies subject to the following modifications:
+  (a) the proceeds of the sale of the motor vehicle must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled to under the lease; and
+  (b) the proceeds of the sale of the motor vehicle must be applied in the manner and order of priority set out in section 137, except that,—
+    (i) in the case of a lease for a term of less than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 137(3)(a) and (b), but before they are applied for the remainder of the payments described in section 137(3)(c) to (g); and
+    (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 137(3)(c), and section 137(3)(c) and (3A) applied.
+(6) On the release of the proceeds of the sale of the motor vehicle to the lessor, the lease is cancelled.
+
 ### 141 Secured party may apply to court
-(1) Any party (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) to any encumbrance (other than a leasing agreement) over a confiscated motor vehicle may apply to the court, at any time before the Registrar has sold the motor vehicle, for an order under subsection (3).
+(1) Any party (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) to a security agreement over a confiscated motor vehicle may apply to the court, at any time before the Registrar has sold or disposed of the motor vehicle, for an order under subsection (3).
 (2) Subsection (1) does not apply to a motor vehicle that is to be destroyed under section 129A or 136(4).
 (3) The court may, if it thinks fit, make an order—
   (a) directing the Registrar to transfer the motor vehicle to that other party; and
   (b) directing that party to sell the motor vehicle and account for the proceeds of sale in accordance with section 141B.
-(4) This section is subject to section 141A.
+(3A) If 2 or more secured parties have applied for an order under subsection (3), then the court must transfer the motor vehicle to the secured party with the highest-ranking security interest under the order of priority determined by Part 7 or 8 of the Personal Property Securities Act 1999.
+(4) Subsection (3) is subject to section 141A.
+(5) The person to whom a motor vehicle is sold under a direction given under subsection (3)(b) obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
 
 ### 141A Certain payments required before transfers take effect
 (1) An order for the transfer of a motor vehicle under section 140 or 141 does not take effect unless the following costs have been paid into court:
   (a) if the motor vehicle has been impounded under the Land Transport Act 1998, any impoundment costs:
   (b) any costs incurred in seizing, towing, and storing the motor vehicle.
 (2) Any costs required to be paid by subsection (1) must be paid within 10 working days after the day on which the lessor or the secured party is notified of the decision to transfer the vehicle, or within any longer period specified by the Registrar in writing.
-(3) If the costs specified in subsection (1) are not paid within the time required by or under subsection (2), the Registrar may proceed with the sale of the vehicle under section 137.
+(3) If the costs specified in subsection (1) are not paid within the time required by or under subsection (2), the Registrar may proceed with the sale of the vehicle under section 137 or its disposal under section 138.
 
 ### 141B Application of proceeds of sale by secured party
 (1) Every person to whom a motor vehicle is transferred under section 141 must, on disposing of the motor vehicle,—
   (a) account to the Registrar for the proceeds of the sale:
-  (b) pay into court the proceeds of the sale, less any costs paid under section 141A, and—
-    (i) if the encumbrance is a hire purchase agreement and the motor vehicle is used or was acquired for use primarily for personal, domestic, or household purposes, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount required to settle the agreement under section 31 of that Act; or
-    (ii) in any other case, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount owed by the offender under the encumbrance.
-(2) The Registrar must then apply the balance remaining in accordance with section 137(3)(d) to (g) with all necessary modifications.
+  (b) pay into court the proceeds of the sale, less—
+    (i) any costs paid under section 141A; and
+    (ii) the amount of the costs and expenses of, and incidental to, the sale.
+(2) The Registrar must then apply the balance remaining in accordance with section 137(3)(c) to (g) and (3A) with all necessary modifications.
+
+### 141C Failure by secured party to sell or account for proceeds
+(1) If the court has directed a secured party under section 141(3)(b) to sell a motor vehicle and the secured party fails to do so within a reasonable time, the Registrar may require any person in possession of the vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
+(2) If the person in possession of the motor vehicle fails to surrender the motor vehicle at the time and place specified by the Registrar, the court may issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to recover the motor vehicle.
+(3) For the purpose of executing a warrant issued under subsection (2), the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if the Registrar, bailiff, or constable has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
+(4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
+(5) If a motor vehicle is surrendered to or recovered by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar.
+(6) Sections 133 and 134 apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
+(7) As soon as practicable after the motor vehicle is delivered into the Registrar's custody under subsection (5), the Registrar must arrange for its sale under section 137 or its disposal under section 138.
+(8) A secured party who fails, in whole or in part, to pay into court the money required under section 141B(1)(b) is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
 
 ### 142 Order may be cancelled on application by bona fide purchaser
 (1) On application to it by any person, the court must cancel a confiscation order (including a confiscation and destruction order under section 129A or 136(4)) made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
