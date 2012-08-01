@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2011-05-10_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -158,7 +158,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 
 ### 6 Meaning of land transport revenue
 In this Act, unless the context otherwise requires, land transport revenue means—
-  (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) calculated in accordance with Schedule 3 of the Road User Charges Act 1977, any additional charges under section 21A of that Act, and any assessments under section 18C or 18D of that Act:
+  (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) calculated in accordance with regulations made under section 85 of the Road User Charges Act 2012 and any assessments for unpaid road user charges under Part 3 of that Act:
   (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996 (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the Goods and Services Tax Act 1985):
   (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
   (d) the amount of interest, calculated according to a formula determined by the Minister and the Minister of Finance, earned from the investment of cash held by the Crown from the revenues referred to in paragraphs (a) to (c):
