@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-08-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1553,7 +1553,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | New Zealand Transport Agency records |  |  |
 | --- | --- | --- |
 | Subject | Description | Access available to |
-| Driver licence register (except photographic images on driver licences) | A national register of all driver licences | Department of CorrectionsMinistry of JusticePoliceLocal authorities authorised under section 112Serious Fraud OfficeMinistry of Transport (access is limited to obtaining information for the purpose of verifying the identity of people who are or apply to be—abholders of licences issued under the Road User Charges Act 1977Registrar of Motor Vehicles (access is limited to obtaining information for the purposes of—averifying the identity of people who are or apply to be registered in respect of motor vehicles on the register of motor vehicles; orbcorrecting or updating information held on the register of motor vehicles about such people) |
+| Driver licence register (except photographic images on driver licences) | A national register of all driver licences | Department of CorrectionsMinistry of JusticePoliceLocal authorities authorised under section 112Serious Fraud OfficeMinistry of Transport (access is limited to obtaining information for the purpose of verifying the identity of people who are or apply to be—abholders of licences issued under the Road User Charges Act 2012Registrar of Motor Vehicles (access is limited to obtaining information for the purposes of—averifying the identity of people who are or apply to be registered in respect of motor vehicles on the register of motor vehicles; orbcorrecting or updating information held on the register of motor vehicles about such people) |
 | Transport services licensing register | A national register of all transport service licences | Police |
 | Demerit points | The recording of demerit points in relation to traffic offences | Police |
 | Rail licensing register | A national register of all licences under the Railways Act 2005 | Police |
