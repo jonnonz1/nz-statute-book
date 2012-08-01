@@ -1,5 +1,5 @@
 # Sentencing Amendment Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Sentencing Amendment Act 2011.
@@ -191,7 +191,7 @@ Section 136A is repealed and the following section substituted:Registrar must ap
 (3) Section 137(3)(e) is amended by inserting section 105B of after under.
 (4) Section 137(3) is amended by inserting the following paragraphs after paragraph (f):.
   (fa) in payment of any fees and accident insurance levies prescribed under section 242(2)(b) of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
-  (fb) in payment of any road user charges under section 9 of the Road User Charges Act 1977 that are outstanding in respect of the vehicle:
+  (fb) in payment of any road user charges under the Road User Charges Act 2012 that are outstanding in respect of the vehicle:
 (5) Section 137 is amended by inserting the following subsection after subsection (3):
   (3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
 (6) Section 137(4) is amended by omitting paragraphs (d) and (f) and substituting paragraphs (d) to (f).
