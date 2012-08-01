@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2012-06-15_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -1120,3 +1120,57 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
 (4) For the purposes of subclause (3)(c), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
 ## Schedule 3 — Consequential amendments to other enactments
+
+### 1 Title
+These regulations are the Road User Charges (Transitional Matters) Regulations 2012.
+
+### 2 Commencement
+These regulations come into force on 1 August 2012.
+
+### 3 Expiry
+These regulations expire and are deemed to be revoked with the close of 31 July 2013.
+
+### 4 Interpretation
+In these regulations,—
+  - **Act** means the Road User Charges Act 2012
+  - **former Act** means the Road User Charges Act 1977.
+
+### 5 Modifications to section 5(1) of Act
+(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 July 2013.
+(2) During that transitional period, section 5(1) of the Act must be read as if it were modified in the manner set out in the rest of this regulation.
+(3) The definition of exempt vehicle in section 5(1) is modified by inserting after subparagraph (iv) : and the following subparagraph:.
+  (v) an unregistered vehicle operating under trade plates
+(4) Section 5(1) is modified by replacing the definition of permit with:.
+  - **permit** means a permit issued by a road controlling authority under section 5 of Part 1 of the VDAM Rule for a vehicle that exceeds the mass limits prescribed in section 4 of that rule
+(5) Section 5(1) is modified by inserting in their appropriate alphabetical order:.
+  - **road controlling authority** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **trade plate** has the same meaning as in section 233(1) of the Land Transport Act 1998
+
+### 6 Modification to section 96 of Act
+(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 August 2012.
+(2) During that transitional period, section 96 of the Act must be read as if the following subsection were inserted after subsection (2):
+  (2A) On and from the commencement of section 17 of this Act, a supplementary licence issued under section 10 of the former Act and in force immediately before that commencement—
+    (a) continues in force until the close of 31 August 2012; and
+    (b) must be treated as if it were issued under section 17.
+
+### 7 Transitional and savings provision relating to exemption granted in respect of heavy vehicles
+(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 August 2012.
+(2) During that transitional period, the Act must be read as if the following section were inserted after section 97:Transitional and savings provision relating to exemption granted in respect of heavy vehicles
+  Despite the commencement of Part 2 of this Act, an exemption in respect of a heavy motor vehicle granted under section 4(c) of the former Act and that applies immediately before that commencement—
+    (a) continues to apply until the close of 31 August 2012; and
+    (b) the heavy motor vehicle must, during the period for which the exemption continues to apply, be treated as if it were an exempt vehicle within the meaning of that term in section 5(1) of the Act.
+
+### 8 Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
+(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 30 June 2013.
+(2) During that transitional period, the Act must be read as if the following section were inserted after section 97A (as inserted by the modification in regulation 7):Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
+  (1) Despite the commencement of Part 2 of this Act, the exemption in respect of farmers' vehicles used on the road only in connection with agricultural operations granted under section 4(c) of the former Act—
+    (a) continues to apply in respect of light RUC vehicles until the close of 30 June 2013; and
+    (b) light RUC vehicles to which the exemption applies must, during the period for which the exemption continues to apply, be treated as if they were an exempt vehicle within the meaning of that term in section 5(1) of the Act.
+  (2) In subsection (1),—
+    - **agricultural operation** has the same meaning as in regulation 3(1) of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004
+    - **farmers' vehicles used on the road only in connection with agricultural operations** means vehicles of the kind described in item 2 of the Schedule of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004.
+
+### 9 Transitional and savings provision relating to exemption granted in respect of hubodometers
+(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 30 June 2013.
+(2) During the transitional period, the Act must be read as if the following section were inserted after section 97B (as inserted by the modification in regulation 8):Transitional and savings provision relating to exemption granted in respect of hubodometers
+  Despite the commencement of section 8 of the Act, a notice given by the Secretary under regulation 6(6)(a) of the Road User Charges Regulations 1978 that a RUC vehicle need not be fitted with a hubodometer continues in force until the close of 30 June 2013.
