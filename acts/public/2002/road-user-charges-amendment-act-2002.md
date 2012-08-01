@@ -1,5 +1,5 @@
 # Road User Charges Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 (1) This Act is the Road User Charges Amendment Act 2002.
