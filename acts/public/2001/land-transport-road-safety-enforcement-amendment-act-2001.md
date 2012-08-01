@@ -1,5 +1,5 @@
 # Land Transport (Road Safety Enforcement) Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 (1) This Act is the Land Transport (Road Safety Enforcement) Amendment Act 2001.
@@ -14,7 +14,7 @@ _Consolidation as at 2007-09-03_
 ### 3 Purpose
 The purpose of this Act is to improve road safety enforcement by—
   (a) removing the defence of error or possible error in the result of an evidential breath test and ensuring that an evidential breath test is conclusive, but subject to safeguards to protect the rights of defendants:
-  (b) enabling certificates of accuracy for distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks to be admitted as evidence in proceedings for speeding offences against any bylaws or enactment, other offences against the principal Act, and offences against the Road User Charges Act 1977:
+  (b) enabling certificates of accuracy for distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks to be admitted as evidence in proceedings for speeding offences against any bylaws or enactment, other offences against the principal Act, and offences against the Road User Charges Act 2012 (or any regulations made under that Act):
   (c) enabling certificates of accuracy of weighing devices to be admitted as evidence in proceedings for any road user charge offence as well as for offences against the principal Act:
   (d) confirming that fines of up to $1,000 may be prescribed for offences relating to temporary speed limits on roads controlled by road controlling authorities and for other offences under the Traffic Regulations 1976.
 
