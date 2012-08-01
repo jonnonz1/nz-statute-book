@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -743,7 +743,10 @@ If an appeal by any person against the making of an instrument forfeiture order 
 (1) If a court makes an assets forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the specified period (as described in subsection (2)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
-  (c) thirdly, by paying any outstanding fines and sentences of reparation imposed on the former interest holder:
+  (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
+    (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
+    (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
+    (iii) any other type of fine (as defined in section 79 of the Summary Proceedings Act 1957):
   (d) fourthly, by paying any remaining money to the Crown.
 (2) The specified period expires—
   (a) on the date that is 6 months after the time for bringing any appeal against the assets forfeiture order expires, if no appeal has been filed; or
@@ -758,7 +761,10 @@ If an appeal by any person against the making of an instrument forfeiture order 
 (1) If the High Court makes a profit forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the specified period (as described in subsection (2)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
-  (c) thirdly, by paying any outstanding fines and sentences of reparation imposed on the former interest holder:
+  (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
+    (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
+    (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
+    (iii) any other type of fine (as defined in section 79 of the Summary Proceedings Act 1957):
   (d) fourthly, by paying to the Crown the following amount, less the sum of the payments made under paragraphs (a) to (c),—
     (i) if the sum resulting from realising the property is equal to, or more than, the maximum recoverable amount specified by the Court under section 55, the maximum recoverable amount:
     (ii) if the sum resulting from realising the property is less than the maximum recoverable amount, the sum resulting from realising the property:
@@ -786,7 +792,10 @@ If an appeal by any person against the making of an instrument forfeiture order 
 If a court makes an instrument forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the relevant appeal period (defined in section 73(3)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
-  (c) thirdly, by paying any outstanding fines and sentences of reparation imposed on the former interest holder:
+  (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following outstanding amounts imposed on the former interest holder:
+    (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
+    (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
+    (iii) any other type of fine (as defined in section 79 of the Summary Proceedings Act 1957):
   (d) fourthly, by paying any remaining money to the Crown.
 
 **Discharge of foreign forfeiture order registered in New Zealand by Official Assignee**
