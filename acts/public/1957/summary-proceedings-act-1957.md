@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2012-04-18_
+_Consolidation as at 2012-08-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -368,14 +368,14 @@ Every information shall contain such particulars as will fairly inform the defen
   (b) on the expiration of 28 days from the date of service of that notice,—
     (i) the infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
     (ii) the informant has not received at that address a notice requesting a hearing in respect of the offence.
-(3A) If—the informant may, but is not required to, enter into an arrangement allowing the defendant to pay the infringement fee to the informant by instalments.
+(3A) If—the informant may, but is not required to, enter into an arrangement allowing the infringement fee to be paid to the informant by instalments.
   (a) the informant has not provided particulars of a reminder notice under subsection (3), in accordance with subsections (4) and (4A); and
-  (b) the informant has instituted the necessary management and accounting systems to allow the defendant to pay the infringement fee to the informant by instalments—
+  (b) the informant has instituted the necessary management and accounting systems to allow the infringement fee to be paid to the informant by instalments—
 (3B) An arrangement under subsection (3A) must—
   (a) be entered into before the close of the date that is 6 months from the time when the infringement offence is alleged to have been committed; and
   (b) be completed before the close of the date that is 12 months from the time when the infringement offence is alleged to have been committed.
 (3C) If the informant has entered into an arrangement under subsection (3A), and default is made in the payment of any instalment, the informant may,—
-  (a) despite subsection (3B)(a), enter into another arrangement under subsection (3A) allowing the defendant to pay the infringement fee to the informant by instalments; or
+  (a) despite subsection (3B)(a), enter into another arrangement under subsection (3A) allowing the infringement fee to be paid to the informant by instalments; or
   (b) serve on the defendant or 1 of the defendants served with the infringement notice, or a copy of the infringement notice, a reminder notice in the prescribed form containing the same or substantially the same particulars as the infringement notice.
 (3D) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
   (a) a reminder notice has been served under subsection (3C)(b); and
@@ -389,8 +389,12 @@ Every information shall contain such particulars as will fairly inform the defen
   (b) once provided, must, for the purposes of any enactment or rule of law, be treated as information held in a Court in relation to its judicial functions.
 (4B) Particulars of a reminder notice provided under subsection (3) or subsection (3D), and in accordance with subsection (4A), must be verified by the Ministry of Justice to ensure they contain the particulars described in subsection (4)(a) and (b), in accordance with a procedure approved by the chief executive of the Ministry of Justice.
 (4C) When particulars of a reminder notice provided under subsection (3) or subsection (3D) are verified under subsection (4B) as containing the particulars described in subsection (4)(a) and (b), the reminder notice is deemed to have been filed in the Court appointed for the exercise of the criminal jurisdiction which is the nearest by the most practicable route to the place where the offence was alleged to have been committed.
-(5) If, following the verification under subsection (4B) of particulars of a reminder notice provided under subsection (3), a reminder notice is deemed to have been filed in a Court within 6 months from the time when the offence is alleged to have been committed, an order is deemed to have been made in that Court (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee for the offence together with costs of the prescribed amount.
-(5A) If, following the verification under subsection (4B) of particulars of a reminder notice provided under subsection (3D), a reminder notice is deemed to have been filed in a Court within 12 months from the time when the infringement offence is alleged to have been committed, an order is deemed to have been made in that Court (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee then remaining unpaid for the offence together with costs of the prescribed amount.
+(5) If,—then the court in which the reminder notice is deemed, by subsection (4C), to have been filed is also deemed to have made an order (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee then remaining unpaid for the offence together with costs of the prescribed amount.
+  (a) under subsection (3), particulars of a reminder notice are provided before the close of the date that is 6 months after the date on which the infringement offence is alleged to have been committed; and
+  (b) those particulars are verified under subsection (4B),—
+(5A) If,—then the court in which the reminder notice is deemed, by subsection (4C), to have been filed is also deemed to have made an order (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee then remaining unpaid for the offence together with costs of the prescribed amount.
+  (a) under subsection (3D), particulars of a reminder notice are provided before the close of the date that is 12 months after the date on which the infringement offence is alleged to have been committed; and
+  (b) those particulars are verified under subsection (4B),—
 (5AB) An order under subsection (5) or subsection (5A) is deemed to have been made on the date that the relevant reminder notice is deemed to have been filed under subsection (4C).
 (5B) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), no defendant may give notice requesting a hearing in respect of the infringement offence to which the arrangement applies.
 (6) A notice requesting a hearing in respect of an infringement offence must—
@@ -453,7 +457,8 @@ Sections 24 to 29 do not apply to any summons or other document required to be s
   (a) by being delivered to him personally or by being brought to his notice if he refuses to accept it; or
   (b) by being left for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years; or
   (c) by being sent to him by registered letter addressed to him at his last known or usual place of residence or at his place of business; or
-  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998.
+  (d) in the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12), by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business; or
+  (e) in the case of a notice relating to an infringement offence required to be served on a defendant who does not have a known place of residence in New Zealand but has a known electronic address, by being sent to the defendant at that address in electronic form:
   provided that a District Court Judge or Justice or Community Magistrate or the Registrar may if he thinks fit direct that the summons or other document shall be served in accordance with the provisions of paragraph (a).
 (1A) Despite subsection (1), if a summons or other document required to be served on a defendant is to be served on a defendant who is a Crown organisation, it may be served—
   (a) by delivering it personally to an employee of the organisation at its head office or principal place of business; or
@@ -745,7 +750,7 @@ Where at the hearing of any charge both the informant and the defendant appear, 
   (b) an order of the Court under paragraph (a) is to be treated subsequently as an election by the defendant to be tried by the Court or, as the case requires, a jury.
 (5B) Subsection (5A) is subject to subsection (7).
 (6) A defendant who has elected under this section to be tried by a jury may, by leave of the Court at any time before he is committed for trial or for sentence, withdraw his election, and thereupon the Court may, notwithstanding anything in section 160, 161, 184I, 184J, or 184M, deal summarily with the case in all respects as if no such election had been made, and the foregoing provisions of this section shall no longer apply:
-  Provided that where the Court is presided over by 2 or more Justices or 1 or more Community Magistrates or a Registrar and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
+  provided that where the Court is presided over by 2 or more Justices or 1 or more Community Magistrates or a Registrar and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
 (6A) Where a defendant who has elected under this section to be tried by a jury has pleaded guilty under sections 184I and 184J and he is not represented by a barrister or solicitor, the Court, unless it considers that leave should not be granted to the defendant to withdraw his election, shall draw to his attention the provisions of subsection (6).
 (7) Any barrister or solicitor who appears for the defendant may (whether or not the defendant is personally present) inform the Court on his behalf that the defendant does not elect to be tried by a jury, or may (where the defendant is personally present) inform the Court on his behalf that the defendant does elect to be so tried, and thereupon the Court may proceed as if the defendant had personally made the election:
   provided that, if it thinks fit, the Court may, if the defendant is not personally present and his counsel or solicitor informs the Court that the defendant does not elect to be tried by a jury, adjourn the hearing to such time and on such conditions as the Court thinks fit to enable the defendant to be present or issue a warrant, in the prescribed form, to arrest him and bring him before the Court.
@@ -772,7 +777,7 @@ Where at the hearing of any charge both the informant and the defendant appear, 
 (5) Where the defendant refrains from giving evidence, or from calling his wife or her husband, as the case may be, as a witness, no comment adverse to the defendant shall be made thereon by the informant.
 (6) The parties may examine, cross-examine, and re-examine witnesses.
 (7) Unless the Court otherwise directs, neither party may sum up his case or address the Court upon the evidence given by either party:
-  Provided that the defendant, whether or not he calls evidence, may address the Court at the end of the informant's case.
+  provided that the defendant, whether or not he calls evidence, may address the Court at the end of the informant's case.
 (8) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence in the enactment creating the offence, may be proved by the defendant, but, subject to the provisions of section 17, need not be negatived in the information, and, whether or not it is so negatived, no proof in relation to the matter shall be required on the part of the informant.
 
 ### 67A Identification evidence
@@ -884,9 +889,10 @@ Every party to an offence (not being the person who actually committed it) may b
 
 ### 78B Power to correct irregularities in proceedings for infringement offences
 (1) This section applies if a defendant is deemed to have been ordered, or is ordered, to pay a fine or costs or both under section 21 and—
-  (a) a District Court Judge or Registrar, on the application of the defendant, is satisfied, whether on the basis of a statutory declaration or evidence given before the Judge, that—
+  (a) a District Court Judge or Registrar, on the application of the defendant, is satisfied on the basis of information provided with the application that—
     (i) the defendant is not a person to whom the infringement notice was issued or on whom the notice is deemed to have been served; or
-    (ii) the defendant did not in fact receive the reminder notice, or a copy of the notice of hearing, required to have been served on the defendant under section 21; or
+    (ii) the defendant (not being a defendant who, under section 78C(1) or (3), is ineligible to rely on this ground) did not in fact receive the reminder notice required to have been served on the defendant under section 21; or
+    (iia) the defendant did not in fact receive a copy of the notice of hearing required to have been served on the defendant under section 21; or
     (iii) some other irregularity occurred in the procedures leading up to the order for the fine or costs, or both; or
     (iv) the defendant believed on reasonable grounds that he or she had requested a hearing under section 21, but this request was not acted on by the informant; or
     (v) the defendant reasonably believed that he or she had been advised by the informant that action would not be taken under section 21(3); or
@@ -896,17 +902,52 @@ Every party to an offence (not being the person who actually committed it) may b
       (B) had made the request within a time that would reasonably enable the informant to respond before the earliest time at which the informant would be entitled to take action under section 21(3); and
       (C) believed on reasonable grounds that the informant had not refused to provide the requested information and that action would not be taken under section 21(3) before that information had been provided; and
       (D) was not provided with the information before action was taken under section 21(3); or
+    (viii) the defendant paid the infringement fee to the informant at the address specified in the infringement notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence to which the notice relates; or
   (b) the informant applies to a District Court Judge or Registrar to withdraw the reminder notice filed or deemed to have been filed under section 21.
+(1A) No more than 1 application, made in reliance on the ground stated in subsection (1)(a)(ii), may be granted in respect of the same defendant for the same infringement offence.
+(1B) An application under subsection (1) may be made—
+  (a) in writing in a form approved under section 209A; or
+  (b) electronically in a manner approved by the chief executive of the Ministry of Justice.
+(1C) An application under subsection (1) may be—
+  (a) made to any Court; and
+  (b) considered in another Court besides the one to which it is made.
 (2) The Judge or, subject to subsections (3) and (4), the Registrar may do 1 or more of the following:
   (a) authorise the informant to serve a reminder notice on a person other than the defendant (being a person to whom the infringement notice was issued or on whom it was deemed to have been served):
   (b) authorise the informant to serve on the defendant another copy of the reminder notice or the notice of hearing and, for that purpose, require the defendant to specify an address at which personal service, service by post, or service by either method may be effected:
-  (c) grant a hearing or rehearing of the matter, and proceed with the hearing or rehearing immediately or set it down for a later date:
+  (c) grant a hearing or rehearing of the matter, and proceed with the hearing or rehearing immediately if both parties agree, or set it down for a later date:
   (d) set aside or modify the order:
   (e) make any other order as to costs or otherwise that the Judge or Registrar considers appropriate in the circumstances.
 (3) If a Registrar considering an application under subsection (1)(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)(a) applies, the Registrar must not exercise the power conferred by subsection (2)(a) or (b) except with the consent of the informant.
-(4) A Registrar may not exercise the power conferred by subsection (2)(d).
+(4) A Registrar may not exercise the power conferred by subsection (2)(d) except where the application is made under subsection (1)(a)(viii) or (1)(b).
+(4A) A Judge or Registrar must deal with an application under subsection (1) on the papers unless the Judge or Registrar considers that a hearing is necessary.
+(4B) While an application under subsection (1) is pending,—
+  (a) no warrant, order, or notice may be issued or take effect to enforce the order to which that application relates; and
+  (b) the Registrar must take appropriate steps to ensure that the order is not acted on.
+(4C) Despite subsection (4B), if, before an application under subsection (1) is made, any property has been seized under a warrant to seize property to enforce the order to which that application relates,—
+  (a) any seized property that has not been sold, assigned, applied, released, or otherwise disposed of must be retained under section 100B(3) while the application is pending; or
+  (b) if the seized property has been sold but the proceeds of sale have not been applied in accordance with section 100N or 100R, the proceeds must be retained while the application is pending.
+(4D) If the order to which the application relates continues in effect after the application is determined or is discontinued, the property must be dealt with, and any fees and costs payable under an enactment in respect of the property are payable, as if the application had not been made.
+(4E) If, on the determination of the application, the order is set aside or ceases to have effect in accordance with subsection (5), the owner—
+  (a) is entitled to—
+    (i) the return of the property if the property has been retained in accordance with subsection (4C)(a); or
+    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (4C)(b); and
+  (b) is not liable for any fees and costs payable under an enactment in respect of the property.
+(4F) In any case where a Judge or Registrar gives a direction authorising the service of a reminder notice or a copy of a reminder notice under subsection (2)(a) or (b) (a new reminder notice) in replacement of, or by reference to, a previous reminder notice, then—
+  (a) section 21(3)(b), (3D)(b), and (10)(a), if applicable to the case, apply as if the reference to the date of service of the reminder notice were a reference to the date of the direction by the Judge or Registrar; and
+  (b) section 21(3B), (5)(a), (5A)(a), and (8)(d), if applicable to the case, apply as if the reference to the time when the offence is alleged to have been committed were a reference to the date of the direction by the Judge or Registrar.
+(4G) If, under subsection (2)(b), a Judge or Registrar authorises the informant to serve on the defendant a new reminder notice, the defendant may not give notice requesting a hearing in respect of the infringement offence to which the notice relates if the Registrar is satisfied that the notice was filed following the defendant's default in paying 1 or more instalments under an arrangement entered into under section 21(3A) or (3C)(a).
+(4H) If, under subsection (2)(d), an order is set aside following an application made by the informant under subsection (1)(b), the setting aside is not a bar to any other proceedings in the same matter.
 (5) If a Judge or Registrar exercises a power under subsection (2)(a), (b), or (c), the order made or deemed to have been made against the defendant ceases to have effect and the Registrar must take appropriate steps to ensure that the order is not acted on.
 (6) If a defendant granted a hearing or rehearing under this section does not appear, the Court may, if it thinks fit, without hearing or rehearing the matter, direct that the original order be restored.
+
+### 78C Certain defendants ineligible to rely on non-receipt of reminder notice
+(1) A defendant is not eligible to rely, under section 78B(1)(a)(ii), on the ground that the defendant did not in fact receive a reminder notice if the Registrar is satisfied that the defendant was personally served with the infringement notice to which the reminder notice relates.
+(2) However, even though a defendant has been personally served with an infringement notice relating to an infringement offence, subsection (1) does not apply to the defendant if the defendant—
+  (a) has entered into an arrangement, under section 21(3A) or (3C)(a), in respect of that infringement offence; and
+  (b) following a default in the payment of 1 or more instalments under that arrangement, has been served by ordinary post with a reminder notice in respect of that infringement offence.
+(3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in section 78B(1)(a)(ii) unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by Part 17 of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
+(4) The Registrar must be satisfied of the matters referred to in subsection (3) on the basis of documentary evidence of a kind approved by the Registrar.
+(5) In this section, owner liability offence means an offence referred to in section 41A of the Transport Act 1962 or section 133 of the Land Transport Act 1998.
 
 ## Part 3 — Enforcement of fines
 
@@ -1279,7 +1320,7 @@ The Crown is not liable to any person for any error, omission, or delay in apply
     (iii) the Child Support Act 1991:
     (iv) the Tax Administration Act 1994:
   (c) any amount that is being recovered from the defendant under section 86 of the Social Security Act 1964:
-  (d) the composition of the defendant's family, including the number of family members who are dependent on the defendant.
+  (d) the composition of the defendant's family, including the number of family members who are dependent on the defendant:
   (e) the residential address and all telephone numbers of the defendant:
   (f) the type of any benefit that is paid to the defendant:
   (g) the unique number assigned to the defendant in his or her capacity as a beneficiary.
@@ -1908,7 +1949,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (b) pay into Court the proceeds of the sale, less—
     (i) any amount paid under section 100M; and
     (ii) the amount of the costs and expenses of, and incidental to, the sale.
-(2) The Registrar must then apply the balance remaining in accordance with section 100R(1)(c) to (j) and (2), with all necessary modifications.
+(2) The Registrar must then apply the balance remaining in accordance with section 100R(1)(c) to (j)and (2), with all necessary modifications.
 
 ### 100O Failure by secured party to sell or account for proceeds
 (1) If the secured party fails to comply with a direction under section 100L(1)(a) and has not sold the property,—
@@ -2135,7 +2176,7 @@ If a fine has been ordered to be paid or an order has been made by a Court or th
   (b) a constable or bailiff may execute the warrant.
 
 ### 106F Review of Registrar's decision
-(1) Any defendant or other person affected by any order or decision made by a Registrar under this Part may apply to a District Court Judge for a review of the order or decision.
+(1) Any defendant or other person affected by any order or decision made by a Registrar under section 78B or 78C or under this Part may apply to a District Court Judge for a review of the order or decision.
 (2) On any such review the Judge may confirm, rescind, or vary the Registrar's order or decision and the order or decision shall have effect, or cease to have effect, accordingly.
 (3) If the decision to which the application under subsection (1) relates is a decision to issue a warrant to seize property and that warrant has been executed,—
   (a) any seized property that has not been sold, assigned, applied, released, or otherwise disposed of must be retained under section 100B(3) if an application for review is made under subsection (1) and the review is pending; or
@@ -2198,7 +2239,7 @@ A defendant who appeals by way of case stated against any determination shall no
 
 ### 114B Appeal to High Court on question of law
 (1) Either party to any proceedings to which an appeal under section 114A(1) applies may, with the leave of the District Court, appeal to the High Court against any determination of the District Court on a question of law arising in the appeal to which section 114A(1) applies:
-  Provided that, if the District Court refuses to grant leave to appeal to the High Court, the High Court may grant special leave to appeal.
+  provided that, if the District Court refuses to grant leave to appeal to the High Court, the High Court may grant special leave to appeal.
 (2) A party desiring to appeal to the High Court under this section must, within 21 days after the determination of the District Court, or within such further time as that Court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that Court, and the District Court may grant leave accordingly if, in the opinion of that Court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the High Court for decision.
 (3) Where the District Court refuses leave to any party to appeal to the High Court under this section, that party may, within 21 days after the refusal of the District Court or within such further time as the High Court may allow, apply to the High Court, in such manner as may be directed by the rules of that Court, for special leave to appeal to that Court, and the High Court may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the High Court for decision.
 (4) On any appeal to the High Court under this section, the High Court has the same power to adjudicate on the proceedings as the District Court had.
@@ -2387,8 +2428,8 @@ After the decision of the High Court on any appeal has been given, the Registrar
 (1) Where on any appeal the High Court confirms any conviction, sentence, order, or amount of any sum to be paid, or where the appeal is dismissed for non-prosecution, or where a certificate has been given under section 107 that the appeal has not been prosecuted, the decision of the District Court shall be enforced.
 (2) Where on any appeal the High Court sets aside or reverses any conviction, order, or other determination, or amends any conviction or other determination, or quashes or varies any sentence or order, or increases or reduces the amount of any sum ordered to be paid, the Registrar of the District Court shall make in the entry in the Criminal Records kept pursuant to section 71 relating to the decision appealed against a note of the decision of the High Court.
 (3) In any case to which subsection (2) applies, the decision of the High Court or the decision of the District Court as amended or varied by the High Court, as the case may be, shall take effect as if it were the decision of the District Court:
-  Provided that, where the High Court imposes a sentence of detention, the warrant to be issued under section 91 of the Sentencing Act 2002 shall be issued out of the High Court and signed by a Judge:
-  Provided also that, where the High Court varies a sentence of detention imposed by the District Court, it shall not be necessary to issue a warrant of commitment in respect of the sentence as so varied:
+  provided that, where the High Court imposes a sentence of detention, the warrant to be issued under section 91 of the Sentencing Act 2002 shall be issued out of the High Court and signed by a Judge:
+  provided also that, where the High Court varies a sentence of detention imposed by the District Court, it shall not be necessary to issue a warrant of commitment in respect of the sentence as so varied:
 (3A)
 (3B)
 (4) Where a party to an appeal has paid a fine in accordance with a sentence of the District Court and on the determination of the appeal—that party shall be entitled, subject to the order of the High Court, to a return of the sum paid or part thereof, as the case may be. For the purposes of this subsection the term fine includes any costs or other money ordered by the Court to be paid on the conviction of that party.
@@ -2460,7 +2501,7 @@ Where any party to an appeal has been sentenced to detention under the convictio
 
 ### 144 Appeal to Court of Appeal
 (1) Either party may, with the leave of the High Court, appeal to the Court of Appeal against any determination of the High Court on any case stated for the opinion of the High Court under section 107 or against any determination of the High Court on a question of law arising in any general appeal:
-  Provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
+  provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
 (2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that Court may allow, give notice of his application for leave to appeal in such manner as may be directed by the rules of that Court, and the High Court may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that Court, for special leave to appeal to that Court, and the Court of Appeal may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4)
@@ -2470,7 +2511,7 @@ Where any party to an appeal has been sentenced to detention under the convictio
 ### 144A Appeal to Supreme Court
 (1) With the leave of the Supreme Court, either party may appeal to the Supreme Court against—
   (a) a determination of the High Court on a case stated for its opinion under section 107; or
-  (b) a determination of the High Court (other than a determination made on an interlocutory application (within the meaning of the Supreme Court Act 2003) made in a general appeal; or
+  (b) a determination of the High Court (other than a determination made on an interlocutory application (within the meaning of the Supreme Court Act 2003)) made in a general appeal; or
   (c) a decision of the Court of Appeal on an appeal under section 144(1).
 (2) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
@@ -2483,7 +2524,7 @@ On an appeal under section 144 or section 144A to the Court of Appeal or the Sup
 
 ### 145 Purpose and overview
 (1) The purpose of this Part is to reform the law relating to preliminary hearings in criminal proceedings by replacing preliminary hearings with a standard committal procedure (which does not involve a hearing or consideration of the evidence), that is followed unless a party has been granted leave to orally examine a witness (in which case a committal hearing is held).
-(2) A general overview of the committal procedures set out in this Part is set out in diagrammatic form as follows:General overview of committal proceedings for offences to be tried on indictment Defendant— elects trial by jury makes first appearance in Court if the charge is laid indictably Defendant is given notice of the requirement to apply for oral evidence order if defendant wants to have committal hearing Prosecutor must file written statements in Court not later than 42 days after defendant— elects trial by jury first appears in Court if the charge is laid indictably Either prosecutor or defendant may apply for oral evidence order within 14 days after the date when the prosecutor is required to file written statements in Court Does defendant enter a plea of guilty before committal hearing or standard committal? Defendant is convicted and sentenced Is application for oral evidence order made by defendant or prosecutor? Standard committal— no hearing evidence is not considered neither party appears defendant is committed for trial on the papers Is application for oral evidence order successful? Committal hearing— witnesses to whom the oral evidence order applies give evidence parties appear Court must determine whether there is sufficient evidence to commit defendant for trial if not defendant is discharged if so defendant is committed for trial Note: This general overview of committal proceedings is by way of indication only. Detailed rules set out in the Act determine how those proceedings are conducted.
+(2) A general overview of the committal procedures set out in this Part is set out in diagrammatic form as follows:
 
 ### 146 Interpretation
 In this Part and Part 5A,—
@@ -2613,7 +2654,7 @@ Section 46, with the necessary modifications, applies to proceedings to which th
   (a) if—the Court must either proceed immediately to sentence the defendant, or adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947:
     (i) the defendant elected under section 66 to be tried by a jury; or
     (ii) the offence is an indictable offence under any enactment (other than an offence referred to in Part 2 of Schedule 1A of the District Courts Act 1947); or
-    (iii) the offence is an offence to which section 28A(1)(d), (e), or (f) of the District Courts Act 1947 applies—
+    (iii) the offence is an offence to which section 28A(1)(d), (e), or (f)of the District Courts Act 1947 applies—
   (b) in any other case, commit the defendant to the High Court for sentence.
 (4) Section 47 of this Act and section 50 of the Bail Act 2000 apply to every adjournment under subsection (3)(a).
 (5) If the defendant pleads guilty and is committed to the High Court for sentence under this section, sections 184J(4) and (5), 184K, 184L, and 184T of this Act, and sections 53 and 54 of the Bail Act 2000, as far as they are applicable and with the necessary modifications, apply as if the defendant had pleaded guilty and had been committed to the High Court for sentence after a committal hearing.
@@ -2801,9 +2842,6 @@ No comment adverse to the defendant may be made on the fact that the defendant�
 (2) An application under subsection (1) must be made no later than 14 days after the date on which the prosecutor is required to file written statements under section 168(1).
 (3) Despite subsection (2), a District Court Judge may grant leave for an application under subsection (1) to be made later than the time specified in subsection (2) if the Judge is satisfied that it is necessary in the circumstances of the case.
 
-### 178A Persons who may sign statements by assumed name
-[Repealed]
-
 ### 179 Application for leave to question undercover police officer's identity must be removed into High Court
 If the defendant wishes to apply, under section 109(1)(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover police officer,—
   (a) that application must be made at the same time as the application is made for an oral evidence order allowing the oral examination of the person to whom those questions are proposed to be put; and
@@ -2840,7 +2878,7 @@ If the defendant wishes to apply, under section 109(1)(d) of the Evidence Act 20
 ### 182 Oral evidence of witness who resides at distance, is ill, or is departing New Zealand may be taken at any Court
 (1) If an oral evidence order is made, that order may permit or require the evidence of a witness to be taken before any District Court or District Court Registrar (not being a member of the police) if it is desirable to do so.
 (2) The provisions of this Part as to the taking of the evidence of witnesses at a committal hearing, as far as they are applicable and with the necessary modifications, apply with respect to any evidence taken under this section.
-(3) The oral evidence of any witness taken under this section —
+(3) The oral evidence of any witness taken under this section—
   (a) must be forwarded to the Registrar of the Court in which the committal hearing is to take place; and
   (b) has effect as if it were oral evidence taken at the committal hearing.
 (4) Judicial notice must be taken of the signature of any examining District Court Judge or Registrar to any record of oral evidence taken under this section.
@@ -3234,7 +3272,7 @@ If the person for whose protection a Court has required the defendant to find a 
 
 ### 193 No action against Justice unless act in excess of jurisdiction or without jurisdiction
 (1) No action shall be brought against any Justice or Community Magistrate for any act done by him, unless he has exceeded his jurisdiction or has acted without jurisdiction.
-(2) Where a conviction or order is entered or made or by 1 or more Justices or 1 or more Community Magistrates and a warrant to seize property or warrant of commitment is granted thereon bona fide by some other Justice or Community Magistrate, no action shall be brought against the Justice who granted the warrant by reason of any defect in the conviction or order or of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
+(2) Where a conviction or order is entered or made by 1 or more Justices or 1 or more Community Magistrates and a warrant to seize property or warrant of commitment is granted thereon bona fide by some other Justice or Community Magistrate, no action shall be brought against the Justice who granted the warrant by reason of any defect in the conviction or order or of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
 
 ### 194 No action against Justice or Community Magistrate to be brought in District Court
 No action against any Justice or Community Magistrate by any person claiming to have been injured by an act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction shall be brought in a District Court.
@@ -3407,7 +3445,7 @@ An affidavit required for the purposes of this Act may be sworn or affirmed befo
   (h) any statement may be taken under section 164:
   (i) the evidence of any person may be given and his deposition taken in accordance with the provisions of this Act, if that person is dangerously ill and in the opinion of some medical practitioner not likely to recover from that illness:
   (j) any person may be served with a summons and released under section 19A:
-  (k) any person may be served with a summons under section 19B.
+  (k) any person may be served with a summons under section 19B:
   (l) a Registrar or bailiff or constable may exercise any power, duty, or function conferred on him or her under Part 3, or under any regulations made under this Act as far as they relate to Part 3:
   (m) any fine or any other money payable on any conviction or order made by a Court may be paid, or may be accepted by any person authorised to accept that payment:
   (n) any act necessary to give effect to a direction under section 88AE(1)(g):
@@ -3486,7 +3524,7 @@ Except as expressly provided in the Children, Young Persons, and Their Families 
   (ea) prescribing the factors to be taken into account in deciding, for the purposes of Part 3, whether or not a defendant has or has had sufficient means to pay a sum adjudged to be paid by a conviction:
   (eb) providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995 or the Harassment Act 1997, including (without limitation) provision for such information to be transferred between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising original jurisdiction and courts exercising appellate jurisdiction:
   (ec) amending Schedule 1 by adding offences to, or removing offences from, Part 1 or Part 2 of that schedule:
-  (ed) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from Part 1 or Part 2 of Schedule 1
+  (ed) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from Part 1 or Part 2 of Schedule 1:
   (f) providing for any other matters in respect of which regulations are contemplated under this Act.
 (3)
 
@@ -3536,10 +3574,6 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 144 | Indecency with animal |
 | 145 | Criminal nuisance |
 | 146 | Keeping place of resort for homosexual acts |
-| 147 | Repealed |
-| 148 | Repealed |
-| 149 | Repealed |
-| 149A | Repealed |
 | 150 | Misconduct in respect of human remains |
 | Part 8—Crimes Against the Person |  |
 | 153 | Duty of employers to provide necessaries |
@@ -3627,15 +3661,15 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 28A |  | Reckless ill-treatment of animals |
 | Antarctica (Environmental Protection) Act 1994 |  | Part 2 |  | Mineral resource activities in Antarctica |
 | Arms Act 1983 |  | 44(1) |  | Selling or supplying pistol or restricted weapon to person who does not hold permit to import or to procure |
-|  |  | 45(1) |  | Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose: |
-|  |  | 46(1) |  | Carrying of imitation firearm, except for lawful, proper, and sufficient purpose. |
+|  |  | 45(1) |  | Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose |
+|  |  | 46(1) |  | Carrying of imitation firearm, except for lawful, proper, and sufficient purpose |
 |  |  | 50(1) |  | Unlawful possession of pistol or restricted weapon |
 |  |  | 51(1) |  | Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon |
 |  |  | 53(1) |  | Causing bodily injury or death by careless use of a firearm, airgun, pistol, or restricted weapon |
 |  |  | 53(2) |  | Leaving loaded firearm, airgun, pistol, or restricted weapon in any place in such circumstances as to endanger life |
 |  |  | 53(3) |  | Without reasonable cause, discharging or otherwise dealing with firearm, airgun, pistol, or restricted weapon in a manner likely to injure or endanger the safety of any person or with reckless disregard for the safety of others |
 |  |  | 54 |  | Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent an arrest or commit offence |
-|  |  | 55 |  | Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent. |
+|  |  | 55 |  | Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent |
 | Auctioneers Act 1928 |  | 38 |  | Misappropriation, or falsifying accounts |
 | Aviation Crimes Act 1972 |  | 11 |  | Taking firearms, explosives, etc, on to aircraft |
 | Biosecurity Act 1993 |  | 154(f), (g), (h), (i), (j), (k), (l), (m) |  | Offences relating to dealings with goods in contravention of the Biosecurity Act 1993 and failure to comply with specified provisions of that Act |
@@ -3664,7 +3698,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 461 |  | Making false statements |
 |  |  | 461A |  | Fraudulent application or destruction of property |
 |  |  | 461C |  | Falsification of records |
-|  |  | 461D |  | Fraudulently carrying on business, obtaining credit, or transferring property. |
+|  |  | 461D |  | Fraudulently carrying on business, obtaining credit, or transferring property |
 | Companies Act 1993 |  | 304(6) |  | Claims by unsecured creditors |
 |  |  | 305(11) |  | Rights and duties of secured creditors |
 |  |  | 380 |  | Carrying on business fraudulently |
@@ -3695,12 +3729,12 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Customs and Excise Act 1996 |  | 182 |  | Unauthorised access to or improper use of Customs computerised entry processing system |
 |  |  | 183 |  | Interference with Customs computerised entry processing system |
 |  |  | 205(5) |  | Offences in relation to records |
-|  |  | 209(1A) |  | Offences relating to importation or exportation of objectionable publications. |
+|  |  | 209(1A) |  | Offences relating to importation or exportation of objectionable publications |
 | Designs Act 1953 |  | 42 |  | Offences in respect of designs required to be kept secret |
 |  |  | 43 |  | Falsification of register of designs, etc |
 | Distillation Act 1971 |  | 86 |  | Stealing spirits from distillery, etc |
 | District Courts Act 1947 |  | 116A |  | False statement of service of documents |
-| Domestic Violence Act 1995 |  | 49(2) |  | Contravening protection order. |
+| Domestic Violence Act 1995 |  | 49(2) |  | Contravening protection order |
 | Electoral Act 1993 |  | 204F |  | Election advertisement to include promoter statement |
 |  |  | 204G |  | Publication of candidate advertisement promoting candidate |
 |  |  | 204H |  | Publication of party advertisement promoting party |
@@ -3715,7 +3749,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Electoral Referendum Act 2010 |  | 66(c) |  | Contravening requirement for referendum advertisement to include promoter statement |
 | Films, Videos, and Publications Classification Act 1993 |  | 124(1) |  | Offences involving knowledge in relation to objectionable publications |
 |  |  | 127(4) |  | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
-|  |  | 131A(1) |  | Offences relating to possession of objectionable publications and involving knowledge. |
+|  |  | 131A(1) |  | Offences relating to possession of objectionable publications and involving knowledge |
 | Finance Act 1915 |  | 65 |  | Bribing officer of Customs, Officer accepting bribe or conniving at offence |
 | Financial Advisers Act 2008 |  | 137E |  | Contravening banning order |
 |  |  | 137J |  | Breaching orders |
@@ -3738,15 +3772,15 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 343(1)(c) |  | Assisting completion of arrival document in false or misleading manner |
 |  |  | 345 |  | Improper use of document relating to another person or forged or fraudulently obtained |
 |  |  | 348 |  | Modifying form after completion and signing |
-| Industrial and Provident Societies Act 1908 |  | 15(c)(iii) |  | False declaration |
 | Immigration Advisers Licensing Act 2007 |  | 63(1)(a) |  | Provision of immigration advice unless licensed or exempt |
 |  | 64(1) |  | Holding out as immigration adviser unless licensed or exempt |  |
 |  | 65(1) |  | Holding out as licensed immigration adviser |  |
 |  | 67(1)(a) |  | Asking for or receiving fee or reward for immigration advice when neither licensed nor exempt |  |
-|  | 68(1)(a) |  | Employing or contracting unlicensed or non-exempt person as immigration adviser. |  |
+|  | 68(1)(a) |  | Employing or contracting unlicensed or non-exempt person as immigration adviser |  |
+| Industrial and Provident Societies Act 1908 |  | 15(c)(iii) |  | False declaration |
 | Insolvency Act 1967 |  | 128A |  | Offence by undischarged bankrupt |
 | Insolvency Act 2006 |  | 419 to 428, 430 |  | Offences by bankrupt |
-| Inspector-General of Intelligence and Security Act 1996 |  | 28 |  | Unauthorised making or disclosure of records. |
+| Inspector-General of Intelligence and Security Act 1996 |  | 28 |  | Unauthorised making or disclosure of records |
 | Intelligence and Security Committee Act 1996 |  | 20 |  | Unauthorised making or disclosure of records |
 | Land Drainage Act 1908 |  | 82 |  | Wilful damage to works |
 | Land Transfer Act 1952 |  | 225 |  | Fraudulently procuring certificate of title, etc |
@@ -3778,9 +3812,9 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 10 |  | Aiding offences against corresponding law of another country, but only in a case to which subsection (2)(b) applies |
 |  |  | 11 |  | Theft, etc, of controlled drugs |
 |  |  | 12 |  | Use of premises or vehicle |
-|  |  | 12A |  | Equipment, material, and substances used in production or cultivation of controlled drugs. |
+|  |  | 12A |  | Equipment, material, and substances used in production or cultivation of controlled drugs |
 |  |  | 12AB |  | Offence to knowingly import or export precursor substances for unlawful use |
-|  |  | 12B |  | Laundering proceeds of drug offences. |
+|  |  | 12B |  | Laundering proceeds of drug offences |
 | Naval and Victualling Stores Act 1908 |  | 4 |  | Destroying marks with intent to steal stores |
 |  |  | 5(1) |  | Knowingly receiving or selling marked stores |
 | New Zealand Security Intelligence Service Act 1969 |  | 12A |  | Unauthorised disclosure of Information |
@@ -3800,18 +3834,6 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Reserve Bank of New Zealand Act 1989 |  | 29 |  | Making or issuing of other bank notes or coins |
 |  |  | 176 |  | Offence against Act |
 | Residential Tenancies Act 1986 |  | 106 |  | Giving false evidence |
-| Securities Act 1978 |  | 60C |  | offence of contravening management banning order |
-|  |  | 60E |  | persons automatically banned from management |
-|  |  | 60K |  | offence of contravening order to preserve assets |
-| Securities Markets Act 1988 |  | 8F |  | criminal liability for insider conduct |
-|  |  | 11A |  | criminal liability for false or misleading statement or information |
-|  |  | 11D |  | criminal liability for false or misleading appearance of trading, etc |
-|  |  | 39 |  | dealers in futures contracts must be authorised |
-|  |  | 43H |  | offence of contravening management banning order |
-|  |  | 43I |  | persons automatically banned from management |
-|  |  | 43M |  | offence of contravening investment adviser or broker banning order |
-|  |  | 43N |  | persons automatically banned from investment adviser or broker activities |
-|  |  | 43T |  | offence of contravening order to preserve assets |
 | Secret Commissions Act 1910 |  | 3 |  | Gifts to agent without consent of principal an offence |
 |  |  | 4 |  | Acceptance of such gifts by agent an offence |
 |  |  | 5 |  | Duty of agent to disclose pecuniary interest in contract |
@@ -3820,17 +3842,29 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 8 |  | Receiving secret reward for procuring contracts an offence |
 |  |  | 9 |  | Aiding and abetting offences |
 |  |  | 10 |  | Offences by person acting on behalf of agents |
+| Securities Act 1978 |  | 60C |  | Offence of contravening management banning order |
+|  |  | 60E |  | Persons automatically banned from management |
+|  |  | 60K |  | Offence of contravening order to preserve assets |
+| Securities Markets Act 1988 |  | 8F |  | Criminal liability for insider conduct |
+|  |  | 11A |  | Criminal liability for false or misleading statement or information |
+|  |  | 11D |  | Criminal liability for false or misleading appearance of trading, etc |
+|  |  | 39 |  | Dealers in futures contracts must be authorised |
+|  |  | 43H |  | Offence of contravening management banning order |
+|  |  | 43I |  | Persons automatically banned from management |
+|  |  | 43M |  | Offence of contravening investment adviser or broker banning order |
+|  |  | 43N |  | Persons automatically banned from investment adviser or broker activities |
+|  |  | 43T |  | Offence of contravening order to preserve assets |
 | Serious Fraud Office Act 1990 |  | 45 |  | Offences as to obstructing investigation, etc |
 |  |  | 46 |  | Offence to destroy, alter, or conceal records, etc |
 | Soil Conservation and Rivers Control Act 1941 |  | 154 |  | Wilful damage to watercourse or works |
 | Summary Proceedings Act 1957 |  | 29(2) |  | False statement of service |
 |  |  | 181(5) |  | False statement of service |
-| Takeovers Act 1993 |  | 44C |  | criminal liability for false or misleading statement or information |
-|  |  | 44H |  | offence of contravening management banning order |
-|  |  | 44J |  | persons automatically banned from management |
-|  |  | 44P |  | offence of contravening order to preserve assets |
-| Tax Administration Act 1994 |  | 143A(1)(d) |  | Knowledge Offences |
-|  |  | 143B(1) and (2) |  | Evasion or similar offence. |
+| Takeovers Act 1993 |  | 44C |  | Criminal liability for false or misleading statement or information |
+|  |  | 44H |  | Offence of contravening management banning order |
+|  |  | 44J |  | Persons automatically banned from management |
+|  |  | 44P |  | Offence of contravening order to preserve assets |
+| Tax Administration Act 1994 |  | 143A(1)(d) |  | Knowledge offences |
+|  |  | 143B(1) and (2) |  | Evasion or similar offence |
 | Trade in Endangered Species Act 1989 |  | 44(1)(a) |  | Trading in specimen of endangered species without appropriate permit or certificate |
 |  |  | 44(1)(b) |  | Trading in specimen of threatened species without appropriate permit or certificate |
 |  |  | 45(1) |  | Unlawful possession of specimen of endangered or threatened species |
@@ -3919,22 +3953,6 @@ This Act is the Summary Proceedings Amendment Act (No 2) 2008.
   (b) it was conducted in accordance with subsection (2) when it ought to have been conducted in accordance with subsection (1).
 
 ### 1 Title
-This Act is the Summary Proceedings (Vehicle Seizure) Amendment Act 2009.
-
-### 2 Commencement
-This Act comes into force on 1 December 2009.
-
-### 9 Transitional provisions relating to Transport (Vehicle and Driver Registration and Licensing) Act 1986
-In the period commencing on the commencement of this Act and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009—
-  (a) any reference to a person who is registered in respect of a motor vehicle in sections 100A to 100Y of the principal Act (as inserted by this Act) must (despite the definition of that term in section 100A(1) of the principal Act) be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
-  (b) the reference in section 100I(2) and 100M(3) of the principal Act (as inserted by this Act) to section 242 of the Land Transport Act 1998 is taken to be a reference to section 5 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
-  (c) the reference in section 100M(4) of the principal Act (as inserted by this Act) to the Land Transport Act 1998 is taken to be a reference to the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
-
-### 10 Transitional provisions relating to pre-commencement fines and warrants
-(1) The principal Act as amended by sections 5 to 8 of this Act applies to the enforcement of any fine whether adjudged, ordered, or deemed to be ordered, to be paid before or after the commencement of this Act.
-(2) Despite subsection (1), any motor vehicle seized under a warrant issued, before the commencement of this Act, under section 83(2)(a), 87(1)(a), or 88(3)(a) of the principal Act must be dealt with as if this Act (other than this subsection) had not been enacted.
-
-### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2010.
 
 ### 2 Commencement
@@ -3980,6 +3998,20 @@ This Act amends the Crimes Act 1961.
 ### 12 Transitional provision
 (1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
 (2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
+
+### 1 Title
+This Act is the Summary Proceedings Amendment Act (No 2) 2011.
+
+### 2 Commencement
+(1) Sections 4 to 6 come into force on a date appointed by the Governor-General by Order in Council.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council.
+(3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Summary Proceedings Act 1957.
+
+### 5 Transitional provision regarding withdrawal of warrants to arrest
+The power conferred on a Registrar by section 23(2) of the principal Act (as inserted by section 4 of this Act) may be exercised in relation to any warrant referred to in that subsection, whether the warrant was issued before or after the date on which section 4 came into force.
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
