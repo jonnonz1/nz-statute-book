@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2011-07-23_
+_Consolidation as at 2012-08-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -76,7 +76,7 @@ _Consolidation as at 2011-07-23_
   - **social worker** means a person employed under Part 5 of the State Sector Act 1988 in the department as a social worker
   - **summary offence** means a summary offence within the meaning of the Summary Proceedings Act 1957
   - **traffic offence** means—
-    (a) any offence against the Road User Charges Act 1977, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
+    (a) any offence against the Road User Charges Act 2012, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
     (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **victim** means a person who, through or by means of an offence, suffers physical or emotional harm, or loss of or damage to property; and where an offence results in death, the term includes the members of the immediate family of the deceased
   - **working day** means a day of the week other than—
@@ -2832,9 +2832,9 @@ A Youth Court before which a charge against a young person is proved may, subjec
   (g) order the young person or, in the case of a young person who is under the age of 16 years, a parent or guardian of the young person to make restitution in accordance with section 404 of the Crimes Act 1961:
   (h) make an order for the forfeiture of property to the Crown if the forfeiture of that property would have been obligatory or could have been ordered under an enactment applicable to the offence if the young person were an adult and had been convicted of that offence by a District Court:
   (i) make an order under section 293A (which relates to disqualification from driving):
-  (j) make an order that could have been made by a court other than a Youth Court under section 128 or 129 of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than a Youth Court; and if the court makes such an order, the following sections of that Act apply accordingly:
-    (i) sections 127 and 130 to 142:
-    (ii) section 128 or 129 (as the case may be):
+  (j) make an order that could have been made by a court other than a Youth Court under section 128 or 129 of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than a Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
+    (i) section 128 or 129 (as the case may be):
+    (ii) sections 129EA, 130, 131 to 136, 137, and 138 to 142:
   (ja) make an order requiring the young person (if he or she is, or is soon to be, a parent or guardian or other person having the care of a child), or a parent or guardian or other person having the care of the young person, or both, to attend, in a manner specified by the court, and for a specified period of not more than 6 months, a specified parenting education programme:
   (jb) make an order requiring the young person to attend, in a manner specified by the court, and for a specified period of not more than 12 months, a specified mentoring programme:
   (jc) make an order requiring the young person to attend, in a manner specified by the court, and for a specified period of not more than 12 months, a specified alcohol or drug rehabilitation programme:
