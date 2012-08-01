@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act 2011.
@@ -144,7 +144,7 @@ Section 79 is repealed and the following sections and heading are substituted:In
     - **substituted sentence** means a warrant of commitment issued under section 83(2)(a) or 88AE(1)(b) or any sentence imposed under section 88AE(1)(c) to (e)
     - **traffic fine** means a fine payable in respect of a traffic offence
     - **traffic offence** means—
-      (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
+      (a) any offence against the Transport Act 1962, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
       (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
     - **use** , in relation to a motor vehicle, includes driving, drawing, towing, or propelling by means of another vehicle, and permitting to be on any road
     - **written caution** means a caution issued under section 93.
@@ -928,7 +928,7 @@ Sections 93 to 100Y are repealed and the following headings and sections substit
     (f) in payment of the fine specified in the warrant:
     (g) in payment to any secured party or secured parties of the applicable default balance or the applicable default balances certified under section 100K and deducted under paragraph (c):
     (h) in payment of any fees and accident insurance levies prescribed under section 242(2)(b) of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
-    (i) in payment of any road user charges under section 9 of the Road User Charges Act 1977 that are outstanding in respect of the vehicle:
+    (i) in payment of any road user charges under Road User Charges Act 2012 that are outstanding in respect of the vehicle:
     (j) to the defendant or, as the case requires, to the substitute for the defendant.
   (2) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (1)(c), those proceeds must be applied in the order of the priority determined for those security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
   (3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
