@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2011-09-17_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -667,7 +667,7 @@ The exercise of the power giving rise to a claim for compensation under this sub
   (p) the Rating Valuations Act 1998:
   (q) the Reserves Act 1977:
   (r) the Resource Management Act 1991:
-  (s) the Road User Charges Act 1977:
+  (s) the Road User Charges Act 2012:
   (t) the Social Security Act 1964:
   (u) the Soil Conservation and Rivers Control Act 1941:
   (v) the Transport Act 1962:
