@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-08-01_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -902,7 +902,7 @@ The Rural Fire Fighting Fund shall be funded at such a level as will enable an e
 
 ### 47B Definition of terms property and owner of property
 (1) For the purposes of this section and sections 48, 49, 49A, 49B, 50, 51, 51A, 51B, 51C, 52, 53, and 53A—
-  - **motor vehicle** means a motor vehicle as defined in section 2(1) of the Land Transport Act 1998; but does not include any motor vehicle with a gross laden weight (as defined in section 2(1) of the Road User Charges Act 1977) exceeding 3.5 tonnes
+  - **motor vehicle** means a motor vehicle as defined in section 2(1) of the Land Transport Act 1998; but does not include a heavy RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012)
   - **owner of property** includes any company, corporation, partnership, or person who is entitled to legal or beneficial ownership of, or is entitled to any form of tenure, possession, or right to, any such property, and shall also include any company, corporation, partnership, or person, whether resident in New Zealand or not, who is entitled to any indemnity or benefit under any contract of fire insurance, whether or not such company, corporation, partnership, or person is entitled to any form of legal or beneficial ownership or to any form of tenure, possession, or right as aforesaid
   - **property** means any real or personal property situated in New Zealand; but does not include the categories of property set out in Schedule 3, or any property which is the subject of cover under a contract of marine insurance as defined in this Act.
 (2)
