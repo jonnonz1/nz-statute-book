@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2012-05-01_
+_Consolidation as at 2012-08-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -645,12 +645,13 @@ Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act
 (2) Articles forfeited under the provisions of subsection (1) shall be sold, destroyed, or otherwise disposed of as the Minister directs.
 (3) If, on the conviction of any person for an offence against section 6, the Judge or District Court Judge is satisfied that money found in the possession of that person was received by that person in the course of or consequent upon the commission of that offence, or was in the possession of that person for the purpose of facilitating the commission of an offence against that section, the Judge or District Court Judge may, in addition to any other penalty imposed pursuant to this Act, order that that money be forfeited to the Crown.
 (4) If, on the conviction of any person for an offence against section 6, the court is satisfied that any motor vehicle, aircraft, or ship or boat or other vessel owned by the convicted person (whether solely or as joint tenant or tenant in common with any other person or persons) or in which he has any interest (whether pursuant to a hire purchase agreement, leasing agreement, or otherwise) at the time of his conviction was used by the convicted person in the commission of that offence (whether or not he was the driver or person in charge), the court shall, unless in the circumstances of the case the court considers that it would be unjust to do so, order, in addition to any other penalty imposed under this Act, that the motor vehicle, aircraft, or ship or boat or other vessel be forfeited to Her Majesty.
-(5) If an order for forfeiture is made under subsection (4), the following provisions of the Sentencing Act 2002 apply, so far as they are applicable and with any necessary or specific modifications:
-  (a) section 127:
-  (b) section 128, except subsection (2):
-  (c) sections 130 to 136:
-  (d) section 137, except that paragraphs (c) and (d) of subsection (3) do not apply and, instead, any proceeds of sale remaining after payment in accordance with subsection (3)(a) and (b) must be paid into a Crown Bank Account:
-  (e) sections 138 to 142.
+(5) If the Court is considering whether to make an order for forfeiture under subsection (4), sections 128(5), 130, and 131 of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
+(6) If an order for forfeiture is made under subsection (4), the following provisions of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
+  (a) sections 132 to 136:
+  (b) section 137, except that section 137(3)(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
+  (c) sections 138, 138A, and 140:
+  (d) section 140A (including section 140A(4), which applies despite section 137(3)(c) not otherwise being applicable):
+  (e) sections 141A and 142.
 
 ### 33 Notification of conviction of medical practitioners, etc
 Where any person being a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian is convicted of any offence against this Act or against any regulations made under this Act, the court shall cause particulars of the conviction to be sent to the person charged with the duty of keeping the register on which the name of the convicted person appears as a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian, as the case may be.
