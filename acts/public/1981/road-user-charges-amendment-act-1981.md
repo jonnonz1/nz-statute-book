@@ -1,5 +1,5 @@
 # Road User Charges Amendment Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-01_
 
 > An Act to amend the Road User Charges Act 1977 and other related Acts
 
