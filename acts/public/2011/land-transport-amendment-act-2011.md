@@ -1,5 +1,5 @@
 # Land Transport Amendment Act 2011
-_Consolidation as at 2011-07-22_
+_Consolidation as at 2012-08-01_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act 2011.
@@ -43,7 +43,7 @@ The following heading and sections are inserted after section 91:Driver licence 
       (b) includes an offender levy imposed under section 105B of the Sentencing Act 2002 for a traffic offence and any prescribed costs, expenses, or fees payable in respect of the enforcement of any amount of money described in paragraph (a); but
       (c) does not include any amount of money adjudged or ordered to be paid in a civil proceeding
     - **traffic offence** means—
-      (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 1977, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
+      (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
       (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
     - **warning notice** means a notice served under section 91D.
   (1) A warning notice or a driver licence stop order must be served on a defendant in 1 of the following ways:
