@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-07-27_
+_Consolidation as at 2012-08-20_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -17,7 +17,8 @@ The purpose of this Act is—
   (c) to ensure that the financial support referred to in paragraphs (a) and (b) is provided to people taking into account—
     (i) that where appropriate they should use the resources available to them before seeking financial support under this Act; and
     (ii) any financial support that they are eligible for or already receive, otherwise than under this Act, from publicly funded sources:
-  (d) to impose administrative and, where appropriate, work-related requirements on people seeking or receiving financial support under this Act.
+  (ca) to provide services to encourage and help young persons to move to education, training, and employment rather than to receiving financial support under this Act:
+  (d) to impose administrative and, where appropriate, work-related requirements on people seeking or receiving financial support under this Act, and, in the case of young persons, seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements.
 
 ### 1B Principles
 Every person exercising or performing a function, duty or power under this Act must have regard to the following general principles:
@@ -48,6 +49,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001 and veterans' pensions payable under Part 6 of the War Pensions Act 1954:
       (ia)
       (ii) a living alone payment payable under the New Zealand Superannuation and Retirement Income Act 2001 and a living alone payment payable under Part 6 of the War Pensions Act 1954:
+      (iia) an incentive payment, a youth payment, and a young parent payment:
       (iii) an accommodation supplement payable under section 61EA:
       (iv) a child disability allowance under section 39A:
       (iva) childcare assistance payable under section 61GA:
@@ -73,6 +75,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) financially independent
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
   - **contract of insurance** includes a contract or an arrangement that, in the opinion of the chief executive, is similar to or analogous with a contract of insurance
+  - **contracted service provider** has the meaning given by section 125A(1)
   - **date of first contact** , in relation to a person's application for a benefit, means the date on which the department first received from the person (or some other person acting on the person's behalf) the oral or written request for financial assistance that led to the making of the application
   - **debt insurance payment** , in relation to a person, means a payment made, or the value of any credit provided, on the occurrence of a contingency—
     (a) under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
@@ -90,7 +93,8 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
       (iii) who, under section 362 of that Act, is placed in the charge of the person:
-    (d) for the purposes only of Schedules 3, 6, 9, 16, 17, and 18, does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid
+    (d) for the purposes only of Schedules 3, 6, 9, 16, 17, 18, and 26, does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
+    (e) does not include a child in respect of whom a young parent payment is being paid except in relation to that child's parent or step-parent
   - **disability services** has the same meaning as disability support services in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **document** means a document in any form; and includes—
@@ -104,7 +108,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **employment plan** has the meaning specified in section 60O
   (a) for a part-time work-tested beneficiary, part-time work:
   (b) for any other work-tested beneficiary, full-time employment
-  - **existing debt** , in relation to a person, means a debt or liability of the person in existence on the date on which a contingency occurs that gives rise to a right or eligibility of the person to receive a payment under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate whether or not the debt or liability is due for payment on that date; but does not include a liability in connection with the future supply of goods or services or transport or accommodation to the person or a member of his or her family
+  - **existing debt** , in relation to a person, means a debt or liability of the person in existence on the date on which a contingency occurs that gives rise to a right or eligibility of the person to receive a payment under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate, whether or not the debt or liability is due for payment on that date; but does not include a liability in connection with the future supply of goods or services or transport or accommodation to the person or a member of his or her family
   - **financially independent** , in relation to a person, means—
     (a) in full employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (SR 1998/277); or
@@ -120,7 +124,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **Government occupational pension** —
     (a) means a benefit, pension, or periodical allowance paid by or on behalf of the Government of any country to a person by reason of—
       (i) a period of employment, direct or indirect, by that Government of that person or that person's deceased spouse or partner or that person's deceased parent; or
-      (ii) a period of service to that Government (including, without limitation, service in the armed forces, service in the police, and service as a judicial officer or other person acting judicially) by that person or that person's deceased spouse or partner or that person's deceased parent; but
+      (ii) a period of service to that Government (including, without limitation, service in the armed forces, service in the Police, and service as a judicial officer or other person acting judicially) by that person or that person's deceased spouse or partner or that person's deceased parent; but
     (b) does not include any part of that benefit, pension, or periodical allowance that is paid by the Government of that country by reason of anything other than that period of employment or service; and
     (c) does not include any part of that benefit, pension, or periodical allowance to which the Government of that country contributes by reason of anything other than that period of employment or service; but
     (d) does not include a benefit, pension, or periodical allowance of the kind set out in paragraph (a) if the person would have been entitled to receive a similar benefit, pension, or periodical allowance paid by, or on behalf of, the Government of that country under a scheme or other arrangement in respect of persons who were not employees or in the service of that Government
@@ -129,6 +133,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) to the person or to some other person on behalf of or for the benefit of the person or a member of his or her family—
   - **health practitioner** means a person who is, or is deemed to be, registered with an authority as a practitioner of a particular health profession under the Health Practitioners Competence Assurance Act 2003
   - **hospital** means a hospital care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **incentive payment** means a payment referred to in any of clauses 7 to 9 of Schedule 26
   - **income** , in relation to any person,—
     (a) means any money received or the value in money's worth of any interest acquired, before income tax, by the person which is not capital (except as hereinafter set out); and
     (b) includes, whether capital or not and as calculated before the deduction (where applicable) of income tax, any periodical payments made, and the value of any credits or services provided periodically, from any source for income-related purposes and used by the person for income-related purposes; and
@@ -145,7 +150,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (v) any payment in relation to termination of employment made by a company pursuant to its articles of association or constitution to any of its directors; and
     (e) includes, as calculated before the deduction (where applicable) of income tax, the value of any goods, services, transport, or accommodation supplied on a regular basis to the person by any other person; but—
     (f) does not include—
-      (i) any benefit, grant, allowance, or concession received under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, including the value of any benefit under Part 2:
+      (i) any benefit, grant, allowance, or concession received under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, including the value of any benefit under Part 2 of this Act:
       (ii) any pension or allowance under the War Pensions Act 1954 received by any person by reason of his or her own disablement:
       (iii) any pension received under Part 2 or Part 4 or Part 5 of the War Pensions Act 1954 by the surviving spouse or partner of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine in respect of the death of that member:
       (iv) any pension or other periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive determines is analogous to a pension or allowance specified in subparagraph (ii) or subparagraph (iii):
@@ -158,7 +163,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (ix) any money received by way of an independence allowance under section 54 of the Accident Rehabilitation and Compensation Insurance Act 1992 or Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, or any impairment lump sum received under Schedule 1 of the Accident Compensation Act 2001:
       (x) any amount of output tax charged in respect of a supply of goods and services made by that person:
       (xi) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person:
-      (xii) any debt insurance payment or any health or disability insurance payment.
+      (xii) any debt insurance payment or any health or disability insurance payment:
       (xiii) any money received under the Children, Young Persons, and Their Families Act 1989 in respect of the care of a child or young person (as those terms are defined in that Act):
       (xiv) any lump sum payment received by the person—
         (A) under a contract of insurance on the life of the person's deceased spouse or partner; or
@@ -167,8 +172,8 @@ Every person exercising or performing a function, duty or power under this Act m
       (xv) any part of a lump sum income-related insurance payment received on the occurrence of a contingency by an applicant for a benefit that has been used or committed by the applicant—
         (A) to repay or pay any amounts on account of existing debt of the applicant; or
         (B) to pay any essential costs arising as a consequence of the applicant's health or disability (being costs arising from the contingency in respect of which the payment was made) to the extent that assistance towards those costs is not available under this Act or any other Act:
-      (xvi) any income-related rent within the meaning of section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992 :
-      (xvii) any specified item or amount of income, or income from a specified source, that is declared not to be income for the purposes of this Act by regulations made under section 132
+      (xvi) any income-related rent within the meaning of section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992:
+      (xvii) any specified item or amount of income, or income from a specified source, that is declared not to be income for the purposes of this Act by regulations made under section 132:
       (xviii) any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
   - **income-related insurance payment** , in relation to a person, means a payment, or the value of any credit or service, that, in the opinion of the chief executive, having regard to the matters specified in subsection (4), is—
     (a) made or provided on the occurrence of a contingency under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
@@ -194,7 +199,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (aa) a sickness benefit:
     (b) a domestic purposes benefit:
     (c) an emergency benefit:
-    (d) an independent youth benefit:
+    (d)
     (e) an invalid's benefit:
     (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension payable—
       (i) at the appropriate rate in clause 1 of Schedule 11 of the War Pensions Act 1954 if the pension is subject to abatement under section 74D of that Act; or
@@ -202,7 +207,9 @@ Every person exercising or performing a function, duty or power under this Act m
     (g) an orphan's benefit:
     (h)
     (i) an unsupported child's benefit:
-    (j) a widow's benefit
+    (j) a widow's benefit:
+    (k) a youth payment:
+    (l) a young parent payment
   - **living with a parent** , in relation to a person,—
     (a) means living in the same home as a parent of the person; but
     (b) does not include a situation in which a person lives in the same home as a parent of the person where—
@@ -220,7 +227,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) lost his or her employment, or position on a scheme, through misconduct; or
     (c)
     (d) failed to comply with the work test:
-    (e) failed to comply with an obligation under section 60GAB
+    (e) failed to comply with an obligation under section 170 or 171
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **occupational therapist** means a health practitioner who is, or is deemed to be, registered with the Occupational Therapy Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of occupational therapy
   - **open employment** means employment other than sheltered employment
@@ -232,7 +239,6 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) does not include a Government occupational pension
   - **overseas pensioner** means a person to whom an overseas pension has been granted
   - **parent** , for the purposes of the definition of the term living with a parent, means a parent, or a guardian, or a person acting as a parent
-  - **participation allowance** means a participation allowance under regulations made under section 132F
   - **part-time work** means work that averages not less than 15 hours a week when calculated over a period of the preceding 3 months—
     (a) under a contract of service, whether on time or piece rates; or
     (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking
@@ -241,6 +247,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (i) a work-tested spouse or partner; or
       (ii) a work-tested domestic purposes beneficiary; or
     (b) a person who is a work-tested sickness beneficiary
+  - **participation allowance** means a participation allowance under regulations made under section 132F
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **pay day** means the day or date from time to time fixed by the chief executive as the date on which an instalment of a benefit falls due for payment
   - **periodical** means regular or intermittent
@@ -276,7 +283,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **spouse** means the husband or wife of an applicant or beneficiary, as the context may require
   - **strike** has the same meaning as in section 81 of the Employment Relations Act 2000
   - **student allowance** means an allowance established by regulations made under section 303 of the Education Act 1989
-  - **suitable employment** , in relation to a person, means employment that the chief executive is satisfied is suitable for the person to undertake for a number of hours a week that is at least the employment required to satisfy the work test for that person (or, as the case may be, the person's obligations under section 60GAB)
+  - **suitable employment** , in relation to a person, means employment that the chief executive is satisfied is suitable for the person to undertake for a number of hours a week that is at least the employment required to satisfy the work test for that person
   - **temporary employment** means full employment for a period of less than 26 weeks
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **veteran's pension** means a veteran's pension payable under Part 6 of the War Pensions Act 1954
@@ -313,16 +320,27 @@ Every person exercising or performing a function, duty or power under this Act m
     (a) who has been granted a domestic purposes benefit under section 27B; and
     (b) whose youngest dependent child is aged 6 years or older, but under 18 years, or is aged 18 years and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
   - **work-tested sickness beneficiary** means a person granted a sickness benefit who is required under section 54DA(1) to comply with the work test
-  - **work-tested spouse or partner** means a person who—
-    (a) has no dependent children, or whose youngest dependent child is aged 6 years or more; and
-    (b) has not been granted an exemption from the work test; and is—
-    (c) the spouse or partner of a person granted an unemployment benefit, a sickness benefit, or an invalid's benefit, where the benefit is granted at a work-test married rate; or
-    (ca) the spouse or partner of a person granted an emergency benefit at a work-tested married rate if the chief executive has, under section 61A(1A), required that spouse or partner to comply with the work test; or
-    (d) is the spouse or partner of a person who is receiving long-term residential care in a hospital or rest home, is aged under 60 years, and is in receipt of an invalid's benefit under section 42(2) or an emergency benefit under regulations made under section 155
+  - **work-tested spouse or partner** means a person—
+    (a) who—
+      (i) has no dependent child under 6 years (or has no dependent child at all); and
+      (ii) is not subject to obligations under section 171; and
+      (iii) has not been granted an exemption from the work test; and
+    (b) who—
+      (i) is the spouse or partner of a person granted an unemployment benefit, a sickness benefit, or an invalid's benefit, (being, in each case, a benefit granted at a work-test married rate); or
+      (ii) both—
+        (A) is the spouse or partner of a person granted an emergency benefit at a work-tested married rate; and
+        (B) has under section 61A(1A) been required by the chief executive to comply with the work test; or
+      (iii) is—
+        (A) the spouse or partner of a person who is receiving long-term residential care in a hospital or rest home; and
+        (B) aged under 60 years; and
+        (C) in receipt of an invalid's benefit under section 42(2) or an emergency benefit under regulations under section 155
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (aa) the day observed as the anniversary of the appropriate province; and
-    (b) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
+    (b) a day in the period commencing on 25 December in any year and ending with 15 January in the following year
+  - **young parent payment** means a young parent payment payable under Part 5
+  - **youth payment** means a youth payment payable under Part 5
+  - **youth support payment** means a young parent payment or youth payment.
 (2) For the purposes of this Act, a person shall be deemed not to have attained a given age until the commencement of the relevant anniversary of the day of his birth.
 (2A)
 (3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
@@ -428,7 +446,7 @@ Every person exercising or performing a function, duty or power under this Act m
 (7)
 (8) In this section—
   - **law practitioner** means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which the law practitioner is, or is held out to be, a partner, director, or shareholder
-  - **trust account,** in relation to a law practitioner, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
+  - **trust account** , in relation to a law practitioner, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 11A Power to obtain information for matching purposes
 (1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer—that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) requiring that employer to provide the following information within a specified period:
@@ -494,6 +512,8 @@ Every person exercising or performing a function, duty or power under this Act m
   (a) an application form (provided by the chief executive for the purpose) completed by or on behalf of the applicant and his or her spouse or partner (if any) to the chief executive's satisfaction; and
   (b) any supporting evidence (for example, a medical certificate) reasonably required by the chief executive.
 (3) The form referred to in subsection (2)(a) does not have to refer to a benefit of any particular kind.
+(3A) If the chief executive considers that the appropriate benefit for an applicant is a youth support payment, he or she may require as supporting evidence under subsection (2)(b) evidence of the applicant's accommodation costs and service costs (within the meaning of section 157), debts, and other liabilities.
+(3B) Subsection (3A) does not limit the generality of subsection (2)(b).
 (4) The receipt by the department of a completed application form relating to a benefit of one kind is sufficient compliance with subsection (2)(a) to enable the granting of a benefit of another kind.
 (5) The chief executive—
   (a) may waive all or part of a requirement to provide information under this section if satisfied that the department—
@@ -559,9 +579,9 @@ The Authority shall have a seal, which shall be judicially noticed by all courts
 (1) The functions of the Appeal Authority shall be to sit as a judicial authority for the determination of appeals in accordance with section 12J of this Act and section 16A of the War Pensions Act 1954.
 (2) In hearing and determining any appeal, the Appeal Authority shall have all the powers, duties, functions, and discretions that the chief executive had in respect of the same matter.
 
-### 12J Right of appeal
+### 12J Rights of appeal
 (1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—that has been confirmed or varied by a benefits review committee under section 10A, or that was made by the chief executive other than pursuant to a delegation.
-  (a) any of the provisions of Part 1, Part 2, or Part 4; or
+  (a) any of the provisions of Part 1, Part 2, Part 4, or Part 5; or
   (b) section 124(1)(d); or
   (c) Part 1 of the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954; or
   (ca) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
@@ -691,7 +711,7 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
 
 ### 21 Widows' benefits
 (1) Subject to the provisions of this Act,—shall be entitled to receive a widow's benefit under this Act.
-  (a) every widow who is the mother of 1 or more dependent children; and
+  (a) every widow who is aged 19 years or over and is the mother of 1 or more dependent children; and
   (b) every widow (not being a widow to whom paragraph (a) applies) who satisfies the following conditions, namely:
     (i) that she has had 1 or more children; and
     (ii) that the duration of her marriage (or, if she was married more than once, the aggregate of the periods of the duration of her marriages) was not less than 15 years, or, in the alternative, that the aggregate of the periods of the duration of her marriage or marriages and any subsequent period during which she had the care and control of at least 1 of her children under 16 years of age was not less than 15 years; and
@@ -762,16 +782,14 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (c) a woman whose marriage or civil union has been dissolved, and who is the mother of 1 or more dependent children:
   (d)
   (e) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of imprisonment and is—
-    (i) serving the sentence in a penal institution; or
+    (i) serving the sentence in a prison; or
     (ii) subject to release conditions (as that term is defined in section 4(1) of the Parole Act 2002) that prevent him or her undertaking employment:
     (iii) serving the sentence on home detention, subject to detention conditions that prevent him or her undertaking employment:
   (ea) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of supervision, intensive supervision, or home detention and is subject to conditions (including post-detention conditions of a sentence of home detention) that prevent him or her from undertaking employment:
   (f) a man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother.
 (2) Subject to the provisions of this Act, an applicant shall be entitled to receive a domestic purposes benefit if the chief executive is satisfied that—
   (aa) the applicant meets the residential requirements in section 74AA; and
-  (a) the applicant either—
-    (i) is or has been legally married or in a civil union; or
-    (ii) has attained the age of 18 years; and
+  (a) the applicant is aged 19 years or over; and
   (b) the applicant is caring for a dependent child or children; and
   (c) the applicant is not living together with his or her spouse or partner or with the other parent of the child, as the case may be.
 (2A) A person who receives a benefit under this section must—
@@ -838,11 +856,13 @@ An applicant for a benefit under section 27C must meet the residential requireme
 
 ### 27G Domestic purposes benefits for care at home of the sick or infirm
 (1) In this section, patient means any sick or infirm person receiving the full-time care and attention of an applicant for a domestic purposes benefit.
-(2) Subject to the provisions of this Act, an applicant who has attained the age of 16 years and meets the residential requirements in section 74AA is entitled to receive a domestic purposes benefit under this section if the chief executive is satisfied that the applicant is required to give full-time care and attention at home to some other person (other than the applicant's spouse or partner) who would otherwise have to receive—
+(2) Subject to the provisions of this Act, an applicant who meets the residential requirements in section 74AA is entitled to receive a domestic purposes benefit under this section if the chief executive is satisfied that the applicant is required to give full-time care and attention at home to some other person (other than the applicant's spouse or partner) who would otherwise have to receive—
   (a) hospital care, rest home care, or residential disability care, within the meaning of the Health and Disability Services (Safety) Act 2001; or
   (b) care of the kind referred to in section 141 of the Children, Young Persons, and Their Families Act 1989; or
   (c) care of a kind equivalent to any of those kinds of care.
-(2A) An applicant aged 16 or 17 years must not be granted a domestic purposes benefit under this section unless the chief executive is satisfied, having regard to the circumstances of the applicant, the person he or she is giving care and attention to, and their families, that no other caregiver is reasonably available to care for the other person.
+(2A) An applicant must not be granted a domestic purposes benefit under this section unless,—
+  (a) in the case of an applicant without a dependent child, he or she is aged at least 18 years:
+  (b) in any other case, he or she is aged at least 19 years.
 (3) Every application for a domestic purposes benefit under this section shall be supported by the certificate of a medical practitioner certifying that the patient requires the full-time care and attention of the applicant and that but for that care and attention the patient would have to receive such services; and the chief executive may, in the chief executive's discretion, require that the patient be examined by a medical practitioner to be nominated by the chief executive for the purpose, who shall determine whether the patient would, but for the full-time care and attention of the applicant, have to receive such services.
 (4) Any benefit granted under this section may, in the discretion of the chief executive, be continued for any period not exceeding 4 weeks notwithstanding that the patient was not during that period in the full-time care of the beneficiary.
 (4A) It is a condition of a benefit under this section that the beneficiary shall attend and participate in a mandatory interview if requested to do so under section 60HA.
@@ -868,7 +888,7 @@ An applicant for a benefit under section 27C must meet the residential requireme
 ### 27L Director-General to give liable parent notice of grant of benefit
 [Repealed]
 
-### 27M Liable parent to notify Director General of gross earnings, etc
+### 27M Liable parent to notify Director General of total income, etc
 [Repealed]
 
 ### 27N Director-General to assess contribution and notify liable parent
@@ -981,7 +1001,7 @@ Every orphan's benefit and every unsupported child's benefit shall, as the chief
 ### 35 Period for which family benefit payable
 [Repealed]
 
-### 36 Advance payments of family benefit
+### 36 Advance payment of family benefit
 [Repealed]
 
 ### 37 Person to whom family benefit payable
@@ -1141,9 +1161,9 @@ In addition to the benefit computed as provided in section 42, there shall be pa
 (1) A person is entitled to a sickness benefit if he or she satisfies the criteria in subsections (2), (3), and (4), and—
   (a) is not in full-time employment, is willing to undertake it, but because of sickness, injury, or disability is limited in his or her capacity to seek, undertake, or be available for full-time employment; or
   (b) is in employment, but is losing earnings because, through sickness or injury, he or she is not actually working, or is working only at a reduced level.
-(2) An applicant for a sickness benefit must be—
-  (a) aged 18 years or over; or
-  (b) aged 16 years or over, be married or in a civil union or in a de facto relationship, and have 1 or more dependent children.
+(2) An applicant for a sickness benefit—
+  (a) must be aged at least 18 years, in the case of an applicant without a dependent child:
+  (b) must be aged at least 19 years, in any other case.
 (3) An applicant for a sickness benefit must meet the residential requirements in section 74AA.
 (4) An applicant for a sickness benefit must have—
   (a) no income; or
@@ -1159,9 +1179,7 @@ In addition to the benefit computed as provided in section 42, there shall be pa
   (a) the person is suffering hardship; and
   (b) the person is not qualified to receive any other benefit; and
   (c) the person is unable to earn sufficient income to support the person and his or her spouse or partner and any dependent children.
-(2) The chief executive may grant a sickness benefit under section 54 to a person who, if the person met the criteria in section 54(2), would be eligible under subsection (1) of this section to be granted a sickness benefit, but only if the person—
-  (a) is single and aged 16 or 17; and
-  (b) is either pregnant or undergoing treatment in a rehabilitation programme recognised by the chief executive.
+(2)
 
 ### 54B Sickness benefit: medical examinations
 (1) A person who applies for a sickness benefit must include in the application a certificate by—
@@ -1179,7 +1197,7 @@ In addition to the benefit computed as provided in section 42, there shall be pa
 ### 54C Sickness benefit: payment
 [Repealed]
 
-### 54D Rates of sickness benefits
+### 54D Rates of sickness benefit
 (1) A sickness benefit must be paid to a sickness beneficiary at the appropriate rate in Schedule 9.
 (2)
 (3) If no payment is made under this section in respect of the spouse or partner of a sickness beneficiary, the chief executive may increase the rate of sickness benefit payable to the beneficiary by an amount not exceeding the amount specified in clause 2 of Schedule 9 in respect of any person who for the time being has the care of the home of the beneficiary.
@@ -1277,90 +1295,31 @@ From the time that payment of the sickness benefit commences, the spouse or part
 [Repealed]
 
 ### 60F Independent youth benefits: basic qualifications
-(1) The basic qualifications for entitlement to an independent youth benefit are in subsection (2). The qualifications for a single person are in section 60FA. The qualifications for a person who is married or in a civil union or in a de facto relationship are in section 60FB.
-(2) The basic qualifications for entitlement to an independent youth benefit are that a person—
-  (a) is 16 years or 17 years; and
-  (b) is without a dependent child or dependent children; and
-  (c) meets the residential requirements in section 74AA; and
-  (d) is in one of the situations described in subsections (3) to (6).
-(3) The first situation is that the person—
-  (a) is unemployed (other than because of a strike either by the person or by fellow members of the same union at the same place of employment); and
-  (b) is capable of undertaking suitable employment and is willing to do so; and
-  (c)
-  (d) is not a full-time student.
-(4) The second situation is that the person—
-  (a) is unemployed (other than because of a strike either by the person or by fellow members of the same union at the same place of employment); and
-  (b) is enrolled in a full-time course of secondary instruction (but his or her entitlement may be affected by section 60FC(1)).
-(5) The third situation is that the person is engaged full-time in an educational course or employment-related training programme approved by the chief executive for the purposes of this section.
-(6) The fourth situation is that, because of sickness, injury, or disability, the person has a limited capacity for work.
+[Repealed]
 
 ### 60FA Independent youth benefits: single persons
-(1) A single person is entitled to an independent youth benefit if—
-  (a) section 60F(2) applies to him or her; and
-  (b) he or she is in the following situation, established to the satisfaction of the chief executive:
-    (i) he or she is not living with his or her parents; and
-    (ii) he or she is not being financially supported by his or her parents or any other person; and
-    (iii) he or she cannot reasonably be expected to be financially dependent on his or her parents or any other person for a reason described in subsection (2).
-(2) The reasons are—
-  (a) because there has been a breakdown in the person's relationship with his or her parents; or
-  (b) because the person's parents are absent and are unable to support the person financially; or
-  (ba) because the person has ceased to be subject to—
-    (i) an agreement made under section 140 of the Children, Young Persons, and Their Families Act 1989; or
-    (ii) an order under section 78, 101, or 283(n) of that Act; or
-    (iii) a sole guardianship order under section 110 of that Act; or
-  (c) any other good and sufficient reason.
-(3) In this section, parents—
-  (a) means the parents or guardian or other person who had the care of the person most recently before the person turned 16 years; but
-  (b) does not include the chief executive of the Department of Child, Youth and Family Services acting in his or her official capacity.
+[Repealed]
 
 ### 60FB Independent youth benefits: persons who are married, in civil union, or de facto relationship
-A person who is married, in a civil union, or in a de facto relationship is entitled to an independent youth benefit if section 60F(2) applies to him or her.
+[Repealed]
 
 ### 60FC Independent youth benefits: persons enrolled in full-time course of secondary instruction
-(1) A person enrolled in a full-time course of secondary instruction is not entitled to an independent youth benefit if—
-  (a) he or she has moved from his or her parents' home in order to better his or her educational prospects; and
-  (b) there is no breakdown in his or her relationship with his or her parents.
-(2) A person—continues to be entitled to receive the benefit until 31 December of the year in which he or she turns 18 years.
-  (a) entitled to receive an independent youth benefit; and
-  (b) enrolled in a full-time course of secondary instruction during the year in which he or she turns 18 years—
-(3) In this section, parents—
-  (a) means the parents or guardian or other person who had the care of the person most recently before he or she turned 16 years; but
-  (b) does not include the chief executive of the Department of Child, Youth and Family Services acting in his or her official capacity.
+[Repealed]
 
 ### 60FD Independent youth benefits: sickness, injury, or disability
-Section 54B(1) to (3) (which relate to the requirement to include a medical certificate with an application, and to submit to a medical examination if required to do so by the chief executive) apply to an applicant for, or a person granted, an independent youth benefit on the ground in section 60F(6), as if the references in those provisions to sickness benefit were references to independent youth benefit.
+[Repealed]
 
 ### 60G Rates of independent youth benefit
-The rate of independent youth benefit payable to any beneficiary shall be the appropriate rate specified in Schedule 26.
+[Repealed]
 
 ### 60GAA Period for which independent youth benefit payable
 [Repealed]
 
 ### 60GAB Independent youth benefits: obligations
-(1) A person granted an independent youth benefit is subject to the obligations set out in subsection (2) or (3) from the day on which the benefit is first paid.
-(2) Unless subsection (3) applies, the obligations are—
-  (a) when required by the chief executive, to participate, for at least 30 hours a week and not more than 40 hours a week, in any approved activities; or
-  (b) when required by the chief executive, to be available for, and take reasonable steps to obtain, full-time employment, to the satisfaction of the chief executive.
-(3) The obligations of a person granted an independent youth benefit on the grounds stated in section 60F(6) are to participate when required by the chief executive in at least 1 approved activity (being an educational, training, or developmental activity) for at least 3 hours a week.
-(4) A failure without good and sufficient reason to comply with obligations under this section is subject to sanctions, as provided in section 115A.
-(5) In this section—
-  - **approved activity** , in relation to a person, means—
-    (a) attending and participating in education or employment-related training; or
-    (b) taking reasonable steps to obtain suitable employment, including attending and participating in any interview for any opportunity of suitable employment to which the person is referred by the chief executive, and undertaking work-focused activities; or
-    (c) attending and participating in an activity (other than activity in the community) intended to develop the person's capabilities for employment, including a social rehabilitation programme; or
-    (d) attending and participating in skills training; or
-    (e) a combination of any of the activities described in paragraphs (a) to (d)
-  - **work-focused activity** means any of the following:
-    (a) attending and participating in an employment-related seminar provided by the department, or by any other person approved by the chief executive for the purpose:
-    (b) attending and participating in an interview for an opportunity of suitable employment to which the person concerned is referred by the chief executive:
-    (c) attending and participating in employment-related training approved by the chief executive for the purpose:
-    (d) attending and participating in an interview with an officer of the department:
-    (e) completing any self-assessment or planning required by the chief executive.
+[Repealed]
 
 ### 60GAC Department to explain obligations to beneficiaries
-The chief executive must take reasonable and appropriate steps to make every person granted an independent youth benefit aware, as soon as is practicable after the benefit is granted, of—
-  (a) his or her obligations under section 60GAB; and
-  (b) the consequences of failure to comply with the obligations and, in particular, the sanctions that may be imposed under section 115A.
+[Repealed]
 
 **Further conditions of benefits**
 
@@ -1463,14 +1422,14 @@ In sections 60P to 60Z, unless the context otherwise requires,—
   - **chief executive** includes—
     (a) an officer of the department acting under a delegation from the chief executive; and
     (b) a person authorised by the chief executive to act on behalf of the chief executive (except in sections 60U to 60Y)
-      - **employment plan** means a plan that—
-        (a) has goals to assist the beneficiary to move towards employment:
-        (b) sets out a plan of action designed to meet the goals referred to in paragraph (a), including the activities that will be undertaken by the beneficiary to facilitate the achievement of those goals:
-        (c) includes a statement of the information the department will provide to assist the beneficiary to do 1 or more of the following:
-          (i) achieve the goals referred to in paragraph (a):
-          (ii) improve his or her employment capabilities:
-          (iii) obtain employment:
-        (d) includes, if agreed to by the chief executive, a statement of the assistance that the department will provide to assist the beneficiary to do 1 or more of the things described in paragraph (c)(i) to (iii).
+  - **employment plan** means a plan that—
+    (a) has goals to assist the beneficiary to move towards employment:
+    (b) sets out a plan of action designed to meet the goals referred to in paragraph (a), including the activities that will be undertaken by the beneficiary to facilitate the achievement of those goals:
+    (c) includes a statement of the information the department will provide to assist the beneficiary to do 1 or more of the following:
+      (i) achieve the goals referred to in paragraph (a):
+      (ii) improve his or her employment capabilities:
+      (iii) obtain employment:
+    (d) includes, if agreed to by the chief executive, a statement of the assistance that the department will provide to assist the beneficiary to do 1 or more of the things described in paragraph (c)(i) to (iii).
 
 ### 60P Purpose of sections 60Q to 60Z
 The purpose of sections 60Q to 60Z is—
@@ -1540,7 +1499,7 @@ The purpose of sections 60Q to 60Z is—
     (i) undertaken the activities set out in that employment plan; or
     (ii) undertaken any other activities relevant to the goals set out in that employment plan; and
   (b) if the beneficiary has failed to undertake any or all of the activities set out in the employment plan, whether those activities were realistically achieveable during the period under consideration.
-(5A) When considering whether a beneficiary has demonstrated commitment to the goals in their employment plan, the chief executive must not have any regard to whether the beneficiary has failed or refused to undertake activity in the community
+(5A) When considering whether a beneficiary has demonstrated commitment to the goals in their employment plan, the chief executive must not have any regard to whether the beneficiary has failed or refused to undertake activity in the community.
 (6)
 
 ### 60T Department must explain rights and obligations in relation to employment plans
@@ -1628,9 +1587,9 @@ The chief executive must take reasonable and appropriate steps to make every ben
 (1) The chief executive may, in the chief executive's discretion and subject to such conditions as the chief executive thinks fit to impose, grant an emergency benefit under this Act on account of hardship to any person who satisfies the following conditions, namely:
   (a) that by reason of age, or of physical or mental disability, or of domestic circumstances, or for any other reason, he is unable to earn a sufficient livelihood for himself and his dependants (if any); and
   (b) that he is not qualified to be granted any benefit:
-  provided that the chief executive may at any time, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit:
-  provided also that, where the chief executive is of the opinion that a person applying for or in receipt of an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit should undergo a course of training in any occupation, or should submit himself for examination at any medical or psychological clinic, or should receive any medical or other treatment, or should undergo any course of training for the improvement of his physical or mental capacities, or should do any work required of him, or should take more adequate steps to secure suitable employment, the chief executive may, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit; and in any such case the grant or continuance of the emergency benefit may be made subject to the condition that he shall comply with the requirements of the chief executive in respect of any such matters.
-(1A) Where the chief executive is considering granting an emergency benefit on the grounds of hardship under subsection (1), the chief executive must first consider whether to grant a sickness benefit under section 54A or an unemployment benefit under section 90 .
+  provided that the chief executive may at any time, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit:
+  provided also that, where the chief executive is of the opinion that a person applying for or in receipt of an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit should undergo a course of training in any occupation, or should submit himself for examination at any medical or psychological clinic, or should receive any medical or other treatment, or should undergo any course of training for the improvement of his physical or mental capacities, or should do any work required of him, or should take more adequate steps to secure suitable employment, the chief executive may, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit; and in any such case the grant or continuance of the emergency benefit may be made subject to the condition that he shall comply with the requirements of the chief executive in respect of any such matters.
+(1A) Where the chief executive is considering granting an emergency benefit on the grounds of hardship under subsection (1), the chief executive must first consider whether to grant a sickness benefit under section 54A or an unemployment benefit under section 90 or a youth payment under section 161 or a young parent payment under section 167.
 (2) The rate of the emergency benefit shall, in each case, be in the discretion of the chief executive, but, except in any case where the beneficiary is receiving medical or other treatment, shall not exceed the rate to which the beneficiary would be entitled if he were qualified to receive such other benefit as in the opinion of the chief executive is analogous to the emergency benefit.
 (3) Every emergency benefit shall commence on such date and shall be continued for such period and subject to such conditions as the chief executive in each case determines.
 
@@ -1650,7 +1609,7 @@ The chief executive must take reasonable and appropriate steps to make every ben
 ### 61B Special provisions in respect of child supplements
 [Repealed]
 
-### 61C Special provisions in respect of inadequate maintenance
+### 61C Special powers of chief executive in respect of maintenance
 In respect of any period in which a benefit is payable, any officer of the department, without special appointment, may, as if he or she were the beneficiary, institute or appear personally or by agent in any proceedings under the Family Proceedings Act 1980 or the Child Support Act 1991 for or relating to—
   (a) the maintenance of the beneficiary; or
   (b) the payment of child support for any child of that beneficiary; or
@@ -1801,7 +1760,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
     (c) in relation to a person who is a boarder or lodger in any premises, 62% of the amount paid for board or lodging (excluding any arrears):
       provided that, where a person is a joint tenant or owner in common of any premises with another person or other persons living in the premises, that applicant's accommodation costs shall be the share of the total accommodation costs of the premises that the chief executive is satisfied the person is paying
   - **beneficiary** means any person who is being paid—
-    (a) an unemployment benefit or a sickness benefit, a widow's benefit, a domestic purposes benefit, an invalid's benefit, an independent youth benefit, or an emergency benefit; or
+    (a) an unemployment benefit or a sickness benefit, a widow's benefit, a domestic purposes benefit, an invalid's benefit, a youth payment, a young parent payment, or an emergency benefit; or
     (b) New Zealand superannuation or a veteran's pension
   - **cash assets** —
     (a) means—
@@ -1942,7 +1901,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 **Alteration of rates of benefits**
 
 ### 61H Rates of benefits, etc, may be increased by Order in Council
-(1) The Governor-General may from time to time, by Order in Council,—by increasing the amount of any benefit, allowance, lump sum payment, subsidy rate, maximum amount of supplements, asset limit, income limit, income exemption, maximum amount of advance, cash assets test, benefit stand down income test, or annual or weekly income test (but not the rate of diminution of any benefit or allowance) set out in those sections and those schedules, and by decreasing the amount of any average regional rental.
+(1) The Governor-General may from time to time, by Order in Council,—by increasing the amount of any benefit, allowance, lump sum payment, subsidy rate, maximum amount of any component, maximum amount of supplements, asset limit, income limit, income exemption, maximum amount of advance, cash assets test, benefit stand down income test, or annual or weekly income test (but not the rate of diminution of any benefit or allowance) set out in those sections and those schedules, and by decreasing the amount of any average regional rental.
   (a) amend sections 61DB, 61DC, 61DD, 61EC, and 125; and
   (aa) amend section 69C(1)(c); and
   (b) amend the definitions, in section 3(1), of the terms Income Test 1, Income Test 2, Income Test 3, and Income Test 4; and
@@ -1959,7 +1918,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 
 ### 61HA Annual CPI adjustment of rates of certain benefits
 (1) In this section, CPI means the consumers price index-all groups published by Statistics New Zealand.
-(2) The rates of benefits set out in Schedules 3, 4, 6, 9, 16, 17, and 26, and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(2) The rates of benefits set out in Schedules 3, 4, 6, 9, 16, 17, and 26 (other than any rate of incentive payment), and in clause 1 of Schedule 22 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
@@ -2056,7 +2015,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 
 ### 69C Disability allowance
 (1) Subject to subsections (2) to (4), the chief executive may, in the chief executive's discretion, grant a disability allowance at a rate not exceeding the amount specified in Schedule 19, to or on account of—
-  (a) any person who is in receipt of an invalid's benefit, a widow's benefit, a domestic purposes benefit, an unemployment benefit or a sickness benefit, or an independent youth benefit, or a related emergency benefit payable under section 61; or
+  (a) any person who is in receipt of an invalid's benefit, a widow's benefit, a domestic purposes benefit, an unemployment benefit or a sickness benefit, a youth payment, or a young parent payment, or a related emergency benefit payable under section 61; or
   (b)
   (c) any person whose income, including the income of the person's spouse or partner and any New Zealand superannuation or veteran's pension payable to the person or the person's spouse or partner, is less than the appropriate amount in Part 3 of Schedule 31; or
   (d) the dependent spouse or partner or dependent child of any person referred to in paragraphs (a) to (c).
@@ -2075,7 +2034,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
     (ii) the person's accommodation costs (as defined in section 61E) or care (other than care in his or her own home) is wholly or partly funded under the New Zealand Public Health and Disability Act 2000.
 (2C) For the avoidance of doubt, nothing in paragraph (b) of subsection (2B) prevents the payment of a disability allowance to a person to whom that paragraph applies for expenses that are not costs of residential care services supplied to that person.
 (3) Before a disability allowance is granted under this section, the chief executive may require the applicant, or the spouse or partner or child of the applicant, as the case may require, to be examined by a medical practitioner nominated by the chief executive for the purpose.
-(4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a war disablement pension under the War Pensions Act 1954, or an entitlement under the Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
+(4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a war disablement pension under the War Pensions Act 1954, or an entitlement under the Accident Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
 (5) Notwithstanding anything in this section but subject to section 68A, if—the chief executive shall grant a special disability allowance at the rate specified in Schedule 19 to the recipient for the purpose of defraying expenses arising from the hospitalisation of the spouse or partner.
   (a) a person who is married or in a civil union or in a de facto relationship (the recipient) is in receipt of New Zealand superannuation or a veteran's pension, or of an invalid's benefit, or an unemployment benefit or a sickness benefit, or a related emergency benefit; and
   (b) the recipient's spouse or partner is either—
@@ -2221,6 +2180,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
     (iiia)
     (iv) a sickness benefit; or
     (v) an unemployment benefit; or
+    (va) a young parent payment; or
     (va)
     (vi) an emergency benefit granted, on an application made after 31 July 1991, under section 61; and
   (c) who, in respect of any dependent child in the care of the beneficiary, fails or refuses—
@@ -2280,14 +2240,14 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 
 ### 72 Limitation where applicant receiving another benefit or war pension
 Notwithstanding anything to the contrary in this Act,—
-  (a) no person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA,, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
+  (a) no person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
   (b) no person who is granted a pension or allowance under the War Pensions Act 1954 or in respect of whom such a pension or allowance is payable, other than—shall be granted any benefit:
     (i) a pension or allowance granted to that person by reason of his own disablement; or
     (ia) a pension or payment granted under Part 6 of that Act; or
     (ii) a pension or a mother's allowance granted to that person as the widow of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine; or
     (iii) an allowance in respect of services rendered as an attendant on a disabled member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine,—
     provided also that, if a mother's allowance is payable to a widow under the War Pensions Act 1954, the rate of benefit shall not exceed the benefit that could be paid to that widow if she had no dependent child or children:
-    provided further that any person may receive an invalid's benefit or a sickness benefit, or an independent youth benefit on the ground specified in section 60F(6), or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
+    provided further that any person may receive an invalid's benefit or a sickness benefit, or a youth payment or young parent payment granted pursuant to section 158(2)(c)(ii) or 164(2)(c)(ii) to a person who qualifies for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a) on the ground of his or her sickness, injury, or disability or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
   (c) where any part of a benefit is payable in respect of the spouse or partner of an applicant, that part shall not be paid for any period when a personal benefit is payable in respect of the spouse or partner.
 
 ### 73 Limitation where applicant entitled to claim under Family Protection Act 1955
@@ -2315,7 +2275,7 @@ Notwithstanding anything to the contrary in this Act,—
 (1A) Subsection (1) does not apply to a person at a time when—
   (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
   (b) he or she is ordinarily resident in that country.
-(2) The benefits referred to in subsection (1) are a domestic purposes benefit, an independent youth benefit, an invalid's benefit, a sickness benefit, an unemployment benefit, and a widow's benefit.
+(2) The benefits referred to in subsection (1) are a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, an unemployment benefit, and a widow's benefit.
 
 ### 74A Persons unlawfully resident or present in New Zealand
 (1) A person is not entitled to receive a benefit who is—
@@ -2366,8 +2326,8 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
 
 ### 77 Effect of absence of beneficiary from New Zealand
 (1) Except as provided in this section or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990 or in sections 21 to 35 of the New Zealand Superannuation and Retirement Income Act 2001 or in sections 74E to 74T of the War Pensions Act 1954, a benefit is not payable while a beneficiary is absent from New Zealand.
-(2) A benefit (other than an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or an independent youth benefit) that would otherwise be payable to a beneficiary shall be payable in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied that the absence does not affect the beneficiary's eligibility for the benefit.
-(3) The chief executive may, in the chief executive's discretion, pay an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or an independent youth benefit that would otherwise be payable to a beneficiary in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied—
+(2) A benefit (other than an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or a youth payment or young parent payment) that would otherwise be payable to a beneficiary shall be payable in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied that the absence does not affect the beneficiary's eligibility for the benefit.
+(3) The chief executive may, in the chief executive's discretion, pay an unemployment benefit or a sickness benefit, an emergency benefit, or an invalid's benefit, for a work-tested beneficiary, or a youth payment or young parent payment that would otherwise be payable to a beneficiary in respect of the first 4 weeks of any absence from New Zealand if the chief executive is satisfied—
   (a) that the requirements set out in subsection (2) have been met; or
   (b) that for humanitarian reasons the beneficiary is required to be absent from New Zealand.
 (3A) The chief executive may, in the chief executive's discretion, pay an invalid's benefit for a period (not exceeding 6 weeks) in which a beneficiary (not being a work-tested spouse or partner of an invalid's beneficiary) is absent from New Zealand, where the chief executive is satisfied that the beneficiary would, but for his or her absence from New Zealand, continue to be eligible for the invalid's benefit.
@@ -2394,7 +2354,7 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (a) the date the applicant became entitled to receive it; or
   (b) the date the application for it was received.
 (2) A benefit is subject to a stand down, and commences on a date calculated in accordance with section 80BA, if—
-  (a) the benefit is a work-tested benefit or an independent youth benefit (other than an independent youth benefit granted to a person undertaking employment-related training or who is enrolled in a course of secondary instruction) and the applicant is not subject to a non-entitlement period; or
+  (a) the benefit is a work-tested benefit or a youth payment or a young parent payment (other than a youth payment or a young parent payment granted to a person undertaking employment-related training or who is enrolled in a course of secondary instruction) and the applicant is not subject to a non-entitlement period; or
   (b) the benefit is a widow's benefit, a domestic purposes benefit, a sickness benefit, or an invalid's benefit.
 (3) Subsection (2) is subject to subsections (5) to (10) (which relate to exemptions from the benefit stand down).
 (4) If the applicant is subject to a non-entitlement period,—
@@ -2405,8 +2365,8 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
     (i) the date the applicant became entitled to receive it; or
     (ii) the date the application for it was received.
 (5) A benefit shall commence on the latest of the date the person became entitled to receive it, or the day after the date the person's employment ceased, or the date the application for it was received, if—
-  (a) the benefit is an unemployment benefit and the person is participating in a training course approved by the chief executive; or
-  (b) the benefit is a domestic purposes benefit, an independent youth benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit applied for by a person who has entered a refuge following the breakdown of the person's marriage, civil union, or de facto relationship; or
+  (a) the benefit is an unemployment benefit, a youth payment, or a young parent payment and the person is participating in a training course approved by the chief executive; or
+  (b) the benefit is a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, or an unemployment benefit applied for by a person who has entered a refuge following the breakdown of the person's marriage, civil union, or de facto relationship; or
   (c) the benefit is a sickness benefit, and the applicant—
     (i) is suffering from a chronic illness; and
     (ii) has applied for a sickness benefit, or a community wage on the grounds of sickness, injury, or disability, for that illness on a prior occasion; or
@@ -2435,7 +2395,7 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (a) the person has become eligible for the benefit while receiving another benefit; and
   (b) the benefit is granted instead of that other benefit.
 (14) A disability allowance shall commence on the same day that a benefit commences if that allowance was applied for at the same time as the benefit and the benefit is—
-  (a) a widow's benefit, a domestic purposes benefit, or a sickness benefit; or
+  (a) a widow's benefit, a domestic purposes benefit, a young parent payment, or a sickness benefit; or
   (b) an invalid's benefit.
 
 ### 80AA Minister may allow back-dating of benefit where earlier failure to grant it based on error
@@ -2478,12 +2438,13 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
       (v) a sickness benefit:
       (vi) an unemployment benefit:
       (vii)
-      (viii) an independent youth benefit;
+      (viii)
       (ix) an emergency benefit;
       (x)
       (xi) an accommodation supplement under section 61EA;
       (xii)
       (xiii)
+    (ab) the amount of any youth payment or young parent payment received by the person:
     (b) the amount of any tax withheld or deducted for any of those benefits under section RD 11(3) of the Income Tax Act 2007
   - **redundancy payment** means a payment (before the deduction of income tax) made in relation to the termination of a person's employment if—but does not include—
     (a) the main reason for the termination is that the person's position is or will be superfluous to the employer's needs, and the person is not a seasonal worker; or
@@ -2527,7 +2488,7 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
     (i) the day on which the stand down period ends; or
     (ii) the day on which the application for the benefit is received:
   (b) a benefit—commences on the day on which the stand down period ends.
-    (i) that is a widow's benefit, a domestic purposes benefit, an invalid's benefit, or a sickness benefit; and
+    (i) that is a widow's benefit, a domestic purposes benefit, an invalid's benefit, a youth payment, a young parent payment or a sickness benefit; and
     (ii) for which the application is received within 28 days after the date on which the person becomes entitled to the benefit—
 (5) This section is subject to section 80BB (which relates to delayed redundancy and retirement payments) and section 80BC (which relates to seasonal workers made redundant after a seasonal lay-off).
 
@@ -2555,7 +2516,7 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
   (a) a date no earlier than the pay day before the date on which entitlement to the benefit ceased; and
   (b) a date no later than the pay day after that date.
 (2) The general provision in subsection (1) is subject to subsections (3) to (7).
-(3) Subsection (4) applies to a person receiving New Zealand superannuation, a veteran's pension, a widow's, domestic purposes, invalid's, or independent youth benefit, or an unemployment benefit or a sickness benefit, or a related emergency benefit.
+(3) Subsection (4) applies to a person receiving New Zealand superannuation, a veteran's pension, a widow's, domestic purposes, invalid's, or youth payment, or young parent payment, or an unemployment benefit or a sickness benefit, or a related emergency benefit.
 (4) If a person referred to in subsection (3) dies, the benefit ends 4 weeks following the death if—
   (a) the person leaves a spouse or partner or a child; and
   (b) the spouse or partner or child are not entitled to a lump sum payment under section 56 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 444 of the Accident Insurance Act 1998 or section 382 of the Accident Compensation Act 2001.
@@ -2570,11 +2531,11 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
   (a) on the date the child ceases to be entitled to the benefit; or
   (b) on a date set by the chief executive (being a date no later than 4 weeks after the date the child ceases to be entitled to the benefit).
 
-### 80C Effect of sections 60H to 60M and section 80BA on entitlement to supplementary benefits and on spouses or partners
+### 80C Effect of work test on entitlement to supplementary benefits and on spouses or partners
 (1) A person is not entitled to receive an emergency benefit under section 61, or an accommodation supplement under section 61EA, or temporary additional support under section 61G or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004, while—
   (a) the person is subject to a non-entitlement period; or
   (b) the person is subject to a stand down under section 80BA; or
-  (c) the person is subject to a sanction of suspension of 100% of a benefit under section 117.
+  (c) the person is subject to a sanction of suspension of 100% of a benefit under section 117, 173, or 174.
 (1A) Notwithstanding subsection (1)(b), if the applicant was receiving an accommodation supplement pursuant to section 61EA immediately before applying for a benefit, the accommodation supplement shall continue at the same rate for the period of non-entitlement.
 (2) The spouse or partner of a person who is not entitled to a benefit due to the application of section 80BA shall not be entitled to receive any benefit to which his or her spouse or partner is not entitled.
 
@@ -2596,7 +2557,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 ### 82 Payment of benefits
 (1) Every benefit shall be payable by instalments of such number of weeks' benefit on such day or date or such days or dates in the month as the chief executive from time to time determines.
 (2) The amount of a weekly instalment of a benefit that is payable at an annual rate shall be ascertained by dividing the annual rate by 52.
-(2A) The following benefits are paid in respect of a 7-day week: a domestic purposes benefit, an independent youth benefit, an invalid's benefit, a sickness benefit, an emergency benefit, an unemployment benefit, and a widow's benefit.
+(2A) The following benefits are paid in respect of a 7-day week: a domestic purposes benefit, a youth payment, a young parent payment, an invalid's benefit, a sickness benefit, an emergency benefit, an unemployment benefit, and a widow's benefit.
 (3) Except as otherwise provided in this Act, every instalment of a benefit shall be paid to or on account of the beneficiary personally:
   provided that for good cause the chief executive may, in the chief executive's discretion, direct that payment of the whole or any part of an instalment, or any number of instalments, be paid—
     (a) to or on account of some other person authorised by the beneficiary or, in the case of a beneficiary who lacks sufficient capacity in law, to any person appointed by the chief executive for the purpose of receiving it; or
@@ -2613,6 +2574,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
   (b) the applicant or the applicant's spouse or partner has failed to take all necessary steps to obtain any assistance towards his or her costs from any other source from which he or she may be entitled to assistance; or
   (c) the applicant or the applicant's spouse or partner has failed to comply with any requirement of the chief executive to undertake a budgeting activity under subsection (6B).
 (6D) If this subsection applies, the chief executive may refuse to make an advance payment of a benefit under subsection (6), or any subsequent advance payment of a benefit, to or in respect of the applicant.
+(6E) Subsections (6B) to (6D) do not apply to the advance payment of a youth support payment, or to the advance payment of any other benefit payable to a person receiving a youth support payment.
 (7) Unless the chief executive in any particular case otherwise determines, it shall be a condition of every benefit that the applicant or beneficiary shall—and every instalment of the benefit may be paid by the chief executive into such account or in respect of such membership, as the case may be.
   (a) supply the department with particulars of an existing account held by the applicant or beneficiary with—
     (i) the Post Office Bank Limited, a private savings bank, a trustee savings bank, or the Public Service Investment Society Limited; or
@@ -2620,6 +2582,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (iii) any other registered bank or a building society (being a registered bank or a building society approved for the purposes of this subsection by the Minister after consultation with the Minister of Finance); or
   (b) open such an account, if one is not held, and supply the department with particulars of the account; or
   (c) supply the department with particulars of a current membership held by the applicant or beneficiary with a credit union registered under Part 3 of the Friendly Societies and Credit Unions Act 1982 (being a credit union approved for the purposes of this subsection by the Minister after consultation with the Minister of Finance)—
+(8) This section is subject to section 179.
 
 ### 82A Duty to supply tax file number and consequence of failure to do so
 (1) The chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may in writing request an applicant for a benefit or a beneficiary to provide evidence, to the satisfaction of the chief executive, of the tax file number of the applicant or beneficiary.
@@ -2629,8 +2592,11 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 (5) In this section, tax file number has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 ### 83 Apportionment of benefit between spouses or partners
-(1) Subject to subsection (2), where any person is entitled to a benefit at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, 50% of that benefit and any other benefit payable under this Act shall be paid to the person so entitled and 50% shall be paid to the spouse or partner or other person who qualifies the beneficiary to be paid at that rate.
+(1) Subject to subsections (2) and (2A), where any person is entitled to a benefit at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, 50% of that benefit and any other benefit payable under this Act shall be paid to the person so entitled and 50% shall be paid to the spouse or partner or other person who qualifies the beneficiary to be paid at that rate.
 (2) Subject to section 12(2) of the New Zealand Superannuation and Retirement Income Act 2001, in any case where the chief executive determines that it would not be appropriate for any benefit to be paid as provided in subsection (1), the whole of the benefit may be paid to the person entitled to the benefit or the benefit may be allocated in such proportions as the chief executive determines between the beneficiary and the spouse or partner or other person who qualifies the beneficiary to be paid at the rate referred to in subsection (1).
+(2A) Nothing in this section applies to—
+  (a) a rate of youth payment or young parent payment; or
+  (b) the rate of any benefit (other than a youth payment or young parent payment) payable to a person receiving a youth payment or young parent payment.
 (3) In any case where a benefit is apportioned under subsection (1) or subsection (2), the proportion of the benefit paid to each person shall be deemed for the purposes of the Income Tax Act 2007 to be the income of the person to whom it is paid.
 
 ### 83A Tax on benefits
@@ -2658,7 +2624,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (e) section RD 11(3) of the Income Tax Act 2007.
 
 ### 84 Benefits to be inalienable
-(1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964, or the Child Support Act 1991 or the Student Loan Scheme Act 2011 and of section 82 of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
+(1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964 or the Child Support Act 1991 or the Student Loan Scheme Act 2011 and of section 82 or 179(5) of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
 (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $100, who demands or accepts from any beneficiary any benefit order or any acknowledgment or undertaking where that demand, acceptance, acknowledgment, or undertaking would constitute a legal or an equitable assignment of or a charge upon any benefit if the benefit were capable of being legally assigned or charged.
 (3)
 
@@ -2730,7 +2696,7 @@ The following payments or other sums are debts due to the Crown:
   (b) does not include the simple act of making a payment to which the recipient is not entitled if that act is not caused, wholly or partly, by any erroneous act or omission of an officer of the department.
 (10)
 
-### 86A Deduction of benefit debts
+### 86A Deduction notices for debt
 (1) Where any amount of money may be recovered from any person as a debt due to the Crown under this Act (including, subject to section 86(2B), any penalty under section 86(2)) is not paid by the expiration of the tenth day after the day on which notice of the debt is delivered or posted to that person (whether or not the notice is received by that person), the chief executive may issue, in writing, a deduction notice requiring any other person to deduct the amount due from any sum that is payable or becomes payable, until the deduction notice is revoked, by that other person whether—to the person from whom that money may be recovered as a debt due to the Crown (in this section and in sections 86C to 86I referred to as the debtor).
   (a) on his or her or its own account; or
   (b) as an agent; or
@@ -2857,9 +2823,9 @@ In this Part, unless the context otherwise requires,—
     (iv) has taken reasonable steps to find it; or
   (b)
   (c)
-(2) An applicant for an unemployment benefit must be—
-  (a) aged 18 years or over; or
-  (b) aged 16 years or over, be married or in a civil union or in a de facto relationship, and have 1 or more dependent children.
+(2) An applicant for an unemployment benefit—
+  (a) must be aged at least 18 years, in the case of an applicant without a dependent child:
+  (b) must be aged at least 19 years, in any other case.
 (3) An applicant for an unemployment benefit must meet the residential requirements in section 74AA.
 (4) An applicant for an unemployment benefit must have—
   (a) no income; or
@@ -2874,7 +2840,7 @@ In this Part, unless the context otherwise requires,—
   (c) the person is unable to earn sufficient income to support the person and his or her spouse or partner and any dependent children.
 (2) Despite section 91, the chief executive may, during the period between the end of one academic year and the start of the next, grant an unemployment benefit under section 89 to a full-time student.
 (3) Despite section 91, the chief executive may, during the period between the end of one academic year and the start of the next, grant an unemployment benefit under section 89 to a full-time student who is aged 16 or 17 if the chief executive is satisfied that—
-  (a) section 60FA(1)(b) applies to the student; or
+  (a) any of paragraphs (a) to (d) of section 159(2) applies to the student; or
   (b) the student is married or in a civil union or in a de facto relationship.
 
 ### 91 Unemployment benefit: ineligibility
@@ -3089,14 +3055,14 @@ The purpose of sections 102 to 123D is—
   (c) if, in granting the deferral, the chief executive required the person to participate in 1 or more organised activities, that requirement continues to apply as if the organised activities were job seeker development activities.
 
 ### 105 Exemption from obligations
-(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations or from complying with section 60HA.
+(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations or obligations under section 170 or 171 or from complying with section 60HA.
 (2) The chief executive may grant the exemption on any ground specified in regulations made for the purpose under section 123D.
 (3) Before determining the application, the chief executive may require verification of matters relevant to the application in such manner as the chief executive specifies, either generally or specifically.
 (4) An exemption under this section may be granted—
   (a) for a time set by the chief executive; or
   (b) on conditions set by the chief executive; or
   (c) for both a time and on conditions set by the chief executive.
-(5) A beneficiary who has been granted an exemption from all of his or her work test obligations may be required to attend an interview with an officer of the department or other person on behalf of the chief executive. Failure to attend or participate in the interview may result in sanctions under section 117 being imposed.
+(5) A beneficiary who has been granted an exemption from all of his or her work test obligations or obligations under section 170 or 171 may be required to attend an interview with an officer of the department or other person on behalf of the chief executive. Failure to attend or participate in the interview may result in sanctions under section 117 or (as the case requires) section 173 or 174 being imposed.
 (5A) A person granted an exemption must notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the exemption.
 (6) The chief executive may from time to time review an exemption granted under this section, and may extend, vary, or revoke it.
 (7) The chief executive may grant an exemption under this section whether or not a formal application is made by or on behalf of the person to whom it relates.
@@ -3115,7 +3081,7 @@ The chief executive must take reasonable and appropriate steps to make every wor
   (b)
   (c) the consequences of failure to comply with the work test and, in particular, the sanctions that may be imposed under section 117; and
   (d)
-  (e) the beneficiary's rights under sections 10A and 12J to review and appeal decisions relating to his or her work test obligatiions.
+  (e) the beneficiary's rights under sections 10A and 12J to review and appeal decisions relating to his or her work test obligations.
 
 ### 105D Job seeker contracts to have effect as job seeker agreements
 [Repealed]
@@ -3149,6 +3115,8 @@ The chief executive must take reasonable and appropriate steps to make every wor
   (b) there are no job seeker development activities or other activities specified in the agreement that would be more suitable for the beneficiary to undertake.
 (4) If a beneficiary's job seeker agreement specifies other assistance that the department will give the beneficiary, then the chief executive must provide that specified assistance, subject to any conditions set out in the job seeker agreement.
 (5) This section applies only in respect of a beneficiary to whom section 102A(1)(h) for the time being applies.
+
+**Obligation to accept offer of employment**
 
 ### 112 Organised activities to have effect as job seeker development activities
 [Repealed]
@@ -3189,13 +3157,13 @@ A notice may be given under section 113 to a person—
 (7) Section 60H(6) and (7) applies to subsections (5) and (6), with all necessary modifications.
 
 ### 115A Failure to comply with obligations under section 60GAB
-The sanctions stated in section 117 must be imposed on a person who is required to comply with an obligation under section 60GAB if the chief executive considers that the person has, without a good and sufficient reason, failed to comply with it.
+[Repealed]
 
 ### 116 Failure to participate in activity under section 60HA
 [Repealed]
 
 ### 117 Sanctions that may be imposed for failures
-(1) The sanctions that the chief executive must apply in respect of failures under section 115 or section 115A are,—
+(1) The sanctions that the chief executive must apply in respect of failures under section 115 are,—
   (a) for a first failure,—
     (i) the person's benefit must be reduced by 50% until the person recomplies; and
     (ii) if the person has not recomplied within 4 weeks after the date on which the reduction took effect, the person's benefit must be reduced by a further 50% (so that the total reduction is 100%) until the person recomplies:
@@ -3217,7 +3185,7 @@ The sanctions stated in section 117 must be imposed on a person who is required 
   (b) may not count any failure if—
     (i) it is not of a kind to which that particular section applies; or
     (ii) it occurred more than 12 months before the failure for which the calculation is made if, during that period, that beneficiary has not incurred a failure to which any of those sections applies.
-(2) For the purpose of subsection (1)(b)(ii), a failure under section 115 or section 115A is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
+(2) For the purpose of subsection (1)(b)(ii), a failure under section 115 is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
 (3) In determining whether a benefit has been continuously paid in respect of the beneficiary, the chief executive must disregard any period during which the benefit was cancelled or suspended because the beneficiary commenced in employment that continued for less than 10 working days.
 (3A) For the purpose of subsection (1)(a), the chief executive must treat an unemployment benefit that expires under section 99AA, and an unemployment benefit re-granted to the beneficiary under section 99AB, as the same benefit.
 (4) Nothing in subsection (1)(b)(ii) affects the implementation, after the 12-month period, of a sanction based on any prior calculation of the number of failures by a person to comply with the appropriate work test obligation or other obligation imposed by this Act.
@@ -3246,17 +3214,17 @@ Where under section 60H or section 117 the payment of a benefit of a person who 
 **General provisions**
 
 ### 122 Meaning of recompliance
-In relation to a failure under section 115 or section 115A, a person recomplies (for the purpose of section 117) if the person remedies the relevant failure or, if it is not possible to remedy the failure, the person undertakes to the satisfaction of the chief executive,—
+In relation to a failure under section 115, a person recomplies (for the purpose of section 117) if the person remedies the relevant failure or, if it is not possible to remedy the failure, the person undertakes to the satisfaction of the chief executive,—
   (a) in the case of a work-tested beneficiary, an activity that is the same as, or substantially similar to, the activity that the person failed to comply with under the applicable work test obligation; or
-  (b) in any other case, some other activity of the kind specified in section 60GAB(5) and approved by the chief executive.
+  (b)
 
-### 123 Effect of ceasing to be subject to obligation to comply with section 60HA or obligations under section 60GAB or work test
+### 123 Effect of ceasing to be subject to obligation to comply with section 60HA or work test or section 170 or 171
 (1) This section applies to a person—
-  (a) whose benefit has been suspended, or who is not entitled to a benefit for 13 weeks, under section 60H or section 117; and
+  (a) whose benefit has been suspended, or who is not entitled to a benefit for 13 weeks, under section 60H or section 117 or section 173 or 174; and
   (b) who either—
     (i) ceases to be a work-tested beneficiary (other than because of the imposition of that suspension or 13-week period); or
-    (ia) ceases to be a beneficiary who is required to comply with a request under section 60HA or obligations under section 60GAB (other than because of the imposition of that suspension or 13-week period); or
-    (ii) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA.
+    (ia) ceases to be a beneficiary who is required to comply with a request under section 60HA or obligations under section 170 or 171 (other than because of the imposition of that suspension or 13-week period); or
+    (ii) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA or section 170 or 171.
 (2) From the date the chief executive decides he or she is satisfied this section applies to a person,—
   (a) the period of suspension of the benefit ends; or
   (b) the person is no longer subject to the 13-week period and that period lapses.
@@ -3271,7 +3239,7 @@ In relation to a failure under section 115 or section 115A, a person recomplies 
 
 ### 123B Effect of participation in certain activities on non-entitlement period
 (1) This section applies to a person who—
-  (a) is subject to a 13-week period of non-entitlement under section 60H or section 117; and
+  (a) is subject to a 13-week period of non-entitlement under section 60H or section 117 or section 173 or 174; and
   (b) is participating in 1 or more approved activities, which are any of the following approved by the chief executive for the purpose:
     (i) activities of the kind referred to in section 102A(1)(f):
     (ii) recognised community activities:
@@ -3282,21 +3250,21 @@ In relation to a failure under section 115 or section 115A, a person recomplies 
 (3) Despite subsection (2)(b), if the person applies for a benefit, the chief executive must grant the person a benefit during the person's satisfactory participation in the approved activity or activities.
 (4) Payment of a benefit granted under subsection (3) is subject to the condition that the person is liable to repay the whole of any amount paid during the non-entitlement period if he or she fails to complete a continuous period of 6 weeks of satisfactory participation in an approved activity or activities, or fails to continue satisfactory participation until the end of the non-entitlement period (whichever is earlier).
 (5) No obligation to repay under subsection (4) arises if the reason for the person's failure is that he or she—
-  (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with a request under section 60HA or obligations under section 60GAB; or
-  (b) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA.
+  (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with a request under section 60HA or obligations under section 170 or 171; or
+  (b) obtains, under section 105, an exemption from the work test or an exemption from complying with section 60HA or section 170 or 171.
 (6) If the person is still entitled to the benefit at the end of the period of satisfactory participation or non-entitlement (as the case may be), payment of the benefit is no longer subject to the condition in subsection (4).
 (7) Any amount the person is liable to repay under this section may be recovered by the chief executive under section 86(1).
 
 ### 123C Application of Health and Safety in Employment Act 1992 and Human Rights Act 1993
 (1) In this section, person A is a person—
   (a) who, in accordance with his or her work test obligations or under section 122 or section 123B, is doing work as part of a job search activity; or
-  (b) who is a beneficiary and, in accordance with an employment plan or a requirement under section 60GAB or otherwise, is doing work as part of an employment-related activity or activity in the community arranged by the department.
+  (b) who is a beneficiary and, in accordance with an employment plan or otherwise, is doing work as part of an employment-related activity or activity in the community arranged by the department.
 (2) The Health and Safety in Employment Act 1992 and the Human Rights Act 1993 apply to person A and the person providing the work that person A is doing, as if person A were the employee of the person providing the work.
 (3) Except as provided in subsection (2), nothing in this Part creates or implies an employment relationship between person A and the person providing the work.
 
 ### 123D Regulations
 Without limiting the general power to make regulations conferred by section 132, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations or the obligation to comply with section 60HA and specifying the grounds on which exemptions may be granted for each of those categories.
+  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations or obligations under section 170 or 171 or the obligation to comply with section 60HA and specifying the grounds on which exemptions may be granted for each of those categories.
   (b)
   (c)
 
@@ -3400,8 +3368,64 @@ The chief executive may do either or both of the following things:
 (2) The contract must be in writing.
 (3) Subsection (1) does not limit section 125A.
 
+### 125C Release of personal information to and by contracted service provider
+(1) The purpose of this section is—
+  (a) to authorise the department and any contracted service provider to disclose to each other relevant personal information about young persons to whom the provider's contract under section 125A applies; and
+  (b) to assist the department to exercise and perform powers and functions under Part 5 and section 123E(a) and the provider to provide services under the contract; and
+  (c) to enable the prescription of—
+    (i) the circumstances in which the personal information may be disclosed; and
+    (ii) conditions governing the disclosure of the personal information; and
+    (iii) conditions governing the way in which the personal information is to be dealt with by the person to whom it is disclosed.
+(2) This section applies to any personal information about a young person or young persons to whom a contract under section 125A applies that is held by the contracted service provider concerned or the department.
+(3) For the purposes of this section, regulations under this Act may state—
+  (a) the circumstances in which a contracted service provider and its employees may release or disclose to the chief executive and employees of the department information to which this section applies held by the contracted service provider and the conditions with which the chief executive and employees of the department must comply in dealing with the information; or
+  (b) the circumstances in which the chief executive and employees of the department may release or disclose to a contracted service provider and its employees information to which this section applies held by the department and the conditions with which the contracted service provider and its employees must comply in dealing with the information.
+(4) Regulations of the kind referred to in subsection (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the regulations unless satisfied that the chief executive has consulted on the proposed regulations in the manner required by section 123G for an agreement under section 123F(1).
+(5) If satisfied on reasonable grounds that its disclosure is in accordance with regulations of the kind referred to in subsection (3), the chief executive, an employee of the department, a contracted service provider, or an employee of a contracted service provider may release or disclose information to which this section applies.
+(6) Nothing in this section requires the chief executive, employees of the department, a contracted service provider, or employees of a contracted service provider to release or disclose any information.
+(7) In this section,—
+  - **employee** , in relation to a contracted service provider, includes a volunteer
+  - **held** includes deemed for the purposes of the Official Information Act 1982 to be held.
+
+### 125D Information-sharing in relation to young persons
+(1) The purpose of this section is to authorise local agencies (for example, schools, primary health organisations, and the New Zealand Police) to disclose relevant personal information about a young person to the department or a contracted service provider where the agency concerned considers it relevant to the exercise or performance of powers or functions under this Act in respect of the young person.
+(2) An agency specified by the Governor-General by Order in Council for the purposes of this subsection may, for the purposes of this section, disclose any information about a young person to the chief executive, if satisfied on reasonable grounds that—
+  (a) subsection (4) applies to the young person; and
+  (b) the information will assist the department in—
+    (i) performing any function, or exercising any power, under Part 5; or
+    (ii) achieving any of the purposes of this Act.
+(3) An agency specified by the Governor-General by Order in Council for the purposes of this subsection may, for the purposes of this section, disclose any information about a young person to a contracted service provider, if satisfied on reasonable grounds that—
+  (a) the provider is the young person's contracted service provider; and
+  (b) subsection (4) applies to the young person; and
+  (c) the information will assist the provider in providing services under a contract under section 125A.
+(4) This subsection applies to a young person if he or she—
+  (a) has applied for or is receiving a youth support payment; or
+  (b) is subject to obligations under section 171; or
+  (c) has left or finished education, and is not or may not be in employment or training; or
+  (d) has left or finished training, and is not or may not be in employment.
+(5) An order of the kind referred to in subsection (2) or (3) must not be made except on the recommendation of the Minister; and the Minister must not recommend the making of the order unless satisfied that the chief executive has consulted on the proposed order in the manner required by section 123G for an agreement under section 123F(1).
+(6) Orders under subsection (2) or (3) may specify particular agencies, or agencies of any specified class or description.
+(7) In this section, agency has the meaning given to it by section 2(1) of the Privacy Act 1993.
+
 ### 125E Chief executive may adopt existing contracts
 The chief executive may agree in writing with the other party to any contract the chief executive has entered into before the commencement of the Social Security (Youth Support and Work Focus) Amendment Act 2012 that this Act applies to the contract as if it had been entered into under section 125A; and in that case, after the agreement takes effect, this Act applies to the contract (to the extent that it was capable of being entered into under that section) as if it had been entered into under that section.
+
+### 125F Information on provision of contracted services to be published
+The chief executive must ensure that there are published, no later than 1 October in every year,—
+  (a) a general description of the services provided by contracted service providers during the year ending on 30 June in that year, and of the contracted service providers; and
+  (b) details of the providers concerned.
+
+### 125G Actions of contracted service providers to be treated for certain purposes as if actions of department
+(1) For the purposes of section 80AA, any action or inaction of a contracted service provider must be treated as an action or inaction of an officer of the department.
+(2) For the purposes of section 80A, a contracted service provider must be treated as an officer of the department.
+(3) For the purposes of section 86(9A) and (9B), the provision of information by, and any act or omission of, a contracted service provider must be treated as having been done or omitted by an officer of the department.
+
+### 125H Operation of certain provisions to be reviewed after 3 years
+(1) Promptly after the expiration of 3 years after the commencement of section 22 of the Social Security (Youth Support and Work Focus) Amendment Act 2012, the chief executive must conduct a review of the operation of sections 123F, 123G, 125C, and 125D for consistency with the general legislation then in force relating to the privacy of personal information.
+(2) In conducting the review, the chief executive must consult—
+  (a) the Privacy Commissioner; and
+  (b) any organisation or other person that he or she considers to represent the interests of the kinds of people whose personal information may be disclosed under any of those provisions.
+(3) After conducting the review, the chief executive must report to the Minister on its findings, and make to the Minister any recommendations for the amendment of those provisions arising from them that the chief executive considers appropriate.
 
 ### 125I Complaints to Privacy Commissioner
 (1) A person may complain to the Privacy Commissioner if personal information relating to the person has been disclosed under section 125C or 125D, on the grounds that the disclosure was in breach of—
@@ -3413,7 +3437,7 @@ The chief executive may agree in writing with the other party to any contract th
   (b) applies to a complaint under subsection (2) as if the information-sharing agreement concerned were a code of practice issued under Part 6 of that Act.
 
 ### 126 Cost of repair and replacement of artificial limbs
-There shall from time to time be paid out of Crown Bank Account out of money appropriated by Parliament for the purpose such sums as may be necessary to defray the reasonable cost of the repair or renewal by the New Zealand Artificial Limb Board, or by any other body or person specified from time to time by the Minister, by notice in the Gazette, of any artificial arm, hand, leg, or foot belonging to any person who is entitled to have that artificial limb repaired or renewed free of charge pursuant to the provisions of Part 1 of Schedule 1 of the Accident Compensation Act 2001.
+There shall from time to time be paid out of a Crown Bank Account out of money appropriated by Parliament for the purpose such sums as may be necessary to defray the reasonable cost of the repair or renewal by the New Zealand Artificial Limb Board, or by any other body or person specified from time to time by the Minister, by notice in the Gazette, of any artificial arm, hand, leg, or foot belonging to any person who is entitled to have that artificial limb repaired or renewed free of charge pursuant to the provisions of Part 1 of Schedule 1 of the Accident Compensation Act 2001.
 
 ### 126A Information on beneficiaries and former beneficiaries may be disclosed to Ministry of Justice for fines enforcement purposes
 (1) In this section, unless the context otherwise requires,—
@@ -3540,7 +3564,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (iii) their use to obtain any payment or exemption from payment in consideration of services supplied to the holder of the entitlement card, or his or her dependent spouse or partner or child, whether those services are supplied under this Act, any other Act, or otherwise:
     (iv) placing time limits on the validity of entitlement cards:
     (v) placing obligations on holders to return entitlement cards to the department:
-    (vi) any other conditions relating to their use.
+    (vi) any other conditions relating to their use:
   (d) prescribing offences relating to the improper use of entitlement cards (other than a use which constitutes an offence under section 127), or for their non-return after their expiry, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $1,000 and, where the offence is a continuing one, a further amount not exceeding $50 for every day or part of a day during which the offence has continued.
 (2) For the avoidance of doubt it is hereby declared that regulations made under this section may provide for entitlement cards to have all or any of a magnetic stripe or a barcode on them, or a microchip embedded in them, which may contain all or any of the following information:
   (a) the cardholder's name:
@@ -3764,7 +3788,7 @@ In this Part, unless the context otherwise requires,—
   - **region** means any geographical area defined by the Director-General of Health as being a region for the purpose of identifying maximum contributions (such as, for example, a District Health Board area, or a district of a territorial authority)
   - **resident assessed as requiring care** means an eligible person who—
     (a) has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; and
-    (b) is receiving contracted care services from a provider irrespective of whether a funder has any liability to pay for any of the cost of his or her care.
+    (b) is receiving contracted care services from a provider irrespective of whether a funder has any liability to pay for any of the cost of his or her care
   - **section 88 notice** means a notice given under section 88 of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons
   - **service agreement** means a service agreement entered into between a funder and provider under section 25 of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons.
 
@@ -3951,7 +3975,7 @@ A person who has been means assessed as to assets may apply for a loan under the
   (j) prescribing an amount or type of income, or an amount of a certain type of income, that is not to be included in a means assessment as to income, as provided for in paragraph (k) of the definition of income in Part 3 of Schedule 27:
   (k) prescribing the amount of personal allowance:
   (l) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
-(2) The applicable asset thresholds set out in Part 1 of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the All Groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
+(2) The applicable asset thresholds set out in Part 1 of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the all groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
 (2A) The adjustments (by any percentage movement in the All Groups index number of the New Zealand Consumers Price Index) required under subsection (2) as at 1 July 2011, 1 July 2012, and 1 July 2013 insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds) must, despite that subsection, be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using, for those quarters, the All Groups index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using, for those quarters, the All Groups excluding cigarettes and other tobacco products index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand.
@@ -3960,6 +3984,329 @@ A person who has been means assessed as to assets may apply for a loan under the
   (b) the adjustment made in the following year must be based on the applicable asset threshold or the income-from-assets exemption as it was before it was rounded up.
 (4) The Director-General of Health must, as soon as practicable after 1 July in each year, give notice in the Gazette of the current amount of the income-from-assets exemption.
 (5) This section does not limit any other power given in this Act to make regulations.
+
+## Part 5 — Financial support for young people
+
+### 156 Purpose
+The purpose of this Part is to specify the supports, obligations, and sanctions that apply to certain young people who receive financial assistance under this Act.
+
+### 157 Interpretation
+In this Part and in Schedule 26,—
+  - **accommodation costs** , in relation to any young person, has the same meaning as in section 61E(1) except that, in relation to a person who is a boarder or lodger in any premises, it means 100% of the amount paid for board or lodging
+  - **approved training** means an employment-related training course approved by the chief executive
+  - **full-time course** has the same meaning as in regulation 2(1) of the Student Allowances Regulations 1998
+  - **in-hand allowance** means the component of a youth support payment set out in clause 6 of Schedule 26 under that name
+  - **NCEA level 2** means a level 2 National Certificate of Educational Achievement issued by the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
+  - **parents** , in relation to a young person,—
+    (a) means the parents or guardians or other person who had the care of the young person most recently before the young person turned 16 years; and
+    (b) includes any other parent, or guardian or former guardian, willing to have financial responsibility for the young person; but
+    (c) does not include—
+      (i) the chief executive of the department responsible for administering the Children, Young Persons, and Their Families Act 1989 in his or her official capacity; or
+      (ii) any body or organisation approved under section 396 of that Act
+  - **service costs** has the same meaning as in section 61E(1)
+  - **specified beneficiary** means a person who is married, in a civil union, or in a de facto relationship and receives in his or her own right—
+    (a) a domestic purposes benefit under section 27G; or
+    (b) an emergency benefit, invalid's benefit, sickness benefit, or unemployment benefit; or
+    (c) New Zealand superannuation paid at a rate specified in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
+    (d) a veteran’s pension paid at a rate specified in clause 2 of Schedule 11 of the War Pensions Act 1954
+  - **teen parent unit** means an educational facility for teenage parents attached to a State school (within the meaning of the Education Act 1989)
+  - **WFF tax credit** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **work-based learning** , in relation to any person, means a course or programme undertaken (or to be undertaken) in the course of or by virtue of his or her employment that comprises, or includes a component of, practical or on-the-job vocational learning (for example, an industry training programme or apprenticeship)
+  - **young person** ,—
+    (a) except in section 123E, means a person aged at least 16 years but under the age of 20 years; and
+    (b) in section 123E, means a person aged at least 15 years but under the age of 18 years.
+
+**Youth payment**
+
+### 158 Youth payment: basic criteria
+(1) The basic qualifications for entitlement to a youth payment are in subsection (2). The qualifications for a single young person are in section 159. The qualifications for a young person who is or has been married, in a civil union, or in a de facto relationship are in section 160.
+(2) The basic qualifications for entitlement to a youth payment are that the young person—
+  (a) is aged 16 or 17 years; and
+  (b) is without a dependent child or dependent children; and
+  (c) either—
+    (i) is undertaking or is available for a full-time course of secondary instruction, or tertiary education, or approved training, or approved work-based learning, leading to—
+      (A) NCEA level 2; or
+      (B) an equivalent qualification (in the opinion of the chief executive); or
+      (C) a higher qualification; or
+    (ii) would be so available but for circumstances that would qualify the young person for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a); and
+  (d) meets the residential requirements set out in section 74AA; and
+  (e) has no income or an income of less than the amount that would fully abate the youth payment.
+(3) Nothing in subsection (2)(e) affects the entitlement of a young person to receive a youth payment if, during a temporary period, the person has income sufficient to abate the payment fully but the person otherwise fulfils the conditions of entitlement to the payment.
+
+### 159 Youth payment: single young persons
+(1) A single person is entitled to a youth payment if—
+  (a) section 158(2) applies to him or her; and
+  (b) the chief executive is satisfied that the young person is in exceptional circumstances.
+(2) For the purposes of subsection (1), a young person is in exceptional circumstances if—
+  (a) each of his or her parents (and guardians (if any)) is unable to support him or her financially; or
+  (b) his or her relationship with his or her parents (and guardians (if any)) has broken down, and none of them is prepared to support him or her financially; or
+  (c) he or she has ceased to be subject to—
+    (i) an agreement under section 140 of the Children, Young Persons, and Their Families Act 1989; or
+    (ii) an order under section 78, 101, or 283(n) of that Act; or
+    (iii) a sole guardianship order under section 110 of that Act; or
+  (d) the chief executive is satisfied that (for some other good and sufficient reason) the young person cannot reasonably be expected to be financially dependent on his or her parents or any other person.
+(3) However, a young person is not in exceptional circumstances if—
+  (a) he or she has the option of living with a parent or guardian but chooses not to; and
+  (b) the chief executive is not satisfied that there are good and sufficient reasons for the young person not to live with that parent or guardian.
+
+### 160 Youth payment: young persons who are or have been married, or in civil union or de facto relationship
+A person is entitled to a youth payment if—
+  (a) he or she is or has been married, or in a civil union or de facto relationship; and
+  (b) he or she is not married to, or in a civil union or de facto relationship with, a specified beneficiary within the meaning of any of paragraphs (b) to (d) of the definition of that term in section 157; and
+  (c) section 158(2) applies to him or her.
+
+### 161 Youth payment: ground of hardship
+The chief executive may grant a youth payment under section 159 or 160 to a young person who meets the criteria in paragraphs (a) to (c) and (e) of section 158(2) but does not meet the criteria referred to in paragraph (d) of that subsection if—
+  (a) the young person is suffering hardship; and
+  (b) the young person is not qualified to receive any other benefit; and
+  (c) the young person is unable to earn a sufficient income to support himself or herself and his or her spouse or partner (if any).
+
+### 162 Youth payment: continuation after age 18
+(1) A youth payment granted when the young person concerned was aged under 18 years continues, if he or she is otherwise qualified for it,—
+  (a) in the case of a payment granted on an application made on or after the commencement of Part 1 of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 18 during the period; or
+  (b) in the case only of a payment granted to a young person who, on the day when he or she turns 18, is (in the chief executive's opinion) continuing in a course of education, training, or work-based learning, until,—
+    (i) if the course is a course of secondary instruction, the close of the calendar year in which the young person turned 18:
+    (ii) in any other case, the earlier of—
+      (A) the close of the calendar year in which the young person turned 18; and
+      (B) the close of the day the course ends.
+(2) While a youth payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted any of the following benefits:
+  (a) a widow’s benefit:
+  (b) a domestic purposes benefit:
+  (c) a sickness benefit:
+  (d) an emergency benefit:
+  (e) an unemployment benefit.
+
+### 163 Youth payment: rate and components
+(1) A youth payment is payable at the appropriate rate set out in Schedule 26, which includes the component set out in that schedule.
+(2) If a young person to whom a youth payment is payable meets the criteria prescribed for the purposes of this section by regulations made under this Act, there is payable together with that payment the appropriate incentive payment (if any) stated in Schedule 26.
+(3) Subsection (2) is subject to section 178.
+
+**Young parent payment**
+
+### 164 Young parent payment: basic criteria
+(1) The basic qualifications for entitlement to a young parent payment are in subsection (2). The qualifications for a single person are in section 165. The qualifications for a young person who is or has been married, in a civil union, or in a de facto relationship are in section 166.
+(2) The basic qualifications for entitlement to a young parent payment are that the young person—
+  (a) is aged 16 to 18 years; and
+  (b) is a parent or step-parent of a dependent child or dependent children; and
+  (c) either—
+    (i) is undertaking or is available for a full-time course of secondary instruction, tertiary education, approved training, or approved work-based learning, leading to—
+      (A) NCEA level 2; or
+      (B) an equivalent qualification (in the opinion of the chief executive); or
+      (C) a higher qualification; or
+    (ii) would be so available but for circumstances—
+      (A) under which the obligation to undertake education or training or work-based learning in section 170(1)(a) would not, under section 170(3), apply to the young person; or
+      (B) that would qualify the young person for an exemption under section 105 from that obligation; and
+  (d) meets the residential requirements set out in section 74AA; and
+  (e) has no income or an income of less than the amount that would fully abate the young parent payment.
+(3) Nothing in subsection (2)(e) affects the entitlement of a young person to receive a young parent payment if, during a temporary period, the person has income sufficient to fully abate the payment but the person otherwise fulfils the conditions of entitlement to the payment.
+(4) For the purposes of subsection (2)(b), a dependent child of a young person who is married, in a civil union, or in a de facto relationship must also be treated as a dependent child of the young person’s spouse or partner.
+
+### 165 Young parent payment: single young persons
+(1) A young person is entitled to receive a young parent payment if—
+  (a) section 164(2) applies to him or her; and
+  (b) subsection (2) or subsection (3) or subsection (4) applies to him or her.
+(2) This subsection applies to a single young person if he or she—
+  (a) is aged 16 or 17 years; and
+  (b) is not living with a parent or guardian; and
+  (c) is in exceptional circumstances (within the meaning of section 159).
+(3) This subsection applies to a single young person if—
+  (a) he or she is aged 16 or 17 years; and
+  (b) he or she is living with or being financially supported by a parent or guardian; and
+  (c) the family scheme income (within the meaning of the Income Tax Act 2007) of the parent or guardian concerned and the spouse or partner (if any) of the parent or guardian concerned is less than the amount that would, in accordance with sections MD 1 and MD 13 of that Act, fully abate the amount of the parent or guardian concerned's family tax credit entitlement under that Act.
+(4) This subsection applies to a single young person who is aged 18 years.
+(5) For the purposes of the calculation required by subsection (3)(c), if the parent or guardian with whom the young person concerned is living or by whom he or she is being supported has no family tax credit entitlement because that parent or guardian has no dependent children (within the meaning of section YA 1 of the Income Tax Act 2007), that parent or guardian's family tax credit entitlement must be calculated as if the young person and his or her dependent child or children were dependent children (within the meaning of that section) of that parent or guardian.
+(6) Nothing in this section entitles a parent or guardian to whom subsection (5) applies to a family tax credit.
+
+### 166 Young parent payment: persons who are or have been married, or in civil union or de facto relationship
+A young person is entitled to receive a young parent payment if section 164(2) applies to him or her, and—
+  (a) he or she is not married, or in a civil union or de facto relationship, but has been married or in a civil union or de facto relationship; or
+  (b) he or she is married, or in a civil union or a de facto relationship, but his or her spouse or partner is not a specified beneficiary within the meaning of paragraphs (b) to (d) of the definition of that term in section 157.
+
+### 167 Young parent payment: ground of hardship
+The chief executive may grant a young parent payment under section 165 or 166 to a young person who meets the criteria in paragraphs (a) to (c) and (e) of section 164(2) but does not meet the criteria referred to in paragraph (d) of that subsection if—
+  (a) the young person is suffering hardship; and
+  (b) the young person is not qualified to receive any other benefit; and
+  (c) the young person is unable to earn a sufficient income to support himself or herself, and his or her spouse or partner (if any) and dependent children.
+
+### 168 Young parent payment: continuation after age 19
+(1) A young parent payment granted when the young person concerned was aged under 19 years continues, if he or she is otherwise qualified for it,—
+  (a) in the case of a payment granted on an application made on or after the commencement of section 24 of the Social Security (Youth Support and Work Focus) Amendment Act 2012, until the close of the day on which the period of 6 months from the commencement of the payment expires, even if he or she turns 19 during the period; or
+  (b) in the case only of a payment granted to a young person who, on the day when he or she turns 19, is (in the chief executive's opinion) continuing in a course of education, training, or work-based learning, until,—
+    (i) if the course is a course of secondary instruction, the close of the calendar year in which the young person turned 19:
+    (ii) in any other case, the earlier of—
+      (A) the close of the calendar year in which the young person turned 19; and
+      (B) the close of the day the course ends.
+(2) While a young parent payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted the following benefits:
+  (a) a widow’s benefit:
+  (b) a domestic purposes benefit:
+  (c) a sickness benefit:
+  (d) an emergency benefit:
+  (e) an unemployment benefit.
+
+### 169 Young parent payment: rate and components
+(1) A young parent payment is payable at the appropriate rate set out in Schedule 26, which includes the component set out in that schedule.
+(2) If a young person to whom a young parent payment is payable meets the criteria prescribed for the purpose of this section by regulations made under this Act, there is payable together with that payment the appropriate incentive payment (if any) stated in Schedule 26.
+(3) Subsection (2) is subject to section 178.
+
+**Obligations**
+
+### 170 Youth support payments: obligations
+(1) A young person receiving a youth support payment is subject to the following obligations:
+  (a) to be enrolled in and undertaking to the satisfaction of the chief executive, or be available for, a full-time course of secondary instruction or tertiary education or approved training or work-based learning leading to—
+    (i) NCEA level 2; or
+    (ii) an equivalent qualification (in the opinion of the chief executive); or
+    (iii) a higher qualification:
+  (b) when required by the chief executive, to participate in and complete a budgeting programme approved by the chief executive for the purpose:
+  (c) in the case only of a young person receiving a young parent payment, when required by the chief executive, to participate to the satisfaction of the chief executive in a parenting education programme approved by the chief executive for the purpose:
+  (d) when required by the chief executive, to attend and participate in any interview with an officer of the department or other person on behalf of the chief executive:
+  (e) if a contracted service provider assigned to the young person by the chief executive has so required, to attend and participate in any interview with that provider:
+  (f) to report to the department, or to any contracted service provider assigned to the young person by the chief executive, on his or her compliance with the obligations in paragraphs (a) to (c) and subsection (2) as often as, and in the manner that, the chief executive (or, as the case requires, the provider) reasonably requires:
+  (g) to co-operate with the chief executive, or with any contracted service provider assigned to the young person by the chief executive, in managing the spending of the young person’s youth payment or young parent payment, and (in particular)—
+    (i) attend and participate in regular discussions on budgeting with an officer of the department (or, as the case requires, the provider); and
+    (ii) at any discussion or when otherwise required, provide information on—
+      (A) the young person’s accommodation costs and service costs and other lawful debts and liabilities for the purpose of section 179(4); and
+      (B) how the young person has spent the amount of the payment paid to him or her and how the young person has spent any money credited to a payment card, voucher, or device in accordance with regulations under this Act.
+(2) A young person receiving a young parent payment is also subject to the following obligations:
+  (a) to enrol every dependent child with a primary health organisation:
+  (b) to keep every dependent child under the age of 5 years up-to-date with checks under—
+    (i) the programme that immediately before the commencement of section 24 of the Social Security (Youth Support and Work Focus) Amendment Act 2012 was known as WellChild; or
+    (ii) any similar programme established in its place:
+  (c) to ensure the child’s attendance at an approved early childhood education programme (as defined in regulations under this Act) or other suitable childcare while the young person is in education, training, work-based learning, or part-time work.
+(3) Except as provided in subsection (4), the obligations in subsections (1) and (2) apply to a young person receiving a youth support payment from the time that it is first paid to the young person.
+(4) Where a young person receiving a young parent payment is the principal caregiver of his or her youngest dependent child and the child is aged under 12 months, the obligation in subsection (1)(a) begins to apply (in relation to the young person) only on the earlier of the following days:
+  (a) the first day on which—
+    (i) the child is at least 6 months old; and
+    (ii) a suitable place is available for the young person in a teen parent unit; and
+    (iii) the chief executive is satisfied that there are no special circumstances justifying the obligation's beginning to apply later:
+  (b) the day on which the child becomes 12 months old.
+(5) A failure without good and sufficient reason to comply with obligations under this section is subject to sanctions, as provided in sections 173 and 174.
+
+### 171 Obligations of spouses and partners of specified beneficiaries
+(1) A young person who is aged 16 or 17 years and is without dependent children and is the spouse, or civil union or de facto partner, of a specified beneficiary—
+  (a) is subject to the obligations set out in section 170(1)(a) and (b), (d) to (f), and (g)(i) as if he or she were receiving a youth payment; and
+  (b) is not subject to the work test or to employment plan obligations under section 60Q.
+(2) A young person who is aged 16 to 18 years, has a dependent child or children, and is the spouse, or civil union or de facto partner, of a specified beneficiary—
+  (a) is subject to the obligations set out in section 170(1)(a) to (f) and (g)(i), and 170(2) as if he or she were receiving a young parent payment; and
+  (b) is not subject to the work test or to employment plan obligations under section 60Q.
+(3) A failure without good and sufficient reason to comply with any of the obligations placed on a young person under this section,—
+  (a) for a young person who would, but for subsection (1)(b) or (2)(b), be subject to the work test, is a failure to comply with the work test for the purposes of section 117; and
+  (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to employment plan obligations under section 60Q, is a failure to comply with section 60Q(1) for the purposes of section 60U.
+
+### 172 Department to explain obligations to young person
+The chief executive must take reasonable and appropriate steps to make every young person who is subject to obligations under section 170 or 171 aware of—
+  (a) those obligations; and
+  (b) the consequences of failure to comply with them and (in particular) the sanctions that may be imposed under this Act for failing to comply with them.
+
+**Sanction regime**
+
+### 173 Sanctions for failure by young person receiving youth payment to comply with obligations under section 170
+(1) If satisfied that a young person receiving a youth payment has, without good and sufficient reason, failed to comply with an obligation placed on him or her by section 170, the chief executive must,—
+  (a) for a first or second failure,—
+    (i) suspend the in-hand allowance and any incentive payments until the young person satisfies the obligation (or, if he or she has failed to comply with 2 or more obligations, until he or she satisfies all of them); and
+    (ii) if the young person has not satisfied the obligation (or, if he or she has failed to comply with 2 or more obligations, if he or she has not satisfied all of them) within 4 weeks after the date on which the suspension took effect, suspend the whole of the youth payment and any incentive payments until the young person satisfies the obligation or obligations; and
+  (b) for a third failure, cancel the youth payment and any incentive payments.
+(2) A person whose benefit is cancelled under subsection (1)(b)—
+  (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
+  (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
+(3) Subsection (2) is subject to sections 123 to 123B.
+(4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
+  (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
+  (b) participation in recognised community activities (as defined in section 88A):
+  (c) participation in any other activity that the chief executive considers will enhance skills or improve motivation.
+(5) This section overrides every other provision of this Act.
+
+### 174 Sanctions for failure by young person receiving young parent payment to comply with obligations under section 170
+(1) If satisfied that a young person receiving a young parent payment has, without good and sufficient reason, failed to comply with an obligation placed on him or her by section 170, the chief executive must,—
+  (a) for a first or second failure, suspend the in-hand allowance and any incentive payments until the young person satisfies the obligation (or, if he or she has failed to comply with 2 or more obligations, until he or she satisfies all of them); and
+  (b) for a third failure,—
+    (i) cancel the young person’s young parent payment; and
+    (ii) cancel any incentive payments.
+(2) A person whose benefit is cancelled under subsection (1)(b)—
+  (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
+  (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
+(3) Subsection (2) is subject to sections 123 to 123B and section 177.
+(4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
+  (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
+  (b) participation in recognised community activities (as defined in section 88A):
+  (c) participation in any other activity that the chief executive considers will enhance skills or improve motivation.
+(5) In order to satisfy himself or herself that a young person has established continued eligibility for a young parent payment, the chief executive may require the young person to comply with the requirements of section 11D(2) as if applying for a young parent payment (and that section, with any necessary modifications, applies accordingly).
+(6) This section overrides every other provision of this Act.
+
+### 175 Effect of sanctions on supplementary benefits
+(1) While a young person's youth payment is cancelled under section 173,—
+  (a) the young person is not entitled to receive any accommodation supplement or temporary additional support if he or she is not married, or in a civil union or de facto relationship:
+  (b) if the young person is married, or in a civil union or de facto relationship and his or her spouse or partner's youth payment is not also cancelled under that section,—
+    (i) any accommodation supplement or temporary additional support otherwise payable to him or her must be reduced by half, and paid to the spouse or partner; and
+    (ii) any accommodation supplement or temporary additional support otherwise payable to his or her spouse or partner must be reduced by half:
+  (c) if the young person is married, or in a civil union or de facto relationship and his or her spouse or partner's youth payment is also cancelled under that section,—
+    (i) the young person is not entitled to receive any accommodation supplement or temporary additional support otherwise payable to him or her; and
+    (ii) the young person's spouse or partner is not entitled to receive any accommodation supplement or temporary additional support otherwise payable to him or her.
+(2) The cancellation under section 174 of the young parent payment of a young person who is a sole parent has no effect on his or her entitlement to receive any accommodation supplement or temporary additional support.
+(3) While the young parent payment of a young person who is married, to or in a civil union or de facto relationship with, a spouse or partner whose young parent payment is not also cancelled under that section is cancelled under section 174,—
+  (a) any accommodation supplement or temporary additional support otherwise payable to him or her must be reduced by half, and paid to the spouse or partner; and
+  (b) any accommodation supplement or temporary additional support otherwise payable to his or her spouse or partner must be reduced by half.
+(4) Where the young parent payment of each of 2 young persons who are married to, or in a civil union or de facto relationship with, each other is cancelled, each is entitled to receive only half of any accommodation supplement or temporary additional support that would otherwise be payable to him or her.
+(5) A young person whose youth payment or young parent payment is cancelled under section 173 or 174 is not entitled to receive an emergency benefit.
+(6) The cancellation of a young person's youth payment or young parent payment under section 173 or 174 has no effect on his or her entitlement to receive any disability allowance, or child disability allowance.
+
+### 176 Sanctions generally
+(1) For the purposes of sections 173 and 174, a young person satisfies an obligation if he or she—
+  (a) remedies the failure concerned; or
+  (b) if (in the chief executive's opinion) it is not possible to remedy the failure, undertakes to the chief executive's satisfaction an activity that is (in the chief executive's opinion) the same as or substantially similar to the performance of the obligation.
+(2) Sections 113 (procedure for imposing sanctions), 114 (notices), and 119 (calculation of failure rate) apply with all necessary modifications to the imposition of sanctions under sections 173 and 174.
+(3) In sections 173 and 174,—
+  - **second failure** means a failure that occurs after the young person concerned has satisfied the obligation to which a first failure related; and
+  - **third failure** means a failure that occurs after the young person concerned has satisfied the obligation to which a second failure related.
+(4) If a young person whose youth support payment has been cancelled under section 173(1)(b) or 174(1)(b) is again granted a youth support payment,—
+  (a) except as provided in paragraph (b), any incentive payments that were payable to the young person before the cancellation must be paid with the youth payment or young parent payment; but
+  (b) if the failure that led to the cancellation was a failure to comply with section 170(1)(a), an education incentive payment is payable only if the young person again meets the conditions of entitlement to that payment set out in regulations under this Act.
+
+### 177 Effect of sanction on young parent payment
+(1) If under section 174(1)(b)(i) a young person's entitlement to a young parent payment is cancelled,—
+  (a) the person is entitled during the period of cancellation to receive half of that base rate of young parent payment and only half the abatement rate in clause 10 or 11 of Schedule 26 (as the case requires) applies to that rate; but
+  (b) during the period of cancellation, no incentive payments are payable.
+(2) While subsection (1)(b) applies to a young person, the amounts payable must be paid to him or her or on his or her account personally.
+
+### 178 Incentive payment may be cancelled if young person's actions inconsistent with purpose
+(1) The chief executive may cancel an incentive payment if satisfied that the young person concerned has intentionally acted in a way inconsistent with the purpose for which it was granted.
+(2) The cancellation makes the young person ineligible for the incentive payment again until the chief executive decides that it may be re-granted.
+
+**Administration**
+
+### 179 Money management in relation to youth support payments: general
+(1) Except as provided in this section and section 177(2), no payment under a youth support payment can be paid to or on account of the young person concerned personally.
+(2) Except as provided in subsection (4), every youth support payment is payable by instalments of the number of weeks' payment on the day or date, or the days or dates, in the month that the chief executive determines from time to time.
+(3) Every youth support payment is paid in respect of a 7-day week.
+(4) Except as otherwise provided in this Act,—
+  (a) the following must be paid in a manner stated in regulations made under this Act for the purposes of this section:
+    (i) any youth support payment (including the in-hand allowance up to the maximum amount set out in clause 6 of Schedule 26):
+    (ii) any WFF tax credit payable to a young person by the chief executive:
+    (iii) the amount of any child disability allowance or disability allowance to which a young person is entitled:
+    (iv) any other benefit or payment under this Act to which a young person is entitled specified for the purposes of this paragraph by the regulations; but
+  (b) if no manner is for the time being stated for a benefit or payment of a kind referred to in paragraph (a)(i) to (iv), it must be paid to or on account of the young person entitled to it in accordance with section 82(3).
+(5) A manner stated under subsection (4) may include crediting an amount to a payment card, voucher, or device, that enables a young person to obtain goods or services from a particular supplier and enables the supplier to obtain payment from the department for the goods or services.
+(6) Subsection (5) does not limit the generality of subsection (4).
+(7) If the chief executive considers that the young person has met the criteria stated for the purposes of this section in regulations under this Act for managing his or her own payments, the chief executive may pay the whole or any part of the payments referred to in subsection (4)(a) to or on account of the young person personally until a sanction is imposed on the young person under section 173 or 174.
+(8) No appeal under this Act lies against a determination by the chief executive under regulations made under this Act for the purposes of this section.
+(9) This section overrides section 82(1) to (3).
+(10) Subsection (4) overrides section 80KS of the Tax Administration Act 1994.
+(11) Section 84(1) is subject to regulations under this Act made for the purposes of subsection (4).
+
+### 180 Young person beneficiaries may elect money management
+(1) To the extent that regulations under this Act made for the purposes of this section allow (and subject to any conditions prescribed by the regulations), a young person to whom section 171 applies may elect to have any or all of the amounts stated in subsection (2) that are payable to him or her paid in accordance with section 179(4); and that subsection applies accordingly with any necessary modifications.
+(2) The amounts are—
+  (a) any part of a specified beneficiary's benefit:
+  (b) any part of any other benefit payable under section 83:
+  (c) any WFF tax credit:
+  (d) any child disability allowance or disability allowance:
+  (e) any other benefit or payment under this Act to which he or she is entitled.
+(3) The young person may revoke the election at any time.
+
+### 181 Chief executive may assign contracted service provider to young person
+The chief executive may assign a contracted service provider to a young person,—
+  (a) at any time after the young person has contacted the department for financial assistance at which the chief executive considers that the most appropriate financial assistance for the young person is likely to be a youth support payment; or
+  (b) at the time, or at any time after, the youth support payment is payable to the young person; or
+  (c) at any time section 171 applies to the young person.
 
 ## Schedule 1 — Rates of superannuation benefits
 
@@ -3979,24 +4326,24 @@ A person who has been means assessed as to assets may apply for a loan under the
 |  | (b) | In respect of a child aged over 10 years and under 14 years | $182.42 a week |
 |  | (c) | In respect of a child aged over 5 years and under 10 years | $165.31 a week |
 |  | (d) | In respect of a child aged under 5 years | $142.45 a week |
-| 2 |  | The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
+| 2 |  | The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of invalids' benefits
 
-| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $207.32 a week, subject to Income Test 1. |
+| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $207.32 a week, subject to Income Test 1 |
 | --- | --- | --- | --- |
-|  | (b) | To any other single beneficiary without dependent children | $256.19 a week, subject to Income Test 1. |
+|  | (b) | To any other single beneficiary without dependent children | $256.19 a week, subject to Income Test 1 |
 |  | (c) | To a single beneficiary with 1 or more dependent children | $336.55 a week, subject to Income Test 1 |
 |  | (d) |  |  |
-|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $213.49 a week, subject to Income Test 2. |
-|  | (f) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $213.49 a week, increased by $213.49 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
-|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $213.49 a week, subject to Income Test 1. |
+|  | (e) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $213.49 a week, subject to Income Test 2 |
+|  | (f) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $213.49 a week, increased by $213.49 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
+|  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $213.49 a week, subject to Income Test 1 |
 | provided that, in computing the income of any beneficiary for the purpose of this schedule, the chief executive shall— |  |  |  |
-| (a) |  | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
-| (b) |  | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $343.49 a week, increased by $42.70 a week if the beneficiary is a single person. |
+|  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
+|  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $343.49 a week, increased by $42.70 a week if the beneficiary is a single person |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -4004,36 +4351,36 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $136.64 a week, subject to Income Test 3. |
+| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $136.64 a week, subject to Income Test 3 |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | living with a parent (as that term is defined in section 3(1)); and |  |
-|  |  | (ii) | Whose benefit commenced on or after 1 July 1998 |  |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $170.80 a week, subject to Income Test 3. |
-|  | (b) | To any other single beneficiary without dependent children |  | $204.96 a week, subject to Income Test 3. |
+|  |  | (ii) | whose benefit commenced on or after 1 July 1998 |  |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $170.80 a week, subject to Income Test 3 |
+|  | (b) | To any other single beneficiary without dependent children |  | $204.96 a week, subject to Income Test 3 |
 |  | (c) | To a single beneficiary with 1 or more dependent children |  | $293.58 a week, subject to Income Test 3 |
 |  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) |  | $170.80 a week, subject to Income Test 4 |
 |  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right |  | $170.80 a week, increased by $170.80 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
 |  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension |  | $170.80 a week, subject to Income Test 3 |
-|  | (g) |  |  |  |
-|  | (h) |  |  |  |
-|  | (i) |  |  |  |
-|  | (j) |  |  |  |
-| 2 |  | Maximum increase in respect of a housekeeper |  | $170.80 a week. |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  | Special rate of benefit for persons to whom section 99(4) applies |  | $170.80 a week, subject to Income Test 4 |
-| 6 |  |  |  |  |
+|  | (g) | [Repealed] |  |  |
+|  | (h) | [Repealed] |  |  |
+|  | (i) | [Repealed] |  |  |
+|  | (j) | [Repealed] |  |  |
+| 2 | Maximum increase in respect of a housekeeper |  |  | $170.80 a week |
+| 3 | [Repealed] |  |  |  |
+| 4 | [Repealed] |  |  |  |
+| 5 | Special rate of benefit for persons to whom section 99(4) applies |  |  | $170.80 a week, subject to Income Test 4 |
+| 6 | [Repealed] |  |  |  |
 
 ## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand superannuation payable under section 16, invalids', widows', domestic purposes, and sickness benefits only)
 
-| Maximum rate | $2 a week in the case of a sickness benefit, and $104 a year in any other case. |
+| Maximum rate | $2 a week in the case of a sickness benefit, and $104 a year in any other case |
 | --- | --- |
 
 ## Schedule 11 — Special income exemption in respect of earnings from domestic and nursing service
 
 ## Schedule 12 — Maximum increase in rate of benefit payable to parent of deceased member of forces or mercantile marine
 
-| Maximum rate | $1 a week. |
+| Maximum rate | $1 a week |
 | --- | --- |
 
 ## Schedule 13 — Enactments repealed
@@ -4063,124 +4410,50 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 18 — Accommodation supplement
 
-| Central Auckland urban zone |
-| --- |
-| Northern Auckland urban zone |
+### 1
+For the purposes of this schedule—
+- **Area 1** means the following parts of New Zealand (as from time to time defined by the Government Statistician):Central Auckland urban zoneNorthern Auckland urban zone
+- **Area 2** means the following parts of New Zealand (as from time to time defined by the Government Statistician):Algies Bay–Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unitBrightwater urban areaCape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unitHelensville urban areaHunua area unitIslands–Motutapu, Rangitoto, Rakino area unitKarekare area unitKaukapakapa area unitKawau area unitKingseat area unitLeigh area unitLittle Barrier Island area unitMangatawhiri area unitMaramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unitNelson urban areaOnewhero area unitOtaua area unitParakai area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouth Head area unitSouthern Auckland urban zoneTahekeroa area unitTauhoa–Puhoi area unitTauranga urban areaWaiheke Island urban areaWaiuku urban areaWakefield urban areaWanaka urban areaWarkworth urban areaWellington urban zoneWellsford urban areaWestern Auckland urban zone
+- **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician):Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara–Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
+- **Area 4** means any part of New Zealand not included in Area 1, Area 2, or Area 3
+- **base rate** means, subject to clause 4A,—
+  (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of benefit he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
+  (b) in relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 under subparts MA to MF and MZ of the Income Tax Act 2007:
+  (c) in relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
+  (d) in relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subparts MA to MF and MZ of the Income Tax Act 2007, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
+  (da) in relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner in not entitled to an accommodation supplement under section 80C, the rate specified in paragraph (d) as if a rate of benefit were paid in respect of that spouse or partner:
+  (e) in relation to a single non-beneficiary with 1 or more dependent children,—
+    (i) the appropriate maximum weekly rate of unemployment benefit; plus
+    (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
+  (f) in relation to any other single non-beneficiary, the weekly rate of unemployment benefit at the rate in clause 1(b) of Schedule 9 before any abatement or deduction:
+  (g) in relation to a non-beneficiary who is married or in a civil union or in a de facto relationship,—
+    (i) the appropriate maximum weekly rate of unemployment benefit; plus
+    (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
+    (iii) the maximum weekly rate of unemployment benefit that would have been payable in respect of his or her spouse or partner.
 
-| Algies Bay—Mahurangi area unit |
-| --- |
-| Arrowtown urban area |
-| Awhitu area unit |
-| Bombay area unit |
-| Brightwater urban area |
-| Cape Rodney area unit |
-| Clevedon area unit |
-| Glenbrook area unit |
-| Great Barrier Island area unit |
-| Helensville urban area |
-| Hunua area unit |
-| Islands—Motutapu, Rangitoto, Rakino area unit |
-| Karekare area unit |
-| Kaukapakapa area unit |
-| Kawau area unit |
-| Kingseat area unit |
-| Leigh area unit |
-| Little Barrier Island area unit |
-| Mangatawhiri area unit |
-| Maramarua area unit |
-| Matheson Bay area unit |
-| Meremere area unit |
-| Muriwai Beach area unit |
-| Nelson urban area |
-| Onewhero area unit |
-| Otaua area unit |
-| Parakai area unit |
-| Patumahoe area unit |
-| Pokeno area unit |
-| Pukekohe urban area |
-| Queenstown urban area |
-| Rewiti area unit |
-| Riverhead area unit |
-| Snells Beach urban area |
-| South Head area unit |
-| Southern Auckland urban zone |
-| Tahekeroa area unit |
-| Tauhoa-Puhoi area unit |
-| Tauranga urban area |
-| Waiheke Island urban area |
-| Waiuku urban area |
-| Wakefield urban area |
-| Wanaka urban area |
-| Warkworth urban area |
-| Wellington urban zone |
-| Wellsford urban area |
-| Western Auckland urban zone |
+### 2
+The amount of accommodation supplement assessed under this schedule shall be reduced—
+(a)
+(b) in the case of a non-beneficiary, by 25 cents for every $1 of the combined weekly income of the applicant and any spouse or partner of the applicant in excess of the amount of income that would prevent payment of an unemployment benefit—
+  (i) in the case of a single applicant without dependent children, at the maximum rate in clause 1(b) of Schedule 9; or
+  (ii) in the case of any other applicant, at the appropriate maximum rate in Schedule 9.
 
-| Alexandra urban area |
-| --- |
-| Blenheim urban area |
-| Cambridge urban zone |
-| Christchurch urban area |
-| Cloustonville area unit |
-| Cromwell urban area |
-| Darfield urban area |
-| Dunedin urban area |
-| Feilding urban area |
-| Hamilton urban zone |
-| Hanmer Springs urban area |
-| Hastings urban zone |
-| Kaitaia urban area |
-| Kapiti Island area unit |
-| Kapiti urban area |
-| Katikati Community urban area |
-| Kerikeri urban area |
-| Leeston urban area |
-| Lincoln urban area |
-| Lower Hutt urban zone |
-| Makara-Ohariu area unit |
-| Mana Island area unit |
-| Mangaroa area unit |
-| Matamata urban area |
-| Maungakotukutuku area unit |
-| Motueka urban area |
-| Nabhra area unit |
-| Napier urban zone |
-| New Plymouth urban area |
-| Opiki area unit |
-| Otaki urban area |
-| Paekakariki Hill area unit |
-| Paihia urban area |
-| Palmerston North urban area |
-| Pencarrow area unit |
-| Porirua urban zone |
-| Raglan urban area |
-| Rangiora urban area |
-| Rolleston urban area |
-| Rotorua urban area |
-| Russell urban area |
-| Taipa Bay–Mangonui urban area |
-| Tairua urban area |
-| Takaka urban area |
-| Taupo urban area |
-| Te Awamutu urban zone |
-| Te Puke Community urban area |
-| Thames urban area |
-| Tokomaru area unit |
-| Upper Hutt urban zone |
-| Waihi Beach urban area |
-| Whakatane urban area |
-| Whangamata urban area |
-| Whangarei urban area |
-| Whitianga urban area |
-| Woodend urban area |
+### 3
+In assessing the income of a person in receipt of a widow's benefit or a domestic purposes benefit or a young parent payment for the purposes of section 61EC and of this schedule, the chief executive, in his or her discretion, may disregard an amount of up to $20 a week of that person's earnings which are used to meet the cost of placing his or her dependent child or dependent children in a day-care centre registered under the Child Care Centre Regulations 1985 or in any other day-care facility approved by the chief executive.
 
-| 1 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4. |
+### 4
+Every accommodation supplement assessed under this schedule shall be rounded up to the complete dollar.
+
+### 4A
+In determining the base rate in relation to a person in respect of any period that is wholly or partly within the period commencing on 1 October 2010 and ending on the close of 31 March 2011, the chief executive must, under paragraph (b) or (d) or (e)(ii) or (g)(ii) of the definition of base rate in clause 1, use the applicable annual rate, or as the case requires, the maximum annual rate of family tax credit in force immediately before 1 October 2010 as if sections 61 to 63 of the Taxation (Budget Measures) Act 2010 had not been enacted.
+
+| 1 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4 |
 | --- | --- | --- |
-| 2 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4. |
-| 3 | To any other person whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4. |
-| 4 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4. |
-| 5 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4. |
-| 6 | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4. |
+| 2 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4 |
+| 3 | To any other person whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4 |
+| 4 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4 |
+| 5 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4 |
+| 6 | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4 |
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
@@ -4195,7 +4468,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $42.38 a week. |
+| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $42.38 a week |
 | --- | --- | --- |
 | 2 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to the amount specified in clause 1. |
 
@@ -4205,12 +4478,30 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 25 — Rate of telephone-service-rental allowance
 
-## Schedule 26 — Rates of independent youth benefits
+## Schedule 26 — Rates and component of youth payment and young parent payment, and criteria for incentive payments
 
-| 1 | To a single beneficiary | $170.80 a week, subject to Income Test 3 |
-| --- | --- | --- |
-| 2 | To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $170.80 a week, subject to Income Test 4 |
-| 3 | To any other beneficiary who is married or in a civil union or in a de facto relationship | $170.80 a week, subject to Income Test 3 |
+|  | $ |
+| --- | --- |
+| 1For a single young person without dependent children. | 170.80 a week subject to clause 10 |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 134.64 a week subject to clause 10 |
+| 3For any other single young person with a dependent child or children. | 293.58 a week subject to clause 10 |
+| 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 170.80 a week subject to clause 11 |
+| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children. | 170.80 a week subject to clause 11 |
+
+|  | $ |
+| --- | --- |
+| 6Maximum amount of in-hand allowance. | 50 a week |
+
+|  | $ |
+| --- | --- |
+| 7Education, training, or work-based learning incentive. | 10 a week |
+| 8Budgeting incentive. | 10 a week |
+| 9Parenting education incentive. | 10 a week |
+
+| 10The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $206.73, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $256.73. |
+| --- |
+| 11The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $206.73, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $306.73. |
+| 12For the purposes of clause 10 or 11 and a rate of young parent payment, the chief executive may, in his or her discretion, disregard up to $20 a week of the personal earnings of the young person used to meet the costs of child care for any of the person’s dependent children. |
 
 ## Schedule 27 — Means assessment under Part 4
 
@@ -4239,7 +4530,7 @@ The effect of making an election under clause 2 is that the person's applicable 
 For the purpose of a means assessment as to assets conducted under section 146,—
   - **assets** , in relation to the person being means assessed, means the assets of the person and his or her spouse or partner (if any) that are capable of being realised by the person or his or her spouse or partner; and includes—
     (a) the value of any right, under a contract or arrangement with any person, to be paid or repaid money on termination of a licence to occupy part of any property, building, or premises, adjusted to take into account any conditions or restrictions on that right:
-    (b) the value of assets that have been gifted by the person, the person's spouse or partner, or both during the prescribed gifting period immediately before the date of means assessment; but does not include any allowable gifts, or the value of any allowable gifts, prescribed by regulations made under section 155:
+    (b) the value of assets that have been gifted by the person, the person's spouse or partner, or both during the prescribed gifting period immediately before the date of means assessment; but does not include any allowable gifts, or the value of any allowable gifts, prescribed by regulations made under section 155
     (c)
   - **exempt assets** , in relation to the person being means tested, means—
     (a) any interest in a residential dwelling that is the principal residence of the person's spouse or partner or a dependent child of the person; but this exemption does not apply to a person who has made an election under clause 2:
@@ -4275,7 +4566,7 @@ For the purpose of a person's means assessment as to income under section 147,�
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155):
     (a) $945, if the person is single; or
     (b) $1,890, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $2,835 if the person's spouse or partner is not a resident assessed as requiring care
+    (c) $2,835 if the person's spouse or partner is not a resident assessed as requiring care.
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
@@ -4317,6 +4608,35 @@ The weekly contribution payable by a person whose income is assessed is the pers
 
 ## Schedule 30 — Method of calculating ability to make payments towards costs of home-based disability support services under section 69FA
 
+### 1
+In this schedule, specified outgoings, in relation to any person, means the annual total of—
+((a)) the maximum rate for the time being of an invalid's benefit that would be payable to the person if he or she was qualified to receive such a benefit:
+((b)) an amount of $10 per week (for the purpose of paying costs incidental to the provision of home help):
+((c)) the following employment-related expenses of the person and his or her spouse or partner, calculated on an annual basis:
+  ((i)) fees or subscriptions payable on an annual or regular basis to any union:
+  ((ii)) contributions to any superannuation scheme:
+  ((iii)) contributions to any employee welfare fund:
+  ((iv)) any other essential costs of that employment (not including travel to and from work) to the extent that they are not reimbursed by the employer:
+((d)) the person's accommodation costs (within the meaning of section 61E):
+((e)) the person's telephone rental (being the standard line charge and base user charge including hire of a basic telephone applicable to a person living in the place where the person lives), calculated on an annual basis:
+((f)) the cost of the person's ongoing and regular medical and pharmaceutical expenses, calculated on an annual basis:
+((g)) the cost of the person's regular essential expenses (being expenses other than the cost of food, clothing, travel, running a motor vehicle, life insurance, house and contents insurance, hire purchase, entertainment, and personal savings), calculated on an annual basis.
+
+### 2
+The chief executive must calculate the amount of the person's annual income and specified outgoings, and must deduct the amount of the specified outgoings from the annual income.
+
+### 3
+If the result of the calculation specified in clause 2 is $0 or less than $0, the chief executive must assess the amount the person is required to contribute towards the cost of the home-based disability support services supplied to that person as $0.
+
+### 4
+If the result of the calculation specified in clause 2 is greater than $0 but less than the total cost of the home-based disability support services supplied to the person, the chief executive must assess that result as the amount the person is required to contribute towards the cost of those services.
+
+### 5
+If the result of the calculation specified in clause 2 is equal to or greater than the total cost of the home-based disability support services supplied to the person, the chief executive must assess the amount the person is required to contribute towards the cost of those services as the total cost of those services.
+
+### 6
+The chief executive must convert an assessment made under clauses 3 to 5 to a weekly amount.
+
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
 | 1 | For a single person without dependent children | $1,025.11 |
@@ -4340,3 +4660,668 @@ The weekly contribution payable by a person whose income is assessed is the pers
 | 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $866.91 |
 | 13 | For a sole parent with 1 dependent child | $705.72 |
 | 14 | For any other sole parent | $743.53 |
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+## Part 1 — Monetary benefits
+
+### 6 Repealing provisions relating to income exemption where application for age benefit deferred
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the repeal of section 19 of the principal Act and of clause 2 of Schedule 2 of the principal Act, that section, and that clause (as set out in the Schedule to the Social Security Amendment Act 1971), shall continue in force and operate in respect of every person who attained the age of 60 years on or before 1 November 1972, as if such repeals had not been made.
+(3) This section shall be deemed to have come into force on 5 July 1972.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act 1973, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+## Part 1 — Monetary benefits
+
+### 6 Domestic purposes benefits
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding anything in this section, if any person was, immediately before the commencement of this section, in receipt of a benefit under section 22 or section 23 or section 61 of the principal Act, the chief executive may, in the chief executive's discretion, continue to pay the benefit as if this section and section 5 of this Act had not been enacted.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act 1975, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+## Part 3 — General provisions
+
+### 25 Payment of supplementary assistance may be deemed to be an advance
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Notwithstanding the provisions of subsections (1) and (2), the said section 124A shall continue to apply in respect of payments which the chief executive has, before 2 July 1975, deemed to be an advance and in respect of which a charge has been registered against the beneficiary's estate or interest in land under the Statutory Land Charges Registration Act 1928.
+(4) This section shall be deemed to have come into force on 2 July 1975.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act (No 2) 1977, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+## Part 1 — Monetary benefits
+
+### 6 Domestic purposes benefit for women alone
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the provisions of subsection (1), if any person was, immediately before the commencement of this section, in receipt of a domestic purposes benefit under section 27C of the principal Act, the chief executive may, in the chief executive's discretion, continue to pay the benefit as if this section had not been enacted.
+(3) This section shall come into force on 1 April 1978.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act 1978, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+### 16 Additional benefit
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the provisions of subsection (1), if any person in receipt of New Zealand superannuation was, immediately before the commencement of this section, in receipt of additional benefit under section 61E of the principal Act, the chief executive may, in the chief executive's discretion, pay to such a person a benefit under section 61G of that Act.
+((3)) Amendment(s) incorporated in the Act(s).
+(4) This section shall be deemed to have come into force on 31 August 1978.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act 1983, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+(2) Except as provided in sections 2(2), 3(3), 7(5), 8(6), 9(2), 11(2), 12(3), 13(5), and 14(5), this Act shall come into force on the day on which it receives the Governor-General's assent.
+
+### 8 Repealing provisions relating to sickness benefit for a married person
+((1)) Amendment(s) incorporated in the Act(s).
+(2)
+((3)) Amendment(s) incorporated in the Act(s).
+(4) Notwithstanding the provisions of subsections (1) to (3), if any person was, immediately before the commencement of this section, in receipt of a sickness benefit under section 54A of the principal Act, the chief executive shall continue to pay that benefit as if this section had not been enacted.
+(5) Notwithstanding the provisions of subsections (1) to (3), any application for a sickness benefit under section 54A of the principal Act received by the chief executive in respect of any period of incapacity which commenced before 1 January 1984 shall be dealt with and determined as if this section had not been enacted.
+(6) This section shall come into force on 1 January 1984.
+
+### 16 Validating notices given to liable parents
+Every notice of grant of a domestic purposes benefit under section 27L of the principal Act, and every notice of required contribution under section 27N of that Act, given to a liable parent on or after 1 April 1981 and before the date of commencement of this Act, shall be valid and effective notwithstanding any want of form because it does not sufficiently conform to the forms prescribed in the Social Security (Contribution Towards Cost of Domestic Purposes Benefit) Regulations 1981; and the liability of any liable parent who has received any such notice shall be deemed to have commenced in the manner and at the time provided by section 27K(2) of the principal Act notwithstanding that there may have been a defect of that kind in the notice given to him.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act 1986, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+(2) Except as provided in subsection (3) and in sections 3(2) and 22(3), this Act shall come into force on 1 October 1986.
+(3) Part 2 (other than section 22) shall come into force on a date to be appointed by the Governor-General by Order in Council, and different dates may be so appointed in respect of different provisions of Part 2.
+
+## Part 1 — Monetary benefits
+
+### 10 Abolition of Handicapped Child's Appeal Board
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding anything in subsection (1), any appeal that has been commenced under section 39F of the principal Act and is pending at the commencement of this section shall be heard and determined,—
+  (a) if the hearing of the appeal has not commenced, under section 53A of the principal Act; and
+  (b) if the hearing of the appeal has commenced, as if this Act had not been passed.
+
+### 11 Abolition of Appeal Board in respect of invalid's benefit
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding anything in subsection (1), any appeal that has been commenced under section 45 of the principal Act and is pending at the commencement of this section shall be heard and determined,—
+  (a) if the hearing of the appeal has not commenced, under section 53A of the principal Act; and
+  (b) if the hearing of the appeal has commenced, as if this Act had not been passed.
+
+### 14 Child supplement discontinued
+((1)) Amendment(s) incorporated in the Act(s).
+(2)
+(3)
+(4)
+((5), (6)) Amendment(s) incorporated in the Act(s).
+((7)) Notwithstanding the provisions of subsections (l) to (6), the discontinuance of child supplement shall not affect, reduce, or extinguish any entitlement under the principal Act to a child supplement in respect of any period before 1 October 1986, and any application for a child supplement under section 61A of the principal Act received by the chief executive in respect of any period before 1 October 1986 shall be dealt with and determined as if subsections (1) to (6) had not been enacted.
+
+### 17 Family care grants discontinued
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the provisions of subsection (1), the discontinuance of family care grants shall not affect, reduce, or extinguish any entitlement under the principal Act to a family care grant in respect of any period before 1 October 1986, and any application for a family care grant under Part 1A of the principal Act received by the chief executive in respect of any period before 1 October 1986 shall be dealt with and determined as if subsection (1) had not been enacted.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act 1987, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+## Part 1 — Amendments to principal Act
+
+### 10 Removal of exemption from liable parent scheme
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding subsection (1), if any person, immediately before the commencement of this section, was in receipt of a domestic purposes benefit to which section 2 of the Social Security Amendment Act 1980 applied, the chief executive shall continue to assess and pay the benefit as if subsection (1) had not been enacted until the benefit is first renewed under section 80(4) of the principal Act.
+(3) This section shall come into force on 1 October 1987.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act (No 2) 1991, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+(2) Except as provided in sections 5(2), 18(3), and 23(2), this Act shall come into force on 1 August 1991.
+
+### 4 Domestic purposes benefits for sole parents
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the provisions of section 27B(2)(a) of the principal Act (as substituted by subsection (1)), a person who is under the age of 18 years but who would otherwise be entitled to receive a domestic purposes benefit, shall be entitled to receive a domestic purposes benefit if he or she was a sole parent in receipt of a benefit immediately before the commencement of this section.
+
+### 7 Invalids' benefits
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the provisions of section 40 of the principal Act (as amended by subsection (1)), a person who is under the age of 16 years but who would otherwise be entitled to receive an invalid's benefit, shall be entitled to receive an invalid's benefit if he or she was in receipt of, or had applied for, an invalid's benefit before 1 August 1991.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Child Support Act 1991.
+(2) This Act is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994.
+(3) Except as provided in subsection (4) and section 253, this Act shall come into force on the day on which it receives the Royal assent.
+(4) Part 11 and Part 15 shall come into force on 1 July 1992.
+
+## Part 16 — Transitional and savings provisions
+
+### 253 No liability to pay financial support under this Act until 1 July 1992
+Notwithstanding section 1(3)—in respect of any period before 1 July 1992, and every provision of this Act shall be read accordingly.
+  (a) no person shall be liable to pay financial support under this Act; and
+  (b) no person shall be entitled to receive financial support under this Act; and
+  (c) no person shall make a deduction from any money payable to a liable person,—
+
+**Enforcement of liable parent contributions payable before 1 July 1992**
+
+### 256 Savings in respect of outstanding liable parent contributions
+(1) Notwithstanding the Social Security Amendment Act (No 5) 1991,—in respect of any liable parent contributions assessed under that Act which are due but unpaid at the close of 30 June 1992 as if those sections and that schedule had not been repealed or amended by the Social Security Amendment Act (No 5) 1991.
+  (a) sections 10A, 12J, 27I to 27ZI (except section 27X) and Schedule 20 of the Social Security Act 1964 shall continue to apply; and
+  (b) section 27X of the Social Security Act 1964 shall continue to apply—
+(2) Notwithstanding subsection (1), the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 shall not be required to exercise his or her powers in respect of any such contributions if the chief executive considers that to do so would not be economically viable.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act (No 3) 1993, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+### 5 Abolition of miners' benefits
+((1)–(5)) Amendment(s) incorporated in the Act(s).
+(6) Notwithstanding the provisions of this section, if, immediately before the commencement of this section, a person is in receipt of a miner's benefit under section 47 of the principal Act or a miner's widow's benefit under section 53 of that Act, the chief executive shall continue to pay that benefit as if this section had not been enacted; but at the appropriate rate from time to time payable to the recipient of an invalid's benefit who has no annual income.
+
+### 9 Maintenance payable to Crown
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding the repeal of section 27F of the principal Act by section 6(1) of the Social Security Amendment Act (No 5) 1991, it is hereby declared that any money payable under a maintenance order that was payable to the Consolidated Revenue Account or Crown Bank Account under that section (before its repeal), and unpaid as at the close of 30 June 1992, shall continue to be payable to the Crown Bank Account as a debt due to the Crown.
+
+### 15 Financial means assessment of people requiring residential care disability service
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Any agreement the chief executive entered into with a person that—shall be deemed to remain in force and to be an agreement to repay any amount of the cost of the residential care disability services paid under the Health and Disability Services Act 1993 or the New Zealand Public Health and Disability Act 2000 in respect of that person after that date; and references in that agreement to that welfare programme shall be deemed to include any amounts so paid under the Health and Disability Services Act 1993 or the New Zealand Public Health and Disability Act 2000.
+  (a) required that person to repay, as a loan, any amount of rest home subsidy that was paid in respect of that person under the rest home subsidy welfare programme approved by the Minister under section 124(1)(d) of the principal Act; and
+  (b) was in force immediately before 1 July 1993—
+
+### 28 Welfare programmes
+((1)) Amendment(s) incorporated in the Act(s).
+(2) The purported application of any provision of Part 1 to and in respect of—before the commencement of this section, is hereby validated and declared to have been lawful, and to be enforceable, as if section 124(1A) of the principal Act (as inserted by subsection (1)) had been in force and as if the programme provided for such application, on the date of such application.
+  (a) any programme approved by the Minister of Social Welfare under section 124(1)(d) of the principal Act; or
+  (b) any applicant for assistance under the programme; or
+  (c) any other specified class or classes of person—
+(3) Nothing in subsection (2) shall affect the rights of any party under any judgment of any court, or any decision of the Social Security Appeal Authority, as the result of proceedings filed, or a notice of appeal lodged, as the case may be, before 1 April 1993.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act 1994, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+(2) This Act shall come into force on the day after the day on which it receives the Royal assent.
+
+### 8 Transitional provisions
+(1) In this section,—and other terms and expressions have the meanings ascribed to them in section 3 of the principal Act.
+  - **benefit** includes the granting of special assistance under any welfare programme approved under section 124(1)(d)
+  - **mortgage security** and have the meanings ascribed to them in section 61E
+  - **specified period** means the period commencing on 1 January 1994 and ending on the close of the day on which this Act receives the Royal assent;—
+(2) Subject to subsection (3), where a beneficiary was granted a benefit at a reduced rate during the specified period by reason of any debt insurance payment or health or disability insurance payment or income-related insurance payment, as the case may be, made to the beneficiary or to some other person on behalf of or for the benefit of the beneficiary or a member of his or her family, the following provisions shall apply:
+  (a) the chief executive shall calculate the difference between the amount of the benefit paid during that period and the amount of the benefit that would otherwise have been payable if this Act had been in force during that period:
+  (b) where the result of the calculation is a deficiency in the payment made, the chief executive shall pay the amount of the deficiency to the beneficiary without further appropriation than this section; but may apply the amount of any such deficiency in reduction of the amount of any excess in the payment made of any other benefit affected by this section:
+  (c) where the result of the calculation is an excess in the payment made, the chief executive shall write off the amount of that excess under the authority of this section to the extent that it is not offset by the amount of any deficiency of payment of any other benefit affected by this section:
+  (d) the chief executive shall also make such adjustments as are appropriate to the rate of the benefit payable after this Act comes into force.
+(3) No beneficiary—shall have the total rate of payment that is made to him or her under that accommodation supplement and other benefit reduced by reason only of the coming into force of this Act, but nothing in this subsection shall prevent the chief executive subsequently reviewing the rate of accommodation supplement or other benefit, or both, payable to that beneficiary.
+  (a) who was granted an accommodation supplement and another benefit during the specified period; and
+  (b) whose rate of accommodation supplement or other benefit during that period was or were affected by reason of any debt insurance payment made to the beneficiary or to some other person on behalf of or for the benefit of the beneficiary, being a payment in respect of the beneficiary's mortgage security over his or her premises,—
+
+### 9 Savings
+(1) Subject to subsection (2), every decision or determination of the chief executive made before 1 January 1994 in assessing or deciding not to assess any debt insurance payment or health or disability insurance payment or income-related insurance payment, as the case may be, as income for any purpose under the principal Act is hereby confirmed and declared to be and always to have been valid.
+(2) Nothing in subsection (1) affects—
+  (a) any application under section 10A of the principal Act for the review of a decision made by an applicant or a beneficiary before 14 September 1994 or the decision of a review committee on any such application; or
+  (b) any appeal under section 12J of the principal Act against a decision or determination lodged by an applicant or a beneficiary before 14 September 1994 or the decision of the Appeal Authority on any such appeal; or
+  (c) any proceedings in any court in relation to a decision or determination commenced by an applicant or a beneficiary before 14 September 1994 or the decision of the court in any such proceedings.
+(3) In this section, terms and expressions have the meanings ascribed to them in section 3 of the principal Act.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act 1996, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+(2) Except as provided in sections 2(8), 25(2), 27(2), 29(2), 31(2), 32(5), 38(2), 39(2), 40(3), 41(2), 45(3), and 46(2), this Act shall come into force on 1 April 1997.
+
+### 21 Transitional provisions
+(1) This section applies to a person who is not entitled to a benefit for a period of 26 weeks due to the application of section 60H or section 60J or section 60N(1) of the principal Act as they were in force before their repeal by this Act.
+(2) A person referred to in subsection (1)—
+  (a) shall not have the period of non-entitlement reduced by the repeal of those sections; and
+  (b) shall be entitled to have applied to him or her, as if they had not been repealed by this Act, the provisions of sections 60K and 60KA of the principal Act as they were in force before their repeal and substitution by this Act.
+(3) The spouse of a person referred to in subsection (1) shall be entitled to have applied to him or her the provisions of section 60L of the principal Act as it was in force before its repeal and substitution by this Act.
+(4) In subsection (1), benefit means an unemployment benefit, a job search allowance, or an independent youth benefit.
+
+### 32 Abolition of transition to work allowance
+((1)–(3)) Amendment(s) incorporated in the Act(s).
+(4) Notwithstanding subsections (1) to (3), a transition to work allowance shall continue to be payable, as if this section had not been enacted,—
+  (a) to any person in receipt of that allowance immediately before this section comes into force; and
+  (b) until the earlier of—
+    (i) the date on which the allowance ceases to be payable to that person under section 69D(3) of the principal Act; or
+    (ii) the date that person ceases to be in full employment.
+(5) This section shall come into force on 1 July 1996.
+
+### 1 Short Title
+This Act may be cited as the Social Security Amendment Act (No 3) 1996, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
+
+### 2 Abolishing special married rate of training benefit
+((1)–(3)) Amendment(s) incorporated in the Act(s).
+(4) Notwithstanding subsections (1) to (3), the special rate of training benefit under section 60B(2) of the principal Act shall continue to be payable, as if this section had not been enacted,—
+  (a) to a married person receiving that rate immediately before this section comes into force; and
+  (b) until the earlier of—
+    (i) the date on which the person is no longer entitled to a training benefit or to that rate of benefit; or
+    (ii) the end of the period the benefit is payable for, as determined under section 60C(1) of the principal Act.
+
+### 3 Abolition of power to make advances to beneficiaries and war pensioners for repair or maintenance of home, etc
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding subsection (1), subsections (3) to (5) of section 125 of the principal Act shall continue to apply, as if this section had not been enacted, to any advance made under that section.
+(3) Every advance made under section 125 of the principal Act—
+  (a) shall not have its validity called into question by the repeal of that section; and
+  (b) may be recovered, when repayable under the terms and conditions of the advance under that section,—
+    (i) as a debt due to the Crown, at the suit of the chief executive; or
+    (ii) by deduction from any benefit subsequently payable to the person to whom the advance was made under the principal Act; or
+    (iii) under section 86A of the principal Act.
+((4), (5)) Amendment(s) incorporated in the Act(s).
+
+### 4 Transitional arrangements for advances
+Notwithstanding section 3, the chief executive may make an advance under section 125 of the principal Act, as if that section was still in force, if—
+  (a) the application for the advance was made before section 3 came into force; and
+  (b) the application had not been dealt with before that date.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act (No 4) 1997, and is part of the Social Security Act 1964 (the principal Act).
+(2) This Act comes into force on the day after the date on which it receives the Royal assent, except for sections 9, 11, 13, 14, 15, 18, 20(1), 28, and 30.
+
+### 7 Procedure on appeal
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) The provisions of sections 12K, 12M, 12O, and 12P of the principal Act apply, without modification (except for the new subsection (1C) substituted by subsection (1)), to every appeal under section 12J of the principal Act that was lodged, and has not been dealt with, before this section comes into force.
+((4)) Amendment(s) incorporated in the Act(s).
+
+### 11 New sections substituted
+((1)) Amendment(s) incorporated in the Act(s).
+(2) The entitlement to a training benefit of a person who, immediately before 1 January 1998,—is determined by the law in force immediately before 1 January 1998.
+  (a) was 16 years or 17 years; and
+  (b) was receiving a training benefit—
+((3), (4)) Amendment(s) incorporated in the Act(s).
+(5) This section comes into force on 1 January 1998.
+
+### 13 New sections substituted
+((1)) Amendment(s) incorporated in the Act(s).
+(2) The entitlement to an independent youth benefit of a person who was receiving the benefit immediately before 1 January 1998 is determined by the law in force immediately before 1 January 1998.
+((3)) Amendment(s) incorporated in the Act(s).
+(4) This section comes into force on 1 January 1998.
+
+### 23 Deduction notices for debts
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Section 86A(1A) of the principal Act (as inserted by subsection (2)) applies to all debts to the Crown recoverable under the principal Act, whether or not the Limitation Act 1950 prevented recovery of the debt by civil action in a court of law before the coming into force of this section.
+
+### 24 Money payable out of Crown Bank Account
+((1)–(3)) Amendment(s) incorporated in the Act(s).
+(4) It is declared that the Minister of Social Welfare or, as the case may require, the Minister of Social Security has always had the power under section 124(1)(d) of the principal Act to establish and approve any welfare programme for special assistance for the purposes of that section; and every such welfare programme that has at any time been so approved, and any payments or grants of special assistance and actions taken under it, are confirmed and declared to be and always to have been valid.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security Amendment Act 1998, and is part of the Social Security Act 1964 (the principal Act).
+(2) Part 1 comes into force on 1 July 1998.
+(3) Part 2 comes into force on 1 September 1998.
+(4) Part 3 and Schedule 1 come into force on 1 October 1998.
+(5) Part 4 and Schedule 2 come into force on 1 February 1999.
+
+## Part 1 — Amendments to principal Act coming into force on 1 July 1998
+
+### 3 Sickness benefits
+((1)) Amendment(s) incorporated in the Act(s).
+(2) If a person was receiving a sickness benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
+
+### 5 Unemployment benefits
+((1)) Amendment(s) incorporated in the Act(s).
+(2) If a person was receiving an unemployment benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
+
+### 6 Young job seekers' allowances
+((1)) Amendment(s) incorporated in the Act(s).
+(2) If a person was receiving a young job seeker's allowance immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
+
+### 7 Training benefits: qualifications
+((1)) Amendment(s) incorporated in the Act(s).
+(2) If a person was receiving a training benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
+
+### 8 Independent youth benefits: basic qualifications
+((1)) Amendment(s) incorporated in the Act(s).
+(2) If a person was receiving an independent youth benefit immediately before 1 July 1998, nothing in subsection (1) affects the person's entitlement to continue to receive that benefit.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Social Security (Work Test) Amendment Act 1998, and is part of the Social Security Act 1964 (the principal Act).
+(2) This Act comes into force on 1 October 1998.
+
+## Part 1 — Amendments to principal Act
+
+### 4 Voluntary unemployment or loss of employment through misconduct, etc
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Nothing in subsection (1) entitles a person who, before 1 October 1998, had his or her benefit reduced under section 60H of the principal Act, to receive the benefit without that reduction until either the expiry of the period for which the reduction was imposed under that section, or the person becomes entitled to another rate of benefit under the principal Act.
+
+## Part 2 — Repeals and transitional provisions
+
+### 10 Transitional provisions relating to persons subject to sanction on commencement of this section
+(1) This section applies to every person who, immediately before the date of commencement of this section, was subject to a non-entitlement period of 13 weeks or a reduced benefit for 13 weeks, under section 60H or section 60JA of the principal Act.
+(2) A person to whom this section applies may,—
+  (a) in the case of a person who was participating in a programme or project referred to in section 60KA of the principal Act, continue to participate in that programme or project; or
+  (b) in any other case, continue his or her non-entitlement period or continue to receive a reduced benefit and, subject to section 60KA, participate in a programme or project referred to in that section.
+(3) Section 60KA of the principal Act is deemed to continue to apply to persons referred to in subsection (2) of this section as if that section had not been repealed by section 8.
+(4) Where a person was, immediately before the date of commencement of this section, subject to any sanction under the principal Act other than a sanction referred to in subsection (1), that sanction is revoked with effect on the commencement of this section and any work-test failure on the person's part that occurred before that date is not to be counted as a work-test failure on or after that date.
+
+### 1 Short Title
+(1) This Act is the Social Security (Personal Development and Employment) Amendment Act 2002.
+(2) In this Act, the Social Security Act 1964 is called the principal Act.
+
+## Part 1 — Preliminary provisions
+
+### 2 Commencement
+(1) Sections 4(2) to (6), 6 to 8, 11, 14, 15(1), 25, 30, 32, and 37 and the Schedule come into force on 10 March 2003.
+(2) Except as provided in section 23(1), the rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is—
+  (a) to facilitate the movement of domestic purpose beneficiaries and widows' beneficiaries from reliance on benefits to employment as their parenting responsibilities and individual circumstances allow; and
+  (b) to introduce a requirement for those beneficiaries to prepare plans that will assist them to move towards employment and to demonstrate commitment to the goals set out in those plans; and
+  (c) to amend the provisions of the principal Act relating to the establishment and recovery of debts; and
+  (d) to make miscellaneous amendments to the principal Act.
+
+## Part 3 — Transitional provisions, amendments affecting principal Act, and consequential amendments to other enactments
+
+**Transitional provisions**
+
+### 31 Transitional provisions relating to review of decisions
+No application for a review made under section 10A of the principal Act before the commencement of section 5 of this Act is invalid by reason that the decision to which the application relates was made under a delegation pursuant to an enactment or authority (other than an enactment referred to in section 10A(1) of the principal Act as it read before the commencement of section 5 of this Act).
+
+### 32 Transitional provisions for cessation of work testing for certain benefits
+(1) Subsection (2) applies to a person who, immediately before this section comes into force, is in receipt of a widow's benefit or a domestic purposes benefit (other than a domestic purposes benefit granted under section 27G of the principal Act).
+(2) On the date that this section comes into force,—
+  (a) a person to whom this subsection applies—
+    (i) ceases to be subject to the work test or, as the case requires, the obligation to comply with section 60HA of the principal Act; and
+    (ii) ceases to be subject to any sanctions to which the person was subject under section 117 of the principal Act; and
+  (b) a benefit granted to a person to whom this subsection applies,—
+    (i) if granted to the person under section 60H(6)(b) of the principal Act, ceases to be subject to the condition referred to in that paragraph; and
+    (ii) if granted to the person under section 123B of the principal Act, ceases to be subject to the condition referred to in subsection (4) of that section.
+(3) Subsection (4) applies to a person who, immediately before this section came into force, was a person who had applied for a widow's benefit or a domestic purposes benefit and was subject to a non-entitlement period under section 60H(4) of the principal Act.
+(4) On the date that this section comes into force, a person to whom this subsection applies—
+  (a) ceases to be subject to the non-entitlement period, and that period lapses; and
+  (b) is entitled to be granted the benefit applied for if he or she otherwise qualifies for it.
+(5) Nothing in subsection (4) limits the application of section 80BA of the principal Act.
+
+### 33 Transitional provision relating to mode of ascertaining annual income for benefit purposes
+(1) For the purpose of determining the validity of any determination or purported determination made under section 64(2A) of the principal Act on or after 31 July 1996 but before the date on which section 13 of this Act comes into force, section 64 of the principal Act must be read as if it had incorporated the amendments made by section 13 of this Act on and after 1 July 1996.
+(2) Subsection (1)—
+  (a) does not apply in respect of any application, appeal, or proceedings of a kind specified in subsection (3) that alleged an invalidity in a determination or purported determination under section 64(2A) of the principal Act and was made or filed, as the case may be, before 11 September 2002; and
+  (b) does not affect the rights of any person who made an application to which paragraph (a) applies, or was a party to an appeal or other proceedings to which paragraph (a) applies, under—
+    (i) any decision, or any judgment of a court, in relation to that application or appeal or those proceedings, as the case may be; or
+    (ii) any decision or judgment given on appeal from that decision or judgment.
+(3) Subsection (2)(a) applies in respect of—
+  (a) an application for review under section 10A of the principal Act:
+  (b) an appeal under section 12J, section 12Q, or section 12R of the principal Act:
+  (c) any other proceedings.
+
+### 34 Transitional provision relating to reviewing of payments made in excess of authorised rates
+(1) Subsection (2) applies to any sum that the chief executive has, before the commencement of this section, determined is recoverable under any of section 86(1) to (1D) of the principal Act.
+(2) Section 86(9A) of the principal Act, as it read before the commencement of section 22 of this Act, continues to apply to any sum to which this subsection applies as if section 22 of this Act had not been enacted.
+(3) This section overrides section 35.
+
+### 35 Transitional provision relating to recovery of debt
+If, immediately before the commencement of this section, any amount is recoverable from any person under any of section 86(1) to (1D) of the principal Act (as those subsections read immediately before the commencement of section 22 of this Act), after the commencement of this section—
+  (a) that amount continues to be recoverable under section 86(1) of the principal Act (as substituted by section 22(1)); and
+  (b) any proceedings taken in respect of its recovery before the commencement of this section continue as if brought under section 86(1)(a) of the principal Act (as so substituted).
+
+### 1 Title
+(1) This Act is the Social Security (Working for Families) Amendment Act 2004.
+(2) In this Act the Social Security Act 1964 is called the principal Act.
+
+### 2 Commencement
+(1) Section 19 and Schedule 1 come into force on 1 October 2004.
+(2) Section 11 comes into force on 4 October 2004.
+(3) Sections 5 and 15 come into force on 1 July 2004.
+(4) Sections 6, 7, 9, 13, 14, 16, 20(1), and 22(1), and Schedules 2 and 4 come into force on 1 April 2005.
+(5) Sections 10, 21, and 23, and Schedule 3 come into force on 1 April 2006.
+(6) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is to—
+  (a) provide targeted financial incentives for certain persons to enter into, and stay in, employment:
+  (b) address accommodation affordability issues for those persons eligible for the accommodation supplement:
+  (c) take steps towards simplifying the benefit system and making it easier to understand (for example, by introducing a new benefit rate structure for families):
+  (d) make related amendments to the Social Security Act 1964.
+
+### 20 Amendments to various schedules
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) and Schedule 2 are subject to any Order in Council made under section 61H of the principal Act amending 1 or more of the schedules referred to in subsection (1) that comes into force on 1 April 2005.
+
+### 22 New Schedule 31 added to principal Act
+((1)) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) and Schedule 4 are subject to any Order in Council made under section 61H of the principal Act amending Schedule 31 that comes into force on 1 April 2005.
+
+**Transitional provisions**
+
+### 23 Savings in respect of existing special benefits
+(1) A special benefit continues to be payable to a person receiving or who had applied for a special benefit immediately before this section comes into force as if the former section 61G continued in force, until the earlier of—
+  (a) the date on which the chief executive determines, under section 81 or otherwise, that the person is—
+    (i) no longer qualified to receive the special benefit under the former section 61G; and
+    (ii) no longer entitled to have fixed in respect of him or her, under the former section 61G, a special entitlement to a special benefit; or
+  (b) if the special benefit was granted under the former section 61G for a specific period, the end of that period.
+(2) The following provisions continue to apply to a person referred to in subsection (1) and the person's spouse until the earlier of the dates referred to in paragraphs (a) and (b) of that subsection:
+  (a) the former section 61G:
+  (b) any direction given under section 5 relating to the former section 61G (being a direction in force immediately before the commencement of this section).
+(3) To avoid doubt, the Minister may from time to time, under section 5, amend or revoke any direction referred to in subsection (2)(b).
+(4) While the former section 61G continues to apply to a person, the person and his or her spouse may not apply for or be granted, temporary additional support under section 61G of the principal Act.
+(5) In this section, former section 61G, means section 61G of the principal Act as it read immediately before the commencement of this section.
+
+### 24 Savings in respect of income assessments
+For the purpose of determining the validity of any income assessment, the principal Act must be read as if the definition of income in section 3(1) of the principal Act at all material times contained paragraph (f)(xviii) (as inserted by section 4 of this Act).
+
+### 25 Transitional arrangements for financially disadvantaged persons
+(1) The purpose of this section is to enable the making of regulations authorising the provision of financial assistance to any persons who are financially disadvantaged as a consequence of the net effects of the amendments made by this Act, the Taxation (Working for Families) Act 2004, and any related regulations or other instruments.
+(2) The chief executive may from time to time grant to a person referred to in subsection (1) financial assistance—
+  (a) of the prescribed kind and in the prescribed amount; and
+  (b) for the prescribed period; and
+  (c) in accordance with the prescribed criteria; and
+  (d) in accordance with any other requirements set out in the regulations made under subsection (3).
+(3) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of this section.
+(4) Regulations made under subsection (3) must state the date on and after which they are to have effect (which may be a date earlier than the date on which they were made).
+
+### 1 Title
+(1) This Act is the Social Security (Long-term Residential Care) Amendment Act 2004.
+(2) In this Act, the Social Security Act 1964 is called the principal Act.
+
+## Part 1 — Preliminary
+
+### 2 Commencement
+This Act comes into force on 1 July 2005.
+
+### 3 Purpose
+The purpose of this Act is to amend, consolidate, and clarify provisions relating to long-term residential care provided to older people, and in particular—
+  (a) to progressively increase the value of assets that people may retain before being required to use their assets to pay for the cost of contracted care services provided to them; and
+  (b) to provide that people aged 50 to 64 who are single and have no dependent children are not required to pay for contracted care services provided to them out of assets; and
+  (c) to clarify the obligations of people receiving long-term residential care in a hospital or rest home to pay for that care; and
+  (d) to clarify the funder's obligations to pay for contracted care services associated with long-term residential care; and
+  (e) to limit the amount that residents who are assessed as requiring long-term residential care indefinitely are required to pay for that care; and
+  (f) to clarify the procedures associated with needs assessment; and
+  (g) to amend the means assessment and clarify the procedures associated with it.
+
+## Part 2 — Amendments to principal Act
+
+**Transitional provisions**
+
+### 7 Definitions used for purpose of transitional provisions
+In this section and sections 8 to 11,—
+  - **commencement date** means the date on which this Act comes into force
+  - **financial means assessment** means a financial means assessment conducted under section 69F
+  - **section 69F** means section 69F of the principal Act as it read immediately before its repeal by this Act.
+
+### 8 Assessment as needing residential care disability services indefinitely to be treated as needs assessment under section 137
+(1) Every person who, immediately before the commencement date, had been notified as being, or had been treated as having been, assessed as requiring residential care disability services indefinitely (as referred to in section 69F(1)) must, on and after the commencement date, be treated as a person who has been needs assessed under section 137 of the principal Act as requiring long-term residential care in a hospital or rest home indefinitely.
+(2) If an assessment has been conducted for the purposes of section 69F before the commencement date, but the result has not been determined, or has been determined but not notified by that date, that needs assessment must be determined, and its outcome notified to the person, as if it were a needs assessment conducted under section 137 of the principal Act.
+
+### 9 Financial means assessment under section 69F to be treated as means assessment under Part 4 of principal Act
+(1) The result of a financial means assessment conducted under section 69F is to be treated as if it were a result following a means assessment under Part 4 of the principal Act.
+(2) A copy of every financial means assessment under section 69F is taken to have been provided as required by section 148 of the principal Act.
+(3) A financial means assessment conducted under section 69F may be reviewed under section 150 of the principal Act as if it were a means assessment conducted under Part 4 of that Act, in which case any new means assessment must be conducted in accordance with sections 146 and 147 of the principal Act, and Part 4 and Schedule 27 of that Act apply.
+
+### 10 Exempt persons and elderly victims of crime
+(1) Until regulations are made under section 155 of the principal Act that define the classes of exempt person, and that identify how a person is to be assessed as being an elderly victim of crime, every person who, immediately before the commencement date, was treated as an exempt person or an elderly victim of crime must continue to be so treated.
+(2) If, as a result of regulations referred to in subsection (1), a person who was previously treated as an exempt person or an elderly victim of crime is found not to be an exempt person or elderly victim of crime (as the case may be), no refund may be sought from that person of any payment made by a funder in respect of the person before the regulations came into force, unless the refund relates to something other than the person's status as an exempt person or elderly victim of crime.
+(3) If, as a result of regulations referred to in subsection (1), a person who was previously not treated as an exempt person or an elderly victim of crime is found to be an exempt person or elderly victim of crime (as the case may be), no refund may be sought by the person of any payment made to a provider by the person in respect of any period before the regulations came into force, unless the refund relates to something other than the person's status as an exempt person or elderly victim of crime.
+
+### 11 No refunds in respect of periods before commencement date
+(1) No person is entitled, as a result of this Act coming into force, to a refund of any amount that the person has paid, or to a rebate of any amount that the person is liable to pay, for residential care disability services provided before the commencement date.
+(2) No provider is entitled, as a result of this Act coming into force, to payment from a funder in respect of services provided to a person, or class of persons, before the commencement date.
+(3) However, nothing in subsection (1) or subsection (2) affects any rights that existed or accrued before the commencement date.
+
+### 1 Title
+(1) This Act is the Social Security Amendment Act 2005.
+(2) In this Act, the Social Security Act 1964 is called the principal Act.
+
+### 2 Commencement
+(1) Except as provided in subsections (2) and (3), this Act comes into force on 26 April 2005.
+(2) Sections 5 and 6 come into force on 1 April 2007.
+(3) Section 7 comes into force on 1 July 2005.
+
+### 6 Transitional provision regarding relationships in the nature of marriage
+(1) For the purposes of sections 21 and 27A to 27H of the principal Act,—
+  (a) a reference to a de facto relationship includes a relationship in the nature of marriage that was entered into at any time before 1 April 2007; and
+  (b) a reference to a de facto partner includes a person who was a partner in any relationship in the nature of marriage referred to in paragraph (a).
+(2) Any relationship that was, immediately before the commencement of this section, regarded by the chief executive under section 63 of the principal Act (as it was before section 5 came into force) as a relationship in the nature of marriage is a de facto relationship.
+
+### 1 Title
+(1) This Act is the Social Security (Social Assistance) Amendment Act 2005.
+(2) In this Act, the Social Security Act 1964 is called the principal Act.
+
+### 2 Commencement
+(1) Sections 4(3) and 7(3) come into force on 1 July 2005.
+(2) Sections 9(1) and (3) and 10(1) come into force on 1 May 2005.
+(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to Social Security Act 1964
+
+### 7 Rates of benefits for sole parents may be reduced
+((1)–(4)) Amendment(s) incorporated in the Act(s).
+(5) Despite anything in section 70A(5) (as inserted by subsection (4) of this section), no further reduction under section 70A(5) may be made with effect earlier than 1 July 2005.
+
+## Part 2 — Consequential amendments and savings provision
+
+### 18 Savings in respect of tax on benefits
+(1) For the purpose of determining the validity of any payment for tax on an income-tested benefit, the principal Act must be read as if at all material times it contained section 83A, as inserted by section 12 of this Act.
+(2) In this section, income-tested benefit has the meaning given to it in section 83A(6) of the principal Act, as inserted by section 12 of this Act.
+
+### 1 Title
+This Act is the Social Security (Long-term Residential Care) Amendment Act 2006.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to principal Act
+
+### Subpart 1 — Amendments to Part 1
+
+### 4 Disability allowance
+(1) Amendment(s) incorporated in the Act(s).
+(2) Any money received by a person by way of a disability allowance must be repaid as a debt due to the Crown if the disability allowance was granted in respect of an application that—
+  (a) was made after 14 June 2006; and
+  (b) was made in respect of expenses referred to in section 69C(2B)(a) of the principal Act (as inserted by this section).
+(3) If, on an application made between 18 May 2006 and 18 May 2007, a disability allowance is granted to or on account of a person referred to in section 69C(2B)(b) of the principal Act (as inserted by this section) for expenses that are not costs of residential care services supplied to that person, then, despite section 80(1) of the principal Act, the disability allowance commences on the later of—
+  (a) the date the person became entitled to receive it; or
+  (b) 18 May 2006.
+
+### 1 Title
+This Act is the Social Security Amendment Act 2007.
+
+### 2 Commencement
+(1) Part 1 and Schedules 1 to 3 come into force on 2 July 2007.
+(2) Sections 12 and 13 and Schedules 2 and 3 come into force on 2 July 2007.
+(3) Part 2 and Schedules 4 and 5 come into force on 24 September 2007.
+(4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Provisions coming into force on 28 May or 2 July 2007
+
+**Transitional**
+
+### 17 Widows' benefits
+If, immediately before the commencement of section 5, a person was receiving a widow's benefit on the ground of having the care of a dependent child, the person's entitlement to continue to receive the benefit must, until the child ceases to be a dependent child of the person, be determined as if that section had not been enacted.
+
+### 18 Domestic purposes benefits
+(1) If, immediately before the commencement of section 6, a person was receiving a domestic purposes benefit on the ground of having the care of a dependent child, the person's entitlement to continue to receive the benefit must, until the child ceases to be a dependent child of the person, be determined as if that section had not been enacted.
+(2) If, immediately before the commencement of section 7, a person aged 16 or 17 years was receiving a domestic purposes benefit on the ground of having the care of a sick or infirm person, the person's entitlement to continue to receive the benefit must, until he or she ceases to have the care of the sick or infirm person, be determined as if that section had not been enacted.
+
+### 19 Stand down periods
+(1) This subsection applies to a benefit if—
+  (a) it was granted before 28 May 2007; and
+  (b) by virtue of section 80BA of the principal Act would (but for subsection (2)) commence after 28 May 2007.
+(2) A benefit to which subsection (1) applies commences on the later of the following days:
+  (a) 28 May 2007:
+  (b) the day on which it would have commenced if sections 11(3) and 16 of this Act had come into force immediately before it was granted.
+
+### 20 Transitional arrangements for financially disadvantaged people
+(1) The Governor-General may, by Order in Council, make regulations authorising the provision of financial assistance to any people who are financially disadvantaged as a result of the net effects of the amendments made by this Act.
+(2) The regulations must state the day on and after which they have effect (which may be earlier than the day on which they were made).
+(3) The chief executive may provide financial assistance of the kind prescribed by the regulations to a person disadvantaged as a result of the net effects of the amendments made by this Act—
+  (a) in the amount, for the period, and in accordance with the criteria, prescribed by the regulations; and
+  (b) in accordance with any other requirements imposed by the regulations.
+(4) After it has initially been granted, financial assistance provided under the regulations must for the purposes of the principal Act be treated as a benefit; and the principal Act applies accordingly.
+(5) A decision or determination made by the chief executive under the regulations is a decision or determination for the purposes of section 12J(1).
+
+**Validation**
+
+### 21 Commencement of benefits
+The validity of the making of a payment of an independent youth benefit before the commencement of section 11 must be determined as if subsection (1) of that section had come into force immediately before the payment was made.
+
+### 1 Title
+This Act is the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010.
+
+### 2 Commencement
+(1) Sections 4(1), 14, 17, 30, and 31 come into force on the day after the date on which this Act receives the Royal assent.
+(2) Sections 4(14) to (17) and 8, and Schedule 2 come into force on 2 May 2011.
+(3) This rest of this Act comes into force on 27 September 2010.
+
+**Transitional provisions**
+
+### 36 Transitional provision relating to personal development and employment plans
+Any personal development and employment plan made and in force immediately before the commencement of this Act is to be treated as an employment plan made under section 60Q of the principal Act (as amended by this Act).
+
+### 37 Transitional provisions relating to job seeker agreements and job seeker development activities
+(1) Despite the commencement of this Act, any job seeker agreement in force before the commencement of this Act continues in force for the purpose of section 102A(1)(h) of the principal Act until the chief executive directs otherwise under that paragraph.
+(2) Despite the commencement of this Act, any job seeker development activity defined, and any conditions of any job seeker development activity specified, under section 110 (before its repeal by this Act) continue in force for the purpose of section 102A(1)(h) of the principal Act.
+
+### 38 Transitional provisions relating to sanctions under former section 117(1)(a)
+(1) In this section, former section 117(1)(a) means section 117(1)(a) of the principal Act as it read before its repeal and substitution by this Act.
+(2) This section applies to a beneficiary who,—
+  (a) on the commencement of this Act, is subject to a sanction of suspension of his or her benefit imposed under the former section 117(1)(a); or
+  (b) before the commencement of this Act, has been given written notice under section 113(2) of the principal Act of the chief executive's decision to impose a sanction of suspension of benefit under the former section 117(1)(a) that specifies that the sanction is to take effect on a date that is on or after the commencement of this Act.
+(3) For the purposes of completing or imposing the sanction referred to in subsection (2), the former section 117(1)(a) continues to apply to a beneficiary to whom this section applies as if this Act had not been enacted.
+
+### 39 Transitional provision relating to exemptions from the work test
+Every exemption from the work test granted under section 105(1) of the principal Act before the commencement of this Act and in force on that commencement must, until the exemption is varied or revoked under subsection (6) of that section, be treated as an exemption from all work test obligations.
+
+### 1 Title
+This Act is the Social Security (Youth Support and Work Focus) Amendment Act 2012.
+
+### 2 Commencement
+(1) Part 1 (except for sections 19, 20, 21, and 23), Part 2, and the schedules come into force on 20 August 2012.
+(2) Parts 3 and 4 come into force on 15 October 2012.
+(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Social Security Act 1964 (the principal Act).
+
+## Part 2 — Consequential amendments, and transitional and savings provisions, taking effect on 20 August 2012
+
+**Other consequential amendments**
+
+### 29 Transitional provision: entitlement to youth payment or young parent payment
+(1) This subsection applies to a person—
+  (a) who, immediately before the commencement of this Part,—
+    (i) was aged 16 or 17 years and did not have a dependent child; and
+    (ii) was receiving in his or her own right an independent youth benefit or sickness benefit; and
+  (b) who—
+    (i) is not married, or in a civil union or de facto relationship, and does not have an income that exceeds the limit in clause 10 of Schedule 26; or
+    (ii) is married, or in a civil union or de facto relationship, and does not have a combined income that exceeds the limit in clause 11 of Schedule 26; and
+  (c) who is not the spouse or civil union or de facto partner of a specified beneficiary within the meaning of any of paragraphs (b) to (d) of the definition of that term in section 157 of the principal Act (as inserted by section 24 of this Act).
+(2) A person to whom subsection (1) applies is entitled, on the commencement of this Part of this Act to receive a youth payment as if it had been granted on that commencement under section 159 or 160 of the principal Act.
+(3) This subsection applies to a person—
+  (a) who, immediately before the commencement of this Part,—
+    (i) was aged 16, 17, or 18 years; and
+    (ii) was receiving in his or her own right a widow’s benefit, a domestic purposes benefit (other than a domestic purposes benefit under section 61G of the principal Act), a sickness benefit, an emergency benefit (being an emergency benefit granted to the person on the basis that he or she would, but for his or her being aged 16 or 17 years, be entitled to a domestic purposes benefit under section 27B of the principal Act), or an unemployment benefit (other than an unemployment benefit granted under section 90(2) or (3) of the principal Act); and
+  (b) who has a dependent child or children; and
+  (c) who—
+    (i) is not married, or in a civil union or de facto relationship, and does not have an income that exceeds the limit in clause 10 of Schedule 26; or
+    (ii) is married, or in a civil union or de facto relationship, and does not have a combined income that exceeds the limit in clause 11 of Schedule 26; and
+  (d) who is not the spouse or civil union or de facto partner of a specified beneficiary within the meaning of any of paragraphs (b) to (d) of the definition of that term in section 157 of the principal Act (as inserted by section 24 of this Act).
+(4) A person to whom subsection (3) applies is entitled, on the commencement of this Part to receive a young parent payment as if it had been granted on that commencement under section 165 or 166 of the principal Act.
+(5) A youth payment or young parent payment under subsection (2) or (4)—
+  (a) is, despite Schedule 26 but subject to section 30, payable at not less than the rate of the benefit that the person was receiving immediately before the commencement of this Part; and
+  (b) continues at that rate until the young person’s entitlement to the payment is reviewed under section 81 following a change of circumstances.
+(6) If, immediately before the commencement of this Part, the benefit of a person to whom subsection (1) or (3) applies is subject to a sanction under section 60Y or 60Z or 117 of the principal Act, on that commencement—
+  (a) the sanction ceases to apply; and
+  (b) for the purposes of subsections (2) and (4), the rate of the benefit that would have been payable if the sanction had not been imposed must be treated as the rate of the benefit that the person was receiving immediately before that commencement.
+
+### 30 Savings provision: domestic purposes benefit under section 27G
+(1) This section applies to a person who—
+  (a) either—
+    (i) was receiving a domestic purposes benefit under section 27G in his or her own right immediately before the commencement of this Part; or
+    (ii) had made an application for a domestic purposes benefit under section 27G in his or her own right before that commencement, and was granted the benefit (on that application) after that commencement; and
+  (b) is aged 16 or 17 years; or
+  (c) is aged 18 years and has a dependent child or children.
+(2) A person to whom this section applies is entitled to continue to receive that benefit for so long as he or she otherwise qualifies for it as if section 10 of this Act had not been enacted.
+
+### 31 Transitional arrangements for financially disadvantaged people
+(1) The Governor-General may, by Order in Council, make regulations authorising the provision of financial assistance to any people who are financially disadvantaged as a result of the net effects of the amendments made by Part 1 or 2.
+(2) The regulations must state the day on and after which they have effect (which may be earlier than the day on which they were made).
+(3) The chief executive may provide financial assistance of the kind prescribed by the regulations to a person disadvantaged as a result of the net effects of the amendments made by Part 1 or 2—
+  (a) in the amount, for the period, and in accordance with the criteria, prescribed by the regulations; and
+  (b) in accordance with any other requirements imposed by the regulations.
+(4) After it has initially been granted, financial assistance provided under the regulations must for the purposes of the principal Act be treated as a benefit; and the principal Act applies accordingly.
+(5) A decision or determination made by the chief executive under the regulations is a decision or determination for the purposes of section 12J(1) of the principal Act.
