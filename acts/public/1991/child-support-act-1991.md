@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2011-01-01_
+_Consolidation as at 2012-08-20_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -85,7 +85,7 @@ _Consolidation as at 2011-01-01_
       (ii) an invalid's benefit granted under section 40 of that Act:
       (iii) an unemployment benefit:
       (iv) a sickness benefit:
-      (v)
+      (v) young parent payment:
     (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by a Family Court under section 99
