@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-08-20_
 
 > An Act to reform the administration of education
 
@@ -5483,7 +5483,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 ### 226A Disclosure of enrolment information by institutions
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964, or an independent youth benefit under section 60F of that Act
+  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25
   - **specified period** means any period specified in a notice under subsection (3)
@@ -6004,7 +6004,7 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 ### 235F Disclosure of enrolment information by private training establishments
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964, or an independent youth benefit under section 60F of that Act
+  - **benefit** means an unemployment benefit or a sickness benefit under the Social Security Act 1964
   - **chief executive** means the chief executive of the department
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act
   - **specified period** means any period specified in a notice under subsection (3)
@@ -7426,7 +7426,7 @@ The provisions of section 226A apply to any secondary school as if such a school
   (aa) in the case of a student loan debt, by deduction from—
     (i) any allowance (including any case where the living costs have already been paid under the loan for the period to which the debt relates); or
     (ii) any benefit under the Social Security Act 1964 to which that person may become subsequently entitled; or
-  (ab) in the case of a benefit debt, by deduction from any allowance; or
+  (ab) in the case of a debt described in section 85A of the Social Security Act 1964, by deduction from any allowance; or
   (b) at the suit of the Secretary; or
   (c) by deduction notice under section 86A of the Social Security Act 1964.
 (3) For the purposes of subsection (2)﻿(c), sections 86A and 86B to 86J of the Social Security Act 1964 apply with any necessary modifications.
