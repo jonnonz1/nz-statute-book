@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-08-20_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36914,7 +36914,7 @@ In this Act, unless the context requires otherwise,—
       (iii) for any number of hours that is regarded as full-time employment for the purpose of an agreement, award, or contract relating to the employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (SR 1998/277) or any regulations in substitution for those regulations; or
     (c) in receipt of payments under a Government-assisted scheme that the chief executive of the administering department considers analogous to a benefit payable under Part 1 of the Social Security Act 1964; or
-    (d) in receipt of a benefit, as defined in section 3 of the Social Security Act 1964, payable under Part 1 of the Act
+    (d) in receipt of a benefit, as defined in section 3 of the Social Security Act 1964
   - **first business day** , in relation to provisional tax, means—
     (a) the first day in an income year on which a person with a provisional tax liability derives income or incurs expenditure as a result of carrying on a taxable activity, if the person is not a natural person; and
     (b) the day following the last day in an income year on which a person with a provisional tax liability derived income from employment, if the person is a natural person
@@ -37245,11 +37245,13 @@ In this Act, unless the context requires otherwise,—
   - **income-tested benefit** means any of the following benefits paid or payable under the Social Security Act 1964:
     (a) domestic purposes benefit:
     (b) emergency benefit:
-    (c) independent youth benefit:
+    (c)
     (d) invalids’ benefit:
     (e) sickness benefit:
     (f) unemployment benefit:
-    (g) widows’ benefit
+    (g) widows’ benefit:
+    (h) young parent payment:
+    (i) youth payment
   - **increase in savings** is defined in section LZ 12 (Meaning of increase in savings) for the purposes of sections LZ 9 to LZ 11 (which relate to credits for savings in special accounts)
   - **independent living** means occupancy of a place under an arrangement that––
     (a) does not have a level of compulsory care:
