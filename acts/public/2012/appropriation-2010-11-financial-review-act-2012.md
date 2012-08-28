@@ -1,5 +1,5 @@
 # Appropriation (2010/11 Financial Review) Act 2012
-_Consolidation as at 2012-05-07_
+_Consolidation as at 2012-08-28_
 
 ### 1 Title
 This Act is the Appropriation (2010/11 Financial Review) Act 2012.
