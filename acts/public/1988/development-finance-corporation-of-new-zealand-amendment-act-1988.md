@@ -1,5 +1,5 @@
 # Development Finance Corporation of New Zealand Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-31_
 
 > An Act to amend the Development Finance Corporation of New Zealand Act 1986 and certain other enactments
 
