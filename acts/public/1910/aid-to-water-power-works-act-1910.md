@@ -1,5 +1,5 @@
 # Aid to Water-Power Works Act 1910
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-31_
 
 > An Act to authorize the Raising of Money in Aid of the Establishment of Electric-power Works and the Utilization of Water-works in connection therewith, and for other Public Purposes.
 
@@ -10,7 +10,7 @@ This Act may be cited as the Aid to Water-power Works Act 1910.
 This Act shall be deemed to be an authorizing Act within the meaning of the New Zealand Loans Act 1908 [Repealed], and the moneys hereinafter authorized to be raised shall be raised under and subject to the provisions of that Act accordingly.
 
 ### 3 Minister of Finance may raise $1,000,000
-The Minister of Finance is hereby empowered to raise, on the security of and charged upon the public revenues of New Zealand, such sums of money, not exceeding in the whole the sum of one million dollars, as he thinks fit.
+The Minister of Finance is hereby empowered to raise, on the security of and charged upon the public revenues of New Zealand, such sums of money, not exceeding in the whole the sum of $1,000,000, as he thinks fit.
 
 ### 4 Rate of interest
 The sums so raised shall bear interest at such rate (not exceeding four and a half per centum per annum) as the Minister of Finance prescribes.
