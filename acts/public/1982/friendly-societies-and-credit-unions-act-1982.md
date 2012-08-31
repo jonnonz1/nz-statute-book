@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -930,12 +930,12 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
   (a) section 39 (which relates to the membership of minors) applies to any credit union as if it were a society registered under Part 2; and
   (b) no charitable entity as defined by the Charities Act 2005 or incorporated society registered under the Incorporated Societies Act 1908 can be an officer of a credit union.
 (2) Members need have no more than $10 in fully paid-up shares, although a credit union's rules may allow for a deposit of more or less than $10 in fully paid-up shares.
-(3) A member of a credit union shall not have or claim any interest in the shares of the credit union exceeding $250,000 or such other amount as the Governor-General may, from time to time, by Order in Council declare.
+(3)
 (4) A member of a credit union who ceases to fulfil the qualifications for admission to membership shall be entitled, subject to subsection (5), to retain his membership unless the rules of the credit union provide otherwise; and in this Act, the term non-qualifying member, in relation to a credit union, means a person who remains a member of the credit union by virtue of this subsection:
   provided that, where the rules of the credit union so provide, a member shall not cease to fulfil the qualifications for membership by reason merely of retirement from following a particular occupation or employment with a particular employer.
 (5) The number of non-qualifying members of a credit union shall not at any time exceed 10% of the total membership of the credit union.
 (6) Non-qualifying members of a credit union shall be left out of account in determining for any purpose whether a common bond exists between the members of the credit union.
-(7) A non-qualifying member of a credit union shall be entitled, except so far as the rules of the credit union may otherwise provide, to purchase shares and, subject to section 110(6), to receive loans.
+(7) A non-qualifying member of a credit union shall be entitled, except so far as the rules of the credit union may otherwise provide, to purchase shares and to receive loans.
 (8) Subject to any provision in the rules of a credit union as to voting by a chairman who has a casting vote or to voting by delegates at any conference or meeting relating to credit unions, on every matter which is determined by a vote of members of a credit union every member shall be entitled to vote and shall have 1 vote only.
 
 **Operation of credit union**
@@ -949,42 +949,31 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
   (a) in the case of a non-qualifying member, the withdrawal shall not be permitted; and
   (b) in any other case, the withdrawal shall be permitted only at the discretion of the committee of management of the credit union.
 
+### 107A Credit union may offer credit union securities
+(1) A credit union may, if authorised by and in accordance with its rules and trust deed, offer credit union securities to members for subscription.
+(2) Credit union securities—
+  (a) are transferable only between members; and
+  (b) confer no voting rights upon holders.
+(3) In the event of a credit union being wound up, claims for credit union securities must not be paid until all creditors' claims and claims relating to the shares referred to in section 107 have been paid.
+(4) In the event of a credit union incurring losses that exceed its retained earnings and reserves, the value of the credit union securities must be written down accordingly.
+(5) To avoid doubt,—
+  (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the Securities Act 1978:
+  (b) credit union securities do not include shares under section 107.
+
 ### 108 General prohibition on taking deposits
-(1) Subject to section 109, a credit union shall not accept a deposit from any person, except by way of subscription for its shares.
-(2) In this section, the term deposit means a sum of money paid on terms—
-  (a) under which it will be repaid, with or without interest or at a premium, and either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the credit union; and
-  (b) which are not referable to the provision of property or services or to the giving of security.
-(3) For the purposes of subsection (2)(b), money is paid on terms which are referable to the provision of property or services or to the giving of security only if—
-  (a) it is paid by way of advance or part-payment for the sale, hire, or other provision of property or services of any kind and is repayable only in the event that the property or services is or are not in fact sold, hired, or otherwise provided; or
-  (b) it is paid by way of security for payment for the provision of property or services of any kind provided or to be provided by the credit union; or
-  (c) it is paid by way of security for the delivery up or return of any property, whether in a particular state of repair or otherwise.
-(4) A deposit taken in contravention of this section shall not affect any civil liability arising in respect of the deposit or the money deposited.
+[Repealed]
 
 ### 109 Power of credit union to borrow money
-(1) Except as provided in this Act and notwithstanding anything to the contrary in the rules of a credit union, no credit union shall be entitled to borrow money nor shall any person lend money to any credit union.
-(2) Any bank carrying on business in New Zealand may grant, and any credit union may receive, accommodation by way of overdraft in aid of any account established with that bank by that credit union, and that account may be overdrawn accordingly for a term not exceeding 6 months at any one time unless a longer term or an extension of an existing term is authorised in writing by the Registrar.
-(3) A credit union may also borrow money from another credit union or credit unions or an association of credit unions or, where the common bond for membership of the credit union is membership of a registered friendly society, that friendly society if its rules so provide, for any continuous period not exceeding 1 year at any one time unless a longer term or an extension of an existing term is authorised in writing by the Registrar.
-(4) Every credit union which has borrowed (for purposes other than for the provision of assets of a capital nature pursuant to section 113) and not repaid any amount or amounts which at any time exceeds in the aggregate 30% of its paid-up capital or, in the case of an association of credit unions, its deposits, commits an offence against this Act.
-(5) A person dealing with a credit union shall not be obliged to satisfy himself or to inquire whether the limit on borrowing by that credit union imposed by subsection (4) has been or is being observed; but if a person who lends money to a credit union or takes security in connection with such a loan has, at the time when the loan is made or the security is given, actual notice of the fact that the limit has been or is being exceeded, the debt or security shall be unenforceable.
-(6) Subject to subsection (5), no transaction with a credit union shall be invalid or ineffectual solely by reason of the fact that the limit on borrowing by that credit union imposed by subsection (4) has been or is being exceeded.
-(7) Where money borrowed by a credit union is not repaid on written demand on the date on which repayment is due, the credit union shall not make any loans or permit the withdrawal of any shares (or, in the case of an association of credit unions, deposits) until the repayment is made; and every credit union which makes such loans or permits such withdrawals commits an offence against this Act.
+A credit union may borrow money if the borrowing is authorised by, and in accordance with, its rules and trust deed.
 
 ### 109A Power of credit union to appoint trustee for debt securities
 Regardless of anything to the contrary in the rules of a credit union, a credit union may appoint a trustee and sign or amend a trust deed for the purposes of section 33(2) of the Securities Act 1978.
 
 ### 110 Credit union may make loans to members
-(1) Subject to this section, a credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
-(2) For the purposes of subsection (1), the rules of a credit union may contain provisions fixing the maximum amount by which the indebtedness of a member of the credit union may exceed the total amount of the member's paid-up share capital in the credit union.
-(3) The maximum indebtedness of a member in respect of an unsecured loan (whether wholly unsecured or, in the case of a loan which is partly secured and partly unsecured, that part which is unsecured) shall, at the time the loan is made, be an amount not exceeding 5% of the amount shown as the value of the assets of the credit union in the latest statement of financial position of the credit union lodged with the Registrar in accordance with this Act or, where a first statement of financial position has not yet been lodged, an amount which, in the opinion of the committee, fairly represents the value of the assets of the credit union.
-(4) The maximum indebtedness of a member in respect of a secured loan shall, at the time the loan is made, be an amount not exceeding 10% of the amount shown as the value of the assets of the credit union in the latest statement of financial position of the credit union lodged with the Registrar in accordance with this Act or, where a first statement of financial position has not yet been lodged, an amount which, in the opinion of the committee, fairly represents the value of the assets of the credit union.
-(5) A credit union shall not make a loan jointly to 2 or more members of the credit union if the amount of that loan would exceed an amount that would, if each of those members had applied individually for a loan, be the larger or largest of the amount of the loans which could have been made to any one of those members.
-(6) Subject to this section, a credit union shall not make a loan to a non-qualifying member if the making of the loan would cause that member's total liability (including contingent liability) to the credit union, whether as borrower, guarantor, or otherwise, to exceed his total paid up shareholding in the credit union at that time.
-(7) The maximum period within which a loan by a credit union must be repaid shall be 10 years in the case of a secured loan and 5 years in the case of an unsecured loan, or such other periods as may from time to time be approved by the Registrar upon application in respect of any particular credit union.
-(8) In subsection (1), the term security includes the giving of security by way of mortgage, guarantee, or promissory note or notes.
+A credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
 
 ### 111 Minister may fix maximum amount of loans to members
-(1) Notwithstanding section 110, the Minister may from time to time, by notice in the Gazette, fix in relation to credit unions generally, or in relation to a particular credit union, or credit unions of a particular class, the maximum amount of any loan, secured or unsecured, made by the credit union to a member, or the total amount that may be outstanding on loans to members.
-(2) Every credit union that makes a loan in contravention of the terms of any notice given under subsection (1) commits an offence against this Act.
+[Repealed]
 
 ### 112 Credit union property to vest in trustees
 (1) All property belonging to a credit union shall vest in the trustees for the time being of the credit union for the use and benefit of its members, and of all persons claiming through the members according to the rules of the credit union.
@@ -997,30 +986,30 @@ Regardless of anything to the contrary in the rules of a credit union, a credit 
   (d) section 32 (which requires a District Land Registrar to be advised of the names of trustees); and
   (e) section 33 (which relates to dealing with land under the Land Transfer Act 1952).
 
-### 113 Credit union may hold land for limited purposes
-(1) A credit union may, in the name of its trustees, for the purpose of conducting its business thereon or therein but, subject to subsection (4), for no other purpose, purchase, hold, take on lease, or otherwise provide—
+### 113 Credit union may hold land
+(1) A credit union may, in the name of its trustees, if authorised by and in accordance with its rules and trust deed, purchase, hold, take on lease, or otherwise provide—
   (a) any land, and may sell, exchange, mortgage, or lease any such land, and erect, equip, furnish, alter, and maintain, or pull down buildings on it:
   (b) any building or part of a building, and equip, furnish, alter, and maintain, or pull down any such building.
 (2) A credit union shall have power to hold any interest in land so far as is necessary for the purpose of making loans to its members on the security of an interest in land and of enforcing any such security.
-(3) Where a credit union acquires an interest in land by the exercise of any right which it has as a creditor or under a security, it shall sell that interest as soon as may be practicable but in any case within 6 months after acquiring the interest or within such further period as may be allowed by the Registrar upon application in any particular case.
-(4) Notwithstanding subsection (1), the Minister may authorise a credit union to erect buildings on land held by it to be used otherwise than for the purpose of conducting its business therein if the Minister is satisfied that such authority is necessary to enable the economic use of the land or to provide for the credit union's accommodation requirements in the future.
-(5) Every credit union which holds land in contravention of this section commits an offence against this Act.
-(6) Notwithstanding subsection (5), where, as at the commencement of this Act, any credit union holds any land or building that, except for this subsection, would otherwise be held in contravention of this section, the Minister may, subject to such conditions as he may impose, authorise the credit union to retain that land or building without thereby committing an offence against this Act.
+(3)
+(4)
+(5)
+(6)
 (7) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
 (8) Subject, in the case of an instrument affecting land under the Land Transfer Act 1952, to the provisions of section 33 (as applied by section 112(3)(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
 
 ### 114 Officers of credit union to give security
 (1) Before taking upon himself the execution of his office, every officer of a credit union having the receipt or charge of money shall, notwithstanding any rule of the credit union to the contrary, give security in accordance with subsection (2) for his rendering a just and true account of all sums of money received and paid by him on account of the credit union at such times as its rules appoint, or as the credit union or its trustees or committee require him to do, and for the payment by him of all sums due from him to the credit union.
-(2) Where an officer of a credit union is required to give security in accordance with subsection (1), he shall do so—in such sum as the Registrar may from time to time recommend or, in the absence of such a recommendation, as the credit union directs; or
-  (a) by becoming bound with at least 1 sufficient surety in such form of bond as may from time to time be prescribed by the Registrar for the purpose; or
-  (b) by giving the security of a guarantee society—
-  (c) with the approval of the Registrar and in such sum as he may agree, by including that sum within the risks insured by the policy of insurance required to be in force in respect of the credit union pursuant to section 133.
+(2) If an officer of a credit union is required to give security in accordance with subsection (1), the officer must do so by—
+  (a) becoming bound by 1 or more sureties in such sum as the credit union directs; or
+  (b) giving the security of a guarantee society in such sum as the credit union directs; or
+  (c) including a sum, agreed to by the credit union, within the risks insured by the insurance policy required under section 133.
 (3) In this section the term guarantee society means—
   (a) any incorporated company carrying on the business of insurance in New Zealand; or
   (b) any society registered under Part 2 as a specially authorised society and duly authorised to guarantee the fidelity of officers of societies or branches registered under the said Part 2 or credit unions; or
   (c) an association of credit unions authorised under section 143(4)(e) to offer fidelity insurance.
 (4) Where any registered friendly society makes provision by its rules in accordance with clause 8 of Schedule 1 for guaranteeing the performance of their duties by officers of the society or its branches and membership of that friendly society is the common bond for the membership of a credit union, then the society may resolve to extend the effect of the guarantee to cover officers of the credit union to the same extent as if they were officers of the society, and it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules as extended.
-(5) The Registrar may from time to time, either generally or specifically, review any security or bond given pursuant to this section and may require amendments to the sums secured or conditions applying or both.
+(5)
 
 ### 115 Duty of officers of credit union to account
 (1) Every officer of a credit union having the receipt or charge of money shall—render such account as may be required by the credit union, or by the trustees or committee of management of the credit union; and shall, on demand or on notice as in paragraph (c), pay over all money and deliver all property in his hands or custody to such person as the credit union, or the trustees or the committee, may appoint.
@@ -1036,16 +1025,43 @@ The provisions of section 36 (which relates to the priority of claims on the dea
 
 ### 117 Investment of surplus funds
 (1) In this section surplus funds, in relation to a credit union, means funds not immediately required for its purposes.
-(2) The trustees of a credit union may invest its surplus funds in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(2) The trustees of a credit union may invest its surplus funds if the investment is authorised by, and in accordance with, its rules and trust deed.
 (3) The trustees of a credit union may also invest its surplus funds by depositing them with any association of credit unions of which it is a component member pursuant to section 143.
 (4) Any surplus funds of a credit union which are not either—shall be kept by the credit union on current account with, or otherwise on loan to, any bank carrying on business in New Zealand.
   (a) invested in accordance with subsection (2) or subsection (3); or
   (b) kept in cash in the custody of officers of the credit union,—
 (5) Nothing in this section shall prevent a credit union from making a temporary loan to another credit union pursuant to section 109:
-  provided that no association of credit unions shall lend money to another association without the prior approval of the Registrar.
+  provided that no association of credit unions shall lend money to another association unless authorised by the rules of the credit union.
 (6) The provisions of section 49 (which relate to the duties of trustees in relation to investments) shall, as far as they are applicable and with any necessary modification, apply in respect of the trustees of a credit union as if they were the trustees of a society registered under Part 2.
 (7) Where the common bond of a credit union is membership of a society registered under Part 2 and the trustees and other officers of the credit union are the same persons as the trustees and other officers of the society, it shall be sufficient compliance with this section if the surplus funds of the credit union were treated together with and as part of the surplus funds of the society and were invested accordingly, but accounted for separately to the credit union.
 (8) Any credit union which contravenes or fails to comply with the provisions of this section commits an offence against this Act.
+
+**Distribution to members**
+
+### 117A Meaning of distribution
+(1) In sections 117B to 117D, unless the context otherwise requires, distribution, in relation to a distribution by a credit union to a member, means—
+  (a) the direct or indirect transfer of money or property to or for the benefit of the member; or
+  (b) the incurring of a debt to or for the benefit of the member.
+(2) For the purposes of subsection (1),—
+  (a) the distribution must relate to credit union securities held by the member to whom the distribution is being made; and
+  (b) a transfer may be made, or a debt incurred, by means of a purchase of property, the redemption or other acquisition of credit union securities or shares, a distribution of indebtedness, or by some other means.
+
+### 117B Distribution must be authorised
+A distribution must be authorised in writing by the committee, or committee of management, as the case may be, of the credit union.
+
+### 117C Distribution must not be authorised unless credit union solvent
+The committee, or committee of management, as the case may be, of the credit union must not authorise a distribution unless the committee is satisfied on reasonable grounds that, immediately after the distribution is made, the credit union will be solvent.
+
+### 117D Solvency test
+(1) A credit union is solvent for the purposes of the payment of a distribution if—
+  (a) the credit union is able to pay its debts as they become due in the normal course of business; and
+  (b) the value of the credit union’s assets is greater than its liabilities, including its contingent liabilities.
+(2) In determining whether the value of the credit union’s assets is greater than its liabilities, the committee, or committee of management, as the case may be, of the credit union—
+  (a) must have regard to all circumstances that the committee knows or ought to know affect, or may affect, the value of the credit union’s assets and the value of its liabilities, including its contingent liabilities; and
+  (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+(3) In determining, for the purposes of this section, the value of a contingent liability, account may be taken of—
+  (a) the likelihood of the contingency occurring; and
+  (b) any claim that the credit union is entitled to make and can reasonably expect to be met to reduce or extinguish a contingent liability.
 
 **Disputes**
 
@@ -1059,17 +1075,7 @@ For the purposes of this Part, the following provisions shall, as far as they ar
 **Accounts, audit, and auditors**
 
 ### 119 Credit union to maintain general reserves
-(1) In this section—
-  - **gross earnings** means the gross income received by a credit union from interest on loans and investments made or rent from land held
-  - **total assets** means the amount shown as the value of the assets of a credit union in the latest statement of financial position of the credit union lodged with the Registrar in accordance with this Part.
-(2) Every credit union shall out of its profits, from year to year, establish and maintain a general reserve which shall not be distributed until the credit union is being wound up or is dissolved, but may be applied for the following purposes:
-  (a) to offset realised losses arising from loans made by the credit union to members:
-  (b) to such persons of such amounts in such special circumstances as the Registrar, on application, may approve.
-(3) The general reserve shall be established and maintained as follows:
-  (a) at the end of the credit union's first financial year and then each year, an amount equivalent to 10% of the gross earnings of the credit union shall be transferred to the general reserve until the reserve reaches an amount equivalent to 7.5% of the total assets of the credit union:
-  (b) during the financial year immediately following the year that the reserve reached 7.5% of the total assets of the credit union and then each year, the amount to be transferred to the general reserve may be reduced to an amount equivalent to 5% of the gross earnings of the credit union until the reserve reaches an amount equivalent to at least 10% of the total assets of the credit union:
-  (c) after the general reserve reaches an amount equivalent to 10% of the total assets of the credit union, the amount to be transferred to the general reserve in each subsequent financial year shall be 10% of the gross earnings or such lesser amount as may be necessary to maintain the general reserve at at least the amount equivalent to 10% of the total assets.
-(4) Where a credit union has been trading or carrying on business for at least 4 years from the date of its registration and its total assets exceed $500,000 then, in respect of each financial year that the total assets exceed that amount, the amount to be transferred to the general reserve may be reduced to 5% of the gross earnings or such lesser amount as may be necessary to maintain the general reserve at at least the amount equivalent to 5% of the total assets.
+[Repealed]
 
 ### 120 Financial year of credit union
 (1) The first financial year of a credit union may extend from the date of its registration to such date not later than 18 months from the date of its registration as may be specified in its rules.
@@ -1206,13 +1212,13 @@ Every credit union shall keep available for inspection (without charge) by a mem
 
 ### 134 Guarantee funds
 (1) Subject to this section, a credit union, or any 2 or more credit unions, or any association of credit unions on behalf of its constituent members may enter into arrangements with a person carrying on the business of insurance, for the purpose of making funds available—
-  (a) to assist any credit union that is a party to the arrangements and which, in the opinion of the Registrar, is in financial difficulties:
+  (a) to assist any credit union that is a party to the arrangements and which is in financial difficulties:
   (b) to meet losses incurred by members of a credit union which is a party to the arrangements.
 (2) Any 2 or more credit unions together or any association of credit unions on behalf of its constituent members may enter into any other kind of arrangements for the purposes specified in subsection (1).
-(3) Subject to this section and notwithstanding anything to the contrary in this Act or a credit union's or association's rules, a credit union or association shall have power to make contributions, whether by instalments or not, under arrangements made in accordance with this section, but subject in all cases to the approval of the Registrar.
+(3) Subject to this section and notwithstanding anything to the contrary in this Act or a credit union's or association's rules, a credit union or association shall have power to make contributions, whether by instalments or not, under arrangements made in accordance with this section.
 (4) Arrangements under this section may provide for the vesting of a fund in trustees appointed under the arrangements.
-(5) Arrangements under this section may provide for the incorporation of a company under the Companies Act 1993; and a credit union or association shall have power to subscribe for or purchase shares in, or deposit money with, any company so incorporated whether by instalments or not, but subject in all cases to the approval of the Registrar.
-(6) Arrangements under this section shall not come into force, and no contribution, subscription, or deposit shall be made thereunder by a credit union or association, until the arrangements have been approved by the Registrar; and the Registrar shall not approve arrangements under this section unless they provide that any variation of their terms shall also require the approval of the Registrar.
+(5) Arrangements under this section may provide for the incorporation of a company under the Companies Act 1993; and a credit union or association shall have power to subscribe for or purchase shares in, or deposit money with, any company so incorporated whether by instalments or not.
+(6)
 
 ### 135 Amalgamation of credit unions and transfer of engagements
 (1) Any 2 or more credit unions may, by special resolution of each of them, become amalgamated together as 1 credit union, with or without any dissolution or division of the funds of those credit unions or any of them.
@@ -1286,7 +1292,7 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
   (a) no person who ceased to be a member not less than 1 year before the beginning of the winding up shall be liable to contribute:
   (b) no person shall be liable to contribute in respect of any debt or liability contracted after he ceased to be a member:
   (c) no person who is not a member shall be liable to contribute unless it appears to the court that the contributions of the existing members are insufficient to satisfy the just demands on the credit union:
-  (d) no contribution shall be required from any person exceeding the amount, if any, unpaid on the shares in respect of which he is liable as a past or present member, together with any fees or charges or levies payable as such by a member to the credit union as specified in the rules and any money owing by the member to the credit union:
+  (d) no contribution shall be required from any person exceeding the amount, if any, unpaid on the shares and the credit union securities referred to in section 107A in respect of which he is liable as a past or present member, together with any fees or charges or levies payable as such by a member to the credit union as specified in the rules and any money owing by the member to the credit union:
   (e) in the case of a withdrawable share which has been withdrawn, a person shall be taken to have ceased to be a member in respect of that share as from the date of the notice or application for withdrawal.
 
 **Nomination of shares**
@@ -1340,7 +1346,7 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
   (b) so much of section 104(1) as relates to section 12 (except subsection (6)), section 17, and section 23(3) and (4):
   (c) section 104(1)(a), (b), and (c), and (2):
   (d) section 106 (except subsection (8)), and sections 107 and 108:
-  (e) section 119, section 124, and section 142.
+  (e) sections 124 and 142.
 
 ## Part 4 — Miscellaneous provisions
 
