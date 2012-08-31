@@ -1,5 +1,5 @@
 # Potato Industry Act Repeal Act 1988
-_Consolidation as at 1988-07-29_
+_Consolidation as at 2012-08-31_
 
 > An Act to repeal the Potato Industry Act 1977, and dissolve the New Zealand Potato Board established under it
 
