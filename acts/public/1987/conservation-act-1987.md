@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -846,6 +846,92 @@ In granting any concession, the Minister may impose such conditions as he or she
   (a) in exceptional circumstances, the Minister may grant a term not exceeding 60 years:
   (b) where the easement provides a right of way access to a property to which there is no other practical access, the term may be for such longer period as the Minister considers appropriate:
   (c) where the easement is for a public work (as defined in the Public Works Act 1981), the term may be for the reasonably foreseeable duration of that public work.
+
+### 17ZAA Concession may continue after application for new concession
+(1) This section applies if—
+  (a) a concession is due to expire; and
+  (b) the concessionaire applies for a new concession for the same activity; and
+  (c) the application complies with section 17R and includes the information required by section 17S(1) and (2); and
+  (d) the application meets the timing requirement in subsection (2) or (3); and
+  (e) the concessionaire has complied with the terms and conditions of the existing concession.
+(2) The application meets the timing requirement if it is made at least 6 months before the existing concession expires.
+(3) The application also meets the timing requirement if—
+  (a) it is made in the period starting 6 months before, and ending 3 months before, the existing concession expires; and
+  (b) the Minister, in his or her discretion, allows the application to be made within that period.
+Minister decides to grant new concession
+(4) Subsection (5) applies if—
+  (a) the Minister decides to grant the new concession; and
+  (b) the concessionaire does not apply for reconsideration under section 17ZJ(b) before 1 of the following things happens:
+    (i) the new concession document is signed by the parties:
+    (ii) the specified deadline is reached.
+(5) The concessionaire may continue to operate under the existing concession until 1 of the things described in subsection (4)(b)(i) and (ii) happens.
+(6) Subsection (7) applies if—
+  (a) the Minister decides to grant the new concession; and
+  (b) the concessionaire applies for reconsideration under section 17ZJ(b) before 1 of the following things happens:
+    (i) the new concession document is signed by the parties:
+    (ii) the specified deadline is reached.
+(7) The concessionaire may continue to operate under the existing concession until 1 of the following things happens:
+  (a) the new concession document is signed by the parties:
+  (b) the Minister completes or declines to carry out the reconsideration.
+Minister declines to grant new concession
+(8) Subsection (9) applies if—
+  (a) the Minister declines to grant the new concession; and
+  (b) the concessionaire does not apply for reconsideration under section 17ZJ(a) before the specified deadline.
+(9) The concessionaire may continue to operate under the existing concession until the specified deadline.
+(10) Subsection (11) applies if—
+  (a) the Minister declines to grant the new concession; and
+  (b) the concessionaire applies for reconsideration under section 17ZJ(a) before the specified deadline.
+(11) The concessionaire may continue to operate under the existing concession until the Minister completes or declines to carry out the reconsideration.
+(12) This section does not apply to an existing concession if section 17ZAAB already applies to the concession.
+Meaning of specified deadline
+(13) In this section, specified deadline means the sooner of the following times:
+  (a) the end of the day that is 1 month after the day of the Minister's decision to grant or to decline to grant the new concession:
+  (b) the end of any time limit for the concessionaire to apply for reconsideration under section 17ZJ that is prescribed by regulations made under section 48AA, including any extension of the time limit.
+
+### 17ZAAB Concession may continue after process initiated under section 17ZG(2)(a)
+(1) This section applies if—
+  (a) a concession is due to expire; and
+  (b) the Minister has exercised a power under section 17ZG(2)(a) to initiate a process that relates to an application for a concession; and
+  (c) an application by the concessionaire for a new concession for the same activity would be inconsistent with the process if the application were made when written notice is given under paragraph (d); and
+  (d) the concessionaire gives written notice to the Minister that the concessionaire wants to continue to operate under the existing concession under this section; and
+  (e) the written notice meets the timing requirement in subsection (2) or (3); and
+  (f) the concessionaire has complied with the terms and conditions of the existing concession.
+(2) The written notice meets the timing requirement if it is given at least 6 months before the existing concession expires.
+(3) The written notice also meets the timing requirement if—
+  (a) it is given in the period starting 6 months before, and ending 3 months before, the existing concession expires; and
+  (b) the Minister, in his or her discretion, allows the written notice to be given within that period.
+(4) The concessionaire may continue to operate under the existing concession until—
+  (a) the Minister has decided to grant or to decline to grant a concession for each application made in accordance with the process initiated under section 17ZG(2)(a); and
+  (b) each applicant's right to apply for reconsideration under section 17ZJ has been resolved as described in subsection (6), (8), (10), or (12).
+Minister decides to grant applicant's concession
+(5) Subsection (6) applies if—
+  (a) the Minister decides to grant the applicant's concession; and
+  (b) the applicant does not apply for reconsideration under section 17ZJ(b) before 1 of the following things happens:
+    (i) the concession document is signed by the parties:
+    (ii) the specified deadline is reached.
+(6) The applicant's right to apply for reconsideration is resolved when 1 of the things described in subsection (5)(b)(i) and (ii) happens.
+(7) Subsection (8) applies if—
+  (a) the Minister decides to grant the applicant's concession; and
+  (b) the applicant applies for reconsideration under section 17ZJ(b) before 1 of the following things happens:
+    (i) the concession document is signed by the parties:
+    (ii) the specified deadline is reached.
+(8) The applicant's right to apply for reconsideration is resolved when 1 of the following things happens:
+  (a) the concession document is signed by the parties:
+  (b) the Minister completes or declines to carry out the reconsideration.
+Minister declines to grant applicant's concession
+(9) Subsection (10) applies if—
+  (a) the Minister declines to grant the applicant's concession; and
+  (b) the applicant does not apply for reconsideration under section 17ZJ(a) before the specified deadline.
+(10) The applicant's right to apply for reconsideration is resolved when the specified deadline is reached.
+(11) Subsection (12) applies if—
+  (a) the Minister declines to grant the applicant's concession; and
+  (b) the applicant applies for reconsideration under section 17ZJ(a) before the specified deadline.
+(12) The applicant's right to apply for reconsideration is resolved when the Minister completes or declines to carry out the reconsideration.
+(13) This section does not apply to an existing concession if section 17ZAA already applies to the concession.
+Meaning of specified deadline
+(14) In this section, specified deadline means the sooner of the following times:
+  (a) the end of the day that is 1 month after the day of the Minister's decision to grant or to decline to grant the relevant applicant's concession:
+  (b) the end of any time limit for the relevant applicant to apply for reconsideration under section 17ZJ that is prescribed by regulations made under section 48AA, including any extension of the time limit.
 
 ### 17ZA Registration of easements
 (1) For the purpose of granting any easement over any conservation area, the Minister is hereby deemed to be the registered proprietor of that conservation area.
@@ -2104,6 +2190,16 @@ Every person who commits an offence against this Act for which no penalty is pre
   (d) provide for the refund or waiver of any fee or levy by the Minister or the Director-General, in whole or in part, in any specified case or class of cases.
 (3) Regulations made under this section may apply to all conservation areas, conservation areas of a specified class or description, or any specified conservation area or conservation areas or any specified part of any conservation area.
 (4) For the purposes of this section, the term conservation organisation includes the New Zealand Conservation Authority, any Conservation Board, the New Zealand Fish and Game Council, and any Fish and Game Council.
+
+### 48AA Regulations prescribing time limits for applications for concessions
+(1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
+  (a) prescribing a time limit for the Minister or the applicant to do anything under Part 3B in relation to an application for a concession under Part 3B or another enactment that applies Part 3B, if Part 3B does not already prescribe a time limit for doing that thing:
+  (b) prescribing a time limit for the Director-General to satisfy the requirement of section 49(2)(c) or (d) in relation to an application for a concession under Part 3B or another enactment that applies Part 3B:
+  (c) providing for how a prescribed time limit may be extended (for example, at the Minister's discretion or by agreement between the Minister and the applicant):
+  (d) providing for the extent to which a prescribed time limit may be extended:
+  (e) providing for the consequences of not meeting a prescribed time limit or any extension of the time limit:
+  (f) providing for any other matters relating to a prescribed time limit.
+(2) In this section, prescribed time limit means a time limit prescribed by regulations made under this section.
 
 ### 48A Special regulations relating to freshwater fisheries
 (1) Without limiting section 48, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
