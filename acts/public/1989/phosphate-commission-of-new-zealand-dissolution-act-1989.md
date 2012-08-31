@@ -1,5 +1,5 @@
 # Phosphate Commission of New Zealand Dissolution Act 1989
-_Consolidation as at 1989-12-13_
+_Consolidation as at 2012-08-31_
 
 > An Act to dissolve the Phosphate Commission of New Zealand
 
