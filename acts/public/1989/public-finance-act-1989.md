@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2012-08-31_
 
 > Title
 
@@ -1939,6 +1939,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Road Safety Trust |  |  |  |  |  |  |  |  |
 | Sentencing Council |  |  |  |  |  |  |  |  |
 | Southern Response Earthquake Services Limited |  |  |  |  |  |  |  |  |
+| Tāmaki Redevelopment Company Limited |  |  |  |  |  |  |  |  |
 | Te Ariki trust |  |  |  |  |  |  |  |  |
 | Transferee companies under the New Zealand Railways Corporation Restructuring Act 1990 in which the Crown holds 50% or more of the issued ordinary shares |  |  |  |  |  |  |  |  |
 
