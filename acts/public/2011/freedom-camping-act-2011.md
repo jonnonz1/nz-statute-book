@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-08-31_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -464,43 +464,19 @@ A certificate signed by the chief executive of a local authority or the Director
 ### Subpart 5 — Transitional provisions for current camping-related local authority bylaws
 
 ### 46 Purpose of this subpart
-The purpose of this subpart is to authorise local authorities, for a period of 1 year beginning on the date of the commencement of this Act, to issue infringement notices for breaches of camping-related bylaws that the local authorities have made under other enactments.
+[Repealed]
 
 ### 47 Infringement offences for camping-related local authority bylaw provisions specified in Schedule 3
-(1) A breach of a bylaw provision specified in Schedule 3 is an infringement offence.
-(2) The infringement fee for an offence referred to in subsection (1) is $200.
-(3) For the purposes of issuing an infringement notice for an infringement offence referred to in subsection (1),—
-  (a) this Act applies with any necessary modification; and
-  (b) the infringement notice and reminder notice forms set out in Schedule 2 may be modified to reflect the provisions of the bylaw concerned; and
-  (c) subject to section 26 of the New Zealand Bill of Rights Act 1990, the fee set out in subsection (2) overrides any penalty set out in the bylaw concerned for that provision (regardless of whether that penalty is for a greater or lesser amount).
-(4) To avoid doubt, subsection (3) applies only where an infringement notice is issued for the breach of the bylaw provision. Where the local authority elects to prosecute the offence under the Summary Proceedings Act 1957,—
-  (a) nothing in this Act applies to the proceedings or any penalty imposed as a result; and
-  (b) in taking proceedings, the local authority must comply with the requirements of the enactment under which the bylaw was made.
+[Repealed]
 
 ### 48 Infringement offences for camping-related local authority bylaw provisions specified in Schedule 4
-(1) A breach of a bylaw provision specified in Schedule 4 is an infringement offence.
-(2) The infringement fee for an offence referred to in subsection (1) is $200.
-(3) However, subsection (1) applies only if the local authority responsible for making the bylaw containing the provision,—
-  (a) by resolution,—
-    (i) describes the area or areas where camping is prohibited under the bylaw provision; or
-    (ii) specifies the conditions or restrictions on camping that apply, if the bylaw provision contemplates conditions or restrictions applying; and
-  (b) gives public notice of the matters in paragraph (a).
-(4) For the purposes of issuing an infringement notice or otherwise enforcing a breach of a bylaw provision referred to in subsection (1),—
-  (a) this Act applies with any necessary modification; and
-  (b) the infringement notice and reminder notice forms set out in Schedule 2 may be modified to reflect the provisions of the bylaw concerned; and
-  (c) subject to section 26 of the New Zealand Bill of Rights Act 1990, the fee set out in subsection (2) overrides any penalty set out in the bylaw concerned for that provision (regardless of whether that penalty is for a greater or lesser amount).
-(5) To avoid doubt, subsection (4) applies only where an infringement notice is issued for the breach of the bylaw provision. Where the local authority elects to prosecute the offence under the Summary Proceedings Act 1957,—
-  (a) nothing in this Act applies to the proceedings or any penalty imposed as a result; and
-  (b) in taking proceedings, the local authority must comply with the requirements of the enactment under which the bylaw was made.
-(6) In subsection (3)(b), public notice has the meaning given in section 5(1) of the Local Government Act 2002.
+[Repealed]
 
 ### 49 Empowering legislation otherwise applies to bylaw provisions
-(1) Any matter in relation to a bylaw provision (other than the issuing of an infringement notice for an infringement offence under section 47 or 48) must be dealt with in accordance with the enactment under which the bylaw was made (for example, the availability of any defences in relation to the alleged offence, any enforcement matter in relation to a breach of the bylaw provision, or any amendment or review of the bylaw by the local authority).
-(2) Nothing in this subpart prevents the validity of the bylaw being challenged under any other enactment.
-(3) This section is for the avoidance of doubt.
+[Repealed]
 
 ### 50 Descriptions of offences in Schedules 3 and 4
-The descriptions of the offences in Schedules 3 and 4 are intended only to be an indication of the content of the bylaw provisions they describe, and are not intended to be used in the interpretation of the provisions.
+[Repealed]
 
 ## Schedule 1 — Great Walks Tracks
 
@@ -508,151 +484,4 @@ The descriptions of the offences in Schedules 3 and 4 are intended only to be an
 
 ## Schedule 3 — Bylaws breach of which deemed infringement offence
 
-| Local authority | Bylaw |  | Provision | Description of offence |
-| --- | --- | --- | --- | --- |
-| Buller District Council | Freedom Camping Bylaw 2011 |  | 4.1 | Camps other than in vehicle with minimum 3-day capacity toilet and greywater storage facility |
-|  |  |  | 4.2 | Camps in area prohibited under clause 5 |
-|  |  |  | 4.3 | Camps at same location for more than 3 days in calendar month |
-|  |  |  | 4.4 | Disposes of toilet waste or greywater other than at a council-approved dump point |
-|  |  |  | 4.5 | Disposes of refuse other than at approved collection facility |
-|  |  |  | 4.6 | Fails to leave camping site clean and tidy |
-|  |  |  | 4.7 | Fails to comply with enforcement officer request |
-| Clutha District Council | Regulatory Service Bylaws 2008—Part 2 Public Places |  | 203.1(a) | Camps other than in vehicle with minimum 3-day capacity toilet and greywater storage facility |
-|  |  |  | 203.1(b) | Camps for more than 2 nights at same location or in prohibited area |
-|  |  |  | 203.1(c) | Disposes of toilet waste or greywater other than at a council-approved dump point |
-|  |  |  | 203.1(d) | Disposes of refuse other than in approved litter bin, skip, or landfill |
-|  |  |  | 203.1(e) | Fails to leave camping site clean and tidy |
-| Dunedin City Council | Camping Control Bylaw 2011 |  | 23.5.1, 23.5.2 | Camps other than in licensed camping ground or permitted camping area without prior written permission |
-|  |  |  | 23.5.2(b) | Camps in self-contained vehicle at same location for more than 2 consecutive nights or within 50 m of more than 1 other self-contained vehicle |
-|  |  |  | 23.5.2(c) | Camps in permitted camping area for more than 2 consecutive nights |
-|  |  |  | 23.6 | Fails to comply with conditions of camping permission or fails to leave camping site clean and tidy |
-|  |  |  | 23.7 | Fails to leave camping site when directed to do so |
-| Far North District Council | Consolidated General Bylaws—Chapter 17—Reserves |  | 1707.1 | Camps other than in designated camping ground or without authority |
-|  |  |  | 1707.2 | Camps in breach of conditions in area designated for complying camping vehicles |
-|  | Chapter 20 Parking and Traffic Control of the Far North District Council General Bylaws |  | 2005.1 | Camps in complying camping vehicle other than in Schedule 2 area |
-|  |  |  | 2005.2 | Fails to comply with conditions while camping in complying camping vehicle in Schedule 2 area |
-| Gisborne District Council | Freedom Camping Bylaw 2008 |  | 9 | Camps in closed area |
-|  |  |  | 10.1 | Camps in specified area without permit |
-|  |  |  | 13.2 | Enters specified area with mobile home, caravan, or tent without payment of prescribed fee |
-|  |  |  | 16.1 | Camps in specified area for longer than period specified by Council |
-|  |  |  | 17 | Fails to keep camping site clean and tidy |
-|  |  |  | 18 | Disregards or refuses to comply with any direction or notice of authorised officer |
-|  |  |  | 21 | Acts other than in accordance with provision while camping |
-|  | Public Places Bylaw 2008 |  | 8.1(b) | Camps other than in area set aside under Freedom Camping Bylaw 2008 |
-| Hurunui District Council | Hurunui District Council Freedom Camping Bylaw |  | 4.1 | Camps in prohibited area |
-|  |  |  | 4.2 | Camps other than in self-contained vehicle |
-|  |  |  | 4.3 | Camps at same location for more than 2 nights in same calendar month |
-|  |  |  | 4.4 | Disposes of toilet waste and greywater other than at approved dump point |
-|  |  |  | 4.5 | Disposes of refuse other than at approved refuse collection facility |
-|  |  |  | 4.6 | Fails to leave camping area clean and tidy |
-|  |  |  | 4.7 | Fails to comply with officer's request to move on |
-| Kapiti Coast District Council | Public Places Bylaw 2010 in conjunction with Kapiti Coast District Council Freedom Camping Policy 2010 |  | 20.3 | Camps other than in designated place |
-| Kawerau District Council | General Bylaw 2009: Part 2—Public Places |  | 8.1 | Camps in a self-contained vehicle other than in designated area |
-|  |  |  | 8.3 | Camps in geothermal area or in the vicinity of the Ron Hardie Recreation Centre |
-| Marlborough District Council | General Bylaw 2010: Chapter 2—Public Places |  | 203.2 | Camps other than in designated area |
-|  |  |  | 203.3 | Camps in breach of conditions |
-| Nelson City Council | Camping Bylaw No. 220 |  | 4.1, 4.2 | Camps other than at licensed camping ground or with permit at a designated reserve |
-|  |  | 4.3 |  | Fails to keep camping site clean, tidy, and free of waste |
-| Queenstown Lakes District Council | Freedom Camping Control Bylaw 2011 |  | 6 | Camps in prohibited zone without prior permission |
-|  |  |  | 7 | Camps in permitted area other than in self-contained vehicle or without prior permission |
-|  |  |  | 7 | Camps in self-contained vehicle at same permitted area for more than 2 consecutive nights |
-|  |  |  | 9 | Camps in breach of conditions |
-|  |  |  | 9 | Fails to leave camping site clean and tidy on departure |
-|  |  |  | 9 | Lights fire at camping site |
-| Rangitikei District Council | Public Places Bylaw 2007 |  | 6.3(b) | Camps outside area set aside for that purpose |
-| South Waikato District Council | Camping Control Bylaw 2011 |  | 5.1 | Camps outside designated camping area |
-|  |  |  | 5.2 | Camps in designated camping area without permit other than as specified in subclause 5.4 |
-|  |  |  | 6.1(a) | Fails to comply with conditions of camping permit |
-|  |  |  | 6.1(b) | Fails to leave camping site clean and tidy on departure |
-|  |  |  | 6.1(c), 6.2 | Lights fire at camping site without permission |
-| Tasman District Council | Freedom Camping Bylaw 2011 |  | 4 | Camps at permitted site other than in self-contained vehicle or with more than certified number of people for vehicle |
-|  |  |  | 5 | Camps in self-contained vehicle in prohibited area |
-|  |  |  | 6 | Camps in self-contained vehicle for more than 2 nights in any calendar month or consecutive 4-week period, or fails to move more than 1 km if camping more than 2 nights |
-|  |  |  | 7.1 | Discharges sewage, toilet waste, or greywater other than into approved dump point |
-|  |  |  | 7.2 | Leaves or deposits waste |
-|  |  |  | 8 | Fails to leave camping site clean and tidy |
-|  |  |  | 9 | Fails to comply with enforcement officer's request to move on |
-|  |  |  | 11(a) | Fails to comply with enforcement officer's direction to provide name and address |
-|  |  |  | 11(b) | Fails to comply with enforcement officer's direction to provide name, address, and whereabouts of any other person connected with alleged offence |
-| Taupo District Council | General Bylaw No 1 2008 |  | 202.3(b) | Camps other than in area set aside for that purpose |
-| Waimakariri District Council | Northern Pegasus Bay Bylaw 2010 |  | 6.12 | Camps on beach or foreshore other than in accordance with nohoanga entitlement |
-| Westland District Council | Freedom Camping Control Bylaw 2011 |  | 4.1 | Camps in prohibited area |
-|  |  |  | 5.2 | Camps in permitted area other than in self-contained vehicle |
-|  |  |  | 5.3 | Camps in self-contained vehicle in permitted area for more than 2 nights in calendar month |
-|  |  |  | 5.4 | Disposes of toilet waste or greywater other than at approved dump point |
-|  |  |  | 5.5 | Disposes of refuse other than at approved refuse collection facility |
-|  |  |  | 5.6 | Fails to leave camping site clean and tidy |
-|  |  |  | 5.7 | Fails to move on when requested by officer |
-
 ## Schedule 4 — Bylaws breach of which deemed infringement offence if resolution passed
-
-| Local authority | Bylaw |  | Provision |  | Description of offence |
-| --- | --- | --- | --- | --- | --- |
-| Auckland City Council (now Auckland Council) | Bylaw No 20—Public Places 2008 |  | 20.3.1(g) |  | Camps other than in designated area or without permission |
-| Auckland Regional Council (now Auckland Council) | Parks Bylaw 2007 |  | 6.1(b) |  | Camps without prior approval of Council |
-|  |  |  | 6.3 |  | Refuses to leave area when requested to do so by authorised officer |
-| Central Hawke's Bay District Council | Bylaws—Part 2—Public Places |  | 202.3(b) |  | Camps other than in designated area |
-| Central Otago District Council | General Bylaw: Part 2—Public Places |  | 202.5(b) |  | Camps other than in designated area |
-| Christchurch City Council | Parks and Reserves Bylaw 2008 |  | 10 |  | Camps other than in designated area or camps other than in designated area without prior permission of Council |
-|  |  |  | 11(1)(b) |  | Camps in designated area, or other area with permission of Council, without paying fees |
-| Franklin District Council (now Auckland Council) | Public Places Bylaw 2007 |  | 5(5)(b) |  | Camps other than in designated area |
-|  |  |  |  |  | Fails to comply with conditions when camping in designated area |
-| Greater Wellington Regional Council | Greater Wellington Regional Council Parks, Forests and Reserves Bylaw 2009 |  | 4.5 |  | Camps other than with prior permission of Council or within designated area |
-|  |  | 5.5 |  | Fails to comply with conditions when camping with prior permission of Council or within designated area |  |
-|  |  |  | 5.8 |  | Fails to leave area when requested to do so by authorised officer |
-| Hamilton City Council | Parks, Domains, and Reserves Bylaws 2007 |  | 7.18 |  | Camps other than in designated area |
-|  |  |  |  |  | Camps in designated area in breach of conditions or without paying fees |
-| Hastings District Council | Public Places Bylaw 2008: Part 14 |  | 15.16 |  | On a road, lives or sleeps in a vehicle, or uses it for residential purposes without the consent of the Council |
-| Hauraki District Council | Consolidated Bylaw: Part 3(Public Safety) |  | 2.5.1(b) |  | Camps for more than 12 hours other than in designated area |
-| Hutt City Council | 2006 Public Places |  | 17.1(b) |  | Uses a dwelling or vehicle on a public place for temporary accommodation without the consent of the Council |
-|  |  |  | 17.2 |  | Fails to comply with conditions when using a dwelling or vehicle on a public place for temporary accommodation with the consent of the Council |
-|  | 2007 Parks and Reserves |  | 11 |  | Camps on reserve overnight other than in hut or designated area |
-| Invercargill City Council | Invercargill City Council Bylaw 2008/4—Roading, Parking and Traffic |  | 32.1 |  | Parks and occupies vehicle overnight on part of road not designated and signposted for that purpose |
-| Kaipara District Council | General Bylaws 2008: Part 2—Public Places |  | 215.5(b) |  | Camps on reserve other than in designated area |
-| Mackenzie District Council | Roadways and Reserves Camping Bylaw 2009 |  | 2 |  | Camps other than in designated area |
-|  |  |  | 3 |  | Fails to move on from designated area when requested by Council officer |
-| Manawatu District Council | Bylaw 2008: Chapter 2 (Public Places) |  | 2.17.1 |  | Camps in self-contained mobile home for more than 2 nights at any one designated site in any one month |
-|  |  |  | 2.17.2 |  | Fails to dispose of waste hygienically |
-|  |  |  | 2.17.4 |  | Fails to leave camping site clean and tidy |
-|  |  |  | 2.17.5 |  | Fails to comply with enforcement officer request to move on |
-|  | Bylaw 2008: Chapter 13 (Water Supply) |  | 13.39.1(a) |  | Camps in controlled catchment area or water reserve without permission of Water Supply Authority |
-| Manukau City Council (now Auckland City) | Consolidated Bylaw 2008: Chapter 9—General Nuisance, Safety and Behaviour in Public Places |  | 4.1(a) |  | Camps other than in designated area |
-|  |  | 4.1(b) |  | Camps in a designated area without paying fees |  |
-| Masterton District Council | Consolidated Bylaw 2008: Part 2—Public Places |  | 3.3(b) |  | Camps other than in designated area |
-| Matamata–Piako District Council | Public Amenities Bylaw 2008: Part 3—General restrictions on conduct in public amenities |  | 3.3.2(a) |  | Camps other than in designated area without prior permission |
-|  | Public Safety Bylaw 2008: Part 2—Safety in Public Places |  | 2.5(b) |  | Camps other than in designated area |
-| Napier City Council | Parks and Reserves Bylaw 2008 |  | 11.2 |  | Camps in a reserve or carpark without permission of Council or without approval as a gypsy fair or circus |
-|  |  |  |  |  | Camps in a reserve or carpark with Council permission without paying fees |
-| New Plymouth District Council | Bylaw 2008: Part 5—Public Places |  | 23.1 |  | Camps other than in designated area |
-|  |  |  | 23.4 |  | Camps in campervan in breach of conditions |
-|  |  |  | 23.5 |  | Camps in designated area when camping temporarily prohibited by signage |
-| North Shore City Council (now Auckland Council) | 2000 Part 2—Public Places |  | 2.3.1(g) |  | Camps other than in designated area without prior permission |
-| Opotiki District Council | Public Places Bylaw 2008 |  | 5.4(a) |  | Camps in public place other than in designated area |
-|  |  |  | 12.1(h) |  | Uses dwelling or vehicle for accommodation on public place without Council permission |
-|  |  |  | 19.3.2(o) |  | Camps on a reserve not set aside for that purpose or without prior permission or in breach of conditions |
-| Papakura District Council (now Auckland Council) | Public Places Bylaw 2008 |  | 3.4(b) |  | Camps in public place other than in designated area |
-| Porirua City Council | Porirua City Council General Bylaw 1991: Part 11—Public Places |  | 11.4.3 |  | Camps in public place other than in designated area |
-| Rodney District Council (now Auckland Council) | General Bylaw 1998: Chapter 8—Public Places |  | 6.1(a) |  | Camps in public place other than in designated area or without permission |
-| Rotorua District Council | Traffic Bylaw 2008 |  | 21.1 |  | Parks a caravan, camper vehicle, house bus, or mobile home on road for period exceeding 7 days |
-|  |  |  | 21.2 |  | Parks caravan, camper vehicle, house bus, or mobile home on road for use as accommodation |
-| Ruapehu District Council | Public Places Bylaw 2008 |  | 11.5(f) |  | Camps in public place without prior consent |
-| Selwyn District Council | Parks and Reserves Bylaw 2009 |  | 10.1(a), (b) |  | Camps on a reserve not set aside for the purpose or without prior permission |
-| South Taranaki District Council | South Taranaki District Council Public Places Bylaw |  | 36.1(b) |  | Camps in public place without permission or in breach of conditions |
-| South Wairarapa District Council | Bylaw For Camping In Coastal Areas 2009 |  | 5.1 |  | Camps other than in designated area or without permission |
-|  |  |  | 5.2 |  | Camps in designated area for longer than period permitted |
-| Southland District Council | Camping Control Bylaw 2007 |  | 5.1 |  | Camps in designated area for longer than period permitted without prior permission |
-| Stratford District Council | General Bylaw 1993—Chapter 2—Public Places |  | 223.1(b) |  | Camps in public place without permission or in breach of conditions |
-| Tararua District Council | Consolidated Bylaw 2000: Chapter 2—Public Places |  | 202.3(b) |  | Camps other than in designated area (except if complying with camping policy) |
-| Tauranga City Council | Street Use and Public Places Bylaw 2005 |  | 13.1(f) |  | Camps in public place other than in designated area or without prior permission |
-| Thames–Coromandel District Council | Consolidated Bylaw 2004: Part 2 Activities in Public Places 2004 |  | 203.4(b) |  | Camps in public place other than in designated area |
-| Timaru District Council | Consolidated By-law 2007: Chapter 7—Parks and Reserves, Beaches and Tracks |  | 716.1 |  | Camps in reserve without permission or in breach of conditions |
-| Upper Hutt City Council | Public Places Bylaw 2005 |  | 4.3(b) |  | Camps in public place other than in designated area |
-| Waikato District Council | Parking, Traffic Control and Public Places Bylaw 2007 |  | 11.8 |  | Camps on council-controlled land other than in camping ground (except if in self-contained vehicle on designated area) |
-|  |  |  |  |  | While camping fails to vacate designated area by specified time |
-| Wairoa District Council | Public Safety Bylaw 2007 |  | 2.6(b) |  | Camps in public place other than in designated area |
-| Waitakere City Council (now Auckland Council) | Public Places Bylaw 2010 |  | 6.1(i) |  | Camps in public place other than in designated area |
-| Waitomo District Council | Public Places Bylaw 2009 |  | 4.3(b) |  | Camps in public place other than in designated area |
-| Western Bay of Plenty District Council | Recreational and Cultural Facilities Bylaw 2005 |  | 3.31 |  | Uses vehicle for temporary living accommodation on any part of a reserve |
-| Wanganui District Council | Wanganui District Consolidated Bylaw 1995: Part 20—Public Places, Parks and Reserves |  | 20.2.1(f) |  | Camps in public place other than in designated area or without licence |
-| Whakatane District Council | Consolidated Bylaw 2007: Part 3—Public Places |  | 3.9.1(h) |  | Camps in public place other than in designated area or without permission or in breach of conditions |
-| Whangarei District Council | Public Places Bylaw 2005 |  | 19(b) |  | Camps in any public place without permission |
