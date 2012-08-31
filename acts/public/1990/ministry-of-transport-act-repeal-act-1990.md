@@ -1,7 +1,7 @@
 # Ministry of Transport Act Repeal Act 1990
-_Consolidation as at 1995-07-29_
+_Consolidation as at 2012-08-31_
 
-> An Act— a to repeal the Ministry of Transport Act 1968; and b to continue the Road Traffic Safety Research Council; and c to amend certain enactments
+> An Act—ato repeal the Ministry of Transport Act 1968; andbto continue the Road Traffic Safety Research Council; andcto amend certain enactments
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Ministry of Transport Act Repeal Act 1990.
@@ -38,4 +38,4 @@ The Ombudsmen Act 1975 is hereby amended by inserting in Part 2 of Schedule 1, i
 
 | Enactment | Amendment |
 | --- | --- |
-| 1950, No 53-The Boilers, Lifts, and Cranes Act 1950 (RS Vol 1, p 377) | By repealing the definition of the term Secretary in section 2(1), and substituting the following definition: Secretary means the Secretary for Transport . |
+| 1950, No 53-The Boilers, Lifts, and Cranes Act 1950 (RS Vol 1, p 377) | By repealing the definition of the term Secretary in section 2(1), and substituting the following definition:Secretary means the Secretary for Transport. |
