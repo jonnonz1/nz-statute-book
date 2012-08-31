@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-08-31_
 
 > Title
 
@@ -10,10 +10,7 @@ _Consolidation as at 2011-10-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **code company** means a company that—
-    (a) is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
-    (b) was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
-    (c) has 50 or more shareholders
+  - **code company** has the meaning given to it in section 2A
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **court** means, in relation to any matter, the court before which the matter is to be determined
   - **director** means, in relation to a company or other body corporate, any person occupying the position of a director of the company or body by whatever name called
@@ -50,6 +47,14 @@ _Consolidation as at 2011-10-01_
   (d) inducing, or attempting to induce, any other person, whether by threats or promises or otherwise, to contravene the takeovers code or a term or condition of an exemption from the takeovers code; or
   (e) being in any way, directly or indirectly, knowingly concerned in, or a party to, the contravention by any other person of the takeovers code or a term or condition of an exemption from the takeovers code; or
   (f) conspiring with any other person to contravene the takeovers code or a term or condition of an exemption from the takeovers code.
+
+### 2A Meaning of code company
+(1) Code company means a company that—
+  (a) is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
+  (b) was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
+  (c) has 50 or more shareholders and 50 or more share parcels.
+(2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of Part 7 of the code.
+(3) In this section, shareholder means a shareholder holding a security that confers a voting right.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -104,6 +109,8 @@ The object of this Act is to—
   (a) the Panel consists of the division of the Panel specified in the determination; and
   (b) the powers of any such division are not affected by any changes or vacancies in its membership.
 (2) A division of the Panel may exercise powers of the Panel under this Act even though another division of the Panel is exercising powers of the Panel at the same time.
+(3) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members of a division is as valid and effectual as if it had been passed at a meeting of that division duly called and constituted.
+(4) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
 ### 8 Functions of Panel
 (1) The Panel has the following functions:
