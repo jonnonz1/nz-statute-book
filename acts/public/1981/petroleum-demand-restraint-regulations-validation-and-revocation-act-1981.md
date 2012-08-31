@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint (Regulations Validation and Revocation) Act 1981
-_Consolidation as at 1981-10-24_
+_Consolidation as at 2012-08-31_
 
 > An Act to validate and confirm regulations made under the Petroleum Demand Restraint Act 1981 and to revoke certain regulations continued in force by that Act
 
