@@ -1,5 +1,5 @@
 # New Zealand Planning Council Dissolution Act 1991
-_Consolidation as at 1991-12-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to dissolve the New Zealand Planning Council, and to provide for matters incidental thereto
 
