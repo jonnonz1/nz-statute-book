@@ -1,5 +1,5 @@
 # Appropriation (Parliamentary Expenditure Validation) Act 2006
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2012-08-31_
 
 ### 1 Title
 This Act is the Appropriation (Parliamentary Expenditure Validation) Act 2006.
