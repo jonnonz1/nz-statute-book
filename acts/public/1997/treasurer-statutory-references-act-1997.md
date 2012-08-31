@@ -1,5 +1,5 @@
 # Treasurer (Statutory References) Act 1997
-_Consolidation as at 1997-06-25_
+_Consolidation as at 2012-08-31_
 
 > An Act to recognise the role of Treasurer in finance legislation
 
