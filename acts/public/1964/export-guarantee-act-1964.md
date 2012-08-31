@@ -1,5 +1,5 @@
 # Export Guarantee Act 1964
-_Consolidation as at 2001-07-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to establish the Export Guarantee Office and to define its powers and functions
 
