@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2012-05-01_
+_Consolidation as at 2012-08-31_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -2088,11 +2088,9 @@ The High Seas Permit Register must contain all the particulars required by regul
 (2) Upon receipt of an application made in accordance with subsection (1), the chief executive shall, as soon as practicable,—
   (a) note the name of the notified user on the Fishing Vessel Register; and
   (b) issue to the operator and the notified user a certificate of notification in respect of the notified user.
-(3) No person shall be a notified user in relation to—
-  (a) any foreign-owned New Zealand fishing vessel; or
-  (b) any vessel other than a vessel of a type or in a class specified by Order in Council under subsection (5).
+(3) No person may be a notified user in relation to a foreign-owned New Zealand fishing vessel.
 (4) No overseas person shall be a notified user in relation to a fishing vessel.
-(5) The Governor-General may from time to time, by Order in Council, specify types or classes of vessel for the purposes of subsection (3)(b).
+(5)
 
 ### 105 Fish carriers must be registered
 (1) No person shall use any vessel for the transportation of fish, aquatic life, or seaweed taken for sale within New Zealand fisheries waters unless—
@@ -5384,9 +5382,27 @@ Without limiting the generality of section 297, the Governor-General may from ti
 (1) Any regulations made under this Act may apply generally throughout New Zealand fisheries waters, generally throughout the high seas, or be made to apply only within such area or areas as may be defined for the purpose by the regulations.
 (2) All authorities, approvals, requirements, conditions, directions, instructions, orders, permits, notices, and circulars issued or imposed under regulations made under this Act shall have effect according to their tenor and shall be complied with by all persons affected thereby.
 
+### 302A Gazette notices may be consolidated
+(1) The Minister may publish a notice in the Gazette—
+  (a) that revokes 1 or more notices that were given under this Act by the Minister and were required to be published in the Gazette; and
+  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
+(2) The chief executive may publish a notice in the Gazette—
+  (a) that revokes 1 or more notices that were given under this Act by the chief executive and were required to be published in the Gazette; and
+  (b) that otherwise has the same effect as the revoked notices had immediately before they were revoked.
+(3) Each part of the new notice that has the same effect as a part of a revoked notice that was given under a particular provision of this Act must be treated as having been given under that provision.
+(4) Any prerequisites for publication of the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for publication of the revoked notices were satisfied when they were published.
+(5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
+(6) In this section, in any particular case,—
+  - **new notice** means—
+    (a) the notice published by the Minister under subsection (1) to replace the revoked notices; or
+    (b) the notice published by the chief executive under subsection (2) to replace the revoked notices
+  - **revoked notices** means—
+    (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)(a); or
+    (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)(a).
+
 ### 303 Certain notices to have status of regulations
 (1) Subject to subsection (2), every notice given under this Act and required to be published in the Gazette is hereby deemed for the purposes of the Interpretation Act 1999 and the Acts and Regulations Publication Act 1989 to be a regulation.
-(2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 175, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 350, 368, and 369.
+(2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 368, and 369.
 (3) Any notice given under section 11(4)(b)(i) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
 ### 304 Circulars
@@ -7747,3 +7763,12 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 5 Transitional provision relating to consultation
 (1) This section applies to consultation undertaken before the commencement of this Act under section 12 of the principal Act for the purpose of setting or varying a total allowable catch for a quota management stock under section 13 of the principal Act after the commencement of this Act.
 (2) The consultation is to be treated as complying with section 12 of the principal Act if, had it been undertaken after the commencement of this Act, it would have complied with section 12 of the principal Act.
+
+### 1 Title
+This Act is the Fisheries Amendment Act 2012.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 7 Validation of existing notified users
+Any recognition of a person as a notified user under section 104(2) of the principal Act before the commencement of this Act, to the extent that it did not satisfy the requirement in section 104(3)(b) of the principal Act, is validated and is to be treated as always having been lawful.
