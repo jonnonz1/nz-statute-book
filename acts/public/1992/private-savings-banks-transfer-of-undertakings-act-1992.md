@@ -1,5 +1,5 @@
 # Private Savings Banks (Transfer of Undertakings) Act 1992
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to—aprovide for the transfer of the undertakings of savings bank companies to their parent banks; andbprovide for the dissolution of those companies; andcrepeal the Private Savings Banks Act 1983
 
