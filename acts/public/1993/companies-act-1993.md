@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -684,9 +684,9 @@ For the purposes of section 61, a disclosure document is a document that sets ou
   (b) the number of shares acquired:
   (c) the consideration paid or payable for the shares acquired:
   (d) if known to the company, the identity of the seller and, if the seller was not the beneficial owner, the beneficial owner.
-(2A) Within 3 months after the shares are acquired, the company must send to each shareholder a notice containing the particulars referred to in subsection (2).
+(2A)
 (2B) Acquisitions may be made under subsection (1) by any director or employee of the company who is authorised to do so by the resolution of the board under that subsection.
-(3) If a company fails to comply with subsection (2) or subsection (2A),—
+(3) If a company fails to comply with subsection (2),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
@@ -1255,8 +1255,10 @@ Where—that shareholder is entitled to require the company to purchase those sh
   (b) the reasonable costs of expert witnesses.
 
 ### 112B Interest payable on outstanding payments
-(1) Interest is payable on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
-(2) The sum on which interest is payable under subsection (1) includes any interest or damages for loss awarded under section 112A.
+(1) Interest on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due is payable,—
+  (a) in the case of a share price determined under section 112, at the same rate of interest as the prescribed rate under section 87(3) of the Judicature Act 1908; and
+  (b) in the case of a share price determined under section 112A, on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
+(2) The sum on which interest is payable under subsection (1)(b) includes any interest or damages for loss awarded under section 112A.
 
 ### 112C Timing of transfer of shares
 (1) On the day on which a board gives notice under section 111(2)(e) that the board agrees to the purchase of shares by the company,—
@@ -3401,10 +3403,11 @@ The creditors may vary a deed of company arrangement by a resolution passed at a
   (b) make any other orders that the court thinks appropriate.
 
 ### 239ADC Termination of deed
-A deed of company arrangement may be terminated—
+(1) A deed of company arrangement may be terminated—
   (a) by the court under section 239ADD; or
   (b) by a resolution of the creditors under section 239ADE; or
   (c) automatically, if the deed specifies circumstances in which the deed will terminate, and those circumstances occur.
+(2) The deed administrator must give written notice to the Registrar of the fact that a deed has been terminated under subsection (1)(a) or (c).
 
 ### 239ADD Termination by court
 (1) The court may terminate a deed of company arrangement on the application of—
@@ -4419,7 +4422,7 @@ Unless the contrary is proved, and subject to section 288, a company is presumed
   (d) undergoing an execution process:
   (e) paying money (including paying money in accordance with a judgment or an order of a court):
   (f) anything done or omitted to be done for the purpose of entering into the transaction or giving effect to it.
-(4) In this section, transaction includes a transaction by a receiver, except a transaction that discharges, whether in part or in full, a liability for which the receiver is personally liable under section 32(1) of the Receiverships Act 1993 or otherwise personally liable under a contract entered into by the receiver.
+(4) In this section, transaction includes a transaction by a receiver, except a transaction that discharges, whether in part or in full, a liability for which the receiver is personally liable under section 32(1) or (5) of the Receiverships Act 1993 or otherwise personally liable under a contract entered into by the receiver.
 (4A) A transaction that is entered into within the restricted period is presumed, unless the contrary is proved, to be entered into at a time when the company is unable to pay its due debts.
 (4B) Where—then—
   (a) a transaction is, for commercial purposes, an integral part of a continuing business relationship (for example, a running account) between a company and a creditor of the company (including a relationship to which other persons are parties); and
@@ -5820,10 +5823,11 @@ A person who acts in contravention of a notice under section 385 is personally l
 (2) The methods of service specified in subsection (1) are the only methods by which a document in legal proceedings may be served on a company in New Zealand.
 
 ### 388 Service of other documents on companies
-A document, other than a document in any legal proceedings, may be served on a company as follows:
+(1) A document, other than a document in any legal proceedings, may be served on a company as follows:
   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 387; or
   (b) by posting it to the company's registered office or address for service or delivering it to a box at a document exchange which the company is using at the time; or
   (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the company's registered office or address for service or its head office or principal place of business.
+(2) Subsection (1) is subject to section 391(3A) to (3C).
 
 ### 389 Service of documents on overseas companies in legal proceedings
 (1) A document, including a writ, summons, notice, or order, in any legal proceedings may be served on an overseas company in New Zealand as follows:
@@ -5835,10 +5839,11 @@ A document, other than a document in any legal proceedings, may be served on a c
 (2) The methods of service specified in subsection (1) are the only methods by which a document in legal proceedings may be served on an overseas company in New Zealand.
 
 ### 390 Service of other documents on overseas companies
-A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
+(1) A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 389; or
   (b) by posting it to the address of the overseas company's principal place of business in New Zealand or delivering it to a box at a document exchange which the overseas company is then using at the time; or
   (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company.
+(2) Subsection (1) is subject to section 391(3A) to (3C).
 
 ### 391 Service of documents on shareholders and creditors
 (1) A notice, statement, report, accounts, or other document to be sent to a shareholder or creditor who is a natural person may be—
@@ -5853,6 +5858,11 @@ A document, other than a document in any legal proceedings, may be served on an 
   (d) delivered in accordance with an agreement made with the body corporate; or
   (e) posted to the address of the principal office of the body corporate or delivered to a box at a document exchange which the body corporate is using at the time; or
   (f) sent by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate.
+(3A) Despite subsections (1) to (3), a shareholder or creditor may notify the company—
+  (a) that the shareholder or creditor wishes to receive documents by electronic means; and
+  (b) of the electronic address to which documents are to be delivered.
+(3B) Notification in accordance with subsection (3A) may be made in respect of a particular notice, statement, report, set of accounts, or other document, or in respect of all documents to be served.
+(3C) If a shareholder or creditor notifies the company under subsection (3A), the company must send documents by electronic means in accordance with the notification, whether or not the documents are also sent by another method.
 (4) Where a liquidator sends documents—and the documents are returned unclaimed 3 consecutive times, the liquidator need not send further documents to the shareholder or creditor until the shareholder or creditor gives notice to the company of its new address.
   (a) to the last known address of a shareholder or creditor who is a natural person; or
   (b) to the address for service of a shareholder or creditor that is a company—
@@ -5933,9 +5943,10 @@ Amendment(s) incorporated in the Act(s).
 (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
 
 ### 3 Methods of holding meetings
-A meeting of shareholders may be held either—
-  (a) by a number of shareholders, who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
-  (b) subject to the constitution of the company, by means of audio, or audio and visual, communication by which all shareholders participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
+A meeting of shareholders may be held by a quorum of the shareholders—
+  (a) being assembled together at the time and place appointed for the meeting; or
+  (b) participating in the meeting by means of audio, audio and visual, or electronic communication; or
+  (c) by a combination of both of the methods described in paragraphs (a) and (b).
 
 ### 4 Quorum
 (1) Subject to subclause (3), no business may be transacted at a meeting of shareholders if a quorum is not present.
@@ -5943,12 +5954,13 @@ A meeting of shareholders may be held either—
 (3) If a quorum is not present within 30 minutes after the time appointed for the meeting,—
   (a) in the case of a meeting called under section 121(b), the meeting is dissolved:
   (b) in the case of any other meeting, the meeting is adjourned to the same day in the following week at the same time and place, or to such other date, time, and place as the directors may appoint, and, subject to the constitution of the company, if, at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for the meeting, the shareholders or their proxies present are a quorum.
+(4) To avoid doubt, a shareholder participating in a meeting by means of audio, audio and visual, or electronic communication is present at the meeting and part of the quorum.
 
 ### 5 Voting
 (1) In the case of a meeting of shareholders held under clause 3(a), unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
   (a) voting by voice; or
   (b) voting by show of hands.
-(2) In the case of a meeting of shareholders held under clause 3(b), unless a poll is demanded, voting at the meeting shall be by the shareholders signifying individually their assent or dissent by voice.
+(2) In the case of a meeting of shareholders held under clause 3(b) or (c), unless a poll is demanded, voting at the meeting shall be by any method permitted by the chairperson of the meeting.
 (3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4).
 (4) At a meeting of shareholders a poll may be demanded by—
   (a) not less than 5 shareholders having the right to vote at the meeting; or
@@ -5963,12 +5975,14 @@ A meeting of shareholders may be held either—
 ### 6 Proxies
 (1) A shareholder may exercise the right to vote either by being present in person or by proxy.
 (2) A proxy for a shareholder is entitled to attend and be heard at a meeting of shareholders as if the proxy were the shareholder.
-(3) A proxy must be appointed by notice in writing signed by the shareholder and the notice must state whether the appointment is for a particular meeting or a specified term.
+(3) A proxy must be appointed by notice in writing signed by or, in the case of an electronic notice, sent by the shareholder and the notice must state whether the appointment is for a particular meeting or a specified term.
+(3A) A shareholder may appoint more than 1 proxy for a particular meeting, provided that more than 1 proxy is not appointed to exercise the rights attached to a particular share held by the shareholder.
 (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is produced before the start of the meeting.
 (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
 
 ### 7 Postal votes
 (1) Subject to the constitution of the company, a shareholder may exercise the right to vote at a meeting by casting a postal vote in accordance with the provisions of this clause.
+(1A) To avoid doubt, a postal vote may be cast using electronic means permitted by the board.
 (2) The notice of a meeting at which shareholders are entitled to cast a postal vote must state the name of the person authorised by the board to receive and count postal votes at that meeting.
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
@@ -6011,6 +6025,12 @@ Subject to the constitution of a company, if a sum due to a company in respect o
 
 ### 13 Other proceedings
 Except as provided in this schedule, and subject to the constitution of the company, a meeting of shareholders may regulate its own procedure.
+
+### 14 Shareholder participation by electronic means
+(1) For the purposes of this schedule, a shareholder, or the shareholder's proxy or representative, may participate in a meeting by means of audio, audio and visual, or electronic communication if—
+  (a) the board approves those means; and
+  (b) the shareholder, proxy, or representative complies with any conditions imposed by the board in relation to the use of those means (including, for example, conditions relating to the identity of the shareholder, proxy, or representative and that person's approval or authentication (including electronic authentication) of the information communicated by electronic means).
+(2) To avoid doubt, participation in a meeting includes participation in any manner specified in this schedule or permitted by the constitution of the company.
 
 ## Schedule 2 — Sections of this Act that confer powers on directors that cannot be delegated
 
