@@ -1,5 +1,5 @@
 # Business Development Boards Act Repeal Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-31_
 
 ### 1 Title
 This Act is the Business Development Boards Act Repeal Act 2003.
