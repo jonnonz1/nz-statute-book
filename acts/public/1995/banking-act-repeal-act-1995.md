@@ -1,5 +1,5 @@
 # Banking Act Repeal Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-08-31_
 
 > An Act to repeal the Banking Act 1982
 
