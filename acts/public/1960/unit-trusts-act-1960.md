@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2011-10-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -103,11 +103,34 @@ No manager of a unit trust, and no person as agent of such a manager, shall issu
 (2) Despite anything to the contrary in the trust deed, a manager may not discharge or remove a trustee except with the approval of the High Court.
 (3) Subsection (2) does not apply to the removal of a trustee by the manager under Part 2 of the Securities Trustees and Statutory Supervisors Act 2011.
 
-### 11 Manager to send audited accounts annually
-(1) Every manager of a unit trust, not being an issuer within the meaning of section 4 of the Financial Reporting Act 1993, shall cause to be sent annually, to every person who is a unit holder at the date of the statement, an audited statement of accounts in respect of the unit trust, together with a summary of any amendments of the trust deed that have been made since the date of the last statement.
-(2) Every manager of a unit trust that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993 shall cause to be sent annually, to every person who is a unit holder at the balance date of the unit trust,—in respect of the trust, together with a summary of any amendments of the trust deed that have been made since the last balance date of the unit trust.
-  (a) a copy of the financial statements registered under that Act; and
-  (b) a copy of the auditor's report on those statements registered under that Act—
+### 11 Obligation to make specified information available to unit holders
+(1) The manager of a unit trust (other than a manager referred to in subsection (2)) must, annually, send to every unit holder—
+  (a) a copy of—
+    (i) the audited statement of accounts in respect of the trust; and
+    (ii) a statement summarising all amendments to the trust deed that have been made since the date of the last statement; or
+  (b) a notice containing the statements specified in subsection (3).
+(2) The manager of a unit trust that is an issuer (as defined in section 4(1) of the Financial Reporting Act 1993) must, annually, send to every unit holder—
+  (a) a copy of—
+    (i) the financial statements registered under the Financial Reporting Act 1993 in respect of the trust; and
+    (ii) the auditor's report on those statements; and
+    (iii) a statement summarising all amendments to the trust deed that have been made since the date of the last statement; or
+  (b) a notice containing the statements specified in subsection (3).
+(3) The notice referred to in subsection (1)(b) or (2)(b), as the case may be, must contain—
+  (a) a statement to the effect that the unit holder has a right to receive from the manager, free of charge, a copy of the information specified in subsection (1)(a) or (2)(a) (the specified information) if the unit holder, within 15 working days of receiving the notice, makes a request to the manager to receive a copy of the specified information; and
+  (b) a statement to the effect that the unit holder may obtain a copy of the specified information by electronic means; and
+  (c) a statement as to how the unit holder may obtain a copy of the specified information by electronic means (for example, from a specified Internet site).
+(4) The notice may be accompanied by any additional information or documentation that the manager thinks fit.
+
+### 11A Manager must send copy of specified information on request
+(1) If the manager has sent a notice to a unit holder under section 11(1)(b) or (2)(b) and the unit holder, within 15 working days of receiving that notice, makes a request to the manager to receive a copy of the specified information, the manager must, as soon as practicable, send to the unit holder, free of charge, a copy of that specified information.
+(2) If a unit holder makes a request under subsection (1),—
+  (a) the request must be treated as a request for the manager to send to the unit holder each year a copy of the specified information under section 11(1)(a) or (2)(a); and
+  (b) the manager must send to the unit holder each year a copy of the specified information under section 11(1)(a) or (2)(a) until the unit holder revokes the request by notice to the manager.
+
+### 11B Specified information made available by electronic means
+If the manager has sent a notice to a unit holder under section 11(1)(b) or (2)(b), the manager must ensure that—
+  (a) a copy of the specified information is available in the manner described in section 11(3)(c) at all reasonable times during the period beginning on the date the notice is sent and ending on the date the manager acts under section 11(1) or 11(2) in relation to the next accounting period; and
+  (b) the manner described in the notice under section 11(3)(c) allows a copy of the specified information to be readily accessible so as to be usable for subsequent reference.
 
 ### 12 Implied provisions in trust deed
 (1) The following provisions shall be implied in every trust deed relating to a unit trust, notwithstanding anything to the contrary in the deed:
@@ -215,7 +238,7 @@ All money required to be paid to the trustee or a nominated person of the truste
 (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000,000 who—
   (a) issues any interest in a unit trust or offers any such interest to the public for subscription or purchase, or invites the public to subscribe for or purchase such an interest, in contravention of any provision of this Act; or
   (b) continues any activities related to any unit trust in contravention of subsection (3) of section 19.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of sections 9, 11, 14, and 20.
+(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of sections 9, 11, 11A, 11B, 14, and 20.
 (3) Every person who has at any time, whether before or after the commencement of this Act, been convicted of a crime involving dishonesty within the meaning of the Crimes Act 1961 commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, if, after the commencement of this Act, without the consent of the FMA, proof whereof shall lie on the person alleging consent, he acts as a director, officer, or responsible employee of a company that is the manager of a unit trust.
 
 ### 26 Restriction on personal benefits by directors or officers
