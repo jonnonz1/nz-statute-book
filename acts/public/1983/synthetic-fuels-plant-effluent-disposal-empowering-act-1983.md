@@ -1,5 +1,5 @@
 # Synthetic Fuels Plant (Effluent Disposal) Empowering Act 1983
-_Consolidation as at 1991-10-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to grant to New Zealand Synthetic Fuels Corporation Limited the right to discharge plant effluent into natural water at Waitara and to cancel the right to discharge plant effluent at Motunui
 
