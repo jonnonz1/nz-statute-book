@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-08-31_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -513,18 +513,20 @@ Every spectrum licence to which section 48 applies shall be given a reference nu
 (4) The transfer of a spectrum licence is not valid until the transfer is registered.
 
 ### 57 Modification or cancellation of spectrum licence by rightholder alone
-(1) Where a spectrum licence provides that the spectrum licence may be modified or cancelled by the rightholder alone and the rightholder wishes to modify any matter specified on the rightholder's spectrum licence or cancel the rightholder's spectrum licence, the rightholder may present to the Registrar for the purposes of registration a notice in the prescribed form.
-(2) Every notice presented under subsection (1) must be accompanied by a statutory declaration from or on behalf of the rightholder that the manager who has the management rights in relation to the frequency band or frequency bands within which it is permitted to transmit under the spectrum licence has been served with a copy of the notice.
+(1) Where a spectrum licence provides that the spectrum licence may be modified or cancelled by the rightholder alone and the rightholder wishes to modify any matter specified on the rightholder's spectrum licence or cancel the rightholder's spectrum licence, the rightholder may send to the Registrar, by electronic or other means and for the purposes of registration, a notice in the prescribed form.
+(2)
 (3) The notice must specify—
   (a) the modification to the spectrum licence; and
   (b) the date from which the modification or cancellation is to apply.
+(4) As soon as practicable after receiving a notice under subsection (1), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the manager who has the management rights in relation to the frequency band or frequency bands within which it is permitted to transmit under the spectrum licence.
 
 ### 57A Modification or cancellation of spectrum licence by manager alone
-(1) If a spectrum licence provides that the spectrum licence may be modified or cancelled by the manager alone and the manager in relation to that spectrum licence wishes to modify any matter specified on the spectrum licence or cancel the rightholder's spectrum licence, the manager may present to the Registrar for the purposes of registration a notice in the prescribed form.
-(2) Every notice presented under subsection (1) must be accompanied by a statutory declaration from or on behalf of the manager that the rightholder in relation to that spectrum licence has been served with a copy of the notice.
+(1) If a spectrum licence provides that the spectrum licence may be modified or cancelled by the manager alone and the manager in relation to that spectrum licence wishes to modify any matter specified on the spectrum licence or cancel the rightholder's spectrum licence, the manager may send to the Registrar, by electronic or other means and for the purposes of registration, a notice in the prescribed form.
+(2)
 (3) The notice must specify—
   (a) the modification to the licence; and
   (b) the date from which the modification or cancellation is to apply.
+(4) As soon as practicable after receiving a notice under subsection (1), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the rightholder.
 
 ### 57B Modification or cancellation of spectrum licence by rightholder and manager
 (1) If a spectrum licence provides that the spectrum licence may be modified or cancelled by the manager and the rightholder together and the manager and the rightholder in relation to that spectrum licence agree to modify any matter specified on the spectrum licence or to cancel the spectrum licence, the manager or the rightholder may present to the Registrar for the purposes of registration a notice in the prescribed form.
@@ -1237,11 +1239,12 @@ Where any person is alleged to have committed an infringement offence, that pers
 (2) The Secretary or the Registrar may from time to time enter into agreements or arrangements, on such terms and conditions as the Secretary or the Registrar thinks fit, with any person to collect or assist in collecting any fees payable in accordance with regulations made under this Act.
 (3) If a rightholder does not pay any fee relating to a spectrum licence in accordance with regulations made under this Act in full within 6 months of the date the fee is due,—
   (a) the manager of the management rights to which the spectrum licence relates is jointly and severally liable with the rightholder for payment of the unpaid fees; and
-  (b) regardless of whether or not the spectrum licence may be cancelled by the manager alone, and independently of any right of the manager to cancel the licence in accordance with section 57A or 57B, the manager may cancel the licence to which the unpaid fees relate by presenting to the Registrar for the purposes of registration a notice in the prescribed form.
-(4) Every notice presented under subsection (3) must be accompanied by a statutory declaration from or on behalf of the manager that the rightholder has been served with a copy of the notice in relation to the spectrum licence.
+  (b) regardless of whether or not the spectrum licence may be cancelled by the manager alone, and independently of any right of the manager to cancel the licence in accordance with section 57A or 57B, the manager may cancel the licence to which the unpaid fees relate by sending to the Registrar, by electronic or other means and for the purposes of registration, a notice in the prescribed form.
+(4)
 (5) The notice must specify—
   (a) that the spectrum licence is cancelled; and
   (b) the date from which the cancellation is to apply.
+(6) As soon as practicable after receiving a notice under subsection (3)(b), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the rightholder.
 
 **Distress calls**
 
