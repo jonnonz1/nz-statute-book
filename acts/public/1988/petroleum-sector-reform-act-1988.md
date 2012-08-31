@@ -1,5 +1,5 @@
 # Petroleum Sector Reform Act 1988
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to make provisions consequential upon the Crown voluntarily assuming loans raised for the purpose of financing the expansion of the Marsden Point refinery, to provide for the removal of regulatory controls on the motor spirits distribution industry, and to abolish the Motor Spirits Licensing Authority and the Motor Spirits Licensing Appeal Authority
 
