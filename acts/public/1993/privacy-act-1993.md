@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1394,8 +1394,9 @@ The income of the Commissioner shall be exempt from income tax.
 
 | Enactment | Public register provision |
 | --- | --- |
-| Animal Products Act 1999 | Sections 18, 52, 73, and 112 |
-| Auditor Regulation Act 2011 | section 38 |
+| Agricultural Compounds and Veterinary Medicines Act 1997 | Section 44ZH |
+| Animal Products Act 1999 | Sections 18, 52, 73, and 112S |
+| Auditor Regulation Act 2011 | Section 38 |
 | Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 5, 7(2), 8, 21B, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62A, and 62C |
 | Building Act 2004 | Sections 216, 273, and 298 |
 | Building Societies Act 1965 | Section 121A |
@@ -1432,7 +1433,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Personal Property Securities Act 1999 | Sections 139 and 171 to 174 |
 | Plumbers, Gasfitters, and Drainlayers Act 2006 | Section 70 |
 | Private Security Personnel and Private Investigators Act 2010 | Section 97 |
-| Radiocommunications Act 1989 | Section 5, 6, and 28 |
+| Radiocommunications Act 1989 | Sections 5, 6, and 28 |
 | Rating Valuations Act 1998 | Section 7 |
 | Real Estate Agents Act 2008 | Sections 63 to 70 |
 | Registered Architects Act 2005 | Sections 18 to 23 |
@@ -1444,7 +1445,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Te Ture Whenua Maori Act 1993 | Section 263 |
 | Trade Marks Act 2002 | Section 181 |
 | Veterinarians Act 2005 | Section 22 |
-| Wine Act 2003 | Sections 17, 47, and 73 |
+| Wine Act 2003 | Sections 17, 47, and 82S |
 
 ## Schedule 3 — Information matching provisions
 
@@ -1538,8 +1539,8 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Subject | Description | Access available to |
 | Details of overseas hearings | Details of hearings of overseas proceedings before overseas courts, including convictions, sentences, and all other matters ancillary and subsequent to a determination | Ministry of JusticeDepartment of CorrectionsSerious Fraud Office |
 | Police temporary file index | Details of active or recently closed Police files, including the file numbers and location of the files, and the names of complainants, victims, witnesses, suspects, and alleged offenders | Ministry of Justice (access is limited to—aobtaining information about parties to offences for the purpose of processing cases before a court:bupdating Police records) |
-| Offender identity | Particulars of the identity of persons who have been charged with an offence | Department of Corrections (access is limited to identity details for the purposes of—aentering information relating to prosecutions initiated otherwise than by the Police; orabundertaking criminal history checks of persons wishing to visit prisons who have consented to such a check; or entering information relating to prosecutions initiated otherwise than by the Police; orbresearch conducted by the department, and with the limitation that information so obtained must not be published in a form which could reasonably be expected to identify the individual concerned)Ministry of Justice (access is limited to—aidentity details for the purposes of—ientering information relating to prosecutions initiated otherwise than by the Police; oriiproviding assistance to victims in accordance with the Criminal Justice Act 1985. the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005; oriiiupdating an existing database of court proceedings; orbobtaining information for the purpose of research conducted by the Ministry, and with the limitation that information so obtained must not be published in a form that could reasonably be expected to identify the individual concerned) |
-| Victim identity | The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged | Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005) |
+| Offender identity | Particulars of the identity of persons who have been charged with an offence | Department of Corrections (access is limited to identity details for the purposes of—aentering information relating to prosecutions initiated otherwise than by the Police; orabundertaking criminal history checks of persons wishing to visit prisons who have consented to such a check; or entering information relating to prosecutions initiated otherwise than by the Police; orbresearch conducted by the department, and with the limitation that information so obtained must not be published in a form which could reasonably be expected to identify the individual concerned)Ministry of Justice (access is limited to—aidentity details for the purposes of—ientering information relating to prosecutions initiated otherwise than by the Police; oriiproviding assistance to victims in accordance with the Criminal Justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005; oriiiupdating an existing database of court proceedings; orbobtaining information for the purpose of research conducted by the Ministry, and with the limitation that information so obtained must not be published in a form that could reasonably be expected to identify the individual concerned) |
+| Victim identity | The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged | Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal Justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005) |
 | Medical details | An indicator to identify persons who are or have been special patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients (within the meaning of that Act) | New Zealand Transport Agency (access is limited to obtaining information for the purposes of—asubpart 2 of Part 4A of the Land Transport Act 1998; orbsection 19 of the Land Transport Act 1998Department of CorrectionsMinistry of Justice |
 | Traffic offence and infringement enforcement and document processing | Traffic offence and infringement enforcement processing, including infringement fees enforcement and preparation of documents | New Zealand Transport AgencyMinistry of Justice (access is limited to obtaining information for the purpose of processing cases before a court)Legal Services Commissioner (access is limited to obtaining information for the purpose of processing cases before a court, and for determining an application for a grant of legal aid relating to a criminal matter) |
 | Vehicles of interest | Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police | Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case) |
