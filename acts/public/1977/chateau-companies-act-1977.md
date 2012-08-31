@@ -1,5 +1,5 @@
 # Chateau Companies Act 1977
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2012-08-31_
 
 > An Act to make special provision for the vesting of the property of specified companies in trustees upon trust to sell the same and to hold the proceeds on trust for creditors of those companies, and for matters arising therefrom
 
