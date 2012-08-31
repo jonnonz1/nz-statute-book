@@ -1,5 +1,5 @@
 # Economic Stabilisation Act Repeal Act 1987
-_Consolidation as at 1987-07-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to repeal the Economic Stabilisation Act 1948 and to make provision incidental thereto
 
