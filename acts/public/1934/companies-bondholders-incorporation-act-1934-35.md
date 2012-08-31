@@ -1,5 +1,5 @@
 # Companies (Bondholders Incorporation) Act 1934-35
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to make provision for the incorporation of the holders of bonds issued by certain afforestation and other companies incorporated for the purpose of making or maintaining plantations, for facilitating the realisation of the land or produce affected by such bonds, and for matters incidental thereto
 
