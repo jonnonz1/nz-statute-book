@@ -1,5 +1,5 @@
 # Poultry Board Act Repeal Act 1989
-_Consolidation as at 1997-12-17_
+_Consolidation as at 2012-08-31_
 
 > An Act to abolish the New Zealand Poultry Board
 
