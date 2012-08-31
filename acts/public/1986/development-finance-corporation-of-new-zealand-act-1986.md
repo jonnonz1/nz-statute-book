@@ -1,5 +1,5 @@
 # Development Finance Corporation of New Zealand Act 1986
-_Consolidation as at 1995-04-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to provide for the incorporation of a company under the Companies Act 1955 under the name Development Finance Corporation of New Zealand Limited and for the transfer of the assets, rights, liabilities and interests of the Development Finance Corporation of New Zealand to that company and to repeal the Development Finance Corporation Act 1973
 
