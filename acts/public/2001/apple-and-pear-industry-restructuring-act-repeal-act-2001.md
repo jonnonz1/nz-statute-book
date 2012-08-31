@@ -1,5 +1,5 @@
 # Apple and Pear Industry Restructuring Act Repeal Act 2001
-_Consolidation as at 2001-09-27_
+_Consolidation as at 2012-08-31_
 
 ### 1 Title
 This Act is the Apple and Pear Industry Restructuring Act Repeal Act 2001.
