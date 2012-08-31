@@ -1,5 +1,5 @@
 # Clerks of Works Act Repeal Act 1992
-_Consolidation as at 1992-12-19_
+_Consolidation as at 2012-08-31_
 
 > An Act to dissolve the Clerks of Works Registration Board and to make provision for related matters
 
