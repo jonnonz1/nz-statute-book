@@ -1,5 +1,5 @@
 # Shipping Corporation of New Zealand Act Repeal Act 1988
-_Consolidation as at 1995-04-01_
+_Consolidation as at 2012-08-31_
 
 > An Act to repeal the Shipping Corporation of New Zealand Act 1973 and to make provision incidental thereto
 
