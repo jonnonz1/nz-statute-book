@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-09-03_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
