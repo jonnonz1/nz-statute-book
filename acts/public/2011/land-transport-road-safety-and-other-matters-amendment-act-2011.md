@@ -1,5 +1,5 @@
 # Land Transport (Road Safety and Other Matters) Amendment Act 2011
-_Consolidation as at 2011-05-09_
+_Consolidation as at 2012-09-10_
 
 ### 1 Title
 This Act is the Land Transport (Road Safety and Other Matters) Amendment Act 2011.
