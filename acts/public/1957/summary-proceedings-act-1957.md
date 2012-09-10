@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-09-10_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -39,7 +39,7 @@ _Consolidation as at 2012-08-01_
   - **informant** means the person by whom an information is laid; and includes—
     (a) in respect of any charge where an information has not been laid, the person responsible for bringing the charge; and
     (b) a person who files a notice of prosecution pursuant to section 20A(2); and
-    (c) in relation to an infringement offence for which an infringement notice has been issued, the Department, local body, or other authority in or by which the officer or employee who issued the notice was employed
+    (c) in relation to an infringement offence for which an infringement notice has been issued, the department, local body, or other authority in or by which the officer or employee who issued the notice was employed
   - **infringement fee** , in relation to an infringement offence, means the amount fixed as the infringement fee for the offence by or under the Act under which the offence is created
   - **infringement notice** means a notice issued under—
     (a)
@@ -188,7 +188,7 @@ The summary criminal jurisdiction of a District Court must be exercised in accor
 ### 9D Power to impose penalties provided for in Land Transport Act 1998
 (1) Where a person who is charged with any summary offence to which section 9C applies is found guilty of that offence by a Court presided over by a District Court Judge or pleads guilty to that offence, a Court presided over by 1 or more Community Magistrates—
   (a) may, if that offence is an offence to which section 80 of the Land Transport Act 1998 applies, make, under that section, an order disqualifying the person from holding or obtaining a driver licence for such period as the Court thinks fit, whether or not the Court imposes any other penalty for the offence:
-  (b) must, if that offence is a first or second offence to which section 32 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act an order under section 32 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
+  (b) must, if that offence is a first or second offence to which section 32 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 32 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
   (c) must, if that offence is an offence to which section 35 or section 38 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 35 or section 38 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
   (d) must, if that offence is a first or second offence to which section 56 or section 58 or section 60 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 56 or section 58 or section 60 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
   (e) must, if that offence is an offence to which section 57 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 57 of that Act disqualifying the person from holding or obtaining a driver licence for 3 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
@@ -265,8 +265,8 @@ Every information shall contain such particulars as will fairly inform the defen
 
 ### 18 Information to be filed in nearest Court
 (1) As soon as practicable after an information is laid, it shall be filed by the informant in the office of the Court appointed for the exercise of criminal jurisdiction which is nearest by the most practicable route to the place where the offence was alleged to have been committed or where the informant believes that the defendant may be found:
-  Provided that, if all the parties to the proceedings agree, the information may be filed in the office of another Court:
-  Provided also that failure to comply with the provisions of this section shall not be deemed to invalidate any proceedings.
+  provided that, if all the parties to the proceedings agree, the information may be filed in the office of another Court:
+  provided also that failure to comply with the provisions of this section shall not be deemed to invalidate any proceedings.
 (2) Notwithstanding anything in subsection (1), where 2 or more informations to which this Part applies are laid against the same defendant, it shall be a sufficient compliance with the provisions of this section if the informations are filed in an office of the Court in which any one of the informations could be filed or has already been filed.
 (3) Nothing in this section shall apply in any case where there is a statutory provision to the contrary.
 
@@ -354,7 +354,7 @@ Every information shall contain such particulars as will fairly inform the defen
 (1) Proceedings in respect of an infringement offence may be commenced—
   (a) with the leave of a District Court Judge or a Registrar, by laying an information under this Act, or by filing a notice of prosecution under section 20A; or
   (b) where an infringement notice has been issued in respect of the offence, by providing particulars of a reminder notice in accordance with subsections (4) and (4A), or by filing a notice of hearing in a Court, under this section.
-(2) Where—the informant may serve on the person or one of the persons served with the infringement notice, or a copy of the infringement notice, a reminder notice that contains the same or substantially the same particulars as the infringement notice.
+(2) Where—the informant may serve on the person or 1 of the persons served with the infringement notice, or a copy of the infringement notice, a reminder notice that contains the same or substantially the same particulars as the infringement notice.
   (a) an infringement notice has been issued in respect of an infringement offence; and
   (b) on the expiration of 28 days from the date of service of the notice, or a copy of the notice,—
     (i) the infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
@@ -398,7 +398,7 @@ Every information shall contain such particulars as will fairly inform the defen
 (5AB) An order under subsection (5) or subsection (5A) is deemed to have been made on the date that the relevant reminder notice is deemed to have been filed under subsection (4C).
 (5B) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), no defendant may give notice requesting a hearing in respect of the infringement offence to which the arrangement applies.
 (6) A notice requesting a hearing in respect of an infringement offence must—
-  (a) be in writing signed by the person or one of the persons served with the infringement notice in respect of the offence, or a copy of the infringement notice; and
+  (a) be in writing signed by the person or 1 of the persons served with the infringement notice in respect of the offence, or a copy of the infringement notice; and
   (b) be delivered to the informant at the address specified in the infringement notice before or within 28 days after service of a reminder notice in respect of the offence, or within such further time as the informant may allow.
 (7) A person giving notice requesting a hearing in respect of an infringement offence may, if the person thinks fit, in that notice—
   (a) admit liability in respect of the offence; and
@@ -497,7 +497,7 @@ Every summons calling on any person to appear as a witness, and every other docu
 (2) Every person who wilfully endorses any false statement of the fact, time, or mode of service on a copy of any document commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
 
 ### 30 Translation of documents into Maori language
-Where a document is served on any person who is a Maori within the meaning of the Maori Affairs Act 1953, the provisions of the rules for the time being in force under the District Courts Act 1947 relating to translations of documents served on Maoris in civil proceedings shall apply.
+Where a document is served on any person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993, the provisions of the rules for the time being in force under the District Courts Act 1947 relating to translations of documents served on Maoris in civil proceedings shall apply.
 
 **Special provisions for taking evidence**
 
@@ -539,8 +539,8 @@ Any statement taken under section 164 (which relates to statements of persons da
 (1) At the hearing of any charge, the informant and the defendant may appear personally or by a barrister or a solicitor of the High Court.
 (2) Except as provided in this section or in any other enactment, no person other than the informant may appear at the hearing of any charge and conduct the proceedings against the defendant.
 (3) Where an information has been laid by a constable, any other constable may appear and conduct the proceedings on the informant's behalf.
-(4) Where an information has been laid by an officer or employee of a Department of State or of a local body, any other officer or employee of that Department or of that local body, as the case may be, may appear and conduct the proceedings on the informant's behalf.
-(5) Where proceedings have been commenced by the filing of a notice of hearing pursuant to section 21, any officer or employee of the Department, local body, or other authority that is the informant may appear and conduct the proceedings on the informant's behalf.
+(4) Where an information has been laid by an officer or employee of a department of State or of a local body, any other officer or employee of that department or of that local body, as the case may be, may appear and conduct the proceedings on the informant's behalf.
+(5) Where proceedings have been commenced by the filing of a notice of hearing pursuant to section 21, any officer or employee of the department, local body, or other authority that is the informant may appear and conduct the proceedings on the informant's behalf.
 
 ### 38 Court may issue warrant for appearance of witness
 (1) If at the hearing of any charge any person summoned as a witness under section 20 fails to appear and no just excuse is offered for his failure, the Court, if satisfied that the summons was duly served on him, may issue a warrant in the prescribed form for the appearance of that person.
@@ -739,7 +739,7 @@ Where at the hearing of any charge both the informant and the defendant appear, 
 ### 66 Defendant's right to elect trial by jury where offence punishable by more than 3 months' imprisonment
 (1) Any person charged under this Part with an offence which is punishable by imprisonment for a term exceeding 3 months shall be entitled, before the charge is gone into but not afterwards, to elect to be tried by a jury. Before the defendant is called upon to make his election under this subsection, the substance of the charge shall be stated to him.
 (1A) If a Registrar receives and records an election under section 66A(1), the substance of the charge need not be stated to the defendant under subsection (1).
-(2) Except in any case in which subsection (7) or section 66A(1) applies, the Court shall, before the charge is gone into in respect of an offence to which this section applies, inform the defendant of the right conferred on him by subsection (1) by causing him to be addressed to the following effect:This case is one where you have a choice of being tried here in this Court or of being tried by a Judge and jury Do you wish to be tried by a jury or by this Court?.
+(2) Except in any case in which subsection (7) or section 66A(1) applies, the Court shall, before the charge is gone into in respect of an offence to which this section applies, inform the defendant of the right conferred on him by subsection (1) by causing him to be addressed to the following effect:This case is one where you have a choice of being tried here in this Court or of being tried by a Judge and jury. Do you wish to be tried by a jury or by this Court?.
 (3) Where a corporation is charged with an offence in respect of which an individual would be entitled under this section to elect to be tried by a jury, an election to be so tried may be made on behalf of the corporation by its representative; and, where the corporation does not appear by a representative or no such election is made on behalf of the corporation, the Court may, subject to the provisions of this section, deal with the case summarily as if the offence were an offence to which subsection (1) did not apply.
 (4) Where a defendant who is charged under this Part with an indictable offence elects under this section to be tried by a jury, the proceedings shall continue as if he had been charged on an information in form 2 in Schedule 2.
 (5) Where a defendant who is charged with a summary offence elects under this section to be tried by a jury, the proceedings shall continue as if the offence were an indictable offence not punishable summarily, and, if he is committed for trial or for sentence, he may be dealt with accordingly.
@@ -2265,7 +2265,7 @@ A defendant who appeals by way of case stated against any determination shall no
 (1) Where on the determination by a District Court of any information the defendant is convicted and sentenced, the informant may appeal to the High Court against the sentence passed on the conviction, unless the sentence is one fixed by law.
 (1A) The informant may appeal to the High Court against a sentence imposed under section 28F(4) of the District Courts Act 1947 if the sentence appealed against is a term of imprisonment or a fine that does not exceed the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000, or both).
 (2) No appeal shall be brought under this section unless the consent of the Solicitor-General has first been obtained and is lodged with the notice of appeal:
-  Provided that any document evidencing the Solicitor-General's consent may be signed on his behalf by a person purporting to be a Crown Counsel.
+  provided that any document evidencing the Solicitor-General's consent may be signed on his behalf by a person purporting to be a Crown Counsel.
 (2A) If the defendant is the Crown Law Office,—
   (a) subsection (2) does not apply:
   (b) no appeal may be brought under this section unless the consent of the Attorney-General has been obtained and is lodged with the notice of appeal:
@@ -2331,7 +2331,7 @@ When the Registrar of the High Court receives the documents referred to in secti
 
 ### 120 Defects in notice of appeal
 On the hearing of any general appeal no objection to any defect in the notice of appeal shall be allowed, unless the High Court is of opinion that the respondent has been substantially prejudiced thereby:
-  Provided that, whether or not any objection is allowed, the Court may direct or allow the notice to be amended on such terms as to costs or otherwise as it thinks fit.
+  provided that, whether or not any objection is allowed, the Court may direct or allow the notice to be amended on such terms as to costs or otherwise as it thinks fit.
 
 ### 121 High Court to hear and determine appeal
 (1) The High Court shall hear and determine every general appeal and make such order in relation to it as the Court thinks fit, and, without limiting the generality of the power conferred by this subsection, may exercise any of the powers referred to in the succeeding provisions of this section.
@@ -2747,13 +2747,13 @@ If a person who is in custody has served or has received a notice of an intentio
 (2) Despite subsection (1), the prosecutor may file a written statement later than the date required by that subsection in any case, with the leave of a District Court Judge.
 (3) When the prosecutor files any written statement or statements under this section, the prosecutor must ensure that notice of that filing is given to the defendant's counsel or solicitor, or to the defendant if the defendant is not represented.
 
-### 168A Court to which defendant to be committed
-[Repealed]
-
 ### 168AA High Court Judge to determine Court of trial in certain cases
 [Repealed]
 
 ### 168AB Notice of transfer of case to District Court
+[Repealed]
+
+### 168A Court to which defendant to be committed
 [Repealed]
 
 ### 168B Defendant to be warned as to law relating to notice of alibi
@@ -3290,7 +3290,7 @@ In any action brought against a Justice or Community Magistrate by a person clai
 ### 197 Indemnity to Justice or Community Magistrate
 (1) Any Justice or Community Magistrate against whom a judgment has been entered to pay damages or costs to any person injured as a result of any act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction shall, on production by him of a certificate signed by a Judge of the High Court stating that in his opinion the Justice or Community Magistrate acted in good faith under the belief that he had in fact jurisdiction, and further that in the opinion of the Judge in all the circumstances he ought fairly and reasonably to be excused, be indemnified by the Crown to the full amount of the judgment.
 (2) Where a claim against a Justice or Community Magistrate is settled by the payment by him of, or an agreement by him to pay, an agreed amount for damages or costs before action is commenced against him or before or during trial of the action, he shall be indemnified by the Crown to the full amount paid or agreed to be paid by him, on production of a certificate as aforesaid stating that in the opinion of the Judge the amount paid or agreed to be paid was fair and reasonable:
-  Provided that, if he is not so satisfied, the Judge may issue the certificate in respect of such less sum as in his opinion would have been or would be adequate to settle the plaintiff's claim, and in that case the Justice or Community Magistrate shall be indemnified by the Crown to the amount specified in the certificate.
+  provided that, if he is not so satisfied, the Judge may issue the certificate in respect of such less sum as in his opinion would have been or would be adequate to settle the plaintiff's claim, and in that case the Justice or Community Magistrate shall be indemnified by the Crown to the amount specified in the certificate.
 (3) Application for such a certificate may be made by the Justice or Community Magistrate at any time to a Judge in Chambers, and the Judge shall have power to grant the certificate after considering such evidence as may be given before him either orally or in the form of affidavits.
 (4) A copy of the application shall be served by the Justice or Community Magistrate on the Attorney-General, who shall be entitled to appear and oppose it.
 
@@ -3540,13 +3540,13 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 
 | Section of Act | Offence |
 | --- | --- |
-| Part 5—Crimes Against Public Order |  |
+| Part 5—Crimes against public order |  |
 | 78A | Wrongful communication, retention, or copying of official information |
 | 86 | Unlawful assembly |
 | 87 | Riot |
 | 91 | Forcible entry and detainer |
 | 98A | Participation in organised criminal group |
-| Part 6—Crimes Affecting the Administration of Law and Justice |  |
+| Part 6—Crimes affecting the administration of law and justice |  |
 | 107 | Contravention of statute |
 | 110, 111 | Making false oath or statement or declaration |
 | 114 | Use of purported affidavit or declaration |
@@ -3554,8 +3554,8 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 119 | Breaking prison |
 | 120 | Escape from lawful custody |
 | 121 | Assisting escape from lawful custody |
-| 122 | Assisting escape of mentally disordered person under detention for offence |
-| Part 7—Crimes Against Religion, Morality, and Public Welfare |  |
+| 122 | Assisting escape of mentally defective person under detention for offence |
+| Part 7—Crimes against religion, morality, and public welfare |  |
 | 124 | Distribution or exhibition of indecent matter |
 | 125, 126 | Indecent acts |
 | 129A(2) | Inducing indecent act by threat |
@@ -3575,7 +3575,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 145 | Criminal nuisance |
 | 146 | Keeping place of resort for homosexual acts |
 | 150 | Misconduct in respect of human remains |
-| Part 8—Crimes Against the Person |  |
+| Part 8—Crimes against the person |  |
 | 153 | Duty of employers to provide necessaries |
 | 154 | Abandoning child under 6 |
 | 181 | Concealing dead body of child |
@@ -3590,21 +3590,21 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 195A | Failure to protect child or vulnerable adult |
 | 196 | Common assault |
 | 198A(2) | Using any firearm to resist arrest |
-| 198B | Commission of Crime with firearm |
+| 198B | Commission of crime with firearm |
 | 200(2) | Poisoning with intent to cause inconvenience or annoyance |
 | 202 | Setting traps, etc |
 | 202A | Possession of offensive weapons or disabling substances |
-| 202C | Assault with weapon. |
-| 203(2) | Endangering transport without intent to inure |
+| 202C | Assault with weapon |
+| 203(2) | Endangering transport without intent to injure |
 | 204A | Female genital mutilation |
 | 204B | Further offences relating to female genital mutilation |
 | 206 | Bigamy |
 | 207 | Feigned marriage |
 | 210 | Abduction |
-| Part 9A—Crimes Against Personal Privacy |  |
+| Part 9A—Crimes against personal privacy |  |
 | 216B | Prohibition on use of listening devices |
 | 216C | Prohibition on disclosure of private communications unlawfully intercepted |
-| 216D | Prohibition on dealing with listening device |
+| 216D | Prohibition on dealing with listening devices |
 | 216F | Unlawful disclosure |
 | 216H | Prohibition on making intimate visual recording |
 | 216I | Prohibition on possessing intimate visual recording in certain circumstances |
@@ -3648,7 +3648,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | 269(2) and (3) | Intentional damage |
 | 271 | Waste or diversion of electricity, gas, or water |
 | 272 | Providing explosive to commit crime |
-| Part 11—Threatening, Conspiring, and Attempting to Commit Offences |  |
+| Part 11—Threatening, conspiring, and attempting to commit offences |  |
 | 306 | Threatening to kill or do grievous bodily harm |
 | 307 | Threatening to destroy property |
 | 308 | Threatening acts |
@@ -3659,7 +3659,12 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Adoption Act 1955 |  | 27A |  | Inducing consent to an adoption |
 | Animal Welfare Act 1999 |  | 28 |  | Wilful ill-treatment of animals |
 |  |  | 28A |  | Reckless ill-treatment of animals |
+| Animals Act 1967 |  | 21 |  | Introduction into New Zealand of any organism causing disease |
+|  |  | 38 |  | Wilfully communicating disease |
+|  |  | 88 |  | Wrongful alteration of brand or approved mark |
+|  |  | 102 |  | Making knowingly false declaration |
 | Antarctica (Environmental Protection) Act 1994 |  | Part 2 |  | Mineral resource activities in Antarctica |
+| Area Health Boards Act 1983 |  | 51 |  | Offences in relation to health computer systems |
 | Arms Act 1983 |  | 44(1) |  | Selling or supplying pistol or restricted weapon to person who does not hold permit to import or to procure |
 |  |  | 45(1) |  | Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose |
 |  |  | 46(1) |  | Carrying of imitation firearm, except for lawful, proper, and sufficient purpose |
@@ -3701,13 +3706,17 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 461D |  | Fraudulently carrying on business, obtaining credit, or transferring property |
 | Companies Act 1993 |  | 304(6) |  | Claims by unsecured creditors |
 |  |  | 305(11) |  | Rights and duties of secured creditors |
+|  |  | 377 |  | False statements |
+|  |  | 378 |  | Fraudulent use or destruction of property |
+|  |  | 379 |  | Falsification of records |
 |  |  | 380 |  | Carrying on business fraudulently |
 |  |  | 382(4) |  | Persons prohibited from managing companies |
 |  |  | 383(6) |  | Court may disqualify directors |
-|  |  | 385(9) |  | Registrar or Financial Markets Authority may prohibit persons from managing companies. |
+|  |  | 385(9) |  | Registrar or Financial Markets Authority may prohibit persons from managing companies |
 | Companies Special Investigations Act 1958 |  | 28 |  | Destroying or altering records |
 | Compulsory Retirement Savings Scheme Referendum Act 1997 |  | 54 |  | Voting papers |
 | Copyright Act 1994 |  | 131 |  | Offences relating to making or dealing with infringing objects |
+| Cornish Companies Management Act 1974 |  | 22 |  | Destroying or altering records |
 | Corporations (Investigation and Management) Act 1989 |  | 9 |  | Information offences |
 |  |  | 17 |  | Hindering inspection |
 |  |  | 20(1) |  | Hindering investigation |
@@ -3732,7 +3741,9 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 209(1A) |  | Offences relating to importation or exportation of objectionable publications |
 | Designs Act 1953 |  | 42 |  | Offences in respect of designs required to be kept secret |
 |  |  | 43 |  | Falsification of register of designs, etc |
-| Distillation Act 1971 |  | 86 |  | Stealing spirits from distillery, etc |
+| Distillation Act 1908 |  | 126 |  | Stealing spirits from distillery, etc |
+|  |  | 127 |  | Obstructing officer |
+|  |  | 128 |  | Assaulting or resisting officer |
 | District Courts Act 1947 |  | 116A |  | False statement of service of documents |
 | Domestic Violence Act 1995 |  | 49(2) |  | Contravening protection order |
 | Electoral Act 1993 |  | 204F |  | Election advertisement to include promoter statement |
@@ -3750,10 +3761,12 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Films, Videos, and Publications Classification Act 1993 |  | 124(1) |  | Offences involving knowledge in relation to objectionable publications |
 |  |  | 127(4) |  | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
 |  |  | 131A(1) |  | Offences relating to possession of objectionable publications and involving knowledge |
-| Finance Act 1915 |  | 65 |  | Bribing officer of Customs, Officer accepting bribe or conniving at offence |
+| Finance Act 1915 |  | 65 |  | Bribing officer of Customs. Officer accepting bribe or conniving at offence |
 | Financial Advisers Act 2008 |  | 137E |  | Contravening banning order |
 |  |  | 137J |  | Breaching orders |
-| Financial Reporting Act 1993 |  | 41 |  | False statements. |
+| Financial Reporting Act 1993 |  | 41 |  | False statements |
+| Fire Services Act 1949 |  | 79(4) |  | Giving false information as to insurance on premises where fire occurs |
+| Fisheries Act 1908 |  | 63 |  | Removing boundary marks of oyster bed |
 | Fisheries Act 1996 |  | 231(1) and (2) |  | Knowingly making a false or misleading statement or using a false document to obtain a benefit |
 |  |  | 233(1) |  | Knowingly receiving or possessing fish for sale or engaging in a commercial activity, otherwise than in accordance with the Act |
 |  |  | 296B(5) |  | Approved service delivery organisation knowingly falsifying information |
@@ -3761,6 +3774,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Food Act 1981 |  | 11AA |  | Contravention of Act, etc, knowing that will create risk to human health |
 | Friendly Societies Act 1909 |  | 75 |  | Wrongful supply of rules of society or branch |
 | Gambling Act 2003 |  | 353 |  | Offences involving counterfeit chips |
+| Harbours Act 1950 |  | 247 |  | Wilful damage to works |
 | Health Act 1956 |  | 69ZZR(1) |  | Offences against sections in Part 2A |
 |  |  | 69ZZT |  | Offences involving deception |
 | Human Assisted Reproductive Technology Act 2004 |  | 8(1) |  | Taking an action described in Schedule 1 |
@@ -3786,13 +3800,15 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Land Transfer Act 1952 |  | 225 |  | Fraudulently procuring certificate of title, etc |
 |  |  | 226 |  | Forging seal of Registrar, etc |
 |  |  | 228A |  | Fraudulent removal of records |
-| Land Transport Act 1998 |  | 32(4) |  | Driving while disqualified or contrary to limited licence or while licence suspended or revoked |
+| Land Transport Act 1998 |  | 32(4) |  | Driving while disqualified or contrary to alcohol interlock licence, zero alcohol licence, or limited licence or while licence suspended or revoked |
 |  |  | 36(1) |  | Reckless or dangerous driving causing injury or death, or failing to stop and render assistance after person injured or killed |
 |  |  | 36AA |  | Causing death of another person |
 |  |  | 36A(1) (a) and (2) |  | Operating a motor vehicle in a race or unnecessary exhibition of speed or acceleration in contravention of section 22A(1), and by that act or omission causing an injury to or the death of another person |
 |  |  | 36A(1)(c) and (2) |  | Without reasonable excuse, operating a motor vehicle in a manner that causes it to undergo sustained loss of traction in contravention of section 22A(3), and by that act or omission causing an injury to or the death of another person |
 |  |  | 39(1) |  | Causing injury or death while carelessly using vehicle |
 |  |  | 56(4) |  | Contravening specified breath or blood-alcohol limit |
+|  |  | 57AA(4) |  | Driving or attempting to drive a motor vehicle on a road while the proportion of alcohol exceeds specified micrograms of alcohol per litre of breath |
+|  |  | 57AA(5) |  | Driving or attempting to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood exceeds specified milligrams of alcohol per 100 millilitres of blood |
 |  |  | 58(3) |  | Driving while under influence of drink or drug to such an extent as to be incapable of proper control of vehicle |
 |  |  | 60(3) |  | Failing or refusing to allow blood specimen to be taken |
 |  |  | 61(1) |  | Causing bodily injury or death while in charge of a motor vehicle and having breath alcohol exceeding 400 micrograms of alcohol per litre of breath or blood alcohol exceeding 80 milligrams of alcohol per 100 millilitres of blood |
@@ -3803,21 +3819,22 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Local Electoral Act 2001 |  | 123 and 124 |  | Offences in respect of official documents and voting offences |
 | Local Government Act 2002 |  | 232(2) |  | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
 | Marriage Act 1955 |  | 58 |  | Unlawful solemnisation of marriage |
-|  |  | 59 |  | Falsely pretending to be marriage celebrant |
+|  |  | 59 |  | Falsely pretending to be officiating minister |
 |  |  | 60 |  | False statements, etc |
 | Mental Health (Compulsory Assessment and Treatment) Act 1992 |  | 114 |  | Neglect or ill-treatment of proposed patients and patients |
 | Merchandise Marks Act 1954 |  | 18 |  | Contravention of Act |
 | Misuse of Drugs Act 1975 |  | 6 |  | Dealing with controlled drugs, but only where the charge relates to a Class C controlled drug |
 |  |  | 9 |  | Cultivation of prohibited plants |
-|  |  | 10 |  | Aiding offences against corresponding law of another country, but only in a case to which subsection (2)(b) applies |
+|  |  | 10 |  | Aiding offences against corresponding law of another country, but only in a case to which subsection(2)(b) applies |
 |  |  | 11 |  | Theft, etc, of controlled drugs |
 |  |  | 12 |  | Use of premises or vehicle |
 |  |  | 12A |  | Equipment, material, and substances used in production or cultivation of controlled drugs |
 |  |  | 12AB |  | Offence to knowingly import or export precursor substances for unlawful use |
 |  |  | 12B |  | Laundering proceeds of drug offences |
+| Motor-Vehicle Dealers Act 1958 |  | 24 |  | Offences in respect of money received as agent |
 | Naval and Victualling Stores Act 1908 |  | 4 |  | Destroying marks with intent to steal stores |
 |  |  | 5(1) |  | Knowingly receiving or selling marked stores |
-| New Zealand Security Intelligence Service Act 1969 |  | 12A |  | Unauthorised disclosure of Information |
+| New Zealand Security Intelligence Service Act 1969 |  | 12A |  | Unauthorised disclosure of information |
 | Passports Act 1992 |  | 29A |  | Forged and false New Zealand travel documents |
 |  |  | 30 |  | Offences relating to passport information and material |
 |  |  | 30A |  | Improper issue of New Zealand travel document |
@@ -3827,6 +3844,8 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Patents Act 1953 |  | 25(6) |  | Breach of secrecy as to certain inventions |
 |  |  | 26(8) |  | Unlawful publication of information as to inventions relating to atomic energy |
 |  |  | 105 |  | Falsification of register of patents |
+| Police Offences Act 1927 |  | 32 |  | Conversion or attempted conversion of motor car, etc |
+|  |  | 53A |  | Unlawfully carrying offensive weapon in a public place |
 | Prostitution Reform Act 2003 |  | 23 |  | Offence to breach prohibitions on use in prostitution of persons under 18 years |
 | Protection of Personal and Property Rights Act 1988 |  | 45(3) |  | False statement |
 | Public Service Investment Society Management Act (No 2) 1979 |  | 22 |  | Destroying or altering records |
@@ -3834,6 +3853,7 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 | Reserve Bank of New Zealand Act 1989 |  | 29 |  | Making or issuing of other bank notes or coins |
 |  |  | 176 |  | Offence against Act |
 | Residential Tenancies Act 1986 |  | 106 |  | Giving false evidence |
+| Sales Tax Act 1932–33 |  | 46 |  | Making false declaration |
 | Secret Commissions Act 1910 |  | 3 |  | Gifts to agent without consent of principal an offence |
 |  |  | 4 |  | Acceptance of such gifts by agent an offence |
 |  |  | 5 |  | Duty of agent to disclose pecuniary interest in contract |
@@ -3856,6 +3876,23 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 43T |  | Offence of contravening order to preserve assets |
 | Serious Fraud Office Act 1990 |  | 45 |  | Offences as to obstructing investigation, etc |
 |  |  | 46 |  | Offence to destroy, alter, or conceal records, etc |
+| Shipping and Seamen Act 1952 |  | 63 |  | Offences as to discharge of seamen |
+|  |  | 115 |  | Fraudulently obtaining property of deceased seamen or seamen left abroad |
+|  |  | 118 |  | Forcing seamen ashore |
+|  |  | 119(3) |  | Contravention of provisions as to leaving seamen behind abroad |
+|  |  | 163 |  | Misconduct endangering ship or life |
+|  |  | 177(9) |  | Offences as to official log books |
+|  |  | 181(10) |  | Offences as to engine room log books |
+|  |  | 287(3) |  | Failure to observe collision regulations |
+|  |  | 289(2) |  | Failure to render assistance after collision |
+|  |  | 297(7) |  | Failure to assist craft or persons in distress at sea |
+|  |  | 298(12) |  | Misrepresenting the nature of dangerous goods |
+|  |  | 302(1), (2) |  | Sending unseaworthy ship on a voyage |
+|  |  | 354(1) |  | Offences in respect of wreck |
+|  |  | 368(7) |  | Forgery in salvage claims |
+|  |  | 494(4) |  | Offences as to documents produced in evidence |
+|  |  | 498(2) |  | Obstructing service of documents |
+|  |  | 503(1) |  | Forging and misusing documents, etc |
 | Soil Conservation and Rivers Control Act 1941 |  | 154 |  | Wilful damage to watercourse or works |
 | Summary Proceedings Act 1957 |  | 29(2) |  | False statement of service |
 |  |  | 181(5) |  | False statement of service |
@@ -3895,7 +3932,7 @@ A District Court presided over by a District Court Judge may, if it thinks fit, 
 A District Court presided over by a District Court Judge may order the removal into the High Court of any case transmitted to that District Court under section 107, and on the removal the High Court shall have the same power to adjudicate on the proceedings as that District Court had.
 
 ### 115C Rights of appeal against decisions relating to publication of reports of proceedings or identifying particulars
-(1) Where a District Court presided over by 1 or more Community Magistrates makes a decision on an application for an order under paragraph (a) or paragraph (b) of section 138(2), or under section 140, of the Criminal Justice Act 1985 forbidding publication of any report of the proceedings or of any identifying particulars, the applicant for the order or the informant may appeal to a District Court presided over by a District Court Judge against the decision.
+(1) Where a District Court presided over by 1 or more Community Magistrates makes a decision on an application for an order under section 200, 202, or 205 of the Criminal Procedure Act 2011 forbidding publication of any report of the proceedings or of any identifying particulars, the applicant for the order or the informant may appeal to a District Court presided over by a District Court Judge against the decision.
 (2) Where the decision of the District Court presided over by 1 or more Community Magistrates is to refuse to make the order sought, that District Court must, on being satisfied that an appeal against that decision is to be brought under this section, make an interim order to the effect sought by the applicant; and that interim order continues in force—
   (a) until the expiry of the period prescribed by section 116 for the filing of notice of the appeal; or
   (b) if notice of the appeal is filed within that prescribed period, until the appeal is finally disposed of, or withdrawn, or abandoned.
