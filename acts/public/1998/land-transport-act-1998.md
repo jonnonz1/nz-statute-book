@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-09-10_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -469,7 +469,7 @@ This Act binds the Crown.
 (1) A person may not drive a motor vehicle on a road—
   (a) without an appropriate current driver licence; or
   (b) in contravention of the conditions of the person's driver licence; or
-  (c) if the person is disqualified from holding or obtaining a driver licence, or the person's driver licence is suspended or has been revoked, or the driving is contrary to a limited licence.
+  (c) if the person is disqualified from holding or obtaining a driver licence, or the person's driver licence is suspended or has been revoked, or the driving is contrary to an alcohol interlock licence, a zero alcohol licence, or a limited licence.
 (2) A person may not hold or apply for a driver licence while he or she is disqualified under this Act or any other Act from holding or obtaining a driver licence.
 (3) While a person's driver licence is suspended under this Act or any other Act, the person may not hold or obtain a driver licence.
 (4) A person driving a motor vehicle must produce without delay his or her driver licence for inspection whenever required to do so by an enforcement officer.
@@ -513,6 +513,9 @@ A person may not drive or attempt to drive a motor vehicle while—
   (c) if the person is younger than 20,—
     (i) the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol; or
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol; or
+  (d) if the person holds an alcohol interlock licence or a zero alcohol licence,—
+    (i) the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol; or
+    (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol.
 
 ### 11A Persons may not drive or attempt to drive while impaired and their blood contains evidence of use of qualifying drug
 A person may not drive or attempt to drive a motor vehicle while—
@@ -1301,10 +1304,10 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 ### 32 Contravention of section 5(1)(c)
 (1) A person commits an offence if the person drives a motor vehicle on a road—
   (a) while disqualified from holding or obtaining a driver licence; or
-  (b) contrary to a limited licence; or
+  (b) contrary to an alcohol interlock licence, a zero alcohol licence, or a limited licence; or
   (c) while his or her driver licence is suspended or revoked.
 (2) Nothing in subsection (1) applies to any person—
-  (a) who has been ordered by a court to attend an approved driving improvement course under section 92(1) or a programme approved by the Agency under section 99A or to undergo any test or examination prescribed for a driver licence or endorsement; and
+  (a) who has been ordered by a court to attend an approved driving improvement course under section 92(1) or a programme approved by the Agency under section 99A or to undergo any test or examination approved by the Agency; and
   (b) who, in the course of his or her attendance at that course or programme or while undergoing such a test or examination,—
     (i) in the case of a motorcyclist, drives under the supervision of a person who holds a driving instructor or testing officer endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999 that is relevant to a class of licence for a motorcycle:
     (ii) in any other case, drives while accompanied by a person who holds a driving instructor or testing officer endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999.
@@ -1476,7 +1479,10 @@ A court may impose a fine for an infringement offence, other than an overloading
 (4) The maximum penalty on conviction for an offence against subsection (1) or subsection (2) or subsection (3) is a fine not exceeding $5,000.
 
 ### 48 Contravention of section 92(4)
-(1) A person commits an offence if the person, without reasonable excuse, fails to attend or pay the fee for a driving improvement course or dangerous goods course in accordance with section 92(4), or neither attends nor pays the fee.
+(1) A person commits an offence if the person, without reasonable excuse, fails to—
+  (a) attend a driving improvement course or dangerous goods course in accordance with section 92(4), or neither attends nor pays the fee; or
+  (b) complete a driving improvement course or dangerous goods course in accordance with section 92(4), or neither attends nor pays the fee; or
+  (c) pay the fee for a driving improvement course or dangerous goods course in accordance with section 92(4).
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
 ### 49 Contravention of section 97(5) or (6)
@@ -1527,6 +1533,16 @@ A court may impose a fine for an infringement offence, other than an overloading
     (ii) the operation of approved vehicle surveillance equipment.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
+### 55A Offences concerning alcohol interlock devices
+(1) This section applies if a person tampers with, or attempts to tamper with, an alcohol interlock device, or uses an alcohol interlock device in contravention of an order made by a court under section 65A(2).
+(2) If this section applies,—
+  (a) the person who holds the alcohol interlock licence to which the alcohol interlock device applies commits an offence; or
+  (b) the person who tampered with, or attempted to tamper with, the alcohol interlock device or used the alcohol interlock device in contravention of an order made under section 65A(2) commits an offence.
+(3) It is a defence to proceedings for an offence against subsection (2)(a) if the person who holds an alcohol interlock licence establishes that the person—
+  (a) did not tamper with, or attempt to tamper with, the alcohol interlock device or use the alcohol interlock device in contravention of an order made under section 65A(2); and
+  (b) was not involved in the commission of the offence against subsection (2)(b).
+(4) The maximum penalty on conviction for an offence against subsection (2)(a) or (b) is a fine not exceeding $3,000.
+
 ## Part 6 — Driving offences involving drink or drugs, and penalties and procedures
 
 **Offences and penalties**
@@ -1553,6 +1569,19 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
+
+### 57AA Contravention of specified breath or blood alcohol limit by holder of alcohol interlock licence or zero alcohol licence
+(1) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
+(2) A person who holds an alcohol interlock licence or a zero alcohol licence commits a summary offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+(3) If a person is convicted of an offence against subsection (1) or (2),—
+  (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
+(4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
+(5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an indictable offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
+(6) If a person is convicted of an offence against subsection (4) or (5),—
+  (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
+(7) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 57A Driving while impaired and with blood that contains evidence of use of qualifying drug
 (1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if—
@@ -1700,6 +1729,39 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the court convicts that person of a third or subsequent offence to which this section applies; and
   (b) the 2 or more previous offences were committed within 5 years of the date of the commission of the offence being dealt with by the court.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
+
+### 65A Alcohol interlock requirements for repeat offences or certain first time offences involving use of alcohol
+(1) This section applies if—
+  (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+  (b) either—
+    (i) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court; or
+    (ii) the offence for which the person is convicted under paragraph (a) involves either or both of the following:
+      (A) the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, is 800 micrograms of alcohol per litre of breath or higher:
+      (B) the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, is 160 milligrams of alcohol per 100 millilitres of blood or higher.
+(2) If this section applies, the court must, if the court imposes a sentence for an alcohol interlock licence disqualification,—
+  (a) disqualify the person from holding any driver licence for a period of 3 months; and
+  (b) make an order that—
+    (i) authorises the person to apply for an alcohol interlock licence at the end of the 3-month disqualification period; and
+    (ii) requires the person, while holding an alcohol interlock licence, to—
+      (A) drive only a vehicle or vehicles to which an alcohol interlock device is fitted; and
+      (B) apply for a zero alcohol licence, which the Agency may issue only on successful completion of the criteria specified in subparagraph (iv); and
+    (iii) provides that the person may apply for any other driver licence (including, but not limited to, a limited licence) only if the person has obtained, and has satisfied the requirements of, the alcohol interlock licence; and
+    (iv) provides that the alcohol interlock device in the person's vehicle may be removed only if the person—
+      (A) has held the alcohol interlock licence for at least 12 months; and
+      (B) has not violated any of the requirements of the alcohol interlock licence during the 6-month period preceding the date on which the alcohol interlock device is removed, or has completed an assessment and has not violated any of the requirements of the alcohol interlock licence during the 3-month period preceding the date on which the alcohol interlock device is removed; and
+    (v) ends the person's disqualification under section 65, if the person was disqualified under section 65.
+(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(4) A person who is subject to an order under subsection (2) and does not apply for an interlock licence is to be treated as a person with a licence of no effect.
+
+### 65B Mandatory zero alcohol requirements for repeat offences involving use of alcohol
+(1) This section applies if—
+  (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+  (b) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court.
+(2) If this section applies, the court must make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the issue of the licence.
+(3) A person authorised under subsection (2) may apply for a zero alcohol licence,—
+  (a) in the case of a person who is subject to 1 or more orders of disqualification, no earlier than the day after the end of the last period of disqualification to which the person is subject; or
+  (b) in the case of a person who is subject to an order made under section 65A(2)(b), when the Agency makes an order under section 100A(1).
+(4) A person who is subject to an order under subsection (2) and does not apply for a zero alcohol licence is to be treated as a person with a licence of no effect under section 29(1).
 
 **Name suppression**
 
@@ -1909,7 +1971,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (3) Except as provided in subsection (4), the result of a positive evidential breath test is not admissible in evidence in proceedings for an offence against any of sections 56 to 62 if—
   (a) the person who underwent the test is not advised by an enforcement officer, without delay after the result of the test is ascertained, that the test was positive and that, if the person does not request a blood test within 10 minutes,—
     (i) in the case of a positive test that indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath, the test could of itself be conclusive evidence to lead to that person's conviction for an offence against this Act; or
-    (ii) in the case of a positive test that indicates that the proportion of alcohol in the person's breath exceeds 150 but does not exceed 400 micrograms of alcohol per litre of breath, the test could of itself, unless the person is 20 or older, be conclusive evidence to lead to that person's conviction for an offence against this Act; or
+    (ii) in the case of a positive test that indicates that the proportion of alcohol in the person's breath exceeds 150 but does not exceed 400 micrograms of alcohol per litre of breath, the test could of itself, unless the person is 20 or older, or holds an alcohol interlock licence or a zero alcohol licence, be conclusive evidence to lead to that person's conviction for an offence against this Act; or
   (b) the person who underwent the test—
     (i) advises an enforcement officer, within 10 minutes of being advised of the matters specified in paragraph (a), that the person wishes to undergo a blood test; and
     (ii) complies with section 72(2).
@@ -2151,6 +2213,12 @@ Even though offences under section 79T or 79U are not punishable by imprisonment
 ### 82B Transitional provision concerning application of section 82A
 To avoid doubt, section 82A applies if a period of disqualification or suspension ends after the commencement of that section, even though the period of disqualification or suspension began before the commencement of that section.
 
+### 82C Application for reinstatement following expiry of alcohol interlock licence or zero alcohol licence
+(1) This section applies to a person whose alcohol interlock licence or zero alcohol licence (as the case may be) has expired.
+(2) If this section applies, a person’s driver licence remains of no effect when the alcohol interlock licence or zero alcohol licence expires until—
+  (a) the person applies to the Agency to have the licence reinstated; and
+  (b) the Agency reinstates, if permitted by the regulations or the rules, the person’s licence in accordance with the regulations and the rules.
+
 ### 83 Holder to undergo approved tests or courses if disqualified for more than 1 year
 (1) If a person is disqualified from holding or obtaining a driver licence for a period of more than 12 months or for 2 or more cumulative periods totalling more than 12 months,—
   (a) the licence continues to be of no effect after the disqualification ends until the person applies for the same class of licence and the person qualifies for the licence by any or all (as the case may be) of the following:
@@ -2184,8 +2252,14 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
   (b) at the time of the commission of the offence, the person was already disqualified or was the holder of a limited licence issued under section 105 (or the corresponding provisions of a former enactment),—
 (2) Nothing in subsection (1) restricts the power of the court to impose any other penalty specified for the offence, and the imposition of a penalty under that subsection does not limit or affect any duty or power of the court to order a longer period of disqualification.
 
-### 87 Particulars of court orders relating to disqualification to be sent to Agency and offender
-(1) If a court makes an order disqualifying a person from holding or obtaining a driver licence or an order under section 99 (removing a disqualification) or an order under section 105 (authorising the issue of a limited licence), the Registrar of the court must notify the Agency, and the offender in writing, of the particulars of the order.
+### 87 Particulars of certain court orders to be sent to Agency and offender
+(1) This section applies to the following orders:
+  (a) an order disqualifying a person from holding or obtaining a driver licence:
+  (b) an order under section 65A(2)(b)(i) (authorising the person to apply for an alcohol interlock licence):
+  (c) an order under section 65B(2) (authorising the person to apply for a zero alcohol licence):
+  (d) an order under section 99 (reducing a disqualification):
+  (e) an order under section 105 (authorising the issue of a limited licence).
+(2) If a court makes an order to which this section applies, the Registrar of the court must notify the Agency and the offender in writing of the particulars of the order.
 (2) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
 
 **Disqualification of transport service driver and other persons**
@@ -2292,7 +2366,13 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (1) If a person is convicted of an offence concerning the driving of a motor vehicle, the court may, whether or not it imposes any other penalty for the offence, order that person to attend an appropriate driving improvement course approved by the Agency.
 (2) If a person is convicted of an offence against this Act involving dangerous goods, the court may, whether or not it imposes any other penalty for the offence, order the person to attend an appropriate dangerous goods course approved by the Agency.
 (3) On the making of an order under subsection (1) or subsection (2), the Registrar of the court must notify the Agency of the particulars of the order and the conviction for which it is made.
-(4) A person who has been ordered under subsection (1) or subsection (2) to attend a course must attend the course and must, within 21 days after being required to do so, pay to the person in charge of the course the fee usually charged for that course.
+(4) A person who has been ordered under subsection (1) or (2) to attend a course must,—
+  (a) within 21 days after being required to do so, pay to the person in charge of the course the fee usually charged for that course; and
+  (b) within 90 days after being required to do so, complete the course; and
+  (c) if the person has successfully completed the course, provide the court with evidence that verifies that the person has successfully completed the course.
+(5) Despite subsection (4)(b), if a person is unable to complete an appropriate driving improvement course approved by the Agency owing to factors beyond the person's control, the court may—
+  (a) grant an extension as the court considers appropriate in the circumstances; or
+  (b) suspend or cancel the order requiring the person to complete the course.
 
 ### 93 Court may order compulsory driving test
 (1) If the holder of a driver licence is convicted of an offence concerning the driving of a motor vehicle, the court may, whether or not it imposes any other penalty or makes any other order concerning the offence, order that person to undergo any tests and examinations approved by the Agency authorising the person to drive a motor vehicle of the class he or she was driving at the time of the offence.
@@ -2380,6 +2460,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (1) An enforcement officer must seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that a person drove the vehicle on a road while—
   (a) the person was disqualified from holding or obtaining a driver licence authorising the person to drive that vehicle; or
   (b) the person's driver licence is for the time being suspended or was revoked; or
+  (ba) in the case of a person who is the holder of an alcohol interlock licence, the person operated that vehicle contrary to the conditions of that licence; or
   (c) in the case of a person who was previously forbidden to drive because the person was an unlicensed driver or his or her driver licence had expired, the person did not hold a driver licence; or
   (d) the person—
     (i) had a—
@@ -2623,6 +2704,16 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (2) If the Agency makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
 (3) No order may be made under subsection (1) if the applicant concerned is subject to an order made under section 65 that has been in force less than 1 year and 1 day.
 
+### 100A Agency to remove alcohol interlock requirements
+(1) If orders have been made under section 65A(2) in respect of a person (the applicant), the Agency must make an order removing the requirements imposed by those orders, if satisfied that the applicant is a fit person to hold a driver licence, having regard to—
+  (a) both of the following:
+    (i) a report from a medical practitioner attached to an assessment centre that is made available to the Agency by the applicant or the assessment centre; and
+    (ii) the applicant establishing to the satisfaction of the Agency that the applicant has complied with every requirement imposed by those orders, and by this Act or the rules or regulations made under this Act in relation to those orders, for a period of at least 3 months immediately before the applicant applied to have the requirements relating to the orders made under section 65A(2) removed; or
+  (b) the applicant establishing to the satisfaction of the Agency that the applicant has complied with every requirement imposed by those orders, and by this Act or the rules or regulations made under this Act in relation to those orders, for a period of at least 6 months immediately before the applicant applied to have the requirements relating to the orders made under section 65A(2) removed.
+(2) If the Agency makes an order under subsection (1), every order made under section 65A(2) that applies to the applicant concerned must be treated as having expired.
+(3) No order may be made under subsection (1) if the applicant’s alcohol interlock licence has been in force less than 12 months.
+(4) If the Agency decides not to remove the requirements imposed by the orders made under section 65A(2), the Agency must refer the applicant to the right of appeal under section 106.
+
 **Removal of licence suspension and return of impounded vehicles**
 
 ### 101 Appeal to Agency against mandatory suspension of driver licence
@@ -2668,11 +2759,14 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
   (a) a person who is disqualified from holding or obtaining a driver licence by an order made under section 65 (which relates to repeat offences involving alcohol or drugs):
   (b) a person who is disqualified from driving a vehicle being used in a transport service (other than a rental service) by virtue of section 63, if the limited licence would authorise the person to drive a vehicle being used in a transport service (other than a rental service):
   (c) a person who is disqualified from holding or obtaining a driver licence by an order made on his or her conviction for an offence against section 32(1) (which relates to driving while disqualified or contrary to a limited licence):
-  (d) a person who is disqualified by an order made on his or her conviction—committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences).
+  (d) a person who is disqualified by an order made on his or her conviction—committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences):
     (i) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
     (ii) for an offence against any of sections 56, 57A, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
     (iii) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
     (iv) for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in any of subparagraphs (i) to (iii)—
+  (e) a person who—
+    (i) is subject to the requirements of an alcohol interlock licence; or
+    (ii) is subject to an order under section 65A but is yet to obtain an alcohol interlock licence.
 
 ### 104 Issue of limited licence to be delayed or prohibited in certain cases
 (1) No order may be made under section 105 that authorises a person to obtain a limited licence before the expiration of 28 days from the date the order of disqualification takes effect if the person is disqualified on conviction—
