@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2011-12-05_
+_Consolidation as at 2012-09-18_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1846,7 +1846,7 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
 ### 87A Delegation by EPA
 (1) The EPA must not delegate its power to appoint the Registrar under section 11.
 (2) In all other respects, section 73 of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:.
-  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:
+  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:ob
 
 ### 88 Directions to EPA
 (1) The Minister may give general directions to the EPA in relation to the EPA's exercise of powers and performance of functions under this Part, Part 5, or any regulations made under this Part or Part 5.
@@ -3273,7 +3273,7 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   (c) the person is liable to surrender the number of units in the assessment under paragraph (b); and
   (d) section 123(1) to (3) and the other provisions of this Act apply as if the assessment under paragraph (b) was an assessment under section 121.
 (9) For the purposes of this section, tree weed means a tree that is defined or designated as—
-  (a) a pest in a pest management strategy under the Biosecurity Act 1993; or
+  (a) a pest in a pest management plan under the Biosecurity Act 1993; or
   (b) a tree weed in regulations made under this Act.
 
 ### 185 Effect of exemption
@@ -3309,7 +3309,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
 (3) To avoid doubt, if there is a person registered as a participant in respect of carrying out an activity listed in Part 1 of Schedule 4 in respect of any post-1989 forest land, no other person may be registered as a participant in respect of carrying out a different activity listed in Part 1 of Schedule 4 in respect of that land.
 (4) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in respect of post-1989 forest land unless—
   (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949 that was in force at the time the action was taken; and
-  (b) if the post-1989 forest land is subject to a pest management strategy under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person—
+  (b) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person—
     (i) has complied with the requirements; or
     (ii) verified that any other person required to comply with the requirements has done so.
 
@@ -3319,7 +3319,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (b) must define the carbon accounting area or areas in respect of which the applicant wishes to be a participant; and
   (c) must be accompanied by a declaration, in the prescribed form, that—
     (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the Resource Management Act 1991, including any plan under that Act, or the Forests Act 1949, that was in force at the time the action was taken; and
-    (ii) if the post-1989 forest land is subject to a pest management strategy under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the applicant has—
+    (ii) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the applicant has—
       (A) complied with the requirements; or
       (B) verified that any other person required to comply with the requirements has done so; and
   (d) must be accompanied by any information prescribed by regulations made under this Act.
