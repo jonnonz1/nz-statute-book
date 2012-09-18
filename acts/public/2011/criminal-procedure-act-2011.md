@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-09-18_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3748,9 +3748,12 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of sections 101 to 103 of this Act ends on the date that is 3 years after the date on which the offence was committed.
 
-### 162 Time for filing charging document in relation to certain offences
-(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 154(d), (e), (ma), (o), (p), (q), (r), (s), (u), or (v), or against any regulations made under this Act, ends on the date that is 2 years after the date on which the offence was committed.
-(2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+### 162 Time for filing charging document for certain offences
+(1) This section applies to—
+  (a) an offence against any of sections 154M, 154N(8) to (21), and 154O(19) to (21):
+  (b) an offence against any regulations made under this Act.
+(2) The limitation period for the offence ends on the date that is 2 years after the date on which the offence was committed.
+(3) Section 25 of the Criminal Procedure Act 2011 does not apply to the offence.
 
 ### 378 Time limit for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date when the matter giving rise to the charge first became known, or should have become known, to any of the following persons:
