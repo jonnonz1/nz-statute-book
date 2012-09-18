@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2011-08-18_
+_Consolidation as at 2012-09-18_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -965,7 +965,7 @@ The Authority may, for a deemed approval under section 255,—
 
 ### 46 Meaning of emergency
 (1) For the purposes of section 30(c) and sections 47 to 49, emergency means—
-  (a) an event involving the release of a new organism for which a national pest management strategy has been approved under section 68 of the Biosecurity Act 1993; or
+  (a) an event involving the release of a new organism for which a national pest management plan has been approved under section 66 of the Biosecurity Act 1993; or
   (b) a state of emergency declared under the Civil Defence Emergency Management Act 2002; or
   (c) an emergency as defined in section 2 of the Fire Service Act 1975; or
   (d) an emergency declared under Part 9; or
