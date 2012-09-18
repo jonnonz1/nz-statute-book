@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-09-18_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2341,7 +2341,7 @@ A person who is required by or under section 159 to keep records or any other in
   (c) any recognised risk management programme verifier or recognised risk management programme verifying agency:
   (d) any other person or body having functions or duties under this Act:
   (e) any other person or body having an involvement in 1 or more risk management programmes or food safety programmes whose proper performance of their functions or duties depends on the supply of the relevant information:
-  (f) any management agency that is charged with the administration of pest management strategies under the Biosecurity Act 1993.
+  (f) any management agency that is charged with the administration of pest management plans or pathway management plans under the Biosecurity Act 1993.
 
 **Right of review**
 
