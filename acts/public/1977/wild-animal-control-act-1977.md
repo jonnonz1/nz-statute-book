@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-09-18_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -62,7 +62,7 @@ This Act may be cited as the Wild Animal Control Act 1977.
   - **wild animal** —
     (a) means—
       (i) any deer (including wapiti or moose):
-      (ii) any chamois, tahr, wallaby, or possum (Trichosurus vulpecula):
+      (ii) any chamois or tahr:
       (iii) any goat that is not—
         (A) held behind effective fences or otherwise constrained; and
         (B) identified in accordance with an animal identification device approved under the National Animal Identification and Tracing Act 2012 or in accordance with an identification system approved under section 50 of the Biosecurity Act 1993 and approved by the Director-General for the purposes of this Act:
@@ -216,7 +216,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (b) is not unsuitable for farming or holding the wild animals because of its susceptibility to erosion; and
   (c) will be adequately equipped with effective fences.
 (5) Except as authorised by a permit or licence that is effective for the purposes of subsection (1), no person may, without a permit issued by the Director-General,—
-  (a) capture or convey or keep in captivity any tahr, chamois, possum, or wallaby; or
+  (a) capture or convey or keep in captivity any tahr or chamois; or
   (b) except for the purposes of farming or operating a safari park, capture or convey or keep in captivity any deer.
 (5A) The Director-General must not issue, under subsection (5), any permit to keep an animal in captivity unless the Director-General is satisfied that—
   (a) the enclosure or land on which, or the conveyance in which, the animal will be kept or conveyed is suitable to contain the animal in a manner that will prevent its escape; or
@@ -536,4 +536,31 @@ The Director-General shall, in his annual report with respect to all operations 
 ### 44 Repeals
 The enactments specified in the Schedule are hereby repealed.
 
-## Schedule Schedule — Enactments repealed
+## Schedule  — Enactments repealed
+
+### 1 Title
+This Act is the Biosecurity Law Reform Act 2012.
+
+### 2 Commencement
+(1) Section 19 and Part 2 come into force on the date appointed by the Governor-General by Order in Council.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 3 — Related amendments to other enactments
+
+### 90 Amendments to Wild Animal Control Act 1977
+(1) This section amends the Wild Animal Control Act 1977.
+((2), (3)) Amendment(s) incorporated in the Act(s).
+
+### 92 Transitional provision on wallabies and possums
+(1) The organism wallaby (family Macropodidae) is deemed to be an unwanted organism within the meaning in the Biosecurity Act 1993 for 2 years from the day on which this section commences.
+(2) The Governor-General may, by Order in Council, extend the period referred to in subsection (1).
+(3) The order—
+  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
+  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) Subsections (5) to (7) apply to a permit, licence, or other authority (permission) that—
+  (a) was issued under the Wild Animal Control Act 1977; and
+  (b) relates to a wallaby (family Macropodidae) or possum (family Phalangeridae); and
+  (c) exists on the day on which this section commences.
+(5) A permission continues in force according to its tenor.
+(6) A reference in a permission to the Director-General of Conservation or to any other office or officer of the Department of Conservation or to the Minister of Conservation is deemed to be a reference to the Director-General as defined in the Biosecurity Act 1993.
+(7) The Director-General, as defined in the Biosecurity Act 1993, may exercise any or all of the powers under the Wild Animal Control Act 1977 to amend, suspend, revoke, or renew a permission.
