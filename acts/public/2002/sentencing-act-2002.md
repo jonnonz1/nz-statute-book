@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2012-09-10_
+_Consolidation as at 2012-09-18_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -63,6 +63,7 @@ The purposes of this Act are—
   - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
   - **post-detention conditions** means any standard post-detention conditions and special post-detention conditions imposed under section 80N on an offender sentenced to home detention
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
+  - **prison officer** means an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation area** means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, sentences of home detention, or orders
   - **probation officer** means a person appointed to be, or designated as, a probation officer under section 124 of the Criminal Justice Act 1985; and includes a person exercising only some of the functions or powers of a probation officer under that Act
   - **qualifying instrument forfeiture offence** —
@@ -145,6 +146,8 @@ In sentencing or otherwise dealing with an offender the court—
   (d) the extent of any loss, damage, or harm resulting from the offence:
   (e) particular cruelty in the commission of the offence:
   (f) that the offender was abusing a position of trust or authority in relation to the victim:
+  (fa) that the victim was a constable, or a prison officer, acting in the course of his or her duty:
+  (fb) that the victim was an emergency health or fire services provider acting in the course of his or her duty at the scene of an emergency:
   (g) that the victim was particularly vulnerable because of his or her age or health or because of any other factor known to the offender:
   (h) that the offender committed the offence partly or wholly because of hostility towards a group of persons who have an enduring common characteristic such as race, colour, nationality, religion, gender identity, sexual orientation, age, or disability; and
     (i) the hostility is because of the common characteristic; and
@@ -167,6 +170,9 @@ In sentencing or otherwise dealing with an offender the court—
 (4) Nothing in subsection (1) or subsection (2)—
   (a) prevents the court from taking into account any other aggravating or mitigating factor that the court thinks fit; or
   (b) implies that a factor referred to in those subsections must be given greater weight than any other factor that the court might take into account.
+(4A) In subsection (1)(fb), emergency health or fire services provider means a person who has a legal duty (under any enactment, employment contract, other binding agreement or arrangement, or other source) to, at the scene of an emergency, provide services that are either or both—
+  (a) ambulance services, first aid, or medical or paramedical care:
+  (b) services provided by or on behalf of a fire brigade (as defined in section 2(1) of the Fire Service Act 1975) to save life or property.
 
 **Additional aggravating factors in cases involving violence against, or neglect of, child under 14 years**
 
