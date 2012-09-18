@@ -1,5 +1,5 @@
 # Walking Access Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2012-09-18_
 
 ### 1 Title
 This Act is the Walking Access Act 2008.
@@ -499,7 +499,7 @@ A person who does, or omits to do, an act in the course of performing a duty or 
   (b) knew that the offence occurred on or in relation to a walkway.
 (4) In this section,—
   - **dog** does not include a disability assist dog within the meaning of section 2 of the Dog Control Act 1996
-  - **noxious weed** means any plant specified as a pest in a pest management strategy made under Part 5 of the Biosecurity Act 1993
+  - **noxious weed** means any plant specified as a pest in a pest management plan made under Part 5 of the Biosecurity Act 1993
   - **plant** —
     (a) means any member of the plant kingdom and any part of or seed or spore from any plant; and
     (b) includes any algae, bacteria, or fungi
