@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2011-08-18_
+_Consolidation as at 2012-09-18_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
       (i) kept by the Police or any constable, the New Zealand Customs Service, the Ministry of Agriculture and Forestry, the Ministry of Fisheries, or the Ministry of Defence, or any officer or employee of any such department of State solely or principally for the purposes of carrying out the functions, powers, and duties of the Police or the department of State or that constable, officer, or employee; or
       (ii) kept solely or principally for the purposes of herding or driving stock; or
       (iii) kept by the Department of Conservation or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
-      (iv) kept solely or principally for the purposes of destroying pests or pest agents under any pest management strategy under the Biosecurity Act 1993; or
+      (iv) kept solely or principally for the purposes of destroying pests or pest agents under any pest management plan under the Biosecurity Act 1993; or
       (iva) kept by the Department of Corrections or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
       (ivb) kept by the Aviation Security Service established under section 72B(2)(ca) of the Civil Aviation Act 1990, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
       (ivc) certified for use by the Director of Civil Defence Emergency Management for the purposes of carrying out the functions, duties, and powers conferred by the Civil Defence Emergency Management Act 2002; or
