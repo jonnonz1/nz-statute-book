@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-09-27_
 
 > Title
 
@@ -1927,6 +1927,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 | Learning State Limited |  |  |  |  |  |  |  |  |
 | the Māori Trustee |  |  |  |  |  |  |  |  |
 | National Pacific Radio Trust |  |  |  |  |  |  |  |  |
+| The Network for Learning Limited |  |  |  |  |  |  |  |  |
 | New Zealand Fish and Game Council and Fish and Game Councils |  |  |  |  |  |  |  |  |
 | New Zealand Game Bird Habitat Trust Board |  |  |  |  |  |  |  |  |
 | New Zealand Government Property Corporation |  |  |  |  |  |  |  |  |
