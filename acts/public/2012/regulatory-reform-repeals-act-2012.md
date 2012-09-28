@@ -1,5 +1,5 @@
 # Regulatory Reform (Repeals) Act 2012
-_Consolidation as at 2012-08-30_
+_Consolidation as at 2012-09-28_
 
 ### 1 Title
 This Act is the Regulatory Reform (Repeals) Act 2012.
