@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2012-09-10_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -2987,17 +2987,16 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 (2) The enforcement officer may, without warrant, in the course of the pursuit enter, by force if necessary, any premises which the person has entered, for either or both of the following purposes:
   (a) determining whether or not a power conferred on an enforcement officer by section 68 or section 69 should be exercised in respect of that person:
   (b) exercising or completing the exercise of any such power in respect of that person (as if the person were in a motor vehicle on a road).
-(3) An enforcement officer may without warrant enter, by force if necessary, a building or place where a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept, and seize and impound the vehicle, if—
-  (a) an enforcement officer has been freshly pursuing the vehicle; or
-  (b) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
-  (c) an enforcement officer suspects on reasonable grounds that the vehicle was about to be used in the commission of a crime; or
-  (d) because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do any thing referred to in paragraph (b) or (c).
+(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power in subsection (2).
+((3)) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which section 96, 96A, or 123 applies is being stored or kept, and seize and impound the vehicle,—
+  (a) if—
+    (i) an enforcement officer has been freshly pursuing the vehicle; or
+    (ii) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
+    (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of a crime; and
+  (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)(ii) or (iii).
 (4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
-(5) An enforcement officer may apply on oath to a District Court Judge for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
-(6) It is the duty of every enforcement officer exercising a power conferred by subsection (2) or subsection (3) or under subsection (5)—
-  (a) to identify himself or herself as an enforcement officer to the pursued person and to the occupant of the premises entered; and
-  (b) to tell the pursued person and the occupant of the premises entered that the power of entry is being exercised under this section; and
-  (c) if the enforcement officer is not in uniform, to produce to the pursued person and the occupant of the premises entered on initial entry, and, if requested, at any subsequent time, evidence that he or she is an enforcement officer.
+(5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
+(6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3)).
 (7) An enforcement officer who enters any premises under this section may not exercise on those premises any power of arrest conferred by this Act other than a power of arrest conferred by any of sections 68(3), 69(6), and 120.
 
 ### 120 Arrest of persons for alcohol or drug-related offences, or assault on enforcement officer
@@ -4753,3 +4752,39 @@ This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
 ### 37 Transitional provision in relation to Transport (Vehicle and Driver Registration and Licensing) Act 1986
 In the period commencing on the commencement of this section and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009, any reference to a registered person in sections 96(2A), 98(1), and 98A(2) of the Land Transport Act 1998 (as inserted or substituted by this Act) must be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
