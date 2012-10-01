@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato continue the Maritime Safety Authority of New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment
 
@@ -3894,50 +3894,28 @@ Before making any emergency rule under section 37 or section 391, the Director s
 (4) Where a warrant under section 454 has been issued to a duly authorised person subject to conditions, the duly authorised person—
   (a) shall not enter the dwellinghouse, marae, or building associated with a marae, specified in the warrant otherwise than in accordance with the conditions; and
   (b) shall in all other respects comply with the conditions.
-(5) Subject to subsection (4), a duly authorised person exercising the powers of inspection conferred by subsection (1) or subsection (2) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+(5) Subject to subsection (4), a duly authorised person exercising the powers of inspection conferred by subsection (1) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 ### 454 Warrant to inspect dwellinghouse, marae, etc
-A District Court Judge, a duly authorised Justice, a Community Magistrate, or a Registrar (not being a constable), who, on a written application made on oath by a person duly authorised by the Director, is satisfied that the entry is essential to enable the inspection to be carried out, may issue to the duly authorised person, unconditionally or subject to conditions, a warrant (in the prescribed form) authorising that person to enter the place on 1 occasion within 14 days of the issue of the warrant.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made by an authorised person in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, is satisfied that entry is essential to enable the inspection of a place referred to in section 453(3) to be carried out, may issue a warrant to the authorised person that authorises that person to enter the place.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 2) apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
+(4) In this section and section 455, authorised person means a person authorised by the Director.
 
 ### 455 Entry in respect of offences
-(1) Subject to subsection (2), a District Court Judge, a duly authorised Justice, a Community Magistrate, or a Registrar (not being a constable), who, on a written application made on oath by a person duly authorised by the Director, is satisfied that there are reasonable grounds for believing that there is on or in any place specified in the application any thing—may issue, unconditionally or subject to conditions, a warrant (in the prescribed form) authorising the entry and search of the place, at any reasonable time on 1 occasion within 14 days of the issue of the warrant.
+(1) Subject to subsection (2), an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant to enter and search a place if, on an application made by an authorised person in the manner provided in subpart 3 of Part 4 of that Act, the issuing officer is satisfied that there are reasonable grounds for believing that there is on or in the place (being a place specified in the application) any thing—
   (a) in respect of which an offence against this Act has been or may have been committed; or
   (b) that is or may be evidence of the commission of an offence against this Act; or
-  (c) that is intended to be used for the commission of an offence against this Act—
-(2) The duly authorised person applying for a warrant under subsection (1)—
-  (a) shall first make reasonable inquiries as to whether any other applications for such a warrant (or a similar warrant under a provision of any enactment repealed by this Act) have been made in respect of the place concerned, and (if so) the following matters:
-    (i) the offence or offences alleged in respect of each application:
-    (ii) the result of each application; and
-  (b) shall disclose on the application for the warrant the results of the inquiries.
-(3) Every warrant under subsection (1) shall be directed to and exercisable only by—
-  (a) a constable specified in the warrant; or
-  (b) a duly authorised person specified in the warrant, if accompanied by a constable; or
-  (c) any constable; or
-  (d) any duly authorised person, if accompanied by a constable.
-(4) Where a warrant under subsection (1) has been issued subject to conditions, the person exercising it—
-  (a) shall not enter or search the place specified in it otherwise than in accordance with the conditions; and
-  (b) shall in all other respects comply with the conditions.
-(5) Subject to subsection (4), a person exercising a warrant under subsection (1) may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+  (c) that is intended to be used for the commission of an offence against this Act.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 456 Duties on exercising power of entry
-(1) Any person duly authorised by the Director, or constable, exercising a power of entry conferred by section 454 or section 455—
-  (a) shall have with him or her—
-    (i) evidence of his or her identity, and appointment as a duly authorised person or constable; and
-    (ii) except in the case of entry under section 454 to a place that is not a dwellinghouse, a marae, or a building associated with a marae, the warrant under section 454 or section 455 authorising the entry; and
-  (b) shall produce them to any person appearing to be in charge of the place entered—
-    (i) on entering the place (if such a person is then present); and
-    (ii) at any reasonable time thereafter, if asked to do so by the person; and
-  (c) if there is no person appearing to be in charge of the place at any time between the time of entry and the time the inspection or search concerned has been completed, shall, as soon as is practicable after completing the inspection or search, give an occupier or person in charge of the place written notice stating that the place has been entered, and specifying the following matters:
-    (i) the time and date of entry:
-    (ii) the circumstances and purpose of entry:
-    (iii) the name, office or position, and employer of every person entering:
-    (iv) if entry was under warrant, the principal contents of the warrant:
-    (v) everything that has been seized, or that nothing has been seized, as the case may be.
-(2) A duly authorised person, or constable, exercising a power of entry conferred by section 454 or section 455 in relation to a marae, or a building associated with a marae, shall have regard to the kawa of the marae.
+[Repealed]
 
 ### 457 Additional powers
-(1) A person lawfully exercising the powers conferred by section 453 or section 455 may make or take copies of any document or any information recorded or stored in a computer or other device, and for that purpose may take possession of and remove any document, tape, or disk from the place where it is kept for such period of time as is reasonable in the circumstances, or may require a person to reproduce, or assist the person duly authorised by the Director to reproduce, in usable form, information recorded or stored in a computer or other device.
-(2) A duly authorised person who has lawfully entered premises under section 453 or section 455 may do on or in respect of any such premises all such acts and things as appear to the duly authorised person to be reasonably necessary or expedient.
+(1) A person lawfully exercising the powers conferred by section 453 may make or take copies of any document or any information recorded or stored in a computer or other device, and for that purpose may take possession of and remove any document, tape, or disk from the place where it is kept for such period of time as is reasonable in the circumstances, or may require a person to reproduce, or assist the person duly authorised by the Director to reproduce, in usable form, information recorded or stored in a computer or other device.
+(2)
 
 **Service of documents**
 
@@ -4430,3 +4408,39 @@ Despite the commencement of this Act, if any event giving rise to liability unde
 (2) If a notice to make a rule has been published under section 446(a) of the principal Act as in force immediately before the commencement of this Act, but has not been made before that commencement,—
   (a) the proposed rule may be made in accordance with the law in force immediately before that commencement; or
   (b) if the Minister so directs, a new rule may be prepared, notified, and made in accordance with the law in force on the commencement of this Act.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
