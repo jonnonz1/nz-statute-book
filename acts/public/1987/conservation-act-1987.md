@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-10-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -2095,10 +2095,11 @@ A local authority may make contributions out of its general fund or account for 
 (2) The production by a warranted officer of a warrant of appointment shall be sufficient evidence of the officer's appointment.
 (3) Any warranted officer may summarily interfere to prevent any offence against this Act, and may require any person found offending to desist from the offence.
 (4) Any person who, when required to desist from an offence against this Act, continues the offence, commits a further offence against this Act.
-(4A) A power of entry under this section shall be exercised only at times that are reasonable in the circumstances.
-(4B) When exercising a power of entry under this section, a warranted officer shall produce evidence of his or her identity and authority whenever reasonably requested to do so.
+(4A)
+(4B)
 (5) Any constable or warranted officer who has reason to believe that an offence against this Act has been committed in respect of any animal, animal product, freshwater fish, freshwater fish product, natural or historic resource, or plant may seize it.
 (6) In the case of every warranted officer, the provisions of this section are subject to any restrictions or limitations specified in the warrant issued to that person under section 59.
+(7) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply.
 
 ### 41 Offences in respect of warranted officers and fish and game rangers
 Every person commits an offence who—
@@ -2144,10 +2145,10 @@ Every person who commits an offence against this Act for which no penalty is pre
 (2) In assessing any amount payable under subsection (1), the court may take into account salaries, wages, and incidental expenses incurred in the investigation of the act constituting the offence or in remedying the loss or damage caused by the act, and shall take into account all other relevant factors.
 
 ### 46 Forfeiture of property
-(1) Subject to subsection (2), where any warranted officer has seized any thing under this Act, it shall be retained by the Director-General pending the trial of that person in respect of the offence in respect of which it was seized.
-(2) Where any constable has seized any thing under this Act, it shall be retained by the Commissioner of Police pending the trial of the person in respect of the offence in respect of which it was received.
-(3) If satisfied that any thing seized under this Act may perish, rot, or spoil, the Director-General may arrange for its sale (at a price that is reasonable in the circumstances) in any manner, the Director-General thinks fit.
-(4) Subject to subsections (2) and (8), if no proceedings are taken in respect of the offence concerned within 12 months of the seizure of any thing under this Act, or if the information concerned is dismissed, the thing or, as the case may be, the proceeds from its sale, shall be released from the custody of the Crown.
+(1)
+(2)
+(3)
+(4)
 (5) Subject to subsection (7), on the conviction of any person for any offence against this Act,—
   (a) any ship, vehicle, aircraft, conveyance, machinery, implement, appliance, material, container, goods, equipment, fishing gear, or hunting weapon used in the commission of the offence may, on the direction of the court, be forfeited to the Crown; and in that case shall be disposed of as the Minister thinks fit; and
   (b) any animal, animal product, freshwater fish, freshwater fish product, natural or historic resource, or plant in respect of which the offence has been committed, whether or not it has been seized or taken possession of under this Act, shall be forfeit to the Crown, and shall be disposed of as the Minister thinks fit, unless it is a wild animal or a part of any wild animal, in which case it shall be dealt with under the Wild Animal Control Act 1977.
@@ -2672,3 +2673,39 @@ This Act amends the Conservation Act 1987.
 ### 8 Transitional provision for application for concession if process initiated
 (1) This section applies if, before the commencement of this Act, the Minister exercised a power under section 17ZG(2)(a) to initiate a process that relates to any application for a concession.
 (2) The principal Act, as amended by this Act, applies to the process, and any application for a concession to which the process relates, which is made or proposed to be made on or after the commencement of this Act, must be dealt with accordingly.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
