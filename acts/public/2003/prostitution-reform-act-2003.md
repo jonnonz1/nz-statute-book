@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -243,45 +243,22 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 **Powers of entry**
 
 ### 30 Warrant for Police to enter
-(1) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a constable) may issue a warrant to enter a place if he or she is satisfied that—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant to enter a place if he or she is satisfied that—
   (a) there is good cause to suspect that an offence under either of the following provisions is being, has been, or is likely to be committed in the place:
     (i) section 23 (which concerns using persons under 18 years in prostitution):
     (ii) section 34 (which concerns being an operator while not holding a certificate); and
   (b) there are reasonable grounds to believe that it is necessary for a constable to enter the place for the purpose of preventing the commission or repetition of that offence or investigating that offence.
-(2) An application for a warrant must be made in writing and on oath.
-(3) The Judge, Justice, Community Magistrate, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply as if a warrant referred to in subsection (1) were a search warrant.
+(3)
 
 ### 31 Form and content of warrant
-(1) A warrant under section 30(1)(a) must be in the prescribed form and state—
-  (a) the place that may be entered; and
-  (b) which of the offences listed in section 30 the warrant has been issued in respect of; and
-  (c) the period during which the warrant may be executed, which must not exceed 14 days from the date of issue; and
-  (d) any conditions that apply to the warrant under section 30(3).
-(2) The warrant must be directed generally to every constable.
+[Repealed]
 
 ### 32 Powers conferred by warrant
-(1) Subject to any conditions stated in the warrant, a warrant under section 30 authorises the person executing it to—
-  (a) enter and search the place stated in the warrant at any time of the day or night; and
-  (b) use the assistance that is reasonable in the circumstances to enter and search the place; and
-  (c) use the force that is reasonable in the circumstances to gain entry and to break open any thing in, on, over, or under the place; and
-  (d) search for and seize any property or thing that the person has reasonable grounds to believe will be evidence of the commission of an offence in respect of which the warrant is issued.
-(2) A person who is called to assist to execute the warrant may exercise the powers described in subsection (1)(c) and (d).
-(3) The power to enter a place under the warrant may be exercised once only.
+[Repealed]
 
 ### 33 Requirements when executing warrant
-(1) A constable who executes a warrant under section 30 must, on entering the place and when reasonably requested at any subsequent time, produce—
-  (a) the warrant; and
-  (b) if not in uniform, evidence that he or she is a constable.
-(2) If the owner or occupier of the place is not present at the time the warrant is executed, the constable must—
-  (a) leave in a prominent location at the place a written statement that includes the following information:
-    (i) the time and date of the entry; and
-    (ii) the name of the constable who entered the place; and
-    (iii) the fact that the person is a constable; and
-    (iv) the reasons for the entry; and
-    (v) the address of the Police station to which enquiries should be made; and
-  (b) take all other reasonable steps to give that information to the owner or occupier of the place.
-(3) If any thing is seized in the execution of the warrant, the constable must leave in a prominent location at the place, or deliver or send by registered mail to the owner or occupier within 10 working days after the entry, a written inventory of all things seized.
-(4) Section 199 of the Summary Proceedings Act 1957 applies to any thing seized in the execution of the warrant (with any necessary modifications).
+[Repealed]
 
 ## Part 3 — Operator certificates
 
@@ -459,3 +436,39 @@ Amendment(s) incorporated in the Act(s).
   (c) imposing a penalty for the offence.
 
 ## Schedule  — Consequential amendments to enactments
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
