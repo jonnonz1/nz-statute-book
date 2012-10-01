@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1111,7 +1111,7 @@ A summary of the information contained in a statement of proposal must—
 (1) In addition to the information required by Part 3 of Schedule 10, the annual report must contain the auditor's report on—
   (a) the financial statements referred to in clause 29 of Schedule 10; and
   (b) the statement about budgeted and actual capital expenditure referred to in clause 24 of Schedule 10; and
-  (c) the funding impact statement referred to in clause 30 of Schedule 10; and
+  (c) the funding impact statement referred to in clause 30of Schedule 10; and
   (d) the local authority's compliance with the requirements of Schedule 10 that are applicable to the annual report.
 (2) In addition to the information required by section 98(5), the summary required by section 98(4)(b) must contain the auditor's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 
@@ -1828,41 +1828,25 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (b) includes a breach of a bylaw.
 
 ### 165 Seizure of property from private land
-(1) A judicial officer may issue a warrant authorising an enforcement officer to enter private property involved in the commission of an offence, and seize and impound property.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private property involved in the commission of an offence, and seize and impound property.
 (2) A warrant may be issued only if—
-  (a) the application for it is made in writing and on oath; and
-  (b) the judicial officer is satisfied that—
+  (a) the application for it is made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012; and
+  (b) the issuing officer is satisfied that—
     (i) the property is materially involved in the commission of an offence; and
     (ii) it is reasonable in the circumstances for the property to be seized; and
     (iii) the enforcement officer has directed the person committing the offence to stop committing the offence and has advised the person that, if he or she fails to do so, the enforcement officer intends to apply for a warrant; and
     (iv) the enforcement officer has given the person committing the offence a reasonable opportunity to stop committing the offence.
-(3) A warrant—
-  (a) may be issued subject to any terms and conditions imposed by the judicial officer issuing the warrant; and
-  (b) authorises an enforcement officer, subject to any terms and conditions imposed under paragraph (a), to—
-    (i) use any assistance that is necessary in the circumstances; and
-    (ii) use any force that is reasonably necessary to enter the land and seize and impound the property concerned.
-(4) In this section, judicial officer means—
-  (a) a District Court Judge, duly authorised Justice of the Peace, Community Magistrate, or Registrar of a District Court; but
-  (b) does not include a Justice of the Peace who is the mayor, an elected member, or an employee, of the local authority.
+(3) None of the following persons may act as an issuing officer under this section:
+  (a) the mayor or any elected member of the local authority:
+  (b) any employee of the local authority.
+(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (1) were a search warrant.
 
 ### 166 Conditions for exercise of warrant to seize property on private land
-(1) An enforcement officer executing a warrant issued under section 165(1) must—
-  (a) be accompanied by a constable; and
-  (b) when entering the land and when reasonably requested to do so afterwards, produce for inspection by any person occupying the land at the time—
-    (i) the warrant; and
-    (ii) evidence of the officer's identity; and
-  (c) if requested, whether at the time or later, provide a copy of the warrant within 7 days after receiving the request.
-(2) If no person is present and occupying the land when an enforcement officer executes the warrant, the enforcement officer must—
-  (a) leave a copy of the warrant—
-    (i) affixed to a building or fixture on the land; or
-    (ii) in a prominent place on the land; and
-  (b) on a copy of the warrant, endorse—
-    (i) the date and time of the execution of the warrant; and
-    (ii) the name of the enforcement officer executing the warrant; and
-    (iii) a description of any property seized and impounded in sufficient detail to enable the property to be identified.
+(1) An enforcement officer executing a warrant issued under section 165(1) must be accompanied by a constable.
+(2) Subsection (1) overrides section 165(4).
 
 ### 167 Return of property seized and impounded
-(1) The owner of property that has been seized and impounded under section 164 or section 165, or the person from whom the property was seized, may request the local authority concerned to return the property.
+(1) The owner of property that has been seized and impounded under section 164, or the person from whom the property was seized, may request the local authority concerned to return the property.
 (2) The local authority must return the property if—
   (a) the property is not likely to be involved in an offence for which it was seized; and
   (b) the owner or person has paid, or tenders with the request payment of, the costs of the local authority in seizing, impounding, transporting, and storing the property.
@@ -1872,7 +1856,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (b) order that the property be returned.
 
 ### 168 Power to dispose of property seized and impounded
-(1) A local authority may dispose of property that has not been returned within 6 months after it was seized and impounded.
+(1) A local authority may dispose of property seized and impounded under section 164 that has not been returned within 6 months after it was seized and impounded.
 (2) A local authority must not dispose of property before giving the owner of the property and the person it was seized from not less than 14 working days' notice of the authority's intention to do so.
 (3) A local authority may dispose of the property by way of sale or otherwise as it thinks fit.
 (4) Any proceeds from the disposal of the property must be applied to pay,—
@@ -1917,14 +1901,8 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 
 ### 171 General power of entry
 (1) For the purpose of doing anything that the local authority is empowered to do under this Act or any other Act, a local authority may enter any land or building other than a dwellinghouse.
-(2) If a local authority exercises the power under subsection (1) to enter occupied land or occupied buildings, it must give reasonable notice of its intention to enter—
-  (a) to the occupier, which notice must be given not less than 24 hours in advance; and
-  (b) to the owner, if the occupier is not also the owner,—
-    (i) as early as reasonably practicable before entry; or
-    (ii) as soon as reasonably practicable after entry has been made.
-(3) In determining how to exercise the power of entry under subsection (2) and what notice is reasonable in the circumstances, the local authority must have regard to—
-  (a) the interests and convenience of persons who may be affected; and
-  (b) the requirements of any business utilising the land or buildings.
+(2)
+(3)
 (4) If a local authority exercises the power under subsection (1) to enter unoccupied land or unoccupied buildings, the local authority must notify the owner—
   (a) not less than 24 hours in advance of the intended entry if it is reasonably practicable to do so; or
   (b) as early as reasonably practicable, whether before or after entry has been made.
@@ -1934,11 +1912,10 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 (1) A warranted enforcement officer may enter land for the purpose of detecting a breach of a bylaw or the commission of an offence against this Act if the officer has reasonable grounds for suspecting that a breach of the bylaw or the commission of the offence has occurred or is occurring on the land.
 (2) Before exercising the power in subsection (1), the officer must, if practicable, give reasonable notice to the occupier of the land of the intention to exercise the power, unless the giving of notice would defeat the purpose of entry.
 (3) The power in subsection (1) to enter a dwellinghouse must not be exercised unless—
-  (a) the entry is authorised by a warrant given by a District Court Judge on written application on oath; and
+  (a) the entry is authorised by a warrant given by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act; and
   (b) when exercising the power, the enforcement officer is accompanied by a constable.
-(4) Before exercising the power in subsection (1), the officer must produce evidence of his or her identity and authority to exercise the power,—
-  (a) if practicable, on first entering the land or premises; and
-  (b) whenever subsequently reasonably requested to do so.
+(4) Subject to subsections (3)(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(5) Despite subsection (4), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 173 Power of entry in cases of emergency
 (1) A local authority may, for the purpose of doing anything that it is authorised to do under this Act or any other enactment, enter occupied land or buildings without giving prior notice, if—
@@ -1947,7 +1924,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
     (ii) damage to property; or
     (iii) damage to the environment; or
   (b) there is danger to any works or adjoining property.
-(2) If a local authority exercises the power in subsection (1), it must, as soon as practicable after doing so, inform the occupier and, if the occupier is not the owner, the owner of the land or building.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply.
 
 ### 174 Authority to act
 (1) If an officer of a local authority or other person is authorised by this Act or another enactment to enter private land on behalf of the local authority, the local authority must provide a written warrant under the seal of the local authority as evidence that the person is so authorised.
@@ -5494,3 +5471,39 @@ This Act amends the Building Act 2004.
   (b) the Minister of Local Government:
   (c) the Department of Conservation:
   (d) any employee or agent of the Department of Conservation.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
