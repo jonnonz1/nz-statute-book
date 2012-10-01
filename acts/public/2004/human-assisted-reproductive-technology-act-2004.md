@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2010-10-16_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -815,56 +815,44 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
   (b) inspect—
     (i) any equipment or device believed on reasonable grounds to be used in the place in relation to any assisted reproductive procedure or human reproductive research:
     (ii) any document in the place believed on reasonable grounds to relate to any assisted reproductive procedure or human reproductive research:
-  (c) take or make copies of, or copies of extracts from, any document inspected and, for that purpose,—
-    (i) take possession of and remove the document from the place for any reasonable period:
-    (ii) in the case of a document or information stored otherwise than on paper, take any reasonable steps to reproduce, in usable form, any or all of the information in it:
+  (c)
   (d) search for and seize—
     (i) any equipment or device referred to in paragraph (b)(i):
     (ii) an in vitro gamete:
     (iii) an in vitro embryo or an in vitro foetus:
     (iv) a document or record (whether in electronic or other form):
   (e) use any force for gaining entry to the place and for breaking open any article or thing that is in the place, being force that is reasonable in the circumstances and applied in a manner that is calculated to avoid adverse effects on any gametes, embryos, or foetuses:
-  (f) take photographs, and make drawings or other representations, of any item that may be seized under paragraph (d):
-  (g) mark or identify, by any appropriate means, any item that may be seized under paragraph (d):
-  (h) require any person appearing to be in charge of the place concerned (or any part of it) to ensure that any item that may be seized under paragraph (d) is not removed or interfered with:
+  (f)
+  (g)
+  (h)
   (i) require any person appearing to be in charge of the place concerned (or any part of it) to answer any question the authorised person may reasonably ask for the purpose of exercising the powers of the authorised person.
-(2) An authorised person who enters a place under this section must produce evidence of his or her authorisation—
-  (a) on first entering the place:
-  (b) whenever subsequently reasonably required to do so by a person appearing to be in charge of the place or any part of the place.
-(3) An authorised person who enters a place under this section may be accompanied by any number of persons (including any constable) reasonably necessary to assist him or her with the exercise of his or her powers under this section.
-(4) A person who accompanies an authorised person under subsection (3) may, under the direction of the authorised person, exercise each of the powers described in subsection (1)(a) to (g).
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply.
+(3)
+(4)
 (5) This section does not limit the privilege against self-incrimination.
 
 ### 69 Entry of dwellinghouses
 (1) An authorised person may not enter a dwellinghouse under section 68(1)(a), except—
   (a) with the consent of an occupier of the dwellinghouse; or
   (b) with the authority of a search warrant issued under subsection (2).
-(2) A District Court Judge, a Justice, or a court Registrar who is not a constable, may, on a written application made on oath by an authorised person, issue a search warrant in the form set out in Schedule 2 in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house—
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house—
   (a) an offence against this Act has been or is being committed; or
   (b) there is any gamete, any kind of embryo or foetus, or being that is or may be evidence of the commission of an offence against this Act.
 (3) The search warrant authorises the authorised person to whom it is directed to exercise in respect of the dwellinghouse all or any of the powers described in section 68, and the provisions of that section apply to the execution of the warrant.
-(4) The Judge, Justice, or court Registrar may issue the warrant unconditionally or subject to any conditions that he or she thinks fit.
-(5) The authorised person to whom the search warrant is directed may execute it on 1 occasion within 14 days after the date of its issue.
+(4) Subject to section 72, the provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
+(5)
 
 ### 70 Identification of authorised person
-(1) An authorised person exercising powers under section 68 in respect of any place,—
-  (a) if a person appearing to be in charge of the place is present on first entering the place, must identify himself or herself to that person; and
-  (b) if asked by the person appearing to be in charge of the place or any part of the place to do so, must produce evidence of his or her identity and evidence of his or her appointment as an authorised person.
-(2) If the authorised person executes a search warrant issued under section 69, the authorised person must produce the warrant,—
-  (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
-  (b) whenever subsequently required to do so by any person appearing to be in charge of the place or any part of that place.
+[Repealed]
 
 ### 71 Notice requirements when place entered
-(1) If the occupier of the place is not present when an authorised person enters a place under section 68(1)(a), the authorised person must leave in a prominent location at the place a written statement of the time and date of the entry, the name of the person, and the address of the office of the Ministry of Health to which inquiries should be made.
-(2) If anything is seized under section 68(1)(d), the authorised person concerned must leave in a prominent location at the place, or deliver or send to the occupier within 10 working days after the search, a written inventory of all things seized.
+[Repealed]
 
 ### 72 Disposal of property seized
-Section 199 of the Summary Proceedings Act 1957 applies to any property seized by an authorised person under section 68(1)(d), subject to the following provisions:
-  (a) an item seized by an authorised person may be retained by the authorised person or the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized; and
-  (b) any item retained under paragraph (a) that is any kind of gamete, embryo, or foetus must receive the expert treatment that is required to preserve it and to avoid any contravention of section 9; and
-  (c) the item in question must be returned to the person from whom it was seized,—
-    (i) if no proceedings are taken in respect of an offence to which the item relates, within 6 months after its seizure; or
-    (ii) if proceedings are completed in respect of the offence and no order of forfeiture is made in respect of the item; and
+Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under section 68(1)(d), subject to the following provisions:
+  (a)
+  (b)
+  (c)
   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
 
 ### 73 Detection of import and export offences
@@ -1021,3 +1009,39 @@ Implant into a human being a genetically modified gamete, human embryo, or hybri
 Implant into a human being gametes derived from a foetus, or an embryo that has been formed from a gamete or gametes derived from a foetus.
 
 ## Schedule 2 — Form of search warrant
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
