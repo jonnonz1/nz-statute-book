@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2011-09-15_
+_Consolidation as at 2012-10-01_
 
 > Title
 
@@ -2541,55 +2541,27 @@ Where the Commission considers it necessary or desirable for the purposes of car
 
 ### 98A Power to search
 (1) The Commission may, from time to time, authorise an employee of the Commission to search under a warrant issued under subsection (2) any place named in the warrant for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A.
-(2) A District Court Judge, Justice, or Community Magistrate, or a court Registrar (not being a constable) who is satisfied on application made on oath by a person who is authorised under subsection (1) that there are reasonable grounds to believe that it is necessary for the purpose of ascertaining whether or not a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A, for an employee of the Commission to search any place may, by warrant, authorise that employee to search a place specified in the warrant.
-(3) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
-  (a) details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
-  (b) the result of the application.
-(4) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a person who is authorised under subsection (1) that there are reasonable grounds to believe that it is necessary for the purpose of ascertaining whether or not a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A, for an employee of the Commission to search any place may, by warrant, authorise that employee to search a place specified in the warrant.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply, with any necessary modifications.
+(4) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4 of this Act.
 
 ### 98B Powers conferred by warrant
-(1) A warrant issued under section 98A authorises the person named in it—
-  (a) to enter and search the place specified in the warrant on 1 occasion within 30 days of the date of issue of the warrant at a time that is reasonable in the circumstances:
-  (b) to use such assistance as is reasonable in the circumstances:
-  (c) to use such force for gaining entry and for breaking open any article or thing as is reasonable in the circumstances:
-  (d) to search for and remove documents or any article or thing that the person executing the warrant believes on reasonable grounds may be relevant:
-  (e) where necessary, to take copies of documents, or extracts from documents, that the person executing the warrant believes on reasonable grounds may be relevant:
-  (f) where necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce, in usable form, information recorded or stored in a document.
-(2) A person assisting the person executing the warrant also has the powers referred to in paragraphs (c), (d), and (e) of subsection (1).
-(3) The warrant shall be executed in accordance with such reasonable conditions as may be specified in the warrant when it is issued.
+[Repealed]
 
 ### 98C Warrant to be produced
-A person executing a warrant issued under section 98A—
-  (a) must have the warrant with him or her; and
-  (b) must produce it on initial entry and, if requested, at any subsequent time; and
-  (c) must identify himself or herself to the owner or occupier or person in charge of the place if that person is present; and
-  (d) must produce evidence of his or her identity.
+[Repealed]
 
 ### 98D Other duties of person who executes a warrant
-(1) A person who executes a warrant issued under section 98A must, before completing the search, leave in a prominent place at the place searched,—
-  (a) in the case of a search carried out at a time when the owner or occupier was not present, a written notice stating,—
-    (i) the date and time when the warrant was executed; and
-    (ii) the name of the person who executed the warrant; and
-  (b) in the case of a search where a document or article or thing was removed from the place being searched, a schedule of documents or articles or things that were removed during the search.
-(2) If it is not practicable to prepare a schedule before completing the search, or if the owner or occupier of the place being searched consents, the person executing the warrant—
-  (a) may, instead of leaving a schedule, leave a notice stating that documents, or articles, or things have been removed during the search and that, within 7 days of the search, a schedule will be delivered, left, or sent stating what documents, articles, or things have been removed; and
-  (b) must, within 7 days of the search,—
-    (i) deliver a schedule to the owner or occupier; or
-    (ii) leave a schedule in a prominent position at the place searched; or
-    (iii) send a schedule by mail to the owner or occupier of the place searched.
-(3) Every schedule must state—
-  (a) the documents, articles, and things that have been removed; and
-  (b) the location from where they were removed; and
-  (c) the location where they are being held.
+[Repealed]
 
 ### 98E Duty to assist
-The occupier or person in charge of the place that a person authorised pursuant to a warrant issued under section 98A enters for the purpose of searching must provide that person with all reasonable facilities and assistance in executing the warrant.
+[Repealed]
 
 ### 98F Power to inspect and take copies of documents, etc
-The Commission, or any person authorised by the Commission for the purpose, may inspect and take copies of any documents or extracts from them obtained pursuant to a warrant issued under section 98A.
+[Repealed]
 
 ### 98G Commission may exercise powers notwithstanding other proceedings
-The Commission may exercise any power under sections 98 to 98F notwithstanding that any proceedings, whether under Part 6 or otherwise, have been instituted in any court.
+The Commission may exercise any power under sections 98 and 98A notwithstanding that any proceedings, whether under Part 6 or otherwise, have been instituted in any court.
 
 ### 98H Supply of information and documents in relation to section 36A
 (1) Where the Commission considers it necessary or desirable for the purposes of carrying out its functions and exercising its powers under this Act in relation to section 36A, the Commission may by notice in writing served on any person who is ordinarily resident in Australia or who carries on business in Australia, require that person—
@@ -2870,3 +2842,39 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 3 Associate members
 (1) Amendment(s) incorporated in the Act(s).
 (2) For the avoidance of doubt, any appointment made before the commencement of this Act under section 11 of the principal Act is valid and effective whether or not it relates to a matter or class of matters under an Act other than the principal Act.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
