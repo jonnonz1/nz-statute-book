@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -365,36 +365,13 @@ The outcomes mentioned in section 34(2)(b) are as follows:
 **Searches of people in custody**
 
 ### 37 General searches of people in custody
-(1) This section applies to any person who—
-  (a) has been taken into lawful custody; and
-  (b) is—
-    (i) at a Police station; or
-    (ii) in other premises, or in a vehicle, being used for Police purposes; and
-  (c) is to be detained securely (whether pending a decision as to bail under section 21 of the Bail Act 2000, or in any other circumstances).
-(2) A constable, or a searcher used in accordance with section 38, may—
-  (a) conduct a search of a person to whom subsection (1) applies; and
-  (b) take from him or her all money, and all or any property, found on him or her or in his or her possession.
-(3) In acting under subsection (2), a constable or searcher may use or cause to be used any reasonable force necessary to conduct a search or take any money or property.
-(4) Nothing in this section affects the right at common law of a constable to search any person on the person’s arrest.
+[Repealed]
 
 ### 38 Searchers
-(1) The Police employee in charge of the place or vehicle in which a person is detained in custody may use a searcher to carry out a search of the person under section 37 if—
-  (a) the searcher’s use is necessary to enable the search to be carried out—
-    (i) by someone of the same sex as the person; or
-    (ii) within a reasonable time of the person’s being taken into custody; and
-  (b) the Police employee is satisfied that the searcher has received appropriate training.
-(2) The searcher must carry out the search as if he or she were a Police employee.
+[Repealed]
 
 ### 39 Property taken from people in custody
-(1) All money and every item of property taken from a person under section 37 must be returned to him or her when he or she is released from custody, except—
-  (a) any money or property that, in the opinion of a constable, may need to be given in evidence in proceedings arising out of a charge brought against the person:
-  (b) any money or property whose possession by the person may, in the opinion of a constable, constitute an offence.
-(2) Despite subsection (1), where a person to whom section 37(1) applies is released from Police custody, all money and every item of property taken from him or her under section 37 (other than money or property of a kind described in subsection (1)(a) or (b)) must, where practicable, be delivered—
-  (a) to the person into whose custody he or she is released; or
-  (b) if he or she is being released from Police custody in order to be held in custody in a facility, to the person in charge of the facility.
-(3) Subsection (1) is subject to an order of the Court made under—
-  (a) section 40; or
-  (b) section 404 of the Crimes Act 1961.
+[Repealed]
 
 ### 40 District Court Judge may determine title to certain property
 (1) This section applies to property if—
@@ -1054,7 +1031,8 @@ Sections 127 and 128 amend the Summary Offences Act 1981.
 
 ### 1
 A Police employee warranted as a Police jailer and escort has the following powers:
-(a) the powers of a constable under sections 32, 33, 36, and 37 of this Act:
+(a) the powers of a constable under sections 32, 33, and 36 of this Act:
+(ab) the powers of a constable under section 11 of the Search and Surveillance Act 2012:
 (b) the powers of a constable to search a person in the lawful custody of the Police:
 (c) the powers of a constable to transport, or accompany during transport, a person in the lawful custody of the Police to or from any destination.
 
@@ -1077,12 +1055,13 @@ A Police employee warranted as a Police specialist crime investigator has the fo
 (b) the powers of a constable to execute any warrant, order, or other process of any court or of any Judge, Community Magistrate, or Justice:
 (c) the powers of a constable to execute any unexecuted process for the arrest of any person without having the process in his or her possession:
 (d) where authorised by a constable to arrest a person for an offence, the powers of a constable to arrest that person:
-(e) the powers of a constable under sections 32, 33, and 37 of this Act:
+(e) the powers of a constable under sections 32 and 33 of this Act:
+(ea) the powers of a constable under section 11 of the Search and Surveillance Act 2012:
 (f) the powers of a constable to search a person in the lawful custody of the Police:
 (g) the powers of a constable to transport, or accompany during transport, a person in the lawful custody of the Police to or from any destination.
 
 ### 5
-The power in clause 4(b) does not include the power to stop a vehicle under section 314B of the Crimes Act 1961.
+The power in clause 4(b) does not include the power to stop a vehicle under section 121 of the Search and Surveillance Act 2012.
 
 ### 6
 For the purpose of clause 4(d), whatever state of mind is necessary in order for the arrest to be lawfully made, it is sufficient if the constable who authorises the arrest to be made has that state of mind.
@@ -1296,3 +1275,39 @@ This code applies to bargaining for any collective agreement which began before 
 ## Schedule 5 — Consequential amendments to Regulations
 
 ## Schedule 6 — Enactments repealed or revoked
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
