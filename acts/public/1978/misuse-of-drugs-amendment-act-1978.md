@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2012-04-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -8,7 +8,7 @@ This Act may be cited as the Misuse of Drugs Amendment Act 1978, and shall be re
 
 ## Part 1 — Amendments to principal Act
 
-### 2
+### 2 Functions of Minister
 This section inserted s 4A in the principal Act.
 
 ### 3 Maximum penalties for dealing with controlled drugs increased
@@ -16,22 +16,22 @@ This section inserted s 4A in the principal Act.
 (2)
 
 ### 4 Conspiring to commit certain offences
-(1) This subsection inserted subs (2A) in s 6 of the principal Act.
+(1) This subsection inserted subsection (2A) in s 6 of the principal Act.
 (2)
 
-### 5
+### 5 Court to consider possibility of fine in addition to imprisonment
 [Repealed]
 
-### 6
+### 6 Use of premises or vehicle
 This section amended s 12(1) of the principal Act.
 
-### 7
+### 7 Issue of usable quantity
 This section inserted s 29A of the principal Act.
 
-### 8
+### 8 Analyst's certificate to be evidence of weight
 [Repealed]
 
-### 9
+### 9 Protection of Police officers
 This section inserted s 34A of the principal Act.
 
 ## Part 2 — Special provisions relating to detection, enforcement, and sentencing
@@ -79,39 +79,21 @@ This Part of this Act shall apply notwithstanding anything in the Postal Service
 
 ### 12 Allowing delivery of unlawfully imported drugs or precursor substances for purpose of detection, etc
 (1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
-  (a) Allow the craft or vehicle to leave; or
-  (b) Allow the package or goods to be collected by or delivered to or on behalf of the consignee; or
-  (c) Return the goods or mail to the appropriate carrier for delivery to the addressee—
-(2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any goods or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the goods or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
+  (a) allow the craft or vehicle to leave; or
+  (b) allow the package, goods, or mail to be collected by or delivered to or on behalf of the consignee; or
+  (ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
+  (bb) deliver the package, goods, or mail; or
+  (c) return the package, goods, or mail to the appropriate carrier for delivery to the addressee—
+(2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any package, goods, or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the package, goods, or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
 
 ### 12A Searches relating to persons involved in delivery under section 12
-(1) If the circumstances in subsection (2) exist, a member of the police or a Customs officer may, during the course of a delivery in relation to which a Customs officer has exercised his or her powers under section 12,—
-  (a) search any person involved in that delivery; and
-  (b) detain that person for the purpose of carrying out that search.
-(2) The circumstances are that the member of the police or the Customs officer believes on reasonable grounds that the person is in possession of any of the following:
-  (a) a controlled drug:
-  (b) a precursor substance:
-  (c) a package in relation to which the Customs officer has replaced all or a portion of any controlled drug or precursor substance:
-  (d) evidence of the commission of an offence under section 6(1)(a) or section 12AB of the principal Act.
-(3) Reasonable force may be used, if necessary, for either or both of the following purposes:
-  (a) to search a person under subsection (1):
-  (b) to detain a person under subsection (1).
-(4) A member of the police or a Customs officer may, without a search warrant issued under section 198 of the Summary Proceedings Act 1957, enter any building, craft, carriage, vehicle, premises, or place in order to carry out a search under subsection (1).
-(5) A member of the police or a Customs officer who undertakes a search under subsection (1) must, within 3 working days of the search, give a written report of the search, the circumstances in which the search was conducted, and the matters that gave rise to the reasonable grounds to believe required under subsection (2), to—
-  (a) in the case of a member of the police, the Commissioner of Police; and
-  (b) in the case of a Customs officer, the chief executive of the New Zealand Customs Service.
+[Repealed]
 
 ### 12B Seizure of items found during search under section 12A
-(1) A member of the police or a Customs officer may seize any thing found on or about a person when carrying out a search under section 12A(1) that the member of the police or the Customs officer has reasonable cause to suspect is a thing described in any of paragraphs (a) to (d) of section 12A(2).
-(2) Reasonable force may be used, if necessary, to seize the thing.
+[Repealed]
 
 ### 12C Obligations on member of police or Customs officer conducting search under section 12A to identify self and power relied on
-(1) Every member of the police or Customs officer who exercises a power of search under section 12A(1) must—
-  (a) identify himself or herself to any person he or she intends to search; and
-  (b) advise that person that the search is being undertaken under the authority of section 12A(1).
-(2) Every member of the police or Customs officer who enters any building, craft, carriage, vehicle, premises, or place in order to carry out a search under section 12A(1) must—
-  (a) identify himself or herself to any person who questions his or her right to enter; and
-  (b) advise that person that the entry is being undertaken under the authority of section 12A(1).
+[Repealed]
 
 ### 12D International controlled delivery and liability for offences
 (1) In this section, an international controlled delivery means allowing a controlled drug or precursor substance (or substance substituted in the place of a controlled drug or precursor substance) to pass through or into the territory of 1 or more countries—
@@ -476,27 +458,3 @@ This Part of this Act shall be administered in the Ministry of Justice.
 ## Schedule 1 — Interception warrant
 
 ## Schedule 2 — Statement of rights
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 347 Transitional provision relating to sections 14 to 29 of Misuse of Drugs Amendment Act 1978
-(1) Despite the repeal of sections 14 to 29 of the Misuse of Drugs Amendment Act 1978 by this Act,—
-  (a) where an application has been made under any of those sections before 18 April 2012 and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
-  (b) those sections (except for section 18) continue to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
-  (c) section 25 of that Act continues to apply to private communications intercepted before 18 April 2012 as if this Act (other than this section) had not been enacted.
-(2) In this section, continuing warrant or permit means an interception warrant or emergency permit issued under sections 14 to 29 of the Misuse of Drugs Amendment Act 1978—
-  (a) before 18 April 2012; or
-  (b) on or after that date on an application made before that date.
