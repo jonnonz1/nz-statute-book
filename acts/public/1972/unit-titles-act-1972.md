@@ -1,5 +1,5 @@
 # Unit Titles Act 1972
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2012-10-01_
 
 > An Act to facilitate the subdivision of land into units that are to be owned by individual proprietors, and common property that is to be owned by all the unit proprietors as tenants in common, and to provide for the use and management of the units and common property
 
