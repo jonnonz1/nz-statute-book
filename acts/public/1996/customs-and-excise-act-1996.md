@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2012-04-06_
+_Consolidation as at 2012-10-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -2092,6 +2092,8 @@ A Customs officer or other person in charge of any craft employed in the service
   (b) safe access to any part of the craft; and
   (c) safe means of leaving the craft.
 (4) No charge shall be levied against the Customs for the carriage of a Customs officer who is stationed on board a craft or for his or her accommodation and board.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)(d).
+(6) Despite subsection (5), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 140 Searching of craft
 (1) Any Customs officer may search—for the purpose of performing any function or exercising any power that the officer may be required, authorised, or empowered to perform or exercise under this Act.
@@ -2101,10 +2103,12 @@ A Customs officer or other person in charge of any craft employed in the service
   (d) a craft (not being a craft to which paragraph (a) or paragraph (b) or paragraph (c) applies) that is within New Zealand and that a Customs officer has reasonable cause to suspect—
     (i) is carrying any dutiable, uncustomed, prohibited, or forfeited goods; or
     (ii) has been, is being, or is about to be, involved in the commission of an offence against this Act—
-(2) In the exercise of the power conferred by subsection (1), any Customs officer may, using such force as in the circumstances is reasonable, enter every part of the craft and open any package, locker, or other place, and may examine all goods found on the craft.
+(2) In the exercise of the power conferred by subsection (1)(a) to (c), any Customs officer may, using such force as in the circumstances is reasonable, enter every part of the craft and open any package, locker, or other place, and may examine all goods found on the craft.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)(d).
+(4) Despite subsection (3), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 141 Securing goods on craft
-For the purpose of performing any function or exercising any power that the Customs is required, authorised, or empowered to perform or exercise under this Act, a Customs officer may at any time while boarding or searching any craft under section 139 or section 140,—
+For the purpose of performing any function or exercising any power that the Customs is required, authorised, or empowered to perform or exercise under this Act, a Customs officer may at any time while boarding or searching any craft under section 139(1)(a) to (c) or 140(1)(a) to (c),—
   (a) secure, by appropriate means, goods on board that craft; or
   (b) remove goods on board that craft to a secure place.
 
@@ -2141,6 +2145,8 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   (a) may stop the vehicle and search it; and
   (b) may detain the vehicle for such period as may be reasonably necessary for that purpose and for exercising powers under section 151 in relation to any goods of that kind.
 (5) Powers given by any other subsection of this section apply even if the vehicle need not be stopped because it is not moving, and whether or not it is attended, and include the power to use reasonable force, if necessary, to stop, detain, enter in or on, and search the vehicle (or for any of those purposes) as authorised by that other subsection.
+(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) apply in respect of a search undertaken under this section.
+(7) Despite subsection (5), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 145 Questioning persons about goods and debt
 (1) This section applies to—
@@ -2324,7 +2330,7 @@ Sections 149A, 149B(1), and 149BA apply to—
 (2) A preliminary search is a search that—
   (a) involves little or no physical contact between the person conducting the search and the person being searched; and
   (b) is conducted by using an aid or aids such as a Customs dog, or a chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device, or other similar aid, but not by any more invasive means.
-(3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), sections 149B to 149D apply.
+(3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), sections 149B to 149C apply.
 
 ### 149B Searching of persons if reasonable cause to suspect items hidden
 (1) A Customs officer or a constable may cause to be detained and searched a person to whom this subsection applies if the officer or constable has reasonable cause to suspect that the person has hidden on or about his or her person—
@@ -2340,27 +2346,24 @@ Sections 149A, 149B(1), and 149BA apply to—
   (a) is not a person described in subsection (2) or section 149; and
   (b) is in a Customs place; and
   (c) has hidden on or about his or her person any thing described in subsection (1)(a), (b), or (c).
-(4) Reasonable force may be used if it is necessary for either or both of the following purposes:
-  (a) to detain the person:
-  (b) to search the person.
-(5) If a person is detained under subsection (1) or subsection (2) or subsection (3), and there is no suitable searcher available at the place where the search is to take place, the person detained may be taken to another place to be searched.
-(6) Any Customs officer or constable who searches a person under this section may require any person that the officer or constable thinks necessary to assist him or her.
+(4)
+(5)
+(6)
 (7) A search of a person may be conducted under this section whether or not that person has earlier been the subject of a preliminary search under section 149A.
+(8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
+(9) Despite subsection (8), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149BA Searching of persons for dangerous items
-(1) A Customs officer or constable may immediately detain and search a person to whom this section applies if, and only if, the Customs officer or constable has reasonable grounds to believe that—
+(1) A Customs officer or constable may immediately detain and search a person to whom this section applies if, and only if, the Customs officer or constable has reasonable grounds to suspect that—
   (a) the person has a dangerous item hidden or in clear view on or about his or her person; and
   (b) the item poses a threat to the safety of the officer or constable, or any other person; and
   (c) there is a need to act immediately in order to address that threat; and
   (d) a search under section 149A or section 149B(1) would expose the Customs officer or constable, or any other person, to greater risk from the threat.
 (2)
-(3) If necessary, reasonable force may be used for either or both of the following purposes:
-  (a) to detain the person:
-  (b) to search the person.
+(3)
 (4) To avoid doubt, a search may be conducted under this section whether or not the person has earlier been the subject of a search under section 149A or section 149B(1).
-(5) A Customs officer or constable who undertakes a search under this section must, within 3 working days of the search, give a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1) to,—
-  (a) in the case of a Customs officer, the chief executive; and
-  (b) in the case of a constable, the Commissioner of Police.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
+(6) Despite subsection (5), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149C Seizure of items found
 (1) A Customs officer or constable may seize any thing found on or about a person when carrying out a search under section 149B(1), (2), or (3) that the Customs officer or constable has reasonable cause to suspect is—
@@ -2369,18 +2372,11 @@ Sections 149A, 149B(1), and 149BA apply to—
 (1A) A Customs officer or constable may seize any thing found on or about a person when carrying out a search under section 149BA that the Customs officer or constable has reasonable cause to suspect is—
   (a) a dangerous item; or
   (b) a thing described in section 149B(1)(a), (b), or (c).
-(2) Reasonable force may be used if it is necessary to seize the thing.
+(2) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+(3) Despite subsection (2), sections 125(4), 131(5)(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149D Rights of persons detained under section 149B
-(1) A person detained under section 149B(1), (2), or (3) must be informed of his or her right to be taken, before being searched, before an officer nominated for that purpose by the chief executive, or before a Justice of the Peace or Community Magistrate (a reviewer).
-(2) If a person detained under section 149B(1), (2), or (3) asks to be taken before a reviewer, in accordance with subsection (1), the Customs officer, or constable, as the case may be, must immediately take the person before the reviewer.
-(3) The reviewer before whom the person is taken may,—
-  (a) in the case of a person detained under section 149B(1),—
-    (i) if it appears to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be searched; or
-    (ii) if it does not appear to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be released; or
-  (b) in the case of a person detained under section 149B(2) or (3),—
-    (i) if it appears to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be searched; or
-    (ii) if it does not appear to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be released.
+[Repealed]
 
 ### 150 Access of Customs officers to Customs controlled area
 Subject to section 173, the Customs may, at any time of the day or night, enter any part of a Customs controlled area and examine goods in that area, and may, for that purpose, enter any other area that it is necessary to pass through.
@@ -2405,6 +2401,8 @@ Subject to section 173, the Customs may, at any time of the day or night, enter 
   (b) goods that are forfeited to the Crown under section 225.
 (2) The chief executive may require a person who has, or who the chief executive believes has, possession or control of the goods to produce them for inspection by a Customs officer.
 (3) A Customs officer may exercise in respect of the goods all the powers given by section 151.
+(3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
+(3B) Despite subsection (3A), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (4) A Customs officer may take and retain possession of goods produced under subsection (2) for the purposes of exercising the powers given by subsection (3), and may retain possession of the goods until the completion of the investigation into the grounds for suspecting that the goods—
   (a) are goods in respect of which an offence against this Act has been committed; or
   (b) are goods that are forfeited to the Crown under section 225.
@@ -2494,13 +2492,13 @@ Where a document in a foreign language is presented to a Customs officer in rela
 (2) Where the chief executive takes possession of a document or record under subsection (1), the chief executive shall, at the request of the person otherwise entitled to the document or record, provide that person with a copy of the document certified by or on behalf of the chief executive under the seal of the Customs as a true copy.
 (3) Every copy so certified is admissible as evidence in all courts as if it were the original.
 
-### 165 Copying of documents obtained during search
-(1) Where a Customs officer carries out any lawful search, inspection, audit, or examination under this Act, and has reasonable cause to believe that documents coming into his or her possession during such search, inspection, audit, or examination are evidence of the commission of an offence against this Act, he or she may remove the documents for the purpose of making copies.
+### 165 Copying of documents obtained during inspection
+(1) Where a Customs officer carries out any lawful inspection, audit, or examination under this Act, and has reasonable cause to believe that documents coming into his or her possession during such inspection, audit, or examination are evidence of the commission of an offence against this Act, he or she may remove the documents for the purpose of making copies.
 (2) Subject to section 166, the documents must, as soon as practicable after copies of the documents have been taken, be returned to the person otherwise entitled to them.
 (3) A copy of any such document certified by or on behalf of the chief executive under the seal of the Customs is admissible in evidence in all courts as if it were the original.
 
-### 166 Retention of documents and goods obtained during search
-(1) Where a Customs officer carries out any lawful search, inspection, audit, or examination under this Act, and has reasonable cause to believe that any documents or goods coming into his or her possession during such search, inspection, audit, or examination are evidence of the commission of an offence against this Act, or are intended to be used for the purpose of committing any offence against this Act, the officer may, subject to subsection (4), take possession of and retain the documents or goods.
+### 166 Retention of documents and goods obtained during inspection
+(1) Where a Customs officer carries out any lawful inspection, audit, or examination under this Act, and has reasonable cause to believe that any documents or goods coming into his or her possession during such inspection, audit, or examination are evidence of the commission of an offence against this Act, or are intended to be used for the purpose of committing any offence against this Act, the officer may, subject to subsection (4), take possession of and retain the documents or goods.
 (2) Where a Customs officer takes possession of a document under subsection (1), he or she shall, at the request of the person otherwise entitled to the document, provide that person with a copy of the document certified by or on behalf of the chief executive under the seal of the Customs as a true copy.
 (3) Every copy so certified is admissible in evidence in all courts as if it were the original.
 (4) Where a Customs officer takes possession of and retains documents or goods under this section, the following provisions shall apply:
@@ -2581,7 +2579,7 @@ A Customs officer may, without warrant, seize and detain goods if—
   (c) return the goods on demand to the custody of the Customs.
 
 ### 167 Search warrants
-(1) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar (not being a constable) may issue a search warrant in the prescribed form if he or she is satisfied, on an application by a Customs officer in writing made on oath, that there are reasonable grounds to believe that there is, in or on any place or thing,—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds to believe that there is, in or on any place or thing,—
   (a) any thing that there are reasonable grounds to believe may be evidence of—
     (i) the commission of an offence against this Act or regulations made under this Act; or
     (ii) the unlawful exportation or importation of goods; or
@@ -2589,97 +2587,34 @@ A Customs officer may, without warrant, seize and detain goods if—
     (i) committing an offence against this Act or regulations made under this Act; or
     (ii) unlawfully exporting or importing goods; or
   (c) any thing that is liable to seizure under this Act.
-(2) The Customs officer, when applying for a warrant must, having made reasonable enquiries, disclose on the application details of any other applications that the Customs officer knows have been made within the previous 20 working days in respect of the place or thing specified, the offence or offences alleged, and the result of such application or applications.
-(3) Every search warrant shall be—
-  (a) directed to and executed by a designated Customs officer; or
-  (b) directed to Customs officers generally and be executed by a Customs officer or Customs officers.
-(4) Any warrant may be issued subject to such reasonable conditions as the issuer specifies in the warrant.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 125(4), 131(5)(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(4)
 
 ### 168 Entry and search under warrant
-(1) Every search warrant shall authorise the Customs officer executing the warrant—
-  (a) to enter and search the place or thing on 1 occasion within 10 working days of the date of issue of the warrant at any time that is reasonable in the circumstances, but subject to any conditions imposed by the issuer under section 167(4); and
-  (b) to use such assistance as is reasonable in the circumstances; and
-  (c) to use such force for making entry (whether by breaking open doors or otherwise) and for breaking open any thing as is reasonable in the circumstances and for preventing the removal from the premises of any thing as is reasonable in the circumstances.
-(2) Every search warrant authorises the officer executing the warrant to search for and seize any thing referred to in section 167(1) and, while on the premises in accordance with the warrant, to seize either or both of the following:
-  (a) any other thing that the officer finds and has reasonable cause to suspect may be evidence of the commission of an offence in respect of which that officer could have obtained a warrant under section 167(1); or
-  (b) any dangerous item in the circumstances described in section 168A(2).
-(3) Every search warrant authorises the officer executing it—
-  (a) to detain a person who is at the place referred to in the warrant when the officer arrives at that place, or who arrives at that place when the officer is executing the warrant, until the officer is satisfied that the person is not connected with the thing referred to in the warrant; and
-  (b) to search a person who is at the place referred to in the warrant when the officer arrives at that place, or who arrives at that place while the officer is executing the warrant if, at any time while executing the warrant, the officer reasonably believes that the thing referred to in the warrant may be on the person's body.
-(3A) A person who is at the place referred to in the warrant when the officer executing the warrant arrives at that place, or who arrives at that place while the officer is executing the warrant, must remain at that place until the earlier of the following events:
-  (a) the search of that place is completed; or
-  (b) the officer, being satisfied that the person is not connected with the thing referred to in the warrant, permits the person to leave.
-(3B) A person who is being searched under subsection (3)(b) must remain at the place where he or she is being searched until the search is completed.
-(3C) A Customs officer or constable who has reasonable cause to suspect that a person has by failing to comply with subsection (3A) or (3B) committed an offence against section 188A may under section 174(1) or (2) arrest that person without warrant while that cause to suspect continues and before the end of the seventh day after the date on which it arose.
-(3D) No person may be detained under subsection (3)(a) or (b) for a period of time that is unreasonable.
-(4) Reasonable force may be used if it is necessary for either or both of the following purposes:
-  (a) to detain a person under subsection (3)(a):
-  (b) to search a person under subsection (3)(b).
-(5) A person to be searched shall be informed of his or her right to be taken, before being searched, before an officer nominated for that purpose by the chief executive, or before a Justice of the Peace or Community Magistrate.
-(6) Where a person to be searched asks to be taken before a nominated officer or a Justice of the Peace or Community Magistrate in accordance with subsection (5), the Customs officer or constable, as the case may be, must take the person forthwith before a nominated officer, or before a Justice of the Peace or Community Magistrate, as the case may be.
-(7) The nominated officer or Justice of the Peace or Community Magistrate before whom the person is taken may,—
-  (a) if it appears to that nominated officer or Justice of the Peace or Community Magistrate that there is reasonable cause to believe that the thing referred to in the warrant may be on that person's body, direct that the person be searched; or
-  (b) if it does not appear to that nominated officer or Justice of the Peace or Community Magistrate that there is reasonable cause to believe that the thing referred to in the warrant may be on that person's body, direct that the person not be searched.
-(8) Where there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
-(9) A Customs officer or constable may seize any thing found in carrying out the search of the person that the Customs officer or constable has reasonable cause to believe is a thing referred to in the warrant, and reasonable force may be used to seize the thing.
-(10) Every person called upon to assist the officer executing the warrant has, for that purpose, the powers referred to in subsections (1)(c) and (2).
+[Repealed]
 
 ### 168A Searching of persons for dangerous items when executing search warrant
-(1) This section applies to any person who is at the place referred to in the search warrant when the Customs officer arrives at that place, or who arrives at that place when the officer is executing the warrant.
-(2) A Customs officer may immediately detain and search a person to whom this section applies for dangerous items, and may seize such items under section 168(2) if, and only if, the officer has reasonable grounds to believe that—
-  (a) the person has a dangerous item hidden or in clear view on or about his or her person; and
-  (b) the item poses a threat to the safety of the officer or any other person; and
-  (c) there is a need to act immediately in order to address that threat.
-(3) If necessary, reasonable force may be used for any or all of the following purposes:
-  (a) to detain the person:
-  (b) to search the person:
-  (c) to seize any dangerous item found in carrying out a search under subsection (2).
-(4) To avoid doubt, a search may be conducted under this section whether or not the person has earlier been the subject of a search under section 168.
-(5) A Customs officer who undertakes a search under this section must, within 3 working days of the search, give the chief executive a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (2).
+[Repealed]
 
 ### 168B Detention of dangerous items
-(1) A Customs officer may detain goods that he or she seizes in the course of exercising a power of search under section 168 or 168A(2), if he or she believes on reasonable grounds that the goods are dangerous items as defined in section 2(1).
-(2) If a Customs officer detains goods under subsection (1), he or she must—
-  (a) as soon as practicable, deliver those goods into the custody of the Police; or
-  (b) comply with section 170 and retain those goods if the goods may be required for a proceeding under this Act.
-(3) Once goods have been delivered under subsection (2), responsibility for them passes from the Customs to the Police.
-(4) Section 199 of the Summary Proceedings Act 1957 applies with any necessary modifications to goods detained under subsection (1).
+[Repealed]
 
 ### 169 Search warrant to be produced
-(1) Every Customs officer executing a search warrant must produce it for inspection upon initial entry and in response to any reasonable request thereafter and, when requested by or on behalf of the owner or occupier, must provide a copy of the warrant no later than 7 days after the making of the request.
-(2) Subject to subsection (3), if the owner or occupier of the place being searched or the owner of the thing being searched, as the case may be, is not present at the time of the search, the Customs officer executing the warrant must leave in a prominent position at the place being searched or attached to the thing searched, as the case may be, a written notice stating the date and time of the execution of the warrant and the name of the officer in charge of the search.
-(3) Where the officer executing the warrant believes that a notice under subsection (2) would unduly prejudice subsequent investigations, that officer may refrain from leaving such notice and, in that event, must, within 7 days, apply to a Judge for confirmation of his or her decision.
-(4) If the Judge refuses to confirm the decision, the officer who executed the warrant must forthwith notify, or cause to be notified, the owner or occupier of the place searched or the owner of the thing searched, as the case may be, of the particulars referred to in subsection (2).
+[Repealed]
 
 ### 170 Duty to inform owner where thing seized
-(1) Except in any case to which section 169(3) applies and continues to apply following a ruling under section 169(3) or unless a Judge because of exceptional circumstances otherwise orders, the person executing the warrant must, within 7 days after the seizure of any thing, inform the owner or occupier of the place searched or the owner of the thing searched of the fact that any thing has been seized and of the place from where it was seized.
-(2) The person executing the warrant must inform the owner or occupier by—
-  (a) delivering to him or her a written notice containing such information; or
-  (b) leaving such a notice in a prominent position at the place searched or attached to the thing searched, as the case may be; or
-  (c) by sending such a notice to the owner or occupier by registered mail; or
-  (d) in such other manner as a Judge may direct in any particular case.
-(3) A person affected by the execution of a search warrant may apply to a Judge for an order for the disclosure of the application for the warrant, and any documents submitted in support of the application, and the Judge may, if satisfied that the disclosure of the information will not prejudice the prevention, investigation, or detection of offences, or endanger the safety of any person, order the disclosure of the whole or any part of the application and supporting documents.
+[Repealed]
 
 ### 171 Emergency warrants
-(1) In any case where a District Court Judge or Justice or Community Magistrate, or any Registrar (not being a constable) is satisfied, on an application made by a Customs officer, that circumstances exist that would justify the grant of a search warrant under section 167, but the urgency of the situation requires that the search should begin before a warrant under that section could with all practicable diligence be obtained, the District Court Judge or Justice or Community Magistrate, or any Registrar (not being a constable) may, orally or in writing, grant an emergency warrant to the Customs officer making the application to search for and seize the thing that is believed to be in or on a particular place, premises, or thing.
-(2) Any application for an emergency warrant may be made orally, but otherwise every such application shall comply with the requirements of section 167.
-(3) The Customs officer making the application shall, at the time of making the application, make a note in writing of the particulars of the application.
-(4) Where the District Court Judge or Justice or Community Magistrate, or any Registrar (not being a constable) grants the application for an emergency warrant, he or she shall forthwith make a note in writing of the particulars of the application. The note shall be filed in the District Court Registry nearest to where the application is made, and shall, for the purposes of section 167(1), be deemed to be an application under that section. The District Court Judge or Justice or Community Magistrate, or any Registrar (not being a constable) shall also make a note of the terms under which the emergency warrant is issued.
-(5) Every Customs officer executing an emergency warrant must produce the note made in accordance with subsection (3) for inspection upon initial entry and in response to any reasonable request thereafter and, when requested, must provide a copy of the note no later than 7 days after the making of the request.
-(6) The provisions of sections 168, 169(2) to (4) and 170, so far as they are applicable and with the necessary modifications, shall apply to emergency warrants in the same manner as they apply to search warrants.
-(7) Every emergency warrant shall remain valid for 6 hours from the time when the authorisation is given, and shall then expire.
-(8) As soon as practicable after an emergency warrant has expired, the Customs officer who applied for it, or, if that officer is not able to do so, another Customs officer, shall provide a written report, in the prescribed form, to the Judge or Justice or Community Magistrate or Registrar who granted the emergency warrant setting out the manner in which the emergency warrant has been executed and the results obtained by the execution of the warrant.
+[Repealed]
 
 ### 172 Use of aids by Customs officer
-(1) In exercising any power of boarding, entry, or search conferred by this Act, a Customs officer or any constable may have with him or her, and use for the purposes of searching, a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
-(2) Nothing in this section applies to a search carried out on residential premises except pursuant to a warrant issued under section 167 or 171.
+(1) In exercising any power of boarding, entry, or search conferred by this Act (other than a power of search to which Part 4 of the Search and Surveillance Act 2012 applies), a Customs officer or any constable may have with him or her, and use for the purposes of searching, a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
+(2) Nothing in this section applies to a search carried out on residential premises except pursuant to a warrant issued under section 167.
 
 ### 173 Conditions applying to entry of buildings
-Notwithstanding anything in this Act, every provision of this Act that confers on a Customs officer the power to enter any building, whether under the authority of a warrant or otherwise, is subject to the following conditions:
-  (a) reasonable notice of the intention to enter must be given, except where it would frustrate the purpose of the entry:
-  (b) entry must be made at a time that is reasonable in the particular circumstances except where it would frustrate the purpose of the entry:
-  (c) identification must be produced on initial entry and, if requested, at any subsequent time:
-  (d) the authority for the entry and the purpose of the entry must be clearly stated to the owner or occupier of the building if he or she is present.
+[Repealed]
 
 ### 174 Arrest of suspected offenders
 (1) A Customs officer who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against this Act punishable by imprisonment, or an offence against section 209, may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, arrest that person without warrant.
@@ -2725,8 +2660,8 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 (5) Any documents or goods retained or seized under this section must be dealt with in accordance with section 175C.
 (6) Section 175C(2) to (5) apply with all necessary modifications to any documents or goods retained or seized under this section.
 
-### 175C Seizure and detention of goods suspected to be certain risk goods or evidence of commission of certain offences
-(1) A Customs officer may seize and detain goods or documents that are presented or located in the course of exercising any power of inspection, search, or examination under this Act, if he or she has cause to suspect on reasonable grounds that the goods—
+### 175C Seizure and detention of goods or documents suspected to be certain risk goods or evidence of commission of certain offences
+(1) A Customs officer may seize and detain goods or documents that are presented or located in the course of exercising any power of inspection, search, or examination under this Act, if he or she has cause to suspect on reasonable grounds that the goods or documents—
   (a) are risk goods (within the meaning of the Biosecurity Act 1993) for which no biosecurity clearance has been given under that Act; or
   (b) are evidence of the commission of 1 or more offences under 1 or more of the following enactments:
     (i) section 130 of the Animal Products Act 1999:
@@ -2735,12 +2670,27 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
     (iv) section 342(1)(c) or 345(1) of the Immigration Act 2009:
     (v) section 37 or 43 of the Medicines Act 1981:
     (vi) section 29A, 30, or 31 of the Passports Act 1992.
-(2) A Customs officer who detains goods under subsection (1) must, as soon as practicable, deliver those goods into the custody of the appropriate person specified in subsection (4).
-(3) Once goods have been delivered to a person under subsection (2), responsibility for those goods passes to that person.
+(2) A Customs officer who detains goods or documents under subsection (1) must, as soon as practicable, deliver those goods or documents into the custody of the appropriate person specified in subsection (4).
+(3) Once goods or documents have been delivered to a person under subsection (2), responsibility for those goods or documents passes to that person.
 (4) The appropriate person referred to in subsection (2) is—
-  (a) if the Customs officer believes that subsection (1)(b)(ii), (iv), or (vi) applies to the goods, a constable; and
-  (b) if the Customs officer believes that another provision of subsection (1) applies to the goods, an appropriately authorised officer who holds office under the Act specified in that provision or is employed by the department of State that administers the Act.
-(5) Section 199 of the Summary Proceedings Act 1957 applies with any necessary modifications to goods detained under subsection (1).
+  (a) if the Customs officer believes that subsection (1)(b)(ii), (iv), or (vi) applies to the goods or documents, a constable; and
+  (b) if the Customs officer believes that another provision of subsection (1) applies to the goods or documents, an appropriately authorised officer who holds office under the Act specified in that provision or is employed by the department of State that administers the Act.
+(5) Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) applies with any necessary modifications.
+
+### 175D Seizure and detention of certain drugs and objectionable publications
+(1) A Customs officer may seize and detain goods or documents that are presented or located in the course of exercising any power of inspection, search, or examination under this Act, if he or she has cause to suspect on reasonable grounds that the goods or documents are evidence of the commission of 1 or more offences under 1 or more of the following enactments:
+  (a) section 6, 7, 12A, 13, or 22 of the Misuse of Drugs Act 1975:
+  (b) section 123, 124, 131, or 131A of the Films, Videos, and Publications Classification Act 1993.
+(2) A Customs officer who detains goods or documents under subsection (1) may, if the appropriate person specified in subsection (3) agrees, do any of the following:
+  (a) deliver the goods or documents into the custody of that person:
+  (b) retain the goods or documents pending further investigation:
+  (c) treat the goods or documents as forfeited within the meaning of this Act.
+(3) The appropriate person referred to in subsection (2) is,—
+  (a) if the Customs officer believes that subsection (1)(a) applies, a constable; or
+  (b) if the Customs officer believes that subsection (1)(b) applies, an Inspector of Publications within the meaning of the Films, Videos, and Publications Classification Act 1993.
+(4) Once goods or documents have been delivered to a person under subsection (2)(a), responsibility for those goods or documents passes to that person.
+(5) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+(6) Despite subsection (5), sections 125(4), 131(5)(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
 
 ## Part 13 — Offences and penalties
 
@@ -4244,7 +4194,7 @@ Without limiting any other obligation imposed on the chief executive to give not
   (xa) prescribing, for the purposes of section 135(1)(d), 1 or more other grounds on which a registered user may be considered unfit to continue to be a registered user:
   (y) prescribing the period for which records of transmissions to or from a Customs computerised entry processing system shall be kept by the Customs:
   (z) prescribing the documents that a Customs officer may require and the form of declaration to be completed under section 147(2):
-  (aa) prescribing the form and content of the written report required by section 171(8):
+  (aa)
   (bb) prescribing the procedure to be followed in the making of applications to Customs Appeal Authorities and in the conduct of appeals by Customs Appeal Authorities:
   (cc) making any provision which may be necessary or desirable to enable Customs Appeal Authorities to publish their decisions:
   (dd) prescribing the manner by which the chief executive may exercise any power to sell goods under this Act, and the manner (including the order of priority) in which the proceeds of sale shall be dispersed:
@@ -4473,7 +4423,7 @@ Not later than 40 working days after the commencement of this Act the owner or o
 (5) Where, at the expiry of the period specified in subsection (3) of this section, no application has been made in accordance with that subsection, that area shall cease to be an area in respect of which the chief executive has given a direction under section 12(4).
 
 ### 305A Transitional provisions relating to investigations of offences under Customs Act 1966
-(1) A person who may exercise a power under any of sections 146, 152, 160, 161, 165, 166, 167, and 171 for the purpose of investigating offences suspected of having been committed against this Act may also exercise that power in accordance with this Act for the purpose of investigating offences suspected of having been committed against the Customs Act 1966.
+(1) A person who may exercise a power under any of sections 146, 152, 160, 161, 165, 166, and 167 for the purpose of investigating offences suspected of having been committed against this Act may also exercise that power in accordance with this Act for the purpose of investigating offences suspected of having been committed against the Customs Act 1966.
 (2) For the purposes of subsection (1), a reference to this Act—is taken to include a reference to the Customs Act 1966.
   (a) in relation to any offence in sections 152(1), 165(1), 166(1), and 167(1):
   (b) in relation to goods in section 160(1):
@@ -4761,3 +4711,39 @@ Until the close of 30 June 2009, section 68A(2)(d) of the principal Act, as inse
 
 ### 24 Transitional provision relating to appeals against seizure
 Sections 231 to 235 of the principal Act, as in force before the commencement of section 16 of this Act, continue to apply in respect of goods seized, under section 226 of the principal Act, before the commencement of section 16 of this Act.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
