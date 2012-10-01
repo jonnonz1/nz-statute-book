@@ -1,5 +1,5 @@
 # Telecommunications (Residual Provisions) Act 1987
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-10-01_
 
 > Title
 
