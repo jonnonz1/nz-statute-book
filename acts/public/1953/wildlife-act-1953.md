@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -64,11 +64,11 @@ _Consolidation as at 2012-09-18_
       (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of section 2 of the Wildlife Amendment Act 1996:
       (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said section 2; but
     (b) does not include a licence referred to in paragraph (b)(ii) of the definition of the term licence;—
-  - **licence** —
+  - **licence** —and has a corresponding meaning
     (a) means—
       (i) a profit à prendre or any other grant that gives a non-exclusive interest in land; or
       (ii) a grant that makes provision for any activity on the land that the licensee is permitted to carry out; and
-    (b) includes—and licensee has a corresponding meaning
+    (b) includes—
       (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to wildlife that was passed before the commencement of section 2 of the Wildlife Amendment Act 1996; and
       (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said section 2 or issued under any other enactment relating to wildlife that was passed before that date; and
       (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said section 2;—
@@ -136,7 +136,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
 
 ### 7 Certain wildlife not protected
 (1) The wildlife for the time being specified in Schedule 4 is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides:
-  provided that, where the Minister considers that hunting by other persons is likely to interfere with studies and investigations of or campaigns against the wildlife specified in that Schedule carried out by the Department, he may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in that Schedule may not be hunted or killed or had in possession in such area and during such period as are specified in the notification.
+  provided that, where the Minister considers that hunting by other persons is likely to interfere with studies and investigations of or campaigns against the wildlife specified in that schedule carried out by the Department, he may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in that schedule may not be hunted or killed or had in possession in such area and during such period as are specified in the notification.
 (2) Every person who in any area and during any period specified in any notification under subsection (1) hunts, kills, or has in his or her possession any wildlife to which the notification refers, commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
 (3) The wildlife for the time being specified in Schedule 5 is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides.
 
@@ -181,7 +181,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
     (a) no Proclamation issued under this subsection shall affect any land of the Crown unless it is issued on the joint recommendation of the Minister of Conservation and the Minister charged with the administration of the department of State having the control of the land:
     (aa) no Proclamation issued under this subsection shall affect any waters of the sea or of any harbour within the meaning of the Harbours Act 1950 unless it is issued on the joint recommendation of the Minister of Conservation and the Minister of Transport:
     (b) a conservation area within the meaning of the Conservation Act 1987 and any foreshore adjacent to any such area and required for a wildlife sanctuary shall be reserved as such pursuant to section 18 of that Act, and thereupon shall be subject to the provisions of this Act relating to sanctuaries, but otherwise shall be subject to that Act:
-    (c) land held for a public work other than a wildlife sanctuary that is required for a sanctuary may be declared to be a wildlife sanctuary only pursuant to section 37 of the Public Works Amendment Act 1948:
+    (c) land held for a public work other than a wildlife sanctuary that is required for a sanctuary may be declared to be a wildlife sanctuary only pursuant to section 37 of the Public Works Amendment Act 1948.
     (d)
 (2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Governor-General may from time to time, by Proclamation, impose conditions with respect to any wildlife sanctuary in relation to all or any of the following matters:
   (a) the prohibition or restriction of any right of entry to the sanctuary, including the exclusion from the sanctuary or from any specified portion thereof of any persons or classes of persons, and the prohibition or restriction of access by means of any or all animals or vehicles or aircraft:
@@ -212,7 +212,7 @@ Subject to any provision to the contrary in any Proclamation under section 9, an
 (2) The destruction of any animal or bird pursuant to an authority granted under subsection (1) shall not confer any right to compensation on any person.
 (3) In subsection (1) the expression animal or bird includes any animal or bird of any kind, whether wildlife or not and whether or not a domestic animal or domestic bird and whether protected or not; but does not include a domestic animal or domestic bird belonging to the occupier of any land included in the sanctuary or any animal of any of the species referred to in subsections (4) and (5).
 (4) All unbranded cattle, sheep, horses, mules, asses, pigs, or goats found in any wildlife sanctuary (not being animals belonging to the occupier of any land included in the sanctuary) may be seized by a ranger, and shall thereupon be deemed to be forfeited to the Crown, and any ranger may cause any such animals to be destroyed, sold, or otherwise disposed of if so authorised by the Director-General.
-(5) All branded cattle, sheep, horses, mules, asses, pigs, or goats found in any wildlife sanctuary (not being animals belonging to the occupier of any land included in the sanctuary) may be seized by a ranger authorised in writing by the Director-General to do so, either generally or in any specified case, and, on conviction of any person for causing or allowing the said animals to be in the sanctuary in breach of the provisions of this Act, may be adjudged by the Court to be forfeited to the Crown.
+(5) All branded cattle, sheep, horses, mules, asses, pigs, or goats found in any wildlife sanctuary (not being animals belonging to the occupier of any land included in the sanctuary) may be seized by a ranger authorised in writing by the Director-General to do so, either generally or in any specified case, and, on conviction of any person for causing or allowing the said animals to be in the sanctuary in breach of the provisions of this Act, may be adjudged by the court to be forfeited to the Crown.
 
 ### 12 Mining privileges, coal mining rights, and public works
 [Repealed]
@@ -242,7 +242,7 @@ Any officer of the Department, or any officer of any other department in which f
   (c) to discharge firearms or explosives on the land:
   (d) to destroy any animals specified in Schedule 2 or Schedule 5 or Schedule 6 or any rabbits or hares on the land:
   (e) to do any other acts necessary for the carrying on of the normal use of the land, subject to such conditions as may be prescribed in the Proclamation.
-(2A) Any officer of the Department of Conservation appointed as a ranger under subsection (1) of section 38 or any ranger appointed under paragraph (c) of subsection (2) of that section or any other person authorised in writing in that behalf by the Director-General, either generally or in any particular case, may bring firearms or explosives on to any wildlife refuge for the purpose of destroying any animal specified in Schedule 2 or Schedule 5 or Schedule 6 or any rabbit or hare, where that animal or rabbit or hare is a nuisance or is causing damage to that wildlife refuge or to any wildlife in that wildlife refuge:
+(2A) Any officer of the Department of Conservation appointed as a ranger under subsection (1) of section 38 or any ranger appointed under paragraph (c) of subsection (2) of that section or any other person authorised in writing in that behalf by the Director-General, either generally or in any particular case, may bring firearms or explosives on to any wildlife refuge for the purpose of destroying any animal specified in Schedule 2 or Schedule 5 or Schedule 6 or any rabbit or hare, where that animal or rabbit or hare is a nuisance or is causing damage to that wildlife refuge or to any wildlife in that wildlife refuge.
 (3) While any Proclamation or notice under subsection (1) remains in force, it shall not be lawful for any person, except as provided in subsection (2) or subsection (2A) or in subsection (2) of section 5 or pursuant to an authority granted under section 53 or section 54, to hunt or kill for any purpose, or molest, capture, disturb, harry, or worry any wildlife in the wildlife refuge, or to take, destroy, or disturb the nests, eggs, or spawn of any such wildlife, or for any person to bring onto the wildlife refuge or have in his possession or discharge in the wildlife refuge any firearm or explosive, or have in his possession or control in the wildlife refuge any dog or cat, or to do anything likely to cause any wildlife to leave the wildlife refuge.
 (3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
 (4) Notwithstanding anything in this Act or in any regulations under this Act, the performance in any wildlife refuge by any person of any act authorised by the Minister under subsection (2) shall not be deemed a breach of this Act.
@@ -286,7 +286,7 @@ Subject to this Act, the Department shall manage all wildlife sanctuaries, wildl
 
 ### 14D Conservation management strategies
 (1) Every conservation management strategy shall establish objectives for the management of wildlife, including any species and any wildlife sanctuary, wildlife refuge, and wildlife management reserve in the area to which it relates.
-(2) No work (other than necessary work associated with the day to day administration and management of the wildlife sanctuary, wildlife refuge, or wildlife management reserve) shall be undertaken on any wildlife sanctuary, wildlife refuge, or wildlife management reserve before a conservation management strategy or conservation management plan for that area is approved.
+(2) No work (other than necessary work associated with the day-to-day administration and management of the wildlife sanctuary, wildlife refuge, or wildlife management reserve) shall be undertaken on any wildlife sanctuary, wildlife refuge, or wildlife management reserve before a conservation management strategy or conservation management plan for that area is approved.
 
 ### 14E Conservation management plans
 (1) The purpose of a conservation management plan under this section is to establish objectives for the management of any wildlife sanctuary, wildlife refuge, or wildlife management reserve, or any combination of them.
@@ -410,11 +410,12 @@ In determining the maximum allowable level of fishing-related mortality for thre
   (d) use any apparatus for the purpose of silencing the report of a shotgun being used for the purpose of hunting or killing game:
   (e) in hunting or killing any game from any stand, hide, shelter, maimai, mudhole, boat, louvre, or other contrivance, use more than 1 shotgun:
     provided that any person so engaged may have 1, and not more than 1, further shotgun in a condition not immediately suitable for use and held for use only in the event of the first shotgun becoming damaged or otherwise unfit for use:
-  (f) for the purpose of hunting or killing any game use—provided that nothing in this subparagraph shall be deemed to prevent any person from using any aircraft or vehicle for the purpose of travelling generally or to any place where he intends to hunt or kill game or of returning from any such place; or
+  (f) for the purpose of hunting or killing any game use—
     (i) any live decoy; or
     (ii)
     (iii) any cylinder or mudhole or similar device in any lake, lagoon, pond, river, estuary, or other open water, whether natural or artificially constructed, unless the sides of the cylinder or mudhole or device project not less than 60 centimetres above the surface of the water; or
     (iv) any aircraft, motor vehicle, or other vehicle propelled by mechanical power:
+      provided that nothing in this subparagraph shall be deemed to prevent any person from using any aircraft or vehicle for the purpose of travelling generally or to any place where he intends to hunt or kill game or of returning from any such place; or
     (v) on any lake, lagoon, pond, river, estuary, or other water (whether natural or artificially constructed), any vessel (other than a row boat) in driving, chasing, unduly disturbing, putting to flight, or stalking any game, whether by himself or by any other person:
       provided that nothing in this subparagraph shall be deemed to prevent any person from using any vessel for camping purposes or for the purpose of travelling generally or to any place where he intends to kill or hunt game or of returning from any such place, or, subject to the foregoing provisions of this subparagraph and to the provisions of subparagraph (vi), to prohibit shooting from a moored vessel or to prohibit the use of any vessel for the purpose of retrieving game that has been killed or wounded; or
     (vi) any unmoored floating stand, hide, shelter, maimai, or louvre, or any unmoored boat artificially dressed or covered in any way:
@@ -458,7 +459,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (2) In subsection (1), the term occupier includes:
   (a) in the case of any reserve within the meaning of the Reserves Act 1977, the Director-General or, as the case may require, the administering body:
   (b) in the case of any land actually and exclusively used by any Fish and Game Council for the purposes of this Act, that Fish and Game Council:
-  (c) in the case of any wildlife sanctuary, wildlife refuge, or wildlife management reserve, the Minister or Director-General, or, where authorised by the Director-General, the person or body having day to day control of the wildlife sanctuary, wildlife refuge, or wildlife management reserve:
+  (c) in the case of any wildlife sanctuary, wildlife refuge, or wildlife management reserve, the Minister or Director-General, or, where authorised by the Director-General, the person or body having day-to-day control of the wildlife sanctuary, wildlife refuge, or wildlife management reserve:
   (d) in any other case, the occupier.
 
 ### 22 Shooting of game not in flight prohibited
@@ -502,7 +503,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 ### 28 Disqualification of officers of societies
 [Repealed]
 
-### 29 Rules of societies
+### 29 Rules of acclimatisation societies
 [Repealed]
 
 ### 30 Functions of societies
@@ -517,7 +518,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
 ### 33 Expenditure by societies
 [Repealed]
 
-### 34 Annual reports and balance sheets of societies to be forwarded to the Minister
+### 34 Annual reports and balance sheets of societies to be forwarded to Minister
 [Repealed]
 
 ### 35 Failure of society to act
@@ -563,11 +564,13 @@ Every fish and game ranger shall, by virtue of his or her office, be deemed to b
   (c) seize any bag, container, or other article (including any coat or other similar article of clothing) that is being used for the purpose of carrying any animal or any part of any animal or any egg or nest thereof illegally taken or had in possession or that he reasonably believes is being so used:
   (d) stop any vehicle, or any riding or pack animal, or any boat, launch, or other vessel, or any aircraft while on the ground or on the water, or any other device for carriage or transportation, or stop in transit any parcel, package, case, bag, luggage, or other container that is or that he reasonably believes to be in the possession of the owner or of any other person (including any carrier or forwarding agent, whether by land, sea, or air), if he has reason to believe or suspect that any breach of this Act or of any regulations under this Act has been committed by the owner or by the person in possession thereof or by any other person, and, in the presence of the owner or other person as aforesaid or of any servant of any of them, search any such vehicle, riding or pack animal, boat, launch, or other vessel, or aircraft, or other device for carriage or transportation, and in such presence as aforesaid open and search any such parcel, package, case, bag, luggage, or other container:
   (e) while in lawful execution of his duty, call upon any male person, not being under the age of 18 years, to aid or assist him when reasonable necessity exists for calling that assistance, and every person aiding or assisting any ranger pursuant to any such call shall while doing so be deemed to be and shall have all the powers of a ranger duly appointed under this Act:
-  (f) at all times, without let or hindrance,—provided that any Justice or Community Magistrate who is satisfied on oath that there is probable cause to suspect that any breach of this Act or of any regulations under this Act has been or is being committed, or that preparation has been made to commit such a breach, within any of the hereinbefore excepted premises, may, by warrant under his hand, empower a ranger to enter those premises for the purpose of detecting that offence at such time or times in the day or night as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof.
+  (f) at all times, without let or hindrance—
     (i) by any means whatever, enter upon, pass through, or remain on any land (other than a dwellinghouse or the enclosed garden or curtilage of any dwellinghouse) or any hut, tent, caravan, bach, or other erection (not being a permanent residence), or any shop, warehouse, factory, bond store, office, or any other premises of any description, or into or upon any lake, river, pond, lagoon, or other water (whether natural or artificially constructed):
     (ii) enter any vehicle, boat, launch, other vessel, or aircraft that is being used or is intended to be used or has been used in breach of this Act or that he reasonably believes is being or is intended to be or has been so used:
     (iii) search any land or any hut, tent, caravan, bach, or other erection (not being a permanent residence), or any shop, warehouse, factory, bond store, office, or other premises of any description, or any vehicle, boat, launch, other vessel, or aircraft referred to in subparagraph (ii), or any riding or pack animal, or other device for transportation or carriage found on the said land or on any such premises or on any such lake, river, pond, lagoon, or other water:
+  provided that any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds that any breach of this Act or of any regulations under this Act has been or is being committed, or that preparation has been made to commit such a breach, within any of the hereinbefore excepted premises, may, by warrant under his hand, empower a ranger to enter those premises for the purpose of detecting that offence.
 (2) The production by a ranger of his warrant of appointment shall be sufficient evidence of that appointment.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 40 Obstructing rangers
 (1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67D who wilfully resists, impedes, or obstructs, or incites or encourages any other person to resist, impede, or obstruct, any ranger, or any person acting by his order and in his aid, in the execution of the powers conferred on that ranger by this Act, or by a warrant under this Act, or who wilfully uses abusive or threatening language or behaves in a threatening manner to any such ranger or person in the execution of those powers, or who wilfully fails to comply with the lawful demands of a ranger. For the purpose of this subsection any person who wilfully refuses to allow any ranger or other person acting by his order and in his aid to exercise any of the powers conferred by the last preceding section shall be deemed to obstruct that ranger or person.
@@ -607,7 +610,7 @@ Subject to the Tenancy Act 1955, the Minister may grant tenancies or occupancies
 
 ### 44 Delegation of Minister's powers
 (1) The Minister may from time to time delegate in writing to the Director-General or to any other officer of the Department any of his powers under this Act, including the power of delegation conferred by this section.
-(1A) The Minister may from time to time delegate in writing to any body or person such powers as he may have under or pursuant to this or any other Act relating to the day to day control and management of any wildlife sanctuary, or wildlife refuge, or wildlife management reserve.
+(1A) The Minister may from time to time delegate in writing to any body or person such powers as he may have under or pursuant to this or any other Act relating to the day-to-day control and management of any wildlife sanctuary, or wildlife refuge, or wildlife management reserve.
 (2) Subject to any general or special directions given or conditions attached by the Minister, the person to whom any powers are delegated under this section may exercise those powers in the same manner and with the same effect as if they had been conferred on him directly by this section and not by delegation.
 (3) Every person purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (4) Any delegation under this section may be made to a specified person or to persons of a specified class or may be made to the holder or holders for the time being of a specified office or of specified classes of offices.
@@ -768,7 +771,7 @@ No member of the Board shall be personally liable for any default made by the Bo
 (1) No person shall, without the prior written authority of the Director-General, granted subject to any regulations in that behalf under this Act,—
   (a) capture or attempt to capture or have in his possession for the purpose of liberating or turning at large any wildlife; or
   (ab) liberate or turn at large, or allow to go at large any wildlife; or
-  (b) export from New Zealand any bat or any bird (not being a domestic bird) or any reptile or any amphibian or any terrestrial or freshwater invertebrate specified in Schedule 7 or any skin, feathers, egg, flesh, or other part of any such species; or
+  (b) export from New Zealand any bat or any bird (not being a domestic bird) or any reptile or any amphibian or any terrestrial or freshwater invertebrate specified in Schedule 7 or any skin, feathers, egg, flesh, or other part of any such species.
   (c)
 (1A) The Director-General in his discretion may refuse to grant his authority to do any act referred to in subsection (1), or may grant his authority either unconditionally or subject to such conditions as he thinks fit to impose.
 (2) The Director-General may at any time revoke or vary any authority granted under subsection (1).
@@ -780,7 +783,7 @@ No member of the Board shall be personally liable for any default made by the Bo
   (c) in any other case, is liable on conviction to the penalty set out in section 67F(3).
 
 ### 56A Application of Customs and Excise Act 1996
-Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Excise Act 1996 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
+Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 1996 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
 
 ### 57 Ownership of animals
 (1)
@@ -912,7 +915,7 @@ Every person who, without lawful authority, breaches or fails to comply with any
   (e)
   (f)
   (fa) commits an offence against section 63A (which relates to the taking of absolutely or partially protected marine wildlife) shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $250,000 and to a further fine not exceeding $10,000 for every item of marine wildlife (other than coral) in respect of which the offence was committed:
-  (fb) commits an offence against section 63B (which relates to the reporting of accidental or incidental death of absolutely or partially protected wildlife) shall be liable to a fine not exceeding $10,000:
+  (fb) commits an offence against section 63B (which relates to the reporting of accidental or incidental death of absolutely or partially protected wildlife) shall be liable to a fine not exceeding $10,000.
   (g)
 (2)
 
@@ -1022,7 +1025,7 @@ A court may sentence any person who commits an offence against this Act to a sen
 (1) Every offence against this Act or against any regulations under this Act shall be punishable on summary conviction before a District Court Judge alone.
 (2) Any officer or servant of the Department, although not the informant, and any fish and game ranger, may appear and conduct the prosecution in all proceedings for offences against this Act.
 (3) The court by which any person is convicted of any such offence may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and that part of the fine shall be paid to that person by the Registrar of the court in which the conviction is recorded.
-(4) Any direction of the Court under subsection (3) shall not be entered in the conviction, but shall form the subject-matter of a separate order.
+(4) Any direction of the court under subsection (3) shall not be entered in the conviction, but shall form the subject matter of a separate order.
 
 ### 68A Proceedings in respect of offences
 Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
@@ -1043,7 +1046,7 @@ Notwithstanding anything to the contrary in section 14 of the Summary Proceeding
   (d) section 59(5A) (which relates to interfering with vehicles, animals, equipment, or supplies brought onto land):
   (e) section 59(6) (which relates to obstructing the Director-General or an authorised officer in the exercise of powers):
   (f) section 65(2) (which relates to receiving wildlife):
-  (g) 6section 6(2) (which relates to failing to give a name and address, or giving a false name and address).
+  (g) section 66(2) (which relates to failing to give a name and address, or giving a false name and address).
 (6) Sections 63A and 63B continue to apply as if this section had not been enacted.
 
 ### 68B Defences to offences in respect of marine wildlife
@@ -1061,8 +1064,8 @@ Notwithstanding anything to the contrary in section 14 of the Summary Proceeding
 ### 70 Forfeitures
 (1) Any animal or any part of any animal or any egg or nest of any animal that has been unlawfully caught or killed or taken or unlawfully had in possession is hereby declared to be forfeited to Her Majesty.
 (2) It shall be the duty of every ranger or constable or other authorised person who has seized or otherwise obtained possession of any such animal or part of any animal or egg or nest of any such animal to forward immediate notification thereof to the Director-General (or, in the case of any such animal or part of any animal or egg or nest seized by a fish and game ranger, to the Director), who, on the conviction of any person for unlawfully catching, hunting, killing, or taking the same or having the same in his possession, or, if no such person can be traced within 6 months after the seizure or taking possession, shall, in order to give effect to the forfeiture as aforesaid, give such orders as he thinks fit for the disposal of the thing seized, and those orders shall immediately on receipt thereof be carried out by the person to whom they are given.
-(3) In the case of all other property lawfully seized or taken into possession under this Act, the property shall be retained by the Director-General or the Director, as the case may be, pending the trial of any person for the offence in respect of which the property was seized or taken into possession. If no such person can be traced within 6 months after the seizure or taking into possession, the property shall be deemed to be forfeited to the Crown, and shall be disposed of as the Director-General or the Director, as the case may be, directs. Where proceedings are taken against any person in respect of the offence, the property seized or taken into possession shall, when the proceedings are completed, be returned to the person last in possession of the property, unless the Court, where it enters a conviction, directs that the property or any part of it be forfeited to the Crown, in which case the property or part thereof, as the case may be, shall be deemed to be forfeited to the Crown accordingly, and shall be disposed of as the Director-General or the Director, as the case may be, directs.
-(4) Notwithstanding anything in the Public Finance Act 1977, the power conferred on the Director-General or the Director by subsection (3) to direct the disposal of any property forfeited to the Crown under that subsection shall, in any case where the prosecution was commenced on the information of an officer of a Fish and Game Council, include power to dispose of the property to that Council, without consideration, for the purposes of sale; and the property shall be sold by the Council and the proceeds of the sale shall be paid into its funds and applied for the purposes of the Council.
+(3) In the case of all other property lawfully seized or taken into possession under this Act, the property shall be retained by the Director-General or the Director, as the case may be, pending the trial of any person for the offence in respect of which the property was seized or taken into possession. If no such person can be traced within 6 months after the seizure or taking into possession, the property shall be deemed to be forfeited to the Crown, and shall be disposed of as the Director-General or the Director, as the case may be, directs. Where proceedings are taken against any person in respect of the offence, the property seized or taken into possession shall, when the proceedings are completed, be returned to the person last in possession of the property, unless the court, where it enters a conviction, directs that the property or any part of it be forfeited to the Crown, in which case the property or part thereof, as the case may be, shall be deemed to be forfeited to the Crown accordingly, and shall be disposed of as the Director-General or the Director, as the case may be, directs.
+(4) Notwithstanding anything in the Public Finance Act 1977, the power conferred on the Director-General or the Director by subsection (3) to direct the disposal of any property forfeited to the Crown under that subsection shall, in any case where the prosecution was commenced on the information of an officer of a Fish and Game Council, include power to dispose of the property to that Council, without consideration, for the purposes of sale; and the property shall be sold by the Council and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council.
 
 **Miscellaneous**
 
@@ -1083,9 +1086,9 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
   (c) providing for the revocation of licences to hunt or kill game, and licences to operate as game hunting guides, and for the refusal of the issue of licences in certain cases:
   (d) providing for the control of wildlife refuges and closed game areas under this Act, for the protection and wellbeing of any wildlife in wildlife refuges and closed game areas, and, in particular, for the control of access to wildlife refuges and closed game areas and for the prohibition or restriction of the use in wildlife refuges and closed game areas of vehicles or vessels or boats of any description, whether propelled by mechanical power or not, or of aircraft:
   (e) providing for the issue and regulating the use of marks of identification to be affixed to any preserved specimens of wildlife or any part thereof taken pursuant to a licence or other authority under this Act and retained for any purpose:
-  (f) regulating, restricting, or imposing conditions on the freezing or canning or otherwise preserving of any game and the keeping in any freezing chamber or cool store or the possession thereof when frozen, canned, or otherwise preserved; and providing for the inspection of any freezing chamber, refrigerating works, canneries, or public or privately owned canning plants, and any premises (not being a dwelling-house) where any game is frozen, canned or otherwise preserved, treated, dressed, or stored:
-  (g) regulating or prohibiting the sale of wildlife (other than game) or the eggs of any such wildlife, and prescribing the purposes for which money arising from any such sale may be used:
-  (h) providing for the licensing of taxidermists, which thereby authorises them to possess absolutely protected wildlife and prescribing books, registers, or forms to be kept, the particulars to be entered therein, and returns to be furnished by licensed taxidermists:
+  (f) regulating, restricting, or imposing conditions on the freezing or canning or otherwise preserving of any game and the keeping in any freezing chamber or cool store or the possession thereof when frozen, canned, or otherwise preserved; and providing for the inspection of any freezing chamber, refrigerating works, canneries, or public or privately owned canning plants, and any premises (not being a dwellinghouse) where any game is frozen, canned or otherwise preserved, treated, dressed, or stored:
+  (g) regulating or prohibiting the sale of wildlife (other than game) or the eggs of any such wildlife, and prescribing the purposes for which moneys arising from any such sale may be used:
+  (h) providing for the licensing of taxidermists which thereby authorises them to possess absolutely protected wildlife, and prescribing books, registers, or forms to be kept, the particulars to be entered therein, and returns to be furnished by licensed taxidermists:
   (i) providing for the inspection of shops and other premises of bird dealers, and the inspection of any aviaries, pens, runs, cages, or other premises where animals are held or are being transported within New Zealand:
   (j) appointing any specified ports, aerodromes, or other places in New Zealand to be the only ports, aerodromes, or places of export of animals or of the skins, feathers, eggs, flesh, or any other part of animals:
   (k) regulating or prohibiting the sale, possession, or use of any toxic, poisonous, or narcotic substance or gas or of birdlime or other similar substance to hunt or kill or to catch alive any wildlife:
@@ -1126,8 +1129,8 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 
 ### 73 Repeals, savings, and consequential amendments
 (1) The enactments specified in Schedule 10 are hereby repealed.
-(2) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done:
-  Provided that all warrants under section 3 or section 4 of the Animals Protection and Game Act 1921–22 shall be deemed to be revoked as from the commencement of this Act.
+(2) Without limiting the provisions of the Interpretation Act 1999, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done:
+  provided that all warrants under section 3 or section 4 of the Animals Protection and Game Act 1921–22 shall be deemed to be revoked as from the commencement of this Act.
 (3)
 (4) All matters and proceedings that have been commenced under any enactment hereby repealed, and are pending or in progress at the commencement of this Act, may be continued, completed, and enforced as if this Act had not been passed.
 (5)
@@ -1135,25 +1138,307 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 
 ## Schedule 1 — Wildlife declared to be game
 
+| Black swan (Cygnus atratus): except on Chatham Islands |  |
+| --- | --- |
+| Chukar (Alectoris chukar): except on Chatham Islands |  |
+| Duck: |  |
+|  | Australasian shoveler (Anas rhynchotis) |
+|  | Grey duck (Anas superciliosa) and any cross of that species with any other species, variety, or kind of duck (except on Chatham Islands) |
+|  | Mallard duck (Anas platyrhynchos) and any cross of that species with any other species, variety, or kind of duck (except on Chatham Islands) |
+|  | Paradise shelduck (Tadorna variegata) |
+| Partridge: |  |
+|  | Grey partridge (Perdix perdix): except on Chatham Islands |
+|  | Red-legged partridge (Alectoris rufa rufa): except on Chatham Islands |
+| Pheasant: |  |
+|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant: except on Chatham Islands |
+| Pukeko (Porphyrio melanotus): except on Chatham Islands |  |
+| Quail: |  |
+|  | Bobwhite quail (Colinus virginianus): except on Chatham Islands |
+|  | Brown quail (Coturnix ypsilophora): except on Chatham Islands |
+|  | California quail (Callipepla californica): except on Chatham Islands |
+
 ## Schedule 2 — Partially protected wildlife
 
 ## Schedule 3 — Wildlife that may be hunted or killed subject to Minister's notification
+
+| Australasian harrier (harrier hawk) (Circus approximans) |  |
+| --- | --- |
+| Black swan (Cygnus atratus): on Chatham Islands only |  |
+| Chukar (Alectoris chukar): on Chatham Islands only |  |
+| Duck— |  |
+|  | Grey duck (Anas superciliosa) and any cross of that species with any other species, variety, or kind of duck (on Chatham Islands only) |
+|  | Grey teal (Anas gracilis) |
+|  | Mallard duck (Anas platyrhynchos) and any cross of that species with any other species, variety, or kind of duck (on Chatham Islands only) |
+| Grey-faced petrel (northern mutton bird) (Pterodroma macroptera) |  |
+| Mute swan (Cygnus olor) |  |
+| Partridge— |  |
+|  | Grey partridge (Perdix perdix): on Chatham Islands only |
+|  | Red-legged partridge (Alectoris rufa rufa): on Chatham Islands only |
+| Pheasant— |  |
+|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant: on Chatham Islands only |
+| Pukeko (Porphyrio melanotus): on Chatham Islands only |  |
+| Quail— |  |
+|  | Bobwhite quail (Colinus virginianus): on Chatham Islands only |
+|  | Brown quail (Coturnix ypsilophora): on Chatham Islands only |
+|  | California quail (Callipepla californica): on Chatham Islands only |
+| Shag— |  |
+|  | Black shag (Phalacrocorax carbo novaehollandiae) |
+|  | Little shag (Phalacrocorax melanoleucos brevirostris) |
+|  | Pied shag (Phalacrocorax varius varius) |
+| Sooty shearwater (mutton bird) (Puffinus griseus) |  |
+| Weka— |  |
+|  | South Island weka (Gallirallus): on Chatham Islands only |
+|  | Stewart Island weka (Gallirallus): on islets off Stewart Island and in Foveaux Strait only |
 
 ## Schedule 4 — Wildlife not protected, except in areas and during periods specified in Minister's notification
 
 ## Schedule 5 — Wildlife not protected
 
+| Mammals— |  |  |
+| --- | --- | --- |
+|  | Cat (Felis) |  |
+|  | Cattle (Bos) |  |
+|  | Dog (Canis) |  |
+|  | Ferret (family Mustelidae) |  |
+|  | Hedgehog (Erinaceus europaeus) |  |
+|  | Horse (Equus) |  |
+|  | Mouse (family Muridae) |  |
+|  | Polecat (family Mustelidae) |  |
+|  | Possum (family Phalangeridae) |  |
+|  | Rat (family Muridae) |  |
+|  | Sheep (Ovis) |  |
+|  | Stoat (family Mustelidae) |  |
+|  | Wallaby (family Macropodidae) |  |
+|  | Weasel (family Mustelidae) |  |
+| Birds— |  |  |
+|  | Blackbird (Turdus merula) |  |
+|  | Bulbul: Red-vented bulbul (Pycononotus cafer) |  |
+|  | Bunting— |  |
+|  |  | Cirl bunting (Emberiza cirlus) |
+|  | Cape Barren goose (Cereopsis novaehollandiae) |  |
+|  | Chicken (junglefowl)— |  |
+|  |  | any bird of the genus Gallus |
+|  | Dove— |  |
+|  |  | all species of the genus Streptopelia |
+|  | Finch— |  |
+|  |  | Chaffinch (Fringilla coelebs) |
+|  |  | Goldfinch (Carduelis carduelis) |
+|  |  | Greenfinch (Carduelis chloris) |
+|  |  | Lesser redpoll (Carduelis cabaret) |
+|  | Goose— |  |
+|  |  | any bird of the genus Anser |
+|  |  | Canada goose (Branta canadensis) |
+|  | Guineafowl (Numida meleagris) |  |
+|  | Gull— |  |
+|  |  | Black-backed gull (Larus dominicanus) |
+|  | Kookaburra— |  |
+|  |  | any bird of the genus Dacelo |
+|  | Magpie (Australian)— |  |
+|  |  | Black backed magpie (Gymnorhina tibecen) |
+|  |  | White backed magpie (Gymnorhina leuconota) |
+|  | Muscovy duck (Cairina moschata) |  |
+|  | Mynah (Acridotheres tristis) |  |
+|  | Parrot— |  |
+|  |  | Budgerigar (Melopsittacus undulatus) |
+|  |  | Crimson rosella (Platycercus elegans) |
+|  |  | Eastern rosella (Platycercus eximius) |
+|  |  | Galah (Eolophus roseicapilla) |
+|  |  | Rainbow lorikeet (Trichoglossus haematodus) |
+|  |  | Ring-necked parakeet (Psittacula krameri) |
+|  |  | White (or sulphur-crested) cockatoo (Cacatua galerita) |
+|  | Peafowl (Pavo cristatus) |  |
+|  | Pigeon— |  |
+|  |  | Rock pigeon (Columba livia) |
+|  | Rook (Corvus frugilegus) |  |
+|  | Skylark (Alauda arvensis) |  |
+|  | Song thrush (Turdus philomelos) |  |
+|  | Sparrow— |  |
+|  |  | Hedge sparrow (Prunella modularis) |
+|  |  | House sparrow (Passer domesticus) |
+|  | Spur-winged plover (Vanellus miles) |  |
+|  | Starling (Sturnus vulgaris) |  |
+|  | Turkey— |  |
+|  |  | any bird of the genus Meleagris |
+|  | Yellowhammer (Emberiza citrinella) |  |
+| Amphibians— |  |  |
+|  | Green and golden bell frog (Litoria aurea) |  |
+|  | Southern bell frog (Litoria raniformis) |  |
+|  | Whistling frog (Litoria ewingii) |  |
+| Reptiles— |  |  |
+|  | Lizards— |  |
+|  |  | Rainbow skink (Lampropholis delicata) |
+|  | Red-eared slider turtle (Trachemys scripta elegans) |  |
+
 ## Schedule 6 — Animals declared to be noxious animals subject to the Noxious Animals Act 1956
+
+| Mammals— |  |  |
+| --- | --- | --- |
+|  | Deer— |  |
+|  |  | Axis deer (Axis axis) |
+|  |  | Fallow deer (Dama dama) |
+|  |  | Japanese deer (Sika nippon) |
+|  |  | Javan rusa deer (Cervus timoriensis) |
+|  |  | Moose (Alces americana) |
+|  |  | Red deer (Cervus elaphus) |
+|  |  | Sambar deer (Cervus unicolor) |
+|  |  | Virginian deer (Odocoileus virginianus) |
+|  |  | Wapiti (Cervus canadensis) |
+|  |  | Any other member of the family Cervidae |
+|  | Chamois (Rupicapra rupicapra) |  |
+|  | Goat (Capra) |  |
+|  | Himalayan tahr (Hemitragus jemlahicus) |  |
+|  | Pig (Sus) |  |
 
 ## Schedule 7 — Terrestrial and freshwater invertebrates declared to be animals
 
+| INSECTA (INSECTS) |  |  |  |
+| --- | --- | --- | --- |
+| Orthoptera: |  |  |  |
+|  | Acrididae (grasshoppers)— |  |  |
+|  |  | Brachaspis robustus Bigelow 1967 (robust grasshopper) |  |
+|  |  | Sigaus childi Jamieson 1999 |  |
+|  | Anostostomatidae (giant, ground, tree, and tusked weta)— |  |  |
+|  |  | Deinacrida (giant weta)— |  |
+|  |  |  | all species |
+|  |  | Hemideina ricta (Hutton 1897) (Banks Peninsula tree weta) |  |
+|  |  | Motuweta isolata Johns 1997 (Mercury Islands tusked weta) |  |
+| Coleoptera: |  |  |  |
+|  | Carabidae (ground or carab beetles)— |  |  |
+|  |  | Mecodema laeviceps Broun 1904 (Ida Valley carabid beetle) |  |
+|  |  | Megadromus speciosis Johns 2007 (Eastern Sounds ground beetle) |  |
+|  | Cerambycidae (longhorn beetles)— |  |  |
+|  |  | Xylotoles costatus Pascoe 1875 (Pitt Island longhorn beetle) |  |
+|  | Curculionidae (weevils)— |  |  |
+|  |  | Anagotus fairburni Brookes 1932 (flax weevil) |  |
+|  |  | Anagotus stephenensis Kuschel 1982 (Stephens Island weevil) |  |
+|  |  | Anagotus turbotti (Spiller 1942) (Turbott's weevil) |  |
+|  |  | Hadramphus spinipennis Broun 1911 (coxella weevil) |  |
+|  |  | Hadramphus stilbocarpae Kuschel 1971 (knobbled weevil) |  |
+|  |  | Hadramphus tuberculatus (Pascoe 1877) (Canterbury knobbled weevil) |  |
+|  |  | Heterexis seticostatus Brookes 1951 (Campbell Island ribbed weevil) |  |
+|  |  | Lyperobius huttoni Pascoe 1876 (speargrass weevil) |  |
+|  |  | Lyperobius nesidiotes Kuschel 1987 (Broughton Island weevil) |  |
+|  |  | Megacolabus sculpturatus Broun 1893 (Akaroa weevil) |  |
+|  |  | Nothaldonis peacei Broun 1880 (Peace's weevil) |  |
+|  |  | Oclandius laeviusculus Broun 1902 |  |
+|  | Elateridae (click beetles)— |  |  |
+|  |  | Amychus candezei Pascoe 1876 (Chatham Islands click beetle) |  |
+|  |  | Amychus granulatus Broun 1886 (Cook Strait click beetle) |  |
+|  | Lucanidae (stag beetles)— |  |  |
+|  |  | Geodorcus— |  |
+|  |  |  | all species |
+|  | Scarabaeidae (scarab beetles)— |  |  |
+|  |  | Prodontria bicolorata Given 1964 (Alexandra chafer beetle) |  |
+|  |  | Prodontria lewisii Broun 1904 (Cromwell chafer beetle) |  |
+| ARACHNIDA |  |  |  |
+| Araneae (spiders)— |  |  |  |
+|  | Gradungulidae— |  |  |
+|  |  | Spelungula cavernicola Forster 1987 (Nelson cave spider) |  |
+|  | Theridiidae— |  |  |
+|  |  | Latrodectus atritus Urquhart 1890 (black katipo spider) |  |
+|  |  | Latrodectus katipo Powell 1871 (red katipo spider) |  |
+| MOLLUSCA |  |  |  |
+| Gastropoda (snails)— |  |  |  |
+|  | Cytora hirsutissima (Powell 1951) |  |  |
+|  | Cytora tepakiensis Gardner 1967 |  |  |
+|  | Paryphanta (kauri snails)— |  |  |
+|  |  | all species |  |
+|  | Placostylus (flax snails)— |  |  |
+|  |  | all native New Zealand species |  |
+|  | Powelliphanta (large land snails)— |  |  |
+|  |  | all species |  |
+|  | Rhytidarex buddlei (Powell 1948) |  |  |
+
 ## Schedule 7A — Marine species declared to be animals
+
+| Anthozoa (corals and sea anemones)— |  |  |
+| --- | --- | --- |
+|  | Black corals— |  |
+|  |  | all species in the order Antipatharia |
+|  | Gorgonian corals— |  |
+|  |  | all species in the order Gorgonacea |
+|  | Stony corals— |  |
+|  |  | all species in the order Scleractinia |
+| Hydrozoa (hydra-like animals)— |  |  |
+|  | Hydrocorals— |  |
+|  |  | all species in the family Stylasteridae |
+
+| Chondrichthyes (cartilaginous fishes)— |  |  |
+| --- | --- | --- |
+|  | Lamniformes (mackerel sharks)— |  |
+|  |  | Basking shark (Cetorhinus maximus) |
+|  |  | Deepwater nurse shark (Odontaspis ferox) |
+|  |  | White pointer shark (Carcharodon carcharias) |
+|  | Orectolobiformes (carpet sharks)— |  |
+|  |  | Whale shark (Rhincodon typus) |
+|  | Rajiformes (skates and rays)— |  |
+|  |  | Manta ray (Manta birostris) |
+|  |  | Spinetail devil ray (spinetail mobula) (Mobula japanica) |
+| Osteichthyes (bony fishes)— |  |  |
+|  | Perciformes (perch-like fishes)— |  |
+|  |  | Giant grouper (Queensland grouper) (Epinephelus lanceolatus) |
+|  |  | Spotted black grouper (Epinephelus daemelii) |
 
 ## Schedule 8 — Wildlife not protected but may be kept, bred, or farmed in captivity pursuant to regulations made under principal Act or by Minister's direction
 
 ## Schedule 9 — Acts not affected by this Act
 
 ## Schedule 10 — Enactments repealed
+
+### 1 Short Title
+This Act may be cited as the Wildlife Amendment Act 1983, and shall be read together with and deemed part of the Wildlife Act 1953 (hereinafter referred to as the principal Act).
+
+### 13 Increase in penalties for offences
+(1) Amendment(s) incorporated in the Act(s).
+(2) Any proceedings commenced (whether before or after the commencement of this Act) for an offence against the principal Act or any regulations made under it arising out of any act done or omitted before the passing of this Act shall be heard and determined as if subsection (1) had not been passed.
+(3) Amendment(s) incorporated in the Act(s).
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Conservation Law Reform Act 1990.
+(2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
+(3) Sections 6A and 6L of the Conservation Act 1987 (as inserted by section 5 of this Act), sections 26B and 26P of that Act (as inserted by section 17 of this Act ), and sections 36, 38, 41, 42, 74, 112, and 114 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+
+## Part 3 — Amendments to Wildlife Act 1953
+
+### 64 Part to be read with Wildlife Act 1953
+This Part shall be read together with and deemed part of the Wildlife Act 1953 (in this Part referred to as the principal Act).
+
+### 89 Assets and liabilities of acclimatisation societies
+(1) Notwithstanding section 74 of this Act, the following provisions shall apply with respect to acclimatisation societies in existence and registered or deemed to be registered under the Wildlife Act 1953 immediately before the commencement of that section, and to those assets of any former acclimatisation society that are being held in trust or otherwise held at the commencement of this Act:
+  (a) by 31 August 1990, each society shall forward to the Minister of Conservation—
+    (i) a report of its operations since the end of the previous financial year; and
+    (ii) an audited statement of accounts showing in detail its receipts and expenditure since the end of the previous financial year; and
+    (iii) such other information relating to its assets and liabilities as the Minister may require:
+  (b) the Minister shall identify the assets and liabilities of each society and transfer those assets and liabilities (including all real and personal property, money, contracts, and engagements) to the Transitional New Zealand Fish and Game Council and Transitional Fish and Game Councils, as the Minister considers appropriate; and those assets and liabilities shall vest in the Transitional Councils to which they are so transferred:
+  (c) the Minister may transfer to an appropriate Transitional Council any assets of a former acclimatisation society that are being held in trust at the commencement of this Act:
+  (d) on the disestablishment of Transitional Councils, the Minister shall transfer their assets and liabilities to the New Zealand Fish and Game Council and Fish and Game Councils, as the Minister considers appropriate; and those assets and liabilities shall vest in the Councils to which they are so transferred:
+  (e) all proceedings pending by or against any society may be carried on, completed, and enforced by or against the Fish and Game Council for the area in which that society formerly operated before the commencement of this Act:
+  (f) district Land Registrars are hereby directed and empowered to do all such things as are reasonably necessary to give effect to the transfer of any land under this subsection.
+(2) Subject to subsection (3) of this section, any person who, immediately before the commencement of section 74 of this Act, was an employee of any acclimatisation society, shall be offered employment by the Transitional Fish and Game Council established for the area in which that society operated for a period of not less than 6 months commencing from the date of the commencement of this Act, on terms and conditions of employment no less favourable than the terms and conditions of employment applying immediately before the commencement of that section to that person's employment with that society.
+(3) Any person who, immediately before the commencement of section 74 of this Act, was an employee of either the Council of North Island Acclimatisation Societies or the Council of South Island Acclimatisation Societies, shall be offered employment by the Transitional New Zealand Fish and Game Council for a period of not less than 6 months commencing from the date of the commencement of this Act, on terms and conditions of employment no less favourable than the terms and conditions of employment applying immediately before the commencement of that section to that person's employment with that Council.
+(4) Every person who accepts employment under subsection (2) shall, if so requested in writing by the Minister, provide the Minister with such assistance as the Minister may reasonably require for the purposes of paragraphs (b) and (c) of subsection (1).
+(5) Notwithstanding section 74 of this Act, all fish and game licences issued under any enactment by acclimatisation societies or conservancy councils, and District Anglers Notices issued by acclimatisation societies under the Fisheries Act 1983, shall continue in force according to their tenor until revoked or cancelled or replaced.
+(6) Notwithstanding anything in subsection (1), the Minister may transfer to the New Zealand Fish and Game Council or any Fish and Game Council all or any of the following:and, upon such transfer, the following provisions apply:
+  (a) the assets of the Council of North Island Acclimatisation Societies:
+  (b) the assets of the Council of South Island Acclimatisation Societies:
+  (c) the assets of the National Executive of Acclimatisation Societies:
+  (d) the assets vested in or held by the Minister or any department of State in his or her or its capacity as the person having control of an acclimatisation district under the Wildlife Act 1953;—
+  (e) the assets so transferred shall vest in the New Zealand Fish and Game Council or the Fish and Game Council, as the case may be:
+  (f) nothing in the Public Works Act 1981 or in Part 4A of the Conservation Act 1987 shall apply in respect of any such transfer of assets:
+  (g) all proceedings pending by or against the Council or Executive whose assets are so transferred, or by or against the Minister or a department of State in his or her or its capacity as the person having control of such a district, may be carried on, completed, and enforced by or against the body to whom the assets are so transferred:
+  (h) District Land Registrars are hereby directed and empowered to do all such things as are reasonably necessary to give effect to the transfer of any land under this subsection.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Wildlife Amendment Act 1996, and shall be read together with and deemed part of the Wildlife Act 1953 (hereinafter referred to as the principal Act).
+(2) Sections 2(1), 3, and 8 shall come into force on 1 July 1996.
+(3) Section 6 shall come into force on a date to be fixed by the Governor-General by Order in Council.
+(4) Except as provided in subsections (2) and (3), this Act shall come into force on the day on which it receives the Royal assent.
+
+### 3 Granting of concessions in wildlife sanctuaries, wildlife refuges, and wildlife management reserves
+(1) Amendment(s) incorporated in the Act(s).
+(2) Where any person lawfully occupied any wildlife sanctuary, wildlife refuge, or wildlife management reserve at the commencement of this Act in accordance with any right lawfully granted on or before 1 April 1987 under any Act or any contract made on or before 1 April 1987 then, notwithstanding sections 17U or 17W of the Conservation Act 1987, as inserted by section 7 of the Conservation Amendment Act 1996, the Minister may grant a concession to that occupant for the area lawfully occupied by the occupant, but the extent of the activities authorised by any such concession shall be no greater than was lawfully exercised by the occupant.
+(3) Where any concession is granted under subsection (2) to the occupant, any prior right given to the occupant to occupy the land shall be void and of no effect.
+(4) The provisions of section 17T(4) and (5) of the Conservation Act 1987 (as so inserted) shall not apply to any concession granted under subsection (2) of this section.
 
 ### 1 Title
 This Act is the Biosecurity Law Reform Act 2012.
