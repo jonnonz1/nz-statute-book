@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2012-04-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -686,14 +686,7 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
 (3) Where the decision on any question of law to which this section applies depends on any questions of fact, the prosecutor or the accused may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
 
 ### 78D Search without warrant
-(1) Where a constable who is of or above the level of position of inspector is satisfied that there is reasonable ground for believing—he may by a written order signed by him give to any constable the like authority that may be given by a search warrant issued under section 198 of the Summary Proceedings Act 1957, and the provisions of that section shall apply accordingly with all necessary modifications.
-  (a) that there is in any building, aircraft, ship, hovercraft, carriage, vehicle, box, receptacle, premises, or place—
-    (i) any thing upon or in respect of which an offence against section 78 has been or is suspected of having been committed; or
-    (ii) any thing which there is reasonable ground to believe will be evidence as to the commission of any such offence; or
-    (iii) any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence; and
-  (b) that the case is one of great emergency and that immediate action is necessary,—
-(2) Every constable exercising the authority conferred by an order made under subsection (1) shall identify himself to any person in or on the building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place who questions his right to enter and search it, and shall also tell such person that the search is being made pursuant to that subsection. He shall also, if not in uniform and if so required, produce evidence that he is a constable.
-(3) Any constable who is of or above the level of position of inspector who exercises the power conferred by subsection (1) shall, within 3 days after the day on which he exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
+[Repealed]
 
 ### 79 Sabotage
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, with intent to prejudice the safety, security, or defence of New Zealand or the safety or security of the armed forces of any other country, lawfully present in New Zealand,—
@@ -1764,13 +1757,7 @@ Every one is liable to imprisonment for a term not exceeding 1 year who assaults
 (5) It is a defence to a charge under subsection (4)(b) if the person charged proves that he did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
 
 ### 202B Powers in respect of crime against section 202A
-(1) Where any constable has reasonable grounds for believing that any person is committing an offence against section 202A(4)(a) he may—and in any such case the constable may take possession of any knife, offensive weapon, or disabling substance found.
-  (a) stop and search that person and any package or receptacle he has with him that the constable has reasonable grounds for believing contains any knife, offensive weapon, or disabling substance, and may detain that person for as long as is reasonably necessary to conduct that search:
-  (b) stop and search any vehicle in which that person is travelling or from which he has alighted if the constable has reasonable grounds for believing that the vehicle contains any knife, offensive weapon, or disabling substance, and may detain that vehicle for as long as is reasonably necessary to conduct that search;—
-(2) Every constable exercising the powers conferred by subsection (1) shall identify himself to every person searched, tell him that the search is being made under this section, and, if not in uniform and if so required, produce evidence that he is a constable.
-(2A) If it is necessary for any constable to stop a vehicle for the purpose of exercising the power conferred by subsection (1)(a) to search a person who is in the vehicle, sections 314B to 314D apply with any necessary modifications as if references in those sections to a statutory search power are references to subsection (1)(a).
-(2B) Despite section 314A, sections 314B to 314D apply to the exercise of the power to stop a vehicle conferred by subsection (1)(b).
-(3) Where any person is convicted of a crime against section 202A, the court may make an order for the forfeiture or disposal of any knife, offensive weapon, or substance in respect of which the crime was committed.
+[Repealed]
 
 ### 202BA Sentencing for second crime against section 202A(4)
 Where—the court shall impose a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002) on the offender unless the court is satisfied that, because of the special circumstances of the offence or of the offender, the offender should not be so sentenced.
@@ -2133,32 +2120,10 @@ Every one who commits theft is liable as follows:
   (d) if the value of the property stolen does not exceed $500, to imprisonment for a term not exceeding 3 months.
 
 ### 224 Power of search for goods stolen or unlawfully obtained in transit
-(1) This section applies if—
-  (a) any constable has reasonable grounds for believing that any property that has been stolen or unlawfully obtained is—
-    (i) in the possession of any person; or
-    (ii) in any container, package, or receptacle; or
-    (iii) in or on any aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle; and
-  (b) the person, container, package, receptacle, aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle is—
-    (i) in any airport or in or on any port or harbour or waterway; or
-    (ii) in or on any railway or railway line or railway station or in any depot, terminus, or yard; or
-    (iii) in or on any other place used between trips by vehicles engaged in the carriage of goods for reward.
-(2) In the circumstances specified in subsection (1), the constable may, without warrant, search and detain for the purpose of searching the person, container, package, receptacle, aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle, and may take possession of any property described in subsection (1)(a) found during the search.
-(3) If it is necessary for any constable to stop a vehicle for the purpose of exercising the power conferred by subsection (2) to search a person who is in the vehicle, sections 314A to 314D apply with any necessary modifications as if references in those sections to a statutory search power were references to the power to search a person under subsection (2).
-(4) Subsection (3) does not limit the application of sections 314A to 314D in respect of the stopping of any vehicle for the purpose of exercising the power to search the vehicle under subsection (2).
-(5) Any constable conducting a search under subsection (2) may use reasonable force, if necessary,—
-  (a) to break open any container, package, or receptacle:
-  (b) to effect entry to any aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle.
+[Repealed]
 
 ### 225 Power to search vehicles for goods stolen or obtained by crimes involving dishonesty
-(1) Any constable who has reasonable grounds for believing that any property that is stolen or obtained by a crime involving dishonesty is in or on any vehicle may, without warrant, search that vehicle for the purpose of locating that property.
-(2) Any constable conducting a search under subsection (1) may use reasonable force, if necessary, to effect entry to the vehicle.
-(3) During a search under subsection (1), any constable may seize any property that is—
-  (a) stolen or obtained by a crime involving dishonesty; and
-  (b) found in or on the vehicle.
-(4) Every constable must, before conducting a search under subsection (1),—
-  (a) identify himself or herself to any person in or on the vehicle; and
-  (b) if the constable is not in uniform and if so required, produce evidence that the constable is a constable; and
-  (c) tell any person in or on the vehicle that the search is being conducted under this section.
+[Repealed]
 
 ### 226 Conversion of vehicle or other conveyance
 (1) Every one is liable to imprisonment for a term not exceeding 7 years who, dishonestly and without claim of right, but not so as to be guilty of theft, takes or uses for his or her own purposes or another person's purposes—
@@ -2789,41 +2754,16 @@ Where any one is charged with any offence in respect of which the leave or conse
 **General power to stop vehicles to exercise statutory search powers**
 
 ### 314A Statutory search power
-(1) For the purposes of sections 314B and 314C, a statutory search power means any power conferred by statute that expressly authorises any constable to search a vehicle, but does not include a power that itself authorises any constable to stop a vehicle.
-(2) A power conferred by statute described in subsection (1) is a statutory search power for the purposes of sections 314B and 314C whether or not the power conferred by statute—
-  (a) involves the issue of a warrant:
-  (b) authorises any other person to exercise that power.
-(3) For the purposes of this section and sections 314B and 314C, the term vehicle does not include any aircraft, hovercraft, ship or ferry or other vessel, train, or carriage.
+[Repealed]
 
 ### 314B General power to stop vehicles
-(1) Any constable may stop a vehicle for the purpose of conducting a search under a statutory search power if the constable is satisfied that,—
-  (a) in respect of a statutory search power to search without a warrant, the ground or grounds, as the case may be, for exercising that statutory search power, as set out in the applicable statute, exist; or
-  (b) in respect of a statutory search power to search with a warrant, the warrant has been issued and is in force.
-(2) Any constable who stops a vehicle under subsection (1) must—
-  (a) be wearing a uniform or distinctive cap, hat, or helmet with a badge of authority affixed to that cap, hat, or helmet; or
-  (b) be following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren.
-(3) A person driving a vehicle must stop the vehicle as soon as is practicable on being required to do so by a constable exercising the stopping power conferred by subsection (1).
-(4) Every constable exercising the stopping power conferred by subsection (1) must, immediately after the vehicle has stopped,—
-  (a) identify himself or herself to the driver of the vehicle; and
-  (b) tell the driver that the stopping power is being exercised under this section for the purpose of exercising a statutory search power; and
-  (c) tell the driver the statutory search power in respect of which the stopping power is being exercised; and
-  (d) if not in uniform and if so required, produce evidence that he or she is a constable.
-(5) Subsection (4) does not limit any other duties that a constable must carry out when exercising the applicable statutory search power.
-(6) Despite subsection (5), a constable need not carry out any duty that is contained in the applicable statutory search power if that duty is exactly the same as a duty contained in subsection (4).
-(7) This section does not limit or affect the powers of any person other than a constable under any power of search conferred by statute.
+[Repealed]
 
 ### 314C Powers incidental to stopping vehicles under section 314B
-(1) This section applies whenever a vehicle is stopped under section 314B.
-(2) Any constable may do either or both of the following:
-  (a) require any person in or on the vehicle to state his or her name, address, and date of birth, or such of those particulars as the constable may specify:
-  (b) require that the vehicle remain stopped for as long as is reasonably necessary to enable a statutory search power to be exercised.
-(3) This section does not limit or affect the exercise of any other power, whether express or implied, that is incidental to the applicable statutory search power.
+[Repealed]
 
 ### 314D Offences relating to stopping vehicles under section 314B
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) fails to stop as soon as is practicable when required to do so by a constable exercising the power conferred by section 314B(1); or
-  (b) fails to comply with a requirement made by a constable under paragraph (a) or paragraph (b) of section 314C(2).
-(2) Any constable may arrest without warrant any person whom the constable has good cause to suspect has committed an offence against subsection (1).
+[Repealed]
 
 **Arrest**
 
@@ -2856,78 +2796,19 @@ Where any one is charged with any offence in respect of which the leave or conse
   (b) any person having, by virtue of his office, a power of arrest without warrant is entitled, in any specified circumstances, to exercise that power without the production of evidence of his appointment to that office, or is required, in exercising the power, to comply with any specified conditions or restrictions in addition to or instead of producing evidence of his appointment.
 
 ### 317 Power to enter premises to arrest offender or prevent offence
-(1) Where any constable is authorised by this Act or by any other enactment to arrest any person without warrant, that constable, and all persons whom he calls to his assistance, may enter on any premises, by force if necessary, to arrest that person if the constable—
-  (a) has found that person committing any offence punishable by imprisonment and is freshly pursuing that person; or
-  (b) has good cause to suspect that that person has committed any such offence on those premises.
-(2) Any constable, and all persons whom he calls to his assistance, may enter on any premises, by force if necessary, to prevent the commission of any offence that would be likely to cause immediate and serious injury to any person or property, if he believes, on reasonable and probable grounds, that any such offence is about to be committed.
-(3) If, in any case to which this section applies, the constable is not in uniform and any person in actual occupation of the premises requires him to produce evidence of his authority, he shall before entering on the premises produce his badge or other evidence that he is a constable.
-(4) Nothing in this section shall affect in any way the power of any constable to enter any premises pursuant to a warrant.
+[Repealed]
 
 ### 317A Power to stop vehicles for purpose of arrest
-(1) Any constable who—
-  (a) has reasonable grounds to suspect that there is in or on any vehicle any person who either—
-    (i) is unlawfully at large; or
-    (ii) has committed an offence punishable by imprisonment; and
-  (b) either—may stop the vehicle for the purpose of arresting that person.
-    (i) is wearing a uniform or a distinctive cap, hat, or helmet with a badge of authority affixed thereto; or
-    (ii) is following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren—
-(2) A person driving a vehicle must stop the vehicle as soon as is practicable on being required to do so by a constable exercising the power conferred by subsection (1).
-(3) Every constable exercising any power conferred by subsection (1) must, immediately after the vehicle has stopped,—
-  (a) identify himself or herself to the driver of the vehicle; and
-  (b) tell the driver that the power is being exercised under this section; and
-  (c) if not in uniform and if so required, produce evidence that he or she is a constable.
-(4) Where a vehicle fails to stop at a road block established under section 317B, subsection (1) applies and any constable may, in relation to that vehicle and any person in or on it, exercise all or any of the powers conferred by this section and sections 317AA and 317AB.
-(5) For the purposes of this section, the term unlawfully at large, in relation to any person, includes (but is not limited to) any case where a warrant for the arrest of that person is for the time being in force.
+[Repealed]
 
 ### 317AA Powers incidental to stopping vehicles under section 317A
-(1) Subject to section 317A(3), where any vehicle is stopped pursuant to section 317A, any constable may do all or any of the following:
-  (a) require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the constable may specify:
-  (b) search the vehicle for the purpose of—if the constable or any other constable believes on reasonable grounds that such a person, or such property, is in or on the vehicle:
-    (i) locating a person referred to in section 317A(1)(a); or
-    (ii) locating property that is evidence of the commission of the offence in respect of which the vehicle is stopped pursuant to section 317A(1)(a)(ii),—
-  (c) use reasonable force to enter a vehicle for the purpose of conducting a search pursuant to paragraph (b):
-  (d) require that the vehicle remain stopped for as long as is reasonably necessary to enable a constable to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
-    (i) the vehicle; or
-    (ii) the occupants of the vehicle; or
-    (iii) the property in or on the vehicle.
-(2) Every constable exercising any power conferred by subsection (1)(b) must, before conducting the search, tell the driver the object of the proposed search.
+[Repealed]
 
 ### 317AB Offences relating to stopping vehicles under section 317A
-(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) fails to stop as soon as is practicable when required to do so by a constable exercising the power conferred by section 317A(1); or
-  (b) fails to comply with a requirement made by a constable under paragraph (a) or paragraph (d) of section 317AA(1).
-(2) Any constable may arrest without warrant any person whom the constable has good cause to suspect has committed an offence against subsection (1).
+[Repealed]
 
 ### 317B Road blocks
-(1) Where any senior constable (holding a level of position not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—that senior constable may authorise the establishment of a road block for the purpose of arresting that person if he or she—
-  (a) has committed an offence punishable by a term of imprisonment of 7 years or more; or
-  (b) is unlawfully at large,—
-  (c) has reasonable grounds to suspect that the vehicle may travel past the place where it is proposed that the road block be established; and
-  (d) is satisfied that as far as is reasonably practicable the safety of all road users will be ensured in the area in which the road block is established.
-(2) An authorisation under this section—
-  (a) shall operate for an initial period not exceeding 24 hours, specified by the person giving the authorisation:
-  (b) may be renewed from time to time by a District Court Judge for such further period not exceeding 24 hours as the Judge may specify in writing.
-(3) An authorisation may be granted under this section orally or in writing, but in every case the person giving the authorisation shall keep or cause to be kept a written record of the following matters:
-  (a) the place at which the establishment of a road block was authorised:
-  (b) the period or periods for which the authorisation was granted or renewed:
-  (c) the grounds on which the authorisation was granted or renewed.
-(4) Subject to subsection (5), where a road block is authorised under this section, any constable may do all or any of the following:
-  (a) establish a road block at the place or places specified in the authorisation:
-  (b) stop vehicles at or in the vicinity of the road block:
-  (c) require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the constable may specify:
-  (d) search the vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1), if the constable or any other constable believes on reasonable grounds that the person is in or on the vehicle:
-  (e) use reasonable force to enter a vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1), if the constable or any other constable believes on reasonable grounds that such a person is in the vehicle:
-  (f) require that the vehicle remain stopped for as long as is reasonably necessary to enable a constable to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
-    (i) the vehicle; or
-    (ii) the occupants of the vehicle.
-(5) Every constable exercising the power conferred by any of paragraphs (b) to (f) of subsection (4) shall identify himself or herself to the driver of the vehicle, tell the driver that the power is being exercised under this section, and, if not in uniform and if so required, produce evidence that he or she is a constable.
-(6)
-(7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) fails to stop, as soon as is practicable, when required to do so by a constable exercising the power conferred by subsection (4)(b); or
-  (b) fails to comply with a requirement made by a constable under paragraph (c) or paragraph (f) of subsection (4).
-(7A) Any constable may arrest without warrant any person whom the constable has good cause to suspect has committed an offence against subsection (7).
-(8) For the purposes of this section, road block means any form of barrier or obstruction preventing or limiting the passage of vehicles.
-(9) For the purposes of this section, a person is not unlawfully at large by reason only of the fact that a warrant for the arrest of that person is for the time being in force.
+[Repealed]
 
 **Bail**
 
@@ -3352,7 +3233,7 @@ Every accused person shall, upon being called upon to plead, be entitled to have
 Where on arraignment any accused person who is not defended by counsel pleads not guilty, the court shall cause to be handed to him, before the evidence for the prosecution is heard, a written statement in the following words, or in words to the like effect, that is to say:When the evidence against you has been heard, you will be asked whether you wish to give evidence yourself or to call witnesses. You are not obliged to give or call evidence but, if you do, that evidence may be used against you. You should consider in particular whether evidence which you can give is relevant and will assist you in your defence. If you do not give evidence no person other than the Judge and yourself may comment on that fact.
 
 ### 365 Question to accused when undefended
-Where any accused person is not defended by counsel, then, on the completion of the examination of the witnesses on the part of the prosecution, the following question, or words to the like effect, shall be addressed to him by or under the direction of the court, that is to say: Do you wish to give or call evidence?
+Where any accused person is not defended by counsel, then, on the completion of the examination of the witnesses on the part of the prosecution, the following question, or words to the like effect, shall be addressed to him by or under the direction of the court, that is to say:Do you wish to give or call evidence?
 
 ### 366 Comment on failure to give evidence
 (1)
@@ -4229,9 +4110,19 @@ This Act is the Search and Surveillance Act 2012.
 (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
 (4) In this section, provision includes any item, or any part of an item, in the Schedule.
 
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
 ## Part 5 — Amendments, repeals, and miscellaneous provisions
 
 ### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
 
 ### 346 Transitional provision relating to Part 11A of Crimes Act 1961
 (1) Despite the repeal of Part 11A of the Crimes Act 1961 by this Act,—
