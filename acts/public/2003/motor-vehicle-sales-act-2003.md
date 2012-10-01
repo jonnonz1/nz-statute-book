@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -1246,87 +1246,42 @@ A person must not communicate to any person any information acquired in the cour
 **Search warrants**
 
 ### 130 Issue of warrant
-(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing—
   (a) in respect of which an offence under this Act has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
   (c) that is or may be evidence of the commission of an offence under this Act by any person.
-(2) The Judge, Community Magistrate, Justice, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 131 Powers conferred by warrant
-(1) A warrant authorises the person named in it—
-  (a) to enter and search the place specified in the warrant on 1 occasion within 20 working days of the date of issue of the warrant at a time that is reasonable in the circumstances:
-  (b) to use any assistance that is reasonable in the circumstances:
-  (c) to use any force for gaining entry and for breaking open any article or thing that is reasonable in the circumstances:
-  (d) to search for and remove documents or any article or thing that the person executing the warrant believes on reasonable grounds may be relevant:
-  (e) when necessary, to take copies of documents, or extracts from documents, that the person executing the warrant believes on reasonable grounds may be relevant:
-  (f) if necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce in usable form, information recorded or stored in a document.
-(2) A person assisting the person executing the warrant also has the powers referred to in subsection (1)(c) to (e).
-(3) The warrant must be executed in accordance with any reasonable conditions that may be specified in the warrant when it is issued.
+[Repealed]
 
 ### 132 Form and content of search warrant
-A search warrant must—
-  (a) be in the prescribed form; and
-  (b) be directed to—
-    (i) a constable by name; or
-    (ii) any constable; or
-    (iii) the Registrar; or
-    (iv) a person authorised by the Registrar under section 125; and
-  (c) contain all of the following particulars:
-    (i) the place or thing that may be searched in accordance with the warrant; and
-    (ii) the offence for which the warrant is issued; and
-    (iii) a description of the kind of property that is authorised to be seized; and
-    (iv) the period during which the warrant may be executed; and
-    (v) any conditions specified under section 130(2).
+[Repealed]
 
 ### 133 Warrant must be produced
-A person executing a warrant must—
-  (a) have the warrant with him or her; and
-  (b) produce it on initial entry and, if requested, at any subsequent time; and
-  (c) identify himself or herself to the owner or occupier or person in charge of the place if that person is present; and
-  (d) produce evidence of his or her identity.
+[Repealed]
 
 ### 134 Other duties of person who executes warrant
-A person who executes a warrant must, before completing the search, leave in a prominent place at the place searched,—
-  (a) in the case of a search carried out at a time when the owner or occupier was not present, a written notice stating—
-    (i) the date and time when the warrant was executed; and
-    (ii) the name of the person who executed the warrant; and
-  (b) in the case of a search where a document or article or thing was seized from the place being searched, a list of documents or articles or things that were seized during the search.
+[Repealed]
 
 ### 135 When alternative to list of seized documents may be provided
-If it is not practicable to prepare a list under section 134 before completing the search, or if the owner or occupier of the place being searched consents, the person executing the warrant—
-  (a) may, instead of leaving a list, leave a notice stating that documents or articles or things have been seized during the search and that, within 5 working days of the search, a list will be delivered, left, or sent stating what documents, articles, or things have been seized; and
-  (b) must, within 5 working days of the search,—
-    (i) deliver a list to the owner or occupier; or
-    (ii) leave a list in a prominent position at the place searched; or
-    (iii) send a list by mail to the owner or occupier of the place searched.
+[Repealed]
 
 ### 136 Matters that must be stated in list of documents
-A list under section 134 must state—
-  (a) the documents, articles, and things that have been seized; and
-  (b) the location from where they were seized; and
-  (c) the location where they are being held.
+[Repealed]
 
 ### 137 Duty to assist
-The occupier or person in charge of the place that a person authorised by a warrant enters for the purpose of searching must provide that person with all reasonable facilities and assistance in executing the warrant.
+[Repealed]
 
 ### 138 Power to inspect and take copies of documents, etc, obtained under warrant
-The Registrar, or any person authorised by the Registrar for the purpose, may inspect and take copies of any documents or extracts from them obtained under a warrant.
+[Repealed]
 
 ### 139 Disposal of things seized
-(1) In any proceedings for an offence relating to any thing seized under warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) Any constable or the Registrar may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
-(3) On any such application, the District Court Judge may make any order that a court may make under subsection (1).
-(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiry of that period, apply to a District Court Judge for an order that it be delivered to him or her.
-(5) On any such application, the District Court Judge may—
-  (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
-  (b) make any order that a court may make under subsection (1).
+[Repealed]
 
 ### 140 Court order for disposal of things seized to be suspended on conviction
-(1) If any person is convicted in any proceedings for an offence relating to anything for which a warrant has been issued, and any order is made under section 139, the operation of the order is suspended,—
-  (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
-  (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
-  (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
-(2) If the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
+[Repealed]
 
 ## Part 5 — Miscellaneous provisions
 
@@ -1657,3 +1612,39 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
 (6) To avoid doubt, nothing in this clause affects the right of any person to apply, in accordance with law, for judicial review.
 
 ## Schedule 2 — Enactments amended
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
