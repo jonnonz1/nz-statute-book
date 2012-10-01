@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-10-01_
 
 > An Act to provide for New Zealand to assist—athe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbthe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcother ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -93,7 +93,7 @@ This Act binds the Crown.
 (3) Where the Attorney-General makes an order under subsection (1) in relation to a person who has been remanded on bail, a copy of the notice shall be sent to the Registrar of the court at which the person was released on bail.
 
 ### 11 Application for search warrant
-Where—the constable may apply to a Judge for the issue of a search warrant in accordance with section 48.
+Where—the constable may apply to an issuing officer for the issue of a search warrant in accordance with section 48.
   (a) a person is arrested under a warrant issued under section 7; and
   (b) a constable who is of or above the level of position of inspector has reasonable grounds for believing that there is in or on any place or thing any thing that is relevant to the Tribunal offence in respect of which the warrant was issued,—
 
@@ -220,7 +220,7 @@ A certificate by a Judge under section 22(2) or section 23(2) shall state whethe
 **Search and seizure**
 
 ### 29 Attorney-General may authorise application for search warrant
-Subject to section 57, where—the Attorney-General may, in writing, authorise a constable to apply to a Judge for the issue of a search warrant in accordance with section 48, and that constable may apply for the warrant accordingly.
+Subject to section 57, where—the Attorney-General may, in writing, authorise a constable to apply to an issuing officer for the issue of a search warrant in accordance with section 48, and that constable may apply for the warrant accordingly.
   (a) a Tribunal makes a request to the Attorney-General to assist in obtaining by search and seizure any thing that is relevant to a Tribunal offence; and
   (b) the Attorney-General is satisfied that there are reasonable grounds for believing that the thing is located in New Zealand,—
 
@@ -399,53 +399,34 @@ Where a forfeiture order against property is registered in accordance with secti
 **Search warrants**
 
 ### 48 Issue of search warrants
-(1) Any Judge who, on an application in writing made on oath by a constable who is of or above the level of position of inspector under section 11, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable who is of or above the level of position of inspector under section 11, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
   (a) any thing upon or in respect of which a relevant Tribunal offence has been, or is suspected of having been, committed; or
   (b) any thing which there are reasonable grounds for believing will be evidence as to the commission of any such offence—
-(2) Any Judge who, on application in writing made on oath under section 29 by a constable authorised under that section, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable authorised under section 29, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
   (a) any thing upon or in respect of which any Tribunal offence has been, or is suspected of having been committed; or
   (b) any thing which there are reasonable grounds for believing will be evidence as to the commission of such an offence—
-(3) A Judge shall not issue a warrant under this section unless the application contains, or the applicant otherwise supplies to the Judge, such information as the Judge requires concerning the grounds on which the warrant is sought.
+(3) The provisions of subparts 1 to 5 and 7 to 10 of Part 4, and sections 161 and 162 of the Search and Surveillance Act 2012 apply.
 (4) In subsection (1), relevant Tribunal offence means a Tribunal offence in respect of which a person has been arrested under a warrant issued under section 7.
 
 ### 49 Form and content of search warrant
-(1) Every warrant issued under section 48 shall be in the prescribed form.
-(2) Every warrant issued under section 48 shall be directed to any constable by name, or to any class of constables specified in the warrant, or generally to every constable.
-(3) Every warrant issued under section 48 shall be subject to such special conditions (if any) as the Judge may specify in the warrant.
-(4) Every warrant issued under section 48 shall contain the following particulars:
-  (a) the purpose for which it is issued, including the Tribunal offence to which the Tribunal's proceeding or investigation relates; and
-  (b) the place or thing that may be searched pursuant to the warrant; and
-  (c) a description of the things that are authorised to be seized; and
-  (d) the period for which the warrant remains in force, being a period not exceeding 7 days from the date of issue; and
-  (e) whether the warrant may be executed at any time or only during particular hours.
+[Repealed]
 
 ### 50 Powers conferred by warrant
-(1) Subject to any special conditions specified in the warrant pursuant to section 49(3), every warrant issued under section 48 shall authorise the constable executing the warrant—
-  (a) to enter and search the place or thing specified in the warrant at any time by day or night during the currency of the warrant; and
-  (b) to use such assistants as may be reasonable in the circumstances for the purpose of the entry and search; and
-  (c) to use such force as is reasonable in the circumstances for the purposes of effecting entry, and for breaking open anything in or on the place searched; and
-  (d) to search for and seize any thing referred to in section 48.
-(2) Every person called upon to assist any constable executing a warrant issued under section 48 shall have the powers prescribed in paragraphs (c) and (d) of subsection (1).
+[Repealed]
 
 ### 50A Power to stop vehicles
-If it is necessary for a constable to stop a vehicle for the purpose of exercising a search power conferred by section 50(1), sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to section 50(1).
+[Repealed]
 
 **Execution of search warrants**
 
 ### 51 Person executing warrant to produce evidence of authority
-Every constable executing any warrant issued under section 48—
-  (a) shall have that warrant with him or her; and
-  (b) shall produce it on initial entry and, if requested, at any subsequent time; and
-  (c) shall, if requested at the time of the execution of the warrant or at any subsequent time, provide a copy of the warrant within 7 days after the request is made.
+[Repealed]
 
 ### 52 Notice to owner or occupier of execution of warrant
-Every constable who executes a warrant issued under section 48 shall, not later than 7 days after the seizure of any thing pursuant to that warrant, give to the owner or occupier of the place searched, and to every other person whom the constable has reason to believe may have an interest in the thing seized, a written notice specifying—
-  (a) the date and time of the execution of the warrant; and
-  (b) the identity of the person who executed the warrant; and
-  (c) the thing or things seized under the warrant.
+[Repealed]
 
 ### 53 Certificate to Tribunal of execution of warrant
-Where—the Attorney-General shall, where the Tribunal concerned requests, give to the Tribunal a certificate specifying the matters set out in paragraphs (a) to (c) of section 52.
+Where—the Attorney-General shall, where the Tribunal concerned requests, give to the Tribunal a certificate specifying the date and time of execution of the warrant, the identity of the person who executed the warrant, and the thing or things seized under the warrant.
   (a) a warrant issued under section 48 is executed; and
   (b) any thing is seized pursuant to the warrant,—
 
@@ -467,10 +448,10 @@ Where—the Attorney-General shall, where the Tribunal concerned requests, give 
   (c) comply with any direction that the Attorney-General gives.
 (3) The Attorney-General may, by written notice, give the Commissioner of Police or designated constable a direction as to how to deal with the thing seized.
 (4) Without limiting the directions that may be given under subsection (3), the Attorney-General may require the Commissioner of Police or designated constable to send the thing seized to the Tribunal concerned.
-(5) The Attorney-General shall direct the Commissioner of Police or designated constable to return the thing seized if—unless the thing seized is the subject of a dispute as to who is entitled to it.
+(5) Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the Attorney-General shall direct the Commissioner of Police or designated constable to return the thing seized if—unless the thing seized is the subject of a dispute as to who is entitled to it.
   (a) the reason for its seizure no longer exists; or
   (b) it is decided that the thing is not to be used in evidence by the Tribunal concerned—
-(6) If no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
+(6) Subject to sections 154 and 155 of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
 
 ## Part 7 — Miscellaneous
 
@@ -518,3 +499,39 @@ The Governor-General may from time to time, by Order in Council, make regulation
 Amendment(s) incorporated in the Act(s).
 
 ## Schedule Schedule
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
