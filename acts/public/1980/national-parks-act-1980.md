@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -675,13 +675,13 @@ Any local authority may from time to time make contributions out of its general 
 
 ### 61 Seizure and forfeiture of property
 (1) Any ranger may seize any item found in the possession of any person in a park, if he has reasonable cause to believe that that person, in obtaining possession of the item, committed an offence against this Act.
-(2) Any such item shall be retained by the Director-General pending the trial of that person for the offence in respect of which it was seized.
-(3) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the information is dismissed, then,—
+(2)
+(3) If, in any case to which paragraph (a) or (b) applies, no proceedings are taken in respect of that offence within 6 months after that seizure, or in proceedings taken within that period the information is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
   (a) in any case where the item seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with under the Wildlife Act 1953:
   (b) in any case where the item seized is a protected New Zealand object, it shall be dealt with as follows:
     (i) where, under the Protected Objects Act 1975, it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
-    (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the Protected Objects Act 1975:
-  (c) in any other case, the item seized shall be returned to the person from whom it was seized.
+    (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the Protected Objects Act 1975.
+  (c)
 (4) Where in proceedings taken within that period in respect of that offence against the person from whom the property was seized, the defendant is convicted of the offence in respect of which the property was seized, then—
   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be forfeited to the Crown and shall be dealt with under the Wildlife Act 1953:
   (b) in any case where the item seized is a protected New Zealand object, it shall be dealt with as follows:
@@ -689,9 +689,9 @@ Any local authority may from time to time make contributions out of its general 
     (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the Protected Objects Act 1975:
   (c) in the case of any other item, it shall be forfeited to the Crown.
 (5) All buildings, signs, hoardings, fences, or apparatus erected in any park without the written consent of the Minister shall be forfeited to the Crown.
-(6) Any chainsaw, firearm, trap, net, or other like item found in the unlawful possession of any person in any park, and any item found in the possession of any person in any park and used in committing an offence in the park, may be seized by any ranger, and shall be retained by the Director-General and dealt with under subsection (7) or subsection (8).
-(7) Where proceedings are not taken against the person from whom the item was seized within 6 months of the seizure of the item, it shall be returned to him at the expiration of that period.
-(8) Where proceedings are taken against the person from whom the item was seized within 6 months of the seizure of the item, it shall, when the proceedings are completed, be returned to that person, unless the court, if it enters a conviction, directs that the item shall be forfeited to the Crown.
+(6) Any chainsaw, firearm, trap, net, or other like item found in the unlawful possession of any person in any park, and any item found in the possession of any person in any park and used in committing an offence in the park, may be seized by any ranger.
+(7) Subject to subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
+(8)
 (9) Every item that is forfeited to the Crown under this section shall be returned to the park or sold or otherwise disposed of in such manner as the Minister directs.
 (10) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall be dealt with under section 57 as if it were money received under this Act.
 
@@ -726,15 +726,15 @@ Every person commits an offence against this Act who—
     (i) that any offence against this Act or any bylaw made under this Act has been committed by the owner or person in possession or occupation thereof or by any other person; and
     (ii) that evidence relating to the offence will be found in the course of that search; and
   (b) in the presence of the owner or other person in possession, open and search any parcel, package, case, bag, luggage, or other container in or on that vehicle, riding or pack animal, boat, aircraft, tent, caravan, hut, or bach.
-(2) When exercising any power conferred by this section, a ranger shall produce evidence of his or her identity and authority whenever reasonably requested to do so.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply.
 
 ### 66 Stopping and searching boats outside parks
 (1) Any authorised officer who has good cause to suspect that an offence against this Act or any bylaws made under this Act has been committed on or from or in respect of any boat or by any person on any boat, may, while that boat is within the territorial sea of New Zealand, and if he has reasonable cause to believe that evidence relating to the offence is on that boat,—
   (a) at any time that is reasonable in the circumstances, stop, Board, and search the boat; and
   (b) inspect, seize, and detain any specimens of plants or animals, rock, mineral, soil, or protected New Zealand objects on Board that he has good cause to believe have been taken from a park; and
   (c) arrest without warrant any person whom he has good cause to suspect of having committed such an offence.
-(2) Any authorised officer may exercise the powers conferred on him by subsection (1) with the aid of such assistants as he considers to be necessary for the purpose.
-(3) When exercising any power conferred by subsection (1), an authorised officer shall produce evidence of his or her identity and authority whenever reasonably requested to do so.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
+(3)
 (4) Every person commits an offence against this Act who in any way prevents or attempts to prevent any authorised officer or any assistant of any authorised officer from exercising any power conferred by this section.
 (5) Section 61 shall apply with respect to anything seized under subsection (1)(b) as if it had been seized under that section.
 (6) In this section the term authorised officer means—
@@ -872,3 +872,39 @@ Nothing in this Act shall affect the Manapouri - Te Anau Development Act 1963 or
   (b) where the application has not been publicly notified in accordance with section 52 of the principal Act, be dealt with under the said section 49:
   (c) where the application is for a permit, or the application is for a lease or licence or an easement but does not require public notification under the principal Act, be dealt with under the said section 49.
 (2) Except as provided in section 17W of the Conservation Act 1987, section 49 of the principal Act (as so substituted) does not affect any lease, licence, permit, or easement granted before the commencement of that section, but that section shall apply to every renewal of such a lease, licence, permit, or easement.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
