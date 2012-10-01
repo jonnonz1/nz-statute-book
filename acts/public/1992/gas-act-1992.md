@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > Title
 
@@ -778,8 +778,9 @@ Every industry participant must co-operate fully with any investigation carried 
   (c) the date and time of entry; and
   (d) the reasons for entering.
 (5) Section 43U(c) does not authorise an authorised person to enter a home, except with the consent of an occupier or under the authority of a warrant.
-(6) An authorised person may apply for a warrant by written application on oath.
-(7) A District Court Judge, Justice, or Community Magistrate, or a court Registrar (not being a constable) who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether or not an industry participant has breached, or may breach, the gas governance regulations or rules, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
+(6) An authorised person may apply for a warrant by application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(7) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether or not an industry participant has breached, or may breach, the gas governance regulations or rules, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
+(8) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 43X Rulings Panel may make certain orders
 (1) A Rulings Panel may, after considering any complaint or matter referred to it in respect of any allegation that an industry participant has breached any gas governance regulations or rules,—
@@ -1192,7 +1193,8 @@ Every person who, being a person that owns or operates a gas supply system, brea
   (b) reasonable notice of the intention to enter shall be given unless the giving of the notice would defeat the purpose of the entry:
   (c) entry shall be made at reasonable times:
   (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
-  (e) entry into a dwellinghouse shall be authorised by a warrant from a District Court Judge, Justice, or Community Magistrate, or any court Registrar (not being a constable), by written application on oath.
+  (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(1A) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
 (2) The conditions specified in subsection (1) shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of gas.
 (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purpose in respect of which entry is required.
 (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under section 54 giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the Defence Act 1990) unless the person entering has a security clearance approved by the person in charge of the area.
@@ -1484,3 +1486,39 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 28 Transitional provision
 To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
