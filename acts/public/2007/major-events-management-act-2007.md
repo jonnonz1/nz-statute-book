@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -584,83 +584,47 @@ If a body corporate is convicted of an offence against any of sections 13, 23, 2
 ### Subpart 6 — Search warrants
 
 ### 67 Issue of warrant
-(1) Any High Court Judge, District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place, vehicle, or thing if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place, vehicle, or thing, any thing—
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant for any place, vehicle, or thing if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place, vehicle, or thing, any thing—
   (a) in respect of which an offence under this Act has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
   (c) that is evidence of the commission of an offence under this Act by any person.
-(2) The Judge, Community Magistrate, Justice, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
+(1A) Despite subsection (1), in addition to satisfying any applicable requirement in subpart 3 of Part 4 of the Search and Surveillance Act 2012,—
+  (a) an application under subsection (1) must include details of any thing that is to be searched for and covered; and
+  (b) a search warrant issued under subsection (1) must state whether it authorises any thing to be covered and, if so, contain, in reasonable detail, a description of the thing to be covered; and
+  (c) a person who executes a warrant and covers any thing must leave in a prominent position or at the place searched or give to the owner or occupier a written notice stating a list of the particulars of the covered thing, and that it may be uncovered in accordance with sections 77 and 78.
+(2) Subject to section 68 and subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 68 Powers conferred by warrant
-(1) A warrant authorises the person named in it—
-  (a) to enter and search the place, vehicle, or thing specified in the warrant on 1 occasion within 14 days of the date of issue of the warrant at a time that is reasonable in the circumstances:
-  (b) to use any assistance that is reasonable in the circumstances:
-  (c) to use any force for gaining entry and for breaking open any article or thing that is reasonable in the circumstances:
-  (d) to search for and seize any thing that the warrant authorises the person who is executing the warrant to search for and seize:
-  (e) to search for and cover any thing that the warrant authorises the person who is executing the warrant to search for and cover:
-  (f) if necessary, to take copies of documents, or extracts from documents, that the warrant authorises the person who is executing the warrant to copy:
-  (g) if necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce in usable form, information recorded or stored in a document.
-(2) The power in subsection (1) to enter and search a place, vehicle, or thing must not be exercised by an enforcement officer unless, when exercising the power, the enforcement officer is accompanied by a member of the Police.
-(3) A person assisting the person executing the warrant also has the powers referred to in subsection (1)(c) to (f).
-(4) The warrant must be executed in accordance with any reasonable conditions that may be specified in the warrant when it is issued.
+(1) Without limiting the powers conferred by any warrant issued under section 67(1), and subject to any conditions specified by the issuing officer, every warrant issued under that section authorises a person authorised to execute it to search for and cover any thing that the warrant authorises to be covered.
+(1A) In applying the provisions of Part 4 of the Search and Surveillance Act 2012, any requirement in that Part to provide details or other information in relation to a thing that is seized is to be taken to include the same requirement in relation to a thing that is covered.
+(2) The power conferred by a warrant to enter and search a place, vehicle, or thing must not be exercised by an enforcement officer unless, when exercising the power, the enforcement officer is accompanied by a member of the Police.
+(3)
+(4)
 
 ### 69 Form and content of search warrant
-A search warrant must—
-  (a) be in the prescribed form; and
-  (b) be directed to—
-    (i) a member of the Police by name; or
-    (ii) any member of the Police; or
-    (iii) an enforcement officer; and
-  (c) contain all of the following particulars:
-    (i) the place, vehicle, or thing that may be searched in accordance with the warrant; and
-    (ii) the offence for which the warrant is issued; and
-    (iii) a description of the kind of thing that is authorised to be searched for and seized; and
-    (iv) a description of the kind of thing that is authorised to be searched for and covered; and
-    (v) the period during which the warrant may be executed; and
-    (vi) any conditions specified under section 67(2).
+[Repealed]
 
 ### 70 Warrant must be produced
-A person executing a warrant must—
-  (a) have the warrant with him or her; and
-  (b) produce it on initial entry and, if requested, at any subsequent time; and
-  (c) identify himself or herself and any person assisting or accompanying him or her to the owner or occupier or person in charge of the place if that person is present; and
-  (d) produce evidence of his or her identity and the identity of any person assisting or accompanying him or her.
+[Repealed]
 
 ### 71 Other duties of person who executes warrant
-A person who executes a warrant must, when the search is completed, leave in a prominent position at the place searched or give to the owner or occupier, a written notice stating—
-  (a) the date and time when the place, vehicle, or thing was searched; and
-  (b) the name of the person who executed the warrant and any person who assisted or accompanied him or her; and
-  (c) for any seized thing, a list of its particulars and that it may be returned in accordance with sections 76 and 78; and
-  (d) for any covered thing, a list of its particulars and that it may be uncovered in accordance with sections 77 and 78.
+[Repealed]
 
 ### 72 When alternative to list of seized things may be provided
-If it is not practicable to prepare a list under section 71 after completing the search in relation to seized things, or if the owner or occupier of the place being searched consents, the person executing the warrant—
-  (a) may, instead of leaving a list, leave a notice stating that things have been seized during the search and that, within 7 days of the search, a list will be delivered, left, or sent stating what things have been seized; and
-  (b) must, within 7 days of the search,—
-    (i) deliver a list to the owner or occupier; or
-    (ii) leave a list in a prominent position at the place searched; or
-    (iii) send a list by post to the owner or occupier of the place searched.
+[Repealed]
 
 ### 73 Matters that must be stated in list of documents
-A list under section 71 must state—
-  (a) the things that have been seized; and
-  (b) the location from where they were seized; and
-  (c) the location where they are being held.
+[Repealed]
 
 ### 74 Duty to assist
-The occupier or person in charge of the place that a person authorised by a warrant enters for the purpose of searching must provide that person with all reasonable facilities and assistance in executing the warrant.
+[Repealed]
 
 ### 75 Power to inspect and take copies of documents, etc, obtained under warrant
-The chief executive of the Ministry of Economic Development, or any person authorised by the chief executive of the Ministry of Economic Development for the purpose, may inspect and take copies of any documents or extracts from them obtained under a warrant.
+[Repealed]
 
 ### 76 Disposal of things seized
-(1) In any proceedings for an offence relating to any thing seized under warrant, a court may order, either at the trial or hearing or on an application, that it be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) Any member of the Police or an enforcement officer may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a Judge for an order for its disposal.
-(3) An application under subsection (2) must be made on notice to any person known to have an interest in the thing.
-(4) On an application under subsection (2), the Judge may make any order that a court may make under subsection (1).
-(5) If proceedings for an offence relating to the thing are not brought within 3 months of seizure, any person claiming to be entitled to it may, after the expiry of that period, apply to a Judge for an order that it be delivered to him or her.
-(6) On any such application, the Judge may—
-  (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
-  (b) make any order that a court may make under subsection (1).
+[Repealed]
 
 ### 77 Uncovering or disposal of things covered
 (1) In any proceeding for an offence relating to any thing covered under warrant, a court may order, either at the trial or hearing or on an application, that it be uncovered, or that it be otherwise disposed of in any manner that the court thinks fit.
@@ -786,3 +750,39 @@ Olympic Gold
 |  | 29th |
 |  | Twenty-ninth |
 |  | XXIXth |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
