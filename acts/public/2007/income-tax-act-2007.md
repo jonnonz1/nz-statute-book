@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-08-20_
+_Consolidation as at 2012-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -8221,10 +8221,7 @@ Link with subpart DA
 [Repealed]
 
 ### DX 3 Tax credits: supplementary dividend holding companies
-When this section applies
-(1) This section applies when a supplementary dividend holding company derives a supplementary dividend in relation to which its annual total deduction is allocated as described in section LP 10 (Limitation on deductions).
-Limited deduction
-(2) Despite section BD 4 (Allocation of deductions to particular income years), the company is allowed a deduction for the expenditure for an income year only to the extent set out in section LP 10(1).
+[Repealed]
 
 ### Subpart DZ — Terminating provisions
 
