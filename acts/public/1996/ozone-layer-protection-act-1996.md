@@ -1,5 +1,5 @@
 # Ozone Layer Protection Act 1996
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to help protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer and to implement in New Zealand the Vienna Convention for the Protection of the Ozone Layer and the Montreal Protocol on Substances that Deplete the Ozone Layer
 
@@ -262,19 +262,14 @@ The powers conferred by this Part may be exercised to the extent reasonably nece
 (6) Nothing in this section shall limit or affect the privilege against self-incrimination.
 
 ### 23 Search warrants
-(1) Any District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is in or on any premises any substances or goods, or any books, documents, or other records, which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act, may issue a search warrant in the prescribed form.
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing that there is in or on any premises any substances or goods, or any books, documents, or other records, which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act, may issue a search warrant in the prescribed form.
 (2) Every search warrant shall be directed either to a constable by name or to every constable or to any officer by name, but in any of those cases, the warrant may be executed by any constable.
-(3) On issuing a warrant, the Judge, Justice, Community Magistrate, or Registrar may impose such reasonable conditions on its execution as he or she thinks fit.
-(4) Any constable or any officer may call any person to assist him or her in the execution of a search warrant.
-(5) Every warrant shall, subject to any conditions imposed under subsection (3), authorise the constable or the officer who is executing it, and any person called by that constable or officer to assist,—
-  (a) to enter the premises on one occasion within 14 days of the date of the issue of the warrant at any time that is reasonable in the circumstances; and
-  (b) to use such force, both for making entry (either by breaking open doors or otherwise) and for breaking open anything on the premises, as is reasonable in the circumstances; and
-  (c) to search for and seize any substances or goods found on the premises, and any books, documents, or other records, which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act.
-(6) Any constable or officer who executes a search warrant shall carry the warrant with him or her, and shall produce it for inspection—
-  (a) on first entering the premises, to the person appearing to be in charge of the premises; and
-  (b) whenever subsequently required to do so on the premises, by any other person appearing to be in charge of the premises or any part of the premises.
-(7) Where the occupier of the premises is not present at the time the search warrant is executed, the constable or officer shall leave in a prominent place on the premises a written statement of the time and date of the search, and of that constable's name and the address of the Police station or other office to which enquiries should be made.
-(8) Where any substances or goods or books, documents, or other records are seized in execution of a search warrant, the constable or officer executing the warrant shall leave in a prominent place on the premises or send to the occupier within 10 working days of the search a written inventory of all things so seized.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
+(4)
+(5)
+(6)
+(7)
+(8)
 (9) For the purposes of this section, premises means any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place.
 (10) No warrant issued under this section shall authorise any person executing it to enter or search any restricted area within a defence area unless that person has a security clearance approved by the person in charge of the area.
 
@@ -282,12 +277,11 @@ The powers conferred by this Part may be exercised to the extent reasonably nece
 Any Customs officer who, in the course of exercising a power conferred on that officer under the Customs and Excise Act 1996, finds any substance or goods that he or she believes on reasonable grounds have been imported in contravention of this Act, may seize that substance or goods.
 
 ### 25 Retention of property seized
-(1) Subject to any regulations made under this Act relating to return of property seized, where any constable seizes any substance or goods under this Act, it shall be retained by the Commissioner of Police pending the trial of the person in respect of the offence for which the substance or goods were seized.
-(2) Subject to any regulations made under this Act relating to return of property seized, where any officer seizes any substance or goods under this Act, it shall be retained by the New Zealand Customs Service or the Environmental Protection Authority as the case may be, pending the trial of the person in respect of the offence for which the substance or goods were seized.
+If any constable or officer seizes any substance or goods under this Act, subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the seizure of that substance or those goods.
 
-### 26 Return or forfeiture of property seized
-(1) If no proceedings are taken in respect of an offence within 12 months after the seizure of the substance or goods under this Act or, where proceedings are taken, no order of forfeiture is made under subsection (3), the substance or goods shall be returned to the person from whom they were seized.
-(2) If any person directly affected by the seizure of any substance or goods appeals and the appeal is successful, the substance or goods shall be returned to the person from whom they were seized.
+### 26 Forfeiture of property seized
+(1)
+(2)
 (3) Where any person has been convicted of an offence against paragraph (a) or paragraph (b) or paragraph (c) or paragraph (d) of section 13, the court may, if it thinks fit, order that any substance or goods in relation to which the offence was committed shall be forfeited to the Crown and disposed of as the Minister directs.
 
 ## Part 5 — Miscellaneous provisions
@@ -340,3 +334,39 @@ This Act is the Ozone Layer Protection Amendment Act 2011.
 
 ### 19 Transitional provision
 Despite this Act and section 54 of the Environmental Protection Authority Act 2011, an application for a permit or exemption made before the commencement of this section must be determined by the Minister responsible for the administration of the Ozone Layer Protection Act 1996 as if this Act and the Environmental Protection Authority Act 2011 had not been passed.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
