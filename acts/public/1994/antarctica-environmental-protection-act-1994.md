@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2012-02-25_
+_Consolidation as at 2012-10-01_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -335,17 +335,13 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
   - **thing** includes any document, plant, or animal.
 
 ### 42 Search and seizure by special inspectors with warrant
-(1) Subject to subsection (2), a District Court Judge, a duly authorised Justice, a Community Magistrate, or a Registrar (not being a constable), who, on application made by a special inspector, is satisfied that there are reasonable grounds for believing that there is on or in any area specified in the application any thing—may issue, unconditionally or subject to conditions, a warrant authorising the entry and search of the area, at any time on 1 occasion within 14 days of the issue of the warrant (or within such further time as may be specified in the warrant), and the seizure of any such thing that may be found on or in the area.
+(1) Subject to subsection (2), an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a special inspector, is satisfied that there are reasonable grounds for believing that there is on or in any area specified in the application any thing—may issue a warrant authorising the entry and search of the area, and the seizure of any such thing that may be found on or in the area.
   (a) in respect of which an offence against this Act has been or may have been committed; or
   (b) that is or may be evidence of the commission of an offence against this Act; or
   (c) that is intended to be used for the commission of an offence against this Act—
-(2) The special inspector applying for a warrant under subsection (1)—
-  (a) shall first make reasonable inquiries as to whether any other applications for such a warrant have been made in respect of the place concerned, and (if so) the following matters:
-    (i) the offence or offences alleged in respect of each application:
-    (ii) the results of each application; and
-  (b) shall disclose on the application for the warrant the results of the inquiries.
-(3) Every warrant under subsection (1) shall be directed to and exercisable only by a special inspector or a constable.
-(4) A person exercising a warrant under subsection (1) may use such force in entering and searching the area specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the area as is reasonable in the circumstances.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3)
+(4)
 
 ### 43 Search and seizure by special inspectors without warrant
 (1) Any special inspector who is satisfied that there are reasonable grounds for believing, in respect of any area,—may exercise the powers of search and seizure contained in section 42 as if a warrant had been obtained.
@@ -353,10 +349,11 @@ Articles 2 to 7 of Annex III to the Protocol shall be part of the law of New Zea
   (b) that it is not practicable for the special inspector to obtain possession of a warrant; and
   (c) that there is a real risk that an offence against this Act may be committed, or evidence of the commission of an offence may be destroyed, before any such warrant could be obtained; and
   (d) that seizure without a warrant is necessary having regard to the gravity of any such offence—
+(1A) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 2 and 3) apply.
 (2) Every special inspector who seizes any thing without warrant shall, as soon as reasonably practicable, send a written report to the Minister stating the reasons for the seizure without warrant.
 
 ### 44 Obligations of inspectors
-Every inspector exercising any power under any of sections 41 to 43—
+Every inspector exercising any power under section 41—
   (a) shall have with him or her evidence of his or her identity and warrant of appointment as an inspector; and
   (b) shall produce them to any person appearing to be in charge of the area entered—
     (i) on entering the area (if such a person is then present); and
@@ -489,3 +486,39 @@ Nothing in this Act shall derogate from the provisions of—
 
 | 5. | aWith respect to Article 7, the prohibition on Antarctic mineral resource activities contained therein shall continue unless there is in force a binding legal regime on Antarctic mineral resource activities that includes an agreed means for determining whether, and, if so, under which conditions, any such activities would be acceptable. This regime shall fully safeguard the interests of all States referred to in Article IV of the Antarctic Treaty and apply the principles thereof. Therefore, if a modification or amendment to Article 7 is proposed at a Review Conference referred to in paragraph 2 above, it shall include such a binding legal regime.bIf any such modification or amendment has not entered into force within 3 years of the date of its adoption, any Party may at any time thereafter notify to the Depositary of its withdrawal from this Protocol, and such withdrawal shall take effect 2 years after receipt of the notification by the Depositary. |
 | --- | --- |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
