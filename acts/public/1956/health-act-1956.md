@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -1751,9 +1751,7 @@ This Part does not apply to any water—
     (iii) prevent an aircraft or ship from departing.
 (3) Subsection (2) does not limit the generality of subsection (1).
 (4) A constable may do a thing authorised by subsection (1) or (2) whether or not a medical officer of health has asked him or her to do so.
-(5) Subsections (2) to (6) of section 314B, and sections 314C and 314D, of the Crimes Act 1961, with any necessary modifications, apply to the powers conferred by subsection (2)﻿(c)—
-  (a) as if they were a statutory search power within the meaning of section 314A of that Act; but
-  (b) as if a ship or taxiing aircraft were a vehicle.
+(5) Sections 128, 129, and 177 of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)﻿(c).
 (6) A constable does not incur any personal liability by reason of anything done by him or her in good faith in the exercise or intended exercise of a power conferred by this section.
 
 ### 72 Offences relating to obstructing medical officer of health or people assisting medical officer of health
@@ -3022,3 +3020,39 @@ This Act is the Human Tissue Act 2008.
 ### 95 Entities appointed under Health Act 1956 to collect and distribute blood and controlled human substances
 (1) This section applies to appointments under section 92H of the Health Act 1956 if those appointments were in force immediately before the repeal of Part 3A of that Act.
 (2) On and after that repeal, those appointments must be treated as if they were made under section 63 (appointed entities to collect and distribute blood and controlled human substances), and may be revoked, varied, or added to, under that section accordingly.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)﻿(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
