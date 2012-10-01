@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2011-02-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -69,7 +69,7 @@ In this Act, unless the context otherwise requires,—
     (c) a paper or other thing that has printed or impressed upon it, or otherwise shown upon it, 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words:
     (d) a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
   - **rating** means the description of the audience for which a film is suitable (as determined in accordance with regulations made under this Act) assigned to a film under this Act
-  - **Register** means the Register of Classification Decisions kept under section 39
+  - **register** means the register of classification decisions established and maintained under section 39
   - **restricted publication** means a publication that is classified under section 23(2)(c)
   - **search warrant** means a warrant issued under section 109 or section 109A or section 109B
   - **Secretary** means the Secretary for Internal Affairs
@@ -166,10 +166,10 @@ This Act binds the Crown.
 ### 6 Films to be labelled
 (1) Subject to sections 7 and 8, a film must not be supplied to the public or offered for supply to the public unless—
   (a) a label has been issued in respect of that film; and
-  (b) the requirements of this Act with respect to the affixing of that label are complied with.
+  (b) the requirements of this Act and of any regulations made under this Act with respect to the display of that label are complied with.
 (2) Subject to sections 7 and 8, a film must not be exhibited to the public unless—
   (a) a label has been issued in respect of that film; and
-  (b) the requirements of this Act with respect to the display and advertisement of the contents of that label are complied with.
+  (b) the requirements of this Act and of any regulations made under this Act with respect to the display and advertising of the contents of that label are complied with.
 
 ### 7 Trade screenings
 Section 6 does not apply in respect of the private screening, for commercial purposes, of any film where—
@@ -350,7 +350,7 @@ For the purposes of this Act, the classification given to a publication under se
 (4) The conditions that may be imposed pursuant to this section in respect of the public display of a publication (other than a film) are as follows:
   (a) that, when the publication is on public display, the classification given to the publication must be shown by way of a label—
     (i) issued in accordance with a direction under section 36A(2); and either
-    (ii) affixed to the publication in a manner specified by the Classification Office; or
+    (ii) displayed on the publication in a manner specified by the Classification Office; or
     (iii) brought in some other, more practical or convenient way to the attention of persons to whom the publication is displayed in a manner specified by the Classification Office:
   (b) that the publication must be publicly displayed only in a sealed package:
   (c) that where the publication is publicly displayed in a package, the package must be made of opaque material:
@@ -399,7 +399,7 @@ Where,—then, subject to section 55(3), that decision shall be of no effect in 
   (a) in any civil or criminal proceedings, a publication is referred to the Classification Office pursuant to section 29(1) or section 41(3) by a court; and
   (b) the Classification Office makes a decision with respect to that publication,—
   (c) if no application for a review of that decision is lodged pursuant to section 47 before the relevant deadline specified in section 48A, that deadline; or
-  (d) if an application for a review of that kind is lodged before that deadline, the Board has made a determination in relation to that review.
+  (d) if an application for a review of that kind is lodged before that deadline, the Board has made a decision in relation to that review.
 
 **Excisions from and alterations to films**
 
@@ -468,7 +468,7 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
   (c) the owner, maker, publisher, or authorised distributor of the publication to which the order relates:
   (d) any other person who satisfies the Chief Censor that the person is detrimentally affected by the existence of the order.
 
-**Classification decisions**
+**Notice of classification decisions**
 
 ### 38 Decisions of Classification Office
 (1) Where the Classification Office makes a decision in respect of any publication submitted to the Classification Office under section 13 or section 42, the Classification Office shall give written notice of its decision to the person who submitted the publication to the Classification Office.
@@ -480,21 +480,28 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
   (e) in the case of a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)(a), the terms of any direction given to the labelling body under section 36A(2) to issue a label in respect of that publication.
 (3) Every person shall, on request, and on payment of such fee (if any) as the Classification Office may determine, be entitled to a copy of any notice given pursuant to this section.
 
-### 39 Register of Classification Decisions
-(1) The Chief Censor shall set up and maintain a Register of Classification Decisions.
-(2) The Chief Censor shall cause to be entered into the register, in respect of each publication examined by the Classification Office or the Board under this Act,—
-  (a) the classification given to the publication by the Classification Office; and
-  (b) where that publication is examined by the Board, the classification given to the publication by the Board; and
-  (c) such other particulars as may be prescribed.
-(3) The register shall be open to inspection by the public during ordinary office hours.
+**Classification decisions made on or after 1 October 2012**
 
-### 40 Classification Office to publish list of decisions
-(1) The Classification Office shall, not later than the tenth working day of every month, produce a list, in alphabetical order, of the publications that, during the month immediately preceding the month in which the list is produced, have been examined by the Classification Office or the Board and in respect of which the Classification Office or the Board has made a decision.
-(2) Every list produced in accordance with subsection (1) shall contain—
-  (a) such particulars of the publications listed in it as may be prescribed; and
-  (b) such decisions of the Board as are required, pursuant to section 55(1)(e)(ii), to be published by the Classification Office.
-(3) The list produced in accordance with subsection (1) shall be kept by the Classification Office, and shall be open to inspection by the public during ordinary office hours.
-(4) Every person shall, on request, and on payment of such fee (if any) as the Classification Office may determine, be entitled to a copy of any list produced in accordance with subsection (1).
+### 39 Register of classification decisions made on or after 1 October 2012
+(1) The Chief Censor must establish and maintain a register of classification decisions made on or after 1 October 2012.
+(2) The register must be established and maintained in an electronic medium.
+(3) There must be entered in the register for each publication examined by the Classification Office or the Board the following information:
+  (a) the decision as to the publication's classification; and
+  (b) the date on which notice of the decision was given, under section 38(1), by the Classification Office or, under section 55(1)(c), by the Board; and
+  (c) the date of entry of the decision in the register; and
+  (d) such other information as may be prescribed in regulations made under section 149.
+(4) The information specified in subsection (3) must be entered in the register,—
+  (a) in the case of a publication examined by the Classification Office, within 5 working days after the date on which, under section 38(1), the Classification Office gives notice of its decision:
+  (b) in the case of a publication examined by the Board, within 5 working days after the date on which, under section 55(1)(c), the Board gives notice of its decision.
+(5) The Chief Censor must take all reasonable steps to ensure that the information contained in the register is available at all reasonable times for inspection by the public.
+(6) The Chief Censor must supply to any person a paper or an electronic copy of all or part of the register on request and on payment of a reasonable charge for the production of the copy.
+
+### 40 Search criteria
+(1) The register must be established and maintained so that it may be searched by reference to all or any 1 or more of the following criteria:
+  (a) the title of a publication:
+  (b) a specified date or period of entry of decisions in the register:
+  (c) a kind of classification.
+(2) The register may be established and maintained so that it may be searched by reference to any criteria additional to the criteria in subsection (1).
 
 ### 41 Decisions to be conclusive evidence
 (1) Subject to subsection (2) and to sections 42, 47, and 58, a subsisting decision of the Classification Office or of the Board in respect of any publication is conclusive evidence in any proceedings that the publication—
@@ -504,15 +511,36 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
     (i) if the availability of the publication is restricted to persons who have attained a specified age:
     (ii) if the availability of the publication is restricted to specified persons or classes of persons:
     (iii) if the publication is used for 1 or more specified purposes.
-(2) Where any person is charged with an offence against this Act or any other enactment, nothing in subsection (1) shall prevent that person from challenging any decision of the Classification Office or the Board in respect of any publication if not less than 1 year has elapsed since that decision was, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1).
+(2) Where any person is charged with an offence against this Act or any other enactment, nothing in subsection (1) shall prevent that person from challenging any decision of the Classification Office or the Board in respect of any publication if not less than 1 year has elapsed since that decision was entered in the register in accordance with section 39.
 (3) Where subsection (2) applies in respect of any decision of the Classification Office or the Board, the court shall, at the request of the person so charged, refer the decision to the Classification Office for reconsideration, or to the Board where the decision to be reconsidered is a decision of the Board.
 
 ### 42 Reconsideration of publications
-(1) Any person may, with the leave of the Chief Censor, submit any publication to the Classification Office for reconsideration of the last decision of the Classification Office or the Board in respect of that publication if not less than 3 years have elapsed since that decision was, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1), and the Classification Office may alter or confirm the previous decision.
-(2) Any owner, maker, publisher, or authorised distributor of a publication may submit that publication to the Classification Office for reconsideration of the last decision of the Classification Office or the Board in respect of that publication if not less than 3 years have elapsed since that decision was, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1), and the Classification Office may alter or confirm the previous decision.
+(1) Any person may, with the leave of the Chief Censor, submit any publication to the Classification Office for reconsideration of the last decision of the Classification Office or the Board in respect of that publication if not less than 3 years have elapsed since that decision was entered in the register in accordance with section 39, and the Classification Office may alter or confirm the previous decision.
+(2) Any owner, maker, publisher, or authorised distributor of a publication may submit that publication to the Classification Office for reconsideration of the last decision of the Classification Office or the Board in respect of that publication if not less than 3 years have elapsed since that decision was entered in the register in accordance with section 39, and the Classification Office may alter or confirm the previous decision.
 (3) Notwithstanding that the period specified in subsection (1) or subsection (2) has not expired, any person may, with the leave of the Chief Censor, submit any publication to the Classification Office for reconsideration of any decision made in respect of it within the period referred to in those subsections if—
   (a) in the case of a film, the film has been substantially altered since that decision; or
   (b) the Chief Censor is satisfied that there are special circumstances justifying reconsideration of the decision.
+
+**Classification decisions made before 1 October 2012**
+
+### 42A Register of classification decisions made before 1 October 2012
+(1) The Chief Censor must—
+  (a) continue to maintain, in any form the Chief Censor considers appropriate, the register that was established under section 39 prior to the repeal and substitution of that section by section 10 of the Films, Videos, and Publications Classification Amendment Act 2012; and
+  (b) continue to make that register open to inspection by the public during ordinary office hours.
+(2) Nothing in this section prevents the Chief Censor combining—
+  (a) the register that continues to be maintained under subsection (1); and
+  (b) the register that is established and maintained under section 39 (as substituted by section 10 of the Films, Videos, and Publications Classification Amendment Act 2012).
+(3) If the Chief Censor combines the registers referred to in subsection (2), the search criteria in section 40 do not apply to the register that continues to be maintained under subsection (1).
+
+### 42B Classification Office to publish list of decisions made before 1 October 2012
+(1) The Classification Office must continue to—
+  (a) keep the lists produced in accordance with section 40 prior to the repeal of that section by section 10 of the Films, Videos, and Publications Classification Amendment Act 2012; and
+  (b) make those lists open to inspection by the public during ordinary office hours; and
+  (c) supply to any person on request, and on payment of a fee (if any), a copy of any such list.
+(2) Any fee charged under subsection (1)(c) must be no more than is reasonably required to recover the cost of supplying the list.
+
+### 42C Saving in respect of decisions made before 1 October 2012
+The provisions of this Act and the Films, Videos, and Publications Classification Regulations 1994 continue to apply to decisions made by the Classification Office or Board before 1 October 2012 as if the Films, Videos, and Publications Classification Amendment Act 2012 had not been enacted.
 
 **Film posters**
 
@@ -559,7 +587,7 @@ In any prosecution for an offence against this Act, the burden of proving that t
 (3) Every application for the leave of the Secretary under subsection (2)(e) must—
   (a) be made in the prescribed manner; and
   (b) be lodged with the Secretary before the deadline specified in subsection (3A).
-(3A) The deadline referred to in subsection (3)(b) is the end of ordinary office hours on the 20th working day after the day on which the relevant decision of the Classification Office is, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1).
+(3A) The deadline referred to in subsection (3)(b) is the end of ordinary office hours on the 20th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39.
 (4) For the purposes of this section, a decision of the Classification Office under section 27 to impose any condition on the public display of any restricted publication, or any advertising poster or film poster relating to a restricted publication, or both, or a refusal or failure to impose any such condition, or any particular such condition, under that section, shall be deemed to be a decision with respect to the classification of that publication.
 
 ### 48 Applications for review
@@ -573,8 +601,8 @@ In any prosecution for an offence against this Act, the burden of proving that t
 The deadline referred to in section 48(1)(b) is,—
   (a) if the person concerned requires the leave of the Secretary under section 47(2)(e) in order to seek the review, the end of ordinary office hours on whichever is the later of the following:
     (i) the fifth working day after the day on which that leave is granted by the Secretary; or
-    (ii) the 30th working day after the day on which the relevant decision of the Classification Office is, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1); and
-  (b) in every other case, the end of ordinary office hours on the 30th working day after the day on which the relevant decision of the Classification Office is, in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1).
+    (ii) the 30th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39; and
+  (b) in every other case, the end of ordinary office hours on the 30th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39.
 
 **Interim restrictions on review**
 
@@ -633,11 +661,12 @@ The deadline referred to in section 48(1)(b) is,—
     (iii) if the review is in respect of a publication referred to the Classification Office by a court pursuant to section 29 or section 41(3), to that court; and
   (d) where the review is in respect of a film submitted to the Classification Office pursuant to section 12, order the Classification Office to direct the labelling body to issue a label in respect of that film pursuant to section 36; and
   (da) where the review is in respect of a publication (other than a film) and the Board imposes a condition pursuant to section 27(4)(a), order the Classification Office to direct the labelling body, in accordance with section 36A(2), to issue a label in respect of the publication; and
-  (e) direct the Classification Office—
-    (i) to enter the Board's decision in the register; and
-    (ii) to publish that decision in the next list produced, in accordance with section 40, after the end of the month in which that direction is given.
+  (e) direct the Classification Office to enter the Board's decision in the register.
 (2) Notwithstanding anything in subsection (1), on any review of a publication, the Board shall have the same powers as are conferred on the Classification Office by this Act (other than the powers conferred by section 37).
-(3) Where the Board makes any determination in relation to any publication submitted to it under section 47, the decision of the Classification Office in relation to that publication (including any conditions imposed under section 27), and the classification given to that publication by the Classification Office, shall, for the purposes of this Act, be deemed to be cancelled.
+(2A) Before giving written notice of its decision under subsection (1)(c), the Board may inform the persons specified in that paragraph of—
+  (a) the classification given to the publication under subsection (1)(a); and
+  (b) any conditions imposed under subsection (1)(b).
+(3) Where the Board makes any decision in relation to any publication submitted to it under section 47, the decision of the Classification Office in relation to that publication (including any conditions imposed under section 27), and the classification given to that publication by the Classification Office, shall, for the purposes of this Act, be deemed to be cancelled.
 
 ### 56 Reconsideration of decisions referred under section 41(3)
 Where, under section 41(3), a court refers to the Board for reconsideration any decision of the Board in respect of any publication, the Board shall carry out that reconsideration as if it were a review of that publication under section 52, and the provisions of sections 53 to 55, so far as they are applicable and with the necessary modifications, shall apply with respect to any such reconsideration.
@@ -650,26 +679,27 @@ The Board may, on its own motion, state a case for the opinion of the High Court
 **Appeal to High Court**
 
 ### 58 Appeal against decision of Board on question of law
-(1) Where the Board makes any determination in respect of any publication referred to it under section 41(3), or submitted to it under section 47, any of the persons specified in subsection (2) who are dissatisfied with that determination as being erroneous in point of law may appeal to the High Court on that question of law.
+(1) Where the Board makes any decision in respect of any publication referred to it under section 41(3), or submitted to it under section 47, any of the persons specified in subsection (2) who are dissatisfied with that decision as being erroneous in point of law may appeal to the High Court on that question of law.
 (2) The following persons may appeal under subsection (1):
-  (a) the person who sought the review, by the Board, of the publication in respect of which the determination was made:
-  (b) where the determination was made in respect of any publication referred to the Board under section 41(3), any party to the proceeding in respect of which that referral was made:
+  (a) the person who sought the review, by the Board, of the publication in respect of which the decision was made:
+  (b) where the decision was made in respect of any publication referred to the Board under section 41(3), any party to the proceeding in respect of which that referral was made:
   (c) where the review by the Board was sought pursuant to paragraph (c) of section 47(2), any party to the proceeding referred to in that paragraph:
-  (d) the owner, maker, publisher, or authorised distributor of the publication in respect of which the determination was made.
+  (d) the owner, maker, publisher, or authorised distributor of the publication in respect of which the decision was made.
 (3) Subject to this Part, every appeal under this section shall be dealt with in accordance with rules of court.
 
 ### 59 Notice of appeal
-(1) Every appeal under section 58 shall be instituted by the appellant lodging a notice of appeal, within 20 working days after the date of the determination, with—
+(1) Every appeal under section 58 shall be instituted by the appellant lodging a notice of appeal, within 20 working days after the date the decision is given, with—
   (a) the Registrar of the High Court at Wellington; and
   (b) the Secretary.
-(2) Subject to section 60, either before or immediately after the lodging of the notice of appeal the appellant shall serve a copy of the notice of appeal, either personally or by post, on every other person who would have been entitled to appeal under section 58 against the determination in respect of which the appeal has been brought.
+(1A) For the purpose of subsection (1), a decision is given when the Board gives written notice, under section 55(1)(c), of its decision and of the reasons for its decision.
+(2) Subject to section 60, either before or immediately after the lodging of the notice of appeal the appellant shall serve a copy of the notice of appeal, either personally or by post, on every other person who would have been entitled to appeal under section 58 against the decision in respect of which the appeal has been brought.
 (3) Service under subsection (2), if by post, shall be by registered letter and shall, for the purposes of this section, be deemed in the absence of evidence to the contrary to be effected at the time when the letter would be delivered in the ordinary course of post.
 (4) Every notice of appeal shall specify—
-  (a) the determination or the part of the determination appealed from; and
+  (a) the decision or the part of the decision appealed from; and
   (b) the error of law alleged by the appellant; and
   (c) the question of law to be resolved; and
   (d) the grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
-(5) The Secretary shall, as soon as practicable after receiving a notice of appeal, send a copy of the whole of the determination appealed against to the Registrar of the High Court at Wellington.
+(5) The Secretary shall, as soon as practicable after receiving a notice of appeal, send a copy of the whole of the decision appealed against to the Registrar of the High Court at Wellington.
 
 ### 60 Court may dispense with service
 Where any person cannot be served with a notice of appeal in accordance with section 59(2), the High Court or a Judge of that court may, on such terms and conditions as the court or Judge thinks fit, dispense with service on that person.
@@ -681,14 +711,14 @@ Where any person cannot be served with a notice of appeal in accordance with sec
   (b) to receive a notice of the date set down for the hearing of the appeal.
 
 ### 62 Appeal in respect of additional points of law
-(1) Where any party to an appeal under section 58 other than the appellant wishes to contend at the hearing of the appeal that the determination appealed from is erroneous on a point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court at Wellington.
+(1) Where any party to an appeal under section 58 other than the appellant wishes to contend at the hearing of the appeal that the decision appealed from is erroneous on a point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court at Wellington.
 (2) The provisions of section 58, subsections (2) to (4) of section 59, section 60, and sections 63 to 66 shall apply, with any necessary modifications, to any notice lodged under this section as if it were a notice of appeal.
 
 ### 63 Orders relating to determination of appeals
 (1) Subject to subsections (2) and (3), the High Court may, on its own motion or on the application of any party to the appeal, make all or any of the following orders:
   (a) an order directing the Secretary to lodge with the Registrar of the High Court at Wellington any document or other written material or any exhibit in the possession or custody of the Secretary:
-  (b) an order directing the Secretary to lodge with the Registrar a report recording, in respect of any matter or issue that the court may specify, any of the findings of fact of the Board that are not set out, or fully set out, in its determination:
-  (c) an order directing the Secretary to lodge with the Registrar a report setting out, in respect of any matter or issue that the court may specify, any reasons or considerations of the Board to which the Board had regard but that are not set out in its determination.
+  (b) an order directing the Secretary to lodge with the Registrar a report recording, in respect of any matter or issue that the court may specify, any of the findings of fact of the Board that are not set out, or fully set out, in its decision:
+  (c) an order directing the Secretary to lodge with the Registrar a report setting out, in respect of any matter or issue that the court may specify, any reasons or considerations of the Board to which the Board had regard but that are not set out in its decision.
 (2) An application under subsection (1) shall be made,—
   (a) in the case of the appellant, within 20 working days after the date of the lodging of the notice of appeal; or
   (b) in the case of any other party to the appeal, within 20 working days after the date of the service on that party of a copy of the notice of appeal.
@@ -1010,13 +1040,13 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
 (2) Nothing in subsection (1) applies to any publication that is in the possession of any person in circumstances in which, by virtue of subsection (4) or subsection (5) of section 131, the possession of that publication by that person is not an offence against subsection (1) of that section.
 
 ### 109 Search warrants for offences against specified sections (other than sections 126 and 131A)
-A District Court Judge, Justice, or Community Magistrate, or a Registrar (not being a constable) may, on an application in writing made on oath, issue a search warrant if satisfied that there are reasonable grounds for believing that there is in or on any place or thing—
+An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied that there are reasonable grounds for believing that there is in or on any place or thing—
   (a) any objectionable publication that there are reasonable grounds to believe is being kept for the purpose of being so dealt with as to constitute an offence against section 123 or section 124 or section 127 or section 129; or
   (b) any thing that there are reasonable grounds to believe will be evidence of the commission of an offence of that kind; or
   (c) any thing that there are reasonable grounds to believe is intended to be used for the purpose of committing an offence of that kind.
 
 ### 109A Search warrants from District Court Judges for offences against sections 126 and 131A
-(1) A District Court Judge may, on an application in writing made on oath, issue a search warrant if satisfied—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied—
   (a) that there are reasonable grounds for believing that there is in or on any place or thing—
     (i) a publication that there are reasonable grounds to believe is being so dealt with as to constitute an offence against section 126 (offences involving knowledge in relation to restricted publications); or
     (ii) any thing that there are reasonable grounds to believe will be evidence of the commission of an offence against section 126; or
@@ -1029,7 +1059,7 @@ A District Court Judge, Justice, or Community Magistrate, or a Registrar (not be
   (c) any other matter the Judge considers relevant.
 
 ### 109B Search warrants from Registrars, etc, for offences against section 126 or section 131A
-A Justice, Community Magistrate, or Registrar (not being a constable) may, on an application in writing made on oath, issue a search warrant if satisfied—
+An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied—
   (a) that, in the particular case,—
     (i) that all reasonable efforts have been made to obtain a warrant under section 109A; but
     (ii) that no District Court Judge is available to deal with an application under section 109A; and
@@ -1043,59 +1073,24 @@ A Justice, Community Magistrate, or Registrar (not being a constable) may, on an
 ### 109C Who may apply for search warrants
 An application under section 109 or section 109A or section 109B may be made by an Inspector or a constable.
 
-### 110 Form and content of search warrant
-(1) Every search warrant shall be in the prescribed form.
-(2) Every search warrant shall be directed generally to every Inspector and every constable.
-(3) Every search warrant shall be subject to such special conditions (if any) as the person issuing the warrant may specify in the warrant.
-(4) Every search warrant shall contain the following particulars:
-  (a) the place or thing that may be searched pursuant to the warrant:
-  (b) the offence or offences in respect of which the warrant is issued:
-  (c) a description of the kind of property that is authorised to be seized:
-  (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified pursuant to subsection (3).
+### 110 Application of Part 4 of Search and Surveillance Act 2012
+(1) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply in respect of any search warrant issued under section 109, 109A, or 109B.
+(2) This section is subject to sections 115 to 117.
 
 ### 111 Powers conferred by warrant
-(1) A search warrant may be executed by any Inspector or any constable.
-(2) Subject to any special conditions specified in the warrant pursuant to section 110(3), every search warrant shall authorise the person executing the warrant—
-  (a) to enter and search the place or thing specified in the warrant at any time by day or night during the currency of the warrant; and
-  (b) to use such assistants as may be reasonable in the circumstances for the purpose of the entry and search; and
-  (c) to use such force as is reasonable in the circumstances for the purpose of effecting entry, and for breaking open anything in or on the place searched; and
-  (d) to search for and seize anything referred to—
-    (i) in section 109(a) to (c), if the warrant is issued under section 109; or
-    (ii) in section 109A(1)(a)(i) or (ii), if the warrant is issued under section 109A in respect of an offence against section 126; or
-    (iii) in section 109A(1)(a)(iii) or (iv), if the warrant is issued under section 109A in respect of an offence against section 131A; or
-    (iv) in section 109B(b)(i) or (ii), if the warrant is issued under section 109B in respect of an offence against section 126; or
-    (v) in section 109B(b)(iii) or (iv), if the warrant is issued under section 109B in respect of an offence against section 131A.
-(3) Every person called upon to assist any person executing a search warrant shall have the powers described in paragraphs (c) and (d) of subsection (2).
-(4) The power to enter and search any place or thing pursuant to a search warrant may be exercised on 1 occasion only.
+[Repealed]
 
 ### 111A Power to stop vehicles
-If it is necessary for a constable to stop a vehicle for the purpose of exercising a search power conferred by section 111(2), sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to section 111(2).
+[Repealed]
 
 ### 112 Person executing warrant to produce evidence of authority
-Every person executing any search warrant—
-  (a) shall have that warrant with him or her; and
-  (b) shall produce it on initial entry and, if requested, at any subsequent time; and
-  (c) shall identify himself or herself to any person in or on the place or thing to be searched; and
-  (d) if he or she is a constable who is not in uniform, shall produce evidence that he or she is a constable; and
-  (e) if he or she is an Inspector (not being a constable), shall produce the warrant issued to that person under section 105; and
-  (f) shall, if requested at the time of the execution of the warrant or at any subsequent time, provide a copy of the warrant within 7 days after the request is made.
+[Repealed]
 
 ### 113 Notice of execution of warrant
-(1) Where any Inspector or any constable enters any place or thing under the authority of a search warrant and is unable, despite reasonable efforts, to find in or on that place or thing the owner or occupier of the place or thing, that Inspector or constable shall, after the entry and before leaving the place or thing, leave in or on the place or thing a written notice addressed to the owner or occupier, which notice shall state—
-  (a) the date and time of the entry; and
-  (b) the Inspector or constable who was in charge of the entry; and
-  (c) the authority under which entry was made; and
-  (d) where any inquiries regarding the entry may be made.
-(2) Every Inspector and every constable who executes a search warrant shall, not later than 7 days after the seizure of any property pursuant to that warrant, give to the owner or occupier of the place or thing searched, and to every other person whom the Inspector or constable has reason to believe may have an interest in the property seized, a written notice specifying—
-  (a) the date and time of the execution of the warrant; and
-  (b) the identity of the person who executed the warrant; and
-  (c) the property seized under the warrant; and
-  (d) the place or thing from which the property was seized; and
-  (e) the place where the property is held.
+[Repealed]
 
 ### 114 Custody of property seized
-Where property is seized under section 108 or pursuant to a search warrant, the property shall be kept in the custody of an Inspector or a constable, except while it is being used in evidence or is in the custody of any body or person for the purposes of any proceedings under this Act, until it is dealt with in accordance with sections 115 to 118 or section 136.
+[Repealed]
 
 ### 115 Summons to be issued
 (1) Subject to section 136(2), where any publication is seized under section 108, a summons shall be issued calling on the person from whom it was seized to appear before a District Court presided over by a District Court Judge to show cause why the publication should not be destroyed.
@@ -1113,15 +1108,7 @@ Where property is seized under section 108 or pursuant to a search warrant, the 
 (2) Nothing in subsection (1) confers on any person any right to appeal to the High Court, other than under section 58, against any decision of the Classification Office or the Board in respect of any publication.
 
 ### 118 Disposal of things seized
-(1) This section shall apply with respect to anything seized under a search warrant, except where that thing is dealt with in accordance with sections 115 to 117.
-(2) In any proceedings for an offence relating to anything seized under a search warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in such manner as the court thinks fit.
-(3) Any Inspector or any constable may at any time, unless an order has been made under subsection (2), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal. On any such application, the District Court Judge may make any order that a court may make under subsection (2).
-(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her. On any such application, the District Court Judge may adjourn the application, on such terms as he or she thinks fit, for proceedings to be brought, or may make any order that a court may make under subsection (2).
-(5) Where any person is convicted in any proceedings for an offence relating to anything in respect of which a search warrant has been issued under section 109 or section 109A or section 109B enabling seizure, and any order is made under this section, the operation of the order shall be suspended—
-  (a) in any case until the expiration of the time prescribed by the Summary Proceedings Act 1957 or, as the case may require, the time prescribed by the Crimes Act 1961 for the filing of notice of appeal or an application for leave to appeal; and
-  (b) where notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
-  (c) where application for leave to appeal is filed within the time so prescribed, until the application is determined and, where leave to appeal is granted, until the determination of the appeal.
-(6) Where the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
+[Repealed]
 
 ### 118A Application of Customs and Excise Act 1996
 (1) Sections 137, 139, 140, 143, 144, 148, 149B, 152, and 165 to 167 of the Customs and Excise Act 1996 apply to offences against this Act concerning the importation or exportation of objectionable publications to the same extent as those sections apply to offences against section 209 of the Customs and Excise Act 1996 concerning the importation or exportation of objectionable publications.
@@ -1142,13 +1129,13 @@ No action shall lie against any person for any act done in good faith in pursuan
 ### 120 Non-compliance with labelling requirements
 (1) Every person commits an offence against this Act who supplies to the public or offers for supply to the public—
   (a) any film in respect of which no label has been issued under this Act; or
-  (b) any film that, in contravention of regulations made under this Act, does not have affixed either to it or to any cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, the label issued under this Act in respect of that film.
+  (b) any film that, in contravention of regulations made under this Act, does not have displayed either on it or on any cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, the label issued under this Act in respect of that film.
 (2) Every person commits an offence against this Act who—
   (a) exhibits to the public any film in respect of which no label has been issued under this Act; or
   (b) in contravention of regulations made under this Act,—
     (i) fails to display, in the prescribed form and manner, the contents of any label issued under this Act in respect of a film; or
     (ii) fails to advertise, in the prescribed form and manner, the contents of any such label.
-(3) Every person commits an offence against this Act who supplies to the public or offers for supply to the public any film at a time when that film, or the cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, has affixed to it, otherwise than in accordance with regulations made under this Act, the label issued under this Act in respect of that film.
+(3) Every person commits an offence against this Act who supplies to the public or offers for supply to the public any film at a time when that film, or the cassette, case, or other container in or on which that film is supplied to the public or offered for supply to the public, has displayed on it, otherwise than in accordance with regulations made under this Act, the label issued under this Act in respect of that film.
 (4) Nothing in this section shall apply in relation to the public supply or public exhibition of a film that is exempted by section 7 or section 8 from the requirements of section 6.
 (5) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable to a fine not exceeding,—
   (a) in the case of an individual, $3,000:
@@ -1321,7 +1308,7 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 A person may be convicted of exhibiting an objectionable publication if what is exhibited is in all the circumstances objectionable, notwithstanding that it is a part only of a publication that is not objectionable or is a restricted publication.
 
 ### 132A Aggravating factor to be taken into account in sentencing, etc, for certain publications offences
-(1) This section applies to an offence (the offence) if it is committed after the commencement and it is an offence against—
+(1) This section applies to an offence (the offence) if it is committed after the commencement of this section and it is an offence against—
   (a) section 124(1); or
   (b) section 127(4); or
   (c) section 129(3); or
@@ -1473,7 +1460,7 @@ Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any 
 (5) Every person commits an offence and is liable to a fine not exceeding $500 who acts in contravention of, or fails to comply with, any provision of this section.
 
 ### 148 Fees charged by Classification Office to be reasonable
-Any fee charged under section 15(6) or section 38(3) or section 40(4) for a copy of any document shall be no more than is reasonably required to recover the costs of making that copy.
+Any fee charged under section 15(6) or section 38(3) or section 39(6) for a copy of any document shall be no more than is reasonably required to recover the costs of supplying that copy.
 
 **Regulations**
 
@@ -1493,14 +1480,14 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (i) an item on which has been classified under this Act as a restricted publication; and
     (ii) all other material on which is material to which the labelling body would, in accordance with regulations made under this Act, be permitted to assign a rating:
   (i) prescribing the form and content of labels to be used for the purposes of this Act, and regulating—
-    (i) the affixing of such labels to films that are supplied to the public or offered for supply to the public, and to the cassettes, cases, or other containers in or on which such films are kept:
+    (i) the display of such labels on films that are supplied to the public or offered for supply to the public, and on the cassettes, cases, or other containers in or on which such films are kept:
     (ii) the public display or advertising, in respect of films exhibited to the public, of the content of such labels:
-    (iii) the affixing of such labels to, or the display of such labels on, or the inclusion of the content of such labels in, any posters or other advertising material used or intended for use in relation to the advertising of any film to the public:
+    (iii) the display of such labels on, or the inclusion of the content of such labels in, any posters or other advertising material used or intended for use in relation to the advertising of any film to the public:
   (j) requiring the display, on premises where films are supplied to the public, offered for supply to the public, or exhibited to the public, of posters and advertising material explaining the ratings and classifications assigned to films under this Act:
   (ja) requiring the display, on premises where films to which regulations made under paragraph (nd) apply are supplied to the public or offered for supply to the public, of posters and advertising material explaining the ratings and classifications under the Video Recordings Act 1987, and their equivalent ratings and classifications under this Act:
   (k) prescribing the procedures relating to the examination and approval of film posters by the labelling body and the Classification Office:
-  (l) prescribing the form and content of the register to be kept pursuant to section 39:
-  (m) prescribing the form and content of the lists to be produced pursuant to section 40:
+  (l) prescribing information to be included in the register of classification decisions:
+  (m)
   (n) providing for the dissemination, by the labelling body, of notice of the rating and description (if any) assigned by it to any film, and for the labelling body to charge a reasonable fee for supplying to any person a copy of any such notice:
   (na) prescribing, in relation to—their equivalent ratings and classifications under this Act:
     (i) ratings and classifications under the Video Recordings Act 1987; and
@@ -1531,7 +1518,7 @@ In sections 152 to 159, unless the context otherwise requires,—
 (1) This section applies to every decision made under the Indecent Publications Act 1963 by the Tribunal or the High Court upon any book or sound recording and that, immediately before the commencement of this section, is (subject to sections 18(2) and 20 of that Act) conclusive evidence in any proceedings (other than proceedings under section 19 of that Act) of the classification or character of that book or sound recording.
 (2) Subject to this section and to section 155, every decision to which this section applies shall be deemed for the purposes of sections 41 and 42 to be a decision made under section 23 by the Classification Office on the date of the making of that decision under the Indecent Publications Act 1963, and for those purposes the book or sound recording to which the decision relates shall be deemed to have the classification that corresponds as near as may be to the classification or character assigned to it by that decision under that Act.
 (3) For the purposes of section 39, where notice of a decision to which this section applies has been published in the Gazette, that decision shall be deemed to have been entered in, and to form part of, the register.
-(4) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1) as they appear in each of those provisions, there were substituted in each case the word made.
+(4) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words entered in the register as they appear in each of those provisions, there were substituted in each case the word made.
 (5) Subject to section 155, where, in respect of a decision to which this section applies (being a decision of the Tribunal), the period of 28 days referred to in section 19(1) of the Indecent Publications Act 1963 within which any party to the proceedings before the Tribunal is entitled to appeal to the High Court against that decision has not, at the date of the commencement of this section, expired, and no such appeal has been lodged before that date,—
   (a) there shall be no right of appeal under that Act against that decision; but
   (b) any party to those proceedings may, within 30 working days after that date, apply under section 47 to have the book or sound recording to which the decision relates reviewed by the Board, and the provisions of this Act shall apply accordingly with all necessary modifications.
@@ -1605,7 +1592,7 @@ In sections 161 to 166, unless the context otherwise requires,—
   (b) if the decision is that a video recording is a restricted video recording within the meaning of the Video Recordings Act 1987, be deemed to be a decision that the video recording is a restricted video recording under this Act, with such classification as is determined in accordance with regulations made under this Act:
   (c) if the decision is that a video recording is indecent, be deemed to be a decision that the video recording is objectionable.
 (4) For the purposes of section 39, every decision to which this section applies shall be deemed to have been entered in, and to form part of, the register.
-(5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1) as they appear in each of those provisions, there were substituted in each case the word made.
+(5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words entered in the register as they appear in each of those provisions, there were substituted in each case the word made.
 (6) Subject to section 164, where, in respect of a decision to which this section applies (being a decision of the Authority), the period of 30 days prescribed by section 37(1)(b) of the Video Recordings Act 1987 within which an application may be made under section 36 of that Act to the Video Recordings Board of Review in respect of the video recording has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
   (a) there shall be no right to lodge an application under that section in respect of that video recording; but
   (b) any person who would have been entitled to lodge an application under that section in respect of that video recording may, within 30 working days after that date, apply under section 47 to have the video recording to which the decision relates reviewed by the Board, and the provisions of this Act shall apply accordingly with all necessary modifications.
@@ -1664,7 +1651,7 @@ In sections 168 to 170, unless the context otherwise requires,—
   (a) if the decision approves a film for exhibition, be deemed to be a decision according the film such classification as is determined in accordance with regulations made under this Act:
   (b) if the decision refuses to approve a film for exhibition, be deemed to be a decision that the film is objectionable.
 (4) For the purposes of section 39, every decision to which this section applies shall be deemed to have been entered in, and to form part of, the register.
-(5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words in accordance with section 40(3), first made open to inspection by the public in a list produced in accordance with section 40(1) as they appear in each of those provisions, there were substituted in each case the word made.
+(5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words entered in the register as they appear in each of those provisions, there were substituted in each case the word made.
 (6) Where, in respect of a decision to which this section applies (being a decision of the Chief Censor), the period of 30 days prescribed by section 31(1)(a) of the Films Act 1983 within which an application may be made under section 30 of that Act to the Films Censorship Board of Review in respect of the film has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
   (a) there shall be no right to lodge an application under that section in respect of that film; but
   (b) any person who would have been entitled to lodge an application under that section in respect of that film may, within 30 working days after that date, apply under section 47 to have the film to which the decision relates reviewed by the Board, and the provisions of this Act shall apply accordingly with all necessary modifications.
@@ -1831,3 +1818,39 @@ The income of the Classification Office shall be exempt from income tax.
 ### 18 Applications for review
 ((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) The amendments in this section and section 19 apply only in respect of a decision of the Classification Office made on or after the commencement of this section.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
