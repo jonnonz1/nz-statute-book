@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -559,64 +559,35 @@ Nothing in this Part limits or affects any other enactment that requires any fin
 **Search warrants**
 
 ### 44 Search warrants
-Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
   (a) any thing upon or in respect of which any offence against this Act or any regulations made under this Act has been, or is suspected of having been, committed; or
   (b) any thing which there are reasonable grounds for believing will be evidence as to the commission of any such offence; or
   (c) any thing which there are reasonable grounds for believing is intended to be used for the purpose of committing any such offence—
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 45 Form and content of search warrant
-(1) Every search warrant shall be in the prescribed form.
-(2) Every search warrant shall be directed to any constable by name, or to any class of constables specified in the warrant, or generally to every constable.
-(3) Every search warrant shall be subject to such special conditions (if any) as the person issuing the warrant may specify in the warrant.
-(4) Every search warrant shall contain the following particulars:
-  (a) the place or thing that may be searched pursuant to the warrant:
-  (b) the offence or offences in respect of which the warrant is issued:
-  (c) a description of the articles or things that are authorised to be seized:
-  (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified pursuant to subsection (3).
+[Repealed]
 
 ### 46 Powers conferred by warrant
-(1) Subject to any special conditions specified in the warrant pursuant to section 45(3), every search warrant shall authorise the constable executing the warrant,—
-  (a) to enter and search the place or thing specified in the warrant at any time by day or night during the currency of the warrant; and
-  (b) to use such assistants as may be reasonable in the circumstances for the purpose of the entry and search; and
-  (c) to use such force as is reasonable in the circumstances for the purposes of effecting entry, and for breaking open anything in or on the place searched; and
-  (d) to search for and seize any thing referred to in any of paragraphs (a) to (c) of section 44; and
-  (e) in any case where any thing referred to in any of those paragraphs is a document,—
-    (i) to take copies of the document, or extracts from the document:
-    (ii) to require any person who has the document in his or her possession or under his or her control to reproduce, or to assist the person executing the warrant to reproduce, in usable form, any information recorded or stored in the document.
-(2) Every person called upon to assist any constable executing a search warrant shall have the powers described in paragraphs (c) and (d) of subsection (1).
+[Repealed]
 
 ### 46A Power to stop vehicles
-If it is necessary for a constable to stop a vehicle for the purpose of exercising a search power conferred by section 46(1), sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to section 46(1).
+[Repealed]
 
 ### 47 Person executing warrant to produce evidence of authority
-Every constable executing any search warrant—
-  (a) shall have that warrant with him or her; and
-  (b) shall produce it on initial entry and, if requested, at any subsequent time; and
-  (c) shall, if requested at the time of the execution of the warrant or at any subsequent time, provide a copy of the warrant within 7 days after the request is made.
+[Repealed]
 
 ### 48 Notice of execution of warrant
-Every constable who executes a search warrant shall, not later than 7 days after the seizure of any thing pursuant to that warrant, give to the owner or occupier of the place or thing searched, and to every other person whom the constable has reason to believe may have an interest in the thing seized, a written notice specifying—
-  (a) the date and time of the execution of the warrant; and
-  (b) the identity of the person who executed the warrant; and
-  (c) the thing seized under the warrant.
+[Repealed]
 
 ### 49 Custody of property seized
-Where property is seized pursuant to a search warrant, the property shall be kept in the custody of a constable, except while it is being used in evidence or is in the custody of any court, until it is dealt with in accordance with another provision of this Act.
+[Repealed]
 
 ### 50 Procedure where certain documents seized from lawyers' offices
-Section 198A of the Summary Proceedings Act 1957, so far as applicable and with all necessary modifications, shall apply in respect of the seizure of any documents under any search warrant as if the search warrant had been issued under section 198 of that Act.
+[Repealed]
 
 ### 51 Disposal of things seized
-(1) This section shall apply with respect to anything seized under a search warrant.
-(2) In any proceedings for an offence relating to anything seized under a search warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in such manner as the court thinks fit.
-(3) Any constable may at any time, unless an order has been made under subsection (2), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal. On any such application, the District Court Judge may make any order that a court may make under subsection (2).
-(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her. On any such application, the District Court Judge may adjourn the application, on such terms as he or she thinks fit, for proceedings to be brought, or may make any order that a court may make under subsection (2).
-(5) Where any person is convicted in any proceedings for an offence relating to anything in respect of which a search warrant has been issued enabling seizure, and any order is made under this section, the operation of the order shall be suspended,—
-  (a) in any case until the expiration of the time prescribed by the Summary Proceedings Act 1957 or, as the case may require, the time prescribed by the Crimes Act 1961 for the filing of notice of appeal or an application for leave to appeal; and
-  (b) where notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
-  (c) where application for leave to appeal is filed within the time so prescribed, until the application is determined and, where leave to appeal is granted, until the determination of the appeal.
-(6) Where the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
+[Repealed]
 
 **Offences**
 
@@ -672,3 +643,39 @@ The Minister of Justice is not required to comply with section 56(2) in respect 
 Amendment(s) incorporated in the Act(s).
 
 ## Schedule  — Details to be included in suspicious transaction reports
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
