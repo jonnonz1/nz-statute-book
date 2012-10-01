@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -222,9 +222,11 @@ All money received and retained by a territorial authority under this Act shall 
   (a) to inspect any dog on the land or premises; and
   (b) if authorised under any other provision of this Act, to seize or take custody of any dog on the land or premises.
 (3) Nothing in this section shall authorise any dog control officer to enter any dwellinghouse unless—
-  (a) the entry is authorised by a warrant given by a District Court Judge on written application on oath; and
+  (a) the entry is authorised by a warrant given by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application by a dog control officer in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012; and
   (b) he or she is accompanied by a constable.
 (4) This section is subject to any express provision to the contrary in this Act.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 3, 5, and 6) apply.
+(6) Despite subsection (5), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 15 Power of dog control officer or dog ranger to feed and shelter dogs
 (1) A dog control officer or dog ranger who has reasonable grounds to suspect that a dog is without access to proper and sufficient food, water, or shelter may enter on any land or premises where the dog is present and do 1 or more of the following things:
@@ -901,9 +903,13 @@ Every registration made under this Act shall be in force throughout New Zealand.
   (c) a dog control officer or dog ranger has received a further complaint and has reasonable grounds for believing that the nuisance in respect of which the notice is issued is continuing and is causing distress to any person.
 (2) In any case to which subsection (1) applies, the dog control officer or dog ranger may enter upon the land or premises on which the dog is kept and remove the dog and the dog shall be kept in custody under section 70.
 (3) Nothing in this section shall authorise any dog control officer or dog ranger to enter any dwellinghouse unless—
-  (a) he or she is authorised in writing to do so by a Justice or Community Magistrate, who shall not grant such an authority unless the Justice or Community Magistrate is satisfied that the requirements of subsection (1) have been met; and
+  (a) he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012; and
   (b) he or she is accompanied by a constable.
+(3A) None of the following persons may act as an issuing officer under this section:
+  (a) the mayor or any elected member of the local authority that employs or engages the dog ranger or dog control officer; or
+  (b) any employee of the local authority that employs or engages the dog ranger or dog control officer.
 (4) Where a dog is removed pursuant to subsection (2), the dog control officer or dog ranger shall give written notice in the prescribed form to the owner of the dog or, if the owner is not present, the person for the time being appearing to be in charge of the land or premises and, if no person is present on the property, shall leave such notice in some conspicuous place on the land or premises.
+(5) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (3).
 
 ### 57 Dogs attacking persons or animals
 (1) A person may, for the purpose of stopping an attack, seize or destroy a dog if—
@@ -919,7 +925,11 @@ Every registration made under this Act shall be in force throughout New Zealand.
   (a) he or she is in fresh pursuit of a dog that—
     (i) he or she has reasonable grounds to believe has committed an attack described in subsection (1); and
     (ii) has been identified by a witness to the attack; or
-  (b) he or she is authorised in writing to do so by a Justice, who must not grant an authority unless the Justice is satisfied that there are reasonable grounds to believe that an offence has been committed under subsection (2), and, in the case of a dog control officer, he or she is accompanied by a constable.
+  (b) he or she is authorised to enter by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), made on application by the dog ranger or dog control officer in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, who must not issue a warrant unless the issuing officer is satisfied that there are reasonable grounds to believe that an offence has been committed under subsection (2), and, in the case of a dog control officer, he or she is accompanied by a constable.
+(6A) None of the following persons may act as an issuing officer under this section:
+  (a) the mayor or any elected member of the local authority that employs or engages the dog ranger or dog control officer; or
+  (b) any employee of the local authority that employs or engages the dog ranger or dog control officer.
+(6B) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (6).
 (7) To avoid doubt, a constable may exercise the powers conferred on a dog control officer or dog ranger by this section.
 (8) This section, section 57A, and section 58 do not apply in respect of a dog that—
   (a) is kept, or is being used, or is certified for use by a specified agency; and
@@ -1300,3 +1310,39 @@ This Act comes into force on the day after the date on which it receives the Roy
   (a) do not apply to a dog policy adopted before the commencement of this Act; but
   (b) do apply to a dog policy adopted before the commencement of this Act that is amended under section 10(8) of the principal Act or reviewed under section 10AA of the principal Act (as inserted by section 6 of this Act).
 (3) Amendment(s) incorporated in the Act(s).
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
