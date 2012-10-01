@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2010-08-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -610,39 +610,13 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 **Search and seizure of firearms**
 
 ### 60 Search of suspected persons and seizure of firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
-(1) If a member of the Police has reasonable grounds to suspect that any person being in a public place is carrying or is in possession of any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in breach of this Act, the member of the Police may, without warrant,—
-  (a) search that person, or any vehicle, package, or other thing there in his possession or under his control; and
-  (aa) use such force as is reasonable in the circumstances for the purposes of effecting entry to the vehicle, and for breaking open any package or other thing to which paragraph (a) relates; and
-  (b) detain that person for the purpose of any search under paragraph (a); and
-  (c) seize any such firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, and detain the same.
-(1A) If it is necessary for a member of the Police to stop a vehicle for the purpose of exercising the power conferred by subsection (1) to search a person who is in the vehicle, sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to the power to search a person under subsection (1).
-(1B) Subsection (1A) does not limit the application of sections 314A to 314D of the Crimes Act 1961 in respect of the stopping of any vehicle for the purpose of exercising the power to search the vehicle under subsection (1).
-(2) If any member of the Police has reasonable grounds to suspect that any person has in his possession or under his control in any place any firearm, airgun, pistol, restricted weapon, ammunition, or explosive and that the person is, by reason of physical or mental condition, however arising, incapable of having proper control of the firearm, airgun, pistol, restricted weapon, ammunition, or explosive or may kill or do bodily injury to himself or any other person, the member of the Police may, without warrant,—
-  (a) enter that place and search that person and that place; and
-  (b) detain that person for the purpose of any search under paragraph (a); and
-  (c) seize any such firearm, airgun, pistol, restricted weapon, ammunition, or explosive, and detain the same.
-(3) It is the duty of everyone exercising any power conferred by subsection (1) or subsection (2)—
-  (a) to identify himself to the person searched and to the occupant of any premises searched; and
-  (b) to tell the person searched and the occupant of any premises searched the section and subsection of this Act under which the power is being exercised; and
-  (c) if he is not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that he is a member of the Police.
-(4) Where any member of the Police exercises any power conferred by subsection (1) or subsection (2), he shall, within 3 days after the day on which he exercises the power, furnish to the Commissioner a written report on the exercise of the power and the circumstances in which it came to be exercised.
+[Repealed]
 
 ### 60A Search of suspected persons and seizure of firearms in cases of domestic violence
-If any member of the Police has reasonable grounds to suspect, in relation to any person,—the member of the Police may, without warrant, exercise the powers specified in paragraphs (a) to (c) of subsection (2) of section 60, and subsections (3) and (4) of that section shall apply in relation to the exercise of those powers pursuant to this section.
-  (a) that that person has in that person's possession or under that person's control in any place any firearm, airgun, pistol, restricted weapon, ammunition, or explosive; and
-  (b) either—
-    (i) that there are grounds under the Domestic Violence Act 1995 for the making against that person of an application for a protection order; or
-    (ii) that such an order is in force under that Act in respect of that person,—
+[Repealed]
 
 ### 61 Search of land or buildings for firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
-(1) If any commissioned officer of Police has reason to suspect that there is in any building, aircraft, vessel, hovercraft, carriage, vehicle, premises, or place any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in respect of which any offence against this Act or any indictable offence has been or is about to be committed or which may be evidence of any such offence, the commissioned officer, or any member or members of the Police authorised by him in writing, may—
-  (a) enter any such building, aircraft, vessel, hovercraft, carriage, vehicle, premises, or place, by force if necessary, and either by day or night, and search the same or any part thereof; and
-  (b) seize any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive found therein and detain the same.
-(2) It is the duty of everyone exercising any power conferred by subsection (1)—
-  (a) to identify himself to the occupant of the premises searched; and
-  (b) to tell the occupant of the premises searched that the search is being made pursuant to subsection (1); and
-  (c) if he is not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that he is a member of the Police.
-(3) Where any member of the Police exercises any power conferred by subsection (1), he shall, within 3 days after the day on which he exercises the power, furnish to the Commissioner a written report on the exercise of the power and the circumstances in which it came to be exercised.
+[Repealed]
 
 **Appeals**
 
@@ -867,3 +841,39 @@ Where a person who was the holder of a firearms licence on 1 November 1992 and w
   (a) that firearms licence or a letter explaining why that person is unable to produce that firearms licence; or
   (b) the photographs required by that notice.
 (3) Where a firearms licence is reinstated under subsection (1), a member of the Police shall forthwith proceed to consider under section 36 whether that person is a fit and proper person to be in possession of a firearm or airgun and sections 36 and 37 shall, with all necessary modifications, apply accordingly.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
