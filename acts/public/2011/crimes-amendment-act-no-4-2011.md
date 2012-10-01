@@ -1,5 +1,5 @@
 # Crimes Amendment Act (No 4) 2011
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Crimes Amendment Act (No 4) 2011.
