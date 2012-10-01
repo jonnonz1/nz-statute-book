@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -1715,24 +1715,17 @@ Every person commits an offence and is liable to a fine not exceeding $5,000 who
   (b) supplies any particulars or evidence knowing that the particulars or evidence are false in a material respect.
 
 ### 177 Search warrant
-(1) If any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), is satisfied, on application in writing made on oath, that there is reasonable ground for believing that—the Judge, Justice, Community Magistrate, or Registrar may issue a warrant in the prescribed form to search the premises or conveyance.
+(1) If an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on an application made by a constable in the manner provided in subpart 3 of Part 4 of that Act, that there is reasonable ground for believing that—the issuing officer may issue a warrant in the prescribed form to search the premises or conveyance.
   (a) any liquor is being sold, or exposed or kept for sale, on any premises or conveyance in which that liquor may not lawfully be sold or exposed or kept for sale; or
   (b) any premises or conveyance are or is being kept or used as a place of resort for the consumption of liquor in contravention of this Act,—
-(2) The applicant for a search warrant shall include in the application details, so far as they are known to the applicant after making reasonable enquiries, of—
-  (a) any other application for a warrant under this section to search the premises or conveyance made within the preceding period of 28 days; and
-  (b) the result of that other application.
-(3) Every search warrant shall be directed either to a constable by name or to every constable, but, in either case, the warrant may be executed by any constable.
-(4) The Judge, Justice, Community Magistrate, or Registrar, on issuing a search warrant, may impose such reasonable conditions on its execution as he or she thinks fit.
-(5) Any constable may call any person to assist him or her in the execution of a search warrant.
-(6) Every search warrant shall, subject to any conditions imposed under subsection (4), authorise the constable who is executing it, and any person called by that constable to assist,—
-  (a) to enter the premises on 1 occasion within 14 days of the date of the issue of the warrant at any time that is reasonable in the circumstances; and
-  (b) to use such force, both for making entry (whether by breaking open doors or otherwise) and for breaking open any thing on the premises or conveyance, as is reasonable in the circumstances; and
-  (c) to search for and seize any liquor, or any packages or containers containing or believed to contain any liquor, or any vessels used or believed to be used for the consumption of any liquor, or any other thing, found on the premises or conveyance and believed on reasonable grounds to have been involved in the commission of any offence specified in the warrant or any other offence against this Act.
-(7) Any constable who executes a search warrant shall carry the warrant with him or her, and shall produce it for inspection—
-  (a) on first entering the premises or conveyance to the person appearing to be in charge of the premises; and
-  (b) whenever subsequently required to do so on the premises or conveyance by any other person appearing to be in charge of the premises or conveyance or any part of the premises or conveyance.
-(8) Where the occupier of the premises or conveyance is not present at the time the search warrant is executed, the constable shall leave in a prominent place on the premises or conveyance a written statement of the time and date of the search, and of that constable's name and the address of the Police station to which enquiries should be made.
-(9) Where any thing is seized in execution of a search warrant, the constable executing the warrant shall leave in a prominent place on the premises or conveyance, or send to the occupier within 10 working days after the date of the search, a written inventory of all things so seized.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
 
 ### 177A Power of Police to seize samples of liquor
 Any constable who enters and is conducting an inspection of any licensed premises under section 175 and who, during the inspection, has reasonable cause to suspect that any person on those premises has committed or is committing or is attempting to commit any offence against this Act, may seize, without warrant for the purpose of analysis, any liquid, including the container holding the liquid, in the possession of that person that is suspected of being liquor.
@@ -2566,3 +2559,39 @@ As soon as practicable after the commencement of this Act, the Licensing Authori
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — Existing licensing trusts
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
