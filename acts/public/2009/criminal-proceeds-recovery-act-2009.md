@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -576,7 +576,7 @@ An application for a profit forfeiture order must—
   (a) declare the nature, extent, and value of any person’s interest in property specified in the civil forfeiture order:
   (b) give any directions that may be necessary and convenient for giving effect to the civil forfeiture order.
 (2) Without limiting the generality of subsection (1)(b), if a Court makes a civil forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
-(3) Sections 115 to 122, so far as applicable and with all necessary modifications, apply in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
+(3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 60 Civil forfeiture order relating to land
 (1) Nothing in section 50 or 55 affects the operation of section 99 of the Land Transfer Act 1952 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
@@ -652,7 +652,7 @@ A High Court that grants relief from a civil forfeiture order under section 66 o
   (a) declare the nature, extent, and value of any person’s interest in property specified in the order:
   (b) give any directions that may be necessary and convenient for giving effect to the instrument forfeiture order.
 (2) Without limiting the generality of subsection (1)(b), if a court makes an instrument forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the court may direct an officer of the court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
-(3) Sections 115 to 122, so far as applicable and with all necessary modifications, apply in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
+(3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 72 Instrument forfeiture order relating to land
 (1) Nothing in section 70 affects the operation of section 99 of the Land Transfer Act 1952 in relation to an instrument forfeiture order made in respect of an estate or interest under that Act.
@@ -941,7 +941,7 @@ In this subpart, unless the context otherwise requires,—
 **Police powers**
 
 ### 101 Police may obtain warrant to search for and seize evidence and property
-(1) Any Judge may issue a warrant to search any place or thing, if the Judge is satisfied, on an application in writing made on oath, that there are reasonable grounds for believing that property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
+(1) Any Judge may issue a warrant to search any place or thing, if the Judge is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
 (2) The property or evidence in respect of which a search warrant may be issued under subsection (1) is—
   (a) evidence as to the nature and extent of any person’s interest in or control over property that is an instrument of crime:
   (b) an instrument of crime.
@@ -954,7 +954,7 @@ In this subpart, unless the context otherwise requires,—
 **Commissioner's powers**
 
 ### 102 Commissioner may obtain warrant to search for and seize evidence and property
-(1) Any Judge may issue a warrant to search any place or thing if, on an application in writing made on oath, the Judge is satisfied that there are reasonable grounds for believing property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
+(1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied that there are reasonable grounds for believing property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
 (2) The property or evidence in respect of which a warrant may be issued under subsection (1) is—
   (a) tainted property; or
   (b) evidence establishing the nature and extent of any person’s interest in or control over property that is tainted property; or
@@ -973,10 +973,12 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 
 ### 104 Application for production order
 (1) The Commissioner may apply to a Judge for a production order under section 105 if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under this Act or to any proceedings under this Act.
-(2) Every application under this section must be made in writing and on oath, and must contain the following particulars:
+(2) Every application under this section must be made in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012, and must contain the following particulars:
   (a) the grounds on which the application is made:
   (b) a description of the document or documents production of which is sought:
   (c) a description of the property or other thing or type of property or other thing to which the document or documents are believed to relate.
+(3) Every person commits an offence who makes an application for a production order that contains any assertion or other statement known by the person to be false.
+(4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year.
 
 ### 105 Court may make production order
 (1) If an application is made under section 104, the Judge may, if satisfied that the Commissioner has reasonable grounds for applying for the order, make an order that the person—
@@ -1001,10 +1003,12 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
   (a) to answer questions with respect to any matter that the Commissioner has reason to believe may be relevant to the investigation or to any proceedings under this Act:
   (b) to supply any information with respect to any matter that the Commissioner has reason to believe may be relevant to the investigation or to any proceedings under this Act:
   (c) to produce for inspection any documents that the Commissioner has reason to believe are in the person's possession or control or may be relevant to the investigation or to any proceedings under this Act.
-(2) Every application under this section must be made in writing and on oath, and must contain the following particulars:
+(2) Every application under this section must be made in the manner provided in relation to a search warrant in sections 99 and 100 of the Search and Surveillance Act 2012, and must contain the following particulars:
   (a) the grounds on which the application is made:
   (b) a description of the information that is sought:
   (c) a description of the document or documents production of which is sought.
+(3) Every person commits an offence who makes an application for an examination order that contains any assertion or other statement known by the person to be false.
+(4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year.
 
 **Examination order**
 
@@ -1032,8 +1036,8 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 **Non-compliance with production order or examination order**
 
 ### 108 Power to obtain search warrant for non-compliance with production order or examination order
-(1) The Commissioner may, on application in writing made on oath, apply to any Judge for a warrant to search any thing or place specified in the application.
-(2) Any Judge may issue a warrant in the prescribed form if the Judge is satisfied—
+(1) The Commissioner may, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, apply to any Judge for a warrant to search any thing or place specified in the application.
+(2) Any Judge may issue a warrant if the Judge is satisfied—
   (a) that there are reasonable grounds for believing that—
     (i) a person has failed to produce all of the documents specified in a production order made under section 105 or an examination order made under section 107; or
     (ii) any information supplied under section 107 is intentionally false or misleading in a material particular; or
@@ -1053,7 +1057,7 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 **Official Assignee’s powers**
 
 ### 110 Official Assignee may apply for warrant to search for and seize property
-(1) Any Judge may issue a warrant to search any place or thing if, on an application in writing made on oath, the Judge is satisfied—
+(1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied—
   (a) that there are reasonable grounds for believing that property of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force; and
   (b) in the case of property referred to in subsection (2)(a), that the Official Assignee has complied with subsection (4).
 (2) The property in respect of which a search warrant may be issued under subsection (1) is—
@@ -1088,107 +1092,33 @@ If property is seized pursuant to a warrant issued under section 110, or transfe
 
 **General rules about search warrants**
 
-### 114 Application of sections 115 to 122
-The provisions of sections 115 to 122 apply in respect of every search warrant applied for, or issued, under this Act.
+### 114 Application of Part 4 of Search and Surveillance Act 2012
+(1) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply in respect of every search warrant applied for, or issued, under this Act.
+(2) The provisions of subpart 6 of Part 4 of that Act apply to evidence seized under sections 101(2)(a), and 102(2)(b) and (c).
 
 ### 115 Application for search warrant
-(1) An application for a search warrant must contain, in reasonable detail, the following particulars:
-  (a) the name of the applicant:
-  (b) the grounds on which the application is made:
-  (c) the address or other description of the place or thing proposed to be searched:
-  (d) a description of the item or items believed to be in or on the place or thing that are sought by the applicant.
-(2) The Judge may require the applicant to supply further information concerning the grounds on which the search warrant is sought.
-(3) The applicant must disclose in the application—
-  (a) details of any other applications for a search warrant under this Act that the applicant knows to have been made within the previous 3 months in respect of the place or thing proposed to be searched:
-  (b) the result of that application or those applications.
-(4) The applicant must, before making an application for a search warrant, make reasonable inquiries for the purpose of complying with subsection (3).
-(5) The Judge may authorise the search warrant to be executed on more than one occasion if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
+[Repealed]
 
 ### 116 Form and content of search warrant
-(1) Every search warrant issued must be in the prescribed form.
-(2) Every search warrant issued must be directed to,—
-  (a) in the case of a warrant issued under section 101, every member of the police:
-  (b) in the case of a warrant issued under section 102 or 108, the Commissioner:
-  (c) in the case of a warrant issued under section 110, the Official Assignee and every delegate of the Official Assignee.
-(3) A search warrant issued—
-  (a) may be executed by all or any of the persons to whom it is directed:
-  (b) may be subject to any conditions specified in the warrant that the Judge considers reasonable:
-  (c) may be executed only once, unless execution on more than one occasion has been authorised.
-(4) Every search warrant must contain, in reasonable detail, the following particulars:
-  (a) the place or thing that may be searched:
-  (b) the provision authorising the issue of the warrant:
-  (c) a description of what may be seized:
-  (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified by the Judge under subsection (3)(b):
-  (f) if the warrant may be executed on more than one occasion, the number of times or the period of time over which the warrant may be executed.
+[Repealed]
 
 ### 117 When search warrant is executed
-A search warrant is executed when the person executing the warrant—
-  (a) has seized all the items specified in the warrant; or
-  (b) leaves the place or thing being searched and does not return within 4 hours.
+[Repealed]
 
 ### 118 Powers conferred by search warrant
-(1) Every search warrant issued under this Act authorises the person executing it—
-  (a) to enter and search the place or thing specified in the warrant, and any item or items found in that place or thing, at any time that is reasonable in the circumstances:
-  (b) to request any person to assist in the execution of the warrant:
-  (c) to use any force that is reasonable for the purposes of executing the warrant:
-  (d) to seize any thing authorised by the warrant:
-  (e) to bring and use in or on the place or thing searched any equipment, to use any equipment found on the place or thing, and to extract any electricity from the place or thing to operate the equipment that is reasonable to use in the circumstances, for the purposes of executing the warrant:
-  (f) to copy any document, or part of a document, that may be seized under the warrant:
-  (g) to require any person to reproduce, or to assist the person executing the warrant to reproduce, in usable form, any information recorded or stored in any document that may be seized under the warrant:
-  (h) to take photographs or video recordings of the place or thing searched, and of any thing found in that place, if the person executing the warrant has reasonable grounds to believe that the photographs or video recordings may be relevant in any proceedings arising from the execution of the warrant.
-(2) The person executing the search warrant may seize any item or items that he or she, or any person assisting him or her, finds in the course of executing the warrant if the person executing the warrant has reasonable grounds to believe that he or she or any other person who can apply for a search warrant under this Act could obtain a warrant to seize it under this Act or any other enactment.
-(3) The person executing a search warrant may, in a manner and for the duration that is reasonable for the purposes of executing the warrant,—
-  (a) secure the place or thing searched, any area within that place or thing, or any thing found within that place or thing:
-  (b) exclude any person from the place or thing searched, or any area within the place or thing if the person executing the warrant has reasonable grounds to believe that the person to be excluded will obstruct or hinder the execution of the warrant.
-(4) The powers conferred by this section are subject to any conditions imposed under section 116(3)(b).
-(5) Section 198B of the Summary Proceedings Act 1957 applies in respect of every search warrant as if for each reference to a constable there were substituted a reference to a person authorised to execute the search warrant.
+[Repealed]
 
 ### 119 Powers of persons called to assist
-(1) Every person called on to assist a person executing a search warrant may—
-  (a) enter the place or thing to be searched:
-  (b) while in the company and under the direction of the person executing the warrant, use reasonable force in respect of any property for the purposes of executing the warrant:
-  (c) search areas within the place or thing that the person executing the warrant has determined may lawfully be searched:
-  (d) seize any thing that the person executing the warrant has determined may lawfully be seized:
-  (e) take photographs and video recordings of the place or thing and things found in the place or thing if the person executing the warrant has determined that those things may be lawfully taken:
-  (f) bring onto the place and use any equipment, make use of any equipment found on the place or thing, or extract electricity from the place or thing for the purposes of operating the equipment that the person executing the warrant has determined may be lawfully used or extracted:
-  (g) copy any document, or part of a document, that the person executing the warrant has determined may be lawfully copied.
-(2) If a member of the police is assisting another person executing a search warrant, that member of the police may exercise any power ordinarily exercisable by him or her in executing a search warrant.
-(3) The person executing a search warrant must—
-  (a) accompany any assistant on the first occasion when the assistant enters the place or thing to be searched; and
-  (b) provide such other supervision of any assistant as is reasonable in the circumstances.
-(4) The powers conferred by this section are subject to any conditions imposed under section 116(3)(b).
+[Repealed]
 
 ### 120 Person executing warrant to produce evidence of authority
-(1) Before or on initial entry in or on the place or thing the search warrant authorises to be searched, the person executing the search warrant must—
-  (a) announce his or her intention to enter and search the place or thing pursuant to a search warrant:
-  (b) identify himself or herself:
-  (c) give the occupier of the place or thing a copy of the warrant that he or she may keep, except where this is not reasonably practicable.
-(2) The person executing the search warrant is not required to comply with subsection (1) if he or she believes on reasonable grounds that no person is lawfully present in or on the place or thing to be searched.
-(3) The person executing the search warrant may use reasonable force in order to effect entry in or on the place or thing—
-  (a) if subsection (2) applies; or
-  (b) if, following a request, the person present refuses entry or does not allow entry within a reasonable time.
-(4) On completion of the execution of the search warrant, the person executing it must provide written notice containing the following particulars:
-  (a) the date and time of the commencement and completion of execution of the warrant:
-  (b) the name of the person executing the warrant who had overall responsibility for that execution:
-  (c) the address of the police station or other office to which enquiries should be made:
-  (d) if nothing is seized, the fact that nothing was seized:
-  (e) if anything was seized, the fact that seizure occurred and that an inventory of the things seized will be provided to the occupier no later than 7 days after the seizure.
-(5) If the occupier is not present at any time during the execution of the warrant, or if it is not reasonably practicable to comply with subsection (1)(c), the person executing the warrant must on completion of execution leave a copy of the warrant and the notice required by subsection (4) in a prominent position on the place or thing, except where this is not reasonably practicable.
-(6) This section is subject to section 122.
+[Repealed]
 
 ### 121 Inventory of items seized
-(1) The person who executed the search warrant must, not later than 7 days after the seizure of any property or evidence, provide to the occupier, and to every other person who the person who executed the search warrant has reason to believe may have an interest in what was seized,—
-  (a) written notice specifying what was seized; and
-  (b) a copy of the warrant and the written notice required by section 120(4).
-(2) A person who executes a search warrant must make reasonable enquiries for the purposes of complying with subsection (1).
-(3) This section is subject to section 122.
+[Repealed]
 
 ### 122 Compliance with certain provisions unnecessary in some circumstances
-A person executing a search warrant is not required to comply with section 120(1), (4), and (5) or section 121 if the person has reasonable grounds to believe that—
-  (a) compliance would endanger the safety of any person; or
-  (b) compliance would prejudice the successful execution of the warrant; or
-  (c) compliance would prejudice ongoing investigations under this Act or executions of the warrant on subsequent occasions.
+[Repealed]
 
 **Orders**
 
@@ -1218,15 +1148,7 @@ A person executing a search warrant is not required to comply with section 120(1
 (2) Sections 110 to 113 apply, with any necessary modifications, to an application under subsection (1).
 
 ### 127 Provisions associated with foreign restraining orders and foreign forfeiture orders
-The following provisions apply, with any necessary modifications, to an application for a warrant made under any of sections 124 to 126:
-  (a) section 115 (application for search warrant):
-  (b) section 116 (form and content of search warrant):
-  (c) section 117 (when search warrant is executed):
-  (d) section 118 (powers conferred by search warrant):
-  (e) section 119 (powers of persons called to assist):
-  (f) section 120 (person executing warrant to produce evidence of authority):
-  (g) section 121 (inventory of items seized):
-  (h) section 122 (compliance with certain provisions unnecessary in some circumstances).
+Part 4 of the Search and Surveillance Act 2012 (except subpart 6) applies, with any necessary modifications, to an application for a warrant made under any of sections 124 to 126.
 
 ### Subpart 8 — Foreign restraining orders and foreign forfeiture orders
 
@@ -1386,7 +1308,7 @@ The effect of registering a foreign forfeiture order in New Zealand under sectio
   (a) declare the nature, extent, and value of any person’s interest in property specified in the order:
   (b) give any directions that may be necessary and convenient for giving effect to the foreign forfeiture order.
 (2) Without limiting the generality of subsection (1)(b), if a Court registers a foreign forfeiture order in New Zealand against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
-(3) Sections 115 to 122, so far as applicable and with all necessary modifications, apply in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
+(3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 147 Registering foreign forfeiture order relating to land
 (1) Nothing in section 144 affects the operation of section 99 of the Land Transfer Act 1952 in respect of an estate or interest in land under that Act.
@@ -1880,3 +1802,39 @@ Section 71 is repealed and the following section substituted:Criminal Proceeds (
 
 ### 225 Section 81 repealed
 Section 81 is repealed.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
