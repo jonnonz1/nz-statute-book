@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -514,45 +514,28 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (c) take or make copies of, or extracts from, any document inspected under this section; and for that purpose may—
     (i) take possession of and remove any such document from the place where it is held, for any reasonable period:
     (ii) require a person to reproduce, or assist the authorised person to reproduce, in usable form any information recorded or stored on a document electronically or by other means.
+(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 2, sections 118 and 119, and subpart 8) apply.
 (3) An authorised person must not under subsection (1) or subsection (2) enter any place that is not a place of business except with—
   (a) the consent of an occupier; or
   (b) a warrant under section 45.
 (4) In this section and section 45, authorised person means a person who is for the time being an employee or agent of the Board authorised by the Board to exercise the powers conferred by subsections (1) and (2).
 
 ### 45 Warrant to inspect place other than place of business
-(1) A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath by an authorised person is satisfied that there are reasonable grounds to believe that—may issue to the authorised person a warrant authorising the person to enter and inspect the place.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that there are reasonable grounds to believe that—may issue to the authorised person a warrant authorising the person to enter and inspect the place.
   (a) an offence against subsection (1) or subsection (2) of section 49 has been committed; and
   (b) there is or is likely to be in some place that is not a place of business—that is evidence of the commission of that offence,—
     (i) any document relating to levy money or the slaughter of pigs; or
     (ii) any pork product from pigs subject to the levy,—
-(2) A District Court Judge or a court Registrar (not being a constable), who on an application in writing made on oath by an authorised person is satisfied that, as a consequence of the inspection under section 44 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue to the authorised person a warrant authorising the person to enter and inspect the other place.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that, as a consequence of the inspection under section 44 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue to the authorised person a warrant authorising the person to enter and inspect the other place.
   (a) any document relating to levy money or the slaughter of pigs; or
   (b) any pork product from pigs subject to the levy,—
-(3) The warrant must be in the appropriate form in Schedule 3, and may be issued unconditionally or subject to conditions.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 46 Duties of persons executing warrants
-A person executing a warrant issued under section 45 in respect of any place—
-  (a) must produce the warrant on initial entry and, if asked by an occupier, at any time afterwards; and
-  (b) if an occupier is present on initial entry, must identify himself or herself to that occupier; and
-  (c) if asked by an occupier to do so, must produce evidence of identity.
+[Repealed]
 
 ### 47 Other duties of persons carrying out inspections
-(1) A person who carries out an inspection under section 44 when no occupier of the place inspected was present must, on completing the inspection, leave prominently in the place a notice stating—
-  (a) the day and time when the inspection was carried out; and
-  (b) the person's name.
-(2) If the person who carries out an inspection under section 44 takes a document, article, or thing from the place inspected, the person must, on completing the inspection, leave prominently in the place a schedule of all documents, articles, and things taken.
-(3) If it is not practicable to prepare the schedule on completing the inspection, or if an occupier of the place inspected consents, the person who carries out the inspection must,—
-  (a) instead of leaving the schedule, leave a notice that—
-    (i) a document, article, or thing has been taken; and
-    (ii) within 7 days of the inspection the schedule will be delivered to, left for, or posted to an occupier; and
-  (b) within 7 days of the inspection,—
-    (i) deliver the schedule to an occupier; or
-    (ii) leave the schedule prominently in the place; or
-    (iii) post the schedule by registered mail to an occupier.
-(4) The schedule must specify—
-  (a) the documents, articles, and things taken; and
-  (b) the place or places where they are being held; or
-  (c) if more than 1 place is specified, the documents, articles, and things held in each.
+[Repealed]
 
 ## Part 5 — Miscellaneous provisions
 
@@ -855,3 +838,39 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 ## Schedule 3 — Forms of warrant to search place other than place of business
 
 ## Schedule 4 — Enactments repealed
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
