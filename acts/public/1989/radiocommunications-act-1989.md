@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-10-01_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1039,47 +1039,29 @@ Every person commits an offence under this Act who transmits radio waves, otherw
   (a) inspect and remove any documents in the possession of, or under the control of, any person, and take copies of or extracts from any such documents; and
   (b) inspect and remove any radio apparatus or interfering equipment in the possession of, or under the control of, any person.
 (2) No person shall exercise the powers conferred by subsection (1) unless the person obtains a warrant authorising that person to exercise those powers in accordance with subsection (3).
-(3) Where any District Court Judge, Justice, or Community Magistrate, or any court Registrar (not being a constable), is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under section 134(1)(g), that District Court Judge, Justice, Community Magistrate, or court Registrar may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
+(3) Where any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under section 134(1)(g), that issuing officer may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
+(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 121 Powers conferred by warrant
-(1) Every warrant issued under section 120 shall authorise the person named in the warrant, or any constable, to enter upon and search the premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant and—
-  (a) inspect and remove any documents in the possession of, or under the control of, any person, and take copies of or extracts from any such documents:
-  (b) inspect and remove any radio apparatus or interfering equipment in the possession of, or under the control of, any person.
-(2) Any warrant issued under section 120 may be executed by the person named in the warrant or by any constable.
-(3) Every warrant issued under section 120 to search any premises, building, aircraft, ship, carriage, vehicle, or place shall authorise the person named in the warrant or any constable at any time within 1 month from the date of the issue of the warrant to enter and search the premises, building, aircraft, ship, carriage, vehicle, or place, with such assistants as may be necessary, and, if necessary, to use force for making entry, whether by breaking open doors or otherwise; and shall authorise any person named in the warrant or any constable to break open any box or receptacle, by force if necessary.
-(4) Every warrant issued under section 120 to search any box or receptacle shall authorise any person named in the warrant or any constable to break open the box or receptacle, by force if necessary.
-(5) The power to enter and search any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place pursuant to a warrant issued under section 120 may be exercised on 1 occasion only.
+[Repealed]
 
 ### 122 Person executing warrant to produce evidence of authority and identity
-Every person executing any warrant issued under section 120—
-  (a) shall have the warrant with him or her; and
-  (b) shall produce it on initial entry and, if requested, at any subsequent time; and
-  (c) shall identify himself or herself to the owner or occupier of the premises, building, or place, or to the owner or person for the time being in charge of the aircraft, ship, carriage, vehicle, box, or receptacle, as the case may require; and
-  (d) if he or she is a constable who is not in uniform, shall produce evidence that he or she is a constable; and
-  (e) if he or she is not a constable, shall produce evidence of that person's identity.
+[Repealed]
 
 ### 123 Schedule of evidence taken to be prepared
-(1) Every person who executes a warrant issued under section 120 shall prepare a schedule specifying—
-  (a) any documents that have been removed from the premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place or of which any copies or extracts have been taken:
-  (b) any radio apparatus or interfering equipment that has been removed from the premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place:
-  (c) the place from which any such documents or extracts or radio apparatus or interfering equipment have been removed:
-  (d) the place where any such documents or extracts or radio apparatus or interfering equipment are held.
-(2) A copy of every schedule prepared under subsection (1) shall be given to the occupier or person in charge of the premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place as soon as practicable.
+[Repealed]
 
 ### 124 Duty to provide all reasonable facilities and assistance
-The occupier or person in charge of any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place that an authorised person enters pursuant to a warrant issued under section 120 shall provide the authorised person with all reasonable facilities and assistance for the effective exercise of the authorised person's powers.
+[Repealed]
 
 ### 125 Power to inspect and take copies of documents, etc
-The Secretary, or any person authorised in writing by the Secretary for the purpose, or any constable, may—
-  (a) inspect and take copies of any documents or extracts therefrom obtained pursuant to a warrant issued under section 120; or
-  (b) inspect any radio apparatus or interfering equipment obtained under any such warrant.
+[Repealed]
 
 ### 126 Offence
-Every person commits an offence against this Act who obstructs any authorised person acting pursuant to a warrant issued under section 120.
+[Repealed]
 
 ### 127 Proceedings privileged
-(1) This section applies to every person authorised to enter and search any premises pursuant to a warrant issued under section 120.
-(2) No proceedings, civil or criminal, shall lie against any person to whom this section applies for anything that person may do or fail to do in the course of the exercise or intended exercise of the person's functions under section 120 or section 121, unless it is shown that the person acted in bad faith.
+[Repealed]
 
 **Penalties**
 
@@ -1783,3 +1765,39 @@ If, before the commencement of this Act, a rightholder has given notice in accor
   (a) the licence is deemed to include a requirement that persons transmitting in accordance with the licence comply with Schedule 1 of the principal Act (as substituted by section 55):
   (b) the frequencies in the licence used to describe the radio apparatus are the frequencies on which the transmission of radio waves are authorised by the licence.
 (2) If a licence to which subsection (1) applies does not describe the radio apparatus by referring to radio frequencies, the holder of the licence must return the licence to the Secretary who must amend the licence to include the frequencies upon which transmissions can be made in accordance with the licence.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
