@@ -1,5 +1,5 @@
 # Anti-Personnel Mines Prohibition Act 1998
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
 
@@ -179,16 +179,13 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
 **Enforcement**
 
 ### 22 Search warrants
-(1) A District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable), who, on an application, is satisfied that there are reasonable grounds for believing that entry to a place by a member of a fact-finding mission is necessary for the purpose of exercising any function contemplated, or any power provided for, in the Convention, may issue a search warrant in respect of the place.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds for believing that entry to a place by a member of a fact-finding mission is necessary for the purpose of exercising any function contemplated, or any power provided for, in the Convention, may issue a search warrant in respect of the place.
 (2) An application under subsection (1)—
   (a) may not be made unless the consent of a person in control of the place is not, or may not be, obtainable; and
-  (b) must be made by an officer in writing; and
+  (b)
   (c) must include a copy of relevant provisions of the Convention and a copy of the documents (if any) authorising the fact-finding mission.
 (3) For the purposes of subsection (2)(a), consent means consent to a member of a fact-finding mission, and any officer who may accompany the member, entering the place to exercise any function contemplated, or any power provided for, in the Convention.
-(4) A warrant issued under subsection (1)—
-  (a) authorises the member of the fact-finding mission (and any officer who may accompany the member) to enter the place at any time within 14 days of the issue of the warrant (or within such further time as the Judge, Justice, Community Magistrate, or Registrar may specify in the warrant) for the purpose of exercising any function contemplated, or any power provided for, in the Convention:
-  (b) authorises an officer who may accompany the member of the fact-finding mission to use such force as is reasonable in the circumstances for effecting entry to or inspection of a place specified in the warrant (including force to break down a door or break open anything in the place):
-  (c) may be issued without conditions or subject to any conditions the Judge, Justice, Community Magistrate, or Registrar thinks fit.
+(4) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 23 Obligations of officers accompanying member of fact-finding mission
 (1) Every officer who accompanies a member of a fact-finding mission on an inspection—
@@ -279,3 +276,39 @@ Amendment(s) incorporated in the Act(s).
 | 20. | Duration and withdrawal | 36 |
 | 21. | Depositary | 37 |
 | 22. | Authentic texts | 37 |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
