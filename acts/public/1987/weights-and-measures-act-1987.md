@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to weights and measures
 
@@ -291,13 +291,14 @@ Nothing in section 20 and section 21 shall apply to any automatic weighing machi
 (2) An Inspector shall not enter any dwellinghouse for the purpose of exercising any of the powers conferred under subsection (1) except—
   (a) with the consent of the occupier of that dwellinghouse; or
   (b) pursuant to a warrant issued in accordance with subsection (3).
-(3) Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath, is satisfied that there is reasonable ground for believing that it is necessary for the purpose of exercising the powers conferred under subsection (1) that an Inspector enter a dwellinghouse, may issue a warrant in the prescribed form authorising an Inspector to enter that dwellinghouse for the purpose of exercising those powers.
+(3) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there is reasonable ground for believing that it is necessary for the purpose of exercising the powers conferred under subsection (1) that an Inspector enter a dwellinghouse, may issue a warrant authorising an Inspector to enter that dwellinghouse for the purpose of exercising those powers.
 (4) Every warrant shall continue in force for 1 month from the date on which it was issued or until the purpose for which it was granted has been satisfied, whichever occurs first.
 (5) If, in any case, it is not practicable to examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods referred to in subsection (1) without damaging those goods or any package or container in which those goods are kept, the Inspector may retain those goods on payment to the owner or person having custody of them of the normal selling price of those goods.
 (6) An Inspector may seize and detain—
   (a) any weight or measure that does not comply with or is used in contravention of this Act or any regulations made under this Act; or
   (b) any weighing or measuring instrument that does not comply with or is used in contravention of this Act or any regulations made under this Act, or any part of any such instrument the removal of which makes that instrument inoperative; or
   (c) any goods referred to in subsection (1)(a), (b), (c), or (g) where the Inspector is satisfied on reasonable grounds that an offence against this Act or any regulations made under this Act has been committed.
+(7) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 29 Privilege against self-incrimination
 Notwithstanding anything in section 28, no person shall be required, pursuant to any provision of that section, to produce any book, record, contract, invoice, note, or other document if the production of that book, record, contract, invoice, note, or other document would or could tend to incriminate that person, and that person shall be informed of that right before any Inspector exercises the power conferred by any provision of that section to require the production of any book, record, contract, invoice, note, or other document.
@@ -683,3 +684,39 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 | 2 Carats Metric | 0.01 Carat Metric |
 
 ## Schedule 3
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
