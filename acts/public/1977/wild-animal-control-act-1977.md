@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -226,11 +226,12 @@ The Minister shall administer and manage wild animals in accordance with—
 (8) Any permit or licence to which any of the foregoing provisions of this section apply may relate to a specified animal, or to all animals of a specified species or class or of specified species or classes or to a specified number or specified numbers of any of them.
 (9) Any such permit or licence that is issued by the Director-General may at any time be revoked by him if the permit or licence holder fails to comply with any of the provisions of this Act or any regulations made thereunder, whether the permit or licence was issued before or after the commencement of this Act:
   provided that the revocation of any such permit or licence shall not release the holder of the permit or licence from liability for any antecedent breach of the conditions of the permit or licence or for any offence committed against this Act.
-(10) Any warranted officer shall have power, on production of his warrant of appointment if so required, to enter at all reasonable times on the land or premises of the holder of any permit or licence to which any of the foregoing provisions of this section applies, or any other land or premises where he has reasonable cause to suspect that any animal is being kept in breach of this section, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence are being complied with or, as the case may be, whether any animal is being kept in contravention of this section:
-  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant under the hand of a District Court Judge, who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
-(11) Any District Court Judge or Justice of the Peace or Community Magistrate who is satisfied on oath that there is probable cause to suspect that any breach of this section has been or is being committed may, by warrant under his hand, empower a warranted officer to enter any dwellinghouse, garden, or curtilage for the purpose of detecting that offence at such time or times of the day as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof.
+(10) Any warranted officer shall have power to enter at all reasonable times on the land or premises of the holder of any permit or licence to which any of the foregoing provisions of this section applies, or any other land or premises where he has reasonable cause to suspect that any animal is being kept in breach of this section, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence are being complied with or, as the case may be, whether any animal is being kept in contravention of this section:
+  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 by an issuing officer (within the meaning of section 3 of that Act), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+(11) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any breach of this section has been or is being committed may, by warrant under his hand, empower a warranted officer to enter any dwellinghouse, garden, or curtilage for the purpose of detecting that offence.
 (11A)
 (12) Where any wild animal lawfully held under a permit issued under this Act escapes from its enclosure and strays from the property of the lawful owner, it shall be deemed to be a wild animal and may be hunted or killed as provided for in section 8.
+(13) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 12A Deer farms
 (1) Any person may, without a permit or licence issued under section 12, but subject to this section, capture, convey, or keep deer in captivity for the purposes of farming anywhere in New Zealand except—
@@ -292,7 +293,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (3) Where the Director-General is notified of an escape within 48 hours of its occurrence, he or she may waive, in whole or in part, any costs recoverable in that case under subsection (2)(b).
 
 ### 13 Powers of warranted officers
-(1) Every warranted officer holding a warrant for the purposes of this Act may, on production of his warrant of appointment if so required, in the exercise of his duty,—
+(1) Every warranted officer holding a warrant for the purposes of this Act may in the exercise of his duty,—
   (a) at all times without let or hindrance,—provided that nothing in this paragraph shall apply to any dwellinghouse or other permanent residence or to the enclosed garden or curtilage of any dwellinghouse or other permanent residence:
     (i) where he has good reason to believe that an offence is about to be or is being or has been committed, enter upon, pass through, or remain on any land (including any yard and enclosure), shed, barn, hut, tent, and other erection, and any other premises of any description for the purpose of preventing or detecting offences against this Act:
     (ii) enter any vehicle, vessel, or aircraft that is about to be used or is being used or has been used in contravention of this Act or that he has good reason to believe is about to be or is being or has been so used:
@@ -311,18 +312,21 @@ The Minister shall administer and manage wild animals in accordance with—
 (3A) Notwithstanding subsection (3) and section 39(4), where the carcass of any wild animal is seized or removed from any place, it may be sold. The net proceeds received from the sale shall be paid into the Department Deposit Account and shall be dealt with in accordance with subsection (2) as if those proceeds and not the carcass had been the article seized.
 (4) Where any wild animal or its carcass is sold or disposed of under paragraph (g) of subsection (1), all proceeds from the sale or disposition shall belong to the Crown.
 (5) Notwithstanding the foregoing provisions of this section, the Director-General may, if he thinks fit, at any time restore any animal or thing removed or seized by a warranted officer under this section to the person who owned or was in possession of the animal or thing at the time when it was removed or seized, either unconditionally or upon compliance with such conditions (including payment to the Crown) as the Director-General thinks fit.
-(6) Any warranted officer shall have power, on production of his warrant of appointment if so required, to enter at all reasonable times on the land or premises of the holder of any permit or licence or other authority to which any of the provisions of this Act apply, or any other land or premises where he has good reason to believe that an offence against this Act is about to be or is being or has been committed, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence or other authority are being complied with or, as the case may be, whether any offence against this Act has been committed; and where he has good reason to believe that any offence has been committed against this Act, search any land, or any hut, tent, caravan, bach, or other erection, or any barn, storehouse, or other premises of any description, or any trailer, vehicle, vessel, or aircraft to which paragraph (e) of subsection (1) applies, or any riding or pack animal, or any other device for transportation or carriage found on any premises or on any water:
-  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant under the hand of a District Court Judge or Justice of the Peace or Community Magistrate, who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
-(7) Any District Court Judge or Justice of the Peace or Community Magistrate who is satisfied on oath that there is probable cause to suspect that any offence against this Act has been or is being committed within any dwellinghouse, garden, or curtilage may, by warrant under his hand, empower a warranted officer to enter therein for the purpose of detecting that offence at such time or times of the day as are mentioned in the warrant, but no such warrant shall continue in force for more than 14 days from the date thereof.
+(5A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, and sections 118 and 119) apply in respect of the powers in subsection (1).
+(6) Any warranted officer shall have power to enter at all reasonable times on the land or premises of the holder of any permit or licence or other authority to which any of the provisions of this Act apply, or any other land or premises where he has good reason to believe that an offence against this Act is about to be or is being or has been committed, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence or other authority are being complied with or, as the case may be, whether any offence against this Act has been committed; and where he has good reason to believe that any offence has been committed against this Act, search any land, or any hut, tent, caravan, bach, or other erection, or any barn, storehouse, or other premises of any description, or any trailer, vehicle, vessel, or aircraft to which paragraph (e) of subsection (1) applies, or any riding or pack animal, or any other device for transportation or carriage found on any premises or on any water:
+  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+(7) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any offence against this Act has been or is being committed within any dwellinghouse, garden, or curtilage may, by warrant under his hand, empower a warranted officer to enter therein for the purpose of detecting that offence.
 (8) The Director-General shall supply to every person to be appointed as a warranted officer (except a constable) a written warrant signed by himself or on his behalf evidencing the warranted officer's appointment, and the production of that warrant shall be sufficient proof of the appointment.
 (9) The production by any person of evidence that that person is a constable shall, until the contrary is proved, be sufficient authority for that person to have and exercise all the powers of a warranted officer otherwise appointed under this Act.
+(10) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 14 Warranted officers' powers of inspection of occupied Crown-owned land
 (1) Any warranted officer or any person authorised by the Director-General may at any time and from time to time enter onto any occupied Crown-owned land, whether held under permit, lease, licence, or other authority, to inspect the adequacy of any wild animal control operations that may be under way, or to inspect the land as to the presence of wild animals, or to assess damage done by wild animals, or to inspect the habitat of any native wildlife that may be threatened by wild animals, or for any other purpose consistent with this Act:
   provided that, on the first of any inspections of land held under any permit, lease, licence, or other authority, at least 28 days' prior notice shall be given in writing to the occupier of the land, and on any subsequent inspection made within 6 months of the first inspection and concerned with the same purpose at least 7 days' prior notice shall be given in writing to the occupier of the land:
   provided also that, where the occupier of land held under any permit, lease, licence, or other authority has a good and sufficient reason for requesting that any inspection be brought forward or delayed in time, the inspecting officer shall not enter onto the land except on the agreed date unless the suggested advance date cannot be complied with or the delay sought by the occupier is greater than 14 days, in which case the inspection may be carried out as previously notified in writing by the inspecting officer.
 (2) Nothing in subsection (1) shall prevent a warranted officer, on production of his warrant of appointment if so required, from entering onto any Crown-owned land at any time where he has good reason to believe that an offence against this Act or any regulations made under this Act is about to be, or is being, or has been, committed:
-  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant under the hand of a District Court Judge or Justice of the Peace or Community Magistrate, who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+  provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 15 Obligations of lessees of Crown-owned land
 (1) In any case where the Director-General considers that the occupier of any Crown-owned land held under permit, lease, licence, or other authority has not fulfilled his obligations to control wild animals under the terms of his permit, lease, licence, or other authority, or where no obligation in respect to the control of wild animals on the land is included in the permit, lease, licence, or other authority, the occupier of the land shall, when called upon to do so by the Director-General, carry out or arrange to be carried out, as is appropriate, such wild animal control measures as are in the opinion of the Director-General necessary to ensure protection of any watercourse, or of the soil, or any plants, or any wildlife, or to achieve concerted action, or for such other purpose as the Director-General shall specify.
@@ -537,6 +541,42 @@ The Director-General shall, in his annual report with respect to all operations 
 The enactments specified in the Schedule are hereby repealed.
 
 ## Schedule  — Enactments repealed
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ### 1 Title
 This Act is the Biosecurity Law Reform Act 2012.
