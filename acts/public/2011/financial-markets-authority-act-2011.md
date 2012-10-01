@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -180,7 +180,7 @@ The Minister may, by notice to the FMA, request that the FMA inquire into, and r
   (c) the offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 (4) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (5) This section contains an exception to section 121 of the Crown Entities Act 2004.
-(6) This section is subject to clauses 39 and 40 of Schedule 2 (which provide for immunities in respect of entry or search powers).
+(6) This section is subject to sections 165 to 168 of the Search and Surveillance Act 2012 (which provide for immunities in relation to orders and warrants, and entry, search, and surveillance powers).
 
 ### 23 FMA's warnings, reports, guidelines, or comments protected by qualified privilege
 For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any warning, report, guideline, or comment issued or made by the FMA in the course of the performance or intended performance of its functions must be treated as an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
@@ -240,17 +240,14 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 (2) A specified person authorised under subsection (1) may enter and search the place, vehicle, or other thing if—
   (a) the occupier of the place consents or the person in charge of the vehicle or thing consents (as the case may be); or
   (b) the specified person obtains a warrant under subsection (3).
-(3) A Judge of the High Court or a District Court Judge may issue a search warrant in relation to a place, vehicle, or other thing, on application by a specified person authorised under subsection (1), if the Judge is satisfied that there are reasonable grounds to—
+(3) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or thing, on an application made in the manner provided by subpart 3 of Part 4 of that Act by a specified person authorised under subsection (1), if the issuing officer is satisfied that there are reasonable grounds to—
   (a) suspect that a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of any provision of the financial markets legislation; and
-  (b) believe that the search will find evidential material in or on or part of the place, vehicle, or thing specified in the application.
-(4) In this section and Schedule 2,—
-  - **evidential material** means evidence or any other item, tangible or intangible, of relevance to the purpose referred to in subsection (1)
+  (b) believe that the search will find evidential material in or on or part of the place, vehicle, or thing.
+(4) In this section,—
   - **specified person** means—
     (a) an employee of the FMA; or
     (b) any other person that the FMA is satisfied is suitably qualified or trained, or is a member of a class of persons who are suitably qualified or trained, to act under this section
-  - **thing** includes an intangible thing (for example, an email address or access information to an Internet data storage facility)
-  - **vehicle** means any conveyance that is capable of being moved under a person’s control, whether or not the conveyance is used for the carriage of persons or goods, and includes a motor vehicle, aircraft, train, ship, or bicycle.
-(5) Schedule 2 applies for the purposes of this section.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply, with any necessary modifications.
 
 ### Subpart 2 — Sharing information and documents
 
@@ -855,465 +852,6 @@ The enactments specified in Schedule 3 are amended in the manner specified in th
 
 ## Schedule 2 — Provisions relating to search power
 
-**Search warrants**
-
-### 1 Interpretation
-(1) In this schedule, unless the context otherwise requires,—
-  - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
-  - **access information** includes codes, passwords, and encryption keys, and any related information that enables access to a computer system or any other data storage device
-  - **applicant** means a specified person authorised under section 29
-  - **computer system** —
-    (a) means—
-      (i) a computer; or
-      (ii) 2 or more interconnected computers; or
-      (iii) any communication links between computers or to remote terminals or another device; or
-      (iv) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device; and
-    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored data
-  - **issuing officer** means a Judge of the High Court or a District Court Judge
-  - **remote access search** means a search of a thing such as an Internet data storage facility that does not have a physical address that a person can enter and search
-  - **thing seized** does not include anything made or generated by a person exercising a search power (for example, photographs, drawings, or audio or video recordings made by or on behalf of that person, or a forensic copy of a computer hard drive).
-(2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
-  (a) with or without access information; and
-  (b) whether or not either or both computers are currently turned on; and
-  (c) whether or not access is currently occurring.
-
-### 2 Application for search warrant
-(1) An application for a search warrant must contain, in reasonable detail, the following particulars:
-  (a) the name of the applicant:
-  (b) the provision authorising the making of the application:
-  (c) the grounds on which the application is made (including the reasons why the legal requirements for issuing the warrant are believed by the applicant to be satisfied):
-  (d) the address or other description of the place, vehicle, or other thing proposed to be entered and searched:
-  (e) a description of the item or items or other evidential material believed to be in or on or part of the place, vehicle, or other thing that is or are sought by the applicant:
-  (f) the period for which the warrant is sought:
-  (g) if the applicant wants to be able to execute the warrant on more than 1 occasion, the grounds on which execution on more than 1 occasion is believed to be necessary.
-(2) The issuing officer may require the applicant to supply further information concerning the grounds on which the search warrant is sought.
-(3) The applicant must disclose in the application—
-  (a) details of any other application for a search warrant that the applicant knows to have been made within the previous 3 months in respect of the place, vehicle, or other thing proposed to be searched; and
-  (b) the result of that application or those applications.
-(4) The applicant must, before making an application for a search warrant, make reasonable inquiries within the FMA for the purpose of complying with subclause (3).
-(5) The issuing officer may authorise the search warrant to be executed on more than 1 occasion during the period in which the warrant is in force if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
-(6) An application for a search warrant must contain or be accompanied by a statement by the applicant confirming the truth and accuracy of the contents of the application.
-
-### 3 Mode of application for search warrant
-(1) An application for a search warrant—
-  (a) must be in writing, unless subclause (3) applies; and
-  (b) may be transmitted to the issuing officer electronically.
-(2) The applicant must appear in person before, or communicate orally with, the issuing officer, unless subclause (4) applies.
-(3) An issuing officer may allow an application for a search warrant to be made orally (for example, by telephone call) or by personal appearance and excuse the applicant from putting all or any part of the application (including any required material) in writing if—
-  (a) the issuing officer is satisfied that the delay that would be caused by requiring an applicant to put all or any part of the application (including any required material) in writing would compromise the effectiveness of the search; and
-  (b) the issuing officer is satisfied that the question of whether the warrant should be issued can properly be determined on the basis of an oral communication or a personal appearance (together with the material described in paragraph (c)); and
-  (c) the information required by clause 2(1) to (3) is supplied (whether orally, or partly orally and partly in writing) to the issuing officer.
-(4) An issuing officer may allow an application for a search warrant to be made without either an appearance in person or an oral communication with the issuing officer if—
-  (a) the issuing officer is satisfied that the question of whether the search warrant should be issued can properly be determined on the basis of any written communication by the applicant (including the material described in paragraph (b)); and
-  (b) the information required by clause 2(1) to (3) has been supplied to the issuing officer; and
-  (c) the issuing officer is satisfied that there is no need to ask any questions of, or seek any further information from, the applicant.
-(5) An issuing officer who allows an application for a search warrant to be made under subclause (3) must record the grounds for the application as soon as practicable.
-
-### 4 Retention of documents
-(1) A copy (whether in electronic form or otherwise) of every written application for a search warrant, or (in the case of an oral application) the record of the application made by the issuing officer, must be retained under the control of the Registrar of the District Court at which, or under the control of the Registrar of the District Court that is closest to the place at which, the application was made, until,—
-  (a) in a case where a search warrant is issued, the completion of any proceedings in respect of which the validity of the warrant may be in issue; and
-  (b) in any other case, the expiry of 2 years after the records were first retained under the control of the Registrar of a District Court.
-(2) An applicant to whom a search warrant is issued must retain (whether in electronic form or otherwise) the warrant, a copy of the application (if made in written form), copies of all documents tendered by the applicant in support of the application, and a copy of any search warrant report referred to in clause 7 required to be prepared, until,—
-  (a) in the case of a warrant that is executed, the completion of any proceedings in respect of which the validity of the warrant may be in issue; and
-  (b) in any other case, the destruction or transfer of the warrant and other documents is required by the Public Records Act 2005 or any other enactment or rule of law.
-
-### 5 Restrictions on issue of search warrant
-An issuing officer must not issue a warrant to seize any thing held by a lawyer that is a communication of a kind to which legal professional privilege normally applies unless the issuing officer is satisfied that there is a prima facie case that the thing was made, or received, or compiled, or prepared—
-  (a) for a dishonest purpose; or
-  (b) for the purpose of planning to commit or committing an offence.
-
-### 6 Form and content of search warrant
-(1) Every search warrant issued must be in the prescribed form.
-(2) Every search warrant issued must be directed to every person who has authority to execute the warrant.
-(3) A search warrant may be—
-  (a) executed by any or all of the persons to whom it is directed:
-  (b) subject to any conditions specified in the warrant that the issuing officer considers reasonable, including (without limitation)—
-    (i) any restriction on the time of execution that is reasonable:
-    (ii) a condition that the occupier or person in charge of a place must provide reasonable assistance to a person executing the warrant if, in the absence of such assistance, it would not be practical to execute the warrant without undue delay:
-  (c) executed only once, unless execution on more than 1 occasion has been authorised.
-(4) Every search warrant must contain, in reasonable detail, the following particulars:
-  (a) the name or other individual designation of the issuing officer and the date of issue:
-  (b) the provision or provisions authorising the issue of the warrant (including, where relevant, the suspected offence or offences):
-  (c) that the person executing the warrant may use any assistance that is reasonable in the circumstances:
-  (d) that any person authorised to do so may execute the warrant:
-  (e) that the person executing the warrant may use any force that is reasonable in the circumstances to enter or break open or access any area within the place, vehicle, or other thing being searched, or the thing found:
-  (f) the address or description of the place, vehicle, or other thing that may be entered and searched:
-  (g) a description of what may be seized:
-  (h) the period during which the warrant may be executed, being—
-    (i) a period specified by the issuing officer not exceeding 14 days from the date of issue; or
-    (ii) if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution, a period specified by the issuing officer not exceeding 30 days from the date of issue:
-  (i) any conditions specified by the issuing officer under subclause (3)(b):
-  (j) if the warrant may be executed on more than 1 occasion, the number of times that the warrant may be executed:
-  (k) if the warrant is intended to authorise a remote access search (for example, a search of a thing such as an Internet data storage facility that is not situated at a physical location), the access information that identifies the thing to be searched remotely:
-  (l) an explanation of the availability of relevant privileges and an outline of how any of those privileges may be claimed.
-(5) A search warrant may authorise the search of more than 1 place, vehicle, or other thing.
-(6) An issuing officer may not issue a search warrant authorising the remote access search of a thing unless he or she is satisfied that the thing is not located at a physical address that a person can enter and search.
-(7) A person is not required, as a consequence of a condition imposed under subclause (3)(b)(ii), to give any information tending to incriminate the person.
-
-### 7 Issuing officer may require search warrant report
-(1) An issuing officer may impose a condition under clause 6(3)(b) requiring the FMA to provide that issuing officer with a search warrant report within a specified period.
-(2) A search warrant report must contain the following information:
-  (a) whether the search warrant was executed:
-  (b) whether the execution of the search warrant resulted in the seizure of evidential material, and, if so, whether that material was material—
-    (i) specified in the search warrant; or
-    (ii) seized under clause 20; or
-    (iii) some of which was specified in the warrant and some of which was seized under clause 20:
-  (c) whether any other powers exercised in conjunction with the execution of the warrant resulted in the seizure of evidential material:
-  (d) whether any criminal proceedings have been brought, or are under consideration, that relate to any evidential material seized.
-
-### 8 Transmission of search warrant
-If it is not possible or practicable for the person charged with executing the warrant to have it in his or her possession at the time of execution, one of the following documents (which is deemed for all legal purposes to constitute the warrant) may be executed:
-  (a) a facsimile, or a printout of an electronically generated copy, of a warrant issued by the issuing officer:
-  (b) a copy made by the person to whom the warrant is directed, at the direction of the issuing officer and endorsed to that effect.
-
-### 9 When search warrant executed
-A search warrant is executed when the person executing the warrant and any person assisting in the execution of the warrant—
-  (a) has seized all the items specified in the warrant; or
-  (b) leaves the place, vehicle, or other thing being searched and does not return within 4 hours.
-
-### 10 When search warrant invalid
-(1) A search warrant is invalid—
-  (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in section 29 were not satisfied at the time the search warrant was issued:
-  (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
-(2) If a warrant is invalid under this clause, section 204 of the Summary Proceedings Act 1957 does not apply to that warrant.
-
-**Carrying out inspection and search powers**
-
-### 11 Application
-For the purposes of this schedule, search power means—
-  (a) every search warrant issued under this Act; and
-  (b) every power conferred under section 29 to enter and search (without warrant) any place, vehicle, or other thing.
-
-### 12 Search powers
-Every search power authorises the person exercising it—
-  (a) to enter and search the place, vehicle, or other thing that the person is authorised to enter and search, and any item or items found in that place, vehicle, or other thing, at any time that is reasonable:
-  (b) to request any person to assist with the entry and search (including, without limitation, a member of a hapū or an iwi if the place to be entered is of cultural or spiritual significance to that hapū or iwi):
-  (c) to use any force in respect of any property that is reasonable for the purposes of carrying out the entry and search and any lawful seizure:
-  (d) to seize any thing that may lawfully be seized:
-  (e) to bring and use in or on the place, vehicle, or other thing searched any equipment, to use any equipment found on the place, vehicle, or other thing, and to extract any electricity from the place, vehicle, or other thing to operate the equipment that it is reasonable to use in the circumstances, for the purposes of carrying out the entry and search:
-  (f) to copy any document, or part of a document, that may lawfully be seized:
-  (g) to access and copy intangible material from a computer system or other data storage device located (in whole or in part) at the place, vehicle, or other thing searched (including copying by means of previewing, cloning, or other forensic methods either before or after removal for examination):
-  (h) to use any reasonable measures to—
-    (i) gain access to any computer system or other data storage device located (in whole or in part) at the place, vehicle, or other thing to be searched; and
-    (ii) create a forensic copy of any material in such a computer system or other data storage device:
-  (i) to take photographs, sound and video recordings, and drawings of the place, vehicle, or other thing searched, and of any thing found in that place, vehicle, or other thing, if the person exercising the power has reasonable grounds to believe that the photographs or sound or video recordings or drawings may be relevant to the purposes of the entry and search.
-
-### 13 Remote access search of thing authorised by warrant
-Every person executing a search warrant authorising a remote access search may—
-  (a) access and copy intangible material from the thing being searched (including copying by means of previewing, cloning, or other forensic methods); and
-  (b) use reasonable measures to—
-    (i) gain access to the thing; and
-    (ii) create a forensic copy of material in the thing.
-
-### 14 Items of uncertain status may be seized
-If a person exercising a search power is uncertain whether any item found may lawfully be seized, and it is not reasonably practicable to determine whether that item can be seized at the place or vehicle where the search takes place, the person exercising the search power may remove the item for the purpose of examination or analysis to determine whether it may be lawfully seized.
-
-### 15 Powers of persons called on to assist
-(1) Every person called on to assist a person exercising a search power is subject to the control of the person with overall responsibility for exercising that power.
-(2) Every person called on to assist a person exercising a search power may—
-  (a) enter the place, vehicle, or other thing to be searched:
-  (b) while under the direction of the person exercising the power, use reasonable force in respect of any property for the purposes of carrying out the entry and search and any lawful seizure:
-  (c) search areas within the place, vehicle, or other thing that the person exercising the power has determined may lawfully be searched:
-  (d) seize any thing that may lawfully be seized:
-  (e) take photographs, sound and video recordings, and drawings of the place, vehicle, or other thing, and things found in the place, vehicle, or other thing, if the person exercising the power has determined that those things may be lawfully taken:
-  (f) bring into or onto the place, vehicle, or other thing and use any equipment, make use of any equipment found on the place, vehicle, or other thing, or extract electricity from the place, vehicle, or other thing for the purposes of operating the equipment that the person exercising the power has determined may be lawfully used:
-  (g) access and copy intangible material from a computer system or other data storage device located (in whole or in part) at the place, vehicle, or other thing searched (including copying by means of previewing, cloning, or other forensic methods either before or after removal for examination):
-  (h) copy any document, or part of a document, that the person exercising the power has determined may be lawfully copied:
-  (i) use any reasonable measures to—
-    (i) gain access to any computer system or other data storage device that is located (in whole or in part) at the place, vehicle, or other thing to be searched; and
-    (ii) create a forensic copy of any material in such a computer system or other data storage device.
-(3) If a constable is assisting another person exercising the search power, the constable may, without any direction or supervision by the person he or she is assisting, exercise any power ordinarily exercisable by the constable.
-(4) The person exercising the search power must—
-  (a) accompany any assistant on the first occasion when the assistant enters the place, vehicle, or other thing to be searched; and
-  (b) provide such other supervision of any assistant as is reasonable in the circumstances.
-(5) Subclause (4) does not apply if the assistant is a constable.
-
-### 16 Powers of persons called on to assist remote access search
-Every person called on to assist a person executing a search warrant authorising a remote access search may—
-  (a) access and copy intangible material from the thing being searched (including copying by means of previewing, cloning, or other forensic methods); and
-  (b) use reasonable measures to—
-    (i) gain access to the thing; and
-    (ii) create a forensic copy of material in the thing.
-
-### 17 Limitation on exercise of powers
-The powers conferred by clauses 12 to 16 are subject to—
-  (a) any conditions imposed under clause 6(3)(b) by an issuing officer who issues a search warrant:
-  (b) clauses 29 to 35 (which relate to privileges).
-
-### 18 Securing place, vehicle, or other thing to be searched
-(1) The person carrying out a search may, in a manner and for a duration that is reasonable for the purposes of carrying out the search,—
-  (a) secure the place, vehicle, or other thing searched, any area within that place, vehicle, or other thing, or any thing found within that place, vehicle, or other thing:
-  (b) exclude any person from the place, vehicle, or other thing searched, or from any area within the place, vehicle, or other thing, or give any other reasonable direction to such a person, if the person carrying out the search has reasonable grounds to believe that the person will obstruct or hinder the exercise of the power.
-(2) A person who exercises any power under subclause (1) must on the request of any person affected by the exercise of the power—
-  (a) identify himself or herself; and
-  (b) advise the person affected of the reason and authority for the exercise of the power.
-
-### 19 Moving vehicle for purpose of search, safekeeping, or road safety
-A person who exercises a search power may move a vehicle to another place if he or she finds the vehicle and he or she—
-  (a) has lawful authority to search the vehicle, but it is impracticable to do so at that place; or
-  (b) has reasonable grounds to believe that it is necessary to move the vehicle for safekeeping or for road safety purposes.
-
-### 20 Seizure of items in plain view
-(1) A person who exercises a search power or who is lawfully in any place as part of his or her duties may seize any item or items that he or she, or any person assisting him or her, finds in the course of carrying out the search or as a result of observations at that place, if the person has reasonable grounds to believe that he or she could have seized the item or items under—
-  (a) any search warrant that could have been obtained by him or her under this Act or any other enactment; or
-  (b) any other search power exercisable by him or her under this Act or any other enactment.
-(2) If a person seizes any item or items under subclause (1) in circumstances where he or she is not already exercising a search power, the person may exercise any applicable power conferred by clause 12 in relation to the seizure of the item or items.
-
-### 21 Search warrants to enter and search vehicles
-If a search warrant is issued authorising the entry and search of a vehicle, the person executing the warrant may enter any place where the person has reasonable grounds to believe that the vehicle is for the purpose of locating it and searching it.
-
-### 22 Duty to remain stopped
-If a person exercises a power to search a vehicle, the person may require the vehicle to remain stopped for as long as is reasonably necessary to undertake the search.
-
-### 23 Duty of persons with knowledge of computer system or other data storage devices to assist access
-(1) A person exercising a search power at any place or vehicle or in respect of any other thing may require a relevant person to provide access information and other information or assistance that is reasonable and necessary to allow the person exercising the search power to access data held in—
-  (a) a computer system that is located (in whole or in part) at the place or in the vehicle or other thing being searched:
-  (b) any other data storage device that is located (in whole or in part) at the place or in the vehicle or other thing being searched.
-(2) In this clause, a relevant person is a person who—
-  (a) is the owner or lessee of the computer system or other data storage device, or is in possession or control of the computer system or data storage device, an employee of any of the above, or any service provider who provides service to the above and holds access information; and
-  (b) has relevant knowledge of—
-    (i) the computer system or other data storage device; or
-    (ii) measures applied to protect data held in, or accessible from, the computer system or other data storage device.
-(3) A relevant person may not be required under subclause (1) to give any information tending to incriminate the person.
-(4) Subclause (3) does not prevent a person exercising a search power from requiring a relevant person to provide information that—
-  (a) is reasonable and necessary to allow the person exercising the search power to access data held in, or accessible from, a computer system or other data storage device that—
-    (i) is at or in the place, vehicle, or other thing to be searched; and
-    (ii) contains or may contain information tending to incriminate the relevant person; but
-  (b) does not itself tend to incriminate the relevant person.
-(5) Subclause (3) does not prevent a person exercising a search power from requiring a relevant person to provide assistance that is reasonable and necessary to allow the person exercising the search power to access data held in, or accessible from, a computer system or other data storage device that—
-  (a) is at or in the place, vehicle, or other thing concerned; and
-  (b) contains or may contain information tending to incriminate the relevant person.
-(6) Subclauses (1), (4), and (5) are subject to clauses 29 to 35 (which relate to privileges).
-
-### 24 Identification and notice requirements for person exercising search power (other than remote access search)
-(1) A person exercising a search power (other than a remote access search) must,—
-  (a) before initial entry into or onto the place, vehicle, or other thing to be searched,—
-    (i) announce his or her intention to enter and search the place, vehicle, or other thing under a statutory power; and
-    (ii) identify himself or herself; and
-  (b) before or on initial entry into or onto the place, vehicle, or other thing to be searched,—
-    (i) give the occupier (if present) of the place or the person in charge of the vehicle or other thing a copy of the search warrant or advice about the enactment (the authority) that authorises him or her to conduct the entry and search; and
-    (ii) produce to the occupier of the place or the person in charge of the vehicle or other thing evidence of his or her identity (which may include details of a unique identifier instead of a name).
-(2) The person exercising the search power is not required to comply with subclause (1)(a) if he or she has reasonable grounds to believe that—
-  (a) no person is lawfully present in or on the place, vehicle, or other thing to be searched; or
-  (b) compliance with subclause (1)(a) would—
-    (i) endanger the safety of any person; or
-    (ii) prejudice the successful exercise of the entry and search power; or
-    (iii) prejudice ongoing investigations.
-(3) The person exercising the search power may use reasonable force in order to effect entry into or onto the place, vehicle, or other thing if—
-  (a) subclause (2) applies; or
-  (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
-(4) If the occupier of a place is not present at any time during the search, or no person is in charge of the vehicle or other thing during the search, the person carrying out the search must,—
-  (a) on completion of the search, leave a copy of the authority referred to in subclause (1)(b)(i) and the notice referred to in subclause (5) in a prominent position at the place or in or on the vehicle or other thing; or
-  (b) if this is not reasonably practicable, provide the copy of the authority referred to in subclause (1)(b)(i) and the notice referred to in subclause (5) to the occupier of the place or the owner of the vehicle or other thing no later than 7 days after the exercise of the power.
-(5) The notice required by subclause (4) is a written notice containing the following particulars:
-  (a) the date and time of the commencement and completion of the search:
-  (b) the name or unique identifier of the person who had overall responsibility for that search:
-  (c) the address of the office to which inquiries should be made:
-  (d) if nothing is seized, the fact that nothing was seized:
-  (e) if anything was seized, the fact that seizure occurred and (if an inventory is not provided at the same time under clauses 26 to 28) that an inventory of the things seized will be provided to the occupier of the place or person in charge of the vehicle or other thing no later than 7 days after the seizure.
-(6) For the purposes of this clause and clauses 26 to 28,—
-  (a) the following persons may not be treated as the occupier of the place or the person in charge of the vehicle or other thing:
-    (i) any person who is under 14 years of age:
-    (ii) any person who the person executing the warrant has reasonable grounds to believe is not the occupier of the place or person in charge of the vehicle or other thing:
-  (b) every reference to a copy of the authority referred to in subclause (1)(b)(i) means, in a case where a search is undertaken without a search warrant, written advice about the enactment that authorises the search.
-(7) Subclauses (4) and (5) are subject to clauses 27 and 28.
-(8) This clause does not apply to a remote access search.
-
-### 25 Identification and notice requirements for remote access search
-(1) A person who conducts a remote access search must, on completion of the search, send an electronic message to the email address of the thing searched—
-  (a) attaching a copy of the search warrant; and
-  (b) setting out the following particulars:
-    (i) the date and time of the commencement and completion of the search:
-    (ii) the name and unique identifier of the person who had overall responsibility for that search:
-    (iii) the address of the office to which inquiries should be made.
-(2) If the person conducting the search is unable to deliver the electronic message required by subclause (1) (or it is returned undelivered), the person must take all reasonable steps to identify the user of the thing searched and to send the information referred to in subclause (1)(a) and (b) to that person.
-
-### 26 Inventory of items seized
-(1) The person who carries out a search must, at the time he or she seizes any thing, or as soon as practicable after the seizure of any thing, and in any case not later than 7 days after that seizure, provide to the occupier of the place, or the person in charge of the vehicle or other thing, from where the seizure took place, and to every other person who the person who carried out the search has reason to believe is the owner of the thing that was seized,—
-  (a) written notice specifying what was seized; and
-  (b) a copy of the authority referred to in clause 24(1)(b)(i).
-(2) A written notice referred to in subclause (1)(a)—
-  (a) must contain information about the extent to which a person from whom a thing was seized or the owner of the thing has a right to apply—
-    (i) to have access to the thing; or
-    (ii) to have access to any document relating to the application for a search warrant or the exercise of any other search power that led to the seizure; and
-  (b) must contain information about the right to bring a claim that any privileged or confidential information has been seized; but
-  (c) need not be provided to the occupier of the place or person in charge of the vehicle or other thing from which the seizure took place, if the person who carries out the search is satisfied that none of the items seized are owned by that person.
-(3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subclause (1)(a) and a copy of the authority referred to in clause 24(1)(b)(i) may be provided to that person by leaving the notice in a prominent position at the place or in or on the vehicle or other thing.
-(4) Subclause (1) is subject to subclauses (2) and (3).
-(5) This clause is subject to clauses 27 and 28.
-
-### 27 Compliance with certain provisions may be deferred in certain circumstances
-(1) A person exercising a search power may apply to a District Court Judge for a postponement of the obligation to comply with clause 24(4) or (5) or 26 on the grounds that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(2) An application may be made under subclause (1),—
-  (a) in the case of an entry and search power that is a search warrant, at the time of the initial application or until the expiry of 7 days after the warrant is finally executed; or
-  (b) in the case of any other entry and search power, until the expiry of 7 days after the search power is exercised.
-(3) On an application under subclause (1), the District Court Judge may postpone for a specified period not exceeding 12 months the obligation to comply with clause 24(4) or (5) or 26, if the Judge is satisfied that there are reasonable grounds for believing that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-
-### 28 Further postponement of, or dispensation from, obligation to comply with certain provisions
-(1) A person who has obtained an order under clause 27(3) may, before the expiry of that order, apply to a District Court Judge for a further postponement of, or dispensation from, the obligation to comply with clause 24(4) or (5) or 26 on the grounds that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(2) An application for a further postponement may be made on only 1 occasion.
-(3) On an application under subclause (1), the District Court Judge may postpone for a further specified period not exceeding 12 months, or order a permanent dispensation from, the obligation to comply with clause 24(4) or (5) or 26 if the Judge is satisfied that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations.
-(4) A District Court Judge may not grant, under subclause (3), any postponement of, or dispensation from, an obligation in respect of any thing that has been seized, unless the thing seized is—
-  (a) a copy or clone of any information taken or made; or
-  (b) a thing the possession of which by the person from whom it was seized is unlawful under New Zealand law.
-
-**Privileges**
-
-### 29 Recognition of privilege
-(1) The following privileges are recognised for the purposes of this schedule:
-  (a) legal professional privilege, to the extent that (under section 53(5) of the Evidence Act 2006) it forms part of the general law:
-  (b) privilege for communications with legal advisers (as described in section 54 of the Evidence Act 2006):
-  (c) privilege for preparatory materials for proceedings (as described in section 56 of the Evidence Act 2006):
-  (d) privilege for settlement negotiations or mediation (as described in section 57 of the Evidence Act 2006):
-  (e) privilege for communications with ministers of religion (as described in section 58 of the Evidence Act 2006):
-  (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in section 59 of the Evidence Act 2006):
-  (g) privilege for informers (as described in section 64 of the Evidence Act 2006):
-  (h) the rights conferred on a journalist under section 68 of the Evidence Act 2006 to protect certain sources.
-(2) For the purposes of this schedule, no privilege applies in respect of any communication or information if there is a prima facie case that the communication or information is made or received, or compiled or prepared,—
-  (a) for a dishonest purpose; or
-  (b) to enable or aid any person to commit or plan to commit what the person claiming the privilege knew, or ought reasonably to have known, to be an offence.
-(3) Subclause (4) applies to documents that are books of account or accounting records kept—
-  (a) by a solicitor in relation to any trust account money that is subject to section 112 of the Lawyers and Conveyancers Act 2006; or
-  (b) by a nominee company that—
-    (i) is subject to practice rules made by the Council of the New Zealand Law Society under section 96 of the Lawyers and Conveyancers Act 2006; and
-    (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
-(4) The application by subclause (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
-  (a) the issuing of a search warrant or exercise of any other search power in respect of a document to which this subclause applies; or
-  (b) the obligation to comply with that search warrant or other search power in respect of a document to which this subclause applies; or
-  (c) the admissibility, in a criminal proceeding for an offence described in the search warrant or for an offence in respect of which any other search power was exercised, of any evidence that relates to the contents of a document obtained under the search warrant or as the result of the exercise of any other search power.
-
-### 30 Effect of privilege on search warrants and search powers
-A person who makes a claim of privilege (being a privilege recognised by this schedule) in respect of any thing that is seized or sought to be seized has the right, in accordance with clauses 31 to 35,—
-  (a) to prevent the search under this Act of any communication or information to which the privilege would apply if it were sought to be disclosed in a proceeding, pending determination of the claim to privilege, and subsequently if the claim to privilege is upheld:
-  (b) to require the return of a copy of, or access to, any such communication or information to the person if it is seized or secured by a person exercising a search power, pending determination of the claim to privilege.
-
-### 31 Search warrants that extend to lawyers' premises or material held by lawyers
-(1) This clause applies to the execution of a search warrant that authorises the search of materials held by a lawyer relating to a client.
-(2) If this clause applies, the search warrant may not be executed unless—
-  (a) the lawyer is present; or
-  (b) a representative of the lawyer is present.
-(3) If the person who is to execute the search warrant is unable to contact the lawyer or his or her representative, that person must instead contact the New Zealand Law Society and request that a person be appointed by the Society to represent the interests of the clients of the lawyer in relation to the search.
-(4) Before executing the search warrant, the person who is to execute it must give the lawyer or his or her representative, or any person appointed by the New Zealand Law Society under subclause (3),—
-  (a) the opportunity to claim privilege on behalf of the lawyer's client; or
-  (b) the opportunity to make an interim claim of privilege if instructions have not been obtained from the client.
-
-### 32 Searches otherwise affecting privileged materials
-(1) This clause applies if—
-  (a) a person executes a search warrant or exercises another search power; and
-  (b) he or she has reasonable grounds to believe that any thing discovered in the search may be the subject of a privilege recognised by this schedule.
-(2) If this clause applies, the person responsible for executing the search warrant or other person exercising the search power—
-  (a) must provide to any person who he or she believes may be able to claim a privilege recognised by this schedule a reasonable opportunity to claim it; and
-  (b) may, if the person executing the search warrant or exercising the other search power is unable to identify or contact a person who may be able to claim a privilege, or that person's lawyer, within a reasonable period,—
-    (i) apply to a District Court for a determination as to the status of the thing; and
-    (ii) do any thing necessary to enable that court to make that determination.
-
-### 33 Interim steps pending resolution of privilege claim
-If a person executing a search warrant or exercising another search power is unable, under clause 30, 31, or 32, to search a thing (whether as a result of the requirements of any of those provisions, or because of a claim of privilege made in respect of the thing, or for any other reason), the person—
-  (a) may—
-    (i) secure the thing; and
-    (ii) if the thing is intangible (for example, computer data), secure the thing by making a forensic copy; and
-    (iii) deliver the thing, or a copy of it, to the District Court, to enable the determination of a claim to privilege; and
-  (b) must supply to the lawyer or other person who may or does claim privilege a copy of, or access to, the secured thing; and
-  (c) must not search the thing secured, unless no claim of privilege is made, or a claim of privilege is withdrawn, or the search is in accordance with the directions of the court determining the claim of privilege.
-
-### 34 Claims for privilege for things seized or sought to be seized
-Any person who wishes to claim privilege in respect of any thing seized or sought to be seized by a person executing a search warrant or exercising another search power—
-  (a) must provide to the person responsible for executing the search warrant or exercising the other search power a particularised list of the things in respect of which the privilege is claimed, as soon as practicable after being provided with the opportunity to claim privilege or being advised that a search is to be, or is being, or has been conducted, as the case requires:
-  (b) if the thing or things in respect of which the privilege is claimed cannot be adequately particularised in accordance with paragraph (a), may apply to a District Court for directions or relief (with a copy of the thing provided under clause 33(b)).
-
-### 35 Admission of evidence
-(1) If a District Court upholds a claim to privilege under clauses 29 to 34 in respect of any communication or information, the communication or information to which the privilege applies is not admissible in any proceedings arising from, or related to, the execution of the search warrant or exercise of the other search power, as the case requires.
-(2) Subject to subclause (1), this schedule does not limit or affect the admissibility of any evidence, or the discretion of any court to admit or refuse to admit any evidence, in any proceedings.
-
-**Disposal of things seized**
-
-### 36 Disposal of things seized
-(1) In any proceedings relating to any thing seized under a search warrant or the exercise of any other search power under this schedule, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) The FMA may, at any time, unless an order has been made under subclause (1), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
-(3) On any such application, the District Court Judge may make any order that a court may make under subclause (1).
-(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiry of that period, apply to a District Court Judge for an order that it be delivered to him or her.
-(5) On any such application, the District Court Judge may—
-  (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
-  (b) make any order that a court may make under subclause (1).
-
-### 37 Court order for disposal of things seized to be suspended on conviction
-(1) If any person is convicted in any proceedings for an offence relating to anything for which a search warrant has been issued, and any order is made under clause 36, the operation of the order is suspended,—
-  (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
-  (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
-  (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
-(2) If the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
-
-### 38 Disposal of forensic copies
-(1) A person who makes a forensic copy of any data held in a computer system or other data storage device must, if he or she determines that the data does not contain any evidential material, ensure that the forensic copy and any copies made from that copy are deleted, erased, or otherwise destroyed in a way that prevents retrieval of the copy or copies by any method.
-(2) However, if an examination of the data shows that it contains a mixture of data that is evidential material and data that is not evidential material,—
-  (a) the forensic copy of the data and any copies made of that copy may be retained in their entirety; and
-  (b) that forensic copy and any copies made of that copy may continue to be searched, if such a search was authorised by the search power under which the data was seized and copied.
-
-**Immunities**
-
-### 39 Immunities in relation to exercise of entry or search powers
-(1) Every person is immune from civil or criminal liability—
-  (a) for any act done in good faith in order to obtain a search warrant:
-  (b) for any act done in good faith in relation to the execution of a search warrant, if the execution is carried out in a reasonable manner.
-(2) Every person is immune from civil and criminal liability for any act done in good faith in order to exercise an entry power or a search power if—
-  (a) the power is exercised by that person in a reasonable manner; and
-  (b) the person believes on reasonable grounds that the preconditions for the exercise of that power have been satisfied.
-(3) Every person is immune from civil and criminal liability for any act done in good faith and in a reasonable manner in order to assist a person to exercise an entry power or a search power or in order to examine or analyse any thing that is seized.
-(4) In any civil proceeding in which a person asserts that he or she has an immunity under this clause, the onus is on that person to prove those facts necessary to establish the basis of the claim.
-
-### 40 Immunity of FMA
-If any person is immune from civil liability under clause 39 in respect of anything done or omitted to be done, the FMA is also immune from civil liability in tort in respect of that person's conduct.
-
-**Offences**
-
-### 41 False application for search warrant
-Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year, who makes an application for a search warrant that contains any assertion or other statement known by the person to be false.
-
-### 42 Offence of failing to carry out obligations in relation to computer system search
-Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months, who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under clause 23.
-
-**Miscellaneous**
-
-### 43 Effect of proceedings
-(1) This clause applies when any proceeding has been commenced in any court in respect of—
-  (a) the exercise of any power conferred by section 29; or
-  (b) the discharge of any duty imposed by this schedule; or
-  (c) the use for investigative purposes of any evidential material obtained from the execution of a power conferred by section 29.
-(2) Until a final decision in relation to the proceeding is given, unless an interim order made under subclause (3) is in force,—
-  (a) the power or duty to which the proceeding relates may be, or may continue to be, exercised or discharged as if the proceeding had not been commenced, and no person is excused from fulfilling any obligation under this schedule by reason of that proceeding; and
-  (b) any evidential material obtained from the execution of the power or discharge of the duty to which the proceeding relates may be, or may continue to be, used for investigative purposes.
-(3) An interim order may be made by the High Court overriding the effect of subclause (2), but only if the High Court is satisfied that—
-  (a) the applicant for the order has established a prima facie case that the warrant in question is unlawful; and
-  (b) that applicant would suffer substantial harm from the exercise or discharge of the power or duty; and
-  (c) if the power or duty is exercised or discharged before a final decision is made in the proceeding, none of the remedies specified in subclause (4), or any combination of those remedies, could subsequently provide an adequate remedy for that harm; and
-  (d) the terms of that order do not unduly hinder or restrict the investigation or prosecution.
-(4) The remedies are as follows:
-  (a) any remedy that the court may grant in making a final decision in relation to the proceeding (for example, a declaration):
-  (b) any damages that the applicant for the order may be able to claim in concurrent or subsequent proceedings:
-  (c) any opportunity that the applicant may have, as defendant in a criminal proceeding, to challenge the admissibility of any evidence obtained as a result of the exercise or discharge of the power or duty.
-(5) An interim order made under subclause (3)—
-  (a) ceases to have effect on—
-    (i) a date specified in that order; or
-    (ii) any date subsequently specified by the High Court on being satisfied that paragraphs (a) to (d) of subclause (3) continue to apply; and
-  (b) may be extended or renewed (whether before, on, or after its expiry) by the High Court, but only if the High Court is satisfied that paragraphs (a) to (d) of subclause (3) continue to apply.
-
-### 44 Service of orders and notices under schedule
-(1) Where an order or a notice is to be given to a person for the purposes of this schedule, it may be given—
-  (a) by delivering it personally to the person; or
-  (b) by delivering it at the usual or last known place of residence or business of the person, including by fax or by electronic mail; or
-  (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
-(2) Where an order or notice is to be served on a corporation for the purposes of this schedule, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subclause (1) is deemed to be service on the corporation.
-(3) Where an order or notice is to be served on a partnership for the purposes of this schedule, service on any one of the partners in accordance with subclause (1) or (2) is deemed to be service on the partnership.
-(4) Where an order or notice is sent by post to a person in accordance with subclause (1)(c), the order or notice is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
-
 ## Schedule 3 — Amendments to other enactments
 
 ### 258B Registrar may supply report to FMA
@@ -1546,3 +1084,39 @@ The FMA is authorised to require payment to it of the costs incurred by the FMA 
   (b) the publication in the Gazette of a notice of an exemption under section 48 of the Act.
 
 ## Schedule 4 — Amendments to replace references to Securities Commission or Government Actuary
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
