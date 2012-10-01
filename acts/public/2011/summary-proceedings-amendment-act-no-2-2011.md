@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 2011
-_Consolidation as at 2012-03-05_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2011.
