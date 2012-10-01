@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -1277,26 +1277,18 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 **Powers of animal product officers**
 
 ### 87 Power of entry
-(1) An animal product officer may at any reasonable time, for the purpose of determining whether or not any person is complying with this Act or any animal material or animal product or associated thing is in compliance with the requirements of this Act, without a warrant enter any place (other than a dwellinghouse or marae) at, in, or from which—
+(1) An animal product officer may, for the purpose of determining whether or not any person is complying with this Act or any animal material or animal product or associated thing is in compliance with the requirements of this Act, without a warrant enter any place (other than a dwellinghouse or marae) at, in, or from which—
   (a) any primary producer operates, or any animal product business that is subject to a risk management programme or a regulated control scheme or a food safety programme that is also registered as a risk management programme is operated; or
   (b) any kind of goods that is or includes animal material or product is processed for sale or sold; or
   (c) any registered exporter operates; or
   (d) any listed homekill or recreational catch service provider operates; or
   (e) any recognised agency or recognised person operates; or
   (f) the books or records, or other business information kept in writing or electronic form, of any such producer, business, service provider, recognised agency, recognised person, or exporter are kept.
-(2) Where an animal product officer believes on reasonable grounds that it is necessary to do so for the purpose of preventing or minimising a risk to human health, the officer may, at any reasonable time, enter any place (other than a dwellinghouse or marae) adjoining or in the vicinity of a place where shellfish grow or are harvested for the purpose of identifying, monitoring, sampling, or testing any element or thing that might constitute a potential contaminant to or in the shellfish.
-(3) An officer who enters any place under subsection (2) must—
-  (a) give the owner or occupier reasonable notice of the officer's intention to enter the place, unless to do so would defeat the purpose of the entry; and
-  (b) if such notice is not or cannot be given, leave in a prominent location at the place a written statement of—
-    (i) the time and date of the entry; and
-    (ii) the purpose of the entry; and
-    (iii) the name of the officer; and
-    (iv) the address of the office to which enquiries should be made.
-(4) An animal product officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 94, enter any place (including a dwellinghouse or a marae) specified in the warrant, at any time that is reasonable in the circumstances.
-(5) An officer who exercises any power under this section must produce his or her evidence of appointment—
-  (a) on first entering the place; and
-  (b) whenever subsequently reasonably required to do so by a person appearing to have charge of the place or any part of the place.
-(6) A person called on to assist an animal product officer under section 88(3) may accompany the officer into any premises or place that the officer enters under this section.
+(2) Where an animal product officer believes on reasonable grounds that it is necessary to do so for the purpose of preventing or minimising a risk to human health, the officer may enter any place (other than a dwellinghouse or marae) adjoining or in the vicinity of a place where shellfish grow or are harvested for the purpose of identifying, monitoring, sampling, or testing any element or thing that might constitute a potential contaminant to or in the shellfish.
+(3)
+(4) An animal product officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 94, enter any place (including a dwellinghouse or a marae) specified in the warrant.
+(5) The provisions of subparts 1, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply.
+(6)
 
 ### 88 Power to examine, etc
 (1) An animal product officer may, so far as is reasonably necessary for the purpose of determining compliance with this Act at any place that the officer may enter under section 87(1),—
@@ -1310,8 +1302,8 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
   (f) direct the operator or person in charge of the place to identify and hold any animal material, animal product, substance, equipment, package, container, or other relevant thing until—
     (i) the results of tests and analysis have been assessed; or
     (ii) any lawful direction of an animal product officer has been complied with.
-(2) An animal product officer must return any documents or records removed under subsection (1)(b)(i) within such time as is reasonable to allow for their copying.
-(3) An animal product officer may call on any person to assist him or her in the exercise of his or her powers under this section. Any such person may act only under the supervision and in accordance with the instructions of the animal product officer.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)(a) or (b).
+(3) An animal product officer may call on any person to assist him or her in the exercise of his or her powers under this section (other than under subsection (1)(a) or (b)). Any such person may act only under the supervision and in accordance with the instructions of the animal product officer.
 
 ### 89 Power to interrupt operations, etc
 For the purposes of determining or ensuring the compliance of animal material or animal products with the requirements of this Act, an animal product officer may—
@@ -1346,8 +1338,39 @@ For the purposes of determining or ensuring the compliance of animal material or
 (2) If the owner or person in control fails to present the animals as required by a written notice under subsection (1)(a), the officer may capture, collect, muster, extract, harvest, or pen the animals for the relevant purpose.
 (3) The presentation of any animal required by a written notice under subsection (1)(a) is at the cost of the person to whom the notice was addressed, and any expenses reasonably incurred by the officer in the exercise of his or her powers under subsection (2) may be recovered from that person.
 
+### 91A Disposal of seized animals prior to commencement or determination of proceedings
+(1) This section applies if—
+  (a) a live animal is or live animals are seized by a constable or an animal product officer under the authority of a search warrant issued under section 94; and
+  (b) either—
+    (i) proceedings for an offence involving that animal or those animals—
+      (A) have been commenced but not yet determined; or
+      (B) have not yet been commenced but are intended to be commenced within a reasonable period; or
+    (ii) the owner of that animal or animals cannot be located.
+(2) If this section applies, a District Court, on its own motion or on an application by a constable or an animal product officer, may make an order authorising—
+  (a) the sale of the animal or animals; or
+  (b) the placement of the animal or animals with another person; or
+  (c) the destruction, slaughter, and processing of the animal or animals for animal products for sale, or other disposal of the animal or animals.
+(3) The District Court—
+  (a) must, before making an order under subsection (2), give the owner of the animal or animals, if known and able to be contacted, an opportunity to be heard; and
+  (b) may make an order under subsection (2) if it is satisfied that there are good reasons for making that order; and
+  (c) may, when making the order, impose conditions (whether relating to the payment of any security holder in the animal or animals or otherwise).
+(4) In determining whether to make any order referred to in subsection (2), the court must have regard to the following matters:
+  (a) whether the owner of the animal or animals has been identified, and if not, the steps that have been taken to identify and contact that person:
+  (b) the number of animals involved:
+  (c) the cost of continuing to hold the animal or animals:
+  (d) the physical state of the animal or animals:
+  (e) whether it is reasonable or practicable for the animal or animals to be placed elsewhere:
+  (f) whether it is reasonable or practicable for the Ministry to retain possession of and care for the animal or animals until the determination of the proceedings relating to the animal or animals:
+  (g) whether any person will suffer material loss, and the extent of that loss, if the animal or animals are or are not sold:
+  (h) the fitness for purpose of any animal products derived from the seized animal or animals:
+  (i) any other matters the court considers relevant.
+(5) If an animal is or animals are sold under an order made under subsection (2)(a) or animal products are sold under an order made under subsection (2)(c), the proceeds of sale (if any) must be held by the Ministry (after deducting (in order) the costs of transport and processing, the cost of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+(6) The Ministry must, unless the proceeds of sale are otherwise forfeited to the Crown or the owner of the animal or animals is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
+  (a) after the determination of the proceedings for an offence involving that animal or those animals; or
+  (b) after a decision is taken not to commence any such proceedings.
+
 ### 92 Powers under search warrant
-An animal product officer in whose name a search warrant is issued under section 94 has all the powers specified in section 95.
+[Repealed]
 
 **Powers of official assessors**
 
@@ -1364,40 +1387,32 @@ An animal product officer in whose name a search warrant is issued under section
 **Search warrants**
 
 ### 94 Issue of search warrant
-(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant in the form set out in the Schedule in respect of any place (including any dwellinghouse or marae or other place that an animal product officer has no power to enter under section 87) if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place (including any dwellinghouse or marae or other place that an animal product officer has no power to enter under section 87) if satisfied, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 by an animal product officer or a constable, that there are reasonable grounds for believing that there is at that place any thing—
   (a) in respect of which an offence under this Act has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
   (c) that is or may be evidence of the commission of an offence under this Act by any person; or
   (d) that might constitute a contaminant to or in any shellfish grown or harvested adjacent to or in the vicinity of the place, being a contaminant that may pose a risk to human health.
-(2) The Judge, Community Magistrate, Justice, or Registrar may impose such reasonable conditions on the exercise of the warrant as he or she thinks fit.
-(3) A search warrant must be directed to a constable by name, or to every constable, or to an animal product officer by name, but, in any of these cases, the warrant may be executed by any constable.
+(2) Subject to section 95, the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 95 Powers of Police and animal product officers under warrant
-(1) Subject to any conditions imposed on the warrant, a search warrant authorises the constable or animal product officer who is executing it, and any person called on by that constable or officer to assist,—
-  (a) to enter the place, dwellinghouse, or marae on 1 occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
-  (b) to use such force as is reasonable in the circumstances, both for making entry and for breaking open anything on the premises; and
-  (c) to search for and seize—
-    (i) any animal material, animal product, substance, equipment, or other thing that the constable or officer has reasonable grounds to suspect has been used or is to be used in or evidences the commission of an offence under this Act, or that might constitute a contaminant to or in any shellfish grown or harvested adjacent to or in the vicinity of the place, dwellinghouse, or marae:
-    (ii) any documents or records (including documents and records in electronic or other form) that the officer has reasonable grounds to suspect may provide evidence of the commission of an offence under this Act; and
-  (d) to take any photographs, and make any drawings or other representations of any animal material, product, structure, substance, equipment, container, packaging, label, or other thing, if the constable or officer has reasonable grounds to suspect that object or thing in question is in breach of any requirement of this Act, or might constitute a contaminant to or in any shellfish grown or harvested nearby; and
-  (e) to exercise all of the powers of an animal product officer under sections 88 to 91, or only such of those powers as are specified in the warrant.
+(1) Without limiting the powers conferred by any search warrant issued under section 94(1), every warrant issued under that section authorises the constable or animal product officer who is executing it, and any person called on by that constable or officer to assist, to exercise—
+  (a) all of the powers of an animal product officer under sections 88 to 91; or
+  (b) only such of those powers as are specified in the warrant.
+(1A) To avoid doubt, Part 4 of the Search and Surveillance Act 2012 does not apply in respect of any exercise of a power under sections 89 to 91 as a consequence of subsection (1) of this section.
 (2) A constable or an animal product officer may call on any person to assist him or her in the execution of a search warrant. Any such person may act only under the supervision and in accordance with the instructions of the constable or animal product officer.
 
 ### 96 Requirements when executing warrant
-(1) Any constable or animal product officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
-  (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
-  (b) whenever subsequently required to do so, at the place specified in the warrant, by any other person appearing to be in charge of the place or any part of the place.
-(2) If the occupier of the place is not present at the time the search warrant is executed, the constable or officer must leave in a prominent location at the place a written statement of the time and date of the search, the name of the constable or officer, and the address of the Police station or other office to which enquiries should be made.
-(3) If anything is seized in the execution of a search warrant, the constable or officer executing the search warrant must leave in a prominent location at the place, or deliver or send by registered mail to the occupier within 10 working days after the search, a written inventory of all things seized.
+(1)
+(2)
+(3)
 (4) A constable or officer who is exercising a power of entry in relation to a marae or a building associated with a marae must have regard to the kawa of the marae so far as is practicable in the circumstances.
 
 ### 97 Disposal of property seized under search warrant
-Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by an animal product officer, subject to the following provisions:
-  (a) where a constable seized the item in question, it may be retained by the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized:
-  (b) where an animal product officer seized the item in question, it may be retained by the Director-General pending the trial of the person for the offence in respect of which the item was seized:
-  (c) the item in question must be returned to the person from whom it was seized—
-    (i) if no proceedings are taken in respect of an offence to which the item relates within 2 years after its seizure; or
-    (ii) if proceedings are completed in respect of such an offence and no order of forfeiture is made in respect of the item:
+Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under a search warrant, subject to the following provisions:
+  (a)
+  (b)
+  (c)
   (d) if any person is convicted of an offence to which the item relates, the court may if it thinks fit order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
 
 **General provisions**
@@ -2530,6 +2545,42 @@ A person who is required by or under section 159 to keep records or any other in
 (2) For the purposes of sections 20, 21 and 22 of the Interpretation Act 1999, this Act, together with the Animal Products (Ancillary and Transitional Provisions) Act 1999, is to be treated as having repealed the Meat Act 1981 and the Apiaries Act 1969 and (with effect on the commencement of the Animal Products Amendment Act 2005) the Dairy Industry Act 1952 and having been passed in substitution for those Acts (but without preventing the Biosecurity Act 1993 from being similarly treated in relation to relevant provisions of the Apiaries Act 1969).
 
 ## Schedule
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ### 1 Title
 This Act is the Animal Products Amendment Act 2012.
