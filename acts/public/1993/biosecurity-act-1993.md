@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2012-10-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -3280,16 +3280,17 @@ An inspector who suspects on reasonable grounds that a person may be in possessi
 (4) Subject to subsection (3), an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)(a) and (b) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 ### 110 Warrant to inspect dwellinghouse, marae, etc
-(1) A District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable) may, on the written application of an inspector or authorised person made on oath, issue a warrant in the prescribed form authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
-(2) Such a warrant may be issued only if the Judge, Justice, Magistrate, or Registrar is satisfied that there is reasonable ground for believing that—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+(2) Such a warrant may be issued only if the issuing officer is satisfied that there is reasonable ground for believing that—
   (a) there is, on or in the place (being a dwellinghouse, marae, or building associated with a marae) specified in the application, any pest, pest agent, unwanted organism, unauthorised goods, or risk goods; or
   (b) an activity that is regulated by or under the Act is being carried out on or in the place (being a dwellinghouse, marae, or building associated with a marae) specified in the application.
 (3) Such a warrant—
   (a) authorises the inspector or authorised person to enter and inspect the place concerned on 1 occasion within 14 days of the issue of the warrant; and
   (b) may be unconditional or subject to conditions.
+(4) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 111 Entry in respect of offences
-(1) Subject to subsection (2), a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable), who, on the written application (made on oath) of an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing—may issue, unconditionally or subject to conditions, a warrant (in the prescribed form) authorising the entry and search of the place, at any reasonable time on 1 occasion within 14 days of the issue of the warrant.
+(1) Subject to subsection (2), an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by subpart 3 of Part 4 of that Act) by an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing—may issue, unconditionally or subject to conditions, a warrant (in the prescribed form) authorising the entry and search of the place, at any reasonable time on 1 occasion within 14 days of the issue of the warrant.
   (a) in respect of which an offence against this Act punishable by imprisonment has been or may have been committed; or
   (b) that is or may be evidence of the commission of an offence against this Act punishable by imprisonment; or
   (c) that is intended to be used for the commission of an offence against this Act punishable by imprisonment,—
@@ -3307,12 +3308,13 @@ An inspector who suspects on reasonable grounds that a person may be in possessi
   (a) shall not enter or search the place specified in it otherwise than in accordance with the conditions; and
   (b) shall in all other respects comply with the conditions.
 (5) Subject to subsection (4), a person exercising a warrant under subsection (1) may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply.
 
 ### 112 Duties on exercising power of entry
 (1) An inspector, authorised person, or constable, exercising a power of entry conferred by sections 30A, 109, 111, or 126—
   (a) must have with him or her—
     (i) evidence of his or her identity and appointment as an inspector, authorised person, or constable; and
-    (ii) in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant under section 110 or in the case of entry under section 111, the warrant authorising the entry; and
+    (ii) in the case of entry under section 109 to a place that is a dwellinghouse, a marae, or a building associated with a marae, the warrant or copy of the warrant under section 110 or in the case of entry under section 111, the warrant or copy of the warrant authorising the entry; and
   (b) must produce them to any person appearing to be in charge of the place entered—
     (i) on entering the place (if such a person is then present); and
     (ii) at any reasonable time thereafter, if asked to do so by the person; and
@@ -3405,7 +3407,8 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
 (1) Any person exercising the power of search conferred by section 111,—
   (a) may search for, and if it is found seize, any thing that is, or is a thing of a kind or description, specified in the warrant concerned; and
   (b) while at the place specified in the warrant, may seize any other thing that the person believes on reasonable grounds to be a thing in respect of which the person could have obtained a warrant under that section.
-(2) Section 199 of the Summary Proceedings Act 1957 shall, with any necessary modifications, apply to any thing seized under subsection (1).
+(2) Subpart 6 of Part 4 of the Search and Surveillance Act 2012 shall, with any necessary modifications, apply to any thing seized under subsection (1).
+(3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 119 Power to seize abandoned goods
 (1) An inspector or authorised person may seize and may treat or dispose of any abandoned organism (where necessary disabling or killing it first) or any abandoned conveyance, craft, or goods that are reasonably suspected by the inspector or authorised person of containing or harbouring any pest or unwanted organism.
@@ -5234,3 +5237,39 @@ Section 162A of the principal Act, as it was immediately before its repeal by se
 (5) A permission continues in force according to its tenor.
 (6) A reference in a permission to the Director-General of Conservation or to any other office or officer of the Department of Conservation or to the Minister of Conservation is deemed to be a reference to the Director-General as defined in the Biosecurity Act 1993.
 (7) The Director-General, as defined in the Biosecurity Act 1993, may exercise any or all of the powers under the Wild Animal Control Act 1977 to amend, suspend, revoke, or renew a permission.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
