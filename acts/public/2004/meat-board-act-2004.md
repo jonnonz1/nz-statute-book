@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -460,16 +460,13 @@ Unless it is sooner revoked, a mechanism that immediately before the commencemen
     (ii) require a person who has control of or knowledge of the documents or records to reproduce or assist in reproducing in usable form information recorded or stored in a computer or other device or system.
 (3) Subsection (2)(d)(ii) does not override the privilege against self-incrimination.
 (4) An auditor must not under subsection (2) enter any place that is not a place of business without a warrant issued under subsection (5).
-(5) A District Court Judge or a Court Registrar (not being a constable), who on an application in writing made on oath is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue a warrant in form 1 of Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
+(4A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118 and 119, and subpart 8) apply to entry and inspection under subsection (2).
+(5) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
   (a) any meat product; or
   (b) any document relating to any meat product,—
 (6) A warrant must be directed to the auditor by name, or to a constable by name or to every constable, but, in any of these cases, the warrant may be executed by any constable.
-(7) The warrant may be issued unconditionally or subject to conditions.
-(8) An auditor or constable entering any place under this section—
-  (a) must identify himself or herself to the occupier; and
-  (b) if asked by an occupier to do so, must produce evidence of identity; and
-  (c) if entering under a warrant issued under subsection (5), must comply with section 63; and
-  (d) in any case, must comply with section 64.
+(7) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the exercise of any power under subsection (5).
+(8) Despite subsection (7), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 43 Conduct of audit
 The quota compliance audit must be conducted in accordance with the terms of reference determined by the Minister under section 40.
@@ -608,36 +605,18 @@ Subject to section 54, any person who, immediately before the commencement of th
 (5) Subsection (4)(b) does not override the privilege against self-incrimination.
 
 ### 62 Warrant to inspect place other than place of business
-(1) A District Court Judge or a Court Registrar (not being a constable) who, on an application in writing made on oath, is satisfied that there are reasonable grounds to believe that—may issue a warrant in form 2 of Schedule 3 authorising the person named in the warrant to enter and inspect the place.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds to believe that—may issue a warrant authorising the person named in the warrant to enter and inspect the place.
   (a) a person has taken or is intending to take an action of a kind described in section 34(1)(a) or (b); and
   (b) there is or is likely to be in some place that is not a place of business any meat product, or any document relating to any meat product,—
-(2) A District Court Judge or a Court Registrar (not being a constable) who, on an application in writing made on oath, is satisfied that, as a consequence of the inspection under section 61 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant in form 3 of Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
-(3) A warrant issued under subsection (1) or subsection (2) may be issued unconditionally or subject to conditions.
-(4) A warrant under this section must be directed to the authorised person by name, or to a constable by name or to every constable, but, in any of these cases, the warrant may be executed by any constable.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that, as a consequence of the inspection under section 61 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(4) Despite subsection (3), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 63 Duties of persons executing warrants
-A person executing a warrant issued under section 62, or under section 42, in respect of any place—
-  (a) must produce the warrant on initial entry and, if asked by an occupier, at any time afterwards; and
-  (b) if an occupier is present on initial entry, must identify himself or herself to that occupier; and
-  (c) if asked by an occupier to do so, must produce evidence of identity.
+[Repealed]
 
 ### 64 Other duties of persons carrying out inspections
-(1) A person who carries out an inspection under section 61, or under section 42, when no occupier of the place inspected was present must, on completing the inspection, leave prominently in the place a notice stating—
-  (a) the day and time when the inspection was carried out; and
-  (b) the person's name.
-(2) If the person who carries out the inspection takes a document, article, or thing from the place inspected, the person must, on completing the inspection, leave prominently in the place a schedule of documents, articles, and things taken.
-(3) If it is not practicable to prepare the schedule on completing the inspection, or if an occupier of the place inspected consents, the person who carries out the inspection may,—
-  (a) instead of leaving the schedule, leave a notice that—
-    (i) a document, article, or thing has been taken; and
-    (ii) within 7 days of the inspection the schedule will be delivered to, left for, or posted to an occupier; and
-  (b) within 7 days of the inspection,—
-    (i) deliver the schedule to an occupier; or
-    (ii) leave the schedule prominently in the place; or
-    (iii) post the schedule by registered mail to an occupier.
-(4) The schedule must specify—
-  (a) the documents, articles, and things taken; and
-  (b) the place or places where they are being held; or
-  (c) if more than 1 place is specified, the documents, articles, and things held in each.
+[Repealed]
 
 ### 65 Requirement for certain persons to provide certain information to Board
 (1) An exporter of meat product must provide to the Board (within a reasonable time specified in the notice requesting it) all information that the Board, by notice in writing, requests from the exporter in respect of any or all of the following matters:
@@ -1175,3 +1154,39 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 (4) If it becomes aware that any insurance not permitted by subclause (1) has been effected without its approval, the Board must immediately cancel the insurance.
 
 ## Schedule 3 — Forms of warrant
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
