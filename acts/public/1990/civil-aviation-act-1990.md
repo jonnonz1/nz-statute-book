@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -613,8 +613,9 @@ Notwithstanding sections 23 to 23B of this Act or section 73 of the Crown Entiti
   (a) may require any person who is in possession of an aviation document, or of any certificate, book, manual, record, list, notice, or other document that is required to be kept under this Act or, in the case of an Australian AOC with ANZA privileges, under Australian law, to produce or surrender it; and
   (b) must, if a document is surrendered under paragraph (a), orally inform the relevant aviation document holders or, if applicable, the relevant Australian AOC with ANZA privileges holder, as soon as practicable, and in writing that the document has been surrendered.
 (3A) The right of access and the powers conferred by any of subsections (1) to (3) may not be used to gain a right of access to, to inspect, or to require the production or surrender of a record specified in paragraph (a) or paragraph (b) of section 14C(2) of the Transport Accident Investigation Commission Act 1990.
-(4) Nothing in subsection (1) or subsection (2) shall confer on any person the power to enter any dwellinghouse, or any marae or building associated with a marae, unless the entry is authorised by a warrant given by a judicial officer on written application on oath, which shall not be granted unless the judicial officer is satisfied that the entry is essential to enable the inspection to be carried out.
-(5) Every warrant issued under subsection (4) shall be directed to a named person and shall be valid for a period of 1 month from the date of its issue or such lesser period as the judicial officer considers appropriate; and the period of validity shall be shown in the warrant.
+(4) Nothing in subsection (1) or subsection (2) shall confer on any person the power to enter any dwellinghouse, or any marae or building associated with a marae, unless the entry is authorised by a warrant given by an issuing officer on application in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, which must not be granted unless the issuing officer is satisfied that the entry is essential to enable the inspection to be carried out.
+(5) Subject to subsections (5A), (6), and (7), subparts 1, 3, 4, 5, 7, 9, and 10 of the Search and Surveillance Act 2012 apply in relation to the issue of a warrant under subsection (4) and its execution.
+(5A) Despite subsection (5), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 (6) Every person exercising the power of entry conferred by subsection (1) or subsection (2) shall carry a warrant of authority issued by the Director specifying—
   (a) the name and the office or offices held by the person; and
   (b) that the person is authorised by the Director to exercise the power conferred by subsections (1) and (2) to enter aircraft, aerodromes, buildings, and places, and to carry out such inspection; and
@@ -4223,3 +4224,39 @@ This Act amends the Civil Aviation Act 1990.
 
 ### 15 Savings and transitional provisions
 Despite section 9 of this Act, which substitutes a new incorporation by reference provision, section 36 of the Civil Aviation Act 1990, as in force immediately before the commencement of this section, continues to apply to any material incorporated by reference under that section.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
