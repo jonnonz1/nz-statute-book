@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2011-10-21_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -492,85 +492,29 @@ The proceedings under sections 45 and 46 are civil proceedings to which the usua
 ### Subpart 4 — Search and seizure
 
 ### 51 Search warrant
-(1) An enforcement officer may apply for a search warrant to search a place or thing.
-(2) An enforcement officer who applies for a search warrant must, having made reasonable inquiries, disclose on the application—
-  (a) details of any other applications that the enforcement officer knows have been made within the previous 90 days in respect of the place or thing specified in the application in respect of the same or a similar matter; and
-  (b) the result of those applications.
-(3) The application must be made in writing and on oath to the District Court.
-(4) The District Court may issue a search warrant if there are reasonable grounds for believing that—
+(1) An enforcement officer may apply in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 for a search warrant to search a place or thing.
+(2)
+(3) The application must be made to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012).
+(4) The issuing officer may issue a search warrant if there are reasonable grounds for believing that—
   (a) a civil liability event has been, or is being, committed at the place or involving the thing; or
   (b) there is in, on, over, or under the place or thing, anything that is evidence of a civil liability event.
-(5) The District Court may issue the warrant to—
-  (a) the enforcement officer; or
-  (b) any member of the Police; or
-  (c) a member of the Police by name.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(6) Despite subsection (5), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 52 Form and content of search warrant
-(1) A search warrant must not be executed later than 14 days after the day on which it was issued.
-(2) A search warrant must be in the prescribed form and must contain all of the following information:
-  (a) the place or thing that may be searched; and
-  (b) the civil liability event or events in respect of which the warrant is issued; and
-  (c) a description of the kind of property or thing that may be seized; and
-  (d) the period during which the warrant may be executed; and
-  (e) any special conditions on which the warrant is issued.
+[Repealed]
 
 ### 53 Powers conferred by search warrant
-(1) A search warrant may be executed by the person to whom it was issued or, if it was issued to the Police in general, any member of the Police.
-(2) Subject to any special conditions specified in the warrant, a search warrant may authorise the person executing the warrant to—
-  (a) enter and search the place or thing specified in the warrant at any time by day or night; and
-  (b) use the assistance that is necessary in the circumstances to enter and search the place or thing; and
-  (c) use the force that is necessary in the circumstances to gain entry and to break open anything in, on, over, or under the place or thing searched; and
-  (d) search any person found in or at the place or thing or who arrives at the place or thing while the warrant is being executed if, at any time while executing the warrant, the person executing the warrant reasonably believes that any property or thing referred to in the warrant may be on that person's body; and
-  (e) search for and seize any property or thing referred to in section 52(2)(c); and
-  (f) take copies of documents, or extracts from documents, that the person executing the warrant believes on reasonable grounds may be relevant.
-(3) A person who is called to assist to execute a search warrant may exercise the powers described in subsection (2)(c), (e), and (f).
-(4) The power to enter and search a place or thing under a search warrant may be exercised only once.
-(5) In this section, document means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
-  (a) any writing on any material:
-  (b) any information recorded or stored by means of any tape-recorder, computer, or other device; and any material subsequently derived from information so recorded or stored:
-  (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
-  (d) any book, map, plan, graph, or drawing:
-  (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
+[Repealed]
 
 ### 54 Person with knowledge of computer or computer network to assist access
-(1) A person executing a search warrant may require a specified person to provide information or assistance that is reasonable and necessary to allow the person to access data held in, or accessible from, a computer that is in or at the place or thing named in the warrant.
-(2) A specified person is a person who—
-  (a) is the owner or lessee of the computer, or is in possession or control of the computer, or is an employee of any of the above; and
-  (b) has relevant knowledge of—
-    (i) the computer or a computer network of which the computer forms a part; or
-    (ii) measures applied to protect data held in, or accessible from, the computer.
-(3) A specified person may not be required under subsection (1) to give any information tending to incriminate himself or herself.
-(4) Subsection (3) does not prevent a person executing the search warrant from requiring a specified person to provide information that—
-  (a) is reasonable and necessary to allow the person executing the search warrant to access data held in, or accessible from, a computer that—
-    (i) is in or at the place or thing named in the warrant; and
-    (ii) contains or may contain information tending to incriminate the specified person; but
-  (b) does not itself tend to incriminate the specified person.
-(5) Subsection (3) does not prevent a person executing the search warrant from requiring a specified person to provide assistance that is reasonable and necessary to allow the person executing the search warrant to access data held in, or accessible from, a computer that—
-  (a) is in or at the place or thing named in the warrant; and
-  (b) contains or may contain information tending to incriminate the specified person.
-(6) Every person commits an offence and is liable on summary conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $2,000 who fails to assist a person executing a search warrant when requested to do so under subsection (1).
+[Repealed]
 
 ### 55 Requirements when executing search warrant
-(1) The person who executes the warrant (person A) must carry the warrant with him or her, and produce it for inspection, with evidence of person A's identity,—
-  (a) when person A first enters the place or thing specified in the warrant, to the person who appears to be in charge of that place or thing; and
-  (b) whenever person A is subsequently required to do so at the place or thing specified in the warrant, by any other person who appears to be in charge of that place or thing or any part of it.
-(2) If the owner or occupier of the place or thing is not present at the time person A executes the search warrant, person A must leave at the place or thing, in a prominent location, a written statement that includes the following information:
-  (a) the time and date of the search; and
-  (b) person A's name; and
-  (c) the address of the office of the enforcement department or (if person A is a member of the Police) the Police station to which inquiries should be made.
-(3) If any property or thing is seized in the execution of a search warrant, person A must leave in a prominent location at the place or thing, or deliver or send by registered mail to the owner or occupier within 10 working days after the search, a written inventory of all property or things seized.
+[Repealed]
 
 ### 56 Disposal of property or thing seized under search warrant
-(1) If any property or thing is seized under section 53, it must be retained under the custody of the person who executed the warrant, except while it is being used in evidence or is in the custody of a court, until it is disposed of under this section.
-(2) In any proceeding for a civil liability event relating to any property or thing seized under a warrant issued under this Act, the court may order, either at the trial or hearing or on application, that—
-  (a) the property or thing must be delivered to the person who, in the court's view, appears to be entitled to it; or
-  (b) the property or thing must otherwise be disposed of as the court thinks appropriate.
-(3) The enforcement officer or a member of the Police may, at any time, unless an order has been made under subsection (2), return the property or thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
-(4) On an application under subsection (3), the District Court Judge may make any order that the District Court may make under subsection (2).
-(5) Any person claiming to be entitled to the property or thing may apply to a District Court Judge for an order that it be delivered to that person.
-(6) On an application under subsection (5), the District Court Judge may—
-  (a) adjourn the application, on any terms that he or she thinks are appropriate, for proceedings to be brought; or
-  (b) make any order that the District Court may make under subsection (2).
+[Repealed]
 
 ## Part 4 — Miscellaneous provisions
 
@@ -595,7 +539,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (i) the grounds on which an objection to a civil infringement notice may be made; and
     (ii) the information that must be contained in an objection; and
     (iii) the time within which, and the manner in which, an objection must be made:
-  (j) prescribing the form of search warrants under section 52(2):
+  (j)
   (k) authorising the enforcement department to enter into agreements or arrangements with overseas enforcement agencies concerning international enforcement of anti-spam legislation, sharing of information between national enforcement agencies, and the pursuit of cross-border complaints concerning spam:
   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 
@@ -613,3 +557,39 @@ In this Schedule, voice call means, whether or not a recipient responds by way o
   (a) a voice call within the ordinary meaning of that expression; or
   (b) a call that involves a recorded or synthetic voice; or
   (c) a call that is equivalent to a call covered by either paragraph (a) or (b) if a call covered by either of those paragraphs is not practical for a particular recipient with a disability (for example, because the recipient has a hearing impairment).
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
