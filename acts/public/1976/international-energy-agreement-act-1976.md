@@ -1,5 +1,5 @@
 # International Energy Agreement Act 1976
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to vest powers in the Governor-General in Council and the Minister of Energy Resources to enable New Zealand to carry out its obligations under the International Energy Agreement
 
@@ -96,13 +96,15 @@ In this Act, unless the context otherwise requires,—
 (2) The power of entry set out in subsection (1)—
   (a) shall not apply to premises used only as a dwelling; and
   (b) may be exercised only at reasonable hours and after reasonable notice has been given to the occupier of the proposed entry.
-(3) Without limiting or restricting the application of sections 198 and 199 of the Summary Proceedings Act 1957, regulations made under section 4(1) may provide that the powers set out in this section shall be available, with all necessary modifications, for the purpose of ensuring that the provisions of those regulations are effectively carried out and complied with.
+(3) Regulations made under section 4(1) may provide that the powers set out in this section shall be available, with all necessary modifications, for the purpose of ensuring that the provisions of those regulations are effectively carried out and complied with.
 
 ### 10 Liability of directors, etc, where offence committed by body corporate
 Where any body corporate is convicted of an offence against this Act or against any regulation made under this Act, every director, every person concerned in the management of the body corporate, and every person purporting to be a director or to be concerned as aforesaid shall be guilty of a like offence if it is proved that the act or omission which constituted the offence was committed or took place with his authority, permission, or consent.
 
 ### 11 Search warrants
-Sections 198 and 199 of the Summary Proceedings Act 1957 shall apply where an offence created by, or pursuant to, this Act has been or is suspected of having been committed notwithstanding that the offence is not punishable by imprisonment.
+(1) If an offence created by or under this Act has been committed or is suspected of having been committed (notwithstanding that the offence is not punishable by imprisonment), any person authorised in writing by the chief executive may exercise the powers of a constable to apply for a warrant under section 6 of the Search and Surveillance Act 2012.
+(2) Subparts 1, 3, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) For the purposes of this section, chief executive means the chief executive of the department that, with the authority of the Prime Minister, is responsible for the administration of this Act.
 
 ## Schedule Schedule — Agreement of an International Energy Program
 
@@ -125,3 +127,39 @@ Sections 198 and 199 of the Summary Proceedings Act 1957 shall apply where an of
 | United Kingdom | 3 | 6 | 9 |
 | United States | 3 | 48 | 51 |
 | Totals | 48 | 100 | 148 |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
