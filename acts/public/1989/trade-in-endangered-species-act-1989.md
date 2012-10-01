@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2011-11-10_
+_Consolidation as at 2012-10-01_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -328,30 +328,28 @@ The Director-General may, after (if necessary) consultation with the appropriate
     (ii) any other documents relating to trade in endangered species:
   (d) for the purpose of such analysis as the Director-General considers necessary to determine whether a breach of this Act or of any regulation made under it has occurred, take samples, subject to subsection (7), from any specimen in any vehicle or on any land or premises (including a dwellinghouse or a marae or any building associated with a marae) where the officer has reasonable grounds to believe that such specimen is evidence that a breach of this Act or of any regulation made under it has been or is being committed.
 (2) Notwithstanding subsection (1), no officer shall enter any dwellinghouse or a marae or a building associated with a marae or, in the case of the exercise of the power under subsection 1(d), any other land or premises unless the officer is authorised in that behalf by a search warrant obtained under section 38(2).
-(3) Every officer exercising a power to enter under subsection (1) shall identify himself or herself and have with him or her due evidence of his or her appointment and shall produce that evidence to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises—
-  (a) if practicable, on first entering the vehicle or on the land or premises; and
-  (b) whenever subsequently reasonably required to do so by that owner or occupier or person in charge.
-(4) If an officer exercises a power to enter under subsection (1), written advice of the entry and the purpose of the entry shall be given to the owner or occupier or, as the case may be, person in charge of the vehicle, land, or premises as soon as practicable after that entry where—
-  (a) no prior notice or agreement of the entry was given or made; and
-  (b) that owner or occupier or person in charge was not present at the time of entry.
+(3)
+(4)
 (5) No person shall be required to answer any question by an officer if the answer would or could tend to incriminate that person.
 (6) Any officer lawfully exercising his or her powers under this section may make or take copies of any document, and for this purpose may take possession of and remove from the place where it is kept, for such period of time as is reasonable in the circumstances, any such document.
 (7) Every officer proposing to take a sample under subsection (1)(d) from any live animal—
   (a) must do so either personally or, where requested by the owner or person in charge of the animal, by instructing a veterinary surgeon to do so; and
   (b) must make every effort to avoid unnecessary disturbance of the animal, including, with respect to an animal which is secured within an enclosure, exercising his or her powers only during the hours of daylight except where the officer judges that there will be less disturbance to the animal if the powers are exercised outside those hours.
+(8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 
 ### 38 Powers of search
 (1) Subject to subsection (2), any officer who has entered any vehicle, land, or premises (including a dwellinghouse and a marae and a building associated with a marae) under section 37(1) may search that vehicle, land, or premises and open (by force if necessary) any bulk cargo container, packing case, crate, box, or any other form of receptacle on that vehicle, land, or premises.
-(2) Any District Court Judge or Justice of the Peace or Community Magistrate or Registrar of any court (not being a constable), who, on application by an officer in writing made on oath, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to that officer; and the provisions of subsections (3) to (8) of section 198 of the Summary Proceedings Act 1957 shall apply accordingly.
+(2) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to that officer.
   (a) any specimen of an endangered, threatened, or exploited species that there is reasonable ground to believe—
     (i) has been traded otherwise than in accordance with this Act; or
     (ii) is intended to be traded otherwise than in accordance with this Act; or
   (b) any thing which there is reasonable ground to believe may be evidence of the commission of any offence against this Act; or
   (c) any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence—
 (3) A search warrant is also required pursuant to subsection (2) in the case of entry to any other land or premises for the purpose of the exercise of the power under section 37(1)(d).
+(4) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 38A Application of Customs and Excise Act 1996
-Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
+Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
 
 ### 39 Seizure of endangered species traded in contravention of Act
 (1) Where an officer finds, in or on any ship or aircraft or at any port, aerodrome, transitional facility, or Customs controlled area, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42.
@@ -1718,3 +1716,39 @@ Amendment(s) incorporated in the Act(s).
 | 11 | Logs, sawn wood, veneer sheets, plywood, powder, and extracts. |
 | 12 | Logs, sawn wood, veneer sheets, plywood, and essential oil (excluding finished products packaged and ready for retail trade). |
 | 13 | Kernel and any derivative thereof. |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
