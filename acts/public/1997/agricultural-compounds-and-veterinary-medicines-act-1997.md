@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-10-01_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -1243,10 +1243,8 @@ No action or proceedings may be brought against any ACVM officer, recognised age
   (b) request, gather, or secure evidence, take samples of agricultural compounds, water, air, soil, or any substance, take samples from any animals, plants, and primary produce, and test or analyse or arrange for the testing and analysis of such samples:
   (c) inspect, inquire about, or copy any documents or other records including records in an electronic form relating to the obligations imposed under this Act, and remove any documents or other records including records in an electronic form from the place for the purposes of copying such documents or records:
   (d) order the person in charge of the place to identify and hold any agricultural compound for up to 5 working days.
-(3) Every ACVM officer exercising any of the powers conferred by this section must, at the time of exercising that power and thereafter on request, produce—
-  (a) evidence of that person’s appointment as an ACVM officer; and
-  (b) evidence of that person’s identity.
-(4) An ACVM officer may take any person on to the place to assist him or her with the inspection.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118 and 119, and subpart 8) apply.
+(4)
 (5) Nothing in this section limits or affects the privilege against self-incrimination.
 
 ### 65 ACVM officers may issue prohibition notices
@@ -1270,37 +1268,29 @@ If an ACVM officer has issued a prohibition notice under section 65, any ACVM of
 (3) An appeal against a prohibition notice, or variation of that notice, does not operate as a stay of the notice or variation.
 
 ### 69 Issue of search warrants
-(1) Any District Court Judge or Justice of the Peace or any Registrar who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is in, on, under, or over any place (including any dwellinghouse or marae)—may issue a search warrant in the form set out in Schedule 1.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is in, on, under, or over any place (including any dwellinghouse or marae)—may issue a search warrant.
   (a) any agricultural compound, substance, mixture of substances, or biological compound that is evidence of an offence committed against section 55(1) or section 55(1A):
   (b) any agricultural compound, substance, mixture of substances, or biological compound used or intended to be used as an agricultural compound that has been abandoned:
-  (c) any documents or other records or things which there are reasonable grounds to believe may be evidence of the commission of any offence under this Act to which paragraph (a) or paragraph (b) applies,—
-(2) Every search warrant must be directed either to a constable by name or to every constable or to any ACVM officer by name, but in any of those cases, the warrant may be executed by any constable.
-(3) On issuing a warrant, the Judge, Justice of the Peace, or Registrar may impose such reasonable conditions on its execution as he or she thinks fit.
-(4) Any constable or any ACVM officer may call any person to assist him or her in the execution of a search warrant.
+  (ba) any trade name product or agricultural compound manufactured or imported in breach of the provisions of this Act:
+  (c) any documents or other records or things which there are reasonable grounds to believe may be evidence of the commission of any offence under this Act to which paragraph (a), (b), or (ba) applies,—
+(2) Subject to subsection (3) and section 70, the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+(4)
 
 ### 70 Powers of entry with warrant
-(1) Every warrant, subject to any conditions imposed under subsection (3), authorises the constable or the ACVM officer who is executing it and any person called on by that constable or ACVM officer to assist—
-  (a) to enter the place, dwellinghouse, or marae on 1 occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
-  (b) to use such force, both for making entry (either by breaking open doors or otherwise) and for breaking open anything on the place, dwellinghouse, or marae, as is reasonable in the circumstances; and
-  (c) to search for and seize—
-    (i) any agricultural compound, any trade name product, or substance, mixture of substances, or biological compound used or intended to be used as an agricultural compound found on the place, dwellinghouse, or marae where it is suspected on reasonable grounds to be evidence of an offence committed against section 55(1) or section 55(1A):
-    (ii) any documents or other records or things which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act; and
-  (d) to take any photographs, and make any drawings, of any structure, container, packaging, or label, or any other thing where there are reasonable grounds to believe that the structure, container, packaging, or label or other thing is in breach of the provisions of this Act or regulations; and
-  (e) to seize and detain any trade name product or any agricultural compound manufactured or imported in breach of the provisions of this Act; and
-  (f) to seize and detain any trade name product or any agricultural compound that—
-    (i) is a risk to public health, agricultural security, trade in or market access for primary produce, the welfare of animals, or may breach domestic food residue standards; and
-    (ii) appears to an ACVM officer, who has made such inquiries as appear reasonable in the circumstances, to have been abandoned or have no apparent or readily identifiable owner.
-(2) Any constable or ACVM officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection—
-  (a) on first entering the place, dwellinghouse, or marae, to the person appearing to be in charge of the place, dwellinghouse, or marae; and
-  (b) whenever subsequently required to do so, on the place, dwellinghouse, or marae, by any other person appearing to be in charge of the place, dwellinghouse, or marae or any part of the place, dwellinghouse, or marae.
-(3) Where the occupier of the place, dwellinghouse, or marae is not present at the time the search warrant is executed, the constable or ACVM officer must leave in a prominent place on the place, dwellinghouse, or marae a written statement of the time and date of the search, and the name of the constable or ACVM officer, and the address of the Police station or other office to which enquiries should be made.
-(4) Where any trade name product, any agricultural compound, trade name products, substance, mixture of substances, or biological compound, or books, documents, or other records or things is, or are, seized in execution of a search warrant, the constable or ACVM officer executing the warrant must leave in a prominent place on the place, dwellinghouse, or marae or send to the occupier, within 10 working days after the search, a written inventory of all things so seized.
+(1) Without limiting the powers conferred by any warrant issued under section 69(1), and subject to any conditions imposed by the issuing officer, every warrant issued under that section authorises the constable or the ACVM officer who is executing it, and any person called on by that constable or ACVM officer to assist, to seize and detain any trade name product or agricultural compound that—
+  (a) is a risk to public health, agricultural security, trade in or market access for primary produce, or the welfare of animals, or that may breach domestic food residue standards; and
+  (b) appears to an ACVM officer, who has made such inquiries as appear reasonable in the circumstances, to have been abandoned or to have no apparent or readily identifiable owner.
+(2)
+(3)
+(4)
 (5) Where any action is taken under a warrant in, on, under or over a dwellinghouse, or marae, that action must be taken in the presence of a constable.
 
 ### 71 Disposal of property seized
-(1) Except as provided in subsection (2) of this section, section 199 of the Summary Proceedings Act 1957 applies to any property seized by any constable under a search warrant issued under section 69 and, with the necessary modifications, to any property seized by any ACVM officer under such a warrant.
-(2) If proceedings for an offence relating to the property seized are not brought within a period of 6 months after the date of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her; and on any such application the District Court Judge may adjourn the application, on such terms as he or she thinks fit, for the proceedings to be brought, or may make any order that a court may make under section 199(3)(a) of the Summary Proceedings Act 1957.
-(3) Where any agricultural compound or trade name product is seized under section 70(1)(f)(ii), and no person is charged with an offence under this Act or applies to have the agricultural compound or trade name product returned, the agricultural compound or trade name product must be disposed of as directed by the Director-General.
+(1) Subject to subsection (3), subparts 1, 5, 6, 7, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by any constable under a search warrant issued under section 69 and, with the necessary modifications, in respect of any property seized by any ACVM officer under such a warrant.
+(2)
+(3) Where any agricultural compound or trade name product is seized under section 70(1), and no person is charged with an offence under this Act or applies to have the agricultural compound or trade name product returned, the agricultural compound or trade name product must be disposed of as directed by the Director-General.
+(4) If any person is convicted of an offence to which the seized property relates, the court may, if it thinks fit, order that the item be disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General.
 
 ## Part 6 — Protection of certain confidential information about innovative agricultural compounds
 
@@ -1591,7 +1581,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 **Amendments, repeals, and revocations**
 
 ### 84 Amendment of Schedule 1
-The Governor-General may from time to time, by Order in Council, amend the form set out in Schedule 1 or revoke that form and substitute a new form.
+[Repealed]
 
 ### 85 Amendments to other Acts
 The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
@@ -1769,3 +1759,39 @@ This Act amends the Agricultural Compounds and Veterinary Medicines Act 1997.
 
 ### 20 Transitional provision for persons recognised under principal Act
 A person who, immediately before the commencement of this Act, was recognised to carry out specified functions under section 62 of the principal Act is deemed to have been recognised to carry out those specified functions under Part 3A of the principal Act, and anything evidencing the recognition is valid as a notice of recognition under Part 3A of the principal Act until it expires or is suspended or revoked.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
