@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -720,16 +720,14 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 **Powers of wine officers**
 
 ### 62 Power of entry
-(1) A wine officer may at any reasonable time, for the purpose of determining whether or not any person is complying with this Act, or any requirements made under this Act, or whether any wine is in compliance with the requirements of this Act or any requirements made under this Act, without a warrant enter any place (other than a dwelling house or marae) at, in, or from which—
+(1) A wine officer may, for the purpose of determining whether or not any person is complying with this Act, or any requirements made under this Act, or whether any wine is in compliance with the requirements of this Act or any requirements made under this Act, without a warrant enter any place (other than a dwelling house or marae) at, in, or from which—
   (a) any winemaker operates, or any business that is subject to a wine standards management plan or that processes or sells food that is or includes wine, is operated; or
   (b) any exporter operates; or
   (c) any recognised agency or recognised person operates; or
   (d) the books or records, or other business information kept in writing or electronic form, of any such winemaker, wine business, exporter, recognised agency, or recognised person, are kept.
-(2) A wine officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 65, enter any place (including a dwelling house or a marae) specified in the warrant, at any time that is reasonable in the circumstances.
-(3) An officer who exercises any power under this section must produce his or her evidence of appointment as a wine officer, together with evidence of his or her identity,—
-  (a) on first entering the place; and
-  (b) whenever subsequently reasonably required to do so by a person appearing to have charge of the place or any part of the place.
-(4) A person called on to assist a wine officer under section 66(2) may accompany the officer into any premises or place that the officer enters under this section.
+(2) A wine officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 65, enter any place (including a dwelling house or a marae) specified in the warrant.
+(3) The provisions of subparts 1, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply in respect of the exercise of any powers under this section.
+(4)
 
 ### 63 Power to examine, etc
 (1) A wine officer may, so far as is reasonably necessary for the purpose of determining compliance with this Act or any requirements made under this Act at any place that the officer may enter under section 62,—
@@ -744,7 +742,8 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
     (i) the results of tests and analysis have been assessed; or
     (ii) any lawful direction of a wine officer has been complied with.
 (2) A wine officer must return any documents or records removed under subsection (1)(b)(i) within such time as is reasonable to allow for their copying.
-(3) A wine officer may call on any person to assist him or her in the exercise of his or her powers under this section. Any such person may act only under the supervision and in accordance with the instructions of the wine officer.
+(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2, 3, and 8, and sections 118 and 119) apply.
+(3) A wine officer may call on any person to assist him or her in the exercise of his or her powers under any of paragraphs (c) to (f) of subsection (1). Any such person may act only under the supervision and in accordance with the instructions of the wine officer.
 
 ### 64 Power to interrupt operations, etc
 (1) For the purposes of determining or ensuring the compliance of wine with the requirements of this Act or any requirements made under this Act, a wine officer may—
@@ -754,41 +753,32 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 (2) Where practicable in all the circumstances, the wine officer must consult with the operator or person in charge of the operations before exercising any powers under this section.
 
 ### 65 Issue of search warrant
-(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant, in the form set out in Schedule 1, in respect of any place (including any dwelling house or marae), if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant, in respect of any place (including any dwelling house or marae), if satisfied, on an application by a constable or a wine officer made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing—
   (a) in respect of which an offence under this Act has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
   (c) that is or may be evidence of the commission of an offence under this Act by any person.
-(2) The Judge, Community Magistrate, Justice, or Registrar may impose such reasonable conditions on the exercise of the warrant as he or she thinks fit.
+(2) Subject to section 66, the provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 (3) A search warrant must be directed to a constable by name, or to every constable, or to a wine officer by name, but, in any of these cases, the warrant may be executed by any constable.
 
 ### 66 Powers of Police and wine officers under warrant
-(1) Subject to any conditions imposed on the warrant, a search warrant authorises the constable or wine officer who is executing it, and any person called on by that constable or officer to assist,—
-  (a) to enter the place, dwelling house, or marae on 1 occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
-  (b) to use such force as is reasonable in the circumstances, both for making entry and for breaking open anything on the premises; and
-  (c) to search for and seize—
-    (i) any wine, substance, equipment, or other thing that the constable or officer has reasonable grounds to suspect has been used or is to be used in, or evidences the commission of, an offence under this Act:
-    (ii) any documents or records (including documents and records in electronic or other form) that the officer has reasonable grounds to suspect may provide evidence of the commission of an offence under this Act; and
-  (d) to take any photographs, and make any drawings or other representations of any wine, structure, substance, equipment, container, packaging, label, or other thing, if the constable or officer has reasonable grounds to suspect that object or thing in question is in breach of any requirement to this Act; and
-  (e) to exercise all of the powers of a wine officer under sections 63 and 64, or only such of those powers as are specified in the warrant.
-(2) Where the place, dwelling house, or marae is occupied at the time, the constable or wine officer must, before using any force for the purpose of making entry under subsection (1)(b), warn the occupant of the intention to use force if the occupant obstructs entry.
+(1) Without limiting the powers conferred by any search warrant issued under section 65(1), every warrant issued under that section authorises the constable or wine officer who is executing it, and any person called on by that constable or officer to assist, to exercise—
+  (a) all the powers of a wine officer under sections 63 and 64; or
+  (b) only such of those powers as are specified in the warrant.
+(2)
 (3) A constable must be present if the search warrant is executed at a dwelling house or marae.
-(4) A constable or a wine officer may call on any person to assist him or her in the execution of a search warrant. Such a person may act only under the supervision and in accordance with the instructions of the constable or wine officer.
+(4)
 
 ### 67 Requirements when executing warrant
-(1) Any constable or wine officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
-  (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
-  (b) whenever subsequently reasonably required to do so, at the place specified in the warrant, by any other person appearing to be in charge of the place or any part of the place.
-(2) If the occupier of the place is not present at the time the search warrant is executed, the constable or wine officer must leave in a prominent location at the place a written statement of the time and date of the search, the name of the constable or wine officer, and the address of the Police station or other office to which enquiries should be made.
-(3) If anything is seized in the execution of a search warrant, the constable or wine officer executing the search warrant must leave in a prominent location at the place, or deliver or send by registered mail to the occupier within 10 working days after the search, a written inventory of all things seized.
+(1)
+(2)
+(3)
 (4) A constable or wine officer who is exercising a power of entry in relation to a marae or a building associated with a marae must have regard to the kawa of the marae so far as is practicable in the circumstances.
 
 ### 68 Disposal of property seized under search warrant
-Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by a wine officer, subject to the following provisions:
-  (a) if a constable seized the item in question, it may be retained by the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized:
-  (b) if a wine officer seized the item in question, it may be retained by the Director-General pending the trial of the person for the offence in respect of which the item was seized:
-  (c) the item in question must be returned to the person from whom it was seized—
-    (i) if no proceedings are taken in respect of an offence to which the item relates within 2 years after its seizure; or
-    (ii) if proceedings are completed in respect of such an offence and no order of forfeiture is made in respect of the item:
+Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by a constable under a search warrant and, with any necessary modifications, in respect of property seized under a search warrant by a wine officer, subject to the following provisions:
+  (a)
+  (b)
+  (c)
   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
 
 **Recognised agencies, persons, and classes of persons**
@@ -1745,6 +1735,42 @@ Despite section 86(1)(a), regulations under this Act may set a fee, charge, or l
 ## Schedule 1 — Form of search warrant
 
 ## Schedule 2 — Amendments to Alcohol Advisory Council Act 1976
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ### 1 Title
 This Act is the Wine Amendment Act 2012.
