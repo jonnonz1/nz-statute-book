@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -584,7 +584,7 @@ This Part applies to—
   (a) Australia is the extradition country; or
   (b) the extradition country is a designated country and the relevant Order in Council under section 40 contains a provision described in section 40(5).
 (4) If—the court may refer the case to the Minister in accordance with subsection (5).
-  (a) it appear to the court in any proceedings under section 45 that—
+  (a) it appears to the court in any proceedings under section 45 that—
     (i) any of the restrictions on the surrender of the person under section 7 or section 8 apply or may apply; or
     (ii) because of compelling or extraordinary circumstances of the person, including, without limitation, those relating to the age or health of the person, it would be unjust or oppressive to surrender the person before the expiration of a particular period; but
   (b) in every other respect the court is satisfied that the grounds for making a surrender order exist,—
@@ -919,44 +919,31 @@ An Order in Council made under section 15 or section 16 or section 40 that recit
 ### 82 Search and seizure on arrest
 (1) If a person is arrested on a warrant issued or endorsed under this Act, a constable may search, without further warrant, the person arrested and may seize any thing, including any sum of money, found on the person or in the person's possession if the constable believes on reasonable grounds that the thing on the person or in the person's possession may be evidence as to the commission of any offence in relation to which the warrant to arrest was issued or endorsed or for which the surrender of the person is sought by the extradition country concerned.
 (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
-(3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under section 37 of the Policing Act 2008.
+(3) Nothing in this section limits or affects any power under section 11 of the Search and Surveillance Act 2012.
 
 ### 83 Search warrants
 (1) This section applies if—
   (a) a request for the surrender of a person has been made under Part 3; or
   (b) a warrant has been endorsed under Part 4; or
   (c) a provisional arrest warrant has been issued under this Act.
-(2) A District Court Judge who, on an application in writing made on oath, is satisfied that there are reasonable grounds for believing that there is, in or on any place or thing, any thing that may be evidence as to the commission of an extradition offence for which surrender is sought, may issue a search warrant.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there are reasonable grounds for believing that there is, in or on any place or thing, any thing that may be evidence as to the commission of an extradition offence for which surrender is sought, may issue a search warrant.
 (3) This section does not limit or affect the ability of a foreign country to make a request for assistance under the Mutual Assistance in Criminal Matters Act 1992.
+(4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply.
 
 ### 84 Form and content of search warrant
-A warrant issued under section 83 must—
-  (a) be in the prescribed form; and
-  (b) be directed to any constable by name, or to any class of constables specified in the warrant, or generally to every constable; and
-  (c) be subject to such special conditions (if any) as the District Court Judge may specify in the warrant.
+[Repealed]
 
 ### 85 Powers conferred by warrant
-(1) Subject to any special conditions specified in the warrant under section 84(c), every warrant issued under section 83 authorises the constable executing the warrant—
-  (a) to enter and search the place or thing specified in the warrant at any time by day or night during the currency of the warrant; and
-  (b) to use such assistants as may be reasonable in the circumstances for the purpose of the entry and search; and
-  (c) to use such force as is reasonable in the circumstances for the purposes of effecting entry, and for breaking open anything in or on the place searched; and
-  (d) to search for and seize any thing referred to in section 83.
-(2) Every person called on to assist any constable executing a warrant issued under section 83 has the powers described in paragraphs (c) and (d) of subsection (1).
+[Repealed]
 
 ### 86 Power to stop vehicles
-If it is necessary for a constable to stop a vehicle for the purpose of exercising a search power conferred by section 85(1), sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to section 85(1).
+[Repealed]
 
 ### 87 Person executing warrant to produce evidence of authority
-Every constable executing any warrant issued under section 83—
-  (a) must have that warrant with him or her; and
-  (b) must produce it on initial entry and, if requested, at any subsequent time; and
-  (c) must, if requested at the time of the execution of the warrant or at any subsequent time, provide a copy of the warrant within 7 days after the request is made.
+[Repealed]
 
 ### 88 Notice of execution of warrant
-Every constable who executes a warrant issued under section 83 must, not later than 7 days after the seizure of any thing pursuant to that warrant, give to the owner or occupier of the place or thing searched, and to every other person whom the constable has reason to believe may have an interest in the thing seized, a written notice specifying—
-  (a) the date and time of the execution of the warrant; and
-  (b) the identity of the person who executed the warrant; and
-  (c) the thing seized under the warrant.
+[Repealed]
 
 **Return of property**
 
@@ -1183,3 +1170,39 @@ The Acts specified in Schedule 3 are amended in the manner indicated in that sch
 ## Schedule 2 — United Kingdom Orders in Council relating to extradition that have ceased to have effect in New Zealand
 
 ## Schedule 3 — Acts amended
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
