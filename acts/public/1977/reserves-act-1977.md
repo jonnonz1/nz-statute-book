@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -1093,7 +1093,9 @@ The administering body, in the case of a reserve vested in that administering bo
   (c) gives a description of his place of abode that is illusory for the purpose of discovery,—
 (3) Any person arrested under subsection (2) shall be brought before a court, as soon as possible, to be dealt with according to law.
 (4) The production by any officer of his warrant, instrument of appointment, or other written evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by this section.
-(5) For the purposes of this section the expression officer means any ranger, constable, or officer or employee of the administering body.
+(5) In this section, officer means—
+  (a) any ranger or constable; and
+  (b) any officer or employee of an administering body who is authorised by that body to exercise the powers of an officer under this Part.
 
 ### 94 Offences on reserves
 (1) Every person commits an offence against this Act who, without being authorised (the proof of which shall be on the person charged) by the Minister or the Commissioner or the administering body, as the case may require,—provided that nothing in any authorisation by the Minister or the Commissioner or the administering body to do any act which would otherwise be unlawful under paragraph (c) or paragraph (i) shall be deemed to authorise any person to do any act in contravention of the Wildlife Act 1953 or any regulations or Proclamation or notification under that Act.
@@ -1132,13 +1134,13 @@ The administering body, in the case of a reserve vested in that administering bo
 (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
 
 ### 95 Seizure and forfeiture of property
-(1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in section 94(1)(f), or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in section 93(5), if he has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act, and shall be retained by the administering body, or by the Commissioner if there is no administering body, pending the trial of that person for the offence in respect of which it was seized.
-(2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the information is dismissed, then—
+(1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in section 94(1)(f), or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in section 93(5), if he has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act.
+(2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the information is dismissed, then, despite subpart 6 of Part 4 of the Search and Surveillance Act 2012,—
   (a) in any case where the property seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with pursuant to the Wildlife Act 1953:
   (b) in any case where the property seized is a protected New Zealand object, it shall be dealt with as follows:
     (i) where pursuant to the Protected Objects Act 1975 it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
-    (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the Protected Objects Act 1975:
-  (c) in any other case, the property seized shall be returned to the person from whom it was seized.
+    (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the Protected Objects Act 1975.
+  (c)
 (3) Where in proceedings taken within that period in respect of that offence against the person from whom the property was seized the defendant is convicted, then—
   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be deemed to be forfeited to the Crown and shall be dealt with pursuant to the Wildlife Act 1953:
   (b) in any case where the property seized is a protected New Zealand object, it shall be dealt with as follows:
@@ -1149,7 +1151,8 @@ The administering body, in the case of a reserve vested in that administering bo
   (a) in the case of any protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, be forfeited to the Crown, and the property shall be deemed to be forfeited to the Crown accordingly and shall forthwith be delivered to the Director-General by the defendant or person holding it on his behalf, and shall be dealt with pursuant to the Wildlife Act 1953:
   (b) in the case of any other property, be forfeited to the administering body, or to the Crown if there is no administering body, and the property shall be deemed to be forfeited to the administering body or to the Crown, as the case may be, accordingly, and shall forthwith be delivered to the administering body, or, if there is no administering body, to the Commissioner, by the defendant or person holding it on his behalf, and shall be disposed of as the administering body or the Commissioner directs.
 (5) All buildings, signs, hoardings, or apparatus erected on any reserve without the consent in writing of the Minister or the administering body shall be deemed to be forfeited to the Crown or, as the case may be, the administering body, and shall be disposed of by the Commissioner or that body in such manner as he or it thinks fit.
-(6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve (the firearm, trap, net, other like object, tool, instrument, or equipment being hereinafter in this subsection referred to as the seized property) may be seized by any officer as defined in section 93(5), and shall be retained by the Commissioner or the administering body, as the case may be, pending the hearing of the charge against the person for the offence in respect of which it was seized. If proceedings are not taken within 6 months against the person from whom the seized property was seized, it shall at the expiration of that period be returned to him. Where proceedings are taken against the person from whom the seized property was seized, the seized property shall, when the proceedings are completed, be returned to that person, unless the court, where it enters a conviction, directs that the seized property shall be deemed to be forfeited to the Crown or the administering body, and the seized property shall then be disposed of as the Commissioner or that body, as the case may be, directs.
+(6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of section 93(5)).
+(6A) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the seizure of any thing under this section.
 (7) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall, where it is sold or disposed of by the Commissioner, be paid into the Public Account to the credit of the Trust Account, and may be applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, and developing reserves or as consideration for conservation covenants, and, where it is sold or disposed of by an administering body, shall form part of the funds of that body.
 (8) In this section the term protected wildlife means wildlife that pursuant to section 3 of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
 
@@ -1183,7 +1186,7 @@ Notwithstanding anything in the Summary Proceedings Act 1957, any information in
   (a) stop, board, and search the boat; and
   (b) inspect, seize, and detain any specimens of flora or fauna or rock mineral or soil or protected New Zealand objects on board which he has good cause to suspect of having been taken from a reserve; and
   (c) arrest without warrant any person whom he has good cause to suspect of having committed such an offence.
-(2) Any officer may exercise the powers conferred on him by subsection (1) with the aid of such assistants as he considers to be necessary for the purpose.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry, search, or seizure conducted under this section.
 (3) The production by any officer referred to in paragraph (b) or paragraph (c) or paragraph (d) of subsection (7) of his warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
 (4) Where an officer arrests any person under subsection (1)(c), he shall cause that person to be brought before a court as soon as possible, to be dealt with according to law.
 (5) Without limiting the provisions of section 98, any person who in any way prevents or hinders any officer or any assistant of any officer in exercising any power conferred by this section commits an offence against this Act.
@@ -1530,3 +1533,39 @@ Where under any provision of this Act the consent or approval of the Minister is
 | Lookout Hill Wildlife Management Reserve | Category B |  |
 | Rotokino Wildlife Management Reserve | Category B |  |
 | Paynes Gully Extension Wildlife Management Reserve | Category B |  |
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
