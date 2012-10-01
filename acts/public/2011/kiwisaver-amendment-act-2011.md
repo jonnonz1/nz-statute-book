@@ -1,5 +1,5 @@
 # KiwiSaver Amendment Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the KiwiSaver Amendment Act 2011.
@@ -598,33 +598,10 @@ Each of the following KiwiSaver schemes is eligible, on its effective date, to b
   (i) Waterfront Industry KiwiSaver Scheme.
 
 ### 63 Parties to trust deed may execute amendment to trust deed
-(1) This section applies—
-  (a) to a trust deed that, immediately before the commencement date, governs a KiwiSaver scheme; and
-  (b) to a new trust deed that replaces an existing trust deed under section 64; and
-  (c) despite anything to the contrary in the trust deed or a relevant enactment, or in any other enactment, rule of law, or agreement, including anything relating to the consent of any person or organisation to the making of amendments to the trust deed.
-(2) The parties to the trust deed may, from time to time, until 30 September 2012, make any amendments to the trust deed that are necessary or desirable to ensure, or in connection with ensuring, that the trust deed complies with the relevant enactments as amended by this Act.
-(3) However, the parties must not amend the trust deed under this section without the prior written consent of the FMA.
-(4) An amendment to the trust deed made under this section must be treated for all purposes as if it were authorised to be made and were made in accordance with the provisions of the trust deed before the amendment was made.
-(5) This section expires, and is repealed, on the close of 30 September 2012.
+[Repealed]
 
 ### 64 Conversion of umbrella trusts to separate trusts
-(1) This section applies—
-  (a) to a trust deed (existing trust deed) that, immediately before the commencement date, governs a KiwiSaver scheme and a registered superannuation scheme under an umbrella trust; and
-  (b) despite anything to the contrary in the trust deed or a relevant enactment, or in any other enactment, rule of law, or agreement, including anything relating to the consent of any person or organisation to the making of amendments to the trust deed.
-(2) The parties to an existing trust deed may, until 30 September 2012, rescind the existing trust deed, provided that the existing trust deed is immediately replaced with a new trust deed in respect of each scheme governed by the existing trust deed.
-(3) However,—
-  (a) an existing trust deed must not be rescinded, and new trust deeds must not be executed, under this section without the prior written consent of the FMA; and
-  (b) the parties to, and provisions of, a new trust deed must differ from the parties to, and provisions of, the existing trust deed only to the extent that is necessary or desirable to ensure, or in connection with ensuring, that the new trust deed complies with the relevant enactments as amended by this Act.
-(4) On the replacement of an existing trust deed with new trust deeds under this section,—
-  (a) the KiwiSaver scheme and the registered superannuation scheme—
-    (i) are governed by separate trusts rather than by an umbrella trust; and
-    (ii) must be treated as separate persons for the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994; and
-  (b) no assets or liabilities are removed from the KiwiSaver scheme or the registered superannuation scheme; and
-  (c) no new settlement (as defined in section YA 1 of the Income Tax Act 2007) occurs; and
-  (d) the KiwiSaver scheme must be treated as the same scheme; and
-  (e) the registered superannuation scheme must be treated as the same scheme; and
-  (f) the persons who were members of each scheme immediately before the replacement of the existing trust deed continue to be members of the same scheme.
-(5) This section expires, and is repealed, on the close of 30 September 2012.
+[Repealed]
 
 ### 65 Providers must notify existing members of changes
 (1) The provider of a KiwiSaver scheme must, no later than 3 months after the effective date for the scheme,—
