@@ -1,5 +1,5 @@
 # Marine Reserves Act 1971
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to provide for the setting up and management of areas of the sea and foreshore as marine reserves for the purpose of preserving them in their natural state as the habitat of marine life for scientific study
 
@@ -172,6 +172,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (c) pursue and apprehend, without warrant, any person whom he or she reasonably believes to have committed or to be committing an offence against this Act or any regulations made under this Act:
   (d) stop any vessel, vehicle, or other conveyance, or any aircraft while on the ground or on the water, or any other device for carriage or transportation, or stop in transit any parcel, package, case, bag, luggage, or other container that is or that he or she reasonably believes to be in the possession of the owner or of any other person (including any carrier or forwarding agent, whether by land, sea, or air), if he or she reasonably believes that any breach of this Act or of any regulation made under this Act has been committed by the owner or by the person in possession thereof or by any other person, and, in the presence of the owner or other person or of any servant of any of them, enter and search any such vessel, vehicle, other conveyance, aircraft, or other device, and in such presence open and search any such parcel, package, case, bag, luggage, or other container.
 (2) The powers of a ranger under this Act shall be exercisable within any marine reserve; and if a ranger is in fresh pursuit of an offender the ranger may, without warrant, apprehend the offender outside a marine reserve and may exercise any power conferred on a ranger by this Act.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of any entry and search conducted under subsection (1)(d).
 
 ### 18A Powers of seizure
 (1) A ranger may seize—
@@ -184,43 +185,23 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
 (2) Any marine life seized by a ranger shall, if alive and likely to survive, be returned to the reserve, or, if survival is unlikely, shall be disposed of—
   (a) in such manner and for such price as the Director-General may determine in any specific instance; or
   (b) according to any regulations made under this Act, if disposal is provided for by such regulations.
-(3) The decision whether or not to lay any information or charge in respect of an alleged offence for which any property is seized under this Act shall be made as soon as reasonably practicable after the property is seized, taken possession of, or detained.
+(3) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 (4) A ranger who, acting under subsection (2), at the time of seizure returns to the reserve any marine life that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the marine life was seized in the event of a decision being made not to lay an information or charge in respect of the marine life, or of the person being acquitted of the charge.
 
 ### 18B Director-General may release seized property under bond
-(1) The Director-General may, at any time until an information or charge is laid in respect of the alleged offence for which the property was seized, at his or her discretion or on application by—release the property to any such person under bond in such sum and under such sureties and conditions (if any) as the Director-General may specify.
-  (a) the person from whom the property was seized; or
-  (b) the owner or person entitled to the possession of the property seized or any person having a legal or equitable interest in the property,—
-(2) If any person to whom property is released under subsection (1) fails to comply with the conditions of any bond or with any condition specified by the Director-General,—
-  (a) the property may be reseized at any time at the direction of the Director-General; and
-  (b) the provisions of this section shall thereupon apply to the property as if it had been seized under section 18A; and
-  (c) the Director-General may, in the case of failure to comply with the conditions of any bond, apply to a court presided over by a District Court Judge for an order for estreat of the bond; and
-  (d) if the Director-General so applies, the Registrar shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond a notice of the time and place so fixed; and
-  (e) if on the hearing of any such application it is proved to the satisfaction of the court that any condition of the bond has not been kept, the court may make an order to estreat the bond to such an amount as it thinks fit to any person bound thereby on whom notice is proved to have been served in accordance with this subsection; and
-  (f) any penalty payable in accordance with this subsection shall be recoverable as if it were a fine.
+[Repealed]
 
 ### 18C Seized property to be held by Crown if not released
-All property seized under section 18A and the proceeds from the sale of any such property under subsection (2) of that section, except if such property or proceeds have been forfeited to the Crown under section 18E, shall, subject to section 18B, be held in the custody of the Crown—
-  (a) until a decision is made not to lay any information or charge in respect of the alleged offence in respect of which the property was seized; or
-  (b) if such a charge or information is laid for an offence in respect of which the property was seized, until the completion of such proceedings and, if the property is forfeit, until the disposal of the property under this Act or until such sooner time as the court may determine.
+[Repealed]
 
 ### 18D Crown to release seized property in certain circumstances
-(1) If any property has been seized under section 18A(1), and that property or the proceeds of sale of the property under that section remains in the custody of the Crown, then such property shall forthwith be released from the custody of the Crown—
-  (a) if a decision is made not to lay an information or charge, or on the withdrawal or dismissal of an information or charge; or
-  (b) on the acquittal of all persons charged with any offence for which forfeiture of the property or proceeds is a consequence of conviction.
-(2) If any information or charge has been laid for any alleged offence in respect of which the property was seized under section 18A and that property, or the proceeds from the sale of the property under that section, remains in the custody of the Crown, the court may at any time release the property or proceeds, on application by—and any such release may be subject to such sureties and conditions as the court may specify.
-  (a) the person from whom the property was seized; or
-  (b) the owner or person entitled to the possession of the property seized or any person having a legal or equitable interest in the property,—
+[Repealed]
 
 ### 18E Seized property forfeited to Crown if ownership not established
-(1) If the ownership of any property cannot be established at the time of seizure or within 90 days after the date of seizure, the property seized shall be forfeit to the Crown and shall be disposed of as directed by the Director-General.
-(2) If there is a dispute as to the ownership of any property that has been seized under this Act, the Director-General may apply to a District Court for directions as to the holding and disposal of the property and the court may give such directions accordingly.
+[Repealed]
 
 ### 18F Protection of Crown
-(1) Any person who,—shall not be under any civil or criminal liability as a result of that act or omission on the ground of want of jurisdiction or mistake of law or fact, or any other ground, unless he or she has acted in bad faith or without reasonable cause.
-  (a) pursuant to this Act, examines or renders ineffective any net, line, pot, gear, tackle, or device which the person has reasonable cause to believe has been set for the purpose of taking marine life in contravention of this Act or any regulations made under this Act, or of any conditions of any permit, authority, or licence issued in respect of the taking; or
-  (b) does any act under this Act, or any regulations made under this Act, or omits to do any act required by this Act or by any regulations made under this Act,—
-(2) The Crown shall not be held directly or indirectly liable for any such act or omission of any such person, unless the person himself or herself would incur liability for the act or omission.
+[Repealed]
 
 ### 18G Forfeiture of property on conviction
 (1) On conviction of any person for any offence against section 18I(1),—may, on the order of the court, be forfeit to the Crown if the court thinks fit to so order.
@@ -339,3 +320,39 @@ Notwithstanding anything in the Summary Proceedings Act 1957, any information in
 
 ### 25 Consequential amendment
 [Repealed]
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
