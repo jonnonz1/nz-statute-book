@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2012-05-18_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
