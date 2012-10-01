@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2012-10-01_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -521,60 +521,29 @@ In any application for an order against a person under section 43, a finding of 
 
 ### 47 Power to search
 (1) The Commission may, from time to time, authorise an employee of the Commission to search, under a warrant issued under subsection (2), any place named in the warrant for any of the purposes set out in that subsection.
-(2) A District Court Judge, Justice, Community Magistrate, or court Registrar (not being a constable) may, by warrant, authorise a person who is authorised under subsection (1) to search a place specified in the warrant if he or she is satisfied on application made on oath by that employee that there are reasonable grounds to believe that a search is necessary for the purpose of—
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, by warrant, authorise a person who is authorised under subsection (1) to search a place specified in the warrant if he or she is satisfied on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act by that employee that there are reasonable grounds to believe that a search is necessary for the purpose of—
   (a) investigating—
     (i) whether a person has engaged in, or is engaging in, conduct that constitutes, or may constitute, a contravention of this Act; or
     (ii) the nature or extent of any conduct that constitutes, or may constitute, a contravention of this Act; or
   (b) gathering, obtaining, or recovering evidence of—
     (i) conduct that constitutes, or may constitute, a contravention of this Act; or
     (ii) the nature or extent of any conduct that constitutes, or may constitute, a contravention of this Act.
-(3) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
-  (a) details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
-  (b) the result of the application.
+(3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
 
 ### 47A Powers conferred by warrant
-(1) A warrant issued under section 47 authorises the person named in it—
-  (a) to enter and search the place specified in the warrant on 1 occasion within 30 days of the date of issue of the warrant at a time that is reasonable in the circumstances:
-  (b) to use such assistance as is reasonable in the circumstances:
-  (c) to use such force for gaining entry and for breaking open any article or thing as is reasonable in the circumstances:
-  (d) to search for and remove documents or any article or thing that the person executing the warrant believes on reasonable grounds may be relevant:
-  (e) to search for and remove goods that the person executing the warrant believes on reasonable grounds may be relevant:
-  (f) where necessary, to take copies of documents, or extracts from documents, that the person executing the warrant believes on reasonable grounds may be relevant:
-  (g) where necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce, in usable form, information recorded or stored in a document.
-(2) A person assisting the person executing the warrant also has the powers referred to in paragraphs (c), (d), (e), and (f) of subsection (1).
-(3) The warrant shall be executed in accordance with such reasonable conditions as may be specified in the warrant when it is issued.
+[Repealed]
 
 ### 47B Warrant to be produced
-A person executing a warrant under section 47—
-  (a) must have the warrant with him or her; and
-  (b) must produce it on initial entry and, if requested, at any subsequent time; and
-  (c) must identify himself or herself to the owner or occupier or person in charge of the place if that person is present; and
-  (d) must produce evidence of his or her identity.
+[Repealed]
 
 ### 47C Other duties of person who executes a warrant
-(1) A person who executes a warrant issued under section 47 must, before completing the search, leave in a prominent place at the place searched,—
-  (a) in the case of a search carried out at a time when the owner or occupier was not present, a written notice stating—
-    (i) the date and time when the warrant was executed; and
-    (ii) the name of the person who executed the warrant; and
-  (b) in the case of a search where documents or goods were removed from the place being searched, a schedule of documents or goods that were removed during the search.
-(2) If it is not practicable to prepare a schedule before completing the search, or if the owner or occupier of the place being searched consents, the person executing the warrant—
-  (a) may, instead of leaving a schedule, leave a notice stating that documents or goods have been removed during the search and that, within 7 days of the search, a schedule will be delivered, left, or sent stating what documents or goods have been removed; and
-  (b) must, within 7 days of the search,—
-    (i) deliver a schedule to the owner or occupier; or
-    (ii) leave a schedule in a prominent position at the place searched; or
-    (iii) send a schedule by mail to the owner or occupier of the place searched.
-(3) Every schedule must state—
-  (a) the documents or goods that have been removed; and
-  (b) the location from where they were removed; and
-  (c) the location where they are being held.
+[Repealed]
 
 ### 47D Duty to assist
-The occupier or person in charge of the place that a person authorised pursuant to a warrant issued under section 47 enters for the purpose of searching must provide that person with all reasonable facilities and assistance in executing the warrant.
+[Repealed]
 
 ### 47E Power to inspect documents and goods
-The Commission, or any person authorised in writing by the Commission for the purpose, may—
-  (a) inspect and take copies of any documents or extracts from documents obtained pursuant to a warrant issued under section 47; or
-  (b) inspect any goods obtained under any such warrant.
+[Repealed]
 
 ### 47F Offence
 Every person who resists, obstructs, or delays any authorised person acting pursuant to a warrant issued under section 47 commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
@@ -665,3 +634,39 @@ This Act may be cited as the Fair Trading Amendment Act 1997, and is part of the
 ### 6 Transitional provisions relating to regulations in force before commencement of this Act
 (1) Regulations made under section 27 or section 28 of the principal Act (as in force before the commencement of this Act) and that were in force immediately before the commencement of this Act are deemed to have been made under section 27 of the principal Act (as substituted by this Act).
 (2) Regulations made under section 29 or section 30 or under both sections 29 and 30 of the principal Act (as in force before the commencement of this Act) and that were in force immediately before the commencement of this Act are deemed to have been made under section 29 of the principal Act (as substituted by this Act).
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
