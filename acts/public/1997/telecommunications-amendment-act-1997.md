@@ -1,5 +1,5 @@
 # Telecommunications Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-10-01_
 
 > An Act to amend the Telecommunications Act 1987
 
