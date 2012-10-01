@@ -1,5 +1,5 @@
 # Telecommunications Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 (1) This Act is the Telecommunications Amendment Act 2001.
