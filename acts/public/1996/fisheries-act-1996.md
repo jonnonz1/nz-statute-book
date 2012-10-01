@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2012-08-31_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1102,7 +1102,7 @@ The purpose of the overseas investment fishing provisions is to acknowledge that
 
 ### 57 Overview of overseas investment fishing provisions
 (1) The general scheme and effect of the provisions governing overseas investments in fishing quota are as follows:
-  (a) their interpretation is covered by section 57Aof this Act and Part 1 of the Overseas Investment Act 2005:
+  (a) their interpretation is covered by section 57A of this Act and Part 1 of the Overseas Investment Act 2005:
   (b) when consent is required and the criteria for consent are stated in sections 57B to 57I:
   (c) the procedure for obtaining consent and imposing conditions of consent is set out in subpart 2 of Part 2 of the Overseas Investment Act 2005:
   (d) who administers those provisions is set out in section 57J of this Act and the role of the main regulator is set out in subpart 3 of Part 2 of the Overseas Investment Act 2005:
@@ -3894,18 +3894,15 @@ To avoid doubt, the powers of a fishery officer conferred by or under this Part 
   (d) for the purposes of exercising any power conferred by paragraph (a), enter or pass across any land.
 (3) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for such period as is reasonably necessary to enable the fishery officer to carry out an examination or a search under this section.
 
+### 199B Application of Part 4 of Search and Surveillance Act 2012
+(1) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2 and 3, section 119, and subpart 8) apply in respect of the powers conferred by section 199(1).
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 3 and 8) apply in respect of the powers conferred by section 199A.
+
 ### 200 Conditions relating to exercise of powers of entry, etc
-(1) A fishery officer shall not exercise any power under this Act to enter a place that is a private dwelling place, or the enclosed garden or curtilage of a private dwelling place, or any Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993, unless he or she is authorised in writing by a Justice, Community Magistrate, District Court Judge, or Registrar of a District Court.
-(2) An application for authorisation shall be made by a fishery officer on oath in writing, or on oath orally if the Justice, Community Magistrate, District Court Judge, or Registrar of a District Court considers it appropriate to do so; and, in such a case, that Justice, Community Magistrate, Judge, or Registrar shall make a written note of the grounds of the application.
-(3) A Justice, Community Magistrate, District Court Judge, or Registrar of a District Court shall not grant such authority unless he or she is satisfied that the fishery officer has reasonable grounds for requiring entry into the private dwelling place, garden or curtilage, or Maori reservation.
-(4) The following provisions apply in relation to every authorisation under subsection (1):
-  (a) an authorisation shall be directed to any fishery officer by name or generally to every fishery officer, and may be executed by any fishery officer:
-  (b) every person exercising the power of entry conferred by an authorisation shall have the authorisation with him or her and produce it if required to do so:
-  (c) an authorisation is valid for 30 days after the date of issue unless otherwise specified in the authorisation:
-  (d) an authorisation shall authorise entry on only 1 occasion within the period referred to in paragraph (c), unless otherwise stated in the authorisation:
-  (e) if the owner or occupier is not present when the examination or search is undertaken, the fishery officer executing the examination or search shall take reasonable steps to promptly advise the owner or occupier of the examination or search, unless otherwise directed by the authorisation:
-  (f) an authorisation may be executed at any time:
-  (g) an authorisation shall be in the form set out in Schedule 7.
+(1) A fishery officer shall not exercise any power under this Act to enter a place that is a private dwelling place, or the enclosed garden or curtilage of a private dwelling place, or any Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993, unless he or she is authorised in writing by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012).
+(2) An application for authorisation must be made by a fishery officer in the manner provided for an application for a search warrant under subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(3) An issuing officer shall not grant such authority unless he or she is satisfied that the fishery officer has reasonable grounds for requiring entry into the private dwelling place, garden or curtilage, or Maori reservation.
+(4) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 (5) For the purposes of this section, a place is a private dwelling if private dwelling is the dominant purpose for which the place is used.
 
 ### 201 Power to question persons and require production of documents
@@ -3943,7 +3940,7 @@ In order to ascertain—a fishery officer may, with the leave of the court, exer
 **Power to use reasonable force**
 
 ### 205 Power to use reasonable force in exercise of certain powers
-For the purpose of the enforcement of this Act, other than the exercise of any power under section 201, a fishery officer is justified in using such force as may be reasonably necessary to enable the exercise of his or her powers under this Act.
+For the purpose of the enforcement of this Act, other than the exercise of any power under section 201, a fishery officer is justified in using such force as is necessary to enable the exercise of his or her powers under this Act.
 
 **Power to take copies of documents**
 
@@ -3951,7 +3948,7 @@ For the purpose of the enforcement of this Act, other than the exercise of any p
 (1) In exercising powers under this Act, a fishery officer may—
   (a) make or take copies of any record or document, and for this purpose may take possession of and remove from the place where they are kept any such record or document, for such period of time as is reasonable in the circumstances:
   (b) if necessary, require a person to reproduce, or assist the fishery officer to reproduce, in a useable form, information recorded or stored in a document.
-(2) Any documents to which section 198A of the Summary Proceedings Act 1957 applies that are copied by a fishery officer under this section shall be dealt with in accordance with section 198A of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
+(2) Any documents to which section 137 of the Search and Surveillance Act 2012 applies that are copied by a fishery officer under this section shall be dealt with in accordance with section 137 of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
 
 **Provisions relating to seizure**
 
@@ -3960,44 +3957,26 @@ For the purpose of the enforcement of this Act, other than the exercise of any p
   (a) any vessel, vehicle or other conveyance, fishing gear, implement, appliance, material, container, goods, equipment, or thing which he or she believes on reasonable grounds is being or has been or is intended to be used in the commission of an offence against this Act:
   (b) any fish, aquatic life, or seaweed which he or she believes on reasonable grounds are being, or have been, taken, killed, transported, bought, sold, or found in the possession of any person, in contravention of this Act; or any fish, aquatic life, or seaweed with which such fish, aquatic life, or seaweed have been intermixed:
   (c) any article, record, document, or thing which he or she believes on reasonable grounds is evidence of the commission of an offence against this Act.
-(2) Any property seized under subsection (1) shall be delivered into the custody of the chief executive.
-(3) Any documents to which section 198A of the Summary Proceedings Act 1957 applies that are seized by a fishery officer under this section shall be dealt with in accordance with section 198A of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
-(4) The decision whether to lay any information or charge for an alleged offence in respect of which any property is seized under subsection (1) shall be made as soon as reasonably practicable after the property is seized.
+(2) Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
+(3)
+(4)
 
 **Provisions relating to seized property**
 
 ### 208 Chief executive may release seized property under bond
-(1) On application by—the chief executive may, at any time until an information or charge is laid for the alleged offence in respect of which the property was seized, release the property to any such person under bond in such sum and under such sureties and conditions (if any) as the chief executive may specify.
-  (a) a person from whom property has been seized under section 207; or
-  (b) the owner or person entitled to possession of the property seized,—
-(2) It is a condition of every bond under this section that, upon the forfeiture under this Act of the property that is the subject of the bond, the person to whom the property is released shall forthwith return the property to the custody of the chief executive unless the chief executive advises the person in writing that the property does not have to be so returned.
-(3) If any person to whom property is released under subsection (1) fails to comply with the conditions of any bond or with any condition specified by the chief executive,—
-  (a) the property may be reseized at any time at the direction of the chief executive; and
-  (b) the provisions of this section shall apply to the property as if it had been seized under section 207; and
-  (c) the chief executive may, in the case of failure to comply with the conditions of any bond, apply to a court for an order for estreat of the bond; and
-  (d) if the chief executive so applies, the chief executive shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond, and every surety, a notice of the time and place so fixed; and
-  (e) if, on the hearing of any such application, it is proved to the satisfaction of the court that any condition of the bond has not been complied with, the court may make an order to estreat the bond to such an amount as it thinks fit against any person bound thereby, and any order it thinks fit in relation to any surety on whom notice is proved to have been served in accordance with this subsection; and
-  (f) any amount payable in accordance with this subsection shall be recoverable as if it were a fine.
+[Repealed]
 
 ### 209 Seized property to be held by the Crown if not released
-All property seized under section 207 and (if applicable) the proceeds from the sale of any such property under section 212, except where such property or proceeds have been forfeited to the Crown under section 211, shall, subject to section 208(1), be held in the custody of the Crown—
-  (a) until a decision is made not to lay any information or charge for any alleged offence in respect of which the property was seized; or
-  (b) if a charge or information is laid for an offence in respect of which the property was seized, until the completion of such proceedings, and, if the property is forfeit, until the disposal of the property under this Act or such sooner time as the court may determine.
+[Repealed]
 
 ### 210 Crown to release seized property in certain circumstances
-(1) If any property has been seized under section 207, and such property or the proceeds from the sale of such property under section 212 remains in the custody of the Crown, then such property or proceeds shall forthwith be released from the custody of the Crown—
-  (a) if a decision is made not to lay an information or charge:
-  (b) on the acquittal of all persons charged with any offence for which forfeiture of the property or proceeds is a consequence of conviction.
-(2) If any information or charge has been laid for any alleged offence in respect of which the property was seized under section 207 and that property, or the proceeds from the sale of such property under section 212, remains in the custody of the Crown, the court may at any time release the property or proceeds, on application by—and any such release may be subject to such sureties and conditions as the court may specify.
-  (a) the person from whom the property was seized; or
-  (b) the owner or person entitled to the possession of the property seized;—
+[Repealed]
 
 ### 211 Seized property forfeited to the Crown if ownership not established
-(1) If the ownership of any property cannot be ascertained by the chief executive within 90 days from the date of seizure, the property seized shall be forfeit to the Crown and shall be disposed of as directed by the chief executive.
-(2) If there is a dispute as to the ownership of any property that has been seized under this Act, the chief executive may apply to a court for directions as to the holding and disposal of the property and the court may give such directions accordingly.
+[Repealed]
 
 ### 212 Chief executive may sell perishable seized property
-If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or other thing seized under section 207 may rot, spoil, deteriorate, or otherwise perish, the chief executive may dispose of it in such manner and for such price (if any) as the chief executive may determine.
+If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or other thing seized under section 207 may rot, spoil, deteriorate, or otherwise perish, and the thing is liable to be forfeited under this Act if the owner is convicted, the chief executive may dispose of it in such manner and for such price (if any) as the chief executive may determine.
 
 ### 213 Protection of the Crown
 (1) The Crown shall not be liable to any person for any spoilage or deterioration in the quality of any fish, aquatic life, seaweed, or other thing detained under section 199 or 199A, or seized under section 207, or for any loss caused by its disposal under section 212.
@@ -4051,6 +4030,7 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (2) A person who, in acting under the directions of a fishery officer in accordance with section 196(3) or under the directions of a high seas fishery inspector under section 113Q(3), does any act under this Act, or omits to do any act required by this Act, shall not be under any civil or criminal liability as a result of that act or omission on the ground of want of jurisdiction or mistake of law or fact, or any other ground, unless he or she has acted or omitted to act in bad faith or without reasonable cause.
 (3) A person who, while assisting a fishery officer or high seas fishery inspector under section 219, does any act under this Act, or omits to do any act required by this Act, shall not be under any civil or criminal liability as a result of that act or omission on the ground of want of jurisdiction or mistake of law or fact, or any other ground, unless he or she has acted or omitted to act in bad faith.
 (4) The Crown may not be held directly or indirectly liable for an act or omission of any such fishery officer, high seas fishery inspector, or person, unless the officer, inspector, or person would himself or herself incur liability for the act or omission.
+(5) This section is subject to sections 164 to 168 of the Search and Surveillance Act 2012 (where applied by this Act).
 
 ### 221 Complaints against fishery officers or high seas fishery inspectors
 (1) A person may lodge a complaint in writing with the chief executive if the person believes that a fishery officer or a high seas fishery inspector is guilty of misconduct or neglect of duty in the exercise, or alleged exercise, of—
@@ -7763,6 +7743,42 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 5 Transitional provision relating to consultation
 (1) This section applies to consultation undertaken before the commencement of this Act under section 12 of the principal Act for the purpose of setting or varying a total allowable catch for a quota management stock under section 13 of the principal Act after the commencement of this Act.
 (2) The consultation is to be treated as complying with section 12 of the principal Act if, had it been undertaken after the commencement of this Act, it would have complied with section 12 of the principal Act.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ### 1 Title
 This Act is the Fisheries Amendment Act 2012.
