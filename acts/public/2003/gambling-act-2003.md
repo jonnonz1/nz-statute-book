@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -3624,23 +3624,22 @@ A gambling inspector must ensure, to the extent that is reasonably practicable, 
 ### 335 Power of gambling inspector to seize equipment in casino venue
 (1) A gambling inspector may, while in a casino venue, seize any gambling equipment, device, or thing if the inspector has reasonable grounds to believe it will be evidence of the commission of an offence against sections 351 to 353.
 (2) A gambling inspector may exercise the power set out in subsection (1) only after he or she has given the person from whom the gambling equipment, device, or thing is proposed to be seized the opportunity to surrender the item to the inspector.
-(3) When exercising the power of seizure set out in subsection (1), a gambling inspector may use such force as is reasonable in the circumstances.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 (4) To avoid doubt, subsection (1) does not authorise a gambling inspector to search any person.
-(5) A gambling inspector who exercises powers under this section must show his or her warrant of appointment to any person at the casino who may be interested in, or affected by, the exercise of those powers.
+(5)
 
 ### 336 Power of gambling inspector to seize equipment in public place
 (1) A gambling inspector may, while in a public place, seize any gambling equipment, device, or thing if the inspector has reasonable grounds to believe it will be evidence of an offence.
 (2) A gambling inspector may exercise the power set out in subsection (1) only after he or she has given the person from whom the gambling equipment, device, or thing is proposed to be seized the opportunity to surrender the item to the inspector.
-(3) When exercising the power set out in subsection (1), the gambling inspector may use such force as is reasonable in the circumstances.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 (4) To avoid doubt, subsection (1) does not authorise a gambling inspector to search any person.
-(5) A gambling inspector who exercises powers under this section must show his or her warrant of appointment to any person at the place who may be interested in, or affected by, the exercise of those powers.
+(5)
 (6) In this section, offence means—
   (a) an offence against this Act; or
   (b) a crime involving dishonesty that involves or relates to gambling.
 
 ### 337 Return of equipment seized under section 335 or section 336
-(1) A gambling inspector must, if practicable, serve notice on the person from whom any gambling equipment, device, or thing has been seized under section 335(1) or section 336(1), or who has surrendered any item to the inspector in accordance with those sections, setting out particulars of the equipment, device, or thing and the date on which it was taken into the inspector’s possession.
-(2) The person on whom notice is served may, after 48 hours after the notice is served, apply to the District Court for an order directing that the inspector return any gambling equipment, device, or thing specified in the order to the person.
+[Repealed]
 
 ### 338 Other powers of gambling inspectors
 A gambling inspector may—
@@ -3656,55 +3655,30 @@ Every constable—
 
 ### 340 Search warrants
 (1) A gambling inspector or constable may apply for a search warrant to search a place or thing.
-(2) An application must be made in writing and on oath to a District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable).
-(3) The Judge, Justice, Magistrate, or Registrar may issue a search warrant to a gambling inspector or a constable if there are reasonable grounds for believing that—
+(2) An application must be made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of section 3 of that Act).
+(3) The issuing officer may issue a search warrant to a gambling inspector or a constable if there are reasonable grounds for believing that—
   (a) an offence has been, or is being, committed at the place or involving the thing:
   (b) there is in, on, over, or under the place or thing, any thing that is evidence of an offence.
-(4) In this section and sections 341 and 344, offence means—
+(3A) Subject to subsection (3B), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3B) Despite subsection (3A), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or every constable.
+(4) In this section and section 344, offence means—
   (a) an offence against this Act; or
   (b) a crime involving dishonesty that involves or relates to gambling.
 
 ### 341 Form and content of search warrant
-(1) A search warrant must be in the prescribed form and must contain the following particulars:
-  (a) the place or thing that may be searched:
-  (b) the offence or offences in respect of which the warrant is issued:
-  (c) a description of the kind of property or thing that may be seized:
-  (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any special conditions set out in the warrant.
-(2) A search warrant must be directed generally to every gambling inspector and every constable.
+[Repealed]
 
 ### 342 Powers conferred by search warrant
-(1) A search warrant may be executed by a gambling inspector or a constable.
-(2) Subject to any special conditions specified in the warrant under section 341(1)(e), a search warrant may authorise the person executing the warrant—
-  (a) to enter and search the place or thing specified in the warrant at any time by day or night; and
-  (b) to use the assistance that is reasonable in the circumstances to enter and search the place or thing; and
-  (c) to use the force that is reasonable in the circumstances to gain entry and to break open any thing in, on, over, or under the place or thing searched; and
-  (d) to search any person found in or at the place; and
-  (e) to search for and seize any property or thing referred to in section 341(1)(c).
-(3) A person who is called to assist to execute a search warrant may exercise the powers described in subsection (2)(c) and (e).
-(4) The power to enter and search a place or thing under a search warrant may be exercised once only.
+[Repealed]
 
 ### 343 Requirements when executing search warrant
-(1) A gambling inspector or constable who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
-  (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
-  (b) whenever subsequently required to do so at the place specified in the warrant, by any other person appearing to be in charge of the place or any part of the place.
-(2) If the owner or occupier of the place is not present at the time the search warrant is executed, the gambling inspector or constable must leave in a prominent location at the place a written statement that includes the following information:
-  (a) the time and date of the search; and
-  (b) the name of the gambling inspector or constable who executed the search; and
-  (c) the address of the office of the gambling inspector or the Police station to which enquiries should be made.
-(3) If any thing is seized in the execution of a search warrant, the gambling inspector or constable executing the warrant must leave in a prominent location at the place, or deliver or send by registered mail to the owner or occupier within 10 working days after the search, a written inventory of all things seized.
+[Repealed]
 
 ### 344 Police may arrest persons found at place
 A constable who is executing, or assisting in the execution of, a search warrant at a place may, without further warrant, arrest any person found at the place if he or she has reasonable grounds to believe that the person is committing, or has committed, an offence.
 
 ### 345 Disposal of things seized under search warrant
-(1) In any proceedings for an offence relating to any thing seized under warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) A gambling inspector or constable may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
-(3) On any such application, the District Court Judge may make any order that a court may make under subsection (1).
-(4) If proceedings for an offence relating to the thing are not brought within 3 months of its seizure, any person claiming to be entitled to the thing may, after the expiry of that period, apply to a District Court Judge for an order that it be delivered to him or her.
-(5) On any such application, the District Court Judge may—
-  (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
-  (b) make any order that a court may make under subsection (1).
+[Repealed]
 
 **Other matters**
 
@@ -3907,7 +3881,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) prescribing forms for the purposes of this Act and prescribing the information to be provided by applicants:
   (b) prescribing procedures for the service and publication of documents:
   (c) prescribing the form of a certificate of approval:
-  (d) prescribing the form of a warrant of appointment of a gambling inspector under section 331, and a search warrant under section 341.
+  (d) prescribing the form of a warrant of appointment of a gambling inspector under section 331.
 
 ### 370 Regulations relating to fees
 (1) The Governor-General may, by Order in Council, make regulations prescribing the fees or charges payable to enable the recovery of the direct and indirect costs of the Secretary, the Gambling Commission, or the Police in—
@@ -4328,3 +4302,39 @@ The powers of a distribution committee are not affected by any vacancy in its me
 ## Schedule 8 — Amendments to Racing Act 2003
 
 ## Schedule 9 — Amendments to other Acts
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
