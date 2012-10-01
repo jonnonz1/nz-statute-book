@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -31,7 +31,7 @@ This Act binds the Crown.
   - **financial year** means a period of 12 months ending with 30 June
   - **infringement fee** means the amount prescribed as the infringement fee for the infringement offence concerned
   - **infringement offence** means an offence prescribed as an infringement offence under section 59(a)
-  - **judicial officer** means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a member of the police)
+  - **judicial officer** means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable)
   - **levy** means the levy imposed by section 26
   - **levy collector** , in relation to a disposal facility, means—
     (a) the Secretary, if there is no appointed levy collector for the facility; or
@@ -651,8 +651,8 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
 (3) The following persons commit an offence and are liable on summary conviction to a fine not exceeding $5,000:
   (a) a person who intentionally prevents an enforcement officer or auditor from carrying out his or her statutory functions or duties; or
   (b) a person who—
-    (i) refuses to give information when required to do so by an enforcement officer acting under section 78 or an enforcement officer or auditor acting under section 79; or
-    (ii) intentionally supplies false or misleading information to an enforcement officer acting under section 78 or an enforcement officer or an auditor acting under section 79; or
+    (i) refuses to give information when required to do so by an enforcement officer or auditor acting under section 79; or
+    (ii) intentionally supplies false or misleading information to an enforcement officer or an auditor acting under section 79; or
   (c) a person who incites any other person to do an act referred to in paragraph (a) or (b).
 (4) A territorial authority convicted of an offence under subsection (2) is liable, in addition to the penalty for the offence, for any reasonable costs incurred by the Medical Officer of Health in collecting and disposing of the waste to which the offence relates.
 (5) Costs under subsection (4) must be assessed by the court.
@@ -770,14 +770,10 @@ A territorial authority may retain the infringement fees received by it for any 
 **Enforcement officer powers**
 
 ### 77 Exercise of powers
-(1) An enforcement officer may exercise the powers under this Act, in accordance with his or her warrant, only for the purposes for which he or she was appointed.
-(2) An enforcement officer exercising a power under this Act must have with him or her, and must produce if required to do so, his or her warrant and evidence of his or her identity.
-(3) An enforcement officer exercising the power of entry under section 79(1)(a) must produce his or her warrant and evidence of identity to the occupier of the land, building, or place concerned,—
-  (a) if practicable, on first entering the land, building, or place; and
-  (b) whenever subsequently reasonably required to do so by the occupier.
+[Repealed]
 
 ### 78 Power to require certain information
-An enforcement officer may require a person to give his or her full name and residential address, if the officer believes on reasonable grounds that the person is committing or has committed an offence against this Act or a bylaw made under section 56.
+[Repealed]
 
 ### 79 Power to inspect property and obtain information
 (1) An enforcement officer may, if he or she believes on reasonable grounds that an offence against this Act or a bylaw made under section 56 has been or is being committed,—
@@ -785,6 +781,7 @@ An enforcement officer may require a person to give his or her full name and res
   (b) inspect and examine any property and any books, accounts, records, or documents (including records or documents held in electronic or any other form):
   (c) require any person to produce any books, accounts, records, or documents (including records or documents held in electronic or any other form) in that person’s possession or under that person’s control, and allow copies of or extracts from those books, accounts, records, or documents to be made or taken.
 (2) Before exercising the power in subsection (1)(a), the officer must, if practicable, give reasonable notice to the occupier of the land, building, or place of the intention to exercise the power, unless the giving of notice would defeat the purpose of the entry.
+(2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply.
 (3) This section is subject to section 80.
 
 ### 80 Consent or warrant required to inspect dwellinghouse or marae
@@ -792,13 +789,14 @@ An enforcement officer may require a person to give his or her full name and res
   (a) except with the consent of the occupier of the dwellinghouse or marae; or
   (b) unless—
     (i) authorised to do so by a warrant issued under subsection (2); and
-    (ii) when exercising the power, the enforcement officer is accompanied by a member of the police.
-(2) A judicial officer may, on the written application of an enforcement officer made on oath, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
-(3) The judicial officer may issue a warrant under subsection (2)—
+    (ii) when exercising the power, the enforcement officer is accompanied by a constable.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
+(3) The issuing officer may issue a warrant under subsection (2)—
   (a) only if he or she is satisfied that—
     (i) the proposed entry is necessary for the purposes of section 79(1)(a); and
-    (ii) the enforcement officer has taken all reasonable steps to obtain the consent of the occupier to the proposed entry; and
-  (b) subject to any conditions that he or she thinks fit.
+    (ii) the enforcement officer has taken all reasonable steps to obtain the consent of the occupier to the proposed entry.
+  (b)
+(3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (2) were a search warrant.
 (4) In this section,—
   - **dwellinghouse** —
     (a) means any building or any part of a building to the extent that it is occupied as a residence; and
@@ -830,40 +828,24 @@ An enforcement officer may require a person to give his or her full name and res
   (b) includes an offence against a bylaw.
 
 ### 82 Seizure of property from private land
-(1) A judicial officer may issue a warrant authorising an enforcement officer to enter private land and seize and impound property materially involved in the commission of an offence.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private land and seize and impound property materially involved in the commission of an offence.
 (2) A warrant may be issued only if—
-  (a) the application for it is made in writing and on oath; and
-  (b) the judicial officer is satisfied that—
+  (a) the application for it is made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012; and
+  (b) the issuing officer is satisfied that—
     (i) the property is materially involved in the commission of an offence; and
     (ii) it is reasonable in the circumstances for the property to be seized; and
     (iii) the enforcement officer has—
       (A) directed the person committing the offence to stop committing the offence; and
       (B) advised the person that, if he or she fails to do so, the officer intends to apply for a warrant; and
       (C) given the person committing the offence a reasonable opportunity to stop committing the offence.
-(3) A warrant—
-  (a) may be issued subject to any terms and conditions imposed by the judicial officer issuing the warrant; and
-  (b) authorises an enforcement officer, subject to any terms and conditions imposed under paragraph (a), to—
-    (i) use any assistance that is necessary in the circumstances; and
-    (ii) use any force that is reasonably necessary to enter the land and seize and impound the property concerned.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (1) were a search warrant.
+(4) An enforcement officer executing a warrant issued under this section must be accompanied by a constable.
 
 ### 83 Conditions for exercise of warrant to seize property on private land
-(1) An enforcement officer executing a warrant issued under section 80 must—
-  (a) be accompanied by a member of the police; and
-  (b) when entering the land and when reasonably requested to do so afterwards, produce for inspection by any person occupying the land at the time—
-    (i) the warrant; and
-    (ii) evidence of the officer's identity; and
-  (c) if requested, whether at the time or later, provide a copy of the warrant within 7 days after receiving the request.
-(2) If no person is present and occupying the land when an enforcement officer executes the warrant, the enforcement officer must—
-  (a) leave a copy of the warrant—
-    (i) affixed to a building or fixture on the land; or
-    (ii) in a prominent place on the land; and
-  (b) on a copy of the warrant, endorse—
-    (i) the date and time of the execution of the warrant; and
-    (ii) the name of the enforcement officer executing the warrant; and
-    (iii) a description of any property seized and impounded in sufficient detail to enable the property to be identified.
+[Repealed]
 
 ### 84 Return of property seized and impounded
-(1) The owner of property that has been seized and impounded under section 81 or 82, or the person from whom the property was seized, may request the Secretary or the territorial authority concerned, as the case may be, to return the property.
+(1) The owner of property that has been seized and impounded under section 81, or the person from whom the property was seized, may request the Secretary or the territorial authority concerned, as the case may be, to return the property.
 (2) The Secretary or the territorial authority must return the property if—
   (a) the property is not likely to be involved in the offence for which it was seized; and
   (b) the owner or person has paid, or tenders with the request for payment of, the costs of the Secretary or the territorial authority in seizing, impounding, transporting, and storing the property.
@@ -872,8 +854,8 @@ An enforcement officer may require a person to give his or her full name and res
   (a) confirm the Secretary's or the territorial authority's decision; or
   (b) order that the property be returned.
 
-### 85 Power to dispose of property seized and impounded
-(1) The Secretary or a territorial authority, as the case may be, may dispose of property that has not been returned within 6 months after it was seized and impounded.
+### 85 Power to dispose of property seized and impounded under section 81
+(1) The Secretary or a territorial authority, as the case may be, may dispose of property seized or impounded under section 81 that has not been returned within 6 months after it was seized and impounded.
 (2) The Secretary or the territorial authority must not dispose of property before giving the owner of the property and the person it was seized from not less than 14 working days' notice of his, her, or its intention to do so.
 (3) The Secretary or the territorial authority may dispose of the property by way of sale or otherwise as it thinks fit.
 (4) Any proceeds from the disposal of the property must be applied to pay,—
@@ -1009,3 +991,39 @@ The Board may regulate its own proceedings, subject to the provisions of this Pa
   (a) in the manner set out in section 93(2); and
   (b) for the purpose of receiving nominations for members of the Board.
 (2) For the purposes of this Act, the process must be treated as complying with section 93.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
