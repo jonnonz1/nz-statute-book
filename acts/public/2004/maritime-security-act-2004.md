@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -661,7 +661,7 @@ The chief executive must approve a port facility security plan, or any amendment
   (c) subsection (1)(b)(v) may only be exercised if—
     (i) the company or master has consented; or
     (ii) the authorised person has a search warrant.
-(4) A judicial officer who, on written application made on oath, is satisfied that there are reasonable grounds to believe that an offence against this Act has been, is being, or is likely to be committed, may issue to an authorised person (named in the warrant) a warrant to search—
+(4) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there are reasonable grounds to believe that an offence against this Act has been, is being, or is likely to be committed, may issue to an authorised person (named in the warrant) a warrant to search—
   (a) a person specified in subsection (1)(b)(i); or
   (b) a person (including that person's personal effects) or vehicle specified in subsection (1)(b)(iv); or
   (c) a ship specified in subsection (1)(b)(v).
@@ -669,6 +669,8 @@ The chief executive must approve a port facility security plan, or any amendment
 (6) If a person allows his or her person to be searched or is subject to a search warrant,—
   (a) that person may not be required to remove any article of clothing (other than a coat or similar article) for the purposes of being searched; and
   (b) if the search is not made by means of a mechanical or electronic device or similar mechanism, that person must be searched by an authorised person of the same gender.
+(6A) Subject to subsections (5), (6), and (6B), the provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of a warrant issued under subsection (4).
+(6B) Despite subsection (6A), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 (7) Screening and searching may only be undertaken in a port security area in areas that are designated for that purpose by signage that—
   (a) is posted in the appropriate places; and
   (b) states the statutory authority for the screening and searching; and
@@ -679,7 +681,7 @@ The chief executive must approve a port facility security plan, or any amendment
 (9) To avoid doubt, things, personal effects, and vehicles may be screened or searched without consent if they are unattended.
 (10) Despite subsection (1)(a)(ii) and (b)(ii), goods subject to the control of Customs may not be screened or searched without the authorisation of the New Zealand Customs Service.
 (11) Subsection (10) does not apply if the chief executive has specified that security level 3 applies to the port facility or ship where the screening or searching is to be done.
-(12) For the purposes of subsection (4), judicial officer means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a court Registrar (other than a constable).
+(12)
 
 ### 52 Power to seize items
 (1) If an authorised person detects an item specified in section 50(1), and has reasonable grounds to believe that the item may not lawfully be taken on board a ship or into a port security area, the authorised person may seize the item for the purpose of determining whether the item may lawfully be taken on board a ship or into a port security area.
@@ -721,8 +723,8 @@ The chief executive must approve a port facility security plan, or any amendment
 (1) A constable may, without a warrant, search a person and that person's personal effects or vehicle, and may detain that person for the purposes of that search, and may take possession of any article referred to in section 50(1) found in the course of that search, if—
   (a) a company or master refuses to carry a person who has refused to consent to the searching of his or her person or personal effects or vehicle; and
   (b) the constable has reasonable grounds to suspect that—
-    (i) an offence against this Act has been, is being, or is likely to be, committed, whether by that person or by any other person; or
-    (ii) a search of the person refusing to consent is likely to disclose evidence that an offence against this Act has been, is being, or is likely to be, committed, whether by that person or another person.
+    (i) an offence against this Act has been, is being, or will be committed, whether by that person or any other person; and
+    (ii) a search of the person refusing to consent will disclose evidential material relating to that offence.
 (2) The refusal of a person to consent to the searching of his or her person or personal effects or vehicle does not of itself constitute reasonable grounds for suspecting that an offence against this Act has been, is being, or is likely to be, committed.
 (3) A constable exercising the power of search under subsection (1) must, before the search is conducted, and on any subsequent request,—
   (a) provide evidence of his or her identity to the person to be searched; and
@@ -1017,3 +1019,39 @@ The owner of a ship must ensure that the ship is permanently marked with the shi
 
 ### 40B.36 Ship security alert system
 The owner of a ship must ensure that the ship is fitted with a ship security alert system in accordance with regulation 6 of Chapter XI-2 of SOLAS (as amended in December 2002).
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
