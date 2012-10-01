@@ -1,5 +1,5 @@
 # Driftnet Prohibition Act 1991
-_Consolidation as at 2000-11-15_
+_Consolidation as at 2012-10-01_
 
 > An Act to prohibit driftnet fishing activities and to implement the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific
 
@@ -115,6 +115,7 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
   (b) require any person to give any explanation or information concerning the premises, or any fish, marine life, property, record, document, or other article therein:
   (c) take copies of any record or document referred to in paragraph (a), where the record or document is relevant to a suspected offence against this Act.
 (3) Nothing in subsection (1)(b)(iv) or subsection (2)(b) requires a person to answer any question where to do so would tend to incriminate that person.
+(3A) The provisions of subparts 1, 4, 5, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 (4) An enforcement officer may, for the purpose of exercising any power under this section to take copies of any record or document, take possession of and remove from the place where it is kept, for such period of time as is reasonable in the circumstances, any such record or document.
 
 ### 14 Powers of arrest
@@ -126,57 +127,40 @@ No foreign vessel that—shall enter the internal waters of New Zealand.
   (b) if the person so delivered into custody is released by a constable without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be the duties of an enforcement officer and not of a constable.
 
 ### 15 Powers of seizure
-An enforcement officer may seize—
+(1) An enforcement officer may seize—
   (a) any fish or marine life that the officer believes on reasonable grounds is being taken or has been taken, transported, transhipped, landed, or processed in contravention of this Act:
   (b) any vessel, vehicle, fishing gear, implement, appliance, material, container, goods, or equipment that the officer believes on reasonable grounds is being or has been or is intended to be used in the commission of an offence against any of sections 4 to 10:
   (c) any goods that the officer believes on reasonable grounds have been acquired or are to be supplied in contravention of section 11.
+(2) Subject to section 18, subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under this section.
 
 ### 16 Custody of property seized
-(1) All property seized pursuant to section 15, including the proceeds from the sale of any such property pursuant to section 18, shall be held in the custody of the Crown until—
-  (a) a decision is made not to lay any information or charge in respect of the alleged offence for which the property was seized; or
-  (b) where such a charge or information is laid, upon the completion of proceedings in respect of the alleged offence for which the property was seized, or such sooner time as the court may determine.
-(2) The decision whether or not to lay any information or charge in respect of an alleged offence for which any property is seized pursuant to section 15 shall be made as soon as reasonably practicable after the property is seized.
+[Repealed]
 
 ### 17 Release of property by Director-General
-(1) The Director-General may, at any time until the completion of proceedings in respect of the alleged offence for which the property was seized pursuant to section 15, on application by—release the property to any such person under bond in such sum and under such sureties and conditions (if any) as the Director-General may specify.
-  (a) the person from whom the property was seized; or
-  (b) the owner or person entitled to the possession of the property seized,—
-(2) Where any person to whom property is released under subsection (1) fails to comply with the conditions of any bond or with any condition specified by the Director-General,—
-  (a) the property may be reseized at any time at the direction of the Director-General; and
-  (b) the provisions of sections 16 to 21 shall thereupon apply to the property as if it had been seized pursuant to section 15; and
-  (c) the Director-General may, in the case of failure to comply with the conditions of any bond, apply to a court presided over by a District Court Judge for an order for estreat of the bond.
-(3) Where the Director-General applies for an order for estreat of bond the Registrar shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond a notice of the time and place so fixed.
-(4) If on the hearing of any such application it is proved to the satisfaction of the court that any condition of the bond has not been kept, the court may make an order to estreat the bond to such an amount as it thinks fit to any person bound thereby on whom notice is proved to have been served in accordance with this subsection.
-(5) Any penalty payable under subsection (4) shall be recoverable as if it were a fine.
+[Repealed]
 
 ### 18 Spoilage or deterioration of fish, etc, seized
 (1) Where, in the opinion of the Director-General, any fish, marine life, or other article seized pursuant to section 15 may rot, spoil, or otherwise perish, the Director-General may arrange for its sale or disposal in such manner as the Director-General may determine.
 (2) The Crown shall not be liable to any person for any spoilage or deterioration in the quality of any fish or marine life seized under section 15.
 
 ### 19 Disposal of property where ownership cannot be ascertained
-Where the ownership of any property cannot at the time of seizure be ascertained, the property seized shall be forfeit to the Crown and shall be disposed of as directed by the Director-General after 90 days from the date of seizure if, within that time, it has not been possible to establish the ownership of the property.
+[Repealed]
 
 ### 20 Release of property by court
-Where any information or charge has been laid in respect of the alleged offence for which property was seized pursuant to section 15, and that property remains in the custody of the Crown, the court may at any time, on application by—release the property to any such person, and any such release may be subject to such sureties and conditions as the court may specify.
-  (a) the person from whom the property was seized; or
-  (b) the owner or person entitled to the possession of the property seized,—
+[Repealed]
 
 ### 21 Final release of seized property
-Any property that has been seized under section 15 (including the proceeds from the sale of any property pursuant to section 18) shall,—forthwith be released from the custody of the Crown.
-  (a) on a decision being made not to lay an information or charge; or
-  (b) on the acquittal of the person charged with the offence for which the property is subject to forfeiture,—
+[Repealed]
 
 ### 22 Persons assisting enforcement officer
-An enforcement officer exercising any of the powers conferred on the officer by this Act may call upon any constable or upon any person in the vicinity for assistance, and every person so called upon is authorised to render such assistance.
+[Repealed]
 
 ### 23 Protection of enforcement officers and assistants from liability
 (1) Any enforcement officer who does, or omits to do, any act in pursuance or intended pursuance of this Act, and any person giving assistance to an enforcement officer when called upon to do so under section 22, shall not be under any civil or criminal liability as a result of that act or omission or assistance on the ground of want of jurisdiction or mistake of law or fact, or any other ground, unless the officer or person giving assistance has acted or omitted to act in bad faith, or without reasonable cause.
 (2) The Crown shall not be held directly or indirectly liable for any such act or omission or assistance, unless the enforcement officer or person concerned would himself or herself incur liability for the act or omission or assistance.
 
 ### 24 Enforcement officer to produce evidence of authority to act
-Every enforcement officer exercising any power conferred by section 13 or section 14 or section 15 shall, at the time of exercising that power, and thereafter on reasonable request, produce—
-  (a) evidence that that person is an enforcement officer; and
-  (b) evidence of that person's identity.
+[Repealed]
 
 **Proceedings for offences, etc**
 
@@ -262,3 +246,39 @@ In any prosecution for an offence against any of sections 4 to 12 it shall not b
 The following regulations are hereby revoked:
   (a) the Exclusive Economic Zone (Driftnet) Regulations 1989 (SR 1989/197):
   (b) the Fisheries (Driftnet) Regulations 1989 (SR 1989/198).
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
