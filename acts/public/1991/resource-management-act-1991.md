@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -7395,68 +7395,31 @@ Every abatement notice shall be in the prescribed form and shall state—
 (3) Every enforcement officer who exercises any power of entry under this section shall produce for inspection his or her warrant of appointment and written authorisation upon initial entry and in response to any later reasonable request.
 
 ### 334 Application for warrant for entry for search
-(1) Any District Court Judge or any duly authorised Justice or any Community Magistrate or Registrar who, on an application in writing made on oath, is satisfied that there is reasonable ground for believing that there is in, on, under, or over any place or vehicle anything—may issue a warrant authorising the entry and search of any place or vehicle on 1 occasion within 14 days of the date of issue of the warrant and at any time which is reasonable in the circumstances.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there is reasonable ground for believing that there is in, on, under, or over any place or vehicle anything—may issue a warrant authorising the entry and search of any place or vehicle.
   (a) in respect of which an offence has been or is suspected of having been committed against this Act or regulations that is punishable by imprisonment; or
   (b) which there is reasonable grounds to believe will be evidence of an offence against this Act or regulations that is punishable by imprisonment; or
   (c) anything which there is reasonable ground to believe is intended to be used for the purpose of committing an offence against this Act or regulations that is punishable by imprisonment—
-(2) Any warrant issued under subsection (1) shall be subject to such conditions as the issuer may specify in the warrant.
-(3) Any person applying for a warrant under subsection (1) shall, having made reasonable enquiries, disclose on the application—
-  (a) details of every other application which that person knows to have been made within the previous 20 days in respect of the place or vehicle specified; and
-  (b) the offence or offences alleged in every such application; and
-  (c) the result of every such application.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
-### 335 Content and effect of warrant for entry for search
+### 335 Direction and execution of warrant for entry for search
 (1) Every warrant under section 334 shall be directed to and executed by—
   (a) any specified constable; or
   (b) any specified enforcement officer when accompanied by a constable; or
   (c) generally, every constable; or
   (d) generally, every enforcement officer when accompanied by a constable.
-(2) Every warrant under section 334 shall authorise the person executing the warrant to—
-  (a) use such assistance as is necessary in the circumstances; and
-  (b) use such force both for making entry and for breaking open anything in, on, under, or over the place or vehicle as is reasonable in the circumstances; and
-  (c) search for and seize anything referred to in the warrant and, while at the place pursuant to the warrant, to seize any other thing that the person believes on reasonable grounds to be evidence in respect of which that person could have obtained a warrant under section 334.
-(3) Every person called upon to assist in the execution of the warrant shall have the powers contained in subsection (2)(b) and (c).
-(4) It shall be the duty of every person executing any warrant to—unless a District Court Judge orders otherwise because of exceptional circumstances.
-  (a) produce it for inspection upon initial entry and in response to any later reasonable request and, when requested, to provide a copy of the warrant no later than 7 days after the making of the request; or
-  (b) if the owner or occupier is not present at the time of the entry and search, leave in a prominent position at the place or attached to the vehicle subject to the warrant, a written notice showing the date and time of the execution of the warrant, the name of the person in charge of the entry and search, and the address of the office where inquiries can be made; and
-  (c) if the owner or occupier is not present at the time of the entry and search, inform the owner or occupier within 7 days, by written notice delivered, left in a prominent position, or sent by registered mail, of—
-    (i) anything seized upon execution of the warrant; and
-    (ii) from where it was seized; and
-    (iii) where it is held,—
-(5) If the person executing the warrant believes leaving a notice as required under subsection (4)(b) would unduly prejudice subsequent investigations, that person may refrain from leaving a notice and apply to a District Court Judge within 7 days for confirmation of that decision. If such an application is refused, the person who executed the warrant shall notify or cause to be notified immediately the owner or occupier of the place or vehicle subject to the warrant of the particulars referred to in subsection (4).
+(2)
+(3)
+(4)
+(5)
 
 **Return of property**
 
 ### 336 Return of property seized under sections 323 and 328
-(1) Where any property is seized and impounded under section 323 or section 328 (which relate to failure to comply with an abatement notice to reduce noise or an excessive noise direction), the owner of the property or person from whom it was seized may apply to the local authority, consent authority, or Police station where the property is held, at any time, to have the property returned to him or her.
-(2) Where an application is made under subsection (1), the local authority, consent authority, or constable with authority to do so, shall arrange for the return of the property if—
-  (a) satisfied that the return of the property is not likely to lead to a resumption of the emission of noise beyond a reasonable level; and
-  (b) the applicant has paid all costs incurred by the local authority, consent authority, or Police in seizing, impounding, transporting, and storing the property.
-(3) Where the local authority, consent authority, or constable with authority to do so, refuses to return the property for the reason specified in subsection (2)(a), the applicant may make an application to the Environment Court, and subsections (2) and (4) of section 325 apply as if—
-  (a) the references to service of the abatement notice on the appellant were references to any refusal under this section; and
-  (b) the time limit for lodging the application were 6 months from the date of seizure.
-(4) The Environment Court on an application under subsection (3) may—
-  (a) order the return of the property subject to any conditions relating to the continued reduction of noise as it thinks fit; or
-  (b) refuse the application for the return of the property.
-(5) Where—the local authority, consent authority, or the Police may dispose of the property in accordance with subsection (6).
-  (a) any property seized under section 323 or section 328 is not claimed within 6 months of its seizure; or
-  (b) the return of the property has been refused under subsection (3) and no application has been lodged within 6 months of the date of seizure; or
-  (c) the Environment Court has refused the return of the property under subsection (4)(b),—
-(6) Any local authority, consent authority, or constable wishing to dispose of property under subsection (5)—
-  (a) shall give written notice to the person from whom the property was seized, where the person's address is known; and
-  (b) may sell or cause the property to be otherwise disposed of; and
-  (c) may, where any proceeds are realised, apply these to the payment of costs and expenses incurred in selling the property under this section and any costs incurred in seizing, impounding, transporting, and storing the property; and
-  (d) shall, on demand, pay the remainder of the proceeds to the person from whom the property was seized.
+[Repealed]
 
 ### 337 Return of property seized under warrant
-(1) Where anything is seized under a warrant issued under section 334, it shall be detained under the custody of a constable, except while it is being used in evidence or is in the custody of any court, until it is disposed of under this section.
-(2) In any proceedings for an offence relating to anything seized under a warrant issued under section 334, the court may order, either at the hearing or on application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in such manner as the court thinks fit.
-(3) Any constable may at any time, unless an order has been made under subsection (2), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal. On any such application, the District Court Judge may make any order that a court may make under subsection (2).
-(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her.
-(5) Where any person is convicted in any proceedings for an offence relating to anything in respect of which a warrant has been issued enabling seizure, and any order is made under this section, the operation of the order shall be suspended until—
-  (a) the expiration of the time prescribed by this Act for the filing of notice of appeal; and
-  (b) where notice of appeal is filed within the prescribed time, until the determination of the appeal.
-(6) Where the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may by order, cancel or vary the order.
+[Repealed]
 
 **Offences**
 
@@ -9767,3 +9730,39 @@ The amendments made by this Act apply to a national policy statement whether the
   (a) had been publicly notified under clause 5 or 26(b) of Schedule 1 of the principal Act; but
   (b) had not proceeded to the stage at which no further appeal was possible.
 (2) The proposed policy statement or plan or change must be determined as if the amendments made by this Act had not been made.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
