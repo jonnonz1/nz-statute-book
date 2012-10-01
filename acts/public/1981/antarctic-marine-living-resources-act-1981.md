@@ -1,5 +1,5 @@
 # Antarctic Marine Living Resources Act 1981
-_Consolidation as at 2005-08-25_
+_Consolidation as at 2012-10-01_
 
 > An Act to give effect to the Convention on the Conservation of Antarctic Marine Living Resources
 
@@ -83,11 +83,12 @@ Subject to this Act, no person shall in the Convention Area take any marine orga
 ### 9 Powers of search
 (1) Subject to this Act and notwithstanding anything to the contrary in the Fisheries Act 1996, every inspector who has reason to believe or suspect that a breach of this Act or of any regulation made under it has been or is being committed, may stop, enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft.
 (2) An inspector shall not enter, inspect, or examine any aircraft or hovercraft unless he is accompanied by the pilot in command, or the owner, or a representative or agent of the owner, of the aircraft or hovercraft.
-(3) An inspector shall, before entering on any vehicle, vessel, aircraft, or hovercraft, produce his warrant of appointment or other evidence that he is an inspector if asked to do so by the person in actual charge of the vehicle, vessel, aircraft, or hovercraft.
+(3)
 (4) Every inspector may, in the course of any search under this section, open (by force if necessary) any container, package, or receptacle, or seize and take away anything which he has reason to believe will be evidence of a breach of the provisions of this Act or of any regulation made under it.
 (5) Every person in or about any vehicle or vessel inspected under the provisions of this Act, and the pilot in command and the owner and every agent or representative of the owner of any aircraft or hovercraft so inspected, shall—
   (a) facilitate the entry, inspection, and examination by an inspector:
   (b) facilitate the removal of any container, package, receptacle, or thing.
+(6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subparts 3 and 8) apply.
 
 ### 10 Inspectors, etc, protected from proceedings
 No action or proceedings shall be brought against the Crown, or any inspector, or any person acting under the instructions of an inspector, in respect of any thing done or undertaken for the purpose of carrying out the provisions of this Act or any regulations made under it where the Crown or those persons have acted in good faith and with reasonable care.
@@ -144,3 +145,39 @@ The Governor-General may, from time to time by Order in Council, make regulation
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ## Schedule Schedule
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
