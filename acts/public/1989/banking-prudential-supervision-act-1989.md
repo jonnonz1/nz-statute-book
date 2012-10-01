@@ -1,7 +1,7 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2012-10-01_
 
-> Title [Repealed]
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Reserve Bank of New Zealand Act 1989.
@@ -787,17 +787,13 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
 (3) The penalty for an offence against this section is set out in section 66M.
 
 ### 66I Procedure for obtaining warrants
-A Judge of the High Court may issue a warrant to a person appointed under section 66E(2) if the Judge is satisfied, on application in writing made on oath, that there are reasonable grounds for believing —
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under section 66E(2) if the issuing officer is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing —
   (a) that any information or documents supplied to the Bank under section 66C or section 66D(2) are false or misleading in a material particular; or
   (b) that a person has failed to comply with any requirement to supply information or documents under section 66C or section 66D(2).
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 66J Effect of warrant
-(1) A warrant authorises the person named in it, at any time and, if necessary, by force, to—
-  (a) enter and search the premises specified in the warrant:
-  (b) inspect, remove, and take copies of documents that the person executing the warrant believes on reasonable grounds may be relevant:
-  (c) if necessary, require any information recorded or stored in those documents to be reproduced in usable form.
-(2) The warrant continues in force for a period of 1 month or until the purpose for which it was granted has been satisfied, whichever is the lesser.
-(3) Every person named in the warrant must, as soon as practicable after removing any documents from any premises, supply a copy of the documents to the person from whose possession, custody, or control the documents were removed.
+[Repealed]
 
 ### 66K Effect of proceedings
 (1) If any person commences any proceedings in any court in respect of the exercise of any powers conferred by section 66E, until a final decision in relation to those proceedings is given, the powers may be, or may continue to be, exercised as if the proceedings had not been commenced, and no person is excused from fulfilling any obligation under that section by reason of those proceedings.
@@ -1400,7 +1396,7 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
 (8) Nothing in the Official Information Act 1982 or any other Act, other than this Act, applies to information, data, and forecasts to which this section applies whether or not such information, data, and forecasts has or have been published or disclosed to any person pursuant to this section.
 
 ### 106 Procedure for obtaining warrants
-(1) A Judge of the High Court who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing—may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)(b).
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing—may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)(b).
   (aaa) that any information or data published in a disclosure statement by a registered bank under section 81 or section 83 is false or misleading in a material particular; or
   (aa) that a registered bank has failed to publish information that it is required to publish in a disclosure statement under section 81 or section 83; or
   (a) that any information or data supplied to the Bank by a registered bank pursuant to section 93 is false or misleading in a material particular; or
@@ -1408,8 +1404,8 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
   (ba) that any information or data supplied by a person to a registered bank under section 93B or to the Bank under section 93C, as the case may be, is false or misleading in a material particular; or
   (bb) that a person has failed to comply with any requirement to supply information, data, or forecasts to a registered bank under section 93B, or to the Bank under section 93C as the case may be; or
   (c) that a registered bank has failed to comply with section 95—
-(2) A Judge of the High Court who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that it is necessary for the purpose of determining whether to exercise the powers conferred under section 113 or section 117 that an investigation of the affairs of a registered bank should be carried out, may issue a warrant, in terms of section 107, to a person appointed under section 101.
-(3) A warrant issued under subsection (1) must identify the paragraph in that subsection under which it has been issued.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing that it is necessary for the purpose of determining whether to exercise the powers conferred under section 113 or section 117 that an investigation of the affairs of a registered bank should be carried out, may issue a warrant, in terms of section 107, to a person appointed under section 101.
+(3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
 
 ### 107 Effect of warrant
 (1) Every warrant issued under section 106 authorises the person named in it, at any time and, if necessary, by force, to—
@@ -2770,19 +2766,19 @@ Nothing in section 157ZI(2) or 157ZJ(2) requires a person to produce any informa
 A person appointed under section 157ZJ(2)(b) must not enter and search any place, or inspect, remove, or take copies of any information, papers, documents, records, or things in the possession, or under the control, of any person unless that person is authorised by search warrant issued under section 157ZM.
 
 ### 157ZM Search warrant may be issued
-(1) A Judge of the High Court or a District Court Judge may issue a search warrant in terms of clause 5 of Schedule 4 to a person appointed under section 157ZJ(2)(b) if the Judge is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
-(2) The provisions of Schedule 4 apply to a search warrant issued under this section.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)(b) if the issuing officer is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 157ZN Privileges
 (1) If a person could, in a criminal proceeding, assert a privilege under sections 54 to 57 of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of—
   (a) a request to supply access to accounting and other records of the deposit taker or provide information relating to those records under section 157ZI(2); and
-  (b) a notice under section 157ZJ(2)(a); and
-  (c) a search warrant issued under section 157ZM.
+  (b) a notice under section 157ZJ(2)(a).
+  (c)
 (2) Subsection (3) applies to documents that are books of account or accounting records referred to in section 55(1) of the Evidence Act 2006.
 (3) The application by subsection (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
   (a) the issue of, or the obligation to comply with, a notice under section 157ZJ(2)(a) in respect of a document to which this subsection applies; or
-  (b) the issue or execution of a search warrant under section 157ZM in respect of a document to which this subsection applies; or
-  (c) the admissibility, in a criminal proceeding under this Part, of any evidence that relates to the contents of a document obtained as a result of a notice under section 157ZJ(2)(a) or a search warrant issued under section 157ZM.
+  (b)
+  (c) the admissibility, in a criminal proceeding under this Part, of any evidence that relates to the contents of a document obtained as a result of a notice under section 157ZJ(2)(a).
 (4) A person who has a privilege under this section has the right—
   (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
   (b) to prevent the search of any such communication or information; and
@@ -3317,137 +3313,6 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 
 ## Schedule 4 — General provisions relating to search warrants issued under Part 5D
 
-### 1 Interpretation
-In this schedule, Judge means a Judge of the High Court or a District Court Judge.
-
-### 2 Application of clauses 3 to 13
-Clauses 3 to 13 apply to every search warrant applied for and issued under Part 5D that would enable the entry and inspection, or entry and search, of any place.
-
-### 3 Application for search warrant
-(1) An application for a search warrant must contain, in reasonable detail, the following particulars:
-  (a) the name of the applicant:
-  (b) the grounds on which the application is made:
-  (c) the address or other description of the place to be searched:
-  (d) a description of the item or items, believed to be at the place, that are sought by the applicant.
-(2) The Judge may require the applicant to supply further information concerning the grounds on which the search warrant is sought.
-(3) The applicant must disclose in the application—
-  (a) details of any other applications for a search warrant that the applicant knows to have been made within the previous 3 months in respect of the place proposed to be searched; and
-  (b) the result of that application or applications.
-(4) The applicant must, before making an application for a search warrant, make reasonable inquiries for the purpose of complying with subclause (3).
-(5) The Judge may authorise the search warrant to be executed on more than 1 occasion if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
-
-### 4 Mode of application for search warrant
-(1) An application for a search warrant—
-  (a) must be in writing, unless subclause (3) applies; and
-  (b) may be transmitted to the Judge electronically.
-(2) The applicant must appear in person before the Judge unless subclause (3) applies.
-(3) A Judge may allow an application for a search warrant to be made orally (for example, by telephone call) and excuse the applicant from making a personal appearance if the Judge is satisfied that—
-  (a) the delay that would be caused by requiring an applicant to appear in person would compromise the effectiveness of the search; and
-  (b) the question of whether the warrant should be issued can properly be determined on the basis of an oral communication (together with the information described in paragraph (c)); and
-  (c) the information required by clause 3(1) to (3) has been supplied to the Judge.
-
-### 5 Form and content of search warrant
-(1) Every search warrant issued must be directed to an authorised person by name, to every authorised person holding a specified office or authorisation, or to every authorised person.
-(2) A search warrant issued—
-  (a) may be executed by all or any of the persons to whom it is directed:
-  (b) may be subject to any conditions specified in the warrant that the Judge considers reasonable:
-  (c) may be executed only once, unless execution on more than 1 occasion has been authorised.
-(3) Every search warrant must contain, in reasonable detail, the following particulars:
-  (a) the place or thing that may be searched:
-  (b) the provision authorising the issue of the warrant:
-  (c) a description of what may be seized:
-  (d) the period during which the warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified by the Judge under subclause (2)(b):
-  (f) if the warrant may be executed on more than 1 occasion, the number of times, or the period of time over which, the warrant may be executed.
-
-### 6 Transmission of search warrant
-If it is not possible for the person charged with executing the warrant to have it in his or her possession at the time of execution, 1 of the following documents (which is deemed for all legal purposes to constitute the warrant) may be executed:
-  (a) a faxed copy or electronic copy of a warrant issued by the Judge:
-  (b) a copy made by the person to whom the warrant is directed, at the direction of the Judge and endorsed to that effect.
-
-### 7 Retention of documents
-(1) A copy of every written application for a search warrant or (in the case of an oral application) the written record of the application made by the Judge must be retained permanently by, or on behalf of, the Judge.
-(2) An applicant to whom a search warrant is issued must retain the warrant, a copy of the application (if made in written form), and all documents tendered by the applicant in support of the application until,—
-  (a) in the case of a warrant that is executed, the completion of all proceedings in respect of which the validity of the warrant may be in issue; and
-  (b) in any other case, the destruction or transfer of the warrant and other documents is required by the Public Records Act 2005 or any other enactment or rule of law.
-
-### 8 When search warrant is executed
-A search warrant is executed when the person executing the warrant—
-  (a) has seized all the items specified in the warrant; or
-  (b) leaves the place or thing being searched and does not return within 4 hours.
-
-### 9 Powers conferred by search warrant
-(1) Every search warrant issued under Part 5D authorises the person executing it to—
-  (a) enter and search the place or thing specified in the warrant, and any item or items found in that place or thing, at any time that is reasonable in the circumstances:
-  (b) request any person to assist in the execution of the warrant (including, without limitation, a member of a hapū or iwi if the place to be entered is of cultural or spiritual significance to that hapū or iwi):
-  (c) use any force that is reasonable for the purposes of executing the warrant:
-  (d) seize any thing authorised by the warrant:
-  (e) bring, and use in or on the place or thing searched, any equipment, to use any equipment found on the place or thing, and to extract any electricity from the place or thing to operate the equipment that is reasonable to use in the circumstances, for the purposes of executing the warrant:
-  (f) copy any document, or part of a document, that may be seized under the warrant:
-  (g) require any person to reproduce, or to assist the person executing the warrant to reproduce, in usable form, any information recorded or stored in any document that may be seized under the warrant:
-  (h) take photographs or video recordings of the place or thing searched, and of any thing found in that place, if the person executing the warrant has reasonable grounds to believe that the photographs or video recordings may be relevant in any proceedings arising from the execution of the warrant.
-(2) The person executing the search warrant may seize any item or items that he or she, or any person assisting him or her, finds in the course of executing the warrant if the person executing the warrant has reasonable grounds to believe that he or she or any other person who can apply for a search warrant under Part 5D could obtain a warrant to seize it under Part 5D.
-(3) The person executing a search warrant may, in a manner and for the duration that is reasonable for the purposes of executing the warrant,—
-  (a) secure the place searched, any area within that place, or any thing found within that place:
-  (b) exclude any person from the place searched, or from any area within the place or thing, if the person executing the warrant has reasonable grounds to believe that the person to be excluded will obstruct or hinder the execution of the warrant.
-(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)(b).
-(5) Section 198B of the Summary Proceedings Act 1957 applies in respect of every search warrant as if for each reference to a constable there were substituted a reference to a person authorised to execute the search warrant.
-
-### 10 Powers of persons called to assist
-(1) Every person called on to assist a person executing a search warrant may—
-  (a) enter the place to be searched:
-  (b) while in the company and under the direction of the person executing the warrant, use reasonable force in respect of any property for the purposes of executing the warrant:
-  (c) search areas within the place that the person executing the warrant has determined may lawfully be searched:
-  (d) seize any thing that the person executing the warrant has determined may lawfully be seized:
-  (e) take photographs and video recordings of the place and things found in the place or thing if the person executing the warrant has determined that those things may be lawfully taken:
-  (f) bring onto the place or thing and use any equipment, make use of any equipment found on the place or thing, or extract electricity from the place or thing for the purposes of operating the equipment that the person executing the warrant has determined may be lawfully used:
-  (g) copy any document, or part of a document, that the person executing the warrant has determined may be lawfully copied.
-(2) If a member of the police is assisting another person executing a search warrant, that member of the police may exercise any power ordinarily exercisable by him or her in executing a search warrant.
-(3) The person executing a search warrant must—
-  (a) accompany any assistant on the first occasion when the assistant enters the place or thing to be searched; and
-  (b) provide such other supervision of any assistant as is reasonable in the circumstances.
-(4) The powers conferred by this clause are subject to any conditions imposed under clause 5(2)(b).
-
-### 11 Person executing warrant to produce evidence of authority
-(1) The person exercising the search warrant must—
-  (a) before initial entry into or onto the place or thing to be searched—
-    (i) announce his or her intention to enter and search the place pursuant to a search warrant; and
-    (ii) identify himself or herself; and
-  (b) before initial entry into or onto the place or thing to be searched—
-    (i) give the occupier (if present) of the place or thing a copy of the search warrant; and
-    (ii) produce to the occupier (if present) of the place or thing evidence of his of her identity; and
-  (c) if requested to do so at any time after initial entry into or onto the place or thing to be searched, produce—
-    (i) a copy of the search warrant; and
-    (ii) evidence of his or her identity.
-(2) The person executing the search warrant is not required to comply with subclause (1)(a) and (b) if he or she believes on reasonable grounds that no person is lawfully present in or on the place to be searched.
-(3) The person executing the search warrant may use reasonable force in order to effect entry into or onto the place if—
-  (a) subclause (2) applies; or
-  (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
-(4) On completion of the execution of the search warrant, the person executing it must provide written notice containing the following particulars:
-  (a) the date and time of the commencement and completion of execution of the warrant:
-  (b) the name of the person executing the warrant who had overall responsibility for that execution:
-  (c) the address of the police station or other office to which inquiries should be made:
-  (d) if nothing is seized, the fact that nothing was seized:
-  (e) if anything was seized, the fact that seizure occurred and that an inventory of the things seized will be provided to the occupier not later than 7 days after the seizure.
-(5) If the occupier is not present at any time during the execution of the warrant, or if it is not reasonably practicable to comply with subclause (1)(c), the person executing the warrant must on completion of execution leave a copy of the warrant and the notice required by subclause (4) in a prominent position on the place, except where this is not reasonably practicable.
-(6) This clause is subject to clause 13.
-
-### 12 Inventory of items seized
-(1) The person who executed the search warrant must, not later than 7 days after the seizure of any property or evidence, provide to the occupier, and to every other person who the person who executed the search warrant has reason to believe may have an interest in what was seized,—
-  (a) written notice specifying what was seized; and
-  (b) a copy of the warrant and the written notice required by clause 11(4).
-(2) A person who executes a search warrant must make reasonable inquiries for the purposes of complying with subclause (1).
-(3) This clause is subject to clause 13.
-
-### 13 Compliance with certain provisions may be deferred in certain circumstances
-(1) A person executing a search warrant may apply to a Judge for a postponement of the obligation to comply with clause 11(1), (4), and (5) or 12 on the grounds that—
-  (a) compliance would endanger the safety of any person; or
-  (b) compliance would prejudice ongoing investigations of breaches or potential breaches of Part 5D or executions of the warrant on subsequent occasions.
-(2) An application may be made under subclause (1) at the time of the initial application for the warrant or until the expiry of 7 days after the warrant is finally executed.
-(3) On an application under subclause (1), the Judge may postpone for a specified period not exceeding 12 months the obligation to comply with clause 11(1), (4), and (5) or 12, if the Judge is satisfied there were reasonable grounds for believing that compliance would—
-  (a) endanger the safety of any person; or
-  (b) prejudice ongoing investigations under Part 5D or the exercise of entry and search powers on subsequent occasions.
-
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Reserve Bank of New Zealand Amendment Act 1993, and shall be read together with and deemed part of the Reserve Bank of New Zealand Act 1989 (hereinafter referred to as “the principal Act”).
 (2) This Act shall come into force on 1 July 1994.
@@ -3482,3 +3347,39 @@ Any authorisations or consents relating to the use of a restricted word that wer
 
 ### 52 Existing applications
 An application for registration as a registered bank under the principal Act that has been made, but not determined or withdrawn, before the date of commencement of this Act must continue to be dealt with in accordance with the principal Act and any regulations made under that Act as if this Act had not been enacted.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
