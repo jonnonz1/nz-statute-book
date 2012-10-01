@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2012-07-27_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -370,7 +370,7 @@ This Act binds the Crown.
 **Powers of chief executive**
 
 ### 29C Power to authorise persons
-The chief executive may only authorise a person to exercise a power under sections 29E to 29L if that person has appropriate training, experience, or qualifications in the exercise of that power.
+The chief executive may only authorise a person to exercise a power under sections 29E to 29H if that person has appropriate training, experience, or qualifications in the exercise of that power.
 
 ### 29D Power to require assistance
 The chief executive, or a person authorised by the chief executive, may call on any person for assistance in the exercise of any or all of the powers under sections 29E to 29L.
@@ -413,45 +413,24 @@ For the purpose of determining and monitoring compliance with the rules set out 
 **Search warrants**
 
 ### 29I Issue of search warrant
-(1) A District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant in the form set out in Schedule 5D in respect of any place if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place if satisfied, on application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing—
   (a) in respect of which an offence under section 31(3) has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under section 31(3); or
   (c) that is evidence of the commission of an offence under section 31(3) by any person.
-(2) The District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may impose any reasonable conditions on the warrant that he or she thinks fit.
-(3) A search warrant must be directed to a constable by name or to every constable or to the chief executive or to a person authorised by the chief executive by name, but, in any of these cases, the warrant may be executed by any constable.
+(2) Subject to section 29L and subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 29J Entry and search powers when executing warrant
-(1) The chief executive or authorised person who executes the warrant may use any force that is reasonable to—
-  (a) enter an area that is to be searched; or
-  (b) break open or access an item that is to be seized.
-(2) The chief executive, or person authorised by the chief executive, who executes a search warrant may seize any item that—
-  (a) he or she has reasonable grounds to believe is evidence of an offence under this Act; or
-  (b) is found while he or she is lawfully—
-    (i) exercising a search power; or
-    (ii) in the place in which the item is found.
-(3) Subsection (2)(b) applies even if the seizure of the item is not authorised by the search warrant.
-(4) If it is not reasonably practicable to determine whether an item may be seized in accordance with a search warrant, the chief executive or authorised person may remove the item for the purpose of examination or processing to determine whether it may be seized.
+[Repealed]
 
 ### 29K Requirements when executing warrant
-(1) The chief executive, or a person authorised by the chief executive, who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
-  (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
-  (b) whenever subsequently required to do so, at the place specified in the warrant, by any other person appearing to be in charge of the place or any part of the place.
-(2) If the occupier of the place is not present at the time the search warrant is executed, the chief executive or authorised person must leave in a prominent location at the place a written statement of the time and date of the search, a copy of the search warrant, the name of the chief executive or authorised person, and the address to which inquiries may be made.
-(3) If anything is seized in the execution of a search warrant, the chief executive or authorised person executing the search warrant must leave in a prominent location at the place, or deliver or send by registered mail to the occupier within 10 working days after the search, or a later date if an extension is approved by a District Court Judge, a written inventory of all things seized.
-(4) The chief executive or authorised person may make an application, at the time of making an application for a search warrant, for a waiver from subsections (2) and (3) if he or she believes that there are reasonable grounds for believing that compliance with those subsections would unduly prejudice any ongoing or subsequent investigations or endanger the safety of any person.
-(5) A waiver under subsection (4) may only be issued for a specified period up to 12 months.
-(6) The chief executive or authorised person who executed the search warrant must provide information to persons from whom items have been seized regarding—
-  (a) access to and the disposition of the seized items; and
-  (b) the right, under the Official Information Act 1982, to access documentation relating to the application for a search warrant and the exercise of a search power.
-(7) The chief executive or authorised person who is exercising a power of entry in relation to a marae, or a building associated with a marae, must have regard to the kawa of the marae so far as is practicable in the circumstances.
+[Repealed]
 
 ### 29L Disposal of property seized under search warrant
-Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provisions:
-  (a) where a constable seized the item in question, it may be retained by the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized:
-  (b) where the chief executive, or a person authorised by the chief executive, seized the item in question, it may be retained by the chief executive pending the trial of the person for the offence in respect of which the item was seized:
-  (c) the item in question must be returned to the person from whom it was seized—
-    (i) if no proceedings are taken in respect of an offence to which the item relates within 6 months after its seizure; or
-    (ii) if proceedings are completed in respect of such an offence and no order of forfeiture is made in respect of the item:
+Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provisions:
+  (a)
+  (b)
+  (c)
   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the chief executive in retaining the item.
 
 **Enforcement**
@@ -1459,7 +1438,7 @@ The following provisions of the Commerce Act 1986 apply with all necessary modif
   (g) section 90 (conduct by servants or agents):
   (h) section 98 (Commission may require person to supply information or documents or give evidence):
   (i) section 98A (power to search):
-  (j) sections 98B to 98G (relating to warrants, etc):
+  (j) section 98G (relating to warrants, etc):
   (k) section 99 (powers of Commission to take evidence):
   (l) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
   (m) sections 101 and 102 (notices):
@@ -2058,12 +2037,6 @@ An export licence is to be allocated for a period of 1 quota year.
 
 ## Schedule 5D — Search warrant
 
-| *Delete if inapplicable. |
-| --- |
-
-| *Delete this sentence if no conditions apply. |
-| --- |
-
 ## Schedule 5E — Incorporation of material by reference in regulations
 
 ### 1 Interpretation
@@ -2197,3 +2170,39 @@ In sections 20 and 21,—
   (a) section 98(1):
   (b) section 99:
   (c) sections 101 to 105.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
