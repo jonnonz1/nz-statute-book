@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-10-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1415,8 +1415,8 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 
 ### 130 Power to prevent or mitigate suffering
 (1) Where an inspector, either in the course of the exercise of a power of entry under section 127 or at any other time, has reasonable grounds to believe that an animal is suffering or is likely to suffer unreasonable or unnecessary pain or distress, the inspector—
-  (a) may take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal; and
-  (b) may, by notice in writing given by the inspector to the owner or the person in charge of the animal or any person appearing to be in charge of the animal, require the person to whom the notice is given to take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal.
+  (a) may take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal); and
+  (b) may, by notice in writing given by the inspector to the owner or the person in charge of the animal or any person appearing to be in charge of the animal, require the person to whom the notice is given to take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal).
 (2) A person commits an offence who, without reasonable excuse, refuses or fails to comply with any requirement of an inspector under subsection (1)(b).
 (3) A person who commits an offence against subsection (2) is liable on summary conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
@@ -1425,7 +1425,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 **Search warrants**
 
 ### 131 Search warrants
-(1) Any District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) who, on an application in writing made on oath by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application—may issue a search warrant to authorise the constable or the inspector to search the land, premises, or place or the vehicle, aircraft, or ship.
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application—may issue a search warrant to authorise the constable or the inspector to search the land, premises, or place or the vehicle, aircraft, or ship.
   (a) an offence against this Act or any regulations made under this Act has been, or is being, committed; or
   (b) the suffering of an animal could be prevented or mitigated; or
   (c) there is any thing that is evidence of an offence committed against this Act or any regulations made under this Act; or
@@ -1433,78 +1433,81 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 (2) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the power that a constable or an inspector has, under a search warrant issued under subsection (1), may be exercised only if the ship—
   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
   (b) is otherwise within the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
-(3) A person who applies for a search warrant must, having made reasonable inquiries, disclose—
-  (a) details of every previous application for a search warrant (being an application made under this Act or the Animals Protection Act 1960) to search the land, premises, or place or the vehicle, aircraft, or ship that the person knows has been made in respect of the land, premises, or place concerned or the vehicle, aircraft, or ship concerned; and
-  (b) the result of each application.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, subject to subsection (4) and sections 133(2) and (4), 136, and 136A.
+(4) Despite subsection (3), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 132 Form and content of search warrant
-(1) A search warrant must be in the prescribed form.
-(2) A search warrant must be directed to—
-  (a) a constable by name; or
-  (b) an inspector by name; or
-  (c) any constable; or
-  (d) any inspector.
-(3) A search warrant is subject to any special conditions that the person issuing the search warrant may specify.
-(4) A search warrant must contain the following particulars:
-  (a) the land, premises, or place or the vehicle, aircraft, or ship that may be searched under the search warrant:
-  (b) the offence in respect of which the search warrant is issued:
-  (c) a description of the things or types of things that are to be seized from the land, premises, or place or the vehicle, aircraft, or ship:
-  (d) the period during which the search warrant may be executed, being a period not exceeding 14 days from the date of issue:
-  (e) any conditions specified under subsection (3).
+[Repealed]
 
 ### 133 Powers conferred by search warrant
-(1) Subject to any special conditions specified in the search warrant under section 132, a search warrant authorises the person executing the search warrant—
-  (a) to stop and enter and search the vehicle, aircraft, or ship specified in the search warrant on 1 occasion during the currency of the search warrant at a time that is reasonable in the circumstances:
-  (b) to enter and search the land, premises, or place specified in the search warrant on 1 occasion during the currency of the search warrant at a time that is reasonable in the circumstances:
-  (c) to use such assistants as may be reasonable in the circumstances for the purposes of the stopping, entry, and search of the vehicle, aircraft, or ship or for the purposes of the entry and search of the land, premises, or place:
-  (d) to use such force as is reasonable in the circumstances for the purposes of effecting entry, and for breaking open any thing in or on the land, premises, or place or the vehicle, aircraft, or ship searched:
-  (e) to search for and seize—
-    (i) any thing found in or on the land, premises, or place or the vehicle, aircraft, or ship that is, or is a thing of a kind or description, specified in the search warrant concerned:
-    (ii) any thing that the person believes on reasonable grounds to be a thing in respect of which the person could have obtained a search warrant under section 131.
+(1)
 (2) If an inspector executes a search warrant and seizes an animal under that search warrant, the inspector may maintain possession of that animal, and convey that animal to another place.
-(3) The inspector may keep the animal at a place chosen by the inspector until—
-  (a) that animal is, under section 172, forfeited to the Crown or to an approved organisation; or
-  (b) a District Court Judge orders that the animal be delivered to the owner of that animal or to the person charged with the offence against this Act.
-(4) Where an inspector executes a search warrant and the inspector is satisfied an animal is suffering unreasonable or unnecessary pain or distress because—the inspector may take any steps that the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal.
+(3)
+(4) Where an inspector executes a search warrant and the inspector is satisfied an animal is suffering unreasonable or unnecessary pain or distress because—the inspector may take any steps that the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal).
   (a) the physical, health, and behavioural needs of the animal are not being met; or
   (b) for any other reason,—
-(5) Every person called upon to assist any constable or any inspector executing a search warrant has the powers described in paragraphs (d) and (e) of subsection (1).
+(5)
 
 ### 134 Production of search warrant
-A constable and an inspector executing a search warrant—
-  (a) must have that search warrant with him or her; and
-  (b) must produce that search warrant on initial entry and, if requested, at any subsequent time; and
-  (c) must, if requested at the time of the execution of the search warrant or at any subsequent time, provide a copy of the search warrant within 7 days after the request is made.
+[Repealed]
 
 ### 135 Notice of execution of search warrant
-(1) If the occupier of the land, premises, or place or the person in charge of the vehicle, aircraft, or ship, as the case may be, is not present at the time at which a search warrant is executed, the constable or the inspector must leave in a prominent place on the land, premises, or place or the vehicle, aircraft, or ship a written statement of—
-  (a) the time and date of the search; and
-  (b) the purpose of the search; and
-  (c) the condition of any animals inspected; and
-  (d) the name of that constable or inspector; and
-  (e) the address of the Police station or other office to which inquiries should be made.
-(2) If any thing is seized in execution of a search warrant, the constable or inspector executing the search warrant must leave in a prominent place on the land, premises, or place or the vehicle, aircraft, or ship or send to the occupier or the person in charge, as the case may be, within 10 working days after the search, a written inventory of all things seized.
+[Repealed]
 
 **Further provisions relating to powers of search and entry**
 
 ### 136 Disposal of thing seized
-(1) Subject to subsections (2) and (3), section 199 of the Summary Proceedings Act 1957 applies—
-  (a) to any thing seized by a constable (including any animal seized by a constable under the authority of a search warrant issued under section 131 and any animal of which a constable takes possession under section 137(1)); and
-  (b) with the necessary modifications, to any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under section 131 and any animal of which an inspector takes possession under section 127(5)).
-(2) Despite section 199(1) of the Summary Proceedings Act 1957, any constable or inspector who is required by that subsection to retain custody of an animal may place that animal in the care of any other person until it is required to be used in evidence and until it is disposed of under section 199 of the Summary Proceedings Act 1957.
-(3) If the court orders, under section 199(3) of the Summary Proceedings Act 1957, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied—
+(1) Subject to subsections (2) and (3) and section 136A, subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of—
+  (a) any thing seized by a constable (including any animal seized by a constable under the authority of a search warrant issued under section 131 and any animal of which a constable takes possession under section 137(1)); and
+  (b) with the necessary modifications, any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under section 131 and any animal of which an inspector takes possession under section 127(5)).
+(2) Despite anything in subpart 6 of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person.
+(3) If the court orders, under section 154(2)(c) of the Search and Surveillance Act 2012, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied—
   (a) first, in the payment of the expenses incurred in arranging the sale:
   (b) secondly, if an animal and equipment are sold,—
     (i) the expenses incurred in caring for that animal before the sale; and
     (ii) if any other animals seized at the same time or under the same warrant have not been sold but are still being cared for, the expenses incurred in caring for those animals (if the owner or person in charge of those animals was, at the time of their seizure, the same person as the person who was the owner of or the person in charge of the animal sold):
   (c) thirdly, in such manner as the court thinks fit.
 
+### 136A Disposal of animals seized or taken into custody prior to commencement or determination of proceedings
+(1) This section applies if—
+  (a) 1 or more animals are seized by a constable or an inspector, under the authority of a search warrant issued under section 131, or are taken into possession by an inspector under section 127(5) or a constable under section 137(1); and
+  (b) either—
+    (i) proceedings for an offence involving that animal or those animals—
+      (A) have been commenced but not yet determined; or
+      (B) have not yet been commenced but are intended to be commenced within a reasonable period; or
+    (ii) the owner of that animal or those animals cannot be located.
+(2) If this section applies, a District Court, on its own motion, or on an application by a constable or an inspector, may make an order authorising—
+  (a) the sale of the animal or animals; or
+  (b) the placement of the animal or animals with another person; or
+  (c) the destruction or other disposal of the animal or animals; or
+  (d) the dehorning or performance of other surgical procedures on the animal or animals.
+(3) The District Court—
+  (a) must, before making an order under subsection (2), give the owner of the animal or animals, if known and able to be contacted, an opportunity to be heard; and
+  (b) may make an order under subsection (2) if it is satisfied that there are good reasons for making that order; and
+  (c) may, when making the order, impose conditions (whether relating to the payment of any security holder in the animal or animals or otherwise).
+(4) In determining whether to make any order referred to in subsection (2), the court must have regard to the following matters:
+  (a) whether the owner of the animal or animals has been identified, and if not, the steps that have been taken to identify and contact that person:
+  (b) the number of animals involved:
+  (c) whether the animal or animals are being kept for economic purposes or for companionship:
+  (d) the cost of continuing to hold the animal or animals:
+  (e) the physical state of the animal or animals:
+  (f) whether it is reasonable or practicable for the animal or animals to be placed elsewhere:
+  (g) whether it is reasonable or practicable for the Ministry or an approved organisation to retain possession of and care for the animal or animals until the determination of the proceedings relating to the animal or animals:
+  (h) whether any person will suffer material or other loss, and the extent of that loss, if the animal or animals are sold:
+  (i) any other matters the court considers relevant.
+(5) If an animal is sold under the authority of an order under subsection (2)(a), the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+(6) The Ministry or approved organisation referred to in subsection (5) must, unless the proceeds of sale are forfeited to the Crown under section 172(1) or the owner of the animal is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
+  (a) after the determination of the proceedings for an offence involving that animal or those animals; or
+  (b) after a decision is taken not to commence any such proceedings.
+
 ### 137 Vehicle, aircraft, ship, or animal may be detained
-(1) If a constable arrests a person on a charge of an offence against section 22(2) or section 23(1) or section 23(2) or section 40(1) and that person is in charge of the vehicle, aircraft, or ship for the time being, the constable may take possession of the vehicle, aircraft, or ship or animal or both and may convey that vehicle, aircraft, or ship or animal or both, as the case may be, to another place.
-(2) The constable may keep the vehicle, aircraft, ship, or animal at a place chosen by that constable until—
-  (a) the information in respect of that offence has been heard and determined; or
-  (b) a District Court Judge orders that the vehicle, aircraft, or ship or animal or both be delivered to the owner of the vehicle, aircraft, or ship or animal, as the case may be, or to the person charged with the offence against this Act.
-(3) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the powers that a constable has, under subsections (1) and (2), may be exercised only if the ship—
+(1) If a constable arrests a person for an offence against section 22(2), 23(1) or (2), or 40(1) and the person is for the time being in charge of a vehicle, an aircraft, or a ship, or an animal, the constable may—
+  (a) take possession of the vehicle, aircraft, or ship, or the animal, or both, and may take that vehicle, aircraft, or ship, or take that animal, or both, as the case may be, to another place; and
+  (b) detain that vehicle, aircraft, or ship, or that animal, or both, at a place chosen by the constable for a period that is reasonably necessary to—
+    (i) conduct a search of the vehicle, aircraft, or ship, or animal, or both, under another provision in this Act or under any other enactment that authorises such a search; or
+    (ii) provide humane treatment for any animal that is moved.
+(2)
+(3) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the powers that a constable has, under subsection (1), may be exercised only if the ship—
   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
   (b) is otherwise within the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 
@@ -1797,10 +1800,12 @@ Notwithstanding section 37 of the Summary Proceedings Act 1957, if—an inspecto
 Where proceedings for an offence against any provision of this Act are instituted by an inspector appointed under section 124(2), the court may order that the whole or any part of any fine recovered in respect of that offence be paid to an approved organisation.
 
 ### 172 Power of court to order that certain animals be forfeited to the Crown or approved organisation
-(1) The court convicting a person (the offender) of an offence against this Act in respect of an animal or animals may (in addition to or in substitution for any other penalty) order that any or all of the following animals be forfeited to the Crown or to an approved organisation:
-  (a) the animal or animals to which the charge relates and of which the offender is the owner:
-  (b) any other animals at the date of conviction owned by the offender.
-(1A) The court may make an order of forfeiture only if it thinks that it is desirable for the protection of the animal or animals in question.
+(1) The court convicting a person (the offender) of an offence against this Act in respect of an animal or animals may (in addition to or in substitution for any other penalty),—
+  (a) if it thinks it desirable for the protection of the animal or animals in question, order that any or all of the following animals be forfeited to the Crown or to an approved organisation:
+    (i) the animal or animals to which the charge relates and of which the offender is the owner:
+    (ii) any other animals at the date of conviction owned by the offender:
+  (b) if it thinks it desirable, order that any proceeds of sale of the animal retained under section 136A be forfeited to the Crown.
+(1A)
 (2) An animal forfeited under this section may be sold or otherwise disposed of as the Minister or the approved organisation, as the case may be, thinks fit.
 
 ### 173 Expenses incurred by inspectors and territorial authorities
@@ -2233,3 +2238,39 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 8 Transitional provision in respect of section 169 of principal Act
 Section 169 before amendment by this Act (old section 169) continues in force as if it had not been amended in respect of any person who, on the commencement of this Act, is subject to a disqualification order made under old section 169(1) or under section 16(1) of the Animals Protection Act 1960.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
