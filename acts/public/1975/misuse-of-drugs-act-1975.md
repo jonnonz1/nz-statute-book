@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -441,22 +441,23 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (1) Where an offence is committed against this Act or against any regulation made under this Act by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 (2) Where any body corporate is convicted of an offence against this Act or against any regulation made under this Act, every director and every person concerned in the management of the company shall be guilty of a like offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 
-### 18 Search and seizure
-(1) Where a search warrant is issued under section 198 of the Summary Proceedings Act 1957 in respect of an offence which has been or is suspected to have been committed against this Act or which is believed to be intended to be so committed, any constable executing the warrant or any of his assistants may search any person found in or on the building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place which may be entered and searched under the authority of the warrant.
-(2) Where any constable has reasonable ground for believing that there is in or on any building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place any controlled drug specified or described in Schedule 1 or in Part 1 of Schedule 2 or in Part 1 of Schedule 3 or any precursor substance specified or described in Part 3 of Schedule 4 and that an offence against this Act has been or is suspected of having been committed in respect of that drug or precursor substance, he, and any assistants who accompany him, may enter and search the building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place and any person found therein or thereon as if authorised to do so by a search warrant issued under section 198 of the Summary Proceedings Act 1957 and by subsection (1).
-(3) Where any constable has reasonable ground for believing that any person is in possession of any controlled drug specified or described in Schedule 1 or in Part 1 of Schedule 2 or in Part 1 of Schedule 3 or any precursor substance specified or described in Part 3 of Schedule 4 and that an offence against this Act has been or is suspected of having been committed in respect of that drug or precursor substance, he may search and detain that person for the purpose of search and may take possession of any controlled drug or precursor substance found. Nothing in this subsection shall limit the provisions of subsections (1) and (2) or authorise any constable to enter and search any building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place otherwise than in accordance with the provisions of those subsections.
-(3A) If it is necessary for a constable to stop a vehicle for the purpose of exercising the power conferred by subsection (3) to search a person who is in the vehicle, sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to subsection (3).
-(4) Every constable exercising the power of entry and search conferred by subsection (2) or the power conferred by subsection (3) shall identify himself to every person searched, and also to any person in or on the building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place who questions his right to enter and search the same, and shall also tell those persons that the search is being made pursuant to the authority of that subsection. He shall also, if not in uniform and if so required, produce evidence that he is a constable.
-(5) Any officer of Customs, or any officer of the Ministry of Health, or any Medical Officer of Health, or any constable, with such assistants as he thinks necessary, may seize and destroy any prohibited plant except where it is being cultivated either in accordance with the conditions of a licence granted under this Act or in accordance with regulations made under this Act, and may also seize and destroy the seed of any prohibited plant except where that seed is in the possession of any person who is either authorised under this Act to cultivate the plant or who is permitted by regulations made under this Act to have the seed in his possession.
-(6) Where any constable exercises the power of entry and search conferred by subsection (2) or the power conferred by subsection (3), he shall, within 3 days after the day on which he exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
+### 18 Seizing and destroying prohibited plants and seeds
+(1) The following persons may take any or all of the actions described in subsection (2):
+  (a) a constable:
+  (b) a Customs officer:
+  (c) an officer of the Ministry of Health:
+  (d) a Medical Officer of Health:
+  (e) an assistant thought to be necessary by any of the persons in paragraphs (a) to (d).
+(2) The actions are to seize and destroy any of the following:
+  (a) a prohibited plant that is not being cultivated in accordance with—
+    (i) the conditions of a licence granted under this Act; or
+    (ii) regulations made under this Act:
+  (b) the seed of a prohibited plant that is not in the possession of a person—
+    (i) authorised under this Act to cultivate the plant; or
+    (ii) permitted by regulations made under this Act to have the seed in his or her possession.
 
 ### 18A Internal search of person under arrest
-(1) Notwithstanding anything in section 37 of the Policing Act 2008 or any other enactment or rule of law to the contrary, no constable shall conduct an internal search of any part of the body of any person nor, except in accordance with subsection (2), shall he cause any other person to conduct such a search:
-  provided that, with the consent of the person concerned, a constable may search that person’s mouth.
-(2) Where any person (in this section referred to as the suspect) is arrested for any offence against section 6 or section 7 or section 11, a constable who is of or above the level of position of inspector or constable who is of or above the level of position of sergeant but below the level of position of inspector who has reasonable ground for believing that the suspect has secreted within his body any property that may be evidence of the offence with which the suspect is charged, or any property the possession of which by the suspect constitutes any other offence against any of the said provisions, may require the suspect to permit a medical practitioner, nominated for the purpose by the constable, to conduct an internal examination of any part of the suspect’s body by means of an X-ray machine or other similar device, or by means of a manual or visual examination (whether or not facilitated by any instrument or device) through any body orifice.
-(3) Notwithstanding anything in subsection (2) or the terms of any requirement made under that section, no medical practitioner shall conduct any such internal examination if he considers that to do so may be prejudicial to the suspect’s health, or if he is satisfied that the suspect is not prepared to permit an internal examination to be conducted.
-(4) Notwithstanding anything in the Summary Proceedings Act 1957 or this Act, where the suspect fails to permit an internal examination to be conducted under this section and subsequently applies for bail, the court may (without limiting its discretion to refuse bail) decline to consider the application until the expiry of 2 days after the day on which the requirement to do so was made or until the suspect sooner permits such an examination to be conducted, if the court is satisfied that the requirement was properly made on reasonable grounds; and, in any such case, the court may order that the suspect shall continue to be detained in Police custody until the expiry of that period or until the suspect sooner complies, as the case may be.
-(5) Nothing in this section shall limit or affect the provisions of sections 13A to 13M of the Misuse of Drugs Amendment Act 1978.
+[Repealed]
 
 ### 19 Power to demand production of records and to inspect stocks of controlled drugs
 (1) Any constable or any other person authorised by the Minister shall for the purposes of the enforcement of the provisions of this Act have power to enter the premises of any person who carries on the business of a producer, manufacturer, seller, or distributor of any controlled drug, or who otherwise undertakes the supply or administration of any controlled drug, and to demand the production of and to inspect any books or documents relating to dealings in any controlled drug, and to inspect, weigh, measure, and record the stocks of controlled drugs.
@@ -697,7 +698,7 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
   (b) that the Government of any country is or is not, or was or was not, at any material time, responsible for the international relations of any territory,—
 
 ### 36 Application of Customs and Excise Act 1996
-(1) Sections 137, 139, 140, 143 to 145, 148 to 149B, 149C(1) and (2), 149D, 151, 152, 161, 165 to 172, 225, and 226 of the Customs and Excise Act 1996 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
+(1) Sections 137, 139, 140, 143 to 145, 148 to 149B, 149C(1) to (3), 151, 152, 161, 166A to 167, 225, and 226 of the Customs and Excise Act 1996 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
 (2) The controlled drugs and precursor substances are—
   (a) any controlled drug, other than a controlled drug specified or described in Part 6 of Schedule 3; and
   (b) any precursor substance specified or described in Schedule 4.
@@ -888,7 +889,7 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Bezitramide** (1-(3-cyano-3,3-diphenylpropyl)-4-(2-oxo-3-propionyl-1-benzimidazolinyl)piperidine)
 - **Clonitazene** (2-para-chlorbenzyl-1-diethylaminoethyl-5-nitrobenzimidazole)
 - **Codoxime** (dihydrocodeinone-6-carboxymethyloxime)
-- **Concentrate of poppy straw** —that is, the material arising when parts of any plant of the speciesPapaver somniferum have entered a process for the concentration of the alkaloids
+- **Concentrate of poppy straw** —that is, the material arising when parts of any plant of the species Papaver somniferum have entered a process for the concentration of the alkaloids
 - **Dextromoramide** ((+)-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine)
 - **Diampromide** (N-[2-(methylphenethylamino) propyl] propionanilide)
 - **Diethylthiambutene** (3-diethylamino-1,1-di-(2′-thienyl)-1-butene).
@@ -1230,38 +1231,20 @@ This Part shall apply notwithstanding anything in the Postal Services Act 1998 o
 ### 12 Allowing delivery of unlawfully imported drugs or precursor substances for purpose of detection, etc
 (1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
   (a) allow the craft or vehicle to leave; or
-  (b) allow the package or goods to be collected by or delivered to or on behalf of the consignee; or
-  (c) return the goods or mail to the appropriate carrier for delivery to the addressee—
-(2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any goods or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the goods or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
+  (b) allow the package, goods, or mail to be collected by or delivered to or on behalf of the consignee; or
+  (ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
+  (bb) deliver the package, goods, or mail; or
+  (c) return the package, goods, or mail to the appropriate carrier for delivery to the addressee—
+(2) No Customs officer who exercises any power conferred by subsection (1), and no officer or employee of any carrier who, in the course of his or her duties, does anything in respect of any package, goods, or mail returned to a carrier in accordance with that subsection (whether or not he or she knows that the package, goods, or mail contains a controlled drug or precursor substance), is under any criminal or civil liability in respect of the exercise of that power or, as the case requires, the doing of that thing.
 
 ### 12A Searches relating to persons involved in delivery under section 12
-(1) If the circumstances in subsection (2) exist, a constable or a Customs officer may, during the course of a delivery in relation to which a Customs officer has exercised his or her powers under section 12,—
-  (a) search any person involved in that delivery; and
-  (b) detain that person for the purpose of carrying out that search.
-(2) The circumstances are that the constable or the Customs officer believes on reasonable grounds that the person is in possession of any of the following:
-  (a) a controlled drug:
-  (b) a precursor substance:
-  (c) a package in relation to which the Customs officer has replaced all or a portion of any controlled drug or precursor substance:
-  (d) evidence of the commission of an offence under section 6(1)(a) or section 12AB of the principal Act.
-(3) Reasonable force may be used, if necessary, for either or both of the following purposes:
-  (a) to search a person under subsection (1):
-  (b) to detain a person under subsection (1).
-(4) A constable or a Customs officer may, without a search warrant issued under section 198 of the Summary Proceedings Act 1957, enter any building, craft, carriage, vehicle, premises, or place in order to carry out a search under subsection (1).
-(5) A constable or a Customs officer who undertakes a search under subsection (1) must, within 3 working days of the search, give a written report of the search, the circumstances in which the search was conducted, and the matters that gave rise to the reasonable grounds to believe required under subsection (2), to—
-  (a) in the case of a constable, the Commissioner of Police; and
-  (b) in the case of a Customs officer, the Chief Executive of the New Zealand Customs Service.
+[Repealed]
 
 ### 12B Seizure of items found during search under section 12A
-(1) A constable or a Customs officer may seize any thing found on or about a person when carrying out a search under section 12A(1) that the constable or the Customs officer has reasonable cause to suspect is a thing described in any of paragraphs (a) to (d) of section 12A(2).
-(2) Reasonable force may be used, if necessary, to seize the thing.
+[Repealed]
 
 ### 12C Obligations on constable or Customs officer conducting search under section 12A to identify self and power relied on
-(1) Every constable or Customs officer who exercises a power of search under section 12A(1) must—
-  (a) identify himself or herself to any person he or she intends to search; and
-  (b) advise that person that the search is being undertaken under the authority of section 12A(1).
-(2) Every constable or Customs officer who enters any building, craft, carriage, vehicle, premises, or place in order to carry out a search under section 12A(1) must—
-  (a) identify himself or herself to any person who questions his or her right to enter; and
-  (b) advise that person that the entry is being undertaken under the authority of section 12A(1).
+[Repealed]
 
 ### 12D International controlled delivery and liability for offences
 (1) In this section, an international controlled delivery means allowing a controlled drug or precursor substance (or substance substituted in the place of a controlled drug or precursor substance) to pass through or into the territory of 1 or more countries—
@@ -2266,3 +2249,39 @@ This Act comes into force on 1 April 2008.
   (b) to use that controlled drug.
 (2) This section is subject to section 6 of the principal Act and to section 5 of this Act.
 (3) This section expires at the close of 30 September 2008.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
