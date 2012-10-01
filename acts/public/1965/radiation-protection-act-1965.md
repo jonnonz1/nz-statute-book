@@ -1,5 +1,5 @@
 # Radiation Protection Act 1965
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to consolidate and amend the Radioactive Substances Act 1949
 
@@ -195,10 +195,11 @@ Every holder of a licence under this Act who at any time changes his address as 
 
 ### 24 Entry and inspection
 (1) Any officer of the Ministry of Health authorised by the Minister to act under this section shall, on producing if so required a duly authenticated document showing his authority, have the right to enter at all reasonable hours any premises, vehicle, ship, or aircraft in which he has reasonable grounds for believing that there is any radioactive material or irradiating apparatus for the purpose of examining or testing that material or examining or calibrating that apparatus, as the case may be.
-(2) If a Justice of the Peace or Community Magistrate is satisfied on oath by a person authorised as aforesaid that—the Justice or Community Magistrate may, by warrant under his hand, authorise any person named in the warrant together with any constable to enter and search any premises, vehicle, ship, or aircraft, if necessary by force.
+(2) If an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) is satisfied on an application made in the manner provided in subpart 3 of Part 4 of that Act by a person authorised as aforesaid that—the issuing officer may, by warrant under his hand, authorise any person named in the warrant together with any constable to enter and search any premises, vehicle, ship, or aircraft.
   (a) entry in exercise of the right conferred by subsection (1) has been refused; or
   (b) there are reasonable grounds for suspecting that an offence against this Act has been or is being committed in or in connection with any premises, vehicle, ship, or aircraft,—
-(3) Every warrant granted under this section shall continue in force until the purpose for which it was granted has been satisfied.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(4) Despite subsection (3), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 24A Building Act 2004
 (1) Where a person referred to in section 24(1) believes that any building or sitework does not comply with the Building Act 2004, that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
@@ -266,3 +267,39 @@ Nothing contained in this Act shall be so construed as to limit or in any way af
 The enactments specified in the Schedule are hereby repealed.
 
 ## Schedule Schedule — Enactments repealed
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
