@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2011-02-25_
+_Consolidation as at 2012-10-01_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -524,43 +524,48 @@ The following orders for disciplinary sanctions made by the Tribunal under secti
 
 **Inspection**
 
-### 56 Purpose of inspection
-(1) The powers in section 57 may be used for the purpose of administering the licensing regime and obtaining information in relation to complaints in respect of persons who are or have formerly been licensed to provide immigration advice or who have applied to be licensed.
-(2) The powers in section 58 may be used for the purposes of investigating offences under this Act.
+### 56 Purposes of inspection
+The powers in section 57 may be used for 1 or more of the following purposes:
+  (a) administering the licensing regime:
+  (b) obtaining information in relation to complaints in respect of persons who are or have formerly been licensed to provide immigration advice:
+  (c) obtaining information in respect of persons who have applied to be licensed:
+  (d) investigating offences under this Act.
 
-### 57 Inspection powers for administration of licensing regime and obtaining information in relation to complaints
-(1) Any person authorised by the Registrar may, for the purpose set out in section 56(1),—
-  (a) at any reasonable time, enter any premises where the person has reasonable grounds for believing that—
-    (i) any licensed immigration adviser or former licensed immigration adviser works or has worked in the last 2 years; or
-    (ii) any person who has applied to be licensed as an immigration adviser works:
-  (b) question any licensed immigration adviser, former licensed immigration adviser, or other person at any premises of the kind described in paragraph (a):
-  (c) require a licensed immigration adviser or former licensed immigration adviser or person who has applied to be licensed as an immigration adviser to produce for inspection relevant documents within that person's possession or control, and inspect and take copies of those documents.
-(2) Where any requirement is made of a person under subsection (1)(c), the person must forthwith comply with that requirement.
+### 57 Inspection powers
+(1) Any person authorised by the Registrar may, for a purpose set out in section 56,—
+  (a) at any reasonable time, enter any premises where the person has good cause to suspect that—
+    (i) any licensed immigration adviser or former licensed immigration adviser works or has worked in the past 2 years; or
+    (ii) any person who has applied to be licensed as an immigration adviser works; or
+    (iii) a person provides immigration advice or contracts or employs a person to provide immigration advice:
+  (b) question any licensed immigration adviser, former licensed immigration adviser, or other person at any premises of a kind described in paragraph (a):
+  (c) require a person of a kind described in paragraph (a) to produce for inspection relevant documents in that person's possession or under that person's control:
+  (d) inspect and take copies of documents referred to in paragraph (c):
+  (e) retain documents referred to in paragraph (c), if there are grounds for believing that they are evidence of the commission of an offence.
+(2) If a requirement is made of a person under subsection (1)(c), the person must immediately comply with that requirement.
+(3) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 58 Inspection powers for investigating offences
-If the Registrar has good cause to suspect that a person is committing or has committed an offence under this Act, a person authorised by the Registrar may, for the purpose set out in section 56(2),—
-  (a) enter any premises in which the person authorised by the Registrar has good cause to suspect that a person provides immigration advice or contracts or employs a person to provide immigration advice:
-  (b) after informing the person of the suspicion,—
-    (i) require a person to produce for inspection relevant documents within that person's possession or control:
-    (ii) inspect and take copies of documents referred to in subparagraph (i):
-    (iii) retain documents referred to in subparagraph (i) for a period that is in all the circumstances reasonable, if there are grounds for believing that they are evidence of the commission of an offence:
-    (iv) question a person who the person authorised by the Registrar has good cause to suspect provides immigration advice or contracts or employs a person to provide immigration advice.
+[Repealed]
 
 ### 59 Privilege against self-incrimination
-No person is, on examination or inquiry under section 57 or 58, required to give to any question any answer tending to incriminate that person.
+No person is, on examination or inquiry under section 57, required to give to any question any answer tending to incriminate that person.
 
 ### 60 Entry of dwellinghouses
-No person may, under section 57 or 58, enter or be in any dwellinghouse unless he or she either—
+No person may, under section 57, enter or be in any dwellinghouse unless he or she either—
   (a) has the consent of an occupier of that dwellinghouse; or
   (b) is authorised to do so by a warrant issued under section 61.
 
 ### 61 Entry warrant
-(1) A Judge who, on written application made on oath, is satisfied that there is reasonable ground for believing that a dwellinghouse—may issue a warrant authorising the person named in it to enter that dwellinghouse or any part of that dwellinghouse that is, or is the only practicable means through which the person may enter, a place of a kind referred to in paragraph (a).
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, is satisfied that there is reasonable ground for believing that a dwellinghouse—may issue a warrant authorising the person named in it to enter that dwellinghouse or any part of that dwellinghouse that is, or is the only practicable means through which the person may enter, a place of a kind referred to in paragraph (a).
   (a) is a place in which—
     (i) a licensed immigration adviser, a former licensed immigration adviser, or a person who has applied for a licence, works; or
     (ii) a person provides immigration advice, or employs or contracts another person to provide immigration advice; or
   (b) is the only practicable means through which a place of the type referred to in paragraph (a) may be entered,—
-(2) A person applying for a warrant under subsection (1) must disclose in the application any previous application made in respect of the same matter.
+(2) The provisions of subparts 1, 3, and 9 of Part 4 of the Search and Surveillance Act 2012 apply in respect of an entry warrant.
+
+### 61A Search warrant
+(1) For the purposes of section 97 of the Search and Surveillance Act 2012, the Registrar is a person authorised to apply for a search warrant.
+(2) The Registrar may exercise the powers of a constable to apply for a search warrant under section 6 of the Search and Surveillance Act 2012 in relation to an offence under this Act.
 
 ### 62 Conditions of authorisation
 (1) The Registrar must not authorise a person to carry out an inspection unless satisfied that the person is suitably qualified or trained, or the person is a member of a class of persons who are suitably qualified or trained, to carry out an inspection.
@@ -570,7 +575,7 @@ No person may, under section 57 or 58, enter or be in any dwellinghouse unless h
 (3) An authorisation must be in writing and must contain—
   (a) a reference to this section; and
   (b) the full name of the authorised person; and
-  (c) a statement of the powers conferred on the authorised person by section 57 or 58; and
+  (c) a statement of the powers conferred on the authorised person by section 57; and
   (d) the purpose for which those powers may be exercised.
 
 **Offences**
@@ -641,9 +646,9 @@ No person may, under section 57 or 58, enter or be in any dwellinghouse unless h
 
 ### 69 Offence to obstruct inspection
 (1) A person commits an offence if the person, without reasonable excuse,—
-  (a) resists, obstructs, deceives, or attempts to deceive any person who is exercising or attempting to exercise any power or function under section 57 or 58; or
-  (b) fails to comply in any respect with any requirement under section 57 or 58; or
-  (c) gives to any person who is exercising or attempting to exercise any power or function under section 57 or 58 any particulars that are false or misleading in any material respect.
+  (a) resists, obstructs, deceives, or attempts to deceive any person who is exercising or attempting to exercise any power or function under section 57; or
+  (b) fails to comply in any respect with any requirement under section 57; or
+  (c) gives to any person who is exercising or attempting to exercise any power or function under section 57 any particulars that are false or misleading in any material respect.
 (2) A person convicted of an offence under subsection (1) is liable to a fine not exceeding $10,000.
 
 ### 70 Offence to fail to notify change in circumstances
@@ -938,3 +943,39 @@ Neither the Tribunal, nor any member, officer, or agent of the Tribunal, is unde
 
 ### 11 Tribunal to have seal
 The Tribunal must have a seal, which must be judicially noticed in all courts and for all purposes.
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
