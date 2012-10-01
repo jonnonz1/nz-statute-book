@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2012-10-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -442,7 +442,7 @@ Where—unless it is clearly impracticable or clearly inconsistent with the prin
 **Powers to remove child or young person**
 
 ### 39 Place of safety warrants
-(1) Any District Court Judge or, if no District Court Judge is available, any Justice or any Community Magistrate or any Registrar (not being a constable), who, on application in writing made on oath, is satisfied that there are reasonable grounds for suspecting that a child or young person is suffering, or is likely to suffer, ill-treatment, neglect, deprivation, abuse, or harm may issue a warrant authorising any constable or a social worker, either by name or generally, to search for the child or young person.
+(1) Any District Court Judge or, if no District Court Judge is available, any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act, is satisfied that there are reasonable grounds for suspecting that a child or young person is suffering, or is likely to suffer, ill-treatment, neglect, deprivation, abuse, or harm may issue a warrant authorising any constable or a social worker, either by name or generally, to search for the child or young person.
 (2) An application for a warrant under subsection (1) may be made by a constable or a social worker.
 (3) Any person authorised by warrant under this section to search for any child or young person may—
   (a) enter and search, by force if necessary, any dwellinghouse, building, aircraft, ship, carriage, vehicle, premises or place:
@@ -452,7 +452,7 @@ Where—unless it is clearly impracticable or clearly inconsistent with the prin
 (4) Where any direction is issued pursuant to subsection (3)(b)(ii) in respect of any child or young person, that child or young person shall be deemed to have been placed in the custody of the chief executive pursuant to this section.
 
 ### 40 Warrant to remove child or young person
-(1) Where an application for a declaration under section 67 has been made in respect of a child or young person, any District Court Judge or, if no District Court Judge is available, any Justice or any Community Magistrate or any Registrar (not being a constable), may, on application in writing made on oath, where there are reasonable grounds for believing that the child or young person is—
+(1) Where an application for a declaration under section 67 has been made in respect of a child or young person, any District Court Judge or, if no District Court Judge is available, any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application in writing verified in accordance with section 99 of that Act, where there are reasonable grounds for believing that the child or young person is—
   (a) suffering, or is likely to suffer, ill-treatment, serious neglect, abuse, serious deprivation, or serious harm; or
   (b) so seriously disturbed as to be likely—issue a warrant authorising any constable or a social worker, either by name or generally, to search for the child or young person.
     (i) to act in a manner harmful to the child or young person or any other person; or
@@ -4029,7 +4029,7 @@ A child or young person who has had his or her mail inspected under section 384B
 (4) For the purpose of detaining without warrant any child or young person who leaves or is taken without authority from a residence under this Act, every member of the staff of any such residence shall, if it is administered by the Crown, have the powers conferred on a social worker by subsection (2).
 
 ### 386 Search warrants
-(1) Any Judge or Justice or Community Magistrate or any Registrar (not being a constable) who, on application in writing made on oath by any constable or a social worker, is satisfied that there are reasonable grounds for suspecting that a child or young person to whom section 385 applies is for the time being at any known premises or place, may issue a warrant authorising any constable or social worker to—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act by any constable or a social worker, is satisfied that there are reasonable grounds for suspecting that a child or young person to whom section 385 applies is for the time being at any known premises or place, may issue a warrant authorising any constable or social worker to—
   (a) enter and search, by force if necessary, any such premises or place specified in the warrant; and
   (b) remove the child or young person, using such force as may reasonably be necessary; and
   (c) either—
@@ -4419,7 +4419,7 @@ No person who furnishes a report to any court for the purposes of any proceeding
 **Search warrants**
 
 ### 445A Person executing warrant to produce evidence of authority and identity
-Every social worker, constable, or other person executing any warrant issued under section 39 or section 40 or section 122 or section 157(2) or section 205(2)(b) or section 296C or section 386—
+Every social worker, constable, or other person executing any warrant issued under section 122 or section 157(2) or section 205(2)(b) or section 296C—
   (a) shall have that warrant with him or her; and
   (b) shall produce it on initial entry and, if requested, at any subsequent time; and
   (c) shall identify himself or herself to any person in or on the dwellinghouse, building, aircraft, ship, carriage, vehicle, premises, or place who questions his or her right to enter or search the same or to take possession of the child or young person; and
@@ -4429,7 +4429,7 @@ Every social worker, constable, or other person executing any warrant issued und
 
 ### 445B Authority to use facsimile copy of warrant
 (1) In this section, the term facsimile copy, in relation to a warrant, means a copy of the warrant that is produced by a facsimile machine, computer, or other electronic device when the warrant is sent by facsimile transmission.
-(2) Any District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) may authorise the use of a facsimile copy of a warrant issued under section 39, 40, 122, 157(2), 205(2)(b), 296C, or 386 in the execution of that warrant.
+(2) Any District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) may authorise the use of a facsimile copy of a warrant issued under section 122, 157(2), 205(2)(b), or 296C in the execution of that warrant.
 (2A) The use of a facsimile copy of a warrant may be authorised when the warrant is issued, or later.
 (2B) Subsection (2) is subject to subsection (3).
 (3) No authorisation may be granted under subsection (2) in relation to a warrant unless the District Court Judge, Justice, Community Magistrate, or Registrar is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a facsimile copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.
@@ -4441,6 +4441,9 @@ Every social worker, constable, or other person executing any warrant issued und
 
 ### 445C Issue and execution of warrants
 Any warrant issued under any provision of this Act may be issued or executed at any hour of the day or night and may be issued or executed on a Sunday as on any other day.
+
+### 445D Certain provisions of Search and Surveillance Act 2012 apply to some warrants
+Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any necessary modifications, in respect of any warrant applied for or issued under section 39, 40, or 386.
 
 **Offences**
 
@@ -4645,3 +4648,39 @@ The Criminal Disclosure Act 2008.
 ## Schedule 2 — Enactments amended
 
 ## Schedule 3 — Enactments repealed
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
