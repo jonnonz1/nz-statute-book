@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-10-01_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -292,47 +292,22 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
 (4) Within 28 days of receiving a report under subsection (2), the Minister shall give a copy to the industry organisation concerned.
 
 ### 19 Power of search
-(1) A District Court Judge, a Justice, a Community Magistrate, or a court Registrar (not being a constable) who, on an application in writing made on oath by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant in the form set out in the Schedule authorise the constable or person to search the place.
-(2) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
-  (a) details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
-  (b) the result of each application.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise the constable or person to search the place.
+(2) Subject to subsection (2A), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(2A) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 (3) In this section a designated person means a person (being an auditor or a person employed in the Public Service) who is for the time being—
   (a) designated by a Minister as a person who may exercise powers of search under this Act; or
   (b) a member of a class of person designated by the Minister as persons who may exercise powers of search under this Act.
 (4) No person or class of person shall be designated under subsection (3), unless the Minister concerned is satisfied that the person, or persons of that class, is or are suitably qualified and trained to exercise the powers of a designated person.
 
 ### 20 Powers conferred by warrant
-(1) A warrant issued under section 19 authorises the person named in it—
-  (a) to enter and search the place specified in the warrant on 1 occasion within 30 days of the date of issue of the warrant at a time that is reasonable in the circumstances; and
-  (b) to use any assistance that is reasonable in the circumstances; and
-  (c) to use any force for gaining entry or for breaking open any article or thing that is reasonable in the circumstances; and
-  (d) to search for and remove documents, articles, or things, that the person believes on reasonable grounds are evidence of any offence against this Act; and
-  (e) to take copies of documents, or extracts from documents, that the person believes on reasonable grounds are evidence of an offence against this Act; and
-  (f) where necessary, to require any person to reproduce, or assist the person executing the warrant to reproduce, in usable form, information recorded or stored in a document.
-(2) The warrant shall be executed in accordance with any reasonable conditions specified in the warrant.
+[Repealed]
 
 ### 21 Warrant to be produced
-A person executing a warrant under section 19—
-  (a) shall produce the warrant on initial entry and, if requested, at any subsequent time; and
-  (b) shall identify the person to the owner or occupier, or person in charge, of the place concerned if that person is present; and
-  (c) shall produce evidence of identity if asked by the owner, occupier, or person in charge.
+[Repealed]
 
 ### 22 Other duties of person who executes a warrant
-(1) A person who executes a warrant issued under section 19 shall, before completing the search, leave in a prominent place at the place searched—
-  (a) in the case of a search carried out at a time when the owner or occupier was not present, a written notice stating—
-    (i) the date and time when the warrant was executed; and
-    (ii) the person's name; and
-  (b) in the case of a search where a document or article or thing was removed from the place being searched, a schedule of all documents, articles, and things removed during the search.
-(2) If it is not practicable to prepare a schedule before completing the search, or if the owner, occupier, or person in charge of the place searched consents, the person executing the warrant—
-  (a) may, instead of leaving a schedule, leave a notice stating that documents, articles, or things have been removed during the search and that, within 7 days of the search, a schedule will be delivered, left, or sent stating which documents, articles, and things have been removed; and
-  (b) shall, within 7 days of the search,—
-    (i) deliver a schedule to the owner, occupier, or person in charge; or
-    (ii) leave a schedule in a prominent position at the place searched; or
-    (iii) send a schedule by registered mail to the owner, occupier, or person in charge.
-(3) Every schedule shall specify—
-  (a) the documents, articles, and things removed; and
-  (b) the place they were removed from; and
-  (c) the place where they are being held.
+[Repealed]
 
 ### 23 Prohibition on obstruction
 The owner, occupier, or person in charge, of a place that a person authorised pursuant to a warrant issued under section 19 enters for the purpose of searching shall not obstruct that person.
@@ -396,3 +371,39 @@ The owner, occupier, or person in charge, of a place that a person authorised pu
 (4) When an enactment specified in subsection (3) is repealed by or under subsection (1) or subsection (2), so much of the Schedule of the Regulations (Disallowance) Act 1989 as relates to that Act shall then be deemed to have been repealed.
 
 ## Schedule Schedule — Form of search warrant
+
+### 1 Title
+This Act is the Search and Surveillance Act 2012.
+
+### 2 Commencement
+(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+## Part 1 — General provisions
+
+### 5 Purpose
+The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
+  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+
+## Part 5 — Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
+
+**Transitional provisions**
+
+### 351 Transitional provision relating to provisions brought into force under section 2
+(1) Despite any amendment in Part 5 of this Act,—
+  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
+(3) In this section,—
+  - **authorising Act** means an Act amended by Part 5
+  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
+    (a) before the relevant commencement; or
+    (b) on or after that date on an application made before that date
+  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
