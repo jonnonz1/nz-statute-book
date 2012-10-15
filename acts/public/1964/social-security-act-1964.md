@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-08-20_
+_Consolidation as at 2012-10-15_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -24,7 +24,7 @@ The purpose of this Act is—
 Every person exercising or performing a function, duty or power under this Act must have regard to the following general principles:
   (a) work in paid employment offers the best opportunity for people to achieve social and economic well-being:
   (b) the priority for people of working age should be to find and retain work:
-  (c) people for whom work may not currently be an appropriate outcome should be assisted to plan for work in the future and develop employment-focused skills:
+  (c) people for whom work may not currently be an appropriate outcome should be assisted to prepare for work in the future and develop employment-focused skills:
   (d) people for whom work is not appropriate should be supported in accordance with this Act.
 
 ## Part 1 — Monetary benefits
@@ -243,9 +243,10 @@ Every person exercising or performing a function, duty or power under this Act m
     (a) under a contract of service, whether on time or piece rates; or
     (b) as a self-employed person in any business, profession, trade, manufacture, or undertaking
   - **part-time work-tested beneficiary** means—
-    (a) a person with a youngest dependent child aged 6 or older, but under 18 years, and who is—
+    (a) a person with a youngest dependent child aged 5 or older, but under 14 years, who is—
       (i) a work-tested spouse or partner; or
       (ii) a work-tested domestic purposes beneficiary; or
+      (iii) a work-tested widow's beneficiary; or
     (b) a person who is a work-tested sickness beneficiary
   - **participation allowance** means a participation allowance under regulations made under section 132F
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
@@ -283,7 +284,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **spouse** means the husband or wife of an applicant or beneficiary, as the context may require
   - **strike** has the same meaning as in section 81 of the Employment Relations Act 2000
   - **student allowance** means an allowance established by regulations made under section 303 of the Education Act 1989
-  - **suitable employment** , in relation to a person, means employment that the chief executive is satisfied is suitable for the person to undertake for a number of hours a week that is at least the employment required to satisfy the work test for that person
+  - **suitable employment** in relation to a person, means employment that the chief executive is satisfied is suitable for the person to undertake for a number of hours a week determined by the chief executive having regard to the employment required to satisfy the work test for that person
   - **temporary employment** means full employment for a period of less than 26 weeks
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **veteran's pension** means a veteran's pension payable under Part 6 of the War Pensions Act 1954
@@ -297,32 +298,28 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) means, in relation to an emergency benefit,—
       (i) a rate of the benefit payable to a person that includes a payment for the person's spouse or partner; and
       (ii) includes an emergency benefit paid to the spouse or partner of a resident assessed as requiring care (as defined in section 136) under regulations made under section 155
-  - **work-tested beneficiary** means a person who is—
-    (a) a person granted an unemployment benefit; or
-    (b) a work-tested spouse or partner; or
-    (c)
-    (d)
-    (e)
-    (f) a work-tested domestic purposes beneficiary; or
-    (g) a work-tested sickness beneficiary
-  - **work-tested benefit** means—
-    (a) an unemployment benefit; or
-    (b)
-    (c)
-    (d)
-    (e) in relation to a work-tested spouse or partner—
-      (i) a sickness benefit; or
-      (ii) an emergency benefit; or
-      (iii) an invalid's benefit; or
-    (f) in relation to a work-tested domestic purposes beneficiary, a domestic purposes benefit under section 27B; or
-    (g) in relation to a work-tested sickness beneficiary, a sickness benefit
-  - **work-tested domestic purposes beneficiary** means a person—
-    (a) who has been granted a domestic purposes benefit under section 27B; and
-    (b) whose youngest dependent child is aged 6 years or older, but under 18 years, or is aged 18 years and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
+  - **work-tested beneficiary** means a person—
+    (a) who is granted an unemployment benefit; or
+    (b) who is—
+      (i) a work-tested spouse or partner; or
+      (ii) a work-tested domestic purposes beneficiary; or
+      (iii) a work-tested widow's beneficiary; or
+      (iv) a work-tested sickness beneficiary
+  - **work-tested benefit** —
+    (a) except in relation to a work-tested domestic purposes beneficiary, a work-tested sickness beneficiary, or a work-tested widow's beneficiary, means an unemployment benefit; and
+    (b) in relation to a work-tested spouse or partner, includes a sickness benefit, an emergency benefit, and an invalid's benefit; and
+    (c) in relation to a work-tested domestic purposes beneficiary, means a domestic purposes benefit under section 27B or 27C; and
+    (d) in relation to a work-tested sickness beneficiary, means a sickness benefit; and
+    (e) in relation to a work-tested widow's beneficiary, means a widow's benefit
+  - **work-tested domestic purposes beneficiary** means a person who has been granted a domestic purposes benefit under section 27B or 27C; and—
+    (a) who has no dependent children; or
+    (b) whose youngest dependent child—
+      (i) is aged 5 years or older, but under 18 years; or
+      (ii) is aged 18 years or older, and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
   - **work-tested sickness beneficiary** means a person granted a sickness benefit who is required under section 54DA(1) to comply with the work test
   - **work-tested spouse or partner** means a person—
     (a) who—
-      (i) has no dependent child under 6 years (or has no dependent child at all); and
+      (i) has no dependent child under 5 years (or has no dependent child at all); and
       (ii) is not subject to obligations under section 171; and
       (iii) has not been granted an exemption from the work test; and
     (b) who—
@@ -334,6 +331,11 @@ Every person exercising or performing a function, duty or power under this Act m
         (A) the spouse or partner of a person who is receiving long-term residential care in a hospital or rest home; and
         (B) aged under 60 years; and
         (C) in receipt of an invalid's benefit under section 42(2) or an emergency benefit under regulations under section 155
+  - **work-tested widow's beneficiary** means a person who has been granted a widow's benefit; and—
+    (a) who has no dependent children; or
+    (b) whose youngest dependent child—
+      (i) is aged 5 years or older, but under 18 years; or
+      (ii) is aged 18 years or older, and is a child in respect of whom that benefit is paid, or continues to be paid, under section 63A
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (aa) the day observed as the anniversary of the appropriate province; and
@@ -723,8 +725,8 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
     (iv) that not less than 15 years has elapsed since the date of her marriage or, if she was married more than once, the date of her first marriage,—
 (2) An applicant for a widow's benefit must meet the residential requirements in section 74AA.
 (2A) A woman who receives a benefit under this section must—
-  (a) comply with a requirement under section 60Q; and
-  (b) comply with any other obligation arising under any of sections 60Q to 60S.
+  (a) comply with any obligation arising under section 60Q; and
+  (b) if she is a work-tested widow's beneficiary, comply with the work test.
 (2B)
 (2C)
 (2D)
@@ -742,6 +744,12 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (a) a reference in this section to a marriage must be read as a reference to a marriage or civil union or de facto relationship; and
   (b) a reference in this section to being married must be read as a reference to being married or in a civil union or in a de facto relationship; and
   (c) a reference in this section to a date of a marriage must be read as a reference to the date of a marriage or of entering into a civil union or a de facto relationship.
+
+### 21A Widows' benefits: pre-benefit activities
+(1) This subsection applies to a person if—
+  (a) she contacts the department requesting financial assistance after the commencement of Part 3 of the Social Security (Youth Support and Work Focus) Amendment Act 2012; and
+  (b) the chief executive considers that the appropriate financial assistance for her would be a widow's benefit.
+(2) Section 96A(2) to (13) applies to a person to whom subsection (1) applies, but as if every reference to an unemployment benefit were a reference to a widow's benefit.
 
 ### 22 Benefits to wives of mental patients
 [Repealed]
@@ -793,9 +801,7 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (b) the applicant is caring for a dependent child or children; and
   (c) the applicant is not living together with his or her spouse or partner or with the other parent of the child, as the case may be.
 (2A) A person who receives a benefit under this section must—
-  (a) comply with—
-    (i) a requirement under section 60Q; and
-    (ii) any other obligation arising under any of sections 60Q to 60S; or
+  (a) comply with all obligations arising under section 60Q; or
   (b) comply with the work test if that person is a work-tested domestic purposes beneficiary.
 (2B)
 (2C)
@@ -839,11 +845,15 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (b) she has had 1 or more children and the aggregate of the periods during which she was married or in a civil union or in a de facto relationship and any subsequent period during which she had the care and control of at least one of her dependent children was not less than 15 years, and she ceased to have the care and control of such a child after she had attained the age of 50 years; or
   (c) she was married or in a civil union or in a de facto relationship for not less than 5 years and lost the support of her spouse or partner after she had attained the age of 50 years; or
   (d) she had the responsibility for the full-time care and attention of an incapacitated relative for not less than 5 years and ceased to have responsibility for the said relative after she had attained the age of 50 years.
-(4) A woman who receives a benefit under this section must—
-  (a) comply with a requirement under section 60Q:
-  (b) comply with any other obligation arising under any of sections 60Q to 60S.
+(4) A woman who receives a benefit under this section must comply with the work test.
 (5)
 (6)
+
+### 27CA Domestic purposes benefits under section 27B or 27C: pre-benefit activities
+(1) This subsection applies to a person if—
+  (a) he or she who contacts the department requesting financial assistance after the commencement of Part 3 of the Social Security (Youth Support and Work Focus) Amendment Act 2012; and
+  (b) the chief executive considers that the appropriate financial assistance for him or her would be a domestic purposes benefit under section 27B or 27C.
+(2) Section 96A(2) to (13) applies to a person to whom subsection (1) applies, but as if every reference to an unemployment benefit were a reference to a domestic purposes benefit under section 27B or 27C.
 
 ### 27D Applicants for domestic purposes benefits for women alone to meet residential qualifications in section 74AA
 An applicant for a benefit under section 27C must meet the residential requirements in section 74AA.
@@ -1323,6 +1333,28 @@ From the time that payment of the sickness benefit commences, the spouse or part
 
 **Further conditions of benefits**
 
+### 60GAD Purpose of sections 60GAE and 60GAF
+The purpose of sections 60GAE and 60GAF is to improve the financial and social outcomes for families that include people to whom those sections apply by providing earlier access to employment services and expectations, while recognising the care and development needs of children.
+
+### 60GAE Beneficiaries having additional dependent child: general
+(1) This section applies to a person (the beneficiary parent) who (whether or not by having given birth) becomes a caregiver, or the principal caregiver, of a dependent child (an additional dependent child) while the person—
+  (a) is receiving a domestic purposes benefit, an invalid's benefit, a sickness benefit, an unemployment benefit, a widow's benefit, or an emergency benefit (whether in his or her own right, or as the spouse or partner of the person granted the benefit); and
+  (b) is already a caregiver, or the principal caregiver, of a dependent child or children.
+(2) An additional dependent child aged 1 or over must not be included in the determination for the purposes of the definitions of part-time work-tested beneficiary, work-tested domestic purposes beneficiary, work-tested spouse or partner, and work-tested widow’s beneficiary in section 3(1) and section 60Q(1) of—
+  (a) the age of the youngest dependent child of the beneficiary parent concerned; and
+  (b) whether the beneficiary parent concerned has a dependent child or children under 5 or 14 (and if so, how many).
+(3) Subsection (2) may apply to 2 or more additional dependent children of the same beneficiary parent.
+(4) The chief executive may apply this section in relation to any dependent child or children of whom a person who already has any dependent child or children becomes a caregiver, or the principal caregiver, if satisfied that—
+  (a) the person's situation is analogous to that of a person to whom subsection (1) applies; or
+  (b) to do so would best achieve the purpose stated in section 60GAD.
+(5) An example of a situation that is analogous to that of a person to whom section 60GAE(1) applies is that of a woman who gives birth during a period when she has temporarily ceased receiving a benefit (whether in her own right, or as the spouse or partner of the person granted the benefit).
+(6) Subsection (5) does not limit the generality of subsection (4).
+
+### 60GAF Chief executive may refrain from applying section 60GAE
+The chief executive may refrain (for any period he or she thinks fit) from applying section 60GAE in relation to any additional dependent child or children (within the meaning of that section) if satisfied in any particular case that—
+  (a) to do so would best achieve the purpose stated in section 60GAD; or
+  (b) there are circumstances beyond the control of the beneficiary parent concerned making it inappropriate or unreasonable to apply that section.
+
 ### 60GA Purposes of sections 60H to 60M
 [Repealed]
 
@@ -1418,168 +1450,60 @@ From the time that payment of the sickness benefit commences, the spouse or part
 [Repealed]
 
 ### 60O Interpretation
-In sections 60P to 60Z, unless the context otherwise requires,—
-  - **chief executive** includes—
-    (a) an officer of the department acting under a delegation from the chief executive; and
-    (b) a person authorised by the chief executive to act on behalf of the chief executive (except in sections 60U to 60Y)
-  - **employment plan** means a plan that—
-    (a) has goals to assist the beneficiary to move towards employment:
-    (b) sets out a plan of action designed to meet the goals referred to in paragraph (a), including the activities that will be undertaken by the beneficiary to facilitate the achievement of those goals:
-    (c) includes a statement of the information the department will provide to assist the beneficiary to do 1 or more of the following:
-      (i) achieve the goals referred to in paragraph (a):
-      (ii) improve his or her employment capabilities:
-      (iii) obtain employment:
-    (d) includes, if agreed to by the chief executive, a statement of the assistance that the department will provide to assist the beneficiary to do 1 or more of the things described in paragraph (c)(i) to (iii).
+[Repealed]
 
-### 60P Purpose of sections 60Q to 60Z
-The purpose of sections 60Q to 60Z is—
-  (a) to facilitate the movement of domestic purposes beneficiaries (other than work-tested domestic purposes beneficiaries) and widows' beneficiaries, and the spouses and partners (other than work-tested spouses or partners) of emergency, invalids', sickness, and unemployment beneficiaries, into ongoing employment as their parenting responsibilities and individual circumstances allow:
-  (ab) to facilitate the movement of invalids' beneficiaries and sickness beneficiaries (other than work-tested sickness beneficiaries) into employment as their disability-related or medical conditions, and circumstances, allow:
-  (b) to provide opportunities for those beneficiaries to improve their capabilities for employment:
-  (c) to improve social and economic outcomes for those beneficiaries and their dependent children.
+### 60P Purposes of section 60Q
+The purposes of section 60Q are—
+  (a) to facilitate the movement into ongoing employment (as their parenting responsibilities and individual circumstances allow) of beneficiaries to whom that section applies; and
+  (b) to provide opportunities for them to improve their capabilities and preparation for employment; and
+  (c) to improve social and economic outcomes for them and their dependent children.
 
-### 60Q Employment plans
-(1) The chief executive may, from time to time, require a person to whom this section applies—
-  (a) to attend and participate in 1 or more interviews with the chief executive for any or all of the following purposes:
-    (i) identifying the matters referred to in subsection (2):
-    (ii) carrying out any of the activities referred to in any of paragraphs (ab) to (d):
-    (iii) any other purpose related to either of those purposes:
-  (ab) to undertake planning for employment:
-  (b) to develop, in co-operation with and with the assistance of the chief executive, an employment plan for the person based on the matters referred to in subsection (2):
-  (c) to co-operate with the chief executive in the conduct of any review of the person's employment plan under section 60S:
-  (ca) to undertake a work-related activity or programme included in the person's employment plan:
-  (cb) to undertake any activity or any rehabilitation (other than an activity or rehabilitation involving participation in work, voluntary work, activity in the community, or unpaid work experience, or medical treatment) the chief executive considers suitable for the beneficiary to improve the beneficiary's work-readiness or prospects for employment:
-  (d) to develop, in co-operation with and with the assistance of the chief executive, a new employment plan for the person, if the chief executive considers that, because of a substantial change to the person's circumstances, the person's existing employment plan is inappropriate and the person requires a new employment plan.
-(2) The matters referred to in subsection (1) are—
-  (a) any features of the person's individual circumstances or parenting responsibilities that may affect the ability of the person to obtain employment; and
-  (b) any specific constraints arising from those circumstances or responsibilities that the person may have in obtaining and sustaining employment; and
-  (c) any practical assistance the person requires to enable the person to support himself or herself through employment; and
-  (d) the person's skills and experience (including those developed through unpaid work) that are relevant to facilitating the most effective path to enable the person to obtain employment.
-(3) For the purposes of this section and sections 60R to 60Z, unless the context otherwise requires,—
-  (a) a person who is required to develop an employment plan does not complete his or her development of the employment plan unless the person signs it:
-  (b) a document developed by any person as his or her employment plan is not an employment plan unless he or she signs it:
-  (c) an employment plan developed in accordance with section 60W(3) or section 60Y(4)(b) is, unless the context otherwise requires, to be treated as an employment plan developed under subsection (1)(d).
-(3A) A person—
-  (a) cannot be required to include in his or her employment plan provisions relating to his or her undertaking activity in the community; and
-  (b) cannot be required under subsection (1) to undertake activity in the community (whether or not it is included in his or her employment plan).
-(3B) Subsection (3A)(a) does not prevent the inclusion in a person's employment plan of provisions relating to his or her undertaking activity in the community.
-(4) An employment plan does not create any rights or obligations that are enforceable in a court or tribunal.
-(5) Nothing in subsection (4) affects section 10A or sections 12J to 12R.
-(6) This section applies to every person (other than a person for the time being exempted under subsection (7)) who—
-  (a) is the recipient of—
-    (i) a benefit under section 21 (the widow's benefit); or
-    (ii) a benefit under section 27B (the domestic purposes benefit for solo parents) if the recipient has a dependent child under the age of 6 years; or
-    (iii) a benefit under section 27C (the domestic purposes benefit for women alone); or
-    (iv) a benefit under section 40 (the invalid's benefit); or
-    (v) a benefit under section 54 (the sickness benefit), unless the person is a work-tested sickness beneficiary; or
-  (b) is the spouse or partner of a person who—
+### 60Q Certain obligations may be placed on beneficiaries and their spouses and partners
+(1) This section applies to every person (other than a person who is a work-tested beneficiary or is for the time being exempted under section 105) who—
+  (a) is the recipient of a benefit under section 21 (the widow's benefit) and has a youngest dependent child under the age of 5 years; or
+  (b) is the recipient of a benefit under section 27B (the domestic purposes benefit for solo parents) and has a youngest dependent child under the age of 5 years; or
+  (c) is the spouse or partner of a person who—
     (i) is the recipient of an emergency benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit; and
-    (ii) has a dependent child aged under 6.
-(7) The chief executive may, on the grounds of severe disability or sickness, exempt a person receiving an invalid's benefit from the application of this section.
+    (ii) has a youngest dependent child aged under 5 years.
+(2) A person to whom this section applies has a general obligation to take all steps that are reasonably practicable in his or her particular circumstances to prepare for employment and (in particular) an obligation to comply with any requirement under subsection (3).
+(3) The chief executive may, from time to time, require a person to whom this section applies—
+  (a) to undertake planning for employment:
+  (b) to participate in or undertake (as the case requires) any of the following activities specified by the chief executive that the chief executive considers suitable to improve his or her work-readiness or prospects for employment:
+    (i) a work assessment:
+    (ii) a programme or seminar to increase particular skills or enhance motivation:
+    (iii) a work-experience or work-exploration activity:
+    (iv) employment-related training:
+    (v) an education programme:
+    (vi) any other activity (including rehabilitation) other than medical treatment, voluntary work, or activity in the community.
 
-### 60R Developing and reviewing employment plans
-(1) An employment plan should be—
-  (a) developed by the beneficiary with the assistance of the chief executive:
-  (b) a plan that is acceptable to the beneficiary and that the beneficiary is willing to sign.
-(2) If, despite reasonable efforts by the chief executive, the beneficiary does not co-operate in the prompt development of an employment plan or does not sign it, the chief executive may conclude that the beneficiary has failed to comply with a requirement under section 60Q(1).
-(3) At any time after an employment plan is signed, a beneficiary or the chief executive, may ask for a review of the employment plan, but, until a review is completed, the beneficiary must demonstrate commitment to the employment plan in its current form.
-(4) If a beneficiary or the chief executive asks for a review of the beneficiary's employment plan,—
-  (a) the beneficiary, in co-operation with and with the assistance of the chief executive, must review the employment plan as soon as practicable; and
-  (b) the beneficiary—
-    (i) may confirm the employment plan by signing it; or
-    (ii) may amend the employment plan by signing a revised version of it that includes the amendments.
+### 60R Department to explain obligations to beneficiaries
+The chief executive must take reasonable and appropriate steps to make every person who is subject to obligations under section 60Q aware of—
+  (a) those obligations; and
+  (b) the consequences of failure to comply with them and (in particular) the sanctions that may be imposed under this Act for failing to comply with them.
 
 ### 60S Beneficiary must demonstrate commitment to employment plan at review
-(1) This section applies to a beneficiary who has signed an employment plan developed in accordance with a request under section 60Q(1).
-(2) The chief executive may, at any reasonable time after the beneficiary's current employment plan was signed or last reviewed, review it with the beneficiary.
-(3)
-(4) At any review of the employment plan, the chief executive may require the beneficiary to demonstrate that, during the period under review, the beneficiary has had a commitment to the goals set out in that plan and in any other employment plan in effect during that period.
-(5) The chief executive determines whether a beneficiary has demonstrated a commitment to achieving the goals set out in an employment plan during any period by considering the overall response of the beneficiary to those goals and to the action plan included in the employment plan, having regard to,—
-  (a) the extent to which the beneficiary has—
-    (i) undertaken the activities set out in that employment plan; or
-    (ii) undertaken any other activities relevant to the goals set out in that employment plan; and
-  (b) if the beneficiary has failed to undertake any or all of the activities set out in the employment plan, whether those activities were realistically achieveable during the period under consideration.
-(5A) When considering whether a beneficiary has demonstrated commitment to the goals in their employment plan, the chief executive must not have any regard to whether the beneficiary has failed or refused to undertake activity in the community.
-(6)
+[Repealed]
 
 ### 60T Department must explain rights and obligations in relation to employment plans
-The chief executive must take reasonable and appropriate steps to make every beneficiary aware, before the beneficiary signs an employment plan, of—
-  (a) the beneficiary's obligations that arise from payment of a benefit and the beneficiary's right to assistance to develop or review an employment plan; and
-  (b) the effect and consequences of signing an employment plan; and
-  (c) the consequences of failure to comply with a requirement under section 60Q(1) or to demonstrate commitment to the goals of the employment plan and, in particular, the sanctions that may be imposed under section 60Y; and
-  (d) the beneficiary's right under section 60R(3) to ask for a review of his or her employment plan; and
-  (e) the beneficiary's right under sections 10A and 12J to review and appeal decisions relating to the employment plan.
+[Repealed]
 
 ### 60U Failure to comply with employment plan obligations
-(1) The chief executive must impose the sanctions set out in section 60Y on a beneficiary if the chief executive considers that a beneficiary has, without a good and sufficient reason,—
-  (a) failed to comply with a requirement under section 60Q(1); or
-  (ab) failed to comply with a request under section 60HA; or
-  (b) failed to demonstrate commitment to the goals in the beneficiary's employment plan.
-(2) Before determining that there is a failure by the beneficiary and that the failure is a failure without good and sufficient reason, the chief executive must—
-  (a) review the beneficiary's employment plan (if the beneficiary has one) to determine whether it is appropriate; and
-  (b) apply the procedure in section 60V.
-(3) For the purposes of this section and sections 60V and 60W, a beneficiary has a good and sufficient reason for failing to demonstrate commitment to achieving the goals set out in an employment plan if—
-  (a) the undertaking by the beneficiary of any activities set out in the employment plan was dependent on the department taking any action or providing any assistance specified in the employment plan; and
-  (b) the department did not take that action or supply that assistance, or did not do so to the extent or in the manner specified in the employment plan.
-(4) Subsection (3) does not limit the circumstances in which a beneficiary has a good and sufficient reason for failing to demonstrate commitment to the goals set out in an employment plan.
+[Repealed]
 
 ### 60V Procedure for determining whether failure is without good and sufficient reason
-(1) This section applies if the chief executive is considering whether sanctions must be imposed on a beneficiary under section 60Y.
-(2) If this section applies, the chief executive must set a review period of 30 working days during which the chief executive must give the beneficiary (and any support person of the beneficiary's choice) an opportunity to meet with the chief executive.
-(3) The purposes of the meeting and review period under subsection (2) are—
-  (a) to ascertain whether there is a failure by the beneficiary and, if so, the reasons for the beneficiary's failure, and whether those reasons are good and sufficient reasons:
-  (b) in the case of a failure to comply with a requirement under section 60Q(1), to give the beneficiary a further opportunity to remedy the failure within that period:
-  (c) in the case of a failure to demonstrate commitment to the goals set out in the beneficiary's employment plan, to give the beneficiary the opportunity to co-operate in developing a new employment plan within that period.
+[Repealed]
 
 ### 60W Failure without good and sufficient reasons
-(1) If, during the review period set under section 60V(2), the beneficiary fails to take advantage of the opportunity given to him or her, and the chief executive considers that the reasons (if any) given by the beneficiary for the failure to remedy an initial failure are not good and sufficient reasons, the chief executive may,—
-  (a) in the case of a beneficiary who has failed to comply with a requirement under section 60Q(1), require the beneficiary to remedy the failure to comply within a further period of 20 working days; or
-  (b) in the case of a beneficiary who has failed to demonstrate commitment to the goals in the beneficiary's employment plan, require the beneficiary to undertake to the satisfaction of the chief executive, within a further period of 20 working days, a specified activity that the chief executive considers suitable.
-(2) If the beneficiary does not comply with a requirement under subsection (1)(a) within the required period, the chief executive may consider that the beneficiary has failed without a good and sufficient reason to comply with a requirement under section 60Q(1).
-(3) If the beneficiary does not comply with a requirement under subsection (1)(b) within the required period, the chief executive may consider the beneficiary has failed to demonstrate commitment to the goals in the beneficiary's employment plan unless, within the period, the beneficiary develops a new employment plan.
-(4) In this section, specified activity—
-  (a) means—
-    (i) an activity in the beneficiary's current employment plan; or
-    (ii) a pre-employment activity (being an activity designed to prepare a person for employment); but
-  (b) does not include any activity that requires the beneficiary to seek employment or undertake any work.
+[Repealed]
 
 ### 60X Procedure for imposing sanctions
-(1) This section applies if a sanction is to be imposed on a beneficiary under section 60Y.
-(2) If this section applies, the chief executive must not reduce a benefit payable to a beneficiary unless the chief executive has first given the beneficiary written notice—
-  (a) stating that the beneficiary has failed to comply with a specified obligation under this Act; and
-  (b) specifying the nature of that failure; and
-  (c) stating that, because of that failure, the chief executive is reducing the benefit payable to the beneficiary; and
-  (d) specifying a date on which the reduction is to take effect, and the nature and duration of the reduction; and
-  (e) stating that the beneficiary has 10 working days from the giving of the notice to dispute the reduction; and
-  (f) advising the beneficiary to contact the department if the beneficiary wants to dispute or discuss the decision to reduce the benefit; and
-  (g) containing a clear statement of the beneficiary's right, under section 10A, to apply for a review of the decision, and of the procedure for applying for a review.
-(3) Section 114 applies with all necessary modifications to notices under this section.
+[Repealed]
 
 ### 60Y Sanctions for failure to comply with obligations in relation to employment plan
-(1) The sanctions that the chief executive must apply in respect of a failure under section 60U are:
-  (a) the person's benefit must be reduced by 20% until the person complies; and
-  (b) if, after 4 weeks from the date on which the reduction under paragraph (a) takes effect, the person has not complied, the benefit must be reduced by a further 30% (so that the total reduction is 50%) until the person complies.
-(1A) A reduction under subsection (1),—
-  (a) in the case of an emergency benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit, that is payable at the rate for a person who is married or in a civil union or de facto relationship, applies to only half the benefit (but the beneficiary's spouse or partner is, subject to the appropriate income test applied at half its abatement rate, entitled to receive the other half of the benefit); and
-  (b) in any other case, applies to the whole of the benefit payable to the beneficiary.
-(2) A reduction under subsection (1) applies to the rate of benefit payable to the beneficiary after any abatement on account of income.
-(3) The reduction of the benefit must not take effect before the close of the 10 working days specified in the notice under section 60X(2)(e).
-(4) For the purposes of this section and section 60Z, a person complies if the person—
-  (a) remedies the relevant failure; or
-  (b) if the person has been required to undertake an activity specified by the chief executive, undertakes that activity to the satisfaction of the chief executive, or develops a new employment plan.
-(5) This section is subject to section 60Z.
+[Repealed]
 
 ### 60Z Effect of compliance or agreement to comply
-(1) If a person complies, the reduction applied to the person's benefit ceases and the person is entitled to be paid the benefit at the rate otherwise payable on and after the date that the person's benefit was first reduced under section 60Y.
-(2) Subject to subsection (4), if a person (other than a person to whom sanctions are being applied under subsection (4)(a)) agrees to comply within a period set by the chief executive, the reduction applied to the person's benefit ceases and the person is entitled to be paid the benefit at the rate otherwise payable on and after the date that the person's benefit was first reduced under section 60Y.
-(3) The chief executive must give to every person to whom subsection (2) applies a notice that—
-  (a) confirms the agreement under subsection (2); and
-  (b) states the period for compliance set under subsection (2) (which must be a period of not less than 10 working days from the date the notice is given in accordance with section 114, which applies with all necessary modifications).
-(4) If a person who has agreed to comply fails to do so within the period set under subsection (2) and the chief executive considers that the person does not have a good and sufficient reason for the failure,—
-  (a) the chief executive must apply the sanctions set out in section 60Y(1), which applies with the following modifications:
-    (i) if the person's benefit was subject to a reduction of 20% under section 60Y(1)(a) immediately before the reduction ceased under subsection (2), that benefit must again be reduced by 20% under section 60Y(1)(a) and, if the person has not complied after 4 weeks from the date on which that subsequent reduction takes effect, the amount of that reduction must be increased under section 60Y(1)(b):
-    (ii) if the person's benefit was subject to a reduction of 50% under section 60Y(1)(b) immediately before the reduction ceased under subsection (2), that benefit must again be reduced by 50% under section 60Y(1)(b):
-  (b) the chief executive is not required to comply with sections 60V to 60X before applying those sanctions, and section 60Y(3) does not apply.
+[Repealed]
 
 **Emergency benefits**
 
@@ -2872,11 +2796,16 @@ In this Part, unless the context otherwise requires,—
 [Repealed]
 
 ### 96A Unemployment benefit: pre-benefit activities
-(1) This section applies to a person who contacts the department requesting financial assistance on or after the commencement of this section.
-(2) If the chief executive considers that the appropriate financial assistance for the person would be an unemployment benefit, the chief executive may (for the purpose stated in section 1A(a)(ii)) require him or her to do any or all of the following:
+(1) This section applies to a person if—
+  (a) he or she contacts the department requesting financial assistance after the commencement of this section; and
+  (b) the chief executive considers that the appropriate financial assistance for him or her would be an unemployment benefit.
+(2) The chief executive may (for the purpose stated in section 1A(a)(ii)) require a person to whom this section applies to do any or all of the following:
   (a) undertake 1 or more stated pre-benefit activities:
   (b) at any time before an unemployment benefit commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
   (c) at any time before an unemployment benefit commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
+(2A) For the purposes of subsection (2), suitable employment,—
+  (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of section 21A or 27CA, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
+  (b) in relation to any other person, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a work-tested beneficiary.
 (3) A requirement under subsection (2) may be oral or written.
 (4) A pre-benefit activity stated under subsection (2)(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
 (5) The chief executive is not required to investigate the person's claim for an unemployment benefit under section 12 unless satisfied that the person has undertaken any required pre-benefit activities.
@@ -3055,14 +2984,14 @@ The purpose of sections 102 to 123D is—
   (c) if, in granting the deferral, the chief executive required the person to participate in 1 or more organised activities, that requirement continues to apply as if the organised activities were job seeker development activities.
 
 ### 105 Exemption from obligations
-(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations or obligations under section 170 or 171 or from complying with section 60HA.
+(1) A person of a category specified in regulations made under section 123D may apply to the chief executive for an exemption from some or all of his or her work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 or from complying with section 60HA.
 (2) The chief executive may grant the exemption on any ground specified in regulations made for the purpose under section 123D.
 (3) Before determining the application, the chief executive may require verification of matters relevant to the application in such manner as the chief executive specifies, either generally or specifically.
 (4) An exemption under this section may be granted—
   (a) for a time set by the chief executive; or
   (b) on conditions set by the chief executive; or
   (c) for both a time and on conditions set by the chief executive.
-(5) A beneficiary who has been granted an exemption from all of his or her work test obligations or obligations under section 170 or 171 may be required to attend an interview with an officer of the department or other person on behalf of the chief executive. Failure to attend or participate in the interview may result in sanctions under section 117 or (as the case requires) section 173 or 174 being imposed.
+(5) A beneficiary who has been granted an exemption from all of his or her work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 may be required to attend an interview with an officer of the department or other person on behalf of the chief executive. Failure to attend or participate in the interview may result in sanctions under section 117 or (as the case requires) section 173 or 174 being imposed.
 (5A) A person granted an exemption must notify the chief executive as soon as practicable of any change in the person's circumstances that may affect his or her entitlement to the exemption.
 (6) The chief executive may from time to time review an exemption granted under this section, and may extend, vary, or revoke it.
 (7) The chief executive may grant an exemption under this section whether or not a formal application is made by or on behalf of the person to whom it relates.
@@ -3162,8 +3091,11 @@ A notice may be given under section 113 to a person—
 ### 116 Failure to participate in activity under section 60HA
 [Repealed]
 
+### 116A Failure to comply with obligations under section 60Q(2)
+The sanctions stated in section 117 must be imposed on a person on whom an obligation has been imposed under section 60Q(2) if the chief executive considers that the person has, without a good and sufficient reason, failed to comply with it.
+
 ### 117 Sanctions that may be imposed for failures
-(1) The sanctions that the chief executive must apply in respect of failures under section 115 are,—
+(1) The sanctions that the chief executive must apply in respect of failures under section 115 or section 116A are,—
   (a) for a first failure,—
     (i) the person's benefit must be reduced by 50% until the person recomplies; and
     (ii) if the person has not recomplied within 4 weeks after the date on which the reduction took effect, the person's benefit must be reduced by a further 50% (so that the total reduction is 100%) until the person recomplies:
@@ -3185,7 +3117,7 @@ A notice may be given under section 113 to a person—
   (b) may not count any failure if—
     (i) it is not of a kind to which that particular section applies; or
     (ii) it occurred more than 12 months before the failure for which the calculation is made if, during that period, that beneficiary has not incurred a failure to which any of those sections applies.
-(2) For the purpose of subsection (1)(b)(ii), a failure under section 115 is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
+(2) For the purpose of subsection (1)(b)(ii), a failure under section 115 or section 116A is considered to have occurred on the date the chief executive decides he or she is satisfied the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate work test obligation or other obligation imposed by this Act.
 (3) In determining whether a benefit has been continuously paid in respect of the beneficiary, the chief executive must disregard any period during which the benefit was cancelled or suspended because the beneficiary commenced in employment that continued for less than 10 working days.
 (3A) For the purpose of subsection (1)(a), the chief executive must treat an unemployment benefit that expires under section 99AA, and an unemployment benefit re-granted to the beneficiary under section 99AB, as the same benefit.
 (4) Nothing in subsection (1)(b)(ii) affects the implementation, after the 12-month period, of a sanction based on any prior calculation of the number of failures by a person to comply with the appropriate work test obligation or other obligation imposed by this Act.
@@ -3214,7 +3146,7 @@ Where under section 60H or section 117 the payment of a benefit of a person who 
 **General provisions**
 
 ### 122 Meaning of recompliance
-In relation to a failure under section 115, a person recomplies (for the purpose of section 117) if the person remedies the relevant failure or, if it is not possible to remedy the failure, the person undertakes to the satisfaction of the chief executive,—
+In relation to a failure under section 115 or section 116A, a person recomplies (for the purpose of section 117) if the person remedies the relevant failure or, if it is not possible to remedy the failure, the person undertakes to the satisfaction of the chief executive,—
   (a) in the case of a work-tested beneficiary, an activity that is the same as, or substantially similar to, the activity that the person failed to comply with under the applicable work test obligation; or
   (b)
 
@@ -3264,7 +3196,7 @@ In relation to a failure under section 115, a person recomplies (for the purpose
 
 ### 123D Regulations
 Without limiting the general power to make regulations conferred by section 132, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations or obligations under section 170 or 171 or the obligation to comply with section 60HA and specifying the grounds on which exemptions may be granted for each of those categories.
+  (a) specifying the categories of persons who may be exempted under section 105 from some or all of their work test obligations, or obligations under section 60Q, or obligations under section 170 or 171 or the obligation to comply with section 60HA and specifying the grounds on which exemptions may be granted for each of those categories.
   (b)
   (c)
 
@@ -4184,13 +4116,13 @@ The chief executive may grant a young parent payment under section 165 or 166 to
 ### 171 Obligations of spouses and partners of specified beneficiaries
 (1) A young person who is aged 16 or 17 years and is without dependent children and is the spouse, or civil union or de facto partner, of a specified beneficiary—
   (a) is subject to the obligations set out in section 170(1)(a) and (b), (d) to (f), and (g)(i) as if he or she were receiving a youth payment; and
-  (b) is not subject to the work test or to employment plan obligations under section 60Q.
+  (b) is not subject to the work test or to obligations under section 60Q.
 (2) A young person who is aged 16 to 18 years, has a dependent child or children, and is the spouse, or civil union or de facto partner, of a specified beneficiary—
   (a) is subject to the obligations set out in section 170(1)(a) to (f) and (g)(i), and 170(2) as if he or she were receiving a young parent payment; and
-  (b) is not subject to the work test or to employment plan obligations under section 60Q.
+  (b) is not subject to the work test or to obligations under section 60Q.
 (3) A failure without good and sufficient reason to comply with any of the obligations placed on a young person under this section,—
   (a) for a young person who would, but for subsection (1)(b) or (2)(b), be subject to the work test, is a failure to comply with the work test for the purposes of section 117; and
-  (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to employment plan obligations under section 60Q, is a failure to comply with section 60Q(1) for the purposes of section 60U.
+  (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to obligations under section 60Q, is a failure to comply with section 60Q(2) for the purposes of section 116A.
 
 ### 172 Department to explain obligations to young person
 The chief executive must take reasonable and appropriate steps to make every young person who is subject to obligations under section 170 or 171 aware of—
@@ -5325,3 +5257,13 @@ This Act amends the Social Security Act 1964 (the principal Act).
   (b) in accordance with any other requirements imposed by the regulations.
 (4) After it has initially been granted, financial assistance provided under the regulations must for the purposes of the principal Act be treated as a benefit; and the principal Act applies accordingly.
 (5) A decision or determination made by the chief executive under the regulations is a decision or determination for the purposes of section 12J(1) of the principal Act.
+
+## Part 4 — Consequential provisions taking effect on 15 October 2012
+
+### 49 Employment plans and certain sanctions cease to have effect
+On the commencement of this Part of this Act, the following cease to have effect if they were in force immediately before that commencement:
+  (a) all employment plans under former section 60R of the principal Act:
+  (b) all reviews of an employment plan commenced under former section 60S, 60U, or 60V of the principal Act:
+  (c) all requirements under former section 60W of the principal Act:
+  (d) all notices under former section 60X of the principal Act:
+  (e) all sanctions under section 60Y or 60Z of the principal Act.
