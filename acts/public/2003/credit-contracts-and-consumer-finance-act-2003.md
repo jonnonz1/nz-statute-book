@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-10-24_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1035,6 +1035,9 @@ The following provisions of the Commerce Act 1986 apply with all necessary modif
   (c) section 98 (Commission may require person to supply information or documents or give evidence):
   (d) sections 98A and 98G (Commission's powers of search and seizure):
   (e) section 99 (powers of Commission to take evidence):
+  (ea) sections 99B to 99P (assistance to overseas regulators), as if—
+    (i) references in those sections to competition law were references to consumer credit law; and
+    (ii) references in those sections to the Minister were references to the Minister of Consumer Affairs:
   (f) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
   (g) section 100A (Commission may state case for opinion of High Court):
   (h) sections 101 (notices) and 102 (service of notices):
