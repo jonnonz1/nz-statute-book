@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-10-24_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -276,6 +276,9 @@ The following provisions of the Commerce Act 1986 apply with any necessary modif
   (f) section 98 (Commission may require person to supply information or documents or give evidence):
   (g) subject to section 16, sections 98A and 98G (Commission's powers of search and seizure):
   (h) section 99 (powers of Commission to take evidence):
+  (ha) sections 99B(a) and 99C to 99P (assistance to overseas regulators), as if—
+    (i) references in those sections to competition law functions, or functions in relation to competition law, were references to functions relating to the regulation of telecommunications; and
+    (ii) references in those sections to the Minister were references to the Minister responsible for telecommunications:
   (i) section 100 (powers of Commission to prohibit disclosure of information, documents, and evidence):
   (j) section 100A (Commission may state case for opinion of High Court):
   (k) sections 101 (notices) and 102 (service of notices):
