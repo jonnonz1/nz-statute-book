@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2012-08-20_
+_Consolidation as at 2012-10-24_
 
 > An Act to reform the administration of education
 
@@ -7265,7 +7265,7 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) increase the value or maximum value of any allowance, or the rate or maximum rate at which any allowance may be paid; or
   (b) extend the class or classes of person entitled to receive an allowance, or entitled to be paid an allowance at any particular rate.
 (3B) The rates of student allowances set under this section (except the rates of allowances provided in respect of accommodation expenses) must be adjusted, by regulations made under subsection (1), as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by an amount equal to the percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
-(3C) The adjustments (by any percentage movement upwards in the CPI) required under subsection (3B) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (3B) and (3F), be calculated,—
+(3C) The adjustments (by any percentage movement upwards in the CPI) required under subsection (3B) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (3B) and (3F), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (3D) An adjustment under subsection (3B) must not reduce the weekly amounts of student allowances payable.
