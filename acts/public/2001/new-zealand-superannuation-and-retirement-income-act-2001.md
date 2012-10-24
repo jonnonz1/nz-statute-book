@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2012-04-01_
+_Consolidation as at 2012-10-24_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -132,7 +132,7 @@ No person is entitled to New Zealand superannuation unless the person—
   - **CPI** means the consumers price index-all groups published by Statistics New Zealand
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in section 24B of the Tax Administration Act 1994.
 (2) Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and paragraph (b) of clause 2 of Schedule 1 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
-(2A) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (1) and (2), be calculated,—
+(2A) The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April in any year from 2011 to 2017 (inclusive) must, despite subsections (1) and (2), be calculated,—
   (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (3) Every Order in Council made under subsection (2) must adjust the rates of New Zealand superannuation, subject to subsection (4),—
