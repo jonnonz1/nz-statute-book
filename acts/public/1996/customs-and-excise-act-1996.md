@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-10-24_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1436,6 +1436,9 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (3) No new rate of excise duty or excise-equivalent duty imposed on any goods under subsection (1) shall exceed a rate calculated in accordance with the following formula: a× c b where—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula; andcis the existing rate of duty in respect of the goods to which the order relates.
   (i) the quarter ending on 31 March in the calendar year in which the order is to come into force, in the case of an order relating to alcoholic beverages; or
   (ii) the quarter ending on 30 September immediately before the calendar year in which the order is to come into force, in the case of an order relating to tobacco products; and
+(3A) If an Order in Council is made under subsection (1), changes the rates of excise duty and excise-equivalent duty for tobacco products, and comes into force on 1 January in 2013, 2014, 2015, or 2016, then despite subsections (1) to (3),—
+  (a) every new rate of excise duty or excise-equivalent duty that the Order in Council imposes on a tobacco product is calculated by adding 10% of the existing rate of duty on the product to the result achieved by applying the formula in subsection (3); and
+  (b) the Order in Council must be called (as the case requires) an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2012, 2013, 2014, or 2015.
 (4) In this section,—
   - **alcoholic beverages** means goods that are—
     (a) goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of the Excise and Excise-equivalent Duties Table, not being goods that are exempt from excise duty and excise-equivalent duty; or
@@ -1444,6 +1447,14 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 
 ### 79AA Increases of 10% on 1 January 2011 and 2012 must be made in or by Excise and Excise-equivalent Duties Table (Tobacco Products Indexation or Other) Amendment Orders 2010 and 2011
 [Repealed]
+
+### 79AB Rates of duties for tobacco products increased by 10% if not indexed on 1 January in 2013 to 2016
+(1) This section, in accordance with section 76G(1), amends the Excise and Excise-equivalent Duties Table.
+(2) A rate in that Table is amended by this section only if the rate is one that is—
+  (a) a rate of excise duty or excise-equivalent duty on a tobacco product (as defined in section 79(4)); and
+  (b) in force immediately before 1 January in 2013, 2014, 2015, or 2016; and
+  (c) not changed on that date by an Order in Council made under section 79(1) and (3A).
+(3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
 
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
@@ -4711,39 +4722,3 @@ Until the close of 30 June 2009, section 68A(2)(d) of the principal Act, as inse
 
 ### 24 Transitional provision relating to appeals against seizure
 Sections 231 to 235 of the principal Act, as in force before the commencement of section 16 of this Act, continue to apply in respect of goods seized, under section 226 of the principal Act, before the commencement of section 16 of this Act.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
