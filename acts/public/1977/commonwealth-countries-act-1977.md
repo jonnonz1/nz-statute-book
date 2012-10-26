@@ -1,5 +1,5 @@
 # Commonwealth Countries Act 1977
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2012-10-26_
 
 > An Act to enable the membership of the Commonwealth to be more easily ascertained, to provide for the continued operation of New Zealand law with respect to certain Commonwealth countries, and to provide for the continued operation of New Zealand law with respect to the Republic of Ireland as if it were a Commonwealth country
 
