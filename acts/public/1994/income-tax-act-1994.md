@@ -1,5 +1,5 @@
 # Income Tax Act 1994
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-11-02_
 
 | The Income Tax Act 1994 is not available on this website. For more information, see http://www.legislation.govt.nz/about.aspx#whatisprovided |
 | --- |
