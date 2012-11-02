@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-11-02_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1796,7 +1796,7 @@ The Commissioner may at any time adjust the previously determined value of a ben
 
 ### CE 5 Meaning of expenditure on account of an employee
 Meaning
-(1) Expenditure on account of an employee means a payment made by an employer relating to expenditure incurred by an employee.
+(1) Expenditure on account of an employee means a payment made by an employer relating to expenditure incurred by an employee or to be incurred by an employee.
 Inclusion
 (2) Expenditure on account of an employee includes a premium that an employer pays on a life insurance policy taken out for the benefit of the employee (or their spouse, civil union partner or de facto partner or their child). This subsection is overridden by subsection (3)(f) to (i).
 Exclusions
@@ -3234,7 +3234,7 @@ The following are exempt income:
 
 ### CW 13 Expenditure on account, and reimbursement, of employees
 Exempt income: expenditure on account
-(1) Expenditure on account of an employee incurred by an employer in connection with the employee's employment or service is exempt income of the employee to the extent to which the expenditure is expenditure for which the employee would be allowed a deduction if they incurred the expenditure and if the employment limitation did not exist.
+(1) Expenditure on account of an employee, being a payment to which section CE 5 (Meaning of expenditure on account of an employee) applies, that is incurred by an employer in connection with the employee's employment or service is exempt income of the employee to the extent to which the expenditure is expenditure for which the employee would be allowed a deduction if they incurred the expenditure and if the employment limitation did not exist.
 Exempt income: reimbursement
 (2) An amount that an employer pays to an employee in connection with the employee's employment or service is exempt income of the employee to the extent to which it reimburses the employee for expenditure for which the employee would be allowed a deduction if the employment limitation did not exist.
 Estimated expenditure of employees
@@ -5225,6 +5225,18 @@ Definition of items in formula
 Link with subpart DA
 (5) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
+### DB 31B Expenditure in unsuccessful development of software
+When this section applies
+(1) This section applies when a person incurs expenditure in the development of software for use in the person's business if—
+  (a) the development of the software is abandoned before the software is fit to be used in the person's business; and
+  (b) the person would have been entitled to a deduction for an amount of depreciation loss for the software if the software had been made fit to be used in the person's business.
+Deduction
+(2) The person is allowed a deduction for the expenditure incurred in the development of the software to the extent to which no deduction has been allowed for the expenditure under another provision of this Act or under another Act.
+Timing of deduction
+(3) The deduction is allocated to the income year in which the development of the software is abandoned.
+Link with subpart DA
+(4) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
 ### DB 32 Gifts of money by company
 Who this section applies to
 (1) This section applies to—
@@ -5711,11 +5723,13 @@ Purchase price when trustee buys shares
 Definitions
 (1) In this section, and in sections DC 11 to DC 13,—
   - **employee** —
-    (a) means a person employed by a company; and
+    (a) means a person that—
+      (i) is employed by a company:
+      (ii) is not a corporation sole, a body corporate, or an unincorporated body:
     (b) does not include—
       (i) a director of the company; or
-      (ii) a person who, with any associated person, holds 10% or more of the issued capital of the company; or
-      (iii) a company, a local authority, a public authority, or an unincorporated body of persons
+      (ii) a person who, with any associated person, holds 10% or more of the issued capital of the company
+      (iii)
   - **employing company** , for an employee, means the company that employs the employee
   - **normal retiring age** means,—
     (a) for an employee other than one to whom paragraph (b) applies, no less than 60 years of age:
@@ -8164,8 +8178,8 @@ Closing value
 ### Subpart EC — Valuation of livestock
 
 ### EC 1 Application of this subpart
-What this subpart does
-(1) This subpart sets out the rules for valuing livestock not used in a dealing business.
+When this subpart applies
+(1) This subpart applies to the valuation of property when a person who owns or carries on a business, other than of selling livestock, holds livestock for the purposes of sale or exchange in the ordinary course of carrying on the business.
 Groups of livestock
 (2) For the purposes of this subpart, livestock is divided into—
   (a) specified livestock:
@@ -9904,7 +9918,7 @@ Amended assessment in same year
 Timing of deduction
 (1) A deduction for interest payable by a person to the Commissioner under Part 7 of the Tax Administration Act 1994 is allocated to the income year in which the person's original assessment is made. This subsection is overridden by subsection (2).
 Assessment made in same year as liability arises
-(2) If the original assessment is made in the same tax year as that to which the income tax liability relates, the deduction is allocated to the following income year.
+(2) If the original assessment is made in the same tax year as that to which the assessed liability relates, the deduction is allocated to the following income year.
 Effect of amended assessment
 (3) If the Commissioner amends the person's assessment, a deduction for interest payable (or overpaid interest repayable) to the Commissioner as a result of the amended assessment is allocated to the income year following the income year in which the Commissioner issues the notice of amended assessment. This subsection does not apply in the circumstances described in subsection (4).
 Terminal amended assessment
@@ -10982,7 +10996,7 @@ Timing of deduction
 
 ### EJ 2 Spreading forward of deductions for repairs to fishing boats
 When this section applies: generally
-(1) This section applies when a person who carries on a fishing business in New Zealand is allowed a deduction for expenditure incurred in making repairs or alterations required by Part 10 of the Maritime Transport Act 1994 to the equipment, hull, or machinery of a fishing boat used wholly for the purposes of the business.
+(1) This section applies when a person who carries on a fishing business in New Zealand is allowed a deduction for expenditure incurred in making repairs or alterations required by Part 21 of the Maritime Rules made under the Maritime Transport Act 1994 to the equipment, hull, or machinery of a fishing boat used wholly for the purposes of the business.
 When subsection (3) applies
 (2) Subsection (3) applies when the person does not cease to carry on the business before the end of the fourth tax year following the tax year in which the expenditure is incurred.
 Business not ceasing within 4 years
@@ -11000,7 +11014,7 @@ Business ceasing within 4 years
 Some definitions
 (6) In this section,—
   - **fishing boat** —
-    (a) means a boat registered as a fishing boat under Part 4 of the Fisheries Act 1983; and
+    (a) means a boat registered as a fishing vessel under section 103 of the Fisheries Act 1996; and
     (b) includes a small boat belonging to any boat that is so registered fishing business means a business of catching or taking fish, including crustaceans and shellfish, for the purposes of sale.
 
 ### EJ 3 Spreading forward of fertiliser expenditure
@@ -19850,6 +19864,9 @@ Rate
 (9) Rate is—
   (a) the portfolio investor rate for the investor for the portfolio allocation period, if paragraph (b) does not apply; or
   (b) 30%, if the entity is treated as the sole investor under section HL 16.
+(9B) For the purposes of subsection (9) and the determination of a person's prescribed investor rate, the person's taxable income does not include an amount that—
+  (a) arises because their portfolio investor rate is lower than their prescribed investor rate; and
+  (b) is treated as taxable income because section CX 44D does not apply.
 Days in allocation period
 (10) Days in allocation period is the number of days in the portfolio allocation period.
 Expenses
@@ -19859,9 +19876,7 @@ Expenses
 Rebates
 (12) Rebates is the amount of rebates of fees paid or credited by the entity to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
 Determining investors' prescribed investor rate
-(13) For the purposes of determining the item rate in subsection (9), the taxable income of the investor does not include an amount that—
-  (a) arises because their portfolio investor rate is lower than their prescribed investor rate; and
-  (b) is treated as taxable income because section CX 44D (Portfolio investor allocated income and distributions of income by portfolio investment entities) does not apply.
+(13)
 
 ### HL 21 Payments of tax by portfolio tax rate entity making no election
 When this section applies
@@ -27991,6 +28006,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **emigration time** , for an emigrating company, is the time at which the emigrating company becomes a non-resident
   - **employee** —
     (a) means a person who receives or is entitled to receive a source deduction payment:
+    (ab) for the purposes of the FBT rules, includes a shareholder-employee:
     (b) in sections CW 13, CW 13B, CW 13C, and CW 14 (which relate to expenditure, reimbursement, and allowances of employees),—
       (i) means a person who receives or is entitled to receive a source deduction payment; and
       (ii) includes a person to whom section OB 2(2) (Meaning of source deduction payment: shareholder-employees of close companies) applies:
