@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-11-02_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -126,6 +126,7 @@ This Act is the KiwiSaver Act 2006.
   - **New Zealand superannuation qualification age** means the age specified in section 7(1) of the New Zealand Superannuation and Retirement Income Act 2001, irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
   - **nominated person** , in relation to trustees, means a person nominated by the trustees and eligible to act as a nominated person under section 116H
   - **nominee** , in relation to a nominated person, means a person appointed by the nominated person and eligible to act as a nominee under section 116I
+  - **non-deduction notice** means a notice described in section 112B
   - **opt in** means to opt in to the overall KiwiSaver scheme as provided in sections 33 to 39
   - **opt out** means to opt out of the overall KiwiSaver scheme as provided in sections 16 to 21
   - **opt-out notice** means a notice given under section 17
@@ -326,7 +327,8 @@ An opt-out notice given in respect of one employment terminates the application 
   (b) his or her tax file number; and
   (c) whether or not he or she is already a member of a KiwiSaver scheme and, if that person is a member, must either—
     (i) give to his or her employer a KiwiSaver deduction notice; or
-    (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a contributions holiday that has not yet ended.
+    (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a contributions holiday that has not yet ended; or
+    (iii) give his or her employer a non-deduction notice.
 (2) That information must be given as soon as practicable after the person starts the new employment.
 (3) A person who is in temporary employment and who is a member of a KiwiSaver scheme may give their temporary employer a KiwiSaver deduction notice.
 
@@ -765,6 +767,7 @@ The Commissioner may give a notice to an employer requiring the deduction of con
 This subpart does not apply to an employer in respect of an employee, or to a payment of salary or wages,—
   (a) if section 20(2) has required the employer to stop making deductions after an opt-out; or
   (b) if the employee has given or shown the employer a notice of a contributions holiday, or the Commissioner has notified the employer of a contributions holiday, that has been granted under subpart 4, for so long as the employer is satisfied that the employee is on that contributions holiday; or
+  (bb) for the period that the employee has a valid non-deduction notice that they have given to their employer under section 112B; or
   (c) if, in accordance with the PAYE rules, no tax deduction is required to be made from the payment of salary or wages at the time the payment is made and the payment is not salary and wages for a private domestic worker.
 
 ### 63 Part also applies to PAYE intermediaries
@@ -886,7 +889,7 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 (3) Then the Commissioner must pay that amount to the provider of the person’s KiwiSaver scheme (without further authority than this section where that amount meets the requirements of section 73(1)).
 
 ### 78 Treatment of unremitted deductions in holding account
-To the extent that an amount referred to in section 73(1) is not paid to the Commissioner on or before the date on which the employer is required to pay the deduction to the Commissioner under section RD 4 of the Income Tax Act 2007,—
+To the extent that an amount referred to in section 73(1)(a) is not paid to the Commissioner on or before the date on which the employer is required to pay the deduction to the Commissioner under section RD 4 of the Income Tax Act 2007,—
   (a) the Commissioner must pay the amount out of a Crown Bank Account, without further authority than this section; and
   (b) the amount is treated, for the purposes of section 73, as having been received by the Commissioner on the 15th day of the month in which the deduction is made.
 
@@ -948,7 +951,7 @@ The amount of interest payable by the Commissioner in respect of a person is cal
   - **interest rate** is the rate calculated under section 86.
 
 ### 88 How and when interest is paid on on-payments
-Interest that is payable under section 84 on an amount of contribution that is on-paid to a provider must be paid to the provider of the person’s KiwiSaver scheme, in respect of the person, at the same time that the amount of contribution is on-paid to the provider.
+Interest that is payable under section 84 on an amount of contribution that is on-paid to a provider must be paid to the provider of the person’s KiwiSaver scheme, in respect of the person, within 3 months of when the amount of contribution is on-paid to the provider.
 
 ### 89 How and when interest is paid on refunds
 (1) This section applies to interest that would be payable under section 84 in respect of an amount of contribution that is refunded under this Part (except section 81).
@@ -1261,6 +1264,11 @@ The Commissioner must give notice to each affected employer known to the Commiss
 (1) Subject to section 108, a person may at any time revoke his or her contributions holiday in respect of an employer by giving notice to the employer requiring the employer to start making deductions from salary or wages under subpart 1.
 (2) A person may at any time reinstate his or her contributions holiday in respect of an employer by giving notice to the employer requiring the employer to stop making deductions from salary or wages under subpart 1.
 (3) Sections 106 and 108 apply, with necessary modifications, as if the reinstatement of a contributions holiday were the granting of a contributions holiday.
+
+### 112B Non-deduction notices
+(1) A person who has passed the KiwiSaver end payment date described in Schedule 1, clause 4(2) may give to their employer a notice (a non-deduction notice) stating that the employer must stop making deductions of contributions from the person's salary or wages under subpart 1.
+(2) The non-deduction notice is valid, for the purposes of section 62(bb), for the first payment of salary or wages after the non-deduction notice is given to the person's employer. It is valid for subsequent payments of salary or wages, until the person revokes that non-deduction notice by giving to the employer another notice (a revocation notice), in accordance with subsection (3), stating that the employer must start making deductions of contributions from the person's salary or wages under subpart 1.
+(3) A person must not give a revocation notice to the employer within 3 months of giving a non-deduction notice to them, unless the employer agrees to receive the revocation notice within those 3 months.
 
 ### 113 Refund of initial contributions
 (1) A person may apply to the Commissioner for a refund of any contributions that are being held in the holding account under section 75 if the person is suffering, or likely to suffer, significant financial hardship or is suffering serious illness.
@@ -2408,7 +2416,7 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
   (b) subject to any general or special directions given or conditions imposed by the chief executive, the person to whom the delegation is made may administer this section in the same manner and with the same effect as if this Act and any regulations made under this Act (and not the delegation) so provided; and
   (c) every person purporting to act under the delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
-### 226 Crown contribution
+### 226 Crown contribution: kick-start contributions
 (1) The Crown must pay 1 contribution to the first KiwiSaver scheme of which a person (A) is a member before they reach the New Zealand superannuation qualification age.
 (1A) The contribution must be paid as soon as practicable after the date provided by subsection (1B) or (1C).
 (1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 3-month period that starts on the earliest of the following dates:
@@ -2554,6 +2562,11 @@ If, as a result of amendments in sections 7 to 14 of the Taxation (Annual Rates 
   (a) a prospectus that is registered under the Securities Act 1978 on or before 27 May 2011:
   (b) an investment statement under the Securities Act 1978 that is dated on or before 27 May 2011.
 
+### 238 Protection from non-compliance: Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012
+If an effect of the enactment of sections 166, 231, and 234 of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (the Act) for an issuer of a security is their non-compliance with an enactment related to securities, that non-compliance is ignored, if it starts before the date (the end date) that is 2 months after the day (the assent day) on which the Act receives the Royal assent and does not continue on or after the end date, or if it relates to—
+  (a) a prospectus that is registered under the Securities Act 1978 on or before assent day:
+  (b) an investment statement under the Securities Act 1978 that is dated on or before assent day.
+
 ## Schedule 1 — KiwiSaver scheme rules
 
 ### 1 Application
@@ -2606,7 +2619,7 @@ If requested by the trustee, the manager must—
 
 ### 3 Minimum contribution for employee member
 (1) For each pay period, an employee member must contribute to the KiwiSaver scheme at least the minimum contribution rate of that employee’s salary or wages in accordance with sections 64 to 68.
-(2) Subclause (1) does not apply if the employee is taking a contributions holiday.
+(2) Subclause (1) does not apply if the employee is taking a contributions holiday or for the period that the employee has a valid non-deduction notice under section 112B that they have given to their employer.
 (3) For the purposes of this clause, a member does not contribute to the KiwiSaver scheme, if the contributions are made for a purpose other than—
   (a) to enable the payment of future benefits to the member under the KiwiSaver scheme; or
   (b) to enable the payment of fees in respect of the KiwiSaver scheme.
@@ -2615,13 +2628,16 @@ If requested by the trustee, the manager must—
 (1) Subject to other permitted withdrawals, a member may not make a withdrawal from the KiwiSaver scheme until the KiwiSaver end payment date or a date after that date.
 (2) For the purposes of subclause (1), the KiwiSaver end payment date is the later of—
   (a) the date on which the member reaches the New Zealand superannuation qualification age; or
-  (b) the date on which the member has been a member of a KiwiSaver scheme for 5 years; or
+  (b) the 5 year qualification date; or
   (c) the date on which the member has been a member of a complying superannuation fund (or of a complying superannuation fund and a KiwiSaver scheme) for 5 years.
 (3) A member is entitled to withdraw an amount not more than the member’s accumulation on the later date referred to in subclause (2).
 (4) Nothing in this clause requires a member to withdraw from the KiwiSaver scheme on the date specified in subclause (2).
 (5) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
+(6) For the purposes of these rules, 5 year qualification date means the earlier of––
+  (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
+  (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member.
 
 ### 5 Trustees and managers must pay permitted withdrawal as lump sum
 (1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must, at the member’s request, pay a permitted withdrawal as a lump sum.
