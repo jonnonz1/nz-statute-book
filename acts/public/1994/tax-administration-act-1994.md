@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-11-02_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -254,7 +254,9 @@ _Consolidation as at 2012-07-01_
   - **person to whom this section applies** is defined in section 86(5) for the purposes of that section
   - **person with access to restricted information** is defined in section 87(5) for the purposes of that section
   - **petroleum mining operations** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **petroleum permit** , in section 91, has the same meaning as in section OB 1 of the Income Tax Act 2004
+  - **petroleum permit** , in section 91 of this Act, means—
+    (a) a petroleum permit under section YA 1 of the Income Tax Act 2007:
+    (b) a replacement permit under section YA 1 of that Act
   - **policyholder net loss** , in section 112 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **prescribed** means prescribed by regulations under this Act or the Income Tax Act 2007 or by the Commissioner
   - **primary employment earnings** , for an employee and for a pay period, means a PAYE income payment that is not a schedular payment or an extra pay, when the payment meets one of the following requirements:
@@ -1105,10 +1107,10 @@ An information holder who is required to disclose information in relation to a p
     (v) the taxpayer must comply with section EB 22(4) of the Income Tax Act 2007; and
   (d) where that business involves the provision of services, records of the services provided and all invoices relating to them; and
   (e) the charts and codes of accounts, the accounting instruction manuals, and the system and programme documentation which describes the accounting system used in each income year in the carrying on of that business.
-(2) Subject to subsections (2B), (3), (4), and (6), every person who—shall keep in New Zealand sufficient records in the English language to enable the ascertainment readily by the Commissioner, or any officer authorised by the Commissioner in that behalf, of—and shall retain in New Zealand all such records for a period of at least 7 years after the end of the income year, or (for paragraph (k)) the tax or income year (as applicable), to which they relate:
+(2) Subject to subsections (2BA), (2B), (3), (4), and (6), every person who—shall keep sufficient records to enable the ascertainment readily by the Commissioner, or any officer authorised by the Commissioner in that behalf, of—and shall retain all such records for a period of at least 7 years after the end of the income year, or (for paragraph (k)) the tax or income year (as applicable), to which they relate.
   (a) carries on any business in New Zealand:
   (b) carries on any other activity (not being the carrying on of employment as an employee) in New Zealand for the purpose of deriving assessable income:
-  (c) is a person to whom the ESCT rules apply and who makes an employer’s superannuation contribution to a superannuation fund:
+  (c) is a person to whom the ESCT rules apply and who makes an employer's superannuation cash contribution to a superannuation fund:
   (cb) is a person to whom the RSCT rules apply and who makes a retirement scheme contribution to a retirement savings scheme:
   (d) makes, holds, or disposes of, for the purpose of deriving assessable income, any investment:
   (e) is an employer to whom the FBT rules apply or is a person who provides any fringe benefit to any person who, in relation to any employer to whom the FBT rules apply, is an employee:
@@ -1128,10 +1130,14 @@ An information holder who is required to disclose information in relation to a p
     (i) they meet the start-up requirements and the other continuing requirements; and
     (ii) the amounts derived and incurred by them in performing the research and development activities on behalf of other persons; and
   (ke) the transfer under section 24Q of an amount of an employee's payroll donation to the recipient of the donation; and
-  (l) every employer’s superannuation contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer’s superannuation contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
+  (l) every employer's superannuation cash contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer's superannuation cash contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
   (m) the financial position of the foreign trust,—
-  provided that the Commissioner may, on application in writing being made to the Commissioner in that behalf, authorise any such person, by notice, to keep and retain outside New Zealand or, as the case may be, in a language other than the English language, such of those records as the Commissioner determines.
+(2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
+  (a) in English, or in a language in which the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record; and
+  (b) at a place in New Zealand, or at a place outside New Zealand where—
+    (i) the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record:
+    (ii) the record is kept by a person authorised by the Commissioner under subsection (8) to keep records for taxpayers that include the taxpayer.
 (2B) A taxpayer referred to in subsection (2)﻿(e) who is required by subsection (2) to retain records is not required to retain those records for a period of more than 7 years after the end of the income year to which the records relate.
 (2C) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
 (3) A taxpayer to whom section 33A applies and who is required by subsection (2) to retain records of income of that taxpayer from which tax has been withheld or deducted at source need retain those records only until the expiry of 12 months after the end of the income year in which the income was received by the taxpayer.
@@ -1157,6 +1163,19 @@ An information holder who is required to disclose information in relation to a p
       (B) all entries from day to day of all sums of money received and expended by the trustee in relation to the foreign trust and the matters in respect of which the receipt and expenditure takes place; and
       (C) if the trust carries on a business, the charts and codes of accounts, the accounting instruction manuals, and the system and programme documentation which describes the accounting system used in each income year in the administration of the trust:
   (e) for the purposes of subsection (2)﻿(kc), other documents evidencing research and development activities.
+(8) The Commissioner may, upon application in writing by the taxpayer or person, authorise for the purposes of subsection (2BA),—
+  (a) a taxpayer to keep and retain a record or type of record—
+    (i) in a language other than English:
+    (ii) at a place outside New Zealand:
+  (b) a person to hold, for taxpayers, records—
+    (i) at places outside New Zealand; and
+    (ii) in a form approved by the Commissioner; and
+    (iii) accessible by the Commissioner in a way approved by the Commissioner.
+(9) The Commissioner may, for an authorisation under subsection (8) of a person,—
+  (a) impose reasonable conditions on the authorisation:
+  (b) reasonably vary the conditions on the authorisation:
+  (c) withdraw the authorisation, upon request by the person or after giving reasonable notice of the withdrawal:
+  (d) give public notice of an action under subsection (8)﻿(b) or this subsection, in a publication chosen by the Commissioner.
 
 ### 22A Records required under subpart EW of Income Tax Act 2007
 (1) A taxpayer who applies section EW 18 of the Income Tax Act 2007 and who does not use a market approved by the Commissioner under section 90AC(1)﻿(c) must keep, in English, records sufficient to enable the Commissioner to verify that the market value adopted is reliable.
@@ -1181,9 +1200,13 @@ An information holder who is required to disclose information in relation to a p
   (b) retain those records for as long as the trust exists.
 
 ### 23 Keeping of returns where information transmitted electronically
-(1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained the return (being the signed hard copy transcript of the information so transmitted) for—
-  (a) 7 years after the end of the income year to which the return relates; or
-  (b) such greater period as the Commissioner requires under section 22 in relation to any other records of the taxpayer, where the Commissioner gives the taxpayer notice of a further retention period under subsection (5) of that section.
+(1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained—
+  (a) the return in the form of—
+    (i) a signed hard-copy transcript of the information transmitted:
+    (ii) an electronic form meeting the requirements of section 25 of the Electronic Transactions Act 2002; and
+  (b) for a period of—
+    (i) 7 years after the end of the income year to which the return relates; or
+    (ii) a greater period that the Commissioner requires under section 22 for other records of the taxpayer, if the Commissioner gives the taxpayer notice of a further retention period under section 22(5).
 (2) This section does not require the retention of any return—
   (a) in respect of which the Commissioner has given notice that retention is not required; or
   (b) of a company that has been liquidated; or
@@ -1372,7 +1395,7 @@ The Commissioner may vary the requirements set out in sections RD 22 of the Inco
   (b) is sent by post addressed to the recipient at the recipient's last known place of abode or business; or
   (c) is given personally to any other person authorised to act on behalf of the recipient; or
   (d) is sent by post addressed to that other person at that other person's last known place of abode or business; or
-  (e) is sent electronically to the recipient or to a person authorised to act on behalf of the recipient and the recipient or the authorised person agree to receiving the certificate this way.
+  (e) is made available electronically to the recipient or to a person authorised to act on behalf of the recipient and the recipient or the authorised person agrees to having the certificate made available in this way.
 (11) In this section, a dividend that is resident passive income paid by an RWT proxy as described in section RE 3(1)﻿(c) of the Income Tax Act 2007 is treated as being interest.
 
 ### 26 Records to be kept for RWT purposes
@@ -1456,7 +1479,8 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
   (a) is given to the shareholder personally; or
   (b) is sent by post addressed to the shareholder's usual or last known place of abode or business; or
   (c) is given personally to any person authorised to act on behalf of the shareholder; or
-  (d) is sent by post addressed to that other person at that other person's last known place of abode or business.
+  (d) is sent by post addressed to that other person at that other person's last known place of abode or business; or
+  (e) is made available electronically to the shareholder or to a person authorised to act on behalf of the shareholder and the shareholder or the authorised person agrees to having the shareholder dividend statement made available in this way.
 
 ### 30 Statement to shareholder when FDP credit attached to dividend
 Where an FDPA company attaches an FDP credit to a dividend under section OC 27 of the Income Tax Act 2007, the company shall include in the shareholder dividend statement required to be given in accordance with section 29, the following information:
@@ -1503,9 +1527,10 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (f) such other information as the Commissioner may require.
 (2) A notice is treated as having been given to a member if the notice is—
   (a) given to the member personally; or
-  (b) is sent by post to the member's usual or last known place of abode or business; or
-  (c) is given personally to a person authorised to act on behalf of the member; or
-  (d) is sent by post to the person at their last known place of abode or business.
+  (b) sent by post to the member's usual or last known place of abode or business; or
+  (c) given personally to a person authorised to act on behalf of the member; or
+  (d) sent by post to the authorised person at their last known place of abode or business; or
+  (e) made available electronically to the member or to a person authorised to act on behalf of the member and the member or the authorised person agrees to having the notice made available in this way.
 
 ### 31B Notification requirements for PIEs
 (1) An entity choosing under section HM 71 or HM 71B of the Income Tax Act 2007 to become a PIE or a foreign investment PIE, as applicable must notify the Commissioner of the election. The notice must be in the prescribed electronic format.
@@ -1722,7 +1747,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
       (A) Schedule 2, Part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $48,000 but not more than $70,000; or
       (BA)
       (B) Schedule 2, Part A, clause 6 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
-    (via) dividends if that person's annual gross income is more than $70,000; and
+    (via)
     (vib) taxable Maori authority distributions if the person's annual gross income is more than $48,000; and
     (vii) interest, dividends, or taxable Maori authority distributions, if the person is required to pay financial support in the tax year under the Child Support Act 1991; and
     (viii)
@@ -1845,9 +1870,10 @@ A return purporting to be made by or on behalf of any person shall for all purpo
   (b) may relate to any 1 or more classes of return:
   (c) shall be subject to any conditions that may be specified by the Commissioner, whether generally or in any particular case.
 (3) Where a taxpayer or registered person, or agent of a taxpayer or registered person, transmits to the Commissioner in the prescribed electronic format the information contained in any return of the taxpayer or registered person in accordance with an approval given under subsection (1),—
-  (a) the taxpayer or registered person shall retain or cause to be retained a hard copy transcript of the information so transmitted; and
-  (b) the hard copy transcript shall be deemed to be the return of the taxpayer or registered person, and shall be signed by the taxpayer or registered person in accordance with section 40 and held by the taxpayer or registered person on behalf of the Commissioner; and
-  (ba) paragraph (b) does not apply to an employer monthly schedule or annual reconciliation statement under section 57B furnished electronically; and
+  (a) the taxpayer or registered person shall retain or cause to be retained the information in—
+    (i) a hard-copy transcript:
+    (ii) an electronic form meeting the requirements of section 25 of the Electronic Transactions Act 2002; and
+  (b) if no electronic form under paragraph (a)﻿(ii) of a return is retained, and the return is not an employer monthly schedule or annual reconciliation statement under section 57B, the hard-copy transcript must be signed under section 40 and held by the taxpayer or registered person on behalf of the Commissioner; and
   (c) the information transmitted to the Commissioner shall be treated for the purposes of this Act and the Goods and Services Tax Act 1985 as if it were a return furnished under such provisions of this Act or the Goods and Services Tax Act 1985 as relate to the kind of return in question.
 (4) In this section, registered person has the same meaning as in section 2(1) of the Goods and Services Tax Act 1985.
 
@@ -2212,8 +2238,8 @@ An employer that is not required to furnish an employer monthly schedule electro
 (1) This section applies for the purposes of sections RD 58(2), RD 60(4), and RD 61(4) of the Income Tax Act 2007 when an employer asks the Commissioner to replace the FBT liability determined under a set rate with a calculated amount.
 (2) The employer must provide the information within 2 months after notifying the Commissioner that an assessment for the final quarter or year has been made.
 
-### 47 ESCT statements provided by employers
-(1) This section applies when an employer or PAYE intermediary withholds in a period an amount of ESCT from an employer’s superannuation contribution.
+### 47 ESCT statements provided by employers and others
+(1) This section applies when an employer, person, or PAYE intermediary withholds in a period an amount of ESCT from an employer's superannuation cash contribution.
 (2) The employer or PAYE intermediary must deliver to the Commissioner a PAYE payment form showing the amount of employer’s superannuation contribution, the amount of ESCT relating to the contribution, and any other particulars required by the Commissioner as follows:
   (a) when the employer or PAYE intermediary has withheld the ESCT during the first payment period, no later than the 20th of the month during which the ESCT was withheld:
   (b) when the employer or PAYE intermediary has withheld the ESCT during the second payment period, no later than the 5th of the month following the month in which the ESCT was withheld:
@@ -2329,7 +2355,7 @@ Every person who at any time is required to make a payment of RWT shall, at the 
   (b) on or before the date that is 40 working days after the end of the month referred to in subsection (5), if that subsection applies and paragraph (c) does not apply; or
   (c) before the date that is 3 months after the time of emigration, if the company is an emigrating company.
 (6) The Commissioner may vary any of the requirements of this section in relation to any person or class of persons in such cases and to such extent as the Commissioner thinks fit, and in every such case this section shall apply as so varied.
-(7) In this section, a dividend that to which section RE 3(c) of the Income Tax Act 2007 applies is treated as being interest.
+(7) In this section, a dividend to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies is treated as being interest.
 
 ### 52 Disclosure of interest payments when no requirement to withhold RWT
 A person who in a year pays an amount of resident passive income that is interest,—shall, in the return of income that the payer is required under this Act to furnish in relation to that year, provide the Commissioner with the following information in relation to each person (in this section called the recipient) to whom such a payment was made in that year:
@@ -2400,6 +2426,7 @@ Every authorised savings institution shall, not later than 15 May in each year,�
     (i) the end of the month that follows the month in which the exit period ends:
     (ii) 15 January after the end of the exit period, if the period ends in November; and
   (b) for an investor who holds an investor interest at the end of the tax year, for the tax year by the end of the month after the end of the tax year.
+(5B) Despite subsection (5), a foreign investment zero-rate PIE is not required to carry out the responsibilities in relation to exiting investors as described in subsection (5) for a tax year if the only exiting investors of the PIE in the tax year are notified foreign investors. Instead, the PIE must provide the required information in its return for the tax year.
 (6) If the PIE voluntarily makes a payment of income tax under section HM 45 of that Act for a period in a tax year that is not included in a return required under subsection (5), the PIE must file a return in the prescribed form as described in subsection (2)—
   (a) the end of the month that follows the month in which the period ends:
   (b) 15 January after the end of the period, if the period ends in November.
@@ -4223,8 +4250,8 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (b) the members of a group of CFCs are non-attributing active CFCs, if the members satisfy subsection (3).
 (2) A CFC satisfies this subsection if—
   (a) the CFC is controlled by a company resident in New Zealand that—
-    (i) has a business of insurance registered and rated under the Insurance Companies (Ratings and Inspection) Act 1994:
-    (ii) is in the same group of companies as a company resident in New Zealand that has a business of insurance registered and rated under that Act; and
+    (i) has a business of insurance to which section 60(1) of the Insurance (Prudential Supervision) Act 2010 applies:
+    (ii) is in the same group of companies as a company resident in New Zealand that has a business of insurance to which section 60(1) of that Act applies; and
   (b) the CFC has, in a country or territory outside New Zealand, a business of insurance that is registered under the laws of the country or territory relating to the business of insurance; and
   (c) the CFC or a company in the group of companies to which the CFC belongs, before and after 30 June 2009,—
     (i) was controlled by a New Zealand resident; and
@@ -4234,7 +4261,7 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
     (i) was controlled by a New Zealand resident; and
     (ii) had, in a country or territory outside New Zealand, a business of insurance that is registered under the laws of the country or territory relating to the business of insurance; and
   (b) each CFC is—
-    (i) controlled by a company resident in New Zealand that has a business of insurance registered and rated under the Insurance Companies (Ratings and Inspection) Act 1994 or that is in the same group of companies as such a company; and
+    (i) controlled by a company resident in New Zealand that has a business of insurance to which section 60(1) of the Insurance (Prudential Supervision) Act 2010 applies or that is in the same group of companies as such a company; and
     (ii) is incorporated in the same country or territory as the other CFCs; and
     (iii) is subject to the laws of the country or territory; and
     (iv) is liable in the country or territory to income tax on its income; and
@@ -4408,6 +4435,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
   (a) the Commissioner considers that the correctness of the ruling would depend on which assumptions were made about a future event or other matter; or
   (b) the arrangement on which the ruling is sought, or a separately identifiable part of that arrangement, is substantially the same as an arrangement which is subject to an objection, challenge, or appeal, whether in relation to the applicant or any other person; or
   (c) the applicant has outstanding debts relating to earlier binding ruling applications.
+(3B) Despite subsection (1), the Commissioner may decide to not make a private ruling, to the extent to which it would be a ruling on how section GA 1 of the Income Tax Act 2007 applies or would apply.
 (4) The Commissioner may not make a private ruling if—
   (a) the application for the ruling would require the Commissioner to determine a proscribed question; or
   (b) at the time the application is made or at any time before the ruling is issued, the Commissioner considers that the person to whom the ruling is to apply is not seriously contemplating the arrangement for which the ruling is sought; or
@@ -4463,6 +4491,9 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
   (c) state the taxation laws in respect of which the ruling is sought; and
   (d) state the propositions of law (if any) which are relevant to the issues raised in the application; and
   (e) provide a draft ruling.
+(1B) In the case of an application for a private ruling that relates to how either sections GC 6 to GC 14 or YD 5 of the Income Tax Act 2007 applies, or would apply, the applicant must state in a notice, signed by them and sent to the Commissioner at the same time as the application described in subsection (1), that—
+  (a) they have examined the application; and
+  (b) to the best of their knowledge and belief, the information disclosed for the application is comprehensive.
 (2) If the Commissioner considers that it would be unreasonable to require the applicant to comply with any of the requirements in paragraphs (c) to (e) of subsection (1), the Commissioner may waive those requirements.
 
 ### 91EE Commissioner may request further information
@@ -4813,7 +4844,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (4) An assessment made under this section is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 7 of this Act applies accordingly.
 
 ### 98 Assessment of ESCT
-(1) The Commissioner may, in respect of any employer who is chargeable with ESCT under section RD 67 of the Income Tax Act 2007, make an assessment of the amount of the employer’s superannuation contribution on which, in the Commissioner's judgment, ESCT ought to be imposed and an assessment of the amount of that tax, and that employer shall be liable to pay the tax so assessed except so far as the employer establishes in proceedings challenging the assessment that the assessment is excessive or that the employer is not chargeable with the tax so assessed.
+(1) The Commissioner may, in respect of any employer or person who is chargeable with ESCT under section RD 67 of the Income Tax Act 2007, make an assessment of the amount of the employer's superannuation cash contribution on which, in the Commissioner's judgment, ESCT ought to be imposed and an assessment of the amount of that tax, and that employer or person shall be liable to pay the tax so assessed except so far as the employer or person establishes in proceedings challenging the assessment that the assessment is excessive or that the employer or person is not chargeable with the tax so assessed.
 (2) Sections 109, 111, and 113 shall apply, so far as may be, with respect to every assessment made under subsection (1) of this section as if—
   (a) in those sections, the term taxpayer included a person who is chargeable with ESCT; and
   (b) in section 113, the term tax already assessed included ESCT already assessed under subsection (1) of this section.
@@ -5230,10 +5261,9 @@ Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest 
   (a) 4, for provisional taxpayers who pay on the equivalent of instalment dates B, D, and F; or
   (b) 6, for provisional taxpayers who pay on the equivalent of instalment dates C and F.
 (5) For the purposes of calculating the amount of interest due in relation to a final instalment of provisional tax, the amount of residual income tax payable is the residual income tax for the tax year minus any amount treated as due on an instalment date referred to in subsection (3).
-(6) In this section, a provisional taxpayer includes a new provisional taxpayer.
-ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
-on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
-on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
+(6) In this section, a provisional taxpayer includes a new provisional taxpayer.ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
+  on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
+  on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 
 ### 120KE Provisional tax and rules on use of money interest
 (1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
@@ -6391,7 +6421,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
   (c) an amount of tax withheld for—
     (i) resident passive income:
     (ii) non-resident passive income:
-    (iii) an employer’s superannuation contribution:
+    (iii) an employer's superannuation cash contribution:
   (d) a deduction of contribution that was payable under Part 3, subpart 1 of the KiwiSaver Act 2006:
   (e) a salary or wage deduction made under the Student Loan Scheme Act 2011:
   (f)
@@ -7098,6 +7128,7 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (1) A taxpayer, or a person on a taxpayer's behalf, applies for financial relief by either—
   (a) making a claim stating why recovery of outstanding tax would place the taxpayer in serious hardship; or
   (b) requesting to enter into an instalment arrangement with the Commissioner by telephone or in writing.
+(1B) For the purposes of subsection (1)﻿(a), when assessing whether recovery would place the taxpayer in serious hardship, the Commissioner must consider the taxpayer's financial position at the date on which the application for financial relief is made.
 (2) The Commissioner may require a taxpayer, or a person on a taxpayer's behalf, to apply for financial relief under subsection (1)﻿(a) by notice.
 (3) Upon receiving a request, the Commissioner may—
   (a) accept the taxpayer's request; or
@@ -7157,7 +7188,9 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
   (c) a taxpayer's estate has been distributed.
 (3) Despite subsection (1), the Commissioner must not write off outstanding tax (inclusive of any shortfall penalties), if a taxpayer is liable to pay, in relation to the outstanding tax, a shortfall penalty for an abusive tax position or evasion or a similar act.
 (4) Despite subsection (2), the Commissioner may reinstate all or part of the outstanding tax written off if the Commissioner receives, by operation of law, additional funds in respect of a taxpayer after the taxpayer becomes bankrupt, is liquidated or if additional funds due to the taxpayer's estate are discovered after the taxpayer's estate has been distributed.
-(5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, the Commissioner must extinguish all or part of the taxpayer's tax loss, by dividing the amount written off by 33% and reducing the tax loss by that amount.
+(5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, the Commissioner must extinguish all or part of the taxpayer's tax loss, by—
+  (a) dividing the amount written off by 0.33 and reducing the tax loss by that amount, if the taxpayer is not a company; or
+  (b) dividing the amount written off by 0.28 and reducing the tax loss by that amount, if the taxpayer is a company.
 (5B) If the Commissioner writes off outstanding tax for a taxpayer who has a tax credit carried forward under section LE 3 of the Income Tax Act 2007, the Commissioner must extinguish an amount of the tax credit on a one-for-one basis.
 (5C) If a taxpayer has both a tax loss to which subsection (5) applies and a tax credit to which subsection (5B) applies, the Commissioner must extinguish the tax loss before extinguishing the tax credit.
 (6) For the purpose of subsection (5), the tax loss that may be extinguished is the tax loss of the taxpayer at the time at which the outstanding tax is written off and the Commissioner may use a figure for that tax loss based on the most recent return of income furnished by the taxpayer.
@@ -7664,7 +7697,7 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
 ### 226C Secure credit or debit card payments and fees
 (1) The Commissioner may offer to taxpayers the service of paying an amount to the Commissioner by secure internet credit or debit card transfer or secure telephone credit or debit card transfer.
 (2) The Commissioner may charge the taxpayer, at the time that the taxpayer uses the service, a fee for the service. The fee, if it is charged, must be paid on top of the amount, and as part of the same payment (using the same service).
-(3) The fee for the service is 1.42% of the amount.
+(3) The fee for the service is 1.42% of the amount, plus any GST.
 (4) Despite subsection (3), the Governor-General may from time to time, by Order in Council, change the fee, with effect from a date specified in the Order in Council.
 
 ## Part 14 — Transitional provisions and savings
@@ -8098,3 +8131,60 @@ This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
 (2) Subsection (1) applies for the 1997–98 and later income years but only in relation to an amount of interest imposed under Part 7 of the Tax Administration Act 1994 that the person has treated as a deduction—
   (a) in a return of income that they have furnished on or before 24 November 2010:
   (b) in a notice of proposed adjustment that is issued on or before 24 November 2010.
+
+### 1 Title
+This Act is the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012.
+
+### 2 Commencement
+(1) This Act comes into force on the day on which it receives the Royal assent, except as provided in this section.
+(2) Section 251(1) and (4) come into force on 1 February 1995.
+(3) Section 251(2) and (5) come into force on 1 April 1998.
+(4) Section 251(3) and (6) come into force on 1 October 2001.
+(5) Section 173 comes into force on 17 October 2002.
+(6) Section 209(2) and (3) come into force on 1 April 2003.
+(7) Sections 209(1) and 214(1) come into force on 1 January 2005.
+(8) Sections 170(2) and (5), 241, 242, 244, 245, 246, and 247 come into force on 1 April 2005.
+(9) Section 243 comes into force on 1 April 2006.
+(10) Section 248 comes into force on 1 October 2007.
+(11) Sections 11, 16, 21, 23, 30, 37, 38, 39, 69, 72, 82, 84, 85(1), (2), (3), (7), and (9), 86, 115, 117, 120, 122, 124, 125, 126(1), 127(2), 134, 136, 139, 140(1), (2), and (4), 141, 143, 144, 145, 153, 154(7), (11), (12), (17), and (43), 162(3), (4), and (7), 170(3) and (6), 171(1)﻿(b) and (d), 186, 199, and 202 come into force on 1 April 2008.
+(12) Section 83 comes into force on 1 April 2009.
+(13) Section 154(30) comes into force on 9 June 2009.
+(14) Sections 24(1), (3), (4), and (6), 25(1), (3), (4), and (6), 28, 40, 41, 42(1), (2), (6), (7), and (8), 43(1) to (6), 44, 52, 63, 64, 65, 76, 114, 129, 131, 132, 146, and 154(8) and (44) come into force on 30 June 2009.
+(15) Sections 68 and 154(40) come into force on 1 July 2009.
+(16) Section 152 comes into force on 1 February 2010.
+(17) Sections 98 and 100 come into force on 1 April 2010.
+(18) Section 66 comes into force on 30 June 2010.
+(19) Sections 31, 32, 53, 54, and 55 come into force on 1 July 2010.
+(20) Section 45 comes into force on 1 August 2010.
+(21) Sections 12, 13, 18, 19, 20, 29, 35, 36, 56, 57, 58, 59, 60, 61, and 73 come into force on 4 September 2010.
+(22) Sections 27 and 33 come into force on 7 September 2010.
+(23) Section 154(3), (4), and (42) come into force on 1 October 2010.
+(24) Section 154(5) comes into force on 27 October 2010.
+(25) Sections 154(22) and 207(3) come into force on 1 November 2010.
+(26) Sections 154(28), 155, 156(a), and 158 come into force on 1 January 2011.
+(27) Sections 78, 79, 80, 81, 111, 112, 123, 126(2) and (3), 127(1) and (3), 154(6), (9), (10), (14), (19), (27), and (32), 162(1), (2), (5), (6), and (8), 207(2) and (4), 208(2) and (3), 210, 211, 212, 214, 215, 216, 217, 218, 221, 222, 223, 224, 225, and 226 come into force on 1 April 2011.
+(28) Sections 24(2) and (7), 25(2) and (7), 42(3), (4), (5), and (9), 43(7) and (8), 46, 48, 49, 50, 116, 128, and 133 come into force on 1 July 2011.
+(29) Sections 90, 91, 97, 252, 253, 254, and 255 come into force on 29 August 2011.
+(30) Section 208(1) comes into force on the date of introduction of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Bill.
+(31) Sections 47 and 51 come into force on 1 October 2011.
+(32) Section 194 comes into force on 7 March 2012.
+(33) Sections 70, 85(4), (5), (6), and (8), 89, 94, 140(3), 142, 154(20) and (33), and 163(2) come into force on 1 April 2012.
+(34) Section 168(1)﻿(d) comes into force on 31 May 2012.
+(35) Sections 71, 228, 229, 230, 235, and 238 come into force on 1 July 2012.
+(36) Sections 6, 7, 8, 9, 10, 147, 148, 151, and 154(2), (31), (37), and (39) come into force on 1 October 2012.
+(37) Sections 88, 93(2), 99, 101, 103, 104(2), 107, 118, 150, 154(18) and (29), 163(3), 166, 168(1)﻿(a) to (c) and (e) and (3), 231, and 234 come into force on 1 April 2013.
+(38) Sections 137, 154(25), 170(4), 171(3), 176, 177, 179, 180, 181, 183, 184, 185, 189, 190, 191, 192, 193, 197, 198, 200, 201, and 239 come into force on 1 April 2016 or on an earlier date set by Order in Council.
+(39) Section 168(2) and (4) come into force on 1 April 2014.
+
+## Part 3 — Amendments to Tax Administration Act 1994
+
+### 169 Tax Administration Act 1994
+This Part amends the Tax Administration Act 1994.
+
+### 170 Interpretation
+((1)–(4)) Amendment(s) incorporated in the Act(s).
+(5) Subsection (2) applies for the 2005–06 and later income years. However, subsection (2) does not apply to a person in relation to a tax position taken by the person—
+  (a) in the period from 1 April 2005 to the date of introduction of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Bill; and
+  (b) relating to the treatment of a petroleum permit or replacement permit; and
+  (c) relying on the definition of petroleum permit as it was before the amendment made by subsection (2).
+(6) Subsection (3) applies for the 2008–09 and later income years.
