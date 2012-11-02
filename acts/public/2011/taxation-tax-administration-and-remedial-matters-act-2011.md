@@ -1,5 +1,5 @@
 # Taxation (Tax Administration and Remedial Matters) Act 2011
-_Consolidation as at 2011-08-29_
+_Consolidation as at 2012-11-02_
 
 ### 1 Title
 This Act is the Taxation (Tax Administration and Remedial Matters) Act 2011.
@@ -178,7 +178,7 @@ After section DP 9, the following is inserted:Treaty of Waitangi claim settlemen
 ### 21 New section DZ 19
 (1) After section DZ 18, the following is inserted:Attributed CFC loss carried back under section EZ 32Cattributed CFC loss, CFC, income year, net loss.
   For the purposes of subpart DN (Attributed losses from foreign equity), an amount of net loss carried back to an income year under section EZ 32C(12) (Treatment in section EX 20C of currency effects on CFC's borrowing) for a CFC is treated as being an attributed CFC loss from the CFC in the income year.
-(2) Section DZ 19 is repealed.
+(2)
 (3) Subsection (1) applies for income years beginning—
   (a) on or after 1 July 2009; and
   (b) before 1 July 2013.
@@ -267,10 +267,10 @@ In section EW 29(13), in the words before the paragraphs, at the date of a chang
 
 ### 37 Net attributable CFC income or loss
 (1) In section EX 20C(2), the formula is replaced by attributable CFC − (limited funding costs × fraction) − other deductions − later losses.
-(2) In section EX 20C(2), the formula is replaced by attributable CFC − (limited funding costs × fraction) − other deductions.
+(2)
 (3) After section EX 20C(9), the following is inserted:Later losses
   (9B) Later losses is the total amount of adjustments to the accounting period under section EZ 32C (Treatment in section EX 20C of currency effects on CFC's borrowing) for an accounting period and financial arrangements for which that section applies.
-(4) Section EX 20C(9B) is repealed.
+(4)
 (5) Subsections (1) and (3) apply for income years beginning—
   (a) on or after 1 July 2009; and
   (b) before 1 July 2013.
@@ -436,7 +436,7 @@ After section EZ 23, the following is inserted:Property acquired after depreciab
   (14) An amount of tax paid by a person for an income year is not overpaid tax for the purposes of Part 7 of the Tax Administration Act 1994 to the extent that the amount—
     (a) exceeds the income tax liability of the person for the income year because of the use under subsection (12) of net loss from a later income year to offset net income; and
     (b) is paid before the offset occurs.
-(2) Section EZ 32C is repealed.
+(2)
 (3) Subsection (1) applies for income years beginning—
   (a) on or after 1 July 2009; and
   (b) before 1 July 2013.
