@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2012-11-20_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -116,7 +116,7 @@ In this Act, unless the context otherwise requires,—
       (i) conveyancing practitioners of the kind described in paragraph (b); or
       (ii) persons who are administrators of the estates of persons who, at the time of their death, were conveyancing practitioners of the kind described in paragraph (b); and
     (d) has as its shareholders, in respect of shares that do not confer voting rights, no persons other than—
-      (i) conveyancing practitioners of the kind described in paragraph (b); or
+      (i) conveyancing practitioners of the kind described in paragraph (b) (any 1 or more or each of whom may, but none of whom is required to, hold those shares as a trustee of a qualifying trust); or
       (ii) persons who are relatives of conveyancing practitioners of the kind described in paragraph (b); or
       (iii) persons who are administrators of the estates of persons who, at the time of their death, were shareholders of the kind described in subparagraph (i) or subparagraph (ii)
   - **incorporated firm** means an incorporated conveyancing firm or an incorporated law firm
@@ -127,7 +127,7 @@ In this Act, unless the context otherwise requires,—
       (i) lawyers of the kind described in paragraph (b); or
       (ii) persons who are administrators of the estates of persons who, at the time of their death, were lawyers of the kind described in paragraph (b); and
     (d) has as its shareholders, in respect of shares that do not confer voting rights, no persons other than—
-      (i) lawyers of the kind described in paragraph (b); or
+      (i) lawyers of the kind described in paragraph (b) (any 1 or more or each of whom may, but none of whom is required to, hold those shares as a trustee of a qualifying trust); or
       (ii) persons who are relatives of lawyers of the kind described in paragraph (b); or
       (iii) persons who are administrators of the estates of persons who, at the time of their death, were shareholders of the kind described in subparagraph (i) or subparagraph (ii)
   - **investigator** means an investigator appointed under section 144
@@ -179,6 +179,9 @@ In this Act, unless the context otherwise requires,—
     (b) a form—
       (i) which is contained in an electronic file or record; and
       (ii) which can be filled in, in whole or in part, before being transmitted electronically or being reproduced by printing it from that electronic file or record
+  - **qualifying trust** means, for the purposes of the definitions in this section of incorporated conveyancing firm and incorporated law firm, a trust in which—
+    (a) each beneficiary is a relative of 1 or more of the trustees; and
+    (b) each trustee is (for an incorporated conveyancing firm) a conveyancing practitioner, or (for an incorporated law firm) a lawyer, who is actively involved in the provision by the body corporate of regulated services
   - **record** includes—
     (a) any file, register, ledger, book of account, or passbook, and any reproduction or copy of any of them or of any entry in any of them; and
     (b) any apparatus or equipment in or on which information is recorded, stored, or embodied in any form so as to be capable of being retrieved, reproduced, or processed by any means; and
@@ -216,7 +219,7 @@ In this Act, unless the context otherwise requires,—
     (b) a parent or grandparent of the conveyancing practitioner or lawyer:
     (c) a step-parent of the conveyancing practitioner or lawyer:
     (d) a brother, sister, half-brother, or half-sister of the conveyancing practitioner or lawyer:
-    (e) a child of the conveyancing practitioner or lawyer:
+    (e) a child or grandchild of the conveyancing practitioner or lawyer:
     (f) a step-child of the conveyancing practitioner or lawyer:
     (g) a parent of the conveyancing practitioner's or lawyer's spouse, civil union partner, or de facto partner
   - **reserved areas of work** means the work carried out by a person—
@@ -836,12 +839,12 @@ Every Registrar must keep in his or her office a roll of barristers and solicito
 On the making by the High Court of an order admitting any person as a barrister and solicitor, and on payment of the prescribed admission fee, the Registrar must place that person's name on the roll.
 
 ### 58 Striking off and restoration of names by order of Disciplinary Tribunal or High Court
-(1) On the publication in the Gazette of a notice of an order made by the Lawyers and Conveyancers Disciplinary Tribunal, or by the High Court on appeal from the Lawyers and Conveyancers Disciplinary Tribunal, that the name of a barrister and solicitor be struck off the roll, the Registrar must forthwith strike that name off the roll.
+(1) On the publication in the Gazette of a notice of an order made by the Lawyers and Conveyancers Disciplinary Tribunal, or by the High Court on appeal from the Lawyers and Conveyancers Disciplinary Tribunal, that the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act be struck off the roll, the Registrar must forthwith strike that name off the roll.
 (2) On the publication in the Gazette of a notice of an order made by the Lawyers and Conveyancers Disciplinary Tribunal that the name of a person be restored to the roll, and on payment of the prescribed restoration fee, the Registrar must restore that name to the roll.
 (3) In each case, the Registrar must make an entry in the roll of the date and effect of the order and of the fact that it was made by the Lawyers and Conveyancers Disciplinary Tribunal or by the High Court on appeal from that Tribunal, as the case may require.
 
 ### 59 Removal from roll if deemed registration ceases in some circumstances
-(1) The Registrar must remove from the roll the name of a barrister and solicitor who—if the Registrar receives written notice from a Registrar acting as a local registration authority that the deemed registration has ceased for a reason set out in section 28(1)(a) or section 28(1)(c) to (e) of that Act.
+(1) The Registrar must remove from the roll the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act who—if the Registrar receives written notice from a Registrar acting as a local registration authority that the deemed registration has ceased for a reason set out in section 28(1)(a) or section 28(1)(c) to (e) of that Act.
   (a) was admitted under section 52(4); and
   (b) had deemed registration under the Trans-Tasman Mutual Recognition Act 1997 at the time he or she was admitted,—
 (2) The Registrar must cause to be published in the Gazette a notice to the effect that the name has been removed from the roll under this section.
@@ -1860,6 +1863,7 @@ If, under section 154(a), a Standards Committee lays before the Disciplinary Tri
   (b) specify any orders made under section 156 or section 157 and be accompanied by copies of any such orders; and
   (c) describe the right of review conferred by section 193; and
   (d) state the period within which an application for a review of the determination or of any such order or both may be lodged (which period is prescribed by section 198(b)).
+(2A) A duty under subsection (1) (read with sections 6 and 193 to 197) to forthwith give written notice to each member of a class (of related persons) in column 1 of a row of the following table is performed sufficiently by forthwith giving written notice only to the individual or smaller class (of related persons) in column 2 of that row:Column 1ClassColumn 2Individual or smaller class1All persons who practise in partnership with the practitionerAny 1 of those persons who practise in partnership with the practitioner2All directors of an incorporated law firm or incorporated conveyancing firm in which the practitioner practisesAny 1 of those directors of that firm3All shareholders of an incorporated law firm or incorporated conveyancing firm in which the practitioner practisesAll shareholders of that firm who are shareholders of that firm in respect of shares that confer voting rights
 (3) If the person who is the subject of the determination is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
 
 ### 159 Power to notify Registrar-General of Land
@@ -2172,7 +2176,7 @@ In the case of the exercise by a Standards Committee (or by any person on its be
 ### 198 Applications for review
 Every application for a review under section 193 must—
   (a) be in the prescribed form; and
-  (b) be lodged with the Legal Complaints Review Officer within 30 working days after the determination, requirement, or order is made, or the direction is given, or the function or power is performed or exercised, by the Standards Committee (or by any person on its behalf or with its authority); and
+  (b) be lodged with the Legal Complaints Review Officer within 30 working days after a copy or notice of the determination, requirement, or order made, or the direction given, or the performance or exercise of the function or power, by the Standards Committee (or by any person on its behalf or with its authority) is served on, given to, or otherwise brought to the attention of, the applicant for review (which, in the absence of proof to the contrary, is presumed to have occurred on the fifth working day after it is made, given, or performed or exercised); and
   (c) be accompanied by the prescribed fee (if any).
 
 ### 199 Obligation to conduct review
@@ -2301,6 +2305,7 @@ The Legal Complaints Review Officer may, in conducting a review of a determinati
     (iii) each of the other persons who was entitled, under section 193, to apply to the Legal Complaints Review Officer for the review; and
   (b) report to the New Zealand Law Society or the New Zealand Society of Conveyancers, as the case may require, both the outcome at each review and any recommendations made as a result of the review.
 (2) The report of the outcome of a review must state the reasons for any decision made, as a result of that review, under section 205 or section 211.
+(2A) A duty under subsection (1)(a)(iii) (read with sections 6 and 193 to 197) to report the outcome of a review to each member of a class (of related persons) in column 1 of a row of the following table is performed sufficiently by reporting that outcome only to the individual or smaller class (of related persons) in column 2 of that row:Column 1ClassColumn 2Individual or smaller class1All persons who practise in partnership with the practitionerAny 1 of those persons who practise in partnership with the practitioner2All directors of an incorporated law firm or incorporated conveyancing firm in which the practitioner practisesAny 1 of those directors of that firm3All shareholders of an incorporated law firm or incorporated conveyancing firm in which the practitioner practisesAll shareholders of that firm who are shareholders of that firm in respect of shares that confer voting rights
 (3) If the person who is the subject of the review is a provider under the Legal Services Act 2011, the Legal Complaints Review Officer must report both the outcome of the review and any recommendations made as a result of the review to the Secretary for Justice.
 
 ### 214 Adverse comment
@@ -2473,7 +2478,7 @@ The Disciplinary Tribunal consists of—
 (4) Half of the number of members selected under subsection (1)(b)—
   (a) must, if the proceedings relate to a lawyer or former lawyer or an incorporated law firm or former incorporated law firm or an employee or former employee of a lawyer or an incorporated law firm, be members who hold office under section 228(d); or
   (b) must, if the proceedings relate to a conveyancing practitioner or former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an employee or former employee of a conveyancing practitioner or incorporated conveyancing firm, be members who hold office under section 228(e).
-(5) This section is subject to section 392.
+(5)
 
 ### 235 Quorum
 (1) The quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is 5 members of the Disciplinary Tribunal.
@@ -2481,7 +2486,13 @@ The Disciplinary Tribunal consists of—
   (a) no lay member is present; or
   (b) the number of lay members present exceeds the number of members present who hold office under section 228(d) or section 228(e).
 (3) Every question before the Disciplinary Tribunal or a division of the Disciplinary Tribunal is to be determined by the opinion of the majority of the members present at a sitting of the Disciplinary Tribunal or division, and, if the members are equally divided in their opinions, that of the chairperson prevails.
-(4) This section is subject to sections 244 and 392.
+(4) Subsection (1) is subject to subsection (5) (which permits a reduced, specified 3-member quorum for specified purposes) and section 244(2) (which specifies minimum attendance and voting requirements for the making of certain orders).
+(5) For the purposes specified in section 240(4) (which relates to interim name suppression orders), and for the purposes of section 245 (which relates to interim suspension from practice), the quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is (not only compliance with subsection (2)(b) of this section, but also) the following 3 members of the Disciplinary Tribunal:
+  (a) the chairperson of the Disciplinary Tribunal; and
+  (b) a lay member of the Disciplinary Tribunal; and
+  (c) either—
+    (i) a member of the Disciplinary Tribunal appointed under section 228(d) (if the practitioner to whom the charge relates is a lawyer); or
+    (ii) a member of the Disciplinary Tribunal appointed under section 228(e) (if the practitioner to whom the charge relates is a conveyancing practitioner).
 
 **Procedure**
 
@@ -2511,8 +2522,9 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
 (1) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may make any 1 or more of the following orders:
   (a) an order prohibiting the publication of any report or account of any part of any proceedings before it, whether held in public or in private:
   (b) an order prohibiting the publication of the whole or any part of any books, papers, or documents produced at any hearing:
-  (c) subject to subsection (3), an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person.
+  (c) an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person.
 (2) Unless it is reversed or modified in respect of its currency by the High Court on appeal under section 253, an order made under subsection (1) continues in force until such time as may be specified in the order, or, if no time is specified, until the Disciplinary Tribunal, in its discretion, revokes it on the application of any party to the proceedings in which the order was made or any other person.
+(2A) Subsections (1)(c) and (2) are subject to subsection (4).
 (3) Subsection (1)(c) does not apply to, or in respect of,—
   (a) any communications by or between any or all of the following:
     (i) the Council of the New Zealand Law Society:
@@ -2524,6 +2536,7 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
     (vii) the Legal Complaints Review Officer:
     (viii) the Disciplinary Tribunal:
   (b) the publication pursuant to section 256 of a notice in the Gazette.
+(4) For the purposes of exercising the Disciplinary Tribunal's powers under subsections (1)(c) and (2) to make or revoke, before the start of the hearing of the charge, an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person, the quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is, despite section 235(1), the 3-member quorum specified in section 235(5).
 
 ### 241 Charges that may be brought before Disciplinary Tribunal
 If the Disciplinary Tribunal, after hearing any charge against a person who is a practitioner or former practitioner or an employee or former employee of a practitioner or incorporated firm, is satisfied that it has been proved on the balance of probabilities that the person—it may, if it thinks fit, make any 1 or more of the orders authorised by section 242.
@@ -2536,11 +2549,11 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 (1) In any case to which section 241 applies, the Disciplinary Tribunal may make—
   (a) any order that a Standards Committee has power to make under section 156 on the final determination of a complaint:
   (b) an order declaring that, in the opinion of the Disciplinary Tribunal, any of the circumstances specified in section 163 exist in respect of the practitioner or former practitioner and directing a Standards Committee to exercise any power under section 164 or section 169:
-  (c) if the person is a lawyer, an order that his or her name be struck off the roll:
-  (d) if the person is a conveyancing practitioner, an order that the person's registration as a conveyancer be cancelled:
-  (e) if the person is a lawyer, an order that the practitioner be suspended from practice as a barrister or as a solicitor, or as both, for such period, not exceeding 36 months, as the Disciplinary Tribunal thinks fit:
-  (f) if the person is a conveyancing practitioner, an order that the person be suspended from practice as a conveyancing practitioner for such period, not exceeding 36 months, as the Disciplinary Tribunal thinks fit:
-  (g) an order prohibiting the practitioner from practising on his or her own account, whether in partnership or otherwise, until authorised by the Disciplinary Tribunal to do so:
+  (c) if the person is a lawyer or former lawyer, an order that the person's name be struck off the roll:
+  (d) if the person is a conveyancing practitioner or former conveyancing practitioner, an order that the person's registration as a conveyancer be cancelled:
+  (e) if the person is a lawyer or former lawyer, an order that the person be suspended from practice as a barrister or as a solicitor, or as both, for such period, not exceeding 36 months, as the Disciplinary Tribunal thinks fit:
+  (f) if the person is a conveyancing practitioner or former conveyancing practitioner, an order that the person be suspended from practice as a conveyancing practitioner for such period, not exceeding 36 months, as the Disciplinary Tribunal thinks fit:
+  (g) if the person is a practitioner or former practitioner, an order prohibiting the person from practising on his or her own account, whether in partnership or otherwise, until authorised by the Disciplinary Tribunal to do so:
   (h) if the person is an employee or a former employee of a practitioner or an incorporated firm,—
     (i) an order that any present employment of that person by any practitioner or incorporated firm be terminated:
     (ii) an order that no practitioner or incorporated firm employ that person in connection with the practitioner's or incorporated firm's practice so long as the order remains in force:
@@ -2556,12 +2569,12 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 (4) This section does not limit section 242.
 
 ### 244 Making of order for striking off roll, cancellation of registration, or suspension from practice
-(1) The Disciplinary Tribunal may not make an order, under section 242(1)(c), striking the name of a practitioner off the roll or an order, under section 242(1)(d), cancelling the registration of a practitioner unless in its opinion the practitioner is, by reason of his or her conduct, not a fit and proper person to be a practitioner.
+(1) The Disciplinary Tribunal may not make an order, under section 242(1)(c), striking the name of a practitioner or former practitioner off the roll or an order, under section 242(1)(d), cancelling the registration of a practitioner or former practitioner unless in its opinion the practitioner or former practitioner is, by reason of his or her conduct, not a fit and proper person to be a practitioner.
 (2) Except by consent, the Disciplinary Tribunal may not make—unless at least 5 members of the Disciplinary Tribunal are present and vote in favour of the order and those members are either the only members present and voting at the sitting of the Disciplinary Tribunal or the division of the Disciplinary Tribunal or are a majority of the members present and voting at the sitting of the Disciplinary Tribunal or the division of the Disciplinary Tribunal.
-  (a) an order, under section 242(1)(c), striking the name of a practitioner off the roll; or
-  (b) an order, under section 242(1)(d), cancelling the registration of a practitioner; or
-  (c) an order, under section 242(1)(e), suspending a practitioner from practice,—
-(3) Where the Disciplinary Tribunal makes an order, under section 242(1)(c), striking the name of a practitioner off the roll or an order, under section 242(1)(d), cancelling the registration of a practitioner, the order is, until the expiry of the time allowed for appeal under section 253 or, if an appeal is commenced, until the determination of the appeal, to take effect only as an order that the practitioner be suspended from practice as a barrister or as a solicitor or as both, or from practice as a conveyancing practitioner, as the case may require.
+  (a) an order, under section 242(1)(c), striking the name of a practitioner or former practitioner off the roll; or
+  (b) an order, under section 242(1)(d), cancelling the registration of a practitioner or former practitioner; or
+  (c) an order, under section 242(1)(e), suspending a practitioner or former practitioner from practice,—
+(3) Where the Disciplinary Tribunal makes an order, under section 242(1)(c), striking the name of a practitioner or former practitioner off the roll or an order, under section 242(1)(d), cancelling the registration of a practitioner or former practitioner, the order is, until the expiry of the time allowed for appeal under section 253 or, if an appeal is commenced, until the determination of the appeal, to take effect only as an order that the practitioner or former practitioner be suspended from practice as a barrister or as a solicitor or as both, or from practice as a conveyancing practitioner, as the case may require.
 
 ### 245 Interim suspension from practice
 (1) If a charge against a practitioner has been made or referred to the Disciplinary Tribunal, it may,—make an order that the practitioner be suspended from practice as a barrister or as a solicitor or as both, or as a conveyancing practitioner, until the charge has been heard and disposed of.
@@ -2577,12 +2590,7 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
   (c) both.
 (5) An application under subsection (4) must be heard within 7 days after the day on which it is received by the Disciplinary Tribunal, and the Disciplinary Tribunal may grant or refuse the application as it thinks fit.
 (6) If an order under subsection (1) is made or revoked by the Disciplinary Tribunal, the Disciplinary Tribunal must forthwith give written notice of the making or revocation of the order to the Registrar-General of Land.
-(7) For the purposes of this section, a quorum of the Disciplinary Tribunal is formed by—
-  (a) the chairperson of the Disciplinary Tribunal; and
-  (b) a lay member of the Disciplinary Tribunal; and
-  (c) either—
-    (i) a member of the Disciplinary Tribunal appointed under section 228(d) (if the practitioner to whom the charge relates is a lawyer); or
-    (ii) a member of the Disciplinary Tribunal appointed under section 228(e) (if the practitioner to whom the charge relates is a conveyancing practitioner).
+(7) For the purposes of exercising the Disciplinary Tribunal's powers under this section, the quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is, despite section 235(1), the 3-member quorum specified in section 235(5).
 (8) Nothing in this section or in section 236 requires the Disciplinary Tribunal to give a practitioner an opportunity to appear or be heard before the Disciplinary Tribunal makes an order under subsection (1) or gives a direction under subsection (3).
 
 ### 246 Restoration of name to roll or register
@@ -2668,12 +2676,12 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 
 ### 255 Order for striking off, cancellation of registration, restoration, or suspension to be filed in High Court
 (1) Where the Disciplinary Tribunal makes—the chairperson of the Disciplinary Tribunal must ensure that the order is filed in the office of the High Court at Wellington.
-  (a) an order under section 242(1)(c) striking the name of a lawyer off the roll; or
+  (a) an order under section 242(1)(c) striking the name of a lawyer or former lawyer off the roll; or
   (b) an order under section 242(1)(d) cancelling the registration of a person as a conveyancer; or
-  (c) an order under section 242(1)(e) or (f) suspending a practitioner from practice; or
+  (c) an order under section 242(1)(e) or (f) suspending a practitioner or former practitioner from practice; or
   (d) an order under section 246(3) that the name of any person be restored to the roll or register,—
 (2) Subject to subsection (3), on the filing of the order it takes effect as if it were an order of the High Court to the like effect made within the jurisdiction of the High Court.
-(3) If the order filed is an order made under section 242(1)(c) or (d), that order must, until the expiry of the time allowed for appeal under section 253, or, if an appeal is commenced, until the determination of the appeal, take effect only as an order that the practitioner be suspended from practice as a barrister or as a barrister and solicitor or as a conveyancing practitioner, as the case may require.
+(3) If the order filed is an order made under section 242(1)(c) or (d), that order must, until the expiry of the time allowed for appeal under section 253, or, if an appeal is commenced, until the determination of the appeal, take effect only as an order that the practitioner or former practitioner be suspended from practice as a barrister or as a barrister and solicitor or as a conveyancing practitioner, as the case may require.
 (4) An order filed in the High Court under this section may be inspected by any person during office hours without payment of any fee.
 (5) If the person who is the subject of the order is a provider under the Legal Services Act 2011, the chairperson of the Disciplinary Tribunal must give a copy of the order to the Secretary for Justice.
 
@@ -2682,24 +2690,24 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 ### 256 Notice of order for striking off, cancellation of registration, restoration, or suspension to be published in Gazette
 (1) Where—the chairperson of the Disciplinary Tribunal must, forthwith after the expiry of that time, publish in the Gazette a notice stating the date and the effect of the order.
   (a) the Disciplinary Tribunal makes—
-    (i) an order under section 242(1)(c) striking the name of a practitioner from the roll; or
+    (i) an order under section 242(1)(c) striking the name of a lawyer or former lawyer from the roll; or
     (ii) an order under section 242(1)(d) cancelling the registration of a person as a conveyancer; or
-    (iii) an order under section 242(1)(e) or (f) suspending a practitioner from practice; or
+    (iii) an order under section 242(1)(e) or (f) suspending a practitioner or former practitioner from practice; or
     (iv) an order under section 242(1)(h)(ii) or (iii) in respect of an employee or former employee of a practitioner or an incorporated firm; and
   (b) no appeal to the High Court is commenced against the order within the time allowed for appeal,—
 (2) Where—the chairperson of the Disciplinary Tribunal must forthwith cause a notice stating the date and effect of the determination to be published in the Gazette.
   (a) an appeal to the High Court against an order of the kind described in subsection (1) results—
-    (i) in the name of a practitioner being ordered to be struck off the roll; or
+    (i) in the name of a lawyer or former lawyer being ordered to be struck off the roll; or
     (ii) in the registration of a person as a conveyancer being ordered to be cancelled; or
-    (iii) in the name of a practitioner being ordered to be restored to the roll or the register of conveyancers; or
-    (iv) in a practitioner being suspended from practice; or
+    (iii) in the name of a practitioner or former practitioner being ordered to be restored to the roll or the register of conveyancers; or
+    (iv) in a practitioner or former practitioner being suspended from practice; or
     (v) in an employee or former employee of a practitioner or an incorporated firm being made subject to an order of the kind described in section 242(1)(h)(ii) or (iii); and
   (b) no appeal to the Court of Appeal is commenced against the determination of the High Court within the time allowed,—
 (3) Where an appeal to the Court of Appeal against any determination of the High Court on an appeal under section 254 results—the chairperson of the Disciplinary Tribunal must forthwith cause a notice stating the date and effect of the determination to be published in the Gazette.
-  (a) in the name of a practitioner being ordered to be struck off or restored to the roll; or
+  (a) in the name of a lawyer or former lawyer being ordered to be struck off or restored to the roll; or
   (b) in the registration of a person as a conveyancer being ordered to be cancelled; or
   (c) in the name of a person being ordered to be restored to the register of conveyancers; or
-  (d) in a practitioner being suspended from practice; or
+  (d) in a practitioner or former practitioner being suspended from practice; or
   (e) in an employee or former employee of a practitioner or an incorporated firm being made subject to an order of the kind described in section 242(1)(h)(ii) or (iii),—
 (4) The expenses incurred in publishing a notice under this section must,—
   (a) if the notice relates to a lawyer or an employee or a former employee of a lawyer or an incorporated law firm, be paid by the New Zealand Law Society; or
@@ -2761,25 +2769,28 @@ Despite section 14 of the Summary Proceedings Act 1957, an information in respec
 **Jurisdiction of High Court and Court of Appeal**
 
 ### 266 Lawyer's name may be struck off on application to High Court
-On application to the High Court in that behalf, the name of a barrister and solicitor may be struck off the roll for reasonable cause, whenever and wherever it arises, in accordance with section 267.
+On application to the High Court in that behalf, the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act may be struck off the roll for reasonable cause, whenever and wherever it arises, in accordance with section 267.
 
 ### 267 High Court may dismiss application, or reserve case for Court of Appeal
-(1) When an application is made to the High Court for an order that the name of a barrister and solicitor be struck off the roll,—
+(1) When an application is made to the High Court for an order that the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act be struck off the roll,—
   (a) the High Court may, if it thinks fit, dismiss the application; or
   (b) if the High Court is of the opinion that the application ought to be granted, or that it is doubtful whether the application ought to be dismissed or granted, the High Court must reserve the case for the consideration of the Court of Appeal.
 (2) The High Court, if it reserves the case under subsection (1)(b),—
   (a) must cause the application and all affidavits made in support of the application, and all other proceedings, to be sent forthwith to the Registrar of the Court of Appeal; and
-  (b) may order that the barrister and solicitor be suspended from practice as a barrister or as a solicitor or as both until the decision of the Court of Appeal on the application is given.
+  (b) may order that the person enrolled be suspended from practice as a barrister or as a solicitor or as both until the decision of the Court of Appeal on the application is given.
 (3) If a case is reserved for the consideration of the Court of Appeal, that court—
   (a) must, as soon as practicable, consider the application and grant or dismiss it; and
   (b) may make such other order in respect of the application as it thinks fit.
 
 ### 268 Inherent jurisdiction of High Court
-(1) Nothing in this Act (other than sections 266 and 267) affects the inherent jurisdiction and powers of the High Court over barristers and barristers and solicitors.
-(2) Despite section 245, the High Court has, in the exercise of its summary jurisdiction, full power, on reasonable cause being shown, to suspend any barrister and any barrister and solicitor from practice.
+(1) Nothing in this Act (other than sections 266 and 267) affects the inherent jurisdiction and powers of the High Court over a person enrolled under or by virtue of this Act as a barrister and solicitor of the High Court (whether or not the person is practising as a barrister and solicitor, or as a barrister but not also as a solicitor).
+(2) Despite section 245, the High Court has, in the exercise of its summary jurisdiction, full power, on reasonable cause being shown, to suspend from practice a person enrolled under or by virtue of this Act as a barrister and solicitor of the High Court (whether or not the person is practising as a barrister and solicitor, or as a barrister but not also as a solicitor).
 
 ### 269 Notice of order for striking off or suspension to be published in Gazette
-If the Court of Appeal or the High Court orders that the name of a barrister or solicitor be struck off the roll, or that a barrister or solicitor be suspended from practice, the Registrar of the court in which the order is made must forthwith cause a notice stating the date and effect of the order to be published in the Gazette.
+(1) This section applies if the Court of Appeal or the High Court makes—
+  (a) an order that the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act be struck off the roll; or
+  (b) an order that a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act be suspended from practice.
+(2) The Registrar of the court in which the order is made must forthwith cause a notice stating the date and effect of the order to be published in the Gazette.
 
 ### 270 Jurisdiction of High Court not limited
 Except as provided in this Part, nothing in this Part limits the jurisdiction of the High Court.
@@ -2907,7 +2918,7 @@ The Council may, from time to time, by resolution, make, alter, or rescind any r
   (a) 2 Judges of the High Court nominated by the Chief Justice:
   (b) a District Court Judge, nominated by the Chief District Court Judge:
   (c) 5 members nominated by the Council of the New Zealand Law Society:
-  (d) the Dean of the Faculty or School of Law of each of the following universities, namely, the University of Auckland, the University of Waikato, the Victoria University of Wellington, the University of Canterbury, and the University of Otago:
+  (d) the Dean of the Faculty or School of Law of each of the following universities, namely, the University of Auckland, the Auckland University of Technology, the University of Waikato, the Victoria University of Wellington, the University of Canterbury, and the University of Otago:
   (e) 2 members nominated by the Council of the New Zealand Law Students' Association Incorporated:
   (f) 1 member (not being a practitioner or a law student) nominated by the Minister of Justice:
   (g) not more than 1 member nominated by the Council.
@@ -3768,26 +3779,17 @@ Every person who, at the commencement of this section, holds office as President
 **Transitional provisions relating to Disciplinary Tribunal**
 
 ### 391 Appointment of members of Disciplinary Tribunal
-(1) In respect of the period specified in subsection (2), section 233 is to have effect as if, for section 233(3), there were substituted the following subsection:
-  (3) The members appointed under section 228(e) are to be appointed by the Council of the New Zealand Law Society.
-(2) The period specified for the purposes of subsection (1) is the period—
-  (a) beginning with the date appointed for the commencement of section 233; and
-  (b) ending, subject to section 393, with the close of the period of 12 months beginning with the date specified in paragraph (a).
-(3) The expiry of the period specified for the purposes of subsection (1) does not affect the term for which any person who, at any time in that period, was appointed, under section 233(3) (as set out in subsection (1)) as a member of the Disciplinary Tribunal.
+[Repealed]
 
 ### 392 Quorum
-(1) In respect of the period specified in subsection (2), this Act is to have effect, in relation to any proceedings before the Disciplinary Tribunal or a division of the Disciplinary Tribunal that relate to a conveyancing practitioner or former conveyancing practitioner or an incorporated conveyancing firm or former conveyancing firm or an employee or former employee of a conveyancing practitioner or an incorporated conveyancing firm, as if—
-  (a) in section 234(2), there were substituted for the words an even number that is not less than 4, the figure 2; and
-  (b) in section 235(1), there were substituted for the figure 5, the figure 3; and
-  (c) in section 244(2), there were substituted for the figure 5, the figure 3.
-(2) The period specified for the purposes of subsection (1) is the period—
-  (a) beginning with the date appointed for the commencement of sections 234, 235, and 244; and
-  (b) ending, subject to section 393, with the close of the period of 12 months beginning with the date specified in paragraph (a).
+[Repealed]
 
 ### 393 Power to alter period
-The Governor-General may from time to time by Order in Council alter the period specified for the purposes of section 391(1) or the period specified for the purposes of section 392(1) or both by appointing an earlier date or a later date for the end of the period.
+[Repealed]
 
 ## Schedule 1 — Provisions requiring appointment of agent to conduct sole practice or act as board of incorporated firm
+
+**Appointment of agent to conduct sole practice or act as board of incorporated firm**
 
 ### 1 Interpretation
 In this schedule,—
@@ -3827,6 +3829,7 @@ In this schedule,—
 The periods for which the power of attorney (referred to in clause 2(1) or clause 4(1)) must be given are—
   (a) any current or future period or periods during which the donor is wholly or partially incapacitated and unable, by reason of his or her mental or physical condition, to conduct his or her practice; and
   (b) any current or future period or periods during which the donor is absent from his or her practice; and
+  (ba) any current or future period or periods during which the donor is an undischarged bankrupt; and
   (c) any current or future period or periods during which the donor is prohibited by an order of the Disciplinary Tribunal from practising on his or her own account; and
   (d) the period from the date of the donor's death until his or her administrator (within the meaning of the Administration Act 1969) either lawfully disposes of the practice or revokes the power of attorney; and
   (e) if the donor, being a lawyer, is suspended from practice, then, subject to the consent of the Council of the New Zealand Law Society being obtained at that time to the operation of the power of attorney, any period during which he or she is so suspended; and
@@ -4271,3 +4274,46 @@ Neither the Council, nor a committee appointed under section 280, nor any member
 ## Schedule 6 — Enactments amended
 
 ## Schedule 7 — Enactments repealed
+
+### 1 Title
+This Act is the Lawyers and Conveyancers Amendment Act 2012.
+
+### 2 Commencement
+(1) Part 1 comes into force on 3 December 2012.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Lawyers and Conveyancers Act 2006.
+
+## Part 2 — Amendments relating to other matters
+
+### 7 Purpose of this Part
+The purpose of this Part is to amend the principal Act to—
+  (a) enable (but not require) a conveyancing practitioner to hold non-voting shares of an incorporated conveyancing firm, and a lawyer to hold non-voting shares of an incorporated law firm, as a trustee of a trust in which—
+    (i) each beneficiary is a relative of 1 or more of the trustees; and
+    (ii) each trustee is (for an incorporated conveyancing firm) a conveyancing practitioner, or (for an incorporated law firm) a lawyer, who is actively involved in the provision by the body corporate of regulated services:
+  (b) enable grandchildren of a conveyancing practitioner or, as the case may be, a lawyer to be non-voting shareholders of an incorporated conveyancing firm or, as the case may be, an incorporated law firm:
+  (c) require the power of attorney that a lawyer or conveyancing practitioner in sole practice must give to authorise the donee of that power to conduct that practice as an agent to be given for any periods during which the lawyer or conveyancer is an undischarged bankrupt:
+  (d) ensure applications for a review by the Legal Complaints Review Officer of a specified decision or action by (or on behalf of, or with the authority of) a Standards Committee must be lodged within a 30-working-day period commencing on the day after a copy or notice of the decision or action is brought to the applicant's attention (which is presumed to have occurred on the fifth working day after the decision or action):
+  (e) make clear the Disciplinary Tribunal's and the High Court's powers in respect of a person enrolled as a barrister and solicitor but not practising as a barrister, a barrister and solicitor, or a solicitor:
+  (f) reduce requirements to notify and report to certain related persons:
+  (g) reduce the quorum for the making of interim name suppression orders (to align it with the quorum for the making of interim suspension from practice orders) by the Disciplinary Tribunal:
+  (h) make clear the Disciplinary Tribunal's jurisdiction over former lawyers and former conveyancing practitioners:
+  (i) make the Dean of the Law School at the Auckland University of Technology a member of the New Zealand Council of Legal Education:
+  (j) repeal spent transitional provisions relating to the Disciplinary Tribunal.
+
+**Appointment of agent to conduct sole practice of lawyer or conveyancing practitioner**
+
+### 9 Schedule 1 amended
+(1) Amendment(s) incorporated in the Act(s).
+(2) Clause 7(ba) of Schedule 1 of the principal Act (as inserted by subsection (1))—
+  (a) applies to a power of attorney that was required by clause 2(1) or 4(1) of that schedule to be given before the commencement of this section; and
+  (b) requires a power of that kind to be amended or replaced within 3 months after the date on which this section comes into force so that, as so amended or replaced, it is given for periods that include the period or periods specified in clause 7(ba) of Schedule 1 of the principal Act (as so inserted).
+
+**Legal Complaints Review Officer**
+
+### 12 Applications for review
+(1) Amendment(s) incorporated in the Act(s).
+(2) Section 198(b) of the principal Act (as substituted by subsection (1)) applies only to applications for review under section 193 of the principal Act—
+  (a) made, and not withdrawn or finally determined, before the commencement of this section; or
+  (b) made after that commencement.
