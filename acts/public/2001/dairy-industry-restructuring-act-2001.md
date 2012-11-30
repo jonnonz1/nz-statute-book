@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-11-30_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1924,6 +1924,9 @@ For the avoidance of doubt,—
 
 ### 161E Application of Companies Act 1993
 Nothing in section 82 of the Companies Act 1993 (the Act) prevents a subsidiary of new co-op holding shares in new co-op if the only reason that the exemption contained in section 82(6) of the Act does not apply is that new co-op or a subsidiary of new co-op holds new co-op fund securities.
+
+### 161F Application of section 20(2) and (3) of Co-operative Companies Act 1996
+Section 20(2) and (3) of the Co-operative Companies Act 1996 do not apply to new co-op.
 
 ### 162 Shareholders’ Council of new co-op
 (1) This section applies if new co-op’s constitution provides for a Shareholders’ Council.
