@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Amendment Act 2012
-_Consolidation as at 2012-07-26_
+_Consolidation as at 2012-11-30_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Amendment Act 2012.
