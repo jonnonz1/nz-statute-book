@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2012-11-20_
+_Consolidation as at 2012-12-03_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -1422,47 +1422,95 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 (5) Regulations made under section 115 do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the New Zealand Institute of Chartered Accountants Act 1996.
 (6) Without prejudice to subsection (5), wilful failure to comply with any regulations made under section 115 is, if the High Court thinks fit, ground for the exercise of the High Court's summary jurisdiction under this Act.
 
-**Barristers, Senior Counsel, and Queen's Counsel**
+**Barristers and Queen's Counsel**
 
 ### 117 Status of barristers
 Subject to this Act, barristers of the High Court have all the powers, privileges, duties, and responsibilities that barristers have at law.
 
-### 118 Office of Queen's Counsel to be known as Senior Counsel
-(1) As from the commencement of this section, the office previously known in New Zealand as Queen's Counsel is to be known in New Zealand as Senior Counsel.
-(2) Despite anything in this Act or in any regulations made under section 119(1) or in any guidelines issued under any such regulations,—
-  (a) no lawyer who holds a current practising certificate as a barrister or as a barrister and solicitor is ineligible for appointment, under the Royal prerogative, as Senior Counsel by reason only of the fact that he or she—
-    (i) practises either alone or in partnership with any other lawyer; or
-    (ii) is actively involved in the provision by an incorporated law firm of legal services; or
-    (iii) is an employee or statutory officer; and
-  (b) any lawyer who holds the rank of Queen's Counsel or Senior Counsel is not precluded, by reason only of the fact that he or she holds that rank,—
-    (i) from practising either alone or in partnership with any other lawyer; or
-    (ii) from being actively involved in the provision by an incorporated law firm of legal services; or
-    (iii) from being an employee or statutory officer.
-(3) Nothing in this section affects the designation of any person who was appointed as a Queen's Counsel for New Zealand before the commencement of this section.
-(4) Nothing in this section prevents any barrister who held the rank of Queen's Counsel immediately before the commencement of this section from using, in relation to himself or herself, after the commencement of this section,—
-  (a) the words Queen's Counsel or the abbreviation QC; or
-  (b) if the Sovereign for the time being is a King, the words King's Counsel or the abbreviation KC.
-(5) Despite subsections (3) and (4), any barrister who held the rank of Queen's Counsel immediately before the commencement of this section may, after the commencement of this section, use, in relation to himself or herself,—
-  (a) instead of the words Queen's Counsel or King's Counsel, the words Senior Counsel; and
-  (b) instead of the abbreviation QC or the abbreviation KC, the abbreviation SC.
-(6) Nothing in this section or section 119 abrogates the power of the Crown to revoke, under the Royal prerogative, the appointment of any person who was appointed as a Queen's Counsel for New Zealand before the commencement of this section.
-(7) Nothing in this section affects the precedence to which any barrister is entitled by virtue of holding, immediately before the commencement of this section, the rank of Queen's Counsel.
+### 118 Office or rank of Queen's Counsel
+The office or rank that before 1 August 2008 was known in New Zealand as Queen's Counsel, and that from the close of 31 July 2008 to the close of 2 December 2012 was renamed as Senior Counsel, is on and after 3 December 2012 again to be known in New Zealand as Queen's Counsel.
 
-### 119 Power to make regulations in relation to Senior Counsel and Queen's Counsel
-(1) The Governor-General may, by Order in Council, make regulations prescribing—
-  (a) the process by which candidates may be recommended to the Governor-General for appointment, by letters patent, under the Royal prerogative as Senior Counsel:
-  (b) the fees to be paid by candidates for appointment as Senior Counsel:
-  (c) the privileges and duties of Senior Counsel and Queen's Counsel:
-  (d) the conditions on or subject to which candidates may be appointed as Senior Counsel:
-  (e) the conditions on or subject to which Senior Counsel and Queen's Counsel may practise their profession:
-  (f) the precedence that Senior Counsel and Queen's Counsel are to have in the courts of New Zealand:
-  (g) such other matters as may be necessary in relation to Senior Counsel and Queen's Counsel.
-(2) Regulations made under subsection (1) may authorise the Chief Justice and the Attorney-General to issue guidelines in relation to both the qualifications and experience that should be possessed by candidates for appointment as Senior Counsel and the process by which such candidates may be recommended for appointment.
-(3) A person who holds the rank of Senior Counsel or Queen's Counsel ceases to hold that rank if—
-  (a) he or she is suspended from practice as a barrister; or
+### 118A Eligibility for appointment
+(1) A person who holds a current practising certificate authorising him or her to practise as a barrister and not as a barrister and solicitor is eligible for appointment, under the Royal prerogative, as a Queen's Counsel if he or she (whether or not he or she is a statutory officer)—
+  (a) practises, and in the course of his or her practice provides regulated services, alone (that is, not in partnership with any other lawyer); and
+  (b) is not actively involved in the provision by an incorporated law firm (other than one in which he or she is the only voting shareholder) of regulated services; and
+  (c) is not an employee (other than an employee of an incorporated law firm in which he or she is the only voting shareholder) who, in the course of his or her employment, provides regulated services.
+(2) Nothing in this section, section 118B, or section 119 limits or affects appointments, under the Royal prerogative (as preserved by section 119C(1) and (2)), to the office of Queen’s Counsel of a person who, when appointed to that office, is all or any of the following:
+  (a) a person who is not in the category in subsection (1):
+  (b) a person who is appointed otherwise than in accordance with regulations under section 119(1)(a) and (b), guidelines of the kind specified in section 119(2)(b), or both:
+  (c) a person who does not possess all or any of the qualifications and experience that guidelines of the kind specified in section 119(2)(a) indicate should be possessed by candidates for appointment as Queen's Counsel.
+
+### 118B Restrictions on practice of specified category of lawyers who hold rank
+(1) A person who holds the rank of Queen's Counsel, and who when appointed to that rank was in the category in section 118A(1),—
+  (a) must not practise, or in the course of his or her practice provide regulated services, as a barrister and solicitor, or in partnership with any other lawyer; and
+  (b) must not be actively involved in the provision by an incorporated law firm (other than one in which he or she is the only voting shareholder) of regulated services; and
+  (c) must not be an employee (other than an employee of an incorporated law firm in which he or she is the only voting shareholder) who, in the course of his or her employment, provides regulated services; but
+  (d) is not precluded, by reason only of the fact that he or she holds that rank, from being a statutory officer.
+(2) Subsection (1) is subject to sections 118C(5) and 118D(4), but overrides other provisions of this Act.
+(3) A person who is subject to, and who contravenes, subsection (1) must be treated as having surrendered at the time of the contravention the rank of Queen's Counsel.
+
+### 118C Queen's Counsel appointed before 1 August 2008
+(1) This section applies to a person who at the close of 31 July 2008 held, and at the close of 2 December 2012 continued to hold, the rank of Queen's Counsel for New Zealand.
+(2) If, after 31 July 2008 and under section 118(5) (as repealed by section 6 of the Lawyers and Conveyancers Amendment Act 2012), the person used, in relation to himself or herself, the words Senior Counsel and the abbreviation SC, then after 2 December 2012 he or she—
+  (a) may continue to use, in relation to himself or herself, those words and that abbreviation; or
+  (b) may use instead, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
+(3) The precedence to which the person is entitled is not affected by sections 118 to 119C (as substituted by section 6 of the Lawyers and Conveyancers Amendment Act 2012).
+(4) The following apply to the person in the same way as they apply to a Queen's Counsel appointed to that rank after 2 December 2012:
+  (a) sections 118B, 119A, and 119B (as so substituted):
+  (b) any regulations made under section 119(1)(c) and (e) to (g) (as so substituted).
+(5) Despite subsection (4)(a), section 118B (as so substituted) does not apply, but section 118D(4) (as so substituted) does apply, to the person if after his or her appointment as a Queen's Counsel and before or on 1 April 2010 and under section 118(2)(b) of this Act (as repealed by section 6 of the Lawyers and Conveyancers Amendment Act 2012) or not inconsistently with an enactment in or under an earlier Act that corresponds to this Act he or she—
+  (a) practised, or in the course of his or her practice provided regulated services, as a barrister and solicitor, or in partnership with any other lawyer; or
+  (b) was actively involved in the provision by an incorporated law firm (other than one in which he or she is the only voting shareholder) of regulated services; or
+  (c) was an employee (other than an employee of an incorporated law firm in which he or she is the only voting shareholder) who, in the course of his or her employment, provided regulated services; or
+  (d) was a statutory officer.
+(6) Subsections (3), (4), and (5) apply to the person whether or not after 2 December 2012 and under subsection (2) he or she uses, in relation to himself or herself, the words Senior Counsel and the abbreviation SC.
+
+### 118D Senior Counsel appointed after 31 July 2008 and before 3 December 2012
+(1) This section applies to a person who after 31 July 2008 was appointed to, and at the close of 2 December 2012 continued to hold, the rank of Senior Counsel for New Zealand.
+(2) After 2 December 2012, the person—
+  (a) may continue to use, in relation to himself or herself, the words Senior Counsel and the abbreviation SC; or
+  (b) may instead use, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
+(3) The precedence to which the person is entitled is not affected by sections 118 to 119C (as substituted by section 6 of the Lawyers and Conveyancers Amendment Act 2012).
+(4) After 2 December 2012, the person is not precluded, by reason only of the fact that he or she holds that rank,—
+  (a) from practising, or in the course of his or her practice providing regulated services, either as a barrister or as a barrister and solicitor, or either alone or in partnership with any other lawyer; or
+  (b) from being actively involved in the provision by an incorporated law firm (other than one in which he or she is the only voting shareholder) of regulated services; or
+  (c) from being an employee (other than an employee of an incorporated law firm in which he or she is the only voting shareholder) who, in the course of his or her employment, provides regulated services; or
+  (d) from being a statutory officer.
+(5) The following apply to the person in the same way as they apply to a Queen's Counsel appointed to that rank after 2 December 2012:
+  (a) sections 119A and 119B (as so substituted):
+  (b) any regulations made under section 119(1)(c) and (e) to (g) (as so substituted).
+(6) Subsections (3), (4), and (5) apply to the person whether or not after 2 December 2012 and under subsection (2) he or she uses, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
+
+### 119 Regulations relating to Queen's Counsel
+(1) The Governor-General may, by Order in Council, make regulations (not inconsistent with this Act) prescribing—
+  (a) the process by which candidates may be recommended to the Governor-General for appointment, by letters patent, under the Royal prerogative as Queen's Counsel:
+  (b) the fees to be paid by candidates for appointment as Queen's Counsel:
+  (c) the privileges and duties of Queen's Counsel:
+  (d) the conditions on or subject to which candidates may be appointed as Queen's Counsel:
+  (e) the conditions on or subject to which Queen's Counsel may practise their profession:
+  (f) the precedence that Queen's Counsel are to have in the courts of New Zealand:
+  (g) such other matters as may be necessary in relation to Queen's Counsel.
+(2) Regulations made under subsection (1) may authorise the Chief Justice and the Attorney-General to issue guidelines (not inconsistent with this Act or any regulations of that kind) in relation to both—
+  (a) the qualifications and experience that should be possessed by candidates for appointment as Queen's Counsel; and
+  (b) the process by which such candidates may be recommended for appointment.
+
+### 119A Other ways of ceasing to hold rank
+(1) A person who holds the rank of Queen's Counsel ceases to hold that rank if—
+  (a) he or she is suspended from practice as a barrister or as a solicitor or as both (even if the suspension is only until a charge against the person has been heard and disposed of by the Disciplinary Tribunal); or
   (b) his or her name is struck off the roll.
-(4) If the Sovereign for the time being is a King, every reference in this section, or in any regulations made under subsection (1), to Queen's Counsel is, unless the context otherwise requires, to be read as a reference to King's Counsel.
-(5) The powers conferred by this section do not derogate from the power to appoint, under the Royal prerogative, persons to the office previously known as Queen's Counsel and to designate the persons appointed to that office as Senior Counsel.
+(2) Nothing in sections 118 to 119C (as substituted by section 6 of the Lawyers and Conveyancers Amendment Act 2012) abrogates the power of the Crown to revoke, under the Royal prerogative, the appointment of any person who was appointed as a Queen's Counsel for New Zealand.
+
+### 119B Style of rank if Sovereign for time being is King
+(1) If the Sovereign for the time being is a King,—
+  (a) every reference to Queen's Counsel in a provision to which this paragraph applies is, unless the context otherwise requires, to be read as a reference to King's Counsel; and
+  (b) the words and abbreviation that a lawyer who holds the rank of Queen's Counsel are to use, if he or she wishes, in relation to himself or herself, are King's Counsel and KC.
+(2) Subsection (1)(a) applies to—
+  (a) provisions in this Act (other than in subsection (1) or in section 118C(1)); and
+  (b) provisions in (or in any guidelines issued under) any regulations made under section 119(1).
+
+### 119C Royal prerogative power to appoint unaffected
+(1) Sections 118A and 118B do not derogate from the power to appoint under the Royal prerogative to the office of Queen's Counsel a person who, when so appointed, was not in the category in section 118A(1) (and by way of explanation who, after being so appointed, is not subject to section 118B, which imposes practice restrictions).
+(2) The powers conferred by section 119 do not derogate from the power to appoint, under the Royal prerogative, people to the office of Queen's Counsel.
 
 ## Part 7 — Complaints and discipline
 
