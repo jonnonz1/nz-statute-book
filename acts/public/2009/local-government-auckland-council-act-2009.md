@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2011-09-20_
+_Consolidation as at 2012-12-05_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -120,13 +120,13 @@ If there is any inconsistency between this Act and the Local Government Act 2002
 ### 10 Local boards
 A local board must be established for each local board area for the purposes of—
   (a) enabling democratic decision making by, and on behalf of, communities within the local board area; and
-  (b) better enabling the promotion of the social, economic, environmental, and cultural well-being of communities within the local board area, in the present and for the future.
+  (b) better enabling the purpose of local government to be given effect to within the local board area.
 
 ### 11 Membership of local boards
 (1) The initial number of members for each local board is determined by the Local Government Commission under section 34(1)(c).
 (1A) The number of members for each local board may be altered in either of the following ways, but must at all times be no fewer than 5 and no more than 12 members:
   (a) as a consequence of a review carried out by the Council under the Local Electoral Act 2001 and section 103 of this Act:
-  (b) as part of a reorganisation proposal under the Local Government Act 2002 and section 13A of this Act.
+  (b) as part of a local government reorganisation under the Local Government Act 2002 and section 13A of this Act.
 (2) Members of a local board—
   (a) must be elected in accordance with the Local Electoral Act 2001; and
   (b) must elect a chairperson from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7 of the Local Government Act 2002.
@@ -166,13 +166,13 @@ A local board must be established for each local board area for the purposes of�
   (f) may exercise any powers that are delegated to it by the governing body under section 31 or Auckland Transport under section 54.
 
 ### 13A Local boards may be subject of reorganisation proposal
-(1) A reorganisation proposal may deal with 1 or more of the following matters:
+(1) A reorganisation application may deal with 1 or more of the following matters:
   (a) the establishment of a local board area:
   (b) the abolition of a local board area:
   (c) the alteration of the boundaries of a local board area:
   (d) the union of 2 or more local board areas.
-(2) Sections 24 to 26 and Schedule 3 of the Local Government Act 2002 apply to a proposal under subsection (1) as if the local board area or areas were the district of a local authority or the districts of local authorities, as the case may be.
-(3) To avoid doubt, the Auckland Council remains the affected local authority for the purposes of any proposal.
+(2) Sections 24 to 26A and Schedule 3 of the Local Government Act 2002 apply to an application under subsection (1) as if the local board area or areas were the district of a local authority or the districts of local authorities, as the case may be.
+(3) To avoid doubt, the Auckland Council remains the affected local authority for the purposes of any application.
 
 **Decision making**
 
@@ -394,7 +394,8 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
   (d) providing the administrative and other facilities for each local board necessary for the board to carry out its functions and perform its duties.
 
 ### 32A Powers of Minister in relation to local board
-The Minister may exercise the powers in sections 254 to 257 of the Local Government Act 2002 in relation to a local board and, for that purpose, those sections and Part 1 of Schedule 15 of that Act apply, with any necessary modifications, as if a local board were a local authority.
+(1) The Minister may exercise the powers in Part 10 of the Local Government Act 2002 in relation to a local board and, for that purpose, that Part applies, with any necessary modifications, as if a local board were a local authority.
+(2) This section applies despite section 255 of that Act.
 
 ### 32B Application of certain Acts to local boards
 (1) The Ombudsmen Act 1975 applies to a local board as if the board were listed in Part 3 of Schedule 1 of that Act.
@@ -406,97 +407,21 @@ The Minister may exercise the powers in sections 254 to 257 of the Local Governm
 ### Subpart 1 — Local Government Commission
 
 ### 33 Local Government Commission to determine boundaries of Auckland
-(1) The Local Government Commission must, no later than 1 March 2010, determine the boundaries of Auckland.
-(2) In making a determination under subsection (1) in relation to the southern boundary of Auckland, the Commission must—
-  (a) ensure that the southern boundary of Auckland follows, as closely as practicable, the southern boundary of the Auckland region, except that—
-    (i) the Mangatawhiri River and Mangatangi Stream catchments must, as far as practicable, be excluded (and consequently included in Waikato district and Waikato region); and
-    (ii) that part of Franklin district situated between the Mangatangi Stream catchment and the Firth of Thames must, as far as practicable, be excluded (and consequently included in Waikato region and either Hauraki district or Waikato district); and
-  (b) determine all matters arising from the boundary adjustment it is required to make under paragraph (a) (for example, the transfer of responsibilities and assets); and
-  (c) without limiting paragraphs (a) and (b), act in accordance with Schedule 1.
-(3) In making a determination in relation to the remaining boundaries of Auckland, the Local Government Commission must ensure that, so far as is practicable and consistent with the boundary determined under subsection (2), the boundaries follow the boundaries of the Auckland region.
-(4) For the purposes of making a determination, the Local Government Commission—
-  (a) may undertake the investigations and consult the persons that it thinks desirable; but
-  (b) is not required to consult any person.
-(5) The Commission may amend a determination made under this section if satisfied that—
-  (a) some further or other provision is necessary to enable, or better enable, the intention of the determination; or
-  (b) some provision of the determination is no longer relevant or appropriate to the intention of the determination.
-(6) If the amendment relates to a map or plan, the Commission may amend the map or plan, without further authority than this subsection, but must give notice of the amendment in the Gazette.
-(7) In this section and Schedule 1,—
-  - **Auckland region** means the area described as the Auckland region in the Local Government (Auckland Region) Reorganisation Order 1989 (Gazette 1989, p 2247)
-  - **Franklin district** means the area described as the Franklin district in the Local Government (Auckland Region) Reorganisation Order 1989 (Gazette 1989, p 2267)
-  - **Hauraki district** means the area described as the Hauraki district in the Local Government (Waikato Region) Reorganisation Order 1989 (Gazette 1989, p 2479)
-  - **Waikato district** means the area described as the Waikato district in the Local Government (Waikato Region) Reorganisation Order 1989 (Gazette 1989, p 2469)
-  - **Waikato region** means the area described as the Waikato region in the Local Government (Waikato Region) Reorganisation Order 1989 (Gazette 1989, p 2463).
+[Repealed]
 
 ### 34 Local Government Commission to determine local board areas and wards
-(1) The Local Government Commission must, no later than 1 March 2010,—
-  (a) determine the number and names of local board areas within Auckland; and
-  (b) determine the boundaries of—
-    (i) each local board area; and
-    (ii) electoral subdivisions, if any, of each of those areas; and
-  (c) determine the number of elected members of the local board for each of the local board areas and, if the local board areas are subdivided for electoral purposes, the number of members to be elected by the electors of each subdivision; and
-  (d) for the purposes of the October 2010 triennial general elections, divide Auckland into wards and—
-    (i) determine the number, names, and boundaries of the wards; and
-    (ii) determine the number of elected members for each ward.
-(2) In making a determination under subsection (1)(a), (b), or (c), the Commission must ensure that—
-  (a) there are no fewer than 20 but no more than 30 local board areas; and
-  (b) there are no fewer than 4 but no more than 9 members for each local board; and
-  (c) so far as is practicable, the boundaries of local board areas, and any electoral subdivisions, and the number of members to be elected, provide effective representation of communities of interest within Auckland; and
-  (d) the subdivision of any local board area for electoral purposes provides fair representation for the electors of the local board area; and
-  (e) the local board area boundaries, or subdivisions of those areas for electoral purposes, coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
-  (f) so far as is practicable, local board area boundaries coincide with ward boundaries; and
-  (g) a local board area is constituted for the Waiheke Island community; and
-  (h) a local board area is constituted for the Great Barrier Island community.
-(3) However, if the Commission considers that effective representation of communities of interest so requires, the number of local board areas may be set in a way that does not comply with subsection (2)(a).
-(4) In making a determination under subsection (1)(d), the Commission must—
-  (a) ensure that the boundaries of the wards—
-    (i) so far as is practicable, provide effective representation of communities of interest within Auckland; and
-    (ii) so far as is practicable, coincide with boundaries of local board areas; and
-    (iii) coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
-  (b) ensure that the boundaries of each ward, together with the number of elected members of each ward, so far as is practicable, provide fair representation to the electors of each ward; and
-  (c) include in its determination—
-    (i) a single-member ward based on the rural area of Rodney district (as that district is described in the Local Government (Auckland Region) Reorganisation Order 1989 (Gazette 1989, p 2253); and
-    (ii) a single-member ward, based on the area of Franklin district remaining within the boundaries of Auckland (as determined by the Commission in accordance with section 33(2)).
-(5) For the purposes of giving effect to subsection (2)(d), the Commission must ensure that the population of each subdivision divided by the number of members to be elected by the subdivision produces a figure no more than 10% greater or smaller than the population of the local board area divided by the total number of elected members of the local board.
-(6) For the purposes of giving effect to subsection (4)(b), the Commission must ensure that the population of each ward divided by the number of members to be elected by the ward produces a figure no more than 10% greater or smaller than the population of Auckland divided by the total number of elected members (other than the mayor).
-(7) However, if the Commission considers that effective representation of communities of interest so requires, wards and subdivisions may be defined, and membership distributed between them, in a way that does not comply with subsection (5) or (6), as the case may be.
-(8) Section 33(4) to (6) apply to any determination made under this section as if it were a determination to which section 33 applied.
+[Repealed]
 
 ### 35 Order in Council to give effect to determinations
-(1) A determination made under section 33(1) or 34(1)—
-  (a) is given effect to by Order in Council; and
-  (b) has effect on and from 1 November 2010.
-(2) A determination amended under section 33(5)—
-  (a) is given effect to by Order in Council; and
-  (b) has effect on and from the date specified for this purpose by the Order in Council.
-(3) If a determination does not specifically provide for a matter that the Secretary for Local Government considers to be necessary, desirable, or incidental as a consequence of the determination,—
-  (a) the Secretary must consult the Commission about the inclusion of the matter in the Order in Council; and
-  (b) the matter may be included in the order if considered appropriate by the Governor-General in Council.
-(4) Clause 67 of Schedule 3 of the Local Government Act 2002 applies in respect of a determination made under section 33(1) that is given effect to by Order in Council, except to the extent that the determination provides that the clause is—
-  (a) amended in its application by the determination; or
-  (b) declared not to apply.
-(5) Clauses 59 to 61, 64, 65, and 68 to 70 of Schedule 3 of the Local Government Act 2002 apply to a determination made under section 33(1) that is given effect to by Order in Council.
-(6) For the purposes of subsections (4) and (5), Schedule 3 of the Local Government Act 2002 applies—
-  (a) with any necessary modifications; and
-  (b) as if every reference to a reorganisation scheme or scheme were a reference to a determination made under section 33(1).
-(7) An Order in Council under subsection (1)—
-  (a) must be made before 10 April 2010; and
-  (b) is not a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+[Repealed]
 
 ### 35A Local Government (Auckland Wards and Local Boards) Determination 2010 amended
-(1) In this section,—
-  - **determination** means the determination made by the Local Government Commission under section 34
-  - **order** means the Order in Council that made the Local Government (Auckland Wards and Local Boards) Determination 2010 (Gazette, 2010 p 856) and that gives effect to the determination.
-(2) Clauses 4(k), 5(k), 6(r), and 7(18) of the order are amended by omitting Te Irirangi and substituting in each case Howick.
-(3) The amendments made to the order by subsection (2) have effect as if they had been included in the determination.
-(4) To avoid doubt, this section applies subject to sections 13A and 103(3).
+[Repealed]
 
 ### Subpart 2 — Consequential amendments
 
 ### 36 Amendment to Local Government Act 2002
-Clause 6(1) of Schedule 7 of the Local Government Act 2002 is amended by adding the following paragraphs:
-  (e) chairpersons and members of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009):
-  (f) chairpersons of committees of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009).
+[Repealed]
 
 ## Part 4 — Transport management for Auckland
 
