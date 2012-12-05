@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-12-05_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -66,7 +66,7 @@ If there is any inconsistency between this Part and any Acts referred to in this
 **Council governance and framework**
 
 ### 9 Prohibition on reorganisation proposals affecting Auckland until after October 2013 triennial general elections
-(1) No person (including the Minister or the Auckland Council) may make a reorganisation proposal affecting Auckland for any matter specified in section 24(1) of the Local Government Act 2002 or section 13A of the Local Government (Auckland Council) Act 2009 until after the completion of the 2013 triennial general elections.
+(1) No person (including the Minister or the Auckland Council) may make a reorganisation proposal or reorganisation application affecting Auckland for any matter specified in section 24(1) of the Local Government Act 2002 or section 13A of the Local Government (Auckland Council) Act 2009 until after the completion of the 2013 triennial general elections.
 (2) Subsection (1) applies despite subpart 2 of Part 3 and Schedule 3 of the Local Government Act 2002.
 
 ### 10 October 2013 triennial general elections to be conducted using First Past the Post
