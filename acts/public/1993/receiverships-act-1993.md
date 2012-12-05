@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2012-12-05_
 
 > An Act to reform the law relating to receivers
 
@@ -579,10 +579,10 @@ The modifications and exceptions to the provisions of this Act that are set out 
 Every reference to a director or the directors must be read as if it were a reference to a member or the members of the local authority.
 
 ### 3 References to liquidator
-Every reference to a liquidator, except the reference in section 30(3), must be read as if it were a reference to a Commissioner appointed under section 255 or section 258 of the Local Government Act 2002 or to a commission appointed under clause 14 of Schedule 15 of that Act.
+Every reference to a liquidator, except the reference in section 30(3), must be read as if it were a reference to a Commission appointed under section 258F of the Local Government Act 2002.
 
 ### 4 References to liquidation
-Every reference to a liquidation, except the references in section 30(3), must be read as if it were a reference to the appointment of a Commissioner under section 255 or section 258 of the Local Government Act 2002 or to a commission appointed under clause 14 of Schedule 15 of that Act.
+Every reference to a liquidation, except the references in section 30(3), must be read as if it were a reference to a Commission appointed under section 258F of the Local Government Act 2002.
 
 ### 5 References to Registrar
 Every reference to the Registrar must be read as if it were a reference to the Registrar of Companies.
