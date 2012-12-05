@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2012-12-05_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -479,7 +479,7 @@ In determining the matters specified in paragraphs (a) to (c) of section 19I(1),
 
 ### 19W Factors in determination of matters in relation to community boards
 In determining the matters specified in paragraphs (a) to (i) of section 19J(2), the territorial authority and, where appropriate, the Commission must ensure—
-  (a) that, in the case of the matters specified in paragraphs (a) to (g) of section 19J(2), it has regard to such of the criteria as apply to reorganisation proposals under the Local Government Act 1974 or the Local Government Act 2002 as the territorial authority or the Commission considers appropriate in the circumstances; and
+  (a) that, in the case of the matters specified in paragraphs (a) to (g) of section 19J(2), it has regard to such of the criteria as apply to local government reorganisation under the Local Government Act 1974 or the Local Government Act 2002 as the territorial authority or the Commission considers appropriate in the circumstances; and
   (b) that the election of members of the community board, in one of the ways specified in subparagraphs (i) to (iii) of section 19J(2)(h), will provide effective representation of communities of interest within the community and fair representation of electors; and
   (c) that the boundaries of every community, and of every subdivision of a community, coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
 
@@ -527,7 +527,7 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
   (a) any election to fill an extraordinary vacancy in the membership of the body concerned that is held—
     (i) between those elections; or
     (ii) after the second of those elections but before the subsequent triennial general election:
-  (b) an election of the members of the body concerned under section 255(1)(b) or Schedule 15 of the Local Government Act 2002 that is held—
+  (b) an election of the members of the body concerned under section 258I or 258M of the Local Government Act 2002 that is held—
     (i) between those elections; or
     (ii) after the second of those elections but before the subsequent triennial general election.
 
@@ -612,12 +612,12 @@ Sections 19Z to 19ZD do not apply, in relation to a territorial authority or reg
 (2) If the result of a poll to which this subsection applies requires the division of the district of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
   (a) in the case of a territorial authority, for the next 2 triennial general elections of the territorial authority, and any associated election; and
   (b) in the case of a regional council, for the next 2 triennial general elections of the regional council, and any associated election; and
-  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
 (3) Subsection (4) applies to a poll held at some other time.
 (4) If the result of a poll to which this subsection applies requires the division of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
   (a) in the case of a territorial authority, for the next but one triennial general election and the following triennial general election of the territorial authority, and any associated election; and
   (b) in the case of a regional council, for the next but one triennial general election and the following triennial general election of the regional council, and any associated election; and
-  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
 (5) This section is subject to clauses 2(5) and 4(4) of Schedule 1A.
 
 ### 19ZH Basis of election of territorial authority and regional council
@@ -685,10 +685,10 @@ Every parliamentary elector is qualified as a residential elector of a local gov
 (2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a district—is, at that general election, an elector of that Māori ward.
   (a) whose entitlement as an elector arises in respect of property in a Māori ward; and
   (b) who is registered as an elector of a Māori electoral district,—
-(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a district who, on the day before polling day for the election,—is, at that election, an elector of that Māori ward.
+(3) In the case of an election to fill an extraordinary vacancy or an election called under section 258I or 258M of the Local Government Act 2002, every residential elector of a district who, on the day before polling day for the election,—is, at that election, an elector of that Māori ward.
   (a) is registered as a parliamentary elector at an address within a Māori ward; and
   (b) is registered as an elector of a Māori electoral district,—
-(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of a district—is, at the election, an elector of that Māori ward.
+(4) In the case of an election to fill an extraordinary vacancy or an election called under section 258I or 258M of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of a district—is, at the election, an elector of that Māori ward.
   (a) whose entitlement as an elector arises in respect of property in a Māori ward; and
   (b) who is registered as a elector of a Māori electoral district,—
 
@@ -713,10 +713,10 @@ Every parliamentary elector is qualified as a residential elector of a local gov
 (2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a region—is, at that triennial general election, an elector of that Māori constituency.
   (a) whose entitlement as an elector arises in respect of property in a Māori constituency; and
   (b) who is registered as an elector of a Māori electoral district,—
-(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a region who, on the day before polling day for the election,—is, at that election, an elector of that Māori constituency.
+(3) In the case of an election to fill an extraordinary vacancy or an election called under section 258I or 258M of the Local Government Act 2002, every residential elector of a region who, on the day before polling day for the election,—is, at that election, an elector of that Māori constituency.
   (a) is registered as a parliamentary elector at an address within a Māori constituency; and
   (b) is registered as an elector of a Māori electoral district,—
-(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of the region—is, at that election, an elector of that Māori constituency.
+(4) In the case of an election to fill an extraordinary vacancy or an election called under section 258I or 258M of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of the region—is, at that election, an elector of that Māori constituency.
   (a) whose entitlement as an elector arises in respect of property in a Māori constituency; and
   (b) who is registered as an elector of a Māori electoral district,—
 
@@ -751,7 +751,7 @@ Two or more electors of a local government area or, in the case of an election i
   (a) any election to fill an extraordinary vacancy in the membership of the body concerned that is held—
     (i) between those elections; or
     (ii) after the second of those elections but before the subsequent triennial general election:
-  (b) an election of the members of the body concerned called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002 that is held—
+  (b) an election of the members of the body concerned called under section 258I or 258M of the Local Government Act 2002 that is held—
     (i) between those elections; or
     (ii) after the second of those elections but before the subsequent triennial general election.
 
@@ -831,11 +831,11 @@ Sections 27 to 31 do not apply if—
 (1) If a poll is held under section 33 in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used—
   (a) for the next 2 triennial general elections:
   (b) for any associated election:
-  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
 (2) If a poll is held under section 33 at some other time, the electoral system adopted or confirmed must be used—
   (a) for the next but one triennial general election and the following triennial general election:
   (b) for any associated election:
-  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
 
 **Electoral systems for polls**
 
