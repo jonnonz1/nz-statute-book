@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2012-12-05_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -226,8 +226,8 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
 ### 17 Provisions relating to alteration of boundaries of local authority districts
 (1) If the whole or any part of the district of any local authority in which section 15(1) or 16(1) is in force is included within the district of any other local authority, that subsection, or those subsections, ceases or cease to apply to the district or part of the district so included unless—
   (a) that subsection, or those subsections, is or are in force in the district of the last-mentioned local authority; or
-  (b) the Order in Council giving effect to the relevant reorganisation scheme under the Local Government Act 2002 specifies that the subsection, or those subsections, is or are to continue in force in the first-mentioned district or part of the district.
-(2) If the whole or any part of the district of a local authority is included within the district of any other local authority to which section 15(1) or 16(1) is in force then, unless the Order in Council giving effect to the relevant reorganisation scheme under the Local Government Act 2002 otherwise provides, that subsection, or those subsections, comes or come into force in the district or part of the district so included on the date on which the relevant reorganisation scheme becomes operative.
+  (b) the Order in Council under section 25 of the Local Government Act 2002 specifies that the subsection, or those subsections, is or are to continue in force in the first-mentioned district or part of the district.
+(2) If the whole or any part of the district of a local authority is included within the district of any other local authority to which section 15(1) or 16(1) is in force then, unless the Order in Council under section 25 of the Local Government Act 2002 otherwise provides, that subsection, or those subsections, comes or come into force in the district or part of the district so included on the date on which the relevant reorganisation scheme becomes operative.
 
 ### 18 Exemption for installing and maintaining particular sanitary plumbing equipment
 A person who satisfies the Board, whether by examination or otherwise, that the person is competent to install and maintain particular sanitary plumbing equipment or sanitary plumbing equipment of a particular kind may do the following work or have the work done by some other person acting under the person’s supervision:
