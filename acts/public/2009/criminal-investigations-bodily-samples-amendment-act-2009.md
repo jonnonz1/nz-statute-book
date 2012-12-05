@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Amendment Act 2009
-_Consolidation as at 2010-09-06_
+_Consolidation as at 2012-12-05_
 
 ### 1 Title
 This Act is the Criminal Investigations (Bodily Samples) Amendment Act 2009.
