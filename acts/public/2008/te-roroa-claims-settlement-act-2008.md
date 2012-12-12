@@ -1,5 +1,5 @@
 # Te Roroa Claims Settlement Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2012-12-12_
 
 ## Preamble
 Background
@@ -1040,11 +1040,13 @@ To give effect to clause 12.2.1 of the Deed of Settlement in relation to the oth
 ### 101 Transfer of Coastal strip: north of Omamari
 (1) This section applies if the Coastal strip: north of Omamari is transferred under section 97.
 (2) The marginal strip reserved by section 24 of the Conservation Act 1987 from the transfer is increased to 100 m wide and the Registrar-General must record on the computer freehold register that the marginal strip is 100 m wide.
+(2A) Subsection (2) applies only to the extent that the marginal strip lies immediately adjacent to the coastline of the Coastal strip: north of Omamari.
 (3) The conservation covenant provided by the trustees of the Whatu Ora Trust to the Crown under clause 11.7.3 of the Deed of Settlement is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
 
 ### 102 Transfer of Coastal strip: south of Omamari
 (1) This section applies if the Coastal strip: south of Omamari is transferred under section 97.
 (2) The marginal strip reserved by section 24 of the Conservation Act 1987 from the transfer is increased to 100 m wide and the Registrar-General must record on the computer freehold register that the marginal strip is 100 m wide.
+(2A) Subsection (2) applies only to the extent that the marginal strip lies immediately adjacent to the coastline of the Coastal strip: south of Omamari.
 (3) The conservation covenant provided by the trustees of the Whatu Ora Trust to the Crown under clause 11.7.4 of the Deed of Settlement is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
 
 ### 103 Transfer of Waipoua Forest: Former Department of Conservation Headquarters
