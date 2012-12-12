@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2012-12-12_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -3058,8 +3058,8 @@ The chief executive must take reasonable and appropriate steps to make every wor
   (a) stating that the beneficiary has failed to comply with a specified obligation under this Act; and
   (b) specifying the nature of that non-compliance; and
   (c) stating that, on the basis of that non-compliance, the chief executive is reducing, suspending, or cancelling the benefit payable to the beneficiary; and
-  (d) specifying a date on which the reduction, suspension or cancellation is to take effect, and, in the case of a reduction, suspension, the nature and duration of the reduction, suspension; and
-  (e) stating that the beneficiary has 5 working days from the giving of the notice to dispute the reduction, suspension or cancellation; and
+  (d) specifying a date on which the reduction, suspension, or cancellation is to take effect, and, in the case of a reduction or suspension, the nature and duration of the reduction or suspension; and
+  (e) stating that the beneficiary has 5 working days from the giving of the notice to dispute the reduction, suspension, or cancellation; and
   (f) advising the beneficiary to contact the department if the beneficiary wants to dispute or discuss the decision to reduce or suspend or cancel the benefit; and
   (g) containing a clear statement of the beneficiary's right, under section 10A, to apply for a review of the decision, and of the procedure for applying for a review.
 (3) The reduction, suspension, or cancellation of the benefit must not take effect before the close of the 5 working days specified in the notice under subsection (2)(e).
@@ -3668,7 +3668,9 @@ Without limiting the general power to make regulations conferred by section 132,
 (2) For all purposes whatsoever in respect of any social security contribution or social security charge which at the commencement of this Act has already been assessed or paid or is still assessable or payable in or for any year before the year commencing on 1 April 1958, or deductible on or before or after that date from any salary or wages or other income for any period before that date, in accordance with any provision of the Social Security Act 1938 that was repealed before the commencement of this Act, that provision (whether a penal provision or not) and all regulations, orders, warrants, and other acts of authority originating under the Social Security Act 1938 shall, notwithstanding the repeal of that Act by this Act or of any provision thereof by any other enactment, be deemed to remain in full force and effect; and all proceedings under that Act, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the Social Security Act 1938, or, as the case may be, the provision thereof, had not been repealed.
 (3) All proceedings in respect of offences committed or alleged to have been committed against any enactment hereby repealed or against any provision of the Social Security Act 1938 that was repealed before the commencement of this Act may be instituted or continued as if this Act had not been passed.
 (4)
-(5) Nothing in subsection (1) of section 55 or in section 66 or in Schedule 9 or Schedule 10 shall apply with respect to any sickness benefit that was in force on 13 September 1961 (being the date of the passing of the Social Security Amendment Act 1961) and is in force at the date of the commencement of this Act, and any such benefit may be continued as if this Act and section 6 of the Social Security Amendment Act 1961 had not been passed.
+(5) If a sickness benefit was in force on 13 September 1961 (the date of the passing of the Social Security Amendment Act 1961), and is in force at 1 April 1965 (the date of the commencement of this Act),—
+  (a) nothing in section 55(1) or 66 or Schedule 9 or 10 applies with respect to it; and
+  (b) it may be continued as if this Act, and section 6 of the Social Security Amendment Act 1961, had not been passed.
 
 ## Part 4 — Long-term residential care in hospital or rest home
 
@@ -4353,7 +4355,7 @@ For the purposes of this schedule—
   (b) in relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 under subparts MA to MF and MZ of the Income Tax Act 2007:
   (c) in relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
   (d) in relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subparts MA to MF and MZ of the Income Tax Act 2007, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
-  (da) in relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner in not entitled to an accommodation supplement under section 80C, the rate specified in paragraph (d) as if a rate of benefit were paid in respect of that spouse or partner:
+  (da) in relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner is not entitled to an accommodation supplement under section 80C, the rate specified in paragraph (d) as if a rate of benefit were paid in respect of that spouse or partner:
   (e) in relation to a single non-beneficiary with 1 or more dependent children,—
     (i) the appropriate maximum weekly rate of unemployment benefit; plus
     (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
