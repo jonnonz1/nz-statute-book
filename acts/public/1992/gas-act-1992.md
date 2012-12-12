@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-12-12_
 
 > Title
 
@@ -34,7 +34,7 @@ The purposes of this Act are—
   - **container** does not include a pipe
   - **Corporation** means the Natural Gas Corporation of New Zealand Limited
   - **distribution system** —
-    (a) means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—
+    (a) means all fittings, whether above or below ground, used to distribute gas from—
       (i) the boundary of the gasworks or gate station outlet flange supplying gas for distribution to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; or
       (ii) the outlet of the container in which gas for distribution is stored to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; and
     (b) includes, for the purposes of any regulations made under section 54 relating to odorisation or the measurement of calorific value, a gas transmission system
@@ -50,12 +50,13 @@ The purposes of this Act are—
     (c) any mixture of gases
   - **gas appliance** means any appliance that uses, or is designed or intended to use, gas, whether or not it also uses, or is designed or intended to use, any other form of energy
   - **gas code of practice** or means a gas code of practice issued pursuant to section 37
-  - **gas distributor** means any person who supplies line function services to any other person or persons
+  - **gas distributor** means any person who supplies line function services to any gas retailer or other person by means of a distribution system and includes a gas distributor who is also a gas retailer providing line function services to itself
   - **gas installation** means an installation, including a gas appliance (other than a portable gas appliance that is designed to have within it, or attached to it, its own source of gas), that is connected or intended to be connected with any source (including any container) from which gas is supplied; and includes any associated fittings; but does not include any part of a distribution system
   - **gas measurement system** means a system for measuring the quantity of any gas or the energy content of any gas, whether by actual measurement or by estimation; and includes any equipment that forms part of, or is ancillary to, any such system
   - **gas operator** means—
     (a) any person that, immediately before 1 April 1993, was the holder, or was deemed to be the holder, of a franchise granted under Part 2 of the Gas Act 1982; and
     (b) any person declared under section 5 to be a gas operator for the purposes of this Act or any provision or provisions of this Act
+  - **gas producer** means a person who supplies gas that is transmitted through gas transmission or distribution pipelines
   - **gas refueller** means a gas retailer that supplies gas in containers, or directly into containers
   - **gas retailer** means any person who supplies gas to another person or other persons for any purpose other than for resupply by the other person or persons
   - **gas transmission** means the supply of line function services by means of high pressure gas pipelines operated at a gauge pressure exceeding 2 000 kilopascals
@@ -506,7 +507,6 @@ In this Part, unless the context otherwise requires,—
   - **constitution** , in relation to the industry body, means its constitution or trust deed or other similar governing document
   - **domestic consumer** means any person who purchases gas in respect of any dwellinghouse
   - **gas governance regulations** means regulations made under sections 43F to 43T
-  - **gas producer** means a person who supplies gas that is transmitted on gas transmission or distribution pipelines
   - **GPS objectives and outcomes** means objectives and outcomes set under section 43ZO
   - **industry body** means the body approved by Order in Council under section 43ZL
   - **industry participant** means—but does not include the industry body or the Commission (even to the extent that the industry body or the Commission may be acting as a service provider after an appointment under gas governance regulations)
@@ -562,9 +562,10 @@ In this Part, unless the context otherwise requires,—
   (b) comply with a binding settlement determined by the scheme in response to a complaint.
 (3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+(5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
 ### 43EC Offence to fail to comply with District Court order
-(1) A member of the dispute resolution scheme who, knowing that the member is subject to an order made under section 43EB, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under section 43EB, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
 (2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 43EB(4).
 
 **Gas industry regulation-making powers**
@@ -582,15 +583,13 @@ In this Part, unless the context otherwise requires,—
   (b) setting reasonable terms and conditions for access to, and use of, gas processing facilities where—
     (i) this is reasonably necessary to allow new fields to be developed; and
     (ii) spare capacity is available or could be made available if the person accessing or using the facilities paid the reasonable costs (including the costs of capital) of providing the additional capacity:
-  (c) prescribing reasonable terms and conditions for access to transmission or distribution pipelines:
+  (c) prescribing reasonable terms and conditions for access to and use of transmission or distribution pipelines:
   (d) requiring expansions, upgrades, or service quality improvements to gas transmission pipelines including specifying how these will be paid for.
 
 ### 43G Other gas governance regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
-(2) The purposes are—Complaints resolution systemPrepayment metersAbility of consumers to choose preferred gas retailerTransition arrangements for insolvent gas retailersDisclosure of informationTerms and conditions of accessInformation on customer accountsConsumer contractsDispute resolution proceduresEnforcement of gas governance regulationsProcesses
-  (a) providing for the establishment of, or participation by gas distributors and gas retailers in, a complaints resolution system (that may include codes of practice) for the purpose of addressing complaints by all or any of small consumers (including potential small consumers), or owners and occupiers of land into, through, or against which pipelines have been laid down or placed, relating to gas retailers and gas distributors, or setting out minimum requirements in relation to that system, including—
-    (i) provision for compensation up to a maximum of $20,000 to be awarded, and other actions to be taken, by the complaints resolution agency in relation to those complaints:
-    (ii) provision for rights of review, or rights of appeal on a question of law only, in relation to decisions relating to those complaints:
+(2) The purposes are—Prepayment metersAbility of consumers to choose preferred gas retailerTransition arrangements for insolvent gas retailersDisclosure of informationTerms and conditions of accessInformation on customer accountsConsumer contractsDispute resolution proceduresEnforcement of gas governance regulationsProcesses
+  (a)
   (b) requiring gas retailers to offer prepayment meters to domestic consumers at a reasonable cost, and prescribing conditions on which those meters must be offered, with the objective of ensuring that all domestic consumers who wish to pay for gas in advance have the option to do so at reasonable cost:
   (c) providing for arrangements to enable consumers to switch gas retailers:
   (d) providing a system of transition arrangements for consumers in the event of a gas retailer becoming insolvent, and requiring industry participants to comply with that system, with the objective of protecting consumers or managing the liabilities of other gas retailers:
@@ -600,7 +599,7 @@ In this Part, unless the context otherwise requires,—
   (h) providing for minimum terms and conditions in contracts between domestic consumers and gas distributors or gas retailers:
   (i) providing procedures for resolving disputes between industry participants:
   (j) providing for the operation and facilitation of those dispute resolution procedures by a person, and the powers and procedures of that person:
-  (k) providing for compliance with gas governance regulations and rules to be monitored and enforced by the industry body or the Commission or any other person or court, and the powers and procedure of that person or court:
+  (k) providing for compliance with gas governance regulations and rules to be monitored and enforced by the industry body or the Commission or any other person or court, and the powers and procedures of that person or court:
   (l) providing for processes for settling particular issues within the gas industry that may result in recommendations for gas governance regulations or rules, and requiring compliance by industry participants, the industry body, and the Commission with those processes, including compliance with requirements to produce documents as part of those processes.
 
 ### 43H Low fixed charge tariff option for domestic consumers
@@ -917,66 +916,66 @@ The objectives of the industry body, in recommending gas governance regulations 
 (2) Subsection (1) does not apply to regulations made under section 43F(2)(c) prescribing terms and conditions for access to the Maui pipeline.
 (3) The Minister must publish a notice in the Gazette stating his or her decision under subsection (1) and explaining the reasons for it or where copies of that explanation may be obtained.
 
-**Industry body strategic plan**
+**Industry body statement of intent**
 
-### 43ZQ Industry body strategic plan
-(1) At or before the start of each financial year, the industry body must prepare a strategic plan for the industry body for that financial year and at least the 2 following financial years.
-(2) The plan must contain the following information for the next financial year and at least the 2 following financial years:
+### 43ZQ Industry body statement of intent
+(1) At or before the start of each financial year, the industry body must prepare a statement of intent for the industry body for that financial year and at least the 2 following financial years.
+(2) The statement of intent must contain the following information for the next financial year and at least the 2 following financial years:
   (a) key background information about the industry body and its operating environment:
   (b) the nature and scope of the industry body’s intended operations:
   (c) the specific impacts, outcomes, or objectives that the industry body seeks to achieve or contribute to and how those objectives might relate to any outcomes or objectives referred to in this subpart or in any GPS objectives and outcomes:
   (d) how the industry body intends to conduct its operations to achieve those impacts, outcomes, or objectives:
   (e) the main financial and non-financial measures and standards by which the future performance of the industry body may be judged:
   (f) the matters on which the industry body will consult or notify the Minister before making a decision, the matters on which it will report to the Minister, and the frequency of reporting:
-  (g) other matters the industry body is required to include in the industry body strategic plan under this Act or another Act:
+  (g) other matters the industry body is required to include in the industry body statement of intent under this Act or another Act:
   (h) any other matters that are reasonably necessary to achieve an understanding of the industry body’s intentions and direction.
-(3) The plan must also contain the information required by section 43ZR for the first financial year to which it relates.
-(4) The plan must be in writing, be dated, and be signed on behalf of the board by 2 members of the board of the industry body.
+(3) The statement of intent must also contain the information required by section 43ZR for the first financial year to which it relates.
+(4) The statement of intent must be in writing, be dated, and be signed on behalf of the board by 2 members of the board of the industry body.
 
-### 43ZR Extra information required in strategic plan for first financial year
-The industry body’s strategic plan must contain the following information for the first financial year to which it relates:
+### 43ZR Extra information required in statement of intent for first financial year
+The industry body’s statement of intent must contain the following information for the first financial year to which it relates:
   (a) forecast financial statements for the industry body that have been prepared in accordance with the Financial Reporting Act 1993 as if the industry body were a reporting entity under that Act; and
   (b) other measures and standards necessary to judge the industry body’s performance at the end of the financial year; and
   (c) a statement of all significant assumptions underlying the forecast financial statements; and
   (d) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the industry body.
 
-### 43ZS Application and term of strategic plan
-An industry body strategic plan is in force—
+### 43ZS Application and term of statement of intent
+An industry body statement of intent is in force—
   (a) from the later of—
-    (i) the date on which the final plan is provided to the Minister; or
-    (ii) the first day of the period to which the plan specifies that it relates; and
-  (b) until a new strategic plan is in force in relation to the industry body (despite the end of any financial year to which the plan relates); and
+    (i) the date on which the final statement of intent is provided to the Minister; or
+    (ii) the first day of the period to which the statement of intent states that it relates; and
+  (b) until a new statement of intent is in force in relation to the industry body (despite the end of any financial year to which the statement of intent relates); and
   (c) with any amendments that are made as described in section 43ZU.
 
-### 43ZT Process for providing strategic plan to Minister
-(1) The industry body must provide a strategic plan to the Minister.
-(2) The process that must be followed in providing a strategic plan is as follows:
-  (a) the industry body must provide a draft strategic plan to the Minister no later than 60 days before the start of each financial year; and
+### 43ZT Process for providing statement of intent to Minister
+(1) The industry body must provide a statement of intent to the Minister.
+(2) The process that must be followed in providing a statement of intent is as follows:
+  (a) the industry body must provide a draft statement of intent to the Minister no later than 60 days before the start of each financial year; and
   (b) the Minister must provide to the industry body any comments that he or she may have on the draft no later than 30 days before the start of the financial year; and
-  (c) the industry body must consider the comments (if any) on the draft and provide the final strategic plan to the Minister on or before the start of the financial year.
+  (c) the industry body must consider the comments (if any) on the draft and provide the final statement of intent to the Minister on or before the start of the financial year.
 
 ### 43ZU Amendments by industry body
-(1) The industry body may amend its strategic plan.
-(2) The industry body must amend its strategic plan if—
+(1) The industry body may amend its statement of intent.
+(2) The industry body must amend its statement of intent if—
   (a) the information contained in it is false or misleading in a material particular; or
   (b) the intentions and undertakings in it are significantly altered or affected by—
     (i) any change in the law; or
     (ii) any other change in the industry body’s operating environment.
 (3) The industry body must make the amendment required under subsection (2) as soon as practicable after the industry body becomes aware of the facts that give rise to the obligation to amend under that subsection.
-(4) The industry body must amend its strategic plan in accordance with the following process:
+(4) The industry body must amend its statement of intent in accordance with the following process:
   (a) the industry body must provide a draft amendment to the Minister; and
   (b) the Minister must provide to the industry body any comments that he or she may have no later than 30 days after receiving the draft; and
   (c) the industry body must consider the comments (if any) and must provide a final amendment to the Minister as soon as practicable; and
-  (d) the final amendment to the strategic plan is in force from the date on which the final amendment is provided to the Minister.
+  (d) the final amendment to the statement of intent is in force from the date on which the final amendment is provided to the Minister.
 
-### 43ZV Strategic plan must be publicised
-The industry body must publicise a final strategic plan or a final amended strategic plan as soon as practicable after it is provided to the Minister.
+### 43ZV Statement of intent must be publicised
+The industry body must publicise a final statement of intent or a final amended statement of intent as soon as practicable after it is provided to the Minister.
 
 **Industry body annual report**
 
 ### 43ZW Annual report
 (1) Within 3 months after the end of each financial year, the industry body must deliver to the Minister an annual report of the industry body’s operations and performance for that year, including—
-  (a) information that is necessary to enable an informed assessment to be made of the industry body’s operations and performance under this Part for that year, including an assessment against its strategic plan prepared under this subpart at the beginning of the year and against the GPS objectives and outcomes; and
+  (a) information that is necessary to enable an informed assessment to be made of the industry body’s operations and performance under this Part for that year, including an assessment against its statement of intent prepared under this subpart at the beginning of the year and against the GPS objectives and outcomes; and
   (b) a report on the exercise of the powers conferred on it by this Part during the year; and
   (c) audited consolidated financial statements for the industry body for that financial year that have been prepared in accordance with the Financial Reporting Act 1993 as if the industry body were a reporting entity under that Act; and
   (d) the report on those financial statements that is signed by an auditor who was appointed or reappointed by the industry body within 12 months before the end of the period to which the statements relate; and
@@ -1035,7 +1034,7 @@ For the purposes of the audit of any financial statements referred to in section
 ### 43ZZD Minister must accept recommendations if certain conditions met
 (1) The Minister may accept or reject a recommendation of the industry body to make levy regulations under section 43ZZB.
 (2) However, the Minister must accept that recommendation, and recommend to the Governor-General that levy regulations be made, if he or she is satisfied that—
-  (a) the levy rate or amount is reasonable, having regard to the industry body strategic plan, the latest industry body annual report, and any GPS objectives and outcomes; and
+  (a) the levy rate or amount is reasonable, having regard to the industry body statement of intent, the latest industry body annual report, and any GPS objectives and outcomes; and
   (b) the industry body has consulted with industry participants on the levy rate or amount; and
   (c) the requirements of sections 43ZZB to 43ZZE are met.
 
@@ -1044,6 +1043,11 @@ For the purposes of the audit of any financial statements referred to in section
 (2) The levy regulations must prescribe the amount of the levy, or the levy rate according to which the amount of the levy may be calculated.
 (3) The levy regulations must apply only to the financial year in respect of which the levy regulations are made.
 (4) The levy regulations may require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced.
+(4A) The levy regulations may—
+  (a) require the keeping and supply to the industry body of such information as may be necessary for the purpose of establishing the correct amount of the levy payable; and
+  (b) prescribe the period for which such information must be kept; and
+  (c) prescribe the form and manner in which any of that information is to be supplied to the industry body; and
+  (d) require information supplied to the industry body to be certified, in the prescribed form and manner, by persons belonging to any specified class of persons.
 (5) Every industry participant (or prescribed class of industry participants) must pay to the industry body the levy that is prescribed.
 (6) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the industry body.
 (7) The levy regulations may exempt or provide for exemptions from, or provide for waivers of, the whole or any part of the levy for any case or class of cases.
@@ -1136,12 +1140,12 @@ Section 172Z of the Electricity Act 1992 applies (as if it had not been repealed
 ### 43ZZR Authorisations for purposes of Commerce Act 1986
 The following are specifically authorised for the purpose of section 43 of the Commerce Act 1986:
   (a) any act, matter, or thing done, or omitted to be done, by the industry body or an industry participant in the course of, or for the purpose of,—
-    (i) determining the form of the industry body’s constitution and strategic plan, including any amendments to those documents:
+    (i) determining the form of the industry body’s constitution and statement of intent, including any amendments to those documents:
     (ii) complying with the constitution of the industry body, including any amendments to that constitution:
     (iii) recommending any gas governance regulations or rules:
     (iv) recommending a levy of industry participants in accordance with this Act:
   (b) anything done, or omitted to be done, by the industry body, the Energy Commission, the Rulings Panel, or an industry participant, that is reasonably necessary to comply with, enforce, or otherwise administer any gas governance regulations or rules:
-  (c) the industry body’s constitution and strategic plan and any amendments to those documents.
+  (c) the industry body’s constitution and statement of intent and any amendments to those documents.
 
 ## Part 5 — Miscellaneous provisions
 
@@ -1486,39 +1490,3 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 28 Transitional provision
 To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
