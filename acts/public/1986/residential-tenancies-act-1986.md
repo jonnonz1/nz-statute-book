@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2012-12-12_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -82,7 +82,7 @@ _Consolidation as at 2011-06-20_
   - **Principal Tenancy Adjudicator** means the Principal Tenancy Adjudicator appointed under section 67(2)(a)
   - **prospective landlord** means a person who has offered to grant a tenancy to any other person, or who has entered into negotiations with any other person for the granting of a tenancy to that other person
   - **prospective tenant** means a person to whom any other person has offered to grant a tenancy, or with whom any other person has entered into negotiations for the granting of a tenancy to that person
-  - **Registrar** , in relation to the Tribunal, means a Registrar of the Tribunal appointed under section 72; and includes a Deputy Registrar of the District Court who, by virtue of section 14(3) of the District Courts Act 1947, is acting in the place of the Registrar
+  - **Registrar** , in relation to the Tribunal, means a person who holds that position under section 72(1) or who is designated under section 72(2)
   - **rent** means any money, goods, services, or other valuable consideration in the nature of rent to be paid or supplied under a tenancy agreement by the tenant; but does not include any sum of money payable or paid by way of bond
   - **residential premises** means any premises used or intended for occupation by any person as a place of residence
   - **service tenancy** means a tenancy granted under a term of, or otherwise as an incident of, a contract of service or a contract for services between the landlord as employer and the tenant as employee or contractor, whether or not a separate tenancy agreement is concluded in writing between the parties, and whether or not any rent is payable for the tenancy; and includes—
@@ -992,7 +992,7 @@ Sections 62A to 62D do not absolve the tenant from any responsibility imposed on
 (1) Subject to subsection (2), on the application of any person entitled to possession of the premises following the termination of a tenancy, the Tribunal shall make an order granting possession of the premises to that person.
 (2) No possession order may be made more than 90 days after the date of the termination of the tenancy.
 (3) Every order of the Tribunal made under section 55 or section 56 or section 59 or section 61 terminating a tenancy shall have effect as a possession order granting possession of the premises to the landlord.
-(4) No possession order (including an order of a kind referred to in subsection (3)) shall be capable of being filed under section 106 more than 3 months after—
+(4) No possession order (including an order of a kind referred to in subsection (3)) shall be capable of being filed under section 106 more than 90 days after—
   (a) the date of the order; or
   (b) in the case of a conditional order under section 55(1A) or section 78(3) or section 88(2) which states that it is an order to which this paragraph applies, the date on which the conditional order takes effect as a final termination order.
 
@@ -1346,12 +1346,14 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (5) Sittings of the Tribunal for the dispatch of its business in any particular place shall, subject to any directions by the Principal Tenancy Adjudicator, be held on such days and at such times as may be appointed by the Tenancy Adjudicator, or one of the Tenancy Adjudicators, stationed at, and authorised to exercise the jurisdiction of the Tribunal in, that place.
 
 ### 72 Registrars
-(1) For each office of the Tribunal, there is a Registrar, who is the Registrar of the nearest District Court or any other officer of the Ministry of Justice that the chief executive of the Ministry of Justice designates for the purpose.
-(2) It is the responsibility of each Registrar—
-  (a) to arrange, in accordance with the instructions of the chief executive of the Ministry of Justice, for the provision of any secretarial and administrative services that may be necessary for the efficient and expeditious exercise of the Tribunal’s jurisdiction at the place for which the Registrar is appointed; and
-  (b) to ensure that adequate arrangements are made, in consultation with the chief executive, for the filing and processing of all applications and other documents required or authorised to be filed under this Act in the office of the Tribunal at that place; and
-  (c) to arrange fixtures for cases to be dealt with by the Tribunal at that place; and
-  (d) to carry out, in respect of the exercise of the Tribunal’s jurisdiction at that place, the duties customarily carried out by a registrar of a judicial body.
+(1) Every Registrar, and every Deputy Registrar, of a District Court is a Registrar of the Tribunal.
+(2) In addition, employees of the Ministry of Justice who are not Registrars, or Deputy Registrars, of District Courts may be designated by the chief executive of the Ministry of Justice as Registrars of the Tribunal.
+(3) It is the responsibility of each Registrar—
+  (a) to arrange, in accordance with the instructions of the chief executive of the Ministry of Justice, for the provision of any secretarial and administrative services that may be necessary for the efficient and expeditious exercise of the Tribunal's jurisdiction; and
+  (b) to ensure that adequate arrangements are made, in consultation with the chief executive, for the filing and processing of all applications and other documents required or authorised to be filed under this Act; and
+  (c) to arrange fixtures for cases to be dealt with by the Tribunal; and
+  (d) to carry out, in respect of the exercise of the Tribunal's jurisdiction, the duties customarily carried out by a registrar of a judicial body.
+(4) Any Registrar may, at the direction of the chief executive (given generally or in any particular case), refer a matter to another Registrar.
 
 ### 73 Seal of Tribunal
 (1) The Tribunal shall have, in the custody of each Registrar, a seal which shall be the seal of the Tribunal and shall be used for sealing documents that require to be sealed, and any other document that any Tenancy Adjudicator elects to seal.
@@ -1493,22 +1495,23 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
 **Procedure**
 
 ### 86 Filing of applications
-(1) Proceedings before the Tribunal are commenced by filing an application in the approved form, with any prescribed fee, at the appropriate office of the Tribunal.
+(1) Proceedings before the Tribunal are commenced by filing an application in the approved form, with any prescribed fee, at any office of the Tribunal.
 (2) Before the chief executive approves a proposed form for the purposes of subsection (1), the chief executive must consult with the Principal Tenancy Adjudicator about the proposed form.
-(3) The chief executive must determine the appropriate office of the Tribunal for the purposes of subsection (1) by specifying geographical areas for which each office is responsible.
+(3) The chief executive must determine the offices of the Tribunal for the purposes of subsection (1).
 (4) The chief executive may from time to time vary or replace a determination described in subsection (3).
 (5) The chief executive must publish every determination under subsection (3) and every variation or replacement under subsection (4) in the Gazette and on the Internet.
 
 ### 87 Duties of chief executive on receipt of application
-(1) When an application is filed in accordance with section 86, the chief executive may refer it to a Tenancy Mediator unless, in terms of any regulations made under this Act or of any directions given by the Principal Tenancy Adjudicator, the application is of a class that is to be referred directly to the Tribunal, in which case the chief executive must refer the application to the Registrar.
-(2) Despite subsection (1), if either party informs the chief executive that that party refuses to have the matter considered by a Tenancy Mediator, the chief executive must refer the application to the Registrar.
+(1) When an application is filed in accordance with section 86, the chief executive may refer it to a Tenancy Mediator unless, in terms of any regulations made under this Act or of any directions given by the Principal Tenancy Adjudicator, the application is of a class that is to be referred directly to the Tribunal, in which case the chief executive must refer the application to the appropriate Registrar.
+(2) Despite subsection (1), if either party informs the chief executive that that party refuses to have the matter considered by a Tenancy Mediator, the chief executive must refer the application to the appropriate Registrar.
+(3) For the purposes of this section and section 88, the appropriate Registrar is the Registrar nearest any premises in respect of which an application is made under this Act or any other Registrar that the chief executive considers appropriate for the purposes of the application.
 
 ### 88 Functions of Tenancy Mediators
 (1) The primary function of a Tenancy Mediator in respect of an application referred to the Tenancy Mediator under section 87 is to attempt to bring the parties to the dispute to an agreed settlement.
 (2) Where an agreed settlement is reached, the Tenancy Mediator may, to give effect to the settlement, make any order or orders that the Tribunal could have made if the application had come before it.
 (3) If it appears to the Tenancy Mediator that it is unlikely that an agreed settlement can be reached within a reasonable time, the Tenancy Mediator—
-  (a) shall report accordingly to the chief executive who shall refer the application to the Registrar for determination by the Tribunal; and
-  (b) shall, wherever practicable, after consultation with the chief executive and the Registrar, inform the parties of the date on which the Tribunal is likely to be able to hear the matter.
+  (a) shall report accordingly to the chief executive who shall refer the application to the appropriate Registrar for determination by the Tribunal; and
+  (b) shall, wherever practicable, after consultation with the chief executive and the appropriate Registrar, inform the parties of the date on which the Tribunal is likely to be able to hear the matter.
 (4) In any case to which subsection (3)(a) applies, the Tenancy Mediator may include in his or her report to the chief executive any statement of facts agreed to by the parties, a summary of the points settled in mediation and those still requiring determination by the Tribunal, and any comments that the Tenancy Mediator may wish to make on the conduct of the parties so far as that may be relevant to the question of costs before the Tribunal in accordance with section 102(2)(c), but shall in all respects strictly observe the provisions of sections 89 and 90.
 (5) Where a Tenancy Mediator makes any order to give effect to an agreed settlement, a copy of the order may be filed in the appropriate office of the Tribunal, and, except in a case to which subsection (6) applies, a Tenancy Adjudicator shall seal the copy of the order accordingly.
 (6) Where that Tenancy Adjudicator believes that the order made by the Tenancy Mediator is outside the powers of the Tenancy Mediator to make, the Tenancy Adjudicator shall, instead of sealing the copy of the order,—
