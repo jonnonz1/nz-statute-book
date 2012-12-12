@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -91,7 +91,7 @@ In this Act, unless the context otherwise requires,—
       (ii) providing a service under a joint venture agreement, to which each member of the group is a party; or
       (iii) a government department named in Schedule 1 of the State Sector Act 1988, a State enterprise under the State-Owned Enterprises Act 1986, or a Crown entity under section 7 of the Crown Entities Act 2004; or
       (iv) related to 1 or more of the entities in subparagraph (iii) through the provision of common products or services; or
-      (v) an entity or class of entities prescribed by regulations to be a member of a designated entity; and
+      (v) an entity or class of entities prescribed by regulations; and
     (e) each member of the group satisfies any conditions that may be prescribed by regulations and that apply to that member
   - **domestic wire transfer** has the meaning set out in section 27(7)
   - **existing customer** , in relation to a reporting entity, means a person who was in a business relationship with the reporting entity immediately before the commencement of Part 2
@@ -526,7 +526,7 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
   (a) knowingly or recklessly, set up a facility for a customer on the basis of customer anonymity:
   (b) without lawful justification or reasonable excuse, set up a facility for a customer under a false customer name.
 (2) Subsection (1) does not apply to a facility—
-  (a) that has a number or other identifier allocated to it and the customer or the person who is authorised to act on behalf of the customer in respect of the facility has had their identity verified in accordance with the relevant customer due diligence requirements; or
+  (a) that has a number or other identifier allocated to it and the customer and any person who is authorised to act on behalf of the customer in respect of the facility has had their identity verified in accordance with the relevant customer due diligence requirements; or
   (b) that has been set up for the Commissioner or for the New Zealand Security Intelligence Service for law enforcement purposes.
 
 ### 39 Prohibition on establishing or continuing business relationship involving shell bank
@@ -1048,7 +1048,7 @@ A reporting entity commits an offence if—
     (i) relevant to the investigation or prosecution of any person for a money laundering offence; or
     (ii) relevant to the enforcement of the Misuse of Drugs Act 1975; or
     (iii) relevant to the enforcement of the Terrorism Suppression Act 2002; or
-    (iv) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; and
+    (iv) relevant to the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009; or
     (v) relevant to the investigation or prosecution of a serious offence within the meaning of section 243(1) of the Crimes Act 1961; and
   (c) the reporting entity fails to report the transaction or the proposed transaction to the Commissioner as soon as practicable, but no later than 3 working days, after forming that suspicion.
 
@@ -1116,7 +1116,7 @@ A person commits an offence if the person wilfully obstructs any AML/CFT supervi
 A person commits an offence if, without reasonable excuse, the person provides information to an AML/CFT supervisor knowing that information to be false or misleading in any material respect.
 
 ### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
-Despite anything in section 14 of the Summary Proceedings Act 1957, any information in respect of an offence under any of sections 91 to 97 may be laid at any time within 3 years after the time when the matter of the information arose.
+Despite anything in section 14 of the Summary Proceedings Act 1957, any information in respect of an offence under any of sections 101 to 103 may be laid at any time within 3 years after the time when the matter of the information arose.
 
 ### 105 Penalties
 (1) A person who commits an offence under section 101 is liable, on conviction, to,—
@@ -1589,7 +1589,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (h) declaring a transaction or class of transactions to be, or not to be, an occasional transaction and the circumstances and conditions in which a transaction or class of transactions is to be, or not to be, an occasional transaction for the purposes of this Act:
   (i) declaring a transfer or transaction or a class of transfers or transactions not to be a wire transfer and the circumstances and conditions in which a transfer or transaction or class of transfers or transactions is not a wire transfer for the purposes of this Act:
   (j) declaring a person or class of persons to be, or not to be, a customer and the circumstances and conditions in which a person or class of persons is to be, or not to be, a customer for the purposes of this Act:
-  (k) declaring an entity or class of entities (whether domestic or overseas) to be a member of a specified designated business group:
+  (k) declaring an entity or class of entities (whether domestic or overseas) to be eligible for inclusion in a designated business group:
   (l) declaring a person or class of persons to be, or not to be, a financial institution for the purposes of this Act.
 (2) The Minister must, before making any recommendation, have regard to—
   (a) the purposes of this Act and the Financial Transactions Reporting Act 1996; and
