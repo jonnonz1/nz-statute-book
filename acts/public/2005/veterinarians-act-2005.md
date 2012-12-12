@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -33,6 +33,7 @@ In this Act, unless the context otherwise requires,—
   - **conditions of practice** means conditions of practice that the Council may impose on a specified person under section 61
   - **Council** means the Veterinary Council of New Zealand continued under section 73
   - **disciplinary hearing** means a hearing by the Council conducted under sections 47 to 49
+  - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **institution** means a university, veterinary college, or other institution providing tertiary education in veterinary science
   - **judicial committee** means a judicial committee appointed under section 83
   - **layperson** means a person other than a veterinarian, a registered person, or a person entitled to be registered under this Act
@@ -229,9 +230,7 @@ A person whose registration is cancelled or suspended must deliver his or her ce
 ### 20 Effect of cancellation or suspension of registration
 (1) A person is not a registered person for the purposes of this Act if his or her registration is cancelled or suspended.
 (2) At the end of a period of suspension, a person's registration is immediately reinstated and the Council must reissue to the person his or her certificate of registration.
-(3) Subsection (1) applies in relation to the suspension of a person's registration unless the Council—
-  (a) cancels the person's registration before the end of the period of suspension; or
-  (b) reinstates the person's registration before the end of the period of suspension.
+(3) Subsection (2) applies unless the Council cancels the person's registration before the end of the period of suspension.
 
 **Offences relating to registration**
 
@@ -327,6 +326,14 @@ A practising certificate must state—
 
 ### 28 Expiry of certificate
 A practising certificate continues in force until the close of the date of its expiry unless it is sooner cancelled or suspended under this Act.
+
+### 28A Extension of expiry date of certificate on application for new certificate
+(1) This section applies where—
+  (a) a person who is the holder of an existing practising certificate applies for a new practising certificate before the expiry of his or her existing practising certificate; and
+  (b) the application complies with section 24(2).
+(2) Despite section 28, the applicant's existing practising certificate continues in force until the earlier of—
+  (a) the date that a new certificate is issued under section 26(1); or
+  (b) the date that the Council notifies the applicant under section 26(3)(d) that it is not satisfied that he or she meets the requirements for the issue of a new certificate.
 
 ### 29 Surrender of certificate if certificate is cancelled or suspended
 A person whose practising certificate is cancelled or suspended must deliver his or her practising certificate to the Registrar no later than 10 working days after the date on which a notice of cancellation or suspension has been given to the person.
@@ -625,9 +632,11 @@ If money payable by a specified person under section 51(1)(i), (1)(j), or (3) re
     (i) the name and address of the medical practitioner who is to conduct the examination; and
     (ii) the date by which the examination is to take place (being a date not earlier than 5 working days after the notice is served on the specified person); and
   (d) inform the specified person that—
-    (i) he or she may attend the examination with another person who may be a support person or an observer; and
-    (ii) he or she may refuse to undertake the examination, but that the Council may, despite the refusal, act under section 57(1) in any event.
+    (i) he or she may attend the examination with another person, who may be a support person or an observer; and
+    (ii) the medical practitioner conducting the examination may consult with any other health practitioner regarding the examination; and
+    (iii) the specified person may refuse to undertake the examination, but that the Council may, despite the refusal, act under section 57(1) in any event.
 (3) Before giving a notice under this section, the Council must endeavour to consult with the specified person about the medical practitioner who is to conduct the examination.
+(3A) The medical practitioner conducting the examination may consult with another health practitioner who the medical practitioner considers is able to assist in the completion of the examination or in the completion of the report under subsection (4).
 (4) The medical practitioner must, as soon as practicable after conducting an examination, make a written report to the Council.
 (5) The Council must, as soon as practicable after receiving the report,—
   (a) send a copy to the specified person; and
@@ -880,7 +889,7 @@ Subject to the Council's direction, a committee may regulate its own procedure.
 ### 85 Obligation to prepare annual report
 (1) The Council must prepare an annual report on its operations for each financial year.
 (2) An annual report must include the audited financial statements of the Council for the relevant financial year.
-(3) The financial year of the Council ends on 31 December in each year.
+(3) The financial year of the Council ends in each year on 31 December or any other day determined by the Minister.
 
 ### 86 Annual report
 (1) As soon as practicable after the end of each financial year, the Council must deliver to the Minister the annual report for that financial year.
@@ -903,6 +912,19 @@ Neither the Council nor any committee, member, committee member, employee, or ag
 Every matter approved or prescribed under this Act that is required to be published in the Gazette—
   (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
   (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+
+### 89A Notification of convictions
+A registrar of a court who knows that a person convicted in the court is a veterinarian must send a notice of the conviction to the Council if the conviction is for—
+  (a) any offence against—
+    (i) the Agricultural Compounds and Veterinary Medicines Act 1997; or
+    (ii) the Animal Products Act 1999; or
+    (iii) the Animal Welfare Act 1999; or
+    (iv) the Biosecurity Act 1993; or
+    (v) the Food Act 1981; or
+    (vi) the Hazardous Substances and New Organisms Act 1996; or
+    (vii) the Medicines Act 1981; or
+    (viii) the Misuse of Drugs Act 1975; or
+  (b) any other offence that is punishable by imprisonment for a term of 3 months or more.
 
 **Evidence**
 
@@ -943,7 +965,7 @@ The Crown is not liable to contribute towards the payment of any debts or liabil
 **References to veterinarians in other enactments**
 
 ### 95 References to veterinarians in other enactments
-References in any enactment to a veterinarian or a veterinary surgeon, or registered veterinarian or veterinary surgeon, or duly qualified veterinarian or veterinary surgeon are, unless the context otherwise requires, to be read as if they were references to a veterinarian within the meaning of section 4 of this Act.
+References in any enactment to a veterinarian or a veterinary practitioner or a veterinary surgeon, or registered veterinarian or veterinary surgeon, or duly qualified veterinarian or veterinary surgeon are, unless the context otherwise requires, to be read as if they were references to a veterinarian within the meaning of section 4 of this Act.
 
 **Service of documents**
 
@@ -1181,6 +1203,16 @@ Except as otherwise provided in this Act, the Council may regulate its own proce
 
 ### 20 Council to appoint Registrar
 The Council must appoint a Registrar for the Council on the terms and conditions it thinks fit.
+
+### 20A Registrar's ability to delegate
+(1) The Registrar may delegate 1 or more of his or her functions, duties, or powers to 1 or more employees of the Council except a function, duty, or power delegated to the Registrar by the Council under clause 17.
+(2) A delegation must be in writing and may be subject to any conditions that the Registrar thinks fit.
+(3) A delegate may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions and duties, and with the same effect as if he or she were the Registrar, but may not further delegate the function, duty, or power.
+(4) A delegate who purports to perform or exercise a function, duty, or power under a delegation made under this clause is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of the delegation.
+(5) A delegation under this clause—
+  (a) may be revoked at will by the Registrar in writing; and
+  (b) does not prevent the Registrar from personally performing the function or duty, or exercising the power.
+(6) A delegation under this clause does not cease to have effect merely because the Registrar who made it ceases to hold office.
 
 ### 21 Council may employ employees
 The Council may employ employees—
