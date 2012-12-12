@@ -1,5 +1,5 @@
 # Ngati Porou Claims Settlement Act 2012
-_Consolidation as at 2012-04-05_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Ngati Porou Claims Settlement Act 2012.
@@ -532,7 +532,7 @@ Before the parties commence preparation of a draft nga Whakahaere Takirua, they 
   (a) both parties; and
   (b) the Conservation Board.
 (4) The parties and the Conservation Board may hear any other person or organisation whose views on the draft document were sought under section 27(4).
-(5) The hearing of submissions must be concluded not later than 2 months after the date specified in the notice given under section 27(1)(b)(ii).
+(5) The hearing of submissions must be concluded not later than 2 months after the date specified in the notice given under section 27(1)(b).
 (6) The parties must jointly prepare a summary of the submissions on the draft document and any other views on it made known to the parties under section 27(4).
 
 ### 29 Revision of draft nga Whakahaere Takirua
@@ -1278,7 +1278,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 ### 111 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
   (a) section 54(1)(d) of the Land Act 1948; or
-  (b) section 355(3) of the Resource Management Act 1991.
+  (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### 112 Disposal of land held for public works
@@ -1589,14 +1589,14 @@ This subpart applies, by virtue of the reorganisation of the governance of Ngati
   (a) is derived from a financial arrangement, trading stock, revenue account property, or depreciable property; and
   (b) is exempt income of Te Runanga but is not exempt income of the trustee.
 (5) The trustee must be treated as having acquired the financial arrangement, trading stock, revenue account property, or depreciable property on the day that it becomes the trustee's property for a consideration that is its market value on that day.
-(6) The trustee must identify the undistributed charitable amounts, using the following formula:x – ywhere—xis the total amounts derived by Te Runanga that, but for the application of sections CW 41 and CW 42 of the Income Tax Act 2007, would have been taxable income derived by Te Runanga before the commencement of this Actyis the amounts described in x that have been distributed before the commencement of this Act.
+(6) The trustee must identify the undistributed charitable amounts, using the following formula:x − ywhere—xis the total amounts derived by Te Runanga that, but for the application of sections CW 41 and CW 42 of the Income Tax Act 2007, would have been taxable income derived by Te Runanga before the commencement of this Actyis the amounts described in x that have been distributed before the commencement of this Act.
 (7) The undistributed charitable amounts described in subsection (6) are excluded from the corpus of the trustee for the purposes of the Income Tax Act 2007, to the extent to which they are otherwise included but for this subsection.
 (8) If the trustee distributes an undistributed charitable amount to a person, that amount is treated as beneficiary income for the purposes of the Income Tax Act 2007, unless subsection (9) applies.
 (9) If the trustee distributes an undistributed charitable amount for a charitable purpose, the distribution is exempt income of the recipient.
 (10) In this section, Te Runanga means Te Runanga in its own capacity and in its capacity as a trustee of any trust.
 
 ### 152 Election by trustee to be Maori authority
-(1) If the trustee makes an election under section HF 11 of the Income Tax Act 2007 to become a Maori authority, to the extent that the amount referred to in section 151(5) is distributed in an income year, that distribution will be—
+(1) If the trustee makes an election under section HF 11 of the Income Tax Act 2007 to become a Maori authority, to the extent that the amount referred to in section 151(6) is distributed in an income year, that distribution will be—
   (a) exempt income if the distribution is applied for a charitable purpose; or
   (b) a taxable Maori authority distribution.
 (2) If this section applies, the amount must be disregarded for the purposes of section HF 8 of the Income Tax Act 2007.
@@ -1861,7 +1861,7 @@ For the purposes of section 11, the hapu of Ngati Porou are—
 | Aorangi | 751.0964 hectares, more or less, being Aorangiwai 1 and 1A. All Gazette 1979 page 1974. | Subject to scenic reserve referred to in section 65(3). |
 | Pakaturi | 328.0200 hectares, more or less, being Section 1 SO 8300, Sections 3, 4, 5, and 6, Block XIV, and Sections 10 and 11, Block XV, Tokomaru Survey District. Part transfer 81445. | Subject to scenic reserve referred to in section 66(3). |
 | Paraheka | 97.2400 hectares, more or less, being Sections 1 and 2, SO 8634. All Gazette Notice 191207.2.142.0445 hectares, more or less, being Section 4, Block IV, and Sections 2, 3, 4, and 9, Block VIII, Waingaromia Survey District. All Gazette Notice 68269 and All Gazette 1974 page 946. | Subject to scenic reserve referred to in section 67(3). |
-| Pukeamaru | 3264.9756 hectares, more or less, being Sections 3, 4, 5, and 6, Block X, and Sections 2 and 4, Block XII, Matakaoa Survey District. Part Gazette 1979 page 2034.250.4400 hectares, more or less, being Lots 2 and 5 DP 8030. Balance Gazette Notice 193663.1. | Subject to scenic reserve referred to in section 68(4). |
+| Pukeamaru | 3264.9756 hectares, more or less, being Sections 3, 4, 5, and 6, Block X, Section I Block XI, and Sections 2 and 4, Block XII, Matakaoa Survey District. Part Gazette 1979 page 2034.250.4400 hectares, more or less, being Lots 2 and 5 DP 8030. Balance Gazette Notice 193663.1. | Subject to scenic reserve referred to in section 68(4). |
 | Waimahuru | 49.6752 hectares, more or less, being Section 2, Block XIII, Waipiro Survey District. Part Gazette 1924 page 2764.215.0000 hectares, more or less, being Lot 1 DP 8481. All Computer Freehold Register GS5D/1341. | Subject to scenic reserve referred to in section 69(4).Subject to a right of way easement specified in easement certificate 199028.1.Subject to a right to store and take water specified in easement certificate 199028.2.Subject to a water right (in gross) in favour of the Waiapu Hospital Board created by Transfer 35124.Subject to section 206 of the Land Act 1924.Subject to an unregistered concession licence (forestry right) with concession number BP-29314-OTH, dated 6 December 2010. |
 
 | Name of site | Description | Encumbrances |
