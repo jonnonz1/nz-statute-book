@@ -1,7 +1,7 @@
 # Local Government Act 1974
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2012-12-12_
 
-> An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
+> An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Local Government Act 1974.
@@ -12,20 +12,15 @@ _Consolidation as at 2011-06-20_
 (1) In this Act, unless the context otherwise requires,—
   - **Act** includes Provincial Ordinance
   - **adjusted net capital value** , in relation to any district, means the net capital value of the district adjusted under Part 14 of the Rating Powers Act 1988, which Part shall apply as if the territorial authority were a special-purpose authority
-  - **administering authority**
   - **annual plan** means a report under section 223D
   - **annual report** means a report under section 233E
-  - **borough**
-  - **borough council**
   - **building consent** has the meaning ascribed to it by section 7 of the Building Act 2004
   - **capital value** has the same meaning as in the Rating Valuations Act 1998
   - **chairperson** includes the mayor of a territorial authority and the chairman of a regional council; and includes a deputy mayor or deputy chairman
-  - **clerk**
   - **commercial or industrial purpose** means any purpose of commerce, trade, or industry; but does not include any farming purpose; and and have meanings corresponding to the meaning of the term commercial or industrial purpose
   - **Commission** means the Local Government Commission established under this Act
   - **community** means a community constituted under section 101ZG
   - **community board** means a community board constituted under section 101ZP
-  - **community council**
   - **constituency** —
     (a) means a constituency of a region that is under the jurisdiction of a regional council and is established for electoral purposes under this Act; but
     (b) does not include any subdivision for electoral purposes of a territorial authority that has the functions, duties, and powers of a regional council
@@ -33,20 +28,13 @@ _Consolidation as at 2011-06-20_
   - **constituent district** means the district of a territorial authority which is wholly or partly within a region
   - **construction** , in relation to any work authorised by this Act, includes the execution, establishment, constitution, undertaking, or carrying out thereof; and has a corresponding meaning
   - **council** means a territorial authority or a regional council, as the case may require
-  - **county**
-  - **Crown health enterprise**
   - **debt security** has the same meaning as in the Securities Act 1978
   - **Director of Maritime New Zealand** means the person for the time being holding the office of Director of Maritime New Zealand under section 439 of the Maritime Transport Act 1994
-  - **Director of Maritime Safety**
   - **district** means the district of a local authority; and includes a region
-  - **District Commissioner of Works**
-  - **district community council**
   - **district council** means a district council constituted under Part 1A
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **district plan** , , in relation to a district plan, and have the same meaning as in section 2 of the Resource Management Act 1991
-  - **district scheme** , and
-  - **divided district**
-  - **elector** means a person qualified to be an elector by virtue of section 23 or 24 of the Local Electoral Act 2001
+  - **elector** means a person qualified to be an elector by virtue of section 23 or section 24 of the Local Electoral Act 2001
   - **engineer** , in relation to any council, means the engineer appointed by the council; and includes any person for the time being appointed by the council to perform the duties of engineer thereto
   - **Environment Court** means the Environment Court as defined in the Resource Management Act 1991
   - **equity security** has the same meaning as in the Securities Act 1978
@@ -55,50 +43,44 @@ _Consolidation as at 2011-06-20_
   - **financial year** means—
     (a) in relation to any period before 1 April 1990, a period of 12 months ending with 31 March:
     (b) in relation to the period commencing on 1 April 1990 and ending with 30 June 1990, that period of 3 months:
-    (c) in relation to any period commencing on or after 1 July 1990, a period of 12 months ending with the 30 June
+    (c) in relation to any period commencing on or after 1 July 1990, a period of 12 months ending with 30 June
   - **formation** , in relation to any road, has the same meaning as the construction of the road, and includes gravelling, metalling, sealing, or permanently surfacing the road; and has a corresponding meaning
   - **general election** means the triennial general election or a general election of members of a territorial authority or regional council held under the Local Electoral Act 2001
-  - **general revenues** , in relation to a local authority, means all the funds received or receivable by a local authority, excluding loan money under Part 3 of the Local Authorities Loans Act 1956
+  - **general revenues** , in relation to a local authority, means all the funds received or receivable by a local authority, excluding loan money under Part 7B
   - **generally accepted accounting practice** means—
     (a) approved financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) so far as those standards apply to local authorities or local authority trading enterprises, as the case may be; and
     (b) in relation to matters for which no provision is made in approved financial reporting standards (within the meaning of section 2 of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that—
       (i) are appropriate to the local authority or local authority trading enterprise, as the case may be; and
       (ii) have authoritative support within the accounting profession in New Zealand
   - **government road** means a government road declared as such under any Act
-  - **hospital and health service**
   - **laying out** , in relation to any road, means the legal and survey actions necessary to enable the road to be formed; but does not include the formation of the road
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
-  - **maritime facilities** includes moorings, wharves, docks, quays, marinas, areas, or places where vessels are maintained, launching ramps, and other launching facilities
+  - **maritime facilities** includes moorings, wharves, docks, quays, marinas, areas or places where vessels are maintained, launching ramps, and other launching facilities
   - **Maritime New Zealand** means the authority continued by section 429 of the Maritime Transport Act 1994
   - **maritime rules** means maritime rules made under the Maritime Transport Act 1994
-  - **Maritime Safety Authority**
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** , in relation to any local authority, includes any chairperson or mayor
   - **Minister** means the Minister of Local Government
+  - **navigation bylaws** means bylaws made under section 684B
   - **navigational aid** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
-  - **navigational bylaws** means bylaws made under section 684B
   - **net capital value** , in relation to any district, means the total of the capital value of all the rateable property in the district and the value of all property in the district in respect of which the local authority receives grants in lieu of rates
   - **occupier** , in relation to any property, means the inhabitant occupier of that property
-  - **out-district**
   - **owner** , in relation to any property, means the person entitled to receive the rack rent thereof, or who would be so entitled if the property were let to a tenant at a rack rent
-  - **parliamentary elector** means any person lawfully registered as an elector under the Electoral Act 1956
-  - **Planning Tribunal**
+  - **parliamentary elector** means any person lawfully registered as an elector under the Electoral Act 1993
   - **pleasure craft** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
   - **polling day** means the day appointed for holding an election or poll
   - **pollutant** means anything which contaminates water so as to change its physical or chemical or biological condition in such a manner as to make it unclean, noxious, or impure, or as to be detrimental to the health, safety, or welfare of persons using the water, or as to render the water undrinkable; and has a corresponding meaning
   - **principal administrative officer** means, in relation to a local authority, the principal administrative officer of the local authority irrespective of the designation given to that officer; and includes any person for the time being appointed by the local authority to perform the duties or a particular duty of the principal administrative officer
-  - **principal authority**
   - **principal local authority** , in relation to a reorganisation proposal, means the local authority agreed on, or designated, under section 37ZY, as the principal local authority in relation to that proposal
   - **property** includes all real estate, and all personal estate, chattels, and effects, and all money and rates, whether in possession or reversion or recoverable by action or other legal proceeding, and the benefit of any contract or engagement, and every matter or thing the subject of property
   - **public notice** means—and and have corresponding meanings. A public notice setting forth the object, purport, or general effect of a document shall in any case be sufficient notice of that document
-    (a) a notice published in a newspaper circulating generally in the district to which the subject-matter of the notice relates; or
-    (b) where there is no newspaper circulating generally in any district, a notice published on placards affixed to public places in the district to which the subject-matter of the notice relates;—
+    (a) a notice published in a newspaper circulating generally in the district to which the subject matter of the notice relates; or
+    (b) where there is no newspaper circulating generally in any district, a notice published on placards affixed to public places in the district to which the subject matter of the notice relates;—
   - **public office** or means, in relation to any local authority, its principal or only public office
   - **public work** means any public work within the meaning of the Public Works Act 1981
-  - **rate records** means rate records under the Rating Powers Act 1988
-  - **rateable value** , in relation to any property, means its rateable value within the meaning of the Rating Powers Act 1988
-  - **ratepayer** , in relation to any property, means a person whose name appears for the time being in the Occupiers column of the rate record for that property
-  - **rating qualification**
+  - **rate records** means rate records under the Local Government (Rating) Act 2002
+  - **rateable value** , in relation to any property, means its rateable value within the meaning of the Local Government (Rating) Act 2002
+  - **ratepayer** , in relation to any property, means a person whose name appears for the time being in the “Occupiers” column of the rate record for that property
   - **region** means a region in respect of which—
     (a) a regional council is constituted; or
     (b) a territorial authority has, pursuant to section 37N, authority to exercise the functions, duties, and powers of a regional council
@@ -106,34 +88,25 @@ _Consolidation as at 2011-06-20_
     (a) has the same meaning as in section 5(1) of the Local Government Act 2002; and
     (b) includes, in Part 39A and sections 684B to 684F, the Chatham Islands Council
   - **regional planning scheme** has the same meaning as in section 2(1) of the Town and Country Planning Act 1977
-  - **regional road**
-  - **regional scheme**
   - **reorganisation scheme** means a reorganisation scheme within the meaning of section 37ZZA or section 37ZZZA
-  - **residential qualification**
-  - **riding**
   - **road** has the meaning defined in section 315
   - **rural area** means an area zoned rural in a proposed or an operative district plan
   - **Secretary** means the Secretary for Local Government
-  - **scheme**
   - **ship** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
-  - **special order**
   - **State highway** means a State highway declared under section 60 of the Government Roading Powers Act 1989
-  - **subdivision**
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **territorial authority district** means a district in respect of which a territorial authority is constituted; and, in relation to land in respect of which the Minister of Local Government is the territorial authority, means that land
   - **treasurer** , in relation to any council, means the treasurer appointed by the council; and includes any person for the time being appointed by the council to perform the duties of treasurer thereto
-  - **undivided district**
-  - **united council**
   - **upgrading** , in relation to any road, includes any change to the composition, width, or surfacing of the road
   - **valuation roll** , in relation to any district, means the valuation roll for the district prepared under section 7 of the Rating Valuations Act 1998 and approved by the Valuer-General under section 11 of that Act
   - **ward** means a subdivision, for electoral purposes, of the district of a territorial authority
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) a day in the period commencing with the 25 December in any year and ending with the 15 January in the following year.
+    (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 (2) The Governor-General may, from time to time, by Order in Council,—
   (a) add to, or omit from, Schedule 1, or any Part thereof, the name of any class of local authority or the name of any specified local authority:
-  (b) otherwise amend Schedule 1, or revoke any such Schedule or any Part of any such Schedule, and substitute a new Schedule or a new Part, as the case may require.
+  (b) otherwise amend Schedule 1, or revoke any such schedule or any Part of any such schedule, and substitute a new schedule or a new Part, as the case may require.
 (3)
 (4) For the purposes of this Act, any 2 or more districts or communities shall be deemed to be adjoining districts or communities and any area shall be deemed to adjoin a district or community or another area, notwithstanding that they may be separated by a public highway, any railway, any watercourse (whether natural or artificial), any harbour, the sea, or any other natural or artificial feature.
 (5) For the purposes of this Act, the certificate of the Government Statistician as to the population of any district or area or the electoral population of any general electoral district, Maori electoral district, district, or area at any date shall be conclusive evidence thereof.
@@ -161,7 +134,7 @@ _Consolidation as at 2011-06-20_
 ### 6 Deputies of members
 [Repealed]
 
-### 7 Deputy Chairman
+### 7 Deputy chairman
 [Repealed]
 
 ### 8 Temporary members
@@ -185,7 +158,7 @@ _Consolidation as at 2011-06-20_
 ### 12 Officers of Commission
 [Repealed]
 
-### 13 Commission to be a Commission of Inquiry
+### 13 Commission to be a commission of inquiry
 [Repealed]
 
 ### 14 Evidence in proceedings before Commission
@@ -211,10 +184,10 @@ _Consolidation as at 2011-06-20_
 ### 15E Procedures for preparing final reorganisation schemes
 [Repealed]
 
-**Regional schemes**
-
 ### 16 Commission may direct investigations
 [Repealed]
+
+**Regional schemes**
 
 ### 17 Regional schemes
 [Repealed]
@@ -237,7 +210,7 @@ _Consolidation as at 2011-06-20_
 ### 23 Notice of final regional scheme
 [Repealed]
 
-### 24 Minister may refer final scheme back to Commission for reconsideration
+### 24 Minister may refer final regional scheme back to Commission for reconsideration
 [Repealed]
 
 **Reorganisation schemes**
@@ -272,10 +245,10 @@ _Consolidation as at 2011-06-20_
 ### 33 Objections to provisional reorganisation scheme
 [Repealed]
 
-**Matters common to regional and reorganisation schemes**
-
 ### 34 Final reorganisation scheme
 [Repealed]
+
+**Matters common to regional and reorganisation schemes**
 
 ### 35 Supplementary provisions for giving effect to schemes
 [Repealed]
@@ -414,7 +387,7 @@ _Consolidation as at 2011-06-20_
 ### 37ZC Further provisions applying in respect of Commission
 [Repealed]
 
-## Part 2AA — Appeals against decisions of commission
+## Part 2AA — Appeals against decisions of Commission
 
 ### 37ZD Commencement
 [Repealed]
@@ -621,12 +594,12 @@ _Consolidation as at 2011-06-20_
 ### 37ZZTK Application of Part 2BA with modifications
 [Repealed]
 
+**Reorganisation schemes**
+
 ### 37ZZU Commission to deal with amended proposal
 [Repealed]
 
-**Reorganisation schemes**
-
-### 37ZZV Draft reorganisation scheme
+### 37ZZV Draft reorganisation schemes
 [Repealed]
 
 ### 37ZZVA Power to amend basis of certain rates
@@ -798,7 +771,7 @@ _Consolidation as at 2011-06-20_
 ### 53 Incorporation of councils
 [Repealed]
 
-### 54 District Councils
+### 54 District councils
 [Repealed]
 
 ### 55 Membership of councils
@@ -807,7 +780,7 @@ _Consolidation as at 2011-06-20_
 ### 56 Review of basis of election
 [Repealed]
 
-### 56A Review of basis of election and division of district with population over 70,000 into wards
+### 56A Review of basis of election and division of district with population over 70 000 into wards
 [Repealed]
 
 ### 56B Commission to determine wards
@@ -816,7 +789,7 @@ _Consolidation as at 2011-06-20_
 ### 56C Factors to be used in determining wards
 [Repealed]
 
-### 56D Ward system where members of territorial authority elected on wards system in 1983
+### 56D Ward system where members of territorial authority elected on ward system in 1983
 [Repealed]
 
 **Constitution of communities**
@@ -824,7 +797,7 @@ _Consolidation as at 2011-06-20_
 ### 57 Constitution of communities
 [Repealed]
 
-### 58 Union, alteration, or abolition of communities
+### 58 Union, alteration, or abolition, of communities
 [Repealed]
 
 **District community councils and community councils**
@@ -878,8 +851,6 @@ _Consolidation as at 2011-06-20_
 ### 71 Electors of regions
 [Repealed]
 
-**Electoral rolls**
-
 ### 72 Compilation of electoral roll
 [Repealed]
 
@@ -909,10 +880,10 @@ _Consolidation as at 2011-06-20_
 ### 80 Roll for by-election or poll
 [Repealed]
 
-### 81 Use of roll for other local authority election, by election, or poll
+### 81 Use of roll for other local authority election, by-election, or poll
 [Repealed]
 
-### 82 When roll in force, and amendment thereto
+### 82 Special provisions relating to regional council elections
 [Repealed]
 
 ### 83 Local Elections and Polls Act 1976 applied
@@ -941,7 +912,7 @@ _Consolidation as at 2011-06-20_
 ### 90 Mayor of borough
 [Repealed]
 
-### 91 Mayor or Chairman of district of district council
+### 91 Mayor or chairman of district council
 [Repealed]
 
 ### 92 Election of mayor
@@ -950,13 +921,13 @@ _Consolidation as at 2011-06-20_
 ### 93 Election of chairman of regional council, united council, county, district of a district council, town district, district community council, or community council
 [Repealed]
 
-### 93A Regional, united county, district, town, district community, or community council may remove Chairman from office and elect new Chairman
+### 93A Regional, united, county, district, town, district community, or community council may remove chairman from office and elect new chairman
 [Repealed]
 
-### 93B Election of Chairman by open voting
+### 93B Election of chairman by open voting
 [Repealed]
 
-### 94 Principal administrative officer to preside at meeting for election of chairman
+### 94 Principal officer to preside at meeting for election of chairman
 [Repealed]
 
 ### 95 Provisions where the same person elected to be both mayor and a member
@@ -970,7 +941,7 @@ _Consolidation as at 2011-06-20_
 ### 97 Disqualification of members of councils other than united councils
 [Repealed]
 
-### 98 Extraordinary vacancies (council other than united councils)
+### 98 Extraordinary vacancies on district community councils and community councils
 [Repealed]
 
 ### 99 Vacancies in membership of united council
@@ -982,7 +953,7 @@ _Consolidation as at 2011-06-20_
 ### 101 Audit Office to institute proceedings
 [Repealed]
 
-## Part 4A — Membership, wards and constituencies
+## Part 4A — Membership, wards, and constituencies
 
 ### 101A Commencement
 [Repealed]
@@ -1180,7 +1151,7 @@ _Consolidation as at 2011-06-20_
 ### 101ZZF Remuneration Authority to determine remuneration
 [Repealed]
 
-### 101ZZG Mandatory criteria for Commission
+### 101ZZG Mandatory criteria for Authority
 [Repealed]
 
 ### 101ZZH Submissions to Authority
@@ -1492,20 +1463,6 @@ _Consolidation as at 2011-06-20_
 ### 122X Statement of compliance
 [Repealed]
 
-## Part 7AB — Remission and postponement policies and policies for rates relief on Maori freehold land
-
-### 122XA Remission policy
-[Repealed]
-
-### 122XB Postponement policy
-[Repealed]
-
-### 122XC Rates relief policy for Maori freehold land
-[Repealed]
-
-### 122XD Factors applying to policy on rates relief for Maori freehold land
-[Repealed]
-
 ## Part 7B — Borrowing and security
 
 ### 122Y Commencement
@@ -1606,7 +1563,7 @@ _Consolidation as at 2011-06-20_
 ### 126 Assessment of contributions
 [Repealed]
 
-### 127 Jurisdiction of Magistrate's Court
+### 127 Jurisdiction of District Court
 [Repealed]
 
 ### 128 Production of documents to be evidence
@@ -1653,7 +1610,7 @@ _Consolidation as at 2011-06-20_
 ### 139 Community general rate
 [Repealed]
 
-**Regional works and services rules**
+**Regional works and services rates**
 
 ### 140 Regional works and services rates
 [Repealed]
@@ -1691,7 +1648,7 @@ _Consolidation as at 2011-06-20_
 ### 148 Alteration to system of differential rating
 [Repealed]
 
-### 148A Alteration to system of differential rating
+### 148A Certain changes not to compromise alteration to system of differential rating
 [Repealed]
 
 ### 149 Revocation of differential rating
@@ -1709,13 +1666,13 @@ _Consolidation as at 2011-06-20_
 ### 153 Rating on a graduated scale
 [Repealed]
 
-### 154 Land drainage or water-race rating on area system
+### 154 Land drainage or water race rating on area system
 [Repealed]
 
 ### 155 Appeal against operation of area system
 [Repealed]
 
-### 156 Classification for the purposes of area rate
+### 156 Classification for purposes of area rate
 [Repealed]
 
 ### 157 Fire protection rate on value of improvements
@@ -1738,10 +1695,10 @@ _Consolidation as at 2011-06-20_
 ### 159 Provisions as to water meters
 [Repealed]
 
-### 160 Water-race charge
+### 160 Water race charge
 [Repealed]
 
-### 161 Owner granting land for water race may have water free of charge or at reduced charge
+### 161 Owner granting land for water race may have water free of charge or at a reduced charge
 [Repealed]
 
 ### 162 Sewerage and stormwater drainage charges
@@ -1753,7 +1710,7 @@ _Consolidation as at 2011-06-20_
 ### 164 Fire protection charges
 [Repealed]
 
-### 164A Territorial authority may levy uniform annual charge instead of rates for certain purpose
+### 164A Uniform annual charges instead of rates for certain purpose
 [Repealed]
 
 ### 164AA Annual charges on properties in common occupation
@@ -1782,7 +1739,7 @@ _Consolidation as at 2011-06-20_
 ### 164H Payment of lump sum contributions
 [Repealed]
 
-### 164I Recalculation of lump sum contributions on completion of work
+### 164I Recalculation of lump sum contribution on completion of work
 [Repealed]
 
 ### 164J Refund of or increase in lump sum contribution
@@ -1817,7 +1774,7 @@ _Consolidation as at 2011-06-20_
 ### 172 Separate rate may be made an annually recurring rate
 [Repealed]
 
-### 173 Certain separate rates payable in full or in for proportionate part of year in certain circumstances
+### 173 Certain separate rates payable in full or for proportionate part of year in certain circumstances
 [Repealed]
 
 ### 174 Consolidation of special rates
@@ -1853,7 +1810,6 @@ _Consolidation as at 2011-06-20_
   - **component district** means the district of a component authority
   - **distribution authority** means the territorial authority in each tax area whose name is for the time being distinguished by the letter D in that part of the second column of Schedule 7 which relates to that tax area
   - **engine fuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
-  - **petroleum**
   - **specified engine fuel** —
     (a) means,—
       (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as a type of—
@@ -1878,7 +1834,7 @@ _Consolidation as at 2011-06-20_
 (2) This Part shall not apply in the Chatham Islands, or to specified engine fuel sold, or agreed to be sold, or disposed of, for delivery within the Chatham Islands or used there by any wholesale distributor.
 
 ### 183 Tax areas for purposes of tax
-(1) The tax areas shall be those named in the first column of Schedule 7, and the component districts of each such tax area shall be those specified in the second column of the said Schedule opposite the name of the tax area.
+(1) The tax areas shall be those named in the first column of Schedule 7, and the component districts of each such tax area shall be those specified in the second column of the said schedule opposite the name of the tax area.
 (2) If at any time the boundaries of the district of a territorial authority comprised in any tax area are altered, the alteration shall have effect with respect to the tax area, and the boundaries of the tax area shall be deemed to be altered accordingly.
 
 ### 184 Notice of change of distribution authority
@@ -1891,20 +1847,20 @@ Where pursuant to this Part the functions of a distribution authority are transf
   (a) delivered within the tax area by or on behalf of any wholesale distributor pursuant to any sale, agreement to sell, or disposition made by the wholesale distributor before or after the commencement of this Part, irrespective of where the sale, agreement to sell, or disposition was made; or
   (b) used by any wholesale distributor within the tax area.
 (2) Any tax so levied shall be—
-  (a) at the rates specified in Scale A or in Scale B or in Scale C in Schedule 6; and
-  (b) in respect of each class of specified engine fuel specified in that Schedule, at the rate specified for that class in the scale under which the tax is levied.
+  (a) at the rates specified in scale A or in scale B or in scale C in Schedule 6; and
+  (b) in respect of each class of specified engine fuel specified in that schedule, at the rate specified for that class in the scale under which the tax is levied.
 (3) Notwithstanding anything in subsection (1), no local authorities fuel tax shall be levied or payable in respect of any transaction whereby—
   (a) any specified engine fuel is sold or agreed to be sold or disposed of by a wholesale distributor to another wholesale distributor; or
   (b) any specified engine fuel is exported by a wholesale distributor, or is sold or agreed to be sold or disposed of by him for exportation, and is loaded upon the exporting ship or aircraft.
 (3A) If any type of diesel is a specified engine fuel, the local authorities fuel tax applies to blends of kerosene and diesel as if they were entirely diesel.
-(4) Subject to this Part, the local authorities petroleum tax being levied immediately before the commencement of this Part pursuant to the Local Authorities (Petroleum Tax) Act 1970 shall continue to be levied under this Part, as if the decision to levy the tax had been made under this Part, until the scale of tax is altered pursuant to section 186, and every notice in the form set out in Schedule 3 to the Local Authorities (Petroleum Tax) Act 1970 given by a local authority under section 10(a) of that Act shall continue in force after the commencement of this Part as if it were a notice given under this Act in the form set out in Schedule 8.
+(4) Subject to this Part, the local authorities petroleum tax being levied immediately before the commencement of this Part pursuant to the Local Authorities (Petroleum Tax) Act 1970 shall continue to be levied under this Part, as if the decision to levy the tax had been made under this Part, until the scale of tax is altered pursuant to section 186, and every notice in the form set out in Schedule 3 of the Local Authorities (Petroleum Tax) Act 1970 given by a local authority under section 10(a) of that Act shall continue in force after the commencement of this Part as if it were a notice given under this Act in the form set out in Schedule 8.
 (5) Every reference in an enactment or document to the local authorities petroleum tax must, unless the context otherwise requires, be read as a reference to the local authorities fuel tax.
 
 ### 186 Alteration of scale of tax
 (1) The scale of the tax in force in any tax area may from time to time be altered by a determination of a meeting of representatives of all component authorities of the tax area.
 (2)
 (3) No alteration in the scale of the tax shall be made under subsection (1) to take effect at any time within 12 months after the date of the taking effect of a previous determination under this section.
-(4) Each component authority (including the distribution authority) may appoint 1 of its members to attend as its representative any meeting under subsection (1).
+(4) Each component authority (including the distribution authority) may appoint one of its members to attend as its representative any meeting under subsection (1).
 (5) Every representative so appointed shall be entitled to exercise 1 vote at the meeting:
   provided that if the population of any component district is 7 500 or more, its representative shall have 1 additional vote.
 (6) Every question at the meeting shall be decided on a majority of the valid votes cast at the meeting.
@@ -1921,9 +1877,9 @@ On the making of any alteration to the scale of tax to be levied in any tax area
 
 ### 188 Functions of distribution authority
 The functions of a distribution authority shall be—
-  (a) of its own motion or at the request of 2 or more component authorities of the tax area, to convene such meetings as may be required for the purposes of section 186:
+  (a) of its own motion or at the request of 2 or more component authorities of the tax area, convene such meetings as may be required for the purposes of section 186:
   (b) to collect and distribute the proceeds of the tax within the tax area in accordance with section 198:
-  (c) to provide such administrative, secretarial, and accounting services as are necessary for the purpose of this section:
+  (c) to provide such administrative, secretarial, and accounting services as are necessary for the purpose of this section.
 
 **Collection of tax**
 
@@ -1937,14 +1893,14 @@ The functions of a distribution authority shall be—
 ### 190 Assessment of tax
 (1) The monthly return under section 189 may be accepted by the principal administrative officer as sufficient proof of the matters set forth in them, and the local authorities fuel tax may be assessed by the principal administrative officer accordingly.
 (2) For the purposes of this Part, the Auditor-General has, in respect of the records of wholesale distributors relating to specified engine fuel sold, agreed to be sold, disposed of, delivered, or used by the local authority, the same powers as it has under the Public Audit Act 2001.
-(3) After any such inspection or examination as aforesaid, the Audit Office may require the principal administrative officer of the distribution authority of any tax area in which a local authorities fuel tax is in force to make any assessment or amended assessment for the purpose of this Part, and it shall be the duty of the principal administrative officer to comply with that requirement.
+(3) After any such inspection or examination as aforesaid, the Auditor-General may require the principal administrative officer of the distribution authority of any tax area in which a local authorities fuel tax is in force to make any assessment or amended assessment for the purpose of this Part, and it shall be the duty of the principal administrative officer to comply with that requirement.
 
 ### 191 Assessment presumed to be correct
-Every assessment made by the principal administrative officer under this Part shall be taken to be correct, and the tax shall be payable accordingly, unless, on an appeal under section 192 or in proceedings taken under this Act in a Court of competent jurisdiction, a different amount is proved to be the tax payable on the specified engine fuel, or it is proved that no tax is payable, as the case may be.
+Every assessment made by the principal administrative officer under this Part shall be taken to be correct, and the tax shall be payable accordingly, unless, on an appeal under section 192 or in proceedings taken under this Act in a court of competent jurisdiction, a different amount is proved to be the tax payable on the specified engine fuel, or it is proved that no tax is payable, as the case may be.
 
 ### 192 Appeal against assessment
 (1) Within 14 days after a demand for the tax is made by the principal administrative officer in accordance with his assessment, the wholesale distributor may appeal to a District Court, by way of originating application, against the assessment.
-(2) On the hearing of the appeal, the Court, whose decision shall be final, may confirm or amend the assessment made by the principal administrative officer.
+(2) On the hearing of the appeal, the court, whose decision shall be final, may confirm or amend the assessment made by the principal administrative officer.
 
 ### 193 Tax recoverable as a debt
 (1) Any local authorities fuel tax payable on any specified engine fuel shall, immediately on the delivery of the specified engine fuel within the tax area, or on its use in the tax area by the wholesale distributor, constitute a debt owing to the distribution authority of the tax area by the wholesale distributor, and be recoverable accordingly.
@@ -1953,26 +1909,26 @@ Every assessment made by the principal administrative officer under this Part sh
 
 ### 194 Penalty for late payment of tax
 Notwithstanding the provisions of this Part, if any local authorities fuel tax that has become payable remains unpaid after the date on which it became payable under section 193, 10% of the amount of the tax unpaid shall be added to it by way of additional tax, and shall be payable accordingly:
-  Provided that a meeting of representatives of the component authorities, held in accordance with section 186, may in any particular case, for reasons which in its discretion it thinks sufficient, remit the whole or any part of the additional tax payable.
+  provided that a meeting of representatives of the component authorities, held in accordance with section 186, may in any particular case, for reasons which in its discretion it thinks sufficient, remit the whole or any part of the additional tax payable.
 
 **Application of proceeds of tax**
 
 ### 195 Separate bank account to be kept by distribution authority
-(1) All money received by the distribution authority of any tax area pursuant to this Part shall be paid into the bank at which the distribution authority keeps its general funds, to the credit of a separate account to be called The [Name of tax area] Local Authorities Fuel Tax Account.
+(1) All money received by the distribution authority of any tax area pursuant to this Part shall be paid into the bank at which the distribution authority keeps its general funds, to the credit of a separate account to be called The [name of tax area] Local Authorities Fuel Tax Account.
 (2) The provisions of this Act as to the manner in which money may be paid from its bank accounts shall apply with respect to payments made from the said account.
 
-### 196 Accounts to be kept in accordance with requirements of Audit Office
-(1) The distribution authority of every tax area shall keep such accounts, and keep them in such manner, as may be directed by the Audit Office in respect of the collection, application, or distribution of the proceeds of any local authorities fuel tax levied in the tax area.
-(2) The decision of the Audit Office as to whether or not any expenditure is properly chargeable against any such account shall be final.
+### 196 Accounts to be kept in accordance with requirements of Auditor-General
+(1) The distribution authority of every tax area shall keep such accounts, and keep them in such manner, as may be directed by the Auditor-General in respect of the collection, application, or distribution of the proceeds of any local authorities fuel tax levied in the tax area.
+(2) The decision of the Auditor-General as to whether or not any expenditure is properly chargeable against any such account shall be final.
 
 ### 197 Transfer by distribution authority of authorised cost of services
 (1) The distribution authority of any tax area may from time to time transfer to its general revenues from the Local Authorities Fuel Tax Account all reasonable costs and expenses incurred by it in or about the levying, collection, recovery, application, and distribution of any local authorities fuel tax in the tax area, and a reasonable remuneration for clerical and other work done in the administration of this Part within the tax area.
-(2) If any dispute arises as to any amount transferred under subsection (1), or to be transferred or otherwise in relation thereto, it shall be decided by the Audit Office, whose decision shall be final.
+(2) If any dispute arises as to any amount transferred under subsection (1), or to be transferred or otherwise in relation thereto, it shall be decided by the Auditor-General, whose decision shall be final.
 (3) Except as provided in this Part, it shall not be lawful for the distribution authority to transfer any money from the Local Authorities Fuel Tax Account to any other account.
 
 ### 198 Distribution of proceeds
 (1) Subject to this Part, the proceeds of the tax in a tax area in any year shall be distributed by the distribution authority among the component authorities of the tax area (including the distribution authority) according to the proportion which the total rate revenue of each such component authority for the immediately preceding financial year bears to the total rate revenue of all the component authorities for that preceding financial year.
-(2) For the purposes of this section, the expression rate revenue, in relation to any component authority, means all rates, and all charges and fees deemed under any enactment to be rates set and assessed by that component authority on its own behalf.
+(2) For the purposes of this section, the expression rate revenue, in relation to any component authority, means all rates, and all charges and fees deemed under any enactment to be rates made and levied by that component authority on its own behalf.
 (3) Nothing in this section shall be deemed to prevent a region or district forming part of 2 or more tax areas.
 (4) Any money paid to any component authority under this section shall form part of the general revenues of that component authority.
 
@@ -2087,7 +2043,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 
 **Remuneration and expenses of, and use of facilities by, mayor or chairman and other members**
 
-### 214 Remuneration of mayor or chairman and other members
+### 214 Interpretation
 [Repealed]
 
 ### 214A Annual allowances to be determined by Higher Salaries Commission
@@ -2111,10 +2067,10 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 214G Annual allowances and remuneration not payable in certain circumstances
 [Repealed]
 
-### 214H Annual allowance of Chairman of district community council
+### 214H Annual allowance of chairman of district community council
 [Repealed]
 
-### 214I Remuneration of Chairman and other members of community council
+### 214I Remuneration of chairman and other members of community council
 [Repealed]
 
 ### 214J Annual allowance or remuneration payable to existing office holder not to be reduced
@@ -2327,7 +2283,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 245 Contracts for works
 [Repealed]
 
-### 246 Council may contract with Minister of Works and development and other local authorities and public bodies for execution of works
+### 246 Council may contract with Minister of Works and Development and other local authorities and public bodies for execution of works
 [Repealed]
 
 ### 247 Co-operative contracts
@@ -2375,7 +2331,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 251 Documents of abolished local authorities
 [Repealed]
 
-### 252 Authentication of documents by council
+### 252 Authentication of documents by council or board
 [Repealed]
 
 ### 253 Service of documents, etc
@@ -2472,10 +2428,10 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 271 Subdivision defined
 [Repealed]
 
-### 271A Subdivision defined
+### 271A Development defined
 [Repealed]
 
-### 272 Subdivision defined
+### 272 Application of this Part to the Crown
 [Repealed]
 
 ### 273 Application of this Part to subdivision or development by council
@@ -2527,7 +2483,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 284 Reserves policy
 [Repealed]
 
-### 285 Reserves contributions in case of residential sub-divisions
+### 285 Reserves contributions in case of residential subdivisions
 [Repealed]
 
 ### 286 Reserves contributions in respect of subdivision for commercial or industrial purposes
@@ -2583,7 +2539,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 294G Calculation of reserves contributions and development levy when development completed
 [Repealed]
 
-### 294H Application of development levies fixed by united council or regional council
+### 294H Application of development levies fixed by council
 [Repealed]
 
 ### 294I Owner to contribute to certain regional works
@@ -2608,7 +2564,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 298 Valuation of land or of work done
 [Repealed]
 
-### 299 Objections to council's decisions
+### 299 Objection to decision relating to developments
 [Repealed]
 
 ### 300 Appeals to Planning Tribunal
@@ -2617,7 +2573,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 301 Appeal against determination of valuer
 [Repealed]
 
-### 302 Work may be begin pending decision on objection or appeal
+### 302 Work may begin pending decision on objection or appeal
 [Repealed]
 
 ### 303 Completion certificate
@@ -2664,12 +2620,11 @@ Without limiting the power to make regulations conferred by section 723, regulat
 ### 315 Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **access way** means any passage way, laid out or constructed by the authority of the council or the Minister of Works and Development or, on or after 1 April 1988, the Minister of Lands for the purposes of providing the public with a convenient route for pedestrians from any road, service lane, or reserve to another, or to any public place or to any railway station, or from one public place to another public place, or from one part of any road, service lane, or reserve to another part of that same road, service lane, or reserve
-  - **council** means a territorial authority; and, in relation to land that does not form part of any district means the Minister of Local Government
+  - **council** means a territorial authority; and, in relation to land that does not form part of any district, means the Minister of Local Government
   - **district** means the district of a territorial authority; and, in relation to land in respect of which the Minister of Local Government is the council, means that land
   - **footpath** means so much of any road as is laid out or constructed by authority of the council primarily for pedestrians; and includes the edging, kerbing, and channelling thereof
   - **private road** means any roadway, place, or arcade laid out or formed within a district on private land, whether before or after the commencement of this Part, by the owner thereof, but intended for the use of the public generally
   - **private way** means any way or passage whatsoever over private land within a district, the right to use which is confined or intended to be confined to certain persons or classes of persons, and which is not thrown open or intended to be open to the use of the public generally; and includes any such way or passage as aforesaid which at the commencement of this Part exists within any district
-  - **regional council**
   - **road** means the whole of any land which is within a district, and which—and includes—but, except as provided in the Public Works Act 1981 or in any regulations under that Act, does not include a motorway within the meaning of that Act or the Government Roading Powers Act 1989
     (a) immediately before the commencement of this Part was a road or street or public highway; or
     (b) immediately before the inclusion of any area in the district was a public highway within that area; or
@@ -2678,7 +2633,6 @@ Without limiting the power to make regulations conferred by section 723, regulat
     (e) is vested in the council as a road or street pursuant to any other enactment;—
     (f) except where elsewhere provided in this Part, any access way or service lane which before the commencement of this Part was under the control of any council or is laid out or constructed by or vested in any council as an access way or service lane or is declared by the Minister of Works and Development as an access way or service lane after the commencement of this Part or is declared by the Minister of Lands as an access way or service lane on or after 1 April 1988:
     (g) every square or place intended for use of the public generally, and every bridge, culvert, drain, ford, gate, building, or other thing belonging thereto or lying upon the line or within the limits thereof;—
-  - **scheme plan**
   - **service lane** means any lane laid out or constructed either by the authority of the council or the Minister of Works and Development or, on or after 1 April 1988, the Minister of Lands for the purpose of providing the public with a side or rear access for vehicular traffic to any land
   - **survey plan** has the same meaning as in the Resource Management Act 1991.
 (2)
@@ -2693,7 +2647,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
   (a) the property in the State highway vests in the council or in the Crown (as the case may be) without any instrument of transfer; and
   (b) on presentation of an authenticated copy of the relevant resolution, the Registrar-General of Land must alter the register accordingly.
 (4) In this section the term road does not include—
-  (a) any Government road:
+  (a) any government road:
   (b) any State highway or part of a State highway situated in a county or in that part of the district of a district council which before the constitution of the district was or formed part of a county:
   (c) any road in respect of which the Minister of Local Government is the council:
   (d) any regional road or part thereof (as defined in Part 22) which is vested in the regional or united council.
@@ -2702,10 +2656,10 @@ Without limiting the power to make regulations conferred by section 723, regulat
 (1) Subject to section 318, all roads in the district shall be under the control of the council:
   provided that—
     (a) a State highway or part thereof shall be under the control of the council only where the New Zealand Transport Agency has, under section 62 of the Government Roading Powers Act 1989, delegated that control to the council:
-    (b) a government road shall be under the control of the Minister of Transport:
+    (b) a government road shall be under the control of the Minister of Transport.
     (c)
 (2) Any powers conferred on the council by this Part may be exercised—
-  (a) in relation to any State highway or part thereof, only if that State highway or part is under the control of the council or the exercise of that power by the council has been consented to by the New Zealand Transport Agency:
+  (a) in relation to any State highway or part thereof, only if that State highway or part is under the control of the council or the exercise of that power by the council has been consented to by the New Zealand Transport Agency.
   (b)
 
 ### 318 Control and maintenance of boundary roads
@@ -2713,7 +2667,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
   (a) in which council or councils the road shall vest; and
   (b) which council or councils shall control the road; and
   (c) whether any other council shall contribute to the cost of the construction, maintenance, lighting, widening, reconstruction, or upgrading of that road, and if so, in what proportions.
-(2) Where the Commission determines, pursuant to subsection (1)(c) that any council is liable to pay any proportion of the cost of construction, maintenance, lighting, widening, or reconstruction, or upgrading of a road, the amount of that proportion shall be recoverable from that council in any Court of competent jurisdiction as a debt due to the council having control of the road.
+(2) Where the Commission determines, pursuant to subsection (1)(c) that any council is liable to pay any proportion of the cost of construction, maintenance, lighting, widening, or reconstruction, or upgrading of a road, the amount of that proportion shall be recoverable from that council in any court of competent jurisdiction as a debt due to the council having control of the road.
 (3) On the commencement of this Part, all warrants made under section 120 of the Public Works Act 1928 before the commencement of this Part shall remain in force until such time as they are either revoked by the Minister, by notice in the Gazette, or amended by an Order in Council made under section 36 giving effect to a final reorganisation scheme.
 
 **Formation, alteration, stopping, and closing of roads**
@@ -2742,7 +2696,7 @@ If the council names any road for the first time, or alters the name of a road, 
 (2) The council shall comply with any request from a Chief Surveyor to allocate a number to or change the number of any area of land or building or part of a building in its district.
 (3) The principal administrative officer shall advise the Chief Surveyor of the land district in which the land or building is situated of the numbers allocated under subsection (1) or subsection (2).
 
-### 320 Certain powers as to roads to be exercised by special order
+### 320 Powers relating to roads
 [Repealed]
 
 ### 321 Road access
@@ -2807,9 +2761,9 @@ Where a building-line restriction has been imposed under this Act or any former 
 
 ### 329 Road gradients
 (1) No road shall be laid out or constructed by the council, and no road or proposed road on any scheme plan shall be approved by the council, with a grade in any part of its length steeper than—
-  (a) that fixed by any operative district plan for the district; or
+  (a) that fixed by any operative district scheme for the district; or
   (b) where there is no such district scheme or no such grade is specified in any such district scheme, that fixed by any bylaw or resolution of the council; or
-  (c) 1 metre in 8 metres, in any case where that grade is not fixed by any such district plan or by any bylaw or resolution of the council.
+  (c) 1 metre in 8 metres, in any case where that grade is not fixed by any such district scheme or by any bylaw or resolution of the council.
 (2) In this section the term road does not include an access way.
 
 ### 330 Road levels
@@ -2817,16 +2771,16 @@ Where a building-line restriction has been imposed under this Act or any former 
 (2) All buildings erected in any part of the district for which a map has been made as aforesaid, shall be constructed with proper regard to the levels shown on the map.
 (3) Any person who erects any building abutting on a road without regard to the level of the road shall be liable to pay to the council any expenses incurred by the council in altering the level of the road adjacent to the building.
 (4) The council may at any time, either before or after the making of any such map, fix the level of any road, subject to the conditions set out in Schedule 13:
-  Provided that where no building or land appurtenant thereto fronts upon any road the conditions numbered (1) to (5) in that Schedule need not apply.
+  provided that where no building or land appurtenant thereto fronts upon any road the conditions numbered 1 to 5 in that schedule need not apply.
 (5) Where a road crosses the boundary of a district or meets another road on such a boundary, the level of the road at the point of crossing or meeting shall not be altered without the agreement of both councils controlling the respective roads.
 (6) It shall be lawful for the council to throw the batter or make the slope of any road (not being a private road) upon any land, subject to the payment of compensation, to be claimed and ascertained under the Public Works Act 1981.
 (7) No compensation shall be payable by the council in respect of an alteration in the level of any road, unless the alteration has been made after that level has been fixed under this Act or the corresponding provisions of any former Act, or after the road has been constructed in some permanent manner by any local authority having the power to do so.
 (8) In this section, unless the context otherwise requires, the term road includes a private road, but does not include an access way.
 
 ### 331 Footpaths and channels
-(1) the council may, in such manner as it thinks fit, form or upgrade footpaths on one side or both sides of any road, and may construct those footpaths of such dimensions and of such materials and in such manner as it thinks fit, and may impose a charge not exceeding half the cost of those works upon the owners of lands and buildings fronting the road. The amount so imposed shall be payable to the council and until paid shall be in every case a charge on the land.
+(1) The council may, in such manner as it thinks fit, form or upgrade footpaths on one side or both sides of any road, and may construct those footpaths of such dimensions and of such materials and in such manner as it thinks fit, and may impose a charge not exceeding half the cost of those works upon the owners of lands and buildings fronting the road. The amount so imposed shall be payable to the council and until paid shall be in every case a charge on the land.
 (2) In forming or reforming any road or part thereof (not being a road in a rural area), the council shall ensure that reasonable and adequate provision is made for the kerb and channel of any footpath or part thereof to be formed or reformed so as to permit safe and easy passage from kerb to kerb of any mechanical conveyance normally and lawfully used by a disabled person:
-  Provided that the New Zealand Transport Agency may at any time exempt in whole or in part the forming or reforming of any road or part thereof from any requirements of this subsection, if, having regard to all the circumstances, the New Zealand Transport Agency considers that it is reasonable to grant the exemption.
+  provided that the New Zealand Transport Agency may at any time exempt in whole or in part the forming or reforming of any road or part thereof from any requirements of this subsection, if, having regard to all the circumstances, the New Zealand Transport Agency considers that it is reasonable to grant the exemption.
 
 ### 332 Cycle tracks
 (1) The council may on any road, or on any land vested in or under the control of the council, form a public cycle track, and may make bylaws under section 684 regulating and controlling the use of that cycle track.
@@ -2834,10 +2788,10 @@ Where a building-line restriction has been imposed under this Act or any former 
 (3) In this section the term road does not include an access way.
 
 ### 333 Dividing strips, etc
-(1) The council may on any road construct, erect, or grow thereon or remove therefrom such barriers, dividing strips, guiding or sign posts, pillars or other markers, trees, hedges, lawns, gardens, and other devices as are, in the opinion of the council, necessary for separating, guiding, or warning traffic, intercepting glare, or for any other purpose.
+(1) The council may on any road construct, erect, or grow thereon or remove therefrom, such barriers, dividing strips, guiding or sign posts, pillars or other markers, trees, hedges, lawns, gardens, and other devices as are, in the opinion of the council, necessary for separating, guiding, or warning traffic, intercepting glare, or for any other purpose.
 (2) The council may on any road construct for road safety purposes, and alter or remove therefrom, any segregation strip for the purpose of segregating from the roadway any land having a frontage to the road:
-  Provided that no such segregation strip shall be constructed or altered so as to unreasonably prevent access to any land having a frontage to the road:
-  Provided also that for the purposes of this Act and of any other Act, any land having a frontage to the road before the construction of a segregation strip shall be deemed to continue to have that frontage, notwithstanding the existence of the segregation strip.
+  provided that no such segregation strip shall be constructed or altered so as to unreasonably prevent access to any land having a frontage to the road:
+  provided also that for the purposes of this Act and of any other Act, any land having a frontage to the road before the construction of a segregation strip shall be deemed to continue to have that frontage, notwithstanding the existence of the segregation strip.
 
 ### 334 Erection of monuments, etc, and provision of facilities on or under roads
 (1) The council may—
@@ -2845,7 +2799,7 @@ Where a building-line restriction has been imposed under this Act or any former 
   (b) lay out or plant grass plots or flower beds or trees on any road, and prohibit traffic, in whole or in part, on any such plots and flower beds laid out in roads (whether laid out before or after the commencement of this Part) by or under the authority of the council:
   (c) erect on any road a monument, statue, or other such erection:
   (d) construct or provide on, over, or under any road facilities for the safety, health, or convenience of the public, or for the control of traffic or the enforcement of traffic laws:
-  Provided that no such construction, erection, laying out, or planting shall be carried out, unless in the opinion of the council the construction, erection, laying out, or planting will not unduly impede vehicular traffic entering or using the road (not being a road or part of a road that has been declared a pedestrian mall under section 336).
+  provided that no such construction, erection, laying out, or planting shall be carried out, unless in the opinion of the council the construction, erection, laying out, or planting will not unduly impede vehicular traffic entering or using the road (not being a road or part of a road that has been declared a pedestrian mall under section 336).
 (2) For the purposes of any resolution or bylaw of the council, anything constructed or provided under the authority of the council shall be deemed to be sufficiently described if the road in which it is constructed or provided and its approximate locality in that road are specified in the bylaw or resolution.
 
 ### 334A Council may light roads, etc
@@ -2863,16 +2817,16 @@ Where a building-line restriction has been imposed under this Act or any former 
 
 ### 335 Vehicle crossings
 (1) Where vehicles are being taken or, in the opinion of the council, are likely to be taken, on to or from any land across any footpath on any road or any water channel on or adjoining any road otherwise than by means of a crossing properly constructed under the provisions of any bylaw made by the council, the principal administrative officer or other officer authorised by the council may, by notice in writing, require the occupier or, in any case where there is no occupier, the owner of the land to pay to the council such sum of money as the council from time to time fixes as payment for the cost of the construction of a crossing by the council.
-(2) Within 28 days after the service of the notice, the occupier or owner, as the case may be, may object in writing to the council against the requirements of the notice, and the notice shall thereupon be deemed to be suspended pending the determination of the objection or, where application is made to the Court to confirm the notice, pending the decision of the Court.
+(2) Within 28 days after the service of the notice, the occupier or owner, as the case may be, may object in writing to the council against the requirements of the notice, and the notice shall thereupon be deemed to be suspended pending the determination of the objection or, where application is made to the court to confirm the notice, pending the decision of the court.
 (3) Where any such objection is received by the council, the council shall forthwith inquire into and dispose of the objection.
 (4) Where on inquiry into the objection the council reaffirms its requirements, the council shall apply to a District Court for an order confirming the notice.
-(5) On the hearing of the application, the Court, whose decision shall be final, may—
+(5) On the hearing of the application, the court, whose decision shall be final, may—
   (a) confirm the notice; or
   (b) confirm the notice subject to a reduction in the sum payable to the council by the occupier or owner, as the case may be; or
   (c) set aside the notice.
 (6) Where—the council may construct the crossing and recover the cost from him.
   (a) in any case in which no such objection is made, the occupier or owner, as the case may be, fails to pay to the council the sum specified in the notice within 42 days after the service of the notice; or
-  (b) in any case in which objection is made, the notice is confirmed by the Court (whether with or without any reduction in the sum payable to the council), and the occupier or owner, as the case may be, fails to pay to the council the sum specified in the notice, or, as the case may be, the sum specified in the order of the Court, within 14 days after the giving of the decision of the Court,—
+  (b) in any case in which objection is made, the notice is confirmed by the court (whether with or without any reduction in the sum payable to the council), and the occupier or owner, as the case may be, fails to pay to the council the sum specified in the notice, or, as the case may be, the sum specified in the order of the court, within 14 days after the giving of the decision of the court,—
 (7) The said cost shall be recoverable by the council as a debt from the occupier or owner, as the case may be, and, where it is recoverable from the owner, shall be a charge on the land.
 (8) Where any sum of money is paid to the council by any occupier or owner pursuant to this section, the council shall refund that sum to the occupier or owner if the crossing is not completed by the council within 6 months after the date of the payment.
 (9) Where the council is satisfied that any crossing on to any land is redundant or is in excess of the reasonable requirements of the occupier, or, where there is no occupier, the owner, the principal administrative officer or other officer authorised by the council may serve notice upon the occupier or owner, as the case may be, of its intention to remove the crossing at the expense of the council.
@@ -2890,7 +2844,7 @@ Where a building-line restriction has been imposed under this Act or any former 
     (i) the time for appealing under subsection (3) has expired; and
     (ii) any appeals have been determined under subsection (4).
 (3) Any person may, within 1 month after the making of a declaration, or within such further time as the Environment Court may allow, appeal to the Environment Court against the declaration.
-(4) The appeal must be made and determined by the Environment Court in accordance with the Resource Management Act 1991 and any regulations made under that Act and the Court may quash or affirm the declaration, or affirm the declaration with modification.
+(4) The appeal must be made and determined by the Environment Court in accordance with the Resource Management Act 1991 and any regulations made under that Act and the court may quash or affirm the declaration, or affirm the declaration with modification.
 (5) The decision of the Environment Court under subsection (4) is final.
 (6) Subsections (2)(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an operative district plan under the Resource Management Act 1991.
 (7) Every person commits an offence who drives, rides, or parks any vehicle or rides any animal, or causes or permits any vehicle to be driven, ridden, or parked or any animal to be ridden, in contravention of a declaration (including a declaration modified by the Environment Court).
@@ -2910,12 +2864,12 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 
 ### 339 Transport shelters
 (1) The council may erect on the footpath of any road a shelter for use by intending public-transport passengers or taxi passengers:
-  Provided that no such shelter may be erected so as to unreasonably prevent access to any land having a frontage to the road.
+  provided that no such shelter may be erected so as to unreasonably prevent access to any land having a frontage to the road.
 (2) The council shall give notice in writing of its proposal to erect any shelter under this section to the occupier and, if he is not also the owner, to the owner of any land the frontage of which is likely to be injuriously affected by the erection of the shelter, and shall not proceed with the erection of the shelter until after the expiration of the time for objecting against the proposal or, in the event of an objection, until after the objection has been determined.
 (3) Within 14 days after the service of the notice, the occupier or owner, as the case may be, may object in writing to the council against the proposal.
 (4) Where any person objects to the proposal in accordance with subsection (3), the council shall appoint a day for considering the objection and shall give notice to the objector of the time when and place where the objection is to be heard. Any such time shall be not earlier than 7 days after the date on which the notice of objection was received at the office of the council.
 (5) The council shall, at the time and place stated in the notice referred to in subsection (4), consider the objection, and after hearing any submissions made by or on behalf of the objector, may either dismiss the objection or decide not to proceed with the proposal or make such modifications to the proposal to which the objection relates as it thinks fit. The hearing of any such objection may be adjourned from time to time and from place to place.
-(6) Where there are more objectors than one, the council shall, as far as practicable, hear all objections together and give each objector an opportunity of considering and being heard in respect of all other objections.
+(6) Where there are more objectors than 1, the council shall, as far as practicable, hear all objections together and give each objector an opportunity of considering and being heard in respect of all other objections.
 (7) No resolution under this section shall be passed until the council has considered all the objections of which notice has been given in accordance with this section.
 (8) In this section the term road does not include an access way.
 
@@ -2929,8 +2883,8 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (1) Subject to section 357(2), the council may—
   (a) grant a lease to any person of the airspace or any part of the airspace above the surface of any road; or
   (b) grant a lease to any person of the subsoil or any part of the subsoil beneath the surface of any road:
-  Provided that no such lease shall be granted for any purpose that would be in contravention of any provision of the Resource Management Act 1991:
-  Provided also that, in exercising the powers conferred by this subsection in relation to any airspace, the council shall ensure that sufficient airspace remains above the surface of the road for the free and unobstructed passage of vehicles and pedestrians lawfully using the road.
+  provided that no such lease shall be granted for any purpose that would be in contravention of any provision of the Resource Management Act 1991:
+  provided also that, in exercising the powers conferred by this subsection in relation to any airspace, the council shall ensure that sufficient airspace remains above the surface of the road for the free and unobstructed passage of vehicles and pedestrians lawfully using the road.
 (2) Any improvements erected or constructed in any airspace or in any subsoil pursuant to a lease under this section shall be deemed to be rateable land for the purposes of the Local Government (Rating) Act 2002.
 (3) Nothing in this section shall be construed so as to restrict any right a council may have to permit any person to use for a temporary period any part of the surface or of the airspace above the surface of any road.
 (4) The council may grant a lease to any person under subsection (1) for the purpose of the erection or construction and maintenance of a pedestrian or vehicular bridge or tunnel or subway connecting any land or building on one side of the road with any land or building on the other side upon such terms and conditions as it thinks fit.
@@ -2951,7 +2905,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (1) The council may, in the manner provided in Schedule 10,—
   (a) stop any road or part thereof in the district:
     provided that the council (not being a borough council) shall not proceed to stop any road or part thereof in a rural area unless the prior consent of the Minister of Lands has been obtained; or
-  (b) close any road to traffic or any specified type of traffic (including pedestrian traffic) on a temporary basis in accordance with that Schedule and impose or permit the imposition of charges as provided for in that Schedule.
+  (b) close any road to traffic or any specified type of traffic (including pedestrian traffic) on a temporary basis in accordance with that schedule and impose or permit the imposition of charges as provided for in that schedule.
 (2)
 
 ### 342A Temporary closing of roads by Police
@@ -2975,7 +2929,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (10) Neither the Crown nor the Minister of Transport nor the council shall be liable for damages in respect of any accident arising out of the existence of a gate or cattle stop across any road erected under a permit granted pursuant to this section.
 (11) The power conferred by this section to erect and maintain any swing gate or cattle stop on any road shall be deemed to include power to fence the road up to that gate or cattle stop and to maintain that fence, and every reference in this section to a swing gate or cattle stop shall be deemed to include a reference to such a fence.
 (12) This section shall apply with respect to every gate or cattle stop and fence lawfully erected across any road at the commencement of this Part pursuant to a permit granted under section 141 or section 142 or section 144 of the Public Works Act 1928 or section 11 of the Public Works Amendment Act 1935, as if it had been erected pursuant to a permit granted under this section.
-(13) The Gates and Cattle Stops Order 1955 (SR 1955/67) shall continue in force and have effect after the commencement of this Part of this Act as if it were a notice issued under subsection (7).
+(13) The Gates and Cattle Stops Order 1955 (SR 1955/67) shall continue in force and have effect after the commencement of this Part as if it were a notice issued under subsection (7).
 
 ### 345 Disposal of land not required for road
 (1) Subject to subsection (3), where in forming a new road, or in diverting or stopping or diminishing the width of any existing road, any part thereof is no longer required as a road, the council may—
@@ -3021,14 +2975,14 @@ The following provisions shall apply in respect of the declaration under section
     (iv) the boundaries of all other types (if any) of legal access (whether roads, private roads, private ways, rights of way, or any other types whatsoever) connecting the road or part thereof to any other parcel of land:
     (v) the title references to every parcel of land to which subparagraph (iii) or subparagraph (iv) applies:
   (b) every such declaration shall indicate where the plan is held and may be inspected:
-  (c) the council shall forward to the District Land Registrar a certificate authenticated by the council (together with a copy of the plan and of any resolution under section 346D(3)), setting out by sufficient descriptions and title references, every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land therein described:
+  (c) the council shall forward to the District Land Registrar a certificate authenticated by the council (together with a copy of the plan and of any resolution under section 346D(3)), setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land therein described:
   (d) the council shall cause a copy of the certificate to be served on the owner and the occupier (if he is not also the owner) of any land to which the declaration relates, so far as they can be ascertained.
 
 ### 346D Access to and from land
 (1) Each parcel of land that adjoins or has legal access to a limited access road and that does not have reasonably practicable alternative legal access to some other road that is not a limited access road, shall be entitled to 1 crossing place at which vehicles are permitted to proceed to and from the limited access road from and to the parcel of land. The location of that crossing place shall be specified by the council from time to time by notice issued to the owner under section 346E.
 (2) No road, or part thereof, shall be declared a limited access road, unless the council, in any case where it considers it inexpedient to authorise any sufficient specified crossing place as aforesaid, purchases or takes under the Public Works Act 1981 or otherwise acquires any parcel of land that does not have a reasonable practical alternative legal access.
 (3) In this section and in section 346E the term parcel of land means a parcel of land that can legally be transferred to a person other than an owner of adjoining land without the dedication of any further land as a road and without the deposit of any further plan:
-  Provided that the council may, by resolution, declare—to be a single parcel of land for the purposes of this section and of section 346E.
+  provided that the council may, by resolution, declare—to be a single parcel of land for the purposes of this section and of section 346E.
     (a) 2 or more adjoining parcels of land, while remaining in 1 ownership; and
     (b) all parcels of land included in 1 unit title plan deposited in accordance with the Unit Titles Act 2010—
 
@@ -3062,7 +3016,7 @@ Without restricting any provision of any other Act, it is hereby declared that n
 ### 346I Compensation
 Where the exercise of any power given by any provision of sections 346A to 346H gives rise to any claim for compensation under section 60 of the Public Works Act 1981—
   (a) the claim shall not be made after a period of 5 years from the date of the exercise of the power:
-  (b) section 62(2) of the Public Works Act 1981 shall be read as if the term specified date meant the date of the exercise of the power:
+  (b) section 62 of the Public Works Act 1981 shall be read as if the term specified date meant the date of the exercise of the power:
   (c) the Land Valuation Tribunal shall take into account, by way of deduction from the total amount of compensation that would otherwise be awarded, any increase in the value of the parcel of land in respect of which compensation is claimed that has occurred in consequence of the exercise by the council of any power under section 346E.
 
 ### 346J Offences
@@ -3072,8 +3026,8 @@ Every person commits an offence against this Act who—
 
 **Private roads and private ways**
 
-### 347 Width, etc, of private roads
-Subject to the Resource Management Act 1991, the provisions of this Part relating to the grades, and formation of roads and to building lines shall apply to private roads as they apply to other roads under the control of the council.
+### 347 Grades and formation of private roads
+Subject to the Resource Management Act 1991, the provisions of this Part relating to the grades and formation of roads and to building lines shall apply to private roads as they apply to other roads under the control of the council.
 
 ### 348 Powers of council with respect to private roads and private ways
 (1) Except with the prior permission of the council, no person shall lay out or form any private road or private way, or grant or reserve a right of way over any private way, in the district.
@@ -3110,29 +3064,29 @@ The District Land Registrar shall enter upon the certificate of title, memorandu
 **Safety provisions as to roads**
 
 ### 353 General safety provisions as to roads
-The council shall take all sufficient precautions for the general safety of the public and traffic and workmen employed on or near any road and, in particular, shall—
-  (a) take all reasonable precautions to prevent accidents during the construction or repair by the council of any road, or when any opening is made therein by the council for the repair of drains or gas pipes or for any other purpose, and require other persons doing such work to take such precautions, by erecting barriers, devices to cause traffic to slow down, or fences across any such road or around any dangerous place therein, or otherwise, and shall cause, and require other persons doing such work to cause, any such dangerous place to be sufficiently lighted by night; and any person removing any such protective work, or removing or extinguishing any such light without the authority of the council, commits an offence:
+The council shall take all sufficient precautions for the general safety of the public and traffic and workmen employed on or near any road, and in particular shall—
+  (a) take all reasonable precautions to prevent accidents during the construction or repair by the council of any road, or when any opening is made therein by the council for the repair of drains or gas pipes or for any other purpose, and require other persons doing such work to take such precautions, by erecting barriers, devices to cause traffic to slow down, or fences across any such road or around any dangerous place therein, or otherwise, and shall cause, and require other persons doing such work to cause, any such dangerous place to be sufficiently lighted by night; and any person removing any such protective work, or removing or extinguishing any such light, without the authority of the council, commits an offence:
   (b) require the owner or occupier of any land upon which there is any hole, well, excavation, or other place dangerous to persons passing along any road forthwith to fill in, cover, or enclose the same:
   (c) whenever the public safety or convenience renders it expedient, require the owner or occupier of any land not separated from a road by a sufficient fence to enclose the same by a fence to the satisfaction of the council.
 
 ### 354 Construction of cellar or making any excavation in vicinity of road
-(1) Where the owner or occupier of any land proposes to construct a cellar, or make any other excavation (other than a cellar or other excavation to be constructed or made in accordance with a building consent under the Building Act 1991), within 20 metres from any road, private road, or any adjoining property, he shall give notice of his intention to the council, whose consent must first be obtained before the work is commenced; and the owner or occupier shall cause the cellar or excavation to be so constructed or made that it cannot become a receptacle for stagnant water or other impure matter.
+(1) Where the owner or occupier of any land proposes to construct a cellar, or make any other excavation (other than a cellar or other excavation to be constructed or made in accordance with a building consent under the Building Act 2004), within 20 metres from any road, private road, or any adjoining property, he shall give notice of his intention to the council, whose consent must first be obtained before the work is commenced; and the owner or occupier shall cause the cellar or excavation to be so constructed or made that it cannot become a receptacle for stagnant water or other impure matter.
 (2) Where, under subsection (1), the council grants its consent to the construction of any cellar, it may grant its consent subject to a condition that neither the owner nor the occupier nor their successors in title shall be entitled to claim against the council for any damage caused to the cellar or any property therein arising, whether directly or indirectly, from any defect in any water-supply system, sewerage system, or other public-utility service under the control of the council.
 (3) As soon as conveniently may be after the passing of a resolution by the council granting its consent to the construction of a cellar subject to the conditions specified in subsection (2), the council shall send a copy of the resolution, authenticated by the council, to the District Land Registrar, or the Registrar of Deeds, as the case may require, who shall deposit the same in his office and register against the title to the land a memorandum under his hand that the land is subject to those conditions.
 (4) This section shall bind the Crown.
 
 ### 355 Council may require removal of overhanging trees, etc
-(1) The council may, by notice in writing under the hand of the Chairman or the principal administrative officer, require the owner of any land abutting upon any road within the district to do any of the following acts:
+(1) The council may, by notice in writing under the hand of the chairman or the principal administrative officer, require the owner of any land abutting upon any road within the district to do any of the following acts:
   (a) to remove, lower, or trim to the satisfaction of the council any tree or hedge overhanging or overshadowing the road in cases where, in the opinion of the council, the removal, lowering, or trimming is necessary in order to prevent injury to the road or obstruction to the traffic thereon or to any channel, ditch, or drain appertaining thereto:
   (b) to cut down or grub up, as the council directs, and remove all obstructions to traffic or drainage arising from the growth of plants or the spreading of roots upon or under the road up to the middle line thereof along the whole frontage of the land occupied or owned by him:
   (c) to remove, lower, or trim to the satisfaction of the council any tree or hedge, or to lower any fence or wall, if in the opinion of the council the tree, hedge, fence, or wall is likely, by reason of its obstructing the view, to cause danger to the traffic on that or any other road.
 (2) Within 10 days after service of the notice, the owner may apply to a District Court for an order setting aside the notice.
-(3) On the hearing of the application, the Court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(4) In the case of a notice which is not set aside as aforesaid, if the owner fails to do any such act in compliance therewith within 1 month from the service thereof, or where application as aforesaid has been heard, then within 1 month after the giving of the decision of the Court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers or agents, may enter on the land and do that act and recover the cost from him.
+(3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
+(4) In the case of a notice which is not set aside as aforesaid, if the owner fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
 (6) In any case where the council might give any such notice as aforesaid in respect of any land, any resident of the district may, by notice in writing, request the council to do so.
 (7) If for the space of 28 days after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to a District Court for an order requiring the council to comply with that notice.
-(8) On the hearing of the application, the Court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the Court shall be final.
+(8) On the hearing of the application, the court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the court shall be final.
 (9) The council may remove, lower, cut down, grub up, or trim, as the case may be, any fence, wall, tree, hedge, or plant to which subsection (1) applies, after giving oral notice to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by a District Court.
 (10) For the purposes of this section the term cut down means cutting down and keeping cut down or removing or controlling by chemical means the stem and roots of any plants so as to prevent their throwing out any leaf, offshoot, or flower.
 
@@ -3140,7 +3094,7 @@ The council shall take all sufficient precautions for the general safety of the 
 (1) This section applies where any category A or category B or category C motor vehicle is found on a road within the district of any council and appears to have been abandoned by its owner.
 (2) In the case of a category A or category B vehicle, the following provisions shall apply:
   (a) the council may, or may authorise any person to, remove the vehicle and store it:
-  (b) no person shall remove the vehicle until a member of the Police has been notified of the proposal to move it:
+  (b) no person shall remove the vehicle until a constable has been notified of the proposal to move it:
   (c) the council shall make reasonable efforts to give notice to the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle of its intention to sell the vehicle, and those efforts shall include,—
     (i) in the case of a category A vehicle, taking practical steps to identify the owner of the vehicle by reference to chassis numbers or other numbers appearing on the vehicle:
     (ii) in the case of a category B vehicle, identifying the owner of the vehicle by reference to such numbers and by searching the motor vehicle security register or otherwise:
@@ -3183,7 +3137,7 @@ The council shall take all sufficient precautions for the general safety of the 
       (B) that the vehicle is in storage; and
       (C) of the territorial authority's powers under subsection (7).
 (3) However, if the territorial authority is satisfied that the condition of the vehicle is such that it is of little or no value, it may dispose of the vehicle without complying with subsection (2)(b).
-(4) A vehicle must not be removed under this section until a member of the police has been notified of the proposed removal.
+(4) A vehicle must not be removed under this section until a constable has been notified of the proposed removal.
 (5) If a vehicle is claimed by any person lawfully entitled to it before the end of the 10-day period, the territorial authority must release the vehicle to the person.
 (6) Subsection (5) applies only if any costs incurred by the territorial authority for removing and storing the vehicle are first paid.
 (7) If a vehicle is not claimed under subsection (5), the territorial authority may—
@@ -3216,14 +3170,14 @@ In any circumstances where a territorial authority is authorised to remove a mot
   (h) causes or negligently allows any retaining wall, foundation wall, or fence erected on any land, or any batter or slope of earth, or any building, erection, material, or thing, to give way or fall so as to damage or obstruct a road; or
   (i) digs up or removes any stone, gravel, sand, or other material from a river bed within 50 metres of a bridge or ford on any road or any dam on which a road is constructed; or
   (j) does or causes or permits to be done any act whatsoever by which any damage is caused to a road or any work or thing in, on, or under the same,—
-  Provided that no fine shall be imposed unless the information is laid by authority of the council or by an officer thereof.
+  provided that no fine shall be imposed unless the information is laid by authority of the council or by an officer thereof.
 (2) The Council shall not authorise or suffer any encroachment on a road if the encroachment would or might interfere with or in any way obstruct the right of the Crown, or of any person so authorised by any Act, to construct, place, maintain, alter, remove, or otherwise deal with any electric wires, telephone wires, telegraph wires, pneumatic tubes, or gas pipes on, over, or under the road, except with the prior written consent of the Minister of the Crown, the person, or principal administrative officer of the body, who or which is responsible for any such services or utilities.
 
 **Contracts and leases relating to ferries**
 
 ### 357A Leasing powers of council with respect to ferries
 The council having control of a ferry may let the ferry for a term not exceeding 14 years, for such rent and on such terms and conditions as to the maintenance of the ferry as the council thinks fit, and without submitting the lease to public auction or public tender:
-  Provided that before granting any such lease for any term exceeding 3 years the proposed terms and conditions thereof shall be publicly notified for at least 2 months.
+  provided that before granting any such lease for any term exceeding 3 years the proposed terms and conditions thereof shall be publicly notified for at least 2 months.
 
 **Privately constructed bridges and ferries**
 
@@ -3255,7 +3209,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
   (e) the distraining for or recovery of tolls:
   (f) the appointment and duties of collectors of tolls:
   (g) the making of any toll gate in the district clearing any other toll gate in the district or in any other district.
-(3) Notwithstanding the repeal by section 4 of the Local Government Amendment Act 1978 of sections 179 to 199 of the Public Works Act 1928, sections 206 to 211 of the Municipal Corporations Act 1954 and Schedule 9 to that Act, and sections 213 to 218 of the Counties Act 1956 and Schedule 4 to that Act, every toll gate established before the date of the commencement of this Part under any section so repealed and in existence immediately before that date shall continue in force on and after that date as if the said sections 179 to 199 or, as the case may be, sections 206 to 211 and the said Schedule 9 or sections 213 to 218 and the said Schedule 4 had not been repealed.
+(3) Notwithstanding the repeal by section 4 of the Local Government Amendment Act 1978 of sections 179 to 199 of the Public Works Act 1928, sections 206 to 211 of the Municipal Corporations Act 1954 and Schedule 9 of that Act, and sections 213 to 218 of the Counties Act 1956 and Schedule 4 of that Act, every toll gate established before the date of the commencement of this Part under any section so repealed and in existence immediately before that date shall continue in force on and after that date as if the said sections 179 to 199 or, as the case may be, sections 206 to 211 and the said Schedule 9 or sections 213 to 218 and the said Schedule 4 had not been repealed.
 (4) Nothing in this section or in any notice given under this section shall be construed to limit or interfere with the right to levy tolls on any bridge, ferry, tunnel, tramway, or toll gate granted to any person during the period for which the tolls have been so granted, except on payment of adequate compensation.
 (5) Every person commits an offence against this Act who—
   (a) evades the payment of any toll payable by him; or
@@ -3273,7 +3227,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 ### 364 Constituent authority may request council to declare regional road
 [Repealed]
 
-### 365 Objections and appeals by constituent authorities
+### 365 Objections to proposed regional roads
 [Repealed]
 
 ### 366 Powers of council in relation to regional roads
@@ -3308,7 +3262,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 
 ## Part 23 — Water supply by territorial authorities
 
-### 375 This Part to be subject to Resource Management Act 1991, and Health Act 1956
+### 375 This Part to be subject to Resource Management Act 1991 and Health Act 1956
 [Repealed]
 
 ### 376 Interpretation and application
@@ -3389,7 +3343,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 
 ## Part 24 — Regional water supply
 
-### 398 This Part to be read subject to Resource Management Act 1991 and the Health Act 1956
+### 398 This Part to be read subject to Resource Management Act 1991 and Health Act 1956
 [Repealed]
 
 ### 399 Interpretation
@@ -3469,15 +3423,15 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 ### 422 Interpretation
 [Repealed]
 
-**Water-race areas**
+**Water race areas**
 
-### 423 Constitution, alteration, and union of water-race areas
+### 423 Constitution, alteration, and union of water race areas
 [Repealed]
 
-### 424 Subdivision of water-race areas
+### 424 Subdivision of water race areas
 [Repealed]
 
-### 425 Water-race map
+### 425 Water race map
 [Repealed]
 
 **Powers of council as to water races**
@@ -3532,7 +3486,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 
 ## Part 26 — Sewerage and stormwater drainage by territorial authorities
 
-### 440 This Part to be subject to Soil Conservation and Rivers Control Act 1941 and Water and Soil Conservation Act 1967
+### 440 This Part to be subject to Resource Management Act 1991
 [Repealed]
 
 ### 441 Interpretation and application
@@ -3557,7 +3511,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (2) For that purpose the council may make, construct, and lay down such drains or do such other works as in the opinion of the council are necessary for the covering in of the watercourse.
 (3) The council may do such work as in its opinion is necessary to exclude from any watercourse any pollutant which in the opinion of the council should be excluded therefrom, and for that purpose and for the purposes of subsection (1) the council may straighten or otherwise alter the course and direction of any watercourse, and take up, disconnect, alter, relay, or otherwise deal with any private drains communicating with any watercourse.
 (4) In the exercise of any powers conferred on it by this section, the council shall not be liable to pay compensation in respect of anyone being deprived of the water flowing in the watercourse, or of the right to that water, nor for any damage or inconvenience occasioned to the owners or occupiers of those lands or premises, but shall nevertheless make good any damage or injury caused during the construction of the works:
-  Provided that this subsection shall not apply in any case in which the nuisance or danger has been caused by the act or default of the council.
+  provided that this subsection shall not apply in any case in which the nuisance or danger has been caused by the act or default of the council.
 (5) Before undertaking any work under this section the council must—
   (a) prepare a statement of proposal in relation to the work that includes—
     (i) a description of the work; and
@@ -3565,18 +3519,18 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
     (iii) an explanation of the procedure under subsection (7); and
     (iv) when and where the council will vote on a motion to undertake the work; and
     (v) any other information that the council identifies as relevant; and
-  (b) make the statement of proposal available in a way appropriate to the subject-matter of the proposal; and
+  (b) make the statement of proposal available in a way appropriate to the subject matter of the proposal; and
   (c) produce a summary of proposal that—
     (i) is a fair representation of the major matters in the statement of proposal; and
     (ii) explains how the statement of proposal is avail-able for inspection; and
-  (d) publicise the summary of proposal in a way appropriate to the subject-matter of the proposal.
+  (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
 (6) The council must not vote on a motion to undertake the proposed work until at least 20 working days after the summary of proposal is first publicised under subsection (5)(d).
 (7) An owner or occupier of land who may be affected by the work may apply to a District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)(d) and 10 days after a resolution of the council is made under subsection (6).
-(8) The Court may make an order or orders—
+(8) The court may make an order or orders—
   (a) setting a date before which the council may not under-take the work:
   (b) allowing the council to undertake the work with or without modification:
   (c) prohibiting the council from undertaking the work.
-(9) Despite subsections (5) to (8), a council may, at any time, undertake temporary works for abating a nuisance in a water-course if the Medical Officer of Health, or 2 medical practitioners, has certified in writing that immediate action in relation to the watercourse is necessary in the interests of public health.
+(9) Despite subsections (5) to (8), a council may, at any time, undertake temporary works for abating a nuisance in a water-course if the medical officer of health, or 2 medical practitioners, has certified in writing that immediate action in relation to the watercourse is necessary in the interests of public health.
 
 ### 447 Betterment contributions where watercourse covered in
 (1) Where the council incurs any expenditure in enclosing and covering in any watercourse under the powers conferred by section 446, each owner of land benefited or likely to be benefited from the enclosing and covering in of the watercourse shall, if the council so requires, pay to the council on account of betterment the amount of the increased value thereby given, or likely to be given, to his land, or any smaller amount.
@@ -3618,7 +3572,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 ### 457 Discontinuance of drainage outside district
 [Repealed]
 
-### 458 Charges for drainage in areas added to district
+### 458 Rate for drainage in areas added to district
 [Repealed]
 
 **Private drains**
@@ -3637,7 +3591,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (3) The powers conferred upon the council by paragraphs (b) to (f) of subsection (1) may also be exercised with respect to private drains provided, constructed, and laid under subsection (2), and to similar private drains heretofore provided, constructed, and laid in the district.
 (4) Every notice under this section shall specify the works, materials, and things to be executed, provided, or done thereunder, and the public drain or watercourse with which any private drain is required to be connected, and shall limit a time within which the works, materials, and things shall be so executed, provided, and done.
 (5) The foregoing powers shall, among other things, enable the council to require any owner of premises to cause any pollutant and any water that does not contain any pollutant to be drained respectively by sewerage drains and stormwater drains to separate outfalls:
-  Provided that the council shall not in any such notice require any pollutant to be drained into any open drain.
+  provided that the council shall not in any such notice require any pollutant to be drained into any open drain.
 (6) If the owner fails to do any work specified in the notice and as therein directed, the council may, if it thinks fit, cause the work to be done, and may recover from him the costs and expenses of the work together with 10% of those costs and expenses for supervision by the officers or agents of the council, and interest at a rate per annum, as fixed by the council, on the total sum until payment thereof. Where any work done by the council pursuant to this subsection is on account of several owners, the council may apportion the total amount as aforesaid between those owners, and the amount so apportioned to each such owner shall be the amount recoverable from him.
 (7) No owner shall be required—
   (a) to construct any private drain, other than a common drain, to connect with any public drain or the sea at a point more than 30 metres from his land; or
@@ -3650,7 +3604,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (4) If agreement cannot be reached between the council and any claimant for any such injurious affection, the matter shall be determined as if the work were a public work and the claim were a claim for injurious affection in respect thereof under the Public Works Act 1981.
 
 ### 461 Further provisions with respect to private drains
-(1) Where any private drain constructed with the consent of the owners of all the lands affected or constructed by the council pursuant to section 460 passes through or serves separately owned premises, there shall be attached to each and all of the lands served by that private drain the following rights, namely:and those rights, upon a certificate being furnished by the principal administrative officer that any of the lands is actually served by that drain, together with such plans (if any) as the District Land Registrar requires, shall be registered by the District Land Registrar against the titles to all the other lands so served by the drain, and also, in the case of the right to free and uninterrupted use of the drain and the right to enter upon land to effect necessary relaying or repairs, or to recover under paragraph (e) the cost of any repairs to the drain, against the titles to the lands through which the drain passes.
+(1) Where any private drain constructed with the consent of the owners of all the lands affected or constructed by the council pursuant to section 460 passes through or serves separately-owned premises, there shall be attached to each and all of the lands served by that private drain the following rights, namely:and those rights, upon a certificate being furnished by the principal administrative officer that any of the lands is actually served by that drain, together with such plans (if any) as the District Land Registrar requires, shall be registered by the District Land Registrar against the titles to all the other lands so served by the drain, and also, in the case of the right to free and uninterrupted use of the drain and the right to enter upon land to effect necessary relaying or repairs, or to recover under paragraph (e) the cost of any repairs to the drain, against the titles to the lands through which the drain passes.
   (a) a right to the free and uninterrupted use of that private drain; and
   (b) a right for the occupiers or any of them to enter upon all lands served by that drain, or through which it passes, for the purpose of relaying or effecting necessary repairs to the drain; and
   (c) a right to contribution from the owners or occupiers of other lands so served by that drain towards the cost of executing, providing, and doing all or any of the things required in respect of the drain by this Part or any bylaw; and
@@ -3659,7 +3613,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (2) The District Land Registrar, on the receipt by him of a certificate signed by the principal administrative officer that any of the said lands is actually served by that private drain, shall enter on the register and upon the outstanding duplicate certificate of title for that land, which certificate of title shall be produced to him for that purpose,—
   (a) particulars of the certificate given by the principal administrative officer; and
   (b) a memorandum that there are attached to the land the rights specified in subsection (1).
-(3) If any question arises as to the liability of any owner or occupier under any provision of subsection (1), a District Court shall have jurisdiction to hear and determine the question, and the decision of the Court shall be final.
+(3) If any question arises as to the liability of any owner or occupier under any provision of subsection (1), a District Court shall have jurisdiction to hear and determine the question, and the decision of the court shall be final.
 
 ### 462 Council may declare private drain to be public drain
 (1) The council may, by resolution passed at a meeting of which at least 14 days' public notice has been given, declare any specified private drain in the district to be a public drain.
@@ -3689,10 +3643,10 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (2) The council may replace or repair any property destroyed or damaged by any such unlawful connection of a private drain, or remove or alter any such private drain, and may recover from that person the full cost of the work and the full amount of any damage done or caused by him.
 
 ### 468 Tree roots obstructing public drains
-(1) The council may, by notice in writing under the hand of the Chairman or the principal administrative officer, require the occupier or, in any case where there is no occupier, the owner of any land within the district to cut down or remove any tree on that land, or any specified part of any such tree, the roots of which in the opinion of the council enter or are likely to enter any public drain.
+(1) The council may, by notice in writing under the hand of the chairman or the principal administrative officer, require the occupier or, in any case where there is no occupier, the owner of any land within the district to cut down or remove any tree on that land, or any specified part of any such tree, the roots of which in the opinion of the council enter or are likely to enter any public drain.
 (2) Within 10 days after service of the notice, the occupier or owner, as the case may be, may apply to a District Court for an order setting aside the notice.
-(3) On the hearing of the application, the Court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the Court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers, or agents, may enter on the land and do that act and recover the cost from him.
+(3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
+(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence and is liable to a fine not exceeding $5 for every day during which the failure has continued, and the council, by its officers, or agents, may enter on the land and do that act and recover the cost from him.
 (5) The said cost shall be a charge upon the land.
 (6) The council may remove, cut down, or grub up, as the case may be, any tree to which subsection (1) applies, or, as the case may be, any specified part of any such tree, after the giving of oral notice by the principal administrative officer or other authorised officer of the council to the occupier, or, where there is no occupier, to the owner, of the land, if life, property, or any road is in imminent danger. The cost of the work shall be a charge against the land as if notice had been given under subsection (1) and had not been set aside by a District Court.
 (7) For the purposes of this section the term cut down means cutting down and keeping cut down or removing or controlling by chemical means the stem and roots of any tree so as to prevent its throwing out any leaf, offshoot, or flower.
@@ -3760,7 +3714,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 
 ## Part 28 — Trade wastes
 
-### 488 This Part to be subject to Resource Management Act 1991 or Health Act 1956
+### 488 This Part to be subject to Resource Management Act 1991
 [Repealed]
 
 ### 489 Interpretation
@@ -3841,7 +3795,7 @@ In this Part, unless the context otherwise requires,—
     (a) immediately before the commencement of this Part was a drainage channel under the control, as such, of any council; or
     (b) is constructed by the council as a drainage channel after the commencement of this Part; or
     (c) is vested in the council as a drainage channel;—
-  - **land drainage works** means works of any sort for the drainage of land in the district (being works vested in the council or acquired or constructed or operated by or under the control of the council under this Part), including drainage channels for receiving water in its natural flow on or from any hills or other lands, and works diverting or damming the same to prevent its overflow on to any other lands at a lower level, as well as drainage channels for carrying of water from any land.
+  - **land drainage works** means works of any sort for the drainage of land in the district (being works vested in the council or acquired or constructed or operated by or under the control of the council under this Part), including drainage channels for receiving water in its natural flow on or from any hills or other lands, and works diverting or damming the same to prevent its overflow on to any other lands at a lower level, as well as drainage channels for carrying off water from any land.
 
 **Land drainage areas**
 
@@ -3871,7 +3825,7 @@ In this Part, unless the context otherwise requires,—
   (c) produce a summary of proposal that—
     (i) is a fair representation of the major matters in the statement of proposal; and
     (ii) explains how the statement of proposal is available; and
-  (d) publicise the summary of proposal in a way appropriate to the subject-matter of the proposal.
+  (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
 (5) The council must not vote on a motion to make the declaration until at least 20 working days after the summary of proposal is first publicised under subsection (4)(d).
 
 ### 505 Procedure for demanding poll
@@ -3941,8 +3895,8 @@ Subject to section 238, the council shall have the power to inspect any private 
   (a) is impeded by any obstruction, and that obstruction is likely to cause loss of life, injury, or damage to property in the district or to obstruct navigation; or
   (b) is likely to be impeded by any such obstruction,—
 (2) Within 10 days after service of the notice, the occupier or owner to whom the notice is given may apply to a District Court for an order setting aside the notice.
-(3) On the hearing of the application, the Court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
-(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the Court, he commits an offence, and the council, by its officers or agents, may enter on the land and do that act.
+(3) On the hearing of the application, the court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
+(4) In the case of a notice which is not set aside as aforesaid, if the occupier or owner, as the case may be, fails to do any such act in compliance therewith within 1 month from the service thereof, or, where application as aforesaid has been heard, then within 1 month after the giving of the decision of the court, he commits an offence, and the council, by its officers or agents, may enter on the land and do that act.
 (5) Where the council does any work under subsection (4), it may recover the cost from the occupier or owner.
 (5A) Notwithstanding that no work has been carried out by the council under subsection (4), the council may recover any cost or expenses incurred by it under this section in respect of any investigations or supervision carried out by the officers or agents of the council.
 (6) The said cost and expenses shall be a charge upon the land.
@@ -3952,15 +3906,15 @@ Subject to section 238, the council shall have the power to inspect any private 
   (a) obstruction includes earth, stone, timber, driftwood, and material of all kinds, and trees, plants, weeds, and growths of all kinds:
   (b) the occupier or owner of land adjoining a road shall be deemed to be the occupier or owner of land on the banks of any drainage channel or watercourse running upon the road where the road fronts the land of that occupier or owner, unless the channel or watercourse has been artificially constructed by the council for the purpose only of draining the surface of the road:
   (c) remove, in relation to any obstruction consisting of trees, plants, weeds, or growths, includes, if the council so specifies, burning, poisoning, cutting, or treating, whether with or without the removal of the burnt, poisoned, cut, or treated portions.
-(10) Nothing in this section shall be deemed to authorise any council to dispose of any timber floated down from any watercourse under the Timber Floating Act 1954.
+(10) Nothing in this section shall be deemed to authorise any council to dispose of any timber floated down any watercourse under the Timber Floating Act 1954.
 
 ### 512 Power to require council to order removal of obstructions
 (1) In any case where the council might give any notice under section 511(1) in respect of any land, any resident of the district may, by notice in writing, request the council to do so.
 (2) If for the space of 1 month after the receipt of the last-mentioned notice the council fails to comply therewith, the resident making the request may apply to a District Court for an order requiring the council to comply with that notice.
-(3) On the hearing of the application, the Court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the Court shall be final.
+(3) On the hearing of the application, the court shall determine whether and to what extent the notice shall be complied with by the council, and the decision of the court shall be final.
 
-### 513 Order of Court on application under section 511 or section 512
-Where under section 511(2) or section 512(2) application is made to a District Court for an order setting aside a notice under subsection (1) of the said section 511 or, as the case may be, an order requiring the council to comply with a notice under subsection (1) of the said section 512, then, notwithstanding anything in the said section 511 or section 512, the Court may, in its discretion,—
+### 513 Order of court on application under section 511 or section 512
+Where under section 511(2) or section 512(2) application is made to a District Court for an order setting aside a notice under subsection (1) of the said section 511 or, as the case may be, an order requiring the council to comply with a notice under subsection (1) of the said section 512, then, notwithstanding anything in the said section 511 or section 512, the court may, in its discretion,—
   (a) direct that—be borne by any person holding any interest in the land or by any local authority whose district or works will be improved by that removal:
     (i) a portion of the cost of removing the obstruction; and
     (ii) a portion of the cost and expenses incurred by the council under section 511 or section 512 in respect of any investigations or supervision carried out by the officers or agents of the council,—
@@ -3971,12 +3925,12 @@ Where under section 511(2) or section 512(2) application is made to a District C
 (1) The council may make advances to the owner of any land within the district for the purpose of enabling him to do all things necessary to comply with any requirement of the council under section 511 or to cover in or improve any drainage channel or watercourse on the banks of which that land is situated.
 (2) Instead of making any such advance to any owner, the council may, by agreement with the owner, itself do all or any of the things referred to in subsection (1), and all money expended by the council pursuant to that agreement, together with an amount to cover the cost of supervision by the officer or agents of the council, is deemed to be an advance for the purposes of this section.
 (3) The council and the owner may agree that the amount of any advance shall be repayable in 1 amount at a fixed time with interest at a rate per annum fixed by the council, or by instalments extending over a number of years with interest not exceeding that rate. The agreement may contain any incidental provisions and may provide for the earlier payment of instalments, or any of them, on terms to be mentioned in the agreement:
-  Provided that, where the agreement makes no provision as aforesaid for early payment of instalments, the council shall accept payment of the whole of the unpaid instalments at any time when payment is tendered, and for the purpose of any such tender interest shall be paid up to and including the day of tender.
+  provided that, where the agreement makes no provision as aforesaid for early payment of instalments, the council shall accept payment of the whole of the unpaid instalments at any time when payment is tendered, and for the purpose of any such tender interest shall be paid up to and including the day of tender.
 (4) That agreement may, where the money is repayable in 1 amount, contain provisions for securing the repayment thereof, and, where the money is repayable by instalments, each such instalment is a charge on the land:
-  Provided that the owner for the time being of the premises shall in all cases be deemed the person primarily liable for payment.
+  provided that the owner for the time being of the premises shall in all cases be deemed the person primarily liable for payment.
 
 ### 515 Removal of obstructions in watercourses outside the district
-(1) Where any watercourse under the control of the council extends beyond the limits of the district, and its obstruction is likely to cause loss of life, injury, or damage to property within the district, the council may, by notice in writing, require the occupier, or, where there is no occupier, the owner of any land on the banks of the river, stream, or watercourse for a distance of 1 500 metres beyond the upstream boundary or downstream boundary of the district to remove any earth or stone, and any driftwood, tree, shrub, or bush, or any part thereof, impeding the free flow of water in that watercourse, or to lower or trim any part of a tree, shrub, or bush overhanging that watercourse and likely to fall therein, within the space of the aforesaid 1 500 metres.
+(1) Where any watercourse under the control of the council extends beyond the limits of the district, and its obstruction is likely to cause loss of life, injury, or damage to property within the district, the council may, by notice in writing, require the occupier or, where there is no occupier, the owner of any land on the banks of the river, stream, or watercourse for a distance of 1 500 metres beyond the upstream boundary or downstream boundary of the district to remove any earth or stone, and any driftwood, tree, shrub, or bush, or any part thereof, impeding the free flow of water in that watercourse, or to lower or trim any part of a tree, shrub, or bush overhanging that watercourse and likely to fall therein, within the space of the aforesaid 1 500 metres.
 (2) Subsections (2) to (7) and (9)(b) of section 511 shall apply with respect to every notice under this section as if it were a notice given under subsection (1) of the said section 511.
 (3) In this section the terms obstruction and remove have the same meanings as in section 511(9).
 
@@ -4001,7 +3955,7 @@ Without limiting the powers of the council to make bylaws conferred by section 6
   (l) to prohibit or regulate the pumping or releasing of water into any watercourse or drainage channel:
   (m) generally, to prevent trespasses, nuisances, and obstructions to drainage channels, and to make all such provision as to the council may seem necessary or expedient for the protection and proper management of drainage channels.
 
-## Part 29A — Divestment of land drainage schemes and water-race schemes
+## Part 29A — Divestment of land drainage schemes and water race schemes
 
 ### 517A This Part subject to Resource Management Act 1991 and Soil Conservation and Rivers Control Act 1941
 Nothing in this Part derogates from the provisions of the Resource Management Act 1991 or the Soil Conservation and Rivers Control Act 1941.
@@ -4012,53 +3966,53 @@ In this Part, unless the context otherwise requires,—
   - **drainage channel** and have the meanings given to those terms by section 503
   - **land drainage scheme** means all drainage channels or land drainage works relating to a particular land drainage system vested in a council or acquired or constructed or operated by or under the control of a council under Part 29
   - **land drainage works** has the meaning assigned to that term by section 503
-  - **occupier** , in relation to any land, means the owner of the land, except where a person other than the owner has a right to occupy the land by virtue of a tenancy granted for a term of not less than 12 months certain, in which case the term means that person; and includes any person having a right to occupy the land by virtue of a lease, licence, or other authority for a term of not less than 12 months certain
-  - **scheme asset** means any real or personal property of any kind of the local authority that is held or used (whether solely or partially) for the purposes of, or in relation to any land drainage scheme or water-race scheme proposed to be transferred under this Part, whether or not subject to rights, and, without limiting the generality of the foregoing provisions of this definition, includes—
+  - **occupier** , in relation to any land, means the owner of the land, except where a person other than the owner has a right to occupy the land by virtue of a tenancy granted for a term of not less than 12 months certain, in which case the term occupier means that person; and includes any person having a right to occupy the land by virtue of a lease, licence, or other authority for a term of not less than 12 months certain
+  - **scheme asset** means any real or personal property of any kind of the local authority that is held or used (whether solely or partially) for the purposes of, or in relation to any land drainage scheme or water race scheme proposed to be transferred under this Part, whether or not subject to rights, and, without limiting the generality of the foregoing provisions of this definition, includes—
     (a) any estate or interest in any land, including all rights of occupation of land or buildings:
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
     (c) all financial reserves, and any rights therein:
     (d) all securities within the meaning of the Securities Act 1978:
     (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Resource Management Act 1991, and all applications for and objections against applications for such rights:
-    (f) annual revenue (or any proportion thereof) received by a local authority from land vested in the local authority in trust or as an endowment for the purpose of or in relation to the land drainage scheme or water-race scheme; but does not include any interest in any such land
-  - **scheme liabilities** means any liabilities of the local authority that were incurred (whether solely or partially) for the purposes of any land drainage scheme or water-race scheme proposed to be transferred under this Part and, without limiting the generality of the foregoing provisions of this definition, includes—
+    (f) annual revenue (or any proportion thereof) received by a local authority from land vested in the local authority in trust or as an endowment for the purpose of or in relation to the land drainage scheme or water race scheme; but does not include any interest in any such land
+  - **scheme liabilities** means any liabilities of the local authority that were incurred (whether solely or partially) for the purposes of any land drainage scheme or water race scheme proposed to be transferred under this Part and, without limiting the generality of the foregoing provisions of this definition, includes—
     (a) liabilities and obligations under any Act or agreement; and
     (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
     (c) contingent liabilities
-  - **scheme owner** means, in relation to a land drainage scheme or water-race scheme transferred under this Part, any person or group of persons who control that scheme after its transfer
-  - **scheme user** , in relation to any land drainage scheme or water-race scheme proposed to be transferred, means the occupier, whether solely or jointly with others, of any land served by the land drainage scheme or water-race scheme; and includes the operator of any other drainage system or water supply system that utilises that land drainage scheme or water-race scheme
+  - **scheme owner** means, in relation to a land drainage scheme or water race scheme transferred under this Part, any person or group of persons who control that scheme after its transfer
+  - **scheme user** , in relation to any land drainage scheme or water race scheme proposed to be transferred, means the occupier, whether solely or jointly with others, of any land served by the land drainage scheme or water race scheme; and includes the operator of any other drainage system or water supply system that utilises that land drainage scheme or water race scheme
   - **water race** has the meaning given to that term by section 422(1)
-  - **water-race area** means a water-race area constituted under Part 25
-  - **water-race scheme** means all water races relating to a particular water-race system and constructed or established, or deemed to be constructed by a council, under Part 25.
+  - **water race area** means a water race area constituted under Part 25
+  - **water race scheme** means all water races relating to a particular water race system and constructed or established, or deemed to be constructed by a council, under Part 25.
 
 ### 517C Purposes of this Part
 The purposes of this Part are—
-  (a) to enable any land drainage scheme or water-race scheme to be transferred to the ownership and responsibility of the ratepayers served by the scheme where that is the wish of those ratepayers; and
+  (a) to enable any land drainage scheme or water race scheme to be transferred to the ownership and responsibility of the ratepayers served by the scheme where that is the wish of those ratepayers; and
   (b) to ensure that the manner in which any such scheme is transferred protects—
     (i) the interests of all ratepayers served by the scheme; and
     (ii) the public interest in the effective operation of this Act and other Acts by local authorities.
 
 ### 517D Obligation of local authority to facilitate purposes
-(1) Where any local authority that has control of a land drainage scheme or water-race scheme has reasonable grounds to believe that a significant proportion of scheme users may seek the transfer of that scheme under this Part, the local authority must, in relation to that scheme, take all reasonable steps to facilitate the operation of the provisions of this Part.
+(1) Where any local authority that has control of a land drainage scheme or water race scheme has reasonable grounds to believe that a significant proportion of scheme users may seek the transfer of that scheme under this Part, the local authority must, in relation to that scheme, take all reasonable steps to facilitate the operation of the provisions of this Part.
 (2) Reasonable steps under subsection (1) may include the provision of reasonable assistance to any person appearing to represent or have the confidence of the scheme users in the development of a transfer proposal.
 
 **Transfer petitions and transfer proposals**
 
 ### 517E Initiation of transfer
-Subject to section 517F, any person who is a scheme user of a land drainage scheme or water-race scheme may file, at the principal office of the local authority that has control of the scheme,—
-  (a) a petition requesting the transfer of the land drainage scheme or water-race scheme to the scheme users; and
+Subject to section 517F, any person who is a scheme user of a land drainage scheme or water race scheme may file, at the principal office of the local authority that has control of the scheme,—
+  (a) a petition requesting the transfer of the land drainage scheme or water race scheme to the scheme users; and
   (b) a transfer proposal.
 
 ### 517F Duty of local authority upon receipt of transfer petition and transfer proposal
 (1) No transfer petition or transfer proposal filed under section 517E is of any effect if—
-  (a) the number of valid signatures to the transfer petition, is not greater than 50% of the number of separately rateable properties served by the land drainage scheme or water-race scheme; or
+  (a) the number of valid signatures to the transfer petition, is not greater than 50% of the number of separately rateable properties served by the land drainage scheme or water race scheme; or
   (b) the transfer proposal is the same or substantially similar to any proposal that has been filed with the local authority within the period of 36 months ending with the date on which the transfer petition is filed with the local authority.
 (2) Where any transfer petition or transfer proposal is of no effect under subsection (1), the local authority must notify the proposer or the proposer's representative accordingly.
 (3) Subject to subsection (1), where the local authority ascertains that a transfer proposal filed under section 517E does not deal adequately with the matters set out in section 517I, the local authority must return that transfer proposal to the proposer together with a written statement indicating the matters that, in the local authority's opinion, have not been adequately dealt with in the proposal.
-(4) The return of the transfer proposal to the proposer under subsection (3) does not in any way preclude the proposer from once again filing a transfer petition under section 517E and subsection (1)(b) has effect, in relation the transfer proposal that accompanies any such transfer petition, as if the transfer proposal returned under subsection (3) had never been filed.
+(4) The return of the transfer proposal to the proposer under subsection (3) does not in any way preclude the proposer from once again filing a transfer petition under section 517E and subsection (1)(b) has effect, in relation to the transfer proposal that accompanies any such transfer petition, as if the transfer proposal returned under subsection (3) had never been filed.
 
 ### 517G Signatures to transfer petition
 (1) Subject to this section, every scheme user is entitled to sign the transfer petition filed under section 517E.
-(2) Where there is more than 1 scheme user in respect of any property served by the land drainage scheme or water-race scheme proposed to be transferred, every such scheme user is entitled to sign a petition requesting the transfer of the land drainage scheme or water-race scheme; but not more than 1 signature in respect of any such property may be counted for the purpose of assessing the number of valid signatures to the petition.
+(2) Where there is more than 1 scheme user in respect of any property served by the land drainage scheme or water race scheme proposed to be transferred, every such scheme user is entitled to sign a petition requesting the transfer of the land drainage scheme or water race scheme; but not more than 1 signature in respect of any such property may be counted for the purpose of assessing the number of valid signatures to the petition.
 (3) For the purposes of this section, and section 517F, land held in more than 1 title but occupied by the same person or persons and used as a single property is deemed to be 1 property.
 (4) No person may sign any transfer petition more than once.
 (5) Every scheme user who signs a petition filed under section 517E must state against the scheme user's signature—
@@ -4074,7 +4028,7 @@ Every transfer proposal filed under section 517E must clearly state—
 
 ### 517I Contents of transfer proposal
 The transfer proposal must—
-  (a) identify the land drainage scheme or water-race scheme proposed to be transferred, which identification must be accompanied by a plan or other description sufficient to identify the land drainage scheme or water-race scheme; and
+  (a) identify the land drainage scheme or water race scheme proposed to be transferred, which identification must be accompanied by a plan or other description sufficient to identify the land drainage scheme or water race scheme; and
   (b) identify (by reference to the land or property which is served by the scheme and which is occupied by each scheme user) the scheme users to whom the scheme is to be transferred; and
   (c) state whether it is the intention of the scheme users to whom the scheme is to be transferred—
     (i) to have the scheme transferred to themselves as tenants in common; or
@@ -4097,7 +4051,7 @@ The proposer of a transfer proposal filed under section 517E, or the proposer's 
   (c) every local authority within whose district the scheme to which the transfer proposal relates is wholly or partly situated or which is otherwise likely to be affected by the transfer of that scheme (other than the local authority that has control of that scheme).
 
 ### 517K Right to object to transfer proposal
-Where a transfer proposal is filed under section 517E in relation to any land drainage scheme or water-race scheme,—may, in accordance with this Part, object to the transfer proposal.
+Where a transfer proposal is filed under section 517E in relation to any land drainage scheme or water race scheme,—may, in accordance with this Part, object to the transfer proposal.
   (a) any scheme user who is the operator of a drainage system or water supply system that utilises the scheme to which the transfer proposal relates; and
   (b) any other scheme user in relation to the scheme to which the transfer proposal relates; and
   (c) any local authority within whose district the scheme to which the transfer proposal relates is wholly or partly situated or which is otherwise likely to be affected by the transfer of that scheme (including the local authority that has control of that scheme)—
@@ -4112,12 +4066,12 @@ Subject to section 517F(3), every local authority that receives a transfer petit
 Every notice given under section 517L must—
   (a) give notice of the local authority's receipt of the transfer petition and transfer proposal under section 517E; and
   (b) give notice of the obligations of the proposer under section 517J, and of the address at which the proposer or a representative of the proposer can be contacted; and
-  (c) invite any person (being a person entitled under section 517K to object to the transfer proposal) who wishes to object to the transfer proposal to lodge written objections to the proposed transfer of the land drainage scheme or water-race scheme identified in the notice or the transfer proposal prepared in respect of any such scheme, at the principal office of the local authority that has control of that land drainage scheme or water-race scheme, on or before a date specified in the notice, which date must be no earlier than 6 weeks after the date of that notice; and
+  (c) invite any person (being a person entitled under section 517K to object to the transfer proposal) who wishes to object to the transfer proposal to lodge written objections to the proposed transfer of the land drainage scheme or water race scheme identified in the notice or the transfer proposal prepared in respect of any such scheme, at the principal office of the local authority that has control of that land drainage scheme or water race scheme, on or before a date specified in the notice, which date must be no earlier than 6 weeks after the date of that notice; and
   (d) advise that, where objections are received from—all the objections received by the local authority will be forwarded to the Commission for determination in accordance with section 517T:
     (i) a local authority entitled under section 517K(c) to object to the transfer proposal; or
     (ii) the operator of any other drainage system or water supply system that utilises the scheme; or
-    (iii) scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water-race scheme,—
-  (e) advise that, where a local authority receives an objection under paragraph (d)(i) or paragraph (d)(ii), any objections received by the local authority under paragraph (d)(iii) will also be forwarded to the Commission, notwithstanding that those objections are from scheme users who are occupiers of less than 5% of the number of separately rateable properties served by the land drainage scheme or water-race scheme.
+    (iii) scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme,—
+  (e) advise that, where a local authority receives an objection under paragraph (d)(i) or paragraph (d)(ii), any objections received by the local authority under paragraph (d)(iii) will also be forwarded to the Commission, notwithstanding that those objections are from scheme users who are occupiers of less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
 
 ### 517N Lodging of objections
 Every objection under section 517K—
@@ -4140,28 +4094,28 @@ Within 7 days after the closing date for the lodging of written objections under
   (a) must ascertain whether it has received any written objections from—
     (i) any local authority entitled under section 517K(c) to object to the transfer proposal; or
     (ii) the operator of any other drainage system or water supply system that utilises the scheme; or
-    (iii) scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water-race scheme; and
+    (iii) scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme; and
   (b) must advise the proposer and all other scheme users and every local authority within whose district the scheme is wholly or partly situated or which is otherwise likely to be affected by the proposed transfer, whether or not, as a result of its finding under paragraph (a), the local authority is required by section 517S to forward to the Commission the transfer proposal and every objection received by the local authority.
 
 ### 517Q Procedure where transfer proposal not required to be forwarded to Commission
 Where the local authority finds, under section 517P, that it is not required by section 517S to forward to the Commission the transfer proposal and every objection received by the local authority, the transfer proposal becomes, as from the date of the local authority's finding under section 517P(a), a transfer plan and the local authority must, as soon as practicable, give effect to that transfer plan.
 
 ### 517R Obligation of local authority to effect transfer
-Where a transfer proposal becomes a transfer plan under section 517Q, the local authority in whom the land drainage scheme or water-race scheme is vested, must transfer the land drainage scheme or water-race scheme—
-  (a) to the scheme users of the land drainage scheme or water-race scheme as tenants in common; or
-  (b) by direction of the scheme users of the land drainage scheme or water-race scheme,—
+Where a transfer proposal becomes a transfer plan under section 517Q, the local authority in whom the land drainage scheme or water race scheme is vested, must transfer the land drainage scheme or water race scheme—
+  (a) to the scheme users of the land drainage scheme or water race scheme as tenants in common; or
+  (b) by direction of the scheme users of the land drainage scheme or water race scheme,—
     (i) to any body corporate comprised of or acting on behalf of all the scheme users; or
-    (ii) where the scheme users of the land drainage scheme or water-race scheme have appointed any persons to hold the scheme in trust on behalf of the scheme users, to those persons as joint tenants.
+    (ii) where the scheme users of the land drainage scheme or water race scheme have appointed any persons to hold the scheme in trust on behalf of the scheme users, to those persons as joint tenants.
 
 ### 517S Procedure on receipt of objections
 (1) The local authority must, as soon as is practicable upon receipt by it of—forward to the Commission the copies and information specified in subsection (2).
   (a) an objection from a local authority entitled under section 517K(c) to object to the transfer proposal; or
   (b) an objection from any scheme user who is the operator of a drainage system or water supply system that utilises the scheme; or
-  (c) objections from scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water-race scheme,—
+  (c) objections from scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme,—
 (2) The copies and information required by subsection (1) to be forwarded to the Commission comprise—
   (a) a copy of the transfer proposal; and
   (b) a copy of every objection received by the local authority under section 517K; and
-  (c) such information concerning the characteristics of the land drainage scheme or water-race scheme proposed to be transferred as is necessary for the purposes of section 517T.
+  (c) such information concerning the characteristics of the land drainage scheme or water race scheme proposed to be transferred as is necessary for the purposes of section 517T.
 
 ### 517T Duty of Commission to consider objections
 (1) Where the copy of the transfer proposal and the copies of the other documents are forwarded to the Commission under section 517S, the Commission—
@@ -4197,32 +4151,32 @@ Where the Commission considers any transfer proposal under section 517T, the rel
   (c) states that any scheme user who signed the transfer petition under section 517G in respect of the transfer proposal may, by written application received by the local authority before a date specified in the notice, being a date not less than 4 weeks nor more than 6 weeks after the date of the notice, have the scheme user's signature deleted from the petition; and
   (d) states that any scheme user who was entitled under section 517G to sign the transfer petition in respect of the transfer proposal but did not sign that petition may, by written application received by the local authority before the date specified under paragraph (c), have the scheme user's support for the petition recorded; and
   (e) states the local authority's obligations under subsection (3).
-(3) Within 7 days after the date specified under subsection (2)(c), the local authority must determine whether—the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water-race scheme.
+(3) Within 7 days after the date specified under subsection (2)(c), the local authority must determine whether—the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
   (a) after deleting any signature that is the subject of an application under subsection (2)(c); and
   (b) after, counting, as if it were a signature to the petition, any support for the petition recorded in accordance with an application under subsection (2)(d),—
-(4) Where the local authority determines under subsection (3) that the number of valid signatures on the transfer petition is not equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water-race scheme, the local authority must notify every scheme user that the number of valid signatures on the transfer petition is insufficient and that the transfer proposal is not to proceed.
+(4) Where the local authority determines under subsection (3) that the number of valid signatures on the transfer petition is not equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme, the local authority must notify every scheme user that the number of valid signatures on the transfer petition is insufficient and that the transfer proposal is not to proceed.
 
 **Transfer plan**
 
 ### 517X Procedure after determination
-(1) Where the Commission determines under section 517T(2) that the transfer of the land drainage scheme or water-race scheme is to proceed (and does not exercise its power, under section 517T(3) to approve the transfer proposal with modifications), the transfer proposal becomes, as from the date of the Commission's determination, a transfer plan and the local authority must, as soon as practicable, give effect to that transfer plan.
-(2) Where, in relation to a transfer proposal to which section 517W applies, the local authority determines, under section 517W(3), that the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water-race scheme, the modified transfer proposal becomes, as from the date of the local authority's determination, a transfer plan and the local authority must, as soon as practicable, give effect to the transfer plan.
+(1) Where the Commission determines under section 517T(2) that the transfer of the land drainage scheme or water race scheme is to proceed (and does not exercise its power, under section 517T(3) to approve the transfer proposal with modifications), the transfer proposal becomes, as from the date of the Commission's determination, a transfer plan and the local authority must, as soon as practicable, give effect to that transfer plan.
+(2) Where, in relation to a transfer proposal to which section 517W applies, the local authority determines, under section 517W(3), that the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme, the modified transfer proposal becomes, as from the date of the local authority's determination, a transfer plan and the local authority must, as soon as practicable, give effect to the transfer plan.
 
 ### 517Y Obligation of local authority to effect transfer
-Where a transfer proposal becomes a transfer plan under section 517X, the local authority in whom the land drainage scheme or water-race scheme is vested, must transfer the land drainage scheme or water-race scheme—
-  (a) to the scheme users of the land drainage scheme or water-race scheme as tenants in common; or
-  (b) by direction of the scheme users of the land drainage scheme or water-race scheme,—
+Where a transfer proposal becomes a transfer plan under section 517X, the local authority in whom the land drainage scheme or water race scheme is vested, must transfer the land drainage scheme or water race scheme—
+  (a) to the scheme users of the land drainage scheme or water race scheme as tenants in common; or
+  (b) by direction of the scheme users of the land drainage scheme or water race scheme,—
     (i) to any body corporate comprised of or acting on behalf of the scheme users; or
-    (ii) where the scheme users of the land drainage scheme or water-race scheme have appointed any person to hold the scheme in trust on behalf of the scheme users, to those persons as joint tenants.
+    (ii) where the scheme users of the land drainage scheme or water race scheme have appointed any person to hold the scheme in trust on behalf of the scheme users, to those persons as joint tenants.
 
 **Implementation of transfer plan**
 
 ### 517Z Transfer by local authority of scheme assets and scheme liabilities
-(1) Notwithstanding any Act, rule of law, or agreement, where a transfer proposal becomes a transfer plan under section 517Q or section 517X and that plan is to be given effect to by the transfer of a land drainage scheme or water-race scheme, the local authority must on the transfer day—
+(1) Notwithstanding any Act, rule of law, or agreement, where a transfer proposal becomes a transfer plan under section 517Q or section 517X and that plan is to be given effect to by the transfer of a land drainage scheme or water race scheme, the local authority must on the transfer day—
   (a) transfer to the person or group of persons to whom the scheme is transferred, the scheme assets and scheme liabilities; and
   (b) vest in the person or group of persons to whom the scheme is transferred any rights conferred by designations under district plans applying to any land transferred pursuant to this Part; and
   (c) grant to the person or group of persons to whom the scheme is transferred leases, easements, permits, consents, or rights of any kind in respect of any scheme assets or scheme liabilities as provided for by the transfer proposal, the amended transfer proposal, or the Commission's determination, as the case may be.
-(2) Where a local authority continues, on behalf of scheme users, to collect revenue from land vested in the local authority in trust or as an endowment for the purposes of or in relation to a land drainage scheme or water-race scheme transferred under this Part, the local authority is entitled to deduct from such revenue all reasonable costs and expenses incurred in the collection of such revenue.
+(2) Where a local authority continues, on behalf of scheme users, to collect revenue from land vested in the local authority in trust or as an endowment for the purposes of or in relation to a land drainage scheme or water race scheme transferred under this Part, the local authority is entitled to deduct from such revenue all reasonable costs and expenses incurred in the collection of such revenue.
 (3) Where any designation is, under subsection (1)(b) vested in a person or group of persons, that person or group of persons may, within the period of 2 years beginning on the transfer day, apply under section 167 of the Resource Management Act 1991 for approval as a requiring authority and is, until that application is disposed of or until that period of 2 years expires, whichever is the sooner, deemed to be a requiring authority within the meaning of that Act.
 (4) Scheme assets that are fixed to, or are under or over, any land may be transferred under this Part, whether or not any interest in the land is also transferred. Where any such asset is so transferred, the asset and the land are to be regarded as separate assets each capable of separate ownership.
 (5) Any scheme asset or scheme liability may be transferred under this Part, whether or not any Act or agreement relating to the asset or liability permits such transfer or requires any consent to such a transfer.
@@ -4236,18 +4190,18 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
   (d) releases any surety wholly or in part from all or any obligation; or
   (e) invalidates or discharges any contract or security.
 (2) Where a scheme asset or scheme liability is transferred to the scheme owner under section 517Z, the local authority remains liable to any third party as if the asset or liability had not been so transferred and in any such case the scheme owner must indemnify the local authority in respect of any liability arising under this situation.
-(3) Where—the scheme owner must indemnify the local authority for that proportion of the liability which represents the share of the land drainage scheme or water-race scheme in any such scheme asset or scheme liability.
-  (a) any scheme assets held or used by a local authority are held or used for the purposes of, or in relation to, any other land drainage scheme or water-race scheme vested in the local authority; or
-  (b) any scheme liabilities are incurred by a local authority for the purposes of any other land drainage scheme or water-race scheme vested in the local authority,—
+(3) Where—the scheme owner must indemnify the local authority for that proportion of the liability which represents the share of the land drainage scheme or water race scheme in any such scheme asset or scheme liability.
+  (a) any scheme assets held or used by a local authority are held or used for the purposes of, or in relation to, any other land drainage scheme or water race scheme vested in the local authority; or
+  (b) any scheme liabilities are incurred by a local authority for the purposes of any other land drainage scheme or water race scheme vested in the local authority,—
 (4) Any satisfaction or performance by the scheme owners in respect of the asset or liability is deemed to be also satisfaction or performance by the local authority.
 (5) Any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the scheme owner is deemed to be also to the benefit of the local authority.
 
 ### 517ZB Rates and charges payable for proportionate part of year in certain circumstances
-(1) Where in any year a land drainage scheme or water-race scheme is transferred under this Part before a local authority prescribes any charge or sets any rate for that year in respect of the scheme, any expenditure incurred by the local authority in respect of the scheme for the period beginning on 1 July in that year and ending with the transfer date of the scheme is recoverable by the local authority upon the transfer of the scheme, as a debt owing to the local authority by the scheme owner.
-(2) If in any year a land drainage scheme or water-race scheme is transferred under this Part, after any charge or rate in respect of the scheme has been prescribed or set for that year, the local authority may assess and collect the charge or rate, but the proportion of the charge or rate that was assessed for the purpose of the scheme and that was not expended by the local authority before the transfer of the scheme must be paid by the local authority to the scheme owner upon the transfer of the scheme.
+(1) Where in any year a land drainage scheme or water race scheme is transferred under this Part before a local authority prescribes any charge or sets any rate for that year in respect of the scheme, any expenditure incurred by the local authority in respect of the scheme for the period beginning on 1 July in that year and ending with the transfer date of the scheme is recoverable by the local authority upon the transfer of the scheme, as a debt owing to the local authority by the scheme owner.
+(2) If in any year a land drainage scheme or water race scheme is transferred under this Part, after any charge or rate in respect of the scheme has been prescribed or set for that year, the local authority may assess and collect the charge or rate, but the proportion of the charge or rate that was assessed for the purpose of the scheme and that was not expended by the local authority before the transfer of the scheme must be paid by the local authority to the scheme owner upon the transfer of the scheme.
 
 ### 517ZC Rights of entry
-(1) Subject to subsections (2) to (6), any scheme owner may enter upon land (including land owned by the Crown) for the purpose of gaining access to any land drainage scheme or water-race scheme owned by the scheme owner and may perform any act or operation necessary for the purpose of operating, inspecting, maintaining, or repairing any such scheme.
+(1) Subject to subsections (2) to (6), any scheme owner may enter upon land (including land owned by the Crown) for the purpose of gaining access to any land drainage scheme or water race scheme owned by the scheme owner and may perform any act or operation necessary for the purpose of operating, inspecting, maintaining, or repairing any such scheme.
 (2) Subject to subsection (3), the power to enter upon land given by subsection (1) is subject to the following conditions:
   (a) entry to the land may only be made by the scheme owner or any other person authorised by the scheme owner in writing, either specifically or as a member of a class so authorised by the scheme owner:
   (b) reasonable notice of the intention to enter must be given:
@@ -4261,24 +4215,24 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
 (6) The scheme owner is liable to repair, or pay compensation for, any damage or loss suffered by any person as a result of any exercise of the power of entry given by subsection (1).
 
 ### 517ZD Registration of rights
-(1) As soon as is reasonably practicable after the transfer of a land drainage scheme or water-race scheme under this Part, the principal administrative officer of the local authority must furnish to the scheme owner a certificate that the rights of entry upon land referred to in section 517ZC(1) apply to land specified in the certificate.
+(1) As soon as is reasonably practicable after the transfer of a land drainage scheme or water race scheme under this Part, the principal administrative officer of the local authority must furnish to the scheme owner a certificate that the rights of entry upon land referred to in section 517ZC(1) apply to land specified in the certificate.
 (2) The scheme owner must, upon receipt of the certificate, lodge it, together with such plans, if any, as the Registrar-General of Land requires, in the Land Registry Office for the district in which the land is situated.
 (3) The Registrar-General of Land upon receipt of the certificate referred to in subsection (1) must,—
   (a) if the land affected or any part of it is not subject to the Land Transfer Act 1952, cause an entry of the particulars of the certificate to be made under the proper heading or title in the index book of the Deeds Register Office; or
   (b) if the land affected or any part of it is subject to the Land Transfer Act 1952, register the particulars of the certificate against the title to the land or part so subject.
 (4) If the land affected by the certificate to which this section applies or any part of it is not subject to the Land Transfer Act 1952, and dealings with the land or part not so subject are not registrable under the Deeds Registration Act 1908, the person in whose favour the right exists must lodge a true copy of the certificate and memorandum in the office of the Chief Surveyor; and the Chief Surveyor must note the existence of the certificate on plans and records of the land district.
-(5) No action lies against the Crown or any other person under Part 11 of the Land Transfer Act 1952 by reason of any certificate registered under this section not indicating the true position or course of those parts of the land drainage scheme or water-race scheme to which the right relates.
+(5) No action lies against the Crown or any other person under Part 11 of the Land Transfer Act 1952 by reason of any certificate registered under this section not indicating the true position or course of those parts of the land drainage scheme or water race scheme to which the right relates.
 (6) Notwithstanding any enactment or rule of law to the contrary, any certificate registered under this section is deemed to be binding on any registered proprietor of an estate in fee simple or leasehold of, or on any registered licensee of, and on every person with a prior or subsequent interest registered against, the land or any interest in the land affected by the certificate.
-(7) Without limiting the provisions of this section, any right referred to in any certificate registered by the Registrar-General of Land under this section may be transferred, by a memorandum of transfer to be registered under the Land Transfer Act 1952, to any person or group of persons to whom any land drainage scheme or water-race scheme has been transferred.
+(7) Without limiting the provisions of this section, any right referred to in any certificate registered by the Registrar-General of Land under this section may be transferred, by a memorandum of transfer to be registered under the Land Transfer Act 1952, to any person or group of persons to whom any land drainage scheme or water race scheme has been transferred.
 (8) On and after the commencement of this section, nothing in—applies to, or in respect of, any right to which subsection (1) applies.
   (a) Part 5 of the Public Works Act 1981; or
-  (b) section 708; or
+  (b) section 708 of this Act; or
   (c) section 29 of the Land Drainage Act 1908; or
   (d) section 10 of the Rangitaiki Land Drainage Act 1956,—
 (9) Nothing in this section prejudices or affects any claim for compensation made before the commencement of this section under any of the Acts specified in subsection (8).
 
 ### 517ZE Transfer of existing easements, etc
-(1) Where a land drainage scheme or water-race scheme is transferred by a local authority under this Part, the benefit of any existing easement, agreement, or right over or in respect of land relating to land drainage works, drainage channels, water races, or other facilities, for the purposes of the scheme, is deemed to be transferred to the person or group of persons to whom the scheme is transferred, notwithstanding that the easement, agreement, or right may not have been registered.
+(1) Where a land drainage scheme or water race scheme is transferred by a local authority under this Part, the benefit of any existing easement, agreement, or right over or in respect of land relating to land drainage works, drainage channels, water races, or other facilities, for the purposes of the scheme, is deemed to be transferred to the person or group of persons to whom the scheme is transferred, notwithstanding that the easement, agreement, or right may not have been registered.
 (2) In respect of any land to which subsection (1) applies, the local authority must, at the request of the scheme owner, by notice registered in accordance with this section against the title of the land, indicate the existence of the relevant easement, agreement, or right and the fact that it has been transferred to the scheme owner pursuant to subsection (1).
 (3) Every such notice must—
   (a) be signed by the local authority; and
@@ -4289,46 +4243,46 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
 (5) Where any such notice has endorsed on it or refers to a diagram or plan to which subsection (4) applies and it is subsequently shown by a plan deposited by the Registrar-General of Land that the true position or course of the land drainage works, drainage channels, water race, or other facility differs from the position or course shown on the first-mentioned diagram or plan, the Registrar-General of Land must endorse on the notice and on any other appropriate titles, plans, or records a reference to the deposited plan; and the notice is thereupon deemed to have referred to the deposited plan from the date on which it was signed.
 (6) No action lies against the Crown under Part 11 of the Land Transfer Act 1952 by reason of any notice registered under this section not indicating the true position or course of any land drainage works, drainage channel, or water race.
 (7) Notwithstanding any enactment or rule of law to the contrary, any notice registered under this section is deemed to be binding on any registered proprietor of an estate in fee simple or leasehold of, or on any registered licensee of, and on every person with a prior or subsequent interest registered against, the land or any interest in the land affected by the notice.
-(8) Any easement, agreement, or right referred to in any notice registered under this section may be transferred, by a memorandum of transfer registered under the Land Transfer Act 1952, to any person or group of persons to whom any land drainage scheme or water-race scheme is subsequently sold or otherwise disposed of.
+(8) Any easement, agreement, or right referred to in any notice registered under this section may be transferred, by a memorandum of transfer registered under the Land Transfer Act 1952, to any person or group of persons to whom any land drainage scheme or water race scheme is subsequently sold or otherwise disposed of.
 
 ### 517ZF Transfer of water permits
-(1) Where a land drainage scheme or water-race scheme is transferred by a local authority under this Part, any existing permit held by the local authority to dam any river or stream or to divert, take, use, or discharge water for the purposes of the scheme is deemed to be transferred to the person to whom, or the group of persons to which, the scheme is transferred.
+(1) Where a land drainage scheme or water race scheme is transferred by a local authority under this Part, any existing permit held by the local authority to dam any river or stream or to divert, take, use, or discharge water for the purposes of the scheme is deemed to be transferred to the person to whom, or the group of persons to which, the scheme is transferred.
 (2) Every permit so transferred continues to be subject to the same terms and conditions as those to which it was subject immediately before the date of transfer.
 (3) Every permit to which this section applies is subject to the provisions of any other enactment relating to it.
 
 ### 517ZG Transfer of land
-(1) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the transfer by the local authority of any land or interest in land under this Part so long as the land or interest in land continues to be used for the purposes of a land drainage scheme or water-race scheme, but, if all or any part of the land or interest in land is no longer required for such purposes, sections 40 and 41 of that Act apply to the land or interest no longer so required as if the owner of the land or interest were the local authority and the land or interest had not been transferred under this Part.
+(1) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the transfer by the local authority of any land or interest in land under this Part so long as the land or interest in land continues to be used for the purposes of a land drainage scheme or water race scheme, but, if all or any part of the land or interest in land is no longer required for such purposes, sections 40 and 41 of that Act apply to the land or interest no longer so required as if the owner of the land or interest were the local authority and the land or interest had not been transferred under this Part.
 (2) The Registrar-General of Land must endorse on every certificate of title transferred to any person or group of persons under this Part, the effect of subsection (1).
 
 ### 517ZH Section 11 and Part 10 of Resource Management Act 1991 and Part 21 of this Act not to apply
-Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part of this Act nor to any subdivision required in respect of any such transfer.
+Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part nor to any subdivision required in respect of any such transfer.
 
 ### 517ZI Activity permitted as of right
-For the purposes of section 375(1)(a)(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any land drainage scheme or water-race scheme is transferred under this Part, any use for drainage purposes or water-race purposes of the land upon which the land drainage scheme or water-race scheme is situated is deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act applies accordingly.
+For the purposes of section 375(1)(a)(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any land drainage scheme or water race scheme is transferred under this Part, any use for drainage purposes or water race purposes of the land upon which the land drainage scheme or water race scheme is situated is deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act applies accordingly.
 
-### 517ZJ Revocation of resolutions constituting drainage areas and water-race areas
-(1) On the transfer of any land drainage scheme or water-race scheme under this Part,—
+### 517ZJ Revocation of resolutions constituting drainage areas and water race areas
+(1) On the transfer of any land drainage scheme or water race scheme under this Part,—
   (a) that part of every resolution in force in relation to that scheme and made under section 423 or section 504 or section 505, or the corresponding provision of any former enactment relating to land drainage or water races, is deemed to be revoked; and
   (b) that part of every drainage district (being a drainage district that is deemed to be a drainage area constituted under Part 29) that relates to the scheme is deemed to be excluded from that drainage area; and
-  (c) that part of every water-race district (being a water-race district that is deemed to be a water-race area constituted under Part 25) that relates to that scheme is deemed to be excluded from that water-race area; and
-  (d) that part of every irrigation district (being an irrigation district that is deemed to be a water-race area constituted under Part 25) that relates to that scheme is deemed to be excluded from that water-race area.
-(2) A local authority must alter the boundaries of any drainage area or water-race area to such extent as is necessary to reflect any revocation effected, or exclusion deemed to have been effected, by subsection (1).
+  (c) that part of every water race district (being a water race district that is deemed to be a water race area constituted under Part 25) that relates to that scheme is deemed to be excluded from that water race area; and
+  (d) that part of every irrigation district (being an irrigation district that is deemed to be a water race area constituted under Part 25) that relates to that scheme is deemed to be excluded from that water race area.
+(2) A local authority must alter the boundaries of any drainage area or water race area to such extent as is necessary to reflect any revocation effected, or exclusion deemed to have been effected, by subsection (1).
 
 ### 517ZK Power of local authority to enter into contracts with scheme owners
-Subject to Part 16A, a local authority may enter into a contract with the scheme owner of any land drainage scheme or water-race scheme to undertake all or any of the following, namely, the planning, implementation, operation, and maintenance of that land drainage scheme or water-race scheme.
+Subject to Part 16A, a local authority may enter into a contract with the scheme owner of any land drainage scheme or water race scheme to undertake all or any of the following, namely, the planning, implementation, operation, and maintenance of that land drainage scheme or water race scheme.
 
 ### 517ZL Power to repair or maintain land drainage schemes and water races
-If a land drainage scheme or water-race scheme is not repaired or maintained in a due state of efficiency, the owners or occupiers for the time being of the land through, on, or between which the land drainage scheme or water-race scheme is situated may, after giving 7 clear days notice to the scheme owner of their intention to do so, repair or otherwise maintain the same in a due state of efficiency, and recover in a summary manner from the scheme owner a fair and equitable proportion of the expenses incurred by them in so doing.
+If a land drainage scheme or water race scheme is not repaired or maintained in a due state of efficiency, the owners or occupiers for the time being of the land through, on, or between which the land drainage scheme or water race scheme is situated may, after giving 7 clear days notice to the scheme owner of their intention to do so, repair or otherwise maintain the same in a due state of efficiency, and recover in a summary manner from the scheme owner a fair and equitable proportion of the expenses incurred by them in so doing.
 
-### 517ZM Power of territorial authority to reconstitute land drainage or water-race areas
-(1) A territorial authority may, upon receipt of a petition signed by the occupiers of a majority of the separately rateable properties served by a land drainage scheme or water-race scheme, and with the agreement of the scheme owner, declare the whole or any defined part of the district in which the land drainage scheme or water-race scheme is situated to be constituted—
+### 517ZM Power of territorial authority to reconstitute land drainage or water race areas
+(1) A territorial authority may, upon receipt of a petition signed by the occupiers of a majority of the separately rateable properties served by a land drainage scheme or water race scheme, and with the agreement of the scheme owner, declare the whole or any defined part of the district in which the land drainage scheme or water race scheme is situated to be constituted—
   (a) a drainage area for the purpose of land drainage works for the drainage of land in the area; or
-  (b) a water-race area for the purpose of the construction and maintenance therein of water races and the supply of water therefrom.
+  (b) a water race area for the purpose of the construction and maintenance therein of water races and the supply of water therefrom.
 (2) Part 29 applies to any drainage area constituted under subsection (1).
-(3) Part 25 applies to any water-race area constituted under subsection (1).
-(4) Upon a drainage area or water-race area being constituted under subsection (1),—
+(3) Part 25 applies to any water race area constituted under subsection (1).
+(4) Upon a drainage area or water race area being constituted under subsection (1),—
   (a) the drainage channels and land drainage works relating to the land drainage scheme vest in the territorial authority; and
-  (b) the water races relating to the water-race scheme vest in the territorial authority.
+  (b) the water races relating to the water race scheme vest in the territorial authority.
 
 ## Part 30 — Supply of energy
 
@@ -4379,7 +4333,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 532 Electricity or gas company may sell works to territorial authority
 [Repealed]
 
-### 533 Territorial authority may advance to occupier of premises cost of installation or conservation of energy
+### 533 Grants and advances to owners and occupiers for energy related purposes
 [Repealed]
 
 ### 534 When advance not to be a charge on land
@@ -4490,7 +4444,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 561 Council may sell or lease surplus land
 [Repealed]
 
-### 562 Proceeds of sale or lease of building allotments to be paid into a separate account
+### 562 Accounting of proceeds of sale or lease of building allotments
 [Repealed]
 
 **Advances to financial institutions and guarantees of housing loans**
@@ -4612,7 +4566,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
   (b) utilise any land or buildings that may lawfully be appropriated for the purpose:
   (c) take all such steps as the council thinks necessary to adapt for use as a parking place or building or transport station any land or building that it may acquire or utilise under this section:
   (d) authorise the use as a parking place or transport station of any part of a road:
-  (e) appoint any place or any road or any specified part of any place or road as a transport station for the exclusive use of vehicles engaged in any passenger service or goods service or any other transport service:
+  (e) appoint any place or any road or any specified part of any place or road as a transport station for the exclusive use of vehicles engaged in any passenger service or goods service or any other transport service.
 (2) The council shall not authorise the use of any part of a road as a parking place or transport station so as unreasonably to prevent access to any premises adjoining the road, or the use of the road by any person entitled to the use thereof, or so as to be a nuisance.
 (3) The exercise by the council of its power under this section with respect to the use of any part of a road shall not render it subject to any liability in respect of loss of or damage to any vehicle or the fittings or contents of any vehicle.
 (4) Except as provided in bylaws made pursuant to section 591A or as provided in subsection (2) of that section, no part of a road may be appointed as a parking place available only to a specified person or to a specified class of persons or to vehicles owned or operated by a specified person or by specified classes of persons.
@@ -4830,7 +4784,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 594ZZB Passenger transport interests, undertakings, and operations to be sold
 [Repealed]
 
-### 594ZZC Duty to act in furtherance of objects of this Part of Act
+### 594ZZC Duty to act in furtherance of objects of this Part
 [Repealed]
 
 ### 594ZZD Regional council not to enter into contracts
@@ -4839,7 +4793,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 594ZZE Public availability of documents
 [Repealed]
 
-### 594ZZF Financial assistance from Land Transport Account suspended
+### 594ZZF Financial assistance from National Roads Account suspended
 [Repealed]
 
 ### 594ZZG Financial assistance to be identified
@@ -5047,13 +5001,13 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 636C Application to the Crown
 [Repealed]
 
-### 636D Factories to have fire-safety certificates
+### 636D Factories to have fire safety certificates
 [Repealed]
 
-### 636E Changes to factory premises, staffing, or activities after fire-safety certificate issued
+### 636E Changes to factory premises, staffing, or activities after fire safety certificate issued
 [Repealed]
 
-### 636F Occupier of factory to maintain means of escape and fire-alarm system
+### 636F Occupier of factory to maintain means of escape and fire alarm system
 [Repealed]
 
 ### 636G Provision of fire-fighting equipment
@@ -5083,7 +5037,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ### 636O Procedure relating to offences
 [Repealed]
 
-### 636P Fire-safety certificates issued under Factories Act 1946 to continue in force
+### 636P Fire safety certificates issued under Factories Act 1946 to continue in force
 [Repealed]
 
 **Preventing overcrowding**
@@ -5164,7 +5118,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 
 ### 648 Pipes to be kept charged with water
 (1) Except in case of unusual drought, or of accident, or of shortage from any cause of the water supply, or during necessary repairs, connections, or inspections, or in a case of a state of emergency declared under the Civil Defence Emergency Management Act 2002, the council must at all times keep charged with water the pipes in which fire hydrants are fixed by the council under section 647.
-(2) Subject to the overall requirements of any Controller while a state of emergency exists under the Civil Defence Emergency Management Act 2002, the council must allow all persons to take and use water from any waterworks or water race for extinguishing fire without any payment for the same.
+(2) Subject to the overall requirements of any controller while a state of emergency exists under the Civil Defence Emergency Management Act 2002, the council must allow all persons to take and use water from any waterworks or water race for extinguishing fire without any payment for the same.
 
 ### 649 Council to make bylaws in respect of prevention of spread of fires involving vegetation
 [Repealed]
@@ -5183,7 +5137,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
     (i) erect and maintain quays, docks, piers, wharves, jetties, launching ramps, and any other works for the improvement, protection, management, or utilisation of waters within its district:
     (ii) erect and maintain protective works (other than works undertaken under the Soil Conservation and Rivers Control Act 1941) to prevent the encroachment of waters within its district:
     (iii) carry out such other navigation or harbour-related functions and responsibilities as it may have under a local government reorganisation scheme under this Act.
-(2) All wharves, jetties and other works constructed by a council under the authority of this section belong to the council.
+(2) All wharves, jetties, and other works constructed by a council under the authority of this section belong to the council.
 (3) A council or other local authority may not construct wharves or other works, or levy any tolls, on land owned by some other person, without that person's consent.
 (4) The powers conferred by this section are subject to the Resource Management Act 1991.
 
@@ -5213,11 +5167,11 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
   (b) require any person found committing an offence against the council's navigation bylaws to give his or her name and address:
   (c) on informing the owner of a ship or seaplane of an alleged offence against the council's navigation bylaws, and on requesting the owner to do so, require the owner to give all information in the owner's possession or obtainable by the owner which may lead to the identification of the person by whom the offence is alleged to have been committed:
   (d) regulate and control the traffic and navigation, and provide specially for the direct and personal control of that traffic, on any day or occasion of unusual or extraordinary traffic.
-(2) A person authorised by the council, or any member of the Police acting on the request of the harbourmaster or such an authorised person, who—may exercise any power under subsection (1)(a) to (c).
+(2) A person authorised by the council, or any constable acting on the request of the harbourmaster or such an authorised person, who—may exercise any power under subsection (1)(a) to (c).
   (a) has received a complaint that there has been a breach of any of the council's navigation bylaws; and
   (b) on investigation of the complaint, is of the opinion that there has been a breach of the council's navigation bylaws,—
 (3) If a harbourmaster or enforcement officer of a regional council believes on reasonable grounds that a person has committed a breach of maritime rules involving navigation safety, the harbourmaster or enforcement officer may exercise any power under subsection (1)(a) to (c), and those provisions apply with any necessary modifications.
-(4) No honorary enforcement officer may exercise any power under section (1)(c) or (d).
+(4) No honorary enforcement officer may exercise any power under subsection (1)(c) or (d).
 
 ### 650F Application of section 710 and other requirements
 (1) Section 710 applies in respect of every harbourmaster, enforcement officer, and honorary enforcement officer.
@@ -5229,7 +5183,7 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
   (b) the circumstances and purpose of entry:
   (c) the name, office or position, and employer of every person entering:
   (d) every thing that has been seized, or that nothing has been seized, and every action taken, or that no action has been taken.
-(4) This section applies to a member of the Police who exercises any power under section 650E as if his or her warrant card or other evidence of appointment were a warrant under section 710.
+(4) This section applies to a constable who exercises any power under section 650E as if his or her warrant card or other evidence of appointment were a warrant under section 710.
 
 ### 650G Offence
 A person commits an offence against this Act who fails without reasonable cause to comply with a direction or requirement given or made under section 650C or section 650D or section 650E.
@@ -5265,7 +5219,7 @@ Officers of Customs, officers of the Ministry of Agriculture and Forestry, offic
 (5) Section 715, with any necessary modifications, applies to delegations under subsection (1)(b) or subsection (2), but nothing in this section limits any provision of section 715 that provides for any matter not provided for in this section.
 (6) In this section,—
   - **port operator** includes a port company under the Port Companies Act 1988 and any other operator of facilities for the loading or unloading of cargo or passengers carried by sea
-  - **public authority** includes any local authority, iwi authority, Government department, or statutory authority.
+  - **public authority** includes any local authority, iwi authority, government department, or statutory authority.
 
 **Wreck**
 
@@ -5411,7 +5365,7 @@ Officers of Customs, officers of the Ministry of Agriculture and Forestry, offic
 (1) Despite anything to the contrary in the Local Government Act 2002, sections 150, 151, 155, and 156 of that Act apply, with all necessary modifications, to any bylaw made under this Act.
 (2) This section does not limit any other provisions of that Act that apply to a bylaw made under this Act.
 
-### 684 Subject-matter of bylaws
+### 684 Subject matter of bylaws
 [Repealed]
 
 ### 684A Effect of Building Act 1991 on bylaws
@@ -5493,7 +5447,7 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 ### 692 Removal of works executed contrary to bylaws
 [Repealed]
 
-## Part 43A — Commissioner for disaster recovery
+## Part 43A — Commissioner for Disaster Recovery
 
 ### 692A Interpretation
 [Repealed]
@@ -5624,7 +5578,7 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 ### 692ZM Relationship with Fencing Act 1978
 [Repealed]
 
-### 692ZN Rules of Court
+### 692ZN Rules of court
 [Repealed]
 
 ## Part 44 — Offences and legal proceedings
@@ -5651,7 +5605,7 @@ Before making a navigation bylaw concerning a matter for which a maritime rule m
 
 ### 698 General penalty
 (1) Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $500 and, where the offence is a continuing one, to a further fine not exceeding $50 for every day on which the offence has continued.
-(2) Where any order is made under this Act by any Court directing the execution of any work or the doing of any act (other than the payment of a sum of money under a conviction, whether as a fine or otherwise) and no punishment for disobedience to the order is otherwise provided by this Act, every person disobeying the order commits an offence against this Act.
+(2) Where any order is made under this Act by any court directing the execution of any work or the doing of any act (other than the payment of a sum of money under a conviction, whether as a fine or otherwise) and no punishment for disobedience to the order is otherwise provided by this Act, every person disobeying the order commits an offence against this Act.
 (3) Where a person commits a continuing breach of any provision of this Act which is an offence to which this section applies, then, notwithstanding anything in any other Act, a District Court may, on application by the council, grant an injunction restraining the further continuance of the breach by that person.
 (4) An injunction may be granted under subsection (3),—
   (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
@@ -5720,7 +5674,7 @@ A regional council is entitled to retain all infringement fees received by it in
 
 **Recovery of losses incurred by local authorities**
 
-### 706A Report by the Auditor-General on loss incurred by local authority
+### 706A Report by Auditor-General on loss incurred by local authority
 [Repealed]
 
 ### 706B Local authority to respond to Auditor-General
@@ -5791,7 +5745,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707P Establishment of Trust
 [Repealed]
 
-**Transfer of specified assets and specified liabilities to trust**
+**Transfer of specified assets and specified liabilities to Trust**
 
 ### 707Q Preparation of plan for vesting of specified assets and specified liabilities in Trust
 [Repealed]
@@ -5862,7 +5816,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707ZI Special obligation of Trust in relation to carrying out of its work and functions
 [Repealed]
 
-**Functions of trust**
+**Functions of Trust**
 
 ### 707ZJ Functions of Trust
 [Repealed]
@@ -5929,7 +5883,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707ZVA Power of Auckland Regional Council to rate in respect of retained liabilities
 [Repealed]
 
-**Community trust**
+**Community Trust**
 
 ### 707ZW Establishment of Community Trust
 [Repealed]
@@ -6028,7 +5982,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707ZZZA Contents of Infrastructure Auckland deed
 [Repealed]
 
-### 707ZZZB Longterm funding plan
+### 707ZZZB Long-term funding plan
 [Repealed]
 
 ### 707ZZZC Proceedings of Infrastructure Auckland
@@ -6097,7 +6051,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707ZZZU Expiry
 [Repealed]
 
-**Dissolution of regional treasury management limited**
+**Dissolution of Regional Treasury Management Limited**
 
 ### 707ZZZV Dissolution of Regional Treasury Management Limited
 [Repealed]
@@ -6139,7 +6093,7 @@ A regional council is entitled to retain all infringement fees received by it in
 ### 707ZZZZG Chairperson of Infrastructure Auckland
 [Repealed]
 
-## Part 44D — Westport harbour
+## Part 44D — Westport Harbour
 
 ### 707ZZZZH Harbour assets vested in Buller District Council
 [Repealed]
@@ -6254,7 +6208,7 @@ A regional council is entitled to retain all infringement fees received by it in
 
 ## Schedule 1A — Classes of local authorities for the purposes of sections 214 to 214M
 
-## Schedule 2 — Matters which (where applicable) Local Government Commission shall provide for in reorganisation scheme in addition to matters specified in section 35(1)
+## Schedule 2 — Matters which (where applicable) Local Government Commission shall provide for in scheme in addition to matters specified in section 35(1)
 
 ## Schedule 3 — Payments on transfer of trading undertaking from a territorial authority to a regional or united council
 
@@ -6262,7 +6216,7 @@ A regional council is entitled to retain all infringement fees received by it in
 
 ## Schedule 3B — Provisions for giving effect to reorganisation schemes
 
-## Schedule 4 — Declaration by major or chairperson or member
+## Schedule 4 — Declaration by mayor or chairperson or member
 
 ## Schedule 4A — Classes of local authorities for the purposes of Part 4C
 
@@ -6280,29 +6234,29 @@ A regional council is entitled to retain all infringement fees received by it in
 
 ## Schedule 7
 
-| Tax area | Component districts ((D) indicates the distribution authority) |
-| --- | --- |
-| 1. Northland | Far North DistrictWhangarei District (D)Kaipara District |
-| 2. Auckland | Auckland |
-| 3. Waikato–Coromandel | Waikato DistrictHamilton City (D)Thames-Coromandel DistrictHauraki DistrictMatamata-Piako DistrictSouth Waikato DistrictWaipa District |
-| 4. Bay of Plenty | Western Bay of Plenty DistrictTauranga DistrictRotorua District (D)Whakatane DistrictKawerau DistrictOpotiki DistrictTaupo District |
-| 5. King Country | Otorohanga District (D)Waitomo DistrictRuapehu District |
-| 6. Taranaki | New Plymouth District (D)Stratford DistrictSouth Taranaki District |
-| 7. Wanganui | Wanganui District (D)Rangitikei District |
-| 8. Manawatu | Palmerston North City (D)Manawatu DistrictHorowhenua District |
-| 9. East Coast | Gisborne District (D)Wairoa District |
-| 10. Hawke's Bay | Napier City (D)Hastings DistrictCentral Hawke's Bay DistrictTararua District |
-| 11. Wairarapa | Masterton District (D)Carterton DistrictSouth Wairarapa District |
-| 12. Wellington–Hutt Valley | Kapiti Coast DistrictPorirua CityWellington City (D)Lower Hutt CityUpper Hutt City |
-| 13. Nelson | Nelson City (D)Tasman District |
-| 14. Marlborough | Marlborough District (D)Kaikoura District |
-| 15. West Coast | Buller DistrictGrey District (D)Westland District |
-| 16. North Canterbury | Hurunui DistrictWaimakariri District (D) |
-| 17. Christchurch | Christchurch City (D)Banks Peninsula DistrictSelwyn District |
-| 18. South Canterbury | Ashburton DistrictTimaru District (D)MacKenzie DistrictWaimate District |
-| 19. Coastal Otago | Waitaki DistrictDunedin City (D)Clutha District |
-| 20. Central Otago | Central Otago District (D)Queenstown-Lakes District |
-| 21. Southland | Southland DistrictInvercargill City (D)Gore District. |
+| Tax area |  | Component districts((D) indicates the distribution authority) |
+| --- | --- | --- |
+| 1 | Northland | Far North DistrictWhangarei District (D)Kaipara District |
+| 2 | Auckland | Auckland (D) |
+| 3 | Waikato–Coromandel | Waikato DistrictHamilton City (D)Thames-Coromandel DistrictHauraki DistrictMatamata-Piako DistrictSouth Waikato DistrictWaipa District |
+| 4 | Bay of Plenty | Western Bay of Plenty DistrictTauranga DistrictRotorua District (D)Whakatane DistrictKawerau DistrictOpotiki DistrictTaupo District |
+| 5 | King Country | Otorohanga District (D)Waitomo DistrictRuapehu District |
+| 6 | Taranaki | New Plymouth District (D)Stratford DistrictSouth Taranaki District |
+| 7 | Wanganui | Wanganui District (D)Rangitikei District |
+| 8 | Manawatu | Palmerston North City (D)Manawatu DistrictHorowhenua District |
+| 9 | East Coast | Gisborne District (D)Wairoa District |
+| 10 | Hawke's Bay | Napier City (D)Hastings DistrictCentral Hawke's Bay DistrictTararua District |
+| 11 | Wairarapa | Masterton District (D)Carterton DistrictSouth Wairarapa District |
+| 12 | Wellington–Hutt Valley | Kapiti Coast DistrictPorirua CityWellington City (D)Lower Hutt CityUpper Hutt City |
+| 13 | Nelson | Nelson City (D)Tasman District |
+| 14 | Marlborough | Marlborough District (D)Kaikoura District |
+| 15 | West Coast | Buller DistrictGrey District (D)Westland District |
+| 16 | North Canterbury | Hurunui DistrictWaimakariri District (D) |
+| 17 | Christchurch | Christchurch City (D)Selwyn District |
+| 18 | South Canterbury | Ashburton DistrictTimaru District (D)MacKenzie DistrictWaimate District |
+| 19 | Coastal Otago | Waitaki DistrictDunedin City (D)Clutha District |
+| 20 | Central Otago | Central Otago District (D)Queenstown-Lakes District |
+| 21 | Southland | Southland DistrictInvercargill City (D)Gore District. |
 
 ## Schedule 8 — Notice of imposition or alteration of local authorities fuel tax
 
@@ -6323,23 +6277,23 @@ The council shall prepare a plan of the road proposed to be stopped, together wi
 On receipt of the Chief Surveyor's notice of approval and plan number the council shall open the plan for public inspection at the office of the council, and the council shall at least twice, at intervals of not less than 7 days, give public notice of the proposals and of the place where the plan may be inspected, and shall in the notice call upon persons objecting to the proposals to lodge their objections in writing at the office of the council on or before a date to be specified in the notice, being not earlier than 40 days after the date of the first publication thereof. The council shall also forthwith after that first publication serve a notice in the same form on the occupiers of all land adjoining the road proposed to be stopped or any new road proposed to be made in lieu thereof, and, in the case of any such land of which the occupier is not also the owner, on the owner of the land also, so far as they can be ascertained.
 
 ### 3
-A notice of the proposed stoppage, shall during the period between the first publication of the notice and the expiration of the last day for lodging objections as aforesaid be kept fixed in a conspicuous place at each end of the road proposed to be stopped:
-Provided that the council shall not be deemed to have failed to comply with the provisions of this clause in any case where any such notice is removed without the authority of the council, but in any such case the council shall, as soon as conveniently may be after being informed of the unauthorised removal of the notice, cause a new notice complying with the provisions of this clause to be affixed in place of the notice so removed and to be kept so affixed for the period aforesaid.
+A notice of the proposed stoppage shall during the period between the first publication of the notice and the expiration of the last day for lodging objections as aforesaid be kept fixed in a conspicuous place at each end of the road proposed to be stopped:
+provided that the council shall not be deemed to have failed to comply with the provisions of this clause in any case where any such notice is removed without the authority of the council, but in any such case the council shall, as soon as conveniently may be after being informed of the unauthorised removal of the notice, cause a new notice complying with the provisions of this clause to be affixed in place of the notice so removed and to be kept so affixed for the period aforesaid.
 
 ### 4
-If no objections are received within the time limited as aforesaid, the council may by public notice declare that the road is stopped; and the road shall, subject to the council's compliance with clause 9 of this Schedule, thereafter cease to be a road.
+If no objections are received within the time limited as aforesaid, the council may by public notice declare that the road is stopped; and the road shall, subject to the council's compliance with clause 9, thereafter cease to be a road.
 
 ### 5
 If objections are received as aforesaid, the council shall, after the expiration of the period within which an objection must be lodged, unless it decides to allow the objections, send the objections together with the plans aforesaid, and a full description of the proposed alterations to the Environment Court.
 
 ### 6
-The Environment Court shall consider the district plan, the plan of the road proposed to be stopped, the council's explanation under clause 1 of this Schedule, and any objection made thereto by any person, and confirm, modify, or reverse the decision of the council which shall be final and conclusive on all questions.
+The Environment Court shall consider the district plan, the plan of the road proposed to be stopped, the council's explanation under clause 1, and any objection made thereto by any person, and confirm, modify, or reverse the decision of the council which shall be final and conclusive on all questions.
 
 ### 7
 If the Environment Court reverses the decision of the council, no proceedings shall be entertained by the Environment Court for stopping the road for 2 years thereafter.
 
 ### 8
-If the Environment Court confirms the decision of the council, the council may declare by public notice that the road is stopped; and the road shall, subject to the council's compliance with clause 9 of this Schedule, thereafter cease to be a road.
+If the Environment Court confirms the decision of the council, the council may declare by public notice that the road is stopped; and the road shall, subject to the council's compliance with clause 9, thereafter cease to be a road.
 
 ### 9
 Two copies of that notice and of the plans hereinbefore referred to shall be transmitted by the council for record in the office of the Chief Surveyor of the land district in which the road is situated, and no notice of the stoppage of the road shall take effect until that record is made.
@@ -6349,12 +6303,12 @@ The Chief Surveyor shall allocate a new description of the land comprising the s
 
 ### 11
 The council may, subject to such conditions as it thinks fit (including the imposition of a reasonable bond), and after consultation with the Police and the Ministry of Transport, close any road or part of a road to all traffic or any specified type of traffic (including pedestrian traffic)—
-(a) while the road, or any drain, water race, pipe, or apparatus under, upon, or over the road, is being constructed or repaired; or
+(a) while the road, or any drain, water race, pipe, or apparatus under, upon, or over the road is being constructed or repaired; or
 (b) where, in order to resolve problems associated with traffic operations on a road network, experimental diversions of traffic are required; or
 (c) during a period when public disorder exists or is anticipated; or
 (d) when for any reason it is considered desirable that traffic should be temporarily diverted to other roads; or
 (e) for a period or periods not exceeding in the aggregate 31 days in any year for any exhibition, fair, show, market, concert, film-making, race or other sporting event, or public function:
-Provided that no road may be closed for any purpose specified in paragraph (e) if that closure would, in the opinion of the council, be likely to impede traffic unreasonably.
+provided that no road may be closed for any purpose specified in paragraph (e) if that closure would, in the opinion of the council, be likely to impede traffic unreasonably.
 
 ### 11A
 The council shall give public notice of its intention to consider closing any road or part of a road under clause 11(e); and shall give public notice of any decision to close any road or part of a road under that provision.
@@ -6370,25 +6324,25 @@ Where any road or part of a road is closed under clause 11(e), the road or part 
 (d)
 (e) the Transport (Vehicle Registration and Licensing) Notice 1986:
 (ea) the Land Transport Act 1998:
-(f) Any enactment made in substitution for any enactment referred to in paragraphs (a) to (ea)—
+(f) any enactment made in substitution for any enactment referred to in paragraphs (a) to (ea)—
 
 ### 12
-The powers conferred on the council by clause 11 (except paragraph (e)) may be exercised by the Chairman on behalf of the council or by any officer of the council authorised by the council in that behalf.
+The powers conferred on the council by clause 11 (except paragraph (e)) may be exercised by the chairman on behalf of the council or by any officer of the council authorised by the council in that behalf.
 
 ### 13
-Where it appears to the council that owing to climatic conditions the continued use of any road in a rural area, other than a State highway or Government road, not being a road generally used by motor vehicles for business or commercial purposes or for the purpose of any public work, may cause damage to the road, the council may by resolution prohibit, either conditionally or absolutely, the use of that road by motor vehicles or by any specified class of motor vehicle for such period as the council considers necessary.
+Where it appears to the council that owing to climatic conditions the continued use of any road in a rural area, other than a State highway or government road, not being a road generally used by motor vehicles for business or commercial purposes or for the purpose of any public work, may cause damage to the road, the council may by resolution prohibit, either conditionally or absolutely, the use of that road by motor vehicles or by any specified class of motor vehicle for such period as the council considers necessary.
 
 ### 14
-Where a road is closed under clause 13 of this Schedule, an appropriate notice shall be posted at every entry to the road affected, and shall also be published in a newspaper circulating in the district.
+Where a road is closed under clause 13, an appropriate notice shall be posted at every entry to the road affected, and shall also be published in a newspaper circulating in the district.
 
 ### 15
-A copy of every resolution made under clause 13 of this Schedule shall, within 1 week after the making thereof, be sent to the Minister of Transport, who may at any time, by notice to the council, disallow the resolution, in whole or in part, and thereupon the resolution, to the extent that it has been disallowed, shall be deemed to have been revoked.
+A copy of every resolution made under clause 13 shall, within 1 week after the making thereof, be sent to the Minister of Transport, who may at any time, by notice to the council, disallow the resolution, in whole or in part, and thereupon the resolution, to the extent that it has been disallowed, shall be deemed to have been revoked.
 
 ### 16
 No person shall—
-(a) use a vehicle, or permit a vehicle to be used, on any road which is for the time being closed for such vehicles pursuant to clause 11 of this Schedule; or
-(aa) without the consent of the council or the promoter of any activity permitted by the council, enter or attempt to enter, or be present, on any road or part of a road that is for the time being closed to pedestrian traffic pursuant to clause 11 of this Schedule; or
-(b) use a motor vehicle, or permit a motor vehicle to be used, on any road where its use has for the time being been prohibited by a resolution under clause 13 of this Schedule.
+(a) use a vehicle, or permit a vehicle to be used, on any road which is for the time being closed for such vehicles pursuant to clause 11; or
+(aa) without the consent of the council or the promoter of any activity permitted by the council, enter or attempt to enter, or be present, on any road or part of a road that is for the time being closed to pedestrian traffic pursuant to clause 11; or
+(b) use a motor vehicle, or permit a motor vehicle to be used, on any road where its use has for the time being been prohibited by a resolution under clause 13.
 
 ## Schedule 11 — Width of roads, access ways, and service lanes
 
@@ -6417,13 +6371,13 @@ At that meeting the council may, after considering all such objections, resolve 
 ### 7
 The council shall publicly notify the level so fixed, and shall in the notice refer to a plan to be deposited at the office of the council, and to be open for inspection.
 
-## Schedule 14 — Provisions as to constructing or maintaining waterworks, drainage works, trade wastes systems, and drainage channels, and laying gas pipes or electricity cables, and erecting poles on roads and works not under the control of the Council
+## Schedule 14 — Provisions as to constructing or maintaining waterworks, drainage works, trade wastes systems, and drainage channels, and laying gas pipes or electricity cables, and erecting poles on roads and works not under the control of the council
 
 ### 1
 Before interfering with any road or other work that is not under the control of the council for the purposes of constructing or maintaining waterworks or drainage works or trade wastes systems or drainage channels, or laying gas pipes, or electricity cables, or erecting poles, the council shall give not less than 1 month's notice in writing to the local authority or body having control of the road or work.
 
 ### 2
-If that local authority or body objects to the interference, the matter shall be referred to a District Court, and the decision of the Court shall be final.
+If that local authority or body objects to the interference, the matter shall be referred to a District Court, and the decision of the court shall be final.
 
 ### 3
 The council may at any time interfere with the road or work, so far as may be necessary to effect all necessary repairs in the waterworks or drainage works or trade wastes systems or drainage channels or gas pipes or electricity cables or poles, on giving to that local authority or body not less than 3 days' previous notice in writing of its intention to do so.
@@ -6432,7 +6386,7 @@ The council may at any time interfere with the road or work, so far as may be ne
 In any sudden emergency or danger to the waterworks or drainage works or trade wastes systems or drainage channels or gas pipes or electricity cables or poles or property adjoining, the council may, without any previous notice, proceed to effect the necessary repairs, but shall as soon as practicable thereafter inform the local authority or body.
 
 ### 5
-The provisions of this Schedule shall, in relation to any public work that is a government work to which section 241 applies, be read subject to that section.
+The provisions of this schedule shall, in relation to any public work that is a government work to which section 241 applies, be read subject to that section.
 
 ## Schedule 15 — Conditions as to use of buildings for public meetings, and for other purposes
 
@@ -6447,6 +6401,961 @@ The provisions of this Schedule shall, in relation to any public work that is a 
 ## Schedule 18 — Enactments amended
 
 ## Schedule 19 — Enactments repealed
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act (No 3) 1977, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) This Act shall come into force on 1 April 1978.
+
+## Part 2 — Miscellaneous provisions
+
+### 9 Transitional provisions
+(1) Every region constituted under the principal Act existing at the commencement of this Act shall be deemed to be a region constituted under Part 2 of the principal Act (as substituted by section 2 of this Act).
+(2) The combining of 2 or more constituent authorities of a united council made under section 43(3) of the principal Act and in force at the commencement of this Act shall continue in force for the purposes of the principal Act as if it had been made under the said Part 2 of the principal Act.
+(3) Every district of a territorial authority existing at the commencement of this Act shall be deemed to be a district constituted under the said Part 2 of the principal Act.
+(4) With respect to the enactments repealed by section 8(1), the following provisions shall apply:
+  (a) the Corporation of each district as subsisting at the commencement of this Act shall be the same Corporation under the principal Act, and, subject to the provisions of the principal Act as amended by this Act, shall retain its property and liabilities and powers, and all existing contracts (including contracts of service) and engagements of the Corporation shall be enforceable by and against it:
+  (b) every council shall continue to have control over all property previously controlled by it:
+  (c) until the first election or appointment of members of a council under Part 3 of the principal Act (as enacted by section 2 of this Act), the number of such members fixed by any law in force immediately before the commencement of this Act for each district and the respective wards thereof respectively, shall remain unaltered.
+(5) Every person who immediately before the commencement of this Act was the holder of the office of—shall, unless his office is sooner vacated for any reason, continue to hold that office until his successor is elected or appointed and comes into office:
+  (a) mayor or deputy mayor of a borough pursuant to the Municipal Corporations Act 1954; or
+  (b) chairman of a town district pursuant to the Municipal Corporations Act 1954; or
+  (c) chairman or deputy chairman of a county pursuant to the Counties Act 1956; or
+  (d) chairman or deputy chairman of a regional council or united council pursuant to the principal Act; or
+  (e) chairman or deputy chairman or mayor or deputy mayor, as the case may be, of a district council pursuant to the principal Act; or
+  (f) chairman or deputy chairman of a community council or district community council pursuant to the principal Act—
+  provided that notwithstanding the repeal of sections 67 and 77 of the Counties Act 1956 by section 8(1) of this Act, subsection (1) of the said section 67 and the said section 77 shall continue to apply until the date of the first general election of members of local authorities held after the commencement of this Act.
+(6) Every reference to the Corporation of a borough or city under the style of “The Mayor, Councillors, and Citizens of the Borough (or City) of [name]” in any Act, regulation, order, or bylaw, or in any agreement, deed, instrument, certificate of title, application, notice, or document whatsoever, shall, after the commencement of this Act, be read as a reference to that Corporation under the style of “The [name of borough or city] Borough (or City) Council”.
+(7) Every reference to the Corporation of a county under the style of “The Chairman, Councillors and Inhabitants of the County of [name of county]” in any Act, regulation, order, or bylaw, or in any agreement, deed, instrument, certificate of title, application, notice, or document whatsoever, shall, after the commencement of this Act, be read as a reference to that Corporation under the style of “The [name of county] County Council”.
+(8) Every reference to the Corporation of the district of a district council under the style of “The Mayor (or Chairman), Councillors and Citizens (or Inhabitants) of the District of [name]” in any Act, regulation, order, or bylaw, or in any agreement, deed, instrument, certificate of title, application, notice, or document whatsoever, shall, after the commencement of this Act, be read as a reference to that Corporation under the style of “The [name of district] District Council”.
+(9) Every reference to the Corporation of a town district under the style of “The Chairman, Councillors, and Citizens of the Town District of [name]” in any Act, regulation, order, or bylaw, or in any agreement, deed, instrument, certificate of title, application, notice, or document whatsoever, shall, after the commencement of this Act, be read as a reference to that corporation under the style of “The [name] Town Council”.
+(10) Every city existing immediately before the commencement of this Act shall continue to be a city as if it had been proclaimed as such under section 51 of the principal Act (as enacted by section 2 of this Act).
+(11) Every ward of a borough or of the district of a district council existing at the commencement of this Act is hereby declared to be a ward of that borough or district under the principal Act.
+(12) Every riding of a county or of the district of a district council existing at the commencement of this Act is hereby declared to be a riding of that county or district under the principal Act.
+(13) Every division of a district for financial purposes existing at the commencement of this Act is hereby declared to be a division of the district for financial purposes under the principal Act.
+(14) Every community constituted or deemed to be a community under the principal Act and existing immediately before the commencement of this Act shall be deemed to be a community constituted under Part 2 of the principal Act (as substituted by section 2 of this Act).
+(15) Commissioners of any Depreciation Fund appointed under Part 11 of the Municipal Corporations Act 1954 or Part 11 of the Counties Act 1956 and holding office immediately before the commencement of this Part of this Act shall, notwithstanding the repeal of those Parts by section 8(1) of this Act, but subject to section 213 of the principal Act (as enacted by section 2 of this Act), continue in office as Commissioners of that Depreciation Fund after the commencement of this Act, and sections 131 to 139 of the Municipal Corporations Act 1954 or, as the case may be, sections 155 to 163 of the Counties Act 1956 shall continue to apply with respect to that Depreciation Fund and those Commissioners as if they had not been repealed.
+(16) Every reference in any other Act to a county borough or a county borough council or to a county town or a county town committee shall, after the commencement of this Act, be read as a reference to a community or, as the case may be, to a district community council or community council, as the case may require.
+(17) Every reference to the town clerk or county clerk in any other Act or in any regulation, order, or bylaw, or in any agreement, deed, instrument, application, notice, or document in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the principal administrative officer.
+(18) Every special order made under any enactment repealed by this Act and in force at the commencement of this Act shall continue in force after the commencement of this Act, as if it had been made under the corresponding provision of the principal Act as enacted by section 2 of this Act.
+(19) Every reference to sanitary drainage or to a sanitary drain in any provision of the Municipal Corporations Act 1954 or the Counties Act 1956 that is in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to sewerage drainage or, as the case may be, to a sewerage drain.
+(20) Every reference to the General and Separate Rates and General Appropriations Account in any Act, regulation, order, rule, bylaw, book, account, or document whatsoever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Rates and Appropriations Account.
+(21) The Local Government Accounting Regulations 1974 (SR 1974/83) and the Local Government Accounting Regulations 1974, Amendment No 1 (SR 1976/298), shall continue in force after the commencement of this Act as if they had been made under section 639 of the principal Act (as renumbered by section 6(1) of this Act).
+(22) The Local Government (Remuneration and Allowances) Order 1977 (SR 1977/304) shall have effect after the commencement of this Act as if it were a notice issued by the Minister under section 214 of the principal Act (as enacted by section 2 of this Act). In clause 5 of that order the term committee includes and shall be deemed always to have included a subcommittee appointed by a territorial authority or by any committee of a territorial authority.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1978, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) This section and section 307 of the principal Act (as enacted by section 2 of this Act) shall come into force on the date on which this Act receives the Governor-General's assent.
+(3) Subsections (2) and (5) of section 312 of the principal Act (as enacted by section 2 of this Act) shall be deemed to have come into force on 1 June 1978.
+(4) Except as provided in subsections (2) and (3), this Act shall come into force on 1 April 1979.
+
+## Part 2 — Miscellaneous provisions
+
+### 4 Repeals and savings
+(1) The enactments specified in Schedule 3 are hereby repealed.
+(2)
+(3) The Local Authorities (Prohibiting Liquor in Streets and Roads) Regulations 1975 (SR 1975/268) shall continue in force after the commencement of this Act as if they had been made pursuant to section 343 of the principal Act (as enacted by section 2 of this Act).
+(4) All other regulations in force at the commencement of this Act pursuant to any enactment repealed by subsection (1) shall continue in force after the commencement of this Act as if they had been made under the corresponding provisions of the principal Act (as enacted by section 2).
+(5) For the purposes of the Acts Interpretation Act 1924—
+  (a) Parts 2 to 17 of the principal Act (as enacted by section 2 of the Local Government Amendment Act (No 3) 1977) shall be deemed to be an Act consolidating the enactments repealed by section 8(1) of that Act:
+  (b) Parts 18 to 22 of the principal Act (as enacted by section 2 of this Act) shall be deemed to be an Act consolidating the enactments repealed by subsection (1) of this section.
+(6) Every reference to any provisions of the Municipal Corporations Act 1954 or the Counties Act 1956 or of any amendment of either of those Acts repealed by this section for which there is a corresponding provision in any Part of the principal Act substituted by section 2 of this Act shall, after the commencement of this Act, be read as a reference to that corresponding provision.
+(7) Every special order made under any enactment repealed by this Act and in force at the commencement of this Act shall continue in force after the commencement of this Act, as if it had been made under the corresponding provision of the principal Act as enacted by section 2 of this Act.
+(8) Amendment(s) incorporated in the Act(s).
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1979, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Section 7(1) and Schedule 2, so far as they relate to sections 42, 43, and 44 of the principal Act, and section 7(2) of this Act shall be deemed to have come into force on 1 November 1979.
+(3) Section 4 and, except as provided in subsection (2), section 7 and Schedule 2 shall come into force on the date on which it is assented to by His Excellency the Governor-General.
+(4) Subject to subsections (2) and (3), this Act shall come into force on 1 April 1980.
+
+## Part 2 — Miscellaneous provisions
+
+### 7 Miscellaneous amendments of principal Act
+(1) The principal Act is hereby further amended in the manner indicated in Schedule 2.
+(2) Notwithstanding the amendments to sections 43(1), 44(1), and 44(3) of the principal Act specified in Schedule 2, sections 43(1), 44(1), and 44(3) of the principal Act as in force immediately before the commencement of this subsection shall continue in force, as if they had not been so amended, for the purpose of the first triennial general election of members of the Auckland Regional Authority to be held after the commencement of this subsection.
+
+### 9 Repeals and revocations
+(1) The enactments specified in Schedule 4 are hereby repealed.
+(2) The Access Ways and Service Lanes Formation Contracts Notice 1966 (SR 1966/143) is hereby revoked.
+(3) The following regulations are hereby revoked:
+  (a) Parts 3 and 3A of the Municipal Corporations Regulations 1956 (SR 1956/112):
+  (b) regulations 3 and 4 of the Municipal Corporations Regulations 1956, Amendment No 3 (SR 1969/90):
+  (c) the Counties (Pedestrian Malls) Regulations 1969 (SR 1969/86).
+(4) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that—
+  (a) the repeal, by section 4(1) of the Local Government Act 1978, of section 43 of the Counties Amendment Act 1961 shall not affect the amendments made by the said section 43 to the Land Transfer Act 1952:
+  (b) the repeal of the Counties Amendment Act 1972 shall not affect the amendments made by section 8 of that Act to the enactments specified in Schedule 2 of that Act:
+  (c) the repeal of the Counties Amendment Act 1974 shall not affect the amendments made by section 9(2) of that Act to the enactments specified in Part 2 of Schedule 2 of that Act:
+  (d) the repeal of the Counties Amendment Act 1976 shall not affect the amendment made by section 10 of that Act to section 80(1) of the Counties Amendment Act 1961:
+  (e) the repeal of the Municipal Corporations Act 1954 shall not affect the amendments made by section 413(6) of that Act.
+(5) Notwithstanding the repeal of section 44 of the Counties Amendment Act 1961, that section shall continue to apply, as if it had not been repealed, to the reserves to which it applied immediately before the commencement of this Act.
+(6) Notwithstanding the repeal by section 4(1) of the Local Government Amendment Act 1978 of section 353 of the Municipal Corporations Act 1954, the said section 353 shall apply and be deemed to have continued to apply, as if it had not been repealed, to the reserves to which it applied immediately before the commencement of the Local Government Amendment Act 1978.
+(7) Where land that vested in Her Majesty under section 12 of the Land Subdivision in Counties Act 1946 as Crown land available for disposal under the Land Act 1948 is sold on deferred-payment licence under the last-mentioned Act, there may, if the Minister of Lands so directs, be paid from the Public Account to the appropriate territorial authority, without further appropriation than this subsection, an amount equal to the purchase price or balance of the purchase price payable under the deferred-payment licence.
+(8) Notwithstanding the repeal by section 4(1) of the Local Government Amendment Act 1978 of sections 125 to 127 of the Public Works Act 1928, the said sections 125 to 127 shall apply and be deemed to have continued to apply, as if they had not been repealed, to the land to which they applied immediately before the commencement of the Local Government Amendment Act 1978:
+  provided that the said sections 125 to 127 shall not apply and shall be deemed not to have continued to apply in the case of a subdivision to which Parts 20 and 21 of the principal Act apply or have applied.
+(9)
+
+### 10 Transitional provisions
+(1) For the purposes of the Acts Interpretation Act 1924,—
+  (a) Parts 2 to 17 of the principal Act (as enacted by section 2 of the Local Government Amendment Act (No 3) 1977) shall be deemed to be a consolidation of the enactments repealed by section 8(1) of the last-mentioned Act:
+  (b) Parts 23 to 45 of the principal Act (as enacted by section 2 of this Act) shall be deemed to be a consolidation of the enactments repealed by section 9(1).
+(2) All regulations, orders, bylaws, and notices in force at the commencement of this Act pursuant to any enactment repealed by section 9(1) which could have been made or given under any provision of the principal Act enacted by section 2 shall continue in force after the commencement of this Act as if they had been made or given under the corresponding provisions of the principal Act (as enacted by section 2).
+(3) Every special order made under any enactment repealed by section 9(1) and in force at the commencement of this Act which could have been made under any provision of the principal Act enacted by section 2 shall continue in force after the commencement of this Act as if it had been made under the corresponding provision of the principal Act (as enacted by section 2).
+(4) Every reference to any provision of the Municipal Corporations Act 1954 or the Counties Act 1956 or of any amendment of either of those Acts repealed by section 9(1) of this Act for which there is a substantially corresponding provision in any Part of the principal Act substituted by section 2 shall, after the commencement of this Act, be read as a reference to that corresponding provision.
+(5) Every community centre district constituted under section 47 of the Counties Amendment Act 1971 and in existence at the commencement of this Act shall be deemed to be a community centre area constituted under section 606 of the principal Act (as enacted by section 2).
+(6) Every reference to a boardinghouse in any bylaw in force at the commencement of this Act made by a territorial authority pursuant to section 317A of the Municipal Corporations Act 1954 (as inserted by section 26(1) of the Municipal Corporations Amendment Act 1968) or to section 334A of the Counties Act 1956 (as inserted by section 25(1) of the Counties Amendment Act 1968) shall after the commencement of this Act be read as a reference to a residential institution, as defined by section 636 of the principal Act (as enacted by section 2).
+(7) Every reference in any of the Acts specified in Schedule 17 of the principal Act (as inserted by section 6 of this Act), or in any regulation, rule, order, notice, bylaw, agreement, deed, instrument, application, or other document whatsoever made or given pursuant to any such Act and in force at the commencement of this Act—
+  (a) to the Minister of Internal Affairs shall, after the commencement of this Act, be read as a reference to the Minister of Local Government:
+  (b) to the Secretary for Internal Affairs shall, after the commencement of this Act, be read as a reference to the Secretary for Local Government.
+(8) Every urban drainage area in existence at the commencement of this Act constituted pursuant to Part 17 of the Counties Act 1956 shall, after the commencement of this Act, be deemed to be an urban drainage area constituted under section 443 of the principal Act (as enacted by section 2).
+(9) Without limiting the provisions of the Acts Interpretation Act 1924, all contracts lawfully entered into by the Waitemata City Council pursuant to the Waitemata City (Passenger Transport) Act 1979 shall, notwithstanding the repeal of that Act, continue in force and have effect after the commencement of this section according to their tenor.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1985, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as provided in section 38(6), this Act shall come into force on the day after the date on which it receives the Governor-General's assent.
+
+### 18 Savings and revocations
+(1) Notwithstanding sections 214 to 214M of the principal Act (as inserted by section 16) and the amendments made by section 39 of this Act, every Order in Council, notice, or other document determining the allowances or remuneration of any person whose allowances or remuneration are to be determined in accordance with this Act shall continue in force until the allowances or remuneration are determined in accordance with this Act, and shall then expire.
+(2) Any determination under section 214A, section 214B, or section 214C of the principal Act may revoke any Order in Council, notice, determination, or other document that has expired in accordance with subsection (1) or that will expire on the coming into force of the determination.
+
+### 38 Municipal Association Act 1939 and New Zealand Counties Association Act 1949 repealed
+(1) The Municipal Association Act 1939 and the New Zealand Counties Association Act 1949 are hereby repealed.
+(2) The Municipal Association of New Zealand Incorporated and the New Zealand Counties Association Incorporated shall each have the power to transfer to any society incorporated under the Incorporated Societies Act 1908 their assets, rights, and liabilities.
+(3) All proceedings pending by or against the Municipal Association of New Zealand or the New Zealand Counties Association Incorporated may be carried on, completed, and enforced by or against the appropriate society to which the assets, rights, and liabilities have been transferred under subsection (2).
+(4) All money that was or would have been payable to either Association shall be payable to the appropriate society to which assets, rights, and liabilities have been transferred under subsection (2).
+(5) The enactments specified in Schedule 2 are hereby consequentially repealed.
+(6) This section shall come into force on 1 November 1985.
+
+### 1 Short Title
+This Act may be cited as the Local Government Amendment Act 1986, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+
+### 5 Saving in respect of surveys requested before commencement of Act
+Where any certificate under section 28(8) of the principal Act has been received by the Commission before the commencement of this Act, the principal Act and the Local Elections and Polls Act 1976 shall apply in respect of the conduct of the survey as if this Act and the Local Elections and Polls Amendment Act 1986 had not been passed.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1989, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) This Act shall be deemed to have come into force on 19 December 1988.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **draft scheme** means a reorganisation scheme which has not been completed but which, for the purposes of the opportunity granted to the local authorities affected by it to meet with and be heard by the Local Government Commission as required by section 15E(2) of the principal Act, is available to those local authorities in draft form
+  - **final reorganisation scheme** means a final reorganisation scheme that has been given effect to by an Order in Council made under section 36 of the principal Act as if it were a final scheme
+  - **local authority to be formed** means a local authority that, in any draft scheme, is proposed to be formed for the purpose of giving effect to any final reorganisation scheme prepared under section 15B of the principal Act
+  - **senior executive position** , in relation to a local authority to be formed, means—
+  (a) the position of principal administrative officer of that local authority; and
+  (b) any other senior position with that local authority to which, in the opinion of a transitional committee, an appointment should be made before that local authority is formed.
+
+### 3 Transitional committees
+Where a draft scheme or a final reorganisation scheme provides for the appointment of a transitional committee, the local authorities affected by that scheme shall unite in appointing that committee as a joint committee.
+
+### 4 Power to appoint transitional committee
+(1) A transitional committee may be appointed—
+  (a) only where a draft scheme or a final reorganisation scheme so provides; and
+  (b) only in accordance with the provisions of a draft scheme or a final reorganisation scheme and the provisions of this Act.
+(2) Where a local authority fails to unite with others in appointing a transitional committee, the other local authorities may unite in appointing that committee under section 3; and the validity of the appointment and the validity of the actions of the transitional committee shall not be affected by the failure of that local authority to unite with the other local authorities for the purpose of the appointment.
+(3) Every transitional committee is hereby deemed to be a committee of every local authority that is entitled to appoint a member of it.
+
+### 5 Chairperson and deputy chairperson
+(1) A draft scheme or a final reorganisation scheme may provide for the chairperson of a transitional committee to be elected by the voting members of the transitional committee.
+(2) Subject to the draft scheme or the final reorganisation scheme, the voting members of a transitional committee may,—
+  (a) from time to time elect one of its members to be the chairperson of the transitional committee; and
+  (b) from time to time appoint one of its members to be the deputy chairperson of the transitional committee (which deputy chairperson shall act in the absence of the chairperson).
+
+### 6 Membership
+(1) Notwithstanding anything in sections 3 and 5,—
+  (a) the chairperson of the transitional committee may, if the draft scheme or the final reorganisation scheme so provides, be an independent person elected by the voting members of the transitional committee; and
+  (b) the New Zealand Council of Trade Unions may, if the draft scheme or the final reorganisation scheme so provides, appoint 1 member of the transitional committee, which member shall be an employee of a local authority that is entitled to appoint a member of the transitional committee.
+(2) Every appointed member of a transitional committee shall hold office at the pleasure of the body or bodies by which the member was appointed.
+(3) Every chairperson and every deputy chairperson of a transitional committee shall hold office at the pleasure of the voting members of the transitional committee.
+
+### 7 Change in composition of transitional committee
+Where a final reorganisation scheme provides for a change in the composition of a transitional committee, the local authorities affected by that scheme shall vary the membership of the transitional committee accordingly.
+
+### 8 Extraordinary vacancies
+(1) If any member of a transitional committee dies, or resigns, or is removed from office or ceases to hold any qualification necessary for his or her appointment to office as a member of the transitional committee, his or her office shall become vacant and the vacancy shall be deemed to be an extraordinary vacancy.
+(2) Except where a final reorganisation scheme provides for a change in the composition of a transitional committee, an extraordinary vacancy shall be filled in the manner in which the appointment to the vacant office was originally made.
+(3) Notwithstanding subsection (2), where an extraordinary vacancy is not filled forthwith, the transitional committee may, if it considers it appropriate, appoint a person to fill the vacancy in its membership.
+(4) The powers of a transitional committee shall not be affected by any vacancy in its membership.
+
+### 9 Powers of transitional committee
+(1) Subject to section 13, a transitional committee has power to decide any transitional matter relating to a local authority to be formed, which power includes the power—
+  (a) to decide on staffing arrangements and management structures for the local authority to be formed:
+  (b) notwithstanding the Public Bodies Contracts Act 1959, but subject to section 25 of this Act, to appoint persons to positions with the local authority to be formed and to fix the conditions of employment of any such persons:
+  (c) to decide budgeting matters in relation to the local authority to be formed.
+(2) Where the transitional committee appoints a person to a position with the local authority to be formed, the transitional committee shall, until that local authority is formed, be deemed to be the employer of that person.
+(3) Subject to section 13, decisions made under subsection (1) of this section shall be binding on local authorities without the need for any delegation from, or confirmation or ratification by, the local authorities.
+
+### 10 Powers and duties of councils in relation to transitional committee
+(1) Where a draft scheme or a final reorganisation scheme provides for the appointment of a transitional committee, the council of any local authority affected by that scheme—
+  (a) may refer to the transitional committee any matters for consideration or inquiry or management or regulation; and
+  (b) may delegate to the transitional committee any of the powers and duties conferred or imposed upon the council, except—
+    (i) the power to make a rate:
+    (ii) the power to make a bylaw:
+    (iii) the power to institute an action for the recovery of any amount in excess of $500:
+    (iv) the power to borrow money:
+    (v) the power to enter into a contract otherwise than in accordance with the provisions of section 4 of the Public Bodies Contracts Act 1959:
+    (vi) the power to declare a regional road or to vary, alter, or revoke any such declaration:
+    (vii) the power to make assessments upon contributing authorities:
+    (viii) the powers and duties conferred or imposed on the council by the Public Works Act 1981; and
+  (c) shall assist the transitional committee to exercise its powers by providing the transitional committee—
+    (i) with such resources as the transitional committee may reasonably request; and
+    (ii) with such information held by the council as the transitional committee may request.
+(2) Every transitional committee to which any powers or duties are delegated under subsection (1)(b) may, without confirmation by the council, exercise or perform the same in like manner and with the same effect as the council could itself have exercised or performed the same.
+
+### 11 Execution of contracts and other documents
+Every contract that a transitional committee executes on behalf of a local authority to be formed and every other document requiring execution or authorisation by a transitional committee may be signed on behalf of the transitional committee by any 2 members of the transitional committee acting with the authority of the transitional committee.
+
+### 12 Application of other enactments
+(1) Nothing in sections 104 to 106 of the principal Act shall apply in respect of a transitional committee or subcommittee of a transitional committee.
+(2) Subject to subsection (1) and to the other provisions of this Act,—shall, with all necessary modifications, apply in respect of every transitional committee and its members as if the transitional committee had been appointed under section 105 of the principal Act.
+  (a) the provisions of the principal Act; and
+  (b) the provisions of other enactments (including, without limitation, the Local Authorities (Members' Interests) Act 1968, the Ombudsmen Act 1975, and the Local Government Official Information and Meetings Act 1987),—
+
+### 13 Right to object to Local Government Commission against decision of transitional committee
+(1) Two or more members of a transitional committee, being members appointed by different local authorities or different groups of local authorities, may, within 7 days after the making by a transitional committee of a decision under section 9, lodge with the Local Government Commission notice in writing objecting to that decision.
+(2) Every notice under subsection (1)—
+  (a) shall specify—
+    (i) the decision to which the objection relates; and
+    (ii) the grounds of the objection, which grounds shall be specified with such reasonable particularity as to give full advice to the Local Government Commission of the issues involved; and
+  (b) may be accompanied by copies of any relevant documents.
+(3) A decision of a transitional committee under section 9(1)(b) or section 25 may not be the subject of an objection under subsection (1).
+(4) The Local Government Commission shall, after conducting such investigation and consultation (if any) as it considers desirable, issue a written determination upholding or dismissing the objection and that determination shall be final.
+(5) Without limiting the grounds on which the Local Government Commission may uphold an objection, it is hereby declared that the Commission shall uphold an objection where it is satisfied that the decision objected to is not in the best interests of the local authority to be formed.
+(6) A decision in respect of which an objection is lodged under subsection (1) shall remain in full force pending the determination of the objection.
+
+### 14 Power of local authority to reject or vary decision of transitional committee
+(1) Nothing in sections 3 to 13 prevents a local authority to be formed from rejecting or varying any decision of a transitional committee or the Commission once the local authority is formed; but any such decision shall, until rejected or varied, be binding on that local authority as from the date of its formation, as if it were a decision of that local authority.
+(2) The rejection or variation by a local authority of any decision of a transitional committee shall not affect the validity of anything done pursuant to the decision before its rejection or variation.
+
+### 15 Obligation to act in interests of local authority to be formed
+Every member of a transitional committee and every member of any local authority considering any recommendation or decision of a transitional committee shall act in the interests of the local authority to be formed, and no such member shall, in so doing, be in breach of any declaration made by that member under section 103 of the principal Act.
+
+### 16 Administration and costs of transitional committees
+(1) Where a draft scheme or a final reorganisation scheme provides for the appointment or continuance of a transitional committee, that scheme shall designate a principal local authority in respect of the committee, and that local authority shall be responsible for providing administrative services to the transitional committee.
+(2) Subject to section 18, the costs of a transitional committee shall be borne and paid by the local authorities affected by the scheme in accordance with a formula agreed to by the transitional committee or, if there is no such agreement, in accordance with the formula prescribed by the draft scheme or the final reorganisation scheme.
+(3) The costs of a transitional committee include, among other costs,—
+  (a) the costs of providing administrative services to the transitional committee:
+  (b) the costs of the appointment and employment of staff by the transition committee:
+  (ba) the costs of conducting the election of the mayor (if any) and members of the local authority to be formed:
+  (c) the costs of loans raised pursuant to section 17(1):
+  (d) the costs of any remuneration paid to the chairperson of the transitional committee pursuant to section 18(2) and of any travelling allowances and expenses paid to that chairperson pursuant to section 18(4):
+  (e) any costs incurred before the commencement of this Act by any committee acting as a transitional committee in relation to an indicative scheme (being a scheme of that name which was provided for in a document issued by the Local Government Commission and which would have affected any of the local authorities affected by the draft scheme or the final reorganisation scheme).
+(4) Where a dispute arises between 2 or more transitional committees concerning the amount to be included, under subsection (3)(e), as costs of any of those transitional committees, that dispute shall be determined by the Local Government Commission, whose decision shall be final.
+
+### 17 Funding of transitional committees
+(1) A transitional committee may from time to time direct its principal authority to raise a loan, of such amount as the transitional committee shall specify, for the purpose of obtaining money with which to meet transitional costs (including those of the transitional committee) and the principal authority shall comply with any direction so given by the transitional committee.
+(2) Money borrowed pursuant to a direction under subsection (1) shall, if not repaid by the principal authority, be repayable not later than 31 December 1992 by the local authority to be formed.
+(3) Any local authority may make advances to a transitional committee for the purpose of enabling the transitional committee to meet transitional costs.
+(4) Advances made pursuant to subsection (3) shall be made on such terms and conditions as may be agreed between that local authority and the transitional committee, which terms and conditions may include a condition that the advance be free of interest.
+(5) The Local Authorities Loans Act 1956 shall not apply in relation to any loan raised by a principal authority pursuant to a direction under subsection (1).
+
+### 18 Remuneration of members of transitional committees
+(1) Each transitional committee shall have power to set the remuneration of its members.
+(2) The remuneration payable to the chairperson of the transitional committee shall, as the transitional committee determines, be either—
+  (a) an honorarium at such rate as the transitional committee shall determine; or
+  (b) a sum in respect of each day on which the chairperson attends a meeting in his or her capacity as the chairperson of the transitional committee, which sum shall not exceed $150 a day.
+(3) The remuneration payable to each member of a transitional committee (other than the chairperson) and to each deputy of such a member shall be a sum in respect of each day on which the member or deputy attends a meeting in his or her capacity as a member, or deputy of a member, of the transitional committee, which sum shall not exceed $100 a day.
+(4) Where any member of a transitional committee or any deputy of such a member attends any meeting of that committee or, with the authority of the committee, travels in the service of the committee, that member or deputy shall be entitled to receive travelling allowances and expenses as if that member or deputy were a member of the local authority that appointed that member or deputy, and the provisions of the Fees and Travelling Allowances Act 1951 shall apply accordingly.
+(5) Subject to section 16(3)(d), the remuneration and the travelling allowances and expenses payable under this section—
+  (a) shall be payable by the body or bodies that appointed or were entitled to appoint the person as a member of the transitional committee or as a deputy of such a member; and
+  (b) shall be payable irrespective of any other remuneration or allowance or expenses payable to any member of the transitional committee or any deputy of any such member in any other capacity; and
+  (c) shall not affect the entitlement of any member of the transitional committee or any deputy of any such member to remuneration or allowances or expenses as members of any local authority or any other committee of a local authority.
+(6) No ex officio member of a transitional committee and no member of a transitional committee who is not entitled to vote shall be entitled, under or by virtue of this section, to any remuneration.
+
+### 19 Provisions relating to constitution and procedure of transitional committees
+(1) A draft scheme or final reorganisation scheme may provide, in respect of a transitional committee,—
+  (a) for the appointment of ex officio members:
+  (b) that, notwithstanding section 108(5) of the principal Act, a member may have more than 1 vote or a member (including an ex officio member) may not have a vote:
+  (c) that, notwithstanding section 108(6) of the principal Act, the chairperson shall not have a casting vote in the event of an equality of votes:
+  (d) that any or all of the ex officio members and any or all of the members who are not entitled to a vote may be excluded from any meeting or part of a meeting.
+(2) An ex officio member of a transitional committee or a member of a transitional committee who is not entitled to vote may move or second a motion at any meeting of the transitional committee at which the member is present.
+(3) Subject to this Act and the principal Act, every transitional committee may regulate its own procedure.
+
+### 20 Deputies of members
+(1) The body or bodies by which any member of a transitional committee is appointed may from to time by resolution appoint any other person to act as the deputy of that member at any meeting of the committee or of any subcommittee of the transitional committee.
+(2) The deputy of any member of a transitional committee shall have authority to act as a member in the event of the absence of the member from any meeting of the transitional committee or of any subcommittee of the transitional committee.
+(3) Every such deputy shall hold office during the pleasure of the body or bodies by which the deputy was appointed.
+(4) No act done by any deputy appointed under this section in that capacity and no act done by the transitional committee or by any subcommittee of the transitional committee while any such deputy is so acting, shall in any proceedings be questioned on the ground that the occasion for so acting had not arisen or had ceased.
+
+### 21 Subcommittees
+A transitional committee may from time to time appoint subcommittees consisting of 2 or more members of the transitional committee, and every such subcommittee may—
+  (a) inquire into such matters as are referred to it by the transitional committee:
+  (b) report on any such matter to the transitional committee.
+
+### 22 Delegation of functions or powers
+(1) A transitional committee may delegate to any person or to any subcommittee appointed by it any of its functions, duties, or powers, including functions, duties, or powers delegated to the transitional committee:
+  provided that a transitional committee shall not delegate any functions, duties, or powers delegated to it by a local authority without the written consent of the local authority.
+(2) Every delegation under this section shall be in writing.
+(3) No delegation under this section shall include the power to delegate under this section.
+(4) Subject to any general or special directions given or conditions imposed by the transitional committee, the person to whom or the subcommittee to which any functions, duties, or powers are delegated under this section may exercise those functions or powers in the same manner and with the same effect as if they had been conferred on that person or subcommittee directly by this Act and not by delegation.
+(5) Every person or subcommittee purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
+(6) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices.
+(7) No such delegation shall affect or prevent the exercise of any function, duty, or power by the transitional committee, nor shall any such delegation affect the responsibility of the transitional committee for the actions of any person or subcommittee acting under the delegation.
+
+### 23 Revocation of delegations
+(1) Every delegation under section 22 shall be revocable in writing at will.
+(2) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding any changes in the membership of the transitional committee.
+
+### 24 Discharge of transitional committees
+A transitional committee, unless sooner discharged, shall be deemed to be discharged as from the commencement of the first meeting of the council of the new local authority in respect of which the transitional committee was established.
+
+### 25 Special provision in respect of appointment by transitional committee of senior executives of local authority to be formed
+(1) Notwithstanding the Public Bodies Contracts Act 1959 and the fact that a local authority to be formed is not yet a legal entity, where any draft scheme or final reorganisation scheme provides for the constitution of a new local authority, the transitional committee may enter into contracts appointing persons to senior executive positions with the local authority to be formed, and fixing the conditions of employment of those persons.
+(2) The transitional committee shall not enter into a contract under subsection (1) appointing a person to the position of principal administrative officer of the local authority to be formed unless the Remuneration Authority has first agreed in writing to the conditions of that contract which fix the remuneration of that person. In this subsection remuneration has the meaning given to that term by section 2 of the Remuneration Authority Act 1977.
+(3) If the local authority is not formed on terms substantially the same as those set out in the draft scheme, the local authorities that appointed the members of a transitional committee and any other local authorities that were entitled to appoint a member of that committee shall be liable in proportions specified by the transitional committee for the obligations expressed in any such contract to be those of the local authority to be formed.
+(4) Where a contract is entered into under this section and the local authority to be formed is formed on terms substantially the same as those set out in the draft scheme, the local authority so formed shall decide, before 30 June 1990, whether or not to ratify the contract.
+(5) Where a local authority, being a local authority formed on terms substantially the same as those set out in a draft scheme, decides, before 30 June 1990, not to ratify a contract entered into under this section,—
+  (a) the contract shall be cancelled as from the close of that day; and
+  (b) compensation shall be payable to the person appointed to a senior executive position with the new local authority, which compensation shall be an amount equal to 12 months' salary of that person or such lesser amount as may be specified in the contract.
+(6) Every contract entered into under this section shall contain a condition that, if the local authority is not formed on terms substantially the same as those set out in the draft scheme, the contract shall be capable of being cancelled—and, if the contract is so cancelled, the compensation payable to the person appointed as a senior executive of the local authority shall be an amount equal to 12 months' salary of that person or such lesser amount as may be specified in the contract.
+  (a) by the senior executive concerned; or
+  (b) by the transitional committee;—
+(7) Subject to subsection (2), nothing in the Local Authorities (Employment Protection) Act 1963 or the Remuneration Authority Act 1977 shall apply in respect of any person employed under any contract entered into under this section.
+(8) Nothing in this section limits the right of any transitional committee or local authority to dismiss for good cause or in accordance with any contract any person appointed under this section.
+
+### 25A Definitions of former authority and successor authority
+In sections 25B, 25C, 25D, and 25E, unless the context otherwise requires,—
+  - **former authority** means a local authority that is a former authority for the purposes of any Order in Council made under section 36 of the Local Government Act 1974 and giving effect to any final reorganisation scheme prepared under section 15B of the principal Act
+  - **successor authority** means, in respect of any former authority, a local authority constituted by an Order in Council made under section 36 of the Local Government Act 1974 and giving effect to a final reorganisation scheme prepared under section 15B of the principal Act (being an Order in Council in which the former authority is defined as a former authority).
+
+### 25B Special provision in relation to transfer of employees to local authorities to be formed
+(1) Subject to any contract of employment, every employee employed by a former authority as at 31 October 1989 shall be transferred, in accordance with this section, to a successor authority.
+(2) Where there is more than 1 successor authority, the local authority to which an employee is to be transferred pursuant to subsection (1) shall be determined by the principal administrative officers designate of the successor authorities and, in any case where there is no principal administrative officer designate for any such successor authority, the transitional committee of that successor authority shall, for the purposes of this subsection, act in the place of the principal administrative officer designate for that successor authority.
+(3) Where the local authority to which an employee is to be transferred is not determined in accordance with this section before 1 September 1989, the officers or committees charged with determining the matter under subsection (2) shall refer the matter to the Local Government Commission for determination.
+(4) Where a matter is referred to the Commission under subsection (3), the Commission shall, subject to subsection (5), determine the matter not later than 14 October 1989.
+(5) Where the Commission, after considering any matter referred to it under subsection (3), is satisfied that, but for that subsection, the matter could have been determined under subsection (2), the Commission may refer the matter back to the persons charged with determining the matter under subsection (2) and those persons shall determine the matter accordingly. If they fail to do so, the matter shall be determined by the Commission.
+(6) Except as provided in section 37A of the principal Act, the determination of the Commission on any matter referred to it under subsection (3) shall be final.
+
+### 25C Application of Local Authorities (Employment Protection) Act 1963
+(1) Where the provisions of subsections (2) to (6) of section 25B apply in respect of an employee, the successor authority to which that employee is to be transferred shall be determined in accordance with those subsections and not in accordance with subsections (1) and (2) of section 4 and subsections (1) and (2) of section 5 of the Local Authorities (Employment Protection) Act 1963.
+(2) Subject to subsection (1), the Local Authorities (Employment Protection) Act 1963, to the extent that it would otherwise apply, shall have effect in relation to a transfer under subsections (2) to (6) of section 25B as if it were a transfer under the Local Authorities (Employment Protection) Act 1963.
+
+### 25D Terms and conditions of employment of employees transferred
+The terms and conditions of employment of each employee transferred pursuant to section 25B shall, unless varied by agreement, continue until the close of 31 March 1990:
+  provided that every person so transferred shall perform such duties and hold such office as are directed from time to time by the successor authority.
+
+### 25E Continuation and negotiation of awards and agreements
+(1) Notwithstanding the provisions of this Act or any other enactment,—shall, until the close of 31 March 1990, be authorised pursuant to this section to negotiate on behalf of the local authority, awards or agreements in terms of the Labour Relations Act 1987.
+  (a) the principal administrative officer designate of a local authority to be formed under an Order in Council made under section 36 of the principal Act and giving effect to a final reorganisation scheme prepared under section 15B of the principal Act; or
+  (b) after 1 November 1989, any officer authorised pursuant to section 119C(2) of the principal Act,—
+(2) For the purposes of any negotiations undertaken pursuant to subsection (1) before 1 November 1989, every local authority to be formed, as described in the Order in Council, shall, for all the purposes of the Labour Relations Act 1987, be deemed to be an employer and an employer party in terms of that Act, notwithstanding that the local authority has not yet been formed.
+(3) Where, on or after 1 November 1989, any award that binds as a subsequent party any successor authority is current or in force, the following provisions shall apply:
+  (a) the union party to any such award or the successor authority may at any time before 31 March 1990, notwithstanding that negotiations for a new award have not been initiated under the Labour Relations Act 1987, create a dispute of interest to procure an agreement to cover any employees of the successor authority, and section 164 of the Labour Relations Act 1987 shall apply accordingly:
+  (b) notice of claims served under section 164(2) of the Labour Relations Act 1987 (as applied by paragraph (a)) may be served by the union party in its own right or in conjunction with another union or unions:
+  (c) where, in respect of a dispute of interest created pursuant to paragraph (a), a settlement is arrived at and is forwarded to the Arbitration Commission for registration, the Arbitration Commission may register the agreement notwithstanding that section 164(6)(c) of the Labour Relations Act 1987 would apply in relation to the award which binds the relevant successor authority:
+  (d) where the Arbitration Commission registers an agreement in accordance with this subsection, the coverage of any award which then overlaps with the coverage of the agreement shall be deemed to be amended accordingly to prevent the overlapping coverage and, when that award is replaced, any subsequent award shall not be registered if it overlaps in coverage with the coverage of that agreement where that agreement remains in force.
+(4) Notwithstanding any other provisions of this Act or of the Labour Relations Act 1987 or of any other enactment,—
+  (a) every agreement in terms of the Labour Relations Act 1987 relating to the terms and conditions of employment of employees of any former authority and in force immediately before 1 November 1989, shall, unless sooner replaced pursuant to this section, continue to regulate the terms and conditions of employment of those employees and be enforceable under the Labour Relations Act 1987 in respect of those employees against the successor authority until the close of 31 March 1990; and
+  (b) any award limited in coverage to the original parties in terms of section 160(3) of the Labour Relations Act 1987 relating to the terms and conditions of employment of employees of any former authority and in force immediately before 1 November 1989, shall, unless sooner replaced pursuant to this section, continue to regulate the terms and conditions of employment of those employees and be enforceable under the Labour Relations Act 1987 in respect of those employees against the successor authority as if it were an original party until the close of 31 March 1990.
+
+### 26 Continuous service
+For the purposes of section 6 of the Finance Act (No 2) 1941 and for the purposes of the Local Authorities (Employment Protection) Act 1963, where any employee's period of service with a local authority is immediately preceded by a period of service with a transitional committee, that employee's period of service with that local authority shall be deemed to include—
+  (a) that employee's period of service with the transitional committee; and
+  (b) where that employee was employed by a local authority immediately before that employee's period of service with the transitional committee, that employee's period of service with that local authority.
+
+### 26A Continuous service of employees transferred as a result of reorganisation
+(1) The contract of employment of every person, being—shall, for the purposes of every enactment (except the Local Authorities (Employment Protection) Act 1963), and every law, award, determination, contract, and agreement relating to the employment of that person, be deemed not to have been broken by that person's change of employer, and the period of service with the local authority or transitional committee by which the person was employed before he or she became an employee of the new local authority shall be deemed to have been a period of service with the new local authority.
+  (a) a person who is an employee of a local authority and who, pursuant to section 25B, becomes an employee of another local authority; or
+  (b) a person in respect of whom section 26 applies,—
+(2) No person to whom subsection (1) applies shall be entitled to receive any payment or other benefit by reason only of that person ceasing to be an employee of the local authority or transitional committee by which that person was employed before he or she became an employee of the new local authority.
+
+### 26B Conditions of employment of persons employed after 1 November 1989
+Any person who commences employment on or after 1 November 1989 with a local authority constituted by an Order in Council made under section 36 of the Local Government Act 1974 and giving effect to a final reorganisation scheme prepared under section 15B of the principal Act, shall be deemed, for the purpose of determining which award or agreement for the time being regulates the terms and conditions of employment of that person, to have been an employee of the principal authority designated in the final reorganisation scheme and to have been transferred pursuant to section 25B.
+
+### 27 Employment contracts of local authorities
+(1) No local authority that is affected by any draft scheme or final reorganisation scheme shall enter into any contract for the employment of any person as a senior executive employee of, or consultant to, that local authority or any other local authority (whether or not then in existence) unless that contract—
+  (a) does not bind or purport to bind any local authority beyond 30 June 1990; or
+  (b) contains express provisions that the contract may be reviewed before 30 June 1990 by any local authority to be formed that assumes any liability under it and may be cancelled by that local authority without penalty before that date.
+(2) Except as provided in subsections (3), (4), and (6), subsection (1) shall apply in respect of every contract entered into on or after 18 November 1988.
+(3) Nothing in subsection (1) shall affect the rights of any person under sections 3 to 6 of the Local Authorities (Employment Protection) Act 1963, but section 9 of that Act shall apply subject to this section.
+(4) A transitional committee may, in writing, exempt any local authority affected by the draft scheme or the final reorganisation scheme in respect of which the transitional committee is established from the application of subsection (1) in respect of any particular contract where the transitional committee is satisfied—
+  (a) that the exemption is necessary to ensure the proper administration and functioning of the local authority entering into the contract; and
+  (b) that there will not be significant disadvantage to any other local authority (whether or not then in existence); and
+  (c) that, in the particular circumstances of the case, it is reasonable to do so.
+(5) No exemption shall be granted under subsection (4) after the contract to which it relates has been entered into by a local authority.
+(6) This section shall not apply in respect of any contract entered into by a local authority after 31 October 1989.
+
+### 28 Obligation of local authorities to make and levy rates and assessments for full year to 31 March 1990
+(1) Every local authority to which a draft scheme or a final reorganisation scheme relates shall, in respect of the period of 12 months ending with 31 March 1990,—as if the local authority were going to continue to perform all its functions and duties and exercise its powers for the whole of that period.
+  (a) cause estimates to be prepared; and
+  (b) if it ordinarily makes and levies rates, make and levy rates,—
+(2) Notwithstanding anything in sections 121 and 126 of the principal Act, every united council to which a draft scheme or a final reorganisation scheme relates shall, in respect of the period of 13 months ending with 31 March 1990,—as if the united council were going to continue to perform all its functions and duties and exercise its powers for the whole of that period.
+  (a) cause estimates to be prepared under section 121 of the principal Act; and
+  (b) assess, under section 126 of the principal Act, the contributions payable for that period by constituent authorities and other territorial authorities,—
+(3) The Auckland Regional Authority shall, in respect of the financial year ending on 31 March 1990,—as if the Auckland Regional Authority were going to continue to perform all its functions and duties and exercise its powers for the whole of that financial year.
+  (a) prepare, under section 58 of the Auckland Regional Authority Act 1963, an estimate of the estimated expenditure and estimated income of the Auckland Regional Authority; and
+  (b) assess, under section 60 of the Auckland Regional Authority Act 1960, the contributions payable for that financial year by contributing authorities,—
+(4) Every harbour board shall, in respect of the period beginning on 1 October 1989 and ending with 31 March 1990, plan the management of its financial affairs and collect revenue as if the harbour board were going to continue to perform all its functions and duties and exercise its powers for the whole of that period.
+(5) No local authority to which a draft scheme or a final reorganisation scheme applies (including a body to which subsection (1) or subsection (2) or subsection (3) or subsection (4) applies) shall, on the grounds that it is likely to go out of existence before 31 March 1990, reduce the financial provision usually made by it.
+
+### 29 Closing off of accounts
+A transitional committee may, with the agreement of every local authority that is entitled to appoint a member of the transitional committee, recommend to the new local authority that it close off the accounts of the abolished local authorities as from the close of 31 October 1989.
+
+### 29A Special provisions in relation to taxation
+For the purposes of the Income Tax Act 2007, the Accident Compensation Act 1982, and the Goods and Services Tax Act 1985, every local authority constituted pursuant to a final reorganisation scheme shall be deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
+
+### 30 Protection for persons acting in relation to transitional matters
+(1) A person who does any act, whether before or after the commencement of this Act, in pursuance or intended pursuance of—shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless that person has acted in bad faith or without reasonable care.
+  (a) any of the provisions of this Act; or
+  (b) any direction or proposal contained in a draft scheme; or
+  (c) any document issued by the Local Government Commission, whether before or after the commencement of this Act, for the purposes of section 15E(2) of the principal Act (as enacted by section 6 of the Local Government Amendment Act (No 3) 1988); or
+  (d) any document which was issued by the Local Government Commission before the commencement of this Act and which provided for a scheme called an indicative scheme,—
+(2) No proceedings, civil or criminal, shall be brought against any person in any court in respect of any such act except by leave of a Judge of the High Court and such leave shall not be granted unless the Judge is satisfied that there is substantial ground for the contention that the person against whom it is sought to bring the proceedings has acted in bad faith or without reasonable care.
+(3) Notice of any application under subsection (2) shall be given to the person against whom it is sought to bring the proceedings, and that person shall be entitled to be heard against the application.
+(4) Leave to bring such proceedings shall not be granted unless application for such leave is made within 12 months after the act complained of, or, in the case of a continuance of injury or damage, within 12 months after the ceasing of the injury or damage.
+(5) In granting leave to bring any such proceedings as aforesaid, the Judge may limit the time within which such leave may be exercised.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act (No 2) 1989, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as otherwise provided in this Act, this Act shall come into force on the day on which it receives the Royal assent.
+
+### 16 Savings and revocations
+(1) Notwithstanding Part 4C of the principal Act (as inserted by section 15(1)) and the repeals effected by section 23, every determination, resolution, or other document which is in force immediately before the commencement of this section and which determines the maximum or actual remuneration of any person whose maximum or minimum remuneration is to be determined in accordance with Part 4C of the principal Act (as so inserted) shall continue in force until the maximum or minimum remuneration is determined in accordance with this Act, and shall then expire.
+(2) Any determination under Part 4C of the principal Act (as inserted by section 15(1)) may revoke any determination, resolution, or other document that has expired in accordance with subsection (1) of this section or that will expire on the coming into force of the determination.
+(3) This section shall come into force on 1 July 1989.
+
+### 55 Repeal of Local Authorities (Employment Protection) Act 1963
+(1) The Local Authorities (Employment Protection) Act 1963 is hereby repealed.
+(2) This section shall come into force on 1 November 1990.
+(3) Notwithstanding the repeal of the Local Authorities (Employment Protection) Act 1963 by subsection (1), that Act shall continue to apply in respect of persons whose employment is transferred or deemed to have been transferred under that Act before 1 November 1990.
+
+### 56 Winding up of operations of Joint Council for Local Authorities Services
+Having regard to the provisions of section 57, the Joint Council for Local Authorities Services,—
+  (a) shall do all in its power to provide for the winding up of the Council and, in particular, for securing the payment of all money owed by and the recovery of debts due to the Council; and
+  (b) shall cause to be prepared final accounts of the Council as at the close of 31 December 1989.
+
+### 57 Dissolution of Joint Council for Local Authorities Services
+On 1 January 1990—
+  (a) the Joint Council for Local Authorities Services shall be dissolved and the term of office of every member of the Council shall cease:
+  (b) all real and personal property held by the Joint Council for Local Authorities Services shall, subject to section 58, become vested in the Crown subject to all liabilities, charges, and obligations:
+  (c) all money payable to the Joint Council for Local Authorities Services shall become payable to the Crown:
+  (d) all rights, constraints, obligations, and liabilities of the Joint Council for Local Authorities Services shall become the rights, constraints, obligations, and liabilities of the Crown:
+  (e) all proceedings pending by or against the Joint Council for Local Authorities Services may be carried on, completed, or enforced by or against the Crown:
+  (f) the Joint Council for Local Authorities Services Act 1977 and the Joint Council for Local Authorities Services Amendment Act 1978 shall be repealed:
+  (g) so much of Schedule 17 of the principal Act (as inserted by section 6 of the Local Government Amendment Act 1979) as relates to the Joint Council for Local Authorities Services Act 1977 shall be repealed:
+  (h) so much of Schedule 2 of the Higher Salaries Commission Amendment Act (No 2) 1985 as relates to the Joint Council for Local Authorities Services Act 1977 shall be repealed:
+  (i) the Joint Council for Local Authorities Services (Levy) Order 1988 shall be revoked.
+
+### 58 Distribution of surplus funds
+(1) The Minister of Local Government may, after discharging or making due provision for the liabilities of the Joint Council for Local Authorities Services, direct that the surplus funds of the Council be paid to the local authorities specified, or belonging to a class of local authorities specified, on 31 December 1989, in Schedule 2 of the Joint Council for Local Authorities Services Act 1977.
+(2) Any amount paid to a local authority under subsection (1) shall be in proportion to the levy that would have been payable by that local authority on 1 January 1990 if section 20 of the Joint Council for Local Authorities Services Act 1977 and the Joint Council for Local Authorities Services (Levy) Order 1988 had continued in force.
+
+### 59 Apportionment of liabilities
+(1) Notwithstanding anything in section 57(d) but subject to subsection (2), every local authority specified, or belonging to a class of local authorities specified, on 31 December 1989, in Schedule 2 of the Joint Council for Local Authorities Services Act 1977 shall be liable to contribute to the assets of the Joint Council for Local Authorities Services to an amount sufficient for payment of its debts and liabilities, and the costs, charges, and expenses of the winding up of the Council.
+(2) The amount that a local authority is liable to contribute under subsection (1) shall be in proportion to the levy that would have been payable by that local authority on 1 January 1990 if section 20 of the Joint Council for Local Authorities Services Act 1977 and the Joint Council for Local Authorities Services (Levy) Order 1988 had continued in force.
+(3) All money payable under this section shall be payable to the Crown.
+
+**Transitional provisions**
+
+### 60 Apportionment of assets and liabilities arising from reform of local government
+(1) Notwithstanding section 37E of the principal Act (as substituted by section 8 of the Local Government Amendment Act (No 3) 1988) and clauses 27 to 31 of Schedule 3B of the principal Act (as enacted by section 45(1)), where any Order in Council giving effect to a final reorganisation scheme prepared by the Local Government Commission under section 15B of the principal Act does not make provision for the apportionment of the assets and liabilities of the local authorities affected by the order, the transitional committees affected shall endeavour to enter into an agreement determining the manner in which those assets and liabilities shall be apportioned.
+(2) In order to assist the transitional committees in the performance of their functions under this section, the local authorities affected by the order shall make all relevant information available to the transitional committees and may make recommendations concerning the apportionment of assets and liabilities.
+(3) Any agreement entered into under subsection (1) shall be binding on the local authorities to be formed.
+(4) If an agreement is not entered into before 30 September 1989, any transitional committee affected may require that the matter be referred to arbitration.
+(5) Where any transitional committee so refers any matter,—
+  (a) 1 assessor shall be appointed by each transitional committee affected; and
+  (b) the assessors shall, within 7 days after their appointment, and before entering upon their reference, appoint a person to act as arbitrator as between the assessors.
+(6) Any matters upon which the assessors cannot reach agreement shall be referred from time to time to the arbitrator for decision and that decision shall form part of the assessors' determination.
+(7) In the exercise of their powers under this section, the assessors may identify the assets and liabilities to be transferred, which assets and liabilities shall include all amounts and items that ought properly to be treated as being of the same character irrespective of how they may be described in the accounts or records of any local authority.
+(8) The determination of the assessors shall be final and shall have the same force as if it were an agreement between the transitional committees affected.
+(9) Every person having the possession or custody of any relevant books, papers, accounts, or documents shall allow the assessors and the arbitrator to have access thereto for the purposes of this section.
+
+### 61 Continuation of matters under Town and Country Planning Act 1977
+(1) Subject to any provision made by the Commission pursuant to section 35(1)(f) of the principal Act, any matter or procedure under the Town and Country Planning Act 1977 that has been commenced by or before any local authority before 1 November 1989, may be continued and completed by or before the local authority to whom the appropriate functions, duties, or powers are transferred pursuant to a final reorganisation scheme prepared by the Local Government Commission under section 15B of the principal Act as if—
+  (a) those local authorities were the same local authorities; and
+  (b) the planning scheme of any local authority that is abolished by any such final reorganisation scheme were a planning scheme adopted by the successor local authority.
+(2) This section shall have effect notwithstanding anything in clause 10 of Schedule 2 of the principal Act or clause 21 of Schedule 3B of the principal Act (as enacted by section 45(1)).
+
+###  Certain local authorities deemed to have functions, duties, and powers of transitional committees
+Where any final reorganisation scheme prepared under section 15B of the principal Act does not provide for the appointment of a transitional committee, every local authority to which the scheme relates shall have, where appropriate, and to the extent appropriate, the functions, duties, and powers of a transitional committee.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1991, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as provided in sections 16(2) and 21(3), this Act shall come into force on 1 July 1991.
+
+### 23 Continuation of existing arrangements for 1992 triennial general election
+(1) This section shall apply to every council constituted on or after 1 November 1989 (other than the Ashburton District Council).
+(2) Notwithstanding anything in section 101H of the principal Act, any council to which this section applies may, before 1 August 1991, resolve not to undertake, before the triennial general election of the council to be held in 1992, a review of its membership and the basis on which it is elected.
+(3) Where a council resolves under subsection (2) not to undertake a review of its membership and the basis on which it is elected, the wards and constituencies and the membership of the council shall, for the purposes of the triennial general election of members of that council to be held on 10 October 1992, be as specified in the Order in Council constituting the council.
+(4) Where a council resolves under subsection (2) not to undertake a review of its membership and the basis on which it is elected, the council shall, within 8 days of that resolution, give public notice of that resolution; and—
+  (a) send a copy of that notice to—
+    (i) the Commission; and
+    (ii) the Surveyor-General; and
+    (iii) the Government Statistician; and
+  (b) where the council is a regional council, send a copy of the notice to every territorial authority whose district or a part of whose district is within the region; and
+  (c) where the council is a territorial authority, send a copy of the notice to any regional council for a region in which the district of the territorial authority or any part thereof is situated.
+
+### 24 Validation of introduction of instalment rating
+(1) The introduction of instalment rating for the financial year which commenced on 1 July 1990 by those territorial authorities listed in the Schedule is hereby declared to be valid, notwithstanding that the special orders required, pursuant to section 152 of the Rating Powers Act 1988 (as amended by section 33 of the Local Government Reform (Transitional Provisions) Act 1990), were made later than 1 July 1990.
+(2) Clause 11(2) of the Stratford Borough-Stratford County Union Order 1988 (which is published in the Gazette of 15 December 1988 at page 5386) shall apply, and shall be deemed always to have applied, to the Stratford District Council constituted by clause 60 of the Local Government (Taranaki Region) Reorganisation Order 1989 (which is published in the Gazette of 13 June 1989 at page 2445), notwithstanding that the Stratford District Council constituted by clause 2(3) of the Stratford Borough-Stratford County Union Order 1988 was dissolved by clause 6 of the Local Government (Taranaki Region) Reorganisation Order 1989.
+(3) Notwithstanding subsection (2), the Stratford District Council constituted by clause 60 of the Local Government (Taranaki Region) Reorganisation Order 1988—
+  (a) may from time to time, pursuant to a special order made under section 156 of the principal Act (which section shall apply with all necessary modifications), vary the intervals at which instalments of rates are levied and collected by that Council; or
+  (b) may, pursuant to a special order made under section 157 of the principal Act (which section shall apply with all necessary modifications), abandon the method of payment of rates by instalments applied by clause 11(2) of the Stratford Borough-Stratford County Union Order 1988.
+
+### 1 Short Title
+This Act may be cited as the Local Government Amendment Act (No 3) 1991, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+
+### 3 Validation
+Any action taken or decision made under the Local Government Act 1974 or the Resource Management Act 1991 in the period commencing on 1 October 1991 and ending with the commencement of this Act is hereby declared to be, and to have always been, as valid as it would have been if this Act had been in force when that action was taken or that decision was made.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1992, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as provided in sections 8(3), 9(2), 10(2), 11(2), 58(10), 68(2), 71(2), 76(2), 79(2), 81, 89(10), and 109(2), this Act shall come into force on 1 July 1992.
+
+## Part 1 — Amendments to principal Act
+
+**Transitional provisions and savings**
+
+### 90 Forestry in Manawatu–Wanganui region
+(1) The assets and liabilities of the commercial forestry operation known as the “Joint Wanganui District Councils Forestry Committee” are hereby deemed to have become vested without cost, on 1 November 1989, in the following local authorities, as tenants in common, with their respective shares being as follows:Local authorityPercentageshareWanganui District Council86.54Manawatu–Wanganui Regional Council7.80South Taranaki District Council1.07Rangitikei District Council2.20Ruapehu District Council2.39
+(2) The Joint Wanganui District Councils Forestry Committee is declared to be and to have always been a duly constituted joint committee.
+(3) Any action taken or decision made by the Joint Wanganui District Councils Forestry Committee or any of the local authorities named in subsection (1) in relation to the Joint Wanganui District Councils Forestry Committee and the ownership and management of the forestry operation is hereby declared to be and to have always been, as valid as it would have been if this Act had been in force when that action was taken or that decision made.
+(4) Subject to subsection (6), the Manawatu–Wanganui Regional Council shall, not later than 30 June 1993, transfer all its shares in, and any other assets directly related to, the commercial forestry operation known as the “Joint Wanganui District Councils Forestry Committee” to the territorial authority partners in that operation.
+(5) The shares, and any related assets, of the Manawatu–Wanganui Regional Council transferred under subsection (4) shall be transferred to the territorial authorities that own the remaining shares in the forestry operation and, unless otherwise agreed by those territorial authorities, according to the proportion of their ownership of those remaining shares as at the date of the transfer.
+(6) Nothing in this Act prevents the sale, before the close of 30 June 1993, of the Manawatu–Wanganui Regional Council's shares in the forestry operation known as the “Joint Wanganui District Councils Forestry Committee”.
+
+### 91 Compensation to be paid to Manawatu–Wanganui Regional Council
+(1) The territorial authorities to which the shares and any related assets of the Manawatu–Wanganui Regional Council in the forestry operation known as the “Joint Wanganui District Councils Forestry Committee” are transferred under section 90(4) shall compensate the Manawatu–Wanganui Regional Council for the transfer of those shares and any related assets.
+(2) The amount of the compensation payable by the territorial authorities to which the shares and any selected assets are transferred—
+  (a) shall be determined by agreement between the Manawatu–Wanganui Regional Council and those territorial authorities; and
+  (b) shall be payable in the proportions determined in accordance with section 90(5).
+(3) If no agreement is reached under subsection (2)(a) within 14 days after the date on which the transfer is effected, 2 persons shall be appointed, under section 92, as assessors.
+
+### 92 Appointment of assessors and arbitrator
+(1) The assessors shall be 2 independent persons, one of whom shall be appointed as an assessor by the Manawatu–Wanganui Regional Council and the other of whom shall be appointed as an assessor by the territorial authorities referred to in section 91(1) jointly.
+(2) The assessors shall, within 7 days after their appointment as such, appoint a third person to act as arbitrator between the assessors.
+
+### 93 Functions of assessors
+(1) The assessors shall, not later than 31 May 1993,—
+  (a) determine the amount of the compensation payable under section 91; and
+  (b) report to the affected local authorities, after making such enquiries as the assessors consider appropriate.
+(2) Any matters on which the assessors cannot agree shall be referred from time to time to the arbitrator for decision and that decision shall form part of the assessors' determination.
+(3) The determination of the assessors shall be final and shall have the same force as if it were an agreement between the regional council and the territorial authorities.
+(4) Every person having the possession or custody of any relevant books, papers, accounts, or documents shall allow the assessors and the arbitrator to have access thereto for the purpose of the assessment or arbitration.
+
+### 94 Stamp duty exemption
+No stamp duty shall be payable under the Stamp and Cheque Duties Act 1971 in respect of any instrument of conveyance of property by the Manawatu–Wanganui Regional Council pursuant to section 90(4).
+
+### 95 Application of Income Tax Act 1976 and Goods and Services Tax Act 1985
+(1) Nothing in section 67 or section 129 of the Income Tax Act 1976 shall apply in respect of any land or asset transferred by the Manawatu–Wanganui Regional Council pursuant to section 90(4).
+(2) For the purposes of sections 67 and 129 of the Income Tax Act 1976, where any land or asset is acquired by a territorial authority from the Manawatu–Wanganui Regional Council pursuant to section 90(4), that land or asset shall be deemed to have been acquired by the territorial authority on the date on which it was acquired by that territorial authority.
+(3) Nothing in section 111 of the Income Tax Act 1976 shall apply in respect of any property acquired by a territorial authority from the Manawatu–Wanganui Regional Council pursuant to section 90(4).
+(4) For the purposes of the Goods and Services Tax Act 1985, every transfer made by the Manawatu–Wanganui Regional Council pursuant to section 90(4) shall be deemed to be the transfer of a part of a taxable activity as a going concern that is capable of separate operation.
+
+### 96 Transfer of functions, assets, and liabilities
+(1) In addition to any other provisions in this Act relating to the transfer of any function, asset, or liability to a territorial authority, every regional council shall, not later than 30 June 1993, transfer to the appropriate territorial authority every function, asset, or liability not related to—
+  (a) the performance by the regional council of its functions under the principal Act or any other Act; or
+  (b) shares or equity securities in a port company; or
+  (c) assets and liabilities of former harbour boards.
+(2) In each region, the regional council and the affected territorial authorities shall, not later than 31 December 1992, reach agreement as to the apportionment and transfer of all functions, assets, and liabilities.
+(3) Where the regional council and the affected territorial authorities have not reached agreement by the close of 31 December 1992, the regional council shall apply to the Local Government Commission for a determination under section 97 on all unresolved matters (other than those relating to the transfer of staff).
+(4) All functions, assets, and liabilities to be transferred in accordance with subsection (1) or any other provision of this Act, shall, not later than 30 June 1993, be transferred to the appropriate territorial authority.
+(5) Notwithstanding anything in subsection (1), there shall be no transfer of any function, asset, or liability related to any foreshore or seabed, or to any land to which the Harbour Boards Dry Land Endowment Revesting Act 1991 applies.
+
+### 97 Power of Local Government Commission to apportion functions, assets, and liabilities
+(1) Where any regional council refers any matter to the Local Government Commission under section 96(3), the Commission shall, not later than 31 March 1993, make a determination on that matter.
+(2) The determination shall direct the manner in which the functions, assets, and liabilities are to be apportioned between the affected territorial authorities.
+(3) or the purposes of a determination under this section, the Commission—
+  (a) shall consult with the Audit Office and with the authorities directly affected; and
+  (b) may make such enquiries as it thinks fit; and
+  (c) may obtain advice from any other person, who in the opinion of the Commission, has expert knowledge concerning any aspect of the matter to be decided.
+(4) In the exercise of its powers under this section, the Commission may identify the functions, assets, and liabilities to be transferred, which functions, assets, and liabilities shall include all amounts and items that ought properly to be treated as being of the same character irrespective of how they may be described in the accounts or records of the regional council.
+(5) Every determination of the Commission under this section may be enforced as if it were an agreement between the regional council and the territorial authorities.
+
+### 98 Apportionment of loan liabilities
+(1) Where any part of a function of a regional council is transferred to a territorial authority then, notwithstanding anything to the contrary in the Local Authorities Loans Act 1956 or in any other enactment, any loan liabilities associated with the function shall be apportioned among the affected territorial authorities in the manner determined by agreement among the affected territorial authorities.
+(2) If no agreement is reached under subsection (1) within 14 days after the affected authorities agree to the transfer of functions or the Commission issues a determination under section 97, whichever is the later, 2 persons shall be appointed, under section 99, as assessors.
+
+### 99 Appointment of assessors and arbitrator
+(1) Two independent persons shall be appointed as assessors, one by the regional council and one by the territorial authority or territorial authorities jointly to, or among which, the loan liabilities are to be apportioned.
+(2) The assessors shall, within 7 days after their appointment as such, appoint a third person to act as arbitrator between the assessors.
+
+### 100 Functions of assessors
+(1) The assessors shall, not later than 31 May 1993,—
+  (a) determine how the unresolved loan liabilities are to be apportioned; and
+  (b) report to the affected local authorities, after making such enquiries as the assessors consider appropriate.
+(2) Any matters on which the assessors cannot agree shall be referred from time to time to the arbitrator for decision and that decision shall form part of the assessors' determination.
+(3) The determination of the assessors shall be final and shall have the same force as if it were an agreement between the regional council and the affected territorial authorities.
+(4) Every person having the possession or custody of any relevant books, papers, accounts, or documents shall allow the assessors and the arbitrator to have access thereto for the purpose of the assessment or arbitration.
+
+### 101 Power to effect transfer of functions, assets, and liabilities by Order in Council
+Where any function, asset, or liability to be transferred under section 96 has not been so transferred by the close of 30 June 1993, the Governor-General may, on the recommendation of the Minister of Local Government, make an Order in Council effecting the transfer.
+
+### 102 Transfer of responsibilities
+(1) Where a function, asset, or liability of a regional council is transferred under this Part to a territorial authority, that territorial authority shall have and may exercise and shall be responsible, in relation to that function, asset, or liability, for—which were previously exercised or could have been exercised by the regional council in respect of that function, asset, or liability.
+  (a) all the powers, duties, acts of authority, and functions; and
+  (b) all liabilities, obligations, engagements, and contracts; and
+  (c) all actions, suits, and proceedings, (pending by or against the regional council,—
+(2) Where a function, asset, or liability of a regional council is transferred under this Part to a territorial authority, that territorial authority shall succeed to all rates, levies, and money payable for or in respect of that function, asset, or liability.
+
+### 103 Continued responsibility
+Notwithstanding anything in section 37S of the principal Act, or any other section, where any function, member of staff, asset, or liability is to be transferred from a regional council to a territorial authority, that regional council shall continue to have, until the transfer of that function, member of staff, asset, or liability is effected, the powers and duties necessary for the performance of any such function or the discharge of the regional council's responsibility in relation to any such asset or liability.
+
+### 104 Obligation to achieve objectives of this Act
+Every local authority shall at all times do everything in its power to achieve the objectives of this Act, and for that purpose, but without limitation, shall do everything in its power—
+  (a) to facilitate the transfer of any function, asset, or liability from a regional council to a territorial authority; and
+  (b) to assist in the transfer or redeployment of any staff associated with the transfer of any function, asset, or liability.
+
+### 105 Certain matters not affected by transfer of functions, duties, or powers
+Nothing effected or authorised by section 89 or section 90 or section 96 or section 98 or by any Order in Council made under section 101—
+  (a) shall be regarded as placing any local authority, or any other person, in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
+  (b) shall be regarded as giving rise to a right for any person to terminate or cancel any contract or arrangement or to accelerate the performance of any obligation; or
+  (c) shall be regarded as placing any local authority or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
+  (d) shall release any surety wholly or in part from any obligation; or
+  (e) shall invalidate or discharge any contract or security.
+
+### 106 Registers
+(1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged, solely by reason of section 90(1) or by any determination made under section 97 or by any Order in Council made under section 101, to change the name of the transferor to that of the transferee in those books or registers or in any document.
+(2) The presentation to any registrar or other person of any instrument, whether or not comprising an instrument of transfer by the transferee,—shall, in the absence of proof to the contrary, be sufficient evidence that the property is vested in the transferee.
+  (a) executed or purporting to be executed by the transferee; and
+  (b) relating to any property held by the transferor; and
+  (c) containing a recital that the property has become vested in the transferee by virtue of section 90(1) or by any determination made under section 97 or by any Order in Council made under section 101—
+(3) Except as provided in this section, nothing in this Act shall derogate from the provisions of the Land Transfer Act 1952.
+
+**Validation**
+
+### 108 Validation of differential rating
+(1) This section shall apply to any rate that was—
+  (a) made and levied or purported to be made and levied by a territorial authority in the year ended with 30 June 1991, or in the year ended with 30 June 1992, or in both those years; and
+  (b) made and levied or purported to be made and levied, on a differential basis in accordance with any special order that—
+    (i) was made under section 80 or section 85 of the Rating Powers Act 1988 or the corresponding provisions of any previous enactment; and
+    (ii) was in force immediately before 1 November 1989; and
+    (iii) had not, at the time the rate was made and levied, been revoked under section 87 of the Rating Powers Act 1988; and
+  (c) was not, at 12 noon on 1 May 1992, the subject of legal proceedings before any court.
+(2) Any rate to which subsection (1) applies is hereby deemed to be as valid and lawful as it would have been had the special order to which subsection (1)(b) refers continued in force after 1 November 1989.
+(3) For the avoidance of doubt, nothing in subsection (2) shall affect the validity of any rate—notwithstanding that all or part of the area over which that rate was made and levied was subject to a special order to which subsection (1)(b) applies and that special order had not, at the time the rate was made, been revoked under section 87 of the Rating Powers Act 1988.
+  (a) made and levied by a territorial authority, after 1 November 1989, on a uniform basis over any district or part of a district; or
+  (b) made and levied by a territorial authority, after 1 November 1989, on a differential basis over any district or part of a district in accordance with a special order under section 80 or section 85 of the Rating Powers Act 1988 made after 1 November 1989—
+
+## Part 2 — Establishment of unitary authorities in Nelson-Marlborough region
+
+### 109 Commencement
+(1) Subject to subsection (2), this Part shall come into force on 1 July 1992.
+(2) Section 118 and sections 121 to 137 shall come into force on the day on which this Act receives the Royal assent.
+
+### 110 Constitution of regions
+(1) There is hereby constituted a region, to be known as The Nelson Region, which shall comprise the area of Nelson City.
+(2) There is hereby constituted a region, to be known as The Marlborough Region, which shall comprise the area of the Marlborough District.
+(3) There is hereby constituted a region, to be known as The Tasman Region, which shall comprise the area of the Tasman District.
+(4) The seaward boundary of the regions named in subsections (1) to (3) shall extend to the outer limits of the territorial sea as provided for by section 37O of the principal Act.
+
+### 111 Unitary authorities
+The Nelson City Council, the Marlborough District Council, and the Tasman District Council shall each have the functions, duties, and powers of both a regional council and a territorial authority.
+
+### 112 Dissolution of Nelson-Marlborough Regional Council
+The Nelson-Marlborough Regional Council is hereby dissolved.
+
+### 113 Abolition of Nelson-Marlborough Region
+The Nelson-Marlborough Region is hereby abolished.
+
+### 114 Transfer of functions, duties, and powers
+The functions, duties, and powers of the former Nelson-Marlborough Regional Council under the Local Government Act 1974 or any other Act are hereby transferred to—
+  (a) the Nelson City Council, the Marlborough District Council, and the Tasman District Council where those functions, duties, and powers apply to any or all of the districts of those territorial authorities; and
+  (b) the Canterbury Regional Council where those functions, duties, and powers apply to the Kaikoura District.
+
+### 115 Kaikoura District
+The Kaikoura District (as delineated by SO Plan 14455 deposited with the Chief Surveyor of the Marlborough Land District) is included in the Canterbury Region.
+
+### 116 Alteration of boundary of West Coast Region
+That area of the Tasman District within the West Coast Region (as delineated by SO Plan 11466 deposited with the Chief Surveyor of the Westland Land District) is excluded from the West Coast Region.
+
+### 117 Alteration of boundary of Canterbury Region
+That area of the Hurunui District within the former Nelson-Marlborough Region (as delineated on SO Plan 18052 deposited with the Chief Surveyor of the Canterbury Land District) is included in the Canterbury Region.
+
+### 118 Changes to boundaries
+(1) Where, as a result of any provisions in this Part, any change is made to the boundaries of any district or region, the Secretary for Local Government shall arrange for a new description of those boundaries to be prepared and notified in the Gazette.
+(2) Notwithstanding anything in section 110(4), the Secretary for Local Government shall, for the purposes of this Part, have the power to fix the seaward boundary between any district or region, being a boundary that is between the mean high water mark and the outer limit of the territorial sea of the region.
+
+### 119 Residual authority
+(1) The residual authority for the Nelson-Marlborough Regional Council shall be the Marlborough District Council.
+(2) The residual authority shall be responsible for—
+  (a) the preparation of the annual report for the former Nelson-Marlborough Regional Council (as required by section 223E of the principal Act) for the year ending with 30 June 1992; and
+  (b) the documents (as defined in section 248 of the principal Act) and local archives (as so defined) of the former Nelson-Marlborough Regional Council, other than those documents or local archives relating to a specified area or function.
+(3) n the period beginning with 1 July 1992 and ending with the closing of the accounts of the former Nelson-Marlborough Regional Council, the residual authority may, to the extent and on the terms and conditions agreed with any other authority or authorities affected, supervise and manage the keeping of those accounts on behalf of the other authority or authorities, and for that purpose may—
+  (a) receive and make payments of any money; and
+  (b) levy and collect rates; and
+  (c) carry out such other acts as may be agreed with any other authority or authorities affected.
+(4) The residual authority shall hold in trust any assets and liabilities of the former Nelson-Marlborough Regional Council not transferred to another local authority by the close of 30 June 1992 and shall administer those assets and liabilities for the benefit of the following local authorities, namely,—
+  (a) the Canterbury Regional Council:
+  (b) the Nelson City Council:
+  (c) the Marlborough District Council:
+  (d) the Tasman District Council.
+(5) The residual authority shall become the employer of any staff of the Nelson-Marlborough Regional Council not transferred to another local authority by the close of 30 June 1992.
+(6) Nothing in this section shall be construed as imposing any liability on the Marlborough District Council in addition to that which would accompany the transfer to the Marlborough District Council of any function, duty, power, asset, or liability.
+
+### 120 Liability for redundancy and other costs
+Notwithstanding section 119(5), the cost of any redundancy payments or other payments in respect of any staff of the Nelson-Marlborough Regional Council not paid by, or occurring after, the close of 30 June 1992 shall be apportioned by the transitional committee established pursuant to section 121(1) as if that cost were a liability of the Nelson-Marlborough Regional Council.
+
+**Transitional committee**
+
+### 121 Establishment of transitional committee
+(1) The local authorities named in subsection (2) shall establish a transitional committee for the Nelson-Marlborough Region.
+(2) The local authorities to which subsection (1) applies are—
+  (a) the Nelson-Marlborough Regional Council:
+  (b) the Canterbury Regional Council:
+  (c) the Nelson City Council:
+  (d) the Tasman District Council:
+  (e) the Marlborough District Council:
+  (f) the Kaikoura District Council.
+(3) The transitional committee established pursuant to subsection (1) shall be deemed to be a joint committee under section 114S of the principal Act.
+
+### 122 Purposes of transitional committee
+The purposes of the transitional committee shall be—
+  (a) to facilitate the transfer of staff; and
+  (b) to determine expeditiously the apportionment of the assets and liabilities of the Nelson-Marlborough Regional Council.
+
+### 123 Membership of transitional committee
+(1) Subject to subsection (2), the transitional committee for the Nelson-Marlborough Region shall consist of—
+  (a) 2 members appointed by each of the authorities named in paragraphs (c) to (e) of section 121(2); and
+  (b) 1 member appointed by each of the authorities named in paragraphs (a), (b), and (f) of section 121(2); and
+  (c) notwithstanding section 114R(5) of the principal Act, 1 officer appointed by each of the authorities named in section 121(2), who shall be non-voting members of the transitional committee.
+(2) The members of the transitional committee appointed by the Nelson-Marlborough Regional Council shall vacate office with the close of 30 June 1992.
+
+### 124 No casting vote
+The chairperson of the transitional committee for the Nelson-Marlborough Region or other person presiding at any meeting of that committee shall not have a casting vote in the case of equality of votes.
+
+### 125 Exclusion of non-voting member
+The transitional committee for the Nelson-Marlborough Region may resolve to exclude any non-voting member of that committee from any meeting or part of a meeting where it proposes to consider any matter that affects that member personally.
+
+### 126 Extraordinary vacancies
+(1) If any member of a transitional committee dies, or resigns, or is removed from office or ceases to hold any qualification necessary for his or her appointment to office as a member of the transitional committee, his or her office shall become vacant and shall be deemed to be an extraordinary vacancy.
+(2) Every extraordinary vacancy shall be filled in the manner in which the appointment to the vacant office was originally made.
+(3) The powers of the transitional committee shall not be affected by any vacancy in its membership.
+
+### 127 Powers of transitional committee
+(1) Subject to section 132, the transitional committee has power to decide any transitional matter relating to the abolition of the Nelson-Marlborough Regional Council, which power includes the power—
+  (a) to decide on—
+    (i) the process for determining the number of positions available for transferring staff with the Nelson City Council, the Marlborough District Council, the Tasman District Council, and the Canterbury Regional Council; and
+    (ii) the method for determining which staff are to be transferred to those Councils; and
+    (iii) the method of transferring staff to those Councils; and
+  (b) to decide on the apportionment of assets and liabilities between the Nelson City Council, the Marlborough District Council, the Tasman District Council, and the Canterbury Regional Council.
+(2) Subject to section 132, decisions made under subsection (1) shall be binding on local authorities without the need for any delegation from, or confirmation or ratification by, the local authorities.
+
+### 128 Continuous service of transferred employees
+(1) The contract of employment of every person, being a person who is an employee of the Nelson-Marlborough Regional Council and who is transferred to a territorial authority or the Canterbury Regional Council in accordance with a decision of the transitional committee, shall for the purposes of every enactment, and every law, contract, and agreement relating to the employment of that person, be deemed not to have been broken by that person's change of employer, and the period of service with the regional council by which the person was employed before he or she became an employee of the territorial authority or the Canterbury Regional Council shall be deemed to have been a period of service with the territorial authority or the Canterbury Regional Council.
+(2) No person to whom subsection (1) applies shall be entitled to receive any payment or other benefit by reason only of that person ceasing to be an employee of the Nelson-Marlborough Regional Council by which that person was employed before he or she became an employee of the territorial authority or the Canterbury Regional Council.
+
+### 129 Maintenance of conditions of employment
+The terms and conditions of employment of any employee of the Nelson-Marlborough Regional Council who is transferred to a territorial authority or the Canterbury Regional Council in accordance with a process or method determined under section 127(1)(a) shall remain, until varied by agreement, and shall, from the date of transfer, constitute an individual employment contract between that employee and the new employer.
+
+### 130 Requirement to consult
+The transitional committee shall consult the West Coast Regional Council on any matter relating to the abolition of the Nelson-Marlborough Regional Council that affects the West Coast Region.
+
+### 131 Powers and duties of councils in relation to transitional committee
+The council of each local authority affected by the abolition of the Nelson-Marlborough Regional Council—
+  (a) may refer to the transitional committee any matters for consideration or inquiry; and
+  (b) shall assist the transitional committee to exercise its powers by providing the transitional committee with such relevant information held by the council as the transitional committee may request.
+
+### 132 Rights to object to Local Government Commission against decision
+(1) Two or more members of the transitional committee, being members appointed by different local authorities, may, within 5 working days after the making by a transitional committee of a decision under section 127, lodge with the Local Government Commission notice in writing objecting to that decision.
+(2) Every notice under subsection (1)—
+  (a) shall specify—
+    (i) the decision to which the objection relates; and
+    (ii) the grounds of the objection, which grounds shall be specified with such reasonable particularity as to give full advice to the Local Government Commission of the issues involved; and
+  (b) may be accompanied by copies of any relevant documents.
+(3) The Local Government Commission shall, after conducting such an investigation and consultation (if any) as it considers desirable, issue, within 2 months after the date on which the notice of objection is lodged with the Local Government Commission but not later than 31 March 1993, a written determination upholding or dismissing the objection and that determination shall be final.
+(4) A decision in respect of which an objection is lodged under subsection (1) shall remain in full force pending the determination of the objection.
+
+### 133 Administrative services
+The Marlborough District Council shall be responsible for providing administrative services to the transitional committee.
+
+### 134 Costs of transitional committee
+(1) The costs of the transitional committee (including the costs of providing administrative services to it) shall be borne and paid for by the local authorities named in section 121 either—
+  (a) in accordance with a formula agreed to by the committee; or
+  (b) if there is no such agreed formula, in accordance with the following formula:
+    (i) the proportion of those costs to be borne and paid for by the Nelson City Council, the Tasman District Council, and the Marlborough District Council shall equal the proportion that the rates levied in Nelson City, the Tasman District, and the Marlborough District in the year ending with 30 June 1992 respectively bear to the combined rates levied in all the districts of the former Nelson-Marlborough Region and that part of the Tasman District within the West Coast Region; and
+    (ii) the proportion of those costs to be borne and paid for by the Canterbury Regional Council shall equal the proportion that the rates levied in the Kaikoura District in the year ending with 30 June 1992 bear to the combined rates levied in all the districts of the former Nelson-Marlborough Region and that part of the Tasman District within the West Coast Region.
+(2) In this section, rates means,—
+  (a) in relation to the Nelson-Marlborough Regional Council, the general rate levied by that Council for the year ending with 30 June 1992; and
+  (b) in relation to the West Coast Regional Council, the general rate levied by that Council for the year ending with 30 June 1992.
+
+### 135 Deputies of members
+(1) The local authority by which any member of a transitional committee is appointed may from time to time by resolution appoint any other person to act as the deputy of that member at any meeting of the transitional committee or any subcommittee of the transitional committee.
+(2) The deputy of any member of a transitional committee shall have authority to act as a member in the event of the absence of the member from any meeting of the transitional committee or any subcommittee of the transitional committee.
+(3) Every such deputy shall hold office during the pleasure of the body by which the deputy was appointed.
+(4) No act done by any deputy appointed under this section in that capacity, and no act done by the transitional committee while any such deputy is so acting, shall in any proceedings be questioned on the ground that the occasion for so acting had not arisen or had ceased.
+
+### 136 Discharge of transitional committee
+The transitional committee, unless sooner discharged, shall be deemed to be discharged as from the close of 31 December 1992.
+
+### 137 Protection of persons acting in relation to transitional matters
+(1) A person who does any act, whether before or after the commencement of this section, in pursuance or intended pursuance of any of the provisions of this Part, shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless that person has acted in bad faith or without reasonable care.
+(2) No proceedings, civil or criminal, shall be brought against any person in any court in respect of any such act except by leave of a Judge of the High Court and such leave shall not be granted unless the Judge is satisfied that a reasonable question arises as to whether the person against whom it is sought to bring proceedings has acted in bad faith or without reasonable care.
+(3) Notice of any application under subsection (2) shall be given to the person against whom it is sought to bring the proceedings, and that person shall be entitled to be heard against the application.
+(4) Leave to bring such a proceeding shall not be granted unless application for such leave is made within 12 months after the act complained of, or, in the case of a continuance of injury or damage, within 12 months after the ceasing of the injury or damage.
+(5) In granting leave to bring any such proceeding as aforesaid, the Judge may limit the time within which such leave may be exercised.
+
+**Miscellaneous provisions**
+
+### 138 Nassella Tussock District
+(1) The Kaikoura District shall be excluded from the Nelson-Marlborough Nassella Tussock District of the former Nelson-Marlborough Regional Council.
+(2) The Marlborough District Council shall have the functions, duties, and powers of a Nassella Tussock Board under Part 2 of the Noxious Plants Act 1978 for that part of the Nassella Tussock District of the former Nelson-Marlborough Regional Council within the Marlborough District.
+(3) The area specified in subsection (2) shall be deemed to be a Nassella Tussock District under Part 2 of the Noxious Plants Act 1978.
+
+### 139 Abolition of joint committee
+The joint committee established by clause 19 of the Local Government (Canterbury Region) Reorganisation Order 1989 and comprising the Canterbury Regional Council and the Nelson-Marlborough Regional Council is hereby abolished.
+
+### 140 Constitution of pest destruction districts
+(1) The area comprising Nelson City (as constituted by clause 36 of the Local Government (Nelson-Marlborough Region) Reorganisation Order 1989) is hereby constituted as a pest destruction district to be known as the Nelson City Pest Destruction District.
+(2) The area comprising the Marlborough District (as constituted by clause 75 of the Local Government (Nelson-Marlborough Region) Reorganisation Order 1989) is hereby constituted as a pest destruction district to be known as the Marlborough District Pest Destruction District.
+(3) The area comprising the Tasman District (as constituted by clause 52 of the Local Government (Nelson-Marlborough Region) Reorganisation Order 1989) is hereby constituted as a pest destruction district to be known as the Tasman District Pest Destruction District.
+
+### 141 Marlborough Forestry Corporation
+As from the commencement of 1 July 1992, the Nelson-Marlborough Regional Council shall cease to be a constituent authority of the Marlborough Forestry Corporation (as provided for by clause 130(a) of the Local Government (Nelson-Marlborough Region) Reorganisation Order 1989).
+
+### 142 Nelson City harbour responsibilities
+The Nelson City Council shall have the functions, duties, and powers of a harbour board under the Harbours Act 1950 and the Marine Pollution Act 1974, or any other Act, in respect of the harbour known as Nelson Harbour, being a harbour whose limits are defined from time to time pursuant to section 3 of the Harbours Act 1950.
+
+### 143 Marlborough District Harbour responsibilities
+The Marlborough District Council shall have the functions, duties, and powers of a harbour board under the Harbours Act 1950, and the Marine Pollution Act 1974, and any other Act, in respect of—
+  (a) Admiralty Bay Harbour (as defined in the Gazette of 12 May 1983 at page 1481); and
+  (b) Croiselles Harbour (as so defined); and
+  (c) D'Urville Island (as so defined); and
+  (d) Pelorus Harbour (as so defined); and
+  (e) Port Gore Harbour (as so defined); and
+  (f) Queen Charlotte Harbour (as defined in the Gazette of 3 October 1991 at page 3131); and
+  (g) Wairau Harbour (as so defined).
+
+### 144 Kaikoura Harbour
+Responsibility for the Kaikoura Harbour, as defined in the Gazette of 12 May 1983 at page 1481, is hereby transferred to the Canterbury Regional Council.
+
+### 145 Tasman District harbour responsibilities
+The Tasman District Council shall have the functions, duties, and powers of a harbour board under the Harbours Act 1950 and the Marine Pollution Act 1974, or any other Act, in respect of any harbour that is within or adjacent to its district, being a harbour whose limits are defined from time to time pursuant to section 3 of the Harbours Act 1950.
+
+### 147 Membership of Marlborough District Council
+(1) Notwithstanding anything in Part 4A of the principal Act, for the purposes of the triennial general election to be held on 10 October 1992, the Marlborough District Council shall be elected as provided in this section.
+(2) The Marlborough District Council shall be divided into 5 wards as follows:
+  (a) the Pelorus-Northern Marlborough Sounds Ward, comprising the area delineated on SO Plan No 7025, deposited with the Chief Surveyor of the Marlborough Land District:
+  (b) the Picton Ward, comprising the area delineated on SO Plan No 7024, deposited with the Chief Surveyor of the Marlborough Land District:
+  (c) the Awatere Ward, comprising the area delineated on SO Plan No 14472, deposited with the Chief Surveyor of the Nelson Land District:
+  (d) the Wairau Ward, comprising the area delineated on SO Plan No 14471, deposited with the Chief Surveyor of the Nelson Land District:
+  (e) the Blenheim Ward, comprising the area delineated on SO Plan No 14486, deposited with the Chief Surveyor of the Nelson Land District.
+(3) The Marlborough District Council shall comprise a mayor and 13 members of whom—
+  (a) 2 members shall be elected by the electors of the Pelorus-Northern Marlborough Sounds Ward; and
+  (b) 2 members shall be elected by the electors of the Picton Ward; and
+  (c) 1 member shall be elected by the electors of the Awatere Ward; and
+  (d) 3 members shall be elected by the electors of the Wairau Ward; and
+  (e) 5 members shall be elected by the electors of the Blenheim Ward.
+
+### 148 Review of wards and membership
+(1) For the avoidance of doubt, it is hereby declared that the wards and membership of the Marlborough District Council, as determined by section 147, shall apply for the purposes of the triennial general election to be held on 10 October 1992, notwithstanding any determinations made (whether before or after the commencement of this Act) in accordance with sections 101H to 101K of the principal Act.
+(2) Nothing in this section limits, after 10 October 1992, the application to the Marlborough District Council of sections 101H to 101K of the principal Act.
+
+### 149 Application of provisions of principal Act
+Sections 37ZZX and 37ZZY of, and Parts 2 and 3 of Schedule 3B of, the principal Act shall apply as if the changes made under this Part of this Act had been made by an Order in Council made under Part 2B of the principal Act.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act 1994, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as provided in section 17(3), this Act shall come into force on the day on which it receives the Royal assent.
+
+### 19 Transitional provisions
+(1) Subject to section 37ZZZA(2) of the principal Act (as enacted by section 12) and to subsections (5) to (8),—shall, as from the commencement of this section, be dealt with under Part 2BB of the principal Act (as amended by this Act).
+  (a) any reorganisation proposal received by the Commission before the commencement of this section under section 37ZZR of the principal Act (as enacted by section 8(1) of the Local Government Amendment Act 1992) (other than a reorganisation proposal that has been abandoned before the commencement of this section or a reorganisation proposal in relation to which a draft reorganisation scheme has been published before the commencement of this section); and
+  (b) any draft reorganisation scheme published before the commencement of this section under section 37ZZV of the principal Act (other than a draft reorganisation scheme that, before the commencement of this section, has become a reorganisation scheme)—
+(2) Subject to subsections (4) and (5), the reorganisation scheme for a Mangonui District (which scheme was signed by the Commission on 26 May 1994) shall be dealt with under the principal Act (as amended by this Act).
+(3) Subsection (2) shall have effect notwithstanding—
+  (a) anything done before the commencement of this section under—
+    (i) section 37ZZZE of the principal Act (as enacted by section 8(1) of the Local Government Amendment Act 1992); or
+    (ii) section 37ZZZF of the principal Act (as enacted by section 8(1) of the Local Government Amendment Act 1992); or
+  (b) anything in the explanatory statement relating to the reorganisation scheme for a Mangonui District and published before the commencement of this section; or
+  (c) any other action taken before the commencement of this section by the Commission or the Returning Officer and relating to the reorganisation scheme for a Mangonui District.
+(4) The Returning Officer for the Far North District Council shall give public notice that, notwithstanding any public notice given before the commencement of this section under section 37ZZZF(5) of the principal Act (as enacted by section 8(1) of the Local Government Amendment Act 1992) 1 poll of electors on the proposal that the reorganisation scheme for a Mangonui District proceed shall be held on 27 August 1994 over the whole of the Far North District.
+(5) Notwithstanding section 37ZZZIC of the principal Act (as enacted by section 16), each local authority affected by—shall, in the period of 20 working days beginning with the first working day after the commencement of this section, determine, by resolution, the amount of money it proposes to spend on advertising that—
+  (a) the draft reorganisation scheme for a Wainuiomata District (which scheme was signed by the Commission on 18 August 1993); or
+  (b) the draft reorganisation scheme for a Cambridge District (which scheme was signed by the Commission on 24 September 1993); or
+  (c) the reorganisation scheme for a Mangonui District (which scheme was signed by the Commission on 26 May 1994),—
+  (d) promotes or opposes the implementation of the scheme by which it is affected or of any provision of that scheme; and
+  (e) is to be published, broadcast, issued, distributed, or displayed in the poll period.
+(6) Where any reorganisation proposal has, before the commencement of this section, been referred back to the proposer under section 37ZZS(1)(b) of the principal Act (as enacted by section 8(1) of the Local Government Amendment Act 1992) and the proposer has not, at the commencement of this section, taken either of the steps provided for in section 37ZZT of the principal Act (as so enacted), section 37ZZT(2) of the principal Act (as enacted by section 8) shall apply in relation to that reorganisation proposal as if there were substituted, for the words “its referral back to the proposer”, the words “the commencement of this section”.
+(7) The Commission may decide to carry out a review under section 37ZZTB of the principal Act (as enacted by section 8) in respect of any district affected by a reorganisation proposal that has been received by the Commission before the commencement of this section if, at the commencement of this section, the Commission has not published a draft reorganisation scheme in relation to that proposal.
+(8) Nothing in this Act shall affect any proceedings before any court at the commencement of this section.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act (No 2) 1995, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) This Act shall come into force on the day on which it receives the Royal assent.
+
+### 3 Regional petrol tax reimposed until close of 31 January 1996
+(1) As from the close of the 14th day after this Act receives the Royal assent, there shall be payable on all petrol delivered or used—
+  (a) in the Auckland Regional Council's regional petrol tax area, a regional petrol tax at the rate of 0.95 cents a litre; and
+  (b) in the Wellington Regional Council's regional petrol tax areas, a regional petrol tax—
+    (i) at the rate of 1.5 cents a litre in Wellington, Porirua, and the Hutt Valley; and
+    (ii) at the rate of 0.5 cents a litre in Kapiti up to and including Waikanae; and
+  (c) in the Canterbury Regional Council's regional petrol tax area, a regional petrol tax at the rate of 0.62 cents a litre; and
+  (d) in the Otago Regional Council's regional petrol tax area, a regional petrol tax at the rate of 0.5 cents a litre; and
+  (e) in Waikato Regional Council's regional petrol tax area, a regional petrol tax at the rate of 0.2 cents a litre.
+(2) The rates of regional petrol tax specified in subsection (1) are exclusive of any goods and services tax payable under the Goods and Services Tax Act 1985.
+(3) Notwithstanding anything in Part 11A of the principal Act (as inserted by section 2 of the Local Government Amendment Act (No 2) 1992),—
+  (a) the regional petrol taxes imposed by subsection (1) hereby deemed to be regional petrol taxes levied pursuant to and in accordance with that Part of that Act:
+  (b) the rate of any regional petrol tax specified in subsection (1) may from time to time be altered in the manner provided in that Part of that Act:
+  (c) subject to the provisions of this section, that Part of that Act shall apply in respect of every regional petrol tax imposed by this section as if there were omitted from section 200C(5) of that Act the expression “30 June 1995”, and there were substituted the expression “31 January 1996”, and with any other necessary modifications.
+(4) For the purposes of this section, a regional council's regional petrol tax area or regional petrol tax areas shall be the tax area or tax areas approved by the Minister of Transport, for the purposes of the corresponding regional petrol tax levied by the council, under section 200C(6) of the principal Act.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act (No 3) 1996, and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as “the principal Act”).
+(2) Except as provided in sections 10(2), 13(3), 14(4), 16(2), 17(2), 18(2), 21(3) and 22(3), this Act shall come into force on the day after the date on which this Act receives the Royal assent.
+
+### 19 Transitional provisions in relation to annual plans and annual reports
+(1) Notwithstanding the repeals effected by section 4, every local authority (other than the Chatham Islands Council) shall, as if this Act had not been passed, prepare and adopt, in respect of the financial year beginning on 1 July 1996 and the financial year beginning on 1 July 1997,—
+  (a) an annual plan under section 223D of the principal Act; and
+  (b) an annual report under section 223E of the principal Act.
+(2) Notwithstanding the repeals effected by section 8, the Chatham Islands Council shall, as if this Act had not been passed, prepare and adopt, in respect of the financial year beginning on 1 July 1996 and the financial year beginning on 1 July 1997,—
+  (a) an annual plan under section 10 of the Chatham Islands Council Act 1995; and
+  (b) an annual report under section 11 of the Chatham Islands Council Act 1995.
+
+### 20 Early implementation by specified local authorities of provisions relating to financial management
+(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of Local Government, apply the provisions of this section to any local authority specified in the order (being a local authority from which the Minister of Local Government has received, before 1 October 1996, a written application for the making of an order under this section in respect of that local authority).
+(2) Where the provisions of this section are applied to any local authority, the provisions of this Act, the principal Act, and any Act amended by this Act shall apply in respect of that local authority—
+  (a) as if for the expression “1 July 1998” wherever it occurs in sections 122C(2), 122E(2), 122K(5), 122N(4), 122P(3), 122R(3), 122Y, 223D(1), and 223E(1) of the principal Act, there were substituted in each case the expression “1 July 1997”; and
+  (b) as if for the expression “30 June 1999” wherever it occurs in section 122ZK, there were substituted in each case the expression “30 June 1998”; and
+  (c) as if for the expression “1 July 1998” wherever it occurs in sections 10(2), 13(3), 14(4), 16(2), 17(2), 18(2), 21(3), and 22(3), there were substituted in each case the expression “1 July 1997 “; and
+  (d) as if the words “and the financial year beginning on 1 July 1997” were omitted from section 19(1).
+
+**Transitional provisions**
+
+### 21 Transitional provisions
+(1) Notwithstanding the repeals effected by section 17, the provisions of the Local Authorities Loans Act 1956 shall, in respect of any loan outstanding by any local authority at the time of the repeal, be deemed to remain in force in relation to any local authority so far as those provisions are required to maintain any arrangements or provisions for—
+  (a) repayment of any such loan out of any specific fund or account:
+  (b) levying of any separate rate towards payments in respect of any such loan, including the amendment or increase or diminishing of any such rate:
+  (c) appropriation or pledging of any rates revenue in respect to any such loan:
+  (d) prohibiting the questioning of the validity of any rate made or levied to secure any such loan:
+  (e) appropriating or pledging of any other property or revenue or fund as security for any such loan:
+  (f) allocating any charges in respect of any such loan against revenues from any district or legal subdivision or other defined part of a district:
+  (g) transfer, division, cancellation, replacement, hypothecation, mortgage, registration, and surrender of debentures and stock, to such extent (if any) as is required to maintain in full force and effect all the rights and entitlements of any local authority and each holder in respect of such debentures and stock:
+  (h) establishment, accumulation, and administration of any sinking fund for the repayment of any such loan.
+(2) Notwithstanding subsection (1), nothing in section 57(2) of the Local Authorities Loans Act 1956 shall affect the free transferability of a debenture issued in form 3 in Schedule 1 of that Act.
+(3) This section shall come into force on 1 July 1998.
+
+### 22 Transitional provisions in relation to effect on principal Act of repeal of Local Authorities Loans Act 1956
+(1) Subject to subsection (2), the repeals effected by section 17 shall not affect section 37ZZZM(1) of the principal Act or the application of that section to any Order in Council (whether made before or after the commencement of this section) giving effect to any reorganisation scheme.
+(2) Notwithstanding anything in subsection (1) or in sections 37ZZZM(1) and 37ZZZN of the principal Act, where a local authority repays, before its maturity, any loan that is secured by a rate to which section 37ZZZM(1) of the principal Act refers or any loan in respect of which a rate has been made and levied pursuant to section 37ZZZN(1) of the principal Act, the provisions of section 37ZZZM(1) of the principal Act or of section 37ZZZN of the principal Act or of both, as the case may require, shall cease to apply to the rate or the area of land upon which the rate is charged.
+(3) This section shall come into force on 1 July 1998.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Local Government Amendment Act (No 2) 1999, and is part of the Local Government Act 1974 (“the principal Act”).
+(2) This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Repeals, amendments, and transitional and savings provisions**
+
+### 14 Transitional provision relating to Lake Taupo
+(1) The Minister of Local Government is the responsible Minister under section 650I of the principal Act for Lake Taupo and remains the responsible Minister until the close of a date specified by an order made under subsection (2).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Local Government, specify the date on which the Minister ceases to be the responsible Minister for Lake Taupo.
+(3) In this section, Lake Taupo means all the waters of Lake Taupo, the navigable rivers and streams flowing into that lake, the tailrace from the Tokaanu power station, and the waters of the Waikato River between Lake Taupo and the Huka Falls.
+
+### 15 Savings provisions relating to bylaws, leases, and other documents issued under Harbours Act 1950
+(1) Despite the repeal of the Harbours Act 1950 by section 10,—
+  (a) section 424 of the Resource Management Act 1991 (which relates to bylaws of former harbour boards) continues to have effect as if the Harbours Act 1950 had not been repealed:
+  (b) bylaws made under the Harbours Act 1950 (other than bylaws referred to in paragraph (a)) and in force immediately before the commencement of this section continue in force until the close of 31 March 2003, unless they are inconsistent with anything in section 684C to 684E of the principal Act, as if the Harbours Act 1950 had not been repealed; and, until the close of that 31 March, bylaws continued in force under this paragraph may from time to time be amended as if that Act had not been repealed:
+  (c) section 425 of the Resource Management Act 1991 (which relates to leases and other authorities issued by former Harbour Boards) continues to have effect as if the Harbours Act 1950 had not been repealed.
+(2) Every licence, permit, approval, pilotage exemption, or other written authorisation granted, given, or issued under the Harbours Act 1950, and every appointment made under that Act, that was in force immediately before the repeal of that Act by section 10 continues in force until it expires or is revoked or cancelled or replaced by a document issued or act done under the principal Act or the Maritime Transport Act 1994.
+(3) Despite the repeal of section 211 of the Harbours Act 1950 by section 10, pilotage district limits having effect under that section 211 immediately before its repeal continue in force until the close of 31 March 2003 unless sooner revoked.
+(4) For the purposes of this section, the Governor-General may from time to time, by Order in Council, do all or any of the following things:
+  (a) amend or revoke any pilotage district limits referred to in subsection (3):
+  (b) define new pilotage district limits, and amend or revoke such limits, for any period ending no later than the close of 31 March 2003
+(5) Exemptions from compulsory pilotage that were granted by or under section 225 of the Harbours Act 1950 and in force immediately before the repeal of that section by section 10 continue in force until maritime rules made under the Maritime Transport Act 1994 otherwise provide.
+
+### 16 Savings provisions relating to harbour-related functions, duties, and powers
+(1) A territorial authority responsible under any Act, Order in Council, or other enactment for operating a port or harbour may continue from time to time to appoint a harbourmaster and exercise functions, duties, and powers in respect of navigation safety.
+(2) Every instrument under the principal Act transferring to a territorial authority any functions, duties, or powers under the Harbours Act 1950, that was in force immediately before the commencement of section 10, continues in force until the expiration of 2 years after that commencement and then expires.
+(3) Nothing effected by or under this Act affects or limits the Waimakiriri Harbour District and Empowering Act 1916, the Lakes District Waterways Authority (Shotover River) Empowering Act 1985, the Northland Regional Council and Far North District Council Vesting and Empowering Act 1992, or any other Act applying to any harbour.
 
 ### 1 Title
 This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
