@@ -1,5 +1,5 @@
 # New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
-_Consolidation as at 2009-11-01_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
@@ -30,6 +30,7 @@ The purposes of this Act are to—
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **alternative official geographic names** means any 2 or more alternative official geographic names for the same geographic feature or Crown protected area
   - **Antarctica** has the same meaning as in section 2(1) of the Antarctica Act 1960
   - **Board** means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by section 7
   - **Crown protected area** means—
@@ -58,12 +59,13 @@ In this Act, unless the context otherwise requires,—
       (ii) publications intended for travellers or tourists
   - **official geographic name** —
     (a) means—
-      (i) the name of a geographic feature assigned, approved, or altered by the Board and publicly notified in accordance with this Act; or
+      (i) the name of a geographic feature assigned, approved, or altered under this Act and publicly notified in accordance with this Act; or
       (ii) the names validated by section 35; and
     (b) includes—
       (i) the name of a Crown protected area reviewed and concurred with by the Board under subpart 3 of Part 2; and
       (ii) a name published in the Gazette under the New Zealand Geographic Board Act 1946; and
-      (iii) the place names assigned, altered, or discontinued under a Treaty of Waitangi Settlement Act enacted before the commencement of this Act
+      (iii) the place names assigned, altered, or discontinued under a Treaty of Waitangi Settlement Act enacted before the commencement of this Act; and
+      (iv) alternative official geographic names
   - **place** —
     (a) means a city, town, village, site, area, or similar place; and
     (b) includes a locality and suburb; but
@@ -333,12 +335,23 @@ A person making a submission on a proposal—
 ### 31 Names of Crown protected areas
 A name assigned to, or altered for, a Crown protected area in accordance with this subpart is the official geographic name of that area.
 
+**Requirement to notify Board if name discontinued**
+
+### 31A Requirement to notify Board if name of Crown protected area discontinued
+(1) The Minister of Conservation must, as soon as is reasonably practicable, notify the Board if the name assigned to a Crown protected area in accordance with this subpart is discontinued—
+  (a) because the area—
+    (i) has ceased to be a Crown protected area; or
+    (ii) has been included in another Crown protected area; or
+  (b) for any other reason.
+(2) On receipt of notification under subsection (1), the Board must remove the name of the Crown protected area from the list of official geographic names in the Gazetteer.
+
 ## Part 3 — Miscellaneous provisions
 
 **Use of official geographic names**
 
 ### 32 Official geographic names must be used
 (1) If there is an official geographic name for a geographic feature or Crown protected area, that name must be used in all official documents.
+(1A) If 2 or more alternative official geographic names exist for the same geographic feature or Crown protected area, the use of any 1 of those names, or all of those names, is sufficient to comply with subsection (1).
 (2) However, subsection (1) does not apply if an official document containing a name other than an official geographic name states that the particular name is not the official geographic name of the geographic feature or Crown protected area to which it applies.
 
 ### 33 Injunction may be granted by Court
