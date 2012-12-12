@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2012-10-24_
+_Consolidation as at 2012-12-12_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -2974,9 +2974,14 @@ Where—the young person is, unless the information is discharged under section 
   (f) an order under section 283(l) (a community work order under section 298); or
   (g) an order under section 283(m) (a supervision with activity order under section 307); or
   (h) an order under section 283(n) (a supervision with residence order under section 311); or
-  (i) an intensive supervision order under section 296G.
-(2) If it is made after the commencement of this section, and does not expire sooner, the order expires when the young person in respect of whom it is made attains the age of 18 years.
-(3) If it is made before the commencement of this section, and does not expire sooner, the order expires 6 months after the young person in respect of whom it is made attains the age of 17 years.
+  (i) an intensive supervision order under section 296G; or
+  (j) a custody order under section 297B(5); or
+  (k) a custody order under section 307(4).
+(2) The order expires (if it does not expire sooner) when the young person in respect of whom it is made attains the age of 18 years, if it is—
+  (a) an order specified in subsection (1)(a) to (i) and made on or after 1 October 2010; or
+  (b) an order specified in subsection (1)(j) or (k) and made after the date on which the Children, Young Persons, and Their Families Amendment Act 2012 comes into force.
+(3) The order expires (if it does not expire sooner) 6 months after the young person in respect of whom it is made attains the age of 17 years if it is an order specified in subsection (1)(a) to (i) and made before 1 October 2010.
+(4) The order expires under section 108 if it is an order specified in subsection (1)(j) and (k) and made before the date on which the Children, Young Persons, and Their Families Amendment Act 2012 comes into force.
 
 **Failure to comply with, and variation and cancellation of, specified orders**
 
@@ -3043,7 +3048,7 @@ Where—the young person is, unless the information is discharged under section 
   (a) an application under section 296B(1) for a declaration that a young person has without reasonable excuse failed to comply satisfactorily with a requirement of an order specified in section 296A(1) (a breach application); or
   (b) an application under section 296E in respect of an order specified in section 296A(1) or (2) (a variation or cancellation application).
 (2) The court to which the breach application or, as the case may be, the variation or cancellation application has been made may, on the application of a party to the proceedings or the youth advocate, or of its own motion, make an interim suspension order that suspends the operation of the order specified in section 296A(1) or (2) until the court disposes of the breach application or, as the case may be, the variation or cancellation application.
-(3) If the court makes an interim suspension order under this section in respect of an order specified in section 296A(1) or (2), the court may also exercise, in respect of the young person, any power conferred by section 238(1)(a) to (e).
+(3) If the court makes an interim suspension order under this section in respect of an order specified in section 296A(1), the court may also exercise, in respect of the young person, any power conferred by section 238(1)(a) to (e).
 
 **Intensive supervision orders**
 
@@ -3159,7 +3164,9 @@ Where a court finds a charge against a young person proved, and that young perso
 (4) This subsection applies if the court is satisfied that a programme that a young person is required by an order under section 283(jc) to attend is unable to be provided to the young person while he or she lives with the parents or guardians or other persons having the care of the young person.
 (5) If subsection (4) applies, the court may, to enable the programme referred to in subsection (4) to be provided to the young person, make an order placing the young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service.
 (6) The court must not make an order under subsection (5) placing a young person in the custody of a person (other than the chief executive) or organisation unless that person or organisation consents to the making of the order.
-(7) A custody order under subsection (5) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that section 365 (which would empower the chief executive to place the young person in a residence established under section 364) does not apply to the young person.
+(7) A custody order under subsection (5) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that—
+  (a) a custody order under subsection (5) expires under section 296 (and so generally not under section 108); and
+  (b) section 365 (which would empower the chief executive to place the young person in a residence established under section 364) does not apply to the young person.
 
 **Community work order**
 
@@ -3232,7 +3239,9 @@ Where the court makes an order under section 283(k) placing a young person under
 (3) This subsection applies if the court is satisfied that a programme or activity that a young person is required by a condition of an order under subsection (1) to take part in or undertake is unable to be provided to the young person while he or she lives with the parents or guardians or other persons having the care of the young person.
 (4) If subsection (3) applies, the court may, to enable the programme or activity referred to in subsection (3) to be provided to the young person, make an order placing the young person in the custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service.
 (5) The court must not make an order under subsection (4) placing a young person in the custody of a person (other than the chief executive) or organisation unless that person consents to the making of the order.
-(6) A custody order under subsection (4) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that section 365 (which would empower the chief executive to place the young person in a residence established under section 364) does not apply to the young person.
+(6) A custody order under subsection (4) has the same effect as if the young person had been placed in the custody of the relevant person or organisation under an order under section 101, except that—
+  (a) a custody order under subsection (4) expires under section 296 (and so generally not under section 108); and
+  (b) section 365 (which would empower the chief executive to place the young person in a residence established under section 364) does not apply to the young person.
 
 ### 308 Conditions of supervision with activity order
 (1) The conditions specified in section 305 shall apply to every order made under section 307(1) as if that order were an order made under section 283(k).
@@ -3530,12 +3539,12 @@ Before making any order under section 283 the court may make any order that a Fa
 The court may, unless any person entitled to make representations in the proceedings objects, direct that any report required pursuant to section 334 (other than a report to which subsection (2) of that section applies) or section 336 be made orally to the court.
 
 ### 338 Privilege for reports
-The provisions of section 188 shall apply with such modifications as may be necessary with respect to every report furnished to the court pursuant to section 308C or section 319A or section 333 or section 334 or section 336.
+The provisions of section 188 shall apply with such modifications as may be necessary with respect to every report furnished to the court pursuant to section 296M or section 308C or section 314 or section 319A or section 320 or section 333 or section 334 or section 336.
 
 ### 339 Access to reports and plans under this Part
 The provisions of sections 191 to 194 shall apply with such modifications as may be necessary with respect to—
-  (a) every report furnished to the court pursuant to section 308C or section 319A or section 333 or section 334 or section 336; and
-  (b) every plan furnished to the court pursuant to section 319A or section 335.
+  (a) every report furnished to the court pursuant to section 296M or section 308C or section 314 or section 319A or section 320 or section 333 or section 334 or section 336; and
+  (b) every plan furnished to the court pursuant to section 296M or section 319A or section 335.
 
 **Written statement of terms of orders**
 
@@ -3683,6 +3692,7 @@ Sections 362, 364, 365, 387, 390 to 392, 394, and 395 apply to—
   (f) any child or young person who is placed in the custody of the chief executive pursuant to section 235:
   (g) any child or young person who is ordered to be detained in the custody of the chief executive or an iwi social service or a cultural social service pursuant to section 238(1)(d):
   (h) any young person who is placed in the custody of the chief executive pursuant to a supervision with residence order made under section 283(n):
+  (ha) any child or young person who is placed in the custody of the chief executive or an iwi social service or a cultural social service or the director of a child and family support service pursuant to an order made under section 297B(5) or 307(4) (except that, under section 297B(7)(b) or 307(6)(b), section 365 does not apply to the child or young person):
   (i) any child or young person who is placed in the custody of the chief executive or an iwi social service or a cultural social service or the director of a child and family support service pursuant to an order made under section 345.
 
 **Placement of children and young persons**
@@ -3730,7 +3740,7 @@ Subject to sections 43, 81, 104, and 114(2)(c), the chief executive or, as the c
   (b) charged with an offence of the kind specified in section 272(1)(b) or (c); and
   (c) in respect of whom there is in force an order under section 238(1)(d) or 283(n).
 (4) Youth justice residence in subsection (3) means a residence established and maintained under section 364 for purposes that are or include remand, the provision of custody under supervision with residence orders made under section 283(n), or both.
-(5) This section is subject to section 312 (which requires the court's approval for the placement in a residence, and for the transfer between residences, of a young person placed in the chief executive's custody by an order under section 311).
+(5) This section is subject to sections 297B(7)(b) and 307(6)(b) (which ensure this section does not apply to children and young persons subject to custody orders under sections 297B(5) and 307(4)) and to section 312 (which requires the court's approval for the placement in a residence, and for the transfer between residences, of a young person placed in the chief executive's custody by an order under section 311).
 
 ### 366 Closing of residences and transfer of residents
 (1) The chief executive may at any time, with the Minister's approval, direct the closing of any residence established under section 364, and may transfer the children and young persons in any such residence to any other residence under this Act, or place any such children and young persons in the care of any person or organisation pursuant to section 362.
@@ -4648,39 +4658,3 @@ The Criminal Disclosure Act 2008.
 ## Schedule 2 — Enactments amended
 
 ## Schedule 3 — Enactments repealed
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
