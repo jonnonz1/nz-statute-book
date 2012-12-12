@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -331,7 +331,9 @@ The functions of the Registrar are to—
   (a) a person who has been convicted, whether in New Zealand or another country, of a crime involving dishonesty (or of a crime that, if committed in New Zealand, would be a crime involving dishonesty) within the 10 years preceding the application for a licence:
   (b) a person who has been convicted of an offence under sections 14, 17 to 22, or 24 of the Fair Trading Act 1986, within the 5 years preceding the application for a licence:
   (c) a person whose licence or certificate of approval has been cancelled within the preceding 5 years or whose licence is suspended at the time of application under the Real Estate Agents Act 1976:
-  (d) a person whose licence has been cancelled within the preceding 5 years or whose licence is suspended at the time of application under this Act:
+  (d) a person—
+    (i) whose licence has, within the preceding 5 years, been cancelled under section 54(c) to (h); or
+    (ii) whose licence is currently suspended under section 110(2)(c) or 115:
   (e) a person subject to an order made, or a notice given, under the law of a country, State, or territory outside New Zealand, within the preceding 5 years who is prohibited from acting as an agent, branch manager, or salesperson (or equivalent) in that country, State, or territory, unless the person satisfies the Authority that he or she is a fit and proper person to hold a licence:
   (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and who has been disqualified from holding a licence or whose licence has been suspended under the Real Estate Agents Act 1976:
   (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the Companies Act 1993, the Securities Markets Act 1988, or the Takeovers Act 1993:
@@ -371,7 +373,7 @@ If notice of an objection to an application is made the Registrar must,—
 (1) The Registrar must grant a licence to the applicant if, after hearing any objection to the issue of a licence, the Registrar is satisfied that the applicant—
   (a) is entitled to be licensed as an agent, branch manager, or salesperson under section 36; and
   (b) is not prohibited from being licensed as an agent, branch manager, or salesperson under section 37; and
-  (c) if the applicant is a company, any person who will be an officer of the company if the application is granted is, by reason of his or her personal character or financial position, a proper person to be an officer of a licensee company.
+  (c) if the applicant is a company, any person who will be an officer of the company if the application is granted is, by reason of both his or her personal character and his or her financial position, a proper person to be an officer of a licensee company.
 (2) The Registrar, on granting the licence, must—
   (a) issue to the applicant 1 of the following classes of licence:
     (i) an agent's licence; or
@@ -798,7 +800,7 @@ If money payable by a person under an order by a Committee or by the Disciplinar
 (1) This section establishes a body to be known as the Real Estate Agents Disciplinary Tribunal.
 (2) The Tribunal consists of—
   (a) a person to act as chair of the Tribunal, who must be a barrister or solicitor with not less than 7 years’ legal experience; and
-  (b) up to 4 other members, at least one of whom must be a licensee.
+  (b) up to 5 other members, at least one of whom must be a licensee.
 (3) The members of the Tribunal are appointed by the Minister.
 (4) The Minister must consult with REINZ when making the first appointment of a licensee under subsection (2)(b).
 (5) The Minister must designate one of the members referred to in subsection (2)(b) as the deputy chairperson of the Tribunal.
@@ -1089,7 +1091,7 @@ As soon as practicable after a person signs a contractual document and gives tha
   (e) the licensee’s de facto partner:
   (f) a child, grandchild, brother, sister, nephew, or niece of the licensee or of any person referred to in paragraphs (d) or (e):
   (g) any other child who is being, or is to be, cared for on a continuous basis by the licensee or any person referred to in paragraph (d) or (e):
-  (h) any parent of the licensee or of any person referred to in paragraph (d) or (e):
+  (h) a grandparent, parent, uncle, or aunt of the licensee or of any person referred to in paragraph (d) or (e):
   (i) an entity that has an interest in the licensee or an entity (not being an entity listed on the New Zealand Stock Exchange) in which the licensee has an interest.
 
 ## Part 6 — Miscellaneous provisions
