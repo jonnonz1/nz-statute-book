@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2012-12-05_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -141,7 +141,7 @@ A local board must be established for each local board area for the purposes ofâ
   (a) the person is identified in the Council's valuation roll as the sole ratepayer in respect of a rating unit within the local board area; or
   (b) the person is nominated to be enrolled as a ratepayer elector in respect of a rating unit within the local board area, owned by 1 or more ratepayers, none of whom is qualified as a residential elector within the local board area.
 (6) To avoid doubt,â€”
-  (a) sections 19F and 19H of the Local Electoral Act 2001 do not apply to a local board:
+  (a) sections 19F and 19J of the Local Electoral Act 2001 do not apply to a local board:
   (b) sections 117 and 117A of the Local Electoral Act 2001 apply to a local board.
 
 ### 11A Indemnification and liability of local board members
