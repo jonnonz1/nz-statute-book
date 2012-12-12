@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2012-12-05_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -518,8 +518,8 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 (3) However, if the financial contributions are held or received for water supply or wastewater services infrastructure, section 59 applies.
 
 ### 59 Financial contributions for certain infrastructure transferred to Watercare Services Limited
-(1) The Auckland Council must immediately transfer to Watercare Services Limited any financial contribution (or any part of a financial contribution) that is or was required for water supply or wastewater services infrastructure and that is—
-  (a) referred to in section 58; or
+(1) The Auckland Council must immediately transfer to Watercare Services Limited any financial contribution (or any part of a financial contribution) that is or was required for water supply or wastewater services infrastructure and—
+  (a) that is referred to in section 58; or
   (b) that the Council receives in accordance with the requirements of any plan referred to in section 78(2).
 (2) Subsection (3) applies to a financial contribution—
   (a) described in subsection (1); or
