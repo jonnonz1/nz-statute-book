@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2012-12-03_
+_Consolidation as at 2012-12-12_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -2376,7 +2376,7 @@ The purpose of sections 217 to 221 is to provide for the recovery from the New Z
   (a) the actual and anticipated cost to the Crown of the performance, in the financial year to which the levy relates, of the functions of the Legal Complaints Review Officer; and
   (b) any unanticipated cost to the Crown of the performance, in the financial year to which the levy relates, of the functions of the Legal Complaints Review Officer.
 (2) The cost to the Crown of the performance of the functions of the Legal Complaints Review Officer includes—
-  (a) the remuneration and allowances payable under clause 4 of Schedule 3 to the Legal Complaints Review Officer and the Deputy Legal Complaints Review Officer; and
+  (a) the remuneration and allowances payable under clause 4 of Schedule 3 to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer; and
   (b) the cost of the accommodation and services provided under clause 5 of Schedule 3.
 (3) The amount of the unanticipated cost referred to in subsection (1)(b) is not to exceed 10% of the actual and anticipated cost referred to in subsection (1)(a).
 (4) The rate of the levy—
@@ -4070,19 +4070,19 @@ Nothing in this schedule prevents the New Zealand Law Society or the New Zealand
 (2) The person appointed as the Legal Complaints Review Officer is deemed to have vacated his or her office if he or she is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) The person appointed as the Legal Complaints Review Officer may, at any time, resign his or her office by giving notice in writing to that effect to the Minister.
 
-### 3 Deputy Legal Complaints Review Officer
-(1) There may, from time to time, be appointed a deputy to the person appointed as the Legal Complaints Review Officer.
-(2) Subject to the control of the Legal Complaints Review Officer, the Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer under this Act (including the power of delegation conferred by clause 6).
-(3) The Deputy Legal Complaints Review Officer is to be appointed in the same manner as the Legal Complaints Review Officer, and sections 190 and 191 and clauses 1 and 2 apply to the Deputy Legal Complaints Review Officer in the same manner as they apply to the Legal Complaints Review Officer.
-(4) On the occurrence from any cause of a vacancy in the office of the Legal Complaints Review Officer, and in the case of the absence from duty of the person appointed as the Legal Complaints Review Officer (from whatever cause arising), and for so long as any such vacancy or absence continues, the Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer.
-(5) The fact that the Deputy Legal Complaints Review Officer exercises or performs any power, duty, or function of the Legal Complaints Review Officer is conclusive evidence of his or her authority to do so.
+### 3 Deputy Legal Complaints Review Officers
+(1) There may, from time to time, be appointed 2 deputies to the person appointed as the Legal Complaints Review Officer.
+(2) Subject to the control of the Legal Complaints Review Officer, a Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer under this Act (including the power of delegation conferred by clause 6).
+(3) Each Deputy Legal Complaints Review Officer is to be appointed in the same manner as the Legal Complaints Review Officer, and sections 190 and 191 and clauses 1 and 2 apply to a Deputy Legal Complaints Review Officer in the same manner as they apply to the Legal Complaints Review Officer.
+(4) On the occurrence from any cause of a vacancy in the office of the Legal Complaints Review Officer, and in the case of the absence from duty of the person appointed as the Legal Complaints Review Officer (from whatever cause arising), and for so long as any such vacancy or absence continues, each Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer.
+(5) The fact that a Deputy Legal Complaints Review Officer exercises or performs any power, duty, or function of the Legal Complaints Review Officer is conclusive evidence of his or her authority to do so.
 
 ### 4 Remuneration and allowances
-There is to be paid to the Legal Complaints Review Officer and the Deputy Legal Complaints Review Officer out of public money remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the provisions of the Fees and Travelling Allowances Act 1951, and the provisions of that Act are to apply accordingly as if the Legal Complaints Review Officer and the Deputy Legal Complaints Review Officer were each a member of a statutory board and the travelling were in the service of a statutory board.
+There is to be paid to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer out of public money remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the provisions of the Fees and Travelling Allowances Act 1951, and the provisions of that Act are to apply accordingly as if the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer were each a member of a statutory board and the travelling were in the service of a statutory board.
 
 ### 5 Accommodation and services
-(1) The Ministry of Justice is responsible for ensuring that the Legal Complaints Review Officer and the Deputy Legal Complaints Review Officer are provided with such accommodation and such administrative and secretarial services as are approved from time to time by the Minister of Justice.
-(2) If the Ministry of Justice considers that there is a need to incur, in providing the Legal Complaints Review Officer or the Deputy Legal Complaints Review Officer or both with accommodation or services, costs that have not been anticipated, that Ministry must obtain the approval of the Minister of Justice before incurring those costs.
+(1) The Ministry of Justice is responsible for ensuring that the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer are provided with such accommodation and such administrative and secretarial services as are approved from time to time by the Minister of Justice.
+(2) If the Ministry of Justice considers that there is a need to incur, in providing the Legal Complaints Review Officer or a Deputy Legal Complaints Review Officer with accommodation or services, costs that have not been anticipated, that Ministry must obtain the approval of the Minister of Justice before incurring those costs.
 
 ### 6 Delegation of powers by Legal Complaints Review Officer
 (1) With the prior approval of the Minister of Justice, the Legal Complaints Review Officer may, from time to time, delegate to any person holding office under the Legal Complaints Review Officer any of the functions or powers of the Legal Complaints Review Officer under this Act (including this power of delegation).
@@ -4115,7 +4115,7 @@ Every counsel appearing before the Legal Complaints Review Officer has the same 
 
 ### 10 Disclosure of information
 (1) This clause applies to—
-  (a) any person who holds, or has held, office as the Legal Complaints Review Officer or the Deputy Legal Complaints Review Officer:
+  (a) any person who holds, or has held, office as the Legal Complaints Review Officer or a Deputy Legal Complaints Review Officer:
   (b) any person to whom any of the functions and powers of the Legal Complaints Review Officer are, or have been, delegated under this Act.
 (2) No person to whom this clause applies may communicate any matter that came to the knowledge of that person or the employer of that person in the course of the exercise by that person, or the employer of that person, of powers conferred by this Act on that person, or the employer of that person, in relation to any complaint made, or inquiry or investigation conducted, under this Act except—
   (a) for the purposes of the inquiry or investigation; or
@@ -4129,7 +4129,7 @@ Every counsel appearing before the Legal Complaints Review Officer has the same 
   (e) in evidence in any court.
 
 ### 11 Legal Complaints Review Officer not personally liable
-A person who is the Legal Complaints Review Officer or the Deputy Legal Complaints Review Officer or an agent, employee, or delegate of the Legal Complaints Review Officer is not under any civil or criminal liability in respect of—unless that person has acted in bad faith.
+A person who is the Legal Complaints Review Officer or a Deputy Legal Complaints Review Officer or an agent, employee, or delegate of the Legal Complaints Review Officer is not under any civil or criminal liability in respect of—unless that person has acted in bad faith.
   (a) any act done or omitted to be done in the course of performing or exercising any of that person's functions, duties, or powers under this Act or any rules made under this Act; or
   (b) any words spoken or written at, or for the purpose of, the hearing of any inquiry or other proceedings under this Act or any rules made under this Act; or
   (c) anything contained in any notice given under this Act or any rules made under this Act,—
