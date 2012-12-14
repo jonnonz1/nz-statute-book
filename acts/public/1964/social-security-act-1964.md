@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2012-12-14_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -4417,7 +4417,7 @@ In determining the base rate in relation to a person in respect of any period th
 |  | $ |
 | --- | --- |
 | 1For a single young person without dependent children. | 170.80 a week subject to clause 10 |
-| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 134.64 a week subject to clause 10 |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 136.64 a week subject to clause 10 |
 | 3For any other single young person with a dependent child or children. | 293.58 a week subject to clause 10 |
 | 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 170.80 a week subject to clause 11 |
 | 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or children. | 170.80 a week subject to clause 11 |
