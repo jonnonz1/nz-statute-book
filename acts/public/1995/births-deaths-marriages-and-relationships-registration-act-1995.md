@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-12-19_
 
 > Title
 
@@ -1138,6 +1138,12 @@ In sections 78H and 78I, historical information means information that relates t
   (c) present a copy of the report to the House of Representatives.
 (2) In preparing the report, the Minister must consult with interested parties (including the Privacy Commissioner and the Chief Archivist).
 
+### 78K Disclosure of certain information for purposes of Identity Information Confirmation Act 2012
+(1) Any information specified in subsection (2) in relation to an individual about whom an identity information check was carried out under section 9 of the Identity Information Confirmation Act 2012 may be disclosed to an agency or intermediary (within the meaning of that Act) if the check indicates that death information or name change information is recorded for that individual.
+(2) The information referred to in subsection (1) is as follows:
+  (a) that the individual is dead:
+  (b) that name change information in relation to the individual exists.
+
 ## Part 10 — Registrar-General and Registrars
 
 ### 79 Registrar-General
@@ -1221,6 +1227,9 @@ The Registrar-General and every Registrar shall, in respect of any statutory dec
 
 ### 87A Provision of information to Statistics New Zealand
 This Act does not limit the provision of information under the Statistics Act 1975.
+
+### 87AB Access to information for purposes of Identity Information Confirmation Act 2012
+Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 87B Registrar-General may issue standard forms
 (1) The Registrar-General may issue forms requiring information or setting out information that may be provided for the purposes of this Act.
