@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-12-19_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -324,6 +324,9 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 (3) Before entering into an agreement under subsection (1), or varying an agreement under subsection (2), the Secretary and the chief executive must consult with the Privacy Commissioner on the terms of the agreement or variation.
 (4) The Privacy Commissioner may require the Secretary and the chief executive to review an agreement under this section, and report on the result of the review to the Privacy Commissioner, at intervals not shorter than 12 months.
 (5) For citizenship purposes, the Secretary or designated officers of the Department of Internal Affairs may access information held by the chief executive only in accordance with an agreement entered into under this section.
+
+### 26C Access to information for purposes of Identity Information Confirmation Act 2012
+Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 27 Offences and penalties
 (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who—
