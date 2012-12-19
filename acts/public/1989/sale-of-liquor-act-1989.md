@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2012-12-19_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -878,77 +878,46 @@ On granting a special licence, the District Licensing Agency may give such direc
 **Licensing Authority**
 
 ### 85 Licensing Authority established
-(1) For the purposes of this Act, there shall be an authority to be called the Liquor Licensing Authority.
-(2) The Licensing Authority shall consist of 3 or 4 persons, to be appointed by the Governor-General on the recommendation of the Minister, of whom 1 shall be a District Court Judge who shall be appointed as the chairperson of the Authority.
-(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by virtue merely of his or her appointment to the Authority.
-(4) The powers of the Authority shall not be affected by any vacancy in its membership.
+[Repealed]
 
 ### 86 Term of office of members of Authority
-(1) Except as otherwise provided in this Act, a member of the Licensing Authority holds office for a term stated by the Governor-General on his or her appointment. A member may be reappointed.
-(1A) Except as provided in subsection (1B), the term stated must be 5 years.
-(1B) The term stated may be less than 5 years if—
-  (a) at the time of the appointment concerned—
-    (i) 2 or 3 members hold office; and
-    (ii) each of them was appointed for a term of 5 years; and
-  (b) only 1 member is appointed at that time.
-(2) Notwithstanding anything in subsection (1), every member of the Authority, unless that member sooner vacates office under section 87, shall continue in office until his or her successor comes into office.
+[Repealed]
 
 ### 87 Resignation or removal from office
-(1) Any member of the Licensing Authority may resign from office at any time by written notice given to the Minister.
-(2) Any member of the Authority may be removed from office at any time by the Governor-General for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
+[Repealed]
 
 ### 88 Deputies of members
-(1) In any case in which the Governor-General is satisfied that the chairperson or any other member of the Licensing Authority is incapacitated by illness, absence, or other sufficient cause from performing the duties of office, or where the chairperson or any other member notifies the Minister that in his or her opinion it is not proper that he or she should act in any particular proceeding, the Governor-General may, on the recommendation of the Minister, appoint a person to act as the deputy of the chairperson or of the member during the period of incapacity or (as the case may require) for the purposes of that proceeding.
-(2) Any deputy shall, while acting as such, be deemed to be a member of the Authority, and the deputy of the chairperson shall have all the powers of the chairperson.
-(3) No appointment of a deputy and no acts done by a deputy as such, and no acts done by the Authority while any deputy is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
+[Repealed]
 
 ### 89 Remuneration and travelling expenses
-There shall be paid out of money appropriated by Parliament for the purpose to the members of the Licensing Authority remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
+[Repealed]
 
 ### 90 Officers of Authority and professional assistance
-(1) There shall from time to time be appointed under the State Sector Act 1988 a Secretary of the Licensing Authority and such other employees as may be necessary for the efficient carrying out of the functions of the Authority under this Act.
-(2) The Authority may from time to time, with the authority of the Minister, engage, under a contract for services, such professional and technical and other assistance as it may consider necessary to enable it to carry out its functions.
+[Repealed]
 
 ### 91 Functions of Authority
-The principal functions of the Licensing Authority shall be as follows:
-  (a) to consider and determine such applications for the grant of on-licences, off-licences, and club licences as may be referred to it by any District Licensing Agency in accordance with this Act:
-  (b) to consider and determine such applications for renewal of on-licences, off-licences, and club licences as may be referred to it by any District Licensing Agency in accordance with this Act:
-  (c) to consider and determine such applications for the grant of managers' certificates as may be referred to it by any District Licensing Agency in accordance with this Act:
-  (d) to consider and determine such applications for renewal of managers' certificates as may be referred to it by any District Licensing Agency in accordance with this Act:
-  (e) to consider and determine appeals from decisions of District Licensing Agencies in accordance with this Act:
-  (f) such other functions as may be conferred on the Authority by or under this Act or any other enactment.
+[Repealed]
 
 ### 92 Powers of Authority
-The Licensing Authority shall have all such powers as are conferred on it by or under this Act or any other enactment, and all such other powers as may be reasonably necessary to enable it to exercise its jurisdiction and perform its functions satisfactorily.
+[Repealed]
 
 ### 93 Authority may give directions where appropriate Agency in doubt
-Where any person is in doubt as to the appropriate District Licensing Agency with which to file any application or to which to make any application under this Act, that person may apply for directions to the Licensing Authority, and any direction by the Licensing Authority on such an application shall have effect according to its tenor.
+[Repealed]
 
 ### 94 Authority may refer matters for investigation
-(1) The Licensing Authority may from time to time appoint one of its members or any other qualified person, not being an inspector, to investigate and report to the Authority on such matters as are referred to that person for the purpose of the proper exercise of its powers or functions under this Act.
-(2) Every person commits an offence and is liable to a fine not exceeding $2,000 who, having the custody or possession of any books, papers, accounts, or other documents relevant to any matter to be investigated under this section, refuses or fails to allow the person conducting the investigation to have access to the documents, or who obstructs any such person in the making of the investigation.
+[Repealed]
 
 ### 95 Authority may refer matters to District Licensing Agency
-(1) The Licensing Authority may from time to time request any District Licensing Agency to inquire into and report to the Authority on any matter within the scope of the Authority's functions.
-(2) When making any report under this section, the District Licensing Agency shall send to the Authority notes of any evidence taken before it in any such inquiry, together with any written submissions made to it, and may make such recommendations on the matter as it thinks fit.
-(3) On the receipt of any report made by a District Licensing Agency under this section, the Authority may make any decision or order as if it had itself heard the proceedings, or may hear any further submissions or evidence on the matter before making any such decision or order.
+[Repealed]
 
 ### 96 Authority may send statements to Agencies
-(1) The Licensing Authority may from time to time issue to District Licensing Agencies a statement setting out its views on the general administration of this Act or the policy to be followed in the administration of the Act or any provisions of it, or any information obtained by the Authority from any inquiry held by it or from any other source.
-(2) No such statement shall relate to any matter that may be a ground for an appeal against a decision of a District Licensing Agency.
-(3) In the exercise of its functions under this Act, every District Licensing Agency must observe any statement issued under this section.
+[Repealed]
 
 ### 97 Meetings of Authority
-(1) Meetings of the Licensing Authority shall be held at such times and places as the Authority or the chairperson from time to time appoints.
-(2) At all meetings of the Authority, 2 members shall constitute a quorum.
-(3) At any meeting at which the chairperson is present, he or she shall have a deliberative vote, and, in the case of an equality of votes, shall also have a casting vote.
-(4) The decision of the Authority on any matter shall be determined by a majority of the valid votes recorded on it.
+[Repealed]
 
 ### 98 Annual report
-(1) Within 3 months after the end of every financial year, the Licensing Authority shall prepare and send to the Minister a report—
-  (a) of the Authority's proceedings and operations during the year; and
-  (b) on the working of this Act and the desirability or otherwise of amending it.
-(2) The Minister shall lay a copy of the report before the House of Representatives within 20 sitting days after the date on which the Minister receives it.
+[Repealed]
 
 **District Licensing Agencies**
 
@@ -2559,39 +2528,3 @@ As soon as practicable after the commencement of this Act, the Licensing Authori
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — Existing licensing trusts
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
