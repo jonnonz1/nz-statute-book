@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2012-12-19_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -589,6 +589,9 @@ Proceedings may be brought for an offence against section 29A(1), section 30(1),
     (iv) to assist in the processing of passengers.
 (2) Every application form for a New Zealand travel document that is printed after the date of commencement of the Passports Amendment Act 2005 must include a statement that the information may be so disclosed.
 (3) Nothing in section 36 shall prevent or limit any other disclosure of the information which may be otherwise required or authorised by or under law.
+
+### 37A Access to information for purposes of Identity Information Confirmation Act 2012
+Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 38 Penalties
 (1) Every person who commits an offence under this Act in respect of which either—is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
