@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-11-02_
+_Consolidation as at 2012-12-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -17202,7 +17202,7 @@ Procedure for setting economic rate
     (i) the rate calculated for each kind; and
     (ii) the reduction in compliance costs that is likely to be achieved.
 Formula
-(4) The formula is—1−((residual value)1).costestimated useful life
+(4) The formula is—(()1).1−residual valueestimated useful lifecost
 Definition of items in formula
 (5) In the formula,—
   (a) residual value is the greater of—
