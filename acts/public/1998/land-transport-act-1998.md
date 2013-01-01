@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-01-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4235,6 +4235,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
     (b) the Agency, if an infringement notice is issued by an employee of the Agency or by a person acting on behalf of the Agency:
     (c) a local authority, if an infringement notice is issued by an employee of the local authority or by a person acting on behalf of the local authority:
     (d) the Registrar
+  - **motor vehicle (synthetic greenhouse gas) levy** means the levy payable under section 227(1)(a) of the Climate Change Response Act 2002
   - **ordinary plate** means a registration plate that must be displayed on a motor vehicle unless a personalised plate or a trade plate is issued for display on the motor vehicle
   - **personal information** means the name and address (and, in the case of an individual, the date of birth and driver licence number) and any other information about a person registered or previously registered in respect of a motor vehicle
   - **personalised plate** means a registration plate with a single letter or number or combination of letters, numbers, or letters and numbers allocated under section 259
@@ -4371,6 +4372,7 @@ The purposes of the register are to facilitate—
   (b) accompanied by—
     (i) the prescribed fee; and
     (ii) an application for a licence for the motor vehicle.
+(1A) An application for registration of a motor vehicle must also be accompanied by the amount of the motor vehicle (synthetic greenhouse gas) levy for the motor vehicle if required under section 227(1)(a) of the Climate Change Response Act 2002.
 (2) The only persons who may be registered in respect of motor vehicles are—
   (a) a natural person of or over 15 years of age; or
   (b) a body corporate; or
