@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2012-09-18_
+_Consolidation as at 2013-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -14,13 +14,15 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (a) does not apply to that person unless—
     (i) the Part or subpart in Schedule 3 or 4 in which the activity is listed applies; and
     (ii) the person, if carrying out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3, falls within a class of persons prescribed in an Order in Council that applies that subpart; and
-  (b) applies subject to sections 2C(3), 217 to 221, and 222A to 222D.
+  (b) applies subject to sections 2C(3), 217 to 221, and 63A, 64A, 178A, and 178B.
 (2) Part 1 of Schedule 3 and Parts 1 and 3 of Schedule 4 apply on and after 1 January 2008.
-(3) Part 2 of Schedule 3 and Part 4 of Schedule 4 apply on and after 1 January 2009.
+(3) Subpart 1 of Part 2 of Schedule 3 and Part 4 of Schedule 4 apply on and after 1 January 2009.
 (4) Part 3 of Schedule 3, subpart 1 of Part 4 of Schedule 3, and subpart 1 of Part 2 of Schedule 4 apply on and after 1 January 2010.
 (5) Subpart 1 of Part 5 of Schedule 3 applies on and after 1 January 2011.
 (6) Subpart 3 of Part 5 of Schedule 3 applies on and after 1 January 2011.
 (7) Subpart 2 of Part 4 of Schedule 3, Part 6 of Schedule 3, and subpart 3 of Part 2 of Schedule 4 apply on and after 1 January 2011.
+(7A) Part 1A of Schedule 3 applies on and after 1 January 2013.
+(7B) Subpart 2 of Part 3 of Schedule 3 applies on and after 1 January 2014.
 (8) Subpart 2 of Part 5 of Schedule 3 applies on and after a date appointed by the Governor-General by Order in Council.
 (9) Subpart 4 of Part 5 of Schedule 3 applies on and after a date appointed by the Governor-General by Order in Council.
 (10)
@@ -75,7 +77,12 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (a) enable New Zealand to meet its international obligations under the Convention and the Protocol, including (but not limited to)—
     (i) its obligation under Article 3.1 of the Protocol to retire Kyoto units equal to the number of tonnes of carbon dioxide equivalent of human-induced greenhouse gases emitted from the sources listed in Annex A of the Protocol in New Zealand in the first commitment period; and
     (ii) its obligation to report to the Conference of the Parties via the Secretariat under Article 7 of the Protocol and Article 12 of the Convention:
-  (b) provide for the implementation, operation, and administration of a greenhouse gas emissions trading scheme in New Zealand that supports and encourages global efforts to reduce greenhouse gas emissions by assisting New Zealand to meet its international obligations under the Convention and the Protocol, and by reducing New Zealand's net emissions below business-as-usual levels.
+  (b) provide for the implementation, operation, and administration of a greenhouse gas emissions trading scheme in New Zealand that supports and encourages global efforts to reduce the emission of greenhouse gases by—
+    (i) assisting New Zealand to meet its international obligations under the Convention and the Protocol; and
+    (ii) reducing New Zealand's net emissions of those gases to below business-as-usual levels; and
+  (c) provide for the imposition, operation, and administration of a levy on specified synthetic greenhouse gases contained in motor vehicles and also another levy on other goods to support and encourage global efforts to reduce the emission of those gases by—
+    (i) assisting New Zealand to meet its international obligations under the Convention and the Protocol; and
+    (ii) reducing New Zealand's net emissions of those gases to below business-as-usual levels.
 (2)
 (2) A person who exercises a power or discretion, or carries out a duty, under this Act must exercise that power or discretion, or carry out that duty, in a manner that is consistent with the purpose of this Act.
 (3) For the purposes of this section, business-as-usual levels means the levels of New Zealand's greenhouse gas emissions, estimated by the Minister or the EPA at any particular point in time, as if the greenhouse gas emissions trading scheme provided for under this Act had not been implemented.
@@ -86,7 +93,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (b) with respect to section 75 (which relates to consultation on a pre-1990 forest land allocation plan), before making a recommendation under section 72, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the pre-1990 forest land allocation plan:
   (c) with respect to section 76 (which relates to consultation on a fishing allocation plan), before making a recommendation under section 74, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the fishing allocation plan:
   (d) with respect to section 161 (which relates to the appointment and conduct of a review panel),—
-    (i) the Minister must, when appointing members to a review panel under section 160(6), ensure that the review panel has at least 1 member who, in the Minister’s opinion, has the appropriate knowledge, skill, and experience relating to the principles of the Treaty of Waitangi and tikanga Māori to conduct the review; and
+    (i) if the Minister initiates a review under section 160(1) or 269(1) and appoints an independent panel under section 160(3) or 269(3), the Minister must ensure that the review panel has at least 1 member who, in the Minister’s opinion, has the appropriate knowledge, skill, and experience relating to the principles of the Treaty of Waitangi and tikanga Māori to conduct the review; and
     (ii) the review panel must consult with the representatives of iwi and Māori that appear to the panel likely to have an interest in the review; and
     (iii) the terms of reference for the review panel must incorporate reference to the principles of the Treaty of Waitangi:
   (e) with respect to section 161G (which relates to regulation-making powers in relation to eligible agricultural activities), before recommending the making of a regulation under section 161G(1), the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the regulation:
@@ -99,6 +106,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **account number** means a unique account number assigned to a holding account by the Registrar under section 15(1)(a)
+  - **agency** means,—
+    (a) in relation to the motor vehicle levy, the Registrar of Motor Vehicles; and
+    (b) in relation to the goods levy, the chief executive of the New Zealand Customs Service
   - **allocate** , in relation to New Zealand units,—
     (a) means the allocation or provisional allocation of New Zealand units; but
     (b) does not include the transfer of New Zealand units
@@ -106,6 +116,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **animal material** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **animal product** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **animal welfare export certificate** means an animal welfare export certificate issued under section 46 of the Animal Welfare Act 1999
+  - **annual financial statements of the Government** has the meaning given in section 2(1) of the Public Finance Act 1989
   - **approved overseas unit** means a unit, other than a Kyoto unit,—
     (a) issued by an overseas registry; and
     (b) prescribed as a unit that may be transferred to accounts in the Registry
@@ -119,7 +130,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) is defined by a person who is registered or has applied to register as a participant under section 57 in relation to an activity listed in Part 1 of Schedule 4; and
     (b) meets any relevant criteria specified in regulations made under this Act; or
     (c) is constituted as a carbon accounting area by operation of section 188(7)(b) or 192(3)(b)
-  - **carbon dioxide equivalent** , in relation to a gas in Annex A of the Protocol, means the amount, in tonnes, of carbon dioxide that would produce the same global warming as the amount of that gas, calculated by multiplying the tonnes of that gas by its global warming potential (as determined under Article 5.3 of the Protocol)
+  - **carbon dioxide equivalent** , in relation to a gas in Annex A of the Protocol, means the amount, in tonnes, of carbon dioxide that would produce the same global warming as the amount of that gas, calculated by multiplying the tonnes of that gas by its global warming potential (as determined under Article 5.3 of the Protocol, as if the commitment period were binding on New Zealand)
+  - **carbon equivalence** , in relation to land that is the subject of an offsetting forest land application under section 186A, means that the offsetting forest land achieves, within the usual rotation period for forest species on the pre-1990 forest land, the same carbon stock as was contained in the pre-1990 forest land at the time of the clearing as determined in accordance with regulations made under section 186F
   - **carry-over** means the transfer of an assigned amount unit, certified emission reduction unit, or emission reduction unit from the relevant commitment period to a subsequent commitment period so that the unit remains capable of being transferred, retired, cancelled, or carried-over in that subsequent commitment period
   - **CDM registry** means the registry established and maintained as the clean development mechanism registry under Article 12 of the Protocol
   - **certified emission reduction unit** means a unit derived from a clean development mechanism project, issued by the CDM registry, and designated as a certified emission reduction unit by the CDM registry
@@ -168,6 +180,10 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (d) any book, map, plan, graph, or drawing:
     (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
   - **elect** , in relation to a sink activity under Article 3.4 of the Protocol, means that a Party has advised the Secretariat of its intention to report to the Secretariat on that activity for the purpose of compliance with that Party's obligations under Article 3.1 of the Protocol
+  - **electrical switchgear** means fittings for—
+    (a) controlling the distribution of electricity; or
+    (b) controlling or protecting electrical circuits and electrical equipment; or
+    (c) the transmission of electricity
   - **eligible activity** means—
     (a) an eligible agricultural activity; or
     (b) an eligible industrial activity
@@ -183,11 +199,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) the Registry; or
     (b) an overseas registry of a Party listed in Annex B of the Protocol
   - **emissions** , in relation to an activity listed in Schedule 3 or 4, means carbon dioxide equivalent emissions of greenhouse gases from the activity
-  - **emissions return** means—
-    (a) an annual emissions return submitted under section 65; or
-    (b) an emissions return submitted under section 66; or
-    (c) a final emissions return submitted under section 118; or
-    (d) an emissions return submitted under section 187, 189, 191, or 193
+  - **emissions return** —
+    (a) means—
+      (i) an annual emissions return submitted under section 65; or
+      (ii) a quarterly emissions return submitted under section 66; or
+      (iii) a final emissions return submitted under section 118; or
+      (iv) an emissions return submitted under section 186, 187, 189, 191, 192, or 193; and
+    (b) includes any emissions return submitted under section 65, 66, 118, 186, 187, 189, 191, 192, or 193 that shows nil liability
   - **entity** , in relation to a group, means a reporting entity or reporting entity’s subsidiary, within the meaning of section 2(1) of the Financial Reporting Act 1993
   - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
   - **executive board** means the board established under Article 12(4) of the Protocol
@@ -213,11 +231,15 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) a shelter belt of forest species, where the tree crown cover has, or is likely to have, an average width of less than 30 metres; or
       (ii) an area of land where the forest species have, or are likely to have, a tree crown cover of an average width of less than 30 metres, unless the area is contiguous with land that meets the requirements specified in paragraph (a) or (b)
   - **forest species** means a tree species capable of reaching at least 5 metres in height at maturity in the place where it is located, but does not include tree species grown or managed primarily for the production of fruit or nut crops
+  - **fugitive coal seam gas** means gas released by the activity of mining coal as calculated in accordance with any regulations made under this Act
   - **general cancellation account** means an account in the Registry for the purpose of holding units on behalf of the Crown that are cancelled for any reason other than sink activities being a source of emissions or a determination that New Zealand is not in compliance with Article 3.1 of the Protocol
+  - **goods** means all kinds of movable property, including motor vehicles
+  - **goods levy** means the synthetic greenhouse gas levy imposed by section 227(1)(b)
   - **greenhouse gas** means a gas listed in Annex A of the Protocol
   - **group** has the same meaning as in section 2(1) of the Financial Reporting Act 1993
   - **holding account** means an account in the Registry for the purpose of holding units that have not been retired, surrendered, converted, or cancelled
   - **import** has a corresponding meaning to importation in section 2(1) of the Customs and Excise Act 1996
+  - **importer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **indigenous forest species** means a forest species that occurs naturally in New Zealand or has arrived in New Zealand without human assistance
   - **indirect greenhouse gas** —
     (a) means a gas that—
@@ -236,6 +258,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) the legal owner of a freehold estate in the land; or
       (ii) if the land is Maori customary land (as defined in section 4 of Te Ture Whenua Maori Act 1993), the person or persons who have title to the land as determined under Te Ture Whenua Maori Act 1993; or
       (iii) if the land is Maori freehold land (as defined in section 4 of Te Ture Whenua Maori Act 1993), the legal owner of the land
+  - **leviable goods** means goods that contain a specified synthetic greenhouse gas, but does not include an air-conditioning system that is part of a motor vehicle
+  - **leviable motor vehicle** means a motor vehicle that includes, as part of the motor vehicle, an air-conditioning system containing a specified synthetic greenhouse gas
+  - **levy year** means the period of 12 months starting on 1 January and ending with the close of 31 December
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **long-term certified emission reduction replacement account** means an account in the Registry—
     (a) for the purpose of—
@@ -253,15 +278,19 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (c) wood that is less than 10 centimetres in diameter, excluding the bark
   - **mining** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **Minister** means the Minister who is, under the authority of any warrant or under the authority of the Prime Minister, responsible for the administration of this Act
+  - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **motor vehicle levy** means the synthetic greenhouse gas levy imposed by section 227(1)(a)
   - **natural gas** means—
     (a) all gaseous hydrocarbons produced from wells, including wet gas and residual gas remaining after the extraction of condensate from wet gas; and
     (b) liquid hydrocarbons, other than condensate, extracted from wet gas and sold as natural gas liquids, for example, liquid petroleum gas; and
     (c) coal seam gas
+  - **New Zealand Customs Service** and have the same meanings as in section 2(1) of the Customs and Excise Act 1996
   - **New Zealand unit** means a unit issued by the Registrar and designated as a New Zealand unit
   - **nominated entity** , in relation to a consolidated group, means an entity appointed under section 150(4)(b) or 152(3)(b) as the nominated entity of a consolidated group
   - **non-compliance cancellation account** means an account in the Registry for the purpose of holding any units on behalf of the Crown that are cancelled as a result of a determination that New Zealand is not in compliance with Article 3.1 of the Protocol
   - **obligation fuel** means any fuel specified as obligation fuel in regulations made under this Act
   - **obligation jet fuel** means any jet fuel specified as obligation jet fuel in regulations made under this Act
+  - **offsetting forest land** means land that the EPA has approved as offsetting forest land under section 186B
   - **operating** , in relation to a disposal facility, means being in control of the facility
   - **ordinary hours of business** means the hours of 8 am to 6 pm from Monday to Friday
   - **overseas registry** means—
@@ -277,6 +306,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (c) was pre-1990 forest land, other than exempt land,—
       (i) that was deforested on or after 1 January 2008; and
       (ii) in respect of which any liability to surrender units arising in relation to an activity listed in Part 1 of Schedule 3 has been satisfied; or
+    (ca) was pre-1990 forest land, other than exempt land, that was deforested on or after 1 January 2013 and offset by pre-1990 offsetting forest land; or
+    (cb) was pre-1990 offsetting forest land that was deforested after 1 January 2013 and in respect of which any liability to surrender units arising in relation to an activity listed in Part 1A of Schedule 3 has been satisfied; or
     (d) was exempt land—
       (i) that has been deforested; and
       (ii) in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 187(2)
@@ -289,6 +320,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) has been deforested and in respect of which any liability to surrender units arising in respect of an activity listed in Part 1 of Schedule 3 has been satisfied; or
       (ii) was declared to be exempt land, has been deforested, and the number of units that would have been required to be surrendered in respect of an activity listed in Part 1 of Schedule 3 had the land not been exempt land have been surrendered under section 187(2)(b)
   - **pre-1990 forest land allocation plan** means an allocation plan that provides for the matters specified in section 72
+  - **pre-1990 offsetting forest land** means offsetting forest land that the EPA has noted as pre-1990 offsetting forest land on the register under section 186D(3)
   - **previous commitment period** means a commitment period, including (but not limited to) the first commitment period, that—
     (a) is specified or determined under the Protocol; and
     (b) begins and ends before a subsequent commitment period
@@ -303,6 +335,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) means the extraction of materials or energy from waste for further use or processing; and
     (b) includes making waste into compost
   - **recycle** , in relation to dispose, means the reprocessing of waste to produce new materials
+  - **registered** ,—
+    (a) in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998; but
+    (b) otherwise means registered in accordance with this Act
   - **registered forestry right** means a forestry right registered under the Forestry Rights Registration Act 1983
   - **registered lease** ,—
     (a) in relation to a lease in respect of land registered under the Land Transfer Act 1952,—
@@ -310,6 +345,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (ii) includes a lease registered under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002:
     (b) in relation to a lease in respect of land that is not registered under the Land Transfer Act 1952, means a lease registered under the Deeds Registration Act 1908
   - **Registrar** means the person appointed under section 11
+  - **Registrar of Motor Vehicles** has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998
   - **Registry** means the Registry established in New Zealand for the purpose set out in section 10
   - **relevant commitment period** means a commitment period that is specified or determined under the Protocol, and—
     (a) in which a particular activity or transaction occurs; or
@@ -335,16 +371,25 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) an elected activity under Article 3.4 of the Protocol
   - **sink cancellation account** means an account in the Registry for the purpose of holding units that the Minister of Finance has cancelled on behalf of the Crown as a result of sink activities resulting in a net source of emissions
   - **solid biofuel** means wood, wood waste, sulphate lyes, or charcoal
+  - **specified synthetic greenhouse gas** means a hydrofluorocarbon or perfluorocarbon specified in regulations made under section 246(1)(a)
   - **subsequent commitment period** means a commitment period that—
     (a) is specified or determined under the Protocol; and
     (b) begins and ends after a previous commitment period
   - **supervisory committee** means the committee established to supervise the verification of emission reduction units generated by project activities under Article 6 of the Protocol
   - **surrender** means the transfer of a unit to a surrender account in the Registry with the effect specified in section 18CA(3) or (4)
   - **surrender account** means an account in the Registry for the purpose of holding units that account holders have surrendered
+  - **synthetic greenhouse gas** means—
+    (a) a hydrofluorocarbon; or
+    (b) a perfluorocarbon
+  - **synthetic greenhouse gas levy** or means the levy imposed by section 227
   - **temporary certified emission reduction replacement account** means an account in the Registry—
     (a) for the purpose of replacing temporary certified emission reduction units, before they are due to expire, with assigned amount units, certified emission reduction units, emission reduction units, removal units, or temporary certified emission reduction units that are due to expire in a subsequent commitment period; and
     (b) that is limited to the relevant commitment period
   - **temporary certified emission reduction unit** means a unit derived from a clean development mechanism project issued by the CDM registry, and designated as a temporary certified emission reduction unit by the CDM registry
+  - **tree weed** means a tree that is defined or designated as—
+    (a) a pest in a pest management strategy under the Biosecurity Act 1993; or
+    (b) a tree weed in regulations made under this Act
+  - **tree weed spread** means the spread of a tree weed by natural regeneration
   - **unincorporated body** —
     (a) means an unincorporated body of persons; and
     (b) includes (but is not limited to)—
@@ -360,6 +405,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (iii) holders of a registered forestry right; or
       (iv) parties to a Crown conservation contract
   - **unit** means a Kyoto unit, a New Zealand unit, or an approved overseas unit
+  - **usual rotation period** , in relation to a forest species on land that is the subject of an offsetting forest land application under section 186A, means the usual rotation period prescribed for a forest species in any regulations made under this Act
   - **waste** means any thing that has been disposed of or discarded—
     (a) including (but not limited to) any disposed of or discarded thing that is defined by its composition or source (for example, organic waste, electronic waste, or construction and demolition waste); but
     (b) excluding any solid biofuel combusted for the purposes of generating electricity or industrial heat
@@ -381,13 +427,18 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (i) no standing exotic forest species (dead or alive), other than a strip of standing exotic forest species that had, or was likely to have, tree crown cover of an average width of less than 30 metres; and
     (ii) no other merchantable timber from exotic forest species; and
   (b) 4 years after the date on which the land met the conditions in paragraph (a), it is not forest land and no allocation has been made in respect of the land under the pre-1990 forest land allocation plan.
+(6) For the purposes of sections 62, 65, 66, 67, 118, 187, 189, 191, 192, and 193, activity or activities, in relation to a participant who submits an emissions return that shows nil liability, includes any thing that would have been an activity listed in Schedule 3 or 4 if it had been carried out as, or to the extent, described in Schedule 3 or 4 during the period reported on in the emissions return.
+(7) For the purposes of the definition of landowner in relation to the activity listed in Part 1 of Schedule 3, 1 or more pieces of land (land A) and 1 or more pieces of other land (land B) that are owned by the same person are to be treated as if they were owned by different persons if—
+  (a) land A and land B are held under different trusts; and
+  (b) each trust has the same trustee or trustees; and
+  (c) the trustees hold land A and land B in their capacity as professional trustees (as defined in section 183(7)).
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
 
 ## Part 2 — Institutional arrangements
 
-### Subpart 1 — Powers of Minister of Finance
+### Subpart 1 — Ministerial powers
 
 ### 6 Minister of Finance may direct Registrar regarding establishment of Crown holding accounts and carry out trading activities with respect to units
 The Minister of Finance may, on behalf of the Crown,—
@@ -397,6 +448,11 @@ The Minister of Finance may, on behalf of the Crown,—
   (d) enter into agreements to buy or sell units, or otherwise acquire or dispose of units, with any person (including any other Party):
   (e) buy or sell, or enter into any agreement to buy or sell, or otherwise acquire or dispose of, any financial derivatives or other financial instruments relating to units or in connection with transactions relating to units:
   (f) appoint agents to conduct the activities referred to in paragraphs (a) to (e) on the terms and conditions that the Minister of Finance thinks fit.
+
+### 6A Minister's power to sell by auction
+If regulations are made under section 30G(1)(p), the Minister may, on behalf of the Crown,—
+  (a) sell New Zealand units by auction within a prescribed overall limit:
+  (b) appoint agents to conduct the sale on the terms and conditions that the Minister thinks fit.
 
 ### 7 Minister of Finance may give directions to Registrar regarding accounts and units
 (1) The Minister of Finance may give directions to the Registrar to—
@@ -413,6 +469,9 @@ The Minister of Finance may, on behalf of the Crown,—
   (c) issue removal units or emission reduction units:
   (d) transfer, subject to any prescribed restriction or prohibition, units (other than long-term certified emission reduction units or temporary certified emission reduction units) from holding accounts to the general cancellation account, the long-term certified emission reduction replacement account, the non-compliance cancellation account, the retirement account, the surrender account, the conversion account, the temporary certified emission reduction replacement account, or the sink cancellation account:
   (da) transfer long-term certified emission reduction units or temporary certified emission reduction units from holding accounts to the general cancellation account, the long-term certified emission reduction replacement account, the temporary certified emission reduction replacement account, or the retirement account:
+  (db) transfer Kyoto units from the surrender account to a Crown holding account if the units are not required, at the time of the transfer, to meet—
+    (i) New Zealand's international obligations; or
+    (ii) any equivalent domestic targets:
   (e) carry-over assigned amount units, certified emission reduction units, and emission reduction units held in holding accounts:
 (2) Despite subsection (1), or any regulations made under this Act, the Minister of Finance may not give a direction to transfer units from an account held by an account holder other than the Crown to another account in the Registry, unless—
   (a) the Minister of Finance has the written consent of the account holder; or
@@ -454,7 +513,7 @@ The functions of the chief executive are to—
 
 ### 10 Purpose of Registry
 (1) The purpose of the Registry in relation to Kyoto units is to—
-  (a) ensure, for the first commitment period or a subsequent commitment period, the accurate, transparent, and efficient accounting of—
+  (a) ensure the accurate, transparent, and efficient accounting of—
     (i) the issue, holding, transfer, retirement, surrender, and cancellation of Kyoto units; and
     (ii) the carry-over of assigned amount units, certified emission reduction units, and emission reduction units; and
     (iii) the replacement of expired long-term certified emission reduction units and expired temporary certified emission reduction units; and
@@ -585,7 +644,9 @@ The Registrar must give effect to any direction relating to the transfer of unit
 (1) A unit that is transferred to a cancellation account may not be further transferred, retired, surrendered, carried-over, or cancelled.
 (2) A Kyoto unit that is transferred to a retirement account may not be further transferred, retired, surrendered, carried-over, or cancelled.
 (3) A Kyoto unit that is transferred to a surrender account may only be further transferred, in accordance with—
-  (a) a direction from the Minister of Finance, to a retirement account or a cancellation account; or
+  (a) a direction from the Minister of Finance, to—
+    (i) a retirement account or a cancellation account; or
+    (ii) a Crown holding account under section 7(1)(db); or
   (b) a direction of the EPA given under section 124, to a participant's holding account.
 (4) A New Zealand unit or an approved overseas unit that is transferred to a surrender account may only be further transferred in accordance with a direction of the EPA given under section 124.
 (5) A New Zealand unit that is transferred to a conversion account may not be surrendered, cancelled, or otherwise further transferred except as required by section 30E(4)(b).
@@ -707,14 +768,15 @@ A direction to the Registrar by the Minister or the EPA under a provision of thi
   (b) enters those particulars in the unit register.
 
 ### 23 Receiving Kyoto units from overseas registries
-(1) If the Registrar receives notification from an overseas registry of a proposal to transfer Kyoto units to an account in the Registry, the Registrar must register the transaction, in accordance with the notification, when the Registrar receives the following:
-  (a) notification from the international transaction log that the proposed transaction does not contain any discrepancies; and
+(1) If the Registrar receives notification from an overseas registry of a proposal to transfer Kyoto units to an account in the Registry, the Registrar must register the transaction.
+  (a)
   (b)
 (2) If the Registrar receives notification from an overseas registry of a proposal to transfer Kyoto units to an account in the Registry and receives notification from the international transaction log that there is a discrepancy, the Registrar—
   (a) may not register the transaction; and
   (b) must terminate the transaction; and
   (c) must notify the international transaction log of the termination.
 (3) A transfer of Kyoto units from an overseas registry is subject to any regulations made under this Act.
+(4) Subsection (1) is subject to subsection (2).
 
 ### 23A Receiving New Zealand units and approved overseas units from overseas registries
 (1) If the Registrar receives notification from an overseas registry of a proposal to transfer New Zealand units or approved overseas units to an account in the Registry and the Registrar is satisfied that there is no discrepancy with the transaction, the Registrar must register the transaction in accordance with the notification.
@@ -768,7 +830,7 @@ A direction to the Registrar by the Minister or the EPA under a provision of thi
 (2) The following information must be made accessible by a search of the unit register, and be available by 31 January in each year, in a form that shows the relevant totals at the end of the previous year:
   (a) the total holdings of Kyoto units in the Registry; and
   (b) the total holdings of assigned amount units, emission reduction units, certified emission reduction units, long-term certified emission reduction units, temporary certified emission reduction units, and removal units in the Registry; and
-  (c) the total quantity of New Zealand units issued during that year; and
+  (c) the total quantity of New Zealand units issued during that year under section 68 or 178B; and
   (d) the total quantity of New Zealand units transferred for each removal activity during that year; and
   (e) the total holdings of New Zealand units in the Registry; and
   (f) the total holdings of approved overseas units in the Registry; and
@@ -885,6 +947,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (a) transfer the New Zealand units specified in the application from the account holder’s account to the conversion account; and
   (b) transfer to the account holder’s account an equivalent number of designated assigned amount units; and
   (c) subject to section 21(3), register the transaction applied for under subsection (2)(b).
+(3A) The Registrar's obligations under subsection (3) apply only if, and to the extent that, there are sufficient designated assigned amount units to meet a request under subsection (2) to convert New Zealand units.
 (4) If the Registrar receives notification from the international transaction log under section 21(3) that there are discrepancies in the transaction relating to the application submitted under subsection (2)(b), the Registrar must—
   (a) comply with section 21(3); and
   (b) reverse the transfers in subsection (3)(a) and (b).
@@ -933,28 +996,68 @@ No action may be brought against the Crown or the Registrar for any loss or dama
   (l) prescribing procedures for transactions involving approved overseas units:
   (m) prescribing matters in respect of the taking of possession of an emissions unit for the purposes of section 18(1A)(b) of the Personal Property Securities Act 1999:
   (n) in respect of this Part, giving effect to the terms of the Convention and the Protocol, including any decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved in accordance with the Convention or the Protocol:
-  (o) providing for the matters that are contemplated by, or necessary for, giving full effect to this Part and for its due administration.
+  (o) providing for the matters that are contemplated by, or necessary for, giving full effect to this Part and for its due administration:
+  (p) prescribing matters relating to the powers of the Minister under section 6A to sell New Zealand units by auction, including—
+    (i) prescribing the date on which the sale of New Zealand units by auction commences:
+    (ii) providing for a pilot auction to be conducted in advance of the date from which sale by auction is to commence:
+    (iii) prescribing the persons or classes of persons eligible to participate in an auction of New Zealand units:
+    (iv) prescribing penalties for breaches of regulations made under this paragraph:
+    (v) prescribing an overall limit in the manner provided for by section 30GA(1):
+    (vi) providing for any other matters for the conduct of an auction that the Minister considers relevant to the effective conduct of the auction:
+  (q) enabling the Minister to specify 1 or more types of Kyoto unit into which an account holder may apply to convert a New Zealand unit under section 30E, if assigned amount units are not available in a Crown holding account.
 (2) Regulations made under subsection (1) may be made in respect of different units, transactions, persons, classes of units, subclasses of units, classes of transactions, or classes of persons.
 (3) Any regulation made under subsection (1)(b)(i) or (c) does not apply to the transfer of units that are held in an account in the Registry at the time that the regulation comes into force.
 (3A) The amount of fees set under regulations made under subsection (1)(f) must not exceed the amount necessary to enable the recovery of the direct and indirect costs of the Registrar in performing his or her functions under this Part.
 (4) Any regulations made under subsection (1) must be consistent with the Convention and the Protocol.
 
+### 30GA Further provisions governing regulations made under section 30G(1)(p)
+(1) If regulations are made under section 30G(1)(p),—
+  (a) the Minister must recommend to the Governor-General that those regulations prescribe the overall limit on the number of New Zealand units that may, in any year for a period of 5 years from the date prescribed in the regulations,—
+    (i) be allocated; and
+    (ii) be sold by auction; and
+    (iii) be provided under a negotiated greenhouse agreement; and
+  (b) the Minister must, on an annual basis, make a recommendation to the Governor-General that regulations be made that extend the application of the regulations for a further year.
+(2) Before the Minister makes a recommendation to the Governor-General under subsection (1), the Minister must have regard to—
+  (a) the matters set out in section 68(2)(b)(i) to (iii) (with any necessary modifications); and
+  (b) New Zealand's projected emission trends; and
+  (c) any domestic target to reduce emissions; and
+  (d) the number of New Zealand units that are expected to be allocated; and
+  (e) the emissions to which the greenhouse gas emissions trading scheme applies; and
+  (f) the arrangements that govern the operation of the greenhouse gas emissions trading scheme; and
+  (g) the limit, if any, on the number of units that are not New Zealand units that a participant may surrender; and
+  (h) any other matters that the Minister considers relevant.
+(3) Before making a recommendation under subsection (1)(a) to amend any regulations that prescribe the overall limit, the Minister must give notice in the Gazette of any proposal to amend the regulations not later than the date that is 1 year before the date when the amended regulations take effect.
+(4) Any change to the overall limit prescribed by regulations made under section 30G(1)(p)(v) must not take effect in the same year as notice of that change is given under subsection (3).
+(5) In prescribing an overall limit on the number of New Zealand units available, the regulations made under section 30G(1)(p)—
+  (a) must not prevent the number of New Zealand units that may be allocated from exceeding the prescribed overall limit; but
+  (b) must provide that no New Zealand units may be auctioned if the prescribed overall limit on the number of New Zealand units available is exceeded.
+(6) In subsections (1)(a)(i) and (5)(a), the reference to New Zealand units allocated does not include—
+  (a) New Zealand units transferred in accordance with a determination of the Minister under section 77 or 78 that relates to an allocation under the pre-1990 forest land allocation plan; or
+  (b) any requirement for an additional allocation in the circumstances described in section 86C(5)(b).
+(7) To avoid doubt, subsections (3) and (4) do not apply to regulations to which subsection (1)(b) applies.
+
+### 30GB Further provisions governing regulations made under section 30G(1)(q)
+(1) This section applies if regulations made under section 30G(1)(q) specify that a New Zealand unit may be converted into a type of Kyoto unit other than a designated assigned amount unit.
+(2) The provisions of section 30E apply to a conversion to the type of Kyoto unit specified under those regulations as if a reference to a designated assigned amount unit or an assigned amount unit in that section were a reference to the type of Kyoto unit specified in the regulations.
+(3) A reference to a designated assigned amount unit or an assigned amount unit in sections 27(2)(u)(ii) and 178C(1) must be read as a reference to the type of Kyoto unit specified in the regulations.
+(4) Despite subsection (2), section 30E(5)(a) does not apply if this section applies.
+
 ### 30H Procedure for certain regulations relating to units
-(1) Before making a recommendation under section 30G(1) relating to regulations under section 30G(1)(b)(i), (c), (d), (j) or (k), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
+(1) Before making a recommendation under section 30G(1) relating to regulations under section 30G(1)(b)(i), (c), (d), (j), (k), (p), or (q), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
 (2) The process for consultation must, to the extent practicable in the circumstances, include—
   (a) giving adequate and appropriate notice of the proposed terms of the recommendation, and of the reasons for it; and
   (b) the provision of a reasonable opportunity for interested persons to consider the recommendation and make submissions; and
   (c) adequate and appropriate consideration of submissions.
-(3) Unless subsection (4) applies or a later date is specified in the regulations, regulations referred to in this section come into force 3 months after the date of their notification in the Gazette.
+(3) Unless subsection (4) applies or a later date is specified in the regulations, regulations referred to in this section, except regulations made under section 30G(1)(q), come into force 3 months after the date of their notification in the Gazette.
 (4) Subsections (1) and (3) do not apply in respect of any regulations if the Minister considers it is in the national interest that they be made urgently.
-(5) A failure to comply with this section does not affect the validity of regulations made under section 30G(1)(b)(i), (c), (d), (j), or (k).
+(5) A failure to comply with this section does not affect the validity of regulations made under section 30G(1)(b)(i), (c), (d), (j), (k), (p), or (q).
 
 ### 30I Incorporation by reference in regulations made under section 30G
 (1) The following written material may be incorporated by reference in regulations made under section 30G:
   (a) decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved by any international or national organisation in accordance with the Convention or the Protocol; and
   (b) any standards, requirements, or recommended practices—
     (i) of any international or national organisation that are adopted, agreed on, made, or approved in accordance with the Convention or the Protocol:
-    (ii) prescribed in any country or jurisdiction that are adopted, agreed on, made, or approved in accordance with the Protocol.
+    (ii) prescribed in any country or jurisdiction that are adopted, agreed on, made, or approved in accordance with the Convention or the Protocol.
 (2) Material may be incorporated by reference in regulations—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
@@ -981,7 +1084,7 @@ For the purposes of this subpart, despite anything in section 4, greenhouse gas 
 (1) The primary functions of the inventory agency are to—
   (a) estimate annually New Zealand's human-induced emissions by sources and removals by sinks of greenhouse gases; and
   (b) prepare the following reports for the purpose of discharging New Zealand's obligations:
-    (i) New Zealand's annual inventory report under Article 7.1 of the Protocol, including (but not limited to) the quantities of long-term certified emission reduction units and temporary certified emission reduction units that have expired or have been replaced, retired, or cancelled; and
+    (i) New Zealand's annual inventory report under Articles 4 and 12 of the Convention and Article 7.1 of the Protocol, including (but not limited to) the quantities of long-term certified emission reduction units and temporary certified emission reduction units that have expired or have been replaced, retired, or cancelled; and
     (ii) New Zealand's national communication (or periodic report) under Article 7.2 of the Protocol and Article 12 of the Convention; and
     (iii) New Zealand's report for the calculation of its initial assigned amount under Article 7.4 of the Protocol, including its method of calculation.
 (2) In carrying out its functions, the inventory agency must—
@@ -1012,7 +1115,7 @@ The inventory agency must publish New Zealand's annual inventory report and its 
 ### 36 Authorisation of inspectors
 (1) The Minister may authorise the following persons, provided that they are suitably qualified and trained, to exercise any or all of the powers of, and carry out any or all of the duties of an inspector under this Part:
   (a) employees of the inventory agency; or
-  (b) employees of the Ministry of Agriculture and Forestry and employees of any other department of the public service prescribed by regulation; or
+  (b) employees of the Ministry for Primary Industries and employees of any other department of the public service prescribed by regulation; or
   (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, New Zealand Pastoral Agriculture Research Institute Limited, and employees of any other Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) prescribed by regulation; or
   (d) employees of the EPA.
 (2) An authorisation is subject to the terms and conditions that are agreed to by the Minister and the chief executive of the agency that employs the person authorised to be an inspector.
@@ -1156,11 +1259,12 @@ For the purpose of reporting to the Secretariat under the Convention and the Pro
   (d) composition of vehicle fleets and use of vehicles, including, but not limited to, distances travelled:
   (e) imports and exports of hydrofluorocarbons, perfluorocarbons, and sulphur hexafluoride:
   (f) imports, exports, manufacture, sales, and the nature of the use of products that contain hydrofluorocarbons, perfluorocarbons, and sulphur hexafluoride:
+  (fa) the registration of motor vehicles of each class that have air-conditioning systems that contain hydrofluorocarbons or perfluorocarbons:
   (g) waste composition and weight, dimensional characteristics of landfills, and volume of landfill gases extracted and combusted:
   (h) numbers of ruminants and other farmed livestock and their performance:
   (i) areas of crops and amounts produced:
   (j) amount of nitrogenous and lime fertilisers used:
-  (k) native and planted trees, the amount of harvesting, the area of land in scrub, and the area of land in other land uses that are necessary to determine land use change under Article 3.3 or Article 3.4 of the Protocol.
+  (k) native and planted trees, the amount of harvesting, the area of land in scrub, and the area of land in other land uses that are necessary to determine land use change under the Convention or the Protocol.
 (3) If recommended by the Minister, the Governor-General may, by Order in Council, make regulations requiring persons to provide to the inventory agency information that the person holds on any matter specified in subsection (2) for any year from 1989 to the current reporting year.
 (4) Regulations made under subsection (2) may specify the manner and form in which records must be kept and provided, including specifying that those records must be declared as true, the form of that declaration, and who must sign that declaration.
 (5) Regulations made under subsection (1) or (2) may be made in respect of different persons or classes of persons.
@@ -1180,7 +1284,7 @@ For the purpose of reporting to the Secretariat under the Convention and the Pro
   (a) decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved by any international or national organisation in accordance with the Convention or the Protocol; and
   (b) any standards, requirements, or recommended practices—
     (i) of any international or national organisation that are adopted, agreed on, made, or approved in accordance with the Convention or the Protocol:
-    (ii) prescribed in any country or jurisdiction that are adopted, agreed on, made, or approved in accordance with the Protocol.
+    (ii) prescribed in any country or jurisdiction that are adopted, agreed on, made, or approved in accordance with the Convention or the Protocol.
 (2) Material may be incorporated by reference in regulations—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
@@ -1253,7 +1357,7 @@ Amendment(s) incorporated in the Act(s).
   (b) notify the person that the person’s name and the activity the person carries out have been entered on the register.
 (4) If the EPA receives a notice under subsection (1)(a) from a person whose name is already on the register kept in accordance with subsection (3), the EPA need not re-enter the person’s name on the register, but must enter next to the person’s name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
 
-### 57 Applications to be registered as participant in respect of activities listed in Schedule 4
+### 57 Applicant to be registered as participant in respect of activities listed in Schedule 4
 (1) A person who carries out an activity listed in Schedule 4, or who will do so at the time that the person’s registration takes effect, may apply to be registered as a participant in respect of the activity by application to the EPA in accordance with subsection (2).
 (2) An application under subsection (1) must—
   (a) be in the prescribed form; and
@@ -1269,6 +1373,7 @@ Amendment(s) incorporated in the Act(s).
     (i) is carrying out the activity in the year in which the EPA receives the application; or
     (ii) will carry out the activity in the year in which the person’s registration will take effect in accordance with subsection (8); and
   (b) has met any conditions of registration in respect of the activity in this Part or Part 5; and
+  (ba) has met any eligibility criteria prescribed in relation to the activity; and
   (c) has paid any prescribed fees or charges.
 (5) The EPA registers a person by entering on a register kept by the EPA for the purpose of this section—
   (a) the name of the applicant; and
@@ -1299,8 +1404,8 @@ Amendment(s) incorporated in the Act(s).
 (4) The EPA must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by section 188(7)(a)(ii), 198(3)(b), or 209(3)(b).
 
 ### 59 Removal from register of participants in respect of activities listed in Schedules 3 and 4
-(1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the EPA as soon as practicable if the person ceases, or will cease, to carry out the activity.
-(2) The EPA must, after receiving notice under subsection (1), or otherwise being satisfied that the person has ceased to carry out the activity,—
+(1) A person who is registered under section 56 or 57 in respect of an activity listed in Schedule 3 or 4 must notify the EPA as soon as practicable if the person ceases, or will cease, to carry out the activity for the remainder of the year and the whole of the following year.
+(2) The EPA must, after receiving notice under subsection (1), or otherwise being satisfied that the person has ceased to carry out the activity for the remainder of the year and the whole of the following year,—
   (a) remove the name of the person from the register in respect of the activity immediately or, if the notice specifies that the person will cease the activity on a future date, on that date; and
   (b) notify the person, and any other person specified in section 188(7)(a)(i), 198(3)(a), or 209(3)(a), as the case may require, that the person’s name—
     (i) has been removed from the register in respect of the activity; or
@@ -1359,6 +1464,12 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (b) at the times required under this Act.
 (2) If a participant is liable to surrender units under this Act, the participant must make an application under section 18C to transfer the required number of units from the participant’s holding account to a surrender account designated by the EPA.
 
+### 63A Modification of liability to surrender units to cover certain emissions
+(1) This section applies to a person who—
+  (a) carries out an activity listed in any of Parts 2 to 6 of Schedule 3; or
+  (b) is a participant in relation to an activity listed in Part 3 or 4 of Schedule 4.
+(2) Despite anything in this Act, a person to whom this section applies is only liable to surrender, and may only surrender, 1 unit for each 2 whole tonnes of emissions from the activity.
+
 ### 64 Entitlement to receive New Zealand units for removal activities
 (1) A participant is entitled to receive 1 New Zealand unit for each whole tonne of removals from the participant’s removal activities, as calculated in accordance with this Act.
 (2) If a participant submits an emissions return to the EPA that contains an assessment of the participant's entitlement to receive New Zealand units, then the EPA must, within 20 working days of receiving the emissions return, direct the Registrar to transfer the number of New Zealand units contained in the assessment to the participant’s holding account.
@@ -1366,8 +1477,19 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (4)
 (5)
 
+### 64A Modification of entitlement to receive New Zealand units for removal activities
+(1) This section applies to a person who—
+  (a) is a participant in respect of an activity listed in Part 2 of Schedule 4; and
+  (b) is entitled to receive New Zealand units under section 64.
+(2) Despite section 64, a participant to whom this section applies is entitled to receive only 1 New Zealand unit for each 2 whole tonnes of removals from the activity.
+
 ### 65 Annual emissions returns
-(1) In the period beginning on 1 January and ending on 31 March in each year, a participant must submit an annual emissions return to the EPA in respect of each of the activities listed in Schedule 3 or Part 2, 3, 4, or 5 of Schedule 4 that the participant carried out in the immediately preceding year.
+(1) In the period beginning on 1 January and ending on 31 March in each year, a participant—
+  (a) must submit an annual emissions return to the EPA in respect of each of the activities listed in Schedule 3 or Part 2, 3, or 4 of Schedule 4 that the participant carried out in the immediately preceding year:
+  (b) must, in the case where approval for the participant's offsetting forest land application is treated as revoked under section 186D(2) or is revoked under section 186G(1), submit an annual emissions return to the EPA in respect of the activity listed in Part 1 of Schedule 3 that the participant carried out that covers the period—
+    (i) beginning when the activity first occurred; and
+    (ii) ending on the date that the revocation occurred.
+(1A) For the purposes of the annual emissions return, the activity carried out in the period specified in subsection (1)(b) is to be treated as if it were carried out in the immediately preceding year.
 (2) The annual emissions return must, in respect of activities that the participant carried out during the year covered by the return,—
   (a) record the participant’s activities; and
   (b) record the participant’s emissions and removals as calculated and, if required, as verified under section 62(b) and (c); and
@@ -1377,8 +1499,11 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (d) be accompanied by such other information as may be prescribed; and
   (e) be accompanied by the prescribed fee (if any); and
   (f) be signed by the participant.
+(2A) If section 186E(1) applies,—
+  (a) subsection (2)(b) and (c) do not apply; and
+  (b) the annual emissions return must record the emissions for the relevant pre-1990 forest land under section 186D(3)(c) as emissions of the participant for an activity listed in Part 1A of Schedule 3 for which the participant is liable to surrender units.
 (3) The participant must submit the annual emissions return under subsection (1) by submitting it in the prescribed manner and format.
-(4) Following the submission of an annual emissions return under subsection (1), a participant must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)(c)(i).
+(4) Following the submission of an annual emissions return under subsection (1), a participant must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)(c)(i) or recorded under subsection (2A)(b).
 (5) A participant who carries out an activity listed in Part 1 of Schedule 4 must submit emissions returns as set out in section 189(2).
 
 ### 66 Quarterly returns for other removal activities
@@ -1586,6 +1711,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (b) publish the determination in the Gazette; and
   (c) ensure that the determination is accessible via the Internet site of the EPA; and
   (d) if New Zealand units are allocated to an applicant, direct the Registrar to transfer the allocated New Zealand units to the applicant's holding account in the amounts and on the date or dates specified in the determination.
+(8A) Despite subsection (8)(d), if the applicant does not have a holding account, the Registrar is not required to comply with a direction by the Minister until the applicant has opened a holding account that has been approved by the Registrar.
 (9) For the purposes of making a preliminary determination under subsection (5) or a final determination under subsection (7) in respect of a fishing allocation plan, the Minister may access, and rely on, the information set out in the quota register kept under Part 8 of the Fisheries Act 1996.
 (10) To avoid doubt, and without limiting the powers conferred under sections 94 to 106, the EPA or any other person with powers under sections 94 to 106 may exercise those powers for the purposes of ascertaining whether a person who applies for an allocation of New Zealand units or is allocated New Zealand units under an allocation plan is complying with, or has complied with,—
   (a) any requirement in this section or section 78 or 79; or
@@ -1630,7 +1756,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (a) the notice of the new determination given to the person under section 77(8) must specify—
     (i) the number of units required to be repaid; and
     (ii) the Crown holding account into which they must be transferred; and
-  (b) the person must, within 60 working days after the date of the notice, repay those units by transferring the specified number of units to a Crown holding account in accordance with the notice, and sections 134 and 135 apply, with any necessary modifications, as if—
+  (b) the person must, within 60 working days of the date of the notice, repay those units by transferring the specified number of units to a Crown holding account in accordance with the notice, and sections 134 and 135 apply, with any necessary modifications, as if—
     (i) the units the person is required to repay were units transferred to the person in error; and
     (ii) the requirement to repay the units arose under section 125.
 (4) This section applies to any new determination made in accordance with section 78(7) as if—
@@ -1647,10 +1773,10 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 Subject to section 82, an eligible person is entitled to a provisional allocation of New Zealand units for an eligible industrial activity in respect of a year calculated in accordance with the following formula:PA = LA × ∑(PDCT × AB)where—PAis the person’s provisional allocation entitlement for the eligible industrial activity for the yearLAis the level of assistance for the eligible industrial activity for the year, being,—∑is the symbol for summation (of each PDCT × AB calculation)PDCTis the amount of each prescribed product from the eligible industrial activity produced by the person in the year immediately preceding the year to which the provisional allocation relates, as determined, if relevant, in accordance with regulations made under this ActABis the prescribed allocative baseline for the applicable product that is required to be used by the eligible person by regulations made under this Act.
   (a) for a moderately emissions-intensive eligible industrial activity,—
     (i) 0.6 in 2010, 2011, and 2012; and
-    (ii) in each year after 2012, the level of assistance from the previous year less 1.3% (the phase-out rate for a moderately emissions-intensive eligible industrial activity) (expressed to 2 decimal places):
+    (ii) in each year after 2012, the level of assistance from the previous year less 0.01 (the phase-out rate for a moderately emissions-intensive eligible industrial activity):
   (b) for a highly emissions-intensive eligible industrial activity,—
     (i) 0.9 in 2010, 2011, and 2012; and
-    (ii) in each year after 2012, the level of assistance from the previous year less 1.3% (the phase-out rate for a highly emissions-intensive eligible industrial activity) (expressed to 2 decimal places)
+    (ii) in each year after 2012, the level of assistance from the previous year less 0.01 (the phase-out rate for a highly emissions-intensive eligible industrial activity)
 
 ### 82 Entitlement to allocation for eligible industrial activities where provisional allocation not received
 (1) An eligible person who carries out an eligible industrial activity at any time in a year, but did not carry out that activity during the immediately preceding year (a new entrant) is not entitled to a provisional allocation calculated under section 81, but is entitled to an allocation under subsection (2).
@@ -1663,10 +1789,10 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
 (2) The formula for the calculation of a person’s final allocation entitlement is as follows:FA = LA × ∑(PDCT × AB)where—FAis the person’s final allocation entitlement for the eligible industrial activity for the yearLAis the level of assistance for the activity for the year, being,—∑is the symbol for summation (of each PDCT × AB calculation)PDCTis the amount of each prescribed product from the eligible industrial activity produced by the person in the year, as determined, if relevant, in accordance with regulations made under this ActABis the prescribed allocative baseline for the applicable product that is required to be used by the eligible person by regulations made under this Act.
   (a) for a moderately emissions-intensive eligible industrial activity,—
     (i) 0.6 in 2010, 2011, and 2012; and
-    (ii) in each year after 2012, the level of assistance from the previous year less 1.3% (the phase-out rate for a moderately emissions-intensive eligible industrial activity) (expressed to 2 decimal places):
+    (ii) in each year after 2012, the level of assistance from the previous year less 0.01 (the phase-out rate for a moderately emissions-intensive eligible industrial activity):
   (b) for a highly emissions-intensive eligible industrial activity,—
     (i) 0.9 in 2010, 2011, and 2012; and
-    (ii) in each year after 2012, the level of assistance from the previous year less 1.3% (the phase-out rate for a highly emissions-intensive eligible industrial activity) (expressed to 2 decimal places)
+    (ii) in each year after 2012, the level of assistance from the previous year less 0.01 (the phase-out rate for a highly emissions-intensive eligible industrial activity)
 (3) The formula for the calculation of a person’s annual allocation adjustment is as follows:AA = PA – FAwhere—AAis the person’s annual allocation adjustment of units for the eligible industrial activity for the yearPAis the person's provisional allocation for the eligible industrial activity notified by the EPA under section 86BFAis the person's final allocation entitlement for the eligible industrial activity for the year calculated under subsection (2).
 (4) If the figure for AA calculated under the formula in subsection (3)—
   (a) is a negative number, then the person is entitled to be allocated the number of units in the annual allocation adjustment:
@@ -1702,15 +1828,24 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
   (a) is not required to comply with section 83 in respect of that activity; and
   (b) may not calculate an annual allocation adjustment under section 83 in respect of that year.
 (4) A person who has applied for or notified a closing allocation adjustment in accordance with subsection (1) during a year, but who then recommences carrying out the activity in the year,—
-  (a) may calculate an annual allocation adjustment for the year in accordance with the following formula:AA = PA – FA – CAAwhere—AAis the person’s annual allocation adjustment of units for the eligible industrial activity for the yearPAis the person's provisional allocation for the eligible industrial activity for the year notified by the chief executive under section 86BFAis the person's final allocation entitlement for the eligible industrial activity for the year (which must be calculated in accordance with section 83(2))CAAis the amount of the person’s closing allocation adjustment for the eligible industrial activity; and
+  (a) may calculate an annual allocation adjustment for the year in accordance with the following formula:AA = PA – FA – CAAwhere—AAis the person’s annual allocation adjustment of units for the eligible industrial activity for the yearPAis the person's provisional allocation for the eligible industrial activity for the year notified by the EPA under section 86BFAis the person's final allocation entitlement for the eligible industrial activity for the year (which must be calculated in accordance with section 83(2))CAAis the amount of the person’s closing allocation adjustment for the eligible industrial activity; and
   (b) is entitled to be allocated the number of units in the person’s annual allocation adjustment (as calculated under paragraph (a)) in accordance with section 83(5).
 (5) Section 83(7) applies to the repayment of units under this section as if the units were required to be repaid under section 83.
+
+### 84A Temporary suspension of allocation entitlement for eligible industrial activities
+(1) The purpose of this section is to suspend temporarily the allocation entitlement of an eligible person in respect of an eligible industrial activity until the relevant participants face full surrender obligations.
+(2) This section applies to the allocation entitlement (including the provisional allocation entitlement) of an eligible person in respect of an eligible industrial activity calculated under sections 81 to 84.
+(3) Despite anything in this Act, an eligible person who carries out an eligible industrial activity is entitled to be allocated, in respect of an application made under section 86, only half of the person's allocation entitlement during the period—
+  (a) beginning on the day that this section comes into force; and
+  (b) ending on the close of the date specified for the purpose of this section as the closure date by an Order in Council made by the Governor-General on the recommendation of the Minister.
+(4) Before the Minister may make a recommendation under subsection (3)(b), the Minister must be satisfied that the relevant participants face full surrender obligations.
+(5) This section is repealed on the day after the closure date specified in an Order in Council made under subsection (3)(b).
 
 ### 85 Allocation of New Zealand units in relation to agriculture
 (1) A person is eligible for an allocation of New Zealand units for an eligible agricultural activity in respect of a year if the person carries out the activity at any time in the year.
 (2) An eligible person is entitled to an allocation for the eligible agricultural activity in respect of the year calculated in accordance with the following formula:A = LA × ∑(PDCT × AB)where—Ais the person's allocation entitlement for the eligible agricultural activity for the yearLAis the level of assistance for the eligible agricultural activity for the year, being—∑is the symbol for summation (of each PDCT × AB calculation)PDCTis the total amount of each product from the eligible agricultural activity produced by the person in the year as determined, if relevant, in accordance with regulations made under this ActABis the prescribed allocative baseline for the applicable product.
-  (a) 0.9 for 2015; and
-  (b) for each year after 2015, the level of assistance from the previous year less 1.3% (the phase-out rate for an eligible agricultural activity) (expressed to 2 decimal places)
+  (a) 0.9 for the first year in which surrender obligations are applicable for the activity; and
+  (b) in each year after the first year in which surrender obligations are applicable for the activity, the level of assistance from the previous year less 0.01 (the phase-out rate for an eligible agricultural activity)
 (3) Despite section 86(1)(c), a person who ceases to carry out an eligible agricultural activity in a year may, within 20 working days of ceasing to carry out the activity, apply under section 86 for an allocation for that year calculated in accordance with the formula in subsection (2).
 (4) A person—
   (a) is not to be treated as having ceased to carry out an eligible agricultural activity for the purposes of subsection (3) and section 59, if the person does not continuously carry out the activity during a year; but
@@ -1718,11 +1853,29 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
 (5) Subject to subsection (6), an eligible person who has applied for an allocation for a year (the closing year) in accordance with subsection (3) may not apply under section 86 for a further allocation in respect of the closing year.
 (6) An eligible person who has applied in accordance with subsection (3) for an allocation in respect of a closing year, but who then recommences carrying out the activity in the closing year may apply under section 86 for an allocation in respect of the part of the year after the date the person recommenced carrying out the activity (and which was not covered by the application made in accordance with subsection (3)) and, for that purpose, subsection (2) applies as if the year were the part of the year from the date the person recommenced carrying out the activity.
 
+### 85A Temporary suspension of phase-out rates for assistance under sections 81, 83(2), and 85(2)
+(1) The purpose of this section is to suspend temporarily the phase-out rates for assistance under sections 81, 83(2), and 85(2) until the relevant participants face full surrender obligations.
+(2) Despite anything in sections 81, 83(2), and 85(2),—
+  (a) the phase-out rates in those sections may not reduce the level of assistance for an eligible activity from its 2012 level or the level in the first year in which full surrender obligations are applicable for the activity (as the case may be) during the period—
+    (i) beginning on the date that this section comes into force; and
+    (ii) ending, in respect of either or both of those activities, on the close of the date specified for the purpose of this section as the closure date in an Order in Council made by the Governor-General on the recommendation of the Minister; and
+  (b) the relevant phase-out rate applies for each year after the year of the closure date specified in that order.
+(3) Before the Minister may make a recommendation under subsection (2)(a)(ii), the Minister must be satisfied that the relevant participants face full surrender obligations.
+(4) This section is repealed on the day after the closure date specified in the Order in Council made under subsection (2)(a)(ii) that specifies the end of all suspensions under this section.
+
+### 85B Temporary suspension of allocation entitlement for eligible agricultural activities
+(1) The purpose of this section is to suspend temporarily the allocation entitlement of an eligible person in respect of an eligible agricultural activity until the relevant participants face full surrender obligations.
+(2) This section applies to the allocation entitlement of an eligible person in respect of an eligible agricultural activity.
+(3) Despite anything in this Act, an eligible person who carries out an eligible agricultural activity is entitled to be allocated, in respect of an application made under section 86, only half of the person's allocation entitlement during the period—
+  (a) beginning on the date that the surrender obligations commence; and
+  (b) ending on the close of the date specified for the purpose of this section as the closure date by Order in Council made by the Governor-General on the recommendation of the Minister.
+(4) Before the Minister may make a recommendation under subsection (3)(b), the Minister must be satisfied that the relevant participants face full surrender obligations.
+(5) This section is repealed on the day after the closure date specified in an Order in Council made under subsection (3)(b) that specifies the end of suspensions under this section.
+
 ### 86 Applications for allocation of New Zealand units for industry and agriculture
-(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity or eligible agricultural activity under this subpart must, unless this subpart otherwise provides, apply to the EPA for an allocation—
-  (a) no later than 30 April in the year to which it relates, if the application is for a provisional allocation for an eligible industrial activity in respect of a year; and
-  (b) no later than 30 April in the year following the year to which it relates, if the application is for an allocation (other than a provisional allocation for an industrial activity) in respect of a year (including for an allocation of an annual allocation adjustment); and
-  (c) on or after 1 January and before 31 December in the year following the year to which it relates, if the application is for an allocation for an eligible agricultural activity in respect of a year.
+(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity or eligible agricultural activity under this subpart must, unless this subpart otherwise provides, apply to the EPA, in the period beginning on 1 January and ending with the close of 30 April in a year, for—
+  (a) a provisional allocation for an eligible industrial activity in respect of that year:
+  (b) an allocation (other than a provisional allocation for an eligible industrial activity) in respect of the preceding year.
 (2) An application under subsection (1) must—
   (a) be in the prescribed form; and
   (b) contain, as relevant, the applicant’s assessment of,—
@@ -1779,8 +1932,9 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (b) any grounds or information upon which the decision or variation or revocation of the decision was based; and
   (c) the person's right under section 144 to seek a review of the allocation decision.
 (5) If the result of a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4), variation or revocation of an allocation decision under subsection (1), or review under section 144 is that a person allocated units is found to have been allocated and transferred—
-  (a) units to which the person was not entitled, or to have repaid too few units, the person must within 90 working days after the date of the notice under subsection (4) repay the number of units notified to the person by transferring the units to a Crown holding account designated by the EPA; or
+  (a) units to which the person was not entitled, or to have repaid too few units, the person must within 60 working days of the date of the notice under subsection (4) repay the number of units notified to the person by transferring the units to a Crown holding account designated by the EPA; or
   (b) fewer units than the person was entitled to, or to have repaid too many units, the EPA must, as soon as practicable after the date of the notice under subsection (4), direct the Registrar to transfer to the holding account notified in the person’s application (or any other holding account notified by the person) the number of New Zealand units recorded in the notice.
+(5A) Any additional allocation made under subsection (5)(b) must be excluded from the calculation of the number of New Zealand units that may be allocated for the purpose of a recommendation made under section 30GA(1)(a).
 (6) Section 83(7) applies to repayment of units under subsection (5) as if it were repayment under section 83.
 
 ### 86D Retention of records and materials in relation to allocation
@@ -1811,20 +1965,7 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (b) has been allocated but not yet received some or all units allocated to the person under an allocation plan is not entitled to be transferred any units or any further units allocated to the person under the plan.
 
 ### 86F Balance of units at end of true-up period or other balance date
-(1) By the end of the true-up period, the Minister must ensure that the Crown holds, in any Crown holding account in the Registry, or in any retirement or surrender account, a number of Kyoto units equal to the number of New Zealand units issued into a Crown holding account during the first commitment period, but not including New Zealand units that are, during the first commitment period,—
-  (a) transferred to a conversion account in accordance with section 30E; or
-  (b) allocated to pre-1990 forest land owners under the pre-1990 forest land allocation plan that will be transferred after 31 December 2012 and that have not been transferred to a cancellation account; or
-  (c) transferred to a cancellation account.
-(2) Subsection (3) applies if New Zealand has received, or if the Minister expects New Zealand to receive, units under—
-  (a) the Protocol during a subsequent commitment period; or
-  (b) a successor international agreement.
-(3) If this subsection applies the Governor-General may, by Order in Council made on the recommendation of the Minister, specify a date by which the Crown must hold, in any Crown holding account in the Registry, or in any retirement or surrender account, a number of Kyoto units or approved overseas units received under any international agreement as calculated under subsection (4).
-(4) The number of Kyoto or approved overseas units held in accordance with subsection (3) must be equal to the number of New Zealand units issued into a Crown holding account up to the date specified in the Order in Council but not including New Zealand units that up to the date specified in the order are—
-  (a) transferred to a conversion account in accordance with section 30E; or
-  (b) allocated to pre-1990 forest land owners under the pre-1990 forest land allocation plan that will be transferred after 31 December 2012 and that have not been transferred to a cancellation account; or
-  (c) transferred to a cancellation account.
-(5) If an Order in Council is made under subsection (3), the Minister must ensure that the Crown holds the required number of units by the date specified in the order.
-(6) For the purposes of subsection (1), true-up period means the 100 days, beginning on a date determined by the Conference of the Parties (serving as the Meeting of the Parties to the Protocol), that provide the Parties with an additional period for fulfilment of their obligation under Article 3.1 of the Protocol through the acquisition and transfer of Kyoto units.
+[Repealed]
 
 ### Subpart 3 — Environmental Protection Authority
 
@@ -1837,7 +1978,7 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
   (ba) administer allocations relating to industry and agriculture in accordance with sections 80 to 86E; and
   (c) approve the use of unique emissions factors by participants in accordance with section 91; and
   (d) direct the Registrar to transfer New Zealand units to which participants are entitled for removal activities to participants’ holding accounts; and
-  (e) ensure participants comply with this Part and Part 5 and to take any action that may be appropriate to enforce those provisions and the provisions of any regulations made under this Part; and
+  (e) ensure participants and eligible persons comply with this Part and Part 5 and to take any action that may be appropriate to enforce those provisions and the provisions of any regulations made under this Part; and
   (f) publish information in accordance with section 89; and
   (g) issue emissions rulings to help persons meet their obligations under this Part and Part 5.
 (2) The EPA must comply with any direction that the Minister gives under section 88(1).
@@ -1846,7 +1987,7 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
 ### 87A Delegation by EPA
 (1) The EPA must not delegate its power to appoint the Registrar under section 11.
 (2) In all other respects, section 73 of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:.
-  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:ob
+  (d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:
 
 ### 88 Directions to EPA
 (1) The Minister may give general directions to the EPA in relation to the EPA's exercise of powers and performance of functions under this Part, Part 5, or any regulations made under this Part or Part 5.
@@ -1873,10 +2014,13 @@ Despite section 86(1)(a), if an eligible industrial activity is prescribed under
     (ii) surrender or repay units under section 65(4), 118(5), 123(3) or (6), 125, 189, 191, or 193; and
   (g) the total number of units surrendered; and
   (h) the total number of New Zealand units transferred for removal activities; and
-  (i) the total number of New Zealand units allocated under subpart 2 less any units repaid.
+  (i) the total number of New Zealand units allocated under subpart 2 less any units repaid; and
+  (j) the total sum of money paid to a Crown Bank Account in accordance with section 178A(2)(a)(ii) or (iii); and
+  (k) the total sum of money paid by the EPA in accordance with section 178A(2)(b)(ii) or (iii).
 (2) The EPA—
-  (a) must publish the information specified in subsection (1) by 30 June in each year; and
+  (a) must publish the information specified in subsection (1) as soon as practicable after the end of the reporting year; and
   (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
+(2A) In this section, reporting year means a 12-month period starting on 1 July of one year and ending with the close of 30 June of the following year.
 (3) The EPA is not required to publish the information required under subsection (1)(e) in respect of an activity or the information required under subsection (1)(i) if the EPA is satisfied that publishing the information would result in the disclosure of a participant’s individual emissions or an eligible person's own allocation, unless—
   (a) the participant or eligible person to whom the information relates has consented to the publication of the information; or
   (b) the information is already in the public domain.
@@ -1979,12 +2123,12 @@ The EPA or the chief executive may pay, or a District Court Judge may order the 
     (iiia) for the purposes of, or in connection with, reporting requirements of the Public Finance Act 1989; or
     (iv) as provided under this Act or any other Act; or
     (v) in connection with any investigation or inquiry (whether or not preliminary to any proceedings) in respect of, or any proceedings for, an offence against this Act or any other Act; or
-    (vi) for the purpose of complying with any obligation under the Protocol.
+    (vi) for the purpose of complying with any obligation under the Convention or the Protocol.
 (3) A person to whom this section applies commits an offence under section 130 if the person knowingly contravenes this section.
 (4) Nothing in subsection (2) may be treated as prohibiting the chief executive or the EPA from—
   (a) providing or publishing general guidance in relation to the operation of this Part and Part 5; or
   (b) with the prior approval of the Minister, preparing and supplying statistical information to any person in a form that does not identify any individual; or
-  (c) providing information to any person about whether any forest land is considered by the chief executive or the EPA to be pre-1990 forest land or post-1989 forest land, or has been declared to be exempt land by the chief executive or the EPA.
+  (c) providing information to any person about whether any forest land is considered by the chief executive or the EPA to be pre-1990 forest land, pre-1990 offsetting forest land, or post-1989 forest land, or has been declared to be exempt land by the chief executive or the EPA.
 
 ### 100 Power of entry for investigation
 (1) An enforcement officer may enter land or premises (excluding any dwellinghouse or marae) at any reasonable time during the ordinary hours of business to investigate whether a person is complying with this Part or Part 5.
@@ -2006,8 +2150,8 @@ The EPA or the chief executive may pay, or a District Court Judge may order the 
 (1) A District Court Judge, Justice of the Peace, Community Magistrate, or Registrar of any court who, on written application made on oath by an enforcement officer authorised by the EPA, is satisfied that there are reasonable grounds to believe that there are in or on or under or over any land, premises, dwellinghouse, or marae any documents or other records or things (including samples) that may be evidence of the commission of an offence under section 129, 132, or 133 may issue a warrant authorising the entry and search of the land, premises, dwellinghouse, or marae.
 (2) Every search warrant may authorise the enforcement officer executing the warrant to do any of the following things:
   (a) enter and search the land, premises, dwellinghouse, or marae, at any time that is reasonable in the circumstances during the ordinary hours of business, within—
-    (i) 14 working days after the date of the warrant; or
-    (ii) if the Judge or other person issuing the warrant is satisfied that special circumstances justify a longer period, any period of up to 28 working days that is specified in the warrant:
+    (i) 10 working days of the date of the warrant; or
+    (ii) if the Judge or other person issuing the warrant is satisfied that special circumstances justify a longer period, any period of up to 20 working days that is specified in the warrant:
   (b) seize any document or other thing that the enforcement officer has reasonable cause to suspect may be evidence of the commission of an offence under section 129, 132, or 133:
   (c) take samples of water, air, soil, organic matter, or any other thing:
   (d) use the assistance of any person that is reasonably necessary in the circumstances:
@@ -2091,7 +2235,7 @@ No enforcement officer or person called upon to assist an enforcement officer wh
   (a) a properly completed application for a ruling; and
   (b) all information that the EPA considers relevant to the consideration of the application, including information requested under section 107(3).
 (2) Subject to section 114(2), a ruling comes into effect on the day on which it is made.
-(3) A ruling may be made subject to any conditions that the chief executive thinks fit.
+(3) A ruling may be made subject to any conditions that the EPA considers appropriate.
 (4) Subsection (1) is subject to section 108.
 
 ### 110 Notice of emissions rulings
@@ -2100,7 +2244,7 @@ The EPA must, as soon as practicable, notify the applicant of—
   (b) a decision to decline to make an emissions ruling, together with the reasons for the decision.
 
 ### 111 Confirmation of basis of emissions rulings
-At any time after an emissions ruling is made, the EPA may, by notice, require an applicant to satisfy the EPA, within 20 working days after receipt of the notice, and in a manner that the EPA considers appropriate, that—
+At any time after an emissions ruling is made, the EPA may, by notice, require an applicant to satisfy the EPA, within 20 working days of receipt of the notice, and in a manner that the EPA considers appropriate, that—
   (a) the information on which the emissions ruling is based remains accurate; and
   (b) the conditions (if any) to which the ruling is subject, have been, and continue to be, complied with.
 
@@ -2130,7 +2274,7 @@ At any time after an emissions ruling is made, the EPA may, by notice, require a
 (2) An emissions ruling does not come into effect if any information on which it is based is not accurate in all material respects.
 
 ### 115 Appeal from decisions of EPA
-(1) An applicant who is dissatisfied with an emissions ruling, or a decision to decline to make an emissions ruling, may, within 20 working days after the date on which notice of the ruling or decision is given, appeal to a District Court against the ruling or decision.
+(1) An applicant who is dissatisfied with an emissions ruling, or a decision to decline to make an emissions ruling, may, within 20 working days of the date on which notice of the ruling or decision is given, appeal to a District Court against the ruling or decision.
 (2) The District Court may confirm, reverse, or modify the emissions ruling or decision appealed against.
 (3) An emissions ruling or decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 
@@ -2154,6 +2298,7 @@ At any time after an emissions ruling is made, the EPA may, by notice, require a
     (i) cease carrying out an activity listed in Schedule 3 or 4 in relation to which the person is a participant; and
     (ii) leave New Zealand:
   (b) a participant who has ceased to carry out any activities in New Zealand:
+  (ba) a participant who has given the EPA notice under section 59 that the participant has ceased, or will cease, to carry out any activities for the remainder of the year and the whole of the following year:
   (c) the executors or administrators of a deceased participant:
   (d) a participant who has become bankrupt or has been put into liquidation.
 (2) The EPA may, at any time, require a person to whom subsection (1) applies to submit a final emissions return in relation to a specified activity listed in Schedule 3 or 4.
@@ -2203,15 +2348,15 @@ An amendment made to an emissions return under section 120, or an assessment mad
   (b) any grounds or information upon which the amendment or assessment was based; and
   (c) the right of the person to seek a review of the decision under section 144.
 (2) A notice under subsection (1) must, if relevant, be accompanied by a penalty notice under section 134(3)(b).
-(3) If the amendment or assessment results in a liability for the person to surrender units or any additional units, the participant must surrender those units within 90 days after the date of the notice under subsection (1).
-(4) If the amendment shows that a participant has surrendered too many units, the EPA must, within 20 working days after the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
+(3) If the amendment or assessment results in a liability for the person to surrender units or any additional units, the participant must surrender those units within 60 working days of the date of the notice under subsection (1).
+(4) If the amendment shows that a participant has surrendered too many units, the EPA must, within 20 working days of the date of the notice under subsection (1), arrange for reimbursement to the participant, in accordance with section 124, of the number of units incorrectly surrendered.
 (5) If the amendment or assessment results in an entitlement for a participant to receive New Zealand units for the participant's removal activities, the EPA must direct the Registrar to transfer the number of New Zealand units to which the participant is entitled to the participant's holding account.
-(6) If the amendment shows that a participant was transferred too many New Zealand units for the participant’s removal activities, the participant must, within 90 days after the date of the notice under subsection (1), repay the number of units to which the amendment shows the participant was not entitled by transferring them to a Crown holding account designated by the EPA.
+(6) If the amendment shows that a participant was transferred too many New Zealand units for the participant’s removal activities, the participant must, within 60 working days of the date of the notice under subsection (1), repay the number of units to which the amendment shows the participant was not entitled by transferring them to a Crown holding account designated by the EPA.
 (7) Units repaid by any person under subsection (6) must be of a type that may be transferred to a surrender account at the time the unit is repaid.
-(8) The EPA is not required to meet the time frame in subsection (4) if consultation under section 124(6) on the units to be reimbursed makes this impracticable.
+(8) The EPA is not required to meet the time frame in subsection (4) if consultation under section 124(3) on the units to be reimbursed makes this impracticable.
 
 ### 124 Reimbursement of units by EPA
-(1) If the EPA is required to arrange for the reimbursement of units to a person under section 123(4), 126(2), 138(2), or 189(7), the EPA must direct the Registrar to transfer units to the person in accordance with subsection (2).
+(1) If the EPA is required to arrange for the reimbursement of units to a person under section 123(4), 126(2), 138(2), 186H(4), or 189(7), the EPA must direct the Registrar to transfer units to the person in accordance with subsection (2).
 (2) If the reimbursement is of—
   (a) New Zealand units or approved overseas units, the EPA must direct the Registrar to transfer the applicable number of New Zealand units or approved overseas units from the appropriate surrender account or Crown holding account to the person's holding account; or
   (b) Kyoto units, the EPA must direct the Registrar to transfer the applicable number and type of Kyoto units from the appropriate surrender account or Crown holding account to the person's holding account.
@@ -2248,7 +2393,7 @@ Any amendment or assessment made by the EPA for the purpose of this Act that is 
 
 ### Subpart 4 — Offences and penalties
 
-### 129 Strict liability offences
+### 129 Offences in relation to failure to comply with various provisions
 (1) A person commits an offence against this Act if the person—
   (a) is a participant in any year and, without reasonable excuse, fails to comply with section 62 (requirement to collect data or other information, calculate emissions and removals, and keep records); or
   (b) without reasonable excuse,—
@@ -2342,9 +2487,24 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
     (iv) advises that, unless both the units are surrendered or repaid and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
 (4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
+### 134A Penalty for failing to surrender or repay units when required by notice given under section 134(3)
+(1) This section applies if a person fails to surrender or repay units when required by a notice given under section 134(3).
+(2) If this section applies, the person is liable to—
+  (a) surrender or repay the units as required under the notice; and
+  (b) pay to the EPA an excess emissions penalty of $30 for each unit that the person has failed to surrender or repay by the due date specified in the notice given under section 134(3).
+(3) If a person is liable to an excess emissions penalty under subsection (2), the EPA must give a notice to the person that—
+  (a) refers to the person's failure to surrender or repay units by the due date specified in the notice given under section 134(3); and
+  (b) sets out the number of units required to be surrendered or repaid; and
+  (c) sets out the amount of the further excess emissions penalty that the person is liable to surrender or repay under this section (if any); and
+  (d) requires the person to surrender or repay the units specified in paragraph (b), and pay the penalty specified in paragraph (c) to the EPA, within 20 working days of the date of the notice; and
+  (e) advises that, unless the units are surrendered or repaid and the further penalty is paid in full by the due date, interest on the amount of the further penalty will accrue in accordance with section 137.
+(4) To avoid doubt, any liability to surrender or repay units or to pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134.
+(5) The amount of the excess emissions penalty and any interest that accrues on that penalty constitute a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
+
 ### 135 Reductions in penalty
 (1) The EPA may reduce the excess emissions penalty imposed by section 134(2)(b)(i) or (iii) by up to 100%, if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134.
-(2) The EPA may reduce the excess emissions penalty imposed by section 134(2)(b)(ii) by up to 100%, if—
+(1A) The EPA may reduce the excess emissions penalty imposed by section 134A(2)(b) for a liability incurred under section 134(2)(b)(i) or (iii) by up to 100% if the person voluntarily discloses the failure to surrender or repay units before receiving a penalty notice under section 134A.
+(2) The EPA may reduce the excess emissions penalty imposed by section 134(2)(b)(ii) or 134A(2)(b) for a liability incurred under section 134(2)(b)(ii) by up to 100%, if—
   (a) the person voluntarily disclosed that an emissions return submitted by the person contained incorrect information, or that the person failed to file a return when required to do so, before the EPA or an enforcement officer—
     (i) requested any information under section 94 or 95 in relation to the return; or
     (ii) gave notice of an intention to enter land or premises under section 100(3); or
@@ -2370,16 +2530,16 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (a) sets out the—
     (i) number of additional units that the person is required to transfer to a Crown holding account or surrender under subsection (2); and
     (ii) amount of the excess emissions penalty to which the person is liable under subsection (2); and
-  (b) requires the person to transfer to the designated Crown holding account or surrender the additional units, and pay the penalty within 90 days after the date of the notice; and
+  (b) requires the person to transfer to the designated Crown holding account or surrender the additional units, and pay the penalty within 60 working days of the date of the notice; and
   (c) advises that, unless both the units are transferred to the designated Crown holding account or surrendered (as the case may require) and the penalty paid in full by the due date, interest on the amount of the penalty will accrue in accordance with section 137.
-(4) To avoid doubt, any liability to transfer units to a Crown holding account or surrender units and pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134.
+(4) To avoid doubt, any liability to transfer units to a Crown holding account or surrender units and pay a penalty under subsection (2) is additional to, and does not affect, the liability of a person to surrender or repay units under any other section of this Act or to pay a penalty under a penalty notice given by the EPA under section 134 or 134A.
 (5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
 
 ### 137 Interest for late payment
 (1) This section applies if—
   (a) a person—
-    (i) has failed to surrender or repay units when required to do so and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(i) or (iii); or
-    (ii) is required to surrender or repay units under section 123 and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(ii); or
+    (i) has failed to surrender or repay units when required to do so and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(i) or (iii) or 134A(2)(b); or
+    (ii) is required to surrender or repay units under section 123 and is liable to pay an excess emissions penalty in relation to those units under section 134(2)(b)(ii) or 134A(2)(b); or
     (iii) is required to transfer units to a Crown holding account or surrender units and pay an excess emissions penalty under section 136; and
   (b) the person does not comply, or comply in full, with the requirement to surrender or repay units and to pay the penalty by the relevant date.
 (2) If this section applies, the person is liable to pay interest on the full amount of the excess emissions penalty—
@@ -2401,7 +2561,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (b) a person’s financial position.
 
 ### 138 Obligation to pay penalty not suspended by appeal
-(1) The obligation to pay and the right to receive and recover any excess emissions penalty or interest imposed under section 134, 136, or 137, and the obligation to transfer to a Crown holding account or surrender any additional units under section 136, are not suspended by any review or appeal.
+(1) The obligation to pay and the right to receive and recover any excess emissions penalty or interest imposed under section 134, 134A, 136, or 137, and the obligation to transfer to a Crown holding account or surrender any additional units under section 136, are not suspended by any review or appeal.
 (2) If the applicant or appellant is successful in the review or appeal, the amount of any excess emissions penalty or interest paid by the applicant must be refunded to the applicant or appellant by the EPA, and any units not required to be transferred to a Crown holding account or surrendered must be reimbursed in accordance with the procedure specified in section 124.
 (3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed under section 146.
 (4) The EPA must pay interest on any refunded excess emissions penalty and interest calculated in accordance with the following formula:((X × Y) ÷ 365) × Zwhere—Xis the number of days in the period that—Yis the amount of penalty and interest that, having been paid, is caused to be refunded in accordance with the outcome of a successful appeal; andZis the rate of interest specified by the Governor-General by Order in Council made under section 137(2)(a).
@@ -2409,7 +2569,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
   (b) ends on the day on which the relevant penalty is refunded by the EPA; and
 
 ### 138A Penalties to be paid into Crown account
-The EPA must pay the amount of all excess emissions penalties and interest on the penalties received from a person in accordance with section 134, 136, or 137 into a Crown Bank Account.
+The EPA must pay the amount of all excess emissions penalties and interest on the penalties received from a person in accordance with section 134, 134A, 136, or 137 into a Crown Bank Account.
 
 ### 139 Liability of body corporate
 If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person’s actual or apparent authority, had that state of mind.
@@ -2425,8 +2585,8 @@ If a body corporate is convicted of an offence under this Part, every director a
 
 ### 142 Limitation period for commencement of proceedings
 Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against—
-  (a) section 131 or 132(a), (b), (g), (h), or (i) may be laid at any time within 2 years from the time when the matter of the information arose:
-  (b) section 129, 130, or 132(c) to (f) may be commenced at any time within 7 years from the time when the matter of the information arose.
+  (a) section 131 or 132(1)(a), (b), (g), (h), or (i) may be laid at any time within 2 years from the time when the matter of the information arose:
+  (b) section 129, 130, or 132(1)(c) to (f) may be commenced at any time within 7 years from the time when the matter of the information arose.
 
 ### 143 Evidence in proceedings
 (1) In any proceedings for an offence against this Part or Part 5, a certificate or document (including an electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or the document, as the case may require:
@@ -2443,7 +2603,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 ### Subpart 5 — Review and appeal provisions
 
 ### 144 Request for review of decisions
-(1) A person affected by a decision of the EPA under a provision in this Part or Part 5 who is dissatisfied with the decision may, by notice to the EPA within the period of 30 days after receiving notice of the decision, or within any further period that the EPA allows, request the EPA to review the decision.
+(1) A person affected by a decision of the EPA under a provision in this Part or Part 5 who is dissatisfied with the decision may, by notice to the EPA within 20 working days of receiving notice of the decision, or within any further period that the EPA allows, request the EPA to review the decision.
 (2) The request must set out the grounds on which it is believed that the original decision should be reviewed.
 (3) For the purposes of a review, the EPA may require the person making the request for review to supply information additional to that contained in the request.
 (4) Following a review, the EPA may confirm, revoke, or vary the decision in the manner that the EPA thinks fit.
@@ -2609,7 +2769,7 @@ If a party to any proceedings before the District Court under section 145 is dis
   (e) if subsection (1)(e) applies, with effect from the date on which the consolidated group ceased to have a nominated entity.
 (3) Subsection (1)(e) does not apply if—
   (a) the nominated entity ceases to be the nominated entity by reason of being liquidated; and
-  (b) within 20 working days after that liquidation, or within such further period as the EPA may allow, the other entities in the consolidated group have selected another nominated entity and notified the EPA accordingly (in which case the selected entity is treated as the nominated entity with effect from the time of the liquidation).
+  (b) within 20 working days of that liquidation, or within such further period as the EPA may allow, the other entities in the consolidated group have selected another nominated entity and notified the EPA accordingly (in which case the selected entity is treated as the nominated entity with effect from the time of the liquidation).
 (4) An entity that ceases to be a member of a group in respect of which it is eligible to be a member of the consolidated group, or is a member of a consolidated group that ceases to have a nominated entity, must as soon as practicable give notice to the EPA of this change of circumstances.
 (5) The EPA must acknowledge the cessation of membership of a member of a consolidated group by notice to that member and the other members of the consolidated group given within 1 month of—
   (a) the EPA receiving a notice under—
@@ -2711,70 +2871,36 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (3) All claims for compensation under subsection (2) must, unless settled by agreement, be determined in the manner provided by the Public Works Act 1981, and the provisions of that Act relating to compensation apply accordingly.
 (4) For the purposes of this section, public work has the same meaning as in section 2 of the Public Works Act 1981.
 
-### 159 Chief executive must surrender or repay units for person who is in default or insolvent
+### 159 Recovery of costs
 (1) This section applies if a person—
   (a) is required to surrender or repay units and does not do so, or does not surrender or repay the total number of units required to be surrendered or repaid, within 1 year of the date of a penalty notice given under section 134 or 136 in relation to the units; or
   (b) is a participant and enters into an insolvency process.
-(2) If this section applies the chief executive must purchase and surrender on the person’s behalf, or transfer to the designated Crown holding account on behalf of the person required to repay units, any units that—
-  (a) the person has failed to surrender or repay after 1 year; or
-  (b) the insolvent participant would be required to surrender or repay under any other provision of this Act.
-(3) The cost of purchasing units, and any administrative costs incurred in their surrender or repayment under subsection (2), constitutes an unsecured debt to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
-(4) For the purposes of this section, insolvency process means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006.
+(2) If this section applies, the chief executive may seek to recover from the person, in a court of competent jurisdiction,—
+  (a) the cost of the units owed by the person as a debt; and
+  (b) the cost of the units that the insolvent participant would be required to surrender or repay under any other provision of this Act; and
+  (c) any costs associated with bringing and carrying out the action to recover the debt.
+(3) For the purposes of subsection (2)(a), the following formula must be used to calculate the total cost of the units:A = B × Cwhere—Ais the total cost of the unitsBis the number of unitsCis the price of a New Zealand unit on the date that is 1 year after the date that the penalty notice is given under section 134 or 136 for the units.
+(4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under section 134, 134A, or 136 constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
+(5) For the purposes of this section, insolvency process means receivership under the Receiverships Act 1993, liquidation under the Companies Act 1993, or bankruptcy under the Insolvency Act 2006.
 
-### 160 Reviews of operation of emissions trading scheme
-(1) The Minister must initiate a review of the operation and effectiveness of the emissions trading scheme established by this Act in each of the following periods:
-  (a) the first commitment period and each subsequent commitment period (if any); and
-  (b) if there is no subsequent commitment period,—
-    (i) the 5-year period commencing on 1 January 2013; and
-    (ii) each subsequent 5-year period after the period specified in subparagraph (i).
-(2) Each review initiated under subsection (1) must be completed no later than 12 months before the end of the period in which the review is initiated.
-(3) Despite anything in subsections (1) and (2),—
-  (a) the Minister must ensure that a review of the matters listed in subsection (5)(j) (an allocation review) is initiated and completed at least once in each of the following periods:
-    (i) the 5-year period commencing on 1 January 2011; and
-    (ii) each subsequent 5-year period after the period specified in subparagraph (i); and
-  (b) subsections (6) to (8) apply to each allocation review with all necessary modifications as if the allocation review were initiated under subsection (1); and
-  (c) the person conducting each allocation review may consider any other matter, including (but not limited to) the matters listed in subsection (5); and
-  (d) if the person conducting an allocation review considers the matters specified in subsection (5) in the relevant period, that consideration satisfies the obligation of the Minister under subsection (1).
-(4) For the avoidance of doubt, if a review initiated under subsection (1) results in the matters listed in subsection (5)(j) being reviewed in a period listed in subsection (3)(a), then the Minister is not obliged under subsection (3) to ensure any further review of those matters is initiated in that period.
-(5) Without limiting the scope of the review, a review under subsection (1) must consider—
-  (a) whether an amendment to this Act in relation to the emissions trading scheme is necessary or desirable; and
-  (b) whether New Zealand has undertaken, or is expected to undertake, any international obligations with respect to its emissions and removals that are different from or additional to any international obligations that New Zealand had undertaken when this section came into force, or since the last review under this section; and
-  (c) the stringency of any of the international obligations specified in paragraph (b); and
-  (d) the contribution of the emissions trading scheme established under this Act towards any targets that are in effect in accordance with section 224 or 225 at the time the review is initiated; and
-  (e) the types of Kyoto units and overseas units that may be surrendered for compliance with the emissions trading scheme established by this Act; and
-  (f) the operation of the commitment period reserve (if any); and
-  (g) the potential for linkage of the emissions trading scheme established under this Act to other greenhouse gas emissions trading schemes, including (but not limited to) Australia's carbon pollution reduction scheme; and
-  (h) the appropriateness of any methodologies that are prescribed for calculating emissions and removals; and
-  (i) whether it is necessary or desirable to—
-    (i) omit any of the activities from Schedule 3 or 4; and
-    (ii) add any additional removal activities to Part 2 of Schedule 4; and
-    (iii) amend the level of participant opt-in thresholds in Schedule 4; and
-  (j) whether changes to the provision of any allocation to industry or agriculture under subpart 2 are necessary or desirable, having regard to—
-    (i) whether New Zealand has undertaken, or is expected to undertake, any international obligations with respect to its emissions and removals that are different from, or additional to, any international obligations that New Zealand had undertaken when this section came into force, or since the last review under this section; and
-    (ii) the stringency of any of the international obligations specified in subparagraph (i); and
-    (iii) any change proposed to the activities listed in Schedule 3 or 4 following consideration of the matters specified in paragraph (i); and
-    (iv) the relative climate change obligations and emissions policies of New Zealand's trade competitors and trading partners; and
-    (v) any significant changes in emissions mitigation technology; and
-    (vi) the cost to the taxpayer and the economy of providing free allocation under subpart 2; and
-  (k) the appropriateness of the penalties in subpart 4 of this Part; and
-  (l) the implications (if any) of the following matters for the notification of intention under section 69:
-    (i) New Zealand's annual emissions for the 5 years before notification; and
-    (ii) the average price of units for the 2 years before notification; and
-  (m) the impacts of the forestry sector elements of the emissions trading scheme established under this Act on biodiversity within New Zealand; and
-  (n) the costs and benefits of establishing an independent or quasi-independent government body to carry out the allocation process, or any part of the allocation process, contained in subpart 2; and
-  (o) the social, economic, and environmental effects of the emissions trading scheme established by this Act (other than those considered under paragraphs (a) to (n)); and
-  (p) any other matter that the Minister considers relevant.
-(6) The Minister must appoint a panel to conduct any review under subsection (1) and report in accordance with the terms of reference set by the Minister on the matters set out in this section.
-(7) Following the completion of each review under subsection (1), the Minister must—
-  (a) publish the report of the panel on the review; and
-  (b) present a copy of the report to the House of Representatives.
-(8) If the panel recommends any change in relation to allocation to industry or agriculture that involves amending any Act or making or amending regulations under this Act, the Minister must—
-  (a) prepare a report that contains a response to the panel's recommendations for legislative change; and
-  (b) present a copy of his or her report to the House of Representatives.
-(9) To avoid doubt, this section does not limit the ability of the Minister to initiate reviews of the operation and effectiveness of the emissions trading scheme established by this Act at any time and may use any method of review (including, but not limited to, the method specified in this section).
+### 160 Review of operation of emissions trading scheme
+(1) The Minister may, at any time, initiate a review of the operation and effectiveness of the emissions trading scheme established by this Act.
+(2) A review may be undertaken by any method the Minister considers appropriate.
+(3) Without limiting the Minister's discretion under subsections (1) and (2), the Minister may appoint a review panel—
+  (a) to conduct a review under subsection (1); and
+  (b) to report in accordance with the terms of reference.
+(4) If the Minister appoints a panel, the Minister must—
+  (a) specify the written terms of reference for the review; and
+  (b) publish the report of the panel; and
+  (c) present a copy of the report to the House of Representatives.
+(5) If the Minister initiates a review but does not appoint a panel, the Minister must—
+  (a) consult persons (or their representatives) who appear to the Minister likely to have an interest in the review; and
+  (b) consult representatives of iwi and Māori who appear to the Minister to be likely to have an interest in the review; and
+  (c) specify the written terms of reference for the review; and
+  (d) establish a procedure that the Minister is satisfied is appropriate, fair in the circumstances, and in accordance with the terms of reference.
 
 ### 161 Appointment and conduct of review panel
-(1) When appointing members to a review panel under section 160, the Minister must—
+(1) If the Minister appoints a review panel under section 160, the Minister must—
   (a) ensure that there are a minimum of 3 and a maximum of 7 members; and
   (b) ensure that the majority of the members are not employees under the State Sector Act 1988; and
   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of—
@@ -2783,10 +2909,10 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (iii) the operation of the emissions trading scheme established under this Act, including its environmental, social, and economic effects; and
   (d) appoint 1 member as the chairperson of the panel.
 (2) The Minister must, by written notice to the panel, specify the terms of reference for the review to be conducted by the panel.
-(3) A review panel must complete a draft report on the review and provide the report to the Minister at least 1 month before the date on which the review is required to be completed under section 160.
+(3) A review panel must complete a draft report on the review and provide the report to the Minister by the date set out in the terms of reference.
 (4) The review panel must—
   (a) allow the Minister at least 10 working days within which to respond to and comment on the contents of the draft report; and
-  (b) after considering the Minister's response and comments (if any), prepare a final report and provide it to the Minister by the date on which the review is required to be completed under section 160.
+  (b) after considering the Minister's response and comments (if any), prepare a final report and provide it to the Minister by the date set out in the terms of reference.
 (5) In conducting a review, the review panel—
   (a) must establish a procedure that is appropriate, fair in the circumstances, and in accordance with the terms of reference for the review; and
   (b) must consult persons (or their representatives) that appear to the panel likely to have an interest in the review; and
@@ -2817,19 +2943,19 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (2) A regulation made under subsection (1) may permit persons to apply for and receive an allocation in respect of a period beginning on—
   (a) 1 January of the year in which the regulation is made even if the regulation comes into force on a later date in that year:
   (b) 1 January or 1 July in a year before the year in which the regulation is made provided the regulation comes into force on or before 31 December 2012.
-(3) Before recommending that a regulation be made under subsection (1)(a), the Minister must be satisfied either that the activity to be prescribed as an eligible industrial activity—
+(3) The Minister may recommend that regulations be made under subsection (1)(a) that prescribe an activity as an eligible industrial activity if the Minister is satisfied that the activity—
   (a) is—
     (i) moderately emissions-intensive or highly emissions-intensive; and
     (ii) trade-exposed; or
-  (b) may be treated as meeting the criteria in paragraph (a) under section 161B(1).
+  (b) is an Australian eligible industrial activity.
 (4) Despite anything in this section or section 161B or 161C, a regulation may not be made under subsection (1) that prescribes electricity generation as an eligible industrial activity.
 (5) The following regulations made under subsection (1) come into force on the day 5 years after the date of their notification in the Gazette or any later date that may be set by the regulations:
   (a) a regulation that revokes a regulation prescribing an activity as an eligible industrial activity:
   (b) a regulation that amends a regulation providing that an eligible industrial activity is highly emissions-intensive to provide that the eligible industrial activity is moderately emissions-intensive.
 
 ### 161B Australian eligible industrial activities
-(1) An activity may be treated as meeting the criteria specified in section 161A(3)(a) if the activity is an Australian eligible industrial activity.
-(2) If an activity is treated as meeting the criteria specified in section 161A(3)(a) because it is an Australian eligible industrial activity, any regulations that prescribe that activity as an eligible industrial activity must prescribe—
+(1)
+(2) Any regulations that prescribe an activity as an eligible industrial activity under section 161A(3)(b) must prescribe—
   (a) the same activity description for the activity, including (but not limited to) the matters listed in section 161A(1)(b)(i), as the activity description for the Australian eligible industrial activity; and
   (b) the same products to be used as a basis for an allocation of New Zealand units in respect of the activity as the products that are, or are likely to be, used as a basis for the allocation of emissions units in respect of the Australian eligible industrial activity; and
   (c) the same emissions-intensity level of the activity as the emissions-intensity level, or the likely emissions-intensity level, of the Australian eligible industrial activity; and
@@ -2903,11 +3029,13 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (e) the desirability of activity definitions reflecting activity definitions used in Australia; and
   (f) any other matters the Minister considers relevant.
 (2) For the purposes of section 161D(1)(c),—
-  (a) the emissions that must be included in any information provided under section 161D(1)(e)(ii) and (iii) may only include—
+  (a) the emissions that must be included in any information provided under section 161D(1)(e)(i)(B) and (C) may only include—
     (i) emissions of greenhouse gases resulting from—
       (A) the direct use of any coal, natural gas, geothermal fluid, used oil, or waste oil as part of the activity; and
       (B) the direct use of any coal, natural gas, geothermal fluid, used oil, or waste oil to generate steam that is used as part of the activity; and
       (C) any of the activities listed in Part 4 of Schedule 3 carried out as part of the activity; and
+      (D) the direct use of any liquid fossil fuel in stationary equipment; and
+      (E) fugitive coal seam gas from coal that is used as part of, or to generate steam that is used as part of, the activity; and
     (ii) a number of whole tonnes of emissions, which must be treated for the purpose of this section and sections 161C and 161D as emissions from the activity, calculated in accordance with the following formula:E = MWh × pEAFwhere—Eis the number of whole tonnes of emissions from the activity that may be included in any information submitted under section 161D(1)(e)(ii) and (iii)MWhis the number of megawatt hours of electricity used when the activity is carried outpEAFis a prescribed electricity allocation factor; and
   (b) the emissions that may not be included in any information provided under section 161D(1)(e)(ii) and (iii) must include (but are not limited to) emissions resulting from—
     (i) the use of machinery and equipment, and other processes, that are not integral to, nor essential to, the physical, chemical, biological, or other transformation taking place when the activity is carried out; and
@@ -2992,10 +3120,12 @@ If an entity ceases to be a member of a consolidated group, the entity—
 ### 163 Regulations relating to methodologies and verifiers
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) prescribing the data or other information that must be collected under section 62(a) in respect of an activity, and, if relevant, the mechanism or method by which the data or information must be collected; and
-  (ab) authorising, in respect of an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4, the EPA to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
+  (ab) authorising, in respect of an activity listed in Part 1 or 1A of Schedule 3 or Part 1 of Schedule 4, the EPA to specify the location where, and the device by which, the data or other information prescribed in accordance with paragraph (a) must be collected; and
   (b) prescribing a methodology or methodologies for calculating emissions or removals from an activity for the purposes of section 62(b); and
   (c) prescribing the data or other information, or the calculations of emissions or removals, that must be verified by a person or organisation recognised by the EPA under section 92; and
-  (d) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to the data or information prescribed under paragraph (a), and providing that compliance with the guidelines or standards is to be treated as compliance with the relevant requirements in the regulations; and
+  (d) authorising the EPA to issue guidelines or standards by notice in the Gazette in relation to—
+    (i) the matters prescribed under paragraph (a); and
+    (ii) the method and format for determining the spatial extent of an area of forest land; and
   (e) prescribing, for the purposes of section 92,—
     (i) the process by which a person or organisation may be recognised as being able to verify information or calculations for the purposes of section 62(a) or (c) or unique emissions factors for the purposes of regulations made under section 164; and
     (ii) the expertise, technical competence, or qualifications required for recognition as a person or organisation able to verify unique emissions factors or information relating to 1 or more types of data or information, the calculations of certain types of emissions or removals, or 1 or more activities; and
@@ -3018,7 +3148,8 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (b) may require the use of a computer programme available via the Internet site of the EPA; and
   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
 (5) In making a recommendation in relation to a regulation under subsection (1)(a) or (b), the Minister must have regard to New Zealand’s international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
-(6) Any guidelines or standards issued by the chief executive under regulations made under subsection (1)(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(6) Any guidelines or standards issued by the EPA under regulations made under subsection (1)(d) are regulations for the purposes of the Regulations (Disallowance) Act 1989, but not for the purposes of the Acts and Regulations Publication Act 1989.
+(7) A person who has complied with guidelines or standards issued by the EPA in regulations made under subsection (1)(d) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
 
 ### 164 Regulations relating to unique emissions factors
 If regulations made under section 163(1)(b) require emissions or removals to be calculated by reference to a default emissions factor, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
@@ -3031,14 +3162,18 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
     (iv) any criteria by which the default emissions factor has been set, that reflect the matters in section 163(4):
     (v) a requirement that the unique emissions factor be verified by a recognised verifier.
 
+### 165 Regulations relating to offsetting of pre-1990 forest land
+[Repealed]
+
 ### 166 Procedure for regulations relating to methodologies, verification, unique emissions factors, and offsetting
-(1) Before making a recommendation for the making of regulations under section 163, 164, or 165, the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
+(1) Before making a recommendation for the making of regulations under section 163, 164, or 186F, the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
 (2) The process for consultation must include—
   (a) giving adequate and appropriate notice of the proposed terms of the recommendation, and of the reasons for it; and
   (b) the provision of a reasonable opportunity for interested persons to consider the recommendation and make submissions; and
   (c) adequate and appropriate consideration of submissions.
 (3) Regulations referred to in this section come into force 3 months after the date of their notification in the Gazette or any later date that may be set out in the regulations.
-(4) A failure to comply with this section does not affect the validity of regulations made under section 163, 164, or 165.
+(4) A failure to comply with this section does not affect the validity of regulations made under section 163, 164, or 186F.
+(5) Subsection (3) does not apply to any regulations made under sections 163 (in relation to the forestry sector) and 186F on or before 1 January 2013.
 
 ### 167 Regulations relating to fees and charges
 (1) The Governor-General may, by Order in Council, make regulations prescribing the amount of any fees payable under this Part or Part 5 and the procedures for payment.
@@ -3076,7 +3211,7 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
   (b) prescribing matters in respect of which applications for emissions rulings may be made; and
   (c)
   (ca) prescribing a date by which an application to the EPA must be submitted under section 183; and
-  (d) prescribing forest species that are tree weeds for the purposes of section 184; and
+  (d) prescribing forest species that are tree weeds; and
   (e) prescribing criteria for carbon accounting areas; and
   (f) requiring notification by the EPA of the status of forest land or any changes to the status of forest land under section 195; and
   (g) providing for the circumstances in which a notice of the status of forest land must be cancelled by the Registrar-General of Land, a Registrar of the Maori Land Court, or the Registrar of Deeds; and
@@ -3086,12 +3221,15 @@ If regulations made under section 163(1)(b) require emissions or removals to be 
   (k) prescribing the form and manner in which any application, return, information, or other document must be submitted or notified under this Part and Part 5, and the particulars to be provided in the application, return, or other document; and
   (l) prescribing the information that must be provided in or with applications or other documents under this Part and Part 5; and
   (m) prescribing a threshold for the purposes of any removal activity listed in Part 2 of Schedule 4; and
-  (n) prescribing criteria for registering as a participant in relation to an activity listed in subpart 2 of Part 2 of Schedule 4, which may include criteria for the type of carbon dioxide capture and storage in respect of which a person may register as a participant; and
+  (n) prescribing criteria for registering as a participant in relation to an activity listed in—
+    (i) subpart 1 of Part 2 of Schedule 4; and
+    (ii) subpart 2 of Part 2 of Schedule 4, which may include criteria for the type of carbon dioxide capture and storage in respect of which a person may register as a participant; and
+    (iii) subpart 3 of Part 2 of Schedule 4; and
   (o) providing for any other matters contemplated by this Part and Part 5 or Schedules 3 and 4, necessary for their administration, or necessary for giving them full effect.
 (2) The power to prescribe the form of any application, return, information, or other document under subsection (1) includes the power to prescribe an electronic format to be used for the electronic transmission of data to or between computers.
 
-### 169 Incorporation by reference in regulations made under section 163, 164, 165, 167, or 168
-(1) The following written material may be incorporated by reference in regulations made under section 163, 164, 165, 167, or 168:
+### 169 Incorporation by reference in regulations made under section 163, 164, 167, or 168
+(1) The following written material may be incorporated by reference in regulations made under section 163, 164, 167, or 168:
   (a) decisions, computer programmes, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters; and
   (b) any standards, requirements, or recommended practices of a government agency, standard-setting organisation, or professional body.
 (2) Material may be incorporated by reference in regulations—
@@ -3162,6 +3300,50 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
 (1) A fee or charge that is not paid in accordance with regulations made under this Part may be recovered from the person liable to pay the fee or charge by the EPA in any court of competent jurisdiction.
 (2) The EPA may enter into any agreement or arrangement, on any terms that the EPA thinks fit, with any person to collect, or assist in the collection of, any fees or charges that are payable.
 
+### 178A Option to pay money instead of surrendering units to cover emissions
+(1) This section applies if—
+  (a) a person is required to surrender or repay units—
+    (i) under section 65(4), 118(5), 189(8), or 193 for emissions from any activity; or
+    (ii) under section 183A(2)(b), 187, or 191; or
+  (b) the EPA is required under section 123(4), 186H, 187, 189(7)(d), or 191 to arrange for the reimbursement of units—
+    (i) for emissions from any activity; or
+    (ii) because approval is revoked or the offsetting forest land has not become pre-1990 offsetting forest land before deforestation of the relevant pre-1990 forest land.
+(2) Despite anything in this Act, if this section applies, a person may satisfy the person’s obligation to surrender, repay, or reimburse units,—
+  (a) in the case of a person other than the EPA, by—
+    (i) surrendering or repaying the units in accordance with section 65(4), 118(5), 183A(2)(b), 186H, 187, 189(8), 191, or 193, as applicable; or
+    (ii) paying a sum of $25 for each unit that the person is liable to surrender or repay, into a Crown Bank Account, by the date or within the period by which the units are required to be surrendered or repaid; or
+    (iii) a combination of the actions provided for in subparagraphs (i) and (ii); or
+  (b) in the case of the EPA, by—
+    (i) reimbursing units to a person in accordance with the procedure specified in section 124; or
+    (ii) paying a sum of $25 for each unit into a bank account designated by the person; or
+    (iii) a combination of the actions provided for in subparagraphs (i) and (ii).
+(3) For the purposes of subsection (2)(a)(ii) and (iii), a person’s obligation to surrender units or repay units is only satisfied when the funds paid into a Crown Bank Account are cleared.
+(4) For the purposes of subsection (3) and section 178B(1), funds paid into a Crown Bank Account are to be treated as cleared when it is no longer possible to reverse the payment and the funds are available for use by the Crown.
+
+### 178B Issuing New Zealand units to meet surrender obligations
+(1) If, in accordance with section 178A(2)(a)(ii) or (iii), a person pays a sum of $25 instead of surrendering a unit that the person is liable to surrender, the Registrar must, when the funds are cleared,—
+  (a) issue a number of New Zealand units into a Crown holding account equal to the number of units in respect of which the person has paid a sum of $25 for each unit; and
+  (b) transfer the New Zealand units into the person’s holding account held for the purpose of section 61(1); and
+  (c) immediately following the transfer under paragraph (b), transfer the New Zealand units to a surrender account designated by the EPA.
+(2) The Registrar may, for the purposes of subsection (1)(a), issue a number of New Zealand units equal to the number of units in respect of which 1 or more persons have paid a sum of $25 for each unit under section 178A(2)(a)(ii) or (iii).
+(3) If the EPA is required to reimburse a person units under section 123(4), 186H, or 189(7)(d) and has satisfied its obligation to do so by paying to the person a sum of $25 for each unit in accordance with section 178A(2)(b)(ii) or (iii), then the Registrar must—
+  (a) transfer from the appropriate surrender account to the person’s holding account held for the purpose of section 61(1) a number of New Zealand units equal to the number of units for which the EPA paid the person a sum of $25 for each unit; and
+  (b) immediately following the transfer under paragraph (a), transfer the New Zealand units from the person’s holding account to a cancellation account.
+(4) For the avoidance of doubt, section 68 does not apply in respect of any New Zealand units issued under this section.
+(5) If subsection (1) applies, this Act applies with any necessary modification as if the payment of $25 for a unit by a person and the transfer of a unit to a surrender account by the Registrar under this section were a surrender of a unit by the person.
+(6) Despite anything in section 18CA(4), a New Zealand unit that is transferred to a surrender account under subsection (1)(c) may be further transferred in accordance with subsection (3)(a).
+
+### 178C Prohibition on ability to export New Zealand units
+(1) Despite anything in this Act,—
+  (a) an account holder may not apply to the Registrar under section 30E(1)(a) to convert a New Zealand unit held by that person into a designated assigned amount unit for the purposes of transferring that assigned amount unit to an account in an overseas registry; and
+  (b) the Registrar must not transfer to an account in an overseas registry under section 18C—
+    (i) New Zealand units; or
+    (ii) designated assigned amount units that have been converted from New Zealand units under section 30E(3) before the commencement of this section.
+(2) This section does not apply to New Zealand units—
+  (a) in respect of activities listed in Part 1 of Schedule 4; or
+  (b) transferred in accordance with a determination of the Minister under section 77 or 78 that relates to an allocation under the pre-1990 forest land allocation plan; or
+  (c) received under the Forests (Permanent Forest Sink) Regulations 2007.
+
 ## Part 5 — Sector specific provisions
 
 ### Subpart 1 — Forestry sector
@@ -3169,12 +3351,17 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
 **General**
 
 ### 179 Forest land to be treated as deforested in certain cases
-(1) Without limiting paragraph (a) of the definition of deforest in section 4(1), a hectare of forest land must be treated as deforested for the purposes of this Act, if the forest species on that land have been cleared and—
+(1) Without limiting paragraph (a) of the definition of deforest in section 4(1), a hectare of forest land must be treated as deforested for the purposes of this Act if the forest species on that hectare have been cleared and,—
   (a) 4 years after clearing, the hectare has not—
     (i) been replanted with at least 500 stems of forest species; or
-    (ii) naturally established a covering of at least 500 stems of forest species; or
-  (b) 10 years after clearing, predominantly exotic forest species are growing, but that hectare does not have tree crown cover of at least 30% from trees that have reached 5 metres in height; or
+    (ii) regenerated a cover of at least 500 stems of exotic forest species; or
+    (iii) been replanted with at least 100 stems of willows or poplars in a manner consistent with managing soil erosion; or
+    (iv) regenerated predominantly indigenous forest species growing in a manner in which the hectare is likely to be forest land 10 years after the hectare was cleared; or
+  (b) 10 years after clearing,—
+    (i) predominantly exotic forest species are growing, but that hectare does not have tree crown cover of at least 30% from trees that have reached 5 metres in height; or
+    (ii) predominantly indigenous forest species are growing, but that hectare is not forest land; or
   (c) 20 years after clearing, predominantly indigenous forest species are growing, but that hectare does not have tree crown cover of at least 30% from trees that have reached 5 metres in height.
+(1A) Subsection (1)(a)(iii) applies only if the EPA is satisfied that the relevant local authority has determined that the soil erosion risk of the land is at least moderate.
 (2) If forest land is to be treated as deforested under subsection (1),—
   (a) the deforestation is to be treated as having been carried out 4 years, 10 years, or 20 years, after the clearing of the forest species, as the case may be; but
   (b) the liability in respect of the deforestation must be calculated by reference to the age and forest species of the trees cleared 4 years, 10 years, or 20 years earlier, as the case may be.
@@ -3182,11 +3369,33 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   (a) the hectare has been converted to land that is not forest land; and
   (b) any obligations imposed under this Act in respect of the deforestation have not been complied with.
 
+### 179A Forest land may not be treated as deforested in certain cases
+(1) Despite section 179 and the definition of deforest in section 4(1),—
+  (a) in the case of pre-1990 forest land, pre-1990 forest land that is cleared may not be treated as deforested for the purposes of this Act if the cleared land is exempt land or—
+    (i) is contiguous with the edge of pre-1990 forest land that existed on 31 December 2007; and
+    (ii) is an area that is less than 1 hectare or that is less than 30 metres wide at its widest point; and
+    (iii) is required to be or remain cleared to implement New Zealand's best practice forest management; and
+    (iv) is used only for the purpose of implementing New Zealand's best practice forest management:
+  (b) in the case of pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under section 186B, the pre-1990 forest land that is cleared may not be treated as deforested if cleared,—
+    (i) in the case where the land is converted to a use other than forest land (for example, dairy), in the period—
+      (A) beginning on the date that the approval is given; and
+      (B) ending with the earlier of 2 years after the date that the approval was given or 4 years after the date that the pre-1990 forest land was cleared; or
+    (ii) in the case where the land is not converted to another land use and remains forest land, in the period—
+      (A) beginning on the date that the pre-1990 forest land was cleared; and
+      (B) ending 4 years after the date that the pre-1990 forest land was cleared:
+  (c) in the case of post-1989 forest land, the post-1989 forest land that is cleared may not be treated as deforested if the cleared land—
+    (i) is contiguous with the edge of post-1989 forest land that existed on the date of registration; and
+    (ii) is an area that is less than 1 hectare or that is less than 30 metres wide at its widest point; and
+    (iii) is required to be or remain cleared to implement New Zealand's best practice forest management; and
+    (iv) is used only for the purpose of implementing New Zealand's best practice forest management.
+(2) Subsection (1)(b) does not apply if the EPA revokes its approval of an offsetting forest land application under section 186G(1).
+(3) This section applies to land that was cleared before, on, or after the commencement of this section.
+
 **Pre-1990 forest land**
 
 ### 180 Participant in respect of pre-1990 forest land
 (1) If the activity listed in Part 1 of Schedule 3 is carried out, the landowner of the pre-1990 forest land is to be treated as the person carrying out the activity unless the EPA is satisfied that—
-  (a) the right to decide to deforest the pre-1990 forest land was vested in a third party, whether before or after 1 January 2008; and
+  (a) the right to decide to deforest the pre-1990 forest land was vested by the landowner in a third party, whether before or after 1 January 2008; and
   (b) the landowner had no control over the decision.
 (2) If the EPA is satisfied that the criteria specified in subsection (1)(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
 (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in Part 1 of Schedule 3.
@@ -3200,6 +3409,10 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   (a) the date of transfer of the land that is inconsistent with the hectare remaining forest land; or
   (b) the date of the expiry or termination of the forestry right, Crown forestry licence, lease, or other agreement relating to the land that is inconsistent with the hectare remaining forest land.
 (4) This section applies only if section 4(5) does not apply.
+(5) This section does not apply to pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under section 186B.
+
+### 182 Offsetting in relation to pre-1990 forest land
+[Repealed]
 
 ### 183 Applications for exemption for land holdings of less than 50 hectares of pre-1990 forest land
 (1) This section applies to a person who—
@@ -3216,22 +3429,45 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   (b) be in the prescribed form and accompanied by the prescribed fee (if any); and
   (c) contain details of the area of pre-1990 forest land to which the application relates; and
   (d) be accompanied by evidence showing that the land is pre-1990 forest land; and
-  (e) be accompanied by a statutory declaration from each person who owned the land on 1 September 2007 (other than a joint tenant who is a professional trustee) that the person, together with any associated persons of that person, owned on 1 September 2007 in total less than 50 hectares of pre-1990 forest land; and
+  (e) be accompanied by a statutory declaration,—
+    (i) in the case of land owned by a sole professional trustee or owned by professional trustees only, from the trustee of the trust that is the subject of the exemption application stating that the total of pre-1990 forest land held in the trust on 1 September 2007—
+      (A) was less than 50 hectares; and
+      (B) was owned by a sole professional trustee or owned by professional trustees only:
+    (ii) in any other case, from each person who owned the land on 1 September 2007 (other than a joint tenant who is a professional trustee) stating that the person, together with any persons associated with that person, owned less than a total of 50 hectares of pre-1990 forest land on 1 September 2007; and
   (f) be signed by the applicant; and
   (g) be accompanied by any other prescribed information.
 (4) If the EPA is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the EPA must—
   (a) declare the land to be exempt land; and
   (b) notify the applicant that the land has been declared exempt land.
-(5) Despite subsection (3)(a), the EPA may, at his or her discretion, accept applications after the date specified in the public notice given under subsection (3)(a)(ii) or prescribed by regulations under section 168(1)(ca).
+(5) Despite subsection (3)(a), the EPA may, at its discretion, accept applications after the date specified in the public notice given under subsection (3)(a)(ii) or prescribed by regulations under section 168(1)(ca).
 (6) The following rules apply for the purposes of determining, under subsection (2)(b), whether an area of pre-1990 forest land was owned on 1 September 2007 by a person or persons who, along with any associated persons, owned in total less than 50 hectares of pre-1990 forest land:
   (a) the EPA must consider only pre-1990 forest land in respect of which the person or associated person was a landowner on 1 September 2007; and
   (b) if land was owned by persons as joint tenants,—
     (i) in the case where 1 or more of the joint tenants is a professional trustee, each of the joint tenants other than the professional trustee or trustees must individually have been a landowner of less than 50 hectares of pre-1990 forest land; or
     (ii) in the case where none of the joint tenants is a professional trustee, each of the joint tenants must individually have been a landowner of less than 50 hectares of pre-1990 forest land; and
-  (c) if land was owned by persons as tenants in common, each tenant in common’s interest in the land is to be treated as a divided interest on 1 September 2007.
+  (c) if land was owned by persons as tenants in common, each tenant in common’s interest in the land is to be treated as a divided interest on 1 September 2007; and
+  (d) if land was owned by a sole professional trustee or owned by professional trustees only, the total pre-1990 forest land held in the trust on 1 September 2007 was less than 50 hectares.
 (7) For the purposes of this section,—
   - **own** , in relation to pre-1990 forest land, means to be a landowner of the land
-  - **professional trustee** means a trustee whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others.
+  - **professional trustee** —
+    (a) means a trustee whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others; and
+    (b) includes a trustee in whom property is vested under Te Ture Whenua Maori Act 1993.
+
+### 183A Certain applications not otherwise permitted by section 183
+(1) Despite section 183(2)(c) and (3)(a), a person may make an application under section 183 by 31 December 2013 if—
+  (a) the area concerned was owned, as at 1 September 2007, by a sole professional trustee or by professional trustees only; and
+  (b) an allocation of units has been made before the commencement of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 in respect of the area under an allocation plan under section 72.
+(2) If the EPA proposes to accept the application, the EPA must notify the applicant that—
+  (a) it proposes to accept the application; but
+  (b) the applicant must first, within 30 working days after receiving the notice, surrender or repay to the Crown holding account specified in the notice the number of New Zealand units specified in the notice; and
+  (c) if the units are not surrendered or repaid in accordance with paragraph (b), then the application will be declined.
+(3) The units referred to in subsection (2) must be the same number of units that have been allocated and transferred under an allocation plan under section 72 in relation to the land concerned.
+(4) The EPA must,—
+  (a) accept the application and declare the area concerned to be exempt land if, by the expiry of the 30 days, the units have been surrendered or repaid; or
+  (b) decline the application if, by the expiry of the 30 days, the units have not been surrendered or repaid.
+(5) To avoid doubt,—
+  (a) section 183 (as amended by the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012) otherwise applies to an application permitted by this section, but subject to the modifications made by this section; and
+  (b) if an application is granted and an area is declared to be exempt land, the entitlement to units under the allocation plan in respect of the land is cancelled.
 
 ### 184 Exemptions for deforestation of land with tree weeds
 (1) The EPA may give public notice that exemptions are available in relation to the deforestation of pre-1990 forest land if—
@@ -3272,19 +3508,114 @@ Sections 169 to 176 do not affect the application of sections 22 to 25 of the St
   (b) the EPA must make an assessment of the matters that should have been in the person’s annual emissions return and the number of units the person would have been liable to surrender if the land had not been exempt land; and
   (c) the person is liable to surrender the number of units in the assessment under paragraph (b); and
   (d) section 123(1) to (3) and the other provisions of this Act apply as if the assessment under paragraph (b) was an assessment under section 121.
-(9) For the purposes of this section, tree weed means a tree that is defined or designated as—
-  (a) a pest in a pest management plan under the Biosecurity Act 1993; or
-  (b) a tree weed in regulations made under this Act.
+(9)
 
 ### 185 Effect of exemption
 The status of pre-1990 forest land as exempt land runs with the land and is not affected by any change in the ownership of the land.
 
-### 186 Methodology for pre-1990 forest land
+### 186 Methodology for pre-1990 forest land cleared in 8 years or less
 (1) Subsection (2) applies where the trees cleared from pre-1990 forest land by a person carrying out the activity in Part 1 of Schedule 3 are 8 years or younger.
 (2) If this subsection applies, the participant must,—
-  (a) for the purposes of sections 62(b) and 65(2)(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years; and
+  (a) for the purposes of sections 62(b) and 65(2)(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163) cleared from the pre-1990 forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
   (b) surrender units under this Act based on emissions calculated and recorded in accordance with paragraph (a).
 (3) A methodology for calculating emissions from the activity in Part 1 of Schedule 3 prescribed in regulations under section 163 must relate to the trees that are cleared from the pre-1990 forest land as part of the deforestation activity.
+
+**Pre-1990 offsetting forest land**
+
+### 186A Persons who own pre-1990 forest land may submit offsetting forest land applications to EPA
+(1) A person who owns pre-1990 forest land may submit an offsetting forest land application to the EPA if that forest land—
+  (a) was first planted before 1 January 1990; or
+  (b) was harvested and re-established after 1 January 1960.
+(2) If the proposed offsetting forest land and the pre-1990 forest land are owned by the same person, the application must be submitted by that person.
+(3) In the case where the proposed offsetting forest land and the pre-1990 forest land are owned by different persons, the application must be submitted jointly by those persons.
+(4) To avoid doubt, any pre-1990 forest land cleared, but not deforested, before the commencement of this section is eligible to be offset if that land meets the requirements specified in subsection (1).
+
+### 186B Criteria for approving offsetting forest land applications
+(1) The EPA must approve land as offsetting forest land if—
+  (a) the land—
+    (i) is the subject of an offsetting forest land application that—
+      (A) is in the prescribed form, and accompanied by the payment of any prescribed fee; and
+      (B) complies with any relevant regulations made under section 186F; and
+      (C) is accompanied by any other relevant information that the EPA may require; and
+    (ii) was—
+      (A) not forest land on or after 31 December 1989; or
+      (B) forest land on 31 December 1989 that was deforested between 1 January 1990 and 31 December 2007 and is (at the time the offsetting forest application is made) not forest land; or
+      (C) pre-1990 forest land (other than exempt land) that was deforested on or after 1 January 2008 and any liability in respect of it to surrender units in relation to the activity listed in Part 1 of Schedule 3 has been satisfied, and is (at the time the offsetting forest application is made) not forest land; or
+      (D) pre-1990 forest land (other than exempt land) that was deforested on or after 1 January 2013 and offset by pre-1990 offsetting forest land, and is (at the time the offsetting forest application is made) not forest land; or
+      (E) exempt land that has been deforested and in respect of which the number of units that would have been required to be surrendered in relation to the activity in Part 1A of Schedule 3 had the land not been exempt land has been surrendered, and is (at the time the offsetting forest application is made) not forest land; and
+  (b) the land is land—
+    (i) that has a total area (whether or not contiguous) that is equal to or greater than the total area of the pre-1990 forest land that is to be offset by that land (whether or not contiguous); and
+    (ii) in which each individual parcel that makes up the total area of the offsetting forest land is at least 1 hectare with an average width of at least 30 metres; and
+  (c) the EPA is satisfied that the land is likely to—
+    (i) achieve carbon equivalence with the pre-1990 forest land that is to be offset by that land within the usual rotation period for forest species of the pre-1990 forest land; and
+    (ii) become forest land before the pre-1990 forest land that is to be offset by that land is deforested; and
+  (d) any other requirements with respect to offsetting specified in this Act or regulations made under this Act are satisfied.
+(2) The EPA may decline any application that does not meet all or any of the requirements specified in subsection (1).
+
+### 186C Conditions applicable to offsetting forest land
+(1) If the EPA approves an offsetting forest land application, the following conditions apply:
+  (a) the offsetting forest land must—
+    (i) become forest land before the relevant pre-1990 forest land is deforested; and
+    (ii) be established by direct planting activities, including direct seeding but excluding natural forest regeneration; and
+    (iii) be established on the land specified in the application approved by the EPA; and
+    (iv) achieve carbon equivalence with the relevant pre-1990 forest land:
+  (b) the owner of the pre-1990 forest land must surrender or repay units if required to do so under section 186H:
+  (c) any relevant conditions prescribed by regulations made under section 186F must be satisfied.
+(2) Subsection (1)(a)(i) is subject to section 179A(1)(b).
+
+### 186D Requirements relating to offsetting forest land
+(1) A person who owns pre-1990 forest land must submit a declaration to the EPA in the prescribed form, before the end of the relevant period specified in section 179A(1)(b), stating that the offsetting forest land has become forest land.
+(2) If the EPA is not satisfied that the land subject to an approved offsetting forest land application has become forest land by the time that the relevant pre-1990 forest land is deforested,—
+  (a) the application is to be treated as revoked under section 186G; and
+  (b) the person who owns the pre-1990 forest land must surrender units for the deforested pre-1990 forest land.
+(3) If the EPA is satisfied that the offsetting forest land has become forest land by the time that the pre-1990 forest land is deforested, the EPA must, on a register kept for the purposes of this section, note—
+  (a) that the offsetting forest land is pre-1990 offsetting forest land; and
+  (b) any conditions placed on that forest land under section 186C or 186F; and
+  (c) the emissions for the relevant pre-1990 forest land.
+(4) The EPA must, upon written request by the person who owns or owned (or who is a prospective transferee of) the relevant pre-1990 offsetting forest land or the relevant pre-1990 forest land, provide a statement containing the information specified in subsection (3) to the person or prospective transferee (as the case may be).
+
+### 186E Deforesting pre-1990 offsetting forest land before usual rotation period of forest species on pre-1990 forest land
+(1) If the owner of pre-1990 offsetting forest land carries out an activity in Part 1A of Schedule 3 before the usual rotation period for forest species on the relevant pre-1990 forest land is completed, the owner must surrender units equivalent to the emissions for the relevant pre-1990 forest land.
+(2) If subsection (1) applies, the EPA must remove the pre-1990 offsetting forest land from the register specified in section 186D(3).
+
+### 186F Regulations relating to offsetting
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing the usual rotation period for a forest species:
+  (b) prescribing any conditions that land that is subject to an offsetting forest land application must meet—
+    (i) before the EPA may approve the application; and
+    (ii) after the EPA has approved the application:
+  (c) prescribing the methodology for determining and calculating carbon equivalence:
+  (d) providing for any other matters contemplated by sections 186B and 186C, necessary for their administration, or necessary for giving them full effect.
+
+### 186G EPA may revoke approval in certain circumstances
+(1) The EPA may, in relation to a person specified in section 186A(2) or (3), revoke any approval it has given under section 186B if—
+  (a) the person fails to comply with section 186C; and
+  (b) the EPA has not noted on the register specified in section 186D(3) that the offsetting forest land is pre-1990 offsetting forest land.
+(2) If the EPA revokes an approval, the provisions of this Act, other than section 179A(1)(b), apply to the relevant pre-1990 forest land as if the relevant offsetting forest application had not been made.
+
+### 186H Treatment of allocations in respect of pre-1990 forest land that is offset
+(1) This section applies to any owner of pre-1990 forest land—
+  (a) that was the subject of an offsetting forest land application approved under section 186B; and
+  (b) to which an allocation was made under an allocation plan (before or after the commencement of this section).
+(2) If this section applies, the owner of the pre-1990 forest land must, within 30 working days of the date of notice given by the EPA,—
+  (a) open a holding account under section 18A that has been approved by the Registrar if the owner does not have one; and
+  (b) surrender or repay New Zealand units equivalent to the portion of New Zealand units that are allocated, as part of the second tranche, to the pre-1990 forest land that is offset by transferring them to a Crown holding account (whether or not the allocation was actually transferred when allocated).
+(3) The notice referred to in subsection (2) must specify—
+  (a) the number of New Zealand units that must be repaid; and
+  (b) the Crown holding account to which the units must be transferred.
+(4) If the owner of the pre-1990 forest land complies with subsection (2), but approval is revoked under section 186G or treated as revoked under section 186D(2)(a), the EPA must, in accordance with section 124, reimburse the owner for any New Zealand units that the owner has surrendered or repaid under subsection (2).
+(5) The EPA must, upon written request by a person who owns or owned (or is a prospective transferee of) pre-1990 forest land, provide a statement to the person or prospective transferee (as the case may be) about an allocation (if any) made under an allocation plan.
+(6) For the purposes of subsection (2), second tranche, in relation to an allocation, means the New Zealand units that are allocated under section 72(3)(a)(ii), (b)(ii), or (c)(ii) to a person under an allocation plan in respect of the pre-1990 forest land on or after 1 January 2013.
+
+### 186I Participant in respect of pre-1990 offsetting forest land
+If an activity listed in Part 1A of Schedule 3 is carried out, the landowner of the pre-1990 offsetting forest land is to be treated as the person carrying out the activity.
+
+### 186J Methodology for pre-1990 offsetting forest land cleared after usual rotation period is completed
+(1) Subsection (2) applies where the trees cleared from pre-1990 offsetting forest land by a person carrying out the activity in Part 1A of Schedule 3 after the usual rotation period is completed are 8 years or younger.
+(2) If this subsection applies, the participant must,—
+  (a) for the purposes of sections 62(b) and 65(2)(b), apply any prescribed methodology and calculate and record the emissions from the activity as if the trees cleared from the pre-1990 offsetting forest land were trees of the age and species of the oldest trees of the predominant species (as determined by regulations made under section 163 or 186F) cleared from the pre-1990 offsetting forest land during the previous 9 years (excluding any period in which the pre-1990 forest land is temporarily unstocked); and
+  (b) surrender units under this Act based on emissions calculated and recorded in accordance with paragraph (a).
+(3) A methodology for calculating emissions from the activity in Part 1A of Schedule 3 prescribed in regulations under section 163 or 186F must relate to the trees that are cleared from the pre-1990 offsetting forest land as part of the deforestation activity.
 
 **Post-1989 forest land**
 
@@ -3312,6 +3643,11 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (b) if the post-1989 forest land is subject to a pest management plan under the Biosecurity Act 1993 that imposes requirements in respect of any forest species on the land, the person—
     (i) has complied with the requirements; or
     (ii) verified that any other person required to comply with the requirements has done so.
+(5) A person may not be registered as a participant under section 57 in respect of carrying out an activity listed in Part 1 of Schedule 4 in relation to post-1989 forest land where the forest species on the land is predominantly naturally regenerated tree weeds unless the EPA is satisfied that the risk of tree weed spread from the land that is the subject of the application for registration is low.
+(6) Subsection (5) does not apply to any person who has registered as a participant before the commencement of this section.
+
+### 187A EPA to give public notice of criteria for assessing risk of tree weed spread
+The EPA must give public notice of the criteria for assessing the risk of tree weed spread from land that is the subject of an application for registration under section 57.
 
 ### 188 Registration as participant in respect of post-1989 forest land
 (1) An application under section 57 to be registered as a participant in respect of an activity listed in Part 1 of Schedule 4—
@@ -3330,7 +3666,9 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (a) may apply to the EPA to—
     (i) add or remove any carbon accounting area or areas to or from the post-1989 forest land in respect of which the person is recorded as a participant; or
     (ii) remove post-1989 forest land from any carbon accounting area or areas in respect of which the person is recorded as a participant; and
-  (b) must, as soon as practicable, notify the EPA if the person ceases to carry out the activity in respect of a carbon accounting area or any land in a carbon accounting area in respect of which the person is recorded as a participant.
+  (b) must, as soon as practicable, notify the EPA if—
+    (i) the person ceases to carry out the activity in respect of a carbon accounting area or any land in a carbon accounting area in respect of which the person is recorded as a participant; or
+    (ii) the post-1989 forest land in respect of which the person carries out the activity, or any part of the land in which the person carries out the activity, is affected by a natural event that permanently prevents re-establishing a forest on that land.
 (4) An application or a notice under subsection (3) must be—
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fee and any prescribed information.
@@ -3361,12 +3699,18 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
       (A) if a carbon accounting area is removed or the person has ceased to carry out the activity in respect of all of the carbon accounting area, the removal of the carbon accounting area from the post-1989 forest land in respect of which the person is recorded as a participant; or
       (B) if land has been removed from a carbon accounting area or the person has ceased to carry out the activity in respect of part of a carbon accounting area, a new carbon accounting area constituted from the remaining land and the unit balance of the new carbon accounting area determined in accordance with section 190(3)(b); and
     (iii) notify the participant accordingly.
+(7A) If the EPA is notified under subsection (3)(b)(ii), the EPA must, if satisfied that the post-1989 forest land is affected by a natural event that permanently prevents re-establishing a forest on that land, comply with the requirements specified in subsection (7)(b)(i) to (iii).
 (8) A change made to the participant's record under subsection (6)(b)(ii) or (7)(b)(ii) has effect on and after the date of the relevant notice given under subsection (6)(b)(iii) or (7)(b)(iii), as the case may be.
 (9) Subsection (10) applies if a person terminates a forest sink covenant registered under section 67ZD of the Forests Act 1949 and then registers as a participant in respect of the post-1989 forest land that was covered by the covenant.
 (10) If this subsection applies,—
   (a) despite section 57(8), the person registering as a participant is to be treated as being a participant in respect of the land formerly the subject of the covenant on and after the date the covenant was registered on the land under section 67ZD of the Forests Act 1949; and
   (b) for the purposes of sections 189 to 194, any units transferred by or to the Crown in respect of the post-1989 forest land while it was the subject of the forest sink covenant must be treated as New Zealand units transferred for removals or surrendered for emissions from the land under this Act; and
   (c) the post-1989 forest land formerly the subject of the covenant constitutes a single carbon accounting area in respect of which the person is registered as a participant for the purposes of subsection (2).
+
+### 188A Person ceases to be participant in respect of post-1989 forest land if natural event permanently prevents re-establishing forest on that land
+If post-1989 forest land is affected by a natural event that permanently prevents re-establishing a forest on that land,—
+  (a) a person registered as a participant in respect of an activity listed in Part 1 of Schedule 4 ceases to be a participant in respect of the affected carbon accounting area or affected land in that carbon accounting area; and
+  (b) the person is to be treated as having ceased to carry out the activity listed in Part 1 of Schedule 4 when given notice by the EPA under section 188(7)(b)(iii).
 
 ### 189 Emissions returns for post-1989 forest land activities
 (1) This section applies to a person who is a participant in respect of an activity listed in Part 1 of Schedule 4.
@@ -3377,10 +3721,10 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (d) may submit an emissions return in accordance with subsection (4A), if—
     (i) the person is considering entering into a transaction described in section 192(1)(a) or (b); or
     (ii) the expiry of an interest referred to in section 192(1)(c) is imminent; or
-    (iii) within 20 working days after applying under section 188(3)(a)(i) to remove a carbon accounting area from the land in respect of which the person is recorded as carrying out an activity listed in Part 1 of Schedule 4 or being removed from the register as a participant in respect of all the land in respect of an activity listed in Part 1 of Schedule 4, the person applies to—
+    (iii) within 20 working days of applying under section 188(3)(a)(i) to remove a carbon accounting area from the land in respect of which the person is recorded as carrying out an activity listed in Part 1 of Schedule 4 or being removed from the register as a participant in respect of all the land in respect of an activity listed in Part 1 of Schedule 4, the person applies to—
       (A) add a carbon accounting area or areas consisting of all the post-1989 forest land that was the subject of the application under section 188(3)(a)(i); or
       (B) register as a participant under section 57 in relation to all the post-1989 forest land in respect of which the person had ceased to be registered as a participant.
-(3) A person to whom this section applies may, on 1 occasion, on or before 31 March in any year, submit an emissions return that—
+(3) A person to whom this section applies may, on 1 occasion, on or before 30 June in any year, submit an emissions return that—
   (a) relates to the preceding year or years; and
   (b) is in respect of any or all of the carbon accounting areas in respect of which the person is recorded as a participant; and
   (c) for each carbon accounting area covered by the return, is in respect of the period—
@@ -3390,7 +3734,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
       (BA) the date of constitution of the carbon accounting area (as specified in section 190(5)), if the carbon accounting area was constituted following removal of land from a carbon accounting area under section 188(7)(b)(ii)(B) or transmission of an interest under section 192(3)(b); or
       (C) the day after the end of the period covered by the last emissions return submitted for the carbon accounting area; and
     (ii) ending on 31 December in the last year to which it relates.
-(4) A person to whom this section applies must, if registered as a participant on the last day of any mandatory emissions return period, within 3 months of the end of that period, submit an emissions return that—
+(4) A person to whom this section applies must, if registered as a participant on the last day of any mandatory emissions return period, within 6 months of the end of that period, submit an emissions return that—
   (a) is in respect of each of the carbon accounting areas in respect of which the person was recorded as a participant on the last day of the mandatory emissions return period; and
   (b) for each carbon accounting area covered by the return, is in respect of the period—
     (i) commencing on the later of—
@@ -3440,6 +3784,9 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
     (ii) repay units, repay those units, by transferring the number of units required to be transferred, within 60 working days of submitting the emissions return, to a Crown holding account designated by the EPA, and the provisions of sections 134 and 135 apply, with any necessary modifications, as if—
       (A) the units the person is required to repay were units transferred to the person in error; and
       (B) the requirement to repay the units arose under section 125.
+(8A) Despite subsection (8)(d), a person who submits an emissions return under this section that shows a liability or a net liability is under no obligation to surrender units if—
+  (a) the emissions return is in respect of post-1989 forest land; and
+  (b) that land is affected by a natural event that permanently prevents re-establishing a forest on that land.
 (9) In this section,—
   - **mandatory emissions return period** means any of the following periods:
   (a) the first commitment period:
@@ -3513,7 +3860,9 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
   (a) if positive, the number of units the person must surrender in respect of the land being removed from the carbon accounting area or upon which the person has ceased to carry out the activity (as adjusted by any units required to be surrendered for emissions, or units to which the person is entitled for removals, from the land remaining in the carbon accounting area); or
   (b) if negative, the number of units to which the person is entitled in respect of removals from the land remaining in the carbon accounting area (as adjusted by any units required to be surrendered for the land being removed from the carbon accounting area or in respect of which the person has ceased to carry out the activity)
 (5) If a person submits an emissions return under subsection (3), section 189(7) applies to the person as if the references in that provision to subsection (4) were references to this section.
-(6) Section 189(8) applies to a person who submits an emissions return under this section with any necessary modifications.
+(6) Section 189(8) applies, with any necessary modifications, to a person who—
+  (a) submits an emissions return under this section; or
+  (b) submits an emissions return in respect of post-1989 forest land that is affected by a natural event that permanently prevents re-establishing a forest on that land because subsection (1)(a)(ii) or (iii) applies.
 (7) An emissions return submitted under this section must be—
   (a) submitted in the prescribed manner and format; and
   (b) accompanied by any prescribed fee and any other prescribed information.
@@ -3599,7 +3948,7 @@ The status of pre-1990 forest land as exempt land runs with the land and is not 
 **Post-1989 forest land and pre-1990 forest land**
 
 ### 195 Notification of status of forest land
-(1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is pre-1990 forest land, post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the EPA has declared to be exempt land:
+(1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is pre-1990 forest land, pre-1990 offsetting forest land, or post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the EPA has declared to be exempt land:
   (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
   (b) the Registrar-General of Land in relation to land registered or provisionally registered under the Land Transfer Act 1952; and
   (c) the Registrar of Deeds in relation to land that is registered under the Deeds Registration Act 1908.
@@ -3684,7 +4033,7 @@ A participant in respect of an activity listed in Part 2 of Schedule 3 is not re
   (a) mining coal where the volume of coal mined exceeds 2 000 tonnes in a year:
   (b) mining natural gas, other than for export.
 (2) If this section applies and—
-  (a) a permit is required under any Act to carry out the mining, then the person who holds the permit is to be treated as the person carrying out the activity; or
+  (a) a permit is required under the Crown Minerals Act 1991 to carry out the mining, then the person who holds the permit is to be treated as the person carrying out the activity; or
   (b) no permit is required to carry out the mining, then the owner of the mine is to be treated as the person carrying out the activity.
 (3) Despite subsection (2)(a), subsection (4) applies if—
   (a) a permit relating to mining coal is held by 2 or more persons jointly under terms that entitle the individual holders to a proportion of the coal mined under the permit; or
@@ -3741,8 +4090,8 @@ A participant who carries out the activity of mining coal, where the volume of c
 
 ### 210 Historical information sufficient to satisfy EPA
 (1) A person who carries out an activity listed in Part 4 of Schedule 4 may, in an application to register as a participant in respect of that activity submitted under section 57, include with the application information about the total volume of coal or natural gas, as the case may be, purchased by the person in the year prior to the year in which the person submits the application (and any other prior years the person wishes).
-(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy himself or herself that the person is (or will, when the person’s registration takes effect, be) carrying out an activity listed in Part 4 of Schedule 4 that is specified in the application on the basis of that information.
-(3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 4 of Schedule 4 that is specified in the application.
+(2) If the EPA receives an application under section 57 that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy itself that the person is (or will, when the person’s registration takes effect, be) carrying out an activity listed in Part 4 of Schedule 4 that is specified in the application on the basis of that information.
+(3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy itself that the person is, or will be when the person’s registration takes effect, carrying out the activity listed in Part 4 of Schedule 4 that is specified in the application.
 
 ### 211 Effect of purchasing less than threshold level of coal or natural gas
 If a person is a participant in respect of an activity listed in Part 4 of Schedule 4, and in any year the volume of coal or natural gas that the person purchases is less than, or the person knows that the volume purchased will be less than, the thresholds specified in Part 4 of Schedule 4,—
@@ -3782,7 +4131,9 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
   (a) Part 1 of Schedule 3 that relates to the period 1 January 2008 to 31 December 2009; or
   (b) Part 2, Part 3, or subpart 1 of Part 4 of Schedule 3 or Part 3 or 4 of Schedule 4 that relates to the period 1 January 2010 to 31 December 2010; or
   (c) subpart 2 of Part 4 or Part 6 of Schedule 3 that relates to the period 1 January 2013 to 31 December 2013; or
-  (d) subpart 1 or 3 of Part 5 of Schedule 3 that relates to the period 1 January 2015 to 31 December 2015; or
+  (d) subpart 1 or 3 of Part 5 of Schedule 3 that relates to the period—
+    (i) beginning on the date that surrender obligations for agriculture start; and
+    (ii) ending on the close of 31 December of the year in which surrender obligations for agriculture started; or
   (e) subpart 2 or 4 of Part 5 of Schedule 3 that relates to the first year in respect of which the participant is required to surrender units for emissions from the activity.
 (2) Despite anything in this Act,—
   (a) a participant to whom subsection (1)(a) applies is not liable under section 129(1)(a) for a failure to comply with section 62 in relation to the period before—
@@ -3790,8 +4141,8 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
     (ii) any regulations setting out the data or other prescribed information to be collected in relation to an activity listed in Part 1 of Schedule 3 come into force:
   (b) if the emissions return of a participant to whom subsection (1) applies is amended by the EPA under section 120, the participant—
     (i) is liable to surrender any units or additional units required to be surrendered under section 123(3); but
-    (ii) is not liable to pay an excess emissions penalty under section 134(2)(b)(ii) in relation to those units:
-  (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134 or 136.
+    (ii) is not liable to pay an excess emissions penalty under section 134(2)(b)(ii) or 134A(2)(b) in relation to those units:
+  (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134, 134A, or 136.
 
 ### 218 Transitional provision for voluntary reporting
 (1) This section applies to—
@@ -3817,7 +4168,9 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
 (1) This section applies to—
   (a) a person who carries out an activity listed in—
     (i) Part 2, Part 3, or subpart 1 of Part 4 of Schedule 3 in the period 1 January 2010 to 30 June 2010:
-    (ii) subpart 1 or 3 of Part 5 of Schedule 3 in the period 1 January 2012 to 31 December 2014:
+    (ii) subpart 1 or 3 of Part 5 of Schedule 3 in the period—
+      (A) beginning on 1 January 2012; and
+      (B) ending on the date that surrender obligations for agriculture start:
     (iii) subpart 2 of Part 4 of Schedule 3 or Part 6 of Schedule 3 in the period 1 January 2012 to 31 December 2012:
     (iv) subpart 2 or 4 of Part 5 of Schedule 3 in the year following the year commencing on a date appointed by Order in Council made under section 2A(8) or (9) (to the extent the order applies to persons carrying out an activity listed in those subparts) on and after which the relevant subpart applies to the person; or
   (b) a person who is a participant in relation to an activity listed in Part 3 or 4 of Schedule 4 in the period 1 January 2010 to 30 June 2010.
@@ -3853,92 +4206,25 @@ Section 30H(1) and (3) do not apply to any regulations that—
   (b) replace the Climate Change (Unit Register) Regulations 2007.
 
 ### 222A Transitional provision for liability to surrender units to cover emissions from activities relating to liquid fossil fuels, stationary energy, and industrial processes
-(1) This section applies to a person who—
-  (a) carries out an activity listed in Part 2, Part 3, or subpart 1 of Part 4 of Schedule 3 in the period 1 July 2010 to 31 December 2012; or
-  (b) is a participant in relation to an activity listed in Part 3 or 4 of Schedule 4 in the period 1 July 2010 to 31 December 2012.
-(2) Despite anything in this Act, a person to whom this section applies is only liable to surrender, and may only surrender, 1 unit for each 2 whole tonnes of emissions from the activity in respect of the period referred to in subsection (1).
+[Repealed]
 
 ### 222B Transitional provision for entitlement to receive New Zealand units for removal activities
-(1) This section applies to a person who is—
-  (a) a participant in respect of an activity listed in Part 2 of Schedule 4 in the period 1 July 2010 to 31 December 2012; and
-  (b) entitled to receive units under section 64 in respect of that period.
-(2) Despite section 64, a participant to whom this section applies is entitled to receive only 1 New Zealand unit for each 2 whole tonnes of removals from the activity in respect of the period referred to in subsection (1).
+[Repealed]
 
 ### 222C Transitional provision permitting payment of money instead of surrender of units to cover emissions
-(1) This section applies if—
-  (a) a person is required to surrender or repay units—
-    (i) under section 65(4), 118(5), 189(8), or 193 for emissions from an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4 in respect of any part of the period 1 January 2008 to 31 December 2012; or
-    (ii) under section 65(4) or 118(5) for emissions from any other activity in respect of any part of the period 1 July 2010 to 31 December 2012; or
-    (iii) under section 187 or 191 during the period 1 January 2008 to 31 January 2013; or
-  (b) the EPA is required under section 123(4) or 189(7)(d) to arrange for the reimbursement of units because a person has surrendered too many units—
-    (i) for emissions from an activity listed in Part 1 of Schedule 3 or Part 1 of Schedule 4 in respect of any part of the period 1 January 2008 to 31 December 2012; or
-    (ii) for emissions from any other activity in respect of any part of the period 1 July 2010 to 31 December 2012; or
-    (iii) under section 187 or 191 during the period 1 January 2008 to 31 January 2013.
-(2) Despite anything in this Act, if this section applies, a person may satisfy the person's obligation to surrender, repay, or reimburse units by,—
-  (a) in the case of a person other than the EPA,—
-    (i) surrendering or repaying the units in accordance with section 65(4), 118(5), 187, 189(8), 191, or 193 as applicable; or
-    (ii) paying a sum of $25 for each unit that the person is liable to surrender or repay, into a Crown bank account, by the date or within the period by which the units are required to be surrendered or repaid; or
-    (iii) a combination of—
-      (A) surrendering or repaying units in accordance with section 65(4), 118(5), 187, 189(8), 191, or 193 as applicable; and
-      (B) paying a sum of $25 for each unit that the person is liable to surrender or repay, but has not surrendered or repaid or will not surrender or repay in accordance with subsubparagraph (A), into a Crown bank account by the date or within the period by which the units are required to be surrendered or repaid; or
-  (b) in the case of the EPA,—
-    (i) reimbursing a person with units in accordance with the procedure specified in section 124; or
-    (ii) paying a sum of $25 for each unit into a bank account designated by the person; or
-    (iii) a combination of—
-      (A) reimbursing a person with units in accordance with the procedure specified in section 124; and
-      (B) paying the sum of $25 for each unit not so reimbursed into a bank account designated by the person.
-(3) For the purposes of subsection (2)(a)(ii) and (iii)(B), a person's obligation to surrender units or repay units is only satisfied when the funds paid into a Crown bank account are cleared.
-(4) For the purposes of subsection (3) and section 222D(1), funds paid into a Crown bank account are to be treated as cleared when it is no longer possible to reverse the payment and the funds are available for use by the Crown.
+[Repealed]
 
 ### 222D Issuing New Zealand units to meet surrender obligation
-(1) If, in accordance with section 222C(2)(a)(ii) or (iii)(B), a person pays a sum of $25 instead of surrendering a unit that the person is liable to surrender, the Registrar must, when the funds are cleared,—
-  (a) issue a number of New Zealand units into a Crown holding account equal to the number of units in respect of which the person has paid a sum of $25; and
-  (b) transfer the New Zealand units into the person’s holding account held for the purpose of section 61(1); and
-  (c) immediately following the transfer under paragraph (b), transfer the New Zealand units to a surrender account designated by the EPA.
-(2) The Registrar may, for the purposes of subsection (1)(a), issue a number of New Zealand units equal to the number of units in respect of which 1 or more persons have paid a sum of $25 under section 222C(2)(a)(ii) or (iii)(B).
-(3) If the EPA is required to reimburse a person units under section 123(4) or 189(7)(d) and has satisfied his or her obligation to do so by paying to the person a sum of $25 for the units in accordance with section 222C(2)(b)(ii) or (iii)(B), then the Registrar must—
-  (a) transfer from the appropriate surrender account to the person’s holding account held for the purpose of section 61(1) a number of New Zealand units equal to the number of units for which the EPA paid the person a sum of $25; and
-  (b) immediately following the transfer under paragraph (a), transfer the New Zealand units from the person's holding account to a cancellation account.
-(4) For the avoidance of doubt, section 68 does not apply in respect of any New Zealand units issued under this section.
-(5) If subsection (1) applies, this Act applies with any necessary modification as if the payment of $25 for a unit by a person and the transfer of a unit to a surrender account by the Registrar under this section were a surrender of a unit by the person.
-(6) Despite anything in section 18CA(4), a New Zealand unit that is transferred to a surrender account under subsection (1)(c) may be further transferred in accordance with subsection (3)(a).
+[Repealed]
 
 ### 222E Transitional provisions relating to reporting
-(1) In the period beginning on the date this section comes into force and ending with the close of 31 January 2014, the information that can be obtained by a search of the unit register in accordance with section 27(2)(c) must include—
-  (a) the total quantity of New Zealand units issued during the relevant year; and
-  (b) the total quantity of New Zealand units issued under section 68 in that year; and
-  (c) the total quantity of New Zealand units issued under section 222D in that year.
-(2) In the period from the date this section comes into force until 30 June 2013, the EPA must publish, in accordance with section 89(2),—
-  (a) the total sum of money paid to a Crown bank account in accordance with section 222C(2)(a)(ii) or (iii)(B); and
-  (b) the total sum of money paid by the EPA in accordance with section 222C(2)(b)(ii) or (iii)(B).
+[Repealed]
 
 ### 222F Transitional provision for allocation to industry
-(1) Despite anything in this Act,—
-  (a) a person who carries out an eligible industrial activity in the period 1 July 2010 to 31 December 2010 may apply for a provisional allocation or a final allocation in respect of that period under section 86 if—
-    (i) the regulation prescribing the eligible industrial activity is notified in the Gazette before 31 December 2012; and
-    (ii) an application for—
-      (A) a provisional allocation in respect of the period is made in the period commencing on the date the regulation comes into force and ends on a date that is 3 months later than the date on which the regulation comes into force; or
-      (B) a final allocation in respect of the period is made by the date that is the later of the final date for such an application under section 86 or the date that is 3 months later than the date on which the regulation comes into force; and
-  (b) sections 81 and 83 apply to a person's application for a provisional allocation or a final allocation (as relevant) in respect of the period from 1 July 2010 to 31 December 2010—
-    (i) as if the variable PDCT in section 81 was the amount of each prescribed product from the eligible industrial activity produced by the person in the period 1 January 2009 to 31 December 2009, as determined in accordance with regulations (if any) made under this Act, and divided by 4; and
-    (ii) as if the variable PDCT in section 83 was the amount of each prescribed product from the eligible industrial activity produced by the person in the period 1 July 2010 to 31 December 2010, as determined in accordance with regulations (if any) made under this Act, and divided by 2; and
-    (iii) with any other necessary modifications as if the period 1 July 2010 to 31 December 2010 was the year in respect of which the application for a provisional allocation or a final allocation (as relevant) is made; and
-  (c) an eligible person who carries out an eligible industrial activity in 2011 or 2012 is entitled to be allocated or provisionally allocated, in respect of any application made under section 86 in relation to those years, only 50% of the person's allocation entitlement calculated under sections 81 to 84.
-(2) Despite anything in this Act, a person who carries out an eligible industrial activity in the period 1 January 2011 to 31 December 2011 or 1 January 2012 to 31 December 2012 may apply for a provisional allocation or a final allocation under section 86 in respect of the period if—
-  (a) the regulation prescribing an eligible industrial activity is notified in the Gazette before 31 December 2012; and
-  (b) an application for a provisional allocation or a final allocation in respect of the period is made by the date that is the later of—
-    (i) the final date for such an application under section 86; or
-    (ii) the date that is 3 months after the date on which the regulation comes into force.
+[Repealed]
 
 ### 222G Transitional provision regarding prohibition on ability to export New Zealand units
-(1) Despite anything in this Act, during the period 1 July 2010 to 31 May 2013,—
-  (a) an account holder may not apply to the Registrar under section 30E(1)(a) to convert a New Zealand unit held by that person into a designated assigned amount unit for the purposes of transferring that assigned amount unit to an account in an overseas registry; and
-  (b) the Registrar must not transfer to an account in an overseas registry under section 18C—
-    (i) New Zealand units; or
-    (ii) designated assigned amount units that have been converted from New Zealand units under section 30E(3) before the commencement of this section.
-(2) This section does not apply to New Zealand units—
-  (a) transferred for removals from an activity listed in Part 1 of Schedule 4; or
-  (b) transferred in accordance with a determination of the Minister under section 77 or 78 relating to an allocation under the pre-1990 forest land allocation plan.
+[Repealed]
 
 ### 222H Transitional provision for unincorporated bodies
 (1) This section applies to 3 or more joint owners of land, leaseholders, forestry right holders, or parties to a Crown conservation contract who registered together as a participant (joint participants) in accordance with section 157 before the commencement of this section.
@@ -3959,7 +4245,7 @@ Section 30H(1) and (3) do not apply to any regulations that—
   (a) until the EPA updates any records in relation to any joint participants, the joint participants together remain registered as a participant, and are jointly and severally liable for all obligations, and jointly and severally entitled to all benefits, arising from their status as a participant; and
   (b) the joint participants whose names have been removed from a register and the unincorporated body whose name has been substituted on that register are to be treated for the purposes of this Act as the same participant.
 
-## Part 6 — Other matters
+## Part 6 — Targets
 
 ### 223 Establishment of Household Fund
 [Repealed]
@@ -3971,7 +4257,7 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (3) As soon as practicable after setting, amending, or revoking a target under this section, the Minister must—
   (a) publicly notify the target or revocation of the target in the Gazette; and
   (b) make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive.
-(4) To avoid doubt, the Gazette notice in subsection (1) may not be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publications Act 1989.
+(4) To avoid doubt, the Gazette notice in subsection (3)(a) may not be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publications Act 1989.
 (5) To avoid doubt, any number of targets may be set using the process under this section.
 
 ### 225 Regulations relating to targets
@@ -3983,6 +4269,437 @@ Section 30H(1) and (3) do not apply to any regulations that—
     (i) any Intergovernmental Panel on Climate Change Assessment Report or report of a successor agency:
     (ii) any other matters the Minister considers relevant.
 (4) To avoid doubt, any number of targets may be set using the process under this section.
+
+## Part 7 — Synthetic greenhouse gas levy
+
+### 226 Overview of functions and responsibilities of EPA and agencies under this Part, Customs and Excise Act 1996, and Land Transport Act 1998
+(1) This section is a guide to the functions and responsibilities of the EPA and the agencies in relation to the synthetic greenhouse gas levy, but it does not affect the interpretation or the application of the provisions of this Part, the Customs and Excise Act 1996, or the Land Transport Act 1998.
+(2) Under this Part,—
+  (a) the functions of the EPA are to—
+    (i) receive and collate information from the agencies under section 241; and
+    (ii) publish information in accordance with section 250; and
+    (iii) monitor compliance with subpart 1; and
+  (b) the function of the Registrar of Motor Vehicles is to receive payment of the motor vehicle levy under section 228; and
+  (c) the function of the New Zealand Customs Service is to receive payment of the goods levy under section 229; and
+  (d) it is a function of the EPA and the agencies to recover unpaid levies under section 230.
+(3) Under the Customs and Excise Act 1996, the function of the New Zealand Customs Service is to assess and collect the goods levy and, for this purpose,—
+  (a) assess and collect the levy on goods as if the levy were a duty; and
+  (b) recover unpaid levies as if they were unpaid duties.
+(4) Under the Land Transport Act 1998, the function of the Registrar of Motor Vehicles is to assess and collect the motor vehicle levy.
+
+### Subpart 1 — Synthetic greenhouse gas levy
+
+**Levy imposed**
+
+### 227 Synthetic greenhouse gas levy imposed
+(1) A levy is imposed on—
+  (a) a leviable motor vehicle that is registered on or after 1 July 2013, but is not imposed on a motor vehicle that was registered before 1 July 2013 and registered again on or after 1 July 2013; and
+  (b) an item of leviable goods that is imported into New Zealand on or after 1 July 2013.
+(2) However, if a leviable motor vehicle is registered more than once on or after 1 July 2013, it is liable for the levy only once.
+
+### 228 Person who registers leviable motor vehicle responsible for paying levy
+(1) The person who registers a leviable motor vehicle on or after 1 July 2013 is responsible for paying the levy.
+(2) The levy (including any goods and services tax payable on it) must be paid to the Registrar of Motor Vehicles at the same time as the person pays for the registration of the vehicle.
+
+### 229 Importer of leviable goods must pay levy
+(1) A person who imports leviable goods on or after 1 July 2013 must pay the levy at the prescribed rate for the goods.
+(2) The person must pay the levy (including any goods and services tax payable on it) to the New Zealand Customs Service at the same time as duty under the Tariff Act 1988 or excise-equivalent duty would be paid on the goods if any were payable.
+
+### 230 Levies are debt due to the Crown
+(1) A levy that becomes payable is a debt due to the Crown.
+(2) The EPA may, on behalf of the Crown, recover the debt in a court of competent jurisdiction.
+(3) This section does not limit—
+  (a) the power of the Customs to recover an unpaid amount of goods levy as a debt under the Customs and Excise Act 1996; or
+  (b) the power of the Registrar of Motor Vehicles to recover an unpaid amount of motor vehicle levy as a debt under the Land Transport Act 1998.
+
+### 231 Penalties for failure to pay levy
+(1) If an importer fails to pay the levy by the date on which section 229 requires payment (the due date), the debt is increased by adding a penalty.
+(2) The penalty is to be calculated in accordance with section 87 of the Customs and Excise Act 1996 as if—
+  (a) a reference to a duty were a reference to a levy; and
+  (b) a reference to additional duty were a reference to a penalty.
+
+### 232 Application of provisions of Customs and Excise Act 1996
+(1) The provisions of the Customs and Excise Act 1996 that apply to the collection of duties apply, with all necessary modifications, to the collection of the goods levy under this Act as if the levy were a duty to which that Act applies.
+(2) However,—
+  (a) section 103(3) of that Act applies as if the reference to dutiable goods were a reference to leviable goods:
+  (b) section 103(4) and (5) of that Act apply as if they did not refer to the owner of the goods or the licensee of a Customs controlled area.
+(3) Despite subsection (1), the following provisions of the Customs and Excise Act 1996 do not apply to the collection of the levy:
+  (a) section 104:
+  (b) section 108:
+  (c) section 112:
+  (d) section 114:
+  (e) section 117.
+
+**Calculation of levy**
+
+### 233 Rate of synthetic greenhouse gas levy
+(1) The levy rate that applies to a leviable motor vehicle, a class of leviable motor vehicle, or an item or a class of leviable goods in a levy year must be calculated in accordance with the following formula:R = A × B × GWPwhere—A is the amount of synthetic greenhouse gas contained in the class of leviable motor vehicle or leviable goods, or the item of leviable goodsBis the price of carbon specified under subsection (4)(b)GWPis the global warming potential specified in regulations for the specified synthetic greenhouse gasRis the rate of the levy.
+(2) In this section, amount means the weight or any other unit of measurement of a synthetic greenhouse gas prescribed for the purpose of this section in regulations made under section 246(1)(c) or (e).
+(3) For the purpose of item A, the amount of synthetic greenhouse gas contained in a leviable motor vehicle or leviable good is—
+  (a) the amount specified by regulations for that class of leviable motor vehicle or leviable good, or for an item of leviable good; and
+  (b) if no amount is specified by regulations, the actual amount contained in the leviable motor vehicle or leviable good.
+(4) For the purpose of item B, the Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) prescribe the methodology for specifying the price of carbon; and
+  (b) specify the price of carbon by applying the methodology.
+(5) Regulations made under subsection (4)(a)—
+  (a) must be made in accordance with the process set out in section 247; and
+  (b) may not come into force earlier than 3 months after the date of their notification in the Gazette.
+(6) Before making a recommendation under subsection (4), the Minister must take into account the following matters:
+  (a) the price of the units used to calculate revenue from the greenhouse gas emissions trading scheme in the Crown annual financial statements over the preceding 12 months; and
+  (b) the price of New Zealand units sold by auction under section 6A over the preceding 12 months; and
+  (c) any changes to the operation of the greenhouse gas emissions trading scheme that have affected the price of the units surrendered under that scheme, or that may do so before the end of the next levy year.
+
+### 234 Transitional provision for synthetic greenhouse gas levy
+(1) Despite section 233(5), the requirements of that subsection do not apply to regulations made under section 233(4) that apply during the period 1 July 2013 to 31 December 2013 (the transitional period).
+(2) However, the methodology prescribed by regulations made under section 233(4)(a) in the transitional period ceases to apply on and from the end of the transitional period.
+
+### 235 Temporary suspension of levy set by section 233
+(1) This section applies to suspend temporarily the operation of section 233 in relation to the calculation of the levy.
+(2) Despite anything in section 233, the operation of that section is suspended for the period—
+  (a) beginning on the date on which this section comes into force; and
+  (b) ending on the close of the date specified for the purpose of this section as the closure date by the Governor-General by Order in Council made on the recommendation of the Minister.
+(3) Instead, subsection (4) applies to the calculation of the levy rate while the operation of section 233 is suspended.
+(4) The levy rate that applies to a class of leviable motor vehicles or an item or a class of leviable goods in a levy year must be calculated in accordance with the following formula:R = A × B × GWP × 0.5where—
+  (a) items A, B, GWP, and R have the same meanings as in section 233(1); and
+  (b) section 233(4) applies to the calculation of item B.
+(5) Before the Minister may make a recommendation under subsection (2)(b), the Minister must be satisfied that section 63A no longer applies to any person and no person is liable to surrender, or is restricted to surrendering, 1 unit for each 2 whole tonnes of emissions.
+(6) This section is repealed on the day after the closure date specified in an Order in Council made under subsection (2)(b).
+(7) An Order in Council made under subsection (2)(b) may be revoked, replaced, or amended at any time before the closure date specified in that order.
+
+### 236 Maximum price of carbon for purpose of levy calculation
+(1) This section applies to the calculation of item B of the formula set out in section 233(1) or 235(4) (as applicable) for the period—
+  (a) beginning on the date on which this section comes into force; and
+  (b) ending on the close of the date specified for the purpose of this section as the closure date by the Governor-General by Order in Council made on the recommendation of the Minister.
+(2) If, during the period specified in subsection (1), the application of the methodology prescribed under section 233(4)(a) results in a carbon price that is higher than $25, the regulations made under section 233(4)(b) must prescribe a carbon price of $25.
+(3) Before the Minister may make a recommendation under subsection (1)(b), the Minister must be satisfied that a person does not meet his or her obligation to surrender, repay, or reimburse units by paying $25 for each unit in accordance with section 178A.
+(4) This section overrides sections 233 and 235.
+
+### 237 Levy rate exclusive of GST
+A levy rate calculated in accordance with section 233 or 235 is exclusive of goods and services tax.
+
+### 238 Levy rate for period from 1 July 2013 to 31 December 2013
+The levy rate calculated in accordance with section 235(4) applies for the period starting on 1 July 2013 and ending with the close of 31 December 2013.
+
+### 239 Levy rate to apply for single calendar year on and after 1 January 2014
+(1) A levy rate applies for 1 levy year.
+(2) Subsection (1) is subject to section 238.
+(3) If no rate is set before the beginning of a levy year, the levy rate for that year is the same as it was for the preceding levy year.
+(4) However, if a levy rate is set for a levy year after the beginning of the levy year, the new levy rate applies from the beginning of the quarter of the levy year following the date on which the levy rate was set until the close of the levy year.
+(5) For the purposes of this section and section 241,—
+  (a) a levy rate is set on the date on which the regulations prescribing the rate come into force:
+  (b) the quarters of a levy year are—
+    (i) 1 January to 31 March:
+    (ii) 1 April to 30 June:
+    (iii) 1 July to 30 September:
+    (iv) 1 October to 31 December.
+
+**Levies to be paid into Crown Bank Account**
+
+### 240 Agencies to pay levy into Crown Bank Account
+The EPA and the agencies must pay the amount of all levies received under this Part into a Crown Bank Account.
+
+**Information**
+
+### 241 Agencies to provide information to EPA quarterly
+(1) The agencies must, for each quarter of a levy year, keep records of and provide to the EPA all the following information:
+  (a) the amount of levy money received:
+  (b) the number of—
+    (i) leviable motor vehicles registered:
+    (ii) consignments of leviable goods imported:
+  (c) the number of persons who were required to pay the levy by section 228 or 229 (as applicable):
+  (d) the number of persons who failed to pay the levy as required by section 228 or 229 (as applicable):
+  (e) the amount of levy money refunded:
+  (f) the amount of levy money unable to be recovered.
+(2) The information described in subsection (1) must be provided for each class of leviable motor vehicle or and for each class of leviable goods.
+
+### 242 Agencies and EPA to share information
+Section 149(2) applies as if the EPA and the agencies were referred to in section 149(1).
+
+### 243 Circumstances where levy may be refunded
+(1) Subsection (2) applies in relation to a levy paid under section 228 on—
+  (a) a motor vehicle containing a leviable good; or
+  (b) a motor vehicle containing a synthetic greenhouse gas that is, because it is imported after 1 July 2013, subject to the greenhouse gas emissions trading scheme under subpart 2 of Part 4 of Schedule 3.
+(2) The EPA, upon application in an approved manner by the person responsible for the payment required under section 228, must refund the motor vehicle levy paid on the relevant motor vehicle, but only if the person applying for the refund establishes, to the satisfaction of the EPA, that—
+  (a) the motor vehicle levy has been paid in relation to the relevant motor vehicle; and
+  (b) the relevant motor vehicle is one to which subsection (1) applies.
+
+### 244 Exemptions from payment of synthetic greenhouse gas levy
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt any person or class of persons from—
+  (a) paying the whole or part of the levy for certain leviable motor vehicles or leviable goods; or
+  (b) being subject to the whole or part of the levy for certain leviable motor vehicles or leviable goods; or
+  (c) a combination of the matters specified in paragraphs (a) and (b).
+(2) An Order in Council made under subsection (1) may specify any terms and conditions (including, but not limited to, terms and conditions imposing geographical or operational restrictions) that the Governor-General thinks fit.
+(3) Before recommending the making of an order under subsection (1), the Minister must be satisfied that—
+  (a) the order will not materially undermine the environmental integrity of the synthetic greenhouse gas levy; and
+  (b) the costs of making the order do not exceed the benefits of making the order.
+(4) In determining whether to recommend the making of an order under subsection (1), the Minister must have regard to the following matters:
+  (a) the need to maintain the environmental integrity of the synthetic greenhouse gas levy; and
+  (b) the desirability of minimising any compliance and administrative costs associated with the synthetic greenhouse gas levy; and
+  (c) the relative costs of giving the exemption or not giving it, and who bears the costs; and
+  (d) any alternatives that are available for achieving the objectives of the Minister in respect of giving the exemption; and
+  (e) any other matters the Minister considers relevant.
+(5) While an order made under this section is in force, any person or class of persons in respect of whom the order is made is not required to comply with the obligation to pay the levy.
+(6) Before recommending the making or revocation of an order under this section, the Minister must—
+  (a) consult with persons that the Minister considers are likely to be substantially affected by the making of the order; and
+  (b) give those persons the opportunity to make submissions; and
+  (c) consider those submissions.
+
+**Regulations**
+
+### 245 Regulations specifying levy rates
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing the rate of the levy to apply to 1 or more classes of leviable motor vehicles:
+  (b) prescribing the rate of the levy to apply to 1 or more items or classes of leviable goods.
+(2) Regulations made under subsection (1)(a) may specify different rates for different classes of leviable motor vehicles.
+(3) Regulations made under subsection (1)(b) may specify different rates for different classes of leviable goods.
+(4) Regulations made under subsection (1) come into force on a date specified in the regulations that may not be earlier than 3 months after the date of their notification in the Gazette.
+
+### 246 Regulations relating to synthetic greenhouse gas levy
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:Specified synthetic greenhouse gasesLeviable motor vehiclesLeviable goodsGeneral
+  (a) specifying a hydrofluorocarbon or perfluorocarbon as a specified synthetic greenhouse gas for the purposes of the levy:
+  (b) specifying classes of leviable motor vehicles to which the levy may apply (which may be by reference to the amount of synthetic greenhouse gas that they contain):
+  (c) specifying the amount of a specified synthetic greenhouse gas that each class of leviable motor vehicles is to be treated as containing:
+  (d) specifying leviable goods or classes of leviable goods to which the levy may apply (which may be by reference to the amount of synthetic greenhouse gas that they contain):
+  (e) specifying the amount of a specified synthetic greenhouse gas that an item or class of leviable goods is to be treated as containing:
+  (f) specifying accounts and records that must be kept by persons collecting levies, or persons who are or may be liable to pay a levy:
+  (g) specifying the information that persons collecting levies must provide to the EPA and when the information must be provided:
+  (h) prescribing the data or other information that must be collected under section 248(1)(a) in relation to a class of leviable goods or synthetic greenhouse gases, and, if relevant, the mechanism or method by which the data or information must be collected:
+  (i) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
+(2) Before making a recommendation for the making of regulations under subsection (1)(a), the Minister must have regard to New Zealand’s international obligations relating to synthetic greenhouse gases.
+(3) Regulations made under subsection (1)(a) to (e) come into force on a date specified in the regulations that may not be earlier than 3 months after the date of their notification in the Gazette.
+
+### 247 Process for making orders and regulations
+(1) Before making a recommendation for the making of regulations under section 233(4)(a), 246(1)(a) to (e), or 258, the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any regulations made in accordance with the recommendation.
+(2) The process for consultation must include—
+  (a) giving adequate and appropriate notice of the proposed terms of the recommendation, and of the reasons for it; and
+  (b) providing a reasonable opportunity for interested persons to consider the recommendation and make submissions; and
+  (c) giving adequate and appropriate consideration to submissions.
+(3) A failure to comply with this section does not affect the validity of regulations made under section 233(4)(a), 246(1)(a) to (e), or 258.
+
+**Obligations of importers of leviable goods**
+
+### 248 Collecting information and keeping records
+(1) An importer must, in relation to the importation of leviable goods containing a specified synthetic gas,—
+  (a) collect the prescribed data or other prescribed information (which data or information must, if required by regulations, be verified by a person or an organisation recognised by the EPA for the purpose); and
+  (b) keep records of the data or information in the prescribed format (if any); and
+  (c) keep sufficient records to enable the EPA to verify, in relation to any levy year,—
+    (i) the quantity of leviable goods of each class imported; and
+    (ii) the total amount of levy paid on those goods.
+(2) The records specified in subsection (1) must be kept for a period of at least 7 years after the end of the year to which they relate.
+
+### Subpart 2 — Administrative provisions and verification
+
+### 249 Application of section 88 (Directions to EPA)
+Section 88 applies in relation to the EPA's exercise of powers and performance of functions under this Part or any regulations made under this Part as if a reference to Part 5 were a reference to Part 7.
+
+### 250 EPA to publish information relating to levies
+(1) The EPA must publish the following information in relation to leviable goods imported and leviable motor vehicles registered in each reporting year in accordance with subsection (2):
+  (a) for each class of leviable motor vehicle, the total number of persons who registered a vehicle of that class; and
+  (b) for each specified synthetic greenhouse gas used in the air-conditioning system of a leviable motor vehicle, the total number of leviable motor vehicles registered; and
+  (c) for each class of leviable goods, the total number of persons who imported leviable goods of that class; and
+  (d) for each specified synthetic greenhouse gas treated as contained in a class of leviable goods, the total quantity of goods of that class imported; and
+  (e) in respect of each class of leviable motor vehicle, the number of leviable motor vehicles registered; and
+  (f) in respect of each class of leviable goods, the number of consignments imported; and
+  (g) the total quantity of synthetic greenhouse gas treated as contained in the air-conditioning systems of leviable motor vehicles of each class registered; and
+  (h) the total quantity of synthetic greenhouse gas treated as contained in leviable goods of each class imported; and
+  (i) the total amount of levy money collected; and
+  (j) the number of persons who failed to comply with their obligation to pay a levy.
+(2) The EPA—
+  (a) must publish the information specified in subsection (1) as soon as practicable after the end of the reporting year; and
+  (b) may publish the information specified in subsection (1), in whole or in part, at any other time and in whatever manner and format that the EPA considers appropriate.
+(3) The EPA is not required to publish the information required under subsection (1)(b), (d), (g), and (h) in respect of an activity if the EPA is satisfied that publishing the information would result in the disclosure of the amount of synthetic greenhouse gas imported by an identifiable person or in motor vehicles registered by an identifiable person, unless—
+  (a) the person to whom the information relates has consented to the publication of the information; or
+  (b) the information is already in the public domain.
+(4) In this section, reporting year means a 12-month period starting on 1 July and ending with the close of 30 June.
+
+### 251 Recognition of verifiers
+(1) The EPA may, in accordance with regulations made under section 258, recognise a person or an organisation with the prescribed expertise, technical competence, or qualifications as a person or an organisation that may undertake verification functions for the purposes of section 248(1)(a).
+(2) A person or an organisation may be recognised by the EPA as able to verify information in respect of 1 or more classes of leviable motor vehicles or leviable goods, or 1 or more items of leviable goods.
+(3) The EPA may suspend or revoke any recognition given under this section in accordance with regulations made under section 258.
+
+### 252 Enforcement officers
+The EPA may appoint 1 or more enforcement officers under section 93 to exercise 1 or more of the powers and perform the functions conferred on enforcement officers under Part 4 in relation to this Part.
+
+### 253 Power to require information
+(1) The EPA or an enforcement officer may, by notice, require a person to provide any information that is reasonably necessary for the purposes of ascertaining whether—
+  (a) a person is complying with this Part; or
+  (b) the EPA should exercise any powers under this Part.
+(2) The EPA or an enforcement officer may require the person who is to provide the information to also provide a statutory declaration attesting to the truthfulness of the information provided.
+(3) The information must be provided—
+  (a) in the form specified by the person who requested it; and
+  (b) within any reasonable time specified in the notice; and
+  (c) free of charge.
+
+### 254 Power to inquire
+(1) This section applies for the purpose of obtaining information for a purpose specified in section 253(1), or obtaining any other information required for the purposes of the administration or enforcement of this Part.
+(2) The EPA may, by notice, require a person to—
+  (a) appear before it or an enforcement officer at a time and place specified in the notice to give evidence; and
+  (b) produce a document or class of documents in the person's possession or under the person's control.
+(3) The EPA or an enforcement officer may require the evidence to be given under oath, and either orally or in writing.
+(4) For the purpose of subsection (3), the EPA or an enforcement officer may administer an oath.
+(5) Sections 97 and 98 apply to an inquiry under this section.
+
+### 255 Inquiry before District Court Judge
+(1) The EPA may apply in writing to a District Court Judge to hold an inquiry under this section, if the EPA considers it necessary for the purpose of obtaining information for a purpose specified in section 253(1), or obtaining any other information required for the purposes of the administration or enforcement of this Part.
+(2) Section 96(2) to (4) apply in relation to an inquiry under this section as if there were no reference to the chief executive.
+(3) Section 96(5) applies as if the reference to the chief executive were a reference to the EPA.
+(4) Sections 97 and 98 apply to an inquiry under this section.
+
+### 256 Obligation to maintain confidentiality
+(1) The EPA and every enforcement officer—
+  (a) must keep confidential all information that comes into their knowledge when performing any function or exercising any power under this Part; and
+  (b) may not disclose any information described in paragraph (a), except in the circumstances described in section 99(2)(b).
+(2) However, to avoid doubt, the EPA may,—
+  (a) provide or publish general guidance in relation to the operation of this Part; and
+  (b) with the prior approval of the Minister, prepare statistical information and provide it to any person in a form that does not identify any individual.
+
+### 257 Power of entry for investigation, warrants, etc
+(1) Sections 100 and 102 to 106 apply in relation to this Part as if every reference to Part 5 were a reference to Part 7.
+(2) Section 101 applies as if every reference to section 129, 132, or 133 included a reference to sections 259, 261, and 263.
+
+### 258 Regulations relating to verifiers
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing the data or other information that must be verified by a person or an organisation recognised by the EPA under section 251; and
+  (b) prescribing, for the purposes of section 251,—
+    (i) the process by which a person or an organisation may be recognised as being able to verify information or calculations for the purposes of section 248; and
+    (ii) the expertise, technical competence, or qualifications required for recognition as a person or an organisation able to verify data or information; and
+    (iii) any additional—
+      (A) requirements for recognition of an organisation; and
+      (B) restrictions on the employees of the organisation who may carry out the duties of the organisation in respect of the recognition; and
+    (iv) the period for which a person or an organisation may be recognised, and the process for the renewal of recognition; and
+    (v) conditions of recognition, which may include ongoing competency and professional standard requirements, membership of a professional body, and the provision of reports to the EPA; and
+    (vi) the procedure for, and circumstances in which, recognition may be suspended or revoked; and
+    (vii) fees to enable the recovery of the direct and indirect costs of the EPA in recognising a person or an organisation, which may vary depending on the class of persons or organisations, or the type of verification in respect of which recognition is sought.
+(2) Regulations made under subsection (1) may apply—
+  (a) generally or with respect to different classes of activity, persons, parts of New Zealand, or other specified things; or
+  (b) in respect of the same classes of activity, persons, parts of New Zealand, or other specified things, in different circumstances; or
+  (c) generally or at any specified time of each year.
+(3) Before making a recommendation for the making of regulations under subsection (1)(a), the Minister must have regard to New Zealand’s international obligations in respect of the collection of data and information relating to specified synthetic greenhouse gases.
+
+### Subpart 3 — Offences and penalties
+
+**Offences relating to synthetic greenhouse gas levy**
+
+### 259 Offence in relation to failure to collect data and keep records
+(1) A person who is an importer commits an offence against this Act if the person, without reasonable excuse, fails to comply with section 248(1) (requirement to collect data or other information and keep records).
+(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+  (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
+  (b) the second time the person is convicted of that offence, to a fine not exceeding $16,000:
+  (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000.
+
+### 260 Failure to provide information or documents
+(1) A person commits an offence against this Act if the person, without reasonable excuse,—
+  (a) fails to provide information to the EPA or an enforcement officer when required to do so under section 253; or
+  (b) fails to appear before the EPA or an enforcement officer, or fails to produce any document or documents, when required to do so under section 254.
+(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of an individual, to a fine not exceeding $12,000:
+  (b) in the case of a body corporate, to a fine not exceeding $24,000.
+
+### 261 Other offences
+(1) A person commits an offence against this Act if the person, without reasonable excuse,—
+  (a) refuses to take an oath when required to do so under section 254; or
+  (b) refuses to answer any question when required to do so under section 254; or
+  (c) knowingly fails to comply with section 248(1) (requirement to collect data or other information and keep records); or
+  (d) knowingly provides altered, false, incomplete, or misleading information to the EPA, an enforcement officer, or any other person in respect of any matter in this Part; or
+  (e) wilfully obstructs, hinders, resists, or deceives—
+    (i) the EPA or an enforcement officer exercising a power conferred on that person under this Part; or
+    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the Customs and Excise Act 1996 in relation to the goods levy; or
+    (iii) the Registrar of Motor Vehicles in relation to a power conferred on him or her under the Land Transport Act 1998 in relation to the motor vehicle levy.
+(2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of an individual, to a fine not exceeding $25,000:
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+
+### 262 Offence for breach of confidentiality
+A person who knowingly contravenes section 256 commits an offence and is liable on summary conviction to either or both of—
+  (a) imprisonment for a term not exceeding 6 months:
+  (b) a fine not exceeding $15,000.
+
+### 263 Evasion
+(1) A person commits an offence against this Act if the person, with intent to deceive and for the purpose of either obtaining any material benefit or avoiding any material detriment,—
+  (a) fails to comply with section 248(1) (requirement to collect data or other information and keep records); or
+  (b) fails to provide information to—
+    (i) the EPA, an enforcement officer, or any other person when required to do so under this Part; or
+    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the Customs and Excise Act 1996 in relation to the goods levy; or
+    (iii) the Registrar of Motor Vehicles when required to do so under the Land Transport Act 1998 in relation to the motor vehicle levy; or
+  (c) provides altered, false, incomplete, or misleading information to the Minister or the EPA or any other person in respect of a matter in this Part.
+(2) Every person who is convicted of an offence against subsection (1) is liable on conviction on indictment to either or both of—
+  (a) imprisonment for a term not exceeding 5 years:
+  (b) a fine not exceeding $50,000.
+
+**Offence in relation to release of synthetic greenhouse gases**
+
+### 264 Offence in relation to release of synthetic greenhouse gases
+(1) A person commits an offence against this Act if the person, in the course of undertaking an activity described in subsection (2), knowingly and without lawful justification or excuse releases any hydrofluorocarbon, perfluorocarbon, or sulphur hexafluoride into the atmosphere.
+(2) The activities are installing, operating, servicing, modifying, dismantling, or disposing of any electrical switchgear, refrigeration or air-conditioning equipment, or other heat-transfer medium.
+(3) A person who is convicted of an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of an individual, to a fine not exceeding $25,000:
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
+
+### 265 Defence for release of synthetic greenhouse gas
+The circumstances in which a person described in section 264(1) may have a lawful justification or excuse for releasing any hydrofluorocarbon, perfluorocarbon, or sulphur hexafluoride into the atmosphere include (but are not limited to) circumstances where the release could not reasonably have been avoided.
+
+**Proceedings and liability**
+
+### 266 Limitation period for commencement of proceedings
+Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against—
+  (a) section 260 or 261(1)(a), (b), or (e) may be laid at any time within 2 years from the time when the matter of the information arose:
+  (b) section 259 or 261(1)(c) or (d) may be commenced at any time within 7 years from the time when the matter of the information arose.
+
+### 267 Evidence in proceedings
+(1) In any proceedings for an offence against this Part, a certificate or document (including an electronic copy) of any of the kinds described in subsection (2)—
+  (a) is admissible in evidence; and
+  (b) in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or the document, as the case may require.
+(2) The kinds of certificate or document are—
+  (a) a certificate purporting to be signed by a delegate of the EPA to the effect that, at any specified date or during any specified period, a named person is or was, or is not or was not, an enforcement officer or a person or an organisation recognised under section 251; or
+  (b) a certificate purporting to be signed by any person authorised to delegate to any person, or to persons of any kind or description, the exercise of any power or the performance of any function under this Part, stating that the person has delegated—
+    (i) the exercise of the power or the performance of the function specified in the certificate to the person specified in the certificate; or
+    (ii) the exercise of the power or the performance of the function specified in the certificate to persons of a kind or description specified in the certificate, and that a named person specified in the certificate is a person of that kind or description.
+(3) The production of a certificate or document purporting to be a certificate to which subsection (2) applies is prima facie evidence that it is such a certificate or document, without proof of—
+  (a) the signature of the person purporting to have signed the document; or
+  (b) the document’s nature.
+
+### 268 Liability of body corporate, directors, managers of companies, companies, and persons for actions of directors, agents, and employees
+(1) Sections 139 and 140 apply in relation to proceedings against, or conviction of, a body corporate for an offence under this Part as if a reference to Part 4 were a reference to Part 7.
+(2) Section 141 applies as if a reference to sections 132(1)(c) to (f) or 133 included a reference to section 261(1)(c) or (d) or 263.
+
+### Subpart 4 — Other matters
+
+### 269 Review of operation and effectiveness of levy
+(1) The Minister may, at any time, initiate a review of the operation and effectiveness of the synthetic greenhouse gas levy.
+(2) A review may be undertaken by any method that the Minister considers appropriate.
+(3) Without limiting the Minister's discretion under subsection (1), the Minister may appoint an independent panel—
+  (a) to conduct a review under subsection (1); and
+  (b) to report in accordance with the terms of reference.
+(4) If the Minister appoints a panel, the Minister must—
+  (a) specify in writing the terms of reference for the review; and
+  (b) publish the report of the panel; and
+  (c) present a copy of the report to the House of Representatives.
+(5) If the Minister initiates a review but does not appoint a panel, the Minister must—
+  (a) consult persons (or their representatives) who appear to the Minister likely to have an interest in the review; and
+  (b) consult representatives of iwi and Māori who appear to the Minister to be likely to have an interest in the review; and
+  (c) specify written terms of reference for the review; and
+  (d) establish a procedure that the Minister is satisfied is appropriate, fair in the circumstances, and in accordance with the terms of reference.
+(6) The Minister may, but need not, initiate a review under subsection (1) at the same time as he or she initiates a review under section 160 of the operation and effectiveness of the emissions trading scheme.
+
+### 270 Appointment and conduct of independent panel
+(1) If the Minister appoints an independent panel under section 269, the Minister must—
+  (a) ensure that there is no fewer than 3 but not more than 7 members; and
+  (b) ensure that the majority of the members are not employees under the State Sector Act 1988; and
+  (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of—
+    (i) this Act; and
+    (ii) New Zealand's international obligations under the Protocol and the Convention and any other relevant international agreement; and
+    (iii) the operation of the synthetic greenhouse gas levy; and
+  (d) appoint 1 member as the chairperson of the panel.
+(2) The Minister must, by written notice to the panel, specify the terms of reference for the review to be conducted by the panel.
+(3) A review panel must complete a draft report on the review and provide the report to the Minister by the date set out in the terms of reference.
+(4) The review panel must—
+  (a) allow the Minister at least 10 working days within which to respond to and comment on the contents of the draft report; and
+  (b) after considering the Minister's response and comments (if any), prepare a final report and provide it to the Minister by the date set out in the terms of reference.
+(5) In conducting a review, the review panel—
+  (a) must establish a procedure that is appropriate, fair in the circumstances, and in accordance with the terms of reference of the review; and
+  (b) must consult persons (or their representatives) that appear to the panel likely to have an interest in the review; and
+  (c) may call for submissions.
+(6) If the Minister initiates a review under section 269(1) and a review under section 160, the Minister may appoint 1 independent panel to undertake both reviews.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
