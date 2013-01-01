@@ -1,11 +1,11 @@
 # Climate Change Response (Emissions Trading) Amendment Act 2008
-_Consolidation as at 2011-12-05_
+_Consolidation as at 2013-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response (Emissions Trading) Amendment Act 2008.
 
 ### 2 Commencement
-(1) Sections 165 and 182 of the Climate Change Response Act 2002 (as inserted by section 50 of this Act) come into force on a date to be appointed by the Governor-General by Order in Council on the recommendation of the Minister responsible for the administration of the Climate Change Response Act 2002 made in accordance with section 53 of this Act.
+(1)
 (2) Sections 77 to 80 of this Act come into force on 1 January 2009.
 (3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
@@ -2480,9 +2480,7 @@ The following Parts are inserted after section 53:New Zealand greenhouse gas emi
 The Schedules 3 and 4 set out in the Schedule of this Act are added.
 
 ### 53 Process to apply before offsetting provisions may be commenced
-The Minister responsible for the administration of this Act must—
-  (a) recommend the making of the Order in Council under section 2(1) if satisfied that an international agreement to which New Zealand is a party has the effect of permitting any liability of New Zealand in relation to the deforestation of pre-1990 forest land in a period after 31 December 2012 to be offset by the planting of new forest land; and
-  (b) before making such a recommendation, publicly notify his or her intention to do so by publishing in the Gazette a notice stating that the Minister is proposing to recommend that the Order in Council be made, when the Minister proposes that the Order in Council will come into force, and that the effect of the Order in Council will be to allow offsetting in relation to the deforestation of pre-1990 forest land.
+[Repealed]
 
 **Consequential amendments**
 
