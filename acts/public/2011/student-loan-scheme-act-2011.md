@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2012-04-12_
+_Consolidation as at 2013-01-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -276,6 +276,19 @@ A student loan establishment fee of $60 (or any other amount prescribed by regul
   (b) the form in which that notification must be supplied; and
   (c) the method by which that notification must be supplied.
 (4) Subsection (3)(b) and (c) apply despite section 211.
+
+### 16A Loan manager must notify Commissioner of any details held about borrower’s contact person
+(1) In any case where a borrower has advised the loan manager of the details of the borrower's contact person, the loan manager must notify the Commissioner of the following details, to the extent that they are available:
+  (a) the name of the individual:
+  (b) a postal address for the individual:
+  (c) a telephone number for the individual:
+  (d) an electronic address for the individual:
+  (e) any further information specified in regulations.
+(2) The Commissioner and the loan manager may, for the purpose of this section, determine by written agreement between them—
+  (a) the frequency with which that notification must be supplied; and
+  (b) the form in which that notification must be supplied; and
+  (c) the method by which that notification must be supplied.
+(3) Subsection (2)(b) and (c) apply despite section 211.
 
 ### 17 Loan manager must transfer loan advance debts to Commissioner for collection
 (1) After a loan advance is made or charged to a borrower, the loan manager must—
@@ -2560,32 +2573,3 @@ A student loan establishment fee charged by the loan manager to a borrower under
 | --- | --- |
 
 ## Schedule 10 — Amendments to other enactments
-
-### 1 Title
-This Act is the Student Loan Scheme Amendment Act 2012.
-
-### 2 Commencement
-(1) Sections 7 and 59(2) come into force on 1 January 2013.
-(2) Section 55 is deemed to have come into force on 1 January 2012.
-(3) Section 57 comes into force on 1 April 2013 except that if a clause in Schedule 7 is, under section 2(5) of the principal Act, brought into force on a later date, any provision in section 57 that relates to that clause comes into force on that later date.
-(4) The rest of the Act is deemed to have come into force on 1 April 2012.
-
-## Part 1 — Amendments to principal Act
-
-### 3 Principal Act amended
-This Act amends the Student Loan Scheme Act 2011.
-
-### 4 Purposes of Act
-The purposes of this Act are—
-  (a) to assess the repayment obligations of borrowers by—
-    (i) disregarding any business or investment losses; and
-    (ii) treating salaries and wages separately from investment and business income:
-  (b) to provide for repayment holidays to be granted by the Commissioner and to limit their term to 365 days:
-  (c) to require borrowers who apply for repayment holidays to have contact persons who may be requested to assist the Commissioner in locating borrowers:
-  (d) to make miscellaneous amendments to the principal Act.
-
-## Part 2 — Transitional provision
-
-### 59 Transitional provision
-(1) Until the close of 31 December 2012, the definition of contact person in section 193A(6) of the principal Act must be read without reference to paragraph (a) of that definition.
-(2) This section is repealed on 1 January 2013.
