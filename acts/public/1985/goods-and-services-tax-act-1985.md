@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2012-11-02_
+_Consolidation as at 2013-01-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -330,6 +330,9 @@ _Consolidation as at 2012-11-02_
       (i) retains any amount paid to the seller to recoup that seller's selling costs in respect of the layby sale; or
       (ii) recovers any amount (including, or in addition to, the amount referred to in subparagraph (i)) from the buyer,—
 (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the Public Finance Act 1989, any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
+(6AA) For the purposes of this Act, a levy that is paid under the Climate Change Response Act 2002 is treated as if it were consideration for a supply of services in furtherance of a taxable activity carried on by—
+  (a) the New Zealand Transport Agency, if the levy is paid under section 228 of that Act; or
+  (b) the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011, if the levy is recovered under section 230 of that Act.
 (6A) For the purposes of this Act, any registration fee paid pursuant to section 243(1)(b)(i) of the Land Transport Act 1998 and any licence fees paid pursuant to section 244(2) of that Act are deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
 (6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under section 48 of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
 (6AC) For the purposes of this Act, a levy that is paid under the Waste Minimisation Act 2008 is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
@@ -832,7 +835,8 @@ A supply of services that is chargeable with tax under section 8 must be charged
 (2) For the purposes of subsection (1), the value of goods imported into New Zealand shall be the sum of the following amounts (excluding any tax charged under this Act):
   (a) the amount of the value of the goods determined in accordance with Schedule 2 of the Customs and Excise Act 1996 (whether or not duty is payable under that Act); and
   (b) the amounts of duty (if any) and tax (if any) payable on those goods under the Customs and Excise Act 1996, but not including any tax levied or charged under this Act; and
-  (c) the amount paid or payable to transport the goods to New Zealand and to insure the goods for such transport, if not already included under paragraph (a).
+  (c) the amount paid or payable to transport the goods to New Zealand and to insure the goods for such transport, if not already included under paragraph (a); and
+  (d) the amount of levy paid or payable on goods under the Climate Change Response Act 2002.
 (3) Subject to this section, tax levied under subsection (1) shall be collected and paid in accordance with the Customs and Excise Act 1996.
 (4) The following provisions shall apply to the collection, payment, and enforcement of goods and services tax levied under subsection (1):
   (a) sections 2 and 3, Parts 1 and 2, Part 3 (except for section 38), Part 4, Part 5, Part 6, Part 7 (except for section 81), Part 8 (except for sections 107, 108, 109, 111, 112, 113, 114, 115, 117, 118), Parts 10, 11, 12, 13, 14, 15, 16, and 17 of the Customs and Excise Act 1996; and
