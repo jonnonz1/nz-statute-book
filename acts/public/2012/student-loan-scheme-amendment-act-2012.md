@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2012
-_Consolidation as at 2012-04-11_
+_Consolidation as at 2013-01-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Amendment Act 2012.
@@ -367,5 +367,4 @@ The item relating to section 81(4)(g) and (gb) of the Tax Administration Act 199
 ## Part 2 — Transitional provision
 
 ### 59 Transitional provision
-(1) Until the close of 31 December 2012, the definition of contact person in section 193A(6) of the principal Act must be read without reference to paragraph (a) of that definition.
-(2) This section is repealed on 1 January 2013.
+[Repealed]
