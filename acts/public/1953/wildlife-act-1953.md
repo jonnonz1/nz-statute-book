@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-01-03_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -1365,6 +1365,8 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 
 | Chondrichthyes (cartilaginous fishes)— |  |  |
 | --- | --- | --- |
+|  | Carcharhiniformes (ground sharks)— |  |
+|  |  | Oceanic whitetip shark (Carcharhinus longimanus) |
 |  | Lamniformes (mackerel sharks)— |  |
 |  |  | Basking shark (Cetorhinus maximus) |
 |  |  | Deepwater nurse shark (Odontaspis ferox) |
