@@ -1,5 +1,5 @@
 # Fees and Travelling Allowances Act 1951
-_Consolidation as at 2005-03-25_
+_Consolidation as at 2013-02-01_
 
 > An Act to make provision with respect to the payment of remuneration and travelling allowances and expenses to members of statutory Boards and of travelling allowances and expenses to members of local authorities
 
@@ -52,32 +52,32 @@ Every payment of remuneration, travelling allowances, or travelling expenses mad
 
 | Title of statutory Board | Enactment by which established |
 | --- | --- |
-| The Air Services Licensing Authority | Air Services Licensing Act 1951 (1951 No 25) |
-| The Board of Health | Health Act 1920 (1920 No 45) (Reprint of Statutes, Vol VI, p 1061) |
-| The Canteen Fund Board | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
-| The Clerks of Works Registration Board | Clerks of Works Act 1944 (1944 No 16) |
-| The Fire Services Council | Fire Services Act 1949 (1949 No 18) |
-| The Government Railways Appeal Board | Government Railways Act 1949 (1949 No 40) |
-| The Government Railways Industrial Tribunal | Government Railways Act 1949 (1949 No 40) |
-| The Hawke's Bay Crematorium Board | Hawke's Bay Crematorium Act 1944 (1944 No 7 (L)) |
-| The Hunter Soldiers Assistance Trust Board | Hunter Gift for the Settlement of Discharged Soldiers Act 1921 (1921 No 12) (Reprint of Statutes, Vol IV, p 1000) |
-| The Invercargill Licensing Trust | Invercargill Licensing Trust Act 1950 (1950 No 33) |
+| Air Services Licensing Authority | Air Services Licensing Act 1951 (1951 No 25) |
+| Board of Health | Health Act 1920 (1920 No 45) (Reprint of Statutes, Vol VI, p 1061) |
+| Canteen Fund Board | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
+| Clerks of Works Registration Board | Clerks of Works Act 1944 (1944 No 16) |
+| Fire Services Council | Fire Services Act 1949 (1949 No 18) |
+| Government Railways Appeal Board | Government Railways Act 1949 (1949 No 40) |
+| Government Railways Industrial Tribunal | Government Railways Act 1949 (1949 No 40) |
+| Hawke's Bay Crematorium Board | Hawke's Bay Crematorium Act 1944 (1944 No 7 (L)) |
+| Hunter Soldiers Assistance Trust Board | Hunter Gift for the Settlement of Discharged Soldiers Act 1921 (1921 No 12) (Reprint of Statutes, Vol IV, p 1000) |
+| Invercargill Licensing Trust | Invercargill Licensing Trust Act 1950 (1950 No 33) |
 | Joint Management Committee | Ngāti Awa Claims Settlement Act 2005 (2005 No 28) |
-| The Land Settlement Board | Land Act 1948 (1948 No 64) |
-| The Licensing Control Commission | Licensing Amendment Act 1948 (1948 No 74) |
-| The Linen Flax Corporation of New Zealand | Linen Flax Corporation Act 1945 (1945 No 46) |
-| The Maori Purposes Fund Board | Maori Purposes Fund Act 1934–35 (1934 No 45) |
-| The Masterton Licensing Trust | Masterton Licensing Trust Act 1947 (1947 No 35) |
-| The National Council of Physical Welfare and Recreation | Physical Welfare and Recreation Act 1937 (1937 No 14) |
-| The New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1945 (1945 No 26) |
-| The New Zealand Geographic Board | New Zealand Geographic Board Act 1946 (1946 No 3) |
-| The New Zealand Patriotic Fund Board | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
-| The New Zealand Wool Board | Wool Industry Act 1944 (1944 No 27) |
-| The Ngarimu VC and 28th (Maori) Battalion Memorial Fund Board | Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33) |
-| The Ngati Whatua o Orakei Reserves Board | Orakei Act 1991 (1991 No 122) |
-| The Price Tribunal | Control of Prices Act 1947 (1947 No 51) |
-| The Valuers Registration Board | Valuers Act 1948 (1948 No 63) |
-| The Workers' Compensation Board | Workers Compensation Amendment Act 1950 (1950 No 84) |
+| Land Settlement Board | Land Act 1948 (1948 No 64) |
+| Licensing Control Commission | Licensing Amendment Act 1948 (1948 No 74) |
+| Linen Flax Corporation of New Zealand | Linen Flax Corporation Act 1945 (1945 No 46) |
+| Maori Purposes Fund Board | Maori Purposes Fund Act 1934–35 (1934 No 45) |
+| Masterton Licensing Trust | Masterton Licensing Trust Act 1947 (1947 No 35) |
+| National Council of Physical Welfare and Recreation | Physical Welfare and Recreation Act 1937 (1937 No 14) |
+| New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1945 (1945 No 26) |
+| New Zealand Geographic Board | New Zealand Geographic Board Act 1946 (1946 No 3) |
+| New Zealand Patriotic Fund Board | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
+| New Zealand Wool Board | Wool Industry Act 1944 (1944 No 27) |
+| Ngarimu VC and 28th (Maori) Battalion Memorial Fund Board | Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33) |
+| Ngāti Whātua Ōrākei Reserves Board (previously known as Ngati Whatua o Orakei Reserves Board) | Established by the Orakei Act 1991 and continued by the Ngāti Whātua Ōrākei Claims Settlement Act 2012. |
+| Price Tribunal | Control of Prices Act 1947 (1947 No 51) |
+| Valuers Registration Board | Valuers Act 1948 (1948 No 63) |
+| Workers' Compensation Board | Workers Compensation Amendment Act 1950 (1950 No 84) |
 
 ## Schedule 2 — Amendments to Acts
 
