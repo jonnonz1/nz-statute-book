@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-02-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1572,6 +1572,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Accident Compensation Corporation |  |  |  |  |  |
+| Callaghan Innovation |  |  |  |  |  |
 | Careers New Zealand |  |  |  |  |  |
 | Civil Aviation Authority of New Zealand |  |  |  |  |  |
 | District Health Boards |  |  |  |  |  |
@@ -1583,7 +1584,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
-| Maritime Safety Authority of New Zealand |  |  |  |  |  |
+| Maritime New Zealand |  |  |  |  |  |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
 | New Zealand Fire Service Commission |  |  |  |  |  |
