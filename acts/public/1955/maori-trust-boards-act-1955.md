@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2011-09-16_
+_Consolidation as at 2013-02-01_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -61,8 +61,7 @@ _Consolidation as at 2011-09-16_
 [Repealed]
 
 ### 6A Ngati Whatua o Orakei Maori Trust Board
-(1) The body corporate constituted by section 4 of the Orakei Block (Vesting and Use) Act 1978, under the name of the Ngati Whatua of Orakei Maori Trust Board, shall continue to exist and shall henceforth be known as the Ngati Whatua o Orakei Maori Trust Board.
-(2) Subject to the provisions of the Orakei Act 1991, the provisions of this Act shall apply to the Ngati Whatua o Orakei Maori Trust Board.
+[Repealed]
 
 **Tainui Maori Trust Board**
 
