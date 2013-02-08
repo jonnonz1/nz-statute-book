@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2012-11-19_
+_Consolidation as at 2013-02-08_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
