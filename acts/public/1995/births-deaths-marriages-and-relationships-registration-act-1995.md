@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2012-12-19_
+_Consolidation as at 2013-02-27_
 
 > Title
 
@@ -1013,10 +1013,24 @@ In sections 74 to 75G,—
 (1) The purpose of this section is to authorise the disclosure of birth information, death information, marriage information, civil union information, and name change information to certain specified agencies for certain purposes.
 (2) The Registrar-General and the chief executive of a specified agency listed in the first column of Schedule 1A may enter into an agreement for the disclosure by the Registrar-General to the chief executive of any information described in the second column of that schedule in relation to the specified agency only for the purpose described in the third column of that schedule in relation to the information.
 (3) An agreement entered into under subsection (2) may be varied by the Registrar-General and the chief executive.
-(4) The Registrar-General may disclose birth information, death information, marriage information, civil union information, and name change information to the chief executive only in accordance with Schedule 1A and an agreement entered into under subsection (2).
+(4) The Registrar-General may disclose birth information, death information, marriage information, civil union information, and name change information to the chief executive under this section only in accordance with Schedule 1A and an agreement entered into under subsection (2).
 (4A) Sections 74, 75A(2)(b), 75B(2), and 75D(2) do not apply if this section applies.
 (5) In this section, specified agency has the meaning given to it by section 97 of the Privacy Act 1993.
 (6) In this section, a reference to the chief executive of a specified agency means, in the case of the Government Superannuation Fund Authority or the National Provident Fund, a reference to the Board of the Government Superannuation Fund Authority or, as the context requires, the Board of Trustees of the National Provident Fund.
+
+### 78AA Disclosure of birth information, death information, marriage information, civil union information, and name change information under approved information sharing agreement
+(1) The Registrar-General may share the following personal information about an identifiable individual under an approved information sharing agreement:
+  (a) birth information:
+  (b) death information:
+  (c) marriage information:
+  (d) civil union information:
+  (e) name change information.
+(2) This section does not limit section 74.
+(3) This section and section 78A do not limit each other, and section 78A does not prevent the Registrar-General from entering into an information sharing agreement with any agency to share information of the kind specified in subsection (1).
+(4) Subsection (1) applies whether or not a non-disclosure direction is in force in respect of any or all of the personal information about an identifiable individual referred to in that subsection.
+(5) In this section,—
+  - **approved information sharing agreement** and have the meanings given to them by section 96C of the Privacy Act 1993
+  - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public.
 
 ### 78B Information matching to trace unregistered births
 (1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the Social Security Act 1964 (the department) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
