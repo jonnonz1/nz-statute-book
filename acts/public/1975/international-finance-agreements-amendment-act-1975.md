@@ -1,5 +1,5 @@
 # International Finance Agreements Amendment Act 1975
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2013-02-27_
 
 > An Act to amend the International Finance Agreements Act 1961
 
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
 (2) The Minister may from time to time borrow on the security of and charged upon the public revenues of New Zealand such sums of money as may be required to be paid by the Government of New Zealand under subsection (1) of this section. The provisions of subsections (2) and (3) of section 6 of the principal Act shall extend and apply to all money borrowed under the authority of this subsection.
 (3)
 
-### 5
+### 5 Consequential amendment and repeal
 [Repealed]
 
 ## Schedule Schedule
