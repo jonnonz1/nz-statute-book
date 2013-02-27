@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2012-11-02_
+_Consolidation as at 2013-02-27_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3197,6 +3197,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (ii) implement the tax system:
     (iii) improve, research, or reform the tax system.
 
+### 81A Disclosure of information under approved information sharing agreement
+Despite section 81, the Commissioner may supply personal information about an identifiable individual under an information sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993 that is for the time being in force.
+
 ### 81BA Government agency communication
 (1) Despite section 81, the Commissioner may communicate information held by the Inland Revenue Department to another government agency if it is reasonable and practicable for the Commissioner to retrieve the information, and—
   (a) the government agency is lawfully able to collect the information, but the provision, collection, and verification of the information to or by the government agency is inefficient; and
@@ -5261,9 +5264,10 @@ Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest 
   (a) 4, for provisional taxpayers who pay on the equivalent of instalment dates B, D, and F; or
   (b) 6, for provisional taxpayers who pay on the equivalent of instalment dates C and F.
 (5) For the purposes of calculating the amount of interest due in relation to a final instalment of provisional tax, the amount of residual income tax payable is the residual income tax for the tax year minus any amount treated as due on an instalment date referred to in subsection (3).
-(6) In this section, a provisional taxpayer includes a new provisional taxpayer.ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
-  on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
-  on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
+(6) In this section, a provisional taxpayer includes a new provisional taxpayer.
+ExampleSection 120KEDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000.Four interest start dates apply:for credit interest, the interest start date is 11 September 2007 (s 120KE(6)):for debit interest, the interest start dates are:11 September for unpaid instalments under the GST ratio method (s 120KE(7))16 January 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A))8 May 2008 for unpaid instalments under estimation method (s 120C(1)﻿(a)﻿(i)﻿(A)).Files return for year and RIT is $30,000Balance is $25,500 ($30,000 − $4,500)Estimation instalments: interest calculated on unpaid tax of:
+on 16 Jan 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b))
+on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 
 ### 120KE Provisional tax and rules on use of money interest
 (1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
