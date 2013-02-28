@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2013-02-28_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -1138,10 +1138,8 @@ In these regulations,—
 ### 5 Modifications to section 5(1) of Act
 (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 July 2013.
 (2) During that transitional period, section 5(1) of the Act must be read as if it were modified in the manner set out in the rest of this regulation.
-(3) The definition of exempt vehicle in section 5(1) is modified by inserting after subparagraph (iv) : and the following subparagraph:.
-  (v) an unregistered vehicle operating under trade plates
-(4) Section 5(1) is modified by replacing the definition of permit with:.
-  - **permit** means a permit issued by a road controlling authority under section 5 of Part 1 of the VDAM Rule for a vehicle that exceeds the mass limits prescribed in section 4 of that rule
+(3) [Revoked]
+(4) [Revoked]
 (5) Section 5(1) is modified by inserting in their appropriate alphabetical order:.
   - **road controlling authority** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **trade plate** has the same meaning as in section 233(1) of the Land Transport Act 1998
@@ -1160,17 +1158,26 @@ In these regulations,—
     (a) continues to apply until the close of 31 August 2012; and
     (b) the heavy motor vehicle must, during the period for which the exemption continues to apply, be treated as if it were an exempt vehicle within the meaning of that term in section 5(1) of the Act.
 
-### 8 Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
+### 9 Transitional and savings provision relating to exemption granted in respect of hubodometers
 (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 30 June 2013.
-(2) During that transitional period, the Act must be read as if the following section were inserted after section 97A (as inserted by the modification in regulation 7):Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
-  (1) Despite the commencement of Part 2 of this Act, the exemption in respect of farmers' vehicles used on the road only in connection with agricultural operations granted under section 4(c) of the former Act—
+(2) During the transitional period, the Act must be read as if the following section were inserted after section 97B (as inserted by the modification in regulation 8):Transitional and savings provision relating to exemption granted in respect of hubodometers
+  Despite the commencement of section 8 of the Act, a notice given by the Secretary under regulation 6(6)(a) of the Road User Charges Regulations 1978 that a RUC vehicle need not be fitted with a hubodometer continues in force until the close of 30 June 2013.
+
+### 1 Title
+These regulations are the Road User Charges (Transitional Exemption for Certain Farmers' Vehicles) Regulations 2013.
+
+### 2 Commencement
+These regulations come into force on 28 February 2013.
+
+### 3 Expiry and revocation
+These regulations expire and are revoked on the close of 30 June 2013.
+
+### 4 Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
+(1) This regulation applies during the transitional period beginning on 28 February 2013 and ending with the close of 30 June 2013.
+(2) During that transitional period, the Road User Charges Act 2012 must be read as if the following section were inserted after section 97A:Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
+  (1) Despite the commencement of Part 2 of this Act, the exemption in respect of farmers' vehicles used on the road only in connection with agricultural operations granted under section 4(c) of the Road User Charges Act 1977—
     (a) continues to apply in respect of light RUC vehicles until the close of 30 June 2013; and
     (b) light RUC vehicles to which the exemption applies must, during the period for which the exemption continues to apply, be treated as if they were an exempt vehicle within the meaning of that term in section 5(1) of the Act.
   (2) In subsection (1),—
     - **agricultural operation** has the same meaning as in regulation 3(1) of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004
     - **farmers' vehicles used on the road only in connection with agricultural operations** means vehicles of the kind described in item 2 of the Schedule of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004.
-
-### 9 Transitional and savings provision relating to exemption granted in respect of hubodometers
-(1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 30 June 2013.
-(2) During the transitional period, the Act must be read as if the following section were inserted after section 97B (as inserted by the modification in regulation 8):Transitional and savings provision relating to exemption granted in respect of hubodometers
-  Despite the commencement of section 8 of the Act, a notice given by the Secretary under regulation 6(6)(a) of the Road User Charges Regulations 1978 that a RUC vehicle need not be fitted with a hubodometer continues in force until the close of 30 June 2013.
