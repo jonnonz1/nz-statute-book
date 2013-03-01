@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2012-07-01_
+_Consolidation as at 2013-03-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
