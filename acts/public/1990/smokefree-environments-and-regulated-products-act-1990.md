@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2012-07-23_
+_Consolidation as at 2013-03-05_
 
 > Title
 
@@ -87,9 +87,6 @@ _Consolidation as at 2012-07-23_
     (a) means a checkout where tobacco products may be bought; and
     (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
   - **prescribed petroleum operations** means petroleum operations prescribed for the purposes of the Health and Safety in Employment Act 1992 by regulations made under that Act
-  - **prison** —
-    (a) means a prison within the meaning of the Corrections Act 2004; and
-    (b) includes a facility attached to a prison
   - **publish** means—
     (a) insert in any newspaper or other periodical publication printed, published, or distributed in New Zealand; or
     (b) send to any person, by post or otherwise; or
@@ -154,7 +151,7 @@ _Consolidation as at 2012-07-23_
       (iii) a sleeping compartment, for the time being assigned to a passenger or passengers, on a train; or
       (iv) a cabin, for the time being assigned to only 1 employee or volunteer, or to the master or owner, on a ship; or
       (v) a sleeping compartment, for the time being assigned to only 1 employee or volunteer, on a train; or
-      (vi) a prison cell; or
+      (vi)
       (vii) a dwellinghouse occupied by the employer.
 (2) For the purposes of the definition of of the same kind in subsection (1),—
   (a) tobacco packages, tobacco cartons, or packages of a herbal smoking product differ if they bear different brand names:
@@ -220,15 +217,7 @@ An employer may permit smoking in a vehicle provided by the employer and normall
   (b) does not authorise a person who is not a patient or resident of the institution or home concerned to smoke in a dedicated smoking room.
 
 ### 6A Smoking in prison cells
-(1) The superintendent of a prison must ensure that there is a written policy on smoking in the prison's cells, prepared for the protection of the health of employees and inmates.
-(2) The policy—
-  (a) must be based on the principles that—
-    (i) as far as is reasonably practicable, an employee or inmate who does not smoke, or does not wish to smoke in the prison, must be protected from smoke arising from smoking in the prison's cells:
-    (ii) unless it is not reasonably practicable to do otherwise, an inmate who does not wish to smoke in his or her cell must not be required to share it with an inmate who does wish to smoke in it; and
-  (b) must state the procedure for making complaints under this Part.
-(3) The superintendent—
-  (a) must ensure that the policy complies with subsection (2); and
-  (b) must take all reasonably practicable steps to ensure that the policy is complied with.
+[Repealed]
 
 ### 7 Duties of employer
 [Repealed]
