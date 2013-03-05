@@ -1,5 +1,5 @@
 # Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010
-_Consolidation as at 2010-04-12_
+_Consolidation as at 2013-03-05_
 
 ### 1 Title
 This Act is the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010.
@@ -16,17 +16,16 @@ The purpose of this Act is to—
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **2013 election** means the triennial general election of members of ECan that (subject to section 11 of the Local Electoral Act 2001) must be held on the second Saturday in October 2013
+  - **2016 election** means the triennial general election of members of ECan that (subject to section 11 of the Local Electoral Act 2001) must be held on the second Saturday in October 2016
   - **Canterbury region** means the region of ECan
   - **Canterbury WCO** or means a water conservation order in respect of a water body in the Canterbury region
   - **commencement day** means the day on which this Act comes into force
   - **commissioner** means a person appointed under section 10 or 15
   - **CWMS** means the Canterbury Water Management Strategy—Strategic Framework, November 2009
   - **Environment Canterbury** or means the Canterbury Regional Council constituted by the Local Government (Canterbury Region) Reorganisation Order 1989 (Gazette, 1989, p 2296)
-  - **Hurunui WCO application** has the meaning given in Part 2 of Schedule 2
   - **Minister** means the Minister for the Environment
   - **Minister of Local Government** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Local Government Act 2002
-  - **next election** means the next general election of members of ECan held under section 8 of the Local Electoral Act 2001 after the commencement of this Act or the 2013 election, whichever occurs first
+  - **next election** means the next general election of members of ECan held under section 8 of the Local Electoral Act 2001 after the commencement of this Act or the 2016 election, whichever occurs first
   - **permit** has the meaning given in section 33
   - **proposed regional policy statement or plan** has the meaning given in section 61
   - **replacement day** means the day determined under section 8
@@ -138,6 +137,13 @@ The responsible Ministers may at any time amend the terms of reference for the c
   (a) notify the removal or resignation of a commissioner in the Gazette; and
   (b) give a copy of the notice of removal or resignation to ECan.
 
+### 17A Review
+(1) The responsible Ministers must begin a review of ECan on 1 March 2014.
+(2) The review must cover—
+  (a) the governance structure of ECan; and
+  (b) the membership of ECan; and
+  (c) ECan's powers and functions under Part 3.
+
 ### 18 Commissioners' remuneration and expenses
 (1) A commissioner is entitled to be paid—
   (a) remuneration by way of salary, fees, and allowances at a rate determined by the responsible Ministers; and
@@ -159,10 +165,10 @@ During their term of office, the commissioners constitute the governing body of 
 ### 21 Commissioners must establish advice process
 The commissioners must as soon as practicable establish a process for seeking advice from the mayors of the territorial authorities in the Canterbury region on local issues that affect the exercise of the powers, and the performance of the functions, of ECan.
 
-**2010 election for members of ECan**
+**2010 and 2013 elections for members of ECan**
 
-### 22 2010 election for members of ECan must not be held
-(1) The triennial general election of members of ECan that would otherwise be held on the second Saturday in October 2010 (the 2010 election) must not be held and to that extent section 10(2) of the Local Electoral Act 2001 does not apply.
+### 22 2010 and 2013 elections for members of ECan must not be held
+(1) The triennial general elections of members of ECan that would otherwise be held on the second Saturday in October 2010 (the 2010 election) and in October 2013 must not be held and to that extent section 10(2) of the Local Electoral Act 2001 does not apply.
 (2) A notice given by an electoral officer in respect of the 2010 election under section 52 of the Local Electoral Act 2001 is of no force or effect.
 (3) If a notice referred to in subsection (2) has been given before the commencement of this section, the electoral officer must as soon as practicable give public notice that the 2010 election will not be held.
 
@@ -469,7 +475,7 @@ Sections 214 and 215 of the RMA apply, with the necessary modifications, to maki
 (1) If an application for a Canterbury WCO is received by ECan before the resumption day and, before that day,—
   (a) a hearing has not commenced, the application must be returned to the Minister and clauses 1 to 3 of Schedule 2 apply:
   (b) a hearing has commenced, clauses 4 and 5 of Schedule 2 apply.
-(2) Part 2 of Schedule 2 applies to ECan's exercise of its powers and performance of its functions in relation to the Hurunui WCO application.
+(2)
 
 ### Subpart 4 — Process for approval of proposed regional policy statements or plans
 
@@ -602,82 +608,3 @@ Clauses 2 and 3 apply if ECan,—
 The expiry and repeal of the provisions of subpart 3 of Part 3 do not affect the continuation, on the resumption day, of—
   (a) the business or membership of any committee or other subordinate decision-making body of ECan appointed on or after the replacement day; or
   (b) delegations by ECan made after the replacement day.
-
-### 6 Interpretation
-In this Part of this schedule,—
-  - **Hurunui report** means the report on the Hurunui WCO application by a special tribunal under section 208 of the RMA dated 14 August 2009
-  - **Hurunui River** means the waters of that part of the Hurunui River in respect of which the Hurunui WCO application applies, namely—
-    (a) the main stem of the upper Hurunui River and all of its lakes, tributaries and contributing waters (including hydraulically connected groundwaters), from its source in the Main Divide of the Southern Alps down to immediately above its confluence with the Mandamus River (at or about NZMS 260 M33 736238) (Upper Hurunui Waters); and
-    (b) the main stem of the lower Hurunui River from immediately above its confluence with the Mandamus River (at or about NZMS 260 M33 736238) down to the sea (Lower Hurunui River)
-  - **Hurunui WCO application** means the WCO application in respect of the Hurunui River made under section 201 of the RMA on 30 August 2007 jointly by the New Zealand Fish and Game Council, the North Canterbury Fish and Game Council, and the New Zealand Recreational Canoeing Association
-  - **revised application** means a revised application (if any) for a Hurunui WCO submitted under clause 9(b).
-
-### 7 Jurisdiction of Environment Court removed in relation to Hurunui WCO application
-Despite anything in the RMA or any other enactment, on and from the commencement date, the Environment Court does not have jurisdiction to conduct, or to continue to conduct, an inquiry in respect of the Hurunui report.
-
-### 8 Minister to forward Hurunui WCO application to ECan
-Not later than 20 working days after the commencement day, the Minister must forward to ECan—
-  (a) a copy of the Hurunui WCO application; and
-  (b) a copy of all submissions made to the special tribunal under section 205 of the RMA in respect of that application.
-
-### 9 Notice to applicant and submitters
-As soon as practicable after ECan has received the documents from the Minister under clause 8, ECan must give notice in writing to the applicant and the submitters that,—
-  (a) by virtue of section 46 and clause 7, the Environment Court has no jurisdiction in relation to the Hurunui report; and
-  (b) the applicant may, not later than 30 working days after the date of the notice, submit a revised application to take into account the matters that must be considered under sections 50 and 57; and
-  (c) on the expiry of that 30-working-day period, submitters may make a submission on any revised application submitted under paragraph (b); and
-  (d) ECan will consider and report on the revised application, if there is one, or otherwise on the Hurunui WCO application, in accordance with this clause and clauses 10 to 14.
-
-### 10 Notice to submitters
-As soon as practicable after the expiry of 30 working days from the date of the notice given under clause 9, ECan must notify submitters in writing—
-  (a) that a revised application has been submitted, setting out—
-    (i) a description of the revised application; and
-    (ii) where the revised application and any relevant information held by ECan may be viewed; and
-    (iii) in relation to any revised application, that the submitters have 30 working days in which to make a written submission on the revised application and serve it on—
-      (A) the applicant; and
-      (B) ECan; and
-    (iv) that unless a submission is received in accordance with clause 9(c), ECan will consider the submission on the Hurunui WCO application made by the submitter to the special tribunal as if it were a submission made on the revised application; or
-  (b) if no revised application is received by the due date, that—
-    (i) no revised application has been submitted; and
-    (ii) the submissions already lodged with ECan will be considered in relation to the original application.
-
-### 11 Time limits, further information, and submissions
-(1) The provisions of the RMA set out in subclause (2) apply to ECan's consideration of the Hurunui WCO application or any revised application as if—
-  (a) every reference to a consent authority were a reference to ECan; and
-  (b) every reference to an application for a resource consent were a reference to the Hurunui WCO application or any revised application; and
-  (c) every reference to a resource consent were a reference to a water conservation order in respect of the Hurunui River; and
-  (d) the reference in section 96(6)(a) of the RMA to the time allowed by section 97 of that Act were a reference to the time allowed by clause 10.
-(2) The provisions of the RMA are––
-  (a) section 37 (which relates to waiver and extension of time limits); and
-  (b) section 92 (which relates to further information that may be requested); and
-  (c) section 96(5) and (6) (which relate to the making of submissions); and
-  (d) section 98 (which requires the applicant to be advised of submissions).
-(3) A person who makes a submission opposing the making of a WCO in respect of the Hurunui River must specify the reasons why the person considers that the proposed order is not justified in terms of sections 50 and 57.
-(4) ECan may by written notice to a submitter require further information that ECan considers necessary in relation to a submission.
-
-### 12 Right to make submission or be heard
-No person may make a submission to, or be heard by, ECan under this Part other than—
-  (a) the applicant; or
-  (b) persons who made a submission to the special tribunal hearing the Hurunui WCO application.
-
-### 13 Hearing
-(1) ECan must conduct a hearing into the Hurunui WCO application or revised application.
-(2) Sections 39 to 42, 99 to 100, and 101(1) to (3) of the RMA apply with the necessary modifications to a hearing under this clause, as if every reference—
-  (a) to a consent authority were a reference to ECan; and
-  (b) to a resource consent were a reference to a water conservation order.
-(3) Without limiting the provisions referred to in subclause (2), a hearing must be held in public at a place that is near the Hurunui River, as determined by ECan.
-
-### 14 Consideration and reporting by ECan
-(1) After receiving any information and conducting any hearing that it considers necessary, ECan must—
-  (a) consider the Hurunui WCO application or revised application in accordance with section 50; and
-  (b) report on the application; and
-  (c) give notice of that report.
-(2) Section 208 of the RMA applies to the report and its notification as if—
-  (a) every reference to a special tribunal were a reference to ECan; and
-  (b) section 208(2)(c) of that Act excluded the reference to the regional council.
-
-### 15 Application of provisions of subpart 3 of Part 3 to Hurunui WCO application
-The following provisions of subpart 3 of Part 3 apply to the Hurunui WCO application, ECan's report on it, and to the making or declining of an order in respect of the Hurunui River as if they referred to that application, report, or order, as the case may be:
-  (a) sections 52 to 55, which relate to appeals; and
-  (b) section 56, which relates to the making or declining of an order; and
-  (c) section 57, which provides for the scope and effect of an order; and
-  (d) section 59, which relates to the delegation of functions, powers, and duties by ECan.
