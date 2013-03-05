@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-03-05_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -202,10 +202,12 @@ This Act is the Corrections Act 2004.
   - **unauthorised item** means—
     (a) any article that could, while in the possession of any prisoner, be harmful to that prisoner or to any other person:
     (b) any drug, alcohol, or other intoxicating substance:
+    (ba) tobacco:
+    (bb) any equipment used for smoking tobacco or any other substance:
     (c) any electronic communication device:
     (d) any thing that could be used for the purpose of facilitating the escape from lawful custody of any person:
     (e) in relation to any person, any thing that may not lawfully be retained in the person's possession:
-    (f) any article or thing that is in the possession of any person in contravention or intended contravention of section 128, section 129(a), section 141, section 143, or section 144:
+    (f) any article or thing that is in the possession of any person in contravention or intended contravention of section 128, section 129(a), section 129(aa), section 141, section 143, or section 144:
     (fa) any thing or substance that could be used to tamper with any sample that a prisoner is required to supply in accordance with a prescribed procedure under section 124:
     (g) any offensive weapon within the meaning of section 202A of the Crimes Act 1961:
     (h) any disabling substance within the meaning of that section:
@@ -1630,9 +1632,9 @@ Particulars of a recording of a prisoner call must not be received in evidence b
   (f) staff training.
 
 ### 124 Prisoner may be required to submit to drug or alcohol test
-(1) An officer may, in any of the situations referred to in subsection (2), require a prisoner to submit to any prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs, consumed alcohol, or both.
+(1) An officer may, in any of the situations referred to in subsection (2) and subject to any limitations prescribed by regulations, require a prisoner to submit to any prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs, consumed alcohol, or both.
 (2) The situations referred to in subsection (1) are as follows:
-  (a) if the prison manager believes, on reasonable grounds, that the prisoner has committed an offence against section 129 or section 130(1):
+  (a) if the prison manager suspects, on reasonable grounds, that the prisoner has committed an offence against section 129 or section 130(1):
   (b) if the prisoner's name has been selected under a random-testing programme established by regulations made under this Act for purposes set out in those regulations:
   (c) if the prisoner is a voluntary participant in any programme, regime, or custodial arrangement—
     (i) that has as one of its aims the reduction of drug and alcohol use among prisoners; and
@@ -1690,9 +1692,10 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
     (i) a hearing adjudicator who is employed at another prison or appointed in respect of another prison than the prison at which the staff member is employed; or
     (ii) a Visiting Justice.
 
-### 129 Offences by prisoners relating to drugs and alcohol
+### 129 Offences by prisoners relating to drugs, alcohol, and smoking
 Every prisoner commits an offence against discipline who,—
   (a) without the authority of a medical officer or unless section 79(3) applies, uses any drug or consumes alcohol (whether inside or outside a prison); or
+  (aa) smokes tobacco or any other substance inside a prison; or
   (b) having been required under section 124 to submit to a prescribed procedure,—
     (i) refuses to comply with the requirement; or
     (ii) without reasonable excuse, fails to comply with the requirement; or
@@ -2141,6 +2144,15 @@ No person is deemed to be employed in the service of the Crown for the purposes 
   (b) that the person has entered into a prison management contract; or
   (c) that the person has entered into a security contract under section 166.
 
+**Status of certain rules and regulations relating to smoking in prisons**
+
+### 179AA Status of certain rules and regulations relating to smoking in prisons
+(1) On and from 12 February 2013, the following rules and regulations must be treated as if they were made after Part 3 of the Corrections Amendment Act 2013 came into force:
+  (a) any rule made before 12 February 2013 by a prison manager under section 33 that forbids prisoners to smoke tobacco or any other substance, or forbids prisoners to possess tobacco or any tobacco-related item; and
+  (b) regulations 4 and 6 of the Corrections Amendment Regulations 2012.
+(2) On and from 12 February 2013, no proceedings may be brought against the Crown questioning the validity of any rules or regulations referred to in subsection (1).
+(3) Nothing in this section affects proceedings commenced before 12 February 2013 to the extent that any relief sought or granted in those proceedings relates only to the period before 12 February 2013.
+
 **Emergency management**
 
 ### 179A Detention of prisoners eligible for release during outbreak or spread of infectious disease
@@ -2466,7 +2478,7 @@ If a prison manager believes on reasonable grounds that an unauthorised electron
   (b) a summary of any actions taken, during that year, in relation to the operation of security contracts as a result of any matters raised in any report so forwarded or made, whether during that year or any previous year.
 (3) Without limiting subsection (1)(h), every report referred to in that paragraph must include—
   (a) a summary of—during the year to which the annual report relates; and
-    (i) the reports forwarded to the chief executive under section 199D(2) and (3); and
+    (i) the reports forwarded to the chief executive under section 199D(1A), (2), and (3); and
     (ii) the reports made to the chief executive under section 199E(3)(b)—
   (b) a summary of any actions taken, during that year, in relation to the management of contract prisons as a result of any matters raised in any report so forwarded or made, whether during that year or any previous year.
 
@@ -2569,6 +2581,21 @@ Nothing in this Act limits or affects in any way the Royal prerogative of mercy.
   (b) any regulations made under this Act; or
   (c) any instructions or guidelines issued by the chief executive under section 196 that are or will be applicable to the prison.
 
+### 199AA Delegation of powers and functions of chief executive to contractor
+(1) Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, the chief executive may delegate to a contractor or an employee of a contractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
+(2) Subject to any general or special directions given or conditions imposed by the chief executive, a contractor or an employee of a contractor to whom any functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(3) A contractor or an employee of a contractor who has been delegated any functions or powers under subsection (1) may with the prior written approval of the chief executive delegate those functions or powers to an employee of the contractor.
+(4) A contractor or an employee of a contractor who appears to act under a delegation is presumed to be acting in accordance with its terms and conditions in the absence of evidence to the contrary.
+(5) A delegation made under this section is revocable at any time in writing and until it is revoked continues in force according to its tenor, despite the fact that the chief executive by whom it was made may have ceased to hold office, and continues to have effect as if made by the successor in office of that chief executive.
+(6) A delegation under this section does not affect the exercise of any function or power by the chief executive or the responsibility of the chief executive for the actions of any person acting under the delegation.
+
+### 199AB Delegation of powers and functions of chief executive to subcontractor
+(1) Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, the chief executive may delegate to a subcontractor referred to in section 199C or an employee of that subcontractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
+(2) Subject to any general or special directions given or conditions imposed by the chief executive, a subcontractor or employee of that subcontractor to whom the functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(3) A subcontractor or an employee of a subcontractor who has been delegated any functions or powers under subsection (1) may with the prior written approval of the chief executive delegate those functions or powers to an employee of the subcontractor.
+(4) A subcontractor or an employee of a subcontractor who appears to act under a delegation is presumed to be acting in accordance with its terms and conditions in the absence of evidence to the contrary.
+(5) Section 199AA(5) and (6) apply to a delegation under this section.
+
 ### 199A Delegation of powers and functions of contractor
 Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to section 10 of this Act, those sections of that Act apply in relation to a contract prison as if—
   (a) the contractor were the chief executive of the department; and
@@ -2588,6 +2615,10 @@ Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to
 
 ### 199D Reporting responsibilities
 (1) If there is any variation of the controlling interests in a contractor, that contractor must promptly give notice of that variation to the chief executive and to the monitor appointed in respect of that prison under section 199E(1)(a).
+(1A) A contractor must, at any intervals (not exceeding 4 months) that are determined by the chief executive, report in writing to the chief executive on—
+  (a) the exercise of any functions, duties, or powers delegated under sections 199AA and 199A to the contractor or an employee of the contractor; and
+  (b) the exercise of any functions, powers, or duties by an employee of the contractor who is an approved employee within the meaning of any regulations made under this Act.
+(1B) A subcontractor referred to in section 199C must, at any intervals (not exceeding 4 months) that are determined by the chief executive, report in writing on the exercise of any functions, duties, or powers, delegated under section 199AB to the subcontractor or employee of that subcontractor.
 (2) The manager of a contract prison must, at any intervals (not exceeding 4 months) that are determined by the chief executive, arrange for written reports on the following matters to be prepared and forwarded to the chief executive and to the monitor appointed in respect of that prison under section 199E(1)(a):
   (a) the training provided to staff members of the prison (including the amount and quality of that training), and the level of training achieved by those staff members:
   (b) the number and nature of complaints made by prisoners at the prison, and how those complaints were resolved:
@@ -2637,6 +2668,11 @@ Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to
     (i) that prison; or
     (ii) any prisoner or former prisoner; or
     (iii) any staff member or former staff member of that prison.
+(2A) Every contractor must ensure that any monitor has free and unfettered access to the following persons, but only during their work hours:
+  (a) all employees of the contractor who—
+    (i) are not staff members of the contract prison managed by that contractor; and
+    (ii) are exercising, in respect of that prison, the functions and powers of the chief executive or the contractor under a delegation; and
+  (b) all employees of the contractor who are approved employees (within the meaning of any regulations made under this Act).
 (3) Despite subsection (2), a monitor must not be given access to the medical records of any person unless that person consents to that access.
 
 ### 199G Monitors to report on certain matters
@@ -2657,7 +2693,7 @@ Without limiting sections 41 and 42 of the State Sector Act 1988, but subject to
   (h) the procedures in place to assess—
     (i) the suitability of persons for appointment or engagement under section 11(2) and (4) in the prison; and
     (ii) the ongoing suitability of persons so appointed or engaged:
-  (i) the matters in respect of which the monitor is entitled to receive a report under section 199D(2) or (3).
+  (i) the matters in respect of which the monitor is entitled to receive a report under section 199D(1A), (2), and (3).
 (2) Without limiting section 199E(3), a monitor appointed in respect of a contract prison under section 199E(1)(a) may, at the request of the chief executive or on the monitor's own initiative, investigate any matter relating to that prison, or any prisoner in that prison, and report to the chief executive the results of that examination.
 (3) A monitor appointed in respect of a contract prison under section 199E(1)(b) may, at the request of the monitor appointed in respect of the prison under section 199E(1)(a), or at the request of the chief executive, investigate any matter relating to that prison, or any prisoner in that prison, and report to that person the results of that investigation.
 (4) A monitor appointed for a particular purpose under section 199E(2) may, at the request of the chief executive or on the monitor's own initiative, investigate any matter relating to any 1 or more prisons, or any prisoner in any prison, and report to the chief executive the results of that investigation.
@@ -2766,6 +2802,7 @@ Regulations made under section 200(1)(c) may include (without limitation) provis
     (ii) prescribing how any samples obtained from procedures may be analysed, stored, or both:
     (iii) providing for the disposal of samples obtained from a prescribed procedure:
     (iv) regulating access to, and the use and disclosure of, information obtained from the analysis of such samples, and providing for the destruction of such information:
+  (ma) prescribing limitations on when a prisoner may be required to submit to a prescribed procedure under section 124:
   (n) providing for random-testing programmes, including (without limitation)—
     (i) prescribing the purposes for which random-testing programmes may be established:
     (ii) prescribing the principles under which random-testing programmes must operate:
@@ -2962,39 +2999,3 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 7 Transitional matters
 (1) Any transfer of the management of a prison between the department and a contractor does not affect the completion of a matter or thing that relates, or the bringing or completion of proceedings that relate, to an existing right, interest, title, immunity, or duty.
 (2) Despite subsection (1), the contractor and the chief executive, in the name and on behalf of the Crown, may make any arrangements that they consider necessary or desirable to determine the respective liabilities of the Crown and the contractor in relation to any matter referred to in subsection (1).
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 351 Transitional provision relating to provisions brought into force under section 2
-(1) Despite any amendment in Part 5 of this Act,—
-  (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-  (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-(2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999.
-(3) In this section,—
-  - **authorising Act** means an Act amended by Part 5
-  - **continuing warrant** means a warrant or other authority issued under an authorising Act—
-    (a) before the relevant commencement; or
-    (b) on or after that date on an application made before that date
-  - **relevant commencement** , in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
