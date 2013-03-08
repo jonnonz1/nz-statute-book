@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2012-12-31_
+_Consolidation as at 2013-03-08_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -250,7 +250,7 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 
 ### 26 Land certification
 (1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a State enterprise pursuant to section 24(1) of this Act, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) Where any land that has been vested in a State enterprise pursuant to section 24(1) and for which no certificate of title has been issued in the name of that enterprise, is to be transferred to any other person, the District Land Registrar shall, before issuing a certificate of title, either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land and any other matters that the District Land Registrar considers appropriate.
+(2) Where any land that has been vested in a State enterprise pursuant to section 24(1) of this Act and for which no certificate of title has been issued in the name of that enterprise, is to be transferred to any other person, the District Land Registrar shall, before issuing a certificate of title, either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land and any other matters that the District Land Registrar considers appropriate.
 (3) A certificate in accordance with subsection (1) or subsection (2) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated therein.
 
 ### 26A Certification of easements
