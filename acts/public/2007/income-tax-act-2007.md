@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2012-12-31_
+_Consolidation as at 2013-03-08_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -14282,6 +14282,8 @@ Definition of items in formula
   (b) group funding is the lesser of the item funding and the total of amounts, each of which is the outstanding balance for a financial arrangement—
     (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies) or to a FIF for which the interest holder uses the attributable FIF income method and that is associated with the CFC under section YB 2); and
     (ii) that produces for the CFC an amount included in the item arrangement under section EX 20B(4).
+Asset fraction
+(8) Asset fraction is the amount calculated using the formula—attributable CFC's assets – group fundingtotal CFC's assets – group funding.
 Definition of items in formula
 (9) In the formula in subsection (8),—
   (a) attributable CFC's assets is the total of amounts for the CFC's assets, each of which is the value of an asset to the extent to which the asset is used for the purpose of deriving an attributable CFC amount and not used for the purpose of deriving an amount that is not an attributable CFC amount:
@@ -14505,7 +14507,7 @@ Mineral mining activities
 Petroleum mining activities
 (29) Sections CT 1 to CT 3, CT 5, CX 42, CX 43, CZ 8, DT 1 to DT 15, DT 17 to DT 19, and IS 5 (which relate to petroleum mining) apply, with any necessary modifications, if the CFC carries on petroleum mining activities outside New Zealand that are substantially the same as the petroleum mining activities to which those sections apply.
 Finance leases and specified leases
-(30) A lease entered into by the CFC before the start of the first accounting period in which the CFC is a CFC is neither a finance lease (subject to the financial arrangements rules and sections FA 6 to FA 11 , which relate to finance leases), nor a specified lease (subject to sections FZ 2 to FZ 4, which relate to leases).
+(30) A lease entered into by the CFC before the start of the first accounting period in which the CFC is a CFC is neither a finance lease (subject to the financial arrangements rules and sections FA 6 to FA 11, which relate to finance leases), nor a specified lease (subject to sections FZ 2 to FZ 4, which relate to leases).
 When subsection (30) does not apply
 (31) Subsection (30) does not apply if another party to the lease is a New Zealand resident, a CFC, or a FIF for which the taxpayer uses the attributable FIF income method.
 Taxable distributions from non-complying trust
@@ -23462,7 +23464,7 @@ A Maori authority distribution is a taxable Maori authority distribution if the 
 ### HF 8 Proportional allocation
 If a Maori authority distribution consists of a taxable Maori authority distribution and another amount, the Maori authority must allocate an equal proportion of each type of distribution to every member to whom the distribution is made.
 
-**Table HIConsequences of change in entity status for purposes of Maori authority rules**
+**Table H1Consequences of change in entity status for purposes of Maori authority rules**
 
 ### HF 9 Treatment of companies and trusts that choose to apply this subpart
 Company becoming Maori authority
@@ -27812,12 +27814,17 @@ In subparts MB to MF and MZ,—
   - **abating WFF tax credit** means a tax credit under section MD 1 (Abating WFF tax credit)
   - **chief executive** means the chief executive of the department currently responsible for administering the Social Security Act 1964
   - **child tax credit** means the component of the WFF tax credit that is calculated using the formula in section MZ 2 (Calculation of child tax credit)
+  - **family assistance credit**
   - **family credit abatement** means the component of the abating WFF tax credit that is calculated using the formula in section MD 13 (Calculation of family credit abatement)
+  - **family plus**
   - **family scheme** means all the entitlements and tax credits arising under subparts MB to MF and MZ
   - **family scheme income** means an amount calculated under subpart MB (Adjustment of net income for family scheme) on which an entitlement and a tax credit under the family scheme is based
+  - **family support**
   - **family tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 3 (Calculation of family tax credit)
+  - **in-work payment**
   - **in-work tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 10 (Calculation of in-work tax credit)
   - **minimum family tax credit** means a tax credit under section ME 1 (Minimum family tax credit)
+  - **net family scheme income**
   - **New Zealand resident** —
     (a) means ordinarily resident; and
     (b) does not include being unlawfully resident in New Zealand; and
@@ -29449,7 +29456,7 @@ Credit date
 
 ### OB 29 ICA payment of schedular income tax
 Credit
-(1) An Australian ICA company has an imputation credit for a payment of income tax relating to the company’s schedular income tax liability for income derived under section CR 3 (Income of non-resident general insurer) or CV 16 (Non-resident shippers) (which relate to non-resident insurers, shippers, and film renters).
+(1) An Australian ICA company has an imputation credit for a payment of income tax relating to the company’s schedular income tax liability for income derived under section CR 3 (Income of non-resident general insurer) or CV 16 (Non-resident shippers).
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 27 (payment of schedular income tax).
 Credit date
@@ -31649,7 +31656,7 @@ Credit date
 
 ### OP 27 Consolidated ICA payment of schedular income tax
 Credit
-(1) A consolidated imputation group that includes an Australian ICA company has an imputation credit for the amount of a payment by the company of schedular income tax for income derived under section CR 3 (Income of non-resident general insurer) or CV 16 (Non-resident shippers) (which relate to non-resident insurers, shippers, and film renters).
+(1) A consolidated imputation group that includes an Australian ICA company has an imputation credit for the amount of a payment by the company of schedular income tax for income derived under section CR 3 (Income of non-resident general insurer) or CV 16 (Non-resident shippers).
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 22 (payment of schedular income tax).
 Credit date
@@ -33792,7 +33799,7 @@ Rates applying
   (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 3:
   (d) if the sum of the amounts is more than $70,000, the amount determined by applying row 4.
 When secondary tax codes apply
-(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under section 24B(3)(bb), (c), (d), or (e)of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
+(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under section 24B(3)(bb), (c), (d), or (e) of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
 Definition of items in formula
 (4) In the formula,—
   (a) extra pay is the amount of the employee's extra pay:
@@ -36413,7 +36420,7 @@ In this Act, unless the context requires otherwise,—
       (ii) is paid by the payer other than in their capacity of settlor, partner, or shareholder of the recipient; and
       (iii) is not income of the recipient, ignoring section CG 8; and
       (iv) is paid, under the express terms and conditions of the agreement, as a contribution for depreciable property owned or to be acquired by the recipient; and
-    (v) if the agreement is a contract of insurance, indemnity, or compensation, is paid in relation to an interruption or impairment of business activities:
+      (v) if the agreement is a contract of insurance, indemnity, or compensation, is paid in relation to an interruption or impairment of business activities:
     (b) is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **capital limitation** is defined in section DA 2(1) (General limitations)
   - **capital property** is defined in section CD 44(18) (Available capital distribution amount) for the purposes of that section
@@ -37813,8 +37820,8 @@ In this Act, unless the context requires otherwise,—
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
       (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
       (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004:
-      (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002
-    (x) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009
+      (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002:
+      (x) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009
   - **logbook term** is defined in section DE 8 (Logbook term)
   - **long-term bailment** is defined in section EC 27 (Some definitions) for the purposes of subpart EC (Valuation of livestock)
   - **look-through company** means an entity––
@@ -38246,7 +38253,7 @@ In this Act, unless the context requires otherwise,—
   - **own** ,—
     (a) for land, means to have an estate or interest in the land, alone or jointly or in common with any other person:
     (b) for the ownership of depreciable property, is defined in sections EE 2 to EE 5 (which relate to depreciation)
-  - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section , and in sections YC 18B and YC 19B (which relate to corporate reorganisations)
+  - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section, and in sections YC 18B and YC 19B (which relate to corporate reorganisations)
   - **owner's associate** is defined in section HB 11(12) (Limitation on deductions by persons with interests in look-through companies) for the purposes of that section
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
   - **paid work**
@@ -38894,8 +38901,8 @@ In this Act, unless the context requires otherwise,—
       (ii) by a share supplier or an associated person for the re-transfer of the original share or an identical share to them; and
     (b) is not a replacement payment
   - **share-lending right** means, for a share supplier under a share-lending arrangement, a conditional or unconditional right to acquire the original share or an identical share under the share-lending arrangement
-  - **share purchase agreement** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income) , EX 38 (Exemption for employee share purchase scheme of grey list company), HC 27B(3B) (Who is a settlor?), and the definition of
-  - **share purchase scheme** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income) and section EX 38 (Exemption for employee share purchase scheme of grey list company)
+  - **share purchase agreement** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income), EX 38 (Exemption for employee share purchase scheme of grey list company), HC 27B(3B) (Who is a settlor?), and the definition of
+  - **share purchase scheme** means a scheme approved for the time being by the Commissioner for the purposes of section DC 12 (Loans to employees under share purchase schemes)
   - **share reorganisation** , in the FIF rules and for a person and an attributing interest in a FIF, means an action of the FIF that causes an increase or reduction, other than for consideration, of the attributing interests held by persons, including the person, who hold attributing interests in the FIF immediately before the action
   - **share supplier** means a person, described as a share supplier, in the definition of , from whom a share user acquires an original share under a returning share transfer
   - **share user** means a person, described as a share user in the definition of , who acquires an original share under a returning share transfer
@@ -39159,7 +39166,7 @@ In this Act, unless the context requires otherwise,—
     (a) a bonus issue in lieu:
     (b) a bonus issue that a company chooses to treat as a dividend under section CD 8 (Elections to make bonus issue into dividend):
     (c) in the case of a bonus issue made before the enactment of this Act, a bonus issue that the company chose to treat as a dividend under a provision of an earlier Act corresponding to section CD 8:
-    (d) a bonus issue that is a dividend under section CD 10 (Bonus issue by foreign unit trust instead of money or property)
+    (d) a bonus issue that is a dividend under section CD 10 (Bonus issue by foreign unit trust instead of money or property):
     (e) a bonus issue that is a share issued under a profit distribution plan
   - **taxable distribution** , for a non-complying trust or a foreign trust, is defined in section HC 15 (Taxable distributions from non-complying and foreign trusts)
   - **taxable income** means taxable income for a tax year calculated under section BC 5 (Taxable income)
@@ -40436,7 +40443,7 @@ For the purposes of section RD 67(a), the amount of tax is determined by applyin
 [Repealed]
 
 ### 3 Interest: general
-If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2.Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.3302The payer of the interest—0.3303The payer of the interest—0.3303BFor a person who chooses the payment rate of 0.390 before 1 April 2010, the payer of the interest—0.3804The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2.Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.3302The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been supplied with the tax file number of a person who opens a new account after 31 March 2010 and who is paid the interest; and
   (b) has not received a payment rate election from the recipient of the interest:
   (c) is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.
@@ -40444,8 +40451,6 @@ If clause 4 does not apply, the payment rate for a payment of resident passive i
   (b) has received a payment rate election from the recipient of the interest––
   (i) before 1 October 2010, choosing the 0.390 or 0.380 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
   (ii) on or after 1 October 2010, choosing the 0.330 payment rate.
-  (a) has been supplied with the tax file number of the person; and
-  (b) has received a payment rate election from the person.
   (a) has been supplied with the tax file number of a person who is paid the interest; and
   (b) has received a payment rate election from the recipient of the interest––
   (i) before 1 October 2010, choosing the 0.330 payment rate, and the payer is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994:
@@ -40475,7 +40480,7 @@ The payment rate for a payment of resident passive income that consists of inter
   (b) has received a payment rate election from the recipient of the interest, choosing the 0.28 payment rate.
   (a) has been supplied with the tax file number of a person who is paid interest; and
   (b) has received a payment rate election from the recipient of the interest,—
-  (i) on or after 1 October 2010, choosing the 0.33 payment rate; or
+  (i) on or after 1 October 2010, choosing the 0.33 payment rate:
   (ii) before 1 October 2010, choosing the 0.39 or 0.38 payment rate.
 
 ### 5 Dividends and replacement payments
@@ -40594,7 +40599,7 @@ If an employee has notified their employer that the employee's tax code is SB un
 | 17–18 mths | 9 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th months, month following final month |
 | 19–20 mths | 10 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th months, month following final month |
 | 21–22 mths | 11 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th, 21st months, month following final month |
-| 23–24 mths | 12 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th, 21st , 23rd months, month following final month |
+| 23–24 mths | 12 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th, 21st, 23rd months, month following final month |
 
 ## Schedule 4 — Rates of tax for schedular payments
 
@@ -51410,7 +51415,7 @@ This Act is the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSa
 (6) Sections 200, 201, and 207(2) are treated as coming into force on 1 April 2007.
 (7) Sections 66, 131, 134, 135, 170, 204, 205, and 206 are treated as coming into force on 1 October 2007.
 (8) Sections 197 and 203 are treated as coming into force on 19 December 2007.
-(9) Sections 5, 10, 11, 17, 25, 26, 27, 30, 31, 36, 37, 38, 42, 52, 53, 54, 55, 57, 58, 59, 60, 61, , 63, 64, 65, 75, 81, 82, 83, 84, 86, 87, 89, 90, 92, 95, 97, 98, 99, 100, 105,106, 107, 108, 112, 116, 117(2), (4), (5), (8), (10), (23), (28), and (33), 118, 119, 121(1), (2), and (4), 127, 128, 130(1) to (3), 136, 138, 145, 195(5), and 211(2) and (4) are treated as coming into force on 1 April 2008.
+(9) Sections 5, 10, 11, 17, 25, 26, 27, 30, 31, 36, 37, 38, 42, 52, 53, 54, 55, 57, 58, 59, 60, 61, 63, 64, 65, 75, 81, 82, 83, 84, 86, 87, 89, 90, 92, 95, 97, 98, 99, 100, 105,106, 107, 108, 112, 116, 117(2), (4), (5), (8), (10), (23), (28), and (33), 118, 119, 121(1), (2), and (4), 127, 128, 130(1) to (3), 136, 138, 145, 195(5), and 211(2) and (4) are treated as coming into force on 1 April 2008.
 (10) Section 195(4) is treated as coming into force on 1 July 2008.
 (11) Section 56 is treated as coming into force on 26 September 2008.
 (12) Sections 6(1), (2), (3), and (5)(b), 20, 21, 28(1) and (5)(b) and 117(9), (18), (22), and (24) are treated as coming into force on 1 January 2009.
