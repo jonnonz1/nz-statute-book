@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-01-01_
+_Consolidation as at 2013-03-29_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -25,7 +25,7 @@ The purposes of this Act are to—
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **adjusted net income** has the meaning given to it in section 88A
+  - **adjusted net income** has the meaning given to it in section 73
   - **annual gross income** has the same meaning as in section BC 2 of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced income as if the borrower were a New Zealand resident
   - **annual repayment threshold** means—
     (a) $19,084 for the tax year commencing on 1 April 2012 and for each subsequent tax year to which regulations referred to in paragraph (b) do not apply; or
@@ -43,17 +43,16 @@ The purposes of this Act are to—
     (a) the loan balance; and
     (b) any unpaid amount; and
     (c) any interest calculated and accrued under section 135(1)
-  - **declaration of pre-taxed income** means a declaration in accordance with section 74
+  - **declaration of adjusted net income** means a declaration in accordance with section 74
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
   - **employer or PAYE intermediary** means an employer or a person acting as a PAYE intermediary for the employer
+  - **end-of-year repayment obligation** means the repayment obligation of a New Zealand-based borrower for the adjusted net income the borrower derives for a tax year, assessed in accordance with sections 76 and 76A and calculated in accordance with section 77 or 78
   - **excess repayment** has the meaning given to it in section 119
   - **extra pay** has the same meaning as in section RD 7 of the Income Tax Act 2007
   - **formally notify** has the meaning given to it in section 213
   - **income tax** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** has the meaning given to it in section 210
-  - **interim payment** means the amount that a borrower is obliged to pay towards, as applicable,—
-    (a) the next tax year's pre-taxed repayment obligation in accordance with section 82 or 83 and section 84 or 85; or
-    (b) the next tax year's other income repayment obligation in accordance with section 95 or 96 and section 97 or 98
+  - **interim payment** means the amount that a borrower is obliged to pay towards the next tax year's end-of-year repayment obligation in accordance with section 82 or 83 and section 84 or 85
   - **late filing penalty** means a penalty imposed under section 155
   - **late payment interest** means interest that a borrower is liable to pay under section 139(1)
   - **lender** means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
@@ -74,16 +73,17 @@ The purposes of this Act are to—
   - **loan contract** means any loan agreement or contract entered into by the lender and the borrower under the student loan scheme
   - **loan interest** means interest that a borrower is liable to pay under section 134(1)
   - **loan manager** means any person who is appointed by the lender to make, charge, and administer loan advances under the student loan scheme
-  - **net pre-taxed income** has the meaning given to it in section 73
+  - **new borrower** , in relation to a tax year, means—
+    (a) a person who becomes a borrower for the first time under the student loan scheme in the period starting on 1 January of the tax year and ending on the close of the last day of the tax year; or
+    (b) a person to whom all of the following apply:
+      (i) the person had been a borrower under the student loan scheme before the tax year; and
+      (ii) the person fully repaid his or her loan before the start of the tax year; and
+      (iii) in the period starting on 1 January of the tax year and ending on the close of the last day of the tax year, the person again became a borrower under the student loan scheme
   - **New Zealand-based** has the meaning given to it in section 22
   - **New Zealand resident** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **non-resident** means a person who is not a New Zealand resident
   - **notify** has the meaning given to it in section 211
   - **notify a person in writing** has the meaning given to it in section 212
-  - **other income** , in relation to a tax year, means,—
-    (a) if a borrower is required to file a return of income for that tax year, the borrower's adjusted net income for that tax year other than from pre-taxed income:
-    (b) if a borrower is required to provide details of his or her annual gross income and annual total deductions under section 114 for that tax year, the borrower's adjusted net income for that tax year other than from pre-taxed income
-  - **other income repayment obligation** means the repayment obligation of a New Zealand-based borrower for the adjusted net income the borrower derives for a tax year, calculated in accordance with section 90 or 91
   - **overseas-based** has the meaning given to it in section 23
   - **overseas-based repayment obligation** means the repayment obligation of an overseas-based borrower under subpart 4 of Part 2
   - **pay period** , for a borrower who receives a payment of salary or wages, means the period for which that payment is payable
@@ -95,7 +95,6 @@ The purposes of this Act are to—
     (c) a taxable Māori authority distribution, as defined in section HF 7 of the Income Tax Act 2007:
     (d) salary or wages from employment as a casual agricultural employee, as defined in section YA 1 of the Income Tax Act 2007:
     (e) salary or wages from employment as an election day worker, as defined in section YA 1 of the Income Tax Act 2007
-  - **pre-taxed repayment obligation** means the repayment obligation of a New Zealand-based borrower for the pre-taxed income the borrower derives for a tax year, calculated in accordance with section 77 or 78
   - **primary employment earnings** has the same meaning as in section 3(1) of the Tax Administration Act 1994, except that it—
     (a) includes an extra pay paid to the borrower in the pay period; but
     (b) does not include—
@@ -104,14 +103,11 @@ The purposes of this Act are to—
   - **provisional tax** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **provisional tax rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **regulations** means regulations made under this Act
-  - **remaining repayment** means the amount that a borrower is obliged to pay towards, as applicable,—
-    (a) a pre-taxed repayment obligation in accordance with section 80 and section 81 or 85:
-    (b) an other income repayment obligation in accordance with section 93 and section 94 or 98
   - **repayment obligation** means the requirements of so much of the following as applies to a borrower for a particular tax year:
     (a) standard deductions:
     (b) Commissioner deductions for the purposes set out in section 49(1)(a):
-    (c) pre-taxed repayment obligation:
-    (d) other income repayment obligation:
+    (c) an end-of-year repayment obligation:
+    (d)
     (e) overseas-based repayment obligation
   - **repayment percentage** means 10% or any other rate prescribed by regulations
   - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
@@ -147,14 +143,13 @@ The purposes of this Act are to—
   - **student loan shortfall penalty** means a student loan shortfall penalty imposed on a borrower by the Commissioner under section 159
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **tax year** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **terminal payment** means the amount that a borrower is obliged to pay in relation to an end-of-year repayment obligation in accordance with section 80 and section 81 or 85
   - **unpaid amount** has the meaning given to it in section 5.
-(2) A reference to a borrower—
-  (a) estimating his or her pre-taxed repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her pre-taxed repayment obligation for a tax year in accordance with section RC 7 of the Income Tax Act 2007, as applied by section 86 and Schedule 3 of this Act; and
-  (b) estimating his or her other income repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her other income repayment obligation for a tax year in accordance with section RC 7 of the Income Tax Act 2007, as applied by section 99 and Schedule 4 of this Act.
+(2) A reference to a borrower estimating his or her end-of-year repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her end-of-year repayment obligation in accordance with section RC 7 of the Income Tax Act 2007, as applied by section 86 and Schedule 4 of this Act.
 
 ### 5 Meaning of unpaid amount
 (1) In this Act, unpaid amount, in relation to a borrower, means each of the following to the extent that it, and any late payment interest that has been added to it under section 139(2), has not been paid on or before its due date and has not been decreased, reduced, or written off by the Commissioner:
-  (a) a remaining repayment:
+  (a) a terminal payment:
   (b) an interim payment default:
   (c) an overseas-based instalment default:
   (d) a consolidated loan balance that is payable as a result of a demand made under a loan contract:
@@ -170,8 +165,8 @@ The purposes of this Act are to—
     (c) in all other cases, has its ordinary meaning
   - **interim payment default** means, as applicable,—
     (a) the lesser of—
-      (i) the difference between 105% of a borrower's pre-taxed repayment obligation or other income repayment obligation for an immediately preceding tax year and the amount of interim payments made for a tax year; and
-      (ii) the difference between a borrower's pre-taxed repayment obligation or other income repayment obligation for a tax year and the amount of interim payments made for that tax year; and
+      (i) the difference between 105% of a borrower's end-of-year repayment obligation for an immediately preceding tax year and the amount of interim payments made for a tax year; and
+      (ii) the difference between a borrower's end-of-year repayment obligation for a tax year and the amount of interim payments made for that tax year; and
       (iii) the difference between the amount of a borrower's interim payments last notified by the Commissioner as due by the third instalment date for a tax year and the amount of the interim payments made for that tax year:
     (b) the amount of any instalment of an interim payment due after the third instalment date that is not paid on or before the due date
   - **overseas-based instalment default** means an instalment of an overseas-based borrower's repayment obligation for a tax year that must be paid in accordance with section 112 or 115(1)(d).
@@ -440,22 +435,22 @@ If the Commissioner treats a borrower as being physically in New Zealand under s
 
 ### 31 Repayment obligations that apply to New Zealand-based borrowers and overseas-based borrowers
 (1) If a borrower—
-  (a) is New Zealand-based, the repayment obligations in subparts 1 to 3 apply to that borrower:
+  (a) is New Zealand-based, the repayment obligations in subparts 1 and 2 apply to that borrower:
   (b) is overseas-based, the repayment obligations in subpart 4 apply to that borrower.
 (2) Subpart 5 applies to a borrower who—
   (a) is New Zealand-based but is a non-resident; or
   (b) is both New Zealand-based and overseas-based during a tax year; or
   (c) is overseas-based but derives salary or wages from New Zealand.
 
-### 32 Interrelationship between subparts 1 to 3
+### 32 Interrelationship between subparts 1 and 2
 (1) This section applies to New Zealand-based borrowers.
 (2) If a borrower derives only salary or wages, subpart 1 applies to that borrower.
-(3) If a borrower derives only pre-taxed income, subpart 2 applies to that borrower.
-(4) If a borrower derives only other income, subpart 3 applies to that borrower.
-(5) If a borrower derives salary or wages, and pre-taxed income, subparts 1 and 2 both apply to the borrower.
-(6) If a borrower derives salary or wages, and other income, subparts 1 and 3 both apply to the borrower.
-(7) If a borrower derives pre-taxed income and other income, subpart 3 applies to the borrower (and subpart 2 does not apply).
-(8) If a borrower derives salary or wages, pre-taxed income, and other income, subparts 1 and 3 both apply to the borrower (and subpart 2 does not apply).
+(3) If a borrower derives only income other than salary or wages, subpart 2 applies to that borrower.
+(4) If a borrower derives income from salary or wages and income other than from salary or wages, subparts 1 and 2 both apply to that borrower.
+(5)
+(6)
+(7)
+(8)
 (9) This section is intended as a guide only.
 
 ### Subpart 1 — New Zealand-based borrowers' repayment obligations for salary or wages
@@ -673,8 +668,8 @@ In sections 54 to 60,—
   (a) is a full-time student in a tax year (year A); and
   (b) reasonably expects that the annual repayment threshold for year A will not be exceeded by his or her—
     (i) gross income from salary or wages; and
-    (ii) in the case of a borrower to whom subpart 2 applies, net pre-taxed income; and
-    (iii) in the case of a borrower to whom subpart 3 applies, adjusted net income.
+    (ii) in the case of a borrower to whom subpart 2 applies, adjusted net income.
+    (iii)
   (c)
 (2) The borrower may obtain an exemption from future standard deductions for an exemption period by making a declaration in accordance with section 55.
 
@@ -809,153 +804,137 @@ Subject to Schedule 2,—
 ### 71 Salary or wage deductions in addition to income tax withheld
 Salary or wage deductions are in addition to amounts of tax for PAYE income payments that are required to be withheld and paid to the Commissioner under the PAYE rules.
 
-### Subpart 2 — New Zealand-based borrowers' repayment obligations for pre-taxed income
+### Subpart 2 — Repayment obligations for New Zealand-based borrowers with income other than, or as well as, salary or wages
 
 ### 72 Application of this subpart
-This subpart applies to New Zealand-based borrowers—
-  (a) who derive $1,500 or more of net pre-taxed income (as defined in section 73) for a tax year; and
-  (b) whose income from net pre-taxed income and salary or wages (if any) for that tax year is $1,500 or more above the annual repayment threshold; and
-  (c) who do not derive other income for that tax year.
+This subpart applies to the following New Zealand-based borrowers, other than new borrowers:
+  (a) borrowers who derive $1,500 or more of adjusted net income for a tax year and who have income from adjusted net income and salary or wages (if any) for that tax year of $1,500 or more above the annual repayment threshold:
+  (b) borrowers to whom paragraph (a) does not apply in relation to a tax year and who—
+    (i) have been required to pay interim payments for that tax year; or
+    (ii) have been issued a default assessment for an end-of-year repayment obligation under section 106 of the Tax Administration Act 1994 for that tax year.
 
-### 73 Meaning of net pre-taxed income
-(1) In this Act, net pre-taxed income, in relation to a borrower for a tax year, means the amount calculated in accordance with the formula—a = b – cwhere—ais the borrower’s net pre-taxed income for the tax yearbis the borrower’s pre-taxed income (as defined in section 4(1)) for the tax yearcis the borrower’s allowable expenses for the tax year.
-(2) However, the pre-taxed income and allowable expenses for any investment activity for a tax year are ignored when calculating a borrower's net pre-taxed income for that tax year if, treating the borrower as having only the pre-taxed income and allowable expenses of that activity, the borrower would have a net loss for that year.
-(3) For the purposes of applying subsection (2), 2 or more investment activities may be treated as a single activity if the Commissioner considers that those investment activities are of a kind that are normally carried on in association with each other.
-(4) For the purposes of applying subsection (2), as modified by subsection (3), allowable expenses that relate to an asset used in carrying on 2 or more investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
-(5) In this section,—
-  - **allowable expenses** means—
-    (a) expenditure or interest for which a person is allowed a deduction under section DB 3, DB 5, or DB 6 of the Income Tax Act 2007:
-    (b) a premium under a policy of income protection insurance for which a person is allowed a deduction under section DA 1 of the Income Tax Act 2007
+### 73 Meaning of adjusted net income
+(1) In this Act, adjusted net income means a borrower's income calculated in accordance with the formula—a = b − cwhere—ais the borrower's adjusted net incomebis the borrower's annual gross income other than from salary or wagescis the borrower's annual total deductions.
+(2) However, the income and deductions for any investment activity, or for any business, for a tax year are ignored when calculating a borrower's adjusted net income for that tax year if, treating the borrower as having only the income and deductions of that investment activity or of that business, the borrower would have a net loss for that year.
+(3) For the purposes of applying subsection (2), 2 or more business or investment activities may be treated as a single activity if the Commissioner considers that those business or investment activities are of a kind that are normally carried on in association with each other.
+(4) For the purposes of applying subsection (2), as modified by subsection (3), deductions that relate to an asset used in carrying on 2 or more business or investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
+(5) Subsections (2) to (4) do not apply to a borrower whose only income for the tax year is from pre-taxed income, or pre-taxed income and salary and wages.
+(6) In this section,—
+  - **business** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **investment activity** has the same meaning as in section MB 3(5) of the Income Tax Act 2007.
 
-**Declaration of pre-taxed income and assessment of pre-taxed repayment obligation**
-
-### 74 Declaration of pre-taxed income
-(1) If this subpart applies to a borrower, the borrower must make a declaration of pre-taxed income.
-(2) The declaration of pre-taxed income must be made—
+### 74 Declaration of adjusted net income
+(1) If this subpart applies to a borrower and the borrower is not required to file a return of his or her income for the tax year or provide details of his or her annual gross income and annual total deductions under section 114, the borrower must make a declaration of the borrower's adjusted net income.
+(2) The declaration of adjusted net income must be made—
   (a) by notifying the Commissioner in a manner acceptable to the Commissioner; and
   (b) on or before—
-    (i) 7 July in the tax year following the tax year in which the pre-taxed income was derived; or
+    (i) 7 July in the tax year following the tax year in which the adjusted net income was derived; or
     (ii) if the borrower has received an extension of time to make the declaration in accordance with section 75, the date on which the borrower is required to make the declaration; or
-    (iii) if the Commissioner has granted a borrower an extension of time to make the declaration (other than in accordance with section 75), the date on which the borrower is required to make the declaration as specified by the Commissioner.
+    (iii) if the Commissioner has granted the borrower an extension of time to make the declaration (other than in accordance with section 75), the date on which the borrower is required to make the declaration as specified by the Commissioner.
 
-### 75 Extension of time for making declaration of pre-taxed income
-A borrower may apply to the Commissioner for an extension of time for the making of a declaration of pre-taxed income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
+### 75 Extension of time for making declaration of adjusted net income
+A borrower may apply to the Commissioner for an extension of time for the making of a declaration of adjusted net income in accordance with section 37(3) to (5) of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if—
   (a) the reference to the due date required under this section were a reference to the due date required under section 74(2)(b)(i) of the Student Loan Scheme Act 2011; and
   (b) every reference to a taxpayer were a reference to a borrower; and
-  (c) every reference to a return or a return of income were a reference to a declaration of pre-taxed income.
+  (c) every reference to a return or a return of income were a reference to a declaration of adjusted net income.
 
-### 76 Commissioner to assess borrower's pre-taxed repayment obligation
-(1) The Commissioner must assess the amount (if any) of a borrower's pre-taxed repayment obligation for a tax year as soon as practicable after the borrower makes his or her declaration of pre-taxed income.
+### 76 Commissioner to assess borrower's end-of-year repayment obligation
+(1) The Commissioner must assess the amount (if any) of a borrower's end-of-year repayment obligation for a tax year as soon as practicable after the borrower provides—
+  (a) his or her return of income for that tax year; or
+  (b) details of his or her annual gross income and annual total deductions under section 114; or
+  (c) his or her declaration of adjusted net income.
 (2) In making the assessment, the Commissioner may have regard to—
-  (a) the borrower's declaration of pre-taxed income; and
+  (a) any document provided under subsection (1):
   (b) any other information that the Commissioner considers to be relevant.
 (3) The assessment must be made in accordance with this subpart and the loan contract.
 (4) Section 203 applies if there is an inconsistency between this subpart and the loan contract.
 (5) The Commissioner must, as soon as practicable after making the assessment, notify the borrower in writing of—
-  (a) the borrower's pre-taxed repayment obligation for the tax year; and
-  (b) the due dates (if any) on or before which the pre-taxed repayment obligation must be paid (see sections 81, 84, and 85); and
-  (c) the amounts (if any) that must be paid on or before those due dates.
+  (a) the borrower's end-of-year repayment obligation; and
+  (b) the due dates, if any, on or before which the end-of-year repayment obligation must be paid (see sections 81, 84, and 85); and
+  (c) the amounts, if any, that must be paid on or before those due dates.
 
-**Calculation of pre-taxed repayment obligation**
+### 76A Commissioner must assess borrowers to whom section 72(b) applies as having zero repayment obligation
+If the Commissioner is satisfied that a borrower meets the criteria in section 72(b), the Commissioner must assess the borrower as having a zero end-of-year repayment obligation for that tax year.
 
-### 77 Calculation of borrower's pre-taxed repayment obligation if salary or wages are less than annual repayment threshold
+### 77 Calculation of borrower's end-of-year repayment obligation if salary or wages less than annual repayment threshold
 (1) Subsection (2) applies if, in relation to a tax year,—
   (a) this subpart applies to a borrower; and
   (b) the gross income that the borrower derived from salary or wages is less than the annual repayment threshold.
-(2) The borrower's pre-taxed repayment obligation for the tax year must be calculated in accordance with the formula—a = b × (c − d)where—ais the borrower's pre-taxed repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from net pre-taxed income and from salary or wages for the tax yeardis the annual repayment threshold.
-(3) If the borrower's pre-taxed repayment obligation for the tax year is zero or less, the borrower has no pre-taxed repayment obligation for the tax year.
+(2) The borrower's end-of-year repayment obligation for the tax year must be calculated in accordance with the formula—a = b × (c − d)where—ais the borrower's end-of-year repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income and from salary or wages for the tax yeardis the annual repayment threshold.
+(3) If the borrower's end-of-year repayment obligation for the tax year is zero or less, the borrower has no end-of-year repayment obligation for the tax year.
 
-### 78 Calculation of borrower's pre-taxed repayment obligation if salary or wages are equal to or more than annual repayment threshold
+### 78 Calculation of borrower's end-of-year repayment obligation where salary or wages equal to or more than annual repayment threshold
 (1) Subsection (2) applies if, in relation to a tax year,—
   (a) this subpart applies to a borrower; and
   (b) the gross income that the borrower derived from salary or wages is equal to or more than the annual repayment threshold.
-(2) The borrower's pre-taxed repayment obligation for the tax year must be calculated in accordance with the formula—a = b × cwhere—ais the borrower's pre-taxed repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from net pre-taxed income for the tax year.
+(2) The borrower’s end-of-year repayment obligation for the tax year must be calculated in accordance with the formula—a = b × cwhere—ais the borrower’s end-of-year repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income for the tax year.
 
-**Payment of pre-taxed repayment obligation**
-
-### 79 Payment of pre-taxed repayment obligation
-(1) A borrower whose pre-taxed repayment obligation for a tax year is greater than zero must pay remaining repayments—
+### 79 Payment of end-of-year repayment obligation
+(1) A borrower whose end-of-year repayment obligation for a tax year is greater than zero must pay a terminal payment—
   (a) calculated in accordance with section 80:
-  (b) on or before the due dates determined in accordance with section 81 or 85.
+  (b) on or before the due date under section 81 or a due date determined by the Commissioner under section 85.
 (2) Subsection (3) applies to a borrower if—
-  (a) the borrower's pre-taxed repayment obligation for a tax year is $1,000 or more; or
-  (b) the borrower has not made a declaration of pre-taxed income for a tax year and the amount of the borrower's pre-taxed income repayment obligation for the immediately preceding tax year was $1,000 or more.
+  (a) the borrower's end-of-year repayment obligation for a tax year is $1,000 or more; or
+  (b) the borrower has not made a declaration of adjusted net income for a tax year, provided a return of income, or provided details of his or her annual gross income and annual gross deductions under section 114 for a tax year, and the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year was $1,000 or more.
 (3) A borrower must also pay interim payments for the next tax year—
   (a) calculated in accordance with section 82 or 83:
   (b) on or before the due dates determined in accordance with section 84 or 85.
-(4) However, a borrower is not liable to make interim repayments for a tax year if the borrower's pre-taxed repayment obligation for that year is less than $1,000.
+(4) However, a borrower is not liable to make interim payments for a tax year if the borrower's end-of-year repayment obligation for that year is less than $1,000.
 
-### 80 Calculation of remaining repayments for tax year
-(1) Subsections (2) and (3) apply—
-  (a) if a borrower has a pre-taxed repayment obligation for a tax year of less than $1,000; or
-  (b) if—
-    (i) a borrower has a pre-taxed repayment obligation for a tax year that is $1,000 or more, but less than $16,000; and
-    (ii) that borrower has not estimated his or her pre-taxed repayment obligation for that tax year.
-(2) The amount of each of a borrower's remaining repayments (for the borrower's pre-taxed repayment obligation for the tax year) is the same and must be calculated in accordance with the formula—a =(b − c) − (d − c)ewhere—ais the amount of each of the borrower's remaining repaymentsbis the borrower's pre-taxed repayment obligation for the tax yearcis the amount of the borrower's interim payments for the tax year calculated in accordance with section 82 or 83dis the sum of any amounts that satisfy (so far as they extend) the borrower's pre-taxed repayment obligation for the tax yeareis,—
-  (a) for a borrower who has a pre-taxed repayment obligation for the tax year of less than $1,000, 1; or
-  (b) for all other borrowers, the number of due dates the borrower has for the next tax year determined in accordance with section 81(4).
-(3) However,—
+### 80 Calculation of terminal payment for tax year
+(1) The amount of a borrower's terminal payment for the tax year must be calculated in accordance with the formula—a = (b – c) – (d – c)where—ais the amount of the borrower's terminal paymentbis the borrower's end-of-year repayment obligation for the tax yearcis the amount of the borrower's interim payments for the tax year in accordance with section 82 or 83dis the sum of any amounts that satisfy (so far as they extend) the borrower's end-of-year repayment obligation for the tax year.
+(2) However,—
   (a) if the sum of (b − c) is less than zero, then it must be treated as if it were zero; and
-  (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero; and
-  (c) if a is not divisible into equal amounts, then the final remaining repayment carries the difference.
-(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's pre-taxed repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's pre-taxed repayment obligation for the tax yearcis the number of due dates the borrower has for the tax year determined in accordance with section 81(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
+  (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero.
 
-### 81 Due dates for payment of remaining repayments
-(1) Subsection (2) applies if a borrower—
-  (a) has a pre-taxed repayment obligation for a tax year that is less than $1,000; or
-  (b) does not have to make interim payments for a tax year.
-(2) The borrower must pay 1 remaining repayment on or before the date in column B, D, or F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that—
-  (a) corresponds to the month of the borrower's balance date; and
-  (b) immediately follows the date on which the borrower is required to file his or her declaration of pre-taxed income for the tax year.
-(3) Subsection (4) applies if—
-  (a) a borrower has a pre-taxed repayment obligation for a tax year that is $1,000 or more, but less than $16,000; and
-  (b) that borrower has not estimated his or her pre-taxed repayment obligation for that tax year.
-(4) The borrower—
-  (a) must make the same number of remaining repayments for a tax year (tax year A) as the number of interim payment dates the borrower has for tax year A; but
-  (b) must pay a remaining repayment on or before each of the interim payment dates that immediately follow the date on which the borrower is required to file his or her declaration of pre-taxed income for tax year A, even though this may require those payments to be made in tax year A and in the tax year following tax year A.
-(5) If subsections (2) and (4) do not apply, a borrower must pay a remaining repayment for a tax year on or before—
-  (a) each of the interim payment dates for the same tax year; or
-  (b) if the borrower does not have to make interim payments for the tax year, each of the interim payment dates that would have applied for the tax year if the borrower had to make interim payments for the tax year.
-(6) In this section, interim payment dates means the dates determined in accordance with section 84 or 85 on which a borrower must pay his or her interim payments.
+### 81 Due date for terminal payment
+A borrower must pay his or her terminal payment on or before the borrower's terminal tax date, as defined in section YA 1 of the Income Tax Act 2007, for the tax year.
 
 ### 82 Calculation of interim payments for next tax year
-(1) If a borrower has not estimated his or her pre-taxed repayment obligation for a tax year and the borrower's uplifted pre-taxed repayment obligation for the tax year is less than $16,000, then the amount of each of the borrower's interim payments for the tax year may vary and must be calculated separately in accordance with the formula— a = b × c − edwhere—ais the amount of the borrower's interim paymentbis the amount of the borrower's uplifted pre-taxed repayment obligation for the tax yearcis a number reflecting which of the interim payments for the tax year is being calculated (for example, 2 if the second interim payment for the tax year is being calculated)dis the total number of interim payment due dates the borrower has for the tax yeareis the aggregate amount of all of the borrower's interim payments for the tax year that were due before the interim payment being calculated.
-(2) If a borrower has estimated his or her pre-taxed repayment obligation for a tax year or the borrower's uplifted pre-taxed repayment obligation for the tax year is $16,000 or more, the amount of each of the borrower's interim payments for the tax year is calculated in accordance with the formula—a = bcwhere—ais the amount of the borrower's interim paymentbis, as applicable,—cis the total number of interim payment due dates the borrower has for the tax year.
-  (a) the amount of the borrower's estimated pre-taxed repayment obligation for the tax year; or
-  (b) the amount of the borrower's uplifted pre-taxed repayment obligation for the tax year
-(3) For the purposes of this section, the total number of interim payment due dates a borrower has is determined by reference to the number of interim payments the borrower must make as determined in accordance with section 84 or 85.
-(4) If the total amount of the borrower's interim payments calculated in accordance with subsection (1) or (2) for a tax year is not divisible into equal amounts, then the final interim payment carries the difference.
-(5) In this section, uplifted pre-taxed repayment obligation—
+(1) The amount of each of the borrower's interim payments for the tax year may vary and must be calculated separately in accordance with the formula—a = b × (c ÷ d) − ewhere—ais the amount of the borrower's interim paymentbis, as applicable,—cis a number reflecting which of the interim payments for the tax year is being calculated (for example, 2 if the second interim payment for the tax year is being calculated)dis the total number of interim payment due dates the borrower has for the tax yeareis the aggregate amount of all of the borrower's interim payments for the tax year that were due before the interim payment being calculated.
+  (i) the amount of the borrower's estimated end-of-year repayment obligation for the tax year; or
+  (ii) the amount of the borrower's uplifted end-of-year repayment obligation for the tax year
+(2) For the purposes of this section, the total number of interim payment due dates a borrower has is determined by reference to the number of interim payments the borrower must make as determined in accordance with section 84 or 85.
+(3) In this section, uplifted end-of-year repayment obligation—
   (a) means—
-    (i) the amount of the borrower's pre-taxed repayment obligation for the immediately preceding tax year multiplied by 105%; or
-    (ii) if the borrower did not make a declaration of pre-taxed income for the immediately preceding tax year, the amount of the borrower's pre-taxed repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
+    (i) the amount of the borrower's end-of-year repayment obligation for the immediately preceding tax year multiplied by 105%; or
+    (ii) if the borrower did not make a declaration of adjusted net income for the immediately preceding tax year, the amount of the borrower's end-of-year repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
   (b) the amount calculated in accordance with paragraph (a) must not exceed the sum of the borrower's loan balance on 1 April of the relevant tax year plus any loan advances made or charged to the borrower for that tax year after that date.
+(4) For the purposes of subsection (3)(b), the borrower's loan balance on 1 April of the relevant tax year must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 
-### 83 Commissioner may assess interim payments if declaration for preceding year not made
-(1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if the borrower did not make a declaration of pre-taxed income for the immediately preceding tax year.
+### 83 Commissioner may assess interim payments if information for preceding year not provided
+(1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide—
+  (a) his or her return of income; or
+  (b) details of his or her annual gross income and annual total deductions under section 114; or
+  (c) his or her declaration of adjusted net income under section 74.
 (2) Section 82 does not apply if the Commissioner makes an assessment in accordance with subsection (1).
 
 ### 84 Due dates for payment of interim payments
-(1) If a borrower is in a transitional year, the borrower must pay an interim payment on or before each of the dates on which the borrower's provisional tax for that tax year is due in accordance with the provisional tax rules.
-(2) If a borrower is not in a transitional year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
-(3) In this section, transitional year has the same meaning as in section YA 1 of the Income Tax Act 2007.
+(1) A borrower must pay an interim payment for a tax year on or before each of the dates on which the borrower must pay his or her provisional tax for that tax year in accordance with the provisional tax rules.
+(2) However,—
+  (a) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
+  (b) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are every second date in the table headed GST ratio provisional taxpayers in Part B of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date, except that—
+    (i) if the borrower has only 1 payment date, the borrower has only 1 due date; and
+    (ii) if the borrower has an odd number of payment dates, then the last payment date does not apply to the borrower:
+  (c) if a borrower does not pay provisional tax for a tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
+  (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012–2013 tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
+(3) In this section, GST ratio and transitional year have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 ### 85 Commissioner's powers in relation to due dates
-(1) The Commissioner may determine the dates on or before which a borrower must pay his or her remaining repayments or interim payments for a tax year if—
-  (a) the borrower requests the Commissioner to determine the borrower's due dates; or
+(1) The Commissioner may determine the dates on or before which a borrower must pay his or her terminal payment or interim payments for a tax year if—
+  (a) the borrower requests the Commissioner to determine the borrower's terminal payment due date or interim payment due dates; or
   (b) the Commissioner considers it necessary or appropriate in the circumstances.
-(2) The dates determined by the Commissioner under subsection (1) may differ from the dates specified in sections 81 and 84.
-(3) If the Commissioner determines the dates on or before which a borrower must pay his or her remaining repayments or interim payments for a tax year,—
+(2) The dates determined by the Commissioner under subsection (1) may differ from the dates specified in section 81 or 84.
+(3) If the Commissioner determines the dates on or before which a borrower must pay his or her terminal payment or interim payments for a tax year,—
   (a) the Commissioner must, as soon as practicable, notify the borrower in writing—
     (i) of that fact; and
     (ii) of the dates determined by the Commissioner; and
-  (b) the amount of those remaining repayments or interim payments must be calculated by reference to those dates.
+  (b) the amount of the terminal payment or the interim payments must be calculated by reference to those dates.
 (4) This section overrides sections 81 and 84.
 
 ### 86 Interim payments to be paid in same manner as provisional tax
-Subject to Schedule 3,—
-  (a) interim payments for a borrower's pre-taxed repayment obligation for a tax year are payable in the same manner as provisional tax; and
+Subject to Schedule 4,—
+  (a) interim payments for a borrower's end-of-year repayment obligation for a tax year are payable in the same manner as provisional tax; and
   (b) a borrower must comply with the requirements of the provisional tax rules.
 
 ### 87 Consequence of failure to meet repayment obligations
@@ -964,146 +943,52 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 ### Subpart 3 — New Zealand-based borrowers' repayment obligations for other income
 
 ### 88 Application of this subpart
-This subpart applies to New Zealand-based borrowers who derive other income.
+[Repealed]
 
 ### 88A Meaning of adjusted net income
-(1) In this Act, adjusted net income means a borrower's income calculated in accordance with the formula—a = b – cwhere—ais the borrower's adjusted net incomebis the borrower's annual gross income other than from salary or wagescis the borrower's annual total deductions.
-(2) However, the income and deductions for any investment activity, or for any business, for a tax year are ignored when calculating a borrower's adjusted net income for that tax year if, treating the borrower as having only the income and deductions of that investment activity or of that business, the borrower would have a net loss for that year.
-(3) For the purposes of applying subsection (2), 2 or more business or investment activities may be treated as a single activity if the Commissioner considers that those business or investment activities are of a kind that are normally carried on in association with each other.
-(4) For the purposes of applying subsection (2), as modified by subsection (3), deductions that relate to an asset used in carrying on 2 or more business or investment activities must be appropriately apportioned between those activities on the basis of the use of that asset in those activities.
-(5) In this section,—
-  - **business** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **investment activity** has the same meaning as in section MB 3(5) of the Income Tax Act 2007.
+[Repealed]
 
 **Assessment of other income repayment obligation**
 
 ### 89 Commissioner to assess borrower's other income repayment obligation
-(1) The Commissioner must assess the amount (if any) of a borrower's other income repayment obligation for a tax year as soon as practicable after the borrower provides—
-  (a) his or her return of income for that tax year; or
-  (b) details of his or her annual gross income and annual total deductions under section 114.
-(2) In making the assessment, the Commissioner may have regard to—
-  (a) a return of income; and
-  (b) the details of a borrower's annual gross income and annual total deductions provided to the Commissioner under section 114; and
-  (c) any other information that the Commissioner considers to be relevant.
-(3) The assessment must be made in accordance with this subpart and the loan contract.
-(4) Section 203 applies if there is an inconsistency between this subpart and the loan contract.
-(5) The Commissioner must, as soon as practicable after making the assessment, notify the borrower in writing of—
-  (a) the borrower's other income repayment obligation for the tax year; and
-  (b) the due dates (if any) on or before which the other income repayment obligation must be paid (see sections 94, 97, and 98); and
-  (c) the amounts (if any) that must be paid on or before those due dates.
+[Repealed]
 
 **Calculation of other income repayment obligations**
 
 ### 90 Calculation of borrower's other income repayment obligation where salary or wages below threshold
-(1) Subsection (2) applies if, in relation to a tax year,—
-  (a) this subpart applies to a borrower; and
-  (b) the gross income that the borrower derived from salary or wages is less than the annual repayment threshold.
-(2) The borrower’s other income repayment obligation for the tax year must be calculated in accordance with the formula—a = b × (c – d)where—ais the borrower’s other income repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income and from salary or wages for the tax yeardis the annual repayment threshold.
-(3) If the borrower’s other income repayment obligation for the tax year is zero or less, the borrower has no other income repayment obligation for the tax year.
+[Repealed]
 
 ### 91 Calculation of borrower's other income repayment obligation where salary or wages equal to or above threshold
-(1) Subsection (2) applies if, in relation to a tax year,—
-  (a) this subpart applies to a borrower; and
-  (b) the gross income that the borrower derived from salary or wages is equal to or more than the annual repayment threshold.
-(2) The borrower’s other income repayment obligation for the tax year must be calculated in accordance with the formula—a = b × cwhere—ais the borrower’s other income repayment obligation for the tax yearbis the repayment percentagecis the income that the borrower derives from adjusted net income for the tax year.
+[Repealed]
 
 **Payment of other income repayment obligations**
 
 ### 92 Payment of other income repayment obligations
-(1) A borrower whose other income repayment obligation for a tax year is greater than zero must pay remaining repayments—
-  (a) calculated in accordance with section 93:
-  (b) on or before the due dates determined in accordance with section 94 or 98.
-(2) Subsection (3) applies to a borrower if—
-  (a) the borrower's other income repayment obligation for a tax year is $1,000 or more; or
-  (b) the borrower has not provided a return of income or details of his or her annual gross income and annual total deductions under section 114 for a tax year (see section 89) and the amount of the borrower's other income repayment obligation for the immediately preceding tax year was $1,000 or more.
-(3) A borrower must also pay interim payments for the next tax year—
-  (a) calculated in accordance with section 95 or 96:
-  (b) on or before the due dates determined in accordance with section 97 or 98.
-(4) However, a borrower is not liable to make interim repayments for a tax year if the borrower's other income repayment obligation for that year is less than $1,000.
+[Repealed]
 
 ### 93 Calculation of remaining repayments for tax year
-(1) Subsections (2) and (3) apply—
-  (a) if a borrower has an other income repayment obligation for a tax year of less than $1,000; or
-  (b) if—
-    (i) a borrower has an other income repayment obligation for a tax year that is $1,000 or more, but less than $16,000; and
-    (ii) that borrower has not estimated his or her other income repayment obligation for that tax year.
-(2) The amount of each of a borrower's remaining repayments (for the borrower's other income repayment obligation for the tax year) is the same and must be calculated in accordance with the formula—a =(b − c) − (d − c)ewhere—ais the amount of each of the borrower's remaining repaymentsbis the borrower's other income repayment obligation for the tax yearcis the total amount of the borrower's interim payments for the tax year calculated in accordance with section 95 or 96dis the sum of any amounts that satisfy (so far as they extend) the borrower's other income repayment obligation for the tax yeareis,—
-  (a) for a borrower who has an other income repayment obligation for the tax year of less than $1,000, 1; or
-  (b) for all other borrowers, the number of due dates the borrower has for the next tax year determined in accordance with section 94(4).
-(3) However,—
-  (a) if the sum of (b − c) is less than zero, then it must be treated as if it were zero; and
-  (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero; and
-  (c) if a is not divisible into equal amounts, then the final remaining repayment carries the difference.
-(4) If subsections (2) and (3) do not apply, then the amount of each of a borrower's remaining repayments (for the borrower's other income repayment obligation for the tax year) may vary and must be calculated separately in accordance with the formula—a =b − dcwhere—ais the amount of the borrower's remaining repaymentbis the borrower's other income repayment obligation for the tax yearcis the number of due dates the borrower has for the tax year determined in accordance with section 94(5)dis the amount that, as at the due date of the remaining repayment, has been used to satisfy (so far as it extends) the interim payment due on the same date.
+[Repealed]
 
 ### 94 Due dates for payment of remaining repayments
-(1) Subsection (2) applies if a borrower—
-  (a) has an other income repayment obligation for a tax year that is less than $1,000; or
-  (b) does not have to make interim payments for a tax year.
-(2) The borrower must pay 1 remaining repayment on or before the date in column B, D, or F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that—
-  (a) corresponds to the month of the borrower's balance date; and
-  (b) immediately follows the date on which the borrower is required to file his or her return of income, or his or her notification of gross income and deductions under section 114 or 114A, for the tax year.
-(3) Subsection (4) applies if—
-  (a) a borrower has an other income repayment obligation for a tax year that is $1,000 or more, but less than $16,000; and
-  (b) that borrower has not estimated his or her other income repayment obligation for that tax year.
-(4) The borrower—
-  (a) must make the same number of remaining repayments for a tax year (tax year A) as the number of interim payment dates the borrower has for tax year A; but
-  (b) must pay a remaining repayment on or before each of the interim payment dates that immediately follow the date on which the borrower is required to file his or her return of income, or his or her notification of gross income and deductions under section 114 or 114A, for tax year A, even though this may require those payments to be made in tax year A and in the tax year following tax year A.
-(5) If subsections (2) and (4) do not apply, a borrower must pay a remaining repayment for a tax year on or before—
-  (a) each of the interim payment dates for the same tax year; or
-  (b) if the borrower does not have to make interim payments for the tax year, each of the interim payment dates that would have applied for the tax year if the borrower had to make interim payments for the tax year.
-(6) In this section, interim payment dates means the dates determined in accordance with section 97 or 98 on which a borrower must pay his or her interim payments.
+[Repealed]
 
 ### 95 Calculation of interim payments for next tax year
-(1) If a borrower has not estimated his or her other income repayment obligation for a tax year and the borrower's uplifted other income repayment obligation for the tax year is less than $16,000, then the amount of each of the borrower's interim payments for the tax year may vary and must be calculated separately in accordance with the formula— a = b × c − edwhere—ais the amount of the borrower's interim paymentbis the amount of the borrower's uplifted other income repayment obligation for the tax yearcis a number reflecting which of the interim payments for the tax year is being calculated (for example, 2 if the second interim payment for the tax year is being calculated)dis the total number of interim payment due dates the borrower has for the tax yeareis the aggregate amount of all of the borrower's interim payments for the tax year that were due before the interim payment being calculated.
-(2) If a borrower has estimated his or her other income repayment obligation for a tax year or the borrower's uplifted other income repayment obligation for the tax year is $16,000 or more, the amount of each of the borrower's interim payments for the tax year is calculated in accordance with the formula—a =bcwhere—ais the amount of the borrower's interim paymentbis, as applicable,—cis the total number of interim payment due dates the borrower has for the tax year.
-  (a) the amount of the borrower's estimated other income repayment obligation for the tax year; or
-  (b) the amount of the borrower's uplifted other income repayment obligation for the tax year
-(3) For the purposes of this section, the total number of interim payment due dates a borrower has is determined by reference to the number of interim payments the borrower must make as determined in accordance with section 97 or 98.
-(4) If the total amount of the borrower's interim payments calculated in accordance with subsection (1) or (2) for a tax year is not divisible into equal amounts, then the final interim payment carries the difference.
-(5) In this section, uplifted other income repayment obligation—
-  (a) means—
-    (i) the amount of the borrower's other income repayment obligation for the immediately preceding tax year multiplied by 105%; or
-    (ii) if the borrower did not provide a return of income or details of his or her annual gross income and annual total deductions under section 114 for the immediately preceding tax year (see section 89), the amount of the borrower's other income repayment obligation for the year before the immediately preceding tax year multiplied by 110%; but
-  (b) the amount calculated in accordance with paragraph (a) must not exceed the sum of the borrower's loan balance on 1 April of the relevant tax year plus any loan advances made or charged to the borrower for that tax year after that date.
+[Repealed]
 
 ### 96 Commissioner may assess interim payments if information for preceding year not provided
-(1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in section RC 6(3) of the Income Tax Act 2007 if the borrower did not provide, for the immediately preceding tax year (see section 89),—
-  (a) his or her return of income; or
-  (b) details of his or her annual gross income and annual total deductions under section 114.
-(2) Section 95 does not apply if the Commissioner makes an assessment in accordance with subsection (1).
+[Repealed]
 
 ### 97 Due dates for payment of interim payments
-(1) A borrower must pay an interim payment for a tax year on or before each of the dates on which the borrower must pay his or her provisional tax for that tax year in accordance with the provisional tax rules.
-(2) However,—
-  (a) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
-  (b) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are every second date in the table headed “GST ratio provisional taxpayers” in Part B of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date except that—
-    (i) if the borrower only has 1 payment date, the borrower only has 1 due date; and
-    (ii) if the borrower has an odd number of payment dates, then the last payment date does not apply to the borrower:
-  (c) if a borrower does not pay provisional tax for a tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
-  (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012–13 tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
-(3) In this section, GST ratio and transitional year have the same meaning as in section YA 1 of the Income Tax Act 2007.
-(4) Subsection (2)(d) is repealed on the close of 31 March 2014.
+[Repealed]
 
 ### 98 Commissioner's powers in relation to due dates
-(1) The Commissioner may determine the dates on or before which a borrower must pay his or her remaining repayments or interim payments for a tax year if—
-  (a) the borrower requests the Commissioner to determine the borrower's due dates; or
-  (b) the Commissioner considers it necessary or appropriate in the circumstances.
-(2) The dates determined by the Commissioner under subsection (1) may differ from the dates specified in sections 94 and 97.
-(3) If the Commissioner determines the dates on or before which a borrower must pay his or her remaining repayments or interim payments for a tax year,—
-  (a) the Commissioner must, as soon as practicable, notify the borrower in writing—
-    (i) of that fact; and
-    (ii) of the dates determined by the Commissioner; and
-  (b) the amount of those remaining repayments or interim payments must be calculated by reference to those dates.
-(4) This section overrides sections 94 and 97.
+[Repealed]
 
 ### 99 Interim payments to be paid in same manner as provisional tax
-Subject to Schedule 4,—
-  (a) interim payments for a borrower's other income repayment obligation for a tax year are payable in the same manner as provisional tax; and
-  (b) a borrower must comply with the requirements of the provisional tax rules.
+[Repealed]
 
 ### 100 Consequence of failure to meet repayment obligations
-A borrower may be liable to pay late payment interest if the borrower does not meet his or her repayment obligations under this subpart (see section 139(1)).
+[Repealed]
 
 **Reduction of deduction rate for borrower with lower repayment obligation**
 
@@ -1214,18 +1099,24 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
   (b) section 193.
 (4) This section overrides section 110.
 (5) In this section, loan balance means,—
-  (a) for the first tax year during a period when section 110 applies to a borrower, the borrower's loan balance on the date on which that section first applies to the borrower in that period; and
+  (a) for the first tax year during a period when section 110 applies to a borrower, the sum determined by—
+    (i) including the borrower's loan balance on the day on which that section first applies to the borrower in that period; and
+    (ii) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day; and
   (b) for each subsequent tax year (year A) during that period, the sum determined by—
     (i) including the amount of the borrower's loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
-    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
+    (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year; and
+    (iv) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 
 ### 112 Repayment to be made by instalments
 (1) A borrower's overseas-based repayment obligation for a tax year must be paid by the borrower as follows:
   (a) half of the total amount must be paid in the tax year on or before 30 September:
   (b) the other half of the total amount must be paid in the tax year on or before 31 March.
 (2) If the total amount payable is not divisible into equal amounts, then the final payment carries the difference.
-(3) However, a borrower’s overseas-based repayment obligation for a tax year must be paid by the borrower in instalments as determined by the Commissioner if any repayment holiday granted to the borrower under section 107B or continued under section 108A(2) ends part-way through the tax year.
+(3) However, the Commissioner may determine the dates on or before which a borrower must pay instalments of his or her overseas-based repayment obligations, and the amount of those instalments, if the Commissioner considers it necessary or appropriate in the circumstances.
+(4) If the Commissioner makes a determination under subsection (3), the Commissioner must, as soon as practicable, notify the borrower in writing—
+  (a) of that fact; and
+  (b) of the dates and the amounts determined by the Commissioner.
 
 ### 113 Consequence of failure to meet repayment obligations
 A borrower may be liable to pay late payment interest if the borrower does not meet his or her repayment obligations under this subpart (see section 139(1)).
@@ -1236,7 +1127,7 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 (1) This section applies to a New Zealand-based borrower who is a non-resident.
 (2) For each tax year and each part of a tax year to which this section applies to a borrower, the borrower must notify the Commissioner, in a manner acceptable to the Commissioner, of the borrower's annual gross income and annual total deductions.
 (3) The borrower must notify the Commissioner at the time when, if the borrower were a New Zealand resident, he or she would have had to provide—
-  (a) a declaration of pre-taxed income; or
+  (a) a declaration of adjusted net income; or
   (b) a return of income for a tax year.
 (4) The Commissioner may require the borrower to provide evidence of the borrower's annual gross income and annual total deductions.
 
@@ -1249,8 +1140,8 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 
 ### 115 Repayment obligations of borrowers who are overseas-based for part of tax year
 (1) If a borrower is both New Zealand-based and overseas-based during a tax year,—
-  (a) subparts 1 to 3 apply to the borrower for the period in the tax year during which he or she is New Zealand-based (the New Zealand-based period), except that, for the purposes of subparts 2 and 3, the amount of the annual repayment threshold for the tax year must be proportionately decreased to the same proportion as the number of days in the New Zealand-based period bears to the number of days in a year; and
-  (b) only the income that the borrower derived during the period that the borrower was New Zealand-based during the year must be taken into account when calculating the borrower’s repayment obligation under subparts 1 to 3; and
+  (a) subparts 1 and 2 apply to the borrower for the period in the tax year during which he or she is New Zealand-based (the New Zealand-based period), except that, for the purposes of subpart 2, the amount of the annual repayment threshold for the tax year must be proportionately decreased to the same proportion as the number of days in the New Zealand-based period bears to the number of days in a year; and
+  (b) only the income that the borrower derived during the period that the borrower was New Zealand-based during the year must be taken into account when calculating the borrower’s repayment obligation under subparts 1 and 2; and
   (c) section 110(4) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and is not entitled to a repayment holiday (as defined in section 106); and
   (d) the borrower's overseas-based repayment obligation is payable in instalments as determined by the Commissioner.
 (2) Subsection (1) applies despite anything to the contrary in this Act.
@@ -1288,8 +1179,8 @@ In this Part, unless the context otherwise requires,—
       (i) a significant over-deduction; or
       (ii) a standard deduction or Commissioner deduction for the purposes set out in section 49(1)(a) made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand; and
     (c) any Commissioner deductions for the purposes set out in section 49(1)(a) that were deducted in the tax year; and
-    (d) any other income repayment obligations for the tax year; and
-    (e) any pre-taxed repayment obligation for the tax year; and
+    (d) any end-of-year repayment obligation for the tax year; and
+    (e)
     (f) any overseas-based repayment obligation for the tax year; and
     (g) any amount that must be paid by a borrower in accordance with a written notification under section 52 for the tax year; and
     (h) penalties imposed under subpart 3 of Part 4
@@ -1480,15 +1371,15 @@ No interest is payable on—
 ### 144 Power of Commissioner in relation to small amounts
 (1) The Commissioner may refrain from—
   (a) issuing a notice of assessment in relation to a repayment obligation that is payable by a borrower for a tax year if the amount payable is less than $20; or
-  (b) issuing a notice of assessment if the total amount of a borrower's remaining repayments for a tax year is less than $20; or
-  (c) collecting a repayment obligation that is payable by a borrower for a tax year if the amount payable is less than $20; or
-  (d) collecting 1 or more remaining repayments that are payable by a borrower for a tax year if the total amount of the borrower's remaining repayments payable for the tax year is less than $20; or
+  (b)
+  (c) collecting a repayment obligation (or part of a repayment obligation) that is payable by a borrower for a tax year if the amount payable is less than $20; or
+  (d)
   (e) collecting, and may write-off, any amount that is payable by an employer or PAYE intermediary for any period under this Act if the amount payable is $20 or less.
 (2) The Commissioner may refrain from collecting payment of a repayment obligation (or part of a repayment obligation) if that repayment obligation (or part of a repayment obligation)—
-  (a) is more than $20 but less than $334; and
+  (a) is $20 or more but less than $334; and
   (b) has not been paid by the due date (as that term is defined in section 5(2)).
 (3) Any amount that the Commissioner refrains from collecting—
-  (a) under subsection (1)(c) or (d) is not written off, and remains part of the borrower's loan balance:
+  (a) under subsection (1)(c) is written off:
   (b) under subsection (2) is not written off, and is added to the borrower's loan balance.
 (4) This section applies despite anything to the contrary in this Act.
 
@@ -1588,15 +1479,13 @@ A borrower who applies for hardship relief under section 145(1)(b) must notify t
   (b) between $100,000 and $1,000,000 (both figures inclusive) is $250:
   (c) above $1,000,000 is $500.
 (4) A borrower is not liable to pay a late filing penalty under both this section and under section 139A of the Tax Administration Act 1994 for the same declaration.
-(5) In this section and section 156, declaration means—
-  (a) a declaration of pre-taxed income:
-  (b) a notification of a borrower's annual gross income and annual total deductions under section 114.
+(5) In this section, declaration means a declaration of adjusted net income.
 
 ### 156 Due dates for payment of late filing penalty
 A borrower who is liable to pay a late filing penalty must pay that penalty on or before the later of the following dates:
   (a) the date that is 60 days after the date of the notification or notice given to the borrower under section 155(1):
-  (b) if the borrower does not have an extension of time to make a declaration under section 75 or 114A, the date in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
-  (c) if the borrower does have an extension of time to make a declaration under section 75 or 114A, the date in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
+  (b) if the borrower does not have an extension of time to make a declaration under section 75, the date in column B of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
+  (c) if the borrower does have an extension of time to make a declaration under section 75, the date in column F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
 
 **Student loan shortfall penalties**
 
@@ -1604,7 +1493,7 @@ A borrower who is liable to pay a late filing penalty must pay that penalty on o
 In this section and sections 158 to 161,—
   - **incorrect tax position** has the meaning given to it in section 158(b)
   - **repayment obligation shortfall** , for a tax year, means the difference between the effect of—
-    (a) a borrower's income tax position on his or her other income repayment obligation for the tax year; and
+    (a) a borrower's income tax position on his or her end-of-year repayment obligation for the tax year; and
     (b) the correct tax position on that repayment obligation for the tax year
   - **shortfall penalty** means a penalty imposed under any of sections 141A to 141E of the Tax Administration Act 1994 for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections.
 
@@ -1805,14 +1694,15 @@ A challenge under this subpart may be made only by or on behalf of the person to
 
 ### 190 Tax year other than 12 months due to change in balance date
 (1) This section applies if a borrower—
-  (a) derives pre-taxed income, other income, or both; and
+  (a) derives adjusted net income; and
   (b) that income is for a period other than 12 months as a result of the borrower changing his or her balance date for the purposes of income tax.
-(2) For the purposes of calculating the borrower's repayment obligations under subparts 2 and 3 of Part 2, the annual repayment threshold is calculated in accordance with the formula—a = b × c365where—ais the annual repayment threshold calculated in accordance with this section:bis the amount of the annual repayment threshold:cis the number of days in the period.
+(2) For the purposes of calculating the borrower's repayment obligations under subpart 2 of Part 2, the annual repayment threshold is calculated in accordance with the formula—a = b × c365where—ais the annual repayment threshold calculated in accordance with this section:bis the amount of the annual repayment threshold:cis the number of days in the period.
 
 ### 191 Limit on repayment obligation for pay period or tax year
 (1) If a borrower derives only salary or wages for a tax year, the borrower's repayment obligation for a pay period in that tax year must not exceed the amount of the borrower's loan balance on the last day of the month in which the pay period falls.
-(2) If a borrower derives pre-taxed income or other income for a tax year, the borrower's pre-taxed repayment obligation or other income repayment obligation for that tax year must not exceed the amount of the borrower's loan balance on the last day of that tax year.
+(2) If a borrower derives adjusted net income for a tax year, the borrower's end-of-year repayment obligation for that tax year must not exceed the amount of the borrower's loan balance on the last day of that tax year.
 (3) Section 111(2) applies to overseas-based borrowers.
+(3A) For the purposes of subsections (1) and (2), the amount of the borrower's loan balance on the day referred to in each of those provisions must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
 (4) This section applies despite anything to the contrary in this Act.
 
 ### 192 Payment date not otherwise specified
@@ -1863,7 +1753,7 @@ A salary or wage deduction or payment received by the Commissioner in respect of
   (b) all other payments are credited on the day after the date on which they are received by the Commissioner.
 (4) Other than for the purposes set out in subsection (3),—
   (a) a salary or wage deduction is credited on the last day of the month in which the deduction is made; and
-  (b) a payment made by a New Zealand-based borrower (excluding a salary or wage deduction) for a tax year is credited at the time when the Commissioner assesses the borrower's pre-taxed repayment obligation or other income repayment obligation for that tax year; and
+  (b) a payment made by a New Zealand-based borrower (excluding a salary or wage deduction) for a tax year is credited at the time when the Commissioner assesses the borrower's end-of-year repayment obligation for that tax year; and
   (c) a payment made by an overseas-based borrower (excluding a salary or wage deduction) is credited on the date it is received by the Commissioner.
 
 ### 196 Cancellation of interest if consolidated loan balance repaid early
@@ -1910,7 +1800,7 @@ Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106
   (a) every reference to a taxpayer or a person were a reference to a borrower; and
   (b) every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) every reference to income tax were a reference to a repayment obligation; and
-  (d) every reference to a return were a reference to, as applicable, a declaration of pre-taxed income or a notification of a borrower's annual gross income and annual total deductions under section 114.
+  (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's annual gross income and annual total deductions under section 114.
 
 ### Subpart 2 — Miscellaneous matters
 
@@ -2204,10 +2094,7 @@ A borrower who makes an application under section 25(1)(j) must—
 
 ## Schedule 3 — Application of provisional tax rules for purposes of section 86
 
-| Compare: 1992 No 141 s 28 |
-| --- |
-
-## Schedule 4 — Application of provisional tax rules for purposes of section 99
+## Schedule 4 — Application of provisional tax rules for purposes of section 86
 
 | Compare: 1992 No 141 s 28 |
 | --- |
@@ -2301,8 +2188,12 @@ If an employer or PAYE intermediary pays an amount to a borrower by way of salar
 
 ### 12 Instalment arrangements
 (1) This clause applies if—
-  (a) a borrower has entered into an instalment arrangement with the Commissioner on or before 31 March 2012 in relation to an amount (the instalment amount) that must be paid under the Student Loan Scheme Act 1992; and
-  (b) some of the payments that are required under the instalment arrangement must be paid on or after 1 April 2012.
+  (a) a borrower—
+    (i) has entered into an instalment arrangement with the Commissioner on or before 31 March 2012 in relation to an amount (the instalment amount) that must be paid under the Student Loan Scheme Act 1992; and
+    (ii) some of the payments that are required under the instalment arrangement must be paid on or after 1 April 2012; or
+  (b) a borrower—
+    (i) has entered into an instalment arrangement with the Commissioner under this Act between 1 April 2012 and 31 March 2013 (inclusive) in relation to an amount (the instalment amount) that must be paid under this Act; and
+    (ii) some of the payments that are required under the instalment arrangement must be paid on or after 1 April 2013.
 (2) If all of the payments that are required under the instalment arrangement are paid on or before their due date,—
   (a) all late payment penalties that apply to the instalment amount under the Student Loan Scheme Act 1992 must be written off by the Commissioner; and
   (b) all late payment interest that applies to the instalment amount under this Act must be written off by the Commissioner.
@@ -2323,9 +2214,9 @@ If an employer or PAYE intermediary pays an amount to a borrower by way of salar
   (a) as if it were the thing that was required by, or referred to in, the new Act requirement; and
   (b) with all necessary modifications; and
   (c) despite any difference in terminology between this Act and the Student Loan Scheme Act 1992.
-(3) For example, the other income payments that are due for the 2012–13 tax year under this Act must be determined—
+(3) For example, the interim payments that are due for the 2012–13 tax year under this Act must be determined—
   (a) by reference to residual repayment obligations for the 2011–12 tax year under the Student Loan Scheme Act 1992; and
-  (b) as if references to other income repayment obligations in this Act were references to residual repayment obligations for the 2011–12 tax year under the Student Loan Scheme Act 1992.
+  (b) as if references to end-of-year repayment obligations in this Act were references to residual repayment obligations for the 2011–12 tax year under the Student Loan Scheme Act 1992.
 
 ### 15 Updated references
 Unless the context otherwise requires, all references in an enactment or document (including a loan contract) to—
