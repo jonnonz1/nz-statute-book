@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-02-27_
+_Consolidation as at 2013-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -346,7 +346,7 @@ _Consolidation as at 2013-02-27_
       (vii) subject to paragraph (b), a civil penalty:
       (viii) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
       (ix) financial support (as defined in section 2(1) of the Child Support Act 1991):
-      (x) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
+      (x) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
       (xi) a tax credit under section 41A:
       (xii) is a tax prescribed in section 173D:
       (xiii) the amount of a subsidy payable under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary:
@@ -378,7 +378,7 @@ _Consolidation as at 2013-02-27_
       (vii)
       (viii) financial support, as defined in section 2(1) of the Child Support Act 1991:
       (viiib) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
-      (ix) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011)
+      (ix) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011)
   - **tax advice document** is defined in section 20B(3)
   - **tax advisor** is defined in section 20B(4)
   - **tax agent** means a person who—
