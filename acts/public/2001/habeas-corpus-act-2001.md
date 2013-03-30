@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2013-03-30_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -47,14 +47,14 @@ An application to challenge the legality of a person's detention may be made by 
 
 ### 8 Description of defendant by reference only to office
 A defendant may be described in an application by reference only to the defendant's office if the defendant is—
-  (a) the prison manager of a prison in which the detained person is alleged to be illegally detained; or
+  (a) the chief executive of the department for the time being responsible for the administration of the Corrections Act 2004, if the detained person is alleged to be illegally detained in a corrections prison; or
   (b) the Commissioner of Police, if the detained person is alleged to be illegally detained in Police custody except following the exercise of powers under the Immigration Act 2009; or
   (c) the chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009, if the detained person is alleged to be illegally detained in custody following the exercise of powers under that Act; or
   (d) the chief executive of the New Zealand Customs Service, if the detained person is alleged to be illegally detained in the custody of the New Zealand Customs Service; or
   (e) any other office holder prescribed by rules made in accordance with section 20, and in the circumstances prescribed in those rules.
 
 ### 9 Urgency
-(1) An application for a writ of habeas corpus must be given precedence over all other matters before the High Court.
+(1) An application for a writ of habeas corpus must be given precedence over all other matters before the High Court unless a Judge of that court considers that the circumstances require otherwise.
 (2) Judges and employees of the Ministry of Justice must ensure that every application, including any interlocutory application, is disposed of as a matter of priority and urgency.
 (3) The Registrar must allocate a date for the inter partes hearing of an application that is no later than 3 working days after the date on which the application is filed.
 
@@ -92,14 +92,20 @@ A defendant may be described in an application by reference only to the defendan
 
 ### 14 Determination of applications
 (1) If the defendant fails to establish that the detention of the detained person is lawful, the High Court must grant as a matter of right a writ of habeas corpus ordering the release of the detained person from detention.
+(1A) Despite subsection (1), the High Court may refuse an application for the issue of the writ, without requiring the defendant to establish that the detention of the detained person is lawful, if the court is satisfied that—
+  (a) section 15(1) applies; or
+  (b) an application for the issue of a writ of habeas corpus is not the appropriate procedure for considering the allegations made by the applicant.
 (2) A Judge dealing with an application must enquire into the matters of fact and law claimed to justify the detention and is not confined in that enquiry to the correction of jurisdictional errors; but this subsection does not entitle a Judge to call into question—
   (a) a conviction of an offence by a court of competent jurisdiction, the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007, or a disciplinary officer acting under Part 5 of the Armed Forces Discipline Act 1971; or
   (b) a ruling as to bail by a court of competent jurisdiction.
-(3) A Judge must determine an application by—
+(3) Subject to section 13(2), a Judge must determine an application by—
   (a) refusing the application for the issue of the writ; or
   (b) issuing the writ ordering the release from detention of the detained person.
 (4) All matters relating to the costs of and incidental to an application are in the discretion of the court and the court may refuse costs to a successful party or order a successful party to pay costs to an unsuccessful party.
 (5) A writ of habeas corpus may be in the form set out in the Schedule.
+
+### 14A Application for writ is civil proceeding under Courts (Remote Participation) Act 2010
+To avoid doubt, an application for a writ of habeas corpus is a civil proceeding for the purposes of the Courts (Remote Participation) Act 2010.
 
 ### 15 Finality of determinations
 (1) Subject to the rights of appeal conferred by section 16 of this Act and to sections 7 to 10 of the Supreme Court Act 2003, the determination of an application is final and no further application can be made by any person either to the same or to a different Judge on grounds requiring a re-examination by the court of substantially the same questions as those considered by the court when the earlier application was refused.
@@ -119,8 +125,8 @@ A defendant may be described in an application by reference only to the defendan
 (3) No fee is payable to the Court of Appeal or the Supreme Court for filing any document in respect of an appeal against the refusal of an application.
 
 ### 17 Urgency in hearing appeals
-(1) An appeal under this Act must be given precedence over all other matters before the Court of Appeal.
-(1A) The following must be given precedence over all other matters before the Supreme Court:
+(1) An appeal under this Act must be given precedence over all other matters before the Court of Appeal unless that court or a Judge of that court considers that the circumstances require otherwise.
+(1A) The following must be given precedence over all other matters before the Supreme Court unless that court or a Judge of that court considers that the circumstances require otherwise:
   (a) an application for leave to appeal against a decision of the Court of Appeal on an appeal under this Act:
   (b) an application for leave to appeal under paragraph (a) or paragraph (b) of section 16(1A):
   (c) an appeal against a decision of the Court of Appeal on an appeal under this Act:
@@ -142,7 +148,7 @@ It is declared for the avoidance of doubt that all writs of habeas corpus other 
 
 ### 20 Rules
 (1) Rules not inconsistent with this Act may be made under section 51C of the Judicature Act 1908 regulating the practice and procedure of the High Court and the Court of Appeal and the Supreme Court in relation to applications under this Act.
-(2) Without limiting subsection (1), rules may be made under section 51C of the Judicature Act 1908 that amend the form in the Schedule or revoke the form and substitute a new one.
+(2) Without limiting subsection (1), rules may be made under section 51C of the Judicature Act 1908 that amend the form in the Schedule or replace the form.
 
 ### 21 Supplementary procedure
 If a matter arises in relation to an application for which this Act does not provide, the High Court must dispose of it as nearly as is practicable in a manner consistent with this Act, and to the extent that they are not inconsistent with this Act, in accordance with the High Court Rules.
