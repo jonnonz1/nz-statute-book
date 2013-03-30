@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-03-29_
+_Consolidation as at 2013-03-30_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -9,7 +9,7 @@ This Act is the Student Loan Scheme Act 2011.
 (2) Section 219 comes into force on 1 March 2012.
 (3) Subpart 2 of Part 1, subpart 4 of Part 4, sections 173 to 175, 187, 188, 201, 210 to 214, and 218, and Schedule 5 come into force on 1 January 2012.
 (4) Sections 51 and 52 come into force on 1 April 2013.
-(5) Schedule 7 comes into force on 1 April 2013 unless, before that date, the Governor-General by Order in Council appoints a later date; and 1 or more orders may be made bringing different clauses of Schedule 7 into force on different later dates.
+(5)
 (6) The rest of this Act comes into force on 1 April 2012.
 
 ## Part 1 — Preliminary matters, loan advances, and New Zealand-based and overseas-based borrowers
@@ -161,7 +161,7 @@ The purposes of this Act are to—
       (ii) for any instalment of an interim payment due after the third instalment date, the date specified by the Commissioner as the due date; and
     (b) in relation to an overseas-based instalment default, means—
       (i) the last day of the tax year; or
-      (ii) if the Commissioner has determined the instalments that must be paid under section 112(3) or 115(1)(d), the dates determined by the Commissioner; and
+      (ii) if the Commissioner has determined the instalments that must be paid under section 112(3), 115(1)(d), or 115A, the final date determined by the Commissioner; and
     (c) in all other cases, has its ordinary meaning
   - **interim payment default** means, as applicable,—
     (a) the lesser of—
@@ -169,7 +169,7 @@ The purposes of this Act are to—
       (ii) the difference between a borrower's end-of-year repayment obligation for a tax year and the amount of interim payments made for that tax year; and
       (iii) the difference between the amount of a borrower's interim payments last notified by the Commissioner as due by the third instalment date for a tax year and the amount of the interim payments made for that tax year:
     (b) the amount of any instalment of an interim payment due after the third instalment date that is not paid on or before the due date
-  - **overseas-based instalment default** means an instalment of an overseas-based borrower's repayment obligation for a tax year that must be paid in accordance with section 112 or 115(1)(d).
+  - **overseas-based instalment default** means the sum of the instalments of an overseas-based borrower's repayment obligations for a tax year that must be paid in accordance with subparts 4 and 5 of Part 2.
 
 ### 6 Application of Act
 (1) This Act applies—
@@ -193,6 +193,9 @@ The purposes of this Act are to—
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
+
+### 8A Application of provisions of Act
+Schedule 6 contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, and replaced (see section 220).
 
 ### Subpart 2 — Establishment of student loan
 
@@ -247,8 +250,8 @@ A student loan establishment fee of $60 (or any other amount prescribed by regul
 ### 15 Right to cancel loan contract
 (1) A borrower may cancel his or her loan contract by—
   (a) formally notifying the loan manager of the cancellation within 7 working days of the date on which the borrower's loan entitlement letter was issued; and
-  (b) returning any loan advance received by the borrower under the loan contract to the loan manager within a time frame set by the loan manager; and
-  (c) paying any interest accrued on any loan advance received by the borrower under the loan contract to the loan manager within a time frame set by the loan manager.
+  (b) returning any loan advance received by the borrower under the loan contract to the loan manager within a time frame set by the loan manager.
+  (c)
 (2) If a borrower cancels his or her loan contract in accordance with subsection (1), the loan manager must waive the student loan establishment fee charged under section 14.
 
 ### 16 Loan manager must notify Commissioner of borrower's details
@@ -418,6 +421,7 @@ If the Commissioner treats a borrower as being physically in New Zealand under s
 (2) A borrower who is physically absent from New Zealand must notify the Commissioner of the matters required by subsection (1), as well as the date on which the borrower left New Zealand, as soon as practicable after the earlier of the following:
   (a) the borrower becomes overseas-based:
   (b) the borrower becomes aware that he or she will be overseas-based.
+(3) See section 193C concerning the obligation on a borrower if there is a change in any of the contact details provided to the Commissioner under this section.
 
 ### 29 Borrower to notify Commissioner of return to New Zealand of more than 183 days
 (1) An overseas-based borrower who is physically in New Zealand must comply with subsection (2) as soon as practicable after the earlier of the following:
@@ -778,7 +782,7 @@ If the Commissioner receives a request in accordance with section 65, the Commis
 (1) This section applies if the Commissioner—
   (a) identifies that a significant over-deduction has been made in relation to a borrower; or
   (b) determines (in accordance with section 66) that a significant over-deduction has been made in relation to a borrower.
-(2) The Commissioner must, as soon as practicable, notify the borrower in writing—
+(2) The Commissioner must, as soon as practicable, notify the borrower—
   (a) that a significant over-deduction has been made in relation to the borrower; and
   (b) of the amount of the over-deduction; and
   (c) that the over-deduction has been offset against the borrower's consolidated loan balance; and
@@ -1073,7 +1077,9 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
 **Calculation and payment of overseas-based repayment obligation**
 
 ### 110 Repayment obligations of overseas-based borrowers
-(1) This section applies to an overseas-based borrower who is not, or is no longer, entitled to a repayment holiday under section 107B or 108A(2).
+(1) This section applies to an overseas-based borrower who—
+  (a) is not or is no longer entitled to a repayment holiday under section 107B or 108A(2); and
+  (b) has not had his or her overseas-based repayment obligation reassessed under section 115A.
 (2) If the borrower's consolidated loan balance is less than $1,000, the borrower's repayment obligation for a tax year (or, if applicable, part of a tax year) during which this section applies to the borrower is the amount of the borrower's consolidated loan balance.
 (3) If the borrower's consolidated loan balance is—
   (a) $1,000 or more, but less than or equal to $15,000, the borrower's repayment obligation is $1,000 for each full tax year during which the borrower is overseas-based:
@@ -1085,8 +1091,8 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
   (c) $3,000, if the borrower's consolidated loan balance is more than $30,000.
 (5) If the amount of a threshold or the amount of a repayment obligation set out in subsections (2) to (4) is changed by regulations, that amount is changed accordingly.
 (6) In this section, consolidated loan balance means,—
-  (a) for the first tax year during a period when this section applies to a borrower, the borrower's consolidated loan balance on the date on which this section first applies to the borrower in that period; and
-  (b) for each subsequent tax year (year A) during that period, the sum determined by—
+  (a) if a borrower was not overseas-based at the start of the tax year, the borrower's consolidated loan balance on the date on which the borrower became overseas-based; and
+  (b) if a borrower was overseas-based at the start of the tax year (year A), the sum determined by—
     (i) including the amount of the borrower's consolidated loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
     (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year.
@@ -1099,10 +1105,10 @@ In this subpart, repayment holiday means a period during which a borrower’s ov
   (b) section 193.
 (4) This section overrides section 110.
 (5) In this section, loan balance means,—
-  (a) for the first tax year during a period when section 110 applies to a borrower, the sum determined by—
-    (i) including the borrower's loan balance on the day on which that section first applies to the borrower in that period; and
+  (a) if a borrower was not overseas-based at the start of the tax year, the sum determined by—
+    (i) including the borrower's loan balance on the day on which the borrower became overseas-based; and
     (ii) subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day; and
-  (b) for each subsequent tax year (year A) during that period, the sum determined by—
+  (b) if a borrower was overseas-based at the start of the tax year (year A), the sum determined by—
     (i) including the amount of the borrower's loan balance on 31 March in the year prior to year A (the previous year); and
     (ii) including the amount of any annual administration fee charged under section 189 for the previous year; and
     (iii) subtracting any 10% bonus the borrower is entitled to under Part 3 for an excess repayment for the previous year; and
@@ -1144,7 +1150,23 @@ A borrower may be liable to pay late payment interest if the borrower does not m
   (b) only the income that the borrower derived during the period that the borrower was New Zealand-based during the year must be taken into account when calculating the borrower’s repayment obligation under subparts 1 and 2; and
   (c) section 110(4) or 111 (as applicable) applies to any portion of the tax year during which the borrower is overseas-based and is not entitled to a repayment holiday (as defined in section 106); and
   (d) the borrower's overseas-based repayment obligation is payable in instalments as determined by the Commissioner.
-(2) Subsection (1) applies despite anything to the contrary in this Act.
+(2) Subsection (1) applies despite anything to the contrary in this Act, except as provided in section 115A.
+
+### 115A Reassessment of borrower's overseas-based repayment obligations in year of return to New Zealand
+(1) The Commissioner may reassess a borrower's overseas-based repayment obligation if the borrower notifies the Commissioner—
+  (a) that the borrower has returned to New Zealand; and
+  (b) that he or she intends to become New Zealand-based; and
+  (c) of the specific date from which he or she expects to become New Zealand-based.
+(2) The borrower must notify the Commissioner of any other information that the Commissioner may reasonably require for the purposes of either or both of the following:
+  (a) establishing any of the matters in subsection (1):
+  (b) the reassessment.
+(3) If the Commissioner reassesses a borrower's overseas-based repayment obligation under this section,—
+  (a) the reassessment must be made in accordance with section 115, as if the borrower were New Zealand-based from the date notified by the borrower under subsection (1)(c); and
+  (b) section 109(6) and (7) apply to the reassessment as if it were an assessment under that section.
+(4) Despite the reassessment of a borrower's overseas-based repayment obligation under this section, the borrower continues to be treated as an overseas-based borrower for all other purposes (for example, interest continues to be calculated in accordance with the borrower's overseas-based status) until the borrower becomes New Zealand-based.
+(5) The Commissioner may review a reassessment of a borrower's overseas-based repayment obligation made under this section if—
+  (a) the borrower does not become New Zealand-based; or
+  (b) the borrower becomes New Zealand-based from a date that is different from the expected date notified to the Commissioner under subsection (1)(c).
 
 ### 116 Overseas-based borrowers who derive salary or wages from New Zealand
 (1) Subpart 1 applies to an overseas-based borrower who derives salary or wages from New Zealand as if the borrower were New Zealand-based.
@@ -1198,9 +1220,9 @@ In this Part, unless the context otherwise requires,—
     (e) any excess repayment from a prior tax year that is used to satisfy a repayment obligation for the tax year in accordance with section 132(1)(b).
 
 ### 120 Commissioner must notify borrower of excess repayment
-(1) Subsection (2) applies if—
-  (a) an excess repayment is made for a borrower; or
-  (b) upon investigation by the Commissioner of a borrower's repayment obligation for a prior tax year, the Commissioner is satisfied that—
+(1) Subsection (2) applies if subpart 2 of Part 2 applies to a borrower and—
+  (a) an excess repayment is made for the borrower; or
+  (b) upon investigation by the Commissioner of the borrower's repayment obligation for a prior tax year, the Commissioner is satisfied that—
     (i) the repayment obligation assessed by the Commissioner is incorrect; and
     (ii) as a result, an excess repayment has been made.
 (2) The Commissioner must, as soon as practicable, notify the borrower in writing—
@@ -1292,7 +1314,10 @@ The Commissioner must, in all material that provides information about 10% bonus
 (1) A borrower may choose for the whole or part of an excess repayment to be—
   (a) refunded (see sections 199 and 200); or
   (b) used to satisfy a future repayment obligation of the borrower.
-(2) To exercise a choice under subsection (1), the borrower must notify the Commissioner in a manner acceptable to the Commissioner within 6 months after the date on which the borrower was notified of the excess repayment in accordance with section 120.
+(2) To exercise a choice under subsection (1), the borrower must notify the Commissioner in a manner acceptable to the Commissioner within 6 months after whichever is the latest of the following:
+  (a) the date on which the borrower was notified of the excess repayment in accordance with section 120:
+  (b) the day after the end of the tax year to which the excess repayment relates:
+  (c) the day after the due date of the final instalment of the borrower's overseas-based repayment obligation.
 (3) A choice made by the borrower to receive a refund of an excess repayment is irrevocable.
 
 ## Part 4 — Interest, relief, penalties and offences, rights of objection, and rights to challenge
@@ -1306,7 +1331,8 @@ Except as provided in this Part, no interest is payable on a consolidated loan b
 
 ### 134 Loan interest charged for all borrowers
 (1) A borrower is liable to pay loan interest on his or her loan balance for each day that the borrower has a loan balance.
-(2) Loan interest must be calculated in accordance with the formula—a =(b × c)365where—ais the loan interestbis the borrower's loan balance on the relevant daycis the base interest rate.
+(2) Loan interest must be calculated in accordance with the formula (except as provided in subsection (3))—a =(b × c)365where—ais the loan interestbis the borrower's loan balance on the relevant daycis the base interest rate.
+(3) If a tax year includes an extra day because of a leap year, the reference to 365 in the formula in subsection (2) must be treated as if it were a reference to 366.
 
 ### 135 Loan interest calculated daily and charged and compounded annually
 (1) Loan interest is calculated and accrues each day that a borrower has a loan balance.
@@ -1457,7 +1483,7 @@ A borrower who applies for hardship relief under section 145(1)(b) must notify t
 
 ### 154 Application for instalment arrangement
 (1) An application for entry into an instalment arrangement—
-  (a) may be made at any time in relation to an unpaid amount; and
+  (a) may be made at any time in relation to an unpaid amount or an amount that is not yet due; and
   (b) must be made in accordance with section 177(1)(b) of the Tax Administration Act 1994.
 (2) Sections 177(1)(b) and (3) to (5), 177A, 177B, and 177CA of the Tax Administration Act 1994 apply to an application under subsection (1) and to an instalment arrangement granted as a result of that application, as far as applicable and with all necessary modifications, as if—
   (a) every reference to a taxpayer included a borrower; and
@@ -1508,17 +1534,18 @@ Section 159 applies to a borrower if—
 (1) If this section applies to a borrower, the Commissioner may, at his or her discretion, impose a student loan shortfall penalty on the borrower.
 (2) The amount of a student loan shortfall penalty is calculated in accordance with the formula—a = b × cwhere—ais the amount of the student loan shortfall penaltybis the amount of the repayment obligation shortfallcis the final percentage imposed under the Tax Administration Act 1994 for the shortfall penalty after adjustment, if any, under section 141FB, 141G, 141H, 141I, 141J, or 141K of the Tax Administration Act 1994, as applicable.
 
-### 160 Notification of student loan shortfall penalty
-(1) If the Commissioner imposes a student loan shortfall penalty on a borrower, the Commissioner must notify the borrower in writing.
-(2) The notification must specify—
+### 160 Notification and payment obligations if Commissioner imposes student loan shortfall penalty
+(1) This section applies if the Commissioner imposes a student loan shortfall penalty on a borrower.
+(2) The Commissioner must notify the borrower in writing of—
   (a) the amount of the student loan shortfall penalty and the reasons for its imposition; and
-  (b) the date on or before which the student loan shortfall penalty must be paid (which must be 30 days or more after the date of the notification); and
-  (c) the amount of the repayment obligation shortfall that remains due and payable and that that amount is subject to late payment interest.
-(3) The borrower must pay the student loan shortfall penalty on or before the date specified in the notification.
+  (b) the date on or before which the student loan shortfall penalty must be paid (which must be at least 30 days after the date of the notification).
+(3) The Commissioner must also notify the borrower in writing of the amount of the repayment obligation shortfall that remains due and payable and that that amount is subject to late payment interest.
+(4) The Commissioner may notify the borrower of the information required under subsection (2) and the information required under subsection (3) in 2 separate notices.
+(5) The borrower must pay the student loan shortfall penalty on or before the date specified in the notice given under subsection (2).
 
 ### 161 Student loan shortfall penalty reduced or removed to reflect change to shortfall penalty
 (1) Subsection (2) applies if—
-  (a) a borrower challenges a shortfall penalty; and
+  (a) a borrower disputes or challenges a shortfall penalty; and
   (b) as a result, the shortfall penalty is reduced or removed; and
   (c) the shortfall penalty was the basis for the Commissioner imposing a student loan shortfall penalty on the borrower under section 159.
 (2) The Commissioner must, as appropriate, reduce or remove the borrower's student loan shortfall penalty to reflect the decision that was made in relation to the shortfall penalty.
@@ -1610,10 +1637,13 @@ The loan manager must, as soon as practicable, notify the Commissioner (in the m
 (1) The procedures in Part 4A of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
 (2) However, subsection (1) does not apply to an objection to the details of a loan advance made or charged to a borrower (see section 167).
 
-**Rights to challenge**
+**Rights to challenge and challenge procedures**
 
 ### 174 Dispute process must be completed before challenge is made
 A person may challenge a matter under this subpart only after the dispute process applied by section 173 has been concluded in relation to that matter.
+
+### 174A Part 8A of Tax Administration Act 1994 applies to challenges under this Act
+The procedures under Part 8A of the Tax Administration Act 1994 apply, with all necessary modifications, to a challenge of a matter under this Act.
 
 ### 175 Challenge to details of consolidated loan balance
 A borrower may challenge any information (other than the details of a loan advance made or charged to the borrower) provided to the borrower under section 19 if the borrower reasonably believes that that information is incorrect.
@@ -1650,6 +1680,9 @@ A borrower who is prohibited under section 69 from making an application under s
 ### 182 Challenge to assessments
 A borrower whose repayment obligation has been assessed under section 51, 76, 89, or 109 may, on the ground that the assessment is erroneous or excessive or has been issued in error, challenge the assessment.
 
+### 182A Challenge to decision concerning repayment holiday
+A borrower may challenge a decision by the Commissioner under section 107B not to grant the borrower a repayment holiday, on the ground that the decision is not fair and reasonable.
+
 ### 183 Challenge to interest charged
 (1) A borrower who is charged with loan interest may, on the ground that he or she should not have been charged with the amount of interest charged, challenge that interest.
 (2) A borrower who is charged with late payment interest may, on the ground that he or she should not have been charged with the amount of interest charged, challenge that interest.
@@ -1675,12 +1708,7 @@ A borrower who has a student loan shortfall penalty imposed on him or her may ch
 A challenge under this subpart may be made only by or on behalf of the person to whom the information, assessment, notice, decision, or matter relates.
 
 ### 188 Commissioner's decision on challenges
-(1) After considering a challenge under this subpart, the Commissioner may—
-  (a) allow the challenge in full; or
-  (b) allow the challenge in part; or
-  (c) disallow the challenge.
-(2) The Commissioner must formally notify the person who made the challenge as soon as practicable after the Commissioner has made a decision about the challenge.
-(3) This section applies despite anything to the contrary in Part 8A of the Tax Administration Act 1994.
+[Repealed]
 
 ## Part 5 — Matters of general application and miscellaneous matters
 
@@ -1699,7 +1727,7 @@ A challenge under this subpart may be made only by or on behalf of the person to
 (2) For the purposes of calculating the borrower's repayment obligations under subpart 2 of Part 2, the annual repayment threshold is calculated in accordance with the formula—a = b × c365where—ais the annual repayment threshold calculated in accordance with this section:bis the amount of the annual repayment threshold:cis the number of days in the period.
 
 ### 191 Limit on repayment obligation for pay period or tax year
-(1) If a borrower derives only salary or wages for a tax year, the borrower's repayment obligation for a pay period in that tax year must not exceed the amount of the borrower's loan balance on the last day of the month in which the pay period falls.
+(1) If a borrower derives salary or wages for a tax year, the borrower's repayment obligation for a pay period in that tax year must not exceed the amount of the borrower's loan balance on the last day of the month in which the pay period falls.
 (2) If a borrower derives adjusted net income for a tax year, the borrower's end-of-year repayment obligation for that tax year must not exceed the amount of the borrower's loan balance on the last day of that tax year.
 (3) Section 111(2) applies to overseas-based borrowers.
 (3A) For the purposes of subsections (1) and (2), the amount of the borrower's loan balance on the day referred to in each of those provisions must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
@@ -1736,6 +1764,9 @@ If this Act does not specify a date by which an amount payable under this Act is
 ### 193B Changes relating to identity and details of contact person
 (1) Whenever the contact person of a borrower dies or becomes incapacitated or is for any other reason ineligible, unable, or unwilling to act as the borrower's contact person, the borrower must nominate another contact person who resides in New Zealand in the manner provided by section 107A(2).
 (2) If there is a change in any of the details of a borrower's contact person, the borrower must promptly notify the Commissioner of the changed details.
+
+### 193C Changes relating to contact details of borrower
+If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
 
 ### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
 A salary or wage deduction or payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
@@ -1817,7 +1848,7 @@ Sections 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106
 (3) This section applies—
   (a) whether or not the Commissioner is the lender under the loan contract or a person on whom the loan contract confers the right or power; and
   (b) despite section 203 or anything in the loan contract or any other Act; and
-  (c) whether the loan contract was signed before or after the date on which this section comes into force.
+  (c) whether the loan contract was signed before, on, or after the date on which this section comes into force.
 
 ### 205 Loan contract enforceable against minor
 A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the Minors' Contracts Act 1969, as if the borrower were aged 18 years.
@@ -1859,9 +1890,10 @@ A loan contract entered into by a borrower (whether before or after the commence
   - **specified department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 208 Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the New Zealand Customs Service for the purpose of establishing an information-matching programme to assist the Commissioner to verify—
-  (a) whether borrowers are New Zealand-based or overseas-based:
-  (b) whether borrowers are New Zealand residents for the purposes of this Act.
+(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the New Zealand Customs Service for the purpose of establishing an information-matching programme to assist the Commissioner to—
+  (a) verify whether borrowers are New Zealand-based or overseas-based; and
+  (b) verify whether borrowers are New Zealand residents; and
+  (c) locate, when they enter or leave New Zealand, borrowers who are in serious default (within the meaning of section 280G of the Customs and Excise Act 1996) in relation to student loans.
 (2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Inland Revenue Department:
   (a) a borrower's name or any other name by which a borrower is known:
   (b) a borrower's date of birth:
@@ -1925,7 +1957,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) prescribing the amount of the annual repayment threshold, or a means by which it may be calculated or ascertained:
   (b) specifying charitable organisations for the purposes of the definition of charity in section 4(1):
   (c) prescribing the repayment percentage, or a means by which it may be calculated or ascertained:
-  (d) specifying further information requirements in accordance with section 10(2)(d), 13(i), or 16(2)(a)(viii):
+  (d) specifying further information requirements in accordance with sections 10(2)(d), 13(i), 16(2)(a)(viii), 16A(1)(e), or 107A(2)(e):
   (e) prescribing the amount of a student loan establishment fee charged under section 14, or a means by which it may be calculated or ascertained:
   (f) prescribing the amount of a threshold or the amount of a repayment obligation that is to apply in place of those set out in section 110(2) to (4):
   (g) prescribing the level of unpaid amount on which a borrower is liable to pay late payment interest under section 139(1), or a means by which it may be calculated or ascertained:
@@ -1967,13 +1999,14 @@ Regulations made under section 215 or 216 are regulations for the purposes of th
   (a) 1 April 2012; and
   (b) any later date specified in the special deduction rate certificate, the additional deduction rate notice, the notice issued under section 56(b), or the request under subsection (1)(c).
 
-### 220 Savings and transitional provisions
-This Act is subject to the savings and transitional provisions set out in Schedule 6.
+### 220 Application, savings, and transitional provisions
+(1) The application, savings, and transitional provisions set out in Schedule 6 have effect for the purposes of this Act.
+(2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 6 specified in the second column of the table:Principal Act and Amendment ActsPart of Schedule 6 Principal ActPrincipal Act as enactedPart 1Amendment ActsProvisions relating to Student Loan Scheme Amendment Act 2013Part 2
 
 **Consequential amendments and repeals**
 
 ### 221 Amendments to this Act
-This Act is amended in the manner, and is subject to the transitional provisions, set out in Schedule 7.
+[Repealed]
 
 ### 222 Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003
 The Acts specified in Schedule 8 are amended in the manner set out in that schedule.
@@ -2101,7 +2134,9 @@ A borrower who makes an application under section 25(1)(j) must—
 
 ## Schedule 5 — Transitional provisions concerning loan manager and loan advances
 
-## Schedule 6 — Savings and transitional provisions
+## Schedule 6 — Application, savings, and transitional provisions
+
+### Part 1 — Provisions relating to principal Act as enacted
 
 **Savings provisions**
 
@@ -2114,6 +2149,18 @@ The provisions of this schedule apply despite—
 (1) The Student Loan Scheme Act 1992 (and all relevant regulations made under that Act) continues in full effect to the extent necessary for the proper administration and completion of all matters under that Act relating to the tax year ending on 31 March 2012 and all earlier tax years.
 (2) All obligations or requirements in relation to a matter under the Student Loan Scheme Act 1992 relating to the tax year ending on 31 March 2012 or an earlier tax year continue to apply, even if that obligation or requirement arises on or after 1 April 2012.
 (3) Any action that is taken in relation to a matter under the Student Loan Scheme Act 1992 relating to the tax year ending on 31 March 2012 or an earlier tax year must be taken under the Student Loan Scheme Act 1992, even if that action is taken on or after 1 April 2012.
+
+### 2A Commissioner must not collect amount assessed as repayment obligation of certain borrowers for 2011–2012 tax year
+(1) The purpose of this clause is to ensure that the substantive effect of the provisions of the Student Loan Scheme Act 2011 (Transitional Provisions) Regulations 2012 continues, including beyond 1 April 2015, in respect of borrowers to whom those regulations applied before they were revoked by section 53 of the Student Loan Scheme Amendment Act 2013.
+(2) This clause applies if—
+  (a) a person became a borrower under the student loan scheme for the first time in the period starting on 1 January 2012 and ending on the close of 31 March 2012; or
+  (b) a person is a person to whom all of the following apply:
+    (i) the person had been a borrower under the student loan scheme before the 2011–2012 tax year; and
+    (ii) the person fully repaid his or her loan before the start of the 2011–2012 tax year; and
+    (iii) the person again became a borrower under the student loan scheme in the period starting on 1 January 2012 and ending on the close of 31 March 2012.
+(3) Despite clause 2, any other provision of this Act, and anything in the Student Loan Scheme Act 1992,—
+  (a) the Commissioner must refrain from collecting the amount that the Commissioner assesses, under section 15 of the Student Loan Scheme Act 1992, as the borrower's repayment obligation for the 2011–2012 tax year; and
+  (b) the amount that the Commissioner refrains from collecting under paragraph (a) is not written off and remains part of the borrower's loan balance.
 
 **Transitional provisions**
 
@@ -2141,9 +2188,7 @@ The provisions of this schedule apply despite—
 (5) At the time when this Act applies to it, any amount owed by a borrower under the Student Loan Scheme Act 1992 to which neither subclause (2) nor (4) applies must be treated as being part of a borrower's loan balance for the purposes of this Act.
 
 ### 6 Small amounts of unpaid and uncollected repayment obligations
-(1) The following are added to a borrower's loan balance under this Act:
-  (a) any amount that the Commissioner has refrained from collecting from a borrower in accordance with section 51(3) of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012; and
-  (b) a default amount that is not subject to a penalty under section 52 of the Student Loan Scheme Act 1992 or late payment interest under section 139(1) of this Act and that remains unpaid on the close of 31 March 2013.
+(1) Any amount that the Commissioner has refrained from collecting from the borrower in accordance with section 51(3) of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012 is added to a borrower's loan balance under this Act.
 (2) This clause overrides clause 5.
 
 ### 7 New Zealand-based and overseas-based borrowers
@@ -2224,6 +2269,28 @@ Unless the context otherwise requires, all references in an enactment or documen
   (b) the student loan scheme under the Student Loan Scheme Act 1992 must be read as a reference to the student loan scheme under this Act; and
   (c) a student loan under the Student Loan Scheme Act 1992 must be read as a reference to a student loan under this Act; and
   (d) a borrower under the Student Loan Scheme Act 1992 must be read as a reference to a borrower under this Act.
+
+### Part 2 — Transitional provision relating to Student Loan Scheme Amendment Act 2013
+
+### 16 Interpretation
+In this Part,—
+  - **amendment Act** means the Student Loan Scheme Amendment Act 2013
+  - **principal Act** means the Student Loan Scheme Act 2011.
+
+### 17 Regulations for transitional purposes
+(1) In this clause, transition means the transition to the changes made by the amendment Act.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional provisions for the purpose of facilitating or ensuring an orderly transition.
+(3) Regulations made under this clause may—
+  (a) provide that, subject to such conditions as may be specified in the regulations, 1 or more provisions (including definitions) of the amendment Act do not apply, or apply with modifications or additions:
+  (b) provide that, subject to such conditions as may be specified in the regulations, 1 or more provisions repealed, amended, or revoked by the amendment Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary to facilitate or ensure an orderly transition.
+(4) The Minister must not recommend the making of regulations unless the Minister is satisfied that the regulations—
+  (a) are reasonably necessary for the purpose of facilitating or ensuring an orderly transition; and
+  (b) are consistent with the purposes of the principal Act.
+(5) Regulations made under this clause must include a date on which the regulations are revoked, and that date must be the earlier of—
+  (a) 3 years after the date on which they are made; and
+  (b) the close of 31 March 2018.
+(6) This clause is repealed on 1 April 2018.
 
 ## Schedule 7 — Amendments to this Act
 
