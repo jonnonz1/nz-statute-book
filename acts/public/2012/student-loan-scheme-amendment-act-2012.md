@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2012
-_Consolidation as at 2013-01-01_
+_Consolidation as at 2013-03-30_
 
 ### 1 Title
 This Act is the Student Loan Scheme Amendment Act 2012.
@@ -7,7 +7,7 @@ This Act is the Student Loan Scheme Amendment Act 2012.
 ### 2 Commencement
 (1) Sections 7 and 59(2) come into force on 1 January 2013.
 (2) Section 55 is deemed to have come into force on 1 January 2012.
-(3) Section 57 comes into force on 1 April 2013 except that if a clause in Schedule 7 is, under section 2(5) of the principal Act, brought into force on a later date, any provision in section 57 that relates to that clause comes into force on that later date.
+(3)
 (4) The rest of the Act is deemed to have come into force on 1 April 2012.
 
 ## Part 1 — Amendments to principal Act
@@ -343,22 +343,7 @@ Schedule 5 is amended by repealing clause 2.
 (3) Clauses 9 and 10(4)(b)(ii)(B) of Schedule 6 are repealed.
 
 ### 57 Schedule 7 amended
-(1) Schedule 7 is amended by inserting the following clause before clause 1:Interpretation
-  The definition of consolidated loan balance in section 4(1) is amended by repealing paragraphs (b) and (c) and substituting the following paragraph:.
-    (b) any unpaid amount
-(2) Schedule 7 is amended by repealing clause 2 and substituting the following clause:Overseas-based borrower's standard and Commissioner deductions satisfy overseas-based repayment obligation
-  Section 117 is amended by adding the following subsection:
-    (4) In relation to the tax year starting on 1 April 2013, and every subsequent year, this section overrides section 194A(1) and (2).
-(3) Schedule 7 is amended by inserting the following clause after clause 4:Transitional provisions relating to late payment interest
-  (1) Subclause (2) applies to any interim payments payable by a borrower for the tax year starting 1 April 2012 if 1 or more of those interim payments are due before the commencement of clause 4 of this schedule and 1 or more of those interim payments are due after that commencement.
-  (2) In relation to interim payments to which this subclause applies, the term unpaid amount in sections 139 to 141 (as substituted by clause 4 of this schedule) is (despite section 5 as substituted by clause 1 of this schedule) taken to refer to an interim payment default (within the meaning of section 5 as in force before the commencement of clause 1 of this schedule) that has not been paid on or before the due date determined by section 5 (as so in force) and that has not been decreased, reduced, or written off by the Commissioner.
-  (3) Subclause (4) applies to any instalments of an overseas-based repayment obligation payable by a borrower for the tax year starting 1 April 2012 if 1 or more of those instalments are due before the commencement of clause 4 of this schedule and 1 or more of those instalments are due after that commencement.
-  (4) In relation to instalments of an overseas-based repayment obligation to which this subclause applies, the term unpaid amount in sections 139 to 141 (as substituted by clause 4 of this schedule) is (despite section 5 as substituted by clause 1 of this schedule) taken to refer to an overseas-based instalment default (within the meaning of section 5(2) as in force before the commencement of clause 1 of this schedule) that has not been paid on or before the due date determined by section 5(2) (as so in force) and that has not been decreased, reduced, or written off by the Commissioner.
-  (5) Subclause (6) applies to any remaining repayments payable by a borrower for the tax year starting 1 April 2012 if 1 or more of those remaining repayments are due before the commencement of clause 4 of this schedule and 1 or more of those remaining repayments are due after that commencement.
-  (6) In relation to remaining repayments to which this subclause applies, the term unpaid amount in sections 139 to 141 (as substituted by clause 4 of this schedule) is (despite section 5 as substituted by clause 1 of this schedule) taken to refer to the aggregate of those remaining repayments that have not been paid on or before the due date for the final of those remaining repayments and that have not been decreased, reduced, or written off by the Commissioner.
-(4) Section 146(1)(a), as substituted by clause 6 of Schedule 7, is repealed and the following paragraph substituted:.
-  (a) if late payment interest has been added to a borrower's unpaid amount under section 141; and
-(5) Section 146(3)(b), as substituted by clause 6 of Schedule 7, is amended by omitting if the late payment interest has been added to the borrower's unpaid amount under section 141(2),.
+[Repealed]
 
 ### 58 Schedule 9 amended
 The item relating to section 81(4)(g) and (gb) of the Tax Administration Act 1994 in Schedule 9 is amended by adding the following paragraph:.
