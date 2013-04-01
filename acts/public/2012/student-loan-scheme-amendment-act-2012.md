@@ -1,5 +1,5 @@
 # Student Loan Scheme Amendment Act 2012
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2013-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Amendment Act 2012.
@@ -229,7 +229,7 @@ Section 115(1) is amended by repealing paragraph (c) and substituting the follow
 Section 117(3) is repealed.
 
 ### 37 Interpretation
-The definition of 10% bonus in section 118 is amended by omitting 124(2), or 125(2) and substituting or 124(2).
+[Repealed]
 
 ### 38 Meaning of excess repayment
 (1) Section 119(2) is repealed and the following subsection substituted:
@@ -253,10 +253,10 @@ The definition of 10% bonus in section 118 is amended by omitting 124(2), or 125
   (a) all salary or wage deductions that were deducted in the tax year (including salary and wage deductions made in accordance with section 116 from the salary or wages an overseas-based borrower derives from New Zealand); and
 
 ### 39 Section 125 repealed
-Section 125 is repealed.
+[Repealed]
 
 ### 40 Consequences of refund or credit to next tax year
-Section 129(2) is repealed.
+[Repealed]
 
 ### 41 Loan interest calculated daily and charged and compounded annually
 (1) Section 135(1) is amended by inserting and accrues after is calculated.
