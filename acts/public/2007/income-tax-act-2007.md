@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2013-03-08_
+_Consolidation as at 2013-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -23962,6 +23962,8 @@ Similar proportionate entitlement
 (4) Each investor’s interest in the investment as a proportion of the value of their entitlement must not differ from the average value for the group and the investment by 2.5% or more unless—
   (a) the investment is an arrangement under which the PIE is assured of receiving sufficient proceeds from the investments to repay each investor in the group an amount contributed to it; and:
   (b) the excess in any difference between the proportion for the investor and the average value for the group arises from differences between the notified investor rates of those investors in the group.
+Supplementary dividends
+(5) For the purposes of this section, the payment of a supplementary dividend that is attributed to a notified foreign investor, or would be attributed to them in the absence of section HM 44B(2), is disregarded.
 
 ### HM 6 Intended effects for multi-rate PIEs and investors
 Intended effects for entity
@@ -24105,6 +24107,8 @@ Exclusions
 (3) This section does not apply if—
   (a) the proceeds are category B income:
   (b) for a single investor class, the only income that the class derives is income under section CC 3 (Financial arrangements).
+Supplementary dividends
+(4) For the purposes of this section, the payment of a supplementary dividend that is attributed to a notified foreign investor, or would be attributed to them in the absence of section HM 44B(2), is disregarded.
 
 ### HM 18 Requirements for listed PIEs: unlisted companies
 Choosing to become listed PIE
@@ -24294,7 +24298,7 @@ Net amounts
 (2) The net amount for an investor class of a multi-rate PIE for an attribution period is calculated using the formula—assessable income – deductions.
 Definition of items in formula
 (3) In the formula in subsection (2),—
-  (a) assessable income is the total amount of the PIE's assessable income attributed to the class for the attribution period in the manner referred to in subsection (8), including any tax credits received for the income:
+  (a) assessable income is the total amount of the PIE's assessable income attributed to the class for the attribution period in the manner referred to in subsection (8), including any tax credits received for the income but not including the amount of any supplementary dividends:
   (b) deductions is the total amount of the PIE’s expenditure or loss for which the PIE is allowed a deduction that is—
     (i) incurred by the PIE in deriving the assessable income referred to in paragraph (a); and
     (ii) attributed to the class for the attribution period.
@@ -24351,6 +24355,12 @@ Attributed amounts
   (b) the item expenses in the formula in subsection (2) is treated as zero:
   (c) the item credits for fees in the formula in subsection (2) is treated as zero:
   (d) if the result given by the formula is negative, the result is treated as zero.
+Treatment of certain transitional residents
+(5) For the purposes of this section, a transitional resident who has chosen under section HM 55D(9) to use the specified prescribed investor rate is treated as if they were a notified foreign investor.
+When subsection (7) applies
+(6) Subsection (7) applies for the purposes of section HM 35 for a notified foreign investor (a qualifying investor) in a foreign investment PIE who meets the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends). It overrides subsections (2) and (3), and for the purposes of the calculation of amounts attributed to them, the qualifying investors are treated as a separate class.
+Assessable income and supplementary dividends
+(7) For the purposes of section HM 35(3)(a), the assessable income of the PIE is the total amount of the PIE's assessable income attributed to the class of qualifying investors for the attribution period, including any supplementary dividends to which the qualifying investors are entitled.
 
 ### HM 36 Calculating amounts attributed to investors
 Calculating amount
@@ -24381,7 +24391,7 @@ When this section applies
 Sole investor
 (2) The PIE is treated as the sole investor in an investor class having an interest in the income or property.
 Relationship with section CS 1
-(3) For the purposes of subsection (1), income derived under section CS 1 (Withdrawals) by a multi-rate PIE that is a superannuation fund is treated as income in which no investor has an investor interest.
+(3)
 
 ### HM 38 When superannuation fund investor has conditional entitlement
 When this section applies
@@ -24488,14 +24498,24 @@ When this section applies
     (i) derives a dividend that is not fully imputed from a company resident in New Zealand; and
     (ii) pays an amount that represents some or all of the amount of the dividend to a notified foreign investor in the PIE by the date on which the PIE is required to pay its income tax liability under section HM 42 or HM 43, as applicable; and
   (b) the PIE chooses to calculate and pay the tax liability in relation to the amount under subpart RF (Withholding tax on non-resident passive income).
+When this section also applies: supplementary dividends
+(1B) This section also applies when—
+  (a) a foreign investment PIE—
+    (i) derives a dividend with imputation credits attached from a company resident in New Zealand together with a related supplementary dividend; and
+    (ii) has, as an investor, a notified foreign investor who meets the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends); and
+    (iii) pays the investor an amount that represents the total amount of the dividend and supplementary dividend that would be attributed to the investor in the absence of subsection (2); and
+    (iv) pays the amount by the date on which the PIE is required to pay its income tax liability under section HM 42 or HM 43, as applicable; and
+  (b) the PIE chooses to calculate and pay the tax liability in relation to the amount under subpart RF.
 Excluding amount from calculation
-(2) In determining the net amount for notified foreign investors under sections HM 35 and HM 36, to the extent to which the amount represents an unimputed portion of the dividend, the amount is not included in—
+(2) In determining the net amount for notified foreign investors under sections HM 35 and HM 36, to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable, the amount is not included in—
   (a) the item assessable income in section HM 35(3):
   (b) the item income in section HM 36(3).
 Non-resident passive income
-(3) The NRWT rules apply to the amount paid to the extent to which the amount represents an unimputed portion of the dividend.
+(3) The NRWT rules apply to the amount paid to the extent to which the amount represents either an unimputed portion of the dividend, or a dividend together with a related supplementary dividend, as applicable.
 Relationship with section CX 56B
 (4) Despite section CX 56B (Distributions to investors in multi-rate PIEs), the amount is not excluded income of the notified foreign investor.
+Relationship with section HM 35(8)
+(5) When a foreign investment PIE derives a dividend and related supplementary dividend as described in subsection (1B), the allocation rule set out in section HM 35(8) does not apply. The dividend and related supplementary dividend are treated as having been allocated on the date on which ownership of the shares determines a legal entitlement to the dividend.
 
 ### HM 45 Voluntary payments
 When this section applies
@@ -24583,6 +24603,14 @@ Definition of items in formula
   (b) class's percentage is the percentage of the proceeds from the investment to which the investor class is entitled, including related tax credits:
   (c) investor's percentage is the percentage to which the investor is entitled of a distribution by the PIE to the investor class:
   (d) days in period is the number of days in the attribution period.
+Supplementary dividends and foreign investment PIEs
+(5) For the purposes of this section and for a payment of a dividend and related supplementary dividend to a foreign investment PIE, the dividend is treated as if it were divided into separate dividends as follows:
+  (a) a dividend of an amount that represents the part to which the notified foreign investors in the PIE who meet the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends) are entitled; and
+  (b) a dividend of an amount that represents the remaining part to which all investors other than those referred to in paragraph (a) are entitled.
+Imputation credits: first part
+(6) The imputation credits for the dividend referred to in subsection (5)(a) are treated as attached to that part as if it were a separate dividend.
+Imputation credits: second part
+(7) The imputation credits for the dividend referred to in subsection (5)(b) are treated as attached to that part as if it were a separate dividend not payable to a non-resident.
 
 ### HM 51 Use of foreign tax credits by PIEs
 When this section applies
@@ -24700,6 +24728,19 @@ Foreign investment variable-rate PIEs
   (a) identify the income source of each amount; and
   (b) identify the investment type of each amount that is not a foreign-sourced amount; and
   (c) apply the relevant prescribed investor rate set out in schedule 6, table 1B to the amount.
+
+### HM 55FB Notified foreign investors and tax credits for supplementary dividends
+When this section applies
+(1) This section applies when—
+  (a) a foreign investment PIE has an investment consisting of shares in a company resident in New Zealand; and
+  (b) a notified foreign investor in the PIE is a non-resident who meets the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends); and
+  (c) the company has declared a dividend to be paid on a later date.
+Notification by PIE
+(2) The PIE must notify the company of the investors referred to in subsection (1)(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
+Sufficient information
+(3) The information provided by the PIE about the investor must be sufficient to enable the calculation and payment of a supplementary dividend to the PIE in relation to the investor.
+Calculation and payment of supplementary dividend
+(4) The company must use the information provided by the PIE in calculating and paying the supplementary dividend.
 
 ### HM 55G Allowable amounts and thresholds for income with New Zealand source
 For the purposes of sections HM 19B and HM 55H, and schedule 6 (Prescribed rates: PIE investments and retirement scheme contributions) and for a foreign investment zero-rate PIE, the allowable amounts of income that have a source in New Zealand and the thresholds applying to the amounts are—
@@ -26184,18 +26225,7 @@ Cancellation of life insurer's tax loss
 ### Subpart IV — Treatment of certain supplementary dividends
 
 ### IV 1 Supplementary dividend holding companies
-When this section applies
-(1) This section applies when a supplementary dividend holding company derives a supplementary dividend in a tax year.
-Limit on amount
-(2) If the company has a tax loss that is a tax loss component under section IA 2(4) (Tax losses), and is entitled to use the amount under section IA 3, IA 4, IC 5, IS 3, or IS 4 (which relate to a company’s use of tax losses), the maximum amount that it may use must be no more than the amount calculated using the formula—net income−credits + supplementary dividendstax rate.
-Definition of items in formula
-(3) In the formula,—
-  (a) net income is the company’s net income for the tax year:
-  (b) credits is the total amount of non-refundable tax credits and convertible credits that the company has available under Part L (Tax credits and other credits) to use in reducing its income tax liability:
-  (c) supplementary dividends is the total amount of supplementary dividends that the company derives in the tax year:
-  (d) tax rate is the relevant basic tax rate applying in the tax year.
-Calculating credits under Part L
-(4) Subsection (2) does not affect the calculation under Part L of the non-refundable tax credits and convertible credits of a supplementary dividend holding company.
+[Repealed]
 
 ### Subpart IW — Use of tax losses to pay shortfall penalties
 
@@ -27487,12 +27517,21 @@ When this section applies
     (i) the non-resident has less than a 10% direct voting interest in the company; and
     (ii) the post-treaty tax rate for the dividend and the related supplementary dividend is 15% or more; or
   (b)
+  (c) a foreign investment PIE if—
+    (i) a notified foreign investor (a qualifying investor) in the PIE meets the requirements of paragraph (a); and
+    (ii) an amount representing the dividend and the related supplementary dividend is attributed to the qualifying investor, or would be attributed to them in the absence of section HM 44B(2) (NRWT calculation option); and
+    (iii) the PIE notifies the company under section HM 55FB (Notified foreign investors and tax credits for supplementary dividends), providing the relevant information on those qualifying investors who have an entitlement to the dividend and related supplementary dividend.
 Amount of credit
 (2) For the tax year corresponding to the income year in which the company pays the dividend, the company has a tax credit equal to an amount calculated using the formula—attached imputation credit ×54119.
 Definition of item in formula
 (3) In the formula, attached imputation credit is the imputation credit that would, in the absence of this subpart, be attached to the dividend.
+When dividends derived by foreign investment PIEs
+(3B) For the purposes of subsection (1)(c) and the calculation of the amount of the credit, the following apply in relation to a qualifying investor in a foreign investment PIE:
+  (a) the item attached imputation credit in the formula is the imputation credit that would, in the absence of this subpart, be attached to the portion of the dividend attributed to the investor:
+  (b) the relevant amount of the dividend and related supplementary dividend is treated as if it were paid by the company directly to the investor:
+  (c) the investor's voting interest in the company is treated as if it were a direct voting interest.
 Limitation on use of credit
-(4) A company that is a supplementary dividend holding company may choose under section LA 2 or LA 4 (which relate to the satisfaction of the company’s income tax liability) to limit the amount of a tax credit for a tax year. The reduced amount must not be less than the amount of supplementary dividends that the company derives for the income year corresponding to the tax year.
+(4)
 Meaning of year of payment
 (5)
 Associated persons test
@@ -27545,46 +27584,16 @@ Trusts
 (2) If a trustee derives a dividend and is required under the terms of a trust to distribute it as beneficiary income to a beneficiary, the trustee’s distribution of a supplementary dividend does not breach the terms of the trust.
 
 ### LP 7 Requirements for supplementary dividend holding companies
-When this section and sections LP 8 and LP 9 apply
-(1) This section, and sections LP 8 and LP 9, apply for an income year when a company—
-  (a) is a supplementary dividend holding company when it derives a dividend and a related supplementary dividend; and
-  (b) is not part of the same consolidated group as the company paying the dividends, as described in section LP 2(1)(b).
-When requirements no longer met
-(2) The company must notify each company from which it may derive a supplementary dividend if it no longer meets the requirements set out in the definition of supplementary dividend holding company.
+[Repealed]
 
 ### LP 8 Relationship with exempt income rules
-What this section applies to
-(1) This section applies to a supplementary dividend holding company that derives a dividend and related supplementary dividend in an income year when, but for this section, both dividends would be exempt income under section CW 10 (Dividend within New Zealand wholly-owned group).
-Income
-(2) The supplementary dividend holding company derives assessable income equal to an amount calculated using the formula—attached credit + dividendtax rate.
-Definition of items in formula
-(3) In the formula,—
-  (a) attached credit is the imputation credit attached to the dividend:
-  (b) dividend is the supplementary dividend related to the dividend:
-  (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-Treatment of imputation credit
-(4) The imputation credit referred to in subsection (3) is assessable income of the supplementary dividend holding company for the income year for the purposes of section LE 1 (Tax credits for imputation credits).
-(5) Section OZ 12 (Tax credits for non-resident investors) may apply to modify subsection (3)(c).
+[Repealed]
 
 ### LP 9 Relationship with RWT rules
-When this section applies
-(1) This section applies to a supplementary dividend holding company that derives a dividend and related supplementary dividend in an income year.
-When rules do not apply
-(2) The RWT rules do not apply to the dividend or the related supplementary dividend to the extent to which the amount is no more than the amount calculated under section LP 8(2). The RWT rules do not apply to the imputation credit referred to in that section.
+[Repealed]
 
 ### LP 10 Limitation on deductions
-Limitation on total annual deductions
-(1) Despite section BD 4 (Allocation of deductions to particular income years), the annual total deduction of a supplementary dividend holding company under section BC 3 (Annual total deduction) for a tax year must not be more than an amount calculated using the formula—company's income−total credit's + supplementary dividendstax rate.
-Definition of items in formula
-(2) In the formula,—
-  (a) company’s income is the supplementary dividend holding company’s income for the income year that corresponds to the tax year:
-  (b) total credits is the supplementary dividend holding company’s total amount of tax credits that are non-refundable tax credits, tax credits for imputation credits, and tax credits for foreign dividend payment (FDP) credits for the income year that corresponds to the tax year:
-  (c) supplementary dividends is the total amount of supplementary dividends derived by the supplementary dividend holding company for the income year that corresponds to the tax year:
-  (d) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-Tax loss components
-(3) A deduction that would, in the absence of subsection (1), be allocated to the tax year is a tax loss component that may be carried forward under Part I (Treatment of tax losses) if the relevant requirements of that Part are met.
-Calculating credits under this Part
-(4) Subsection (1) does not affect the calculation of the amount of a supplementary dividend holding company’s tax credit under this Part.
+[Repealed]
 
 ### Subpart LQ — Tax credits of conduit tax relief companies
 
@@ -27777,8 +27786,8 @@ Withdrawals
 ### MA 1 What this Part does
 This Part identifies the tax credits to which a person is entitled—
   (a) under the family scheme for a tax year, see subparts MA to MF and MZ (which relate to working for families tax credits):
-  (b) under the superannuation savings scheme for a year beginning on 1 July and ending on 30 June, see subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds):
-  (c) for a redundancy payment, see subpart ML (Tax credits for redundancy payments).
+  (b) under the superannuation savings scheme for a year beginning on 1 July and ending on 30 June, see subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds).
+  (c)
 
 ### MA 2 Relationship with core provisions
 Section BC 8 (Satisfaction of income tax liability) deals with how a tax credit arising under this Part is applied.
@@ -28392,7 +28401,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income)×weekly periods52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $22,568:
+  (a) prescribed amount is $22,724:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -28769,30 +28778,13 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 ### Subpart ML — Tax credits for redundancy payments
 
 ### ML 1 What this subpart does
-Redundancy payments
-(1) This subpart provides a tax credit for a person who derives a redundancy payment before 1 October 2011 for loss of employment.
-Exclusions
-(2) Despite subsection (1), no tax credit arises for a redundancy payment—
-  (a) related to—
-    (i) retirement from employment:
-    (ii) loss of seasonal employment arising from the normal seasonal work cycle:
-    (iii) a contract of employment for a fixed term or for the duration of a project:
-    (iv) employment for a period following notice of termination of employment:
-  (b) paid—
-    (i) to a director of a company by the company or a person associated with the company:
-    (ii) to a person by a person associated with them:
-    (iii) by a person to an employee who has been paid a redundancy payment by a person associated with the person.
+[Repealed]
 
 ### ML 2 Tax credit for redundancy payments
-Tax credit
-(1) A person who derives a redundancy payment before 1 October 2011 has a tax credit of an amount equal to 6 cents for every complete dollar of total redundancy payments derived by them before 1 October 2011. It does not matter whether—
-  (a) a redundancy payment is paid in a lump sum or by instalment:
-  (b) the total redundancy payments relate to 1 or more occasions of redundancy of the person.
-Maximum amount
-(2) Despite subsection (1), the maximum credit that the person has for each occasion of redundancy is $3,600.
+[Repealed]
 
 ### ML 3 Payment by Commissioner
-The person referred to in section ML 2 must apply under section 41B of the Tax Administration Act 1994 to the Commissioner for payment of the tax credit.
+[Repealed]
 
 ### Subpart MZ — Terminating provisions
 
@@ -35096,6 +35088,7 @@ When this section applies
   (d) a fully imputed dividend; or
   (e) an amount of a dividend that is fully credited for FDP.
   (f)
+  (g) an amount paid by a foreign investment PIE to a notified foreign investor under section HM 44B (NRWT calculation option) to the extent to which the amount represents the fully imputed portion of a dividend and the related supplementary dividend derived by the PIE.
 Calculation of amount of tax
 (2) The amount of tax is calculated using the formula—dividend payment × 0.3.
 
@@ -37338,7 +37331,7 @@ In this Act, unless the context requires otherwise,—
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
   - **fully credited for conduit tax relief**
   - **fully imputed** ,—
-    (a) for the purposes of sections CB 26, EX 20B, RF 8, and RF 10 (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
+    (a) for the purposes of sections CB 26, EX 20B, RF 8, RF 10, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed or fully credited):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), means the amount calculated under section HA 15(2) (Fully imputed distributions)
   - **fund provider** , for a person and a KiwiSaver scheme or a complying superannuation fund of which they are a member, means the trustees of the scheme or fund
   - **further FDP** means an amount that a company may be liable to pay under sections OC 30 to OC 34 (which relate to further FDP payable by companies)
@@ -38435,7 +38428,8 @@ In this Act, unless the context requires otherwise,—
     (a) a multi-rate PIE:
     (b) a listed PIE:
     (c) a benefit fund PIE:
-    (d) a life fund PIE
+    (d) a life fund PIE:
+    (e) a foreign investment PIE that is either a foreign investment zero-rate PIE or a foreign investment variable-rate PIE
   - **portfolio investment-linked life fund** means a separate identifiable fund forming part of a life insurer, that—
     (a) holds investments subject to life insurance policies under which benefits are directly linked to the value of the investments held in the fund; and
     (b) has become a portfolio investment entity under section HL 13 (Becoming portfolio investment entity); and
@@ -39102,12 +39096,7 @@ In this Act, unless the context requires otherwise,—
     (b) is paid in relation to the first dividend; and
     (c) is derived by the person; and
     (d) is equal in amount to the tax credit calculated, for the first dividend, under section LP 2(2) (Tax credits for supplementary dividends)
-  - **supplementary dividend holding company** in relation to a company (the ), means a company—
-    (a) that is resident in New Zealand; and
-    (b) that has notified the subsidiary within the previous 7 years that it is a supplementary dividend company, and has not revoked the notice; and
-    (c) that has a purpose, in maintaining the notice, of directly or indirectly enabling the payment of a supplementary dividend to a non-resident; and
-    (d) in which 1 or more voting interests are held by non-residents; and
-    (e) that derives dividends that are not excluded income or exempt income other than income under sections CW 9 and CW 10 (which relate to income from equity)
+  - **supplementary dividend holding company**
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
   - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
@@ -40502,13 +40491,13 @@ The payment rate for an amount of a retirement scheme contribution made by a ret
 
 ## Schedule 2 — Basic tax rates for PAYE income payments
 
-### 1 M, ME, and ML tax codes: payments for weekly pay periods
+### 1 M and ME tax codes: payments for weekly pay periods
 The basic tax rate amount for a payment of salary or wages is set by applying the Commissioner’s weekly PAYE table to the amount, using the employee’s tax code, if—
   (a) the payment is for a weekly pay period (including the case of section RD 3 applying); and
-  (b) the employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994.
+  (b) the employee has notified their employer that the employee’s tax code is M or ME under section 24B(3) of the Tax Administration Act 1994.
 
-### 2 M, ME, and ML tax codes: payments for pay periods longer than a week
-If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment)×weekly PAYE table amount.weekly portion of payment
+### 2 M and ME tax codes: payments for pay periods longer than a week
+If an employee has notified their employer that the employee’s tax code is M or ME under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment)×weekly PAYE table amount.weekly portion of payment
   (a) total payment means the payment of salary or wages to which this clause applies:
   (b) weekly portion of the payment means the portion of the payment that is attributable to the part of the pay period that is for a week if it is assumed that the payment accrued at a uniform daily rate throughout the pay period:
   (c) weekly PAYE table amount means the amount that results from applying the Commissioner’s weekly PAYE table to the weekly portion of the payment (described in paragraph (b)) using the employee’s tax code, as if the weekly portion is a payment for a weekly pay period.
@@ -40866,7 +40855,7 @@ The prescribed investor rate for a person who is an investor in a multi-rate PIE
   (b) notifies this rate for the relevant tax year.
 
 ### 1B Foreign investment variable-rate PIEs and notified foreign investors
-A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE.Table 1BRowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement.0.30002An amount other than an amount referred to in rows 1, 3 to 5, and 7, that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement.0.15004Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is calculated under subpart EW.0.01445A fully imputed dividend derived from a company resident in New Zealand.0.00006A foreign-sourced amount.0.00007An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 4.0.0000
+A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE.Table 1BRowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement.0.30002An amount other than an amount referred to in rows 1, 3 to 7, and 9 that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement.0.15004A fully imputed dividend derived from a company resident in New Zealand in relation to which a supplementary dividend is paid.0.15005A supplementary dividend.0.15006Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is of an amount calculated under subpart EW.0.01447A fully imputed dividend derived from a company resident in New Zealand, other than a dividend in relation to which a supplementary dividend is paid.0.00008A foreign-sourced amount.0.00009An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 4.0.0000
 
 ### 2 Retirement scheme contributions
 The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2.Table 2RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 7.0.3302For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3003For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1754For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1055For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1056For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1057For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
