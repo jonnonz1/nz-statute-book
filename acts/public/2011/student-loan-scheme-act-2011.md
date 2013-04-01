@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2013-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -67,6 +67,7 @@ The purposes of this Act are to—
       (ii) loan interest that has been added to a borrower's loan balance under section 135(2); and
       (iii) late filing penalties; and
       (iv) student loan shortfall penalties; and
+      (iva) an underestimation penalty; and
       (v) annual administration fees charged under section 63L of the Student Loan Scheme Act 1992 or section 189 of this Act; and
       (vi) an amount that is added to the loan balance in accordance with clause 6 of Schedule 6; but
     (b) does not include an unpaid amount
@@ -106,8 +107,8 @@ The purposes of this Act are to—
   - **repayment obligation** means the requirements of so much of the following as applies to a borrower for a particular tax year:
     (a) standard deductions:
     (b) Commissioner deductions for the purposes set out in section 49(1)(a):
-    (c) an end-of-year repayment obligation:
-    (d)
+    (c) any amount that must be paid by a borrower in accordance with a written notification under section 52:
+    (d) end-of-year repayment obligation:
     (e) overseas-based repayment obligation
   - **repayment percentage** means 10% or any other rate prescribed by regulations
   - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
@@ -144,6 +145,7 @@ The purposes of this Act are to—
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **tax year** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **terminal payment** means the amount that a borrower is obliged to pay in relation to an end-of-year repayment obligation in accordance with section 80 and section 81 or 85
+  - **underestimation penalty** means a penalty that a borrower is liable to pay under section 161A
   - **unpaid amount** has the meaning given to it in section 5.
 (2) A reference to a borrower estimating his or her end-of-year repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her end-of-year repayment obligation in accordance with section RC 7 of the Income Tax Act 2007, as applied by section 86 and Schedule 4 of this Act.
 
@@ -153,7 +155,11 @@ The purposes of this Act are to—
   (b) an interim payment default:
   (c) an overseas-based instalment default:
   (d) a consolidated loan balance that is payable as a result of a demand made under a loan contract:
-  (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under section 204 of this Act or section 63N of the Student Loan Scheme Act 1992.
+  (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under section 204 of this Act or section 63N of the Student Loan Scheme Act 1992:
+  (f) an amount that must be paid by a borrower in accordance with a written notification under section 52:
+  (g) a late filing penalty:
+  (h) a student loan shortfall penalty:
+  (i) an underestimation penalty.
 (2) In this section,—
   - **due date** ,—
     (a) in relation to interim payment defaults, means,—
@@ -1173,51 +1179,23 @@ A borrower may be liable to pay late payment interest if the borrower does not m
 (2) Subsection (1) applies despite anything to the contrary in this Act.
 
 ### 117 Overseas-based borrower's standard and Commissioner deductions satisfy overseas-based repayment obligation
-(1) A specified deduction that is made for an overseas-based borrower in a tax year satisfies (so far as it extends) each future obligation of the borrower that has a due date in that tax year in the order in which those obligations become due.
-(2) In this section,—
-  - **future obligation** means an instalment of an overseas-based borrower's repayment obligation for a tax year that must be paid in accordance with section 112 or 115(1)(d)
-  - **specified deduction** means the following deductions made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand:
-    (a) a standard deduction:
-    (b) so much of a Commissioner deduction for the purposes set out in section 49(1)(a) as the Commissioner considers relates to a significant under-deduction that occurred while the borrower was overseas-based.
-(3)
+[Repealed]
 
 ## Part 3 — Excess repayments
 
 ### 118 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **10% bonus** means the bonus specified in, as appropriate, section 123(2), or 124(2)
-  - **final excess repayment** means an excess repayment that, when combined with the resulting 10% bonus, results in the borrower's consolidated loan balance being fully repaid.
+[Repealed]
 
 ### 119 Meaning of excess repayment
-(1) A borrower makes an excess repayment in relation to a tax year if, as at the close of that tax year, that borrower's total payments exceed his or her total obligations.
+(1) An excess repayment, in relation to a borrower and a tax year, is any amount paid or deducted in relation to the borrower's consolidated loan balance for the tax year that is in excess of the total of—
+  (a) all repayment obligations of the borrower for the tax year; and
+  (b) all penalties charged to the borrower for the tax year; and
+  (c) the borrower's unpaid amounts.
 (2) In determining whether an excess repayment has been made, the Commissioner must—
-  (a) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
-  (b) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
-  (c) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
-(3) In this section,—
-  - **total obligations** means—
-    (a) all unpaid amounts; and
-    (b) any standard deductions that were deducted in the tax year except—
-      (i) a significant over-deduction; or
-      (ii) a standard deduction or Commissioner deduction for the purposes set out in section 49(1)(a) made (in accordance with section 116) from the salary or wages an overseas-based borrower derives from New Zealand; and
-    (c) any Commissioner deductions for the purposes set out in section 49(1)(a) that were deducted in the tax year; and
-    (d) any end-of-year repayment obligation for the tax year; and
-    (e)
-    (f) any overseas-based repayment obligation for the tax year; and
-    (g) any amount that must be paid by a borrower in accordance with a written notification under section 52 for the tax year; and
-    (h) penalties imposed under subpart 3 of Part 4
-  - **total payments** means—
-    (a) all salary or wage deductions that were deducted in the tax year (including salary and wage deductions made in accordance with section 116 from the salary or wages an overseas-based borrower derives from New Zealand); and
-    (b) all payments received by the Commissioner during the tax year for a borrower who—
-      (i) does not have to pay interim payments for the tax year; or
-      (ii) must pay the final instalment of an overseas-based repayment obligation in the tax year; and
-    (c) for a borrower who must pay interim payments for the tax year, all payments that—
-      (i) are received by the Commissioner on or before the due date of the borrower's final interim payment for the tax year; and
-      (ii) are for the tax year; and
-    (d) for a borrower who must pay the final instalment of an overseas-based repayment obligation after the tax year, all payments that—
-      (i) are received by the Commissioner on or before the due date of the final instalment; and
-      (ii) are for the tax year; and
-    (e) any excess repayment from a prior tax year that is used to satisfy a repayment obligation for the tax year in accordance with section 132(1)(b).
+  (a) disregard any standard deduction (other than a significant over-deduction) or Commissioner deductions for the purposes set out in section 49(1)(a); and
+  (b) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
+  (c) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
+  (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
 
 ### 120 Commissioner must notify borrower of excess repayment
 (1) Subsection (2) applies if subpart 2 of Part 2 applies to a borrower and—
@@ -1235,11 +1213,11 @@ In this Part, unless the context otherwise requires,—
 
 ### 121 Options that apply to excess repayments
 (1) If an excess repayment is made for a borrower, the borrower may—
-  (a) be eligible to receive a 10% bonus in accordance with subpart 1; or
+  (a)
   (b) choose to receive a refund of the excess repayment in accordance with subpart 2; or
   (c) choose to use the excess repayment to satisfy a future repayment obligation of the borrower in accordance with subpart 2.
 (2) However, any part of an excess repayment that exceeds a borrower's consolidated loan balance—
-  (a) is not eligible for a 10% bonus; and
+  (a)
   (b) must be refunded by the Commissioner (see sections 199 and 200).
 (3) Subsection (2) overrides section 131(1)(a).
 
@@ -1255,52 +1233,28 @@ In this Part, unless the context otherwise requires,—
 ### Subpart 1 — Excess repayment bonus
 
 ### 123 Borrower's entitlement to 10% bonus for excess repayment of $500 or more
-(1) Subsection (2) applies to a borrower if—
-  (a) the borrower's excess repayment for a tax year is $500 or more; and
-  (b) at the beginning of the tax year for which the excess repayment was made, the borrower's loan balance was $550 or more.
-(2) The Commissioner must reduce the borrower's loan balance by an amount equal to 10% of the borrower's excess repayment for the relevant tax year.
+[Repealed]
 
 ### 124 Borrower's entitlement to bonus if loan balance is less than $550
-(1) Subsection (2) applies to a borrower if—
-  (a) the borrower's final excess repayment for a tax year is $500; and
-  (b) at the date on which the final excess repayment was made, the borrower's loan balance was more than $500 but less than $550.
-(2) The Commissioner must reduce the borrower's loan balance to zero.
+[Repealed]
 
 ### 125 Borrower may be entitled to 10% bonus if under-deduction is due to PAYE system
 [Repealed]
 
 ### 126 Time at which 10% bonus is credited
-(1) If a borrower's loan balance will be fully repaid as a result of being reduced by a 10% bonus, that bonus must be credited to the borrower's loan balance with effect from the date on which the final excess repayment was made.
-(2) If a borrower's loan balance will not be fully repaid as a result of being reduced by a 10% bonus, that bonus must be credited to the borrower's loan balance with effect from—
-  (a) 1 April in the tax year that follows the tax year for which the excess repayment was made; or
-  (b) any other date that the Commissioner considers appropriate if the borrower dies or is declared bankrupt.
-(3) However, the Commissioner must not credit a 10% bonus to a borrower's loan balance in accordance with subsection (1) or (2) until the earlier of the following:
-  (a) the Commissioner determines the borrower's excess repayment for the tax year; or
-  (b) the Commissioner is satisfied that there is unlikely to be any further activity in relation to the borrower's student loan.
-(4) If the Commissioner credits a borrower's loan balance in accordance with subsection (3)(b), the Commissioner may reverse that action and instead credit the borrower's loan balance in accordance with subsection (3)(a) if—
-  (a) the borrower requests the Commissioner to do so; or
-  (b) the Commissioner considers that it is appropriate in the circumstances.
-(5) A request under subsection (4)(a) must be made by notifying the Commissioner (see section 211).
+[Repealed]
 
 ### 127 Restriction on amount of 10% bonus
-(1) The total amount of a 10% bonus that may be credited to a borrower must not exceed an amount equal to one-eleventh of the borrower's loan balance on either—
-  (a) the date on which the 10% bonus is credited; or
-  (b) an earlier date determined by the Commissioner, at his or her discretion, that is within the relevant tax year.
-(2) The Commissioner may determine a date under subsection (1)(b) for a borrower only if—
-  (a) 1 or more excess repayments are made for a tax year; and
-  (b) a final excess repayment was made for the same tax year.
+[Repealed]
 
 ### 128 Application of sections 118 to 122 and this subpart to part years
-If a 10% bonus is credited to a borrower's loan balance part-way through a tax year, then—
-  (a) sections 118 to 122 and this subpart must be interpreted as if all references to a tax year were a reference to a tax year that ends on the day on which the 10% bonus is credited to the borrower's loan balance; and
-  (b) the reference to all repayment obligations for the tax year in the definition of total obligations in section 119(3) were a reference to all repayment obligations payable during the tax year.
+[Repealed]
 
 ### 129 Consequences of refund or credit to next tax year
-(1) If the whole or part of a borrower's excess repayment for a tax year is refunded or used to satisfy a future repayment obligation of the borrower in accordance with subpart 2, any 10% bonus that was credited to that borrower must be reduced to an amount equal to 10% of the remaining excess repayment (if any) for the tax year that is $500 or more.
-(2)
+[Repealed]
 
 ### 130 Commissioner must advise borrowers to seek financial advice
-The Commissioner must, in all material that provides information about 10% bonuses and that is made available to all borrowers, include a statement to the effect that borrowers are advised to seek appropriate financial advice before making excess repayments in order to obtain a 10% bonus.
+[Repealed]
 
 ### Subpart 2 — Refund of excess repayments and satisfaction of future repayment obligation
 
@@ -1362,20 +1316,19 @@ The amount of loan interest calculated on a borrower's loan balance must be redu
 ### 139 Late payment interest charged on unpaid amount
 (1) A borrower is liable to pay late payment interest on each unpaid amount if that unpaid amount is $334 or more (or any other level prescribed by regulations).
 (2) Late payment interest is calculated, charged, and added to a borrower's unpaid amount as follows:
-  (a) 0.843% of the unpaid amount on the day after its due date; and
-  (b) 0.843% of the unpaid amount as at each day that falls 1 month after the day on which late payment interest is imposed under paragraph (a) or under this paragraph.
+  (a) the late payment interest rate multiplied by the unpaid amount on the day after its due date; and
+  (b) the late payment interest rate multiplied by the unpaid amount as at each day that falls 1 month after the day on which late payment interest is imposed under paragraph (a) or under this paragraph.
+(3) In this section, late payment interest rate means the base interest rate plus 4%, calculated as an equivalent monthly rate expressed as a percentage and truncated to 3 decimal places.
 
 ### 140 Notification of late payment interest
 The Commissioner must, as soon as practicable after charging late payment interest, give the borrower charged with that interest written notice of the amount of that interest.
 
-### 141 Monthly late payment interest written off if instalment arrangement complied with
+### 141 Late payment interest reduced if instalment arrangement complied with
 (1) This section applies if—
   (a) a borrower is liable to pay late payment interest on an unpaid amount under section 139; and
   (b) the borrower has entered into an instalment arrangement in relation to the unpaid amount in accordance with section 154.
-(2) The unpaid amount continues to be subject to late payment interest despite the instalment arrangement.
-(3) However, the borrower's unpaid amount is reduced by the amount of all late payment interest that accrued on the unpaid amount under section 139(2)(b) during the period of the instalment arrangement if—
-  (a) the instalment arrangement ends; and
-  (b) the borrower met his or her obligations under the instalment arrangement.
+(2) For each month that the borrower meets his or her obligations under the instalment arrangement, any late payment interest that the borrower is liable to pay on the unpaid amount for that month must be calculated as if, in the definition of late payment interest rate in section 139(3), the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
+(3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
 
 **Matters of general application to interest**
 
@@ -1412,6 +1365,7 @@ No interest is payable on—
 ### 145 Application for different types of relief for borrower
 (1) A borrower, or a person on a borrower's behalf, may apply for 1 or more of the following:
   (a) relief from late payment interest (see section 146):
+  (ab) relief from a penalty (see section 146A):
   (b) hardship relief for the current tax year, any prior tax year, or the next tax year (see section 147):
   (c) financial relief by entry into an instalment arrangement (see section 154).
 (2) An application under subsection (1)(a) must be made by notifying the Commissioner in a manner acceptable to the Commissioner.
@@ -1428,11 +1382,28 @@ No interest is payable on—
   (b) regardless of whether that late payment interest has been paid, either in whole or in part; and
   (c) if an application is made under section 145(1)(a) for relief from late payment interest.
 (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the late payment interest as the Commissioner considers equitable.
-(3) So much of any cancelled late payment interest that has already been paid must be offset as follows:
-  (a) first, against any unpaid amount the borrower has; and
-  (b) secondly, any remainder must be offset against the borrower’s current year obligations; and
-  (c) thirdly, any remainder must be offset against the borrower’s loan balance.
-(4) Where any amount is, under subsection (3)(c), applied to the loan balance, the borrower may choose to have that amount refunded in whole or in part, and section 132(2) and (3) apply to that choice with all necessary modifications.
+(3) If late payment interest is cancelled,—
+  (a) the borrower's consolidated loan balance is decreased by the amount of the cancelled late payment interest; and
+  (b) if the late payment interest has been added to the borrower's unpaid amount under section 139 (whether calculated at the full late payment interest rate in accordance with section 139(2) or the reduced late payment interest rate in accordance with section 141), the borrower's unpaid amount is decreased by the amount of the cancelled late payment interest; and
+  (c) any payment made in excess of the remaining amount of late payment interest payable (if any) by the borrower (an excess payment) must be offset against the borrower's consolidated loan balance as follows:
+    (i) first, against any unpaid amount; and
+    (ii) secondly, against the loan balance; and
+  (d) the Commissioner must refund any remaining excess payment to the borrower (see sections 199 and 200).
+
+**Relief from penalties**
+
+### 146A Commissioner may grant relief from penalties
+(1) Subsection (2) applies—
+  (a) if a borrower has been charged with a penalty; and
+  (b) regardless of whether that penalty has been paid, either in whole or in part; and
+  (c) if an application is made under section 145(1)(ab).
+(2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the penalty as the Commissioner considers equitable.
+(3) For the purposes of this section, penalty—
+  (a) means—
+    (i) a late filing penalty:
+    (ii) an underestimation penalty:
+    (iii) a student loan shortfall penalty; but
+  (b) despite paragraph (a)(iii), does not include a student loan shortfall penalty where, for the purposes of the application of section 159 (as set out in section 158), the shortfall penalty for which the borrower was liable was imposed under section 141D or 141E of the Tax Administration Act 1994.
 
 **Hardship relief**
 
@@ -1440,7 +1411,11 @@ No interest is payable on—
 (1) If an application is made under section 145(1)(b) for hardship relief, the Commissioner may, for any period the Commissioner considers equitable, decrease a borrower's repayment obligation if the Commissioner—
   (a) is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or
   (b) considers that there are other special reasons that make it fair and reasonable to do so.
-(2) However, the Commissioner must not refund any amount that was deducted or paid to meet a repayment obligation for a tax year prior to the current tax year other than the tax year that immediately precedes the current tax year.
+(2) However, the Commissioner must not—
+  (a) refund any amount that was deducted or paid to meet a repayment obligation for a tax year prior to the current tax year other than the tax year that immediately precedes the current tax year; or
+  (b) decrease a repayment obligation if—
+    (i) a student loan shortfall penalty has been imposed on a borrower under section 159 in relation to the tax year that the repayment obligation relates to; and
+    (ii) for the purposes of the application of section 159 (as set out in section 158), the shortfall penalty for which the borrower was liable was imposed under section 141D or 141E of the Tax Administration Act 1994.
 
 ### 148 Special deduction rate certificate for hardship relief
 (1) Subsection (2) applies if—
@@ -1532,7 +1507,7 @@ Section 159 applies to a borrower if—
 
 ### 159 Commissioner may impose student loan shortfall penalties
 (1) If this section applies to a borrower, the Commissioner may, at his or her discretion, impose a student loan shortfall penalty on the borrower.
-(2) The amount of a student loan shortfall penalty is calculated in accordance with the formula—a = b × cwhere—ais the amount of the student loan shortfall penaltybis the amount of the repayment obligation shortfallcis the final percentage imposed under the Tax Administration Act 1994 for the shortfall penalty after adjustment, if any, under section 141FB, 141G, 141H, 141I, 141J, or 141K of the Tax Administration Act 1994, as applicable.
+(2) The amount of a student loan shortfall penalty is calculated in accordance with the formula—a = b × cwhere—ais the amount of the student loan shortfall penaltybis the amount of the repayment obligation shortfall (treating any relief granted under section 147 as if it had not been granted)cis the final percentage imposed under the Tax Administration Act 1994 for the shortfall penalty after adjustment, if any, under section 141FB, 141G, 141H, 141I, 141J, or 141K of the Tax Administration Act 1994, as applicable.
 
 ### 160 Notification and payment obligations if Commissioner imposes student loan shortfall penalty
 (1) This section applies if the Commissioner imposes a student loan shortfall penalty on a borrower.
@@ -1549,6 +1524,17 @@ Section 159 applies to a borrower if—
   (b) as a result, the shortfall penalty is reduced or removed; and
   (c) the shortfall penalty was the basis for the Commissioner imposing a student loan shortfall penalty on the borrower under section 159.
 (2) The Commissioner must, as appropriate, reduce or remove the borrower's student loan shortfall penalty to reflect the decision that was made in relation to the shortfall penalty.
+
+**Underestimation penalty**
+
+### 161A Underestimation penalty where interim payments underestimated as at last interim payment date
+(1) A borrower is liable to pay an underestimation penalty if the borrower has estimated his or her end-of-year repayment obligation in respect of a tax year and, on the due date for the borrower's last interim payment for the tax year,—
+  (a) the estimate applying is less than 80% of the borrower's end-of-year repayment obligation and is less than the borrower's total interim payments would have been had the borrower not estimated; and
+  (b) the amount of the interim payments made on or before the due date for the borrower's last interim payment is less than 80% of the borrower's end-of-year repayment obligation for the year.
+(2) The amount of the underestimation penalty is calculated in accordance with the formula—a = (b − c) × 10%where—ais the amount of the underestimation penaltybis the borrower's end-of-year repayment obligation for the tax yearcis the greater of—
+  (i) the amount of the borrower's estimate, applying at the due date for payment of the last interim payment; and
+  (ii) the amount of the interim payments paid on or before the due date for payment of the last interim payment.
+(3) A penalty imposed under this section is payable on or before the borrower's due date for payment of his or her terminal payment under section 81 or 85.
 
 **Offences**
 
@@ -1769,9 +1755,12 @@ If this Act does not specify a date by which an amount payable under this Act is
 If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
 
 ### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
-A salary or wage deduction or payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
+(1) A salary or wage deduction or payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
   (a) first, against any interest charged; and
   (b) secondly, any remainder must be offset against any principal outstanding.
+(2) The following must not be used to satisfy other repayment obligations, unpaid amounts, or penalties:
+  (a) a standard deduction that is not a significant over-deduction:
+  (b) a Commissioner deduction for the purposes of section 49(1)(a) that does not exceed the total amount specified under section 49(2)(b).
 
 ### 195 Date on which salary or wage deductions and payments treated as being made and credited
 (1) A salary or wage deduction is made on the date the deduction is made.
@@ -1789,22 +1778,22 @@ A salary or wage deduction or payment received by the Commissioner in respect of
 
 ### 196 Cancellation of interest if consolidated loan balance repaid early
 (1) Subsection (2) applies if—
-  (a) the Commissioner informs or notifies a borrower of the borrower's consolidated loan balance (the notification) on or before 31 March 2013; and
+  (a) the Commissioner informs or notifies a borrower of the borrower's consolidated loan balance (the notification); and
   (b) the borrower pays the consolidated loan balance stated in the notification in full within 30 days after the date of the notification.
 (2) The Commissioner must cancel any loan interest that is calculated and accrued between the date of the notification and the date on which the payment is received.
 (3) A notification provided on or after 2 March 2012 under section 60A(1) of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
-(4) This section is repealed on the close of 1 May 2013.
+(4)
 
 ### 197 Write-off of consolidated loan balance
 (1) A borrower's consolidated loan balance must be reduced to zero if—
   (a) the borrower dies; or
-  (b) the Commissioner has reasonable grounds for believing that the borrower has died; or
-  (c) the borrower's consolidated loan balance is less than $20 on the last day of a tax year.
-(2) Subsection (1)(a) has effect from the day on which the borrower died.
-(3) Subsection (1)(b) has effect from the day on which the borrower is believed to have died.
-(4) Subsection (1)(c) has effect from the close of the last day of the relevant tax year.
-(5) If a borrower's consolidated loan balance is reduced to zero under subsection (1)(a) or (c), that action may not be reversed.
-(6) Subsection (5) applies despite anything to the contrary.
+  (b) the Commissioner has reasonable grounds for believing that the borrower has died.
+(2) The Commissioner may reduce a borrower's consolidated loan balance to zero if that balance is less than $20.
+(3) Subsection (1)(a) has effect from the day on which the borrower died.
+(4) Subsection (1)(b) has effect from the day on which the borrower is believed to have died.
+(5) Subsection (2) has effect from the day on which the Commissioner exercises his or her discretion to reduce the consolidated loan balance to zero.
+(6) If a borrower's consolidated loan balance is reduced to zero under subsection (1)(a) or (2), that action may not be reversed.
+(7) Subsection (6) applies despite anything to the contrary.
 
 ### 198 Commissioner may remedy incorrect application of Act
 (1) The Commissioner may take whatever steps are necessary to reflect the manner in which this Act should have been applied to a borrower if—
@@ -1984,20 +1973,7 @@ Regulations made under section 215 or 216 are regulations for the purposes of th
 [Repealed]
 
 ### 219 Early applications and issue of certificates for transition to this Act
-(1) A borrower may—
-  (a) make an application under section 42 or 145(1)(b); and
-  (b) if applicable, notify his or her employer in writing that a special deduction rate applies to the borrower; and
-  (c) request his or her employer or PAYE intermediary (in accordance with section 39) to make borrower deductions; and
-  (d) make a declaration in accordance with sections 54(2) and 55.
-(2) The Commissioner may—
-  (a) issue a special deduction rate certificate under section 45 or 148; and
-  (b) issue an additional deduction rate notice under section 49(2); and
-  (c) if applicable, follow the procedures in section 50(1); and
-  (d) issue a notice under section 56(b).
-(3) This Act applies, for the purpose of giving effect to this section, as if it were in force from 1 March 2012.
-(4) However, a special deduction rate, an additional deduction rate notice, or a notice issued under section 56(b) that applies to a borrower under this section, or a request under subsection (1)(c), does not have effect until the later of—
-  (a) 1 April 2012; and
-  (b) any later date specified in the special deduction rate certificate, the additional deduction rate notice, the notice issued under section 56(b), or the request under subsection (1)(c).
+[Repealed]
 
 ### 220 Application, savings, and transitional provisions
 (1) The application, savings, and transitional provisions set out in Schedule 6 have effect for the purposes of this Act.
@@ -2293,146 +2269,6 @@ In this Part,—
 (6) This clause is repealed on 1 April 2018.
 
 ## Schedule 7 — Amendments to this Act
-
-### 1 New section 5 substituted
-Section 5 is repealed and the following section substituted:Meaning of unpaid amount
-  (1) In this Act, unpaid amount, in relation to a borrower, means the aggregate amount of so much of each of the following as has not been paid on or before the due date and has not been decreased, reduced, or written off by the Commissioner:
-    (a) a remaining repayment:
-    (b) an interim payment:
-    (c) an overseas-based repayment obligation:
-    (d) a consolidated loan balance that is payable as a result of a demand made under a loan contract:
-    (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under section 204 of this Act or section 63N of the Student Loan Scheme Act 1992:
-    (f) an amount that must be paid by a borrower in accordance with a written notification under section 52:
-    (g) a late filing penalty:
-    (h) a student loan shortfall penalty:
-    (i) late payment interest that has been added to a borrower's unpaid amount under section 141(2).
-  (2) However, an interim payment is an unpaid amount to the extent only that the interim payment (determined at the end of the tax year) that should have been payable on its due date exceeds the payment that was paid on or before that date.
-  (3) In determining an unpaid amount,—
-    (a) remaining repayments calculated under sections 80(4) and 93(4) for the tax year replace the interim payments that were payable for that year; and
-    (b) those remaining repayments must be treated as having been unpaid from the day after the due date of the interim payments; and
-    (c) the interim payments must be disregarded.
-
-### 2 Overseas-based borrower's standard and Commissioner deductions satisfy overseas-based repayment obligation
-Section 117(3) is amended by omitting section 194 and substituting sections 194 to 194D.
-
-### 3 Heading and new sections 134 to 137 substituted
-The heading above section 134 and sections 134 to 138 are repealed and the following heading and sections substituted:Loan interest charged for borrowers who are overseas-basedLoan interest charged for borrowers who are overseas-basedLoan interest calculated daily and charged and compounded monthlyNotification that loan interest has compounded1992 No 141 s 43(1)Loan interest written off for quick repayment of consolidated loan balance1992 No 141 s 38AM.
-  (1) A borrower is liable to pay loan interest on his or her loan balance for each day that the borrower is overseas-based.
-  (2) Loan interest must be calculated in accordance with the formula—a =(b × c)365where—ais the loan interestbis the borrower's loan balance on the relevant daycis the base interest rate.
-  (1) Loan interest is calculated each day that a borrower is overseas-based and has a loan balance.
-  (2) Loan interest is charged and added to the borrower's loan balance on the last day of each month.
-  (3) However, no interest is charged or added under subsection (2) for a month if the loan balance is paid in full on or before the last day of that month.
-  If loan interest is added to a borrower's loan balance in accordance with section 135(2), the Commissioner must, at least once in the following 12 months, notify the borrower in writing of—
-    (a) the opening and closing dates of the period covered by the notification; and
-    (b) the borrower's loan balance on the opening and closing dates; and
-    (c) the date and amount of all loan interest charged to the borrower during the period covered by the notification.
-  (1) This section applies to a person who—
-    (a) was an overseas-based borrower; and
-    (b) would subsequently have been treated as being New Zealand-based except that he or she ceased to be a borrower because of paragraph (c); and
-    (c) fully repaid his or her consolidated loan balance before the end of the period of 183 consecutive days under which the borrower would have been treated as being New Zealand-based.
-  (2) Loan interest that is charged on the person's loan balance is reduced to zero for the period—
-    (a) starting on the first day of the 183-day period; and
-    (b) ending on the day on which the person's consolidated loan balance was fully repaid.
-
-### 4 Heading and new sections 139 to 141B substituted
-The heading above section 139 and sections 139 to 141 are repealed and the following heading and sections substituted:Late payment interestLate payment interest charged on unpaid amount1992 No 141 s 44Late payment interest reduced if instalment arrangement complied withLate payment interest calculated daily and charged and compounded monthlyInitial notification that late payment interest is payable1992 No 141 ss 43(1), 45Ongoing notification requirements regarding late payment interest1992 No 141 ss 43(1), 45.
-  (1) A borrower is liable to pay late payment interest on his or her unpaid amount if that unpaid amount is $500 or more (or any other level prescribed by regulations).
-  (2) Late payment interest must be calculated in accordance with the formula—a =(b × c)365where—ais the late payment interestbis the unpaid amountcis the base interest rate plus 4%.
-  (1) This section applies if—
-    (a) a borrower is liable to pay late payment interest on an unpaid amount under section 139; and
-    (b) the borrower has entered into an instalment arrangement in relation to the unpaid amount in accordance with section 154.
-  (2) For each month that the borrower meets his or her obligations under the instalment arrangement, any late payment interest that the borrower is liable to pay on the unpaid amount for that month must be calculated as if item c in the formula in section 139(2) is the base interest rate plus 2%.
-  (3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
-  (1) Late payment interest is calculated each day after the due date of an unpaid amount until the unpaid amount is paid in full.
-  (2) Late payment interest is charged and added to a borrower's unpaid amount on the last day of each month.
-  (3) However, no interest is charged or added under subsection (2) for a month if the unpaid amount is paid in full on or before the last day of that month.
-  (1) The Commissioner must, as soon as practicable after a borrower becomes liable to pay late payment interest, notify that borrower in writing.
-  (2) The notification must specify—
-    (a) the unpaid amount; and
-    (b) that the borrower is liable to pay late payment interest on the unpaid amount in accordance with this subpart; and
-    (c) the amount of late payment interest (if any) that has been added to the unpaid amount under section 141(2) as at the date of the notification; and
-    (d) the date on which late payment interest will next be added to the unpaid amount under section 141(2).
-  (1) The Commissioner must, as soon as practicable after late payment interest is added to a borrower's unpaid amount under section 141(2), notify the borrower in writing—
-    (a) of the unpaid amount on which the late payment interest has been charged; and
-    (b) that the borrower has been charged with late payment interest on that unpaid amount; and
-    (c) of the amount of that interest; and
-    (d) that the unpaid amount has been increased by the amount of that interest; and
-    (e) of the new total of the borrower's unpaid amount; and
-    (f) that the new total of the borrower's unpaid amount is itself subject to late payment interest; and
-    (g) of the date on which late payment interest will next be added to the borrower's unpaid amount under section 141(2).
-  (2) The Commissioner may notify the borrower in writing of the borrower's unpaid amount and late payment interest at any other time the Commissioner chooses.
-
-### 5 Power of Commissioner in relation to small amounts
-Section 144 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) The Commissioner may refrain from collecting payment of an unpaid amount if that unpaid amount is less than $500.
-
-### 6 New section 146 substituted
-Section 146 is repealed and the following section substituted:Commissioner may grant relief from late payment interest1992 No 141 s 53.
-  (1) Subsection (2) applies—
-    (a) if a borrower has been charged with late payment interest; and
-    (b) regardless of whether that late payment interest has been paid, either in whole or in part; and
-    (c) if an application is made under section 145(1)(a) for relief from late payment interest.
-  (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the late payment interest as the Commissioner considers equitable.
-  (3) If late payment interest is cancelled,—
-    (a) the borrower's consolidated loan balance is decreased by the amount of the cancelled late payment interest; and
-    (b) if the late payment interest has been added to the borrower's unpaid amount under section 141(2), the borrower's unpaid amount is decreased by the amount of the cancelled late payment interest; and
-    (c) any payment made in excess of the remaining amount of late payment interest payable (if any) by the borrower (an excess payment) must be offset against the borrower's consolidated loan balance as follows:
-      (i) first, against any unpaid amount; and
-      (ii) secondly, against the loan balance; and
-    (d) the Commissioner must refund any remaining excess payment to the borrower (see sections 199 and 200).
-
-### 7 New sections 194 to 194D substituted
-Section 194 is repealed and the following sections are substituted:Definition used in sections 194A to 194DOrder in which salary or wage deduction offset against borrower's consolidated loan balance1992 No 141 s 50Order in which payments offset against borrower's consolidated loan balance1992 No 141 s 50Exception to sections 194A and 194B if instalment arrangement entered intoManner in which salary or wage deductions and payments are offset1992 No 141 s 50.
-  In sections 194A to 194D, current year obligations means each of the following that has a due date in or for the tax year in which the payment was received by the Commissioner:
-    (a) an amount that must be paid by a borrower in accordance with a written notification under section 52:
-    (b) a remaining repayment:
-    (c) an interim payment:
-    (d) an instalment of an overseas-based borrower's repayment obligation for a tax year that must be paid in accordance with section 112 or 115(1)(d):
-    (e) a late filing penalty:
-    (f) a student loan shortfall penalty.
-  (1) A standard deduction received by the Commissioner in respect of a borrower must be offset against the borrower's loan balance.
-  (2) A Commissioner deduction for the purposes set out in section 49(1)(a) received by the Commissioner in respect of a borrower must be offset against the borrower's loan balance.
-  (3) A Commissioner deduction for the purposes set out in section 49(1)(b) received by the Commissioner in respect of a borrower must be offset as follows:
-    (a) first, against any unpaid amount the borrower has; and
-    (b) secondly, any remainder must be offset against the borrower's current year obligations; and
-    (c) thirdly, any remainder must be offset against the borrower's loan balance.
-  (4) A borrower deduction received by the Commissioner in respect of a borrower must be offset as follows:
-    (a) first, against any unpaid amount the borrower has; and
-    (b) secondly, any remainder must be offset against the borrower's current year obligations; and
-    (c) thirdly, any remainder must be offset against the borrower's loan balance.
-  A payment received by the Commissioner in respect of a borrower's consolidated loan balance must be offset as follows:
-    (a) first, against any unpaid amount the borrower has; and
-    (b) secondly, any remainder must be offset against the borrower's current year obligations; and
-    (c) thirdly, any remainder must be offset against the borrower's loan balance.
-  (1) This section applies to borrower deductions or payments that—
-    (a) are made by, or on behalf of, a borrower who has entered into an instalment arrangement in accordance with section 154; but
-    (b) are not made for the borrower to meet his or her obligations under the instalment arrangement.
-  (2) The borrower deductions and payments must be offset as follows:
-    (a) first, against the borrower's current year obligations; and
-    (b) secondly, any remainder must be offset against any unpaid amount the borrower has; and
-    (c) thirdly, any remainder must be offset against the borrower's loan balance.
-  (3) This section overrides sections 194A and 194B.
-  (1) A salary or wage deduction or payment that is offset against an unpaid amount must be credited to the borrower's unpaid amount.
-  (2) A salary or wage deduction or payment that is offset against current year obligations must—
-    (a) be offset against each of the borrower's current year obligations in the order in which those obligations become due, from the earliest to the latest; and
-    (b) if a remaining repayment and an interim payment are due on the same date, be offset against the remaining repayment before being offset against the interim payment; and
-    (c) be credited to the borrower's loan balance.
-  (3) A salary or wage deduction or payment that is offset against a loan balance must be credited to the borrower's loan balance.
-
-### 8 New section 197 substituted
-Section 197 is repealed and the following section substituted:Write-off of consolidated loan balance1992 No 141 s 60.
-  (1) A borrower's consolidated loan balance must be reduced to zero if—
-    (a) the borrower dies; or
-    (b) the Commissioner has reasonable grounds for believing that the borrower has died.
-  (2) The Commissioner may reduce a borrower's consolidated loan balance to zero if that balance is less than $20.
-  (3) Subsection (1)(a) has effect from the day on which the borrower died.
-  (4) Subsection (1)(b) has effect from the day on which the borrower is believed to have died.
-  (5) Subsection (2) has effect from the day on which the Commissioner exercises his or her discretion to reduce the consolidated loan balance to zero.
-  (6) If a borrower's consolidated loan balance is reduced to zero under subsection (1)(a) or (2), that action may not be reversed.
-  (7) Subsection (6) applies despite anything to the contrary.
-
-### 9 Section 219 repealed
-Section 219 is repealed.
 
 ## Schedule 8 — Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003
 
