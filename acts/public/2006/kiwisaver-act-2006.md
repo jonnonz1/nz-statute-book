@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2012-11-02_
+_Consolidation as at 2013-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -780,12 +780,13 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### 64 Contribution rate
 (1) The contribution rate, in relation to an employee and to an employer and to each payment of salary or wages, is—
-  (a) 2% of the employee's gross salary or wages, if––
+  (a) 3% of the employee's gross salary or wages, if––
     (i) section 60(1)(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or
     (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
+    (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
-(2) Despite subsection (1), the employee may choose a contribution rate of 2%, 4%, or 8% of their gross salary or wages by giving notice to their employer of the rate they choose.
+(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, or 8% of their gross salary or wages by giving notice to their employer of the rate they choose.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
 
@@ -1076,8 +1077,8 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (3) Payment of gross salary or wages is the amount of a payment of gross salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund.
 (4) CEC rate is, for the payment of gross salary or wages,—
   (a) 1%, if the payment of gross salary or wages is made for a pay period that is in the year starting on 1 April 2008:
-  (b) 2%, if the payment of gross salary or wages is made for a pay period that is in a year starting on or after 1 April 2009.
-  (c)
+  (b) 2%, if the payment of gross salary or wages is made for a pay period that starts on or before 31 March 2013, excluding a pay period to the extent to which paragraph (a) applies to it:
+  (c) 3%, if the payment of gross salary or wages is made for a pay period that is in a year starting on or after 1 April 2013, excluding a pay period that paragraph (b) applies to.
   (d)
 (5) Other contributions is the total of amounts that the employer pays or credits in relation to the employee for the period to which the payment of gross salary or wages relates, to the extent to which the amounts are—
   (a) employer contributions made in the absence of this section:
