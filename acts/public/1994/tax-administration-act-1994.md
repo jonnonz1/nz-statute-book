@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2013-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1231,9 +1231,9 @@ An information holder who is required to disclose information in relation to a p
   (b) a schedular payment:
   (c) a payment of an income-tested benefit.
 (3) An employee must notify their employer that their tax code is 1 of the following:
-  (a) M for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 or LC 13 of the Income Tax Act 2007:
+  (a) M for primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
   (ab) ME for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
-  (b) ML for primary employment earnings when the employee is entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
+  (b)
   (bb) SB for secondary employment earnings for an employee whose annual income is not more than $14,000:
   (c) S for secondary employment earnings for an employee whose annual income is not more than $48,000:
   (d) SH for secondary employment earnings for an employee whose annual income is more than $48,000 but is not more than $70,000:
@@ -1276,7 +1276,7 @@ An employee who wishes to have a tax code for their employment as a private dome
 (4) For the purposes of subsection (3), the employee must give the reason why the tax code no longer applies and the date on which entitlement ended.
 (5) If the employee provides their employer with a tax code notification or tax code certificate within the period of 7 days after the date on which they become aware that they are no longer entitled to use a tax code, the tax code in the notification or certificate applies from the date on which the entitlement to use the earlier code ends.
 (6) When an employee’s entitlement to use a certain tax code ends, their employer is not liable for withholding a reduced amount of tax for a payment if they have not received notice that the entitlement has ended.
-(7) An employee is not entitled to use the tax code ML in a tax year if the employee knows or expects, or should have known or expected, that they will not be entitled to a tax credit under section LC 4 of the Income Tax Act 2007.
+(7)
 
 ### 24I PAYE tax code notification and certificate
 (1) An employee who wishes to have the amount of tax for a PAYE income payment reduced may notify their employer of the applicable tax code. This subsection applies separately for each employment situation.
