@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2012-12-18_
+_Consolidation as at 2013-04-02_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
