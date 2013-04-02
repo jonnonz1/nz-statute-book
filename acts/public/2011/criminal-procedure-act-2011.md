@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-04-02_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
