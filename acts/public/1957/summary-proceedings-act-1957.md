@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-04-02_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to summary criminal proceedings in District Courts
 
@@ -3700,6 +3700,10 @@ The enactments specified in Schedule 3 are hereby amended in the manner indicate
 |  |  | 221A |  | Electoral advertisements |
 |  |  | 222 |  | Procurement of voting by unqualified voters |
 | Electoral Referendum Act 2010 |  | 66(c) |  | Contravening requirement for referendum advertisement to include promoter statement |
+| Electronic Identity Verification Act 2012 |  | 60 |  | Offences relating to Service information and material |
+|  |  | 61 |  | Offence relating to improper issue |
+|  |  | 62 |  | Offences relating to improper access and use |
+|  |  | 63 |  | Offences involving statements or documentation |
 | Films, Videos, and Publications Classification Act 1993 |  | 124(1) |  | Offences involving knowledge in relation to objectionable publications |
 |  |  | 127(4) |  | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
 |  |  | 131A(1) |  | Offences relating to possession of objectionable publications and involving knowledge |
