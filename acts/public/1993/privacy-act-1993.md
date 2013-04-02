@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2013-03-30_
+_Consolidation as at 2013-04-02_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1809,6 +1809,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Customs and Excise Act 1996 | Sections 280 to 280D, 280K, 280L and 280H |
 | Education Act 1989 | Sections 128A, 226A, 238B, and 307D |
 | Electoral Act 1993 | Sections 263A and 263B |
+| Electronic Identity Verification Act 2012 | Section 39 |
 | Housing Restructuring and Tenancy Matters Act 1992 | Section 68 |
 | Immigration Act 2009 | Sections 294, 295, 298, 299, and 300 |
 | Motor Vehicle Sales Act 2003 | Sections 120 to 123 |
