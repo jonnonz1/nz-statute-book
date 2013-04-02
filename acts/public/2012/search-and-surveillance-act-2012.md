@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-04-02_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -2355,6 +2355,10 @@ Section 24 is repealed.
 (2) Section 47(2) is amended by omitting A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable) and substituting An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act,.
 (3) Section 47 is amended by repealing subsection (3) and substituting the following subsection:
   (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply, with any necessary modifications.
+
+### 239A Amendments to Electronic Identity Verification Act 2012
+(1) This section amends the Electronic Identity Verification Act 2012.
+(2) In section 25, replace A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the Summary Proceedings Act 1957 with An issuing officer may issue a search warrant under the Search and Surveillance Act 2012.
 
 **Amendments to Extradition Act 1999**
 
