@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-04-17_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1514,6 +1514,15 @@ The chief executive must take reasonable and appropriate steps to make every per
   provided that the chief executive may at any time, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit:
   provided also that, where the chief executive is of the opinion that a person applying for or in receipt of an invalid's benefit, a domestic purposes benefit, a widow's benefit, or an unemployment benefit or a sickness benefit should undergo a course of training in any occupation, or should submit himself for examination at any medical or psychological clinic, or should receive any medical or other treatment, or should undergo any course of training for the improvement of his physical or mental capacities, or should do any work required of him, or should take more adequate steps to secure suitable employment, the chief executive may, in the chief executive's discretion, grant an emergency benefit instead of or in substitution for an invalid's benefit, a domestic purposes benefit, a widow's benefit, an independent youth benefit, or an unemployment benefit or a sickness benefit; and in any such case the grant or continuance of the emergency benefit may be made subject to the condition that he shall comply with the requirements of the chief executive in respect of any such matters.
 (1A) Where the chief executive is considering granting an emergency benefit on the grounds of hardship under subsection (1), the chief executive must first consider whether to grant a sickness benefit under section 54A or an unemployment benefit under section 90 or a youth payment under section 161 or a young parent payment under section 167.
+(1B) This subsection applies to a person if, after the commencement of this subsection and before 15 July 2013, the person is aged 65 years old or older and is receiving a benefit under this Act that is not—
+  (a) a domestic purposes benefit for care of the sick or infirm; or
+  (b) an emergency benefit; or
+  (c) an invalid’s benefit; or
+  (d) temporary additional support.
+(1C) The chief executive may cancel the benefit being received by a person to whom subsection (1B) applies and grant the person instead an emergency benefit payable at the same rate of benefit as the benefit the person was receiving.
+(1D) In exercising the power given by subsection (1C), the chief executive is not required to—
+  (a) exercise discretion; or
+  (b) determine whether the person would meet the requirements in subsection (1) for an emergency benefit.
 (2) The rate of the emergency benefit shall, in each case, be in the discretion of the chief executive, but, except in any case where the beneficiary is receiving medical or other treatment, shall not exceed the rate to which the beneficiary would be entitled if he were qualified to receive such other benefit as in the opinion of the chief executive is analogous to the emergency benefit.
 (3) Every emergency benefit shall commence on such date and shall be continued for such period and subject to such conditions as the chief executive in each case determines.
 
@@ -1938,11 +1947,12 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 [Repealed]
 
 ### 69C Disability allowance
-(1) Subject to subsections (2) to (4), the chief executive may, in the chief executive's discretion, grant a disability allowance at a rate not exceeding the amount specified in Schedule 19, to or on account of—
+(1) The chief executive may, in the chief executive's discretion, grant a disability allowance at a rate not exceeding the amount specified in Schedule 19, to or on account of—
   (a) any person who is in receipt of an invalid's benefit, a widow's benefit, a domestic purposes benefit, an unemployment benefit or a sickness benefit, a youth payment, or a young parent payment, or a related emergency benefit payable under section 61; or
   (b)
   (c) any person whose income, including the income of the person's spouse or partner and any New Zealand superannuation or veteran's pension payable to the person or the person's spouse or partner, is less than the appropriate amount in Part 3 of Schedule 31; or
   (d) the dependent spouse or partner or dependent child of any person referred to in paragraphs (a) to (c).
+(1A) Subsection (1) is subject to subsections (2) to (4) and (7A) to (7E) of this section, and to regulations under section 132AD.
 (2) A disability allowance is not payable to or on account of any such person unless the chief executive is satisfied that the disability of the person—
   (a) is likely to continue for not less than 6 months; and
   (b) has resulted in a reduction of the person's independent function to the extent that the person requires—
@@ -1971,6 +1981,25 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 (7) Where any person, whose application for a disability allowance has been declined only on the grounds that the disability is likely to last less than 6 months, subsequently shows to the satisfaction of the chief executive that the disability in respect of which that application was made—and that the person would otherwise have been entitled to receive a disability allowance since the date of the original application, the chief executive must grant a disability allowance to that person commencing on the date of the original application.
   (a) is likely to last for 6 months or more; or
   (b) has continued for 6 months or more,—
+(7A) This subsection applies to a person if—
+  (a) any additional expenses arising from a disability relate to the supply of any goods or services to the person or a member of the person's family; and
+  (b) all or a specified part of a disability allowance is granted in respect of the supply of the goods or services; and
+  (c) those goods or services are of a class, description, or kind supplied by a preferred supplier (being a preferred supplier to, or in respect of, the area in which the person resides) under a contract entered into with the chief executive under section 125AA.
+(7B) If subsection (7A) applies to a person,—
+  (a) the person must, for every supply of the goods or services after a nomination given to the person by the chief executive has come into force and while it remains in force, purchase the goods or services from a preferred supplier specified in that nomination and at the price determined by the contract under section 125AA with that supplier; and
+  (b) the chief executive must, despite subsections (1) to (7), pay all, or the specified part, of the disability allowance that is granted in respect of the supply of the goods or services to that supplier in consideration of the supply of the goods or services to the person or the person's family member.
+(7BA) A nomination under subsection (7B)(a)—
+  (a) may be given orally or in writing (but, if given orally, must as soon as practicable be confirmed in writing); and
+  (b) may from time to time be amended, revoked, or revoked and replaced by the chief executive, to recognise changes in preferred suppliers or preferred supply contracts ending without also being replaced.
+(7BB) However, if the person’s net total benefit payments due to be paid on a pay day (after deducting any redirection under section 82(3) or reduction or deduction required to be made from the person’s benefit payments for another purpose (for example, under an attachment order or a deduction notice)) are less than the amount required to pay the preferred supplier on that pay day, the chief executive—
+  (a) is not required by subsection (7B)(b) to pay to the preferred supplier on that pay day all, or the specified part, of the person’s disability allowance due on that pay day; but
+  (b) may pay the amount due to the preferred supplier on 1 or more later pay days from amounts of disability allowance or other benefit payments due to the person on those 1 or more later pay days.
+(7BC) Non-payment, or deferred payment, under subsection (7BB) does not reduce any amounts due to the preferred supplier from the person under, or make the chief executive or the Crown liable for breaching, the person's contract of purchase.
+(7C) However, if the disability allowance granted to the person to whom subsection (7A) applies is granted at the maximum appropriate rate specified in Schedule 19, the chief executive may, in the chief executive's discretion, determine in writing that, despite subsection (7B),—
+  (a) all, or the specified part, of the disability allowance that is granted in respect of the supply of the goods or services must be paid to the person for use only to purchase any 1 or more of the goods or services that the person chooses and that are goods or services in respect of the supply of which the disability allowance is granted; and
+  (b) if the goods or services that the person chooses and purchases under paragraph (a) are goods or services supplied by the nominated preferred supplier under the contract entered into with the chief executive under section 125AA, then the person must purchase them from that supplier at the price determined by that contract.
+(7D) No appeal under this Act lies against any chief executive's decision under subsections (7B) to (7C).
+(7E) Subsections (7A) to (7D) are subject to (preferred supplier transitional provisions) directions under section 125AA(5).
 (8) In this section,—
   - **disability** has the meaning ascribed to it by section 21(1)(h) of the Human Rights Act 1993
   - **health practitioner** —
@@ -2492,6 +2521,17 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 (5) If any instalment of any benefit, or any part of any instalment, is not collected within such time as the chief executive may specify, the authority to collect such instalment, or part, shall lapse and the amount of benefit so unpaid shall be forfeited unless the chief executive is satisfied in any particular case that there was good cause for not collecting that instalment or that part of the instalment.
 (6) If the chief executive is satisfied that an advance payment of a benefit would best meet the immediate needs of a beneficiary, the chief executive may, in the chief executive's discretion, on application by the beneficiary, make payment in advance of any number of instalments of the benefit, or part of it, not yet due, and the amount so paid in advance may be recovered under section 86(1).
 (6A) Despite subsection (3), if the immediate needs of the beneficiary relate to the supply of any goods or services to the beneficiary or a member of the beneficiary's family, the chief executive may pay the whole or any part of an advance payment of a benefit under subsection (6) to the supplier of the goods or services.
+(6AA) This subsection applies to the beneficiary if—
+  (a) the immediate needs of the beneficiary relate to the supply of any goods or services to the beneficiary or a member of the beneficiary's family; and
+  (b) the goods or services are of a class, description, or kind supplied by a preferred supplier (being a preferred supplier to, or in respect of, the area in which the beneficiary resides) under a contract entered into with the chief executive under section 125AA.
+(6AB) If subsection (6AA) applies to the beneficiary, the beneficiary must purchase the goods or services from a preferred supplier nominated by the chief executive at the price determined by the contract under section 125AA with that supplier, and—
+  (a) the amount of the advance payment of benefit for purchasing the goods or services is the lesser of—
+    (i) the price so determined; and
+    (ii) the maximum amount of advance payment of benefit that is available to the beneficiary for that purpose; and
+  (b) the chief executive must, despite subsections (3), (6), and (6A), pay the advance payment of the benefit to that supplier in consideration of the supply of the goods or services to the beneficiary or the beneficiary's family member.
+(6AC) A nomination under subsection (6AB) of a preferred supplier—
+  (a) may be given orally or in writing (but, if given orally, must as soon as practicable be confirmed in writing); and
+  (b) may from time to time be amended, revoked, or revoked and replaced by the chief executive, to recognise changes in preferred suppliers or preferred supply contracts ending without also being replaced.
 (6B) The chief executive may, in circumstances prescribed by regulations made under section 132K, require a beneficiary who applies for an advance payment of a benefit under subsection (6), or the beneficiary's spouse or partner, or both, to undertake to the satisfaction of the chief executive a budgeting activity of a kind specified in regulations made under section 132K.
 (6C) Subsection (6D) applies in respect of an applicant for an advance payment of a benefit under subsection (6) if the chief executive is satisfied that—
   (a) the applicant or the applicant's spouse or partner has failed to take reasonable steps to reduce his or her costs or increase his or her income or better manage his or her finances; or
@@ -2499,6 +2539,12 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
   (c) the applicant or the applicant's spouse or partner has failed to comply with any requirement of the chief executive to undertake a budgeting activity under subsection (6B).
 (6D) If this subsection applies, the chief executive may refuse to make an advance payment of a benefit under subsection (6), or any subsequent advance payment of a benefit, to or in respect of the applicant.
 (6E) Subsections (6B) to (6D) do not apply to the advance payment of a youth support payment, or to the advance payment of any other benefit payable to a person receiving a youth support payment.
+(6F) This subsection applies to a beneficiary if—
+  (a) the chief executive has under section 125AA entered into a contract with a preferred supplier for the supply of goods or services (for example, electricity, gas, or telecommunications); and
+  (b) the beneficiary to obtain the advantage of that supply at the price determined by that contract requests the chief executive in writing to pay, for a period identified by the chief executive, an agreed amount or agreed portion of the benefit payments payable to the beneficiary to the preferred supplier in consideration of the supply of those goods or services to the beneficiary or a member of the beneficiary's family.
+(6G) If subsection (6F) applies to a beneficiary,—
+  (a) the chief executive may, despite subsection (3), act on the beneficiary's written request under subsection (6F), and accordingly pay the preferred supplier for the identified period the agreed amount or agreed portion of the benefit payments payable to the beneficiary in consideration of the supply of those goods or services to the beneficiary or the beneficiary's family member; and
+  (b) the beneficiary cannot withdraw from the redirection arrangement arising from that request unless the chief executive, in his or her discretion, considers a withdrawal during the identified period is justified by special circumstances established to the chief executive's satisfaction.
 (7) Unless the chief executive in any particular case otherwise determines, it shall be a condition of every benefit that the applicant or beneficiary shall—and every instalment of the benefit may be paid by the chief executive into such account or in respect of such membership, as the case may be.
   (a) supply the department with particulars of an existing account held by the applicant or beneficiary with—
     (i) the Post Office Bank Limited, a private savings bank, a trustee savings bank, or the Public Service Investment Society Limited; or
@@ -2506,7 +2552,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (iii) any other registered bank or a building society (being a registered bank or a building society approved for the purposes of this subsection by the Minister after consultation with the Minister of Finance); or
   (b) open such an account, if one is not held, and supply the department with particulars of the account; or
   (c) supply the department with particulars of a current membership held by the applicant or beneficiary with a credit union registered under Part 3 of the Friendly Societies and Credit Unions Act 1982 (being a credit union approved for the purposes of this subsection by the Minister after consultation with the Minister of Finance)—
-(8) This section is subject to section 179.
+(8) This section is subject to section 179, and subsections (6) to (6AB), (6F), and (6G) of this section are subject to (preferred supplier transitional provisions) directions under section 125AA(5).
 
 ### 82A Duty to supply tax file number and consequence of failure to do so
 (1) The chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may in writing request an applicant for a benefit or a beneficiary to provide evidence, to the satisfaction of the chief executive, of the tax file number of the applicant or beneficiary.
@@ -3259,6 +3305,19 @@ The chief executive may do either or both of the following things:
     (ii) any applicant for assistance under the programme; and
     (iii) any other specified class or classes of person—
 (1B) As soon as practicable after approving a welfare programme pursuant to subsection (1)(d), the Minister must publish in the Gazette and lay before the House of Representatives a copy of the programme.
+(1BA) This subsection applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)(d) if—
+  (a) any special assistance under the programme relates to the supply of any goods or services to the applicant or a member of the applicant's family; and
+  (b) the goods or services are of a class, description, or kind supplied by a preferred supplier (being a preferred supplier to, or in respect of, the area in which the applicant resides) under a contract entered into with the chief executive under section 125AA.
+(1BB) If subsection (1BA) applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)(d), the applicant must purchase the goods or services from a preferred supplier nominated by the chief executive at the price determined by the contract under section 125AA with that supplier, and—
+  (a) the amount of the special assistance granted under subsection (1)(d) for purchasing those goods or services is the lesser of—
+    (i) the price so determined; and
+    (ii) the maximum amount for purchasing those goods or services available under the welfare programme concerned; and
+  (b) the chief executive must pay that special assistance to that supplier in consideration of the supply of the goods or services to the applicant or the applicant's family member.
+(1BBA) A nomination under subsection (1BB) of a preferred supplier—
+  (a) may be given orally or in writing (but, if given orally, must as soon as practicable be confirmed in writing); and
+  (b) may from time to time be amended, revoked, or revoked and replaced by the chief executive, to recognise changes in preferred suppliers or preferred supply contracts ending without also being replaced.
+(1BC) No appeal under this Act lies against any chief executive's decision under subsection (1BB)(b).
+(1BD) Subsections (1BA) to (1BC) are subject to (preferred supplier transitional provisions) directions under section 125AA(5).
 (1C) There must from time to time be paid out of a Crown Bank Account, without further appropriation than this subsection, all money necessary for granting special assistance under section 61CF.
 (2) This subsection applies to a payment made to a person out of a Crown Bank Account by way of special assistance pursuant to subsection (1)(d) or subsection (1C) if—
   (a) either—
@@ -3274,8 +3333,25 @@ The chief executive may do either or both of the following things:
 (3)
 (4)
 
-### 124A Payment of supplementary assistance may be deemed an advance
-[Repealed]
+**Preferred suppliers of goods or services for beneficiaries or others**
+
+### 125AA Preferred supply of goods or services for beneficiaries or others
+(1) The Minister may from time to time, by written direction, determine the goods or services, or classes, descriptions, or kinds of goods or services, contracts for the supply of which may be entered into under subsection (3) (specified goods or services).
+(2) A determination under subsection (1) must be in respect of goods or services, or classes, descriptions, or kinds of goods or services, for all or any of the following (and for no other) purposes:
+  (a) to meet additional expenses arising from a disability by way of a disability allowance, under section 69C(7B):
+  (b) to satisfy the immediate needs of a beneficiary by way of an advance payment of a benefit under section 82(6) and (6A):
+  (c) for supply of goods or services to a beneficiary by way of a redirection of some of the beneficiary's benefit payments, under section 82(6G):
+  (d) to meet particular needs of a person by way of special assistance under a welfare programme under section 124(1)(d), under section 124(1BB).
+(3) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a preferred supplier) for the supply of specified goods or services (as defined in subsection (1))—
+  (a) by the preferred supplier; and
+  (b) for purchase by beneficiaries, other persons identified by the department, or both.
+(4) Goods or services, in this section and in sections 69C(7B), 82(6AB) and (6G), and 124(1BB), includes goods and services.
+(5) The Minister may, from time to time, give to the chief executive under section 5 general or special directions setting out transitional or savings provisions that apply—
+  (a) to persons receiving assistance under this Act in respect of goods or services that would be affected by a contract with a preferred supplier in respect of those goods or services; and
+  (b) at, or within a specified period after, the time or times when a contract under subsection (3) (including, without limitation, one that varies or replaces all or any of an earlier contract of that kind) takes effect.
+(6) Directions under subsection (5)—
+  (a) override sections 69C(7A) to (7D), 82(6) to (6AB), 82(6F) and (6G), and 124(1BA) to (1BC); and
+  (b) must, in accordance with section 5(1), be complied with by the chief executive.
 
 ### 125 Advances to beneficiaries and war pensioners for repair or maintenance of home, etc
 [Repealed]
@@ -3537,6 +3613,21 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2)
 (3)
 (4)
+
+### 132AD Regulations on use of disability allowance to fund specified expenses
+(1) The Governor-General may, by Order in Council, make regulations relating to the use of a disability allowance to fund specified expenses.
+(2) Any such regulations may (without limiting subsection (1)) do all or any of the following:
+  (a) specify classes, descriptions, or kinds of expenses that must not be funded by way of a disability allowance:
+  (b) specify classes, descriptions, or kinds of expenses that may be funded by way of a disability allowance only to an extent specified in the regulations, or only subject to compliance with conditions specified in the regulations, or both:
+  (c) provide for transitional and savings provisions relating to use of a disability allowance to fund specified expenses.
+(3) Any such regulations that do what is stated in subsection (2)(b) may specify the maximum extent to which expenses may be funded by way of a disability allowance in ways that are or include using all or any of the following:
+  (a) maximum funded proportions of all or any of the expenses concerned:
+  (b) maximum funded amounts for all or any specified expenses, specified periods, or both:
+  (c) maximum numbers, frequencies, or both, of grants for all or any specified expenses.
+(4) Transitional or savings provisions under subsection (2)(c) may, without limitation, provide for all or any of the following:
+  (a) separate transitional or savings provisions for all or any specified people to or on account of whom a disability allowance is payable immediately before the commencement of this section:
+  (b) separate transitional or savings provisions for all or any specified expenses to which the regulations apply (when they, or any regulations amending them or made under subsection (2)(c), come into force):
+  (c) specified transitional or savings provisions to have effect at a time, or on the occurrence of an event (for example, at the end of any existing contractual arrangements), specified in any general or special directions given to the chief executive in writing by the Minister under section 5.
 
 ### 132B Regulations providing for assessment of financial means of people requiring disability services
 [Repealed]
