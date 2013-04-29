@@ -1,5 +1,5 @@
 # Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012
-_Consolidation as at 2012-10-01_
+_Consolidation as at 2013-04-29_
 
 ### 1 Title
 This Act is the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012.
