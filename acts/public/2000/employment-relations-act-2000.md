@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2013-05-14_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1729,7 +1729,7 @@ The object of this Part is—
     (iii) in breaking their employment agreements; or
     (iv) in refusing or failing to accept engagement for work in which they are usually employed; or
     (v) in reducing their normal output or their normal rate of work; and
-  (b) is due to a combination, agreement, common understanding, or concerted action, whether express or implied, made or entered into by the employees.
+  (b) is due to a combination, agreement, common understanding, or concerted action, whether express or, as the case requires, implied, made or entered into by the employees.
 (2) In this Act, strike does not include an employees' meeting authorised—
   (a) by an employer; or
   (b) by an employment agreement; or
@@ -1749,6 +1749,26 @@ The object of this Part is—
 (2) In this Act, to lock out means to become a party to a lockout.
 
 **Lawfulness of strikes and lockouts**
+
+### 82A Requirement for union to hold secret ballot before strike
+(1) This section applies to—
+  (a) a union that—
+    (i) is bound by a current collective agreement; or
+    (ii) will be bound by a proposed collective agreement; and
+  (b) members of that union who are employees who are or have been in the employment of the same employer or of different employers and who—
+    (i) are or were bound (as the case may be) by the current collective agreement referred to in paragraph (a)(i); or
+    (ii) will be bound (as the case may be) by the proposed collective agreement referred to in paragraph (a)(ii).
+(2) Before a strike may proceed under this Part,—
+  (a) the union must hold, in accordance with its rules, a secret ballot of its members who are employed by the same or different employers (as the case may be) and who would become a party to the strike; and
+  (b) the result of the secret ballot must be in favour of the strike.
+(3) For the purposes of subsection (2)(b), the result of a secret ballot is determined by a simple majority of the members of the union who are entitled to vote and who do vote.
+(4) As soon as is reasonably practicable after the conclusion of the secret ballot under subsection (2), the union must notify the result of the ballot to the members of the union who were entitled to vote.
+
+### 82B Terms of question for secret ballot
+The question to be voted on in a secret ballot for the purposes of section 82A is whether the member of the union is in favour of the strike.
+
+### 82C When requirement for secret ballot does not apply
+Sections 82A and 82B do not apply if the proposed strike is lawful under section 84 (which relates to lawful strikes on the grounds of safety or health).
 
 ### 83 Lawful strikes and lockouts related to collective bargaining
 Participation in a strike or lockout is lawful if the strike or lockout—
@@ -1772,6 +1792,7 @@ Participation in a strike or lockout is lawful if the employees who strike have,
 
 ### 86 Unlawful strikes or lockouts
 (1) Participation in a strike or lockout is unlawful if the strike or lockout—
+  (aa) in the case of a strike, takes place in contravention of section 82A; or
   (a) occurs while a collective agreement binding the employees participating in the strike or affected by the lockout is in force, unless subsection (2) applies; or
   (b) occurs during bargaining for a proposed collective agreement that will bind the employees participating in the strike or affected by the lockout, unless—
     (i) at least 40 days have passed since the bargaining was initiated; and
