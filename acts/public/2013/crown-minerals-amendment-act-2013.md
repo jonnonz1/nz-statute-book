@@ -1,5 +1,5 @@
 # Crown Minerals Amendment Act 2013
-_Consolidation as at 2013-04-19_
+_Consolidation as at 2013-05-21_
 
 ### 1 Title
 This Act is the Crown Minerals Amendment Act 2013.
@@ -40,7 +40,7 @@ Repeal the cross-heading above section 2.
   - **chief executive** means the chief executive of the department that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **consent authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **continental shelf** has the same meaning as in section 2(1) of the Continental Shelf Act 1964
-  - **existing privilege** means any of the following that were in force at the close of 30 September 1991:
+  - **existing privilege** means any of the following:
     (a) any mining privilege granted under Part 4 of the Mining Act 1971:
     (b) any mining privilege or licence referred to in section 136(b) and (c) of the Mining Act 1971:
     (c) any coal mining right or other right, lease, sublease, tenancy, licence, or easement granted under the Coal Mines Act 1979:
@@ -73,7 +73,7 @@ Repeal the cross-heading above section 2.
   - **speculative prospector** has the meaning given by section 90C(7)
   - **Tier 1 permit** has the meaning given by section 2B(1)
   - **Tier 2 permit** has the meaning given by section 2B(2)
-  - **underground gas storage facility** means a natural reservoir into which petroleum, mined from land outside the area of the permit in which the reservoir is situated, is injected in a gaseous state for subsequent extraction
+  - **underground gas storage facility** means a natural reservoir into which petroleum is injected in a gaseous state for subsequent extraction
   - **work programme** means a programme of work to be undertaken by a permit holder in relation to the holder's permit
 (2) In section 2(1), definition of coal, replace peat, and oil shale with and peat.
 (3) In section 2(1), replace the definition of enforcement officer with:.
@@ -161,7 +161,7 @@ Replace section 5 with:Functions of Minister
     (b) to grant permits, grant changes to permits, and revoke permits:
     (c) to prepare minerals programmes:
     (d) to co-operate with regulatory agencies that perform functions in relation to Crown owned minerals (including under section 90E):
-    (e) to collect and disclose information in connection with mineral reserves and mineral production in order to—
+    (e) to collect and disclose information in connection with mineral resources and mineral production in order to—
       (i) promote informed investment decisions about mineral exploration and production; and
       (ii) improve the working of related markets:
     (f) any other functions conferred on him or her by or under this Act.
@@ -267,6 +267,13 @@ Replace section 23 with:Purpose of permitsApplication for permits
   (3) The purpose of a mining permit is to authorise the permit holder to mine for minerals as specified in the permit.
   Any person or persons may apply to the chief executive for a permit in respect of a mineral in land, whether or not there is a minerals programme for the mineral.
 
+### 20A Section 24 amended (Allocation by public tender)
+(1) After section 24(2)(c), insert:.
+  (ca) that each tender must include an application that complies with section 29A(1) and be accompanied by sufficient information in relation to the permit offered for the Minister to satisfy himself or herself of the matters set out in section 29A(2) or the matters required under section 29B, as the case may be; and
+  (cb) that, if the tender is to be considered in accordance with section 29B, the tender must include a statement to that effect; and
+(2) After section 24(4), insert:
+  (4A) To avoid doubt, tenders must be assessed by the Minister in accordance with this section and the criteria in section 29A or in section 29B, as the case may be.
+
 ### 21 Section 25 replaced (Grant of permit)
 Replace section 25 with:Grant of permit
   (1) The Minister may grant a prospecting permit, an exploration permit, or a mining permit under this Act in respect of minerals in land—
@@ -313,8 +320,8 @@ After section 28, insert:Declaration that permits not to be issued or extended f
     (b) permit granted before the notice is published in the Gazette; or
     (c) right under section 32 of the holder of a permit described in paragraph (b) to be granted a subsequent permit.
 
-### 24 New section 29A and cross-heading inserted
-After section 29, insert:Process for dealing with applications for permitsProcess for considering application
+### 24 New sections 29A and 29B and cross-heading inserted
+After section 29, insert:Process for dealing with applications for permitsProcess for considering applicationProcess for considering application under public tender for conditional exploration permit
   (1) An applicant for a permit must provide to the Minister—
     (a) the name and contact details of the proposed permit participants and the proposed permit operator; and
     (b) a proposed work programme for the proposed permit, which may comprise committed work, or committed and contingent work; and
@@ -339,6 +346,23 @@ After section 29, insert:Process for dealing with applications for permitsProces
   (4) To avoid doubt, subsection (2)(d) does not limit, have any effect on, or have any bearing on—
     (a) whether the permit holder or permit operator is required to obtain any permit, consent, or other permission under any health and safety or environmental legislation:
     (b) the granting to the permit holder or permit operator of any permit, consent, or other permission necessary under any health and safety or environmental legislation by any government agency, consent authority, or Minister responsible for the administration of that legislation.
+  (5) This section is subject to section 29B.
+  (1) This section applies if—
+    (a) a Tier 1 permit for exploration is offered for allocation by public tender under section 24(1); and
+    (b) a tender made in response to the offer under section 24(1) states that it is to be considered in accordance with this section; and
+    (c) the proposed work programme provided with the tender contains an exploration drilling committal date.
+  (2) If this section applies, the Minister must, when considering whether to grant the permit to the tenderer, be satisfied of the matters set out in section 29A(2)(b) and (d) only in relation to work that will be undertaken before the exploration drilling committal date.
+  (3) If a permit is granted in accordance with this section,—
+    (a) work cannot be undertaken after the exploration drilling committal date unless, before that date,—
+      (i) the Minister has, upon application by the permit holder, satisfied himself or herself of the matters set out in section 29A(2)(b) and (d) in relation to that work; and
+      (ii) the permit holder has committed, in accordance with the permit, to drilling for exploration purposes; and
+    (b) the requirements of paragraph (a) are a condition of the permit.
+  (4) For the purposes of subsection (3),—
+    (a) section 29A(3) and (4) apply for the purposes of the Minister satisfying himself or herself; and
+    (b) section 29A(2) to (4) must be read with all necessary modifications.
+  (5) In this section,—
+    - **exploration drilling committal date** means the point in a work programme at which a permit holder must commit to drilling for exploration purposes or surrender the permit
+    - **work** means work to be undertaken under a work programme for a permit.
 
 ### 25 Section 32 amended (Right of permit holder to subsequent permits)
 (1) In section 32(1) and (3), after 27, insert 29A,.
@@ -378,6 +402,7 @@ Replace section 33 with:Permit holder responsibilitiesExercise of permit conditi
   (3) Regulations may specify—
     (a) an annual period to which annual reports must apply, which may vary for different classes or kinds of Tier 2 permit:
     (b) a time by which annual reports must be provided, which may vary for different classes or kinds of Tier 2 permit.
+  (4) The first report to be provided under subsection (1) must relate to the period of 12 months ending with 31 December 2014.
   (1) The chief executive may require the holder of a Tier 1 permit to attend, once in each permit year, a review meeting for the purposes of—
     (a) monitoring the permit holder's progress against the work programme for the permit; and
     (b) providing an opportunity for discussion between the chief executive, the permit holder, the appropriate Minister (but only if the permit relates to Crown land), and any regulatory agency that the chief executive has invited to attend the meeting.
@@ -519,11 +544,14 @@ Replace sections 37 and 38 with:Process for Minister's proposal to change work p
     (a) lodging an application; and
     (b) paying any money the permit holder owes to the Crown under this Act; and
     (c) providing information and records as required by the permit, this Act, or the regulations.
-(2) In section 40(2), after is in order, insert and, in the case of a partial surrender, the Minister has approved the area to be surrendered under subsection (7A).
+(2) Replace section 40(2) with:
+  (2) Unless the Minister considers it is in the interests of the Crown to acquire the permit for the purposes of reallocation or otherwise (in which case the permit vests in the Crown as if it were personal property), the surrender—
+    (a) must be accepted by the chief executive if everything is in order and, in the case of a partial surrender, the Minister has approved the area to be surrendered under subsection (7A); and
+    (b) takes effect when the chief executive accepts it.
 (3) After section 40(2), insert:
   (2A) Despite subsection (1)(b) and (c), the chief executive may accept a surrender application even though the permit holder has not paid to the Crown all the money owing to the Crown or has not provided to the chief executive all the information and records required to be provided.
 (4) Replace section 40(3) with:
-  (3) For the purposes of subsections (5) and (6), if a permit becomes the property of the Minister under this section,—
+  (3) For the purposes of subsections (5) and (6), if a permit vests in the Crown under this section,—
     (a) the permit is deemed to have been surrendered under this section; and
     (b) the date on which the permit is deemed to have been surrendered,—
       (i) for the purposes of subsection (5), is the date that the surrender application was lodged; and
@@ -590,7 +618,7 @@ Replace section 41 with:Transfer of interest in permitChange of control of permi
       (i) comply with, and give proper effect to, the work programme for the permit; and
       (ii) comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
     (b) if the change of operator relates to a Tier 1 permit for exploration or mining, if the Health and Safety Regulator—
-      (i) is satisfied that any requirements of the Health and Safety in Employment Act 1992, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been met; and
+      (i) is satisfied that any requirements of the Health and Safety in Employment Act 1992, or regulations made under that Act, that the proposed operator must meet before carrying out day-to-day management of activities under the permit have been, or are likely to be, met; and
       (ii) has advised the chief executive that it is so satisfied.
   (1) The Minister may grant consent under section 41, 41B, or 41C, subject to any conditions that the Minister thinks fit.
   (2) All conditions of the Minister’s consent are, for the purposes of this Act, deemed to be conditions of the permit concerned.
@@ -690,7 +718,7 @@ After section 61B, insert:Public notification of certain access arrangements
   (4) The public notification of an application in accordance with subsection (3) may (without limitation) be conducted in conjunction with the public notification of any related concession application under the Conservation Act 1987.
 
 ### 43 Sections 90 and 90A and cross-heading above section 90 replaced
-Replace sections 90 and 90A and cross-heading above section 90 with:Registers, records, and use of informationPermit holder records and reportsDisclosure of informationDisclosure and publication of mineral reserves and mineral production informationProvisions relating to speculative prospectorsTreatment of speculative prospecting information purchased or licensed by permit holderProviding information to regulatory agenciesConditions that may be imposed on providing information or documents under section 90ERegulatory agency may provide information for purposes of this Act
+Replace sections 90 and 90A and cross-heading above section 90 with:Registers, records, and use of informationPermit holder records and reportsDisclosure of informationDisclosure and publication of mineral resources and mineral production informationProvisions relating to speculative prospectorsTreatment of speculative prospecting information purchased or licensed by permit holderProviding information to regulatory agenciesConditions that may be imposed on providing information or documents under section 90ERegulatory agency may provide information for purposes of this Act
   (1) Each permit holder must keep detailed records and reports in respect of all prospecting, exploration, and mining activities conducted by or on behalf of the permit holder—
     (a) in accordance with the conditions of the permit and the regulations; and
     (b) in a form that is readily accessible at all reasonable times by the chief executive or any person authorised in writing by the chief executive.
@@ -711,7 +739,7 @@ Replace sections 90 and 90A and cross-heading above section 90 with:Registers, r
   (9) The Minister, the chief executive, or an enforcement officer may use information supplied under this section at any time before or after the information is required to be made available under any of subsections (6) to (8) for the purpose of exercising any power or performing any function conferred on the person by or under this Act.
   (10) Section 90A applies to any information that, because of its use in accordance with subsection (9), is disclosed.
   (11) Nothing in this section requires the chief executive to send or make available any records, reports, information, or returns relating to the calculation and payment of royalties by permit holders.
-  (1) The Minister, an appropriate Minister, the chief executive, or any enforcement officer must not disclose any information provided under or for the purposes of any of sections 23A, 24, 32, 35, 35A, 36, 41, 41A, 41B, 41C, 61B, 61C, 90, and 99F unless—
+  (1) The Minister, an appropriate Minister, the chief executive, or any enforcement officer must not disclose any information provided under or for the purposes of any of sections 23A, 24, 32, 33A to 33D, 35, 35A, 36 to 38, 41 to 41C, 42, 42A, 46, 61, 61B, 61C, 90, 99E, and 99F unless—
     (a) the disclosure is for the purposes of, or in connection with, the performance or exercise of any function, duty, or power conferred or imposed by or under this Act on the Minister, the chief executive, or any enforcement officer; or
     (b) the information is publicly available; or
     (c) the disclosure is with the consent of the person to whom the information relates, or to whom the information is confidential; or
@@ -721,7 +749,7 @@ Replace sections 90 and 90A and cross-heading above section 90 with:Registers, r
     (g) the information is disclosed to a regulatory agency under section 90E.
   (2) Any information that is disclosed under subsection (1)(a) for the purposes of, or in connection with, the Minister's function of attracting permit applications under section 5(a) must be disclosed only to external advisers to the Minister.
   (3) All disclosures that are made under subsection (1)(a) to an external adviser to the Minister must be made on a confidential basis.
-  (1) Every holder of a permit must provide to the chief executive all information in connection with mineral reserves and mineral production that is prescribed as information that must be provided under this section.
+  (1) Every holder of a permit must provide to the chief executive all information in connection with mineral resources and mineral production that is prescribed as information that must be provided under this section.
   (2) The information must be provided in accordance with the regulations.
   (3) The chief executive may, in accordance with the regulations, publish all, or any part, of the information provided under this section.
   (4) For the purposes of this section, holder of a permit includes every person who is the holder of an existing privilege.
@@ -745,7 +773,7 @@ Replace sections 90 and 90A and cross-heading above section 90 with:Registers, r
     (a) holds in relation to the performance or exercise of his or her functions, duties, or powers under this Act that relate to a permit or an application for a permit; and
     (b) considers may assist the Director of Maritime New Zealand in the performance or exercise of his or her or Maritime New Zealand's functions, duties, or powers under the Maritime Transport Act 1994.
   (3) The Minister may provide to the Environmental Protection Authority (established by section 7 of the Environmental Protection Authority Act 2011) and to any consent authority any information, or a copy of any document, that the Minister—
-    (a) holds in relation to the matters referred to in section 29A(2)(d); and
+    (a) holds in relation to the matters referred to in section 29A(2)(d) (whether obtained under section 24, 29A, or 29B); and
     (b) considers may assist—
       (i) the Environmental Protection Authority in the performance or exercise of its functions, duties, or powers under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 or the Resource Management Act 1991; or
       (ii) a consent authority in the performance or exercise of its functions, duties, or powers under the Resource Management Act 1991.
@@ -839,7 +867,7 @@ After section 99, insert:Provisions relating to enforcement officers, auditing, 
     (a) his or her warrant of authorisation; and
     (b) evidence of his or her identity.
   (4) An enforcement officer must, on the termination of the enforcement officer's appointment, surrender his or her warrant to the chief executive.
-  (1) Any enforcement officer, specifically authorised in writing by the Minister to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwelling house or marae, for the purpose of determining whether a permit, this Act, or the regulations are being complied with.
+  (1) Any enforcement officer, specifically authorised in writing by the Minister to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwellinghouse or marae, for the purpose of determining whether a permit, this Act, or the regulations are being complied with.
   (2) If the owner or occupier of a place subject to inspection is not present at the time of the inspection, the enforcement officer must leave in a prominent position at the place, or attached to a structure on the place, a written notice showing the date and time of the inspection and the name of the officer carrying out the inspection.
   (3) An enforcement officer may not enter, unless the permission of the landowner is obtained, any land that any other Act states may not be entered without that permission.
   (4) An enforcement officer who exercises the power of inspection under this section may be accompanied by any person or persons reasonably necessary to assist the enforcement officer with the inspection.
@@ -853,7 +881,7 @@ After section 99, insert:Provisions relating to enforcement officers, auditing, 
     (b) an enforcement officer specifically authorised in writing by the Minister to apply for search warrants.
   Part 4 of the Search and Surveillance Act 2012 (other than sections 118 and 119) applies, with any necessary modifications, in respect of inspections or searches undertaken under this Act by enforcement officers.
   (1) A person referred to in subsection (2) may carry out an audit of records, kept by or on behalf of the chief executive or a permit holder, for the purpose of obtaining information about the following matters and reporting that information to the chief executive:
-    (a) the calculation of mineral reserves by a permit holder undertaking mining activities:
+    (a) the calculation of mineral resources by a permit holder undertaking mining activities:
     (b) the calculation and payment of the correct amount of royalties due by a permit holder:
     (c) the calculation and payment of any other money payable to the Crown:
     (d) compliance with any prescribed requirement to keep or provide records or other information.
@@ -950,7 +978,10 @@ After section 101, insert:InterpretationInterfering with structure or operation 
     - **exclusive economic zone** has the same meaning as in section 2(1) of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     - **foreign ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
     - **master** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
-    - **offshore area** means any area within the territorial sea or exclusive economic zone that is on or above the continental shelf
+    - **offshore area** means any area that is—
+      (a) within the territorial sea; or
+      (b) within the exclusive economic zone; or
+      (c) on or above the continental shelf
     - **permitted prospecting, exploration, or mining activity** means an activity authorised under a prospecting, exploration, or mining permit
     - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
     - **specified non-interference zone** means a zone specified by the chief executive in accordance with section 101B(6) to (8)
@@ -1074,7 +1105,7 @@ After section 105, insert:Regulations relating to royaltiesRegulations not inval
   (3) The chief executive may comply with subsection (1)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the administrating department to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
   (4) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on section 105C.
   (5) For the purposes of subsection (1)(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
-  (6) Nothing in this section applies to material proposed to be incorporated by reference described in section 105C(1).
+  (6) Nothing in this section applies to material proposed to be incorporated by reference described in section 105C(1)(a).
   (7) In this section, proposed material means—
     (a) the material itself:
     (b) an accurate translation in an official New Zealand language of the material, if the material is not in an official New Zealand language.
@@ -1117,7 +1148,7 @@ Amend the Acts specified in Schedule 5 as set out in that schedule.
 
 ### Schedule 1 — Savings and transitional provisions
 
-#### Part 1
+#### Part 1 — Provisions relating to Crown Minerals Amendment Act 2013
 
 ### 1 Interpretation
 In Part 1 of this schedule,—
@@ -1187,10 +1218,13 @@ In Part 1 of this schedule,—
 (2) An application must be dealt with under the principal Act (as it read immediately before the commencement of the Amendment Act) and the Minerals Programme for Petroleum (2005) (as it read immediately before being revised on 25 January 2012).
 (3) A permit granted in respect of an application to which this clause applies has effect as if granted under the principal Act (as amended by the Amendment Act).
 
-### 7 Current petroleum exploration permit holders' rights to extension of duration of permit
-Despite new section 35(4), an existing exploration permit for petroleum may be extended—
+### 7 Petroleum exploration permit holders' rights to extension of duration of permit
+(1) Despite new section 35(4), a specified permit may be extended—
   (a) for a period not exceeding 15 years from the commencement date of the permit in accordance with new section 36(1) to (4); and
   (b) under new section 35A.
+(2) In this clause, specified permit means—
+  (a) a permit granted in respect of an application to which clause 6 applies; and
+  (b) an existing exploration permit for petroleum.
 
 ### 8 Relinquishment obligation
 (1) This clause applies to every existing exploration permit in relation to which the permit holder has relinquished an area subject to the permit in order to obtain an extension of duration under old section 37.
@@ -1222,16 +1256,20 @@ This subpart applies to existing privileges in replacement of all provisions con
   (a) the Act does not apply in respect of the application; and
   (b) the principal Act as amended by the Amendment Act applies instead in respect of the application as if the existing privilege were a prospecting permit, exploration permit, or mining permit, as the case may be.
 (4) Despite subclause (1), no extension of the duration of a mining privilege may be granted on an application for a variation of conditions under section 103D of the Mining Act 1971 made after 5 pm on 19 September 2002.
+(5) Despite subclause (1), a section of the principal Act (whether a new or an old section) applies to each existing privilege, in the manner provided in the section, if the section in whole or in part expressly relates to or provides for an existing privilege.
 
 ### 13 Operators for existing privileges
 (1) New section 27 applies to each existing privilege as if the existing privilege were a permit and the holder or holders of the privilege were permit participants, except that the person designated by the existing privilege holder as the permit operator under that section may be someone other than a holder of the existing privilege.
 (2) No later than 5 December 2013, the existing privilege holder must—
   (a) notify the Minister of which person is responsible, on behalf of the privilege holder, for the day-to-day management of activities under the privilege; and
   (b) provide the chief executive with the name and contact details of that person.
-(3) For the purposes of the principal Act, the person notified to the Minister is, on and from the date of notification, the permit operator for the existing privilege.
+(3) For the purposes of the principal Act, the person notified to the Minister is, on and from the date of notification, the permit operator for the existing privilege, unless the permit operator is subsequently changed in accordance with new section 41C.
+(4) For the purposes of subclause (3), new section 41C applies to each existing privilege—
+  (a) as if the existing privilege were a permit and the holder of the privilege a permit holder and, for the purpose of that section, new sections 2B to 2D also apply:
+  (b) but the person proposed to become the new operator may be someone other than a holder of the existing privilege.
 
 ### 14 New sections apply to existing privileges
-(1) New sections 33A and 33B apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder.
+(1) New sections 33A, 33B, 90D, and 90E apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder.
 (2) New sections 33C, 33D, and 90 apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder and, for the purpose of those sections, new sections 2B to 2D also apply.
 (3) New sections 99B to 99G and 99I to 99M apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder, but the reference in new section 99C to an offence against the principal Act must be read as a reference to an offence against the relevant Act referred to in the definition of existing privilege in section 2.
 
@@ -1284,7 +1322,8 @@ This subpart applies to existing privileges in replacement of all provisions con
 ### 18 Data lodgement requirements for certain existing privileges
 (1) Subclause (2) applies in relation to the lodging of data and reports in respect of every existing privilege that is—
   (a) a prospecting licence or mining licence granted under the Petroleum Act 1937:
-  (b) a licence granted under the Mining Act 1971 or the Coal Mines Act 1979.
+  (b) a licence granted under the Mining Act 1971 or the Coal Mines Act 1979:
+  (c) an authorisation given, an agreement entered into, or a grant of rights under the Iron and Steel Industry Act 1959, or an existing right referred to in section 5 of that Act.
 (2) Despite clause 12(1), from the commencement of the Amendment Act, the holder of an existing privilege is only required to comply with the requirements of the principal Act (as amended by the Amendment Act) for the lodging of data and reports in respect of the licence that would apply if the licence were the equivalent kind of prospecting, mining, or exploration permit, as the case may be.
 
 ### 19 Notices under section 24 of Mining Act 1971
@@ -1382,11 +1421,12 @@ The following scenic reserves:
 | Coal | $1,250,000 | – | 200 000 tonnes |
 | Ironsand | $1,250,000 | – | 500 000 tonnes |
 | Metallic mineral | $1,250,000 | – | 500 000 tonnes of ore |
+| Platinum group metals | $1,250,000 | $50,000 | – |
 
 ## Schedule 4 — Consequential and minor amendments to principal Act
 
 ## Schedule 5 — Consequential amendments to other Acts
 
-| Crown Minerals Amendment Act 2013 |  | 99B |  | Enforcement officer authorised by Minister may inspect place or structure (other than dwelling house or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. |  | All (except sections 118 and 119) |
+| Crown Minerals Amendment Act 2013 |  | 99B |  | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. |  | All (except sections 118 and 119) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 99C |  | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. |  | All (except sections 118 and 119 in the case of an enforcement officer) |  |
