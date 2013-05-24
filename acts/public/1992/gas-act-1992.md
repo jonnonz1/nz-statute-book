@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2013-05-24_
 
 > Title
 
@@ -117,7 +117,7 @@ The purposes of this Act are—
 (1) Subject to subsection (2), and except as expressly provided elsewhere in this Act, or in any other Act, this Act shall apply to every gas distributor, every gas retailer, and every consumer.
 (2) Nothing in this Act (other than sections 54(1)(n)(ii) and 55) applies to—
   (a) any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
-    (i) Part 1 of the Crown Minerals Act 1991:
+    (i) the Crown Minerals Act 1991:
     (ii) the Shipping and Seamen Act 1952:
     (iii) the Land Transport Act 1998:
   (b) any gas installation or class of gas installation that the Governor-General declares by Order in Council to be a gas installation or, as the case requires, a class of gas installation to which this Act does not apply:
