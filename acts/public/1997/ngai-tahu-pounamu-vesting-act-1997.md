@@ -1,5 +1,5 @@
 # Ngai Tahu (Pounamu Vesting) Act 1997
-_Consolidation as at 1997-10-02_
+_Consolidation as at 2013-05-24_
 
 > An Act to give effect to certain provisions of the Deed of On Account Settlement, signed on 14 June 1996 by the Crown and Te Runanga o Ngai Tahu as representative of Ngai Tahu, by vesting, in Te Runanga o Ngai Tahu, pounamu in the Takiwa of Ngai Tahu Whanui and in those parts of the territorial sea of New Zealand that are adjacent to the Takiwa of Ngai Tahu Whanui
 
@@ -22,7 +22,7 @@ Whereas—
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **existing privilege** has the meaning given to that term by section 106 of the Crown Minerals Act 1991
+  - **existing privilege** has the meaning given to that term by section 2(1) of the Crown Minerals Act 1991
   - **Minister** means the Minister of Energy
   - **pounamu** means—
     (a) bowenite:
@@ -37,12 +37,10 @@ Notwithstanding any other enactment, all pounamu occurring in its natural condit
   (b) those parts of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) that are adjacent to the Takiwa of Ngai Tahu Whanui and the seabed and subsoil beneath those parts of the territorial sea—
 
 ### 4 Existing privileges for pounamu
-(1) Nothing in section 3 affects an existing privilege or the rights or obligations of any holder of an existing privilege and Part 2 of the Crown Minerals Act 1991 continues to apply in relation to that privilege as if this Act had not been passed.
+(1) Nothing in section 3 affects an existing privilege or the rights or obligations of any holder of an existing privilege and the Crown Minerals Act 1991 continues to apply in relation to that privilege as if this Act had not been passed.
 (2) Notwithstanding anything in the Crown Minerals Act 1991, all royalties paid to the Crown after the commencement of this Act by the holder of any existing privilege in respect of pounamu must be paid by the Crown to Te Runanga o Ngai Tahu.
 
 ### 5 Applications for mining privileges and permits for pounamu
-Notwithstanding anything in the Crown Minerals Act 1991, the Minister of Energy must not grant any—in respect of any pounamu to which section 3 applies.
-  (a) permit pursuant to an application made under section 23 of that Act before the commencement of this Act; or
-  (b) mining privilege pursuant to an application to which section 112 of that Act applies—
+[Repealed]
 
 ## Schedule  — Description of land in which serpentine included
