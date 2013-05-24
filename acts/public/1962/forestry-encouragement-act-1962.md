@@ -1,5 +1,5 @@
 # Forestry Encouragement Act 1962
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2013-05-24_
 
 > An Act to authorise the making of loans, out of money appropriated by Parliament for the purpose, for the establishment and maintenance of farm woodlots and forest plantations
 
@@ -10,7 +10,7 @@ This Act may be cited as the Forestry Encouragement Act 1962.
 (1) In this Act, unless the context otherwise requires,—
   - **Conservator** , in relation to any land, means the Conservator of Forests in the conservancy in which the land is situated
   - **forestry encouragement agreement** includes a farm forestry agreement entered into in accordance with this Act before the passing of the Forestry Encouragement Amendment Act 1965
-  - **lease** means a registered lease and any lease or licence, registered or unregistered, from the Crown, including a registered or unregistered licence from the Crown to occupy any land pending the completion of the purchase of that land under a system of deferred payment, including a permit within the meaning of Part 1 of the Crown Minerals Act 1991; and has a corresponding meaning
+  - **lease** means a registered lease and any lease or licence, registered or unregistered, from the Crown, including a registered or unregistered licence from the Crown to occupy any land pending the completion of the purchase of that land under a system of deferred payment, including a permit within the meaning of section 2(1) of the Crown Minerals Act 1991; and has a corresponding meaning
   - **Minister** means the Minister of Forests
   - **Registrar** , in relation to any land the title to which is registered in the Land Transfer Office or the Deeds Register Office (including the land comprised in a mining privilege that is registered under the Land Transfer Act 1952), means the District Land Registrar or the Registrar of Deeds, as the case may require, for the land registration district within which the land is situated; and, in relation to any land comprised in a mining privilege that is not registered under the Land Transfer Act 1952, or in relation to a coal-mining lease or coal-mining right under the Coal Mines Act 1925 that is recorded in the office of a Mining Registrar, means the Mining Registrar in whose office the mining privilege or lease or right is registered or recorded.
 (2) For the purposes of this Act all land which is not otherwise occupied shall be deemed to be in the occupation of the owner in fee simple thereof.
@@ -37,9 +37,9 @@ This Act may be cited as the Forestry Encouragement Act 1962.
 (6) Where any notice has to be given under this section, it may be given—
   (a) by delivering it to the person to whom it has to be given; or
   (b) by leaving it at the usual or last known place of abode in New Zealand of that person; or
-  (c) by sending it by post in a registered letter addressed to that person at his usual or last known place of abode in New Zealand.
+  (c) by sending it by post in a registered letter addressed to that person at his usual or last known place of abode in New Zealand; or
   (d) by delivering or leaving it at or sending it by registered post to the registered office in the case of a company or the principal office or place of business in the case of a local authority or other body, whether corporate or unincorporate.
-(7) Any forestry encouragement agreement which varies supplements or is in substitution for an earlier forestry encouragement agreement (whether that agreement is registered or not) may be registered under this section.
+(7) Any forestry encouragement agreement that varies, supplements, or is in substitution for an earlier forestry encouragement agreement (whether that agreement is registered or not) may be registered under this section.
 (7A) For the purpose of section 137 of the Land Transfer Act 1952, every forestry encouragement agreement shall be deemed to create an interest in the land to which it relates.
 (8) Upon the expiration or termination of a registered forestry encouragement agreement, the Conservator shall sign a certificate stating that the agreement has so expired or been terminated, and shall deposit the certificate with the Registrar, who shall thereupon, without fee, enter a memorial of the expiration or termination of the agreement on the register against the appropriate title.
 (8A) Where a Conservator deposits with the Registrar a certificate stating that a forestry encouragement agreement has been terminated, and at the same time deposits with the Registrar for registration a further forestry encouragement agreement upon which is endorsed a certificate by the Conservator that it is in substitution for the terminated agreement, and that the agreement in substitution relates to the same advance and the same land as the terminated agreement and includes provision for a lower rate of interest, the agreement in substitution when registered shall, for the purposes of section 7, be deemed to have been registered when the original agreement was registered; and the Registrar shall record a memorial to that effect against the title to the land affected.
@@ -47,7 +47,7 @@ This Act may be cited as the Forestry Encouragement Act 1962.
   (a) that estate or interest is discharged from any charge thereon arising under a certificate that relates to a forestry encouragement agreement and is registered under section 7; or
   (b) that estate or interest would have been so discharged if such a certificate had been so registered—
 (10) Forestry encouragement agreements shall be deemed to be mortgages for the purposes of section 102 of the Land Transfer Act 1952 and mortgages to Her Majesty for the purposes of section 461 of the Maori Affairs Act 1953.
-(10A) Forestry encouragement agreements, whether entered into before or after the close of 31 December 2007, must be treated as mortgages for the purposes of sections 90 to 92 of the Property Law Act 2007; and the Minister must be treated as a mortgagee of the leasehold estate or interest for the purposes of section 249(1)(a) of that Act.
+(10A) Forestry encouragement agreements, whether entered into before or after the close of 31 December 2007, must be treated as mortgages for the purposes of sections 90 to 92 of the Property Law Act 2007; and the Minister must be treated as a mortgagee of the leasehold estate or interest for the purposes of section 249(1)﻿(a) of that Act.
 (11) The provisions of this Act relating to the registration of forestry encouragement agreements shall, so far as they are applicable and with the necessary modifications, apply to the registration of memoranda of variation of those agreements:provided that notice need not be given to any mortgagee or other person having a charge on any estate or interest in the land at the date of registration of the variation, if that mortgagee or person will not be prejudiced by the variation.
 
 ### 6 Registered forestry encouragement agreements to run with the land
