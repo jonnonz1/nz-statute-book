@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2013-02-01_
+_Consolidation as at 2013-05-24_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -8221,7 +8221,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (a) conditions or provisions concerning occupational safety or health, the Minister of Energy:
   (aa) refund or remission of rentals, the Minister:
   (b) all other conditions and provisions, the consent authority concerned.
-(5) Subsections (2) to (7) of section 108 of the Crown Minerals Act 1991, with all necessary modifications, shall apply in respect of every water permit or coastal permit to which this section applies, as if references in those subsections to an existing privilege were references to such a water permit or such a coastal permit, as the case may require.
+(5) Clause 15(2) to (6) of Schedule 1 of the Crown Minerals Act 1991, with all necessary modifications, shall apply in respect of every water permit or coastal permit to which this section applies, as if references in those subsections to an existing privilege were references to such a water permit or such a coastal permit, as the case may require.
 (6) Where a permit resulting from a licence under the Geothermal Energy Act 1953 would, but for this subsection, not expire by the 35th anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the 35th anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 (7) Where a permit resulting from a power or authorisation under section 11 of the Geothermal Energy Act 1953 would, but for this subsection, not expire by the tenth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the tenth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 
@@ -9459,7 +9459,7 @@ Where an esplanade strip is created for public recreational use, the instrument 
 
 ### 2 Commencement
 (1) Sections 18 to 23 come into force on the day after the date on which this Act receives the Royal assent.
-(2) The rest of this Act comes into force on 1August 2003.
+(2) The rest of this Act comes into force on 1 August 2003.
 
 ## Part 2 — Amendments and repeals of other enactments, transitional provisions, and savings
 
