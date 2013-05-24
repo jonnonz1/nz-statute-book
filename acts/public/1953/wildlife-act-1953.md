@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2013-01-03_
+_Consolidation as at 2013-05-24_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -176,36 +176,36 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
 **Wildlife sanctuaries**
 
 ### 9 Wildlife sanctuaries
-(1) Notwithstanding anything in any other Act, the Governor-General may from time to time, by Proclamation, declare any area described in the Proclamation and available for the purpose to be a wildlife sanctuary for the purposes of this Act, subject to such conditions as may be specified in the Proclamation, and may in like manner revoke or vary any such Proclamation:
+(1) Notwithstanding anything in any other Act, the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, declare any area described in the Order and available for the purpose to be a wildlife sanctuary for the purposes of this Act, subject to such conditions as may be specified in the Order, and may in like manner revoke or vary any such Order:
   provided that—
-    (a) no Proclamation issued under this subsection shall affect any land of the Crown unless it is issued on the joint recommendation of the Minister of Conservation and the Minister charged with the administration of the department of State having the control of the land:
-    (aa) no Proclamation issued under this subsection shall affect any waters of the sea or of any harbour within the meaning of the Harbours Act 1950 unless it is issued on the joint recommendation of the Minister of Conservation and the Minister of Transport:
+    (a) no Order issued under this subsection shall affect any land of the Crown unless it is issued on the joint recommendation of the Minister of Conservation and the Minister charged with the administration of the department of State having the control of the land:
+    (aa) no Order issued under this subsection shall affect any waters of the sea or of any harbour unless it is issued on the joint recommendation of the Minister of Conservation and the Minister of Transport:
     (b) a conservation area within the meaning of the Conservation Act 1987 and any foreshore adjacent to any such area and required for a wildlife sanctuary shall be reserved as such pursuant to section 18 of that Act, and thereupon shall be subject to the provisions of this Act relating to sanctuaries, but otherwise shall be subject to that Act:
     (c) land held for a public work other than a wildlife sanctuary that is required for a sanctuary may be declared to be a wildlife sanctuary only pursuant to section 37 of the Public Works Amendment Act 1948.
     (d)
-(2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Governor-General may from time to time, by Proclamation, impose conditions with respect to any wildlife sanctuary in relation to all or any of the following matters:
+(2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Governor-General may from time to time, by Order in Council, impose conditions with respect to any wildlife sanctuary in relation to all or any of the following matters:
   (a) the prohibition or restriction of any right of entry to the sanctuary, including the exclusion from the sanctuary or from any specified portion thereof of any persons or classes of persons, and the prohibition or restriction of access by means of any or all animals or vehicles or aircraft:
   (b) the prohibition or restriction of the hunting or killing, taking for any purpose, molesting, capturing, disturbing, harrying, or worrying of any living creature in the sanctuary, the taking, destruction, or disturbance of the eggs or spawn of any such creature, the taking for any purpose of or interference with vegetation of any description in the sanctuary, the introduction or liberation in the sanctuary of any living creature or the eggs or spawn of any living creature, or the introduction or planting in the sanctuary of any vegetation of any description or the spores or seeds of any vegetation of any description:
-  (c) the prohibition or restriction of the burning or clearing by any means whatsoever of any trees, shrubs, grasses, or other plant life on the sanctuary or on any specified portion thereof, either generally or for such period or by such persons or classes of persons, as may be specified in the Proclamation:
-  (d) the prohibition or restriction of camping or any other specified form of sport or relaxation in the sanctuary or in any specified portion thereof, either generally or for such period or by any persons or classes of persons, as may be specified in the Proclamation:
-  (e) the prohibition or restriction of the lighting of fires or the doing of anything likely to cause a fire on the sanctuary or on any specified portion thereof, either generally or for such period and by such persons or classes of persons, as may be specified in the Proclamation:
-  (f) the prohibition or restriction of the use of boats (including any launch, boat, canoe, or other similar craft, and whether propelled by mechanical power or not) and of vehicles in the sanctuary or in any portion thereof, and by any persons or classes of persons, as may be specified in the Proclamation:
+  (c) the prohibition or restriction of the burning or clearing by any means whatsoever of any trees, shrubs, grasses, or other plant life on the sanctuary or on any specified portion thereof, either generally or for such period or by such persons or classes of persons, as may be specified in the Order:
+  (d) the prohibition or restriction of camping or any other specified form of sport or relaxation in the sanctuary or in any specified portion thereof, either generally or for such period or by any persons or classes of persons, as may be specified in the Order:
+  (e) the prohibition or restriction of the lighting of fires or the doing of anything likely to cause a fire on the sanctuary or on any specified portion thereof, either generally or for such period and by such persons or classes of persons, as may be specified in the Order:
+  (f) the prohibition or restriction of the use of boats (including any launch, boat, canoe, or other similar craft, and whether propelled by mechanical power or not) and of vehicles in the sanctuary or in any portion thereof, and by any persons or classes of persons, as may be specified in the Order:
     provided that nothing in any such prohibition or restriction relating to boats shall derogate from any provision of the Harbours Act 1950 or the Shipping and Seamen Act 1952:
   (g) the prohibition of the wilful disturbance of wildlife in the sanctuary by flying aircraft over the sanctuary or by noise in the vicinity or otherwise:
-  (h) the prohibition or restriction of the use of firearms or explosives in the sanctuary or in any portion thereof, either generally or in respect of any type of firearms or explosives or by any persons or classes of persons or during any periods, as may be specified in the Proclamation:
-  (i) the prohibition or restriction of the taking or keeping of domestic animals or domestic birds into or in the sanctuary or any portion thereof either generally or in respect of any species of domestic animal or domestic bird or in respect of possession thereof by any persons or classes of persons, as may be specified in the Proclamation:
+  (h) the prohibition or restriction of the use of firearms or explosives in the sanctuary or in any portion thereof, either generally or in respect of any type of firearms or explosives or by any persons or classes of persons or during any periods, as may be specified in the Order:
+  (i) the prohibition or restriction of the taking or keeping of domestic animals or domestic birds into or in the sanctuary or any portion thereof either generally or in respect of any species of domestic animal or domestic bird or in respect of possession thereof by any persons or classes of persons, as may be specified in the Order:
   (j) with the consent of the occupier of the land concerned, the prohibition or restriction of the hunting or killing of any wildlife or the possession or discharge of firearms or explosives or the possession of specified species of wildlife within such area surrounding or adjoining the sanctuary as appears to the Governor-General to be necessary for the protection of the sanctuary:
   (k) with the consent of the occupier of the land concerned, the prohibition or restriction of the keeping or possession of stoats, ferrets, polecats, weasels, and other members of the family Mustelidae and other species harmful to wildlife within such area surrounding or adjoining the sanctuary as appears to the Governor-General to be necessary for the protection of the sanctuary:
   (l) the prohibition of the depositing of rubbish and the leaving of litter in the sanctuary:
   (m) the prohibition or restriction or control of the cutting, construction, or maintenance of private roads, tracks, tramways, or other means of access or communication in the sanctuary:
   (n) the prohibition or restriction of the pollution of any wildlife sanctuary by means of rubbish, sewage, industrial waste, mining debris, sawmill refuse, or any other means:
   (o) such other matters as may be considered necessary for the control of the sanctuary or for the protection and wellbeing of any wildlife or vegetation therein.
-(3) Any prohibition or restriction imposed by a Proclamation under this section may be absolute or conditional, and the Proclamation may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
-(4) Every person who does any act that is for the time being prohibited by a Proclamation issued under this section or fails to comply in any respect with any condition imposed in any such Proclamation commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+(3) Any prohibition or restriction imposed by an Order in Council under this section may be absolute or conditional, and the Order may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
+(4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
 (5) Every person having any estate or interest in any land included without his consent in any wildlife sanctuary which is injuriously affected or damaged or reduced in value by its inclusion in the sanctuary shall be entitled to full compensation for the same from the Minister. All such claims for compensation shall, unless settled by agreement, be determined within the time and in the manner provided by the Public Works Act 1928, as in the case of land injuriously affected by a public work, and, subject to this section, the provisions of that Act relating to compensation shall, as far as they are applicable and with the necessary modifications, apply accordingly.
 
 ### 10 All wildlife in sanctuaries absolutely protected
-Subject to any provision to the contrary in any Proclamation under section 9, and to section 11, all wildlife in any wildlife sanctuary shall while within the sanctuary be deemed to be absolutely protected, notwithstanding that the wildlife or any species thereof is elsewhere partially protected or is game or is unprotected under this Act.
+Subject to any provision to the contrary in any Order in Council under section 9, and to section 11, all wildlife in any wildlife sanctuary shall while within the sanctuary be deemed to be absolutely protected, notwithstanding that the wildlife or any species thereof is elsewhere partially protected or is game or is unprotected under this Act.
 
 ### 11 Destruction or seizure of certain animals found in sanctuaries
 (1) Where the Director-General considers that the presence in any sanctuary of any animal or bird or of animals or birds of any specified species is undesirable in the interests of other wildlife in the sanctuary, he may authorise any person in writing, either generally or in a specified case, and whether with or without other persons under his control, to destroy that animal or bird or animals or birds of that species, as the case may be. Any authority under this subsection may be at any time revoked by the Director-General.
@@ -869,7 +869,7 @@ Every person commits an offence against this Act and is liable on conviction to 
 (5) Every person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in section 67(fb).
 
 ### 64 Offences in relation to wildlife sanctuaries
-Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Proclamation under section 9 commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
+Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Order in Council under section 9 commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(3).
 
 ### 65 Other offences
 (1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1) who—
@@ -1005,7 +1005,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (a) section 6(3) (which relates to hunting, killing, or possessing wildlife in breach of conditions imposed by the Minister):
   (b) section 7(2) (which relates to hunting, killing, or possessing wildlife in contravention of a notification):
   (c) section 7C(2) (which relates to farming certain unprotected animals without authorisation):
-  (d) section 9(4) (which relates to breaching a Proclamation in respect of a wildlife sanctuary):
+  (d) section 9(4) (which relates to breaching an Order in Council in respect of a wildlife sanctuary):
   (e) section 14(1C) (which relates to breaching a Proclamation or notice in respect of a wildlife refuge):
   (f) section 14A(4) (which relates to breaching a Proclamation in respect of a wildlife management reserve):
   (g) section 56(5)(c) (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected):
