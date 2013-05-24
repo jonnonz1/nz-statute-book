@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2013-04-02_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3616,6 +3616,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 114 | Application and issue of search warrants | All (except subpart 6) |
 |  | 127 | Applications for warrants under sections 124 to 126 | All (except subpart 6) |
 |  | 146 | High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order | All (except subpart 6) |
+| Crown Minerals Amendment Act 2013 | 99B | Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, Crown Minerals Act 1991, or regulations made under that Act being complied with. | All (except sections 118 and 119) |
+|  | 99C | Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against Crown Minerals Act 1991 or regulations made under that Act. | All (except sections 118 and 119 in the case of an enforcement officer) |
 | Customs and Excise Act 1996 | 139(1)(d) | Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 140 | Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against Customs and Excise Act 1996 or is carrying dutiable, uncustomed, prohibited, or forfeited goods | Subparts 1, 2, and 4 to 10 (except that sections 125(4), 131(5)(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
 |  | 144 | Customs officer or, in certain cases, constable may stop and detain vehicle to search it for various kinds of goods | Subparts 1 and 4 to 10 (except that sections 125(4), 131(5)(f), and 133 and subparts 6 and 8 do not apply to forfeited goods) |
