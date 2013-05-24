@@ -1,5 +1,5 @@
 # Wildlife Amendment Act 2013
-_Consolidation as at 2013-04-19_
+_Consolidation as at 2013-05-24_
 
 ### 1 Title
 This Act is the Wildlife Amendment Act 2013.
