@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2013-04-01_
+_Consolidation as at 2013-05-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2819,7 +2819,7 @@ Meaning
   (a) is carried on, or is proposed to be carried on,—
     (i) in New Zealand; and
     (ii) as a business; and
-    (iii) under an exploration permit, prospecting permit, or mining permit granted under the Crown Minerals Act 1991 or under an existing privilege as defined in section 106 of that Act; and
+    (iii) under an exploration permit, prospecting permit, or mining permit granted under the Crown Minerals Act 1991 or under an existing privilege as defined in section 2(1) of that Act; and
   (b) consists, or is proposed to consist, wholly or mainly of—
     (i) exploring, searching, or mining for a specified mineral in New Zealand; or
     (ii) performing development work for exploring, searching, or mining for a specified mineral in New Zealand.
@@ -2842,7 +2842,7 @@ How activities carried on
 (2) The person must carry on the activities described in subsection (1)(c), or propose to carry them on,—
   (a) personally and actively in the field; and
   (b) as a business; and
-  (c) under an exploration permit, prospecting permit, or mining permit granted under the Crown Minerals Act 1991 or under an existing privilege as defined in section 106 of that Act.
+  (c) under an exploration permit, prospecting permit, or mining permit granted under the Crown Minerals Act 1991 or under an existing privilege as defined in section 2(1) of that Act.
 Service for reward
 (3) An activity described in subsection (1)(c) does not include an activity done or to be done as a service to another person for reward unless the reward—
   (a) is wholly or mainly related to and dependent on the production of the specified mineral; or
@@ -26351,7 +26351,7 @@ Loss balances carried forward
 References in section
 (4) For the purposes of this section,—
   (a) a reference in this section to expenditure in exploring or searching for petroleum in an area that is or is subsequently comprised in an existing privilege that was a mining licence is taken as including a reference to expenditure in exploring or searching for petroleum in an area that is outside but continuous or geologically contiguous with the area, being exploring or searching that was included, whether originally or additionally, in the programme of exploring or searching as a consequence of which application was made for the existing privilege:
-  (b) permit area means an area, and may include more than 1 area, of an existing privilege referred to paragraph (d) of the definition of existing privilege in section 106 of the Crown Minerals Act 1991.
+  (b) permit area means an area, and may include more than 1 area, of an existing privilege referred to paragraph (d) of the definition of existing privilege in section 2(1) of the Crown Minerals Act 1991.
 Relationship with section IZ 2
 (5) Section IZ 2 overrides this section.
 
@@ -26640,7 +26640,7 @@ Amount of credit
 Definition of items in formula
 (3) The items in the formula are defined in subsections (4) to (6).
 Person's credit
-(4) Person's credit is, if the person's net income for the tax year is equal to or more than $24,000, $780. Otherwise it is zero.
+(4) Person's credit is, if the person's net income for the tax year is equal to or more than $24,000, $520. Otherwise it is zero.
 Full year abatement
 (5) Full year abatement is, if the person's net income is greater than $44,000 for the tax year, 13 cents for each complete dollar of the excess.
 Credit period months
@@ -37056,7 +37056,7 @@ In this Act, unless the context requires otherwise,—
   - **exemption certificate** means a certificate provided by the Commissioner under section 24M of the Tax Administration Act 1994
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
   - **existing farmer** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
-  - **existing privilege** is defined in section 106 of the Crown Minerals Act 1991, and includes mining privilege and mining licence under the Mining Act 1971 and prospecting licence or mining licence under the Petroleum Act 1937
+  - **existing privilege** is defined in section 2(1) of the Crown Minerals Act 1991, and includes mining privilege and mining licence under the Mining Act 1971 and prospecting licence or mining licence under the Petroleum Act 1937
   - **exit level** , for a multi-rate PIE, means the relationship of the entity’s tax liability to the value of the investor’s interest described in section HM 62 (Exit levels for investors)
   - **exit period** , for an investor in a multi-rate PIE, means a period set out in section HM 63 (Exit periods)
   - **expected life risk proportion** is defined in section EY 25 (Premium smoothing reserving amount: non-participation policies not annuities) for the purposes of that section
@@ -37986,10 +37986,10 @@ In this Act, unless the context requires otherwise,—
   - **mining operations** is defined in section CU 25 (Meaning of mining operations)
   - **mining or prospecting right** is defined in section CU 29 (Other definitions)
   - **mining outgoing excess** is defined in section DU 7(4) (Limit on deduction)
-  - **mining permit** is defined in section 2 of the Crown Minerals Act 1991 and includes an existing privilege under paragraphs (a) and (b) of the definition of in section 106 of that Act
+  - **mining permit** is defined in section 2 of the Crown Minerals Act 1991 and includes an existing privilege under paragraphs (a) and (b) of the definition of in section 2(1) of that Act
   - **mining permit area** means an area, and may include more than 1 area, of—
     (a) a mining permit; or
-    (b) an existing privilege referred to in paragraphs (a) and (b) of the definition of existing privilege in section 106 of the Crown Minerals Act 1991
+    (b) an existing privilege referred to in paragraphs (a) and (b) of the definition of existing privilege in section 2(1) of the Crown Minerals Act 1991
   - **mining prospecting information** is defined in section CU 29 (Other definitions)
   - **mining purposes** is defined in section CU 29 (Other definitions)
   - **mining share** is defined in section CU 29 (Other definitions)
